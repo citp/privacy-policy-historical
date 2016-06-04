@@ -1,112 +1,110 @@
-<!--The following is the downloaded HTML source of the footyheadlines.com privacy policy that was archived on 2015-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225175251id_/http%3A//www.footyheadlines.com/p/privace-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the footyheadlines.com privacy policy that was archived on 2016-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160604214221id_/http%3A//www.footyheadlines.com/p/privace-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><!--6.0;http://2.bp.blogspot.com/-uS_zy1nlbKI/UidDAaTk5iI/AAAAAAAAVSM/clIIzrem-7g/s1600/current_2.jpg;http://www.peseditblog.com/2013/09/peseditcom-2013-patch-60-coming-soon.html?currentnew--><!---4.4;http://1.bp.blogspot.com/-_H-7G2mURHg/U4nr1Skm69I/AAAAAAAAXw4/CgMuta8mfCQ/s1600/current.jpg;http://www.peseditblog.com/2014/05/pesedit-com-2014-patch-4-4-released.html?SelO--><!--|86;-;First PES 2016 Trailer Released;http://www.peseditblog.com/2015/06/pes-2016-teaser-trailer-revealed.html?selo--><!--|87;-;Neymar Announced as PES 2016 Cover Star;http://www.peseditblog.com/2015/06/neymar-announced-as-pes-2016-cover-star.html?selo--><head>
 <meta content="initial-scale = 1, user-scalable = no" name="viewport">
 <script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 //<![CDATA[
 
-//image size
-function changeImageSize(mobile){
-var width = 738;
 var windowWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
-
-if (windowWidth < 805) {
-
-//console.log(windowWidth);
-
-//console.log(document.querySelector(".post").innerHTML);
-
-var div = document.querySelector(".post").innerHTML = document.querySelector(".post").innerHTML.replace(/^((?:.(?!<\/a>))*)((?:<a href=\"(?:.(?!noscroll))*<img(?:.(?!noscroll))*<\/a>){2,5}(?:<br>|<\/div>){0,2})\n/mg, "$1<div class=\"mobile-images-scroll\"><div class=\"mobile-images\">$2</div></div>").replace(/(<a .*noscroll.*)(?:<br>){0,1}/g, "<div class=\"mobile-images-scroll\"><div class=\"mobile-images noscroll\">$1</div></div>");
-
-//new Regex ^((?:<a href=\"(?:.(?!noscroll))*<img(?:.(?!noscroll))*<\/a>){2,5}(?:<br>){0,1})\n/mg
-//old Regex (<a href=\".*<img(.(?!noscroll))*<a href=\"(.(?!noscroll))*<\/a>)(?:<br>){0,1}/g
-//new Regex2 ^((?:<a href=\"(?:.(?!noscroll))*<img(?:.(?!noscroll))*<\/a>){2,5}(?:<br>|<\/div>){0,2})\n/mg
-//new Regex3 (^|<\/h2>|<\/div>)((?:<a href=\"(?:.(?!noscroll))*<img(?:.(?!noscroll))*<\/a>){2,5}(?:<br>|<\/div>){0,2})\n/mg
-
-var imagesArray = document.getElementsByTagName("img");
-
-for (var i=0; i<imagesArray.length;i++)
-{
-(function(image){
-if (image.className.indexOf("nocalc") < 0) {
-if (image.parentNode.parentNode.parentNode.className.indexOf("post-body") > -1 | image.parentNode.parentNode.parentNode.parentNode.parentNode.className.indexOf("post-body") > -1 | image.parentNode.parentNode.className.indexOf("post-body") > -1 | image.parentNode.className.indexOf("post-body") > -1 | image.parentNode.parentNode.className.indexOf("slide") > - 1 && image.className != "kitCollToTop" && image.parentNode.parentNode.parentNode.className.indexOf("league-table") < 0 && image.parentNode.className.indexOf("image-switch") < 0 && image.parentNode.className.indexOf("slide") < 0)
-{
-if (mobile == 1) {
-image.parentNode.removeAttribute("href");
+var mobile = 0;
+if (windowWidth <= 450) {
+    mobile = 1;
 }
 
-var tempwidth = image.clientWidth;
-var tempheight = image.clientHeight;
-//console.log(tempwidth);
-if (tempwidth != 0)
-{
-var size = image.clientWidth + 10;
-size = (size/width*100).toFixed(3)-1;
+Array.prototype.indexOf||(Array.prototype.indexOf=function(r,t){var n;if(null==this)throw new TypeError('"this" is null or not defined');var e=Object(this),i=e.length>>>0;if(0===i)return-1;var a=+t||0;if(Math.abs(a)===1/0&&(a=0),a>=i)return-1;for(n=Math.max(a>=0?a:i-Math.abs(a),0);i>n;){if(n in e&&e[n]===r)return n;n++}return-1});
 
-//console.log(size);
+function adjustImage(image) {
+    var width = 738;
+    var size = image.clientWidth + 10;
+	var tempwidth = image.clientWidth;
+	var tempheight = image.clientHeight;
+	var hasSibling = true;
+	var ratio = tempwidth / tempheight;
+    size = (size / width * 100).toFixed(3) - 1;
+	
+	if ((image.parentNode.previousElementSibling == null || image.parentNode.previousElementSibling.getElementsByTagName('IMG').length == 0) & (image.parentNode.nextElementSibling == null || image.parentNode.nextElementSibling.getElementsByTagName('IMG').length == 0)) {
+		hasSibling = false;
+	}
 
-if ((image.parentNode.previousElementSibling == null || image.parentNode.previousElementSibling.getElementsByTagName('IMG').length == 0) & (image.parentNode.nextElementSibling == null || image.parentNode.nextElementSibling.getElementsByTagName('IMG').length == 0))
-{
-	if (size > 50)
-		size = 100;
-	else size = 70;
-}
-else {
-size = size + 0.3;
-}
-if (size >= 100 & tempwidth / tempheight < 1.35 & mobile == 0) {
-console.log("ttt");
-image.style.width = "70%";
-}
-else if (size >= 100 & tempwidth >= tempheight) {
-console.log("ttt");
-	image.style.width = "calc(100% + 40px)";
-	image.style.marginLeft = "-20px";
-	image.style.maxWidth = windowWidth + "px";
-}
-else
-{
-console.log("ttt");
-image.style.width = size + "%";
-}
-}
-else
-{
-image.onload=function(e){
-var size = image.clientWidth + 10;
-tempwidth = image.clientWidth;
-var tempheight = image.clientHeight;
-//console.log(size);
-size=(size/width*100).toFixed(3)-1;
-
-if ((image.parentNode.previousElementSibling == null || image.parentNode.previousElementSibling.getElementsByTagName('IMG').length == 0) & (image.parentNode.nextElementSibling == null || image.parentNode.nextElementSibling.getElementsByTagName('IMG').length == 0))
-{
-	if (size > 50)
-		size = 100;
-	else size = 70;
-}
-else {
-size = size + 0.3;
-}
-if (size >= 100 & tempwidth / tempheight < 1.35 & mobile == 0) {
-image.style.width = "70%";
-}
-else if (size >= 100 & tempwidth >= tempheight) {
-	image.style.width = "calc(100% + 40px)";
-	image.style.marginLeft = "-20px";
-	image.style.maxWidth = windowWidth + "px";
-}
-else
-image.style.width = size + "%";
-}
+    if (!hasSibling) {
+        if (size > 50) {
+            size = 100;
+		} else {
+			size = 70;
+		}
+    } else {
+        size = size + 0.3;
+    }
+	
+	if (mobile == 0) {
+		if (size >= 100) {
+			if (ratio < 0.8) {
+				size = 65;
+				image.style.width = "65%";
+			} else if (ratio < 1.1) {
+				size = 75;
+				image.style.width = "70%";
+			} else if (ratio < 1.2) {
+				size = 85;
+				image.style.width = "85%";
+			}
+		}
+	}
+	
+    if (size >= 100) {
+        image.style.width = "calc(100% + 40px)";
+        image.style.marginLeft = "-20px";
+    } else {
+        image.style.width = size + "%";
+    }
+	
+	if (size < 100 & !hasSibling) {
+		image.style.display = "block";
+		image.style.margin = "0 auto";
+	}
 }
 
-}
-}
-})(imagesArray[i]);
-}
-}
+//image size
+function changeImageSize() {
+
+    if (windowWidth < 805) {
+        //console.log(windowWidth);
+        //console.log(document.querySelector(".post").innerHTML);
+
+        var div = document.getElementById("item-post").innerHTML = document.getElementById("item-post").innerHTML.replace(/^((?:.(?!<\/a>))*)((?:<a href=\"(?:.(?!noscroll))*<img(?:.(?!noscroll))*<\/a>){2,5}(?:<br>|<\/div>){0,2})\n/mg, "$1<div class=\"mobile-images-scroll\"><div class=\"mobile-images\">$2</div></div>").replace(/(<a .*noscroll.*)(?:<br>){0,1}/g, "<div class=\"mobile-images-scroll\"><div class=\"mobile-images noscroll\">$1</div></div>");
+
+        //new Regex ^((?:<a href=\"(?:.(?!noscroll))*<img(?:.(?!noscroll))*<\/a>){2,5}(?:<br>){0,1})\n/mg
+        //old Regex (<a href=\".*<img(.(?!noscroll))*<a href=\"(.(?!noscroll))*<\/a>)(?:<br>){0,1}/g
+        //new Regex2 ^((?:<a href=\"(?:.(?!noscroll))*<img(?:.(?!noscroll))*<\/a>){2,5}(?:<br>|<\/div>){0,2})\n/mg
+        //new Regex3 (^|<\/h2>|<\/div>)((?:<a href=\"(?:.(?!noscroll))*<img(?:.(?!noscroll))*<\/a>){2,5}(?:<br>|<\/div>){0,2})\n/mg
+
+        var imagesArray = document.getElementsByTagName("img");
+
+        for (var i = 0; i < imagesArray.length; i++) {
+            (function(image) {
+                if (image.className.indexOf("nocalc") < 0) {
+                    if (image.parentNode.parentNode.parentNode.className.indexOf("post-body") > -1 | image.parentNode.parentNode.parentNode.parentNode.parentNode.className.indexOf("post-body") > -1 | image.parentNode.parentNode.className.indexOf("post-body") > -1 | image.parentNode.className.indexOf("post-body") > -1 | image.parentNode.parentNode.className.indexOf("slide") > -1 && image.className != "kitCollToTop" && image.parentNode.parentNode.parentNode.className.indexOf("league-table") < 0 && image.parentNode.className.indexOf("image-switch") < 0 && image.parentNode.className.indexOf("slide") < 0 && image.parentNode.parentNode.className.indexOf("league-table") < 0) {
+                        if (mobile == 1) {
+                            image.parentNode.removeAttribute("href");
+                        }
+
+                        var tempwidth = image.clientWidth;
+                        var tempheight = image.clientHeight;
+
+                        if (tempwidth != 0) {
+							adjustImage(image);
+                        } else {
+							image.onload=function(e){
+								adjustImage(image);
+							}
+                        }
+
+                    }
+                }
+            })(imagesArray[i]);
+        }
+    }
 }
 
 //image comparison
@@ -144,49 +142,13 @@ div.innerHTML = summary;
 
 function createThumb(pID, postThumb){
 var el = document.getElementById(pID);
-el.src = postThumb.replace('/s72-c/','/w780/'); 
+var str = "/w780/";
+
+if (windowWidth <= 450) {
+	str = "/w400/";
 }
 
-function createThumbMobile(pID, postThumb, isFirst){
-var div = document.getElementById(pID);
-div.src = bp_thumbnail_resize_mobile(postThumb,isFirst); 
-}
-
-function addBeforeH2(pID, postUrl){
-	var div = document.getElementById(pID);
-var strx=div.innerHTML;
-
-	if(strx.indexOf("<h2>")!=-1)
-	{
-		var s = strx.split("<h2>");
-  strx = s[0];
-	}
-else
-{
-strx='';
-}
-
-	
-    div.innerHTML = strx;
-  
-}
-function addAfterH2(pID, postUrl){
-var div = document.getElementById(pID);
-var strx=div.innerHTML;
-
-  if(strx.indexOf("<h2>")!=-1)
-  {
-		var s = strx.split("<h2>");
-
-strx='';
-
-		for(var i=1;i<s.length;i++){
-strx=strx+'<h2>'+s[i];
-		} 
-  }
-	
-    div.innerHTML = strx;
-  
+el.src = postThumb.replace('/s72-c/',str); 
 }
 
 function trimBr(string) {
@@ -194,104 +156,6 @@ string = string.trim();
 string = string.replace(/^<br>|<br>$/g, "");
 string = string.trim();
 return string.replace(/^<br>|<br>$/g, "");
-}
-
-function mobilePostAds(pID) {
-    var div0 = document.getElementById(pID + "_0");
-    var div1 = document.getElementById(pID + "_1");
-    var div2 = document.getElementById(pID + "_2");
-    var div3 = document.getElementById(pID + "_3");
-    var strx1 = div1.innerHTML;
-    var strx0 = "",
-        strx2 = "",
-        strx3 = "";
-
-    if (strx1.indexOf("<br>") != -1) {
-		var s0 = strx1.split("<br>");
-		strx0 = s0[0];
-		strx1 = "";
-		
-		var firstAd = 0;
-		
-		for (var i=1; i<s0.length; i++) {
-		
-		if (firstAd == 0)
-			strx1 += s0[i] + "<br>";
-		else if (firstAd == 1)
-			strx2 += s0[i] + "<br>";
-		else
-			strx3 += s0[i] + "<br>";
-		
-		if ((s0[i].indexOf("img") > 0 || s0[i].indexOf("table") > 0) && (s0[i].indexOf("h2") > 0 | s0[i-1].indexOf("h2") > 0 | s0[i-2].indexOf("h2") > 0)) {
-		firstAd++;
-		//console.log(s0[i]);
-		}
-		
-		}
-		
-		if (strx3 == "" && strx2.indexOf("img") > 0) {
-		s0 = strx2.split("<br>");
-		strx2 = "";
-		
-		firstAd = 0;
-		
-		for (var i=0; i<s0.length; i++) {
-		
-		if (firstAd == 0)
-			strx2 += s0[i] + "<br>";
-		else
-			strx3 += s0[i] + "<br>";
-		
-		if (s0[i].indexOf("img") > 0) {
-		firstAd++;
-		}
-		
-		}
-		}
-		else if (strx2 == "" && strx3 == "" && strx1.indexOf("h2") > 0) {
-		s0 = strx1.split("<h2>");
-		strx1 = "";
-		
-		for (var i=0; i<s0.length; i++) {
-		if (i > 0)
-		s0[i] = "<h2>" + s0[i];
-		if (i < s0.length - 3) {
-		strx1 += s0[i];
-		} else if (i < s0.length - 2) {
-		strx2 += s0[i];
-		} else {
-		strx3 += s0[i];
-		}
-		}
-		}
-		else if (strx2 == "" && strx3 == "") {
-		s0 = strx1.split("<br>");
-		strx1 = "";
-		
-		
-		for (var i = 0; i < s0.length; i++) {
-			if (i < (s0.length / 2)) {
-			strx1 += s0[i];
-			}
-			else {
-			strx2 += s0[i];
-			}
-		}
-		}
-    } else {}
-	
-	strx1 = trimBr(strx1);
-	strx2 = trimBr(strx2);
-	strx3 = trimBr(strx3);
-
-    div0.innerHTML = strx0;
-    div1.innerHTML = strx1;
-    div2.innerHTML = strx2;
-    div3.innerHTML = strx3;
-	
-	if (strx3 == "") {
-	div3.parentNode.parentNode.removeChild(div3.parentNode);
-	}
 }
 
 function adjustDate (pID)
@@ -317,55 +181,160 @@ else
 document.getElementById(pID).innerHTML = message;
 }
 
-function desktopPostAds(pID) {
-var div0 = document.getElementById(pID + "_0");
-var div1 = document.getElementById(pID + "_1");
-
-var strx0 = div0.innerHTML;
-var strx1 = "";
-var firstAd = 0;
-
-var s = strx0.split("<br>");
-strx0 = s[0] + "<br>";
-
-for (var i = 1; i < s.length; i++) {
-if (firstAd == 0)
-	strx0 += s[i] + "<br>";
-else{
-	strx1 += s[i] + "<br>";
-	}
-	
-if ((s[i].indexOf("img") > 0 || s[i].indexOf("table") > 0) && (s[i].indexOf("h2") > 0 | s[i-1].indexOf("h2") > 0 | s[i-2].indexOf("h2") > 0)) {
-	firstAd++;
-	}
+function insertAfter(newNode, referenceNode) {
+    referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
 }
 
-if (strx1 == "") {
-console.log("strx1 is empty.");
+function PostAds() {
+    var div0 = document.getElementById("summary_0");
+    if (div0.innerHTML.length <= 1) {
+        var div1 = document.getElementById("summary_1");
+        var div2 = document.getElementById("summary_2");
+        var div3 = document.getElementById("summary_3");
 
-//var half = Math.round(s.length * 0.45);
+        var strx0 = div1.innerHTML;
+        var strx1 = "",
+            strx2 = "",
+            strx3 = "";
+        var firstAd = 0;
 
-s = strx0.split("<h2>");
-strx0 = s[0];
+        var s = strx0.split("<br>");
+        strx0 = "";
+		
+		//console.log(s);
 
-for (var i = 1; i < s.length; i++) {
-	strx1 += "<h2>" + s[i];
-}
-}
+        var temp = 0;
+        var firstMobileAd = 1;
 
-//console.log(strx1);
+        for (var i = 0; i < s.length; i++) {
 
-div0.innerHTML = trimBr(strx0);
-div1.innerHTML = trimBr(strx1);
+            if (i == 1 && windowWidth < 850 & firstMobileAd == 1) {
+                if (s[i + 1].indexOf("img") < 0 && s[i + 1].indexOf("gettyimages.com") < 0 && s[i + 1].indexOf("video-container")) {
+                    firstAd++;
+                } else
+                    firstMobileAd = 3;
+            }
 
-//console.log(div1.innerHTML);
-}
+            if (i == 0 && windowWidth > 850) {
+                firstAd++;
+            } else if (i == 3 & firstMobileAd == 3) {
+                firstAd++;
+            }
 
-function bp_thumbnail_resize_mobile(image_url,isFirst)
-{
-var image_size = "w400";
+            if (firstAd == 0)
+                strx0 += s[i] + "<br>";
+            else if (firstAd == 1)
+                strx1 += s[i] + "<br>";
+            else if (firstAd == 2)
+                strx2 += s[i] + "<br>";
+            else
+                strx3 += s[i] + "<br>";
 
-return image_url.replace('/s72-c/','/'+image_size+'/');
+            if (s[i].indexOf("img") > 0 || s[i].indexOf("table") > 0 || s[i].indexOf("gettyimages.com") > 0 || s[i].indexOf("video-container") > 0) {
+                if (s[i].indexOf("<h2>") > 0 | (i > 1 && s[i - 1].indexOf("<h2>") > 0) | (i > 2 && s[i - 2].indexOf("<h2>") > 0)) {
+                    if (windowWidth <= 850 | firstAd < 2) {
+                        firstAd++;
+                    }
+                }
+            }
+        }
+
+        if (strx2 == "") {
+            console.log("strx2 is empty.");
+
+            s = strx1.split("<br>");
+            var tempstrx = strx1;
+            strx1 = "";
+
+            if (tempstrx.indexOf("img") < 0 && tempstrx.indexOf("gettyimages.com") < 0 && tempstrx.indexOf("table") < 0 && tempstrx.indexOf("video-container") < 0) {
+				console.log("0");
+                for (var i = 0; i < s.length; i++) {
+                    if (i < (s.length / 3)) {
+                        strx1 += s[i] + "<br>";
+                    } else if (i < (s.length / 3 * 2) || windowWidth > 850) {
+                        strx2 += s[i] + "<br>";
+                    } else {
+                        strx3 += s[i] + "<br>";
+                    }
+                }
+            } else {
+				console.log("1");
+                firstAd = 0;
+
+                for (var i = 0; i < s.length; i++) {
+
+                    if (firstAd == 0)
+                        strx1 += s[i] + "<br>";
+                    else if (firstAd == 1)
+                        strx2 += s[i] + "<br>";
+                    else
+                        strx3 += s[i] + "<br>";
+
+                    if ((s[i].indexOf("img") > 0 || s[i].indexOf("table") > 0 || s[i].indexOf("gettyimages.com") > 0  || s[i].indexOf("video-container") > 0) && s[i].indexOf("hiddenImg") < 0) {
+                        if (windowWidth <= 805 | firstAd < 1) {
+                            firstAd++;
+                        }
+                    }
+                }
+            }
+        }
+
+        if (strx3 == "" && windowWidth <= 850) {
+            console.log("strx3 is empty.");
+
+            s = strx2.split("<br>");
+            var tempstrx = strx2;
+            strx2 = "";
+
+            if (tempstrx.indexOf("img") < 0 && tempstrx.indexOf("gettyimages.com") < 0 && tempstrx.indexOf("table") < 0 && tempstrx.indexOf("video-container") < 0) {
+                for (var i = 0; i < s.length; i++) {
+                    if (i < (s.length / 2)) {
+                        strx2 += s[i] + "<br>";
+                    } else {
+                        strx3 += s[i] + "<br>";
+                    }
+                }
+            } else {
+                firstAd = 0;
+
+                for (var i = 0; i < s.length; i++) {
+
+                    if (firstAd == 0)
+                        strx2 += s[i] + "<br>";
+                    else
+                        strx3 += s[i] + "<br>";
+
+                    if (s[i].indexOf("img") > 0 || s[i].indexOf("table") > 0 || s[i].indexOf("gettyimages.com") > 0 || s[i].indexOf("video-container") > 0) {
+                        firstAd++;
+                    }
+                }
+            }
+        }
+		
+		/*
+		if (strx3.length > 2000 && (strx3.indexOf("img") > 0 || s[i].indexOf("table") > 0 || s[i].indexOf("gettyimages.com") > 0)) {
+			console.log("Adding extra ad units.");
+			console.log(strx3.length);
+		}
+		*/
+
+        strx0 = trimBr(strx0);
+        strx1 = trimBr(strx1);
+        strx2 = trimBr(strx2);
+        strx3 = trimBr(strx3);
+
+        div0.innerHTML = strx0;
+        div1.innerHTML = strx1;
+        div2.innerHTML = strx2;
+        div3.innerHTML = strx3;
+
+        if (strx2 == "") {
+            div2.parentNode.removeChild(div2);
+        }
+        if (strx3 == "") {
+            div3.parentNode.removeChild(div3);
+        }
+    }
 }
 
 //]]>
@@ -381,22 +350,22 @@ return image_url.replace('/s72-c/','/'+image_size+'/');
 <link rel="alternate" type="application/atom+xml" title="Footy Headlines - Atom" href="http://www.footyheadlines.com/feeds/posts/default">
 <link rel="alternate" type="application/rss+xml" title="Footy Headlines - RSS" href="http://www.footyheadlines.com/feeds/posts/default?alt=rss">
 <link rel="service.post" type="application/atom+xml" title="Footy Headlines - Atom" href="https://www.blogger.com/feeds/7535398437004525886/posts/default">
+<meta content="http://www.footyheadlines.com/p/privace-policy.html" property="og:url">
 <!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
 <title>Footy Headlines: Privacy Policy</title>
 <meta content="article" property="og:type">
 <meta content="100000817041240" property="fb:admins">
 <meta content="Footy Headlines" property="og:site_name">
-<meta content="http://www.footyheadlines.com/p/privace-policy.html" property="og:url">
+<!-- <meta expr:content='data:blog.canonicalUrl' property='og:url'/> <b:if cond='data:blog.postImageUrl'> <meta expr:content='data:blog.postImageUrl' property='og:image'/> </b:if> -->
 <meta content="https://www.facebook.com/FootyHeadlines" property="article:publisher">
 <meta content="https://www.facebook.com/FootyHeadlines" property="article:author">
 <meta content="summary" property="twitter:card">
 <meta content="@Footy_Headlines" property="twitter:site">
 <meta content="@Footy_Headlines" property="twitter:creator">
 <meta content="footyheadlines.com" property="twitter:domain">
-<!--<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans:700,400&#38;subset=latin,latin-ext' type='text/css' media='screen' />-->
-
-<!-- <link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/1708208307-widget_css_bundle.css' />
-<link type='text/css' rel='stylesheet' href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7535398437004525886&zx=8ce0f98d-6b49-42b3-94a9-24f19bbd9097' />
+	
+<!-- <link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/1590551230-widget_css_bundle.css' />
+<link type='text/css' rel='stylesheet' href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7535398437004525886&zx=4cc9cb10-42fe-4a05-9129-fd39bde87c84' />
 <style type='text/css'></style> -->
 <style id="page-skin-1" type="text/css"><!--
 /*
@@ -408,15 +377,23 @@ padding: 0;
 text-decoration: none;
 color: #252525;
 font-family: "Open Sans", Helvetica, Arial;
+box-sizing: border-box;
 }
-.mobile-yes {
-display: none;
+input, textarea {
+font-size: 1em;
+padding: 5px;
 }
-.mobile .mobile-no {
-display: none;
+input.textfield, .textarea {
+margin-top: 10px;
+padding: 3px;
 }
-.mobile .mobile-yes {
-display: initial;
+input.textfield {
+width: 300px;
+max-width: 100%;
+}
+.textarea {
+width: 600px;
+max-width: 100%;
 }
 .cc_banner-wrapper {
 z-index: 9001;
@@ -597,12 +574,27 @@ max-height: 440px;
 overflow: hidden;
 position: relative;
 /* margin: 0 20px 0 0; */
+font-size: 0;
 }
 .post.index {
 margin: 20px 20px 0 0;
 padding: 0;
 overflow: hidden;
 background: #FFFFFF;
+}
+.video-icon {
+display: none;
+}
+.post.video .video-icon {
+display: block;
+background-image: url(http://i.imgur.com/mCXMyjd.png);
+width: 70px;
+height: 70px;
+position: absolute;
+top: 50%;
+left: 50%;
+margin-top: -35px;
+margin-left: -35px;
 }
 .disqus-container {
 margin: 20px 20px 0 0;
@@ -617,8 +609,6 @@ margin: 0 auto 30px;
 margin: 20px auto;
 }
 .ad {
-width: 728px;
-height: 90px;
 margin: 20px 0;
 }
 .post-body a[href] {
@@ -633,6 +623,7 @@ text-decoration: underline;
 .post-body a[href*="bp.blogspot.com"] {
 border: none;
 z-index: 0;
+font-size: 0;
 }
 .post-body a:hover {
 border-color: #252525;
@@ -652,18 +643,6 @@ float: none;
 }
 .disqus-comment-count {
 color: #999;
-}
-.mobile .disqus-comment-count {
-color: #252525;
-}
-.mobile .disqus-container {
-background: #FFFFFF;
-padding: 10px;
-margin: 0 20px 20px 20px;
-}
-.mobile #button-disqus {
-font-size: 19px;
-font-weight: bold;
 }
 /* nav-message */
 .nav-message-container {
@@ -934,11 +913,6 @@ width: 45%;
 float: right;
 margin: 0 0 1em 0.8em;
 }
-.mobile q.left, .mobile q.right{
-width: 100%;
-float: none;
-margin: 0 0 1em 0;
-}
 /* sidebar likeboxes */
 .sidebar-social {
 overflow: hidden;
@@ -967,9 +941,6 @@ background: #517fa4;
 .likebox.in:hover{
 background: #598bb5;
 }
-.icon-shares, .icon-comments, .icon-time, .icon-time-item, .fb-sidebar, .tw-sidebar, .in-sidebar, #siteLogo > div, .slideshow-arrow > div {
-background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAMAAADDpiTIAAABhlBMVEUAAAD/iB//////iB//iB//iB//iB//////iB//////iB//iB//iB//////iB//iB+ZmZn///+4uLj///////8lJSUlJSX////IyMglJSUlJSWZmZmZmZmZmZklJSWZmZklJSWZmZklJSX///8lJSX///////////8lJSX///+ZmZmZmZklJSWZmZn///////////+ZmZklJSUlJSWZmZklJSUlJSX///+ZmZklJSX///8lJSX///8lJSX///////////+ZmZklJSX///////////////+ZmZmZmZmZmZmZmZklJSX///+ZmZklJSX///////////////////+ZmZn///////+ZmZmZmZklJSWZmZklJSX///////+ZmZklJSWZmZklJSX///////////////////+ZmZn///////////////8lJSWZmZn///8lJSWZmZklJSWZmZn/iB8AAAD///+ZmZklJSUeHh5PT0/MzMw/Pz/GxsZERETDw8PAwMDQ0NA8PDz2B0hDAAAAc3RSTlMAdzMbwaJEPGbh1YhVLDPp4mkIWvvhzswD+x7rzDMzHsX87+3mvpUVFBD03d3FVh8aEgWyr6ePgYCAeQvqvo+JZk9PJefdxb6mlnNzXUtLPzDz1tHQr52MZWVWVlBJQUE6Ogm5mWw2tqVyYzkoGbSYJ5wq0TJLTgAACgpJREFUeNrs3Ltu6kAUheH1CMhS0DGQYCMK5EvhGzJCFNBwiaCKBAGJQJUmUXJOsef1j40JmCRPMF5f5Qf4rfFsjwZERERERERERERUIX9iKZnjJIxUyV+QvmZyY41com70QdqSWzXk1K07kLYYQMUxgIpjABXHACqOAVQcA6i4VG5skBuoG88gfa1bLUecVmGBQr9e7yizXngE6c23x/jBMiegavAX+Mnii18ZG/yCCz8REZHujNS3bT81UDYcWKZpDYYg3e1dcaZTR9w9rl48ZY5GpvJeQHobS22M9jvGzdI0YKLuJmj0MOlyGqC5wKm9A/EaaDebAQq9TrcBRH2g0e30QBpLZQngdQZgKwsUBmoFYJQA2CkOhLT2VEPG9wH8abZQqN8hY1kAwo4F0pgdXzOYNlEwo2sGoy5IY84rMjOZGaUAOhEyiUpCBqC74t03ZjINvi8BYaJGQy4BmktljNxcNuWPwAlyffXMj0DNBU6tjdzh+zYwd+Q2UHtjaW6R2TbtZWkQ1N0hs+uaK5De9q7Yvm+Le/g2CrYsU3lHkO6MRey68cJA2fAx8bzkkT+DiIiIiDR32OCnI08HV8ZB0l8CUAOQxuTE3QR5ALLGiTrxnnvAkVcE6U1ysYH9vOWKyMy4BBAN8dKve9lTEoJ0JbK8vzfep3IWFwGsHh7C3kidRSBdibQB40nOnH0RQAMI6+qsw6PB+joFMBex4/mrSPMelwD6SpnRR6RU5wGkrTyAtu2kAbCU2j9cAmiY5qAHrFT3DaSvPID06ROZpdvGNYBB/Q2ZldcAaSwPYB0g9xkY82sA/R5yb73hB0hfeQAGCoZfuwYQojC0eEeUzvJt4JetXAJYPXzZ8ZIwrUnZVwC8Ja46GADRf/bMdsVxGIaiMv4gxCF5WL8/LPIlo9TrFg0bSFnu+dFKE8UN1YnHcQkhhBBCCCGEEEIIIYQQQv472g9BRGJIraUQBVha2oVy6Mt5+nEZ6RJYebLjVqEc+CQ70+Kg71UD5MNosSacTW4VYD/jXRRLBwEqylFRfQJEJOi4sX0QYH0nwHIatAu5UYBoSRR5SV8F2NAdtGfzCVCQFFQYcS4Ajs0FsAtbhdwgQOgUfOs5wwZ5SaNWnLVRTkfy2DoLbOBFlHBqZh/ah64fBNgQyDBaxYWhgvwDw/S74hvt9/eQDrXZJu/8QQDp2Ckot2MLhn4rQH0RQCbXWYXcJQBiex9TC9CWiiVAcAqQWtPGpXnpXIBjJoAlfTjyhABRb110J/oE0Lx31S2AEinAyHcIIEfvTtab1CMAlAkJwvgFWN4KsItIKYWPAY8IgHXYpn+oLgHwEFCyvrgFyK3lqQBZDwp5TgD0s+7op0MArPeidnNxC6CnTAVYMDmQxwRAvKI5PgG0tncuuAWIOtMPAoBDU87+jwqQ1YDW8mRHYdgHKD8PAX3eSG4BtM+hB+NopXEOuIt28ksBljY2oV25pOG8aXNfCR5+AXQRAAHG0RYa8KwAtrXvFQCB5n4BdKfnbwFowFcIICv24p0C7GhXwv9upwAqWZoIYAYUIXf9FvBbASr2ap2LwA3dwhayVwBZRzeBGXAIeWgRiIVY8QoQ7Le94BegTgTgw+CXCIDMK0DWDE3LfgG2mQDcD/rDvhmtQAgCUXTEERZa8GPn/2EXLrW66GAlhHDPq9BLpyg9s6IAagc6LoC0BcBF0KsIWUIAKzghgHoCCAVYRoBoBXFcgEABHB4IQq4JgC/GFL4gJx0LQvCW7wQhUeTNJmyuAF4S5ggwkoSF/Y8BOWmVhFVZWi0AlppJWN6SsQiaK4AXhV4TAChuWTxSolYUCsK/AMncKNQYhk8UwMvCbwqg+xqOg+zHS1wBgvWycO4EThfAGQy5K0AupwNyNRjiCAAHe4Mhphuff0IIIYQQQggh5MN+HbsoCIZxHP/REg0NV4LuotJSbkIcKmROQabUVMt1Fxc3//7/M1809VS6TeH9jM/6fF943v85qwobxWsNNQvH0DlR1QitIlfV1eMOGRtS3y3ZzkXVRacwhrBHzcykcLWxWIZLSH23ZTvFQll0YDUAW1mjQrsy935VaEDqPTZQ33zfD0n+oMxgLYAvslqAw7LYsqaQeo4N9khFYtFPNoVtcQOYJL0ZCosDS3TTiBeQeo51+d6n9QDOfDBnKHwyldyQm7Mq2EDqu9cD8JlSPvC0Zjby8pnLimQFqfdeD+CNqQlKNhR0T6z6mxXyEzgEbOBoAO6dAdTPwsT0x5bLCnkADAGfgvsK1jwhhRcCWOnsAGkAWAjFi9VODQFMR6ORl0UyetCQ2Y33HQXokAaAuYkFQTP+BjBh2QGCRwZsFUIaAJIn3yF5R+4mZu0BxBDO7GJCGgCSc1xIblAISAfT9gCOEGYBO8whDcAv+3bMmjAQhnH8JZtDhraByy5GXBK3Qgg6SJwC1haddLEqouD2fP9iYgqHF5PRF57fnO3+vMnlknKlPgC8yz8DRM8CmMhdgWYBNwEqVBPA3rXnLRPgILUUTXgSpEQZwMya2AmAc+OLIFvcR4ONkAbV0veAfCd3KyAYdgsg9BYrOOWhkAZVACmAdSilM4CVdJwAcz4CKlet1a4HwBxFJDkBCGZdA7gEcBpwAChRBSD+EgCWJsNNIV0DkNhZQMaDIC3qab3IUAvepHsAss3xaCukRB2ADKMApasvLQHYwnj/DdunkBZlAJVRPN1H57FIewC2OINlKqQGgEIcugewGcASHIT0APB79BwmrQH44nvxugfbz0VIkQxPzJ4G8DXAg/6B+z9dJmg2l5ZbwOJkbwJNyhMgbXZ7NDFjVwC2UREZ3GTmmvIrYJWGnlvius4Xl4Q/ABARERERERERERERERERvZg/9uwYB2EgBqIoh7YlQhYCN6dALgzRKoiKmf+vMK/wauOHTvT/AcA8AJgHAPMAYB4AzAOAeQAwL6rLEodab2cACBVVZhGYz58JAKWiyiwC8/kBoFUDMCewbpkAUKsBaAR25geAXh3Ai8A1PnpsmQBQrAHoBPr8ANBsH8DyfvwBQLWo9uev1gEAzY4fgQMAin3zDBwA0KsBuC8x7ToAoFZUbf4JAQBoFVWbf0oAAEpFj+9gtwBgHgDMA4B5ADAPAOYBwDwAPNmDAwEAAAAAIP/XRlBVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVdiDAwEAAAAAIP/XRlBVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVFfbgQAAAAAAAyP+1EVRVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVpT04EAAAAAAQ5G+9wQQVAAAAAAAAAAAAAAAAAAAAAACwAh/u7RMWmwMIAAAAAElFTkSuQmCC");
-}
 .fb-sidebar, .tw-sidebar, .in-sidebar {
 display: block;
 margin: 0 auto;
@@ -985,7 +956,7 @@ width: 36px;
 height: 30px;
 }
 .in-sidebar{
-background-position: 0px -105px;
+background-position: -4px -105px;
 width: 30px;
 height: 30px;
 }
@@ -996,12 +967,6 @@ max-width: 100%;
 overflow: hidden;
 font-size: 0;
 }
-.mobile .image-switch {
-margin-left: -20px;
-width: 120%;
-width: calc(100% + 40px);
-max-width: none;
-}
 .image-switch img {
 width: 100%;
 position: relative;
@@ -1010,10 +975,6 @@ margin: 0 0 0 -100% !important;
 padding: 0 !important;
 left: 100%;
 top: 0;
-transition: all 400ms ease-out;
--webkit-transition: all 400ms ease-out;
--moz-transition: all 400ms ease-out;
--o-transition: all 400ms ease-out;
 }
 .image-switch img.first {
 opacity: 0;
@@ -1055,6 +1016,12 @@ overflow: hidden;
 position: relative;
 font-size: 0;
 }
+.slideshow-wrapper.square {
+width: 600px;
+}
+.slideshow-wrapper.portrait {
+width: 450px;
+}
 .slideshow-arrow {
 position: absolute;
 cursor: pointer;
@@ -1090,10 +1057,10 @@ margin-top: -15px;
 position: absolute;
 top: 50%;
 opacity: 0.6;
-transition: all 100ms ease-out;
--webkit-transition: all 100ms ease-out;
--moz-transition: all 100ms ease-out;
--o-transition: all 100ms ease-out;
+transition: opacity 100ms ease-out;
+-webkit-transition: opacity 100ms ease-out;
+-moz-transition: opacity 100ms ease-out;
+-o-transition: opacity 100ms ease-out;
 }
 .slideshow-arrow:hover > div {
 opacity: 1;
@@ -1107,18 +1074,21 @@ background-position: -30px -149px;
 }
 .slideshow {
 white-space: nowrap;
-display: inline;
+//display: inline;
 width: auto;
 padding: 0 !important;
 font-size: 0;
+will-change: transform;
+}
+.slideshow.transition {
+transition: transform 400ms ease-out;
+-webkit-transition: -webkit-transform 400ms ease-out;
+-moz-transition: -moz-transform 400ms ease-out;
+-o-transition: -o-transform 400ms ease-out;
 }
 .slide {
 display: inline-block;
 float: none;
-transition: all 400ms ease-out;
--webkit-transition: all 400ms ease-out;
--moz-transition: all 400ms ease-out;
--o-transition: all 400ms ease-out;
 width: 100%;
 }
 .slideshow-wrapper .description {
@@ -1132,8 +1102,8 @@ bottom: 0;
 left: 0;
 }
 .slideshow-wrapper img {
-width: 738px;
-max-width: 100%;
+width: 100% !important;
+//max-width: 100% !important;
 margin: 0 !important;
 padding: 0 !important;
 }
@@ -1143,6 +1113,15 @@ margin: 0 0 0 -20px;
 width: 120%;
 width: calc(100% + 40px);
 max-width: none;
+}
+.slideshow-wrapper.square {
+width: 120%;
+width: calc(100% + 40px);
+}
+.slideshow-wrapper.portrait {
+width: 70%;
+display: block;
+margin: 0 auto;
 }
 .slideshow-arrow > div {
 /* top: 70px; */
@@ -1165,12 +1144,6 @@ z-index: -1;
 padding-top: 90px;
 z-index: 0;
 position: relative;
-}
-.mobile .link-anchor{
-padding-top: 0;
-}
-.mobile .link-anchor-2 {
-padding-top: 80px;
 }
 /* lazy facebook */
 .vhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
@@ -1211,11 +1184,6 @@ position: relative;
 padding-bottom: 56.25%;
 padding-top: 30px; height: 0; overflow: hidden;
 }
-.mobile .video-container {
-margin-left: -20px;
-width: 110%;
-width: calc(100% + 40px);
-}
 .video-container iframe,
 .video-container object,
 .video-container embed {
@@ -1239,9 +1207,6 @@ padding:0;
 margin:0;
 display: none;
 }
-.mobile #kitCollHeader {
-display: block;
-}
 #kitCollHeader li{
 display: inline-block;
 list-style: none;
@@ -1259,7 +1224,7 @@ cursor: pointer;
 color: #ff881f;
 }
 .hiddenImg {
-display: none;
+display: none !important;
 }
 #footer-wrap-content a:link, #footer-wrap-content a:visited {
 color: #fff;
@@ -1410,7 +1375,7 @@ float: left;
 }
 .nav2 > li{
 padding: 10px 36px 15px 0;
-width: 120px;
+width: 160px;
 }
 .nav2 > li > a, .nav2 > li > span {
 border-bottom: 1px solid;
@@ -1454,7 +1419,7 @@ background: #222;
 transition: max-height 0s .2s;
 }
 .tablet .nav2-outer{
-transition: max-height 0 0;
+/*transition: max-height 0 0;*/
 }
 .nav2-container{
 width: 98%;
@@ -1470,7 +1435,6 @@ max-height: 1000px;
 font-weight: normal;
 text-transform:none;
 margin: 15px;
-width: 180px;
 float: left;
 }
 .nav-teaser strong{
@@ -1488,27 +1452,30 @@ color:#ff881f;
 }
 .nav-teaser div{
 background: #fff;
-width: 180px;
-height: 94px;
+font-size: 0;
 }
 .nav-teaser img{
-width: 180px;
 transition: opacity .1s;
 }
 .nav-teaser:hover img{
 opacity: 0.9;
 }
 /*site search */
+/*
 form#searchthis {
 overflow: hidden;
 position: absolute;
 right: 0;
 top: 6px;
 }
+*/
 .search-box {
+position: absolute;
+top: 6px;
+bottom: 6px;
+right: 0;
 background: #454545;
 border: 0;
-height: 100%;
 width: 120px;
 float: left;
 -webkit-transition: 300ms all ease-in-out;
@@ -1584,6 +1551,7 @@ transition: all 100ms ease-out;
 -webkit-transition: all 100ms ease-out;
 -moz-transition: all 100ms ease-out;
 -o-transition: all 100ms ease-out;
+box-sizing: content-box;
 }
 .headerbar-2-container.closed, .tabs-hidden .headerbar-2-container {
 max-height: 0;
@@ -1731,12 +1699,11 @@ following widths and measurements. If you want to change
 these measurements, the images will also need to change.
 */
 #outer-wrapper {
-//width:1100px;
 margin: auto;
 text-align:left;
 position: relative;
 }
-#main-wrap1, #main-wrap2 {
+#main-wrap1, #main-wrap2, #main-wrap3 {
 width: 800px;
 float:left;
 word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
@@ -1763,14 +1730,13 @@ float: right;
 padding: 3px;
 float: right;
 }
-.facebookTop {
+.share-buttons {
 overflow: hidden;
 margin: 20px 0;
 }
 #sidebar-wrap {
 width:330px;
 float:right;
-padding: 8px 0 0;
 margin-top: 20px;
 line-height:1.5em;
 background: #FFFFFF;
@@ -1810,10 +1776,16 @@ margin-left:29px;
 margin: 10px 0 10px 0;
 padding: 0;
 font-size: 19px;
+line-height: 1.6;
 }
 .post-title.entry-title {
 font-size: 24px;
 margin: 10px 0 15px;
+}
+.social-buttons > .post-title.entry-title {
+margin: 0;
+padding: 15px;
+line-height: 1;
 }
 .post-title > a {
 border-bottom: 3px solid transparent;
@@ -1821,7 +1793,6 @@ transition: all 30ms ease-out;
 -webkit-transition: all 30ms ease-out;
 -moz-transition: all 30ms ease-out;
 -o-transition: all 30ms ease-out;
-line-height: 1.6;
 }
 .post-title a:hover{
 border-color: #252525;
@@ -1847,6 +1818,7 @@ color: $mainTextColor;
 }
 .post-body {
 line-height: 1.5;
+margin-bottom: 20px;
 }
 .post p {
 margin:0 0 .75em;
@@ -1911,7 +1883,6 @@ text-decoration: none;
 }
 .post img {
 margin: 0 5px 5px 0;
-padding: 0 5px 0 0;
 border: none;
 }
 .post.index img {
@@ -1962,33 +1933,31 @@ margin-bottom: -7px;
 }
 /* Sidebar Boxes
 ----------------------------------------------- */
-.sidebar .widget {
-margin:.5em 13px 1.25em;
-padding:0 0px;
+#sidebar-wrap .widget {
+margin: 15px;
 }
-.sidebar h2 {
+#sidebar-wrap h2 {
 margin:0 0 .5em 0;
 padding:0 0 .2em;
 line-height:1.5em;
 font:$headerFont;
 }
-.sidebar ul {
+#sidebar-wrap ul {
 list-style:none;
-margin:0 0 1.25em;
 padding:0 0px;
 }
-.sidebar ul li {
+#sidebar-wrap ul li {
 padding:4px 0;
 line-height:1.4em;
 border-bottom: 1px solid #ccc;
 }
-.sidebar ul li a {
+#sidebar-wrap ul li a {
 text-decoration: none;
 }
-.sidebar ul li a:hover {
+#sidebar-wrap ul li a:hover {
 text-decoration: underline;
 }
-.sidebar p {
+#sidebar-wrap p {
 margin:0 0 .6em;
 }
 #sidebar h2 {
@@ -2043,9 +2012,6 @@ width:36px;
 height:36px;
 border:none;
 }
-.section{
-margin:0;
-}
 /* mobile menu (navmobile) */
 .navmobile {
 margin: 0;
@@ -2084,17 +2050,17 @@ right: 0;
 bottom: 0;
 left: 0;
 }
-.opera .navmobile {
+.opera .nav {
 transform: none;
 -o-transform: none;
 transition: left 300ms ease-out, box-shadow 0s linear 300ms;
 -o-transition: left 300ms ease-out, box-shadow 0s linear 300ms;
 left: -100%;
 }
-.opera-mini .navmobile {
+.opera-mini .nav, .opera-mini .black-overlay {
 display: none;
 }
-.opera.visible .navmobile {
+.opera.visible .nav {
 left: 0;
 }
 .navmobile li {
@@ -2141,93 +2107,6 @@ padding: 1px 0;
 #main-wrapper {
 width: 100%;
 }
-/* mobile headerbar 2 */
-.mobile .headerbar-2-container {
-width: 100%;
-background: #fff;
-border-bottom: none;
-overflow-x: auto;
-overflow-y: initial;
-position: initial;
-height: auto;
-position: fixed;
-height: 35px;
-box-sizing: border-box;
-}
-.mobile .headerbar-2-container.closed {
-border: none;
-}
-.mobile .headerbar-2 {
-margin: 0;
-padding: 0;
-overflow: hidden;
-width: 900px;
-white-space: nowrap;
-display: inline;
-width: auto;
-}
-.mobile .headerbar-2 li {
-margin: 0;
-margin-right: -4px;
-padding: 0;
-float: none;
-display: inline-block;
-border: 0;
-height: 35px;
-box-sizing: border-box;
-}
-.mobile .headerbar-2 li:before, .mobile .headerbar-2 li:last-child:after {
-height: 35px;
-}
-.mobile .headerbar-2 li a {
-margin: 0;
-padding: 7px 18px;
-font-size: 14px;
-text-decoration: none;
-display: block;
-box-sizing: border-box;
-height: 35px;
-border-bottom: 4px solid transparent;
-transition: all 30ms ease-out;
--webkit-transition: all 30ms ease-out;
--moz-transition: all 30ms ease-out;
--o-transition: all 30ms ease-out;
-border-bottom: 1px solid #CCC;
-}
-.mobile .headerbar-2 li a.highlight {
-border-bottom: 4px solid #FF881F;
-}
-.mobile .headerbar-2 li:last-child {
-border: 0;
-}
-.mobile .headerbar-2-container::-webkit-scrollbar {
-display: none;
-}
-.mobile .likebox {
-display: block;
-}
-.mobile #tabs .headerbar-2 li a {
-padding: 7px 14px;
-}
-/* header and navbar (mobile site)*/
-.mobile #headerbar{
-background: #222222;
-width: 100%;
-height: 40px;
-position: fixed;
-top: 0;
-z-index: 10;
-text-align: center;
-}
-.mobile #siteLogo{
-display: block;
-width: 159px;
-height: 23px;
-margin: 0 auto;
-padding: 0;
-top: 8px;
-position: relative;
-}
 .footer-list {
 margin: 20px 20px 0 0;
 background: #FFFFFF;
@@ -2246,7 +2125,7 @@ position: absolute;
 font-weight: bold;
 border: 2px solid;
 padding: 0 4px;
-top: 4px;
+line-height: 1.2;
 }
 .footer-list ul>li {
 list-style: none;
@@ -2282,12 +2161,9 @@ border-bottom: 5px solid transparent;
 font-size: 11pt;
 }
 .nav2 .nav-more{
-/*
 width: 200px;
 float: none;
-*/
-width: auto;
-clear: left;
+clear: both;
 }
 .nav2 > .nav-more > a{
 border: none;
@@ -2317,9 +2193,6 @@ text-overflow: ellipsis;
 width: 33.33%;
 box-sizing: border-box;
 }
-.mobile .league-table.league-table-2 li {
-width: 50%;
-}
 .league-table.league-table-2 img {
 padding: 0;
 margin: 4px 3% 0 3px;
@@ -2329,9 +2202,6 @@ vertical-align: top;
 padding: 0;
 margin: 0 3%;
 vertical-align: top;
-}
-.mobile .league-table li{
-width: 50%;
 }
 /*compare table (magista) */
 .compare-table{
@@ -2350,9 +2220,6 @@ padding: 0.75% 0.25%;
 border-bottom: 1px solid #ccc;
 border-right: 1px solid #ccc;
 align: center;
-}
-.mobile .compare-table li{
-width: 49%;
 }
 /*world cup table */
 .worldcup-table{
@@ -2408,7 +2275,11 @@ overflow: hidden;
 background: #FFFFFF;
 position: relative;
 }
-.unimportant-post.placeholder {
+.sidebar-post {
+margin: 15px 0;
+position: relative;
+}
+.unimportant-post.placeholder, .sidebar-post.placeholder {
 text-align: center;
 padding: 20px;
 }
@@ -2422,6 +2293,10 @@ display: table-cell;
 vertical-align: middle;
 height: 70px;
 box-sizing: border-box;
+}
+.sidebar-post .textClass {
+font-size: 1em;
+font-weight: normal;
 }
 /*responsive 1024px*/
 @media (max-width:1180px){
@@ -2455,107 +2330,10 @@ width: 100%;
 width: 165px !important;
 }
 .nav-teaser{
-width: 142px;
 margin: 10px 7px;
-}
-.nav-teaser div {
-width: 142px;
-height: 74px;
-}
-.nav-teaser img{
-width: 142px;
 }
 .nav2 > li{
 padding: 10px 20px 15px 0;
-}
-}
-@media (max-width: 1100px) {
-#main-wrap1, #main-wrap2, #sidebar-wrap, #main-page {
-float: none;
-width: 100%;
-}
-#sidebar-wrap {
-background: transparent;
-padding: 0;
-}
-.sidebar .widget {
-margin: 0;
-padding: 0;
-}
-.item-post-container {
-background: #FFFFFF;
-}
-.post {
-max-width: 750px;
-margin: 0 auto;
-}
-.post.index, .footer-list, .disqus-container, .unimportant-post {
-margin-left: auto;
-margin-right: auto;
-max-width: 728px;
-box-sizing: border-box;
-}
-.post-img-container {
-max-height: 300px;
-}
-#HTML3 {
-margin: 0 auto;
-/* width: 160px;
-height: 600px; */
-}
-#PopularPosts1, #HTML11, #HTML12, #Feed3 {
-display: none;
-}
-#sidebar-wrap.item {
-margin-top: 20px;
-}
-}
-@media (max-width:920px){
-.headerbar-2-container {
-overflow-x: auto;
-overflow-y: hidden;
-}
-.headerbar-2 {
-width: auto;
-white-space: nowrap;
-display: inline;
-}
-.headerbar-2 li {
-display: inline-block;
-float: none;
-}
-.nav{
-font-size: 10pt;
-}
-.nav-teaser{
-margin: 0;
-width: 110px;
-}
-.nav-teaser div {
-display: none;
-}
-.nav-teaser img{
-display: none;
-}
-.nav-teaser span{
-display: none;
-}
-}
-@media (max-width: 805px) {
-.post.index, .footer-list, .disqus-container, .unimportant-post {
-margin-left: 20px;
-margin-right: 20px;
-}
-.post-snippet, .post-info .labels {
-display: none;
-}
-.post img {
-/*max-width: 100%;*/
-margin: 0;
-padding: 0;
-}
-.nav {
-display: none;
 }
 }
 @media (max-width: 450px) {
@@ -2563,70 +2341,6 @@ display: none;
 font-size: 20px;
 padding: 10px;
 }
-}
-/*site search */
-.mobile .google-search {
-background: #222;
-display: none;
-border: none;
-width: 100%;
-height: 38px;
-margin: 11px 0 0 0;
-position: relative;
-right: 0;
-}
-.mobile .google-search-visible {
-display: block;
-}
-.mobile #mobile-menu {
-height: 100%;
-width: 36px;
-position: absolute;
-}
-.mobile #mobile-menu>div {
-width: 17px;
-height: 15px;
-background-position: 0 40px;
-position: absolute;
-top: 12px;
-left: 8px;
-}
-.mobile .open-search {
-position: absolute;
-right: 0;
-top: 0;
-width: 38px;
-height: 100%;
-margin:0;
-background: none;
-}
-.mobile .open-search>div {
-width: 21px;
-height: 22px;
-position: absolute;
-background-position: 0 22px;
-right: 8px;
-top: 9px;
-}
-.mobile #cancel-search {
-position: absolute;
-right: 0;
-top: 0;
-width: 38px;
-height: 100%;
-display: none;
-}
-.mobile #cancel-search>div {
-width: 21px;
-height: 21px;
-position: absolute;
-background-position: 113px 22px;
-right: 8px;
-top: 9px;
-}
-.mobile .open-search>div, .mobile #cancel-search>div, .mobile #siteLogo, .mobile #mobile-menu>div {
-background-image: url("http://2.bp.blogspot.com/-n2R8Bd1QPqM/U1Th5_YsCRI/AAAAAAAAW-Q/rl_ELw09qIw/s1600/footy_headlines_mobile_sprite.png");
-background-size: auto 64px;
 }
 /* mobile site share twitter + facebook */
 .facebook-like-mobile{
@@ -2664,17 +2378,6 @@ font-weight: bold;
 .mobile-social-button:visited, .mobile-social-button:link{
 color: #fff;
 }
-/* mobile site */
-.mobile .share-buttons {
-margin: 10px 20px 20px;
-overflow: hidden;
-}
-.mobile .labels {
-padding: 10px 20px 0;
-}
-.mobile .comments {
-margin: 0;
-}
 .mobile-index-contents {
 /* overflow: hidden; */
 padding-bottom: 0.6em;
@@ -2683,16 +2386,974 @@ padding-bottom: 0.6em;
 line-height: 1.2 !important;
 font-size: 0.9em !important;
 }
-.mobile .footer-link-2{
+.mobile-images-scroll {
+margin: 0 0 0 -20px;
+width: 120%;
+width: calc(100% + 40px);
+overflow-x: auto;
+}
+.mobile-images {
+width: 150%;
+}
+@media (max-width: 805px) {
+.mobile-images {
+width: 100%;
+}
+}
+.mobile-images.noscroll {
+width: 100%;
+}
+.post-info {
+margin: 10px 20px;
+}
+.post-meta {
+overflow: hidden;
+margin: 20px 0;
+}
+.post-meta-el-container {
+float: left;
+position: relative;
+margin: 0 12px 0 0;
+}
+.post-shares, .post-comments, .post-time {
+padding: 0;
+font-size: 1em;
+float: none;
+text-transform: none;
+color: #999;
+transition: all 30ms ease-out;
+-webkit-transition: all 30ms ease-out;
+-moz-transition: all 30ms ease-out;
+-o-transition: all 30ms ease-out;
+}
+.post-shares {
+padding-left: 21px;
+}
+.post-comments {
+padding-left: 20px;
+}
+.post-time {
+padding-left: 18px;
+}
+.post-meta-el-container:hover .post-shares, .post-meta-el-container:hover .post-comments, .post-meta-el-container:hover .post-time {
+color: #252525;
+}
+.icon-shares, .icon-comments, .icon-time, .icon-time-item {
+height: 14px;
+display: block;
+position: absolute;
+top: 4px;
+}
+.icon-shares {
+width: 17px;
+background-position: -7px -45px;
+}
+.icon-comments {
+width: 16px;
+background-position: -7px -10px;
+}
+.icon-time, .icon-time-item {
+width: 14px;
+background-position: -7px -27px;
+}
+.post-meta-el-container:hover .icon-shares {
+background-position: -28px -45px;
+}
+.post-meta-el-container:hover .icon-comments {
+background-position: -28px -10px;
+}
+.post-meta-el-container:hover .icon-time, .icon-time-item {
+background-position: -28px -27px;
+}
+.post-time-container {
+float: right;
+position: relative;
+}
+.post-time.item {
+color: #252525;
+}
+.post-img {
+width: 100%;
+}
+.popular-post {
+overflow: hidden;
+position: relative;
+height: 72px;
+}
+.post-img-popular {
+float: left;
+margin-right: 10px;
+}
+.post-title-popular {
+font-size: 14px;
+padding: 5px;
+display: table-cell;
+vertical-align: middle;
+height: 72px;
+box-sizing: border-box;
+}
+.post-shares.post-view {
+font-size: 0.9em;
+padding: 0;
+line-height: 30px;
+}
+.post-overlay {
+background: rgba(255,255,255,0.0);
+position: absolute;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+}
+.post-overlay, .likebox, .share-button  {
+transition: background 70ms ease-out;
+-webkit-transition: background 70ms ease-out;
+-moz-transition: background 70ms ease-out;
+-o-transition: background 70ms ease-out;
+}
+.post-overlay:hover {
+background: rgba(255,255,255,0.3);
+}
+/* header */
+/*
+.opera .menu-icon > div, .opera .header-logo > div, .opera  .search-icon > div, .opera .likebox > div, .opera .icon, .opera .close-search {
+background-image: url(&quot;http://i.imgur.com/zFSMZFe.png&quot;);
+}
+*/
+.close-search {
+display: none;
+position: absolute;
+width: 19px;
+height: 19px;
+background-position: -33px -47px;
+right: 15px;
+top: 11px;
+z-index: 2;
+}
+.share-button {
+color: #FFFFFF;
+padding: 9px;
+font-weight: bold;
+position: relative;
+margin-right: 10px;
+width: 30px;
+box-sizing: border-box;
+float: left;
+}
+.share-buttons.bottom .share-button {
+width: auto;
+line-height: 1;
+padding: 7px;
+}
+.share-buttons.bottom .icon {
+margin: 0 5px 0 0;
+display: inline-block;
+}
+.icon {
+background-size: 256px 256px;
+margin: 0 auto;
+display: block;
+}
+.fb-share, .tw-share {
+color: #FFFFFF;
+float: right;
+}
+.icon.fb, .icon.tw {
+background-size: 209px;
+}
+.icon.fb {
+background-position: -15px -43px;
+width: 7px;
+height: 12px;
+}
+.icon.tw {
+background-position: -25px -43px;
+width: 15px;
+height: 12px;
+}
+.menu-icon {
+position: absolute;
+width: 40px;
+height: 40px;
+top: 0;
+left: 0;
+}
+.menu-icon > div {
+width: 18px;
+height: 16px;
+background-position: -6px -29px;
+position: absolute;
+top: 12px;
+left: 8px;
+}
+.search-icon {
+position: absolute;
+width: 40px;
+height: 40px;
+top: 0;
+right: 0;
+}
+.search-icon > div {
+position: absolute;
+width: 23px;
+height: 22px;
+background-position: -6px -47px;
+top: 9px;
+right: 8px;
+}
+.menu-icon:hover, .search-icon:hover {
+/* background: rgba(255, 255, 255, 0.12); */
+}
+.header-logo {
+width: 180px;
+height: 40px;
+box-sizing: border-box;
+padding-top: 8px;
+display: inline-block;
+}
+.header-logo > div {
+width: 161px;
+height: 23px;
+margin: 0 auto;
+background-position: -6px -5px;
+}
+.social-buttons {
+background: #FFFFFF;
+margin: 20px 20px 0 0;
+overflow: hidden;
+}
+.ad {
+margin: 20px 0;
+}
+.sidebar-ad {
+margin: 20px 0 0;
+}
+.sidebar-post .imageClass {
+width: 72px;
+height: 72px;
+}
+.menu-icon, .search-icon {
+display: none;
+}
+.main-element {
+margin: 20px 20px 0 0;
+background: #FFFFFF;
+padding: 20px;
+overflow: hidden;
+}
+.story-text {
+font-size: 20px;
+}
+.orange-text {
+color: #ff881f;
+font-weight: bold;
+}
+.main-element-image .story-text {
+line-height: 50px;
+}
+.nf-text {
+display: none;
+}
+.de .nf-text {
+display: block;
+}
+.main-element-image img {
+float: left;
+margin-right: 15px;
+}
+.menu-icon > div, .header-logo > div, .search-icon > div, .likebox > div, .icon, .close-search, .icon-shares, .icon-comments, .icon-time, .icon-time-item, .fb-sidebar, .tw-sidebar, .in-sidebar, #siteLogo > div, .slideshow-arrow > div {
+background-image: url("http://i.imgur.com/5k8W8sK.png");
+background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiM5OTkiIGQ9Ik0xMS4yMjYgMjAuODQ4djMuMTYybDIuNjI0LTMuMTYyaDcuMzIxbDEuNzQtMS44NjV2LTcuMTE0bC0xLjc0LTEuODY2SDguNzRMNyAxMS44Njh2Ny4xMTRsMS43NCAxLjg2NWgyLjQ4NnptMTIuNzk3IDI4LjkwNmwtNS4yNjMtNC44NXYzLjI1MnMtMy4zNjItLjE4Ni01LjE0OSAxLjc0OGMtMi43NjMgMi45ODgtMi4zMzEgNS4zOTQtMi4zMzEgNS4zOTRzLjc1MS0xLjQ4NCAzLjE5NS0yLjgxOWMyLjQ0My0xLjMzNCA0LjIyOS0uOTIxIDQuMjI5LS45MjF2My4xMDJsNS4zMTktNC45MDZ6bS00LjIwNyA3LjA1MUg5LjA5OHYtNy41NDNIMTJjLjE3NS0uMjIxLjM2Ni0uNDQ1LjU3Ny0uNjc0LjgzOC0uOTA2IDIuMDIzLTEuMzQ4IDMuMDQ1LTEuNTZINi45OTZ2MTEuOTczaDE0LjkyM1Y1My45MmwtMi4xMDMgMS45Mzh2Ljk0N3ptLTUuODI4LTE1LjgyNGMzLjg2MSAwIDYuOTkxLTMuMTMgNi45OTEtNi45OSAwLTMuODYxLTMuMTMtNi45OTEtNi45OTEtNi45OTEtMy44NjEgMC02Ljk5MSAzLjEzLTYuOTkxIDYuOTkxIDAgMy44NjEgMy4xMjkgNi45OSA2Ljk5MSA2Ljk5em0wLTEyLjMyMmMyLjk0NCAwIDUuMzMxIDIuMzg3IDUuMzMxIDUuMzMxcy0yLjM4NyA1LjMzMS01LjMzMSA1LjMzMS01LjMzMS0yLjM4Ny01LjMzMS01LjMzMSAyLjM4Ni01LjMzMSA1LjMzMS01LjMzMXptMy43MDUgNy42MTFsLTIuNzgtMi40NzMtLjQzMi00LjA2N2gtMS4xMzdsLS4yMDEgNC42NzIgMy4zMSAzLjA2IDEuMjQtMS4xOTJ6Ii8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiMyNTI1MjUiIGQ9Ik0zMi4yMjYgMjAuODQ4djMuMTYybDIuNjI0LTMuMTYyaDcuMzIxbDEuNzQtMS44NjV2LTcuMTE0bC0xLjc0LTEuODY2SDI5Ljc0TDI4IDExLjg2OHY3LjExNGwxLjc0IDEuODY1aDIuNDg2em0xMi43OTcgMjguOTA2bC01LjI2My00Ljg1djMuMjUycy0zLjM2Mi0uMTg2LTUuMTQ5IDEuNzQ4Yy0yLjc2MyAyLjk4OC0yLjMzMSA1LjM5NC0yLjMzMSA1LjM5NHMuNzUxLTEuNDg0IDMuMTk1LTIuODE5YzIuNDQzLTEuMzM0IDQuMjI5LS45MjEgNC4yMjktLjkyMXYzLjEwMmw1LjMxOS00LjkwNnptLTEwLjAzNS04Ljc3M2MzLjg2MSAwIDYuOTkxLTMuMTMgNi45OTEtNi45OSAwLTMuODYxLTMuMTMtNi45OTEtNi45OTEtNi45OTEtMy44NjEgMC02Ljk5MSAzLjEzLTYuOTkxIDYuOTkxIDAgMy44NjEgMy4xMjkgNi45OSA2Ljk5MSA2Ljk5em0wLTEyLjMyMmMyLjk0NCAwIDUuMzMxIDIuMzg3IDUuMzMxIDUuMzMxcy0yLjM4NyA1LjMzMS01LjMzMSA1LjMzMS01LjMzMS0yLjM4Ny01LjMzMS01LjMzMSAyLjM4Ni01LjMzMSA1LjMzMS01LjMzMXptNS44MjggMjguMTQ2SDMwLjA5OHYtNy41NDNIMzNjLjE3NS0uMjIxLjM2Ni0uNDQ1LjU3Ny0uNjc0LjgzOC0uOTA2IDIuMDIzLTEuMzQ4IDMuMDQ1LTEuNTZoLTguNjI3djExLjk3M2gxNC45MjNWNTMuOTJsLTIuMTAzIDEuOTM4di45NDd6TTM4LjY5MyAzNi4yN2wtMi43OC0yLjQ3My0uNDMyLTQuMDY3aC0xLjEzN2wtLjIwMSA0LjY3MiAzLjMxIDMuMDYgMS4yNC0xLjE5MnoiLz48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZmlsbD0iI0ZGRiIgZD0iTTQyLjU2IDExMS44NDN2My44aC00LjQ3OXY1LjE1M2g0LjQ3OXYxMy4yMjNoNS4zNTZ2LTEzLjIyM2g0LjQ2N2wuNjY5LTUuMTUzaC01LjEzNnYtMy4yODljMC0xLjQ5Mi40MTctMi41MDkgMi41Ny0yLjUwOWwyLjc0Ny0uMDAxdi00LjYwOWMtLjQ3NS0uMDYzLTIuMTA1LS4yMDMtNC4wMDItLjIwMy0zLjk2LS4wMDEtNi42NzEgMi40MDEtNi42NzEgNi44MTF6bTUyLjE0OC0zLjM3OWMtLjAwNC4wMDYtLjAwOS4wMTItLjAxMy4wMTguMDA2LS4wMDIuMDEyLS4wMDQuMDE5LS4wMDdsLS4wMDYtLjAxMXptLS45ODktMi44ODRjLTEuNDIyLjgzOS0yLjk5MyAxLjQ0NC00LjY2NiAxLjc3My0xLjM0Mi0xLjQxOC0zLjI1LTIuMzA1LTUuMzY2LTIuMzA1LTQuMDU3IDAtNy4zNDkgMy4yNzEtNy4zNDkgNy4zMDMgMCAuNTczLjA2NCAxLjEzMS4xOTIgMS42NjItNi4xMDktLjMwMy0xMS41MjMtMy4yMTMtMTUuMTQ3LTcuNjMyLS42MzEgMS4wNzgtLjk5NCAyLjMzMi0uOTk0IDMuNjcgMCAyLjUzMyAxLjI5OSA0Ljc2OSAzLjI3MSA2LjA3NS0xLjIwMy0uMDM3LTIuMzM2LS4zNjYtMy4zMy0uOTEzdi4wOWMwIDMuNTM3IDIuNTMzIDYuNDg5IDUuODk1IDcuMTU4LS42MTUuMTY1LTEuMjY3LjI1NS0xLjkzNS4yNTUtLjQ3NiAwLS45MzYtLjA0OC0xLjM4NC0uMTMzLjkzNSAyLjg5OSAzLjY1IDUuMDE0IDYuODYyIDUuMDcxLTIuNTE3IDEuOTYtNS42ODEgMy4xMjgtOS4xMjkgMy4xMjgtLjU5MyAwLTEuMTc2LS4wMzctMS43NTMtLjEwMSAzLjI1IDIuMDcxIDcuMTE0IDMuMjgyIDExLjI2NyAzLjI4MiAxMy41MTcgMCAyMC45MDktMTEuMTI2IDIwLjkwOS0yMC43NzQgMC0uMzE5LS4wMDUtLjYzMi0uMDIxLS45NDUgMS40MzEtMS4wMjYgMi42NzItMi4zMDUgMy42NTMtMy43NjMtMS4zMTUuNTc1LTIuNzI1Ljk2NS00LjIwNCAxLjEzOSAxLjUxOC0uOTAxIDIuNjgzLTIuMzM1IDMuMjI5LTQuMDR6bS02NC4wNTYtLjU4M0g3LjM0Yy0xLjg0NyAwLTMuMzQ2IDEuNDk3LTMuMzQ2IDMuMzQ2djIyLjMxM2MwIDEuODYgMS40ODggMy4zNDkgMy4zNDkgMy4zNDhIMjkuNjZjMS44NDggMCAzLjM0Ni0xLjUgMy4zNDYtMy4zNDh2LTIyLjMxM2MtLjAwNC0xLjg3Ny0xLjQ4Mi0zLjM2Ni0zLjM0My0zLjM0NnptLTUuNTg1IDQuNDYyYzAtLjYxNi40OTktMS4xMTUgMS4xMTUtMS4xMTVoMy4zNDZjLjYxOCAwIDEuMTE3LjQ5NyAxLjExNyAxLjExNXYzLjM0N2MwIC42MTYtLjUgMS4xMTUtMS4xMTcgMS4xMTVoLTMuMzQ2Yy0uNjE3IDAtMS4xMTUtLjQ5OS0xLjExNS0xLjExNXYtMy4zNDd6bS01LjU4IDQuNDYyaC4wMDFjMy4wOCAwIDUuNTgzIDIuNDgxIDUuNTgzIDUuNTc4cy0yLjQ5OCA1LjU3OS01LjU3OSA1LjU3OS01LjU3OS0yLjQ5OS01LjU3OS01LjU3OWMtLjAwMS0zLjA4MSAyLjQ5My01LjU4OSA1LjU3NC01LjU3OHptMTEuMTY3IDE1LjYxOWgtLjAwOGMwIC42MTUtLjUgMS4xMTUtMS4xMTcgMS4xMTVIOC40NThjLS42MTggMC0xLjExNy0uNS0xLjExNy0xLjExNXYtMTIuMjczaDIuNTI2Yy0uMTg0LjcxNC0uMjkyIDEuNDYtLjI5MiAyLjIzMiAwIDQuOTYyIDMuOTcgOC45MzMgOC45MzIgOC45MjUgNC45MjkgMCA4LjkyNC0zLjk5NiA4LjkyNC04LjkyNSAwLS43NzItLjEwOC0xLjUxOS0uMjkzLTIuMjMyaDIuNTI2djEyLjI3M3oiLz48cGF0aCBkPSJNMCAxNDloMzB2MzBIMHoiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNOC45OTEgMTU2Ljk1MXYxNC4wOThMMjMuMDg5IDE2NCIvPjxwYXRoIGQ9Ik0zMCAxNDloMzB2MzBIMzB6Ii8+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTM2LjkxMSAxNjRsMTQuMDk4IDcuMDQ5di0xNC4wOTgiLz48cGF0aCBkPSJNNC4xNjEgODMuNjA2aDUuMTU3djMuN0g0LjE2MVY5OEguMTY3VjcyLjA5OGgxMC41Njh2My43SDQuMTYxdjcuODA4em04LjE2OS01LjI5MmMwLTQuMTQ0IDIuMTQzLTYuNTEyIDYuMDY0LTYuNTEyIDMuOTIyIDAgNi4wNjUgMi4zNjggNi4wNjUgNi41MTJ2MTMuNDY5YzAgNC4xNDQtMi4xNDMgNi41MTItNi4wNjUgNi41MTItMy45MjIgMC02LjA2NC0yLjM2OC02LjA2NC02LjUxMlY3OC4zMTR6bTMuOTk1IDEzLjcyOGMwIDEuODUuNzk5IDIuNTUzIDIuMDcgMi41NTNzMi4wNy0uNzAzIDIuMDctMi41NTNWNzguMDU2YzAtMS44NS0uNzk5LTIuNTUzLTIuMDctMi41NTNzLTIuMDcuNzAzLTIuMDcgMi41NTN2MTMuOTg2em0xMC4zODMtMTMuNzI4YzAtNC4xNDQgMi4xNDMtNi41MTIgNi4wNjQtNi41MTIgMy45MjIgMCA2LjA2NSAyLjM2OCA2LjA2NSA2LjUxMnYxMy40NjljMCA0LjE0NC0yLjE0MyA2LjUxMi02LjA2NSA2LjUxMi0zLjkyMiAwLTYuMDY0LTIuMzY4LTYuMDY0LTYuNTEyVjc4LjMxNHptMy45OTUgMTMuNzI4YzAgMS44NS43OTkgMi41NTMgMi4wNyAyLjU1M3MyLjA3LS43MDMgMi4wNy0yLjU1M1Y3OC4wNTZjMC0xLjg1LS43OTktMi41NTMtMi4wNy0yLjU1M3MtMi4wNy43MDMtMi4wNyAyLjU1M3YxMy45ODZ6bTkuNTQ4LTE5Ljk0NGgxMi4zNDh2My43aC00LjE3N1Y5OGgtMy45OTVWNzUuNzk4aC00LjE3NnYtMy43ek01OC4wOCA4OS40MTZsLTUuMDQ4LTE3LjMxN2g0LjE3N2wzLjA1IDExLjgwNCAzLjA1MS0xMS44MDRoMy44MTNsLTUuMDQ4IDE3LjMxN1Y5OEg1OC4wOHYtOC41ODR6TTc4LjM0IDk4aC0zLjk5NVY3Mi4wOThoMy45OTV2MTEuMTAxaDQuNTRWNzIuMDk4aDQuMDY3Vjk4SDgyLjg4Vjg2Ljg5OWgtNC41NFY5OHptMTUuNTAzLTE0Ljk4Nmg1LjQ4NHYzLjdoLTUuNDg0Vjk0LjNoNi45Vjk4SDg5Ljg0OVY3Mi4wOThoMTAuODk1djMuN2gtNi45djcuMjE2ek0xMTYuMTM5IDk4aC00LjAzMWwtLjY5LTQuNjk5aC00LjkwM2wtLjY5IDQuNjk5aC0zLjY2OGw0LjA2Ny0yNS45MDJoNS44NDdMMTE2LjEzOSA5OHptLTkuMTE2LTguMjE0aDMuODVsLTEuOTI1LTEzLjA5OS0xLjkyNSAxMy4wOTl6bTEwLjk2NS0xNy42ODhoNi4zMTljMy45OTUgMCA1Ljk1NiAyLjI1NyA1Ljk1NiA2LjQwMXYxMy4wOTljMCA0LjE0NC0xLjk2MSA2LjQwMS01Ljk1NiA2LjQwMWgtNi4zMTlWNzIuMDk4em0zLjk5NCAzLjdWOTQuM2gyLjI1MmMxLjI3MSAwIDIuMDMzLS42NjYgMi4wMzMtMi41MTZ2LTEzLjQ3YzAtMS44NS0uNzYyLTIuNTE2LTIuMDMzLTIuNTE2aC0yLjI1MnptMTAuODItMy43aDMuOTk1Vjk0LjNoNi41NzNWOThoLTEwLjU2OFY3Mi4wOTh6bTEyLjMwOCAwaDMuOTk1Vjk4aC0zLjk5NVY3Mi4wOTh6bTEwLjQ1NyA3LjE0MlY5OGgtMy41OTVWNzIuMDk4aDUuMDExbDQuMTA0IDE1LjUwNFY3Mi4wOThoMy41NTlWOThoLTQuMTA0bC00Ljk3NS0xOC43NnptMTUuOTM5IDMuNzc0aDUuNDg0djMuN2gtNS40ODRWOTQuM2g2LjlWOThoLTEwLjg5NVY3Mi4wOThoMTAuODk1djMuN2gtNi45djcuMjE2em0xNC43NDItMTEuMjEyYzMuODg2IDAgNS44ODMgMi4zNjggNS44ODMgNi41MTJ2LjgxNGgtMy43Nzd2LTEuMDczYzAtMS44NS0uNzI2LTIuNTUzLTEuOTk3LTIuNTUzLTEuMjcxIDAtMS45OTguNzAzLTEuOTk4IDIuNTUzIDAgNS4zMjggNy44MDggNi4zMjcgNy44MDggMTMuNzI4IDAgNC4xNDQtMi4wMzQgNi41MTItNS45NTYgNi41MTItMy45MjIgMC01Ljk1Ni0yLjM2OC01Ljk1Ni02LjUxMnYtMS41OTFoMy43Nzd2MS44NWMwIDEuODUuNzk5IDIuNTE2IDIuMDcgMi41MTZzMi4wNy0uNjY2IDIuMDctMi41MTZjMC01LjMyOC03LjgwOC02LjMyNy03LjgwOC0xMy43MjguMDAxLTQuMTQ0IDEuOTk4LTYuNTEyIDUuODg0LTYuNTEyeiIgZmlsbD0iI0ZGODgxRiIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBmaWxsPSIjRkZGIiBkPSJNOC45ODggMTk2Ljk4MWgxN3YtM2gtMTd2M3ptMCA2aDE3di0zaC0xN3Yzem0wLTEyaDE3di0zaC0xN3Yzem0zOC4wMjkgMTAuODk2YzEuMTQ2LTEuNDU2IDEuODM0LTMuMjgxIDEuODM0LTUuMjcxIDAtNC43NDYtMy44ODktOC41OTQtOC42ODYtOC41OTRzLTguNjg1IDMuODY2LTguNzE1IDguNTk0Yy0uMDMgNC43MjkgMy44OSA4LjYgOC43MDEgOC42IDEuMzk3IDAgMi43MTEtLjMzNCAzLjg4MS0uOTEzbDUuNzg3IDUuNzI2IDIuNzE3LTIuNjgxLTUuNTE5LTUuNDYxem0tNi44NjcuNTEyaC0uMDAzYy0zLjI2IDAtNS45MDEtMi42MTMtNS45MDEtNS44MzlzMi42NDItNS44MzkgNS45MDEtNS44MzkgNS45IDIuNiA1LjkgNS44MzljLjAwMiAzLjIyOC0yLjU5NyA1LjgyOS01Ljg5NyA1LjgzOXoiLz48cGF0aCBkPSJNNzYuNTUgMTg5Ljc3OGwtMS44LTEuNzk5LTcuMyA3LjI5OS03LjItNy4yOTktMS44IDEuNzk5IDcuMiA3LjMtNy4yIDcuMiAxLjggMS44IDcuMi03LjE5OSA3LjMgNy4xOTkgMS44LTEuOC03LjMtNy4yIi8+PC9zdmc+");
+background-size: 512px;
+}
+.likebox {
+display: block;
+float: left;
+width: 33.3%;
+padding: 10px 0;
+margin: 0;
+}
+.likebox > div {
+margin: 0 auto;
+background-size: 400px;
+}
+.likebox.fb > div {
+width: 13px;
+height: 24px;
+background-position: -29px -82px;
+}
+.likebox.tw > div {
+width: 29px;
+height: 24px;
+background-position: -46px -82px;
+}
+.likebox.in > div {
+width: 24px;
+height: 24px;
+background-position: -2px -82px;
+}
+.search-icon > div {
+width: 22px;
+height: 22px;
+background-position: -31px -188px;
+}
+.menu-icon > div {
+width: 17px;
+height: 15px;
+background-position: -9px -188px;
+}
+.close-search {
+background-position: -58px -188px;
+}
+.visible #outer-wrapper {
+overflow: hidden;
+position: absolute;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+}
+.likebox:link, .likebox:visited{
+color: #fff;
+}
+.likebox.fb, .share-button.fb {
+background: #3b5998;
+}
+.likebox.fb:hover, .share-button.fb:hover {
+background: #4668b3;
+}
+.likebox.tw, .share-button.tw {
+background: #1b95e0;
+}
+.likebox.tw:hover, .share-button.tw:hover {
+background: #1ea6fa;
+}
+.likebox.in {
+background: #517fa4;
+}
+.likebox.in:hover{
+background: #598bb5;
+}
+/* EURO 2016 TABLE */
+ul.euro-table {
+padding: 0;
+/* list-style: none; */
+overflow: hidden;
+}
+.euro-table > li {
+list-style: none;
+float: left;
+width: 25%;
+box-sizing: border-box;
+padding: 10px 0;
+}
+.euro-table ul {
+padding: 10px 5px 0;
+}
+.euro-table ul li {
+list-style: none;
+white-space: nowrap;
+vertical-align: top;
+overflow: hidden;
+text-overflow: ellipsis;
+}
+.euro-table img {
+vertical-align: top;
+margin-right: 5px !important;
+}
+.euro-table a[href] {
+border: none;
+text-decoration: underline;
+}
+@media(min-width: 851px) {
+.mobile-yes {
+display: none !important;
+}
+}
+@media (max-width: 1180px) {
+.sidebar-post .textClass {
+padding: 10px;
+}
+.sidebar-post .image-container {
+height: 72px;
+position: relative;
+width: 100%;
+overflow: hidden;
+}
+.sidebar-post .imageClass {
+width: 100%;
+height: auto;
+float: none;
+position: absolute;
+bottom: 0;
+}
+}
+@media (max-width: 1100px) {
+#sidebar-wrap.isNotHome .sidebar-container {
+display: none;
+}
+#sidebar-wrap .widget {
+margin: 0;
+}
+.link-more {
+display: none;
+}
+.ad-index {
+width: auto;
+height: auto;
+}
+.ad-3 {
+margin-left: auto;
+margin-right: auto;
+}
+#main-wrap1, #main-wrap2, #sidebar-wrap, #main-page {
+float: none;
+width: 100%;
+}
+#sidebar-wrap {
+background: transparent;
+padding: 0;
+margin: 0;
+}
+.sidebar .widget {
+margin: 0;
+padding: 0;
+}
+.sidebar-post {
+margin: 20px 20px 0 0;
+overflow: hidden;
+background: #FFFFFF;
+}
+.sidebar-post .image-container {
+float: left;
+width: 200px;
+}
+.sidebar-post .textClass {
+font-size: 20px;
+font-weight: bold;
+padding: 0 20px;
+}
+.sidebarHeader {
+display: none;
+}
+.item-post-container {
+background: #FFFFFF;
+}
+.post {
+max-width: 790px;
+margin: 0 auto;
+}
+.post.index, .footer-list, .disqus-container, .unimportant-post, .social-buttons, .main-element, .sidebar-post {
+margin-left: auto;
+margin-right: auto;
+max-width: 810px;
+box-sizing: border-box;
+}
+.post.index {
+position: relative;
+}
+a.fauxlink {
+z-index: 2;
+background: #fff;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+opacity: 0;
+transition: opacity 200ms ease-out;
+-webkit-transition: opacity 200ms ease-out;
+-moz-transition: opacity 200ms ease-out;
+-o-transition: opacity 200ms ease-out;
+}
+a.fauxlink:hover {
+opacity: 0.3;
+}
+.post-img-container {
+max-height: 300px;
+}
+#HTML3 {
+margin: 0 auto;
+/* width: 160px;
+height: 600px; */
+}
+#PopularPosts1, #HTML11, #HTML12, #Feed3 {
+display: none;
+}
+}
+@media (max-width:920px){
+.headerbar-2-container {
+overflow-x: auto;
+overflow-y: hidden;
+}
+.headerbar-2 {
+width: auto;
+white-space: nowrap;
+display: inline;
+}
+.headerbar-2 li {
+display: inline-block;
 float: none;
 }
-.mobile #blog-pager{
+/*
+.nav{
+font-size: 10pt;
+}
+*/
+.nav-teaser{
+margin: 0;
+}
+.nav-teaser span{
+display: none;
+}
+}
+/* tablet */
+@media(max-width: 850px) {
+.mobile-no {
+display: none !important;
+}
+.nav-message {
+font-size: 22px;
+}
+.search-open .close-search {
+display: block;
+}
+.share-buttons {
+margin: 20px;
+overflow: hidden;
+}
+.nav-message-container-3 {
+margin-top: 81px;
+}
+.post {
+padding: 0;
+}
+.sidebar-ad, .ad-1, .ad-2 {
+margin-left: auto;
+margin-right: auto;
+}
+.sidebar-ad {
+margin-bottom: 20px;
+}
+.item-post-container .post-title.entry-title, .facebookTop, .post-body-inner, .item-post-container .labels {
+margin-left: 20px;
+margin-right: 20px;
+}
+.labels {
+margin-bottom: 20px;
+}
+#sidebar-wrap {
+margin: 0;
+}
+#headerbarinner {
+width: 100%;
+}
+.search-box {
+position: absolute;
+top: 6px;
+height: 28px;
+right: 1%;
+width: 0%;
+padding: 0;
+transition: width 150ms ease-out, opacity 200ms ease-out, visibility 0s linear 200ms;
+-webkit-transition: width 150ms ease-out, opacity 200ms ease-out, visibility 0s linear 200ms;
+-moz-transition: width 150ms ease-out, opacity 200ms ease-out, visibility 0s linear 200ms;
+-o-transition: width 150ms ease-out, opacity 200ms ease-out, visibility 0s linear 200ms;
+border: 0;
+background: #FFFFFF;
+color: #252525;
+font-weight: bold;
+box-sizing: border-box;
+}
+.search-box:focus {
+border: none;
+}
+.search-open .search-box {
+width: 98%;
+padding: 0 3px;
+}
+.search-open .search-icon {
+display: none;
+}
+.menu-icon, .search-icon {
+display: block;
+}
+#siteLogo {
+margin: 0 auto;
+position: relative;
+padding-top: 9px;
+width: 200px;
+}
+#siteLogo > div {
+margin: 0 auto;
+width: 161px;
+height: 23px;
+background-position: 0 -60px;
+background-size: 429px;
+}
+.post.index, .footer-list, .disqus-container, .unimportant-post, .social-buttons, .main-element, .sidebar-post {
+margin-left: 20px;
+margin-right: 20px;
+}
+.footer-list {
+padding: 10px;
+}
+.post-snippet, .post-info .labels {
+display: none;
+}
+.post img {
+/*max-width: 100%;*/
+margin: 0;
+padding: 0;
+}
+.nav {
+z-index: 11;
+overflow-y: auto;
+display: block;
+position: fixed;
+min-width: 65%;
+left: 0;
+top: 40px;
+bottom: 0px;
+background: rgb(240, 240, 240);
+margin: 0;
+padding: 0;
+transform: translate3d(-100%,0,0);
+-webkit-transform: translate3d(-100%,0,0);
+-moz-transform: translate3d(-100%,0,0);
+-o-transform: translate3d(-100%,0,0);
+-ms-transform: translate3d(-100%,0,0);
+transition: transform 300ms ease-out;
+-webkit-transition: -webkit-transform 300ms ease-out;
+-moz-transition: -moz-transform 300ms ease-out;
+-o-transition: -o-transform 300ms ease-out;
+-ms-transition: -o-transform 300ms ease-out;
+will-change: transform;
+}
+.visible .nav {
+transform: translate3d(0%,0,0);
+-webkit-transform: translate3d(0%,0,0);
+-moz-transform: translate3d(0%,0,0);
+-o-transform: translate3d(0%,0,0);
+transition-delay: 0s;
+-webkit-transition-delay: 0s;
+-moz-transition-delay: 0s;
+-o-transition-delay: 0s;
+/*
+-webkit-box-shadow: 0px 9px 10px 4px rgba(0,0,0,0.35);
+-moz-box-shadow: 0px 9px 10px 4px rgba(0,0,0,0.35);
+box-shadow: 0px 9px 10px 4px rgba(0,0,0,0.35);
+*/
+}
+.nav li {
+float: none;
+display: block;
+}
+.nav > li {
+border-bottom: 1px solid #CBCBCB;
+}
+.nav > li:hover > a {
+background: transparent;
+border-color: transparent;
+}
+.nav > li > a:hover {
+color: #ff881f;
+}
+.nav2-container {
+width: 100%;
+}
+.nav2-outer {
+background: transparent;
+max-height: none;
+position: static;
+}
+.nav2 {
+background: transparent;
+font-size: 95%;
+width: 100%;
+float: none;
+}
+.nav2 > .nav-more {
+width: auto;
+}
+.nav2 > li {
+padding: 0;
+margin: 0;
+width: auto;
+}
+.nav2 > li > a, .nav2 > li > span {
+border: none;
+padding: 8px 11px 8px 20px;
+color: #252525;
+}
+.nav * {
+color: #252525;
+}
+.nav3 {
+display: none;
+}
+.nav-teaser {
+margin: 10px 20px 15px;
+width: 180px;
+}
+.nav-teaser div {
+background: transparent;
+max-height: 94px;
+overflow: hidden;
+}
+.nav-teaser strong {
+color: #252525;
+margin: 0;
+padding: 5px;
+background: #E2E2E2;
+}
+}
+/* mobile */
+@media(max-width: 450px) {
+.slideshow-wrapper.portrait {
+width: 120%;
+width: calc(100% + 40px);
+margin: 0 0 0 -20px;
+}
+.main-element-image .story-text {
+line-height: normal;
+font-size: 1em;
+display: table-cell;
+vertical-align: middle;
+height: 50px;
+}
+.main-element {
+padding: 10px;
+}
+.nav-message-inner {
+width: auto;
+margin: 0 20px;
+}
+.nav-message-sort {
+display: none;
+}
+.nav-message {
+font-size: 18px;
+}
+.textClass, .sidebar-post .textClass {
+font-size: 15px;
+padding: 0 10px;
+}
+.image-container, .sidebar-post .image-container {
+float: left;
+overflow: hidden;
+width: 72px;
+font-size: 0;
+}
+.disqus-container {
+/*
+background: #FFFFFF;
+padding: 10px;
+margin: 0 20px 20px 20px;
+*/
+}
+#button-disqus {
+font-size: 19px;
+font-weight: bold;
+}
+.post-comments {
+padding-left: 0;
+}
+.post-meta-el-container.time {
+float: right;
+margin: 0;
+}
+.icon-comments, .icon-time {
+display: none;
+}
+q.left, q.right{
+width: 100%;
+float: none;
+margin: 0 0 1em 0;
+}
+.image-switch, .table-container {
+margin-left: -20px;
+width: 120%;
+width: calc(100% + 40px);
+max-width: none;
+}
+.link-anchor{
+padding-top: 0;
+}
+.link-anchor-2 {
+padding-top: 80px;
+}
+.video-container {
+margin-left: -20px;
+width: 110%;
+width: calc(100% + 40px);
+}
+.getty.embed.image {
+margin-left: -20px !important;
+width: 110% !important;
+width: calc(100% + 40px) !important;
+}
+#kitCollHeader {
+display: block;
+}
+/* mobile headerbar 2 */
+.headerbar-2-container {
+width: 100%;
+background: #fff;
+border-bottom: none;
+overflow-x: auto;
+height: auto;
+position: fixed;
+height: 35px;
+box-sizing: border-box;
+}
+.nav-message-container-2, .nav-message-container-3 {
+margin-top: 75px;
+}
+.headerbar-2-container.closed {
+border: none;
+}
+.headerbar-2 {
+margin: 0;
+padding: 0;
+overflow: hidden;
+width: 900px;
+white-space: nowrap;
+display: inline;
+width: auto;
+}
+.headerbar-2 li {
+margin: 0;
+margin-right: -4px;
+padding: 0;
+float: none;
+display: inline-block;
+border: 0;
+height: 35px;
+box-sizing: border-box;
+}
+.headerbar-2 li:before, .headerbar-2 li:last-child:after {
+height: 35px;
+}
+.headerbar-2 li a {
+margin: 0;
+padding: 7px 18px;
+font-size: 14px;
+text-decoration: none;
+display: block;
+box-sizing: border-box;
+height: 35px;
+border-bottom: 4px solid transparent;
+transition: all 30ms ease-out;
+-webkit-transition: all 30ms ease-out;
+-moz-transition: all 30ms ease-out;
+-o-transition: all 30ms ease-out;
+border-bottom: 1px solid #CCC;
+}
+.headerbar-2 li a.highlight {
+border-bottom: 4px solid #FF881F;
+}
+.headerbar-2 li:last-child {
+border: 0;
+}
+.headerbar-2-container::-webkit-scrollbar {
+display: none;
+}
+.likebox {
+display: block;
+}
+#tabs .headerbar-2 li a {
+padding: 7px 14px;
+}
+/* header and navbar (mobile site)*/
+#headerbar{
+background: #222222;
+width: 100%;
+height: 40px;
+position: fixed;
+top: 0;
+z-index: 10;
+}
+.league-table.league-table-2 li , .league-table li, .euro-table > li {
+width: 50%;
+}
+.compare-table li{
+width: 49%;
+}
+/*site search */
+.google-search {
+background: #222;
+display: none;
+border: none;
+width: 100%;
+height: 38px;
+margin: 11px 0 0 0;
+position: relative;
+right: 0;
+}
+.google-search-visible {
+display: block;
+}
+#mobile-menu {
+height: 100%;
+width: 36px;
+position: absolute;
+}
+#mobile-menu>div {
+width: 17px;
+height: 15px;
+background-position: 0 40px;
+position: absolute;
+top: 12px;
+left: 8px;
+}
+.open-search {
+position: absolute;
+right: 0;
+top: 0;
+width: 38px;
+height: 100%;
+margin:0;
+background: none;
+}
+.open-search>div {
+width: 21px;
+height: 22px;
+position: absolute;
+background-position: 0 22px;
+right: 8px;
+top: 9px;
+}
+#cancel-search {
+position: absolute;
+right: 0;
+top: 0;
+width: 38px;
+height: 100%;
+display: none;
+}
+#cancel-search>div {
+width: 21px;
+height: 21px;
+position: absolute;
+background-position: 113px 22px;
+right: 8px;
+top: 9px;
+}
+/* mobile site */
+.comments {
+margin: 0;
+}
+.footer-link-2{
+float: none;
+}
+#blog-pager{
 margin: 0.5em 0;
 padding: 0;
 background: 0;
 border: 0;
 }
-.mobile .blog-pager-newer-link, .mobile .blog-pager-older-link {
+.blog-pager-newer-link, .blog-pager-older-link {
 display: block;
 background: #FFFFFF;
 margin: 0 20px 20px 20px;
@@ -2707,63 +3368,68 @@ margin-bottom: 0.5em;
 margin-left: -5px;
 width: 103.5%;
 }
-.mobile .post img {
+/*
+.blog-posts {
+padding: 10px 0 0 0;
+}
+*/
+.post img {
 margin: 0;
 padding: 0;
 max-width: none;
 }
-.mobile .post ul img {
+.post ul img {
 margin: 0;
 }
-.mobile .mobile-post-outer{
+.mobile-post-outer{
 border-bottom: 1px solid #ccc;
 }
-.mobile #google-searchM{
+#google-searchM{
 width: 50%;
 font-size: .9em;
 background: white;
 float: right;
 border: 1px solid #ccc;
 }
-.mobile #submit_btnM{
+#submit_btnM{
 height: 80%;
 float: right;
 }
-.mobile .status-msg-wrap{
+.status-msg-wrap{
 font-size: 100%;
 width: 100%;
 margin-bottom: 1em;
 }
-.mobile .status-msg-body {
+.status-msg-body {
 font-size: 1em;
 }
-.mobile #likebox-frame {
+#likebox-frame {
 height: 33px;
 width: auto !important;
 }
-.mobile .main .Blog, .mobile .main .widget {
+.main .Blog, .main .widget {
 width: 100%;
 padding: 0;
 margin: 0;
 }
-.mobile * {
+* {
 }
-.mobile {
+{
 font-size: 16px;
 padding: 40px 0 0 0;
 background: #FFFFFF;
 }
-.hidden .mobile {
+.hidden {
 padding-top: 40px;
 }
-.mobile #outer-wrapper {
+#outer-wrapper {
 margin: 0;
 overflow: hidden;
 }
-.mobile .related-posts-widget {
+.related-posts-widget {
 margin-top: 0.8em;
 }
-.mobile ul.rpw li {
+ul.rpw li {
 width: auto;
 float: none;
 border-bottom: 1px solid #ccc;
@@ -2771,13 +3437,13 @@ padding: 0.6em 0;
 display: block;
 height: auto;
 }
-.mobile ul.rpw img{
+ul.rpw img{
 float: none;
 }
-.mobile ul.rpw a strong {
+ul.rpw a strong {
 display: inline-block;
 }
-.mobile ul.rpw strong {
+ul.rpw strong {
 background: none;
 padding-left: 0.4em;
 z-index: 0;
@@ -2792,10 +3458,10 @@ position: relative;
 color: #333;
 font-size: 1em;
 }
-.mobile #header-wrapper {
+#header-wrapper {
 width: 100%;
 }
-.mobile #mobileMenu {
+#mobileMenu {
 display: block;
 }
 #mobileMenu {
@@ -2830,611 +3496,208 @@ background-color: #E9E9E9;
 margin-bottom: 0.5em;
 font-size: 1.2em;
 }
-.mobile #main-page {
+#main-page {
 width: 100%;
 }
-.mobile #main-wrap1, .mobile #main-wrap2 {
+#main-wrap1, #main-wrap2 {
 margin: 0;
 padding: 0;
 width: 100%;
 background: #F3F3F3;
 }
-.mobile .date-outer {
+.date-outer {
 padding: 0;
 }
-.mobile .kit-collection br {
+.kit-collection br {
 height: 8px;
 content: "";
 display: block;
 }
-.mobile #main {
+#main {
 }
-.mobile #footer-wrap-content {
+#footer-wrap-content {
 width: auto;
 text-align: center;
 line-height: 2;
 }
-.mobile #header {
+#header {
 width: 100%;
 }
-.mobile #sidebar-wrap {
-display: none;
-}
-.mobile .post>.mobile-index-title {
+.post>.mobile-index-title {
 font-size: 1.4em;
 }
-.mobile .mobile-index-arrow {
+.mobile-index-arrow {
 font-size: 10em;
 float: right;
 margin-top: -62px;
 margin-right: -15px;
 }
-.mobile .mobile-index-arrow:hover {
+.mobile-index-arrow:hover {
 color: #ff881f;
 }
-.mobile .post-body {
+.post-body {
 font-size: 1em;
-margin: 0;
-padding: 0;
 line-height: 1.6;
 }
-.mobile .post-body:hover {
+.post-body {
+/* padding: 10px 20px;
+margin: 10px 20px;
+line-height: 1.6;
+*/
+}
+.post-body:hover {
 text-decoration: none;
 }
-.mobile h2 {
+h2 {
 font-size: 1.1em;
 margin: 0.5em 0;
 text-transform: none;
 }
-.mobile .mobile-index-thumbnail {
+.mobile-index-thumbnail {
 float: left;
 margin: -1px .5em 0 0;
 }
-.mobile .postthumb  {
+.postthumb  {
 margin: 0 .5em 0 0;
 width: 100%;
 }
-.mobile .mobile-post-outer a, .mobile .mobile-post-outer a:visited {
+.mobile-post-outer a, .mobile-post-outer a:visited {
 text-decoration:none;
 }
-.mobile .mobile-post-outer a:hover > .mobile-index-arrow {
+.mobile-post-outer a:hover > .mobile-index-arrow {
 color: #ff881f;
 }
-.mobile .mobile-post-outer a:hover > h3 {
+.mobile-post-outer a:hover > h3 {
 //text-decoration: underline;
 }
-.mobile img {
+img {
 /* max-width: 100%; */
 }
-.mobile .date-header {
+.date-header {
 font-size: .9em;
 margin: 0;
 padding: 0;
 float: right;
 line-height: 30px;
 }
-.mobile .mobile-date-outer .date-header{
+.mobile-date-outer .date-header{
 font-size: 0.8em;
 }
 /*world cup table*/
-.mobile .worldcup-table > li{
+.worldcup-table > li{
 width: 49%;
 }
-.mobile .worldcup-table ul>li{
+.worldcup-table ul>li{
 margin: 0.2em 0;
 }
-.mobile .worldcup-table ul li img, .mobile .league-table li img{
+.worldcup-table ul li img, .league-table li img{
 margin: 0 3%;
 }
 /* charts */
-.mobile #chart_div, .mobile #piechart{
+#chart_div, #piechart{
 height: 220px;
 }
 /* quotes */
-.mobile blockquote{
+blockquote{
 margin: 0;
 }
-/* EURO 2016 TABLE */
-ul.euro-table {
-padding: 0;
-/* list-style: none; */
-overflow: hidden;
-}
-.euro-table > li {
-list-style: none;
-float: left;
-width: 25%;
-box-sizing: border-box;
-padding: 10px 0;
-}
-.mobile .euro-table > li {
-width: 50%;
-}
-.euro-table ul {
-padding: 10px 5px 0;
-}
-.euro-table ul li {
-list-style: none;
-white-space: nowrap;
-vertical-align: top;
-overflow: hidden;
-text-overflow: ellipsis;
-}
-.euro-table img {
-vertical-align: top;
-margin-right: 5px !important;
-}
-.euro-table a[href] {
-border: none;
-text-decoration: underline;
-}
-
---></style>
-<style>
-.mobile-images-scroll {
-margin: 0 0 0 -20px;
-width: 120%;
-width: calc(100% + 40px);
-overflow-x: auto;
-}
-
 .mobile-images {
 width: 150%;
 }
-
-@media (max-width: 805px) {
-.mobile-images {
-width: 100%;
-}
-}
-
-.mobile .mobile-images {
-width: 150%;
-}
-
-.mobile-images.noscroll {
-width: 100%;
-}
-
-.mobile .post.index, .mobile .popular-post {
+/*
+.post.index, .popular-post {
 background: #FFFFFF;
 margin: 0 20px 20px 20px;
 padding: 0;
 overflow: hidden;
 position: relative;
 }
-
-.mobile .post {
+.post {
+/*
 margin: 0 0 20px 0;
 padding: 0 0 10px 0;
 background: #FFFFFF;
 }
-
-.mobile .post-body {
-/* padding: 10px 20px; */
-margin: 10px 20px;
-line-height: 1.6;
+*/
+.post-info {
+margin: 10px;
 }
-
-.mobile .post-img-container {
+.post-img-container {
 max-height: 210px;
 overflow: hidden;
 margin: 0;
 }
-
-.post-info {
-margin: 10px 20px;
+.post-title.entry-title {
+font-size: 19px;
+margin: 12px 0;
+line-height: 1.4;
 }
-
-.post-meta {
-overflow: hidden;
-margin: 20px 0;
-}
-
-.post-meta-el-container {
-float: left;
-position: relative;
-margin: 0 12px 0 0;
-}
-
-.post-shares, .post-comments, .post-time {
-padding: 0;
-font-size: 1em;
-float: none;
-text-transform: none;
-color: #999;
-transition: all 30ms ease-out;
--webkit-transition: all 30ms ease-out;
--moz-transition: all 30ms ease-out;
--o-transition: all 30ms ease-out;
-}
-
-.post-shares {
-padding-left: 21px;
-}
-
-.post-comments {
-padding-left: 20px;
-}
-
-.post-time {
-padding-left: 18px;
-}
-
-.post-meta-el-container:hover .post-shares, .post-meta-el-container:hover .post-comments, .post-meta-el-container:hover .post-time {
-color: #252525;
-}
-
-.icon-shares, .icon-comments, .icon-time, .icon-time-item {
-
-height: 14px;
-display: block;
-position: absolute;
-top: 4px;
-}
-
-.icon-shares {
-width: 17px;
-background-position: -7px -45px;
-}
-
-.icon-comments {
-width: 16px;
-background-position: -7px -10px;
-}
-
-.icon-time, .icon-time-item {
-width: 14px;
-background-position: -7px -27px;
-}
-
-.post-meta-el-container:hover .icon-shares {
-background-position: -28px -45px;
-}
-
-.post-meta-el-container:hover .icon-comments {
-background-position: -28px -10px;
-}
-
-.post-meta-el-container:hover .icon-time, .icon-time-item {
-background-position: -28px -27px;
-}
-
-.post-time-container {
-float: right;
-position: relative;
-}
-
-.post-time.item {
-color: #252525;
-}
-
-.post-img {
-width: 100%;
-}
-
-.popular-post {
-overflow: hidden;
-position: relative;
-height: 72px;
-}
-
-.post-img-popular {
-float: left;
-margin-right: 10px;
-}
-
-.post-title-popular {
-font-size: 14px;
-padding: 5px;
-display: table-cell;
-vertical-align: middle;
-height: 72px;
-box-sizing: border-box;
-}
-
-.mobile .post-title {
+.post-title {
 margin: 0;
 text-transform: none;
 border: 0;
 font-size: 22px;
-padding: 10px 20px;
 }
-
-.mobile .post-title.index {
-font-size: 19px;
-padding: 10px;
+.post-title.item {
+font-size: 22px;
 }
-
-.mobile .post-shares-container {
+.post-meta {
+margin: 0;
+}
+.post-shares-container {
 overflow: hidden;
 float: left;
 }
-
-.mobile .post-shares, .mobile .post-comments {
+/*
+.post-shares, .post-comments {
 padding: 7px;
 font-size: 13px;
 text-transform: uppercase;
 color: #353535;
 }
-
-.post-shares.post-view {
-font-size: 0.9em;
-padding: 0;
-line-height: 30px;
-}
-
-.mobile .post-time {
+.post-time {
 padding: 7px;
 font-size: 13px;
 float: right;
 color: #353535;
 }
-
-.post-overlay {
-background: rgba(255,255,255,0.0);
-position: absolute;
-top: 0;
-right: 0;
-bottom: 0;
-left: 0;
-}
-
-.post-overlay, .likebox, .share-button  {
-transition: background 70ms ease-out;
--webkit-transition: background 70ms ease-out;
--moz-transition: background 70ms ease-out;
--o-transition: background 70ms ease-out;
-}
-
-.post-overlay:hover {
-background: rgba(255,255,255,0.3);
-}
-
-/* header */
-.menu-icon > div, .header-logo > div, .search-icon > div, .likebox > div, .icon, .close-search {
-background-image: url("http://i.imgur.com/zFSMZFe.png");
-background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNTEycHgiIGhlaWdodD0iNTEycHgiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1MTIgNTEyIiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGU+LnN0eWxlMHtmaWxsLXJ1bGU6CWV2ZW5vZGQ7Y2xpcC1ydWxlOglldmVub2RkO2ZpbGw6CSNGRjg4MUY7fS5zdHlsZTF7ZmlsbC1ydWxlOglldmVub2RkO2NsaXAtcnVsZToJZXZlbm9kZDtmaWxsOgkjRkZGRkZGO30uc3R5bGUye2ZpbGwtcnVsZToJZXZlbm9kZDtjbGlwLXJ1bGU6CWV2ZW5vZGQ7ZmlsbDoJIzI1MjUyNTt9PC9zdHlsZT48ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3ICAgICI+PGc+PGc+PHBhdGggZD0iTTYuOTYzIDI3LjEzM2gzLjMxNnYtOC44NDRoNC4yODF2LTMuMDYxaC00LjI4MVY4Ljc3MWg1LjQ1NyBWNS43MTFINi45NjNWMjcuMTMzeiBNMjIuMDk2IDUuNDY3Yy0zLjI1NiAwLTUuMDM1IDEuOTU4LTUuMDM1IDUuMzg2djExLjEzOWMwIDMuNCAxLjggNS40IDUgNS40IHM1LjAzNC0xLjk1OCA1LjAzNC01LjM4NlYxMC44NTNDMjcuMTMgNy40IDI1LjQgNS41IDIyLjEgNS40Njd6IE0yMy44MTQgMjIuMjA2YzAgMS41MjktMC42NjMgMi4xMTEtMS43MTggMi4xIHMtMS43MTgtMC41ODItMS43MTgtMi4xMTFWMTAuNjM4YzAtMS41MjkgMC42NjMtMi4xMTEgMS43MTgtMi4xMTFzMS43MTggMC42IDEuNyAyLjExMVYyMi4yMDZ6IE0zNC4wMzMgNS41IGMtMy4yNTUgMC01LjAzNCAxLjk1OC01LjAzNCA1LjM4NnYxMS4xMzljMCAzLjQgMS44IDUuNCA1IDUuMzg2YzMuMjU2IDAgNS4wMzUtMS45NTggNS4wMzUtNS4zODZWMTAuODUzIEMzOS4wNjcgNy40IDM3LjMgNS41IDM0IDUuNDY3eiBNMzUuNzUxIDIyLjIwNmMwIDEuNTI5LTAuNjYzIDIuMTExLTEuNzE4IDIuMTExcy0xLjcxOC0wLjU4Mi0xLjcxOC0yLjExMVYxMC42MzggYzAtMS41MjkgMC42NjMtMi4xMTEgMS43MTgtMi4xMTFzMS43MTggMC42IDEuNyAyLjExMVYyMi4yMDZ6IE00MC4yNDIgOC43NzFoMy40Njd2MTguMzYxaDMuMzE2VjguNzcxaDMuNDY3VjUuNzExaC0xMC4yNSBWOC43NzF6IE01Ni44NTIgMTUuNDc0TDU0LjMyIDUuNzExaC0zLjQ2N2w0LjE5IDE0LjMyMnY3LjFoMy4zMTZ2LTcuMWw0LjE5LTE0LjMyMmgtMy4xNjZMNTYuODUyIDE1LjQ3NHogTTc1LjYzMiAxNC44OTJoLTMuNzY4IFY1LjcxMWgtMy4zMTZ2MjEuNDIyaDMuMzE2di05LjE4MWgzLjc2OHY5LjE4MWgzLjM3NlY1LjcxMWgtMy4zNzZWMTQuODkyeiBNODEuNDE5IDI3LjEzM2g5LjA0NHYtMy4wNjFoLTUuNzI4di02LjI3M2g0LjU1MiB2LTMuMDYxaC00LjU1MlY4Ljc3MWg1LjcyOFY1LjcxMWgtOS4wNDRWMjcuMTMzeiBNOTUuMDE1IDUuNzExbC0zLjM3NiAyMS40MjJoMy4wNDRsMC41NzMtMy44ODdoNC4wN2wwLjU3MyAzLjg4N2gzLjM0NiBMOTkuODY4IDUuNzExSDk1LjAxNXogTTk1LjY3OCAyMC4zMzlsMS41OTgtMTAuODMzbDEuNTk4IDEwLjgzM0g5NS42Nzh6IE0xMTAuMDI3IDUuNzExaC01LjI0NXYyMS40MjJoNS4yNDUgYzMuMzE2IDAgNC45NDQtMS44NjcgNC45NDQtNS4yOTRWMTEuMDA1QzExNC45NzEgNy42IDExMy4zIDUuNyAxMTAgNS43MTF6IE0xMTEuNjU1IDIyIGMwIDEuNTMtMC42MzMgMi4wODEtMS42ODggMi4wODFoLTEuODY5VjguNzcxaDEuODY5YzEuMDU1IDAgMS43IDAuNiAxLjcgMi4wODFWMjEuOTkxeiBNMTIwLjM5NiA1LjcxMWgtMy4zMTZ2MjEuNDIyIGg4Ljc3MnYtMy4wNjFoLTUuNDU3VjUuNzExeiBNMTI3LjI5OSAyNy4xMzNoMy4zMTZWNS43MTFoLTMuMzE2VjI3LjEzM3ogTTE0MC41NjMgMTguNTMzbC0zLjQwNy0xMi44MjJoLTQuMTZ2MjEuNDIyaDIuOTg0IFYxMS42MTdsNC4xMyAxNS41MTZoMy40MDZWNS43MTFoLTIuOTU0VjE4LjUzM3ogTTE0NS44OTggMjcuMTMzaDkuMDQ0di0zLjA2MWgtNS43Mjh2LTYuMjczaDQuNTUydi0zLjA2MWgtNC41NTJWOC43NzFoNS43MjggVjUuNzExaC05LjA0NFYyNy4xMzN6IE0xNTkuODg1IDEwLjYzOGMwLTEuNTI5IDAuNjAzLTIuMTExIDEuNjU4LTIuMTExYzEuMDU1IDAgMS43IDAuNiAxLjcgMi4xMTF2MC44ODhoMy4xMzV2LTAuNjczIGMwLTMuNDI4LTEuNjU4LTUuMzg2LTQuODg0LTUuMzg2cy00Ljg4NCAxLjk1OC00Ljg4NCA1LjM4NmMwIDYuMSA2LjUgNi45IDYuNSAxMS4zNTRjMCAxLjUyOS0wLjY2MyAyLjA4LTEuNzE4IDIuMSBzLTEuNzE4LTAuNTUxLTEuNzE4LTIuMDh2LTEuNTNoLTMuMTM1djEuMzE1YzAgMy40IDEuNyA1LjQgNC45IDUuMzg2YzMuMjU2IDAgNC45NDQtMS45NTggNC45NDQtNS4zODYgQzE2Ni4zNjcgMTUuOSAxNTkuOSAxNSAxNTkuOSAxMC42Mzh6IiBjbGFzcz0ic3R5bGUwIi8+PC9nPjwvZz48L2c+PGcgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAgICAiPjxnPjxnPjxwYXRoIGQ9Ik02Ljk2OSAyOS4yMDN2M2gxN3YtM0g2Ljk2OXogTTYuOTY5IDM4LjIwM2gxN3YtM2gtMTdWMzguMjAzeiBNNi45NjkgNDQuMjAzaDE3di0zaC0xN1Y0NC4yMDN6IiBjbGFzcz0ic3R5bGUxIi8+PC9nPjwvZz48L2c+PGcgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAgICAiPjxnPjxnPjxwb2x5Z29uIHBvaW50cz0iNTIsNDkgNTAuMiw0Ny4yIDQyLjksNTQuNSAzNS43LDQ3LjIgMzMuOSw0OSA0MS4xLDU2LjMgMzMuOSw2My41IDM1LjcsNjUuMyA0Mi45LDU4LjEgNTAuMiw2NS4zIDUyLDYzLjUgNDQuNyw1Ni4zIiBjbGFzcz0ic3R5bGUyIi8+PC9nPjwvZz48L2c+PGcgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAgICAiPjxnPjxnPjxwYXRoIGQ9Ik0yNy45ODYgNjYuNTU5bC01LjUxOS01LjQ2MSBjMS4xNDYtMS40NTYgMS44MzQtMy4yODEgMS44MzQtNS4yN2MwLTQuNzQ2LTMuODg5LTguNTk0LTguNjg2LTguNTk0UzYuOTMgNTEuMSA2LjkgNTUuODI4czMuODg5IDguNiA4LjcgOC42IGMxLjM5NyAwIDIuNzEyLTAuMzM0IDMuODgyLTAuOTE0bDUuNzg2IDUuNzI1TDI3Ljk4NiA2Ni41NTl6IE0xNS41OTcgNjEuNjFjLTMuMjU5IDAtNS45MDEtMi42MTMtNS45MDEtNS44MzkgYzAtMy4yMjUgMi42NDItNS44MzkgNS45MDEtNS44MzlzNS45MDEgMi42IDUuOSA1LjgzOUMyMS40OTkgNTkgMTguOSA2MS42IDE1LjYgNjEuNjF6IiBjbGFzcz0ic3R5bGUxIi8+PC9nPjwvZz48L2c+PGcgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAgICAiPjxnPjxnPjxwYXRoIGQ9Ik0yNS40OTQgNzQuMDE2SDcuNTA3Yy0xLjQ4OSAwLTIuNjk3IDEuMjA3LTIuNjk3IDIuNjk3djE3Ljk4NCBjMCAxLjUgMS4yIDIuNyAyLjcgMi42OTloMTcuOTg3YzEuNDkgMCAyLjY5Ny0xLjIwOSAyLjY5Ny0yLjY5OVY3Ni43MTNDMjguMTkxIDc1LjIgMjcgNzQgMjUuNSA3NC4wMTZ6IE0xNi41MDEgODEuMjA5YzIuNDgzIDAgNC41IDIgNC41IDQuNDk2cy0yLjAxMyA0LjQ5Ny00LjQ5NyA0LjQ5N2MtMi40ODQgMC00LjQ5Ny0yLjAxNC00LjQ5Ny00LjQ5NyBTMTQuMDE3IDgxLjIgMTYuNSA4MS4yMDl6IE0yNS40OTQgOTMuNzk5YzAgMC40OTYtMC40MDMgMC44OTgtMC45IDAuODk4SDguNDA4Yy0wLjQ5OCAwLTAuOS0wLjQwMi0wLjktMC44OTh2LTkuODkzaDIuMDM2IGMtMC4xNDggMC41NzUtMC4yMzYgMS4xNzctMC4yMzYgMS43OTljMCA0IDMuMiA3LjIgNy4yIDcuMTk0YzMuOTczIDAgNy4xOTMtMy4yMjEgNy4xOTMtNy4xOTQgYzAtMC42MjItMC4wODctMS4yMjQtMC4yMzYtMS43OTloMi4wMzZWOTMuNzk5eiBNMjUuNDk0IDgwLjMxYzAgMC40OTctMC40MDMgMC44OTktMC45IDAuODk5aC0yLjY5NyBjLTAuNDk3IDAtMC44OTktMC40MDItMC44OTktMC44OTl2LTIuNjk4YzAtMC40OTYgMC40MDItMC44OTggMC44OTktMC44OThoMi42OTdjMC40OTggMCAwLjkgMC40IDAuOSAwLjg5OFY4MC4zMXogTTM5LjE2MSA3OS41MXYzLjA2aC0zLjU4M3Y0LjE0OWgzLjU4M3YxMC42NDZoNC4yODVWODYuNzE5aDMuNTczbDAuNTM1LTQuMTQ5aC00LjEwOFY3OS45MmMwLTEuMjAxIDAuMzMzLTIuMDIgMi4wNTYtMi4wMiBsMi4xOTctMC4wMDF2LTMuNzExYy0wLjM4LTAuMDUxLTEuNjg0LTAuMTYzLTMuMjAxLTAuMTYzQzQxLjMyOSA3NCAzOS4yIDc2IDM5LjIgNzkuNTF6IE04MC43MjkgNzYuOCBjLTAuMDAzIDAuMDA1LTAuMDA3IDAuMDA5LTAuMDEgMC4wMTRjMC4wMDQtMC4wMDIgMC4wMDktMC4wMDQgMC4wMTQtMC4wMDZMODAuNzI5IDc2Ljc4OXogTTc5LjkzOCA3NC41IGMtMS4xMzggMC42NzYtMi4zOTUgMS4xNjMtMy43MzMgMS40MjljLTEuMDczLTEuMTQyLTIuNi0xLjg1Ni00LjI5My0xLjg1NmMtMy4yNDUgMC01Ljg3OSAyLjYzNS01Ljg3OSA1LjkgYzAgMC41IDAuMSAwLjkgMC4yIDEuMzM4Yy00Ljg4Ny0wLjI0My05LjIxOS0yLjU4Ny0xMi4xMTgtNi4xNDVjLTAuNTA1IDAuODY4LTAuNzk1IDEuODc4LTAuNzk1IDMgYzAgMiAxIDMuOCAyLjYgNC44OTJjLTAuOTYyLTAuMDMtMS44NjktMC4yOTUtMi42NjQtMC43MzV2MC4wNzJjMCAyLjggMiA1LjIgNC43IDUuOCBjLTAuNDkyIDAuMTMzLTEuMDEzIDAuMjA1LTEuNTQ4IDAuMjA1Yy0wLjM4IDAtMC43NDgtMC4wMzgtMS4xMDctMC4xMDZjMC43NDkgMi4zIDIuOSA0IDUuNSA0LjEgYy0yLjAxNCAxLjU3OC00LjU0NSAyLjUxOS03LjMwMyAyLjUxOWMtMC40NzUgMC0wLjk0MS0wLjAyOS0xLjQwMy0wLjA4MWMyLjYgMS43IDUuNyAyLjYgOSAyLjYgYzEwLjgxMyAwIDE2LjcyNy04Ljk1OCAxNi43MjctMTYuNzI3YzAtMC4yNTctMC4wMDQtMC41MDktMC4wMTctMC43NjJjMS4xNDYtMC44MjYgMi4xMzgtMS44NTYgMi45MjMtMy4wMyBjLTEuMDUyIDAuNDYzLTIuMTgxIDAuNzc4LTMuMzY0IDAuOTE4Qzc4LjU2OSA3NyA3OS41IDc1LjggNzkuOSA3NC40Njd6IiBjbGFzcz0ic3R5bGUxIi8+PC9nPjwvZz48L2c+PC9zdmc+"), none;
-background-size: 512px 512px;
-}
-
-.opera .menu-icon > div, .opera .header-logo > div, .opera  .search-icon > div, .opera .likebox > div, .opera .icon, .opera .close-search {
-background-image: url("http://i.imgur.com/zFSMZFe.png");
-}
-
-.close-search {
-display: none;
-position: absolute;
-width: 19px;
-height: 19px;
-background-position: -33px -47px;
-right: 15px;
-top: 11px;
-z-index: 2;
-}
-
-.search-open .close-search {
-display: block;
-}
-
-.share-button {
-color: #FFFFFF;
-padding: 9px;
-font-weight: bold;
-position: relative;
-margin-right: 10px;
-width: 30px;
-box-sizing: border-box;
-float: left;
-}
-
-.share-buttons.bottom .share-button {
-width: auto;
-line-height: 1;
-padding: 7px;
-}
-
-.share-buttons.bottom .icon {
-margin: 0 5px 0 0;
-display: inline-block;
-}
-
-.icon {
-background-size: 256px 256px;
-margin: 0 auto;
-display: block;
-}
-
-.icon.fb {
-background-position: -17px -37px;
-width: 7px;
-height: 12px;
-}
-
-.fb-share, .tw-share {
-color: #FFFFFF;
-float: right;
-}
-
-.icon.tw {
-background-position: -26px -37px;
-width: 15px;
-height: 12px;
-}
-
-.menu-icon {
-position: absolute;
-width: 40px;
-height: 40px;
-top: 0;
-left: 0;
-}
-
-.menu-icon > div {
-width: 18px;
-height: 16px;
-background-position: -6px -29px;
-position: absolute;
-top: 12px;
-left: 8px;
-}
-
-.search-icon {
-position: absolute;
-width: 40px;
-height: 40px;
-top: 0;
-right: 0;
-}
-
-.search-icon > div {
-position: absolute;
-width: 23px;
-height: 22px;
-background-position: -6px -47px;
-top: 9px;
-right: 8px;
-}
-
-.menu-icon:hover, .search-icon:hover {
-/* background: rgba(255, 255, 255, 0.12); */
-}
-
-.header-logo {
-width: 180px;
-height: 40px;
-box-sizing: border-box;
-padding-top: 8px;
-display: inline-block;
-}
-
-.header-logo > div {
-width: 161px;
-height: 23px;
-margin: 0 auto;
-background-position: -6px -5px;
-}
-
-.mobile form#searchthis {
+*/
+form#searchthis {
 overflow: initial;
 position: initial;
 }
-
-.mobile .search-box {
-position: absolute;
-top: 8px;
-height: 24px;
-right: 8px;
-width: 0%;
-padding: 0;
-transition: width 150ms ease-out, opacity 200ms ease-out, visibility 0s linear 200ms;
--webkit-transition: width 150ms ease-out, opacity 200ms ease-out, visibility 0s linear 200ms;
--moz-transition: width 150ms ease-out, opacity 200ms ease-out, visibility 0s linear 200ms;
--o-transition: width 150ms ease-out, opacity 200ms ease-out, visibility 0s linear 200ms;
-border: 0;
-background: #FFFFFF;
-color: #252525;
-font-weight: bold;
-box-sizing: border-box;
-}
-
-.mobile .search-open .search-box {
-width: 96%;
-width: calc(100% - 16px);
-padding: 0 3px;
-}
-
-.mobile .ad {
-margin: 0 0 10px 0;
+.ad, .sidebar-ad {
+margin-top: 10px;
+margin-bottom: 10px;
 background: transparent;
-height: 250px;
-width: auto;
 }
-
-.social-buttons {
-background: #FFFFFF;
-margin: 0 20px 20px 20px;
-overflow: hidden;
 }
-
-.mobile .likebox {
-display: block;
-float: left;
-width: 33.3%;
-padding: 10px 0;
-margin: 0;
-}
-
-.mobile .likebox > div {
-margin: 0 auto;
-}
-
-.mobile .likebox.fb > div {
-width: 13px;
-height: 24px;
-background-position: -35px -74px;
-}
-
-.mobile .likebox.tw > div {
-width: 29px;
-height: 24px;
-background-position: -52px -74px;
-}
-
-.mobile .likebox.in > div {
-width: 25px;
-height: 24px;
-background-position: -4px -74px;
-}
-
-.mobile .likebox:link, .mobile .likebox:visited{
-color: #fff;
-}
-.mobile .likebox.fb, .mobile .share-button.fb {
-background: #3b5998;
-}
-.mobile .likebox.fb:hover, .mobile .share-button.fb:hover {
-background: #4668b3;
-}
-.mobile .likebox.tw, .mobile .share-button.tw {
-background: #55ACEE;
-}
-.mobile .likebox.tw:hover, .mobile .share-button.tw:hover {
-background: #59b3f7;
-}
-.mobile .likebox.in {
-background: #517fa4;
-}
-.mobile .likebox.in:hover{
-background: #598bb5;
-}
-
 @media(max-width: 320px) {
-.mobile .blog-pager-newer-link, .mobile .blog-pager-older-link {
+.blog-pager-newer-link, .blog-pager-older-link {
 margin: 0 10px 10px 10px;
 }
-
 /*
-.mobile .comments {
+.comments {
 margin: 0 10px 10px 10px;
 }
 */
-
-.mobile .disqus-container {
+.disqus-container {
 margin: 0 10px 10px 10px;
 }
-
-.mobile .post {
+.post {
 margin: 0 0 10px 0;
 }
-
-.mobile .post.index, .mobile .popular-post, .mobile .social-buttons {
-margin: 0 10px 10px 10px;
+.post.index, .popular-post, .social-buttons, .footer-list, .unimportant-post, .nav-message-inner, .main-element, .sidebar-post {
+margin: 10px 10px 0;
+}
+.ad-index {
+margin-top: 10px;
+margin-bottom: 10px;
 }
 }
-
+/*
 @media(min-width: 340px) {
-.mobile .ad {
+.ad {
 margin: 0 20px 20px 20px;
 overflow: hidden;
 position: relative;
@@ -3442,31 +3705,63 @@ padding: 10px 0;
 background: #FFFFFF;
 }
 }
-
-
-.mobile .blog-posts {
-padding: 20px 0 0 0;
+*/
+.ad-1, .ad-2, .ad-3 {
+width: 300px;
+height: 250px;
+}
+@media(min-width: 356px) {
+.ad-1, .ad-2, .ad-3 {
+width: 336px;
+height: 280px;
+}
+}
+@media(min-width: 520px) {
+.ad-1 {
+width: 468px;
+height: 60px;
+}
+}
+@media(min-width: 750px) {
+.ad-1 {
+width: 728px;
+height: 90px;
+}
+}
+@media(min-width: 900px) {
+.ad-2, .ad-3 {
+width: 728px;
+height: 90px;
+}
+}
+@media(min-width: 1101px) {
+.ad-3 {
+width: 160px;
+height: 600px;
+}
+.sidebar-ad {
+margin: 15px 0;
+}
+}
+@media(min-width: 1180px) {
+.ad-3 {
+width: 300px;
+height: 600px;
+}
 }
 
-@media(max-width: 320px) {
-.mobile .blog-posts {
-padding: 10px 0 0 0;
-}
-}
-
-</style>
+--></style>
 <script type="text/javascript">var a="&m=1",d="(^|&)m=",e="?",f="?m=1";function g(){var b=window.location.href,c=b.split(e);switch(c.length){case 1:return b+f;case 2:return 0<=c[1].search(d)?null:b+a;default:return null}}var h=navigator.userAgent;if(-1!=h.indexOf("Mobile")&&-1!=h.indexOf("WebKit")&&-1==h.indexOf("iPad")||-1!=h.indexOf("Opera Mini")||-1!=h.indexOf("IEMobile")){var k=g();k&&window.location.replace(k)};
 </script><script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('headEnd');
 </script></head>
 <body class="loading"><div class="cc_banner-wrapper "><div class="cc_banner cc_container cc_container--open"><a href="#null" data-cc-event="click:dismiss" class="cc_btn cc_btn_accept_all">Got it!</a><p class="cc_message">This website uses cookies to ensure you get the best experience. <a data-cc-if="options.link" class="cc_more_info" href="http://www.footyheadlines.com/p/privace-policy.html">More info</a></p></div></div>
 <div id="outer-wrapper">
-<div class="mobile-nav section" id="mobile-nav">
-</div>
 <div id="main-wrapper">
-<div class="header section" id="header"><div class="widget Header" id="Header1">
+<div class="header section" id="header"><div class="widget Header" data-version="1" id="Header1">
 <div id="headerbar">
 <div id="headerbarinner">
+<div class="menu-icon" id="menu-icon"><div></div></div>
 <a href="http://www.footyheadlines.com/" id="siteLogo"><div></div></a>
 <ul class="nav normal">
 <li><a href="/search/label/Balls?max-results=6">Balls</a></li>
@@ -3476,11 +3771,10 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <ul class="nav2">
 <li><a href="/search/label/adidas+Boots?max-results=4">Adidas</a>
 <ul class="nav3">
-<li><a href="/search/label/Adizero?max-results=4">Adizero</a></li>
-<li><a href="/search/label/Adidas X?max-results=4">X 15</a></li>
-<li><a href="/search/label/Adidas Ace?max-results=4">Ace 15</a></li>
+<li><a href="/search/label/Adidas X?max-results=4">X</a></li>
+<li><a href="/search/label/Adidas Ace?max-results=4">Ace</a></li>
 <li><a href="/search/label/Messi+Boots?max-results=4">Messi</a></li>
-<li><a href="/search/label/Primeknit?max-results=4">Primeknit</a></li>
+<li><a href="/search/label/Gloro?max-results=4">Gloro</a></li>
 </ul>
 </li>
 <li><a href="/search/label/Nike+Boots?max-results=4">Nike</a>
@@ -3499,20 +3793,20 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li><a href="/search/label/King?max-results=4">King</a></li>
 </ul>
 </li>
-<li><span>Others</span>
+<li class="mobile-no"><span>Others</span>
 <ul class="nav3">
 <li><a href="/search/label/Mizuno+Boots?max-results=4">Mizuno</a></li>
 <li><a href="/search/label/Umbro+Boots?max-results=4">Umbro</a></li>
 <li><a href="/search/label/New Balance+Boots?max-results=4">New Balance</a></li>
 <li><a href="/search/label/Under Armour+Boots?max-results=4">Under Armour</a></li>
-<li><a href="/search/label/Warrior+Boots?max-results=4">Warrior</a></li>
 <li><a href="/search/label/Boot Watch?max-results=4">Boot Watch</a></li>
+<li><a href="/search/label/Lifestyle?max-results=4">Lifestyle</a></li>
 </ul>
 </li>
 <li class="nav-more"><a href="/search/label/Boots?max-results=4">All football boots</a></li>
 </ul>
 <a href="/2013/01/2013-boot-calender-updated-11-january.html"><div class="nav-teaser">
-<div><img src="http://4.bp.blogspot.com/-it8_hdtuoSY/VmwD_5_5YTI/AAAAAAAAwUM/zFn9r2edJBg/s1600/2016-football-boots-1.jpg"></div>
+<div><img src="https://1.bp.blogspot.com/-9oWtHExl4ic/VwNw9iPhWOI/AAAAAAAA1p0/qF48fKcAi7wyQcM1vTwdevi0_ZdawXlmA/s1600/2016-17-football-boots.jpg"></div>
 <strong>Football Boots Calendar</strong>
 <span>All future boot releases</span>
 </div>
@@ -3520,7 +3814,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </div>
 </div>
 </li>
-<li><a href="/2013/01/2013-boot-calender-updated-11-january.html">Boot Calendar</a></li>
+<li class="mobile-no"><a href="/2013/01/2013-boot-calender-updated-11-january.html">Boot Calendar</a></li>
 <li><a href="/search/label/Kits?max-results=8">Kits</a>
 <div class="nav2-outer">
 <div class="nav2-container">
@@ -3557,7 +3851,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li><a href="/search/label/Schalke+Kits?max-results=4">Schalke 04</a></li>
 </ul>
 </li>
-<li><span>Others</span>
+<li class="mobile-no"><span>Others</span>
 <ul class="nav3">
 <li><a href="/search/label/Ligue 1+Kits?max-results=4">Ligue 1</a></li>
 <li><a href="/search/label/MLS+Kits?max-results=4">MLS</a></li>
@@ -3570,7 +3864,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li class="nav-more"><a href="/search/label/Kits?max-results=4">All kits</a></li>
 </ul>
 <a href="/2015/12/2016-17-kits-overview-all-leaked-and-official-16-17-shirts.html"><div class="nav-teaser">
-<div><img src="http://2.bp.blogspot.com/-hk6tqNOv0_s/Vmni_m_N_NI/AAAAAAAAwRM/Qs0siBAQtc0/s1600/2016-17-kits.jpg"></div>
+<div><img src="https://1.bp.blogspot.com/-j0U7YLHkJpg/V1NIBC4gq9I/AAAAAAAA44M/BPzi2eSE8dcIpxzj-IxZoj9lAQmZYymZwCLcB/s1600/2016-17-kits-overview.jpg"></div>
 <strong>2016-17 Kit Overview</strong>
 <span>All 16-17 Club Kits</span>
 </div>
@@ -3578,27 +3872,35 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </div>
 </div>
 </li>
-<li><a href="/2015/12/2016-17-kits-overview-all-leaked-and-official-16-17-shirts.html">2016-17 Kits Overview</a></li>
+<li class="mobile-no"><a href="/2015/12/2016-17-kits-overview-all-leaked-and-official-16-17-shirts.html">2016-17 Kits Overview</a></li>
 <li><a href="/2015/09/euro-2016-kits-overview.html">Euro 2016 Kits Overview</a></li>
+<li class="mobile-yes"><a href="https://www.facebook.com/FootyHeadlines">Facebook</a></li>
+<li class="mobile-yes"><a href="https://twitter.com/Footy_Headlines">Twitter</a></li>
+<li class="mobile-yes"><a href="https://instagram.com/footyheadlines">Instagram</a></li>
+<li class="mobile-yes"><a href="/p/footy-headlines-contact-form.html">Contact</a></li>
+<li class="mobile-yes"><a href="/p/privace-policy.html">Privacy Policy</a></li>
 </ul>
+<div class="mobile-yes" id="black-overlay"></div>
 <form action="/search" id="searchthis" method="get">
-<input class="search-box" name="q" placeholder="Search" type="text"><input name="max-results" type="hidden" value="6"><input name="by-date" type="hidden" value="false">
+<input class="search-box" id="search-box" name="q" placeholder="Search" type="text"><input name="max-results" type="hidden" value="6"><input name="by-date" type="hidden" value="false">
 </form>
+<div class="search-icon"><div></div></div>
+<div class="close-search"></div>
 </div>
 </div>
 <div class="nav-message-container">
 </div>
-</div>
-</div>
+</div></div>
 <div id="main-page">
 <div id="main-wrap1">
-<div class="main section" id="main"><div class="widget Blog" id="Blog1">
+<div class="main section" id="main"><div class="widget Blog" data-version="1" id="Blog1">
 <div class="blog-posts hfeed" id="blog-posts">
 <div class="item-post-container">
 <div class="post hentry" id="item-post" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
 <a name="4687348093633890882"></a>
-<h1 class="post-title entry-title" itemprop="name"><a href="http://www.footyheadlines.com/p/privace-policy.html">Privacy Policy</a></h1>
+<h1 class="post-title entry-title item" itemprop="name"><a href="http://www.footyheadlines.com/p/privace-policy.html">Privacy Policy</a></h1>
 <div class="post-body entry-content">
+<div class="post-body-inner">
 This Privacy Policy explain how we collect, use, and share information we obtain through your use of Footy Headlines. By using the Services, you explicitly consent to such use of your information and agree to the terms of this Privacy Policy. If you have any further questions regarding the Privace Policy you can <a href="http://www.footyheadlines.com/p/footy-headlines-contact-form.html">contact us</a>.<br>
 <br>
 Effective Date: November 16, 2013<br>
@@ -3633,39 +3935,60 @@ If you have any questions about this Privacy Policy, please feel free to contact
 </div>
 </div>
 </div>
-
+</div>
 </div>
 <script type="text/javascript">window.___gcfg = {'lang': 'en'};</script>
 </div>
 </div>
-<!--comments (disqus)-->
 </div>
-<div class="static_page" id="sidebar-wrap">
-<div class="sidebar section" id="sidebartop"><div class="widget HTML" id="HTML1">
-</div><div class="widget PopularPosts" id="PopularPosts1">
+
+<div class="static_page isNotHome" id="sidebar-wrap">
+		  
+<div class="sidebar section" id="sidebartop"><div class="widget PopularPosts" data-version="1" id="PopularPosts1">
 <div class="sidebarHeader">Popular Posts</div>
 <ul>
-<li><a href="http://www.footyheadlines.com/2013/01/2013-boot-calender-updated-11-january.html">2015-2016 Boot Calendar: Updated 08/12/15</a></li>
+<li><a href="http://www.footyheadlines.com/2015/12/2016-17-kits-overview-all-leaked-and-official-16-17-shirts.html">2016-17 Kits Overview - All Leaked and Official 16-17 Shirts - Updated 04/06/16</a></li>
+<li><a href="http://www.footyheadlines.com/2015/12/manchester-united-16-17-kit.html">Manchester United 16-17 Home Kit Leaked</a></li>
+<li><a href="http://www.footyheadlines.com/2015/12/leaked-manchester-city-16-17-home-kit.html">Manchester City 16-17 Home Kit Leaked</a></li>
+<li><a href="http://www.footyheadlines.com/2016/01/barcelona-16-17-home-kit.html">Barcelona 16-17 Home Kit Released</a></li>
 <li><a href="http://www.footyheadlines.com/2015/12/real-madrid-16-17-home-kit.html">Real Madrid 16-17 Home Kit Leaked</a></li>
-<li><a href="http://www.footyheadlines.com/2015/12/2016-17-kits-overview-all-leaked-and-official-16-17-shirts.html">2016-17 Kits Overview - All Leaked and Official 16-17 Shirts</a></li>
-<li><a href="http://www.footyheadlines.com/2015/12/juventus-16-17-home-kit.html">Juventus 16-17 Home Kit Leaked</a></li>
-<li><a href="http://www.footyheadlines.com/2015/12/new-manchester-city-crest.html">New Manchester City Crest Leaked</a></li>
 </ul>
-</div><div class="widget HTML" id="HTML11">
+</div></div>
+<div class="sidebar-container widget" id="HTML11">
 <div class="sidebar-social">
 <a class="likebox fb" href="https://www.facebook.com/FootyHeadlines"><span class="fb-sidebar"></span></a>
 <a class="likebox tw" href="https://twitter.com/Footy_Headlines"><span class="tw-sidebar"></span></a>
 <a class="likebox in" href="https://instagram.com/footyheadlines"><span class="in-sidebar"></span></a>
 </div>
-</div><div class="widget Feed" id="Feed3">
+</div>
+<div class="sidebar-container widget" id="Feed3">
 <div class="sidebarHeader">New Posts</div>
 <div class="widget-content" id="Feed2-inner"></div>
-</div><div class="widget HTML" id="HTML12">
+</div>
+<div class="sidebar-container widget" id="HTML12">
 <ul class="sidebar-more-links">
 <li class="sidebar-more-link"><a href="/p/footy-headlines-contact-form.html">Contact</a></li>
 <li class="sidebar-more-link"><a href="/p/privace-policy.html">Privacy Policy</a></li>
 </ul>
-</div><div class="widget HTML" id="HTML9">
+</div>
+<div class="sidebar-container widget" id="boot_watch_container">
+<div class="sidebarHeader">Boot Watch</div>
+<div id="sidebar_posts">
+<div class="sidebar-post placeholder">
+<img src="https://lh3.googleusercontent.com/-FiCzyOK4Mew/T4aAj2uVJKI/AAAAAAAAPaY/x23tjGIH7ls/s32/ajax-loader.gif">
+</div>
+</div>
+<a class="link-more" href="http://www.footyheadlines.com/search/label/Boot%20Watch%20Series?max-results=4">See all episodes of Boot Watch</a>
+</div>
+
+</div>
+
+
+<div id="main-wrap2"><div class="widget PopularPosts" data-version="1" id="PopularPosts3">
+</div></div>
+<div id="main-wrap3"></div>
+</div>
+</div></div>
 <script type="text/javascript">
 		                  var disqus_shortname = 'footyheadlines';
                 var disqus_blogger_current_url = "http://www.footyheadlines.com/p/privace-policy.html";
@@ -3680,87 +4003,103 @@ If you have any questions about this Privacy Policy, please feel free to contact
 <style type="text/css">
                     /*.post-comment-link { visibility: hidden; }*/
                 </style>
-</div></div>
-</div>
-<div id="main-wrap2"><div class="disqus-container" id="disqus-container">
-<div class="labelLink" id="button-disqus">Show <span class="disqus-comment-count" data-disqus-url="http://www.footyheadlines.com/p/privace-policy.html">Comments</span></div>
-<div class="comments" id="comments"></div>
-</div><div class="widget PopularPosts" id="PopularPosts3">
-</div></div>
-</div>
-</div></div>
 <script type="text/javascript">
 //<![CDATA[
+
+function LoadNurFussball() {
+	var language = window.navigator.userLanguage || window.navigator.language;
+	
+	if (language == "de") {
+		document.body.className += " de";
+	}
+}
+LoadNurFussball();
 
 //realigning of posts
 
 //important posts to front
 
+var mainwrap2 = document.getElementById("main-wrap2");
+var mainwrap3 = document.getElementById("main-wrap3");
+
+//main page
 if (document.URL.indexOf("html") < 0) {
+	if (document.URL.indexOf("search") < 0 | document.URL.indexOf("label") > 0) {
     var posts = document.getElementById("blog-posts");
     var topPosts = posts.querySelectorAll(".top");
 	var topPosts2 = posts.querySelectorAll(".top2");
-    //var normalPosts = posts.querySelectorAll(".post");	
+    var normalPosts = posts.querySelectorAll(".post");
+	var normalPostsArr = [];
 	
-	//for (var i = topPosts2.length - 1; i >= 0; i--) {
-	for (var i = 0; i < topPosts2.length; i++) {
-		var test = topPosts2[i].querySelector(".post-time").title;
-		
-		var now = new Date().getTime() / 1000;
-		var date = new Date(test);
-		var time = date.getTime() / 1000;
-		var diff = Math.floor((now - time) / 60 / 60);
-		var position = 3;
-		
-		//console.log(diff);
-		
-		if (diff <= 5) {
-			position = 0;
-		}
-		else if (diff <= 10) {
-			position = 1;
-		}
-		else if (diff <= 15) {
-			position = 2;
-		}
-		
-		if (diff <= 12) {
-			
-			var replacedPostTime = posts.querySelectorAll(".post:not(.top):not(.top2)")[position].querySelector(".post-time").title;
-			replacedPostTime = new Date(replacedPostTime).getTime() / 1000;
-			
-			if ((((now - replacedPostTime) / 60) < 30) & ((replacedPostTime - time) / 60 > 30)) {
-				position++;
-			}
-			
-			if (replacedPostTime > time) {			
-				posts.insertBefore(topPosts2[i], posts.querySelectorAll(".post:not(.top):not(.top2)")[position]);
-			}
-		}
+	var semitop = 4;
+	var toptop = 7;
+	
+	if (topPosts.length > 1) {
+		semitop = 2;
+		toptop = 6;
+	} else if (topPosts.length > 0) {
+		semitop = 3;
 	}
-
-    for (var i = topPosts.length - 1; i >= 0; i--) {
-        test = topPosts[i].querySelector(".post-time").title;
-        position = 0;
-
-        var now = new Date().getTime() / 1000;
-        var date = new Date(test);
-        var time = date.getTime() / 1000;
-        var diff = Math.floor((now - time) / 60 / 60);
-
-        //console.log(diff);
-
-        if (diff > 16) {
-            position = 2;
-        } else if (diff > 8) {
-            position = 1;
-        }
-
-        //console.log(test + ";" + position);
-
-        posts.insertBefore(topPosts[i], posts.querySelectorAll(".post")[position]);
-    }
-
+	if (topPosts2.length > 0) {
+		toptop = toptop - (topPosts2.length);
+	}
+	
+	/*
+	var i2 = 0;
+	var i3 = 0;
+	*/
+	
+	var i2 = normalPosts.length - topPosts.length - topPosts2.length;
+	var i3 = topPosts2.length;
+	
+	for (var i = 0; i < normalPosts.length; i++) {
+		var title = normalPosts[i].querySelector(".post-title.entry-title > a").text;
+		var timeString = normalPosts[i].querySelector(".post-time").title;
+		var date = new Date(timeString);
+		var time = parseFloat(date.getTime() / 1000 / 60 / 60); //hours
+		var now = parseFloat(new Date().getTime() / 1000 / 60 / 60); //current time hours
+		var diff = parseFloat(now - time);
+		
+		var isTop = 0;
+		var isTop2 = 0;
+		var isNew = 0;
+		
+		if (normalPosts[i].className.indexOf("top2") > 0) {
+			isTop2 = 1;
+			//i3++;
+		} else if (normalPosts[i].className.indexOf("top") > 0) {
+			isTop = 1;
+		} else {
+			//i2++;
+		}
+		
+		if (diff < 0.5) {
+			isNew = 1;
+		}
+		
+		var sortKey = parseFloat(diff - isTop * (6 + i2) - isTop2 * (2.5 + i2 * 0.4) - isNew * (2.5 + i2* 0.5));
+		
+		normalPosts[i].dataset.sortkey = sortKey;
+		
+		normalPostsArr.push(normalPosts[i]);
+		
+		//console.log(title + " : " + sortKey);
+	}
+	
+	function sortPosts(a, b) {
+		var h1 = a.dataset.sortkey,
+			h2 = b.dataset.sortkey;
+		return h1 - h2;
+	}
+	
+	normalPostsArr.sort(sortPosts);
+	
+	for (var i = 0; i < normalPostsArr.length; i++) {
+		posts.appendChild(normalPostsArr[i]);
+	}
+	
+	//
+	
     var fixedPosts = posts.getElementsByClassName("fixed");
     var blogPosts = posts.getElementsByClassName("normal");
     var blogPostsArr = [];
@@ -3775,12 +4114,6 @@ if (document.URL.indexOf("html") < 0) {
         for (var i2 = 0; i2 <= 10; i2++) {
             var index = "fixed-" + i2;
             if (blogPostsArr[i].className.indexOf(index) > 0) {
-                /*
-            console.log(blogPostsArr[i]);
-            //console.log(i2 + "-" + i);
-            //console.log(blogPosts[i2])
-            //console.log("");
-			*/
                 posts.insertBefore(blogPostsArr[i], blogPosts[blogPosts.length]);
                 if (blogPosts.length > (i2))
                     posts.insertBefore(blogPostsArr[i], blogPosts[i2]);
@@ -3789,15 +4122,100 @@ if (document.URL.indexOf("html") < 0) {
             }
         }
     }
-
+	
+	var blogPosts = document.getElementById("blog-posts");
+	var firstPost = blogPosts.getElementsByClassName("post");
+	var ads = blogPosts.getElementsByTagName("ad");
+	var posts = document.querySelectorAll(".blog-posts > .post");
+	var start = 2;
+	if (windowWidth <= 450) {
+		start = 3;
+	}
+	blogPostsArr = [];
+	
+	for (var i = 0; i < posts.length; i++) {
+		blogPostsArr.push(posts[i]);
+		//console.log(posts[i]);
+	}
+	
+	if (windowWidth <= 450) {
+		//blogPosts.insertBefore(blogPostsArr[2], document.getElementById("ad-3"));
+		blogPosts.appendChild(blogPostsArr[2]);
+		blogPosts.insertBefore(blogPostsArr[1], document.getElementById("ad-2"));
+		blogPosts.insertBefore(blogPostsArr[0], document.getElementById("ad-1"));
+	} else {
+		blogPosts.insertBefore(blogPostsArr[0], document.getElementById("ad-2"));
+		if (blogPostsArr[1] != null)
+			blogPosts.appendChild(blogPostsArr[1]);
+	}
+	
+	var adsCount = 0;
+	for (var i = start; i < blogPostsArr.length; i++) {
+		if (i == start) {
+			if (document.getElementById("nf-text")) {
+				mainwrap2.appendChild(document.getElementById("nf-text"));
+			}
+			if (document.getElementById("social-buttons")) {
+				mainwrap2.appendChild(document.getElementById("social-buttons"));
+			}
+		}
+		if (i == (start + 1)) {
+			if (document.getElementById("unimportant-posts-1") != null) {
+				mainwrap2.appendChild(document.getElementById("unimportant-posts-1"));
+			}
+			if (document.getElementById("PopularPosts3") != null) {
+				mainwrap2.appendChild(document.getElementById("PopularPosts3"));
+			}
+		}
+		if (i == (start + 2)) {
+			if (document.getElementById("story-text")) {
+				mainwrap2.appendChild(document.getElementById("story-text"));
+			}
+		}
+		if (i == (start + 3) && windowWidth < 1100) {
+			if (document.getElementById("boot_watch_container") != null) {
+				mainwrap2.appendChild(document.getElementById("boot_watch_container"));
+			}
+		}
+		if (i == (start + 4) || i == (blogPostsArr.length - 1)) {
+			if (document.getElementById("unimportant-posts-2") != null) {
+				mainwrap2.appendChild(document.getElementById("unimportant-posts-2"));
+			}
+		}
+	
+		mainwrap2.appendChild(blogPostsArr[i]);
+	}
+	
+	mainwrap3.appendChild(document.getElementById("blog-pager"));
+	
+	/*
+	if (blogPostsArr.length > 4)
+		blogPosts.insertBefore(blogPostsArr[4], ads[2].nextElementSibling);
+	if (blogPostsArr.length > 3)
+		blogPosts.insertBefore(blogPostsArr[3], ads[2].nextElementSibling);
+	blogPosts.insertBefore(blogPostsArr[2], ads[2]);
+	blogPosts.insertBefore(blogPostsArr[1], ads[1]);
+	blogPosts.insertBefore(blogPostsArr[0], ads[0]);
+	*/
+	}
+} else {
+	if (document.getElementById("disqus-container") != null) {
+		mainwrap2.appendChild(document.getElementById("disqus-container"));
+	}
+	if (document.getElementById("PopularPosts3") != null) {
+		mainwrap2.appendChild(document.getElementById("PopularPosts3"));
+	}
+	if (document.getElementById("blog-pager") != null) {
+		mainwrap3.appendChild(document.getElementById("blog-pager"));
+	}
 }
 
 //ad / post positions
 
-if(document.URL.indexOf("m=1") < 0){
+if (0==1) {
 
-var mainwrap = document.getElementById("main-wrap2");
-
+//not mobile
+if(windowWidth > 450){
 if (document.URL.indexOf("html") < 0) {
 var posts = document.querySelectorAll(".blog-posts > .post");
 blogPostsArr = [];
@@ -3833,8 +4251,8 @@ mainwrap.appendChild(document.getElementById("unimportant-posts-2"));
 
 //moving a post up if first post is "hidden"
 var blogPosts = document.getElementById("blog-posts");
-var firstPost = document.querySelectorAll(".blog-posts > .post");
-var ads = document.querySelectorAll(".blog-posts > ad");
+var firstPost = blogPosts.getElementsByClassName("post");
+var ads = blogPosts.getElementsByTagName("ad");
 
 blogPosts.insertBefore(firstPost[0], ads[1]);
 blogPosts.insertBefore(firstPost[1], firstPost[2]);
@@ -3848,6 +4266,7 @@ mainwrap.appendChild(document.getElementById("PopularPosts3"));
 }
 mainwrap.appendChild(document.getElementById("blog-pager"));
 }
+// mobile post
 else if (document.URL.indexOf("html") > 0) {
 /*
 var mainwrap = document.getElementById("main-wrap2");
@@ -3857,6 +4276,7 @@ mainwrap.appendChild(document.getElementById("social-buttons"));
 mainwrap.appendChild(document.getElementById("blog-pager"));
 */
 }
+// mobile start
 else {
 //moving a post up if first post is "hidden"
 var blogPosts = document.getElementById("blog-posts");
@@ -3886,6 +4306,8 @@ if (document.getElementById("unimportant-posts-2") != null)
 blogPosts.insertBefore(document.getElementById("unimportant-posts-2"), blogPostsArr[4]);
 }
 
+}
+
 //recent posts widget
 function showrecentposts(json) {
 var text = "<ul>";
@@ -3893,7 +4315,12 @@ var text = "<ul>";
 	//console.log(json);
     var entry = json.feed.entry[i];
     var posttitle = entry.title.$t;
-    var posturl = entry.link[4].href;
+				var posturl = "";
+				for (var i1 = 0; i1 < entry.link.length; i1++) {
+					if (entry.link[i1].rel == "alternate") {
+						posturl = entry.link[i1].href;
+					}
+				}
     posttitle = posttitle.link(posturl);
 	text += "<li>" + posttitle + "</li>";
 }
@@ -3901,6 +4328,47 @@ var text = "<ul>";
 var el = document.getElementById("Feed2-inner");
 if (el != null)
 	el.innerHTML = text + "</ul>";
+}
+
+function BootWatchSidebar(json) {
+    var text = "";
+    var el = document.getElementById("sidebar_posts");
+	if (el != null)
+		el.innerHTML = "";
+
+    if (json.feed.entry != null) {
+		//console.log(json.feed.entry);
+        for (var i = 0; i <= 12; i++) {
+            if (json.feed.entry[i] != null) {
+                var entry = json.feed.entry[i];
+                var posttitle = entry.title.$t;
+				var posturl = "";
+				for (var i1 = 0; i1 < entry.link.length; i1++) {
+					if (entry.link[i1].rel == "alternate") {
+						posturl = entry.link[i1].href;
+					}
+				}
+				if (entry.media$thumbnail != null)
+					var image = entry.media$thumbnail.url.replace("s72-c", "s200-c");
+				else
+					var image = "";
+				var tempText = "<div class=\"sidebar-post\"><a href=\"" + posturl + "\">";
+                tempText += "<div class=\"image-container\"><img class=\"imageClass\" src=\"" + image + "\"></img></div>";
+                tempText += "<div class=\"textContainer\"><h1 class=\"textClass\">" + posttitle + "</h1></div>";
+                tempText += "<div class=\"post-overlay\"></div>";
+                tempText += "</a></div>";
+				if (i < 6) {
+				text += tempText;
+				}
+				else {
+				text2 += tempText;
+				}
+                unimportantPostsCount++;
+            }
+        }
+        if (el != null)
+            el.innerHTML = text;
+    }
 }
 
 function UnimportantPosts(json) {
@@ -3912,6 +4380,12 @@ function UnimportantPosts(json) {
 		el.innerHTML = "";
 	if (el2 != null)
 		el2.innerHTML = "";
+		
+	var replace = "w200-h70-c";
+	
+	if (windowWidth <= 450) {
+		replace = "s72-c";
+	}
 
     if (json.feed.entry != null) {
 		//console.log(json.feed.entry);
@@ -3919,13 +4393,18 @@ function UnimportantPosts(json) {
             if (json.feed.entry[i] != null) {
                 var entry = json.feed.entry[i];
                 var posttitle = entry.title.$t;
-                var posturl = entry.link[4].href;
+				var posturl = "";
+				for (var i1 = 0; i1 < entry.link.length; i1++) {
+					if (entry.link[i1].rel == "alternate") {
+						posturl = entry.link[i1].href;
+					}
+				}
 				if (entry.media$thumbnail != null)
 					var image = entry.media$thumbnail.url;
 				else
 					var image = "";
 				var tempText = "<div class=\"unimportant-post\"><a href=\"" + posturl + "\">";
-                tempText += "<img class=\"imageClass\" src=\"" + image.replace("s72-c", "w200-h70-c") + "\"></img>";
+                tempText += "<div class=\"image-container\"><img class=\"imageClass\" src=\"" + image.replace("s72-c", replace) + "\"></img></div>";
                 tempText += "<div class=\"textContainer\"><h1 class=\"textClass\">" + posttitle + "</h1></div>";
                 tempText += "<div class=\"post-overlay\"></div>";
                 tempText += "</a></div>";
@@ -3945,63 +4424,33 @@ function UnimportantPosts(json) {
     }
 }
 
-function UnimportantPostsMobile(json) {
-    var text = "";
-	var text2 = "";
-    var el = document.getElementById("unimportant-posts-1");
-	var el2 = document.getElementById("unimportant-posts-2");
-
-    if (json.feed.entry != null) {
-        for (var i = 0; i <= 12; i++) {
-            if (json.feed.entry[i] != null) {
-                var entry = json.feed.entry[i];
-                var posttitle = entry.title.$t;
-                var posturl = entry.link[4].href;
-                var image = entry.media$thumbnail.url;
-
-                var tempText = "<div class=\"popular-post\"><a class=\"post-link\" href=\"" + posturl + "?m=1\">";
-                tempText += "<img class=\"post-img-popular\" src=\"" + image + "\"></img>";
-                tempText += "<h1 class=\"post-title-popular\">" + posttitle + "</h1>";
-                tempText += "<div class=\"post-overlay\"></div>";
-                tempText += "</a></div>";
-				if (i < 6) {
-				text += tempText;
-				}
-				else {
-				text2 += tempText;
-				}
-                unimportantPostsCount++;
-            }
-        }
-        if (el != null)
-            el.innerHTML = text;
-		if (el2 != null)
-			el2.innerHTML = text2;
-    } else {
-		if (el != null)
-			el.innerHTML = "";
-		if (el2 != null)
-			el2.innerHTML = "";
-    }
-}
-
 var unimportantPostsCount = 0;
 var unimportantPostsBlockCount = 3;
 
 function UnimportantPosts2(json) {
     var text = "";
     var el = document.getElementById("unimportant-posts-" + unimportantPostsBlockCount);
+	var replace = "w200-h70-c";
+	
+	if (windowWidth <= 450) {
+		replace = "s72-c";
+		console.log("small window");
+	}
 
     if (json.feed.entry != null) {
-        if (document.URL.indexOf("m=1") < 0) {
             for (var i = 0; i <= 12; i++) {
                 if (json.feed.entry[i] != null) {
                     var entry = json.feed.entry[i];
                     var posttitle = entry.title.$t;
-                    var posturl = entry.link[4].href;
+					var posturl = "";
+					for (var i1 = 0; i1 < entry.link.length; i1++) {
+						if (entry.link[i1].rel == "alternate") {
+							posturl = entry.link[i1].href;
+						}
+					}
                     var image = entry.media$thumbnail.url;
                     var tempText = "<div class=\"unimportant-post\"><a href=\"" + posturl + "\">";
-                    tempText += "<img class=\"imageClass\" src=\"" + image.replace("s72-c", "w200-h70-c") + "\"></img>";
+                    tempText += "<div class=\"image-container\"><img class=\"imageClass\" src=\"" + image.replace("s72-c", replace) + "\"></img></div>";
                     tempText += "<div class=\"textContainer\"><h1 class=\"textClass\">" + posttitle + "</h1></div>";
                     tempText += "<div class=\"post-overlay\"></div>";
                     tempText += "</a></div>";
@@ -4009,23 +4458,6 @@ function UnimportantPosts2(json) {
                     unimportantPostsCount++;
                 }
             }
-        } else {
-            for (var i = 0; i <= 12; i++) {
-                if (json.feed.entry[i] != null) {
-                    var entry = json.feed.entry[i];
-                    var posttitle = entry.title.$t;
-                    var posturl = entry.link[4].href;
-                    var image = entry.media$thumbnail.url;
-                    var tempText = "<div class=\"popular-post\"><a class=\"post-link\" href=\"" + posturl + "?m=1\">";
-                    tempText += "<img class=\"post-img-popular\" src=\"" + image + "\"></img>";
-                    tempText += "<h1 class=\"post-title-popular\">" + posttitle + "</h1>";
-                    tempText += "<div class=\"post-overlay\"></div>";
-                    tempText += "</a></div>";
-					text += tempText;
-                    unimportantPostsCount++;
-                }
-            }
-        }
 		if (el != null)
 			el.innerHTML = text;
         unimportantPostsBlockCount++;
@@ -4070,7 +4502,7 @@ window.location.replace(url);
 function UnimportantPostsFetcher()
 {
 var d = new Date();
-d.setDate(d.getDate() - 2);
+d.setDate(d.getDate() - 5);
 
 function pad(num, size) {
     var s = "000000000" + num;
@@ -4079,16 +4511,13 @@ function pad(num, size) {
 
 var mindate = d.getFullYear() + "-" + pad(d.getMonth() + 1, 2) + "-" + pad(d.getDate(), 2) + "T00:00:00Z";
 
-if(document.URL.indexOf("m=1") < 0){
 var script4 = document.createElement('script');
-script4.src = "/feeds/posts/summary/-/ZZZ?published&alt=json&max-results=12&published-min=" + mindate + "&callback=UnimportantPosts";
-document.body.appendChild(script4);
-} else {
-var script4 = document.createElement('script');
-script4.src = "/feeds/posts/summary/-/ZZZ?published&alt=json&max-results=12&published-min=" + mindate + "&callback=UnimportantPostsMobile";
+script4.src = "http://www.footyheadlines.com/feeds/posts/summary/-/ZZZ?published&alt=json&max-results=12&published-min=" + mindate + "&callback=UnimportantPosts";
 document.body.appendChild(script4);
 }
-}
+
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'footyheadlines'; // required: replace example with your forum shortname
 
 //loading more posts at bottom
 (function(a) {
@@ -4101,6 +4530,7 @@ document.body.appendChild(script4);
             e ? d = e.attr("href") : (d = "", b.hide());
             var topPosts = c.find(i).children(".post.top");
             var normalPosts = c.find(i).children(".post").not(".top");
+			var c_temp = c.find(i);
             c = c.find(i).children(".post");
 
             if (count == 0) {
@@ -4133,6 +4563,14 @@ document.body.appendChild(script4);
             //c.insert(1,div);
 			
 			if (document.URL.indexOf("html") > 0 && count == 1) {
+				var social_buttons = c_temp.children("#social-buttons");
+				var story_text = c_temp.children("#story-text");
+				var nf_button = c_temp.children("#nf-text");
+				
+				a(main).find(".post.index").eq(0).after(social_buttons);
+				a(main).find(".post.index").eq(0).after(nf_button);
+				a(main).find(".post.index").eq(1).after(story_text);
+				
 			    var div = $("<div class=\"unimportant-posts\" id=\"unimportant-posts-1\"></div>");
 			    var div2 = $("<div class=\"unimportant-posts\" id=\"unimportant-posts-2\"></div>");
 			    a(main).find(".post.index").eq(2).after(div);
@@ -4330,8 +4768,6 @@ $("#open-search-mobile").removeAttr("style");
 $("#cancel-search").removeAttr("style");
 });
 
-if(document.URL.indexOf("m=1") >= 0){
-
 var menu_open = false;
 
 function toggleMenu() {
@@ -4354,14 +4790,15 @@ $("#menu-icon").click(function () { toggleMenu(); });
 $("#black-overlay").click(function () { toggleMenu(); });
 
 function toggleSearch() {
+if (windowWidth <= 850) {
 $("#headerbar").toggleClass("search-open");
 if ($("#headerbar").hasClass("search-open")) { $("#search-box").focus(); }
 }
+}
 
 $(".search-icon").click(function () { toggleSearch(); });
+$("#search-box").blur(function () { toggleSearch(); });
 $(".close-search").click(function () { toggleSearch(); });
-
-}
 
 $( ".post-shares" ).each(function(index) {
 var obj_shares = $(this);
@@ -4433,6 +4870,11 @@ var script2 = document.createElement('script');
 script2.src="http://www.footyheadlines.com/feeds/posts/default?max-results=5&alt=json&callback=showrecentposts";
 document.body.appendChild(script2);
 
+//boot watch sidebar
+var script6 = document.createElement('script');
+script6.src = "http://www.footyheadlines.com/feeds/posts/default/-/Boot%20Watch%20Series?alt=json&max-results=3&callback=BootWatchSidebar";
+document.body.appendChild(script6);
+
 if(document.URL.indexOf("html") < 0){
 UnimportantPostsFetcher();
 }
@@ -4448,7 +4890,7 @@ function inView(elem)
 }
 
 $el = $(".headerbar-2-container");
-if( $el.length & $("#item-post") ) {
+if( $el.length & $("#item-post")) {
 $(document).scroll(function() {
 if (inView($("#item-post")) && !$el.hasClass("closed")) {
 $el.addClass("closed");
@@ -4494,9 +4936,6 @@ else {
                     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(bloggerjs);
 }
 
-/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-var disqus_shortname = 'footyheadlines'; // required: replace example with your forum shortname
-
 /* * * DON'T EDIT BELOW THIS LINE * * */
 (function () {
 var s = document.createElement('script'); s.async = true;
@@ -4519,34 +4958,42 @@ function ChangeSlideText(wrapper) {
 	}
 }
 
+$currentValue = 0;
+
 function ChangeSlide(type, wrapper) {
+	$currentSlideshow = wrapper.find(".slideshow");
 	$currentSlide = wrapper.find(".slide.active");
 	$arrowRight = wrapper.find(".slideshow-arrow.right");
 	$arrowLeft = wrapper.find(".slideshow-arrow.left");
 	
+	$currentValue = $currentSlideshow.attr("data-transform");
+	if ($currentValue == null) {
+		$currentValue = 0;
+	}
+	$maxValue = $currentSlideshow.attr("data-count");
+	$previousValue = $currentValue;
+	
 	if (type == "right") {
-		$nextSlide = $currentSlide.next(".slide");
-		if ($nextSlide.length > 0) {
-			$currentSlide.css("margin-left", "-100%");
-			$currentSlide.removeClass("active");
-			$nextSlide.addClass("active");
-			$arrowLeft.css("display", "block");
-			ChangeSlideText(wrapper);
-		}
-		if ($nextSlide.is(":last-child"))
-			$arrowRight.css("display", "none");
+		$currentValue = parseInt($currentValue) - 1;
+		$arrowLeft.css("display", "block");
 		wrapper.find(".image-count").css("display","none");
 	} else if (type == "left") {
-		$previousSlide = $currentSlide.prev("li");
-		if ($previousSlide.length > 0) {
-			$previousSlide.css("margin-left", "0");
-			$currentSlide.removeClass("active");
-			$previousSlide.addClass("active");
-			$arrowRight.css("display", "block");
-			ChangeSlideText(wrapper);
-		}
-		if ($previousSlide.is(":first-child"))
-			$arrowLeft.css("display", "none");
+		$currentValue = parseInt($currentValue) + 1;
+		$arrowRight.css("display", "block");
+	}
+	
+	$currentSlideshow.addClass("transition");
+	if ($currentValue <= 0 & ($currentValue * (-1)) <= ($maxValue - 1)) {
+		$currentSlideshow.css("transform", "translateX(" + ($currentValue * $currentSlideshow.width()) + "px)");
+		$currentSlideshow.attr("data-transform", $currentValue);
+	} else {
+		$currentSlideshow.css("transform", "translateX(" + ($previousValue * $currentSlideshow.width()) + "px)");
+	}
+	
+	if ($currentValue == 0) {
+		$arrowLeft.css("display", "none");
+	} else if (($currentValue * (-1)) == ($maxValue - 1)) {
+		$arrowRight.css("display", "none");
 	}
 }
 
@@ -4561,23 +5008,51 @@ $(".slideshow-arrow").click(function() {
 	}
 });
 
-$(".slideshow-wrapper").on("touchstart", touchmove);
+$(".slideshow-wrapper").on("touchstart", touchstart);
+$(".slideshow-wrapper").on("touchmove", touchmove);
 $(".slideshow-wrapper").on("touchend", touchend);
 var touchStart = 0;
+var currentImage = null;
 
-function touchmove(e) {
+function touchstart(e) {
 	touchStart = e.originalEvent.touches[0].pageX;
+	touchStartY = e.originalEvent.touches[0].clientY;
+	
+	currentImage = $(e.currentTarget).find(".slideshow");
+	
+	currentImage.removeClass("transition");
+}
+
+function touchmove(e) {	
+	var touch = e.originalEvent.touches[0].pageX;
+	
+	var difference = touch - touchStart;
+	
+	$currentValue = currentImage.attr("data-transform");
+	if ($currentValue == null)
+		$currentValue = 0;
+	
+	currentImage.css("transform", "translateX(" + (($currentValue * currentImage.width()) + difference) + "px)");
 }
 
 function touchend(e) {
 	var touchEnd = e.originalEvent.changedTouches[0].pageX;
+	var touchEndY = e.originalEvent.changedTouches[0].clientY;
+	
+	//currentImage.css("transform", "");
 	
 	var difference = touchEnd - touchStart;
+	var differenceY = Math.abs(touchEndY - touchStartY);
 	
+	if (differenceY < Math.abs(difference)) {
 	if (difference > 5) {
 		ChangeSlide("left", $(e.currentTarget));
 	} else if (difference < -5) {
 		ChangeSlide("right", $(e.currentTarget));
+	}
+	} else {
+		currentImage.addClass("transition");
+		currentImage.css("transform", "translateX(" + (currentImage.attr("data-transform") * currentImage.width()) + "px)");
 	}
 }
 
@@ -4586,6 +5061,9 @@ $(".slideshow").each(function(index){
 	
 	/* Add image count indicator */
 	$image_count = $(this).find("li").length;
+	
+	$(this).attr("data-count", $image_count);
+	$(this).attr("data-transform", 0);
 	
 	$(this).parent().find(".slideshow-controls").append("<div class=\"image-count\">+" + ($image_count-1) + "</div>");
 	
@@ -4625,14 +5103,19 @@ else window.onload = getScript;
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
   
-if(document.URL.indexOf("m=1") > 0){
-changePos();
-}
+//changePos();
+
 function changePos() {
     var header = document.getElementById("headerbar-2");
 	var main = document.getElementById("main-wrap1");
 	if (header != null){
-	main.style.marginTop = "35px";
+		if (windowWidth > 450 & windowWidth <= 850) {
+			main.style.marginTop = "40px";
+			} else if (windowWidth <= 450) {
+			main.style.marginTop = "35px";
+			} else {
+			main.style.marginTop = "";
+			}
 	}
 }
 
@@ -4640,6 +5123,12 @@ if (document.querySelector(".nav-message") != null)
 document.querySelector(".nav-message").innerHTML = document.querySelector(".nav-message").innerHTML.replace("+", " ");
 if (document.querySelector(".nav-message-m") != null)
 document.querySelector(".nav-message-m").innerHTML = document.querySelector(".nav-message-m").innerHTML.replace("+", " ");
+
+window.onresize = function(event){
+	windowWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
+	//changePos();
+	//changeImageSize();
+}
 
 //]]>
 </script>
@@ -4687,23 +5176,16 @@ document.body.className = document.body.className + " opera-mini";
 /*
 <!-- <script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
-</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/278981662-widgets.js"></script>
+</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3107131574-widgets.js"></script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script type='text/javascript'>
 if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '7535398437004525886';BLOG_attachCsiOnload('static_page_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7535398437004525886','//www.footyheadlines.com/p/privace-policy.html','7535398437004525886');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7535398437004525886', 'bloggerUrl': 'https://www.blogger.com', 'title': 'Footy Headlines', 'pageType': 'static_page', 'pageId': '4687348093633890882', 'url': 'http://www.footyheadlines.com/p/privace-policy.html', 'canonicalUrl': 'http://www.footyheadlines.com/p/privace-policy.html', 'homepageUrl': 'http://www.footyheadlines.com/', 'canonicalHomepageUrl': 'http://www.footyheadlines.com/', 'blogspotFaviconUrl': 'http://www.footyheadlines.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'analyticsAccountNumber': '', 'useUniversalAnalytics': false, 'pageName': 'Privacy Policy', 'pageTitle': 'Footy Headlines: Privacy Policy', 'metaDescription': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Footy Headlines - Atom\42 href\75\42http://www.footyheadlines.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Footy Headlines - RSS\42 href\75\42http://www.footyheadlines.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Footy Headlines - Atom\42 href\75\42https://www.blogger.com/feeds/7535398437004525886/posts/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { (function(){function c(a){this.t\75{};this.tick\75function(a,c,b){var d\75void 0!\75b?b:(new Date).getTime();this.t[a]\75[d,c];if(void 0\75\75b)try{window.console.timeStamp(\42CSI/\42+a)}catch(e){}};this.tick(\42start\42,null,a)}var a;window.performance\46\46(a\75window.performance.timing);var h\75a?new c(a.responseStart):new c;window.jstiming\75{Timer:c,load:h};if(a){var b\75a.navigationStart,e\75a.responseStart;0\74b\46\46e\76\75b\46\46(window.jstiming.srt\75e-b)}if(a){var d\75window.jstiming.load;0\74b\46\46e\76\75b\46\46(d.tick(\42_wtsrt\42,void 0,b),d.tick(\42wtsrt_\42,\n\42_wtsrt\42,e),d.tick(\42tbsd_\42,\42wtsrt_\42))}try{a\75null,window.chrome\46\46window.chrome.csi\46\46(a\75Math.floor(window.chrome.csi().pageT),d\46\0460\74b\46\46(d.tick(\42_tbnd\42,void 0,window.chrome.csi().startE),d.tick(\42tbnd_\42,\42_tbnd\42,b))),null\75\75a\46\46window.gtbExternal\46\46(a\75window.gtbExternal.pageT()),null\75\75a\46\46window.external\46\46(a\75window.external.pageT,d\46\0460\74b\46\46(d.tick(\42_tbnd\42,void 0,window.external.startE),d.tick(\42tbnd_\42,\42_tbnd\42,b))),a\46\46(window.jstiming.pt\75a)}catch(k){}})();window.tickAboveFold\75function(c){var a\0750;if(c.offsetParent){do a+\75c.offsetTop;while(c\75c.offsetParent)}c\75a;750\76\75c\46\46window.jstiming.load.tick(\42aft\42)};var f\75!1;function g(){f||(f\75!0,window.jstiming.load.tick(\42firstScrollTime\42))}window.addEventListener?window.addEventListener(\42scroll\42,g,!1):window.attachEvent(\42onscroll\42,g);\n })();\74/script\076', 'mobileHeadScript': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/433c1c2e1ace5832', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'messages', 'data': {'archive': 'Archive', 'deleteBacklink': 'Delete Backlink', 'deleteComment': 'Delete Comment', 'emailAddress': 'Email Address', 'getEmailNotifications': 'Get email notifications', 'keepReading': 'Keep reading', 'labels': 'Labels', 'loadMorePosts': 'Load more posts', 'loading': 'Loading...', 'myBlogList': 'My Blog List', 'myFavoriteSites': 'My favorite sites', 'newer': 'Newer', 'newerPosts': 'Newer Posts', 'newest': 'Newest', 'noResultsFound': 'No results found', 'noTitle': 'No title', 'older': 'Older', 'olderPosts': 'Older Posts', 'oldest': 'Oldest', 'onlyTeamMembersCanComment': 'Note: Only a member of this blog may post a comment.', 'popularPosts': 'Popular Posts', 'popularPostsFromThisBlog': 'Popular posts from this blog', 'postAComment': 'Post a Comment', 'reportAbuse': 'Report Abuse', 'search': 'Search', 'share': 'Share', 'showAll': 'Show all', 'subscribe': 'Subscribe', 'subscribeToThisBlog': 'Subscribe to this blog', 'theresNothingHere': 'There\47s nothing here!'}}, {'name': 'skin', 'data': {'vars': {'sitecolor': '#ff881f'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML66', 'mobile-nav', null, document.getElementById('HTML66'), {}, 'displayModeFull'));
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7535398437004525886', 'bloggerUrl': 'https://www.blogger.com', 'title': 'Footy Headlines', 'pageType': 'static_page', 'pageId': '4687348093633890882', 'url': 'http://www.footyheadlines.com/p/privace-policy.html', 'canonicalUrl': 'http://www.footyheadlines.com/p/privace-policy.html', 'homepageUrl': 'http://www.footyheadlines.com/', 'canonicalHomepageUrl': 'http://www.footyheadlines.com/', 'blogspotFaviconUrl': 'http://www.footyheadlines.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'analyticsAccountNumber': '', 'useUniversalAnalytics': false, 'pageName': 'Privacy Policy', 'pageTitle': 'Footy Headlines: Privacy Policy', 'metaDescription': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Footy Headlines - Atom\x22 href\x3d\x22http://www.footyheadlines.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Footy Headlines - RSS\x22 href\x3d\x22http://www.footyheadlines.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Footy Headlines - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7535398437004525886/posts/default\x22 /\x3e\n', 'meTag': '', 'openIdOpTag': '', 'latencyHeadScript': '\x3cscript type\x3d\x22text/javascript\x22\x3e(function() { (function(){function c(a){this.t\x3d{};this.tick\x3dfunction(a,c,b){var d\x3dvoid 0!\x3db?b:(new Date).getTime();this.t[a]\x3d[d,c];if(void 0\x3d\x3db)try{window.console.timeStamp(\x22CSI/\x22+a)}catch(e){}};this.tick(\x22start\x22,null,a)}var a;window.performance\x26\x26(a\x3dwindow.performance.timing);var h\x3da?new c(a.responseStart):new c;window.jstiming\x3d{Timer:c,load:h};if(a){var b\x3da.navigationStart,e\x3da.responseStart;0\x3cb\x26\x26e\x3e\x3db\x26\x26(window.jstiming.srt\x3de-b)}if(a){var d\x3dwindow.jstiming.load;0\x3cb\x26\x26e\x3e\x3db\x26\x26(d.tick(\x22_wtsrt\x22,void 0,b),d.tick(\x22wtsrt_\x22,\n\x22_wtsrt\x22,e),d.tick(\x22tbsd_\x22,\x22wtsrt_\x22))}try{a\x3dnull,window.chrome\x26\x26window.chrome.csi\x26\x26(a\x3dMath.floor(window.chrome.csi().pageT),d\x26\x260\x3cb\x26\x26(d.tick(\x22_tbnd\x22,void 0,window.chrome.csi().startE),d.tick(\x22tbnd_\x22,\x22_tbnd\x22,b))),null\x3d\x3da\x26\x26window.gtbExternal\x26\x26(a\x3dwindow.gtbExternal.pageT()),null\x3d\x3da\x26\x26window.external\x26\x26(a\x3dwindow.external.pageT,d\x26\x260\x3cb\x26\x26(d.tick(\x22_tbnd\x22,void 0,window.external.startE),d.tick(\x22tbnd_\x22,\x22_tbnd\x22,b))),a\x26\x26(window.jstiming.pt\x3da)}catch(k){}})();window.tickAboveFold\x3dfunction(c){var a\x3d0;if(c.offsetParent){do a+\x3dc.offsetTop;while(c\x3dc.offsetParent)}c\x3da;750\x3e\x3dc\x26\x26window.jstiming.load.tick(\x22aft\x22)};var f\x3d!1;function g(){f||(f\x3d!0,window.jstiming.load.tick(\x22firstScrollTime\x22))}window.addEventListener?window.addEventListener(\x22scroll\x22,g,!1):window.attachEvent(\x22onscroll\x22,g);\n })();\x3c/script\x3e', 'mobileHeadScript': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/7a67b1e290978201', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'features', 'data': {'templateBrowserTheme': true, 'widgetVisibility': true}}, {'name': 'messages', 'data': {'adsGoHere': 'Ads go here', 'archive': 'Archive', 'authorSaid': '%1 said...', 'authorSaidWithLink': '\x3ca href\x3d\x22%2\x22 rel\x3d\x22nofollow\x22\x3e%1\x3c/a\x3e said...', 'blogArchive': 'Blog Archive', 'by': 'By', 'byAuthor': 'By %1', 'byAuthorLink': 'By \x3ca href\x3d\x22%2\x22\x3e%1\x3c/a\x3e', 'configurationRequired': 'Configuration required', 'deleteBacklink': 'Delete Backlink', 'deleteComment': 'Delete Comment', 'edit': 'Edit', 'emailAddress': 'Email Address', 'getEmailNotifications': 'Get email notifications', 'hidden': 'Hidden', 'keepReading': 'Keep reading', 'labels': 'Labels', 'loadMorePosts': 'Load more posts', 'loading': 'Loading...', 'myBlogList': 'My Blog List', 'myFavoriteSites': 'My favorite sites', 'newer': 'Newer', 'newerPosts': 'Newer Posts', 'newest': 'Newest', 'noResultsFound': 'No results found', 'noTitle': 'No title', 'numberOfComments': '{numComments, plural, \x3d0 {No comments} \x3d1 {1 comment} other {# comments}}', 'older': 'Older', 'olderPosts': 'Older Posts', 'oldest': 'Oldest', 'onlyTeamMembersCanComment': 'Note: Only a member of this blog may post a comment.', 'popularPosts': 'Popular Posts', 'popularPostsFromThisBlog': 'Popular posts from this blog', 'postAComment': 'Post a Comment', 'postedBy': 'Posted by', 'postedByAuthor': 'Posted by %1', 'postedByAuthorLink': 'Posted by \x3ca href\x3d\x22%2\x22\x3e%1\x3c/a\x3e', 'readMore': 'Read more', 'recentPosts': 'Recent posts', 'reportAbuse': 'Report Abuse', 'search': 'Search', 'searchBlog': 'Search blog', 'share': 'Share', 'showAll': 'Show all', 'showLess': 'Show less', 'showMore': 'Show more', 'someOfMyFavoriteSites': 'Some of my favorite sites', 'subscribe': 'Subscribe', 'subscribeTo': 'Subscribe to:', 'subscribeToThisBlog': 'Subscribe to this blog', 'theresNothingHere': 'There\x27s nothing here!', 'viewAll': 'View all', 'visible': 'Visible', 'visitProfile': 'Visit profile', 'widgetNotAvailableInPreview': 'This content is not available in blog preview.', 'widgetNotAvailableOnHttps': 'This content is not yet available over encrypted connections.'}}, {'name': 'skin', 'data': {'vars': {'sitecolor': '#ff881f'}, 'override': ''}}, {'name': 'template', 'data': {'name': 'Custom', 'isResponsive': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'title': 'Privacy Policy', 'description': 'This Privacy Policy explain how we collect, use, and share information we obtain through your use of Footy Headlines. By using the Services,...'}}]);
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header2', 'header', null, document.getElementById('Header2'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/4156661259-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/1185134592-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/699767259-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts2', 'main', null, document.getElementById('PopularPosts2'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts3', 'main', null, document.getElementById('PopularPosts3'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebartop', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebartop', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML11', 'sidebartop', null, document.getElementById('HTML11'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_FeedView', new _WidgetInfo('Feed3', 'sidebartop', null, document.getElementById('Feed3'), {'title': 'New Posts', 'showItemDate': false, 'showItemAuthor': false, 'feedUrl': 'http://www.footyheadlines.com/feeds/posts/default', 'numItemsShow': 5, 'loadingMsg': 'Loading...', 'openLinksInNewWindow': false}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'sidebartop', null, document.getElementById('HTML12'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'sidebartop', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
 </script>
 </body> -->
 */
