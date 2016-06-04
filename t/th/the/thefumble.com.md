@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefumble.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628181519id_/http%3A//www.thefumble.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefumble.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604201639id_/http%3A//www.obsev.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | The Fumble
+# Privacy Policy - Obsev
 
 Effective Date: May 28, 2014
 
