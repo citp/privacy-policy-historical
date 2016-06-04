@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the controlyourcash.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016190111id_/http%3A//www.controlyourcash.com/privacy-policy-demanded-by-facebook) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the controlyourcash.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604163312id_/http%3A//www.controlyourcash.com/privacy-policy-demanded-by-facebook) for the most accurate reproduction.*
 
-# Privacy Policy, demanded by Facebook | Control Your Cash: Making Money Make Sense
+# Privacy Policy, Demanded By Facebook | Control Your Cash: Making Money Make Sense
 
 There’s nothing more emasculating than having a 20-something Harvard nerd tell us how to do things. But because we have a Facebook page, they’re saying we need a privacy policy.
 
