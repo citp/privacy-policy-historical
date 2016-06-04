@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xactware.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205013036id_/http%3A//www.xactware.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xactware.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604114522id_/http%3A//www.xactware.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xactware
 
-**Effective Date: 24 March 2014**
+**Effective Date: 3 May 2016**
 
 Xactware Solutions, Inc. (“Xactware”) respects your concerns about privacy. This Online Privacy Notice applies to personal information we collect on [www.xactware.com](https://web.archive.org/en-us/) (the “Site”). The Online Privacy Notice describes the types of personal information we obtain, how we use the information, with whom we share it, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
@@ -63,9 +63,9 @@ You may contact us as described in the “How to Contact Us” section below to 
 
 ### Data Transfers
 
-We may transfer the personal information we obtain about you to countries other than the country in which we originally collected the information. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Online Privacy Notice and in accordance with applicable law.
+We may transfer the personal information we obtain about you to countries other than the country in which we originally collected the information. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries (such as the United States), we will protect that information as described in this Online Privacy Notice and in accordance with applicable law.
 
-If you are located in the EEA or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside the EEA or Switzerland. XACTWARE is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission, and Switzerland regarding the collection, storage, use, transfer, and other processing of personal data transferred from the EEA or Switzerland to the United States. Click here to view our [Safe Harbor Privacy Statement](https://web.archive.org/en-us/xactware-safe-harbor-privacy-statement/).
+If you are located in the EEA or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside the EEA or Switzerland. In addition, with regard to transfers of personal information to the U.S. Xactware is certified under the Safe Harbor privacy framework as developed by the U.S. Department of Commerce, the European Commission, and Switzerland regarding the transfer of personal data from the EEA or Switzerland to the United States. Click here to view our [Safe Harbor Privacy Statement](https://web.archive.org/en-us/xactware-safe-harbor-privacy-statement/). While the Safe Harbor framework is no longer considered a valid data transfer mechanism in the EEA, Xactware continues to comply with the relevant principles of the Safe Harbor.
 
 ### How We Protect Personal Information
 
