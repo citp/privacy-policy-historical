@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stablehost.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914005403id_/https%3A//www.stablehost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stablehost.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604134218id_/https%3A//www.stablehost.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | StableHost
 
@@ -40,7 +40,7 @@ By default, customers do receive any voluntary system updates, such as the newsl
 
   * ### Security
 
-StableHost.com uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. StableHost.com uses security measures including and not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. When we ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer ("SSL") technology.
+StableHost.com uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. StableHost.com uses security measures including and not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. When we ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer ("SSL") technology. StableHost.com adheres to all guidelines brought by the credit card merchants and is fully PCI compliant regarding the storage and transmission of credit card data.
 
   * ### Data and Information Submitted to Another Person or Entity on Our Network
 
