@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530062931id_/https%3A//www.ruelala.com/faq/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604103128id_/https%3A//www.ruelala.com/common/privacy) for the most accurate reproduction.*
 
-# 
+# Rue La La - At Your Service
 
 Rue La La is committed to protecting your privacy. At Rue La La, we want you to have an enjoyable shopping experience. And while it is necessary for us to collect certain personal information, we respect and protect your right to privacy as set forth in this Privacy Policy. This Privacy Policy applies to our websites (including ruelala.com), mobile applications and related services (collectively, the "Services"). This Privacy Policy does not apply to other websites to which we link. You agree that your use of the Services signifies that you have read and consent to the collection, use and sharing of your information in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, you should not use the Services.
 
@@ -120,4 +120,6 @@ Boston, MA 02210
 [atyourservice@ruelala.com](mailto:atyourservice@ruelala.com "atyourservice@ruelala.com")
 
 Last Updated: May 3, 2013  
-© 2008 - 2015 Retail Convergence.com, LP. All rights reserved. 
+© 2008 - 2016 Retail Convergence.com, LP. All rights reserved. 
+
+Back to top
