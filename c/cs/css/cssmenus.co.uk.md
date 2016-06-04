@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssmenus.co.uk privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220025915id_/http%3A//www.cssplay.co.uk/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssmenus.co.uk privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604022752id_/http%3A//www.cssplay.co.uk/w3c/privacy.html) for the most accurate reproduction.*
 
 # Stu Nicholls | CSS PLAY | Privacy Policy
 
