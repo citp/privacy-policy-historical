@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abhibus.com privacy policy that was archived on 2015-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150405235510id_/http%3A//www.abhibus.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abhibus.com privacy policy that was archived on 2016-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605000053id_/http%3A//www.abhibus.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -14,7 +14,7 @@
     <!-- Mobile viewport optimized: h5bp.com/viewport -->
     <meta name="viewport" content="width=device-width">
    <link rel="icon" href="/favicon.ico" type="image/x-icon">
-   <link type="text/css" rel="stylesheet" href="http://www.abhibus.com/css/style.css">
+   <link type="text/css" rel="stylesheet" href="http://www.abhibus.com/css/style.css?v=5">
    <link type="text/css" rel="stylesheet" href="http://www.abhibus.com/css/jquery-ui.css">
    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css">
   <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
@@ -22,14 +22,25 @@
        Modernizr enables HTML5 elements & feature detects for optimal performance.
        Create your own custom Modernizr build: www.modernizr.com/download/ -->
   <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.abhibus.com/js/master.script.js" type="text/javascript" language="JavaScript"></script>
-  <script src="http://www.abhibus.com/js/masterScript.js" type="text/javascript" language="JavaScript"></script>
+  <script src="http://www.abhibus.com/js/masterScript.js?v=2" type="text/javascript" language="JavaScript"></script>
  <script type="text/javascript">
 	var mouse_is_insidecc="";
       $(document).ready(function() {
-        $('.Log-popbox').popbox();
-        $(".open").click(function() {
-          $("#LoginPop").load("http://www.abhibus.com/account/sign_in_pop");
-        });
+     
+        $(".close").click(function(){
+			$('#light').hide();
+			$("#fade").hide();	
+			$('html,body').css({'overflow': 'auto','height': 'auto'});	
+		});
+			
+		$(".open").click(function(){
+			$('#light').show();
+			$('#fade').show();						
+			 $("#login-form").load("http://www.abhibus.com/account/sign_in_pop");
+			$('html,body').css({'overflow': 'hidden','height': '100%'});		
+		});	
+		
+		
 		$('.selectBoxdcc').hover(function(){
 		mouse_is_insidecc=true;
 		}, function(){
@@ -77,6 +88,14 @@ _gat._getTrackerByName()._trackEvent(category, action);
         <!-- ygJtFbUXNFdAjxUfZ-2LaxjW41U -->
   </head>
   <body>
+	    <div class="popup-abhicash" id="light">
+				<div class="abhi-pop-login">
+				<div class="close">X</div>
+				<div id="login-form"> </div>
+				</div>
+
+			</div>
+			<div id="fade" class="black_overlay"></div>
   <!-- Start Alexa Certify Javascript -->
 <script type="text/javascript">
 _atrk_opts = { atrk_acct:"W6Foi1awA+00w7", domain:"abhibus.com",dynamic: true};
@@ -92,12 +111,7 @@ _atrk_opts = { atrk_acct:"W6Foi1awA+00w7", domain:"abhibus.com",dynamic: true};
 <!-- Header section  -->
  <header><div class="topHeader wrap">
 	<div class="welcomeNote" id="AccLogin">
-			<span>Hello there,</span> <span class="Log-popbox"><a class="open" href="javascript:" data-fancybox-group="gallery">Join in</a> to travel easy
-            <div class="Log-box" style="display:none;">
-              <div class="Log-arrow"></div>
-              <div class="Log-arrow-border"></div>
-              <div id="LoginPop" style="position:relative; height:280px; width: 230px;"></div>
-            </div>
+			<span class="Log-popbox"><a class="open" href="javascript:">Log In / Sign Up</a>
           </span>
     	</div>
 	<div class="links">
@@ -274,8 +288,7 @@ Remarketing tags may not be associated with personally identifiable information 
 var google_tag_params = {
 flight_originid : '', 
 flight_destid : '', 
-flight_startdate : '', 
-flight_enddate : '', 
+flight_startdate : '1970-01-01', 
 flight_pagetype: 'searchresults'
 };
 </script>
@@ -293,7 +306,6 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/988852341/?value=0&amp;label=Mrl2CIOSyg0Q9eDC1wM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-
 
  
 
