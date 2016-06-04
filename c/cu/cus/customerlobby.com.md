@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customerlobby.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905131745id_/https%3A//customerlobby.com/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerlobby.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604170917id_/https%3A//www.customerlobby.com/index/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Lobby (510) 230-0588
 
