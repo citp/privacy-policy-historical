@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the theblogpress.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025191121id_/http%3A//webhostquiz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogpress.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604072654id_/http%3A//theblogpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BlogPress
 
-Last Updated on 06/17/2014
+Last Updated on 03/30/2016
 
 BlogPress takes your privacy seriously. We will not sell, lease, or exchange your personal data to, or otherwise share your personal data with, third parties in ways other than described in this Privacy Policy.
 
-This Privacy Policy governs all use of the BlogPress website (blogpressdev.com) and all content, services and products available at or through the website, including, but not limited to, the BlogPress hosting and domain name services (“BlogPress”), (taken together, the Website). The Website is owned and operated by Dan & Jennifer Media, Inc. Dan & Jennifer Media, Inc. is the sole owner of information collected on the Website.
+This Privacy Policy governs all use of the BlogPress website (blogpressdev.com) and all content, services and products available at or through the website, including, but not limited to, the BlogPress hosting and domain name services (“BlogPress”), (taken together, the Website). The Website is owned and operated by Dan & Jennifer Media, Inc. Dan & Jennifer Media, Inc. is the sole owner of information collected on the Website.
 
 The Website is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, the [BlogPress Terms of Service](http://blogpressdev.com/terms/ "BlogPress Terms of Service")) and procedures that may be published from time to time on the Website by BlogPress (collectively, the “Agreement”).
 
@@ -14,11 +14,11 @@ The Website is offered subject to your acceptance without modification of all of
 
 ### Registration
 
-The BlogPress service requires a login in order to provide you with a personalized account. During our account registration process, we will collect a login name, password, and an email address from you. You must provide all of this information in order to obtain an account. After completing our registration form, you will receive a welcome email describing your new BlogPress account, and how to access that account. You may, at your option, also store your social media and other third party credentials as part of your account with BlogPress.
+The BlogPress service requires a login in order to provide you with a personalized account. During our account registration process, we will collect a login name, password, and an email address from you. You must provide all of this information in order to obtain an account. After completing our registration form, you will receive a welcome email describing your new BlogPress account, and how to access that account. You may, at your option, also store your social media and other third-party credentials as part of your account with BlogPress.
 
 ### Account Subscriptions
 
-When you create an account, BlogPress will collect personally identifiable information (credit card number, billing address, phone number) and keep this information on file in our secure server in order to process your recurring invoices. This information is only used to verify credit card authenticity, and issue invoices as per your service agreement. Upon discontinuation of BlogPress service, your information will be destroyed on our billing system.
+When you create an account, BlogPress will collect personally identifiable information (credit card number, billing address, phone number). This information is stored by our secure PCI compliant payment processing service in order to process your recurring invoices. This information is only used to verify credit card authenticity, and issue invoices as per your service agreement.
 
 If we are unable to process your subscription for a given month, this information, along with your account information, may be used to contact you.
 
@@ -28,11 +28,11 @@ Other BlogPress members hosting websites with BlogPress are given tools that may
 
 ### Server Logs
 
-When accessing web pages on the Website domain, BlogPress may log your IP address, access URL, time of access, browser type, and referral URL in order to provide us with internal information regarding site traffic statistics. This information may also be used to identify users who are using the service for spam or other activity that is deemed in conflict with our Terms of Website. This information is used in the aggregate, and is never linked back to any personally identifiable information.
+When accessing web pages on the Website domain, BlogPress may log your IP address, access URL, time of access, browser type, and referral URL in order to provide us with internal information regarding site traffic statistics. This information may also be used to identify users who are using the service for spam or other activity that is deemed in conflict with our Terms of Service. This information is used in the aggregate and is never linked back to any personally identifiable information.
 
 ## Removal Of Personally Identifiable Information
 
-To remove your personally identifiable information from our system, submit your account for deactivation via our customer support form. Your personal information will be removed immediately, though your actual login name will remain reserved on our system until re-collection.
+To remove your personally identifiable information from our system, submit your account and/or website for deletion via our customer support form. Your personal information will be removed within 2 business days, though your actual login name will remain reserved on our system until re-collection.
 
 ## Communications from BlogPress
 
