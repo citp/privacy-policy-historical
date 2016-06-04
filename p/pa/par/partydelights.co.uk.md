@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partydelights.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207093344id_/http%3A//www.partydelights.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partydelights.co.uk privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604051622id_/http%3A//www.partydelights.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | PartyDelights.co.uk
 
@@ -116,9 +116,7 @@ We use Google Analytics as a third-party vendor for Remarketing purposes:
 
 ## Your rights
 
-You have the right to ask us not to process your personal data for our marketing purposes.. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to contact you. You can also exercise the right at any time by contacting us at [customercare@partydelights.co.uk](mailto:customercare@partydelights.co.uk)
-
-[
+You have the right to ask us not to process your personal data for our marketing purposes.. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to contact you. You can also exercise the right at any time by contacting us via our help section [contact us](https://web.archive.org/help/)
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. The operators of these sites may collect information from you that will be used by them in accordance with their policy, which may differ from ours.
 
@@ -132,9 +130,7 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ## Contact
 
-](mailto:customercare@partydelights.co.uk)
-
-[Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to ](mailto:customercare@partydelights.co.uk)[customercare@partydelights.co.uk](mailto:customercare@partydelights.co.uk)
+Questions, comments and requests regarding this privacy policy are welcomed and should be submitted via our help section [contact us](https://web.archive.org/help/)
 
 ## Email Privacy
 
