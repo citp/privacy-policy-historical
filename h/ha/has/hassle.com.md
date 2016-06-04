@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the hassle.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906195410id_/https%3A//hassle.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hassle.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604074728id_/https%3A//www.hassle.com/uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hassle.com
 
   1. ## Who are we?
 
     1. We are Teddle Limited. We own and operate www.hassle.com (the **site** ) and we are committed to protecting and respecting your privacy. 
-    2. We are a limited company registered in England and Wales under company number 07991751 and have our registered office at W217 Westminster Business Square, Durham Street, London, England, SE11 5JH. Our main trading address is Office W217, Westminster Business Square, 1-45 Durham Street, Vauxhall, London, SE11 5JH and our VAT number is GB 132 8488 02. 
+    2. We are a limited company registered in England and Wales under company number 07991751 and have our registered office at Unit CRLG/G, Cranmer House, 39 Brixton Road, London, SW9 6DZ, UK. Our main trading address is Unit CRLG/G, Cranmer House, 39 Brixton Road, London, SW9 6DZ, UK and our VAT number is GB 132 8488 02. 
     3. For the purposes of the Data Protection Act 1998 (the **Act** ), the data controller is Teddle Limited and we are registered on the Information Commissioner’s Register of Data Controllers under registration number **Z3229504**. 
   2. ## What’s the point of this policy?
 
@@ -82,7 +82,7 @@
     2. For information about your rights under UK data protection laws, see the website of the [UK Information Commissioner](http://www.dataprotection.gov.uk/). 
   12. ## Contact
 
-    1. If you have any questions or feedback about this policy, please contact us by writing to us at Office W217, Westminster Business Square, 1-45 Durham Street, Vauxhall, London, SE11 5JH or by emailing us at [info@hassle.com](mailto:info@hassle.com). 
+    1. If you have any questions or feedback about this policy, please contact us by writing to us at Unit CRLG/G, Cranmer House, 39 Brixton Road, London, SW9 6DZ, UK or by emailing us at [info@hassle.com](mailto:info@hassle.com). 
 
 
 
@@ -97,7 +97,7 @@ This acceptable use policy sets out the terms between you and us under which you
 
 Your use of our site means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our [terms and conditions](https://web.archive.org/uk/terms).
 
-www.hassle.com is a site operated by Teddle Limited. We are a limited company registered in England and Wales under company number 07991751 and have our registered office at W217 Westminster Business Square, Durham Street, London, England, SE11 5JH. Our main trading address is Office W217, Westminster Business Square, 1-45 Durham Street, Vauxhall, London, SE11 5JH and our VAT number is GB 132 8488 02.
+www.hassle.com is a site operated by Teddle Limited. We are a limited company registered in England and Wales under company number 07991751 and have our registered office at Unit CRLG/G, Cranmer House, 39 Brixton Road, London, SW9 6DZ, UK. Our main trading address is Unit CRLG/G, Cranmer House, 39 Brixton Road, London, SW9 6DZ, UK and our VAT number is GB 132 8488 02.
 
 ## Prohibited uses
 
@@ -194,3 +194,6 @@ We may revise this acceptable use policy at any time by amending this page. You 
 We are currently working to cover more of the UK, check back soon. 
 
 Please give us your email address and we will email you when we are there. :) 
+
+  
+
