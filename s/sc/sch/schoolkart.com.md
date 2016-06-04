@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolkart.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110055538id_/http%3A//www.schoolkart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolkart.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604080246id_/http%3A//www.schoolkart.com/privacy-policy) for the most accurate reproduction.*
 
 # Schoolkart | Buy School Uniforms, Stationery, Sporting Goods, Reference Books Privacy Policy
 
