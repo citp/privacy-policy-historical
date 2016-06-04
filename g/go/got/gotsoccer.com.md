@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotsoccer.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003180518id_/http%3A//home.gotsoccer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotsoccer.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604235528id_/http%3A//home.gotsoccer.com/privacy.aspx) for the most accurate reproduction.*
 
 # GotSoccer Privacy Statement
 
@@ -6,15 +6,15 @@ GotSoccer Privacy Policy and terms of Service
 
 August 7, 2015
 
-There are many different ways you can use our services – to share and search for information, to communicate with players, teams, associations and events or to create new content. When you share information with us, for example by creating a player or team account, we can help you connect with the soccer community or to make sharing with others quicker and easier.
+There are many different ways you can use our services â€“ to share and search for information, to communicate with players, teams, associations and events or to create new content. When you share information with us, for example by creating a player or team account, we can help you connect with the soccer community or to make sharing with others quicker and easier.
 
-Let’s start with the most important issue. 
+Letâ€™s start with the most important issue. 
 
 _GotSoccer does not and will not share, sell or lease personal information on players, parents, coaches, referees, administrators or any other person in our database to any commercial company (for example, XYZ sporting goods store or ABC soda company) other than those we reasonable believe you want to share your information or unless you give us explicit consent._
 
-An example of a commercial entity we would share information with would be a company that runs a tournament using our software. When a team applies to the tournament we assume they want the company running the event to see that they’ve applied and will want them to contact the team about the event.
+An example of a commercial entity we would share information with would be a company that runs a tournament using our software. When a team applies to the tournament we assume they want the company running the event to see that theyâ€™ve applied and will want them to contact the team about the event.
 
-As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
+As you use our services, we want you to be clear how weâ€™re using information and the ways in which you can protect your privacy.
 
 Our Privacy Policy explains:
 
@@ -26,11 +26,11 @@ Our Privacy Policy explains:
 
 Information we collect
 
-We collect information to provide better services to all of our users – from figuring out basic information like what gender a player is, to more complex things like which programs you’ll find most useful or the people who matter most to you in the soccer community.
+We collect information to provide better services to all of our users â€“ from figuring out basic information like what gender a player is, to more complex things like which programs youâ€™ll find most useful or the people who matter most to you in the soccer community.
 
 We collect information in two ways:
 
-  * Information you give us. For example, many of our services require you to sign up for a GotSoccer Account. When you do, we may ask for personal information, like your name, email address, telephone number, gender, birth date…. This is most often used by your team, club, association and state organization.
+  * Information you give us. For example, many of our services require you to sign up for a GotSoccer Account. When you do, we may ask for personal information, like your name, email address, telephone number, gender, birth dateâ€¦. This is most often used by your team, club, association and state organization.
   * Information others give us about you. For example, managers may enter player information into a team account for a tournament or league without your knowledge. US Youth state organizations may require your club or association to upload information into GotSoccer including your personal and contact information. GotSoccer assumes those that enter personal information into or export data from our database have the right to do so.
   * Information we get from your use of our services. We may collect information about the events and programs that you use and how you use them, like when you apply to a tournament, or register to play with a club that uses our services. This information includes:  
 
@@ -62,7 +62,7 @@ We use various technologies to collect and store information when you visit GotS
 
 How we use information we collect
 
-We use the information we collect from all of our software services to provide, maintain, protect and improve them, to develop new ones, and to protect GotSoccer and our users. We also use this information to offer you tailored content – like giving you more relevant programming and ads.
+We use the information we collect from all of our software services to provide, maintain, protect and improve them, to develop new ones, and to protect GotSoccer and our users. We also use this information to offer you tailored content â€“ like giving you more relevant programming and ads.
 
 We may use the name you provide for your GotSoccer account across all of the services we offer that require a GotSoccer account. In addition, we may replace (merge) past names associated with your GotSoccer Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible GotSoccer Profile information, such as your name and photo. This would include users such as your team manager, club, association, league, tournament you entered, state organization, or other users that we have reasonable belief is entitled to your account information. We may also publish certain information (name, position, photo) on our team ranking page, though you and your team can opt out.
 
@@ -72,7 +72,7 @@ When you contact GotSoccer, we may keep a record of your communication to help s
 
 We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services.
 
-We may combine personal information from one service with information, including personal information, from other GotSoccer services – for example to make it easier to share things with people you know or associations you belong to.
+We may combine personal information from one service with information, including personal information, from other GotSoccer services â€“ for example to make it easier to share things with people you know or associations you belong to.
 
 We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.
 
@@ -88,7 +88,7 @@ People have different privacy concerns. Our goal is to be clear about what infor
 
 
 
-You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled.
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, itâ€™s important to remember that many of our services may not function properly if your cookies are disabled.
 
 Information you share
 
@@ -98,7 +98,7 @@ Once information is shared with your actual or implied permission (applying to p
 
 Ownership of the actual account
 
-GotSoccer is a “Software as a Service” (SaaS) company. We own the actual accounts and have the right to restrict or deny access as we see fit. For example, if an association elects a new president, we may change the password to deny the past president access and allow the new president access. Teams sometimes split and GotSoccer must decide who will maintain the team account. GotSoccer will only restrict a parent’s access to a child’s account under court order.
+GotSoccer is a â€œSoftware as a Serviceâ€ (SaaS) company. We own the actual accounts and have the right to restrict or deny access as we see fit. For example, if an association elects a new president, we may change the password to deny the past president access and allow the new president access. Teams sometimes split and GotSoccer must decide who will maintain the team account. GotSoccer will only restrict a parentâ€™s access to a childâ€™s account under court order.
 
 Right to advertise
 
@@ -106,7 +106,7 @@ GotSoccer retains the right to place advertisements in all software accounts. Go
 
 Accessing and updating your personal information
 
-Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. These legitimate purposes may include official rosters, club registration, state registration… When updating your personal information, we may ask you to verify your identity before we can act on your request.
+Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it â€“ unless we have to keep that information for legitimate business or legal purposes. These legitimate purposes may include official rosters, club registration, state registrationâ€¦ When updating your personal information, we may ask you to verify your identity before we can act on your request.
 
 We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes or other archive systems).
 
@@ -116,10 +116,10 @@ Information we share
 
 We do not share personal information with companies, organizations and individuals outside of authorized GotSoccer users unless one of the following circumstances apply:
 
-  * With your, your team’s, your club/association… consent
+  * With your, your teamâ€™s, your club/associationâ€¦ consent
 
   
-We will share personal information with organizations or individuals outside of GotSoccer when we have your, your team’s, or your club/association consent to do so. An example would be an export to comply with your state registration requirements.
+We will share personal information with organizations or individuals outside of GotSoccer when we have your, your teamâ€™s, or your club/association consent to do so. An example would be an export to comply with your state registration requirements.
   * For legal reasons
 
   
@@ -131,7 +131,7 @@ We will share personal information with companies, organizations or individuals 
 
 
 
-We may share aggregated, non-personally identifiable information publicly and with our clients – like US Youth Soccer, state organizations, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services.
+We may share aggregated, non-personally identifiable information publicly and with our clients â€“ like US Youth Soccer, state organizations, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services.
 
 If GotSoccer is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
 
