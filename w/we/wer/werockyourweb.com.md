@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the werockyourweb.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226152908id_/http%3A//www.werockyourweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the werockyourweb.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604150232id_/http%3A//www.werockyourweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | We Rock Your Web
 
-_Last Updated: November 4, 2013_
+_Last Updated: March 10, 2016_
 
 Maintaining your privacy and trust is important to Cover Story Media®, Inc. On this Web site, Cover Story Media®, Inc. and its affiliates collect information from users in connection with certain features and services. This privacy policy is designed to tell you how personal information is collected and used on this Site so that you can make an informed decision about using our Site, or permitting your children to use our Site.
 
 Please read this policy before using our Site or submitting any personal information to us. By using our Site, you consent to the information collection and use practices described in this policy. Cover Story Media®, Inc. reserves the right to change this privacy policy at any time. If we decide to change our privacy policy, we will post those changes in an updated privacy policy so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. The date of the last revision is always posted at the top of the privacy policy. Your use of this Site following the posting of such changes or revised policy shall constitute acceptance of any such changes. We encourage you to review our privacy policy whenever you visit our site to make sure that you understand how any personal information you provide will be used.
 
-Cover Story Media®, Inc. is the sole owner of the information collected on this site. To contact Cover Story Media®, Inc., please visit the [Contact](http://www.werockyourweb.com/contact/) page. We value your privacy. We will not sell, share, or rent this information to others in ways other than as disclosed in this policy.
+Cover Story Media®, Inc. is the sole owner of the information collected on this site. To contact Cover Story Media®, Inc., please visit the [Contact](http://www.werockyourweb.com/contact/) page. **We value your privacy. We will not sell, share, or rent this information to others in ways other than as disclosed in this policy.**
 
 ## What Information Is Collected On This Site?
 
@@ -25,7 +25,7 @@ Our software automatically collects certain information from a user’s computer
     * Which ISPs our visitors come from (e.g. AOL, MSN, etc.).
     * Which browsers users are used to visit our Site (Netscape, Internet Explorer, etc.).
     * Time of day users visit our Site.
-  *  **Cookies** – Cover Story Media®, Inc. also uses “cookies” to gauge how users interact with our Site. A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies cannot execute code or deliver a virus to a computer. Usage of a cookie is not linked to any personal information, it merely helps the Site to be more efficient. Typically, a cookie enables a user’s computer to load Web site files faster on subsequent visits. We may also use cookies to track a user’s path for security purposes, as well as to target a user’s interests in an effort to enhance the user’s experience on our Site. If a user wishes to block, erase, or be warned of cookies, the user may refer to browser instructions to learn about these functions. If a user rejects a cookie, the user may still use our Site, however, the user may be limited in the use of certain areas. For example, if the user disables cookies the **font sizing** feature will not work properly.
+  *  **Cookies** – Cover Story Media®, Inc. also uses “cookies” to gauge how users interact with our Site. A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies cannot execute code or deliver a virus to a computer. Usage of a cookie is not linked to any personal information, it merely helps the Site to be more efficient. Typically, a cookie enables a user’s computer to load Web site files faster on subsequent visits. We may also use cookies to track a user’s path for security purposes, as well as to target a user’s interests in an effort to enhance the user’s experience on our Site. If a user wishes to block, erase, or be warned of cookies, the user may refer to browser instructions to learn about these functions. If a user rejects a cookie, the user may still use our Site, however, the user may be limited in the use of certain areas.
 
 
 
@@ -37,6 +37,10 @@ At several places on our Site, we collect certain information that users volunta
   *  **Product Updates and Other Communications** – we may collect information whenever a user communicates with us or asks to receive more information about Cover Story Media®, Inc. or Cover Story Media®, Inc. products, services and events (for example, if a user sends us email or signs up to receive notification of product updates or new product releases). This information may include the user’s name, e-mail address, or other contact information.
 
 
+
+### Captcha
+
+Forms on our Site, such as our contact form, use a captcha (word puzzle) to prevent spam submissions. The service we use to monitor spam submissions is called reCaptcha, a Google service. Because any data you provide in your comment is processed by Google’s servers, you should read their [privacy policy](https://www.google.com/intl/en/policies/privacy/ "reCaptcha Privacy Policy") and [terms](https://www.google.com/intl/en/policies/terms/ "reCaptcha Terms") to learn how your data is handled by them.
 
 ### How Does Cover Story Media®, Inc. Use Information Collected On This Site?
 
