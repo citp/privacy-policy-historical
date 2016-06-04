@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mattermark.com privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710011106id_/http%3A//mattermark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattermark.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604103635id_/https%3A//mattermark.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mattermark
+# Privacy Policy - Mattermark
 
 ## PRIVACY POLICY
 
