@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thoughtspot.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912093934id_/http%3A//www.thoughtspot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtspot.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604042924id_/http%3A//www.thoughtspot.com/legal/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | ThoughtSpot
 
 Welcome to ThoughtSpot, the online and mobile web sites and other interactive features (collectively, “ThoughtSpot Web Sites” or “Web Sites”) of ThoughtSpot, Inc. (“ThoughtSpot,” “we,” or “us”). ThoughtSpot is committed to protecting your privacy. Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Web Sites, and your choices about the collection and use of your information.
 
-## 1\. How We Collect and Use Information
+#### 1\. How We Collect and Use Information
 
 We collect the following types of information about you: 
 
@@ -24,7 +24,7 @@ When you access our Web Sites by or through a mobile device, we may receive or c
 
 We use or may use the data collected through cookies, log file, device identifiers, location data and clear gifs information to:  (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information, including advertising; (c) provide and monitor the effectiveness of our Web Sites; (d) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Web Sites; (e) diagnose or fix technology problems; (f) otherwise plan for and enhance our service; and (g) automatically update the ThoughtSpot application on your mobile devices.
 
-## 2\. Sharing of Your Information
+#### 2\. Sharing of Your Information
 
 We may share your personal information in the instances described below. For further information on your choices regarding your information, see the section below called, “Your Choices Regarding Your Information.”
 
@@ -59,7 +59,7 @@ Please note that an advertiser may ask ThoughtSpot to show an ad to a certain au
 
 The ThoughtSpot Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers.  Please consult the respective privacy policies of such advertisers or contact such advertisers for more information.
 
-## 3\. How We Store and Protect Your Information
+#### 3\. How We Store and Protect Your Information
 
 **Storage and Processing** : Your information collected through the Web Sites may be stored and processed in the United States or any other country in which ThoughtSpot or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which ThoughtSpot or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.  
 
@@ -67,7 +67,7 @@ The ThoughtSpot Privacy Policy does not apply to, and we cannot control the acti
 
 **Compromise of information** : In the event that any information under our control is compromised as a result of a breach of security, ThoughtSpot will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-## 4\. Your Choices About Your Information
+#### 4\. Your Choices About Your Information
 
 **Commercial and marketing communications:** We use the information we collect or receive to communicate directly with you.  We may send you emails containing newsletters, promotions and special offers.  If you do not want to receive such email messages, you will be given the option to opt out or change your preferences.  We also use your information to send you Web Sites-related emails (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Web Sites, technical and security notices).  You may not opt out of Web Sites-related e-mails. You will also be able to be “found” on ThoughtSpot based on information that you provide (see “Find friends on ThoughtSpot”) above.
 
@@ -79,25 +79,25 @@ The ThoughtSpot Privacy Policy does not apply to, and we cannot control the acti
 
 **California Visitors to ThoughtSpot Web Sites:** Residents of the State of California may request a list of all third parties to which a ThoughtSpot Web Site has disclosed certain information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and want such a list, please contact us. For all requests, you must put the statement "Your California Privacy Rights" in the body of your request and include the name of the ThoughtSpot Web Site with respect to which you are requesting the information, as well as your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
-## 5\. "Do Not Track" and Opting Out
+#### 5\. "Do Not Track" and Opting Out
 
 Although we do our best to honor the privacy preferences of our customers, we are not able to respond to Do-Not-Track signals from your browser at this time.  As discussed above, we track website usage information through the use of cookies for analytic and internal purposes only.  Because we do not collect this information to track you across websites over time, your selection of the “Do Not Track” option provided by your browser will not have any effect on our collection of cookie information for analytics or internal purposes. 
 
 To opt out of cookies and other tracking tools, please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. To opt out of information collected by Google Analytics, see [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web. Information about opting out of Google's use of cookies is available by visiting Google's [Ads Settings](http://www.google.com/settings/ads). You can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). To opt out of DoubleClick's remarketing pixels and use of cookies, visit the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). You can opt out of being solicited by ThoughtSpot by email, by using the unsubscribe link in the bottom of emails you receive from us.
 
-## 6\. Children's Privacy
+#### 6\. Children's Privacy
 
 ThoughtSpot does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users.  The Web Sites and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.  If you believe that we might have any information from or about a child under 13, please contact us at [support@thoughtspot.com](mailto:support@thoughtspot.com).  
 
-## 7\. Links to Other Web Sites and Services
+#### 7\. Links to Other Web Sites and Services
 
 We are not responsible for the practices employed by websites or services linked to or from the Web Sites, including the information or content contained therein.  Please remember that when you use a link to go from the Web Sites to another website, our Privacy Policy does not apply to third-party websites or services.  Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies.  In addition, you agree that we are not responsible for and we do not have any control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service (like Facebook) and you allow such a third-party access to your User Content you do so at your own risk.  This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Web Sites.  
 
-## 8\. How to Contact Us
+#### 8\. How to Contact Us
 
 If you have any questions about this Privacy Policy or the Web Sites, please contact us at [support@thoughtspot.com](mailto:support@thoughtspot.com).
 
-## 9\. Changes to Our Privacy Policy
+#### 9\. Changes to Our Privacy Policy
 
 ThoughtSpot may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically.  When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page.   
 
