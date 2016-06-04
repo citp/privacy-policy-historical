@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ronaldocr7.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107105637id_/http%3A//www.ronaldocr7.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronaldocr7.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604123810id_/http%3A//www.ronaldocr7.com/privacy) for the most accurate reproduction.*
 
-# PrivacyRonaldo CR7
+# Privacy
 
 This Privacy Policy governs the manner in which RonaldoCR7 collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.ronaldocr7.com website (“Site”). This privacy policy applies to the Site and all products and services offered by RonaldoCR7.
 
-[](http://i2.wp.com/www.ronaldocr7.com/wp-content/uploads/2014/12/Privacy-ronaldocr7.jpg)
+[](http://www.ronaldocr7.com/wp-content/uploads/2014/12/Privacy-ronaldocr7.jpg)
 
 Personal identification information
 
