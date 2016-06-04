@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npg.org.uk privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205192207id_/http%3A//www.npg.org.uk/footer/privacy-cookies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npg.org.uk privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604150451id_/http%3A//www.npg.org.uk/footer/privacy-cookies.php) for the most accurate reproduction.*
 
 # Privacy & cookies - National Portrait Gallery
 
@@ -70,3 +70,5 @@ Please send your query to [rightsandimages@npg.org.uk](mailto:rightsandimages@np
 ### How to contact us
 
 If you have any questions or concerns about our privacy policy, please e-mail us at: [newmedia@npg.org.uk](mailto:newmedia@npg.org.uk)
+
+### Share this
