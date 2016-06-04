@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpdata.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212171903id_/http%3A//www.corelogic.com.au/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpdata.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604034109id_/http%3A//www.corelogic.com.au/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | CoreLogic RP Data
 
