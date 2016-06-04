@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadfiles.eu privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711130154id_/http%3A//uploadfiles.eu/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadfiles.eu privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604152209id_/http%3A//uploadfiles.eu/pages/privacy.html) for the most accurate reproduction.*
 
 # UploadFiles.eu
 
