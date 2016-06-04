@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the willmyphonework.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608211220id_/http%3A//www.willmyphonework.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willmyphonework.net privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604142445id_/http%3A//willmyphonework.net/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Will My Phone Work
+# Privacy Policy
 
 ## Data Controller and Owner
 
@@ -9,7 +9,7 @@ privacy@willmyphonework.net
 
 ## Types of Data collected
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage Data, First Name, Last Name and Email.
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie and Usage Data.
 
 Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
 The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
@@ -35,17 +35,17 @@ The Data is kept for the time necessary to provide the service requested by the 
 
 ## The use of the collected Data
 
-The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Interaction with external social networks and platforms and Contacting the User.
+The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Research, Interaction with external social networks and platforms and Contacting the User.
 
 The Personal Data used for each purpose is outlined in the specific sections of this document.
 
-####  **Google AdSense**
+#### **Google AdSense**
 
 Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=enWe use Google AdSense Advertising on our website.
 
 Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
- **We have implemented the following:**
+**We have implemented the following:**
 
   * Remarketing with Google AdSense
   * Google Display Network Impression Reporting
@@ -55,14 +55,14 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google�
 
 We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
 
- _Opting out:_  
+_Opting out:_  
 _Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on._
 
 ## Detailed information on the processing of Personal Data
 
 Personal Data is collected for the following purposes and using the following services:
 
- **Analytics**
+**Analytics**
 
 The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
@@ -75,7 +75,7 @@ Personal Data collected: Cookie and Usage Data.
 
 Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
 
- **Contacting the User**
+**Contacting the User**
 
 #### Contact form
 
@@ -83,7 +83,15 @@ By filling in the contact form with their Data, the User authorizes this Applica
 
 Personal Data collected: Email, First Name and Last Name.
 
- **Interaction with external social networks and platforms**
+**Research**
+
+#### Collect search data for research purposes
+
+By using the mobile device compatibility service, the User authorizes this Application to use these details to collect search information for research purposes including (but not limited to) trend analysis and market behaviour. Under no circumstances is this data used to identify the User.
+
+Personal Data collected: Usage Data.
+
+**Interaction with external social networks and platforms**
 
 These services allow interaction with social networks or other external platforms directly from the pages of this Application.  
 The interaction and information obtained by this Application are always subject to the User’s privacy settings for each social network.  
