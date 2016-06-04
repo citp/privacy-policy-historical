@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the glasses.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906044657id_/http%3A//www.glasses.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the glasses.com privacy policy that was archived on 2016-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160604230040id_/http%3A//www.glasses.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<!-- MOBIFY - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG -->
@@ -13,40 +13,54 @@
 <script type="text/javascript">
     window.ngServiceDataFromPHP = {};
     window.ngServiceDataFromPHP['OBUService'] = {"on":0};
-    window.analyticsdata = {"page_name":"Privacy","launch_version":"1.0","customer_id":"","customer_token":"","customer_email":"","page_type":"Company","device_type":"desktop","user_agent":"Mozilla\/5.0 (compatible; archive.org_bot +http:\/\/www.archive.org\/details\/archive.org_bot)","IP_address":"207.241.229.49"};
+    window.analyticsdata = {"page_name":"Privacy","launch_version":"2.15.0.11\n","customer_id":"","customer_token":"","customer_email":"","page_type":"Company","device_type":"desktop","user_agent":"ia_archiver","IP_address":"204.236.235.245","signed_in":false,"shop_method":"Frames Only"};
     //OBU Analytics
-    analyticsdata.insurance = (window.ngServiceDataFromPHP['OBUService'] != undefined && window.ngServiceDataFromPHP['OBUService'].on != undefined && window.ngServiceDataFromPHP['OBUService'].on == true);
+
+	analyticsdata.insurance = "No Insurance";
+
+	if (window.ngServiceDataFromPHP['OBUService'].eligibility != undefined && window.ngServiceDataFromPHP.OBUService.on == 1) {
+		if (window.ngServiceDataFromPHP['OBUService'].eligibility == '0') {
+			analyticsdata.insurance = "No Allowance";
+		} else {
+			analyticsdata.insurance = "Has Allowance";
+			analyticsdata.insurance_amount = {
+				"frame":((window.ngServiceDataFromPHP['OBUService'].pricing_matrix.EstimatedFrameAllowance > 0)? "$"+window.ngServiceDataFromPHP['OBUService'].pricing_matrix.EstimatedFrameAllowance + " off": (100 - window.ngServiceDataFromPHP['OBUService'].pricing_matrix.EstimatedFrameDiscount )+"% off"),
+				"lens":window.ngServiceDataFromPHP['OBUService'].pricing_matrix.EstimatedLensDiscount+"% off"
+			};
+			analyticsdata.insurance_lookup = window.ngServiceDataFromPHP['OBUService'].lookup_type;
+			analyticsdata.insurance_provider = ";"
+		}
+	}
 </script>
 	<link href="//cloud.typography.com/7542754/620086/css/fonts.css" media="all" rel="stylesheet" type="text/css">
-	<link href="/styles/global.css?d=1440598001" media="all" rel="stylesheet" type="text/css">
+	<link href="/styles/global.css?d=1462996970" media="all" rel="stylesheet" type="text/css">
 	<link href="/lib/bootstrap-datepicker/css/bootstrap-datepicker.min.css?d=1437482754" media="all" rel="stylesheet" type="text/css">
-	<link href="/styles/lib/errorfy.css?d=1440598001" media="all" rel="stylesheet" type="text/css">
-	<link href="/styles/bootstrap.min.css?d=1440598001" media="all" rel="stylesheet" type="text/css">
+	<link href="/styles/lib/errorfy.css?d=1462996970" media="all" rel="stylesheet" type="text/css">
+	<link href="/styles/bootstrap.min.css?d=1462996970" media="all" rel="stylesheet" type="text/css">
 	<link href="/favicon.ico?v=4" rel="icon">
-	<link href="/styles/pages/company.css?d=1440598001" media="all" rel="stylesheet" type="text/css">
+	<link href="/styles/pages/company.css?d=1462996970" media="all" rel="stylesheet" type="text/css">
 	<link href="http://www.glasses.com/privacy" rel="canonical">
 	
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<script type="text/javascript" src="/lib/bootstrap-datepicker/js/bootstrap-datepicker.min.js?d=1437482754"></script>
 	<script type="text/javascript" src="/lib/owl-carousel/owl.carousel.js?d=1437482754"></script>
-	<script type="text/javascript" src="/javascript/bootstrap.min.js?d=1440598000"></script>
-	<script type="text/javascript" src="/javascript/lib/errorfy/errorfy.js?d=1440598000"></script>
-	<script type="text/javascript" src="/javascript/stark.js?d=1440598000"></script>
+	<script type="text/javascript" src="/javascript/shoprunner/shoprunner_init.js?d=1462996970"></script>
+	<script type="text/javascript" src="/javascript/bootstrap.min.js?d=1462996970"></script>
+	<script type="text/javascript" src="/javascript/lib/errorfy/errorfy.js?d=1462996970"></script>
+	<script type="text/javascript" src="/javascript/stark.js?d=1462996970"></script>
 	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.4.33/jquery.colorbox-min.js"></script>
-	<script type="text/javascript" src="/javascript/jquery-plugins/validation/jquery.validate.pack.js?d=1440598000"></script>
-	<script type="text/javascript" src="/javascript/jquery-plugins/jquery.color.js?d=1440598000"></script>
-	<script type="text/javascript" src="/javascript/global.js?d=1440598000"></script>
-	<script type="text/javascript" src="/javascript/tealeaf/TealeafSDKConfig.js?d=1440598000"></script>
-	<script type="text/javascript" src="/javascript/tealeaf/3_1_tealeaf.js?d=1440598000"></script>
+	<script type="text/javascript" src="/javascript/jquery-plugins/validation/jquery.validate.pack.js?d=1462996970"></script>
+	<script type="text/javascript" src="/javascript/jquery-plugins/jquery.color.js?d=1462996970"></script>
+	<script type="text/javascript" src="/javascript/global.js?d=1462996970"></script>
 	<script type="text/javascript" src="//nexus.ensighten.com/glasses/inetz_prod/Bootstrap.js"></script>
 	<script type="text/javascript">
 	    //<!--
-var servertime = new Date('Sat Sep 05 2015 22:46:57');	    //-->
+var servertime = new Date('Sat Jun 04 2016 17:00:40');	    //-->
 	</script>
 	
 
 	<!-- //  Visitor Code / Order Code / IHTO Order Code //
-		f4414dc04636c8d2236c9686f2c4c2f3 /
+		0c7d8ee7d39e4a066b58769c1521d1ae /
 		 /
 			-->
 		<script type="text/javascript">
@@ -68,6 +82,7 @@ var servertime = new Date('Sat Sep 05 2015 22:46:57');	    //-->
 			ca_script.parentNode.insertBefore(ca, ca_script);
 		})();
 	</script>
+
 		</head>
 <body class="no_js index-action">
 
@@ -81,25 +96,21 @@ var servertime = new Date('Sat Sep 05 2015 22:46:57');	    //-->
 	<div id="header_promo_details">
 			</div>
 </div>
-<!--<div id="pop_promo" class="hidex">
-    <div class="exit gotham" onclick="overlayClose()">X</div>
-    <div class="pop_title upper gotham"></div>
-    <div class="pop_content">	</div>
-</div>-->
+
 <header class="container-fluid">
     <div class="row" id="top-header-row">
         <div class="top-headers container">
             <div class="row">
                 <div id="top-left-copy" class="col-xs-5">
-                    FREE SHIPPING &amp; RETURNS <a href="http://www.glasses.com/eyeglasses">SHOP NOW</a>                </div>
+                    25% OFF PRESCRIPTION SUN LENSES  <a href="/free-prescription-sunglass-lenses">SHOP NOW</a>                </div>
                 <div id="account-nav" class="col-xs-7">
                     
                     <ul class="pull-right nav">
                                             <li role="presentation" class="dropdown" id="dropdownInsurance">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Insurance<div class="arrw-down"></div></a>
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Vision Insurance<div class="arrw-down"></div></a>
                             <ul class="dropdown-menu insurance" role="menu">
-                                <li><a href="/vision-insurance">Vision Insurance</a></li>
-                                                            <li><a href="/vision-insurance/apply">Apply Benefits</a></li>
+                                <li><a href="/vision-insurance">About Vision Insurance</a></li>
+                                                            <li><a href="/vision-insurance/signin">Access Benefits</a></li>
                                                         </ul>
                         </li>
                     
@@ -197,7 +208,7 @@ var servertime = new Date('Sat Sep 05 2015 22:46:57');	    //-->
 																							<li><a href="/womens-glasses">GLASSES</a></li>
 																							<li><a href="/womens-sunglasses">SUNGLASSES</a></li>
 																							<li><a href="/womens-prescription-sunglasses">PRESCRIPTION SUN</a></li>
-																							<li><a href="/sale##:g-Women">SALE</a></li>
+																							<li><a href="/sale">SALE</a></li>
 																					</ul>
 									</li>
 																																<li class="dropdown">
@@ -206,7 +217,7 @@ var servertime = new Date('Sat Sep 05 2015 22:46:57');	    //-->
 																							<li><a href="/mens-glasses">GLASSES</a></li>
 																							<li><a href="/mens-sunglasses">SUNGLASSES</a></li>
 																							<li><a href="/mens-prescription-sunglasses">PRESCRIPTION SUN</a></li>
-																							<li><a href="/sale##:g-Men">SALE</a></li>
+																							<li><a href="/sale">SALE</a></li>
 																					</ul>
 									</li>
 																																<li class="dropdown">
@@ -214,10 +225,10 @@ var servertime = new Date('Sat Sep 05 2015 22:46:57');	    //-->
 										<ul class="dropdown-menu" role="menu">
 																							<li><a href="/ray-ban">RAY-BAN</a></li>
 																							<li><a href="/oakley">OAKLEY</a></li>
-																							<li><a href="/michael-kors">MICHAEL KORS</a></li>
-																							<li><a href="/kate-spade-new-york">KATE SPADE NEW YORK</a></li>
 																							<li><a href="/burberry">BURBERRY</a></li>
-																							<li><a href="/spy">SPY</a></li>
+																							<li><a href="/polo-ralph-lauren">POLO RALPH LAUREN</a></li>
+																							<li><a href="/versace">VERSACE</a></li>
+																							<li><a href="/michael-kors">MICHAEL KORS</a></li>
 																							<li><a href="/coach">COACH</a></li>
 																							<li><a href="/brands">VIEW ALL BRANDS</a></li>
 																					</ul>
@@ -228,8 +239,6 @@ var servertime = new Date('Sat Sep 05 2015 22:46:57');	    //-->
 																							<li><a href="/shop-glasses">GLASSES</a></li>
 																							<li><a href="/sunglasses">SUNGLASSES</a></li>
 																							<li><a href="/prescription-sunglasses">PRESCRIPTION SUN</a></li>
-																							<li><a href="/computer-glasses">COMPUTER/GAMING</a></li>
-																							<li><a href="/safety-glasses">SAFETY GLASSES</a></li>
 																							<li><a href="/kids-glasses">KIDS</a></li>
 																							<li><a href="/collections">TRENDS</a></li>
 																					</ul>
@@ -237,12 +246,15 @@ var servertime = new Date('Sat Sep 05 2015 22:46:57');	    //-->
 																																<li class="dropdown">
 										<a><span class="underline">EXPLORE</span></a>
 										<ul class="dropdown-menu" role="menu">
-																							<li><a href="/how-it-works">HOW IT WORKS</a></li>
-																							<li><a href="/our-lenses">OUR LENSES</a></li>
-																							<li><a href="/in-home-try-on">IN-HOME TRY-ON</a></li>
 																							<li><a href="/virtual-try-on">VIRTUAL TRY-ON</a></li>
+																							<li><a href="/how-it-works">HOW IT WORKS</a></li>
+																							<li><a href="/free-shipping-and-returns">FREE SHIPPING &amp; RETURNS</a></li>
+																							<li><a href="/our-lenses">OUR LENSES</a></li>
+																							<li><a href="/rx-sunglasses">PRESCRIPTION SUNGLASSES</a></li>
+																							<li><a href="/in-home-try-on">IN-HOME TRY-ON</a></li>
 																							<li><a href="/how-to-videos">HOW-TO VIDEOS</a></li>
-																							<li><a href="http://www.glasses.com/blog/">PERSPECTIVES BLOG</a></li>
+																							<li><a href="/wall-of-frames">WALL OF FRAME</a></li>
+																							<li><a href="/onesight-giving-back">GIVING BACK</a></li>
 																							<li><a href="/company/about">ABOUT US</a></li>
 																							<li><a href="/company/contact">CONTACT US</a></li>
 																					</ul>
@@ -252,7 +264,7 @@ var servertime = new Date('Sat Sep 05 2015 22:46:57');	    //-->
 					<div id="search" class="col-md-3">
 						<div id="search-box">
 							<form action="/search/" method="get">
-								<input type="text" name="q" id="q" class="search-input keywords" title="" placeholder="Search Ray-Ban, Oakley, Coach..." autocomplete="off">
+								<input type="text" name="q" id="q" class="search-input keywords" title="" placeholder="I'm searching for..." autocomplete="off">
 							</form>
 						</div>
 						<div id="search-results" class="dropdown-menu"></div>
@@ -264,24 +276,8 @@ var servertime = new Date('Sat Sep 05 2015 22:46:57');	    //-->
 <!-- /////  END V3 Header  ///// -->
 
 
-
 <!-- main_header scripts -->
 <script>
-
-    $(document).ready(function(){
-        /*$('#q').siteSearch();
-         bindVisitorNavEvents();
-         $('#q:visible').inputHint('keydown');
-
-         //animate the RTB colors
-         animatertbs(); //run once
-         setInterval(function(){ //run on a delay
-         animatertbs()
-         }, 10000);
-         */
-    });
-
-
     $('#search form').submit(function() {
         return ( $('#q').val() != '' ) ? true : false;
     });
@@ -300,8 +296,6 @@ var servertime = new Date('Sat Sep 05 2015 22:46:57');	    //-->
     }
 
     function loginErrors(json, stark_json){
-        console.log(json, stark_json);
-
         if (stark_json['acctVerify']) {
             $('#acct-login').hide();
             $('#verify-account').show();
@@ -525,7 +519,7 @@ Mail:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 				<div class="footer_row">
 			<div class="newsletter_signup">
 				<form id="newsletter">
-					<input type="hidden" name="newsletter_ip" value="207.241.229.49">
+					<input type="hidden" name="newsletter_ip" value="204.236.235.245">
 					<div style="float: left;">
 						<span>Sign Up For Exclusive Discounts</span>
 
@@ -594,7 +588,7 @@ Mail:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 													<li><a href="/oakley">Oakley</a></li>
 													<li><a href="/tory-burch">Tory Burch</a></li>
 													<li><a href="/coach">Coach</a></li>
-													<li><a href="/kate-spade-new-york">Kate Spade New York</a></li>
+													<li><a href="/burberry">Burberry</a></li>
 													<li><a href="/michael-kors">Michael Kors</a></li>
 													<li><a href="/brands">Shop All Brands</a></li>
 											</ul>
@@ -605,14 +599,12 @@ Mail:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 							EXPLORE						</a>
 					</span>
 	 				<ul>
-		 											<li><a href="/collections">Trends</a></li>
-													<li><a href="/blog/">Blog</a></li>
+		 											<li><a href="/vision-insurance">Vision Insurance</a></li>
 													<li><a href="/our-lenses">Our Lenses</a></li>
-													<li><a href="/staff-goes-chic-collection">Staff Goes Chic</a></li>
-													<li><a href="/asian-fit">Asian Fit</a></li>
-													<li><a href="/what-is-coachella">Coachella</a></li>
-													<li><a href="/in-home-try-on">In-Home Try-On</a></li>
 													<li><a href="/virtual-try-on">Virtual Try-on</a></li>
+													<li><a href="/in-home-try-on">In-Home Try-On</a></li>
+													<li><a href="/collections">Trends</a></li>
+													<li><a href="/asian-fit">Asian Fit</a></li>
 											</ul>
 				</div>
 							<div class="footer_nav col-xs-fifth">
@@ -623,9 +615,7 @@ Mail:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 	 				<ul>
 		 											<li><a href="/about">About Glasses.com</a></li>
 													<li><a href="/how-it-works">How it Works</a></li>
-													<li><a href="/careers">Careers</a></li>
 													<li><a href="https://signup.cj.com/member/signup/publisher.cj;jsessionid=abcmRKB3L6QZ7-ka0XiXu?cid=3448167">Affiliate Program</a></li>
-													<li><a href="/site-map">Site Map</a></li>
 											</ul>
 				</div>
 					</div>
@@ -659,7 +649,7 @@ s.parentNode.insertBefore(gts, s);
 
 	<div class="copyright container-fluid">
 		<div class="footer_content container">
-			<div class="col-xs-6">© 2015 GLASSES.COM - ALL RIGHTS RESERVED</div>
+			<div class="col-xs-6">© 2016 GLASSES.COM - ALL RIGHTS RESERVED</div>
 			<div class="col-xs-6"><a href="/privacy" class="pull-right">PRIVACY POLICY</a></div>
 		</div>
 	</div>
