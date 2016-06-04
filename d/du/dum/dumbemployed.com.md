@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dumbemployed.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223051100id_/http%3A//www.dumbemployed.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumbemployed.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604084725id_/http%3A//dumbemployed.com/privacy.php) for the most accurate reproduction.*
 
 # Dumbemployed.com | Privacy Policy
 
