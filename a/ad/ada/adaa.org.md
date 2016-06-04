@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adaa.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702043932id_/http%3A//www.adaa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaa.org privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605013401id_/http%3A//www.adaa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anxiety and Depression Association of America, ADAA
 
@@ -24,4 +24,6 @@ Cookies are pieces of information that are stored on your computer and are used 
 
 ### Links to other sites
 
-This website provides links to other third-party websites. While we make efforts to choose our links carefully, we cannot take any responsibility for the content of linked websites or for the privacy policies of any linked websites. Because we do not control these websites, we encourage you to review the privacy policies posted on these third-party websites prior to any use.
+This website provides links to other websites. While we make efforts to choose our links carefully, we cannot take any responsibility for the content of linked websites or for the privacy policies of any linked websites. Because we do not control these websites, we encourage you to review the privacy policies posted on these third-party websites prior to any use.
+
+_Updated May 2016_
