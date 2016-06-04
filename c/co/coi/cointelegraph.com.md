@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cointelegraph.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212163024id_/http%3A//cointelegraph.com/terms-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cointelegraph.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604173807id_/http%3A//cointelegraph.com/terms-and-privacy) for the most accurate reproduction.*
 
 # Terms of service and privacy poiltics
 
