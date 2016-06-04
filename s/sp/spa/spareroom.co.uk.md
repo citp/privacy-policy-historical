@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spareroom.co.uk privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221092304id_/http%3A//www.spareroom.co.uk/content/default/privacy-uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spareroom.co.uk privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604045819id_/http%3A//www.spareroom.co.uk/content/default/privacy-uk) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,6 +65,8 @@ DoubleClick
     We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on the website. This allows us to provide targeted advertising in the future when you browse other websites.
 Visual DNA
     We use a VisualDNA tag to anonymously collect information about users' browsing activity on our website (this does not include names, addresses or any other personal information). This information is linked to a cookie that VisualDNA sets in your browser. This information allows us and VisualDNA to build a profile so that your online experience can be made more relevant to your specific interests. You have the right to opt out from VisualDNA's service by [clicking here](http://my.visualdna.com/ "visualDNA") and choosing the ‘Cookie Settings’ option. VisualDNA does not store or share personally identifiable information with any third party, other than in anonymised, aggregated form. 
+Google Analytics Demographics and Interest Reporting
+    These help us better understand who our users are so we can make content on other channels, such as YouTube, more relevant. You can choose to opt out of these cookies [here](https://support.google.com/analytics/answer/181881?hl=en).
   6. ### Turning off cookies
 
     1. If you don’t want us to install cookies on your computer for these purposes, you can change the settings on your internet browser to reject cookies. All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details: 
