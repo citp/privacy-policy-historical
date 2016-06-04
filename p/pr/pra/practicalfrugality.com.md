@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the practicalfrugality.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128123427id_/http%3A//practicalfrugality.com/about-me/pr-friendly/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalfrugality.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604193559id_/http%3A//practicalfrugality.com/about-me/pr-friendly/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Practical Frugality
 
-Sharing is Caring <3000000
-
-This Privacy Policy governs the manner in which [Practical Frugality ](http://practicalfrugality.com/)collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://practicalfrugality.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Practical Frugality.
+This Privacy Policy governs the manner in which Practical Frugality collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://practicalfrugality.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Practical Frugality.
 
 **Personal identification information**
 
@@ -60,10 +58,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Practical Frugality](http://practicalfrugality.com/)  
-<http://practicalfrugality.com/>  
+Practical Frugality  
+http://practicalfrugality.com/  
 kpuleski@gmail.com
 
 This document was last updated on October 30, 2014
-
-Sharing is Caring <3000000
