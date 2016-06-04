@@ -1,0 +1,118 @@
+> *The following text is extracted and transformed from the powerspreadsheets.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604082514id_/http%3A//powerspreadsheets.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy for Power Spreadsheets - Power Spreadsheets
+
+## Introduction
+
+We are committed to respecting your privacy rights and the applicable data protection regulations. This Privacy Policy (the “Policy”) is only applicable to powerspreadsheets.com, the blog at powerspreadsheets.com, the comments sections at powerspreadsheets.com, email list, social media (including without limitation Twitter, Facebook, LinkedIn and Google +) accounts and any other related services (“Power Spreadsheets”), and not to any other websites, services or similar that you may access from Power Spreadsheets, each of which may have data collection and use practices and policies that differ materially from this Policy. Power Spreadsheets is in compliance with the requirements of the Children´s Online Privacy Protection Act of 1998 (“COPPA”). Power Spreadsheets, its contents, products and services are all directed to people who are older than 13 years old.
+
+## When You Read Power Spreadsheets
+
+As with most other websites, Power Spreadsheets will create the usual log files. Log files collect the data that your browser transmits to the server including, without limitation, the following:
+
+  * Your IP (Internet Protocol) address.
+  * Your ISP (Internet Service Provided; for example Vodafone, Deutsche Telekom or AOL).
+  * Type and version of the web browser that you are using (for example Internet Explorer, Apple Safari, Google Chrome or Mozilla Firefox).
+  * Type of device you are using (for example PC, notebook, netbook, tablet or smart-phone).
+  * Referrer URL, the website from which you have accessed Power Spreadsheets.
+  * The host name of the accessing service.
+  * The time of the server request or the time you visited Power Spreadsheets.
+  * The individual pages you have visited on Power Spreadsheets.
+
+
+
+Usually, these data cannot be related to a particular individual. We collect and use the data contained in log files in accordance with this Policy and the applicable regulations. Power Spreadsheets may also gather anonymous traffic data that does not personally identify you, but that may be helpful for improving the services that we offer, marketing purposes or other purposes. We use anonymous data to analyze Power Spreadsheets’s traffic. Additionally, we use anonymous IP addresses to help diagnose problems with the server, administer Power Spreadsheets or display content according to your preferences.
+
+We use Clicky. Clicky is a web analytics service provided by Roxr Software Ltd. Clicky uses, among others, cookies (please refer to the relevant section below for more information regarding cookies). Roxr Software Ltd. uses the information to analyze your use of Power Spreadsheets, to compile reports on the activity at Power Spreadsheets, and to provide us with additional services related to the use of Power Spreadsheets as well as Internet use. Please read the [Terms of Use](https://clicky.com/terms) of Roxr Software Ltd. which addresses both their relationship to Power Spreadsheets and to you for further details.
+
+Clicky ignores all traffic from Germany.
+
+We also use SumoMe. SumoMe may/will collect some personal data from you and store it on one of their servers. Please read the Privacy Policy of SumoMe, which is available [here](https://help.sumome.com/customer/portal/articles/1815354-email-list-privacy) and addresses both their relationship to Power Spreadsheets and to you for further details.
+
+## When You Use A Social Media Plugin
+
+Power Spreadsheets may implement social media plugins. These plugins may display buttons for different social networks, including without limitation Facebook, LinkedIn, Twitter and Google +. When you interact with the social media plugin and/or visit a page that displays one or more of such buttons, your browser establishes a direct connection to the respective social network server and load the button from there. At the same time, the relevant social network knows that that particular page in Power Spreadsheets has been visited.
+
+We have no influence on the data that any social network (including without limitation their owners, operators or administrators) collect on the basis of the buttons or the social media plugins. Our understanding according to the available information, however, is that if you do not click on the respective social network button, no personally identifiable data is collected and stored unless you are logged on a social network. If you are logged into a social network, certain user data (including your IP address at the time) may be collected and linked to your account information within the relevant social network. If you wish to prevent this, please log out of your social media accounts before visiting Power Spreadsheets.
+
+In addition to the above, clicking a button may also lead to the collection of certain additional data, including your IP address. The relevant social network may also set additional cookies.
+
+If you wish to obtain more information regarding the privacy policies of a particular social network, please refer to their website. The following are some of the Privacy Policies of certain social networks:
+
+  * [Facebook](https://www.facebook.com/about/privacy/).
+  * [LinkedIn](https://www.linkedin.com/legal/privacy-policy).
+  * [Twitter](https://twitter.com/privacy?lang=en).
+  * [Google +](http://www.google.com/intl/en/policies/privacy/).
+
+
+
+## When You Subscribe to Any of Our Newsletters or Email Lists
+
+We use SumoMe, MailChimp and MailChimp for WordPress to manage our newsletters and email lists. SumoMe, MailChimp and/or MailChimp for WordPress may/will collect some personal data from you and store it on one of their servers. Please read their respective Privacy Policies which are available here ([SumoMe](https://help.sumome.com/customer/portal/articles/1815354-email-list-privacy), [MailChimp](http://mailchimp.com/legal/privacy/ "Mailchimp's Privacy Policy") and [MailChimp for WordPress](https://mc4wp.com/)) which addresses both their relationship to Power Spreadsheets (as a user) and you (indirectly as a subscriber to our newsletters or email lists) for further details. When you subscribe to any of our newsletters or email lists, we collect certain data including the following:
+
+  * Your email address.
+  * Your IP address.
+  * The time of the server request or the time you subscribed to our newsletter.
+  * Any other data SumoMe, MailChimp and/or MailChimp for WordPress may request from you.
+
+
+
+You are not required to subscribe to any of our newsletters or email lists, or provide us with any personal data via SumoMe, MailChimp or MailChimp for WordPress to use and enjoy Power Spreadsheets. If you subscribe to any of our newsletters or email lists, we may send you emails containing the newsletter, as well as other information and updates. If at any time you wish to unsubscribe from any of our newsletters or email lists, we include detailed unsubscribe instructions at the bottom of each email.
+
+## When You Submit Comments
+
+We use Disqus to manage our comments sections. Disqus will collect some personal data from you and store it on a Disqus´ server. Please read Disqus’ [Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy "Disqus' Privacy Policy") which addresses both their relationship to Power Spreadsheets and you for further details. When you submit a comment to any post or page in Power Spreadsheets, we collect certain data including the following:
+
+  * Your comment itself.
+  * Your Disqus username.
+  * Your email address.
+  * Your IP address.
+  * The time of the server request or the time you left the comment.
+  * Any other data Disqus may request from you.
+
+
+
+You are not required to submit comments or provide us with any personal data via Disqus to use and enjoy Power Spreadsheets. Submitted comments, Disqus usernames, times at which comments are left and any other information made publicly available by Disqus are publicly available and visible in the Internet.
+
+## Use of Cookies and Web Beacons
+
+We use cookies (including without limitation the DoubleClick cookie) and web beacons to store data, such as your personal preferences when you visit Power Spreadsheets. Google and its partners use the DoubleClick cookie to serve ads based on your visits to Power Spreadsheets and/or other websites on the Internet.
+
+A cookie is a small piece of information sent from websites you visit (including without limitation Power Spreadsheets) to your device to help identify your device quickly. Web beacons are usually small graphic images that typically work in conjunction with cookies to identify users of Power Spreadsheets, user behavior, and allow for the evaluation of information such as web page visitor traffic.
+
+Promotions, advertisements or links (including without limitation affiliate links) may contain cookies and/or web beacons. We do not have access or control over data collected by third parties on Power Spreadsheets. You can choose to disable or selectively turn off our cookies or third-party cookies through your web browser settings or using independent programs available online (including without limitation Norton Internet Security). If you choose to disable any of these functions, your experience at Power Spreadsheets may be negatively affected as some features may not work as they were intended. The following links provide specific information on how to remove cookies from certain popular browsers:
+
+  * [Internet Explorer](http://support.microsoft.com/kb/278835 "Microsoft Support - How to delete cookie files in Internet Explorer").
+  * [Apple Safari](http://support.apple.com/kb/PH17191 "Safari 7 \(Mavericks\): Manage cookies and other website data").
+  * [Google Chrome](https://support.google.com/accounts/answer/32050?hl=en "Google - Clear cache and cookies").
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored?redirectlocale=en-US&redirectslug=Deleting+cookies "Mozilla Firefox - Delete cookies to remove the information websites have stored on your computer").
+
+
+
+You may opt out of the DoubleClick cookie for interest-based advertising by visiting [Ad Settings](http://www.google.com/ads/preferences/).
+
+## Use and Disclosure of Data
+
+We use the data for the purposes set forth in this Policy and the applicable regulations. We do not provide to third parties your personal data. This does not include trusted third parties (including without limitation Google, Roxr Software, SumoMe, MailChimp, MailChimp for WordPress and Disqus) who assist us in operating Power Spreadsheets, conducting our business or providing services to you. We may also provide your personal data when we believe such action is appropriate to (a) comply with applicable regulations, (b) enforce Power Spreadsheets’s policies, or (c) protect ours or others (including without limitation the users of Power Spreadsheets) rights, property or safety. Anonymous data (including without limitation traffic and transaction data) may be provided to third parties for different purposes including, without limitation, marketing or advertising purposes.
+
+## Security
+
+We have implemented security measures on Power Spreadsheets which we consider reasonable for purposes of preventing the loss, misuse and alteration of any data that we collect from you. Nonetheless, we make no representations, warranties, assurances or similar about our ability to prevent any such loss to you or to any third party arising out of such loss, misuse or alteration.
+
+## Other Websites
+
+Power Spreadsheets contains links (including without limitation affiliate links) to other websites. If you choose to visit those websites, it is important that you understand that the present Policy does not extend to those websites. It is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their practices.
+
+## Your Consent
+
+By using Power Spreadsheets, or any of its contents, products and services, you are consenting to this Policy.
+
+## Changes to this Policy
+
+We reserve the right, at any time, to add to, change, update, or modify this Policy. We shall post any such changes on this page and/or update the Privacy Policy modification date below. You may then choose whether you wish to accept said policy changes or discontinue using Power Spreadsheets. Any such change, update, or modification will be effective immediately after posting on Power Spreadsheets. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+
+This Policy was last modified on **May 27, 2016**.
+
+## Contact Information
+
+Please feel free to contact us at contact@powerspreadsheets.com.com in case: (a) you have any questions about this Policy or our practices in connection with Power Spreadsheets, (b) you have questions in connection with the personal data we have stored about you, (c) you want to request the correction of incorrect data, or (d) you want cancel the permission granted to us to store your personal data and request the deletion of the personal data stored (if we cannot delete your personal data due to compelling reasons, including without limitation applicable regulations, enforceable agreements or undue hardship, the data will be blocked instead of being deleted).
