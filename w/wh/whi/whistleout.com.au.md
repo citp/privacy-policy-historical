@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the whistleout.com.au privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208143013id_/http%3A//www.whistleout.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistleout.com.au privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604115544id_/https%3A//www.whistleout.com.au/Privacy) for the most accurate reproduction.*
 
-# Website Privacy Policy - WhistleOut
+# Privacy Policy - WhistleOut
 
-  
-
-
-* * *
-
-[The website located at http://www.whistleout.com.au/ (this Site) is operated under exclusive licence by WhistleOut Pty Ltd (ABN 14 130 446 267) (WhistleOut)]. You may have been referred to the Site from the website of one of our referral partners so it is important that you understand that the Site is controlled and operated by WhistleOut and not by the owner or controller of the website from which you have been referred. References in this Privacy Policy to the Site mean either the main website operated by WhistleOut currently located at http://www.whistleout.com.au/ or a sub domain carrying the comparison and ranking service in respect of various goods and services offered by WhistleOut to which you have been referred from the website of one of our referral partners, whichever is relevant in the context. WhistleOut is firmly committed to maintaining your privacy by dealing with personal information in accordance with all applicable laws.
+[The website located at https://www.whistleout.com.au/ (this Site) is operated under exclusive licence by WhistleOut Pty Ltd (ABN 14 130 446 267) (WhistleOut)]. You may have been referred to the Site from the website of one of our referral partners so it is important that you understand that the Site is controlled and operated by WhistleOut and not by the owner or controller of the website from which you have been referred. References in this Privacy Policy to the Site mean either the main website operated by WhistleOut currently located at https://www.whistleout.com.au/ or a sub domain carrying the comparison and ranking service in respect of various goods and services offered by WhistleOut to which you have been referred from the website of one of our referral partners, whichever is relevant in the context. WhistleOut is firmly committed to maintaining your privacy by dealing with personal information in accordance with all applicable laws.
 
 * * *
 
@@ -25,7 +20,7 @@ WhistleOut is bound by the Privacy Act 1988 (Cth) and has publicly committed to 
 
 
 
-This policy applies to independent contractors and job applicants, as well as individuals who provide WhistleOut with their personal information. This Privacy Policy is in addition to and to be read in conjunction with this Site's Terms and Conditions of Use which can be found at <http://www.whistleout.com.au/Terms-Of-Use>.
+This policy applies to independent contractors and job applicants, as well as individuals who provide WhistleOut with their personal information. This Privacy Policy is in addition to and to be read in conjunction with this Site's Terms and Conditions of Use which can be found at <https://www.whistleout.com.au/Terms-Of-Use>.
 
 * * *
 
@@ -35,7 +30,7 @@ WhistleOut will only collect Personal Information where the information is neces
 
 Where possible, we collect your personal information directly from you. If you feel that the information that we are requesting, either from our website (www.whistleout.com.au) or our sub domains', or in our discussions with you, is not information that you wish to provide, please feel free to raise this with us.
 
-WhistleOut collects Personal Information primarily to refer you to suppliers of products and services from companies listed on http://www.whistleout.com.au/ or a sub domain. This is a free and completely optional service. We will collect at a minimum: 
+WhistleOut collects Personal Information primarily to refer you to suppliers of products and services from companies listed on https://www.whistleout.com.au/ or a sub domain. This is a free and completely optional service. We will collect at a minimum: 
 
   * name of the contact person;
   * email address and phone number; and
@@ -72,7 +67,7 @@ Other information is collected by automated methods. Other Information we collec
 
 
 
-We have integrated Google Analytics into our website (see http://www.google.com/analytics/ for details). This enables the collection of data about traffic on our website via a DoubleClick cookie in addition to data collected through the standard Google Analytics implementation. We may as part of the use of Google Analytics functionality switch on Display Advertising which enables features that are not available through standard implementations. This includes Remarketing , Google Display Network Impression Reporting, DoubleClick Campaign Manager integration and Google Analytics Demographics and Interest Reporting , each as described by Google.
+We have integrated Google Analytics into our website (see https://www.google.com/analytics/ for details). This enables the collection of data about traffic on our website via a DoubleClick cookie in addition to data collected through the standard Google Analytics implementation. We may as part of the use of Google Analytics functionality switch on Display Advertising which enables features that are not available through standard implementations. This includes Remarketing , Google Display Network Impression Reporting, DoubleClick Campaign Manager integration and Google Analytics Demographics and Interest Reporting , each as described by Google.
 
 Importantly, we will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless we have given you notice of, and have your prior affirmative (i.e., opt-in) consent to, that merger. Using Ads Settings, visitors to our website can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads. A Browser opt-out is available at: <https://tools.google.com/dlpage/gaoptout/>. We use Google Analytics to obtain a more detailed understanding of our our website users and their potential needs. Data collected from such reports may be used to more accurately target marketing and advertising campaigns based on demographic information and more generally for the Primary Purpose and secondary purposes detailed in this Policy. We do not collect data on individuals by such methods; only aggregate data is used for planning purposes.
 
