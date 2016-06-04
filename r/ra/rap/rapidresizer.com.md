@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidresizer.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024171435id_/http%3A//rapidresizer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidresizer.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604075720id_/http%3A//rapidresizer.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
