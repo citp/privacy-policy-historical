@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turnkeycashkits.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104184333id_/http%3A//turnkeycashkits.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnkeycashkits.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604100551id_/http%3A//www.turnkeycashkits.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
@@ -22,4 +22,4 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 ## **Contact Information**
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20151104184333id_/http%3A//index.php?page=contact).
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20160604100551id_/http%3A//index.php?page=contact).
