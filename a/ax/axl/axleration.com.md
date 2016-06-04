@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the axleration.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824235931id_/http%3A//axleration.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axleration.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604124814id_/http%3A//axleration.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Axleration
 
-We respect your privacy and we are committed to safeguarding your privacy while online at our site [www.axleration.com](http://www.axleration.com/) . The following discloses theinformation gathering and dissemination practices for this Web site.
+We respect your privacy and we are committed to safeguarding your privacy while online at our site [www.axleration.com](https://web.archive.org/) . The following discloses theinformation gathering and dissemination practices for this Web site.
 
 **Log Files**  
 Like most standard Website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
@@ -26,10 +26,6 @@ We use outside ad companies to display ads on our site. These ads may contain co
 We use Google Analytics to track the visitor data. Google Analytics uses cookies to track visitor information, but no personally identifiable information such as your IP address is not stored.
 
 **Contact  Information**  
-If users have any questions or suggestions **regarding our privacy policy** , please contact us through the Privacy Issues form below for other purposes, contact us [here](http://www.axleration.com/contact-us/).
+If users have any questions or suggestions **regarding our privacy policy** , please contact us through the Privacy Issues form below for other purposes, contact us [here](https://web.archive.org/contact-us/).
 
-[contact-form-7 id="10114" title="Privacy Issues"]
-
-[  
-  
-](http://twitter.com/share?url=http://axleration.com/privacy-policy/&text=Privacy%20Policy "Click here if you like this article.")
+[contact-form-7 id=”10114″ title=”Privacy Issues”]
