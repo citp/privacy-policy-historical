@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledsmagazine.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231005626id_/http%3A//www.pennwell.com/index/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledsmagazine.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604113651id_/http%3A//www.pennwell.com/index/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pennwell Corporate
 
@@ -111,8 +111,8 @@ Safe Harbor Line
 Direct Marketing Association  
 1615 L Street, NW - Suite 1100  
 Washington, DC 20036  
-Website:  [www.dmaresponsibility.org/safeharbor/consumers.shtml](http://www.dmaresponsibility.org/safeharbor/consumers.shtml)  
+Website:  [www.thedma.org/resources/compliance-resources/#safe-harbor](http://thedma.org/resources/compliance-resources/#safe-harbor)  
 Email:  [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)  
 Fax:  202.955.0085
 
-Last Updated:  October 7, 2014
+Last Updated:  October 22, 2015
