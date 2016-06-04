@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameflare.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118181439id_/http%3A//www.gameflare.com/pp_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameflare.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604032611id_/http%3A//www.gameflare.com/pp_en.html) for the most accurate reproduction.*
 
 # 
 
