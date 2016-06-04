@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the vht.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117081651id_/http%3A//www.vht.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vht.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604112941id_/http%3A//www.vht.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Real Estate Photography, Virtual Tours, 360 Images, Video Production - VHT
+# Privacy Policy | VHT Studios
 
-VHT Privacy Policy  
 Your privacy is very important to VHT. With that in mind, we have established and implemented information handling practices for www.VHT.com that we believe are consistent with the highest standards and best practices of organizations doing business on the Internet. This privacy policy describes the practices that apply to our site, including the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared a detailed policy because we believe you should know as much as possible about our practices so that you can make an informed decision about the extent of your use of our site. 
 
-**Simply put:**   
+**Simply put:**  
 We will not disclose your Personal Information to third parties unless you have specifically authorized us to do so. 
 
 We will allow you to view, correct or remove your personal information and other information associated with your registration as a user of our services; and we will take reasonable steps to protect the security of the personal information we collect from you. 
@@ -15,18 +14,18 @@ The remainder of this policy describes our information handling practices in det
 **When You Are Just Visiting Us**  
 You can always visit our site without revealing who you are or providing any personal information. When you visit our site or visit our site through one of our partner's sites, we do collect usage information, but it is anonymous and is not linked to you as an individual. We use session data to better understand things like how our site is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our site, the variety of searches of our site's database, the types of browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which our visitors connect to our site. We use this information to improve our site content and ease of use. 
 
-**Cookies**   
+**Cookies**  
 We may place a "cookie" on your personal computer. A cookie is a small computer file that our computer sends to your computer and that your computer sends back to us each time you make a request from our site. Cookies help us recognize you when you visit our site again. We use cookies on our site to collect session data for several purposes to personalize and improve your individual viewing experiences on our site. For example, we use cookies to keep track of your use of our site, gather data to improve the content of our site, provide information that may be of interest to you and improve the security of your experience with us. Most Internet browsers automatically accept cookies. However, you can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. If you decide not to accept our cookies, you will still be able to access those parts of our site that are available to the general public, but you will not be able to view some information on our site, use some features designed to enhance your experience at our site or access many of the services offered at our site. 
 
 We DO NOT have third party advertisers on our site. Therefore, there will be no advertisers using cookies and pixel tags to track session data about the ads you have seen and types of things that you appear interested in. 
 
-**Personal Information**   
+**Personal Information**  
 If you decide to order products and services from us, we will collect personal information about you that you voluntarily share with us. We collect personal information that is necessary for us to provide you with the services offered on our site. As mentioned, this personal information includes things like your name, email and mailing address and telephone number. 
 
-**Opt-out**   
+**Opt-out**  
 As part of the registration process, we give you two important choices about advertisements, updates and promotions. We will use the information you tell us about your preferences to share customized advertisements, updates and promotions. You can also elect not to receive information on specials, promotions, contests, sweepstakes and other opportunities available on our site; and/or our newsletters highlighting your customer broker programs and specials, promotions, contests, sweepstakes and other opportunities available on our site. If you do not opt-out from receiving these communications about our site, we will send them to you. Of course, if you do not opt-out during registration, but later change your mind, you can visit us online or call us to tell us that you would like to "opt-out" of and stop receiving either or both of these communications. 
 
-**Online Surveys and Contests**   
+**Online Surveys and Contests**  
 We value your comments and opinions. From time to time, we will invite you, to participate in online surveys. Each time you purchase a product or service from us, we will ask for your feedback on your experience. Your participation in these surveys is on an anonymous basis, unless you elect to include your name. 
 
 **Payment Information and Purchase History.**   
@@ -35,17 +34,17 @@ After registering with us, you will be able to order products and services throu
 **Sharing of Personal Information**  
 Other than as explained in this policy, we will not disclose any personal information we collect from you to others without your permission, except in certain limited circumstances: (a) to protect the security of our site and our rights under our Terms and Conditions of Use; (b) to protect ourselves against liability; (c) in response to legal process, (d) if we believe in good faith that the law requires it; or (e) in connection with a sale of our business or company. Please note that if we receive a formal request to disclose your personal information in connection with a legal action, we will attempt to tell you about it at least ten (10) days before we respond to that request, if permitted by law, via the email address you provided. 
 
-**Changing and Removing Personal Information and Other Information...**   
+**Changing and Removing Personal Information and Other Information...**  
 We are committed to giving you control over your personal information. You can change any of the personal information or other information in your Client Profile, by calling us at 800-790-TOUR. If at any time you want to view the personal information or other information in your Client Profile, your personal information changes, you want to change the preferences associated with your account, or would like us to remove some or all of the personal information or other information stored in your Client Profile, you can correct, update, or remove the information and preferences you have shared with us by calling us at 800-790-TOUR. If you request that we remove all of the personal information and other information stored in your Client Profile, then we will promptly do so. If we remove your personal information you will not be able to use the services available on our site unless you re-register. Similarly, we will remove all of your purchase records within six (6) months after receiving a request to do so. This six (6) month period is necessary to ensure that purchase arrangements made are properly accounted for. We may not be able to honor your request to remove your personal information if we are legally obligated to retain that information or those records. You will not have the ability to view, change or remove session data or information that we have gathered from third parties from your Client Profile. 
 
-**Notification of Changes**   
+**Notification of Changes**  
 We may change this policy from time to time. If we decide to change this policy in a material way (i.e.: a change regarding disclosure of personal information), we will post notice of the change on our site and notify you via email at the address you have provided to us or pop-up screen at least thirty (30) days before putting the change into effect. If we decide to change our policy in a less significant way, we will simply post notice of the change on our site at least thirty (30) days before putting the change into effect. If any proposed change is unacceptable to you, you may, as discussed in the section above (Changing and Removing Personal and Other Information), request that we remove your personal information from our records. 
 
-**How We Protect Your Information**   
+**How We Protect Your Information**  
 We are committed to safeguarding your information. For that reason we employ a staff of security technology professionals and utilize a full range of the best security technology available. Specifically, your information is secured from unauthorized access from the Internet through market leading firewall technology. We also protect the connection between your computer and our server from eavesdropping through industry-standard encryption technology known as Secure Socket Layer (SSL). Depending on your browser, this SSL will have encryption keys of up to 128 bits. To ensure that we fulfill our commitment to safeguard your information, we continually assess new technology for protecting your information to make sure that our information handling practices are in accordance with the highest industry standards and best practices on the Internet at all times. 
 
-**Links**   
+**Links**  
 Our site provides links to other sites. When you click on one of these links, you are leaving our site and entering another site that we do not control and for which we cannot be responsible. You should carefully review the privacy statements or policies on any other site that you visit because those privacy statements or policies will apply to your visit to that site and may be very different from our policy. 
 
-**Contact Us**   
+**Contact Us**  
 If you have any questions or concerns about this policy or our information handling practices, you may contact our Chief Privacy Officer at privacy@VHT.com. We will attempt to respond to your questions or concerns within two business days after we receive them. 
