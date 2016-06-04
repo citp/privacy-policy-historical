@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pace.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117094409id_/http%3A//www.pace.com/universal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pace.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604215653id_/http%3A//www.pace.com/universal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pace
 
@@ -10,9 +10,9 @@ Your privacy is important to us. We have created this Privacy Policy to explain 
 
 ## **Who are we?**
 
-We are Pace plc. “Pace” is a trading name and is a registered trademark of Pace plc, a company registered in England under company number 1672847. Our registered office is at Victoria Road, Saltaire, West Yorkshire, BD18 3LF.
+We are Pace Limited (formerly Pace plc). “Pace” is a trading name and is a registered trademark of Pace Limited, a company registered in England under company number 1672847. Our registered office is at Victoria Road, Saltaire, West Yorkshire, BD18 3LF.
 
-We are required to comply with the Data Protection Act 1998 (“ **DPA** ”) in relation to the personal information we hold about you.  Under the DPA, Pace plc is known as a data controller in respect of the personal information which we collect from you using this Website and to which this Privacy Policy applies. This means that when you provide personal information to us, we have certain responsibilities in relation to that personal information.  Pace plc has notified the Office of the Information Commissioner of its data processing activities: our registration number is Z5989422.
+We are required to comply with the Data Protection Act 1998 (“ **DPA** ”) in relation to the personal information we hold about you.  Under the DPA, Pace Limited is known as a data controller in respect of the personal information which we collect from you using this Website and to which this Privacy Policy applies. This means that when you provide personal information to us, we have certain responsibilities in relation to that personal information.  Pace Limited has notified the Office of the Information Commissioner of its data processing activities: our registration number is Z5989422.
 
 ## **What information do we collect from visitors to the Website and how is it used?**
 
@@ -42,13 +42,13 @@ We do not trade or rent your personal information to third parties.
 
 When you provide any personal information to us, you warrant that it is accurate and up to date. This is very important because if you provide details which are inaccurate then we may not be able to deal with your enquiry. You should therefore check that all details are accurate and without error.
 
-You should inform us if any information which we hold about you requires updating.  If you would like us to update any personal details which we hold about, then please write to us at Pace plc, Victoria Road, Saltaire, BD18 3LF, providing details of the change.
+You should inform us if any information which we hold about you requires updating.  If you would like us to update any personal details which we hold about, then please write to us at Pace Limited, Victoria Road, Saltaire, BD18 3LF, providing details of the change.
 
 If you submit a third party's details to us for any reason, for example, if you wish us to respond to your enquiry by contacting another person, if you raise an enquiry on someone else’s behalf or if you would like someone else to receive our email alerts, you must first have obtained their permission to do so. By providing details about someone else, you confirm that you have all appropriate permissions.  
 
 ## **How do you access the personal information we hold about you?**
 
-To obtain a copy of the personal information we hold about you, please write to the Company Secretary at Pace plc, Victoria Road, Saltaire, BD18 3LF, enclosing a cheque or postal order for £10 made payable to Pace plc to cover our administration costs. As soon as we are satisfied as to your identity we will send you, within 40 days of receipt of your written request and the fee, a copy of all the personal information we hold about you which we are legally required to disclose to you.
+To obtain a copy of the personal information we hold about you, please write to the Company Secretary at Pace Limited, Victoria Road, Saltaire, BD18 3LF, enclosing a cheque or postal order for £10 made payable to Pace Limited to cover our administration costs. As soon as we are satisfied as to your identity we will send you, within 40 days of receipt of your written request and the fee, a copy of all the personal information we hold about you which we are legally required to disclose to you.
 
 ## **Use of Cookies  
 **
