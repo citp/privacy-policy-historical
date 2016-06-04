@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the readme.io privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228181344id_/https%3A//readme.io/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readme.io privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604192917id_/http%3A//readme.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · ReadMe.io
 
-This Privacy Policy governs the manner in which ReadMe.io collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.readme.io website ("Site"). This privacy policy applies to the Site and all products and services offered by ReadMe.io.
+* * *
+
+This Privacy Policy governs the manner in which ReadMe.io collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.readme.io](http://www.readme.io/) website ("Site"). This privacy policy applies to the Site and all products and services offered by ReadMe.io.
 
 ## Personal identification information
 
@@ -20,29 +22,17 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 ReadMe.io may collect and use Users personal information for the following purposes:
 
-  *  **To improve customer service**
+  * **To improve customer service** Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * **To personalize user experience** We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-  *  **To personalize user experience**
+  * **To improve our Site** We may use feedback you provide to improve our products and services.
 
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * **To process payments** We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
 
-  *  **To improve our Site**
+  * **To run a promotion, contest, survey or other Site feature** To send Users information they agreed to receive about topics we think will be of interest to them.
 
-We may use feedback you provide to improve our products and services.
-
-  *  **To process payments**
-
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-
-  *  **To run a promotion, contest, survey or other Site feature**
-
-To send Users information they agreed to receive about topics we think will be of interest to them.
-
-  *  **To send periodic emails**
-
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+  * **To send periodic emails** We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
@@ -69,18 +59,15 @@ ReadMe.io has the discretion to update this privacy policy at any time. When we 
 
 By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/tos). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-## Contacting us
-
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-ReadMe.io
+  * ReadMe.io
+  * [http://www.readme.io](http://www.readme.io/)
+  * ReadMe.io 855 Front St. San Francisco, CA 94111
+  * [support@readme.io](mailto:support@readme.io)
 
-http://www.readme.io
 
-ReadMe.io 855 Front St. San Francisco, CA 94111
-
-[support@readme.io](mailto:support@readme.io)
 
 * * *
 
- _This document was last updated on **October 07, 2014**_
+_This document was last updated on **October 07, 2014**_
