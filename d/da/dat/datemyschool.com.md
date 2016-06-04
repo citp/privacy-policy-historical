@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datemyschool.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315110019id_/https%3A//datemyschool.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datemyschool.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604042648id_/https%3A//datemyschool.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy * DMS
 
@@ -31,7 +31,7 @@ _Use of cookies and other technologies to collect information._  We use various
 
   * **Other Technologies.**  We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in advertisements or email messages to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors and to measure the overall effectiveness of our content, programming or other activities.
 
-  * **Information collected by third-parties.**  We may allow in the future third-parties to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness.
+  * **Information collected by third-parties.**  We may allow third-parties to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. In addition, we may allow non-advertising third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) and Networking Advertising Initiative at [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/). 
 
 
 
