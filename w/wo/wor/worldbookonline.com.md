@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldbookonline.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205013512id_/http%3A//www.worldbook.com/world-book-corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldbookonline.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604120737id_/http%3A//www.worldbook.com/world-book-corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,7 +94,7 @@ Attention: Customer Service
 If you have any questions or concerns about this Privacy Policy or the use of your information, or to modify or update any information we have received, please contact us through the Online Services or by physical or electronic mail addressed to:
 
 World Book, Inc.  
-233 North Michigan Avenue, Suite 2000  
+180 N LaSalle St. Suite 900  
 Chicago, IL 60601  
 Attention: Customer Service
 
