@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spaceshipsandlaserbeams.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206043011id_/http%3A//spaceshipsandlaserbeams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spaceshipsandlaserbeams.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604152023id_/http%3A//spaceshipsandlaserbeams.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Boy Birthday Party Ideas and Supplies - Spaceships and Laser Beams
+# Privacy Policy | Spaceships and Laser Beams
 
 We want you to always think that Spaceships and Laser Beams is pretty cool. As a result, we take your privacy very seriously.
 
