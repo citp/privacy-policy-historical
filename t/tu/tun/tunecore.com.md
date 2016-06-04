@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tunecore.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016170252id_/http%3A//www.tunecore.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunecore.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604183239id_/http%3A//www.tunecore.com/index/privacy) for the most accurate reproduction.*
 
 # Privacy | TuneCore
 
