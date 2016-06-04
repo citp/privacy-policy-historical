@@ -1,71 +1,148 @@
-> *The following text is extracted and transformed from the mygotvmail.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429231430id_/http%3A//grasshopper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygotvmail.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604081045id_/http%3A//grasshopper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Grasshopper
 
-**Information Collection** Grasshopper Group is the sole owner of the information collected on http://grasshopper.com. Grasshopper Group collects information from our users at several different points on our Web site.
+### Information Collection
 
-**Order** We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user.
+This privacy statement discloses the privacy practices of Grasshopper Group LLC "Grasshopper", an affiliate of Citrix Systems, Inc., and the information collected on [grasshopper.com](http://grasshopper.com/), [secure.grasshopper.com](https://secure.grasshopper.com/), [uk.grasshopper.com](http://uk.grasshopper.com/) and [uksecure.grasshopper.com](https://uksecure.grasshopper.com/). Grasshopper collects information from our users at several different points on our Web site.
 
-**Information Use** Information collected is used only for setting up service and conveying information about user accounts and upcoming features and benefits of Grasshopper programs. 
+### Order
 
-**Profile** We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties.
+We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user.
 
-**Cookies** A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use cookies on this site.
+If you are a European Economic Area ("EEA") customer, the personal information you provide us will be transferred to countries outside the EEA. By way of example, this will happen if any of our group servers, companies, or contractors are located in a country outside the EEA, such as Grasshopper, which is located in the United States. These countries may not have similar data protection laws to the EEA. Nonetheless, if we transfer information outside the EEA in this way, we will take steps to ensure your personal information will be protected and that your privacy rights continue to be respected.
 
-**Log Files** Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called "analog 4.13" that uses log files to analyze user movement.
+### Information Use
 
-### Communications from the Site
+Information collected is used only for setting up service and conveying information about user accounts and upcoming features and benefits of Grasshopper programs.
 
-**Special Offers and Updates**
+### Profile
+
+We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the user’s personal information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties.
+
+### Cookies
+
+A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personal information while on our site. We use cookies on this site.
+
+Grasshopper does not use technology that recognizes "Do Not Track" signals from your browser. You can block cookies by modifying the settings in your web browser.
+
+### Log Files
+
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personal information. We use a tracking utility called "analog 4.13" that uses log files to analyze user movement.
+
+## Communications from Grasshopper
+
+### Special Offers and Updates
 
 We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
 
-**Blog** If a user wishes to subscribe to our blog, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications.. Please email unsubscribe@grasshopper.com.
+### Blog
 
-**Service Announcements** On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+If a user wishes to subscribe to our blog, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please email [unsubscribe@grasshopper.com](mailto:unsubscribe@grasshopper.com).
 
-**Customer Service** We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.
+### Service Announcements
 
-### Sharing
+On occasion it is necessary to send out service announcements or information related to your account, such as receipts, confirmation emails or customer service/product updates that are part of providing the service to you. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
 
-**Legal Disclaimer** Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+### Customer Service
 
-**Third Party Advertisers** Grasshopper DOES NOT share, sell, rent or trade Web site usage information about users with a reputable third party. Grasshopper may share non identifiable aggregate information. but never call records or usage statistics to partners who have signed a non-disclosure agreement for the sole purpose of establishing a partnership agreement. This data may include customer name and address.
+We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the user's wishes.
 
-**Service Providers** We do not partner with other third party Systems to provide toll free services. When the user signs up for these particular services, we share names, or all contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+## Sharing
 
-**Business Transitions** In the event Grasshopper goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users personal information will, in most instances, be part of the assets transferred. 
+### Affiliates
 
-**Links** This Web site contains links to other sites. Please be aware that we, Grasshopper, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+We may sometimes share or jointly collect information with our parent entity and the wholly owned subsidiaries and affiliated divisions of our parent company entity. Sharing this information helps us make your customer experience more seamless and efficient by allowing us to improve our marketing efforts to better target customer needs, streamline our processes and consolidate our backend business systems.
 
-**Surveys & Contests** From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users personally identifiable information for any secondary purposes. 
+### Legal Disclaimer
 
-**Testimonials** We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with the testimonial. 
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
-**Tell an Entrepreneur** If a user elects to use our referral service for informing an entrepreneur or friend about our site, we ask them for the entrepreneur's or friend's name and email address. Grasshopper will automatically send the entrepreneur or friend a one-time email inviting them to visit the site. Grasshopper does not store this information; it is used for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Grasshopper by [submitting a ticket](https://support.grasshopper.com/index.php?_m=tickets&_a=submit) to request the removal of this information from our database. 
+### Third Party Advertisers
 
-**Security** This Web site takes every precaution to protect our users information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
+Grasshopper DOES NOT share, sell, rent or trade Web site usage information about users. Grasshopper may share non identifiable aggregate information (but never call records or usage statistics) to partners who have signed a non-disclosure agreement for the sole purpose of establishing a partnership agreement. This data may include customer name and address.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just surfing. 
+### Our Use of Banner Ads
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users information is protected. Finally, the servers that store personally identifiable information are in a secure environment. 
+We may use third-party advertising companies to place advertisements about Grasshopper products and services on other websites. These advertising companies may use cookies, web beacons, or other technologies to measure the effectiveness of our ads. The advertising companies may use anonymous information about your visits to our and other websites in order to measure advertising effectiveness and offer selective ad content. But they use an anonymous identifier, such as a number, to identify you. They do not link to or collect any personally identifying information. The use of such cookies, web beacons, and other technologies is subject to the advertising companies' privacy policies, not the [Policy](https://web.archive.org/privacy-policy/) of Grasshopper. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by blocking cookies using your web browser settings. Please note this does not opt you out of being served advertising; you will continue to receive generic ads.
 
-If users have any questions about the security at our Web site, users can [submitting a ticket](https://support.grasshopper.com/index.php?_m=tickets&_a=submit) to our Customer Support Center. 
+### Social Media Features
 
-**Supplementation of Information** In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
+Our website includes Social Media Features, such as the Facebook or Twitter button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the third party company providing them.
 
-**Address Verification** We use Authorize.net to verify a user's address for credit card authentication purposes.
+### Service Providers
 
-**Correcting/Updating/Deleting/Deactivating Personal Information** If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users personally identifiable information. This can usually be done by [submitting a ticket](https://support.grasshopper.com/index.php?_m=tickets&_a=submit) to our Customer Support Center.
+When the user signs up for these particular services, we share names, or all contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personal information except for the purpose of providing these services.
 
-**Notification of Changes** If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+### Business Transitions
 
-**Contact Information** If users have any questions or suggestions regarding our privacy policy, please contact us at:
+In the event Grasshopper goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users personal information will, in most instances, be part of the assets transferred.
 
+### Links
+
+This Web site contains links to other sites. Please be aware that we, Grasshopper, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personal information. This privacy statement applies solely to information collected by this Web site.
+
+### Surveys & Contests
+
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip/postal code). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users personal information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users personal information for any secondary purposes.
+
+### Testimonials
+
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with the testimonial.
+
+### Tell an Entrepreneur
+
+If a user elects to use our referral service for informing an entrepreneur or friend about our site, we ask them for the entrepreneur's or friend's name and email address. Grasshopper will automatically send the entrepreneur or friend a one-time email inviting them to visit the site. Grasshopper does not store this information; it is used for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Grasshopper by [submitting a ticket](https://support.grasshopper.com/anonymous_requests/new) to request the removal of this information from our database.
+
+### Security
+
+This Web site takes appropriate precautions to protect our users information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
+
+When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just surfing.
+
+While we use SSL encryption to protect sensitive information online, we also take appropriate precautions to protect user-information off-line. All of our users information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personal information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users information is protected. Finally, the servers that store personal information are in a secure environment.
+
+If users have any questions about the security at our Web site, users can [submit a ticket](https://support.grasshopper.com/anonymous_requests/new) to our Customer Support Center.
+
+### Supplementation of Information 
+
+In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
+
+### Address Verification
+
+We use Authorize.net to verify a user's address for credit card authentication purposes.
+
+### Google Analytics & Tracking
+
+We use Google Analytics as described in [“How Google uses data when you use our partners' sites or apps.”](http://www.google.com/policies/privacy/partners/) You can prevent your data from being used by Google Analytics on websites by installing the Google Analytics opt-out browser add-on [here](https://tools.google.com/dlpage/gaoptout).
+
+We also employ IP address masking, a technique used to truncate IP addresses collected by Google Analytics and store them in an abbreviated form to prevent them from being traced back to individual users.
+
+We may also use Google Analytics Demographics and Interests. We use the data provided by this service (such as age range, gender and interests) to better understand our website audience and tune our communications appropriately. 
+
+_Portions of our website may also use Google Analytics for Display Advertisers including DoubleClick or Dynamic Remarketing which provide interest-based ads based on your visit to this or other websites. You can use[Ads Settings](https://www.google.com/settings/u/0/ads/authenticated) to manage the Google ads you see and opt-out of interest-based ads._
+
+### Correcting/Updating/Deleting/Deactivating Personal Information
+
+If a user's personal information changes (such as zip/postal code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users personal information. This can usually be done by [submitting a ticket](https://support.grasshopper.com/anonymous_requests/new) to our Customer Support Center.
+
+### Notification of Changes
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+### Contact Information
+
+If users have any questions or suggestions regarding our privacy policy, please contact us at:
+
+**US Customers**  
 800-820-8210  
-[Submit a Ticket](https://support.grasshopper.com/index.php?_m=tickets&_a=submit)  
+[Submit a Ticket](https://support.grasshopper.com/anonymous_requests/new)  
 197 1st Avenue, Suite 200  
 Needham, MA 02494  
 [http://grasshopper.com](http://grasshopper.com/)
 
-This Privacy Policy was last updated on 1/7/10 
+**UK Customers**  
+[help@uk.grasshopper.com](mailto:help@uk.grasshopper.com)  
+[http://uk.grasshopper.com](http://uk.grasshopper.com/)
+
+This Privacy Policy was last updated on April 13, 2016
