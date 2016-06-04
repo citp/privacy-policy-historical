@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avgthreatlabs.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203150149id_/http%3A//www.avg.com/ww-en/privacy%3FECID%3Dpr-th-1008%26cmpid%3Dthl_ftr_pri%26intcmp%3Dthl_ftr_pri%26pid2%3DR00056580100344) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avgthreatlabs.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604091457id_/http%3A//www.avg.com/us-en/privacy%3FECID%3Dpr-th-1008%26cmpid%3Dthl_ftr_pri%26intcmp%3Dthl_ftr_pri%26pid2%3DR00056580100344) for the most accurate reproduction.*
 
 # Privacy Policy | We are serious about your privacy | AVG
 
@@ -125,9 +125,9 @@ You have the right to ask us about the personal data we process about you, the p
 
 You have the right to request that we update, correct, or delete (assuming that this does not impact the services we are providing to you) your personal data at any time. Please note that we may reject requests which risk the privacy of others or are unreasonable or repetitive, or would require disproportionate effort. Unless you request us to delete your data, please note that we may keep your personal data for one year after you stop being a customer (but we typically keep your personal data no longer than is reasonably necessary given the purposes for which the data was collected). 
 
-You have the right to opt out of the use or collection of certain data, including personal data and non-personal data, by following the instructions [here](https://web.archive.org/ww-en/privacy-preferences). 
+You have the right to opt out of the use or collection of certain data, including personal data and non-personal data, by following the instructions [here](https://web.archive.org/us-en/privacy-preferences). 
 
-You have the right to opt-out of receiving our email newsletters, bulletins, or other information at any time by following the instructions [here](https://web.archive.org/ww-en/privacy-preferences) or the relevant unsubscribe process outlined in the applicable email or newsletter. Please be aware that our emails may include important or useful information about your AVG Products, including information about your license number or the status of your orders or accounts. 
+You have the right to opt-out of receiving our email newsletters, bulletins, or other information at any time by following the instructions [here](https://web.archive.org/us-en/privacy-preferences) or the relevant unsubscribe process outlined in the applicable email or newsletter. Please be aware that our emails may include important or useful information about your AVG Products, including information about your license number or the status of your orders or accounts. 
 
 You have the right to expect us to protect your personal data and keep it safe. We work hard to protect AVG and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of the information we hold. In particular: 
 
@@ -147,7 +147,7 @@ Changes to our privacy policy since the latest version include:
 
 
 
-Follow [this link](https://web.archive.org/ww-en/privacy-archive) to download the current privacy policy or access previous versions of the AVG Privacy Policy. 
+Follow [this link](https://web.archive.org/us-en/privacy-archive) to download the current privacy policy or access previous versions of the AVG Privacy Policy. 
 
 ## How can I contact you?
 
