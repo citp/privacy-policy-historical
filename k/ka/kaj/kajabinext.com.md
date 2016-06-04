@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kajabinext.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322123049id_/https%3A//www.kajabinext.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kajabinext.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604091636id_/https%3A//www.kajabinext.com/site/privacy_policy) for the most accurate reproduction.*
 
 # Kajabi Next
 
