@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipsy.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906134955id_/https%3A//www.ipsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipsy.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604183346id_/https%3A//www.ipsy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy (Legal) | ipsy
 
@@ -127,7 +127,7 @@ _Created: February 9, 2015_
 
     3. **Information from other sources.** We may receive information about our users from third party social platforms, such as Facebook. When you access or use our site or mobile application through such a site, you allow us to access or collect information made available by the third party site in accordance with its privacy policy. This information may be available from your profile or account with the third party site or from cookies placed on your device by the third party site. Depending on your privacy settings this information may include: Facebook interests, gender, friends and location.
 
-    4. **Information collected automatically.** We automatically collect information from your browser or device when you visit the Site. This information includes your IP address, device ID, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us, and the referring site address.
+    4. **Information collected automatically.** We automatically collect information from your browser or device when you visit the Site. This information includes your IP address, device ID, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us, and the referring site address.This information also includes your operating system or application, your location, and your activities voluntarily have submitted to us (for example, your email address).
 
   3. **Other Information We Receive About You.**
 
@@ -141,7 +141,7 @@ Information we collect from you may be either personal or aggregate. Personal in
 
     2. **Personal Information.** We do not sell, rent, trade, license, or otherwise disclose your personal information to third parties, except in these limited circumstances:
 
-      1. **Disclosures to ipsy Agents, Consultants and Related Third Parties.** Like most Internet retailers, we use third parties to help ensure our business runs smoothly. We disclose your information to these third-party companies so they can perform their specific functions for us. For example, we may provide your name, shipping address, email and phone number to third-party shippers like the U.S. Postal Service and the United Parcel Service to deliver our products to you. We also may provide your credit card information to third-party credit card processors and issuers to help us process your orders from us. When we employ other companies to perform functions of this nature, we only disclose the information that they need to perform their requested function. We do not authorize them to retain, share, store, or use personal information provided by us for any other purpose.
+      1. **Disclosures to ipsy Agents, Consultants and Related Third Parties.** Like most Internet retailers, we use third parties to help ensure our business runs smoothly. We disclose your information to these third-party companies so they can perform their specific functions for us. For example, we may provide your name, shipping address, email and phone number to third-party shippers like the U.S. Postal Service and the United Parcel Service to deliver our products to you. We also may provide your credit card information to third-party credit card processors and issuers to help us process your orders from us. ipsy’s third party vendors may recognize a tracking code used by your browser or application to enable you to receive customized content, or to enable you to use other technologies such as tags and scripts. The tracking code may reflect de-identified demographic or other data linked to data you. When we employ other companies to perform functions of this nature, we only disclose the information that they need to perform their requested function. We do not authorize them to retain, share, store, or use personal information provided by us for any other purpose.
 
       2. **Disclosures Required by Law or Otherwise.** We may disclose your personal information if we believe, in good faith, that it's necessary to: (1) comply with a legal obligation such as in response to a court order or subpoena; (2) protect the safety of fellow ipsters or the public; (3) protect against legal liability; or (4) protect and defend ipsy's rights or property.
 
@@ -181,4 +181,4 @@ You may inform us of any changes or requests in regards to your personal data, a
 We will post any changes and updates to this Privacy Policy on this Site so you can always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy periodically so you'll know if it has been changed or updated.
 
 _Created: January 1, 2012  
-Last Updated: February 9, 2015_
+Last Updated: September 21, 2015_
