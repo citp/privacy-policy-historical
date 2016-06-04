@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222173847id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604190746id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Action Figures, Toys, Bobble Heads, and Collectibles at Entertainment Earth
 
-|  [ ](http://www.entertainmentearth.com/) |  |  [ ](http://www.entertainmentearth.com/dailydeals.asp?utm_source=wafer&utm_medium=promo&utm_content=DD&utm_campaign=DD)  
+Experience San Diego Comic-Con the Entertainment Earth way - July 20-24, 2016, Booth #2343. Exclusives and more! [CLICK HERE!](http://www.entertainmentearth.com/comiccon.asp)  
+  
+|  [ ](http://www.entertainmentearth.com/) |  |  [ ](http://www.entertainmentearth.com/hitlist.asp?spotlight=5156)  
 ---|---|---  
   
 |    |  |     
 ---|---|---  
   |  |     
   |  |     
-  |  |     
-   
   |  |     
   |  **CONTACT US** |     
   |    
@@ -33,7 +33,7 @@ Product specifications, prices, ship dates and availability are subject to chang
 |     
    
   
-[](http://www.entertainmentearth.com/hitlist.asp?spotlight=4843)
+[](http://www.entertainmentearth.com/hitlist.asp?collect=Pop%21+Vinyl+Figures&instockCheck=on)
 
 **PRIVACY POLICY** Entertainment Earth, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. We have made a commitment to meet the strict requirements regarding how we treat your information. The following discloses our information gathering and dissemination practices for www.entertainmentearth.com.  
 
