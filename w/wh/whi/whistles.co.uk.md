@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whistles.co.uk privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929065515id_/http%3A//www.whistles.com/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistles.co.uk privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604134554id_/http%3A//www.whistles.com/general/privacy.html) for the most accurate reproduction.*
 
 # Privacy | WHISTLES
 
@@ -14,7 +14,7 @@ Prices are inclusive of VAT. Goods are subject to availability.
 
 **We understand that junk mail can be a nuisance.**
 
-We will only send you marketing messages, such as items and promotions that match your profile, if you choose to receive them from us or the third parties we think you may be interested in hearing from. If you decide that you no longer wish to receive emails from www.whistles.com, you can unsubscribe at any time by clicking here and selecting "unsubscribe". We promise your details will never be sold to an unconnected third party for marketing purposes.
+We will only send you marketing messages, such as items and promotions that match your profile, if you have previously shopped with us of if you have chosen to receive updates. If you decide that you no longer wish to receive emails from www.whistles.com, you can unsubscribe at any time by clicking here and selecting "unsubscribe". We promise your details will never be sold to an unconnected third party for marketing purposes.
 
 Our privacy statement may change and therefore you should review it regularly. We will of course notify you of any updates where we are required to do so. If you have any questions relating to this statement, please email us at [enquiries@whistles.com](mailto:enquiries@whistles.com).
 
