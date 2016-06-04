@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pizzahut.com.au privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921032910id_/https%3A//www.pizzahut.com.au/about-us/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzahut.com.au privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604194330id_/https%3A//www.pizzahut.com.au/about-us/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy - Pizza Hut Australia
-
-**PIZZA HUT AUSTRALIA**
+# Pizza Hut - About Us - Privacy
 
 Yum! Restaurants Australia Pty Limited (ABN 16 000 674 993) and Pizza Adco Limited (ACN 085 270 640) (collectively referred to as “Pizza Hut”, “we”, “us” or “our”) are committed to protecting the privacy of personal information in accordance with Australian privacy laws. This Privacy Policy sets out Pizza Hut’s approach to handling personal information and includes information on how we collect, use, disclose and keep secure your personal information, whether provided to us via our stores, customer service centres, this website or other means.
 
@@ -14,12 +12,10 @@ We will only collect personal information from you that we reasonably require fo
 
 The kinds of personal information we may collect from you will depend on what type of interaction you have with us. However, it may include, among other things:
 
-  * Personal information you provide to us when you participate in a promotion, competition, promotional activity, survey, market research or customer behavioural activity, subscribe to our mailing list or interact or follow our social media pages like Facebook, Twitter and Instagram. This information may include, for example, your name, postal address, email address, telephone number, date of birth, age and occupation;
-  * Personal information you provide to us via our stores or customer services centres or when you place an order in store, by telephone or via our mobile or electronic ordering system. This information may include, for example, your name, postal address, email address, telephone number, date of birth, age, menu preferences and previous order information, IP address and credit card details;
-  * If you are applying for a position with Pizza Hut, we will collect information as outlined in the section below entitled “Employment Applications”;
-  * If you are applying to become a Pizza Hut franchisee, we will collect information as outlined in the section below entitled “Franchise Applications”.
-
-
+\-   Personal information you provide to us when you participate in a promotion, competition, promotional activity, survey, market research or customer behavioural activity, subscribe to our mailing list or interact or follow our social media pages like Facebook, Twitter and Instagram. This information may include, for example, your name, postal address, email address, telephone number, date of birth, age and occupation;  
+\-   Personal information you provide to us via our stores or customer services centres or when you place an order in store, by telephone or via our mobile or electronic ordering system. This information may include, for example, your name, postal address, email address, telephone number, date of birth, age, menu preferences and previous order information, IP address and credit card details;  
+\-   If you are applying for a position with Pizza Hut, we will collect information as outlined in the section below entitled “Employment Applications”;  
+\-   If you are applying to become a Pizza Hut franchisee, we will collect information as outlined in the section below entitled “Franchise Applications”.
 
 In some circumstances, we may collect personal information from third parties such as credit reporting agencies or our marketing agencies. Where we do, we will ensure that we act in accordance with relevant Australian laws.
 
@@ -29,10 +25,8 @@ With the exception of when you apply for a position with Pizza Hut or to become 
 
 Where we store your personal information depends on what interaction you have had with us. However, some areas may include:
 
-  * Databases for processing customer orders, enquiries or feedback; or
-  * Email or SMS databases for marketing communications.
-
-
+\- Databases for processing customer orders, enquiries or feedback; or  
+\- Email or SMS databases for marketing communications.
 
 **3\. How your personal information is stored**
 
@@ -46,18 +40,16 @@ We only keep your personal information for as long as it is required for the pur
 
 We collect your personal information so that we can use it for our functions and activities and provide products and services to you, which include, among other things:
 
-  * processing meal orders you place with us in store or via our electronic or mobile ordering system, providing you with email or SMS confirmation of your meal orders, providing you with our products and services and processing meal refunds where applicable;
-  * administering and responding to your enquiry or feedback about our products and/or services;
-  * conducting, and allowing you to participate in, a promotion, competition, promotional activity, survey, market research or customer behavioural activity;
-  * promoting and marketing our current and future products and services to you, informing you of upcoming events and special promotions and offers and analysing our products and services so as to improve and develop new products and services;
-  * assisting you with remembering and re-ordering from our menu in future;
-  * administering and conducting traineeships;
-  * facilitating our internal business operations, including fulfilment of any legal and regulatory requirements;
-  * improving the operation or navigation of our websites;
-  * processing and considering your employment application and conducting reference checks (refer to Employment Application section below);
-  * providing information that you request about our franchises and processing and considering your franchise application and conducting record checks (refer to Franchise Application section below).
-
-
+\- processing meal orders you place with us in store or via our electronic or mobile ordering system, providing you with email or SMS confirmation of your meal orders, providing you with our products and services and processing meal refunds where applicable;  
+\- administering and responding to your enquiry or feedback about our products and/or services;  
+\- conducting, and allowing you to participate in, a promotion, competition, promotional activity, survey, market research or customer behavioural activity;  
+\- promoting and marketing our current and future products and services to you, informing you of upcoming events and special promotions and offers and analysing our products and services so as to improve and develop new products and services;  
+\- assisting you with remembering and re-ordering from our menu in future;  
+\- administering and conducting traineeships;  
+\- facilitating our internal business operations, including fulfilment of any legal and regulatory requirements;  
+\- improving the operation or navigation of our websites;  
+\- processing and considering your employment application and conducting reference checks (refer to Employment Application section below);  
+\- providing information that you request about our franchises and processing and considering your franchise application and conducting record checks (refer to Franchise Application section below). 
 
 We may also use your personal information for other purposes not listed above which will be made clear to you at the time we collect your personal information, or for such purposes as may be required or permitted by law.
 
@@ -65,15 +57,13 @@ We may also use your personal information for other purposes not listed above wh
 
 We may disclose personal information we collect from you:
 
-  * to our related companies, suppliers, consultants, contractors or agents for the purposes set out in the section above entitled “How your personal information will be used” or for other purposes directly related to the purpose for which the personal information is collected. For example, your name and telephone number may be disclosed to our supplier to enable that supplier to respond to your request for information about a particular product it produces;
-  * to relevant Federal, State, Territory food safety authorities and health authorities for the purpose of investigating a food safety or health issue;
-  * to Federal and State educational training institutions for the purpose of conducting retail training and receiving funding for such training;
-  * to Pizza Hut franchisees, including those located in Australia and New Zealand if you have made a enquiry or complaint relating to a store that is owned and operated by one of our franchisees;
-  * where the law requires or authorises us to do so;
-  * to others that you have been informed of at the time any personal information is collected from you;
-  * with your consent (express or implied) to others.
-
-
+\- to our related companies, suppliers, consultants, contractors or agents for the purposes set out in the section above entitled “How your personal information will be used” or for other purposes directly related to the purpose for which the personal information is collected. For example, your name and telephone number may be disclosed to our supplier to enable that supplier to respond to your request for information about a particular product it produces;  
+\- to relevant Federal, State, Territory food safety authorities and health authorities for the purpose of investigating a food safety or health issue;  
+\- to Federal and State educational training institutions for the purpose of conducting retail training and receiving funding for such training;  
+\- to Pizza Hut franchisees, including those located in Australia and New Zealand if you have made a enquiry or complaint relating to a store that is owned and operated by one of our franchisees;  
+where the law requires or authorises us to do so;  
+\- to others that you have been informed of at the time any personal information is collected from you;  
+with your consent (express or implied) to others. 
 
 Such disclosure may include the transfer of your personal information to our franchisees in New Zealand or to our related companies in the United States of America.
 
@@ -89,23 +79,19 @@ In considering your application, we may also obtain personal information about y
 
 We collect personal information for any one or more of the following purposes:
 
-  * assessing you for a position with us or one of our related entities;
-  * assessing whether you are suitable to progress to each stage of the recruitment process for a vacant position;
-  * storing your information for future employment opportunities.
-
-
+\- assessing you for a position with us or one of our related entities;  
+\- assessing whether you are suitable to progress to each stage of the recruitment process for a vacant position;  
+\- storing your information for future employment opportunities. 
 
 If you do not provide us with the information we request, we will be unable to do one or more of the above.
 
 We may disclose your information to:
 
-  * referees or previous employers;
-  * recruitment agencies or agencies or contractors acting on our behalf;
-  * our related entities;
-  * law enforcement agencies to verify whether you have a criminal record;
-  * educational organisations to the extent necessary to verify your qualifications.
-
-
+\- referees or previous employers;  
+\- recruitment agencies or agencies or contractors acting on our behalf;  
+\- our related entities;  
+\- law enforcement agencies to verify whether you have a criminal record;  
+\- educational organisations to the extent necessary to verify your qualifications. 
 
 If we engage third party contractors to perform services for us which involves handling personal information, we will take reasonable steps to prevent the contractor from using the personal information except for the purpose for which it was supplied.
 
@@ -117,22 +103,18 @@ In considering your application, we may also obtain personal information about y
 
 We collect personal information for any one or more of the following purposes:
 
-  * assessing your application to become a Pizza Hut franchisee;
-  * assessing whether you are suitable to progress to each stage of the Pizza Hut franchise recruitment process;
-  * storing your information for future Pizza Hut franchise opportunities.
-
-
+\- assessing your application to become a Pizza Hut franchisee;  
+\- assessing whether you are suitable to progress to each stage of the Pizza Hut franchise recruitment process;  
+\- storing your information for future Pizza Hut franchise opportunities. 
 
 If you do not provide us with the information we request, we will be unable to do one or more of the above.
 
 We may disclose your information to:
 
-  * referees or previous employers;
-  * our related entities;
-  * law enforcement agencies to verify whether you have a criminal record; or
-  * educational organisations to the extent necessary to verify your qualifications.
-
-
+\- referees or previous employers;  
+\- our related entities;  
+\- law enforcement agencies to verify whether you have a criminal record; or  
+\- educational organisations to the extent necessary to verify your qualifications. 
 
 If we engage third party contractors to perform services for us which involves handling personal information, we will take reasonable steps to prevent the contractor from using the personal information except for the purpose for which it was supplied.
 
@@ -161,4 +143,10 @@ Telephone: (02) 9930 3000 (9.00am to 5.00pm, Monday to Friday)
 Facsimile: (02) 9930 3001  
 Email: PHprivacyofficeraus@yum.com
 
-Our Privacy Officer will consider your question or complaint and respond to you in a reasonable timeframe.
+Our Privacy Officer will consider your question or complaint and respond to you in a reasonable timeframe. Please note that if you are attempting to leave feedback about an online, in store or purchase experience, our Customer Service team can be reached on [Customer.service.hotline@yum.com](mailto:Customer.service.hotline@yum.com)
+
+[](https://web.archive.org/myres/menu/select_menu.cmd?categoryId=85&parentCategoryId=2&action=navigate)
+
+[](https://web.archive.org/medium-pizzas.jsp)
+
+Sign up for Hut Lovers to get great deals or coupons in your inbox.
