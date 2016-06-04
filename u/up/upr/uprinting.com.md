@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uprinting.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216003104id_/http%3A//www.uprinting.com/site-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uprinting.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604211515id_/http%3A//www.uprinting.com/site-policies.html) for the most accurate reproduction.*
 
 # UPrinting | Privacy Policy
 
@@ -85,7 +85,7 @@ DIGITAL ROOM, Inc.
 8000 Haskell Avenue  
 Van Nuys, CA 91406
 
-We can be reached via email at [info@uprinting.com](mailto:info@uprinting.com) or by telephone at 1.888.888.4211.
+We can be reached via email at [info@uprinting.com](mailto:info@uprinting.com) or by telephone at 888.888.4211.
 
 **Changes to the Privacy Policy**
 
