@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sysoon.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122115220id_/http%3A//www.sysoon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sysoon.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604125543id_/http%3A//www.sysoon.com/privacy) for the most accurate reproduction.*
 
-# Privacy Center | Sysoon
+# Privacy Center | Sysoon [en]
 
 SYSOON’s Privacy Policy describes how we treat personal information when you use SYSOON’s products and services. The Privacy Center was created to provide you with easy-to-understand information about our products and policies to help you make more informed choices about which products you use, how to use them, and what information you provide to us. Some products and services mentioned in this statement may not be available in all markets at this time.
 
