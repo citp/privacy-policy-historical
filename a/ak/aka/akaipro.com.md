@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akaipro.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115054828id_/http%3A//www.akaipro.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akaipro.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604061419id_/http%3A//akaipro.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Akai Professional - Iconic music production gear, including the legendary MPC
 
