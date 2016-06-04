@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitec.ac.nz privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141047id_/http%3A//www.unitec.ac.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitec.ac.nz privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604065610id_/http%3A//www.unitec.ac.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Unitec
 
@@ -42,4 +42,4 @@ Your name, date of birth and residency as entered on any enrolment form will als
 
 In addition, when required by law, Unitec will release information to government agencies such as the New Zealand Police, Department of Justice, Inland Revenue and the Accident Compensation Corporation.
 
-If you have any questions or feedback about your web privacy please email [webmaster@unitec.ac.nz](mailto:webmaster@unitec.ac.nz?subject=).
+If you have any questions or feedback about your web privacy please email [marketing@unitec.ac.nz](mailto:marketing@unitec.ac.nz?subject=Privacy%20policy%20enquiry).
