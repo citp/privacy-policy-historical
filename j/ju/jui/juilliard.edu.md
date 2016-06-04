@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the juilliard.edu privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120015130id_/http%3A//www.juilliard.edu/juilliard-website-privacy-policy-your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juilliard.edu privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604131922id_/http%3A//www.juilliard.edu/juilliard-website-privacy-policy-your-privacy-rights) for the most accurate reproduction.*
 
-# Privacy Statement | The Juilliard School
+# Juilliard Website Privacy Policy: Your Privacy Rights | The Juilliard School
 
 The Juilliard School (referred to herein as “Juilliard” or “we,” “us,” “our” and other similar pronouns) cares about your privacy.  This privacy policy (the “Policy”) shall apply to all of Juilliard’s websites and mobile applications from which this Policy is accessible (each, a “Website" and collectively, the “Websites”). We created this Policy to explain the type of information we collect, how we will use, disclose and protect this information once it is collected, and how you can opt-out of some of our uses and disclosures of your information.  
 
