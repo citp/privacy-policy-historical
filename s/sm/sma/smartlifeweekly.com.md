@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the smartlifeweekly.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211003608id_/http%3A//www.smartlifeweekly.com/uncategorised/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartlifeweekly.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605002010id_/http%3A//www.smartlifeweekly.com/uncategorised/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-    Last Updated on 13 March 2015
+    Last Updated on 07 January 2016
 
  **SmartLifeWeekly.com    \- Privacy Policy**
 
-This privacy policy (Privacy Policy) herein contains information intended to inform you of our practices and policies regarding the collection, use, and disclosure of information that you (End User, User, Website User, You, or Your) submit to SOHO Media, LLC (referred to as the Company, we, or us) through our website www.smartlifeweekly.com, the mobile and touch versions and any individual sites or merchant-specific, city-specific, or other area-specific websites we have now or in the future. The website and links contained within or otherwise available through external hyperlinks within our website will be collectively referred to as (the Site) in this Privacy Policy.
+This privacy policy (Privacy Policy) herein contains information intended to inform you of our practices and policies regarding the collection, use, and disclosure of information that you (End User, User, Website User, You, or Your) submit to Smart Life Weekly (referred to as the Company, we, or us) through our website www.smartlifeweekly.com, the mobile and touch versions and any individual sites or merchant-specific, city-specific, or other area-specific websites we have now or in the future. The website and links contained within or otherwise available through external hyperlinks within our website will be collectively referred to as (the Site) in this Privacy Policy.
 
  **End User Consent**  
 By accessing the Site, you acknowledge that you have read, understood, and agree to adhere to all of the terms of this Privacy Policy as well as the Site’s <http://www.smartlifeweekly.com/terms-and-conditions> Please refrain from using this Site if you do not agree to all of these terms and exit the Site. Do not access the Site again unless you fully agree to the terms set herein.
 
- **Collection of Information**  
+ **Collection of Information**
+
  **Your Personal Information**  
 Personal Information means any information that may be used to identify an individual. This includes but is not limited to: first and last name, email address, mailing and residential address, telephone number, title, birth date, gender, occupation, company you work for and other information needed to provide a service you have requested. When you browse our website and subsidiary sites, you do so anonymously, unless you have previously indicated that you wish SmartLifeWeekly.com to remember your login and password. SmartLifeWeekly.com does log your IP address (the Internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there. However, we do not link your IP address to any personal information unless you have registered and logged in to our website. When you visit certain SmartLifeWeekly.com web pages, you may need to be registered and to login with a password. The use of those web pages, and the information downloadable from those sites, may be governed by a written agreement between your employer and SmartLifeWeekly.com. Unless you request your personal information to be deleted, it may be retained by SmartLifeWeekly.com to verify compliance with the agreement, to track software and documents downloaded by you, or track page visits and usage of other applications available on our site. SmartLifeWeekly.com may receive personal information from its business partners and suppliers. SmartLifeWeekly.com only uses such information if it has been collected in accordance with acceptable privacy practices consistent with its policy and applicable laws.
 
@@ -37,7 +38,8 @@ Some or all of the Non-Personally Identifiable Information that we collect may b
  **Security**  
 For the security of our Users data we have taken some precautionary steps to make sure the information we collect that is Personally Identifiable is secure. We encrypt such data as passwords, credit card information, and other information that is Personally Identifiable. We ask that you do not share your password with anyone to maintain the highest level of security for yourself. Additionally we use a Secure Socket Layer (“SSL”) technology while Users make purchases or store certain information such as credit card numbers. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file for more than 60 days in order to store your preferences and offers that you have purchased.Although we take these measures to protect your information, there is no way to fully guarantee that your data is fully secure when data transmission takes place through the Internet or any wired or wireless connection. We are not responsible for the data that third parties receive during those transmissions and connections to our Site.
 
- **Tracking Methods and Purpose**  
+ **Tracking Methods and Purpose**
+
  **Use of Cookies.**  
 If enabled, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser, and allows the websites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us serve you the proper information and to facilitate purchases through our Site. We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. Please keep in mind that if cookies are disabled for one or any of our webpages or if you delete your cookies, our Site may not work as intended and may cause problems while trying to use certain features and functions.
 
@@ -45,9 +47,10 @@ If enabled, cookies are small files that a site or its service provider transfer
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your Users based on their visit to our Sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. We may also use other Third Party Service Providers and their technology to create a better User experience. We use pixels and pixel tags within our Site and our emails to Users that helps us determine our marketing efforts and the legitimacy of the data we collect.
 
  **Third Party Websites and Their Privacy Policy**  
-Our Privacy Policy is for the governance of this site and any other site owned and operated by SOHO Media, LLC. Any third-party or other site that you have access to from our site employs their own privacy policy and terms and conditions which explain their usage and disclosure of data collection and practices. Please be sure to read those before engaging in the use of those sites as we are not responsible for their actions or practices.
+Our Privacy Policy is for the governance of this site and any other site owned and operated by The Company. Any third-party or other site that you have access to from our site employs their own privacy policy and terms and conditions which explain their usage and disclosure of data collection and practices. Please be sure to read those before engaging in the use of those sites as we are not responsible for their actions or practices.
 
- **Miscellaneous Privacy Issues**  
+ **Miscellaneous Privacy Issues**
+
  **Children’s Online Privacy Protection Act Compliance.**  
 We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 18 years of age as we do not allow minors to use our Site. Our Site, products and services are all directed to people who are at least 18 years of age or older. We may sell children's products but only for the purchase of adults.
 
@@ -63,6 +66,6 @@ As part of the California Online Privacy Protection Act, all Users of our site m
 Furthermore, California Law requires us to allow you to control who you would like for us not to share this information with. In order to obtain the information we send and to which third parties, please write us your request by standard mail to the address listed in the contact portion of this policy, you may also email us to the email listed in the contact portion of this policy. Please include your first name, last name, email address, mailing address and what Personally Identifiable Information you want to prevent us from sharing. Please be sure to add “ATTN: LEGAL DEPT” in your email subject. We will correspond with you first to let you know who our Third Party Service Providers are so that you may select who you want to prevent from accessing your Personally Identifiable Information. Please allow 30 days for us to send a response, also please not that there is no charge for this service.
 
  **Revisions and Contact Information**  
-We reserve the right to make changes and modifications to this privacy policy at any time we feel that it is appropriate to do so. Please check back often to be aware of our modifications.  
+We reserve the right to make changes and modifications to this privacy policy at any time we feel that it is appropriate to do so. Please check back often to be aware of our modifications. This Privacy Policy was last updated on January 7th 2016.   
 Legal Inquiries: [smartlifeweekly@gmail.com](mailto:smartlifeweekly@gmail.com) [  
 ](mailto:legal@smartlifeweekly.com)
