@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedesignfile.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210202616id_/http%3A//freedesignfile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedesignfile.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604190949id_/http%3A//freedesignfile.com/privacy) for the most accurate reproduction.*
 
 # Freedesignfile Privacy Policy
 
