@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grasshopper.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814145200id_/http%3A//grasshopper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grasshopper.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604081045id_/http%3A//grasshopper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Grasshopper
 
@@ -112,6 +112,16 @@ In order for this Web site to properly fulfill its obligation to users it is nec
 
 We use Authorize.net to verify a user's address for credit card authentication purposes.
 
+### Google Analytics & Tracking
+
+We use Google Analytics as described in [“How Google uses data when you use our partners' sites or apps.”](http://www.google.com/policies/privacy/partners/) You can prevent your data from being used by Google Analytics on websites by installing the Google Analytics opt-out browser add-on [here](https://tools.google.com/dlpage/gaoptout).
+
+We also employ IP address masking, a technique used to truncate IP addresses collected by Google Analytics and store them in an abbreviated form to prevent them from being traced back to individual users.
+
+We may also use Google Analytics Demographics and Interests. We use the data provided by this service (such as age range, gender and interests) to better understand our website audience and tune our communications appropriately. 
+
+_Portions of our website may also use Google Analytics for Display Advertisers including DoubleClick or Dynamic Remarketing which provide interest-based ads based on your visit to this or other websites. You can use[Ads Settings](https://www.google.com/settings/u/0/ads/authenticated) to manage the Google ads you see and opt-out of interest-based ads._
+
 ### Correcting/Updating/Deleting/Deactivating Personal Information
 
 If a user's personal information changes (such as zip/postal code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users personal information. This can usually be done by [submitting a ticket](https://support.grasshopper.com/anonymous_requests/new) to our Customer Support Center.
@@ -135,4 +145,4 @@ Needham, MA 02494
 [help@uk.grasshopper.com](mailto:help@uk.grasshopper.com)  
 [http://uk.grasshopper.com](http://uk.grasshopper.com/)
 
-This Privacy Policy was last updated on June 8, 2015
+This Privacy Policy was last updated on April 13, 2016
