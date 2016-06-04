@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the drugfree.org privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716014405id_/http%3A//www.drugfree.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugfree.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604061538id_/http%3A//www.drugfree.org/privacy) for the most accurate reproduction.*
 
-# Privacy | Partnership for Drug-Free Kids
+# Privacy - Partnership for Drug-Free Kids
 
 ### Privacy Assurance
 
 We will not willfully disclose any individually identifiable information about you to any outside source without your express consent.
 
-the Partnership for Drug-Free Kids is committed to protecting the personal information you choose to share with us. Below you will find our privacy assurance and some additional information about how we gather information about our registered users, why we gather it and what we do with it. Please see[ Terms of Use](https://web.archive.org/terms-of-use) for more information about the use of the Partnership for Drug-Free Kids website.
+The Partnership for Drug-Free Kids is committed to protecting the personal information you choose to share with us. Below you will find our privacy assurance and some additional information about how we gather information about our registered users, why we gather it and what we do with it. Please see [Terms of Use](https://web.archive.org/terms-of-use) for more information about the use of the Partnership for Drug-Free Kids website.
 
 ### How does the Partnership for Drug-Free Kids use cookies?
 
-the Partnership for Drug-Free Kids uses cookies to facilitate the login process for you to access sections that require registration to post or contribute to the site. When you register in these sections, we assign a unique user id to you and we place a cookie on your computer, which will remind our system of that USER ID the next time you visit the site. This cookie allows you to access the areas of the site that require registration without having to log on multiple times. If you choose to log out, the cookie we set in registration will be deleted and we will then set another cookie like it on your computer next time you log in.
+The Partnership for Drug-Free Kids uses cookies to facilitate the login process for you to access sections that require registration to post or contribute to the site. When you register in these sections, we assign a unique user ID to you and we place a cookie on your computer, which will remind our system of that USER ID the next time you visit the site. This cookie allows you to access the areas of the site that require registration without having to log on multiple times. If you choose to log out, the cookie we set in registration will be deleted and we will then set another cookie like it on your computer next time you log in.
 
 Please note: Nothing in a cookie allows anyone to identify you individually. Your computer is assigned a number and that number is tracked using the cookie. This number is only meaningful in the context of our secure database system and your personalized version of the Partnership for Drug-Free Kids website.
 
@@ -24,7 +24,7 @@ We also collect information about aggregate site usage. Statistics that we gathe
 
 When you donate to the Partnership for Drug-Free Kids online you submit confidential credit card information, contact information, and acknowledge whether you would like to be contacted by the Partnership for Drug-Free Kids via email in the future. We recognize the importance of respecting the integrity of this material and limit access only to personnel authorized to process your request.
 
-You may also choose to make a donation in memory of someone or in honor/tribute of someone in recovery. When you make a donation of this type, the amount of your gift is shown only on your receipt. The person or family you designate will receive an acknowledgment ecard or regular-mail card in your name if you choose to send one. We collect this additional contact information in order to honor your request to send an acknowledgement. The information is not used for any direct mail or email databases or solicitations, nor is it shared with any third parties. Email-communications from the Partnership for Drug-Free Kids are only issued through the direct consent of each unique visitor (known as “opting in”).
+You may also choose to make a donation in memory of someone or in honor/tribute of someone in recovery. When you make a donation of this type, the amount of your gift is shown only on your receipt. The person or family you designate will receive an acknowledgment e-card or regular-mail card in your name if you choose to send one. We collect this additional contact information in order to honor your request to send an acknowledgement. The information is not used for any direct mail or email databases or solicitations, nor is it shared with any third parties. Email-communications from the Partnership for Drug-Free Kids are only issued through the direct consent of each unique visitor (known as “opting in”).
 
 Online donors are also offered the option of choosing to let the Partnership for Drug-Free Kids contact them via email in the future.
 
@@ -32,7 +32,7 @@ Online donors are also offered the option of choosing to let the Partnership for
 
 To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Registration and donor data is maintained in a highly secure environment by Stripe, Stripe provides technology services to many non-profit organizations and is considered a market leader in this sector. the Partnership for Drug-Free Kids uses Stripe’s services to maintain our registrant (member) donor, story submissions and Mailchimp for email newsletter database. We use Stripe because of their commitment to the highest levels of security and confidentiality in dealing with our registrant and donor data.  Stripedoes not retain, share, store or use personally identifiable information for any secondary purposes.
+Registration and donor data is maintained in a highly secure environment by Stripe. Stripe provides technology services to many non-profit organizations and is considered a market leader in this sector. The Partnership for Drug-Free Kids uses Stripe’s services to maintain our registrant (member) donor, story submissions and Mailchimp for email newsletter database. We use Stripe because of their commitment to the highest levels of security and confidentiality in dealing with our registrant and donor data. Stripe does not retain, share, store or use personally identifiable information for any secondary purposes.
 
 ### Choice/Opt-Out, Correcting/Updating Information
 
@@ -42,7 +42,7 @@ Additional options for contacting the Partnership for Drug-Free Kids include:
 
 You can send mail to the following postal address:
 
-the Partnership for Drug-Free Kids  
+Partnership for Drug-Free Kids  
 352 Park Avenue South, 9th Floor  
 New York, NY 10010
 
@@ -50,23 +50,23 @@ You can also call the following telephone number: (212) 922-1560.
 
 ### Stories: Personal Stories, Recovery Stories and Memorial Stories
 
-Many visitors to our site have stories to share about their experiences, or experiences of their friends and siblings, with substance abuse, recovery, treatment, prevention, etc. We created the “Stories” sections to enable visitors to submit a personal story for possible posting to our site.  Submitting gender, age range, ethnic background, city and state is optional. When you share a story to this section, an email address is required in case we need to contact you. By submitting a story, you automatically give us permission to post the story on our website. the Partnership for Drug-Free Kids reserves the right to edit the story for publication. Your email address will not be published, and your email address will not be shared with any outside organizations or individuals. Please review our [Terms of Use](https://web.archive.org/terms-of-use) for more information.
+Many visitors to our site have stories to share about their experiences, or experiences of their friends and family, with substance abuse, recovery, treatment, prevention, etc. We created the “Stories” sections to enable visitors to submit a personal story for possible posting to our site.  Submitting gender, age range, ethnic background, city and state is optional. When you share a story to this section, an email address is required in case we need to contact you. By submitting a story, you automatically give us permission to post the story on our website. The Partnership for Drug-Free Kids reserves the right to edit the story for publication. Your email address will not be published, and your email address will not be shared with any outside organizations or individuals. Please review our [Terms of Use](https://web.archive.org/terms-of-use) for more information.
 
 ### Registration Termination
 
-the Partnership for Drug-Free Kids reserves the right to terminate your account if it learns that you have provided false or misleading registration information.
+The Partnership for Drug-Free Kids reserves the right to terminate your account if it learns that you have provided false or misleading registration information.
 
 ### eNewsletter Sign-up
 
-We use Mailchimp for eMail communication. Mailchimp is an email marketing service provider. Our eNewsletter sign-up section requires you to enter your email address to sign up for email newsletters. When you choose to sign up for one of our email newsletters, your email address is used solely to provide the newsletter to which you subscribe. Your email address won’t be shared with any outside organizations or individuals without your express permission. Whenever you do receive a mailing from us you will always find an easy method to unsubscribe within the contents of the email.
+We use Mailchimp for email communication. Mailchimp is an email marketing service provider. Our eNewsletter sign-up section requires you to enter your email address to sign up for email newsletters. When you choose to sign up for one of our email newsletters, your email address is used solely to provide the newsletter to which you subscribe. Your email address won’t be shared with any outside organizations or individuals without your express permission. Whenever you do receive a mailing from us you will always find an easy method to unsubscribe within the contents of the email.
 
 ### Online Surveys
 
-Our occasional online surveys ask visitors for contact information (like email or mailing address). We use contact data from our surveys to send the user information about the Partnership for Drug-Free Kids and its activities. Users may opt-out of receiving future mailings (see the Choice/Opt-out section below). Other data collected by online surveys is used to educate the Partnership for Drug-Free Kids about the interests and concerns of its supporters and general site visitors concerning the Partnership for Drug-Free Kids mission, programs and events. This information is not shared with other organizations. the Partnership for Drug-Free Kids operates email discussion, and contact lists to reach its members who request such information. Such services are run both by the Partnership for Drug-Free Kids and contracted vendors. These email addresses whether housed on the Partnership for Drug-Free Kids servers or those of our third-party contractor are never shared with any other organization and users may opt out of participating or receiving email information from the Partnership for Drug-Free Kids at any time. Instructions are contained within each email sent.
+Our occasional online surveys ask visitors for contact information (like email or mailing address). We use contact data from our surveys to send the user information about the Partnership for Drug-Free Kids and its activities. Users may opt-out of receiving future mailings (see the Choice/Opt-out section below). Other data collected by online surveys is used to educate the Partnership for Drug-Free Kids about the interests and concerns of its supporters and general site visitors concerning the Partnership for Drug-Free Kids mission, programs and events. This information is not shared with other organizations. The Partnership for Drug-Free Kids operates email discussion and contact lists to reach its members who request such information. Such services are run both by the Partnership for Drug-Free Kids and contracted vendors. These email addresses, whether housed on the Partnership for Drug-Free Kids servers or those of our third-party contractor, are never shared with any other organization and users may opt out of participating or receiving email information from the Partnership for Drug-Free Kids at any time. Instructions are contained within each email sent.
 
 ### “Tell-A-Friend,” “Email Others”, “Tell Others”
 
-If a user elects to use our referral service for informing a friend about our site, programs or events, we ask them for the friend’s name and email address. the Partnership for Drug-Free Kids will automatically send the friend a one-time email inviting them to visit the site to learn about the feature, program or event. the Partnership for Drug-Free Kids stores this information for the sole purpose of sending this one-time email. The friend may contact the Partnership for Drug-Free Kids at [webmaster@drugfree.org](mailto:webmaster@drugfree.org) to request the removal of this information from the database.
+If a user elects to use our referral service for informing a friend about our site, programs or events, we ask them for the friend’s name and email address. The Partnership for Drug-Free Kids will automatically send the friend a one-time email inviting them to visit the site to learn about the feature, program or event. The Partnership for Drug-Free Kids stores this information for the sole purpose of sending this one-time email. The friend may contact the Partnership for Drug-Free Kids at [webmaster@drugfree.org](mailto:webmaster@drugfree.org) to request the removal of this information from the database.
 
 ### Security
 
@@ -78,7 +78,7 @@ Please contact us if you have any questions, concerns, or comments about our pri
 
 ### Changes to Privacy Policy
 
-the Partnership for Drug-Free Kids may at any time revise this Privacy Policy by updating this posting. You are bound by any such revisions and should therefore periodically visit this page to review the then current Privacy Policy to which you are bound.
+The Partnership for Drug-Free Kids may at any time revise this Privacy Policy by updating this posting. You are bound by any such revisions and should therefore periodically visit this page to review the then current Privacy Policy to which you are bound.
 
 **Updated: May 17, 2014  
 **
