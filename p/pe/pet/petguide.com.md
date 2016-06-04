@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petguide.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034229id_/http%3A//www.petguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petguide.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604145647id_/http%3A//www.petguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PetGuide
+# Privacy Policy
 
 VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
