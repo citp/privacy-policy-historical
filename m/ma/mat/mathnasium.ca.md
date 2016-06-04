@@ -1,63 +1,53 @@
-> *The following text is extracted and transformed from the mathnasium.ca privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121013909id_/http%3A//www.mathnasium.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathnasium.ca privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604211356id_/http%3A//www.mathnasium.ca/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy | Mathnasium.com
+# Privacy Policy | Mathnasium
 
-1\. Introduction  
-Mathnasium LLC, a California limited liability company (“Mathnasium”), respects your privacy. This policy states how we try to protect the privacy of your personal information that we may obtain from your use of this website (“Site”). If there is any part of this policy you do not agree with, or if you do not think this policy provides you enough protection, you should not use or visit this Site. By providing your personal information, you are consenting to its collection, use and disclosure according to our Privacy Policy. 
+This Privacy Policy is effective as of March 23, 2015
 
-2\. Information Gathering Practices  
-Here is a description of our information gathering practices for this Site: 
+Mathnasium, LLC, a California limited liability company (“ **Mathnasium** ”, “ **we** ” or “ **us** ”) has created this Privacy Policy in order to demonstrate our commitment to privacy. This Privacy Policy sets forth our policies and practices with respect to the collection, storage, use and disclosure of personal information which you may provide while using, or that we may obtain from your use of, www.mathnasium.ca and/or http://mathnasiumfranchise.com/ (individually and collectively, the “ **Website** ”).
 
-You can visit www.Mathnasium.com without telling us who you are or revealing any personal information about yourself or you can choose to provide information about yourself. Our site uses a request form and email to gather information. We collect contact information like your name, address, phone, and email address that you voluntarily give us. 
+**Your Consent**
 
-We use cookies. A cookie is a small data file that a website can place on your computer for record-keeping, administration, or to customize your experience. Cookies allow us to enhance your experience on our website. You may block or remove cookies on your computer by following the instructions on your web browser. 
+By using the Website, you signify your consent to the collection, storage, use and disclosure of personal information in accordance with this Privacy Policy. If you do not agree with this Privacy Policy or if you do not think this Privacy Policy provides you enough protection, you may not use or visit the Website.
 
-When you visit our site, we obtain information like the name of the domain and host from which you access the Internet, the IP (internet protocol) address of the computer you use, the browser and software you use, your computer operating system, the type and name of your ISP (internet service provider), what pages of our site you visit, the order of those pages, and the amount of time you spend on each page. 
+**Non-Identifiable Information Automatically Collected**
 
-3\. How We Use Information You Provide   
-If you choose to give us information, we may share it with one or more of our franchisees, so that they can provide you with information on services and programs they offer. Mathnasium franchises are independently owned and operated. As a result, Mathnasium cannot guarantee that every franchise will comply with this Privacy Policy, but we will make an effort to require that franchises comply. 
+Like many other websites, the Website may automatically collect certain non-identifiable information regarding Website visitors, such as the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access the Website, the Internet address of the website from which you linked directly to the Website, the operating system you are using, the sections of the Website you visit, the Website pages read and images viewed, and the materials you post to or download from the Website. This non-identifiable information is used for Website and system administration purposes and to improve the Website. Your non-identifiable information may be disclosed to others and permanently archived for future use.
 
-We could use your IP address to help us identify you and gather information for statistical purposes. 
+**Cookies**
 
-We could share information among Mathnasium-affiliated companies. This means other companies that fully or partly own, are owned by, or have common ownership or similar kinds of ownership affiliation with Mathnasium. 
+The Website uses “cookies”, a technology that installs information on a website visitor’s computer to permit the website to recognize future visits using that computer. The cookies used by the Website do not contain any personal information regarding Website visitors, and do not retrieve any information from visitors’ personal computers (other than IP address and other similar information retrieved or retained in order to facilitate your use of the Website). Cookies are used only to enhance the visitor’s experience on the Website, and to collect anonymous traffic data to enable us to provide a better web experience for the viewing public in general. You may choose to decline cookies if your browser permits, but doing so may affect your use of the Website and your ability to access certain features of the Website.
 
-We do not sell, trade or transfer information to others outside the Mathnasium family, except as is disclosed in this policy. 
+**Tracking Information**
 
-We could hire outside companies or staff from affiliated Mathnasium companies, to provide services for our website. They may have access to information you provide us, but only the information they would need to perform their functions. These companies would be required to abide by Mathnasium’s Privacy Policy. 
+Mathnasium may use non-personal information to create aggregate tracking information reports regarding Website user demographics and Website traffic patterns. This information helps us to customize the Website to better meet your online needs, improve our services and conduct research. None of the tracking information in the reports can be connected to the identities or other personal information of individual website visitors or other individuals. If Mathnasium links tracking information with personal information, any of the linked information will be treated as personal information and will be used and disclosed only in accordance with this Privacy Policy, and in accordance with the law.
 
-We reserve the right to use or disclose information if we have a good faith belief that doing so is to satisfy a law, regulation or legal request, subpoena, court discovery requirement, to protect the integrity of our site; or cooperate with a law enforcement, government or public safety investigation or request. 
+**Your Personal Information** \- During your use of the Website, you may be asked to voluntarily provide certain personal information (such as, should you decide to complete the “Contact Mathnasium” form, your name, email address, postal address, and telephone number).  Mathnasium may collect and use your personal information to present the Website, its content and features to you, to contact and correspond with you, to respond to your inquiries and provide you with information that you request from us, to notify you about upcoming events, products and/or services offered or provided by us, our affiliates and/or our franchisees that may be of interest to you, and as otherwise permitted by law.
 
-We could share information if you ask or consent to us doing so. If information concerns multiple persons (like information on a couple identified as Mr. and Mrs. or on one or more parents and their child) we could share information on all of them, if any one of them asks or consents and represents that they speak for the group. 
+**Sharing of Personal Information** – Mathnasium may disclose personal information that we collect through the Website to affiliates, franchisees and service providers for the purposes identified above. Only Mathnasium employees, affiliates, franchisees and service providers with proper authorization will have access to your personal information, and only to the extent necessary for the purposes described in this Privacy Policy.  Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes.
 
-If we outsource web management, or if there were ever a corporate sale or other transaction, information could be shared with an outsource service provider, buyer or the like. 
+Mathnasium franchises are independently owned and operated. As a result, Mathnasium cannot guarantee that a franchisee will comply with this Privacy Policy; however, we will make an effort to require that franchisees comply.
 
-We may use non-personal statistical or aggregate information to evaluate and decide how to customize content you see, improve our services, conduct research, and provide anonymous aggregated reporting for analytical or statistical purposes. 
+**Disclosure of Your Personal Information** – Mathnasium may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where Mathnasium has reasonable grounds to believe the information could be useful in the investigation of unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with court rules regarding the production of records and information, or to protect Mathnasium's rights and property or as otherwise required or permitted by law. If Mathnasium is involved in a merger, sale or other reorganization involving all or part of Mathnasium, Mathnasium may disclose your personal information to the purchaser or resulting organization.
 
-This policy does not apply to the websites of other companies even if we provide links to them on this Site. Please refer to that company’s Privacy Policy for more information. 
+**Storing and Securing Your Personal Information** \- Mathnasium may store and process your personal information collected through the Website in our offices at 5120 W. Goldleaf Circle, Suite 300, Los Angeles, CA 90056 and/or the offices of our affiliates, franchisees and/or service providers located in Canada, the United States or other jurisdictions.  As such, personal information may be subject to foreign laws and may be accessible by foreign governments, courts, law enforcement and regulatory agencies. By using the Website, you consent to such storage and processing in and outside of the jurisdiction in which you reside.  To help protect the confidentiality of your personal information, Mathnasium uses reasonable security measures to protect against the loss, misuse and alteration of the information under our control.  Nevertheless, due to the nature of the Internet and Internet technologies, security and privacy risks cannot be eliminated and Mathnasium cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Privacy Policy.
 
-4\. Accuracy/Correction/Updating of Information   
-You can control the accuracy of information you provide us. We encourage you to review information for accuracy before sending it to us. 
+**Accessing Your Personal Information** \- You may request access to your personal information and information about Mathnasium's collection, use and disclosure of that information by contacting our Privacy Officer at: tracy.cramer@mathnasium.com.  Subject to certain exceptions prescribed by law, you will be given reasonable access to your personal information, and will be entitled to challenge the accuracy and completeness of such information and to have it amended as appropriate. You can help Mathnasium maintain the accuracy of your information by notifying us of any changes to your personal information.
 
-You can request that we update or correct previously provided information. In addition, you can request that we delete information or stop using information you provided. Please send your request in writing via the email or mailing address posted on the [Contact Us](https://web.archive.org/web/20141121013909id_/http%3A//www.mathnasium.com/contact.html) page. 
+**About Children**
 
-5\. Children’s Privacy   
-Mathnasium does not knowingly collect or maintain information provided by children under the age of 13. Children under the age of 13 should ask a parent or guardian to provide their personal information online. 
+Mathnasium does not knowingly collect, solicit or maintain information provided by children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible.
 
-6\. Choice/Opt-Out   
-You can ask us to remove your information from our database and not receive future communications. To do this, please send your request via the email or mailing address posted on the [Contact Us](https://web.archive.org/web/20141121013909id_/http%3A//www.mathnasium.com/contact.html) portion of this Site. It may take up to two weeks for the changes to be made. 
+**Links to Other Websites**
 
-7\. Security   
-We care about your privacy and the security of your personal information. This Site has security measures in place to reduce the risk of loss, misuse and alteration of information under our control. As an additional measure, this policy does not state details of the security measures we use. 
+This Website may contain links or references to other websites or Internet resources. Please be aware that Mathnasium does not control such other websites and that, in any case, this Privacy Policy does not apply to such other websites.  When you click on one of those links you are contacting another website or Internet resource that may collect information about you voluntarily or through cookies or other technologies. Mathnasium has no responsibility or liability for those other websites or Internet resources or their collection, use and disclosure of your personal information.
 
-No security measure provides certainty against all risks. Inadvertent disclosure is possible. Technology changes, computer hackers, and human error are examples of why it is impossible for anyone to absolutely assure that your information will never be accessed or disclosed. 
+**How to Contact Us**
 
-Accordingly, we and our directors, officers, employees, affiliates and other representatives shall not be liable for loss, injury or damage arising from or relating to disclosure of your information. 
+Mathnasium welcomes comments and questions on this Privacy Policy.  If you have any questions or comments about this Privacy Policy or the information practices of Mathnasium, its affiliates and/or its franchisees and service providers in respect of the collection, storage, use and disclosure of personal information, please contact our Privacy Officer at tracy.cramer@mathnasium.com.
 
-8\. Your Privacy Rights in California    
-California residents have the right to request from businesses with whom they have established a business relationship (1) a list of categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business disclosed to third parties (including affiliates that are separate legal entities) in the immediately preceding calendar year for the third parties' direct marketing purposes and (2) names and addresses of all such third parties. To request the above information, please contact us in writing via the email or mailing address posted on the [Contact Us](https://web.archive.org/web/20141121013909id_/http%3A//www.mathnasium.com/contact.html) portion of this Site. Please state "Request Under Calif. Civil Code Sec. 1798.3" prominently on your correspondence. We will respond to your request within 30 days of receipt. 
+**Changes to This Privacy Policy**
 
-9\. Changes to Our Policy   
-This Privacy Policy is effective as of November 22, 2010. We may change this policy at any time. If we change the policy, we will post the revised version here. We recommend you check back periodically for the most up-to-date version of our Privacy Policy. 
+This Privacy Policy may be changed by Mathnasium from time to time in Mathnasium’s sole discretion and without any prior notice or liability to you or any other person. The collection, use and disclosure of your personal information by Mathnasium will be governed by the version of this Privacy Policy in effect at that time.  If this Privacy Policy changes, the revised policy will be posted on this Website.  Your continued use of the Website will signify that you consent to the collection, use and disclosure of your personal information in accordance with the changed Privacy Policy. Accordingly, when you use the Website, you should check the date of this Privacy Policy and review any changes since the last version. You should also bookmark this page and periodically review this Privacy Policy to ensure that you are familiar with the most current version.
 
-10\. Comments   
-If you have questions or concerns regarding our privacy practices, please contact us by clicking [here](https://web.archive.org/web/20141121013909id_/http%3A//www.mathnasium.com/contact.html). 
+MTL01: 3281208: v2
