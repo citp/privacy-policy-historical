@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myholidays.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221151449id_/http%3A//myholidays.com/Common/QA/UI/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myholidays.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604051429id_/http%3A//www.myholidays.com/common/QA/UI/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # myholidays-PrivacyPolicy
 
 #### Privacy Policy and Cookies
 
-At myholidays.com(MH) we respect your need to understand how your personal information is dealt with. We have set out this Privacy Policy to familiarize you with our practices and demonstrate our commitment to your privacy. We may change the content of this website at any time whenever it deems appropriate and necessary in our opinion without prior notice and consequently our privacy policy may change at any time in the future. You agree to revisit the privacy policy page regularly and your continued access to or use of the website will mean that you agree to the changes.
+At myholidays.com (MH) we respect your need to understand how your personal information is dealt with. We have set out this Privacy Policy to familiarize you with our practices and demonstrate our commitment to your privacy. We may change the content of this website at any time whenever it deems appropriate and necessary in our opinion without prior notice and consequently our privacy policy may change at any time in the future. You agree to revisit the privacy policy page regularly and your continued access to or use of the website will mean that you agree to the changes.
 
   
 
