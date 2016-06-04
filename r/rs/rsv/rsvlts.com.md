@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rsvlts.com privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207053650id_/http%3A//www.rsvlts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsvlts.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604141159id_/http%3A//www.rsvlts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Roosevelts
+# Privacy Policy - The Roosevelts
 
 UPDATED June 2, 2014
 
