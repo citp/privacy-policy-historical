@@ -1,102 +1,99 @@
-> *The following text is extracted and transformed from the ssl.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924131910id_/http%3A//www.ssl.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssl.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604182034id_/https%3A//www.ssl.com/privacy_policy) for the most accurate reproduction.*
 
-# SSL Certificates from SSL.com SSL Certificate Authority Aggregator
+# Privacy Policy - SSL.com
 
-_Last Revised Date, 2006_
+### **SSL.com Privacy Policy**
 
-As an information service provider and a specialist in Internet security, Secure Sockets Laboratories, LLC ("SSL") is entrusted with many types of enterprise data. Protecting the security and confidentiality of that data is a responsibility that we take very seriously. No less important to us is the protection of your personal privacy. We hope that the following statement will help you to more fully understand how SSL collects, uses and safeguards the information you provide to us through this web site and the growing family of SSL Trust products and services.
+##### Effective May 20, 2016
 
-**Our 10 Privacy Principles** **  
-Web Site Privacy Policy  
-Frequently Asked Questions  
-Changes to the SSL Privacy Policies  
-More Questions? Contact Us.**
+#### **Scope**
 
-**Our 10 Privacy Principles**
+This Privacy Policy describes how we collect information from and about you, how we use that information, and the circumstances under which we share information with others. **Your acceptance of this Privacy Policy is a condition to your use of any of our websites, certificate services, or other applications that reference this Privacy Policy. By using any of them, you are accepting this Privacy Policy.** If you subscribe to our certificate services, you should review the applicable Subscription Agreement together with this Privacy Policy. The Subscription Agreement includes additional terms that relate to our use, disclosure, management, publication, and retention of personal data and other information you submit as a subscriber.  
+We want you to have a great experience on our Site! If you have any questions or concerns, please contact us at **[support@ssl.com](mailto:support@ssl.com)**.
 
- ****
+**Meanings of Certain Words**  
+These words have specific meanings in this Privacy Policy:
 
-  1. We collect only information that is essential to providing optimal service to customers and users. Acquired information is strictly limited to what we need to know in order to provide optimal service levels to our customers and to fulfill all legal or regulatory requirements. 
-  2. We inform users about what data is collected and how it will be used. Our customers are fully informed about the general uses we make of collected information and we will provide additional information upon request. We do not sell, lease or license confidential information to outside parties. We provide access to confidential information only to outside parties who are directly related to the delivery and service of our products and services. Information retrieval is fully disclosed to all authorized parties. 
-  3. Our customers choose how their self-disclosed data will be used. We allow SSL business customers to decide how they want the information they disclose to be used. Opting out of information disclosure is available at any time. 
-  4. We ensure information quality. We employ advanced technologies, well-defined practices, and a highly trained technical staff to ensure that self-disclosed data is processed properly, accurately and completely. We provide the mechanism for self-disclosed data to be corrected if errors or changes occur. We do not guarantee the accuracy of third party data we license to use in the SSL Secured™ identity seal, but we do facilitate the process of resolving any data discrepancies. 
-  5. We use information security safeguards. We use advanced information security technologies and a highly trained technical staff to protect all data assets entrusted to us. We have implemented well-defined data security and data access procedures to further ensure that data is protected from improper access, loss, misuse or destruction. 
-  6. We are responsive to requests for explanation about our data use and policies. Our Customer Service Representatives are trained to be responsive to queries about our policies, practices, products and services. Customer Service Representatives are also trained to facilitate the process of resolving any data discrepancies in third party data. 
-  7. We hold our employees responsible for our privacy principles. Each SSL employee is personally responsible for helping to maintain public confidence in the company. All SSL employees are provided with training in the protection of data privacy and security practices, which are also included in the SSL employee handbook. 
-  8. We provide these privacy principles to our business partners. We strongly encourage companies we select as our business partners to have privacy policies based upon accepted industry standards in the handling of self-disclosed data. These include companies that assist us in providing service to our customers or supply us with information about enterprises or individuals. During the business partner selection process, SSL scrutinizes the accuracy and quality of the data candidates, as well as their information handling practices. We do not guarantee the accuracy of third party data we license to use in the SSL Secured™ identity seal, but do facilitate the process of resolving any data discrepancies. 
-  9. We comply with all applicable privacy laws and regulations wherever SSL does business, based upon the prevailing jurisdictional requirements. As a company with a global reach, SSL is committed to remaining current with the requirements of all local, national and international laws and regulations applicable to our products and services. 
-  10. We undergo regularly scheduled audits of our privacy policies and practices to monitor our compliance with our stated policies.
+**Privacy Policy** refers to this document;  
+**Service** means our certificate services, including the services we provide to subscribers and persons who rely on the certificates and related information we publish as a certificate authority for public use;  
+**Site** means the website at www.ssl.com;  
+**Guest** means a visitor to our Site who is not a user of our Service;  
+**User** means a person who subscribes to our certificate services or relies on the certificates we issue or other information we publish to the public in connection with the certificates;  
+**We** and **our** and **us** refers to SSL, Inc., a Nevada corporation in Texas; and  
+**You** and **your** refers to the guest or user who uses the Site or the Service.
 
+#### **Information Collection**
 
+**Information We Collect From and About Guests**
 
-**Web Site Privacy Policy**  
-The following statement reflects the information gathering and dissemination practices for this web site www.ssl.com, as well as any software applications and information services related to this web site.
+**Webserver**. When you visit the Site as a guest, our web server will capture your IP address, the time and duration of your visit, and the pages on the Site that you visit. It may also collect information about your browser, device (including your mobile device), location and other information of the type collected by web servers generally. We may use cookies, web beacons, pixel tags and other techniques to identify your browser and device to your guest activity on the Site. Please see the section below captioned “Online Data Collection Technologies” for more information regarding our use of these techniques and your ability to restrict our collection of data in this manner.
 
-**Notice  
-** We gather only the information that is essential to providing good service to our customers, partners and web site visitors. We do not sell, lease or license confidential information to third parties except for those third parties who are directly related to the delivery and service of our products and services. Any sharing of information is fully disclosed and done with the permission of all necessary parties.
+**Analytics Tools**. We may use third party web analytic tools to capture information about your use of the Site, such as mouse clicks and scrolling activity. For example, we may use Google Analytics, Google Website Optimizer. The providers of these tools may capture data about your activity on our Site, via cookies and other techniques.
 
-We use your Internet protocol address to help diagnose problems with our server and to administer our web site. This site also collects the referring URL for tracking web traffic referred from other sites. The web site does not use cookies. Details of how we collect and use information related to individual web users and companies is described below.
+**Information You Submit**. We may ask you to volunteer information about yourself using the Site. For example, we may ask you to provide your name and email address, and information about your business. Your submission of this type of information as a guest on the Site is not required.
 
-**Personal Information  
-** We do not associate personally identifiable information (PII), such as your name, address, or email address, with non-personally identifiable information (non-PII), such as Internet protocol addresses, to create personal user profiles. Although we do receive your email address along with your email, no other personal information is collected. We do not send unsolicited emails.
+**Links from Other Sites**. If you arrive at our Site by clicking on an advertisement or content published by a third party, that third party may provide information to us about your activity on their site. For example, we may use Google AdWords or other third party advertisers, or may sponsor links on other third party sites.
 
-On occasion we will collect personal contact information through our web site to allow people to register for SSL services. The purpose of collecting the information is to enable SSL to deliver the requested services and to contact the individual about the requested service if necessary.
+**Third Party Offers**. If you navigate to third party sites by clicking on advertisements or offers on our Site, those third parties may provide us with information about your interactions with them. For example, we may have agreements with third parties that require them to pay us advertising services fees or commissions based on your activity on their site or your purchase of their products or services. Those parties would provide us with information necessary to confirm the payments due to us as the source of your activity or purchase on their sites.
 
-The personal contact information will be kept in an active SSL database until the conclusion of the service and will be used for future communications from SSL only with explicit permission from the individual provided at the conclusion of the service. It will not be sold, leased or combined with other data to create personal user profiles.
+**Combination with Other Data**. If you register for our Services, we may combine information we collect about you as a Site guest with the information we collect about you as a subscriber, including personally identifying information, such as your name.  
+Information We Collect From and About Services Users
 
-**Email Links  
-** We use email links located on the "Contact Us" page to allow you to contact us directly with questions or comments pertaining to SSL. We do not sell, lease or license this information to third parties. We read every message we receive and have a commitment to reply promptly. This information is used to respond directly to your questions or comments. We may file your comments for the purposes of evaluating how we can improve our site or services, or we may review and discard the information.
+**All of the Above, Plus**. We collect all of the same types of information from and about subscribers as we do for guests, plus some additional information as described in this section.
 
-**Outbound Links  
-** This site contains links to other sites. We make an effort to encourage our partner sites to comply with the current best practices for the electronic collection of personal and confidential information. However, www.ssl.com is not responsible for the privacy practices or the content of these other sites or their associated companies and partners. SSL recommends that you review the privacy policy on other sites to ensure that you understand how they address issues related to the use of your personal information.
+**Account Information**. To establish an account for our Services you must provide a username and email address.
 
-**Choice / Access  
-** We require user consent before collecting or using any personal information. Users may always decline to receive communications from us. Users may review, modify or remove from active use their information in our database, choose to no longer receive communications, or no longer receive our service at any time by [contacting us](https://web.archive.org/web/20110924131910id_/http%3A//www.ssl.com/t-contact.aspx).
+**Certificate validation**. As a condition to our issuance of a digital certificate, you are required to provide information about your identity and information we need to verify your identity to the standards required by the type of certificate you request. The type of information required for each certificate type is described on our Site in our Knowledge Base.
 
-**Security  
-** This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Employees are made aware of the security and privacy practices through new hire training, and periodic training for customer service, technical and other departments as needed.
+**Customer Support, Dispute Resolution**. If you correspond with us for support or to resolve a dispute, whether by email, chat, or phone we will capture and retain the contents of that communications. The content may be captured and stored using third party services/tools.  
+Modification or Deletion of Personal or Client Information  
+You may change your private account information by using the Account Dashboard feature. To change or manage your certificate contact information you must follow the process described by our Knowledge Base.  
+Information Use
 
-**Changes  
-** Any changes to this policy will be reflected in the Change Section of this web site.
+**Activity on our Site and Service** (Web Server, Analytics Tools, Information You Submit, Service Activity): We use the information we collect about you and your activity on our Site and Service, both as a guest and a subscriber, to personalize your visit based on your past activity.
 
-**Frequently Asked Questions**
+**Information Provided by Third Parties** (Links from Other Sites, Data Services, Third Party Offers): We may use information provided by third parties to personalize your visit based on your online activity.
 
-Q: Do you sell or give my information to non-SSL companies?  
-A: We do not sell, lease or license confidential information to outside parties. We only provide access to confidential information to outside parties directly related to the delivery and service of our products or services. 
+**Login Information** : We use your user name and password to verify your identity before permitting access to your account.
 
-Q: Does this site send follow-up email to visitors?  
-A: We do not send unsolicited email to our web site visitors. If you opt-in to receive follow-up information about our products and services, you may on occasion receive email about new product releases. However, you may choose at any time to have such notification stopped by contacting us. 
+**Certificate Information** : We publish your certificate information according to the specific certificate type you have purchased.
 
-Q: Does SSL use information collected online to create profiles of users?  
-A: We do not associate personally identifiable information, such as your name, address, or email address, with non-personally identifiable information, such as Internet protocol addresses, to create personal user profiles. 
+**Account Information** : We may use your account information to investigate suspected fraud or other misconduct. We may use your email address and other contact information to inform you about certificate renewal, promotions, or other account updates. We will also use your contact information to communicate with you as part of customer support and our enforcement of our Subscriber Agreement and policies.
 
-Q: How secure is the data collected by this site?  
-A: We use advanced information security technologies and a highly trained technical staff to protect all data assets entrusted to us. We have implemented well-defined data security and data access procedures to further ensure that data is protected from improper access, loss, misuse, or destruction. 
+#### **Information Disclosure**
 
-Q: Does this site allow third party ad servers to present ads on this site?  
-A: SSL does not allow third party ad servers to present ads or have access to its web site. 
+**Personal Data** : The term “personal data” means information that can be used to identify you as an individual, such as your name, business name, email address, telephone number, and photograph. As described above, we may publish some of your personal data on certificates as part of the certificate type you purchase.  
+We will also disclose your personal data in the following circumstances:
 
-Q: How long is any data I provide kept by SSL?  
-A: SSL keeps self-disclosed data active in its database for five years, unless an individual or enterprise requests for the data to no longer be used. However, for legal purposes SSL archives all data it collects or generates indefinitely.
+• to law enforcement and regulatory agencies as legally required, to report a suspected violation of law, to protect the health, safety or welfare of minors;  
+• to third parties who compel us to disclose the information via a subpoena or other compulsory legal process;  
+• to enforce our Subscriber Agreement, policies, or to investigate suspected fraud or misconduct;  
+• to third party service providers for their use in helping us provide the Service and related communications to you. Any third party service providers are required to comply with our Privacy Policy; and  
+• to any potential acquirer as part of a sale of our business, but only to the extent customary in these circumstances and subject to the potential acquirer’s agreement to maintain the information in confidence and use it only for the purpose of evaluating the potential acquisition.
 
-**Changes to SSL Privacy Policy  
-** SSL believes in procatively informing its customers and users of changes in its privacy policy and will make every effort to notify its customers in advance of changes that affect them. Notifications, for those customers who chose to receive it, will be in the form of email.
+Otherwise we do not share your personal data outside of our organization without your advance consent.
 
-**Contact Us If You Have Any Questions**   
-If you have any questions about the Privacy Policy, the practices of, or your dealings with this site, contact SSL at:
+**Aggregate, Anonymous Data** : Aggregate, anonymous data means non-personal data about many users that we aggregate for analytical purposes. We may share aggregate anonymous data with companies who provide marketing services to us, and to industry groups for fraud detection and prevention. This data is shared in a form that it is not personally identifi-able, and is in a form that it is not reasonably possible that it could be combined by a third party without other data it may have to personally identify you to the data.
 
-Email:   
-info@ssl.com 
+**Third Party Content on Our Site**.  
+Web content: We may permit non-users to display content on our Site and Service. If you click on third party content (such as ads, videos, etc.) you will have navigated to the third party’s website and the third party may collect information about you using the same kinds of collection techniques that we use on our Site and Service, including the techniques described in Online Data Collection Technologies below; we cannot control how third parties collect and use the data.
 
-Mail:   
-SSL  
-Attn:Consumer Affairs  
-2630 Fountain View Suite 422  
-Houston, TX 77057  
-USA
+**Online Data Collection Technologies**
 
-Telephone:   
-(+1) 877.373.2869 - toll free
+**Cookies**. The term “cookie” refers to a data file that we place on your browser or device memory when you visit our Site or Service or view a message from us. Each cookie includes a unique string of letters and numbers. Some cookies are persistent, meaning that they remain on browser or device after you have left our Site or Service, and even after you have closed your browser.
 
-Fax:   
-(+1) 832.201.7706
+• Generally, we use information collected by means of cookies for each activity described in the Information Use section above. We also disclose information we collect using cookies as described in the Information Disclosure section above.  
+• Most browsers permit you to remove or disable cookies. You can find instructions for removing or disabling cookies in the help section for your browser.
+
+**Web Beacons**. The term “web beacon” refers to content on the Site, Service or a message that is not self-contained, but that must be served over the Web by a server each time it is viewed. When your device accesses our server to obtain the web beacon, our server captures the IP address and other information typically collected by Web servers.
+
+**Other Techniques** : SSL.com retains the right to employ other technologies to track and identify users and guests as those technologies become standards.
+
+**Where Is Your Personal Data?**  
+We store, transfer and process personal data on our servers, which may be located in the United States or abroad. The data is maintained and protected according to the established procedures described in our Certificate Policy Statement at **<https://www.ssl.com/repository/cps>**.
+
+**Children’s Privacy**  
+We do not knowingly collect personal information from users under the age of 13. If you are the parent or guardian of an individual under the age of 13 who may have submitted data to us, please contact us at Support@SSL.com.
+
+**Changes to this Policy**  
+We may modify our Privacy Policy at any time. SSL.com will notify interested parties of material changes by either posting a notice on our home page or by emailing affected individuals. Visitors and customers should check our Site regularly to be aware of changes. Revisions to the Privacy Policy are effective 30 calendar days after being posted (for posted notices) or 7 days after the notice is sent (for email notices).
