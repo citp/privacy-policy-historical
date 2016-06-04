@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gliononline.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316034549id_/http%3A//www.gliononline.com/privacy-policy-wwwglionedu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gliononline.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604094918id_/http%3A//www.gliononline.com/privacy-policy-wwwglionedu) for the most accurate reproduction.*
 
 # Privacy policy for www.glion.edu | Glion, Swiss Hospitality Management School
 
-## You are here
+You are here
 
 [Home](https://web.archive.org/) » Privacy policy for www.glion.edu
 
@@ -59,13 +59,3 @@ By submitting data to us or our agent or using the Site, you consent to our use 
 If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. Please contact us by mail at [webmaster@glion.edu](mailto:webmaster@glion.edu).
 
 By submitting your details on our contacts forms (request info, contact us, book a visit, open day registrations, etc.) you are automatically added to our distribution list for our regular email newsletters. You can unsubscribe at any time
-
-## [](https://web.archive.org/block/glion-life)
-
-Come inside, take a virtual tour and discover the Glion experience in Switzerland and London.
-
-## [](https://web.archive.org/block/glance)
-
-of the students have a job or job offers on graduation day*
-
-* Graduating students 2008 to 2013 
