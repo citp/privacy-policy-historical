@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bulbhead.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204142549id_/http%3A//www.bulbhead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulbhead.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604142302id_/http%3A//www.bulbhead.com/privacy-policy) for the most accurate reproduction.*
 
-# BulbHead | Privacy Policy
+# Privacy Policy | BulbHead
 
 ### 1\.  Introduction
 
-Thank you for visiting BulbHead.com.  Please read our Terms of Service and this Privacy Policy carefully, as you must agree to both documents in order to use our Service. 
+Thank you for visiting BulbHead.com.  Please read our Terms and Conditions and this Privacy Policy carefully, as you must agree to both documents in order to use our Service. 
 
 ### 2\.  Definitions
 
@@ -22,7 +22,7 @@ Throughout this document, we may use certain words or phrases, and it is importa
 
 Identifying Information
 
-We collect certain personal information from you when you sign up to our Service that can be used to identify you, such as your name, e-mail address, PayPal address (if different from e-mail address), mailing address, credit card information, and telephone number.  The information we collect from you, to the extent that it is private, is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.
+We collect certain personal information from you when you sign up to our Service that can be used to identify you, such as your name, e-mail address, PayPal address (if different from e-mail address), mailing address, credit card information, and telephone number.  The information we collect from you, to the extent that it is private, is disclosed only in accordance with our Terms and Conditions and/or this Privacy Policy.
 
 Non-Identifying Information
 
@@ -45,6 +45,8 @@ We may use your information to:
 
 Users may in some cases be able to review and edit the personal information they have provided to us by logging into your account on the Site and editing their account.  Although most changes may occur immediately, information may still be stored in a web browser’s cache.  We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such.  In addition, we may, from time to time, retain residual information about you in our backup and/or database. 
 
+SEE SECTION 15 BELOW FOR MORE IMPORTANT LIMITATIONS ON THE TERMS OF THIS SECTION 5.
+
 ### 6\.  Cookies
 
 We use cookies to remember your preferences, track advertisements, and remember your shopping cart items.  For these reasons, it is necessary that you enable cookies in your browser, and you hereby acknowledge that we have informed you of our use of cookies and that you consent to our use of cookies in relation to your computer system.
@@ -57,6 +59,8 @@ BulbHead may post links to third party websites on its Site.  These third party
 
 Please be aware that this Privacy Policy, and any other policies in place, in addition to any amendments, does not create rights enforceable by third parties or require disclosure of any personal information relating to members of the Service or Site.  BulbHead bears no responsibility for the information collected or used by any advertiser or third party website.  Please review the privacy policy and terms of service for each site you visit through third party links. 
 
+SEE SECTION 15 BELOW FOR MORE IMPORTANT LIMITATIONS ON THE TERMS OF THIS SECTION 7.
+
 ### 8\.  Third Party Access to Your Information
 
 Although you are entering into an Agreement with BulbHead to disclose your information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, and others.
@@ -67,13 +71,19 @@ It is therefore necessary that you grant the third parties we may use in the cou
 
 Without limiting the generality of the foregoing, you authorize us to collect, share, store, and otherwise use your information in conjunction with PayPal. 
 
+SEE SECTION 15 BELOW FOR MORE IMPORTANT LIMITATIONS ON THE TERMS OF THIS SECTION 8.
+
 ### 9\.  Release of Your Information for Legal Purposes
 
 At times it may become necessary or desirable to BulbHead, for legal purposes, to release your information in response to a request from a government agency or a private litigant.  You agree that we may disclose your information to a third party where we believe, in good faith, that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter.  In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either.  We may also proactively report you, and release your information to, third parties where we believe that it is prudent to do so for legal reasons, such as our belief that you have engaged in fraudulent activities.  You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants. 
 
+SEE SECTION 15 BELOW FOR MORE IMPORTANT LIMITATIONS ON THE TERMS OF THIS SECTION 9.
+
 ### 10\.  Commercial and Non-Commercial Communications
 
 By providing information to the Site that forms the basis of communications with you, such as contact information, you waive all rights to file complaints concerning unsolicited e-mails from BulbHead since, by providing such information, you agree to receive communications from us or anyone else covered under this Privacy Policy.  However, you may unsubscribe from certain communications by notifying BulbHead that you no longer wish to receive solicitations or information and we will endeavor to remove you from the database. 
+
+SEE SECTION 15 BELOW FOR MORE IMPORTANT LIMITATIONS ON THE TERMS OF THIS SECTION 10.
 
 ### 11\.  Security Measures
 
@@ -90,3 +100,7 @@ Your information may be transferred to—and maintained on—computers located o
 ### 14\.  Amendments
 
 We may amend this Privacy Policy from time to time.  When we amend this Privacy Policy, we will update this page accordingly.  You must read this page each time that you access our Service, and your continued use of our Service shall constitute your acceptance of any such amendments.
+
+### 15\.  Exclusions and Limitations; Consumer Protection Notice
+
+If you are a consumer, the provisions in this Privacy Policy are intended to be only as broad and inclusive as is permitted by the laws of your State of residence. If you are a New Jersey consumer, the terms of Sections 5, 7, 8, 9, and 10 do not limit or waive your rights as a consumer under New Jersey law and the provisions in this Privacy Policy are intended to be only as broad and inclusive as is permitted by the laws of the State of New Jersey. In any event, BulbHead reserves all rights, defenses and permissible limitations under the law of your State of residence.
