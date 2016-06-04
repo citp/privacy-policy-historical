@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blazdesign.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025055945id_/http%3A//blazdesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blazdesign.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604123208id_/https%3A//blazdesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blaz Design
 
