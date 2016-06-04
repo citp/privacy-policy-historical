@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kontagent.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035757id_/http%3A//www.upsight.com/pricing/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontagent.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604221617id_/http%3A//www.upsight.com/pricing/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Upsight
 
