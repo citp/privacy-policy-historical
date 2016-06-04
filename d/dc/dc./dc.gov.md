@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dc.gov privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224213732id_/http%3A//dc.gov/page/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dc.gov privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604165136id_/http%3A//dc.gov/page/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | DC
 
@@ -26,12 +26,4 @@ Your individual identifying information will not be shared, sold, or transferred
 
 The District of Columbia's privacy policy extends to District government websites only. If you access another organization's website through the [www.dc.gov website](http://dc.gov/ "dc.gov"), you should read that organization's privacy policy to determine its website practices.
 
-Note: The District’s Affordable Care Act website, DC Health Link, is found at https://dchealthlink.com/. DC Health Link is operated by the DC Health Benefit Exchange Authority (the “Authority”).
-
-####  Privacy and Security Policies for Website
-
-This privacy and security policy describes the DC Health Benefit Exchange Authority's (the “Authority”) approach to information that is obtained from you via this website ("Site").  For information about our policy with respect to the collection, use, disclosure and maintenance of personally identifiable information ("Personally Identifiable Information" or "PII") in connection with the Authority's health benefit exchange ("Exchange") operations generally, see our Privacy and Security Policy for Exchange Operations.
-
-####  Privacy and Security Policies for Exchange Operations
-
-At the DC Health Benefit Exchange Authority ("Authority"), consumer privacy is important to us. We respect your right to privacy and will protect the information we maintain about you in the ongoing operation of the health benefit exchange ("Exchange") in accordance with applicable laws, regulations and standards for security and privacy. As a reflection of our commitment to protecting your information, the Authority has adopted these privacy and security policies, which govern our creation, collection, use, disclosure and maintenance of personally identifiable information ("Personally Identifiable Information" or "PII") in connection with Exchange operations (the "Privacy and Security Policies for Exchange Operations").
+Note: The District’s Affordable Care Act website, DC Health Link, is found at [dchealthlink.com](https://dchealthlink.com/ "dchealthlink.com"). DC Health Link is operated by the DC Health Benefit Exchange Authority (the “Authority”). The DC Health Benefit Exchange Authority's privacy and security policies can be found at [hbx.dc.gov/node/716092](http://hbx.dc.gov/node/716092 "DC Health Benefit Exchange Authority's privacy and security policies") and its privacy and security policies for exchange operations can be found at [hbx.dc.gov/node/716102](http://hbx.dc.gov/node/716102 "DC Health Benefit Exchange Authority privacy and security policies for exchange operations").
