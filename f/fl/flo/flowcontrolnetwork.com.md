@@ -1,71 +1,165 @@
-> *The following text is extracted and transformed from the flowcontrolnetwork.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611053556id_/http%3A//www.flowcontrolnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowcontrolnetwork.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604152538id_/http%3A//www.flowcontrolnetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Flow Control Network
 
-P.O. Box 698  
-Birmingham, AL 35243  
-Phone: (888) 431-2877  
-Fax: (205) 408-3798 
+Last modified: 12/18/2014
 
-We can be reached via email [webinfo@grandviewmedia.com](mailto:webinfo@grandviewmedia.com).
+**_Introduction_**
 
-GRAND VIEW MEDIA GROUP, INC. wants you to have a positive experience on this Web site. We want you to know that we respect the privacy and security of our users. Our goal is to provide you with an experience that delivers the information and resources that are helpful to you. In order to achieve this goal, we collect information from you. We discuss our information collection practices below.  
+Flow Control (flowcontrolmag.com)
 
+We respect your privacy and are committed to protecting it through our compliance with this policy.
 
-This Privacy Policy sets forth the privacy practices in effect at the GRAND VIEW MEDIA GROUP, INC. Web site. If you do not agree to these terms, do not access this Web site.  
+Included in this policy are the types of information we may collect from you or that you may provide to us upon visiting our website flowcontrolmag.com and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
+This policy applies to information we collect:
 
-WHAT INFORMATION IS COLLECTED AND HOW IS IT USED?  
-
-
-A. General Collection and Use of Personal Identifying Information  
-We will only collect and use personal identifying information (such as a first and last name, physical address including a street name, telephone number, e-mail address, etc.) when a user voluntarily provides it to us. In order to use some portions of our Web site, or in order to undertake certain actions, a user must first complete a registration form or provide an e-mail address that will require disclosure of personal identifying information. Such disclosure is strictly voluntary. In order to contact us by e-mail, however, you must provide an e-mail address.
-
-We will use the personal identifying information we collect for limited internal purposes that may include, but are not limited to, processing your transactions, establishing the identity of account holders, utilization for customer service, content processing, or content classification, and providing you with information concerning our services. We will retain this information. We also may use that personal identifying information to improve and customize our content.
-
-We reserve the right to disclose your personal identifying information, if we are required to do so by law, or in the good faith belief that disclosure of the information is reasonably necessary to comply with legal process, to respond to claims, or to protect or advance the rights, property, safety, or well-being of our company, our employees, customers, or the public.  
+  * On this website
+  * In email, text, and other electronic messages exchanged between you and this website
+  * Through mobile and desktop applications you download from this website, which provided dedicated non-browser-based interaction between you and this website
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy
+  * Any other sources
 
 
-B. Collection of Non-Personal Identifying Information  
-We collect and use non-personal identifying information, including IP addresses and web server log files to track trends, administer the Web site, track user movement, and gather demographic information. We use this non-personal identifying information in the aggregate, and to troubleshoot technical errors. We do not combine these types of non-personal identifying information with personal identifying information.  
+
+It does not apply to information collected by:
+
+  * Us offline or through any other means, including on any other website owned by Flow Control or any third party; or
+  * Any third party, including through any application or content (including advertising) that may link to or be accessible from the website
 
 
-Cookies and Web Service Log File Data  
-We may place a "cookie" or other tracking or information gathering device used in the industry in the browser files of a user's computer. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies enable us to track and target the interests of our users to enhance the experience on our web site. We are able to access only the cookies that our sites set on your computer and we are only able to determine the type of computer operating system and browser that you are using. We collect information from cookies and other information gathering devices and log files in the aggregate. We do not link the information collected through cookies or other devices to personal information that users submit online while participating in our activities. Users can set their browsers or third party software to reject cookies. If a user rejects the cookie, the user may be unable to use portions of our Web site. Some of the Web sites we provide links to also may use cookies. We have no control over these linked Web sites or access to or control over cookies or other technology used by linked Web sites.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using our website, you agree to this privacy policy and our policies and practices. Periodic changes to this policy may be made to the website (see _Changes to our Privacy Policy)_. Please check our policy for periodic updates as continued use of the website is deemed to be an acceptance of changes.
 
-Usage Information Monitoring  
-In order to provide better system stability, we monitor sessions on our Web site. This is for the purpose of tracking and trouble shooting any technical problems that may arise when someone accesses our Web site. By monitoring the usage, we are better prepared to solve system problems faster. We do not disclose this information to any outside vendor.  
+**_Children Under the Age of 13_**
 
+Our website is not intended for use by children under 13 years of age. We do not knowingly collect or accept personal information provided from children under 13. If you are under 13, do not use or provide information to this website. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, that information will be deleted. If you believe we might have any information from or about a child under 13, please contact us at 888-431-2877.
 
-C. Security  
-GRAND VIEW MEDIA GROUP, INC. has taken steps to ensure that personal identifying information collected in the future is secure, and we have limited the number of people who have access to the information, by electronic security systems and password protections that guard against unauthorized access. GRAND VIEW MEDIA GROUP, INC. may provide links to Web sites outside of GRAND VIEW MEDIA GROUP, INC. These Web sites may not have the same privacy policies as GRAND VIEW MEDIA GROUP, INC. GRAND VIEW MEDIA GROUP, INC. takes reasonable care in recommending these Web sites but is not responsible for their content or privacy policies. We urge users to read the privacy statement of an outside web site when leaving our site and linking to an outside Web site.
+**_Information We Collect About You and How We Collect It_**
 
-We use industry-standard technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.  
+We collect several types of information from and about users of our website, including:
 
-
-D. Use of Personal Information Collected  
-From time to time we may send users e-mail messages regarding information and news from GRAND VIEW MEDIA GROUP, INC. If you do not want to receive e-mail from us in the future, please let us know by sending an e-mail at the above address, calling us at the above telephone number, or writing to us at the above address.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.  
+  * Personally identifiable information, such as name, phone number, postal and email address, or any other information we collect that is defined as personal or personally identifiable under an applicable law
+  * Information about you but does not identify you as an individual
+  * Information about your internet connection, equipment used for site access, and usage
 
 
-E. How to Correct Information  
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us by written request, phone or e-mail at the contact information stated above.
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, including unique identifier information (e.g., customer number or password) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them.
+This information may be collected:
 
-Users can access this information, and can have their personal identifying information corrected, by writing to us at the above address, sending us an e-mail or by calling us.  
-
-
-F. Questions  
-If you have any questions, comments, or concerns regarding the GRAND VIEW MEDIA GROUP, INC. Privacy Policy or practices, please send us an email, call us or write to us at the address listed above.  
+  * Directly from you when you provide it to us, and may include: 
+    * Information provided by filling out website forms, such as registration, service subscription, posts, request for services, contest entry, and others
+    * Records and copies of correspondence or methods of contact, such as survey responses, transactions, search queries, and others
+    * User contributions that are displayed or posted on public areas of the website or transmitted to other website users
 
 
-G. Changes to Privacy Policy  
-We will notify you of changes to the GRAND VIEW MEDIA GROUP, INC. Web site Privacy Policy by posting an updated policy on this page with a notification link to this page from the home page or by a "News Box." You agree that continued use of the web site is an acknowledgment and consent to any terms contained in the GRAND VIEW MEDIA GROUP, INC. Web site Privacy Policy current at the time of use.  
+  * Automatically as you use our site, and may include: 
+    * Data relating to traffic, location, and other resources that you use to access and use our website
+    * Information about your computer and internet connection, including IP address, operating system, and browser type
+    * Behavioral information about your online activities over time and across third-party websites or other online services
 
 
-H. Effective Date  
-This policy was last updated on March 17, 2009.
+
+Technologies used for automatic data collection and advertising may include browser cookies, flash cookies, or web beacons. For more information about managing your privacy and security settings, see _Choices About How We Use and Disclose Your Information_. We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or information that you provide to us.
+
+  * From third parties, including our business partners and Google
+
+
+
+**_Third-Party Use of Cookies and Other Tracking Technologies_**
+
+Some content or applications, including advertisements, on our website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties, such as Google and others, may use cookies and other tracking technologies to collect information about you when you use our website. This information may be used to provide you with interest-based or behavioral advertising or other targeted content.
+
+We do not control third party tracking or how they use collected data. If you have any questions about an advertisement or other targeted content, contact the responsible provider directly. For information about opting out of receiving targeted advertising from many third parties, see _Choices About How We Use and Disclose Your Information_ or visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/#completed). For information about opting out of Google’s use of cookies, visit Google’s [Ad Settings](https://support.google.com/ads/answer/2662922?hl=en).
+
+**_How We Use Your Information_**
+
+We use information that we collect about you or you provide to us, including personal information, to:
+
+  * Present our website and its contents to you and notify you of any changes
+  * Provide you with requested information, products, or services
+  * Provide you with notices related to your account or transactions
+  * Carry out obligations and enforce our rights arising from any contracts entered into between you and us, including billing and collection
+  * Provide interactive features for your participation
+  * Fulfill any and all other purposes with your consent
+
+
+
+We may also use this information to contact you about our own and third party goods or services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data or adjust your user account preferences. For more information, see _Choices About How We Use and Disclose Your Information_.
+
+We may also use this information to display advertisements to our advertisers’ target audiences. While we do not disclose your personal information for these purposes without your consent, clicking on or otherwise interacting with an advertisement may indicate to the advertiser that you meet its target criteria.
+
+**_Disclosure of Your Information_**
+
+We may disclose aggregated information about users and information that does not identify any individual, without restriction.
+
+We may disclose personal information collected as described in this privacy policy:
+
+  * To our subsidiaries and affiliates
+  * To contractors, service providers, and other third parties used to support our business
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets
+  * To third parties contractually bound to obligations of confidentiality and use, to market their products or services if you have consented to/not opted out of these disclosures. (For more information, see _Choices About How We Use and Disclose Your Information_
+  * To fulfill the purpose for which you provide it, such as an “email a friend” feature
+  * For any other purpose disclosed by us when you provide information
+  * With your consent
+
+
+
+In addition, we may disclose your personal information:
+
+  * To comply with any court order, law, or legal process, including response to government or regulatory requests
+  * To enforce or apply other agreements
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Flow Control, our customers, or others
+
+
+
+**_Choices About How We Use and Disclose Your Information_**
+
+We strive to provide you with choices regarding the personal information you provide us. To exercise control over your information, we have provided you with the following mechanisms:
+
+  * **Tracking Technologies and Advertising.** You can adjust your browser settings to manage cookies. To manage Flash cookie settings, visit the Flash player settings page on [Adobe’s website](http://help.adobe.com/en_US/FlashPlayer/LSM/WS6aa5ec234ff3f285139dc56112e3786b68c-7fff.html#WS6aa5ec234ff3f285139dc56112e3786b68c-7ffe)
+  * **Disclosure of Your Information for Third-Party Advertising.** You can opt-out of information sharing by adjusting your account preferences or emailing us requesting that we not share personal information for promotional purposes
+  * **Promotional Offers from Flow Control.** If you do not want to receive promotions from us or third parties, you can opt out by adjusting your account preferences or emailing us requesting that we not contact you
+  * **Targeted Advertising.** If you do not want us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt-out by adjusting your account preferences or email us. You can also adjust your Google [Ads Settings.](https://support.google.com/ads/answer/2662922?hl=en)
+
+
+
+We do not control third parties’ collection or use of your information to serve interest-based advertising. However, these parties may provide opt-out options, such as the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/#completed).
+
+**_Accessing and Correcting Your Information_**
+
+To review and change your personal information, you can visit your account profile page on our website or email us your request. We cannot delete your personal information without deleting your user account. We may not accommodate your request if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+If you delete your user contributions to the website, copies may remain viewable in cached or archived pages, or copied or stored by other users.
+
+**_California Privacy Rights_**
+
+California Civil Code Section § 1798.83 allows California residents to request certain information regarding disclosure of information to third parties for direct marketing purposes. To do so, please write us at:
+
+Flow Control  
+Attn: Customer Service Department  
+200 Croft Street, Suite 1  
+Birmingham, AL 35242
+
+**_Data Security_**
+
+To secure your personal information from accidental loss or unauthorized access, use, alteration, or disclosure, all information you provide to us is stored on secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.
+
+As a user, you are responsible for the use and protection of your password and any information you share in public areas of the website, such as message boards or comment boxes. Any transmission of personal information to our website is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the website.
+
+**_Changes to Our Privacy Policy_**
+
+We post any and all changes to this privacy policy on this page with the date of last revision at the top of the page. If any material changes are made to how we treat users’ personal information, we will notify you through a notice on the website home page. You are responsible for ensuring that we have an accurate and deliverable email address for you, and for periodically visiting our website and this privacy policy to check for any changes.
+
+**_Contact Information_**
+
+To ask questions or comment about this privacy policy or our privacy practices, contact us at:
+
+Flow Control  
+Attn: Customer Service Department  
+200 Croft Street, Suite 1  
+Birmingham, AL 35242
+
+or via our toll-free number:
+
+888-431-2877
