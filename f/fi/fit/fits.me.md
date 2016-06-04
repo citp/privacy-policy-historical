@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fits.me privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018163143id_/http%3A//www.fits.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fits.me privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604152010id_/http%3A//fits.me/pages/privacy-policy) for the most accurate reproduction.*
 
-# Fits.me | Virtual Fitting Room » Privacy policy
+# Contact :: Fits.me
 
-#### **Who we are**
+## Who we are
 
 Fits.me Virtual Fitting Room solutions are developed, owned and operated by Fits.me Holdings Limited (“Fits.me”, “we”), registered in England company number 07871517 and whose registered address is CARDIFF HOUSE 2ND FLOOR, TILLING ROAD, LONDON, NW2 1LJ, UK.
 
-#### **Privacy statement**
+## Privacy statement
 
 Together with any Terms of Use that we may publish, this policy sets out the basis on which we collect, store or process personal or other data that we collect or that you provide to us.  The policy applies to you however you choose to access [www.fits.me](http://www.fits.me/) or the virtual fitting rooms we operate for our clients, i.e., regardless of the network or type of device you may be using.
 
