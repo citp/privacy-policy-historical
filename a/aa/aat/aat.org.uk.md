@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aat.org.uk privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910212022id_/https%3A//www.aat.org.uk/get-myaat/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aat.org.uk privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604032516id_/https%3A//www.aat.org.uk/get-myaat/privacy-policy) for the most accurate reproduction.*
 
 # AAT privacy policy | AAT
 
@@ -16,24 +16,15 @@ We believe it is essential to respect the privacy of all visitors and to make sa
 
 Where we ask for information we do so in order to offer you better services, both on the website and in the rest of our operations.
 
-If you believe that any information we hold about you is inaccurate, please notify us, and we will do our best to correct it as quickly as possible.
+If you believe that any information we hold about you is inaccurate, you can update your details in your MyAAT account or contact us to update it.
 
-Some of the information you give will be held in databases: we will ensure that these are highly secure and can only be accessed by authorised people.
-
-We may also ask you to complete surveys or questionnaires on the website from time to time. These will always be voluntary but we may use anonymised information gathered from surveys and questionnaires to:
-
-  * Personalise the website
-  * Target marketing to relevant users.
-
-
-
-Any information from surveys and questionnaires will be completely anonymous and will not link back to you.
+Some of the information you give will be held in databases: we ensure that these are highly secure and can only be accessed by authorised people.
 
 We will ask for your email address to:
 
   * Set up your MyAAT account
-  * Update you with information and newsletters
-  * Send you occasional invitations to participate in e-surveys to help us enhance and improve our service.
+  * Update you with information and newsletters relevant to your studies and membership
+  * Send you occasional invitations to participate in surveys to help us enhance and improve our service.
 
 
 
@@ -41,7 +32,7 @@ You can change your email address or choose not to receive further information a
 
 ### Who will have access to the information
 
-Any information you give will be available to AAT. If you choose to add your email address to your membership record, it will not be made available to any third party except select parties we commission to undertake research on our behalf.
+Any information you give will be available to AAT. We will never share your email address with third parties except select parties we commission to undertake research on our behalf.
 
 Information you give in response to surveys and questionnaires on the website will be used in two ways:
 
@@ -61,8 +52,6 @@ Like most websites, our server gathers limited information about you during a se
 In no circumstances do we collect any data that is not directly related to the use of the website (for example, we do not record other sites that you have visited).
 
 The log files or any information they contain about your use of the site will not be made available to any third parties other than as anonymous usage statistics.
-
-Browser information is also collected with your name, email address and, if appropriate, membership number if you complete a 'contact us' feedback form.
 
 Our site uses the following two Google Analytics advertising features:
 
@@ -102,3 +91,7 @@ A company limited by guarantee (NO. 1518983) and registered as a charity (NO. 10
 
 Registered in England and Wales, Registered Office:  
 140 Aldersgate Street London EC1A 4HY
+
+AAT is security accredited by [Cyber Essentials Plus](https://www.cyberstreetwise.com/cyberessentials/). Cyber Essentials is a  Government-backed and industry supported scheme to guide businesses in protecting themselves against cyber threats.
+
+[](https://www.cyberstreetwise.com/cyberessentials/)
