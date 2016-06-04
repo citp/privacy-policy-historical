@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loco2.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015193442id_/https%3A//loco2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loco2.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604022525id_/https%3A//loco2.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Loco2
 
