@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcc.edu privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034041id_/http%3A//www.rccd.edu/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcc.edu privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604145807id_/http%3A//www.rccd.edu/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Riverside Community College District Privacy Statement
 
