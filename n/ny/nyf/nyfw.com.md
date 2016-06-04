@@ -1,100 +1,108 @@
-> *The following text is extracted and transformed from the nyfw.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfw.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604070948id_/http%3A//nyfw.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+IMG Worldwide New York Fashion Week Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Effective Date: January 18, 2016  
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This Privacy Statement describes how information about you is collected, used, and disclosed by IMG Worldwide, LLC and our parents, subsidiaries and affiliates (collectively, "IMG Worldwide," "we" or "us") when you attend New York Fashion Week ("NYFW") events, access or use our NYFW website or mobile application (collectively, the "Service"), or otherwise interact with us in connection with NYFW. Please note that we may have different privacy statements with respect to certain parents, subsidiaries, affiliates, programs, or activities, and in those cases, this Privacy Statement will not apply.
 
-**Information Collection and Use**
+INFORMATION COLLECTION
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Information You Provide to Us
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+IMG Worldwide collects information from you when you choose to provide it to us. This may include when you request information from us, sign up for our newsletters or email lists, access or use our Service, make a purchase, participate in our contests, promotions, sweepstakes, surveys, or interviews, request support, or otherwise interact with us.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+The information we collect may include your name, address, email address, telephone number, photos, videos, payment information, and any other information you choose to provide. You may also be required to provide certain information to access certain portions of the Service.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Information We Automatically Collect
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We may use cookies, web beacons, pixel tags, log files, or other technologies to automatically collect certain information when you use our Service. For example, we may automatically collect information such as your browser type, device type and operating system, unique device identifier, software version, IP address, and the domain name from which you accessed the Service. We also may collect information about your use of the Service including the date and time you access the Service, the areas or pages of the Service that you visit, the amount of time you spend using the Service, the number of times you return, whether you open, forward, or click-through emails and ads, log files, and other Service usage data. You may adjust your browser or operating system settings to limit this tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Service or take full advantage of all of our offerings. Check the "Help" menu of your browser or operating system to learn how to adjust your tracking settings or cookie preferences. Note that our system may not recognize some or all Do Not Track headers from browsers.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+If you choose to turn on your Bluetooth, wifi, or other geolocation functionality when you use the NYFW mobile application, the application will collect and use your geolocation information. You can subsequently stop the collection of this information at any time by changing the settings on your mobile device. If you do so, certain features of the application will no longer function. Certain features of the NYFW mobile application may also require access to your mobile device’s native calendar application. If you decide to use these features, we will ask for your consent before accessing your calendar. You can revoke this consent at any time by changing the settings on your device, if your device offers that option.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We may also collect information from you if you choose to use wearable devices we provide at events. For example, we may collect information about your heart rate, body temperature, location, motion and step count.
 
-**Security**
+If you attend NYFW events where we are capturing audio and video recordings, we may also collect sound clips and images of you. We may also use cameras and sensors to collect environmental information at NYFW events, such as information about temperature changes, noise and humidity levels and amounts of motion.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Information We Collect from Other Sources
 
-**Updating Your Information**
+We may receive information about you from other sources and link or combine that with information we collect about you. For example, we may collect publicly available information about you from social media platforms. In addition, if you log into or access the NYFW mobile application using a third party social media platform, we will have access to certain information from that platform, such as your email address, friends list and public profile information.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+INFORMATION USE 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+IMG Worldwide may use the information we collect from and about you to:
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  * Operate, maintain, and improve the Service;
+  * Develop new Services and content; 
+  * Provide you with information on venues, events, exhibits, and special offers based on your physical proximity to them during and after NYFW, if you consent to our collection of your geolocation information;
+  * Provide you with customized content, targeted offers, and advertising on the Service or other sites and apps;
+  * Monitor and analyze trends, usage, and activities in connection with the Service and NYFW events;
+  * Respond to your inquiries and provide customer service;
+  * Facilitate contests, sweepstakes, and promotions and process and deliver entries, prizes, and rewards;
+  * Send you information, newsletters, and promotional materials from IMG Worldwide and our partners;
+  * Protect the security or integrity of the Service and our business;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * Carry out any other purpose described to you at the point of data collection.
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
+INFORMATION SHARING
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+IMG Worldwide may share the personal information we collect from and about you:
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  * With our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership;
+  * With our service providers, vendors, and consultants who need access to the information to perform services for us;
+  * With event sponsors and other partners, including but not limited to AGT GmbH International, Appy Entertainment GmbH, Appy Entertainment LLC and their respective affiliates and subsidiaries, where necessary to provide you with the Services and for their own business purposes, including for the purpose of sending you promotional communications;
+  * As necessary if we believe that there has been a violation of the IMG Worldwide Terms of Service http://nyfw.com/terms-of-use or of our rights or the rights of any third party;
+  * To respond to judicial process or provide information to law enforcement or regulatory agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law;
+  * In connection with any merger, sale of assets, financing, bankruptcy, or reorganization of our business; and
+  * With your consent.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
+Further, IMG Worldwide may share aggregated or anonymous information which cannot reasonably be used to identify you.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+SOCIAL SHARING FEATURES
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+The Service may offer social sharing features and other integrated tools such as the Facebook "Like" button, which let you share actions you take on our Service with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
-**Supplementation of Information**
+ADVERTISING AND ANALYTICS
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We may allow others to provide analytics services and serve advertisements on our behalf across the Internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Service and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Service and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). On your mobile device, you may also adjust your privacy and advertising settings to control whether you want to receive more relevant advertising.
 
-**Contests/Surveys**
+We may also work with third parties to serve ads to you as part of a customized campaign on other websites or platforms.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+YOUR CALIFORNIA PRIVACY RIGHTS
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+For California residents: IMG Worldwide may share your personal information with select third parties. Under California law, you may request information about our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at [infoNYFW@img.com](mailto:infoNYFW@img.com).
 
-**Tell-A-Friend**
+DATA STORAGE
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Your information may be stored on servers in the United States and is subject to the laws of the United States, where the data protection and other laws may differ from those of other countries. Your information may be disclosed in response to inquiries or requests from government authorities or to respond to judicial process in the countries in which we operate. By accessing or using the Service or otherwise providing information to us, you consent to the processing, transfer and storage of information in and to the United States and other countries, where you may not have the same rights and protections as you do under local law.
 
-**What Happens to my Personal Information if I Opt Out?**
+DATA SECURITY
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+IMG Worldwide takes reasonable precautions to help protect your information. We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Service users. Because there is always some risk in transmitting information over the Internet, we cannot guarantee the security of your information.
 
-**Transfer of Data Abroad**
+The Service may have links to third-party sites or applications, which may have privacy policies that differ from our own.  We are not responsible for the practices of such sites or applications.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+YOUR COMMUNICATION CHOICES
 
-**Changes in Our Practices**
+Promotional Communications
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+You may opt out of receiving promotional communications from IMG Worldwide by following the instructions in those communications or by emailing [infoNYFW@img.com](mailto:infoNYFW@img.com). If you opt out, we may still send you non-promotional communications.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Mobile Push Notifications/Alerts
 
-**Contacting Our Site**
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+IF YOU HAVE QUESTIONS
 
-* * *
+If you have any questions about this Privacy Statement or the practices described herein, you may contact us at [infoNYFW@img.com](mailto:infoNYFW@img.com).
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+REVISIONS TO THIS STATEMENT
+
+IMG Worldwide reserves the right to revise this Privacy Statement at any time. When we do, we will post the change(s) on the Service and update the date at the top of this Privacy Statement. If we change the Privacy Statement in a material way, we will provide appropriate notice to you. We encourage you to review the Privacy Statement whenever you access the Service or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
