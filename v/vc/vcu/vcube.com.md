@@ -1,186 +1,77 @@
-> *The following text is extracted and transformed from the vcube.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522001935id_/http%3A//vcube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcube.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604042127id_/http%3A//www.vcube.com/privacy/index.html) for the most accurate reproduction.*
 
-# V-Cube - Web Based Technology for Visual Learning and Video Communication
+# Personal information protection policy | V-cube, Inc.
 
-V-cube Privacy Policy
+V-Cube recognizes the importance of the personal information it has obtained and has established a system for the protection of such information. They include information on users of V-CUBE (hereinafter referred to as “this service”), a visual communication service provided by V-Cube, shareholders of V-Cube, people who enquired about V-Cube or applied for a job with V-Cube and current employees of V-Cube (hereinafter collectively known as “our customers”). We shall explain the way we manage personal information in this personal information protection policy.
 
-REVISED AND POSTED AS OF: April 24, 2010. V-cube is committed to protecting your privacy and ensuring you have a positive experience on our website and in using our products and services (collectively “Services”). This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy.
+## 1．Acquisition of personal information
 
-This policy covers the V-cube website and is applicable worldwide. V-cube is a wholly-owned subsidiary of Systems, Inc. (“”). However, it is important to understand this privacy statement is separate and distinct from the policies of and www..com.
+In applying for the use of this service, V-Cube requires a minimum amount of personal information from the customers necessary for the delivery of this service. Information includes the applicant’s name, telephone number, email address and credit card number (*) which customer can fill in by using the application form, send via email or through the form (hereinafter referred to as “input form”), on V-Cube’s website.  
+In the event whereby V-Cube receives enquiries about the company or applications for jobs within the company, V-Cube shall obtain the minimum amount of personal information required for responding to enquiries or consideration of the applicants such as name, telephone number and email address, from the input form, email or other recruitment documents. V-Cube shall not use the personal information for any purposes other than that stipulated in Clause 2.
 
-We encourage you to read this privacy policy and those of all websites you visit. In addition, where more detailed information is needed to explain our privacy practices, or if a particular Service processes your personal information in a manner different than this policy, we will at the end of this policy supplement these privacy practices to describe how each such particular Service processes personal information.  
-Collection of your personal information
+※Customer’s credit card number is obtained only when customers have opted for payment by credit card.
 
-We will always tell you before we collect any personal information and inform you of the purpose of the collection. “Personal Information” is any information that can be used to identify an individual, and may include, but is not limited to, name, email address, postal or other physical address, credit or debit card number, title, and other information required to provide a Service, deliver a product, or carry out a transaction you have requested. Some of the reasons we collect your Personal Information include:
+## 2．Purposes for using personal information
 
-* Registration for an account.  
-* Use of certain features of our products or Services.  
-* Requesting service and support for our products or Services and providing such support.  
-* Placement of a transaction or order.  
-* Registration to attend a seminar or webinar.  
-* Participation in an online survey.  
-* Submission of an entry for a sweepstakes or other promotion.  
-* Participation in discussion groups or forum.  
-* Collaboration efforts.  
-* Registration to membership programs or newsletter subscriptions.  
-* Customizing the advertising and content you see.
+1) Information on users of this service  
+a) For issue of quotation, conclusion of contract, delivery, request for costs and usage fees of this service  
+b) For after-sales service such as delivery, maintenance or improvement of this service  
+c) For delivery of information related to new products/service of this service  
+d) For advertisement, survey and market research used by V-Cube’s partnering companies or organization  
+e) For the creation and use of statistical data containing information and log data related to records of use of this service, and information provided to V-Cube when applying for this service (however, information specified by the individual shall not be included in the statistical data)  
+f) For cancelling the use of this service to users who have violated the terms and conditions of the use of this service such as late payment of usage fees, or cause damage to a third party.  
+g) For the viewing of usage status, viewing or revision of registration information related to the use of this service  
+h) For the management of enquires related to the use of this service  
+i) For confirmation of the identity of the person concerned  
 
-Uses of your Personal Information
 
-We will only use your Personal Information in the way we specified when it was collected. We will not subsequently change the way your Personal Information is used without your consent. Some of the ways we may use your Personal Information include:
+2) Information on shareholder or person who has made enquiries about V-Cube  
+a) For shareholder management such as preparation of shareholder data as stipulated by law  
+b) For the implementation of various measures such as survey or shareholder preference scheme  
+c) For responding to enquiries  
 
-* To process your orders and deliver the products and Services that you have ordered.  
-* To keep you up to date on the latest Service announcements, software updates, software upgrades, system enhancements, special offers, and other information, provided that you can edit your marketing preferences at any time as described below.  
-* To provide support and assistance for our products and Services.  
-* To provide the ability to create personal profile areas and view protected content.  
-* To provide the ability to contact you, and provide you with shipping and billing information.  
-* To provide customer feedback and support.  
-* To provide contests, sweepstakes or other marketing or promotional activities on the V-cube.com or affiliate websites. Personal Information may be collected to administer those programs.  
-* To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaires is voluntary.  
-* To support recruitment inquiries.  
-* To understand more about you, so we can personalize newsletters and websites to your preferences. For example, allow you the opportunity to request specific information on products and services that may be of interest.  
-* To allow you to forward information to another individual such as a friend or co-worker. V-cube does not store the personal information of the third party. We collect the information for the sole purpose of sending a one-time email. If you choose to use our referral service to inform a colleague or friend, we will only ask for a contact name and email address.  
-* To meet contract obligations.
 
-Accessing and updating your Personal Information
+3) Information on people who have applied for jobs with V-Cube through recruitment activities and employees of V-Cube  
+a) For the selection of candidate  
+b) For the hiring procedures during recruitment  
+c) For notifying the various Ministries on matters pertaining to personnel management, human resource management
 
-We need your help in keeping the Personal Information you have shared with us accurate and up to date. Please notify us of any changes to your Personal Information.
+## 3\. Provision of personal information to third party
 
-Each promotional email includes instructions on how you can unsubscribe from that particular mailing.
+V-Cube shall not, with the exception of the following cases, disclose or provide personal information to a third party without obtaining the prior consent of our customers.  
+1\. Where it is required under the law  
+2\. Where it is required for the protection of human lives, body or assets, or where it is difficult to obtain the consent of our customer  
+3\. Where it is required that government agencies, local municipal entities or consignee collaborate in enforcing an act stipulated by law, or where obtaining consent from our customer would obstruct the enforcement of the act stipulated by law or add to the possibility of its obstruction.  
+4\. Where it is difficult to obtain the consent of our customer who has violated the terms and conditions of use of this service and V-Cube recognizes that it is necessary to protect the rights and assets of V-Cube or a third party and to ensure the seamless delivery of the service.
 
-You may also unsubscribe from V-cube’s promotional emails by sending an email, including your name, email address to unsubscribe@V-cube.com, or a letter to:
+## 4．Security
 
-V-cube  
-Attn: Legal Department  
-19401 S. Vermont Ave. Ste. J-101  
-Torrance, CA 90502 USA
+The input form contains a standard SSL encryption used in the industry to protect data transmission. V-Cube shall implement reasonable and appropriate safety measures to protect personal information against losses, defamation, damage, revision, leakage or divergence to an external party as well as implement continual improvement measures.
 
-In some instances, V-cube may collect non-personal (aggregate or demographic) data through cookies, web logs, and web beacons. This information is used to better understand and improve the usability, performance, and effectiveness of the website. Please read the “Cookies” section below for more information.
+## 5．Management of subcontractor
 
-In addition, by using some of our Services, anonymous network information may be transmitted back to us such as the health of our Services. This information is transmitted back to us so we can determine how users are interacting with our Services, to assist us with improving our Services, and to provide alerts via the Service as to Service changes.
+V-Cube shall, within the scope that is required for delivery of the intended purposes of use, consign to an external party the management of personal information. However during the consignment, V-Cube shall select a subcontractor that is evaluated to be capable of managing personal information appropriately. Furthermore, V-Cube shall provide customers’ personal information to the subcontractor only when it is required for delivery of the intended purposes of use and bound the subcontractor to a contract that dictates the appropriate management of personal information. V-Cube shall also conduct regular evaluations of the performance of the subcontractor.
 
-Sharing your personal information
+## 6．Request for disclosure or revision of personal information and termination of its use
 
-We do not sell or rent your Personal Information to third parties for marketing purposes unless you have granted us permission to do so.
+In the event that the customer request for disclosure or revision (revision, addition, or deletion) of personal information and termination (termination of use or delivery or deletion) of its use, V-Cube shall verify with the requester appropriately and effect the change promptly. However, if the revision is made to address an error in the personal information held by V-Cube, or if the termination of use will violate the contents of agreement or disclosure, separate requests can be submitted. For procedures on how to submit a request, please refer to “[Procedures on disclosure, revision and termination of usage matters](http://jp.vcube.com/privacy/procedure/index.html)”
 
-We may share your Personal Information within V-cube, our parent company, or any of ’s subsidiaries for purposes of data processing or storage.
+## 7．Adherence to laws about personal information protection
 
-We may also share your Personal Information with business partners, service vendors, authorized third-party agents or contractors in order to provide a requested Service or transaction, including processing orders, processing credit card transactions, hosting websites, hosting event and seminar registration and providing customer support. We only provide these third parties with the minimum amount of Personal Information necessary to complete/utilize the requested Service or transaction, and the third parties are not permitted to use your Personal Information except for limited purpose of completing/providing the requested Service or transaction.
+V-Cube shall, as a company that handles important person information, adhere to the guideline, policy and other applicable laws created by the administrative agencies in accordance to personal information protection laws and other related laws.
 
-We may respond to subpoenas, court orders, or legal process by disclosing your Personal Information and other related information, if necessary. We also may choose to establish or exercise our legal rights or defend against legal claims.
+## 8．Continual improvement of personal information protection management system
 
-We may collect and possibly share Personal Information and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of V-cube’s terms of service, or as otherwise required by law.
+V-Cube shall use the personal information appropriately and continually review and enhance the personal information protection management system in order to make it fool-proof.
 
-While navigating V-cube’s web site or Services you may be directed to content or functionality that is hosted by a third-party supplier. When information is collected on behalf of V-cube exclusively, V-cube’s privacy policy will be referenced and will govern how your information is used. For other, non-V-cube sites or services, the site/service owner’s privacy policy will be referenced. You should review such supplier’s privacy and security policies prior to use.
+## 9．Enquiry on the management of personal information and complaint channel
 
-We will ask for your consent before we use or share your information for any purpose other than the reason you provided it or as otherwise provided by this policy. In order to let us know your preferences, we will require an action on your part, such as checking the appropriate option, to indicate your consent.
+V-Cube shall promptly attend to enquiries or complaints with regards to personal information management. Enquires and complaints on personal information management should be directed to the following.
 
-Security of your Personal Information
+Person in charge of personal information protection and management  
+V-cube, Inc.
 
-V-cube is committed to protecting the Personal Information you share with us. We utilize a combination of industry-standard security technologies, procedures, and organizational measures to help protect your Personal Information from unauthorized access, use or disclosure.
-
-When we transfer credit card information over the Internet, we protect it using Secure Sockets Layer (SSL) encryption technology.
-
-While we strive to protect your Personal Information, we cannot ensure the security of the information you transmit.
-
-We recommend you to take every precaution in protecting your Personal Information when you are on the Internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser.  
-Cookies
-
-Like many websites, V-cube uses technologies, such as cookies and web beacons, which allow us to make your visit to our website easier, more efficient and more valuable by providing you with a customized experience and recognizing you when you return.
-
-A cookie cannot read personal data off your hard disk or read cookie files created by other sites; indeed, the only Personal Information a cookie can contain is information you supply yourself. Accepting the cookies used on our website may give us access to information about your browsing behavior, which we may use to personalize your experience and track user traffic patterns, and to merge this info when you register. We do this in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information. You may browse most of V-cube’s website without accepting cookies from V-cube; however, some website functionality may be lost by disabling cookies on your computer. Other V-cube web pages, particularly those which require a login and password, require cookies and cannot be used when you have disabled cookies in your browser.
-
-In addition, V-cube uses web beacons in conjunction with cookies to understand user behavior. Web beacons are simply a convenient way of gathering basic statistics and managing cookies, and do not give away any extra information from your computer. Turning off your browser’s cookies will prevent web beacons from tracking your specific activity.
-
-If you prefer not to receive cookies while browsing our website or via HTML-formatted emails, you can set your browser to warn you before it accepts cookies or refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You may browse most of the V-cube website without accepting cookies; however, some website functionality may be lost by disabling cookies on your computer. Other V-cube web pages, particularly those which require a login and password, require cookies and cannot be used when you have disabled cookies in your browser. For additional information about cookies and other tracking technologies, including instructions for blocking their use.
-
-Linked websites and third party services
-
-Our websites and services may provide links to other third-party websites and services which are outside our control and not covered by this policy. We encourage you to review the privacy policies posted on these (and all) sites you visit or services you use.  
-Newsgroups/forums
-
-If you participate in a V-cube discussion forum or chat room, you should be aware that the information you provide there will be made broadly available to others, potentially inside or outside V-cube, who have access to that discussion forum or chat room. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. Each participant’s opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of V-cube.  
-Children’s privacy
-
-V-cube does not knowingly collect Personal Information from children under the age of 13. If we learn that we have collected Personal Information on a child under the age of 13, we will delete that data from our systems. V-cube encourages parents and guardians to go online with their children. Here are a few tips to help make a child’s online experience safer:
-
-* Teach children never to give Personal Information (such as name, address, phone number, school, etc.) unless supervised by a parent or responsible adult.  
-* Know the sites your children are visiting and which sites are appropriate.  
-* Look for website privacy policies. Know how your child’s information is treated.
-
-Please visit the FTC’s website for more tips on protecting children’s privacy online.  
-Consent to Transfer, Processing and Storage of Personal Information
-
-We may transfer your Personal Information to the United States, to any V-cube or subsidiary worldwide, or to third parties acting on our behalf for the purposes of processing or storage, and by providing any Personal Information you fully understand and unambiguously consent to such transfer, processing and storage of such information.  
-Your California Privacy Rights
-
-Residents of the State of California, under a new provision of the California Civil Code, have the right to request from companies conducting business in California, a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an Opt-out or Opt-in choice for use of your Personal Information by third parties (such as advertisers) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options.
-
-V-cube qualifies for the alternative option; it has a comprehensive privacy policy and provides you with details on how you may either Opt-out or Opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
-
-If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to customercare@vcube.com  
-Questions or comments?
-
-Should you have any privacy-related questions or comments related to this privacy policy, please send an email to privacy@V-cube.com.  
-Policy updates
-
-V-cube may amend this privacy statement from time to time, and at any time. We will post a notice whenever this privacy statement is materially changed. Your continued use of the V-cube website or Services after any change will signify and confirm your assent to those changes.
-
-Personal Information Collected
-
-V-cube’s servers automatically record certain information about your use of this Service such as account activity (e.g., storage usage, number of log-ins, actions taken and your IP address), data displayed or clicked on and other log information. V-cube also retains Personal Information and other information uploaded, provided or created using certain Service features, including, 1) For meeting attendees: name and email address, public IP address 2) for meeting hosts: name, email address, public IP address and optionally, phone numbers and mailing address.
-
-Storage and Security of Personal Information
-
-In addition to V-cube storing Personal Information, such information is stored on the computer utilized with the Service. If you use the Service from a public computer, such information will be stored on such public computer. Personal Information stored on the computer is protected using encryption technology.
-
-Sharing your Personal Information
-
-V-cube provides meeting usage reports to the customer of the V-cube service utilized, which may include your Personal Information.
-
-Supplemental Privacy Practices – V-cube Connect
-
-The following describes our practices with respect to the V-cube Connect Service.
-
-Personal Information Collected
-
-V-cube’s servers automatically record certain information about your use of this Service such as account activity (e.g., storage usage, number of log-ins, actions taken and your IP address), data displayed or clicked on and other log information. V-cube also retains Personal Information and other information uploaded, provided or created using certain Service features, including, 1) chat: chat history, participants, timing and presence detection; 2) contacts: name, address, email address, phone number, alias, picture, company, department, title; and website; 3) calendar widget: event, location, time, participants; 4) spaces: file name, size, access log, revision history, space name, participants.
-
-Storage and Security of Personal Information
-
-All such Personal Information unique to the Connect Service is stored by V-cube and on the computer utilized with the Service. If you use the Service from a public computer, such information will be stored on such public computer. Personal Information stored on the computer is protected using encryption technology. All messages sent in your chat session to and from your account, as well as the initiation and termination of any other communication modes such as voice or video calls (“User Actions”) will be logged and are subject to archival.
-
-Sharing your Personal Information
-
-In specific instances, when a third party wants to add you as a contact, your presence will be automatically made available to them. In addition, if your employer subscribes to this Service, your Personal Information will be made available to your employer. All User Actions defined the preceding paragraph may be monitored, or reviewed and/or disclosed to someone other than the recipient.
-
-Supplemental Privacy Practices – V-cube Mail
-
-The following describes our practices with respect to the V-cube Mail service (“CWM”).
-
-Personal Information Collected
-
-V-cube requires some Personal Information when provisioning a CWM mailbox. V-cube stores, processes and maintains your messages, contact lists and other data related to each mailbox in order to provide the CWM service. V-cube’s servers automatically record certain information about your use of CWM such as account activity (e.g., storage usage, number of log-ins, actions taken and your IP address), data displayed or clicked on and other log information. V-cube analyzes email for spam, viruses and malware and other characteristics before delivering such filtered email. As a result of such filtering, V-cube may also collect and retain information about the e-mails filtered through CWM, and may quarantine certain emails filtered through the Service. This notice is not intended to be a complete or exhaustive list of the information V-cube may collect or log in the course of providing or improving the Service.
-
-Storage and Security of Personal Information
-
-In addition to V-cube storing Personal Information, such information is stored on the computer utilized with the CWM service. If you use the service from a public computer, such information will be stored on such public computer. Personal Information stored on the computer is protected using encryption technology. Services have security measures in place to protect against the loss, misuse, or alteration of the information under our control. Your contact and financial information is submitted via a secure (HTTPS) connection and stored in the V-cube database protected by a firewall. V-cube stores the information you provide on computer systems with limited access, which are located in controlled facilities.
-
-Sharing your Personal Information
-
-A user’s Personal Information may be made available to the purchaser of the user’s V-cube Mail service, upon verification of the purchaser’s identity and authority.  
-Supplemental Privacy Practices – V-cube
-
-The following describes our practices with respect to the V-cube services.
-
-Personal Information Collected
-
-V-cube’s servers automatically record certain information about your use of this Service such as account activity (e.g., storage usage, number of log-ins, actions taken and your IP address), data displayed or clicked on and other log information. V-cube also retains Personal Information and other information uploaded, provided or created using certain Service features, including, 1) chat: chat history, participants, timing and presence detection; 2) contacts: name, address, email address, phone number, alias, picture, company, department, title; and website; 3) calendar widget: event, location, time, participants; 4) spaces: file name, size, access log, revision history, space name, participants; 4) for meeting attendees: name and email address, public IP address 5) for meeting hosts: name, email address, public IP address and optionally, phone numbers and mailing address.
-
-Storage and Security of Personal Information
-
-All such Personal Information unique to the V-cube Meet Service is stored by V-cube and on the computer utilized with the Service. If you use the Service from a public computer, such information will be stored on such public computer. Personal Information stored on the computer is protected using encryption technology.
-
-Sharing your Personal Information
-
-In specific instances, when a third party wants to add you as a contact, your presence will be automatically made available to them. In addition, if your employer subscribes to this Service, your Personal Information will be made available to your employer. V-cube provides meeting usage reports to the customer of the V-cube service utilized, which may include your Personal Information.
+  
+Nakameguro GT Tower 20F, 2-1-1 Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan  
+TEL：03-5768-3111  
+Email:
