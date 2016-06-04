@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the sampleroom.ph privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206040151id_/http%3A//www.sampleroom.ph/index.php%3Froute%3Dinformation/information%26information_id%3D10) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sampleroom.ph privacy policy that was archived on 2016-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160604152552id_/http%3A//www.sampleroom.ph/index.php%3Froute%3Dinformation/information%26information_id%3D10) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Privacy Policy</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">
       WebFontConfig = {
@@ -21,19 +22,51 @@
 </script>
 
 <script type="text/javascript" src="http://static.sampleroom.ph/catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
-<script type="text/javascript" src="http://static.sampleroom.ph/catalog/view/theme/sampleroom/js/tools.js"></script>
+<script type="text/javascript" src="http://static.sampleroom.ph/catalog/view/theme/sampleroom/js/hammer.min.js"></script>
+<script type="text/javascript" src="http://static.sampleroom.ph/catalog/view/theme/sampleroom/js/jquery.hammer.js"></script>
+<script type="text/javascript" src="http://static.sampleroom.ph/catalog/view/theme/sampleroom/js/tools.js?v=30"></script>
 <script type="text/javascript">
         jQuery(document).ready(function($) {
             $('.top-nav .email').append("<i class='fa fa-envelope-o'></i>");  
             $('.top-nav .link').append("<i class='fa fa-heart'></i>"); 
             Slider.init($('.slide-1'));
-});
+	
+            $('.menu-overlay').css('opacity', 0.5);
+	    $('.menu-overlay').css('height', $('body')[0].scrollHeight);
+	    $('#menu').css('min-height', $('body').height());
+
+	    $('.menu-overlay').bind('click', function (e) {
+		$('.menu-overlay').css('display', 'none');
+		$('#menu').removeClass('slider-out');
+		$('.whitewrap').css('position', 'relative');
+            });
+
+	    $('a#slideout').bind('click', function (e) {
+		e.preventDefault();
+		$('.whitewrap').css('position', 'fixed');
+		$('.menu-overlay').css('display', 'block');
+		$('#menu').addClass('slider-out');
+	    });     
+
+	    $('.menu-overlay').hammer().on('swipeleft', function () {
+		$('.menu-overlay').css('display', 'none');
+		$('#menu').removeClass('slider-out');
+		$('.whitewrap').css('position', 'relative');
+	    });
+
+            $('#mobile-search').keydown(function (e) {
+		if (e.keyCode == 13) {
+			$('input[name=\'filter_searchanywhere\']').val($(this).val());
+                        $('#button-searchanywhere').trigger('click');
+                }
+	    });
+        });
 </script>
 
 <link href="http://fonts.googleapis.com/css?family=Quicksand:400,300,700" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="http://static.sampleroom.ph/catalog/view/theme/sampleroom/stylesheet/fonts.css?v=1">
-<link rel="stylesheet" type="text/css" href="http://static.sampleroom.ph/catalog/view/theme/sampleroom/stylesheet/font-awesome/css/font-awesome.css?v=2">
-<link rel="stylesheet" type="text/css" href="http://static.sampleroom.ph/catalog/view/theme/sampleroom/stylesheet/stylesheet.css?v=2">
+<link rel="stylesheet" type="text/css" href="http://static.sampleroom.ph/catalog/view/theme/sampleroom/stylesheet/fonts.css?v=2">
+<link rel="stylesheet" type="text/css" href="http://static.sampleroom.ph/catalog/view/theme/sampleroom/stylesheet/font-awesome/css/font-awesome.css?v=3">
+<link rel="stylesheet" type="text/css" href="http://static.sampleroom.ph/catalog/view/theme/sampleroom/stylesheet/stylesheet.css?v=20">
 
 <base href="http://www.sampleroom.ph/">
 <link href="http://static.sampleroom.ph/image/data/faviconSR.png" rel="icon">
@@ -80,7 +113,28 @@ DD_belatedPNG.fix('#logo img');
 </script>
 </head>
 <body>
-
+	<div class="menu-overlay"></div>
+        <div class="mobile-overlay"></div>
+        <nav id="menu">
+	    <ul>
+		<li class="search">
+			<input id="mobile-search" type="text" placeholder="Search keyword">
+			<img src="catalog/view/theme/sampleroom/images2/mobile-search-icon.png">
+			<div class="CLR"></div>
+		</li>
+		<li class="menu-divider"></li>
+		<li><a href="http://www.sampleroom.ph/index.php?route=common/home">home</a></li>
+		<li><a href="about-us">about</a></li>
+		<li><a href="how-it-works">how it works</a></li>
+		<li><a href="vip">VIP</a></li>
+		<li><a href="faqs">FAQ</a></li>
+		<li><a href="index.php?route=product/manufacturer">brand partners</a></li>
+		<li><a href="http://blog.sampleroom.ph/">our blog</a></li>
+		<li><a href="http://blog.sampleroom.ph/partner-bloggers">partner bloggers</a></li>
+		<li><a href="careers">careers</a></li>
+		<li><a href="index.php?route=information/contact">contact us</a></li>
+	    </ul>
+        </nav>
 	<div class="whitewrap">
 		<div class="header">
 			<!-- Top Links -->
@@ -99,9 +153,21 @@ DD_belatedPNG.fix('#logo img');
 			<!-- Top Links END -->
 			<!-- Header -->
 			<div class="header-content">
+
+				<a id="slideout" href="#menu"><img src="catalog/view/theme/sampleroom/images2/mobile-nav-arrow.png"></a>
 				<div class="logo">
 					<a href="http://www.sampleroom.ph/index.php?route=common/home"><img src="catalog/view/theme/sampleroom/images2/sample-room-logo.png"></a>
 				</div>
+                                <div class="profile-icon">
+					<a href="#"><img src="catalog/view/theme/sampleroom/images2/profile-icon.png"></a>
+				</div>
+                                <div class="profile-icon-menu">
+   					<ul>
+					    					    <li class="menu-cart-li"><img src="catalog/view/theme/sampleroom/images2/shopping-bag.jpg"><a href="javascript:;" onclick="location.href='index.php?route=checkout/cart';">My Shopping Bag: <span class="menu-cart">0 </span></a><div class="CLR"></div></li>
+					    					    <li class="last"><a href="index.php?route=account/login">Log in / Register</a></li>
+					    					</ul>
+				</div>
+
 				<div class="right-pane">
 					<div class="search-bar">
 						<input type="text" name="filter_searchanywhere" value="">
@@ -148,27 +214,50 @@ DD_belatedPNG.fix('#logo img');
 			</div>
 		</div>
 		<!-- Header Nav -->
-	    <div class="navigation">
-				<ul>
-					<li><a href="skin-care">Skin Care</a></li>
-					<li><a href="hair-care">Hair Care</a></li>
-					<li><a href="body-care">Body Care</a></li>
-					<li><a href="fragrance">Fragrance</a></li>
-					<li><a href="cosmetics">Cosmetics</a></li>
-					<li><a href="tools">Tools</a></li>
-					<li><a href="health">Health</a></li>
-					<li><a href="slimming">Slimming</a></li>
-					<li><a href="lifestyle">Lifestyle</a></li>
-					<li><a href="baby">Baby</a></li>
-					<li><a href="living">Living</a></li>
-				</ul>
+	        <div class="navigation">
+		    <ul>
+		        <li><a href="skin-care">Skin Care</a></li>
+			<li><a href="hair-care">Hair Care</a></li>
+			<li><a href="body-care">Body Care</a></li>
+			<li><a href="fragrance">Fragrance</a></li>
+			<li><a href="cosmetics">Cosmetics</a></li>
+			<li><a href="tools">Tools</a></li>
+			<li><a href="health">Health</a></li>
+			<li><a href="slimming">Slimming</a></li>
+			<li><a href="lifestyle">Lifestyle</a></li>
+			<li><a href="baby">Baby</a></li>
+			<li><a href="living">Living</a></li>
+		    </ul>
 		</div>
+
+                <div class="mobile-navigation">
+                    <div class="category-selected">
+                        <a href="#">Select Category</a>
+                    </div>
+		    <div class="sort-menu"><a href="#"></a></div>
+                    <ul class="mobile-categories">
+		        <li><a href="skin-care">Skin Care</a></li>
+	    		<li><a href="hair-care">Hair Care</a></li>
+			<li><a href="body-care">Body Care</a></li>
+		   	<li><a href="fragrance">Fragrance</a></li>
+			<li><a href="cosmetics">Cosmetics</a></li>
+		  	<li><a href="tools">Tools</a></li>
+			<li><a href="health">Health</a></li>
+			<li><a href="slimming">Slimming</a></li>
+			<li><a href="lifestyle">Lifestyle</a></li>
+			<li><a href="baby">Baby</a></li>
+			<li><a href="living">Living</a></li>
+                    </ul>
+
+                    <div class="CLR"></div>
+		</div>
+               
 		<div class="float-social">
-            <a href="https://www.facebook.com/sampleroomph" target="_blank"><img src="catalog/view/theme/sampleroom/images2/socialmedia-fb.png"></a>
-            <a href="https://twitter.com/sampleroomph" target="_blank"><img src="catalog/view/theme/sampleroom/images2/socialmedia-tw.png"></a>
-            <a href="http://instagram.com/sampleroomph" target="_blank"><img src="catalog/view/theme/sampleroom/images2/socialmedia-ig.png"></a>
-            <a href="mailto:info@sampleroom.ph"><img src="catalog/view/theme/sampleroom/images2/socialmedia-em.png"></a>
-        </div>
+                    <a href="https://www.facebook.com/sampleroomph" target="_blank"><img src="catalog/view/theme/sampleroom/images2/socialmedia-fb.png"></a>
+                    <a href="https://twitter.com/sampleroomph" target="_blank"><img src="catalog/view/theme/sampleroom/images2/socialmedia-tw.png"></a>
+                    <a href="http://instagram.com/sampleroomph" target="_blank"><img src="catalog/view/theme/sampleroom/images2/socialmedia-ig.png"></a>
+                    <a href="mailto:info@sampleroom.ph"><img src="catalog/view/theme/sampleroom/images2/socialmedia-em.png"></a>
+                </div>
 		<!-- Header Nav END -->
 
         <div class="content-wrapper">
@@ -185,6 +274,7 @@ DD_belatedPNG.fix('#logo img');
     
 
 
+  <div class="info-page">
   <div class="category-title" style="padding: 30px 0 10px 0">
 	<span>PRIVACY POLICY</span></div>
 <div class="infopageonecol">
@@ -337,6 +427,7 @@ DD_belatedPNG.fix('#logo img');
 </div>
 <p>
 	&nbsp;</p>
+  </div>
   
     
 
@@ -457,11 +548,6 @@ $(function(){
 $(".tooltip").tipTip();
 });
 </script>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 </body></html>
