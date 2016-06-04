@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleplanes.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141412id_/http%3A//www.simpleplanes.com/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleplanes.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604064635id_/http%3A//www.simpleplanes.com/About/PrivacyPolicy) for the most accurate reproduction.*
 
 # SimplePlanes | Privacy Policy
 
@@ -17,7 +17,7 @@ The airplanes, comments, and ratings you post on SimplePlanes.com are not privat
 #### How we use your information
 
 **Your information is not for sale**  
-We only share your personal information with your consent, and after letting you konw what information will be shared and with whom, unless it is otherwise permitted in this policy. 
+We only share your personal information with your consent, and after letting you know what information will be shared and with whom, unless it is otherwise permitted in this policy. 
 
 **We will not disclose your information unless required by law**  
 We may disclose – or preserve for future disclosure – your information if we believe, after due consideration, that doing so is reasonably necessary to comply with a law, regulation, or valid legal process. 
