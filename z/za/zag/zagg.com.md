@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zagg.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201025048id_/http%3A//www.zagg.com/us/en_us/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zagg.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604034542id_/http%3A//www.zagg.com/us/en_us/company/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
