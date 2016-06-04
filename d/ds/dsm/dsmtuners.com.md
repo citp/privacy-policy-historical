@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dsmtuners.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205020241id_/http%3A//www.dsmtuners.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsmtuners.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604080550id_/http%3A//www.dsmtuners.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DSMtuners
+
+[](http://bit.ly/1r4pddX)
 
 **What we collect**  
 DSMtuners collects personal information from you when you register to participate, enter a contest, or complete a survey on our website. Personal information consists of your email address, first name, last name, and password. In some rare cases, like for contests, we'll ask for street address and zip code. If you enter a sweepstakes, contest or survey we may also ask you for some demographic information such as your age or income range. Other information collected may include your IP address, browser type and operating system. 
@@ -15,3 +17,5 @@ We set and access cookies on your computer each time you access our website. The
 We occasionally send out email to our members to announce site news and updates (no more than once per month). This email only goes out to those who have chosen to receive email from our website administrators. If you no longer wish to receive news or updates, you can change this option setting in your profile. You can also adjust your settings to not receive emails from other others through our website if you like. Allowing other members to email you does not mean your email address is visible to anyone. Only if you reply to an email sent from a member of the website through our system will that member be able to view your email address. 
 
 This policy is subject to change, so please check back periodically. Direct all questions regarding this policy to the [webmaster](https://web.archive.org/misc/contact).
+
+Support Vendors who Support the DSM Community
