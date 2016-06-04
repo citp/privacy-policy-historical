@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gleam.io privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906011854id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gleam.io privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604232640id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
 
 # Gleam Privacy Policy
 
@@ -77,7 +77,15 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 ## Notice To European Users
 
-leam's primary business operations are located in the USA, by providing information to us you agreeing that it will be transferred and stored out of the European Union.
+Gleam.io complies with the US – EU and US – Swiss Safe Harbor Frameworks for protecting the privacy of data flowing from the EU and Switzerland to the United States, as set forth by the US Department of Commerce.
+
+In providing our Service, we do not own, control or direct the use of the information stored or processed on our platform at the direction of our customers, and in fact we are largely unaware of what information is being stored on our platform and only access such information as authorised by our customers or as required by law.
+
+Only you are entitled to access, retrieve and direct the use of such information. As such, we are only the "data exporters" and not the "data importers" of the information on our platform for purposes of the EU Directive on Data Protection (Directive 95/46/EC) and the Swiss Federal Act on Data Protection. Our EU or Swiss customers, who control their customer data and send it to Gleam.io for processing, are the "importers" of that data and are responsible for compliance with the Directive. In particular, Gleam.io's customers are responsible for complying with the Directive and relevant data protection legislation in the relevant EU member state before sending personal information to Gleam.io for processing.
+
+Gleam's primary business operations are located in the USA, by providing information to us you are agreeing that data can be transferred and stored outside of the European Union in accordance with EU Directive on Data Protection (Directive 95/46/EC) and the Swiss Federal Act on Data Protection.
+
+You can contact us directly via a support ticket to get a copy of our Data Transfer Clauses for your records and compliance.
 
 ## Third Party Websites
 
@@ -103,4 +111,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [hello@gleam.io](mailto:hello@gleam.io)
 
-This document was last updated on July 30, 2015
+This document was last updated on February 1, 2016
