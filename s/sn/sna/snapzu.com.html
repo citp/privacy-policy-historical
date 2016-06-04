@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the snapzu.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906092138id_/http%3A//snapzu.com/teamsnapzu/snapzu-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snapzu.com privacy policy that was archived on 2016-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160604100103id_/http%3A//snapzu.com/teamsnapzu/snapzu-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" class=""><head>
 <meta charset="utf-8">
-<meta name="viewport" width="device-width">
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="p:domain_verify" content="1ad56a35f3043ea1dc69d45aa04705b4">
 	<meta name="twitter:site" content="@Snapzu">
@@ -15,21 +15,21 @@
 <title>Snapzu Privacy Policy - Snapzu.com</title>
 
 
-<link rel="stylesheet" media="screen" href="/public/css/default/bootstrap.css?807">
-<link rel="stylesheet" media="screen" href="/public/css/default/bootstrap-theme.css?807">
+<link rel="stylesheet" media="screen" href="/public/css/default/bootstrap.min.css?825">
+<link rel="stylesheet" media="screen" href="/public/css/default/bootstrap-theme.css?825">
 
-<link rel="stylesheet" media="screen" href="/public/css/default/style_general.css?807">
-<link rel="stylesheet" media="screen" href="/public/css/default/style.css?807">
-<link rel="stylesheet" media="screen" href="/public/css/default/style_popup.css?807">
+<link rel="stylesheet" media="screen" href="/public/css/default/style_general.css?825">
+<link rel="stylesheet" media="screen" href="/public/css/default/style.css?825">
+<link rel="stylesheet" media="screen" href="/public/css/default/style_popup.css?825">
 
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/public/jsmin/plugins/jquery-1.8.3.min.js?804"></script>
-<script src="/public/jsmin/default/script.js?804"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/public/jsmin/plugins/jquery-1.8.3.min.js?817"></script>
+<script src="/public/jsmin/default/script.js?817"></script>
 <script type="text/javascript" language="javascript">
 	var no_profile_context = new Array('t','admin','bookmarklet','bugtracking','checkpoint','maintenance','main','notification','s','error','find','search','template','test','tst','token','user','peeper','webhook','webserver','rss');
 </script>
-<script src="/public/jsmin/default/script_async.js?804" async=""></script>
+<script src="/public/jsmin/default/script_async.js?817" async=""></script>
 
 
 <script> 
@@ -37,6 +37,16 @@
 			
 	var layoutWidth;
 	var ie = false; 
+	
+	function is_touch_device() {
+	  return 'ontouchstart' in window || navigator.maxTouchPoints;
+	};
+	
+	if(is_touch_device()) {
+		var root = document.documentElement;
+		root.className += ' touch';
+	}	
+	
 </script>
 
 <script> 
@@ -48,7 +58,7 @@
 </script>
 
 <!--[if IE 9]>
-<link type="text/css" href="/public/css/default/ie9Fix.css?807" rel="stylesheet" media="all" />
+<link type="text/css" href="/public/css/default/ie9Fix.css?825" rel="stylesheet" media="all" />
 <script>
     ie = 9;
 </script>
@@ -56,22 +66,22 @@
 
 <!--[if lte IE 8]>
 <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-<script src="/public/jsmin/plugins/ie6/warning.js?804"></script>
+<script src="/public/jsmin/plugins/ie6/warning.js?817"></script>
 <script>window.onload=function(){e("/public/jsmin/plugins/ie6/")}</script>
 <link href="/public/css/default/ieWarning.css" rel="stylesheet" />
 <![endif]-->
 
-<script src="/public/jsmin/plugins/matchMedia.js?804"></script>
-<script src="/public/jsmin/plugins/enquire.min.js?804"></script>
+<script src="/public/jsmin/plugins/matchMedia.js?817"></script>
+<script src="/public/jsmin/plugins/enquire.min.js?817"></script>
 <script>
 
-	enquire.register("screen and (max-width: 720px)", {	
+	enquire.register("screen and (max-width: 767px)", {	
 		match : function() { layoutCallback(0) }, 		
 	}).listen(1);
-	enquire.register("screen and (min-width: 721px) and (max-width: 980px)", {	
+	enquire.register("screen and (min-width: 768px) and (max-width: 991px)", {	
 		match : function() { layoutCallback(1)},     		
 	}).listen(1);
-	enquire.register("screen and (min-width: 981px) and (max-width: 1240px)", {	
+	enquire.register("screen and (min-width: 992px) and (max-width: 1240px)", {	
 		match : function() { layoutCallback(2)},     		
 	}).listen(1);
 	enquire.register("screen and (min-width: 1241px) and (max-width: 1480px)", {	
@@ -222,19 +232,58 @@
 			<h1><a href="/"><img src="/public/gfx/default/snapzu-logo.png" width="53" height="44" alt="Snapzu"></a></h1>
 		</div>
 		
-		<div class="userMenu">	
+		<div class="userMenu loggedOutMenu">	
 		
-							<ul class="menuItems">
+							<span class="menuToggleBtn pointer">
+    <span onclick="$('#loggedOut-menu').toggleClass('show')" class="tabMenuToogle navbar-toggle margin-left-10">                
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>            
+    </span>
+</span>
 
-	<li class="searchPanel">
+<ul class="menuItems" id="loggedOut-menu">
+
+	<li class="searchPanel hidden-xs">
     	<span class="toggleBtn" onclick="showLogin();"><span class="icon-search"></span></span>
 	</li>
 	<li class="login">
 		<a href="/login" class="user">Log In</a>
-	</li>	
+	</li>
+    
 		<li class="register">
         <a href="/register" class="account"><span class="title">Join</span> <span class="icon-plus"></span> <span class="icon-user"></span></a>
-	</li>	
+	</li>       
+     
+    <div class="submenuTribs visible-xs">
+	<ul class="list">
+									<li class="tribe"><a href="/t/lounge" class="lounge"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/98/31/70/lounge/93e1edc17705793c.jpg" alt=""><span class="name">LOUNGE</span></a></li>
+												<li class="tribe"><a href="/t/asksnapzu"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/b5/d7/39/asksnapzu/d9ef43efeea2d504.jpg" alt=""><span class="name">asksnapzu</span></a></li>
+												<li class="tribe"><a href="/t/newtribes"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/6a/7a/15/newtribes/96864bc2a52f8505.jpg" alt=""><span class="name">newtribes</span></a></li>
+												<li class="tribe"><a href="/t/science"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/7b/33/c3/science/48c8b91af099d501.jpg" alt=""><span class="name">science</span></a></li>
+												<li class="tribe"><a href="/t/technology"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/2f/48/c2/technology/454ff7dfa1f1e10f.jpg" alt=""><span class="name">technology</span></a></li>
+												<li class="tribe"><a href="/t/futurism"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/57/9c/b5/futurism/a2ee90bd681c00bc.jpg" alt=""><span class="name">futurism</span></a></li>
+												<li class="tribe"><a href="/t/pics"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/94/c0/1b/pics/198ec20cdf4ea94f.jpg" alt=""><span class="name">pics</span></a></li>
+												<li class="tribe"><a href="/t/videos"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/49/73/54/videos/4d9f588c7f3109e3.jpg" alt=""><span class="name">videos</span></a></li>
+												<li class="tribe"><a href="/t/funny"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/1f/d0/38/funny/01994fdf25d2c155.jpg" alt=""><span class="name">funny</span></a></li>
+												<li class="tribe"><a href="/t/gaming"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/63/29/4a/gaming/2753398eabddeae0.jpg" alt=""><span class="name">gaming</span></a></li>
+												<li class="tribe"><a href="/t/health"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/1d/c1/5c/health/a9f5ee9986045515.jpg" alt=""><span class="name">health</span></a></li>
+												<li class="tribe"><a href="/t/books"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/51/c4/46/books/5514725356ef57da.jpg" alt=""><span class="name">books</span></a></li>
+												<li class="tribe"><a href="/t/history"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/48/9d/eb/history/6dd39bc00d73d125.jpg" alt=""><span class="name">history</span></a></li>
+												<li class="tribe"><a href="/t/worldnews"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/eb/36/b9/worldnews/ca9141ca72e38d2f.jpg" alt=""><span class="name">worldnews</span></a></li>
+												<li class="tribe"><a href="/t/web"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/12/82/e9/web/5ba88cc029e57697.jpg" alt=""><span class="name">web</span></a></li>
+												<li class="tribe"><a href="/t/research"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/47/ba/7f/research/9efb9c2738040858.jpg" alt=""><span class="name">research</span></a></li>
+												<li class="tribe"><a href="/t/food"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/85/36/c2/food/432a532297a59e6a.jpg" alt=""><span class="name">food</span></a></li>
+												<li class="tribe"><a href="/t/entertainment"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/76/ed/13/entertainment/8fb78595b6007a91.jpg" alt=""><span class="name">entertainment</span></a></li>
+												<li class="tribe"><a href="/t/living"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/90/29/e5/living/fa5d5f2fb06c90fc.jpg" alt=""><span class="name">living</span></a></li>
+												<li class="tribe"><a href="/t/mobile"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/a8/97/a1/mobile/ef1071911edfcb21.jpg" alt=""><span class="name">mobile</span></a></li>
+												<li class="tribe"><a href="/t/socialmedia"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/a2/94/c6/socialmedia/0869d6bcb211bf37.jpg" alt=""><span class="name">socialmedia</span></a></li>
+												<li class="tribe"><a href="/t/space"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/be/33/bf/space/9fb67a07140223b6.jpg" alt=""><span class="name">space</span></a></li>
+												<li class="tribe"><a href="/t/photography"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/28/60/37/photography/aa5df007650b2c52.jpg" alt=""><span class="name">photography</span></a></li>
+												<li class="tribe"><a href="/t/movies"><img class="tribe-icon" src="http://s1.storage.snapzu.com/en/dc/d0/bf/movies/449c812c1cf3f0a9.jpg" alt=""><span class="name">movies</span></a></li>
+						</ul>
+	<div class="text-center margin-left-15 margin-right-15"><a class="btn btn-default btn-lg width-100" href="/tribeindex">Browse Communities</a></div>
+</div>
 
 </ul>
 
@@ -257,46 +306,67 @@
                       
 		</header>
 
-			<div id="profile-background-top" class="banerContainer" style="background-image:url(http://s2.storage.snapzu.com/ba/b3/26/d6/teamsnapzu/banner/dcdb466150426a64_top.jpg)">
+			<div id="profile-background-top" class="banerContainer sd" style="background-image:url(http://s2.storage.snapzu.com/ba/b3/26/d6/teamsnapzu/banner/dcdb466150426a64_top.jpg)">
 				<div class="duplicateBG"></div>
-<nav class="menuBar">
+<nav class="menuBar menuBar-user">
 	<div class="container">		
         
 		<div class="userExtras">
+            
 			
-				
-					
+			<span id="top-menu-follow-private-message" class="hidden-xs">
 						
-		</div>
-		<script src="/public/jsmin/default/follow.js?804"></script>	
+			</span>
+
+            <div class="btn btn-toggle pointer navbar-toggle" onclick="$('#menu-items').toggleClass('show');"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></div>
+            
+                            <div class="btn btn-toggle pointer visible-md-inline-block" onclick="toggleSnapBar(this);"><span class="icon-sidebar"></span></div>
+            		</div>
+
+        
+		<script src="/public/jsmin/default/follow.js?817"></script>	
         	       
 		<div class="userProfile">
 
 	<div class="profilePhotoContainer" id="profile_photo">
 		<a href="/teamsnapzu/overview" class="profilePhoto">
 			<img id="rank-icon" src="http://s2.storage.snapzu.com/ba/b3/26/d6/teamsnapzu/profile/1c9d1113d6a045db.jpg" alt="">
-		</a>
+		</a>        
 	</div>        
 	
 		
+    
+    <a href="/teamsnapzu/home" class="profileName">
+    	teamsnapzu<br>
+        <span class="rank">LEVEL <span>21</span></span> <span class="grey">/</span> <span class="xp">REP <span>90</span></span>
+    </a>
 
 </div>
-        
-		<ul class="menuItems">
-							<li class="btnItem userHome">
+
+		<ul class="menuItems" id="menu-items">
+							<li class="btnItem userHome hidden-xs hidden-sm">
                 	<a href="/teamsnapzu/home" class="transition">
                 	teamsnapzu
-                	<span class="rank">LEVEL <span>20</span></span>
-					<span class="xp">REP <span>89</span></span>
+                	<span class="rank">LEVEL <span>21</span></span>
+					<span class="xp">REP <span>90</span></span>
                     </a>
                 </li>
-				<li class="btnItem"><a href="/teamsnapzu/schest" class="transition"> Posts <span class="count">133</span></a></li>
+				<li class="btnItem"><a href="/teamsnapzu/schest" class="transition"> Posts <span class="count">136</span></a></li>
 				<li class="btnItem"><a href="/teamsnapzu/following" class="transition">Following <span class="count">0</span></a></li>
-				<li class="btnItem"><a href="/teamsnapzu/followers" class="transition">Followers <span class="count">20637</span></a></li>
+				<li class="btnItem"><a href="/teamsnapzu/followers" class="transition">Followers <span class="count">22222</span></a></li>
 				<li class="btnItem"><a href="/teamsnapzu/tribes/" class="transition">Tribes <span class="count">6</span></a></li>
             
-							<li class="btnItem"><a href="/teamsnapzu/snapzine" class="btn btn-primary btn-xs transition">Saved<br><span class="count">5496</span></a></li>
-					</ul>
+							<li class="btnItem"><a href="/teamsnapzu/snapzine" class="transition">Saved <span class="count">9425</span></a></li>
+			            
+            <li class="userExtras visible-xs">
+                	
+
+                <span id="top-menu-mobile-follow-private-message">
+                    		
+                </span>
+                        
+            </li>
+		</ul>
         
         <div class="pull-right" id="template_right_on_menu">
                       <aside class="snapBar">
@@ -312,15 +382,15 @@
 					
 									<li>
 						<a href="/t/help/" class="voteBar">
-							<span class="progress" style="width: 33%" id="tribe-share-2"></span>
+							<span class="progress" style="width: 36%" id="tribe-share-2"></span>
 							<span class="tribeName">help</span>
-							<span class="points">+7</span>
+							<span class="points">+8</span>
 						</a>
 					</li>
 							
 									<li>
 						<a href="/" class="voteBar highlight">
-							<span class="progress" style="width: 33%"></span>
+							<span class="progress" style="width: 32%"></span>
 							<span class="sourceName">Front Page</span>
 							<span class="points">+7</span>
 						</a>
@@ -328,7 +398,7 @@
 							
 									<li>
 						<a href="/teamsnapzu/" class="voteBar">
-							<span class="progress" style="width: 33%"></span>
+							<span class="progress" style="width: 32%"></span>
 							<span class="sourceName">Local Feed</span>
 							<span class="points">+7</span>
 						</a>
@@ -339,7 +409,7 @@
 </section>
 	
 			
-			<h3 class="socialHeader">Share with friends!</h3>
+			<h3 class="socialHeader">Share this page:</h3>
 						
 			<div class="socialListButtons">
 		
@@ -351,7 +421,7 @@
 			
 
 	</aside>
-	<div class="snapBarHelper" style="height: 213px;"></div>
+	<div class="snapBarHelper"></div>
 	
 	<script>
 		
@@ -400,17 +470,78 @@
                 	<!-- right.tpl -->
 				</aside>
 				<div class="content" id="section_middle">
-					<header class="site">
+					<header class="site text-xs-center">
 
-	<script src="/public/jslang/modules/dictionary_en.js?804"></script>
-<script src="/public/jsmin/default/snap.js?804"></script>
+	<script src="/public/jslang/modules/dictionary_en.js?817"></script>
+<script src="/public/jsmin/default/snap.js?817"></script>
 	
 	
 		
 </header>
 
 		
+						<div id="snap-display-hook" style="display:none">
+			<div class="inviteHook">
+
+				<h1>Welcome to our invite-only web community!</h1>
+
+				<div class="formBox">
+					<form id="invite_form" onsubmit="sendInviteRequestHook(); return false;">
+
+						<input type="hidden" name="invite_form[ctoken]" value="32a2473ce4bc6f56fd8487418783266b">
+						<input type="hidden" name="invite_form[from]" value="snap">
+
+							<p class="hidden-xs">
+								We are always on the lookout for early adopters that enjoy interacting and collaborating with other like-minded people on popular topics such as:  
+								
+																
+									<br>
+								
+																		
+																		
+									<a href="/t/help/">help</a>
+									
+																		
+															</p>
+
+							<ul class="formList">
+								<li><input type="text" data-valid="email_check" id="invite" name="invite_form[email]" placeholder="your e-mail here"></li>
+							</ul>
+
+							<div class="errorInfo">
+								<ul></ul>
+							</div>
+
+							<div id="btn_user_register" class="btn btn-info btn-xlg"><input type="submit" value="request invite">Request Invite</div>
+
+						<div class="bottomLinks">
+							<a href="javascript:;" onclick="setSnapHookCookie();closePopup()">No thanks</a>, I'll jump on board when the bandwagon is full.
+						</div>
+
+					</form>					
+                    
+                    <div id="invite_success" style="display:none;">
+                   		<h1>Thank you</h1>                    
+                    	<p class="lead">Your email has been added to our waiting list and we will send an invite to you as soon as possible. Thank you for your patience.</p>                    
+                    	<h4>Help spread the word about Snapzu:</h4>                    
+                    	<p class="tiny">Let others know about Snapzu by tweeting about us. We appreciate every mention!</p>
+                    	<a href="javascript:void(0)" class="btn btn-info btn-xlg socialBtn T" onclick="windowPopup('twitter-share', 'https://twitter.com/intent/tweet?url=http%3A%2F%2Fsnapzu.com%2Fteamsnapzu%2Fwhat-is-snapzu&amp;via=Snapzu&amp;text=Signed%20up%20and%20hyped%20for%20Reddit-like%20platform%20Snapzu%27s%2050%2F50%20partnership%20program.%20Stay%20tuned!%20http%3A%2F%2Fsnapzu.com%2Freferralprogram%20via%20%40Snapzu.', 600, 400); return false;"><span class="icon-twitter"></span> Tweet it!</a>
+        			</div>
+                                                
+				</div>
+
+				<script type="text/javascript" language="javascript" src="/public/js/default/account.js?817"></script>
+				<script type="text/javascript">
+					// <![CDATA[
+					$(document).ready(function(){
+						showHook = setTimeout(function(){ SnapDisplayHook(); clearTimeout(showHook); }, 10000);
+					});
+					// ]]>
+				</script>
 				
+			</div>
+		</div>
+	
 		<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 
 			
@@ -427,9 +558,9 @@
      
            
     <div class="voteCount">
-        <span id="snap_fps">+16</span>
-        <span class="details" style="cursor: pointer" onclick="showDownVotesSummary('8376')">
-            <span class="green">16</span>
+        <span id="snap_fps">+19</span>
+        <span class="details" style="cursor: pointer" onclick="showDownVotesSummary('8376', this)">
+            <span class="green">19</span>
             <span class="red">0</span>
         </span>
     </div>
@@ -437,14 +568,15 @@
         </div>
     
                 
-                    <span>Published 2 years ago  with <a href="#snap-comments">5 Comments</a></span>
+                    <span>Published 3 years ago  with <a href="#snap-comments">6 Comments</a></span>
                 
         <div class="pull-right">
     
                     
             <div class="pinSnapzine" id="pinup-container">
         
-                                    	<a href="javascript:void(0)" class="btn btn-default btn-sm pinBtn" onclick="showLogin()"><span class="icon-star-empty"></span> Save</a>
+                                    	<a href="javascript:void(0)" class="btn btn-default btn-sm pinBtn hidden-xs" onclick="showLogin()"><span class="icon-star-empty"></span> Save</a>
+	<a href="javascript:void(0)" class="btn btn-white btn-sm pinBtn visible-xs" onclick="showLogin()"><span class="icon-star-empty"></span> Save</a>
 
 	<span class="count" onclick="showPinupStats('8376', 1, 0)">0 saves</span>
 	
@@ -452,14 +584,36 @@
                             
             </div>
         
-                        
+               
+                    
+            <div onclick="toggleSnapBar(this);" class="btn btn-toggle pointer visible-xs-inline-block"><span class="icon-sidebar"></span></div>
+
+            
        </div> 
         
     </div>        
 
 	<header itemscope="" itemtype="http://schema.org/CreativeWork" class="snapTitle">
 
-				
+
+		<div class="cover  hidden-sm hidden-md hidden-lg" style="background-image:url('http://s2.storage.snapzu.com/ba/b3/26/d6/teamsnapzu/snaps/0a/59/8376/thumbs/35fb8e34a12aab22_fpi_large.jpg')">
+            		           
+            <div class="summaryBox visible-xs">            
+                <a href="/teamsnapzu/overview" class="avatar">
+                    <img id="rank-icon" src="http://s2.storage.snapzu.com/ba/b3/26/d6/teamsnapzu/profile/1c9d1113d6a045db.jpg" alt="">
+                </a>
+                <span class="author">by <a href="/teamsnapzu/overview">teamsnapzu</a></span>
+                
+                                    <div class="pull-right">
+                    	<span class="date">3 years ago</span>
+                                                <a href="#snap-comments" class="comments"><span class="count">6</span></a>
+                                        	</div>
+                                
+            </div>  
+                      
+		</div> 
+		
+		
 		<div class="description">
 
 			<h1 class="title" itemprop="name">Snapzu Privacy Policy</h1>
@@ -551,10 +705,10 @@
 		
 			
 	</ul>
-	<div class="text-right">
+	<div class="text-right text-xs-center">
     
             		
-        <spna class="lightGrey pull-left margin-top-5">No related links added yet. Be the first!</spna>		<div class="manage" id="related_links_manage_outer">
+        <spna class="lightGrey pull-left pull-xs-none margin-top-5 text-left">No related links added yet. Be the first!</spna>		<div class="manage" id="related_links_manage_outer">
 				<span class="btn btn-default btn-sm" onclick="showLogin()">Add Related Link</span>
 	</div>
         
@@ -564,10 +718,10 @@
 </div>
 		
 	</div>
-	<script src="/public/jsmin/plugins/jquery.ba-resize.min.js?804"></script>
+	<script src="/public/jsmin/plugins/jquery.ba-resize.min.js?817"></script>
 <form id="comments-filters-form">
 	
-	<input type="hidden" name="comments_filters[ctoken]" value="4a4c6a8930904693f4417b937642fdcf">
+	<input type="hidden" name="comments_filters[ctoken]" value="32a2473ce4bc6f56fd8487418783266b">
 	<input type="hidden" name="comments_filters[snap_id]" id="comments-filter-snap_id" value="8376">
 	<input type="hidden" name="comments_filters[sort_by]" id="comments-filter-sort_by" value="best">
 	<input type="hidden" name="comments_filters[tier]" id="comments-filter-tier" value="auto">
@@ -622,9 +776,10 @@
 							</span>
 			namlem
 		</a>
-		
+		       
 	
 
+        
         
         <div class="vote" id="comment-rate-10236">	
         
@@ -650,8 +805,10 @@
 	
 
 <div class="bottom " id="links-10236">
-				<div class="replyCount" onclick="showHideTread(this)">4 Replies</div>
-	
+		<div class="date">
+        2 years ago
+    </div> 
+
 			<div class="replyBox" onclick="showLogin();">Reply</div>
 	
 	<a href="/teamsnapzu/snapzu-privacy-policy/comments/10236" class="permaLink">Link</a>
@@ -662,11 +819,9 @@
 
 	
 					</span>
+	    
+			<div class="replyCount" onclick="showHideTread(this)">4 Replies</div>
 	
-	<div class="date">
-		1 year ago
-	</div>
-
 </div>
 
 
@@ -689,6 +844,7 @@
                                 teamsnapzu
             </a>
                         
+        
         <div class="vote" id="comment-rate-10238">	
         
 
@@ -715,8 +871,10 @@
 	
 
 <div class="bottom " id="links-10238">
-				<div class="replyCount" onclick="showHideTread(this)">3 Replies</div>
-	
+		<div class="date">
+        2 years ago
+    </div> 
+
 			<div class="replyBox" onclick="showLogin();">Reply</div>
 	
 	<a href="/teamsnapzu/snapzu-privacy-policy/comments/10238" class="permaLink">Link</a>
@@ -727,11 +885,9 @@
 
 	
 					</span>
+	    
+			<div class="replyCount" onclick="showHideTread(this)">3 Replies</div>
 	
-	<div class="date">
-		1 year ago
-	</div>
-
 </div>
 
 
@@ -753,7 +909,8 @@
                                             </span>
                                 teamsnapzu
             </a>
-                <span class="editDate">(edited 1 year ago)</span>        
+                <span class="editDate">(edited 2 years ago)</span>        
+        
         <div class="vote" id="comment-rate-10448">	
         
 
@@ -783,8 +940,10 @@
 	
 
 <div class="bottom " id="links-10448">
-				<div class="replyCount" onclick="showHideTread(this)">2 Replies</div>
-	
+		<div class="date">
+        2 years ago
+    </div> 
+
 			<div class="replyBox" onclick="showLogin();">Reply</div>
 	
 	<a href="/teamsnapzu/snapzu-privacy-policy/comments/10448" class="permaLink">Link</a>
@@ -795,11 +954,9 @@
 
 	
 					</span>
+	    
+			<div class="replyCount" onclick="showHideTread(this)">2 Replies</div>
 	
-	<div class="date">
-		1 year ago
-	</div>
-
 </div>
 
 
@@ -822,6 +979,7 @@
                                 MichDe
             </a>
                         
+        
         <div class="vote" id="comment-rate-10449">	
         
 
@@ -846,8 +1004,10 @@
 	
 
 <div class="bottom " id="links-10449">
-				<div class="replyCount" onclick="showHideTread(this)">1 Replies</div>
-	
+		<div class="date">
+        2 years ago
+    </div> 
+
 			<div class="replyBox" onclick="showLogin();">Reply</div>
 	
 	<a href="/teamsnapzu/snapzu-privacy-policy/comments/10449" class="permaLink">Link</a>
@@ -858,11 +1018,9 @@
 
 	
 					</span>
+	    
+			<div class="replyCount" onclick="showHideTread(this)">1 Replies</div>
 	
-	<div class="date">
-		1 year ago
-	</div>
-
 </div>
 
 
@@ -885,6 +1043,7 @@
                                 teamsnapzu
             </a>
                         
+        
         <div class="vote" id="comment-rate-10450">	
         
 
@@ -909,7 +1068,10 @@
 	
 
 <div class="bottom " id="links-10450">
-		
+		<div class="date">
+        2 years ago
+    </div> 
+
 			<div class="replyBox" onclick="showLogin();">Reply</div>
 	
 	<a href="/teamsnapzu/snapzu-privacy-policy/comments/10450" class="permaLink">Link</a>
@@ -920,11 +1082,8 @@
 
 	
 					</span>
+	    
 	
-	<div class="date">
-		1 year ago
-	</div>
-
 </div>
 
 
@@ -985,6 +1144,79 @@
 
 	
 	
+				
+
+    <ul class="comments">
+        <li>
+            <div class="comment" id="comment-84352">
+
+				<a class="user" href="/KingDaddy">
+			<span class="photo">
+									<img src="http://s2.storage.snapzu.com/fb/7a/a6/ef/KingDaddy/profile/8bbdbf66df773606_small.jpg" alt="">
+							</span>
+			KingDaddy
+		</a>
+		       
+	
+
+        
+        
+        <div class="vote" id="comment-rate-84352">	
+        
+
+			
+        <span class="voteUp" onclick="showLogin();"></span>
+		<span class="voteDown" onclick="showLogin();"></span>
+
+	
+
+<span class="voteCount">
++2
+</span> 
+
+
+	               
+    </div>
+    	
+    
+                                    <div class="desc" id="comment-body-84352"><p>Can you add details about government warrant searches and if Snapzu can provide any kind of warning or notice?</p>
+</div>
+            
+	
+
+<div class="bottom " id="links-84352">
+		<div class="date">
+        2 months ago
+    </div> 
+
+			<div class="replyBox" onclick="showLogin();">Reply</div>
+	
+	<a href="/teamsnapzu/snapzu-privacy-policy/comments/84352" class="permaLink">Link</a>
+
+	
+			<span id="comment-pin-84352">
+								<span class="pinSnapizne" onclick="showLogin();">Save</span>
+
+	
+					</span>
+	    
+	
+</div>
+
+
+
+</div>
+
+	
+	<ul id="replies-comment-84352" style="display:none;" class="replies-tier-1"></ul>
+		
+		</li>		
+	
+</ul>
+
+
+	
+	
 		
 	
 
@@ -994,9 +1226,9 @@
 </div>
 
 
-<script type="text/javascript" src="/public/jsmin/plugins/markitup/jquery.markitup.js?804"></script>
-<link rel="stylesheet" type="text/css" href="/public/jsmin/plugins/markitup/skins/markitup/snapzu_style.css?807">
-<link rel="stylesheet" type="text/css" href="/public/jsmin/plugins/markitup/sets/markdown/style.css?807">
+<script type="text/javascript" src="/public/jsmin/plugins/markitup/jquery.markitup.js?817"></script>
+<link rel="stylesheet" type="text/css" href="/public/jsmin/plugins/markitup/skins/markitup/snapzu_style.css?825">
+<link rel="stylesheet" type="text/css" href="/public/jsmin/plugins/markitup/sets/markdown/style.css?825">
 
 <script type="text/javascript">
 // <![CDATA[	
@@ -1068,104 +1300,116 @@
 	        </div>				
 	    </div>
 		
-						<div class="snapsHook ">
+						<div class="snapsHook">
 
 		<div class="container">
-			<header class="site">
+			<header class="site text-xs-center">
 				<h2>Here are some other snaps you may like...</h2>
 			</header>
-			<ul class="relatedSnaps row">
-								<li class="brickBox photo postStory">					
-					<a class="brickLink" href="/"><span class="discover">discover your<br> <strong>interests.</strong></span></a>
-					<div class="brickContent">
+			<div class="relatedSnaps row">
+				
+                    <div class="brickBox photo postStory">					
+                        <a class="brickLink" href="/"><span class="discover">discover your<br> <strong>interests.</strong></span></a>
+                        <div class="brickContent">
+    
+                            <div class="photo" style="background-image:url(/public/gfx/default/discoverYourInterest.jpg);">
+                                <img src="/public/gfx/default/discoverYourInterest.jpg" alt="">
+                            </div>
+                                                    
+                            <header>
+                                <h2><a href="/">Check out our front page for a lot more stuff!</a></h2>
+                            </header>									
+    
+                        </div><!--brickContent-->
+                    </div>
 
-						<div class="photo">
-							<img src="/public/gfx/default/discoverYourInterest.jpg" alt="">
-						</div>
-												
-						<header>
-							<h2><a href="/">Check out our front page for a lot more stuff!</a></h2>
-						</header>									
+								
+                    <div class="brickBox photo">
+                        <a class="brickLink" href="/AdelleChattre/judge-deals-a-blow-to-nsa-data-collection-program"></a>
+    
+                        <div class="brickContent">
+    
+                            <div class="photo" style="background-image:url(http://s2.storage.snapzu.com/89/2f/69/33/AdelleChattre/snaps/20/03/125457/thumbs/2b93aa1a2ddb6c93_fpi_large.jpg);">
+                                <img src="http://s2.storage.snapzu.com/89/2f/69/33/AdelleChattre/snaps/20/03/125457/thumbs/2b93aa1a2ddb6c93_fpi_large.jpg" alt="" id="image_125457">
+                            </div>
+                                                    
+                            <header>
+                                <h2><a href="/AdelleChattre/judge-deals-a-blow-to-nsa-data-collection-program">Judge Deals a Blow to N.S.A. Data Collection Program</a></h2>
+                            </header>									
+    
+                        </div><!--brickContent-->	
+                    </div><!--brickBox-->
 
-					</div><!--brickContent-->
-				</li>
-												<li class="brickBox photo">
-					<a class="brickLink" href="/AdelleChattre/21-tips-tricks-and-shortcuts-to-help-you-stay-anonymous-online"></a>
+				
+                    <div class="brickBox photo">
+                        <a class="brickLink" href="/jackthetripper/suicide-attack-kills-at-least-47-south-of-iraqi-capital"></a>
+    
+                        <div class="brickContent">
+    
+                            <div class="photo" style="background-image:url(http://s2.storage.snapzu.com/ac/bc/75/05/jackthetripper/snaps/e1/3e/140368/thumbs/893490a7dfc2007b_fpi_large.jpg);">
+                                <img src="http://s2.storage.snapzu.com/ac/bc/75/05/jackthetripper/snaps/e1/3e/140368/thumbs/893490a7dfc2007b_fpi_large.jpg" alt="" id="image_140368">
+                            </div>
+                                                    
+                            <header>
+                                <h2><a href="/jackthetripper/suicide-attack-kills-at-least-47-south-of-iraqi-capital">Suicide Attack Kills at Least 47 South of Iraqi Capital</a></h2>
+                            </header>									
+    
+                        </div><!--brickContent-->	
+                    </div><!--brickBox-->
 
-					<div class="brickContent">
+				
+                    <div class="brickBox photo">
+                        <a class="brickLink" href="/zritic/file-says-nsa-found-way-to-replace-email-program"></a>
+    
+                        <div class="brickContent">
+    
+                            <div class="photo" style="background-image:url(http://s2.storage.snapzu.com/d2/bf/30/f8/zritic/snaps/59/e2/126794/thumbs/22027cd0efe9f84e_fpi_large.jpg);">
+                                <img src="http://s2.storage.snapzu.com/d2/bf/30/f8/zritic/snaps/59/e2/126794/thumbs/22027cd0efe9f84e_fpi_large.jpg" alt="" id="image_126794">
+                            </div>
+                                                    
+                            <header>
+                                <h2><a href="/zritic/file-says-nsa-found-way-to-replace-email-program">File Says N.S.A. Found Way to Replace Email Program</a></h2>
+                            </header>									
+    
+                        </div><!--brickContent-->	
+                    </div><!--brickBox-->
 
-						<div class="photo">
-							<img src="http://s2.storage.snapzu.com/89/2f/69/33/AdelleChattre/snaps/d6/f9/73602/thumbs/10d93e346c9c1357_fpi_small.jpg" alt="" id="image_73602">
-						</div>
-												
-						<header>
-							<h2><a href="/AdelleChattre/21-tips-tricks-and-shortcuts-to-help-you-stay-anonymous-online">21 tips, tricks and shortcuts to help you stay anonymous online</a></h2>
-						</header>									
+				
+                    <div class="brickBox photo">
+                        <a class="brickLink" href="/jcscher/mozilla-keeps-your-browsing-private-with-new-tracking-protection-feature"></a>
+    
+                        <div class="brickContent">
+    
+                            <div class="photo" style="background-image:url(http://s2.storage.snapzu.com/c2/d7/13/e3/jcscher/snaps/ae/e5/124577/thumbs/557b8ed02f25312a_fpi_large.jpg);">
+                                <img src="http://s2.storage.snapzu.com/c2/d7/13/e3/jcscher/snaps/ae/e5/124577/thumbs/557b8ed02f25312a_fpi_large.jpg" alt="" id="image_124577">
+                            </div>
+                                                    
+                            <header>
+                                <h2><a href="/jcscher/mozilla-keeps-your-browsing-private-with-new-tracking-protection-feature">Mozilla Keeps Your Browsing Private With New Tracking Protection Feature</a></h2>
+                            </header>									
+    
+                        </div><!--brickContent-->	
+                    </div><!--brickBox-->
 
-					</div><!--brickContent-->	
-				</li><!--brickBox-->
-								<li class="brickBox photo">
-					<a class="brickLink" href="/AdelleChattre/patriot-act-reform-curbed-nsa-cybersecurity-bill-would-empower-it"></a>
+				
+                    <div class="brickBox photo">
+                        <a class="brickLink" href="/AdelleChattre/patriot-act-reform-curbed-nsa-cybersecurity-bill-would-empower-it"></a>
+    
+                        <div class="brickContent">
+    
+                            <div class="photo" style="background-image:url(http://s2.storage.snapzu.com/89/2f/69/33/AdelleChattre/snaps/73/23/85508/thumbs/e769a5b7a13882f1_fpi_large.jpg);">
+                                <img src="http://s2.storage.snapzu.com/89/2f/69/33/AdelleChattre/snaps/73/23/85508/thumbs/e769a5b7a13882f1_fpi_large.jpg" alt="" id="image_85508">
+                            </div>
+                                                    
+                            <header>
+                                <h2><a href="/AdelleChattre/patriot-act-reform-curbed-nsa-cybersecurity-bill-would-empower-it">Patriot Act Reform Curbed NSA; Cybersecurity Bill Would Empower It</a></h2>
+                            </header>									
+    
+                        </div><!--brickContent-->	
+                    </div><!--brickBox-->
 
-					<div class="brickContent">
-
-						<div class="photo">
-							<img src="http://s2.storage.snapzu.com/89/2f/69/33/AdelleChattre/snaps/73/23/85508/thumbs/e769a5b7a13882f1_fpi_small.jpg" alt="" id="image_85508">
-						</div>
-												
-						<header>
-							<h2><a href="/AdelleChattre/patriot-act-reform-curbed-nsa-cybersecurity-bill-would-empower-it">Patriot Act Reform Curbed NSA; Cybersecurity Bill Would Empower It</a></h2>
-						</header>									
-
-					</div><!--brickContent-->	
-				</li><!--brickBox-->
-								<li class="brickBox photo">
-					<a class="brickLink" href="/trails/criminal-inquiry-is-sought-in-clinton-email-account"></a>
-
-					<div class="brickContent">
-
-						<div class="photo">
-							<img src="http://s2.storage.snapzu.com/96/54/0e/af/trails/snaps/dd/9c/104096/thumbs/a0367ef0019d8664_fpi_small.jpg" alt="" id="image_104096">
-						</div>
-												
-						<header>
-							<h2><a href="/trails/criminal-inquiry-is-sought-in-clinton-email-account">Criminal Inquiry Is Sought in Clinton Email Account</a></h2>
-						</header>									
-
-					</div><!--brickContent-->	
-				</li><!--brickBox-->
-								<li class="brickBox photo">
-					<a class="brickLink" href="/snakeeys5/the-turn-verizon-zombie-cookie"></a>
-
-					<div class="brickContent">
-
-						<div class="photo">
-							<img src="http://s2.storage.snapzu.com/53/1c/56/50/snakeeys5/snaps/2b/a6/69218/thumbs/3f4ebbfafd6ced41_fpi_small.jpg" alt="" id="image_69218">
-						</div>
-												
-						<header>
-							<h2><a href="/snakeeys5/the-turn-verizon-zombie-cookie">The Turn-Verizon Zombie Cookie</a></h2>
-						</header>									
-
-					</div><!--brickContent-->	
-				</li><!--brickBox-->
-								<li class="brickBox photo">
-					<a class="brickLink" href="/microfracture/eff-releases-privacy-badger-10-includes-support-for-their-recently-announced-do-not-track-policy"></a>
-
-					<div class="brickContent">
-
-						<div class="photo">
-							<img src="http://s2.storage.snapzu.com/4c/62/71/ae/microfracture/snaps/de/ea/108693/thumbs/51bf2f445f27ad4c_fpi_small.jpg" alt="" id="image_108693">
-						</div>
-												
-						<header>
-							<h2><a href="/microfracture/eff-releases-privacy-badger-10-includes-support-for-their-recently-announced-do-not-track-policy">EFF releases Privacy Badger 1.0. Includes support for their recently announced Do Not Track Policy.</a></h2>
-						</header>									
-
-					</div><!--brickContent-->	
-				</li><!--brickBox-->
 									
-			</ul>
+			</div>
 			
 		</div>
 
@@ -1195,35 +1439,35 @@
 	</div>
 </footer>
 
-<script src="/public/jslang/dictionary_en.js?804"></script>
-<script src="/public/jsmin/plugins/jquery-ui-1.10.2.custom.min.js?804"></script>
-<script src="/public/jsmin/plugins/jquery.ui.nestedSortable.js?804"></script>
-<script src="/public/jsmin/plugins/swfobject.js?804"></script>
-<script src="/public/jsmin/plugins/jquery.tools.min.js?804"></script>
-<script src="/public/jsmin/plugins/jquery.masonry.min.js?804"></script>
-<script src="/public/jsmin/plugins/autosize.js?804"></script>
-<script src="/public/jsmin/plugins/jquery.visited.js?804"></script> 
-<script src="/public/jsmin/plugins/jquery.fullscreenslides.js?804"></script> 
-<script src="/public/jsmin/plugins/jquery.simplemodal-1.4.3.js?804"></script>
-<script src="/public/jsmin/plugins/jquery.mousewheel.min.js?804"></script>
-<script src="/public/jsmin/plugins/jquery.backgroundpos.min.js?804"></script>
-<script src="/public/jsmin/plugins/jquery.iframe-transport.js?804"></script>
-<script src="/public/jsmin/plugins/jquery.fileupload.js?804"></script>
+<script src="/public/jslang/dictionary_en.js?817"></script>
+<script src="/public/jsmin/plugins/jquery-ui-1.10.2.custom.min.js?817"></script>
+<script src="/public/jsmin/plugins/jquery.ui.nestedSortable.js?817"></script>
+<script src="/public/jsmin/plugins/swfobject.js?817"></script>
+<script src="/public/jsmin/plugins/jquery.tools.min.js?817"></script>
+<script src="/public/jsmin/plugins/jquery.masonry.min.js?817"></script>
+<script src="/public/jsmin/plugins/autosize.js?817"></script>
+<script src="/public/jsmin/plugins/jquery.visited.js?817"></script> 
+<script src="/public/jsmin/plugins/jquery.fullscreenslides.js?817"></script> 
+<script src="/public/jsmin/plugins/jquery.simplemodal-1.4.3.js?817"></script>
+<script src="/public/jsmin/plugins/jquery.mousewheel.min.js?817"></script>
+<script src="/public/jsmin/plugins/jquery.backgroundpos.min.js?817"></script>
+<script src="/public/jsmin/plugins/jquery.iframe-transport.js?817"></script>
+<script src="/public/jsmin/plugins/jquery.fileupload.js?817"></script>
 
 <!--[if IE 9]>
-<script src="/public/jsmin/plugins/jquery.html5-placeholder-shim.js?804"></script>
-<script src="/public/jsmin/default/ie9Fix.js?804"></script>
+<script src="/public/jsmin/plugins/jquery.html5-placeholder-shim.js?817"></script>
+<script src="/public/jsmin/default/ie9Fix.js?817"></script>
 <![endif]-->
 
 <!--[if IE 8]>
-<script type="text/javascript" language="javascript" src="/public/jsmin/plugins/jquery.html5-placeholder-shim.js?804"></script>
-<script type="text/javascript" language="javascript" src="/public/jsmin/plugins/jquery-extra-selectors.js?804"></script>
-<script type="text/javascript" language="javascript" src="/public/jsmin/default/ie8Fix.js?804"></script>
+<script type="text/javascript" language="javascript" src="/public/jsmin/plugins/jquery.html5-placeholder-shim.js?817"></script>
+<script type="text/javascript" language="javascript" src="/public/jsmin/plugins/jquery-extra-selectors.js?817"></script>
+<script type="text/javascript" language="javascript" src="/public/jsmin/default/ie8Fix.js?817"></script>
 <![endif]-->
 
 <script>
    	
-	if($.cookie('time-zone')==null) document.write('<script type="text/javascript" language="javascript" src="/public/jsmin/default/timezone.js?804" />');
+	if($.cookie('time-zone')==null) document.write('<script type="text/javascript" language="javascript" src="/public/jsmin/default/timezone.js?817" />');
 	
 	$(document).ready(function(){
 		
@@ -1278,5 +1522,6 @@
 </script>
 
 
-			    
+				
+	
 </body></html>
