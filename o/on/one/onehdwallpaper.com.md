@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onehdwallpaper.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128023940id_/http%3A//onehdwallpaper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehdwallpaper.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604200004id_/http%3A//onehdwallpaper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | One HD Wallpaper Pictures Backgrounds FREE Download
 
