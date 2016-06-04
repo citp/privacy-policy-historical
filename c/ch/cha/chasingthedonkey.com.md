@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the chasingthedonkey.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011125707id_/http%3A//www.chasingthedonkey.com/a-locals-guide-to-travel-croatia/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chasingthedonkey.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604232506id_/http%3A//www.chasingthedonkey.com/croatia-travel-blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Chasing the Donkey: Croatia Travel Guide
+# Croatia Travel Blog: Privacy Policy | Chasing the Donkey
 
-**© Please don’t steal my hard work –** therefore do not republish any of the content found on this blog without permission. Excerpts of my article may be used provided a link back to the original URL is used, and that full and clear credit is given to us here at Chasing the Donkey. You can contact us using our[ contact form](http://www.chasingthedonkey.com/australian-expat-blog/contact/) anytime and we can make other arrangements (have your cheque book at the ready)
+**© Please don’t steal my hard work –** therefore do not republish any of the content found on this blog without permission. Excerpts of my article may be used provided a link back to the original URL is used, and that full and clear credit is given to us here at Chasing the Donkey. You can contact us using our contact form anytime and we can make other arrangements (have your cheque book at the ready)
 
 This privacy policy sets out how Chasing the Donkey uses and protects any information that you give while using www.chasingthedonkey.com
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-### Chasing the Donkey may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 2015.
+**Chasing the Donkey may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 2015.**
 
 We are not liable as to accuracy or validity of any information provided.  We are not liable for any errors, omissions, or delays in this information or any losses, injuries, or damages arising from its display or use.
 
@@ -67,8 +67,6 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy-policy](http://www.gourmetads.com/about/privacy-policy)”
-
 ### **Advertising**
 
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website.  These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
@@ -82,7 +80,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   1. whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  2. if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
+  2. if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time [by contacting us](http://www.chasingthedonkey.com/travel-croatia-work-with-me/).
 
 
 
