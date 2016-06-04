@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the seriouseats.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206034328id_/http%3A//www.seriouseats.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seriouseats.com privacy policy that was archived on 2016-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160604150339id_/http%3A//www.seriouseats.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" grunticon"><head>
-	    <meta charset="utf-8">
+	    
+  
+  <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Privacy Statement | Serious Eats</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,7 +33,7 @@
 
 
   <!-- Global styles -->
-      <link href="http://static.seriouseats.com/1/braestar/live/css/global.min.css?v=20151123a" rel="stylesheet" async="">
+      <link href="http://static.seriouseats.com/1/braestar/live/css/global.min.css?v=20160601" rel="stylesheet" async="">
 
 
   <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -110,6 +112,7 @@
     <script>
 dataLayer = [{
     "page_type" : "policy",
+    "ad_channel" : "None",  
 }];
 </script>
 <!-- Google Tag Manager -->
@@ -227,23 +230,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <!--End mc_embed_signup-->
         
       <ul class="about-links">
-        <li><a href="http://www.seriouseats.com/latest/">Latest</a></li>
-        <li><a href="http://www.seriouseats.com/masthead/">Masthead</a></li>
-				<li><a href="http://www.seriouseats.com/contact/">Contact</a></li>
-				<li><a href="http://www.seriouseats.com/about/">About</a></li>
-				<li><a href="mailto:advertise@seriouseats.com">Advertise</a></li>
-        <li><a href="http://www.seriouseats.com/jobs/">Jobs</a></li>
-				<li><a href="http://www.seriouseats.com/faq/">FAQ</a></li>
+        <li><a href="http://www.seriouseats.com/latest">Latest</a></li>
+        <li><a href="http://www.seriouseats.com/masthead">Masthead</a></li>
+        <li><a href="http://www.seriouseats.com/contact">Contact</a></li>
+        <li><a href="http://www.seriouseats.com/about">About</a></li>
+        <li><a href="http://fexymedia.com/v/cvpdww">Advertise</a></li>
+        <li><a href="http://www.seriouseats.com/jobs">Jobs</a></li>
+        <li><a href="http://www.seriouseats.com/sitemap">Sitemap</a></li>
+        <li><a href="http://www.seriouseats.com/faq">FAQ</a></li>
       </ul>
       
       <div class="social-links">
         <p class="label">Follow Us</p>
         <ul>
-          <li><a href="http://twitter.com/seriouseats" target="_blank" class="icon-wrapper"><span class="icon icon-social-twitter-white"></span></a></li>
-          <li><a href="http://facebook.com/seriouseats" target="_blank" class="icon-wrapper"><span class="icon icon-social-facebook-white"></span></a></li>
-          <li><a href="http://pinterest.com/seriouseats" target="_blank" class="icon-wrapper"><span class="icon icon-social-pinterest-white"></span></a></li>
-          <li><a href="http://foursquare.com/seriouseats" target="_blank" class="icon-wrapper"><span class="icon icon-social-foursquare-white"></span></a></li>
-          <li><a href="http://www.seriouseats.com/feeds/" target="_blank" class="icon-wrapper"><span class="icon icon-social-rss-white"></span></a></li>
+          <li><a href="http://twitter.com/seriouseats" target="_blank" class="icon-wrapper" data-event="twitter" data-location="footer"><span class="icon icon-social-twitter-white"></span></a></li>
+          <li><a href="http://facebook.com/seriouseats" target="_blank" class="icon-wrapper" data-event="facebook" data-location="footer"><span class="icon icon-social-facebook-white"></span></a></li>
+          <li><a href="http://pinterest.com/seriouseats" target="_blank" class="icon-wrapper" data-event="pinterest" data-location="footer"><span class="icon icon-social-pinterest-white"></span></a></li>
+          <!-- <li><a href="http://foursquare.com/seriouseats" target="_blank" class="icon-wrapper" data-event="foursquare" data-location="footer"><span class="icon icon-social-foursquare-white"></span></a></li> -->
+          <li><a href="https://www.instagram.com/seriouseats" target="_blank" class="icon-wrapper" data-event="instagram" data-location="footer"><span class="icon icon-social-instagram-white"></span></a></li>
+          <li><a href="http://www.seriouseats.com/feeds/" target="_blank" class="icon-wrapper" data-event="rss" data-location="footer"><span class="icon icon-social-rss-white"></span></a></li>
         </ul>
       </div>
     
@@ -254,7 +259,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <ul class="utility-links">
       <li><a href="http://www.seriouseats.com/terms/" target="_blank">Terms of Use</a></li>
       <li><a href="http://www.seriouseats.com/privacy/" target="_blank">Privacy Policy</a></li>
-      <li>©2006-2015</li>
+      <li>© 2016 Serious Eats Inc.</li>
     </ul>
   </section>
 
@@ -285,6 +290,20 @@ try {
 
 
 <script>
+  $("footer.footer div.social-links li a").click(function()
+  {
+    try {
+      var event_name = $(this).data("event");
+      var location = $(this).data("location");
+      dataLayer.push({
+        "event": "gaEvent",
+        "category": "share", 
+        "action": event_name,
+        "label": location
+      });
+    } catch (err) {}
+  });
+
   var _ads_tracker_created = false;
 
   function create_ads_tracker()
