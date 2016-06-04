@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookbaby.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910011557id_/http%3A//www.bookbaby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbaby.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604020651id_/https%3A//www.bookbaby.com/privacy) for the most accurate reproduction.*
 
 # BookBaby Privacy Policy
 
@@ -73,7 +73,7 @@ BookBaby may allow you to access certain information about you through the membe
 
   * As stated previously, you can always opt not to disclose Information to us; provided, however, that in order to purchase goods from us as a customer or to make goods available for sale as a client, you will have to provide us with Information. If you are unwilling to provide Information, then you cannot purchase or sell goods through the BookBaby managed domains. 
   * You are able to add or update certain information on pages, such as those listed in the "What Information Can I Access" section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
-  * You may request deletion of your BookBaby account by contacting BookBaby's customer support at Books@BookBaby.com. Please note that some information may remain in our records after deletion of your account.
+  * You may request deletion of your BookBaby account by contacting BookBaby's customer support at info@bookbaby.com. Please note that some information may remain in our records after deletion of your account.
   * You will be able to opt-out of receiving e-mail notices or solicitations from BookBaby or our affiliates by responding to a link included in each e-mail notice or solicitation.
 
 
