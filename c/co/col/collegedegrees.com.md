@@ -1,50 +1,43 @@
-> *The following text is extracted and transformed from the collegedegrees.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212045421id_/http%3A//www.collegedegrees.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegedegrees.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604124654id_/http%3A//www.collegedegrees.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - College Degrees
 
-We will describe here how CollegeDegrees.com collects and utilizes the personal information that users like you provide on our website: CollegeDegrees.com.
+## Terms of Use and Privacy Policy for Use of CollegeDegrees.com (Effective Date 2/5/2016)
 
-Information that we may collect from you as you browse and use CollegeDegrees.com include:
+Thank you for using the content and services available on CollegeDegrees.com. This document outlines the circumstances governing the use of this website and how CollegeDegrees.com aggregates, and applies those different kinds of information to supply you with content and the associated services and products. By using our website you are agreeing to the following Terms of Use and Privacy Policy. 
 
-  * Your contact Information, such as your name, email and mailing addresses, and home or mobile phone number. 
-  * Your demographic information, such as the year you expect to graduate, education level, gender, academic or personal interests, and zip code.
+Occasionally, we revise our Terms of Use and Privacy Policy. We suggest occasionally reading through this document for changes to our policies on privacy and the other concerns stated throughout.
+
+On CollegeDegrees.com two types of information are collected: _submitted information_ and _automatic information_. 
+
+Submitted information includes opting into any web form submission of personal information such as names, telephone numbers, postal addresses and email addresses, which allow us to pair you with the most appropriate education products or services. We store and share that information with schools and third party organizations so they may contact you with information about schools, educational programs and related services. When you submit information, you are authorizing CollegeDegrees.com and affiliated schools and partners to get a hold of you via phone, text message, email and/or mail, in accordance with and applicable laws, in regards to education or related subjects. If you wish to unsubscribe from any email communication, use the link provided in the email to opt-out, at which time you will be removed from the sender’s email communication.
+
+Automatic information is collected anonymously in a fashion similar to that of most websites. This information allows us to make improvements and create user experiences that are as relevant as possible. Using cookies to collect data such as the operating system, IP address, and browser specifications helps us to optimize CollegeDegrees.com, shape our advertising and marketing campaigns, and maintain a database of analytics. For more information please read the _About Cookies_ section below.
+
+By using CollegeDegrees.com, you both recognize and agree that any information collected can be shared with schools, third parties, and affiliated companies to provide you with information about degrees and educational products or services as well as release collected personal data to any company we employ to complete administrative tasks. 
+
+By submitting any personal information to CollegeDegrees.com, you consent to let us and all affiliates, partners, and vendors contact you via text message, phone, email or mail to provide you with information and marketing on educational services and associated products. Moreover, you relinquish any rights afforded to you by the Do No Call requirements set in place by both state and federal governments and provide us an exemption from any other similar laws. You also allow us the lawful right to release your personal information in the case of a subpoena or any other legally required action. This right is only acted upon when CollegeDegrees.com feels it is a necessary act to preserve consumer rights, protect the safety of our users and others, investigate potential fraud, or if CollegeDegrees.com merges with or acquires another company, or if any or all assets are sold to a third party company.
+
+## About Cookies
+
+Cookies are bits of data a website provides to your web browser. Typically, this information is analyzed through Google Analytics, a tool created by Google Inc. We use this information to optimize user experience, as well as to help advertisers reach customers interested in their products. Cookies don’t contain personal information. Third-party or advertising cookies track your navigation online and present ads on behalf of their enterprises.
+
+In depth information about Google Analytics can be found in Google’s privacy policy: http://www.google.com/intl/en/analytics/privacyoverview.html.
+
+**We use cookies to:**
+
+  * Collect anonymous demographic information for the purpose of web optimizations.
+  * Track how well our marketing converts to engagement and increase its success.
+  * Improve ad relevance and user experience
 
 
 
-CollegeDegrees.com, like most websites, may also record information about your technical settings, such as browser type, IP address, referring and exit pages, and operating system. 
+### Refuse and Remove Cookies
 
-We use this data to improve your user experience by: 
+If you don’t want to store cookies on your browser, you can remove them at any time. You may have to do it with each use, or you may be able to change your settings to block cookies, depending on your browser.
 
-  * Determining and recommending which online college degree programs that might be suitable for you so that we may provide you with the information you may need to reach your career goals.
-  * Using the data to determine how you can obtain a high-quality, real-world education at your own pace and schedule.
-  * Sending you any school information you may have requested. 
-  * Responding efficiently to customer service requests.
-  * Sending you a newsletter. 
-  * Sending you relevant marketing communications. 
-  * Responding to your submitted questions and concerns. 
-  * Improving CollegeDegree.com and its marketing efforts, or otherwise assessing the demands of our business.
-  * Conducting research and analysis.
+Also, you can generally opt out of receiving personalized ads from members of the Network Advertising Initiative (NAI) or those who follow the Digital Advertising Alliance’s Self-Regulatory Principles, as well as from other third party advertisers and ad networks. You may unsubscribe by visiting the opt-out pages on the NAI website and DAA website.
 
+## Contact Us
 
-
-#### Choosing to Opt-Out 
-
-If you would prefer to not receive marketing information from us, simply follow the instructions included in the emails to unsubscribe from future correspondence. 
-
-#### Sharing Your Information 
-
-We will not and do not sell personal information to third party companies for their unrelated marketing purposes. The only ways we will share your personal information with third party companies are in the manners that are described in this privacy statement. 
-
-An example of how we may share your information is that we may provide it to companies that provide services to help us with our business activities, such as offering customer service or email service delivery. In submitting your personal information on CollegeDegrees.com, you are making an “inquiry” to us, our affiliated entities, and third party marketing partners/vendors, which grants permission to be contacted via email, mail, and phone — you will be consenting to receive telephone calls for a limited period from our affiliates and partners/vendors, even if the telephone number you submitted appears on a state and/or federal Do Not Call list. This is because your inquiry will serve as an exception to state and/or federal Do Not Call requirements.ÿ
-
-In addition, your personal information may be shared to comply with the law, such as in the case of a subpoena or similar legal process when we believe that the disclosure is necessary to protect our rights, your safety or the safety of others, or investigate fraud. It may also be done to respond to a government request if CollegeDegrees.com becomes involved in a merger, acquisition, or sale of all or a portion of its assets to any other third party, with your prior consent to do so.
-
-#### Privacy Policy Change Notification 
-
-To reflect changes to our information practices, we may update this policy. For this reason, we encourage you to periodically review this page for the latest information on our privacy practices. 
-
-#### Contact Information 
-
-If you have questions or concerns regarding this privacy policy, please use our contact form. 
-
-_Effective on August 27, 2012_
+Please use our contact form to communicate any comments, questions, or concerns about our Terms of Use and Privacy Policy.
