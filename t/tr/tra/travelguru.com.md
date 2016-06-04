@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelguru.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118051244id_/http%3A//www.travelguru.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelguru.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605003249id_/http%3A//www.travelguru.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Travelguru - Privacy Policy
 
@@ -8,9 +8,7 @@
 
 Please note that this Privacy Policy will apply to your use of our Website and the booking of travel thereon, as well as bookings made via Travelguru, but not limited to offline phone sales, Interactive Voice Response (IVR), or through retail outlets (collectively known as the "Bookings").
 
-Travelguru is India's leading travel website, offering you the best prices on flights, hotels and holiday packages across India and the world. Travelguru makes planning and buying a holiday or a business trip easy and convenient. Travelguru's head office is located at 802, 8th Floor, ' C ' Wing, Eureka Towers, Mindspace, Link Road, Malad (West) Mumbai - 400 064. Tel: + 91 22 42754800 / 700. 
-
-Travelguru has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Website, www.travelguru.com and does not cover any information that may be collected offline. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [security@travelguru.com](mailto:security@travelguru.com). If you are not satisfied with our response you can contact <http://watchdog.truste.com/pvr.php?page=complaint>  
+Travelguru is India's leading travel website, offering you the best prices on flights, hotels and holiday packages across India and the world. Travelguru makes planning and buying a holiday or a business trip easy and convenient. Travelguru's head office is located at 802, 8th Floor, ' C ' Wing, Eureka Towers, Mindspace, Link Road, Malad (West) Mumbai - 400 064. Tel: + 91 22 42754800 / 700.   
   
   |    
 |  Travelguru protects your privacy  
