@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the brita.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905095252id_/http%3A//www.thecloroxcompany.com/legal/privacy/en-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brita.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604035435id_/http%3A//www.thecloroxcompany.com/legal/privacy/en-us) for the most accurate reproduction.*
 
 # The Clorox Company | Legal | Privacy
 
 ## Privacy Policy Statement
 
+[En Español ](https://web.archive.org/legal/privacy/es-us/)
+
 Last revised: August 3, 2015
 
-The Clorox Company and its [family of companies](https://web.archive.org/products/our-brands/) (collectively, “we,” “us,” “our”)provide this Privacy Policy Statement (“Privacy Statement”) to inform you of our practices regarding the collection, use and disclosure of information that you provide to us or that we collect from you through our websites and other online or mobile services, applications or advertisements that link to this Privacy Statement (collectively hereinafter, our “Properties”).
+The Clorox Company and its [family of companies](https://web.archive.org/products/our-brands/) (collectively, “we,” “us,” “our”) provide this Privacy Policy Statement (“Privacy Statement”) to inform you of our practices regarding the collection, use and disclosure of information that you provide to us or that we collect from you through our websites and other online or mobile services, applications or advertisements that link to this Privacy Statement (collectively hereinafter, our “Properties”).
 
 Before using our Properties or providing information to us, please carefully review this Privacy Statement. By using one of our Properties, including registering for an account or accessing one of our Properties, you agree that we may collect, process and use your information in accordance with this Privacy Statement, as revised from time to time.
 
