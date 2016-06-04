@@ -1,74 +1,78 @@
-> *The following text is extracted and transformed from the import.io privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927091936id_/https%3A//import.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the import.io privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604020709id_/https%3A//www.import.io/about/privacy) for the most accurate reproduction.*
 
-# Privacy | import.io
+# Privacy - import.io
 
-This privacy policy sets out how import•io uses and protects any information that you give import•io when you use [import.io](http://import.io/), [blog.import.io](http://blog.import.io/) (including the [tech blog](http://blog.import.io/tech-blog/) and [status blog](http://blog.import.io/status-blog/)), [docs.import.io](http://docs.import.io/), [up.import.io](http://up.import.io/), and any current or future sub-domains (our sites).
+****This Privacy Policy (the “ **Policy** ”) explains how information about that directly identifies you (“ **personal information** ”) is collected, used and disclosed by Import.io Corporation (“ **Company** ,” “ **we** ” or “ **us** ”) and its affiliates, which own and operate Company in connection with our website at [www.import.io](http://www.import.io/) (the “ **Site** ”) as well as the tools and services accessed through it (collectively with the Site, our “ **Service** ”).  The Policy also may describe some of our practices about other information that we collect from you or computers or devices that you use in connection with the Service which we may, in our sole discretion, choose to treat as personal information.  By accessing or using our Service, you signify that you have read, understood and agree to our collection, storage, use and disclosure of your personal information as described in this Policy.
 
-Import•io is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+  1. **INFORMATION WE COLLECT**
+    * ****In General****
+      * We collect information and personal information from our users. The categories of information we collect can include: 
+        * **Information you provide.** We may collect and store personal information you enter in our Service or provide to us in some other manner.  For example, if you register for an account on the Site, we may collect information such as your name, email address, phone number and password.  If you sign up for a paid account, we may collect information about your payment, such as your credit card information and billing address.  If you respond to surveys through the Service, or from third parties (e.g., after you contact us for customer or technical support), we will collect the information you provide in the survey response.  We may also collect any communications between you and us, as well as any information you provide if you take part in any interactive features of the Service.
+        * **Information we receive from social networking and other third party services.** When you interact with our Service via through social media or other third party services, such as when you login using Facebook, Google, Github, or LinkedIn credentials, or share Company content on Facebook, Google, Github, LinkedIn, or other sites, we may receive information from those sites including your profile information, profile picture, gender, user name, user ID associated with your social media account, age range, language, country, friends list, and any other information you permit the social network to share with third parties. The data we receive may depend upon your privacy settings with the social media or other third party site, and in general, we will not post information about you on third party social media sites without your consent. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to our Service.
+        * **Information we receive from third parties.** From time to time, we may receive information about you from third parties. This may include information we receive from third party search engines about your search activity.  We may also collect information about you that is publicly available.
+        * **Information from cookies and other technologies.   **We also collect information from cookies and other technologies, including as described in more detail below.
+    * **Information Collected from Cookies and Other Technologies**
+      * We automatically collect information about users and user computers and devices when users visit or use the Service. Some of the information we collect, and ways we collect it, include: 
+        * **Cookies.**   When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser or computer. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click, how frequently you access the Service, and other actions you take on the Service), and allow us to track your usage of the Service over time.
+        * **Javascript and Log Files.   **We may collect log file information, or other information using Javascript, from your browser or mobile device each time you access the Service. This information may include information that does not directly identify you such as your web request, Internet Protocol (“ **IP** ”) address, browser type, information about your mobile device, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
+        * **Clear Gifs.   **We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service.
+        * **Mobile Device Information.**   When you access our Service by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device or our mobile application (including, for example, a UDID, Unique ID for Advertisers (“ **IDFA** ”), Google Ad ID, or Windows Advertising ID), mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
+      * We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service and to understand more about the demographics of our users. These tools collect information sent by your browser or mobile device, including the pages you visit and how you use the Service, your use of third party applications, and other information of the type set forth above.
+    * **Information from Use of Data Services**
+      * The Service includes services and functionality that will allow you to gather and store data from other websites, including, potentially, data about other individuals that is contained on other websites (the “Data Services”).  The data that you gather and store through use of the Service is referred to as “User Data.”  If you use the Data Services, we will collect the User Data that you choose to store in connection with the Service.  For additional details about the Data Services and User Data, please see the Terms of Service at [https://www.import.io/about/terms-conditions/](https://www.import.io/about/terms-conditions/).
+      * If you believe that one of the Data Services users may have collected personal information about you from another website, you should contact that user with questions about its privacy practices.  This Policy is not intended to describe any Service user’s privacy practices.
+  2. **HOW WE USE INFORMATION**
+    * We use, process, retain and store personal information that we collect or receive for a variety of purposes, including to do the following: 
+      * operate, maintain, and provide to you the features and functionality of the Service,
+      * improve the Service,
+      * process your payments and maintain your subscription or account,
+      * communicate directly with you, and to respond to your requests, such as to send you email messages,
+      * market and advertise to you,
+      * carry out analytics and research purposes,
+      * enforce this Policy or the Terms of Service, to resolve disputes, and otherwise to carry out our obligations, enforce our rights, and protect our business and the interests and rights of third parties,
+      * fulfill any purpose for which you provide personal information,
+      * provide personalized content, and to optimize content delivery, including in the Service,
+      * maintain our records, and
+      * conduct any other lawful activity or fulfill any other purpose that you consent to.
+    * While we use or may use the data collected through cookies, Javascript or log files, device identifiers, and clear gifs information to do any of the above, we also plan to use such information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit or use the Service; (b) provide custom, personalized content and information, including targeted content and advertising; (c) provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Service; (e) diagnose or fix technology problems; and (f) otherwise to plan for and enhance our Service.
+  3. **HOW WE SHARE PERSONAL INFORMATION**
+    * We also may transmit, disclose, grant access to, make available, and provide personal information to third parties, including: 
+      * **a. **Third parties at your request. For example, you may have the option to share information about your use of the Service with others through email, or online such has through social media or data storage sites;
+      * **b. **Our affiliates and other companies owned by or under common ownership with Company, which also includes our subsidiaries (i.e., any organization we own or control) or our ultimate holding company (i.e., any organization that owns or controls us) and any subsidiaries it owns. These companies will use your personal information in the same way as we can under this Policy;
+      * **c. **Third party vendors, consultants and other service providers that perform services on our behalf, including performing or helping us perform any of the actions that we are permitted to do with personal information under this Policy, which may include (without limitation) content or service fulfillment, or providing analytics services;
+      * **d. **Other parties in connection with any company transaction, such as a merger, sale of all or a portion of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy or related or similar proceedings; and
+      * **e. **Third parties as we, in our discretion, deem necessary to (i) satisfy any applicable law, regulation, subpoena/court order, legal process or other government request, (ii) enforce our Terms of Service at https://www.import.io/about/terms-conditions, including the investigation of potential violations thereof, (iii) investigate and defend ourselves against any third party claims or allegations, (iv) protect against harm to our rights, property or safety of Company, its users or the public as required or permitted by law and (v) detect, prevent or otherwise address criminal (including fraud or stalking), security or technical issues.
+    * We may also share information with others in an aggregated form that does not directly identify you as an individual.  In general, we do not share User Data with third parties for third party purposes, though we may share data that is aggregated from User Data with third parties for our or third party purposes.
+  4. **THIRD PARTY DATA COLLECTION FOR ONLINE ADVERTISING**
+    * The Service includes third party online advertising networks and other third parties that collect information about your use of the Service over time so that they may play or display third party ads that may be relevant to your interests on the Site as well as on third party websites or apps.  Typically, the information that they collect is accomplished through the use of cookies, clear gifs/web beacons or other tracking technologies.  This information collection will happen automatically when you use the Service.  The third parties that do this change from time to time.  For information about choices you may have to limit some of the information collection that these third parties engage in, see the “Your Choices” section below.
+  5. **YOUR CHOICES**
+    * **Marketing Communications** **.**
+      * If you do not wish to receive promotional emails, you can click the “unsubscribe” button on promotional email communications. Note that you are not permitted to unsubscribe or opt-out of non-promotional messages regarding your account, such as service or subscription/membership related communications, change or updates to features of the Service, or technical and security notices.
+    * **Online Advertising** **.**
+      * You may be able to “opt out” of some of the collection of information through cookies or other tracking technologies by actively managing the settings on your browser or mobile device, but we do not promise that such settings will be effective.  Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking technologies.  To learn more about cookies, clear gifs/web beacons and other tracking technologies, and to learn how you may be able to opt-out of interest-based advertising from certain online advertising networks, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)  and/or the Digital Advertising Alliance’s Consumer Choice Opt-Out page at http://[www.aboutads.info/choices](http://www.aboutads.info/choices), though not all third parties that collect information about your use of the Service will necessarily be listed at the Opt-Out page or honor the elections you make there.  If you access the Service on your mobile device, you may not be able to control tracking technologies through settings.  Although we do our best to honor the privacy preferences of our visitors, we are not able to respond to Do Not Track signals from your browser at this time.
+  6. **ACCESS, CORRECTION, AND DELETION OF PERSONAL INFORMATION**
+    * If you have registered for an account with the Service, we may provide you with the ability to access, review and change certain personal information by logging into the Site, visiting your account profile page, and using the features and functionalities available there.
+  7. **DATA RETENTION**
+    * We generally retain personal information for as long as an account is active or as needed to provide the Service, though we reserve the right to keep it for other purposes set forth in this Policy.  You may deactivate your account through settings in the product.
+  8. **DATA PROTECTION**
+    * We take what we believe to be commercially reasonable means to protect personal information that we collect, but we do not guarantee that personal information will be completely protected.  For example, the transmission of information via the Internet is not completely secure. Any transmission of personal information by you is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained in the Service, including the illegal acts of third parties (such as criminal hacking).
+    * Safety and security of personal information also depends on you. Where we have given you (or where you have chosen) account credentials (e.g., user names or passwords) for access to certain parts of the Service, you are responsible for keeping those credentials confidential. Do not give your credentials to anyone else.  If you use a portion of the Service that requires a password, you should log out when you finish.  As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.  If you believe that any account credentials for the Service has been compromised, please contact us immediately at [legal@import.io](mailto:legal@import.io)
+  9. **DATA TRANSFERS TO THE UNITED STATES**
+    * Personal information collected in connection with the Service may be stored and processed in the United States or any other country in which we or our subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and by visiting or using the Service, you expressly consent to the transfer of information to the U.S. or any other country in which we or our parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Policy.
+  10. **PERSONS UNDER THE AGE OF 18**
+    * We do not knowingly provide the Service to minors. If you are below the age of 18 (or the age of majority in your jurisdiction), you may use the Site for informational purposes, but you may not use other aspects of the Service.
+    * The Service is not directed to or intended for children under the age of 18, and we do not knowingly collect information from children under the age of 18.  If you are a parent or guardian of a child under the age of 18, and believe that your child may have provided us with personal information, please contact us at legal@import.io, and we will use commercially reasonable efforts to delete that information.
+  11. **LINKS TO THIRD PARTY WEBSITES**
+    * The Service may contain links to and from third party websites, such as of our business partners, advertisers, social media sites, and other third parties. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies. Please check the individual policies before you submit any information to those websites.
+  12. **UPDATES TO THIS POLICY**
+    * We reserve the right to modify this Policy from time to time. If we make any changes to this Policy, we will change the “Last Revision Date” below and will post the updated Policy on this page. If you object to any changes, please deactivate your account (if any) and stop using the Service. Continuing to use our Service after we publish changes to this Policy constitutes your consent to the changes.
+  13. **CONTACTING US**
+    * If you have questions about this Policy, please contact us at [legal@import.io](mailto:legal@import.io)
+  14. **LAST REVISION DATE**
+    * This Policy was last revised on, and is effective as of March 9th, 2016
 
-Import•io may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
-
-#### 1\. Information we may collect from you
-
-_**We may collect and process the following data about you:**_
-
-  * Information that you provide us by completing forms on our sites. This includes information provided at the time of registering to use our site or subscribing to our service including contact details such as name, email address and phone number.
-  * Information that you provide us by completing surveys on our site or as carried out by our approved third parties
-  * If you contact us for customer or technical support, we may keep a record of that correspondence or conversation.
-  * Information that you provide us when carrying out transactions through our site including payment details such as credit card information and billing addresses.
-  * Information we receive from third party search engines such as Google, Yahoo and Microsoft (Bing and MSN) relating to your search activity.
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access.
 
 
+Create a free account to unlock the world of online data
 
-_**Uses made of the information:**_
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-  * To carry out our obligations arising from any agreements entered into between you and us.
-
-
-
-_**Do we disclose any information to outside parties?**_
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-#### 2\. IP Addresses and Cookies
-
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-
-**Cookies**
-
-We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance.
-
-The list below describes the cookies we use on this site and what we use them for. Currently we operate an 'implied consent' policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete the cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called "Incognito" in Chrome, "InPrivate" for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
-
-**First Party Cookies**
-
-These are cookies that are set by this website directly.
-
-_Google Analytics_ : We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information.We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are.
-
-You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.com/intl/en_uk/analytics/privacyoverview.html>
-
-_Woopra_ : We use Woopra to collect information about visitor behaviour on our website. Woopra works in a similar way to Google Analytics, and stores information in a cookie called _wooTracker_.
-
-_SquareSpace_ : We use SquareSpace to host our blog at [blog.import.io](http://blog.import.io/). SquareSpace uses a single cookie called _ss_lastvisit_ to track when you last visited the site (i.e. if you are a unique user) only.
-
-More information on session cookies and what they are used for is available at <http://www.allaboutcookies.org/cookies/session-cookies-used-for.html>
-
-#### 3\. Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-#### 4\. Security
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-#### 5\. Changes to our Privacy Policy
-
-Any changes we may make to our privacy policy in the future will be posted on this page. We do not guarantee that you will be notified of any such changes.
+[Sign up today](https://import.io/signup)
