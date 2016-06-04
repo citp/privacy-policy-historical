@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the olivegarden.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205203947id_/http%3A//www.olivegarden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olivegarden.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604024135id_/http%3A//www.olivegarden.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Olive Garden Italian Restaurant
 
 ## Darden: Online Privacy Notice
 
-Effective Date: April 16, 2015 
+Effective Date: March 8, 2016 
 
-We at Darden Corporation, along with our affiliates (collectively, "Darden"), respect your concerns about privacy. This Privacy Notice applies to personal information we collect on the Darden websites on which we have posted this Privacy Notice (collectively, the "Sites"). 
+We at Darden Corporation, along with our affiliates (collectively, "Darden," "we," "our," "us"), respect your concerns about privacy. This Privacy Notice applies to our use of personal information that we may collect at Darden locations in the United States and via online and mobile services that link to this Privacy Notice (collectively, the "Services"). 
 
 This Privacy Notice describes the types of personal information we collect on the Sites, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices. 
 
@@ -90,7 +90,7 @@ We collect, use and disclose your personal information with your consent, which 
 Your personal information may be processed, used, stored, or accessed in the United States or other countries where we have operations, and may be subject to the laws of those countries including requirements to disclose information to government authorities, courts or law enforcement agencies. 
 
 **Notice to California Residents**   
-Subject to certain limits under California Civil Code § 1798.83, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact us as specified in the "How to Contact Us" section below. 
+Subject to certain limits under California Civil Code ยง 1798.83, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact us as specified in the "How to Contact Us" section below. 
 
 **Do Not Track Policy**   
 Our website is not designed to respond to "do not track" signals received from browsers. 
@@ -108,11 +108,10 @@ Our Sites are not directed to children under the age of thirteen and we do not k
 This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our Sites to notify you of any significant changes to our Privacy Notice and indicate at the top of the notice when it was most recently updated. 
 
 **How To Contact Us**   
-If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mail at [ComplianceEthics@darden.com](mailto:ComplianceEthics@darden.com) or by phone at 407-245-5397, ext. 7. You also may write to us at: 
+If you have any questions about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mail at [privacy@darden.com](mailto:privacy@darden.com) or by phone at 407-245-5397, ext. 7. You also may write to us at: 
 
+Ethics & Compliance Office   
 Darden Restaurants, Inc.   
-Attention: Elizabeth Yost, Privacy Department   
-c/o Compliance and Ethics Office   
 1000 Darden Center Drive   
 Orlando, FL 32837 
 
