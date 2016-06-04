@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the maxutils.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231210744id_/http%3A//maxutils.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxutils.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604053820id_/http%3A//maxutils.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - www.maxutils.com
-
-## Privacy Policy for www.maxutils.com
 
 At www.maxutils.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.maxutils.com and how it is used. 
 
@@ -19,7 +17,7 @@ We use third-party companies to serve ads and collect non-personally identifiabl
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.maxutils.com.  
 .:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.maxutils.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_adsl 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......  
 Google Adsense 
