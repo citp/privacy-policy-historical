@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the nyaproductreviewer.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112235145id_/http%3A//www.nyaproductreviewer.com/p/twitter-follow.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyaproductreviewer.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604092451id_/http%3A//www.nyaproductreviewer.com/p/twitter-follow.html) for the most accurate reproduction.*
 
-# The Consumer Adviser: Privacy Policy
+# Coffee, Cats & Retail: Privacy Policy
 
-This Privacy Policy governs the manner in which The Consumer Adviser collects, uses, maintains and discloses information collected from users of the [The Consumer Adviser](http://very%20vollbracht/) website.  This privacy policy applies to the Site and all products and services offered by The Consumer Adviser.
+This Privacy Policy governs the manner in which Coffee, Cats & Retail collects, uses, maintains and discloses information collected from users of the [Coffee, Cats & Retail](http://www.nyaproductreviewer.com/) website.  This privacy policy applies to the Site and all products and services offered by Coffee, Cats & Retail.
 
 **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+I may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+I may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
 **Web browser cookies**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+My Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **How we use collected information**
 
-The Consumer Adviser may collect and use Users personal information for the following purposes:
+Coffee, Cats & Retail may collect and use Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -29,11 +29,11 @@ We may use the email address to respond to their inquiries, questions, and/or ot
 
 **How we protect your information**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+I adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
 **Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+I do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
 **Third party websites**
 
@@ -45,7 +45,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Changes to this privacy policy**
 
-The Consumer Adviser has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Coffee, Cats & Retail has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -53,12 +53,12 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[The Consumer Adviser](http://www.nyaproductreviewer.com/)  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact me at:  
+Coffee, Cats & Retail  
 <http://www.nyaproductreviewer.com/>  
 msmith572@yahoo.com
 
-This document was last updated on February 08, 2013
+This document was last updated on January 07, 2015
 
 [Pin It Now!](http://pinterest.com/pin/create/button/?url=http://www.nyaproductreviewer.com/p/twitter-follow.html)
 
