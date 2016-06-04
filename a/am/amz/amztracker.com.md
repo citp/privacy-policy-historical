@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amztracker.com privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823080003id_/https%3A//www.amztracker.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amztracker.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604111106id_/https%3A//www.amztracker.com/blog/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer
 
 DISCLAIMER: AMZtracker.com, nor its operators are affiliated with or funded by Amazon.com in any way. This site and all of its content is owned by AMZtracker.com and only meant for educational purposes.
 
-This Privacy Policy governs the manner in which Supremacy Ventures Limited dba AMZtracker collects, uses, maintains and discloses information collected from users (each, a "User") of the amztracker.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Supremacy Ventures LTD dba AMZtracker. 
+This Privacy Policy governs the manner in which AMZtracker.com Limited collects, uses, maintains and discloses information collected from users (each, a "User") of the amztracker.com website ("Site"). This privacy policy applies to the Site and all products and services offered by AMZtracker.com Limited. 
 
 Personal identification information 
 
@@ -20,7 +20,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 How we use collected information 
 
-Supremacy Ventures LTD dba AMZtracker may collect and use Users personal information for the following purposes: 
+AMZtracker.com Limited may collect and use Users personal information for the following purposes: 
 
 \- To improve customer service 
 
@@ -62,27 +62,31 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Changes to this privacy policy 
 
-Supremacy Ventures LTD dba AMZtracker has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+AMZtracker.com Limited has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
 Your acceptance of these terms 
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+Refund Policy:
+
+We have a VERY simple refund policy. If you want a refund, just ask. We give any refunds up to 60 days from a paymet. No hassle, no questions. ​
 
 Contacting us 
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-Supremacy Ventures LTD 
+AMZtracker.com Limited
 
-20th Floor, Central Tower, 
-
-28 Queen’s Road, 
-
-Central, Hong Kong 
+Room 1508, 15/F., Office Tower Two, Grand Plaza.  
+625 Nathan Road, Kowloon  
+Hong Kong​
 
 support@amztracker.com 
 
-This document was last updated on January 5th , 2015 
+This document was last updated on January30th , 2016
+
+​
 
 ​
 
