@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codexworld.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206190736id_/http%3A//www.codexworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codexworld.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604234944id_/http%3A//www.codexworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CodexWorld
 
@@ -19,6 +19,9 @@ Whenever you access our website [codexworld.com](http://www.codexworld.com/) mai
   * Entry & exit pages.
 
 
+
+ **Link to Other Websites:**  
+[codexworld.com](http://www.codexworld.com/) contains many links to other websites that not owned or controlled by Us. We are not responsible for the privacy of such third party websites and our privacy does not govern you to use such other websites. Our policy only applies to information collected by [codexworld.com](http://www.codexworld.com/). We request you to be aware before leaving our site and to read the privacy policy of such third party websites.
 
  **Cookies:**  
 Our site use “cookies” to enhance visitors experience and improve the speed of our site. We do not use cookies to collect any personal information or sensitive information.
