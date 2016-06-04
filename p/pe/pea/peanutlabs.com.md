@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the peanutlabs.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206012507id_/http%3A//web.peanutlabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peanutlabs.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604153641id_/http%3A//web.peanutlabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Peanut Labs – DIY Sample and Surveys
 
 [](http://privacy.truste.com/privacy-seal/Peanut-Labs-Inc-/validation?rid=cd3ec329-985a-4c1b-814c-92ea1151a745 "Validate TRUSTe privacy certification")
 
-**Effective Date:** 02/18/2015
+**Effective Date:**  12/31/2015
 
 Peanut Labs Inc. (“Peanut Labs”) is committed to protecting the privacy and confidentiality of your information on our Website  **[www.peanutlabs.com](http://www.peanutlabs.com/)**  and on the Peanut Labs platform. As a data collection company, we provide accurate and dependable data to the market research industry. Our services offer respondents the opportunity to take part in market research and express opinions and attitudes regarding a broad range of subjects. Our clients depend on this information to make many decisions that affect the products and services in the marketplace. Any data that we collect for a study is reported only in aggregate, and specific information regarding individuals is never viewed or published. All information gathered either during registration or in supplemental demographic surveys is provided the highest level of security.
 
-Peanut Labs Inc. has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, http://www.peanutlabs.com and through the Peanut Labs platform.
+The TRUSTe program covers only information that is collected through this Web site, http://www.peanutlabs.com and through the Peanut Labs platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Peanut Labs.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 ### Trans-National Data Flow
 
-Peanut Labs adheres to the Organization for Economic Co-operation and Development (OECD) guidelines, specifically the Fair Information Practices governing the protection of privacy. This involves the trans-border data flows of personal data. International Data Transfers are defined as the transmission of personal information from one jurisdiction to another. Many jurisdictions, most notably the European Union (EU), place significant restrictions on such transfers. The EU requires that the receiving jurisdiction be judged to have “adequate” data protection practices. 
+Peanut Labs adheres to the Organization for Economic Co-operation and Development (OECD) guidelines, specifically the Fair Information Practices governing the protection of privacy. This involves the trans-border data flows of personal data. International Data Transfers are defined as the transmission of personal information from one jurisdiction to another. Many jurisdictions, most notably the European Union (EU), place significant restrictions on such transfers. The EU requires that the receiving jurisdiction be judged to have “adequate” data protection practices.
 
 Peanut Labs transfers data between the EU and the U.S. in accordance with standard contractual clauses for the transfer of personal data to processors established in third countries (“Model Contract”) pursuant to the Commission Decision 2010/87/EU of 5th February, 2010.
 
@@ -31,6 +31,12 @@ Peanut Labs collects aggregated information under the direction of its clients a
 ### Choice
 
 We collect aggregated information for our clients and partners, if you are a customer of one of our clients or partners and would no longer like to be contacted by one of our clients or partners that use our service, please contact the client or partner that you interact with directly.
+
+### Access to and Retention of Data Controlled by our Clients
+
+Peanut Labs has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Peanut Lab’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
+
+Peanut Labs will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Peanut Labs will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Service Provider, Sub-Processors/Onward Transfer
 
@@ -50,7 +56,7 @@ Peanut Labs’ surveys and website are not designed nor intended for use by chil
 
 ### Access and Choice
 
-If your personal information changes, you may correct, update, amend, delete/remove it by emailing us at [support@peanutlabs.com](mailto:support@peanutlabs.com).  We will respond to your request to access within 30 days.
+If your personal information changes, you may correct, update, amend, delete/remove it by emailing us at [support@peanutlabs.com](mailto:support@peanutlabs.com).  We will respond to your request to access within a reasonable time frame.
 
 We will retain your personal information and the aggregated information we process for clients and partners, for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -70,19 +76,13 @@ As is true of most web sites, we gather certain information automatically and st
 
 We do not link this automatically-collected data to personal information. IP addresses are not tied to personal information. IP addresses are only used to insure the same user does not respond to a survey multiple times.
 
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information.
-
-To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>[ ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
-
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking **[here](http://preferences-mgr.truste.com/ "TRUSTe’s opt-out tool")**. Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
-
 ### Security
 
 Peanut Labs adheres to strict rules that ensure every aspect of our data is secure, including the aggregated information processed on our platform. Access to all profile information is restricted to a few key personnel in order to prevent the loss, misuse, and unauthorized alteration of the information under our control. When partners enter sensitive information, such as bank account information, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 Our security policies and procedures are reviewed constantly to ensure that we utilize standard technology and internal processes that best protect respondents’ information entrusted to us. All questions are screened to ensure that they are appropriate and specific to their intended use. Unless required by law or regulation, we will never ask for your social security number.
 
-Due to the technological world we live in and the constant threat to Internet security we can only be held liable for a breech of security if it is due to the negligence of the company and within the control of the company to have prevented it from occurring. Therefore, we cannot guarantee its absolute security. If someone hacks into our site for the purpose of stealing our data, we cannot be held accountable for such action except to prosecute such an individual to the fullest extent that the law provides.If you have any questions about security, please contact us.
+Due to the technological world we live in and the constant threat to Internet security we can only be held liable for a breach of security if it is due to the negligence of the company and within the control of the company to have prevented it from occurring. Therefore, we cannot guarantee its absolute security. If someone hacks into our site for the purpose of stealing our data, we cannot be held accountable for such action except to prosecute such an individual to the fullest extent that the law provides.If you have any questions about security, please contact us.
 
 ### Legal Disclaimer
 
