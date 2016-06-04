@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sorensonmedia.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205233811id_/http%3A//www.sorensonmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorensonmedia.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604151917id_/http%3A//www.sorensonmedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Sorenson Media
+# Privacy Policy | Sorenson Media
 
 ## Sorenson Media, Inc. Privacy Policy
 
@@ -121,5 +121,3 @@ You should be aware that it may not be technologically possible to remove each a
 Privacy as it applies to the Internet is a dynamic, rapidly developing area. Therefore, in the future, Sorenson Media may make significant changes to its privacy policy affecting the use of the Personal Information you provide to us. Therefore, you need to ensure that you visit Sorenson Media’s website from time to time and read its Privacy Policy in effect to see if Sorenson Media has made any significant changes concerning its use of your Personal Information.
 
 Sorenson Media may also make non-significant changes to its Privacy Policy that generally will not affect its use of your Personal Information and, therefore, you should also check Sorenson Media’s posted Privacy Policy for any non-significant changes. Further, if you do not agree to the terms of this Privacy Policy or any revised policy, you should exit the site immediately.
-
-© 2014 Sorenson Media, Inc. All rights reserved
