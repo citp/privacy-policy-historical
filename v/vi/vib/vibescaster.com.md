@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the vibescaster.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126021659id_/http%3A//www.vibescaster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibescaster.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604201327id_/http%3A//www.vibescaster.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | Vibescaster
 
 ### Registration
 
 You can use Vibescaster without registering. If you want Vibescaster to remember your settings permanently or if you want to access your personal page from more than one PC you need to register with your email address and a password. In addition this will also protect your account from unauthorized access. When you register we'll send you a welcome email.  
-We may send you service announcements and advertising messages from YOUniversal Media s.r.l. or third parties.  
-You can unsubscribe from these announcements and advertising messages at any time by sending an email to [info@youniversalmedia.com](mailto:info@youniversalmedia.com)
+We may send you service announcements and advertising messages from YOUniversal Next Limited or third parties.  
+You can unsubscribe from these announcements and advertising messages at any time by sending an email to [info@youniversalnext.com](mailto:info@youniversalnext.com)
 
 ### Policy Privacy
 
-Vibescaster.com is operated by YOUniversal Media s.r.l. ("YOUniversal Media").
+Vibescaster.com is operated by YOUniversal Next Limited.
 
-YOUniversal Media, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the Vibescaster.com website.
+YOUniversal Next Limited, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the Vibescaster.com website.
 
 ### Information we may collect
 
@@ -59,7 +59,7 @@ We may use information to:
 We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
 
   * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other YOUniversal Media businesses;
+  * Other YOUniversal Next Limited businesses;
   * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our Vibescaster website; and
   * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
@@ -88,7 +88,7 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 
 ### How to contact us
 
-If you have any questions about this summary, our Privacy Policy, or our information practices, please contact us by email: [info@youniversalmedia.com](mailto:info@youniversalmedia.com)
+If you have any questions about this summary, our Privacy Policy, or our information practices, please contact us by email: [info@youniversalnext.com](mailto:info@youniversalnext.com)
 
 This webpage uses cookies, including from third parties, to provide you with advertisements and services that are in line with your preferences. If you want to learn more or opt out of some or all cookies, click [here.](https://web.archive.org/extended_cookie.php)  
 By closing this banner, scrolling this page or by clicking on any of its elements you agree to the webpage’s cookie policy. OK 
