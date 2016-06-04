@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restfile.bz privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221051426id_/http%3A//www.restfilee.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restfile.bz privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604150440id_/http%3A//www.restfilee.com/privacy_policy.html) for the most accurate reproduction.*
 
 # RestFilee.com privacy_policy
 
