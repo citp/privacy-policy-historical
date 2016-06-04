@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebackpack.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019103959id_/https%3A//www.ebackpack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebackpack.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604082305id_/https%3A//www.ebackpack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eBackpack
 
