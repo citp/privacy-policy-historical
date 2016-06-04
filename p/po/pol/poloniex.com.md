@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the poloniex.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926053157id_/https%3A//poloniex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poloniex.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604061531id_/https%3A//www.poloniex.com/privacy) for the most accurate reproduction.*
 
 # Poloniex - Bitcoin/Cryptocurrency Exchange - Privacy Policy
 
 ## Last Revised: May 18, 2015
 
-This Privacy Policy, as amended or otherwise changed from time to time (the “Privacy Policy”), explains the manner in which Poloniex, LLC (“Poloniex”) collects, uses, maintains and discloses user information obtained through the poloniex.com website (the “Site”). The terms “we,” “us,” and “our” refer to Poloniex, LLC. By using the Site, you (“User”) consent to the data practices prescribed in this Privacy Policy. On occasion, Poloniex may revise this Privacy Policy to reflect changes in law, our personal data collection and use practices, the features on the Site, or advances in technology. If material changes are made to this Privacy Policy, the changes will be prominently posted on the Site. Capitalized terms not defined herein shall have the meanings ascribed to them in the Terms of Use.
+This Privacy Policy, as amended or otherwise changed from time to time (the “Privacy Policy”), explains the manner in which Poloniex, Inc. (“Poloniex”) collects, uses, maintains and discloses user information obtained through the poloniex.com website (the “Site”). The terms “we,” “us,” and “our” refer to Poloniex, Inc. By using the Site, you (“User”) consent to the data practices prescribed in this Privacy Policy. On occasion, Poloniex may revise this Privacy Policy to reflect changes in law, our personal data collection and use practices, the features on the Site, or advances in technology. If material changes are made to this Privacy Policy, the changes will be prominently posted on the Site. Capitalized terms not defined herein shall have the meanings ascribed to them in the Terms of Use.
 
 Please note: This Privacy Policy does not cover any information that we may receive about you through channels external to Poloniex.
 
@@ -24,9 +24,9 @@ Other than as stated in this Privacy Policy, Poloniex does not disclose any of y
 
 ### How can you update your information?
 
-You can access update your information by contacting support at [support@poloniex.freshdesk.com](mailto:support@poloniex.freshdesk.com).
+You can update your information by [contacting support](http://poloniex.freshdesk.com/) and making a request.
 
-We will retain your information for as long as your Account has not been closed or as needed to provide you access to your Account. If you wish to close your Account, contact us at [support@poloniex.freshdesk.com](mailto:support@poloniex.freshdesk.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our Terms of Use.
+We will retain your information for as long as your Account has not been closed or as needed to provide you access to your Account. If you wish to close your Account, open a ticket in our [support center](http://poloniex.freshdesk.com/). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our Terms of Use.
 
 ### How does Poloniex use cookies and persistent local data?
 
@@ -40,4 +40,4 @@ Please note that no transmission over the Internet or method of electronic stora
 
 ### Contacting Us
 
-If you have any questions about our Privacy Policy as outlined above, please contact us at [contact@poloniex.com](mailto:contact@poloniex.com).
+If you have any questions about our Privacy Policy as outlined above, please contact us through our [support center](http://poloniex.freshdesk.com/).
