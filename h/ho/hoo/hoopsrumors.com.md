@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoopsrumors.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905214523id_/http%3A//www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoopsrumors.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604022612id_/http%3A//www.hoopsrumors.com/2012/01/hoopsrumorscom-privacy-policy.html) for the most accurate reproduction.*
 
 # HoopsRumors.com Privacy Policy | Hoops Rumors
 
