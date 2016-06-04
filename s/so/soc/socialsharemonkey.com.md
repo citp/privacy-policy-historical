@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsharemonkey.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231051718id_/http%3A//socialsharemonkey.com/members/terms/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsharemonkey.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604082016id_/http%3A//socialsharemonkey.com/members/terms/privacy.htm) for the most accurate reproduction.*
 
 # SocialShare Monkey | PRIVACY POLICY
 
