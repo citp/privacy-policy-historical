@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wareable.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022124231id_/http%3A//www.wareable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wareable.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604034827id_/http%3A//www.wareable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wareable
 
@@ -21,7 +21,7 @@ We will never pass on your email to third parties.
 
 ### Commenting on the Forum
 
-You are wholly responsible for what you post on the forums. We advise against posting personal information or pictures or anything that could identify you as an individual on Wareable We recommend not using sensitive information when creating usernames, you're responsible for ensuring you keep your sign in information private.
+You are wholly responsible for what you post on the forums. We advise against posting personal information or pictures or anything that could identify you as an individual on Wareable. We recommend not using sensitive information when creating usernames, you're responsible for ensuring you keep your sign in information private.
 
 ### IP Addresses and Cookies
 
@@ -39,7 +39,16 @@ They ensure your sign up process is as efficient as possible, we use cookies as 
 
 They allow us to track affiliate activity. Some merchants pay commission when you go to their site from Wareable. 
 
-Our cookies do not share any of your personal data with us, and we would never use any information derived from cookies to try to identify anybody. We will never share any data with third parties.
+Our cookies do not share any of your personal data with us, and we would never use any information derived from cookies to try to identify anybody. 
+
+We use cookies to personalise content and adverts, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.  
+
+
+Ads you see on Wareable will have been placed by third parties. These third parties may generate their own cookies for the purposes of collecting anonymous information relating to their advertising. This information collected cannot be used to personally identify someone.   
+
+
+If you want to restrict or block cookies, you can do so in your browser settings.  
+
 
 By using Wareable you agree to the guidelines set out in our privacy policy. If you want to find out more about cookies or if you want to know how to delete or control the cookies that are stored on your computer you can visit AboutCookies.org
 
