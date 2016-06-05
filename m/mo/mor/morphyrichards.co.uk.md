@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035943id_/http%3A//www.morphyrichards.co.uk/support/morphy-richards-support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605124503id_/http%3A//www.morphyrichards.co.uk/support/morphy-richards-support/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -96,7 +96,7 @@ Information that you provide by filling in forms on our website, such as when yo
 
 4.1 If you are an existing customer, we will only contact you by email with information about products and services similar to those which were the subject of a previous sale to you. To opt out of marketing emails from Morphy Richards, you can click on the ‘unsubscribe’ link located at the bottom of all our marketing emails. 
 
-4.2 We will not otherwise email you unless (a) you have specifically given your consent in response to “opt-in” boxes etc or (b) in response to your emails to us. We will not pass on your email address to any third parties unless you have specifically consented to this. 
+4.2 We will not otherwise email you unless (a) you have specifically given your consent in response to “opt-in” boxes etc, (b) in response to your emails to us, (c) you create an account on Morphy Richards website (a welcome email will be sent to you) or (d) you register a product as part of the product registration process to acknowledge your registered product. If you have not opted in to receive marketing messages from us via email you will not receive any further email apart from b, c and d mentioned above. We will not pass on your email address to any third parties unless you have specifically consented to this. 
 
 #### 5\. Disclosure of Data
 
