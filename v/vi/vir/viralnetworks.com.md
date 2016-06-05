@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralnetworks.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206131850id_/http%3A//viralnetworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralnetworks.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605161613id_/http%3A//viralnetworks.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -139,7 +139,7 @@ This website takes measures to protect its data that contains information relate
 **QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS**   
 
 
-You may direct questions, comments or reports to: [**_www.reply2colin.com_**](http://www.reply2colin.com/) **\- Be sure to use the ViralNetworks Section on this helpdesk.**   
+You may direct questions, comments or reports to: [**_www.Reply2Frank.com_**](http://reply2frank.com/) **\- Be sure to use the ViralNetworks.com Section on this helpdesk.**   
 
 
 **REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**   
@@ -151,7 +151,7 @@ This Privacy Policy is dynamic. It will continually change. You may not assume t
 **LATEST UPDATE**   
 
 
-This Privacy Policy was last updated on: 26/08/2008   
+This Privacy Policy was last updated on: 16/05/2016   
 
 
 **COPYRIGHT**   
