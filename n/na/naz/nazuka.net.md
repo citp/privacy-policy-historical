@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nazuka.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035316id_/http%3A//nazuka.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nazuka.net privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605123855id_/http%3A//nazuka.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Unlimited Free Hosting at Nazuka.net
 
@@ -83,10 +83,15 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+We are an affiliate reseller from Youhosting.com
 
-http://www.nazuka.net  
-8005 Creighton Parkway, Suite C-201  
-Mechanicsville, Virginia 23111  
-USA  
+Youhosting.com is a Hostinger International division, you can  contact Hostinger at
+
+Address: 61 Lordou Vironos str.
+
+              6023 Larnaca, Cyprus
+
+Hostinger group operates various online web properties and web services (including Youhosting.com). To report any form of abuse activity (spam, phishing, adware, etc.)
+
+If there are any questions regarding this privacy policy you may contact us using the information below.  
 support@nazuka.net
