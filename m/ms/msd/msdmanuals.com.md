@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msdmanuals.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205111852id_/http%3A//www.msdmanuals.com/professional/resourcespages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msdmanuals.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605235226id_/http%3A//www.msdmanuals.com/professional/resourcespages/privacy) for the most accurate reproduction.*
 
 # Privacy - MSD Manual Professional Edition
 
@@ -8,7 +8,7 @@ Merck Sharp & Dohme (MSD) offers online resources designed to provide health, me
 
 MSD has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program requirements.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe online or via postal mail.  TRUSTe’s Dispute Resolution process is only available in English.
 
-The MSD privacy program and practices comply with the APEC Cross-Border Privacy Rules system.  This policy is also consistent with MSD's Safe Harbor Privacy Policy Statement for transfers of personal information from the European Economic Area and from Switzerland to the United States.
+The MSD privacy program and practices comply with the APEC Cross-Border Privacy Rules system(CBPRs).  Our Global Cross Border Privacy Rules Policy, available at <http://www.msd.com/privacy/cross-border-privacy-policy/>, supports our compliance with the APEC CBPRs.
 
 _How does this Privacy Policy define "personal information"?_
 
