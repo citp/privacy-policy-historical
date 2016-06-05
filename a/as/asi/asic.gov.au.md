@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203210325id_/http%3A//www.asic.gov.au/about-asic/dealing-with-asic/summary-of-asic-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606005248id_/http%3A//www.asic.gov.au/about-asic/dealing-with-asic/summary-of-asic-privacy-policy) for the most accurate reproduction.*
 
 # Summary of ASIC Privacy Policy | ASIC - Australian Securities and Investments Commission
 
@@ -21,7 +21,7 @@ This summary of our privacy policy provides you with a short overview of how ASI
 
 ### Purposes for collection
 
-We only collect personal information that is reasonably necessary for, or directly related to, one or more of our functions or activities under the legislation we administer. For further information, see [The laws we administers](https://web.archive.org/about-asic/what-we-do/laws-we-administer/ "Laws we administer"). 
+We only collect personal information that is reasonably necessary for, or directly related to, one or more of our functions or activities under the legislation we administer. For further information, see [The laws we administer](https://web.archive.org/about-asic/what-we-do/laws-we-administer/ "Laws we administer"). 
 
 ## How we collect information
 
