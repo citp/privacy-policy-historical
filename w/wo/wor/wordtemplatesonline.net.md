@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordtemplatesonline.net privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205065834id_/http%3A//www.wordtemplatesonline.net/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordtemplatesonline.net privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605104337id_/http%3A//www.wordtemplatesonline.net/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies for Word Templates Online
 
