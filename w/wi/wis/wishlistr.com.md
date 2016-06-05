@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishlistr.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205020303id_/http%3A//www.wishlistr.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishlistr.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606002343id_/http%3A//www.wishlistr.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Wishlistr - Privacy Policy
 
@@ -41,7 +41,7 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 Our website may contain affiliate marketing links in both editorial and user generated content. Such affiliate links will usually place a cookie on your computer once clicked. These affiliate partnerships enables us to provide you this service free of cost, and without any advertisement on your wish list.
 
-All user generated content, as well as our own editorial content, is not influenced by any advertiser or affiliate partnership, and we use a third party to handle all affiliate partnerships for us. We encourage you to read through their [privacy policy](http://skimlinks.com/privacy-policy) for more information on how they use cookies and protect your privacy.
+All user generated content, as well as our own editorial content, is not influenced by any advertiser or affiliate partnership, and we use a third party to handle all affiliate partnerships for us. We encourage you to read through their [privacy policy](http://go.skimlinks.com/?id=22833X813837&xs=1&url=http://skimlinks.com/privacy-policy) for more information on how they use cookies and protect your privacy.
 
 **d. Web Server Logs.**
 
