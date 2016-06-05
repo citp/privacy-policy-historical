@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonepaw.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218155917id_/http%3A//www.fonepaw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonepaw.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605201154id_/http%3A//www.fonepaw.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - FonePaw Software
 
@@ -25,7 +25,7 @@ We gather the technologies and information without any personal details then aut
 Please remember that all of the information you transferred or disclosed may be used and collected by others, or be illegal intercepted by third party. Any of data transmission over the internet can't be absolutely guaranteed. But we still try our best to protect any transferring data of you.
 5\. Data Analytics
     FonePaw will use integrated report of a third party and analysis tool to know the behavior of users and improve customer experience on the website. Once you using the contents of website, that means you content to transmit such information to FonePaw. But we promise that all of your personal information will not be disclosed or sold to any third party and organization.
-6\. Your Rights:
+6\. Your Rights
     You are supported to contact us anytime:  
 
 
