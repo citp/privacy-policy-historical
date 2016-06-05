@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howpk.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114224id_/http%3A//howpk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howpk.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001041id_/http%3A//howpk.com/privacy-policy) for the most accurate reproduction.*
 
 # Howpk.com-Privacy Policy | HowPk
 
@@ -62,4 +62,4 @@ admin@howpk.com
 Khalil Abad Colony , Street No 8 , Depalpur  
 923237784177  
 admin@howpk.com  
-This document was last updated on August 04, 2013
+This document was last updated on August 04, 2015
