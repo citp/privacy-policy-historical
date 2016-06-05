@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happyhooligans.ca privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114247id_/http%3A//happyhooligans.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyhooligans.ca privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606000523id_/http%3A//happyhooligans.ca/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy - Happy Hooligans
+# Privacy Policy - Happy Hooligans
 
 Happy Hooligans highly values your privacy.  I do not share personal information with third parties nor do I store any information about your visit to this blog other than to analyze and optimize your overall  experience through the use of cookies.
 
