@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bachpan.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201221607id_/http%3A//www.bachpan.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bachpan.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605104306id_/http%3A//www.bachpan.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Indian Baby Names, Hindu Baby Names, Indian Boy and Girl Names, Hinudu Boy and Girl Names
+# Indian Baby Names, Hindu Baby Names, Indian Boy and Girl Names, Hindu Boy and Girl Names
 
 Fair Information Practices 
 
