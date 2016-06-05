@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiffany.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113552id_/http%3A//www.tiffany.com/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiffany.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606000731id_/http%3A//www.tiffany.com/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.*
 
 # Privacy Policy | Tiffany & Co.
 
