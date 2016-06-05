@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hlorenzo.com privacy policy that was archived on 2015-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205183522id_/http%3A//shop.hlorenzo.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hlorenzo.com privacy policy that was archived on 2016-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605115757id_/http%3A//shop.hlorenzo.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy Policy - H. Lorenzo</title>
@@ -17,8 +17,7 @@
 <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
 <script src="/assets/js/jquery.js"></script>
 <style id="holderjs-style" type="text/css">.holderjs-fluid {font-size:16px;font-weight:bold;text-align:center;font-family:sans-serif;margin:0}</style></head>
-
-<body>
+<body>	
 <div class="container">
 <div id="header" class="row-fluid"> 
 	<div class="span12">
@@ -144,7 +143,7 @@ Los Angeles, CA 90069<br>
             <input type="text" name="email" placeholder="Enter your email address for updates" class="input-medium">
             <input type="submit" value="SUBMIT">
             </form>
-			<div class="span1 social visible-desktop"><img src="/images/social-icons.png" style="width:66px;height:20px" usemap="#social"></div>
+			<div class="span2 social visible-desktop"><img src="/images/social-icons.png" style="" usemap="#social"></div>
 			<span class="span3 copy visible-desktop">© 2015 H. Lorenzo</span>
         	</div>
   	</div>
@@ -172,6 +171,9 @@ Los Angeles, CA 90069<br>
  </map>
 
 </div>
+<a href="#" class="scrollToTop" style="bottom: 0px; display: scroll; right: 5px; position: fixed;" title="Back to Top">
+<img src="/images/topic.png">
+</a>
     <script src="/assets/js/bootstrap-transition.js"></script>
     <script src="/assets/js/bootstrap-alert.js"></script>
     <script src="/assets/js/bootstrap-modal.js"></script>
@@ -185,6 +187,7 @@ Los Angeles, CA 90069<br>
     <script src="/assets/js/bootstrap-carousel.js"></script>
     <script src="/assets/js/bootstrap-typeahead.js"></script>
     <script src="/assets/js/holder/holder.js"></script>
+	<script src="/assets/js/jquery.infinitescroll.js"></script>
     <script>
 	$(document).ready(function(){ 
 	
@@ -194,12 +197,21 @@ Los Angeles, CA 90069<br>
 	$('.slides_control div img').width($(document).width());
 	$('.slides_control div img').height($(document).width()*0.43);
 	$('.slides_control').height($(document).width()*0.43);
-	h=$(document).height();
-	myoffset=$('#slides').offset();
-	mytop=myoffset.top;
-	fh=$('#footer').height();
-	diff=(h-(mytop+fh+$(document).width()*0.43))/2;
-	$('#footer').css('margin-top',diff);
+	$(window).scroll(function(){
+		if ($(this).scrollTop() > 100)
+		{
+			 $('.scrollToTop').fadeIn();
+		}
+		else
+		{
+			$('.scrollToTop').fadeOut();
+		}
+	});
+	//Click event to scroll to top
+	$('.scrollToTop').click(function(){
+		$('html, body').animate({scrollTop : 0},800);
+		return false;
+	});
 	
 	});
 	$(window).resize(function(){ 
@@ -208,14 +220,60 @@ Los Angeles, CA 90069<br>
 	$('.slides_control div img').height($(document).width()*0.43);
 	$('.slides_control').height($(document).width()*0.43);
 	h=$(document).height();
-	myoffset=$('#slides').offset();
-	mytop=myoffset.top;
-	fh=$('#footer').height();
-	diff=(h-(mytop+fh+$(document).width()*0.43))/2;
-	console.log(h + ' | ' + mytop + ' | ' + fh);
-	$('#footer').css('margin-top',diff);
+	if($('#slides'))
+	{
+		myoffset=$('#slides').offset();
+		if (myoffset)
+		{
+			mytop=myoffset.top;
+			fh=$('#footer').height();
+			diff=(h-(mytop+fh+$(document).width()*0.43))/2;
+			console.log(h + ' | ' + mytop + ' | ' + fh);
+			$('#footer').css('margin-top',diff);
+		}
+	}
 	
 	});
+	
+	$(function(){
+		$('.catarea').infinitescroll({
+		navSelector  : "div.pager",            
+		nextSelector : "div.pager a.regular",    
+		itemSelector : ".row-fluid > div.category_products"   ,
+		debug		 	: true,
+		path: function(index) {
+			mainurl=location.href;
+			if(mainurl.indexOf('#')>0)
+			{
+				test=mainurl.split('#');
+				//console.log('a'+test+'b');
+				mainurl=test[0];
+			}
+			
+			if(mainurl.indexOf('?')>0)
+			{
+				returnpath=mainurl+'&start='+(50*(index-1));
+			}
+			else
+			{
+				returnpath=mainurl+'?start='+(50*(index-1));
+			}
+			return returnpath;
+		}
+		},function(arrayOfNewElems){
+			$('.two_picture').hover(function() {
+				var t = $(this);
+				var alt = t.attr('altsrc');
+				if(alt)
+					t.attr('src', t.attr('altsrc'));
+			}, function() {
+				$(this).attr('src', $(this).attr('data-original'));
+			}).click(function(){
+				$(this).attr('src', $(this).attr('data-original'));
+			});
+		});
+	});
+	
 	</script>
 
 
