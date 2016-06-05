@@ -1,30 +1,20 @@
-> *The following text is extracted and transformed from the termdates.co.uk privacy policy that was archived on 2015-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150704011722id_/http%3A//termdates.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termdates.co.uk privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605120052id_/https%3A//termdates.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Term Dates
 
 We are committed to preserving the privacy of all visitors to our website: [https://termdates.co.uk](https://termdates.co.uk/)
 
-This Privacy Policy explains what we do with any personal data that you provide to us, or that we collect from any enquiry form that you complete whilst you visit our website.
+**Cookie Policy**
 
-**Information That We Collect**
-
-We collect the following data from anyone that completes a newsletter sign up form on our website;
-
-Name and Email Address
-
-**Use of Your Information**
-
-We use the information that we collect from you;
-
-  * the latest news on term and holiday dates
-  * other useful educational news
-  * suggestions and discount vouchers for Days Out and things to do in the school holidays in your area.
-
-
+Cookies collect information about how you browse the website. Please view our [Cookie Policy](https://termdates.co.uk/cookie-policy/) for more information ****
 
 **SSL Certificate**
 
 The Term Dates website ([https://termdates.co.uk](https://termdates.co.uk/)) is a [TrustWave](https://ssl.trustwave.com/) Domain Validated SSL providing website visitors with the assurance that it is trustworthy and secure website
+
+**The Information Commissioner's Office**
+
+The Data Protection Act 1998 requires every data controller who processes personal information to be registered with the ICO. Our Registration Number is ZA150754
 
 **Storing Your Personal Data**
 
@@ -40,4 +30,8 @@ You have the right to access any information that we hold relating to you. We re
 
 **Contacting Us**
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy by emailing us at [info@termdates.co.uk](mailto:info@termdates.co.uk)
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy by either;
+
+Calling us on 02920 700820
+
+Sending an email to [info@termdates.co.uk](mailto:info@termdates.co.uk)
