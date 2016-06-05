@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokemonromhack.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035424id_/http%3A//pokemonromhack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemonromhack.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605124422id_/http%3A//pokemonromhack.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy - Pokemon ROM Hacks
 
