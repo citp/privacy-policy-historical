@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heritageonline.com.au privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016132246id_/https%3A//www.heritage.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritageonline.com.au privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605174007id_/https%3A//www.heritage.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Heritage Bank
 
 ## People First is the way we do business
 
@@ -139,7 +139,7 @@ Depending on any legal obligations to retain your personal information for a cer
 
 We appreciate that you may have concerns in relation to the confidentiality and security of your personal information on the internet. Therefore, we have implemented systems to ensure that your personal information is secure and confidential when you access our website or Heritage on-line internet banking.
 
-When we collect your personal information over the internet, it proceeds via our secure server utilising encryption technology. This helps to protect against unauthorised access to your personal information over the Internet. Your stored personal information is also protected from unauthorised access through the use of multiple firewalls, secure passwords and sign-in processes. Further information about the security systems we employ to protect your personal information is available at [www.heritage.com.au](http://www.heritage.com.au/).
+When we collect your personal information over the internet, it proceeds via our secure server utilising encryption technology. This helps to protect against unauthorised access to your personal information over the Internet. Your stored personal information is also protected from unauthorised access through the use of multiple firewalls, secure passwords and sign-in processes. Further information about the security systems we employ to protect your personal information is available at [heritage.com.au](https://www.heritage.com.au/).
 
 While our website and Heritage on-line internet banking rely on the highest levels of technology to ensure maximum security, no data transmission over the internet can be guaranteed to be totally secure.
 
@@ -149,15 +149,15 @@ To assist us in protecting your personal information, we expect you to keep conf
 
 We maintain the quality of your personal information by taking reasonable steps to ensure that the information collected, used and disclosed is accurate, complete and up-to-date.
 
-You may request access to your personal information (including credit information and credit eligibility information) at any time by visiting any of our branches, by telephoning our Privacy Officer on 13 14 22, by emailing [feedback@heritage.com.au](mailto:feedback@heritage.com.au) or on-line at [www.heritage.com.au](http://www.heritage.com.au/). We may require you to establish your identity prior to providing you with access to your information. In most cases, we will provide you with access to your information. However, there are some circumstances where we may not give you particular information set out in the _Privacy Act 1988_ , for example if it would be unlawful to do so. If we don't give you the information, we will give you the reasons why. In the event that you make a request to access personal information that has been archived, we may charge you a fee. The fee will be discussed with you prior to us actioning your request. We are unable to give you access to your personal information if we are prevented by law or if access would reveal personal information of another person.
+You may request access to your personal information (including credit information and credit eligibility information) at any time by visiting any of our branches, by telephoning our Privacy Officer on 13 14 22, by emailing [feedback@heritage.com.au](mailto:feedback@heritage.com.au) or on-line at [heritage.com.au](https://www.heritage.com.au/). We may require you to establish your identity prior to providing you with access to your information. In most cases, we will provide you with access to your information. However, there are some circumstances where we may not give you particular information set out in the _Privacy Act 1988_ , for example if it would be unlawful to do so. If we don't give you the information, we will give you the reasons why. In the event that you make a request to access personal information that has been archived, we may charge you a fee. The fee will be discussed with you prior to us actioning your request. We are unable to give you access to your personal information if we are prevented by law or if access would reveal personal information of another person.
 
-You may also update your personal information (including credit information and credit eligibility information) at any time by visiting any of our branches, by telephoning our Contact Centre on 13 14 22 or on-line at [www.heritage.com.au](http://www.heritage.com.au/ "Heritage Bank - Corporate Website"). We encourage you to advise us immediately if you change your contact details (such as your phone number or address).
+You may also update your personal information (including credit information and credit eligibility information) at any time by visiting any of our branches, by telephoning our Contact Centre on 13 14 22 or on-line at [heritage.com.au](https://www.heritage.com.au/ "Heritage Bank - Corporate Website"). We encourage you to advise us immediately if you change your contact details (such as your phone number or address).
 
-Finally, you may request that we correct any information (including credit information and credit eligibility information) we hold about you by telephoning our Privacy Officer on 13 14 22, by emailing [feedback@heritage.com.au ](mailto:feedback@heritage.com.au)or on-line at [www.heritage.com.au](http://www.heritage.com.au/). 
+Finally, you may request that we correct any information (including credit information and credit eligibility information) we hold about you by telephoning our Privacy Officer on 13 14 22, by emailing [feedback@heritage.com.au ](mailto:feedback@heritage.com.au)or on-line at [heritage.com.au](https://www.heritage.com.au/). 
 
 ## Do we ever change our Privacy Policy?
 
-From time to time, we may need to review our Privacy Policy. We reserve the right to change our Privacy Policy at any time and to notify you by posting an updated version on our website at [www.heritage.com.au](http://www.heritage.com.au/ "Heritage Bank - Corporate Website").
+From time to time, we may need to review our Privacy Policy. We reserve the right to change our Privacy Policy at any time and to notify you by posting an updated version on our website at [heritage.com.au](https://www.heritage.com.au/ "Heritage Bank - Corporate Website").
 
 ## Do you have any complaints, concerns or questions about our Privacy Policy?
 
@@ -177,7 +177,7 @@ If we are unable to resolve your complaint to your satisfaction within 45 days, 
 
 Our external dispute resolution service is: 
 
-Financial Ombudsman Service (FOS) GPO Box 3 Melbourne, Victoria, 3001 Ph: 1800 367 287 Fax: 03 9613 6399 Website: www.fos.org.au Email: [info@fos.org.au](mailto:info@fos.org.au)
+Financial Ombudsman Service (FOS) GPO Box 3 Melbourne, Victoria, 3001 Ph: 1800 367 287  Fax: 03 9613 6399 Website: www.fos.org.au Email: [info@fos.org.au](mailto:info@fos.org.au)
 
 ## General Approach 
 
@@ -250,7 +250,7 @@ When you provide us with personal information, you consent to us:
 
 
 
-Heritage's Privacy Policy, a copy of which can be obtained online at [www.heritage.com.au](http://www.heritage.com.au/) contains information about how you can access and correct information we hold about you, how you can complain about a breach by us of your privacy rights and how your complaint will be handled. It also contains a more comprehensive list of countries to which your information may be disclosed and will be updated regularly. 
+Heritage's Privacy Policy, a copy of which can be obtained online at [heritage.com.au](https://www.heritage.com.au/) contains information about how you can access and correct information we hold about you, how you can complain about a breach by us of your privacy rights and how your complaint will be handled. It also contains a more comprehensive list of countries to which your information may be disclosed and will be updated regularly. 
 
 ## Contact us
 
