@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the millwardbrown.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102114040id_/http%3A//www.millwardbrown.com/footer/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millwardbrown.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605094534id_/http%3A//www.millwardbrown.com/footer/privacy-terms) for the most accurate reproduction.*
 
-# Privacy & Terms - ..ww.millwardbrown.com
+# Privacy & Terms
 
 This Web site is provided by Millward Brown. The purpose of this privacy policy is to set out the principles governing our use of personal information that we collect from this Web site. By using this Web site, or by registering as a user of the services that we provide, you agree to this use. We ask you to read this privacy policy carefully.
 
