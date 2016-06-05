@@ -1,0 +1,849 @@
+<!--The following is the downloaded HTML source of the medanta.org privacy policy that was archived on 2016-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605192335id_/http%3A//www.medanta.org/privacy-policy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    
+
+    <link rel="shortcut icon" type="image/x-icon" href="../Images/favicon.ico">
+    <link href="Includes/FrontCss/style.css" rel="stylesheet" type="text/css">
+    <link href="Includes/FrontCss/nav-style.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="Includes/ddtabmenufiles/tabmenu.css">
+    <!--[if lte IE 7]>
+        <link rel="stylesheet" type="text/css" href="Includes/FrontCss/ie.css" media="screen" />
+    <![endif]-->
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="Includes/js/jquery-1.2.6.min.js"></script>
+     <script type="text/javascript" src="Includes/js/jquery-1.3.1.min.js"></script>
+    <script type="text/javascript" src="Includes/js/jquery.js"></script>
+    
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+    <script type="text/javascript" src="Includes/js/jquery.youtubeplaylist.js"></script>
+   <script type="text/javascript">
+
+    $(function () {
+        $("ul.demo1").ytplaylist();
+        $("ul.demo2").ytplaylist({ addThumbs: true, autoPlay: false, holderId: 'ytvideo2' });
+    });
+	
+   </script>
+<script type="text/javascript" src="Includes/js/tabcontent1.js"></script>
+<script src="Includes/js/jquery.tweet.js"></script>
+<script type="text/javascript">
+    function randomString(length) {
+        var chars = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXTZabcdefghiklmnopqrstuvwxyz'.split('');
+        var str = '';
+        for (var i = 0; i < length; i++) {
+            str += chars[Math.floor(Math.random() * chars.length)];
+        }
+        return str;
+    }
+    var rnd = randomString(8);
+
+    jQuery(function ($) {
+        $(".rnd").replaceWith(rnd);
+
+
+        $(".demo .code").hide().each(function (i, e) {
+            $(e).before($().
+                      click(function (ev) {
+                          $(e).slideToggle();
+                          $(this).hide();
+                          ev.preventDefault();
+                      }));
+
+        }).each(function (i, e) { eval($(e).text()); });
+    });
+  </script>
+
+   
+       <script type="text/javascript" src="Includes/ddtabmenufiles/ddtabmenu.js"></script>
+
+    <script type="text/javascript" language="javascript" src="Includes/js/jquery.dropdownPlain.js"></script>
+    <script>
+/* open float div	*/
+function divPop(trd){
+		document.getElementById('divPop').style.display='none';
+		document.getElementById(trd).style.display='inline';
+		}
+
+/* health tools / a-z	*/
+function changeTab2(nn){
+	
+	for(i=1;i<=3;i++) {
+		document.getElementById('m'+i).style.display='none';
+		document.getElementById('n'+i).className='';
+	}	
+	document.getElementById('m'+nn).style.display='block';
+	document.getElementById('n'+nn).className='active';
+}	
+    </script>
+
+    <script type="text/javascript">
+
+    /***
+    Simple jQuery Slideshow Script
+    Released by Jon Raasch (jonraasch.com) under FreeBSD license: free to use or modify, not responsible for anything, etc.  Please link out to me if you like it :)
+    ***/
+
+    function slideSwitch() {
+    var $active = $('#slideshow DIV.active');
+
+    if ( $active.length == 0 ) $active = $('#slideshow DIV:last');
+
+    // use this to pull the divs in the order they appear in the markup
+    var $next =  $active.next().length ? $active.next()
+    : $('#slideshow DIV:first');
+
+    // uncomment below to pull the divs randomly
+    // var $sibs  = $active.siblings();
+    // var rndNum = Math.floor(Math.random() * $sibs.length );
+    // var $next  = $( $sibs[ rndNum ] );
+
+
+    $active.addClass('last-active');
+
+    $next.css({opacity: 0.0})
+    .addClass('active')
+    .animate({opacity: 1.0}, 1000, function() {
+    $active.removeClass('active last-active');
+    });
+    }
+
+    $(function() {
+    setInterval( "slideSwitch()", 5000 );
+    });
+    </script>
+
+    <style type="text/css">
+        /*** set the width and height to match your images **/#slideshow
+        {
+            position: relative;
+            height: 188px;
+            width: 244px;
+            background-color: #EAECEF;
+        }
+        #slideshow DIV
+        {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 8;
+            opacity: 0.0;
+            height: 188px;
+            background-color: #EAECEF;
+        }
+        #slideshow DIV.active
+        {
+            z-index: 10;
+            opacity: 1.0;
+        }
+        #slideshow DIV.last-active
+        {
+            z-index: 9;
+        }
+        #slideshow DIV IMG
+        {
+            height: 95px;
+            display: block;
+            border: 0;
+            float: left;
+            margin-bottom: 10px;
+            margin-right: 20px;
+        }
+    </style>
+    <style>
+        .breadcrumb
+        {
+            font-family: Georgia;
+            font-size: 12px;
+            color: #949694;
+            padding-left: 10px;
+        }
+        .breadcrumb a
+        {
+            font-family: Georgia;
+            font-size: 12px;
+            color: #949694;
+            text-decoration: none;
+        }
+        .breadcrumb a:hover
+        {
+            color: #EF4D31;
+            text-decoration: underline;
+        }
+        .title
+        {
+            font-family: Georgia;
+            color: #524D52;
+            font-size: 18px;
+        }
+    </style>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10111593-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+</head>
+<body id="ctl00_ms_body"><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: 0px; left: 0px; top: 0px;"></div>
+    <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjkzODcwNjcwD2QWAmYPZBYCAgMPZBYCAgEPZBYCAgMPZBYCAgEPFgIeC18hSXRlbUNvdW50Av////8PZGR1ZqwF0U05rutOY/Hf6FxzXAYdEQ==">
+
+
+<script src="/ScriptResource.axd?d=gPj-P5tfptYaICbZ-9qGiiMq3ixaGqP_wtLxDKSqh7uAhw01mrAtJOSHfL5WxgARwFZpGpplVZ2Q3KNh8RLUdZR2zZE7CTAiHpGeHDIKlUmHHjVbwcdRflw8oFv-p3qaf2IKKLOC-kv2SsGKxJvbI3Btk_01&amp;t=7f188dca" type="text/javascript"></script>
+    
+    <div class="main">
+        <div class="headerbox">
+            
+
+<script>
+
+    function onkey_PressSearch(e) {
+        e = e || window.event;
+        var code = e.keyCode || e.which;
+        if (code == 13) {
+            code = 9;
+            var ControlID1 = "ctl00_ucTopSearchBar1_imgSearch";
+            var btnControlID = ControlID1;
+            var btn = document.getElementById(btnControlID);
+            if (btn != null) {
+                btn.click();
+                return false;
+            }
+            return true;
+        }
+
+    }
+    
+    
+</script>
+<div class="searchtop">
+    <div style="margin-left:22px;" class="mdright">
+        <a href="index.aspx">Home</a> | <a href="ContactUs.aspx">Contact Us</a> |<a href="sitemap.aspx">
+            Sitemap</a>
+    </div>
+    <div style="float: left; width: 87px ! important; margin: 0px 2px 0px 6px;" class="searchbox">
+                    <div class="searchcorleft">
+                    </div>
+                    <div style="width: 73px; padding-top: 5px;" class="searchspacer">
+                        <a href="MedantaAbdurRazzaqueAnsariMemorial Hospital.pdf" target="_blank" style="color: #FFFFFF;
+                            text-decoration: none;">MEDANTA<br>
+                            RANCHI </a>
+                    </div>
+                    <div class="searchcorright">
+                    </div>
+                </div>
+<div style="float: left; width: 87px ! important; margin: 0px 2px 0px 6px;" class="searchbox">
+        <div class="searchcorleft">
+        </div>
+        <div style="width:72px;padding-top:5px;" class="searchspacer">
+            <a href="indore-medanta.aspx" style="color: #FFFFFF; text-decoration: none;">
+                MEDANTA INDORE</a></div>
+        <div class="searchcorright">
+        </div>
+    </div>
+    
+    <div style="float: left; width: 107px ! important; margin: 0px 6px 0px 2px;" class="searchbox">
+        <div class="searchcorleft">
+        </div>
+        <div style="width:93px;padding-top:5px;" class="searchspacer">
+            <a href="pdf/MediclinickCybercity.pdf" target="_blank" style="color: #FFFFFF; text-decoration: none;">
+                MEDICLINIC CYBERCITY</a></div>
+        <div class="searchcorright">
+        </div>
+    </div>
+    <div style="float: left; width: 104px ! important; margin: 1px 6px 0 0;" class="searchbox">
+        <div class="searchcorleft">
+        </div>
+        <div class="searchspacer" style="padding-top: 5px; width: 89px !important">
+            <a href="medicity_home.aspx" style="color: #FFFFFF; text-decoration: none;">MEDANTA
+                MEDICLINIC</a></div>
+        <div class="searchcorright">
+        </div>
+    </div>
+    <div class="toplink2">
+        <div class="searchcorleft">
+        </div>
+        <div style="padding-top: 5px;" class="toplinkspacer2">
+            <a title="TELEMEDICINE" href="telemedicine.aspx">TELEMEDICINE</a></div>
+        <div class="searchcorright">
+        </div>
+    </div>
+    <div style="float: left; margin-left:6px;" class="searchbox">
+        <div class="searchcorleft">
+        </div>
+        <div style="padding-top: 5px;" class="searchspacer">
+            <a style="color: #FFFFFF; text-decoration: none;" href="Search.aspx">
+                <img border="0" hspace="3" src="images/searcharrow.jpg">SEARCH</a>
+            
+        </div>
+        
+        <div class="searchcorright">
+        </div>
+    </div>
+</div>
+<div class="header">
+    
+    <div class="logo" style="margin-right: 300px;">
+        <a href="index.aspx">
+            <img src="images/logo.jpg" alt="logo" title="Medanta-The Medicity" border="0"></a></div>
+    <div class="helplineno">
+        hotline no.<br>
+        <span>+91 124</span> <span style="color: #F15A3D; font-size: 16px;">4141414</span>
+        <br>
+    </div>
+    
+</div>
+<!--------------------------------------ENDHEADER------------------------------------------>
+<!--------------------------------------NAVIGATION------------------------------------------>
+<div style="width: 971px; border-bottom: grey 5px solid; -border-bottom: grey 5px solid;
+    margin-top: 0px; border-top: solid white 1px; margin-bottom: 2px; margin-top: 10px;">
+    <div id="menu">
+        <ul class="top-level">
+            <li class="top-level-li"><a class="top-level-a down" href="about_an_overview.aspx"><b style="font-weight: normal;">ABOUT MEDANTA</b>
+                <!--[if gte IE 7]><!-->
+            </a>
+                <!--<![endif]-->
+                <!--[if lte IE 6]><table><tr><td><![endif]-->
+                <ul class="drop-down">
+                    <li><a href="about_an_overview.aspx">An Overview </a></li>
+                    <li><a href="about_an_overview.aspx#vision-value">Vision &amp; Values </a></li>
+                    <li><a href="about_an_overview.aspx#mission">Mission</a></li>
+                    <li><a href="chairman_message.aspx">Chairman's Message </a></li>
+                    <li><a href="about_highlight_technology.aspx">Highlights &amp; Technology </a></li>
+                    <li><a href="patient_testimonials.aspx">Testimonials</a></li>
+                    
+                    <li><a href="medicity_home.aspx">Medanta Mediclinic </a></li>
+                    <li><a href="international-training-center.aspx">International Training Centre (ITC)</a></li>
+                    
+                    
+                    <li><a href="News-Category-List.aspx">News </a></li>
+                    <li><a href="Event-Category-List.aspx">Events </a></li>
+                    <li><a href="PressRelease-Category-List.aspx">Press Releases </a></li>
+                    <li><a href="Video-CategoryList.aspx">Videos </a></li>
+                    <li><a href="JobCategoryList.aspx">Careers </a></li>
+                    <li><a href="about_gallery.aspx">Medanta Photo Tour </a></li>
+                    <li><a href="Research.aspx">Research</a></li>
+                    <li><a href="privacy-policy.aspx">Privacy Policy</a></li>
+                    <li><a href="pdf/Medanta-CSR-Policy_final-execution_19January-2016.pdf" target="_blank">CSR Policy</a></li>
+                    <li><a href="tb-free-haryana.aspx">TB Free Haryana</a></li>
+                    <li><a href="pdf/Medanta-Whistle-Blower-Policy_Final-execution_19January2016.pdf" target="_blank">Whistle Blower Policy</a></li>
+
+                    <li><a href="Corp Brochure_Oct_2013_F.PDF" target="_blank">Download Brochure </a>
+                    </li>
+                    <li><a href="about_locationmap.aspx">Location Map </a></li>
+                    <li><a href="ContactUs.aspx">Contact Us </a></li>
+                </ul>
+                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </li>
+            <li class="top-level-li"><a class="top-level-a down" href="institute-department.aspx">
+                <b style="font-weight: normal;">INSTITUTES &amp; DEPARTMENTS</b>
+                <!--[if gte IE 7]><!-->
+            </a>
+                <!--<![endif]-->
+                <!--[if lte IE 6]><table><tr><td><![endif]-->
+                <ul class="drop-down" style="width: 200px;">
+                    <li><a class="fly" href="institutes.aspx"><span>Institutes </span>
+                        <!--[if gte IE 7]><!-->
+                    </a>
+                        <!--<![endif]-->
+                        <!--[if lte IE 6]><table><tr><td><![endif]-->
+                        <ul>
+                            <li><a href="bone_joint_institute.aspx">Bone &amp; Joint Institute </a></li>
+                            <li><a href="cancer.aspx" class="fly123" style="-border: solid #6B6D73 1px;"><span style="background: #6B6D73 url(images/fly.gif) no-repeat 242px 5px; padding-left: 0px;
+                                display: block;">Cancer Institute </span>
+                                <!--[if gte IE 7]><!-->
+                            </a>
+                                <!--<![endif]-->
+                                <!--[if lte IE 6]><table><tr><td><![endif]-->
+                                <ul>
+                                    <li><a href="cancer_medical_oncology.aspx">Division of Medical Oncology &amp; Haematology
+                                    </a></li>
+                                    <li><a href="cancer_radiation_oncology.aspx">Division of Radiation Oncology </a>
+                                    </li>
+                                </ul>
+                                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                            </li>
+                            <li><a href="institutes_heart.aspx" class="fly123" style="-border: solid #6B6D73 1px;">
+                                <span style="background: #6B6D73 url(images/fly.gif) no-repeat 242px 5px; padding-left: 0px;
+                                    display: block;">Heart Institute </span>
+                                <!--[if gte IE 7]><!-->
+                            </a>
+                                <!--<![endif]-->
+                                <!--[if lte IE 6]><table><tr><td><![endif]-->
+                                <ul>
+                                    <li><a href="department_pediatric_cardiology.aspx">Department of Pediatric Cardiology
+                                        and Congenital Heart Disease</a></li>
+                                    <li><a href="heart_cardio_thoracic.aspx">Division of Cardio Thoracic &amp; Vascular
+                                        Surgery </a></li>
+                                    <li><a href="heart_cardiology.aspx">Division of Cardiology </a></li>
+                                </ul>
+                                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                            </li>
+                            <li><a href="criticalcare.aspx">Institute of Critical Care &amp; Anaesthesiology </a>
+                            </li>
+                            <li><a href="digestive_hepatobiliary_sciences.aspx">Institute of Digestive &amp; Hepatobiliary
+                                Sciences</a></li>
+                            <li><a href="neurosciences.aspx">Institute of Neurosciences </a></li>
+                            <li><a href="liver_transplantation.aspx">Institute of Liver Transplantation and Regenerative
+                                Medicine</a></li>
+                            <li><a href="kidney-uro.aspx">Kidney &amp; Urology Institute </a></li>
+                            
+                            <li><a href="vattikutti_robotic_surgeries.aspx">Medanta Vattikutti Institute of Robotic
+                                Surgery </a></li>
+                        </ul>
+                        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                    </li>
+                    <li><a class="fly" href="departments.aspx"><span>Departments &amp; Divisions </span>
+                        <!--[if gte IE 7]><!-->
+                    </a>
+                        <!--<![endif]-->
+                        <!--[if lte IE 6]><table><tr><td><![endif]-->
+                        <ul>
+                            <li><a href="department_dental.aspx">Department of Dental Sciences</a></li>
+                            <li><a href="department_dermatology.aspx">Department of Dermatology </a></li>
+                            <li><a href="department_integrative_medicine_holistic_therapies.aspx">Department of
+                                Integrative Medicine &amp; Holistic Therapies</a></li>
+                            <li><a href="department_internal_medicine.aspx">Department of Internal Medicine</a></li>
+                            <li><a href="department_nursing.aspx">Department of Nursing</a></li>
+                            <li><a href="department_opthalmology.aspx">Division of Ophthalmology</a></li>
+                            <li><a href="department_pathology_laboratory.aspx">Department of Pathology and Laboratory
+                                Medicine</a></li>
+                            <li><a href="department_pediatric_hepatology_liver.aspx">Department of Pediatric Gastroenterology,
+                                Hepatology and Liver Transplantation</a></li>
+                            <li><a href="department_physio_rehabilitation.aspx">Department of Physiotherapy and
+                                Rehabilitation</a></li>
+                            <li><a href="department_raspiratory_medicine.aspx">Department of Respiratory &amp; Sleep
+                                Medicine</a></li>
+                            <li><a href="department_bloodbank.aspx">Department of Transfusion Medicine (Blood Bank)</a></li>
+                            <li><a href="department_chest.aspx">Division of Chest Services</a></li>
+                            <li><a href="department_endocrinology.aspx">Division of Endocrinology &amp; Diabetes</a></li>
+                            <li><a href="department_ent_headneck.aspx">Division of ENT &amp; Head Neck Surgery</a></li>
+                            <li><a href="department_bariatric_surgery.aspx">Division of GI &amp; Bariatric Surgery
+                            </a></li>
+                            <li><a href="department_gynaecology.aspx">Division of Gynaecology &amp; Gynaec Oncology
+                            </a></li>
+                            <li><a href="department_mental_health.aspx">Division of Mental Health &amp; Quality
+                                of Life</a></li>
+                            <li><a href="department_peripheral_vascular.aspx">Division of Peripheral Vascular &amp;
+                                Endovascular Sciences </a></li>
+                            <li><a href="department_surgery.aspx">Division of Plastic, Aesthetic &amp; Reconstructive
+                                Surgery </a></li>
+                            <li><a href="department_radiology_medicine.aspx">Division of Radiology &amp; Nuclear
+                                Medicine </a></li>
+                            <li><a href="rheumatology_immunology.aspx">Division of Rheumatology &amp; Clinical Immunology</a>
+                            </li>
+                            <li><a href="department_Emergency_Trauma.aspx">Emergency and Trauma Care </a></li>
+                            <li><a href="medanta_breast_service.aspx">Medanta Breast Services</a></li>
+                            <li><a href="department_pharmecy.aspx">Pharmacy </a></li>
+                        </ul>
+                        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                    </li>
+                </ul>
+                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </li>
+            <li class="top-level-li"><a class="top-level-a down" href="doctor_Department.aspx"><b style="font-weight: normal;">OUR DOCTORS</b>
+                <!--[if gte IE 7]><!-->
+            </a>
+                <!--<![endif]-->
+                <!--[if lte IE 6]><table><tr><td><![endif]-->
+                <ul class="drop-down">
+                    <li><a href="doctor_list.aspx">Find a Doctor </a></li>
+                    <li><a href="AppointmentRequest.aspx">Schedule an Appointment </a></li>
+                    
+                    <li><a href="Fellowship_advert.pdf" target="_blank">Clinical Fellowships</a></li>
+                </ul>
+                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </li>
+            <li class="top-level-li"><a class="top-level-a down" href="patientCare.aspx"><b style="font-weight: normal;">
+                PATIENT CARE</b>
+                <!--[if gte IE 7]><!-->
+            </a>
+                <!--<![endif]-->
+                <!--[if lte IE 6]><table><tr><td><![endif]-->
+                <ul class="drop-down">
+                    <li><a href="patient_why_medicity.aspx">Why Medanta-The Medicity </a></li>
+                    <li><a href="patient_admission_pro.aspx">Admission Procedure </a></li>
+                    <li><a href="patient_ourtreatment.aspx">Our Treatments </a></li>
+                    
+                    <li><a href="RequestQuote.aspx">Request a Quote </a></li>
+                    <li><a href="authorise_committee.aspx">Authorization Committee For Organ Transplantation</a></li>
+                </ul>
+                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </li>
+            <li class="top-level-li"><a class="top-level-a down" href="international_partners_services.aspx">
+                <b style="font-weight: normal;">INTERNATIONAL PATIENTS</b>
+                <!--[if gte IE 7]><!-->
+            </a>
+                <!--<![endif]-->
+                <!--[if lte IE 6]><table><tr><td><![endif]-->
+                <ul class="drop-down">
+                    <li><a href="international_why_india.aspx">Why India </a></li>
+                    <li><a href="international_why_medicity.aspx">Why Medanta </a></li>
+                    <li><a href="institute-department.aspx">Our Procedures</a></li>
+                    <li><a href="patient_international_admission_pro.aspx">Admission Procedure </a></li>
+                    
+                    <li><a href="international_special_service.aspx">Special Services </a></li>
+                    
+                    <li><a href="RequestQuote.aspx">Send an Enquiry </a></li>
+                    <li><a href="#">Organ Donation Guide lines</a>
+                        <!--[if lte IE 6]><table><tr><td><![endif]-->
+                        <ul style="margin-left: -370px; border-bottom: 4px solid #EF4D31;">
+                            <li><a href="pdf/general-instructions-domestic-foreign-nationals.pdf" target="_blank">
+                                Guidelines</a></li>
+                            <li><a href="pdf/documentation-kidney-transplant.pdf" target="_blank">Kidney Donation
+                                Forms</a></li>
+                            <li><a href="pdf/documentation-liver-transplant.pdf" target="_blank">Liver Donation
+                                Forms</a></li>
+                        </ul>
+                        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                    </li>
+                    <li><a href="patient_imp_phone.aspx">Contact Information </a></li>
+                    
+                </ul>
+                
+                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </li>
+        </ul>
+    </div>
+</div>
+
+            
+
+ <!--------------------------------------ENDNAVIGATION------------------------------------------>
+            <div class="detailed_header">
+                <div class="neurosciences">
+                    <div class="neurologo">
+                        <img src="images/cardiology.jpg" hspace="10" vspace="7"></div>
+                    <div class="logoname">
+                        
+                    </div>
+                    About Medanta
+                </div>
+                <div class="linksdetailed">
+                    <a href="index.aspx">Home</a> &gt; <a href="about_an_overview.aspx">About Medanta</a> &gt; Privacy Policy
+                </div>
+            </div>
+            <!-------------------------------MEDICITYBOX---------------------------------------------->
+            <!--  <div class="medicity">
+      
+     
+      
+    </div>-->
+            <!-------------------------------ENDMEDICITYBOX---------------------------------------------->
+            <div class="contentbox">
+                <!-------------------------------STARTLEFT_PART---------------------------------------------->
+                <div class="left_part">
+                    <div class="chairmancomment">
+                        <div class="institutemessage">
+                            Privacy Policy</div>
+                        <div class="bordertopspace">
+                            <br>
+                        </div>
+                        
+                        <div class="highlight" style="text-align: justify;">
+                        Medanta - The Medicity ("Medanta") is committed to the protection of the information that you may provide to us ("Confidential Information"). We at Medanta take appropriate security measures to protect such Information against unauthorized access or disclosure.<br><br>
+                        We restrict access to your Information only to such persons who need to know that information in order to provide services to you.<br><br>
+
+                        <div class="headTexBig">Type of Information and source of collection</div>
+                        We collect information about you when you visit our Website and/ or through your physical interaction with our staff.The type of information which we generally collect is your name, address, age, sex or medical report(s)/ history, physical, physiological and mental health condition or any other information as required to provide you desired services.<br><br>
+                        We will not disclose above information to any other person unless required for providing you the desired services or required under the Law or if the information is already in public domain. You may choose to not provide any sensitive information to us, if you feel and find it to be confidential / sensitive.<br><br>
+                        We never collect bank/credit card information of the Information Provider.<br><br>
+                        You are deemed to have provided your consent to share the information with concerned persons while providing you the desired services as above. You may withdraw your consent in writing at any time and we shall have the option not to provide the services for which information was provided.<br><br>
+                       <div class="headTexBig">Data security &amp; electronic data encryption</div>
+                       The information collected from you by us is secured and can be accessed by the authorised persons only.<br><br>
+                       We have implemented adequate security practices and standards with necessary controls commensurate with the information being provided.<br><br>
+                      <div class="headTexBig">Purpose and use of information</div>
+                      We may use the information shared by you for the purpose of providing various services offered by the Hospital.<br><br>
+                     <div class="headTexBig">Disclosure/sharing of information</div>
+                     We may share your information:<br><br>
+                     <ul>
+                        <li>With concerned persons who need to use the same for authorised purpose/ providing desired services.</li>
+                        <li>To protect and defend the right and property of Hospital.</li>
+                        <li>Wherever required by law / Govt. Agencies.</li>
+                        <li>With you if you may desire so subsequently</li>
+                     </ul><br>
+                    The information shared by you shall not be displayed by us for any promotional activity<br><br>
+                    We shall address any discrepancies and grievances of provider of the information with respect to processing of information in a time bound manner. For this purpose, we have designated Medical Superintendent as Grievance Officer of the Company. He can be reached as per following details:<br><br>
+                    <strong>Tel. No. (s) :</strong> 0124 - 414 1414<br> <strong>Email ID :</strong> <a href="mailto:ms@medanta.org">ms@medanta.org</a><br><br>
+
+                    Medanta reserves the right to update, change or modify this Policy at any time. Please read the Policy periodically especially before you provide any Confidential Information. We welcome your feedback, queries and suggestions please contact us by emailing us at <a href="mailto:feedback@medanta.org">feedback@medanta.org</a>.
+
+                        </div>
+                        
+                        
+                        
+                    </div>
+                </div>
+                <!-------------------------------ENDLEFT_PART---------------------------------------------->
+                <!-------------------------------STARTRIGHT_PART---------------------------------------------->
+                <div class="right_part">
+                    <div class="overview">
+    <div class="overviewheading">
+        <a href="about_an_overview.aspx">About Medanta </a>
+    </div>
+    <ul class="drop-down">
+                    <li><a href="about_an_overview.aspx">An Overview </a></li>
+                    <li><a href="about_an_overview.aspx#vision-value">Vision &amp; Values </a></li>
+                    <li><a href="about_an_overview.aspx#mission">Mission</a></li>
+                    <li><a href="chairman_message.aspx">Chairman's Message </a></li>
+                    <li><a href="about_highlight_technology.aspx">Highlights &amp; Technology </a></li>
+                    <li><a href="patient_testimonials.aspx">Testimonials</a></li>
+                    
+                    <li><a href="medicity_home.aspx">Medanta Mediclinic </a></li>
+                    <li><a href="international-training-center.aspx">International Training Centre (ITC)</a></li>                                       
+                    
+                    <li><a href="News-Category-List.aspx">News </a></li>
+                    <li><a href="Event-Category-List.aspx">Events </a></li>
+                    <li><a href="PressRelease-Category-List.aspx">Press Releases </a></li>
+                    <li><a href="Video-CategoryList.aspx">Videos </a></li>
+                    <li><a href="JobCategoryList.aspx">Careers </a></li>
+                    <li><a href="about_gallery.aspx">Medanta Photo Tour </a></li>
+                    <li><a href="Research.aspx">Research</a></li>
+                    <li><a href="privacy-policy.aspx">Privacy Policy</a></li>
+                    <li><a href="pdf/Medanta-CSR-Policy_final-execution_19January-2016.pdf" target="_blank">CSR Policy</a></li>
+                    <li><a href="tb-free-haryana.aspx">TB Free Haryana</a></li>
+                    <li><a href="pdf/Medanta-Whistle-Blower-Policy_Final-execution_19January2016.pdf" target="_blank">Whistle Blower Policy</a></li>
+                    <li><a href="MedantaBrochures.pdf" target="_blank">Download Brochure </a></li>
+                    <li><a href="about_locationmap.aspx">Location Map </a></li>
+                    <li><a href="ContactUs.aspx">Contact Us </a></li>
+                </ul>
+</div>
+<!-------------------------------------START_RIGHT_PART------------------------------------->
+	
+	
+	  
+	  <div class="rightframe">
+        <div class="tab-box">
+		 <a href="javascript:;" class="tabLink activeLink" id="cont-1">Our Doctors
+		 </a>
+		<a href="javascript:;" class="tabLink " id="cont-2">Find a Doctor</a>
+          <!-- <a href="javascript:;" class="tabLink " id="cont-3">Tab 3</a> -->
+        </div>
+        <div class="tabcontent" id="cont-1-1">
+          <div class="doctorcontent">
+            <div class="imagetext">
+              <div class="image"><img src="images/doctor.jpg"></div>
+              <strong>Dr. Ashish Kakkar</strong><span style="font-family:Arial, Helvetica, sans-serif;"> Senior Consultant -
+              Dept. of Dental Sciences</span>
+              <p style="float:left; color:#CCCCCC;"><a href="#" style="color:#969494;">View Profile&gt;&gt;</a></p>
+            </div>
+            <div class="moredoc" style="margin-left:10px;"><a href="#">more doctors &gt;&gt;</a></div>
+          </div>
+        </div>
+        <div class="tabcontent hide" id="cont-2-1">
+        <div class="doctorfind">  <label>Doctor Name</label>
+          <br>
+          <input type="text" size="30">
+          </div>
+          <div class="doctorfind"> <label>Department</label>
+          <br>
+          <input type="text" size="30">
+          </div>
+          <div class="doctorfind"> <label>Specialization</label>
+          <br>
+          <select size="1" style="width:205px;">
+            <option>lorem ipsum</option>
+            <option>lorem ipsum</option>
+            <option>lorem ipsum</option>
+            <option>lorem ipsum</option>
+            <option>lorem ipsum</option>
+            <option>lorem ipsum</option>
+            <option>lorem ipsum</option>
+          </select>
+		   </div>
+          <div class="moredoc" style="width:100px; height:15px; padding:5px; margin-top:5px; float:right;"><a href="#">Search &gt;&gt;</a></div>
+        </div>
+        <div class="tabcontent hide" id="cont-3-1"> This is content box Three </div>
+      </div>
+	  
+	  <div class="newletter">
+        <div class="subscribeheading">Newsletter Subscription
+          <div class="serchtext">
+            <input name="" type="text" value="Enter your email address" onfocus="javascript:this.value='';" style="float:left; border:#CCCCCC solid 1px; width:140px;; font-family:arial; font-size:11px; height:16px">
+            <input type="button" class="btn" value="Subscribe" ;="">
+          </div>
+        </div>
+        <br>
+        <div class="banner"><img src="images/banner.jpg"></div>
+      </div>
+                    <!-------------------------------ENDRIGHT_PART---------------------------------------------->
+                </div>
+                
+              </div>
+            
+
+
+            
+<script type="text/javascript" src="Includes/JS/wz_tooltip.js"></script>
+<div class="clr"></div>
+<div class="categories">
+    <div class="listcategory">
+        <div class="listtype">
+            <ul>
+                <li><a href="about_an_overview.aspx"><strong>About Medanta</strong></a></li>
+                <li><a href="about_an_overview.aspx">+ An Overview</a></li>
+                <li><a href="about_an_overview.aspx#vision-value">+ Vision &amp; Values </a></li>
+                <li><a href="medicity_home.aspx">+ Medanta Mediclinic </a></li>
+                <li><a href="chairman_message.aspx">+ Chairman's Message </a></li>
+                 <li><a href="about_highlight_technology.aspx">+ Highlights &amp; Technology </a></li>
+                <li><a href="about_affiliations.aspx">+ Affiliations </a></li>
+                <li><a href="#">+ Corporate Social <br>&nbsp; &nbsp;Responsibility </a></li><a href="#">
+                
+              
+               
+            </a></ul><a href="#">
+        </a></div><a href="#">
+        </a><div class="listtype"><a href="#">
+            </a><ul><a href="#"> 
+              </a><li><a href="#"></a><a href="News-Category-List.aspx">+ News </a></li>
+            <li><a href="Event-Category-List.aspx">+ Events </a></li>
+                <li><a href="PressRelease-Category-List.aspx">+ Press Releases </a></li>
+                <li><a href="Video-CategoryList.aspx">+ Videos </a></li>
+                <li><a href="JobCategoryList.aspx">+ Careers </a></li>
+                <li><a href="ContactUs.aspx">+ Contact Us </a></li>
+                <li><a href="about_locationmap.aspx">+ Location Map</a></li>
+                <li><a href="sitemap.aspx">+ Sitemap</a></li>
+            </ul>
+        </div>
+        <div class="listtype">
+            <ul>
+                <li><a href="institute-department.aspx"><strong>Our Institutes &amp; <br>Departments</strong></a></li>
+                <li><a href="institutes.aspx">+ Institutes</a></li>
+                <li><a href="departments.aspx">+ Departments</a></li>
+                
+            </ul>
+        </div>
+        <div class="listtype">
+            <ul>
+                <li><a href="doctor_department.aspx"><strong>Our Doctors</strong></a></li>
+                <li><a href="doctor_list.aspx">+ Find a Doctor</a></li>
+                <li><a href="AppointmentRequest.aspx">+ Schedule an Appointment</a></li>
+                
+                <li><a href="Fellowship_advert.pdf" target="_blank">+ Clinical Fellowships</a></li>
+               
+            </ul>
+        </div>
+        <div class="listtype">
+            <ul>
+                <li><a href="patientCare.aspx"><strong>Patient Care</strong></a></li>
+                <li><a href="patient_why_medicity.aspx">+ Why Medanta-The Medicity</a></li>
+                <li><a href="patient_admission_pro.aspx">+ Admission Procedure</a></li>
+                <li><a href="patient_ourtreatment.aspx">+ Our Treatments</a></li>
+                <li><a href="#url">+ Health Programmes</a></li>
+                
+                <li><a href="RequestQuote.aspx">+ Request a Quote</a></li>
+                <li><a class="fly" href="international_partners_services.aspx"><span>+ International
+                    Patients</span></a></li>
+            </ul>
+        </div>
+        <div class="listtype" style="width:120px;">
+            <ul>    <li><a href="healthyliving.aspx"><strong>Healthy Living</strong></a></li>
+                <li><a href="HealthCalculator.aspx ">+ Health Tools </a></li>
+                <li><a href="HealthTip-list.aspx ">+ Health Tips</a></li>
+                <li><a href="Medanta_wellness_prog.aspx">+ Wellness Programme</a></li>   
+            </ul>
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </div>
+</div>
+<div class="footer">
+<div class="rssbBox">
+    <div class="rss">
+        <a href="RSS-Main.aspx" onmouseover="Tip('RSS', BGCOLOR, '#ffffff')" onmouseout="UnTip()">
+            <img src="images/rss.jpg" border="0"></a></div>
+    <div class="rss">
+        
+        <a class="addthis_button" href="http://www.addthis.com/bookmark.php">
+            <img src="images/rss_2.jpg" border="0"></a>
+
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b597dbe2f4d5ebd"></script>
+
+    </div>
+    </div>
+    <div class="footermiddle">
+        <div class="follow">
+            Follow us online</div>
+        <p class="copyright" style="margin-left:196px;">
+            Copyright © 2012 Medanta The Medicity. All Rights Reserved.</p>
+    </div>
+    <div class="facebook">
+        <a href="http://www.facebook.com/pages/Medanta-The-Medicity/203679022987968" target="_blank"><img src="images/feedback.jpg" width="45" height="60" border="0"></a></div>
+			<!-- <div class="facebook">
+        <a href="#" onmouseover="Tip('Coming Soon....', BGCOLOR, '#ffffff')" onmouseout="UnTip()">
+            <img src="images/feedback.jpg" width="45" height="60" border="0" /></a></div> -->
+    <div class="facebook">
+        <a href="http://twitter.com/medanta" target="_blank">
+            <img src="images/twitter.jpg" width="45" height="60" border="0"></a></div>
+    <div class="facebook">
+        <a href="#" onmouseover="Tip('Coming Soon....', BGCOLOR, '#ffffff')" onmouseout="UnTip()">
+            <img src="images/youtube.jpg" width="44" height="60" border="0"></a></div>
+    
+    
+        
+    <div class="olivelogo"><div style="color:#FFFFFF;" class="designlogotext">Designed <br>&amp; Developed by</div><div class="designlogoimg">
+        <a title="Website Designed and Developed by Olive" target="_blank" href="http://www.oliveglobal.com/">
+			<img height="28" border="0" width="81" alt="Website Designed and Developed by Olive" src="images/olivelogo.png"></a></div>
+		</div>        
+    
+</div>
+<!-------------------------------------END_RIGHT_PART------------------------------------->
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".tabLink").each(function(){
+      $(this).click(function(){
+        tabeId = $(this).attr('id');
+        $(".tabLink").removeClass("activeLink");
+        $(this).addClass("activeLink");
+        $(".tabcontent").addClass("hide");
+        $("#"+tabeId+"-1").removeClass("hide")   
+        return false;	  
+      });
+    });  
+  });
+</script>
+
+        <div class="clr"></div>
+        </div>
+        
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-10111593-1");
+        pageTracker._trackPageview();
+    } catch (err) { }
+</script>
+
+
+
+</body></html>
