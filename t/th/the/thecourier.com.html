@@ -1,1022 +1,1023 @@
-<!--The following is the downloaded HTML source of the thecourier.com privacy policy that was archived on 2013-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207124216id_/http%3A//www.thecourier.com/templates/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecourier.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606001639id_/http%3A//thecourier.com/member-service/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head>
-<title>Courier Electronic Edition - Findlay, Ohio: PRIVACY</title>
+<!DOCTYPE html><html class="no-js" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
 
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="UTF-8">
+<meta name="google-site-verification" content="ixyM4t0ZI_ld26cRNLxMpMm45boygoRE9wwuvtPxK4I">
+	<title>The Courier   » Privacy Policy</title>
 
-<meta name="keywords" content="Findlay,Ohio,Newspaper,Hancock County,Courier,classifieds,news,sports,weather,advertising,community,shopping,Arlington,Arcadia,Van Buren,Benton Ridge,McComb,Mt. Cory,Rawson,Jenera,Mt. Blanchard,West Independence,Williamstown,Blanchard River">
-<meta name="description" content="The Findlay Courier - Online Edition, the leading news and information Web site in the Northwest Ohio area, featuring breaking news, obituaries, business, sports, and entertainment stories as well as blogs, real estate, jobs and classifieds.">
-<meta name="verify-v1" content="8nwzM/2++j8GgZ3gCk0hgNeZLxQV4HO9YZd4IyukTL8="> 
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
 
-<!-- BEGIN: Stylesheets -->
-<link rel="stylesheet" type="text/css" media="screen" href="/CSS/CEE3x/Default.css">
-<style type="text/css" media="screen">
-	@import "/CSS/CEE3x/Advanced.css";
-</style>
-<!-- END: Stylesheets -->
-
-
-<!-- BEGIN: Text Sizer -->
-<script type="text/javascript">
-	if( typeof(jQuery) == "undefined" )
-		document.writeln( '<scr' + 'ipt type="text/javascript" src="/Common/JS/jQuery/jquery.js"></sc' + 'ript>' );
-</script><script type="text/javascript" src="/Common/JS/jQuery/jquery.js"></script>
-
-<script type="text/javascript" src="/Common/JS/jQuery/cookie/jquery.cookie.js"></script>
-
-<script type="text/javascript" src="/Common/JS/TextSizer/textsizer.js">
-/***********************************************
-* Document Text Sizer- Copyright 2003 - Taewook Kang.  All rights reserved.
-* Coded by: Taewook Kang (http://www.txkang.com)
-* This notice must stay intact for use
-* Visit http://www.dynamicdrive.com/ for full source code
-***********************************************/
-</script>
-<script type="text/javascript">
-	//Specify affected tags. Add or remove from list:
-	tgs = new Array( 'p', 'dt', 'dd' );
-
-	//Specify spectrum of different font sizes:
-	szs = new Array( '10px', '12px', '14px', '16px', '18px' );	//new Array( 'xx-small','x-small','small','medium','large','x-large','xx-large' );
-	//szs = new Array( '80%', '90%', '100%', '110%', '120%', '130%' );	//new Array( 'xx-small','x-small','small','medium','large','x-large','xx-large' );
-	startSz = 0;
-
-	if( typeof(jQuery) != "undefined" )
-	{
-		jQuery(document).ready(function() {
-			loadStoredTS( "centercontent" );
-		});
-	}
-</script>
-
-<!-- END: Text Sizer -->
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
-<body>
-
-<div id="banner"><!-- header -->
-
-	<div id="ceeTitle">
-		<h1>The Courier Electronic Edition</h1>
-	</div>
-
-
-<div style="position:absolute;top:1px;left:1px;color:white;margin-top:8px;">
-
-
-
-
-				
-
-<div id="wxWrap">
-<!--
-    <span id="wxIntro">&nbsp;
-        Currently in Findlay, OH: 
-    </span>
--->
-    <span id="wxIcon2"></span>
-    <span id="wxTemp"></span>
-    <br>&nbsp;<a style="font-size: 9px; color: #ffffff" href="http://www.thecourier.com/templates/weather/weather.asp">
-more weather info &gt;&gt;</a>
-</div>
-
-
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
-<script type="text/javascript">
-// javascript will go here
-$(function(){
-
-    // Specify the ZIP/location code and units (f or c)
-    var loc = '45840'; // or e.g. SPXX0050
-    var u = 'f';
-
-    var query = "SELECT item.condition FROM weather.forecast WHERE location='" + loc + "' AND u='" + u + "'";
-    var cacheBuster = Math.floor((new Date().getTime()) / 1200 / 1000);
-    var url = 'http://query.yahooapis.com/v1/public/yql?q=' + encodeURIComponent(query) + '&format=json&_nocache=' + cacheBuster;
-
-    window['wxCallback'] = function(data) {
-        var info = data.query.results.channel.item.condition;
-        $('#wxIcon').css({
-            backgroundPosition: '-' + (61 * info.code) + 'px 0'
-        }).attr({
-            title: info.text
-        });
-        $('#wxIcon2').append('<img src="http://l.yimg.com/a/i/us/we/52/' + info.code + '.gif" width="34" height="34" title="' + info.text + '" />');
-        $('#wxTemp').html(info.temp + '&deg;' + (u.toUpperCase()));
-    };
-
-    $.ajax({
-        url: url,
-        dataType: 'jsonp',
-        cache: true,
-        jsonpCallback: 'wxCallback'
-    });
-    
-});
-</script>
-
-
-
-	
-</div>	
-<!--	
-	<div id="Loading" style='position:absolute;top:1px;left:1px;color:white;margin-top:8px;display:none;'>
-	
-	
-		<img src="/images/loading.gif" border="0" align="absmiddle" 
-			style="width:32px;height:32px;margin-right:3px;padding:6px;" > 
-		Loading Weather Widget...
-	
-	</div>
--->
-
-	
-	<div class="UserGreeting">
-<!-- inc.greeting.txt normally goes here -->	
-      <a href="https://classadz.vdata.com/FindlayCirc/SelectOption.aspx" target="_blank"><img src="http://thecourier.com/graphics/ecourierlogo1.jpg"></a>&nbsp;&nbsp;&nbsp;
-     
-	</div>
-
-</div> <!-- end of header -->
-
-<!--
-			{
-				mainTab: new TabItem( "Marketplace", "^http://www.bsconnection.com/CourierMarketplace/tabid/196/Default.aspx", null ),
-				subTabs: new Array(
-					new TabItem( "Courier Marketplace", "^http://www.bsconnection.com/CourierMarketplace/tabid/196/Default.aspx", null )
-				)
-			},
-			-->
-
-<!-- BEGIN: NAVIGATION -->
-<div id="navbottom">
-<div id="nav">
-<!--
-   "Sliding doors with a drop line three" by Stu Nicholls
-   http://www.cssplay.co.uk/menus/doors_drop_line_three.html
-   Adapted for The Courier Electronic Edition by Findlay Internet
- -->
-<ul class="select first">
-<li><a href="/index.asp"><b>Home</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="sub">
-<li><a class="header">HOME:</a></li>
-<li><a href="/templates/print_edition/print_edition.asp">Print Edition</a></li>
-<li><a href="https://classadz.vdata.com/FindlayCirc/" target="_blank">Circulation</a></li>
-<li><a href="http://thecourier.mycapture.com/mycapture/index.asp">Photo Reprints</a></li>
-<li><a href="/NIE/index.html">Newspaper in Education</a></li>
-<li><a href="/celebrations/" target="_blank">Celebrations!</a></li>
-<li><a href="/templates/forms/forms.asp">Submission Forms</a></li>
-<li><a href="/templates/print_edition/history.asp">History</a></li>
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-</ul>
-<ul class="select">
-<li><a href="/templates/news/news.asp"><b>News</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="sub">
-<li><a class="header">NEWS:</a></li>
-<li><a href="/articleredirector.asp?d=today_idx&amp;c=n">Local News</a></li>
-<li><a href="/articleredirector.asp?d=today&amp;c=o">Obituaries</a></li>
-<li><a href="/news/obits/ObituaryForm.asp" target="_blank">Obituary Form</a></li>
-<li><a href="/templates/newsbank/searchpage.asp">Archives</a></li>
-<li><a href="/articleredirector.asp?d=today_idx&amp;c=brief">News Briefs</a></li>
-<li><a href="/templates/financial/financialnews.asp">Financial</a></li>
-<li><a href="http://entertainment.thecourier.com">Entertainment</a></li>
-<li><a href="/templates/weather/weather.asp">Weather</a></li>
-<li><a href="http://video.ap.org/?f=OHFIN" target="_blank">AP Video</a></li>
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-</ul>
-<ul class="select">
-<li><a href="/templates/sports/sports.asp"><b>Sports</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="sub">
-<li><a class="header">SPORTS:</a></li>
-<li><a href="/articleredirector.asp?d=today_idx&amp;c=s">Local Sports</a></li>
-<li><a href="/templates/newsbank/searchpage.asp">Archives</a></li>
-<li><a href="/templates/sports/sportscolumns.asp">Sports Beat</a></li>
-<li><a href="http://sportsbuzzohio.com/">Sports Buzz Ohio</a></li>
-<li><a href="http://www.sportsbuzzohio.com/blanchard-river-buzz/">Blanchard River Buzz</a></li>
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-</ul>
-<ul class="select">
-<li><a href="/templates/family/family.asp"><b>Family</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="sub">
-<li><a class="header">FAMILY:</a></li>
-<li><a href="/articleredirector.asp?d=today_idx&amp;c=fam">Family News</a></li>
-<li><a href="/articleredirector.asp?d=today&amp;c=cal">Calendar</a></li>
-<li><a href="/templates/newsbank/searchpage.asp">Archives</a></li>
-<li><a href="/celebrations/" target="_blank">Celebrations!</a></li>
-<li><a href="/templates/forms/forms.asp">Submission Forms</a></li>
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-</ul>
-<ul class="select">
-<li><a href="/templates/opinion/opinion.asp"><b>Opinion</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="sub">
-<li><a class="header">OPINION:</a></li>
-<li><a href="/templates/opinion/editorials/editorials.asp">Editorials</a></li>
-<li><a href="/articleredirector.asp?d=today&amp;c=let">Letters to the Editor</a></li>
-<li><a href="/templates/opinion/columns/columns.asp">Columns</a></li>
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-</ul>
-<ul class="select">
-<li><a href="/templates/virtualvillage/virtualvillage.asp"><b>Virtual Village</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="sub">
-<li><a class="header">VIRTUAL VILLAGE:</a></li>
-<li><a href="/templates/virtualvillage/virtualvillage.asp#sports">Sports/Photos</a></li>
-<li><a href="/templates/virtualvillage/virtualvillage.asp#discussion">Discussion</a></li>
-<li><a href="/templates/virtualvillage/virtualvillage.asp#political">Politics</a></li>
-<li><a href="/templates/virtualvillage/virtualvillage.asp#entertainment">Entertainment</a></li>
-<li><a href="/templates/virtualvillage/virtualvillage.asp#feature">Feature Blogs</a></li>
-<li><a href="/templates/virtualvillage/virtualvillage.asp#terms">User Agreement</a></li>
-<li><a href="/templates/virtualvillage/virtualvillage.asp#commlinx">Community Links</a></li>
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-</ul>
-<ul class="select">
-<li><a href="/templates/multimedia/multimedia.asp"><b>Multimedia</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="sub">
-<li><a class="header">MULTIMEDIA:</a></li>
-<li><a href="/templates/multimedia/videos.asp">Videos</a></li>
-<li><a href="/templates/multimedia/slideshows.asp">Slideshows</a></li>
-<li><a href="http://thecourier.mycapture.com/mycapture/index.asp">Photo Galleries</a></li>
-<li><a href="http://thecourier.mycapture.com/mycapture/index.asp">Photo Sales</a></li>
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-</ul>
-<ul class="select">
-<li><a href="/templates/classifieds/classifieds.asp"><b>Classifieds</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="sub">
-<li><a class="header">CLASSIFIEDS:</a></li>
-<li><a href="http://www.everywhereads.com/Category.aspx?npid=5151">Search Classifieds</a></li>
-<li><a href="http://www.everywhereads.com/CSF.aspx?npid=5151&amp;classid=REAL_ESTATE">Real Estate</a></li>
-<li><a href="http://www.everywhereads.com/CSF.aspx?npid=5151&amp;classid=EMPLOYMENT">Employment</a></li>
-<li><a href="http://www.everywhereads.com/CSF.aspx?npid=5151&amp;classid=FOR_SALE">For Sale</a></li>
-<li><a href="http://www.everywhereads.com/CSF.aspx?npid=5151&amp;classid=VEHICLES">Vehicles</a></li>
-<li><a href="https://classadz.vdata.com/Findlay/UserType.aspx">Place Ad</a></li>
-<li><a href="/mall/ratecard-2013.pdf">Ad Rates</a></li>
-<li><a href="http://www.publicnoticeads.com/oh/search/searchnotices.asp">Legal Notices</a></li>
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-</ul>
-<ul class="current"><li><a href="/templates/about/contact.asp"><b>Contact Us</b></a></li>
-</ul>
-
-<ul class="sub_active">
-<li><a class="header">CONTACT US:</a></li>
-<li><a href="/templates/forms/forms.asp">Submission Forms</a></li>
-<li><a href="/templates/multimedia/picsandtips.asp">Pics &amp; Tips</a></li>
-<li><a href="/templates/about/contact.asp">Department E-mail</a></li>
-<li><a href="/templates/staffdirectory/staff_directory.asp">Newsroom Directory</a></li>
-<li class="current_sub"><a href="/templates/about/privacy.asp">Privacy Policy</a></li>
-<li><a href="/templates/about/useragreement.asp">User Agreement</a></li>
-<li><a href="https://homer.findlayoh.com/secure/apps">Credit App</a></li>
-<li><a href="http://www.fpcjobconnection.com/currentjobs.htm">Employment</a></li>
-</ul>
-
-<ul class="select">
-<li><a href="https://classadz.vdata.com/FindlayCirc/" target="_blank"><b>Subscribe Today!</b><!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="sub">
-<li><a class="header">SUBSCRIBE TODAY!:</a></li>
-<li><a href="https://classadz.vdata.com/FindlayCirc/" target="_blank">Subscribe to The Courier Print Edition</a></li>
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-</ul>
-<ul class="select">
-<li><a><b><div><form id="quicksearchform" name="quicksearchform">
-<select id="quicksearchmenu" name="quicksearchmenu" size="1" onchange="RedirectToSelectedItem( this );">
-<option value="">- Last 7 Days -</option>
-</select>
-</form></div>
-</b></a></li>
-</ul>
-
-</div>
-</div>
-<!-- END: NAVIGATION -->
-
-<!-- BEGIN: LAST SEVEN DAYS GENERATOR -->
-<script type="text/javascript">
-	if( typeof(jQuery) == "undefined" )
-		document.writeln( '<scr' + 'ipt type="text/javascript" src="/Common/JS/jQuery/jquery.js"></sc' + 'ript>' );
-	if( typeof(jsDocument) == "undefined" )
-		document.writeln( '<scr' + 'ipt type="text/javascript" src="/Common/JS/jsDocument/document.js"></sc' + 'ript>' );
-	if( typeof(Date.today) == "undefined" )
-		document.writeln( '<scr' + 'ipt type="text/javascript" src="/Common/JS/DateJS/build/date.js"></sc' + 'ript>' );
-</script><script type="text/javascript" src="/Common/JS/jsDocument/document.js"></script>
-<script type="text/javascript" src="/Common/JS/DateJS/build/date.js"></script>
-
-<script type="text/javascript" src="/Common/FPC/Newspaper/quicksearchformpopulator.js"></script>
-<script type="text/javascript" src="/Menus/Nav/newscategories.js"></script>
-
-<script type="text/javascript">
-	// Load the quick search form's items
-	jQuery(document).ready(function() {
-		PopulateQuickSearchFormWithHtml( document.forms[ "quicksearchform" ][ "quicksearchmenu" ], __newsCategories );
-	});
-</script>
-<!-- END: LAST SEVEN DAYS GENERATOR -->
-
-
-
-<!-- BEGIN: NOAA Weather Widget Loader...
-<script type="text/javascript">
-	if( typeof(jQuery) == "undefined" )
-		document.writeln( '<scr' + 'ipt type="text/javascript" src="/Common/JS/jQuery/jquery.js"></sc' + 'ript>' );
-</script>
-<script type="text/javascript" src="/JavaScript/WeatherWidget.js"></script>
-  ...END: NOAA Weather Widget Loader... -->
-
-<div id="container">
-
-	<div class="TextSizer">
-	
-
-	<a class="TellAFriend" href="/TellAFriendEmailForm/TellAFriend.aspx?Logo=http://www.thecourier.com/images/600logo.gif">Tell a Friend</a>
-	<span class="Text-Sizer-Separator">|</span> 
-	<a href="javascript:ts('centercontent',1)" class="TextSizer-Incrementor">Larger Text</a> 
-	<span class="Text-Sizer-Separator">|</span> 
-	<a href="javascript:ts('centercontent',-1)" class="TextSizer-Decrementor">Smaller Text</a>
-	
-	<span class="Text-Sizer-Separator">|</span> 
-	
-	<!-- AddThis Button BEGIN -->
-	<a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;pub=nickamoore"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"></a>
-	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=nickamoore"></script>
-	<!-- AddThis Button END -->
-	
-</div>
-
-	<div id="centercontent">
-
-		<h2 class="PageHeaderContainer">PRIVACY</h2>
+	<!-- CSS
+  ================================================== -->
+				<meta name="viewport" content="width=device-width, user-scalable=no">
 		
-		<!-- BEGIN: Snazzy Block -->
-		<div class="xsnazzy">
-			<b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b>
-			<div class="xboxcontent">
-			
-				
+	<!--[if IE 7]>
+		<link rel="stylesheet" href="http://thecourier.com/wp-content/themes/worldwide-v1-01/stylesheet/ie7-style.css" /> 
+		<link rel="stylesheet" href="http://thecourier.com/wp-content/themes/worldwide-v1-01/stylesheet/font-awesome/font-awesome-ie7.min.css" /> 
+	<![endif]-->	
+	
+	<link rel="shortcut icon" href="http://thecourier.com/wp-content/uploads/2013/10/TC-favicon.png" type="image/x-icon"><link rel="alternate" type="application/rss+xml" title="The Courier » Feed" href="http://thecourier.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="The Courier » Comments Feed" href="http://thecourier.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="The Courier » Privacy Policy Comments Feed" href="http://thecourier.com/member-service/privacy/feed/">
+		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=564225396992669&amp;version=v2.3"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/thecourier.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://thecourier.com/wp-includes/js/wp-emoji-release.min.js?ver=4.4.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="ai1ec_style-css" href="//thecourier.com/wp-content/plugins/all-in-one-event-calendar/cache/fe6e1986_ai1ec_parsed_css.css?ver=2.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-open-sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700&amp;ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="ytp-icons-css" href="http://thecourier.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/icons/css/icons.min.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="ytp-style-css" href="http://thecourier.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="perfect-scrollbar-style-css" href="http://thecourier.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/perfect-scrollbar/perfect-scrollbar.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="ytp-custom-css-css" href="http://thecourier.com/wp-admin/admin-ajax.php?action=youtube_video_player_custom_css&amp;ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="wow-style-css" href="http://thecourier.com/wp-content/themes/worldwide-v1-01/style.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="wow-foundation-css" href="http://thecourier.com/wp-content/themes/worldwide-v1-01/stylesheet/foundation-responsive.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="style-custom-css" href="http://thecourier.com/wp-content/themes/worldwide-v1-01/style-custom.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="Google-Font-Adamina-css" href="http://fonts.googleapis.com/css?family=Adamina%3An%2Ci%2Cb%2Cbi&amp;subset=latin&amp;ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="Google-Font-Droid+Serif-css" href="http://fonts.googleapis.com/css?family=Droid+Serif%3An%2Ci%2Cb%2Cbi&amp;subset=latin&amp;ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="Google-Font-Oswald-css" href="http://fonts.googleapis.com/css?family=Oswald%3An%2Ci%2Cb%2Cbi&amp;subset=latin&amp;ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="cff-css" href="http://thecourier.com/wp-content/plugins/custom-facebook-feed/css/cff-style.css?ver=2.4" type="text/css" media="all">
+<link rel="stylesheet" id="cff-font-awesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0" type="text/css" media="all">
+<link rel="stylesheet" id="sb_instagram_styles-css" href="http://thecourier.com/wp-content/plugins/instagram-feed-pro/css/sb-instagram.css?ver=2.2" type="text/css" media="all">
+<link rel="stylesheet" id="sbi-font-awesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=4.6.3" type="text/css" media="all">
+<link rel="stylesheet" id="stock-ticker-css" href="http://thecourier.com/wp-content/plugins/stock-ticker/assets/css/stock-ticker.css?ver=0.1.7" type="text/css" media="all">
+<link rel="stylesheet" id="gilidPanel-css-css" href="http://thecourier.com/wp-content/plugins/wp-gilid-panel/css/gilid.panel.css" type="text/css" media="all">
+<link rel="stylesheet" id="nanoscroller-css-css" href="http://thecourier.com/wp-content/plugins/wp-gilid-panel/css/nanoscroller.css" type="text/css" media="all">
+<link rel="stylesheet" id="wprssmi_template_styles-css" href="http://thecourier.com/wp-content/plugins/wp-rss-multi-importer/templates/templates.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="ccf-jquery-ui-css" href="http://thecourier.com/wp-content/plugins/custom-contact-forms/css/jquery-ui.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="CCFStandardsCSS-css" href="http://thecourier.com/wp-content/plugins/custom-contact-forms/css/custom-contact-forms-standards.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="CCFFormsCSS-css" href="http://thecourier.com/wp-content/plugins/custom-contact-forms/css/custom-contact-forms.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="superfish-css" href="http://thecourier.com/wp-content/themes/worldwide-v1-01/stylesheet/superfish.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-css" href="http://thecourier.com/wp-content/themes/worldwide-v1-01/stylesheet/fancybox.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-thumbs-css" href="http://thecourier.com/wp-content/themes/worldwide-v1-01/stylesheet/jquery.fancybox-thumbs.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://thecourier.com/wp-content/themes/worldwide-v1-01/stylesheet/font-awesome/font-awesome.css?ver=4.4.2" type="text/css" media="all">
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.6 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
 
+	__gaTracker('create', 'UA-1076873-1', 'auto', {'allowLinker': true});
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
 
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type="text/javascript" src="http://thecourier.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/perfect-scrollbar/jquery.mousewheel.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/perfect-scrollbar/perfect-scrollbar.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/js/youtube-video-player.jquery.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/rdv-youtube-playlist-video-player/js/plugin.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/custom-contact-forms/js/custom-contact-forms-datepicker.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/custom-contact-forms/js/jquery.tools.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/custom-contact-forms/js/custom-contact-forms.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/stock-ticker/assets/js/jquery.webticker.min.js?ver=0.1.7"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/themes/worldwide-v1-01/javascript/jquery.fitvids.js?ver=1.0"></script>
+<link rel="https://api.w.org/" href="http://thecourier.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thecourier.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thecourier.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.4.2">
+<link rel="canonical" href="http://thecourier.com/member-service/privacy/">
+<link rel="shortlink" href="http://thecourier.com/?p=5034">
+<link rel="alternate" type="application/json+oembed" href="http://thecourier.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthecourier.com%2Fmember-service%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://thecourier.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthecourier.com%2Fmember-service%2Fprivacy%2F&amp;format=xml">
+<meta property="fb:app_id" content="564225396992669"><meta property="fb:admins" content="20902716">	<link rel="stylesheet" href="http://thecourier.com/wp-content/plugins/weather-alert-ticker/WAT.css" type="text/css">
+		<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/weather-alert-ticker/loadADXML.min.js"></script>
+	
 
+<!-- Facebook Like Thumbnail (v0.4) -->
+<meta property="og:image" content="http://thecourier.com/wp-content/uploads/2015/04/REINEKEFORD2.png">
+<!-- using default fallback -->
+<!-- Facebook Like Thumbnail (By Ashfame - https://github.com/ashfame/facebook-like-thumbnail) -->
+
+<script>
+/**
+*       Google Analytics tracking script for Tecnavia Paywall (version 1.1.0).
+*       Set the value of ga_account_id to your Google Analytics account. 
+*       Support for both Classic GA and Universal Analytics
+*/
+function ta_popupCallback(params){   
+        if (params['popup'] == 'paywall'){params['popup'] = 'blocking screen';}
+ 
+        //Classic GA
+        if (typeof _gat != "undefined"){
+               var ga_account_id = 'UA-1076873-1';
+               var tracker = _gat._createTracker(ga_account_id, 'tec1');
+               tracker._trackEvent('Paywall ' + params['popup'], params['action'], params['target']);
+        //Universal Analytics
+        }else if (typeof ga !=
+"undefined"){
+                ga('send', 'event', 'Paywall ' + params['popup'] , params['action'], params['target']);
+        }
+}
+</script>	
+<!--[if lt IE 9]>
 <style type="text/css">
-.style1 {
-	font-size: large;
-	font-family: Arial;
-}
-.style2 {
-	font-family: Arial;
-}
-.style3 {
-	font-family: Arial;
-	font-size: small;
-}
-.style4 {
-	font-size: medium;
-}
-.style5 {
-	font-size: small;
-}
+	div.shortcode-dropcap.circle,
+	div.anythingSlider .anythingControls ul a, .flex-control-nav li a, 
+	.nivo-controlNav a, ls-bottom-slidebuttons a{
+		z-index: 1000;
+		position: relative;
+		behavior: url(http://thecourier.com/wp-content/themes/worldwide-v1-01/stylesheet/ie-fix/PIE.php);
+	}
+
+	ul.gdl-accordion li, ul.gdl-toggle-box li{ overflow: hidden; }
+	
+	.logo-wrapper{ overflow: hidden; width: 500px !important; }	
 </style>
+<![endif]-->
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta property="og:type" content="article">
+<meta property="og:url" content="http://thecourier.com/member-service/privacy/">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:site_name" content="The Courier">
+<meta property="og:locale" content="en_US">
+<meta property="og:description" content="Findlay Publishing Company Website Privacy Statement The privacy, confidence, and trust of individuals who visit Findlay Publishing Company websites are important to us. This privacy statement provides information about the personal information that The...">
 
+<!-----------Code for Docket Style------->
+<script src="http://thecourier.com/wp-content/themes/worldwide-v1-01/javascript/Docket/jquery.columnizer.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">jQuery(document).ready(function ($){$(".Docket_Column").columnize({width:300});});</script>
 
-<div align="left">
-
-
-	<strong><span class="style1">Findlay Publishing Company Website Privacy Statement</span></strong>
-	<span class="style2">
-	<br>
-	<br>
-
-	<span class="style5">The privacy, confidence, and trust of individuals who visit Findlay Publishing Company websites are important to us. This privacy statement provides information about the personal information that The Findlay Publishing Company collects online, and the ways in which The Findlay Publishing Company uses that personal information.  This statement is limited to only the information collected online.
-
-	<br>
-	<br>
-	</span>
-	<strong><span class="style5">Personal information collection</span></strong></span>
-	<span class="style2"><span class="style5"> <br>
-	<br>
-
-The Findlay Publishing Company may collect and use the following kinds of personal information: 
-
-	</span></span> 
-
-<ul>
-	<li class="style3">Information about your use of Findlay Publishing Company websites.</li>
-	<li class="style3">Information that you provide for the purpose of registering with Findlay 
-	Publishing Company websites.</li>
-	<li class="style3">Information about transactions carried out over the Findlay Publishing 
-	Company websites including the purchase of goods and services offered by the 
-	Findlay Publishing Company.</li>
-	<li class="style3">Information that you provide for the purpose of subscribing to Findlay 
-	Publishing Company website services, including registering to receive text 
-	messages and email alerts.</li>
-	<li class="style3">Other information that you voluntarily send to Findlay Publishing Company websites.</li>
-	</ul>
-	<span class="style3">
-	<strong>Using personal information</strong></span> <span class="style2">
-	<span class="style5"><br>
-	<br>
-
-
-   
-The Findlay Publishing Company may use your personal information to:
-	
-	</span></span>
-	
-	<ul>
-		<li class="style3">Help diagnose problems with our servers, and to administer our web 
-	sites. </li>
-		<li class="style3">Personalize the websites for you.</li>
-		<li class="style3">Enable your access to and use of the website services.</li>
-		<li class="style3">Publish information you voluntarily submit on the Findlay Publishing 
-	Company websites for publication.</li>
-		<li class="style3">Send to you products that you purchase.</li>
-		<li class="style3">Supply to you services that you purchase.</li>
-		<li class="style3">Send you statements and invoices.</li>
-		<li class="style3">Collect payments from you.</li>
-		<li class="style3">Send you marketing communications with the choice to opt-in or opt-out.</li>
-		<li class="style3">Verify the authenticity of the information or comments you submit for publication.</li>
-	</ul>
-	<p class="style3">Where The Findlay Publishing Company discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
-	</p><p class="style3">In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, The Findlay Publishing Company may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
-	</p><p class="style2"><strong><span class="style5">Securing your data</span></strong><span class="style5">
-	</span>
-	</p><p class="style3">The Findlay Publishing Company will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
-	</p><p class="style2"><span class="style5">
-	<strong>Refund policy</strong>
-	</span>
-	</p><p class="style3">Refunds over $10.00 will be refunded by paper check to the 
-	address on the account. We do not retain credit card information and thus do 
-	not have the ability to refund to the original credit card used. Any credits 
-	that are less than $10.00 can be claimed for cash at our Business Office 
-	located at 701 W. Sandusky St. Findlay OH, 45840. Some exceptions can be 
-	made to this policy with Management approval.
-	</p><p class="style3">For a refund you will need to call 419-422-5151 and talk 
-	to a customer service representative. The paper check will be issued the 
-	following Wednesday.
-	</p><p class="style2"><span class="style5">
-	<strong>Delivery policy</strong>
-	</span>
-	</p><p class="style3">Once your subscription begins you should receive your 
-	newspaper daily (except on Sunday and designated Holidays) prior to 6:00 
-	a.m. if you live inside the Findlay, Ohio city limits. If you live outside 
-	of the city limits of Findlay, Ohio you should receive your newspaper prior 
-	to 6:30 a.m. In the event that your newspaper does not arrive by the 
-	designated time you can call the Courier at 419-427-5158 or your newspaper 
-	delivery person to inquire about the status of your delivery. This 
-	designated time is merely a guide rather than a firm time. If your paper is 
-	late you will not be issued a refund or credit. A refund or credit will be 
-	issued if you did not receive your newspaper (except under mitigating 
-	circumstances).
-	</p><p class="style2"><strong><span class="style5">Updating this statement</span></strong><span class="style5">
-	</span>
-	</p><p class="style3">The Findlay Publishing Company may update this privacy policy by posting a new version on this website.  
-
-You should check this page occasionally to ensure you are familiar with any changes.
-	</p><p class="style2"><strong><span class="style5">Other websites</span></strong><span class="style5">
-	</span>
-	</p><p class="style3">Findlay Publishing Company websites contain links to other websites.  
-
-The Findlay Publishing Company is not responsible for the privacy policies or practices of any third party.
-	</p><p class="style3"><strong>Contact The Findlay Publishing Company
-
-</strong>
-	</p><p class="style3">If you have any questions about this privacy policy or The Findlay Publishing Companyâ€™s treatment of your personal information, please write to:
-	</p><ul>
-		<li class="style3">by email to onlineprivacy@findlaypublishing.com or 
-		</li><li class="style3">by post to Online Privacy, The Findlay Publishing Company, PO Box 609, Findlay, Ohio 45839
-		</li>
-	</ul>
-
-
-    </div>
-
-
-
-			</div>
-			<b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b></b>
-		</div>
-		<!-- END: Snazzy Block -->
-
-		<div id="footer">
-			
-
-<!-- BEGIN: BOTTOM NAVIGATION -->
-<div id="bottom-nav">
-<a href="/index.asp">Home</a> <span class="bottom-nav-sep">|</span> <a href="/templates/news/news.asp">News</a> <span class="bottom-nav-sep">|</span> <a href="/articleredirector.asp?d=today&amp;c=o">Obituaries</a> <span class="bottom-nav-sep">|</span> <a href="/templates/sports/sports.asp">Sports</a> <span class="bottom-nav-sep">|</span> <a href="/templates/family/family.asp">Family</a> <span class="bottom-nav-sep">|</span> <a href="/templates/weather/weather.asp">Weather</a> <span class="bottom-nav-sep">|</span> <a href="/templates/virtualvillage/virtualvillage.asp">Virtual Village</a> <span class="bottom-nav-sep">|</span> <a href="/templates/multimedia/multimedia.asp">Multimedia</a> <span class="bottom-nav-sep">|</span> <a href="/templates/opinion/opinion.asp">Opinion</a> <span class="bottom-nav-sep">|</span> <a href="/templates/classifieds/classifieds.asp">Classifieds</a> <span class="bottom-nav-sep">|</span> <a href="http://www.infohio.com/" target="_blank">Business Directory</a> <span class="bottom-nav-sep">|</span> <span class="bottom-nav-current"><a href="/templates/about/contact.asp">Contact Us</a></span></div>
-
-<!-- END: BOTTOM NAVIGATION -->	
-
-<div id="copyright" class="centered">
-	<a href="/templates/about/copyright.asp">All contents © 1996&nbsp;-&nbsp;2013</a>
-
-	<div id="contact-info">
-		<b>The Findlay Publishing Company</b>
-		<br>
-		P.O. Box 609<br>
-		701 W. Sandusky St.<br>
-		Findlay, OH 45839-0609
-		<br>
-		Phone: (419) 422-5151
-		<br>
-		<a href="http://www.findlaypublishing.com/">www.findlaypublishing.com</a>
-		<br>
-		<br>
-		Please read our <a href="/templates/about/privacy.asp">privacy guidelines</a>
-		<br>
-		<a href="http://www.findlayinternet.com/" target="_blank"><img src="/images/filogo.jpg" border="0"></a>
-
-	</div>
-</div>
-
-
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct="p-6dBL8mPe3PiBY";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-6dBL8mPe3PiBY" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-6dBL8mPe3PiBY.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->
-
-<!-- BEGIN: Google Analytics (Asynchronous Tracking) -->
+<!---- BEGIN TC Google DFP impressions ads ------->
 <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1076873-1']);
-  _gaq.push(['_trackPageview']);
-
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
   (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
   })();
-
 </script>
-<!-- END: Google Analytics (Asynchronous Tracking) -->
 
-
-<!-- BEGIN: IE Update code for Flash Ads -->
-<script type="text/javascript">/* Commented out 8/21/2009 by MJV -- runtime errors. ieupdate(); */</script>
-<!-- END: IE Update code for Flash Ads -->					
-		</div>
-	</div> <!-- end of #centercontent -->
-
-
-	<div id="leftcontent">
-
-		
-<div class="xsnazzy">
-	<b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b>
-	<div class="xboxcontent">
-
-		<span class="LegendContainer"> &nbsp;&nbsp;&nbsp;PHOTO GALLERY</span>
-
-
-<center>
-<a href="http://thecourier.typepad.com/randys_seen/" target="_blank">
-<img alt="Randy's Seen" src="/stills/virtualvillage/randysseenbutton.jpg" border="0"></a><br>
-</center>
-
-<div align="left">
-  
-<p><strong>IMAGE BLOG:</strong> Go behind the scenes with Courier photographer <strong>Randy Roberts.</strong>
-
-</p>
-</div>
-<ul class="apheadlines">
-    
-    <li><a href="http://thecourier.typepad.com/randys_seen/" target="_blank">Visit Blog</a>
-    
-    </li>
-    </ul>
-
- <br> 
-		<p>You can <b>purchase photographs</b> from The Courier through our 
-		easy-to-use online system. Get prints, mousepads, T-shirts and more! </p>
-		
-		<ul class="apheadlines">
-		<li><a href="http://thecourier.mycapture.com/mycapture/index.asp">Browse Courier Gallery </a></li>
-		<li><a href="http://www.thecourier.com/templates/multimedia/multimedia.asp">Submit Your Photos </a></li>
-		</ul>
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/11960069/CEE_homepg_skyscraper', [160, 600], 'div-gpt-ad-1440791712486-0').addService(googletag.pubads());
+    googletag.defineSlot('/11960069/TC-breaking-news-ic', [300, 250], 'div-gpt-ad-1440791712486-1').addService(googletag.pubads());
+    googletag.defineSlot('/11960069/TC-breaking-news-sk', [160, 600], 'div-gpt-ad-1440791712486-2').addService(googletag.pubads());
+    googletag.defineSlot('/11960069/TC-classifieds-incontent', [300, 250], 'div-gpt-ad-1440791712486-3').addService(googletag.pubads());
+    googletag.defineSlot('/11960069/TC-classifieds-skyscraper', [160, 600], 'div-gpt-ad-1440791712486-4').addService(googletag.pubads());
+    googletag.defineSlot('/11960069/TC-header-leaderboard', [468, 60], 'div-gpt-ad-1440791712486-5').addService(googletag.pubads());
+    googletag.defineSlot('/11960069/TC-homepg-incontent', [300, 250], 'div-gpt-ad-1440791712486-6').addService(googletag.pubads());
+    googletag.defineSlot('/11960069/TC-obits-incontent', [300, 250], 'div-gpt-ad-1440791712486-7').addService(googletag.pubads());
+    googletag.defineSlot('/11960069/TC-obits-skyscraper', [160, 600], 'div-gpt-ad-1440791712486-8').addService(googletag.pubads());
+    googletag.defineSlot('/11960069/TC-ros-incontent', [300, 250], 'div-gpt-ad-1440791712486-9').addService(googletag.pubads());
+    googletag.defineSlot('/11960069/TC-ros-skyscraper', [160, 600], 'div-gpt-ad-1440791712486-10').addService(googletag.pubads());
+    googletag.defineSlot('/11960069/TC-sports-incontent', [300, 250], 'div-gpt-ad-1446141589029-11').addService(googletag.pubads());
+    googletag.defineSlot('/11960069/TC-sports-skyscraper', [160, 600], 'div-gpt-ad-1446141589029-12').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<!---- END TC Google DFP impressions ads ------->
 	
-	</div>
-	<b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b></b>
-</div>
-<div class="xsnazzy">
-	<b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b>
-	<div class="xboxcontent">
-	
-		<span class="LegendContainer"> &nbsp;&nbsp;&nbsp;LOCAL NEWS</span>
-		
-		<ul class="apheadlines">
-		<li><a href="/articleredirector.asp?d=120713_story1&amp;c=n" target="_blank">Findlay's finances on an upswing</a></li><li><a href="/articleredirector.asp?d=120713_story2&amp;c=n" target="_blank">Downtown Findlay: Many changes ahead</a></li><li><a href="/articleredirector.asp?d=120713_story3&amp;c=n" target="_blank">Hospital's Sleep Disorders Center to expand</a></li><li><a href="/articleredirector.asp?d=120713_story4&amp;c=n" target="_blank">Storm blankets southern Ohio</a></li><li><a href="/articleredirector.asp?d=120713_story5&amp;c=n" target="_blank">It's important to budget at Christmastime</a></li><li><a href="/articleredirector.asp?d=120713_story6&amp;c=n" target="_blank">Gordon Gee approved as WVU interim leader</a></li><li><a href="/articleredirector.asp?d=120713_story7&amp;c=n" target="_blank">Public Record</a></li>
-
-	</ul>
-	
-	</div>
-	<b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b></b>
-</div>
-
-<!-- Latest Comments -->
-<div class="xsnazzy">
-	<b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b>
-	<div class="xboxcontent">
-		
-		<span class="LegendContainer"> &nbsp;&nbsp;LATEST COMMENTS</span>
-		Last 10 comments submitted by our readers...
-		<div style="height:400px;width:200px;overflow:auto;">
-			
-<link rel="stylesheet" type="text/css" href="/CommentsApp/CSS/CommentsForm.css">
-
-		<div class="Comments">
-	
-		<div class="Comments-Item">
-			<div class="Comments-Item-Header">
-				<span class="Comments-Item-Name">
-					Karen
-				</span> 
-				wrote in article
-				<span class="Comments-Item-ArticleTitle">
-					<a href="http://www.thecourier.com/issues/2013/dec/06/ar_news_120613_story1.asp?d=120613_story1,2013,dec,06&amp;c=-1">
-						"Gravestone donated for murder victim"</a>:
-				</span>
-			</div>
-			<div class="Comments-Item-Body">
-				<span class="Comments-Item-Title">
-					Vera
-				</span><br>
-				<span class="ldquo"><img src="/CommentsApp/images/ldquo.gif" alt="“" width="12" height="12"></span>
-				<span class="Comments-Item-Text">
-					Thank God for Steve Johns.  Finally.
-				</span>
-				<span class="rdquo"><img src="/CommentsApp/images/rdquo.gif" alt="”" width="12" height="12"></span>
-				<span class="Comments-Item-ReadMore">
-					<a href="http://www.thecourier.com/issues/2013/dec/06/ar_news_120613_story1.asp?d=120613_story1,2013,dec,06&amp;c=-1#__comments">Read More...</a>
-				</span>
-			</div>
-			<div class="Comments-Item-Footer">
-				<span class="Comments-Item-Date">12/6/2013 11:00:20 PM</span>
-			</div>
-		</div>		
-	
-		<div class="Comments-Item">
-			<div class="Comments-Item-Header">
-				<span class="Comments-Item-Name">
-					allformorebooks
-				</span> 
-				wrote in article
-				<span class="Comments-Item-ArticleTitle">
-					<a href="http://www.thecourier.com/issues/2013/dec/06/ar_news_120613_story1.asp?d=120613_story1,2013,dec,06&amp;c=-1">
-						"Gravestone donated for murder victim"</a>:
-				</span>
-			</div>
-			<div class="Comments-Item-Body">
-				<span class="Comments-Item-Title">
-					Vera's grave
-				</span><br>
-				<span class="ldquo"><img src="/CommentsApp/images/ldquo.gif" alt="“" width="12" height="12"></span>
-				<span class="Comments-Item-Text">
-					Rest in peace, little one
-				</span>
-				<span class="rdquo"><img src="/CommentsApp/images/rdquo.gif" alt="”" width="12" height="12"></span>
-				<span class="Comments-Item-ReadMore">
-					<a href="http://www.thecourier.com/issues/2013/dec/06/ar_news_120613_story1.asp?d=120613_story1,2013,dec,06&amp;c=-1#__comments">Read More...</a>
-				</span>
-			</div>
-			<div class="Comments-Item-Footer">
-				<span class="Comments-Item-Date">12/6/2013 10:33:33 PM</span>
-			</div>
-		</div>		
-	
-		<div class="Comments-Item">
-			<div class="Comments-Item-Header">
-				<span class="Comments-Item-Name">
-					HC
-				</span> 
-				wrote in article
-				<span class="Comments-Item-ArticleTitle">
-					<a href="http://www.thecourier.com/Issues/2013/Dec/06/ar_news_120613_story4.asp?d=120613_story4,2013,Dec,06&amp;c=n">
-						"School safety plan praised"</a>:
-				</span>
-			</div>
-			<div class="Comments-Item-Body">
-				<span class="Comments-Item-Title">
-					Not all schools are taking things seriously
-				</span><br>
-				<span class="ldquo"><img src="/CommentsApp/images/ldquo.gif" alt="“" width="12" height="12"></span>
-				<span class="Comments-Item-Text">
-					After talking to my child's principal months ago and asking what plans they have in place to avert school violence/shootings I w...
-				</span>
-				<span class="rdquo"><img src="/CommentsApp/images/rdquo.gif" alt="”" width="12" height="12"></span>
-				<span class="Comments-Item-ReadMore">
-					<a href="http://www.thecourier.com/Issues/2013/Dec/06/ar_news_120613_story4.asp?d=120613_story4,2013,Dec,06&amp;c=n#__comments">Read More...</a>
-				</span>
-			</div>
-			<div class="Comments-Item-Footer">
-				<span class="Comments-Item-Date">12/6/2013 5:52:36 PM</span>
-			</div>
-		</div>		
-	
-		<div class="Comments-Item">
-			<div class="Comments-Item-Header">
-				<span class="Comments-Item-Name">
-					Tomtom
-				</span> 
-				wrote in article
-				<span class="Comments-Item-ArticleTitle">
-					<a href="http://www.thecourier.com/Issues/2013/Dec/06/ar_news_120613_story4.asp?d=120613_story4,2013,Dec,06&amp;c=n">
-						"School safety plan praised"</a>:
-				</span>
-			</div>
-			<div class="Comments-Item-Body">
-				<span class="Comments-Item-Title">
-					Not everyone
-				</span><br>
-				<span class="ldquo"><img src="/CommentsApp/images/ldquo.gif" alt="“" width="12" height="12"></span>
-				<span class="Comments-Item-Text">
-					I'm very happy to hear this being done in our schools.  But none the less I have first hand knowledge that not all employees of...
-				</span>
-				<span class="rdquo"><img src="/CommentsApp/images/rdquo.gif" alt="”" width="12" height="12"></span>
-				<span class="Comments-Item-ReadMore">
-					<a href="http://www.thecourier.com/Issues/2013/Dec/06/ar_news_120613_story4.asp?d=120613_story4,2013,Dec,06&amp;c=n#__comments">Read More...</a>
-				</span>
-			</div>
-			<div class="Comments-Item-Footer">
-				<span class="Comments-Item-Date">12/6/2013 2:12:21 PM</span>
-			</div>
-		</div>		
-	
-		<div class="Comments-Item">
-			<div class="Comments-Item-Header">
-				<span class="Comments-Item-Name">
-					T-Mark
-				</span> 
-				wrote in article
-				<span class="Comments-Item-ArticleTitle">
-					<a href="http://www.thecourier.com/issues/2013/dec/05/ar_news_120513_story6.asp">
-						"Public Record"</a>:
-				</span>
-			</div>
-			<div class="Comments-Item-Body">
-				<span class="Comments-Item-Title">
-					Really...
-				</span><br>
-				<span class="ldquo"><img src="/CommentsApp/images/ldquo.gif" alt="“" width="12" height="12"></span>
-				<span class="Comments-Item-Text">
-					Mr. McCoy.  The court system costs money to run; salaries, heating in the winter, cooling in the summer, lighting, etc... where...
-				</span>
-				<span class="rdquo"><img src="/CommentsApp/images/rdquo.gif" alt="”" width="12" height="12"></span>
-				<span class="Comments-Item-ReadMore">
-					<a href="http://www.thecourier.com/issues/2013/dec/05/ar_news_120513_story6.asp#__comments">Read More...</a>
-				</span>
-			</div>
-			<div class="Comments-Item-Footer">
-				<span class="Comments-Item-Date">12/6/2013 11:14:16 AM</span>
-			</div>
-		</div>		
-	
-		<div class="Comments-Item">
-			<div class="Comments-Item-Header">
-				<span class="Comments-Item-Name">
-					Fat Jack
-				</span> 
-				wrote in article
-				<span class="Comments-Item-ArticleTitle">
-					<a href="http://www.thecourier.com/Issues/2013/Dec/06/ar_news_120613_story4.asp?d=120613_story4,2013,Dec,06&amp;c=n">
-						"School safety plan praised"</a>:
-				</span>
-			</div>
-			<div class="Comments-Item-Body">
-				<span class="Comments-Item-Title">
-					When seconds count, police are just minutes away.
-				</span><br>
-				<span class="ldquo"><img src="/CommentsApp/images/ldquo.gif" alt="“" width="12" height="12"></span>
-				<span class="Comments-Item-Text">
-					Subject says it all. Three minutes even on a good day.
-				</span>
-				<span class="rdquo"><img src="/CommentsApp/images/rdquo.gif" alt="”" width="12" height="12"></span>
-				<span class="Comments-Item-ReadMore">
-					<a href="http://www.thecourier.com/Issues/2013/Dec/06/ar_news_120613_story4.asp?d=120613_story4,2013,Dec,06&amp;c=n#__comments">Read More...</a>
-				</span>
-			</div>
-			<div class="Comments-Item-Footer">
-				<span class="Comments-Item-Date">12/6/2013 10:30:18 AM</span>
-			</div>
-		</div>		
-	
-		<div class="Comments-Item">
-			<div class="Comments-Item-Header">
-				<span class="Comments-Item-Name">
-					D
-				</span> 
-				wrote in article
-				<span class="Comments-Item-ArticleTitle">
-					<a href="http://www.thecourier.com/issues/2013/dec/05/ar_news_120513_story6.asp">
-						"Public Record"</a>:
-				</span>
-			</div>
-			<div class="Comments-Item-Body">
-				<span class="Comments-Item-Title">
-					Drivers
-				</span><br>
-				<span class="ldquo"><img src="/CommentsApp/images/ldquo.gif" alt="“" width="12" height="12"></span>
-				<span class="Comments-Item-Text">
-					Uh hello gentlemen. If when you sign for your license you will notice there are words in there that say you are aware of road co...
-				</span>
-				<span class="rdquo"><img src="/CommentsApp/images/rdquo.gif" alt="”" width="12" height="12"></span>
-				<span class="Comments-Item-ReadMore">
-					<a href="http://www.thecourier.com/issues/2013/dec/05/ar_news_120513_story6.asp#__comments">Read More...</a>
-				</span>
-			</div>
-			<div class="Comments-Item-Footer">
-				<span class="Comments-Item-Date">12/6/2013 7:12:01 AM</span>
-			</div>
-		</div>		
-	
-		<div class="Comments-Item">
-			<div class="Comments-Item-Header">
-				<span class="Comments-Item-Name">
-					Paul
-				</span> 
-				wrote in article
-				<span class="Comments-Item-ArticleTitle">
-					<a href="http://www.thecourier.com/issues/2013/dec/06/ar_news_120613_story1.asp?d=120613_story1,2013,dec,06&amp;c=-1">
-						"Gravestone donated for murder victim"</a>:
-				</span>
-			</div>
-			<div class="Comments-Item-Body">
-				<span class="Comments-Item-Title">
-					Where was ..
-				</span><br>
-				<span class="ldquo"><img src="/CommentsApp/images/ldquo.gif" alt="“" width="12" height="12"></span>
-				<span class="Comments-Item-Text">
-					Over the past 2 years I have often wondered where this young womans family was.  <br>1. Why was she living with others and not her...
-				</span>
-				<span class="rdquo"><img src="/CommentsApp/images/rdquo.gif" alt="”" width="12" height="12"></span>
-				<span class="Comments-Item-ReadMore">
-					<a href="http://www.thecourier.com/issues/2013/dec/06/ar_news_120613_story1.asp?d=120613_story1,2013,dec,06&amp;c=-1#__comments">Read More...</a>
-				</span>
-			</div>
-			<div class="Comments-Item-Footer">
-				<span class="Comments-Item-Date">12/6/2013 1:52:54 AM</span>
-			</div>
-		</div>		
-	
-		<div class="Comments-Item">
-			<div class="Comments-Item-Header">
-				<span class="Comments-Item-Name">
-					B.B.
-				</span> 
-				wrote in article
-				<span class="Comments-Item-ArticleTitle">
-					<a href="http://www.thecourier.com/issues/2013/dec/05/ar_news_120513_story6.asp">
-						"Public Record"</a>:
-				</span>
-			</div>
-			<div class="Comments-Item-Body">
-				<span class="Comments-Item-Title">
-					RE: Mr. McCoy
-				</span><br>
-				<span class="ldquo"><img src="/CommentsApp/images/ldquo.gif" alt="“" width="12" height="12"></span>
-				<span class="Comments-Item-Text">
-					The same thought gets kicked around when people slide off the road due to ice, etc.  One reason I can think why citations are is...
-				</span>
-				<span class="rdquo"><img src="/CommentsApp/images/rdquo.gif" alt="”" width="12" height="12"></span>
-				<span class="Comments-Item-ReadMore">
-					<a href="http://www.thecourier.com/issues/2013/dec/05/ar_news_120513_story6.asp#__comments">Read More...</a>
-				</span>
-			</div>
-			<div class="Comments-Item-Footer">
-				<span class="Comments-Item-Date">12/5/2013 4:52:10 PM</span>
-			</div>
-		</div>		
-	
-		<div class="Comments-Item">
-			<div class="Comments-Item-Header">
-				<span class="Comments-Item-Name">
-					Bob the Builder
-				</span> 
-				wrote in article
-				<span class="Comments-Item-ArticleTitle">
-					<a href="http://www.thecourier.com/issues/2013/dec/05/ar_news_120513_story6.asp">
-						"Public Record"</a>:
-				</span>
-			</div>
-			<div class="Comments-Item-Body">
-				<span class="Comments-Item-Title">
-					Uhhh... can you say damaged public property.
-				</span><br>
-				<span class="ldquo"><img src="/CommentsApp/images/ldquo.gif" alt="“" width="12" height="12"></span>
-				<span class="Comments-Item-Text">
-					It probably did some structural damage to the bridge itself. There should definitely be consequences.<br><br>I don't think he did le...
-				</span>
-				<span class="rdquo"><img src="/CommentsApp/images/rdquo.gif" alt="”" width="12" height="12"></span>
-				<span class="Comments-Item-ReadMore">
-					<a href="http://www.thecourier.com/issues/2013/dec/05/ar_news_120513_story6.asp#__comments">Read More...</a>
-				</span>
-			</div>
-			<div class="Comments-Item-Footer">
-				<span class="Comments-Item-Date">12/5/2013 3:47:08 PM</span>
-			</div>
-		</div>		
-	
-		</div>
-	
-
-
-		</div>
-	</div>
-	<b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b></b>
-</div>
-<div class="xsnazzy">
-	<b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b>
-	<div class="xboxcontent">
-
-		<span class="LegendContainer"> &nbsp;&nbsp;U.S. Headlines</span>
-		<script language="JavaScript">site="OHFIN";section="HOME"</script> 
-		<ul class="apheadlines">
-		<script language="JavaScript" src="http://hosted.ap.org/lineups/USMINUTE-bulleted.js?SITE=OHFIN&amp;SECTION=HOME"></script>
-		</ul>
-
-	</div>
-	<b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b></b>
-</div>
-
-<div class="xsnazzy">
-	<b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b>
-	<div class="xboxcontent">
-
-		<span class="LegendContainer"> &nbsp;&nbsp;World News</span>
-		<script language="JavaScript">site="OHFIN";section="HOME"</script> 
-		<ul class="apheadlines">
-		<script language="JavaScript" src="http://hosted.ap.org/lineups/WORLDHEADS-bulleted.js?SITE=OHFIN&amp;SECTION=HOME"></script>
-		</ul>
-
-	</div>
-	<b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b></b>
-</div>
-
-		<div class="xsnazzy">
-				<b class="xtop"><b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b></b>
-				<div class="xboxcontent">
-
-
-<span class="LegendContainer"> &nbsp;&nbsp;Ohio News</span>
-
-<script language="JavaScript">site="OHFIN";section="STATE"</script>
-<ul class="apheadlines">
-
-	
-<script language="JavaScript" src="http://hosted.ap.org/lineups/OHIOLATEST-bulleted.js?SITE=OHFIN&amp;SECTION=STATE"></script>
-</ul>
+</head>
+<body class="page page-id-5034 page-child parent-pageid-5026 page-template-default">
+<div class="body-outer-wrapper">
+	<div class="body-wrapper">
+		<div class="header-outer-wrapper">
+			<!-- top navigation -->
+							<div class="top-navigation-wrapper boxed-style">
+					<div class="top-navigation-container container">
+						<div class="top-navigation-left"><div class="top-superfish-wrapper" id="top-superfish-wrapper"><ul id="menu-main-menu-top" class="top-menu"><li id="menu-item-69841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69841"><a href="http://thecourier.com/loginlogout/"></a><p style="text-align: left;"><a href="http://thecourier.com/loginlogout/"></a><a onclick="ta_account()" href="#" style="">LOGIN-LOGOUT</a></p></li>
+<li id="menu-item-15103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15103"><a href="http://findlaycourier.oh.newsmemory.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://findlaycourier.oh.newsmemory.com/', 'e-COURIER');">e-COURIER</a></li>
+<li id="menu-item-4384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4384"><a href="http://thecourier.com/rewards/">REWARDS</a></li>
+<li id="menu-item-524051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-524051"><a href="http://findlaycourier.oh.newsmemory.com/?activate=1" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://findlaycourier.oh.newsmemory.com/?activate=1', 'ACTIVATE DIGITAL ACCESS');" target="_blank">ACTIVATE DIGITAL ACCESS</a></li>
+<li id="menu-item-15107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15107"><a href="http://thecourier.com/subscribe/">SUBSCRIBE</a></li>
+<li id="menu-item-4974" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4974"><a href="http://thecourier.com/mobile-apps/">APPS</a></li>
+</ul><div class="clear"></div></div><div class="top-responsive-wrapper"><div class="menu-main-menu-top-container"><select id="menu-main-menu-top-1" class="menu dropdown-menu"><option value="" class="blank">— Top Menu —</option><option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69841 menu-item-depth-0" value="http://thecourier.com/loginlogout/">LOGIN-LOGOUT</option>
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15103 menu-item-depth-0" value="http://findlaycourier.oh.newsmemory.com/">e-COURIER</option>
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4384 menu-item-depth-0" value="http://thecourier.com/rewards/">REWARDS</option>
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-524051 menu-item-depth-0" value="http://findlaycourier.oh.newsmemory.com/?activate=1">ACTIVATE DIGITAL ACCESS</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15107 menu-item-depth-0" value="http://thecourier.com/subscribe/">SUBSCRIBE</option>
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4974 menu-item-depth-0" value="http://thecourier.com/mobile-apps/">APPS</option>
+</select></div></div></div><div class="top-navigation-right"><div class="top-search-wrapper">								<div class="gdl-search-form">
+									<form method="get" id="searchform" action="http://thecourier.com/">
+										<input type="submit" id="searchsubmit" value="">
+										<div class="search-text" id="search-text">
+											<input type="text" value="" name="s" id="s" autocomplete="off" data-default="">
+										</div>
+										<div class="clear"></div>
+									</form>
+								</div>
+								</div><div id="gdl-social-icon" class="social-wrapper gdl-retina"><div class="social-icon-wrapper"><div class="social-icon"><a target="_blank" href="https://www.facebook.com/findlaycourier"><img src="http://thecourier.com/wp-content/themes/worldwide-v1-01/images/icon/social-icon/facebook.png" alt="facebook" width="18" height="18"></a></div><div class="social-icon"><a target="_blank" href="http://thecourier.com/rss-feeds/"><img src="http://thecourier.com/wp-content/themes/worldwide-v1-01/images/icon/social-icon/rss.png" alt="rss" width="18" height="18"></a></div><div class="social-icon"><a target="_blank" href="http://twitter.com/FindlayCourier"><img src="http://thecourier.com/wp-content/themes/worldwide-v1-01/images/icon/social-icon/twitter.png" alt="twitter" width="18" height="18"></a></div><div class="social-icon"><a target="_blank" href="http://www.youtube.com/user/findlaypublishing"><img src="http://thecourier.com/wp-content/themes/worldwide-v1-01/images/icon/social-icon/youtube.png" alt="youtube" width="18" height="18"></a></div><div class="social-icon"><a target="_blank" href="https://www.google.com/search?q=findlay+ohio+the+courier&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a#q=findlay+publishing+findlay+ohio&amp;rls=org.mozilla:en-US%3Aofficial"><img src="http://thecourier.com/wp-content/themes/worldwide-v1-01/images/icon/social-icon/google-plus.png" alt="google_plus" width="18" height="18"></a></div><div class="social-icon"><a target="_blank" href="mailto:webmaster@thecourier.com"><img src="http://thecourier.com/wp-content/themes/worldwide-v1-01/images/icon/social-icon/email.png" alt="email" width="18" height="18"></a></div></div></div><div class="top-navigation-right-text"><a href="http://time.is/Findlay" id="time_is_link" <="" a="">
+<span id="Findlay_z161" style="font-size:10px"></span>
+<script src="http://widget.time.is/en.js"></script>
+<script>
+time_is_widget.init({Findlay_z161:{template:"TIME<br/>DATE", time_format:"12hours:minutes:secondsAMPM", date_format:"dayname, monthname dnum, year"}});
+</script>
 
 
 
 
 
-		
-	
-			
-				</div>
-				<b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b></b>
-			</div>
-
-	
-	
-	</div> <!-- end of #leftcontent -->
 
 
-	<div id="rightcontent">
-		<div id="skyscraperads">
-			
-			
+</a></div></div><a href="http://time.is/Findlay" id="time_is_link" <="" a="">						<div class="clear"></div>
+					</a></div><a href="http://time.is/Findlay" id="time_is_link" <="" a="">
+				</a></div><a href="http://time.is/Findlay" id="time_is_link" <="" a=""> <!-- top navigation wrapper -->
+						
+			</a><div class="header-wrapper boxed-style"><a href="http://time.is/Findlay" id="time_is_link" <="" a="">
+				</a><div class="header-container container"><a href="http://time.is/Findlay" id="time_is_link" <="" a="">
+					<!-- Get Logo -->
+					</a><div class="logo-wrapper"><a href="http://time.is/Findlay" id="time_is_link" <="" a="">
+						</a><a href="http://thecourier.com"><img src="http://thecourier.com/wp-content/uploads/2015/09/TheCourier_Findlay_Ohio.png" alt="The Courier"></a>					</div>
 					
+					<!-- Right Banner Area -->
+					<div class="header-right-banner-wrapper">
+					<div class="header-banner-image"><!------- AdMentor Leaderboard/Homepg ------------->
+<script language="JavaScript"> var code = '';
+var now = new Date();
+var nIndex = now.getTime();
+document.write('<s' + 'cript src="http://70.133.226.120/admentor302/scriptinject.asp?F=39&Z=58&N=1&nocache=' + nIndex + '">');
+document.write('</' + 's' + 'cript>');
+</script><script src="http://70.133.226.120/admentor302/scriptinject.asp?F=39&amp;Z=58&amp;N=1&amp;nocache=1582524446303"></script>
+<script language="JavaScript">document.write(code);</script>
+<noscript><a href="http://70.133.226.120/admentor302/adclick.asp?F=39&Z=58&N=1">
+<img border="0" src="http://70.133.226.120/admentor302/adserve.asp?F=39&Z=58&N=1"></a></noscript>
+<!--------- End AdMentor Ad code --------------->
+</div>					</div>
+					<div class="clear"></div>		
+				</div> <!-- header container -->
+			</div> <!-- header wrapper -->
+			
+			<!-- Navigation -->
+			<div class="gdl-navigation-wrapper boxed-style">
+				<div class="responsive-menu-wrapper"><select id="menu-main-menu" class="menu dropdown-menu"><option value="" class="blank">— Main Menu —</option><option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4231 menu-item-depth-0" value="http://thecourier.com/">Home</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-4344 menu-item-depth-0" value="http://thecourier.com/news/">News</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4362 menu-item-depth-1" value="http://thecourier.com/local-news/">- Local News</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4345 menu-item-depth-1" value="http://thecourier.com/breaking-news/">- News Updates</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7398 menu-item-depth-1" value="http://thecourier.com/news/ohio/">- Ohio News</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4926 menu-item-depth-1" value="http://thecourier.com/news/national/">- National News</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45670 menu-item-depth-1" value="http://thecourier.com/news/world/">- World News</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4368 menu-item-depth-1" value="http://thecourier.com/news/news-briefs/">- News Briefs</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5067 menu-item-depth-1" value="http://thecourier.com/news/financial/">- Financial</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5070 menu-item-depth-1" value="http://thecourier.com/news/entertainment/">- Entertainment</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210244 menu-item-depth-1" value="http://thecourier.com/back-page/">- Comics &amp; Puzzles</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-889332 menu-item-depth-1" value="http://thecourier.com/courier-road-report/">- Courier Road Report</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-4521 menu-item-depth-0" value="http://thecourier.com/sports/">Sports</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-11955 menu-item-depth-1" value="http://thecourier.com/local-sports/">- Local Sports</option>		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-903742 menu-item-depth-2" value="http://thecourier.com/local-sports/take-five-sports-q-n-a/">- - Take Five: Sports Q&amp;A</option>
+
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4537 menu-item-depth-1" value="http://thecourier.com/sports/national-sports/">- National Sports</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-1081852 menu-item-depth-1" value="http://thecourier.com/sports-extra/">- Sports Extra Videos</option>		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081858 menu-item-depth-2" value="http://thecourier.com/sports-extra/nba/">- - NBA Playoffs</option>
+		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081857 menu-item-depth-2" value="http://thecourier.com/sports-extra/mlb-highlights/">- - MLB Highlights</option>
+		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081856 menu-item-depth-2" value="http://thecourier.com/sports-extra/pga-tour/">- - PGA Tour</option>
+		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081854 menu-item-depth-2" value="http://thecourier.com/sports-extra/nascar/">- - NASCAR Racing</option>
+		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081855 menu-item-depth-2" value="http://thecourier.com/sports-extra/nfl/">- - NFL Talk</option>
+		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081853 menu-item-depth-2" value="http://thecourier.com/sports-extra/college-football/">- - College Football</option>
+
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4533 menu-item-depth-1" value="http://www.sportsbuzzohio.com/">- Sports Buzz Ohio</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4534 menu-item-depth-1" value="http://www.sportsbuzzohio.com/blanchard-river-buzz/">- Blanchard River Buzz</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4535 menu-item-depth-1" value="http://www.sportsbuzzohio.com/orange-black-attack/">- Orange &amp; Black Attack</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-634524 menu-item-depth-1" value="http://reviewtimes.com/nascar-racing/">- NASCAR Racing</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-4527 menu-item-depth-0" value="http://thecourier.com/family/">Family</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5082 menu-item-depth-1" value="http://thecourier.com/family/family-news/">- Family News</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gldpnl-has-children menu-item-19498 menu-item-depth-1" value="#">- Inside Editions</option>		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19500 menu-item-depth-2" value="http://thecourier.com/weekend-edition/">- - Weekend Edition</option>
+		<option class="ppr-new-window menu-item menu-item-type-post_type menu-item-object-page menu-item-19499 menu-item-depth-2" value="http://thecourier.com/clipper-coupons/">- - Clipper Coupons</option>
+		<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45312 menu-item-depth-2" value="/circulars/">- - Online Circulars</option>
+		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19567 menu-item-depth-2" value="http://thecourier.com/todays-obituaries/">- - Today’s Obituaries</option>
+		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45974 menu-item-depth-2" value="http://thecourier.com/parade/">- - Parade</option>
+		<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32003 menu-item-depth-2" value="http://www.findlay200plus.com">- - Findlay Bicentennial</option>
+
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5078 menu-item-depth-1" value="http://thecourier.com/celebrations-weekly/">- Celebrations Weekly</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5081 menu-item-depth-1" value="http://thecourier.com/family/calendar/">- Community Calendar</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27184 menu-item-depth-1" value="http://thecourier.com/city-directory/">- City Directory</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74652 menu-item-depth-1" value="http://courierbridal.com">- Courier Bridal</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-15176 menu-item-depth-0" value="http://thecourier.com/obituaries/">Obituaries</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35150 menu-item-depth-1" value="http://thecourier.com/obituaries/">- Published Obituaries</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34028 menu-item-depth-1" value="http://thecourier.com/todays-obituaries/">- Today’s Obituaries</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-4526 menu-item-depth-0" value="http://thecourier.com/opinion-viewpoint/">Opinion</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5088 menu-item-depth-1" value="http://thecourier.com/opinion-viewpoint/editorials/">- Editorials</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-13417 menu-item-depth-1" value="http://thecourier.com/opinion-viewpoint/feature-columns/">- Columns</option>		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32693 menu-item-depth-2" value="http://thecourier.com/opinion-viewpoint/feature-columns/historical-highlights/">- - Historical Highlights</option>
+
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5087 menu-item-depth-1" value="http://thecourier.com/opinion-viewpoint/letters-to-the-editor/">- Letters to the Editor</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5091 menu-item-depth-1" value="http://thecourier.com/feature-blogs/">- Feature Blogs</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33781 menu-item-depth-1" value="http://thecourier.com/yop-poll-archive/">- Reader Polls</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-4525 menu-item-depth-0" value="http://thecourier.com/weather/">Weather</option>	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34233 menu-item-depth-1" value="http://findlaypublishing.info/delays/delays/delays.asp">- School Delays</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34232 menu-item-depth-1" value="http://www.wfinwkxa.com/cancellations.asp">- Event Cancellations</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43297 menu-item-depth-1" value="http://thecourier.com/the-couriercam/">- CourierCam</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32046 menu-item-depth-1" value="http://thecourier.com/flood-portal/">- Flood Portal</option>
+
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5002 menu-item-depth-0" value="http://thecourier.com/news/public-record/">The Docket</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-4524 menu-item-depth-0" value="http://thecourier.com/classifieds/">Classifieds</option>	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60250 menu-item-depth-1" value="http://thecourier.com/classifieds/">- Search Classifieds</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5881 menu-item-depth-1" value="http://thecourier.com/classifieds/real-estate/">- Real Estate</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5877 menu-item-depth-1" value="http://thecourier.com/classifieds/employment/">- Employment</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5878 menu-item-depth-1" value="http://thecourier.com/classifieds/for-sale/">- For Sale</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60657 menu-item-depth-1" value="http://socialfindlay.com/garage-sale-map/">- Garage Sales Map</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5884 menu-item-depth-1" value="http://thecourier.com/classifieds/vehicles/">- Vehicles</option>
+	<option class="ppr-new-window ppr-rewrite menu-item menu-item-type-post_type menu-item-object-page menu-item-5880 menu-item-depth-1" value="https://classadz.vdata.com/Findlay/UserType.aspx">- Place Ad</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5876 menu-item-depth-1" value="http://thecourier.com/classifieds/ad-rates/">- Ad Rates</option>
+	<option class="ppr-new-window menu-item menu-item-type-post_type menu-item-object-page menu-item-5879 menu-item-depth-1" value="http://thecourier.com/classifieds/legal-notices/">- Legal Notices</option>
+
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gldpnl-has-children menu-item-17368 menu-item-depth-0" value="">Media</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-5104 menu-item-depth-1" value="http://thecourier.com/photos/">- Photos</option>		<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33306 menu-item-depth-2" value="http://thecourier.com/photos/the-flood-of-2007/">- - The Flood of 2007</option>
+
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5102 menu-item-depth-1" value="http://thecourier.com/gallery/video/">- Video</option>
+	<option class="ppr-new-window menu-item menu-item-type-post_type menu-item-object-page menu-item-35884 menu-item-depth-1" value="http://thecourier.com/photo-sales/">- Photo Sales</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31732 menu-item-depth-1" value="http://thecourier.com/the-couriercam/">- CourierCam</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19366 menu-item-depth-1" value="http://socialfindlay.com">- SocialFindlay</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gldpnl-has-children menu-item-17371 menu-item-depth-1" value="#Visit-Radio-Stations">- Broadcast</option>		<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17372 menu-item-depth-2" value="http://www.wfin.com">- - WFIN -1330 AM</option>
+		<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17373 menu-item-depth-2" value="http://www.wkxa.com">- - WKXA -100.5 FM</option>
+		<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17374 menu-item-depth-2" value="http://www.1063thefox.com/">- - 106.3 The Fox</option>
+
+
+<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gldpnl-has-children menu-item-8324 menu-item-depth-0" value="">Member Service</option>	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40672 menu-item-depth-1" value="https://classadz.vdata.com/FindlayCirc/SelectOption.aspx">- Manage Account</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-987189 menu-item-depth-1" value="http://thecourier.com/member-guide/">- Member Guide</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22413 menu-item-depth-1" value="http://thecourier.com/rewards/">- Member Rewards</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-162642 menu-item-depth-1" value="http://thecourier.com/retail-sales-locations/">- Sales Locations</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5053 menu-item-depth-1" value="http://thecourier.com/member-service/personnel-directory/">- Courier Directory</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5054 menu-item-depth-1" value="http://thecourier.com/member-service/submission-forms/">- Submission Forms</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5049 menu-item-depth-1" value="http://thecourier.com/member-service/advertise/">- Advertise</option>
+
+</select></div><div class="clear"></div><div class="main-navigation-wrapper"><div class="main-superfish-wrapper" id="main-superfish-wrapper"><ul id="menu-main-menu-1" class="sf-menu"><li id="menu-item-4231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4231"><a title="Home" href="http://thecourier.com/"><img claalt="home-icon" src="http://thecourier.com/wp-content/uploads/2013/06/home-icon.png" width="44" height="43"></a></li>
+<li id="menu-item-4344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-4344"><a href="http://thecourier.com/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-4362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4362"><a href="http://thecourier.com/local-news/">Local News</a></li>
+	<li id="menu-item-4345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4345"><a href="http://thecourier.com/breaking-news/">News Updates</a></li>
+	<li id="menu-item-7398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7398"><a href="http://thecourier.com/news/ohio/">Ohio News</a></li>
+	<li id="menu-item-4926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4926"><a href="http://thecourier.com/news/national/">National News</a></li>
+	<li id="menu-item-45670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45670"><a href="http://thecourier.com/news/world/">World News</a></li>
+	<li id="menu-item-4368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4368"><a href="http://thecourier.com/news/news-briefs/">News Briefs</a></li>
+	<li id="menu-item-5067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5067"><a href="http://thecourier.com/news/financial/">Financial</a></li>
+	<li id="menu-item-5070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5070"><a href="http://thecourier.com/news/entertainment/">Entertainment</a></li>
+	<li id="menu-item-210244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210244"><a href="http://thecourier.com/back-page/">Comics &amp; Puzzles</a></li>
+	<li id="menu-item-889332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-889332"><a href="http://thecourier.com/courier-road-report/">Courier Road Report</a></li>
+</ul>
+</li>
+<li id="menu-item-4521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-4521"><a href="http://thecourier.com/sports/">Sports</a>
+<ul class="sub-menu">
+	<li id="menu-item-11955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-11955"><a href="http://thecourier.com/local-sports/">Local Sports</a>
+	<ul class="sub-menu">
+		<li id="menu-item-903742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-903742"><a href="http://thecourier.com/local-sports/take-five-sports-q-n-a/">Take Five: Sports Q&amp;A</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4537"><a href="http://thecourier.com/sports/national-sports/">National Sports</a></li>
+	<li id="menu-item-1081852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-1081852"><a href="http://thecourier.com/sports-extra/">Sports Extra Videos</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1081858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081858"><a href="http://thecourier.com/sports-extra/nba/">NBA Playoffs</a></li>
+		<li id="menu-item-1081857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081857"><a href="http://thecourier.com/sports-extra/mlb-highlights/">MLB Highlights</a></li>
+		<li id="menu-item-1081856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081856"><a href="http://thecourier.com/sports-extra/pga-tour/">PGA Tour</a></li>
+		<li id="menu-item-1081854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081854"><a href="http://thecourier.com/sports-extra/nascar/">NASCAR Racing</a></li>
+		<li id="menu-item-1081855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081855"><a href="http://thecourier.com/sports-extra/nfl/">NFL Talk</a></li>
+		<li id="menu-item-1081853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081853"><a href="http://thecourier.com/sports-extra/college-football/">College Football</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4533" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4533"><a href="http://www.sportsbuzzohio.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.sportsbuzzohio.com/', 'Sports Buzz Ohio');" target="_blank">Sports Buzz Ohio</a></li>
+	<li id="menu-item-4534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4534"><a href="http://www.sportsbuzzohio.com/blanchard-river-buzz/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.sportsbuzzohio.com/blanchard-river-buzz/', 'Blanchard River Buzz');" target="_blank">Blanchard River Buzz</a></li>
+	<li id="menu-item-4535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4535"><a href="http://www.sportsbuzzohio.com/orange-black-attack/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.sportsbuzzohio.com/orange-black-attack/', 'Orange &amp; Black Attack');" target="_blank">Orange &amp; Black Attack</a></li>
+	<li id="menu-item-634524" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-634524"><a href="http://reviewtimes.com/nascar-racing/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://reviewtimes.com/nascar-racing/', 'NASCAR Racing');">NASCAR Racing</a></li>
+</ul>
+</li>
+<li id="menu-item-4527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-4527"><a href="http://thecourier.com/family/">Family</a>
+<ul class="sub-menu">
+	<li id="menu-item-5082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5082"><a href="http://thecourier.com/family/family-news/">Family News</a></li>
+	<li id="menu-item-19498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gldpnl-has-children menu-item-19498"><a href="#">Inside Editions</a>
+	<ul class="sub-menu">
+		<li id="menu-item-19500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19500"><a href="http://thecourier.com/weekend-edition/">Weekend Edition</a></li>
+		<li id="menu-item-19499" class="ppr-new-window menu-item menu-item-type-post_type menu-item-object-page menu-item-19499"><a target="_blank" href="http://thecourier.com/clipper-coupons/">Clipper Coupons</a></li>
+		<li id="menu-item-45312" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45312"><a href="/circulars/">Online Circulars</a></li>
+		<li id="menu-item-19567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19567"><a href="http://thecourier.com/todays-obituaries/">Today’s Obituaries</a></li>
+		<li id="menu-item-45974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45974"><a href="http://thecourier.com/parade/">Parade</a></li>
+		<li id="menu-item-32003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32003"><a href="http://www.findlay200plus.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.findlay200plus.com', 'Findlay Bicentennial');">Findlay Bicentennial</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5078"><a href="http://thecourier.com/celebrations-weekly/">Celebrations Weekly</a></li>
+	<li id="menu-item-5081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5081"><a href="http://thecourier.com/family/calendar/">Community Calendar</a></li>
+	<li id="menu-item-27184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27184"><a href="http://thecourier.com/city-directory/">City Directory</a></li>
+	<li id="menu-item-74652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74652"><a href="http://courierbridal.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://courierbridal.com', 'Courier Bridal');" target="_blank">Courier Bridal</a></li>
+</ul>
+</li>
+<li id="menu-item-15176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-15176"><a href="http://thecourier.com/obituaries/">Obituaries</a>
+<ul class="sub-menu">
+	<li id="menu-item-35150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35150"><a href="http://thecourier.com/obituaries/">Published Obituaries</a></li>
+	<li id="menu-item-34028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34028"><a href="http://thecourier.com/todays-obituaries/">Today’s Obituaries</a></li>
+</ul>
+</li>
+<li id="menu-item-4526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-4526"><a href="http://thecourier.com/opinion-viewpoint/">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-5088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5088"><a href="http://thecourier.com/opinion-viewpoint/editorials/">Editorials</a></li>
+	<li id="menu-item-13417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-13417"><a href="http://thecourier.com/opinion-viewpoint/feature-columns/">Columns</a>
+	<ul class="sub-menu">
+		<li id="menu-item-32693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32693"><a href="http://thecourier.com/opinion-viewpoint/feature-columns/historical-highlights/">Historical Highlights</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5087"><a href="http://thecourier.com/opinion-viewpoint/letters-to-the-editor/">Letters to the Editor</a></li>
+	<li id="menu-item-5091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5091"><a href="http://thecourier.com/feature-blogs/">Feature Blogs</a></li>
+	<li id="menu-item-33781" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33781"><a href="http://thecourier.com/yop-poll-archive/">Reader Polls</a></li>
+</ul>
+</li>
+<li id="menu-item-4525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-4525"><a href="http://thecourier.com/weather/">Weather</a>
+<ul class="sub-menu">
+	<li id="menu-item-34233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34233"><a href="http://findlaypublishing.info/delays/delays/delays.asp" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://findlaypublishing.info/delays/delays/delays.asp', 'School Delays');">School Delays</a></li>
+	<li id="menu-item-34232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34232"><a href="http://www.wfinwkxa.com/cancellations.asp" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.wfinwkxa.com/cancellations.asp', 'Event Cancellations');">Event Cancellations</a></li>
+	<li id="menu-item-43297" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43297"><a href="http://thecourier.com/the-couriercam/">CourierCam</a></li>
+	<li id="menu-item-32046" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32046"><a href="http://thecourier.com/flood-portal/">Flood Portal</a></li>
+</ul>
+</li>
+<li id="menu-item-5002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5002"><a href="http://thecourier.com/news/public-record/">The Docket</a></li>
+<li id="menu-item-4524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-4524"><a href="http://thecourier.com/classifieds/">Classifieds</a>
+<ul class="sub-menu">
+	<li id="menu-item-60250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60250"><a href="http://thecourier.com/classifieds/">Search Classifieds</a></li>
+	<li id="menu-item-5881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5881"><a href="http://thecourier.com/classifieds/real-estate/">Real Estate</a></li>
+	<li id="menu-item-5877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5877"><a href="http://thecourier.com/classifieds/employment/">Employment</a></li>
+	<li id="menu-item-5878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5878"><a href="http://thecourier.com/classifieds/for-sale/">For Sale</a></li>
+	<li id="menu-item-60657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60657"><a href="http://socialfindlay.com/garage-sale-map/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://socialfindlay.com/garage-sale-map/', 'Garage Sales Map');">Garage Sales Map</a></li>
+	<li id="menu-item-5884" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5884"><a href="http://thecourier.com/classifieds/vehicles/">Vehicles</a></li>
+	<li id="menu-item-5880" class="ppr-new-window ppr-rewrite menu-item menu-item-type-post_type menu-item-object-page menu-item-5880"><a href="https://classadz.vdata.com/Findlay/UserType.aspx" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://classadz.vdata.com/Findlay/UserType.aspx', 'Place Ad');" target="_blank">Place Ad</a></li>
+	<li id="menu-item-5876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5876"><a href="http://thecourier.com/classifieds/ad-rates/">Ad Rates</a></li>
+	<li id="menu-item-5879" class="ppr-new-window menu-item menu-item-type-post_type menu-item-object-page menu-item-5879"><a target="_blank" href="http://thecourier.com/classifieds/legal-notices/">Legal Notices</a></li>
+</ul>
+</li>
+<li id="menu-item-17368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gldpnl-has-children menu-item-17368"><a>Media</a>
+<ul class="sub-menu">
+	<li id="menu-item-5104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children gldpnl-has-children menu-item-5104"><a href="http://thecourier.com/photos/">Photos</a>
+	<ul class="sub-menu">
+		<li id="menu-item-33306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33306"><a href="http://thecourier.com/photos/the-flood-of-2007/">The Flood of 2007</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5102"><a href="http://thecourier.com/gallery/video/">Video</a></li>
+	<li id="menu-item-35884" class="ppr-new-window menu-item menu-item-type-post_type menu-item-object-page menu-item-35884"><a target="_blank" href="http://thecourier.com/photo-sales/">Photo Sales</a></li>
+	<li id="menu-item-31732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31732"><a href="http://thecourier.com/the-couriercam/">CourierCam</a></li>
+	<li id="menu-item-19366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19366"><a href="http://socialfindlay.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://socialfindlay.com', 'SocialFindlay');" target="_blank">SocialFindlay</a></li>
+	<li id="menu-item-17371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gldpnl-has-children menu-item-17371"><a href="#Visit-Radio-Stations">Broadcast</a>
+	<ul class="sub-menu">
+		<li id="menu-item-17372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17372"><a href="http://www.wfin.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.wfin.com', 'WFIN -1330 AM');" target="_blank">WFIN -1330 AM</a></li>
+		<li id="menu-item-17373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17373"><a href="http://www.wkxa.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.wkxa.com', 'WKXA -100.5 FM');" target="_blank">WKXA -100.5 FM</a></li>
+		<li id="menu-item-17374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17374"><a href="http://www.1063thefox.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.1063thefox.com/', '106.3 The Fox');" target="_blank">106.3 The Fox</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-8324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gldpnl-has-children menu-item-8324"><a>Member Service</a>
+<ul class="sub-menu">
+	<li id="menu-item-40672" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40672"><a href="https://classadz.vdata.com/FindlayCirc/SelectOption.aspx" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://classadz.vdata.com/FindlayCirc/SelectOption.aspx', 'Manage Account');">Manage Account</a></li>
+	<li id="menu-item-987189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-987189"><a href="http://thecourier.com/member-guide/">Member Guide</a></li>
+	<li id="menu-item-22413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22413"><a href="http://thecourier.com/rewards/">Member Rewards</a></li>
+	<li id="menu-item-162642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-162642"><a href="http://thecourier.com/retail-sales-locations/">Sales Locations</a></li>
+	<li id="menu-item-5053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5053"><a href="http://thecourier.com/member-service/personnel-directory/">Courier Directory</a></li>
+	<li id="menu-item-5054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5054"><a href="http://thecourier.com/member-service/submission-forms/">Submission Forms</a></li>
+	<li id="menu-item-5049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5049"><a href="http://thecourier.com/member-service/advertise/">Advertise</a></li>
+</ul>
+</li>
+</ul><div class="clear"></div></div><div class="clear"></div></div><div class="header-top-marquee"><div class="marquee-head">REINEKE FORD &nbsp;  ||  &nbsp; NEWS UPDATES</div><div class="marquee-wrapper"><div class="marquee" id="marquee"><div><a href="http://thecourier.com/breaking-news/2016/06/05/accident-sends-one-to-hospital/">Accident sends one to hospital</a></div><div><a href="http://thecourier.com/breaking-news/2016/06/05/reports-of-vehicle-on-fire-on-northbound-i-75/">Reports of vehicle on fire on northbound I-75</a></div></div><div class="clear"></div></div></div>				<div class="clear"></div>
+			</div>	<!-- navigation-wrapper -->		
+			
+		</div> <!-- header outer wrapper -->
+		<div class="page-header-wrapper gdl-container-color boxed-style gdl-border-x bottom"><div class="page-header-container container"><div class="page-header-inner-wrapper "><h1 class="page-header-title">Privacy Policy</h1><div class="clear"></div></div></div></div>		<div class="content-outer-wrapper">
+			<div class="content-wrapper container main ">
+			
+	<div id="post-5034" class="post-5034 page type-page status-publish hentry">
+	<div class="page-wrapper normal-sidebar single-page ">
+		<div class="row gdl-page-row-wrapper"><div class="gdl-page-left mb0 twelve columns"><div class="row"><div class="gdl-page-item mb0 twelve columns"><div class="row"><div class="twelve columns mb45"><div class="gdl-page-content"><h3>Findlay Publishing Company Website Privacy Statement</h3>
+<p>The privacy, confidence, and trust of individuals who visit Findlay Publishing Company websites are important to us. This privacy statement provides information about the personal information that The Findlay Publishing Company collects online, and the ways in which The Findlay Publishing Company uses that personal information. This statement is limited to only the information collected online.</p>
+<p><strong>Personal information collection</strong></p>
+<p>The Findlay Publishing Company may collect and use the following kinds of personal information:</p>
+<ul>
+<li>Information about your use of Findlay Publishing Company websites.</li>
+<li>Information that you provide for the purpose of registering with Findlay Publishing Company websites.</li>
+<li>Information about transactions carried out over the Findlay Publishing Company websites including the purchase of goods and services offered by the Findlay Publishing Company.</li>
+<li>Information that you provide for the purpose of subscribing to Findlay Publishing Company website services, including registering to receive text messages and email alerts.</li>
+<li>Other information that you voluntarily send to Findlay Publishing Company websites.</li>
+</ul>
+<p><strong>Using personal information</strong></p>
+<p>The Findlay Publishing Company may use your personal information to:</p>
+<ul>
+<li>Help diagnose problems with our servers, and to administer our web sites.</li>
+<li>Personalize the websites for you.</li>
+<li>Enable your access to and use of the website services.</li>
+<li>Publish information you voluntarily submit on the Findlay Publishing Company websites for publication.</li>
+<li>Send to you products that you purchase.</li>
+<li>Supply to you services that you purchase.</li>
+<li>Send you statements and invoices.</li>
+<li>Collect payments from you.</li>
+<li>Send you marketing communications with the choice to opt-in or opt-out.</li>
+<li>Verify the authenticity of the information or comments you submit for publication.</li>
+</ul>
+<p>Where The Findlay Publishing Company discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.</p>
+<p>In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, The Findlay Publishing Company may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.</p>
+<p><strong>Securing your data</strong></p>
+<p>The Findlay Publishing Company will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.</p>
+<p><strong>Refund policy</strong></p>
+<p>Refunds over $10.00 will be refunded by paper check to the address on the account. We do not retain credit card information and thus do not have the ability to refund to the original credit card used. Any credits that are less than $10.00 can be claimed for cash at our Business Office located at 701 W. Sandusky St. Findlay OH, 45840. Some exceptions can be made to this policy with Management approval.</p>
+<p>For a refund you will need to call 419-422-5151 and talk to a customer service representative. The paper check will be issued the following Wednesday.</p>
+<p><strong>Delivery policy</strong></p>
+<p>Once your subscription begins you should receive your newspaper daily (except on Sunday and designated Holidays) prior to 6:00 a.m. if you live inside the Findlay, Ohio city limits. If you live outside of the city limits of Findlay, Ohio you should receive your newspaper prior to 6:30 a.m. In the event that your newspaper does not arrive by the designated time you can call the Courier at 419-427-5158 or your newspaper delivery person to inquire about the status of your delivery. This designated time is merely a guide rather than a firm time. If your paper is late you will not be issued a refund or credit. A refund or credit will be issued if you did not receive your newspaper (except under mitigating circumstances).</p>
+<p><strong>Updating this statement</strong></p>
+<p>The Findlay Publishing Company may update this privacy policy by posting a new version on this website. You should check this page occasionally to ensure you are familiar with any changes.</p>
+<p><strong>Other websites</strong></p>
+<p>The Findlay Publishing Company websites contain links to other websites. The Findlay Publishing Company is not responsible for the privacy policies or practices of any third party.</p>
+<p><strong>Contact The Findlay Publishing Company </strong></p>
+<p>If you have any questions about this privacy policy or The Findlay Publishing Company’s treatment of your personal information, please write to:</p>
+<ul>
+<li>by email to webmaster@thecourier.com or</li>
+<li>by post to Online Privacy, The Findlay Publishing Company, PO Box 609, Findlay, Ohio 45839</li>
+</ul>
+</div></div><div class="clear"></div></div><div class="row"><div class="twelve columns divider-item-class divider-item-class-0 mb45"><div class="gdl-divider-wrapper"><div class="scroll-top">↑ Back to Top ↑</div><div class="gdl-divider"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div></div><div class="clear"></div></div>		<div class="clear"></div>
+	</div> <!-- page wrapper -->
+	</div> <!-- post class -->
+			</div> <!-- content wrapper -->
+		</div> <!-- content outer wrapper -->
+
+<!-- tecnavia-->
+<script type="text/javascript" src="http://findlaycourier.or.pw.newsmemory.com/include7.php"></script>	
+				
+		<div class="footer-wrapper boxed-style">
+
+		<!-- Get Footer Widget -->
+							<div class="container footer-container">
+				<div class="footer-widget-wrapper">
+					<div class="row">
+						<div class="four columns gdl-footer-1 mb0"><div class="custom-sidebar widget_text" id="text-52">			<div class="textwidget"><style scoped="">/*
+  Main Container
+  ---------------------------------------------------------------------------
+*/
+#yop-poll-other-answer-78_yp5754c0e709f7d-other {
+    border:1px solid #000000;
+    color:#000000;
+}
+.yop-poll-customfield-78_yp5754c0e709f7d {
+border:1px solid #000000;
+    color:#000000;
+}
+div#yop-poll-container-78_yp5754c0e709f7d {
+  background:#fff;
+  box-sizing: border-box;
+  color: #555;
+  display: inline-block;
+  font-size: 14px;
+  padding: 10px;
+  width: 200px;
+  zoom: 1;
+}
+/* A nice little reset */
+div.yop-poll-container * {
+
+}
+
+form#yop-poll-form-78_yp5754c0e709f7d {
+
+}
+/*
+  Error message
+  ..................................
+*/
+div#yop-poll-container-error-78_yp5754c0e709f7d {
+  font-size:.8em;
+  font-style:italic;
+  color:red;
+  text-transform:lowercase;
+  text-align:center;
+}
+/*
+  Success message
+  ..................................
+*/
+div#yop-poll-container-success-78_yp5754c0e709f7d {
+  font-size:.8em;
+  font-style:italic;
+  color:green;
+  text-align:center;
+}
+/*
+  Poll Question
+  ---------------------------------------------------------------------------
+*/
+div#yop-poll-questions-container-78_yp5754c0e709f7d { margin:.5em; }
+div.yop-poll-question-container-78_yp5754c0e709f7d { margin: 0; }
+div.yop-poll-question-78_yp5754c0e709f7d {
+  border: 0 none;
+  margin: 0 0 2em;
+  padding: .25em;
+  text-align: center;
+  font-size: 14px;
+}
+/*
+  Poll Options / Answers
+  ---------------------------------------------------------------------------
+*/
+div.yop-poll-answers-78_yp5754c0e709f7d {}
+div.yop-poll-answers-78_yp5754c0e709f7d ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+}
+div.yop-poll-answers-78_yp5754c0e709f7d ul li.yop-poll-li-answer-78_yp5754c0e709f7d,
+div.yop-poll-answers-78_yp5754c0e709f7d ul li.yop-poll-li-result-78_yp5754c0e709f7d {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  line-height: 2em;
+
+}
+div.yop-poll-answers-78_yp5754c0e709f7d ul li.yop-poll-li-result-78_yp5754c0e709f7d {padding-bottom: 1em;}
+/*
+  Label
+  ..................................
+*/
+div.yop-poll-answers-78_yp5754c0e709f7d  ul li.yop-poll-li-answer-78_yp5754c0e709f7d label {
+  margin:0px;
+  font-style:normal;
+  font-weight:normal;
+  font-size:14px;
+  float:none;
+  display:inline-block;
+}
+/* Actual text label of the answer */
+div.yop-poll-answers-78_yp5754c0e709f7d  ul li.yop-poll-li-answer-78_yp5754c0e709f7d label:nth-of-type(2) {
+
+}
+/*
+  Custom answer / Other
+  ..................................
+*/
+div.yop-poll-answers-78_yp5754c0e709f7d  ul li.yop-poll-li-answer-78_yp5754c0e709f7d label:nth-of-type(3) {
+  width: 100%;
+  overflow: hidden;
+}
+div#yop-poll-container-78_yp5754c0e709f7d  li.yop-poll-li-answer-78_yp5754c0e709f7d label:nth-of-type(3) input[type="text"] {
+  width: 94%;
+  overflow: hidden;
+}
+/*
+  Custom checkbox and radio button style
+  ---------------------------------------------------------------------------
+*/
+
+
+/*
+  Custom fields
+  ---------------------------------------------------------------------------
+*/
+div.yop-poll-customs-78_yp5754c0e709f7d {
+  clear: both;
+
+}
+div.yop-poll-customs-78_yp5754c0e709f7d ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  width: 100%;
+}
+div.yop-poll-customs-78_yp5754c0e709f7d ul li.yop-poll-li-custom-78_yp5754c0e709f7d {
+  display: block;
+  font-size:14px;
+  list-style: none;
+}
+div.yop-poll-customs-78_yp5754c0e709f7d ul li.yop-poll-li-custom-78_yp5754c0e709f7d label {
+  display: block;
+}
+div#yop-poll-container-78_yp5754c0e709f7d li.yop-poll-li-custom-78_yp5754c0e709f7d input[type="text"] {
+  width: 94%;
+}
+/*
+  Vote Button
+  ---------------------------------------------------------------------------
+*/
+.yop-poll-footer { /*height: 4em;*/ }
+
+.yop-poll-vote-centered-78_yp5754c0e709f7d { text-align:center; }
+
+#yop-poll-vote-78_yp5754c0e709f7d div button {
+
+  cursor:pointer;
+  display: block;
+  font-size:14px;
+  margin: 0 auto;
+  }
+
+
+#yop-poll-vote-78_yp5754c0e709f7d div button.yop_poll_vote_button {}
+#yop-poll-vote-78_yp5754c0e709f7d div button.yop_poll_wordpress_vote_button { margin: 1em auto 0; }
+#yop-poll-vote-78_yp5754c0e709f7d div button.yop_poll_anonymous_vote_button { margin: 1em auto 0; }
+
+/*
+  Results
+  ---------------------------------------------------------------------------
+*/
+
+li.yop-poll-results-78_yp5754c0e709f7d {
+  font-size: 12px;
+  font-style: italic;
+  font-weight: normal;
+  margin-left: 15px;
+  color: #38595E;
+}
+/*
+  Style for results that are displayed on columns
+  ..................................
+*/
+li.yop-poll-li-answer-78_yp5754c0e709f7d {
+  float: left;
+  display: inline-block;
+  width: 100%;
+  padding: 1%;
+  margin: 1%;
+}
+
+#yop-poll-vote-78_yp5754c0e709f7d div#yop-poll-results-78_yp5754c0e709f7d {
+  float: right;
+  width: auto;
+}
+#yop-poll-vote-78_yp5754c0e709f7d div#yop-poll-results-78_yp5754c0e709f7d a {
+  color:#000;
+  text-decoration:underline;
+  font-size:12px;
+}
+#yop-poll-vote-78_yp5754c0e709f7d div#yop-poll-back-78_yp5754c0e709f7d a {
+  color:#000;
+  text-decoration:underline;
+  font-size:12px;
+}
+#yop-poll-vote-78_yp5754c0e709f7d div#yop-poll-archive-78_yp5754c0e709f7d a {
+  color:#000;
+  text-decoration:underline;
+  font-size:12px;
+}
+#yop-poll-vote-78_yp5754c0e709f7d div {
+  float:left;
+  width:100%;
+}
+/*
+  Result Bar
+  ..................................
+*/
+
+.yop-poll-results-bar-78_yp5754c0e709f7d div { background:#555; width:90%;}
+
+
+/*
+  ---------------------------------------------------------------------------
+  EXTRAS
+  ---------------------------------------------------------------------------
+*/
+/*
+  CAPTCHA
+  ..................................
+*/
+#yop-poll-captcha-input-div-78_yp5754c0e709f7d { margin-top:5px; }
+#yop-poll-captcha-helpers-div-78_yp5754c0e709f7d {
+  width:30px;
+  float:left;
+  margin-left:5px;
+  height:0px;
+}
+#yop-poll-captcha-helpers-div-78_yp5754c0e709f7d img { margin-bottom:2px; }
+#yop-poll-captcha-image-div-78_yp5754c0e709f7d { margin-bottom:5px; }
+#yop_poll_captcha_image_78_yp5754c0e709f7d { float:left; }
+
+.yop-poll-clear-78_yp5754c0e709f7d { clear:both; }
+
+.yop-poll-name-78_yp5754c0e709f7d { color:#38595E; font-size: 18px; }
+
+
+.yop-poll-li-answer-78_yp5754c0e709f7d label  img     { max-width: 98%; }
+.yop-poll-li-result-78_yp5754c0e709f7d label span img { max-width: 98%; }
+
+.content { position :unset !important; }
+
+div.yop-poll-container br,
+div#yop-poll-container-78_yp5754c0e709f7d br { display: none; }
+
+div#yop_poll_vote_options_div-78_yp5754c0e709f7d div:nth-last-of-type(1) { display: none; }#yop-poll-container-78_yp5754c0e709f7d img {
+    max-width: 200px;
+} .yop-poll-forms-display{}</style><div id="yop-poll-container-78_yp5754c0e709f7d" class="yop-poll-container"><div id="yop-poll-container-success-78_yp5754c0e709f7d" class="yop-poll-container-success"></div><div id="yop-poll-container-error-78_yp5754c0e709f7d" class="yop-poll-container-error"></div><form id="yop-poll-form-78_yp5754c0e709f7d" class="yop-poll-forms yop-poll-forms-display"><div id="yop-poll-questions-container-78_yp5754c0e709f7d">
+	
+	<div id="yop-poll-question-container-78_yp5754c0e709f7d-78" class="yop-poll-question-container-78_yp5754c0e709f7d">
+		<div id="yop-poll-question-78_yp5754c0e709f7d-78" class="yop-poll-question-78_yp5754c0e709f7d">Will you be @ 2016 Boogie on Main in Downtown Findlay -Friday, June 3?</div>
+		<div id="yop-poll-answers-78_yp5754c0e709f7d-78" class="yop-poll-answers-78_yp5754c0e709f7d">
+			<ul>
+				
+				<li class="yop-poll-li-answer-78_yp5754c0e709f7d yop-poll-li-answer-78_yp5754c0e709f7d-78">
+					<input type="radio" value="562" name="yop_poll_answer[78]" id="yop-poll-answer-78_yp5754c0e709f7d-562"> <label for="yop-poll-answer-78_yp5754c0e709f7d-562">Yes, for sure!</label>
+                    
+
+                    
+				</li>
+				
+				<li class="yop-poll-li-answer-78_yp5754c0e709f7d yop-poll-li-answer-78_yp5754c0e709f7d-78">
+					<input type="radio" value="563" name="yop_poll_answer[78]" id="yop-poll-answer-78_yp5754c0e709f7d-563"> <label for="yop-poll-answer-78_yp5754c0e709f7d-563">No, probably not :(</label>
+                    
+
+                    
+				</li>
+				
+				<li class="yop-poll-li-answer-78_yp5754c0e709f7d yop-poll-li-answer-78_yp5754c0e709f7d-78">
+					<input type="radio" value="564" name="yop_poll_answer[78]" id="yop-poll-answer-78_yp5754c0e709f7d-564"> <label for="yop-poll-answer-78_yp5754c0e709f7d-564">Hope to go!</label>
+                    
+
+                    
+				</li>
+				
+				
+			</ul>
+		</div>
+		<div class="yop-poll-customs-78_yp5754c0e709f7d">
+			<ul>
+				
+			</ul>
 		</div>
 	</div>
+	<div class="yop-poll-clear-78_yp5754c0e709f7d"></div>
+	
 </div>
+
+<div id="yop-poll-vote-78_yp5754c0e709f7d" class="yop-poll-footer">
+	<div><button class="yop_poll_vote_button" id="yop_poll_vote-button-78_yp5754c0e709f7d" onclick="yop_poll_register_vote('78', 'page', '_yp5754c0e709f7d'); return false;">vote</button></div>
+	<div id="yop-poll-results-78_yp5754c0e709f7d"></div>
+	<div></div>   <div></div>
+</div><input type="hidden" id="yop-poll-tr-id-78_yp5754c0e709f7d" name="yop_poll_tr_id" value=""><input type="hidden" id="yop-poll-nonce-78_yp5754c0e709f7d" name="yop-poll-nonce-78_yp5754c0e709f7d" value="159e5e6e44"></form></div></div>
+		</div></div><div class="four columns gdl-footer-2 mb0"><div class="custom-sidebar widget_text" id="text-53">			<div class="textwidget"><a onclick="ta_account()" href="#" class="gdl-button small" style="">Login /Logout</a></div>
+		</div><div class="custom-sidebar widget_categories" id="categories-3"><h3 class="custom-sidebar-title">SECTIONS</h3><label class="screen-reader-text" for="cat">SECTIONS</label><select name="cat" id="cat" class="postform">
+	<option value="-1">Select Category</option>
+	<option class="level-0" value="294">2015 Election Local</option>
+	<option class="level-0" value="296">2015 Election Primaries</option>
+	<option class="level-0" value="295">2015 Election State</option>
+	<option class="level-0" value="247">An Ohio Life</option>
+	<option class="level-0" value="314">Business News</option>
+	<option class="level-0" value="196">CEE Promotions</option>
+	<option class="level-0" value="280">Crossword</option>
+	<option class="level-0" value="315">Entertainment</option>
+	<option class="level-0" value="139">Family News</option>
+	<option class="level-0" value="203">Feature Blogs</option>
+	<option class="level-1" value="320">&nbsp;&nbsp;&nbsp;Schaadt in the Dark</option>
+	<option class="level-1" value="321">&nbsp;&nbsp;&nbsp;Train blog</option>
+	<option class="level-0" value="266">Historical Highlights</option>
+	<option class="level-0" value="192">Inside Editions</option>
+	<option class="level-0" value="273">Inside Sports</option>
+	<option class="level-0" value="77">Local News</option>
+	<option class="level-1" value="301">&nbsp;&nbsp;&nbsp;Flood Mitigation</option>
+	<option class="level-0" value="138">Local Sports</option>
+	<option class="level-0" value="250">Missing Category</option>
+	<option class="level-0" value="208">National News</option>
+	<option class="level-0" value="200">National Sports</option>
+	<option class="level-0" value="322">New Update Ticker</option>
+	<option class="level-0" value="78">News Briefs</option>
+	<option class="level-0" value="75">News Updates</option>
+	<option class="level-0" value="81">Obituaries</option>
+	<option class="level-0" value="317">Ohio News</option>
+	<option class="level-0" value="240">Opinion</option>
+	<option class="level-1" value="243">&nbsp;&nbsp;&nbsp;Columns</option>
+	<option class="level-1" value="242">&nbsp;&nbsp;&nbsp;Courier’s View</option>
+	<option class="level-1" value="241">&nbsp;&nbsp;&nbsp;Letters to the Editor</option>
+	<option class="level-0" value="318">Progress 2016</option>
+	<option class="level-0" value="82">Public Records</option>
+	<option class="level-0" value="275">Randy’s Seen</option>
+	<option class="level-0" value="328">Sports Extra</option>
+	<option class="level-0" value="276">Strange News</option>
+	<option class="level-0" value="279">Sudoku</option>
+	<option class="level-0" value="248">Trending Now</option>
+	<option class="level-0" value="1">U.S. News</option>
+	<option class="level-0" value="319">Uncategorized</option>
+	<option class="level-0" value="277">WebDonuts</option>
+	<option class="level-0" value="316">World News</option>
+</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://thecourier.com/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</div><div class="custom-sidebar widget_nav_menu" id="nav_menu-3"><div class="menu-main-menu-top-container"><ul id="menu-main-menu-top-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69841"><a href="http://thecourier.com/loginlogout/"></a><p style="text-align: left;"><a href="http://thecourier.com/loginlogout/"></a><a onclick="ta_account()" href="#" style="">LOGIN-LOGOUT</a></p></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15103"><a href="http://findlaycourier.oh.newsmemory.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://findlaycourier.oh.newsmemory.com/', 'e-COURIER');">e-COURIER</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4384"><a href="http://thecourier.com/rewards/">REWARDS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-524051"><a href="http://findlaycourier.oh.newsmemory.com/?activate=1" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://findlaycourier.oh.newsmemory.com/?activate=1', 'ACTIVATE DIGITAL ACCESS');" target="_blank">ACTIVATE DIGITAL ACCESS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15107"><a href="http://thecourier.com/subscribe/">SUBSCRIBE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4974"><a href="http://thecourier.com/mobile-apps/">APPS</a></li>
+</ul></div></div></div><div class="four columns gdl-footer-3 mb0"><div class="custom-sidebar widget_black_studio_tinymce" id="black-studio-tinymce-31"><h3 class="custom-sidebar-title">The Courier</h3><div class="textwidget"><span style="color: #ffffff;">P.O. 609 Findlay, Ohio 45839-0609</span><br>
+<span style="color: #ffffff;"> 701 W. Sandusky St. - Findlay, Ohio 45840</span><br>
+<span style="color: #ffffff;"> <i class="gdl-icon-shortcode icon-phone" style="color:#fff;font-size:12px;"></i> Phone: 419-422-5151</span><br>
+
+<span style="color: #ffffff;"> <i class="gdl-icon-shortcode icon-envelope" style="color:#fff;font-size:12px;"></i><a href="http://www.thecourier.com/member-service/personnel-directory/">Courier Directory</a></span><br>
+
+<span style="color: #ffffff;"> A Division of <a href="http://www.findlaypublishing.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.findlaypublishing.com/', 'The Findlay Publishing Company');" target="_blank"><span style="color: #ffffff;">The Findlay Publishing Company</span></a></span><br>
+
+<br><span style="color: #ffffff;"> <a href="http://www.socialfindlay.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.socialfindlay.com', 'Social Findlay');" target="_blank"><span style="color: #ffffff;">Social Findlay</span></a> || <a href="http://www.reviewtimes.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.reviewtimes.com/', 'The Review Times');" target="_blank"><span style="color: #ffffff;">The Review Times</span></a> || <a href="http://www.sportsbuzzohio.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.sportsbuzzohio.com', 'Sports BUZZ Ohio');" target="_blank"><span style="color: #ffffff;">Sports BUZZ Ohio</span></a> || <a href="http://www.courierbridal.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.courierbridal.com', 'Courier Bridal');" target="_blank"><span style="color: #ffffff;">Courier Bridal</span></a> || <a href="http://www.findlaydigitaldesign.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.findlaydigitaldesign.com', 'Findlay Digital Design');" target="_blank"><span style="color: #ffffff;">Findlay Digital Design</span></a><br>
+<a href="http://www.wkxa.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.wkxa.com', 'WKXA');" target="_blank"><span style="color: #ffffff;">WKXA</span></a> || <a href="http://www.1063thefox.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.1063thefox.com/', '106.3 The Fox');" target="_blank"><span style="color: #ffffff;">106.3 The Fox</span></a> || <a href="http://www.wfin.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.wfin.com', 'WFIN');" target="_blank"><span style="color: #ffffff;">WFIN</span></a> ||</span><p></p>
+
+<p><span style="color: #ffffff;"> Please read our <a href="http://thecourier.com/member-service/privacy/" target="_blank">Privacy Guidelines</a> and <a href="http://thecourier.com/the-courier-commenting-policy/" target="_blank">Commenting Policies</a></span></p></div></div></div>						<div class="clear"></div>
+					</div> <!-- close row -->
+					
+					<!-- Get Copyright Text -->
+																<div class="copyright-wrapper">
+							<div class="copyright-border"></div>
+							<div class="copyright-left">
+								<a href="http://www.findlaypublishing.com" target="_blank">All contents © 1996 - 2016 The Findlay Publishing Company</a>							</div>
+						</div>
+										
+				</div>
+			</div> 
+		
+		</div><!-- footer wrapper -->
+	</div> <!-- body wrapper -->
+</div> <!-- body outer wrapper -->
+	
+<!-- Custom Facebook Feed JS -->
+<script type="text/javascript">
+var cfflinkhashtags = "true";
+</script>
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "http://thecourier.com/wp-admin/admin-ajax.php";
+</script>
+<script type="text/javascript">jQuery(document).ready(function(){});</script>	<script>
+		var getElementsByClassName=function(a,b,c){if(document.getElementsByClassName){getElementsByClassName=function(a,b,c){c=c||document;var d=c.getElementsByClassName(a),e=b?new RegExp("\\b"+b+"\\b","i"):null,f=[],g;for(var h=0,i=d.length;h<i;h+=1){g=d[h];if(!e||e.test(g.nodeName)){f.push(g)}}return f}}else if(document.evaluate){getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e="",f="http://www.w3.org/1999/xhtml",g=document.documentElement.namespaceURI===f?f:null,h=[],i,j;for(var k=0,l=d.length;k<l;k+=1){e+="[contains(concat(' ', @class, ' '), ' "+d[k]+" ')]"}try{i=document.evaluate(".//"+b+e,c,g,0,null)}catch(m){i=document.evaluate(".//"+b+e,c,null,0,null)}while(j=i.iterateNext()){h.push(j)}return h}}else{getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e=[],f=b==="*"&&c.all?c.all:c.getElementsByTagName(b),g,h=[],i;for(var j=0,k=d.length;j<k;j+=1){e.push(new RegExp("(^|\\s)"+d[j]+"(\\s|$)"))}for(var l=0,m=f.length;l<m;l+=1){g=f[l];i=false;for(var n=0,o=e.length;n<o;n+=1){i=e[n].test(g.className);if(!i){break}}if(i){h.push(g)}}return h}}return getElementsByClassName(a,b,c)},
+			dropdowns = getElementsByClassName( 'dropdown-menu' );
+		for ( i=0; i<dropdowns.length; i++ )
+			dropdowns[i].onchange = function(){ if ( this.value != '' ) window.location.href = this.value; }
+	</script>
+	<script type="text/javascript" src="http://thecourier.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/custom-facebook-feed/js/cff-scripts.js?ver=2.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"585820048.3a81a9f.512366f910e84cce85c2ad92147338c6","sb_instagram_hide_photos":"","sb_instagram_block_users":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/instagram-feed-pro/js/sb-instagram.js?ver=2.2"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/themes/worldwide-v1-01/javascript/jquery.easing.js?ver=1.0"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/wp-gilid-panel/js/jquery.nanoscroller.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/wp-gilid-panel/js/jquery.gilid.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/themes/worldwide-v1-01/javascript/superfish.js?ver=1.0"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/themes/worldwide-v1-01/javascript/supersub.js?ver=1.0"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/themes/worldwide-v1-01/javascript/hoverIntent.js?ver=1.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ATTR = {"enable":"enable","width":"80","height":"45"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/themes/worldwide-v1-01/javascript/jquery.fancybox.js?ver=1.0"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/themes/worldwide-v1-01/javascript/jquery.fancybox-media.js?ver=1.0"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/themes/worldwide-v1-01/javascript/jquery.fancybox-thumbs.js?ver=1.0"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/themes/worldwide-v1-01/javascript/gdl-scripts.js?ver=1.0"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/themes/worldwide-v1-01/javascript/marquee.js?ver=1.0"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-includes/js/comment-reply.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-includes/js/wp-embed.min.js?ver=4.4.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var tabulate = {"results":"","answers":"","orizontal_answers":"0","orizontal_results":"0"};
+var yop_poll_public_config_general = {"ajax":{"url":"http:\/\/thecourier.com\/wp-admin\/admin-ajax.php","vote_action":"yop_poll_do_vote","yop_poll_show_vote_options":"yop_poll_show_vote_options","captcha_action":"yop_poll_show_captcha","view_results_action":"yop_poll_view_results","back_to_vote_action":"yop_poll_back_to_vote","is_wordpress_user_action":"yop_poll_is_wordpress_user","is_facebook_user_action":"yop_poll_is_facebook_user"},"pro":[],"yop_poll_version":"5.7.9","vote_with_wordpress_login_url":"http:\/\/thecourier.com\/wp-login.php?redirect_to=http%3A%2F%2Fthecourier.com%2Fwp-admin%2Fadmin-ajax.php%3Faction%3Dyop_poll_set_wordpress_vote","vote_with_facebook_ajax_url":"http:\/\/thecourier.com\/wp-admin\/admin-ajax.php?action=yop_poll_set_facebook_vote"};
+var yop_poll_public_config_78_yp5754c0e709f7d = {"poll_options":{"vote_permisions":["guest"],"vote_permisions_facebook_label":"Vote as Facebook User","vote_permisions_wordpress_label":"Vote as Wordpress User","vote_permisions_anonymous_label":"Vote as Anonymous User","vote_permisions_google_label":"Vote as G+ User","vote_permisions_types":2,"share_after_vote":false,"share_name":false,"share_caption":false,"share_description":false,"share_picture":false,"share_poll_name":null,"share_link":"http:\/\/thecourier.com","redirect_after_vote":"no","redirect_after_vote_url":"","facebook_share_after_vote":"no"},"loading_image_src":"http:\/\/thecourier.com\/wp-content\/plugins\/yop-poll\/images\/loading36x36.gif","loading_image_alt":"Loading"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/yop-poll/js/yop-poll-public.js?ver=5.7.9"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/yop-poll/js/yop-poll-supercookie.js?ver=5.7.9"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/yop-poll/js/super-cookie/superCookie-min.js?ver=5.7.9"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/yop-poll/js/super-cookie/swfobject/swfobject.js?ver=5.7.9"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/yop-poll/js/jquery.popupWindow.js?ver=5.7.9"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/yop-poll/js/yop-poll-jquery.base64.min.js?ver=5.7.9"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-content/plugins/yop-poll/js/yop-poll-json2.js?ver=5.7.9"></script>
+<script type="text/javascript" src="http://thecourier.com/wp-admin/admin-ajax.php?action=yop_poll_load_js&amp;id=78&amp;location=page&amp;unique_id=_yp5754c0e709f7d&amp;ver=5.7.9"></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=564225396992669&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    <script type="text/javascript"> 							
+	  	jQuery(document).ready(function(){ 
+
+});</script>
+
 
 
 </body></html>
