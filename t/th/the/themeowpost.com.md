@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themeowpost.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205021030id_/http%3A//themeowpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeowpost.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606002145id_/http%3A//themeowpost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Meow Post
 
-This privacy policy will set out how TheMeowPost.com uses and protects any information that you give when you use Astoundable.com.
+This privacy policy will set out how TheMeowPost.com uses and protects any information that you give when you use TheMeowPost.com.
 
 TheMeowPost.com is committed to ensuring that your privacy is completely protected and work hard to make sure all precautions are taken.  We cannot guaranty anything, but do everything within our means to ensure your privacy outlined within these terms. If we ask you to provide certain information by which you can be identified when using this website, then you can rest assured that it will only be used in accordance with this privacy statement.
 
