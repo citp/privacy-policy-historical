@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodworldnews.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114411id_/http%3A//www.foodworldnews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodworldnews.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001344id_/http%3A//www.foodworldnews.com/privacypolicy) for the most accurate reproduction.*
 
 # Food World News
 
@@ -175,14 +175,14 @@ Further, if you use any of the Communities features and functions made available
 
 Food Biz
 
-[](https://web.archive.org/articles/61048/20151204/people-diabetes-twice-lose-teeth.htm)
-
-[](https://web.archive.org/articles/60597/20151203/target-owes-40-million-data-breach-losses.htm)
-
-#### [Target Owes $40 Million for Data Breach Losses](https://web.archive.org/articles/60597/20151203/target-owes-40-million-data-breach-losses.htm)
-
-Target is expected to pay off about $39.4 million for a settlement with the banks. It is to make up for the losses of each financial institution after the retailer's massive data breach last 2013.
+[](https://web.archive.org/articles/68426/20160414/latest-trend-show-soda-losing-appeal-fast.htm)
 
 Food Tech
 
-[](https://web.archive.org/articles/60980/20151204/philippine-brandy-company-buys-fundador-spains-oldest-brandy-in-all-cash-%E2%82%AC275-million-deal.htm)
+[](https://web.archive.org/articles/68455/20160418/burrit-oh-app-true-love-come-extra-hot-sauce.htm)
+
+[](https://web.archive.org/articles/68130/20160405/vegan-diet-attract-alien-activity.htm)
+
+#### [Vegan Diet Could Attract Alien Activity](https://web.archive.org/articles/68130/20160405/vegan-diet-attract-alien-activity.htm)
+
+Cosmic mythologist and medical astrologist Laura Magdalene Eisenhower, posited that our diet as humans play an important role in attracting alien life into Earth.
