@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the promotive.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907180808id_/https%3A//www.promotive.com/business/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotive.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605205520id_/https%3A//www.promotive.com/business/privacy) for the most accurate reproduction.*
 
 # Privacy | Promotive
 
 ## Experticity Privacy Policy
 
-Effective Date: 9/22/2014
+Effective Date:10/07/2015
 
   * Privacy Policy (US & Multi-Country)
   * EU and Swiss Safe Harbor Statement
@@ -24,27 +24,29 @@ Effective Date: 9/22/2014
 
 Version:  
 United States, Mexico; South Africa; Colombia; Venezuela; Peru; Ecuador; Chile, Uruguay, Brazil; Singapore; Philippines; Indonesia; Malaysia; Thailand; Japan, People’s Republic of China; New Zealand  
-Effective Date: 09/22/2014 
+Effective Date: 10/07/2015
 
-This privacy policy describes how eXperticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com (“site”). By using our site, registering for our services, or by choosing to submit personal information to eXperticity through the site, you agree to the terms of this Privacy Policy (“Policy”). You are not required to provide any personal information, but if you choose not to, you may not be able to access certain information or areas of the site. If you do not agree with any terms of this Policy, please do not use this Site or submit any personal information to eXperticity.
+This privacy policy describes how Experticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com, ProMotive.com or Experticity.com (collectively, “sites”).
 
-To the extent identification is required by local law, the data controller is eXperticity, Inc.
+By using our sites, registering for our services, or by choosing to submit personal information to Experticity through the sites, you agree to the terms of this Privacy Policy (“Policy”). You are not required to provide any personal information, but if you choose not to, you may not be able to access certain information or areas of the sites. If you do not agree with any terms of this Policy, please do not use this Site or submit any personal information to Experticity.
+
+To the extent identification is required by local law, the data controller is Experticity, Inc.
 
 ### WHAT INFORMATION WE COLLECT
 
 #### All Users
 
-When you visit our site, we collect personal information about you (including, name, address, telephone number, email address, username, password) (“Personally Identifying Information”) when you fill out forms, communicate with us through our site, or create an online profile.
+When you visit our sites, we collect personal information about you (including name, address, telephone number, email address, username, and password) (“Personally Identifying Information”) when you fill out forms, communicate with us through our sites, or create an online profile. We may collect personal information that you make publicly available, such as if you make a comment on another user’s content.
 
-We also collect certain information about your use of our site such as information about your computer, including your IP address, the type of browser you are using, and your computer’s operating system. Except as otherwise explained in this Policy or as may be prohibited by law, we may combine this information with your personal information. 
+We may also collect certain information about your use of our sites such as information about your computer, including your IP address, the type of browser you are using, and your computer’s operating system. Except as otherwise explained in this Policy or as may be prohibited by law, we may combine this information with your personal information.
 
 #### Online Profile
 
-When you create an online profile, you may choose to provide optional information such as your employer, training modules completed, purchases you make, photographs, points earned, etc. Any information you provide on your profile is subject to this Policy. Information you choose to upload or publish to a public are of your profile will appear on the site, and may be viewed by other members. If you choose to include Personally Identifying Information in a public area of the site, you consent to the public disclosure of the Personally Identifying Information you choose to post. If you do not wish to publish your Personally Identifying Information in this manner, please do not include it in material you post to a public area of the site. We provide you ways to control the sharing of your profile, generally, and data within your profile at the following link: [www.3point5.com/action/user/account](http://www.3point5.com/action/user/account).
+When you create an online profile, you may choose to provide optional information such as your employer, training modules completed, purchases you make, photographs, points earned, etc. Any information you provide on your profile is subject to this Policy. Information you choose to upload or publish to a public area of your profile will appear on the sites, and may be viewed by other members. If you choose to include Personally Identifying Information in a public area of the sites, you consent to the public disclosure of the Personally Identifying Information you choose to post. If you do not wish to publish your Personally Identifying Information in this manner, please do not include it in material you post to a public area of the sites. We provide you ways to control the sharing of your profile, generally, and data within your profile at the following link: [www.3point5.com/action/user/account](https://www.3point5.com/action/user/account).
 
 #### Cookies and Other Tracking Technology
 
-Our site also uses “cookies” (small data files stored on your computer) and other tracking technologies to collect information about your visit to our site. The cookies and tracking technologies we use do not capture Personally Identifying Information. The information that is captured about your visit may be used in a variety of ways, such as to monitor and maintain information about your visits to our site, to help us identify and address problems, to improve our site, to analyze web traffic trends, and to help protect the security and integrity of our site. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies, you may still use our site, but your experience may be degraded. We may also use pixel tags (also known as “clear gifs,” “Web beacons,” or “1-by-1gifs”) on our site. These may be used in connection with certain pages of our site or with email messages to measure the effectiveness of our communications and our marketing campaigns, to compile statistics about usage and response rates, and to assist us in resolving issues that may arise on our site.
+Our sites also uses “cookies” (small data files stored on your computer) and other tracking technologies to collect information about your visit to our sites. The cookies and tracking technologies we use do not capture Personally Identifying Information. The information that is captured about your visit may be used in a variety of ways, such as to monitor and maintain information about your visits to our sites, to help us identify and address problems, to improve our sites, to analyze web traffic trends, and to help protect the security and integrity of our sites. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies, you may still use our sites, but your experience may be degraded.  We may also use pixel tags (also known as “clear gifs,” “Web beacons,” or “1-by-1gifs”) on our sites. These may be used in connection with certain pages of our sites or with email messages to measure the effectiveness of our communications and our marketing campaigns, to compile statistics about usage and response rates, and to assist us in resolving issues that may arise on our site.
 
 ### HOW WE USE COLLECTED PERSONALLY IDENTIFYING INFORMATION
 
@@ -66,38 +68,36 @@ We may also use information that we receive about you from your employer and dat
 
 ### SHARING YOUR INFORMATION
 
-We will not disclose your Personally Identifying Information to third parties except as described in this Policy, to the extent necessary to provide you with a requested service, or under circumstances required by law. You agree that we may also disclose this information to third parties: (1) when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of our site, or anyone else who could be harmed by such activities; (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, such as to comply with a subpoena or similar legal process.
+We will not disclose your Personally Identifying Information to third parties except as described in this Policy, to the extent necessary to provide you with a requested service, or under circumstances required by law. You agree that we may also disclose this information to third parties: (1) when we have reason to believe that such disclosure is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of our sites, or anyone else who could be harmed by such activities; or (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, such as to comply with a subpoena or similar legal process.
 
 We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out these purposes. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative, technical support, or other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to a such a third party service provider, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Policy, and to provide adequate protection for the Personally Identifying Information.
 
-We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent.  
-
+We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent.
 
 ### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
 
 #### Correcting or Changing Your Information
 
-We are concerned about the accuracy, currency, and completeness of the Personally Identifying Information we collect and take appropriate steps to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this policy, if you wish to review, amend, correct, update, delete Personally Identifying Information we have collected about you online, or to opt out of receiving our marketing communications, contact us at: +1-866-376-4685 or http://www.3point5.com/action/feedback. You may also contact us by writing to:
+We are concerned about the accuracy, currency, and completeness of the Personally Identifying Information we collect and take appropriate steps to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this Policy, if you wish to review, amend, correct, update, or delete Personally Identifying Information we have collected about you online, or to opt out of receiving our marketing communications, contact us at: +1-866-376-4685 or http://www.3point5.com/action/feedback. You may also contact us by writing to:
 
 Ron Martinez  
-eXperticity  
+Experticity  
 9 Exchange Plaza, Suite 1000  
-Salt Lake City, Utah 84111  
-
+Salt Lake City, Utah 84111
 
 We will respond to your access request within any legally required time period or within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
 
-You may cancel your registration to our site and/or request the removal of your Personally Identifying Information from our visitor records by sending an email at http://www.3point5.com/feedback. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for any purpose, commercial or otherwise. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the site blocked.
+You may cancel your registration to our sites and/or request the removal of your Personally Identifying Information from our visitor records by sending an email at http://www.3point5.com/feedback. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for any purpose, commercial or otherwise. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the site blocked.
 
 ### SECURITY
 
-We use a variety of technologies and processes to protect Personally Identifying Information collected on this site, including physical, technological, and organizational security measures. For example, we use encryption technology whenever transmitting personal information. Unfortunately, no security technology is completely secure, and you should remember that email is not a secure means of communication. We retain Personally Identifying Information that we collect only as long as reasonably necessary to fulfill the purposes for which it was collected or to meet any legal requirements.
+We use a variety of technologies and processes to protect Personally Identifying Information collected on the sites, including physical, technological, and organizational security measures. For example, we use encryption technology whenever transmitting personal information. Unfortunately, no security technology is completely secure, and you should remember that email is not a secure means of communication. We retain Personally Identifying Information that we collect only as long as reasonably necessary to fulfill the purposes for which it was collected or to meet any legal requirements.
 
 Some or all of the Personally Identifying Information we collect may be stored or processed on servers located outside of your country, including in the United States, whose data protection laws may differ from those where you live. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to laws in those jurisdictions. Subject to applicable laws in such other jurisdictions, we will use reasonable efforts to ensure that appropriate protections are in place to maintain protections on the Personally Identifying Information that are equivalent to those in your country.
 
 ### LINKS TO OTHER WEBSITES
 
-Our site may contain links to websites owned by third parties. Information you share with a third party site is not subject to this privacy policy. Please review the privacy policy of any site you access through our site.
+Our sites may contain links to websites owned by third parties. Information you share with a third party site is not subject to this Policy. Please review the privacy policy of any sites you access through our sites.
 
 ### CHILDREN’S PRIVACY
 
@@ -105,447 +105,43 @@ Our sites are not intended for use by children. We do not knowingly collect pers
 
 ### POLICY CHANGES
 
-If our privacy policy changes, we will post these changes to our website with the date of revision. We encourage you to review our privacy policy periodically. Your continued access to and/or use of the site after any such changes constitutes your acceptance of, and agreement to be legally bound by, this Policy, as revised. If our privacy practices, including the ways we use your Personally Identifying Information, materially change from the time you created an online profile, we will notify you about such changes before they take effect and allow you to delete your information as described above, should you disagree with such changes.
+If our Policy changes, we will post these changes to our sites with the date of revision. We encourage you to review our Policy periodically.  Your continued access to and/or use of the sites after any such changes constitutes your acceptance of, and agreement to be legally bound by, this Policy, as revised. If our privacy practices, including the ways we use your Personally Identifying Information, materially change from the time you created an online profile, we will notify you about such changes before they take effect and allow you to delete your information as described above, should you disagree with such changes.
 
 ## Safe Harbor Privacy Policy
 
-Experticity, Inc. (“Experticity”), as part of its privacy policy, complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Experticity has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Experticity’s certification, please visit <http://www.export.gov/safeharbor/>.
+Experticity, Inc. (“Experticity”), as part of this Policy, complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Experticity has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Experticity’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-In compliance with the US-EU Safe Harbor Principles and US-Swiss Safe Harbor Principles, Experticity commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Experticity Member Services at: 866-376-4685 or <http://www.3point5.com/action/feedback>.
+In compliance with the U.S.-E.U. Safe Harbor Principles and U.S.-Swiss Safe Harbor Principles, Experticity commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Experticity Member Services at: 866-376-4685 or [http://www.3point5.com/action/feedback](https://www.3point5.com/action/feedback).
 
-Experticity has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles and the US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Experticity, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+Experticity has further committed to refer unresolved privacy complaints under the U.S.-E.U. Safe Harbor Principles and the U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Experticity, please visit the BBB E.U. SAFE HARBOR website at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
 
 ## PRIVACY POLICY
 
-Version: United Kingdom & European Union   
-Effective Date: 9/22/2014 
+Version: United Kingdom & European Union
 
-This privacy policy describes how eXperticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com (“site”).
+Effective Date: 10/07/2015
 
-By using our site, registering for our services, or by choosing to submit personal information to eXperticity through the site, you agree to the terms of this privacy policy (“Privacy Policy”), our Cookie Policy, and our User Agreement.
+This privacy policy describes how Experticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com, ProMotive.com or Experticity.com (collectively, “sites”).
+
+By using our sites, registering for our services, or by choosing to submit personal information to Experticity through the sites, you agree to the terms of this Privacy Policy (“Policy”). You are not required to provide any personal information, but if you choose not to, you may not be able to access certain information or areas of the sites. If you do not agree with any terms of this Policy, please do not use this Site or submit any personal information to Experticity.
+
+To the extent identification is required by local law, the data controller is Experticity, Inc.
 
 ### WHAT INFORMATION WE COLLECT
 
 #### All Users
 
-When you visit our site, we collect personal information about you (including, name, address, telephone number, email address, username, password, IP address) (“Personally Identifying Information”) when you fill out forms, communicate with us through our site, or create an online profile.
+When you visit our sites, we collect personal information about you (including name, address, telephone number, email address, username, and password) (“Personally Identifying Information”) when you fill out forms, communicate with us through our sites, or create an online profile. We may collect personal information that you make publicly available, such as if you make a comment on another user’s content.
 
-We also collect certain information about your use of our site such as information about your computer, including the type of browser you are using and your computer’s operating system. Except as otherwise explained in this Privacy Policy or as may be prohibited by law, we may combine this information with your personal information.
-
-To the extent required by local law, the data controller is eXperticity, Inc., of 9 Exchange Plaza, Suite 1000, Salt Lake City, Utah 84111 
+We may also collect certain information about your use of our sites such as information about your computer, including your IP address, the type of browser you are using, and your computer’s operating system. Except as otherwise explained in this Policy or as may be prohibited by law, we may combine this information with your personal information.
 
 #### Online Profile
 
-When you create an online profile, you may choose to provide optional information such as your employer, training modules completed, purchases you make, photographs, points earned, etc. Any information you provide on your profile is subject to this Privacy Policy. Information you choose to upload or publish to a public are of your profile will appear on the site, and may be viewed by other members. If you choose to include Personally Identifying Information in a public area of the site, you consent to the public disclosure of the Personally Identifying Information you choose to post. If you do not wish to publish your Personally Identifying Information in this manner, please do not include it in material you post to a public area of the site. We provide you ways to control the sharing of your profile, generally, and data within your profile at the following link: [www.3point5.com/action/user/account](http://www.3point5.com/action/user/account).
-
-#### Cookies
-
-Our site also uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them, see our Cookie Policy.
-
-#### HOW WE USE COLLECTED PERSONALLY IDENTIFYING INFORMATION
-
-We may use the Personally Identifying Information we collect for the following purposes:
-
-  * to respond to your inquiries and fulfill your requests;
-  * to send you important information regarding our site, changes to our terms, conditions, and policies, and/or other administrative information;
-  * to send you marketing communications that we believe may be of interest to you, if you have agreed to receive such messages;
-  * to personalize your experience on our site by presenting content tailored to you;
-  * to allow you to take and keep track of training;
-  * for our business purposes, such as data analysis, audits, developing new products, enhancing our site, improving our services, identifying usage trends, and determining the effectiveness of our promotional campaigns;
-  * for risk control, to comply with laws and regulations, and to comply with other legal process and law enforcement requirements;
-  * to use information about your activities on the site to communicate your training progress to your employers and in some cases to offer you retail discounts;
-  * for other purposes which are disclosed to you and to which you consent.
-
-
-
-We may also use information that we receive about you from your employer and data providers who assist us in processing requests, maintaining our data and optimizing our services.
-
-### SHARING YOUR INFORMATION
-
-We will not disclose your Personally Identifying Information to third parties except as described in this Privacy Policy, to the extent necessary to provide you with a requested service, or under circumstances required by law. You agree that we may also disclose this information to third parties: (1) when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of our site, or anyone else who could be harmed by such activities; (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, such as to comply with a subpoena or similar legal process.
-
-We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out the uses discussed in this Privacy Policy. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative or technical support, for other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to third party processor, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Privacy Policy, and to provide adequate protection for the Personally Identifying Information.
-
-We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent. 
-
-### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
-
-#### Correcting or Changing Your Information
-
-We are concerned about the accuracy, currency, and completeness of the information we collect and take appropriate steps to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this policy, if you wish to review, amend, correct, update, delete Personally Identifying Information we have collected about you online, or to opt-out of receiving our marketing communications, contact us at: +1-866-376-4685 or <http://www.3point5.com/action/feedback>. You may also contact us by writing to:
-
-Ron Martinez  
-eXperticity  
-9 Exchange Plaza, Suite 1000  
-Salt Lake City, Utah 84111  
-
-
-We will respond to your access request within any legally required time period or within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated. 
-
-You may cancel your registration to our site and/or request the removal of your Personally Identifying Information from our visitor records by sending an email at http://www.3point5.com/feedback. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for any purpose, commercial or otherwise. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the site blocked, as well as for legal or contractual reasons.
-
-### SECURITY
-
-We use a variety of technologies and processes to protect Personally Identifying Information collected on this site, including physical, technological, and organizational security measures. For example, we use encryption technology whenever transmitting personal information. Unfortunately, no security technology is completely secure, and you should remember that email is not a secure means of communication. We retain Personally Identifying Information that we collect only as long as reasonably necessary to fulfill the purposes for which it was collected or to meet any legal requirements.
-
-Where we have given you (or where you have chosen) a password that enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. You understand that, without prejudice to our legal obligations, any Personally Identifying Information you give to us is given at your own risk and we shall not be liable for any loss of or damage to your Personally Identifying Information.
-
-### LINKS TO OTHER WEBSITES
-
-Our site may contain links to websites owned by third parties. Information you share with a third party site is not subject to this privacy policy. Please review the privacy policy of any site you access through our site.
-
-### CHILDREN’S PRIVACY
-
-Our sites are not intended for use by children. We do not knowingly collect personal information from children under the age of 13. Children under the age of majority in their jurisdiction of residence are prohibited from creating an online profile.
-
-### POLICY CHANGES
-
-If our privacy policy changes, we will post these changes to our website with the date of revision. We encourage you to review our privacy policy periodically. Your continued access to and/or use of the site after any such changes constitutes your acceptance of, and agreement to be legally bound by, this Privacy Policy, as revised. If our privacy practices, including the ways we use your Personally Identifying Information, materially change from the time you created an online profile, we will notify you about such changes before they take effect and allow you to delete your information as described above, should you disagree with such changes.
-
-### WHERE WE STORE YOUR PERSONAL INFORMATION & SAFE HARBOR
-
-The data that we collect from you will be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It will also be processed by staff operating outside the EEA who work for us or for one of our service providers. Such staff maybe engaged in, among other things, the processing of your Personally Identifying Information and the provision of support services. By submitting your Personally Identifying Information, you agree to this transfer, storing, or processing.
-
-eXperticity complies with the U.S. – E.U. Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. eXperticity has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view eXperticity’s certification, please visit http://www.export.gov/safeharbor/.
-
-## COOKIE POLICY
-
-### Cookies
-
-Our site uses “cookies” (small data files stored on your computer) and other similar technologies to collect information about your visit to our site. The information that is captured about your visit may be used in a variety of ways, such as to monitor and maintain information about your visits to our site, to help us identify and address problems, to improve our site, to analyze web traffic trends, and to help protect the security and integrity of our site.
-
-For further details on cookies please visit www.allaboutcookies.org where you can find comprehensive information on cookie restriction and blocking for a wide variety of browsers.
-
-#### How we use Cookies
-
-We use both first party and third party cookies. That is, both we and third party companies set cookies through this site. 
-
-We use “analytical” cookies which, in conjunction with our web server’s log files, allow us to calculate the aggregate number of people visiting our site and which parts of the site are most popular. This helps us gather feedback so that we can improve the site and better serve our users.
-
-We use “session” cookies which enable you to carry information across pages of the site and avoid having to re-enter information. Session cookies enable us to compile statistics that help us to understand how the site is being used and to improve its structure.
-
-We use “persistent” cookies which are cookies that remain in the cookies file of your browser for longer and help us to recognize you as a unique visitor to the site, tailoring the content of certain areas of the site to offer you content that match your preferred interests.
-
-We may also use pixel tags (also known as “clear gifs,” “Web beacons” or “1-by-1gifs”) on our site. These may be used in connection with certain pages of our site or with email messages to measure the effectiveness of our communications and our marketing campaigns, to compile statistics about usage and response rates, and to assist us in resolving issues that may arise on our site.
-
-By using the Website, you consent to our use of cookies as described above.
-
-#### Refusing Cookies
-
-You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies, you may not use our site. 
-
-## PRIVACY POLICY
-
-Version: Canada  
-Effective Date: 09/22/2014 
-
-This privacy policy describes how eXperticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com (“site”).
-
-By using any portion of our site, registering for our services, or by choosing to submit personal information to eXperticity through the site, you agree to the terms of this Privacy Policy (“Policy”). If you do not agree with any terms of this Policy, please do not use this site or submit any personal information to eXperticity.
-
-### WHAT INFORMATION WE COLLECT
-
-#### All Users
-
-When you visit our site, we collect personal information about you (including, name, address, telephone number, email address, username, password, IP address) (“Personally Identifying Information”) when you fill out forms, communicate with us through our site, or create an online profile.
-
-We also collect certain information about your use of our site such as information about your computer, including the type of browser you are using and your computer’s operating system. Except as otherwise explained in this Policy or as may be prohibited by law, we may combine this information with your personal information.
-
-###  Online Profile
-
-When you create an online profile, you may choose to provide optional information such as your employer, training modules completed, purchases you make, photographs, points earned, etc. Any information you provide on your profile is subject to this Policy. Information you choose to upload or publish to a public are of your profile will appear on the site, and may be viewed by other members. If you choose to include Personally Identifying Information in a public area of the site, you consent to the public disclosure of the Personally Identifying Information you choose to post. If you do not wish to publish your Personally Identifying Information in this manner, please do not include it in material you post to a public area of the site. We provide you ways to control the sharing of your profile, generally, and data within your profile at the following link: [www.3point5.com/action/user/account](http://www.3point5.com/action/user/account).
-
-### Cookies and Other Tracking Technology
-
-Our site also uses “cookies” (small data files stored on your computer) and other tracking technologies to collect information about your visit to our site. The cookies and tracking technologies we use do not capture Personally Identifying Information. The information that is captured about your visit may be used in a variety of ways, such as to monitor and maintain information about your visits to our site, to help us identify and address problems, to improve our site, to analyze web traffic trends, and to help protect the security and integrity of our site. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies, you may still use our site, but your experience may be degraded.
-
-We may also use pixel tags (also known as “clear gifs,” “Web beacons,” or “1-by-1gifs”) on our site. These may be used in connection with certain pages of our site or with email messages to measure the effectiveness of our communications and our marketing campaigns, to compile statistics about usage and response rates, and to assist us in resolving issues that may arise on our site.
-
-### HOW WE USE COLLECTED PERSONALLY IDENTIFYING INFORMATION
-
-We may use the Personally Identifying Information we collect for the following purposes:
-
-  * to respond to your inquiries and fulfill your requests;
-  * to send you important information regarding our site, changes to our terms, conditions, and policies, and/or other administrative information;
-  * to send you marketing communications that we believe may be of interest to you if you have agreed to receive such messages;
-  * to personalize your experience on our site by presenting content tailored to you;
-  * to allow you to take and keep track of training;
-  * for our business purposes, such as data analysis, audits, developing new products, enhancing our site, improving our services, identifying usage trends, and determining the effectiveness of our promotional campaigns;
-  * to use information about your activities on the site to communicate your training progress to your employers and in some cases to offer you retail discounts;
-  * for other purposes which are disclosed to you and to which you consent.
-
-
-
-We may also use information that we receive about you from your employer and data providers who assist us in processing requests, maintaining our data and optimizing our services.
-
-### SHARING YOUR INFORMATION
-
-We will not disclose your Personally Identifying Information to third parties except as described in this Policy, to the extent necessary to provide you with a requested service, or under circumstances required by law. You agree that we may also disclose this information to third parties: (1) when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of our site, or anyone else who could be harmed by such activities; and (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, such as to comply with a subpoena or similar legal process.
-
-We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out these purposes. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative, technical support, or other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to a such a third party service provider, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Policy, and to provide adequate protection for the Personally Identifying Information.
-
-We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent. 
-
-### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
-
-#### Correcting or Changing Your Information
-
-We are concerned about the accuracy, currency, and completeness of the information we collect and take appropriate steps to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this policy, if you wish to review, amend, correct, update, delete Personally Identifying Information we have collected about you online, or to opt-out of receiving our marketing communications, contact us at: +1-866-376-4685 or http://www.3point5.com/action/feedback. You may also contact us by writing to:
-
-Ron Martinez  
-eXperticity  
-9 Exchange Plaza, suite 1000  
-Salt Lake City, Utah 84111  
-
-
-We will respond to your access request within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated. In such cases, we will provide you with a reasonable explanation of why it is not possible to grant access to your information.
-
-You may cancel your registration to our site and/or request the removal of your Personally Identifying Information from our visitor records by sending an email at http://www.3point5.com/feedback. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for any purpose, commercial or otherwise. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the site blocked, as well as for legal or contractual reasons.
-
-### SECURITY
-
-We use a variety of technologies and processes to protect Personally Identifying Information collected on this site, including physical, technological, and organizational security measures. For example, we use encryption technology whenever transmitting personal information. Unfortunately, no security technology is completely secure, and you should remember that email is not a secure means of communication. We retain Personally Identifying Information that we collect only as long as reasonably necessary to fulfill the purposes for which it was collected or to meet any legal requirements.
-
-Personally Identifying Information may only be accessed by persons within our organization, or our third party service providers, who require such access to provide you with the services indicated above. Personally Identifying Information we collect is maintained with the source of the information at Salt Lake City, Utah.
-
-Some or all of the Personally Identifying Information we collect may be stored or processed on servers located outside of your jurisdiction of residence, including in the United States, whose data protection laws may differ from those where you live. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to laws in those jurisdictions. Subject to applicable laws in such other jurisdictions, we will use reasonable efforts to ensure that appropriate protections are in place to maintain protections on the Personally Identifying Information that are equivalent to those in Canada.
-
-### LINKS TO OTHER WEBSITES
-
-Our site may contain links to websites owned by third parties. Information you share with a third party site is not subject to this privacy policy. Please review the privacy policy of any site you access through our site.
-
-### CHILDREN’S PRIVACY
-
-Our sites are not intended for use by children. We do not knowingly collect personal information from children under the age of 13. Children under the age of majority in their jurisdiction of residence are prohibited from creating an online profile.
-
-### POLICY CHANGES
-
-If our privacy policy changes, we will post these changes to our website with the date of revision. We encourage you to review our privacy policy periodically. Your continued access to and/or use of the site after any such changes constitutes your acceptance of, and agreement to be legally bound by, this Policy, as revised. If our privacy practices, including the ways we use your Personally Identifying Information, materially change from the time you created an online profile, we will notify you about such changes before they take effect and allow you to delete your information as described above, should you disagree with such changes.
-
-### HOW TO CONTACT US
-
-If you have any questions regarding this Policy, any Personally Identifying Information you have submitted to us, or if you would like to:
-
-  * access Personally Identifying Information that you have already provided to us so that you can correct or update it, or request that it be deleted;
-  * request the deletion of Personally Identifying Information regarding your minor child; or
-  * report any violation of this Policy;
-
-
-
-Please advise us by contacting our Privacy Officer, Ron Martinez by writing to 9 Exchange Plaza, Salt Lake City, Utah 84111.
-
-### SAFE HARBOR
-
-eXperticity complies with the U.S. – E.U. Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. eXperticity has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view eXperticity’s certification, please visit <http://www.export.gov/safeharbor/>.
-
-## PRIVACY POLICY
-
-Version: Australia  
-Effective Date: 09/22/2014 
-
-This privacy policy describes how eXperticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com (“site”).
-
-By using our site, registering for our services, or by choosing to submit personal information to eXperticity through the site, you agree to the terms of this Privacy Policy (“Policy”).
-
-### WHAT INFORMATION WE COLLECT
-
-#### All Users
-
-When you visit our site, we collect personal information about you (including, name, address, telephone number, email address, username, password) (“Personally Identifying Information”) when you fill out forms, communicate with us through our site, or create an online profile.
-
-We also collect certain information about your use of our site such as information about your computer, including your IP address, the type of browser you are using, and your computer’s operating system. Except as otherwise explained in this Policy or as may be prohibited by law, we may combine this information with your personal information.
-
-### Online Profile
-
-When you create an online profile, you may choose to provide optional information such as your employer, training modules completed, purchases you make, photographs, points earned, etc. Any information you provide on your profile is subject to this Policy. Information you choose to upload or publish to a public are of your profile will appear on the site, and may be viewed by other members. If you choose to include Personally Identifying Information in a public area of the site, you consent to the public disclosure of the Personally Identifying Information you choose to post. If you do not wish to publish your Personally Identifying Information in this manner, please do not include it in material you post to a public area of the site. We provide you ways to control the sharing of your profile, generally, and data within your profile at the following link: [www.3point5.com/action/user/account](http://www.3point5.com/action/user/account).
-
-### Cookies and Other Tracking Technology
-
-Our site also uses “cookies” (small data files stored on your computer) and other tracking technologies to collect information about your visit to our site. The cookies and tracking technologies we use do not capture Personally Identifying Information. The information that is captured about your visit may be used in a variety of ways, such as to monitor and maintain information about your visits to our site, to help us identify and address problems, to improve our site, to analyze web traffic trends, and to help protect the security and integrity of our site. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies, you may still use our site, but your experience may be degraded.
-
-We may also use pixel tags (also known as “clear gifs,” “Web beacons,” or “1-by-1gifs”) on our site. These may be used in connection with certain pages of our site or with email messages to measure the effectiveness of our communications and our marketing campaigns, to compile statistics about usage and response rates, and to assist us in resolving issues that may arise on our site.
-
-### HOW WE USE COLLECTED PERSONALLY IDENTIFYING INFORMATION
-
-We may use the Personally Identifying Information we collect for the following purposes:
-
-  * to respond to your inquiries and fulfill your requests;.
-  * to send you important information regarding our site, changes to our terms, conditions, and policies, and/or other administrative information;.
-  * to send you marketing communications that we believe may be of interest to you, which you may opt-out of at any time;.
-  * to personalize your experience on our site by presenting content tailored to you;.
-  * to allow you to take and keep track of training;.
-  * for our business purposes, such as data analysis, audits, developing new products, enhancing our site, improving our services, identifying usage trends, and determining the effectiveness of our promotional campaigns;.
-  * for risk control, to comply with laws and regulations, and to comply with other legal process and law enforcement requirements;.
-  * to use information about your activities on the site to communicate your progress to your employers and in some cases to offer you retail discounts;.
-  * for other purposes which are disclosed to you and to which you consent.
-
-
-
-We may also use information that we receive about you from your employer and data providers who assist us in processing requests, maintaining our data and optimizing our services.
-
-### SHARING YOUR INFORMATION
-
-We will not disclose your Personally Identifying Information to third parties except as described in this Policy, to the extent necessary to provide you with a requested service, or under circumstances required by law. You agree that we may also disclose this information to third parties: (1) when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of our site, or anyone else who could be harmed by such activities; (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, such as to comply with a subpoena or similar legal process.
-
-We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out the uses discussed in this Privacy Policy. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative or technical support, for other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to third party processor, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Privacy Policy, and to provide adequate protection for the Personally Identifying Information.
-
-We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent. 
-
-### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
-
-#### Correcting or Changing Your Information or Making a Complaint
-
-We are concerned about the accuracy, currency, and completeness of the information we collect and take appropriate steps to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this policy, if you wish to review, amend, correct, update, delete Personally Identifying Information we have collected about you online, opt-out of receiving our marketing communications, or if you have a complaint about our privacy practices, contact us at: +1-866-376-4685 or <http://www.3point5.com/action/feedback>. You may also contact us by writing to:
-
-[Ron Martinez]  
-eXperticity  
-9 Exchange Plaza, Suite 1000  
-Salt Lake City , Utah 84111  
-
-
-We will respond to your access request within any legally required time period or within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
-
-You may cancel your registration to our site and/or request the removal of your Personally Identifying Information from our visitor records by sending an email at http://www.3point5.com/feedback. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for any purpose, commercial or otherwise. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the site blocked.
-
-### SECURITY
-
-We use a variety of technologies and processes to protect Personally Identifying Information collected on this site, including physical, technological, and organizational security measures. For example, we use encryption technology whenever transmitting personal information. Unfortunately, no security technology is completely secure, and you should remember that email is not a secure means of communication. We retain Personally Identifying Information that we collect only as long as reasonably necessary to fulfill the purposes for which it was collected or to meet any legal requirements.
-
-Some or all of the Personally Identifying Information we collect may be stored or processed on servers located outside of Australia, including in the United States, whose data protection laws may differ from those where you live. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to laws in those jurisdictions. Subject to applicable laws in such other jurisdictions, we will use reasonable efforts to ensure that appropriate protections are in place to maintain protections on the Personally Identifying Information that are equivalent to those in Australia.
-
-### LINKS TO OTHER WEBSITES
-
-Our site may contain links to websites owned by third parties. Information you share with a third party site is not subject to this privacy policy. Please review the privacy policy of any site you access through our site.
-
-### CHILDREN’S PRIVACY
-
-Our sites are not intended for use by children. We do not knowingly collect personal information from children under the age of 13. Children under the age of 18 are prohibited from creating an online profile.
-
-### POLICY CHANGES
-
-If our privacy policy changes, we will post these changes to our website with the date of revision. We encourage you to review our privacy policy periodically. Your continued access to and/or use of the site after any such changes constitutes your acceptance of, and agreement to be legally bound by, this Privacy Policy, as revised. If our privacy practices, including the ways we use your Personally Identifying Information, materially change from the time you created an online profile, we will notify you about such changes before they take effect and allow you to delete your information as described above, should you disagree with such changes.
-
-### SAFE HARBOR
-
-eXperticity complies with the U.S. – E.U. Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. eXperticity has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view eXperticity’s certification, please visit <http://www.export.gov/safeharbor/>.
-
-## PRIVACY POLICY
-
-Version: South Korea   
-Effective Date: 09/22/2014 
-
-This privacy policy describes how eXperticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com (“site”).
-
-By using any portion of our site, registering for our services, or by choosing to submit personal information to eXperticity through the site, you agree to the terms of this Privacy Policy (“Policy”). You are not required to provide any personal information, but if you choose not to, you may not be able to access certain information or areas of the site. If you do not agree with any terms of this Policy, please do not use this Site or submit any personal information to eXperticity.
-
-### WHAT INFORMATION WE COLLECT
-
-#### All Users
-
-When you visit our site, we collect personal information about you (including, name, address, telephone number, email address, username, password, country of residence, IP address) (“Personally Identifying Information”) when you fill out forms, communicate with us through our site, or create an online profile.
-
-We also collect certain information about your use of our site such as information about your computer, including the type of browser you are using, and your computer’s operating system. Except as otherwise explained in this Policy or as may be prohibited by law, we may combine this information with your personal information.
-
-#### Online Profile
-
-When you create an online profile, you may choose to provide optional information such as your employer, training modules completed, purchases you make, photographs, points earned, etc. Any information you provide on your profile is subject to this Policy. Information you choose to upload or publish to a public are of your profile will appear on the site, and may be viewed by other members. If you choose to include Personally Identifying Information in a public area of the site, you consent to the public disclosure of the Personally Identifying Information you choose to post. If you do not wish to publish your Personally Identifying Information in this manner, please do not include it in material you post to a public area of the site. We provide you ways to control the sharing of your profile, generally, and data within your profile at the following link: [www.3point5.com/action/user/account](http://www.3point5.com/action/user/account).
+When you create an online profile, you may choose to provide optional information such as your employer, training modules completed, purchases you make, photographs, points earned, etc. Any information you provide on your profile is subject to this Policy. Information you choose to upload or publish to a public area of your profile will appear on the sites, and may be viewed by other members. If you choose to include Personally Identifying Information in a public area of the sites, you consent to the public disclosure of the Personally Identifying Information you choose to post. If you do not wish to publish your Personally Identifying Information in this manner, please do not include it in material you post to a public area of the sites. We provide you ways to control the sharing of your profile, generally, and data within your profile at the following link: [www.3point5.com/action/user/account](https://www.3point5.com/action/user/account).
 
 #### Cookies and Other Tracking Technology
 
-Our site also uses “cookies” (small data files stored on your computer) and other tracking technologies to collect information about your visit to our site. The cookies and tracking technologies we use do not capture Personally Identifying Information. The information that is captured about your visit may be used in a variety of ways, such as to monitor and maintain information about your visits to our site, to help us identify and address problems, to improve our site, to analyze web traffic trends, and to help protect the security and integrity of our site. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies, you may still use our site, but your experience may be degraded.
-
-We may also use pixel tags (also known as “clear gifs,” “Web beacons,” or “1-by-1gifs”) on our site. These may be used in connection with certain pages of our site or with email messages to measure the effectiveness of our communications and our marketing campaigns, to compile statistics about usage and response rates, and to assist us in resolving issues that may arise on our site.
-
-### HOW WE USE COLLECTED PERSONALLY IDENTIFYING INFORMATION
-
-We may use the Personally Identifying Information we collect for the following purposes:
-
-  * to respond to your inquiries and fulfill your requests;
-  * to send you important information regarding our site, changes to our terms, conditions, and policies, and/or other administrative information;
-  * to send you marketing communications that we believe may be of interest to you, which you may opt-out of at any time;
-  * to personalize your experience on our site by presenting content tailored to you;
-  * to allow you to take and keep track of training;
-  * for our business purposes, such as data analysis, audits, developing new products, enhancing our site, improving our services, identifying usage trends, and determining the effectiveness of our promotional campaigns;
-  * for risk control, to comply with laws and regulations, and to comply with other legal process and law enforcement requirements;
-  * to use information about your activities on the site to communicate your training progress to your employers and in some cases to offer you retail discounts;
-  * for other purposes which are disclosed to you and to which you consent.
-
-
-
-We may also use information that we receive about you from your employer and data providers who assist us in processing requests, maintaining our data and optimizing our services.
-
-### SHARING YOUR INFORMATION
-
-We will not disclose your Personally Identifying Information to third parties except as described in this Policy, to the extent necessary to provide you with a requested service, or under circumstances required by law. You agree that we may also disclose this information to third parties: (1) when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of our site, or anyone else who could be harmed by such activities; (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, such as to comply with a subpoena or similar legal process.
-
-We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out the uses discussed in this Policy. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative or technical support, for other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to a such a third party service provider, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Privacy Policy, and to provide adequate protection for the Personally Identifying Information.
-
-In the event that we merge with or are acquired by a third party, we may transfer Personally Identifying Information to the acquiring party. In the event of such a transfer, we will provide you with notice and the contact information of the acquiring party. We may disclose your Personally Identifying Information for any other purpose with your consent. 
-
-### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
-
-#### Correcting or Changing Your Information
-
-We are concerned about the accuracy, currency, and completeness of the information we collect and take appropriate steps to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this policy, if you wish to review, amend, correct, update, or delete Personally Identifying Information we have collected about you online, or to opt-out of receiving our marketing communications, contact us at: +1-866-376-4685 or <http://www.3point5.com/action/feedback>. You may also contact us by writing to:
-
-Ron Martinez  
-eXperticity  
-9 Exchange Plaza, Suite 1000  
-Salt Lake City, Utah 84111  
-
-
-We will respond to your access request within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated. In such cases, we will provide you with a reasonable explanation of why it is not possible to grant access to your information.
-
-You may cancel your registration to our site and/or request the removal of your Personally Identifying Information from our visitor records by sending an email at http://www.3point5.com/feedback. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for any purpose, commercial or otherwise. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the site blocked, as well as for legal or contractual reasons.
-
-### SECURITY
-
-We use a variety of technologies and processes to protect Personally Identifying Information collected on this site, including physical, technological, and organizational security measures. For example, we use encryption technology whenever transmitting personal information. Unfortunately, no security technology is completely secure, and you should remember that email is not a secure means of communication. We retain Personally Identifying Information that we collect only as long as reasonably necessary to fulfill the purposes for which it was collected or to meet any legal requirements. We take reasonable measures to permanently delete Personally Identifying Information once it has fulfilled the purposes it was collected for or upon your request.
-
-Some or all of the Personally Identifying Information we collect may be stored or processed on servers located outside of your jurisdiction of residence, including in the United States, whose data protection laws may differ from those where you live. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to laws in those jurisdictions. Subject to applicable laws in such other jurisdictions, we will use reasonable efforts to ensure that appropriate protections are in place to maintain protections on the Personally Identifying Information that are equivalent to those in Korea.
-
-### LINKS TO OTHER WEBSITES
-
-Our site may contain links to websites owned by third parties. Information you share with a third party site is not subject to this privacy policy. Please review the privacy policy of any site you access through our site.
-
-### CHILDREN’S PRIVACY
-
-Our sites are not intended for use by children. We do not knowingly collect personal information from children under the age of 13. Children under the age of majority in their jurisdiction of residence are prohibited from creating an online profile.
-
-### POLICY CHANGES
-
-If our privacy policy changes, we will post these changes to our website with the date of revision. We encourage you to review our privacy policy periodically. Your continued access to and/or use of the site after any such changes constitutes your acceptance of, and agreement to be legally bound by, this Policy, as revised. If our privacy practices, including the ways we use your Personally Identifying Information, materially change from the time you created an online profile, we will notify you about such changes before they take effect and allow you to delete your information as described above, should you disagree with such changes.
-
-### SAFE HARBOR
-
-eXperticity complies with the U.S. – E.U. Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. eXperticity has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view eXperticity’s certification, please visit <http://www.export.gov/safeharbor/>.
-
-## PRIVACY POLICY
-
-Version: Hong Kong  
-Effective Date: 09/22/2014
-
-This privacy policy describes how eXperticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com (“site”).
-
-By using our site, registering for our services, or by choosing to submit personal information to eXperticity through the site, you agree to the terms of this Privacy Policy (“Policy”). You are not required to provide any personal information, but if you choose not to, you may not be able to access certain information or areas of the site. If you do not agree with any terms of this Policy, please do not use this Site or submit any personal information to eXperticity.
-
-### WHAT INFORMATION WE COLLECT
-
-#### All Users
-
-When you visit our site, we collect personal information about you (including, name, address, telephone number, email address, username, password) (“Personally Identifying Information”) when you fill out forms, communicate with us through our site, or create an online profile.
-
-We also collect certain information about your use of our site such as information about your computer, including your IP address, the type of browser you are using, and your computer’s operating system. Except as otherwise explained in this Policy or as may be prohibited by law, we may combine this information with your personal information.
-
-#### Online Profile
-
-When you create an online profile, you may choose to provide optional information such as your employer, training modules completed, purchases you make, photographs, points earned, etc. Any information you provide on your profile is subject to this Policy. Information you choose to upload or publish to a public are of your profile will appear on the site, and may be viewed by other members. If you choose to include Personally Identifying Information in a public area of the site, you consent to the public disclosure of the Personally Identifying Information you choose to post. If you do not wish to publish your Personally Identifying Information in this manner, please do not include it in material you post to a public area of the site. We provide you ways to control the sharing of your profile, generally, and data within your profile at the following link: [www.3point5.com/action/user/account](http://www.3point5.com/action/user/account).
-
-#### Cookies and Other Tracking Technology
-
-Our site also uses “cookies” (small data files stored on your computer) and other tracking technologies to collect information about your visit to our site. The cookies and tracking technologies we use do not capture Personally Identifying Information. The information that is captured about your visit may be used in a variety of ways, such as to monitor and maintain information about your visits to our site, to help us identify and address problems, to improve our site, to analyze web traffic trends, and to help protect the security and integrity of our site. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies, you may still use our site, but your experience may be degraded.
-
-We may also use pixel tags (also known as “clear gifs,” “Web beacons,” or “1-by-1gifs”) on our site. These may be used in connection with certain pages of our site or with email messages to measure the effectiveness of our communications and our marketing campaigns, to compile statistics about usage and response rates, and to assist us in resolving issues that may arise on our site.
+Our sites also uses “cookies” (small data files stored on your computer) and other tracking technologies to collect information about your visit to our sites. The cookies and tracking technologies we use do not capture Personally Identifying Information. The information that is captured about your visit may be used in a variety of ways, such as to monitor and maintain information about your visits to our sites, to help us identify and address problems, to improve our sites, to analyze web traffic trends, and to help protect the security and integrity of our sites. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies, you may still use our sites, but your experience may be degraded.  We may also use pixel tags (also known as “clear gifs,” “Web beacons,” or “1-by-1gifs”) on our sites. These may be used in connection with certain pages of our sites or with email messages to measure the effectiveness of our communications and our marketing campaigns, to compile statistics about usage and response rates, and to assist us in resolving issues that may arise on our site.
 
 ### HOW WE USE COLLECTED PERSONALLY IDENTIFYING INFORMATION
 
@@ -563,45 +159,40 @@ We may use the Personally Identifying Information we collect for the following p
 
 
 
-We may also use information that we receive about you from your employer and data providers who assist us in processing requests, maintaining our data and optimizing our services.
+We may also use information that we receive about you from your employer and data providers who assist us in processing requests, maintaining our data, and optimizing our services.
 
-#### Direct Marketing
+### SHARING YOUR INFORMATION
 
-We may use Personally Identifying Information you provide us, such as your name and email address, to send you marketing communications. These communications include [emails, etc.] about training programs we provide or discount offers on our partners’ products for trainings you complete on the site. When you register with the site, we provide you the opportunity to opt-out of receiving these communications. You may change your preferences for how we communicate with you or opt-out of receiving these communications at any time by [updating your profile at [www.3point5.com/action/user/account](http://www.3point5.com/action/user/account), or by] contacting us as discussed below.
-
-#### SHARING YOUR INFORMATION
-
-We will not disclose your Personally Identifying Information to third parties except as described in this Policy, to the extent necessary to provide you with a requested service, or under circumstances required by law. You agree that we may also disclose this information to third parties: (1) when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of our site, or anyone else who could be harmed by such activities; and (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, such as to comply with a subpoena or similar legal process.
+We will not disclose your Personally Identifying Information to third parties except as described in this Policy, to the extent necessary to provide you with a requested service, or under circumstances required by law. You agree that we may also disclose this information to third parties: (1) when we have reason to believe that such disclosure is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of our sites, or anyone else who could be harmed by such activities; or (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, such as to comply with a subpoena or similar legal process.
 
 We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out these purposes. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative, technical support, or other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to a such a third party service provider, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Policy, and to provide adequate protection for the Personally Identifying Information.
 
-We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent. 
+We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent.
 
 ### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
 
 #### Correcting or Changing Your Information
 
-We are concerned about the accuracy, currency, and completeness of the Personally Identifying Information we collect and take appropriate steps to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this policy, if you wish to review, amend, correct, update, delete Personally Identifying Information we have collected about you online, or to opt out of receiving our marketing communications, contact us at: +1-866-376-4685 or <http://www.3point5.com/action/feedback>. You may also contact us by writing to:
+We are concerned about the accuracy, currency, and completeness of the Personally Identifying Information we collect and take appropriate steps to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this Policy, if you wish to review, amend, correct, update, or delete Personally Identifying Information we have collected about you online, or to opt out of receiving our marketing communications, contact us at: +1-866-376-4685 or http://www.3point5.com/action/feedback. You may also contact us by writing to:
 
 Ron Martinez  
-eXperticity  
+Experticity  
 9 Exchange Plaza, Suite 1000  
-Salt Lake City, Utah 84111  
-
+Salt Lake City, Utah 84111
 
 We will respond to your access request within any legally required time period or within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
 
-You may cancel your registration to our site and/or request the removal of your Personally Identifying Information from our visitor records by sending an email at http://www.3point5.com/feedback. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for any purpose, commercial or otherwise. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the site blocked.
+You may cancel your registration to our sites and/or request the removal of your Personally Identifying Information from our visitor records by sending an email at http://www.3point5.com/feedback. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for any purpose, commercial or otherwise. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the site blocked.
 
 ### SECURITY
 
-We use a variety of technologies and processes to protect Personally Identifying Information collected on this site, including physical, technological, and organizational security measures. For example, we use encryption technology whenever transmitting personal information. Unfortunately, no security technology is completely secure, and you should remember that email is not a secure means of communication. We retain Personally Identifying Information that we collect only as long as reasonably necessary to fulfill the purposes for which it was collected or to meet any legal requirements.
+We use a variety of technologies and processes to protect Personally Identifying Information collected on the sites, including physical, technological, and organizational security measures. For example, we use encryption technology whenever transmitting personal information. Unfortunately, no security technology is completely secure, and you should remember that email is not a secure means of communication. We retain Personally Identifying Information that we collect only as long as reasonably necessary to fulfill the purposes for which it was collected or to meet any legal requirements.
 
-Some or all of the Personally Identifying Information we collect may be stored or processed on servers located outside of Hong Kong, including in the United States, whose data protection laws may differ from those where you live. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to laws in those jurisdictions. Subject to applicable laws in such other jurisdictions, we will use reasonable efforts to ensure that appropriate protections are in place to maintain protections on the Personally Identifying Information that are equivalent to those in Hong Kong.
+Some or all of the Personally Identifying Information we collect may be stored or processed on servers located outside of your country, including in the United States, whose data protection laws may differ from those where you live. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to laws in those jurisdictions. Subject to applicable laws in such other jurisdictions, we will use reasonable efforts to ensure that appropriate protections are in place to maintain protections on the Personally Identifying Information that are equivalent to those in your country.
 
 ### LINKS TO OTHER WEBSITES
 
-Our site may contain links to websites owned by third parties. Information you share with a third party site is not subject to this privacy policy. Please review the privacy policy of any site you access through our site.
+Our sites may contain links to websites owned by third parties. Information you share with a third party site is not subject to this Policy. Please review the privacy policy of any sites you access through our sites.
 
 ### CHILDREN’S PRIVACY
 
@@ -609,16 +200,400 @@ Our sites are not intended for use by children. We do not knowingly collect pers
 
 ### POLICY CHANGES
 
-If our privacy policy changes, we will post these changes to our website with the date of revision. We encourage you to review our privacy policy periodically. If our privacy practices, including the ways we use your Personally Identifying Information, materially change from the time you created an online profile, we will notify you about such changes before they take effect and allow you to delete your information as described above, should you disagree with such changes.
+If our Policy changes, we will post these changes to our sites with the date of revision. We encourage you to review our Policy periodically.  Your continued access to and/or use of the sites after any such changes constitutes your acceptance of, and agreement to be legally bound by, this Policy, as revised. If our privacy practices, including the ways we use your Personally Identifying Information, materially change from the time you created an online profile, we will notify you about such changes before they take effect and allow you to delete your information as described above, should you disagree with such changes.
 
-### SAFE HARBOR
+## Safe Harbor Privacy Policy
 
-eXperticity complies with the U.S. – E.U. Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. eXperticity has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view eXperticity’s certification, please visit <http://www.export.gov/safeharbor/>.
+Experticity, Inc. (“Experticity”), as part of this Policy, complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Experticity has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Experticity’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the U.S.-E.U. Safe Harbor Principles and U.S.-Swiss Safe Harbor Principles, Experticity commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Experticity Member Services at: 866-376-4685 or [http://www.3point5.com/action/feedback](https://www.3point5.com/action/feedback).
+
+Experticity has further committed to refer unresolved privacy complaints under the U.S.-E.U. Safe Harbor Principles and the U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Experticity, please visit the BBB E.U. SAFE HARBOR website at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+
+## PRIVACY POLICY
+
+Version: Canada
+
+Effective Date: 10/07/2015
+
+This privacy policy describes how Experticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com, ProMotive.com or Experticity.com (collectively, “sites”).
+
+By using our sites, registering for our services, or by choosing to submit personal information to Experticity through the sites, you agree to the terms of this Privacy Policy (“Policy”). You are not required to provide any personal information, but if you choose not to, you may not be able to access certain information or areas of the sites. If you do not agree with any terms of this Policy, please do not use this Site or submit any personal information to Experticity.
+
+To the extent identification is required by local law, the data controller is Experticity, Inc.
+
+### WHAT INFORMATION WE COLLECT
+
+#### All Users
+
+When you visit our sites, we collect personal information about you (including name, address, telephone number, email address, username, and password) (“Personally Identifying Information”) when you fill out forms, communicate with us through our sites, or create an online profile. We may collect personal information that you make publicly available, such as if you make a comment on another user’s content.
+
+We may also collect certain information about your use of our sites such as information about your computer, including your IP address, the type of browser you are using, and your computer’s operating system. Except as otherwise explained in this Policy or as may be prohibited by law, we may combine this information with your personal information.
+
+#### Online Profile
+
+When you create an online profile, you may choose to provide optional information such as your employer, training modules completed, purchases you make, photographs, points earned, etc. Any information you provide on your profile is subject to this Policy. Information you choose to upload or publish to a public area of your profile will appear on the sites, and may be viewed by other members. If you choose to include Personally Identifying Information in a public area of the sites, you consent to the public disclosure of the Personally Identifying Information you choose to post. If you do not wish to publish your Personally Identifying Information in this manner, please do not include it in material you post to a public area of the sites. We provide you ways to control the sharing of your profile, generally, and data within your profile at the following link: [www.3point5.com/action/user/account](https://www.3point5.com/action/user/account).
+
+#### Cookies and Other Tracking Technology
+
+Our sites also uses “cookies” (small data files stored on your computer) and other tracking technologies to collect information about your visit to our sites. The cookies and tracking technologies we use do not capture Personally Identifying Information. The information that is captured about your visit may be used in a variety of ways, such as to monitor and maintain information about your visits to our sites, to help us identify and address problems, to improve our sites, to analyze web traffic trends, and to help protect the security and integrity of our sites. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies, you may still use our sites, but your experience may be degraded.  We may also use pixel tags (also known as “clear gifs,” “Web beacons,” or “1-by-1gifs”) on our sites. These may be used in connection with certain pages of our sites or with email messages to measure the effectiveness of our communications and our marketing campaigns, to compile statistics about usage and response rates, and to assist us in resolving issues that may arise on our site.
+
+### HOW WE USE COLLECTED PERSONALLY IDENTIFYING INFORMATION
+
+We may use the Personally Identifying Information we collect for the following purposes:
+
+  * to respond to your inquiries and fulfill your requests;
+  * to send you important information regarding our site, changes to our terms, conditions, and policies, and/or other administrative information;
+  * to send you marketing communications that we believe may be of interest to you, which you may opt-out of at any time;
+  * to personalize your experience on our site by presenting content tailored to you;
+  * to allow you to take and keep track of training;
+  * for our business purposes, such as data analysis, audits, developing new products, enhancing our site, improving our services, identifying usage trends, and determining the effectiveness of our promotional campaigns;
+  * for risk control, to comply with laws and regulations, and to comply with other legal process and law enforcement requirements;
+  * to use information about your activities on the site to communicate your progress to your employers and in some cases to offer you retail discounts;
+  * for other purposes which are disclosed to you and to which you consent.
+
+
+
+We may also use information that we receive about you from your employer and data providers who assist us in processing requests, maintaining our data, and optimizing our services.
+
+### SHARING YOUR INFORMATION
+
+We will not disclose your Personally Identifying Information to third parties except as described in this Policy, to the extent necessary to provide you with a requested service, or under circumstances required by law. You agree that we may also disclose this information to third parties: (1) when we have reason to believe that such disclosure is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of our sites, or anyone else who could be harmed by such activities; or (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, such as to comply with a subpoena or similar legal process.
+
+We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out these purposes. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative, technical support, or other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to a such a third party service provider, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Policy, and to provide adequate protection for the Personally Identifying Information.
+
+We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent.
+
+### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
+
+#### Correcting or Changing Your Information
+
+We are concerned about the accuracy, currency, and completeness of the Personally Identifying Information we collect and take appropriate steps to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this Policy, if you wish to review, amend, correct, update, or delete Personally Identifying Information we have collected about you online, or to opt out of receiving our marketing communications, contact us at: +1-866-376-4685 or http://www.3point5.com/action/feedback. You may also contact us by writing to:
+
+Ron Martinez  
+Experticity  
+9 Exchange Plaza, Suite 1000  
+Salt Lake City, Utah 84111
+
+We will respond to your access request within any legally required time period or within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
+
+You may cancel your registration to our sites and/or request the removal of your Personally Identifying Information from our visitor records by sending an email at http://www.3point5.com/feedback. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for any purpose, commercial or otherwise. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the site blocked.
+
+### SECURITY
+
+We use a variety of technologies and processes to protect Personally Identifying Information collected on the sites, including physical, technological, and organizational security measures. For example, we use encryption technology whenever transmitting personal information. Unfortunately, no security technology is completely secure, and you should remember that email is not a secure means of communication. We retain Personally Identifying Information that we collect only as long as reasonably necessary to fulfill the purposes for which it was collected or to meet any legal requirements.
+
+Some or all of the Personally Identifying Information we collect may be stored or processed on servers located outside of your country, including in the United States, whose data protection laws may differ from those where you live. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to laws in those jurisdictions. Subject to applicable laws in such other jurisdictions, we will use reasonable efforts to ensure that appropriate protections are in place to maintain protections on the Personally Identifying Information that are equivalent to those in your country.
+
+### LINKS TO OTHER WEBSITES
+
+Our sites may contain links to websites owned by third parties. Information you share with a third party site is not subject to this Policy. Please review the privacy policy of any sites you access through our sites.
+
+### CHILDREN’S PRIVACY
+
+Our sites are not intended for use by children. We do not knowingly collect personal information from children under the age of 13. Children under the age of 18 are prohibited from creating an online profile.
+
+### POLICY CHANGES
+
+If our Policy changes, we will post these changes to our sites with the date of revision. We encourage you to review our Policy periodically.  Your continued access to and/or use of the sites after any such changes constitutes your acceptance of, and agreement to be legally bound by, this Policy, as revised. If our privacy practices, including the ways we use your Personally Identifying Information, materially change from the time you created an online profile, we will notify you about such changes before they take effect and allow you to delete your information as described above, should you disagree with such changes.
+
+## Safe Harbor Privacy Policy
+
+Experticity, Inc. (“Experticity”), as part of this Policy, complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Experticity has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Experticity’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the U.S.-E.U. Safe Harbor Principles and U.S.-Swiss Safe Harbor Principles, Experticity commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Experticity Member Services at: 866-376-4685 or [http://www.3point5.com/action/feedback](https://www.3point5.com/action/feedback).
+
+Experticity has further committed to refer unresolved privacy complaints under the U.S.-E.U. Safe Harbor Principles and the U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Experticity, please visit the BBB E.U. SAFE HARBOR website at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+
+## PRIVACY POLICY
+
+Version: Australia
+
+Effective Date: 10/07/2015
+
+This privacy policy describes how Experticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com, ProMotive.com or Experticity.com (collectively, “sites”).
+
+By using our sites, registering for our services, or by choosing to submit personal information to Experticity through the sites, you agree to the terms of this Privacy Policy (“Policy”). You are not required to provide any personal information, but if you choose not to, you may not be able to access certain information or areas of the sites. If you do not agree with any terms of this Policy, please do not use this Site or submit any personal information to Experticity.
+
+To the extent identification is required by local law, the data controller is Experticity, Inc.
+
+### WHAT INFORMATION WE COLLECT
+
+#### All Users
+
+When you visit our sites, we collect personal information about you (including name, address, telephone number, email address, username, and password) (“Personally Identifying Information”) when you fill out forms, communicate with us through our sites, or create an online profile. We may collect personal information that you make publicly available, such as if you make a comment on another user’s content.
+
+We may also collect certain information about your use of our sites such as information about your computer, including your IP address, the type of browser you are using, and your computer’s operating system. Except as otherwise explained in this Policy or as may be prohibited by law, we may combine this information with your personal information.
+
+#### Online Profile
+
+When you create an online profile, you may choose to provide optional information such as your employer, training modules completed, purchases you make, photographs, points earned, etc. Any information you provide on your profile is subject to this Policy. Information you choose to upload or publish to a public area of your profile will appear on the sites, and may be viewed by other members. If you choose to include Personally Identifying Information in a public area of the sites, you consent to the public disclosure of the Personally Identifying Information you choose to post. If you do not wish to publish your Personally Identifying Information in this manner, please do not include it in material you post to a public area of the sites. We provide you ways to control the sharing of your profile, generally, and data within your profile at the following link: [www.3point5.com/action/user/account](https://www.3point5.com/action/user/account).
+
+#### Cookies and Other Tracking Technology
+
+Our sites also uses “cookies” (small data files stored on your computer) and other tracking technologies to collect information about your visit to our sites. The cookies and tracking technologies we use do not capture Personally Identifying Information. The information that is captured about your visit may be used in a variety of ways, such as to monitor and maintain information about your visits to our sites, to help us identify and address problems, to improve our sites, to analyze web traffic trends, and to help protect the security and integrity of our sites. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies, you may still use our sites, but your experience may be degraded.  We may also use pixel tags (also known as “clear gifs,” “Web beacons,” or “1-by-1gifs”) on our sites. These may be used in connection with certain pages of our sites or with email messages to measure the effectiveness of our communications and our marketing campaigns, to compile statistics about usage and response rates, and to assist us in resolving issues that may arise on our site.
+
+### HOW WE USE COLLECTED PERSONALLY IDENTIFYING INFORMATION
+
+We may use the Personally Identifying Information we collect for the following purposes:
+
+  * to respond to your inquiries and fulfill your requests;
+  * to send you important information regarding our site, changes to our terms, conditions, and policies, and/or other administrative information;
+  * to send you marketing communications that we believe may be of interest to you, which you may opt-out of at any time;
+  * to personalize your experience on our site by presenting content tailored to you;
+  * to allow you to take and keep track of training;
+  * for our business purposes, such as data analysis, audits, developing new products, enhancing our site, improving our services, identifying usage trends, and determining the effectiveness of our promotional campaigns;
+  * for risk control, to comply with laws and regulations, and to comply with other legal process and law enforcement requirements;
+  * to use information about your activities on the site to communicate your progress to your employers and in some cases to offer you retail discounts;
+  * for other purposes which are disclosed to you and to which you consent.
+
+
+
+We may also use information that we receive about you from your employer and data providers who assist us in processing requests, maintaining our data, and optimizing our services.
+
+### SHARING YOUR INFORMATION
+
+We will not disclose your Personally Identifying Information to third parties except as described in this Policy, to the extent necessary to provide you with a requested service, or under circumstances required by law. You agree that we may also disclose this information to third parties: (1) when we have reason to believe that such disclosure is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of our sites, or anyone else who could be harmed by such activities; or (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, such as to comply with a subpoena or similar legal process.
+
+We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out these purposes. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative, technical support, or other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to a such a third party service provider, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Policy, and to provide adequate protection for the Personally Identifying Information.
+
+We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent.
+
+### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
+
+#### Correcting or Changing Your Information
+
+We are concerned about the accuracy, currency, and completeness of the Personally Identifying Information we collect and take appropriate steps to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this Policy, if you wish to review, amend, correct, update, or delete Personally Identifying Information we have collected about you online, or to opt out of receiving our marketing communications, contact us at: +1-866-376-4685 or http://www.3point5.com/action/feedback. You may also contact us by writing to:
+
+Ron Martinez  
+Experticity  
+9 Exchange Plaza, Suite 1000  
+Salt Lake City, Utah 84111
+
+We will respond to your access request within any legally required time period or within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
+
+You may cancel your registration to our sites and/or request the removal of your Personally Identifying Information from our visitor records by sending an email at http://www.3point5.com/feedback. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for any purpose, commercial or otherwise. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the site blocked.
+
+### SECURITY
+
+We use a variety of technologies and processes to protect Personally Identifying Information collected on the sites, including physical, technological, and organizational security measures. For example, we use encryption technology whenever transmitting personal information. Unfortunately, no security technology is completely secure, and you should remember that email is not a secure means of communication. We retain Personally Identifying Information that we collect only as long as reasonably necessary to fulfill the purposes for which it was collected or to meet any legal requirements.
+
+Some or all of the Personally Identifying Information we collect may be stored or processed on servers located outside of your country, including in the United States, whose data protection laws may differ from those where you live. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to laws in those jurisdictions. Subject to applicable laws in such other jurisdictions, we will use reasonable efforts to ensure that appropriate protections are in place to maintain protections on the Personally Identifying Information that are equivalent to those in your country.
+
+### LINKS TO OTHER WEBSITES
+
+Our sites may contain links to websites owned by third parties. Information you share with a third party site is not subject to this Policy. Please review the privacy policy of any sites you access through our sites.
+
+### CHILDREN’S PRIVACY
+
+Our sites are not intended for use by children. We do not knowingly collect personal information from children under the age of 13. Children under the age of 18 are prohibited from creating an online profile.
+
+### POLICY CHANGES
+
+If our Policy changes, we will post these changes to our sites with the date of revision. We encourage you to review our Policy periodically.  Your continued access to and/or use of the sites after any such changes constitutes your acceptance of, and agreement to be legally bound by, this Policy, as revised. If our privacy practices, including the ways we use your Personally Identifying Information, materially change from the time you created an online profile, we will notify you about such changes before they take effect and allow you to delete your information as described above, should you disagree with such changes.
+
+## Safe Harbor Privacy Policy
+
+Experticity, Inc. (“Experticity”), as part of this Policy, complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Experticity has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Experticity’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the U.S.-E.U. Safe Harbor Principles and U.S.-Swiss Safe Harbor Principles, Experticity commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Experticity Member Services at: 866-376-4685 or [http://www.3point5.com/action/feedback](https://www.3point5.com/action/feedback).
+
+Experticity has further committed to refer unresolved privacy complaints under the U.S.-E.U. Safe Harbor Principles and the U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Experticity, please visit the BBB E.U. SAFE HARBOR website at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+
+## PRIVACY POLICY
+
+Version: South Korea
+
+Effective Date: 10/07/2015
+
+This privacy policy describes how Experticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com, ProMotive.com or Experticity.com (collectively, “sites”).
+
+By using our sites, registering for our services, or by choosing to submit personal information to Experticity through the sites, you agree to the terms of this Privacy Policy (“Policy”). You are not required to provide any personal information, but if you choose not to, you may not be able to access certain information or areas of the sites. If you do not agree with any terms of this Policy, please do not use this Site or submit any personal information to Experticity.
+
+To the extent identification is required by local law, the data controller is Experticity, Inc.
+
+### WHAT INFORMATION WE COLLECT
+
+#### All Users
+
+When you visit our sites, we collect personal information about you (including name, address, telephone number, email address, username, and password) (“Personally Identifying Information”) when you fill out forms, communicate with us through our sites, or create an online profile. We may collect personal information that you make publicly available, such as if you make a comment on another user’s content.
+
+We may also collect certain information about your use of our sites such as information about your computer, including your IP address, the type of browser you are using, and your computer’s operating system. Except as otherwise explained in this Policy or as may be prohibited by law, we may combine this information with your personal information.
+
+#### Online Profile
+
+When you create an online profile, you may choose to provide optional information such as your employer, training modules completed, purchases you make, photographs, points earned, etc. Any information you provide on your profile is subject to this Policy. Information you choose to upload or publish to a public area of your profile will appear on the sites, and may be viewed by other members. If you choose to include Personally Identifying Information in a public area of the sites, you consent to the public disclosure of the Personally Identifying Information you choose to post. If you do not wish to publish your Personally Identifying Information in this manner, please do not include it in material you post to a public area of the sites. We provide you ways to control the sharing of your profile, generally, and data within your profile at the following link: [www.3point5.com/action/user/account](https://www.3point5.com/action/user/account).
+
+#### Cookies and Other Tracking Technology
+
+Our sites also uses “cookies” (small data files stored on your computer) and other tracking technologies to collect information about your visit to our sites. The cookies and tracking technologies we use do not capture Personally Identifying Information. The information that is captured about your visit may be used in a variety of ways, such as to monitor and maintain information about your visits to our sites, to help us identify and address problems, to improve our sites, to analyze web traffic trends, and to help protect the security and integrity of our sites. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies, you may still use our sites, but your experience may be degraded.  We may also use pixel tags (also known as “clear gifs,” “Web beacons,” or “1-by-1gifs”) on our sites. These may be used in connection with certain pages of our sites or with email messages to measure the effectiveness of our communications and our marketing campaigns, to compile statistics about usage and response rates, and to assist us in resolving issues that may arise on our site.
+
+### HOW WE USE COLLECTED PERSONALLY IDENTIFYING INFORMATION
+
+We may use the Personally Identifying Information we collect for the following purposes:
+
+  * to respond to your inquiries and fulfill your requests;
+  * to send you important information regarding our site, changes to our terms, conditions, and policies, and/or other administrative information;
+  * to send you marketing communications that we believe may be of interest to you, which you may opt-out of at any time;
+  * to personalize your experience on our site by presenting content tailored to you;
+  * to allow you to take and keep track of training;
+  * for our business purposes, such as data analysis, audits, developing new products, enhancing our site, improving our services, identifying usage trends, and determining the effectiveness of our promotional campaigns;
+  * for risk control, to comply with laws and regulations, and to comply with other legal process and law enforcement requirements;
+  * to use information about your activities on the site to communicate your progress to your employers and in some cases to offer you retail discounts;
+  * for other purposes which are disclosed to you and to which you consent.
+
+
+
+We may also use information that we receive about you from your employer and data providers who assist us in processing requests, maintaining our data, and optimizing our services.
+
+### SHARING YOUR INFORMATION
+
+We will not disclose your Personally Identifying Information to third parties except as described in this Policy, to the extent necessary to provide you with a requested service, or under circumstances required by law. You agree that we may also disclose this information to third parties: (1) when we have reason to believe that such disclosure is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of our sites, or anyone else who could be harmed by such activities; or (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, such as to comply with a subpoena or similar legal process.
+
+We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out these purposes. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative, technical support, or other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to a such a third party service provider, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Policy, and to provide adequate protection for the Personally Identifying Information.
+
+We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent.
+
+### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
+
+#### Correcting or Changing Your Information
+
+We are concerned about the accuracy, currency, and completeness of the Personally Identifying Information we collect and take appropriate steps to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this Policy, if you wish to review, amend, correct, update, or delete Personally Identifying Information we have collected about you online, or to opt out of receiving our marketing communications, contact us at: +1-866-376-4685 or http://www.3point5.com/action/feedback. You may also contact us by writing to:
+
+Ron Martinez  
+Experticity  
+9 Exchange Plaza, Suite 1000  
+Salt Lake City, Utah 84111
+
+We will respond to your access request within any legally required time period or within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
+
+You may cancel your registration to our sites and/or request the removal of your Personally Identifying Information from our visitor records by sending an email at http://www.3point5.com/feedback. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for any purpose, commercial or otherwise. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the site blocked.
+
+### SECURITY
+
+We use a variety of technologies and processes to protect Personally Identifying Information collected on the sites, including physical, technological, and organizational security measures. For example, we use encryption technology whenever transmitting personal information. Unfortunately, no security technology is completely secure, and you should remember that email is not a secure means of communication. We retain Personally Identifying Information that we collect only as long as reasonably necessary to fulfill the purposes for which it was collected or to meet any legal requirements.
+
+Some or all of the Personally Identifying Information we collect may be stored or processed on servers located outside of your country, including in the United States, whose data protection laws may differ from those where you live. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to laws in those jurisdictions. Subject to applicable laws in such other jurisdictions, we will use reasonable efforts to ensure that appropriate protections are in place to maintain protections on the Personally Identifying Information that are equivalent to those in your country.
+
+### LINKS TO OTHER WEBSITES
+
+Our sites may contain links to websites owned by third parties. Information you share with a third party site is not subject to this Policy. Please review the privacy policy of any sites you access through our sites.
+
+### CHILDREN’S PRIVACY
+
+Our sites are not intended for use by children. We do not knowingly collect personal information from children under the age of 13. Children under the age of 18 are prohibited from creating an online profile.
+
+### POLICY CHANGES
+
+If our Policy changes, we will post these changes to our sites with the date of revision. We encourage you to review our Policy periodically.  Your continued access to and/or use of the sites after any such changes constitutes your acceptance of, and agreement to be legally bound by, this Policy, as revised. If our privacy practices, including the ways we use your Personally Identifying Information, materially change from the time you created an online profile, we will notify you about such changes before they take effect and allow you to delete your information as described above, should you disagree with such changes.
+
+## Safe Harbor Privacy Policy
+
+Experticity, Inc. (“Experticity”), as part of this Policy, complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Experticity has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Experticity’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the U.S.-E.U. Safe Harbor Principles and U.S.-Swiss Safe Harbor Principles, Experticity commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Experticity Member Services at: 866-376-4685 or [http://www.3point5.com/action/feedback](https://www.3point5.com/action/feedback).
+
+Experticity has further committed to refer unresolved privacy complaints under the U.S.-E.U. Safe Harbor Principles and the U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Experticity, please visit the BBB E.U. SAFE HARBOR website at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+
+## PRIVACY POLICY
+
+Version: Hong Kong
+
+Effective Date: 10/07/2015
+
+This privacy policy describes how Experticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com, ProMotive.com or Experticity.com (collectively, “sites”).
+
+By using our sites, registering for our services, or by choosing to submit personal information to Experticity through the sites, you agree to the terms of this Privacy Policy (“Policy”). You are not required to provide any personal information, but if you choose not to, you may not be able to access certain information or areas of the sites. If you do not agree with any terms of this Policy, please do not use this Site or submit any personal information to Experticity.
+
+To the extent identification is required by local law, the data controller is Experticity, Inc.
+
+### WHAT INFORMATION WE COLLECT
+
+#### All Users
+
+When you visit our sites, we collect personal information about you (including name, address, telephone number, email address, username, and password) (“Personally Identifying Information”) when you fill out forms, communicate with us through our sites, or create an online profile. We may collect personal information that you make publicly available, such as if you make a comment on another user’s content.
+
+We may also collect certain information about your use of our sites such as information about your computer, including your IP address, the type of browser you are using, and your computer’s operating system. Except as otherwise explained in this Policy or as may be prohibited by law, we may combine this information with your personal information.
+
+#### Online Profile
+
+When you create an online profile, you may choose to provide optional information such as your employer, training modules completed, purchases you make, photographs, points earned, etc. Any information you provide on your profile is subject to this Policy. Information you choose to upload or publish to a public area of your profile will appear on the sites, and may be viewed by other members. If you choose to include Personally Identifying Information in a public area of the sites, you consent to the public disclosure of the Personally Identifying Information you choose to post. If you do not wish to publish your Personally Identifying Information in this manner, please do not include it in material you post to a public area of the sites. We provide you ways to control the sharing of your profile, generally, and data within your profile at the following link: [www.3point5.com/action/user/account](https://www.3point5.com/action/user/account).
+
+#### Cookies and Other Tracking Technology
+
+Our sites also uses “cookies” (small data files stored on your computer) and other tracking technologies to collect information about your visit to our sites. The cookies and tracking technologies we use do not capture Personally Identifying Information. The information that is captured about your visit may be used in a variety of ways, such as to monitor and maintain information about your visits to our sites, to help us identify and address problems, to improve our sites, to analyze web traffic trends, and to help protect the security and integrity of our sites. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies, you may still use our sites, but your experience may be degraded.  We may also use pixel tags (also known as “clear gifs,” “Web beacons,” or “1-by-1gifs”) on our sites. These may be used in connection with certain pages of our sites or with email messages to measure the effectiveness of our communications and our marketing campaigns, to compile statistics about usage and response rates, and to assist us in resolving issues that may arise on our site.
+
+### HOW WE USE COLLECTED PERSONALLY IDENTIFYING INFORMATION
+
+We may use the Personally Identifying Information we collect for the following purposes:
+
+  * to respond to your inquiries and fulfill your requests;
+  * to send you important information regarding our site, changes to our terms, conditions, and policies, and/or other administrative information;
+  * to send you marketing communications that we believe may be of interest to you, which you may opt-out of at any time;
+  * to personalize your experience on our site by presenting content tailored to you;
+  * to allow you to take and keep track of training;
+  * for our business purposes, such as data analysis, audits, developing new products, enhancing our site, improving our services, identifying usage trends, and determining the effectiveness of our promotional campaigns;
+  * for risk control, to comply with laws and regulations, and to comply with other legal process and law enforcement requirements;
+  * to use information about your activities on the site to communicate your progress to your employers and in some cases to offer you retail discounts;
+  * for other purposes which are disclosed to you and to which you consent.
+
+
+
+We may also use information that we receive about you from your employer and data providers who assist us in processing requests, maintaining our data, and optimizing our services.
+
+### SHARING YOUR INFORMATION
+
+We will not disclose your Personally Identifying Information to third parties except as described in this Policy, to the extent necessary to provide you with a requested service, or under circumstances required by law. You agree that we may also disclose this information to third parties: (1) when we have reason to believe that such disclosure is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of our sites, or anyone else who could be harmed by such activities; or (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, such as to comply with a subpoena or similar legal process.
+
+We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out these purposes. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative, technical support, or other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to a such a third party service provider, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Policy, and to provide adequate protection for the Personally Identifying Information.
+
+We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent.
+
+### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
+
+#### Correcting or Changing Your Information
+
+We are concerned about the accuracy, currency, and completeness of the Personally Identifying Information we collect and take appropriate steps to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this Policy, if you wish to review, amend, correct, update, or delete Personally Identifying Information we have collected about you online, or to opt out of receiving our marketing communications, contact us at: +1-866-376-4685 or http://www.3point5.com/action/feedback. You may also contact us by writing to:
+
+Ron Martinez  
+Experticity  
+9 Exchange Plaza, Suite 1000  
+Salt Lake City, Utah 84111
+
+We will respond to your access request within any legally required time period or within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
+
+You may cancel your registration to our sites and/or request the removal of your Personally Identifying Information from our visitor records by sending an email at http://www.3point5.com/feedback. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for any purpose, commercial or otherwise. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the site blocked.
+
+### SECURITY
+
+We use a variety of technologies and processes to protect Personally Identifying Information collected on the sites, including physical, technological, and organizational security measures. For example, we use encryption technology whenever transmitting personal information. Unfortunately, no security technology is completely secure, and you should remember that email is not a secure means of communication. We retain Personally Identifying Information that we collect only as long as reasonably necessary to fulfill the purposes for which it was collected or to meet any legal requirements.
+
+Some or all of the Personally Identifying Information we collect may be stored or processed on servers located outside of your country, including in the United States, whose data protection laws may differ from those where you live. As a result, this information may be subject to access requests from governments, courts, or law enforcement in those jurisdictions according to laws in those jurisdictions. Subject to applicable laws in such other jurisdictions, we will use reasonable efforts to ensure that appropriate protections are in place to maintain protections on the Personally Identifying Information that are equivalent to those in your country.
+
+### LINKS TO OTHER WEBSITES
+
+Our sites may contain links to websites owned by third parties. Information you share with a third party site is not subject to this Policy. Please review the privacy policy of any sites you access through our sites.
+
+### CHILDREN’S PRIVACY
+
+Our sites are not intended for use by children. We do not knowingly collect personal information from children under the age of 13. Children under the age of 18 are prohibited from creating an online profile.
+
+### POLICY CHANGES
+
+If our Policy changes, we will post these changes to our sites with the date of revision. We encourage you to review our Policy periodically.  Your continued access to and/or use of the sites after any such changes constitutes your acceptance of, and agreement to be legally bound by, this Policy, as revised. If our privacy practices, including the ways we use your Personally Identifying Information, materially change from the time you created an online profile, we will notify you about such changes before they take effect and allow you to delete your information as described above, should you disagree with such changes.
+
+## Safe Harbor Privacy Policy
+
+Experticity, Inc. (“Experticity”), as part of this Policy, complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Experticity has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Experticity’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the U.S.-E.U. Safe Harbor Principles and U.S.-Swiss Safe Harbor Principles, Experticity commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Experticity Member Services at: 866-376-4685 or [http://www.3point5.com/action/feedback](https://www.3point5.com/action/feedback).
+
+Experticity has further committed to refer unresolved privacy complaints under the U.S.-E.U. Safe Harbor Principles and the U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Experticity, please visit the BBB E.U. SAFE HARBOR website at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
 
 ## POLÍTICA DE PRIVACIDAD
 
 Versión: Estados Unidos, México; Sudáfrica; Colombia; Venezuela; Perú; Ecuador; Chile, Uruguay, Brasil; Singapur; Filipinas; Indonesia; Malasia; Tailandia; Japón, República Popular de China; Nueva Zelanda  
-Fecha de entrada en vigor: 9/22/2014
+Fecha de entrada en vigor: 10/07/2015
 
 Esta política de privacidad describe el modo en que eXperticity, Inc., una compañía constituida y con domicilio en los Estados Unidos, recopila, utiliza y comparte información sobre usted, la cual se obtiene mientras usted hace uso de 3point5.com (el “Sitio”).
 
@@ -636,7 +611,7 @@ También recopilamos determinada información sobre el uso que hace de nuestro s
 
 #### Perfil por Internet
 
-Cuando crea un perfil por Internet, puede elegir brindar información optativa, como su empleador, módulos de capacitación realizados, compras que haya realizado, fotografías, puntos ganados, etc. Toda información que proporcione en su perfil queda sujeta a esta Política. La información que opte por cargar o publicar en una sección pública de su perfil aparecerá en el sitio y puede ser vista por los demás miembros. Si opta por incluir Información de identificación personal en una sección pública del sitio, admite que está de acuerdo con la divulgación pública de la Información de identificación personal que elige publicar. Si no desea publicar su Información de identificación personal de esta manera, tenga a bien no incluirla en el material que divulgue en una sección pública de este sitio. Le proporcionamos maneras para que controle la divulgación de su perfil, en general, y los datos dentro de su perfil. Visite el siguiente enlace: [www.3point5.com/action/user/account](http://www.3point5.com/action/user/account).
+Cuando crea un perfil por Internet, puede elegir brindar información optativa, como su empleador, módulos de capacitación realizados, compras que haya realizado, fotografías, puntos ganados, etc. Toda información que proporcione en su perfil queda sujeta a esta Política. La información que opte por cargar o publicar en una sección pública de su perfil aparecerá en el sitio y puede ser vista por los demás miembros. Si opta por incluir Información de identificación personal en una sección pública del sitio, admite que está de acuerdo con la divulgación pública de la Información de identificación personal que elige publicar. Si no desea publicar su Información de identificación personal de esta manera, tenga a bien no incluirla en el material que divulgue en una sección pública de este sitio. Le proporcionamos maneras para que controle la divulgación de su perfil, en general, y los datos dentro de su perfil. Visite el siguiente enlace: [www.3point5.com/action/user/account](https://www.3point5.com/action/user/account).
 
 #### Cookies y demás tecnologías de rastreo
 
@@ -668,19 +643,18 @@ No divulgaremos su Información de identificación personal a terceros, salvo se
 
 Es posible que transfiramos su Información de identificación personal a proveedores de servicios de terceros que nos ayuden a llevar a cabo estos fines. Por ejemplo, podemos utilizar un contratista para el procesamiento de datos quien opere los sistemas informáticos en nuestra representación, para obtener soporte administrativo o técnico, u otros fines comerciales que sean necesarios para facilitarle a usted nuestras transacciones, analizar nuestros datos, prestar servicios analíticos o mantener y mejorar nuestros servicios. Siempre que se transfiera Información de identificación personal a un proveedor de servicios de terceros, este quedará vinculado contractualmente al uso de la Información de identificación personal únicamente para llevar a cabo los servicios que hemos solicitado, para cumplir con nuestra Política y para brindar la protección adecuada a esta Información de identificación personal.
 
-Nos reservamos el derecho de transferir toda Información de identificación personal que poseamos sobre usted en caso de que nos fusionemos con otra compañía o seamos adquiridos por terceros. Es posible que divulguemos su Información de identificación personal para cualquier otro fin con su consentimiento. 
+Nos reservamos el derecho de transferir toda Información de identificación personal que poseamos sobre usted en caso de que nos fusionemos con otra compañía o seamos adquiridos por terceros. Es posible que divulguemos su Información de identificación personal para cualquier otro fin con su consentimiento.
 
 #### SUS ELECCIONES PARA CONTROLAR SU INFORMACIÓN
 
 ### Cómo corregir o cambiar su información
 
-Nos interesa la exactitud, la actualización y la integridad de la Información de identificación personal que recabamos, y tomamos las medidas necesarias para garantizar que la información que tenemos sea precisa y actual. Además de las opciones proporcionadas en esta Política, si desea revisar, enmendar, corregir, actualizar o eliminar la Información de identificación personal que hemos recopilado sobre usted por Internet, o bien dejar de recibir nuestras comunicaciones comerciales, comuníquese con nosotros a través de los siguientes medios: +1-866-376-4685 o <http://www.3point5.com/action/feedback>. También puede comunicarse por escrito a la siguiente dirección:
+Nos interesa la exactitud, la actualización y la integridad de la Información de identificación personal que recabamos, y tomamos las medidas necesarias para garantizar que la información que tenemos sea precisa y actual. Además de las opciones proporcionadas en esta Política, si desea revisar, enmendar, corregir, actualizar o eliminar la Información de identificación personal que hemos recopilado sobre usted por Internet, o bien dejar de recibir nuestras comunicaciones comerciales, comuníquese con nosotros a través de los siguientes medios: +1-866-376-4685 o [http://www.3point5.com/action/feedback](https://www.3point5.com/action/feedback). También puede comunicarse por escrito a la siguiente dirección:
 
 Ron Martinez  
 eXperticity  
 9 Exchange Plaza, Suite 1000  
-Salt Lake City, Utah 84111  
-
+Salt Lake City, Utah 84111
 
 Responderemos a su solicitud de acceso en el plazo legalmente estipulado o bien dentro de los 30 días. Nos reservamos el derecho de no permitir el acceso a su información si creemos, de buena fe, que dicha divulgación está prohibida por ley o si esto podría infringir los derechos de otro individuo.
 
@@ -710,8 +684,8 @@ eXperticity cumple con el marco legal de Puerto Seguro (Safe Harbor) de los EE. 
 
 ## POLÍTICA DE PRIVACIDADE
 
-Versão: Estados Unidos, México; África do Sul; Colômbia; Venezuela; Peru; Equador; Chile, Uruguai, Brasil; Cingapura; Filipinas; Indonésia; Malásia; Tailândia; Japão, República Popular da China; Nova Zelândia   
-Data de efetivação: 9/22/2014 
+Versão: Estados Unidos, México; África do Sul; Colômbia; Venezuela; Peru; Equador; Chile, Uruguai, Brasil; Cingapura; Filipinas; Indonésia; Malásia; Tailândia; Japão, República Popular da China; Nova Zelândia  
+Data de efetivação:10/07/2015
 
 Essa política de privacidade descreve como a eXperticity, Inc., uma empresa localizada e incorporada nos Estados Unidos, coleta, usa e compartilha informações sobre você que são coletadas enquanto você usa o 3point5.com (“site”).
 
@@ -729,7 +703,7 @@ Também coletamos certas informações sobre seu uso de nosso site, como informa
 
 #### Perfil on-line
 
-Ao criar um perfil on-line, você pode optar por fornecer informações opcionais, como empregador, módulos de treinamento concluídos, compras feitas, fotografias, pontos ganhos etc. Quaisquer informações fornecidas no perfil estão sujeitas a esta Política. As informações que você opta por carregar ou tornar públicas do seu perfil aparecerão no site e poderão ser vistas por outros membros. Se optar por incluir informações de identificação pessoal em uma área pública do site, você consentirá na divulgação pública das informações de identificação pessoal que optar por publicar. Se não desejar publicar as informações de identificação pessoal dessa maneira, não inclua-as no material que publicar em uma área pública do site. Geralmente, fornecemos maneiras de controlar o compartilhamento do perfil e dos dados dentro do perfil no seguinte link: [www.3point5.com/action/user/account](http://www.3point5.com/action/user/account).
+Ao criar um perfil on-line, você pode optar por fornecer informações opcionais, como empregador, módulos de treinamento concluídos, compras feitas, fotografias, pontos ganhos etc. Quaisquer informações fornecidas no perfil estão sujeitas a esta Política. As informações que você opta por carregar ou tornar públicas do seu perfil aparecerão no site e poderão ser vistas por outros membros. Se optar por incluir informações de identificação pessoal em uma área pública do site, você consentirá na divulgação pública das informações de identificação pessoal que optar por publicar. Se não desejar publicar as informações de identificação pessoal dessa maneira, não inclua-as no material que publicar em uma área pública do site. Geralmente, fornecemos maneiras de controlar o compartilhamento do perfil e dos dados dentro do perfil no seguinte link: [www.3point5.com/action/user/account](https://www.3point5.com/action/user/account).
 
 #### Cookies e outras tecnologias de rastreio
 
@@ -767,13 +741,12 @@ Reservamo-nos o direito de transferir qualquer informação de identificação p
 
 #### Correção e alterações das suas informações
 
-Estamos preocupados com a precisão, a atualidade e a completude das informações de identificação pessoal que coletamos e agimos de maneira adequada para garantir que as informações que temos sejam precisas e atualizadas. Além disso, com relação às opções fornecidas nesta política, se você desejar revisar, corrigir, atualizar, excluir as informações de identificação pessoal que coletamos sobre você on-line ou se não quiser mais receber nossas comunicações de marketing, entre em contato conosco em: +1-866-376-4685 ou <http://www.3point5.com/action/feedback>. Também é possível entrar em contato conosco escrevendo para:
+Estamos preocupados com a precisão, a atualidade e a completude das informações de identificação pessoal que coletamos e agimos de maneira adequada para garantir que as informações que temos sejam precisas e atualizadas. Além disso, com relação às opções fornecidas nesta política, se você desejar revisar, corrigir, atualizar, excluir as informações de identificação pessoal que coletamos sobre você on-line ou se não quiser mais receber nossas comunicações de marketing, entre em contato conosco em: +1-866-376-4685 ou [http://www.3point5.com/action/feedback](https://www.3point5.com/action/feedback). Também é possível entrar em contato conosco escrevendo para:
 
 Ron Martinez  
 eXperticity  
 9 Exchange Plaza, Suite 1000  
-Salt Lake City, Utah 84111  
-
+Salt Lake City, Utah 84111
 
 Responderemos à sua solicitação de acesso durante qualquer período de tempo exigido pela lei ou no prazo de 30 dias. Temos também o direito de não permitir acesso às suas informações se acreditarmos, de boa fé, que essa divulgação é proibida por lei ou se os direitos de outro indivíduo estiverem sendo violados.
 
@@ -787,7 +760,7 @@ Algumas ou todas as informações de identificação pessoal que coletamos podem
 
 #### LINKS PARA OUTROS SITES
 
-Nosso site pode conter links para sites de propriedade de terceiros. As informações que você compartilha com um site de terceiros não estão sujeitas a esta política de privacidade. Analise a política de privacidade de qualquer site que acessar pelo nosso site. 
+Nosso site pode conter links para sites de propriedade de terceiros. As informações que você compartilha com um site de terceiros não estão sujeitas a esta política de privacidade. Analise a política de privacidade de qualquer site que acessar pelo nosso site.
 
 Nossos sites não devem ser usados por crianças. Não coletamos, conscientemente, informações pessoais de crianças menores de 13 anos. As crianças menores de 18 anos são proibidas de criar um perfil on-line.
 
@@ -801,9 +774,13 @@ A eXperticity está de acordo com a estrutura Safe Harbor (Porto seguro) da UE e
 
 ## プライバシーポリシー
 
-バージョン：米国、メキシコ、南アフリカ、コロンビア、ベネズエラ、ペルー、エクアドル、チリ、ウルグアイ、ブラジ ル、シンガポール、フィリピン、インドネシア、マレーシア、タイ、日本、中華人民共和国、ニュージーランド向け草稿 発効日： 9/22/2014 
+バージョン：米国、メキシコ、南アフリカ、コロンビア、ベネズエラ、ペルー、エクアドル、チリ、ウルグアイ、ブラジ  
+ル、シンガポール、フィリピン、インドネシア、マレーシア、タイ、日本、中華人民共和国、ニュージーランド向け草稿
 
-本プライバシーポリシーは、米国に所在し登記されている企業eXperticity, Incが、ユーザーが 3point5.com（以下、「サイト」）を利用中に記録されるユーザー情報を、どのように収集、使用、共有するかについて説明するものです。
+発効日：10/07/2015
+
+本プライバシーポリシーは、米国に所在し登記されている企業eXperticity, Incが、ユーザーが  
+3point5.com（以下、「サイト」）を利用中に記録されるユーザー情報を、どのように収集、使用、共有するかについて説明するものです。
 
 当  
 社サイトを利用すること、当社サービスに登録すること、またはサイト経由で個人情報をeXperticityに送信することを選択することによって、ユー  
@@ -817,19 +794,19 @@ A eXperticity está de acordo com a estrutura Safe Harbor (Porto seguro) da UE e
 
 #### すべてのユーザー
 
-  
 ユーザーが当社サイトにアクセスする場合、ユーザーが当社のフォームに記入する時、当社サイト経由で当社と連絡を取る時、またはオンラインプロフィールを  
-作成する時に、当社はユーザーに関する個人情報（氏名、住所、電話番号、電子メールアドレス、ユーザー名、パスワードなど）を収集します（以 下、「個人  
+作成する時に、当社はユーザーに関する個人情報（氏名、住所、電話番号、電子メールアドレス、ユーザー名、パスワードなど）を収集します（以  
+下、「個人  
 識別情報」）。
 
 また、当社は、IPアドレス、使用しているブラウザーの種類、コンピューターのオペレーティングシステム  
 を含むユーザーのコンピューターに関する情報など、当社サイトの利用に関する特定の情報を収集します。 本ポリシーで別途説明されている場合、  
-または法律で禁止されている可能性がある場合を除き、当社は当該情報をユーザーの個人情報と結合させることがあります。 オンラインプロフィール
+または法律で禁止されている可能性がある場合を除き、当社は当該情報をユーザーの個人情報と結合させることがあります。
 
-  
+オンラインプロフィール  
 ユーザーがオンラインプロフィールを作成する場合、ユーザーは、雇用主、修了済みトレーニングモジュール、購入状況、写真、獲得ポイントなどの任意の情報  
 を提供することを選択できます。 ユーザーが自分のプロフィールに記載する情報は、本ポリシーの対象となります。 ユーザーがアップ  
-ロードまたは公開することを選択する情報はユーザーのプロフィールであり、サイトに表示され、かつ、ほかの会員が閲覧する可能性があります。   
+ロードまたは公開することを選択する情報はユーザーのプロフィールであり、サイトに表示され、かつ、ほかの会員が閲覧する可能性があります。  
 ユーザーが、サイトの公開領域に個人識別情報を掲載することを選択する場合、ユーザーは、その選択により投稿する個人識別情報の公開に同意するものとしま  
 す。 このような形で自らの個人識別情報を公開することをユーザーが希望しない場合は、サイトの公開領域に投稿するデータに当該の個人識別情報  
 を含めないでください。 当社は、リンク先（www.3point5.com/action/user/account）にて、一般的なユー  
@@ -840,7 +817,7 @@ A eXperticity está de acordo com a estrutura Safe Harbor (Porto seguro) da UE e
 当  
 社サイトでは、当社サイトへのユーザーアクセスに関する情報を収集するために、「クッキー（Cookie）」（ユーザーのコンピューターに保存される小さ  
 なファイル）などのトラッキング技術も使用します。 当社が使用するクッキーおよびトラッキング技術は、個人識別情報を記録しません。  
- ユーザーアクセスに関して記録される情報は、当社サイトへのユーザーアクセスに関する情報の監視や保持、問題の特定や対処、当社サイトの改  
+ユーザーアクセスに関して記録される情報は、当社サイトへのユーザーアクセスに関する情報の監視や保持、問題の特定や対処、当社サイトの改  
 良、Webトラフィック傾向の分析、および当社サイトの安全性や完全性の保護のためなど、さまざまな方法で使用される可能性があります。 ユー  
 ザーは、各自が使用するブラウザーがクッキーを受け入れないように、またはクッキーを受信した時に通知するように設定することができるので、クッキー受け  
 入れの可否を判断することができます。 クッキーを受け入れなくてもユーザーは当社サイトを利用することは可能ですが、機能が制限される場合が  
@@ -856,7 +833,7 @@ A eXperticity está de acordo com a estrutura Safe Harbor (Porto seguro) da UE e
 当社は、以下の目的で収集する個人識別情報を使用することがあります。
 
   * ユーザーの問い合わせに対応するため、およびユーザーの要請を満たすため
-  * 当社サイト、条件・条項・ポリシーの変更や、その他の管理情報に関する重要な情報をユーザーに送信するため 
+  * 当社サイト、条件・条項・ポリシーの変更や、その他の管理情報に関する重要な情報をユーザーに送信するため
   * ユーザーが関心を持つと思われるマーケティング情報（随時配信停止可能）をユーザーに送信するため
   * ユーザーに合わせたコンテンツを表示することによって、当社サイトの機能をパーソナライズするため
   * ユーザーがトレーニングを記録できるようにするため
@@ -871,7 +848,6 @@ A eXperticity está de acordo com a estrutura Safe Harbor (Porto seguro) da UE e
 
 #### ユーザー情報の共有
 
-  
 本ポリシーの記載に基づき依頼されたサービスをユーザーに提供するために必要な範囲で、または法律で要請される一定の状況を除き、当社はユーザーの個人識  
 別情報を第三者に開示しません。 ユーザーは、以下のような場合にも、当社がこの情報を第三者に開示する可能性もあることに同意するものとしま  
 す： (1) 当社の権利もしくは財産、当社サイトの顧客もしくはその他ユーザー、または後述の行動によって害を被る可能性のある者  
@@ -883,10 +859,10 @@ A eXperticity está de acordo com a estrutura Safe Harbor (Porto seguro) da UE e
 当社は、これらの目的を達成できるように当社を支援する第三者のサービス提供業者に、ユーザーの個人識別情報を転送  
 することがあります。 たとえば、当社は、当社とユーザーとのやりとり、データの分析、分析サービスの実行を円滑化するために必要に応じて、管  
 理上、技術サポート上またはその他事業上の目的で、当社に代わってコンピューターシステムを操作するデータ処理請負業者を利用することがあります。  
- そのような第三者サービス提供業者に個人識別情報が転送される場合、当該業者は、当社が依頼したサービスの実行のためにのみ個人識別情報を使  
+そのような第三者サービス提供業者に個人識別情報が転送される場合、当該業者は、当社が依頼したサービスの実行のためにのみ個人識別情報を使  
 用し、当社ポリシーを遵守し、さらに個人識別情報の適切な保護することが契約上の拘束事項となります。
 
-当社が第三者と合併するとき、または当社が第三者に買収されるとき、当社は、ユーザーについて当社が保有する個人識別情報を譲渡する権利を留保します。 当社は、ユーザーの同意を得て、その他の目的でユーザーの個人識別情報を開示することがあります。 
+当社が第三者と合併するとき、または当社が第三者に買収されるとき、当社は、ユーザーについて当社が保有する個人識別情報を譲渡する権利を留保します。 当社は、ユーザーの同意を得て、その他の目的でユーザーの個人識別情報を開示することがあります。
 
 ### 個人情報管理に関するユーザーの選択
 
@@ -896,22 +872,25 @@ A eXperticity está de acordo com a estrutura Safe Harbor (Porto seguro) da UE e
 社は、当社が収集する個人識別情報の正確性、最新性、完全性に配慮しており、かつ、当社が保有する情報が正確で最新のものであることを確実にするため、適  
 切な手順を講じています。 本ポリシーでユーザーに提示されている選択肢に加えて、当社がインターネット上で収集したユーザーに関する個人識別  
 情報の見直し、修正、更新、削除を希望する場合、または当社マーケティング情報メールの受信停止を希望する場合は、  
-+1-866-376-4685または<http://www.3point5.com/action/feedback> にて、当社までご連絡ください。 または、下記宛てに文書でご連絡ください。
++1-866-376-4685または[http://www.3point5.com/action/feedback](https://www.3point5.com/action/feedback) にて、当社までご連絡ください。 または、下記宛てに文書でご連絡ください。
 
 Ron Martinez  
 eXperticity  
 9 Exchange Plaza, Suite 1000  
-Salt Lake City, Utah 84111  
-
+Salt Lake City, Utah 84111
 
 当  
 社は、法律上義務付けられている期間内、または30日以内に、ユーザーのアクセス要請に対応いたします。 当社は、当該の開示が法律で禁止され  
-ている、または他の個人の権利を侵害する可能性があることを善意で確信する場合、ユーザー情報へのアクセスを許可しない権利を留保します。 ユーザー  
+ている、または他の個人の権利を侵害する可能性があることを善意で確信する場合、ユーザー情報へのアクセスを許可しない権利を留保します。
+
+ユーザー  
 は、[email]宛てに電子メールを送信することによって、当社サイトへの登録を取り消すことや、当社訪問者記録から自らの個人識別情報を削除するよう  
 依頼することができます。 当社は、ユーザーの依頼を確認するために電子メールを送信します。 ユーザーが返答した後に、ユーザー情  
 報をデータベースから削除します。 残留情報が当社のアーカイブおよび記録に残る場合がありますが、当該情報は商業上またはその他のいかなる目  
 的にも使用されません。 当社は、当社ポリシーに違反したことのある登録済み訪問者、またはブロックされたサイトにアクセスしたことのある登録  
-済み訪問者の情報を保持する権利を留保します。 セキュリティ
+済み訪問者の情報を保持する権利を留保します。
+
+セキュリティ
 
 物理的、技術的、組織的なセキュリティ対策など、当社は、本  
 サイトで収集された個人識別情報を保護するために、さまざまな技術および手順を用いています。 たとえば、当社では個人情報を送信する時は、常  
@@ -929,7 +908,7 @@ Salt Lake City, Utah 84111
 
 当社サイトには、第三者が所有するWebサイト  
 へのリンクが含まれていることがあります。 ユーザーが第三者サイトと共有する情報は、本プライバシーポリシーの対象ではありません。  
- 当社サイト経由でアクセスするサイトのプライバシーポリシーをご確認ください。
+当社サイト経由でアクセスするサイトのプライバシーポリシーをご確認ください。
 
 ### 子どものプライバシー
 
@@ -948,7 +927,9 @@ Salt Lake City, Utah 84111
 
 eXperticity  
 は、EU加盟国からの個人情報の収集、使用および保持に関しては、米国商務省が定める米国欧州間セーフハーバーフレームワーク（U.S.-  
-EU Safe Harbor Framework）に準拠します。 eXperticityは、通知、選択、転送、セ  
-キュリティ、データの完全性、アクセスおよび実施におけるセーフハーバープライバシー原則（Safe Harbor   
+EU Safe Harbor Framework）に準拠します。  
+eXperticityは、通知、選択、転送、セ  
+キュリティ、データの完全性、アクセスおよび実施におけるセーフハーバープライバシー原則（Safe Harbor  
 Privacy Principles）に準拠していることを証明しています。 セーフハーバープログラムの詳細について、および  
-eXperticityの証明書の閲覧については、 [ http://www.export.gov/safeharbor/](https://web.archive.org/web/20150907180808id_/http://www.promotive.com/business/privacy/%E2%80%A8http://www.export.gov/safeharbor/)をご覧ください。
+eXperticityの証明書の閲覧については、 [  
+http://www.export.gov/safeharbor/](https://www.export.gov/safeharbor/)をご覧ください。
