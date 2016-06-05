@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206024224id_/http%3A//www.radley.co.uk/help/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605194415id_/http%3A//www.radley.co.uk/help/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
@@ -46,7 +46,7 @@ We will use information held about you to carry out our obligations arising from
 
 We may use your data to provide you, via email, post, telephone or SMS with information, products or services that you request from us or which we feel may be of interest to you, or share your details with selected third parties which we believe may be of interest to you, where you have consented to be contacted for such purposes.We may use the data in accordance with the preferences expressed in your acceptance of the Radley cookie policy and terms and conditions of use of the Radley website.
 
-You may have received an email from a third party in association with Criteo, on behalf of Radley. The purpose of Criteo Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email [Click Here](https://web.archive.org/web/20151206024224id_/http://www.radley.co.uk/help/privacy-cookie-policy/%E2%80%9Dhttp://privacy.criteoemail.com/gb/privacy-policy.html%E2%80%9D).
+You may have received an email from a third party in association with Criteo, on behalf of Radley. The purpose of Criteo Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email [Click Here](https://web.archive.org/web/20160605194415id_/http://www.radley.co.uk/help/privacy-cookie-policy/%E2%80%9Dhttp://privacy.criteoemail.com/gb/privacy-policy.html%E2%80%9D).
 
 ## Security
 
