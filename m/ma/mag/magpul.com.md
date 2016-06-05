@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magpul.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323132719id_/https%3A//www.magpul.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magpul.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605094851id_/https%3A//www.magpul.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -29,7 +29,7 @@ Similar to other commercial web sites, our Web Site utilizes a standard technolo
 
 ### HOW DO WE USE THE INFORMATION THAT YOU PROVIDE TO US?
 
-We request information that we believe will help us serve you better. For instance, your phone number allows us to call regarding shipping issues and your e-mail address allows us to send you order and shipping confirmations. If you supply us with your email address you may receive periodic notices from us with information on new products and services or upcoming events. If you do not wish to receive such notices, please let us know by sending us an e-mail at orders@magpul.com or by calling us at 1-877-4MAGPUL.
+We request information that we believe will help us serve you better. For instance, your phone number allows us to call regarding shipping issues and your e-mail address allows us to send you order and shipping confirmations. If you supply us with your email address you may receive periodic notices from us with information on new products and services or upcoming events. If you do not wish to receive such notices, please let us know by sending us an e-mail to orders@magpul.com or by calling us at 1-877-4MAGPUL.
 
 ### HOW DO WE SECURE INFORMATION TRANSMISSIONS?
 
@@ -37,4 +37,4 @@ We always use industry-standard encryption technologies when transferring and re
 
 ### HOW DO WE PROTECT YOUR INFORMATION?
 
-We utilize encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure. Our corporate values, ethical standards, policies and practices are committed to the protection of customer information and we will never share any information collected with any outside entity except as required by law.
+We utilize encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure. Our corporate values, ethical standards, policies and practices are committed to the protection of customer information and we will never share information collected with any outside entity except as required by law.
