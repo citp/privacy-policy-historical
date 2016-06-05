@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lrngo.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206061731id_/http%3A//www.lrngo.com/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrngo.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605124332id_/http%3A//www.lrngo.com/contact/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for LRNGO.com Users
 
@@ -25,6 +25,8 @@ We require this information to understand your needs and provide you with a bett
 **Security**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+However, while we make reasonable efforts to prevent third party, non-affiliate access to personally identifiable information, all data transmission over the Internet is not 100% secure, and information disclosed online can potentially be collected and used, illegally or otherwise, by those other than the intended recipients. In view of the foregoing, we cannot guarantee or warrant that your personally identifiable information will not be disclosed to or accessed by parties other than those authorized under this Privacy Policy.
 
 **How we use cookies**
 
