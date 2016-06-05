@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trvlclick.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609004807id_/http%3A//www.travelclick.com/en/privacy_policy%3Fformat%3Dsimple) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trvlclick.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605203246id_/http%3A//www.travelclick.com/en/privacy_policy%3Fformat%3Dsimple) for the most accurate reproduction.*
 
 # Privacy Policy
 
