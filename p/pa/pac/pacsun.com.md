@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pacsun.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202040122id_/http%3A//www.pacsun.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacsun.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605210547id_/http%3A//www.pacsun.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # PacSun's Privacy Policy
 
 Privacy Policy
 
-(Last updated October 30, 2014)
+(Last updated February 4, 2016)
 
 PLEASE READ THIS PRIVACY POLICY BEFORE USING THE PACSUN SERVICES.
 
@@ -26,7 +26,7 @@ This policy replaces all previous disclosures we may have provided you about our
 
 ## INFORMATION WE RECEIVE ABOUT YOU
 
-We receive information about you when you visit and/or use our Services, including certain personal information about you and certain non-personal information about you. In some cases, we may request that you provide some of the information identified below in order to obtain access certain services that we provide. If you choose not to provide the information we request, you may be unable to access these Services. Our affiliates or certain other third parties also receive certain information about you when you when you use or access the PacSun Services, including the information described below. 
+We receive information about you when you visit and/or use our Services, including certain personal information about you and certain non-personal information about you. In some cases, we may request that you provide some of the information identified below in order to obtain access certain services that we provide. If you choose not to provide the information we request, you may be unable to access these Services. Our affiliates or certain other third parties also receive certain information about you when you when you use or access the PacSun Services, including the information described below.
 
 We receive certain information about you when you visit and/or use our Services, including personal information, which is information that can be used to personally identify you. This information may be obtained directly by PacSun or through any of its third party partners, and includes but is not limited to your first name, last name, birthdate, gender, billing address(es), shipping address(es), e-mail address(es), telephone number(s), payment information (including but not limited to credit card, debit card, gift card, rewards program, or coupon code information), location information (including but not limited to continent, providers, country, region, zip code, city, store vicinity, and others), order and purchase history, search queries, product and service preferences, account preferences, status, and information (including but not limited to username(s), password(s), and settings, and others), contact lists, and others.
 
@@ -34,17 +34,17 @@ We also automatically collect certain non-personal information about your visit 
 
 For the purposes of this Privacy Policy, aggregated and anonymized personal information is considered non-personal information. If we do combine non-personal information with personal information, the combined information will be treated as personal information for so long as it remains combined.
 
-## HOW WE USE YOUR THE INFORMATION WE RECEIVE
+## HOW WE USE THE INFORMATION WE RECEIVE ABOUT YOU
 
 We use and store the information that we receive about you, including your personal information, to necessary to conduct our business and to provide you and other users with the best possible products and services. As some examples, we use and store your information to fulfill orders, to provide you with suggestions and information in which you may be interested (including but not limited to offers related to your purchases through the Services and/or in-store), to measure or understand effectiveness of advertisements you and others see (including but not limited to serving you targeted advertisements), to protect the integrity and operation the Services, and for internal operations, including troubleshooting, data analysis, testing, research and service improvement.
 
-To conduct our business and to best serve you, we may share or provide access to your information, including your personal information, with certain third parties, including but not limited to service providers that provide support services to us or that help us market our products and services. We will not share your personal information with third parties unless we have received your permission, given you notice (such as telling you about it in this Privacy Policy, or removed your name and any other personally identifying information from it.
+To conduct our business and to best serve you, we may share or provide access to your information, including your personal information, with certain third parties, including but not limited to service providers that provide support services to us or that help us market our products and services. Except as otherwise provided in this Privacy Policy, we will not share your personal information with third parties unless we have received your permission, given you notice (such as telling you about it in this Privacy Policy, or removed your name and any other personally identifying information from it.
 
 We may collect, use, transfer, and disclose non-personal information for any purpose, including but not limited to providing it to third parties for marketing, advertising, analytics, or other uses.
 
-We may also, in certain instances, disclose your information, including your personal information, when we have reason to believe that it is necessary to identify you, contact you, or bring legal action to protect your safety or rights or the safety or rights of PacSun or others. We may also disclose your information, including your personal information, when you ask us to do so or when we believe it is required by law.
+We may also, in certain instances, disclose your information, including your personal information, when we have reason to believe that it is necessary to identify you, contact you, or bring legal action to protect your safety or rights or the safety or rights of PacSun or others. We may also disclose your information, including your personal information, when you ask us to do so or when we believe it is required by law or as otherwise provided in this Privacy Policy.
 
-If PacSun is sold to or merges with another company, or declares bankruptcy, some or all of the information collected from you may be transferred to a third party as a result of the transfer of assets. This may include personal information.
+If PacSun is sold to or merges with another company, or declares bankruptcy, some or all of the information collected from you may be transferred to a third party as a result of the transfer of assets, subject only to agreement by the acquirer that the information will be subject to the same or substantially similar privacy protections as those established by this Privacy Policy, and without any requirement of a consumer privacy ombudsman. This may include personal information.
 
 We store your information for as long as is necessary to conduct our business and to provide the best possible products and services to you, including for the uses described above.
 
@@ -82,9 +82,9 @@ To enter a given sweepstakes or contest, you may need to provide certain informa
 
 Cookies are data files saved to your computer's hard drive when you visit a site. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available.
 
-We use session and persistent cookies, either directly or through a third party partner, as well as along other tracking technologies (including but not limited to pixel tags and web beacons) to collect information about you in order to conduct our business and to provide you with the best possible services and products. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. 
+We use session and persistent cookies, either directly or through a third party partner, as well as along other tracking technologies (including but not limited to pixel tags and web beacons) to collect information about you in order to conduct our business and to provide you with the best possible services and products. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly.
 
-We may also use cookies and other tracking technologies to provide you with enhanced online display advertising tailored to your interests. 
+We may also use cookies and other tracking technologies to provide you with enhanced online display advertising tailored to your interests.
 
 We treat information collected by cookies and other technologies as non-personal information. However, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
 
@@ -92,7 +92,7 @@ We treat information collected by cookies and other technologies as non-personal
 
 PacSun relies on third-party vendors and service providers to provide support and assistance for our Services and products. We may share your personal information with such third parties in order to help us conduct our business and to provide you with the best possible products and services. We may contract with various third-party service providers in furtherance of this goal, including but not limited to payment processors, website hosting partners, banks, cookie providers, and others. We also work with third party advertising, marketing and analytics partners to serve ads on this or other sites, using information collected through the use of industry standard technologies such as cookies and pixel tags. These third parties may receive information about you over time and across different websites when you use or visit the PacSun Services.
 
-We will not share your personal information with third parties unless we have received your permission, given you notice (such as telling you about it in this Privacy Policy, or removed your name and any other personally identifying information from it. Where we share your personal information with service providers or any other third parties who perform services on our behalf, they will be contractually restricted from using your information in any manner other than in helping us conduct our business and to provide you with the best possible products and services.
+Except as otherwise provided in this Privacy Policy, we will not share your personal information with third parties unless we have received your permission, given you notice (such as telling you about it in this Privacy Policy, or removed your name and any other personally identifying information from it. Where we share your personal information with service providers or any other third parties who perform services on our behalf, except as otherwise provided herein, they will be contractually restricted from using your information in any manner other than in helping us conduct our business and to provide you with the best possible products and services.
 
 We may collect, use, transfer, and disclose non-personal information for any purpose, including providing it to other parties for marketing, advertising, or other uses.
 
@@ -118,7 +118,7 @@ We offer several ways for you to update your information that is obtained and st
 
 
 
-Please note that due to email production schedules you may receive any emails already in production. We may also maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+Please note that due to email production schedules, you may receive emails that are already in production. We may also maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
 ## CONTACT US 
 
