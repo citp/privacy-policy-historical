@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sermonindex.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206030119id_/http%3A//www.sermonindex.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermonindex.net privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605025332id_/http%3A//www.sermonindex.net/privacypolicy.php) for the most accurate reproduction.*
 
 # SermonIndex.net Privacy Policy - Sermon Index
 
@@ -59,7 +59,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 Greg Gordon  
-PO Box 16021 Sumas Mountain PO  
+PO BOX 16142  
 Abbotsford, BC, V3G OC6  
 Canada  
 sermonindex@gmail.com
