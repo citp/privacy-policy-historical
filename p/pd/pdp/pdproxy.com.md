@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdproxy.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206120148id_/http%3A//www.pdproxy.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdproxy.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605234539id_/http%3A//www.pdproxy.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
