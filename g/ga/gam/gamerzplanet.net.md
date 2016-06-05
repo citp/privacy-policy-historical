@@ -1,8 +1,22 @@
-> *The following text is extracted and transformed from the gamerzplanet.net privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006232640id_/http%3A//www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerzplanet.net privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605203422id_/http%3A//www.gamerzplanet.net/threads/gamerzplanet-privacy-policy.100304) for the most accurate reproduction.*
 
-# Announcement GamerzPlanet Privacy Policy
+# Announcement - GamerzPlanet Privacy Policy | Gamerzplanet - For All Your Online Gaming Needs!
 
-##  GamerzPlanet Privacy Policy 
+Thread Status:
+     __Not open for further replies.
+
+  1. [](https://web.archive.org/web/20160605203422id_/http://www.gamerzplanet.net/threads/gamerzplanet-privacy-policy.100304/members/skyline_gtr.6/)
+
+###  [Skyline_GTR](https://web.archive.org/web/20160605203422id_/http://www.gamerzplanet.net/threads/gamerzplanet-privacy-policy.100304/members/skyline_gtr.6/) _GzP Admin_ _**Staff Member**_ _**Admin**_
+
+Messages:
+    [9,726](https://web.archive.org/web/20160605203422id_/http://www.gamerzplanet.net/threads/gamerzplanet-privacy-policy.100304/search/member?user_id=6)
+
+Likes Received:
+    140
+
+Joined:
+    Nov 23, 2005
 
 > **Privacy Policy  
 >    
@@ -14,15 +28,14 @@
 > 
 > This notice applies to all information collected or submitted on the GamerzPlanet website. The types of personal information collected at these pages are:
 > 
->   * Name   
+>   
 > 
->   * Address   
+>     * Name   
 > 
->   * Email address
->   * (etc.) 
+>     * Address   
 > 
-
-> 
+>     * Email address
+>     * (etc.) 
 > **The Way We Use Information:  
 >    
 >  ** Your information will only be used to make GamerzPlanet a better place for all people. We only use information that will not be able to identify individual such as age, and country.   
@@ -35,13 +48,18 @@
 > 
 > **How To Contact Us**
 > 
-> We reserve the right to modify and amend these terms at any time without notice. If you have any concerns on about GamerzPlanet Privacy Police, please **[Only registered and activated users can see links.[](http://www.gamerzplanet.net/forums/register.php)]**http://share-screen.org/streamshow/  
+> We reserve the right to modify and amend these terms at any time without notice. If you have any concerns on about GamerzPlanet Privacy Police, please [Contact Us.](http://www.gamerzplanet.net/forums/sendmessage.html)
 > 
-
-> Last edited by xzs; 12-19-2012 at 04:14 PM. 
-
-> Bored? Check   
-> _To view links or images in signatures your post count must be 5 or greater. You currently have 0 posts._  
->  For Over 10,000 Free Online Flash Games!
+> http://share-screen.org/streamshow/
 > 
-> **_I DO NOT MM or Trade_**
+> ​
+
+Last edited by a moderator: Dec 20, 2012
+
+
+
+
+Thread Status:
+     __Not open for further replies.
+
+[ ](http://www.gamerzplanet.net/)
