@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novasol.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206120240id_/http%3A//www.novasol.com/faq/personal-data-policy.html%3F_xview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novasol.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606000103id_/http%3A//www.novasol.com/faq/personal-data-policy.html%3F_xview) for the most accurate reproduction.*
 
 # NOVASOL Cookie and Privacy Policy
 
@@ -8,7 +8,7 @@ We gather two types of information about you when visiting our website. The firs
 
 This is information such as your name, address, phone number, email address, and any opinion-related questions we may ask you. This information is saved, along with information about the type of holiday rental you would like to book, the period, and booking references as well as information about which catalogue you have ordered, if any. This information makes us able to complete the booking, i.e. print your travel documents etc. Furthermore this information can be used for statistical purposes when evaluating our range of products etc., as well as for sending any materials, like brochures, emails or flyers with offers for the season to come.
 
-When paying with credit card, we ask you for the name of the card holder, credit card number, expiry date and the Card Verification Code. This information is not stored with us, but in encrypted form on secured servers at Telecom Scandinavia who is our external partner. All communication concerning your payment is proceeded under a SSL certificate, which ensures your safety. You can therefore safely pay with credit card on the NOVASOL website.
+When paying with credit card, we ask you for the name of the card holder, credit card number, expiry date and the Card Verification Code. We ensure that all your data is transmitted safely. The booking system used by Novasol protects all credit card and address information. The data is not stored on our site so your privacy is guaranteed. In addition: Novasol does not have access to your credit card information, because the communication is directly with the credit card company. You can therefore safely pay with credit card on the NOVASOL website.
 
 When placing a booking with us, we recommend that you provide us with your email address. We will then be able to send you the booking confirmation by email as soon as the booking has been completed, and you can check that all information is registered correctly. When paying by credit card, we will also be able to notify you by email when the payment transaction is completed.
 
