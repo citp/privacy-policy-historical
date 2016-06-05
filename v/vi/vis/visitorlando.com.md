@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitorlando.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206115750id_/http%3A//www.visitorlando.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitorlando.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606003818id_/http%3A//www.visitorlando.com/privacy-policy) for the most accurate reproduction.*
 
 # Visit Orlando Privacy Policy | VisitOrlando.com
 
@@ -124,5 +124,3 @@ Orlando, FL 32821
 privacy@VisitOrlando.com
 
 Any concerns brought to our attention will be promptly investigated, and you will be notified of the outcome of the investigation.
-
-© 2015 Visit Orlando.   All rights reserved.
