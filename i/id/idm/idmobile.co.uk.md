@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idmobile.co.uk privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115104414id_/http%3A//www.idmobile.co.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idmobile.co.uk privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605123059id_/http%3A//www.idmobile.co.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
 
 # iD - Privacy and Cookies
 
