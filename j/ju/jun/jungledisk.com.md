@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jungledisk.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907033815id_/https%3A//jungledisk.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jungledisk.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605231859id_/http%3A//www.jungledisk.com/privacy) for the most accurate reproduction.*
 
-# JungleDisk.com
-
-This Privacy Policy explains Jungle Disk LLC's policy regarding the collection and protection of data supplied by users or collected from users of the Jungle Disk websites and the online backup and storage services.
+# Jungle Disk Privacy Policy
 
 ### How Jungle Disk Uses Your Information
 
@@ -30,7 +28,9 @@ This Privacy Policy explains Jungle Disk LLC's policy regarding the collection a
 
   * Jungle Disk uses cookies and other technologies to collect non-personal data that enables us to better understand and improve the usability, performance and effectiveness of our service.
   * Cookies are unique text files sent to your browser and stored on your computer. Disabling the use of cookies may affect your ability to use some features of our service.
-  * Jungle Disk also collects general information about visits to our websites. This information includes parameters such as the number of visits and browser details. No personal details are present in this data and it is utilized for the sole purpose of better understanding website usage to improve customer experiences.
+  * Jungle Disk also collects general information about visits to our websites. This information includes parameters such as the number of visits and browser details. No personally identifiable information is present in this data and it is utilized for the sole purpose of better understanding website usage to improve customer experiences.
+  * Jungle Disk also makes use of Google Analytics Advertising features, including remarketing. Advertising cookies and related collected data is utilized to better understand the prospective customers visiting the website and to present display ads to those visitors via Google's display ad network.
+  * If you wish to opt-out of this type of passive data collection, you may ultilize Google's opt-out browser plugin: <https://tools.google.com/dlpage/gaoptout/>
 
 
 
@@ -62,15 +62,23 @@ This Privacy Policy explains Jungle Disk LLC's policy regarding the collection a
 **Email:**[ privacy@jungledisk.com](mailto:privacy@jungledisk.com)  
 **Mail:**  
 Attn: Privacy Policy  
-Jungle Disk  
-5000 Walzem Road  
-San Antonio, TX 78218-2117  
-
+Jungle Disk   
+110 E Houston St.   
+ste. 209   
+San Antonio, TX 78205 
 
 
 
 ### Revisions to this Policy
 
   * Jungle Disk reserves the right in our sole discretion to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification of this policy will be posted on the Jungle Disk websites, and a user's continued use of the service will signify agreement to such changes.
+
+
+
+### Terms Of Service
+
+  * Jungle Disk also maintains an end-user Terms of Service agreement that can be reviewed here: [Jungle Disk Terms of Service](https://web.archive.org/docs/TOS_010616.pdf)
+  * Other Related Documents:
+    * [Jungle Disk Reseller Terms of Service Addendum](https://web.archive.org/docs/SAR_010616.pdf)
 
 
