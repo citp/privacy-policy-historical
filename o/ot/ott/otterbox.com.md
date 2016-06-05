@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the otterbox.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226173141id_/http%3A//www.otterbox.com/en-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otterbox.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605190013id_/http%3A//www.otterbox.com/en-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | OtterBox
+# OtterBox | OtterBox
 
 This privacy policy applies to otterbox.com, operated by Otter Products, LLC (“Otter,” “Us,” or We”). This privacy policy describes how Otter collects and uses the personal information you provide on our website: otterbox.com. It also describes the choices available to you regarding our use of your personal information, and how you can access and update this information. 
 
