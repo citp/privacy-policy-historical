@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencast.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222180834id_/http%3A//www.screencast.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencast.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605192712id_/http%3A//www.screencast.com/privacy.aspx) for the most accurate reproduction.*
 
 # TechSmith | Screencast.com, online video sharing, Privacy Policy
 
@@ -42,7 +42,7 @@ We may use a variety of methods, including "cookies" to collect information.
 
 #### What is a cookie? 
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](https://web.archive.org/web/20151222180834id_/http%3A//www.screencast.com/www.allaboutcookies.org).
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](https://web.archive.org/web/20160605192712id_/http%3A//www.screencast.com/www.allaboutcookies.org).
 
 Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that advertisements you see online are more relevant to you and your interests.
 
@@ -82,7 +82,7 @@ You may opt out of the DoubleClick cookie by visiting the [Google advertising op
 
 Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), and Restrictions.
 
-You may view a list of other third party service providers who collect information, and/or opt-out of such collection of information about you, by visiting [www.networkadvertising.org/choices/](https://web.archive.org/web/20151222180834id_/http%3A//www.screencast.com/www.networkadvertising.org/choices/) or [www.aboutads.info/choices/](https://web.archive.org/web/20151222180834id_/http%3A//www.screencast.com/www.aboutads.info/choices/).
+You may view a list of other third party service providers who collect information, and/or opt-out of such collection of information about you, by visiting [www.networkadvertising.org/choices/](https://web.archive.org/web/20160605192712id_/http%3A//www.screencast.com/www.networkadvertising.org/choices/) or [www.aboutads.info/choices/](https://web.archive.org/web/20160605192712id_/http%3A//www.screencast.com/www.aboutads.info/choices/).
 
 ## 2\. How We Use Information
 
