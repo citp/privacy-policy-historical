@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the universetoday.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206002118id_/http%3A//www.universetoday.com/28582/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universetoday.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605160104id_/http%3A//www.universetoday.com/28582/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Universe Today
 
 Universe Today is run by me, Fraser Cain, and only me, and I’m pretty serious about maintaining your privacy. I don’t like to get spam, and can appreciate that you don’t want to get any either. So, here’s the deal…
 
@@ -22,3 +22,8 @@ Universe Today uses Google as a third-party vendor to serve advertisements on th
 
 **Questions and Comments**  
 If you have any questions or comments about this privacy policy, please don’t hesitate to send me an email at info@universetoday.com
+
+**By[Fraser Cain](http://www.universetoday.com/author/admin/ "Posts by Fraser Cain")**  \-   [__](https://twitter.com/fcain)  [__](https://www.facebook.com/fraser.cain)  [__](https://plus.google.com/110701307803962595019/)  [__](https://www.linkedin.com/in/frasercain)  [__](https://www.youtube.com/user/universetoday)   
+[Fraser Cain](https://plus.google.com/110701307803962595019/) is the publisher of [Universe Today](http://www.universetoday.com/). He's also the co-host of [Astronomy Cast](http://www.astronomycast.com/) with Dr. Pamela Gay. 
+
+* * *
