@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playcodemonkey.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502175957id_/http%3A//www.playcodemonkey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playcodemonkey.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605045809id_/https%3A//www.playcodemonkey.com/privacy) for the most accurate reproduction.*
 
 # CodeMonkey
 
@@ -61,17 +61,82 @@ This policy shall be construed in accordance with and governed for all purposes 
 
 If you have any question about our privacy policy, please contact us via privacy@cm-studios.com 
 
-How old are you? 
+### TEACHER
 
-Sign up with e-mail. We'll send you a link for choosing a password: 
+Classroom management, tracking and lesson plans. It's free to sign up!
 
-or 
+### STUDENT
 
-[](https://web.archive.org/users/auth/google_oauth2)   
+Join your classmates in the fun coding adventure
+
+### HOME USER
+
+Start your coding adventure, learn to code and save the world
+
+Complete your registration by filling you school's information 
+
+NEXT 
+
+An activation email was sent to your email address  ({{ emailAddress }})   
+Click on the activation link in the email to continue. 
+
+The group code is a combination of numbers and letters, that will be given to you by your teacher. Using the group code will ensure you can view your classmates' progress and share challenges with them. 
+
+YES, I HAVE A GROUP CODE 
+
+NO, I DON'T HAVE A GROUP CODE 
+
+  
 
 
-I have read and agree to the [terms of service](https://web.archive.org/terms) and the [privacy policy](https://web.archive.org/privacy). 
+Unfortunately this option is disabled for your age group.   
+Please ask a parent or a guardian to sign up using their personal information.  Please let your teacher know, they will know what to do. 
 
-This option is disabled for your age group ([privacy policy](https://web.archive.org/privacy)). Please ask a parent or a guardian to sign you up with their personal information. 
+Thank you for signing up.   
+The backpack is ready and the bananas are waiting!   
+So what do you want to do next? 
 
-CLOSE 
+[ START PLAYING ](https://web.archive.org/first) [ GO TO CLASS MANAGEMENT ](https://web.archive.org/groups)
+
+Next time you want to play, use this information to keep playing from where you left off. 
+
+Username:  {{ userInfo.username }}
+
+Password:  {{ userInfo.password }} {{ showAsPassword(userInfo.password) }}
+
+Show
+
+Click to download a copy
+
+Thank you for signing up.   
+The backpack is ready and the bananas are waiting!   
+So what do you want to do next? 
+
+Thank you for signing up.   
+We sent you a confirmation email to ({{ emailAddress }}), please click on the link to confirm your email address. 
+
+[ GET CODIN'! ](https://web.archive.org/first)
+
+ENTER YOUR EMAIL ADDRESS AND WE WILL SEND YOU A LINK TO CHANGE YOUR PASSWORD 
+
+HELP ME! 
+
+PLEASE CHECK YOUR MAILBOX TO RESET YOUR PASSWORD 
+
+PLEASE CONTACT YOUR TEACHER TO RETRIEVE  
+OR CHANGE YOUR PASSWORD 
+
+No worries! [Contact us](https://web.archive.org/about#contact) and we will help you get back on CodeMonkey 
+
+ENTER YOUR EMAIL ADDRESS AND WE WILL SEND YOU ANOTHER CONFIRMATION MESSAGE 
+
+SEND 
+
+Just a moment... 
+
+You must confirm your email address  ({{ confirmation.email }})  before you can continue.   
+Please check you inbox and click on the confirmation link. If it's not there, it might be in the spam folder. 
+
+Send confirmation email again 
+
+{{ inlineErrors }} 
