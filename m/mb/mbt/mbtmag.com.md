@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mbtmag.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615024605id_/http%3A//www.mbtmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtmag.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605145115id_/http%3A//www.mbtmag.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Manufacturing Business Technology
 
 Last updated: January 25, 2013
 
