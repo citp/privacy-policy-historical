@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dolforums.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206155527id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolforums.com.au privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605225817id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
 
 # DogzOnline: Showcasing Australia's Pure Bred Dogs
 
 These terms and conditions apply to the use of the following web sites 
 
-  * [www.dogzonline.com.au](http://www.dogzonline.com.au/)
-  * [www.dogzonline.co.nz](http://www.dogzonline.co.nz/)
+  * [www.dogzonline.com.au](https://www.dogzonline.com.au/)
+  * [www.dogzonline.co.nz](https://www.dogzonline.co.nz/)
   * [www.dolforums.com.au](http://www.dolforums.com.au/)
 
 
@@ -27,7 +27,7 @@ We do use cookies to store information about visitors preferences, record user-s
 **DoubleClick DART Cookie**  
 \- Google, as a third party vendor, uses cookies to serve ads on our sites.  
 \- Google's use of the DART cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/policies/technologies/ads/>  
+\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <https://www.google.com/policies/technologies/ads/>  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
 \- Google Adsense  
 \- Amazon
