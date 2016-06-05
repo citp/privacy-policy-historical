@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getridofthings.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113147id_/http%3A//www.getridofthings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getridofthings.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605234745id_/http%3A//www.getridofthings.com/privacy) for the most accurate reproduction.*
 
 # Privacy - GETRIDOFTHINGS.com
 
