@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrepono.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206012528id_/http%3A//myrepono.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrepono.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605192448id_/http%3A//myrepono.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - myRepono - Website backup service
 
