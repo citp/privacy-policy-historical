@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtostudykorean.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114144id_/http%3A//www.howtostudykorean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtostudykorean.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001106id_/http%3A//www.howtostudykorean.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | How to study Korean
 
