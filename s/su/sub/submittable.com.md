@@ -1,65 +1,115 @@
-> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219152337id_/http%3A//www.submittable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605213710id_/http%3A//www.submittable.com/privacy) for the most accurate reproduction.*
 
 # Submission Manager powered by Submittable: accept and manage content, applications, contest entries and resumes
 
-  
+Effective March 2016 
 
+This privacy statement describes how We collect and use the personal information you provide on the Site. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-  * We don’t and won't ever share your personal information or data with anyone.
-  * We only access your information if it's necessary for fixing a problem or making the software work better.
+##  Collection and Use of Personal Information 
 
-  
+We collect the following personal information from you: 
 
-
-## Long Version
-
-  
-
-
-## Your privacy is critically important to us. At Submittable we have a few fundamental principles:
-
-  * We don’t ask you for personal information unless we truly need it. 
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
-  * In all our products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
+  * Contact Information such as name, email address, mailing address, phone number 
+  * Billing Information such as credit card number, and billing address 
+  * Unique Identifiers such as user name, account number, password, Facebook UID 
+  * Preferences Information such as action history, marketing preferences 
 
 
 
-If you have questions about deleting or correcting your personal data please contact our [support team](http://help.submittable.com/).
+We may also collect the following information from you: 
 
-Submittable Inc. ("Submittable") operates several websites including [submittable.com](http://www.submittable.com/) and [manager.submittable.com](http://manager.submittable.com/). It is Submittable’s policy to respect your privacy regarding any information we may collect while operating our websites or web services.
+  * Demographic information such as age, education, gender, interests and zip code. 
+  * Location information such as street address, city, state, phone number 
 
-### Website Visitors
 
-Like most website operators, Submittable collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Submittable’s purpose in collecting non-personally identifying information is to better understand how Submittable’s visitors use its website. From time to time, Submittable may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.  
-Submittable also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on WordPress.com blogs. Submittable only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left. 
 
-### Gathering of Personally-Identifying Information
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We use this information to: 
 
-Certain visitors to Submittable’s websites choose to interact with Submittable in ways that require Submittable to gather personally-identifying information. The amount and type of information that Submittable gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a Submission Manager at [Submittable.com](http://www.submittable.com/) to provide a username and email address. Those who engage in transactions within Submittable – by entering a contest run by a publisher using our Submission Manager product, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Submittable collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Submittable. Submittable does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+  * Fulfill your account / order 
+  * Send you an order confirmation 
+  * Assess the needs of your business to determine suitable products 
+  * Send you requested product or service information 
+  * Send product updates or warranty information 
+  * Respond to customer service requests 
+  * Administer your account 
+  * Send you a newsletter 
+  * Send you marketing communications 
+  * Respond to your questions and concerns 
+  * Improve our Web site and marketing efforts 
+  * Conduct research and analysis 
+  * Display content based upon your interests and location 
+  * Facilitate your transactions with other users 
 
-### Aggregated Statistics
 
-Submittable may collect statistics about the behavior of visitors to its websites. For instance, Submittable may monitor bandwidth usage and file-size in order to support and maintain our services. Submittable may display this aggregated information publicly or provide it to others in order to show if we’re having a technical issue that affects all or any other customers. However, Submittable does not disclose personally-identifying information other than as described below.
 
-### Protection of Certain Personally-Identifying Information
+##  Choice/Opt-Out 
 
-Submittable discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations, that (i) need to know that information in order to process it on Submittable’s behalf or to provide services available at Submittable’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Submittable’s websites, you consent to the transfer of such information to them. Submittable will not rent or sell potentially personally-identifying and personally-identifying information to anyone. An example of an affiliated organization we use in the service is SendGrid. They run all the emails that go through our platform. Other than to its employees, contractors and affiliated organizations, as described above, Submittable discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Submittable believes in good faith that disclosure is reasonably necessary to protect the property or rights of Submittable, third parties or the public at large. If you are a publisher or organization using our Submission or Resume Managers, Submittable may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Submittable and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Submittable takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in those emails or you can contact us by writing or email us at the address below. 
 
-### Cookies
+##  Information Sharing 
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Submittable uses cookies to help Submittable identify and track visitors, their usage of Submittable's website, and their website access preferences. Submittable visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Submittable’s websites, with the drawback that certain features of Submittable’s websites may not function properly without the aid of cookies.
+We will share your personal information with third parties only in the ways that are described in this privacy statement. 
 
-### Business Transfers
+We may use and disclose your Personal Information as follows: 
 
-If Submittable, or substantially all of its assets were acquired, or in the unlikely event that Submittable goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Submittable may continue to use your personal information as set forth in this policy.
+  1. To promote use of our Services.  For example, if you leave your Personal Information when you visit our Website and don’t sign up for any of the Services, we may send you an email asking if you want to sign up. And if you use any of our Services and we think you might benefit from using another Service, we may send you an email about it. You can stop receiving our promotional emails by following the unsubscribe instructions included in every email we send. 
+  2. To send you informational and promotional content that you may choose (or “opt in”) to receive.  You can stop receiving our promotional emails by following the unsubscribe instructions included in every email. 
+  3. To bill and collect money owed to us.  This includes sending you emails, invoices, receipts, notices of delinquency, and alerting you if we need a different credit card number. We use third parties for secure credit card transaction processing, and we send billing information to those third parties to process your orders and credit card payments. To learn more about the steps we take to safeguard that data, see Section 12 below. 
+  4. To send you System Alert Messages.  For example, we may let you know about temporary or permanent changes to our Services, like planned outages, new features, version updates, releases, abuse warnings, and changes to our Privacy Policy. 
+  5. To communicate with you about your account and provide customer support. 
+  6. To enforce compliance with our Terms of Use and applicable law.  This may include developing tools and algorithms that help us prevent violations. 
+  7. To protect the rights and safety of our Members and third parties, as well as our own. 
+  8. To meet legal requirements  like complying with court orders, valid discovery requests, valid subpoenas, and other appropriate legal mechanisms. 
+  9. To provide information to representatives and advisors,  like attorneys and accountants, to help us comply with legal, accounting, or security requirements. 
+  10. To prosecute and defend a court, arbitration, or similar legal proceeding. 
+  11. To provide, support, and improve the Services we offer.  This includes aggregating information from your use of the Services and sharing such Aggregated Information with third parties. 
+  12. To provide suggestions to you.  This includes adding features that compare Members’ email campaigns, or using data to suggest other publishers your Subscribers may be interested in. 
+  13. To transfer your information  in the case of a sale, merger, consolidation, liquidation, reorganization, or acquisition. In that event, any acquirer will be subject to our obligations under this Privacy Policy, including your rights to access and choice. We’ll notify you of the change either by sending you an email or posting a notice on our Website. 
 
-### Ads
 
-Ads appearing on our Free version of the software may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Submittable and does not cover the use of cookies by any advertisers.
 
-### Privacy Policy Changes
+##  Cookies and Other Tracking Technologies 
 
-Although most changes are likely to be minor, Submittable may change its Privacy Policy from time to time, and in Submittable’s sole discretion. Submittable encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Submittable.com account, you should also check your account for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. 
 
-**Finally** , we are very grateful to the people at [Automattic](http://automattic.com/) for helping shape this Privacy Policy.
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site. 
+
+##  Web Beacons 
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. 
+
+Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used. 
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used. 
+
+##  Links to Other Web Sites 
+
+Our Site includes links to other Web sites whose privacy practices may differ from ours. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+##  Security 
+
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. 
+
+If you have any questions about security on our Web site, you can contact us by writing or email us at the address below. 
+
+##  Correcting and Updating Your Personal Information 
+
+To review and update your personal information to ensure it is accurate, contact us by writing or email us at the address below. 
+
+##  Notification of Privacy Statement Changes 
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we may notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site or your Account prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+##  Contact Information 
+
+You can contact us about these terms of use and privacy policy by writing or emailing us at: 
+
+Submittable Holdings, Inc.   
+111 N. Higgins Ave, 3rd Floor   
+Missoula, Montana, United States 59802   
+Email: info@submittable.com 
+
+Upgrade your submissions process today [ START YOUR FREE TRIAL ](https://web.archive.org/Pricing)
