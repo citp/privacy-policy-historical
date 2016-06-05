@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likestool.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206115506id_/http%3A//www.likestool.com/index.php%3Fr%3Dsite/textPage%26page%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likestool.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606002841id_/http%3A//www.likestool.com/index.php%3Fr%3Dsite/textPage%26page%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
