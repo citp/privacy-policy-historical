@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loverugbyleague.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214205207id_/http%3A//www.loverugbyleague.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loverugbyleague.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605130132id_/http%3A//www.loverugbyleague.com/privacy-policy) for the most accurate reproduction.*
 
 # Love Rugby League | Live Rugby League Scores | Rugby Leagueï¿½Fixtures
 
@@ -48,7 +48,7 @@ Cookies
 
 Will my data be shared with third-parties?
 
-\- At present, there are no plans to share data with third parties. However, if this situation is to arise, all users will be informed prior to a decision being made and their feedback and permission will be sought
+\- Third party advertisers collect non-personal information via cookies / web beacon.
 
 \- An opt-in option is included within your user profile which tells us whether you permit us to share your data with third parties
 
