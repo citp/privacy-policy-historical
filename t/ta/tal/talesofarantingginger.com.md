@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the talesofarantingginger.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930203203id_/http%3A//www.talesofarantingginger.com/giveaway-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talesofarantingginger.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605213636id_/http%3A//www.talesofarantingginger.com/giveaway-policy) for the most accurate reproduction.*
 
 # Privacy, disclosure & Giveaway Policy - Tales of a Ranting Ginger
 
-Thank you for entering a giveaway on **Tales of a Ranting Ginger**. Giveaways are a great way for companies to help promote a product or campaign. All opinions expressed are honest and of my own. Any information taken from a second source is quoted or referenced  
-**  
-**  
+Thank you for entering a giveaway on **Tales of a Ranting Ginger**. Giveaways are a great way for companies to help promote a product or campaign. All opinions expressed are honest and of my own. Any information taken from a second source is quoted or referenced. As a Canadian mom blogger I try my best to always keep my readers I mind when accepting giveaways. So most often they are open to Canada 
+
 **Rules** – Giveaways hosted here are most always open to Canada. Whenever possible they are open to both Canada and USA. If the brands requests, Quebec will be excluded due to laws for that province on prizes over $100
 
 All mandatory entries **MUST** be completed correctly before additional entries are counted. If you do not complete the mandatory entry your additional entries will be deleted.
