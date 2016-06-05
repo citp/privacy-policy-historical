@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickrewards.net privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226063507id_/http%3A//www4.quickrewards.net/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickrewards.net privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605025305id_/http%3A//www.quickrewards.net/policy/privacy.html) for the most accurate reproduction.*
 
 # QuickRewards Network
 
