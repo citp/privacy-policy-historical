@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mugshotmuseum.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001742id_/http%3A//www.thisistrue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugshotmuseum.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605153038id_/http%3A//www.thisistrue.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy, Security, & eCommerce Policies: Randy Cassingham's Weird News
 
