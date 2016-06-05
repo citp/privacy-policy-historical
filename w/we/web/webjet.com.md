@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webjet.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206101957id_/http%3A//www.webjet.com/Webjet/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjet.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606002939id_/https%3A//www.webjet.com/webjet/privacy) for the most accurate reproduction.*
 
-# Privacy and Security Information
+# Privacy Policy - Webjet.com - Cheap Flight Deals and Discount Airline Tickets. Search Flights and Book Airfare at Webjet
 
 Privacy Policy effective and last updated on December 12, 2013.  
 
@@ -90,4 +90,4 @@ The Website contains travel-related content and is specifically aimed at and des
 
 This Policy may change from time to time. If we make material changes to this Policy, we will post any Policy changes on this page. If we feel it appropriate, we will provide a more prominent notice (including, for certain services, email notification). Your continued use of the Website following such posts or notices will signal your acceptance of such changes.
 
-If you have any additional questions or concerns about this Policy, please feel free to contact us at 1888 9 932 538, Webjet Marketing North America, LLC., 215 N Howard Ave., Suite 202,  Tampa, Florida, 33606, United States, or email us at [travel@webjet.com](mailto:travel@webjet.com) **.**
+If you have any additional questions or concerns about this Policy, please feel free to contact us at 1888 9 932 538, Webjet Marketing North America, LLC., 215 N Howard Ave., Suite 202,  Tampa, Florida, 33606, United States, or email us at 
