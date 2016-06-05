@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the embedded.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629083922id_/http%3A//ubmcanon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embedded.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605190838id_/http%3A//ubmcanon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · UBM Canon
+# Privacy Policy · UBM
 
 Effective: November 22, 2013
 
