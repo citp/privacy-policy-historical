@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rankwyz.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331023308id_/http%3A//www.rankwyz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankwyz.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605034338id_/http%3A//www.rankwyz.com/app/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | RankWyz
+# RankWyz Privacy Policy
 
 This privacy policy sets out how RankWyz uses and protects any information that you give RankWyz when you use this website.
 
