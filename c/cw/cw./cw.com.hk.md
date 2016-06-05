@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020033756id_/http%3A//edm.enterpriseinnovation.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605024953id_/http%3A//www.questex.asia/privacy-policy-statement) for the most accurate reproduction.*
 
-# Privacy Policy | Questex Asia
+# Privacy Policy Statement | Questex Asia | Digital Media | Events | Business Information | Content Marketing & Media
 
 We take individual privacy seriously. This privacy policy tells you how we use personal information collected at our websites. Please read this privacy policy before using the site or submitting any personal information. By using Questex websites, you are accepting the practices described in this privacy policy. This Statement explains our policies and practices.
 
   * to implement computer, physical and procedural safeguards to protect the security and confidentiality of the personal data we collect
   * to limit the personal data collected to the minimum required to provide a better service
-  * to permit only properly trained, authorized employees to access personal data 
+  * to permit only properly trained, authorized employees to access personal data
 
 
 
@@ -14,9 +14,9 @@ These practices may be changed, but any changes will be posted and changes will 
 
 ## Information Collection
 
-In order to provide a better service to you, we may collect information when you register with us, use our services, attend our functions, or communicate with us. 
+In order to provide a better service to you, we may collect information when you register with us, use our services, attend our functions, or communicate with us.
 
-We collect information and maintain a database about Hong Kong and overseas companies. In the process, we also collect personal information about individual contact persons of the companies or their employees (referrals). The types of data we may collect include but are not limited to name, employer, job title, phone number, email address and mailing address. 
+We collect information and maintain a database about Hong Kong and overseas companies. In the process, we also collect personal information about individual contact persons of the companies or their employees (referrals). The types of data we may collect include but are not limited to name, employer, job title, phone number, email address and mailing address.
 
 If specific information is requested but not supplied, we may be unable to provide the requested service. We only retain personal data for so long as it is necessary.
 
@@ -54,7 +54,8 @@ Questex Asia Ltd. (Questex websites) is an Information Technology-related servic
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-Questex Asia Ltd.  
+Questex Asia Ltd.
+
 13/ F., 88 Hing Fat Street, Causeway Bay, Hong Kong
 
 Customer service telephone number: +852 2589 1313
