@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ralphlauren.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114650id_/http%3A//www.ralphlauren.co.uk/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy%23policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ralphlauren.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001805id_/http%3A//www.ralphlauren.co.uk/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy%23policies) for the most accurate reproduction.*
 
 # Help Desk
 
@@ -176,9 +176,11 @@ Please refer to the in-store Privacy Notice in each local store.
 
 ## SAFE HARBOR PRIVACY POLICY
 
-Last Modified: March 6, 2015
+Last Modified: April 7, 2016
 
 We at Ralph Lauren Corporation and its US affiliate, Club Monaco US, LLC, (collectively "Ralph Lauren") respect your concerns about privacy and value the relationship we have with you. Ralph Lauren has certified that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of Personal Information (as defined below) transferred to the United States from the EEA and Switzerland. This Policy outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Information that we collect online and offline. 
+
+While the Safe Harbor framework is no longer considered a valid data transfer mechanism in the EEA, Ralph Lauren continues to comply with the relevant principles of the Safe Harbor. We continue to implement other data transfer mechanisms consistent with these principles and applicable law.
 
 For purposes of this Policy:
 
@@ -208,7 +210,7 @@ Ralph Lauren's practices regarding the collection, storage, transfer, use and ot
 
 We notify our Customers and Workers located in the EEA and Switzerland about the purposes for which we collect and use Personal Information, the types of third parties to which we disclose the information (for example, service providers that process Personal Information on our behalf), certain privacy rights of our Customers and Workers (such as the right to access Personal Information and the choice for limiting the use and disclosure of the information), and how to contact us about our practices concerning Personal Information.
 
-Job applicants who submit Personal Information through our careers site may view our [Careers Privacy Policy ](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers) for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by [clicking here](https://web.archive.org/web/20151206114650id_/http%3A//www.ralphlauren.co.uk/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies).
+Job applicants who submit Personal Information through our careers site may view our [Careers Privacy Policy ](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers) for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by [clicking here](https://web.archive.org/web/20160606001805id_/http%3A//www.ralphlauren.co.uk/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies).
 
 ### Purpose of Collection and Use of Personal Information
 
