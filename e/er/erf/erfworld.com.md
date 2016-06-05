@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the erfworld.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211094812id_/http%3A//www.erfworld.com/erf_stream/privacy_view) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erfworld.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605103412id_/http%3A//www.erfworld.com/erf_stream/privacy_view) for the most accurate reproduction.*
 
 # Privacy Policy : Erfworld
-
-  * [About](https://web.archive.org/erf_stream/about_view)
-  * [Comic](https://web.archive.org/erf_stream/books)
-  * [Forums](http://forums.erfworld.com/)
-  * [Wiki](http://wiki.erfworld.com/)
-  * [Store](http://store.erfworld.com/)
-  * [Trophy Hall](http://forums.erfworld.com/trophy_hall)
-  * [Order of the Stick](http://www.giantitp.com/)
-  * [RSS](https://web.archive.org/erf_stream/view?view=rss)
-  * [Contact Us](https://web.archive.org/mod/contactform/index.php)
-
-
 
 Erfworld's Privacy Policy: 
 
