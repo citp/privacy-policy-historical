@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fedena.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206102118id_/http%3A//www.fedena.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedena.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605190836id_/http%3A//www.fedena.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# School Management Information System | Privacy Policy - Fedena Pro
 
 This Privacy Policy governs the manner in which Foradian collects, uses, maintains and discloses information collected from users (each, a "User") of the www.fedena.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Foradian.
 
@@ -63,6 +63,6 @@ JK Landmark, 2nd Floor, 27th Main,
 Sector 1, HSR Layout, Bangalore,  
 560102, Karnataka, India  
 +91-7829001801  
-[info@fedena.com](https://web.archive.org/web/20151206102118id_/http%3A//www.fedena.com/info@fedena.com)
+[info@fedena.com](mailto:info@fedena.com)
 
 This document was last updated on March 14, 2013
