@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jambojet.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035534id_/http%3A//www.jambojet.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambojet.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605130343id_/http%3A//www.jambojet.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Jambojet.com - Privacy Policy
 
