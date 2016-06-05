@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the droidextra.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205213625id_/http%3A//www.droidextra.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droidextra.org privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605155258id_/http%3A//www.droidextra.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Droid Extra
 
