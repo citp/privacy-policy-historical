@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the statisticbrain.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205070730id_/http%3A//www.statisticbrain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statisticbrain.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605225650id_/http%3A//www.statisticbrain.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Statistic Brain
+# Privacy Policy – Statistic Brain
 
 **What information does Statistic Brain collect?  
 **  
