@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jetaudio.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035145id_/http%3A//www.jetaudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetaudio.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605123055id_/http%3A//www.jetaudio.com/privacy) for the most accurate reproduction.*
 
-# JetAudio
+# AutoCapsule
 
 **[ NOTE ]** Many features of this site require Javascript and cookies. You can enable both via your browser's preferences settings.   
  
