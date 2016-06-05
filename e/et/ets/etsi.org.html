@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the etsi.org privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206113321id_/http%3A//www.etsi.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the etsi.org privacy policy that was archived on 2016-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605235131id_/http%3A//www.etsi.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><!--<![endif]--><head>
   <base href="http://www.etsi.org/privacy">
@@ -65,7 +65,7 @@ window.addEvent('domready', function() {
   <link rel="stylesheet" href="/templates/etsidefault/css/layout3.css">
   <link rel="stylesheet" href="/templates/etsidefault/css/vallenato.css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
     <style>
       #logoRotatorPartners, #logoRotatorSupporters, #logoRotatorSponsors {
       width:100%;
@@ -93,7 +93,7 @@ window.addEvent('domready', function() {
   </style>
   <!--[if IE 8 ]> <link href="/custom/ie8fix.css" rel="stylesheet" type="text/css" />  <![endif]-->
  <!--[if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
   <!-- Favicons
   ================================================== -->
@@ -104,7 +104,7 @@ window.addEvent('domready', function() {
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://www.etsi.org/privacy">
     <!-- meta property="og:image" content="" /-->
-	<meta property="og:image" content="/templates/etsidefault/images/main-logo.png">
+  <meta property="og:image" content="/templates/etsidefault/images/main-logo.png">
     <meta property="og:site_name" content="ETSI">
     <meta property="og:description" content="">
   
@@ -113,7 +113,7 @@ window.addEvent('domready', function() {
 (function($){
     $(window).load(function() {
             $('a').filter(function() {
-				return this.href.match(/.*\.(zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|jpe*g|png|gif|tiff|rar*)(\?.*)?$/);
+				return this.href.match(/.*\.(zip|mp3*|mp*g|pdf|doc*|ppt*|xls*|jp*g|png|gif|tiff|rar*)(\?.*)?$/);
             }).click(function(e) {
                 ga('send','event', 'download', 'click', this.href);
             });
@@ -128,7 +128,7 @@ window.addEvent('domready', function() {
                               'www.etsi.org'
                             ];
             $('a[href^="http"]').filter(function() {
-			if (!this.href.match(/.*\.(zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|jpe*g|png|gif|tiff|rar*)(\?.*)?$/)){
+			if (!this.href.match(/.*\.(zip|mp3*|mp*g|pdf|doc*|ppt*|xls*|jp*g|png|gif|tiff|rar*)(\?.*)?$/)){
 				for (var i = 0; i < localURLs.length; i++) {
 					if (this.href.indexOf(localURLs[i]) == -1) return this.href;
 				}
@@ -163,7 +163,7 @@ ga('send', 'pageview');
 <div class="container">
     <div class="sixteen columns">
     <header>
-	<div class="row header-top">
+  <div class="row header-top">
         <div class="four columns alpha logo-frame">
             <a href="/"><img src="/templates/etsihomepage/images/main-logo2.png" alt="ETSI Logo"></a>
         </div>
@@ -192,8 +192,8 @@ ga('send', 'pageview');
 			}
 		});
 		document.id('mod-finder-searchform').addEvent('submit', function(e){
-			if (jQuery('#mod-finder-searchWhat option:selected').text() == "Standards"){
-				window.location = "/standards-search#search=" + document.getElementById("mod-finder-searchword").value;;
+			if (jQuery('#typeOfSearchStandards').is(":checked")){
+				window.location = "/standards-search#search=" + document.getElementById("mod-finder-searchword").value;
 				return false;
 			}
 			e = new Event(e);
@@ -215,13 +215,32 @@ ga('send', 'pageview');
 			var ModCompleter = new Autocompleter.Request.JSON(document.id('mod-finder-searchword'), url, {'postVar': 'q'});
 			});
 //]]>
-</script>			
+</script>	
+<style>
+.mod-finder-typeOfSearch:checked ~ .mod-finder-typeOfSearch-div {
+    background: #007dc3;
+	color:#fff
+}
+.mod-finder-typeOfSearch-div {
+	text-align:center;
+	padding:5px 5px 5px 5px;border:solid 1px; border-color: #e5e5e5; 	
+}
+.mod-finder-typeOfSearch-label {
+    float:left;
+	cursor:pointer;
+	font-weight: normal;
+	font-size: 0.9em;
+}
+.mod-finder-typeOfSearch{
+	position:absolute;
+	left:-100px;
+	opacity: 0.01;
+}
+</style>	
 <form id="mod-finder-searchform" action="/search-results" method="get">
-	<input id="mod-finder-searchword" name="q" type="text" placeholder="Search...">
-                <select title="Select Website or Standards" id="mod-finder-searchWhat">
-                    <option>Website</option>
-                    <option>Standards</option>
-                </select>
+	<input id="mod-finder-searchword" name="q" type="text" placeholder="Search..." class="four columns">
+	<label class="mod-finder-typeOfSearch-label"><input class="mod-finder-typeOfSearch" name="typeOfSearch" type="radio" value="website" checked=""><div class="mod-finder-typeOfSearch-div">Website</div></label>
+	<label class="mod-finder-typeOfSearch-label"><input class="mod-finder-typeOfSearch" name="typeOfSearch" id="typeOfSearchStandards" type="radio" value="standards"><div class="mod-finder-typeOfSearch-div" style="border-right:0">Standards</div></label>
                 <button title="Search" type="submit" class="green-gradient">
                     <i class="fa fa-search"></i>
                 </button> 
@@ -232,12 +251,12 @@ ga('send', 'pageview');
             <div class="sign-up-button"><a id="subscribe-rf" href="#"><i class="fa fa-envelope"></i> <i><strong>Sign up</strong></i> for <strong>ETSI News!</strong></a></div>
         </div>
     </div>
-	<div class="row">
-		<div class="sixteen columns alpha main-navigation">
+  <div class="row">
+    <div class="sixteen columns alpha main-navigation">
 <ul class="menu">
 <li class="item-125 parent"><a href="/standards">Standards</a></li><li class="item-110 parent"><a href="/technologies-clusters">Technologies &amp; Clusters</a></li><li class="item-120 parent"><a href="/membership">Membership</a></li><li class="item-102 parent"><a href="/news-events">News &amp; Events</a></li><li class="item-147"><a href="/committees-portal">Committees &amp; Portal</a></li><li class="item-111 parent"><a href="/about">About us</a></li></ul>
-		</div>
-	</div>
+    </div>
+  </div>
 </header>
     </div>
     <div class="sixteen columns">
@@ -261,7 +280,8 @@ ga('send', 'pageview');
 <div id="system-message-container">
 </div>
                   <!-- eoc1 -->
-                  <!--<div class="eight columns main-content">-->
+                  
+<!--<div class="eight columns main-content">-->
 <!--<div class="twelve columns omega main-content">-->
     <h1>Privacy</h1>
             <p><span style="color: #3b3b39; font-family: Verdana, sans-serif, Helvetica, Arial; line-height: normal;">We treat all your Personal Information as confidential. We keep it on a secure server and we fully comply with all applicable EU Data Protection legislation.</span></p>
@@ -282,7 +302,7 @@ ga('send', 'pageview');
 <div class="footer">  
     <div class="footer-stabalizer">
       <div class="footer-info">
-          <div class="footer-iso"><p>© ETSI 2015, <a href="/iso-certification">ETSI is certified ISO 9001:2008</a></p></div>
+          <div class="footer-iso"><p>© ETSI 2016, <a href="/iso-certification">ETSI is certified ISO 9001:2008</a></p></div>
             <div class="social-media-icons">
               <a class="twitter" href="https://twitter.com/ETSI_STANDARDS" target="_new"><img src="/images/twitter_icon.png" onmouseover="this.src='/images/twitter_icon_blue.png';" onmouseout="this.src='/images/twitter_icon.png'"></a>
               <a class="facebook" href="https://www.facebook.com/etsi.standards" target="_new"><img src="/images/facebook_icon.png" onmouseover="this.src='/images/facebook_icon_blue.png';" onmouseout="this.src='/images/facebook_icon.png'"></a>
@@ -294,35 +314,200 @@ ga('send', 'pageview');
         </div>
 <div class="footer-links">
     <ul>
-        <li><a title="Standards" href="/standards">Standards</a></li><li><a title="Technologies &amp; Clusters" href="/technologies-clusters">Technologies &amp; Clusters</a></li><li><a title="Membership" href="/membership">Membership</a></li><li><a title="News and Events" href="/news-events">News and Events</a></li><li><a title="Committees &amp; Portal" href="/2012-08-02-09-16-54" target="_blank">Committees &amp; Portal</a></li><li><a title="About us" href="/about">About us</a></li><li><a title="Contact us" href="/contact-us-footer">Contact us</a></li>    </ul>
+        <li><a title="Standards" href="/standards">Standards</a></li><li><a title="Technologies &amp; Clusters" href="/technologies-clusters">Technologies &amp; Clusters</a></li><li><a title="Membership" href="/membership">Membership</a></li><li><a title="News and Events" href="/news-events">News and Events</a></li><li><a title="Committees &amp; Portal" href="/2012-08-02-09-16-54" target="_blank">Committees &amp; Portal</a></li><li><a title="About us" href="/about">About us</a></li><li><a title="Contact us" href="/contact-us">Contact us</a></li>    </ul>
 </div>
 <div class="footer-links">
     <ul>
-        <li><a title="Home" href="/">Home</a></li><li><a title="Vacancies" href="/vacancies">Vacancies</a></li><li><a title="Privacy (current) (active)" href="/privacy" privacy="" (active)="">Privacy</a></li><li><a title="Terms of Use" href="/terms-of-use">Terms of Use</a></li><li><a title="Site Map" href="/site-map">Site Map</a></li><li><a title="Accessibility" href="/accessibility">Accessibility</a></li><li><a title="Website change log" href="/website-change-log">Website change log</a></li>    </ul>
+        <li><a title="Home" href="/">Home</a></li><li><a title="Vacancies &amp; STF calls for expertise" href="/vacancies">Vacancies &amp; STF calls for expertise</a></li><li><a title="Privacy (current) (active)" href="/privacy" privacy="" (active)="">Privacy</a></li><li><a title="Terms of Use" href="/terms-of-use">Terms of Use</a></li><li><a title="Site Map" href="/site-map">Site Map</a></li><li><a title="Accessibility" href="/accessibility">Accessibility</a></li><li><a title="Website change log" href="/website-change-log">Website change log</a></li>    </ul>
 </div>
     </div>
 </div>
   </footer><div id="mod-div"></div>
-  <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+  <script src="//code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
   <script type="text/javascript" src="/templates/etsidefault/js/CollapsibleLists.compressed.js"></script>
   <script type="text/javascript">
-                    jQuery(document).ready(function($){
+         jQuery(document).ready(function($){
                         jQuery('#subscribe-rf').click(function(){
                             //var url = $(this).attr('href');
                             showDialog('/custom/registerSelection.html');
                             return false;
                         });
-						jQuery("#mod-div").dialog({ 
-						   autoOpen: false,
-						   height: 450,
-						   width: 500,
-						   modal: true
-						});
-						function showDialog(url){ 
-							jQuery("#mod-div").load(url);
-							jQuery("#mod-div").dialog("open");         
-						}                
-                    });
+            jQuery("#mod-div").dialog({ 
+               autoOpen: false,
+               height: 450,
+               width: 500,
+               modal: true
+            });
+            function showDialog(url){ 
+              jQuery("#mod-div").load(url);
+              jQuery("#mod-div").dialog("open");         
+            }                
+        });
+    //video tracking
+(function($) {
+  vimeoGAJS = {
+    iframes : [],
+    gaTracker : undefined,
+    eventMarker : {},
+    init: function () {
+      vimeoGAJS.iframes = $('iframe');
+      $.each(vimeoGAJS.iframes, function (index, iframe) {
+        var iframeId = $(iframe).attr('id');
+        vimeoGAJS.eventMarker[iframeId] = {
+          'progress25' : false,
+          'progress50' : false,
+          'progress75' : false,
+          'videoPlayed' : false,
+          'videoPaused' : false,
+          'videoResumed' : false,
+          'videoSeeking' : false,
+          'videoCompleted' : false,
+          'timePercentComplete' : 0
+        };
+      });
+      // Check which version of Google Analytics is used
+      if (typeof ga === "function") {
+        vimeoGAJS.gaTracker = 'ua'; // Universal Analytics (universal.js)
+        //console.info('Universal Analytics');
+      }
+      if (typeof _gaq !== "undefined" && typeof _gaq.push === "function") {
+        vimeoGAJS.gaTracker = 'ga'; // Classic Analytics (ga.js)
+        //console.info('Classic Analytics');
+      }
+      if (typeof dataLayer !== "undefined" && typeof dataLayer.push === "function") {
+        vimeoGAJS.gaTracker = 'gtm'; // Google Tag Manager (dataLayer)
+        //console.info('Google Tag Manager');
+      }
+      // Listen for messages from the player
+      if (window.addEventListener) {
+        window.addEventListener('message', vimeoGAJS.onMessageReceived, false);
+      } else {
+        window.attachEvent('onmessage', vimeoGAJS.onMessageReceived, false);
+      }
+    },
+    // Handle messages received from the player
+    onMessageReceived: function(e) {
+      if (e.origin.replace('https:', 'http:') !== "http://player.vimeo.com" || typeof vimeoGAJS.gaTracker === 'undefined') {
+        //console.warn('Tracker is missing!');
+        return;
+      }
+      var data = JSON.parse(e.data),
+          iframeEl = $("#"+data.player_id),
+          iframeId = iframeEl.attr('id');
+      switch (data.event) {
+      case 'ready':
+        vimeoGAJS.onReady();
+        break;
+      case 'playProgress':
+        vimeoGAJS.onPlayProgress(data.data, iframeEl);
+        break;
+      case 'seek':
+        if (iframeEl.data('seek') && !vimeoGAJS.eventMarker[iframeId].videoSeeking) {
+          vimeoGAJS.sendEvent(iframeEl, 'Skipped video forward or backward');
+          vimeoGAJS.eventMarker[iframeId].videoSeeking = true; // Avoid subsequent seek trackings
+        }
+        break;
+      case 'play':
+        if (!vimeoGAJS.eventMarker[iframeId].videoPlayed) {
+          vimeoGAJS.sendEvent(iframeEl, 'Started video');
+          vimeoGAJS.eventMarker[iframeId].videoPlayed = true; // Avoid subsequent play trackings
+        } else if (!vimeoGAJS.eventMarker[iframeId].videoResumed && vimeoGAJS.eventMarker[iframeId].videoPaused) {
+          vimeoGAJS.sendEvent(iframeEl, 'Resumed video');
+          vimeoGAJS.eventMarker[iframeId].videoResumed = true; // Avoid subsequent resume trackings
+        }
+        break;
+      case 'pause':
+        vimeoGAJS.onPause(iframeEl);
+        break;
+      case 'finish':
+        if (!vimeoGAJS.eventMarker[iframeId].videoCompleted) {
+          vimeoGAJS.sendEvent(iframeEl, 'Completed video');
+          vimeoGAJS.eventMarker[iframeId].videoCompleted = true; // Avoid subsequent finish trackings
+        }
+        break;
+      }
+    },
+    getLabel : function(iframeEl) {
+      var iframeSrc = iframeEl.attr('src').split('?')[0];
+      var label = iframeSrc;
+      if (iframeEl.data('title')) {
+        label += ' (' + iframeEl.data('title') + ')';
+      } else if (iframeEl.attr('title')) {
+        label += ' (' + iframeEl.attr('title') + ')';
+      }
+      return label;
+    },
+    // Helper function for sending a message to the player
+    post : function (action, value, iframe) {
+      var data = {
+        method: action
+      };
+      if (value) {
+        data.value = value;
+      }
+      // Source URL
+      var iframeSrc = $(iframe).attr('src').split('?')[0];
+      iframe.contentWindow.postMessage(JSON.stringify(data), iframeSrc);
+    },
+    onReady :function() {
+      $.each(vimeoGAJS.iframes, function(index, iframe) {
+        vimeoGAJS.post('addEventListener', 'play', iframe);
+        vimeoGAJS.post('addEventListener', 'seek', iframe);
+        vimeoGAJS.post('addEventListener', 'pause', iframe);
+        vimeoGAJS.post('addEventListener', 'finish', iframe);
+        vimeoGAJS.post('addEventListener', 'playProgress', iframe);
+      });
+    },
+    onPause: function(iframeEl) {
+      var iframeId = iframeEl.attr('id');
+      if (vimeoGAJS.eventMarker[iframeId].timePercentComplete < 99 && !vimeoGAJS.eventMarker[iframeId].videoPaused) {
+        vimeoGAJS.sendEvent(iframeEl, 'Paused video');
+        vimeoGAJS.eventMarker[iframeId].videoPaused = true; // Avoid subsequent pause trackings
+      }
+    },
+    // Tracking video progress
+    onPlayProgress: function(data, iframeEl) {
+      var progress,
+          iframeId = iframeEl.attr('id');
+      vimeoGAJS.eventMarker[iframeId].timePercentComplete = Math.round((data.percent) * 100); // Round to a whole number
+      if (!iframeEl.data('progress')) {
+        return;
+      }
+      if (vimeoGAJS.eventMarker[iframeId].timePercentComplete > 24 && !vimeoGAJS.eventMarker[iframeId].progress25) {
+        progress = 'Played video: 25%';
+        vimeoGAJS.eventMarker[iframeId].progress25 = true;
+      }
+      if (vimeoGAJS.eventMarker[iframeId].timePercentComplete > 49 && !vimeoGAJS.eventMarker[iframeId].progress50) {
+        progress = 'Played video: 50%';
+        vimeoGAJS.eventMarker[iframeId].progress50 = true;
+      }
+      if (vimeoGAJS.eventMarker[iframeId].timePercentComplete > 74 && !vimeoGAJS.eventMarker[iframeId].progress75) {
+        progress = 'Played video: 75%';
+        vimeoGAJS.eventMarker[iframeId].progress75 = true;
+      }
+      if (progress) {
+        vimeoGAJS.sendEvent(iframeEl, progress);
+      }
+    },
+    // Send event to Classic Analytics, Universal Analytics or Google Tag Manager
+    sendEvent: function (iframeEl, action) {
+      var bounce = iframeEl.data('bounce');
+      var label = vimeoGAJS.getLabel(iframeEl);
+      switch (vimeoGAJS.gaTracker) {
+      case 'gtm':
+        dataLayer.push({'event': 'Vimeo', 'eventCategory': 'Vimeo', 'eventAction': action, 'eventLabel': label, 'eventValue': undefined, 'eventNonInteraction': (bounce) ? false : true });
+        break;
+      case 'ua':
+        ga('send', 'event', 'Vimeo', action, label, undefined, {'nonInteraction': (bounce) ? 0 : 1});
+        break;
+      case 'ga':
+        _gaq.push(['_trackEvent', 'Vimeo', action, label, undefined, (bounce) ? false : true]);
+        break;
+      }
+    }
+  };
+  vimeoGAJS.init();
+})(jQuery);
     </script>
-	<script type="text/javascript" src="/templates/etsihomepage/js/placeholder.min.js"></script>
-</body></html>
+  <script type="text/javascript" src="/templates/etsihomepage/js/placeholder.min.js"></script>
+  </body></html>
