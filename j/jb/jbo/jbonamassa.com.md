@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbonamassa.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113549id_/http%3A//jbonamassa.com/about-joe/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbonamassa.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606000254id_/http%3A//jbonamassa.com/about-joe/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy : Joe Bonamassa
 
@@ -26,7 +26,7 @@ We use Google AdWords conversion tracking to measure our ad performance on some 
 You may opt out of any future contacts from us at any time. You can do the following at any time by clicking the unsubscribe link provided in any of our email contacts to you. Once you unsubscribe from one of our lists, you automatically unsubscribe from all other lists, regardless of when and where you provided your email.  
 You have a right at any time to request the following:
 
-> \- See what data we have about you, if any.  
+> – See what data we have about you, if any.  
 >  – Change/correct any data we have about you.  
 >  – Have us delete any data we have about you.  
 >  – Express any concern you have about our use of your data.
