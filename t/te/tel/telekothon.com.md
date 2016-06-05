@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telekothon.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121064704id_/http%3A//www.telekothon.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telekothon.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605073949id_/http%3A//www.telekothon.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | telekothon telekothon.com
 
