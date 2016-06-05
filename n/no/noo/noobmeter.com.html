@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the noobmeter.com privacy policy that was archived on 2015-09-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910051710id_/http%3A//www.noobmeter.com/privacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the noobmeter.com privacy policy that was archived on 2016-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605064312id_/http%3A//www.noobmeter.com/privacyPolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title> - privacy policy</title>
@@ -12,52 +12,128 @@
 <link rel="apple-touch-icon" href="/static/images/favicons/57px.png" sizes="57x57">
 <link rel="icon" href="/static/images/favicons/128px.png" sizes="128x128" type="image/png">
 
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/js/application.js?r881"></script>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/aquant.js?a=p-80xBzMhbKolFI" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/static/js/application.js?r881"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 <script type="text/javascript" src="/static/js/lib/jquery.metadata.js"></script>
 <script type="text/javascript" src="/static/js/lib/jquery.tablesorter.min.js"></script>
 
-<script id="ad-provider-MonkeyBroker" src="//d3pkae9owd2lcf.cloudfront.net/mb105.gz.js"></script>
-    
-<script>
-    var ads_prepare = [
-        {id: 'top-bar', type: 'leaderboard'},
-        {id: 'middle-bar', type: 'leaderboardBTF'},
-        {id: 'bottom-bar', type: 'leaderboardBTF2'},
-        {id: 'bottom-row', type: 'fixedFooter'}
-    ];
-</script>
-
 <script>
 	var currentUserName = "";
 </script>
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-33601440-1', 'auto');
+  ga('send', 'pageview');
 
-<script src="//cdn.zamimg.com/zaf/1.5.x/zaf.min.js"></script>
-<script src="/static/js/ad_framework/zam-site.js"></script>
+</script><script id="ad-provider-MonkeyBroker" src="//d3pkae9owd2lcf.cloudfront.net/mb105.gz.js"></script>
+<script type="text/javascript">
+    function getMBChannel() {
+        var channel = 'Other';
+        var uri = window.location.pathname;
+        if (uri.indexOf('/adtest') == 0) channel = 'Test';
+        else if (uri == '/') channel = 'Home';
+        return channel;
+    }
+    if (typeof MonkeyBroker === "undefined")
+    {
+        // The MonkeyBroker script was blocked - user is running some form of Ad Block
+        // Record a Google Analytics event documenting that ads were blocked in this pageview
+        ga("send", "event", "AdFillMonkeyBroker", "Ad Blocked", { nonInteraction: true });
+    }
+    else {
+        MonkeyBroker.site = {
+            "id": 1721,
+            "customDomainName": "mb.zam.com",
+            "reportBadAd": true,
+            "reportBadAdText": "Report ad",
+            "lightboxCallback": function (url, adElement) {
+                if (adElement) {
+                    if (typeof element === 'object' && element.parentNode) {
+                        var parent = element.parentNode;
+                        parent.removeChild(element);
+                    }
+                }
+                var reportFrame = document.createElement('iframe');
+                reportFrame.src = url;
+                reportFrame.height = reportFrame.width = 0;
+                document.getElementsByTagName('body')[0].appendChild(reportFrame);
+
+                alert('Thank you for the feedback, we will look in to it!');
+            }
+        };
+
+        function AdsRenderSkin(skin) {
+            var target = document.getElementById('skin-wrap');
+            if (target) {
+                target.innerHTML = '';
+            } else {
+                target = document.body;
+            }
+
+            // Add class to the body to show the page is skinned
+            if (document.body.className.indexOf('skinned') == -1) {
+                if (document.body.className) document.body.className += ' ' + 'skinned';
+                else document.body.className = 'skinned';
+            }
+
+            // Add links
+            var linkClassPrefix = 'skin-link-';
+            var i = 0;
+            while (i++ < 1) {
+                var a = target.insertBefore(
+                        document.createElement('a'),
+                        target.firstChild
+                );
+                a.className = linkClassPrefix + i;
+                a.target = '_blank';
+                a.href = skin.link;
+                a.style.backgroundImage = 'url(' + skin.image + ')';
+            }
+            if (skin.impressionTracking) {
+                var img = target.insertBefore(
+                        document.createElement('img'),
+                        target.firstChild
+                );
+                img.className = 'skin-pixel';
+                img.src = skin.impressionTracking;
+            }
+            //AdsRenderSkin({link: 'http://blah.com', image: 'http://d3itok1fp4ei4.cloudfront.net/uploads/banner/creative_file/45896/csgoutpostv5.jpg'})
+        }
+
+        MonkeyBroker.addAttribute("mb_pc", getMBChannel());
+        MonkeyBroker.addAttribute("mb_ri", 90);
+
+        if (window.innerWidth >= 1300) {
+            MonkeyBroker.addSlot({slot: 'horizontal-ad', sizes: ["970x90", "970x250", "728x90"]});
+            MonkeyBroker.addSlot({slot: 'horizontal-ad-btf', sizes: [38, 37, 22]});
+            MonkeyBroker.addSlot({slot: 'horizontal-ad-btf2', sizes: [22, 37, 38, "Unstacked 300x250"]});
+            MonkeyBroker.addSlot({slot: 'skin', sizes: [30], dataTag: true});
+        }
+        else
+            MonkeyBroker.addSlot({slot: 'horizontal-ad', sizes: ["970x90", "970x250", "728x90"]});
+        MonkeyBroker.addSlot({slot: 'horizontal-ad-btf', sizes: [38, 37, 22]});
+        MonkeyBroker.addSlot({slot: 'horizontal-ad-btf2', sizes: [22, 37, 38, "Unstacked 300x250"]});
+
+        MonkeyBroker.registerSizeCallback(30, AdsRenderSkin);
+        MonkeyBroker.go();
+    }
+
+</script>
 
 <link rel="stylesheet" type="text/css" href="/static/style/ad_framework/zam.css">
 <script type="text/javascript" src="https://www.google.com/jsapi"></script> <!-- for charts -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 
 <meta name="keywords" content="wot,wotlabs,world of tanks,world of warplanes,tanks,planes,warplanes,rating,efficiency,tracker,stats,statistics,eu,na,sea,ru,坦克世界,вот,рейтинг,рейтинг ффективности,калькулятор,WN7"> 
-<meta name="description" content="NoobMeter is a World of Tanks and World of Warplanes game statistics site that calculates efficiency, performance, WN7 ratings and tracks player WoT and WoWP stats. It has player and clan graphs and comparison, replay upload and signatures.">
+<meta name="description" content="NoobMeter is a World of Tanks and World of Warplanes game statistics site that calculates efficiency, performance, WN7 ratings and tracks player WoT stats. It has player and clan graphs and comparison, replay upload and signatures.">
 
 
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-33601440-1']);
-  _gaq.push(['_setDomainName', 'noobmeter.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script></head>
+</head>
 <body>
+	<div id="skin-wrap"></div>
 	<script type="text/javascript">
 		var decimalSeparator = "";
 		var groupingSeparator = "";
@@ -118,7 +194,7 @@
 <form action="/Header.action" method="get"><div>
     Server&nbsp;
 	
-   	<select name="serverId"></select><input id="stripes-1970360953" name="name" type="text"><script type="text/javascript">setTimeout(function(){try{var z=document.getElementById('stripes-1970360953');z.focus();z.select();}catch(e){}},1);</script>&nbsp;
+   	<select name="serverId"></select><input id="stripes--1003069404" name="name" type="text"><script type="text/javascript">setTimeout(function(){try{var z=document.getElementById('stripes--1003069404');z.focus();z.select();}catch(e){}},1);</script>&nbsp;
 	
 	Find or compare&nbsp;
 	
@@ -146,14 +222,12 @@
 	
 	</tbody></table>
 	
-<div style="display: none;"><input type="hidden" name="_sourcePage" value="M6yx7eU9SfioshWc1W-nzbq5qAV3TAQV"><input type="hidden" name="__fp" value="5OggpOI9E4LIrY5qkteHww=="></div></form></div>
+<div style="display: none;"><input type="hidden" name="_sourcePage" value="aU2I8Nn7JPvmtDIVhi70aVw1iKKYXOg7"><input type="hidden" name="__fp" value="c0aSSJVm0KC0aiTvDHMitQ=="></div></form></div>
 
 <div></div>
 
-<div>
-    <div id="top-bar">
-        <script>Ads.create('leaderboard', 'top-bar');</script>
-    </div>
+<div class="horizontalAdTop" id="horizontal-ad">
+    <script>MonkeyBroker.fillSlot('horizontal-ad');</script>
 </div><div class="pageContent">
 		<h1>Privacy policy</h1>
 	
@@ -209,30 +283,27 @@
 		<a style="color: #AAA;" href="/privacyPolicy.jsp">Privacy policy</a>
 	</div>
 
-	<!-- Quantcast Tag -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
+	<!--  Quantcast Tag -->
+<script>
+    qcdata = {} || qcdata;
+    (function(){
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-80xBzMhbKolFI";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem,scpt);
+    }());
 
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
 
-_qevents.push({
-qacct:"p-80xBzMhbKolFI"
-});
+    var qcdata = {qacct: 'p-80xBzMhbKolFI',
+        labels: ''
+    };
 </script>
-
 <noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-80xBzMhbKolFI.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
+    <img src="//pixel.quantserve.com/pixel/p-80xBzMhbKolFI.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
-<!-- End Quantcast tag --><script>
+<!-- End Quantcast Tag --><script>
   var _comscore = _comscore || [];
   _comscore.push({ c1: "2", c2: "6036197" });
   (function() {
@@ -244,10 +315,11 @@ qacct:"p-80xBzMhbKolFI"
 <noscript>
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=6036197&cv=2.0&cj=1" />
 </noscript>
-<div id="bottom-row">
-    	<script>Ads.create('fixedFooter', 'bottom-row');</script>
+<div>
+		<div id="skin-bg">
+			<script>MonkeyBroker.fillSlot('skin');</script>
+		</div>
 	</div>
-	<script>Ads.layoutComplete();</script>
 	
 
 </body></html>
