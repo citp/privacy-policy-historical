@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the listrak.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108071914id_/http%3A//www.listrak.com/privacy-and-terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listrak.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605055942id_/http%3A//www.listrak.com/privacy-and-terms/privacy.aspx) for the most accurate reproduction.*
 
 # Listrak's Privacy Policy | Listrak
 
-#### Effective Date: 04/13/2015
+#### Effective Date: 12/10/2015
 
 We respect and are committed to protecting your privacy. The following discloses the information gathering and dissemination practices of Listrak, LLC (which is referred to as "Listrak", "we", "our", or "us") on our website www.listrak.com and the Listrak Services Platform ("Services") associated with the site. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. Please note that this policy in no way supersedes, replaces, or otherwise relates to the privacy policies of our clients. The use of information collected through our Service shall be limited to the purpose of providing the Service for which our clients have engaged Listrak. We have created this privacy policy so that you can understand the care with which we intend to treat your personal information.
 
