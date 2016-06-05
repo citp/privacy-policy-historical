@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213122818id_/http%3A//www.interflora.co.uk/content/help-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605235735id_/http%3A//www.interflora.co.uk/content/help-privacy-policy) for the most accurate reproduction.*
 
 # Interflora Help - Privacy Policy
 
@@ -78,7 +78,7 @@ You have the ability to accept or decline cookies by modifying the settings in y
 
 We are currently developing the ability for you to select which cookies you are happy for us to use during your time on our site and hope to have this available soon. The cookies we use on our site are as follows: 
 
-  | Quantity  
+| Quantity  
 ---|---  
 Cookies essential for placing your order | 21  
 Cookies for analytics | 17  
