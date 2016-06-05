@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronics-tutorials.ws privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120075517id_/http%3A//www.electronics-tutorials.ws/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronics-tutorials.ws privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605184021id_/http%3A//www.electronics-tutorials.ws/privacypolicy) for the most accurate reproduction.*
 
 # Basic Electronics Tutorials - Website Privacy Policy
 
@@ -8,48 +8,51 @@ This website is privately owned and operated by Wayne Storr. The website Electro
 
 Any questions, queries or concerns that you may have regarding this privacy policy please contact Wayne Storr our Data Manager at: [wayne@electronics-tutorials.ws](mailto:wayne@electronics-tutorials.ws?subject=User%20Question%20about%20Privacy%20Policy)
 
-## 1\. Information we may collect from you
+### 1\. Information we may collect from you
 
 We may collect, store and use the following kinds of data or personal information from you:
 
-  * a).  Details of your visit to and the use of our Website which may include your IP address, geographical location, referral source, entry and exit pages, length of visit, route taken through our website, resources that you access and other such similar statistical data or information provided to us by Google Analytics.
-  * b).  Information that you provide to us voluntarily for the purpose of registering with our website blog such as your name and email address.
-  * c).  Information that you provide to us voluntarily for the purpose of subscribing to our email and/or newsletter service such as your name and email address.
-  * d).  Any other information that you choose to send us voluntarily.
+a) Details of your visit to and the use of our Website which may include your IP address, geographical location, referral source, entry and exit pages, length of visit, route taken through our website, resources that you access and other such similar statistical data or information provided to us by Google Analytics.
 
+b) Information that you provide to us voluntarily for the purpose of registering with our website blog such as your name and email address.
 
+c) Information that you provide to us voluntarily for the purpose of subscribing to our email and/or newsletter service such as your name and email address.
 
-## 2\. Where we store your personal data
+d) Any other information that you choose to send us voluntarily.
+
+### 2\. Where we store your personal data
 
 The data and information we collect from you is stored on a secure United Kingdom (UK) data centre. By submitting your personal data you agree to this storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. We will take reasonable precautions to prevent the loss, misuse or alteration of your personal information.
 
 Unfortunately the storage and transmission of information over the internet is not completely secure and therefore we can not guarantee the complete security of your data sent to our site. However, we will do our best to ensure that your personal data is protected and will use strict procedures and security features to try to prevent unauthorised access.
 
-## 3\. Use of you personal data
+### 3\. Use of you personal data
 
 We only use your personal information for our own private internal use for the statistical analysis to:
 
-  * a).  Administer the website.
-  * b).  Improve your browsing experience.
-  * c).  Send you emails or information that you have specifically requested.
-  * d).  Deal with enquires or complaints that you have made about this website.
-  * e).  Provide third parties with general statistical information about our website and visitors (but we strongly declare that this information will not be used to identify any single individual user or company)
+a) Administer the website.
 
+b) Improve your browsing experience.
 
+c) Send you emails or information that you have specifically requested.
+
+d) Deal with enquires or complaints that you have made about this website.
+
+e) Provide third parties with general statistical information about our website and visitors (but we strongly declare that this information will not be used to identify any single individual user or company)
 
 If at any stage you do not want us to use your data in any particular way or at all, please contact our Data Manager at: [wayne@electronics-tutorials.ws](mailto:wayne@electronics-tutorials.ws?subject=User%20Question%20about%20Privacy%20Policy)
 
-## 4\. Disclosure of your personal data
+### 4\. Disclosure of your personal data
 
 We will not make your personal information or data available to third parties except:
 
-  * a).  to the extent that we are legally obliged to do so by law.
-  * b).  in connection with any legal proceedings.
-  * c).  or in order to establish, exercise or defend our legal rights.
+a) to the extent that we are legally obliged to do so by law.
 
+b) in connection with any legal proceedings.
 
+c) or in order to establish, exercise or defend our legal rights.
 
-## 5\. Cookies
+### 5\. Cookies
 
 A cookie is a small data file that consists of information sent by a web server to a web browser such as Internet Explorer or Firefox and which is stored by that browser on the computers hard drive. The information stored is sent back to the web server each time the browser requests a tutorial page from the server.
 
@@ -73,7 +76,7 @@ You can find more information about how to do this for the browser you use at:
 
 
 
-## 6\. Third party advertising
+### 6\. Third party advertising
 
 Consumer Notice: My tutorials may contain affiliate links. That means if you buy something from them I may get paid a small affiliate commission. The ads appearing on this Electronics Tutorials website are delivered to you by the Google Adsense program, Amazon Services LLC Associates Program or other similar web advertising partners.
 
@@ -81,21 +84,21 @@ Information about your visit to their advertised sites, such as number of times 
 
 In the course of serving advertisements to this site, our third-party advertisers may place or recognise a unique cookie on your browser.
 
-## 7\. Your Rights
+### 7\. Your Rights
 
 You have the right to instruct us not to process your personal data for marketing or analysis purposes at any time. You can indicate your personal preferences when you submit your personal data or by contacting our Data manager at: [wayne@electronics-tutorials.ws](mailto:wayne@electronics-tutorials.ws?subject=User%20Question%20about%20Privacy%20Policy)
 
 While we respect your rights while using this website, our site contains hyperlinks to external websites. These websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.
 
-## 8\. Access to your Information
+### 8\. Access to your Information
 
 The United Kingdom Data Protection Act 1998 (the “act”) gives you the right to access information we hold about you. Your rights of access can be exercised at any time in accordance with this act. You may ask us to provide you with any personal information we hold subject to the payment of a fee, currently fixed at 10.00 GBP (10 British pounds sterling).
 
-## 9\. Third Party websites
+### 9\. Third Party websites
 
 This website contains hyperlinks to other related websites. We do not accept responsibility for their content, privacy policies or practices of these other websites. However, to the best of our ability we will ensure that the other websites that we link to are relevant to our sites content and visitors experience and that they do not contain adult, drugs or gambling content.
 
-## 10\. Website Disclaimer
+### 10\. Website Disclaimer
 
 The information contained in this website is for general information purposes only. The information is provided by electronics-tutorials.ws, and whilst every effort is made to provide up to date and accurate information, there may be occasional errors, for which we apologise. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 
@@ -105,17 +108,17 @@ Through this website you are able to link to other websites which are not under 
 
 Every effort is made to keep the website up and running smoothly however, electronics-tutorials.ws takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control. For more information or to view our terms and conditions, click [Terms & Conditions](http://www.electronics-tutorials.ws/terms).
 
-## 11\. Policy Amendments
+### 11\. Policy Amendments
 
 Any amendments or updates we may make to this policy will be posted on this page. You should check this page from time to time to ensure that you are happy with any changes that have been made.
 
-## 12\. Contact
+### 12\. Contact
 
 If you have any questions, queries or concerns regarding this privacy policy or our treatment of your personal data, please contact our Data Manager at: [wayne@electronics-tutorials.ws](mailto:wayne@electronics-tutorials.ws?subject=User%20Question%20about%20Privacy%20Policy)
 
   * Thank you and regards.
   * Wayne Storr
   * [webmaster@electronics-tutorials.ws](mailto:webmaster@electronics-tutorials.ws?subject=User%20Question%20about%20Privacy%20Policy)
-  * This **Privacy Policy** was last updated: _27th July 2015_.
+  * This **Privacy Policy** was last updated: _13th April 2016_.
 
 
