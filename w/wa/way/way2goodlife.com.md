@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the way2goodlife.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141601id_/http%3A//www.way2goodlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2goodlife.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605031939id_/http%3A//www.way2goodlife.com/privacy-policy) for the most accurate reproduction.*
 
-# ONLINE PRIVACY POLICY AGREEMENT
+# ONLINE PRIVACY POLICY AGREEMENT - Way 2 Goodlife
 
 _“This policy was crafted by[FormSwift](http://formswift.com/lease-agreement)“_
 
 Way 2 Good Life is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our on-line facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Way 2 Good Life of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
 
-**_THEREFORE_** , this Privacy Policy Agreement shall apply to Way 2 Good Life and thus it shall govern any and all data collection and usage thereof. Through the use of way2goodlife.com you are here in consenting to the following data, procedures expressed within this agreement.
+ ** _THEREFORE_** , this Privacy Policy Agreement shall apply to Way 2 Good Life and thus it shall govern any and all data collection and usage thereof. Through the use of way2goodlife.com you are here in consenting to the following data, procedures expressed within this agreement.
 
 ## Collection of Information
 
@@ -75,6 +75,4 @@ Through the use of this website, you are hereby accepting the terms and conditio
 
 If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
 
-**Email:** [way2goodlife@gmail.com](mailto:way2goodlife@gmail.com)
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.way2goodlife.com%2Fprivacy-policy%2F&media=&description=ONLINE%20PRIVACY%20POLICY%20AGREEMENT)
+ **Email:** [way2goodlife@gmail.com](mailto:way2goodlife@gmail.com)
