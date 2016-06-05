@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playdosgamesonline.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208204635id_/http%3A//playdosgamesonline.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playdosgamesonline.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605060954id_/https%3A//playdosgamesonline.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Play DOS games online
 
@@ -45,3 +45,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
+
+[playdosgames@outlook.com](mailto:playdosgames@outlook.com)
