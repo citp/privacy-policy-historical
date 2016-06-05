@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moolasavingmom.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229001326id_/http%3A//moolasavingmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moolasavingmom.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605064636id_/http%3A//moolasavingmom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Moola Saving Mom
 
 Privacy Policy for www.moolasavingmom.com
 
