@@ -1,55 +1,43 @@
-> *The following text is extracted and transformed from the onlineuniversities.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206030709id_/http%3A//www.onlineuniversities.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineuniversities.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605200006id_/http%3A//www.onlineuniversities.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OnlineUniversities.com
 
-This privacy policy give users insight into OnlineUniversities.com’s information collection, usage, and sharing policies and practices. It is advised that users check it on occasion to remain current with OnlineUniversities.com’s information policies.
+Terms of Use and Privacy Policy for Use of OnlineUniversities.com (Effective February 6, 2016)
 
-### How Your Personal Information is Collected
+Thank you for your interest in OnlineUniversities.com, and for browsing our content and resources. We will go over our terms of use and privacy policy on this page, explaining the conditions in which you may use our website, and the types of data OnlineUniverisities.com collects and how that data is used. 
 
-During your use of OnlineUniversities.com, certain personal information may be collected from you. This can include your contact, computer, and demographic information. Some examples of this information are your:
+Your interaction with OnlineUniversities.com indicates your agreement to the following Terms of Use and Privacy Policy. It also indicates your acknowledgement and agreement that the information gathered on this website may be shared with schools, affiliated companies, and third parties. This will be done to provide you with the materials you have requested, including education-related products and services. In addition, you acknowledge and agree that OnlineUniversities.com retains the right to release any collected information as necessary to businesses providing an administrative service, such as email delivery. This includes the potential release of personally identifiable information.
 
-  * Hobbies
-  * IP address
-  * Mailing address
-  * Name
-  * Operating system
-  * Projected date of graduation
-  * Referring pages
-  * Sex
-  * Telephone number
+When you submit personal information to OnlineUniversities.com, you are granting us (and our affiliated entities, such as schools, third-party marketing partners, and vendors) permission to contact you for a set period of time. Contact methods may include phone calls, text messages, email, and/or postal mail, and will all be done for the purpose of providing information and marketing for education-related products and services. In addition, you give us and our affiliated entities permission to bypass any rights granted by the Do Not Call list or other applicable laws; submitting information on this website omits you from the Do Not Call requirements established by state and federal governments.
 
+We also retain the right to release your personal information when it is a legal mandate. This includes when abiding to a subpoena or other legal procedure, when doing so is necessary to preserve our rights, when exploring alleged fraud, protecting the safety of you and/or others, and/or in the event that OnlineUniversities.com is merging, acquisitioning, or selling some or all of its assets to a third party.
 
+## Our Data Collection
 
-### How Your Personal Information is Used
+OnlineUniversities.com collects two types of data: submitted and automatic information. 
 
-Personal information collected by OnlineUniversities.com is used to:
+Submitted information is voluntarily provided by the user, and may include name, phone number, address, email, and any other information that may be required to match you to a product or service. This is typically submitted through a web-based form, and is collected and stored by OnlineUniversities.com. It is shared with schools and other third parties so that we may provide you with information about schools, programs, and other education-related services. By submitting this information, you authorize OnlineUniversities.com, as well as our affiliated schools and partners, to contact you in accordance with all applicable laws. However, if you receive any email communications from us, a school, or third party, you can unsubscribe through a link in the email. This will remove you from the mailing list of that sender.
 
-  * Advise you in your online college degree program search while making recommendations and identifying schools that may interest you along the way.
-  * Offer you information essential for realizing your life goals and obtaining an accommodating education
-  * Supply you with newsletters, marketing announcements, and requested school information
-  * Provide you with responses to your requests, questions, and concerns
-  * Improve OnlineUniversities.com’s services, website, etc.
-  * Address our business demands
-  * Engage in research activities pertinent to OnlineUniversities.com
+Automatic information is data collected and stored whenever visitors interact with OnlineUniversities.com, and includes (but is not limited to) browser version, operating system version, and IP address. This anonymous information is used to help us to improve the website and create a more tailored user experience. “Cookies” are utilized to collect this automatic data, which is utilized for analytics, site optimization, and for advertising and marketing purposes. 
+
+Cookies are small pieces of data sent from a website and stored in the user’s web browser. These are used for technical purposes, such as web analytics. OnlineUniversities.com’s web analytics are primarily run using Google Analytics. These advertising cookies, which are sometimes referred to as third-party cookies because they track navigation and publish ads on behalf of third parties, do not contain personally identifiable information. They do, however, enable advertisers to make ads more relevant to the user’s interests. For more information about Google Analytics, check [Google’s privacy policy](http://www.google.com/intl/en/analytics/privacyoverview.html).
+
+By using this website, you acknowledge that OnlineUniversities.com uses cookies and consent to our use of cookies. 
+
+Here are some examples of how we may use cookies, including uses through services and partnerships with vendors and third-party service providers:
+
+  * Looking at demographic and other anonymous data for web optimization and other analysis
+  * “Lead auditing” to ensure the accuracy, relevance, and validity of submitted information
+  * Marketing and conversion tracking cookies, used for targeting and optimizing digital ad serving to improve relevance, user experience, and advertising effectiveness
 
 
 
-Additionally, as a user you should understand that in providing personal information to OnlineUniversities.com you are engaging in two legal actions. First, you are inquiring OnlineUniversities.com and thus give it and its affiliates consent to contact you. Second, you are revoking your Do Not Call protection, only in regard to the above mentioned parties; effectively, you are consenting to allow only those said parties to contact you by telephone for a period of time.
+You can remove cookies through your browser settings, but you may need to do this per usage. You can also generally opt out of receiving personalized ads from third-party advertisers and ad networks that are members of the Network Advertising Initiative (NAI) or that follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising. To do so, visit the opt-out pages on the NAI website and DAA websites.
 
-### Your Option to Opt-Out
+## Terms of Use and Privacy Policy Changes Notification
 
-If you do not want to be a participant in our marketing communications, opting-out is simple. Instructions for unsubscribing are included in emails.
+We could possibly revise our Terms of Use and Privacy Policy in the future if we change our practices. To remain current and informed on our policies, we recommend that you revisit this page periodically.
 
-### How We Share Your Personal Information
+If you have any questions or concerns about this Terms of Use and Privacy Policy, please use our contact form.
 
-OnlineUniversities.com will never deviate from the information sharing customs described in this privacy policy, nor will it sell its users’ personal information to third parties who plan to use said information for irrelevant marketing activities.
-
-We may give third party companies your personal information on occasion, but only those which provide us with administrative services and only for our own business purposes; for example, our contracted customer service provider may need some of your contact information to resolve an issue you’ve raised.
-
-With your consent to do so, we may also release your personal information to third parties if we are involved in a merger, acquisition, or sale of any or all of our assets. Such a situation may deem personal information sharing with third parties necessary when legally required and when we, in good faith, consider that doing so will necessarily protect you or another from harm, safeguard the rights of OnlineUniversities.com, as well as allow us to respond to a case of fraud or a government request.
-
-### Contact Information for OnlineUniversities.com
-
-Privacy policy questions or concerns can be answered by sending us a note through our contact form.
-
-Effective on August 18, 2012
+* * *
