@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jblearning.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216081952id_/http%3A//www.jblearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jblearning.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605203415id_/http%3A//www.jblearning.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Jones & Bartlett Learning
 
