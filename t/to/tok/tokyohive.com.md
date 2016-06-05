@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyohive.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908112842id_/http%3A//www.tokyohive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyohive.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606013917id_/http%3A//www.tokyohive.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -31,6 +31,3 @@ A cookie is a string of information that a website stores on a visitor’s compu
 #### Privacy Policy Changes
 
 Although most changes are likely to be minor, tokyohive may change its Privacy Policy from time to time, and at tokyohive’s sole discretion. tokyohive encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-  
-
