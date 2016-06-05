@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206143603id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605035655id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Print File | Archival Supplies | Photo Storage Products - Privacy Policy
 
-[](https://web.archive.org/web/20151206143603id_/http%3A//www.printfile.com/index.aspx)  
+[](https://web.archive.org/web/20160605035655id_/http%3A//www.printfile.com/index.aspx)  
   
 ---  
 |  | 
@@ -48,6 +48,7 @@ Back to top
 
 |   
 | |   
+  
 |   
 ---  
   
@@ -61,6 +62,6 @@ news and offers by email.
 Click to explore our  
 Electronic Catalog
 
-[](http://digital.turn-page.com/i/477784-2015-2016-print-file-catalog)  
+[](http://reader.mediawiremobile.com/PrintFileCatalog/issues/101361/viewer)  
   
-[ ](https://web.archive.org/web/20151206143603id_/index.asp?PageAction=CONTACTUS) 
+[ ](https://web.archive.org/web/20160605035655id_/index.asp?PageAction=CONTACTUS) 
