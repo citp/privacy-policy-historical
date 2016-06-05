@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oempartworld.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408080529id_/http%3A//www.oempartworld.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oempartworld.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605034543id_/http%3A//www.oempartworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Toyota Parts & Accessories Policies: Toyota Part World
 
