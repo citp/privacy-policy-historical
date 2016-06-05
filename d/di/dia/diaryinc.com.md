@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diaryinc.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205012628id_/http%3A//diaryinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diaryinc.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606012405id_/http%3A//www.diaryinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Diary INC
 
@@ -52,6 +52,6 @@ Peshawar, 25000
 
 Pakistan
 
-imbloggers@gmail.com
+**aqil.diaryinc@gmail.com**
 
-ismail@diaryinc.com
+**ismail@diaryinc.com**
