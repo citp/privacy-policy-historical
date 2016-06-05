@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherboardpoint.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207012107id_/http%3A//www.motherboardpoint.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherboardpoint.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606000603id_/http%3A//www.motherboardpoint.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Motherboard Forums
 
