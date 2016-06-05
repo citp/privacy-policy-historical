@@ -1,83 +1,103 @@
-> *The following text is extracted and transformed from the roli.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906130923id_/https%3A//www.roli.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roli.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605113814id_/https%3A//www.roli.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # ROLI
 
-This Privacy Policy governs the manner in which ROLI collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.roli.com website (“Site”). This privacy policy applies to the Site and all products and services offered by ROLI.
+ROLI Ltd. ("we/us/our") are committed to protecting and respecting your privacy.
 
-#### Personal identification information
+This policy (together with our [Website Terms of Use](https://roli.com/legal/website-terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting  [https://www.roli.com](https://www.roli.com/), along with any of its sub-domains, extensions and associated domains (Our Site), and by using any of our products or services you are accepting and consenting to the practices described in this policy. This privacy policy applies to Our Site and any products and services offered by us including the “My ROLI” service and any other software supplied by us.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is ROLI Ltd. of 2 Glebe Road, London E8 4BD. 
 
-#### Non-personal identification information
+## Information we may collect from you
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect and process the following data about you:
 
-#### Web browser cookies
+**Information you give us.** You may give us information about you by filling in forms on Our Site or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you visit or use Our Site, register on Our Site, subscribe to our services, utilise our software applications, place an order on Our Site, subscribe to the newsletter and when you report a problem with Our Site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph.  
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. See our Cookie Policy for further details
+**Information we collect about you.** With regard to each of your visits to Our Site we may automatically collect the following information: 
 
-#### How we use collected information
-
-ROLI may collect and use Users personal information for the following purposes:
-
-  * To improve customer service 
-
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-
-  * To personalize user experience 
-
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-
-  * To improve our Site 
-
-We may use feedback you provide to improve our products and services.
-
-  * To process payments 
-
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-
-  * To run a promotion, contest, survey or other Site feature 
-
-To send Users information they agreed to receive about topics we think will be of interest to them.
-
-  * To send periodic emails 
-
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, session length, browser plug-in types and versions, operating system and platform;
+  * information about your visit and use of our software, including the use of certain features on content on Our Site or in our software; the full Uniform Resource Locators (URL) clickstream to, through and from Our Site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page and software interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
 
 
 
+**Information we receive from other sources.** We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
-#### How we protect your information
+## Cookies
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve Our Site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy (<https://www.roli.com/legal/cookie-policy>).
 
-#### Sharing your personal information
+## Uses made of the Information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys.
+We use information held about you in the following ways:
 
-We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+**Information you give to us.** We will use this information: 
 
-#### Third party websites
+  * to improve customer service and help us respond to your support needs more efficiently. 
+  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
+  * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
+  * to provide you with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer we  will contact you by electronic means only if you have consented to this;
+  * to notify you about changes to our service;
+  * to ensure that content from Our Site is presented in the most effective manner for you and for your computer.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-#### Changes to this privacy policy
 
-ROLI has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**Information we collect about you.** We will use this information: 
 
-#### Your acceptance of these terms
+  * to understand how you use our services and products and further personalise your experience.  
+  * to administer Our Site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+  * to improve Our Site to ensure that content is presented in the most effective manner for you and for your computer; 
+  * to allow you to participate in interactive features of our service, when you choose to do so;
+  * as part of our efforts to keep Our Site safe and secure;
+  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+  * to make suggestions and recommendations to you and other users of Our Site about goods or services that may interest you or them.
 
-By using this Site, you signify your acceptance of this policy, the terms of use and cookie policy . If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-#### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+**Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
-https://www.roli.com  
-ROLI 2 Glebe Road London E8 4BD  
-02072542155  
-contact@roli.com 
+## Disclosure of your Information
 
-This document was last updated on January 31, 2014
+We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-Privacy policy created by Generate Privacy Policy
+We may share your information with selected third parties including:
+
+Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
+
+Analytics and search engine providers that assist us in the improvement and optimisation of Our Site. 
+
+We may disclose your personal information to third parties:
+
+In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+
+If ROLI Ltd. or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms of Use](https://roli.com/legal/website-terms) or [Terms & Conditions of Sale](https://www.roli.com/legal) and other agreements; or to protect the rights, property, or safety of ROLI Ltd., our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+## Where we store your personal data
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"), and in particular the United States. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of Our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to Our Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+## Your rights
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [contact@roli.com](mailto:contact@roli.com).
+
+Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+
+## Access to information
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act.
+
+## Changes to our privacy policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
+
+## Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [contact@roli.com](mailto:contact@roli.com).
+
+This document was last updated on October 1, 2015
