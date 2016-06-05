@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resourcepack.net privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228180527id_/http%3A//resourcepack.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourcepack.net privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606003157id_/http%3A//resourcepack.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Minecraft Resource Packs
 
