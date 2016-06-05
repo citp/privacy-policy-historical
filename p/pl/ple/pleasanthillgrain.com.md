@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the pleasanthillgrain.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206142050id_/http%3A//pleasanthillgrain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleasanthillgrain.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605035811id_/http%3A//pleasanthillgrain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pleasant Hill Grain
 
 **Pleasant Hill Grain** [ ](http://pleasanthillgrain.com/ "Pleasant Hill Grain")
 
-Show Navigation
+"I'm thankful there are still places with good customer service. I feel I made a new friend and I will definitely recommend your company to others. You people are the best."  
+— Kimberly D. Little, GA
 
 ### What personal information do we collect from people visiting our website or blog?
 
@@ -56,3 +57,6 @@ Pleasanthillgrain.com
 Hampton, Nebraska 68843, USA 
 
 Last Edited on 2014-10-08
+
+"I love your company and products. Anytime I need kitchen items I check your site first. I always refer people to you when asked where to get things. Whenever I have had a reason to call the people I talk with are friendly and knowledgeable."  
+— Dawn White, IL
