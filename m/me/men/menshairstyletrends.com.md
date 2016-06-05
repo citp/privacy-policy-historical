@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the menshairstyletrends.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127144250id_/http%3A//www.menshairstyletrends.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menshairstyletrends.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605100007id_/http%3A//www.menshairstyletrends.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Menshairstyletrends.com Website Privacy Policy - Men's Hairstyle Trends
 
 **WEBSITE PRIVACY POLICY**
 
-The Internet is an amazing tool. It has the power to change the way we live, and we’re starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It’s important to Vartrumpf Inc. to help our customers retain their privacy when they take advantage of all the Internet has to offer.
+The Internet is an amazing tool. It has the power to change the way we live, and we’re starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It’s important to Vartrumpf LLC to help our customers retain their privacy when they take advantage of all the Internet has to offer.
 
-We believe your business is no one else’s. Your privacy is important to you and to us. So we’ll protect the information you share with us. To protect your privacy, Vartrumpf Inc. follows different principles in accordance with worldwide practices for customer privacy and data protection.
+We believe your business is no one else’s. Your privacy is important to you and to us. So we’ll protect the information you share with us. To protect your privacy, Vartrumpf LLC follows different principles in accordance with worldwide practices for customer privacy and data protection.
 
   * We won’t sell or give away your name, mail address, phone number, email address or any other information to anyone.
   * We’ll use state-of-the-art security measures to protect your information from unauthorized users.
@@ -20,7 +20,7 @@ We will ask you when we need information that personally identifies you (persona
   * To make the site easier for you to use by not having to enter information more than once.
   * To help you quickly find software, services or information.
   * To help us create content most relevant to you.
-  * To alert you to product upgrades, special offers, updated information and other new services from Vartrumpf Inc..
+  * To alert you to product upgrades, special offers, updated information and other new services from Vartrumpf LLC.
 
 
 
@@ -28,9 +28,9 @@ We will ask you when we need information that personally identifies you (persona
 
 If you choose not to register or provide personal information, you can still use most of menshairstyletrends.com. But you will not be able to access areas that require registration.
 
-If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding Vartrumpf Inc. products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from Vartrumpf Inc..
+If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding Vartrumpf LLC products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from Vartrumpf LLC.
 
-Vartrumpf Inc. occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties.
+Vartrumpf LLC occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties.
 
 **ACCESS**
 
@@ -45,15 +45,15 @@ We will provide you with the means to ensure that your personal information is c
 
 **SECURITY**
 
-Vartrumpf Inc. has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+Vartrumpf LLC has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
 We guarantee your e-commerce transactions to be 100% safe and secure. When you place orders or access your personal account information, you’re utilizing secure server software SSL, which encrypts your personal information before it’s sent over the Internet. SSL is one of the safest encryption technologies available.
 
 In addition, your transactions are guaranteed under the Fair Credit Billing Act. This Act states that your bank cannot hold you liable for more than $50.00 in fraudulent credit card charges. If your bank does hold you liable for $50.00 or less, we’ll cover your liability provided the unauthorized, fraudulent use of your credit card resulted through no fault of your own and from purchases made from us over our secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-Vartrumpf Inc. strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+Vartrumpf LLC strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
-Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in USA or any other country where Vartrumpf Inc., its subsidiaries, affiliates or agents are located.
+Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in USA or any other country where Vartrumpf LLC, its subsidiaries, affiliates or agents are located.
 
 You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others.
 
@@ -61,11 +61,11 @@ You also have a significant role in protecting your information. No one can see 
 
 Parents or guardians: we want to help you guard your children’s privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.
 
-The Vartrumpf Inc. site does not publish content that is targeted to children. However, if you are concerned about your children providing Vartrumpf Inc. any personal information without your consent, Vartrumpf Inc. offers a Kids account. It allows parents to give parental consent for the collection, use and sharing of children’s (ages 12 and under) personal information online.
+The Vartrumpf LLC site does not publish content that is targeted to children. However, if you are concerned about your children providing Vartrumpf LLC any personal information without your consent, Vartrumpf LLC offers a Kids account. It allows parents to give parental consent for the collection, use and sharing of children’s (ages 12 and under) personal information online.
 
 **ENFORCEMENT**
 
-If for some reason you believe Vartrumpf Inc. has not adhered to these principles, please notify us by email at privacy@menshairstyletrends.com, and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+If for some reason you believe Vartrumpf LLC has not adhered to these principles, please notify us by email at privacy@menshairstyletrends.com, and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
 
 **ELECTRONIC PRODUCT REGISTRATION**
 
@@ -83,4 +83,4 @@ When you join us, you provide us with your contact information, including your a
 
 We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-Vartrumpf Inc. will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Vartrumpf Inc. or the site; (b) protect and defend the rights or property of Vartrumpf Inc. and its family of Websites, and, (c) act in urgent circumstances to protect the personal safety of users of Vartrumpf Inc., its Websites, or the public.
+Vartrumpf LLC will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Vartrumpf LLC or the site; (b) protect and defend the rights or property of Vartrumpf LLC and its family of Websites, and, (c) act in urgent circumstances to protect the personal safety of users of Vartrumpf LLC, its Websites, or the public.
