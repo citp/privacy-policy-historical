@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shawacademy.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040813id_/http%3A//www.shawacademy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawacademy.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605171004id_/http%3A//www.shawacademy.com/privacy.html) for the most accurate reproduction.*
 
 # Shaw Academy for Financial Trading | Terms and Conditions
 
@@ -51,5 +51,18 @@ In these terms and conditions:
   1. 'This website' means our presence on the Internet;
   2. 'our', 'we' and 'us' means the Shaw Academy and, where applicable, its officers, employees and authorised agents; and
   3. 'you' and 'your' refer to any individual, company or business (whether registered by us as an investor or not) to whom we provide Services by means, including but not limited to, telephone, face-to-face contact, postal correspondence, electronic mail or via our website www.Shaw Academy.com hereon referred to as the website. 
+
+
+
+## Policy for Display Advertising
+
+  1. Google is a registered trademark of Google Inc.
+  2. We've implemented and use Display Advertising.
+  3. The Google Analytics features we've implemented based on Displayed Advertising (e.g., Remarketing, affinity audiences, custom affinity audiences, in-market audiences, similar audiences, demographic and location targeting). 
+  4. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager.   
+<https://www.google.com/settings/u/0/ads/authenticated?hl=en>
+  5. We use Remarketing with Google Analytics to advertise online.
+  6. Third-party vendors, including Google, show Our ads on sites across the Internet.
+  7. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Double click) 
 
 
