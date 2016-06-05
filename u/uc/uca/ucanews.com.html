@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ucanews.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206051450id_/http%3A//www.ucanews.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ucanews.com privacy policy that was archived on 2016-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605034339id_/http%3A//www.ucanews.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <title>UCA News Privacy Policy</title>
@@ -14,11 +14,7 @@
 
 <link rel="Shortcut Icon" href="http://www.ucanews.com/favicon.ico" type="image/x-icon">
 
-<link rel="stylesheet" type="text/css" href="http://www.ucanews.com/stylesheet.css">
-<link rel="stylesheet" type="text/css" href="http://www.ucanews.com/css/miscel.css">
-<link rel="stylesheet" type="text/css" href="http://www.ucanews.com/css/common.css">
-
-<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
  
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-4612202-1']);
@@ -34,19 +30,26 @@
 </script>
 </head>
 <body>
-<div class="main-container">
+<div class="main_wrapper">
+    <div class="wrapper">
+        <!------------------headersection starting------------------>
+        <script type="text/javascript" src="http://www.ucanews.com/fonts/fontsmoothie.min.js" async=""></script>
+<link href="http://www.ucanews.com/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.ucanews.com/css/media.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600|Roboto" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet" type="text/css">
 <script src="http://www.ucanews.com/js/jquery.min.js"></script>
+
 <script type="text/javascript">
 $(document).ready(function() {	
 $('#searchfrm').submit(function(){
-	if(($('#searchtxt').val()!='Search...'))
-    	{
+	if(($('#searchtxt').val()!='')){
 			$str = $('#searchtxt').val();
 			//hypentextsearch($strslug,'searchtxt');
 			  $str = $str.replace(/^\s+|\s+$/g, ''); // trim
 			  $str = $str.toLowerCase();
-			  // remove accents, swap ñ for n, etc
-			  $from = "àáäâèéëêìíïîòóöôùúüûñç·/_,:;";
+			  // remove accents, swap Ã± for n, etc
+			  $from = "Ã Ã¡Ã¤Ã¢Ã¨Ã©Ã«ÃªÃ¬Ã­Ã¯Ã®Ã²Ã³Ã¶Ã´Ã¹ÃºÃ¼Ã»Ã±Ã§Â·/_,:;";
 			  $to   = "aaaaeeeeiiiioooouuuunc------";
 			  for ($i=0, $l=$from.length ; $i<$l ; $i++) {
 				$str = $str.replace(new RegExp($from.charAt($i), 'g'), $to.charAt($i));
@@ -56,134 +59,304 @@ $('#searchfrm').submit(function(){
 				.replace(/\s+/g, '-') // collapse whitespace and replace by -
 				.replace(/-+/g, '-'); // collapse dashes
 				window.location =  "http://www.ucanews.com/search/"+$str;
-			//window.location =  "http://www.ucanews.com/search/"+$('#searchtxt').val();
 		}
 return false;
-});	
+});
+
+/**Mobile Search*/
+
+$('#searchfrmM').submit(function(){
+	if(($('#searchtxtM').val()!='')){
+			$str = $('#searchtxtM').val();
+			//hypentextsearch($strslug,'searchtxt');
+			  $str = $str.replace(/^\s+|\s+$/g, ''); // trim
+			  $str = $str.toLowerCase();
+			  // remove accents, swap Ã± for n, etc
+			  $from = "Ã Ã¡Ã¤Ã¢Ã¨Ã©Ã«ÃªÃ¬Ã­Ã¯Ã®Ã²Ã³Ã¶Ã´Ã¹ÃºÃ¼Ã»Ã±Ã§Â·/_,:;";
+			  $to   = "aaaaeeeeiiiioooouuuunc------";
+			  for ($i=0, $l=$from.length ; $i<$l ; $i++) {
+				$str = $str.replace(new RegExp($from.charAt($i), 'g'), $to.charAt($i));
+			  }
+			
+			  $str = $str.replace(/[^a-z0-9 -]/g, ' ') // remove invalid chars
+				.replace(/\s+/g, '-') // collapse whitespace and replace by -
+				.replace(/-+/g, '-'); // collapse dashes
+				window.location =  "http://www.ucanews.com/search/"+$str;
+		}
+return false;
+});
+
+/**mobile search*/
+
+	
 });
 
 </script>
 
-<script type="text/javascript">
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-  (function() {
-    var gads = document.createElement('script');
-    gads.async = true;
-    gads.type = 'text/javascript';
-    var useSSL = 'https:' == document.location.protocol;
-    gads.src = (useSSL ? 'https:' : 'http:') +
-      '//www.googletagservices.com/tag/js/gpt.js';
-    var node = document.getElementsByTagName('script')[0];
-    node.parentNode.insertBefore(gads, node);
-  })();
-</script>
 
-<script type="text/javascript">
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/7138571/ucanlwctop', [728, 90], 'div-gpt-ad-1435920481441-0').addService(googletag.pubads());//Header
-	googletag.defineSlot('/7138571/ucanlwcfooter', [728, 90], 'div-gpt-ad-1435921129699-0').addService(googletag.pubads());//Footer
-	googletag.defineSlot('/7138571/ucanlwcright', [250, 210], 'div-gpt-ad-1435921553248-0').addService(googletag.pubads());//Right
-    googletag.pubads().enableSingleRequest();
-    googletag.enableServices();
-  });
-</script>
 
-<div class="headercontent">
-<div class="topsection">
-<div class="top-lefts"><a href="http://www.ucanews.com/" title="UCANEWS.COM">UCANEWS.COM</a></div>
-<div class="dates">December 6, 2015</div>
-<div class="subscribe">
+<!----------------menu---------------->
+<link href="http://www.ucanews.com/ddmenu/ddmenu.css" rel="stylesheet" type="text/css">
+<script src="http://www.ucanews.com/ddmenu/ddmenu.js" type="text/javascript"></script>
+<!----------------menu end---------------->
+<!----------------fixed menu---------------->
+<link href="http://www.ucanews.com/css/fixed_menu.css" rel="stylesheet" type="text/css">
+<!----------------fixed menu---------------->
+<div class="wrapper">
+<div class="header_section">
+<div class="header_top">
+<div class="logo"><a href="http://www.ucanews.com/"><img src="http://www.ucanews.com/images/logo.jpg" alt="UCANEWS"></a></div>
+<div class="header_right">
+<div class="lang_box">
+<h6 class="language_hid">Language Sites</h6>
 <ul>
-<li style="padding-left:0px;"><a href="http://www.ucanews.com/stay-in-touch/" title="Stay in touch">free subscriptions</a></li>
-<li class="headersplit">|</li>
-<li><a href="http://www.ucanews.com/donate/" title="We Need Your Help">please donate</a></li>
+<li><a href="http://china.ucanews.com/" target="_blank"><img src="http://www.ucanews.com/images/flag1.jpg" alt="UCAN China" title="China"></a></li>
+<li><a href="http://www.ucanindia.in/" target="_blank"><img src="http://www.ucanews.com/images/flag2.jpg" alt="UCAN India" title="India"></a></li>
+<li><a href="http://indonesia.ucanews.com/" target="_blank"><img src="http://www.ucanews.com/images/flag3.jpg" alt="UCAN Indonesia" title="Indonesia"></a></li>
+<li><a href="http://vietnam.ucanews.com/" target="_blank"><img src="http://www.ucanews.com/images/flagcnviet.jpg" alt="UCAN Vietnam" title="Vietnam"></a></li>
 </ul>
 </div>
+      
 <div class="clear"></div>
-</div><div class="clear"></div>
-<div class="logo-section">
-<div class="flafpart">
-<ul>
-<li><a href="http://china.ucanews.com/" title="UCAN China" target="_blank" rel="nofollow"><img src="http://www.ucanews.com/images/china-flag.jpg" alt="China Flag"></a></li>
-<li><a href="http://www.ucanindia.in/" title="UCAN India" target="_blank" rel="nofollow"><img src="http://www.ucanews.com/images/india-flag.jpg" alt="India Flag"></a></li>
-<li><a href="http://indonesia.ucanews.com/" title="UCAN Indonesia" target="_blank" rel="nofollow"><img src="http://www.ucanews.com/images/inonesia-flag.jpg" alt="Indonesia Flag"></a></li>
 
-<div class="clear"></div>
-</ul>
-</div>
-
-<div class="ucanews-logo"><a href="http://www.ucanews.com/" title="UCANEWS"><img src="http://www.ucanews.com/images/ucanews-logo.jpg" alt="UCANEWS"></a></div>
-
-<div class="topsearch">
+<div class="search">
 <form name="searchfrm" id="searchfrm">
-<div class="searchhere"><input name="searchtxt" id="searchtxt" type="text" value="search here..." onfocus="if(this.value=='search here...')this.value=''" onblur="if(this.value=='')this.value='search here...'" class="searchhere1"></div>
-<div class="serach-img">
-<input type="submit" name="tftf" value="" class="wholesearch"></div>
+<img alt="search" src="http://www.ucanews.com/images/search_icon.jpg">
+<input type="text" name="searchtxt" id="searchtxt" class="s_text" placeholder="Search" style="text-transform:lowercase;">
 </form>
 </div>
-
-
+</div>
 <div class="clear"></div>
 </div>
-<div class="navsection">
-<div class="navigation">
-<ul>
-<li><a href="http://www.ucanews.com/category/church/7705" title="Church News">church</a></li>
-<li><a href="http://www.ucanews.com/category/asia-world/1" title="Asia/World News">asia/world</a></li>
-<li><a href="http://www.ucanews.com/category/features/4" title="Features News">features</a></li>
-<li><a href="http://www.ucanews.com/category/analysis-opinion/5" title="Opinion News">opinion</a></li>
-<li><a href="http://www.ucanews.com/multimedia" title="Multimedia">multimedia</a></li>
-<li><a href="http://directory.ucanews.com/" title="Database of Catholic Dioceses in Asia" target="_blank">directory</a></li>
-<li><a href="http://spirituality.ucanews.com/" title="UCAN Spirituality" target="_blank">spirituality</a></li>
-</ul>
-</div>
-<div class="social-network">
-<ul>
-<li><a href="https://twitter.com/ucanews/" target="_blank" title="ucanews on Twitter" rel="nofollow"><img src="http://www.ucanews.com/images/twitter.jpg" alt="ucanews on Twitter"></a></li>
-<li><a href="https://www.facebook.com/ucanews" target="_blank" title="ucanews on facebook" rel="nofollow"><img src="http://www.ucanews.com/images/facebook.jpg" alt="ucanews on facebook"></a></li>
-<li><a href="http://www.ucanews.com/feed/" target="_blank" title="ucanews RSS" rel="nofollow"><img src="http://www.ucanews.com/images/RSS.jpg" alt="ucanews RSS"></a></li>
-<li style="margin-right:0px;"><a href="http://www.reddit.com/r/webdev/submit" onclick="window.location = 'http://www.reddit.com/r/webdev/submit?url=' + encodeURIComponent(window.location); return false" target="_blank" title="submit to reddit" rel="nofollow"><img src="http://www.ucanews.com/images/reddit.jpg" alt="submit to reddit"></a></li>
-</ul>
-</div>
-</div>
+  
 
-<div class="mobnav"><nav id="mobnavigation"><div style="padding:10px "><div class="navmenu"><a class="menu_button" href="#footer_nav" onclick="toggleNav(); return false;">menu</a></div>
-<div class="rmm-button rmm-closed"><a class="menu_button" href="#footer_nav" onclick="toggleNav(); return false;"><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span></a></div>
-<div class="clear"></div>
-</div>
-<ul id="navigation_list" role="mobnavigation"><li><a href="http://www.ucanews.com/category/church/7705" title="Church News">church</a></li>
-<li><a href="http://www.ucanews.com/category/asia-world/1" title="Asia/World News">asia/world</a></li>
-<li><a href="http://www.ucanews.com/category/features/4" title="Features News">features</a></li>
-<li><a href="http://www.ucanews.com/category/analysis-opinion/5" title="Opinion News">opinion</a></li>
-<li><a href="http://www.ucanews.com/multimedia" title="Multimedia">multimedia</a></li></ul><nav></nav></nav></div>
+<!--desk top menu min width 1070 max width 3000--------------------------------------------------------- -->
+ <style type="text/css">
+.fixed { position:fixed; z-index:1000; top:0;}
+</style>
+ 
+<script type="text/javascript">
+  var num = 50; //number of pixels before modifying styles
 
-<script>
-var originalNavClasses;
-function toggleNav() 
-{
-	var elem = document.getElementById('navigation_list');
-	var classes = elem.className;
-	if (originalNavClasses === undefined)
-	 {originalNavClasses = classes;}
-	 elem.className = /expanded/.test(classes) ? originalNavClasses : originalNavClasses + ' expanded';
-}
-</script>
+$(window).bind('scroll', function () {
+    if ($(window).scrollTop() > num) {
+        $('.new_menu_wrapper').addClass('fixed');
+    } else {
+        $('.new_menu_wrapper').removeClass('fixed');
+    }
+});
+  </script>
+  <div class="new_menu_wrapper">
 
-<div class="clear"></div>
+    <div class="left_area_menu">
+    <div class="fixed_menu">
+    <ul>
+    <li> <a href="http://www.ucanews.com/category/news/7711">NEWS</a></li>
+    <li><a href="http://www.ucanews.com/category/features/4">FEATURES</a></li>
+    <li> <a href="http://www.ucanews.com/category/commentary/5">COMMENTARY</a></li>
+    <li> <a href="http://www.ucanews.com/multimedia">MULTIMEDIA</a></li>
+    <li> <a href="#">TOPICS</a>
+    <ul>
+         <li><a href="http://www.ucanews.com/topic/conflict/8"> Conflict     </a></li>
+          <li><a href="http://www.ucanews.com/topic/education/1"> Education     </a></li>
+          <li><a href="http://www.ucanews.com/topic/environment/10"> Environment     </a></li>
+          <li><a href="http://www.ucanews.com/topic/health/2"> Health     </a></li>
+          <li><a href="http://www.ucanews.com/topic/human-rights/3"> Human rights     </a></li>
+          <li><a href="http://www.ucanews.com/topic/refugees-migrants/4"> Refugees/migrants     </a></li>
+          <li><a href="http://www.ucanews.com/topic/religion-culture/5"> Religion/culture     </a></li>
+          <li><a href="http://www.ucanews.com/topic/religious-ethnic-persecution/6"> Religious/ethnic persecution     </a></li>
+          <li><a href="http://www.ucanews.com/topic/social-justice/7"> Social justice     </a></li>
+          <li><a href="http://www.ucanews.com/topic/women-children/9"> Women/children     </a></li>
+         </ul>
+    </li>
+    <li> <a href="http://www.ucanews.com/ucan_series">SERIES</a></li>
+    <li> <a href="http://www.ucanews.com/countries">COUNTRIES</a></li>
+    <li> <a href="http://directory.ucanews.com/" target="_blank">DIRECTORY</a></li>
+    <li> <a href="http://spirituality.ucanews.com/" target="_blank">SPIRITUALITY</a></li>
+    </ul>
+    </div>
+    </div>
+    <div class="right_area_menu">
+    <div class="fixed_menu_right">
+    <ul>
+        <li class="right_text_n"><a href="http://www.ucanews.com/premium">PREMIUM</a></li>
+    <li class="right_line">|</li>
+    <li><a href="http://www.ucanews.com/account/subscribe">SUBSCRIBE</a></li>
+    <li class="right_line">|</li>
+    <li><a href="http://www.ucanews.com/account/login">LOGIN</a></li>
+    
+	    </ul>
+    </div>
+    </div>
+  </div>
+  <!--desk top menu min width 1070 max width 3000 END--------------------------------------------------------- -->
+  
+  
+  
+  <!--tablet menu min width 640 max width 1069 Start---------------------------------------------------------- -->
+  <div class="menu_section">
+  <div id="nav" class="menu_width_s">
+  <div class="menu">
+  <nav id="ddmenu">
+  <div class="menu-icon"></div>
+  <ul>
+  <li><a href="http://www.ucanews.com/category/news/7711">NEWS</a></li>
+  <li><a href="http://www.ucanews.com/category/features/4">FEATURES</a></li>
+  <li><a href="http://www.ucanews.com/category/commentary/5">COMMENTARY</a></li>
+  <li><a href="http://www.ucanews.com/multimedia">MULTIMEDIA</a></li>
+  <li>TOPICS
+  <div>
+  <div class="column">
+    <a href="http://www.ucanews.com/topic/conflict/8">
+  Conflict</a>
+    <a href="http://www.ucanews.com/topic/education/1">
+  Education</a>
+    <a href="http://www.ucanews.com/topic/environment/10">
+  Environment</a>
+    <a href="http://www.ucanews.com/topic/health/2">
+  Health</a>
+    <a href="http://www.ucanews.com/topic/human-rights/3">
+  Human rights</a>
+    <a href="http://www.ucanews.com/topic/refugees-migrants/4">
+  Refugees/migrants</a>
+    <a href="http://www.ucanews.com/topic/religion-culture/5">
+  Religion/culture</a>
+    <a href="http://www.ucanews.com/topic/religious-ethnic-persecution/6">
+  Religious/ethnic persecution</a>
+    <a href="http://www.ucanews.com/topic/social-justice/7">
+  Social justice</a>
+    <a href="http://www.ucanews.com/topic/women-children/9">
+  Women/children</a>
+    </div>
+  </div>
+  </li>
+  <li><a href="http://www.ucanews.com/ucan_series">SERIES</a></li>
+  <li><a href="http://www.ucanews.com/countries">COUNTRIES</a></li>
+  <li><a href="http://directory.ucanews.com/" target="_blank">DIRECTORY</a></li>
+  <li><a href="http://spirituality.ucanews.com/" target="_blank">SPIRITUALITY</a></li>
+  </ul>
+  </nav>
+  
+  </div>
+  <div class="menu_right">
+  <ul>
+    <li><a href="http://www.ucanews.com/account/login">LOGIN</a></li>
+  <li class="line_common">|</li>
+  <li class="leftline"><a href="http://www.ucanews.com/account/subscribe">SUBSCRIBE</a></li>
+  <li class="line_common">|</li>
+  <li class="leftline"><a href="http://www.ucanews.com/premium">PREMIUM</a></li>
+  
+    </ul>
+  </div>
+  </div>
+  </div>
+  
+  <!--tablet menu min width 640 max width 1069 END---------------------------------------------------------- -->
 
-<div class="frond-ads">
-<!-- /7138571/ucanlwctop -->
+  
+  <!-- mobile menu min width 320 Max width 640 START-------------------------------------------------------------- -->
+  <div class="menu_mob" style="background:#011435;">
+    
+    <!--search subscribe login mobile only-->
+    <div class="ser_sub">
+    <div class="mob_ss_01"> 
+    <div class="accordion">
+    <div class="item">
+    <div class="heading"><img src="http://www.ucanews.com/images/mobile_search.png"></div>
+    <div class="content">
+    <form name="searchfrm" id="searchfrmM">
+    <input name="searchtxt" id="searchtxtM" type="text" class="bh_54" required="" placeholder="Search">
+    <input type="submit" class="bh_57" value="Go" name="submit" id="mobilesearch">
+    </form>
+    </div>
+    </div>
+    </div>
 
-<a href="http://www.ucanews.com/home/billbook" title="ENRICH YOUR SPIRITUAL LIFE"><img src="http://www.ucanews.com/images/enrich.jpg" alt="ENRICH YOUR SPIRITUAL LIFE"></a>
-
-</div>
-
-</div><div class="miscelleft">
-<div class="mainheadline"><a>Privacy Policy</a></div>
-
-<div class="privacybox">
+    </div>
+	    <div class="mob_ss_02"><a href="http://www.ucanews.com/account/login">LOGIN</a></div>
+    <div class="mob_ss_03"><a href="http://www.ucanews.com/account/subscribe">SUBSCRIBE</a></div>
+    
+	    </div>
 	
+   
+   <script type="text/javascript">
+$('.accordion .item .heading').click(function() {
+		
+	var a = $(this).closest('.item');
+	var b = $(a).hasClass('open');
+	var c = $(a).closest('.accordion').find('.open');
+		
+	if(b != true) {
+		$(c).find('.content').slideUp(200);
+		$(c).removeClass('open');
+	}
+
+	$(a).toggleClass('open');
+	$(a).find('.content').slideToggle(200);
+
+});
+</script>
+     
+     <!--search subscribe login mobile only end-->
+     <div class="menu_mob">
+     <nav id="mddmenu">
+     <div class="menu-icon"></div>
+     <ul>
+     <li><a href="http://www.ucanews.com/category/news/7711">NEWS</a></li>
+     <li><a href="http://www.ucanews.com/category/features/4">FEATURES</a></li>
+     <li><a href="http://www.ucanews.com/category/commentary/5">COMMENTARY</a></li>
+     <li><a href="http://www.ucanews.com/multimedia">MULTIMEDIA</a></li>
+     <li>TOPICS
+         <div>
+           <div class="column">
+                                <a href="http://www.ucanews.com/topic/conflict/8">
+                Conflict                </a>
+                                <a href="http://www.ucanews.com/topic/education/1">
+                Education                </a>
+                                <a href="http://www.ucanews.com/topic/environment/10">
+                Environment                </a>
+                                <a href="http://www.ucanews.com/topic/health/2">
+                Health                </a>
+                                <a href="http://www.ucanews.com/topic/human-rights/3">
+                Human rights                </a>
+                                <a href="http://www.ucanews.com/topic/refugees-migrants/4">
+                Refugees/migrants                </a>
+                                <a href="http://www.ucanews.com/topic/religion-culture/5">
+                Religion/culture                </a>
+                                <a href="http://www.ucanews.com/topic/religious-ethnic-persecution/6">
+                Religious/ethnic persecution                </a>
+                                <a href="http://www.ucanews.com/topic/social-justice/7">
+                Social justice                </a>
+                                <a href="http://www.ucanews.com/topic/women-children/9">
+                Women/children                </a>
+                                </div>
+              </div>
+       </li>
+       <li><a href="http://www.ucanews.com/ucan_series">SERIES</a></li>
+       <li><a href="http://www.ucanews.com/countries">COUNTRIES</a></li>
+       <li><a href="http://directory.ucanews.com/" target="_blank">DIRECTORY</a></li>
+       <li><a href="http://spirituality.ucanews.com/" target="_blank">SPIRITUALITY</a></li>
+       </ul>
+       </nav>
+      </div>
+     </div>
+  <!-- mobile menu min width 320 nax width 640 END-------------------------------------------------------------- -->
+  
+
+  <div class="clear"></div>
+ </div>
+ 
+  
+        <!------------------headersection end------------------>
+        
+        <!------------------content section start------------------>
+        <div class="content_section">
+        	<div class="content_top">
+            	<div class="content_topleft">
+            	  <div class="news_page">
+                  	<h1>Privacy Policy</h1>
+                    <div class="news_section">
+                    	<div class="aboutbox" style="font-size:14px;"> 
 <p><strong>Contents</strong></p>
 <p>1.&nbsp;&nbsp; Introduction</p>
 <p>2.&nbsp;&nbsp; How does UCAN collect Personal Information?</p>
@@ -256,109 +429,130 @@ Ratchathewi Post Office<br>
 <p>Our Privacy Policy was last updated on 2 February, 2011.</p>
 <br><br>
 
+                    </div>
+                    <div class="clear"></div>
+                    
+                  </div>
+                    <div class="clear"></div>
+                    
+                  </div>
+                </div>
+                <div class="content_topright">
+                                	        
+		
+		            
+                    
 
-
-  </div>
-
-<div class="clear"></div>
-</div>
-<div class="miscelright">
-<div style="margin:0 0 15px 0;"><!-- /7138571/ucanlwcright -->
-<!--<div id='div-gpt-ad-1435921553248-0' style='height:210px; width:250px;'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1435921553248-0'); });
-</script>
-</div>-->
-
-<a href="http://www.ucanews.com/series/fundamentalism-in-asia/3" title="Click here for UCAN reports"><img src="http://www.ucanews.com/images/series.jpg" alt="Click here for UCAN reports" border="0"></a>
-</div>
-
-
-<div class="box-right sixteen">
-<h4><a>Latest <span style="text-transform:lowercase !important;font-family:Verdana;font-size:14px;">on ucanews.com</span></a></h4>
-<ul>
-<li style="border:none;"><a href="http://www.ucanews.com/news/protesters-demand-to-stop-stoning-of-sri-lankan-maid-in-saudi-arabia/74731" title="Protesters demand to stop stoning of Sri Lankan maid in Saudi Arabia">Protesters demand to stop stoning of Sri Lankan maid in Saudi Arabia</a></li>
-<li><a href="http://www.ucanews.com/news/political-prisoners-continue-to-languish-in-philippine-prisons/74730" title="Political prisoners continue to languish in Philippine prisons">Political prisoners continue to languish in Philippine prisons</a></li>
-<li><a href="http://www.ucanews.com/news/church-rushes-to-help-flood-hit-chennai/74729" title="Church rushes to help flood-hit Chennai">Church rushes to help flood-hit Chennai</a></li>
-<li><a href="http://www.ucanews.com/news/repression-of-papuans-could-spell-trouble-for-indonesia/74728" title="Repression of Papuans could spell trouble for Indonesia">Repression of Papuans could spell trouble for Indonesia</a></li>
-<li><a href="http://www.ucanews.com/news/indonesian-jesuit-run-schools-alumni-sponsor-fundraising-run/74726" title="Indonesian Jesuit-run school's alumni sponsor fundraising run">Indonesian Jesuit-run school's alumni sponsor fundraising run</a></li>
-</ul>
-</div>
-
-<div class="sixteen uibookad">
-<a href="http://www.ucanindia.in/shopping/books/The-Way/1575" id="linkrand" target="_blank" title="UCAN India Books Online"><img id="imgRand" width="250" src="http://www.ucanews.com/images/books/7.jpg" alt="UCAN India Books Online" border="0"></a>
-</div>
-<script language="javascript">
-	 var links=new Array();
-     links[1]="http://www.ucanindia.in/shopping/books/Biomedical-Ethics-Set-of-10-volumes/2584";
-     links[2]="http://www.ucanindia.in/shopping/books/Have-a-New-You-by-Friday/2583";
-     links[3]="http://www.ucanindia.in/shopping/books/Mission-of-the-Church-Selected-Writings-of-Samuel-Rayan-III/2375";
-     links[4]="http://www.ucanindia.in/shopping/books/demo/2598";
-     links[5]="http://www.ucanindia.in/shopping/books/The-Good-Pope-St-John-XXIII/2603";
-     links[6]="http://www.ucanindia.in/shopping/books/Real-Life-Real-Miracles/2321";
-	 links[7]="http://www.ucanindia.in/shopping/books/The-Way/1575";
-  var numRand = Math.floor(Math.random() * (7 - 1 + 1)) + 1; 
-  document.getElementById("imgRand").src = "http://www.ucanews.com/images/books/"+numRand+".jpg";
-  document.getElementById("linkrand").href=links[numRand];
-</script>
-
-<div class="box-right sixteen leftvideo">
-<h4><a>Latest video</a></h4>
-<div class="latestvid">
-<object width="216" height="106"> 
-<param name="movie" value="http://www.youtube.com/v/rjEKQ3nf2HI?fs=1&amp;&amp;rel=0;hl=en_US&amp;showinfo=0">
-<param name="wmode" value="opaque">
-<param name="allowFullScreen" value="true">
-<param name="allowscriptaccess" value="always">				
-<embed src="http://www.youtube.com/v/rjEKQ3nf2HI?fs=1&amp;&amp;rel=0;hl=en_US&amp;showinfo=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" width="216" height="106">
-</object></div>
-<a href="http://www.ucanews.com/news/sunday-gospel-reflection-with-fr-bill-grimm/74703" title="Sunday Gospel Reflection With Fr. Bill Grimm" class="latestvidhref">Sunday Gospel Reflection With Fr. Bill Grimm</a>
-</div>
-
-<div class="box-rightz sixteen dioceses">
-<div class="top-diocess-divz"><h4><a href="http://directory.ucanews.com/" title="UCAN Directory" target="_blank">Diocese of the Day</a></h4></div>
-<div class="spirituality">
-<ul>
-<li style="border:none;">
-<p class="daily-inspi"><a href="http://directory.ucanews.com/dioceses/indonesia-atambua/280" title="Atambua " target="_blank"><img width="220" border="0" src="http://directory.ucanews.com/uploads/dioceses/promo/1354602514.jpg"></a></p>
-<p class="daily-inspi-txt" style="margin:0;font-size:12px;text-align:center;"><a href="http://directory.ucanews.com/dioceses/indonesia-atambua/280" target="_blank" title="Atambua ">Atambua</a>, <a href="http://directory.ucanews.com/country/indonesia/13" target="_blank" title="Indonesia">Indonesia</a></p>
-<div class="clear"></div>
-</li>
-</ul>
-</div>
-</div>
-
-<div class="sixteen">
-<a href="http://www.globalpulsemagazine.com/account/subscribe" title="Global Pulse Magazine" target="_blank"><img src="http://www.ucanews.com/images/268-260.jpg" alt="Global Pulse Magazine"></a>
-</div>
-
-<div class="clear"></div></div>
-<div class="clear"></div>
-</div>
-<meta property="fb:admins" content="100001237437477">
-<div class="ads-area"><div class="google-ads">
-<!-- /7138571/ucanlwcfooter -->
-<div id="div-gpt-ad-1435921129699-0" style="height:90px; width:728px;">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1435921129699-0'); });
-</script>
-</div>
-</div>
-</div>
-
+                    
+                    <div class="brief_news ht">
+                    
+                    
+                    
+                    	<h1>
+                    	  <div class="head">LATEST</div>
+                   	  <img src="http://www.ucanews.com/images/ucan.jpg"></h1>
+                        <ul>
+                                                 	<li>
+                                <h3><a href="http://www.ucanews.com/news/un-condemns-vietnam-over-torture-of-christian-activist/76231" title="UN condemns Vietnam over torture of Christian activist">UN condemns Vietnam over torture of Christian activist</a></h3>
+                                <p>Woman repeatedly arrested, beaten for human rights work, UN says</p>
+                            </li>
+                                                    	<li>
+                                <h3><a href="http://www.ucanews.com/news/year-of-mercy-a-big-draw-for-pilgrims-in-taiwan/76215" title="Year of Mercy a big draw for pilgrims in Taiwan">Year of Mercy a big draw for pilgrims in Taiwan</a></h3>
+                                <p>Chinese Martyrs Sanctuary gives mainland pilgrims rare chance to venerate saints </p>
+                            </li>
+                                                    	<li>
+                                <h3><a href="http://www.ucanews.com/news/vietnamese-canadian-priest-named-bishop-in-canada/76229" title="Vietnamese-Canadian priest named bishop in Canada">Vietnamese-Canadian priest named bishop in Canada</a></h3>
+                                <p>A former boat person, Father Joseph Phuong Nguyen worked as a painter to earn money to study English</p>
+                            </li>
+                                                    	<li>
+                                <h3><a href="http://www.ucanews.com/news/indian-catholics-build-homes-for-needy-nepal-quake-victims/76224" title="Indian Catholics build homes for needy Nepal quake victims">Indian Catholics build homes for needy Nepal quake victims</a></h3>
+                                <p>They have built 450 temporary shelters in several affected areas of the country</p>
+                            </li>
+                                                    	<li>
+                                <h3><a href="http://www.ucanews.com/news/philippine-rebels-urge-church-to-play-role-in-peace-talks/76228" title="Philippine rebels urge church to play role in peace talks">Philippine rebels urge church to play role in peace talks</a></h3>
+                                <p>Communist leaders expect Duterte to restart negotiations after inauguration</p>
+                            </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+            
+        </div>  </div>
+    </div>
 <div class="footer">
+    	<div class="footer_section">
+        	<div class="copy">© ucanews.com all rights reserved.</div>
+            <div class="footer_menu">
+            	<ul>
+                	<li><a href="http://www.ucanews.com/about">about us</a></li>
+                    <li><a href="http://www.ucanews.com/contact-us">contact us</a></li>
+                    <li><a href="http://www.ucanews.com/website-terms-and-conditions-of-use">terms &amp; conditions</a></li>
+                    <li><a href="http://www.ucanews.com/privacy-policy">privacy policy</a></li>
+                    <li><a href="http://www.ucanews.com/account/subscribe">subscribe</a></li>
+                    <li><a href="http://www.ucanews.com/donate">donate</a></li>                    
+                                  </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+	
+<script src="http://www.ucanews.com/js/jquery-migrate-1.2.1.js"></script>
 
-<div class="footer-left">
-<ul>
-<li style="border:none;"><span>© ucanews.com all rights reserved. </span></li>
-<li><a href="http://www.ucanews.com/about/">about us</a></li>
-<li><a href="http://www.ucanews.com/contact-us/">contact us</a></li>
-<li><a href="http://www.ucanews.com/stay-in-touch/">subscribe</a></li>
-<li><a href="http://www.ucanews.com/donate/">donate</a></li>
-<li><a href="http://www.ucanews.com/website-terms-and-conditions-of-use/">terms &amp; conditions</a></li>
-<li><a href="http://www.ucanews.com/privacy-policy/">privacy policy</a></li>
-<li style="border:none;"><a href="http://www.ucanews.com/images/MediaKit.pdf" target="_blank">advertise with us</a></li>
-</ul><div class="clear"></div>
-</div>
-</div>
+<!--menu_fix_top------------------------------------------------------------->
+<script type="text/javascript">//<![CDATA[ 
+$(window).load(function(){
+$(function() {
+    // Stick the #nav to the top of the window
+    var nav = $('#nav');
+    var navHomeY = nav.offset().top;
+    var isFixed = false;
+    var $w = $(window);
+    $w.scroll(function() {
+        var scrollTop = $w.scrollTop();
+        var shouldBeFixed = scrollTop > navHomeY;
+        if (shouldBeFixed && !isFixed) {
+            nav.css({
+                position: 'fixed',
+                top: 0,
+                left: nav.offset().left,
+                width: nav.width()
+            });
+            isFixed = true;
+        }
+        else if (!shouldBeFixed && isFixed)
+        {
+            nav.css({
+                position: 'static'
+            });
+            isFixed = false;
+        }
+		
+		if ($(this).width() < 500) {
+             
+			 nav.css({
+             position: 'none',
+             top: 0,
+             left: nav.offset().left,
+             width: nav.width()
+            });
+
+        } else {
+
+        $('#nav').show();
+        }
+		
+		});
+});
+// Initialize all .smoothScroll links
+jQuery(
+	function($){ $.localScroll({filter:'.smoothScroll'}); });
+});//]]>  
+</script>
+<!--menu_fix_top------------------------------------------------------------->
+
+
+  
+    </div>
+
+
 </body></html>
