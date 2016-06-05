@@ -1,47 +1,52 @@
-> *The following text is extracted and transformed from the l9app.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713125005id_/https%3A//www.l9app.com/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l9app.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605152126id_/http%3A//l9app.com/privacy-policy) for the most accurate reproduction.*
 
-# Level 9 App
+# Privacy Policy - Automotive Apps
 
-Level 9 Marketing is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Level 9 Marketing Web site and governs data collection and usage. By using the Restart Level 9 Marketing website, you consent to the data practices described in this statement.
+## [Privacy Policy](http://l9app.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
-## Collection of your Personal Information
+This privacy policy sets out how l9app.com uses and protects any information that you give l9app.com when you use this website. l9app.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. l9app.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-Level 9 Marketing collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Level 9 Marketing also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+**What we collect**
 
-There is also information about your computer hardware and software that is automatically collected by Level 9 Marketing. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Level 9 Marketing for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Level 9 Marketing Web site.
+We may collect the following information:
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Level 9 Marketing public message boards, this information may be collected and used by others. Note: Level 9 Marketing does not read any of your private online communications.
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-Level 9 Marketing encourages you to review the privacy statements of Web sites you choose to link to from Level 9 Marketing so that you can understand how those Web sites collect, use and share your information. Level 9 Marketing is not responsible for the privacy statements or other content on Web sites outside of the Level 9 Marketing and Level 9 Marketing family of Web sites.
 
-## Use of your Personal Information
 
-Level 9 Marketing collects and uses your personal information to operate the Level 9 Marketing Web site and deliver the services you have requested. Level 9 Marketing also uses your personally identifiable information to inform you of other products or services available from Level 9 Marketing and its affiliates. Level 9 Marketing may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+**What we do with the information we gather**
 
-Level 9 Marketing does not sell, rent or lease its customer lists to third parties. Level 9 Marketing may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Level 9 Marketing may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Level 9 Marketing, and they are required to maintain the confidentiality of your information.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-Level 9 Marketing does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-Level 9 Marketing keeps track of the Web sites and pages our customers visit within Level 9 Marketing, in order to determine what Level 9 Marketing services are the most popular. This data is used to deliver customized content and advertising within Level 9 Marketing to customers whose behavior indicates that they are interested in a particular subject area.
 
-Level 9 Marketing Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Level 9 Marketing or the site; (b) protect and defend the rights or property of Level 9 Marketing; and, (c) act under exigent circumstances to protect the personal safety of users of Level 9 Marketing, or the public.
 
-## Use of Cookies
+**Security**
 
-The Level 9 Marketing Web site uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Level 9 Marketing pages, or register with Level 9 Marketing site or services, a cookie helps Level 9 Marketing to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Level 9 Marketing Web site, the information you previously provided can be retrieved, so you can easily use the Level 9 Marketing features that you customized.
+**How we use cookies**
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Level 9 Marketing services or Web sites you visit.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-## Security of your Personal Information
+**Links to other websites**
 
-Level 9 Marketing secures your personal information from unauthorized access, use or disclosure. Level 9 Marketing secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-## Changes to this Statement
+**Controlling your personal information**
 
-Level 9 Marketing will occasionally update this Statement of Privacy to reflect company and customer feedback. Level 9 Marketing encourages you to periodically review this Statement to be informed of how Level 9 Marketing is protecting your information.
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-## Contact Information
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by  **writing to us.**
 
-Level 9 Marketing welcomes your comments regarding this Statement of Privacy. If you believe that Level 9 Marketing has not adhered to this Statement, please contact Level 9 Marketing at support@level9app.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please  **contact us.** If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
