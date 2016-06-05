@@ -1,8 +1,23 @@
-> *The following text is extracted and transformed from the successharbor.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506063321id_/http%3A//www.successharbor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successharbor.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605021931id_/http%3A//www.successharbor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Small Business Advice Help For Startups and Entrepreneurs
+# Disclosure - Small Business Advice Help For Startups and Entrepreneurs
 
-We recognise the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using Success Harbor. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
+### Disclosure Policy
+
+Since this blog is a source of income and may occasionally incorporate endorsement or testimonials, we feel that it is important to disclose the following to you, our readers:
+
+  * Most importantly. We will always give our genuine opinion about a product or service whether or not we are partnering or receiving payment.
+  * The content of our website is a source of income for us and therefore may be used to promote products, services, or other businesses.
+  * We will only promote brands, businesses, products, or services that we have used or we feel will be beneficial to our readers.
+  * Products provided to us for review are given to us free of charge with no cost to us. This does not guarantee a positive review or even a mention of the product.
+  * Our mission is to provide accurate and fair information to our readers.
+  * Mentions of associated products, services, or businesses within our website may not be noted as an affiliate in every reference.
+
+
+
+### Privacy Policy
+
+We recognize the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using Success Harbor. This policy will be continuously assessed against new technologies, business practices and our customers’ needs.
 
 When you visit this website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
