@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psecu.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905152015id_/https%3A//www.psecu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psecu.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605101825id_/https%3A//www.psecu.com/privacy) for the most accurate reproduction.*
 
 # PSECU - Privacy Act Policy
 
@@ -22,7 +22,7 @@ The specific goals of the Privacy Act Policy are:
   * To designate an individual who will be responsible for overall effectiveness to ensure compliance.
   * To determine if and what information is shared to any party not affiliated with the PSECU. 
   * To provide an opportunity for members to “opt out” of information sharing.*
-  * o provide initial training and ongoing training as needed. 
+  * To provide initial training and ongoing training as needed. 
   * To provide annual independent testing for compliance.
 
 
@@ -69,7 +69,7 @@ Internal Audit Services (IAS) initiates periodic audits of the credit union's co
 > 
 > PSECU's Privacy Policy and practices concern the personal information we collect and disclose about our members. It also includes information about third parties who may receive personal and sometimes nonpublic information from us as we conduct the business of the credit union. PSECU and its affiliates follow these practices; therefore, this notice will be applied to all.
 > 
-> PSECU will not sell and/or disclose any of your personal information to any mailing lists or to any merchants. We are in the business of serving our members and not selling or providing those lists to merchants. PSECU will not engage in the business of unsolicited e-mail (spam). However, we may use e-mail to communicate with you when necessary regarding new services or matters concerning your accounts with us, or news about the credit union.
+> PSECU will not sell and/or disclose any of your personal information to any mailing lists or to any merchants. We are in the business of serving our members and not selling or providing those lists to merchants. PSECU will not engage in the business of unsolicited email (spam). However, we may use email to communicate with you when necessary regarding new services or matters concerning your accounts with us, or news about the credit union.
 > 
 > In addition, the Board of Directors has adopted a Confidentiality of Member Information Policy. This policy is distributed to all staff. The policy basically states that any information disclosed to PSECU in the course of PSECU's business will be held in the strictest of confidence. Unauthorized or illegal disclosure of your private information is considered a policy violation and subjects the guilty party to discipline. Employees are reminded that their responsibility to maintain this privacy continues even after their employment ends.
 > 
@@ -172,7 +172,7 @@ Once we would receive your request, we will have a reasonable amount of time to 
 
 ### Emailing Marketing Service
 
-PSECU has an e-mail marketing service. PSECU will periodically send e-mails promoting our products and services, or those of our affiliates, to members for whom we have recorded e-mail addresses. All members who receive the marketing e-mails will have the opportunity to opt out of this service at any time by simply clicking the unsubscribe button. As always, all members can opt out by contacting us using the methods described in this policy.
+PSECU has an email marketing service. PSECU will periodically send emails promoting our products and services, or those of our affiliates, to members for whom we have recorded email addresses. All members who receive the marketing emails will have the opportunity to opt out of this service at any time by simply clicking the unsubscribe button. As always, all members can opt out by contacting us using the methods described in this policy.
 
 ### What You as a Member Can Do to Help
 
