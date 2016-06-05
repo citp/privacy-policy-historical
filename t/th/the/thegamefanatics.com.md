@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegamefanatics.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217122335id_/http%3A//www.thegamefanatics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamefanatics.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605112833id_/http%3A//www.thegamefanatics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure • The Game Fanatics
 
