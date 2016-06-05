@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the votesmart.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206003003id_/http%3A//votesmart.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the votesmart.org privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605161249id_/http%3A//votesmart.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Voter's Self Defense System - Vote Smart
 
@@ -26,18 +26,8 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 Sensitive and private data exchange between the site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Users may also use the site over a secured connection any time by using 'https' in the address bar.
 
+#### Donor Specific Privacy Policy
+
+Vote Smart protects all its members and their privacy. We never sell, share or divulge any information in any way about those who donate to Vote Smart. This policy pertains to all supporters, contributors and volunteers, including both online and offline donations.​
+
 This policy was last updated on October 2, 2012. Please contact [webmaster@votesmart.org](mailto:webmaster@votesmart.org) with any questions and check back here for future updates.
-
-The Government is watching you.
-
-It's okay though because we're watching them.
-
-How bad must they behave,
-
-before you will **stand up** and DO SOMETHING?
-
-Vote Smart or Vote Stupid?
-
-Party first, country second?
-
-Who are these people?
