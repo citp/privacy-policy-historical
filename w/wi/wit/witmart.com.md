@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the witmart.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130211636id_/http%3A//www.witmart.com/help/truste.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witmart.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606014814id_/http%3A//www.witmart.com/help/truste.html) for the most accurate reproduction.*
 
 # Cancellation and Refund Policy - Witmart.com
 
@@ -122,7 +122,7 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 10611 Harwin Drive, Suite 402 Houston, TX 77036
 
-MaRS Commons MaRS Centre, Heritage Building 101 College Street, Suite 230 Toronto, ON M5G 1L7 Canada
+322 King Street West Suite #402 Toronto, ON M5V 1J2 Canada
 
 F5, NO.30 of Qingfeng North Road New North Zone District, Chongqing China
 
