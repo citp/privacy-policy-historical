@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the mycarhelpline.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206044620id_/http%3A//www.mycarhelpline.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6%26Itemid%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycarhelpline.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605031307id_/http%3A//www.mycarhelpline.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6%26Itemid%3D36) for the most accurate reproduction.*
 
 # Privacy Policy at Modi Online Ventures Mycarhelpline.com
 
 We strongly suggest to read the privacy policy and disclaimer and consent before you browse in site, post to submit your inquiry in website, www.mycarhelpline.com . If you do not consent with any or either term, kindly stop and dont submit your details and may leave website as per own discretion.
 
 By submitting query/enquiry form at www.mycarhelpline.com you authorize us & our associate partners to contact you via email or phone call and offer you their services for the product you have opted for, imparting product knowledge, offer promotional offers running on website & offers offered by the associated third parties. By sending an online enquiry/form submission, Irrespective of the fact if also you have registered yourself under DND or NDNC service, you authorize and request us to give you a call/sms/email (in any or either way) from the Mycarhelpline (Modi Online Ventures) & associate partners for the above mentioned purpose.
+
+**How to Opt Out from Email**
+
+» Raised Ticket by Contacting through Forum and Later wish to Opt Out: Wish to Opt out of Request Email from Forum, send us an email on [support@mycarhelpline.com](mailto:support@mycarhelpline.com) and the ticket will be locked so that no further replies will be sent to your mail address
+
+» Subscribe to Blog Post Initially but wish to Opt out: If you chose to Subscribe to blog post and wish to opt out later on, There is an unsubscribe link at the bottom of blog Post Email. You can click on it to be removed from all email updates on that blog post
+
+» Selling Used Car but wish to Opt out of Email: If you post in advertisement listing for sale of Old Car and wish to not to recieve any communication or email, send us an email on [support@mycarhelpline.com](mailto:support@mycarhelpline.com) and the listing advertisement will be deactivated so that no further replies will be sent to your mail address
 
 **Privacy Information about Sharing of Data with Advertisers** We have Enabled Google Analytics Display features, wherein demographics and interest based data is sent to Advertisers through Analytics code. You should know that Third party advertisements or Google Ads as shown on www.mycarhelpline.com can or also may use technology such as cookies when they advertise on our site, which will also send these advertisers information including your Location, Browser, Interest and Demographics etc. you used to visit our site.
 
