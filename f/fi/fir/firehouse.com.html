@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firehouse.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206105641id_/http%3A//www.firehouse.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firehouse.com privacy policy that was archived on 2016-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605110316id_/http%3A//www.firehouse.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -21,13 +21,14 @@
 	
 
 	<!-- Begin included scripts -->
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="//www.insticator.com/embeds/script?sid=4cca1390-888e-4890-90ec-9886d7fbbe85&amp;cbt=1580355000000" async=""></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script type="text/javascript" src="http://cygnus-fhc.baseplatform.io/components/platform.min.js">
 
 {}
 
 </script>
 <script type="text/javascript" src="http://ox-d.firehouse.com/w/1.0/jstag"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js"></script>
 <script type="text/javascript" src="http://www.firehouse.com/app/merrick/files/www.firehouse.com/js/d026e9e403e8416280248792da4f6f49.js"></script>
 
 	
@@ -78,7 +79,7 @@ var
 	<!-- End included scripts -->
 
 	<!-- Begin included CSS -->
-	<link rel="stylesheet" type="text/css" href="http://www.firehouse.com/app/merrick/files/www.firehouse.com/css/f43a4003bab34750d091867a1abbe88e.css">
+	<link rel="stylesheet" type="text/css" href="http://www.firehouse.com/app/merrick/files/www.firehouse.com/css/590b0a400fcea24cf43ff779839cf4b6.css">
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arvo:400,700">
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 
@@ -90,10 +91,19 @@ var
 $(document).ready(function(){
     PlatformComponents.on('ready', function() {
 
-        // Redrawn masonry when comments change.
+        // Redraw masonry when comments change.
         PlatformComponents.on('Comments.render', function() {
             Page.reloadGrid();
             Content.setSidebarHeight();
+        })
+
+        // Show download buttons when a customer is logged in.
+        PlatformComponents.on('CustomerManager.customer.loaded', function(e) {
+
+            if (null !== PlatformComponents.getCustomer().id && undefined !== window.oTable) {
+                $('<strong>EXPORT RESULTS AS</strong>').appendTo($('#spec_search .export'));
+                window.oTable.buttons().container().appendTo( $('#spec_search .export'));
+            }
         })
 
         var hideModal = function() {
@@ -179,6 +189,11 @@ $(document).ready(function(){
 
 	
 
+            
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: "2.0", q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); var b=c.createElement(s); b.src=u + new Date(Math.floor(new Date().getTime() / 6e5) * 6e5).getTime(); b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//www.insticator.com/embeds/script?sid=4cca1390-888e-4890-90ec-9886d7fbbe85&cbt=');/*]]>*/</script>
+
+
+    
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body>
@@ -239,7 +254,9 @@ $(document).ready(function(){
 
 
 
+
     
+
 
 
 
@@ -265,28 +282,28 @@ $(document).ready(function(){
 <!-- TEST TAGS -->
 <!-- END TEST TAGS -->
 
-<div class="ad custom-ad ad-1658x1058 wallpaper-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498259" data-ad-skip-fallback="true" id="openx_adunit_id__498259__2070459502"></div>
+<div class="ad custom-ad ad-1658x1058 wallpaper-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498259" data-ad-skip-fallback="true" id="openx_adunit_id__498259__1640171093"></div>
 <!-- Welcome Ad container -->
 <!-- End Welcome Ad container -->
 
 <!-- TEST TAGS -->
 <!-- END TEST TAGS -->
 
-<div class="ad custom-ad ad-550x480 welcome-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498260" data-ad-skip-fallback="true" id="openx_adunit_id__498260__1690668581"></div>
+<div class="ad custom-ad ad-550x480 welcome-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498260" data-ad-skip-fallback="true" id="openx_adunit_id__498260__146876901"></div>
 <!-- Page Peel Ad container -->
 <!-- End Page Peel Ad container -->
 
 <!-- TEST TAGS -->
 <!-- END TEST TAGS -->
 
-<div class="ad custom-ad ad-500x500 page-peel-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498256" data-ad-skip-fallback="true" id="openx_adunit_id__498256__469730340"></div>
+<div class="ad custom-ad ad-500x500 page-peel-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498256" data-ad-skip-fallback="true" id="openx_adunit_id__498256__141196544"></div>
 <!-- Page Peel Ad container -->
 <!-- End Page Peel Ad container -->
 
 <!-- TEST TAGS -->
 <!-- END TEST TAGS -->
 
-<div class="ad custom-ad ad-1x1 take-over-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498258" data-ad-skip-fallback="true" id="openx_adunit_id__498258__190611510"></div>
+<div class="ad custom-ad ad-1x1 take-over-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498258" data-ad-skip-fallback="true" id="openx_adunit_id__498258__268673603"></div>
 <!-- End Custom Ads -->
 
 <div class="overlay page-overlay ghost"></div>
@@ -537,9 +554,9 @@ $(document).ready(function(){
 		<a href="http://www.firehouse.com/forums" target="_blank" class="tooltip-item uppercase">Forums</a>
 	<!-- </div> -->
 </li>
-<li class="navigation-item extras section-11086" data-alias="/http://mail.firehousemail.com/email/scripts/loginuser.pl">
+<li class="navigation-item extras section-6543" data-alias="/magazine">
 	<!-- <div class="color-effect"> -->
-		<a href="http://mail.firehousemail.com/email/scripts/loginuser.pl" target="_blank" class="tooltip-item uppercase">FireHouse Mail</a>
+		<a href="/magazine" class="tooltip-item uppercase">Magazine</a>
 	<!-- </div> -->
 </li>
 <li class="navigation-item extras section-6544" data-alias="/careers">
@@ -547,14 +564,19 @@ $(document).ready(function(){
 		<a href="/careers" class="tooltip-item uppercase">Jobs</a>
 	<!-- </div> -->
 </li>
-<li class="navigation-item extras section-6543" data-alias="/magazine">
+<li class="navigation-item extras section-6561" data-alias="/latest-news/line-of-duty-deaths">
 	<!-- <div class="color-effect"> -->
-		<a href="/magazine" class="tooltip-item uppercase">Magazine</a>
+		<a href="/latest-news/line-of-duty-deaths" class="tooltip-item uppercase">LODDs</a>
+	<!-- </div> -->
+</li>
+<li class="navigation-item extras section-11714" data-alias="/40thanniversary">
+	<!-- <div class="color-effect"> -->
+		<a href="/40thanniversary" class="tooltip-item uppercase">40th Anniversary</a>
 	<!-- </div> -->
 </li>
 <li class="navigation-item extras section-11697" data-alias="/hall-of-fame">
 	<!-- <div class="color-effect"> -->
-		<a href="/hall-of-fame" class="tooltip-item uppercase">Firehouse Hall of Fame</a>
+		<a href="/hall-of-fame" class="tooltip-item uppercase">Hall of Fame</a>
 	<!-- </div> -->
 </li>
 <li class="navigation-item extras section-6742" data-alias="/valor-awards">
@@ -562,29 +584,9 @@ $(document).ready(function(){
 		<a href="/valor-awards" class="tooltip-item uppercase">Valor Awards</a>
 	<!-- </div> -->
 </li>
-<li class="navigation-item extras section-6561" data-alias="/latest-news/line-of-duty-deaths">
+<li class="navigation-item extras section-10604" data-alias="/annual-run-survey">
 	<!-- <div class="color-effect"> -->
-		<a href="/latest-news/line-of-duty-deaths" class="tooltip-item uppercase">Line of Duty Deaths</a>
-	<!-- </div> -->
-</li>
-<li class="navigation-item extras section-6548" data-alias="/videos">
-	<!-- <div class="color-effect"> -->
-		<a href="/videos" class="tooltip-item uppercase">Videos</a>
-	<!-- </div> -->
-</li>
-<li class="navigation-item extras section-6546" data-alias="/blog">
-	<!-- <div class="color-effect"> -->
-		<a href="/blog" class="tooltip-item uppercase">Blogs</a>
-	<!-- </div> -->
-</li>
-<li class="navigation-item extras section-6551" data-alias="/podcast">
-	<!-- <div class="color-effect"> -->
-		<a href="/podcast" class="tooltip-item uppercase">Podcasts</a>
-	<!-- </div> -->
-</li>
-<li class="navigation-item extras section-6578" data-alias="/contributors">
-	<!-- <div class="color-effect"> -->
-		<a href="/contributors" class="tooltip-item uppercase">Contributors</a>
+		<a href="/annual-run-survey" class="tooltip-item uppercase">Run Surveys</a>
 	<!-- </div> -->
 </li>
 <li class="navigation-item extras section-6574" data-alias="/training-drills">
@@ -592,14 +594,9 @@ $(document).ready(function(){
 		<a href="/training-drills" class="tooltip-item uppercase">Training Drills</a>
 	<!-- </div> -->
 </li>
-<li class="navigation-item extras section-6575" data-alias="/monthly-quiz">
+<li class="navigation-item extras section-6548" data-alias="/videos">
 	<!-- <div class="color-effect"> -->
-		<a href="/monthly-quiz" class="tooltip-item uppercase">Monthly Quiz</a>
-	<!-- </div> -->
-</li>
-<li class="navigation-item extras section-11499" data-alias="/nfff-new-goals">
-	<!-- <div class="color-effect"> -->
-		<a href="/nfff-new-goals" class="tooltip-item uppercase">NFFF: New Goals</a>
+		<a href="/videos" class="tooltip-item uppercase">Videos</a>
 	<!-- </div> -->
 </li>
 <li class="navigation-item extras section-9498" data-alias="/blogs/industry-insights">
@@ -612,19 +609,24 @@ $(document).ready(function(){
 		<a href="/webinars" class="tooltip-item uppercase">Webcasts</a>
 	<!-- </div> -->
 </li>
-<li class="navigation-item extras section-11173" data-alias="/in_quarters">
-	<!-- <div class="color-effect"> -->
-		<a href="/in_quarters" class="tooltip-item uppercase">In Quarters</a>
-	<!-- </div> -->
-</li>
 <li class="navigation-item extras section-11174" data-alias="/photostory">
 	<!-- <div class="color-effect"> -->
 		<a href="/photostory" class="tooltip-item uppercase">Photo Story</a>
 	<!-- </div> -->
 </li>
+<li class="navigation-item extras section-11173" data-alias="/in_quarters">
+	<!-- <div class="color-effect"> -->
+		<a href="/in_quarters" class="tooltip-item uppercase">In Quarters</a>
+	<!-- </div> -->
+</li>
 <li class="navigation-item extras section-11351" data-alias="/apparatus">
 	<!-- <div class="color-effect"> -->
 		<a href="/apparatus" class="tooltip-item uppercase">Apparatus Showcase</a>
+	<!-- </div> -->
+</li>
+<li class="navigation-item extras section-11749" data-alias="/12174791">
+	<!-- <div class="color-effect"> -->
+		<a href="/12174791" class="tooltip-item uppercase">Submissions</a>
 	<!-- </div> -->
 </li>
 <li class="navigation-item extras section-11527" data-alias="/http://firehouseworld.com/">
@@ -637,39 +639,29 @@ $(document).ready(function(){
 		<a href="http://firehouseexpo.com/" target="_blank" class="tooltip-item uppercase">Firehouse Expo</a>
 	<!-- </div> -->
 </li>
+<li class="navigation-item extras section-11765" data-alias="/http://fhstationdesign.com">
+	<!-- <div class="color-effect"> -->
+		<a href="http://fhstationdesign.com" target="_blank" class="tooltip-item uppercase">Station Design Conference</a>
+	<!-- </div> -->
+</li>
 <li class="navigation-item extras section-6542" data-alias="/events">
 	<!-- <div class="color-effect"> -->
 		<a href="/events" class="tooltip-item uppercase">Events</a>
 	<!-- </div> -->
 </li>
-<li class="navigation-item extras section-10604" data-alias="/annual-run-survey">
+<li class="navigation-item extras section-11086" data-alias="/http://mail.firehousemail.com/email/scripts/loginuser.pl">
 	<!-- <div class="color-effect"> -->
-		<a href="/annual-run-survey" class="tooltip-item uppercase">Run Survey</a>
+		<a href="http://mail.firehousemail.com/email/scripts/loginuser.pl" target="_blank" class="tooltip-item uppercase">FireHouse Mail</a>
+	<!-- </div> -->
+</li>
+<li class="navigation-item extras section-11720" data-alias="/historical-incidents">
+	<!-- <div class="color-effect"> -->
+		<a href="/historical-incidents" class="tooltip-item uppercase">Historical Incidents</a>
 	<!-- </div> -->
 </li>
 <li class="navigation-item extras section-6580" data-alias="/shiftcalendar">
 	<!-- <div class="color-effect"> -->
 		<a href="/shiftcalendar" class="tooltip-item uppercase">Shift Calendar</a>
-	<!-- </div> -->
-</li>
-<li class="navigation-item extras section-7302" data-alias="/911">
-	<!-- <div class="color-effect"> -->
-		<a href="/911" class="tooltip-item uppercase">Remember 9/11</a>
-	<!-- </div> -->
-</li>
-<li class="navigation-item extras section-10606" data-alias="/worcester-tragedy">
-	<!-- <div class="color-effect"> -->
-		<a href="/worcester-tragedy" class="tooltip-item uppercase">Worcester Tragedy</a>
-	<!-- </div> -->
-</li>
-<li class="navigation-item extras section-10624" data-alias="/charleston-tragedy">
-	<!-- <div class="color-effect"> -->
-		<a href="/charleston-tragedy" class="tooltip-item uppercase">Charleston Tragedy</a>
-	<!-- </div> -->
-</li>
-<li class="navigation-item extras section-11279" data-alias="/wtcbook">
-	<!-- <div class="color-effect"> -->
-		<a href="/wtcbook" class="tooltip-item uppercase">WTC Book</a>
 	<!-- </div> -->
 </li>
 
@@ -706,11 +698,11 @@ $(document).ready(function(){
 
 	<div class="ad-container leaderboard-ad-container variable">
 
-		<div class="ad leaderboard-ad ad-320x50" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498255" id="openx_adunit_id__498255__374984661"></div>
+		<div class="ad leaderboard-ad ad-320x50" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498255" id="openx_adunit_id__498255__1321452488"></div>
 
-		<div class="ad leaderboard-ad ad-728x90" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498252" id="openx_adunit_id__498252__411752776"></div>
+		<div class="ad leaderboard-ad ad-728x90" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498252" id="openx_adunit_id__498252__1181988728"></div>
 
-		<div class="ad leaderboard-ad ad-970x90" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498250" id="openx_adunit_id__498250__1857444661"></div>
+		<div class="ad leaderboard-ad ad-970x90" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498250" id="openx_adunit_id__498250__967374587"></div>
 
 	</div>
 	
@@ -941,11 +933,11 @@ $(document).ready(function(){
 
 	<div class="ad-container leaderboard-ad-container variable">
 
-		<div class="ad leaderboard-ad ad-320x50" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498255" id="openx_adunit_id__498255__2111272844"></div>
+		<div class="ad leaderboard-ad ad-320x50" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498255" id="openx_adunit_id__498255__402415818"></div>
 
-		<div class="ad leaderboard-ad ad-728x90" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498252" id="openx_adunit_id__498252__653867685"></div>
+		<div class="ad leaderboard-ad ad-728x90" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498252" id="openx_adunit_id__498252__1689084395"></div>
 
-		<div class="ad leaderboard-ad ad-970x90" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498257" id="openx_adunit_id__498257__217672660"></div>
+		<div class="ad leaderboard-ad ad-970x90" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498257" id="openx_adunit_id__498257__992590156"></div>
 
 	</div>
 	
@@ -956,7 +948,36 @@ $(document).ready(function(){
 
 
 
+    <iframe src="https://5326342.fls.doubleclick.net/activityi;src=5326342;type=south0;cat=fireh0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+
+
+<script src="//fast.wistia.com/static/embed_shepherd-v1.js"></script>
+<script>
+//<![CDATA[
+wistiaEmbeds.onFind(function(video) {
+  var email = Wistia.localStorage("golden-ticket");
+  if (email) {
+    video.setEmail(email);
+  }
+});
+wistiaEmbeds.bind("conversion", function(video, type, data) {
+  if (/^(pre|mid|post)-roll-email$/.test(type)) {
+    Wistia.localStorage("golden-ticket", data);
+    for (var i = 0; i < wistiaEmbeds.length; i++) {
+      wistiaEmbeds[i].setEmail(data);
+    }
+  }
+});
+//]]>
+</script>
+
+
+
 </footer>
+
+
+
+
 
 
 
