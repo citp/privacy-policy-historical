@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the axisrooms.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024123555id_/http%3A//www.axisrooms.com/public/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axisrooms.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605121219id_/http%3A//www.axisrooms.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - AxisRooms - Channel manager for Hotels | Hotel Channel Management | Channel Management
+# None
+
+We, [www.axisrooms.com](http://www.axisrooms.com/), the creator of this Privacy Policy ensure our firm commitment to your privacy vis-à-vis the protection of your priceless information. In order to endow you with our uninterrupted use of services, we may collect and, in some circumstances, disclose information about you. To enhance better protection of your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. 
+
+If you have any questions or concerns regarding this privacy policy, you should contact our Customer Support Desk at [support@axisrooms.com](mailto:support@axisrooms.com)
 
 **1\. OVERVIEW**
 
@@ -18,6 +22,9 @@ In order to use this website, you are required to register yourself by providing
 
 This privacy policy also applies to data we collect from users who are not registered as members of this site, including, but not limited to, browsing behavior, pages viewed etc. 
 
+  
+
+
 **2\. NOTIFICATION OF MODIFICATIONS AND CHANGES TO THE T &C AND PRIVACY POLICY**   
 We reserve the right to change the Terms and Privacy Policy from time to time as seen fit, without any intimation to you, and your continued use of the site will signify your acceptance of any amendment to these terms. 
 
@@ -34,6 +41,18 @@ Our site's online requisition form requires users to give us contact information
 
 **4\. COOKIES**   
 We use data collection devices such as "cookies" on certain pages of our Websites. "Cookies" are small files sited on your hard drive that assist us in providing customized services. We also offer certain features that are only available through the use of a "cookie". Cookies can also help us provide information, which is targeted to your interests. Cookies may be used whether you register with us or not. 
+
+  
+
+
+**5\. EXTERNAL LINKS ON WEBSITE**   
+You are a restricted user of this website. 
+
+The Website may include hyperlinks to other web sites or content or resources. We have no control over any websites or resources, which are provided by companies or persons other than Us. 
+
+You acknowledge and agree that We are not responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such websites or resources. 
+
+You acknowledge and agree that We are not liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such websites or resources. These third-party service providers and Third-Party Sites may have their own privacy policies governing the storage and retention of your personal information that you may be subject to. We recommend that when you enter a Third-Party Site, you review the Third Party Site's privacy policy as it relates to safeguarding your personal information. We use third-party advertising companies to serve ads when you visit the Website. 
 
   
 
