@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the matchedge.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206145235id_/http%3A//matchedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchedge.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605201911id_/http%3A//matchedge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - matchedge.com
 
 ## This Privacy Policy is effective for matchedge.com members  
-Last edition — 1 June 2014
+Last edition — 10 February 2016
 
-The matchedge.com web-site and the service is a member of Dating Factory network, which is operated by Tyche Technologies AG, a company registered under the laws of Switzerland, Reg. No. CHE-420.114.703.
+The matchedge.com web-site and the service is a member of Dating Factory network, which is operated by Tyche Technologies AG (Baarerstrasse 21, CH-6300, Zug, Switzerland), a company registered under the laws of Switzerland, Reg. No. CHE-420.114.703.
 
 matchedge.com is committed to providing you with the professional and high quality introductions and dating service and is therefore committed to protecting your privacy. We follow all the procedures that are set out in this document, and it needs to be read and understood together with the [Terms of use](https://web.archive.org/terms/) of the matchedge.com web-site. matchedge.com Privacy policy is intended to ensure that you can use the site and contact other members without having to worry about confidentiality issues.
 
@@ -18,7 +18,8 @@ matchedge.com may change some clauses of this Policy from time to time, and memb
   5. Your individual use of matchedge.com website and your interaction with other members through this site will be kept strictly private.
   6. We may from time to time send you emails containing system and site activity, notifications or promotions that we feel may be of interest to you. You may unsubscribe from matchedge.com emails at any time by changing your profile settings or by following the unsubscribe link at the bottom of every matchedge.com email.
   7. In the course of serving ads to this site and you using some part of the web-site, us or our third-party advertiser may place or recognize a unique cookie on your browser. Cookies are a normal part of internet operations and are also used by matchedge.com to safely identify you each time you logon and use the site and to keep your session active when you don’t use the website for some time. Any information that us or third parties collect via cookies and marketing campaigns tracking software is totally anonymous.
-  8. Our members have the following choices to modify or delete their information from our database: 
+  8. If you want to unsubscribe from receiving email notifications to your external mailbox, please use the link at the bottom of each email or go to [Profile >> Account details](https://web.archive.org/myprofile/update/) page and manage your e-mail settings.  
+Our members have the following choices to modify or delete their information from our database: 
     * Send an email to [Customer support](https://web.archive.org/contacts/)
     * Log in with your password and change/delete your profile
 
