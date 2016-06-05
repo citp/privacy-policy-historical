@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the getpebble.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906024132id_/https%3A//getpebble.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpebble.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605032939id_/https%3A//www.pebble.com/legal/privacy) for the most accurate reproduction.*
 
 # Pebble Smartwatch | Smartwatch for iPhone & Android
 
 ## Pebble Privacy Policy
 
-**_Last updated on April 23rd, 2015._**
+**_Last updated on November 18, 2015._**
 
-This Privacy Policy discloses the policies of Pebble Technology Corp. (“Pebble,” “we,” “our,” or “us”). By accessing or using Pebble’s websites (getpebble.com and cloudpebble.net), Pebble Smartwatch (“Smartwatch”), mobile applications, and/or any of Pebble’s other online or mobile products (“Services”), you agree to Pebble’s Privacy Policy and that we may transfer and store your information in the United States. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICES. This Privacy Policy covers:
+This Privacy Policy discloses the policies of Pebble Technology Corp. (“Pebble,” “we,” “our,” or “us”). By accessing or using Pebble’s websites (getpebble.com, pebble.com and cloudpebble.net), Pebble Smartwatch (“Smartwatch”), mobile applications, and/or any of Pebble’s other online or mobile products (“Services”), you agree to Pebble’s Privacy Policy and that we may transfer and store your information in the United States. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICES. This Privacy Policy covers:
 
   1. The Information we Collect;
   2. How we Use the Information we Collect;
-  3. Information sharing and disclosure;
+  3. Information Sharing and Disclosure;
   4. Online Analytics and Tailored Online Marketing
   5. Information Access and Retention;
   6. How we Protect Information;
   7. Communications Choices;
-  8. Linked sites and Marketing Content;
-  9. Users from outside the United States;
+  8. Linked Sites and Marketing Content;
+  9. Users from Outside the United States;
   10. Children;
   11. How to Contact Us;
   12. Your California Privacy Rights; and
@@ -34,6 +34,7 @@ We may collect information about you during your use of the Services, including 
 
   * Make a purchase;
   * Provide registration information and/or create an account;
+  * Use our SMS, email, or Pebble Health sleep and fitness services;
   * Enter a sweepstakes or contest or register for a promotion;
   * Participate in our blogs or online forums;
   * Request certain features (e.g., newsletters, updates, and other products);
@@ -58,13 +59,21 @@ When you use the Services, there is some information that we collect automatical
 
 We may automatically collect certain information about the computer or devices (including mobile devices and Smartwatches) you use to access the Services. As described further below, we may use third party analytics providers and technologies, including cookies and similar tools, to assist in collecting this information.
 
-  * When you use our websites, we may collect and analyze information such as your IP address, browser types, browser language, operating system, the state or country from which you accessed the Services, referring and exit pages and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services and upload or post content, error logs, and other similar information.
-  * If you use our developer tools on cloudpebble.net, we may also collect information such as the software version number, the tools you use, error logs, project size, type of resources and APIs used, and how often you use them. If you would rather not send us this information through the developer tools, you can visit the [developer tools documentation](http://developer.getpebble.com/guides/publishing-tools/pebble-tool/) for information regarding how to opt out.
+  * **Website Data.** When you use our websites, we may collect and analyze information such as your IP address, browser types, browser language, operating system, the state or country from which you accessed the Services, referring and exit pages and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services and upload or post content, error logs, and other similar information.
+  * **Developer tools.** If you use our developer tools on cloudpebble.net, we may also collect information such as the software version number, the tools you use, error logs, project size, type of resources and APIs used, and how often you use them. If you would rather not send us this information through the developer tools, you can visit the [developer tools documentation](http://developer.getpebble.com/guides/publishing-tools/pebble-tool/) for information regarding how to opt out.
   * When you use the Pebble app store, we may collect information such as your user ID, device serial number, search queries, and the apps you downloaded or stored.
-  * When you access the Services via a mobile device, we may collect information such as geolocation information (as described in the next section below), unique device identifiers (e.g., a UDID or IDFA on Apple devices like the iPhone, and iPad) and other information about your mobile phone or other mobile device(s), such as operating system, version, and time spent in different parts of our mobile app and other apps on your phone.
-  * When you use a Smartwatch and our mobile apps, we collect certain analytics information about your use of these services (such as features and third-party apps used, log files, buttons pressed, and support requests and results). For example, if you choose to display event information from your calendar or from a third party website (e.g., Facebook or ESPN) to your Smartwatch timeline, we may collect information such as the number of events, title length, number of participants, durations, alerts, from what site the event came from, and other similar information. We collect and use most of this information solely in anonymous and aggregate form, but maintain log files in identifiable form for a period of time for troubleshooting and other purposes. This information helps us improve our products and services, troubleshoot bugs, and analyze device errors. Within your settings for the Smartwatch app, you may elect to disable analytics on your Smartwatch, although please be aware that disabling analytics may interfere with your ability to use certain apps or features, for example personalization or recommendation services.
+  * **Mobile Device Data.** When you access the Services via a mobile device, we may collect information such as geolocation information (as described in the next section below), unique device identifiers (e.g., a UDID or IDFA on Apple devices like the iPhone, and iPad) and other information about your mobile phone or other mobile device(s), such as operating system, version, and time spent in different parts of our mobile app and other apps on your phone.
+  * **Smartwatch Data.** When you use a Smartwatch and our mobile apps, we collect certain analytics information about your use of these services (such as features and third-party apps used, log files, buttons pressed, and support requests and results). For example, if you choose to display event information from your calendar or from a third party website (e.g., Facebook or ESPN) to your Smartwatch timeline, we may collect information such as the number of events, title length, number of participants, durations, alerts, from what site the event came from, and other similar information. We collect and use most of this information solely in anonymous and aggregate form, but maintain log files in identifiable form for a period of time for troubleshooting and other purposes. This information helps us improve our products and services, troubleshoot bugs, and analyze device errors. Within your settings for the Smartwatch app, you may elect to disable analytics on your Smartwatch, although please be aware that disabling analytics may interfere with your ability to use certain apps or features, for example personalization or recommendation services.
 
 
+
+**Pebble SMS/Email Services.**
+
+If you would like to use our email or SMS services on your Smartwatch, we will ask for your permission to collect certain information to help us provide these services to you and to analyze usage and performance of these services. If you use our SMS service, depending on the mobile device platform you use, we may collect information that includes, but is not limited to, your phone carrier, message success/failure rates, and other similar information to help us provide and improve the service. To use our SMS service, you will be asked to provide us with access to your contact lists stored on your mobile device so that we can facilitate your communications and actions through the service. If you do not provide such access, you will not be able to use this service. If you use our email service, depending on the mobile device platform you use, we may collect information that includes, but is not limited to, which email accounts you choose to sync with your Smartwatch, the actions you take with respect to the messages you receive (e.g., archive, delete), message transmission success/failure rates, message character/word count, and other, similar statistical information. We use this information to identify the account with which your actions are taken and to provide and improve the quality of the service. We may also collect your authentication credentials or authentication token to retrieve your emails and to facilitate your replies and actions. We do not store the contents of your SMS or email messages or your authentication details on Pebble’s servers any longer than is required to send messages that you initiate. We also do not share them with third parties (other than our partner email and voice recognition providers so the messages can be transmitted) or use them for marketing purposes. If you no longer want to use these services, you can turn them off through your account settings. For more details about the types of information we collect on each mobile device platform, please [click here](https://help.getpebble.com/customer/portal/articles/2166170-sms-messaging?b_id=8308#Note).
+
+**Pebble Health Sleep and Fitness Service.**
+
+If you would like to use Pebble’s Health sleep and fitness services, we will ask for your permission to collect information about your Smartwatch’s motions throughout the day and night to provide you with information about your behaviors such as sleep patterns (when you wake up, when you sleep, sleep stage, etc.) and daily fitness activity (e.g., number of steps taken per minute). To make these services more accurate for you (such as to estimate the number of calories you have burned), you have the option to provide information including your gender, age, height, and weight. You will also have the option to receive more personalized fitness and sleep insights if you give Pebble permission to combine the data collected through the Health sleep and fitness services with other data from your watch. For example, if you enable the combination of your health, sleep, and fitness data with your timeline data, we can provide you with personalized communications about when your schedule will permit a workout, or we can let you know if you have an extra hour to sleep in. Through your account settings, you can turn off personalized insights or the collection and use of all health, sleep, and fitness data by Pebble.
 
 **Pebble Voice Recognition Service.**
 
@@ -113,7 +122,7 @@ We use the information that we collect in order to:
 We do not rent, sell, or share your information with third parties except as described in this Privacy Policy. We may share your information for the following purposes:
 
   * We may share your information with our service providers who use your information on our behalf to assist in business activities such as delivering certain features or services, order fulfillment, payment processing, marketing, and other similar services. These third parties are prohibited from using your personal information for promotional purposes.
-  * If you choose to download or install third party apps, we may share your information with such third party apps to assist in providing the app. As explained in Section 8 below, any information collected by these third party apps is subject to their privacy policies.
+  * If you choose to download or install third party apps, we may share your information with such third party apps to assist in providing the app (e.g., step count, seconds active in the day, calories, distance walked, total sleep, restful sleep, time fell asleep, time woke up, and whether you are currently awake, active, or sleeping). As explained in Section 8 below, any information collected by these third party apps is subject to their privacy policies.
   * When you sign up to participate in a contest or sweepstakes, your information may also be provided to our sweepstakes or contest marketers, operators, or sponsors and the use of that information will be also governed by those marketers’, operators’, or sponsors’ privacy policies or practices.
   * We may disclose your information when we believe in good faith that such disclosure is necessary in response to any subpoenas, court orders, or other legal process we receive, or to establish or exercise our legal rights or to defend against legal claims.
   * We may disclose your information when we believe it appropriate in order to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Service for the Services you accessed, and/or to protect our rights and property.
@@ -127,7 +136,7 @@ We do not rent, sell, or share your information with third parties except as des
 
 **_Online Analytics._**
 
-We may use third-party web analytics services on our Services, such as those of Google Analytics. These service providers use the sort of technology described in the Automatically-Collected Information section above to help us analyze how users use the Services, including by noting the third-party website from which you arrive. The information collected by the technology will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. We also use Google Analytics for certain purposes related to online marketing, as described in the following section. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-Out Browser Add-on by [clicking here.](https://tools.google.com/dlpage/gaoptout)
+We may use third-party web analytics services on our Services, such as those of Google Analytics. These service providers use the sort of technology described in the Automatically-Collected Information section above to help us analyze how users use the Services, including by noting the third-party website from which you arrive. The information collected by the technology will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. We also use Google Analytics for certain purposes related to online marketing, as described in the following section. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-Out Browser Add-on by [clicking here](https://tools.google.com/dlpage/gaoptout).
 
 **_Tailored Online Marketing._**
 
@@ -159,7 +168,7 @@ Information collected by Pebble is used for the purposes set forth in this Priva
 
 The Services may contain links to third-party websites. We are not responsible for the privacy practices or the content of those third-party websites.
 
-We also have relationships with third-parties to provide content, products, services, and functionality through the Services (including third party applications that you download to your Smartwatch). When you use any services provided by these third-party providers, the providers may collect information from and about you, in which case the provider’s privacy policy (which may differ from this Privacy Policy) would apply. If you have any questions regarding the privacy policy of any of our providers, you should contact the provider directly for more information.
+We also have relationships with third-parties to provide content, products, services, and functionality through the Services (including third party applications that you download to your Smartwatch). When you use any services provided by these third-party providers, the providers may collect information from and about you (this information is identified in the appstore for health, sleep, and fitness data), in which case the provider’s privacy policy (which may differ from this Privacy Policy) would apply. If you have any questions regarding the privacy policy of any of our providers, you should contact the provider directly for more information.
 
 **9\. Users from Outside the United States.**
 
@@ -167,7 +176,7 @@ Pebble complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Fr
 
 Your use of the Services may involve the transfer, storage and processing of your information to and in various countries around the world where our servers are located and our databases are operated that may have different levels of privacy protection than your country.
 
-By using the Services, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in our Privacy Policy, except in the case of data transfers from the European Economic Area or Switzerland, which are covered under our EU-US and Swiss-US Safe Harbor certifications detailed above.
+By using the Services, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in our Privacy Policy.
 
 **10\. Children.**
 
