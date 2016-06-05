@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ysu.edu privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206230347id_/http%3A//cms.ysu.edu/administrative-offices/information-technology-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ysu.edu privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606010609id_/http%3A//cms.ysu.edu/administrative-offices/information-technology-services/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Youngstown State University
 
@@ -10,7 +10,7 @@ The YSU website makes use of SSL (i.e., secure socket layer) technology for tran
 
 If there are questions regarding content, visitors should contact the specific department where that content resides, or our webmaster, Robert Tupaj: [rtupaj@ysu.edu](mailto:rtupaj@ysu.edu) ; telephone: 330-941-3220 .
 
-ContentM Import Information 
+ContentM Import Information
 
 Import Status: 
 
