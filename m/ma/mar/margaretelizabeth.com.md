@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the margaretelizabeth.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227141724id_/http%3A//www.margaretelizabeth.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the margaretelizabeth.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605180221id_/http%3A//www.margaretelizabeth.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Margaret Elizabeth
+# Privacy Policy | Margaret Elizabeth
 
 PRIVACY POLICY
 
@@ -118,4 +118,4 @@ If you would like to: access, correct, amend or delete any personal information 
 
 [
 
-1735B Union Street San Francisco California US 94123]
+3334 Sacramento St San Francisco California US 94118]
