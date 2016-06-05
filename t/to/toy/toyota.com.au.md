@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121110211id_/http%3A//www.toyota.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605042249id_/http%3A//www.toyota.com.au/privacy) for the most accurate reproduction.*
 
 # Toyota Privacy Policy
 
@@ -177,272 +177,182 @@ Telephoning us on 1800 TOYOTA (1800 869 682) (Toll Free)
 
 Back to the top
 
-## Toyota Finance - Privacy Policy
+## Toyota Finance Privacy Policy
 
-Toyota Finance aims to provide our customers with the best possible products and services. To achieve this we aim to make efficient use of the personal information and credit information we collect from our customers.
+Toyota Finance (we, our or us) understand that your personal information and credit information (information) is important to you and we value your trust. This Privacy Policy sets out how we will manage and protect your information. It also includes how we manage the information we collect from third parties, such as your credit report through the credit reporting system. 
 
-We also want our customers to have confidence that in handling personal information and credit information, we afford the information an appropriate level of privacy, consistent with the Australian privacy laws.
-
-[TOYOTA FINANCE PRIVACY POLICY](https://web.archive.org/web/20151121110211id_/http%3A//www.toyota.com.au/static/pdfs/toyota-finance-privacy-policy.pdf)
+[TOYOTA FINANCE PRIVACY POLICY](https://web.archive.org/static/pdfs/toyota-finance-privacy-policy.pdf)
 
 Back to the top
 
 ### Who are we?
 
-Toyota Finance is a division of Toyota Finance Australia Limited ABN 48 002 435 181, AFSL and Australian Credit Licence 392536 ('we', 'our' or 'us') which is a related company of Toyota Motor Corporation Australia Limited ABN 64 009 686 097 ('TMCA').
+Toyota Finance is a division of Toyota Finance Australia Limited ABN 48 002 435 181, AFSL and Australian Credit Licence 392536 which is a related company of Toyota Motor Corporation Australia Limited ABN 64 009 686 097 (TMCA).
+
+We are bound by the _Privacy Act 1988_ (Cth) (Privacy Act) and the Australian Privacy Principles (APPs). These laws regulate how certain entities manage personal information. As a participant of the credit reporting system, we are also bound by the credit reporting rules in the Privacy Act. Refer to the 'Credit reporting' section for more information about our credit reporting practices.
+
+You can contact us about this policy by calling 137 200 or by emailing [financeprivacy@toyota.com.au](mailto:financeprivacy@toyota.com.au). If you prefer, you can contact us without identifying yourself or by using a pseudonym. However, if you do not identify yourself, we may not be able to provide you with our products and services.
 
 Back to the top
 
-### About this Privacy Policy
+### What information do we collect and hold?
 
-This Privacy Policy sets out how we comply with the Privacy Act 1988 (the **Act** ), Australian Privacy Principles (the **APPs** ) and the Credit Reporting Privacy Code **(CR Code)**.
+The kinds of information that we collect and hold about you will depend on the nature of your dealings with us. It may include, but is not limited to, your name, contact details, residential information, drivers licence, vehicle registration, marital status, financial or credit information, and your education and employment details and history.
 
-You may contact us about this policy or about our products and services by calling the Toyota Finance National Customer Solutions Centre on 137 200. If you prefer, you can contact us without identifying yourself or by using a pseudonym. However, if you do not identify yourself, we may not be able to provide you with the products and services you would otherwise receive.
-
-Back to the top
-
-### Personal information
-
-#### What is personal information?
-
-Personal information is any information or opinion that identifies you or could reasonably identify you.
+If you do not provide us with complete and accurate information, we may not be able to assess your application or provide you with our products and services.
 
 Back to the top
 
-#### What kinds of personal information do we collect and hold?
+### How do we collect your information?
 
-The kinds of personal information that we collect and hold include your name, contact details, residential information, drivers licence, vehicle registration, marital status, bank account information, and employment details and history.
+Where possible, we collect information directly from you. This may take place in a number of ways, for example, in a written application for credit, through face-to-face meetings with you or when you contact us via phone or our website.
 
-Back to the top
+Where it is not reasonable or practicable to collect information directly from you, we may also collect your information from, and exchange your information with, third parties. For example, we may collect your information from:
 
-#### How do we collect personal information?
-
-Where possible, we collect personal information directly from you. This may take place in a number of ways, for example, in a written application for credit, or when you contact us via telephone or our website.
-
-Sometimes, we collect personal information from a third party or a publicly available source by lawful and fair means and where it is unreasonable and/or impracticable for us to collect that personal information from you. For example, we may collect personal information:
-
-  * from an accountant where we approach the accountant in assessing a credit application;
-  * where an individual is an officer of a company that has applied for credit, we may collect personal information about the officer from public records or from other officers of the company who arranged that company's credit application;
-  * where an individual is named as a personal referee by you, we collect that personal referee's personal information from the written credit application form;
-  * from the motor vehicle dealership where a vehicle is purchased or finance with us is arranged; or
-  * from another credit provider with which you have or had a credit account.
+  * accountants for the purposes of assessing a credit application; 
+  * where an individual is an officer of a company that has applied for credit, we may collect information about the officer from public records or from other officers of the company who arranged that company's credit application;
+  * when named as a personal referee by you, we collect that personal referee's personal information from the written credit application form; 
+  * the motor vehicle dealership where a vehicle is purchased or finance with us is arranged; 
+  * another credit provider where you have or had a credit account; 
+  * the Credit Reporting Body (CRB) where we obtain your credit report; 
+  * your insurer or broker; and
+  * other parties you refer us to or who refer us to you.
 
 
 
-We also collect personal information from our website. Refer to the section _'Privacy and our website'_ for more information.
+Sometimes we may collect information about you from other sources such as public registers or social media. This information can be combined with other information we hold about you and can be used for any of the purposes listed in this policy. We also collect your information from our website. Refer to the section 'Privacy and our website' for more information.
 
 Back to the top
 
-#### What are the purposes for which we collect, hold, use and disclose personal information?
+### What are the purposes for which we collect, hold, use and disclose your information?
 
-We collect, hold, use and disclose only the personal information we need to provide the products and services we offer. For example, in order to provide you with products and services, we need your personal information to:
+We collect, hold, use and disclose your information for the purposes for which it was collected and related purposes, including:
 
-  * assess your application for credit;
-  * administer your account;
-  * process your repayments;
-  * respond to your inquiries and complaints; and
-  * provide you with further information about a product or service.
+  * to meet our legal obligations including to identify you in accordance with the _Anti-Money Laundering and Counter-terrorism Financing Act 2006_ (Cth) and to meet our responsible lending obligations under the _National Consumer Credit Protection Act 2009;_
+  * to provide you or your company with consumer credit or commercial credit;
+  * to assess your guarantor application;
+  * to source any required insurances;
+  * to administer our customer relationships;
+  * to manage your credit contract;
+  * to assist with the purchase of your new vehicle and related finance and insurance;
+  * to manage vehicle servicing or any other services related to your vehicle;
+  * to enable us and third parties to contact you about products and services, special offers, promotions or events that may be of interest to you;
+  * for planning, product development and research;
+  * to assess your hardship application where we may collect your sensitive information;
+  * to comply with our legal obligations and assist government and enforcement bodies or regulators;
+  * to assess and consider applications from prospective job applicants, contractors and service providers; and 
+  * contracting out some of our functions to external service providers and suppliers (such as mailing houses, print companies, technology service providers and marketing and advertising agencies). 
 
 
 
-We also collect, hold, use and disclose personal information where required by law. For example, where:
+We may also collect, hold, use and disclose your information in other ways where permitted by law, and may use or disclose your information to other third parties and for other purposes with your consent. That consent may be written, verbal or implied from your conduct.
 
-  * we need to collect and verify your identity for the purposes of the Anti-Money Laundering and Counter-Terrorism Financing Act 2006; and
-  * we need to produce documents to a court or a governmental agency if requested under a subpoena or a notice to produce.
+Back to the top
 
+### Who do we disclose your information to?
 
+We may collect your information from and exchange your information with, our related bodies corporate including, but not limited to, TMCA. This is so that we and our related bodies corporate, may adopt an integrated approach to our customers including keeping customer information up to date or for any of the purposes mentioned in this policy.
 
-#### Who do we disclose personal information to?
+We may exchange your information with other third parties including, but not limited to: 
 
-In the course of providing a product or service, we may need to disclose personal information to others where you have provided us with your consent or where we are authorised to do so under the Act. For example, we may disclose personal information about you to:
-
-  * the vehicle manufacturer (including TMCA) or supplier of the vehicle or any extended warranty taken out in connection with the vehicle that is the subject of the finance;
-  * insurers under insurance policies applied for or taken out in connection with the vehicle that is the subject of finance, or in connection with the finance itself (for example, consumer credit insurance);
-  * accredited motor vehicle dealers to assist those dealers to better serve customer needs (for example, vehicle servicing, roadside assistance, advice on a vehicle's features or performance, or purchase of a new vehicle);
+  * your introducing dealer;
+  * our accredited motor vehicle dealer network;
+  * the vehicle manufacturer (including TMCA);
+  * any authorised distributor or supplier of the vehicle that is the subject of the finance or any extended warranty taken out in connection with that vehicle;
+  * any insurance provider;
+  * other credit providers to assess your application or manage your credit;
+  * the servicing dealer;
   * a guarantor, if a finance arrangement is guaranteed;
+  * your employer or former employer;
+  * government and law enforcement agencies and regulators;
+  * public registrars;
   * a dispute resolution body of which we are a member (for example, the Financial Ombudsman Service); or
-  * third party organisations where that party is contracted to us to provide a particular service on our behalf and is bound by the same privacy rules that we follow.
+  * third party organisations who are contracted to us to provide a particular service on our behalf. 
 
 
 
 Some examples of the kinds of third party organisations contracted to us include:
 
-  * mailing houses for bulk mailing of letters and notices;
-  * printers for direct marketing material;
-  * debt collection agencies; and
-  * lawyers.
+  * mailing houses;
+  * printers;
+  * debt collection agencies; and 
+  * lawyers. 
 
 
 
-Those contracted third party organisations are not authorised by us to use personal information for anything other than the purpose for which we supply that information to them.
+We may also exchange your information with third parties where permitted by law, or for direct marketing by us or any of these third parties (but this will not include credit eligibility information), or for any of the other purposes outlined in this policy.
 
-### Credit information
+### Credit reporting
 
-#### What is credit information?
+We participate in the comprehensive credit reporting system to enable us to make better and more informed decisions about providing credit to our customers. When you apply for credit with us, or propose to be a guarantor, we may request a credit report about you from a CRB. Credit reports contain information about your credit history that will help us assess your credit worthiness and your ability to repay credit.
 
-According to the Act, credit information about you is personal information that is:
+#### What credit information and credit eligibility information do we collect and hold?
 
-  * identification information;
-  * consumer credit liability information;
-  * repayment history information;
-  * a statement that an information request has been made about you by a credit provider, mortgage insurer or trade insurer;
-  * the type of consumer credit or commercial credit, and the amount of credit, sought in an application: 
-    * that has been made by you to a credit provider; and
-    * in connection with which the provider has made an information request in relation to you;
-  * default information;
-  * payment information;
-  * new arrangement information;
-  * court proceedings information;
-  * personal insolvency information;
-  * publicly available information: 
-    * that relates to your activities in Australia or the external Territories and the individual's credit worthiness; and
-    * that is not court proceedings information about you or information about the individual that is entered or recorded on the National Personal Insolvency Index; or
-  * the opinion of a credit provider that you have committed, in circumstances specified by the provider, a serious credit infringement in relation to consumer credit provided by the provider to you.
+The credit information we collect and hold includes your identification details, the type of credit you hold, the amount of credit borrowed, the terms and conditions of your credit, when your credit was opened or closed, whether or not you have met your repayment obligations under your loan contract and loan contracts with other credit providers, and information about your credit worthiness. The credit eligibility information we collect and hold includes credit reports obtained from a CRB and our own rating or score which help us to assess your creditworthiness.
 
+#### What do we do with credit information and credit eligibility information? 
 
+We collect, hold, use and disclose credit information and credit eligibility information about you for purposes which include: 
 
-Back to the top
+  * confirming your identity;
+  * assessing your consumer or commercial credit or guarantor application;
+  * managing your account and collecting any overdue payments;
+  * helping you avoid defaulting on your loan;
+  * complying with any relevant laws and regulations.
 
-#### What is credit eligibility information?
 
-Credit eligibility information includes credit information or personal information about you derived by a credit reporting body from credit information that that body holds about you or personal information we derive from information disclosed to us by the credit reporting body, which has a bearing on your credit eligibility.
 
-Back to the top
+We will use the information obtained from a CRB, and combine it with information we already hold about you, to calculate our own rating or score to help us assess your creditworthiness.
 
-#### What is a credit reporting body (CRB)?
+We may also disclose to the CRB if you have not met the payment obligations under your loan contract or if you have committed a serious credit infringement (for example fraud). Some of the information we disclose to a CRB may be included in your credit report and provided to other credit providers to help them assess your creditworthiness. 
 
-A credit reporting body is an organisation or an agency prescribed under the Act that carries on a business or undertaking that involves collecting, holding, using or disclosing personal information about individuals for the purposes of providing an entity with information about the credit worthiness of an individual.
+We may disclose your information to any of the following CRBs: 
 
-Back to the top
+  * Dun and Bradstreet - [dnb.com.au](http://www.dnb.com.au/)\- **1300 734 806**
+  * Experian - [experian.com.au](http://www.experian.com.au/) \- **1300 784 134**
+  * Veda - [veda.com.au](http://www.veda.com.au/)
 
-#### What is credit provider (CP) derived information?
 
-CP derived information means any personal information about you:
 
-  * that is derived from credit information or CRB derived information about you that was disclosed to a credit provider by a credit reporting body;
-  * that has any bearing on your credit worthiness; and
-  * that is used, has been used or could be used in establishing your eligibility for consumer credit.
+If you would like to know how these organisations manage your information, you can get a copy of their policies on their websites or by calling the numbers above.
 
+#### What are your rights?
 
-
-Back to the top
-
-#### What is CRB derived information?
-
-CRB derived information about you means any personal information about you:
-
-  * that is derived by a credit reporting body from credit information about you that is held by the credit reporting body;
-  * that has any bearing on your credit worthiness; and
-  * that is used, has been used or could be used in establishing your eligibility for consumer credit.
-
-
-
-Back to the top
-
-#### What kinds of credit information do we collect and hold?
-
-The kinds of credit information that we may collect and hold include:
-
-  * your mortgage, credit card and any other personal loan details such as when the account was opened or closed, the amount and type of account;
-  * information about your repayments and whether they were made on time;
-  * default information and when the default has been paid;
-  * information about your application for credit with us including the type and amount;
-  * any new arrangements with us because of a default;
-  * publicly available information; and
-  * any serious credit infringements.
-
-
-
-Back to the top
-
-#### What kinds of credit eligibility information do we hold?
-
-The kinds of credit eligibility information that we hold about you include:
-
-  * credit reports obtained from a credit reporting body in the course of assessing a credit application;
-  * your credit card balances and limits; and
-  * your mortgage balance and limits.
-
-
-
-Back to the top
-
-#### What kind of CP derived information do we normally derive about you?
-
-We derive credit scores about your credit worthiness and eligibility for credit.
-
-Back to the top
-
-#### How do we collect credit information?
-
-We will collect your credit information through a number of methods including:
-
-  * directly from you;
-  * from credit reports obtained from credit reporting bodies;
-  * internally through our own records;
-  * credit references from another credit provider with which you have or had a credit account; and
-  * from publicly available information including personal insolvency information about you entered or recorded in the National Personal Insolvency Index.
-
-
-
-Back to the top
-
-#### What are the purposes for which we collect, hold, use and disclose credit information and credit eligibility information?
-
-We collect, hold, use and disclose only the credit information and credit eligibility information we need to provide the services and products we offer and to meet our disclosure obligations under the Act. For example, we need your credit information and credit eligibility information about you to:
-
-  * assess your eligibility for credit including deriving a credit score from the information contained in a credit report;
-  * administer your account;
-  * disclose to a credit reporting body for the purpose of maintaining an accurate record of your credit information held by that credit reporting body;
-  * comply with our privacy obligations; and
-  * comply with our other regulatory obligations, for example, the National Consumer Credit Protection Act 2009.
-
-
-
-Back to the top
-
-#### Will we disclose credit information to credit reporting bodies?
-
-We will disclose your credit information to a credit reporting body so that it can include the information in your credit report to assist credit providers to assess your credit worthiness. We may be entitled to disclose to a credit reporting body if you fail to meet your payment obligations or commit a serious credit infringement.
-
-We may disclose your credit information to any of the following credit reporting bodies:
-
-  * Dun and Bradstreet - dnb.com.au - 1300 734 806
-  * Experian - experian.com.au - 1300 784 134
-  * Veda - veda.com.au - 1300 850 211
-
-
-
-If you would like to know how these organisations manage your credit information, you can get a copy of their policy on their website or by calling the numbers above.
-
-You have the right to ask a credit reporting body not to use your credit information for the purpose of pre-screening of direct marketing by a credit provider. You can ask them not to use or disclose this information for a period of time if you reasonably believe that you have been, or are likely to be, a victim of fraud.
-
-You also have the right to generally access credit eligibility information that we hold about you and ask us to correct credit information or credit eligibility information you believe is wrong. You can lodge a complaint with us about our privacy practices or a breach of your privacy including a breach of the Act, the APPs and the CR Code.
+You have the right to ask a CRB not to use your information for the purpose of pre-screening of direct marketing by a credit provider. You can ask them not to use or disclose this information for a period of time if you reasonably believe that you have been, or are likely to be, a victim of fraud. 
 
 Back to the top
 
 ### Holding and protecting your information
 
-We hold personal information, credit information and credit eligibility information in both physical and electronic forms. The security of such information is very important to us and we take all reasonable precautions to protect it from misuse, loss, unauthorised access, modification or disclosure. For example, we ensure that:
+We hold information about you (including credit information) in both physical and electronic forms. The security of your information is very important to us so we take all reasonable steps to protect it from misuse, loss, unauthorised access, modification or disclosure. For example, we ensure that: 
 
-  * each of our offices has security protocols in place to prevent unauthorised entry into the premises;
-  * access to personal information is restricted to only the personnel who need it to perform their duties;
-  * any internally and externally hosted secure servers which store personal information in electronic form have the necessary encryption protocols; and
-  * all of our personnel are appropriately trained in the security of personal information including maintaining physical security over paper records and destroying or de-identifying personal information once it is no longer needed.
+  * each of our offices has security protocols in place to prevent unauthorised entry;
+  * access to your information is restricted to only the personnel who need it to perform their duties;
+  * any internally and externally hosted secure servers which store your information in electronic form have the necessary encryption protocols; and 
+  * all of our personnel are appropriately trained in protecting the security of your information including maintaining physical security over paper records and destroying or de-identifying your information once it is no longer needed. 
 
 
+
+Back to the top
 
 ### Disclosing your information overseas
 
-We do not disclose any personal information or credit-related personal information to entities that are not in Australia.
+We may from time to time, disclose your information to organisations located overseas. These include:
+
+  * our related companies in Japan and elsewhere in the world; or
+  * our service providers or third parties that are located or hold data outside of Australia.
+
+
+
+In all instances, we make sure that appropriate data handling arrangements are in place to protect your information. 
+
+Back to the top
 
 ### Direct marketing
 
-From time to time, we, our related companies or organisations with whom we have contracted to facilitate direct marketing on our behalf, may use personal information to inform you about our products and services including special offers. We may also send you material relating to joint promotions with motor vehicle dealers and our business associates of our respective products and services. We will not, however, use your credit information or credit eligibility information for direct marketing except where that credit information is identification information about you is used to correctly identify you and to ensure you receive our direct marketing communications.
+From time to time, if we are permitted by law to do so, we or any of the third parties referred to in the section 'Who do we disclose your information to?' may exchange and use your information to tell you about any products or services, including special offers, promotions and events that may be of interest to you. We may also send you material relating to joint promotions with motor vehicle dealers and our business associates of our respective products and services. 
 
-If you do not wish to receive this information, you may let us know by contacting the Toyota Finance National Customer Solutions Centre on 137 200.
-
-Once you let us know that you no longer wish to receive this information, we will stop sending it. You can change your mind about receiving information about our products and services at any time. You just need to let us know by calling the above number, or by 'opting out' by clicking the relevant link or button on the email or our website.
+If you do not wish to receive any marketing information, you can let us know by contacting our National Customer Solutions Centre on 137 200 or at [financeprivacy@toyota.com.au](mailto:financeprivacy@toyota.com.au)
 
 If the law requires us to provide you with information about our products or services, we will provide that information even if you have elected not to receive information about our products and services generally.
 
@@ -450,43 +360,49 @@ Back to the top
 
 ### Accessing and correcting your information
 
-You can access personal information and credit eligibility information held by us and request the correction of your personal information, credit information or credit eligibility information we hold about you by contacting the Toyota Finance National Customer Solutions Centre on 137 200.
+You can generally access and request the correction of information we hold about you by contacting our National Customer Solutions Centre on 137 200 or at [financeprivacy@toyota.com.au](mailto:financeprivacy@toyota.com.au)
 
-We may charge an access fee to recover the reasonable costs incurred. This charge is only designed to help us reasonably recover the costs associated with providing you with access and does not apply to the making of the request. Before we act on a request, we will provide an estimate of the access fee and ask you to agree to it.
+We may charge an access fee to recover the reasonable costs incurred. This charge is only designed to help us reasonably recover the costs associated with providing you with access and does not apply to the making of the request. Before we act on a request, we will provide an estimate of the access fee and ask you to agree to it. 
 
-Access to personal information or credit eligibility information about you may be refused in a number of circumstances, such as where the information relates to anticipated legal proceedings or the request for access is frivolous or vexatious. If we deny or restrict your access, we will provide written reasons for the refusal unless, having regard to the grounds for the refusal, it would be unreasonable for us to do so. You may make a complaint about a refusal to the Office of the Australian Information Commissioner.
+Access to your information may be refused in a number of circumstances, such as where the information relates to anticipated legal proceedings or if the request for access is frivolous or vexatious. If we deny or restrict your access, we will write to you to let you know why, unless, having regard to the grounds for the refusal, it would be unreasonable for us to do so. You may make a complaint about a refusal to the Office of the Australian Information Commissioner. 
 
-We rely on the personal information, credit information and credit eligibility information that we hold about individuals in conducting our business. Therefore, it is very important that the information we hold is accurate, complete, up to date and relevant. This means that, from time to time, we may ask you if there are any changes to your personal information, credit information or credit eligibility information. If you find that any personal information, credit information or credit eligibility information that we hold about you is incorrect, you should contact us immediately and we will take reasonable steps to correct it.
+We rely on the information that we hold about individuals to conduct our business. Therefore, it is very important that the information we hold is accurate, complete, up to date and relevant. This means that, from time to time, we may ask you if there are any changes to your information. If you find that any information that we hold about you is incorrect, you should contact us immediately and we will take reasonable steps to correct it.
 
 Back to the top
 
 ### Resolving concerns
 
-If you believe that the privacy of your personal information or credit-related personal information has been compromised, or if you feel that we have breached the privacy laws, you are entitled to complain. Complaints can be made by contacting the person or department you were dealing with or by calling the Toyota Finance National Customer Solutions Centre on 137 200and asking for the Privacy Officer, or by emailing [privacy@toyota.com.au](mailto:privacy@toyota.com.au)
+If you believe that the privacy of your information has been compromised, or if you feel that we have breached the privacy laws, you are entitled to make a complaint. Complaints can be made by contacting the person or department you were dealing with, by calling our National Customer Solutions Centre on **137 200** and asking for the Privacy Officer, or by emailing [financeprivacy@toyota.com.au](mailto:financeprivacy@toyota.com.au)
 
-We will respond to you within 24 hours to acknowledge the complaint and explain how we will investigate it. This may include consulting with the credit reporting body or other credit providers. We will try to resolve your complaint within 30 days and write to you to explain the reasons for our decision. When this is not possible, we will contact you and let you know how long it will take for us to resolve your complaint.
+We will respond to you within 24 hours to acknowledge the complaint and explain how we will investigate it. This may include consulting with the CRB or other credit providers. We will try to resolve your complaint within 30 days and write to you to explain the reasons for our decision. When this is not possible, we will contact you and let you know how long it will take for us to resolve your complaint.
 
-If your complaint is not satisfactorily resolved, you may access the Financial Ombudsman Service at fos.org.au or by calling 1300 780 808. You may also refer your complaint to the Office of the Australian Information Commissioner by visiting [www.oaic.gov.au](http://www.oaic.gov.au/), calling **1300 363 992** or by emailing [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
-
-Back to the top
-
-### Privacy and our website
-
-The type of personal information we collect on our website depends on how you make use of the site.
-
-When you visit the site, we record your server address, domain name, the date and time of the visit and the pages viewed. This information may be collected by using cookies (data sent to the user's browser, which generally allows our site to interact more efficiently with your computer). If you disable the use of cookies, the use of our site may be affected. Information collected about your visit to our site is retained for statistical and website development reasons and is not stored in a form that would enable us to identify you.
-
-When you visit the site you will not be required to provide us with any personal information unless you request information about our products or services. In that case, we will ask you to provide contact details along with other information required to respond to your request. The information provided may also be retained for product planning purposes and, unless you ask us not to do so, for marketing purposes.
-
-Although we take steps to protect information sent by email, email is not a secure method of communication. If you are concerned about sending your personal information to us in this manner, you may instead call the Toyota Finance National Customer Solutions Centre on **137 200**.
+If your complaint is not satisfactorily resolved, you may access the Financial Ombudsman Service at [fos.org.au](http://www.fos.org.au/)or by calling **1300 780 808**. You may also refer your complaint to the Office of the Australian Information Commissioner by visiting [oaic.gov.au](http://www.oaic.gov.au/), calling **1300 363 992** or emailing [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
 
 Back to the top
 
-### Remarketing
+### Privacy and our website 
 
-We use Google Adwords Remarketing to advertise Toyota Finance across the internet. Third party vendors, including Google, use cookies to display relevant ads based on your past visits to the Toyota Finance website. Google Remarketing allows us to tailor our marketing to better suit your needs and display ads that are relevant to you. We respect your privacy and any data collected will be used in accordance with our privacy policy, Google’s privacy policy or the privacy policy of other remarketing services used by Toyota Finance.
+The type of information we collect about you from our website depends on how you make use of the site.
 
-If you do not wish to participate in our Google Adwords Remarketing, you can opt out by visiting Google’s Ads Preference Manager <https://myaccount.google.com/u/0/privacy?pli=1#ads> You can also opt out of any third party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page <https://www.networkadvertising.org/>. 
+When you visit the site, we record your server address, domain name, the date and time of the visit and the pages viewed. This information may be collected using cookies (data sent to the user's browser, which generally allows our site to interact more efficiently with your computer). If you disable the use of cookies, the use of our site may be affected. Information collected about your visit to our site is retained for statistical and website development reasons and is not stored in a form that would enable us to identify you.
+
+When you visit the site you will not be required to provide us with your information unless you request information about our products or services. In that case, we will ask you to provide contact details and any other information required to respond to your request. The information provided may also be retained for product planning purposes and, unless you ask us not to do so, for marketing purposes.
+
+Although we take steps to protect information sent by email, email is not a secure method of communication. If you are concerned about sending your information to us in this manner, you may instead call our National Customer Solutions Centre on **137 200**.
+
+Back to the top
+
+### Remarketing 
+
+We use Google Adwords Remarketing to advertise our products and services across the internet. Third party vendors, including Google, use cookies to display relevant ads based on your past visits to our website. Google Remarketing allows us to tailor our marketing to better suit your needs and display ads that are relevant to you. We respect your privacy and any data collected will be used in accordance with our privacy policy, Google's privacy policy or the privacy policy of other remarketing services that we may use. 
+
+If you do not wish to participate in our Google Adwords Remarketing, you can opt out by visiting Google's Ads Preference Manager ([myaccount.google.com/u/0/privacy?pli=1#ads](http://myaccount.google.com/u/0/privacy?pli=1#ads)). You can also opt out of any third party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page [www.networkadvertising.org](http://www.networkadvertising.org/)
+
+Back to the top
+
+### Amendments
+
+We may change this Privacy Policy at any time by publishing the amended version on our website. 
 
 Back to the top
 
@@ -513,7 +429,7 @@ Back to the top
 
 Toyota Insurance was underwritten by Andia up until 31 December 2013. However, due to an internal re-organisation, Adica will be the new Australian operated and regulated insurer of all Toyota Insurance products from 1 January 2014. As both Andia and Adica collect, hold, use and disclose your personal information, this privacy policy relates to both of them.
 
-[Toyota Insurance Privacy Policy](https://web.archive.org/web/20151121110211id_/http%3A//www.toyota.com.au/static/pdfs/toyota-insurance-privacy-policy.pdf)
+[Toyota Insurance Privacy Policy](https://web.archive.org/web/20160605042249id_/http%3A//www.toyota.com.au/static/pdfs/toyota-insurance-privacy-policy.pdf)
 
 Back to the top
 
@@ -644,9 +560,9 @@ Back to the top
 
 ### Revision of this privacy policy
 
-This privacy policy is also available on our website at [toyotainsurance.com.au](https://web.archive.org/web/20151121110211id_/http%3A//www.toyota.com.au/toyotainsurance.com.au).
+This privacy policy is also available on our website at [toyotainsurance.com.au](https://web.archive.org/web/20160605042249id_/http%3A//www.toyota.com.au/toyotainsurance.com.au).
 
-We reserve the right to revise our privacy policy or any part of it from time to time. Please review this privacy policy periodically for changes. If we make material changes to our privacy policy, we will notify you in writing or by putting a notice on our website homepage [toyotainsurance.com.au](https://web.archive.org/web/20151121110211id_/http%3A//www.toyota.com.au/toyotainsurance.com.au).
+We reserve the right to revise our privacy policy or any part of it from time to time. Please review this privacy policy periodically for changes. If we make material changes to our privacy policy, we will notify you in writing or by putting a notice on our website homepage [toyotainsurance.com.au](https://web.archive.org/web/20160605042249id_/http%3A//www.toyota.com.au/toyotainsurance.com.au).
 
 Your continued use of our websites, products or services, requesting our assistance, applying for or renewal of any of our products and/or services or the providing of further personal or sensitive information to us after our privacy policy has been revised constitutes your acceptance of the revised privacy policy.
 
