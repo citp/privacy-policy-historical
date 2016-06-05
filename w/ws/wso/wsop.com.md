@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wsop.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206054756id_/http%3A//www.wsop.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsop.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605034950id_/http%3A//www.wsop.com/legal/privacy.asp) for the most accurate reproduction.*
 
-# World Series of Poker - Official Tournament Coverage and Results
+# WSOP | Legal | Privacy Policy | New Jersey
 
 Corporate Privacy Policy  
 Special Provisions for WSOP.com  
@@ -85,7 +85,7 @@ We may also disclose your Personal Information to third parties for the followin
 
 **Your Choice to Share Information**
 
-If you are a Total Rewards customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please [click here](http://app.harrahs-marketing.com/glba/unsub/unsub.cfm?s=GLBA), and follow the instructions provided. 
+If you are a Total Rewards customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please follow these instructions: First, [click here](https://www.totalrewards.com/mytotalrewards/?showglba=true) to log in to your account. Next, go to your “Profile”, scroll down to “Preferences” and click on “Edit Settings.” Click “Manage My Preferences” to continue. Scroll to the bottom and check the box labeled “Do not share my personal information with non-affiliates to market their products & services to me.” Click “Save Changes” to ensure your preference settings are set. 
 
 If you are not a Total Rewards customer, please [click here to download the opt-out form(PDF)](http://www.totalrewards.com/images/aboutUs/Privacy_Policy_Form.pdf), complete it and scan and email it to optout@wsop.com. 
 
@@ -159,7 +159,7 @@ We may from time to time send promotional materials to you by direct mail. If yo
 
 **YOUR CHOICE TO SHARE INFORMATION**
 
-If you are an Action Club customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please [click here](http://app.harrahs-marketing.com/glba/unsub/unsub.cfm?s=GLBA), and follow the instructions provided. 
+If you are a Action Club customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please follow these instructions: First, [click here](https://www.totalrewards.com/mytotalrewards/?showglba=true) to log in to your account. Next, go to your “Profile”, scroll down to “Preferences” and click on “Edit Settings.” Click “Manage My Preferences” to continue. Scroll to the bottom and check the box labeled “Do not share my personal information with non-affiliates to market their products & services to me.” Click “Save Changes” to ensure your preference settings are set. 
 
 If you are not an Action Club customer or if you otherwise prefer to opt out from having your Personal Information shared with our Joint Marketing Partners, please [click here to download the opt-out form(PDF)](http://www.totalrewards.com/images/aboutUs/Privacy_Policy_Form.pdf), complete it and email a scanned to optout@wsop.com. 
 
@@ -248,6 +248,6 @@ If you are not a Total Rewards member and would prefer not to receive further em
 
 We may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the customer service center at any Total Rewards Casino or call 1-800-CAESARS (223-7277). Your name and address will be removed from that mailing list within 30 days after your request. 
 
-[ ](https://web.archive.org/download/poker/?sr=485691&ANID=HP2)
+[ ](https://web.archive.org/download/poker/?sr=485691&ANID=HP1)
 
 Share & Connect   
