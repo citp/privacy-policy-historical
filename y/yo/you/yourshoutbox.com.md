@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourshoutbox.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205020347id_/http%3A//www.yourshoutbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourshoutbox.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001850id_/http%3A//www.yourshoutbox.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | YourShoutbox.com
 
