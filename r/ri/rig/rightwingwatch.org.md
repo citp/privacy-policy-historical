@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightwingwatch.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141838id_/http%3A//site.pfaw.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightwingwatch.org privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605035119id_/http%3A//site.pfaw.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - People For the American Way
 
