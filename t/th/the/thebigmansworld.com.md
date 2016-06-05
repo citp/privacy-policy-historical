@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the thebigmansworld.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206115110id_/http%3A//thebigmansworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebigmansworld.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605143549id_/http%3A//thebigmansworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Disclaimer-  **Please note that I do not possess any official certifications in nutrition, fitness or the health industry. This blog is used as a means to express myself and my experiences. All views are mine alone and should never be taken as medical advice. Please consult a medical practitioner or Registered dietician for matters relating to them.
+
+**Photo and Recipe use-**
+
+I love when you share my recipes on your own site- However, I do not allow for posts to be copied and pasted verbatim or in any direct form from this website. You may use a photo and link back to the original post/recipe source with full credit given to The Big Man’s World. 
 
 *****  **
 
