@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vail.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206113330id_/http%3A//www.vail.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vail.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605235024id_/http%3A//www.vail.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Vail.com
 
@@ -116,7 +116,7 @@ If you have questions about this Privacy Policy or the practices of our Sites, p
 The Vail Corporation dba Vail Resorts Management Company  
 390 Interlocken Crescent, Suite 1000  
 Broomfield, CO 80026  
-1-800-842-8062  
+1-970-754-0015  
 [comments@vailresorts.com](mailto:comments@vailresorts.com?subject=Contact%20Us%20via%20Privacy%20Policy)
 
 **Effective Date of this Privacy Policy**
