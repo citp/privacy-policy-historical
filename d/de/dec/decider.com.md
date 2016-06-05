@@ -1,14 +1,28 @@
-> *The following text is extracted and transformed from the decider.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230231334id_/http%3A//decider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decider.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605173030id_/http%3A//decider.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Decider | Where To Stream Movies & Shows on Netflix, Hulu, Amazon Instant, HBO Go
 
-* **INTRODUCTION**  
-Decider.com (“Decider.com” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “Decider.com Services”). By using the Decider.com Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Decider.com Affiliates”) is available at <http://newscorp.com/about/our-businesses/>.As set forth in our [Terms of Use](http://decider.com/terms/ "Terms of Use"), the Decider.com Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.This Privacy Policy applies to all users, including both those who use the Decider.com Services without being registered with or subscribing to an Decider.com Service and those who have registered with or subscribed to an Decider.com Service. 
+Effective: June 1, 2016
 
-This Privacy Policy applies to Decider.com’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Decider.com’s practices for handling non-personal information (for example, interests, demographics and services usage).
+  * 1\. INTRODUCTION
+  * 2\. COLLECTION OF INFORMATION
+  * 3\. USE AND DISCLOSURE
+  * 4\. SECURITY
+  * 5\. USER ACCESS AND CONTROL
+  * 6\. OTHER IMPORTANT INFORMATION
+  * 7\. CONTACT US
 
-* **COLLECTION OF INFORMATION**  
-Decider.com and our service providers collect the following information from and about you: **Registration Information** is the information you submit to register for an Decider.com Service, for example, to create an account, post comments, receive a newsletter, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code and birthday. **Public Information and Posts** consist of comments or content that you post to the Decider.com Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines. 
+
+  1. **INTRODUCTION**  
+Decider.com (“Decider.com” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “Decider.com Services”). By using the Decider.com Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Decider.com Affiliates”) is available at <http://newscorp.com/about/our-businesses/>.As set forth in our [Terms of Use](http://decider.com/terms/ "Terms of Use"), the Decider.com Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.This Privacy Policy applies to all users, including both those who use the Decider.com Services without being registered with or subscribing to an Decider.com Service and those who have registered with or subscribed to an Decider.com Service.This Privacy Policy applies to Decider.com’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Decider.com’s practices for handling non-personal information (for example, interests, demographics and services usage).
+  2. **COLLECTION OF INFORMATION**  
+Decider.com and our service providers collect the following information from and about you:
+
+
+
+**Registration Information** is the information you submit to register for an Decider.com Service, for example, to create an account, post comments, receive a newsletter, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code and birthday.
+
+**Public Information and Posts** consist of comments or content that you post to the Decider.com Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines.
 
 **Information from Social Media.** If you access or log-in to an Decider.com Service through a social media service or connect an Decider.com Service to a social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the Decider.com Services through social media services or when you connect an Decider.com Service to social media services, you are authorizing Decider.com to collect, store, and use such information and content in accordance with this Privacy Policy.
 
@@ -18,10 +32,14 @@ Third parties that support the Decider.com Services by serving advertisements or
 
 Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see here. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Decider.com Services.
 
+Our sites are not designed to respond to “do not track” signals from browsers.
+
 **Information from Other Sources.** We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our Decider.com Affiliates or business partners.
 
-* **USE AND DISCLOSURE**  
-We use the information we collect from and about you to provide the Decider.com Services and features to you, including: to measure and improve those Decider.com Services and features; to improve your experience with both online and off-line Decider.com Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests, or rewards programs; to provide you with customer support and to respond to inquiries. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties.We use the information we collect from and about you for these additional purposes: 
+  1. **USE AND DISCLOSURE**  
+We use the information we collect from and about you to provide the Decider.com Services and features to you, including: to measure and improve those Decider.com Services and features; to improve your experience with both online and off-line Decider.com Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests, or rewards programs; to provide you with customer support and to respond to inquiries. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties.We use the information we collect from and about you for these additional purposes:
+
+
 
 **To allow service providers to assist us in providing and managing the Decider.com Services.** Decider.com may make your information available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide the Decider.com Services. These service providers may not use personal information for any purpose other than the specific service they are providing to you and Decider.com.
 
@@ -41,12 +59,16 @@ We use the information we collect from and about you to provide the Decider.com 
 
 **To complete a merger or sale of assets.** If Decider.com sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Decider.com may transfer your information to the party or parties involved in the transaction as part of that transaction.
 
-* **SECURITY**  
+  1. **SECURITY**  
 Decider.com uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.
-* **USER ACCESS AND CONTROL**  
+  2. **USER ACCESS AND CONTROL**  
 If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us at [privacy@decider.com](mailto:privacy@decider.com). In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable.If you are a California resident, you may request that we not share your personal information on a going-forward basis with Decider.com Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to [privacy@decider.com](mailto:privacy@decider.com) with “Decider.com: Disclosure Opt-out” in the subject line and your full name, email address, and postal address in the body of the email. We will try to comply with your request(s) as soon as reasonably practicable.
-* **OTHER IMPORTANT INFORMATION**  
-**Updates to Privacy Policy.** Decider.com may modify this Privacy Policy. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Decider.com Services. If we make material changes to this Privacy Policy that expand our rights to use the personal information we have already collected from you, we will notify you and provide you with a choice about our future use of that information. **Location of Data.** The Decider.com Services are hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States. United States data protection and other relevant laws may not be the same as those in your jurisdiction. This includes the use of cookies and other tracking technologies as described above. As a result, please read this Privacy Policy with care. 
+  3. **OTHER IMPORTANT INFORMATION**  
+**Updates to Privacy Policy.** Decider.com may modify this Privacy Policy. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Decider.com Services. If we make material changes to this Privacy Policy that expand our rights to use the personal information we have already collected from you, we will notify you and provide you with a choice about our future use of that information.
+
+
+
+**Location of Data.** The Decider.com Services are hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States. United States data protection and other relevant laws may not be the same as those in your jurisdiction. This includes the use of cookies and other tracking technologies as described above. As a result, please read this Privacy Policy with care.
 
 **Linked Services.** The Decider.com Services may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by unaffiliated companies. Decider.com is not responsible for the privacy practices of unaffiliated companies, and once you leave the Decider.com Services or click an advertisement you should check the applicable privacy policy of the other service.
 
@@ -54,8 +76,12 @@ If you would like to access, review, correct, update, suppress, or otherwise lim
 
 **Data Retention.** We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
 
-Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements. **Sensitive Information.** We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Decider.com Services or otherwise.
+Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements.
 
-* **CONTACT US**  
+**Sensitive Information.** We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Decider.com Services or otherwise.
+
+  1. **CONTACT US**  
 If you have questions about this Privacy Policy, please contact us at: **Email:** [privacy@decider.com](mailto:privacy@decider.com)  
 **Mail:** Privacy Office, New York Post, 1211 Avenue of the Americas, New York, New York 10036
+
+
