@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizurself.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607090513id_/http%3A//www.quizurself.com/%3Fpage_id%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizurself.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605150924id_/http%3A//www.quizurself.com/%3Fpage_id%3D116) for the most accurate reproduction.*
 
 # Privacy Policy - QuizurselfQuizurself
 
