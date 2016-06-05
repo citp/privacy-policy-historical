@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the depositphotos.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204232831id_/http%3A//depositphotos.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depositphotos.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605223252id_/http%3A//depositphotos.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Depositphotos®
 
@@ -127,3 +127,5 @@ We may update this privacy statement to reflect changes to our information pract
 If you have any questions or suggestions regarding our privacy policy, please contact us at [ support@depositphotos.com ](mailto:support@depositphotos.com) or via postal mail at 3500 South DuPont Highway, Dover, Kent county, DE 19901, USA.
 
  **Disclaimer:** The original, legally binding version of this document is written in English, and it is translated into other languages for the courtesy of our non-English-speaking users. If there are any discrepancies between the English version and a translated version, the English version supercedes the translated version.
+
+Please complete the form below and Depositphotos representative will be in touch shortly.
