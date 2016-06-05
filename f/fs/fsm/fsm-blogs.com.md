@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the fsm-blogs.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226064412id_/http%3A//www.fsm-blogs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsm-blogs.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605121751id_/http%3A//www.fsm-blogs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 At www.fsm-blogs.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.fsm-blogs.com and how it is used.
 
-This privacy policy sets out how **FSM Blogs** uses and protects any information that you give while using www.fsm-blogs.com  
+This privacy policy sets out how **FSM Media**  uses and protects any information that you give while using www.fsm-blogs.com  
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**FSM Blogs** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from date.
+**FSM Media**  may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from date.
 
 **What we collect**
 
