@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigoption.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524003027id_/http%3A//www.bigoption.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigoption.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605032620id_/http%3A//www.bigoption.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Big Option
+# Privacy Policy - BigOption
 
   | The privacy of our clients is BigOption’s no. 1 priority and we take all the necessary precautions to safeguard all personal information collected from clients.  |    
 ---|---|---  
