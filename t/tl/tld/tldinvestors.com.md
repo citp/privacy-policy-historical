@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tldinvestors.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003173320id_/http%3A//tldinvestors.com/disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tldinvestors.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605041523id_/http%3A//tldinvestors.com/disclosures) for the most accurate reproduction.*
 
 # Privacy Policy/Disclosures – TLD Investors
 
