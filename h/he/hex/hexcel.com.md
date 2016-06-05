@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hexcel.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207004843id_/http%3A//hexcel.com/notices/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexcel.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605234943id_/http%3A//www.hexcel.com/notices/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,9 +10,11 @@ You can visit our Web site without identifying yourself or revealing any persona
 
 On occasion a visitor to our Web site may be asked to provide personal information (eg. when completing our inquiry form). In most cases, personal information is used only to respond to inquiries. Hexcel will not provide e-mail addresses or other visitor information to any non-Hexcel organization or partner without your approval, unless we are required to do so by law, government inquiry or other legal proceedings. In some instances, Hexcel may set up links to non-Hexcel controlled Web sites. However, Hexcel does not control such third-party Web sites and cannot be responsible for the content or the privacy practices employed by other sites.
 
-Our job search function is managed externally by SuccessFactors and any personal information that you submit on an application form will be treated in the strictest confidence and shared only between SuccessFactors and Hexcel.  View the SuccessFactors Privacy policy at the following link <http://www.successfactors.com/privacy/>.
+Our US job search function is managed externally by Workday and any personal information that you submit on an application form will be treated in the strictest confidence and shared only between Workday and Hexcel. View the Workday Privacy Policy at the following link: <http://www.workday.com/company/service_privacy.php>. 
 
- **Cookies**
+According to the EU Directive 95/46/CE and any applicable local Regulations, you have a right of access, a right of opposition for legitimate reasons, and a right to rectify your personal data by contacting the following email address: [communications@hexcel.com](mailto:communications@hexcel.com). 
+
+**Cookies**
 
 Hexcel may use cookies on this site. Cookies are small text files sent to and stored on users' computers that allow Web sites, such as Hexcel.com, to recognize repeat users, facilitate users' access to sites, and allow sites to compile aggregate data that will allow content improvements. Cookies do not damage users' computers or files. If users do not want cookies to be accessible by Hexcel, most browser programs allow users to deny or disable the use of cookies. 
 
@@ -20,4 +22,4 @@ Hexcel may use cookies on this site. Cookies are small text files sent to and st
 **  
 Hexcel allows users to correct or change information submitted to Hexcel or to report problems with the site or to pose questions or concerns by sending an e-mail to us using our [Contact form](https://web.archive.org/Contacts/Pages/Site-Feedback.aspx). 
 
-As Hexcel.com expands and evolves, we will endeavor to refresh this policy. We encourage you to refer to this policy on a regular basis for updates to the policy. This policy may be modified from time to time without prior notice to its users. Please notify us at [www.hexcel.com](http://www.hexcel.com/) if you wish to remove your information from this site. 
+As Hexcel.com expands and evolves, we will endeavor to refresh this policy. We encourage you to refer to this policy on a regular basis for updates to the policy. This policy may be modified from time to time without prior notice to its users. Please notify us at [www.hexcel.com](https://web.archive.org/) if you wish to remove your information from this site. 
