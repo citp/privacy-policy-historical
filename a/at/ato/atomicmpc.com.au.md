@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the atomicmpc.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141535id_/http%3A//www.nextmedia.com.au/next-media-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomicmpc.com.au privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605034420id_/http%3A//www.nextmedia.com.au/next-media-privacy-statement.html) for the most accurate reproduction.*
 
 # nextmedia-Privacy Statement
 
-Nextmedia Holdings Pty Limited and its affiliated companies (we) are committed to protecting your privacy. Please read this policy carefully as it describes the way in which we handle and collect your personal information. This applies to all personally identifiable information we receive, such as your name, address and telephone number.
+Nextmedia Holdings Pty Limited and its affiliated companies ("we") are committed to protecting your privacy. Please read this policy carefully as it describes the way in which we handle and collect your personal information. This applies to all personally identifiable information we receive, such as your name, address and telephone number.
 
 We take this stance not just to fulfill our legislative obligations under the Privacy Act 1988 ("the Act"), but also because we value your trust and our ongoing relationship. You have no obligation to provide any personal information however if you choose to withhold your personal information we may not be able to provide the products or services that depend on the collection and use of your information.  
-This policy describes how we will abide by the Australian Privacy Principles ("APPs) that form part of the Act.  
+This policy describes how we will abide by the Australian Privacy Principles ("APPs") that form part of the Act.  
 These principles relate to:
 
 **Collection and Management of Personal Information**
@@ -148,7 +148,7 @@ St Leonards NSW 1590
 
 Please enclose a stamped self-addressed envelope in which we will send copies of any personal information held on you.    
 Or   
-Email to : [privacyofficer@nextmediamedia.com.au](mailto:privacyofficer@nextmediamedia.com.au?subject=Next-Media-Privacy-Request)
+Email to : [privacyofficer@nextmedia.com.au](mailto:privacyofficer@nextmedia.com.au?subject=Next-Media-Privacy-Request)
 
 You may be required to provide identification prior to us releasing personal information.
 
