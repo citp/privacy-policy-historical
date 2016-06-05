@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pinoymoneytalk.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209160756id_/http%3A//www.pinoymoneytalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoymoneytalk.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001534id_/http%3A//www.pinoymoneytalk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PinoyMoneyTalk.com
+# Privacy Policy – PinoyMoneyTalk.com
+
+## Privacy Policy
 
 Your privacy is of utmost importance to us here at Pinoy Money Talk. Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
