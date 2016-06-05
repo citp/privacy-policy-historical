@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videograbber.net privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916043147id_/http%3A//www.videograbber.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videograbber.net privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605085839id_/http%3A//www.videograbber.net/privacy-policy) for the most accurate reproduction.*
 
 # Video Grabber Privacy Policy
 
@@ -12,13 +12,13 @@ Our software does not collect any personal information. It does not send private
 ## E-mail addresses
 
 The software collects e-mail addresses from users who buy our software. These e-mails are used to send license keys and changes in registration. Registered users can change or remove their e-mail addresses by contacting us.   
-If you sign up for our newsletter, your email address will be kept confidential, and it will only be used to send you our newsletter. 
+If you sign up for our newsletter, your email address will be kept confidential, and it will only be used to send you our newsletter.
 
 ## Personal Information
 
 During purchase process, we collect user information. This information is collected by our registration provider - Plimus and Paypal, trusted e-commerce company, known for their long-term reputation for professionalism and security. They have their own privacy policy. No personal information will ever be shared with another company.
 
-We (Video Grabber) do not know users' credit card numbers and other sensitive payment information - this data is only available to the secure service of Plimus during the purchase process and they deal with it safely. 
+We (Video Grabber) do not know users' credit card numbers and other sensitive payment information - this data is only available to the secure service of Plimus during the purchase process and they deal with it safely.
 
 ## Cookies and other technologies
 
