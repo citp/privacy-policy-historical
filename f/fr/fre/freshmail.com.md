@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshmail.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114428id_/http%3A//freshmail.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshmail.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001820id_/https%3A//freshmail.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - FreshMail
 
@@ -37,10 +37,6 @@ You may change or delete your profile information at any time by going to your p
 ## Changes in Privacy Policy
 
 We reserve the right to amend our privacy policy at any time. We will publish any changes on this page.
-
-## Safe Harbor
-
-To ensure that we follow the highest international standards of personal data protection, we cooperate only with companies affiliated with the Safe Harbor program.
 
 ## Contact
 
