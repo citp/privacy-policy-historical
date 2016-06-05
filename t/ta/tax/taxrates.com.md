@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxrates.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227193031id_/http%3A//www.avalara.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxrates.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605070909id_/http%3A//www.avalara.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Avalara
 
