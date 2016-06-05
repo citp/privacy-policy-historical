@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the switchidea.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001632id_/http%3A//www.switchidea.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the switchidea.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605152239id_/http%3A//www.switchidea.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Switch Idea - Work Smart Work Fast
 
