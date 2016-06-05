@@ -1,61 +1,90 @@
-> *The following text is extracted and transformed from the kcm.org privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211190747id_/http%3A//www.kcm.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcm.org privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605130924id_/http%3A//www.kcm.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kenneth Copeland Ministries
 
-**_Your Privacy Is Our Concern._**
+  
+**YOUR PRIVACY IS OUR CONCERN.**
 
 The protection of your privacy is very important to us here at Kenneth Copeland Ministries. We value your trust, and want you to understand what information we collect, how we protect it, and how it is used. Personal information—nonpublic information that identifies you—is essential to Kenneth Copeland Ministries in meeting its goal to provide you with our ministry, services, and ministry-related products and so it will be treated with respect and in accordance with this Privacy Policy.
 
 Any reference to “Kenneth Copeland Ministries” or “KCM” within the context of this Privacy Policy is intended, and shall be considered to be inclusive of each and all entities operated by Kenneth Copeland Ministries, including its International Offices.
 
- ** _How we Collect and Use Your Personal Information_**
+ **SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?**
 
-When you contact Kenneth Copeland Ministries through any mechanism, including but not limited to phone calls, emails, and internet usage, we may request certain personal information or use certain personal information that you submit to provide the ministry, services or products you have requested, to analyze the characteristics of our visitors and to improve our online ministry.  Personal information is data that can be used to uniquely identify or contact a single person.  This may include identification and contact information, as well as transactions and past experiences with KCM. Examples where such information may be requested include: subscriptions, prayer needs, online community registration and participation, registration forms or other forms containing your name, address, telephone number, e-mail address, and past transactions you have had with us. 
+When you purchase something from our site, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. This enables us to both fulfill and support the products you purchase.
 
- ** _Tracking Technologies_**
+When you browse our site, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system so we can better improve the experience for all our users.
 
- **Cookies**
+Email marketing: With your permission, we may send you emails about new products, free and premium content (like blog posts, content articles, YouTube videos, free product offers, live event alerts, etc.), and special announcements.
 
-Cookies are very small text files that are stored on your computer when you visit certain web pages.  We, along with thousands of other website hosts, use cookies to enhance your web viewing experience, to help you navigate our website, and to measure your website usage. These technologies help us better understand how users interact with our website, and to gather demographic information about our user base as a whole. 
+ **SECTION 2 – CONSENT**
 
- **Information Automatically Collected By Our Site**
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-We gather web server file information automatically such as your IP address, browser type and operating system.  We use this information to administer our website, to understand how visitors navigate our website, to enhance your web viewing experience, and to measure the number of visits, average time spent, pages viewed, and other statistics about visitors coming to our website in general. We may also use this data to monitor website performance and to make the website easier and more convenient to use.
+If we ask for your personal information for a secondary reason (i.e.  Daily devotional emails, newsletter subscription and announcements), we will ask you directly for your expressed consent and provide you with an opportunity to withdraw your consent.
 
- **“Click-Through URL”**
+You may withdraw your consent at any time by clicking on an “unsubscribe” link which is offered at the bottom of every email we send.
 
-In some of our email messages, website content and online communities, we utilize a “click-through URL” linked to content on our website.  When you click on one of these URLs, you will pass through a separate web server before arriving at the destination page on our website. We may track this click-through data to help us determine interest in particular topics on our website.  If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
+You may also withdraw your consent anytime, by [contacting us here](https://web.archive.org/forms/customer-service) or mailing us at: Kenneth Copeland Ministries, P.O. Box 961010, Fort Worth, TX 76161-9975.
 
- **Pixel Tags**
+ **SECTION 3 – DISCLOSURE**
 
-This tracking method enables us to send email messages in a format you can read, and they tell us whether mail has been opened.  We may use this information to reduce or eliminate messages sent to visitors to our website that have signed up for emails.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. 
 
- ** _How we Share your Personal Identifying Information_**
+IMPORTANT: We do not sell, rent or otherwise disclose your personal information to any third parties, including but not limited to advertisers, strategic partners or vendors. Again, we take your privacy very seriously.
 
-We do not otherwise sell or rent your personal identifying information to third parties.
+ **SECTION 4 – DATA STORAGE**
 
-We may share your information to provide the product or service you have requested or when you have provided prior consent to do so. We may also provide your personal identifying information to companies that provide services to help us with our ministry activities such as administration of prayer requests, fulfillment of ministry products or offering customer service.  These third-parties are authorized to use your personal identifying information only as necessary to provide these services to us. 
+Our shopping cart solution is DonorDirect, it’s hosted and managed by KCM. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
 
-We may also disclose your personal identifying information as required by law such as to comply with a subpoena or similar legal process.  To the extent that we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of a legal process. We may also disclose your personal identifying information when we believe in good faith that it is necessary to protect our rights, protect your safety or the safety of others. 
+Your data is stored through KCM’s data storage, databases and the general DonorDirect application. KCM stores your data on a secure server behind a firewall.
 
- ** _Our Ministry’s Commitment to Your Privacy_**
+Payment:
 
-To make sure that your personal information is secure, we communicate our privacy and security guidelines to all KCM employees and strictly enforce privacy safeguards within the Ministry. We recognize that you are entrusting your personal information—be it biographical information, a prayer request or financial information—to our ministry. We further restrict the use and sharing of your personal information as follows: 
+If you choose a direct payment gateway to complete your purchase, then Bluefin/PayConex stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
-  * KCM restricts access to your personal information to only those employees who have reasonable need to come into contact with that information to provide products or services to you.
-  * KCM will maintain physical, electronic and procedural safeguards to protect personal information we obtain about you.
-  * Because laws and regulations on the collection, protection and use of personal information may vary between countries, KCM will not share personal information if doing so requires that such information be sent to a third person or country that does not have an adequate protection system in place.
-  * KCM will make every effort to ensure that the privacy and other rights of children are not compromised. We will not knowingly collect personal information from children under the age of thirteen (13).  If we learn that we have collected the personal information of a child under the age of thirteen (13) we will take steps to delete the information as soon as possible.
-  * KCM uses secure socket layer (SSL) encryption to protect the transmission of information when submitting online contributions or product orders through our shopping cart. However, if you send us e-mail, you should know that there is no encryption to protect the transmission of that information and that it is not secured against interception.
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
+NOTE: At no point during the transaction does Kenneth Copeland Ministries take custody or store your credit card information. This is process is monitored and managed by Bluefin/PayConex, and you can read their terms of service, privacy policy and PCI Compliance information by visiting their site at: <https://www.bluefin.com/privacy-policy>
 
- **Changes to this Privacy Statement**
+ **SECTION 5 – THIRD-PARTY SERVICES**
 
-KCM may update its Privacy Policy from time to time.  When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
- **Privacy Questions**
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
 
-If you have any questions or concerns about KCM’s Privacy Policy,[ please contact us](https://web.archive.org/forms/customer-service). 
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
+
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
+
+Links: When you click on links on our store or site, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+
+ **SECTION 6 – SECURITY**
+
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL). Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+
+ **SECTION 7 – COOKIES**
+
+Kenneth Copeland Ministries utilizes cookies to create a more customized experience for our users and customers. For example, we use a login cookie so members do not have to re-enter their username and password each time they return to our site. We also use tracking pixels (i.e. Google Analytics) to aid in measuring and tracking where our website traffic is coming from and to track the performance of our site. Finally, we use remarking pixels from Facebook and Google to aid in customized, targeted followup advertising.
+
+ **SECTION 8 – AGE OF CONSENT**
+
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+ **SECTION 9 – CHANGES TO THIS PRIVACY POLICY**
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+ **QUESTIONS AND CONTACT INFORMATION**
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information, [please contact us](https://web.archive.org/forms/customer-service).
 
 Any rights not expressly granted herein are reserved.
