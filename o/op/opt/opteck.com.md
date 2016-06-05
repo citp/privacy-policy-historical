@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the opteck.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219204851id_/https%3A//www.opteck.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opteck.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605144853id_/https%3A//www.opteck.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Centralspot Trading Limited, and its related entities hereafter “the Company”, it is responsible for the protection of the privacy and the safeguarding of clients’ personal and financial information. By opening a trading account with the Company, the client hereby gives its consent to such collection, processing, storage and use of personal information by the Company as explained below.
+CST Financial Services Ltd, and its related entities hereafter “the Company”, it is responsible for the protection of the privacy and the safeguarding of clients’ personal and financial information. By opening a trading account with the Company, the client hereby gives its consent to such collection, processing, storage and use of personal information by the Company as explained below.
 
 **The collection of personal information**
 
@@ -14,7 +14,7 @@ The information the Company collects includes information required to communicat
 
 The Company uses clients’ personal information only as required to provide quality service and security to its clients. This information helps the Company to improve its services, customize browsing experience and enables it to inform its clients of additional products, services or promotions relevant to clients and in this respect the clients hereby consent to the usage of this data for such purposes.
 
-If the clients do not want to receive information of this nature for any reason, they can contact the Company at the following address: [support@opteck.com](mailto:support@opteck.com)
+If the clients do not want to receive information of this nature for any reason, they can contact the Company at the following address: [support@opteck.biz](mailto:support@opteck.biz)
 
 **Protection of personal information**
 
@@ -40,13 +40,13 @@ From time to time the Company may contact clients whether by phone or email for 
 
 **Restriction of responsibility**
 
-The Company is not responsible for the privacy policies or the content of sites to which opteck.com links and has no control of the use or protection of information provided by the clients or collected by those sites. Whenever a client elects to link to a co-branded web site or to a linked web site, the client may be asked to provide registration or other personal information. Please note that such information is recorded by a third party and will be governed by the privacy policy of that third party.
+The Company is not responsible for the privacy policies or the content of sites to which opteck.biz links and has no control of the use or protection of information provided by the clients or collected by those sites. Whenever a client elects to link to a co-branded web site or to a linked web site, the client may be asked to provide registration or other personal information. Please note that such information is recorded by a third party and will be governed by the privacy policy of that third party.
 
 **Use of "COOKIES"**
 
-The Company uses cookies to secure clients’ trading activities and to enhance the performance of the opteck.com web site. Cookies used by the Company do not contain personal information or other sensitive information.
+The Company uses cookies to secure clients’ trading activities and to enhance the performance of the opteck.biz web site. Cookies used by the Company do not contain personal information or other sensitive information.
 
-The Company may share web site usage statistics with reputable advertising companies and with its affiliated marketing companies. It is noted that the information collected by such advertising companies is not personally identifiable. To administer and improve the opteck.com web site, the Company may use third parties to track and analyze usage and statistical volume information. The third party may use cookies to track behaviour and may set cookies on behalf of the Company. These cookies do not contain any personally identifiable information.
+The Company may share web site usage statistics with reputable advertising companies and with its affiliated marketing companies. It is noted that the information collected by such advertising companies is not personally identifiable. To administer and improve the opteck.biz web site, the Company may use third parties to track and analyze usage and statistical volume information. The third party may use cookies to track behaviour and may set cookies on behalf of the Company. These cookies do not contain any personally identifiable information.
 
 **Privacy Policy Updates**
 
