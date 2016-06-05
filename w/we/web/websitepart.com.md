@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitepart.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203171647id_/http%3A//websitepart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitepart.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605154321id_/http%3A//websitepart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of WebsitePart
 
