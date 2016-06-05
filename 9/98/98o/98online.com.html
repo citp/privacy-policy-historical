@@ -1,162 +1,872 @@
-<!--The following is the downloaded HTML source of the 98online.com privacy policy that was archived on 2006-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060209211107id_/http%3A//www.98online.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 98online.com privacy policy that was archived on 2016-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605134510id_/http%3A//98online.com/411/privacy-policy) for the most accurate reproduction.-->
 
-<html><head><title>98 Rock Baltimore - Privacy Policy</title>
-<link rel="stylesheet" href="stylesheet.css" type="text/css">
-</head>
+<!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+    <title>98 Online - 411</title>
 
-<body bgcolor="000000" background="/store/images/2002store/tile2.gif" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" link="cc99ff" vlink="cc99ff">
+    <meta name="viewport" content="width=1180">
+    <meta property="og:title" content="Privacy Policy">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://98online.com/411/privacy-policy/">
+    <meta property="og:image" content="http://98online.com/images/grid_images/98rocklogowhite300x250.jpg">
+    <meta property="og:site_name" content="98online.com">
+    <meta property="og:description" content="Welcome to 98 Rock">
+    
+    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic">
+    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:800,700,600,400,300">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300">
+    <link type="text/css" rel="stylesheet" href="/css/master.css">
+    <link type="text/css" rel="stylesheet" href="/css/print.css" media="print">
+    <link type="text/css" rel="stylesheet" href="/css/socialbar.css">
+
+    <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/js/jquery.jplayer.min.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="//use.typekit.net/xhx7bbp.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script type="text/javascript" src="http://widget.ldrhub.com/embed.php?key=wiyy&amp;version=new"></script>
+    <script type="text/javascript" src="/js/socialbar.min.js"></script>
+    <script type="text/javascript" src="http://www.appstudio.kitd.com//kickFlash/scripts/swfobject2.js?2"></script>
+    <script type="text/javascript" src="http://player.multicastmedia.com/jsapi/commonFunctions.js"></script>
+    <script type="text/javascript">// Slider:
+
+(function($) {
+  $.fn.slider = function(data, duration, auto, gap) {
+    if (data.length < 1) return this;
+    if (data.length < 2) {
+      $(this).css({
+        'background-image': 'url(' + data[0][0] + ')',
+        'background-repeat': 'no-repeat',
+        'height': $(this).innerHeight() + 25
+      });
+      return this;
+    }
+
+    if (gap) data.push('GAP');
+
+    return this.each(function() {
+      
+      var box      = $(this),
+          duration = duration ? duration : 1500,
+          width    = box.innerWidth(),
+          height   = box.innerHeight(),
+          nav      = $('<div class="nav">'),
+          nav_p    = $('<div class="prev">'),
+          nav_n    = $('<div class="next">'),
+          locked   = false,
+          timeout  = null,
+          last     = null,
+          cur      = 0;
+
+      box
+        .css({
+          'overflow-x': 'hidden',
+          'overflow-y': 'visible',
+          'position': 'relative',
+          'height': height + 28
+        })
+        .append(nav)
+        .hover(
+          function() { locked = true  },
+          function() { locked = false; setAuto() }
+        );
+
+      nav.css({
+        'position': 'absolute',
+        'z-index': 10,
+        'bottom': 0,
+        'left': 0,
+        'height': 18,
+        'padding': '6px 5px 4px 5px',
+        'background-color': '#fff'
+      });
+
+      nav.append($('<div>').css({
+        'position': 'absolute',
+        'top': 0,
+        'right': -9,
+        'width': 9,
+        'height': 28,
+        'background-image': 'url(images/content/slider_nav_right_side.png)',
+        'background-repeat': 'no-repeat'
+      }));
+
+      nav_p
+        .css({
+          'float': 'left',
+          'width': 11,
+          'height': 16,
+          'margin-right': 3,
+          'cursor': 'pointer',
+          'background-image': 'url(images/content/slider_nav_prev.png)'
+        })
+        .click(function(e) {
+    e.preventDefault();
+          e.stopPropagation();
+          animate(cur - 1);
+        });
+
+      nav_n
+        .css({
+          'float': 'left',
+          'width': 11,
+          'height': 16,
+          'margin-left': 3,
+          'cursor': 'pointer',
+          'background-image': 'url(images/content/slider_nav_next.png)'
+        })
+        .click(function(e) {
+          e.preventDefault();
+          e.stopPropagation();
+          animate(cur + 1);
+        });
+
+      nav.append(nav_p);
+
+      for (var i = 0; i < data.length; i++) (function(i, normal) {
+        nav.append(
+          $('<div class="dot">')
+            .css({
+              'float': 'left',
+              'width': 14,
+              'height': 16,
+              'cursor': 'pointer',
+              'background-image': 'url(images/content/slider_nav_' + (cur != i ? normal : 'current') + '.png)'
+            })
+            .hover(
+              function() { if (cur != i) $(this).css({ 'background-image': 'url(images/content/slider_nav_current.png)' }) },
+              function() { if (cur != i) $(this).css({ 'background-image': 'url(images/content/slider_nav_' + normal + '.png)' }) }
+            )
+            .click(function(e) {
+              e.preventDefault();
+              e.stopPropagation();
+              animate(i);
+            })
+        );
+      })(i, data[i] == 'GAP' ? 'gap' : 'idle');
+
+      nav.append(nav_n);
+
+      function create_panel(id, pos) {
+        var panel = $('<div>')
+          .css({
+            'overflow': 'visible',
+            'position': 'absolute',
+            'left': pos ? pos : 0,
+            'width': width,
+            'height': height,
+            'cursor': 'pointer',
+            'background-image': 'url(' + data[id][0] + ')'
+          })
+          .click(function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            if (data[id][1]) window.open(data[id][1], '_blank');
+          });
+
+        return panel;
+      }
+
+      function animate(new_cur) {
+        var new_cur   = new_cur < 0 ? data.length - 1 : new_cur >= data.length ? 0 : new_cur,
+            new_panel = data[new_cur] != 'GAP' ? create_panel(new_cur, width * 1.1).css('opacity', 0) : null;
+
+        (function(last) {
+          if (last) {
+            last.addClass('remove').stop(true, true).animate({ 'left': width * -1.2, 'opacity': 0 }, { 'duration': duration, 'complete': function(){$(this).remove()}});
+          }
+        })(last);
+
+        cur = new_cur;
+        last = new_panel;
+        if (last) box.append(last);
+
+        $('.dot', nav).each(function(i) {
+          $(this).css('background-image', 'url(images/content/slider_nav_' +
+          (cur != i ? (data[i] != 'GAP' ? 'idle' : 'gap') : 'current') + '.png)')
+        });
+
+        (function(last) {
+          if (last) {
+            last.stop(true, true).animate({ 'left': 0, 'opacity': 1 }, { 'duration': duration, 'complete': setAuto });
+          }
+        })(last);
+      }
+
+      function setAuto() {
+        if (auto) {
+          last.delay(auto, 'fx').queue('fx', function() {
+            if (!locked) animate(cur + 1);
+            $(this).dequeue();
+          });
+        }
+      }
+
+      last = create_panel(cur);
+      box.append(last);
+      setAuto();
+    });
+  }
+})(jQuery);
+
+// Helpers:
+
+function isMobile() {
+  var a = navigator.userAgent||navigator.vendor||window.opera;
+  if (/transformer|android.+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od|ad)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|e\-|e\/|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(di|rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|xda(\-|2|g)|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4)))
+    return true;
+  return false;
+}
+
+function listenlive(channel) {
+  window.open(
+    '/listenlive/wiyyfm' + (channel > 0 && channel < 4 ? channel : 1) + '.html',
+    '_blank', 'width=823,height=604,scrollbars=0,resizable=0'
+  );
+}
+
+function shareTwitter(path, title) {
+  window.open(
+    'http://twitter.com/share?text=' + encodeURIComponent(title) + '&url=' + path,
+    '_blank', 'width=803,height=460,scrollbars=0,resizable=0'
+  )
+}
+
+function shareFacebookLink(url, photo_url, title) {
+  FB.login();
+  FB.ui({
+    method: 'send',
+    name: title,
+    link: url,
+    picture: photo_url
+  });
+}
+
+function shareFacebookPhoto(url, photo_url, title) {
+  FB.login();
+  FB.ui({
+    method: 'feed',
+    link: url,
+    picture: photo_url,
+    name: title,
+    caption: 'From: 98online.com',
+    description: 'The official radio station of the Baltimore Ravens'
+  }, function(){});}
+
+function loadYTPlayer(id) { $.get('/_api/youtube_modal/' + id, function(d){$('body').prepend(d)}) }
+function loadMediaLightbox(gallery, tab, item){ $.get('/_api/media_lightbox/' + gallery + (tab && item ? '/' + tab + '/' + item : ''), function(d){$('body').prepend(d)}) }
+function loadLightbox(path){ $.get('/_api/lightbox/?p=' + path, function(d){$('body').prepend(d)}) }
+function loadEvent(id){ $.get('/_api/event_modal/' + id, function(d){$('body').prepend(d)}) }
+
+function setAltAnimation() {
+  $('.grid .box .image').unbind('hover').hover(
+    function() {
+      if ($('.alt', this).not(':animated').length > 0) {
+        $(this).attr('data-over', 1);
+        $('.default', this).stop(1, 1).css({ 'top': 0 }).animate({ 'top': -250 }, 300);
+        $('.alt', this).stop(1, 1).css({ 'top': 250 }).animate({ 'top': 0 }, 300, function() {
+          if ($(this).parent().attr('data-over') == '0') {
+            $('.default', $(this).parent()).stop(1, 1).css({ 'top': 0 });
+            $(this).stop(1, 1).animate({ 'opacity': 0 }, 600, function(){ $(this).css({ 'top': 250, 'opacity': 1 }) });
+          }
+        });
+      }
+    },
+    function() {
+      $(this).attr('data-over', 0);
+      if ($('.alt', this).not(':animated').length > 0 && $('.alt', this).css('background-image') != $('.default', this).css('background-image')) {
+        $('.default', this).stop(1, 1).css({ 'top': 0 });
+        $('.alt', this).stop(1, 1).animate({ 'opacity': 0 }, 600, function(){ $(this).css({ 'top': 250, 'opacity': 1 }) });
+      }
+    }
+  );
+}
+
+function setUseLightbox() {
+  $('img.use_lightbox').each(function() {
+    $(this).click(function(e){
+      e.preventDefault();
+      e.stopPropagation();
+      loadLightbox($(this).attr('src'))
+    });
+  });
+}
+
+// On Load:
+
+$(function() {
+
+  // Propagation Fix:
+
+  $('a').click(function(e){e.stopPropagation()});
+
+  // Alert Cookie Check:
+
+  if ($.cookie('alert_state') == 'hidden') $('#alert').hide();
+
+  // Fixed Header Navigation:
+
+  $(window).scroll((function() {
+    var nav = $('#header_nav');
+    if (nav.length < 1) return;
+    var top = nav.position().top;
+
+    return function() {
+      if ($(this).scrollTop() > top && $('#header_nav.fixed').length < 1) nav.after(
+        nav.clone(true).addClass('fixed').css({
+          'position': 'fixed',
+          'top': 0, 'left': '0',
+          'margin': 0
+        }).find('.lock').css({ 'box-shadow': '0 0 10px #000' }).parent()
+      );
+      if ($(this).scrollTop() <= top) $('#header_nav.fixed').remove();
+    };
+  })());
+
+  // Binds:
+
+  $('#alert button').click(function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    $('#alert').slideUp();
+    $.cookie('alert_state', 'hidden', { expires: 1, path: '/' });
+  });
+
+  function view_more() {
+    var self   = $(this),
+        active = false,
+        name   = self.attr('data-name'),
+        cat    = self.attr('data-cat-id'),
+        id     = cat ? cat : self.attr('data-id');
+
+    self.unbind('click').click(function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+
+      var grid   = $('#' + name + '_grid'),
+          box_h  = $('.box:first-child', grid).outerHeight(true),
+          height = Math.ceil(grid.children('.box').length / 3) * box_h;
+
+      if (!active) {
+        active = true;
+        $.get('/_api/' + (cat ? 'category_group' : 'grid_group') + '/' + id + '/' + (parseInt($('#' + name + '_grid > div').last().attr('data-order')) + 1) + '?' + (+ new Date()), function(data) {
+          grid.css('height', height).append(data);
+          grid.animate(
+            { 'height': Math.ceil(grid.children().length / 3) * box_h }, 500,
+            function() { grid.css('height', 'auto') }
+          );
+
+          $('body').animate({ 'scrollTop': grid.offset().top + height - 90 });
+
+          active = false;
+
+          if ($('#' + name + '_grid > div:last-child').attr('data-order') == 'last') {
+            self.removeClass('more').addClass('less');
+            $('button.less').each(view_less);
+          }
+        });
+      }
+    });
+  }
+
+  function view_less() {
+    var self   = $(this),
+        name   = self.attr('data-name');
+
+    self.unbind('click').click(function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+
+      var grid   = $('#' + name + '_grid'),
+          box_h  = $('.box:first-child', grid).outerHeight(true),
+          height = Math.ceil(grid.children('.box').length / 3) * box_h;
+
+      grid
+        .css('height', height)
+        .animate(
+          { 'height': 2 * box_h }, 500,
+          function() { grid.css('height', 'auto').children('.box').slice(6).remove() }
+        );
+
+      $('body').animate({ 'scrollTop': grid.offset().top - 90 });
+
+      self.removeClass('less').addClass('more');
+      $('button.more').each(view_more);
+    });
+  }
+
+  $('button.more').each(view_more);
+
+  $('button.more_small').each(function() {
+    var self   = $(this),
+        active = false,
+        name   = self.attr('data-for'),
+        list   = $('#concerts');
+
+    self.click(function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+
+      var box_h  = $('.concerts:first-child', list).outerHeight(true),
+          box_n  = $('ul.concerts', list).length,
+          height = box_n * box_h + 55;
+
+      if (!active) {
+        active = true;
+        $.get('/_api/event_list/' + name + '/' + box_n, function(data) {
+          if (!data) return;
+          list.css('height', height).append(data);
+          list.animate({ 'height': height + box_h }, 500, function(){ list.css('height', 'auto') });
+          active = false;
+        });
+      }
+    });
+  });
+
+  // Set Things:
+
+  setAltAnimation();
+  setUseLightbox();
+
+  // Facebook:
+
+  FB.init({appId: '223166817809054', status: true, cookie: true});
+
+  // Route Hashes:
+
+  var segment = window.location.hash.split('/');
+
+  switch (segment[0]) {
+    case '#gallery':
+      loadMediaLightbox(segment[1], segment[2], segment[3]);
+      break;
+    case '#event':
+      loadEvent(segment[1]);
+      break;
+  }
 
 
-<table cellspacing="0" cellpadding="0" border="0" width="782" align="center">
-<tbody><tr>
-	<td bgcolor="ffcc00" width="1"><img src="/store/images/2002store/spacer.gif" width="1" height="1" border="0"></td>
-	<td width="780" valign="top" bgcolor="000000"><!-- start VBSCRIPT PLUGIN DETECTION--><script language="VBScript">
- on error resume next
- var FlashMode
- var Flash5Mode
- FlashMode = False
-  FlashMode = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))
- If FlashMode = True Then
-  document.write "<OBJECT classid=""clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"" codebase=""http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"" ID=presiteanimation WIDTH=780 HEIGHT=174><PARAM NAME=movie VALUE=""/store/flash/movie3.swf""><PARAM NAME=quality VALUE=high><PARAM NAME=scale VALUE=noborder><PARAM NAME=bgcolor VALUE=#000000><PARAM NAME=menu VALUE=false><EMBED src=""/store/flash/movie3.swf"" quality=high scale=noborder bgcolor=#000000 menu=false WIDTH=780 HEIGHT=174 TYPE=""application/x-shockwave-flash"" PLUGINSPAGE=""http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash""></EMBED></OBJECT>"
- Else
-  document.write "<!--#include virtual=/store/non_flash_menu_vbscript.html--><br><IMG SRC=""/store/images/2002store/movie3.gif"" WIDTH=780 HEIGHT=110 BORDER=0 USEMAP=""#three_links""><!--#include virtual=/store/non_flash_icons.html-->"
- End If
-</script><!-- end VBSCRIPT PLUGIN DETECTION --><script language="JavaScript"><!--
+  // Google Analytics:
 
-	FlashMode = 0;
-	if (navigator.appName == "Netscape" && navigator.plugins) {
-		numPlugins = navigator.plugins.length;
-		if (numPlugins > 0){
-			for (i = 0; i < numPlugins; i++){
-				plugin = navigator.plugins[i];
-				if (plugin.description.indexOf("Shockwave Flash") != -1){
-					numTypes = plugin.length;
-					for (j = 0; j < numTypes; j++){
-						mimetype = plugin[j];
-						if (mimetype){
-							if (mimetype.enabledPlugin && (mimetype.suffixes.indexOf("swf") != -1)){
-								FlashMode = 1;
-							}
-							// Mac wierdness
-							if (navigator.mimeTypes["application/x-shockwave-flash"] == null){
-								FlashMode = 0;
-							}
-						}
-					}
-				}
-			}
-		}
-		if (FlashMode == 1){
-			document.writeln('<!--  Flash version -->');
-			document.writeln('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" ID=presiteanimation WIDTH=780 HEIGHT=174><PARAM NAME=movie VALUE="/store/flash/movie3.swf"><PARAM NAME=quality VALUE=high><PARAM NAME=scale VALUE=noborder><PARAM NAME=bgcolor VALUE=#000000><PARAM NAME=menu VALUE=false><EMBED src="/store/flash/movie3.swf" quality=high scale=noborder bgcolor=#000000 menu=false WIDTH=780 HEIGHT=174 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>');
-		}
-		if (FlashMode == 0) {
-			document.writeln('<!--  Gif version 1-->');
-			document.writeln('<map name="navmap"><area shape="rect" coords="2,5,259,22" href="/directors.html" target="_top"><area shape="rect" coords="261,5,518,22" href="/rockdaily.html" target="_top"><area shape="rect" coords="520,4,778,22" href="/station411.html" target="_top"><area shape="rect" coords="2,23,193,41" href="/photos.html" target="_top"><area shape="rect" coords="196,23,386,41" href="/input98.html"  target="_top"><area shape="rect" coords="389,23,580,41" href="/concerts.html" target="_top"><area shape="rect" coords="582,23,778,40" href="http://98rock.epromo.com" target="_top"><area shape="rect" coords="2,42,157,60" href="/onair.html" target="_top"><area shape="rect" coords="159,42,313,58" href="/kml.html" target="_top"><area shape="rect" coords="314,43,467,60" href="/photos/Mickey_Amelia/index.html" target="_top"><area shape="rect" coords="470,43,625,58" href="/roadcrew.html" target="_top"><area shape="rect" coords="626,43,777,58" href="/twistedtunes.html" target="_top"></map><img src="/store/images/2002store/nav.gif" width="780" height="64" border="0" usemap="#navmap"><br><IMG SRC="/store/images/2002store/movie3.gif" WIDTH=780 HEIGHT=110 BORDER=0 USEMAP="#three_links"><MAP NAME="three_links"><AREA SHAPE="RECT" COORDS="409,86,508,106" HREF="http://tuner1.dc1.sonixtream.com/solon/media/tuner/LaunchTuner?aff=98online" TARGET="_TOP"><AREA SHAPE="RECT" COORDS="525,86,660,107" HREF="http://www.98online.com/listenlive_info.html" TARGET="_TOP"><AREA SHAPE="RECT" COORDS="677,87,768,106" HREF="/freeloader.html" TARGET="_TOP"><AREA SHAPE="RECT" COORDS="298,88,391,107" HREF="/podcasting" TARGET="_TOP"></MAP>');
-		}
-	}
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
-	if (navigator.appName == "Microsoft Internet Explorer" && navigator.appVersion.indexOf("Mac") != -1 ) {
-		document.writeln('<!--  Gif version 1-->');
-		document.writeln('<!-- ' + navigator.appName + ' ' + navigator.appVersion + ' -->');
-		document.writeln('<map name="navmap"><area shape="rect" coords="2,5,259,22" href="/directors.html" target="_top"><area shape="rect" coords="261,5,518,22" href="/rockdaily.html" target="_top"><area shape="rect" coords="520,4,778,22" href="/station411.html" target="_top"><area shape="rect" coords="2,23,193,41" href="/photos.html" target="_top"><area shape="rect" coords="196,23,386,41" href="/input98.html"  target="_top"><area shape="rect" coords="389,23,580,41" href="/concerts.html" target="_top"><area shape="rect" coords="582,23,778,40" href="http://98rock.epromo.com" target="_top"><area shape="rect" coords="2,42,157,60" href="/onair.html" target="_top"><area shape="rect" coords="159,42,313,58" href="/kml.html" target="_top"><area shape="rect" coords="314,43,467,60" href="/photos/Mickey_Amelia/index.html" target="_top"><area shape="rect" coords="470,43,625,58" href="/roadcrew.html" target="_top"><area shape="rect" coords="626,43,777,58" href="/twistedtunes.html" target="_top"></map><img src="/store/images/2002store/nav.gif" width="780" height="64" border="0" usemap="#navmap"><br><IMG SRC="/store/images/2002store/movie3.gif" WIDTH=780 HEIGHT=110 BORDER=0 USEMAP="#three_links"><MAP NAME="three_links"><AREA SHAPE="RECT" COORDS="409,86,508,106" HREF="http://tuner1.dc1.sonixtream.com/solon/media/tuner/LaunchTuner?aff=98online" TARGET="_TOP"><AREA SHAPE="RECT" COORDS="525,86,660,107" HREF="http://www.98online.com/listenlive_info.html" TARGET="_TOP"><AREA SHAPE="RECT" COORDS="677,87,768,106" HREF="/freeloader.html" TARGET="_TOP"><AREA SHAPE="RECT" COORDS="298,88,391,107" HREF="/podcasting" TARGET="_TOP"></MAP>');
-	}
+});</script>
+    <script type="text/javascript">
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 
 
-//--></script><!--  Gif version 1-->
-<map name="navmap"><area shape="rect" coords="2,5,259,22" href="/directors.html" target="_top"><area shape="rect" coords="261,5,518,22" href="/rockdaily.html" target="_top"><area shape="rect" coords="520,4,778,22" href="/station411.html" target="_top"><area shape="rect" coords="2,23,193,41" href="/photos.html" target="_top"><area shape="rect" coords="196,23,386,41" href="/input98.html" target="_top"><area shape="rect" coords="389,23,580,41" href="/concerts.html" target="_top"><area shape="rect" coords="582,23,778,40" href="http://98rock.epromo.com" target="_top"><area shape="rect" coords="2,42,157,60" href="/onair.html" target="_top"><area shape="rect" coords="159,42,313,58" href="/kml.html" target="_top"><area shape="rect" coords="314,43,467,60" href="/photos/Mickey_Amelia/index.html" target="_top"><area shape="rect" coords="470,43,625,58" href="/roadcrew.html" target="_top"><area shape="rect" coords="626,43,777,58" href="/twistedtunes.html" target="_top"></map><img src="/store/images/2002store/nav.gif" width="780" height="64" border="0" usemap="#navmap"><br><img src="/store/images/2002store/movie3.gif" width="780" height="110" border="0" usemap="#three_links"><map name="three_links"><area shape="RECT" coords="409,86,508,106" href="http://tuner1.dc1.sonixtream.com/solon/media/tuner/LaunchTuner?aff=98online" target="_TOP"><area shape="RECT" coords="525,86,660,107" href="http://www.98online.com/listenlive_info.html" target="_TOP"><area shape="RECT" coords="677,87,768,106" href="/freeloader.html" target="_TOP"><area shape="RECT" coords="298,88,391,107" href="/podcasting" target="_TOP"></map>
-<noscript><map name="navmap"><area shape="rect" coords="2,5,259,22" href="/directors.html" target="_top"><area shape="rect" coords="261,5,518,22" href="/rockdaily.html" target="_top"><area shape="rect" coords="520,4,778,22" href="/station411.html" target="_top"><area shape="rect" coords="2,23,193,41" href="/photos.html" target="_top"><area shape="rect" coords="196,23,386,41" href="/input98.html"  target="_top"><area shape="rect" coords="389,23,580,41" href="/concerts.html" target="_top"><area shape="rect" coords="582,23,778,40" href="http://98rock.epromo.com" target="_top"><area shape="rect" coords="2,42,157,60" href="/onair.html" target="_top"><area shape="rect" coords="159,42,313,58" href="/kml.html" target="_top"><area shape="rect" coords="314,43,467,60" href="/photos/Mickey_Amelia/index.html" target="_top"><area shape="rect" coords="470,43,625,58" href="/roadcrew.html" target="_top"><area shape="rect" coords="626,43,777,58" href="/twistedtunes.html" target="_top"></map><img src="/store/images/2002store/nav.gif" width="780" height="64" border="0" usemap="#navmap"><br><IMG SRC="/store/images/2002store/movie3.gif" WIDTH=780 HEIGHT=110 BORDER=0 USEMAP="#three_links"><MAP NAME="three_links"><AREA SHAPE="RECT" COORDS="409,86,508,106" HREF="http://tuner1.dc1.sonixtream.com/solon/media/tuner/LaunchTuner?aff=98online" TARGET="_TOP"><AREA SHAPE="RECT" COORDS="525,86,660,107" HREF="http://www.98online.com/listenlive_info.html" TARGET="_TOP"><AREA SHAPE="RECT" COORDS="677,87,768,106" HREF="/freeloader.html" TARGET="_TOP"><AREA SHAPE="RECT" COORDS="298,88,391,107" HREF="/podcasting" TARGET="_TOP"></MAP></noscript></td>
-	<td bgcolor="ffcc00" width="1"><img src="/store/images/2002store/spacer.gif" width="1" height="1" border="0"></td>
-</tr>
-</tbody></table>
-<table cellspacing="0" cellpadding="0" border="0" width="782" height="100%" align="center">
-<tbody><tr>
-	<td bgcolor="ffcc00" width="1"><img src="/store/images/2002store/spacer.gif" width="1" height="1" border="0"></td>
-	<td background="/store/images/2002store/ltcurvetile.gif" width="72" valign="top"><img src="/store/images/2002store/ltcurves.gif" width="72" height="453" border="0"></td>
-	<td bgcolor="000000" width="30" valign="top"><img src="/store/images/2002store/spacer.gif" width="30" height="1" border="0"></td>
-	<td bgcolor="000000" width="575" valign="top"><img src="/store/images/2002store/spacer.gif" width="575" height="1" border="0">
-
-<!--Here is the start of the table that contains a sub nav-->
-
-	<table width="568" border="0">
-          <tbody><tr>
-		<td><center>
-              </center></td>
-	</tr>
-	</tbody></table>
 
 
-<!--Here is the end of the table that contains a sub nav-->
 
-        <p> 
-          <!--Here is the start of a table that contains your content, make sure you keep the width of all tables that contain content no greater than 550 -->
-        </p><p align="center"><font color="#FFFFFF">98 ROCK INTERNET PRIVACY POLICY<br>
-          </font></p>
-        <p align="left"><font color="#FFFFFF">98 Rock's Internet site, http://98online.com, 
-          complies with the following Privacy Policy. We can be reached electronically 
-          via <a href="input98.html">Input 98.</a></font></p>
-        <p align="left"><font color="#FFFFFF">This site collects no personally 
-          identifying information about individuals except when specifically and 
-          knowingly provided by such individuals. In addition, we may place a 
-          "cookie" in the browser files of a user's computer. The cookie 
-          itself does not contain any personally identifying information although 
-          it will enable us to relate a user's use of our sites to information 
-          that the user has specifically and knowingly provided to us.</font></p>
-        <p align="left"><font color="#FFFFFF">A user's personally identifying 
-          information may be used for editorial purposes and we may also use such 
-          information for marketing and promotional purposes and may share the 
-          information with others if the userhas not advised us of his or her 
-          preference not to be included in such an exchange. Individuals always 
-          have the ability to stop their information being used for such purposes 
-          by sending an e-mail request to us at the address given above.</font></p>
-        <p align="left"><font color="#FFFFFF">While we will seek to require third 
-          parties with whom we have agreements to follow appropriate privacy policies, 
-          we do not bear any responsibility for any actions or policies of third 
-          parties. </font></p>
-        <p align="left"><font color="#FFFFFF">Users should be aware that when 
-          they voluntarily disclose personal information (e.g., user name, e-mail 
-          address) on the bulletin boards or in the chat areas, that information 
-          can be collected and used by others and may result in unsolicited messages 
-          from other posters or parties. </font></p>
-        <p align="left"><font color="#FFFFFF">Children should ask their parents 
-          for permission before sending any information about themselves to us 
-          or anyone else over the Internet. </font></p>
-        <p align="left"><font color="#FFFFFF">Users can contact us at <a href="input98.html">Input 
-          98</a> with any further questions.</font></p>
-        <p> <font color="#FFFFFF">
-          <!--This is where your content ends, below is the virtual include for your textlinks-->
-          <br>
-          </font> <br>
-          &nbsp;<br>
-          <br>
-          </p><center>
-  <font face="arial, helvetica" size="1" color="#CC99FF" class="textlinks">|&nbsp; 
-  <a href="/directors.html" target="_top">BOARD OF DIRECTORS</a> &nbsp;|&nbsp; 
-  <a href="/rockdaily.html" target="_top">ROCK DAILY</a> &nbsp;|&nbsp; <a href="/station411.html" target="_top">STATION 
-  411</a> &nbsp;|<br>
-  |&nbsp; <a href="/photos.html" target="_top">PHOTOS</a> &nbsp;|&nbsp; <a href="/input98.html" target="_top">INPUT 
-  98</a> &nbsp;|&nbsp; <a href="/concerts.html" target="_top">CONCERTS</a> &nbsp;|&nbsp; 
-  <a href="http://98rock.epromo.com/" target="_top">98 ROCK GEAR</a> &nbsp;|<br>
-  |&nbsp; <a href="/onair.html" target="_top">JOCKS</a> &nbsp;|&nbsp; <a href="/kml.html" target="_top">MORNING SHOW</a> 
-  &nbsp;|&nbsp; <a href="/photos/Mickey_Amelia/index.html" target="_top">MICKEY AND AMELIA</a> &nbsp;|&nbsp; <a href="/roadcrew.html" target="_top">ROAD 
-  CREW</a> &nbsp;|&nbsp; <a href="/twistedtunes.html" target="_top">TWISTED TUNES 
-  </a> <br>
-  | <a href="http://www.98online.com/WBAL_WIYY_Public_File_Report1.pdf">PUBLIC 
-  FILE</a> | <a href="http://www.98online.com/privacy_policy.html">PRIVACY POLICY</a> 
-  | <a href="http://www.98online.com/contest_rules.html">CONTEST RULES</a><br>
-  &nbsp;<br>
-  <br>
-  </font> 
-</center>
+
+
+
+
+
+
+<script type="text/javascript">
+googletag.defineSlot('/112235112/411_728x90_top', [728, 90], 'div-gpt-ad-1355336993091-0').addService(googletag.pubads());
+googletag.enableServices();
+</script>
+
+<script type="text/javascript">
+googletag.defineSlot('/112235112/411_728x90_bottom', [728, 90], 'div-gpt-ad-1355337373562-0').addService(googletag.pubads());
+googletag.enableServices();
+</script>
+
+<script type="text/javascript">
+function dfpPlacementGeneric(uniqueId) {
+  googletag.defineSlot('/112235112/411_300x250_generic', [300, 250], 'div-gpt-ad-' + uniqueId + '-0').addService(googletag.pubads());
+  googletag.enableServices();
+  googletag.display('div-gpt-ad-' + uniqueId + '-0');
+}
+
+function dfpPlacementPremium(uniqueId) {
+  googletag.defineSlot('/112235112/411_300x250_premium', [300, 250], 'div-gpt-ad-' + uniqueId + '-0').addService(googletag.pubads());
+  googletag.enableServices();
+  googletag.display('div-gpt-ad-' + uniqueId + '-0');
+}
+
+var refreshAd = function() {
+  var slot = null;
+  return function(uniqueId) {
+    if (slot == null) {
+      slot = googletag.defineSlot('/112235112/411_300x250_generic', [300, 250], 'div-gpt-ad-' + uniqueId + '-0').addService(googletag.pubads());
+      googletag.enableServices();
+      googletag.display('div-gpt-ad-' + uniqueId + '-0');
+    } else {googletag.pubads().refresh([slot]);}
+  };
+}();
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/112235112/Articles_728x90_top', [728, 90], 'div-gpt-ad-1362411184649-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+    <script type="text/javascript">
+      $(function() {
+        var sb = new SocialBar({
+          facebook: { accessToken: '223166817809054|2AHQq9nRsdCSl0QO0LKBodsKurw', pageId: 33742029238, ownerOnly: true },
+          youtube:  { key: 'AIzaSyDeQwLtZpPtuKV1WdrzDGnwGVgkOeGhAyA', userName: '98RockBaltimore' },
+          twitter:  { userName: '98Rock', jsonp: true }
+        });
+      });
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-2828738-1']);
+      _gaq.push(['_trackPageview']);
+    </script>
+
+  </head>
+  <body>
+    
+    <div id="fb-root"></div>
+    <a href="#body_box" style="display:none;">Skip Navigation</a>
+    
+    
+
+<div id="page" style="cursor: default;">
+      <div id="background_texture"></div>
+
+      <div id="header_info" class="layer">
+        <div class="lock">
+          <a id="freeloaders" href="http://freeloader.98online.com/">FREELOADERS <span>SIGN IN ►</span></a>
+          <div id="contact_us">
+            <a href="/411/input/">Contact Us</a>
+          </div>
+          <div id="text">TXT 56332</div>
+          <div id="phone">410-338-1098</div>
+        </div>
+      </div>
+
+      <div id="header_bars" class="layer">
+        <div class="lock">
+          <a href="/homepage"><h1 id="logo">98 Rock</h1></a>
+          <a class="listen_live" href="http://player.listenlive.co/35541/en/programguide" target="_blank">
+            <div class="artist"><span>Nirvana</span></div>
+            <div class="title"><span>Lithium</span></div>
+            <div class="button">
+              <div class="playlist">
+                <div class="head">Last 10 songs aired as of <span>6:41pm</span></div>
+                <div class="list"><div class="item"><div class="left"><span>Nirvana</span></div><div class="right"><span>Lithium</span></div></div><div class="item"><div class="left"><span>Aerosmith</span></div><div class="right"><span>Livin On The Edge</span></div></div><div class="item"><div class="left"><span>Black Veil Brides</span></div><div class="right"><span>In The End</span></div></div><div class="item"><div class="left"><span>Linkin Park</span></div><div class="right"><span>Numb</span></div></div><div class="item"><div class="left"><span>Beware Of Darkness</span></div><div class="right"><span>Howl</span></div></div><div class="item"><div class="left"><span>Papa Roach</span></div><div class="right"><span>Face Everything And Rise</span></div></div><div class="item"><div class="left"><span>Pink Floyd</span></div><div class="right"><span>Mother</span></div></div><div class="item"><div class="left"><span>Halestorm</span></div><div class="right"><span>Apocalyptic</span></div></div><div class="item"><div class="left"><span>We As Human</span></div><div class="right"><span>Bring To Life</span></div></div><div class="item"><div class="left"><span>Pearl Jam</span></div><div class="right"><span>Mind Your Manners</span></div></div></div>
+              </div>
+            </div>
+          </a>
+          <script type="text/javascript">
+            (function() {
+              function load_playlist() {
+                try {
+                  $.getJSON('/listenlive/playlist/1', function(data) {
+                    var list     = data.playlist,
+                        artist   = $('#header_bars .listen_live .artist span'),
+                        title    = $('#header_bars .listen_live .title span'),
+                        head     = $('#header_bars .listen_live .playlist .head span'),
+                        playlist = $('#header_bars .listen_live .playlist .list').empty(),
+                        date     = new Date(),
+                        hours    = date.getHours() % 12 == 0 ? 12 : date.getHours() % 12,
+                        mins     = date.getMinutes() > 10 ? date.getMinutes() : '0' + date.getMinutes(),
+                        merid    = date.getHours() > 11 ? 'pm' : 'am';
  
-      </td>
-	<td bgcolor="000000" width="30" valign="top"><img src="/store/images/2002store/spacer.gif" width="30" height="1" border="0"></td>
-	<td background="/store/images/2002store/rtcurvestile.gif" width="73" valign="top"><img src="/store/images/2002store/rtcurves.gif" width="73" height="453" border="0"></td>
-	<td bgcolor="ffcc00" width="1"><img src="/store/images/2002store/spacer.gif" width="1" height="1" border="0"></td>
-</tr>
-</tbody></table>
+                    for (var i in list) playlist.append('<div class="item"><div class="left"><span>' + list[i].artist + '</span></div><div class="right"><span>' + list[i].title + '</span></div></div>');
+                    head.text(hours + ':' + mins + merid);
+                    artist.html(list[0].artist);
+                    title.html(list[0].title);
+                  });
+                } catch (e) {}}
+             
+              setInterval(load_playlist, 60000);
+              load_playlist();
+            })();
+          </script>
+          <a id="watch_us" href="/livewire">WATCH US | IN-STUDIO CAM</a>
+        </div>
+      </div>
+      
+      <div id="header_nav" class="layer">
+        <div class="lock">
+            <a id="home_btn" class="" href="/homepage">HOME</a>
+            <a id="media_btn" class="" href="/media">MEDIA</a>
+            <a id="jocks_btn" class="" href="/jocks">JOCKS</a>
+            <a id="calendar_btn" class="" href="/calendar">CALENDAR</a>
+            <a id="four_btn" class="active" href="/411">411</a>
+            <a id="music_btn" class="" href="/music">MUSIC</a>
+            <a id="ravens_btn" href="http://gameday.98online.com/" target="_blank">Ravens Gameday</a>
+      <div style="clear:both"></div>
+        </div>
+      </div>
+      
+      
+      <script type="text/javascript">
+        $(function() {
+          $('#stage .lock').slider([     
+            
+                          
+          ], 2000, 6000, false);
+        });
+      </script>
 
+      <div id="body_box" class="layer">
+        <div class="lock">
 
+        <div class="bar_ad">
+          <!-- Articles_728x90_top -->
+           <div id="div-gpt-ad-1362411184649-0" style="width:728px; height:90px;">
+             <script type="text/javascript">
+               googletag.cmd.push(function() {googletag.display('div-gpt-ad-1362411184649-0');});
+            </script>
+          </div>
+        </div>
 
+          <div class="sub_body">
+
+            
+            <h2 class="title">Privacy Policy</h2>
+            <div class="sub_content">
+              <p>
+	98 Rock's Internet site, http://98online.com complies with the following Privacy Policy.</p>
+<p>
+	This Web site (the "Site"), on which this Privacy Policy is posted, is operated by Hearst Television Inc. ("Hearst Television") and its parent, subsidiary and affiliated entities (collectively referred to herein as "we", "us", "our" or "Hearst"). We have created this privacy statement ("Privacy Policy") in order to demonstrate our commitment to the privacy of our Site’s users, and to disclose our information gathering, use and dissemination practices with respect to the data collected online via this Site. It does not apply to information obtained by any other means (including on or through another Web site or source, or via any offline methods). By visiting this Site, you consent to these practices. Please take a moment to review the sections below. This Privacy Policy is incorporated into, and part of, the Site Terms of Use, which governs your use of this Site in general.</p>
+<p>
+	You may opt in or opt out of our sharing of your personally identifiable information with third parties for their marketing use by following the directions in the What are my opt-out rights? section below.</p>
+<p>
+	We may collect both personally identifiable information about you and non-personally identifiable information about you and your visits to this Site.</p>
+<p>
+	Personally Identifiable Information: The personally identifiable information we collect about you includes information you submit to us. For example, if you subscribe to online services we offer or register for certain services with us online that require registration, agree to participate in on-line surveys, participate in on-line contests, sweepstakes and promotions sponsored by us and others, make certain on-line information requests to us, participate in various activities on the Site, or want to establish a profile for submission of user-generated content available to other Site visitors and/or the general public, we may ask you to provide “personally identifiable information,” such as your contact information (e.g., name, phone number, address and e-mail address) and user demographic information (e.g., gender, age, hobbies or interests). Because participation in these activities is completely voluntary, you choose whether to disclose this information.</p>
+<p>
+	Non-Personally Identifiable Information: The non-personally identifiable information we collect may include the domain name of the site providing you with Internet access, and the Internet protocol (IP) address used to connect your computer to the Internet. The Site’s servers may also collect your browser type and version, screen resolution, the operating system your computer is running, and other Site visit data such as the pages you view, the referring page that linked you to us (e.g., another Web site or a search engine), information you search for, information or ads you click on, the average time spent on the Site, and the Web site you visit after this Site. Much of this information is tracked through log files, which are stored on the Site’s servers. Additional information about our use of cookies and tracking pixels to collect non-personally identifiable information is set forth in the “What about cookies and tracking pixels?” section below. Any or all of the above-described activities with respect to non-personally identifiable information may be performed on our behalf by our Services Providers (defined below).</p>
+<p>
+	Information Obtained from Third Parties: We may supplement the information that you provide with information that is received or otherwise obtained from third parties. For example, this information may be received or obtained from our partners in sponsored content sections or from other third parties. The type of information that is shared with us may include user contact information (e.g., name and email address) and user demographic information (e.g., zip code, age or income level), as well as other types of personally identifiable information and non-personally identifiable information.</p>
+<p>
+	Location Information: We may, and may enable our advertisers, technology and analytic partners, social networks, and other third parties to, collect your location via certain services we provide through websites and other digital platforms and applications, including mobile websites and applications. You will be informed prior to collection at the time you initially use the product or service. By using such product or service, you hereby consent to the collection, use and disclosure of your location information as described.</p>
+<p>
+	How may your information be used?</p>
+<p>
+	How Personally Identifiable Information May Be Used: We may use your personally identifiable information for various purposes, such as to send confirmation notices regarding services users have requested, and to notify contest or sweepstakes winners and award prizes. Contact information may also be used to notify you of significant upcoming events and programs. Demographic information may be used to tailor your experience at the Site. Contact information and demographic information may be used to establish a profile for you to use when posting information in public forums (however, as further described below, we are not responsible for protecting the personally identifiable information you may disclose in public forums, comments, or other user-generated content). The Site may show you content we think might be of interest to you and we may display content according to your preferences and interests.</p>
+<p>
+	We may also use any personally identifiable information you provide for marketing and promotional purposes (such as sending you promotional emails), and we may combine information we receive online with outside records and/or information from other sources to enhance our ability to market products or provide services that we believe may be of interest to you. If you want to stop receiving promotional email messages from Hearst Television, you may do so by following the directions in the "What are my opt-out rights?" section below.</p>
+<p>
+	Referral Services: In addition to the uses of personally identifiable information described above, if you elect to use our referral service for informing a friend about the Site or to send an e-card through the Site, we ask you for your friend's name and email address. We will automatically send the friend an email inviting him/her to visit the Site or send an e-card, as the case may be. You and any friend you refer may be able to opt-out of receiving future marketing communications by complying with the choice/opt-out requirements described below.</p>
+<p>
+	How Non-Personally Identifiable Information May Be Used: Non-personally identifiable information such as that which is collected about your Site visits, anonymous survey information, and certain aggregated demographic information, may be used for various purposes, such as reporting survey results and to allow us to better understand the entire audience that is visiting the Site. We also may track and use your IP address and other non-personally identifiable information to help diagnose problems with our servers, for reporting and profiling purposes, to administer the Site and for other uses and purposes, including sharing with third parties. We also gather anonymous browsing habits of our visitors to better identify content preferences, and we monitor and analyze this information to increase the functionality and user-friendliness of the Site and better tailor the Site to our visitors’ needs. We may link any of this information with your personally identifiable information for various purposes. Any or all of the above-described activities with respect to your non-personally identifiable information may be performed on our behalf by our Services Providers (defined below).</p>
+<p>
+	Tracking Requests: Hearst does not act on Do Not Track requests from your browser. For more information click here.</p>
+<p>
+	Effect of Tracking Requests: Hearst does not act on Do Not Track requests from your browser because, this way, we are able to personalize your experience on our sites and tailor content to your interests.</p>
+<p>
+	How may your information be disclosed?</p>
+<p>
+	Sharing Personally Identifiable Information In General: We describe in this Privacy Policy when and how we may share your personally identifiable information. Other than as described in this Privacy Policy (including, for example, as described below), we will not sell, rent, or share your personally identifiable information with unaffiliated third parties without your consent.</p>
+<p>
+	Sharing Non-Personally Identifiable Information: Aggregate demographic and other information of and about our Site users may be published or shared with third parties for various purposes. Also, as further detailed in the section titled “What about cookies and tracking pixels?” below, non-personally identifiable information is shared with advertisers and advertising services that provide us and advertisers with demographic information about our visitors.</p>
+<p>
+	Sharing with Service Providers: Except explained below with respect to IB, we may share your personally identifiable information with our business partners and/or other third party service providers, such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, payment processing companies and other similar vendors and services providers, which perform services for us and which use such information on our behalf (collectively "Service Providers").</p>
+<p>
+	Internet Broadcasting Systems Inc.: One of our Service Providers, Internet Broadcasting Systems Inc. ("IB"), is integral to the operation and administration of many aspects of this Site. In addition to collecting and using user information to perform its services, IB may collect and use your information for its own purposes (including direct marketing purposes), subject to its own privacy policies. If you do not want IB to collect and use your information for its own purposes (including personally identifiable information and non-personally identifiable information), you will no longer be able to use the Site and you must deactivate your Site account and remove your information from the Site.</p>
+<p>
+	Sharing with Third-Party Marketers: We may share your personally identifiable information with, and make our customer lists available to, third parties (outside of Hearst), who may choose to contact you to promote their own goods and services, or who may use such information for other purposes, including direct marketing. Additionally, when you enter a contest or sweepstakes that is sponsored by a third party, independently or jointly with us, your personally identifiable information may be shared with that third party for their use, in their discretion and in accordance with their privacy policies, including for their direct marketing purposes. While some of our contests and sweepstakes will ask you at the time of entry whether you would like your personally identifiable information to be shared with the third-party sponsor, other contests will not give you that option. Thus, in that event, if you do not want your information to be shared, you should not enter the contest. We are not responsible for how our co-sponsors or such other third parties may use your information. If you want us to stop sharing your personally identifiable information with third parties for their direct marketing use, follow the directions in the "What are my opt-out rights?" section below.</p>
+<p>
+	Legally-Compelled Disclosures: To the extent permitted or required by law, any information collected on or through the Site or concerning its use (including personally identifiable and non-personally identifiable information) may be disclosed to government authorities or third parties pursuant to a legal request, subpoena, or other process that requires disclosure of information. We may also use or disclose your information to enforce compliance with our Terms of Use and as permitted by law to collect debts, fight fraud or protect the rights or property of the Site, our customers, our users, or third parties, or when we otherwise believe in good faith that the law requires it.</p>
+<p>
+	Information Posted to Public Forums: This Site may make chat rooms, forums, message boards, news groups and/or other similar features available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose personally identifiable information about you or anyone else. The Site cannot and does not accept any responsibility for ensuring the privacy of any information that you choose to disclose in these areas. Any content or information you provide to these areas of the Site is done at your own risk.</p>
+<p>
+	What are my opt-out rights?</p>
+<p>
+	Opting Out of the Site's Marketing Communications: While many of our visitors appreciate the benefits that online registration allows us to provide them, we respect your individual right to control how your personally identifiable information may be used. If you do not wish to receive promotional communications from the Site regarding special offers and product updates and other news and information, you can uncheck the box that allows us to use your information for this purpose when your information is collected (if applicable), or go to your personal profile or account on the Site and edit your email preferences (if applicable). You also will notice that there is an unsubscribe link at the bottom of each of our promotional e-mail messages, which will enable you to opt out of receiving all future promotional emails from the Site. Simply click on that link to go to a page that allows you to unsubscribe from any or all of the lists to which you are subscribed. Please understand that if you opt out of receiving promotional correspondence from the Site, we may still contact you in connection with your relationship, activities, transactions and communications with us, and you may not opt out of these types of messages.</p>
+<p>
+	Opting Out of Sharing Personally Identifiable Information with Third Parties for Marketing Use: If you want us to stop sharing your personally identifiable information with third parties (outside of Hearst) for their direct marketing use, go to your personal profile or account on the Site and edit your preferences (if applicable). If you do request to have us stop sharing your personally information with such third parties for their direct marketing purposes, such request will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your personally identifiable information prior to such request. In these cases, please contact that entity directly.</p>
+<p>
+	California &amp; Canadian Users: Your California Privacy Rights. California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternatively, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information sharing. We have such a policy in place. The heading Third-Party Advertisers below explains our practices and how you can opt-out of having your information shared with third parties for the third parties’ direct or indirect marketing purposes, in accordance with such laws. In addition to reviewing Third-Party Advertisers, if you wish to find out about any rights you may have under California Civil Code section 1798.83, you may notify us in writing at Hearst Television Inc., 300 West 57th Street, New York, NY 10019 or contacting us at hearsttelevision.com. Canadian residents also have certain rights to know how their information may be shared with third parties who engage in direct marketing activities. Again, the section Third-Party Advertisers explain our practices and how you can opt-out of having your information shared for such purposes, in accordance with such laws. For the avoidance of doubt, these opt-out options are available for all users and are not limited to Californian and Canadian users.</p>
+<p>
+	What about messages sent to me at my wireless email address or short message service?</p>
+<p>
+	Wireless Addresses</p>
+<p>
+	If the email address you provide to us is a wireless email address, you agree to receive messages at such address from us (unless and until you have elected not to receive such messages by either un-checking the box that allows us to use your information for this purpose when your information is collected (if applicable), or by going to your personal profile or account on the Site and editing your email preferences (if applicable)). You understand that your wireless carrier may charge you for these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.</p>
+<p>
+	Short Message Service and Wireless Internet</p>
+<p>
+	We may make available services through which you can receive messages on your phone or wireless device via short message service ("SMS Service") or via wireless Internet ("WAP Services"). If you subscribe to one of our SMS or WAP Services, you thereby agree to receive SMS or WAP Service at the address you provide for such purposes. Such messages may come from Hearst, or from third parties who we believe may have goods or services of interest to you (unless you have elected not to receive such messages).</p>
+<p>
+	You understand that your wireless carrier may charge you for these messages and for access to these services, and that you may opt-out of receiving such messages by editing your preferences in your account profile (if applicable), or by texting the applicable "STOP" message to the short code associated with the particular program/service. You represent that you are the owner or authorized user of the wireless device you use to sign up for the SMS or WAP Service, and that you are authorized to approve the applicable charges. To use the SMS or WAP Service, you must reside in the United States. You must register and provide all required personally identifiable information, which may include, for example, your name, SMS or WAP address, wireless carrier and, if fees are applicable to the SMS or WAP Service to which you may subscribe, your billing information (either your credit card information or mobile service carrier information if applicable fees will be billed through your carrier). We may also obtain the date, time and content of your messages in the course of your use of the SMS or WAP Service. We will use the information we obtain in connection with our SMS or WAP Service in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.</p>
+<p>
+	You acknowledge and agree that the SMS or WAP Services are provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the SMS or WAP Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS or WAP Service. We may also access the content of your account and wireless account with your carrier for the purpose of identifying and resolving technical problems and service-related complaints.</p>
+<p>
+	By signing up for the SMS or WAP Service, you consent to receiving, from time to time, further messages which may include news, promotions and offers from us, unless and until you have opted-out of these activities by editing your preferences in your account profile (if applicable), or by texting the applicable "STOP" message to the short code associated with the particular program/service. Please follow the instructions provided to you by third parties to unsubscribe from their messages.</p>
+<p>
+	What about cookies and tracking pixels?</p>
+<p>
+	We use technologies such as cookies and tracking pixels to collect information from and/or about you, and we do so, for example, to enhance the information we have about your preferences, to store some of your Site settings and to learn about your visits. A cookie is a piece of information that is sent to your browser from a Web server and stored on your computer's hard drive. A cookie allows us to determine that a visit has occurred within the Site, as well as which pages were viewed. You can decide if and how your computer will accept cookies by configuring your preferences option within your Web browser. If you choose to decline cookies, however, some of the functionality of the Site may be impaired.</p>
+<p>
+	We also may use "tracking pixels" (aka "clear GIFs" or "pixel tags") or similar technologies in the Site and/or in our communications with you to enable us to know whether you have visited a Web page or received a message. A Web beacon is typically a one-pixel, transparent image located on a Web page or in an e-mail or other type of message. These electronic images help us measure the effectiveness of our online advertising and/or e-mail or other messaging campaigns by, for example, counting the number of individuals who visit the Site or the number of individuals who open or act upon an e-mail or other type of message.</p>
+<p>
+	Any or all of the above-described activities with respect to cookies and tracking pixels may be performed on our behalf by our Services Providers (defined above).</p>
+<p>
+	Third-Party Advertisers</p>
+<p>
+	We may allow third parties to compile information or aggregate statistics from our use of tracking pixels, cookies and other tracking technologies to help them assess the effectiveness of online marketing and to enable us and our advertisers to deliver more targeted advertising opportunities. This enables users to see advertising more likely to be of interest to them, and advertisers to send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads.</p>
+<p>
+	If advertisements appear on the Site, they may be provided by third parties who will be helping to manage them for us. Those third parties may employ cookies and tracking pixels (and other tracking technologies) to recognize your computer each time they send you an online advertisement, and to measure advertising effectiveness. We do not control these companies' use of cookies and tracking pixels. Some of these companies (like the ad networks) are members of the industry group, the Network Advertising Initiative, which offers a single location to opt out of their cookies. For more information, we encourage you to visit the Network Advertising Initiative's consumer Web site, at http://www.networkadvertising.org/consumer/.</p>
+<p>
+	What information is collected from children under the age of 13?</p>
+<p>
+	This Site is not directed at children under the age of 13. We do not knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent and unless expressly identified on specific pages of the Site. If we learn that we have received personally identifiable information from a child under the age of 13, we will take steps to delete such information or to obtain verifiable parental consent.</p>
+<p>
+	How do we aim to protect personally identifiable information collected on this Site?</p>
+<p>
+	While we will endeavor to protect the security and integrity of any personally identifiable information that may be provided to this Site, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our systems or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.</p>
+<p>
+	If you contact us by e-mail or a "contact us" or similar feature on the Site, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit. We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.</p>
+<p>
+	If we believe that the security of any user's personal information in our possession or control may have been compromised, we may seek to notify such user of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. You hereby consent to our use of e-mail as the means of such notification.</p>
+<p>
+	How can you access and edit your personally identifiable information?</p>
+<p>
+	You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences here (if applicable), or if you are a member of the u local community, you may edit your profile preferences here.</p>
+<p>
+	What Web sites does this Privacy Policy cover?</p>
+<p>
+	When you are on the Site, you may have the opportunity to visit, or link to, other sites, including other sites operated by subsidiaries or affiliates of us, or by unaffiliated third parties. When you link to such sites, you become subject to their terms of use and privacy policies posted thereon and/or applicable thereto. You should review these sites' privacy policies regarding any information that they may collect about you at their sites. We do not accept any responsibility or liability for the privacy practices of such “third party” sites and your use of such sites is at your own risk.</p>
+<p>
+	What if I am a non-U.S. user?</p>
+<p>
+	If you are located outside of the United States, please note that the information you provide to us will be collected, maintained, processed and transferred in and to the United States and other countries and territories. By using this Site, you consent thereto. You also consent to the adjudication of any disputes arising in connection with this Site in the federal and state courts of, and in accordance with the laws of, the state of New York.</p>
+<p>
+	What happens to your information if there is a corporate change of control?</p>
+<p>
+	In the event that Hearst Television, any entity of Hearst, or a significant portion of our assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, information we collect on the Site may be one of the transferred assets.</p>
+<p>
+	What about changes to this Privacy Policy?</p>
+<p>
+	We reserve the right, in its sole discretion, to modify, alter or otherwise update this Privacy Policy at any time, and such changes will be effective immediately upon posting. We will notify you of material changes to this Privacy Policy by other means, including, for example, by posting the revised policy with the date it was revised on this page or by email. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personally identifiable information we collect.</p>
+<p>
+	How can you ask questions or contact us?</p>
+<p>
+	If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by <a href="mailto:hearsttelevisionnotice@hearst.com">clicking here</a>.</p>
+<p>
+	Effective: April 28, 2014</p>
+
+	      	      	      	      	      	      	                  </div>
+            
+	    
+          </div>
+          <div class="sub_sidebar">
+              
+          <div class="box advert">
+        <div id="div-gpt-ad-482802889300383-0" style="width:300px; height:250px;">
+          <script type="text/javascript">dfpPlacementGeneric(482802889300383);</script>  
+        </div>
+      </div>
+      
+          <div class="box advert">
+        <div id="div-gpt-ad-1373285257468-0" style="width:300px; height:250px;">
+          <script type="text/javascript">dfpPlacementGeneric(1373285257468);</script>  
+        </div>
+      </div>
+      
+
+          </div>
+
+            
+
+        </div>
+      </div>
+
+      <div id="footer_box" class="layer">
+        <div class="fade"></div>
+        <div class="background"></div>
+        <div class="lock">
+          <table cellspacing="0" cellpadding="0">
+            <thead>
+              <tr>
+                <td class="left"><h4>LEAVE US A MESSAGE</h4></td>
+                <td class="center"><h4>STATIONS THAT MATTER</h4></td>
+                <td class="right"><h4>MORE LINKS AND INFORMATION</h4></td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="left">
+                  <form id="m_form">
+                    <label>Your E-mail:</label>
+                    <input type="text" class="text" name="f">
+                    <label>Subject:</label>
+                    <input type="text" class="text" name="s">
+                    <label>Comment:</label>
+                    <textarea name="b" rows="6" cols="30"></textarea>
+                    <input name="send" type="submit" class="yellow" value="SEND">
+                  </form>
+                </td>
+                <td class="center">
+                  <a id="wbaltv" href="http://www.wbaltv.com/" target="_blank">WBAL TV</a>
+                  <a id="wbal1090" href="http://www.wbal.com/" target="_blank">WBAL 1090</a>
+                </td>
+                <td class="right">
+                  <a href="/jocks">JOCKS</a>
+                  <a href="/411">THE 411</a>
+                  <a href="/calendar">PROMOTIONS</a>
+                  <a href="/411/advertise-with-98-rock/">ADVERTISE WITH 98ROCK</a>
+                  <a href="/music">MUSIC</a>
+                  <a href="/files/public_file/2016-EEOPublicReport.pdf" target="_blank">PUBLIC FILE</a>
+                  <a href="http://careers.hearsttelevision.com" target="_blank">98 Rock Jobs</a>
+                  <a href="/site-map">SITEMAP</a>
+		  <a href="/411/privacy-policy/">Privacy Policy</a>
+                  <div id="phone">410-338-1098</div>
+                  <div id="text">TXT 56332</div>
+                  <div id="address">3800 HOOPER AVE, BALTIMORE, MD 21211</div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <script type="text/javascript">
+        var f    = $('#m_form input[name="f"]'),
+            s    = $('#m_form input[name="s"]'),
+            b    = $('#m_form textarea[name="b"]'),
+            send = $('#m_form input[name="send"]');
+  
+        $('#m_form').submit(function() {
+          if (f.val() == "" || f.val() == "" || f.val() == "") return false;
+          $.post('http://98online.com:8080/_api/message_us', { f: f.val(), s: s.val(), b: b.val() }, function(data){
+            send.attr("disabled", "disabled").val('Thank You!').css({ 'background-color': '#000', 'color': '#fff' });
+          });
+          $([f[0], s[0], b[0]]).val('');
+          return false;
+        });
+      </script>
+
+      <div id="footer_info" class="layer">
+        <div class="lock">
+          <span>COPYRIGHT 2007-2013</span> 98ROCK &nbsp;&nbsp;&nbsp; WEB DEVELOPMENT &amp; PROGRAMMING © 2012 <a href="http://alextom.com" class="foot_anchor">ALEXANDER + TOM</a>
+        </div>
+      </div>
+    </div>
+  
 </body></html>
