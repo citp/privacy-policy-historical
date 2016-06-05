@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitehawkcinema.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141959id_/http%3A//www.nitehawkcinema.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitehawkcinema.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605035233id_/http%3A//www.nitehawkcinema.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Nitehawk Cinema
 
