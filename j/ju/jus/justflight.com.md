@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justflight.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140959id_/http%3A//www.justflight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justflight.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605202335id_/http%3A//www.justflight.com/privacy) for the most accurate reproduction.*
 
 # Just Flight - Privacy and Cookies
 
@@ -35,9 +35,9 @@ Please check back frequently to see any updates or changes to our privacy policy
 If you have any questions regarding our privacy or security policies, we will be glad to answer your questions. Please write to us at the following address:
 
 **Data Protection Officer  
-Maverick Interactive Ltd  
-1 Benjamin Street  
-London  
-EC1M 5QG**
+JustFlight London Ltd  
+23 Adelaide Street  
+Leamington Spa  
+CV31 3PD**
 
 Please ensure that you have read and understand our [Terms and Conditions](http://www.justflight.com/terms-and-conditions).
