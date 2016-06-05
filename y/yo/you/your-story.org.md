@@ -1,29 +1,18 @@
-> *The following text is extracted and transformed from the your-story.org privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022001641id_/http%3A//www.your-story.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-story.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001531id_/http%3A//www.mybiosource.com/page.php%3Fname%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Your Story
+# Privacy Policy | MyBioSource
 
-At _Your Story_ , the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by _Your Story_ and how it is used.
+MyBioSource is committed to protect your privacy and ensure that you have a positive online experience at www.mybiosource.com. This policy outlines our personal information handling practices for both online and offline data.
 
-**Log Files**
-
-Like many other Web sites, _Your Story_ makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-**Cookies and Web Beacons**
-
-_Your Story_ does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
-
-**DoubleClick DART Cookie**
-
-  * Google, as a third party vendor, uses cookies to serve ads on _Your Story_.
-  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to _Your Story_ and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
-
-
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on _Your Story_ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-_Your Story_ has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. _Your Story_ ‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browser’s respective websites.
+•  We store all of our information in a safe and secured server in a high security location.  
+•  We continually update new technology for protecting your information and ensure our web visitors a positive online experience.  
+•  Our employees are fully trained to understand and comply with these information principles.  
+•  We collect user profile information from you when you register with MyBioSource.com.  
+•  We will safeguard any information our users share with us.  
+•  All user profiles are stored and used only for our own internal and market research purposes.  
+•  We use cookies and website statistics to keep track of your interactions with mybiosource.com and offer you a more personalized experience.  
+•  We also use cookies to troubleshoot problems and enforce our [Terms and Conditions](http://www.mybiosource.com/page.php?name=terms_conditions) of use.  
+•  We use the information provided by you to offer the products and services you requested or may be of interested to you.  
+•  Your user personal information is password protected. As a security cautious user, you should also take appropriate measures to protect the secrecy of your password.  
+•  You have the option to op-out at any time for any services we offer such as our newsletter and e-newsletter.  
+•  We will not sell, rent or share any of our information, customer lists, to third parties without your written permission. 
