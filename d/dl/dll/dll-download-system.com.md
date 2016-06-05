@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dll-download-system.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117211948id_/http%3A//www.dll-download-system.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dll-download-system.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605033448id_/http%3A//www.dll-download-system.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - free dlls download
 
@@ -51,4 +51,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, our msn is youdeweb@hotmail.com or send us an email at [contact](http://www.dll-download-system.com/contact-us-2.html) page . 
+Should you have other questions or concerns about these privacy policies, our msn is youdeweb@hotmail.com or send us an email at [contact](http://www.dll-download-system.com/contact-us.html) page . 
