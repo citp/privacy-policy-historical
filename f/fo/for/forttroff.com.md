@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forttroff.com privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710160857id_/http%3A//www.forttroff.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forttroff.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605045908id_/http%3A//www.forttroff.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Fort Troff: Privacy Policy
+# Fort Troff: Terms of Use + Privacy Policy
 
 When you make a purchase from Fort Troff, you provide us with personal information such as your name, address, phone number, credit card information, and email address. We keep a record of this information which is covered by our privacy policy and is held in the strictest of confidence. All information submitted via our website is secure and private. Your entire transaction with Fort Troff is completely private. We do not and will not ever sell, rent or grant access to our customer records to any other company or person for any reason, except when required by law. 
 
