@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pawmygosh.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118105856id_/http%3A//www.pawmygosh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pawmygosh.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605111252id_/http%3A//www.pawmygosh.com/privacy-policy) for the most accurate reproduction.*
 
 # PawMyGosh Privacy Policy
 
@@ -19,7 +19,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 How we use collected information
 
 Edge Interactive LLC may collect and use Users personal information for the following purposes:  
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
 How we protect your information
 
@@ -47,12 +47,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Edge Interactive LLC
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-http://www.pawmygosh.com
-
-40 S Lemon Ave #8730 Walnut, CA 91789  
 contact@pawmygosh.com
-
-This document was last updated on March 20, 2015
