@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kount.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035726id_/http%3A//www.kount.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kount.net privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605132159id_/http%3A//www.kount.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Kount.com Privacy Policy
+# Privacy Policy | Kount
 
 Kount Inc. (Kount) is committed to maintaining the privacy of personal information that you provide to us when using any of our online services. This privacy policy describes how we treat the information we receive when you transmit data to any machine owned by Kount.
 
