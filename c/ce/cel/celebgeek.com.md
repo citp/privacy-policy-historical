@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebgeek.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205141323id_/http%3A//celebgeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebgeek.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605031344id_/http%3A//celebgeek.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CelebGeek
+# Privacy Policy – CelebGeek
 
 This Privacy Policy explains how MediaGleam (d/b/a CelebGeek, “CelebGeek” or “we”) collects, protects, uses and shares information about you when you use the CelebGeek website (the “Site”). We hope this information increases your confidence in CelebGeek and enhances your experience on our Site. Each time that you use the Site, you signify that you agree to be bound by the Terms of Service and this Privacy Policy. If you do not agree to the terms of this Privacy Policy you must discontinue using the Service and terminate your membership if you are a registered user.
 
