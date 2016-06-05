@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justwp.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206043153id_/http%3A//justwp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justwp.org privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605153934id_/http%3A//justwp.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - JustWP - Best WordPress Website Themes, Plugins, Tutorials, Tips For Beginners
+# Privacy Policy - JustWP
 
 [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fjustwp.org%2Fprivacy-policy%2F&media=)
 
