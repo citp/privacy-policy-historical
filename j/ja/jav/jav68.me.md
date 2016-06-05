@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jav68.me privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117181737id_/http%3A//jav68.me/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jav68.me privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605165819id_/http%3A//jav68.me/policy) for the most accurate reproduction.*
 
 # Privacy Policy Jav68.Me
 
