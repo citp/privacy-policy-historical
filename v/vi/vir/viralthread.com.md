@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the viralthread.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206054254id_/http%3A//www.viralthread.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralthread.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605034944id_/http%3A//www.viralthread.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Viral Thread
-
-## Privacy Policy
 
 This privacy policy sets out how Viral Thread uses and protects any information that you give us when you use this website.  
 Viral Thread is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
