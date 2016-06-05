@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deturl.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229185419id_/http%3A//www.deturl.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deturl.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605030103id_/http%3A//deturl.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
