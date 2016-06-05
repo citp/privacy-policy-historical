@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillsboroughcounty.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140214id_/http%3A//www.hillsboroughcounty.org/index.aspx%3Fnid%3D2592) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillsboroughcounty.org privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605195048id_/http%3A//www.hillsboroughcounty.org/index.aspx%3Fnid%3D2592) for the most accurate reproduction.*
 
 # Hillsborough County, FL - Official Website - Privacy
 
