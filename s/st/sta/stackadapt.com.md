@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stackadapt.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226192810id_/http%3A//www.stackadapt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackadapt.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001933id_/http%3A//www.stackadapt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | StackAdapt
-
-### StackAdapt Native Advertising Platform
 
 * * *
 
@@ -21,6 +19,8 @@ The Anonymous Data that we collect about users through our services is anonymous
 #### How We Collect Anonymous Data
 
 For Anonymous Data that we purchase from third party providers, the Privacy Policy for such third party providers applies to the provisioning of that Anonymous Data. The use of that Anonymous Data by StackAdapt, however, is governed by this Policy. For Anonymous Data that we collect, directly or indirectly, we employ the use of “pixel tags” and/or “cookies.” Pixel tags are small bits of code that provide a method of delivery information on a webpage which allow the operator of the page or a third party to collect information about the users of the page. Cookies are small text files that are stored on the browser of your computer that uniquely identify your browser and provide information to the cookie sender. Many websites send cookies to the browsers that are visiting those sites, and many browsers are initially configured to accept cookies. You may be able to change your browser settings to refuse cookies or to alert you of when a cookie has been placed on your browser. Check your browser for details. 
+
+To Opt Out of our cookie based data collection and targeting, please go here
 
 #### Use of Anonymous Data
 
@@ -41,3 +41,10 @@ This policy was updated on August 25, 2014. This Privacy Policy and any matter r
 * * *
 
 If you have any inquiries or concerns regarding this Privacy Policy, please contact us by emailing [support@stackadapt.com](mailto:support@stackadapt.com)
+
+### Opt Out
+
+**Cookies:** Click the button below to opt out of StackAdapt's cookie mechanism for tracking and ad targeting purposes. When you opt out, an opt out cookie will be stored on your web browser on srv.stackadapt.com. If you disable, block, or delete the cookie, your opt out choice will not be known.   
+
+
+**Mobile Advertising ID:** StackAdapt may use Advertising Identifiers for in-app ad targeting on mobile devices. Mobile operating software such as Apple iOS and Google Play Services provide an option to opt out of targeted in-app ads. To opt out, navigate to your operating software settings menu and follow the instructions. 
