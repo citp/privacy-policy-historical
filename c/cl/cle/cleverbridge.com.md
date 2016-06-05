@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cleverbridge.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230235656id_/http%3A//www.cleverbridge.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverbridge.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605212335id_/http%3A//www.cleverbridge.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - cleverbridge Full-Service Ecommerce Solutions
+# Privacy Policy - cleverbridge Global Subscription Billing Solutions
 
 cleverbridge (“ **cleverbridge** ”, “ **we** ”, or “ **us** ”) takes the privacy and protection of personal information very seriously. By visiting and using the cleverbridge website located at http://www.cleverbridge.com (the “ **Site** ”), you acknowledge and agree that you accept the practices and policies outlined in this privacy policy (“ **Privacy Policy** ”). 
 
@@ -73,9 +73,10 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
 If you have any questions or suggestions regarding our Privacy Policy please contact us by sending us an e-mail to privacy(at)cleverbridge.com. 
 
-Let’s get started! Fill out the form below and one of our sales representatives will be in touch shortly.
+Let's get started. Fill out the form below and we'll be in touch shortly.
 
-If you have a charge on your credit card from cleverbridge, lost your license key or have a question about your purchase, our [Customer Service](https://support.cleverbridge.com/hc/en-us) team can help.
+Have a charge on your credit card from cleverbridge or need help with your order?   
+[Customer Service](https://support.cleverbridge.com/hc/en-us) can help.
 
 Request a demo
 
