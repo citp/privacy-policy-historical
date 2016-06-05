@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santaanita.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206051719id_/http%3A//www.santaanita.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santaanita.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605034356id_/http%3A//www.santaanita.com/privacy-statement) for the most accurate reproduction.*
 
 # Electronic Privacy Statement for Santa Anita Park - Santa Anita Park
 
@@ -37,7 +37,7 @@ All data entry is done via a secure interface that provides no export facility. 
 
 ##### Text Services
 
-Standard data/text message charges may apply. All those that “opt in” via a text message may be contacted by Santa Anita Park in the future. Santa Anita Park will limit contact by two (2) text messages per month (this does not include “opt in” or “keyword” text messages). You automatically “opt in” if you text a keyword to Santa Anita Park’s short code ’72727′. Santa Anita Park will not divulge this information to any other party, meaning messages will only be sent by Santa Anita Park. At anytime a customer may “opt out” of Santa Anita Park’s text messages by replying STOP to 72727 or by e-mailing [contact@santaanita.com](mailto:%20contact@santaanita.com) including your phone number and that you would like to stop receiving these messages. Santa Anita Park is not liable for any charges applied by your service.
+Standard data/text message charges may apply. All those that “opt in” via a text message may be contacted by Santa Anita Park in the future. Santa Anita Park will limit contact by two (2) text messages per month (this does not include “opt in” or “keyword” text messages). You automatically “opt in” if you text a keyword to Santa Anita Park’s short code ‘72727’. Santa Anita Park will not divulge this information to any other party, meaning messages will only be sent by Santa Anita Park. At anytime a customer may “opt out” of Santa Anita Park’s text messages by replying STOP to 72727 or by e-mailing [contact@santaanita.com](mailto:%20contact@santaanita.com) including your phone number and that you would like to stop receiving these messages. Santa Anita Park is not liable for any charges applied by your service.
 
 ##### Confidentiality and Sharing of Information
 
