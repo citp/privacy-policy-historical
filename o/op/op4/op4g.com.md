@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the op4g.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140315id_/http%3A//op4g.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the op4g.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605192550id_/http%3A//op4g.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Op4G | Opinions 4 Good
 
-This privacy policy applies to [op4g.com](http://www.op4g.com/) owned and operated by Op4G. This privacy policy describes how Op4G collects and uses the personal information you provide on our web sites: [op4g.com](http://www.op4g.com/) and [myop4g.com](http://www.myop4g.com/).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+[](https://privacy.truste.com/privacy-seal/Op4G/validation?rid=ca5dd782-a045-4eb8-bbc0-9c5489d0f18d "TRUSTe online privacy certification")
+
+Effective Date: 4/1/2015 | [Home](http://op4g.com/) >> [Terms of Use](http://op4g.com/terms-of-use/)
+
+This privacy policy applies to [op4g.com](http://www.op4g.com/) owned and operated by Op4G. This privacy policy describes how Op4G collects and uses the personal information you provide on our web sites: [op4g.com,](http://www.op4g.com/) [opinions4good.com](http://opinions4good.com/), and [myop4g.com](http://www.myop4g.com/).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 Op4G has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through the Web sites and subdomains at [op4g.com](http://www.op4g.com/) and [myop4g.com](http://www.myop4g.com/).
 
@@ -119,6 +123,10 @@ We display personal testimonials of satisfied customers on our site in addition 
 ### Social Media Widgets
 
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+### Referrals
+
+If you choose to use our referral service to tell a friend about our website, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Op4G stores [or does not store] this information for the sole purpose of sending this one-time email [and tracking the success of our referral program]. Your friend may contact us at [INSERT URL OR EMAIL ADDRESS] to request that we remove this information from our database.
 
 ### No Surprises
 
