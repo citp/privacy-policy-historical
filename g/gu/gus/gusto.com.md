@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gusto.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926075352id_/https%3A//gusto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gusto.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605100522id_/https%3A//gusto.com/about/privacy) for the most accurate reproduction.*
 
-# Gusto
+# Gusto Privacy Policy | Gusto
 
 ### Payroll and Compliance Privacy Policy
 
@@ -61,7 +61,7 @@ Any information that is collected is subject to the Privacy Policy in effect at 
 
 ##### Questions?
 
-Please contact us at [support@zenpayroll.com](mailto:support@zenpayroll.com) if you have any questions about our privacy policy. 
+Please contact us at [support@gusto.com](mailto:support@gusto.com) if you have any questions about our privacy policy. 
 
 ### Benefits Policy
 
@@ -169,7 +169,7 @@ Any controversy or claim arising out of or relating to Gusto Insurance’s priva
 
   8. ##### Modifying Your Information.
 
-You can access and modify the Protected Information associated with your account by contacting us at support@zenpayroll.com. If you want us to delete your Protected Information and your account, please contact us with your request. We’ll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.
+You can access and modify the Protected Information associated with your account by contacting us at support@gusto.com. If you want us to delete your Protected Information and your account, please contact us with your request. We’ll take steps to delete your information as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
   9. ##### Opt-Out.
 
@@ -191,7 +191,6 @@ Title: Privacy Officer
 
 Address: 500 3rd St #405, San Francisco, CA 94107
 
-Email: support@zenpayroll.com
-
+[ support@gusto.com ](mailto:support@gusto.com)
 
 
