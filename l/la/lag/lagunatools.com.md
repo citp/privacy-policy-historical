@@ -1,44 +1,33 @@
-> *The following text is extracted and transformed from the lagunatools.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003223829id_/http%3A//www.lagunatools.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lagunatools.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605020934id_/http%3A//www.lagunatools.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Acres of Love Privacy Statement
+# Laguna Tools Privacy Policy
 
-## **_Privacy Statement for Laguna Tools_**
+|   
+  
+| 
 
-_Laguna Tools has created this privacy statement in order to demonstrate our organization's commitment to privacy. The following discloses our information gathering   for this website._
+|  | ****  
+---|---  
+  
+**Privacy Policy for Laguna Tools**
 
-In general, you can visit Laguna Tools on the World Wide Web without telling us who you are or revealing any information about yourself. Earthlink web servers collect the domain names, of visitors. This information is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. Laguna Tools uses this information to measure the use of our site and to improve the content of our site.
+If you require any more information or have any additional questions about our privacy polcy, please don't hesitate to contact us by phone at 800-234-1976 or e-mail at mail@lagunatools.com.
 
-There are times, however, when we may need information from you, such as your name and address. When information is needed, we will try to let you know at the time of collection, how we will use the personal information. Usually, the personal information we collect is used only by us to respond to your inquiry, or to process a request.
+At lagunatools.com we consider the privacy of our visitors to be very impotant. This privacy policy document describes in detail the types of personal information collected and recorded by lagunatools.com and how we use it.
 
-This site contains links to other organizations that have information we believe will be of interest. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites.
+Like many other Web sites, www.lagunatools.com makes use of log files. These files merely log visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-## **_Security_**
+www.lagunatools.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-This site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Any forms submitted online that contain financial information use SSL over a secure server.
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-## **_Choice/Opt-Out_**
+This website and its contents are protected under U.S. and international law as copyrighted works. Reproduction, display, copies or derivations of this work and/or sale of this work without the express written permission of Laguna Tools is expressly prohibited. Anyone who displays, reproduces, copies, creates derivative works for commercial or non-commercial purposes without the express written permission of Laguna Tools is in violation of copyright law and is liable for copyright infringement and all other penalties authorized by law including, but not limited to criminal prosecution. 17 U.S.C. Section 106.
 
-This site gives users the following options for removing their information from our mailing list (and, therefore, not receive future communications from Laguna Tools).
+Thank you for visiting the Laguna Tools website. Laguna Tools is a direct marketing company in the business of selling woodworking machinery and accessories.
 
-  1. You can send email to [mail@lagunatools.com](mailto:mail@lagunatools.com)
-  2. You can send mail to the following postal address: 17101 Murphy Avenue, Irvine, CA 92614
+Laguna Tools does not sell, rent or trade personal information collected about you to any other business entity. 
 
+During your visit to Lagunatools.com we may ask you to provide us with such personal information as your e-mail, name, address and phone number. This information may be used by Laguna Tools to provide you with updated information on our products, special offers, company newsletters or any other information that we believe would be of interest to you. In the event that you would like to be removed from our mailing or e-mail list please contact us by phone at 800-234-1976 or e-mail at mail@lagunatools.com.
 
+  
 
-## **_Correct/Update_**
-
-This site gives users the following options for changing and modifying information previously provided.
-
-  1. You can send email to [mail@lagunatools.com](mailto:mail@lagunatools.com)
-  2. You can send mail to the following postal address: 17101 Murphy Avenue, Irvine, CA 92614
-  3. Call the following telephone number: 1 (949) 474-1200
-
-
-
-## **_Contacting the Web Site_**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
-
-[Steven Whelan,](mailto:stevew@lagunatools.com) Laguna Tools
-
-[BACK TO THE HOME PAGE](https://web.archive.org/web/20021003223829id_/http%3A//www.lagunatools.com/index.htm)
