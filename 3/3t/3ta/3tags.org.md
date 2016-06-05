@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3tags.org privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019061803id_/http%3A//3tags.org/en/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3tags.org privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605062607id_/http%3A//3tags.org/en/cms/privacy) for the most accurate reproduction.*
 
 # Privacy | 3tags
 
