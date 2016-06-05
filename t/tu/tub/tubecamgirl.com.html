@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tubecamgirl.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206051502id_/http%3A//tubecamgirl.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tubecamgirl.com privacy policy that was archived on 2016-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605033501id_/http%3A//tubecamgirl.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
@@ -10,12 +10,16 @@
 <meta name="description" content="See all the best girls naked and masturbating 100% free. Chat the girls, we do NOT stop videos after a minute, we do NOT ask for money to continue, all the shows are open and visible">
 <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://s.tubecamgirl.com/chat/js/store.min.js"></script>
             <script type="text/javascript" src="http://s.tubecamgirl.com/chat/js/require-jquery-1.4.4.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.0/jquery.cookie.js"></script>
     
 <script language="javascript" type="text/javascript" src="http://s.tubecamgirl.com/js/jquery.qtip-1.0.0-rc3.min.js"></script>
-    <script type="text/javascript" src="http://s.tubecamgirl.com/js/jquery-ui-1.8.9.custom.min.js?r=1449379124"></script>
+    <script type="text/javascript" src="http://s.tubecamgirl.com/js/jquery-ui-1.8.9.custom.min.js?r=1465098308"></script>
 <link href="/css/site.css" rel="stylesheet">
 <link href="http://s.tubecamgirl.com/css/ui-lightness/jquery-ui-1.8.6.custom.css" rel="stylesheet">
-    <script type="text/javascript">
+    
+<script type="text/javascript" src="http://s.tubecamgirl.com/js/jquery.cookie.js?r=1465098308"></script>
+
+<script type="text/javascript">
 
     if (!Array.prototype.indexOf) {
         Array.prototype.indexOf = function (elt /*, from*/) {
@@ -214,7 +218,7 @@
         }
     });
 </script>
-<link rel="stylesheet" type="text/css" href="http://s.tubecamgirl.com/css/mystyle.css">
+<link rel="stylesheet" type="text/css" href="http://s.tubecamgirl.com/css/mystyle.css?v=2">
 
     </head>
 <body>
@@ -423,6 +427,70 @@
     
 
         </div> <!--  end #header -->
+
+
+    <div id="check-age" style="display: none">
+        <div class="dialog-error"></div>
+        <div class="dialog-content">
+                            <p>This cam site is for adults only, it will show nudity and sex videos. You must be at least 18 years old to enter. </p>
+                <div class="buttons">
+                    <button class="btn_ok" type="button">I am over 18 - Click here to enter</button>
+                    <button class="btn_exit" type="button">Exit</button>
+                </div>
+        </div>
+    </div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+
+        function getUrlParameter(sParam) {
+            var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+                sURLVariables = sPageURL.split('&'),
+                sParameterName,
+                i;
+
+            for (i = 0; i < sURLVariables.length; i++) {
+                sParameterName = sURLVariables[i].split('=');
+
+                if (sParameterName[0] === sParam) {
+                    return sParameterName[1] === undefined ? true : sParameterName[1];
+                }
+            }
+        }
+
+        var user_logged_in = '';
+        $('.btn_ok').click(function(){
+            setAgeConfirmationCookie();
+            $("#check-age").dialog('close');
+        });
+
+        $('.btn_exit').click(function(){
+            $.cookie('check_age', false);
+            $("#check-age").dialog('close');
+            location.href = 'http://disney.com/';
+        });
+
+        // if affiliate - set cookie
+        if (getUrlParameter('affil')) {
+            setAgeConfirmationCookie();
+        }
+
+        // show age
+        if ((!$.cookie('check_age') || $.cookie('check_age') == 'false') && !user_logged_in) {
+            $("#check-age").dialog({
+                minWidth: 600,
+                minHeight: 200,
+                width: 600,
+                modal: true
+            });
+        }
+    });
+
+    function setAgeConfirmationCookie() {
+        $.cookie('check_age', true, {expires: 365});
+    }
+</script>
+
 <script type="text/javascript">
     $(document).ready(function () {
         function fetch_shows() {
@@ -787,7 +855,7 @@ customer service: <img src="http://www.TUBECAMGIRL.com/gfx/email.gif" border="0"
                 <tbody><tr>
 
                     <td align="center" valign="top">
-                        This site is owned, operated and Copyright © 2011-2015 by MCAMnet BV, The
+                        This site is owned, operated and Copyright © 2011-2016 by MCAMnet BV, The
                         Netherlands.&nbsp; &nbsp;
                         | &nbsp;&nbsp; <a href="/contact.php">Contact</a><br>
                         <a href="/terms-condition.php">Terms and Conditions</a> &nbsp;&nbsp;| &nbsp;&nbsp;
