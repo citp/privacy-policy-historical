@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nelson.com privacy policy that was archived on 2015-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205141056id_/http%3A//www.nelson.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nelson.com privacy policy that was archived on 2016-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605030921id_/http%3A//www.nelson.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Nelson Education Ltd. - Privacy Policy</title>
@@ -29,6 +29,9 @@
 	font-weight: normal;
 	text-transform: uppercase;
 	color: #666666;
+}
+.hidden {
+	display:none
 }
 -->
 </style>
@@ -296,35 +299,37 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
          <p class="text-v-13pt" style="width:550px">Please send us your privacy inquiry using the form below. All fields
           marked with <font color="#FF0000">*</font> are mandatory except for
           e-mail.</p>
-         <p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Name<br>
+        <label for="Name"> <p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Name<br>
             <input name="Name" type="text" id="Name" size="20" maxlength="50">
         </p>
-         <p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Address<br>
+       <label for="Address">  <p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Address<br>
 
             <input name="Address" type="text" id="Address" size="40" maxlength="100">
         </p>
-         <p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Telephone<br>
+        <label for="Telephone">  <p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Telephone<br>
             <input name="Telephone" type="text" id="Telephone" size="20" maxlength="30">
         </p>
-         <p class="text-v-13pt" style="width:550px">E-Mail<br>
+         <label for="Email"> <p class="text-v-13pt" style="width:550px">E-Mail<br>
             <input name="Email" type="text" id="Email" size="20" maxlength="50">
 
         </p>
-         <p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Preferred method of contact. If phone,
+          <label for="Method_Of_Contact"><p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Preferred method of contact. If phone,
           please indicate the best time to call.<br>
             <input name="Method_Of_Contact" type="text" id="Method_Of_Contact" size="20" maxlength="100">
         </p>
-         <p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Nature of Inquiry<br>
+          <label for="Nature_Of_Inquiry"><p class="text-v-13pt" style="width:550px"><font color="#FF0000">*</font>Nature of Inquiry<br>
             <textarea name="Nature_Of_Inquiry" cols="40" rows="5" id="Nature_Of_Inquiry"></textarea>
 
         </p>
          <p class="text-v-13pt" style="width:550px">
-          <input type="submit" name="Submit" value="Send Privacy Inquiry" onclick="return validate()">
+           <label for="Submit" class="hidden">Submit</label>
+           <input type="submit" name="Submit" value="Send Privacy Inquiry" onclick="return validate()">
+          <label for="Reset" class="hidden">Reset </label>
           <input name="Reset" type="reset" id="Reset" value="Reset">
         </p>
          <p class="text-v-13pt" style="width:550px"><strong>You will be returned to the nelson.com home page.</strong></p>
-    </form>
-					  </div>
+    
+					  </label></label></label></label></label></label></form></div>
                        <p class="text-v-13pt"><strong>Please be advised that the revised Terms/Policy go into effect January 1, 2014</strong>
                   </p>
                        <p class="text-v-13pt">Last updated October 2013 </p>
