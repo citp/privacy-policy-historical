@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the chasing-fireflies.com privacy policy that was archived on 2015-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150125094757id_/http%3A//www.chasing-fireflies.com/full-privacy/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chasing-fireflies.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606015521id_/http%3A//www.chasing-fireflies.com/full-privacy/content) for the most accurate reproduction.*
 
-# Full Privacy Policy - Chasing Fireflies
+# Full Privacy Policy
 
 ## Full Privacy Rights
+
+Last Updated: April 2, 2015
 
 Chasing Fireflies, Inc. ("Chasing Fireflies") respects the privacy of our customers and has developed this Privacy Policy to demonstrate our commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who uses the Chasing Fireflies website or who otherwise provides us with information through phone, mobile application, fax, mail, at a retail store, or who otherwise provides us with information through various means ("Services"), the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
@@ -10,11 +12,9 @@ We encourage you to read this Privacy Policy carefully when using our Services o
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-### Full Privacy Rights
+### Information we collect about you
 
-Information we collect about you
-
- _In General_. We may collect information that can identify you ("personal information") such as your name, phone number, mailing address, and e-mail address, as well as other information that does not identify you. When you provide personal information through our Services, the information may be sent to servers located in the United States and other countries around the world.
+ _ **In General**_. We may collect information that can identify you ("personal information") such as your name, phone number, mailing address, and e-mail address, as well as other information that does not identify you. When you provide personal information through our Services, the information may be sent to servers located in the United States and other countries around the world.
 
   *  **Information you provide**. We may collect and store any personal information you enter on our online Services or provide to us by phone or in some other manner. This includes identifying information, such as your name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date, or other financial information), in addition to transactional data that we may retain. We also may request information about your interests and activities, your gender and age, your opinion about products and services we offer, and other demographic information.
   *  **Information from other sources**. We may also periodically obtain both personal and non-personal information about you from other HSNi businesses, business partners, contractors, and other third parties and add it to our account information or other information we have collected. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information.
@@ -22,7 +22,7 @@ Information we collect about you
 
 
 
- _Use of cookies and other technologies to collect information_. We use various technologies to collect information from your computer or device and about your activities on our Services.
+ _ **Use of cookies and other technologies to collect information**_. We use various technologies to collect information from your computer or device and about your activities on our Services.
 
   *  **Information collected automatically**. We automatically collect information from your browser when you use our online Services. This information may include your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
   *  **Cookies**. When you use our online Services, we may assign your computer or device one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our online Services, such as the web pages you visit, the links you click, and the searches you conduct on our online Services. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our online Services.
@@ -33,7 +33,7 @@ Information we collect about you
 
 ### How we use the information we collect
 
- _In general_. We may use information that we collect about you to:
+ _ **In general**_. We may use information that we collect about you to:
 
   * deliver the products and services that you have requested;
   * manage your account and provide you with customer support;
@@ -41,15 +41,15 @@ Information we collect about you
   * communicate with you by e-mail, postal mail, telephone, and/or mobile devices about products or services that may be of interest to you either from us, our sister HSNi companies, or other third parties;
   * develop and display content and advertising tailored to your interests on our Services and on other sites;
   * verify your eligibility and deliver prizes in connection with contests and sweepstakes;
-  * enforce our Conditions of Use and other terms and conditions;
+  * enforce our [Conditions of Use](https://web.archive.org/conditions-of-use/content "terms and conditions.") and other terms and conditions;
   * manage our business; and
   * perform functions as otherwise described to you at the time of collection.
 
 
 
- _Financial information_. We may use financial information or payment method to process payment for any purchases made on our online Services, or by phone, fax, or mail, to enroll you in the discount, rebate, and other programs in which you elect to participate, to pre-qualify you for credit card and other offers that you might find of interest, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
+ _ **Financial information**_. We may use financial information or payment method to process payment for any purchases made on our online Services, or by phone, fax, or mail, to enroll you in the discount, rebate, and other programs in which you elect to participate, to pre-qualify you for credit card and other offers that you might find of interest, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
 
- _Job applicants_. If you submit personal information to us when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions. This information may be shared with our sister HSNi companies for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain, and analyze candidate submissions for job postings.
+ _ **Job applicants**_. If you submit personal information to us when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions. This information may be shared with our sister HSNi companies for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain, and analyze candidate submissions for job postings.
 
 Please review "Your choices about collection and use of your information" below.
 
@@ -57,12 +57,12 @@ Please review "Your choices about collection and use of your information" below.
 
 We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our online Services or while using our other Services.
 
- _Personal information_. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
+ _ **Personal information**_. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
 
   *  **Authorized service providers**. We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our online Services' functionality, and supporting contests, sweepstakes, surveys, and other features offered through our online Services, catalogs, by phone or mail. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
   *  **Business partners**. When you make purchases or engage in promotions offered through our online Services, catalogs, or through our other Services, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests, and/or sweepstakes. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your e-mail address and other information to that merchant.
-  *  **Direct mail partners**. From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by contacting us by telephone, 888.700.9474; e-mail, [customerservice@chasing-fireflies.com](mailto:customerservice@chasing-fireflies.com "Customer Service"); or by writing us at Chasing Fireflies, Attn: Customer Service, 5568 West Chester Road, West Chester, OH 45069. Chasing Fireflies is a member of the Direct Marketing Association (DMA) and follows DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing customers. To learn more, click on [www.dmachoice.org](http://www.dmachoice.org/ "DMA Choice").
-  *  **Other HSNi businesses**. We are part of the HSNi family of businesses (go to [www.HSNi.com](http://www.hsni.com/ "HSN") for a listing of these businesses). We may share information we collect, including personal information, with the HSNi companies. Sharing information with our HSNi companies enables us to provide you with information about a variety of products and services that might interest you. All HSNi companies comply with the HSNi Consumer Privacy statement. Our HSNi companies also will comply with applicable privacy and security laws and, at a minimum, in any commercial e-mail they send to you, will give you the opportunity to choose not to receive such e-mail messages in the future.
+  *  **Direct mail partners**. From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by contacting us by telephone, 888.700.9474; e-mail, [customerservice@chasing-fireflies.com](mailto:customerservice@chasing-fireflies.com "Customer Service"); or by writing us at Chasing Fireflies, Attn: Customer Service, 835 S. Fidalgo Street, Seattle, WA 98108. Chasing Fireflies is a member of the Direct Marketing Association (DMA) and follows DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing customers. To learn more, click on [www.dmachoice.org](http://www.dmachoice.org/ "DMA Choice").
+  *  **Other HSNi businesses**. We are part of the HSNi family of businesses (go to [www.hnsi.com](http://www.hsni.com/ "HSN") for a listing of these businesses). We may share information we collect, including personal information, with the HSNi companies. Sharing information with our HSNi companies enables us to provide you with information about a variety of products and services that might interest you. All HSNi companies comply with the HSNi Consumer Privacy statement. Our HSNi companies also will comply with applicable privacy and security laws and, at a minimum, in any commercial e-mail they send to you, will give you the opportunity to choose not to receive such e-mail messages in the future.
   *  **Other situations**. We also may disclose your information:
     * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
     * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our online Services' terms and conditions or other agreements or policies.
@@ -72,7 +72,7 @@ We want you to understand when and with whom we may share personal or other info
 
 Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling, and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of or to otherwise contact those third parties. Those entities or their servers may be located either inside or outside the United States.
 
- _Aggregated and non-personal information_. We may share aggregated and non-personal information we collect under any of the above circumstances. This aggregated data does not contain any personal information. We may also share it with third parties and our HSNi sister companies to develop and deliver targeted advertising on our online Services, on websites of third parties, or by other means. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers, and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our online Services and the most popular features or services accessed. This information does not contain any personal information and may be used to develop our online Services or other content and services that we hope you and other users will find of interest and to target content and advertising.
+ _ **Aggregated and non-personal information**_. We may share aggregated and non-personal information we collect under any of the above circumstances. This aggregated data does not contain any personal information. We may also share it with third parties and our HSNi sister companies to develop and deliver targeted advertising on our online Services, on websites of third parties, or by other means. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers, and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our online Services and the most popular features or services accessed. This information does not contain any personal information and may be used to develop our online Services or other content and services that we hope you and other users will find of interest and to target content and advertising.
 
 ### Third-party websites
 
@@ -99,8 +99,8 @@ Toll Free: 888.700.9474
 E-mail: [customerservice@chasing-fireflies.com](mailto:customerservice@chasing-fireflies.com "Customer Service")  
 Mail: Chasing Fireflies  
 Attn: Customer Service  
-231 Main Street  
-Franconia, NH 03580
+835 S. Fidalgo Street  
+Seattle, WA 98108
 
   * California Residents:
     * If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the HSNi companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:
@@ -110,7 +110,7 @@ Franconia, NH 03580
 
 We may provide this information in a standardized format that is not specific to you. The designated e-mail address for these requests is [customerservice@chasing-fireflies.com](mailto:customerservice@chasing-fireflies.com "Customer Service").
 
-    * Currently, our online Services do not recognize automated browser signals regarding "do not track" instructions. If Chasing Fireflies develops this capability in the future, we will describe how we do so in this Privacy Policy. Please note that third parties may collect personal information about your online activities over time and across different websites when you use our online Services or browse other websites. For more information about "Do Not Track," please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/ "ALL Abour DNT").
+    * Currently, our online Services do not recognize automated browser signals regarding "do not track" instructions. If Chasing Fireflies develops this capability in the future, we will describe how we do so in this Privacy Policy. Please note that third parties may collect personal information about your online activities over time and across different websites when you use our online Services or browse other websites. For more information about "Do Not Track," please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/ "ALL About DNT").
 
 
 
@@ -122,7 +122,7 @@ We want you to feel confident using our online Services to transact business. Ho
 
 ### Product reviews
 
-We may provide areas on our online Services where you can post reviews of products. Such postings are governed by our Conditions of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you will not be able to edit or delete such information.
+We may provide areas on our online Services where you can post reviews of products. Such postings are governed by our [Conditions of Use](https://web.archive.org/conditions-of-use/content "terms and conditions."). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you will not be able to edit or delete such information.
 
 ### Children's privacy
 
@@ -162,10 +162,12 @@ We may also collect non-personal information from your mobile device if you have
 
 ### How to contact us
 
-If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail as follows:
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows:
 
 ### Privacy Contact:
 
-[customerservice@chasing-fireflies.com](mailto:customerservice@chasing-fireflies.com "Customer Service")
+[customerservice@chasing-fireflies.com](mailto:customerservice@chasing-fireflies.com "Customer Service")  
+835 S. Fidalgo Street  
+Seattle, WA 98108
 
-© 2009 - 2014 HSN, Inc. All rights reserved.
+© 2009 - 2015 HSN, Inc. All rights reserved.
