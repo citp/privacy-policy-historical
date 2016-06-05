@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tennis-warehouse.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205155631id_/http%3A//www.tennis-warehouse.com/CustService/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennis-warehouse.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605073640id_/http%3A//www.tennis-warehouse.com/CustService/privacy.html) for the most accurate reproduction.*
 
-# Tennis Warehouse
+# Privacy Policy
 
 Your privacy is taken seriously here at Tennis Warehouse. Please take a couple of minutes to read and understand our policies. If you have any questions or concerns about this privacy statement please contact us via mail at the following address: Tennis Warehouse, Attn: Privacy Policy, 181 Suburban Road, San Luis Obispo, CA, 93401 or email us at [info@tennis-warehouse.com](mailto:info@tennis-warehouse.com).
 
