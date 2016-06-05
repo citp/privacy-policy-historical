@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerusalem.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218093424id_/http%3A//jerusalem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerusalem.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605215506id_/http%3A//jerusalem.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jerusalem
 
