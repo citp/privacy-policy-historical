@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fulhamfc.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140137id_/http%3A//www.fulhamfc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulhamfc.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605194318id_/http%3A//www.fulhamfc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fulham Football Club
 
-Fulham Football Club ("FFC") is committed to maintaining your privacy in accordance with the Data Protection Act 1998. Our Privacy Policy explains our commitment to data protection and the use of your information in providing you with the services and information you require.
+Fulham Football Club ("FFC") is committed to maintaining your privacy in accordance with the Data Protection Act 1998. Our Privacy Policy explains our commitment to data protection and the use of your information in providing you with the services and information you require.  For the avoidance of doubt, references to “Fulham Football Club” and/or “we” and/or “our” in this policy should be read so as to include the Fulham Football Club Foundation (“Foundation”), such that, if you supply personal information to the Foundation, the provisions of this policy shall apply equally to the Foundation and its handling / use of your information. 
 
 **What information do we collect? How do we use it?**
 
