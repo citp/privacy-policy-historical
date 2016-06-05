@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the retrorenovation.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141042id_/http%3A//retrorenovation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrorenovation.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605030904id_/http%3A//retrorenovation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Retro Renovation
 
 PRIVACY POLICY
 
-Your privacy is important, and we want you to understand what information is collected when you visit [http://retrorenovation.com](http://retrorenovation.com/) or [http://savethepinkbathrooms.com](http://savethepinkbathrooms.com/) (the websites) and how we use it.
+Your privacy is important, and we want you to understand what information is collected when you visit [http://retrorenovation.com](http://retrorenovation.com/) or [http://savethepinkbathrooms.com](http://savethepinkbathrooms.com/) or [http://knottyisnice.com](http://knottyisnice.com/) (the websites) and how we use it.
 
 Information you provide:
 
@@ -58,7 +58,3 @@ Questions?
 If you have any questions or concerns, our contact information is as follows:
 
 retrorenovation (at) gmail (dot) com
-
-Updates:  
-June 6, 2012: Update regarding potential disclosure of email addresses from believed spam comments.  
-This privacy policy was updated on August 14, 2011.
