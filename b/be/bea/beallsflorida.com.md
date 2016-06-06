@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beallsflorida.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219103658id_/https%3A//www.beallsflorida.com/online/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beallsflorida.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607013322id_/http%3A//www.beallsflorida.com/online/content/privacy) for the most accurate reproduction.*
 
 # Bealls Privacy Policy
 
