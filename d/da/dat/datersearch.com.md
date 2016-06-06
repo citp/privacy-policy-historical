@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datersearch.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317032021id_/http%3A//members.datersearch.com/doc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datersearch.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606220957id_/http%3A//members.datersearch.com/doc/privacy.php) for the most accurate reproduction.*
 
 # Datersearch - Privacy Policy
 
