@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the remax.co.th privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930092908id_/http%3A//www.remax.co.th/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remax.co.th privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607003213id_/http%3A//www.remax.co.th/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of RE/MAX Thailand Website
+# Privacy Policy of RE/MAX Thailand Website -
 
 ## **remax.co.th**
 
@@ -9,7 +9,7 @@ This Application collects some Personal Data from its Users.
 ## **Data Controller and Owner**
 
 **RE/MAX Thailand and E.D Real Estate co., LTD,**  
- **Email:[info@remax.co.th](mailto:info@remax.co.th)**
+ **Email: info@remax.co.th**
 
 ### **Types of Data collected**
 
@@ -17,7 +17,7 @@ Among the types of Personal Data that this Application collects, by itself or th
 
 Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
 The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
-Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.  
+Any use of Cookies – or of other tracking tools – by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.  
 Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
 
 The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
@@ -31,7 +31,7 @@ The Data processing is carried out using computers and/or IT enabled tools, foll
 
 **Place**
 
-The Data is processed at the Data Controller's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
+The Data is processed at the Data Controller’s operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
 
 **Retention time**
 
@@ -94,10 +94,10 @@ Place of processing :Thailand – [Privacy Policy](http://www.google.com/intl/e
 
 **Legal action**
 
-The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.  
+The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.  
 The User is aware of the fact that the Data Controller may be required to reveal personal data upon request of public authorities.
 
-**Additional information about User's Personal Data**
+**Additional information about User’s Personal Data**
 
 In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request.
 
@@ -122,7 +122,7 @@ The Data Controller reserves the right to make changes to this privacy policy at
 
 **Information about this privacy policy**
 
-The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda's servers.
+The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda’s servers.
 
 **Definitions and legal references**
 
