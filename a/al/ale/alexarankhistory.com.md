@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alexarankhistory.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205065936id_/http%3A//alexarankhistory.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexarankhistory.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606205001id_/http%3A//alexarankhistory.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Alexa Rank History
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [ onlinedomainsinfo at gmail.com](mailto:onlinedomainsinfo@gmail.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [ alexarankhistory at gmail.com](mailto:alexarankhistory@gmail.com).
 
 At alexarankhistory we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by alexarankhistory and how we use it. 
 
