@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-blueprints.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226162933id_/http%3A//www.the-blueprints.com/information/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-blueprints.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606204520id_/http%3A//www.the-blueprints.com/information/privacypolicy) for the most accurate reproduction.*
 
 # The-Blueprints.com - Privacy Policy
 
@@ -16,16 +16,14 @@ Unless otherwise stated, only your visit to The-Blueprints.com will be recorded,
 
 You may choose not to accept Cookies by resetting the relevant Internet options or the properties of your computer system's browsers. However, by doing so, you may not be able to optimize the usage of, or enable, certain functions made available in our web sites. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. 
-
 **Distribution of Information**  
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. 
 
 **Security**  
 Our intent is to provide privacy, integrity, and authentication in regards to our Internet communication. The security measures we have taken are intended to secure and encrypt your data, so that a third party cannot capture, read or access the information while it is in transit between Your computer and our system. 
 
-Specifically, We use standards-based Internet protocols to safeguard the information You provide during the purchase, payment and most information submittal processes. We use a secure server implementing the Secure Sockets Layer (SSL) protocol to interact with You when you provide personal information during the purchase and payment processes. These processes use 128 bit encryption. 
+Specifically, We use standards-based Internet protocols to safeguard the information You provide during the purchase, payment and most information submittal processes. We use a secure server implementing the Secure Sockets Layer (SSL) protocol to interact with You when you provide personal information during the purchase and payment processes. These processes use 256 bit encryption. 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
 
-© 2000 - 2015 Onno van Braam, EVOlution Graphics B.V. 
+© 2000 - 2016 Onno van Braam, EVOlution Graphics B.V. 
