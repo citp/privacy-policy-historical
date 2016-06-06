@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adaptnetwork.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219095841id_/http%3A//www.adaptnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaptnetwork.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606105043id_/http%3A//www.adaptnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ADAPT Network
 
-This Privacy Policy (“Policy” or “Privacy Policy”) forms part of the Terms of Use (“TOU” or “Terms of Use”) for the access and use of this Website and should be read in conjunction with the TOU. ADAPT Network (“ADAPT network”, “ADAPT”, “we”, “us” or “our”) is strongly committed to protecting your privacy and providing a safe online experience for all of our users while offering the highest quality Content and services to them. This Privacy Policy discloses what information we gather, how we use it, to whom we disclose personal information and other information you have provided, and how to correct or change personal information that you have provided to us.
+This Privacy Policy (“Policy” or “Privacy Policy”) forms part of the Terms of Use (“TOU” or “Terms of Use”) for the access and use of this Website and should be read in conjunction with the TOU. ADAPT Network (“ADAPT Network”, “ADAPT”, “we”, “us” or “our”) is strongly committed to protecting your privacy and providing a safe online experience for all of our users while offering the highest quality Content and services to them. This Privacy Policy discloses what information we gather, how we use it, to whom we disclose personal information and other information you have provided, and how to correct or change personal information that you have provided to us.
 
 This Privacy Policy applies to ADAPT Network. We urge you to read the complete Privacy Policy set forth below along with our cookie policy, as well as our Terms of Use, and contact us if you have any questions. Use of this site constitutes your agreement to be bound by and adhere to the terms of this Policy and Terms of Use.
 
@@ -10,7 +10,7 @@ This Privacy Policy applies to ADAPT Network. We urge you to read the complete P
 
 Personal Information. We collect personally identifiable information, such as names, mailing addresses, e-mail addresses, demographic information, and similar information in a variety of situations, including but not limited to the following: (i) when you subscribe to one of our newsletters or place an order (see the section below for more information on ordering); (ii) when you register at one of our websites in connection with the purchase of a product, publication, or service; (iii) when you enter personal information on one of our websites as a condition of participating in contests, promotions, or sweepstakes offered via these websites; or (iv) when you wish to have a product or service fulfilled by a fulfilment partner who can meet the continuing needs of our customers.
 
-Ordering:  
+ **Ordering:**  
 When you order from us, we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contained and these changes will be automatically kept for future use.  
 Information Collected Automatically. Our websites automatically collect certain information, such as your IP address, browser type, domain name, access times and referring website address. This helps facilitate your online experience at our websites. See Sections 4 and 5 of this Privacy Policy for more detail on cookies, web beacons, and other information collected automatically by our websites.
 
@@ -62,16 +62,16 @@ If any of the details you have provided to us change, then it is your responsibi
 
  **8\. Protection of your information**
 
-Our security:  
+ **Our security:**  
 The internet is not a secure medium. We have, however, put in place various security procedures to help to protect your personal information. Protection technologies we use include industry recognised firewalls, browser certification, password protection and limited access to personal information. Your personal information may also be protected by the password you created when you registered at one of our websites where this feature is offered. The confidentiality of any password is yours to protect. You may change it anytime by following the instructions at the website where you registered.
 
-Confidentiality:  
+ **Confidentiality:**  
 We keep your personal information confidential. Our internal procedures cover the storage, access and disclosure of your information.
 
-Imperfect security:  
+ **Imperfect security:**  
 We do not represent, warrant or guarantee the security of any information you transmit to us, and any transmission is carried out at your sole risk. Once we receive information we have our own security systems in place, but we do not represent or warrant or guarantee that such systems cannot be breached. Although we will take steps to protect your personal details and you have some options to limit these no security measures are perfect and we cannot promise that only authorised people will access your personal information
 
-Breach of security:  
+ **Breach of security:**  
 If our security systems have been breached, then we will take appropriate steps to remedy this and to notify you of any breach.
 
  **9\. Children’s Privacy**
@@ -92,4 +92,4 @@ We will occasionally update this Privacy Policy as necessary to protect our user
 
 If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at info@adaptnetwork.com. Please include the URL of the website involved in your request.
 
-Last Update July 12th, 2015
+Last Update May 17th, 2016
