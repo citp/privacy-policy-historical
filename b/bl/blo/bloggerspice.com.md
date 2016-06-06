@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the bloggerspice.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229125115id_/http%3A//www.bloggerspice.com/p/privacy-policy-blogger-spice-respects.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggerspice.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606120812id_/http%3A//www.bloggerspice.com/p/privacy-policy-blogger-spice-respects.html) for the most accurate reproduction.*
 
-# Privacy Policy - Blogger Spice | Guide to Blogging
+# Privacy Policy - Blogger Spice
+
+[](https://1.bp.blogspot.com/-jHYix3gDtNA/VwC9fcVBUBI/AAAAAAAAOjw/xTVyvfytFUk7k8H3_2XFrKd8Gghe8y2RQ/s1600/Privacy%2BPolicy%2Bof%2BBlogger%2BSpice.png)
+
+  
+
 
 **Blogger Spice**  respects your privacy. At  **BloggerSpice**  we are conscious about your faith on us and our responsibility to protect your privacy. The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by **www.bloggerspice.com** and how it is used and how you can “opt-out”.
 
@@ -88,4 +93,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 [ ](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-This privacy policy was last updated on November[](http://www.blogger.com/blogger.g?blogID=6561335258261771689) 17, 2015
+This privacy policy was last updated on April[](http://www.blogger.com/blogger.g?blogID=6561335258261771689) 03, 2016
