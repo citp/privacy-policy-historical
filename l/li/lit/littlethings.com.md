@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlethings.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217141326id_/http%3A//www.littlethings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlethings.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606032310id_/http%3A//www.littlethings.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy/Rights
 
@@ -71,4 +71,4 @@ If you have any questions about this Privacy Policy, please e-mail us at: help@l
 
 Filing a Complaint with the Federal Trade Commission
 
-To file a complaint regarding our privacy practices, please [Click Here](https://web.archive.org/web/20151217141326id_/http%3A//www.littlethings.com/%E2%80%9D). 
+To file a complaint regarding our privacy practices, please [Click Here](https://web.archive.org/web/20160606032310id_/http%3A//www.littlethings.com/%E2%80%9D). 
