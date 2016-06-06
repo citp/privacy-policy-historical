@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcink.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040404id_/http%3A//jcink.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcink.net privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606104441id_/http%3A//jcink.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Jcink.com Forum Hosting
 
