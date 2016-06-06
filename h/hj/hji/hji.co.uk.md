@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hji.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140435id_/http%3A//www.hji.co.uk/cookies-and-privacy/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hji.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606151212id_/http%3A//www.hji.co.uk/cookies-and-privacy/%23privacy) for the most accurate reproduction.*
 
-# Cookies and Privacy | HJi
+# Cookies and Privacy - HJi
 
 [Home](http://www.hji.co.uk/) » Cookies and Privacy
 
