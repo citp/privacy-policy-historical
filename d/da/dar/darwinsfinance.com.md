@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darwinsfinance.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114053854id_/http%3A//www.darwinsfinance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darwinsfinance.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606082052id_/http%3A//www.darwinsfinance.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Darwin's Finance
 
