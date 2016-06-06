@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the webix.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208103427id_/http%3A//webix.com/legalnote/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webix.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606194521id_/http%3A//webix.com/legalnote/privacy-policy) for the most accurate reproduction.*
 
 # JavaScript Library Webix - Privacy Policy
 
-(Last updated May 1, 2012)
+##### (Last updated May 1, 2012)
 
-You agree to Webix’s Privacy Policy by using our website. The statements mentioned below concern only the content of Webix website and are not applied to any data collected offline.
+You agree to Webix’s Privacy Policy by using our website. The statements mentioned below concern only the content of Webix website and do not applied to any data collected offline.
 
 ### Information Collected
 
-You may visit our website without identifying yourself or revealing any personal data. If you subscribe to Webix, you should provide only your e-mail address.  
-When buying Webix library you are asked to enter your private data onto a secured page. This data includes your full name, e-mail address, postal address, phone number and credit card information.  
-The email address provided by you during the acquisition of a Webix product can be used for sending out information and updates related to your order, as well as service information. If you ’don’t want to receive email notifications from Webix, you can easily unsubscribe from the Webix newsletter. The unsubscribe instructions are placed at the bottom of each email you receive.  
+You may visit our website without identifying yourself or revealing any personal data. If you subscribe to Webix, you should provide only your e-mail address. When buying Webix library you are asked to enter your private data onto a secured page. This data includes your full name, e-mail address, postal address, phone number and credit card information.
+
+The email address provided by you during the acquisition of a Webix product can be used for sending out information and updates related to your order, as well as service information. If you ’don’t want to receive email notifications from Webix, you can easily unsubscribe from the Webix newsletter. The unsubscribe instructions are placed at the bottom of each email you receive.
+
 We do not sell, rent or give out personal information to any third party without any member or customer’s prior consent. We may transfer your data to a third party that assists us in managing our website or renders services to you only if the third party agrees to keep this information confidential. We will not use your information for any purpose outside the scope of communicating with you about our products and services.
 
 ### Information Security
 
-We take all appropriate measures to ensure the security of your personal data when you purchase a Webix product or subscribe to our newsletter.  
+We take all appropriate measures to ensure the security of your personal data when you purchase a Webix product or subscribe to our newsletter.
+
 All credit information entered by you is transferred via special security systems. The access of your personal information is restricted to those Webix employees who need to have access to such system and bear responsibility for keeping your information confidential.
 
 ### Cookies and Google Analytics
