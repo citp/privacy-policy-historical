@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the allheart.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206025741id_/http%3A//www.allheart.com/privacy/a/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allheart.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606145511id_/http%3A//www.allheart.com/privacy/a/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | allheart.com
 
 ## Overview
 
-Scrubs AC, Inc. ("Scrubs AC," "we" or "us") is committed to keeping our customers informed about how we use the information we gather from you through the use of each of our websites located at, or linked to, the URLs [www.allheart.com](http://www.allheart.com/), [www.allheartchefs.com](http://www.allheartchefs.com/), and [www.jascouniform.com](http://www.jascouniform.com/). Please read this privacy policy ("Policy") carefully to understand how we will use and protect your personal information. We will not share your personal information with anyone except as described in this Policy. Changes to this Policy will be announced on each of our Sites at least ten (10) days in advance, so please check back periodically.
+Scrubs AC, Inc. ("Scrubs AC," "we" or "us") is committed to keeping our customers informed about how we use the information we gather from you through the use of each of our websites located at, or linked to, the URLs [www.allheart.com](http://www.allheart.com/) and [www.allheartchefs.com](http://www.allheartchefs.com/). Please read this privacy policy ("Policy") carefully to understand how we will use and protect your personal information. We will not share your personal information with anyone except as described in this Policy. Changes to this Policy will be announced on each of our Sites at least ten (10) days in advance, so please check back periodically.
 
-Your privacy is very important to us. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Scrubs AC, Inc. (allheart.com, allheartchefs.com, Jascouniform.com) collects information from all users of Scrubs AC, Inc. Internet services ("Services") — those who make a purchase ("Customers"), as well as those who access some of our Services but do not make a purchase ("Visitors")— and what we do with the information we collect.
+Your privacy is very important to us. We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Scrubs AC, Inc. (allheart.com, allheartchefs.com) collects information from all users of Scrubs AC, Inc. Internet services ("Services") — those who make a purchase ("Customers"), as well as those who access some of our Services but do not make a purchase ("Visitors")— and what we do with the information we collect.
 
 ## Information Collection and Management
 
-Scrubs AC, Inc. collects information from Visitors and Customers who access the various parts of our Services. Our primary goal in collecting personal information is to provide our visitors with a superior customized online experience. Among other things, we use customer contact information to fill orders, contact prior purchasers to inform them of their order status, and to send service and promotional emails. Promotional emails may be sent from any one or more of our brands, including allheart, allheartchefs and Jasco Uniform, plus other brands that we may market or acquire.
+Scrubs AC, Inc. collects information from Visitors and Customers who access the various parts of our Services. Our primary goal in collecting personal information is to provide our visitors with a superior customized online experience. Among other things, we use customer contact information to fill orders, contact prior purchasers to inform them of their order status, and to send service and promotional emails. Promotional emails may be sent from any one or more of our brands, including allheart and allheartchefs, plus other brands that we may market or acquire.
 
 In order to better provide you with numerous products and services, each of our Sites collects Personally Identifiable Information about its visitors. Personally Identifiable Information refers to information that lets us know the specifics of who you are and can be used to identify, contact or locate you. Personally Identifiable Information is requested when you register with us, order a product or service, fill out surveys, participate in contests or sweepstakes, correspond with us, or otherwise volunteer information, for instance, to request a catalog. Personally Identifiable Information might include your name, mailing address, telephone number, mobile phone number, email address, credit card and billing information, profession, gender, and other identification and contact information.
 
@@ -20,7 +20,7 @@ Except as otherwise stated in this Policy, we do not sell, trade or rent your Pe
 
 We may disclose Personal Identification Information to law enforcement agencies when we believe that such disclosure is required by law.
 
-Please note that our sites (allheart.com, allheartchefs.com, Jascouniform.com) may contain links to other sites. Scrubs AC, Inc. is not responsible for the privacy practices or the content of such other Web sites.
+Please note that our sites (allheart.com, allheartchefs.com) may contain links to other sites. Scrubs AC, Inc. is not responsible for the privacy practices or the content of such other Web sites.
 
 ## Data Security
 
@@ -34,12 +34,12 @@ When individuals send email inquiries to Scrubs AC, Inc., the return email addre
 
 All promotional emails include opt-out links. If you would like to opt-out of promotional emails, click:
 
-  * [Opt-in/opt-out Form](http://www.allheart.com/aboutus.html#emaillist)
+  * [Opt-in/opt-out Form](http://www.allheart.com/article.aspx?a=opt-out)
   * email: [customerservice@allheart.com](mailto:customerservice@allheart.com)
 
 
 
-#### "Cookies" and How Scrubs AC, Inc. (allheart.com and Jasco Uniform Company) Uses Them
+#### "Cookies" and How Scrubs AC, Inc. (allheart.com and allheartchefs.com) Uses Them
 
 A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. Scrubs AC, Inc. may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide. These cookies do not enable third parties to access any of your customer information. These "cookies" DO NOT collect your credit card data.
 
@@ -47,11 +47,11 @@ A "cookie" is a small data file that can be placed on your hard drive when you v
 
 Scrubs AC, Inc. reserves the right to revise, amend, or modify this policy and other policies and agreements at any time and in any manner. The last revision to the policy was published on January 23, 2009. Changes to this Policy will be announced on each of our Sites at least ten (10) days in advance, so please check back periodically.
 
-#### Where to direct questions about the Scrubs AC, Inc. (allheart.com and Jasco Uniform Company) Privacy Policy
+#### Where to direct questions about the Scrubs AC, Inc. (allheart.com and allheartchefs.com) Privacy Policy
 
 If you have any questions about our Privacy Policy please contact:
 
 Scrubs AC, Inc.  
 Privacy Policy   
-23975 Park Sorrento, Suite 430  
+24025 Park Sorrento, Suite 200  
 Calabasas, CA 91302
