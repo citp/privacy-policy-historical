@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyviralupdates.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203140241id_/http%3A//www.dailyviralupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyviralupdates.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606212639id_/http%3A//www.dailyviralupdates.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DailyViralUpdates
+# Privacy Policy - Daily Viral Updates
 
 Your privacy is very important to us at DailyViralUpdates, and so we have a few fundamental principles that we follow in order to protect it:
 
