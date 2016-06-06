@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eventmanagerblog.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207034054id_/http%3A//www.eventmanagerblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventmanagerblog.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606203401id_/http%3A//www.eventmanagerblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Event Manager Blog
+# Privacy Policy
 
 1\. Introduction  
 1.1 We are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information.  
@@ -19,6 +19,8 @@
 (g) information contained in or relating to any communications that you send to us or send through our website (including the communication content and meta data associated with the communication);  
 (i) any other personal information that you choose to send to us; and  
 (j) information contained in opt-in form that might be used by third parties  
+(k) anonymous cookie ID, Advertising ID, and/or device ID to segment user groups for marketing purposes, and to execute retargeting campaigns in order to deliver personalised advertising by Event Manager Blog or authorized third parties
+
 3.2 Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with this policy.
 
 4\. Using your personal information  
@@ -80,13 +82,16 @@ this website, for the following purposes:
 (b) In Firefox, you can adjust your cookies settings by clicking “Tools”, “Options” and “Privacy”.  
 11.5 Blocking cookies will have a negative impact upon the usability of some websites.
 
-12\. Data protection registration  
-12.1 We are registered as a data controller with the UK Information Commissioner’s Office.  
-12.2 Our data protection registration number is ZA103416.
+12\. Remarketing  
+We may use Google’s remarketing service to target our or third party’s ads to you based on your prior use of the Site when you visit on other sites in Google’s content network.
 
-13\. Our details  
-13.1 This website is owned and operated by Social Coup Ltd.  
-13.2 We are registered in England and Wales under registration number 07600332.  
-13.4 You can contact us by using our website contact form or by email to ‘contact at eventmanagerblog dot com’
+13\. Data protection registration  
+13.1 We are registered as a data controller with the UK Information Commissioner’s Office.  
+13.2 Our data protection registration number is ZA103416.
 
-Last reviewed: March 4, 2015
+14\. Our details  
+14.1 This website is owned and operated by Social Coup Ltd.  
+14.2 We are registered in England and Wales under registration number 07600332.  
+14.4 You can contact us by using our website contact form or by email to ‘contact at eventmanagerblog dot com’
+
+Last reviewed: March 31, 2016
