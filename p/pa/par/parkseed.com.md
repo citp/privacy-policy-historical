@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131620id_/http%3A//parkseed.com/privacy-statement/a/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606193739id_/http%3A//parkseed.com/privacy-statement/a/5) for the most accurate reproduction.*
 
 # Privacy Statement | Park Seed Co.
 
-[](http://parkseed.com/category.aspx?c=bio-dome)
+[ ](http://parkseed.com/seeds/c/PT_1001_2/filter/100000002525eq100000002526/ "Direct-Sow Seeds")
 
 Park Seed asks you to provide certain personally identifiable information in order to use certain "Password Required" features and functions of the website. By providing such information, you consent to our collection and use of it, as described in this Privacy Statement. 
 
