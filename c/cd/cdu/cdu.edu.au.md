@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdu.edu.au privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919100905id_/http%3A//www.cdu.edu.au/governance/policies/pol-032.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdu.edu.au privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606160003id_/http%3A//www.cdu.edu.au/governance/doclibrary/pol-032.pdf) for the most accurate reproduction.*
 
 # Information Privacy Policy
 
