@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitepackaging.co.uk privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206181350id_/http%3A//www.kitepackaging.co.uk/scp/help-and-guides/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitepackaging.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606110936id_/http%3A//www.kitepackaging.co.uk/scp/help-and-guides/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kite Packaging
 
@@ -91,4 +91,4 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect. 
 
-Should you have any further questions which are not covered here then please send them to [sales@kitepackaging.co.uk](mailto:sales@kitepackaging.co.uk). 
+Should you have any further questions which are not covered here then please send them to [service@kitepackaging.co.uk](mailto:service@kitepackaging.co.uk). 
