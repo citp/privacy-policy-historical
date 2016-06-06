@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onegreenplanet.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207032205id_/http%3A//www.onegreenplanet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onegreenplanet.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606201054id_/http%3A//www.onegreenplanet.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | One Green Planet
 
