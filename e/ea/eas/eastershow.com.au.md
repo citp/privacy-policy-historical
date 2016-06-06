@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastershow.com.au privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813120849id_/http%3A//www.rasnsw.com.au/edm/website/PRIVACY-POLICY-2014.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastershow.com.au privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606032425id_/http%3A//www.eastershow.com.au/globalassets/document-library/legal/privacy_policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
