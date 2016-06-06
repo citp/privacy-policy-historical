@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebcamporntube.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134917id_/http%3A//www.fuckcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebcamporntube.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606203453id_/http%3A//www.fuckcams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # FuckCams - Privacy Policy
 
@@ -47,7 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-ICF Technology, Inc.  
-PO Box 21508  
-Seattle, WA 98111  
-USA
+.cnI ,ygolonhceT FCI  
+80512 xoB OP  
+11189 AW ,elttaeS  
+ASU
