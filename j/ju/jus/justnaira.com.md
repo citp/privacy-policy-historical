@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justnaira.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808082719id_/http%3A//www.justnaira.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justnaira.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606143751id_/http%3A//www.justnaira.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Da' Informative Blog
+# Privacy Policy | Da' Informative Blog
 
 **Privacy Policy for www.justnaira.com**
 
