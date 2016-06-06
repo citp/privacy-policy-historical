@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pwc.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607123655id_/http%3A//www.pwc.co.uk/en/who-we-are/privacy-statement.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwc.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606191841id_/http%3A//www.pwc.co.uk/who-we-are/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Commitment
 
 ## Introduction
 
-PricewaterhouseCoopers LLP (the UK firm) (“PricewaterhouseCoopers LLP” or “we”) is strongly committed to privacy issues, and this privacy statement details our approach on such issues. By using this site and submitting any personal data, you agree to the use by PricewaterhouseCoopers LLP of such data in accordance with this privacy statement. If you have questions on privacy issues, please email us at [privacy@pwc.com](mailto:privacy@pwc.com "Email privacy team").
+PricewaterhouseCoopers LLP (the UK firm) (“PricewaterhouseCoopers LLP” or “we”) is strongly committed to privacy issues, and this privacy statement details our approach on such issues. By using this site and submitting any personal data, you agree to the use by PricewaterhouseCoopers LLP of such data in accordance with this privacy statement. If you have questions on privacy issues, please email us at [privacy@pwc.com](https://web.archive.org/global/forms/contactUs.en_uk.html?parentPagePath=/content/pwc/uk/en/contacts/p/privacy-officer&contactLink=/content/pwc/uk/en/contacts/p/privacy-officer&style=pwc&territory=uk "Email privacy team").
 
 ## Data collection
 
@@ -31,11 +31,13 @@ PricewaterhouseCoopers LLP (the limited liability partnership registered in Engl
 
 ## Disclosure to third parties
 
-Our policy is not to share personally identifiable information with any third parties, unless required by law, or unless explicitly requested by a visitor or otherwise as set out in this section. We recognise that your information is valuable and we take all reasonable measures to protect your information while it is in our care.
+We recognise that your information is valuable and we take all reasonable measures to protect your information while it is in our care.
 
-Personal data which has been submitted to PricewaterhouseCoopers LLP (UK firm) may be disclosed to other member firms in the PricewaterhouseCoopers network of firms, where this is necessary to meet the purpose for which the visitor has submitted the information. By submitting personal data to this site, the visitor is providing explicit consent to the transfer of such data for the fulfilment of their voluntary requests.
+Personal data which has been submitted to PricewaterhouseCoopers LLP (UK firm) may be disclosed to other member firms in the PricewaterhouseCoopers network of firms where this is necessary to meet the purpose for which the visitor has submitted the information. Your personal information may also be transferred to third party service providers who process information on PwC's behalf, including providers of information technology, identity management, website hosting and management, data analysis, data back-up, security and storage services. As a result, your personal information may be transferred outside the country where you are located. This includes countries outside the European Economic Area (EEA) and countries that do not have laws that provide specific protection for personal information. By submitting personal data to this site, the visitor is providing explicit consent to the transfer of such data for the fulfilment of their voluntary requests.
 
-This data is not shared with any member firms in the PricewaterhouseCoopers network of firms for any secondary or unrelated purposes, or shared with any third party, unless otherwise disclosed at the point of collection. If there is an instance where such information may be shared, the visitor will be asked for permission beforehand.
+PwC may disclose your personal information to law enforcement, regulatory, or other government agencies or to other third parties as required by, and in accordance with, applicable law or regulation.
+
+Your personal information is not shared with any member firms in the PricewaterhouseCoopers network of firms, or shared with any third party, for any secondary or unrelated purposes unless otherwise disclosed at the point of collection. If there is an instance where such information may be shared, the visitor will be asked for permission beforehand.
 
 ## Security
 
@@ -43,7 +45,7 @@ We have implemented generally accepted standards of technology and operational s
 
 ## Access to information
 
-If you would like to update any personal data you have submitted through this site, please do so via the original registration page or please email us at [privacy@pwc.com](mailto:privacy@pwc.com "Email privacy team").
+If you would like to update any personal data you have submitted through this site, please do so via the original registration page or please email us at [privacy@pwc.com](https://web.archive.org/global/forms/contactUs.en_uk.html?parentPagePath=/content/pwc/uk/en/contacts/p/privacy-officer&contactLink=/content/pwc/uk/en/contacts/p/privacy-officer&style=pwc&territory=uk "Email privacy team").
 
 When personally identifiable information is retained, we do not assume responsibility for verifying the ongoing accuracy of the content of personal information. When practically possible, if PricewaterhouseCoopers is informed that any personal data collected through a Web site is no longer accurate, PricewaterhouseCoopers will make appropriate corrections based on the updated information provided by the authenticated visitor.
 
@@ -51,7 +53,7 @@ If you would like details of the information which you have submitted to us thro
 
 ## Unsubscribe
 
-Should visitors subsequently choose to unsubscribe from mailing lists or any registrations, we will provide instructions, on the appropriate webpage or in communications to our visitors, or a visitor may contact by email to [privacy@pwc.com](mailto:privacy@pwc.com "Email privacy team").
+Should visitors subsequently choose to unsubscribe from mailing lists or any registrations, we will provide instructions, on the appropriate webpage or in communications to our visitors, or a visitor may contact by email to [privacy@pwc.com](https://web.archive.org/global/forms/contactUs.en_uk.html?parentPagePath=/content/pwc/uk/en/contacts/p/privacy-officer&contactLink=/content/pwc/uk/en/contacts/p/privacy-officer&style=pwc&territory=uk "Email privacy team").
 
 ## Data retention
 
