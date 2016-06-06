@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calcchat.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205121436id_/http%3A//www.calcchat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calcchat.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606201133id_/http%3A//www.calcchat.com/privacy) for the most accurate reproduction.*
 
 # CalcChat.com - Calculus solutions | Precalculus Solutions | College Algebra Solutions | Calculus Help | Precalculus Help | College Algebra Help
 
