@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newinternetorder.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228172929id_/http%3A//newinternetorder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newinternetorder.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606145328id_/http%3A//newinternetorder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NIO
 
@@ -72,5 +72,3 @@ By using our site, you consent to our privacy policy.
 **Changes to our Privacy Policy**
 
 We may amend this policy from time to time. Newest version of this document is always available under the http://newinternetorder.com/privacy/ address.
-
-Last updated on August 27th, 2015
