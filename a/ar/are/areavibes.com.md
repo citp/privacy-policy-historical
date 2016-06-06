@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the areavibes.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114053227id_/http%3A//www.areavibes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areavibes.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606202538id_/http%3A//www.areavibes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AreaVibes
+# AreaVibes Methodology - How The Livability Score Works
 
 AreaVibes Inc. recognizes that the privacy of your personal information is important. Personal information is collected by this website with your knowledge and consent. Personal information is collected when you register a member account or a business account. During registration you may be asked to submit personal details such as your first name, last name, gender, location, e-mail address as well as other optional information. By submitting the information through these forms, you agree to the storage of this information by AreaVibes Inc.
 
