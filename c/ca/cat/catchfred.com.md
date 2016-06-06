@@ -1,51 +1,74 @@
-> *The following text is extracted and transformed from the catchfred.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107113207id_/http%3A//catchfred.com/%3Fpage_id%3D390) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchfred.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606192413id_/http%3A//catchfred.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - catchFred
 
-**Privacy Policy**
+catchFred.com is a website that publishes original and curated content, photos and videos.
 
 **catchFred.com** takes every step in safe-guarding and protecting your information and privacy. When using our site you can rest assured that catchFred uses the latest security measures to encrypt data while in transit and the best firewall security solutions while the data is stored.
 
-catchFred.com is operated by eMedia Group, a private company located in Boca Raton, Florida, if you have any questions or concerns please feel free to contact us.
+The following policy explains how we collect, protect and use your personal identifying information. Please read this policy carefully, and if you have any questions, contact us at your convenience.
 
-**personal information collected** :
+By using catchFred.com, you consent to the collection and use of your personal information as described in this policy. We may update this privacy policy as we see fit and will post a notice of significant changes on the site. We invite you to visit this page periodically to review any such changes to the policy.
 
-You may voluntarily provide information such as your name and address (mailing or e-mail) when you interact or register with our website. Users registering at the site must enter an e-mail address and password. If you do not wish to have us collect any personally identifiable information, please do not give us that information.
+**The information we collect**  
+We only collect information that you voluntarily give us via email, submission form or other direct contact from you. This includes your name, email address, and potentially hometown, state and country. When you upload a video you created or recommended, we collect only the information you choose to share about that video. Your name and email will never be shared, rented, bartered or sold with other users or third-party companies. The information you share with us about your video(s) will only be used by catchFred.com for display and informational purposes on our site, and will never be shared, rented, bartered, sold or exchanged any other purposeful manner.
 
-**catchFred will not sell or rent your information to third parties for the purpose of marketing. All your information is safe with us.**
+Unless you request us not to, we may email you in the future to tell you about specials, new products or services, or changes to this policy.
 
-Please keep in mind that this website is accessible to anyone with an internet connection which means that any information or photos you choose to display on this site can be copied by any user. We discourage this but it is the nature of the Internet.
+The website, however, can be accessed by anyone with an internet connection and a web browser; as such, any information, photos or videos you post can be copied by any other internet user.
 
-Some information is automatically gathered when your access our site such as: pages viewed, information about your computer and how you are viewing the site, this data aids us in ensuring that all user experiences are uniform regardless of browser or operating system, this information is also NEVER sold or disclosed to anyone.
+In order to provide you with the best possible experience and identify and correct site errors, we collect aggregate information about use of our site (such as most often viewed pages), and we collect information about your computer, such as such as browser type, browser language, and IP address. We do not share this information with anyone.
 
-**how we use your information** :
+**How we use your information**  
+You have complete control over the information you submit to our site. You may edit this information or request to have your personal account removed entirely at any time. We reserve the right to transfer your submitted information in the event of a transfer of ownership of catchFred.com, such as acquisition by or merger with another company. In such an event, catchFred.com will notify you before your information is transferred and becomes subject to a different privacy policy.
 
-We will from time to time send emails concerning topics you have requested information on or if you have subscribed to our newsletter additionally your primary email will be our point of contact with you concerning any issues that we deem important such as password retrieval or any issue relating to your registration.
+We work with third parties who provide administrative services, including website hosting, e-commerce affiliation, data analysis, emailing and other services. Personally identifiable information is shared with these third parties in order for them to provide such services. Further, we may work with reputable third parties for marketing, targeting and analysis purposes. Some of these third parties may be given access to some or all of the information that you provide to us and may use cookies or other tracking technologies in connection with providing their services. To the extent that we provide your personally identifiable information to such third parties, we will attempt to restrict their ability to use your information for their own marketing purposes; however, we cannot be responsible for the privacy policies or practices of such third parties.
 
-**security** :
+The information, photos and videos you enter are available to all users of the site as soon as they are published. CatchFred.com claims no rights over the photos or videos you upload or the information you add to the site. Please note, however, that this is a public site, so any information you provide is available to anyone with internet access. As such, so you should never post a photo or fact that you do not now or ever want to share on a public site.
 
-catchFred uses the latest server technology located behind multiple state of the art security firewalls. Full security of personal data is of utmost importance if you would any further information please contact us.
+**Your Access to and Control Over Your Information**  
+You can opt out of any future contact from us at any time by contacting us via the email address or phone number listed on our site.
 
-**contacting** **us** :
+**Security** **  
+** In case we collect sensitive information (such as credit card data), it is encrypted and transmitted to us in a secure way. This is verified by the closed lock icon at the bottom of your web browser, or the “https” at the beginning of the address of the web page.
 
-the most efficient way to contact us is via email
+**Legal requests**  
+You understand and consent to the fact that catchFred.com may access, preserve and disclose your personal information and the contents of your account if required to do so by law or in a good faith belief that such access preservation or disclosure is reasonably necessary to comply with legal process, such as a search warrant, subpoena, statute, or court order, or to protect the rights and property of catchFred.com, its affiliates or the public.
 
-cs  [at] catchFred [dot ] com
+**Cookies**  
+We send “cookies” to your computer and use them to improve the quality and ease of use of our service for our members. A cookie is a piece of data that identifies you as a unique user. We store user preferences in cookies and track user trends. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, note that some parts of this site may not function properly if you refuse cookies.
 
-~or~
+**External links**  
+catchFred.com contains links to other web sites. These other sites maintain their own policies regarding cookies and the collection and use of personal information.
 
-if you prefer mail, our address is:
+**Security**  
+We use industry-standard security measures to protect your information so that it is not made available to unauthorized parties. If you have any questions regarding these measures and techniques, please contact us.
 
-catchFred
+**Contacting Us**  
+You can always contact us at any time through [this form](http://catchfred.com/contact-us/).
 
-102 NE 2nd Street, Suite 330
+**Unsubscribing**  
+You can unsubscribe at any time by clicking on the “unsubscribe” or “opt-out” link in the footer of the email you receive from us. Clicking on that link will take you immediately to a page where you can unsubscribe or opt-out from all email correspondence from catchFred.com.
+
+**Payments**  
+All payments made via catchFred.com are encrypted using SSL (Secure Sockets Layer) technology. Your credit card information is passed securely to our credit card processor but is not stored on our servers. catchFred.com’s employees do not have access to your credit card information.
+
+**Log Files**  
+We collect and use data contained in log files, including your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Chrome), the time you visited our site and which pages you visited throughout our site.
+
+**Affiliate Disclosure**  
+Links to products on this website may generate an affiliate commission for catchFred.com. We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geo-targeting purposes or showing certain ads based on specific sites visited.
+
+You can chose to disable or turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs like Norton Internet Security. However, disabling cookies may affect how you interact with our site as well as other websites, including the inability to log in to services, forums or accounts.
+
+If you feel we are not abiding by or are infringing on any copywrite please contact us through [this form](http://catchfred.com/contact-us/).
+
+~ or if you prefer mail;
+
+emedia group
+
+102 NE 2nd Avenue
+
+Suite 330
 
 Boca Raton, FL 33432
-
-**unsubscribing** :
-
-You can easily unsubscribe at any time. In any email you receive from www.catchFred.com there will be an “unsubscribe” or “Opt-out” link in the footer of the email. Clicking on that link will take you immediately to a page where you can unsubscribe or globally opt-out from all email correspondence from www.catchFred.com.
-
-Remember, all emails can be unsubscribed from immediately by clicking the “unsubscribe” or “opt-out” link in any email.
-
-Have other questions? Feel free to contact us any time, and if you have further questions about catchFred.com.
