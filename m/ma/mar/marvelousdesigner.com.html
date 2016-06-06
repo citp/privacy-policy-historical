@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marvelousdesigner.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206102123id_/http%3A//www.marvelousdesigner.com/footer/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marvelousdesigner.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606164759id_/http%3A//www.marvelousdesigner.com/footer/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" xml:lang="en"><head>
     <title>MarvelousDesigner</title>
@@ -49,7 +49,7 @@
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     
-</head>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/common/js/jquery-1.9.1.min.js" type="text/javascript"></script></head>
 
 <body class="en">
     <!-- 헤더 템플릿 : 시작 -->
@@ -76,7 +76,7 @@
                         </li>
                         <li>
                             <!-- 로그인 영역 -->
-                                <span class="signTxt">Stunning designs are at your fingertips.</span> <a href="/member/login?returnUrl=/footer/policy" class="topBtLogin">SIGN IN</a>
+                                <span class="signTxt">Stunning designs are at your fingertips.</span> <a href="/member/login?ReturnUrl=/footer/policy" class="topBtLogin">SIGN IN</a>
                         </li>
                         <li>
                             <!-- User Name -->
@@ -137,11 +137,11 @@
                             <!--
                             <li><a href="/learn/learn">HOW IT WORKS</a></li>
                             <li><a href="/learn/lessons">LESSONS</a></li>
-                            <li><a href="/learn/md5">NEW IN MD5</a></li>
+                            <li><a href="/learn/md5">NEW IN MD5.5</a></li>
                                 -->
-                            <li><a href="/learn/Tutorial">TUTORIAL</a></li>
+                            <li><a href="/learn/Tutorial">TUTORIALS</a></li>
                             <li><a href="/learn/Tips">TIPS</a></li>
-                            <li><a href="/learn/md5">NEW IN MD5</a></li>
+                            <li><a href="/learn/md5">NEW IN MD5.5</a></li>
                             <li id="manual"><a href="http://manual.marvelousdesigner.com/display/MD4M/Marvelous+Designer+5+Manual" target="_blank">MANUAL</a></li>
                         </ul>
                         <span class="bg_top_r"></span>
@@ -180,7 +180,8 @@
                         <span class="bg_bottom_r"></span>
                     </div>
                 </li>
-                <li class="m6"><a href="/store/">MD STORE</a></li>
+                <!--MD STORE NEW EVENT ICON 추가-->
+                <li class="m6" style="position:relative"><a href="/store/">MD STORE</a><img src="/common/images/NewLabel.gif" class="newStoreIconEvent"></li>
             </ul>
         </nav>
 
@@ -611,7 +612,7 @@
                 <li><a href="/support/qna">SUPPORT</a></li>
             </ul>
             <p class="copy">
-                Copyright © 2015 CLO Virtual Fashion Inc. All Rights Reserved.
+                Copyright © 2016 CLO Virtual Fashion Inc. All Rights Reserved.
                 <a href="mailto:inquiries@marvelousdesigner.com" target="_blank">inquiries@marvelousdesigner.com</a>
             </p>
 			<ul class="sns">
@@ -621,12 +622,20 @@
 				<li><a href="http://instagram.com/marvelousdesigner" title="Instagram" class="icoSprite icoInstagram" target="_blank"><span class="blind">Instagram</span></a></li>
 			</ul>
         </div>
-        <img id="top" src="http://s3.marvelousdesigner.com/md3/common/images/top.png" border="0" width="22" height="27" alt="go to Top!" style="cursor: pointer; top: 691.2px;">
+        <img id="top" src="http://s3.marvelousdesigner.com/md3/common/images/top.png" border="0" width="22" height="27" alt="go to Top!">
     </footer>
     <!-- 푸터 템플릿 : 끝 -->
+
+    <!--event sider banner : 시작-->
+    <div id="sideBanner">
+        <div class="storeSideBanner">
+        </div>
+    </div>
+    <!--event sider banner : 시작-->
+    
     <div id="ModalWindowContainer"></div>
     <div id="mask"></div>
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Bundles/js?v=9389pZK3Txh8mHoMDJcQd-jG9PbHHZ9_a5qa0L9qQhM1"></script>
+    <script src="/Bundles/js?v=yR6fXIQZ_33Mg3t_oLEw-66Ym1oCVndwNyHJza-lbm81"></script>
 
     
 <script type="text/javascript">
@@ -644,10 +653,10 @@
 , MD4_ERROR_010 : 'Not Verified.'
 , MD4_ERROR_011 : 'Not Found.'
 , MD4_ERROR_012 : 'Downgrade is not allowed.'
-, MD4_ERROR_013 : 'Same Product - Perpetual License already in use.'
-, MD4_ERROR_014 : 'Not an upgrade - FROM Perpetual TO Subscription (Year or Month).'
+, MD4_ERROR_013 : 'License cannot be transfered to another license. Please create another account to purchase different license type.'
+, MD4_ERROR_014 : 'License cannot be transfered to another license. Please create another account to purchase different license type.'
 , MD4_ERROR_015 : 'Not an upgrade - FROM Year TO Month.'
-, MD4_ERROR_016 : 'Your trial period has already expired.'
+, MD4_ERROR_016 : 'Your trial license has already purchased.'
 , MD4_ERROR_017 : 'Unable to upgrade. No purchased products.'
 , MD4_ERROR_018 : 'No product options.'
 , MD4_ERROR_019 : 'The price does not match.'
@@ -820,18 +829,83 @@
 , MD4_FORUM_0021 : 'LAST MESSAGE'
 , MD4_MYPAGE_0038 : 'MARVELOUS ID'
 , MD5_UserID_Regex : 'Your ID must begin with a lower case letter. (symbols are not allowed)'
+, MD4_PRODUCT_PRICING_0032 : 'Your current license is'
+, MD4_PRODUCT_PRICING_0034 : 'Annual Subscription.'
+, MD4_PRODUCT_PRICING_0035 : 'We have decided to merge Basic and Advanced licenses'
+, MD4_PRODUCT_PRICING_0036 : 'so you are entitled to a FREE upgrade to MD5 Personal License'
+, MD4_PRODUCT_PRICING_0037 : 'with much more features available for you.'
+, MD4_PRODUCT_PRICING_005 : 'Billed <b>monthly</b>'
+, MD4_PRODUCT_PRICING_0027 : 'FREE'
+, MD4_PRODUCT_PRICING_0014 : 'START NOW'
+, MD4_PRODUCT_PRICING_008 : 'Billed <b>annually</b>'
+, MD4_PRODUCT_PRICING_0038 : '<b>50% off</b> for <b>MD4 Perpetual</b> users only'
+, MD4_PRODUCT_PRICING_0030 : 'One-time Fee'
+, MD4_PRODUCT_PRICING_0031 : 'UPGRADE'
+, MD5_ONLINE_PURCHASE027 : 'YEAR'
+, MD5_ONLINE_PURCHASE028 : 'MONTH'
+, MD5_ONLINE_PURCHASE029 : 'DAY'
+, MD5_ONLINE_PURCHASE032 : 'Monthly Subscription'
+, MD5_ONLINE_PURCHASE033 : 'Annual Subscription'
+, MD5_ONLINE_PURCHASE034 : 'Perpatual'
+, MD5_MYPAGE_ACTIVITY010 : 'PAYPAL'
+, MD5_MYPAGE_ACTIVITY009 : 'PROCESSING'
+, MD5_MYPAGE_ACTIVITY011 : 'left a comment on your art work'
+, MD5_MYPAGE_ACTIVITY012 : 'liked your artwork'
+, MD5_MYPAGE_ACTIVITY013 : 'subscribed your topic'
+, MD5_MYPAGE_ACTIVITY014 : 'subscribed'
+, ORDER_MD3_PERSONAL_TRIAL : 'MARVELOUS DESIGNER 3 <br />PERSONAL TRIAL'
+, ORDER_MD3_PERSONAL_BASIC : 'MARVELOUS DESIGNER 3 <br />PERSONAL BASIC'
+, ORDER_MD3_PERSONAL_ADVANCED : 'MARVELOUS DESIGNER 3 <br />PERSONAL ADVANCED'
+, ORDER_MD3_ENTERPRISE_TRIAL : 'MARVELOUS DESIGNER 3 <br />ENTERPRISE TRIAL'
+, ORDER_MD3_ENTERPRISE : 'MARVELOUS DESIGNER 3 <br />ENTERPRISE'
+, ORDER_MD3_ENTERPRISE_ACADEMIC : 'MARVELOUS DESIGNER 3 <br />ENTERPRISE ACADEMIC'
+, ORDER_MD3_ENTERPRISE_NETWORK : 'MARVELOUS DESIGNER 3 <br />ENTERPRISE NETWORK'
+, ORDER_MD3_ENTERPRISE_NETWORK_ACADEMIC : 'MARVELOUS DESIGNER 3 <br />ENTERPRISE NETWORK ACADEMIC'
+, ORDER_MD4_PERSONAL_TRIAL : 'MARVELOUS DESIGNER 4 <br />PERSONAL TRIAL'
+, ORDER_MD4_PERSONAL_ADVANCED : 'MARVELOUS DESIGNER 4 <br />PERSONAL ADVANCED UPGRADE'
+, ORDER_MD4_PERSONAL_ADVANCED_UPGRADE : 'MARVELOUS DESIGNER 4 <br />PERSONAL ADVANCED UPGRADE'
+, ORDER_MD4_ENTERPRISE_TRIAL : 'MARVELOUS DESIGNER 4 <br />ENTERPRISE TRIAL'
+, ORDER_MD4_ENTERPRISE : 'MARVELOUS DESIGNER 4 <br />ENTERPRISE'
+, ORDER_MD4_ENTERPRISE_ACADEMIC : 'MARVELOUS DESIGNER 4 <br />ENTERPRISE ACADEMIC'
+, ORDER_MD4_ENTERPRISE_UPGRADE : 'MARVELOUS DESIGNER 4 <br />ENTERPRISE UPGRADE'
+, ORDER_MD4_ENTERPRISE_NETWORK : 'MARVELOUS DESIGNER 4 <br />ENTERPRISE NETWORK '
+, ORDER_MD4_ENTERPRISE_NETWORK_ACADEMIC : 'MARVELOUS DESIGNER 4 <br />ENTERPRISE NETWORK UPGRADE'
+, ORDER_MD4_ENTERPRISE_NETWORK_UPGRADE : 'MARVELOUS DESIGNER 4 <br />NETWORK UPGRADE'
+, ORDER_MD5_PERSONAL_TRIAL : 'MARVELOUS DESIGNER 5 <br />PERSONAL TRIAL'
+, ORDER_MD5_PERSONAL_ADVANCED : 'MARVELOUS DESIGNER 5 <br />PERSONAL ADVANCED'
+, ORDER_MD5_PERSONAL_ADVANCED_UPGRADE : 'MARVELOUS DESIGNER 5 <br />PERSONAL ADVANCED UPGRADE'
+, ORDER_MD5_ENTERPRISE : 'MARVELOUS DESIGNER 5 <br />ENTERPRISE'
+, ORDER_MD5_ENTERPRISE_UPGRADE : 'MARVELOUS DESIGNER 5 <br />ENTERPRISE UPGRADE'
+, ORDER_MD5_ENTERPRISE_ACADEMIC : 'MARVELOUS DESIGNER 5 <br />ENTERPRISE ACADEMIC'
+, ORDER_MD5_ENTERPRISE_NETWORK : 'MARVELOUS DESIGNER 5 <br />ENTERPRISE NETWORK'
+, ORDER_MD5_ENTERPRISE_NETWORK_UPGRADE : 'MARVELOUS DESIGNER 5 <br />ENTERPRISE NETWORK UPGRADE'
+, ORDER_MD5_ENTERPRISE_NETWORK_ACADEMIC : 'MARVELOUS DESIGNER 5 <br />ENTERPRISE NETWORK ACADEMIC'
+, ORDER_MD5_ENTERPRISE_ONLINEAUTH : 'MARVELOUS DESIGNER 5 <br />ENTERPRISE ONLINEAUTH'
+, ORDER_MD5_ENTERPRISE_ONLINEAUTH_UPGRADE : 'MARVELOUS DESIGNER 5 <br />ENTERPRISE ONLINEAUTH UPGRADE'
+, ORDER_MD5_ENTERPRISE_ONLINEAUTH_ACADEMIC : 'MARVELOUS DESIGNER 5 <br />ACADEMIC ANNUAL SUBSCRIPTION'
+, ORDER_MD5_ENTERPRISE_ONLINEAUTH_SUBSCRIPTION : 'MARVELOUS DESIGNER 5 <br />ENTERPRISE ONLINEAUTH SUBSCRIPTION'
+, ORDER_MD5_ENTERPRISE_ONLINEAUTH_ACADEMIC_SUBSCRIPTION : 'MARVELOUS DESIGNER 5 <br />ENTERPRISE ONLINEAUTH ACADEMIC SUBSCRIPTION'
+, ORDER_MD4_PERSONAL : 'MARVELOUS DESIGNER 4 <br />PERSONAL'
+, ORDER_MD4_PERSONAL_UPGRADE : 'MARVELOUS DESIGNER 4 <br />PERSONAL UPGRADE'
+, ORDER_MD5_PERSONAL : 'MARVELOUS DESIGNER 5 <br />PERSONAL'
+, ORDER_MD5_PERSONAL_UPGRADE : 'MARVELOUS DESIGNER 5 <br />PERSONAL UPGRADE'
+, MD5_MYPAGE_ACTIVITY015 : 'STORE COUPON'
+, MD5_MYPAGE_ACTIVITY016 : 'PRODUCT COUPON'
+, MD5_MYPAGE_ACTIVITY017 : 'hour ago'
+, MD5_MYPAGE_ACTIVITY018 : 'minutes ago'
+, MD4_MYPAGE_007 : 'YOU HAVE NO MESSAGES.'
 };
 </script>
     <script type="text/javascript">
     $(document).ready(function () {
         // 답변 온것중 안본 문의 카운트
         //국가별 셀렉트 박스 지정 스크립트
-        $('#changeCulture').val( (Cookies.CurrentLocation && Cookies.CurrentLocation.language) || "en-US");
+    	$('#changeCulture').val( (Cookies.CurrentLocation && Cookies.CurrentLocation.language) || "en-US");
 
         //국가별 화면 출력 함수
         $("#changeCulture").change(function () {
             document.location.href = String.format("/common/ChangeCulture/?lang={0}&ReturnUrl={1}",this.value,encodeURIComponent(location.href));
-            console.log(String.format("/common/ChangeCulture/?lang={0}&returnUrl={1}",this.value, encodeURIComponent(location.href)));
+            //console.log(String.format("/common/ChangeCulture/?lang={0}&returnUrl={1}",this.value, encodeURIComponent(location.href)));
         });
 
         // 국가별 환율 적용된 가격 표시
@@ -857,6 +931,7 @@
         $('.close').click(function () {
             $('#banner-emailcheck').hide();
         });
+
     });
 
     </script>
@@ -870,10 +945,11 @@
     $.MD = {
         controller: 'footer',
         action: 'policy',
-        user: {"UserId":null,"UserPassword":null,"Reseller":0,"Company":0,"ParentId":null,"UserStatus":0,"UserType":0,"RegDate":"\/Date(-62135596800000)\/","Email":null,"Grade":0,"IsSubscribed":false,"IsPrivate":false,"VerifyDate":null,"VerifyType":null,"VerifyToken":null,"PhotoFileKey":null,"Country":null,"CultureCode":null,"FirstName":null,"LastName":null,"BirthDay":null,"Occupation":null,"Useof":null,"Homepage":null,"LastLoginTime":null,"UserPassConfirm":null,"ImageFilePath":null,"ImageFileName":null,"ImageFileStorageType":null,"LicenseName":null,"EndDate":null},
+        user: {"UserId":null,"UserPassword":null,"Reseller":0,"Company":0,"ParentId":null,"UserStatus":0,"UserType":0,"RegDate":"0001-01-01T00:00:00","Email":null,"Grade":0,"IsSubscribed":false,"IsPrivate":false,"VerifyDate":null,"VerifyType":null,"VerifyToken":null,"PhotoFileKey":null,"Country":null,"CultureCode":null,"FirstName":null,"LastName":null,"BirthDay":null,"Occupation":null,"Useof":null,"Homepage":null,"LastLoginTime":null,"UserPassConfirm":null,"ImageFilePath":null,"ImageFileName":null,"ImageFileStorageType":null,"LicenseName":null,"Quantity":0,"EndDate":null},
         aws: { bucket: 's3.md.web.upload', staticurl: 'http://s3.marvelousdesigner.com' },
-        usdToKrwCurrency: '0.11',
-        usdToCnyCurrency: '6.2'
+        usdToKrwCurrency: '0.12',
+        usdToCnyCurrency: '6.2',
+        StaticSrvUrl : 'http://s3.marvelousdesigner.com/md3'
     };
 
     </script>
@@ -886,7 +962,9 @@
 
     </script>
 
-    
+
+    <script type="text/javascript" src="/common/js/jquery.bxslider.min.js"></script>
+    <script type="text/javascript" src="/common/js/sideBanner.js"></script>
 
         <!-- google analytics -->
         <script type="text/javascript">
@@ -899,8 +977,19 @@
 
             ga('create', 'UA-18756737-1', 'auto');
             ga('send', 'pageview');
-
         </script>
+		<script type="application/ld+json">
+			{
+				"@context": "http://schema.org",
+				"@type": "WebSite",
+				"url": "http://www.marvelousdesigner.com",
+				"potentialAction": {
+				"@type": "SearchAction",
+				"target": "http://www.marvelousdesigner.com/search?q={search_term_string}",
+				"query-input": "required name=search_term_string"
+				}
+			}
+		</script>
 
 
 </body></html>
