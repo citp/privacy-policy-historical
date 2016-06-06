@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divanaija.com.ng privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221164326id_/http%3A//www.divanaija.com.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divanaija.com.ng privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606051237id_/http%3A//www.divanaija.com.ng/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 Updated: 21st November, 2014
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, [contact](http://www.divanaija.com.ng/contact/ "contact"), or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 [We Use cookies, check out our Cookie Policy Pages ](http://www.divanaija.com.ng/cookie-policy/)
 
@@ -16,7 +16,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 **When do we collect information?**
 
-We collect information from you when you register on our site, [subscribe](http://www.divanaija.com.ng/subscribe/ "subscribe") to a newsletter, fill out a form or enter information on our site.
+We collect information from you when you register on our site, subscribe to a newsletter, fill out a form or enter information on our site.
 
 **How do we use your information?**
 
@@ -122,6 +122,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 divanaija.com.ng  
 Lagos  
 Nigeria  
-No 16 Ademofe Ayodele Street, Lagos  
+No 1 Church Avenue  
 Lagos  
 info @ divanaija.com.ng or divanaijang @ gmail.com
