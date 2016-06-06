@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njmls.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141946id_/http%3A//www.njmls.com/resources/index.cfm%3Faction%3Ddsp.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njmls.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607003317id_/http%3A//www.njmls.com/resources/index.cfm%3Faction%3Ddsp.privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - New Jersey Multiple Listing Service
 
@@ -93,7 +93,7 @@ We may disclose the _personally identifiable information_ we collect, as describ
 
 We also disclose _personally identifiable information_ to our REALTOR® Associations. This is done in order to verify your application and your standing in the Association, which may directly affect your type of NJMLS membership. These Associations may use this _personally identifiable information_ to market other products and services which may be of interest to you.
 
-We license content related to the advertisement and showing of properties on www.REALTOR.com and other publicly viewed websites. We also license this content to vendors of Internet Data Exchange and Virtual Office websites, and to other vendors that assist you in facilitating the real estate transaction. Additionally, we provide listing content to other Multiple Listing Services through comprehensive data sharing agreements. This content may include some _personally identifiable information_ on the listing agent and/or selling agent, such as their name, office phone number and agent photo.
+We license content related to the advertisement and showing of properties on www.REALTOR.com and other publicly viewed websites. We also license this content to vendors of Internet Data Exchange and Virtual Office websites, and to other vendors that assist you in facilitating the real estate transaction. This content may include some _personally identifiable information_ on the listing agent and/or selling agent, such as their name, office phone number and agent photo.
 
 In order to deliver certain services to members, our service providers may have access to your _personally identifiable information_ for use for a limited time in connection with these business activities to ensure optimum use of the service. Where we utilize third parties for the processing of any _personally identifiable information_ , we implement reasonable contractual and technical protections limiting the use of that information to the NJMLS-specified purposes.
 
