@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the perforce.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007174122id_/http%3A//www.perforce.com/company/perforce-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perforce.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606200535id_/https%3A//www.perforce.com/company/perforce-privacy-policy) for the most accurate reproduction.*
 
 # Perforce Privacy Policy | Perforce
+
+_(last updated January 2014)_
 
 ## **Overview**
 
