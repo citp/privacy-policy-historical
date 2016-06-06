@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodpages.ca privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206164017id_/http%3A//foodpages.ca/%3Fqqq%3Dprivacy%23info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodpages.ca privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606110439id_/http%3A//foodpages.ca/%3Fqqq%3Dprivacy%23info) for the most accurate reproduction.*
 
 # foodpages.ca : Canada's restaurant guide.
 
@@ -23,7 +23,7 @@ The following section expands on the types of personally identifying information
   * We do not rent or sell your personally identifying information to any other entity under any circumstances. 
 
 **Third party Information sharing**
-  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.google.com/privacy_ads.html). 
 
 **Information security**
   * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. For this reason the personally identifying information of our premium subscribers is stored in a closed network that is inaccessible over the public internet. We also take steps to ensure that information posted on our portal by businesses or individuals is relevant to the purposes of this web portal. 
@@ -44,4 +44,4 @@ Also, keep in mind that your reviewers are opinionated, otherwise they would not
 
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. 
 
-If you have any additional questions, please feel free to [contact](https://web.archive.org/web/20151206164017id_/http%3A//foodpages.ca/%3Fqqq%3Dprivacy%23info?qqq=contact#info) us. 
+If you have any additional questions, please feel free to [contact](https://web.archive.org/web/20160606110439id_/http%3A//foodpages.ca/%3Fqqq%3Dprivacy%23info?qqq=contact#info) us. 
