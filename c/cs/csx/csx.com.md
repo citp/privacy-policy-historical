@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101090539id_/http%3A//www.csx.com/index.cfm/about-the-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606020322id_/https%3A//www.csx.com/index.cfm/about-the-site/privacy) for the most accurate reproduction.*
 
-# Privacy - CSX
+# Privacy - CSX.com
 
-Privacy
+CONTACT US
+
+PRESS RELEASES
+
+  * [About the Site](https://web.archive.org/index.cfm/about-the-site/)
+  * /Privacy
+
+
+
+* * *
 
 CSX Corporation is committed to Internet privacy and information security. In general, you can visit us on the World Wide Web without telling us who you are or revealing any information about yourself. Our web servers collect the IP addresses, not the e-mail addresses, of visitors. This information is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site.
 
@@ -28,6 +37,9 @@ CSX Corp. employs practices that are intended to protect your privacy, including
 
 
 
-**Changes to Our Policy  
-**CSX reserves the right to change or remove this Privacy Policy at our discretion.  For certain material changes to this Privacy Policy, we may notify you by additional means, such as by posting a notice on the front page of our website or sending you an e-mail.   
+**Changes to Our Policy**
+
+CSX reserves the right to change or remove this Privacy Policy at our discretion.  For certain material changes to this Privacy Policy, we may notify you by additional means, such as by posting a notice on the front page of our website or sending you an e-mail.
+
+  
 
