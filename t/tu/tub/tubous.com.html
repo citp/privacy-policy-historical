@@ -1,0 +1,552 @@
+<!--The following is the downloaded HTML source of the tubous.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606085937id_/http%3A//www.tubous.com/pages/policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0" name="viewport">
+    <link rel="shortcut icon" href="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/img/favicon.ico" type="image/x-icon">
+
+    		<title>Privacy Policy</title>
+		<meta name="description" content="tubous">
+		<meta name="keywords" content="tubous">
+    <link href="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/css/nouislider.css" rel="stylesheet" type="text/css">
+    <link href="http://tubous1.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/css/jquery-ui.css" rel="stylesheet" type="text/css">
+    <link href="http://tubous2.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/css/jquery.selectbox.css" rel="stylesheet" type="text/css">
+    <link href="http://tubous3.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/css/all.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Passion+One:400,700,900" rel="stylesheet" type="text/css">
+
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+	function dbglog(data)
+	{
+		console.log(data);
+	}
+	
+	var BaseEditor = {
+		COMMAND_SUCCEEDED: 'success',
+		COMMAND_FAILED: 'error'
+	};
+	
+	var Form = {
+		WRONG: 1,
+		MISSING: 2	};
+	
+	var COMMON_STATIC_CDN_URL = 'http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/';
+	var STATIC_CDN_URL = 'http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/';
+	var ALBUMS_CDN_URL = 'http://sunbigpics.fuckandcdn.com/work/';
+	var PATH_WEB = 'http://www.tubous.com/';
+	var PATH_WEB_STATISTIC = 'http://st.tubous.com/';
+	var PATH_MOBILE = 'http://m.tubous.com/';
+	var EMBED_URL = 'http://embeds.tubous.com/';
+	var PATH_WEB_MEMBER_PHOTO = '/avatars/';
+	var USERPIC_PREFIX = 'avatar_';
+	var THUMB_CDN_URL = 'http://tubous.fuckandcdn.com/tubous/thumbs/320x240/';
+	var ROOT_DOMAIN = 'tubous.com';
+	var COOKIE_LANGUAGE_SITE_NAME = 'language_site_name';
+	
+	var langLink = '';
+	
+	var MEMBER = {
+		SYSTEM_MEMBER_ID: 1	};
+	
+	var loggedMember = false;
+
+	var debug = false;
+	
+	if (!debug && window.location.hash == '#debug') {
+		debug = true;
+	} else if (debug && window.location.hash == '#prod') {
+		debug = false;
+	}
+	
+	if (typeof(console) == 'object' && console.log) {
+		if (console.log.bind) {
+			console.logCopy = console.log.bind(console);
+			
+			console.log = function(data)
+			{
+				if (!debug) {
+					return false;
+				}
+				
+				var now = new Date();
+				var currentDate =
+					'%c['+
+						(now.getHours() < 10 ? '0' : '') + now.getHours() + ':'+
+						(now.getMinutes() < 10 ? '0' : '') + now.getMinutes() + ':'+
+						(now.getSeconds() < 10 ? '0' : '') + now.getSeconds() + ':'+
+						(now.getMilliseconds() < 10 ? '00' : (now.getMilliseconds() < 100 ? '0' : '')) + now.getMilliseconds()+
+					']: ';
+
+				if (arguments.length > 1) {
+					this.logCopy(currentDate, 'color: #00f', arguments);
+				} else {
+					this.logCopy(currentDate, 'color: #00f', data);
+				}
+			};
+		}
+	} else { // Plug
+		console = {
+			log: function() {}
+		};
+	}
+
+	function dbglog(data)
+	{
+		console.log(
+			arguments.length > 1
+				? arguments
+				: data
+		);
+	}
+	
+	function _(str)
+	{
+		if (typeof DICTIONARY == 'object' && DICTIONARY[str]) {
+			return DICTIONARY[str]
+		} else {
+			return str;
+		}
+	}
+</script>
+
+
+<script type="text/javascript" src="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/js/dictionary.eng.js"></script>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src   = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-4720377-17', 'auto');
+
+        var realReferrer = document.cookie.match(new RegExp(
+            "(?:^|; )" + 'real-referrer-tubous'.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+        ));
+        if(realReferrer) realReferrer = decodeURIComponent(realReferrer[1]);
+
+        if(realReferrer && document.referrer && document.referrer.indexOf('embeds')){
+            console.log(realReferrer);
+            ga('set', 'referrer', realReferrer);
+        }
+        console.log('ga send pageview');
+
+        ga('send', 'pageview');
+
+        
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+
+</head>
+<body>
+<div class="container" data-area="page">
+
+    <!-- HEADER STARTS -->
+    <div class="header">
+        <div id="hold clearfix">
+            <div class="logo">
+                <a class="toplogo" href="http://www.tubous.com/">Tubous</a>
+            </div>
+            <div id="search-container" class="cleafix">
+                <div class="wrap">
+                    <a id="main-btn-search"></a>
+
+                    <form class="search" method="get" action="http://www.tubous.com/" id="search-form">
+                        <div class="search-text-wrap">
+                            <input type="text" name="q" id="query" class="searchInput" value="" autocomplete="off">
+                        </div>
+                                                <div class="search-wrap">
+                            <div id="search-icon" class="muvico"></div>
+                            <div class="search-popup" style="display: none;">
+                                <ul>
+                                    <li class="class-choose" id="Movies"></li>
+                                    <li class="class-choose" id="Pictures"></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <input type="hidden" name="content" id="searchContent" value="Movies">
+                        <input type="hidden" id="lang" name="lang" value="">
+                        <input type="hidden" name="area" value="searchRedirector">
+                    </form>
+                    <a id="search-close"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="popup-holder-sticky-wrapper">
+        <div id="popup-holder" class="popup_holder" style="position: static; top: 0;">
+            <div class="main-menu">
+                <a href="#" class="expanded" data-block="drop_cat"><span>Categories</span></a>
+                <a href="#" class="expanded" data-block="drop_upload"><span>Upload Your Video</span></a>
+                <a href="#" class="expanded" data-block="drop_users"><span>Top Users</span></a>
+                                    <a href="#" class="expanded" data-block="drop_login" id="active_login"><span>Log In</span></a>
+                    <a href="#" class="expanded" data-block="drop_signup" id="active_signup"><span>Sign Up</span></a>
+                            </div>
+            <strong class="logo_panel"><a href="/">Tubous</a></strong>
+
+            <div id="drop_cat" class="drop drop_cat" style="display: none;">
+                <div class="block-inner-first hideHorScroll">
+                    <div class="tab-content" id="tab-1">
+                        <ul></ul>
+                    </div>
+                    <div class="cleafix"></div>
+                    <a href="#" class="block_close_cat"></a>
+                </div>
+            </div>
+            <div id="drop_upload" class="drop drop_login" data-unlogged="true">
+                                    <div class="spinner">
+                        <div class="rect1"></div>
+                        <div class="rect2"></div>
+                        <div class="rect3"></div>
+                        <div class="rect4"></div>
+                        <div class="rect5"></div>
+                    </div>
+                    <h3 class="block-title">To upload your video, you need to be Logged In </h3>
+
+                    <div class="error-login" style="display:none;color: red;font-size: 18px;margin-bottom: 8px;">
+                        Wrong name or pass
+                    </div>
+                    <div class="wrap" style="margin-bottom: 5px">
+                        <div class="field_input">
+                            <div class="input_name">
+                                <input type="text" placeholder="Username or e-mail" class="validate[required,custom[usernameOrEmail],maxSize[128]]" value="" data-prompt-position="topLeft">
+                            </div>
+
+                        </div>
+                        <div class="field_input">
+                            <div class="input_pass">
+                                <input type="password" placeholder="Password" class="validate[required]" value="" data-prompt-position="topLeft">
+                            </div>
+                        </div>
+                        <span class="btn_field"></span>
+                        <input type="hidden" name="ajax" value="1">
+                    </div>
+                    <span class="forgotPass-wrap"><a href="#" class="forgotPass forgotPassOpen">Forgot password?</a>
+					or Don't have account yet?
+					<a href="#" class="forgotPass forgotPassClose">Sign Up for Free</a></span>
+                    <a href="#" class="block_close"></a>
+
+                            </div>
+            <div id="drop_users" class="drop drop_users">
+                <div class="block-inner">
+                    <div class="cols">
+                        <div class="col">
+                            <div class="sort">
+                                <span class="top">Top Uploaders</span>
+                            </div>
+                            <div class="list">
+                                <ul>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <a href="#" class="block_close"></a>
+                <input type="hidden" name="ajax" value="1">
+            </div>
+
+            
+                <div id="drop_login" class="drop drop_login">
+                    <div class="block-inner">
+                        <form class="validated ajax" id="FrontendLoginForm" action="/signin/" method="post" data-callback="loginCallback" data-show-one-message="true" data-auto-position-update="true">
+                            <input type="hidden" name="backUrl" value="http://www.tubous.com/">
+
+                            <h3 class="block-title">Log In to Your Account</h3>
+
+                            <div class="error-login" style="display:none;font-size: 18px;">Wrong name or pass</div>
+                            <div class="error-resend" style="display:none;color: red;font-size: 18px;margin-bottom: 8px;line-height: 22px">Login failed.
+                                Account has not been activated. Please check email account or
+                                <a href="#" class="openResendForm">RESEND ACTIVATION EMAIL</a></div>
+                            <div class="wrap" style="margin-bottom: 5px">
+                                <div style="display:none;">
+                                    <div id="FrontendLoginForm_es_" class="errorSummary" style="display:none">
+                                        <p>Please fix the following input errors:</p>
+                                        <ul>
+                                            <li>dummy</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="field_input">
+                                    <div class="input_name">
+                                        <input type="text" id="loginForm_login" name="login" placeholder="Username or e-mail" class="validate[required,custom[usernameOrEmail],maxSize[128]]" value="" data-prompt-position="topLeft">
+                                    </div>
+                                </div>
+                                <div class="field_input">
+                                    <div class="input_pass">
+                                        <input type="password" id="password" name="password" placeholder="Password" class="validate[required]" value="" data-prompt-position="topLeft">
+                                    </div>
+                                </div>
+                                <input class="btn_field" type="submit" name="yt0" value="Add">
+                                <input type="hidden" name="ajax" value="1">
+                            </div>
+					<span class="forgotPass-wrap"><a href="#" class="forgotPass forgotPassOpen">Forgot password?</a>
+					or Don't have account yet?
+					<a href="#" class="forgotPass forgotPassClose">Sign Up for Free</a></span>
+                        </form>
+                    </div>
+                    <a href="#" class="block_close"></a>
+                </div>
+
+                <div id="drop_signup" class="drop drop_login">
+                    <div class="block-inner">
+                        <form class="ajax validated" id="reg-form" method="post" action="/signup/" data-callback="signUpCallback" data-before-submit="signUpBeforeSubmit" data-show-one-message="true" data-auto-position-update="true">
+
+                            <div class="block-title">
+                                <span>Sign up for a personal account so you can save videos, leave comments, and utilize other advanced features!</span>
+                            </div>
+                            <div class="wrap signup-block">
+                                <div style="display:none;">
+                                    <div id="FrontendLoginForm_es_" class="errorSummary" style="display:none">
+                                        <p>Please fix the following input errors:</p>
+                                        <ul>
+                                            <li>dummy</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="errorMessage" id="FrontendLoginForm_login_em_" style="display:none"></div>
+                                <div class="field_input register">
+                                    <div class="input_name">
+                                        <input placeholder="Enter a username*" type="text" id="login" name="login" class="align-r validate[required,custom[onlyLetterNumber,ajax[ajaxLoginValidate]],maxSize[64]]" value="" data-prompt-position="topLeft">
+                                    </div>
+                                    <div class="input_name">
+                                        <input placeholder="Email*" type="text" id="email" name="email" class="signUpFormEmail align-r validate[required,custom[email,ajax[ajaxEmailValidate]]]" value="" data-prompt-position="topLeft">
+                                    </div>
+                                    <div class="input_pass">
+                                        <input placeholder="Enter password*" type="password" id="confirm_password" name="confirm_password" class="align-r validate[required]" value="" data-prompt-position="topLeft">
+                                    </div>
+                                    <div class="input_pass" id="pass_wrap">
+                                        <input placeholder="Confirm password*" type="password" id="password" name="password" class="password align-r auth-field validate[required, equals[confirm_password]]" value="" data-prompt-position="topLeft">
+                                    </div>
+                                    <div class="submit-button">
+                                        <div class="captcha_code">
+    <div class="g-recaptcha recaptcha-small" data-sitekey="6LfzdhQTAAAAAPcJCabcjoeTRN0mUlFaTJEW7v1g"></div>
+<!--    <div class="turing_img">
+        <img class="captcha_img" src="/?area=turingImageViewer&color=white" alt="" width="100" height="45"/>
+    </div>
+    <div class="captcha_field">
+        <input type="text" id="turingCode" name="turingCode" class="validate[required,custom[captcha]]"
+               placeholder="Type this captcha code here" value="" tabindex="5" data-prompt-position="topLeft"/>
+    </div>-->
+    <div class="clearfix"></div>
+</div>
+                                        <div id="errorCaptcha" class="error-block hide" style="display: none;">
+                                            <div class="notification-red notification" style="width: 50%;margin: auto;">
+                                                <p style="color: #fff;font-size: 20px">Error. Wrong captcha</p>
+                                            </div>
+                                        </div>
+                                        <div class="terms">
+                                            <input class="validate[required] checkbox" type="checkbox" id="terms" name="">
+                                            <label for="terms" class="checkbox-label" data-prompt-position="topLeft"></label>
+
+                                            <p class="certify">
+                                                <span>I certify that I am over the age of 18 and I have accepted the <a href="http://www.tubous.com/pages/terms.html" target="_blank">Terms &amp; Conditions</a></span>
+                                            </p>
+                                        </div>
+                                        <input class="btn_field" type="submit" name="yt0" value="Create Account">
+                                        <input type="hidden" name="ajax" value="1">
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="signin-success success-box hide">
+                            <p>Your account has been created. However, before you can use it you need to confirm your
+                                e-mail address. A confirmation email has been sent to the address you supplied.</p>
+
+                            <p>Didn't get an e-mail? Try to <a href="">RESEND CONFIRMATION</a></p>
+                        </div>
+                        <form class="resend-success validated ajax hide" action="" method="post">
+                            <h3 class="block-title">To resend activation email please complete the following:</h3>
+
+                            <div class="input_name input">
+                                <input placeholder="Your email" type="text" name="email" class="auth-field" value="">
+                            </div>
+                            <input type="submit" class="submit-btn submit" name="submit" value="Send" data-loading="loading...">
+                        </form>
+                    </div>
+                    <a href="#" class="block_close"></a>
+                </div>
+            
+            <div id="drop_forgot_password" class="drop drop_forgot_password">
+                <form class="validated ajax forgot-pass" action="http://www.tubous.com//restore/" method="post" data-callback="forgotCallback">
+                    <h3 class="block-title">Fill out this form to have your password emailed to you
+                        <a href="#" class="openLoginForm">Login here</a></h3>
+
+                    <div class="input_name input">
+                        <input placeholder="Your email" type="text" name="email" id="email" class="retrieveFormEmail auth-field validate[required,custom[email,ajax[ajaxEmailExist]]" value="" data-prompt-position="topLeft">
+                    </div>
+                    <input type="submit" class="submit-btn submit" name="submit" value="Send" data-loading="loading...">
+                </form>
+                <div class="forgot-success success-box hide">
+                    <p>Please check your inbox and follow the instructions.</p>
+                </div>
+                <a href="#" class="block_close"></a>
+            </div>
+
+            <div id="drop_resend_confirm" class="drop drop_resend_confirm">
+                <form class="ajax validated resend-confirm" action="/resend/" method="post" data-callback="resendCallback">
+                    <h3 class="block-title">To resend activation email please complete the following:</h3>
+
+                    <div class="error-resend" style="display:none;color: red;font-size: 18px;margin-bottom: 8px;">Your
+                        account is not activated
+                    </div>
+                    <div class="input_name input">
+                        <input placeholder="Your email" type="text" name="email" class="auth-field validate[required,custom[email]" data-prompt-position="topLeft" value="">
+                    </div>
+                    <input type="submit" class="submit-btn submit" name="submit" value="Send" data-loading="loading...">
+                    <input type="hidden" name="ajax" value="1">
+                </form>
+                <div class="forgot-success success-box hide">
+                    <p>Please check your inbox and follow the instructions.</p>
+                </div>
+                <a href="#" class="block_close"></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- HEADER ENDS -->
+<div class="wrap container policy">
+    <div style="padding:30px; background:#FFF; color:#000; margin-top:5px; line-height:19px;font-size: 16px">
+    <b>Privacy Policy</b><br><br>
+
+    Pursuant to our Terms of Use, this document describes how we treat personal information
+    related to your use of TUBOUS.com (the “Website”), including information you provide when
+    using it.<br><br>
+    We expressly and strictly limit use of the Website to adults over 18 years of age or the
+    age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is
+    strictly forbidden from using the Website. We do not knowingly seek or collect any personal
+    information or data from persons who have not attained this age.<br><br><br>
+
+    <b>Data Collected</b><br><br>
+    Browsing the Website. You can watch videos and access other parts of the Website
+    without having an account, in which case only your IP address, country of origin and other non-
+    personal information about your computer or device (such as web requests, browser type,
+    browser language, referring URL, operating system and date and time of requests) will be
+    recorded for log file information, aggregated traffic information and in the event that there is any
+    misappropriation of information and/or content.<br><br>
+
+    Registering on the Website. Registration of an account is required for uploading videos
+    and accessing other features on the Website. We require the following personal information at
+    the time of registration: your username and password (which you generate), e-mail address, age,
+    gender, IP address and country of origin. You may optionally provide us with other personal
+    information such as your birthdate, sexual orientation or relationship status. Your username,
+    age, gender, country of origin and other optional information will become publicly accessible on
+    the Website.<br><br>
+    Usage Information. We may record information about your usage of the Website such as
+    your subscriptions, which users you communicate with, the videos you watch, the frequency and
+    size of data transfers and other statistics. If you have registered and are logged in, we may
+    associate that information with your account.<br><br>
+
+    Uploaded Content. Any personal information or content you voluntarily disclose online,
+    including videos, comments and your profile page, becomes publicly available and may be
+    collected and used by others.<br><br>
+    Correspondences. We may keep a record of any correspondence between you and us.<br><br>
+
+    Cookies. When you use the Website, we may send cookies to your computer to uniquely
+    identify your browser session. We may use both session cookies and persistent cookies.<br><br><br>
+    <b>Data Usage</b><br><br>
+
+    We may use your information to provide you with certain features and to create a
+    personalized experience on the Website. We may also use that information to operate, maintain
+    and improve features and functionality of the Website.<br><br>
+    We may use your e-mail address or other personal information to send commercial or
+    marketing messages. We may use your e-mail without further consent for non-marketing or
+    administrative purposes.<br><br>
+
+    We use cookies, web beacons and other information to store information so that you will
+    not have to re-enter it on future visits, provide personalized content and information, monitor the
+    effectiveness of the Website and monitor aggregate metrics such as the number of visitors and
+    page views (including for use in monitoring visitors from affiliates). They may also be used to
+    provide targeted advertising based on your country of origin and other personal information.<br><br>
+    We may aggregate your personal information with personal information of other
+    members and users, and disclose such information to advertisers and other third-parties for
+    marketing and promotional purposes.<br><br>
+
+    Your username may be displayed to other users alongside content you upload, including
+    videos, comments and messages.<br><br>
+    Any videos that you submit may be redistributed through the internet and other media
+    channels and may be viewed by the general public.<br><br><br>
+
+    <b>Disclosures of Information</b><br><br>
+    We may be required to release certain data to comply with legal obligations or in order to
+    enforce our Terms of Use and other agreements. We may also release certain data to protect the
+    rights, property or safety of us, our users and others. This includes providing information to
+    other companies or organizations like the police or governmental authorities for the purposes of
+    protection against or prosecution of any illegal activity, whether or not it is identified in the
+    Terms of Use.<br><br>
+
+    If you upload any illegal material to the Website, we may forward all available
+    information to relevant authorities, including respective copyright owners, without any notice to
+    you.<br><br><br>
+    <b>Miscellaneous</b><br><br>
+
+    If you have an account on the Website and have a password giving you access to certain
+    parts of the Website, you are responsible for keeping the password confidential. Anyone else
+    with your password may access your account and other personal information.<br><br>
+    While we use commercially reasonable physical, managerial and technical safeguards to
+    secure your information, the transmission of information via the internet is not completely secure
+    and we cannot ensure or warrant the security of any information or content you transmit to us.
+    Any information or content you transmit to us is done at your own risk.<br><br>
+
+    You are entitled to access, correct or delete your information on the Website and may
+    request us to do so by contacting us at privacy@tubous.com.<br><br>
+</div>
+    <div class="footer clearfix">
+    <ul class="menu footer-menu" id="yw2">
+        <li class="first"><a href="/pages/terms.html">Terms and conditions</a></li>
+        <li><a href="/pages/dmca.html">DMCA</a></li>
+        <li><a href="/pages/policy.html">Privacy Policy</a></li>
+        <!--<li><a href="#">Feedback</a></li>-->
+    </ul>
+    <strong class="logo_footer"><a href="/">Tubous</a></strong>
+</div>
+
+<script type="text/javascript" src="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="http://tubous1.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery-ui.1.11.4.min.js"></script>
+
+<script type="text/javascript" src="http://tubous2.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery.validationEngine.js"></script>
+<script type="text/javascript" src="http://tubous3.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery.validationEngine-en.js"></script>
+<script type="text/javascript" src="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery.form.js"></script>
+
+<script type="text/javascript" src="http://tubous1.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://tubous2.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery.autocomplete.min.js"></script>
+
+<script type="text/javascript" src="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/functions.js"></script>
+<script type="text/javascript" src="http://tubous1.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/jquery.paginator.js"></script>
+<script type="text/javascript" src="http://tubous2.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/jquery.selectbox.js"></script>
+<script type="text/javascript" src="http://tubous3.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/jquery.simplePagination.js"></script>
+<script type="text/javascript" src="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/nouislider.min.js"></script>
+<script type="text/javascript" src="http://tubous1.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/money.js"></script>
+<script type="text/javascript" src="http://tubous2.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/main.js"></script>
+<script type="text/javascript" src="http://tubous3.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/formcallback.js"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55dd637574aeb77a" async="async"></script>
+
+<script type="text/javascript" src="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/userupload.js"></script>
+<script type="text/javascript" src="http://tubous3.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery.ajax.js"></script>
+
+
+<link rel="stylesheet" href="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/css/simplePagination.css">
+
+<script>
+    if($.removeCookie('real-referrer-tubous',{ domain: ROOT_DOMAIN, path: '/' }))
+        console.log('-ref');
+</script>
+
+<script id="th_advertisement" src="//cdn1.traffichaus.com/ads/advertisement1.js"></script>
+<script src="/_p4.php"></script>
+
+
+</div>
+
+
+</body></html>
