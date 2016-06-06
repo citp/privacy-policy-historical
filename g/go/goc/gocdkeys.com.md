@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gocdkeys.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318033733id_/https%3A//gocdkeys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gocdkeys.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606042706id_/https%3A//gocdkeys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## General Information
 
-The personal data provided to GOCDKEYS.COM by the Users during registration and subsequent use of GOCDKEYS.COM Sites are processed by Overthings, registered owned by Victor Abrines Planisi at Jafuda cresques 2, 4, 07004, Palma de Mallorca, Balearic Islands, Spain, VAT identification number (NIP) ES43171026A.
+GOCDKEYS.COM is owned by Overthings, S.L., registered at Calle dentol 3 bajos 07610, Palma de Mallorca, Balearic Islands, Spain, identification number (NIF) B57925703.
 
 ### The Site obtains information as follows:
 
@@ -79,7 +79,7 @@ The personal information you entrust to us, particularly your name, surname, bus
 
 ## Protecting personal information
 
-All gathered data, in the manner described above, are stored in the Personal Database belonging to GOCDKEYS.COM, the said database is registered with the LOPD (Agencia Española de Protección de Datos).
+All gathered data, in the manner described above, are stored in the Personal Database belonging to BUXIM PUBLICIDAD, S.L. with NIF B57702060 under `USUARIOS` database. The said database is registered with the LOPD (Agencia Española de Protección de Datos).
 
 GOCDKEYS.COM ensures, that additionally to the aforementioned technical and organizational security measures, we strictly comply with all regulations and standards for the protection of the User´s personal data by preventing unauthorized processing of data and accidental loss, deletion or any other form of damage. GOCDKEYS.COM also ensures that the access to the database is restricted to the persons explicitly authorized by the data administrator.
 
