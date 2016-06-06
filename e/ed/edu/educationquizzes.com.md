@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationquizzes.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112205id_/http%3A//educationquizzes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationquizzes.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606180934id_/http%3A//www.educationquizzes.com/privacy-policy) for the most accurate reproduction.*
 
 # KS3 (Key Stage 3) Education Quizzes - Privacy Policy
 
