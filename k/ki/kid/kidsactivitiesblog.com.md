@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidsactivitiesblog.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133426id_/http%3A//kidsactivitiesblog.com/kids-activities-bloggers/disclosure-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsactivitiesblog.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606202745id_/http%3A//kidsactivitiesblog.com/kids-activities-bloggers/disclosure-and-privacy-policy) for the most accurate reproduction.*
 
-# Disclosure and Privacy Policy - Kids Activities Blog
+# Disclosure and Privacy Policy
 
 ## Disclosure
 
