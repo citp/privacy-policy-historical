@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lynxjuan.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206142139id_/http%3A//lynxjuan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lynxjuan.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606233120id_/http%3A//lynxjuan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PCSO LOTTO RESULTS PHILIPPINES PCSO
 
@@ -24,4 +24,4 @@ While we do our best to protect your personal information, we cannot guarantee t
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-For any other information email at: [lynxjuan@yahoo.com](mailto:lynxjuan@yahoo.com)
+For any other information email at: mymy_fernandez@yahoo.com
