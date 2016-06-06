@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the leadoutcome.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035807id_/http%3A//www.leadoutcome.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadoutcome.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606082300id_/http%3A//leadoutcome.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
 [](https://web.archive.org/users/admin "View user profile.")
 
-Protecting and respecting the privacy of our customers and those who use our website and our products and services is something you can count on from LeadOutcome. It is important that you understand how your personal information is collected and used. Personal information is any information that identifies you or would enable someone to contact you, such as your name, email address, phone number and other non-public information that is associated with the foregoing. This privacy statement applies to all of LeadOutcome products and services any other sites owned or operated by LeadOutcome. 
+Protecting and respecting the privacy of our customers and those who use our website and our products and services is something you can count on from LeadOutcome. It is important that you understand how your personal information is collected and used. Personal information is any information that identifies you or would enable someone to contact you, such as your name, email address, phone number and other non-public information that is associated with the foregoing. This privacy statement applies to all of LeadOutcome products and services any other sites owned or operated by LeadOutcome.
 
 ##  Information Collection and Use by Us
 
@@ -24,6 +24,13 @@ Information gathered through usage of a cookie is not linked to any personal ide
 
 Some of our web pages, emails, and other online content may contain electronic images provided by us or authorized third parties known as web beacons, also known as single-pixel GIFs, which are invisible graphical images. These web beacons allow us to count users who have visited our Sites, seen our ads, or opened our email, and to track whether messages are shared using our social share features and, once shared, whether these messages are opened by the recipient. In addition, when you click on a link in an email, we record this individual response to allow us to customize our offerings to you. Web beacons collect only limited information, such as a cookie identifier, time and date of a page being viewed, and a description of the page on which the web beacon resides. Web beacons cannot be declined when delivered using a regular web page, but they can be refused when delivered by email. If you do not wish to receive web beacons by email, you will need to disable HTML images or refuse HTML (select Text only) emails via your email software.
 
-  * [](http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fleadoutcome.com%2Flegal%2Fprivacy&linkname=Privacy%20Statement)
+##    
+Import Wizard
+
+The LeadOutcome import wizard uses a technology called Context.IO. When you use this feature you understand and agree that DokDok, Inc., its parent company, Return Path, Inc. and their affiliates (collectively "Context.IO Providers"), who provide Context.IO, will have access to your information and will be permitted to use that information in accordance with Return Path’s Privacy Policy. If you wish to opt-out of sharing your information with Context.IO Providers, you may do so at <https://optout.context.io/> or simple don't use the feature that allows you to automatically import emails by adding your email account.
+
+You can learn more about how we use anonymous data in our Privacy FAQ (<https://context.io/privacy-faq>). Basically, we redact all personally identifiable information and then use the anonymous and aggregated reports to improve spam filters, report phishing attacks, improve deliverability, etc.
+
+  * [](http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.leadoutcome.com%2Flegal%2Fprivacy&linkname=Privacy%20Statement)
 
 
