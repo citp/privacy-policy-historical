@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackviper.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140959id_/http%3A//www.blackviper.com/home/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackviper.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606183550id_/http%3A//www.blackviper.com/home/legal/%23privacy) for the most accurate reproduction.*
 
-# Legal | Black Viper | www.blackviper.com
+# Legal – Black Viper | www.blackviper.com
 
 ## Introduction
 
@@ -24,7 +24,7 @@ At my discretion, I reserve the right to allow and disallow IP addresses and cli
 
 In order to give back to the internet community and an effort on my part to reach my goal, I will state this:
 
-**If** I reach my [GoFundMe campaign](http://www.gofundme.com/blackviper-com "GoFundME") goal of **$36,000 US** , I will release **all** content posted on www.blackviper.com, to include **all images and text, past present and future** , into the  **public domain**.  
+**If** I reach my [GoFundMe campaign](https://www.gofundme.com/blackviper-com "GoFundME") goal of **$36,000 US** , I will release **all** content posted on www.blackviper.com, to include **all images and text, past present and future** , into the  **public domain**.  
 This means, **I will not claim any Copyright** on any and all images, including my install guides, or **any text that I have drafted for Windows Services**!  
 This action, I feel, is the best way to give back to everyone that I have helped as well as, I feel, an amount of money I never, ever would have thought possible to earn with my “hobby” website.  
 I thank you, in advance, for your generosity!  
