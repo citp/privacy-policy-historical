@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the morethan.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145038id_/http%3A//beta.morethan.com/legal/privacy-policy%3Fintc%3Dcookie_banner) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morethan.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606085914id_/http%3A//beta.morethan.com/legal/privacy-policy%3Fintc%3Dcookie_banner) for the most accurate reproduction.*
 
 # MORE TH>N insurance from RSA | Privacy Policy
 
-## How we use your information
+How we use your information 
 
 Please read the following carefully as it contains important information relating to the details you give us. You should show this notice to any other party related to this insurance.
 
@@ -71,7 +71,7 @@ We and other organisations may also access and use this information to prevent f
   * >Checking details on applications for credit and credit related or other facilities
   * >Recovering debt
   * >Checking details on proposals and claims for all types of insurance
-  * >Checking details of job applicants and employees. 
+  * >Checking details of job applicants and employees.
 
 
 
@@ -108,7 +108,7 @@ Information relating to motor insurance policies will be added to the Motor Insu
   * >Electronic Vehicle Licensing
   * >Continuous Insurance Enforcement
   * >Law enforcement (prevention, detection, apprehension and or prosecution of offenders)
-  * >Obtaining information if you are involved in a road traffic accident (either in the UK, the EEA or certain other territories). 
+  * >Obtaining information if you are involved in a road traffic accident (either in the UK, the EEA or certain other territories).
 
 
 
@@ -124,7 +124,7 @@ We capture your personal information, such as names and addresses, over a secure
 
 ### Call charges
 
-0800 telephone numbers are free and 0844 numbers are charged at 5p per minute from a BT Landline. Other providers charges, including calls from mobile phones, will vary depending on your network rate.
+0345 / 0344 / 0343 / 0330 numbers will be charged at your local rate. Other provider's charges, including calls from mobile phones, will vary depending on your network rate
 
 ### Cookies
 
@@ -141,7 +141,7 @@ We use cookies to:
   * >Collect information that will help us to distinguish visitors, to understand visitors’ browsing habits on our website and to improve their experience.
   * >Compile statistical reports on website activity e.g. numbers of visitors and the pages they visit
   * >Collect information that will allow us to tailor advertising to make it more relevant for you, based on your previous interactions with our website.
-  * >Remember information about you when you visit our site. **Some of the cookies are essential in order to provide our services to you.**
+  * >Remember information about you when you visit our site. **Some of the cookies are essential in order to provide our services to you.  **
 
 
 
@@ -150,7 +150,7 @@ Below, we have set out the four categories of cookies that we use on our website
   * >Strictly necessary cookies
   * >Performance cookies
   * >Functionality cookies
-  * >Targeting cookies 
+  * >Targeting cookies
 
 
 
@@ -164,16 +164,13 @@ These cookies are essential in order to enable you to move around the website an
 
 We use the following first party cookies which are strictly necessary:
 
-ASP.NET_SessionId  
-  
----  
-  
-parentHandle  
-  
-JSESSIONID  
-  
-Q  
-  
+    * >ASP.NET_SessionId
+    * >parentHandle
+    * >JSESSIONID
+    * >Q
+
+
+
 There are no third party cookies in this category.
 
 We update our site frequently and sometimes that involves some changes in the cookies we have listed above. We try our best to keep this list up to date but due to various technical constraints we can only update this list every three months.
@@ -186,60 +183,31 @@ These cookies do not collect information that identifies a visitor, as all infor
 
 We use the following first party cookies for performance. Some of them may also appear as third party cookies:
 
-s_vi
+    * **Adobe Sitecatalyst**
+    * >s_vi
+    * >s_cc
+    * >s_ev21
+    * >s_sq
+    * >s_vnum
+    * >s_lv
+    * **Adobe Test & Target**
+    * >mboxPC
+    * >mboxSession
+    * >mboxNoLogging
+    * **Google Analytics**
+    * >__utmz
+    * >__utma
+    * >__utmc
+    * >__utmx
+    * >__utmxx
+    * >__utmz
+    * >__gads
+    * >__utmb
+    * **Clicktale**
+    * >WRUID
 
-| 
 
-Adobe Sitecatalyst  
-  
----|---  
-  
-s_cc  
-  
-s_ev21  
-  
-s_sq  
-  
-s_vnum  
-  
-s_lv  
-  
-mboxPC
 
-| 
-
-Adobe Test & Target  
-  
-mboxSession  
-  
-mboxNoLogging  
-  
-__utmz
-
-| 
-
-Google Analytics  
-  
-__utma  
-  
-__utmc  
-  
-__utmx  
-  
-__utmxx  
-  
-__utmz  
-  
-__gads  
-  
-__utmb  
-  
-WRUID
-
-| 
-
-Clicktale  
-  
 Some of these may be set as first or third party cookies, depending on which part of our website you are browsing.
 
 We update our site frequently and sometimes that involves some changes in the cookies we have listed above. We try our best to keep this list up to date but due to various technical constraints we can only update this list every three months.
@@ -252,24 +220,16 @@ They may also be used to provide services you have requested such as viewing a v
 
 We use the following first party cookies for functionality. Some of them may also appear as third party cookies:
 
-SmartMaxUser
+    * **Web chat services**
+    * >SmartMaxUser
+    * >SmartMaxSession
+    * >ASPSESSIONIDCASDSDRC
+    * >ASPSESSIONIDQCTATCRA
+    * >ASPSESSIONIDSCTDQDTB
+    * >LivePersonID
 
-| 
 
-Web chat services  
-  
----|---  
-  
-SmartMaxSession  
-  
-ASPSESSIONIDCASDSDRC  
-  
-ASPSESSIONIDQCTATCRA  
-  
-ASPSESSIONIDSCTDQDTB  
-  
-LivePersonID  
-  
+
 In addition, some of our partners may use third party cookies in this category. We update our site frequently and sometimes that involves some changes in the cookies we have listed above. We try our best to keep this list up to date but due to various technical constraints we can only update this list every three months.
 
 ### Targeting cookies
@@ -280,10 +240,11 @@ Without these cookies, online advertisements you encounter will be less relevant
 
 Examples include:
 
-  * >Cookies placed by advertising networks to collect browsing habits in order to target relevant adverts to you. The site you are visiting need not actually be serving adverts, but often this will also be the case.
-  * >Cookies placed by advertising networks to complement services used by website operators to increase functionality, for example, commenting on a blog, adding a site to your social network, providing maps or counters of visitors to a site. We do not use any first party cookies for targeting, however some of our partners may use third party cookies in this category. 
+              * >Cookies placed by advertising networks to collect browsing habits in order to target relevant adverts to you. The site you are visiting need not actually be serving adverts, but often this will also be the case.
+              * >Cookies placed by advertising networks to complement services used by website operators to increase functionality, for example, commenting on a blog, adding a site to your social network, providing maps or counters of visitors to a site. We do not use any first party cookies for targeting, however some of our partners may use third party cookies in this category.
 
 
 
-Information on deleting or controlling cookies is available at [allaboutcookies.org](http://www.allaboutcookies.org/)   
+Information on deleting or controlling cookies is available at [allaboutcookies.org](http://www.allaboutcookies.org/)
+
 **Please note that if you disable cookies, the website functionality may be impaired and prevent you from obtaining a quotation or completing your purchase online.**
