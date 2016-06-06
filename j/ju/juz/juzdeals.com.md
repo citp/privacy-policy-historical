@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juzdeals.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206164220id_/http%3A//www.juzdeals.com/support/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juzdeals.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606114535id_/http%3A//www.juzdeals.com/support/policy) for the most accurate reproduction.*
 
 # Privacy Policy For Juzdeals
 
