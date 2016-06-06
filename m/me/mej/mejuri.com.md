@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mejuri.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216202959id_/http%3A//mejuri.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mejuri.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606082622id_/http%3A//mejuri.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
