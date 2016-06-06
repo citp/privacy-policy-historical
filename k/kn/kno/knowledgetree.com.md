@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205215508id_/http%3A//www.knowledgetree.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606194021id_/http%3A//www.knowledgetree.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | KnowledgeTree
 
-Last updated: 12/08/2014
+Last updated: 4/08/2016
 
 KnowledgeTree, Inc. (“KT”) is committed to protecting the privacy and security of personal information that we collect. This Privacy Policy discloses our information gathering and dissemination practices for our publicly available website at [www.knowledgetree.com](http://www.knowledgetree.com/ "www.knowledgetree.com") for our commercial KnowledgeTree on-demand document management service, which is accessed through the internet (the “Service”). The Service is available only to users authorized by organizations and individuals that have entered into an online or written signed agreement with KT for the Service (“Service Agreement”). Nothing in this Privacy Policy should be interpreted to modify, delete or add terms to the Service Agreement.
 
@@ -174,10 +174,8 @@ Contacting KT
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with KT software or services, you can contact KT at:  
 [privacy@knowledgetree.com](mailto:privacy@knowledgetree.com)
 
-510 Glenwood Ave., Suite 221
+3210 Hillsborough St.
 
-Raleigh, NC USA 27603
+Raleigh, NC USA 27607
 
 1 877.900.0350 (US).
-
-If you have complaints regarding KnowledgeTree’s EU and Swiss Safe Harbor programs, contact our third party dispute resolution service, ICDR/AAA at [http://go.adr.org/safeharbor](http://go.adr.org/safeharbor).
