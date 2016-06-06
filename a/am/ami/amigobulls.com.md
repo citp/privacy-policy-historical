@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amigobulls.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207032729id_/http%3A//amigobulls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amigobulls.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606183559id_/http%3A//amigobulls.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy, amigobulls.com
 
