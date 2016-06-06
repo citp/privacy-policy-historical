@@ -1,26 +1,27 @@
-<!--The following is the downloaded HTML source of the israelvideonetwork.com privacy policy that was archived on 2015-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151218122052id_/http%3A//www.israelvideonetwork.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the israelvideonetwork.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606203535id_/http%3A//www.israelvideonetwork.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#"><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5RZ9CJ"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5&amp;appId=1576005035961790"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAMOU15XGwYJUVJTBwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="p:domain_verify" content="3d5229762bf77e3a0396e7dc660e0f0f">
+<meta property="fb:pages" content="175295265826594">
 <title>Privacy Policy – Israel Video Network</title>
 <link rel="profile" href="//gmpg.org/xfn/11">
 <link rel="pingback" href="//www.israelvideonetwork.com/xmlrpc.php">
 	<link rel="icon" type="image/png" href="//www.israelvideonetwork.com/wp-content/uploads/2015/07/Israel_Video_Network_Social_Login.png">
 
 <!-- Google Tag Manager for WordPress by DuracellTomi - http://duracelltomi.com -->
-<script type="text/javascript">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=1576005035961790&amp;version=v2.3"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5RZ9CJ"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
 	var gtm4wp_datalayer_name = "dataLayer";
 	var dataLayer = dataLayer || []
 </script>
 <!-- End Google Tag Manager for WordPress by DuracellTomi --><link rel="alternate" type="application/rss+xml" title="Israel Video Network » Feed" href="//www.israelvideonetwork.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Israel Video Network » Comments Feed" href="//www.israelvideonetwork.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.israelvideonetwork.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),c.toDataURL().length>3e3):("simple"===a?d.fillText(String.fromCharCode(55357,56835),0,0):d.fillText(String.fromCharCode(55356,57135),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.israelvideonetwork.com/wp-includes/js/wp-emoji-release.min.js?ver=4.4" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.israelvideonetwork.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.2"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.israelvideonetwork.com/wp-includes/js/wp-emoji-release.min.js?ver=4.5.2" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -38,36 +39,36 @@ img.emoji {
 <link rel="stylesheet" id="wpfp-css" href="//www.israelvideonetwork.com/wp-content/plugins/wp-favorite-posts/wpfp.css" type="text/css">
 <link rel="stylesheet" id="big-social-buttons-css" href="//www.israelvideonetwork.com/wp-content/plugins/big-social-buttons/style.css?ver=1.0.2" type="text/css" media="all">
 <link rel="stylesheet" id="wsl-widget-css" href="//www.israelvideonetwork.com/wp-content/plugins/wordpress-social-login/assets/css/style.css?ver=1.0.3.5" type="text/css" media="all">
-<link rel="stylesheet" id="bootstrap-styles-css" href="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/css/israelvideonetwork.css?ver=1.0.1.9.4" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-styles-css" href="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/css/israelvideonetwork.css?ver=1.0.2" type="text/css" media="all">
 <link rel="stylesheet" id="font-awesome-css" href="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/css/font-awesome.min.css?ver=4.2.0" type="text/css" media="all">
 <link rel="stylesheet" id="israelvideonetowork-style-css" href="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/style.css?ver=1.0.3.5" type="text/css" media="all">
-<link rel="stylesheet" id="voting-styles-css" href="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/css/voting.css?ver=1.0.2" type="text/css" media="all">
-<link rel="stylesheet" id="contest-styles-css" href="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/css/contest.css?ver=1.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="voting-styles-css" href="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/css/voting.css?ver=1.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="contest-styles-css" href="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/css/contest.css?ver=1.0.9.6" type="text/css" media="all">
 <link rel="stylesheet" id="jquery-style-css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/jquery-ui.css?ver=1.0.3.5" type="text/css" media="all">
 <link rel="stylesheet" id="mimi-base-css" href="//www.israelvideonetwork.com/wp-content/plugins/mad-mimi-sign-up-forms/css/mimi.css?ver=1.1" type="text/css" media="all">
 <link rel="stylesheet" id="jquery-ui-css" href="//www.israelvideonetwork.com/wp-content/plugins/mad-mimi-sign-up-forms/css/jquery-ui.css?ver=1.1" type="text/css" media="all">
 <link rel="stylesheet" id="lazy-widget-loader-css" href="//www.israelvideonetwork.com/wp-content/plugins/lazy-widget-loader/css/lwl.css?ver=1.2.8" type="text/css" media="all">
-<script type="text/javascript" src="//www.israelvideonetwork.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
-<script type="text/javascript" src="//www.israelvideonetwork.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="//www.israelvideonetwork.com/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script>
+<script type="text/javascript" src="//www.israelvideonetwork.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var myAjax = {"ajaxurl":"http:\/\/www.israelvideonetwork.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/plugins/video-of-the-day/my_voter_script.js?ver=4.4"></script>
-<script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.0"></script>
-<script type="text/javascript" id="omapi-script" src="//a.optnmnstr.com/app/js/api.min.js?ver=1.1.4.2"></script>
+<script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/plugins/video-of-the-day/my_voter_script.js?ver=4.5.2"></script>
+<script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.2"></script>
 <script type="text/javascript" src="//code.jquery.com/ui/1.11.4/jquery-ui.js?ver=1.11.4"></script>
-<script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/plugins/wp-favorite-posts/wpfp.js?ver=4.4"></script>
+<script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/plugins/wp-favorite-posts/wpfp.js?ver=4.5.2"></script>
 <link rel="https://api.w.org/" href="//www.israelvideonetwork.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="//www.israelvideonetwork.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//www.israelvideonetwork.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.4">
+<meta name="generator" content="WordPress 4.5.2">
 <link rel="canonical" href="//www.israelvideonetwork.com/about/privacy-policy/">
 <link rel="shortlink" href="//www.israelvideonetwork.com/?p=46969">
 <link rel="alternate" type="application/json+oembed" href="//www.israelvideonetwork.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.israelvideonetwork.com%2Fabout%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="//www.israelvideonetwork.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.israelvideonetwork.com%2Fabout%2Fprivacy-policy%2F&amp;format=xml">
-<meta property="fb:app_id" content="180032778698921"><script data-cfasync="false" src="//load.sumome.com/" data-sumo-site-id="625e178a14db4221b3504ce5a1e29e33c79803fb652d4615cb96112669f7189e" async=""></script><!-- Custom CSS -->
+<meta property="fb:app_id" content="1576005035961790"><meta property="fb:admins" content="1382010109">			<meta property="fb:pages" content="175295265826594">
+			<script data-cfasync="false" src="//load.sumome.com/" data-sumo-site-id="625e178a14db4221b3504ce5a1e29e33c79803fb652d4615cb96112669f7189e" async=""></script><!-- Custom CSS -->
 <style type="text/css">
  body { padding-top: 150px; } body.admin-bar .navbar {position:fixed; top: 28px; z-index: 1000; height: 40px;}
 </style>
@@ -75,7 +76,7 @@ var myAjax = {"ajaxurl":"http:\/\/www.israelvideonetwork.com\/wp-admin\/admin-aj
 <script type="text/javascript">
 	dataLayer.push({"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Ilan Davidovics"});
 </script>
-<!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 1.6.3 -->
+<!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 1.7.3.1 -->
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Israel Video Network">
 <meta property="og:title" content="Privacy Policy">
@@ -94,19 +95,169 @@ var myAjax = {"ajaxurl":"http:\/\/www.israelvideonetwork.com\/wp-admin\/admin-aj
 <meta name="twitter:card" content="summary_large_image">
 <!-- END - Facebook Open Graph, Google+ and Twitter Card Tags -->
 
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6285927393401693",
+    enable_page_level_ads: true
+  });
+</script>
+
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script type="text/javascript">
+
+  googletag.cmd.push(function() {
+	  
+	// Define size mapping objects. The first parameter to addSize is
+   // a viewport size, while the second is a list of allowed ad sizes.
+	var mappingLeaderboard = googletag.sizeMapping().
+	 addSize([640, 480], [970, 90]).
+	 addSize([640, 480], [728, 90]).
+	 addSize([1, 1 ], [300, 250]).
+	 build();
+
+	var mappingBox = googletag.sizeMapping().
+	 addSize([640, 480], [336, 280]).
+	 addSize([640, 480], [300, 250]).
+	 addSize([1, 1], [336, 280]).
+	 //addSize([1, 1 ], [300, 250]).
+	 build();
+	 
+
+	var mappingLeaderboardWide = googletag.sizeMapping().
+	 addSize([980, 690], [970, 250]).
+	 addSize([980, 690], [970, 90]).	 
+	 addSize([980, 690], [728, 90]).
+	 addSize([640, 480], [728, 90]).
+	 addSize([1, 1 ], [320, 50]).
+	 build();
+	 
+	var mappingSkyscraperBoxNarrow = googletag.sizeMapping().
+	 addSize([640, 480], [300, 600]).
+	 addSize([640, 480], [160, 600]).
+	 addSize([640, 480], [336, 280]).
+	 //addSize([1, 1], [300, 250]).
+	 addSize([1, 1], [336, 280]).
+	 //addSize([1, 1 ], [300, 250]).
+	 build();
+	 
+
+	var mappingLeaderboardBox = googletag.sizeMapping().
+	 addSize([980, 690], [970, 90]).
+	 addSize([980, 690], [970, 250]).
+	 addSize([980, 690], [728, 90]).
+	 addSize([980, 690], [300, 250]).
+	 addSize([640, 480], [728, 90]).
+	 addSize([1, 1], [336, 280]).
+	 //addSize([1, 1 ], [300, 250]).
+	 build();
+
+	var mappingBox = googletag.sizeMapping().
+	 addSize([640, 480], [300, 250]).
+	 addSize([640, 480], [336, 280]).
+	 addSize([1, 1], [336, 280]).
+	 //addSize([1, 1 ], [300, 250]).
+	 build();
+
+	var mappingBoxWide = googletag.sizeMapping().
+	 addSize([640, 480], [336, 280]).
+	 addSize([1, 1], [336, 280]).
+	 //addSize([1, 1 ], [300, 250]).
+	 build();
+
+	var mappingSkyscraper = googletag.sizeMapping().
+	 addSize([640, 480], [300, 600]).
+	 addSize([640, 480], [160, 600]).
+	 addSize([1, 1], [336, 280]).
+	 //addSize([1, 1 ], [300, 250]).
+	 build();
+   
+	var mappingSkyscraperBox = googletag.sizeMapping().
+	 addSize([640, 480], [300, 600]).
+	 addSize([640, 480], [160, 600]).
+	 addSize([640, 480], [336, 280]).
+	 addSize([1, 1], [336, 280]).
+	 //addSize([1, 1 ], [300, 250]).
+	 build();
+   
+	var mappingSkyscraperBoxWide = googletag.sizeMapping().
+	 addSize([640, 480], [300, 600]).
+	 addSize([640, 480], [336, 280]).
+	 addSize([1, 1], [336, 280]).
+	 //addSize([1, 1 ], [300, 250]).
+	 build();
+	 
+	var mappingLeaderboardWideMW = googletag.sizeMapping().
+	 addSize([980, 690], [970, 250]).
+	 addSize([1, 1 ], [320, 50]).
+	 //addSize([1, 1], [336, 280]).
+	 build();
+   
+   
+	googletag.defineSlot('/51987917/mostwatched_ATF_(ADN)', [[970, 250]], 'div-gpt-ad-1455095144663-0').defineSizeMapping(mappingLeaderboardWide).addService(googletag.pubads());
+    googletag.defineSlot('/51987917/Sub_ATF(ADN)', [[970, 90], [728, 90], [970, 250], [320, 50]], 'div-gpt-ad-1455095144663-1').defineSizeMapping(mappingLeaderboardWide).addService(googletag.pubads());
+    googletag.defineSlot('/51987917/Article_ATF(ADN)', [[970, 90], [728, 90], [300, 250], [970, 250], [320, 50]], 'div-gpt-ad-1455095144663-2').defineSizeMapping(mappingLeaderboardWide).addService(googletag.pubads());
+    googletag.defineSlot('/51987917/Article_Bottom(ADN)', [[160, 600], [300, 600]], 'div-gpt-ad-1454419470130-1').defineSizeMapping(mappingSkyscraper).addService(googletag.pubads());
+    //googletag.defineSlot('/51987917/Article_Middle1(ADN)', [[300, 250], [160, 600], [336, 280], [300, 600]], 'div-gpt-ad-1454419470130-2').defineSizeMapping(mappingSkyscraperBoxNarrow).addService(googletag.pubads());
+	googletag.defineSlot('/51987917/Article_Middle1(ADN)', [[336, 280], [160, 600], [300, 600]], 'div-gpt-ad-1454419470130-2').defineSizeMapping(mappingSkyscraperBoxNarrow).addService(googletag.pubads());
+    googletag.defineSlot('/51987917/Article_Middle2(ADN)', [[336, 280]], 'div-gpt-ad-1454419470130-3').defineSizeMapping(mappingBoxWide).addService(googletag.pubads());
+    googletag.defineSlot('/51987917/HP_Bottom1_(ADN)', [[160, 600], [300, 600]], 'div-gpt-ad-1454419470130-4').defineSizeMapping(mappingSkyscraper).addService(googletag.pubads());
+    googletag.defineSlot('/51987917/HP_Bottom2_(ADN)', [[728, 90], [970, 90] ,[300, 250]], 'div-gpt-ad-1454419470130-5').defineSizeMapping(mappingLeaderboard).addService(googletag.pubads());
+    googletag.defineSlot('/51987917/HP_Middel_(ADN)', [[336, 280], [300, 250]], 'div-gpt-ad-1454419470130-6').defineSizeMapping(mappingBox).addService(googletag.pubads());
+    googletag.defineSlot('/51987917/HP_Top_(ADN)', [[336, 280], [300, 250]], 'div-gpt-ad-1454419470130-7').defineSizeMapping(mappingBox).addService(googletag.pubads());
+    googletag.defineSlot('/51987917/mostwatched_Bottom_(ADN)', [[160, 600], [300, 600]], 'div-gpt-ad-1454419470130-9').defineSizeMapping(mappingSkyscraper).addService(googletag.pubads());
+    googletag.defineSlot('/51987917/mostwatched_Middle(ADN)', [[300, 250], [336, 280], [300, 600]], 'div-gpt-ad-1454419470130-10').defineSizeMapping(mappingSkyscraperBoxWide).addService(googletag.pubads());
+    googletag.defineSlot('/51987917/mostwatched_Middle2(ADN)', [[336, 280], [300, 250]], 'div-gpt-ad-1454419470130-11').defineSizeMapping(mappingBox).addService(googletag.pubads());
+    googletag.defineSlot('/51987917/Sub_Bottom(ADN)', [[160, 600], [300, 600]], 'div-gpt-ad-1454419470130-13').defineSizeMapping(mappingSkyscraper).addService(googletag.pubads());
+    googletag.defineSlot('/51987917/Sub_MIddle1(ADN)', [[160, 600], [336, 280], [300, 600]], 'div-gpt-ad-1454419470130-14').defineSizeMapping(mappingSkyscraperBox).addService(googletag.pubads());
+    googletag.defineSlot('/51987917/Sub_middle2(ADN)', [[336, 280], [300, 250]], 'div-gpt-ad-1454419470130-15').defineSizeMapping(mappingBox).addService(googletag.pubads());
+    googletag.enableServices();
+	googletag.defineSlot('/51987917/HP_Middel_2(ADN)', [[160, 600], [300, 600]], 'div-gpt-ad-1455722369082-0').defineSizeMapping(mappingSkyscraperBox).addService(googletag.pubads());
+	googletag.defineSlot('/51987917/IVN_mostwatched_Middle3(ADN)', [[160, 600], [300, 600]], 'div-gpt-ad-1455722369082-1').defineSizeMapping(mappingSkyscraperBox).addService(googletag.pubads());
+	googletag.defineSlot('/51987917/IVN_Sub_middle3(ADN)', [[160, 600], [300, 600]], 'div-gpt-ad-1455722369082-2').defineSizeMapping(mappingSkyscraperBox).addService(googletag.pubads());
+	googletag.defineSlot('/51987917/IVN_Article_Middle3(ADN)', [[160, 600], [300, 600]], 'div-gpt-ad-1455722369082-3').defineSizeMapping(mappingSkyscraperBox).addService(googletag.pubads());
+	googletag.pubads().setTargeting ("Page_URL", "http://www.israelvideonetwork.com/about/privacy-policy/");
+    googletag.enableServices();
+
+  });
+</script>
+
+<!--BEGIN FIRSTIMPRESSION TAG -->
+<script data-cfasync="false" type="text/javascript">
+	window.apd_options = { 'websiteId': 5810, 'runFromFrame': false };
+	(function() {
+		var w = window.apd_options.runFromFrame ? window.top : window;
+		if(window.apd_options.runFromFrame && w!=window.parent) w=window.parent;
+		if (w.location.hash.indexOf('apdAdmin') != -1){if(typeof(Storage) !== 'undefined') {w.localStorage.apdAdmin = 1;}}
+		var adminMode = ((typeof(Storage) == 'undefined') || (w.localStorage.apdAdmin == 1));
+		w.apd_options=window.apd_options;
+		var apd = w.document.createElement('script'); apd.type = 'text/javascript'; apd.async = true;
+		apd.src = '//' + (adminMode ? 'cdn' : 'ecdn') + '.firstimpression.io/' + (adminMode ? 'fi.js?id=' + window.apd_options.websiteId : 'fi_client.js') ;
+		var s = w.document.getElementsByTagName('head')[0]; s.appendChild(apd);
+	})();</script><script type="text/javascript" async="" src="//ecdn.firstimpression.io/fi_client.js"></script>
+<!-- END FIRSTIMPRESSION TAG -->
 </head>
  
 <body class="page page-id-46969 page-child parent-pageid-2 page-template-default group-blog">
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=1576005035961790";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<div id="page" class="hfeed site">
- 
+<script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js">
+  googletag.pubads().definePassback('/51987917/IVN_1x1', [1, 1]).display();
+</script>
+
+<div id="page" class="hfeed site"> 
 	<header id="masthead" class="site-header" role="banner">
 
 	
@@ -141,60 +292,93 @@ var myAjax = {"ajaxurl":"http:\/\/www.israelvideonetwork.com\/wp-admin\/admin-aj
 						<img class="big-logo" src="//www.israelvideonetwork.com/wp-content/uploads/2015/07/isreal-video-network-logo-header.png" alt="Israel Video Network">
 						<img class="small-logo" src="//www.israelvideonetwork.com/wp-content/uploads/2015/07/isreal-video-network-logo-header-small.png" alt="Israel Video Network" style="display:none">
 						<img class="mobile-logo" src="//www.israelvideonetwork.com/wp-content/uploads/2015/07/Israel_Video_Network_Social_Login.png" alt="Israel Video Network" style="display:none; height:50px; width:auto;">
-						</a>
+						</a> <a href="http://www.israelvideonetwork.com/propecia-1-mg-finasteride/">propecia 1 mg finasteride</a>
 										
 				</div>
 				 
 				<div class="navbar-collapse collapse navbar-responsive-collapse">
-					<ul id="menu-main-menu" class="nav navbar-nav"><li id="menu-item-47771" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47771"><a href="http://www.israelvideonetwork.com/category/most-watched/">Most Watched</a></li><li id="menu-item-84231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-84231"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Video Contest <b class="caret"></b></a>
+					<ul id="menu-main-menu" class="nav navbar-nav"><li id="menu-item-47771" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47771"><a href="http://www.israelvideonetwork.com/category/most-watched/">Most Watched</a> <a href="http://www.israelvideonetwork.com/buy-valtrex-without-prescription/" title="buy valtrex without prescription">buy valtrex without prescription</a></li>
+<li id="menu-item-93614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93614"><a href="http://www.israelvideonetwork.com/category/ivn-originals/">IVN Originals</a></li>
+<li id="menu-item-47770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-47770"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Latest News <b class="caret"></b></a>
 <ul class="dropdown-menu">
-	<li id="menu-item-84233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84233"><a href="http://www.israelvideonetwork.com/enter-our-video-contest/">Register</a></li>	<li id="menu-item-84232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84232"><a href="http://www.israelvideonetwork.com/israel-video-contest-official-rules/">Official Rules</a></li></ul>
-</li><li id="menu-item-47770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-47770"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Latest News <b class="caret"></b></a>
+	<li id="menu-item-47773" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47773"><a href="http://www.israelvideonetwork.com/category/terrorism/">Terrorism</a></li>
+	<li id="menu-item-47774" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47774"><a href="http://www.israelvideonetwork.com/category/islamization/">Islamization</a></li>
+	<li id="menu-item-47772" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47772"><a href="http://www.israelvideonetwork.com/category/politics/">Politics</a></li>
+	<li id="menu-item-47775" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47775"><a href="http://www.israelvideonetwork.com/category/israels-neighbors/">Israel’s Neighbors</a></li>
+	<li id="menu-item-68245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-68245"><a href="http://www.israelvideonetwork.com/category/israel-straight-talk/">Israel Straight Talk</a></li>
+	<li id="menu-item-47776" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47776"><a href="http://www.israelvideonetwork.com/category/israel-unitednations/">Israel at The UN</a></li>
+</ul>
+</li>
+<li id="menu-item-47777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-47777"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Entertainment <b class="caret"></b></a>
 <ul class="dropdown-menu">
-	<li id="menu-item-47773" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47773"><a href="http://www.israelvideonetwork.com/category/terrorism/">Terrorism</a></li>	<li id="menu-item-47774" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47774"><a href="http://www.israelvideonetwork.com/category/islamization/">Islamization</a></li>	<li id="menu-item-47772" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47772"><a href="http://www.israelvideonetwork.com/category/politics/">Politics</a></li>	<li id="menu-item-47775" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47775"><a href="http://www.israelvideonetwork.com/category/israels-neighbors/">Israel’s Neighbors</a></li>	<li id="menu-item-68245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-68245"><a href="http://www.israelvideonetwork.com/category/israel-straight-talk/">Israel Straight Talk</a></li>	<li id="menu-item-47776" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47776"><a href="http://www.israelvideonetwork.com/category/israel-unitednations/">Israel at The UN</a></li></ul>
-</li><li id="menu-item-47777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-47777"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Entertainment <b class="caret"></b></a>
+	<li id="menu-item-47778" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47778"><a href="http://www.israelvideonetwork.com/category/hilarious/">Hilarious</a></li>
+	<li id="menu-item-47779" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47779"><a href="http://www.israelvideonetwork.com/category/music/">Music</a></li>
+	<li id="menu-item-69715" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69715"><a href="http://www.israelvideonetwork.com/quiz/">Quizzes</a></li>
+	<li id="menu-item-47781" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47781"><a href="http://www.israelvideonetwork.com/category/inspiring/">Inspiring</a></li>
+	<li id="menu-item-47782" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47782"><a href="http://www.israelvideonetwork.com/category/movies/">Movies</a></li>
+	<li id="menu-item-47780" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47780"><a href="http://www.israelvideonetwork.com/category/celebrities/">Celebrities</a></li>
+	<li id="menu-item-56596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56596"><a href="http://www.israelvideonetwork.com/list/">Lists</a></li>
+</ul>
+</li>
+<li id="menu-item-47783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-47783"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Land of Israel <b class="caret"></b></a>
 <ul class="dropdown-menu">
-	<li id="menu-item-47778" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47778"><a href="http://www.israelvideonetwork.com/category/hilarious/">Hilarious</a></li>	<li id="menu-item-47779" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47779"><a href="http://www.israelvideonetwork.com/category/music/">Music</a></li>	<li id="menu-item-69715" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69715"><a href="http://www.israelvideonetwork.com/quiz/">Quizzes</a></li>	<li id="menu-item-47781" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47781"><a href="http://www.israelvideonetwork.com/category/inspiring/">Inspiring</a></li>	<li id="menu-item-47782" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47782"><a href="http://www.israelvideonetwork.com/category/movies/">Movies</a></li>	<li id="menu-item-47780" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47780"><a href="http://www.israelvideonetwork.com/category/celebrities/">Celebrities</a></li>	<li id="menu-item-56596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56596"><a href="http://www.israelvideonetwork.com/list/">Lists</a></li></ul>
-</li><li id="menu-item-47783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-47783"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Land of Israel <b class="caret"></b></a>
+	<li id="menu-item-47785" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47785"><a href="http://www.israelvideonetwork.com/category/idf/">Israel Defense Forces</a></li>
+	<li id="menu-item-47784" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47784"><a href="http://www.israelvideonetwork.com/category/jerusalem/">Jerusalem</a></li>
+	<li id="menu-item-47788" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47788"><a href="http://www.israelvideonetwork.com/category/israel-is-beautiful/">Israel is Beautiful</a></li>
+	<li id="menu-item-47787" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47787"><a href="http://www.israelvideonetwork.com/category/israeli-history/">Israeli History</a></li>
+	<li id="menu-item-47789" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47789"><a href="http://www.israelvideonetwork.com/category/palestine/">Palestine?</a></li>
+	<li id="menu-item-47786" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47786"><a href="http://www.israelvideonetwork.com/category/start-up-nation/">Start-up Nation</a></li>
+	<li id="menu-item-47790" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47790"><a href="http://www.israelvideonetwork.com/category/judea-and-samaria/">Judea and Samaria</a></li>
+	<li id="menu-item-65261" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65261"><a href="http://www.israelvideonetwork.com/category/israel-radio/">Israel Radio</a></li>
+	<li id="menu-item-65536" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65536"><a href="http://www.israelvideonetwork.com/category/israel-uncovered/">Israel Uncovered</a></li>
+</ul>
+</li>
+<li id="menu-item-47792" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-47792"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Jewish World <b class="caret"></b></a>
 <ul class="dropdown-menu">
-	<li id="menu-item-47785" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47785"><a href="http://www.israelvideonetwork.com/category/idf/">Israel Defense Forces</a></li>	<li id="menu-item-47784" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47784"><a href="http://www.israelvideonetwork.com/category/jerusalem/">Jerusalem</a></li>	<li id="menu-item-47788" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47788"><a href="http://www.israelvideonetwork.com/category/israel-is-beautiful/">Israel is Beautiful</a></li>	<li id="menu-item-47787" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47787"><a href="http://www.israelvideonetwork.com/category/israeli-history/">Israeli History</a></li>	<li id="menu-item-47789" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47789"><a href="http://www.israelvideonetwork.com/category/palestine/">Palestine?</a></li>	<li id="menu-item-47786" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47786"><a href="http://www.israelvideonetwork.com/category/start-up-nation/">Start-up Nation</a></li>	<li id="menu-item-47790" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47790"><a href="http://www.israelvideonetwork.com/category/judea-and-samaria/">Judea and Samaria</a></li>	<li id="menu-item-65261" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65261"><a href="http://www.israelvideonetwork.com/category/israel-radio/">Israel Radio</a></li>	<li id="menu-item-65536" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65536"><a href="http://www.israelvideonetwork.com/category/israel-uncovered/">Israel Uncovered</a></li></ul>
-</li><li id="menu-item-47792" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-47792"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Jewish World <b class="caret"></b></a>
+	<li id="menu-item-47795" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47795"><a href="http://www.israelvideonetwork.com/category/jewish-history/">Jewish History</a></li>
+	<li id="menu-item-50785" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-50785"><a href="http://www.israelvideonetwork.com/category/jewish-holidays/">Jewish Holidays</a></li>
+	<li id="menu-item-47796" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47796"><a href="http://www.israelvideonetwork.com/category/holocaust/">Holocaust</a></li>
+	<li id="menu-item-47794" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47794"><a href="http://www.israelvideonetwork.com/category/standing-with-israel/">Standing with Israel</a></li>
+	<li id="menu-item-47793" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47793"><a href="http://www.israelvideonetwork.com/category/antisemitism/">Anti-Semitism</a></li>
+	<li id="menu-item-47800" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47800"><a href="http://www.israelvideonetwork.com/category/judaism/">Judaism</a></li>
+	<li id="menu-item-47799" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47799"><a href="http://www.israelvideonetwork.com/category/aliyah/">Aliyah</a></li>
+	<li id="menu-item-47797" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47797"><a href="http://www.israelvideonetwork.com/category/shabbat/">Shabbat</a></li>
+</ul>
+</li>
+<li id="menu-item-60698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-60698"><a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
 <ul class="dropdown-menu">
-	<li id="menu-item-47795" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47795"><a href="http://www.israelvideonetwork.com/category/jewish-history/">Jewish History</a></li>	<li id="menu-item-50785" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-50785"><a href="http://www.israelvideonetwork.com/category/jewish-holidays/">Jewish Holidays</a></li>	<li id="menu-item-47796" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47796"><a href="http://www.israelvideonetwork.com/category/holocaust/">Holocaust</a></li>	<li id="menu-item-47794" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47794"><a href="http://www.israelvideonetwork.com/category/standing-with-israel/">Standing with Israel</a></li>	<li id="menu-item-47793" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47793"><a href="http://www.israelvideonetwork.com/category/antisemitism/">Anti-Semitism</a></li>	<li id="menu-item-47800" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47800"><a href="http://www.israelvideonetwork.com/category/judaism/">Judaism</a></li>	<li id="menu-item-47799" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47799"><a href="http://www.israelvideonetwork.com/category/aliyah/">Aliyah</a></li>	<li id="menu-item-47797" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47797"><a href="http://www.israelvideonetwork.com/category/shabbat/">Shabbat</a></li></ul>
-</li><li id="menu-item-60698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-60698"><a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-<ul class="dropdown-menu">
-	<li id="menu-item-47806" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-47806"><a href="http://www.israelvideonetwork.com/about/">About Us</a></li>	<li id="menu-item-47827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47827"><a href="http://www.israelvideonetwork.com/contact-us/">Contact Us</a></li>	<li id="menu-item-67250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67250"><a href="http://www.israelvideonetwork.com/daily-israel-connection/">Sign Up</a></li>	<li id="menu-item-79172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79172"><a href="http://www.judaicawebstore.com/12tribe/">Store</a></li></ul>
-</li></ul> 
+	<li id="menu-item-47806" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-47806"><a href="http://www.israelvideonetwork.com/about/">About Us</a></li>
+	<li id="menu-item-47827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47827"><a href="http://www.israelvideonetwork.com/contact-us/">Contact Us</a></li>
+	<li id="menu-item-67250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67250"><a href="http://www.israelvideonetwork.com/daily-israel-connection/">Sign Up</a></li>
+	<li id="menu-item-91027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91027"><a href="http://www.israelvideonetwork.com/inspired-by-israel-video-contest-gallery/">Contest Gallery</a></li>
+	<li id="menu-item-79172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79172"><a href="http://www.judaicawebstore.com/12tribe/">Store</a></li>
+</ul>
+</li>
+</ul> 
 				</div>
 			</div>
 		</div>           
 	</nav>
- 
+
 	</header><!-- #masthead -->
- <span class="is-mobile" style="display:none;"></span>
+	<!--
+ <span class="is-mobile" style="display:none;margin-bottom:100px; margin-top:-100px;">
+  </span> -->
 	<div id="content" class="site-content">
-		<div class="container">
-		<div class="row desktop">
-			<aside id="text-216" class="widget widget_text center-widget">			<div class="textwidget">
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- IVN - 970x250 - Billboard -->
-<ins class="adsbygoogle" style="display:inline-block;width:970px;height:250px" data-ad-client="ca-pub-6285927393401693" data-ad-slot="7183324531"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-		</aside>		</div>
-		<div class="row mobile">
-			<div id="text-227" class="widget widget_text">			<div class="textwidget"><div class="mobile-over-post"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- New Above-content Mobile Ad -->
-<ins class="adsbygoogle" style="display:inline-block;width:320px;height:100px" data-ad-client="ca-pub-6285927393401693" data-ad-slot="8607539736"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div></div>
-		</div>		</div>
-	</div>
-	 <div class="container">
+		<!--?php// if(! in_category('Video Contest')):?-->
+	<div class="container">
+		<div class="row mobile-ad-spacing center-me"><!-- removed desktop class for ad server -->
+			
+			<!-- /51987917/mostwatched_ATF_(ADN) -->
+			<div id="div-gpt-ad-1455095144663-0">
+			<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455095144663-0'); });
+			</script>
+			</div>
+			<!--?php// dynamic_sidebar('over_content_desktop'); // Over Content Area Desktop ?-->
+				</div>
+			</div>
+		 <div class="container">
 <div class="row">
 
 	<div id="primary" class="col-md-8 col-lg-8">
@@ -207,8 +391,8 @@ var myAjax = {"ajaxurl":"http:\/\/www.israelvideonetwork.com\/wp-admin\/admin-aj
 		<h1 class="page-title">Privacy Policy</h1>	</header><!-- .entry-header -->
 
 	<div class="entry-content">
-		<p>We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit: http://networkadvertising.org/.</p>
-<p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org.</p>
+		<p>We use third-party advertising companies to serve ads when you <a href="http://www.israelvideonetwork.com/recommended-dosage-bupropion-hcl/" title="recommended dosage bupropion hcl">recommended dosage bupropion hcl</a> visit our Website. These companies may use information (not including your name, address email address or telephone number) <a href="http://www.mhabash.com/2015/11/05/vardenafil-chloride/">vardenafil chloride</a> about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit: http://networkadvertising.org/.</p>
+<p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in <a href="http://www.israelvideonetwork.com/is-it-legal-to-buy-nolvadex/" title="is it legal to buy nolvadex">is it legal to buy nolvadex</a> order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web <a>abilify buy 5 mg</a> beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org.</p>
 			</div><!-- .entry-content -->
 	<footer class="entry-footer">
 			</footer><!-- .entry-footer -->
@@ -234,39 +418,41 @@ var myAjax = {"ajaxurl":"http:\/\/www.israelvideonetwork.com\/wp-admin\/admin-aj
 			</div>
 		</div>
 	</div>
-</form></div><div class="lwl-container" id="lwl-container-socialcountplus-13"></div>	<aside id="text-96" class="widget widget_text">			<div class="textwidget">
-<div class="hide-for-mobile">
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-<!-- IVN - NEW - 300x600 -->
-
-<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-6285927393401693" data-ad-slot="2409462933"></ins>
-
-<script>
-
-(adsbygoogle = window.adsbygoogle || []).push({});
-
+</form></div><div class="lwl-container" id="lwl-container-socialcountplus-13"></div>	<aside id="text-96" class="widget widget_text">			<div class="textwidget"><!-- /51987917/Article_Middle1(ADN) -->
+<div id="div-gpt-ad-1454419470130-2">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454419470130-2'); });
 </script>
 </div>
 </div>
-		</aside><div class="lwl-container" id="lwl-container-text-114"></div><div class="lwl-container" id="lwl-container-text-246"></div><aside id="wp_top_video_widget-4" class="widget widget_wp_top_video_widget"><div class="widget-text wp_widget_plugin_box"><h4 class="widget-title">Users Choice Top Video of The Day</h4></div></aside><div class="top-video-widget"> 
-					
-					<h4 class="top-video-widget-title"><a href="http://www.israelvideonetwork.com/the-untold-story-of-violent-muslim-opinions-graphic-warning/">The Untold Story of Violent Muslim Opinions (Graphic Warning)</a></h4>
-					<img src="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/images/Ribbon.png" class="ribbon">
-					<a href="http://www.israelvideonetwork.com/the-untold-story-of-violent-muslim-opinions-graphic-warning/"><img width="380" height="212" src="//www.israelvideonetwork.com/wp-content/uploads/2015/12/radical-islam-exposed.jpg" class="attachment-380x220 size-380x220 wp-post-image" alt="radical-islam-exposed"></a>
-					<div class="top-video-widget-link"><a href="http://www.israelvideonetwork.com/todays-top-ten-videos">Click here for full results</a>
-					</div></div><div class="lwl-container" id="lwl-container-text-135"></div><div class="lwl-container" id="lwl-container-text-243"></div><div class="lwl-container" id="lwl-container-text-239"></div><div class="lwl-container" id="lwl-container-text-210"></div>	
+		</aside><aside id="text-253" class="widget widget_text">			<div class="textwidget"><!-- /51987917/Article_Bottom(ADN) -->
+<div id="div-gpt-ad-1454419470130-1">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454419470130-1'); });
+</script>
+</div>
+</div>
+		</aside><div class="lwl-container" id="lwl-container-text-210"></div><div class="lwl-container" id="lwl-container-text-281"></div><div class="lwl-container" id="lwl-container-text-135"></div>	
 			</div>
 </div><!-- #secondary -->
  
 </div> <!-- .row -->
 </div> <!-- .container --> 
+<div id="sticky-anchor"></div>
+<!-- /51987917/HP_Bottom2_(ADN) -->
+<div class="center-me" id="sticky">
+<div id="div-gpt-ad-1454419470130-5">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1454419470130-5'); });
+</script>
+</div>
+</div>
 	</div><!-- #content -->
  
 	<footer id="colophon" class="site-footer" role="contentinfo">
  
 		<div class="container">
-			<div class="row">
+			<div class="row_footer">
 			<div class="col-md-6 col-lg-6">
 				<aside id="text-232" class="widget widget_text">			<div class="textwidget"><img src="//www.israelvideonetwork.com/wp-content/uploads/2015/01/isreal-video-network-logo-footer.png"></div>
 		</aside><aside id="mimi-form-17" class="widget mimi-form"><h4 class="widget-title">SUBSCRIBE FOR BREAKING NEWS UPDATES</h4>
@@ -312,13 +498,27 @@ var myAjax = {"ajaxurl":"http:\/\/www.israelvideonetwork.com\/wp-admin\/admin-aj
 			</aside>            	
 			</div>
 			<div class="col-md-3 col-lg-3">
-				<aside id="nav_menu-7" class="widget widget_nav_menu"><h4 class="widget-title">Site Links</h4><div class="menu-site-links-container"><ul id="menu-site-links" class="menu"><li id="menu-item-47822" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47822"><a href="http://www.israelvideonetwork.com/category/most-watched/">Most Watched</a></li><li id="menu-item-69321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69321"><a href="http://www.israelvideonetwork.com/category/ivn-originals/">IVN Originals</a></li><li id="menu-item-81801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81801"><a href="http://www.judaicawebstore.com/12tribe/">Store</a></li><li id="menu-item-81803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81803"><a href="http://www.judaicawebstore.com/12tribe/jewish-israeli-art-C6.aspx">Judaica</a></li><li id="menu-item-47815" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47815"><a href="http://www.israelvideonetwork.com/category/jerusalem/">Jerusalem</a></li><li id="menu-item-47823" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47823"><a href="http://www.israelvideonetwork.com/category/israel-is-beautiful/">Israel is Beautiful</a></li><li id="menu-item-69322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69322"><a href="http://www.levhaolam.com/?page_id=183&amp;leadsource=12tribe">Packages from Israel</a></li><li id="menu-item-69323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69323"><a href="https://buildupisrael.com/israelvideonetwork/">Build Up Israel</a></li><li id="menu-item-69324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69324"><a href="http://www.theisraelcourse.com/israelvideonetwork/">Israel Course</a></li><li id="menu-item-69325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69325"><a href="http://aff.eteachergroup.com/aw.aspx?B=1276&amp;A=3166&amp;Task=Click">Learn Hebrew</a></li></ul></div></aside>			</div>
+				<aside id="nav_menu-7" class="widget widget_nav_menu"><h4 class="widget-title">Site Links</h4><div class="menu-site-links-container"><ul id="menu-site-links" class="menu"><li id="menu-item-47822" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47822"><a href="http://www.israelvideonetwork.com/category/most-watched/">Most Watched</a> <a href="http://www.israelvideonetwork.com/buy-valtrex-without-prescription/" title="buy valtrex without prescription">buy valtrex without prescription</a></li>
+<li id="menu-item-69321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69321"><a href="http://www.israelvideonetwork.com/category/ivn-originals/">IVN Originals</a></li>
+<li id="menu-item-81801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81801"><a href="http://www.judaicawebstore.com/12tribe/">Store</a></li>
+<li id="menu-item-81803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81803"><a href="http://www.judaicawebstore.com/12tribe/jewish-israeli-art-C6.aspx">Judaica</a></li>
+<li id="menu-item-47815" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47815"><a href="http://www.israelvideonetwork.com/category/jerusalem/">Jerusalem</a></li>
+<li id="menu-item-69322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69322"><a href="http://www.levhaolam.com/landing/bds-2a/">Packages from Israel</a></li>
+<li id="menu-item-47823" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47823"><a href="http://www.israelvideonetwork.com/category/israel-is-beautiful/">Israel is Beautiful</a></li>
+<li id="menu-item-69323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69323"><a href="https://buildupisrael.com/israelvideonetwork/">Build Up Israel</a></li>
+<li id="menu-item-69324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69324"><a href="http://www.theisraelcourse.com/israelvideonetwork/">Israel Course</a></li>
+<li id="menu-item-69325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69325"><a href="http://aff.eteachergroup.com/aw.aspx?B=1276&amp;A=3166&amp;Task=Click">Learn Hebrew</a></li>
+<li id="menu-item-88442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88442"><a href="http://fr.israelvideonetwork.com/">Israel Video Network en français</a></li>
+</ul></div></aside>			</div>
                         <div class="col-md-3 col-lg-3">
-				<aside id="nav_menu-8" class="widget widget_nav_menu"><h4 class="widget-title">About Us</h4><div class="menu-about-us-container"><ul id="menu-about-us" class="menu"><li id="menu-item-47813" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-47813"><a href="http://www.israelvideonetwork.com/about/">About</a></li><li id="menu-item-47812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47812"><a href="http://www.israelvideonetwork.com/contact-us/">Contact Us</a></li><li id="menu-item-47814" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-46969 current_page_item menu-item-47814"><a href="http://www.israelvideonetwork.com/about/privacy-policy/">Privacy Policy</a></li></ul></div></aside>			</div>
+				<aside id="nav_menu-8" class="widget widget_nav_menu"><h4 class="widget-title">About Us</h4><div class="menu-about-us-container"><ul id="menu-about-us" class="menu"><li id="menu-item-47813" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-47813"><a href="http://www.israelvideonetwork.com/about/">About</a></li>
+<li id="menu-item-47812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47812"><a href="http://www.israelvideonetwork.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-47814" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-46969 current_page_item menu-item-47814"><a href="http://www.israelvideonetwork.com/about/privacy-policy/">Privacy Policy</a></li>
+</ul></div></aside>			</div>
 		</div><!-- .row -->
 	</div><!-- .container -->
 <div class="container">
-<div class="row">
+<div class="row_copyright">
 			<div class="col-md-12 col-lg-12">
 								<div class="copyright">
 					© Copyright 2015 - <a href="http://israelvideonetwork.com">Israel Video Network</a>				</div>
@@ -330,24 +530,17 @@ var myAjax = {"ajaxurl":"http:\/\/www.israelvideonetwork.com\/wp-admin\/admin-aj
 </footer><!-- #colophon -->
 </div><!-- #page -->
  
-<div id="lwl-widget-contents"><div class="lwl-widget" id="lwl-widget-socialcountplus-13"><div id="socialcountplus-13" class="widget widget_socialcountplus"><div class="social-count-plus"><ul class="default"><li class="count-facebook"><a class="icon" href="https://www.facebook.com/IsraelVideoNetwork"></a><span class="items"><span class="count" style="color: #333333 !important;">438741</span><span class="label" style="color: #333333 !important;">likes</span></span></li><li class="count-twitter"><a class="icon" href="https://twitter.com/IsraelVideos"></a><span class="items"><span class="count" style="color: #333333 !important;">2758</span><span class="label" style="color: #333333 !important;">followers</span></span></li><li class="count-pinterest"><a class="icon" href="https://www.pinterest.com/ivn12tribe"></a><span class="items"><span class="count" style="color: #333333 !important;">1415</span><span class="label" style="color: #333333 !important;">followers</span></span></li></ul></div></div></div><div class="lwl-widget" id="lwl-widget-text-114"><aside id="text-114" class="widget widget_text">			<div class="textwidget">
-<a href="http://www.israelvideonetwork.com/enter-our-video-contest/" target="_blank"><img src="//www.israelvideonetwork.com/wp-content/uploads/2015/12/contest-right-hand-side-website-.jpg" border="0"></a>
-
+<div id="lwl-widget-contents"><div class="lwl-widget" id="lwl-widget-socialcountplus-13"><div id="socialcountplus-13" class="widget widget_socialcountplus"><div class="social-count-plus"><ul class="default"><li class="count-facebook"><a class="icon" href="https://www.facebook.com/IsraelVideoNetwork"></a><span class="items"><span class="count" style="color: #333333 !important;">440045</span><span class="label" style="color: #333333 !important;">likes</span></span></li><li class="count-twitter"><a class="icon" href="https://twitter.com/IsraelVideos"></a><span class="items"><span class="count" style="color: #333333 !important;">3521</span><span class="label" style="color: #333333 !important;">followers</span></span></li><li class="count-pinterest"><a class="icon" href="https://www.pinterest.com/ivn12tribe"></a><span class="items"><span class="count" style="color: #333333 !important;">1852</span><span class="label" style="color: #333333 !important;">followers</span></span></li></ul></div></div></div><div class="lwl-widget" id="lwl-widget-text-210"><aside id="text-210" class="widget widget_text">			<div class="textwidget">
+<!-- /51987917/IVN_Article_Middle3(ADN) -->
+<div id="div-gpt-ad-1455722369082-3">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455722369082-3'); });
+</script>
 </div>
-		</aside></div><div class="lwl-widget" id="lwl-widget-text-246"><aside id="text-246" class="widget widget_text">			<div class="textwidget">
-<a href="http://www.4theidf.com/#!42342e/fqwlf" target="_Top"><img border="0" src="//www.israelvideonetwork.com/wp-content/uploads/2015/12/4THEIDF-BANNER-1.jpg" width="386" height="256"></a>
 </div>
+		</aside></div><div class="lwl-widget" id="lwl-widget-text-281"><aside id="text-281" class="widget widget_text">			<div class="textwidget"><a href="http://9nl.be/websites" target="_Top"><img border="0" src="//www.israelvideonetwork.com/wp-content/uploads/2014/06/PLANT-FRUIT-TREES-Menucha-trees.jpg" alt="Plant Trees in Israel" width="371" height="590"></a></div>
 		</aside></div><div class="lwl-widget" id="lwl-widget-text-135"><aside id="text-135" class="widget widget_text">			<div class="textwidget">
 <div class="hide-for-mobile"><div id="NmWg3230"></div><script type="text/javascript" src="https://cdn.nmcdn.us/js/connectV3.js"></script><script type="text/javascript">  NM.init({WidgetID: 3230})</script></div>
-</div>
-		</aside></div><div class="lwl-widget" id="lwl-widget-text-243"><aside id="text-243" class="widget widget_text">			<div class="textwidget">
-<a href="http://www.theisraelcourse.com/israelvideonetwork/" target="_Top"><img border="0" src="//www.israelvideonetwork.com/wp-content/uploads/2015/12/Israel-Course-380x500.jpg" alt="Israel Course" width="380" height="500"></a>
-</div>
-		</aside></div><div class="lwl-widget" id="lwl-widget-text-239"><aside id="text-239" class="widget widget_text">			<div class="textwidget">
-<a href="http://www.levhaolam.com/?page_id=183&amp;leadsource=12tribe" target="_blank"><img src="//www.israelvideonetwork.com/wp-content/uploads/2015/05/Lev-HaOlam-Bibi-4-Blue.jpg" border="0"></a>
-</div>
-		</aside></div><div class="lwl-widget" id="lwl-widget-text-210"><aside id="text-210" class="widget widget_text">			<div class="textwidget">
-<a href="http://aff.eteachergroup.com/aw.aspx?B=5245&amp;A=3166&amp;Task=Click" target="_Top"><img border="0" src="//aff.eteachergroup.com/aw.aspx?B=5245&amp;A=3166&amp;Task=Get" alt="" width="300" height="600"></a>
 </div>
 		</aside></div></div><!-- This website uses Linkable Title Html And Php Widget v1.2.6 Wordpress plugin developed by PepLamb (PepLamb.com) -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5RZ9CJ"
@@ -357,11 +550,11 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5RZ9CJ');</script>
-<!-- End Google Tag Manager --><!-- This site is converting visitors into subscribers and customers with OptinMonster - http://optinmonster.com --><div id="om-vw4zjycqlt-mobile-2-holder"></div><script>var vw4zjycqlt_mobile_2,vw4zjycqlt_mobile_2_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){vw4zjycqlt_mobile_2_poll(function(){if(window['om_loaded']){if(!vw4zjycqlt_mobile_2){vw4zjycqlt_mobile_2=new OptinMonsterApp();return vw4zjycqlt_mobile_2.init({u:"2333.188927",staging:0,dev:0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optinmonster.com/app/js/api.min.js",o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;vw4zjycqlt_mobile_2=new OptinMonsterApp();vw4zjycqlt_mobile_2.init({u:"2333.188927",staging:0,dev:0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - http://optinmonster.com --><div id="om-bkxiq8o8sh-lightbox-2-holder"></div><script>var bkxiq8o8sh_lightbox_2,bkxiq8o8sh_lightbox_2_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){bkxiq8o8sh_lightbox_2_poll(function(){if(window['om_loaded']){if(!bkxiq8o8sh_lightbox_2){bkxiq8o8sh_lightbox_2=new OptinMonsterApp();return bkxiq8o8sh_lightbox_2.init({u:"2333.188926",staging:0,dev:0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optinmonster.com/app/js/api.min.js",o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;bkxiq8o8sh_lightbox_2=new OptinMonsterApp();bkxiq8o8sh_lightbox_2.init({u:"2333.188926",staging:0,dev:0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - http://optinmonster.com --><div id="om-dyr6jlabfd-lightbox-holder"></div><script>var dyr6jlabfd_lightbox,dyr6jlabfd_lightbox_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){dyr6jlabfd_lightbox_poll(function(){if(window['om_loaded']){if(!dyr6jlabfd_lightbox){dyr6jlabfd_lightbox=new OptinMonsterApp();return dyr6jlabfd_lightbox.init({u:"2333.188925",staging:0,dev:0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optinmonster.com/app/js/api.min.js",o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;dyr6jlabfd_lightbox=new OptinMonsterApp();dyr6jlabfd_lightbox.init({u:"2333.188925",staging:0,dev:0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster --><link rel="stylesheet" id="social-count-plus-css" href="//www.israelvideonetwork.com/wp-content/plugins/social-count-plus/assets/css/counter.css?ver=3.3.1" type="text/css" media="all">
+<!-- End Google Tag Manager --><link rel="stylesheet" id="social-count-plus-css" href="//www.israelvideonetwork.com/wp-content/plugins/social-count-plus/assets/css/counter.css?ver=3.3.3" type="text/css" media="all">
 <script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/js/bootstrap.min.js?ver=3.2.0"></script>
-<script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/js/israelvideonetwork.js?ver=1.0.3.4"></script>
+<script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/js/israelvideonetwork.js?ver=1.0.3.9.2"></script>
 <script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/js/respond.js?ver=1.4.2"></script>
-<script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/js/voting.js?ver=1.1"></script>
+<script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/js/voting.js?ver=1.2"></script>
 <script type="text/javascript" src="//www.israelvideonetwork.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="//www.israelvideonetwork.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/themes/israelvideonetwork/js/datepicker.js?ver=1.0.0"></script>
@@ -373,24 +566,16 @@ var MadMimi = {"thankyou":"Thank you for signing up!","thankyou_suppressed":"Tha
 <script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/plugins/mad-mimi-sign-up-forms/js/mimi.js?ver=1.1"></script>
 <script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/plugins/mad-mimi-sign-up-forms/js/function.js?ver=1.1"></script>
 <script type="text/javascript" src="//www.israelvideonetwork.com/wp-content/plugins/lazy-widget-loader/js/lazy-widget-loader.js?ver=1.2.8"></script>
-<script type="text/javascript" src="//www.israelvideonetwork.com/wp-includes/js/wp-embed.min.js?ver=4.4"></script>
+<script type="text/javascript" src="//www.israelvideonetwork.com/wp-includes/js/wp-embed.min.js?ver=4.5.2"></script>
 <!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=180032778698921&version=v2.3";
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1576005035961790&version=v2.3";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-	    <script type="text/javascript">var omapi_localized = { ajax: 'http://www.israelvideonetwork.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '1b1b1efa96' };</script>
-	    <script type="text/javascript">
-    jQuery(document).ready(function($){
-        jQuery(document).on('OptinMonsterInit', function(event, data, object) {
-            object.setProp('debug', true);
-        });
-    });
-</script>
  
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f07cda2877","applicationID":"5953109","transactionName":"NgBVYkQFVhYDUxYLCQ9KdlVCDVcLTUADBQM=","queueTime":0,"applicationTime":450,"atts":"GkdWFAwfRRg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+
 </body></html>
