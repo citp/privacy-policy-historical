@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galloimages.co.za privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134918id_/http%3A//galloimages.co.za/Page/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galloimages.co.za privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606203515id_/http%3A//www.galloimages.co.za/Page/PrivacyPolicy) for the most accurate reproduction.*
 
 # Gallo Images - Africa's source for Images, Footage and Event Services
 
