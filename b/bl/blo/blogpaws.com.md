@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogpaws.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114205id_/http%3A//blogpaws.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogpaws.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606173517id_/http%3A//blogpaws.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BlogPaws
 
