@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nogomi.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131240id_/http%3A//nogomistars.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nogomi.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606194707id_/http%3A//nogomistars.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -23,7 +23,7 @@ However, this can affect how you are able to interact with our site as well as o
 This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
 ***** Google, as a third party vendor, uses cookies to serve ads on your site.   
-***** Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
+***** Google�s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
 ***** Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 
