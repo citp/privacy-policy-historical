@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliantdirectories.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930122614id_/http%3A//www.brilliantdirectories.com/online-directory-script-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantdirectories.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606120259id_/http%3A//www.brilliantdirectories.com/online-directory-script-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Directory Software - Directory Script - Directory Template
 
@@ -134,3 +134,39 @@ Web Beacons:
 Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
 
 Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
+
+### The Best There Is
+
+_By Ebo O._
+
+My name is Ebo and I’m just making this quick video on behalf of Brilliant Directories. I recently bought my first license, but before I even going into talking about my license purchase, I want you guys to truly understand the journey that I’ve been through to get to this place – to find Brilliant Directories.
+
+Now one may wonder, “what took you so long to find Brilliant Directories?” But believe it or not, I’ve actually gone out of my way to pay money, and lost money, dealing with private developers trying to build my own platform to build a website, a directory website, a membership website to the same caliber that I can now build using the Brilliant Directories platform.
+
+You know to tell you the truth, I was lucky to have found this program at a time when I was able to get a big break on the price. But I was 100% prepared to pay full price for this software once I really understood the power. Once I understood that it was exactly that I was looking for, for over 10 years.
+
+With Brilliant Directories on your side and a license from them in your pocket, you will always be first to implement your idea. Doing my own research and hearing a whole bunch of heartfelt testimonials and actually test driving the software and seeing that it’s exactly what I’ve been looking for for the last ten years and longer – that’s what converted me.
+
+Invest in your dream.
+
+via YouTube.com
+
+×
+
+### Better Than WordPress
+
+_By Sean K._
+
+Hey guys. My name is Sean and I’m the owner of Website HQ. We buy, build and sell websites and domains all the time and I just want to tell you about Brilliant Directories and why I think that it’s by far the best solution for you if you are looking at a directory business model.
+
+So any time in the past before we were aware of Brilliant Directories, when we had a project like this come down, we would go out and we would look at WordPress themes and maybe develop a custom WordPress theme. And then we would cobble together this mishmash of plug-ins from a bunch of different developers and try to make everything work. We quickly realized that it’s a lot harder than it seems at first because you’re doing things like figuring out how to handle payment processing, recurring subscriptions, allowing your members to create their own profiles, customizing the login, the registration, multi-part forms… There’s just so much that goes into building a directory site that Brilliant Directories has taken off of your plate with their product.
+
+And having moved my directory sites to Brilliant Directories’ software from WordPress, from old antiquated scripts that I bought in 2005, I can tell you it’s just night and day better. The things that Brilliant Directories has thought through for you, that you no longer have to worry about, is a huge win. And it allows you to focus more on what’s really going to make a big difference for you and to make or break your site, which is your ability to go out and sell to numbers and persuade them to buy a listing on your directory or buy a membership so they can get the leads.
+
+It also allows you to focus on the other side of the equation which is just driving traffic to your site. So no more development headaches or even the design which is mostly taken care of for you and it’s so easy to customize for the brand you’re trying to build and the special angle that you have – the idea that you have for your specific directory.
+
+So if you’re looking at directory solutions, honestly I’ve looked at all of them. Brilliant Directories has nailed it. They’ve got Bootstrap on the front-end so if you’re looking to do some customization it’s just going to make it so much easier; and things like payment processing; they’ve even taken care of the hosting for you. It’s just hands down the best solution you’re going to find if you’re planning on building a directory site. So I hope this information is helpful to you. I can’t recommend Brilliant Directories enough and I wish you luck in your online ventures!
+
+via YouTube.com
+
+×
