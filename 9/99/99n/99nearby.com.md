@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99nearby.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612203337id_/http%3A//us.99nearby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99nearby.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606165712id_/http%3A//us.99nearby.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -20,8 +20,8 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 99Nearby may collect and use Users personal information for the following purposes:
 
-  * _To run a promotion, contest, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _To send periodic emails_ If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * _To run a promotion, contest, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them. 
+  * _To send periodic emails_ If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
 
 
