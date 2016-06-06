@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mod-minecraft.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134343id_/http%3A//mod-minecraft.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mod-minecraft.net privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606181109id_/http%3A//mod-minecraft.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Minecraft Mods
+# Privacy Policy | Minecraft Mods
 
 **Do we use cookies?**
 
