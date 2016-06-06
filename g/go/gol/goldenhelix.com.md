@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207094748id_/http%3A//goldenhelix.com/Company/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606172650id_/http%3A//goldenhelix.com/company/privacy_statement.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Golden Helix
 
-## Security Notice 
+### Security Notice
 
 The goldenhelix.com website is provided as a customer service by the **Golden Helix ® ** bioinformatics company.
 
@@ -10,11 +10,11 @@ Unauthorized attempts to upload information or change information on this servic
 
 Your use of this system is subject to monitoring at all times. For site security purposes and to ensure that this service remains available to all users, this computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-## Privacy Notice 
+### Privacy Notice
 
 Your privacy is important to Golden Helix. Because we gather certain types of information about visitors to Golden Helix's site, we want you to fully understand our online information gathering practices and the choices you can make about the way your information is collected and used.
 
-## Cookies
+#### Cookies
 
 A cookie is a small text file containing a unique identification number that is transferred from a website to the hard drive of your computer. This unique number identifies your web browser - but not you - to Golden Helix computers whenever you visit goldenhelix.com. A cookie will not provide personally identifiable information about you, such as your name and address. The only personal information a cookie can contain is information you provide to the website. A cookie can't read information off your hard disk or contained in files such as cookies from other websites. 
 
@@ -22,7 +22,7 @@ The use of cookies is now an industry standard, and cookies are currently used o
 
 To keep the playing field level, we want you to know that there are internet tools that are designed to let you visit websites incognito. Many such tools are built into your web browser. There is also third party software available, such as www.anonymizer.com. We do not advise against or recommend any of these tools; we only offer them for your education.
 
-## What Site Visitor Information Does GoldenHelix.com Collect?
+#### What Site Visitor Information Does GoldenHelix.com Collect?
 
 The information we learn from visitors helps us continually improve our information offering and the ease of use of our site. The types of information we collect is usually defined as being either anonymous or personally identifiable. 
 
@@ -42,29 +42,30 @@ You can choose not to provide certain information, but then you might not be abl
 
 Additionally, if you receive e-mail communications from Golden Helix, we sometimes receive a confirmation when you open e-mail from Golden Helix to help us make e-mails more useful and interesting. If you do not want to receive promotional e-mail or other mail from us, please follow the process to "opt-out" indicated below. 
 
-## Golden Helix’s Use of Personal Information 
+#### Golden Helix's Use of Personal Information
 
 Golden Helix will only use the personal information you have provided to register, license and electronically deliver software; respond to information requests; or to notify you about important product updates, technical support items, and special offers that should be of interest to you. 
 
 We do not sell, rent or lease your personal information to others. Golden Helix reserves the right to disclose any pertinent customer information to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.
 
-## Accessing and Correcting Your Information
+#### Accessing and Correcting Your Information
 
-To gain access to personal information about you collected online, and to keep it accurate, complete and current, or to request deletion, you may [contact us](https://web.archive.org/web/20151207094748id_/http%3A//goldenhelix.com/Company/contact.html) using any method convenient to you. Where offered, you also may update personal information about you online or inside the software by modifying information that you previously have entered into forms or data fields on our websites. 
+To gain access to personal information about you collected online, and to keep it accurate, complete and current, or to request deletion, you may [contact us](https://web.archive.org/web/20160606172650id_/http%3A//goldenhelix.com/company/contact.html) using any method convenient to you. Where offered, you also may update personal information about you online or inside the software by modifying information that you previously have entered into forms or data fields on our websites. 
 
 In some cases, where we are required to retain information by law or regulation, or to continue to manage a service you have requested, or to ensure that we honor your preferences, or for other necessary business purposes, we may not be able to delete certain personal information about you. Where permitted by law, your ability to access and correct personal information may be limited where access and correction would: inhibit Golden Helix's ability to comply with a legal or ethical obligation, inhibit Golden Helix's ability to investigate, make or defend legal claims, result in disclosure of personal information about a third party, result in breach of a contract or disclosure of trade secrets or other proprietary business information belonging to Golden Helix or a third party.
 
-## Opt-Out Process
+### Opt-Out Process
 
 Golden Helix values your privacy and our marketing practices follow applicable legislation, including [CAN-SPAM Act (USA)](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/can-spam-rule), [European Union Directive on Privacy and Electronic Communications](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0058:en:HTML), and [CASL (Canada)](http://laws-lois.justice.gc.ca/eng/annualstatutes/2010_23/FullText.html). 
 
 At any time you may "opt-out" of having your information used for purposes not directly related to our site or not directly related to your business transaction(s) with Golden Helix, including if you wish to not receive unsolicited e-mail marketing materials from us. To "opt-out", you may contact us using any of the following methods:
 
-E-mail: [unsubscribe@goldenhelix.com](mailto:unsubscribe@goldenhelix.com)
-
-Phone: 1-888-589-4629
-
-Mail: Golden Helix Inc, 203 Enterprise Blvd Ste 1, Bozeman, MT 59718 – USA
+> E-mail: 
+>      [unsubscribe@goldenhelix.com](mailto:unsubscribe@goldenhelix.com)
+> Phone: 
+>     1-888-589-4629
+> Mail: 
+>     Golden Helix Inc, 203 Enterprise Blvd Ste 1, Bozeman, MT 59718 – USA
 
 When you contact us, you must include the e-mail address(es) you wish to "opt-out". We will process all requests to "opt-out" within 10-days of receipt.
 
@@ -72,13 +73,13 @@ If you have received a promotional e-mail from us, you may also click the 'unsub
 
 Even if you have chosen to "opt-out" of promotional e-mails, you may still receive occasional e-mails from Golden Helix if you have a business relationship. These e-mails may include applicable software updates and support notices, e-mails regarding the renewal of your software, or e-mails directly relating to your current business transaction.
 
-## Acceptance of Terms
+### Acceptance of Terms
 
 You signify your assent to this Privacy Statement and any future changes to the Privacy Statement by using the Golden Helix website.
 
-## Disclaimer Notice
+### Disclaimer Notice
 
-This is a commercial website for authorized, unclassified use only. It is not designed nor authorized to transfer, process, or transmit classified/sensitive national security information.
+You signify your assent to this Privacy Statement and any future changes to the Privacy Statement by using the Golden Helix website.
 
 Information presented on goldenhelix.com is provided as a customer service and may not be distributed or copied unless appropriate byline, photo or image credits are given.
 
@@ -86,6 +87,6 @@ The goldenhelix.com administrative personnel do not have any authority, responsi
 
 Parts of the website may be restricted to Golden Helix, Inc. personnel only. You may use any link that is not locked to you. If the area is locked, you will receive an "access denied" error when attempting to follow the link.
 
-## Contact Us
+### Contact Us
 
-Golden Helix welcomes your suggestions that we may use to make our website easier to use or make the contents more relevant to our customers. If you have any questions or comments about the information presented, please [contact us](https://web.archive.org/web/20151207094748id_/http%3A//goldenhelix.com/Company/contact.html).
+Golden Helix welcomes your suggestions that we may use to make our website easier to use or make the contents more relevant to our customers. If you have any questions or comments about the information presented, please [contact us](https://web.archive.org/web/20160606172650id_/http%3A//goldenhelix.com/company/contact.html).
