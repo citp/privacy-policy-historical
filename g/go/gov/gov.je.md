@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.je privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207123508id_/http%3A//www.gov.je/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.je privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606194106id_/http%3A//www.gov.je/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -42,7 +42,7 @@ We use Google Analytics to help us understand how visitors engage with our websi
 
 ## IP address
 
-Your computer’s IP address is a number assigned to your computer when you use the internet.​ This is recorded automatically in a log file when you visit our site. This log file does not contain any personal identifiable information about you and will only be used for statistical purposes.
+Your computer’s IP address is a number assigned to your computer when you use the internet.​ This is recorded automatically in a log file when you visit our site. This log file does not contain any personal identifiable information about you.​
 
 ## Cookies
 
