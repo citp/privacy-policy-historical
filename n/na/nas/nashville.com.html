@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nashville.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207131851id_/http%3A//www.nashville.com/Privacy-Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nashville.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606200201id_/http%3A//www.nashville.com/Privacy-Policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <base href="http://www.nashville.com/">
@@ -24,27 +24,30 @@
 <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <!-- [endif]-->
 <!--[if IE]><![endif]-->
+ 
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
 <link href="http://www.nashville.com/css/home/reset.css" type="text/css" rel="stylesheet">
 <link href="http://www.nashville.com/css/home/style_latest.css" type="text/css" rel="stylesheet">
 <link href="http://www.nashville.com/css/datePicker.css" rel="stylesheet" type="text/css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery_1-5-1.min.js"></script>
 <script type="text/javascript" src="js/home/slides.min.jquery.js"></script>
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="js/home/fadeslideshow.js"></script>
-<script type="text/javascript" src="http://www.nashville.com/js/jquery/jquery.min.js"></script>
+ 
 <script type="text/javascript" src="http://www.nashville.com/js/jquery/date.js"></script>
 <script type="text/javascript" src="http://www.nashville.com/js/jquery/jquery.datepicker.js"></script>
-<script type="text/javascript" language="javascript1.5">
-	var n = jQuery.noConflict();  
+<script type="text/javascript">
+	var $ = jQuery;
+ 	var jquery_15 = jQuery; 
 	Date.format = 'mm/dd/yyyy';
-	n(function()
+	jquery_15.noConflict();
+	jquery_15(function()
 	{
-	n('.date-pick').datePicker({autoFocusNextInput: false, clickInput:false});
+		jquery_15('.date-pick').datePicker({autoFocusNextInput: false, clickInput:false});
 	});
 	
-	n(function()
+	jquery_15(function()
 	{
-		n('#newsstartdate').datePicker({autoFocusNextInput: false, clickInput:false,startDate: '01/01/1996',endDate: '12/07/2015'});
+		jquery_15('#newsstartdate').datePicker({autoFocusNextInput: false, clickInput:false,startDate: '01/01/1996',endDate: '06/06/2016'});
 	});
 	
 	
@@ -53,7 +56,7 @@
 var mygallery=new fadeSlideShow({
 	wrapperid: "fadeshow1", //ID of blank DIV on page to house Slideshow
 	dimensions: [728, 90], //width/height of gallery in pixels. Should reflect dimensions of largest image
-	imagearray: [["http://www.nashville.com/uploaded/banners/O_144805196116-0014-bnash_nashville.com_fnl1.jpg", "https://ad.doubleclick.net/ddm/clk/298385993;125509222;t", "_new", "70"],["http://www.nashville.com/uploaded/banners/O_1421012644golf.jpg" ,"http://www.golfclub.com", "_new", "160"]],
+	imagearray: [["http://www.nashville.com/uploaded/banners/O_144805196116-0014-bnash_nashville.com_fnl1.jpg" ,"https://ad.doubleclick.net/ddm/clk/298385993;125509222;t", "_new", "70"]],
 	displaymode: {type:'auto', pause:7000, cycles:0, wraparound:false},
 	persist: false, //remember last viewed slide and recall within same session?
 	fadeduration: 500, //transition duration (milliseconds)
@@ -72,17 +75,20 @@ var mygallery=new fadeSlideShow({
 })*/
 </script>
 <script type="text/javascript">
-	$(function(){
-		$('#slides_two').slides({
+ 
+	jquery_15(function(){
+		jquery_15('#slides_two').slides({
 			generateNextPrev: true,
 			play: 10000,
 			pause: 1000,
 			hoverPause: true,
 		});
 		
-		$.get('http://www.nashville.com/get_temperature.php', function(data) {
-		$('#topbar .ctemp').html(data);
-			//alert(data);
+		jquery_15.get('http://www.nashville.com/get_temperature.php', function(data) {
+			console.log(data);
+			/*if(data){
+				$('#topbar .ctemp').html(data);
+			}*/
 		});
 	});
 	function setcurrentpage(type)
@@ -120,19 +126,128 @@ var mygallery=new fadeSlideShow({
 			}, 1000); 
 </script>
 <style type="text/css" media="screen">#slides .slides_container{width:570px;height:170px;display:none;}#slides .slides_container div{width:570px;height:170px;display:block;}#slides_two .slides_container{width:365px;display:none;}#slides_two .slides_container div{width:365px;height:485px;display:block;}#slides_three .slides_container{width:200px;display:none;}#slides_three .slides_container div{width:200px;height:100px;display:block;}.pagination .current a{color:red;}hr{background:#efefef;}.gallerylayer a{display:inline!important;}</style>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
  
-<script type="text/javascript" src="http://secure.rezserver.com/js/bgiframe.js"></script>
-<script type="text/javascript">var rs_refID = 3368;
-var rs_currentProduct = 'hotel';
-//Force setting to local
+<script type="text/javascript" src="http://secure.rezserver.com/public/js/searchbox/searchbox.min.js"></script>
+<script type="text/javascript">
+	$.noConflict();
+	$ = jQuery;
+	var searchbox_options = {
+		refid:3368,
+		environment: "prod",
+		hotel:{
+			elements:{
+				autosuggest:".rs_autosuggest",
+				rooms:".rs_rooms",
+				search:".rs_search",
+				chk_in:".rs_chk_in, .rs_chk_in_calendar, .rs_date_chk_in",
+				chk_out:".rs_chk_out, .rs_chk_out_calendar, .rs_date_chk_out",
+				chk_in_display:".rs_date_chk_in",
+				chk_out_display:".rs_date_chk_out"
+			},
+			calendar:{
+				output_format:"<div class='rs_mobi_chk_day'>[d]</div><div class='rs_mobi_chk_month'>[F]</div>"
+			},
+			select_name:true
+		},
+		car:{
+			elements:{
+				from:".rs_pickup",
+				to:".rs_dropoff",
+				chk_in:".rs_chk_in, .rs_chk_in_calendar, .rs_date_chk_in",
+				chk_out:".rs_chk_out, .rs_chk_out_calendar, .rs_date_chk_out",
+				chk_in_display:".rs_date_chk_in",
+				chk_out_display:".rs_date_chk_out",				
+				search:".rs_search"
+			},
+			calendar:{
+				output_format:"<div class='rs_mobi_chk_day'>[d]</div><div class='rs_mobi_chk_month'>[F]</div>",
+			}		
+		},
+		air: {
+			elements: {
+				adults : '.rs_adults_input',
+				children : '.rs_child_input',			
+				chk_in: '.rs_chk_in, .rs_mobi_in',
+				chk_out: '.rs_chk_out, .rs_mobi_out',
+				chk_in_display: '.rs_mobiin',
+				chk_in1_display: '.rs_mobi1',
+				chk_out_display: '.rs_mobiout',
+				search:".rs_search"	
+			},
+			calendar: {
+				output_format: '<div class="rs_mobi_chk_day">[d]</div><div class="rs_mobi_chk_month">[F]</div>'
+			},
+			select_name:true
+		},
+		vp:{
+			elements:{
+				chk_in:".rs_chk_in, .rs_chk_in_calendar, .rs_date_chk_in",
+				chk_out:".rs_chk_out, .rs_chk_out_calendar, .rs_date_chk_out",
+				chk_in_display:".rs_date_chk_in",
+				chk_out_display:".rs_date_chk_out",				
+				search:".rs_search"
+			},
+			calendar:{
+				output_format:"<div class='rs_mobi_chk_day'>[d]</div><div class='rs_mobi_chk_month'>[F]</div>"
+			},
+			select_name:true
+		}
+	};
+	$(document).ready(function() {
+		$('#rs_multi').searchbox(searchbox_options);
+
+		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+		
+			$("<link/>", {
+			   rel: "stylesheet",
+			   type: "text/css",
+			   href: "css/mobile_search.css"
+			}).appendTo("head");
+		}
+
+		$('#different_return').click(function(){
+			 $(".rs_droppff_div").slideToggle();
+		});
+		$('.round-trip').click(function(){
+			$('#air_round_trip').show();
+			$('#air_one_way').hide();
+			$('#air_multi_dest').hide();
+		});
+
+		$('.one-way').click(function(){
+			$('#air_round_trip').hide();
+			$('#air_one_way').show();
+			$('#air_multi_dest').hide();
+		});
+
+		$('.multi-city').click(function(){
+			window.location = 'http://secure.rezserver.com/flights/home/?refid=3368&search_type=multi'
+			return false;
+		});	
+		var $icons = $('.rs_tabs');
+	    	$icons.click(function(){
+	       	$icons.removeClass('highlight_tab');
+	       	$(this).addClass('highlight_tab');
+	    });
+	    var $air_options = $('.rs_air_option');
+	    	$air_options.click(function(){
+			$air_options.removeClass('rs_air_highlight');
+			$(this).addClass('rs_air_highlight');
+	    });
+	});
 </script>
-<style>#changeSearchForm{color:#666;width:390px;font-size:11px;position:relative;font-family:Verdana,Geneva,sans-serif;}#changeSearchForm a{color:#578DF2;}#changeSearchForm a:hover{color:#FF5905;}#changeSearchForm .left{float:left;}#changeSearchForm .right{float:right;}#changeSearchForm .clear{clear:both;}#changeSearchForm .bold{font-weight:bold;}#changeSearchForm .underline{text-decoration:underline;}#changeSearchForm .rs_multiSearchBoxTabsList{overflow:hidden;}#changeSearchForm .options{display:block;margin:10px 20px 0 0;float:left;font-weight:bold;}#changeSearchForm .options .radio{float:left;margin:0 6px 0 0;}#changeSearchForm h2{font-size:15px;color:#880000;font-weight:normal;}#changeSearchForm .number_bg{width:24px;height:22px;background:#555;float:left;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}#changeSearchForm .number_bg span{margin-top:2px;display:block;color:#fff;font-size:14px;font-weight:800;text-align:center;}#changeSearchForm .search_block{}#changeSearchForm .label{font-size:13px;color:#666;line-height:25px;}#changeSearchForm{padding-bottom:10px;}#changeSearchForm .rs_searchbox_header{}#changeSearchForm .rs_searchbox{}#changeSearchForm .rs_searchbox_filter{background:#EEEEE6;padding:15px 30px 15px 30px;clear:both;overflow:hidden;}#changeSearchForm .rs_multiSearchBoxCalendarContainer{margin-top:5px;}#changeSearchForm .calendar{width:21px;height:18px;background:#fff url(http://data.rezserver.com/img/mobile_search/searchbox.png) -152px -0px no-repeat;cursor:pointer;display:block;margin:5px 5px 0 0;padding:0px 0 0 0;float:left;}#changeSearchForm .calendar:hover{background-position:-152px -18px;}#changeSearchForm .rs_multiSearchBoxAutosuggest{background:#fff;width:275px;margin-left:10px;height:15px;padding:5px;border:1px solid #E1E1E1;color:#8C8976;}#changeSearchForm .rs_multiSearchBoxCalendarMonth{background:#fff;width:80px;height:28px;padding:5px;margin:0 3px 0 0;border:1px solid #B7B69D;color:#8C8976;}#changeSearchForm .rs_multiSearchBoxCalendarDay{background:#fff;width:56px;height:28px;padding:5px;margin:0px;border:1px solid #B7B69D;color:#8C8976;}#changeSearchForm .rs_multiSearchBoxRooms{background:#fff;width:46px;height:28px;padding:5px;margin:0px;border:1px solid #B7B69D;color:#8C8976;}#changeSearchForm .rs_multiSearchBoxCalendarTime{background:#fff;width:95px;height:28px;padding:5px;margin:0 0 0 3px;border:1px solid #B7B69D;color:#8C8976;}#changeSearchForm .rs_multiSearchBoxContent_hotel{padding:3px 0;overflow:hidden;}#changeSearchForm .rs_multiSearchBoxContent_hotel .search{background:url(http://data.rezserver.com/img/mobile_search/searchbox.png) -0px -0px no-repeat;border:0;width:89px;height:37px;color:#fff;font-weight:bold;text-shadow:#464646 1px 1px 0px;font-size:19px;cursor:pointer;float:right;margin:0px 0 0 0;text-indent:-99999px;}#changeSearchForm .rs_multiSearchBoxContent_hotel .search:hover{background-position:-0px -37px;}#changeSearchForm .filter_hotel .filter_hotel_toggle{cursor:pointer;}#changeSearchForm .filter_hotel .filter_hotel_toggle .filterimg_hotel{background:url(http://data.rezserver.com/img/mobile_search/searchbox.png) -152px -37px no-repeat;width:18px;height:18px;display:block;float:left;margin:-3px 10px 0 0;}#changeSearchForm .filter_hotel .filter_hotel_toggle:hover .filterimg_hotel{background-position:-152px -55px;}#changeSearchForm .filter_hotel .filter_hotel_toggle .down{background-position:-170px -37px!important;}#changeSearchForm .filter_hotel .filter_hotel_toggle:hover .down{background-position:-170px -55px!important;}#changeSearchForm .filter_hotel .filters_hotel{padding:10px;display:none;clear:both;background:#EEEEE6;}#changeSearchForm .filter_hotel .filters_hotel h3{margin-bottom:12px;}#changeSearchForm .filter_hotel .filters_hotel .update{background:url(http://data.rezserver.com/img/mobile_search/searchbox.png) -0px -74px no-repeat;border:0;width:103px;height:28px;color:#fff;font-weight:bold;text-shadow:#464646 1px 1px 0px;font-size:14px;cursor:pointer;float:right;margin:10px -2px 0 0;text-indent:-99999px;}#changeSearchForm .filter_hotel .filters_hotel .update:hover{background-position:-103px -74px;}#changeSearchForm .filter_hotel .filters_hotel .filter_star{float:left;padding:0 20px 0 0;margin:0 10px 0 0;border-right:1px solid #DEDDC9;min-height:123px;}#changeSearchForm .filter_hotel .filters_hotel .filter_star .filters_stars{clear:left;}#changeSearchForm .filter_hotel .filters_hotel .filter_star input{margin:-1px 5px 7px 0px;padding:0px;float:left;}#changeSearchForm .filter_hotel .filters_hotel .filter_star .filter_stars1{width:63px;height:12px;background:url(http://data.rezserver.com/img/mobile_search/searchbox.png) -89px -48px no-repeat;display:inline-block;text-indent:-999999px;}#changeSearchForm .filter_hotel .filters_hotel .filter_star .filter_stars2{width:63px;height:12px;background:url(http://data.rezserver.com/img/mobile_search/searchbox.png) -89px -36px no-repeat;display:inline-block;text-indent:-999999px;}#changeSearchForm .filter_hotel .filters_hotel .filter_star .filter_stars3{width:63px;height:12px;background:url(http://data.rezserver.com/img/mobile_search/searchbox.png) -89px -24px no-repeat;display:inline-block;text-indent:-999999px;}#changeSearchForm .filter_hotel .filters_hotel .filter_star .filter_stars4{width:63px;height:12px;background:url(http://data.rezserver.com/img/mobile_search/searchbox.png) -89px -12px no-repeat;display:inline-block;text-indent:-999999px;}#changeSearchForm .filter_hotel .filters_hotel .filter_star .filter_stars5{width:63px;height:12px;background:url(http://data.rezserver.com/img/mobile_search/searchbox.png) -89px -0px no-repeat;display:inline-block;text-indent:-999999px;}#changeSearchForm .filter_hotel .filters_hotel .filter_amenities{float:left;}#changeSearchForm .filter_hotel .filters_hotel .filter_amenities .amenities_col{float:left;margin-right:20px;}#changeSearchForm .filter_hotel .filters_hotel .filter_amenities .amenities_col input{margin:2px 2px 4px 2px;padding:0px;}#changeSearchForm .filter_hotel .filters_hotel .filter_other{float:left;padding:0 0px 0 0;margin:10px -7px 0 0;}#changeSearchForm .filter_hotel .filters_hotel .filter_other div{float:left;margin-right:5px;}#changeSearchForm .filter_hotel .filters_hotel .filter_other select{padding:5px;height:30px;width:135px;border:1px solid #B7B69D;color:#8C8976;margin:0px;}#changeSearchForm .filter_hotel .filters_hotel .filter_other select option{color:#000;padding:5px;}#changeSearchForm .filter_hotel .filters_hotel .filter_other input{padding:5px;width:123px;height:18px;border:1px solid #B7B69D;color:#8C8976;margin:0px;}#changeSearchForm .filter_hotel .filters_hotel .filter_other span{margin-bottom:2px;display:inline-block;}</style>
-<!--[if IE 8]>
-<style>
-.rs_multiSearchBoxes .rs_searchbox_filter { padding-bottom: 0px; }
-</style>
+<link rel="stylesheet" type="text/css" href="css/rs_searchbox.css">
+<link rel="stylesheet" type="text/css" href="css/rs_calendar_style.css">
+<!--[if lte IE 8]>	
+	<style type="text/css">
+		.mainWrapper { width:390px; }
+
+		.mainWrapper .rs_searchbox .rs_autosuggest, .mainWrapper .rs_searchbox .rs_from, .mainWrapper .rs_searchbox .rs_to { width:95.8%; padding:5px 2%; }
+		.mainWrapper .rs_searchbox .rs_chk_in,
+		.mainWrapper .rs_searchbox .rs_chk_out{ width:95.8%; padding:5px 2%; }
+	</style>
 <![endif]-->
-<script type="text/javascript" src="http://secure.rezserver.com/js/searchbox.js"></script>
  
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -189,8 +304,8 @@ _atrk_opts = { atrk_acct:"Z/IMh1aIE700yD", domain:"nashville.com",dynamic: true}
 </div>
 </div>
 <div class="ctemp fl"></div>
-<div class="cday fl">07:24 AM</div>
-<div class="cdate fl">Mon 7, 2015</div>
+<div class="cday fl">03:03 PM</div>
+<div class="cdate fl">Mon 6, 2016</div>
 </div>
 </div>
 <div id="header">
@@ -337,348 +452,6 @@ _atrk_opts = { atrk_acct:"Z/IMh1aIE700yD", domain:"nashville.com",dynamic: true}
 <div class="header_links">
 <div class="ticket_links">
 <div class="cell brdr">
-<h3>Hotel Search Here</h3>
- 
-<div class="rs_multiSearchBoxes" id="changeSearchForm" style=" padding:5px; float:left; width:383px;">
-<div class="rs_searchbox_header">
-<h2>Best Nashville Hotels at Best Rates!</h2>
-<div class="rs_multiSearchBoxTabsList">
-<div class="clear"></div>
-</div>
-<div class="clear"></div>
-</div>
-<div class="rs_searchbox">
-<div class="rs_multiSearchBoxContent_hotel">
-<form class="rs_multiSearchBoxForm_hotel" onsubmit="if(rs_checkSearchForm(&quot;hotel&quot;, rs_getParent($(this)))) { return true; } else { return false; }">
-<div class="rs_multiSearchBoxAutosuggestContainer rs_multiSearchBoxAutosuggestContainer_destination">
- 
-<div class="search_block">
-<div class="label" style="width:70px !important; float:left">Destination</div>
- 
-<input name="rs_city" value="Nashville , TN" onclick="$(this).val(&quot;&quot;);" class="rs_multiSearchBoxAutosuggest" autocomplete="OFF">
-<input type="hidden" name="rs_cid" class="rs_autocomplete_cityid" value="">
-<div class="clear"></div>
-<div class="rs_multiSearchBoxAutosuggestResults">
-Loading...
-</div>
-</div>
-</div>
-<div class="rs_multiSearchBoxCalendarGroupContainer rs_multiSearchBoxCalendarGroupContainer_stayDuration">
- 
-<div class="search_block">
- 
-<div class="left" style="margin-right: 28px;">
-<div>Check in:</div>
-<div class="rs_multiSearchBoxCalendarContainer rs_multiSearchBoxCalendarContainer_checkIn">
-<span class="calendar rs_multiSearchBoxCalendarShow"></span>
-<select class="rs_multiSearchBoxCalendarMonth" onchange="rs_setMonth($(this).val(), &quot;hotel&quot;, &quot;checkIn&quot;, rs_getCalParent($(this)), rs_getParent($(this)));">
-</select>
-<select class="rs_multiSearchBoxCalendarDay" onchange="rs_setDay($(this).val(), &quot;hotel&quot;, &quot;checkIn&quot;, rs_getCalParent($(this)), rs_getParent($(this)));">
-</select>
-<input name="rs_chk_in" type="hidden" value="mm/dd/yyyy" autocomplete="OFF" class="rs_multiSearchBoxCalendarShow">
-<div class="clear"></div>
-<div class="rs_multiSearchBoxCalendar">
-Loading...
-</div>
-</div>
-</div>
-<div class="left">
-<div>Check out:</div>
-<div class="rs_multiSearchBoxCalendarContainer rs_multiSearchBoxCalendarContainer_checkOut">
-<span class="calendar rs_multiSearchBoxCalendarShow"></span>
-<select class="rs_multiSearchBoxCalendarMonth" onchange="rs_setMonth($(this).val(), &quot;hotel&quot;, &quot;checkOut&quot;, rs_getCalParent($(this)), rs_getParent($(this)));">
-</select>
-<select class="rs_multiSearchBoxCalendarDay" onchange="rs_setDay($(this).val(), &quot;hotel&quot;, &quot;checkOut&quot;, rs_getCalParent($(this)), rs_getParent($(this)));">
-</select>
-<input name="rs_chk_out" type="hidden" value="mm/dd/yyyy" autocomplete="OFF" class="rs_multiSearchBoxCalendarShow">
-<div class="clear"></div>
-<div class="rs_multiSearchBoxCalendar">
-Loading...
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div>
-</div>
-<div>
- 
-<div class="search_block" style="margin:5px 0 0 0; float:left; width:365px;">
-<button class="search" type="submit">Search</button>
-<div class="label" style="width:70px !important; float:left">Rooms?</div>
-<select class="rs_multiSearchBoxRooms" name="rs_rooms">
-</select>
-</div>
-</div>
-<div class="clear"></div>
-</form></div>
-</div>
-<div class="rs_searchbox">
-<div class="rs_multiSearchBoxContent_vp">
-
-<div>
-<div class="number_bg"><span>1</span></div>
-<div class="search_block">
-<div class="label">Choose your destination</div>
-<div class="rs_multiSearchBoxAutosuggestContainer rs_multiSearchBoxAutosuggestContainer_origin">
-<span class="rs_origin">Origin:</span>
-<input name="rs_o_city" value="City or Airport Name" onclick="$(this).val(&quot;&quot;);" class="rs_multiSearchBoxAutosuggest" autocomplete="OFF">
-<div class="clear"></div>
-<div class="rs_multiSearchBoxAutosuggestResults">
-Loading...
-</div>
-</div>
-<div class="rs_multiSearchBoxAutosuggestContainer rs_multiSearchBoxAutosuggestContainer_destination">
-<span class="rs_destination">Destination:</span>
-<input name="rs_d_city" value="City or Airport Name" onclick="$(this).val(&quot;&quot;);" class="rs_multiSearchBoxAutosuggest" autocomplete="OFF">
-<div class="clear"></div>
-<div class="rs_multiSearchBoxAutosuggestResults">
-Loading...
-</div>
-</div>
-</div>
-</div>
-<div class="rs_multiSearchBoxCalendarGroupContainer rs_multiSearchBoxCalendarGroupContainer_stayDuration">
-<div class="number_bg"><span>2</span></div>
-<div class="search_block">
-<div class="label">When are you going?</div>
-<div class="left" style="margin-right: 28px;">
-<div>Check in:</div>
-<div class="rs_multiSearchBoxCalendarContainer rs_multiSearchBoxCalendarContainer_checkIn">
-<span class="calendar rs_multiSearchBoxCalendarShow"></span>
-<select class="rs_multiSearchBoxCalendarMonth" onchange="rs_setMonth($(this).val(), &quot;vp&quot;, &quot;checkIn&quot;, rs_getCalParent($(this)), rs_getParent($(this)));">
-</select>
-<select class="rs_multiSearchBoxCalendarDay" onchange="rs_setDay($(this).val(), &quot;vp&quot;, &quot;checkIn&quot;, rs_getCalParent($(this)), rs_getParent($(this)));">
-</select>
-<input name="rs_chk_in" type="hidden" value="mm/dd/yyyy" autocomplete="OFF" class="rs_multiSearchBoxCalendarShow">
-<div class="clear"></div>
-<div class="rs_multiSearchBoxCalendar">
-Loading...
-</div>
-</div>
-</div>
-<div class="left">
-<div>Check out:</div>
-<div class="rs_multiSearchBoxCalendarContainer rs_multiSearchBoxCalendarContainer_checkOut">
-<span class="calendar rs_multiSearchBoxCalendarShow"></span>
-<select class="rs_multiSearchBoxCalendarMonth" onchange="rs_setMonth($(this).val(), &quot;vp&quot;, &quot;checkOut&quot;, rs_getCalParent($(this)), rs_getParent($(this)));">
-</select>
-<select class="rs_multiSearchBoxCalendarDay" onchange="rs_setDay($(this).val(), &quot;vp&quot;, &quot;checkOut&quot;, rs_getCalParent($(this)), rs_getParent($(this)));">
-</select>
-<input name="rs_chk_out" type="hidden" value="mm/dd/yyyy" autocomplete="OFF" class="rs_multiSearchBoxCalendarShow">
-<div class="clear"></div>
-<div class="rs_multiSearchBoxCalendar">
-Loading...
-</div>
-</div>
-</div>
-<div class="clear"></div>
-</div>
-</div>
-<div>
-<div class="number_bg"><span>3</span></div>
-<div class="search_block">
-<button class="search" type="submit">Search</button>
-<div class="label">How many people will be in your party?</div>
-<input type="hidden" name="rs_passengers" autocomplete="off" value="">
-<div class="vp_passengers">
-<span>Adults (18+)</span>
-<select class="rs_multiSearchBoxRooms" name="rs_adults">
-<option value="1">1</option>
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
-<option value="5">5</option>
-<option value="6">6</option>
-<option value="7">7</option>
-<option value="8">8</option>
-</select>
-</div>
-<div class="vp_passengers">
-<span>Children (0-17)</span>
-<select class="rs_multiSearchBoxRooms" name="rs_children" onchange="rs_updateChildren(rs_getParent($(this)));">
-<option value="0" selected="SELECTED">0</option>
-<option value="1">1</option>
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
-<option value="5">5</option>
-<option value="6">6</option>
-<option value="7">7</option>
-<option value="8">8</option>
-</select>
-</div>
-<div class="vp_passengers">
-<span>Rooms</span>
-<select class="rs_multiSearchBoxRooms" name="rs_rooms">
-</select>
-</div>
-<div class="clear"></div>
-<div class="rs_multiSearchBoxChildrensAgesContainer">
-<div class="rs_multiSearchBoxChildrensAges">
-</div>
-</div>
-</div>
-</div>
-<div class="clear"></div>
-
-</div>
-</div>
-<div class="rs_searchbox">
-<div class="rs_multiSearchBoxContent_car">
-<form class="rs_multiSearchBoxForm_car" onsubmit="if(rs_checkSearchForm(&quot;car&quot;, rs_getParent($(this)))) { return true; } else { return false; }">
-<div>
-<div class="number_bg"><span>1</span></div>
-<div class="search_block">
-<div class="rs_multiSearchBoxAutosuggestContainer rs_multiSearchBoxAutosuggestContainer_pickUp">
-<div class="label">Choose your destination</div>
-<input name="rs_pu_city" value="City or Airport Name" onclick="$(this).val(&quot;&quot;);" class="rs_multiSearchBoxAutosuggest location" autocomplete="OFF">
-<div class="clear"></div>
-<div class="rs_multiSearchBoxAutosuggestResults">
-Loading...
-</div>
-</div>
-<input type="checkbox" name="rs_return_different" class="inline" id="rs_multiSearchBoxReturnDifferent">
-<label for="rs_multiSearchBoxReturnDifferent" class="inline">Return at a different location?</label>
-<div class="rs_multiSearchBoxAutosuggestContainer rs_multiSearchBoxAutosuggestContainer_dropOff" style="display: none;">
-<span class="rs_destination">Drop-off Location:</span>
-<input class="rs_multiSearchBoxAutosuggest location" value="City or Airport Name" onclick="$(this).val(&quot;&quot;);" name="rs_do_city" autocomplete="OFF">
-<div class="clear"></div>
-<div class="rs_multiSearchBoxAutosuggestResults">
-Loading...
-</div>
-</div>
-</div>
-</div>
-<div class="rs_multiSearchBoxCalendarGroupContainer rs_multiSearchBoxCalendarGroupContainer_stayDuration">
-<div class="number_bg"><span>2</span></div>
-<div class="search_block">
-<div class="label">When are you going?</div>
-<div class="left" style="margin-right: 28px;">
-<div>Check in:</div>
-<div class="rs_multiSearchBoxCalendarContainer rs_multiSearchBoxCalendarContainer_checkIn">
-<span class="calendar rs_multiSearchBoxCalendarShow"></span>
-<select class="rs_multiSearchBoxCalendarMonth" onchange="rs_setMonth($(this).val(), &quot;car&quot;, &quot;checkIn&quot;, rs_getCalParent($(this)), rs_getParent($(this)));">
-</select>
-<select class="rs_multiSearchBoxCalendarDay" onchange="rs_setDay($(this).val(), &quot;car&quot;, &quot;checkIn&quot;, rs_getCalParent($(this)), rs_getParent($(this)));">
-</select>
-<select class="rs_multiSearchBoxCalendarTime" name="rs_pu_time">
-<option value="00:00">Midnight</option><option value="00:30">12:30 AM</option><option value="01:00">1:00 AM</option><option value="01:30">1:30 AM</option><option value="02:00">2:00 AM</option><option value="02:30">2:30 AM</option><option value="03:00">3:00 AM</option><option value="03:30">3:30 AM</option><option value="04:00">4:00 AM</option><option value="04:30">4:30 AM</option><option value="05:00">5:00 AM</option><option value="05:30">5:30 AM</option><option value="06:00">6:00 AM</option><option value="06:30">6:30 AM</option><option value="07:00">7:00 AM</option><option value="07:30">7:30 AM</option><option value="08:00">8:00 AM</option><option value="08:30">8:30 AM</option><option value="09:00">9:00 AM</option><option value="09:30">9:30 AM</option><option value="10:00" selected="SELECTED">10:00 AM</option><option value="10:30">10:30 AM</option><option value="11:00">11:00 AM</option><option value="11:30">11:30 AM</option><option value="12:00">Noon</option><option value="12:30">12:30 PM</option><option value="13:00">1:00 PM</option><option value="13:30">1:30 PM</option><option value="14:00">2:00 PM</option><option value="14:30">2:30 PM</option><option value="15:00">3:00 PM</option><option value="15:30">3:30 PM</option><option value="16:00">4:00 PM</option><option value="16:30">4:30 PM</option><option value="17:00">5:00 PM</option><option value="17:30">5:30 PM</option><option value="18:00">6:00 PM</option><option value="18:30">6:30 PM</option><option value="19:00">7:00 PM</option><option value="19:30">7:30 PM</option><option value="20:00">8:00 PM</option><option value="20:30">8:30 PM</option><option value="21:00">9:00 PM</option><option value="21:30">9:30 PM</option><option value="22:00">10:00 PM</option><option value="22:30">10:30 PM</option>
-</select>
-<input name="rs_pu_date" type="hidden" value="" autocomplete="OFF" class="rs_multiSearchBoxCalendarShow">
-<div class="clear"></div>
-<div class="rs_multiSearchBoxCalendar">
-Loading...
-</div>
-</div>
-</div>
-<div class="left" style="margin-top: 5px;">
-<div>Check out:</div>
-<div class="rs_multiSearchBoxCalendarContainer rs_multiSearchBoxCalendarContainer_checkOut">
-<span class="calendar rs_multiSearchBoxCalendarShow"></span>
-<select class="rs_multiSearchBoxCalendarMonth" onchange="rs_setMonth($(this).val(), &quot;car&quot;, &quot;checkOut&quot;, rs_getCalParent($(this)), rs_getParent($(this)));">
-</select>
-<select class="rs_multiSearchBoxCalendarDay" onchange="rs_setDay($(this).val(), &quot;car&quot;, &quot;checkOut&quot;, rs_getCalParent($(this)), rs_getParent($(this)));">
-</select>
-<select class="rs_multiSearchBoxCalendarTime" name="rs_do_time">
-<option value="00:00">Midnight</option><option value="00:30">12:30 AM</option><option value="01:00">1:00 AM</option><option value="01:30">1:30 AM</option><option value="02:00">2:00 AM</option><option value="02:30">2:30 AM</option><option value="03:00">3:00 AM</option><option value="03:30">3:30 AM</option><option value="04:00">4:00 AM</option><option value="04:30">4:30 AM</option><option value="05:00">5:00 AM</option><option value="05:30">5:30 AM</option><option value="06:00">6:00 AM</option><option value="06:30">6:30 AM</option><option value="07:00">7:00 AM</option><option value="07:30">7:30 AM</option><option value="08:00">8:00 AM</option><option value="08:30">8:30 AM</option><option value="09:00">9:00 AM</option><option value="09:30">9:30 AM</option><option value="10:00" selected="SELECTED">10:00 AM</option><option value="10:30">10:30 AM</option><option value="11:00">11:00 AM</option><option value="11:30">11:30 AM</option><option value="12:00">Noon</option><option value="12:30">12:30 PM</option><option value="13:00">1:00 PM</option><option value="13:30">1:30 PM</option><option value="14:00">2:00 PM</option><option value="14:30">2:30 PM</option><option value="15:00">3:00 PM</option><option value="15:30">3:30 PM</option><option value="16:00">4:00 PM</option><option value="16:30">4:30 PM</option><option value="17:00">5:00 PM</option><option value="17:30">5:30 PM</option><option value="18:00">6:00 PM</option><option value="18:30">6:30 PM</option><option value="19:00">7:00 PM</option><option value="19:30">7:30 PM</option><option value="20:00">8:00 PM</option><option value="20:30">8:30 PM</option><option value="21:00">9:00 PM</option><option value="21:30">9:30 PM</option><option value="22:00">10:00 PM</option><option value="22:30">10:30 PM</option>
-</select>
-<input name="rs_do_date" type="hidden" value="" autocomplete="OFF" class="rs_multiSearchBoxCalendarShow">
-<div class="clear"></div>
-<div class="rs_multiSearchBoxCalendar">
-Loading...
-</div>
-</div>
-</div>
-<button class="search" type="submit">Search</button>
-<div class="clear"></div>
-</div>
-</div>
-<div class="clear"></div>
-</form></div>
-</div>
-<div class="filter_car">
-<div class="rs_searchbox_filter">
-<div class="filter_car_toggle" onclick="$(&quot;.filters_car&quot;, rs_getParent($(this))).slideToggle(&quot;400&quot;); $(&quot;.filterimg_car&quot;, rs_getParent($(this))).toggleClass(&quot;down&quot;);">
-<div class="filterimg_car"></div><span class="bold underline">Filter by</span> rental car company, corporate id, coupon code, and more.
-</div>
-<div class="filters_car">
-<div class="car_option">
-<span class="label">Car Rental Company:</span>
-<select class="rs_company" name="rs_company">
-<option value="">&nbsp;</option>
-<optgroup label="Most Popular">
-<option value="alamo">Alamo</option>
-<option value="avis">Avis</option>
-<option value="budget">Budget</option>
-<option value="hertz">Hertz</option>
-<option value="national">National</option>
-</optgroup>
-<optgroup label="Other Companies">
-<option value="ace">Ace</option>
-<option value="advantage">Advantage</option>
-<option value="dollar">Dollar</option>
-<option value="enterprise">Enterprise</option>
-<option value="europcar">Europcar</option>
-<option value="ez">E-Z</option>
-<option value="fox">Fox</option>
-<option value="payless">Payless</option>
-<option value="sixt">Sixt</option>
-<option value="thrifty">Thrifty</option>
-<option value="usave">U-Save</option>
-</optgroup>
-</select>
-</div>
-<div class="car_option">
-<span class="label">Car Type:</span>
-<select name="rs_cartype">
-<option value="">&nbsp;</option>
-<optgroup label="Cars">
-<option value="compact-car">Compact</option>
-<option value="economy-car">Economy</option>
-<option value="full-size-car">Full-Size</option>
-<option value="luxury-car">Luxury</option>
-<option value="mid-size-car">Mid-Size</option>
-<option value="premium-car">Premium</option>
-<option value="standard-car">Standard</option>
-</optgroup>
-<optgroup label="Speciality Vehicles">
-<option value="convertible">Convertible</option>
-<option value="mini">Mini</option>
-<option value="suv">SUV</option>
-<option value="van">Van</option>
-</optgroup>
-</select>
-</div>
-<div class="car_option">
-<h3 class="bold">Enter a Discount Code</h3>
-<span class="label">Car Rental Company:</span>
-<select onchange="updateDiscounts($(this).val());" name="rs_company_code">
-<option value="" selected="selected">&nbsp;</option>
-<optgroup label="Most Popular">
-<option value="AL">Alamo</option>
-<option value="AV">Avis</option>
-<option value="BU">Budget</option>
-<option value="HZ">Hertz</option>
-<option value="NA">National</option>
-</optgroup>
-<optgroup label="Other Companies">
-<option value="AD">Advantage</option>
-<option value="ZR">Dollar</option>
-<option value="ET">Enterprise</option>
-<option value="SX">Sixt</option>
-<option value="ZT">Thrifty</option>
-</optgroup>
-</select>
-<div class="discountsAJAX">
-</div>
-<button class="update" type="submit">Update</button>
-</div>
-
-<div class="clear"></div>
-</div>
-</div>
-</div>
-</div>
  
 </div>
 <div class="cell brdr tac">
@@ -694,11 +467,8 @@ Loading...
  
 <div class="fr w200">
 <div class="rsection bs">
-<a href="http://zillow.go2cloud.org/aff_c?offer_id=14&amp;aff_id=3534&amp;url_id=19&amp;url=http%3A%2F%2Fwww.zillow.com%2" target="_blank" class="rbanner bs" onclick="fnUpdateHits(88)"><img src="http://www.nashville.com/uploaded/banners/O_1446825358nashville-real-estate.jpg" alt="Nashville Real Estate"></a>
-<a href="http://tickets.nashville.com/events/how-the-grinch-stole-christmas-tickets" class="rbanner bs" onclick="fnUpdateHits(114)"><img src="http://www.nashville.com/uploaded/banners/O_1448047642how-the-grinch-stole-christmas-tickets-nashville-banner.jpg" alt="How the Grinch Stole Christmas Tickets"></a>
+<a href="https://ad.doubleclick.net/ddm/clk/298385993;125509222;t" class="rbanner bs mt5" onclick="fnUpdateHits(161)"><img src="http://www.nashville.com/uploaded/banners/O_1457631362renaissance-nashville-hotel-1.jpg" alt="Renaissance Nashville Hotel"></a>
 <a href="http://www.nashville.com/bree" class="rbanner bs mt5" onclick="fnUpdateHits(67)"><img src="http://www.nashville.com/uploaded/banners/O_1447391557bree.jpg" alt="Bree"></a>
-<a href="http://tickets.nashville.com/events/vince-gill-amy-grant-tickets" class="rbanner bs mt5" onclick="fnUpdateHits(148)"><img src="http://www.nashville.com/uploaded/banners/O_1446730556amy-grant-vince-gill-feature.jpg" alt="Amy Grant &amp; Vince Gill"></a>
-<a href="http://bit.ly/1RVq9JO" onclick="fnUpdateHits(151)" class="rbanner bs mt5"><img src="http://www.nashville.com/uploaded/banners/O_1447513583belle-meade-nashville.jpg" alt="Belle Meade Plantation Tour"></a>
 </div>
 </div>
 <script type="text/javascript">
@@ -866,11 +636,6 @@ Loading...
 <div class="clear"></div>
 </div>
 </footer>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 </body></html>
