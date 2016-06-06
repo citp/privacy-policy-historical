@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the originlab.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040108id_/http%3A//www.originlab.com/index.aspx%3Fgo%3DCompany/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originlab.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606094116id_/http%3A//originlab.com/index.aspx%3Fgo%3DCompany/PrivacyPolicy) for the most accurate reproduction.*
 
 # OriginLab.com - Privacy Policy
-
-|   | 
 
 OriginLab is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. This privacy statement only applies to OriginLab.com; it does not apply to other online or offline OriginLab sites, products or services. Please read the complete OriginLab.com privacy statement. 
 
@@ -101,5 +99,3 @@ OriginLab welcomes your comments regarding this privacy statement, please contac
 OriginLab Corporation  
 One Roundhouse Plaza  
 Northampton, MA 01060 
-
-| 
