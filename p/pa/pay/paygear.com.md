@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paygear.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207021212id_/http%3A//www.paygear.com/contents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paygear.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606045831id_/http%3A//www.paygear.com/contents/privacy) for the most accurate reproduction.*
 
 # Privacy - Instant Commission Shopping Cart and Affiliate Software
 
