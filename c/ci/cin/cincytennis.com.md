@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cincytennis.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622034013id_/http%3A//www.usta.com/About-USTA/Organization/Information/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cincytennis.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606052955id_/http%3A//www.usta.com/About-USTA/Organization/Information/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy | USTA
 
@@ -35,6 +35,14 @@ Accepting cookies allows you, among other things, to personalize your experience
 We may collect IP addresses and/or automatic information for purposes of system administration and to report aggregate information to our advertisers and sponsors. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from the Site, our computers log your IP address.
 
 Automatic information is information collected by our computers when you request Web pages from the Site. Automatic information may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such information. When analyzed, this data helps us analyze how visitors arrive at the Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
+
+ **Registration Data**
+
+In order to access some of the services, applications or sweepstakes offered by the USTA, you may be required to register and/or provide personal information, such as name, email, telephone number and birthdate (“Registration Data”).  Although information may be required to participate in certain activities or promotions, participants provide that information voluntarily. The USTA adheres to strict data management protocols. Those protocols vary based on the category of participation with USTA.
+
+By registering, you agree to: i) provide true, accurate and complete information about yourself as prompted by the registration form; and (ii) maintain and promptly update the Registration Data to keep it true, accurate, current and complete. You acknowledge and agree the USTA  shall have no liability associated with or arising from your failure to maintain accurate Registration Data, including but not limited to your failure to receive critical information about the site or any mobile service or your account. You further agree the USTA is authorized to verify such Registration Data. The information we obtain through your use of this site, mobile site or any USTA or US Open app is subject to our Privacy Policy. Every subsequent USTA email communication will carry a simple opt-out or unsubscribe link at the bottom of the email. Any suspected abuse of your Registration Data should be reported to the USTA.   
+
+You acknowledge and agree that USTA, in management of certain sweepstakes, promotions, or programs, may share your information with sweepstakes partners or [US Open Sponsors](http://www.usopen.org/sponsorship) (collectively, “Permitted Third Parties”). Your registration constitutes permission for the USTA and Permitted Third Parties to contact you for promotional and/or marketing purposes. Your relationship with each Permitted Third Party is independent of the USTA and subject to that Permitted Third Party’s terms of use and/or privacy policy. By registering, you acknowledge and agree that USTA does not and cannot control the actions of any Permitted Third Party, and you further agree to release and hold harmless USTA from any and all liability, injury, loss or damage of any kind that may arise from or out of your interaction with such Permitted Third Party.
 
 **Information From Other Sources**
 
