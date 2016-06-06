@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebusinessdesk.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206213959id_/http%3A//www.thebusinessdesk.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebusinessdesk.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607003548id_/http%3A//www.thebusinessdesk.com/privacy-policy.html) for the most accurate reproduction.*
 
-# The Business Desk Privacy Policy THEBUSINESSDESK.COM
+# The Business Desk Privacy Policy | TheBusinessDesk.com
 
 **TheBusinessDesk Ltd** is a company registered under the Data Protection Act 1998 and is aware of its responsibilities under that Act.
 
