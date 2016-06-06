@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131835id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195736id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer - Truckee Meadows Community College
 
@@ -37,3 +37,5 @@ In the course of using this website, you may choose to provide us with informati
 Truckee Meadows Community College website provide links to other World Wide websites or resources. We do not control these sites and resources, do not endorse them, and are not responsible for their availability, content, or delivery of services. In particular, external sites are not bound by the college's online privacy policy; they may have their own policies or none at all. Often you can tell you are leaving a TMCC website by noting the URL of the destination site.
 
 If you have questions about this site, its collection of information, and its online privacy statement, please contact [webmaster@tmcc.edu](https://web.archive.org/web/contact/).
+
+**See Also:**  [Email Privacy, Security and General Use Disclaimer](https://web.archive.org/disclaimer/email/)
