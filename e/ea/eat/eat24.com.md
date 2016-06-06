@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eat24.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206152731id_/http%3A//eat24hours.com/%3FSCR%3Ds_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eat24.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606025720id_/http%3A//eat24hours.com/%3FSCR%3Ds_privacy) for the most accurate reproduction.*
 
-# Food Delivery | Restaurants Delivery | Eat24 Order Online
+# Food Delivery | Restaurants Delivery | Yelp Eat24 Order Online
 
 **GENERAL**
 
