@@ -1,1054 +1,480 @@
-<!--The following is the downloaded HTML source of the pigsback.com privacy policy that was archived on 2015-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151205235618id_/http%3A//www.pigsback.com/privacy-policy) for the most accurate reproduction.-->
-
-<!DOCTYPE html><html style="" class=" js flexbox webgl no-touch geolocation hashchange history websockets rgba hsla multiplebgs backgroundsize borderimage textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage applicationcache svg svgclippaths mediaqueries no-regions supports"><!--[if lt IE 7]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]--><!--[if (IE 7)&!(IEMobile)]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8"><![endif]--><!--[if (IE 8)&!(IEMobile)]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js lt-ie9"><![endif]--><!--[if gt IE 8]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><![endif]--><head>
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta charset="utf-8">
-
-<meta name="title" content="Privacy Policy » Pigsback.com – Save up to 55% on hotels, restaurants and spas">
-<title>Privacy Policy » Pigsback.com – Save up to 55% on hotels, restaurants and spas</title>
-		<!-- mobile meta -->
-		<meta name="HandheldFriendly" content="True">
-		<meta name="MobileOptimized" content="320">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta property="fb:admins" content="574799523">
-        	<meta property="fb:app_id" content="504375399687848">
-		<meta name="google-site-verification" content="1J64uGzzym5M36gxBD9LGHi2wNlHFGjH09v6bzKxMD0">
-		<meta name="google-site-verification" content="JCm8xkQBNrw67Dhi79UPgaN7VCPA54xdJgcJ7yjqfQg">
-
-<link rel="shortcut icon" href="/wp-content/uploads/2014/04/favicon.ico">
-
-		<link rel="pingback" href="http://www.pigsback.com/xmlrpc.php">
-		
-		<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="//widget.uservoice.com/MLbCyZ1hGFggNzLsP4r0Q.js"></script><script id="powr-js" async="" src="//www.powr.io/powr.js" powr-token="pzuwz1dzPX1438007665" external-type="wordpress"></script><script type="text/javascript">
-			var sv_ms = 0;
-			function endsWith(str, suffix) 
-			{
-    				return str.indexOf(suffix, str.length - suffix.length) !== -1;
-			}
-
-function GetShortURL(sTrack) {
-	var sShortURL = location.href;
-	if (location.href.indexOf('?') > 0) 
-		sShortURL = sShortURL + '&rf=' + ((sv_mid == "0") ? "123465789" : sv_mid) + '%26sr=' + sTrack;
-	else
-		sShortURL = sShortURL + '?rf=' + ((sv_mid == "0") ? "123465789" : sv_mid) + '%26sr=' + sTrack;
-
-	return sShortURL;
-}
-
-function TweetShare() {
-	var sHeadline = jQuery(document).find("title").text().replace(/&amp;/g, '&').replace(/’/g, '\'').replace(/€/g, '&euro;');
-	sHeadline = URLEncode(sHeadline).replace(/%26euro%3B/g, '%E2%82%AC').replace(/&/g, '%26');
-	window.open('http://twitter.com/home/?status=' + sHeadline + ' - ' + GetShortURL('tw'));
-	return false;
-}
-
-function FBShare() {
-	var sImageLocation = jQuery('.cb-mask img').attr('src');
-	if (jQuery('.cb-mask img').attr('src') === undefined)
-	{
-		sImageLocation = 'http://img.pigsback.com/images/PB_logo_tagline_400x150.png';
-	}
-	var sHeadline = jQuery(document).find("title").text().replace(/&amp;/g, '&').replace(/’/g, '\'').replace(/€/g, '&euro;');
-	var leftPosition, topPosition;
-	var width = 400;
-	var height = 300;
-	leftPosition = (window.screen.width / 2) - ((width / 2) + 10);
-	topPosition = (window.screen.height / 2) - ((height / 2) + 50);
-
-	var windowFeatures = "status=no,height=" + height + ",width=" + width + ",resizable=yes,left=" + leftPosition + ",top=" + topPosition + ",screenX=" + leftPosition + ",screenY=" + topPosition + ",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no";
-	var u = GetShortURL('fb');
-	var t = sHeadline;
-	window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(sHeadline) + '&amp;p[title]=' + encodeURIComponent(sHeadline) + '&amp;p[images][0]=' + encodeURIComponent(sImageLocation) + '&amp;p[summary]=' + encodeURIComponent(sHeadline), 'sharer', windowFeatures);
-	return false;
-}
-
-function URLEncode(_headline)
-{
-	var SAFECHARS = "0123456789" + "ABCDEFGHIJKLMNOPQRSTUVWXYZ" + "abcdefghijklmnopqrstuvwxyz" + "-_.!~*'()";
-	var HEX = "0123456789ABCDEF";
-
-	var plaintext = _headline
-	var encoded = "";
-	for (var i = 0; i < plaintext.length; i++ ) {
-		var ch = plaintext.charAt(i);
-		if (ch == " ") {
-			encoded += "+";
-		} else if (SAFECHARS.indexOf(ch) != -1) {
-			encoded += ch;
-		} else {
-			var charCode = ch.charCodeAt(0);
-			if (charCode > 255) {
-				encoded += "+";
-			} 
-			else {
-				encoded += "%";
-				encoded += HEX.charAt((charCode >> 4) & 0xF);
-				encoded += HEX.charAt(charCode & 0xF);
-			}
-		}
-	} 
-	return encoded;
-}
-			function parseDeepLink()
-			{
-				var _toParse = location.href;
-				var _contentId = '-1';				
-
-				//work out what type of link this is, i.e. p= or friendly
-				if(_toParse.indexOf('?p=') >= 0)
-				{
-					var _start 	= _toParse.indexOf('?p=');
-					var _end 	= '';
-					if(_toParse.indexOf('&utm_source') > 0)
-					{
-						_end 	= (_toParse.indexOf('&utm_source') > 0) ? _toParse.indexOf('&utm_source', _start) : _toParse.length;
-					}
-					else
-					{
-						_end 	= (_toParse.indexOf('utm_source') > 0) ? _toParse.indexOf('utm_source', _start) : _toParse.length;
-					}					
-
-					_contentId = _toParse.substring((_start+3), _end);					
-				}
-				else
-				{
-					_link = _toParse;
-					if(endsWith(_link, '/'))
-					{
-						_link = _link.slice(0, _link.length-1);
-					}
-	
-					var _idStart = _link.lastIndexOf('/');
-	
-					var _id = _link.slice(_idStart+1, _link.length);
-	
-					if(isNaN(_id))
-					{
-						_contentId = '-1';
-					}
-					else
-					{
-						_contentId = _id;
-					}	
-				}	
-
-				return _contentId;	
-			}
-
-			/*if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/Android/i)))
-        		{
-				//if(_toParse.indexOf('/app-support') == -1)
-				if(location.href.indexOf('/app-support') == -1)
-				{	
-					//alert('');
-					var _contentId = parseDeepLink();
-					if(_contentId != '-1')
-					{
-						location.href = '/mobile?cid=' + _contentId;
-					}
-					else
-					{
-						location.href = '/mobile';	
-					}
-				}
-        		}*/
-		</script>
-		<script language="javascript" type="text/javascript" src="/wp-includes/js/pb-utilities.js"></script>
-		<script language="javascript" type="text/javascript" src="/wp-includes/js/pb-functions.js?v=1"></script>
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
-		<script type="text/javascript">var _reportingId = "";</script><script type="text/javascript"> jQuery(document).ready(function(){ LogActivity(_reportingId, 1, sv_mid, "", "HP", -1, true); }); </script>	
-
-		<!-- Holding main menu -->
-				
-				
-		<!-- head functions -->
-		<!--[if IE 7]><link rel='stylesheet' id='css-ie-fix' href='http://manage.pigsback.com/wp-content/plugins/special-recent-posts/assets/css/css-ie7-fix.css' type='text/css' media='all' /> <![endif]-->          <script>
-            (function(d){
-              var js, id = 'powr-js', ref = d.getElementsByTagName('script')[0];
-              if (d.getElementById(id)) {return;}
-              js = d.createElement('script'); js.id = id; js.async = true;
-              js.src = '//www.powr.io/powr.js';
-              js.setAttribute('powr-token','pzuwz1dzPX1438007665');
-              js.setAttribute('external-type','wordpress');
-              ref.parentNode.insertBefore(js, ref);
-            }(document));
-          </script>
-          
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.3.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="/privacy-policy">
-<link rel="publisher" href="https://plus.google.com/u/0/b/105028265358480586595/105028265358480586595/about">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy - Pigsback.com – Save up to 55% on hotels, restaurants and spas">
-<meta property="og:url" content="/privacy-policy">
-<meta property="og:site_name" content="Pigsback.com – Save up to 55% on hotels, restaurants and spas">
-<meta property="og:image" content="http://www.pigsback.com/wp-content/uploads/2014/04/740x400.jpg">
-<!-- / Yoast WordPress SEO plugin. -->
-
-<link rel="alternate" type="application/rss+xml" title="Pigsback.com – Save up to 55% on hotels, restaurants and spas » Feed" href="http://www.pigsback.com/feed">
-<link rel="alternate" type="application/rss+xml" title="Pigsback.com – Save up to 55% on hotels, restaurants and spas » Comments Feed" href="http://www.pigsback.com/comments/feed">
-<link rel="alternate" type="application/rss+xml" title="Pigsback.com – Save up to 55% on hotels, restaurants and spas » Privacy Policy Comments Feed" href="/privacy-policy/feed">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.5"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="/wp-includes/js/wp-emoji-release.min.js?ver=4.2.5" type="text/javascript"></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="dzs.advancedscroller-css" href="http://manage.pigsback.com/wp-content/plugins/dzs-portfolio/plugins/dzs-pagebuilder/advancedscroller/plugin.css?ver=4.2.5" type="text/css" media="all">
-<link rel="stylesheet" id="dzs.front.pagebuilder-css" href="http://manage.pigsback.com/wp-content/plugins/dzs-portfolio/plugins/dzs-pagebuilder/front-pagebuilder.css?ver=4.2.5" type="text/css" media="all">
-<link rel="stylesheet" id="dzs.portfolio-css" href="http://manage.pigsback.com/wp-content/plugins/dzs-portfolio/dzsportfolio/dzsportfolio.css?ver=4.2.5" type="text/css" media="all">
-<link rel="stylesheet" id="dzs.zoombox-css" href="http://manage.pigsback.com/wp-content/plugins/dzs-portfolio/zoombox/zoombox.css?ver=4.2.5" type="text/css" media="all">
-<link rel="stylesheet" id="srp-front-stylesheet-css" href="http://manage.pigsback.com/wp-content/plugins/special-recent-posts/assets/css/css-front.css?ver=4.2.5" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://manage.pigsback.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="cb-main-stylesheet-css" href="http://www.pigsback.com/wp-content/themes/valenti/library/css/style.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="cb-font-stylesheet-css" href="//fonts.googleapis.com/css?family=Oswald%3A400%2C700%2C400italic&amp;ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="cb-font-body-stylesheet-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C700%2C400italic&amp;ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="fontawesome-css" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css?ver=3.2.1" type="text/css" media="all">
-<!--[if lt IE 9]>
-<link rel='stylesheet' id='cb-ie-only-css'  href='http://www.pigsback.com/wp-content/themes/valenti/library/css/ie.css?ver=1.0' type='text/css' media='all' />
-<![endif]-->
-<link rel="stylesheet" id="cb-child-stylesheet-css" href="http://www.pigsback.com/wp-content/themes/valenti-child/style.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="simplr-forms-style-css" href="http://manage.pigsback.com/wp-content/plugins/simplr-registration-form/assets/skins/default.css?ver=4.2.5" type="text/css" media="all">
-<script type="text/javascript" src="/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
-<script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="/wp-content/plugins/dzs-portfolio/plugins/dzs-pagebuilder/advancedscroller/plugin.js?ver=4.2.5"></script>
-<script type="text/javascript" src="/wp-content/plugins/dzs-portfolio/dzsportfolio/dzsportfolio.js?ver=4.2.5"></script>
-<script type="text/javascript" src="/wp-content/plugins/dzs-portfolio/zoombox/zoombox.js?ver=4.2.5"></script>
-<script type="text/javascript" src="/wjs/v3.0/javascripts/livefyre.js"></script>
-<script type="text/javascript" src="/wp-content/themes/valenti/library/js/modernizr.custom.min.js?ver=2.6.2"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.pigsback.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.pigsback.com/wp-includes/wlwmanifest.xml"> 
-
-<link rel="shortlink" href="http://www.pigsback.com/?p=1733">
-
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-<script>window.dzsp_settings = {settings_categories_strall : "All"}</script><script>jQuery(document).ready(function($){$.backstretch("http://beta.pigsback.com/wp-content/uploads/2014/02/black.png",  {fade: 750}); }); </script><style>body { background-color: #151515;;}.cb-overlay-stars .icon-star, #cb-vote .icon-star, #cb-to-top .icon-long-arrow-up, .cb-review-box .cb-score-box { color:#FF0099; }#cb-search-modal .cb-header, .cb-join-modal .cb-header, .lwa .cb-header, .cb-review-box .cb-score-box {border-color: #FF0099; }.cb-sidebar-widget .cb-sidebar-widget-title, .cb-multi-widget .tabbernav .tabberactive, .cb-author-page .cb-author-details .cb-meta .cb-author-page-contact, .cb-about-page .cb-author-line .cb-author-details .cb-meta .cb-author-page-contact, .cb-page-header, .cb-404-header, .cb-cat-header, #cb-footer #cb-widgets .cb-footer-widget-title span, #wp-calendar caption, .cb-tabs ul .current {border-bottom-color: #FF0099 ; }#cb-main-menu .current-post-ancestor, #cb-main-menu .current-menu-item, #cb-main-menu .current-menu-ancestor, #cb-main-menu .current-post-parent, #cb-main-menu .current-menu-parent, #cb-main-menu .current_page_item, #cb-main-menu .current-page-ancestor, #cb-main-menu .current-category-ancestor, .cb-review-box .cb-bar .cb-overlay span, #cb-accent-color, .cb-highlight { background-color: #FF0099;}</style><style type="text/css">   
-                                                 body, #respond {font-family: 'Open Sans', sans-serif;}
-                                                 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, #cb-nav-bar #cb-main-menu ul li > a, .cb-breaking-news span, .cb-grid-4 h2 a, .cb-grid-5 h2 a, .cb-grid-6 h2 a, .cb-author-posts-count, .cb-author-title, .cb-author-position, .search  .s, .cb-review-box .cb-bar, .cb-review-box .cb-score-box, .cb-review-box .cb-title, #cb-review-title, .cb-title-subtle, #cb-top-menu a, .tabbernav, .cb-byline, #cb-next-link a, #cb-previous-link a, .cb-review-ext-box .cb-score, .tipper-positioner, .cb-caption, .cb-button, #wp-calendar caption, .forum-titles { font-family:'Oswald', sans-serif; }
-                                                ::-webkit-input-placeholder {font-family:'Oswald', sans-serif;}
-                                                :-webkit-input-placeholder {font-family:'Oswald', sans-serif;}
-                                                :-moz-placeholder {font-family:'Oswald', sans-serif;}
-                                                ::-moz-placeholder {font-family:'Oswald', sans-serif;}
-                                                :-ms-input-placeholder {font-family:'Oswald', sans-serif;}
-                     </style><style type="text/css">html { background: #1c1d1e; }
-#cb-outer-container { position: relative; }
-#pbcq-poll-options label { display: inline; margin-left: 5px; }
-#pbcq-poll-options input[type="radio"] { margin: 0px; }
-
-.is-countdown {
-	border: 1px solid #ccc;
-	background-color: #eee;
-}
-.countdown-rtl {
-	direction: rtl;
-}
-.countdown-holding span {
-	color: #888;
-}
-.countdown-row {
-	clear: both;
-	width: 100%;
-	padding: 0px 2px;
-	text-align: center;
-}
-.countdown-show1 .countdown-section {
-	width: 98%;
-}
-.countdown-show2 .countdown-section {
-	width: 48%;
-}
-.countdown-show3 .countdown-section {
-	width: 32.5%;
-}
-.countdown-show4 .countdown-section {
-	width: 24.5%;
-}
-.countdown-show5 .countdown-section {
-	width: 19.5%;
-}
-.countdown-show6 .countdown-section {
-	width: 16.25%;
-}
-.countdown-show7 .countdown-section {
-	width: 14%;
-}
-.countdown-section {
-	display: block;
-	float: left;
-	font-size: 75%;
-	text-align: center;
-}
-.countdown-amount {
-    font-size: 200%;
-}
-.countdown-period {
-    display: block;
-}
-.countdown-descr {
-	display: block;
-	width: 100%;
-}
-
-@media only screen and (max-width: 1116px) {
-#ladbrokes_banner { display: none; }
-}
-
-/*.cb-sidebar-widget a
-{
-color: #4d4d4d !important
-}
-.cb-breadcrumbs a
-{
-color: gray !important;
-}
-.hp-title-offers a { color: gray !important; }*/
-/* Edit here: wp-includes/css/pb-theme-custom-code.css */
-/*body
-{
-  font-size: 16px !important;
-}
-
-.masonry-item-pb.featured { position: relative; background: #FF0099; }
-.masonry-item-pb.featured .headline a { color: #FFF !important; }
-
-.pink { color: #ec008c; }
-
-.cb-blog-style-b .cb-mask img, .cb-blog-style-c .cb-mask img { max-width: 100%; !important; width: auto; }
-
-.header{ background: #FF0099; }
-#cb-nav-bar #cb-main-menu .main-nav li { font-size: 11px; }
-
-#our-sites{  background-color: #FF0099; width: 100%; }
-
-ul.cb-sub-menu { padding : 0px !important; }
-
-#ac-details { font-size: 14px; }
-
-#wufoo-z1ppot4g1e4c4wt { display: none; }
-
-::-webkit-input-placeholder {font-family: 'Open Sans', sans-serif !important; font-size: 12px; }
-:-webkit-input-placeholder {font-family: 'Open Sans', sans-serif !important; font-size: 12px; }
-:-moz-placeholder {font-family: 'Open Sans', sans-serif !important; font-size: 12px; }
-::-moz-placeholder {font-family: 'Open Sans', sans-serif !important; font-size: 12px; }
-:-ms-input-placeholder {font-family: 'Open Sans', sans-serif !important; font-size: 12px; }
-#logo { padding: 0px; }
-.FA_overall_container_classic_responsive ul.FA_navigation { text-align: center !important; bottom: 5px !important; }
-.FA_overall_container_classic_responsive > a:nth-child(5) { display: none !important; }
-
-.legend table { width: auto; }
-.legend table tr td { border: 0px; }
-#cb-related-posts ul { padding-left: 0px !important; }
-
-p { -moz-hyphens: none; }
-
-.btn{display:inline-block;*display:inline;*zoom:1;padding:4px 12px;margin-bottom:0;font-size:12px;line-height:18px;text-align:center;vertical-align:middle;cursor:pointer;color:#333333;text-shadow:0 1px 1px rgba(255, 255, 255, 0.75);background-color:#f5f5f5;background-image:-moz-linear-gradient(top, #ffffff, #e6e6e6);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#e6e6e6));background-image:-webkit-linear-gradient(top, #ffffff, #e6e6e6);background-image:-o-linear-gradient(top, #ffffff, #e6e6e6);background-image:linear-gradient(to bottom, #ffffff, #e6e6e6);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);border-color:#e6e6e6 #e6e6e6 #bfbfbf;border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);*background-color:#e6e6e6;filter:progid:DXImageTransform.Microsoft.gradient(enabled = false);border:1px solid #cccccc;*border:0;border-bottom-color:#b3b3b3;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;*margin-left:.3em;-webkit-box-shadow:inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);-moz-box-shadow:inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);box-shadow:inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);}.btn:hover,.btn:focus,.btn:active,.btn.active,.btn.disabled,.btn[disabled]{color:#333333;background-color:#e6e6e6;*background-color:#d9d9d9;}
-.btn:active,.btn.active{background-color:#cccccc \9;}
-.btn:first-child{*margin-left:0;}
-.btn:hover,.btn:focus{color:#333333;text-decoration:none;background-position:0 -15px;-webkit-transition:background-position 0.1s linear;-moz-transition:background-position 0.1s linear;-o-transition:background-position 0.1s linear;transition:background-position 0.1s linear;}
-.btn:focus{outline:thin dotted #333;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
-.btn.active,.btn:active{background-image:none;outline:0;-webkit-box-shadow:inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05);-moz-box-shadow:inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05);box-shadow:inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05);}
-.btn.disabled,.btn[disabled]{cursor:default;background-image:none;opacity:0.65;filter:alpha(opacity=65);-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;}
-.btn-large{padding:11px 19px;font-size:15px;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;}
-.btn-large [class^="icon-"],.btn-large [class*=" icon-"]{margin-top:4px;}
-.btn-small{padding:2px 10px;font-size:10.2px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
-.btn-small [class^="icon-"],.btn-small [class*=" icon-"]{margin-top:0;}
-.btn-mini [class^="icon-"],.btn-mini [class*=" icon-"]{margin-top:-1px;}
-.btn-mini{padding:0 6px;font-size:9px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
-.btn-block{display:block;width:100%;padding-left:0;padding-right:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
-.btn-block+.btn-block{margin-top:5px;}
-input[type="submit"].btn-block,input[type="reset"].btn-block,input[type="button"].btn-block{width:100%;}
-.btn-primary.active,.btn-warning.active,.btn-danger.active,.btn-success.active,.btn-info.active,.btn-inverse.active{color:rgba(255, 255, 255, 0.75);}
-.btn-primary{color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background-color:#006dcc;background-image:-moz-linear-gradient(top, #0088cc, #0044cc);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#0044cc));background-image:-webkit-linear-gradient(top, #0088cc, #0044cc);background-image:-o-linear-gradient(top, #0088cc, #0044cc);background-image:linear-gradient(to bottom, #0088cc, #0044cc);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc', endColorstr='#ff0044cc', GradientType=0);border-color:#0044cc #0044cc #002a80;border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);*background-color:#0044cc;filter:progid:DXImageTransform.Microsoft.gradient(enabled = false);}.btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.btn-primary.disabled,.btn-primary[disabled]{color:#ffffff;background-color:#0044cc;*background-color:#003bb3;}
-.btn-primary:active,.btn-primary.active{background-color:#003399 \9;}
-.btn-warning{color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background-color:#faa732;background-image:-moz-linear-gradient(top, #fbb450, #f89406);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#fbb450), to(#f89406));background-image:-webkit-linear-gradient(top, #fbb450, #f89406);background-image:-o-linear-gradient(top, #fbb450, #f89406);background-image:linear-gradient(to bottom, #fbb450, #f89406);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffbb450', endColorstr='#fff89406', GradientType=0);border-color:#f89406 #f89406 #ad6704;border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);*background-color:#f89406;filter:progid:DXImageTransform.Microsoft.gradient(enabled = false);}.btn-warning:hover,.btn-warning:focus,.btn-warning:active,.btn-warning.active,.btn-warning.disabled,.btn-warning[disabled]{color:#ffffff;background-color:#f89406;*background-color:#df8505;}
-.btn-warning:active,.btn-warning.active{background-color:#c67605 \9;}
-.btn-danger{color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background-color:#da4f49;background-image:-moz-linear-gradient(top, #ee5f5b, #bd362f);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#ee5f5b), to(#bd362f));background-image:-webkit-linear-gradient(top, #ee5f5b, #bd362f);background-image:-o-linear-gradient(top, #ee5f5b, #bd362f);background-image:linear-gradient(to bottom, #ee5f5b, #bd362f);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffee5f5b', endColorstr='#ffbd362f', GradientType=0);border-color:#bd362f #bd362f #802420;border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);*background-color:#bd362f;filter:progid:DXImageTransform.Microsoft.gradient(enabled = false);}.btn-danger:hover,.btn-danger:focus,.btn-danger:active,.btn-danger.active,.btn-danger.disabled,.btn-danger[disabled]{color:#ffffff;background-color:#bd362f;*background-color:#a9302a;}
-.btn-danger:active,.btn-danger.active{background-color:#942a25 \9;}
-.btn-success{color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background-color:#5bb75b;background-image:-moz-linear-gradient(top, #62c462, #51a351);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#62c462), to(#51a351));background-image:-webkit-linear-gradient(top, #62c462, #51a351);background-image:-o-linear-gradient(top, #62c462, #51a351);background-image:linear-gradient(to bottom, #62c462, #51a351);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff62c462', endColorstr='#ff51a351', GradientType=0);border-color:#51a351 #51a351 #387038;border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);*background-color:#51a351;filter:progid:DXImageTransform.Microsoft.gradient(enabled = false);}.btn-success:hover,.btn-success:focus,.btn-success:active,.btn-success.active,.btn-success.disabled,.btn-success[disabled]{color:#ffffff;background-color:#51a351;*background-color:#499249;}
-.btn-success:active,.btn-success.active{background-color:#408140 \9;}
-.btn-info{color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background-color:#49afcd;background-image:-moz-linear-gradient(top, #5bc0de, #2f96b4);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#5bc0de), to(#2f96b4));background-image:-webkit-linear-gradient(top, #5bc0de, #2f96b4);background-image:-o-linear-gradient(top, #5bc0de, #2f96b4);background-image:linear-gradient(to bottom, #5bc0de, #2f96b4);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff2f96b4', GradientType=0);border-color:#2f96b4 #2f96b4 #1f6377;border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);*background-color:#2f96b4;filter:progid:DXImageTransform.Microsoft.gradient(enabled = false);}.btn-info:hover,.btn-info:focus,.btn-info:active,.btn-info.active,.btn-info.disabled,.btn-info[disabled]{color:#ffffff;background-color:#2f96b4;*background-color:#2a85a0;}
-.btn-info:active,.btn-info.active{background-color:#24748c \9;}
-.btn-inverse{color:#ffffff;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background-color:#363636;background-image:-moz-linear-gradient(top, #444444, #222222);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#444444), to(#222222));background-image:-webkit-linear-gradient(top, #444444, #222222);background-image:-o-linear-gradient(top, #444444, #222222);background-image:linear-gradient(to bottom, #444444, #222222);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff444444', endColorstr='#ff222222', GradientType=0);border-color:#222222 #222222 #000000;border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);*background-color:#222222;filter:progid:DXImageTransform.Microsoft.gradient(enabled = false);}.btn-inverse:hover,.btn-inverse:focus,.btn-inverse:active,.btn-inverse.active,.btn-inverse.disabled,.btn-inverse[disabled]{color:#ffffff;background-color:#222222;*background-color:#151515;}
-.btn-inverse:active,.btn-inverse.active{background-color:#080808 \9;}
-button.btn,input[type="submit"].btn{*padding-top:3px;*padding-bottom:3px;}button.btn::-moz-focus-inner,input[type="submit"].btn::-moz-focus-inner{padding:0;border:0;}
-button.btn.btn-large,input[type="submit"].btn.btn-large{*padding-top:7px;*padding-bottom:7px;}
-button.btn.btn-small,input[type="submit"].btn.btn-small{*padding-top:3px;*padding-bottom:3px;}
-button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-bottom:1px;}
-.btn-link,.btn-link:active,.btn-link[disabled]{background-color:transparent;background-image:none;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;}
-.btn-link{border-color:transparent;cursor:pointer;color:#0088cc;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;}
-.btn-link:hover,.btn-link:focus{color:#005580;text-decoration:underline;background-color:transparent;}
-.btn-link[disabled]:hover,.btn-link[disabled]:focus{color:#333333;text-decoration:none;}
-.btn-group{position:relative;display:inline-block;*display:inline;*zoom:1;font-size:0;vertical-align:middle;white-space:nowrap;*margin-left:.3em;}.btn-group:first-child{*margin-left:0;}
-.btn-group+.btn-group{margin-left:5px;}
-.btn-toolbar{font-size:0;margin-top:9px;margin-bottom:9px;}.btn-toolbar>.btn+.btn,.btn-toolbar>.btn-group+.btn,.btn-toolbar>.btn+.btn-group{margin-left:5px;}
-.btn-group>.btn{position:relative;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;}
-.btn-group>.btn+.btn{margin-left:-1px;}
-.btn-group>.btn,.btn-group>.dropdown-menu,.btn-group>.popover{font-size:12px;}
-.btn-group>.btn-mini{font-size:9px;}
-.btn-group>.btn-small{font-size:10.2px;}
-.btn-group>.btn-large{font-size:15px;}
-.btn-group>.btn:first-child{margin-left:0;-webkit-border-top-left-radius:4px;-moz-border-radius-topleft:4px;border-top-left-radius:4px;-webkit-border-bottom-left-radius:4px;-moz-border-radius-bottomleft:4px;border-bottom-left-radius:4px;}
-.btn-group>.btn:last-child,.btn-group>.dropdown-toggle{-webkit-border-top-right-radius:4px;-moz-border-radius-topright:4px;border-top-right-radius:4px;-webkit-border-bottom-right-radius:4px;-moz-border-radius-bottomright:4px;border-bottom-right-radius:4px;}
-.btn-group>.btn.large:first-child{margin-left:0;-webkit-border-top-left-radius:6px;-moz-border-radius-topleft:6px;border-top-left-radius:6px;-webkit-border-bottom-left-radius:6px;-moz-border-radius-bottomleft:6px;border-bottom-left-radius:6px;}
-.btn-group>.btn.large:last-child,.btn-group>.large.dropdown-toggle{-webkit-border-top-right-radius:6px;-moz-border-radius-topright:6px;border-top-right-radius:6px;-webkit-border-bottom-right-radius:6px;-moz-border-radius-bottomright:6px;border-bottom-right-radius:6px;}
-.btn-group>.btn:hover,.btn-group>.btn:focus,.btn-group>.btn:active,.btn-group>.btn.active{z-index:2;}
-.btn-group .dropdown-toggle:active,.btn-group.open .dropdown-toggle{outline:0;}
-.btn-group>.btn+.dropdown-toggle{padding-left:8px;padding-right:8px;-webkit-box-shadow:inset 1px 0 0 rgba(255,255,255,.125), inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);-moz-box-shadow:inset 1px 0 0 rgba(255,255,255,.125), inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);box-shadow:inset 1px 0 0 rgba(255,255,255,.125), inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);*padding-top:5px;*padding-bottom:5px;}
-.btn-group>.btn-mini+.dropdown-toggle{padding-left:5px;padding-right:5px;*padding-top:2px;*padding-bottom:2px;}
-.btn-group>.btn-small+.dropdown-toggle{*padding-top:5px;*padding-bottom:4px;}
-.btn-group>.btn-large+.dropdown-toggle{padding-left:12px;padding-right:12px;*padding-top:7px;*padding-bottom:7px;}
-.btn-group.open .dropdown-toggle{background-image:none;-webkit-box-shadow:inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05);-moz-box-shadow:inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05);box-shadow:inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05);}
-.btn-group.open .btn.dropdown-toggle{background-color:#e6e6e6;}
-.btn-group.open .btn-primary.dropdown-toggle{background-color:#0044cc;}
-.btn-group.open .btn-warning.dropdown-toggle{background-color:#f89406;}
-.btn-group.open .btn-danger.dropdown-toggle{background-color:#bd362f;}
-.btn-group.open .btn-success.dropdown-toggle{background-color:#51a351;}
-.btn-group.open .btn-info.dropdown-toggle{background-color:#2f96b4;}
-.btn-group.open .btn-inverse.dropdown-toggle{background-color:#222222;}
-
-.FA_read_more { background: #FF0099 !important; font-size: 130% !important; }
-.FA_read_more::after { content: ' \2192'; }
-
-.bg-aib-purple
-{
-	color: #FFFFFF !important;
-	background-color: #5a3b74;
-	*background-color: #5a3b74;
-	background-image: -webkit-gradient(linear, center top, center bottom, color-stop(0%, #5a3b74), color-stop(100%, #330134));
-	background-image: -webkit-linear-gradient(top, #5a3b74 0%, #330134 100%);
-	background-image: -moz-linear-gradient(top, #5a3b74 0%, #330134 100%);
-	background-image: -ms-linear-gradient(top, #5a3b74 0%, #330134 100%);
-	background-image: -o-linear-gradient(top, #5a3b74 0%, #330134 100%);
-	background-image: linear-gradient(to bottom, #5a3b74 0%, #330134 100%);
-	border-color: #330134;
-	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr='#5a3b74', endColorstr='#330134');
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#5a3b74', endColorstr='#330134')";
-}
-
-@media 
-(-webkit-min-device-pixel-ratio: 2), 
-(min-resolution: 192dpi) { 
-
-
-}
-.slides, .flex-control-nav, .flex-direction-nav { padding: 0 !important; }
-@media only screen and (min-width: 481px) {
-	div.pb-flexslider h2.h4 { font-size: 14px; }
-	div.pb-flexslider div.headline { font-size: 12px; }
-	div.pb-flexslider button { width: 90%; margin: 10px auto; font-size: 14px; line-height: 20px; }
-	div.pb-flexslider div.discount { font-size: 18px; font-weight: bold; margin-top: -7px; }
-	div.pb-flexslider div.discount span.from { font-size: 10px; }
-}
-
-@media only screen and (min-width: 768px) {
-#wufoo-z1ppot4g1e4c4wt{display: block !important; }
-#wufoo-z1ppot4g1e4c4wt-mobile{display: none;}
-	div.pb-flexslider h2.h4 { font-size: 14px; }
-	div.pb-flexslider div.headline { font-size: 13px; }
-	div.pb-flexslider div.discount { font-size: 18px; }
-}
-
-@media only screen and (min-width: 1020px) {
-	div.pb-flexslider h2.h4 { font-size: 20px; }
-	div.pb-flexslider div.headline { font-size: 14px; }
-	div.pb-flexslider button { font-size: 16px; line-height: 30px; }
-	div.pb-flexslider div.discount { font-size: 24px; }
-	div.pb-flexslider div.discount span.from { font-size: 11px; }
-}
-
-@media only screen and (min-width: 481px) {
-	.cb-module-a .cb-article .cb-meta h2 { height: 42px; overflow: hidden; }
-}
-@media only screen and (min-width: 768px) {
-	.cb-module-a .cb-article .cb-meta .cb-excerpt { height: 95px; overflow: hidden; }
-}
-@media only screen and (min-width: 1020px) {
-.cb-module-a .cb-article .cb-meta h2 { height: 60px; }
-.cb-module-a .cb-article .cb-meta .cb-excerpt { height: 60px; }
-}
-
-#our-sites{ background-image: url('/wp-content/uploads/2014/04/pattern-b3li.png');}
-.header{ background-image: url('/wp-content/uploads/2014/04/pattern-b3li.png');}
-
-#LogoSVG { margin-bottom: -2px; }
-
-.hp-title-offers
-{
-	width: 100%;
-	text-align: center;
-	margin-bottom: 10px;
-	padding: 20px 0px 12px 0px;
-	font-size: 1.3em;
-	background-color: #F0F0F0;
-	font-weight: normal;
-	font-family: oswald;
-	cursor: move;
-}
-
-.btn-jump
-{
-    border: solid 1px #CCC;
-    float: left;
-    margin: 10px 12px 4px 0px;
-    font-size: 0.8em;
-    padding: 4px 8px 4px 8px;
-    cursor: pointer;
-}
-
-.hp-title-offers-cat-2{		border-bottom: solid 8px #5F921C; border-top: solid 1px #CCC;	}
-.hp-title-offers-cat-2 a { color: #5F921C; }
-.hp-title-offers-cat-13{	border-bottom: solid 8px #0088CC; border-top: solid 1px #CCC;	}
-.hp-title-offers-cat-13 a { color: #0088CC; }
-.hp-title-offers-cat-11{	border-bottom: solid 8px #CCCCCC; border-top: solid 1px #CCC;	}
-.hp-title-offers-cat-11 a { color: #999; }
-.hp-title-offers-cat-12{	border-bottom: solid 8px #5B245D; border-top: solid 1px #CCC;	}
-.hp-title-offers-cat-12 a { color: #5B245D; }
-.hp-title-offers-cat-6{		border-bottom: solid 8px #F7931E; border-top: solid 1px #CCC;	}
-.hp-title-offers-cat-6 a { color: #F7931E; }
-.hp-title-offers-cat-3{		border-bottom: solid 8px #161616; border-top: solid 1px #CCC;	}
-.hp-title-offers-cat-3 a { color: #161616; }
-
-.hp-title-pb-cat-20{	border-bottom: solid 8px #99D6D1; border-top: solid 1px #CCC;	}
-.hp-title-pb-cat-20 a { color: #99D6D1; }
-.hp-title-pb-cat-13{	border-bottom: solid 8px #FFCC66; border-top: solid 1px #CCC;	}
-.hp-title-pb-cat-13 a { color: #FFCC66; }
-.hp-title-pb-cat-40{	border-bottom: solid 8px #B79AC8; border-top: solid 1px #CCC;	}
-.hp-title-pb-cat-40 a { color: #B79AC8; }
-.hp-title-pb-cat-19{	border-bottom: solid 8px #C3D62D; border-top: solid 1px #CCC;	}
-.hp-title-pb-cat-19 a { color: #C3D62D; }
-.hp-title-pb-cat-155{	border-bottom: solid 8px #EE539D; border-top: solid 1px #CCC;	}
-.hp-title-pb-cat-155 a { color: #EE539D; }
-
-.hp-jump-offers-2{		border-bottom: solid 2px #5F921C; border-top: solid 1px #CCC;	}
-.hp-jump-offers-13{	border-bottom: solid 2px #0088CC; border-top: solid 1px #CCC;	}
-.hp-jump-offers-11{	border-bottom: solid 2px #CCCCCC; border-top: solid 1px #CCC;	}
-.hp-jump-offers-12{	border-bottom: solid 2px #5B245D; border-top: solid 1px #CCC;	}
-.hp-jump-offers-6{		border-bottom: solid 2px #F7931E; border-top: solid 1px #CCC;	}
-.hp-jump-offers-3{		border-bottom: solid 2px #161616; border-top: solid 1px #CCC;	}
-
-.hp-jump-pb-20{	border-bottom: solid 2px #99D6D1; border-top: solid 1px #CCC;	}
-.hp-jump-pb-13{	border-bottom: solid 2px #FFCC66; border-top: solid 1px #CCC;	}
-.hp-jump-pb-40{	border-bottom: solid 2px #B79AC8; border-top: solid 1px #CCC;	}
-.hp-jump-pb-19{	border-bottom: solid 2px #C3D62D; border-top: solid 1px #CCC;	}
-.hp-jump-pb-155{	border-bottom: solid 2px #EE539D; border-top: solid 1px #CCC;	}
-
-
-.offer-masonry
-{
-	
-}
-
-.masonry-item
-{
-	width: 22%;
-        margin-left: 2%;
-	height: 370px;
-	margin-bottom: 20px;
-	border: solid 2px #CCC;
-	border-radius: 5px;
-	float: left;
-	margin-right: 5px;
-	overflow: hidden;
-	text-align: center;
-	padding-top: 6px;
-}
-
-.masonry-item img {
-    max-width: 95%;
-    height: 100%;
-}
-
-
-.masonry-item-pb
-{
-	width: 22%;
-        margin-left: 2%;
-	min-height: 300px;
-	margin-bottom: 20px;
-	border: solid 2px #CCC;
-	border-radius: 5px;
-	float: left;
-	margin-right: 5px;
-	overflow: hidden;
-	text-align: center;
-	padding-top: 6px;
-}
-
-.masonry-offer-image
-{
-	width: 100%;
-	height: 164px;
-}
-
-.masonry-control
-{
-	width: 20%;
-	background-color: #CCC;
-	color: #000;
-	clear: both;
-        margin-bottom: 40px;
-        margin-left: 80%;
-}
-
-div.masonry-item h2.h4
-{
-max-height: 30px;
-	text-align: center;
-overflow:hidden;
-}
-
-div.masonry-item div.discount-price
-{
-	height: 20px;
-}
-
-div.masonry-item div.headline
-{
-	height: 65px;
-}
-
-div.masonry-item div.headline a, div.masonry-item-pb div.headline a
-{
-	color: gray;
-}
-
-div.masonry-item div.headline a:hover
-{
-	text-decoration: none;
-}
-
-#cb-related-posts .cb-mask a img { min-height: 192px; }
-#cb-related-posts .cb-meta { bottom: 0px !important; background: #666; opacity: 0.9;height: 70px;overflow: hidden; }
-
-.widget_recent_entries ul { list-style: none; padding-left: 10px !important }
-.widget_recent_entries ul li:before { content: "\25BA"; }
-.widget_recent_entries ul li { margin: 5px; }
-.cb-blog-style-b .cb-meta h2, .cb-blog-style-c .cb-meta h2 { height: 60px; overflow: hidden; }
-.cb-blog-style-b .cb-meta .cb-excerpt, .cb-blog-style-c .cb-meta .cb-excerpt { height: 90px; overflow: hidden; }
-.cb-grid-4 .cb-article-meta, .cb-grid-5 .cb-article-meta, .cb-grid-6 .cb-article-meta  { max-height: 85px; overflow: hidden; }
-@media only screen and (min-width: 481px)
-{
-	div.masonry-item h2.h4 { font-size: 14px; }
-	div.masonry-item div.headline { font-size: 12px; }
-	div.masonry-item button { width: 90%; margin: 10px auto; font-size: 14px; line-height: 20px; }
-	div.masonry-item div.discount { font-size: 18px; font-weight: bold; margin-top: -7px; }
-	div.masonry-item div.discount span.from { font-size: 10px; }
-}
-
-@media only screen and (min-width: 768px)
-{
-	div.masonry-item h2.h4 { font-size: 14px; }
-	div.masonry-item div.headline { font-size: 13px; }
-	div.masonry-item div.discount { font-size: 18px; }
-}
-
-@media only screen and (min-width: 1020px) 
-{
-	div.masonry-item h2.h4 { font-size: 20px; }
-	div.masonry-item div.headline { font-size: 14px; }
-	div.masonry-item button { font-size: 16px; line-height: 30px; }
-	div.masonry-item div.discount { font-size: 24px; }
-	div.masonry-item div.discount span.from { font-size: 11px; }
-}
-
-#hp-sec-jump-title
-{
-    width: 10%;
-    float: left;
-    padding-top: 12px;
-}
-
-#hp-sec-jump
-{
-    width: 85%;
-    float: left;
-    margin-bottom: 15px;
-}
-
-body
-{
-    -webkit-animation-duration: 0.1s;
-    -webkit-animation-name: fontfix;
-    -webkit-animation-iteration-count: 1;
-    -webkit-animation-timing-function: linear;
-    -webkit-animation-delay: 0.1s;
-}
-
-@-webkit-keyframes fontfix{
-    from{ opacity: 1; }
-    to{ opacity: 1; }
-}
-
-
-    #md_login .pb-container .reg-block { color: rgb(51, 51, 51); border-top: 2px solid #EE539D; }
-    #md_login .pb-container .reg-block-header { border-bottom: 1px solid rgb(238, 238, 238); margin-bottom: 10px; }
-    #md_login .pb-container .reg-block-header h2 { color: rgb(119, 119, 119); font-family: 'Open Sans', sans-serif; font-size: 28px; font-weight: normal; height: 30px; line-height: 30.799999237060547px; margin: 5px 0px !important; text-align: center; }
-	#md_login .pb-container .reg-block-header p { color: rgb(119, 119, 119); text-align: center; line-height: 30px !important; font-size: 13px; margin: 0px !important; line-height: 150% !important; }
-    #md_login .pb-container .input-group.margin-bottom-20 { clear: both; color: rgb(51, 51, 51); display: table; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; height: 34px; line-height: 20.799999237060547px; margin-bottom: 10px; position: relative; width: 100%; }
-    #md_login .pb-container .input-group-addon { border: 1px solid rgb(204, 204, 204); border-right: 0px; box-sizing: border-box; color: rgb(187, 187, 187); display: table-cell; height: 34px; line-height: 14px; min-width: 40px; text-align: center; vertical-align: middle; width: 40px; }
-    #md_login .pb-container input[type="text"], .pb-container input[type="password"] { border: 1px solid rgb(204, 204, 204); color: rgb(85, 85, 85); font-size: 14px; height: 34px !important; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; line-height: 20px; text-indent: 0px; vertical-align: middle; margin: 0px; width: 90%; padding: 0px 5px; }
-    #md_login .pb-container select { font-size: 14px; height: 36px !important; margin: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 5px; color: rgb(85, 85, 85); }
-    #md_login .pb-container label.checkbox p { height: 20px; line-height: 20.799999237060547px; margin-bottom: 10px; }
-    #md_login .pb-container label.checkbox p a { color: rgb(119, 119, 119); text-decoration: underline solid rgb(119, 119, 119); }
-    #md_login .pb-container .col-md-10.col-md-offset-1 { margin: auto; width: 90%; text-align: center; }
-    #md_login .pb-container .col-md-10.col-md-offset-1 button { background-color: #EE539D; border: 1px solid rgb(255, 255, 255); box-sizing: border-box; color: rgb(255, 255, 255); padding-bottom: 6px; padding-left: 13px; padding-right: 13px; padding-top: 6px; text-align: center; width: 80%; margin: auto; }
-    #md_login .pb-container hr { margin: 5px 0px; }
-    #md_login .pb-container .btn:hover { color: #FFF; }
-
-#md_email_signup .pb-container .reg-block { color: rgb(51, 51, 51); border-top: 2px solid #EE539D; }
-    #md_email_signup .pb-container .reg-block-header { border-bottom: 1px solid rgb(238, 238, 238); margin-bottom: 10px; }
-    #md_email_signup .pb-container .reg-block-header h2 { color: rgb(119, 119, 119); font-family: 'Open Sans', sans-serif; font-size: 28px; font-weight: normal; height: 30px; line-height: 30.799999237060547px; margin: 5px 0px !important; text-align: center; }
-    #md_email_signup .pb-container .reg-block-header p { color: rgb(119, 119, 119); text-align: center; line-height: 30px !important; font-size: 13px; margin: 0px !important; line-height: 150% !important; }
-    #md_email_signup .pb-container .input-group.margin-bottom-20 { clear: both; color: rgb(51, 51, 51); display: table; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; height: 34px; line-height: 20.799999237060547px; margin-bottom: 10px; position: relative; width: 100%; }
-    #md_email_signup .pb-container .input-group-addon { border: 1px solid rgb(204, 204, 204); border-right: 0px; box-sizing: border-box; color: rgb(187, 187, 187); display: table-cell; height: 34px; line-height: 14px; min-width: 40px; text-align: center; vertical-align: middle; width: 40px; }
-    #md_email_signup .pb-container input[type="text"], .pb-container input[type="password"] { border: 1px solid rgb(204, 204, 204); color: rgb(85, 85, 85); font-size: 14px; height: 34px !important; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; line-height: 20px; text-indent: 0px; vertical-align: middle; margin: 0px; width: 90%; padding: 0px 5px; }
-    #md_email_signup .pb-container select { font-size: 14px; height: 36px !important; margin: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 5px; color: rgb(85, 85, 85); }
-    #md_email_signup .pb-container select option { z-index: 1000; }
-    #md_email_signup .pb-container label.checkbox p { height: 20px; line-height: 20.799999237060547px; margin-bottom: 10px; }
-    #md_email_signup .pb-container label.checkbox p a { color: rgb(119, 119, 119); text-decoration: underline solid rgb(119, 119, 119); }
-    #md_email_signup .pb-container .col-md-10.col-md-offset-1 { margin: auto; width: 90%; text-align: center; }
-    #md_email_signup .pb-container .col-md-10.col-md-offset-1 button { background-color: #EE539D; border: 1px solid rgb(255, 255, 255); box-sizing: border-box; color: rgb(255, 255, 255); padding-bottom: 6px; padding-left: 13px; padding-right: 13px; padding-top: 6px; text-align: center; width: 80%; margin: auto; }
-    #md_email_signup .pb-container hr { margin: 5px 0px; }
-
-    #md_forgotten .pb-container .reg-block { color: rgb(51, 51, 51); border-top: 2px solid #EE539D; }
-    #md_forgotten .pb-container .reg-block-header { border-bottom: 1px solid rgb(238, 238, 238); margin-bottom: 10px; }
-    #md_forgotten .pb-container .reg-block-header h2 { color: rgb(119, 119, 119); font-family: 'Open Sans', sans-serif; font-size: 28px; font-weight: normal; height: 30px; line-height: 30.799999237060547px; margin: 5px 0px !important; text-align: center; }
-    #md_forgotten .pb-container .reg-block-header p { color: rgb(119, 119, 119); text-align: center; line-height: 30px !important; font-size: 13px; margin: 0px !important; line-height: 150% !important; }
-    #md_forgotten .pb-container .input-group.margin-bottom-20 { clear: both; color: rgb(51, 51, 51); display: table; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; height: 34px; line-height: 20.799999237060547px; margin-bottom: 10px; position: relative; width: 100%; }
-    #md_forgotten .pb-container .input-group-addon { border: 1px solid rgb(204, 204, 204); border-right: 0px; box-sizing: border-box; color: rgb(187, 187, 187); display: table-cell; height: 34px; line-height: 14px; min-width: 40px; text-align: center; vertical-align: middle; width: 40px; }
-    #md_forgotten .pb-container input[type="text"], .pb-container input[type="password"] { border: 1px solid rgb(204, 204, 204); color: rgb(85, 85, 85); font-size: 14px; height: 34px !important; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; line-height: 20px; text-indent: 0px; vertical-align: middle; margin: 0px; width: 90%; padding: 0px 5px; }
-    #md_forgotten .pb-container select { font-size: 14px; height: 36px !important; margin: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 5px; color: rgb(85, 85, 85); }
-    #md_forgotten .pb-container label.checkbox p { height: 20px; line-height: 20.799999237060547px; margin-bottom: 10px; }
-    #md_forgotten .pb-container label.checkbox p a { color: rgb(119, 119, 119); text-decoration: underline solid rgb(119, 119, 119); }
-    #md_forgotten .pb-container .col-md-10.col-md-offset-1 { margin: auto; width: 90%; text-align: center; }
-    #md_forgotten .pb-container .col-md-10.col-md-offset-1 button { background-color: #EE539D; border: 1px solid rgb(255, 255, 255); box-sizing: border-box; color: rgb(255, 255, 255); padding-bottom: 6px; padding-left: 13px; padding-right: 13px; padding-top: 6px; text-align: center; width: 80%; margin: auto; }
-    #md_forgotten .pb-container hr { margin: 5px 0px; }
-    #md_forgotten .pb-container .btn:hover { color: #FFF; }
-
-
-@media only screen 
-and (min-device-width : 1024px) 
-and (max-device-width : 1024px)  
-{ 
-    .masonry-item-pb {
-      width: 245px;
+<!--The following is the downloaded HTML source of the pigsback.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606155951id_/http%3A//www.pigsback.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>Privacy Policy - Save up to 55% on hotels, restaurants, and spas | Pigsback.com</title>
+    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"3840d3da22","applicationID":"4490692","transactionName":"MwEBYEBZDEoHVEwMCgpLJ1tGdgdNJVhWERcLCA9RQBcqVgtSFzUXDRICV0toDVUPVEE=","queueTime":0,"applicationTime":5,"ttGuid":"3BAAFA84BAEA9CD","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw8PV1RbGwcEXVFUDgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="canonical" href="http://www.pigsback.com">
+    <meta property="og:site_name" content="Pigsback.com">
+    <meta property="og:type" content="website">
+
+    <meta property="og:title" content="Privacy Policy - Save up to 55% on hotels, restaurants, and spas | Pigsback.com">
+    <meta property="og:description" name="description" content="Save up to 55% on hotels, restaurants, and spas | Pigsback.com">
+    <meta property="og:image" content="http://img.pigsback.com/images/pigsback_logo.png">
+    <meta property="og:url" content="http://www.pigsback.com">
+    <meta name="keywords" property="keywords">
+    <meta name="sailthru.tags">
+    <meta name="sailthru.author" content="Pigsback.com">
+    <meta name="sailthru.date">
+    <meta name="sailthru.expire_date">
+    <meta name="sailthru.description" content="Save up to 55% on hotels, restaurants, and spas | Pigsback.com">
+    <meta name="sailthru.image.full" content="http://img.pigsback.com/images/pigsback_logo.png">
+    <meta name="sailthru.title" content="Privacy Policy - Save up to 55% on hotels, restaurants, and spas | Pigsback.com">
+    <meta name="sailthru.location">
+    <style type="text/css"> 
+        [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+            display: none !important;
+        }
+    </style>
+    <link href="/favicon.png" rel="icon">
+    <link href="/Content/css-pb?v=D2MNdcVzeyq24h0PGk8TbR7oA2S7Nr8r3RU-zKRTQ4g1" rel="stylesheet">
+
+    <script src="/bundles/site?v=id3FswkBRHd1lfB1U4zKQAMy3DJ6Xm_6VXKAAhPjUYk1"></script>
+
+    <!--[if lt IE 9]>
+    <script src="/Scripts/html5shiv.js"></script>
+    <![endif]-->
+    
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "url": "http://www.pigsback.com/",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "http://www.pigsback.com/search/{search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
     }
+    </script>
+    <script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+    <!-- START: GOOGLE DFP -->
+    <script type="text/javascript">
+        var o970x90 = googletag.sizeMapping().addSize([0, 0], []).addSize([980, 500], [970, 90]).build();
+        var o728x90 = googletag.sizeMapping().addSize([0, 0], []).addSize([980, 500], [728, 90]).build();
+        var o300x130 = googletag.sizeMapping().addSize([0, 0], []).addSize([320, 500], [300, 130]).addSize([980, 500], []).build();
+        var o300x250 = googletag.sizeMapping().addSize([0, 0], []).addSize([320, 500], [300, 250]).addSize([980, 500], []).build();
+        var o320x50 = googletag.sizeMapping().addSize([0, 0], []).addSize([320, 500], [320, 50]).addSize([980, 500], []).build();
 
-    .masonry-item {
-      width: 245px;
-    }
-}*/</style><!-- end custom css --><style type="text/css" id="custom-background-css">
-body.custom-background { background-color: #a5a5a5; }
-</style>
-<script type="text/javascript">
-(function(url){
-if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
-var wfscr = document.createElement('script');
-wfscr.type = 'text/javascript';
-wfscr.async = true;
-wfscr.src = url + '&r=' + Math.random();
-(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
-})('//www.pigsback.com/wp-admin/admin-ajax.php?action=wordfence_logHuman&hid=1B109AF03B2D3AEFC04B2A3E85EBE86D');
-</script><script type="text/javascript" async="" src="//www.pigsback.com/wp-admin/admin-ajax.php?action=wordfence_logHuman&amp;hid=1B109AF03B2D3AEFC04B2A3E85EBE86D&amp;r=0.8291838933792923"></script>		<!-- end head functions-->
-		<script type="text/javascript" src="/wp-includes/js/pb-customizations.js?v=0.2"></script>
-		<script language="javascript" type="text/javascript" src="/wp-includes/js/jquery.flot.js"></script>
-		<script language="javascript" type="text/javascript" src="/wp-includes/js/jquery.flot.pie.js"></script>
-		<script language="javascript" type="text/javascript" src="/wp-includes/js/jquery.als.js"></script>
-		<script language="javascript" type="text/javascript" src="/wp-includes/js/pb-offer-masonry.js?v=1"></script>
-		<script language="javascript" type="text/javascript" src="/wp-includes/js/masonry.js"></script>
-		<script type="text/javascript">
-			if (location.href.indexOf('pigsback.ie') >= 0) location.href = location.href.replace('pigsback.ie', 'pigsback.com');
-			jQuery(window).load(function(){jQuery('body').width(jQuery('body').width()+1).width('auto')});
-			var __CookieDomain = ".pigsback.com";
-			var __API = 'http://api.pigsback.com/';
+        var o970x250 = googletag.sizeMapping().addSize([0, 0], []).addSize([980, 500], [970, 250]).build();
+        var o300x250 = googletag.sizeMapping().addSize([0, 0], []).addSize([320, 500], [300, 250]).addSize([980, 500], []).build();
 
-jQuery(document).ready(function(){ 
-jQuery('.header').show();
-jQuery('#menu-item-75 ul').prepend('<li><a href="/category/money">Brought to you by <img src="http://www.aib.ie/futuretense_cs/AIB_IE/_img/misc/aib_logo.gif" style="height:45px;vertical-align: middle;margin-left: 5px;margin-bottom: 5px;"></a></li>');
-jQuery('#menu-item-81 ul').prepend('<li><a href="/category/travel">Brought to you by <img src="//www.pigsback.com/wp-content/uploads/2014/05/daa-logo.gif" style="width:65px;vertical-align: middle;margin-left: 5px;margin-bottom: 5px; border: 4px solid #FFF;"></a></li>');
-jQuery('.menu-item-4459').addClass('cb-has-children'); 
-jQuery('.menu-item-4518').addClass('cb-has-children');
-jQuery('.menu-item-10964').addClass('cb-has-children');
-jQuery('.menu-item-11034').addClass('cb-has-children');
+        var o970x90 = googletag.sizeMapping().addSize([0, 0], []).addSize([980, 500], [970, 90]).build();
+        var o300x130 = googletag.sizeMapping().addSize([0, 0], []).addSize([320, 500], [300, 130]).addSize([980, 500], []).build();
+        var o780x90 = googletag.sizeMapping().addSize([0, 0], []).addSize([980, 500], [728, 90]).build();
+        var o300x130 = googletag.sizeMapping().addSize([0, 0], []).addSize([320, 500], [300, 130]).addSize([980, 500], []).build();
+        var o250x250 = googletag.sizeMapping().addSize([0, 0], []).addSize([980, 500], [250, 250]).build();
+        var o160x600 = googletag.sizeMapping().addSize([0, 0], []).addSize([980, 500], [160, 600]).build();
 
-if (_reportingId == "9620")
-{
-jQuery('header .cb-entry-header').click(function(){ window.open('http://www.discovernorthernireland.com'); });
-jQuery('header .cb-entry-header').css('cursor', 'pointer');
-}
-});
-		function QueryString(e) { for (var t = window.location.search.substring(1), a = t.split("&"), n = 0; n < a.length; n++) { var i = a[n].split("="); if (i[0] == e) return i[1] } }
-		function Set_Cookie(e,t,n,r,i,s){var o=new Date;o.setTime(o.getTime());if(n){n=n*1e3*60*60*24}var u=new Date(o.getTime()+n);document.cookie=e+"="+escape(t)+(n?";expires="+u.toGMTString():"")+(r?";path="+r:"")+(i?";domain="+i:"")+(s?";secure":"")}
-		function Get_Cookie(e){var t=document.cookie.split(";");var n="";var r="";var s="";var o=false;for(i=0;i<t.length;i++){n=t[i].split("=");r=n[0].replace(/^\s+|\s+$/g,"");if(r==e){o=true;if(n.length>1){s=unescape(n[1].replace(/^\s+|\s+$/g,""))}return s;break}n=null;r=""}if(!o){return null}}
-		function DismissCookiePolicy(){Set_Cookie("eu_policy","1",365,"/",__CookieDomain,"");$("#eu_cookie_policy").slideUp("slow")}
-
-		</script>
-	</head>
-
-	<body class="page page-id-1733 page-template-default custom-background" style="width: auto;">
-
-                
-	    <div id="cb-outer-container">
-    		<div id="cb-container" class="">    		
-<!-- 
-<script type="text/javascript" src="http://api.pigsback.com/Navigation/Provider.aspx?apikey=BA736DA0-08D4-4396-ACEA-B76F1EC8D2F5&cmd=full-nav&fmt=json&cid=0&scid=0"></script>
--->
-<script type="text/javascript" src="http://api.pigsback.com/html/member-variables.js"></script>
-<script type="text/javascript" src="http://api.pigsback.com/Navigation/Provider.aspx?apikey=BA736DA0-08D4-4396-ACEA-B76F1EC8D2F5&amp;cmd=user-nav&amp;fmt=json"></script>
-<script type="text/javascript" src="http://api.pigsback.com/html/compiled-navigation.js?v=1.2.2"></script>
-
- <!-- end header -->
-        <div class="cb-cat-header" style="border-bottom-color:#FF0099;">
+        var gptAdSlots = [];
+    </script>
+    <script type="text/javascript">
+        var iGoogleTag = '1021998';
+        googletag.cmd.push(function () {
+            gptAdSlots.push(googletag.defineSlot('/' + iGoogleTag + '/ROS_970x90', [970, 90], 'div-gpt-ad-ros-970-90').defineSizeMapping(o970x90).addService(googletag.pubads()));
+            gptAdSlots.push(googletag.defineSlot('/' + iGoogleTag + '/ROS_728x90', [728, 90], 'div-gpt-ad-ros-728-90').defineSizeMapping(o728x90).addService(googletag.pubads()));
+            gptAdSlots.push(googletag.defineSlot('/' + iGoogleTag + '/ROS_300x130', [300, 130], 'div-gpt-ad-ros-300-130').defineSizeMapping(o300x130).addService(googletag.pubads()));
+            gptAdSlots.push(googletag.defineSlot('/' + iGoogleTag + '/ROS_300x250', [300, 250], 'div-gpt-ad-ros-300-250').defineSizeMapping(o300x250).addService(googletag.pubads()));
+            gptAdSlots.push(googletag.defineSlot('/' + iGoogleTag + '/ROS_320x50', [320, 50], 'div-gpt-ad-ros-320-50').defineSizeMapping(o320x50).addService(googletag.pubads()));
             
-                <h1 id="cb-cat-title">Privacy Policy</h1>
-                
+    
+
+            googletag.pubads().collapseEmptyDivs();
+            googletag.pubads().enableSyncRendering();
+            googletag.enableServices();
+        });
+    </script>
+    <!-- END: GOOGLE DFP -->
+
+</head>
+<body class="home blog custom-background group-blog">
+    <div id="page" style="display: block;">
+        <div class="eu-policy container clearfix hidden-xs" style="display: block;color: white;font-size: 90%; padding: 10px; display:none">
+            By using this website, you consent to the use of cookies in accordance with our <a href="/cookies" target="_blank" style="color: white; text-decoration: underline;">Pigsback.com cookie policy</a>. For more information on cookies see our cookie policy <a href="/cookies" target="_blank" style="color: white;text-decoration: underline;">here</a>.
+            <button id="pea_cook_btn" class="pea_cook_btn" href="" onclick="DismissCookiePolicy(); return false;">Accept</button>
+        </div>
+        <header style="position:relative; z-index: 13">
+            <div class="container">
+                <div class="col-xs-3 visible-xs">
+                    <button type="button" class="btn navbar-toggle pink-bg pull-left" data-toggle="collapse" data-target=".navbar-ex2-collapse">
+                        <span class="fa fa-search"></span>
+                    </button>
+                </div>
+                <div class="col-md-5 col-xs-6 text-center-xs" style="line-height: 56px">
+                    <a href="/"><img id="Img1" src="/Content/img/logo-pb.png" alt="Pigsback.com" title="Pigsback.com"></a>
+                </div>
+                <div class="col-md-7 hidden-xs">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="navbar-form navbar-left pull-right" role="search">
+                                <div class="input-group input-group-sm">
+                                    <input type="text" class="form-control search-box" placeholder="Search" aria-describedby="basic-addon2">
+                                    <span class="input-group-addon search-box" id="basic-addon2">
+                                        <button class="btn btn-default btn-sm search-box" onclick="Search(this);"><i class="fa fa-search"></i></button>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <ul id="login-link" class="pull-right">
+    <script>var sv_mid = 0; var __CookieDomain = '';</script>
+    <li class="menu-item">
+        <a href="/Account/Login?redirectUrl=%2Fprivacy-policy">Sign Up / Login</a>
+    </li>
+
+                                <li>|</li>
+                                <li><a href="/ShoppingCart"><i class="fa fa-shopping-cart" style="font-size: 125%; margin-right: 5px"></i> Shopping Cart</a></li>
+                                <li>|</li>
+                                <li id="nav_contact" style="cursor:pointer"><i class="fa fa-question-circle" style="font-size: 125%; margin-right: 5px"></i> Help</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-3 visible-xs">
+                    <button type="button" class="btn navbar-toggle pink-bg pull-right" style="margin-right: 0px;" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                        <span class="fa fa-bars"></span>
+                    </button>
+                </div>
+            </div>
+            <nav class="navbar navbar-default" role="navigation">
+                <div class="container">
+                    <div>
+                        <div class="site-navigation-inner col-sm-12">
+                            <div class="collapse navbar-ex2-collapse almost-white-bg hidden-sm hidden-md hidden-lg">
+                                <div class="input-group input-group-sm col-xs-10 col-xs-offset-1 search-box">
+                                    <input type="text" class="form-control search-box" placeholder="Search" aria-describedby="basic-addon2">
+                                    <span class="input-group-addon search-box" id="Span1">
+                                        <button class="btn btn-default btn-sm search-box" onclick="Search(this);"><i class="fa fa-search"></i></button>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="collapse navbar-collapse mobile-navbar navbar-ex1-collapse">    <ul id="menu-primary-navigation" class="nav navbar-nav">        <li class="menu-item menu-item-type-custom menu-item-object-custom visible-xs"><a title="Home" href="/">Home</a></li>        <li class="menu-item menu-item-type-custom menu-item-object-custom visible-sm visible-md visible-lg"><a title="Home" href="/"><i class="fa fa-home"></i></a></li>        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown">            <a title="Short Breaks" href="/browse/short-breaks">Short Breaks <span class="caret"></span></a>            <ul role="menu" class="dropdown-menu green-top-border">                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Leinster" href="/browse/short-breaks/leinster">Leinster</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Munster" href="/browse/short-breaks/munster">Munster</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Connacht" href="/browse/short-breaks/connacht">Connacht</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Self Catering" href="/browse/short-breaks/self-catering">Self Catering</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Family Breaks" href="/browse/short-breaks/family-breaks">Family Breaks</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Hotel Spas" href="/browse/short-breaks/hotel-spas">Hotel Spas</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="LuxuryBreaks.ie" href="http://www.luxurybreaks.ie" target="_blank">LuxuryBreaks.ie</a></li>            </ul>        </li>        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown">            <a title="Dining" href="/browse/local/dining">Dining <span class="caret"></span></a>            <ul role="menu" class="dropdown-menu red-top-border">                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Dublin" href="/browse/local/dining/dublin"> Dublin</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Kildare" href="/browse/local/dining/kildare"> Kildare</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Meath" href="/browse/local/dining/meath"> Meath</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Wicklow" href="/browse/local/dining/wicklow"> Wicklow</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="TheDiningRoom.ie" href="http://offers.thediningroom.ie" target="_blank"> TheDiningRoom.ie</a></li>            </ul>        </li>        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown">            <a title="TheBeautyLounge" href="/browse/local/thebeautylounge">TheBeautyLounge <span class="caret"></span></a>            <ul role="menu" class="dropdown-menu purple-top-border">                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Massage" href="/browse/local/thebeautylounge/massage"> Massage</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Hair" href="/browse/local/thebeautylounge/hair"> Hair</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Nails" href="/browse/local/thebeautylounge/nails"> Nails</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Day Spa" href="/browse/local/thebeautylounge/day-spa"> Day Spa</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Teeth" href="/browse/local/thebeautylounge/teeth"> Teeth</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Face" href="/browse/local/thebeautylounge/face"> Face</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Body" href="/browse/local/thebeautylounge/body"> Body</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Dublin" href="/browse/local/thebeautylounge/dublin"> Dublin</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Kildare" href="/browse/local/thebeautylounge/kildare"> Kildare</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Nationwide" href="/browse/local/thebeautylounge/nationwide"> Nationwide</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Holistic" href="/browse/local/thebeautylounge/holistic"> Holistic</a></li>            </ul>        </li>        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown">            <a title="Leisure" href="/browse/local/leisure">Leisure <span class="caret"></span></a>            <ul role="menu" class="dropdown-menu orange-top-border">                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Activities" href="/browse/local/leisure/activities"> Activities</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Home &amp; Garden" href="/browse/local/leisure/home-garden"> Home &amp; Garden</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Learning" href="/browse/local/leisure/learning"> Learning</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Events" href="/browse/local/leisure/events"> Events</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Fitness" href="/browse/local/leisure/fitness"> Fitness</a></li>            </ul>        </li>        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown">            <a title="Gifts &amp; Shopping" href="/browse/gifts-shopping">Gifts &amp; Shopping <span class="caret"></span></a>            <ul role="menu" class="dropdown-menu blue-top-border">                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Jewellery" href="/browse/gifts-shopping/jewellery">Jewellery</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Beauty &amp; Cosmetics" href="/browse/gifts-shopping/health-beauty">Beauty &amp; Cosmetics</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Home &amp; Garden" href="/browse/gifts-shopping/home-garden">Home &amp; Garden</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Electronics &amp; Gadgets" href="/browse/gifts-shopping/electronics">Electronics &amp; Gadgets</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="iPhones &amp; iPads" href="/browse/gifts-shopping/apple">iPhones &amp; iPads</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Women’s Fashion" href="/browse/gifts-shopping/womens-fashion">Women’s Fashion</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Books" href="/browse/gifts-shopping/books">Books</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Automotive" href="/browse/gifts-shopping/automotive">Automotive</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Sunglasses" href="/browse/gifts-shopping/sunglasses">Sunglasses</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Men's Fashion" href="/browse/gifts-shopping/mens-fashion">Men's Fashion</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Fitness &amp; Sports" href="/browse/gifts-shopping/sports">Fitness &amp; Sports</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="For Kids" href="/browse/gifts-shopping/for-kids">For Kids</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Travel" href="/browse/gifts-shopping/travel">Travel</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Education" href="/browse/gifts-shopping/education">Education</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Father's Day" href="/browse/gifts-shopping/fathers-day">Father's Day</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Health &amp; Wellbeing" href="/browse/gifts-shopping/health-wellbeing">Health &amp; Wellbeing</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Pets" href="/browse/gifts-shopping/pets">Pets</a></li>            </ul>        </li>        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown">            <a title="Competitions" href="/browse/competitions-promotions">Competitions <span class="caret"></span></a>            <ul role="menu" class="dropdown-menu yellow-top-border">                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Competitions" href="/browse/competitions-promotions/competitions">Competitions</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Promotions" href="/browse/competitions-promotions/promotions">Promotions</a></li>                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a title="Winners" href="http://www.pigsback.com/competitions/winners" target="_blank">Winners</a></li>            </ul>        </li>        <li class="menu-item menu-item-type-custom menu-item-object-custom">            <a title="Holidays" href="/browse/holidays">Holidays</a>        </li><li class="menu-item menu-item-type-custom menu-item-object-custom visible-xs"><a title="My Account" href="/Account/Login/">Sign Up / Login</a></li>    </ul></div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <!--<div class="visible-xs" style="height: 56px;">&nbsp;</div>-->
+        <div class="eu-policy container clearfix hidden-sm hidden-md hidden-lg" style="display: block;color: white;font-size: 90%; padding: 10px;display:none">
+            By using this website, you consent to the use of cookies in accordance with our <a href="/cookies" target="_blank" style="color: white; text-decoration: underline;">Pigsback.com cookie policy</a>. For more information on cookies see our cookie policy <a href="/cookies" target="_blank" style="color: white;text-decoration: underline;">here</a>.
+            <button id="pea_cook_btn" class="pea_cook_btn" href="" onclick="DismissCookiePolicy(); return false;">Accept</button>
         </div>
         
-                                
-		<div id="cb-content" class="wrap clearfix">
-		    
-				<div id="main" class="entry-content clearfix" role="main">
-
-					<header id="cb-standard-featured"><div class="cb-mask"><img width="740" height="400" src="/wp-content/uploads/2014/04/740x400.jpg" class="attachment-cb-750-400 wp-post-image" alt="740x400"></div></header>
-					<article id="post-1733" class="clearfix post-1733 page type-page status-publish has-post-thumbnail hentry" role="article" itemscope="" itemtype="http://schema.org/BlogPosting">
-						
-						<section class="entry-content clearfix" itemprop="articleBody">
-							<div class="dzspb_layb_one_full"><p></p>
-<p>Safeguarding your privacy is our number one priority.</p>
-<p>Because we gather some information about&nbsp;<span class="pink">Pigsback.com</span>&nbsp;members, we believe you should understand how that information might be used.</p>
-<h2>Here is our commitment to you:</h2>
-<ul>
-<li>We will protect your confidentiality.</li>
-<li>We will NEVER release or sell your personal information to any other party.</li>
-<li>When we give information to the companies that participate in the Programme, it is in the form of grouped statistics based on members’ information while participating in the Programme. The information typically includes the total number of visits, where are they coming from, what do they do on the website, etc. The Programme is designed to make it impossible for outside companies to extract personal information without your consent.</li>
-<li>We follow rigorous security protocols within our company to safeguard any personal information you share with us.</li>
-</ul>
-<h2>Security Guarantee</h2>
-<p>Our systems are housed in a state of the art data centre and they are constantly monitored against attempted intrusion and protected at all times against virus attacks and un-authorised access.</p>
-<h2>Cookies</h2>
-<p><span class="pink">Pigsback.com</span> uses a cookie to identify you and log you into your account when you return to the site. Your browser must be able to accept a cookie in order to use the <span class="pink">Pigsback.com</span> website. A cookie is a small text file stored on the user’s hard drive containing information about the user (your encrypted <span class="pink">Pigsback.com</span> ID).Cookies are only used by <span class="pink">Pigsback.com</span> to allow you to log in and surf the site.</p>
-<h2>Registration</h2>
-<p>In order to use this website, a user must first complete the registration form to become a <span class="pink">Pigsback.com</span> member. During the registration, the user is required to give their contact information (e-mail address, name, country). This information is used to contact the user about the services (special offers and rewards) on our site, in which they have expressed interest.</p>
-<h2>External links and partners</h2>
-<p><span class="pink">Pigsback.com</span> contains links to other websites. We are not responsible for the privacy issues or the content of other sites. We recommend that you review their privacy policy, especially if you need to give personal information.</p>
-<h2>Cancel your membership</h2>
-<p>It’s up to you to cancel your membership. All you have to do is go to ‘Cancel my membership’ in the ‘My account’ section. We will delete all your personal information.</p>
-<h2>Modify your information</h2>
-<p>You can modify or add to your information at any time. All you have to do is go to the ‘My account’ section and choose whether you want to modify your login information, your categories or your personal information.</p>
-<h2>Surveys and contests</h2>
-<p>From time to time we may ask members for information via surveys and contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose the information.</p>
-<h2>Empathy Marketing Ltd</h2>
-<p>The <span class="pink">Pigsback.com</span> Programme and website are owned and operated by:<br>
-Empathy Marketing Ltd having registered offices at 3016 Lake Drive , City West Campus, Saggart, Co Dublin, Rep of Ireland.<br>
-</p></div>
-				     	</section> <!-- end article section -->
-
-						<footer class="article-footer">
-						    
-                             
-						</footer> <!-- end article footer -->
-
-					</article> <!-- end article -->
-
-					
-				</div> <!-- end #main -->
-
-				<aside class="cb-sidebar clearfix" role="complementary">
-
-		<div id="recent-posts-2" class="cb-sidebar-widget widget_recent_entries">		<h3 class="cb-sidebar-widget-title">Latest Offers</h3>		<ul>
-					<li>
-				<a href="/get-e50-booking-lowcostholidays-black-friday/15832">Get €50 Off Your Booking with lowcostholidays.ie Today</a>
-						</li>
-					<li>
-				<a href="/book-e1-charity-tickets-sisters-movie-preview-screening-december-2nd/15702">SISTERS is in Cinemas Nationwide on Dec 12th. Write a Review and Win a Dining Voucher Plus Earn 100 PiggyPoints</a>
-						</li>
-					<li>
-				<a href="/debenhams-beautiful-gifts-weekup-15-beauty-fragrance-lingerie-jewellery-watches/15880">Debenhams Beautiful Gifts Week:Up to 15% OFF* Beauty, Fragrance, Lingerie, Jewellery and Watches</a>
-						</li>
-					<li>
-				<a href="/switch-sky-hd-today-earn-1000-piggypoints/12492">€100 Cashback when you Join Sky TV Online. Limited Offer.</a>
-						</li>
-					<li>
-				<a href="/argos-christmas-gift-guide-save-50-selected-giftstoys-jewellery-electricals/15534">The Argos Christmas Gift Guide: Save Up to 50% on Selected Gifts, Toys, Jewellery and Electricals</a>
-						</li>
-				</ul>
-		</div><div id="social-media-icons-3" class="cb-sidebar-widget cb-social-media-widget clearfix"><h3 class="cb-sidebar-widget-title">Follow Us</h3><a href="https://twitter.com/Pigsback_IE" target="_blank" class="cb-social-media-icon cb-twitter icon-1"></a><a href="https://www.facebook.com/pigsback" target="_blank" class="cb-social-media-icon cb-facebook icon-2"></a></div>
-</aside>
-		</div> <!-- end #cb-content -->
-
- <script type="text/javascript">
-	jQuery(document).ready(function(){
-UserVoice.push(['addTrigger', '#nav_contact', { mode: 'contact'}]);
-});
-
-// START: USER VOICE
-	    if ((window.navigator.appName == "Microsoft Internet Explorer") && ((window.navigator.appVersion.indexOf('MSIE 7') > 0) || (window.navigator.appVersion.indexOf('MSIE 8') > 0)))
-	    {
-		    (function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/MLbCyZ1hGFggNzLsP4r0Q.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()
-
-		    UserVoice = window.UserVoice || [];
-		    UserVoice.push(['showTab', 'classic_widget', {
-		      mode: 'full',
-		      primary_color: '#cc6d00',
-		      link_color: '#007dbf',
-		      default_mode: 'support',
-		      forum_id: 144808,
-		      tab_label: 'Support',
-		      tab_color: '#EA0B8B',
-		      tab_position: 'middle-right',
-		      tab_inverted: false
-		    }]);
-	    }
-	    else
-	    {
-		    UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/MLbCyZ1hGFggNzLsP4r0Q.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
-		    UserVoice.push(['set', {
-		      accent_color: '#CCC',
-		      trigger_color: 'white',
-		      trigger_background_color: '#EA0B8B'
-		    }]);
-		    UserVoice.push(['identify', {}]);
-		    UserVoice.push(['addTrigger', { mode: 'contact', trigger_position: 'bottom-right' }]);
-		    UserVoice.push(['autoprompt', {}]);
-	    }
-        // END: USER VOICE
-    </script>
-    			<footer id="cb-footer" class="" role="contentinfo">
-    				
-    				<div id="cb-widgets" class="cb-footer-a wrap clearfix cb-fw">
-                     
-                                                                                                    
-                    </div>
-                    
-                                            
-                        <div class="cb-footer-lower clearfix">
-                      
-                            <div class="wrap clearfix"> 
-                                
-                                <div class="cb-copyright">© 2014 Pigsback.com, All Rights Reserved.</div>
-                                                                      
-        						<div class="cb-footer-links clearfix"><ul id="menu-footer" class="nav cb-footer-nav clearfix"><li id="menu-item-7685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7685"><a href="/">Home</a></li>
-<li id="menu-item-1747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1747"><a href="/about-us">About Us</a></li>
-<li id="menu-item-1749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1749"><a href="/sitemap">Sitemap</a></li>
-<li id="menu-item-1750" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1733 current_page_item menu-item-1750"><a href="/privacy-policy">Privacy Policy</a></li>
-<li id="menu-item-1751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1751"><a href="/cookies">Cookies</a></li>
-<li id="menu-item-1752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1752"><a href="/terms-conditions">Terms &amp; Conditions</a></li>
-<li id="menu-item-1753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1753"><a href="/contact-us">Contact Us</a></li>
-<li id="menu-item-1754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1754"><a href="/advertise">Advertise</a></li>
-<li id="menu-item-1755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1755"><a href="/careers">Careers</a></li>
-</ul></div>					
-        						
-           					</div>
-           					
-        				</div>
-    				    
-    			</footer> <!-- end footer -->
-    
-    		</div> <!-- end #cb-container -->
-		
-		</div> <!-- end #cb-outer-container -->
-
-		
-		<!-- /// LOAD CHARTBEAT /// -->
-		<script type="text/javascript">
-		var _sf_async_config={};
-		_sf_async_config.uid = 53430;
-		_sf_async_config.useCanonical = true;
-		
-		(function(){
-		  function loadChartbeat() {
-			window._sf_endpt=(new Date()).getTime();
-			var e = document.createElement('script');
-			e.setAttribute('language', 'javascript');
-			e.setAttribute('type', 'text/javascript');
-			e.setAttribute('src',
-			   (("https:" == document.location.protocol) ? "https://" : "http://") +
-			   "static.chartbeat.com/js/chartbeat.js");
-			document.body.appendChild(e);
-		  }
-		  var oldonload = window.onload;
-		  window.onload = (typeof window.onload != 'function') ?
-			 loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
-		})();
-		</script>
-		<script type="text/javascript" data-lf-domain="livefyre.com" id="ncomments_js" src="http://zor.livefyre.com/wjs/v1.0/javascripts/CommentCount.js"></script>
-            <!-- LF DEBUG
-            site-id: 369775
-            article-id: 1733
-            post-type: page
-            comments-open: false
-            is-single: false
-            display-posts: true
-            display-pages: true
-            -->
+<main id="main" class="site-main" role="main" ng-app="ShoppingCartApp">
+    <!-- START: DFP ROS -->
+    <div id="div-gpt-ad-ros-970-90" style="width:970px; margin:auto; position: relative; z-index: 10">
         <script type="text/javascript">
-var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-2852334-1']);
-        /*_gaq.push(['_setCustomVar', 1, 'v_a', sv_age ,3]);
-        _gaq.push(['_setCustomVar', 2, 'v_g', sv_gndr ,3]);
-        _gaq.push(['_setCustomVar', 3, 'v_r', sv_rgn ,3]);
-        _gaq.push(['_setCustomVar', 4, 'v_m', sv_mid ,3]);*/
-_gaq.push(['_setCustomVar', 1, 'v_a', sv_mid ,3]);
-        _gaq.push(['_trackPageview']);
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-ros-970-90'); });
+        </script>
+    </div>
+    <div id="div-gpt-ad-ros-728-90" style="width:728px; margin:auto; position: relative; z-index: 10">
+        <script type="text/javascript">
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-ros-728-90'); });
+        </script>
+    </div>
+    <div id="div-gpt-ad-ros-300-130" style="width:300px; margin:auto; position: relative; z-index: 10">
+        <script type="text/javascript">
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-ros-300-130'); });
+        </script>
+    </div>
+    <div id="div-gpt-ad-ros-300-250" style="width:300px; margin:auto; position: relative; z-index: 10">
+        <script type="text/javascript">
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-ros-300-250'); });
+        </script>
+    </div>
+    <div id="div-gpt-ad-ros-320-50" style="width:320px; margin:auto; position: relative; z-index: 10">
+        <script type="text/javascript">
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-ros-320-50'); });
+        </script>
+    </div>
+    <!-- END: DFP ROS -->
+    
+
+<div class="container">
+    <h1 class="pink"><span>Privacy Policy</span></h1>
+    <article class="clearfix" role="article" itemscope="" itemtype="http://schema.org/BlogPosting">
+
+        <section class="clearfix" itemprop="articleBody">
+            <div class="margin-top-20 clearfix">
+                <p>Safeguarding your privacy is our number one priority.</p>
+                <p>Because we gather some information about <span class="pink">Pigsback.com</span> members, we believe you should understand how that information might be used.</p>
+                <h4>Here is our commitment to you:</h4>
+                <ul>
+                    <li>We will protect your confidentiality.</li>
+                    <li>We will NEVER release or sell your personal information to any other party.</li>
+                    <li>When we give information to the companies that participate in the Programme, it is in the form of grouped statistics based on members' information while participating in the Programme. The information typically includes the total number of visits, where are they coming from, what do they do on the website, etc. The Programme is designed to make it impossible for outside companies to extract personal information without your consent.</li>
+                    <li>We follow rigorous security protocols within our company to safeguard any personal information you share with us.</li>
+                </ul>
+                <h4>Security Guarantee</h4>
+                <p>Our systems are housed in a state of the art data centre and they are constantly monitored against attempted intrusion and protected at all times against virus attacks and un-authorised access.</p>
+                <h4>Cookies</h4>
+                <p><span class="pink">Pigsback.com</span> uses a cookie to identify you and log you into your account when you return to the site. Your browser must be able to accept a cookie in order to use the <span class="pink">Pigsback.com</span> website. A cookie is a small text file stored on the user's hard drive containing information about the user (your encrypted <span class="pink">Pigsback.com</span> ID).Cookies are only used by <span class="pink">Pigsback.com</span> to allow you to log in and surf the site.</p>
+                <h4>Registration</h4>
+                <p>In order to use this website, a user must first complete the registration form to become a <span class="pink">Pigsback.com</span> member. During the registration, the user is required to give their contact information (e-mail address, name, country). This information is used to contact the user about the services (special offers and rewards) on our site, in which they have expressed interest.</p>
+                <h4>External links and partners</h4>
+                <p><span class="pink">Pigsback.com</span> contains links to other websites. We are not responsible for the privacy issues or the content of other sites. We recommend that you review their privacy policy, especially if you need to give personal information.</p>
+                <h4>Cancel your membership</h4>
+                <p>It's up to you to cancel your membership. All you have to do is go to 'Cancel my membership' in the 'My account' section. We will delete all your personal information.</p>
+                <h4>Modify your information</h4>
+                <p>You can modify or add to your information at any time. All you have to do is go to the 'My account' section and choose whether you want to modify your login information, your categories or your personal information.</p>
+                <h4>Surveys and contests</h4>
+                <p>From time to time we may ask members for information via surveys and contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose the information.</p>
+                <h4>Empathy Marketing Ltd</h4>
+                <p>
+                    The <span class="pink">Pigsback.com</span> Programme and website are owned and operated by:<br>
+                    Empathy Marketing Ltd having registered offices at Unit 1J, 1st Floor, Block 71, Park West Business Park, Nangor Road, Dublin 12, Ireland
+                </p>
+            </div>
+        </section> <!-- end article section -->
+
+        <footer class="article-footer"></footer> <!-- end article footer -->
+
+    </article>
+</div>
+</main>
+
+
+
+
+        <div id="demo"></div>
+        <div class="navbar-header visible-xs" style="position: fixed; bottom: 0px; z-index: 1000; width: 100%;">
+            <div class="col-xs-3" style="padding: 0px; display:none">
+                <button type="button" class="btn navbar-toggle pink-bg-opacity" onclick="location.href='/Account/Profile'" data-toggle="collapse" style="width: 100%; margin: 0px; border: 0px; color: white; padding: 5px; border-radius: 0; font-size: 1.3em">
+                    <span class="fa fa-user" style="font-size: 150%"></span>
+                    <div style="font-size: 60%">My Account</div>
+                </button>
+            </div>
+            <div class="col-xs-3" style="padding: 0px;">
+                <button type="button" class="btn navbar-toggle pink-bg-opacity" onclick="location.href='/Account/MyVouchers'" style="width: 100%; margin: 0px; border: 0px; color: white; padding: 5px; border-radius: 0; font-size: 1.3em">
+                    <span class="fa fa-ticket" style="font-size: 150%"></span>
+                    <div style="font-size: 60%">My Vouchers</div>
+                </button>
+            </div>
+            <div class="col-xs-3" style="padding: 0;">
+                <button type="button" class="btn navbar-toggle pink-bg-opacity" onclick="location.href='/ShoppingCart'" style="width: 100%; margin: 0px; border: 0px; color: white; padding: 5px; border-radius: 0; font-size: 1.3em">
+                    <span class="fa fa-shopping-cart" style="font-size: 150%"></span>
+                    <div style="font-size: 60%">Cart</div>
+                </button>
+            </div>
+            <div class="col-xs-3" style="padding: 0;">
+                <button type="button" class="btn navbar-toggle pink-bg-opacity" onclick="location.href='/Nearby'" style="width: 100%; margin: 0px; border: 0px; color: white; padding: 5px; border-radius: 0; font-size: 1.3em">
+                    <span class="fa fa-map-marker" style="font-size: 150%"></span>
+                    <div style="font-size: 60%">Offers Nearby</div>
+                </button>
+            </div>
+            <div class="col-xs-3" style="padding: 0;">
+                <button id="nav_contact_mob" type="button" class="btn navbar-toggle pink-bg-opacity" style="width: 100%; margin: 0px; border: 0px; color: white; padding: 5px; border-radius: 0; font-size: 1.3em">
+                    <span class="fa fa-question-circle" style="font-size: 150%"></span>
+                    <div style="font-size: 60%">Help</div>
+                </button>
+            </div>
+        </div>
+        <footer style="position:relative; z-index: 11">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 col-sm-12 col-xs-12 pull-right">
+                        <h6>Pigsback Community</h6>
+                        <a href="https://www.facebook.com/pigsback/" target="_blank"><i class="fa fa-facebook-square"></i></a>
+                        <a href="https://twitter.com/Pigsback_IE" target="_blank"><i class="fa fa-twitter-square"></i></a>
+                        <h6 class="margin-top-20 hidden-xs">Proud partner of the</h6>
+                        <a href="http://www.mariekeating.ie/" targt="_blank">
+                            <img src="/Content/img/Marie-Keating-hi-res.gif" class="hidden-xs" alt="Marie Keating Foundation" style="width: 150px;">
+                        </a>
+                    </div>
+                    <div class="clearfix visible-sm-block visible-xs-block"></div>
+                    <div class="col-md-3 col-sm-4 col-xs-6">
+                        <h6>About Pigsback.com</h6>
+                        <a href="/about-us">About Us</a><br>
+                        <a href="/contact-us">Contact Us</a><br>
+                        <a href="/careers">Careers</a><br>
+                        <a href="/advertise">Advertise</a><br>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-xs-6">
+                        <h6>Our Sites</h6>
+                        <a href="http://www.luxurybreaks.ie" target="_blank">LuxuryBreaks.ie</a><br>
+                        <a href="http://www.thediningroom.ie" target="_blank">TheDiningRoom.ie</a><br>
+                        <a href="http://www.thebeautylounge.ie" target="_blank">TheBeautyLounge.ie</a><br>
+                    </div>
+                    <div class="clearfix visible-xs-block"></div>
+                    <div class="col-md-3 col-sm-4 col-xs-6">
+                        <h6>Pigsback Points</h6>
+                        <a href="/points">How Points Work</a><br>
+                        <!--<a href="/">Spend Your Points</a><br />-->
+                        <a href="/account/points">My Points</a><br>
+                    </div>
+                </div>
+                <div class="margin-top-20 col-md-12 text-center">
+                    <a href="/sitemap">Sitemap</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/cookies">Cookies</a> | <a href="/terms-conditions">Terms &amp; Conditions</a>
+                </div>
+                <div class="visible-xs" style="height: 80px;">&nbsp;</div>
+            </div>
+        </footer>
+    </div>
+    <script src="/bundles/bootstrap?v=gaS8ksF0U8YYRyqGHTWvkSNiIzbtTYXNIS5RdRDV8O01"></script>
+
+    
+    <script src="/bundles/angularBundle?v=VyEHHSrOGt-oAmT88alK8vwXTx1wxsfxhnxqApyUMLQ1"></script>
+    
+    <script type="text/javascript" src="/Scripts/default.min.js"></script>
+    <!-- Angular Scripts -->
+    <script src="/Scripts/app.js?v=1.1" type="text/javascript"></script>
+
+
+    <!-- START: GOOGLE ANALYTICS -->
+    <script type="text/javascript">
+	    var gaProp;
+
+	    switch (window.location.hostname) {
+	        case 'www.pigsback.com':
+	            gaProp = 'UA-34422668-1'; // production
+	            break;
+	        case 'beta.pigsback.com':
+	            gaProp = 'UA-34422668-3'; // beta
+	            break;
+	        case 'web.pigsback.com':
+	            gaProp = 'UA-34422668-3'; // staging
+	            break;
+	        default:
+	            gaProp = 'UA-34422668-3'; // development
+	    }
+    </script>
+    <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', gaProp, 'auto');
+        ga('send', 'pageview');
+
+        if (sv_mid > 0)
+        {
+            ga('set', 'userId', sv_mid);
+        }
+    </script>
+    
+    <!-- END: GOOGLE ANALYTICS -->
+    <!-- FB TRACKING -->
+    <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','//connect.facebook.net/en_US/fbevents.js');
+        /* 6021070120523 / 6022187149523 */
+
+        fbq('init', '599216376866995');
+        fbq('track', 'PageView');
         
-        _gaq.push(['b._setAccount', 'UA-34422668-1']);
-        _gaq.push(['b._setDomainName', '.pigsback.com']);    
-        _gaq.push(['b._trackPageview']);
+    
 
-_gaq.push(['c._setAccount', 'UA-2852334-18']);
-        _gaq.push(['c._setDomainName', '.pigsback.com']);    
-        _gaq.push(['c._trackPageview']);
-
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    </script>
+    <!-- END FB TRACKING -->
+    <!-- START: USER VOICE -->
+    <script type="text/javascript">
+        if ((window.navigator.appName == "Microsoft Internet Explorer") && ((window.navigator.appVersion.indexOf('MSIE 7') > 0) || (window.navigator.appVersion.indexOf('MSIE 8') > 0))) {
+            (function () { var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true; uv.src = '//widget.uservoice.com/MLbCyZ1hGFggNzLsP4r0Q.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s) })()
+            UserVoice = window.UserVoice || [];
+            UserVoice.push(['showTab', 'classic_widget', {
+                mode: 'full',
+                primary_color: '#cc6d00',
+                link_color: '#007dbf',
+                default_mode: 'support',
+                forum_id: 144808,
+                tab_label: 'Support',
+                tab_color: '#EA0B8B',
+                tab_position: 'middle-right',
+                tab_inverted: false
+            }]);
+            UserVoice.push(['addTrigger', '#nav_contact', { mode: 'contact' }]);
+            UserVoice.push(['addTrigger', '#nav_contact_mob', { mode: 'contact' }]);
+        }
+        else {
+            jQuery(document).ready(function () {
+                UserVoice = window.UserVoice || []; (function () { var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true; uv.src = '//widget.uservoice.com/MLbCyZ1hGFggNzLsP4r0Q.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s) })();
+                UserVoice.push(['set', {
+                    accent_color: '#CCC',
+                    trigger_color: 'white',
+                    trigger_background_color: '#EA0B8B'
+                }]);
+                UserVoice.push(['identify', {}]);
+                //UserVoice.push(['addTrigger', { mode: 'contact', trigger_position: 'bottom-right'}]);
+                UserVoice.push(['autoprompt', {}]);
+                UserVoice.push(['addTrigger', '#nav_contact', { mode: 'contact' }]);
+                UserVoice.push(['addTrigger', '#nav_contact_mob', { mode: 'contact' }]);
+            });
+        }
+    </script>
+    <!-- END: USER VOICE -->
+    <!-- START: POST AFFILIATE PRO -->
+    <script type="text/javascript">
+        document.write(decodeURI("%3Cscript id=%27pap_x2s6df8d%27 src=%27" + (("https:" == document.location.protocol) ? "https://" : "http://") + "pigsback.postaffiliatepro.com/scripts/fu1jzva%27 type=%27text/javascript%27%3E%3C/script%3E"));
+    </script><script id="pap_x2s6df8d" src="https://pigsback.postaffiliatepro.com/scripts/fu1jzva" type="text/javascript"></script>
+    <script type="text/javascript">
+    <!--
+        PostAffTracker.setAccountId('default1');
+        try { PostAffTracker.track(); } catch (err) { }
+    //-->
+    </script>
+    
+    <!-- END: POST AFFILIATE PRO -->
+    <!-- START: CHARTBEAT -->
+    <script type="text/javascript">
+        var _sf_async_config = { uid: 47421, domain: "pigsback.com", useCanonical: true };
+        (function () {
+            function loadChartbeat() {
+                window._sf_endpt = (new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                e.setAttribute('async', 'true');
+                document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ? loadChartbeat : function () { oldonload(); loadChartbeat(); };
         })();
-</script><script type="text/javascript" src="/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/manage.pigsback.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8.1"></script>
-<script type="text/javascript" src="/wp-content/plugins/wp-disable-comments/javascript/wp-disable-comments.js?ver=0.3"></script>
-<script type="text/javascript" src="/wp-content/themes/valenti/library/js/jquery.flexslider-min.js?ver=4.2.5"></script>
-<script type="text/javascript" src="/wp-content/themes/valenti/library/js/selectivizr-min.js?ver=4.2.5"></script>
-<script type="text/javascript" src="/wp-content/themes/valenti/library/js/jquery.fs.boxer.min.js?ver=4.2.5"></script>
-<script type="text/javascript" src="/wp-content/themes/valenti/library/js/jquery.ext.js?ver=4.2.5"></script>
-<script type="text/javascript" src="/wp-content/themes/valenti/library/js/cb-scripts.js?ver=4.2.5"></script>
-	<script type="text/javascript" src="/wp-includes/js/back-to-top.js"></script>
-<!-- Begin comScore Tag -->
-<script>
-  var _comscore = _comscore || [];
-  _comscore.push({ c1: "2", c2: "16479777" });
-  (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-  })();
-</script>
-<noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=16479777&cv=2.0&cj=1" />
-</noscript>
-<!-- End comScore Tag -->
+    </script>
+    <!-- END: CHARTBEAT -->
+    <!-- START: COMSCORE -->
+    <script type="text/javascript">
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "16479777" });
+        (function () {
+            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+            el.parentNode.insertBefore(s, el);
+        })();
+    </script>
+    <noscript>
+        <img src="http://b.scorecardresearch.com/p?c1=2&c2=16479777&cv=2.0&cj=1" />
+    </noscript>
+    <!-- END: COMSCORE -->
+    <!--HORIZON START-->
+    <script type="text/javascript" src="//ak.sail-horizon.com/horizon/v1.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            // Sailthru Concierge
+            if (window.Sailthru) {
+                Sailthru.setup({
+                    domain: 'horizon.pigsback.com',
+                    cookieDomain: 'pigsback.com'
+                });
+            }
+        });
+    </script>
+    <!-- HORIZON END -->
+    <!-- START: DFP REFRESH -->
+    <script type="text/javascript">
 
-	
- <!-- The End. what a ride! --><div class="backstretch" style="left: 0px; top: 0px; overflow: hidden; margin: 0px; padding: 0px; height: 100%; width: 100%; z-index: -999999; position: fixed;"><span id="cb-media-bg"></span><img src="http://beta.pigsback.com/wp-content/uploads/2014/02/black.png" style="position: absolute; display: none; margin: 0px; padding: 0px; border: none; width: auto; height: auto; max-height: none; max-width: none; z-index: -999999;"></div><script language="javascript" type="text/javascript" src="https://static.chartbeat.com/js/chartbeat.js"></script></body></html>
+        googletag.cmd.push(
+            function () {
+                for (var x = 0; x < gptAdSlots.length; x++) {
+                    googletag.pubads().refresh([gptAdSlots[x]]);
+                }
+            }
+        )
+    </script>
+    <!-- END: DFP REFRESH -->
+
+<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js" async="true"></script></body></html>
