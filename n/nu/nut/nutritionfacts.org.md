@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionfacts.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207015618id_/http%3A//nutritionfacts.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionfacts.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606193641id_/http%3A//nutritionfacts.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NutritionFacts.org
 
@@ -8,25 +8,25 @@ NutritionFacts.org has created this privacy statement to demonstrate our firm co
 
 This privacy statement covers NutritionFacts.org’s treatment of Non-Personally Identifiable Information and Personally Identifiable Information collected by NutritionFacts.org through this website.
 
-This privacy statement does not apply to the practices of companies that NutritionFacts.org does not own or control, or of persons that NutritionFacts.org does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which this website links.
+This privacy statement does not apply to the practices of companies that NutritionFacts.org does not own or control, or of persons that NutritionFacts.org does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which this website links. 
 
 ##### Non-Personally Identifiable Information
 
 We also collect and use information about your interactions with the website in a manner and format that does not identify you as an individual (“Non-Personally Identifiable Information”). We may collect, use, and disclose Non-Personally Identifiable Information as set forth below.
 
- **Cookies Information**
+**Cookies Information**
 
 Like many websites, when you visit NutritionFacts.org, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets NutritionFacts.org help you log in and enhance your navigation through the site. A cookie may also convey information to us about how you use the website (e.g., the pages you view, the links you click and other actions you take), and allow us to track your usage of the website over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the website may not function properly if the ability to accept cookies is disabled.
 
- **Clear Gifs/Web Beacons Information**
+**Clear Gifs/Web Beacons Information**
 
 When you use the website, we may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our users anonymously. In addition, we may also use clear gifs in HTML-based emails and correspondence sent to our users to track which emails are opened and which links are clicked by recipients. The information is allows for more accurate reporting and improvement of the website.
 
- **Log File Information**
+**Log File Information**
 
 Log file information is automatically reported by your browser each time you access a web page. When you use our website, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the website, domain names, landing pages, pages viewed, and other such information.
 
- **Analytics**
+**Analytics**
 
 We use third-party analytics tools to help us measure traffic and usage trends for NutritionFacts.org. These tools collect information sent by your browser as part of a web page request, including the web pages you visit, your browser add-ons, your browser’s width and height, and other information that assists us in improving NutritionFacts.org. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user
 
@@ -53,15 +53,15 @@ We may use and disclose your Personally Identifiable Information only as follows
 
 ##### Public Information and Third Parties
 
- **Blog and Blog Commenting**
+**Blog and Blog Commenting**
 
 We have a public blog and commenting system on NutritionFacts.org. Any information you include in a comment on our blog may be read, collected, and used by anyone. If your Personal Information appears on our blog and you’d like it to be removed, contact us [here](http://nutritionfacts.org/contact). If we’re not able to remove your information, we’ll let you know why.
 
- **Social Media Widgets**
+**Social Media Widgets**
 
 NutritionFacts.org includes social media features, like the Facebook Like button, as well as other social media services. These features may collect information about your IP address and which page you’re visiting on our site, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
 
- **Links to Third-Party Sites and Resources**
+**Links to Third-Party Sites and Resources**
 
 NutritionFacts.org includes numerous links to other websites, whose privacy practices may be different from our own. If you submit Personally Identifiable Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Website you visit.
 
@@ -77,7 +77,7 @@ NutritionFacts.org recognizes the following guiding principles for any required 
 
 ##### Security
 
-NutritionFacts.org is concerned with safeguarding your information. NutritionFacts.org uses commercially reasonable safeguards, such as the latest security practices and firewalling, to preserve the integrity and security of all information collected through the website. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from NutritionFacts.org, at all times.
+NutritionFacts.org is concerned with safeguarding your information. NutritionFacts.org uses commercially reasonable safeguards, such as the latest security practices and firewalling, to preserve the integrity and security of all information collected through the website. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from NutritionFacts.org, at all times. 
 
 ### Consent
 
@@ -89,7 +89,7 @@ All registered users may review, update or correct the Personally Identifiable I
 
 ### Changes to this Privacy Statement
 
-NutritionFacts.org may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of the NutritionFacts.org website after any such amendments signifies your acceptance thereof.
+NutritionFacts.org may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of the NutritionFacts.org website after any such amendments signifies your acceptance thereof. 
 
 ### Questions or Suggestions
 
