@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the entertainmentceleb.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031061921id_/http%3A//www.entertainmentceleb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentceleb.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606034353id_/http%3A//www.entertainmentceleb.com/privacy) for the most accurate reproduction.*
 
-# entertainmentcelebPrivacy Policy Notice | EntertainmentCeleb.com
+# Privacy Policy Notice | EntertainmentCeleb.com
 
 This privacy policy sets out how [EntertainmentCeleb.com](http://entertainmentceleb.com/) uses and protects any information that you give [EntertainmentCeleb.com](http://entertainmentceleb.com/) when you use this website. [EntertainmentCeleb.com](http://entertainmentceleb.com/) is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. [EntertainmentCeleb.com](http://entertainmentceleb.com/) may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st of August, 2012.
 
