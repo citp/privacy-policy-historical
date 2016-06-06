@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the gtglax.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206181451id_/http%3A//www.gtglax.net/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtglax.net privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606222418id_/http%3A//www.gtglax.net/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Home, Art, Business, Pharmacy etc.
 
 Best links: 
 
+[Online Pharmacy](http://www.drugsboat.com/)
+
 [Buy Drugs Online](http://www.rxnoprescription.com/)
 
 [Purchase human growth hormone online](http://www.aahgh.com/)
 
-[Online Pharmacy](http://www.drugsboat.com/)
-
 Featured 
-
-[Commercial Real Estate](http://commercial--realestate.com/)
 
 [San Diego Real Estate](http://www.sandiegorealestategroup.com/)
 
-[International calling cards](http://www.shop-calling-card.com/)
+[Commercial Real Estate](http://commercial--realestate.com/)
 
 [London Locksmith](http://london.able-locksmith.co.uk/)
 
 [100% Cotton Fabrics](http://www.polycottonfabrics.com/)
+
+[International calling cards](http://www.shop-calling-card.com/)
 
 Sponsored 
 
