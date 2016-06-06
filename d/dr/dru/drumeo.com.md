@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the drumeo.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207040943id_/http%3A//www.drumeo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drumeo.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606225101id_/https%3A//www.drumeo.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Drumeo - Privacy Policy
-
-Below is a list of the standard policies we use on this website. They are in place to safeguard our users, and to ensure we can provide a quality user experience!
 
 ## Standard Website Logs
 
@@ -35,3 +33,7 @@ Customers that have purchased from us are also added to our mailing-list by defa
 ## Changes to this Policy
 
 Please note that basic changes to this policy can be done at any time.
+
+We pride ourselves on taking every precaution necessary to ensure our users are safe and secure while browsing our website. This is why we have developed a privacy policy that covers how we collect, and store your information.
+
+### Please [contact support](https://web.archive.org/support/) if you have any questions that aren't answered here.
