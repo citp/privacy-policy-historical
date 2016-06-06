@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the dronetrest.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206115545id_/http%3A//www.dronetrest.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dronetrest.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606194829id_/http%3A//www.dronetrest.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <title>Privacy Policy - DroneTrest</title>
 <meta name="description" content="A place to discuss and learn about drones, quadrotors, FPV and other RC related stuff - new guides added weekly">
 <meta name="author" content="">
-<meta name="generator" content="Discourse 1.4.0 - https://github.com/discourse/discourse version 8be92d4de9ca53f5267e15a069a991d3912720bf">
+<meta name="generator" content="Discourse 1.5.0 - https://github.com/discourse/discourse version aa91e4c1ac110063d7d1acaa3a541dbeb146e9d8">
 <link rel="icon" type="image/png" href="/uploads/db5290/21/b2d937f20a604051.ico">
 <link rel="apple-touch-icon" type="image/png" href="/uploads/db5290/20/0310ae8ec54a4cb0.png">
 <link rel="icon" sizes="144x144" href="/uploads/db5290/20/0310ae8ec54a4cb0.png">
@@ -22,40 +22,33 @@
   ga('send', 'pageview');
 
 </script>
-<style>img{max-width:100%;width:auto;height:auto;}</style>
+<style>header img{max-width:90%!important;padding-bottom:10px;}img{max-width:100%;width:auto;height:auto;}#main-outlet>div{margin-bottom:15px;}footer nav a{margin-right:15px;}footer nav{line-height:30px;}body{max-width:98%;padding-left:1%;}.topic-list>div>a{margin-right:10px;}.topic-list>div .posts{margin-left:10px;}.topic-list>div{margin-bottom:15px;}</style>
 </head>
 <body>
 <script>
+  Discourse.ExternalNavItem = Discourse.NavItem.extend({
+    href : function() {
+      return this.get('href');
+    }.property('href')
+  });
 
-
-Discourse.KozoNavItem = Discourse.NavItem.extend({
-  href : function() {
-    return this.get('href');
-  }.property('href')
-});
-
-if (typeof I18n.translations.en != 'undefined') {
-  I18n.translations.en.js.filters.examplename = {
-    title: "Shop",
-    help: "Buy drone gear at UnmannedTech Shop"
-  };
-}
-
-Discourse.NavItem.reopenClass({
-  buildList : function(category, args) {
-    var list = this._super(category, args);
-    list.push(Discourse.KozoNavItem.create({
-      href: 'http://www.unmannedtechshop.co.uk/',
-      name: 'examplename'
-    }));
-    return list;
-  }
-});
-
-
+  I18n.translations.en.js.filters.shop = { title: "Shop", help: "Buy DroneGear" };
+  I18n.translations.en.js.filters.blog = { title: "Blog", help: "Blog" };
+  Discourse.NavItem.reopenClass({
+    buildList : function(category, args) {
+      var list = this._super(category, args);
+      if(!category) {
+        list.push(Discourse.ExternalNavItem.create({href: 'http://www.unmannedtechshop.co.uk/', name: 'shop'}));
+      }
+      if(!category) {
+        list.push(Discourse.ExternalNavItem.create({href: 'http://blog.dronetrest.com', name: 'blog'}));
+      }
+      return list;
+    }
+  });
 </script>
 <header>
-<a href="/"><img src="/uploads/db5290/19/c8826fa0734d96b0.png" alt="DroneTrest" id="site-logo"></a>
+<a href="/"><img src="http://www.dronetrest.com/uploads/db5290/original/2X/5/5efd3d795082ab38bc8147fa6e60dcaa112dc914.jpg" alt="DroneTrest" id="site-logo" style="max-width: 400px;"></a>
 </header>
 <div id="main-outlet" class="wrap">
 <div itemscope="" itemtype="http://schema.org/WebPage">
