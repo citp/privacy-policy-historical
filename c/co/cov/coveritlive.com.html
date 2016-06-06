@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coveritlive.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206114401id_/http%3A//www.coveritlive.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D47) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coveritlive.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606185929id_/http%3A//www.coveritlive.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D47) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
 	<base href="http://www.coveritlive.com">
@@ -20,8 +20,8 @@
     
     
 	<link type="text/css" href="http://cdnsl.coveritlive.com/templates/coveritlive/lib/js/jquery/jquery-ui-1.8.16.custom.v2.css" rel="Stylesheet">
-	<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script language="javascript" src="http://cdnsl.coveritlive.com/templates/coveritlive/lib/js/jquery/jquery-1.7.1.min.js" type="text/javascript"></script>
-	<script language="javascript" src="http://cdnsl.coveritlive.com/templates/coveritlive/lib/js/jquery/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script language="javascript" src="http://cdnsl.coveritlive.com/templates/coveritlive/lib/js/jquery/jquery-1.9.1.min.js" type="text/javascript"></script>
+	<script language="javascript" src="http://cdnsl.coveritlive.com/templates/coveritlive/lib/js/jquery/jquery-ui-1.9.1.custom.min.js" type="text/javascript"></script>
     
 
 	<script language="javascript" src="http://cdnsl.coveritlive.com/templates/coveritlive/lib/js/jquery/jquery.browser.min.v1.js" type="text/javascript"></script>
@@ -29,8 +29,8 @@
 	<script type="text/javascript" src="http://cdnsl.coveritlive.com/templates/coveritlive/lib/js/DM/caption.js"></script>
 	<script type="text/javascript" src="http://cdnsl.coveritlive.com/templates/coveritlive/lib/js/DM/modal.js"></script>
 	<script language="javascript" src="http://cdnsl.coveritlive.com/templates/coveritlive/lib/js/yt_common.js" type="text/javascript"></script>
-	<script language="javascript" src="http://cdnsl.coveritlive.com//templates/coveritlive/lib/js/console/PreConsoleManager.v9.js?1750672067" type="text/javascript"></script>
-	<script language="javascript" src="/templates/coveritlive/lib/js/general_class/controllers/HelpController_js.php?v=4134813" type="text/javascript"></script>
+	<script language="javascript" src="http://cdnsl.coveritlive.com//templates/coveritlive/lib/js/console/PreConsoleManager.v9.js?415057026" type="text/javascript"></script>
+	<script language="javascript" src="/templates/coveritlive/lib/js/general_class/controllers/HelpController_js.php?v=7471795" type="text/javascript"></script>
 	
    
 
@@ -43,6 +43,22 @@
 			jQuery("button, input:button").button();  
 			PreConsoleManager.init('1');
 		});
+
+        var getPromoUrlParameter = function getPromoUrlParameter(sParam) {
+            var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+                sURLVariables = sPageURL.split('&'),
+                sParameterName,
+                i;
+
+            for (i = 0; i < sURLVariables.length; i++) {
+                sParameterName = sURLVariables[i].split('=');
+
+                if (sParameterName[0] === sParam) {
+                    return sParameterName[1] === undefined ? true : sParameterName[1];
+                }
+            }
+        };
+
 	</script>
   	<style type="text/css">
 		/* <![CDATA[ */
@@ -194,6 +210,9 @@
 		#preConsoleDialog .preConsoleDialogSection.leftSection:hover .consoleExampleImage {
 			background-image:url(/templates/coveritlive/images/console/Old_Hover_03.png);
 		}
+        select.hasCustomSelect {
+            height: 30px  !important;
+        } 
         @media only screen and (max-device-width: 1024px) {
             body {
                 padding-top: 0px !important;
@@ -214,7 +233,7 @@
 
 	<script type="text/javascript" src="http://cdnsl.coveritlive.com/templates/coveritlive/lib/js/DM/accordion.js"></script>
 	<script type="text/javascript" src="http://cdnsl.coveritlive.com/templates/coveritlive/lib/js/DM/template4.js"></script>
-	<script language="javascript" src="http://cdnsl.coveritlive.com/templates/coveritlive/lib/js/jquery/select/jquery.customselect.js" type="text/javascript"></script>
+	<script language="javascript" src="http://cdnsl.coveritlive.com/templates/coveritlive/lib/js/jquery/select/jquery.customselect.min.0.5.1.js" type="text/javascript"></script>
 	<script language="javascript" src="http://cdnsl.coveritlive.com/templates/coveritlive/lib/js/jquery/toggle/iphone-style-checkboxes.v3.js" type="text/javascript"></script>
 	
 	<!--[if IE 7]>
@@ -273,7 +292,7 @@
 		var os = '';
 		var browser = '';
 		var browserversion = '';
-		var validate = 'e0e0a56f22578c387010b1f4e4d5380b';
+		var validate = 'b056b93165cf187541e03b1c227a6251';
 
 
 		// =======================================================================================
@@ -399,8 +418,8 @@
 			var currentCookies = document.cookie;
 			var nonceCookie = currentCookies.indexOf('cilNonce');
 			if (nonceCookie == -1) {
-				var validate = 'e0e0a56f22578c387010b1f4e4d5380b';
-				document.cookie = 'cilNonce=e0e0a56f22578c387010b1f4e4d5380b;path=/;domain=.coveritlive.com';
+				var validate = 'b056b93165cf187541e03b1c227a6251';
+				document.cookie = 'cilNonce=b056b93165cf187541e03b1c227a6251;path=/;domain=.coveritlive.com';
 			} else {
 				var cookieStart = nonceCookie + 9;                           // Start of cookie value
 				var cookieEnd = currentCookies.indexOf(";", cookieStart);          // End of cookie value
@@ -414,7 +433,870 @@
 	</head>
 <body class="item21 root4 menumainmenunotonhome optioncontent viewarticle" style="min-width: 1100px;"> 
 	<div id="HelpDialog" style="display:none; z-index:999999;" title="help text"></div>
+        
+<script type="text/javascript" src="/templates/coveritlive/lib/js/jquery/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="/templates/coveritlive/lib/js/xajax.js"></script>
+<style type="text/css">
 
+#lean_overlay {
+        position: fixed;
+        z-index: 9999;
+        top: 0px;
+        left: 0px;
+        height: 100%;
+        width: 100%;
+        background: #000;
+        display: none;
+}
+
+.popupContainer {
+        position: absolute;
+        width: 330px;
+        height: auto;
+        left: 45%;
+        top: 60px;
+        background: #FFF;
+}
+
+#modal_trigger {
+        margin: 40px auto;
+        width: 200px;
+        display: block;
+        border: 1px solid #DDD;
+        border-radius: 4px;
+}
+
+.CiL2014_LGContainer .user_register input.btn {
+        padding: 10px 20px 25px 10px;
+        background: #F4F4F2;
+        color: #666;
+        text-align: center;
+        text-decoration: none;
+}
+
+.CiL2014_LGContainer .user_register input.btn_red {
+        background: #ED6347;
+        color: #FFF;
+        border: 0;
+        margin-right: 10px;
+}
+.CiL2014_LGContainer .user_register input.btn_white {
+        background: #ffffff;
+        color: #ED6347;
+        border: 1px solid #ED6347; 
+}
+
+.CiL2014_LGContainer .user_register input.btn:hover {
+        background: #E4E4E2;
+}
+
+.CiL2014_LGContainer .user_register input.btn_red:hover {
+        background: #C12B05;
+}
+
+.CiL2014_LGContainer .user_register input.btn_white:hover {
+        color: #C12B05;
+        border: 1px solid #C12B05;
+        background: #ffffff;
+}
+
+.CiL2014_LGContainer .user_register input.form_val_callout {
+        border: 1px solid #cc4466;
+}
+
+.one_half {
+        width: 100%;
+        display: block;
+        float: left;
+}
+
+.one_half.last {
+        width: 100%;
+        margin-left: 0%;
+}
+/* Popup Styles*/
+
+.popupHeader {
+        font-size: 16px;
+}
+
+.popupHeader {
+        background: #F4F4F2;
+        position: relative;
+        padding: 10px 20px;
+        border-bottom: 1px solid #DDD;
+        font-weight: bold;
+}
+
+.popupHeader .modal_close {
+        position: absolute;
+        right: 0;
+        top: 0;
+        padding: 10px 15px;
+        background: #E4E4E2;
+        cursor: pointer;
+        color: #aaa;
+        font-size: 16px;
+}
+
+.popupBody {
+        padding: 20px;
+}
+.popupNote {
+        border: 1px solid #DDDDDD;
+        padding: 5px;
+        background: #f4f4f2;
+        margin: 12px 0px 12px 0px;
+}
+/* User Register Form */
+
+.user_register {
+        display: block;
+}
+.user_working {
+    display: none;
+}
+.user_register .inputGroup  {
+        position: relative;
+        margin-bottom: 12px;
+}
+.user_register .inputGroup label {
+        position: absolute;
+        top: 7px;
+        left: 10px;
+        color: #999999;
+}
+.user_register label {
+        display: block;
+}
+
+.user_register fieldset input[type="text"],
+.user_register fieldset input[type="email"],
+.user_register fieldset input[type="password"] {
+        display: block;
+        width: 90%;
+        padding: 5px 5px 5px 80px;
+        border: 1px solid #DDD;
+        color: #333333;
+        height: auto;
+}
+.user_register #email {
+        padding-left: 50px;
+}
+
+.user_register #code {
+        width: 90px;
+        height: 30px;
+        text-transform: uppercase;
+        display: block;
+        padding: 5px;
+}
+
+.user_register #security_img {
+        margin-top: 10px;
+        width: 90px;
+        height: 30px;
+        display: inline-block;
+}
+.user_register #security_code {
+        display: inline-block;
+        margin-bottom: 10px
+}
+.user_register .form_val_wrong_text {
+        margin: 0px;
+}
+.user_register input[type="checkbox"] {
+        float: left;
+        margin-right: 5px;
+}
+
+.user_register input[type="checkbox"]+label {
+        float: left;
+}
+
+.user_register .checkbox {
+        margin-bottom: 10px;
+        clear: both;
+        overflow: hidden;
+}
+.successText {
+    font-size: 14px;
+    line-height: 1.3em;
+    color: #28AED3;
+    font-family: 'Open Sans', Verdana, sans-serif;
+
+}
+.CiL2014_LGContainer .user_register input.btn {
+        margin-bottom: 20px;
+}
+@-moz-keyframes throbber-loader {
+  0% {
+    background: #dde2e7;
+  }
+  10% {
+    background: #6b9dc8;
+  }
+  40% {
+    background: #dde2e7;
+  }
+}
+@-webkit-keyframes throbber-loader {
+  0% {
+    background: #dde2e7;
+  }
+  10% {
+    background: #6b9dc8;
+  }
+  40% {
+    background: #dde2e7;
+  }
+}
+@keyframes throbber-loader {
+  0% {
+    background: #dde2e7;
+  }
+  10% {
+    background: #6b9dc8;
+  }
+  40% {
+    background: #dde2e7;
+  }
+}
+/* :not(:required) hides these rules from IE9 and below */
+.throbber-loader:not(:required) {
+  -moz-animation: throbber-loader 2000ms 300ms infinite ease-out;
+  -webkit-animation: throbber-loader 2000ms 300ms infinite ease-out;
+  animation: throbber-loader 2000ms 300ms infinite ease-out;
+  background: #dde2e7;
+  display: inline-block;
+  position: relative;
+  text-indent: -9999px;
+  width: 0.9em;
+  height: 1.5em;
+  margin: 0 1.6em;
+}
+.throbber-loader:not(:required):before, .throbber-loader:not(:required):after {
+  background: #dde2e7;
+  content: '\x200B';
+  display: inline-block;
+  width: 0.9em;
+  height: 1.5em;
+  position: absolute;
+  top: 0;
+}
+.throbber-loader:not(:required):before {
+  -moz-animation: throbber-loader 2000ms 150ms infinite ease-out;
+  -webkit-animation: throbber-loader 2000ms 150ms infinite ease-out;
+  animation: throbber-loader 2000ms 150ms infinite ease-out;
+  left: -1.6em;
+}
+.throbber-loader:not(:required):after {
+  -moz-animation: throbber-loader 2000ms 450ms infinite ease-out;
+  -webkit-animation: throbber-loader 2000ms 450ms infinite ease-out;
+  animation: throbber-loader 2000ms 450ms infinite ease-out;
+  right: -1.6em;
+}
+</style>
+<form action="index.php" method="post" name="popuploginForm" id="popuploginForm">
+    <input type="hidden" name="remember" value="yes">
+    <input name="username" id="mod_login_username" type="hidden">
+    <input type="hidden" id="mod_login_password" name="passwd">
+    <input type="hidden" name="option" value="login">
+    <input type="hidden" name="op2" value="login">
+    <input type="hidden" name="lang" value="">
+    <input type="hidden" name="return" id="returnL" value="/index.php?option=com_altcaster&amp;task=myaccount&amp;welcome=1">
+    <input type="hidden" name="message" value="">
+    <input type="hidden" name="force_session" value="1">
+    <input type="hidden" name="f1" value="">
+    <input type="hidden" name="f2" value="">
+    <input type="hidden" name="" id="spoofHolder" value="1">
+    <input type="hidden" name="invite_code" value="">
+    <input type="hidden" name="billing_code" value="">
+</form>
+<div class="CiL2014_LGContainer">
+<div id="modal" class="popupContainer" style="display:none;">
+    <header class="popupHeader">
+            <span class="header_title">Sign Up</span>
+            <span class="modal_close">X</span>
+    </header>
+
+    <section class="popupBody">
+    <!-- Working Form -->
+    <div class="user_working">
+        <div class="successText"><strong>Congratulations!</strong><br><br>Your Account was successfully created.<br><br>Please wait while we log you into CoveritLive.<br><br></div>
+        <center>
+        <div class="throbber-loader">
+          Loading
+        </div>
+        </center>
+    </div>
+    <!-- Register Form -->
+    <div class="user_register">
+        <form action="index.php" method="post" name="popupmosUserForm" id="popupmosUserForm" autocomplete="off">
+            <input type="hidden" name="allow_RSS" value="n">
+            <input type="hidden" name="allow_blog_search" value="y">
+            <input type="hidden" name="howheard_id" value="21">
+            <input type="hidden" name="id" value="0">
+            <input type="hidden" name="gid" value="0">
+            <input type="hidden" name="useractivation" value="1">
+            <input type="hidden" name="option" value="com_altcaster">
+            <input type="hidden" name="task" value="saveRegistration">
+            <input type="hidden" name="f1" value="">
+            <input type="hidden" name="f2" value="">
+            <input type="hidden" name="f3" value="">
+            <input type="hidden" name="secrand" id="secrand" value="">
+            <input type="hidden" name="default_timezone" id="altcast_timezone" value="0">
+            <input type="hidden" name="viewer_language" id="viewer_language" value="en">
+
+            <!-- fake fields are a workaround for chrome autofill getting the wrong fields -->
+            <input style="display:none" type="text" name="fakeusernameremembered">
+            <input style="display:none" type="password" name="fakepasswordremembered">
+            <fieldset class="inputGroup username">
+                <label for="username" id="username_label">Username:</label>
+                <input type="text" name="username" id="username" tabindex="1" maxlength="50" onblur="FormValidator.username();" class="alpha">
+            </fieldset>
+            <fieldset class="inputGroup email">
+                <label for="email" id="email_label">Email:</label>
+                <input type="text" name="email" id="email" tabindex="2" maxlength="100" onblur="FormValidator.email();">
+            </fieldset>
+            <fieldset class="inputGroup password">
+                <label for="password" id="password_label">Password:</label>
+                <input type="password" name="password" id="password" tabindex="3" maxlength="50" onblur="FormValidator.password();">
+            </fieldset>
+            <label for="code" id="code_label">Security Code</label>
+            <div id="security_code"><img src="index3.php?option=com_altcaster&amp;task=security&amp;width=120&amp;height=20&amp;secrand=854715" width="70" height="25" alt="Security Image" class="security_image" id="security_image" name="security_img"></div>&nbsp;
+            <a href="javascript: void(0);" onclick="javascript:refreshSecurityImage();">Can't read? Click here</a><br>
+            <input type="text" name="code" id="code" maxlength="5" tabindex="4" onblur="FormValidator.code();"> 
+            <br>
+            <div class="popupNote">
+                By signing up you are agreeing to our <br><a href="javascript:void(null)" onclick="window.open('/index2.php?option=com_content&amp;task=view&amp;id=48&amp;nohtml=1', '111', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=650,height=500,left = 30,top = 30');" );="" return="" false;"="">Terms of Service</a>.<br><br>You will have a chance to review your plan selection after signing up.
+            </div>
+            <div class="action_btns">
+                    <div class="one_half last"><input class="btn btn_red" type="button" value="Create My Account" id="doTheValButton" onclick="validateForm(); "><input class="btn btn_white" type="button" id="haveAccount" value="Have an Account?" onclick="location.href='/index.php?option=com_altcaster&amp;task=loginuser'; "></div>
+            </div>
+        </form>
+    </div>
+    </section>
+</div>
+</div>
+<input id="planTableSignupButtonx" class="planTableSignupButtonx" style="display:none;" value="" href="#modal">
+<script>
+var xajax_RequestUri="index3.php?option=com_altcaster&task=serveruser";
+var div = document.createElement('div');
+div.innerHTML = xajax_RequestUri;
+var xajax_RequestUri = div.firstChild.nodeValue;
+var xajaxDebug=false;
+var xajaxStatusMessages=false;
+var xajaxWaitCursor=true;
+var xajaxDefinedGet=0;
+var xajaxDefinedPost=1;
+var xajaxLoaded=false;
+function xajax_validateRegistration(){return xajax.call("validateRegistration", arguments, 1,"xajax_");}
+// Plugin options 
+        jQuery(function() {
+            refreshSecurityImage(); 
+            jQuery("[id*='planTableSignupButton']").leanModal({
+                top: 50,
+                overlay: 0.6,
+                closeButton: ".modal_close"
+            });
+        });
+        jQuery('input.alpha').keyup(function() {
+            if (this.value.match(/[^a-zA-Z0-9]/g)) {
+                this.value = this.value.replace(/[^a-zA-Z0-9]/g, '');
+            }
+        });
+        var submittingForm = false;
+        function validateForm() {
+            if (submittingForm === true) {
+                return;
+            }
+            submittingForm = true;
+            jQuery("#doTheValButton").after("<span id='theLoadingIndicator'><img src='/templates/coveritlive/images/throbber_FFF_small.gif'/></span>");
+            jQuery("#haveAccount").hide();
+
+            // remove all the old validate display
+            jQuery(".form_val_wrong_text").remove();
+            jQuery(".form_alert").css("display","none");
+            jQuery(".user_register input").removeClass("form_val_callout");
+
+            var cursorAt = null;
+            var alpha = /^[a-z0-9]+$/i;
+            if (jQuery.trim(jQuery("#username").val()).length < 3) {
+                jQuery("#username").addClass("form_val_callout");
+                jQuery(".inputGroup.username").before("<span class='form_val_wrong_text' id='username_wrong'>Minimum 3 characters</span>");
+                if (cursorAt === null) {
+                    cursorAt = "#username";
+                }
+                jQuery("#username").keyup(function() {
+                    if (jQuery.trim(jQuery("#username").val()).length > 0) {
+                        jQuery("#username").removeClass("form_val_callout");
+                        jQuery("#username_wrong").remove();
+                    }
+                });    
+            } else if (jQuery.trim(jQuery("#username").val()).match(alpha) == null) {
+                jQuery("#username").addClass("form_val_callout");
+                if (jQuery("#username_wrong").length == 0) {
+                    jQuery(".inputGroup.username").before("<span class='form_val_wrong_text' id='username_wrong'>Username can only contain alphanumeric characters</span>");
+                }
+                jQuery("#username").keyup(function(e) {
+                    if (e.keyCode != 9 && e.keyCode != 16) {
+                        if (jQuery.trim(jQuery("#username").val()).length > 0) {
+                            jQuery("#username").removeClass("form_val_callout");
+                            jQuery("#username_wrong").remove();
+                        }
+                    }
+                });
+            }
+
+
+            if (jQuery.trim(jQuery("#email").val()).length == 0) {
+                jQuery("#email").addClass("form_val_callout");
+                jQuery(".inputGroup.email").before("<span class='form_val_wrong_text' id='email_wrong'>Enter an email address</span>");
+                if (cursorAt === null) {
+                    cursorAt = "#email";
+                }
+                jQuery("#email").keyup(function() {
+                    if (jQuery.trim(jQuery("#email").val()).length > 0) {
+                        jQuery("#email").removeClass("form_val_callout");
+                        jQuery("#email_wrong").remove();
+                    }
+                })
+            } else {
+                if (jQuery("#email").val().match(/[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/i) === null) {
+                    jQuery("#email").addClass("form_val_callout");
+                    jQuery(".inputGroup.email").before("<span class='form_val_wrong_text' id='email_wrong'>Email address not valid</span>");
+                    if (cursorAt === null) {
+                        cursorAt = "#email";
+                    }
+                    jQuery("#email").keyup(function() {
+                        if (jQuery.trim(jQuery("#email").val()).length > 0) {
+                            jQuery("#email").removeClass("form_val_callout");
+                            jQuery("#email_wrong").remove();
+                        }
+                    })
+                }
+            }
+            if (jQuery.trim(jQuery("#password").val()).length == 0) {
+                jQuery("#password").addClass("form_val_callout");
+                jQuery(".inputGroup.password").before("<span class='form_val_wrong_text' id='password_wrong'>Enter a password</span>");
+                if (cursorAt === null) {
+                    cursorAt = "#password";
+                }
+                jQuery("#password").keyup(function() {
+                    if (jQuery.trim(jQuery("#password").val()).length > 0) {
+                        jQuery("#password").removeClass("form_val_callout");
+                        jQuery("#password_wrong").remove();
+                    }
+                })
+            } else {
+                //var pass = /^.*(?=.{8,128})(?=.*\d)(?=.*[a-zA-Z]).*$/;
+                var pass = /^[a-zA-Z0-9]{8,128}$/;              
+                if (pass.test(jQuery.trim(jQuery("#password").val())) == false) {
+                    jQuery("#password").addClass("form_val_callout");
+                    jQuery(".inputGroup.password").before("<span class='form_val_wrong_text' id='password_wrong'>Min. 8 chars (alpha & numeric)</span>");
+                    jQuery("#password2").val("");
+                    if (cursorAt === null) {
+                        cursorAt = "#password";
+                    }
+                    jQuery("#password").keyup(function() {
+                        if (jQuery.trim(jQuery("#password").val()).length > 0) {
+                            jQuery("#password").removeClass("form_val_callout");
+                            jQuery("#password_wrong").remove();
+                        }
+                    });
+                } 
+            }
+            if (jQuery.trim(jQuery("#code").val()).length == 0) {
+                jQuery("#code").addClass("form_val_callout");
+                jQuery("#code").before("<span class='form_val_wrong_text' id='code_wrong'>Enter security code</span>");
+                if (cursorAt === null) {
+                    cursorAt = "#code";
+                }
+                jQuery("#code").keyup(function() {
+                    if (jQuery.trim(jQuery("#code").val()).length > 0) {
+                        jQuery("#code").removeClass("form_val_callout");
+                        jQuery("#code_wrong").remove();
+                    }
+                });
+            }
+
+            if (cursorAt === null) {
+                // do the serverside checks for email and code
+                var req = {
+                    email:jQuery("#email").val(),
+                    word:jQuery("#code").val(),
+                    freeTrial:'n',
+                    secrand:jQuery("#secrand").val()
+                }
+                var url = "/index3.php?option=com_altcaster&task=serveruser&func=validateRegistration2";
+                var div = document.createElement('div');
+                div.innerHTML = url 
+                var decodedURL = div.firstChild.nodeValue;
+                jQuery.ajax({
+                    url: decodedURL ,
+                     data: { reqObj: JSON.stringify(req) },
+                    dataType:"json",
+                    success:function(data_) {
+                        for (var i=0;i<data_.errors.length;i++) {
+                            if (data_.errors[i] == "email") {
+                                jQuery("#email_wrong").remove();
+                                jQuery("#email").addClass("form_val_callout");
+                                jQuery("#email_label").after("<span class='form_val_wrong_text' id='email_wrong'>Email address taken</span>");
+                                jQuery("#email2").val("");
+                                if (cursorAt === null) { 
+                                    cursorAt = "#email"; 
+                                }
+                                jQuery("#email").keyup(function() {
+                                    if (jQuery.trim(jQuery("#email").val()).length > 0) {
+                                        jQuery("#email").removeClass("form_val_callout");
+                                        jQuery("#email_wrong").remove();
+                                    }
+                                });
+                            } else if (data_.errors[i] == "username" || data_.errors[i] == "username_alpha") {
+                                jQuery("#username").addClass("form_val_callout");
+                                var message = "Username taken";
+                                if (data_.errors[i] == "username_alpha") {
+                                    message = "Username can only contain alphanumeric characters";
+                                }
+                                jQuery("#username_wrong").remove();
+                                jQuery("#username_label").after("<span class='form_val_wrong_text' id='username_wrong'>" + message + "</span>");
+                                if (cursorAt === null) {
+                                    cursorAt = "#username";
+                                }
+                                jQuery("#username").keyup(function() {
+                                    if (jQuery.trim(jQuery("#username").val()).length > 0) {
+                                        jQuery("#username").removeClass("form_val_callout");
+                                        jQuery("#username_wrong").remove();
+                                    }
+                                });
+                            } else if (data_.errors[i] == "code") {
+                                jQuery("#code_wrong").remove();
+                                jQuery("#code").addClass("form_val_callout");
+                                jQuery("#code").before("<span class='form_val_wrong_text p1' id='code_wrong'>Code incorrect</span>");
+                                if (cursorAt === null) {
+                                    cursorAt = "#code";
+                                }
+                                jQuery("#code").keyup(function() {
+                                    if (jQuery.trim(jQuery("#code").val()).length > 0) {
+                                        jQuery("#code").removeClass("form_val_callout");
+                                        jQuery("#code_wrong").remove();
+                                    }
+                                });
+                            }
+                        }
+
+
+                        // pick the first thing that was wrong
+                        if (cursorAt !== null) {
+                            jQuery(cursorAt).select();
+                            jQuery(cursorAt).focus();
+                            jQuery("#theLoadingIndicator").remove();
+                            jQuery("#haveAccount").show();
+                            jQuery(".form_alert").css("display","block");
+                            submittingForm = false;
+                        } else {
+                            jQuery("#theLoadingIndicator").remove();
+                            jQuery("#haveAccount").show();
+                            submittingForm = false; 
+                            jQuery('.user_register').hide();
+                            jQuery('.user_working').show();
+                            jQuery('#pardotForm').contents().find('#Email_Addresspi_Email_Address').val(jQuery("#email").val());
+                            jQuery('#pardotForm').contents().find('#pardot-form').submit();
+    
+                            setTimeout(createUser, 1000);                      
+                        }
+                    }
+                });
+            } else {
+                jQuery(cursorAt).select();
+                jQuery(cursorAt).focus();
+                jQuery("#theLoadingIndicator").remove();
+                jQuery("#haveAccount").show();
+                submittingForm = false;
+            }
+        }
+        // ==========================
+        // = Inline form validation =
+        // ==========================
+        var FormValidator = function() {
+
+            return {
+                username : function() {
+                    if (jQuery.trim(jQuery("#username").val()).length < 3) {
+                        jQuery("#username").addClass("form_val_callout");
+                        if (jQuery("#username_wrong").length == 0) {
+                            jQuery(".inputGroup.username").before("<span class='form_val_wrong_text' id='username_wrong'>Minimum 3 characters</span>");
+                        }
+                        jQuery("#username").keyup(function(e) {
+                            if (e.keyCode != 9 && e.keyCode != 16) {
+                                if (jQuery.trim(jQuery("#username").val()).length > 0) {
+                                    jQuery("#username").removeClass("form_val_callout");
+                                    jQuery("#username_wrong").remove();
+                                }
+                            }
+                        });
+                    } else {               
+                        var alpha = /^[a-z0-9]+$/i;
+                        if (jQuery.trim(jQuery("#username").val()).match(alpha) == null) {
+                            jQuery("#username").addClass("form_val_callout");
+                            if (jQuery("#username_wrong").length == 0) {
+                                jQuery(".inputGroup.username").before("<span class='form_val_wrong_text' id='username_wrong'>Username can only contain alphanumeric characters</span>");
+                            }
+                            jQuery("#username").keyup(function(e) {
+                                if (e.keyCode != 9 && e.keyCode != 16) {
+                                    if (jQuery.trim(jQuery("#username").val()).length > 0) {
+                                        jQuery("#username").removeClass("form_val_callout");
+                                        jQuery("#username_wrong").remove();
+                                    }
+                                }
+                            });
+                        } else {
+                            var req = {
+                                username:jQuery("#username").val()
+                            }
+                            var url = "/index3.php?option=com_altcaster&task=serveruser&func=checkUsernameTaken";
+                            var div = document.createElement('div');
+                            div.innerHTML = url 
+                            var decodedURL = div.firstChild.nodeValue;
+                            jQuery.ajax({
+                                url: decodedURL,
+                                data: { reqObj: JSON.stringify(req) },
+                                dataType:"json",
+                                success:function(data_) {
+                                    for (var i=0;i<data_.errors.length;i++) {
+                                        if (data_.errors[i] == "username") {
+                                            jQuery("#username").addClass("form_val_callout");
+                                            if (jQuery("#username_wrong").length == 0) {
+                                                jQuery(".inputGroup.username").before("<span class='form_val_wrong_text' id='username_wrong'>Username taken</span>");
+                                            }
+                                            jQuery("#username").keyup(function(e) {
+                                                if (e.keyCode != 9 && e.keyCode != 16) {
+                                                    if (jQuery.trim(jQuery("#username").val()).length > 0) {
+                                                        jQuery("#username").removeClass("form_val_callout");
+                                                        jQuery("#username_wrong").remove();
+                                                    }
+                                                }
+                                            });
+                                        }
+                                    }
+                                }
+                            });    
+                        }
+                    }
+                },
+
+                email : function() {
+                    if (jQuery.trim(jQuery("#email").val()).length == 0) {
+                        jQuery("#email").addClass("form_val_callout");
+                        if (jQuery("#email_wrong").length == 0) {
+                            jQuery(".inputGroup.email").before("<span class='form_val_wrong_text' id='email_wrong'>Enter an email address</span>");
+                        }
+                        jQuery("#email").keyup(function(e) {
+                            if (e.keyCode != 9 && e.keyCode != 16) {
+                                if (jQuery.trim(jQuery("#email").val()).length > 0) {
+                                    jQuery("#email").removeClass("form_val_callout");
+                                    jQuery("#email_wrong").remove();
+                                }
+                            }
+                        });
+                    } else {
+                        if (jQuery("#email").val().match(/[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/i) === null) {
+                            jQuery("#email").addClass("form_val_callout");
+                            if (jQuery("#email_wrong").length == 0) {
+                                jQuery(".inputGroup.email").before("<span class='form_val_wrong_text' id='email_wrong'>Email address not valid</span>");
+                            }
+                            jQuery("#email").keyup(function(e) {
+                                if (e.keyCode != 9 && e.keyCode != 16) {
+                                    if (jQuery.trim(jQuery("#email").val()).length > 0) {
+                                        jQuery("#email").removeClass("form_val_callout");
+                                        jQuery("#email_wrong").remove();
+                                    }
+                                }
+                            })
+                        } else {
+
+                            var req = {
+                                email:jQuery("#email").val()
+                            }
+                            var url = "/index3.php?option=com_altcaster&task=serveruser&func=checkEmailTaken";
+                            var div = document.createElement('div');
+                            div.innerHTML = url 
+                            var decodedURL = div.firstChild.nodeValue;
+                            jQuery.ajax({
+                                url: decodedURL ,
+                                data: { reqObj: JSON.stringify(req) },
+                                dataType:"json",
+                                success:function(data_) {
+                                    for (var i=0;i<data_.errors.length;i++) {
+                                        if (data_.errors[i] == "email") {
+                                            jQuery("#email_wrong").remove();
+                                            jQuery("#email").addClass("form_val_callout");
+                                            if (jQuery("#email_wrong").length == 0) {
+                                                jQuery(".inputGroup.email").before("<span class='form_val_wrong_text' id='email_wrong'>Email address taken</span>");
+                                            }
+                                            jQuery("#email").keyup(function(e) {
+                                                if (e.keyCode != 9 && e.keyCode != 16) {
+                                                    if (jQuery.trim(jQuery("#email").val()).length > 0) {
+                                                        jQuery("#email").removeClass("form_val_callout");
+                                                        jQuery("#email_wrong").remove();
+                                                    }
+                                                }
+                                            })
+                                        }
+                                    }
+                                }
+                            });
+
+                        }
+                    }
+                },
+
+                password : function() {
+                    if (jQuery.trim(jQuery("#password").val()).length == 0) {
+                        jQuery("#password").addClass("form_val_callout");
+                        if (jQuery("#password_wrong").length == 0) {
+                            jQuery(".inputGroup.password").before("<span class='form_val_wrong_text' id='password_wrong'>Enter a password</span>");
+                        }
+                        jQuery("#password").keyup(function(e) {
+                            if (e.keyCode != 9 && e.keyCode != 16) {
+                                if (jQuery.trim(jQuery("#password").val()).length > 0) {
+                                    jQuery("#password").removeClass("form_val_callout");
+                                    jQuery("#password_wrong").remove();
+                                }
+                            }
+                        })
+                    } else {
+                        //var pass = /^.*(?=.{8,128})(?=.*\d)(?=.*[a-zA-Z]).*$/;
+                        var pass = /^[a-zA-Z0-9]{8,128}$/;           
+                        if (pass.test(jQuery.trim(jQuery("#password").val())) === false) {
+                            jQuery("#password").addClass("form_val_callout");
+                            if (jQuery("#password_wrong").length == 0) {
+                                jQuery(".inputGroup.password").before("<span class='form_val_wrong_text' id='password_wrong'>Min. 8 chars (alpha & numeric)</span>");
+                            }
+                            jQuery("#password").keyup(function(e) {
+                                if (e.keyCode != 9 && e.keyCode != 16) {
+                                    if (jQuery.trim(jQuery("#password").val()).length > 0) {
+                                        jQuery("#password").removeClass("form_val_callout");
+                                        jQuery("#password_wrong").remove();
+                                    }
+                                }
+                            });
+                        }
+                    }
+                },
+
+                code : function() {
+                    var req = {
+                        word:jQuery("#code").val(),
+                        secrand:jQuery("#secrand").val()
+                    }
+                    var url = "/index3.php?option=com_altcaster&task=serveruser&func=checkCode";
+                    var div = document.createElement('div');
+                    div.innerHTML = url 
+                    var decodedURL = div.firstChild.nodeValue;
+                    jQuery.ajax({
+                        url: decodedURL ,
+                        data: { reqObj: JSON.stringify(req) },
+                        dataType:"json",
+                        success:function(data_) {
+                            for (var i=0;i<data_.errors.length;i++) {
+                                if (data_.errors[i] == "code") {
+                                    jQuery("#code").addClass("form_val_callout");
+                                    if (jQuery("#code_wrong").length == 0) {
+                                        jQuery("#code").before("<span class='form_val_wrong_text' id='code_wrong'>Code incorrect</span>");
+                                    }
+                                    jQuery("#code").keyup(function(e) {
+                                        if (e.keyCode != 9 && e.keyCode != 16) {
+                                            if (jQuery.trim(jQuery("#code").val()).length > 0) {
+                                                jQuery("#code").removeClass("form_val_callout");
+                                                jQuery("#code_wrong").remove();
+                                            }
+                                        }
+                                    });
+                                }
+                            }
+                        }
+                    });
+                }
+            };
+        }();
+        function refreshSecurityImage() {
+            var secrand = Math.floor(Math.random()*10000000);
+            document.popupmosUserForm.secrand.value = secrand;            
+            eval("document.getElementById('security_code').innerHTML='<img src=\"index3.php?option=com_altcaster&task=security&width=121&height=20&secrand=' + secrand + ' \" height=30 width=90 alt=\"Security Image\" id=\"security_image\" class=\"security_image\"/>';");
+        }
+        function createUser() {
+            // running this actually does the submission
+            var d = new Date()
+            var n = d.getTimezoneOffset();
+            var offset = - Math.round(n/60);
+            document.popupmosUserForm.default_timezone.value = offset ;
+            document.popupmosUserForm.f1.value =  validtest(document.popupmosUserForm.username.value);
+            f1 = document.popupmosUserForm.username.value;
+            document.popupmosUserForm.f2.value =  validtest(document.popupmosUserForm.password.value);
+            f2 = document.popupmosUserForm.password.value;
+            document.popupmosUserForm.password.value = '';
+            document.popupmosUserForm.f3.value =  validtest(document.popupmosUserForm.password.value);
+
+            xajax_validateRegistration(xajax.getFormValues("popupmosUserForm"));
+            
+            document.popupmosUserForm.username.value = f1;
+            document.popupmosUserForm.password.value = f2;
+        }
+        function doneTheRegistration() {
+
+            document.popuploginForm.f1.value =  validtest(jQuery("#email").val());
+            document.popuploginForm.f2.value =  jQuery("#password").val();
+            document.popuploginForm.mod_login_password.value = '';
+            document.popuploginForm.submit();
+        }
+        function showModalCallback(element) {
+        
+            var id = jQuery(element).attr('id').replace('planTableSignupButton','');
+
+            switch (id) {
+            case 'x':
+                var title = 'Get Started for FREE';
+                break;
+            case '0':
+                var title = 'Sign Up for a Trial Account';
+                break;
+            case '54':
+            case '58':
+                var title = 'Sign Up for $9.99 Lite Plan';
+                break;
+            case '2':
+                var title = 'Sign Up for $49 Lite Plan';
+                break;
+            case '3':
+                var title = 'Sign up for $149 Standard Plan';
+                break;
+            }
+            jQuery('#modal .header_title').html(title);
+            jQuery(".form_val_wrong_text").remove();
+            jQuery(".form_alert").css("display","none");
+            jQuery(".user_register input").removeClass('form_val_callout');
+            jQuery(".user_register input").not('.btn').val('');
+                    
+            if (id == '0' || id == 'x') {
+                jQuery('#returnL').val('index.php?option=com_altcaster&task=myaccount&welcome=1'); 
+            } else {
+                jQuery('#returnL').val('/index.php?option=com_altcaster&task=planSelection&Itemid=293&welcome=1&selected=' + id);
+            }
+        }
+        window.addEventListener("message", receiveMessage, false);
+
+        function receiveMessage(event) {
+            if (event.origin !== "https://wwwssl.coveritlive.com") {
+                return;
+            }
+            if (event.data == 'popup') {
+                jQuery("#planTableSignupButtonx").trigger("click");
+            }
+        }
+</script>
+<iframe name="pardotForm" id="pardotForm" src="/pardot.php" border="0" width="1" height="1" frameborder="0" style="position:absolute; left=-1000px;"></iframe> 
 		<div class="headerWrap">
 		<div class="headerContent">
 									<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,700,600" rel="stylesheet" type="text/css">
@@ -1176,11 +2058,6 @@ text-decoration:none;
     margin-bottom:0;
 }
 
-
-.footerEndContent{
-padding-top:6px;
-}
-
 </style>
 <script>
 	var submittingEmailAddress = false;
@@ -1197,7 +2074,7 @@ padding-top:6px;
                     var slashes = http.concat("//");
                     var host = slashes.concat(window.location.hostname);
 	            jQuery.post(
-				host + '/email.php',
+				'/email.php',
 		    	{ 
 					'email' : jQuery('#emailAddress').val()
 		    	},
@@ -1262,6 +2139,11 @@ jQuery(function() {
 		// ensure placeholders show
 		jQuery(":input[placeholder]").blur();
 	}
+
+        if (window.location.hostname == 'now.coveritlive.com') {
+            //marketing email not supported...remove
+            jQuery('.cilNewsletter').hide();
+        } 
 });
 
 </script>
@@ -1289,7 +2171,7 @@ piCId = '109822';
           <div class="cilNewsletter">
           <div class="footerTitle">Get the CiL Newsletter:</div>
           <br>
-<iframe src="https://go.pardot.com/l/27242/2015-06-22/2gzglf" width="300" height="150" type="text/html" frameborder="0" allowtransparency="true" style="border: 0" scrolling="no"></iframe>
+<!-- <iframe src="https://www2.scribblelive.com/l/27242/2015-06-22/2gzglf" width="300" height="150" type="text/html" frameborder="0" allowTransparency="true" style="border: 0" scrolling=no></iframe> -->
 <!--
           <div class="form-group">
             <input type="text" placeholder="Email" class="form-control" name="emailAddress" id="emailAddress">
@@ -1306,9 +2188,8 @@ piCId = '109822';
             <div class="form-group">
                <div class="emailSuccess">Your email address has been sent.<br>You'll be hearing from us soon.</div>
             </div>
-          </div>
 -->
-</div>
+          </div>
           <div style="clear: both;"></div>
           <div class="footerTitle2">Contact Us:</div>
           <br>
@@ -1320,13 +2201,13 @@ piCId = '109822';
         <div class="footerNav">
           <div class="row">
             <div class="col-xs-4 col-sm-4" style="padding-left:80px;">Products
-              <div class="footerNavLinks"><a href="/cilProducts#SocialStream">Social Stream</a><br>
-                <a href="/cilProducts#LiveBlog">Live Blog</a><br>
-                <a href="/cilProducts#FacebookChat">Facebook Chat</a><br>
-                <a href="/cilProducts#LiveContentWall">LiveContentWall</a><br>
-                <a href="/cilProducts#LiveQA">Live Q&amp;A</a><br>
-                <a href="/cilProducts#LiveScores">LiveScores</a><br>
-                <a href="/cilProducts#Broadcast">Broadcast</a></div>
+              <div class="footerNavLinks"><a href="http://coveritlive.com/cilProducts#SocialStream">Social Stream</a><br>
+<a href="http://coveritlive.com/cilProducts#LiveBlog">Live Blog</a><br>
+<a href="http://coveritlive.com/cilProducts#FacebookChat">Facebook Chat</a><br>
+<a href="http://coveritlive.com/cilProducts#LiveContentWall">Mosaic</a><br>
+<a href="http://coveritlive.com/cilProducts#LiveQA">Live Q&amp;A</a><br>
+<a href="http://coveritlive.com/cilProducts#LiveScores">LiveScores</a><br>
+<a href="http://coveritlive.com/cilProducts#Broadcast">Broadcast</a></div>
             </div>
             <div class="col-xs-4 col-sm-4" style="padding-left:80px;">Customers
               <div class="footerNavLinks">
@@ -1358,7 +2239,7 @@ piCId = '109822';
 </div>
 <div id="FooterEnd">
   <div class="cilcontainer">
-    <div class="footerEndContent"><a href="/mobile.php?forceMobile=1">Mobile Version</a>  |  <a href="/index.php?option=com_content&amp;task=view&amp;id=47">Privacy</a>  |  <a href="/index.php?option=com_content&amp;task=view&amp;id=48">Terms of Service</a>   © 2014  |  <img src="/images/HomePage_2014/cilfooterlogo_03a.png"></div>
+    <div class="footerEndContent"><a href="/mobile.php?forceMobile=1">Mobile Version</a>  |  <a href="/index.php?option=com_content&amp;task=view&amp;id=47">Privacy</a>  |  <a href="/index.php?option=com_content&amp;task=view&amp;id=48">Terms of Service</a>   © 2014 <a href="http://demandmedia.com" target="_blank"><img src="/images/HomePage_2014/cilfooterlogo_03a.png"></a></div>
   </div>
 </div>
 </div>
@@ -1372,5 +2253,6 @@ piCId = '109822';
 	    	HelpController.init("");
 		});
 	</script>
+
 
 </body></html>
