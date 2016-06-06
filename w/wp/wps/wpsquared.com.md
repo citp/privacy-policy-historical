@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpsquared.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206111040id_/http%3A//www.wpsquared.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsquared.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606172639id_/http%3A//www.wpsquared.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WP Squared | Wordpress
+# Privacy Policy | WP Squared | Wordpress
 
 ### What is this Privacy Policy for?
 
@@ -32,7 +32,7 @@ Other cookies may be stored to your computers hard drive by external vendors whe
 
   * Google, as a third party vendor, uses cookies to serve ads on wpsquared.com.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to wpsquared.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/policies/technologies/ads/](http://www.wpsquared.com/goto/http://www.google.com/policies/technologies/ads/)
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/policies/technologies/ads/>
 
 
 
