@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travel-wise.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206211801id_/http%3A//perk.com/perkstatic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel-wise.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606111219id_/http%3A//perk.com/perkstatic/privacy) for the most accurate reproduction.*
 
 # Privacy | Perk.com
 
@@ -130,7 +130,7 @@ Perk may contain links to other third party websites. These other websites may h
 
 ### Our Policy Toward Children
 
-We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at privacy@Perk.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files to the extent possible. (See Accessing, Changing or Deleting Your Information above.).
+We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at privacy@perk.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files to the extent possible. (See Accessing, Changing or Deleting Your Information above.).
 
 ### Contacting Us
 
