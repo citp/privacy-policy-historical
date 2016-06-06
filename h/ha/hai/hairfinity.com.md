@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairfinity.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107013939id_/http%3A//www.hairfinity.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairfinity.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606193951id_/http%3A//www.hairfinity.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hairfinity US
 
@@ -42,20 +42,20 @@ We will not sell your name, address, e-mail address, credit card information or 
 
 Our website may contain links to and from the other affiliate websites, advertisers and other third parties. If you follow a link to any of these websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-## Grow Longer, Stronger Hair
+## Achieve Healthier Hair
 
-Hairfinity Hair Vitamins are formulated with essential nutrients for healthy hair growth. Our vitamins nourish your hair from the  **inside out**. See results in the first month.
+Hairfinity is a complete healthy hair solution, giving your hair what it needs to be its healthiest from the INSIDE OUT. See results in the first month.
 
 [Learn More](https://web.archive.org/us/en/how-it-works/ "Learn More")
 
-## Get a Free Hair Care Regimen
+## Get a Free Custom Hair Plan
 
-Do you suffer with breakage or shedding? Your hair care regimen may be to blame. Learn which products to use with your Hairfinity Hair Vitamins for the best results.
+Do you suffer with breakage or damage? Your hair care regimen may be to blame. Find out what products work best for your specific hair.
 
-[Get Yours Now](https://web.archive.org/us/en/consultation "Get yours now!")
+[Get Yours Now](https://web.archive.org/us/en/consultation/ "Get yours now!")
 
 ## Place Your Order Online
 
-Ready to get faster growing, longer, stronger hair. Get your Hairfinity Hair Vitamins and the hair products you need to begin your journey to healthier hair.
+Ready to get healthier, more luxurious hair? Get your Hairfinity Hair Vitamins and Advanced Haircare products to begin your journey to healthier hair.
 
 [Order Now](https://web.archive.org/us/en/shop/ "Order Now")
