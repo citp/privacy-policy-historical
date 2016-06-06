@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mahanagargas.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206111138id_/http%3A//www.mahanagargas.com/HF_Content.aspx%3FKey%3DNg%3D%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mahanagargas.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606172915id_/http%3A//www.mahanagargas.com/HF_Content.aspx%3FKey%3DNg%3D%3D) for the most accurate reproduction.*
 
 # Mahanagar Gas | Privacy Policy
 
@@ -80,3 +80,13 @@ Our website may contain links to other websites of interest. However, once you h
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you information about our products / services/ payment facilities or  promotional information regarding our products/ co - branded products of third parties with whom we have tied up, which we think you may find interesting or useful to you. 
+
+**Grievance Officer**
+
+For any matter related to your concern on **IT Security** please contact or write to our Grievance Officer:  
+Mr. Abhijit Mukherjee  
+General Manager (BIS)  
+e-Mail: 
+
+abhijitm@mahanagargas.com   
+Phone(D): 022-61880608
