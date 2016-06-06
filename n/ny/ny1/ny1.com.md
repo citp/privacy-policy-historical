@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ny1.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207022041id_/http%3A//www.ny1.com/nyc/all-boroughs/about-us/2015/01/21/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ny1.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606194937id_/http%3A//www.ny1.com/nyc/all-boroughs/about-us/2015/01/21/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
