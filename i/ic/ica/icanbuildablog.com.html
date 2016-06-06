@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the icanbuildablog.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207024430id_/http%3A//icanbuildablog.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icanbuildablog.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606195450id_/http%3A//icanbuildablog.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 
@@ -10,8 +10,47 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 		
 	<title>Privacy Policy - I Can Build a Blog</title>
+    <!-- Slider Template -->
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/template" id="wc_product_slider_widget_item_tpl">
+    	{{ var srcset = '', sizes = ''; }}
+		{{ if ( typeof img_srcset !== 'undefined' ) { srcset = img_srcset; } }}
+		{{ if ( typeof img_sizes !== 'undefined' ) { sizes = img_sizes; } }}
 
-<!-- This site is optimized with the Yoast SEO plugin v3.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
+		{{ var item_title_html = ''; }}
+				{{ if ( item_title != '' ) { }}
+			{{ item_title_html += '<div class="cycle-product-name"><a href="' + item_link + '">' + item_title + '</a></div>'; }}
+		{{ } }}
+				{{ if ( product_price != '' ) { }}
+			{{ item_title_html += '<div class="cycle-product-price">'+ product_price +'</div>'; }}
+		{{ } }}
+				{{ var cycle_desc = '<a class="cycle-product-linked" href="' + item_link + '">View this Product</a>'; }}
+				<img class="cycle-wc-product-image"			data-cycle-number="{{= index_product }}"			srcset="{{- srcset }}"			sizes="{{- sizes }}"			src="{{= img_url }}"			name="{{- item_title_html }}"			title=""			data-cycle-desc="{{ if ( item_link != "" ) { }} {{- cycle_desc }}{{ } }}"            style="position:absolute; top:0; left:0; {{ if ( index_product > 1 ) { }} visibility:hidden; {{ } }} "            {{ if ( typeof extra_attributes !== "undefined" && extra_attributes != "" ) { }} {{= extra_attributes }} {{ } }}        />
+	</script>
+
+    <script type="text/template" id="wc_product_slider_mobile_item_tpl">
+    	{{ var srcset = '', sizes = ''; }}
+		{{ if ( typeof img_srcset !== 'undefined' ) { srcset = img_srcset; } }}
+		{{ if ( typeof img_sizes !== 'undefined' ) { sizes = img_sizes; } }}
+
+		{{ var item_title_html = ''; }}
+				{{ if ( product_price != '' ) { }}
+			{{ item_title_html += '<div class="cycle-product-price">'+ product_price +'</div>'; }}
+		{{ } }}
+		{{ var category_tag_link = ''; }}
+						{{ if ( is_used_mobile_skin == 'true' ) { }}
+			<img class="cycle-wc-product-image"				srcset="{{- srcset }}"				sizes="{{- sizes }}"				src="{{= img_url }}"				title="{{- item_title_html }}"				data-cycle-desc="{{- category_tag_link }}"				style="position:absolute; top:0; left:0; {{ if ( index_product > 1 ) { }} visibility:hidden; {{ } }} "			/>
+		{{ } else { }}
+			<img class="cycle-wc-product-image"				srcset="{{- srcset }}"				sizes="{{- sizes }}"				src="{{= img_url }}"				title="{{- item_title_html }}"				alt=""				style="position:absolute; top:0; left:0; {{ if ( index_product > 1 ) { }} visibility:hidden; {{ } }} "			/>		{{ } }}
+	</script>
+
+    <script type="text/template" id="wc_product_slider_card_item_tpl"><div></div>
+	</script>
+
+    
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=Vidaloka:regular" rel="stylesheet" type="text/css">
+
+<!-- This site is optimized with the Yoast SEO plugin v3.2.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://icanbuildablog.com/privacy-policy/">
 <link rel="publisher" href="https://plus.google.com/u/0/b/108785961095151325964/+thewonderforest/">
 <meta property="og:locale" content="en_US">
@@ -32,10 +71,10 @@
 
 <link rel="alternate" type="application/rss+xml" title="I Can Build a Blog » Feed" href="http://icanbuildablog.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="I Can Build a Blog » Comments Feed" href="http://icanbuildablog.com/comments/feed/">
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/icanbuildablog.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://icanbuildablog.com/wp-includes/js/wp-emoji-release.min.js?ver=4.3.1" type="text/javascript"></script>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/icanbuildablog.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://icanbuildablog.com/wp-includes/js/wp-emoji-release.min.js?ver=4.4.3" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -50,13 +89,14 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="contact-form-7-css" href="http://icanbuildablog.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://icanbuildablog.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2" type="text/css" media="all">
 <link rel="stylesheet" id="tm-lcptu-styles-css" href="http://icanbuildablog.com/wp-content/plugins/latest-custom-post-type-updates/css/tm_lcptu_basic_styles.css?ver=1.3.0" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-layout-css" href="//icanbuildablog.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.4.10" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//icanbuildablog.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.4.10" type="text/css" media="only screen and (max-width: 768px)">
-<link rel="stylesheet" id="woocommerce-general-css" href="//icanbuildablog.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.4.10" type="text/css" media="all">
-<link rel="stylesheet" id="magnific-popup-au-css" href="http://icanbuildablog.com/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/magnific-popup.min.css?ver=3.0.8.9" type="text/css" media="all">
-<link rel="stylesheet" id="youtube-channel-css" href="http://icanbuildablog.com/wp-content/plugins/youtube-channel/assets/css/youtube-channel.css?ver=3.0.8.9" type="text/css" media="all">
+<link rel="stylesheet" id="popup-maker-site-css" href="http://icanbuildablog.com/wp-content/plugins/popup-maker/assets/css/site.min.css?ver=1.4.9" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//icanbuildablog.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.5.5" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//icanbuildablog.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.5.5" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="//icanbuildablog.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.5.5" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-au-css" href="http://icanbuildablog.com/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/magnific-popup.min.css?ver=3.0.9" type="text/css" media="all">
+<link rel="stylesheet" id="youtube-channel-css" href="http://icanbuildablog.com/wp-content/plugins/youtube-channel/assets/css/youtube-channel.css?ver=3.0.9" type="text/css" media="all">
 <link rel="stylesheet" id="smart-blog-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C600%2C700%7CMerriweather%3A400%2C300italic%2C400italic%2C700" type="text/css" media="all">
 <link rel="stylesheet" id="smart-blog-core-css" href="http://icanbuildablog.com/wp-content/themes/icbab-theme-child/style.css?ver=1.0.0" type="text/css" media="all">
 <link rel="stylesheet" id="smart-blog-lightbox-css" href="http://icanbuildablog.com/wp-content/themes/icbab-theme/css/lightbox.css?ver=1.0.0" type="text/css" media="all">
@@ -90,8 +130,8 @@ input[type="submit"], button, input[type="button"], .button, .main-pagination .n
 
 
 </style>
-<link rel="stylesheet" id="youtube-channel-gallery-css" href="http://icanbuildablog.com/wp-content/plugins/youtube-channel-gallery/styles.css?ver=4.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="jquery.magnific-popup-css" href="http://icanbuildablog.com/wp-content/plugins/youtube-channel-gallery/magnific-popup.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="youtube-channel-gallery-css" href="http://icanbuildablog.com/wp-content/plugins/youtube-channel-gallery/styles.css?ver=4.4.3" type="text/css" media="all">
+<link rel="stylesheet" id="jquery.magnific-popup-css" href="http://icanbuildablog.com/wp-content/plugins/youtube-channel-gallery/magnific-popup.css?ver=4.4.3" type="text/css" media="all">
 <link rel="stylesheet" id="wp-cpl-base-css-css" href="http://icanbuildablog.com/wp-content/plugins/wp-category-posts-list/static/css/wp-cat-list-theme.css?ver=2.0.3" type="text/css" media="all">
 <link rel="stylesheet" id="wp_cpl_css_0-css" href="http://icanbuildablog.com/wp-content/plugins/wp-category-posts-list/static/css/wp-cat-list-light.css?ver=2.0.3" type="text/css" media="all">
 <script type="text/javascript">
@@ -101,14 +141,63 @@ var Sphere_Plugin = {"ajaxurl":"http:\/\/icanbuildablog.com\/wp-admin\/admin-aja
 </script>
 <script type="text/javascript" src="http://icanbuildablog.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
 <script type="text/javascript" src="http://icanbuildablog.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=3.0.1"></script>
-<script type="text/javascript" src="http://icanbuildablog.com/wp-content/themes/icbab-theme/js/pf.intrinsic.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=3.0.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jpibfi_options = {"imageSelector":"img","disabledClasses":"nopin;wp-smiley","enabledClasses":"","descriptionOption":"6","usePostUrl":"0","minImageHeight":"300","minImageWidth":"360","siteTitle":"I Can Build a Blog","buttonPosition":"2","debug":"0","containerSelector":"div","pinImageHeight":"87","pinImageWidth":"85","buttonMarginTop":"20","buttonMarginBottom":"20","buttonMarginLeft":"20","buttonMarginRight":"20","retinaFriendly":"0","showButton":"hover","pinLinkedImages":"","pinLinkedImagesExtensions":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/jquery-pin-it-button-for-images/js/jpibfi.js?ver=1.52a"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/themes/icbab-theme/js/pf.intrinsic.js?ver=4.4.3"></script>
+<link rel="https://api.w.org/" href="http://icanbuildablog.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://icanbuildablog.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://icanbuildablog.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.3.1">
-<meta name="generator" content="WooCommerce 2.4.10">
+<meta name="generator" content="WordPress 4.4.3">
+<meta name="generator" content="WooCommerce 2.5.5">
 <link rel="shortlink" href="http://icanbuildablog.com/?p=319">
+<link rel="alternate" type="application/json+oembed" href="http://icanbuildablog.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ficanbuildablog.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://icanbuildablog.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ficanbuildablog.com%2Fprivacy-policy%2F&amp;format=xml">
+    <style id="pum-styles" type="text/css">
+    /* Popup Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Acme|Montserrat');
 
+/* Popup Theme 1694: Framed Border */
+.pum-theme-1694, .pum-theme-framed-border { background-color: rgba( 255, 255, 255, 0.5 ) } 
+.pum-theme-1694 .pum-container, .pum-theme-framed-border .pum-container { padding: 18px; border-radius: 0px; border: 20px outset #dd3333; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.97 ) inset; background-color: rgba( 255, 251, 239, 1 ) } 
+.pum-theme-1694 .pum-title, .pum-theme-framed-border .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-1694 .pum-content, .pum-theme-framed-border .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-1694 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close { height: 20px; width: 20px; left: auto; right: -20px; bottom: auto; top: -20px; padding: 0px; color: #ffffff; font-family: Acme; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 0.55 ) } 
+/* Popup Theme 1693: Cutting Edge */
+.pum-theme-1693, .pum-theme-cutting-edge { background-color: rgba( 0, 0, 0, 0.5 ) } 
+.pum-theme-1693 .pum-container, .pum-theme-cutting-edge .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.5 ); background-color: rgba( 30, 115, 190, 1 ) } 
+.pum-theme-1693 .pum-title, .pum-theme-cutting-edge .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Sans-Serif; font-size: 26px; line-height: 28px } 
+.pum-theme-1693 .pum-content, .pum-theme-cutting-edge .pum-content { color: #ffffff; font-family: inherit } 
+.pum-theme-1693 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close { height: 24px; width: 24px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #1e73be; font-family: inherit; font-size: 32px; line-height: 24px; border: 1px none #ffffff; border-radius: 0px; box-shadow: -1px 1px 1px 0px rgba( 2, 2, 2, 0.1 ); text-shadow: -1px 1px 1px rgba( 0, 0, 0, 0.1 ); background-color: rgba( 238, 238, 34, 1 ) } 
+/* Popup Theme 1692: Hello Box */
+.pum-theme-1692, .pum-theme-hello-box { background-color: rgba( 0, 0, 0, 0.75 ) } 
+.pum-theme-1692 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 80px; border: 14px solid #81d742; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-1692 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-size: 32px; line-height: 36px } 
+.pum-theme-1692 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-1692 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 0px; color: #2d2d2d; font-family: inherit; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 28px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1 ) } 
+/* Popup Theme 1691: Enterprise Blue */
+.pum-theme-1691, .pum-theme-enterprise-blue { background-color: rgba( 0, 0, 0, 0.7 ) } 
+.pum-theme-1691 .pum-container, .pum-theme-enterprise-blue .pum-container { padding: 28px; border-radius: 5px; border: 1px none #000000; box-shadow: 0px 10px 25px 4px rgba( 2, 2, 2, 0.5 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-1691 .pum-title, .pum-theme-enterprise-blue .pum-title { color: #315b7c; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 34px; line-height: 36px } 
+.pum-theme-1691 .pum-content, .pum-theme-enterprise-blue .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-1691 .pum-content + .pum-close, .pum-theme-enterprise-blue .pum-content + .pum-close { height: 28px; width: 28px; left: auto; right: 8px; bottom: auto; top: 8px; padding: 4px; color: #ffffff; font-family: inherit; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 42px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 49, 91, 124, 1 ) } 
+/* Popup Theme 1690: Light Box */
+.pum-theme-1690, .pum-theme-lightbox { background-color: rgba( 0, 0, 0, 0.6 ) } 
+.pum-theme-1690 .pum-container, .pum-theme-lightbox .pum-container { padding: 18px; border-radius: 3px; border: 8px solid #000000; box-shadow: 0px 0px 30px 0px rgba( 2, 2, 2, 1 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-1690 .pum-title, .pum-theme-lightbox .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-1690 .pum-content, .pum-theme-lightbox .pum-content { color: #000000; font-family: inherit } 
+.pum-theme-1690 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close { height: 30px; width: 30px; left: auto; right: -24px; bottom: auto; top: -24px; padding: 0px; color: #ffffff; font-family: inherit; font-size: 24px; line-height: 26px; border: 2px solid #ffffff; border-radius: 30px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1 ) } 
+/* Popup Theme 1426: Default Theme */
+.pum-theme-1426, .pum-theme-default-theme { background-color: rgba( 255, 255, 255, 0.42 ) } 
+.pum-theme-1426 .pum-container, .pum-theme-default-theme .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 255, 255, 255, 1 ) } 
+.pum-theme-1426 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-1426 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit } 
+.pum-theme-1426 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-size: 12px; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1 ) } 
+        </style>
 <!-- Twitter Cards Meta By WPDeveloper.net -->
 <meta name="twitter:card" content="photo">
 <meta name="twitter:site" content="@thewonderforest">
@@ -119,42 +208,8 @@ var Sphere_Plugin = {"ajaxurl":"http:\/\/icanbuildablog.com\/wp-admin\/admin-aja
 <meta name="twitter:image" content="http://1.bp.blogspot.com/-mTiV6-Eizcg/UoUpS-9zweI/AAAAAAAAOKA/ox_CjdYvopo/s1600/promoimage+copy.jpg">
 <!-- Twitter Cards Meta By WPDeveloper.net -->
 
-    <!-- Slider Template -->
-    <script type="text/template" id="wc_product_slider_widget_item_tpl">
-		{{ var item_title_html = ''; }}
-				{{ if ( item_title != '' ) { }}
-			{{ item_title_html += '<div class="cycle-product-name"><a href="' + item_link + '">' + item_title + '</a></div>'; }}
-		{{ } }}
-				{{ if ( product_price != '' ) { }}
-			{{ item_title_html += '<div class="cycle-product-price">'+ product_price +'</div>'; }}
-		{{ } }}
-				{{ var cycle_desc = '<a class="cycle-product-linked" href="' + item_link + '">View this Product</a>'; }}
-				<img class="cycle-wc-product-image"			data-cycle-number="{{= index_product }}"			src="{{= img_url }}"			name="{{- item_title_html }}"			title=""			data-cycle-desc="{{ if ( item_link != "" ) { }} {{- cycle_desc }}{{ } }}"            style="position:absolute; top:0; left:0; {{ if ( index_product > 1 ) { }} visibility:hidden; {{ } }} "            {{ if ( typeof extra_attributes !== "undefined" && extra_attributes != "" ) { }} {{= extra_attributes }} {{ } }}        />
-	</script>
-
-    <script type="text/template" id="wc_product_slider_mobile_item_tpl">
-		{{ var item_title_html = ''; }}
-				{{ if ( product_price != '' ) { }}
-			{{ item_title_html += '<div class="cycle-product-price">'+ product_price +'</div>'; }}
-		{{ } }}
-		{{ var category_tag_link = ''; }}
-						{{ if ( is_used_mobile_skin == 'true' ) { }}
-			<img class="cycle-wc-product-image"				src="{{= img_url }}"				title="{{- item_title_html }}"				data-cycle-desc="{{- category_tag_link }}"				style="position:absolute; top:0; left:0; {{ if ( index_product > 1 ) { }} visibility:hidden; {{ } }} "			/>
-		{{ } else { }}
-			<img class="cycle-wc-product-image"				src="{{= img_url }}"				title="{{- item_title_html }}"				alt=""				style="position:absolute; top:0; left:0; {{ if ( index_product > 1 ) { }} visibility:hidden; {{ } }} "			/>		{{ } }}
-	</script>
-    
-    
-<!-- Google Webfonts -->
-<link href="http://fonts.googleapis.com/css?family=Vidaloka" rel="stylesheet" type="text/css">
-<style id="popup-maker-themes" type="text/css">/* Popup Theme 1426: Default Theme */
-.popmake-overlay.theme-1426, .popmake-overlay.theme-default-theme { background-color: rgba( 255, 255, 255, 0.42 ) } 
-.popmake.theme-1426, .popmake.theme-default-theme { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 255, 255, 255, 1 ) } 
-.popmake.theme-1426 .popmake-title, .popmake.theme-default-theme .popmake-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
-.popmake.theme-1426 .popmake-content, .popmake.theme-default-theme .popmake-content { color: #8c8c8c; font-family: inherit } 
-.popmake.theme-1426 > .popmake-close, .popmake.theme-default-theme > .popmake-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-size: 12px; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1 ) } 
-</style>
-<!-- BEGIN GADWP v4.8.3 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+ <style type="text/css"> a.pinit-button { position:absolute; text-indent:-9999em !important; width: 85px !important; height: 87px !important; background: transparent url('http://icanbuildablog.com/wp-content/uploads/2016/05/pinit.png') no-repeat 0 0 !important; background-size: 85px 87px !important; } img.pinit-hover { opacity: 0.5 !important; filter:alpha(opacity=50) !important; /* For IE8 and earlier */ } </style> 
+<!-- BEGIN GADWP v4.9.3.1 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -163,10 +218,15 @@ var Sphere_Plugin = {"ajaxurl":"http:\/\/icanbuildablog.com\/wp-admin\/admin-aja
   ga('create', 'UA-45546553-1', 'auto');
   ga('send', 'pageview');
 </script>
+
 <!-- END GADWP Universal Tracking -->
 
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-539211310811ead7"></script>
-
+<script type="text/javascript">
+	jQuery(document).ready(function($){
+		$(".instagram-pics img").prop("nopin", "nopin");
+	});
+</script>
 <script async="" type="text/javascript" src="//icanbuildablog.disqus.com/count.js"></script></head>
 
 <body class="page page-id-319 page-template-default right-sidebar ">
@@ -264,6 +324,11 @@ var Sphere_Plugin = {"ajaxurl":"http:\/\/icanbuildablog.com\/wp-admin\/admin-aja
 <li id="menu-item-879" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-879"><a href="http://icanbuildablog.com/2014/07/create-a-wordpress-blog-in-5-minutes/">The 5 Minute Blog</a></li>
 <li id="menu-item-955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-955"><a href="http://icanbuildablog.com/videos/">Videos</a></li>
 <li id="menu-item-908" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-908"><a href="http://www.envye.com">Blog Themes</a></li>
+<li id="menu-item-1549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1549"><a href="http://icanbuildablog.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-1548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1548"><a href="http://icanbuildablog.com/contact/">Contact</a></li>
+</ul>
+</li>
 </ul></div>				</nav>
 				
 								
@@ -346,10 +411,10 @@ var Sphere_Plugin = {"ajaxurl":"http:\/\/icanbuildablog.com\/wp-admin\/admin-aja
 <div class="bwicon"><img src="http://icanbuildablog.com//wp-content/themes/icbab-theme-child/bw-icon.png"></div>
 
 <div class="bwdownload">
-<h2>48 Pages of Content Designed <br>
-to Help Grow Your Blog <em>Quickly</em></h2><br>
+<h2>48 Pages of Content Designed<br>
+to Help Grow Your Blog <em>Quickly</em> </h2><br>
 
-<h2 class="dlnow"><a style="background-color:#fff;padding:10px;" href="http://icanbuildablog.com/product/blog-wonderful-ebook/">Download Now</a></h2>
+<h2 class="dlnow"><a style="background-color:#fff;padding:10px;" href="http://icanbuildablog.com/product/blog-wonderful-ebook">Download Now</a></h2>
 </div>
 
 </div>
@@ -385,7 +450,7 @@ to Help Grow Your Blog <em>Quickly</em></h2><br>
 		
 			<div class="post-content cf">
 				
-				
+				<input class="jpibfi" type="hidden">
 <!--Ad Injection mfunc mode ad include code--><!--mfunc include_once('/home1/giffysna/public_html/icanbuildablog.com/wp-content/plugins/ad-injection/adshow.php') --><!--/mfunc-->
 <p><b>Privacy Policy for www.icanbuildablog.com</b></p>
 <p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at dana@icanbuildablog.com.</p>
@@ -420,6 +485,7 @@ Commission Junction</p>
 					<ul>
 				<li id="text-14" class="grid-box widget widget_text">			<div class="textwidget"><center><a href="http://icanbuildablog.com/2014/07/create-a-wordpress-blog-in-5-minutes/"><img src="http://icanbuildablog.com/wp-content/uploads/2014/12/wordpressnew.jpg" class="wp-post-image" alt="cheap wordpress hosting" nopin="nopin"></a></center></div>
 		</li>
+<li id="widget_product_cycle-2" class="grid-box widget widget_product_cycle"><h5 class="widget-title">My Books</h5>    <div style="clear:both;"></div>    <div class="wc-product-slider-widget-skin-container">            		<div id="cycle-widget-skin-caption-42" class="cycle-widget-skin-product-name-container"></div>        <div id="wc-product-slider-container-42" class="wc-product-slider-container wc-product-slider-widget-skin" data-slider-id="cGx1Z2luPXdjX3Byb2R1Y3Rfc2xpZGVyJnNob3dfdHlwZT1jYXRlZ29yeSZjYXRlZ29yeV9pZD01MCZmaWx0ZXJfdHlwZT0mc2tpbl90eXBlPXdpZGdldCZudW1iZXJfcHJvZHVjdHM9Ng==" data-slider-settings="{&quot;title&quot;:&quot;My Books&quot;,&quot;category_id&quot;:&quot;50&quot;,&quot;filter_type&quot;:&quot;&quot;,&quot;widget_effect&quot;:&quot;scrollHorz&quot;,&quot;slider_auto_scroll&quot;:&quot;yes&quot;,&quot;show_type&quot;:&quot;category&quot;,&quot;number_products&quot;:&quot;6&quot;,&quot;skin_type&quot;:&quot;widget&quot;,&quot;effect_delay&quot;:1,&quot;effect_timeout&quot;:4,&quot;effect_speed&quot;:2}" data-slider-skin-type="widget">    	<div style=" height:250px" id="wc-product-slider-42" class="wc-product-slider  " data-cycle-fx="scrollHorz" data-cycle-timeout="4000" data-cycle-speed="2000" data-cycle-delay="1000" data-cycle-swipe="true" data-cycle-prev="> .a3-cycle-controls .cycle-prev" data-cycle-next="> .a3-cycle-controls .cycle-next" data-cycle-pager="> .cycle-pager-container .cycle-pager-inside .cycle-pager" data-cycle-center-vert="true" data-cycle-auto-height="false" data-cycle-center-horz="true" data-cycle-caption="#cycle-widget-skin-caption-42" data-cycle-caption-template="{{name}}" data-cycle-caption-plugin="caption2" data-cycle-caption-fx-out="fadeOut" data-cycle-caption-fx-in="fadeIn" data-cycle-overlay="#cycle-widget-skin-overlay-42" data-cycle-overlay-fx-out="fadeOut" data-cycle-overlay-fx-in="fadeIn" data-cycle-loader="true">        	<div class="a3-cycle-controls" style="display: none;">            	<span><a href="#" class="cycle-prev">Prev</a></span>                <span><a href="#" class="cycle-next">Next</a></span>                <span><a href="#" data-cycle-cmd="pause" data-cycle-context="#wc-product-slider-42" onclick="return false;" class="cycle-pause" style=" ">Pause</a></span>                <span><a href="#" data-cycle-cmd="resume" data-cycle-context="#wc-product-slider-42" onclick="return false;" class="cycle-play" style=" display:none">Play</a></span>            </div>        	<div class="cycle-pager-container" style="display: none;">            	<div class="cycle-pager-inside">            		<div class="cycle-pager-overlay"></div>                	<div class="cycle-pager"></div>                </div>            </div>        </div>    </div>        <div id="cycle-widget-skin-overlay-42" class="cycle-widget-skin-product-linked-container"></div>            </div>    <div style="clear:both;"></div>    </li>
 
 		<li id="bunyad-posts-widget-3" class="grid-box widget widget-posts">		
 							
@@ -428,12 +494,12 @@ Commission Junction</p>
 			<ul class="posts-list list-small">
 							<li class="post cf">
 				
-					<a href="http://icanbuildablog.com/2015/11/one-day-mega-hosting-sale-start-a-blog-for-2-95/" class="image-link">
-						<img width="99" height="66" src="http://icanbuildablog.com/wp-content/uploads/2015/11/onedaysale-99x66.jpg" class="attachment-smart-blog-thumb wp-post-image" alt="Start a Blog for $2.95" title="One Day Mega Hosting Sale – Start a Blog for $2.95">					</a>
+					<a href="http://icanbuildablog.com/2016/05/automate-social-content-blog/" class="image-link">
+						<img width="99" height="66" src="http://icanbuildablog.com/wp-content/uploads/2016/05/automate-social-99x66.jpg" class="attachment-smart-blog-thumb size-smart-blog-thumb wp-post-image" alt="how i save time by automating social content for my blogs" title="How I Automate Social Content for My Blogs to Save Time" srcset="http://icanbuildablog.com/wp-content/uploads/2016/05/automate-social-270x180.jpg 270w, http://icanbuildablog.com/wp-content/uploads/2016/05/automate-social-369x246.jpg 369w, http://icanbuildablog.com/wp-content/uploads/2016/05/automate-social-99x66.jpg 99w, http://icanbuildablog.com/wp-content/uploads/2016/05/automate-social-270x180@2x.jpg 540w, http://icanbuildablog.com/wp-content/uploads/2016/05/automate-social-369x246@2x.jpg 738w, http://icanbuildablog.com/wp-content/uploads/2016/05/automate-social-99x66@2x.jpg 198w" sizes="(max-width: 99px) 100vw, 99px">					</a>
 					
 					<div class="content">
 					
-						<a href="http://icanbuildablog.com/2015/11/one-day-mega-hosting-sale-start-a-blog-for-2-95/" class="title-link">One Day Mega Hosting Sale – Start a Blog for $2.95</a>
+						<a href="http://icanbuildablog.com/2016/05/automate-social-content-blog/" class="title-link">How I Automate Social Content for My Blogs to Save Time</a>
 							
 												
 						
@@ -442,7 +508,7 @@ Commission Junction</p>
 					<span class="post-cat">
 			
 						
-				<a href="http://icanbuildablog.com/category/domains-and-hosting/">Domains and Hosting</a></span>
+				<a href="http://icanbuildablog.com/category/social-media/">Social Media</a></span>
 			
 						
 			<span class="meta-sep"></span>
@@ -455,12 +521,39 @@ Commission Junction</p>
 				</li>
 							<li class="post cf">
 				
-					<a href="http://icanbuildablog.com/2015/11/1475/" class="image-link">
-						<img width="99" height="66" src="http://icanbuildablog.com/wp-content/uploads/2015/11/black-fri-99x66.jpg" class="attachment-smart-blog-thumb wp-post-image" alt="Black Friday Deals for Bloggers" title="Black Friday Deals For Bloggers 2015">					</a>
+					<a href="http://icanbuildablog.com/2016/03/place-ads-blog-without-clutter/" class="image-link">
+						<img width="99" height="66" src="http://icanbuildablog.com/wp-content/uploads/2016/03/placing-ads-99x66.jpg" class="attachment-smart-blog-thumb size-smart-blog-thumb wp-post-image" alt="How To Place Ads on Your Site Without The Clutter" title="How To Place Ads on Your Blog Without the Clutter" srcset="http://icanbuildablog.com/wp-content/uploads/2016/03/placing-ads-270x180.jpg 270w, http://icanbuildablog.com/wp-content/uploads/2016/03/placing-ads-369x246.jpg 369w, http://icanbuildablog.com/wp-content/uploads/2016/03/placing-ads-99x66.jpg 99w, http://icanbuildablog.com/wp-content/uploads/2016/03/placing-ads-270x180@2x.jpg 540w, http://icanbuildablog.com/wp-content/uploads/2016/03/placing-ads-369x246@2x.jpg 738w, http://icanbuildablog.com/wp-content/uploads/2016/03/placing-ads-99x66@2x.jpg 198w" sizes="(max-width: 99px) 100vw, 99px">					</a>
 					
 					<div class="content">
 					
-						<a href="http://icanbuildablog.com/2015/11/1475/" class="title-link">Black Friday Deals For Bloggers 2015</a>
+						<a href="http://icanbuildablog.com/2016/03/place-ads-blog-without-clutter/" class="title-link">How To Place Ads on Your Blog Without the Clutter</a>
+							
+												
+						
+		<div class="post-meta">
+		
+					<span class="post-cat">
+			
+						
+				<a href="http://icanbuildablog.com/category/adsense/">Adsense</a></span>
+			
+						
+			<span class="meta-sep"></span>
+			
+					
+				
+		</div>
+					</div>
+				
+				</li>
+							<li class="post cf">
+				
+					<a href="http://icanbuildablog.com/2016/02/how-to-make-your-blog-better/" class="image-link">
+						<img width="99" height="66" src="http://icanbuildablog.com/wp-content/uploads/2016/02/make-blog-better-99x66.jpg" class="attachment-smart-blog-thumb size-smart-blog-thumb wp-post-image" alt="8 Ways To Make Your Blog Better" title="8 Ways To Make Your Blog Better" srcset="http://icanbuildablog.com/wp-content/uploads/2016/02/make-blog-better-270x180.jpg 270w, http://icanbuildablog.com/wp-content/uploads/2016/02/make-blog-better-369x246.jpg 369w, http://icanbuildablog.com/wp-content/uploads/2016/02/make-blog-better-99x66.jpg 99w, http://icanbuildablog.com/wp-content/uploads/2016/02/make-blog-better-270x180@2x.jpg 540w, http://icanbuildablog.com/wp-content/uploads/2016/02/make-blog-better-369x246@2x.jpg 738w, http://icanbuildablog.com/wp-content/uploads/2016/02/make-blog-better-99x66@2x.jpg 198w" sizes="(max-width: 99px) 100vw, 99px">					</a>
+					
+					<div class="content">
+					
+						<a href="http://icanbuildablog.com/2016/02/how-to-make-your-blog-better/" class="title-link">8 Ways To Make Your Blog Better</a>
 							
 												
 						
@@ -482,39 +575,12 @@ Commission Junction</p>
 				</li>
 							<li class="post cf">
 				
-					<a href="http://icanbuildablog.com/2015/11/moving-from-blogger-to-wordpress-without-downtime/" class="image-link">
-						<img width="99" height="66" src="http://icanbuildablog.com/wp-content/uploads/2015/11/moving-from-blogger-to-wordpress-99x66.jpg" class="attachment-smart-blog-thumb wp-post-image" alt="How To Move From Blogger to Wordpress Without Downtime" title="Moving From Blogger to WordPress Without Downtime">					</a>
+					<a href="http://icanbuildablog.com/2016/01/get-bloglovin-followers/" class="image-link">
+						<img width="99" height="66" src="http://icanbuildablog.com/wp-content/uploads/2016/01/more-bloglovin-followers-99x66.jpg" class="attachment-smart-blog-thumb size-smart-blog-thumb wp-post-image" alt="How To Get More Bloglovin' Followers (and other tips!)" title="How To Get More Bloglovin’ Followers" srcset="http://icanbuildablog.com/wp-content/uploads/2016/01/more-bloglovin-followers-270x180.jpg 270w, http://icanbuildablog.com/wp-content/uploads/2016/01/more-bloglovin-followers-369x246.jpg 369w, http://icanbuildablog.com/wp-content/uploads/2016/01/more-bloglovin-followers-99x66.jpg 99w, http://icanbuildablog.com/wp-content/uploads/2016/01/more-bloglovin-followers-270x180@2x.jpg 540w, http://icanbuildablog.com/wp-content/uploads/2016/01/more-bloglovin-followers-369x246@2x.jpg 738w, http://icanbuildablog.com/wp-content/uploads/2016/01/more-bloglovin-followers-99x66@2x.jpg 198w" sizes="(max-width: 99px) 100vw, 99px">					</a>
 					
 					<div class="content">
 					
-						<a href="http://icanbuildablog.com/2015/11/moving-from-blogger-to-wordpress-without-downtime/" class="title-link">Moving From Blogger to WordPress Without Downtime</a>
-							
-												
-						
-		<div class="post-meta">
-		
-					<span class="post-cat">
-			
-						
-				<a href="http://icanbuildablog.com/category/blogger-2/">Blogger</a></span>
-			
-						
-			<span class="meta-sep"></span>
-			
-					
-				
-		</div>
-					</div>
-				
-				</li>
-							<li class="post cf">
-				
-					<a href="http://icanbuildablog.com/2015/09/how-to-use-stock-photos-effectively/" class="image-link">
-						<img width="99" height="66" src="http://icanbuildablog.com/wp-content/uploads/2015/09/how-to-use-stock-photos2-99x66.jpg" class="attachment-smart-blog-thumb wp-post-image" alt="How To Use Stock Photos Without Getting Sued!" title="How to Use Stock Photos Effectively">					</a>
-					
-					<div class="content">
-					
-						<a href="http://icanbuildablog.com/2015/09/how-to-use-stock-photos-effectively/" class="title-link">How to Use Stock Photos Effectively</a>
+						<a href="http://icanbuildablog.com/2016/01/get-bloglovin-followers/" class="title-link">How To Get More Bloglovin’ Followers</a>
 							
 												
 						
@@ -573,18 +639,14 @@ Commission Junction</p>
 				
 				
 		<section class="mid-footer cf">
-			<ul class="instagram-pics instagram-size-large"><li class=""><a href="//instagram.com/p/-2fpKUSFxV" target="_blank" class=""><img src="//scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/s640x640/sh0.08/e35/12317532_976870432389353_2049827993_n.jpg" alt="<aren't they though?> 😉 in one word, what made you happy this week?? Let's make a happy list ☺️" title="<aren't they though?> 😉 in one word, what made you happy this week?? Let's make a happy list ☺️" class=""></a></li><li class=""><a href="//instagram.com/p/-zJUocSF4n" target="_blank" class=""><img src="//scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/s640x640/sh0.08/e35/12301165_1651999238404042_625685836_n.jpg" alt="<ho ho holiday decor> I've just posted a tutorial and free patterns for two cute typographic holiday pillows... Best part: totally sewing optional! Grab those glue guns 😉👍🏼. Link in profile. Want some behind the scenes? Follow my wonderforest snapchat." title="<ho ho holiday decor> I've just posted a tutorial and free patterns for two cute typographic holiday pillows... Best part: totally sewing optional! Grab those glue guns 😉👍🏼. Link in profile. Want some behind the scenes? Follow my wonderforest snapchat." class=""></a></li><li class=""><a href="//instagram.com/p/-xVqFkSF3T" target="_blank" class=""><img src="//scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/s640x640/sh0.08/e35/12292613_1224644497549354_1303137443_n.jpg" alt="<keep your chin up> it's a rare selfie kinda evening. Did you guys score any black friday/cyber mon deals? 💭 p.s. stalk my behind the scenes life on my &quot;wonderforest&quot; snapchat." title="<keep your chin up> it's a rare selfie kinda evening. Did you guys score any black friday/cyber mon deals? 💭 p.s. stalk my behind the scenes life on my &quot;wonderforest&quot; snapchat." class=""></a></li><li class=""><a href="//instagram.com/p/-ryVhlSF5r" target="_blank" class=""><img src="//scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s640x640/sh0.08/e35/12256861_713078608827320_66453682_n.jpg" alt="<which one would you keep and which would you gift?> 😘☺️ tag who you'd spoil with a case! right now, up to 30% off and free shipping on all of my cases and Apple Watch bands with code ILOVEBF at casetify.com/wonderforest. 
-Cyber Monday: use code ILOVECM for up to 30% off + free shipping. Don't miss out on this if you've been eyeing one!! #casetify" title="<which one would you keep and which would you gift?> 😘☺️ tag who you'd spoil with a case! right now, up to 30% off and free shipping on all of my cases and Apple Watch bands with code ILOVEBF at casetify.com/wonderforest. 
-Cyber Monday: use code ILOVECM for up to 30% off + free shipping. Don't miss out on this if you've been eyeing one!! #casetify" class=""></a></li><li class=""><a href="//instagram.com/p/-oy8JLSFxY" target="_blank" class=""><img src="//scontent.cdninstagram.com/hphotos-xpf1/t51.2885-15/s640x640/sh0.08/e35/12292751_1660608144217538_1089110239_n.jpg" alt="<one of these things is not like the other> happy caturday! Pic by @mcencula ❤️" title="<one of these things is not like the other> happy caturday! Pic by @mcencula ❤️" class=""></a></li><li class=""><a href="//instagram.com/p/-hi5APSF7a" target="_blank" class=""><img src="//scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/s640x640/sh0.08/e35/12301359_862225647218221_343809020_n.jpg" alt="<waiting for my wave to come in> join me over on my &quot;wonderforest&quot; snapchat to see what I was looking at here! ------------------------------------------
-#getoutside #exploretocreate #explorecanada #huffpostgram #thatsdarling #livethelittlethings #feelfreefeed  #creativityfound  #momentslikethese  #thehappynow #alifealive #simplepleasures" title="<waiting for my wave to come in> join me over on my &quot;wonderforest&quot; snapchat to see what I was looking at here! ------------------------------------------
-#getoutside #exploretocreate #explorecanada #huffpostgram #thatsdarling #livethelittlethings #feelfreefeed  #creativityfound  #momentslikethese  #thehappynow #alifealive #simplepleasures" class=""></a></li><li class=""><a href="//instagram.com/p/-emHWuyF-x" target="_blank" class=""><img src="//scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s640x640/sh0.08/e35/12301136_1763043007318134_674807248_n.jpg" alt="<feeling festive?> here's an early gift for you and a friend (if you tag them!)... All of my cases are 20% off with free shipping until Wednesday. Use code PRESALE20 at casetify.com/wonderforest. They are available for many phone models, not just iPhones! P.s. See the making of this photo on my &quot;wonderforest&quot; snapchat. I'll follow you back today 😘 #casetify" title="<feeling festive?> here's an early gift for you and a friend (if you tag them!)... All of my cases are 20% off with free shipping until Wednesday. Use code PRESALE20 at casetify.com/wonderforest. They are available for many phone models, not just iPhones! P.s. See the making of this photo on my &quot;wonderforest&quot; snapchat. I'll follow you back today 😘 #casetify" class=""></a></li></ul><p class="clear"><a href="//instagram.com/wonderforest" rel="me" target="_blank">Follow Me!</a></p>		</section>
+			<ul class="instagram-pics instagram-size-large"><li class=""><a href="//instagram.com/p/BGSZoaAyF-p/" target="_blank" class=""><img src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13391228_1151738681549112_1799688831_n.jpg?ig_cache_key=MTI2NjE4NzE3MzExNjc5Njg0MQ%3D%3D.2" alt="<where dreams are made> nearing the end of this reno journey. Snapchat for more: wonderforest." title="<where dreams are made> nearing the end of this reno journey. Snapchat for more: wonderforest." class=""></a></li><li class=""><a href="//instagram.com/p/BGPJf_dSF5G/" target="_blank" class=""><img src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13380833_511563032364936_769981056_n.jpg?ig_cache_key=MTI2NTI3MTgwMTE3Mzc5NDM3NA%3D%3D.2" alt="<alright, weekend...> let's get down to business. Happy caturday! 🐱 Pic by @buddywongthepersian. Snapchat: wonderforest" title="<alright, weekend...> let's get down to business. Happy caturday! 🐱 Pic by @buddywongthepersian. Snapchat: wonderforest" class=""></a></li><li class=""><a href="//instagram.com/p/BGKC867SF-w/" target="_blank" class=""><img src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13267330_1124075987631394_120395192_n.jpg?ig_cache_key=MTI2MzgzNTYyNzk2NDA5NjQzMg%3D%3D.2" alt="<old things> they have the best character... Don't you think? 😉" title="<old things> they have the best character... Don't you think? 😉" class=""></a></li><li class=""><a href="//instagram.com/p/BGCyp4gSFwL/" target="_blank" class=""><img src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13298255_1541584659483169_140874410_n.jpg?ig_cache_key=MTI2MTc5MzYyNjExMjQxNjc3OQ%3D%3D.2" alt="<easily transformed> I cannot believe what this room used to look like compared to what it looks like now! @cilpaints #CILAskAnExpert" title="<easily transformed> I cannot believe what this room used to look like compared to what it looks like now! @cilpaints #CILAskAnExpert" class=""></a></li><li class=""><a href="//instagram.com/p/BF9-WELSFxG/" target="_blank" class=""><img src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13256694_1606733589641651_1769159949_n.jpg?ig_cache_key=MTI2MDQzNzY2NTkzMDA0MjQzOA%3D%3D.2" alt="<weekend vibes> hope you're keeping cool today 😉happy caturday! Pic by @buddywongthepersian" title="<weekend vibes> hope you're keeping cool today 😉happy caturday! Pic by @buddywongthepersian" class=""></a></li><li class=""><a href="//instagram.com/p/BF7VfLAyFzP/" target="_blank" class=""><img src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13285447_1614528452196315_164523167_n.jpg?ig_cache_key=MTI1OTY5NTAyMTg4NDk4ODYyMw%3D%3D.2" alt="<into the abyss> I love quiet days like this with a beach to myself." title="<into the abyss> I love quiet days like this with a beach to myself." class=""></a></li><li class=""><a href="//instagram.com/p/BF35KDnSF9L/" target="_blank" class=""><img src="//scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13257098_1565932203701294_1284032662_n.jpg?ig_cache_key=MTI1ODcyNjAwMDU5OTUyMzE0Nw%3D%3D.2" alt="<part of the flock> @ludinaaa showing off her Wonder Forest flamingo case😘😉! See the whole collection at thewonderforest.com/store and follow along on snapchat: wonderforest. I am working on an adorable new design as we speak ;)" title="<part of the flock> @ludinaaa showing off her Wonder Forest flamingo case😘😉! See the whole collection at thewonderforest.com/store and follow along on snapchat: wonderforest. I am working on an adorable new design as we speak ;)" class=""></a></li></ul><p class="clear"><a href="//instagram.com/wonderforest/" rel="me" target="_blank">Follow Me!</a></p>		</section>
 		
 				
 		
 				
 		<section class="lower-footer cf">
 			<div class="wrap">
-				<p class="copyright">© 2015 I Can Build A Blog, Dana Fox Creative. This website contains affiliate links and advertising which help keep it running, pay for hosting, and enable me to continue to provide you with helpful content. Affiliate links are all links of products or services that I have personally tried and/or would recommend. If you have any questions, feel free to contact me!</p>
+				<p class="copyright">© 2016 I Can Build A Blog, Dana Fox Creative. This website contains affiliate links and advertising which help keep it running, pay for hosting, and enable me to continue to provide you with helpful content. Affiliate links are all links of products or services that I have personally tried and/or would recommend. If you have any questions, feel free to contact me!</p>
 				
 								<div class="to-top">
 					<a href="#" class="back-to-top"><i class="icon-up-open-mini"></i> Top</a>
@@ -634,6 +696,11 @@ Cyber Monday: use code ILOVECM for up to 30% off + free shipping. Don't miss out
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-879"><a href="http://icanbuildablog.com/2014/07/create-a-wordpress-blog-in-5-minutes/">The 5 Minute Blog</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-955"><a href="http://icanbuildablog.com/videos/">Videos</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-908"><a href="http://www.envye.com">Blog Themes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1549"><a href="http://icanbuildablog.com/about/">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1548"><a href="http://icanbuildablog.com/contact/">Contact</a></li>
+</ul>
+</li>
 </ul>
 	</div>
 
@@ -651,7 +718,7 @@ Cyber Monday: use code ILOVECM for up to 30% off + free shipping. Don't miss out
                     nodes[i].parentNode.href = url + '#disqus_thread';
                 }
             }
-            var s = document.createElement('script'); 
+            var s = document.createElement('script');
             s.async = true;
             s.type = 'text/javascript';
             s.src = '//' + disqus_shortname + '.disqus.com/count.js';
@@ -659,41 +726,58 @@ Cyber Monday: use code ILOVECM for up to 30% off + free shipping. Don't miss out
         }());
         // ]]>
         </script>
-        <script type="text/javascript" src="http://s.skimresources.com/js/88670X1542076.skimlinks.js"></script>
-<!-- YouTube Channel 3 --><script type="text/javascript">function ytc_init_MPAU() {jQuery('.ytc-lightbox').magnificPopupAU({disableOn:320,type:'iframe',mainClass:'ytc-mfp-lightbox',removalDelay:160,preloader:false,fixedContentPos:false});}jQuery(window).on('load',function(){ytc_init_MPAU();});jQuery(document).ajaxComplete(function(){ytc_init_MPAU();});</script><script type="text/javascript" src="http://icanbuildablog.com/wp-includes/js/comment-reply.min.js?ver=4.3.1"></script>
+        <script type="text/javascript" src="//s.skimresources.com/js/88670X1542076.skimlinks.js"></script>
+<!-- YouTube Channel 3 --><script type="text/javascript">function ytc_init_MPAU() {jQuery('.ytc-lightbox').magnificPopupAU({disableOn:320,type:'iframe',mainClass:'ytc-mfp-lightbox',removalDelay:160,preloader:false,fixedContentPos:false});}jQuery(window).on('load',function(){ytc_init_MPAU();});jQuery(document).ajaxComplete(function(){ytc_init_MPAU();});</script><link rel="stylesheet" id="wc-product-slider-styles-css" href="http://icanbuildablog.com/wp-content/plugins/woo-widget-product-slideshow/assets/css/wc-product-slider.min.css?ver=1.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="wc_widget_product_slider_lite-css" href="//icanbuildablog.com/wp-content/uploads/sass/wc_widget_product_slider_lite.min.css?ver=1461635738" type="text/css" media="all">
+<script type="text/javascript" src="http://icanbuildablog.com/wp-includes/js/comment-reply.min.js?ver=4.4.3"></script>
 <script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/icanbuildablog.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/icanbuildablog.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//icanbuildablog.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.4.10"></script>
+<script type="text/javascript" src="//icanbuildablog.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.5.5"></script>
 <script type="text/javascript" src="//icanbuildablog.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//icanbuildablog.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.4.10"></script>
-<script type="text/javascript" src="//icanbuildablog.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="//icanbuildablog.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.5.5"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/popup-maker/assets/js/jquery.cookie.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//icanbuildablog.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.4.10"></script>
-<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/jquery.magnific-popup.min.js?ver=3.0.8.9"></script>
-<script type="text/javascript" src="http://icanbuildablog.com/wp-content/themes/icbab-theme/js/jquery.mfp-lightbox.js?ver=4.3.1"></script>
-<script type="text/javascript" src="http://icanbuildablog.com/wp-content/themes/icbab-theme/js/bunyad-theme.js?ver=4.3.1"></script>
-<script type="text/javascript" src="http://icanbuildablog.com/wp-content/themes/icbab-theme/js/jquery.slick.js?ver=4.3.1"></script>
+<script type="text/javascript" src="//icanbuildablog.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.5.5"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/jquery.magnific-popup.min.js?ver=3.0.9"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/themes/icbab-theme/js/jquery.mfp-lightbox.js?ver=4.4.3"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/themes/icbab-theme/js/bunyad-theme.js?ver=4.4.3"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/themes/icbab-theme/js/jquery.slick.js?ver=4.4.3"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-includes/js/wp-embed.min.js?ver=4.4.3"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/woo-widget-product-slideshow/assets/js/imagesloaded.pkgd.min.js?ver=3.1.8"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/woo-widget-product-slideshow/assets/js/jquery.cycle2.min.js?ver=2.1.2"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/woo-widget-product-slideshow/assets/js/cycle2-extensions/jquery.cycle2.center.min.js?ver=2.1.2"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/woo-widget-product-slideshow/assets/js/cycle2-extensions/jquery.cycle2.caption2.min.js?ver=2.1.2"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/woo-widget-product-slideshow/assets/js/cycle2-extensions/jquery.cycle2.scrollVert.min.js?ver=2.1.2"></script>
 <script type="text/javascript" src="http://icanbuildablog.com/wp-includes/js/underscore.min.js?ver=1.6.0"></script>
 <script type="text/javascript" src="http://icanbuildablog.com/wp-includes/js/backbone.min.js?ver=1.1.2"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/woo-widget-product-slideshow/assets/js/backbone/backbone.localStorage.js?ver=1.1.9"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/woo-widget-product-slideshow/assets/js/backbone/product_sliders_app.js?ver=1.3.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_product_slider_vars = {"legacy_api_url":"\/\/icanbuildablog.com\/wc-api\/wc_product_slider_legacy_api\/","slider_lang":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/woo-widget-product-slideshow/assets/js/backbone/product_slider.backbone.js?ver=1.3.1"></script>
+<script type="text/javascript" src="http://icanbuildablog.com/wp-content/plugins/woo-widget-product-slideshow/assets/js/wc-product-slider-script.js?ver=1.3.1"></script>
     	<script type="text/javascript">
 		(function($) {
 		$(function(){
@@ -706,8 +790,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax
     
 
 
-<!-- Dynamic page generated in 0.698 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2015-12-06 19:34:00 -->
+<!-- Dynamic page generated in 1.330 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-06-05 19:24:27 -->
 
-<!-- Compression = gzip -->
-<!-- super cache --></body></html>
+<!-- Compression = gzip --></body></html>
