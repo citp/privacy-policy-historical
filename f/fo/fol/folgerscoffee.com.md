@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the folgerscoffee.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228063822id_/http%3A//www.folgerscoffee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folgerscoffee.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606184829id_/http%3A//folgerscoffee.com/privacy-policy) for the most accurate reproduction.*
 
 # Folgers Coffee - Privacy Statement
 
