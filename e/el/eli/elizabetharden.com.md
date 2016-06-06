@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elizabetharden.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226154124id_/http%3A//www.elizabetharden.com/Privacy-Policy/privacy-and-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elizabetharden.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606081530id_/http%3A//www.elizabetharden.com/Privacy-Policy/privacy-and-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Elizabeth Arden Official Site Privacy Policy
 
