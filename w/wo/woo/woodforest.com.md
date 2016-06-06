@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodforest.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206213203id_/http%3A//www.woodforest.com/About-Us/Privacy--Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodforest.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606113459id_/http%3A//www.woodforest.com/About-Us/Privacy--Security) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -8,16 +8,16 @@ Below are links to several important documents that you should review prior to u
 
 Please feel free to [contact us](https://web.archive.org/About-Us/Contact-Us) if you have any additional questions or concerns.
 
-  * [Your Privacy Rights](https://web.archive.org/Renderers/ShowMedia.ashx?id=9e70dd49-568c-4400-b5fd-08775476920e)
-  * [Woodforest Security Center](https://web.archive.org/About-Us/Privacy--Security/Security-Center)
+  *  **[Your Privacy Rights](http://www.woodforest.com/uploadedFiles/AccountDisclosures/Privacy-WNB.pdf)**
+  *  **[Woodforest Security Center](https://web.archive.org/About-Us/Privacy--Security/Security-Center)**
 
 
 
-## Bank Safely Online!
+##  **Bank Safely Online!**
 
 Internet banking security is a top priority at Woodforest. We utilize state of the art security to protect your information. We encourage you to remain aware of the potential for online fraud and to be prepared to react to any suspicious activity that puts your security at risk. We are providing you with the following information to help you protect yourself and keep your online banking information safe.
 
-## Online Fraud
+##  **Online Fraud**
 
 The most common type of online fraud involves fraudulent emails sent to random email addresses for the purpose of stealing personal account and financial information, including online banking logon details. This practice is known as "phishing" or "spoofing".
 
@@ -27,13 +27,13 @@ These emails appear to be legitimate and try to entice you to disclose private i
 
 It's important to note that a phishing attack does not involve a breach of Woodforest security. Phishing criminals rely on unsuspecting customers to reveal their personal account and financial information through fraudulent sources outside of Woodforest's secure online banking system
 
-## Protect Yourself
+##  **Protect Yourself**
 
 Woodforest recommends the following to protect you from online fraud.
 
   * Never respond to an email asking you to provide personal account or login information. REMEMBER: Woodforest will NEVER send you an email asking you to provide personal account or login information, including debit or credit card information, user ID or password
   * Do not use URL links in an email to access a financial institution Web page.
-  * Always log into Woodforest Online Banking Services directly by typing www.woodforest.com into your address bar, or by bookmarking our site in your Favorites.
+  * Always log into Woodforest Online Banking Services directly by typing **www.woodforest.com** into your address bar, or by bookmarking our site in your Favorites.
   * Only communicate personal information, such as account information, through our secure messaging feature on our website, or through a phone call you initiate.
   * Ensure your computer is protected by up-to-date antivirus software.
   * Use a personal firewall.
@@ -49,32 +49,32 @@ Woodforest recommends the following to protect you from online fraud.
 
 
 
-[Click here for more online security tips!](https://web.archive.org/About-Us/Privacy--Security/Security-Center)
+ **[Click here for more online security tips!](https://web.archive.org/About-Us/Privacy--Security/Security-Center)**
 
-## Reporting Fraud
+##  **Reporting Fraud**
 
-If you **responded** to a fraudulent email, contact Woodforest Customer Care at **1-877-968-7962** or [visit your local branch](https://web.archive.org/WFNB/Locations) immediately.
+If you **responded** to a fraudulent email, contact Woodforest Customer Care at **1-877-968-7962** or [visit your local branch](https://web.archive.org/About-Us/Contact-Us/Locations) immediately.
 
 If you receive an email that says it's from Woodforest, but you suspect it might be a phishing email, forward the entire original email including the original header information to [reportphishing@woodforest.com](mailto:reportphishing@woodforest.com) .
 
 If you receive a fraudulent "phishing" email, forward the entire original email including the original header information to:
 
-  * Federal Trade Commission at [uce@ftc.gov](mailto:uce@ftc.gov) or [spam@uce.gov](mailto:spam@uce.gov)
-  * [reportphishing@antiphishing.org](mailto:reportphishing@antiphishing.org)
-  * [reportphishing@woodforest.com](mailto:reportphishing@woodforest.com)
+  * Federal Trade Commission at **[uce@ftc.gov](mailto:uce@ftc.gov)** or **[spam@uce.gov](mailto:spam@uce.gov)**
+  *  **[reportphishing@antiphishing.org](mailto:reportphishing@antiphishing.org)**
+  *  **[reportphishing@woodforest.com](mailto:reportphishing@woodforest.com)**
 
 
 
 If you suspect your personal information has been compromised, contact any of the following three major credit bureaus to place a fraud alert on your credit file:
 
-  * Equifax at www.equifax.com  
+  * Equifax at **www.equifax.com**  
 800-525-6285
-  * Experian at www.experian.com  
+  * Experian at **www.experian.com**  
 888-397-3742
-  * TransUnion at www.transunion.com  
+  * TransUnion at **www.transunion.com**  
 800-680-7289
   * For more information regarding phishing schemes or identity theft visit:   
-www.ftc.gov  
-www.antiphishing.org
+**www.ftc.gov**  
+ **www.antiphishing.org**
 
 
