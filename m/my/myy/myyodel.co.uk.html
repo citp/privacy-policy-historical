@@ -1,201 +1,316 @@
-<!--The following is the downloaded HTML source of the myyodel.co.uk privacy policy that was archived on 2015-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150508081117id_/http%3A//www.myyodel.co.uk/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myyodel.co.uk privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606065729id_/http%3A//www.yodel.co.uk/privacy-and-cookies) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><!--[if lt IE 9]> <script src="/assets/libs/html5shiv-printshiv-d4de98afe286e72afdee57b2c16ebdfd.js"></script> <![endif]--><head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"transactionName":"cwxcEkYJX1oEFBleD1YMHRZGD0VXAh9pRw5cClEf","applicationID":"1453123","beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"fd1042dce9","agent":"js-agent.newrelic.com/nr-632.min.js","agentToken":null,"applicationTime":18,"queueTime":0}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcEWFVACQcFV1BQBA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
-  <link rel="dns-prefetch" href="//ajax.googleapis.com">
-  <meta http-equiv="imagetoolbar" content="false">
+<!DOCTYPE html><html lang="en" class="ie9-or-better ie10-or-better js" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36"><!--<![endif]--><head>
+    <title>Privacy and Cookies | Privacy &amp; Cookies Policy | Yodel</title>
+    <meta name="description" content="If you want more information on Yodel's Privacy and Cookies policy, take a look here and contact us if you have any queries">
+    <meta name="keywords" content="">
+    <meta charset="utf-8">
+<meta name="robots" content="index,follow">
+<meta name="google-site-verification" content="">
+<meta name="viewport" content="initial-scale=1, width=device-width">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 
-  <title>MyYodel</title>
-  <meta name="description" content="Track your Yodel parcel and reschedule a delivery">
-  <meta name="author" content="Yodel">
-  <meta name="keywords" content=" track, tracking, track and trace, delivery, deliver, delivery network, home delivery, sending, receiving, parcel, package, rescheduling a parcel, questions about tracking, collecting a parcel">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="robots" content="index, nofollow">
-  <link rel="shortcut icon" href="/assets/favicon.ico">
-  <link rel="apple-touch-icon" href="/assets/yodel-iphone-no-retina.png">
-  <meta name="msapplication-config" content="none">
+<link rel="apple-touch-icon" sizes="57x57" href="/yodelAssets/img/icon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/yodelAssets/img/icon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/yodelAssets/img/icon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/yodelAssets/img/icon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/yodelAssets/img/icon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/yodelAssets/img/icon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/yodelAssets/img/icon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/yodelAssets/img/icon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/yodelAssets/img/icon/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/yodelAssets/img/icon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/yodelAssets/img/icon/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/yodelAssets/img/icon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/yodelAssets/img/icon/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/yodelAssets/img/icon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/yodelAssets/img/icon/manifest.json">
+<meta name="msapplication-TileColor" content="#99cc00">
+<meta name="msapplication-TileImage" content="/yodelAssets/img/icon/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
 
-  <link href="/assets/application-00cf40618bedb0662f0920c96cd75c0a.css" media="screen" rel="stylesheet" type="text/css">
-  <meta content="authenticity_token" name="csrf-param">
-<meta content="nrqU3o3pyJu7IO03lyBDDMKHOR9hnassN/kRJadVU8k=" name="csrf-token">
-</head>
-
-  <body>
-		
-    <div id="page">
-      <div class="container_24">
-        <div class="grid_24 alpha omega">
-
-  <div class="grid_12 alpha">
-    <div class="breadcrumb">
-      <p>You are here:</p>
-      <ul>
-        <li class="first"><a href="/" class="nav_ok">Home</a></li>
-          <li>Privacy Policy</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="grid_12 omega align-right">
-    <nav class="global">
-      <ul>
-        <li class="first yodel"><a href="http://www.yodel.co.uk" class="png_bg" target="_blank">YODEL</a></li>
-        <li class="help"><a href="/help" class="png_bg" target="_blank">HELP</a></li>
-      </ul>
-    </nav>
-  </div>
-
-</div>
-
-        <div id="logo-wrapper" class="grid_24 alpha omega png_bg ">
-        <div class="grid_24 alpha omega header">
-          <div class="grid_4 alpha omega yodel_logo">
-            <a href="http://www.yodel.co.uk" target="_blank"><img alt="Yodel" height="41" src="/assets/yodel_logo-496c6e4d2e9fe1d62a04a9f6c3db603f.png" width="154"></a>
-          </div>
-          <div class="grid_20 alpha yodel_direct_logo">
-            <a href="http://www.yodeldirect.co.uk" target="_blank"><img alt="Yodel Direct" height="73" src="/assets/banner/homepagebanner_01-6bc8e96d16d0d9decce321288c86f47b.png" width="760"></a>
-          </div>
-        </div>
-          <div id="content-container" class="grid_24 alpha omega png_bg">
-            <div class="grid_24 alpha omega">
-                <div class="grid_24 alpha omega">
-                  <div id="info-side-bar" class="grid_6 alpha omega">
-  <img alt="Folders" class="png_bg" src="/assets/folders-78edcc37958496cd5f758c5a8159a29b.png">
-</div>
-<div id="information" class="grid_18 alpha omega">
-  <h1 class="privacy-policy ir png_bg">Privacy Policy</h1>
-
-<h3>WHO WE ARE</h3>
-
-<p>
-  Yodel is a trading name of Yodel Delivery Network Limited and its associated companies including Parcelpoint Limited, HDN(NI) Limited and Yodel Transport Limited.
-</p>
-
-<p>
-  In this privacy policy "we, our, us, Yodel" refers to Yodel Delivery Network Ltd or its associated companies.
-  References to "our Website" or "the Website" are to <a href="http://www.myyodel.co.uk">www.myyodel.co.uk</a>.
-</p>
-
-<h3>WHAT INFORMATION WE COLLECT AND HOW</h3>
-
-<p>
-  The information we collect via the Website may include:
-  </p><ul>
-    <li>Any personal details you provide to us, such as name, address, telephone number, email address etc.</li>
-    <li>
-      Debit or credit card information. In order to effectively process credit or debit card transactions it may be
-      necessary for the bank or card-processing agency to verify your personal details for authorisation outside the European
-      Economic Area (EEA). Such information will not be transferred out of the EEA for any other purpose. Appropriate
-      security measures will be employed to protect your data where this is the case.
-    </li>
-    <li>
-      Your IP Address. This is a string of numbers unique to your computer that is recorded by our web server when you
-      request any page or component on the Website. This information is used to monitor your usage of the Website.
-    </li>
-    <li>
-      Data recorded by the Website, which allows us to recognise you and your preferred settings. This saves you from
-      re-entering information on return visits to the Website. Such data is recorded locally on your computer through the use
-      of cookies. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this
-      may be found in your browsers ‘help’ facility. Please note that if you do reject cookies it may affect your use of our Website.
-    </li>
-  </ul>
-<p></p>
-
-<h3>WHAT WE DO WITH YOUR INFORMATION</h3>
-
-<p>
-  Any personal information we collect from this website will be used in accordance with the Data Protection Act 1998 and
-  other applicable laws. The details we collect will be used:
-  </p><ul>
-    <li>
-      To process your order and to provide after sales service. We may need to pass the information we collect to other
-      companies or organisations to supply/deliver products you have purchased and/or to provide after-sales service or for
-      administrative purposes. We may use third parties to carry out certain activities, including but not limited to processing
-      and sorting data, monitoring how customers use the Website and issuing our e-mails for us. Third parties will not be allowed
-      to use your personal information for their own purposes.
-    </li>
-    <li>
-      To offer you additional products and services with your consent. In certain cases we may use your email address, home
-      address, telephone number and mobile telephone number to send you information on our other products and services. In such
-      a case you will be offered the option to opt in/out before completing your purchase.
-    </li>
-    <li>
-      To disclose information about you to any relevant regulator if they require it or to anyone else if there is a legal duty to do so.
-    </li>
-  </ul>
-<p></p>
-
-<h3>YOUR RIGHTS</h3>
-
-<p>
-  You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of £10 to cover administration expenses to the following address: Head of Information Security, Yodel, Atlantic Pavilion, Liverpool, L3 4AE
-</p>
-
-<h3>OTHER WEBSITES</h3>
-
-<p>
-  This privacy policy only covers this website. Any other websites which may be linked to by our website
-  are subject to their own policy, which may differ from ours.
-</p>
-
-</div>
-                </div>
-            </div>
-          </div>
-          <div id="nav_away_popup">
-  <h3>Going elsewhere?</h3>
-  <hr>
-  <p>
-    Are you sure you want to navigate away? Doing this will result in any information entered not being saved.
-  </p>
-  <div class="float-right">
-    <a href="Javascript:;" class="nav_away_no no-btn png_bg">No</a>
-    <a href="#" class="nav_away_yes yes-btn png_bg">Yes</a>
-  </div>
-</div>
-          <div class="grid_24 alpha omega">
-  <footer class="png_bg footer">
-    <nav class="horizontal">
-      <ul>
-        <li><a href="/" class="nav_ok">Home</a></li>
-        <li><a href="/terms_and_conditions" target="_blank">Terms &amp; Conditions</a></li>
-        <li><a href="/privacy_policy" target="_blank">Privacy Policy</a></li>
-        <li><a href="/cookie_policy" target="_blank">Cookie Policy</a></li>
-      </ul>
-    </nav>
-    <p>
-      © 2015 Yodel Delivery Network Limited. Registered Number: 05200072. Registered Address: Second Floor, Atlantic Pavilion, Albert Dock, Liverpool, Merseyside, L3 4AE.
-    </p>
-  </footer>
-</div>
+<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6676374/782508/css/fonts.css">
 
 
-        </div>
-        <script src="/assets/application-a70f3c471aa74e99ed08d07df4d4b27b.js" type="text/javascript"></script><style type="text/css">input.styled { -moz-opacity:0; filter:alpha(opacity:0); opacity:0; position:absolute; z-index: 5;} select.styled { position: relative; width: 190px; opacity: 0; filter: alpha(opacity=0);  } .disabled { opacity: 0.5; filter: alpha(opacity=50); z-index: 5; }</style>
+<!--[if gte IE 9]><!-->
+<link href="/bundles/screen.css?v=gF_wwJmLG6xS_LQXgyDd_PWJ65MCdsu2M49If5bNB1E1" rel="stylesheet">
 
+<!--<![endif]-->
+<link href="/bundles/print.css?v=luQX_1RXB3fRtXT3DfX4Agw5hYy3JfnAw0hR7dEytY01" rel="stylesheet" type="text/css" media="print">
 
+<!--[if lt IE 9]>
+    <link href="/bundles/ie.css?v=gE3XOj_kabbt1RvfaP8WUrUz500LuNfgR-ruy5Fl87A1" rel="stylesheet"/>
 
-<!--[if lt IE 7 ]>
-  <script src="/assets/libs/dd_belatedpng-001c3c3fa8047ac44ddb8849f4b85516.js" type="text/javascript"></script>
-  <script>DD_belatedPNG.fix('img, .png_bg');</script>
+    <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!--[if lte IE 9]>
+    <script src="/bundles/placeholder.js"></script>
+
 <![endif]-->
 
-<!--[if IE 7 ]><script src="/assets/libs/curvycorners-14adb8bd71246fa7cd171ed796241586.js" type="text/javascript"></script><![endif]-->
-<!--[if IE 8 ]><script src="/assets/libs/curvycorners-14adb8bd71246fa7cd171ed796241586.js" type="text/javascript"></script><![endif]-->
-
-<script>
-  var _gaq=[['_setAccount','UA-22806666-4'],['_trackPageview']]; // Change UA-XXXXX-X to be your site's ID
-  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
-    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-    s.parentNode.insertBefore(g,s)}(document,'script'));
+<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K8QZB4"></script><script>
+    cookieUrl = "/privacy-and-cookies/";
 </script>
 
-      </div>
+<script src="/bundles/le-mtagconfig.js?v=iM-TjTt81Wjn_33dCnK9mu453Njsy9B8zwV3kr9SHZY1"></script>
+<script type="text/javascript" charset="iso-8859-1" src="https://server.lon.liveperson.net/hcp/html/mTag.js?site=656956"></script></head>
+<body class="homepage">
+    
+    
+<!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8QZB4"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-K8QZB4');</script>
+<!-- End Google Tag Manager -->
+
+
+    <header class="navbar">
+    <div class="wrap">
+        <a href="/" class="logo"><svg xmlns="http://www.w3.org/2000/svg" width="92" height="25" version="1.1" x="0" y="0" viewBox="0 0 112.2 30" enable-background="new 0 0 112.2 30" xml:space="preserve" class="injected-svg"><path fill="#99CC00" d="M8.5 18.9L0 0.8h7.9l4.2 11.4 4.3-11.4h7.8l-8.4 18.1v10.3H8.5V18.9zM52.2 0.8h9.4c3.2 0 8.9 0 12.6 5.3 2 2.7 2.6 5.7 2.6 8.8 0 7.8-3.8 14.3-14.6 14.3h-9.9V0.8zM59.4 22.8h3.1c5.4 0 7-3.8 7-7.8 0-1.6-0.3-3.6-1.4-5.3 -0.8-1.3-2.3-2.6-5.5-2.6h-3.1V22.8zM78.5 0.8h16.1v6.4h-8.8v4.4h8.6V18h-8.6v4.9h8.8v6.4H78.5V0.8zM96.6 0.8h7.3v22h8.4v6.4H96.6V0.8zM20.9 15c0-8.3 6.7-15 15-15 8.3 0 15 6.7 15 15s-6.7 15-15 15C27.6 30 20.9 23.3 20.9 15zM35.9 23.5c4.7 0 8.5-3.8 8.5-8.5 0-4.7-3.8-8.5-8.5-8.5 -4.7 0-8.5 3.8-8.5 8.5C27.4 19.7 31.2 23.5 35.9 23.5z"></path></svg></a>
+
+        <button class="site-search__trigger"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" width="26" height="26" x="0px" y="0px" viewBox="7.2 246.2 30 30" enable-background="new 7.2 246.2 30 30" xml:space="preserve" class="injected-svg">
+  <g id="magnifier-2-icon">
+    <path fill="#A3A3A3" stroke="#A3A3A3" stroke-width="2.5" stroke-miterlimit="10" d="M26.2 267.1l7.4 7.4 1.8-1.8 -7.4-7.3 0.4-0.5c1.4-1.9 2.1-4.1 2.1-6.4 0-6-4.9-10.9-11-10.9 -6.1 0-11 4.9-11 10.9 0 6 4.9 10.9 11 10.9 2.2 0 4.4-0.7 6.2-1.9L26.2 267.1zM19.5 267.3c-5 0-9-4-9-8.9 0-4.9 4-8.9 9-8.9 5 0 9 4 9 8.9C28.5 263.3 24.5 267.3 19.5 267.3z"></path>
+  </g>
+</svg></button>
+<form class="site-search" action="/search-results/" method="get">
+    <div class="site-search__field">
+        <label for="sitesearch">Search site</label>
+        <input id="sitesearch" type="search" name="query" placeholder="Search..." maxlength="50">
     </div>
-  
+    <button type="submit" class="site-search__submit"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" width="26" height="26" x="0px" y="0px" viewBox="7.2 246.2 30 30" enable-background="new 7.2 246.2 30 30" xml:space="preserve" class="injected-svg">
+  <g id="magnifier-2-icon">
+    <path fill="#A3A3A3" stroke="#A3A3A3" stroke-width="2.5" stroke-miterlimit="10" d="M26.2 267.1l7.4 7.4 1.8-1.8 -7.4-7.3 0.4-0.5c1.4-1.9 2.1-4.1 2.1-6.4 0-6-4.9-10.9-11-10.9 -6.1 0-11 4.9-11 10.9 0 6 4.9 10.9 11 10.9 2.2 0 4.4-0.7 6.2-1.9L26.2 267.1zM19.5 267.3c-5 0-9-4-9-8.9 0-4.9 4-8.9 9-8.9 5 0 9 4 9 8.9C28.5 263.3 24.5 267.3 19.5 267.3z"></path>
+  </g>
+</svg></button>
+</form>
+
+        <div class="oc-menu">
+            <button class="hamburger"><span>Menu</span></button>
+            <ul class="nav__links bare-list">
+                            <li><a href="/track/">Track</a></li>
+                            <li><a href="/send/">Send</a></li>
+                            <li><a href="/your-business/">Your Business</a></li>
+                            <li><a href="/news/">News</a></li>
+                            <li><a href="/help/">Help</a></li>
+                            <li><a href="http://yodelcareers.co.uk/" target="_blank">Careers</a></li>
+
+                <li class="nav__clientzone"><a href="/client-zone">Client zone</a></li>
+            </ul>
+        </div>
+
+    </div>
+        <a href="/client-zone" class="client-area">
+            <span class="client-area__icon"></span>
+            Client
+            <span class="zone">zone</span>
+        </a>
+</header>
+
+    
+<div class="alerts">
+
+</div>
+
+    
+
+<section class="masthead masthead--reduced" style="background-image: url('/media/1016/hero-business.jpg')">
+    <div class="masthead__bg">
+    </div>
+
+    <div class="masthead__content type--white">
+        <h1 class="masthead__title masthead__title--reduced">Privacy &amp; Cookies</h1>
+        <p>Safeguarding your privacy when you visit our websites or communicate electronically with us</p>
+    </div>
+
+</section>
+
+
+<section class="has-infinipanel">
+    <div class="wrap">
+        <div class="pagebody bg--white">
+            <div class="breadcrumbs">
+                <div class="trail">
+                            <a href="/">Yodel Home | Yodel Parcel Delivery Courier</a><span>/</span>
+    <a href="">Privacy and Cookies | Privacy &amp; Cookies Policy</a>
+
+                </div>
+            </div>
+            <div class="pagebody__columns pagebody__columns--reverse cfx">
+                <div class="pagebody__content">
+
+                    <article class="post">
+                        <h3>Purpose &amp; Definition</h3>
+                        <div class="post__content">
+                                <div class="post__intro">
+                                    <p></p><p><strong>This policy explains how Yodel complies with laws when collecting information from you when you visit our websites. Such information can include Personal Data <strong> provided by you</strong> protected by the Data Protection Act, and include anonymous information such as browsing history collected by us.</strong></p><p></p>
+                                </div>
+                            <hr>
+<h4>How We the Use Information We Collect: Electronic Information</h4>
+<p>The information that we collect and store relating to your computer is primarily used to enable us to provide our services to you. When you visit our website we collect anonymous information in a way which cannot, does not, and will not identify anyone:</p>
+<p>a) As for many other websites, by clicking on any links when browsing Yodel websites you consent to some information being collected.<br>b) We do not collect or reveal information about you to any party. However, we may, on occasion, provide them with aggregate statistical information about our visitors.<br>c) This information records data such as the type of web browser and operating system used, pages visited, time and date of user visits, traffic data, location data, weblogs, and other electronic communication.<br>d) We also use the information collected by cookies to improve our website and customer service, whether hosted by Yodel or a third party.<br>e) We use Cookies placed on our website either by a third party or hosted by Yodel.</p>
+<p>We cannot identify any specific individual using this electronic information, and will not corroborate any data gathered with any other personally identifying information from any source.</p>
+<h4>Cookie Policy</h4>
+<p>Cookies are small files downloaded to a device when websites are accessed. Cookies are used to store statistical information about users between sessions.</p>
+<p>Mostly, cookies complete convenient tasks such as populating forms, keeping track of username so that users do not have to log into a website every time it is visited, and storing usage preferences.</p>
+<p>Where used, these cookies are downloaded automatically, and stored on your computer.</p>
+<p>Cookies are widely used to make websites work efficiently and to provide service information to the owners of the site.</p>
+<h4>Cookies &amp; How We Use Them</h4>
+<p>On occasion, Yodel may gather information about users’ computers to improve our services, and to provide statistical information relating the use of our website for advertisers.</p>
+<p>Yodel may also gather information about general internet use by using a cookie file, and show relevant advertisements on sites on the internet, including those generated by prior visits.</p>
+<h4>Cookie Management &amp; Security</h4>
+<p>a) Refusing Cookies<br>UK websites must gain permission to enable cookies, and all computers can be set by the user to decline cookies by changing browser settings. <br>i. However, cookies are now in common use, and blocking or refusing them often impracticable:<br>ii. Refusing cookies could affect your web experience and result in some or all parts of websites not functioning properly, instead when using websites with cookies, take the following precautions.<br>b) Security Precautions<br>Cookies capture browsing habits, and because of this, could help some criminals target users with fraudulent activities. Users should take the following precautions:<br>i. Set browsers to warn when a cookie is installed: some sites will not work if cookies are blocked.<br>ii. Some browsers allow users to can enable, disable and delete cookies. <br>iii. Use an anti-spyware program that scans for so-called tracker cookies.<br>iv. There are also cookie management programs that manage cookies. <br>The following organisations provide comprehensive guidance on Cookie management:<br>• <a href="http://www.networkadvertising.org/" target="_blank" title="network advertising">http://www.networkadvertising.org/</a> allow users to opt of Third Party Cookies;<br>• <a href="https://www.getsafeonline.org/" target="_blank" title="get safe online">https://www.getsafeonline.org/</a> provides comprehensive guidance on internet security including Cookie settings;</p>
+<h4>How We Use the Data You Provide: Personal Data</h4>
+<p>The data you provide and we store relating to you is primarily used to enable us to provide our services to you, and protected by the Data Protection Act. <br>a) We do not collect any personal data through our website unless it is provided voluntarily; for example by filling in forms when registering for information or making a purchase.<br>b) We will always be clear about why we need the details we ask you to provide, and ensure your personal information is kept as secure as possible.<br>c) When you provide information when you communicate with us for any reason and by any means, you consent to relevant information being collected by us so that we can communicate with you.<br>Yodel can only collect and store the personal data you specifically provide to us. We have no right or ability to collect any data beyond what you submit to us.</p>
+<h4>Data Protection Policy &amp; Data Privacy</h4>
+<p>Under the 1998 Data Protection Act, Yodel takes our legal duty to protect any data you provide us very seriously. The act sets out eight principles by which we are legally bound when managing personal data:<br>Principle 1: Fair &amp; Lawful Use<br>Yodel will manage personal data within the law, and inform you with whom we can share your data: We may disclose your personal information to any member of our group of companies and subsidiaries, and third parties where we sell any or all of our business and/or our assets to them.<br>• We are required to share data where Yodel is legally obliged to so (e.g. the Police and HMRC).<br>Principle 2: Specific &amp; Lawful Purpose<br>Yodel will only ask for data or collect information to fulfil our lawful contractual commitments to you. <br>Principle 3: Adequate &amp; Relevant<br>Yodel will not collect excessive or irrelevant data about you. <br>Principle 4: Accurate &amp; Current<br>Yodel will ensure that the data collected from you remains accurate and up to date. <br>Principle 5: Necessary Retention<br>Yodel will not retain your personal data longer than necessary. <br>Principle 6: Access Rights to Your Data<br>For a statutory £10 fee, you have the right to copies of their data we hold. Known as a Subject Access, please address these and any other queries concerning data protection to:<br><a href="https://mail.yodel.co.uk/owa/redir.aspx?SURL=z4qcUiiDqh_LgPsuwiOZEpK1KFqpAzMXV8vdZp2aISoHHeUBizzTCG0AYQBpAGwAdABvADoAZABhAHQAYQAuAHAAcgBvAHQAZQBjAHQAaQBvAG4AQAB5AG8AZABlAGwALgBjAG8ALgB1AGsA&amp;URL=mailto%3adata.protection%40yodel.co.uk" target="_blank">data.protection@yodel.co.uk</a><br>or:<br>Information Protection, 3rd Floor, Atlantic Pavilion, Albert Dock, Liverpool, L3 4AE<br>Principle 7: Information Security &amp; IT<br>Yodel implements appropriate technical security measures to prevent unauthorised or unlawful processing, accidental loss or destruction and/ or damage to personal data.<br>Principle 8: Sending Data outside the UK &amp; Europe<br>Yodel can transfer your data outside the European Economic Area (EEA) where we can prove that protections in the country to where the data is transferred are equivalent to those within the UK/EEA.</p>
+<h4>Links to other Websites: Privacy &amp; Cookies</h4>
+<p>a) Third Party Cookies &amp; Links to Other Websites<br>You will see links to other sites, for example, all orders placed on YodelDirect are processed by Parcel2Go.com Limited on our behalf. <br>i. However, once these links are used to leave our sites, we have no control over any other websites; Yodel is not responsible for the protection and privacy of any information provided by users whilst visiting these sites.<br>ii. Our advertisers may also use cookies, over which we have no control. Such cookies (if used) are downloaded once you click on advertisements on our website.<br>Exercise caution and look at the relevant Cookie statement applicable to any other websites.<br>b) eBay Users<br>Once registered on our site you can access your eBay account to download shipping information and delivery details; you would have given permission for this at sign up, confirming this on the eBay pages you were taken to during this process.<br>Rest assured we cannot access your eBay account, do not need and do not know your eBay password.<br>• Your Yodel password and eBay password should be different: it is a good idea to always have different passwords for different sites. <br>Changing your Yodel or eBay password after registering with us will not affect your ability to download shipping information.</p>
+<h4>Consent &amp; ‘Opting Out’ of Data Sharing</h4>
+<p>If you do not want us to use your data, or let a third party have your data, you can withhold your consent when populating the form we use to collect data:<br>a) For new customers, we will only contact you or allow third parties to contact you when you have provided consent and only by those means you consent to.<br>b) For existing customers, we may contact you with information about goods and services similar to previous purchases you made by you.</p>
+<h4>How You Can Protect Your Data &amp; Information On-line</h4>
+<p>Yodel takes all reasonable measures to ensure that the personal data you provide, and the information we collect is managed securely. However, we cannot guarantee total security of data transmitted via the internet or sent to us by other means:<br>• Transmission of data is entirely at the your risk but there is a lot you can do to keep personal information safe whenever you are online; <a href="https://www.getsafeonline.org/" target="_blank" title="Get safe online">https://www.getsafeonline.org/</a> gives comprehensive guidance on how to improve on-line security,</p>
+<h4>Policy Review</h4>
+<p>This policy is regularly reviewed or when legislation, practice, risk or change triggers review.</p>
+<h4>Contact Us</h4>
+<p>We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at&nbsp;<a href="https://mail.yodel.co.uk/owa/redir.aspx?SURL=z4qcUiiDqh_LgPsuwiOZEpK1KFqpAzMXV8vdZp2aISoHHeUBizzTCG0AYQBpAGwAdABvADoAZABhAHQAYQAuAHAAcgBvAHQAZQBjAHQAaQBvAG4AQAB5AG8AZABlAGwALgBjAG8ALgB1AGsA&amp;URL=mailto%3adata.protection%40yodel.co.uk" target="_blank">data.protection@yodel.co.uk</a></p>
+                        </div>
+                    </article>
+
+                    
+                </div>
+                <div class="pagebody__sidebar">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <footer>
+    <div class="main-footer">
+        <div class="wrap cfx">
+            <div class="footcol">
+                <h5>About Yodel</h5>
+                <ul class="bare-list">
+                                <li><a href="/about/">About us</a></li>
+                                <li><a href="/help/">Help</a></li>
+                                <li><a href="/aviva-tour-of-britain-sponsorship/">Sponsorship</a></li>
+                                <li><a href="/yodel-testimonials/">Testimonials</a></li>
+                                <li><a href="/contact-yodel/">Contact Yodel</a></li>
+                                <li><a href="/news/">News</a></li>
+
+                </ul>
+            </div>
+            <div class="footcol">
+                <h5>Yodel Services </h5>
+                <ul class="bare-list">
+                                <li><a href="/client-zone/">Client Zone</a></li>
+                                <li><a href="/yodel-services/">Yodel Services</a></li>
+                                <li><a href="/yodeldirect-services/">YodelDirect Services</a></li>
+                                <li><a href="/prohibited-and-restricted-items/">Prohibited and restricted Items</a></li>
+                                <li><a href="/packaging-advice/">Packaging Advice</a></li>
+
+                </ul>
+            </div>
+            <div class="footcol">
+                <h5>General</h5>
+                <ul class="bare-list">
+                                <li><a href="/terms-and-conditions/">Terms &amp; conditions</a></li>
+                                <li><a href="/privacy-and-cookies/">Privacy &amp; cookies</a></li>
+                                <li><a href="/accessibility/">Accessibility</a></li>
+
+                </ul>
+            </div>
+            <div class="footcol">
+                <h5>Follow us</h5>
+                    <a href="http://bit.ly/1WlYWDW" class="social-link twitter" target="_blank"><span><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="26" height="22" x="0" y="0" viewBox="0 0 274 223" enable-background="new 0 0 274 223" xml:space="preserve" class="injected-svg"><path fill="#444444" d="M86 223c-31.7 0-61.2-9.3-86-25.2 4.4 0.5 8.9 0.8 13.4 0.8 26.3 0 50.5-9 69.7-24 -24.5-0.5-45.3-16.7-52.4-39 3.4 0.7 6.9 1 10.6 1 5.1 0 10.1-0.7 14.8-2 -25.7-5.2-45-27.8-45-55 0-0.2 0-0.5 0-0.7 7.6 4.2 16.2 6.7 25.4 7 -15-10.1-25-27.2-25-46.7 0-10.3 2.8-19.9 7.6-28.2C46.7 45 88 67.4 134.6 69.7c-1-4.1-1.5-8.4-1.5-12.8 0-31 25.1-56.1 56.1-56.1 16.1 0 30.7 6.8 40.9 17.7C243 16 255 11.4 265.8 4.9 261.6 18 252.8 29 241.2 36c11.3-1.4 22.2-4.4 32.2-8.8 -7.5 11.2-17 21.1-28 29 0.1 2.4 0.2 4.8 0.2 7.3C245.6 137.5 189.1 223 86 223"></path></svg></span></a>
+                                    <a href="http://bit.ly/24hcfbH " class="social-link youtube" target="_blank"><span><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="22" height="30" id="YouTube_logo_assets" x="0" y="0" viewBox="0 0 89.4 114.7" enable-background="new 0 0 89.4 114.7" xml:space="preserve" class="injected-svg">
+  <g id="YouTube_logo_full_color_2_">
+    <path id="lozenge_2_" fill="#444444" d="M88.5 65.6c0 0-0.9-6.1-3.6-8.8 -3.4-3.5-7.2-3.6-9-3.8 -12.5-0.9-31.3-0.9-31.3-0.9h0c0 0-18.8 0-31.3 0.9 -1.7 0.2-5.6 0.2-9 3.8 -2.7 2.7-3.6 8.8-3.6 8.8S0 72.8 0 80v6.8c0 7.2 0.9 14.4 0.9 14.4s0.9 6.1 3.6 8.8c3.4 3.5 7.9 3.4 9.9 3.8 7.2 0.7 30.4 0.9 30.4 0.9s18.8 0 31.3-0.9c1.7-0.2 5.6-0.2 9-3.8 2.7-2.7 3.6-8.8 3.6-8.8s0.9-7.2 0.9-14.4V80C89.4 72.8 88.5 65.6 88.5 65.6z"></path>
+    <path id="u_3_" fill="#444444" d="M70.7 40.4H65v-3.3c-2.2 2.5-4 3.7-6 3.7 -1.7 0-3-0.8-3.6-2.3 -0.4-0.9-0.6-2.3-0.6-4.4v-24h5.7v22.5c0 1.3 0 1.8 0 2.1 0.1 0.8 0.5 1.1 1.2 1.1 1.1 0 2.1-0.9 3.3-2.6V10.2h5.7V40.4z"></path>
+    <path id="o_2_" fill="#444444" d="M50.6 20.1c0-3.2-0.6-5.7-1.8-7.2 -1.5-2.1-3.9-2.9-6.3-2.9 -2.7 0-4.8 0.8-6.3 2.9 -1.2 1.5-1.8 4-1.8 7.2l0 10.8c0 3.2 0.6 5.4 1.7 6.9 1.5 2.1 4 3.2 6.4 3.2 2.4 0 4.9-1.1 6.4-3.2 1.1-1.5 1.7-3.7 1.7-6.9V20.1zM44.9 31.4c0.3 3-0.6 4.5-2.4 4.5 -1.8 0-2.7-1.5-2.4-4.5v-12c-0.3-3 0.6-4.4 2.4-4.4 1.8 0 2.7 1.4 2.4 4.4L44.9 31.4z"></path>
+    <path id="y_2_" fill="#444444" d="M28.2 24v16.5h-6V24c0 0-6.2-20.2-7.5-24H21l4.2 15.8L29.4 0h6.3L28.2 24z"></path>
+    <path class="hollow" id="e_2_" fill="#FFFFFF" d="M81.9 88.7l0-6.1c0-3.2-0.6-5.5-1.8-7 -1.5-2-3.7-3.1-6.4-3.1 -2.8 0-4.9 1.1-6.5 3.1 -1.2 1.5-1.8 4-1.8 7.2v10.5c0 3.2 0.7 5.4 1.9 6.9 1.6 2 3.7 3.1 6.6 3.1 2.8 0 5.1-1.1 6.6-3.2 0.7-1 1.1-2 1.3-3.2 0-0.5 0.2-1.8 0.2-3.5v-0.8h-5.7c0 2.2 0 3.5 0 3.8 -0.3 1.4-1.1 2.2-2.4 2.2 -1.9 0-2.6-1.4-2.6-4.2v-5.4H81.9zM71.1 80.9c0-2.8 0.8-3.6 2.6-3.6 1.8 0 2.5 0.8 2.5 3.6v3.3l-5.1 0V80.9z"></path>
+    <path class="hollow" id="b_2_" fill="#FFFFFF" d="M56.8 72.3c-2 0-4 1.2-5.7 3.4l0-13.1h-5.4v40.1h5.4l0-3c1.8 2.2 3.8 3.4 5.7 3.4 2.2 0 3.7-1.2 4.5-3.4 0.4-1.3 0.6-3.2 0.6-6v-12c0-2.8-0.4-4.8-0.7-6C60.4 73.6 59 72.3 56.8 72.3zM56.2 94.1c0 3-0.7 4.1-2.3 4.1 -0.9 0-1.9-0.5-2.8-1.4l0-18.2c0.9-0.9 1.9-1.4 2.8-1.4 1.6 0 2.3 0.9 2.3 3.9V94.1z"></path>
+    <path class="hollow" id="u_2_" fill="#FFFFFF" d="M41.2 102.8h-5.7v-3.3c-2.2 2.5-4 3.7-6 3.7 -1.7 0-3-0.8-3.6-2.3 -0.4-0.9-0.6-2.3-0.6-4.4V72.8H31V95c0 1.3 0 1.8 0 2.1 0.1 0.8 0.5 1.1 1.2 1.1 1.1 0 2.1-0.9 3.3-2.6V72.8h5.7V102.8z"></path>
+    <polygon class="hollow" id="T_2_" fill="#FFFFFF" points="19.6 102.8 13.6 102.8 13.6 68.3 7.4 68.3 7.4 62.6 26.2 62.6 26.2 68.3 19.6 68.3 "></polygon>
+  </g>
+</svg></span></a>
+                
+                    <a href="http://bit.ly/1UegQZm" class="social-link linkedin" target="_blank"><span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" x="0" y="0" viewBox="-57.6 520.9 170.1 170" xml:space="preserve" class="injected-svg"><path fill="#0077B5" class="st0" d="M112.4 690.9c0 0 0-41.4 0.1-71.6 0-30.4-17.3-45.1-41.3-45.1 -24.1 0-34.2 18.7-34.2 18.7v-15.3H3.3v113.3H37c0 0 0-42 0-59.5 0-15.9 7.4-25.4 21.4-25.4 12.9 0 19.1 9.1 19.1 25.4s0 59.5 0 59.5H112.4z"></path><rect fill="#0077B5" x="-54.2" y="577.6" class="st0" width="35.1" height="113.3"></rect><path fill="#0077B5" class="st0" d="M-36.8 562.7c11.4 0 20.8-9.4 20.8-20.9s-9.3-20.9-20.8-20.9 -20.8 9.4-20.8 20.9S-48.3 562.7-36.8 562.7z"></path></svg></span></a>
+                
+                    <a href="http://bit.ly/24hbTSr" class="social-link instagram" target="_blank"><span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" x="0" y="0" viewBox="151.8 296.1 164.5 164.4" xml:space="preserve" class="injected-svg"><path class="st0" fill="#4F7EA6" d="M316.2 441.5L316.2 441.5l0.1-126.4c0-10.5-8.5-19-19-19H170.8c-10.5 0-19 8.5-19 19v126.4c0 10.5 8.5 19 19 19h126.4C307.7 460.5 316.2 452 316.2 441.5zM265.6 321.4c0-3.5 2.8-6.3 6.3-6.3h19c3.5 0 6.3 2.8 6.3 6.3v19c0 3.5-2.8 6.3-6.3 6.3h-19c-3.5 0-6.3-2.8-6.3-6.3V321.4zM234 346.7c17.4 0 31.6 14.1 31.6 31.6 0 17.4-14.1 31.6-31.6 31.6s-31.6-14.1-31.6-31.6S216.6 346.7 234 346.7zM290.9 441.5H177.1c-3.5 0-6.3-2.8-6.3-6.3v-69.5h14.3c-1.1 4-1.7 8.2-1.7 12.6 0 28 22.7 50.6 50.6 50.6 28 0 50.6-22.7 50.6-50.6 0-4.4-0.6-8.6-1.7-12.6h14.3v69.5C297.2 438.7 294.4 441.5 290.9 441.5z"></path></svg></span></a>
+				                
+                <div class="trustpilot-widget" data-locale="en-GB" data-template-id="5419b732fbfb950b10de65e5" data-businessunit-id="4d596fd100006400050eab79" data-style-align="left" data-style-height="50px" data-style-width="100%" data-theme="dark">
+				    <a href="https://uk.trustpilot.com/review/yodel.co.uk" target="_blank">Trustpilot</a>
+				</div>
+
+            </div>
+        </div>
+    </div>
+    <div class="sub-footer">
+        <div class="wrap cfx">
+            <div class="footcol">
+                <dl class="keyval">
+                    <dt>Registered number: </dt>
+                    <dd>05200072</dd>
+                    <dt>Registered address: </dt>
+                    <dd>Second Floor, Atlantic Pavilion, Albert Dock, Liverpool, Merseyside, L3 4AE</dd>
+                    <dt>VAT number: </dt>
+                    <dd>163769628</dd>
+                </dl>
+            </div>
+            <div class="footcol footcol--copy">© 2016 Yodel Delivery Network Limited</div>
+        </div>
+    </div>
+</footer>
+
+<!--[if lt IE 9]>
+    <script src="/bundles/legacy.js?v=bHZudfaq79tsOEoIDHqvGtrGwxMsJPFzFFaKBHo3y8o1"></script>
+
+    <![endif]-->
+<!--[if gte IE 9]><!-->
+
+<script src="/bundles/main.js?v=XyEBzqKkIutZk_ObsCd5yqcC1t-ZyM-lvFDcfZr3bZ81"></script>
+
+<!--<![endif]-->
+
+<!-- BEGIN LivePerson Button Code. Uncomment this for activation -->
+<!--<script type="text/javascript" charset="UTF-8" src="https://server.lon.liveperson.net/hc/656956/?cmd=mTagRepstate&site=656956&buttonID=1&divID=chat-block&bt=1&c=1"></script>-->
+<!-- END LivePerson Button code -->
+
+<script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.sync.bootstrap.min.js"></script>
+
+    
+<script type="text/javascript">
+piAId = '107122';
+piCId = '1359';
+
+(function() {
+function async_load(){
+var s = document.createElement('script'); s.type = 'text/javascript';
+s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+}
+if(window.attachEvent) { window.attachEvent('onload', async_load); }
+else { window.addEventListener('load', async_load, false); }
+})();</script>
+
+
 
 </body></html>
