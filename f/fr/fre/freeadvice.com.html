@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freeadvice.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207123442id_/http%3A//www.freeadvice.com/company/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeadvice.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606194003id_/http%3A//www.freeadvice.com/company/privacypolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
 
@@ -13,8 +13,8 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 
 <!-- Caching Controls -->
-<meta http-equiv="last-modified" content="Mon, 07 Dec 2015 12:36:10 GMT"> 
-<meta http-equiv="expires" content="Mon, 14 Dec 2015 12:36:10 GMT"> 
+<meta http-equiv="last-modified" content="Mon, 06 Jun 2016 19:40:05 GMT">
+<meta http-equiv="expires" content="Mon, 13 Jun 2016 19:40:05 GMT">
 
 <link rel="SHORTCUT ICON" href="http://fa.advstatic.com/favicon.ico">
 <link rel="apple-touch-icon" href="//www.freeadvice.com/apple-touch-icon.png">
@@ -51,7 +51,7 @@
 <meta name="twitter:description" content="FreeAdvice.com's Privacy Policy">
 <meta name="twitter:image" content="http://www.freeadvice.com/__images/fa_homepage-feature-image-businessmanSmile.jpg">
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 <!-- Links Analytics to AdSense -->
 window.google_analytics_uacct = "UA-11918687-1";
 window.google_analytics_domain_name = "";
@@ -59,20 +59,20 @@ window.google_analytics_domain_name = "";
 <!-- Start Safe Click Tracker -->
 function clicktracker(i) {
 if(document.images)
-	{
-	(new Image()).src="https://secure.freeadvice.com/__fa_ad_manager/clicktracker.php?i="+i;
-    } 
+    {
+    (new Image()).src="https://secure.freeadvice.com/__fa_ad_manager/clicktracker.php?i="+i;
+    }
 return true;
 }
 function conversiontracker(i) {
 if(document.images)
-	{
-	(new Image()).src="https://secure.freeadvice.com/__fa_ad_manager/conversiontracker.php?i="+i;
-    } 
+    {
+    (new Image()).src="https://secure.freeadvice.com/__fa_ad_manager/conversiontracker.php?i="+i;
+    }
 return true;
 }
 <!-- End Safe Click Tracker -->
-</script> 
+</script>
 
 <!-- THE FOLLOWING CODE WAS ADDED ON 3-25 TO TRY AND SPEED UP THE GOOLGE+ BUTTON -->
 <!-- Place this tag in your head or just before your close body tag -->
@@ -113,9 +113,9 @@ ga('RollUp.send', 'pageview'); // Send page view for RollUp as well.
 function alterAds() {
 //alert(window.innerWidth);
 if (window.innerWidth > 770 ) // wider than an iPad
-	{
-	device_type = 'desktop'; // Set global variable to new value.
-	}
+    {
+    device_type = 'desktop'; // Set global variable to new value.
+    }
 }
 
 var ADAPT_CONFIG = {
@@ -124,9 +124,11 @@ var ADAPT_CONFIG = {
   dynamic: true,
   callback: alterAds,
   range: [
-	'0px    to 720px  = css.generic.mobile.3.0.2.min.css',
-	'720px  to 960px  = css.generic.mobile.3.0.2.min.css',
-	'960px            = css.generic.desktop.3.0.2.min.css'
+    //'0px to 960px  = css.generic.mobile.3.0.2.min.css',
+    //'960px         = css.generic.desktop.3.0.2.min.css'
+    '0px to 960px  = css.generic.mobile.css?v30032016.1915',
+    '960px         = css.generic.desktop.css?v30032016.1915'
+
   ]
 };
 var device_type = 'tablet'; // Initialize global variable.
@@ -159,14 +161,28 @@ var device_type = 'tablet'; // Initialize global variable.
 <!-- Needed for Mobile Nav. -->
 <script>
 $(function() {
-	
-	//Show/Hide Mobile Nav
-	$('.button-mobile-nav').click(function(){
-		$('#mobile-nav-iframe').slideToggle(320);
-		});
+
+    //Show/Hide Mobile Nav
+    $('.button-mobile-nav').click(function(){
+        $('#mobile-nav-iframe').slideToggle(320);
+        });
 
 });
 </script>
+
+<!-- Quantcast Tag, part 1 -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+</script>
+<!-- End Quantcast tag, part 1 -->
 
 </head>
 
@@ -184,18 +200,20 @@ $(function() {
 
 <!-- Header -->
 <div class="header-wrap" role="banner">
-	<header>
-		<div itemscope="" itemtype="http://schema.org/Organization">
-		<a href="http://www.freeadvice.com/" class="logo-free-advice" itemprop="url"><img itemprop="logo" src="http://fa.advstatic.com/header-logo.png" width="168" height="29" alt="FreeAdvice.com Logo" title="www.FreeAdvice.com"></a>
-		</div>
-	<!--<a class="header-menu-trigger" rel="#mobile-navigation">navigation</a>-->
-	<form class="header-search-form" action="http://www.freeadvice.com/fa_google_search.php" method="GET" target="_top" name="law_search_box">
-		<div class="header-search clearfix" role="search">
-		<input type="text" name="q" class="search-text-field search-no-border" placeholder="Search FreeAdvice.com">
-		<input class="btn orange-btn" type="submit" value="Find">
-		</div>
-	</form>
-	</header>
+    <header>
+        <div itemscope="" itemtype="http://schema.org/Organization">
+        <a href="http://www.freeadvice.com/" class="logo-free-advice" itemprop="url">
+            <img itemprop="logo" src="//fa.advstatic.com/logo-freeadvice-legal-2x.png" alt="FreeAdvice.com Logo" title="www.FreeAdvice.com">
+        </a>
+        </div>
+    <!--<a class="header-menu-trigger" rel="#mobile-navigation">navigation</a>-->
+    <form class="header-search-form" action="http://www.freeadvice.com/fa_google_search.php" method="GET" target="_top" name="law_search_box">
+        <div class="header-search clearfix" role="search">
+        <input type="text" name="q" class="search-text-field search-no-border" placeholder="Search FreeAdvice.com">
+        <input class="btn orange-btn" type="submit" value="Find">
+        </div>
+    </form>
+    </header>
 </div>
 <!-- // .header-wrap -->
 
@@ -224,11 +242,6 @@ $(function() {
 
 </div><!-- // .nav-wrap -->
 
-
-
-
-
-
 <!-- Breadcrumb -->
     <div class="breadcrumb-wrap">
     	<div class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#">
@@ -242,8 +255,8 @@ $(function() {
            </span>
         </div>
     </div><!-- // .breadcrumb-wrap -->
-	<!-- Start Content Module here -->
-	<!-- Content -->
+    <!-- Start Content Module here -->
+    <!-- Content -->
 <div class="content-wrap">
 
 	<div class="content-wrap-inner topic-img-company">
@@ -322,14 +335,15 @@ $(function() {
 				<li><a href="http://www.freeadvice.com/company/aboutus.htm">About Us<span class="icon"></span></a></li>
 				<li><a href="http://www.freeadvice.com/company/content-quality.htm">Editorial Staff<span class="icon"></span></a></li>
 				<li><a href="http://www.freeadvice.com/company/media.htm">In The Media<span class="icon"></span></a></li>
-				<li><a href="http://www.freeadvice.com/company/contact_us.htm">Contact Us<span class="icon"></span></a></li>
+				<li><a href="http://www.freeadvice.com/company/advertise.htm">Advertise With Us<span class="icon"></span></a></li>
+                <li><a href="http://www.freeadvice.com/company/contact_us.htm">Contact Us<span class="icon"></span></a></li>
 				<li><a class="active" href="http://www.freeadvice.com/company/privacypolicy.htm">Privacy Policy<span class="icon"></span></a></li>
 				<li class="end-cap"></li>
 			</ul>
 				</nav>
 
 
-			<!-- Article List (news or otherwise) --><section class="rail-article-list"><h4><a href="http://www.freeadvice.com/news/">Today's Legal News <span class="arrow">►</span></a></h4><div class="rail-article-single clearfix"><a href="http://www.freeadvice.com/news/Criminal+Law/is-sleeping-while-intoxicated-a-crime.htm"><img class="article-img" src="http://fa.advstatic.com/blog-img-ftla-85306915-300x200.jpg" width="68" height="50"></a><a class="article-topic" href="http://www.freeadvice.com/news/Criminal+Law/">CRIMINAL LAW</a><a class="article-title" href="http://www.freeadvice.com/news/Criminal+Law/is-sleeping-while-intoxicated-a-crime.htm">Is Sleeping While Intoxicated a Crime?</a></div><div class="rail-article-single clearfix"><a href="http://www.freeadvice.com/news/Intellectual+Property/the-case-of-the-dueling-dumplings-a-trade-secret-dispute.htm"><img class="article-img" src="http://fa.advstatic.com/blog-img-ftla-79651574-300x200.jpg" width="68" height="50"></a><a class="article-topic" href="http://www.freeadvice.com/news/Intellectual+Property/">INTELLECTUAL PROPERTY</a><a class="article-title" href="http://www.freeadvice.com/news/Intellectual+Property/the-case-of-the-dueling-dumplings-a-trade-secret-dispute.htm">The Case of the Dueling Dumplings: A Trade Secret Dispute</a></div><div class="rail-article-single clearfix"><a href="http://www.freeadvice.com/news/Government+Law/chicago-sheriff-backpage-lawsuit.htm"><img class="article-img" src="http://fa.advstatic.com/blog-img-ftla-78038684-300x180.jpg" width="68" height="50"></a><a class="article-topic" href="http://www.freeadvice.com/news/Government+Law/">GOVERNMENT LAW</a><a class="article-title" href="http://www.freeadvice.com/news/Government+Law/chicago-sheriff-backpage-lawsuit.htm">Federal Court Rules against Chicago Sheriff in Backpage.com Advertising Lawsuit</a></div></section>    
+			<!-- Article List (news or otherwise) --><section class="rail-article-list"><h4><a href="http://www.freeadvice.com/news/">Today's Legal News <span class="arrow">►</span></a></h4><div class="rail-article-single clearfix"><a href="http://www.freeadvice.com/news/Litigation/hashtag-with-care.htm"><img class="article-img" src="http://fa.advstatic.com/blog-img-96471190-300x200.jpg" width="68" height="50"></a><a class="article-topic" href="http://www.freeadvice.com/news/Litigation/">LITIGATION</a><a class="article-title" href="http://www.freeadvice.com/news/Litigation/hashtag-with-care.htm">Hashtag with Care</a></div><div class="rail-article-single clearfix"><a href="http://www.freeadvice.com/news/Litigation/is-it-illegal-to-discriminate-against-an-employee-for-being-too-cute.htm"><img class="article-img" src="http://fa.advstatic.com/blog-img-77509496-300x200.jpg" width="68" height="50"></a><a class="article-topic" href="http://www.freeadvice.com/news/Litigation/">LITIGATION</a><a class="article-title" href="http://www.freeadvice.com/news/Litigation/is-it-illegal-to-discriminate-against-an-employee-for-being-too-cute.htm">Is It Illegal to Discriminate Against an Employee for Being Too Cute?</a></div><div class="rail-article-single clearfix"><a href="http://www.freeadvice.com/news/Intellectual+Property/soft-porn-heiress-troubled-business.htm"><img class="article-img" src="http://fa.advstatic.com/fa-askalwayer-for-fb-300x199.jpg" width="68" height="50"></a><a class="article-topic" href="http://www.freeadvice.com/news/Intellectual+Property/">INTELLECTUAL PROPERTY</a><a class="article-title" href="http://www.freeadvice.com/news/Intellectual+Property/soft-porn-heiress-troubled-business.htm">Soft Porn Heiress' Troubled Business</a></div></section>    
     
             <!-- Nested content or ad unit 
             <section class="rail-box">
@@ -365,88 +379,108 @@ $(function() {
 	</div><!-- // .content-wrap-inner -->
 </div><!-- // .content-wrap -->
     
-	<!-- End Content Module here -->
+    <!-- End Content Module here -->
 
     <footer>
-    	<section class="footer-trust-wrap">
-        	<div class="footer-trust">
-        		<a class="logo-free-advice"><img src="http://fa.advstatic.com/header-logo.png" width="125" height="21" alt="FreeAdvice.com Logo" title="FreeAdvice.com"></a>
-                <span class="footer-copyright">© 1995-2015 <a href="http://www.adviceco.com/" target="_blank">Advice Company</a>, All Rights Reserved.</span>
-				
-				<!-- DMCA Badge -->				
-				<br><br><span style="margin-left:200px;"><a href="http://www.dmca.com/Protection/Status.aspx?ID=5938d2a2-81d8-4292-a933-a040453fe9a1" title="DMCA" target="_blank"><img src="http://images.dmca.com/Badges/DMCA_logo-std-btn120w.png?ID=5938d2a2-81d8-4292-a933-a040453fe9a1" alt="DMCA.com"></a></span>
-				
+        <section class="footer-trust-wrap">
+            <div class="footer-trust">
+                <a class="logo-free-advice"><img src="http://fa.advstatic.com/header-logo.png" width="125" height="21" alt="FreeAdvice.com Logo" title="FreeAdvice.com"></a>
+                <span class="footer-copyright">© 1995-2016 <a href="http://www.adviceco.com/" target="_blank">Advice Company</a>, All Rights Reserved.</span>
+
+                <!-- DMCA Badge -->
+                <br><br><span style="margin-left:200px;"><a href="http://www.dmca.com/Protection/Status.aspx?ID=5938d2a2-81d8-4292-a933-a040453fe9a1" title="DMCA" target="_blank">
+                <!-- <img src ="http://images.dmca.com/Badges/DMCA_logo-std-btn120w.png?ID=5938d2a2-81d8-4292-a933-a040453fe9a1" alt="DMCA.com" />-->
+                    <img src="__images/DMCA_logo-std-btn225w.png" alt="DMCA.com" style="width: 121px;height: auto;">
+                </a></span>
+
                 <!-- BBB -->
                 <a class="bbb-logo" title="Advice Company, Internet Services, Sausalito, CA" alt="Advice Company, Internet Services, Sausalito, CA" target="_blank" id="bbb" href="http://www.bbb.org/greater-san-francisco/business-reviews/internet-services/advice-company-in-sausalito-ca-28914#bbblogo"></a>
-				
+
                 <!-- McAfee Secure -->
                 <div class="secure-logo">
-                	<!-- START SCANALERT CODE -->
-                	<!--<a id="secure-site" href="https://www.scanalert.com/RatingVerify?ref=www.freeadvice.com" target="_blank" title="HACKER SAFE is a Trademark of ScanAlert"><img width="94" height="54" border="0" src="https://images.scanalert.com/meter/www.freeadvice.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>--><!-- END SCANALERT CODE -->
-                    
+                    <!-- START SCANALERT CODE -->
+                    <!--<a id="secure-site" href="https://www.scanalert.com/RatingVerify?ref=www.freeadvice.com" target="_blank" title="HACKER SAFE is a Trademark of ScanAlert"><img width="94" height="54" border="0" src="https://images.scanalert.com/meter/www.freeadvice.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>--><!-- END SCANALERT CODE -->
+
                     <!-- McAfee Secure Trustmark for www.freeadvice.com -->
-<a target="_blank" href="https://www.mcafeesecure.com/verify?host=www.freeadvice.com"><img class="mfes-trustmark mfes-trustmark-hover" border="0" src="//cdn.ywxi.net/meter/www.freeadvice.com/2.gif" width="94" height="54" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-<!-- End McAfee Secure Trustmark -->
+                    <!--<script src="https://cdn.ywxi.net/js/inline.js?w=88"></script>-->
+                    <a target="_blank" href="https://www.mcafeesecure.com/verify?host=www.freeadvice.com"><img class="mfes-trustmark mfes-trustmark-hover" border="0" src="//cdn.ywxi.net/meter/www.freeadvice.com/2.gif" width="94" height="54" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+                    <!--<script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async></script>-->
+
+                    <!-- End McAfee Secure Trustmark -->
 
                 </div><!-- // .secure-logo -->
-				
+
                 <!-- Social -->
                 <div class="social-buttons clearfix">
-                	<span class="floatL mr3">Follow us </span>
-                	<a class="facebook" title="facebook" href="https://www.facebook.com/freeadvice" target="_blank"></a>
-                	<a class="twitter" title="twitter" href="https://twitter.com/FreeAdviceNews" target="_blank"></a>
-                	<a class="google" title="google" href="https://plus.google.com/103085244858547886124/" target="_blank"></a>
-                </div> <!-- // .social-buttons -->   
-        	</div><!-- // .footer-trust-wrap -->
+                    <span class="floatL mr3">Follow us </span>
+                    <a class="facebook" title="facebook" href="https://www.facebook.com/freeadvice" target="_blank"></a>
+                    <a class="twitter" title="twitter" href="https://twitter.com/FreeAdviceNews" target="_blank"></a>
+                    <a class="google" title="google" href="https://plus.google.com/103085244858547886124/" target="_blank"></a>
+                </div> <!-- // .social-buttons -->
+            </div><!-- // .footer-trust-wrap -->
         </section><!-- // .footer-trust -->
-        
+
         <section class="footer-nav clearfix">
-        	<div class="footer-site-links clearfix">
-            	<h4>FreeAdvice.com</h4>
+            <div class="footer-site-links clearfix">
+                <h4>FreeAdvice.com</h4>
                 <a href="http://law.freeadvice.com/">Law Advice</a>
                 <a href="https://insurance.freeadvice.com/">Insurance Advice</a>
                 <a href="http://forum.freeadvice.com/">Legal Community / Forums</a>
                 <a href="http://www.freeadvice.com/freeadvice-site-map.php">Site Map</a>
-                <!--<a href="#">Mobile Site</a>
-                <a href="#">Desktop Site</a>-->
-        	</div><!-- // .footer-site-links -->
-            
+                <a href="http://www.freeadvice.com/company/advertise.htm">Advertise With Us</a>
+            </div><!-- // .footer-site-links -->
+
             <div class="footer-site-links clearfix">
-            	<h4>Company</h4>
+                <h4>Company</h4>
                 <a href="http://www.freeadvice.com/company/media.htm">Media</a>
                 <a href="http://www.freeadvice.com/company/contact_us.htm">Contact Us</a>
                 <a href="http://www.freeadvice.com/company/content-quality.htm">Editorial Staff</a>
                 <a href="http://www.freeadvice.com/company/aboutus.htm">About Us</a>
-        	</div><!-- // .footer-site-links -->
-            
+            </div><!-- // .footer-site-links -->
+
             <div class="footer-site-links clearfix">
-            	<h4>Law Advice</h4>
+                <h4>Law Advice</h4>
                 <a href="http://ask-a-lawyer.freeadvice.com/law-questions/">Ask a Lawyer </a>
                 <!--<a href="https://secure.freeadvice.com/__forms_all/simple/landing-nogeo.php" target="_blank">Free Case Evaluation</a>-->
                 <a href="http://law.freeadvice.com/#all_topics">All Legal Topics</a>
                 <a href="http://www.freeadvice.com/resources/statelaws.htm">State Laws</a>
-        	</div><!-- // .footer-site-links -->
-            
-            <div class="footer-disclaimer">
-            	<p>FreeAdvice® has been providing millions of consumers with outstanding advice, free, since 1995. 
-                While not a substitute for personal advice from a licensed professional, it is available AS IS, 
-                subject to our <a href="http://www.freeadvice.com/resources/conditionsnew.htm">Disclaimer and Terms &amp; Conditions Of Use</a>. <a href="http://www.freeadvice.com/company/privacypolicy.htm">Privacy Policy</a></p>
-                
-                <p>Use for marketing or solicitation is prohibited. <a href="http://attorneypages.com/" target="_blank">AttorneyPages</a>®, <a href="http://expertpages.com/" target="_blank">ExpertPages</a>® and <a href="http://www.freeadvice.com/">FreeAdvice</a>® 
-                are trademarks and units of <a href="http://adviceco.com/" target="_blank">Advice Company</a> or its affiliate AdviceCo Ventures Company.</p>
-            </div>
-        
-        </section><!-- // .footer-nav -->
-	</footer>
+                <a href="http://forum.freeadvice.com/">Legal Community / Forums</a>
+            </div><!-- // .footer-site-links -->
 
-	<!-- AD SLOT MOBILE -->
-	<!--<div class="faslot-mobile-footer">
+            <div class="footer-disclaimer">
+                <p>FreeAdvice® has been providing millions of consumers with outstanding advice, free, since 1995.
+                While not a substitute for personal advice from a licensed professional, it is available AS IS,
+                subject to our <a href="http://www.freeadvice.com/resources/conditionsnew.htm">Disclaimer and Terms &amp; Conditions Of Use</a>. <a href="http://www.freeadvice.com/company/privacypolicy.htm">Privacy Policy</a></p>
+
+                <p>Use for marketing or solicitation is prohibited. <a href="http://attorneypages.com/" target="_blank" rel="nofollow">AttorneyPages</a>®, <a href="http://expertpages.com/" target="_blank" rel="nofollow">ExpertPages</a>® and <a href="http://www.freeadvice.com/" rel="nofollow">FreeAdvice</a>®
+                are trademarks and units of <a href="http://adviceco.com/" target="_blank" rel="nofollow">Advice Company</a> or its affiliate AdviceCo Ventures Company.</p>
+            </div>
+
+        </section><!-- // .footer-nav -->
+    </footer>
+
+    <!-- AD SLOT MOBILE -->
+    <!--<div class="faslot-mobile-footer">
             </div>-->
-    
+
    <div id="mobile-navigation">
-   	<!--<iframe src="http://www.freeadvice.com/__includes/_inc-nav-company-mobile.php" class="moible-nav-framed" scrolling="no" frameborder="0" seamless name="moible-nav-framed"></iframe>-->
     <iframe src="http://www.freeadvice.com/__includes/_inc-nav-law-mobile.php" class="moible-nav-framed" scrolling="no" frameborder="0" seamless="" name="moible-nav-framed"></iframe>
    </div><!-- // .mobile-navigation -->
+
+<!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">
+_qevents.push({
+qacct:"p-EGUNhXW4hCEYx"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-EGUNhXW4hCEYx.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag, part 2 -->
+
 
 
 
