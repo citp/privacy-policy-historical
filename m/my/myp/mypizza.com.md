@@ -1,78 +1,172 @@
-> *The following text is extracted and transformed from the mypizza.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022080039id_/http%3A//mypizza.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypizza.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606122932id_/http%3A//mypizza.com/pages/privacy) for the most accurate reproduction.*
 
 # MyPizza.com - Order Pizza Online, Find Pizza Restaurants, Pizza Menu, Pizza Delivery
 
-#### Privacy Statement
+This Privacy Policy describes the policies and procedures of MyPizza Technologies, Inc. (“we”, “our” or “us”) on the collection, use and disclosure of your information on www.MyPizza.com (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. 
 
-BizFarm Inc / MyPizza.com ("MyPizza.com" or "we" or "us" or "our") respects the privacy of its users ("user" or "you") whether they use our website located at MyPizza.com, including other media forms and media channels related or connected thereto (collectively, the "Website") to order food from local restaurants, to advertise food for sale or simply to view the Website. The following MyPizza.com privacy policy ("Privacy Policy") is designed to inform you, as a user of the Website, about the types of information that MyPizza.com may gather about or collect from you in connection with your use of the Website. It also is intended to explain the conditions under which MyPizza.com uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the Website, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the Website you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the Website.
+## **What Does This Privacy Policy Cover?**
 
-Our Website is hosted in the United States of America and is subject to U.S. state and federal law. If you are accessing our Website from other jurisdictions, please be advised that you are transferring your personal information to us in the United States, and by using our Website, you consent to that transfer and to abide by the applicable laws of applicable states and U.S. federal law concerning your use of the Website and your agreements with us. Any persons accessing our Website from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure different from those of the jurisdictions mentioned above may only use the Website in a manner lawful in their jurisdiction. If your use of our Website would be unlawful in your jurisdiction, please do not use the Website.
+This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners. 
 
-BY USING OR ACCESSING THE WEBSITE, YOU ARE ACCEPTING THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY.
+This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“Third Party Services”) that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access. 
 
-#### Information Collection
+## **What Information Do We Collect?**
 
-MyPizza.com collects information volunteered by consumers when they register and place orders on our Web site. The information we collect through registration and order placement is used to provide the services specified on our Website. From time to time, we may solicit additional personal and demographic information, for market research purposes, in the form of surveys or polls. Participation in market research surveys by our customers is entirely optional and at their discretion. We also store information such as page views, computer IP addresses, and other statistics in the form of logs. These logs are used solely to enhance the technical performance of our Website.
+The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect and/or display some of your Personal Information. We collect the following types of information from our users. 
 
-#### Website Registration
+#### Account Information:
 
-MyPizza.com collects a range of Personally-Identifying Information from and about Website users. Much of the Personally-Identifying Information collected by MyPizza.com about users is information provided by users themselves at the time they register with the Website and purchase food. That information may include each user's name, address, email address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender, age, date of birth, username, hometown and other demographic information, and other relevant information as determined by MyPizza.com from time to time. Users of the Website are under no obligation to provide MyPizza.com with Personally-Identifying Information of any kind, with the caveat that a user's refusal to do so may prevent the user from using certain Website features.
+When you create an Account, you will provide information that could be Personal Information, such as your username, address, password, email address, telephone number, and, if you transact business with us, financial information such as your payment method. You acknowledge that this information may be personal to you, and by creating an account on the Services and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our Services, but only rarely when we feel such information is important. You may unsubscribe from these messages through your Account settings, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes. We also may request information about your interests and activities, your gender, age, date of birth, username, hometown and other demographic information, and other relevant information as determined by MyPizza from time to time. You are under no obligation to provide MyPizza with Personal Information of any kind, with the caveat that a user's refusal to do so may prevent the user from using certain Services features. 
 
-BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONALLY IDENTIFYING INFORMATION AS DESCRIBED IN THIS "WEBSITE REGISTRATION" SECTION.
+#### User Content:
 
-#### Online Forums and Public Postings; Other Collections
+Some features of the Services allow you to provide content to the Services, such as written comments. All content submitted by you to the Services may be retained by us indefinitely, even after you terminate your account. We may continue to disclose such content to third parties in a manner that does not reveal Personal Information, as described in this Privacy Policy. 
 
-Certain Personally-Identifying Information collected from users is disclosed as a matter of course as a result of those users' use of the Website. We provide areas on our Websites where you can post information and reviews about restaurants. Such postings are governed by our Terms of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. USERS ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM THEIR VOLUNTARY DISCLOSURE OF PERSONALLY IDENTIFYING INFORMATION.
+#### Financial Information:
 
-#### MyPizza.com Communications
+We do not currently collect financial information, such as your payment method (valid credit card number, type, expiration date or other financial information); that information is collected and stored by our third party payment processing company (the “Payment Processor”), and use and storage of that information is governed by the Payment Processor’s applicable terms of service and privacy policy. 
 
-We may occasionally use your name and email address to send you notifications regarding new services offered by the Website that we think you may find valuable. We may also send you service-related announcements from time to time through the general operation of the service. Generally, you may opt out of such emails at the time of registration or through your account settings, though we reserve the right to send you notices about your account even if you opt out of all voluntary email notifications.
+#### IP Address Information and Other Information Collected Automatically:
 
-Our customer service representatives may use your telephone number and E-mail address to notify you of the status of your order as necessary and appropriate. MyPizza.com reserves the right to use the information collected to send special offers on behalf of third party partners or vendors (including Restaurants) participating in our service. However, we do not share your information with the Restaurant other than the information necessary to conduct business as stated above.
-
-#### Notices of Violations of Website Terms of Use and Other Communications Directed to MyPizza.com
-
-By submitting a copyright infringement notification under the Digital Millennium Copyright Act (DMCA) (explained further in our Infringement Policy) or other communication (including communications about content stored on or transmitted through the Website) you consent to have such communication forwarded to the person or entity who stored, transmitted or linked to the content addressed by your communication, in order to facilitate a prompt resolution. For notices of violations of our Terms of Use or other communications (but not DMCA copyright infringement notifications), upon request MyPizza.com will edit out your name and contact information. However, DMCA copyright infringement notifications (including any personally identifiable information set forth in the notifications) will be forwarded as submitted to MyPizza.com without any deletions.
-
-#### Information Sharing
-
-In order to process your order, we must share the following information every time you place an order with a Restaurant: your name, delivery address (if applicable), food order, and credit card information (if applicable). We also share your telephone number so the Restaurant may optionally verify that the order is not fraudulent. We restrict this information flow to only the bare minimum elements required to prepare and fulfill your orders. Occasionally, we may voluntarily share, sell or rent aggregated (non-personal) market research data with third party partners and vendors. This information does not contain personally identifiable information and is shared for the purposes of enhancing our service. We may present offers to you on behalf of third party partners. If you accept an offer, we will share your name, address and credit card information with this third party. We will not share this information without your consent.
-
-#### Disclosures
-
-MyPizza.com will disclose Personally-Identifying Information under the following circumstances: 
-
-  * • By Law or to Protect Rights. When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of MyPizza.com, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Terms of Use or other agreements or policies, in response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
-  
-
-  * • Direct mail partners. From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you may opt-out at the time you register for our Website, or at any time thereafter by going to your account settings or contacting us using the contact information below.
-  
-
-  * • Marketing Communications. Unless users opt-out from receiving MyPizza.com marketing materials upon registration, MyPizza.com will email users about products and services that MyPizza.com believes may be of interest to them and MyPizza.com also will provide users' email information to third parties, so that those third parties may directly contact users about additional products and services. If a user wishes to opt-out of receiving marketing materials from MyPizza.com or having their email information provided to third parties at any time after registration, users may do so by going to your account settings or contacting us using the contact information below. Even after opting-out, a user may continue to receive marketing emails from third parties to whom MyPizza.com already has provided the user's email information. Users will be responsible for directly contacting such third parties to request cessation of further marketing emails.
-  
-
-  * • Restaurants. Whenever a user places an order for food from a restaurant, MyPizza.com will transfer all information to the restaurant necessary for preparing and processing the order. On occasion, this may include transferring credit card and other payment information in cases where a restaurant, rather than MyPizza.com, is processing the payment. Users will need to contact restaurants directly to determine the privacy policies that apply to the information that MyPizza.com transfers to the restaurants.
-  
-
-  * • Third Party Service Providers. We may share your Personally-Identifying Information, which may include your name and contact information (including email address) with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our Website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purpose.
-  
-
-  * • Business Transfers; Bankruptcy. MyPizza.com reserves the right to transfer all Personally-Identifying Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of MyPizza.com assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally-Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and are given an opportunity to affirmatively opt-out of it. Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization.
+  * We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on). 
+  * Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them. 
+  * We may collect some device-specific information if you access the Services using a mobile device. Device information may include but is not limited to unique device identifiers, network information, and hardware model, as well as information about how the device interacts with our Services. 
 
 
 
-#### E-mail/Anti-Spam Information
+#### Email Communications:
 
-MyPizza.com does not purchase bulk E-mail addresses nor do we use the services of bulk E-mail companies for promoting our service. This means we will not distribute, sell or rent your E-mail address to any third party. Moreover, our E-mail servers do not relay E-mail destined for non-local domains.
+We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service. 
 
-#### Use of Cookies
+#### Information Collected Using Cookies:
 
-We use "cookies" (small text files stored in your internet browser) to enhance your ordering experience. Cookies allow Web site users to order faster and more efficiently by storing information such as your location, order information and personal preferences. We do not use cookies to track your surfing habits and activities outside of our Web site. Cookies can be easily and safely deleted from your computer. Refer to our browser's help section for instructions.
+  * Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Services through the Internet. 
+  * Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Services and may associate that information with your Account if you have one. 
+  * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave cookies active, because they enable you to take advantage the most attractive features of the Services. 
+  * This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer. 
 
-#### Security Information
 
-MyPizza.com always uses industry standard encryption technologies, such as 128 bit SSL encryption, when transferring and receiving private consumer data on our Website. This information can only be translated once it is received by our secure services. These secure servers help to protect against the loss, misuse, or alteration of information that we have collected from you through our Website.
 
-#### Policy Changes
+#### Information Related to Advertising and the Use of Web Beacons:
 
-From time to time, MyPizza.com may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should periodically check this section of our Website.
+To support and enhance the Services, we may serve advertisements, and also allow third parties advertisements, through the Services. These advertisements are sometimes targeted and served to particular users and may come from third party companies called “ad networks.” Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. 
+
+Advertisements served through the Services may be targeted to users who fit a certain general profile category and may be based on anonymized information inferred from information provided to us by a user, including Personal Information (e.g., gender or age), may be based on the Services usage patterns of particular users, or may be based on your activity on Third Party Services. We do not provide Personal Information to any ad networks for use outside of the Services. 
+
+To increase the effectiveness of ad delivery, we may deliver a file (known as a “web beacon”) from an ad network to you through the Services. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site. 
+
+#### Aggregate Information:
+
+We collect statistical information about how both unregistered and registered users, collectively, use the Services (“Aggregate Information”). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you, your Account or your web browser. 
+
+#### Information Regarding Your Social Networks:
+
+Occasionally, you can use your Account on our Services to interact with your accounts on other services, such as Facebook or Twitter. In addition to using your third party account credentials to sign in to the Services, you can access posting and sharing tools on the Services, including a “share” button that allows you to post information to your social networks outside of the Services (“Share”). For example, after making a reservation on the Services, you can Share information about that reservation with your Facebook friends or Twitter followers. Please note that these tools may be operated by Third Party Services. 
+
+By using these tools, you acknowledge that some Third Party Account Information may be transmitted into your Account with us, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. Additionally, when you use one of these sharing tools, the Third Party Service that operates the tool may be collecting information about your browser or online activity through its own tracking technologies and subject to its own privacy policy. Lastly, when you use these tools, some of your information from the Services (such as the reservation information you selected to Share) may be shared with the Third Party Service and others. Therefore, we encourage you to read the privacy policies and other policies of the social networks you use in connection with the Services. 
+
+## **How, and With Whom, Is My Information Shared?**
+
+The Services are designed to help you share information with others. As a result, some of the information generated through the Services is shared publicly or with third parties. 
+
+#### Information Shared with Restaurants:
+
+In order to process your order, we must share the following information every time you place an order with a Restaurant: your name, delivery address (if applicable), food order, and credit card information (if applicable). We also share your telephone number so the Restaurant may optionally verify that the order is not fraudulent. We restrict this information flow to only the bare minimum elements required to prepare and fulfill your orders. You should contact restaurants directly to determine the privacy policies that apply to the information that MyPizza transfers to the restaurants. 
+
+#### Public Information About Your Activity on the Services:
+
+Some of your activity on and through the Services is public by default. This may include, but is not limited to, content you have posted publicly on the Site or otherwise through the Services, including posts of information and reviews about Restaurants. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. 
+
+Registered users may have some of this information associated with their Accounts. Unregistered users will not have this association, but information concerning their use of the Services (such as what pages they have visited) may be tracked anonymously through the use of cookies and stored by us. 
+
+Please also remember that if you choose to provide Personal Information using certain public features of the Services, then that information is governed by the privacy settings of those particular features and may be publicly available. Individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Services. 
+
+#### IP Address Information:
+
+While we collect and store IP address information, that information is not made public. We do at times, however, share this information with our partners, service providers and other persons with whom we conduct business, and as otherwise specified in this Privacy Policy. 
+
+#### Information You Elect to Share:
+
+You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services’ privacy policies. This Privacy Policy only governs information collected on the Services. 
+
+#### Aggregate Information:
+
+We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how our Services interface with them. In addition, these third parties may share with us non-private, aggregated or otherwise non Personal Information about you that they have independently developed or acquired. 
+
+#### Email and Telephone Communications with Us:
+
+As part of the Services, you may occasionally receive email and other communications from us, such as communications relating to your Account. Communications relating to your Account will only be sent for purposes important to the Services, such as password recovery. 
+
+We may occasionally use your name and email address to send you notifications regarding new services offered by the Services that we think you may find valuable. In addition, we may present offers to you on behalf of third party partners. If you accept an offer, we will share your name, address and credit card information with this third party. 
+
+Our customer service representatives may use your telephone number and E-mail address to notify you of the status of your order as necessary and appropriate. MyPizza reserves the right to use the information collected to send special offers on behalf of third party partners or vendors (including Restaurants) participating in our service. However, we do not share your information with the Restaurant other than the information necessary to conduct business as stated above. 
+
+MyPizza does not purchase bulk E-mail addresses nor do we use the services of bulk E-mail companies for promoting our service. This means we will not distribute, sell or rent your E-m 
+
+#### User Profile Information:
+
+User profile information including your username and other information you enter may be displayed to other users to facilitate user interaction within the Services. We will not directly reveal user email addresses to other users. 
+
+#### Financial Information:
+
+As stated above, we do not currently collect financial information, as that information is collected and stored by our Payment Processor. However, we may from time to time request and receive some of your financial information from our Payment Processor for the purposes of completing transactions you have initiated through the Services, enrolling you in discount, rebate, and other programs in which you elect to participate, protecting against or identifying possible fraudulent transactions, and otherwise as needed to manage our business. 
+
+#### Information Shared with Our Agents:
+
+We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share Personal Information with our Agents in order to provide products or services to you. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through the Services. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents. 
+
+#### Information Disclosed Pursuant to Business Transfers:
+
+In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy. 
+
+#### Information Disclosed for Our Protection and the Protection of Others:
+
+We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention. 
+
+#### Direct Mail Partners:
+
+From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you may opt-out at the time you register for our Site, or at any time thereafter by going to your account settings or contacting us using the contact information below. 
+
+#### Marketing Communications:
+
+Unless you opt-out from receiving MyPizza marketing materials upon registration, MyPizza will email you about products and services that MyPizza believes may be of interest to you. MyPizza may also will provide your email information to third parties, so that those third parties may directly contact you about additional products and services. If you wish to opt-out of receiving marketing materials from MyPizza or having your email information provided to third parties at any time after registration, you may do so by going to your account settings or contacting us using the contact information below. Even after opting-out, you may continue to receive marketing emails from third parties to whom MyPizza already has provided your email information prior to opting out. You are responsible for directly contacting such third parties to request cessation of further marketing emails. 
+
+#### Information We Share With Your Consent:
+
+Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information. 
+
+## **Is Information About Me Secure?**
+
+Your Account information will be protected by a password for your privacy and security. You need to prevent unauthorized access to your Account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your Account. 
+
+We seek to protect Account information to ensure that it is kept private; however, we cannot guarantee the security of any Account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
+
+We otherwise store all of our information, including your IP address information, using industry-standard techniques, such as 128 bit SSL encryption. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, Personal Information or otherwise. 
+
+## **What Information of Mine Can I Access?**
+
+If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings. 
+
+_California Privacy Rights:_ Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: [1201 Broadway New York, NY 10001]. 
+
+## **How Can I Delete My Account?**
+
+Should you ever decide to delete your Account, you may do so by emailing [support@mypizza.com]. If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public. 
+
+## **What Choices Do I Have Regarding My Information?**
+
+  * You can use many of the features of the Services without registering, thereby limiting the type of information that we collect. 
+  * You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features. 
+  * You can delete your Account. Please note that we will need to verify that you have the authority to delete the Account, and activity generated prior to deletion will remain stored by us and may be publicly accessible. 
+
+
+
+## **What Happens When There Are Changes to this Privacy Policy?**
+
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted. 
+
+## **What If I Have Questions or Concerns?**
+
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to legal@mypizza.com. We will make every effort to resolve your concerns. 
+
+**Effective Date:** March 23, 2016 
