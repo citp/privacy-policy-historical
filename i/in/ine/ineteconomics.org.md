@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ineteconomics.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131826id_/https%3A//ineteconomics.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ineteconomics.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606200101id_/https%3A//www.ineteconomics.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Institute for New Economic Thinking
+# Privacy Policy
 
 At the Institute for New Economic Thinking (INET), we are deeply committed to protecting your privacy and personal information when you visit this website as either a registered or unregistered user. Use of our website is not restricted to registered users, and we expect to provide a robust experience to all users. If you have any questions about the below privacy policy, please [email us](mailto:info@ineteconomics.org). 
 
