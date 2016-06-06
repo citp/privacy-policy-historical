@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ceo-worldwide.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222032748id_/http%3A//www.ceo-worldwide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceo-worldwide.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606110324id_/http%3A//www.ceo-worldwide.com/privacy.php) for the most accurate reproduction.*
 
-# Interim Management | Executive Search | CEO Worldwide | Data Protection
+# Privacy Policy and Disclaimer | CEO Worldwide
 
 ## Privacy policy and disclaimer
 
-CEO Worldwide is an [executive search company with focus on international headhunting](http://www.ceo-worldwide.com/best-way-to-recruite-top-executives.php), [interim management](http://www.ceo-worldwide.com/interim-management.php), [executive search and Management on Demand™](https://www.ceo-worldwide.com/top-executive-search.php). In this very data sensitive business we operate a strict privacy policy. If you have any queries regarding our privacy policy, please contact Janet Clark at [ceo@ceo-worldwide.com](mailto:ceo@ceo-worldwide.com).
+CEO Worldwide is an executive search firm with focus on international headhunting, interim management, executive search and Management on Demand™. In this very data sensitive business we operate a strict privacy policy. If you have any queries regarding our privacy policy, please contact Janet Clark at [ceo@ceo-worldwide.com](mailto:ceo@ceo-worldwide.com).
 
 * * *
 
