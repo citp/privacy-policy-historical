@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the youarenotaphotographer.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208054847id_/http%3A//youarenotaphotographer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youarenotaphotographer.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606152623id_/http%3A//youarenotaphotographer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « You Are Not a Photographer | Exposing fauxtographers since 2011
-
-## Privacy Policy
+# Privacy Policy | You Are Not a Photographer
 
 ### Privacy Policy
 
@@ -23,7 +21,7 @@ Like many other Web sites, [www.youarenotaphotographer.com](http://www.youareno
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on[www.youarenotaphotographer.com](http://www.youarenotaphotographer.com/).  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to [www.youarenotaphotographer.com](http://www.youarenotaphotographer.com/) and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -[http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html%C2%A0)
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –[http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html%C2%A0)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
