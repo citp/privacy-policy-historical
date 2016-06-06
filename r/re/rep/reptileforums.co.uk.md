@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reptileforums.co.uk privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918215530id_/http%3A//www.reptileforums.co.uk/forums/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reptileforums.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606061659id_/http%3A//www.reptileforums.co.uk/forums/pp.php) for the most accurate reproduction.*
 
 # Reptile Forums
 
