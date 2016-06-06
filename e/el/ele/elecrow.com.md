@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elecrow.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206153158id_/http%3A//www.elecrow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elecrow.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606030736id_/http%3A//www.elecrow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Elecrow bazaar, Make your making more easy
 
