@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oberlin.edu privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221195431id_/http%3A//new.oberlin.edu/home/privacy.dot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oberlin.edu privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606201718id_/http%3A//new.oberlin.edu/home/privacy.dot) for the most accurate reproduction.*
 
-# Privacy Policy - Oberlin College
+# Privacy Policy | Site Tools | Oberlin College
 
 ## OBERLIN COLLEGE’S COMMITMENT TO PRIVACY
 
