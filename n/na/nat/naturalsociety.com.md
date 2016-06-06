@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalsociety.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207151554id_/http%3A//naturalsociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalsociety.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606222717id_/http%3A//naturalsociety.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Natural Society
 
@@ -33,6 +33,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 * * *
 
-[](https://shop.naturalsociety.com/product-category/preparedness)
+[](https://shop.naturalsociety.com/product/essential-survival-tools-lifestraw-personal-water-filter)
 
 * * *
