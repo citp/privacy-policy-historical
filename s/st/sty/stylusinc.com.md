@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylusinc.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916145908id_/http%3A//www.stylusinc.com/BI/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylusinc.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606093409id_/http%3A//www.stylusinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stylusinc- Technology Consultants and Solutions
 
@@ -58,7 +58,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Enforcement**
 
-Stylus Inc.will conduct compliance audits of its relevant privacy practices to verify adherence to our policies. Any employee that Stylus Inc. determines is in violation of its policies will be subject to disciplinary action up to and including termination of employment.
+**Stylus Inc.** will conduct compliance audits of its relevant privacy practices to verify adherence to our policies. Any employee that Stylus Inc. determines is in violation of its policies will be subject to disciplinary action up to and including termination of employment.
 
 **Dispute Resolution**
 
@@ -90,8 +90,7 @@ This policy was last modified on April 20, 2009
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.stylusinc.com
-
+http://www.stylusinc.com  
 Stylus Systems Pvt. Ltd. #924, 5 A Cross I Block, HRBR Layout, Kalyan Nagar  
 Bangalore, Karnataka 560043  
 India  
