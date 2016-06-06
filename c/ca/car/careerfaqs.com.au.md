@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910064442id_/http%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606061139id_/http%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Page | Career FAQs
 
@@ -35,6 +35,14 @@ Where it is practicable and reasonable to do so, Career FAQs will only collect i
 We will not collect or solicit personal information via this site which would be unlawful, unrelated to the functions or activities of Career FAQs, or if we believe the information is unreasonably intrusive.
 
 All Career FAQs members may opt to unsubscribe by email from our site and/or any of our services at any time. Please allow two working days for any unsubscribe requests to come into effect.
+
+We will collect information in order to:
+
+  * Address enquiries or process your enrolment with Career FAQs’ education and training clients.
+  * Offer you personalised and relevant educational information and services to enhance your study and career opportunities.
+  * Provide information on financial subsidies, student support services, or changes to regulations or legislation.
+
+
 
 ###  Use and disclosure of personal information
 
@@ -239,3 +247,22 @@ The information supplied to Career FAQs by applicants is collected for the prima
 **8.1 Republishing your information  **
 
 We will gain your permission to republish any information you provide Career FAQs in your application. 
+
+Survey Giveaway
+
+Your participation in the Career FAQs Survey Giveaway (The Giveaway) shall be deemed as your complete acceptance of the Terms and Conditions herein.
+
+  1. Each entrant shall be entitled to make one (1) entry into The Giveaway only. In the event that Career FAQs deems an entrant to have entered multiple applications or to have acted in bad faith with respect to The Giveaway, the entrant shall be excluded from The Giveaway and consequently ineligible to win the Promotional Prize.
+  2. The Giveaway is only open to entrants who are studying, or have finished studying, an online course, and are Career FAQs subscribers.
+  3. The Promotional Prize will be emailed to you once The Giveaway has ended. Career FAQs shall notify all winners via email within thirty (30) days of The Giveaway.
+  4. Your participation in The Giveaway is considered your agreement that Career FAQs may contact you.
+  5. All entrants who choose to ‘opt-in’ consent to have their contact details (first name, surname, email, city of residence) released to Career FAQs and receive ongoing marketing material and correspondence from Career FAQs.
+  6. The Prize is neither transferrable nor exchangeable and cannot be exchanged for its monetary value.
+  7. Career FAQs’ decision is final with respect to all matters relating to awarding of the Promotional Prize and shall not be subject to review or appeal by any entrant or by any third party.
+  8. By entering The Giveaway each entrant unreservedly agrees to these terms and conditions, which govern The Giveaway and the awarding of the Prize.
+  9. By entering The Giveaway, each entrant agrees to release, discharge and hold harmless Career FAQs, its legal representatives, affiliates, subsidiaries, agencies and their respective officers, directors, employees and agents from any damages whatsoever suffered or sustained in connection with The Giveaway or the acceptance of the Prize.
+  10. The winning entrants shall be solely responsible for any taxes levied in relation to the delivery or receipt of the Promotional Prize.
+  11. Career FAQs reserves the right to alter these Terms and Conditions at any time and in its sole discretion.
+  12. Career FAQs reserves the right, at any time, to cancel, modify or suspend The Giveaway if, in its sole judgment, The Giveaway is not capable of being conducted as specified. 
+
+
