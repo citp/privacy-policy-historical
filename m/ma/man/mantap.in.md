@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mantap.in privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230091553id_/http%3A//mantap.in/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mantap.in privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606100104id_/http%3A//mantap.in/page/privacy-policy) for the most accurate reproduction.*
 
 # Mantap.In
 
