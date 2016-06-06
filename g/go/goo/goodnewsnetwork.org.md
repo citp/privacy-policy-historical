@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the goodnewsnetwork.org privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302112319id_/http%3A//www.goodnewsnetwork.org/gnn-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodnewsnetwork.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195756id_/http%3A//www.goodnewsnetwork.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | About Us
+# Privacy Policy - Good News Network
 
-##  [ Privacy Policy](http://www.goodnewsnetwork.org/about-us/about-us/gnn-privacy-policy.html)
+[Home](http://www.goodnewsnetwork.org/) Privacy Policy
 
-By [Good News Network](http://www.goodnewsnetwork.org/geri/) Friday, February 21, 2014 
-
-[ About Us ](http://www.goodnewsnetwork.org/about-us/) \-  [ About Us ](http://www.goodnewsnetwork.org/about-us/about-us/)
-
-This Privacy Policy governs the manner in which Good News Network collects, uses, maintains and discloses information collected from any "User" of the [www.goodnewsnetwork.org](http://www.generateprivacypolicy.com/account/policies/edit/www.goodnewsnetwork.org) website ("Site"). This privacy policy applies to the Site and all products and services offered by Good News Network.
+This Privacy Policy governs the manner in which Good News Network collects, uses, maintains and discloses information collected from any “User” of the [www.goodnewsnetwork.org](http://www.generateprivacypolicy.com/account/policies/edit/www.goodnewsnetwork.org) website (“Site”). This privacy policy applies to the Site and all products and services offered by Good News Network.
 
 **Personal identification information**
 
@@ -20,23 +16,23 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly, such as the "Remember Me" function.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly, such as the “Remember Me” function.
 
 **How we use collected information**
 
 Good News Network may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To process payments_  
+  * _– To process payments_  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To run a promotion, contest, survey or other Site feature_  
+  * _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
@@ -53,7 +49,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Third party websites**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 **Advertising**
 
@@ -61,7 +57,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [](http://www.google.com/privacy_ads.html)<http://www.google.com/privacy_>ads.html
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 **Changes to this privacy policy**
 
@@ -73,10 +69,11 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Good News Network](http://www.generateprivacypolicy.com/account/policies/edit/www.goodnewsnetwork.org)  
-[www.goodnewsnetwork.org](http://www.generateprivacypolicy.com/account/policies/edit/www.goodnewsnetwork.org)  
-PO Box 428 Manassas, VA 20108  
-[](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy64025%20=%20'gnn'%20+%20'@';%20addy64025%20=%20addy64025%20+%20'goodnewsnetwork'%20+%20'.'%20+%20'org';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy64025%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy64025%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E) [gnn@goodnewsnetwork.org](mailto:gnn@goodnewsnetwork.org)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+[Good News Network  
+](http://www.generateprivacypolicy.com/account/policies/edit/www.goodnewsnetwork.org)[www.goodnewsnetwork.org  
+](http://www.generateprivacypolicy.com/account/policies/edit/www.goodnewsnetwork.org)PO Box 428 Manassas, VA 20108  
+[gnn@goodnewsnetwork.org](mailto:gnn@goodnewsnetwork.org)
 
 This document was last updated on February 21, 2014
