@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killerhiphop.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206134145id_/http%3A//www.killerhiphop.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killerhiphop.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606035150id_/http%3A//www.killerhiphop.com/about/privacy-policy) for the most accurate reproduction.*
 
 # KillerHipHop » Privacy Policy
 
