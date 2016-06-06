@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afterschoolafrica.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206013847id_/http%3A//www.afterschoolafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterschoolafrica.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607002617id_/http%3A//www.afterschoolafrica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | After School Africa
 
@@ -34,7 +34,11 @@ www.afterschoolafrica.com has no access to or control over these cookies that ar
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.afterschoolafrica.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. .
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+ **Google Analytics**
+
+This website uses Google analytics to track the visitors’ geographical location, device being used to access the website, public links being accessed by the user, time duration being spent on the website just with the intentions to provide better performance, content and user experience to the visitors.
 
  **Order and Purchase**
 
@@ -43,6 +47,16 @@ If you are making order to purchase any product or service from us, any personal
  **Email and RSS Subscription**
 
 This site allows visitors to sign up for a free updates by providing an email address. The email address you provide is used only to send you the free information, and you can unsubscribe by clicking a link in any issue of the update.
+
+ **About our Content**
+
+The content on this site is copyrighted by AfterSchoolAfrica and any author or user or any 3rd party does not have any right over the same. While most of the programs we publish are openly available online, the content is purely the output of our research team, our content sharing network and the contribution from our members.
+
+We encourage our members to use our content to share and promote opportunities and possibilities in education and development to increase the knowledge.
+
+The content must not be used for 3rd party commercial purpose by any other party except for AfterSchoolAfrica or by a person/organization authorized by AfterSchoolAfrica in writing.
+
+The content doesn’t support any individual or any organization or any product of any other party. The content is not intended to hurt any individuals’, groups’, organizations’ nor anybody’s moral, religious or ethical beliefs.
 
  **External Links**
 
