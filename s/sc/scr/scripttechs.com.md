@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripttechs.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141625id_/http%3A//scripttechs.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripttechs.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606223220id_/http%3A//scripttechs.com/policy) for the most accurate reproduction.*
 
 # core.privacy_policy
 
@@ -28,7 +28,7 @@ We use return email addresses to answer the email we receive. Such addresses are
 
 You can register with our website if you would like to receive our newsletter as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. We do use Google Analytics and [Mandrill](http://mandrill.com/) (transactional email service) on this site. Each of those has SEO tools and analytics to see regions and other non personal information. 
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. We do use Google Analytics and [SparkPost](http://sparkpost.com/) (transactional email service) on this site. Each of those has SEO tools and analytics to see regions and other non personal information. 
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
@@ -54,4 +54,4 @@ Similar to other commercial web sites, our web site utilizes a standard technolo
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please [let us know](http://scripttechs.com/contact). 
+Should you have other questions or concerns about these privacy policies, please [let us know](https://bryzar.zendesk.com/hc/en-us). 
