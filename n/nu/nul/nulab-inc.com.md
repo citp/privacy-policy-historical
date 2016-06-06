@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nulab-inc.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207174838id_/http%3A//nulab-inc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nulab-inc.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606062007id_/https%3A//nulab-inc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Nulab Inc.
 
@@ -21,8 +21,21 @@ Cookies are small pieces of data that are transferred between a Web server and y
 
 We mainly use Cookies for the following purposes.
 
-When you use the service, you do not enter a password every time.  
-If you disable the function of Cookies by choosing the browser's configuration, this may result in you not being able to use all or part of the service on web site.
+  * When you use the service, you do not enter a password every time.
+  * On our websites and services, we use Cookies to deliver personalized experiences to our customers.
+  * Cookies are used for analytic practices to help us understand our customers' activities in our services.
+
+
+
+You may disable the function of Cookies by choosing the browser's configuration. Please note that this may result in you not being able to use all or part of the service on websites.
+
+## Tracking system by authorized third-parties
+
+To enhance your experiences on our websites, we use Cookies and other technologies to track your activities on our websites and services. With our own servers or third-parties services, we collect informations such as the date you have accessed our websites, the website you have visited before reaching to our websites, your browser, OS, IP address, and the domain name. To analyze your activities in our websites, we may use third-party service providers' services.
+
+## Emails
+
+From time to time, we may send out emails for promotion purposes to announce our services, functions, researches, news, promotions, contests, and events. Our customers may opt-out of receiving these emails. We may use a third-party service provider to send out emails or to communicate smoothly with our customers. For a smoother communication, we may share information, such as your email address, to the service provider for this limited purpose only.
 
 ## Regarding SSL
 
@@ -36,7 +49,20 @@ On our website, we record the information of accessing users in the form of an a
 
 The content recorded on access log includes the access date and time, domain names, IP addresses of users, types of browser, but this record is not used in conjunction with personal information. It is used as server operation information to assist in improving service.
 
+## Privacy policy amendment
+
+We may amend the entire or any portion/s of our privacy policy. In case of major update, we will notice our customers in appropriate places and/or by appropriate means. The updated privacy policy will go into effect on the date that is posted on this web page.
+
 June 1st, 2005 Enacted  
 June 1st, 2009 Amended  
+January 7th, 2016 Amended  
 Nulab Inc.  
 President Masanori Hashimoto
+
+* * *
+
+## Updates:
+
+  * [June 1st, 2009](https://nulab-inc.com/privacy/v20090601/)
+
+
