@@ -1,31 +1,49 @@
-> *The following text is extracted and transformed from the introvertdear.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207122848id_/http%3A//introvertdear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the introvertdear.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606192534id_/http%3A//introvertdear.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Introvert, Dear
+# Privacy policy and affiliate disclosures - Introvert, Dear
 
-**Effective: July 21, 2014**
+The content of IntrovertDear.com is for general information purposes only and does not constitute professional advice. Readers should understand that most of our contributors are not licensed professionals, and we encourage you to seek appropriate council before acting on any of our advice.
 
-Introvertdear.com is committed to protecting your privacy when you visit our website. You can access Introvertdear.com and browse our site without disclosing any of your personal data. Introvertdear.com does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless it is knowingly provided by the individual and he or she has agreed to the terms under which Introvertdear.com will use it.
+#### How personal information is used
 
-**Disclosure of Information**  
-Introvertdear.com will not sell, trade, or rent your personal information to others. We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. We may use IP addresses and cookies to compile and provide aggregate statistics about our visitors and traffic patterns. For example, we may collect information about your online behavior, your computer, or your mobile device. Such information may include, without limitation, the type of browser and operating system you are using, the domain name of your Internet service provider, your geographic location, the pages you visit, how long you visit each page, the unique number assigned to your server or Internet connection, etc. This statistical information may also be related to third parties, but these statistics will not include any personally identifying information. We collect only the personal data that you may volunteer while using our website. We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.
+This blog does not share personal information with third parties nor do we store any information about your visit to this blog other than to analyze and optimize your content and reading experience through the use of cookies.
 
-If you do not want to have your information used in this way, send an e-mail message containing your name and email address to introvertdear@gmail.com. Introvertdear.com may release account information when such release is reasonably necessary to comply with the law; enforce the terms of any of our user agreements; or protect the rights, property, and safety of Introvertdear.com, the users of its site, or others.
+You can turn off the use of cookies at anytime by changing your specific browser settings.
 
-You can change some of your privacy preferences through your browser. For example, you can delete browser cookies from your computer or set your browser to reject browser cookies. However, doing so may limit some functionalities of our site. For additional information about browser privacy preferences, please consult the “Help” section of your browser.
+We are not responsible for republished content from this blog on other blogs or websites without our permission.
 
-**External Web Sites**  
-Please note that Introvertdear.com contains links to other web sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage our users to be aware that when they leave our site that you read the privacy statements of each web site that might collect personally identifying information.
+This privacy policy is subject to change without notice and was last updated on February 15, 2016. If you have any questions feel free to contact Jenn Granneman directly by emailing her at introvertdear@gmail.com.
 
-This privacy statement applies solely to information collected by Introvertdear.com. If you have any questions or concerns about our privacy policy, please contact: introvertdear@gmail.com.
+#### Use of Google Adsense
 
-**Persons Under 18**
+Google AdSense is an advertising service provided by Google. IntrovertDear.com uses the “Doubleclick” Cookie, which tracks use of IntrovertDear.com and user behavior concerning ads, products, and the services we offer. The cookie enables Google and its partners to serve ads to you based on your visits to IntrovertDear.com and/or other sites on the Internet.
 
-Our site is not intended for persons under age 18 and we do not knowingly collect personal information from persons under 18. If you are the parent or guardian of a person under 18 and believe that he or she has provided personal information to us, please contact us at introvertdear@gmail.com.
+You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
 
-**Visitors Outside of the United States**
+Personal Data collected: Cookie and Usage Data. Place of processing: USA. You can find the AdSense [Privacy Policy](http://google.com/privacy/ads/) here.
+
+#### External web sites
+
+Please note that IntrovertDear.com contains links to other websites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage our users to be aware that when they leave our site that you read the privacy statements of each web site that might collect personally identifying information.
+
+This privacy statement applies solely to information collected by IntrovertDear.com. If you have any questions or concerns about our privacy policy, please contact: introvertdear@gmail.com.
+
+####  Visitors outside of the United States
 
 Our business is located in the United States, which may not offer a level of privacy protection as great as that offered in other jurisdictions. We make no representation that the practices described in this privacy policy are compliant with laws outside of the United States. Any information that you provide to us may be transferred to and processed in the United States. By using this site, you consent to your information being collected, used, and transferred as disclosed herein.
 
-**Revisions to this Privacy Policy**
+####  Affiliate disclosure
+
+In accordance with the latest FTC guidelines, we declare that we have a financial or mutually beneficial relationship with some of the brands or products mentioned on this site.
+
+IntrovertDear.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](http://www.amazon.com/).
+
+We are also an affiliate of [Personality Hacker](http://www.personalityhacker.com/) and [Quistic](http://www.quistic.com/). That means when you click on a link to their site from IntrovertDear.com and purchase one of their products, IntrovertDear.com is paid a commission.
+
+We only recommend products we personally believe in and think will be helpful to you, our readers.
+
+By using our site, you consent to this privacy policy and disclosure statements.
+
+#### Revisions to this privacy policy
 
 We may revise this privacy policy from time-to-time in our sole discretion. Please visit this site and review our privacy policy periodically for changes. By continuing to access or use our site after changes become effective, you agree to be bound by the terms of the revised privacy policy.
