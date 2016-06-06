@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homepath.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109145046id_/http%3A//www.fanniemae.com/portal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepath.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606111041id_/http%3A//www.fanniemae.com/portal/privacy-statement.html) for the most accurate reproduction.*
 
 # Online Privacy Notice | Fannie Mae
 
@@ -81,4 +81,4 @@ Washington, DC 20016 
 E-mail:  
 [Privacy_WorkingGroup@fanniemae.com](https://web.archive.org/portal/jsp/contact-us-form.html?emailID=ten)
 
-Effective date: January 1, 2014
+Effective date: January 1, 2014
