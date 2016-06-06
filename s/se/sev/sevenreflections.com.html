@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the sevenreflections.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207033023id_/http%3A//www.sevenreflections.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sevenreflections.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606185353id_/http%3A//www.sevenreflections.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta charset="utf-8">
-       <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+<!--[if IE]>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+		<meta http-equiv="Content-Language" content="en-us" />
+	<![endif]-->
 	    <title>Seven Reflections Privacy</title>  
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Seven Reflections Privacy">	
@@ -22,11 +23,8 @@
     <meta property="og:description" content="Seven Reflections Privacy">
 
     <!-- Custom styles for this template -->
-    <link href="http://www.sevenreflections.com/css/bootstrap.css" rel="stylesheet">
-    <link href="http://www.sevenreflections.com/css/color-styles.css" rel="stylesheet">
-    <link href="http://www.sevenreflections.com/css/ui-elements.css" rel="stylesheet">
-    <link href="http://www.sevenreflections.com/css/custom.css" rel="stylesheet">
-  <link href="http://www.sevenreflections.com/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  
+   <link href="https://www.sevenreflections.com//css/incorporate.css" rel="stylesheet">  
     
 
 
@@ -150,10 +148,10 @@
              <ul class="dropdown-menu">
              <li class="nav-item"><a href="http://www.sevenreflections.com/predictions/daily/">Daily Predictions</a></li>
                           
-             <li class="nav-item"><a href="http://www.sevenreflections.com/predictions/horoscope/2015/12/">Monthly Predictions</a></li>
+             <li class="nav-item"><a href="http://www.sevenreflections.com/predictions/horoscope/2016/6/">Monthly Predictions</a></li>
              <li class="nav-item"><a href="http://www.sevenreflections.com/monthlyreading/">Monthly Cards Calendar</a></li>
                
-             <li class="nav-item"><a href="http://www.sevenreflections.com/predictions/horoscope/2015/">Yearly Predictions</a></li>
+             <li class="nav-item"><a href="http://www.sevenreflections.com/predictions/horoscope/2016/">Yearly Predictions</a></li>
              <li class="nav-item"><a href="http://www.sevenreflections.com/catalog/destiny-reading/2/">Destiny Predictions</a></li>
              <li class="nav-item"><a href="http://www.sevenreflections.com/destinybook/">Destiny Book Predictions</a></li>
              <li class="nav-item"><a href="http://www.sevenreflections.com/tools/">All Free Calculators</a></li>
@@ -244,7 +242,7 @@ This privacy policy was last updated on February 10, 2014. Our privacy policy ma
 <br><br><br><br>
 
 	
-	</div></div> <!-- / .wrapper -->
+	</div></div> 
 </div></div></div>
   
    <!-- Footer -->
@@ -336,7 +334,7 @@ This privacy policy was last updated on February 10, 2014. Our privacy policy ma
         <!-- Copyrights -->
         <div class="row">
           <div class="col-sm-12" style="font-size:12px;">
-            <p> © SevenReflections.com 2015 &nbsp;&nbsp; <a href="http://www.sevenreflections.com/privacy/">Privacy Policy</a> &nbsp;&nbsp; <a href="http://www.sevenreflections.com/terms/">Terms of Service</a>&nbsp;&nbsp; <a href="http://www.sevenreflections.com/contacts/">Contacts</a></p>
+            <p> © SevenReflections.com 2016 &nbsp;&nbsp; <a href="http://www.sevenreflections.com/privacy/">Privacy Policy</a> &nbsp;&nbsp; <a href="http://www.sevenreflections.com/terms/">Terms of Service</a>&nbsp;&nbsp; <a href="http://www.sevenreflections.com/contacts/">Contacts</a></p>
           </div>
         </div></div>
     </footer>
@@ -369,13 +367,13 @@ $("#t_logoff").click(function(e){
 			e.preventDefault();				
 				$.ajax({
 								type: "POST",
-								url: "http://www.sevenreflections.com/logoff.php",
+								url: "http://www.sevenreflections.com/catalog/logoff.php",
 								data: {},               
 								//dataType: "JSON",
 								beforeSend:function(data, textStatus, XMLHttpRequest) {
 									//$("#search_view").html("<div align=\"center\"><img src=\"http://www.sevenreflections.com/catalog/images/ajax-loader1.gif\" style=\"margin:10px 0 10px 0\"></div>");  									
 							   },                                     	
-								success: function(data, textStatus, XMLHttpRequest) {	
+								success: function(data, textStatus, XMLHttpRequest) {								
 								Delete_Cookie("customers_id",  "/", "www.sevenreflections.com");
 								Delete_Cookie("PHPSESSID",  "/", "www.sevenreflections.com");							
 									$("#t_logoff").hide();
