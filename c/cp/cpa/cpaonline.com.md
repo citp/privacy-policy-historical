@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cpaonline.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142509id_/http%3A//findaccountingsoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaonline.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606060549id_/http%3A//findaccountingsoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Find Accounting Software
+
+[](https://web.archive.org/)
 
 Find Accounting Software is committed to protecting the privacy of our visitor's personally identifiable information. To better protect our users, we openly provide our information handling practices as listed below.
 
@@ -38,7 +40,7 @@ Personal Data is collected for the following purposes and using the following se
 
   1. ### Advertising
 
-These services allow User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests. This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below. Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.
+These services allow User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests. This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below. Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the Userâ€™s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.
 
     * #### AdRoll (Semantic Sugar, Inc.)
 
@@ -46,7 +48,7 @@ AdRoll is an advertising service provided by Semantic Sugar, Inc.
 
 Personal Data collected: Cookie and Usage Data.
 
-Place of processing: USA – [Privacy Policy](http://www.adroll.com/about/privacy)
+Place of processing: USA â€“ [Privacy Policy](http://www.adroll.com/about/privacy)
 
   2. ### Analytics
 
@@ -54,15 +56,15 @@ The services contained in this section enable the Owner to monitor and analyze w
 
     * #### Google Analytics (Google)
 
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+Google Analytics is a web analysis service provided by Google Inc. (â€œGoogleâ€). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
 Personal Data collected: Cookie and Usage Data.
 
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+Place of processing: USA â€“ [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
 
   3. ### Contacting the user
 
-By filling in the contact form with their Data, the Users authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
+By filling in the contact form with their Data, the Users authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the formâ€™s header.
 
 Personal Data collected: Company name, Email, First Name, Last Name, Phone number, Profession and ZIP/Postal code.
 
@@ -76,11 +78,11 @@ Optimizely is an A/B testing service provided by Optimizely, Inc.
 
 Personal Data collected: Cookie and Usage Data.
 
-Place of processing: USA – [Privacy Policy](http://www.optimizely.com/privacy)
+Place of processing: USA â€“ [Privacy Policy](http://www.optimizely.com/privacy)
 
   5. ### Interaction with external social networks and platforms
 
-These services allow interaction with social networks or other external platforms directly from the pages of this Application. The interaction and information obtained by this Application are always subject to the User’s privacy settings for each social network. If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it.
+These services allow interaction with social networks or other external platforms directly from the pages of this Application. The interaction and information obtained by this Application are always subject to the Userâ€™s privacy settings for each social network. If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it.
 
     * #### Facebook Like button and social widgets (Facebook)
 
@@ -88,7 +90,7 @@ The Facebook Like button and social widgets are services allowing interaction wi
 
 Personal Data collected: Cookie and Usage Data.
 
-Place of processing: USA – [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
+Place of processing: USA â€“ [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
 
     * #### Google+ +1 button and social widgets (Google)
 
@@ -96,7 +98,7 @@ The Google+ +1 button and social widgets are services allowing interaction with 
 
 Personal Data collected: Cookie and Usage Data.
 
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+Place of processing: USA â€“ [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
 
     * #### Linkedin button and social widgets (Linkedin)
 
@@ -104,7 +106,7 @@ The Linkedin button and social widgets are services allowing interaction with th
 
 Personal Data collected: Cookie and Usage Data.
 
-Place of processing: USA – [Privacy Policy](http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv)
+Place of processing: USA â€“ [Privacy Policy](http://www.linkedin.com/static?key=privacy_policy&trk=hb_ft_priv)
 
     * #### Twitter Tweet button and social widgets (Twitter)
 
@@ -112,7 +114,7 @@ The Twitter Tweet button and social widgets are services allowing interaction wi
 
 Personal Data collected: Cookie and Usage Data.
 
-Place of processing: USA – [Privacy Policy](http://twitter.com/privacy)
+Place of processing: USA â€“ [Privacy Policy](http://twitter.com/privacy)
 
   6. ### Remarketing and Behavioral Targeting
 
@@ -126,7 +128,7 @@ For the opt-out: <http://google.com/settings/ads/onweb/optout?hl=en>
 
 Personal Data collected: Cookie and Usage Data.
 
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+Place of processing: USA â€“ [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
 
     * #### Google Analytics for Display Advertisers (Google)
 
@@ -136,7 +138,7 @@ For the opt-out: <http://google.com/settings/ads/onweb/optout?hl=en>.
 
 Personal Data collected: Cookie and Usage Data.
 
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+Place of processing: USA â€“ [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
 
 
 
