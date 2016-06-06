@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the viralalternativenews.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115151344id_/http%3A//www.viralalternativenews.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralalternativenews.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606093127id_/http%3A//www.viralalternativenews.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Viral Alternative News: Privacy Policy
 
 **Privacy Policy**
 
-This Privacy Policy governs the manner in which Buy Non-GMO Seeds collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.viralalternativenews.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Viral Alternative News.
+This Privacy Policy governs the manner in which Viral Alternative News collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.viralalternativenews.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Viral Alternative News.
 
 **Personal identification information:**
 
@@ -60,7 +60,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:<br />
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 Viral Alternative News
 
