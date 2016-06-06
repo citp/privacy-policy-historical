@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historyvshollywood.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207044404id_/http%3A//www.historyvshollywood.com/read/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyvshollywood.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606235949id_/http%3A//www.historyvshollywood.com/read/privacy) for the most accurate reproduction.*
 
 # History vs. Hollywood Privacy Policy
 
