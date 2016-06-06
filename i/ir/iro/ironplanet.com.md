@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the ironplanet.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206115601id_/http%3A//www.ironplanet.com/pop/terms_page.jsp%3Fid%3D4%26noh1%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironplanet.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606151605id_/http%3A//www.ironplanet.com/pop/terms_page.jsp%3Fid%3D4%26noh1%3Dyes) for the most accurate reproduction.*
 
 # IronPlanet - Terms and Conditions
 
-  
 | 
 
 | **Site Usage  
