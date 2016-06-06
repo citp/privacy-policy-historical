@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sainsburysenergy.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207134244id_/http%3A//www.sainsburysenergy.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sainsburysenergy.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606174943id_/http%3A//www.sainsburysenergy.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--[if lt IE 7 ]> <html class="no-js ie6"> <![endif]--><!--[if IE 7 ]>    <html class="no-js ie7"> <![endif]--><!--[if IE 8 ]>    <html class="no-js ie8"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--><!--<![endif]--><head>
  
@@ -174,6 +174,8 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 
 
 
+
+   
  
 
 
@@ -182,134 +184,253 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 
 
 
+   
 
-  <script>
-var currentsearchform="#site-search-form3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8";
-</script>
-      <div class="topsrch fleft">
-        <form role="search" id="site-search-form3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8">
-            <fieldset>
-                <label for="site-search-input3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8" class="displaynone">Search</label>        
-                <legend class="displaynone">Search</legend>
-                <input type="text" name="site_search" class="site_search srchbox fleft ac_input" id="site-search-input3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8" title="Search" value="Search" autocomplete="off">
-                <input type="image" class="fleft site-search-submit" alt="Search" title="Search" src="/etc/designs/centrica/sainsbury/images/btn-search-input.png" id="site-search-submit3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8">
-                <input id="uri" type="hidden" name="uri" value="/SiteSearch/">
-             </fieldset>            
-        </form>         
-    </div>
-    
-
- <script type="text/javascript">
-       var arrayofjson =[];
-       var siteSearchURL ="";
-       var searchindex;
-       var searchText;
-       if(siteSerchValues==undefined)
-       var siteSerchValues=[];
-       $(document).ready(function(){
-           searchindex=$(".site_search").index($(currentsearchform+" .site_search"));
-          
-        $(".site-search-submit").click(function(e){
-            e.preventDefault();
-            searchText = $(this).prev('.site_search').val();
-            sitesearchResult(searchText);
-           
-        });
-    
-     
-       $('.site_search').keypress(function(e){
-            if(e.which==13) {
-                e.preventDefault();
-                searchText = $(this).val();
-                sitesearchResult(searchText);
-                return false;
+<div class="topsrch fleft">
+    <form id="newSearchFormSmall" name="newSearchFormSmall" action="/SiteSearch/" method="get">    
+        <fieldset>
+            <label for="searchtermsmall" class="displaynone">Search</label>        
+            <legend class="displaynone">Search</legend>
+            <input type="text" autocomplete="off" name="queryString" id="searchtermsmall" maxlength="" value="Search" class="srchbox fleft ui-autocomplete-input" aria-describedby="" aria-required="true" role="textbox" aria-autocomplete="list" aria-haspopup="true">
               
-            }
-        });
-
-
-       $('.site_search').click(function(e){
-           if ($(this).val()=='Search') {
+             <input type="hidden" value="Search" name="smallMediumPlaceholderH" id="smallMediumPlaceholderH">           
+             <input type="hidden" value="UTF-8" name="_charset_" id="_charset_">
+             <input type="hidden" value="sainsbury" name="brand" id="sitesearchbrand">             
+            <button type="submit" title="Search" class="newSearchButtonSmall fleft"> </button> 
+            
+         </fieldset>
+    </form>
+</div>      
+<div class="cb"></div>
+    <div id="searchtermsmallresult"> 
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></div>  
+    <script type="text/javascript">
+      
+ $(document).ready(function(){ 
+ var defaultMsgLarge = $("#largePlaceholderH").val();
+ var defaultMsgSmallMedium = $("#smallMediumPlaceholderH").val();
+ //console.log("defaultMsgLarge = "+ defaultMsgLarge);
+ //console.log("defaultMsgSmallMedium = "+ defaultMsgSmallMedium );
+    //small and medium search boxes
+    $('#searchtermsmall, #searchtermmedium').click(function(e){
+           if ($(this).val()==defaultMsgSmallMedium ) {
                 $(this).val('');
             }
        });
 
-
-       $('.site_search').focus(function(e){
-           if ($(this).val()=='Search') {
+    $('#searchtermsmall, #searchtermmedium').focus(function(e){
+           if ($(this).val()==defaultMsgSmallMedium) {
                $(this).val('').css("color","black" );
                } 
            return false;
-       });
-
-
-       $('.site_search').blur(function(e){
+    });
+    
+    $('#searchtermsmall, #searchtermmedium').blur(function(e){
            if ($(this).val()=='') {
-               $(this).val('Search').css("color","#999999" );
+               $(this).val(defaultMsgSmallMedium).css("color","#999999" );
                return false;
               }
-       });
+       });     
        
-       });
+    //logic for the small submit btn
+    $(".newSearchButtonSmall, .newSearchButtonSmallTablet").click(function(e){
+       if ( ($("#searchtermsmall").val() == defaultMsgSmallMedium) || ($("#searchtermsmall").val() == ' ') )
+           {
+               e.preventDefault();
+           }
+    });
        
-       function sitesearchResult(searchString) {
-            var uri = $("#uri").val();
-            searchString = replaceAll(searchString," ","+");
-            searchString = uri + "?q=" + searchString + '&_charset_=UTF-8';
-            siteSearchURL="";
-            siteSearchURL =  siteSearchURL + searchString;
-            window.location.href=siteSearchURL ;         
-        }
-    
-     function replaceAll(source,findString,replaceString){
-        var temp = source;
-        if(source != null && source != "undefined") {
-        var index = temp.indexOf(findString);
-          while(index != -1){
-              temp = temp.replace(findString,replaceString);
-              index = temp.indexOf(findString);
-          }
-          return temp;
-          }
-      }
+    //logic for the medium submit btn   
+     $("#siteSearchSubmitMedium").click(function(){
+        if ( ($("#searchtermmedium").val() != '') && ($("#searchtermmedium").val() != defaultMsgSmallMedium) ){
+           $("#searchtermsmall").val($("#searchtermmedium").val());           
+            $( "#newSearchFormSmall").submit();                
+           }      
+     });     
 
-
-     var dd=0;
-    
-     var url = "/content/sysadmin/sainsbury/sitesearch/_jcr_content.infinity.json";
-    $.ajaxSetup({ async: false });
-    $.getJSON(url, function(data) {
-         $.each(data, function(i, node) {
-             if(i.match(/^sitesearch*/)){
-                 $.each(node, function(j, childnode) {
-                     if(j=="authoradds"){
-                         if(typeof(childnode)=="object"){
-                             for(k=0;k<childnode.length;k++)
-                                 arrayofjson[dd++]=(childnode[k]);
-                         }
-                         else
-                             arrayofjson[dd++]=(childnode);
-                     }
-                 });
-             }
-         });
-         var searchindex=$(".site_search").index($(currentsearchform+" .site_search"));
-         siteSerchValues[searchindex]=arrayofjson;
-         
-    });
-
-    $(document).ready(function() {
-        $("body").removeAttr("onload");
-    });
-
-
-</script>
-         
-
+   //logic for the large search box on h&a only
+    if( $("input[name='defaultFilter']").val() == "HelpAndAdvice" ){ 
+         if ( $('#searchtermlarge').val() == ''){
+            $('#searchtermlarge').val(defaultMsgLarge).css("color","#999999" );
+         }
         
+         $('#searchtermlarge').click(function(e){
+               if ($(this).val()=='defaultMsgLarge ') {
+                    $(this).val('');
+                }
+           });
+
+           $('#searchtermlarge').focus(function(e){
+               if ($(this).val() == defaultMsgLarge) {
+                   $(this).val('').css("color","black" );
+                   } 
+               return false;
+           });
+
+        $('#searchtermlarge').blur(function(e){
+               if ($(this).val()=='') {
+                   $(this).val(defaultMsgLarge).css("color","#999999" );
+                   return false;
+                  }
+           }); 
+    }
+    
+    //logic for the large submit btn
+    $("#siteSearchSubmit").click(function(e){
+       if ( ($("#searchtermlarge").val() == '') || ($("#searchtermlarge").val() == defaultMsgLarge ) )
+           {
+              e.preventDefault();
+           }
+    });    
+      
+   //logic for the filters
+    if($("#entireSite").attr("checked")==true){
+        $("#saveAndCreateH").val("");
+        $("#productsAndServicesH").val("");
+        $("#helpAndAdviceH").val("");
+        //$("#videosH").val("");
+    } 
+   
+    if($("#saveAndCreate").attr("checked")==true){
+        $("#saveAndCreateH").val("saveAndCreate");
+    }
+       
+    if($("#productsAndServices").attr("checked")==true){
+        $("#productsAndServicesH").val("ProductsAndService");
+    }
+
+    if($("#helpAndAdvice").attr("checked")==true){
+        $("#helpAndAdviceH").val("HelpAndAdvice");
+    }
+
+
+   /* if($("#videos").attr("checked")==true){
+        $("#videosH").val("video");
+    }    */ 
+
+
+   $("#entireSite").change(function() {
+
+        enableDisableFilter($(this));            
+        $("#saveAndCreateH").val("");
+        $("#productsAndServicesH").val("");
+        $("#helpAndAdviceH").val("");
+        //$("#videosH").val("");           
+        updateFilters("entireSite", "entireSiteH"); 
+        $("#newSearchFormId").submit();
+    });
+    
+    $("#helpAndAdvice").change(function() {
+
+        enableDisableFilter($(this));
+        $("#entireSiteH").val("");
+        $('#entireSite').attr('checked', false);
+        updateFilters("helpAndAdvice", "helpAndAdviceH"); 
+        $("#newSearchFormId").submit();
+    });
+    
+    $("#saveAndCreate").change(function() {
+    
+
+        enableDisableFilter($(this));
+        $("#entireSiteH").val("");
+        $('#entireSite').attr('checked', false);
+        updateFilters("saveAndCreate", "saveAndCreateH"); 
+        $("#newSearchFormId").submit();
+    });
+     
+    $("#productsAndServices").change(function() {
+    
+
+        enableDisableFilter($(this));
+         $("#entireSiteH").val("");
+              $('#entireSite').attr('checked', false);
+           updateFilters("productsAndServices", "productsAndServicesH"); 
+           $("#newSearchFormId").submit();
+    });
+    
+    $("#videos").change(function() {
+    
+
+        enableDisableFilter($(this));
+        $("#entireSiteH").val("");
+        $('#entireSite').attr('checked', false);
+        //updateFilters("videos", "videosH");   
+        $("#newSearchFormId").submit();
+    });         
+} );
+    
+
+//BGB 404 Page unavailable starts
+         if ( $('#pageUnavailablemessage #searchtermlarge').val() == ''){
+            $('#pageUnavailablemessage #searchtermlarge').val(defaultMsgLarge).css("color","#999999" );
+         }
+        
+         $('#pageUnavailablemessage #searchtermlarge').click(function(e){
+               if ($(this).val()=='defaultMsgLarge ') {
+                    $(this).val('');
+                }
+           });
+
+           $('#pageUnavailablemessage #searchtermlarge').focus(function(e){
+               if ($(this).val() == defaultMsgLarge) {
+                   $(this).val('').css("color","#000" );
+                   } 
+               return false;
+           });
+
+        $('#pageUnavailablemessage #searchtermlarge').blur(function(e){
+               if ($(this).val()=='') {
+                   $(this).val(defaultMsgLarge).css("color","#999999" );
+                   return false;
+                  }  
+           });
+    //BGB 404 Page unavailable ends
+         
+   // document ready ends
+    function updateFilters(checkID, hiddenID){
+    
+
+       
+        if($("#"+checkID).attr("checked")==true)
+        {
+                $("#"+hiddenID).val($("#"+checkID).val());   
+        }
+        else
+        {
+                $("#"+hiddenID).val("");
+        }
+    }
+    
+    function entireSiteCheck(){
+        if ($("#helpAndAdvice").not(':checked') && $("#saveAndCreate").not(':checked') && 
+                $("#productsAndServices").not(':checked')) {       
+            $('#entireSite').attr('checked', true);
+        }
+    }
+     
+    function enableDisableFilter(checkbox) {
+        if ($(checkbox).val() == '') {
+            $('#helpAndAdvice').attr('checked', false);
+            $('#saveAndCreate').attr('checked', false);
+            $('#productsAndServices').attr('checked', false);
+        
+        } else if ($(checkbox).val() == 'HelpAndAdvice' || $(checkbox).val() == 'SaveAndCreate'
+                    || $(checkbox).val() == 'ProductsAndService' ) {       
+            $('#entireSite').attr('checked', false);
+        }
+    } 
+</script>   
+
+      
  
    
-    </div>
+    
+
+
+
+
+ <input type="hidden" id="brandNameforSearch" value="sainsbury">  </div>
 
 </div>
 
@@ -539,21 +660,8 @@ var currentsearchform="#site-search-form3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8";
                    
                                 
                 <li role="presentation">
-                    <a class="" role="menuitem" title="Collect points" href="/products-and-services/nectar/collect-points.html">
-                        Collect points
-                    </a>                    
-                </li> 
-                
-                  
-            
-             
-                 
-                  
-                   
-                                
-                <li role="presentation">
-                    <a class="" role="menuitem" title="Terms and conditions" href="/products-and-services/nectar/terms-and-conditions.html">
-                        Terms and conditions
+                    <a class="" role="menuitem" title="Terms &amp; conditions" href="/content/dam/Sainsbury/Documents/PDFs/SE-Nectar-TandC.pdf">
+                        Terms &amp; conditions
                     </a>                    
                 </li> 
                 
@@ -673,57 +781,6 @@ var currentsearchform="#site-search-form3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8";
                   
             
         </ul> 
-    
-  
-  </div>
-</div>
-
-
-
-
- 
-            
-          
-    
-</div>
-<div class="menulinks section">  
-   
-
-
-        
-         
-            
-            
-            
-            
-            
-                     
-
-
-
-
-
-
-
-
-
- 
-
-<div class="mega-column "> 
-    <div class="mega-column-content"> 
-
-
-            
-             
-                 
-                 <h3>  
-                <a class="" role="menuitem" title="Exclusive Offers" href="/products-and-services/exclusive-offers.html">Exclusive Offers</a>
-                  </h3> 
-                
-                      
-                     
-             
-          
     
   
   </div>
@@ -1385,7 +1442,7 @@ var currentsearchform="#site-search-form3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8";
              
                  
                  <h3>  
-                <a class="" role="menuitem" title="Nectar" href="/helpandadvice/nectar.html">Nectar</a>
+                <a class="" role="menuitem" title="Meters &amp; meter readings" href="/helpandadvice/meter.html">Meters &amp; meter readings</a>
                   </h3> 
                 
                       
@@ -1401,8 +1458,21 @@ var currentsearchform="#site-search-form3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8";
                    
                                 
                 <li role="presentation">
-                    <a class="" role="menuitem" title="How do I collect Nectar points with Sainsbury's Energy?" href="/helpandadvice/nectar/how-do-i-collect-nectar-points-with-sainsburys-energy.html">
-                        How do I collect Nectar points with Sainsbury's Energy?
+                    <a class="" role="menuitem" title="How do I read my meter?" href="/helpandadvice/meter/how-do-i-read-my-meter.html">
+                        How do I read my meter?
+                    </a>                    
+                </li> 
+                
+                  
+            
+             
+                 
+                  
+                   
+                                
+                <li role="presentation">
+                    <a class="" role="menuitem" title="I'm having problems with my meter. What do I do?" href="/helpandadvice/meter/i-am-having-problems-with-my-meter.html">
+                        I'm having problems with my meter. What do I do?
                     </a>                    
                 </li> 
                 
@@ -1553,7 +1623,7 @@ var currentsearchform="#site-search-form3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8";
              
                  
                  <h3>  
-                <a class="" role="menuitem" title="Moving home" href="/helpandadvice/moving-home.html">Moving home</a>
+                <a class="" role="menuitem" title="Your online account" href="/helpandadvice/your-online-account.html">Your online account</a>
                   </h3> 
                 
                       
@@ -1569,8 +1639,8 @@ var currentsearchform="#site-search-form3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8";
                    
                                 
                 <li role="presentation">
-                    <a class="" role="menuitem" title="Can Sainsbury's Energy supply my new address?" href="/helpandadvice/moving-home/supplying-your-new-address.html">
-                        Can Sainsbury's Energy supply my new address?
+                    <a class="" role="menuitem" title="I want to register for an online account?" href="/helpandadvice/your-online-account/i-want-to-register-for-an-online-account.html">
+                        I want to register for an online account?
                     </a>                    
                 </li> 
                 
@@ -1582,8 +1652,8 @@ var currentsearchform="#site-search-form3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8";
                    
                                 
                 <li role="presentation">
-                    <a class="" role="menuitem" title="Moving home - What you need to do" href="/helpandadvice/moving-home/moving-home-what-you-need-to-do.html">
-                        Moving home - What you need to do
+                    <a class="" role="menuitem" title="How do I submit a meter reading online?" href="/helpandadvice/your-online-account/how-do-i-submit-a-meter-reading-online.html">
+                        How do I submit a meter reading online?
                     </a>                    
                 </li> 
                 
@@ -1640,7 +1710,7 @@ var currentsearchform="#site-search-form3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8";
              
                  
                  <h3>  
-                <a class="" role="menuitem" title="Meters &amp; meter readings" href="/helpandadvice/meter.html">Meters &amp; meter readings</a>
+                <a class="" role="menuitem" title="Moving home" href="/helpandadvice/moving-home.html">Moving home</a>
                   </h3> 
                 
                       
@@ -1656,8 +1726,8 @@ var currentsearchform="#site-search-form3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8";
                    
                                 
                 <li role="presentation">
-                    <a class="" role="menuitem" title="How do I read my meter?" href="/helpandadvice/meter/how-do-i-read-my-meter.html">
-                        How do I read my meter?
+                    <a class="" role="menuitem" title="Can Sainsbury's Energy supply my new address?" href="/helpandadvice/moving-home/supplying-your-new-address.html">
+                        Can Sainsbury's Energy supply my new address?
                     </a>                    
                 </li> 
                 
@@ -1669,12 +1739,142 @@ var currentsearchform="#site-search-form3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8";
                    
                                 
                 <li role="presentation">
-                    <a class="" role="menuitem" title="I'm having problems with my meter. What do I do?" href="/helpandadvice/meter/i-am-having-problems-with-my-meter.html">
-                        I'm having problems with my meter. What do I do?
+                    <a class="" role="menuitem" title="Moving home - What you need to do" href="/helpandadvice/moving-home/moving-home-what-you-need-to-do.html">
+                        Moving home - What you need to do
                     </a>                    
                 </li> 
                 
                   
+            
+        </ul> 
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+            
+          
+    
+</div>
+</div>
+
+    </div>
+
+    <div class="mega-column-new">
+        <div class="cb"></div>
+        <div class="parsys menu-parsys-45"><div class="menulinks section">  
+   
+
+
+        
+         
+            
+            
+            
+            
+            
+                     
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column "> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="About us" href="/aboutus.html">About us</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+    
+  
+  </div>
+</div>
+
+
+
+
+ 
+            
+          
+    
+</div>
+<div class="menulinks section">  
+   
+
+
+        
+         
+            
+            
+            
+            
+            
+                     
+
+
+
+
+
+
+
+
+
+ 
+
+<div class="mega-column "> 
+    <div class="mega-column-content"> 
+
+
+            
+             
+                 
+                 <h3>  
+                <a class="" role="menuitem" title="Contact us" href="/Contactus/">Contact us</a>
+                  </h3> 
+                
+                      
+                     
+             
+          
+     
+        <ul>  
+            
+             
+                 
+                 
+                    
+                  <li role="presentation">   
+                      <a class="" role="menuitem" title="Emergency numbers" href="/emergencies.html">Emergency numbers</a> 
+                        </li> 
+              
+            
+             
+                 
+                 
+                    
+                  <li role="presentation">   
+                      <a class="" role="menuitem" title="Contact telephone numbers" href="/Contactus/">Contact telephone numbers</a> 
+                        </li> 
+              
             
         </ul> 
     
@@ -1721,7 +1921,7 @@ var currentsearchform="#site-search-form3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8";
              
                  
                  <h3>  
-                <a class="" role="menuitem" title="Your online account" href="/helpandadvice/your-online-account.html">Your online account</a>
+                <a class="" role="menuitem" title="Complaints" href="/help-and-advice/energy-complaints.html">Complaints</a>
                   </h3> 
                 
                       
@@ -1733,29 +1933,21 @@ var currentsearchform="#site-search-form3cd74893-f4e6-4f5e-8cdc-f60ca3708fc8";
             
              
                  
-                  
-                   
-                                
-                <li role="presentation">
-                    <a class="" role="menuitem" title="I want to register for an online account?" href="/helpandadvice/your-online-account/i-want-to-register-for-an-online-account.html">
-                        I want to register for an online account?
-                    </a>                    
-                </li> 
-                
-                  
+                 
+                    
+                  <li role="presentation">   
+                      <a class="" role="menuitem" title="Make a complaint" href="/complaints">Make a complaint</a> 
+                        </li> 
+              
             
              
                  
-                  
-                   
-                                
-                <li role="presentation">
-                    <a class="" role="menuitem" title="How do I submit a meter reading online?" href="/helpandadvice/your-online-account/how-do-i-submit-a-meter-reading-online.html">
-                        How do I submit a meter reading online?
-                    </a>                    
-                </li> 
-                
-                  
+                 
+                    
+                  <li role="presentation">   
+                      <a class="" role="menuitem" title="Complaints performance" href="http://www.britishgas.co.uk/help-and-advice/contactus-personal-details/complaints-performance.html">Complaints performance</a> 
+                        </li> 
+              
             
         </ul> 
     
@@ -2564,7 +2756,7 @@ function acceptCookie(){
 <div class="text parbase section">
 
 
-<p>© Sainsbury's Energy 2015</p>
+<p>© Sainsbury's Energy 2016</p>
 
 </div>
 </div>
@@ -2690,7 +2882,7 @@ function acceptCookie(){
                             $(newmenu1).eq(1).html("View your messages (0)").attr({href:"/Your_Account/Your-Messages/",title:"View your messages"}); 
                         }
                     }                    
-                    $(newmenu1+':eq(2)').html("Your Nectar points").attr({href:"/Loyalty/View-Rewards-Content/?loginCustomerContent=true", title: "Your Nectar points"});
+                    $(newmenu1+':eq(2)').html("Your Nectar rewards").attr({href:"/Loyalty/View-Rewards-Content/?loginCustomerContent=true", title: "Your Nectar rewards"});
                     $(newmenu1+':eq(3)').html("Discover your account").attr({href:"/youraccount/discover.html",title: "Discover your account"});
                     $(newmenu1+':eq(4)').html("Log out").attr({href:"/Logout/Logout-Succesful/",title: "Log out"});
                     }else{
@@ -2824,7 +3016,7 @@ function acceptCookie(){
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy.html+%28111ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,111,0,111&chxr=0,0,111&chd=t:8,11,12,17,17,18,19,20,21,22,24,24,26,27,35,36,36,38,39,40,41,42,43,45,46,47,49,50,51,62,62,64,67,68,69,70,71,78,80,81,82,85,85,86,86,86,87,87,88,88,89,89,90,90,90,91,91,93,94,94,94,95,95,96,96,96,97,97,98,98,99,99,101,101,102,102,103,103,107,108,109,109,110,110|1,5,4,59,59,1,15,3,1,1,2,4,1,1,6,2,5,1,1,1,24,3,2,4,1,2,12,1,2,2,3,1,9,4,1,1,1,0,1,0,17,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0,2,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,5,4,4,0,3,4,2,0,1,0,0&chly=clickstreamcloud.jsp|globalSiteSearch.jsp|siteSearchJourney.jsp|megamenu.jsp|parsys.jsp|megamenusection.jsp|megamenusection.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|megamenusection.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|megamenusection.jsp|parsys.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|megamenusection.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|breadcrumb.jsp|title.jsp|parsys.jsp|parsys.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|org.apache.sling.servl...|parsys.jsp|parsys.jsp|cookiesPopup.jsp|text.jsp|image.jsp|globalFooter.jsp|parsys.jsp|text.jsp|list.jsp|list.jsp|text.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy.html+%28155ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,155,0,155&chxr=0,0,155&chd=t:13,18,20,28,29,30,32,33,33,35,38,38,41,43,44,45,46,48,49,59,60,60,63,64,66,69,69,72,87,87,90,90,91,93,102,103,104,105,106,109,113,114,115,119,119,120,121,121,122,122,123,123,124,124,125,125,126,126,128,130,130,131,131,132,132,133,133,134,135,135,136,136,137,137,140,141,141,142,143,143,150,151,152,153,154,154|2,9,7,79,78,1,10,2,4,2,2,4,1,14,6,1,1,1,1,42,3,3,5,2,2,3,17,2,2,2,1,11,2,1,5,4,1,0,1,1,0,0,23,0,1,0,0,0,0,1,0,1,0,1,0,1,0,1,2,0,1,0,1,0,1,0,1,1,0,1,0,1,0,1,8,0,6,5,0,4,5,4,1,0,0,1&chly=clickstreamcloud.jsp|globalSiteSearch.jsp|siteSearchJourney.jsp|parsys.jsp|megamenu.jsp|megamenusection.jsp|megamenusection.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|megamenusection.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|megamenusection.jsp|menulinks.jsp|parsys.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|megamenusection.jsp|parsys.jsp|menulinks.jsp|menulinks.jsp|menulinks.jsp|breadcrumb.jsp|title.jsp|parsys.jsp|parsys.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|parsys.jsp|org.apache.sling.servl...|cookiesPopup.jsp|parsys.jsp|text.jsp|image.jsp|globalFooter.jsp|parsys.jsp|text.jsp|list.jsp|list.jsp|text.jsp&chs=600x500
 -->
 
 
