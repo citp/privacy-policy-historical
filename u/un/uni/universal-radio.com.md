@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universal-radio.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112135id_/http%3A//www.universal-radio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universal-radio.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606181826id_/http%3A//universal-radio.com/privacy.html) for the most accurate reproduction.*
 
 # Universal Radio Privacy Policy
 
@@ -35,18 +35,18 @@ Phone Number
 
 
 **The Way We Use Information:**   
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties or other companies. 
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties or other companies. The exception being a specific radio supplier for product support. For example, we may share your information with Icom if you buy an Icom radio. 
 
 We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+We use return e-mail addresses to answer the e-mail we receive. Such addresses are not used for any other purpose and are not shared with outside parties, except with specific suppliers for radio support. 
 
 You can register with our website if you would like to receive our catalog as well as updates. Information you submit on our website will not be used for this purpose unless you specifically request it. 
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above. 
 
 **Our Commitment To Data Security**   
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We do not permanently store credit card information. This information is periodically purged. CID numbers are not stored electronically. 
 
 **Our Commitment To Children's Privacy:**   
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. There is no adult material on our website. 
