@@ -1,45 +1,115 @@
-> *The following text is extracted and transformed from the hdnl.co.uk privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005144151id_/http%3A//www.yodel.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdnl.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606065729id_/http%3A//www.yodel.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy Policy - Yodel
+# Privacy and Cookies | Privacy & Cookies Policy | Yodel
 
-**WHO WE ARE**
+**This policy explains how Yodel complies with laws when collecting information from you when you visit our websites. Such information can include Personal Data **provided by you** protected by the Data Protection Act, and include anonymous information such as browsing history collected by us.**
 
-"Yodel" is a trading name of Yodel Delivery Network Limited. References to "the Website" are to www.yodel.co.uk
+* * *
 
-**WHAT INFORMATION WE COLLECT AND HOW**
+#### How We the Use Information We Collect: Electronic Information
 
-The information Yodel collects via the Website may include:
+The information that we collect and store relating to your computer is primarily used to enable us to provide our services to you. When you visit our website we collect anonymous information in a way which cannot, does not, and will not identify anyone:
 
-  * Any personal details you provide to Yodel, such as name, address, telephone number, email address etc.
+a) As for many other websites, by clicking on any links when browsing Yodel websites you consent to some information being collected.  
+b) We do not collect or reveal information about you to any party. However, we may, on occasion, provide them with aggregate statistical information about our visitors.  
+c) This information records data such as the type of web browser and operating system used, pages visited, time and date of user visits, traffic data, location data, weblogs, and other electronic communication.  
+d) We also use the information collected by cookies to improve our website and customer service, whether hosted by Yodel or a third party.  
+e) We use Cookies placed on our website either by a third party or hosted by Yodel.
 
-  * Your IP Address. This is a string of numbers unique to your computer that is recorded by Yodel's web server when you request any page or component on the Website. This information is used to monitor your usage of the Website.
+We cannot identify any specific individual using this electronic information, and will not corroborate any data gathered with any other personally identifying information from any source.
 
-  * Data recorded by the Website, which allows Yodel to recognise you to optimise the session performance. Such data is recorded locally on your computer through the use of cookies. These cookies are not persistent and do expire when you leave the Website or after 10 minutes of inactivity on the website. No personally identifiable information is stored in any of the cookies used.
+#### Cookie Policy
 
-  * Yodel also utilises Google Analytics to track visitors to the Website for statistical purposes. Google Analytics uses a persistent cookie that is valid for up to 2 years. This cookie does not contain any personally identifiable information, but does create a unique identifier to track the number of subsequent visits to the Website.
+Cookies are small files downloaded to a device when websites are accessed. Cookies are used to store statistical information about users between sessions.
 
-  * Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers 'help' facility. Please note that if you do reject cookies it may adversely affect your use of the Website. Find out more on cookies [here](https://web.archive.org/about/read-all-about-us-2011-archive/yodel-makes-the-cut-at-the-blades-2011/yodel-makes-the-cut-at-the-blades-2011/yodel-makes-the-cut-at-the-blades-2011.aspx "Cookie Policy").
+Mostly, cookies complete convenient tasks such as populating forms, keeping track of username so that users do not have to log into a website every time it is visited, and storing usage preferences.
 
+Where used, these cookies are downloaded automatically, and stored on your computer.
 
+Cookies are widely used to make websites work efficiently and to provide service information to the owners of the site.
 
+#### Cookies & How We Use Them
 
-**WHAT WE DO WITH YOUR INFORMATION**
+On occasion, Yodel may gather information about users’ computers to improve our services, and to provide statistical information relating the use of our website for advertisers.
 
-Any personal information Yodel collects from the Website will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details Yodel collects will be used:
+Yodel may also gather information about general internet use by using a cookie file, and show relevant advertisements on sites on the internet, including those generated by prior visits.
 
-  * To process your order and to provide after sales service. Yodel may need to pass the information it collects to other companies or organisations to supply or deliver products you have purchased or to provide after-sales service or for administrative purposes. Yodel may use third parties to carry out certain activities, including but not limited to processing and sorting data, monitoring how customers use the Website and issuing e-mails for Yodel. Third parties will not be allowed to use your personal information for their own purposes.
+#### Cookie Management & Security
 
-  * To offer you additional products and services with your consent. In certain cases Yodel may use your email address, home address, telephone number and mobile telephone number to send you information on Yodel's other products and services. In such a case you will be offered the option to opt in or opt out.
+a) Refusing Cookies  
+UK websites must gain permission to enable cookies, and all computers can be set by the user to decline cookies by changing browser settings.   
+i. However, cookies are now in common use, and blocking or refusing them often impracticable:  
+ii. Refusing cookies could affect your web experience and result in some or all parts of websites not functioning properly, instead when using websites with cookies, take the following precautions.  
+b) Security Precautions  
+Cookies capture browsing habits, and because of this, could help some criminals target users with fraudulent activities. Users should take the following precautions:  
+i. Set browsers to warn when a cookie is installed: some sites will not work if cookies are blocked.  
+ii. Some browsers allow users to can enable, disable and delete cookies.   
+iii. Use an anti-spyware program that scans for so-called tracker cookies.  
+iv. There are also cookie management programs that manage cookies.   
+The following organisations provide comprehensive guidance on Cookie management:  
+• <http://www.networkadvertising.org/> allow users to opt of Third Party Cookies;  
+• <https://www.getsafeonline.org/> provides comprehensive guidance on internet security including Cookie settings;
 
-  * To disclose information about you to any relevant regulator if they require it or to anyone else if there is a legal duty to do so.
+#### How We Use the Data You Provide: Personal Data
 
+The data you provide and we store relating to you is primarily used to enable us to provide our services to you, and protected by the Data Protection Act.   
+a) We do not collect any personal data through our website unless it is provided voluntarily; for example by filling in forms when registering for information or making a purchase.  
+b) We will always be clear about why we need the details we ask you to provide, and ensure your personal information is kept as secure as possible.  
+c) When you provide information when you communicate with us for any reason and by any means, you consent to relevant information being collected by us so that we can communicate with you.  
+Yodel can only collect and store the personal data you specifically provide to us. We have no right or ability to collect any data beyond what you submit to us.
 
+#### Data Protection Policy & Data Privacy
 
+Under the 1998 Data Protection Act, Yodel takes our legal duty to protect any data you provide us very seriously. The act sets out eight principles by which we are legally bound when managing personal data:  
+Principle 1: Fair & Lawful Use  
+Yodel will manage personal data within the law, and inform you with whom we can share your data: We may disclose your personal information to any member of our group of companies and subsidiaries, and third parties where we sell any or all of our business and/or our assets to them.  
+• We are required to share data where Yodel is legally obliged to so (e.g. the Police and HMRC).  
+Principle 2: Specific & Lawful Purpose  
+Yodel will only ask for data or collect information to fulfil our lawful contractual commitments to you.   
+Principle 3: Adequate & Relevant  
+Yodel will not collect excessive or irrelevant data about you.   
+Principle 4: Accurate & Current  
+Yodel will ensure that the data collected from you remains accurate and up to date.   
+Principle 5: Necessary Retention  
+Yodel will not retain your personal data longer than necessary.   
+Principle 6: Access Rights to Your Data  
+For a statutory £10 fee, you have the right to copies of their data we hold. Known as a Subject Access, please address these and any other queries concerning data protection to:  
+[data.protection@yodel.co.uk](https://mail.yodel.co.uk/owa/redir.aspx?SURL=z4qcUiiDqh_LgPsuwiOZEpK1KFqpAzMXV8vdZp2aISoHHeUBizzTCG0AYQBpAGwAdABvADoAZABhAHQAYQAuAHAAcgBvAHQAZQBjAHQAaQBvAG4AQAB5AG8AZABlAGwALgBjAG8ALgB1AGsA&URL=mailto%3adata.protection%40yodel.co.uk)  
+or:  
+Information Protection, 3rd Floor, Atlantic Pavilion, Albert Dock, Liverpool, L3 4AE  
+Principle 7: Information Security & IT  
+Yodel implements appropriate technical security measures to prevent unauthorised or unlawful processing, accidental loss or destruction and/ or damage to personal data.  
+Principle 8: Sending Data outside the UK & Europe  
+Yodel can transfer your data outside the European Economic Area (EEA) where we can prove that protections in the country to where the data is transferred are equivalent to those within the UK/EEA.
 
-**YOUR RIGHTS**
+#### Links to other Websites: Privacy & Cookies
 
-You have the right to request a copy of any information that Yodel currently hold about you. In order to receive such information please send your contact details including address and payment of £10 to cover administration expenses to the following address: Head of Information Security, Yodel, Atlantic Pavilion, Albert Dock, Liverpool L3 4AE.
+a) Third Party Cookies & Links to Other Websites  
+You will see links to other sites, for example, all orders placed on YodelDirect are processed by Parcel2Go.com Limited on our behalf.   
+i. However, once these links are used to leave our sites, we have no control over any other websites; Yodel is not responsible for the protection and privacy of any information provided by users whilst visiting these sites.  
+ii. Our advertisers may also use cookies, over which we have no control. Such cookies (if used) are downloaded once you click on advertisements on our website.  
+Exercise caution and look at the relevant Cookie statement applicable to any other websites.  
+b) eBay Users  
+Once registered on our site you can access your eBay account to download shipping information and delivery details; you would have given permission for this at sign up, confirming this on the eBay pages you were taken to during this process.  
+Rest assured we cannot access your eBay account, do not need and do not know your eBay password.  
+• Your Yodel password and eBay password should be different: it is a good idea to always have different passwords for different sites.   
+Changing your Yodel or eBay password after registering with us will not affect your ability to download shipping information.
 
-**OTHER WEBSITES**
+#### Consent & ‘Opting Out’ of Data Sharing
 
-This privacy policy only covers this website. Any other websites which may be linked to by this website are subject to their own policy, which may differ from Yodel's policy.
+If you do not want us to use your data, or let a third party have your data, you can withhold your consent when populating the form we use to collect data:  
+a) For new customers, we will only contact you or allow third parties to contact you when you have provided consent and only by those means you consent to.  
+b) For existing customers, we may contact you with information about goods and services similar to previous purchases you made by you.
+
+#### How You Can Protect Your Data & Information On-line
+
+Yodel takes all reasonable measures to ensure that the personal data you provide, and the information we collect is managed securely. However, we cannot guarantee total security of data transmitted via the internet or sent to us by other means:  
+• Transmission of data is entirely at the your risk but there is a lot you can do to keep personal information safe whenever you are online; <https://www.getsafeonline.org/> gives comprehensive guidance on how to improve on-line security,
+
+#### Policy Review
+
+This policy is regularly reviewed or when legislation, practice, risk or change triggers review.
+
+#### Contact Us
+
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at [data.protection@yodel.co.uk](https://mail.yodel.co.uk/owa/redir.aspx?SURL=z4qcUiiDqh_LgPsuwiOZEpK1KFqpAzMXV8vdZp2aISoHHeUBizzTCG0AYQBpAGwAdABvADoAZABhAHQAYQAuAHAAcgBvAHQAZQBjAHQAaQBvAG4AQAB5AG8AZABlAGwALgBjAG8ALgB1AGsA&URL=mailto%3adata.protection%40yodel.co.uk)
