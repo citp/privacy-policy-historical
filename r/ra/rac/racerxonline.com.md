@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racerxonline.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206053118id_/http%3A//racerxonline.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racerxonline.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606221609id_/http%3A//racerxonline.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Racer X Online
 
@@ -6,9 +6,9 @@
 
 **Introduction**
 
-Thank you for reviewing our privacy policy. We at Racer X are committed to protecting your information and ensuring that we continue the trust you have placed with us. The website [racerxonline.com](http://www.racerxonline.com/) is managed by Filter Publications, LLC (the Provider). Please read this document carefully and contact us at [online@racerxill.com](mailto:online@racerxill.com) if you have any questions.
+Thank you for reviewing our privacy policy. We at Racer X are committed to protecting your information and ensuring that we continue the trust you have placed with us. The website [racerxonline.com](https://web.archive.org/) is managed by Filter Publications, LLC (the Provider). Please read this document carefully and contact us at [online@racerxill.com](mailto:online@racerxill.com) if you have any questions.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website [racerxonline.com](http://www.racerxonline.com/) (the **"Website"** ) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit the website [racerxonline.com](https://web.archive.org/) (the **"Website"** ) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect:
 
@@ -118,7 +118,7 @@ We may disclose personal information that we collect or you provide as described
 We may also disclose your personal information:
 
   * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply our terms of use [www.racerxonline.com/pages/terms-of-use ](http://racerxonline.com/pages/terms-of-use)or terms of sale www.racerxonline.com/termsofsale and other agreements, including for billing and collection purposes.
+  * To enforce or apply our terms of use [www.racerxonline.com/pages/terms-of-use ](https://web.archive.org/pages/terms-of-use)or terms of sale www.racerxonline.com/termsofsale and other agreements, including for billing and collection purposes.
   * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Companies, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
@@ -170,4 +170,4 @@ To ask questions or comment about this privacy policy and our privacy practices,
 
 [Privacy@racerxonline.com](mailto:online@racerxonline.com) or write to Racer X, 122 Vista del Rio Drive, Morgantown, West Virginia 26508.
 
-Thank you for visiting Racer X at [racerxonline.com](http://www.racerxonline.com/).
+Thank you for visiting Racer X at [racerxonline.com](https://web.archive.org/).
