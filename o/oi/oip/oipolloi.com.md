@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oipolloi.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214165238id_/http%3A//www.oipolloi.com/pages/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oipolloi.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606153121id_/https%3A//www.oipolloi.com/pages/cookies-and-privacy) for the most accurate reproduction.*
 
 # Cookies and Privacy – Oi Polloi
 
@@ -6,34 +6,19 @@
 
 Cookies are small text files stored on your computer by your web browser to allow websites to remember you from one page to the next. Without cookies you wouldn’t be able to log in to our website, never mind add a tasty piece of clobber to the shopping basket and buy it. Cookies are pretty important and this website wouldn’t work properly without them.
 
-### Our cookies
-
-By using the Oi Polloi website you are consenting to us storing the following set of cookies on your computer:
-
-Cookie Name| Used by| Description  
----|---|---  
-__utma  
-__utmb  
-__utmc  
-__utmt  
-__utmz | Google Analytics | Various default cookies set by Google Analytics which we use to anonymously track how you move around our website.  
-PHPSESSID | oipolloi.com | This identifies you throughout your “session” - a session is a visit to our website in an individual browser. We use this cookie to: track whether-or-not you are logged in; remember what your checkout selections are; to increase your security by helping to prevent XSS attacks; to store feedback between pages and so on. For your security this cookie refreshes after 24 minutes of inactivity on our website.  
-user | oipolloi.com | If you select “remember me” when you log in to your Oi Polloi account, this cookie stores a secure identifier which is used to automatically log you back in whenever you return. No password data is stored in this cookie.  
-Persistent_Basket | oipolloi.com | This cookie identifies your basket in our database, so if you quit your browser (and abandon your session) we use this to retrieve your basket from our database on your return.  
-  
 ### Changing Your Cookie Settings
 
-You have control over how, if, and when your web browser stores cookies. How you go about changing these cookie settings depends on which browser you are using to access our website. If you need any help with managing your browser’s cookie settings then the super-nerds at [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) can provide you with all of the information and instruction you’ll need.
+You have control over how, if, and when your web browser stores cookies. How you go about changing these cookie settings depends on which browser you are using to access our website. If you need any help with managing your browser’s cookie settings then the super-nerds at [AboutCookies.org](http://www.aboutcookies.org/) can provide you with all of the information and instruction you’ll need.
 
 As we’ve explained, without cookies our website wouldn’t work properly so if you do adjust your cookie settings there is a chance that you won’t be able to use our website any more. Don’t say we didn’t warn you.
 
 ### Oi Polloi’s Privacy Policy
 
-This store is owned and managed by Oi Polloi. You can find our full contact details on [our contact page](https://web.archive.org/web/20151214165238id_/http%3A//www.oipolloi.com/pages/pages/contact).
+This store is owned and managed by Oi Polloi. You can find our full contact details on [our contact page](https://web.archive.org/pages/contact).
 
 This policy covers how Oi Polloi treats personal information collected on this and other websites, including information related to your past use of our website such as previous order details.
 
-Personal information is personally identifiable information about you such as your name, address, email address, phone number and so on, that is not normally publically available.
+Personal information is personally identifiable information about you such as your name, address, email address, phone number and so on, that is not normally publicly available.
 
 This policy does not apply to companies that Oi Polloi does not control, or to any third parties that Oi Polloi does not employ or manage. In particular, this site may have links to external sites that Oi Polloi does not own or control and you should look at each such site’s own privacy policy to see how your personal information is managed by them.
 
@@ -49,7 +34,7 @@ Oi Polloi automatically receives and records information on our server logs from
 
 Oi Polloi uses information for the following general purposes:
 
-  1. To fulfill your requests for products and services.
+  1. To fulfil your requests for products and services.
   2. To improve our services.
   3. To contact you.
   4. To conduct research.
