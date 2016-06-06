@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206044928id_/http%3A//www.horoscopes-love.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606072049id_/http%3A//www.horoscopes-love.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,6 +67,12 @@ If there are any questions regarding this privacy policy you may contact us usin
 www.horoscopes-love.eu            [info@horoscopes-love.eu](mailto:info@horoscopes-love.eu) 
 
 Share this post:
+
+Love in 2016?
+
+[](http://community.oranum.com/randomchat?s=1&p=6&w=100393&t=83&c=5961)
+
+When will I find love? What does 2016 Year hold for you? How to find a soulmate? Chat with free tested experts. Ask them now! [Click here ](http://www.oranum.com/randomchat.php?s=1&p=6&w=100393&t=36&c=5961)
 
 Need answers?
 
