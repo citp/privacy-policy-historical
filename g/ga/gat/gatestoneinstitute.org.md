@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatestoneinstitute.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206163212id_/http%3A//www.gatestoneinstitute.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatestoneinstitute.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606084821id_/http%3A//www.gatestoneinstitute.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Gatestone Institute
 
@@ -33,19 +33,5 @@ info@gatestoneinstitute.org
 | 
 
 Get Free Exclusive Gatestone Content: 
-
-  * **Most Read**
-  * **Most Shared**
-  * **Newest**
-
-
-
-by M. Zuhdi Jasser and Raheel Raza et al
-
-by Ingrid Carlqvist and Lars Hedegaard
-
-by M. Zuhdi Jasser and Raheel Raza et al
-
-by M. Zuhdi Jasser and Raheel Raza et al
 
 [Tweets by @GatestoneInst](https://twitter.com/GatestoneInst)
