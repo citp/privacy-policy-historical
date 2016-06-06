@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airasiabig.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106023415id_/http%3A//www.airasiabig.com/global/en/assets/pdf/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airasiabig.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606023551id_/http%3A//www.airasiabig.com/global/en/assets/pdf/privacypolicy.pdf) for the most accurate reproduction.*
 
 # 
 
