@@ -1,50 +1,41 @@
-> *The following text is extracted and transformed from the oedb.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207132955id_/http%3A//oedb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oedb.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606200730id_/http%3A//oedb.org/privacy-policy) for the most accurate reproduction.*
 
 # OEDb.org Privacy Policy | OEDB.org
 
-This privacy statement defines the ways in which OEDB.org gathers and shares users’ personal information, as well as what it does internally with said information. This policy may be modified in the future to reflect changes in our information procedures; as such, we suggest reading this policy periodically so that you know how your information is gathered, shared, and used by us.
+## Terms of Use and Privacy Policy for Use of OEDb.org (Effective January 5, 2016)
 
-#### Information Collection
+Thank you for using the content and services provided by OEDB.org. This page will detail how OEDb.org gathers and utilizes different kinds of information so that we may provide you and other visitors with education and other relevant content, products, and services. By using our website, you are agreeing to the Terms of Use and Privacy Policy outlined here. 
 
-During your use of OEDB.org, we may collect the following personal information from you:
+OEDb.org collects **submitted information** and **automatic information**. 
 
-  * Contact information (name, address, phone number)
-  * Demographic information (gender, interests, education)
-  * Computer information (operating system, browser)
+**Automatic information.** This includes specific types of anonymous information gathered from your browser whenever you interact with OEDb.org. This includes (but is not limited to) your browser version, operating system version, and your IP address. Automatic information allows us to improve your user experience by providing more relevant and tailored content. For example, we use “cookies” to collect anonymous data for analytics, site optimization and for customized advertising and marketing. 
 
+By utilizing OEDb.org, you acknowledge and agree that automatic information collected on our website may be shared with schools, affiliates, and third parties for the purpose of providing you with information about degrees, programs and other related education products and services. 
 
+**Submitted information.** This is data that is voluntarily inputted and submitted by users through our web forms, which may include personal contact information (such as name, telephone number, mailing address, and email address), as well any other information that may be required to provide users with the an education product or service match. Submitted information is collected, stored and shared with schools and other third parties as necessary to provide you with information about education-related services, in addition to schools and programs.
 
-#### Information Usage
+By submitting this information, you authorize OEDb.org (as well as our affiliated schools and partners) to contact you in accordance with all applicable laws by phone, text messages, or by email or mail regarding education options or other related topics. You also acknowledge and agree that we retain the right to release any collected information (including personally identifiable information) as needed to businesses providing our company with administrative services (such as an email delivery service). In addition, through this action, you grant us, our affiliates, and our partners and vendors the right to contact you for a period of time. Your submission serves as an agreement to relinquish any rights granted to you by the Do Not Call list or other applicable law, acting as an omission to Do Not Call requirements established by state and federal governments, and may exempt us from other applicable laws.
 
-Collected information is used in our efforts to:
+If you receive any email communications from us, a school, or third party, you will have the opportunity to unsubscribe through a link in the email, at which point you will not receive further mailings from that sender.
 
-  * Pinpoint your online college degree program options
-  * Provide you with career and education information
-  * Supply you with information on the schools that interest you
-  * Provide you with customer service
-  * Send you news and marketing communications
-  * Engage in overall business improvement efforts
-  * Perform research and analysis
+We also retain the right to release your personal information in circumstances required by law, such as to abide by a subpoena or other legal procedure. This will be when, in good faith, we believe it is necessary to preserve our rights, to ensure the safety of you or others, to explore alleged fraud, to comply with a government or legal request, and/or in the instance that OEDb.org is merging, acquisitioning, or selling some or all of its assets to a third party.
 
+Bear in mind that it is possible that we will revise our Terms of Use and Privacy Policy in the future if we change our practices. We recommend that you revisit this page periodically to stay informed about our practices concerning your privacy and other important information.
 
+## The Use of Cookies
 
-We will also use this information to contact you. In providing us with your personal information, you are, in effect, querying us, and thus giving us and our business and marketing affiliates permission to contact you. Also, you are consenting to receive telephone communications from said parties. A query is effectively an exception to state and federal Do Not Call requirements. As such, in querying us, we and our affiliates may contact you by phone for a limited time period regardless of your participation in such programs.
+Cookies are small pieces of data sent from a website and stored in the user’s web browser, utilized for technical purposes such as web analytics. By using OEDb.org, you acknowledge that we use cookies and consent to our use of cookies. Our web analytics are primarily performed using Google Analytics, a tool provided by Google, Inc. 
 
-#### Opting-Out
+Advertising cookies allow users to remain anonymous because they do not contain personally identifiable information. However, these cookies do permit advertisers to make ads more relevant to the user’s interests. Advertising cookies are sometimes referred to as third-party cookies because they track navigation and publish ads on behalf of third parties. For more information about Google Analytics and its uses, check Google’s privacy policy at <http://www.google.com/intl/en/analytics/privacyoverview.html>.
 
-OEDB.org occasionally sends marketing information to its users. If you’d like to be excluded from this program, you may opt-out of it by following the unsubscribe instructions located in our emails to you.
+OEDb.org, including services and partnerships with vendors and third-party service providers, may use cookies for:
 
-#### Information Sharing
-
-OEDB.org only provides third parties with your personal information in the ways explained in this privacy policy. Users’ information is never sold to third parties for their marketing efforts. We will never share your information with an entity outside of OEDB.org unless one of the following conditions is applicable:
-
-  * We need to do so to successfully complete business activities for which we’ve contracted other entities. I, the event that we do so, we may need to provide our contracted service providers with users’ information to complete said activities. For instance, we may provide our email service delivery with your email address to send you OEDB.org’s newsletter.
-  * If we undergo a merger or acquisition, or sell any portion of our assets and have your consent to so. The aforementioned business activities require careful steps, and OEDB.org may provide third parties with your personal information when it determines in good faith that doing so will protect it, you, others, or enable it to investigate fraudulent activities or reply to a legal request.
+  * Web analytics such as demographic and other anonymous data for web optimization and other analysis
+  * “Lead auditing” to ensure the accuracy, relevance and validity of submitted information
+  * Targeting and optimizing digital ad serving to improve relevance, user experience, and advertising effectiveness
 
 
 
-#### Your Privacy Policy Contact
+You can remove cookies through your browser settings at any time, though you may need to do this on a per use and not one-time basis. You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising. Do so by visiting the opt-out pages on the NAI website and DAA website.
 
-If after reviewing this policy you’d like to speak to a OEDB.org representative, you may contact info@OEDB.org.
-
-This privacy policy is in effect as of August 18, 2012
+Please use our contact form if you have any questions or concerns about this Terms of Use and Privacy Policy.
