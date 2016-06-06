@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glaryutilities.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207035003id_/http%3A//www.glarysoft.com/inf/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glaryutilities.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606214511id_/http%3A//www.glarysoft.com/inf/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Glarysoft
 
@@ -22,5 +22,7 @@ Users should also be aware of the following:
 **b.** Glarysoft checks for the following information when using Glarysoft software: your operating system, Glarysoft Software version, browser version, connectivity, and information regarding your use and the configuration of the Glarysoft Software ("Parameters") . Parameters are collected in order to provide you with the Software and Services subject to the provisions of this privacy policy hereof and of the Glarysoft License Agreement (the "License"), as well as in order to verify that the terms and conditions of the License are not being violated;
 
 **c.** Glarysoft gathers information related to our users' use of the our Software (''Usage Patterns'') to better understand how such users, as a group, use the software and the various features thereof, as well as to help Glarysoft tailor offerings to user groups with specific profiles, and to conduct market research. The Parameters and the Usage Patterns may be used in the aggregate for commercial purposes, including without limitation, for marketing, co-registration to other services, promotional activities or any other activity, including, without limitation, the protection of Glarysoft's proprietary and other rights all subject to the provisions herein.
+
+Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit http://info.trovi.com/Privacy, and the search provider's privacy policy, as applicable. 
 
 Questions about this privacy statement should be directed to [support@glarysoft.com](mailto:support@glarysoft.com).
