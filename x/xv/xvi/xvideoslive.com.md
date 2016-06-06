@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xvideoslive.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095630id_/http%3A//www.xvideoslive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xvideoslive.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606104418id_/http%3A//www.xvideoslive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # XVideosLive - Privacy Policy
 
@@ -47,7 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-ICF Technology, Inc.  
-PO Box 21508  
-Seattle, WA 98111  
-USA
+.cnI ,ygolonhceT FCI  
+80512 xoB OP  
+11189 AW ,elttaeS  
+ASU
