@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the vpnranks.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206142014id_/http%3A//www.vpnranks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpnranks.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607003214id_/http%3A//www.vpnranks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  
-
+# Privacy Policy - VPNRanks
 
 This privacy policy, its clauses and its sub-clauses only apply to VPNRanks.com and do not have any influence/relationship with any products/services listed/mentioned on the VPNRanks.com website or any of its web pages.
 
@@ -44,6 +41,3 @@ VPNRanks.com works with affiliates in order to bring users the best in the indus
 The security of your data is the prime objective of this website. For this purpose, we have been built while keeping your data security in mind. This website is run from secure servers equipped with the latest in cyber security technology. VPNRanks.com is run by a qualified and trained staff, on international server management guidelines.
 
 If you feel that any breach of your data security has taken place, kindly contact VPNRanks.com immediately with complete details of the data security violation.
-
-  
-
