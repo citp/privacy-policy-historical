@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rep-am.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222191156id_/http%3A//www.rep-am.com/about/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rep-am.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606204406id_/http%3A//rep-am.com/about/privacy_statement) for the most accurate reproduction.*
 
 # About Republican American
 
