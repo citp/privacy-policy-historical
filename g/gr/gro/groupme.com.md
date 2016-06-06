@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the groupme.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127021547id_/https%3A//groupme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupme.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606082512id_/https%3A//groupme.com/privacy) for the most accurate reproduction.*
 
 # GroupMe
 
 ### INTRODUCTION
 
-GroupMe Inc. ("GroupMe") is the provider of services called GroupMe (the "Service"), accessible at http://groupme.com. GroupMe seeks to respect your privacy. This policy describes the information we collect during your use of the Service, how we use it, and how it may be shared.
+GroupMe Inc. ("GroupMe") is the provider of services called GroupMe (the "Service"), accessible at https://groupme.com. GroupMe seeks to respect your privacy. This policy describes the information we collect during your use of the Service, how we use it, and how it may be shared.
 
 ### COLLECTED INFORMATION PROVIDED BY USER
 
@@ -50,4 +50,4 @@ Updated February 2013.
 
 ©  GroupMe Inc.
 
-IMPORTANT NOTICE: WE HAVE UPDATED OUR PRIVACY POLICY http://groupme.com/privacy By using GroupMe you are indicating that you have read, understood, and agree to the updated Privacy Policy.
+IMPORTANT NOTICE: WE HAVE UPDATED OUR PRIVACY POLICY https://groupme.com/privacy By using GroupMe you are indicating that you have read, understood, and agree to the updated Privacy Policy.
