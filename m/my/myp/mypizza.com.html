@@ -1,53 +1,78 @@
-<!--The following is the downloaded HTML source of the mypizza.com privacy policy that was archived on 2015-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151022080039id_/http%3A//mypizza.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mypizza.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606122932id_/http%3A//mypizza.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
+    
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PQK4JQ"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"8bb3f985b8","applicationID":"3490179","transactionName":"dg5XEktfXF9cE0lDUVIESklJQllFWAIf","queueTime":0,"applicationTime":34,"agent":"js-agent.newrelic.com/nr-768.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8EUVFVGwAEXVFTAAg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script type="text/javascript" async="" src="//cdn.feedbackify.com/f.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/YUr6lP2y6JJnEEU3pVVKH9X8fCiyI1FT/analytics.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"8bb3f985b8","applicationID":"3490179","transactionName":"dg5XEktfXF9cE0lDUVIESklJQllFWAIf","queueTime":0,"applicationTime":32,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8EUVFVGwAEXVFTAAg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
       <title>MyPizza.com - Order Pizza Online, Find Pizza Restaurants, Pizza Menu, Pizza Delivery</title>
+      <meta name="description" content="Order pizza for delivery or pickup from local pizzerias and Italian restaurants. Browse menus from thousands of restaurants in over 1,700 cities nationwide. 24/7 support.">
 
-    <link rel="shortcut icon" type="image/x-icon" href="http://d15gxu7ovfe8pd.cloudfront.net/assets/favicon-f37c6ead7f10f361aff3c26cfd72e950.ico">
-    <link rel="apple-touch-icon" type="image/png" href="http://d15gxu7ovfe8pd.cloudfront.net/assets/apple-touch-icon-55076cddf5dedd9688185df48871bc22.png">
-    <link rel="apple-touch-icon-precomposed" type="image/png" href="http://d15gxu7ovfe8pd.cloudfront.net/assets/apple-touch-icon-precomposed-bbbe7c531c8b5c4c39a3b1bb7f81dacc.png">
+    <link rel="shortcut icon" type="image/x-icon" href="http://d15gxu7ovfe8pd.cloudfront.net/assets/favicon-ebb4220daf598f72f1389a6dd1ca66b369e290ea7fb20d3427d643d96a7c27ab.ico">
+    <link rel="apple-touch-icon" type="image/png" href="http://d15gxu7ovfe8pd.cloudfront.net/assets/apple-touch-icon-536912eef4c822d4568620d4ee5ee95332a9bca6def20eed7b2dc770ae488a28.png">
+    <link rel="apple-touch-icon-precomposed" type="image/png" href="http://d15gxu7ovfe8pd.cloudfront.net/assets/apple-touch-icon-precomposed-2f1158b0406d0667e93d80d67991b3fa550bb4c54db4af70d1467baccb99332e.png">
     <meta name="msapplication-TileColor" content="#FFFFFF">
     <meta name="msapplication-TileImage" content="/mstile-144x144.png">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" media="all" href="http://d15gxu7ovfe8pd.cloudfront.net/assets/application-d1e52a479298542d33460df07407f6d9.css">
+    <link rel="stylesheet" media="all" href="http://d15gxu7ovfe8pd.cloudfront.net/assets/application-505fd328549b506c392e20bd715fa7d852f779c2b4fdd66f3d426dcd022487f6.css">
    <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
     <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="5n4iXxKs7NNm2UwcRSOhEGn4t+YaeCX/ivlV81D5GJdYVK09IWNdvRxETDm89/4rl7f4rNmZoWsSQzyk2iB+Fg==">
-
-    <script>
+<meta name="csrf-token" content="Ewrndv8MqAyhjqIP+3qQWkknGC7PEUgkIQFwbWlQKVg6p39G/ZH9nilALP7ub5Psye93AI+d0uHJyYrNuFkELg==">
+      <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    ga('create', 'UA-8736308-2', 'auto');  // Replace with your property ID.
+    if (location.search.indexOf("clientId") !== -1) {
+      ga('create', 'UA-71718209-3', 'auto', {
+        'clientId': location.search.match(/clientId=(.*)/)[1]
+      });
+    } else {
+      ga('create', 'UA-71718209-3', 'auto', {'allowLinker': true});
+    }
+
+    ga('require', 'linker');
     ga('send', 'pageview');
-    ga('require', 'ecommerce');
+  </script>
 
-    </script>
 
-  </head>
+      <script type="text/javascript">
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+  analytics.load("YUr6lP2y6JJnEEU3pVVKH9X8fCiyI1FT");
 
-  <body id="">
-    <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PQK4JQ"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PQK4JQ');</script>
-<!-- End Google Tag Manager -->
+  analytics.identify('92a747f097cbf877395dcf827a231ad0', {
+    name: '',
+    firstName: '',
+    lastName: '',
+    email: '',
+    phone: '',
+    address: '',
+    mypizzaUserId: ''
+  });
+  }}();
+
+  analytics.page();
+  </script>
+
+  </head><body id=""><span data-analytics-visit-id="92a747f097cbf877395dcf827a231ad01465216021"></span>
+  <script>
+//<![CDATA[
+analytics.track('Viewed Checkout Step', {"orderId":null,"shop_id":1448,"shop_name":"Big Tomato Pizza","shop_url":"mybigtomatopizza.com","payment_method":"","shipping_type":"delivery","address":"","city":"","state":null,"zipcode":"","coordinates":", ","products":[],"tip":0.0,"tax":0.0,"discount":-0.0,"shop_discount_percent":10.0,"total":0.0,"shipping":0.0,"coupon":"","currency":"USD","coupon_discount_amount":0.0,"phone":"","subtotal":0.0,"promo_code":null,"email":null,"date_purchased":null,"promo_code_amount":0.0,"items_count":0,"step":1,"visit_id":"92a747f097cbf877395dcf827a231ad01465216021","channel":"web"});
+//]]>
+</script>
+
+  
+
+  
     <div class="modal fade" id="partnersmodal" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
@@ -56,28 +81,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <p class="lead">We're looking forward to hearing from you.</p><!--lead-->
       </div>
       <div class="modal-body">
-        <form action="/partnership_request" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓">
+        <form data-parsley-form="true" action="/partnership_request" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓">
           <div class="row">
             <div class="col-md-6">
               <div class="form-group">
-                <input type="text" name="name" id="name" placeholder="Full Name" class="form-control">
+                <label>Name</label>
+                <input type="text" name="name" id="name" placeholder="Full Name" class="form-control" required="required">
               </div>
               <div class="form-group">
-                <input type="text" name="restaurant_name" id="restaurant_name" placeholder="Restaurant Name" class="form-control">
+                <label>Restaurant Name</label>
+                <input type="text" name="restaurant_name" id="restaurant_name" placeholder="Restaurant Name" class="form-control" required="required">
               </div>
             </div>
             <div class="col-md-6">
               <div class="form-group">
-                <input type="text" name="email" id="email" placeholder="Email Address" class="form-control">
+                <label>Email</label>
+                <input type="email" name="email" id="email" placeholder="Email Address" class="form-control" required="required">
               </div>
               <div class="form-group">
-                <input type="text" name="phone" id="phone" placeholder="Telephone Number" class="form-control">
+                <label>Phone</label>
+                <input type="tel" name="phone" id="phone" placeholder="Telephone Number" class="form-control" required="required" data-parsley-phone-number="true">
               </div>
             </div>
           </div>
           <div class="row">
             <div class="col-md-12">
               <div class="form-group">
+                <label>Message</label>
                 <textarea name="message" id="message" placeholder="Message" class="form-control" cols="4" rows="10"></textarea>
               </div>
             </div>
@@ -85,7 +115,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
           <div class="row">
             <div class="col-md-12">
-              <input type="submit" name="commit" value="Submit" class="btn btn-mp-green btn-lg btn-block">
+              <input type="submit" name="commit" value="Submit" class="btn btn-primary btn-lg btn-block">
             </div>
           </div>
 </form>      </div>
@@ -97,29 +127,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
       <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>        
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
         <p class="lead">Our support team is standing by to reply to your message right away.</p><!--lead-->
       </div>
 
       <div class="modal-body">
-        <form action="/help_request" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓">
+        <form data-parsley-form="true" action="/help_request" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓">
           <div class="row">
             <div class="col-md-5 form-group">
-              <input type="text" name="name" id="name" placeholder="Full Name" class="form-control">
+              <label>Name</label>
+              <input type="text" name="name" id="name" placeholder="Full Name" class="form-control" data-parsley-required="true">
               <br>
-              <input type="text" name="email" id="email" placeholder="Email Address" class="form-control">
+              <label>Email</label>
+              <input type="email" name="email" id="email" placeholder="Email Address" class="form-control" data-parsley-required="true">
             </div>
 
             <input type="text" name="business" id="business" class="fake-field" tabindex="-1">
 
             <div class="col-md-7 form-group">
-              <textarea name="message" id="message" placeholder="Message" class="form-control" cols="4" rows="10"></textarea>
+              <label>Message</label>
+              <textarea name="message" id="message" placeholder="Message" class="form-control" data-parsley-required="true" cols="4" rows="10"></textarea>
             </div>
           </div>
 
           <div class="row">
             <div class="col-xs-12">
-              <input type="submit" name="commit" value="Submit" class="btn btn-mp-green btn-lg btn-block">
+              <input type="submit" name="commit" value="Submit" class="btn btn-primary btn-lg btn-block">
             </div>
           </div>
 </form>      </div>
@@ -152,23 +185,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
       <div class="row">
         <div class="col-xs-12 col-sm-10 form-group">
-          <input type="text" placeholder="Enter your full address, including city and ZIP code" name="address" id="address" data-google-places="" value="" class="form-control">
+          <label>Full Address</label>
+          <input type="text" placeholder="Enter your full address, including city and ZIP code" name="address" id="address" data-google-places="" value="" class="form-control" data-clear-input-field="">
+          <span class="clear-input-field" data-clear-input-field="">X</span>
         </div>
 
         <div class="col-xs-12 col-sm-2 form-group">
+          <label>Unit</label>
           <input type="text" placeholder="Unit #" name="address_unit" id="address_unit_input" value="" class="form-control">
         </div>
 
         <div id="delivery-errors" class="address-delivery-errors">
+            <div class="padding-lr-20">
+      <p class="text-red">Please enter an address for delivery.</p>
+</div>
+
         </div>
         <div id="delivery-search-options" class="text-center">
-  <a id="delivery" href="#" class="btn btn-mp-green btn-lg" data-address-form-link="">Delivery</a>
-  <a id="pickup" href="#" class="btn btn-mp-green btn-lg" data-address-form-link="">Pickup</a>
+  <a id="delivery" href="#" class="btn btn-primary btn-lg" data-address-form-link="">Delivery</a>
+  <a id="pickup" href="#" class="btn btn-primary btn-lg" data-address-form-link="">Pickup</a>
 </div>
 <div id="delivery-error-options" class="hide text-center">
-  <a id="delivery" href="#" class="btn btn-mp-green btn-lg" data-address-form-link="">Delivery</a>
-  <a id="pickup" href="#" class="btn btn-mp-green btn-lg" data-address-form-link="">Pickup</a>
-  <a id="search" href="#" class="btn btn-mp-green btn-lg" data-address-form-link="">Search</a>
+  <a id="delivery" href="#" class="btn btn-primary btn-lg" data-address-form-link="">Delivery</a>
+  <a id="pickup" href="#" class="btn btn-primary btn-lg" data-address-form-link="">Pickup</a>
+  <a id="search" href="#" class="btn btn-primary btn-lg" data-address-form-link="">Search</a>
 </div>
 
       </div><!--row-->
@@ -192,7 +232,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <div class="col-md-5">
           <h5>Send us a Message</h5>
             <p>Our support team will email you right back!</p>
-            <a class="button" data-toggle="modal" data-target="#contactmodal">Get in touch!</a>
+            <a href="" class="button" data-toggle="modal" data-target="#contactmodal">Get in touch!</a>
           </div>
 
           <div class="col-md-7">
@@ -208,67 +248,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </div>
 </div><!-- supportmodal -->
 
-    <nav class="main-navbar navbar navbar-default" role="navigation">
-  <div class="container">
-
-    <!-- BRAND -->
-      <a class="brand pull-left" href="http://mypizza.com/">
-        <img alt="MyPizza.com" class="img-responsive" type="image/svg+xml" src="http://d15gxu7ovfe8pd.cloudfront.net/assets/mypizza-logo-524d5120d3640133d01e52963657f787.svg">
-</a>    <!-- BRAND END -->
-
-    <!-- NAVIGATION -->
-      <ul class="navicons pull-right list-inline vcenter navbar-right" role="navigation">
-        <li class="hidden-xs">
-  <a href="http://mypizza.com/">
-    <span class="icon-my-location" data-toggle="tooltip" data-placement="bottom" title="Search"></span>
-</a></li>
-  <li class="disabled hidden-xs">
-    <span class="icon-restaurants" data-toggle="tooltip" data-placement="bottom" title="Restaurants"></span>
-  </li>
-  <li class="hidden-xs">
-    <a href="/restaurants/il/chicago/60659/villa-palermo/menu">
-      <span class="icon-menu" data-toggle="tooltip" data-placement="bottom" title="Menu"></span>
-</a>  </li>
-  <li class="disabled hidden-xs">
-    <span class="icon-shopping-cart" data-toggle="tooltip" data-placement="bottom" title="Checkout"></span>
-  </li>
-
-
-        <div class="divider-vertical hidden-xs"></div>
-        <li class="dropdown">
-          <a href="#" data-toggle="dropdown"><span class="icon-more"></span></a>
-          <ul class="dropdown-menu dropdown-menu-right" role="menu">
-            <li class="hidden-sm hidden-md hidden-lg">
-  <a href="http://mypizza.com/">
-    Home
-</a></li>
-  <li class="hidden-sm hidden-md hidden-lg">
-    <a href="/restaurants/il/chicago/60659/villa-palermo/menu">
-      Menu
-</a>  </li>
-<li class="divider hidden-sm hidden-md hidden-lg"></li>
-
-
-              <li><a href="/user_sessions/new">Register</a></li>
-
-            <li><a data-toggle="modal" data-target="#supportmodal">24/7 Support</a></li>
-            <li><a href="/pages/faq">FAQ</a></li>
-            <li><a href="/pages/learn-more">Discover</a></li>
-            <li><a href="/pages/partner-companies">Restaurant Owners</a></li>
-              <li class="divider"></li>
-              <li><a href="/user_sessions/new">Log In</a></li>
-          </ul>
-        </li>
-      </ul>
-    <!-- NAVIGATION END -->
-
+<div id="remote-modal" class="modal fade" tabindex="-1" aria-hidden="true" role="dialog">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+    </div>
   </div>
-</nav>
+</div>
+
+    <header class="navbar navbar-mypizza ">
+  <div class="container">
+    <a href="http://mypizza.com/">
+      <div class="brand "></div>
+</a>
+    <div class="menu pull-right">
+        <a class="navbar-item" href="/user_sessions/new">
+          <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 20 20" class="stroke-color-white"><style>.st0{fill:none;stroke:#000;stroke-miterlimit:10}</style><path class="st0" d="M15.1 2C10.8-.8 5 .5 2.2 4.9-.5 9 .5 14.6 4.3 17.3c.1-.8.4-1.7.9-2.4.7-1.1 1.8-1.9 2.9-2.3-.5-.3-.9-.7-1.3-1.3-1-1.8-.4-4 1.4-5.1 1.8-1 4-.4 5.1 1.4 1 1.7.4 3.9-1.3 5-1.3-.5-2.7-.4-3.9 0-.1 0 0 0 0 0-1.2.4-2.2 1.2-2.9 2.3-.5.8-.8 1.6-.9 2.4.2.2.5.3.7.5 3.4 2.2 7.9 2.1 10.8-.5-.2-1.7-1.1-3.2-2.6-4.2-.3-.2-.7-.4-1-.5.4.1.7.3 1 .5 1.5 1 2.4 2.5 2.6 4.2.8-.6 1.5-1.4 2.1-2.3 2.9-4.4 1.6-10.2-2.8-13z"></path></svg>
+ Sign In
+</a>      
+    </div>
+  </div>
+</header>
 
 
 
-
-<div class="container">
+    <div class="main-content" id="">
+      <div class="container">
   <div class="row padding-tb-20">
     <div class="col-md-3">
   <ul class="nav nav-pills nav-stacked side-nav">
@@ -296,89 +300,275 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <div class="col-md-9">
       <div class="page-header">
-        <h2>Privacy</h2>
+        <h1>MyPizza Technologies, Inc. Privacy Policy</h1>
       </div>
 
       <div class="col-md-11">
-        <h4>Privacy Statement</h4>
-        <p>BizFarm Inc / MyPizza.com ("MyPizza.com" or "we" or "us" or "our") respects the privacy of its users ("user" or "you") whether they use our website located at MyPizza.com, including other media forms and media channels related or connected thereto (collectively, the "Website") to order food from local restaurants, to advertise food for sale or simply to view the Website. The following MyPizza.com privacy policy ("Privacy Policy") is designed to inform you, as a user of the Website, about the types of information that MyPizza.com may gather about or collect from you in connection with your use of the Website. It also is intended to explain the conditions under which MyPizza.com uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the Website, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the Website you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the Website.</p>
-        <p>Our Website is hosted in the United States of America and is subject to U.S. state and federal law. If you are accessing our Website from other jurisdictions, please be advised that you are transferring your personal information to us in the United States, and by using our Website, you consent to that transfer and to abide by the applicable laws of applicable states and U.S. federal law concerning your use of the Website and your agreements with us. Any persons accessing our Website from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure different from those of the jurisdictions mentioned above may only use the Website in a manner lawful in their jurisdiction. If your use of our Website would be unlawful in your jurisdiction, please do not use the Website.</p>
-        <p>BY USING OR ACCESSING THE WEBSITE, YOU ARE ACCEPTING THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY.</p>
+        <p>
+          This Privacy Policy describes the policies and procedures of MyPizza Technologies, Inc. (“we”, “our” or “us”) on the collection, use and disclosure of your information on www.MyPizza.com (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
+        </p>
 
-        <h4>Information Collection</h4>
-        <p>MyPizza.com collects information volunteered by consumers when they register and place orders on our Web site. The information we collect through registration and order placement is used to provide the services specified on our Website. From time to time, we may solicit additional personal and demographic information, for market research purposes, in the form of surveys or polls. Participation in market research surveys by our customers is entirely optional and at their discretion. We also store information such as page views, computer IP addresses, and other statistics in the form of logs. These logs are used solely to enhance the technical performance of our Website.</p>
+        <h2><b>What Does This Privacy Policy Cover?</b></h2>
+        <p>
+          This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners.
+        </p>
+        <p>
+          This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“Third Party Services”) that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
+        </p>
 
-        <h4>Website Registration</h4>
-        <p>MyPizza.com collects a range of Personally-Identifying Information from and about Website users. Much of the Personally-Identifying Information collected by MyPizza.com about users is information provided by users themselves at the time they register with the Website and purchase food. That information may include each user's name, address, email address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender, age, date of birth, username, hometown and other demographic information, and other relevant information as determined by MyPizza.com from time to time. Users of the Website are under no obligation to provide MyPizza.com with Personally-Identifying Information of any kind, with the caveat that a user's refusal to do so may prevent the user from using certain Website features.</p>
-        <p>BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONALLY IDENTIFYING INFORMATION AS DESCRIBED IN THIS "WEBSITE REGISTRATION" SECTION.</p>
+        <h2><b>What Information Do We Collect?</b></h2>
+        <p>
+          The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect and/or display some of your Personal Information. We collect the following types of information from our users.
+        </p>
 
-        <h4>Online Forums and Public Postings; Other Collections</h4>
-        <p>Certain Personally-Identifying Information collected from users is disclosed as a matter of course as a result of those users' use of the Website. We provide areas on our Websites where you can post information and reviews about restaurants. Such postings are governed by our Terms of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. USERS ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM THEIR VOLUNTARY DISCLOSURE OF PERSONALLY IDENTIFYING INFORMATION.</p>
+        <h4>Account Information:</h4>
+        <p>
+          When you create an Account, you will provide information that could be Personal Information, such as your username, address, password, email address, telephone number, and, if you transact business with us, financial information such as your payment method. You acknowledge that this information may be personal to you, and by creating an account on the Services and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our Services, but only rarely when we feel such information is important. You may unsubscribe from these messages through your Account settings, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.  We also may request information about your interests and activities, your gender, age, date of birth, username, hometown and other demographic information, and other relevant information as determined by MyPizza from time to time. You are under no obligation to provide MyPizza with Personal Information of any kind, with the caveat that a user's refusal to do so may prevent the user from using certain Services features.
+        </p>
 
-        <h4>MyPizza.com Communications</h4>
-        <p>We may occasionally use your name and email address to send you notifications regarding new services offered by the Website that we think you may find valuable. We may also send you service-related announcements from time to time through the general operation of the service. Generally, you may opt out of such emails at the time of registration or through your account settings, though we reserve the right to send you notices about your account even if you opt out of all voluntary email notifications.</p>
-        <p>Our customer service representatives may use your telephone number and E-mail address to notify you of the status of your order as necessary and appropriate. MyPizza.com reserves the right to use the information collected to send special offers on behalf of third party partners or vendors (including Restaurants) participating in our service. However, we do not share your information with the Restaurant other than the information necessary to conduct business as stated above.</p>
+        <h4>User Content:</h4>
+        <p>
+          Some features of the Services allow you to provide content to the Services, such as written comments. All content submitted by you to the Services may be retained by us indefinitely, even after you terminate your account. We may continue to disclose such content to third parties in a manner that does not reveal Personal Information, as described in this Privacy Policy.
+        </p>
 
-        <h4>Notices of Violations of Website Terms of Use and Other Communications Directed to MyPizza.com</h4>
-        <p>By submitting a copyright infringement notification under the Digital Millennium Copyright Act (DMCA) (explained further in our Infringement Policy) or other communication (including communications about content stored on or transmitted through the Website) you consent to have such communication forwarded to the person or entity who stored, transmitted or linked to the content addressed by your communication, in order to facilitate a prompt resolution. For notices of violations of our Terms of Use or other communications (but not DMCA copyright infringement notifications), upon request MyPizza.com will edit out your name and contact information. However, DMCA copyright infringement notifications (including any personally identifiable information set forth in the notifications) will be forwarded as submitted to MyPizza.com without any deletions.</p>
+        <h4>Financial Information:</h4>
+        <p>
+          We do not currently collect financial information, such as your payment method (valid credit card number, type, expiration date or other financial information); that information is collected and stored by our third party payment processing company (the “Payment Processor”), and use and storage of that information is governed by the Payment Processor’s applicable terms of service and privacy policy.
+        </p>
 
-        <h4>Information Sharing</h4>
-        <p>In order to process your order, we must share the following information every time you place an order with a Restaurant: your name, delivery address (if applicable), food order, and credit card information (if applicable). We also share your telephone number so the Restaurant may optionally verify that the order is not fraudulent. We restrict this information flow to only the bare minimum elements required to prepare and fulfill your orders. Occasionally, we may voluntarily share, sell or rent aggregated (non-personal) market research data with third party partners and vendors. This information does not contain personally identifiable information and is shared for the purposes of enhancing our service. We may present offers to you on behalf of third party partners. If you accept an offer, we will share your name, address and credit card information with this third party. We will not share this information without your consent.</p>
+        <h4>IP Address Information and Other Information Collected Automatically:</h4>
+        <ul class="bullet-list">
+          <li>
+            We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on).
+          </li>
+          <li>
+            Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
+          </li>
+          <li>
+            We may collect some device-specific information if you access the Services using a mobile device.  Device information may include but is not limited to unique device identifiers, network information, and hardware model, as well as information about how the device interacts with our Services.
+          </li>
+        </ul>
 
-        <h4>Disclosures</h4>
-        <p>MyPizza.com will disclose Personally-Identifying Information under the following circumstances:
-          </p><ul>
-            <li>• By Law or to Protect Rights. When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of MyPizza.com, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Terms of Use or other agreements or policies, in response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.</li>
-            <br>
-            <li>• Direct mail partners. From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you may opt-out at the time you register for our Website, or at any time thereafter by going to your account settings or contacting us using the contact information below.</li>
-            <br>
-            <li>• Marketing Communications. Unless users opt-out from receiving MyPizza.com marketing materials upon registration, MyPizza.com will email users about products and services that MyPizza.com believes may be of interest to them and MyPizza.com also will provide users' email information to third parties, so that those third parties may directly contact users about additional products and services. If a user wishes to opt-out of receiving marketing materials from MyPizza.com or having their email information provided to third parties at any time after registration, users may do so by going to your account settings or contacting us using the contact information below. Even after opting-out, a user may continue to receive marketing emails from third parties to whom MyPizza.com already has provided the user's email information. Users will be responsible for directly contacting such third parties to request cessation of further marketing emails.</li>
-            <br>
-            <li>• Restaurants. Whenever a user places an order for food from a restaurant, MyPizza.com will transfer all information to the restaurant necessary for preparing and processing the order. On occasion, this may include transferring credit card and other payment information in cases where a restaurant, rather than MyPizza.com, is processing the payment. Users will need to contact restaurants directly to determine the privacy policies that apply to the information that MyPizza.com transfers to the restaurants.</li>
-            <br>
-            <li>• Third Party Service Providers. We may share your Personally-Identifying Information, which may include your name and contact information (including email address) with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our Website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purpose.</li>
-            <br>
-            <li>• Business Transfers; Bankruptcy. MyPizza.com reserves the right to transfer all Personally-Identifying Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of MyPizza.com assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally-Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and are given an opportunity to affirmatively opt-out of it. Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization.</li>
-          </ul>
-        <p></p>
+        <h4>Email Communications:</h4>
+        <p>
+          We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.
+        </p>
 
-        <h4>E-mail/Anti-Spam Information</h4>
-        <p>MyPizza.com does not purchase bulk E-mail addresses nor do we use the services of bulk E-mail companies for promoting our service. This means we will not distribute, sell or rent your E-mail address to any third party. Moreover, our E-mail servers do not relay E-mail destined for non-local domains.</p>
+        <h4>Information Collected Using Cookies:</h4>
+        <ul class="bullet-list">
+          <li>
+            Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Services through the Internet.
+          </li>
+          <li>
+            Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Services and may associate that information with your Account if you have one.
+          </li>
+          <li>
+            Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave cookies active, because they enable you to take advantage the most attractive features of the Services.
+          </li>
+          <li>
+            This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer.
+          </li>
+        </ul>
 
-        <h4>Use of Cookies</h4>
-        <p>We use "cookies" (small text files stored in your internet browser) to enhance your ordering experience. Cookies allow Web site users to order faster and more efficiently by storing information such as your location, order information and personal preferences. We do not use cookies to track your surfing habits and activities outside of our Web site. Cookies can be easily and safely deleted from your computer. Refer to our browser's help section for instructions.</p>
+        <h4>Information Related to Advertising and the Use of Web Beacons:</h4>
+        <p>
+          To support and enhance the Services, we may serve advertisements, and also allow third parties advertisements, through the Services. These advertisements are sometimes targeted and served to particular users and may come from third party companies called “ad networks.”  Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms.
+        </p>
+        <p>
+          Advertisements served through the Services may be targeted to users who fit a certain general profile category and may be based on anonymized information inferred from information provided to us by a user, including Personal Information (e.g., gender or age), may be based on the Services usage patterns of particular users, or may be based on your activity on Third Party Services. We do not provide Personal Information to any ad networks for use outside of the Services.
+        </p>
+        <p>
+          To increase the effectiveness of ad delivery, we may deliver a file (known as a “web beacon”) from an ad network to you through the Services. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.
+        </p>
 
-        <h4>Security Information</h4>
-        <p>MyPizza.com always uses industry standard encryption technologies, such as 128 bit SSL encryption, when transferring and receiving private consumer data on our Website. This information can only be translated once it is received by our secure services. These secure servers help to protect against the loss, misuse, or alteration of information that we have collected from you through our Website.</p>
+        <h4>Aggregate Information:</h4>
+        <p>
+          We collect statistical information about how both unregistered and registered users, collectively, use the Services (“Aggregate Information”). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you, your Account or your web browser.
+        </p>
 
-        <h4>Policy Changes</h4>
-        <p>From time to time, MyPizza.com may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should periodically check this section of our Website.</p>
+        <h4>Information Regarding Your Social Networks:</h4>
+        <p>
+          Occasionally, you can use your Account on our Services to interact with your accounts on other services, such as Facebook or Twitter.  In addition to using your third party account credentials to sign in to the Services, you can access posting and sharing tools on the Services, including a “share” button that allows you to post information to your social networks outside of the Services (“Share”).  For example, after making a reservation on the Services, you can Share information about that reservation with your Facebook friends or Twitter followers.  Please note that these tools may be operated by Third Party Services.
+        </p>
+        <p>
+          By using these tools, you acknowledge that some Third Party Account Information may be transmitted into your Account with us, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy.  Additionally, when you use one of these sharing tools, the Third Party Service that operates the tool may be collecting information about your browser or online activity through its own tracking technologies and subject to its own privacy policy.  Lastly, when you use these tools, some of your information from the Services (such as the reservation information you selected to Share) may be shared with the Third Party Service and others.  Therefore, we encourage you to read the privacy policies and other policies of the social networks you use in connection with the Services.
+        </p>
 
+        <h2><b>How, and With Whom, Is My Information Shared?</b></h2>
+        <p>
+          The Services are designed to help you share information with others. As a result, some of the information generated through the Services is shared publicly or with third parties.
+        </p>
+
+        <h4>Information Shared with Restaurants:</h4>
+        <p>
+          In order to process your order, we must share the following information every time you place an order with a Restaurant: your name, delivery address (if applicable), food order, and credit card information (if applicable). We also share your telephone number so the Restaurant may optionally verify that the order is not fraudulent. We restrict this information flow to only the bare minimum elements required to prepare and fulfill your orders. You should contact restaurants directly to determine the privacy policies that apply to the information that MyPizza transfers to the restaurants.
+        </p>
+
+        <h4>Public Information About Your Activity on the Services:</h4>
+        <p>
+          Some of your activity on and through the Services is public by default. This may include, but is not limited to, content you have posted publicly on the Site or otherwise through the Services, including posts of information and reviews about Restaurants.  In addition, such postings may appear on other websites or when searches are executed on the subject of your posting.
+        </p>
+        <p>
+          Registered users may have some of this information associated with their Accounts. Unregistered users will not have this association, but information concerning their use of the Services (such as what pages they have visited) may be tracked anonymously through the use of cookies and stored by us.
+        </p>
+        <p>
+          Please also remember that if you choose to provide Personal Information using certain public features of the Services, then that information is governed by the privacy settings of those particular features and may be publicly available. Individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Services.
+        </p>
+
+        <h4>IP Address Information:</h4>
+        <p>
+          While we collect and store IP address information, that information is not made public. We do at times, however, share this information with our partners, service providers and other persons with whom we conduct business, and as otherwise specified in this Privacy Policy.
+        </p>
+
+        <h4>Information You Elect to Share:</h4>
+        <p>
+          You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services’ privacy policies. This Privacy Policy only governs information collected on the Services.
+        </p>
+
+        <h4>Aggregate Information:</h4>
+        <p>
+          We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how our Services interface with them. In addition, these third parties may share with us non-private, aggregated or otherwise non Personal Information about you that they have independently developed or acquired.
+        </p>
+
+        <h4>Email and Telephone Communications with Us:</h4>
+        <p>
+          As part of the Services, you may occasionally receive email and other communications from us, such as communications relating to your Account. Communications relating to your Account will only be sent for purposes important to the Services, such as password recovery.
+        </p>
+
+        <p>
+          We may occasionally use your name and email address to send you notifications regarding new services offered by the Services that we think you may find valuable. In addition, we may present offers to you on behalf of third party partners. If you accept an offer, we will share your name, address and credit card information with this third party.
+        </p>
+
+        <p>
+          Our customer service representatives may use your telephone number and E-mail address to notify you of the status of your order as necessary and appropriate. MyPizza reserves the right to use the information collected to send special offers on behalf of third party partners or vendors (including Restaurants) participating in our service. However, we do not share your information with the Restaurant other than the information necessary to conduct business as stated above.
+        </p>
+
+        <p>
+          MyPizza does not purchase bulk E-mail addresses nor do we use the services of bulk E-mail companies for promoting our service. This means we will not distribute, sell or rent your E-m
+        </p>
+
+        <h4>User Profile Information:</h4>
+        <p>
+          User profile information including your username and other information you enter may be displayed to other users to facilitate user interaction within the Services. We will not directly reveal user email addresses to other users.
+        </p>
+
+        <h4>Financial Information:</h4>
+        <p>
+          As stated above, we do not currently collect financial information, as that information is collected and stored by our Payment Processor. However, we may from time to time request and receive some of your financial information from our Payment Processor for the purposes of completing transactions you have initiated through the Services, enrolling you in discount, rebate, and other programs in which you elect to participate, protecting against or identifying possible fraudulent transactions, and otherwise as needed to manage our business.
+        </p>
+
+        <h4>Information Shared with Our Agents:</h4>
+        <p>
+          We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share Personal Information with our Agents in order to provide products or services to you. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through the Services.  Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.
+        </p>
+
+        <h4>Information Disclosed Pursuant to Business Transfers:</h4>
+        <p>
+          In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy.
+        </p>
+
+        <h4>Information Disclosed for Our Protection and the Protection of Others:</h4>
+        <p>
+          We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
+        </p>
+
+        <h4>Direct Mail Partners:</h4>
+        <p>
+          From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you may opt-out at the time you register for our Site, or at any time thereafter by going to your account settings or contacting us using the contact information below.
+        </p>
+
+        <h4>Marketing Communications:</h4>
+        <p>
+          Unless you opt-out from receiving MyPizza marketing materials upon registration, MyPizza will email you about products and services that MyPizza believes may be of interest to you.  MyPizza may also will provide your email information to third parties, so that those third parties may directly contact you about additional products and services. If you wish to opt-out of receiving marketing materials from MyPizza or having your email information provided to third parties at any time after registration, you may do so by going to your account settings or contacting us using the contact information below. Even after opting-out, you may continue to receive marketing emails from third parties to whom MyPizza already has provided your email information prior to opting out. You are responsible for directly contacting such third parties to request cessation of further marketing emails.
+        </p>
+
+        <h4>Information We Share With Your Consent:</h4>
+        <p>
+          Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+        </p>
+
+        <h2><b>Is Information About Me Secure?</b></h2>
+        <p>
+          Your Account information will be protected by a password for your privacy and security. You need to prevent unauthorized access to your Account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your Account.
+        </p>
+        <p>
+          We seek to protect Account information to ensure that it is kept private; however, we cannot guarantee the security of any Account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+        </p>
+        <p>
+          We otherwise store all of our information, including your IP address information, using industry-standard techniques, such as 128 bit SSL encryption. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, Personal Information or otherwise.
+        </p>
+
+        <h2><b>What Information of Mine Can I Access?</b></h2>
+        <p>
+          If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
+        </p>
+        <p>
+          <i>California Privacy Rights:</i> Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: [1201 Broadway New York, NY 10001].
+        </p>
+
+        <h2><b>How Can I Delete My Account?</b></h2>
+        <p>
+          Should you ever decide to delete your Account, you may do so by emailing [support@mypizza.com]. If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
+        </p>
+
+        <h2><b>What Choices Do I Have Regarding My Information?</b></h2>
+        <ul class="bullet-list">
+          <li>
+            You can use many of the features of the Services without registering, thereby limiting the type of information that we collect.
+          </li>
+          <li>
+            You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features.
+          </li>
+          <li>
+            You can delete your Account. Please note that we will need to verify that you have the authority to delete the Account, and activity generated prior to deletion will remain stored by us and may be publicly accessible.
+          </li>
+        </ul>
+
+        <h2><b>What Happens When There Are Changes to this Privacy Policy?</b></h2>
+        <p>
+          We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
+        </p>
+
+        <h2><b>What If I Have Questions or Concerns?</b></h2>
+        <p>
+          If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to legal@mypizza.com. We will make every effort to resolve your concerns.
+        </p>
+
+        <p class="margin-t-20">
+          <b>Effective Date:</b> March 23, 2016
+        </p>
       </div>
     </div>
   </div>
 </div><!--row-->
 
-      <div class="container text-center">
-    <div class="footer">
-      <ol class="breadcrumb">
-        <li><a href="/user">Account</a></li>
-        <li><a href="/pages/learn-more">Discover</a></li>
-        <li><a data-toggle="modal" data-target="#supportmodal" href="#">24/7 Support</a></li>
-        <li><a href="/pages/faq">FAQ</a></li>
-        <li><a href="/pages/partner-companies">Restaurant Owners</a></li>
-        <li><a href="/jobs">Jobs</a></li>
-      </ol>
-
-      <h6 class="text-center">
-        © Copyright 2015 MyPizza.com   <a href="/pages/terms-of-use">Terms of Use</a>   <a href="/pages/privacy">Privacy</a>
-      </h6>
     </div>
-  </div>
 
+      <footer>
+    <ol class="breadcrumb footer-nav">
+      <li><a href="/pages/learn-more">About Us</a></li>
+      <li><a data-toggle="modal" data-target="#supportmodal" href="#">24/7 Support</a></li>
+      <li><a href="/pages/faq">FAQ</a></li>
+      <li><a href="/pages/partner-companies">Restaurant Owners</a></li>
+      <li><a href="/jobs">Jobs</a></li>
+    </ol>
 
-    <script src="http://d15gxu7ovfe8pd.cloudfront.net/assets/application-3466aecb329e619b89876dfebc157a16.js"></script>
-    
+    <div class="copyright">
+      © Copyright 2016 MyPizza.com   <a href="/pages/terms-of-use">Terms of Use</a>&nbsp;·&nbsp;<a href="/pages/privacy">Privacy</a>
+    </div>
+  </footer>
+
+    <script src="http://d15gxu7ovfe8pd.cloudfront.net/assets/application-56eabd67e73a15665755b1030be8a718e45b819a76c152cc4cea9956522f1fab.js"></script>
+    <script type="text/javascript">
+var fby = fby || [];
+fby.push(['showTab', {id: '10506', position: 'right', color: '#767676'}]);
+(function () {
+    var f = document.createElement('script'); f.type = 'text/javascript'; f.async = true;
+    f.src = '//cdn.feedbackify.com/f.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s);
+})();
+</script>
+
   
 
 </body></html>
