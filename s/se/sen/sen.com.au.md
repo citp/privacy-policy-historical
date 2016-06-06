@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sen.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035803id_/http%3A//www.sen.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sen.com.au privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606065653id_/http%3A//www.sen.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -100,7 +100,7 @@ These third parties do not have permission to use, sell or transfer personal inf
 
 We may also disclose PI to unrelated third parties (for example, our professional advisers and government authorities or agencies) where that disclosure is reasonably required to obtain advice, prepare legal proceedings, investigate suspected improper conduct or wrong doing, to assist a lawful authority in the discharge of its duties and/or by law.
 
-Where we hold promotions in conjunction with other companies, we will offer you the opportunity to be contacted by our promotions partner. We will not provide your PI to the promotions partner unless you have opted in to having such PI passed on.
+Where we hold promotions in conjunction with other companies, we will offer your details to be contacted by our promotions partner.
 
 We cannot be held responsible for any misuse or unauthorised disclosure of your PI by these third parties. We generally advise you not to publish or communicate personal information, or at least to limit the personal information that you publish or communicate, to the public via our services, platforms or interactive forums. You acknowledge that by disclosing personal information on those services, platforms and interactive forums you are accepting that we cannot control any third party collection of that information.
 
