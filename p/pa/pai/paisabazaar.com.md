@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paisabazaar.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112218id_/http%3A//www.paisabazaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paisabazaar.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606180930id_/http%3A//www.paisabazaar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Paisabazaar.com
 
