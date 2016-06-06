@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stylemoi.nu privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207021336id_/http%3A//www.stylemoi.nu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylemoi.nu privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606140914id_/http%3A//www.stylemoi.nu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Style Moi
 
 **PRIVACY POLICY**
 
-Style Moi ("StyleMoi", “Style-Moi”, “style moi”, "we", "our", "us) is a trading name of Pando Corporation. We respect the privacy rights of its online visitors ("you", "your", "yours") and recognize the importance of protecting the information collected about them. We have adopted a     corporate wide Privacy Policy that guides how we collect, store, and use the information that you provide us with.
+Style Moi (“StyleMoi”, “Style-Moi”, “style moi”, “we”, “our”, “us) is a trading name of Pando Corporation. We respect the privacy rights of its online visitors (“you”, “your”, “yours”) and recognize the importance of protecting the information collected about them. We have adopted a     corporate wide Privacy Policy that guides how we collect, store, and use the information that you provide us with.
 
 The following information is provided by Style Moi to enable our online visitors to be fully informed of our Privacy Policies. By visiting stylemoi.nu, you are accepting and consenting to the practices described in this Privacy Policy and the Terms and Conditions.
 
@@ -24,7 +24,7 @@ The following information is provided by Style Moi to enable our online visitors
 
 •          Where and how to ask questions or file complaints
 
-If you are under 16, we require that you inform a parent or guardian about Style Moi's Privacy Policy and Terms and Conditions as well as requiring their consent to the Privacy Policy and Terms and Conditions before registering or placing an order with Style Moi.
+If you are under 16, we require that you inform a parent or guardian about Style Moi’s Privacy Policy and Terms and Conditions as well as requiring their consent to the Privacy Policy and Terms and Conditions before registering or placing an order with Style Moi.
 
 This Privacy Policy does not apply to websites maintained by other companies or organizations to which we link and Style Moi is not responsible for any personal information you submit to third parties via our website. Please ensure that you read the Privacy Policy of such other companies or organizations before submitting your details.
 
@@ -76,9 +76,9 @@ We may also use your Data to send you marketing updates but only ever in accorda
 
 We do collect information about site traffic, sales, wish lists, and other commercial information which we may pass on to third parties but this information does not include any Data which can identify you personally.
 
-Finally, we may use your Data for our internal and demographic studies, together with non-personal data to monitor customer patterns so we can consistently improve our site design to better meet our visitors' needs.
+Finally, we may use your Data for our internal and demographic studies, together with non-personal data to monitor customer patterns so we can consistently improve our site design to better meet our visitors’ needs.
 
-From time to time Style Moi may employ third party business partners to collect Data on Style Moi's behalf and to assist Style Moi with its [data hosting, email, debt collection (only if applicable) and customer services (“Third Party Service Providers”). In such cases, these Third Party Service Providers will be subject to confidentiality agreements and instructed by Style Moi to comply fully with the Style Moi Privacy Policy.
+From time to time Style Moi may employ third party business partners to collect Data on Style Moi’s behalf and to assist Style Moi with its [data hosting, email, debt collection (only if applicable) and customer services (“Third Party Service Providers”). In such cases, these Third Party Service Providers will be subject to confidentiality agreements and instructed by Style Moi to comply fully with the Style Moi Privacy Policy.
 
 **DIRECT MARKETING OPT-IN AND OPT-OUT PROVISION**
 
@@ -92,7 +92,7 @@ Alternatively you can change your email preferences or opt out of all emails by 
 
 **HOW YOU CAN ACCESS AND IF NECESSARY, CHANGE THE DATA STYLE MOI MAINTAINS**
 
-If for any reason you are concerned that the Data held by Style Moi is not correct, please visit the website and, after logging into the site using the "Sign In" menu on the home page, your Data will be made available for review and change in the "My Account" section. Only you or, upon your request, the Customer Care department, may access your Data from the website using your password and User ID.
+If for any reason you are concerned that the Data held by Style Moi is not correct, please visit the website and, after logging into the site using the “Sign In” menu on the home page, your Data will be made available for review and change in the “My Account” section. Only you or, upon your request, the Customer Care department, may access your Data from the website using your password and User ID.
 
 You may also change your shipping/billing addresses.
 
