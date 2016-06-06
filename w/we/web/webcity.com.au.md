@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcity.com.au privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206093328id_/http%3A//domains.webcity.com.au/terms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcity.com.au privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606163500id_/http%3A//domains.webcity.com.au/terms/privacy.php) for the most accurate reproduction.*
 
 # Domain Registration | Webcity Australia
 
