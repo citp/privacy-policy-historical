@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eddiebauer.ca privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222210255id_/http%3A//www.eddiebauer.com/company-info/company-info-privacy-and-security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eddiebauer.ca privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606094147id_/http%3A//www.eddiebauer.com/company-info/company-info-privacy-and-security.jsp) for the most accurate reproduction.*
 
 # Privacy And Security | Company Information | Eddie Bauer
 
@@ -14,13 +14,17 @@ Every time you visit our website, we automatically collect your Internet service
 
 When you purchase from Eddie Bauer or request a catalog, we collect information that you volunteer such as your name, email address, postal address, phone number and other information necessary to process your order or send you the catalog. 
 
-We also collect the information you provide to us when you register for "My Account", participate in a contest or sweepstakes promotion, fill out a survey or questionnaire, or contact us (for example via email, "Ask Eddie" or "Live Chat".) 
+We collect the information you provide to us when you register for "My Account", participate in a contest or sweepstakes promotion, fill out a survey or questionnaire, or contact us (for example via email, "Ask Eddie" or "Live Chat".) 
+
+We use mobile location analytics technology at our U.S. retail spaces to gain aggregate insights about customer behavior. The data collected is anonymous and works by sensing the presence of Wi-Fi enabled devices. No personal information is collected. This technology collects and hashes Media Access Control (MAC) addresses from Wi-Fi enabled devices that come in contact with our network equipment. In addition, this technology collects signal strength, time and date, the manufacturer of the device, and the name of a Wi-Fi network currently connected to the device, if applicable. A MAC address is a unique identifier assigned to every mobile device and is not the device's phone number. Collection of mobile location information only occurs when a device's Wi-Fi setting is turned on. 
 
 #### How do you use my information?
 
 The information we receive allows us to tailor our product offer and improve your shopping experience, making shopping easier and more enjoyable. It also enables us to process your purchases, confirm your orders, customize the content and layout of our pages, notify you about updates to our websites and products, and provide you with marketing information. 
 
 The information you supply to us is added to our customer database. You may receive periodic mailings or telephone calls from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such mailings or telephone calls from us, please click here for contact information. 
+
+We use mobile location analytics technology to develop anonymous and aggregated reporting and gain a better understanding of our customers' preferences. This information might be used, for example, to improve our store layouts or the timing of promotions and sales. If you wish to opt out of participation and delete existing mobile location data, please click here. 
 
 We occasionally provide your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you are online. Our advertising partners will make the data we provide it anonymous before using it to deliver ads online. We may partner with other service providers that collect non-identifiable information about your visits to our website, your interaction with our products and services, and your visits to other websites to serve ads targeted to your interests on other websites. The information is collected through the use of cookies, web beacons, and similar technologies, and does not include your name, address, e-mail address or other personal information. To learn more about these practices or to opt out of having this information used by our third-party advertising partners to serve ads targeted to your interests, please visit the Digital Advertising Alliance by [clicking here](http://www.aboutads.info/). To opt out of the online advertisements provided directly by Eddie Bauer, click here. If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice. 
 
@@ -60,6 +64,8 @@ We provide you access to the following information if you send us an email, call
   * Contact information (name, address, phone number)
 
 
+
+We provide you with the ability to delete personally identifiable information if you send us an email, call us or write to us 
 
 We evaluate each request and will reply in an appropriate manner and in a form of communication that ensures the security of the information you have requested. Any questions, please [contact us](https://web.archive.org/custserv/ask-eddie-email.jsp?sectionId=24448). 
 
