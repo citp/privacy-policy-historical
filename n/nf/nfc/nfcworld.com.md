@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfcworld.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207035628id_/http%3A//www.nfcworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfcworld.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606203818id_/http%3A//www.nfcworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy • NFC World+
 
@@ -60,8 +60,12 @@ Like most sites, those operated by SJB Research contain links to external sites.
 
 We do not pass on any personal information you have given us to any other website.
 
+### Sale of SJB Research Ltd or other related organisations
+
+Please note that if SJB Research Ltd or any of its lines of business is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, the relevant customer information database could be transferred as part of that transaction and your information accessed by such successor or purchaser.
+
 ### Changes to this privacy policy
 
 If this privacy policy changes we will publish an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
- _Last updated 24 September 2014._
+ _Last updated 5 May 2016._
