@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rawfuckclub.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607185327id_/http%3A//www.rawfuckclub.com/vod/RFC/info.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rawfuckclub.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606180531id_/http%3A//www.rawfuckclub.com/vod/RFC/info.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
                 <link rel="SHORTCUT ICON" href="images/favicon.ico">
@@ -14,7 +14,7 @@
 
 			<style type="text/css">
 		#mainwrapper {
-			background-image: url(images/background-6.png);
+			background-image: url(images/background-1.png);
 			background-attachment: initial;
 			background-origin: initial;
 			background-clip: initial;
@@ -33,6 +33,24 @@
 
 <script language="javascript" type="text/javascript">
 
+function header_email_click()
+{
+	var video = document.getElementsByTagName('video');
+	
+	if (video.length > 0) { video[0].style.visibility='hidden'; }
+	$('#email_popup').css('display', 'block');
+	$('#email_popup_email').val('');
+	$('#black_overlay').css('display', 'block');
+}
+
+function header_email_signup_click()
+{
+	var data = { email: $('#email_popup_email').val() };
+	
+	$.post('ajax_newsletter.php', data);
+	header_overlay_click();
+}
+
 function header_login_click()
 {
 	var video = document.getElementsByTagName('video');
@@ -43,23 +61,23 @@ function header_login_click()
 	document.getElementById('login').style.visibility='hidden';
 
 	document.forms[0].username.focus();
+	var div_username = document.getElementById('username');
+	var div_password = document.getElementById('password');
+	div_username.value = '';
+	div_password.value = '';
+	document.getElementById('loginError').style.visibility='hidden';
 }
 
-function header_login_close_click()
+function header_overlay_click()
 {
 	var video = document.getElementsByTagName('video');
 
 	if (video.length > 0) { video[0].style.visibility='visible'; }
 
+	$('#email_popup').css('display', 'none');
 	document.getElementById('login_popup').style.display='none';
 	document.getElementById('black_overlay').style.display='none';
 	document.getElementById('login').style.visibility='visible';
-	document.getElementById('loginError').style.visibility='hidden';
-
-	var div_username = document.getElementById('username');
-	var div_password = document.getElementById('password');
-	div_username.value = '';
-	div_password.value = '';
 }
 
 function header_login_login_keypress(field,e)
@@ -110,7 +128,7 @@ function header_login_login_click()
 
 <div id="login_popup">
 	<a href="help.php?page=faq"> <div id="loginpopup_help_button"></div> </a>
-	<a href="javascript:header_login_close_click();"><div id="loginpopup_close_button"></div></a>
+	<a href="javascript:header_overlay_click();"><div id="loginpopup_close_button"></div></a>
 	<h2>Login!</h2>
 	<form id="login_form">
 		<ul>
@@ -136,7 +154,16 @@ function header_login_login_click()
 	</form>
 </div>
 
-<div id="black_overlay" onclick="header_login_close_click();"></div>
+<div id="email_popup" style="display: none"> 
+	<h2>Pssst...</h2>
+	<p>Free movies, prizes, priority access to new content and special offers... exclusively for our email subscribers. Want in?</p>
+	<input type="text" id="email_popup_email" placeholder="email address">
+	<button onclick="header_overlay_click();" id="email_popup_no_button">No Thanks</button>
+	<button onclick="header_email_signup_click();" id="email_popup_yes_button">Sign Me Up!</button>
+</div>
+
+
+<div id="black_overlay" onclick="header_overlay_click();"></div>
 
 <script language="javascript" type="text/javascript">
 
@@ -289,16 +316,22 @@ var seemore_column_count = 4;
 var seemore_column_index = 0;
 
 var seemore_actors = [{ "id": 1757, "name": "Aandre" },
+{ "id": 5556, "name": "Aarin Asker" },
 { "id": 4731, "name": "Aaron Summer" },
+{ "id": 5642, "name": "Adam Avery" },
 { "id": 36, "name": "Adam Burr" },
 { "id": 4753, "name": "Adam Gunner" },
 { "id": 5019, "name": "Adam Russo" },
 { "id": 1942, "name": "Adrian" },
 { "id": 51, "name": "Aiden Shaw" },
 { "id": 56, "name": "AJ Long" },
+{ "id": 5671, "name": "Alejandro" },
+{ "id": 5839, "name": "Alejandro Fusco" },
 { "id": 4345, "name": "Alejandro Wilde" },
 { "id": 5486, "name": "Alessandro Morante" },
+{ "id": 5692, "name": "Alessio Ribiero" },
 { "id": 5460, "name": "Alessio Romero" },
+{ "id": 5803, "name": "Alex Mason" },
 { "id": 4381, "name": "Alex Wolfe" },
 { "id": 5154, "name": "Allaphe Lopez" },
 { "id": 2643, "name": "Amir" },
@@ -306,7 +339,9 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 88, "name": "Andre Barclay" },
 { "id": 2717, "name": "Andrei" },
 { "id": 4171, "name": "Andres" },
+{ "id": 5698, "name": "Andy Star" },
 { "id": 4619, "name": "Angelo" },
+{ "id": 5584, "name": "Angelo Pena" },
 { "id": 4377, "name": "Anton Dickson" },
 { "id": 108, "name": "Antonio" },
 { "id": 2937, "name": "Antonio Biaggi" },
@@ -316,10 +351,13 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 140, "name": "Austin Shadow" },
 { "id": 4398, "name": "Bbixby" },
 { "id": 151, "name": "Ben Armstrong" },
+{ "id": 5623, "name": "Billy Warren" },
 { "id": 4553, "name": "Blake Daniels" },
+{ "id": 5673, "name": "Blake Riding" },
 { "id": 4622, "name": "Blue Bailey" },
 { "id": 191, "name": "Boyhous" },
 { "id": 2552, "name": "Brandon Hawk" },
+{ "id": 5795, "name": "Braxton Smith" },
 { "id": 5278, "name": "Brett Bradley" },
 { "id": 2557, "name": "Buster Sly" },
 { "id": 4637, "name": "Caleb Ramble" },
@@ -350,19 +388,23 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 5290, "name": "David Lambert" },
 { "id": 1641, "name": "David Starr" },
 { "id": 1629, "name": "Davis Khalo" },
+{ "id": 5729, "name": "Daxton Ryker" },
 { "id": 4855, "name": "Dayton O\'Connor" },
 { "id": 5395, "name": "Dean Brody" },
+{ "id": 5730, "name": "Dek Reckless" },
 { "id": 420, "name": "Derek Parker" },
 { "id": 4456, "name": "Derrick" },
 { "id": 4521, "name": "Derrick Hanson" },
+{ "id": 5672, "name": "Dev" },
+{ "id": 5728, "name": "Dillon Anderson" },
 { "id": 449, "name": "Dimitri Santiago" },
 { "id": 459, "name": "DJ Ryder" },
 { "id": 1646, "name": "Dmitri Santiago" },
 { "id": 5182, "name": "Dolf Dietrich" },
-{ "id": 5409, "name": "Dolph Dietrich" },
 { "id": 4542, "name": "Dominic Sol" },
 { "id": 464, "name": "Dominik Rider" },
 { "id": 4881, "name": "Draven Torres" },
+{ "id": 5590, "name": "Drew Sebastian" },
 { "id": 4554, "name": "Drew Sumrok" },
 { "id": 5461, "name": "Duncan Valentine" },
 { "id": 1914, "name": "Dusty Robinchaux" },
@@ -371,11 +413,14 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 4612, "name": "Dylan Saunders" },
 { "id": 5268, "name": "Dylan Strokes" },
 { "id": 4614, "name": "Ed Hunter" },
+{ "id": 5674, "name": "Eddie Kordova" },
 { "id": 4271, "name": "Eddie von Fistenberg" },
 { "id": 1631, "name": "Edourd Ventoux" },
+{ "id": 5569, "name": "Eli Lewis" },
 { "id": 2115, "name": "Enigma" },
 { "id": 2718, "name": "Erick" },
 { "id": 1639, "name": "Eru" },
+{ "id": 535, "name": "Ethan Palmer" },
 { "id": 4332, "name": "Ethan Wolfe" },
 { "id": 3852, "name": "Fabio (Raw Fuck Club)" },
 { "id": 554, "name": "Franco Cento" },
@@ -386,15 +431,20 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 4244, "name": "Geoff Paine" },
 { "id": 4504, "name": "Gio Ryder" },
 { "id": 4453, "name": "Guiny" },
+{ "id": 5787, "name": "Gustavo Ryder" },
 { "id": 4315, "name": "Gutenberg" },
 { "id": 4236, "name": "Hot Rod" },
+{ "id": 5709, "name": "Hugh Hunter" },
 { "id": 615, "name": "Ian Jay" },
 { "id": 2441, "name": "Igor Lucas" },
 { "id": 4379, "name": "Italo Gang" },
 { "id": 623, "name": "Ivan" },
 { "id": 3164, "name": "Ivan (Raw Fuck Club)" },
+{ "id": 5817, "name": "Jackson Davis" },
+{ "id": 5657, "name": "Jackson Fillmore" },
 { "id": 2442, "name": "Jacob" },
 { "id": 4386, "name": "Jake Ascot" },
+{ "id": 5571, "name": "Jake Steel" },
 { "id": 3087, "name": "James Jones" },
 { "id": 663, "name": "James Roscoe" },
 { "id": 673, "name": "Jarod Steel" },
@@ -403,6 +453,7 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 696, "name": "Jay Grant" },
 { "id": 4450, "name": "Jay Hernandez" },
 { "id": 1644, "name": "Jay Phoenix" },
+{ "id": 5731, "name": "Jay Ricci" },
 { "id": 701, "name": "Jay Scorpio" },
 { "id": 704, "name": "Jayson Park" },
 { "id": 1630, "name": "Jean Paul" },
@@ -421,6 +472,7 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 3430, "name": "Jim Ferro" },
 { "id": 5426, "name": "Jimmie Slater" },
 { "id": 4400, "name": "Joao" },
+{ "id": 5645, "name": "Job Galt" },
 { "id": 4705, "name": "Joe Gunn" },
 { "id": 4800, "name": "Joey Rodriguez" },
 { "id": 5529, "name": "Johnny Parker" },
@@ -433,6 +485,7 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 5155, "name": "Juan Paula" },
 { "id": 820, "name": "Julian Schmidt" },
 { "id": 821, "name": "Junior" },
+{ "id": 2892, "name": "Justin Case" },
 { "id": 4440, "name": "Justin Cox" },
 { "id": 835, "name": "Kaike" },
 { "id": 4297, "name": "Kane Rider" },
@@ -463,9 +516,12 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 4273, "name": "Manuel Rokko" },
 { "id": 2534, "name": "Marcel Hoffman" },
 { "id": 981, "name": "Marcell Hoffman" },
+{ "id": 5759, "name": "Marcelo Pauzao" },
 { "id": 1645, "name": "Marco Cruise" },
+{ "id": 4882, "name": "Marcos Mateo" },
 { "id": 5544, "name": "Marcus Mateo" },
 { "id": 2881, "name": "Mariano" },
+{ "id": 997, "name": "Mario Cruz" },
 { "id": 5151, "name": "Markus Isaacs" },
 { "id": 1635, "name": "Marques Maddox" },
 { "id": 2014, "name": "Mason Garet" },
@@ -473,6 +529,7 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 1027, "name": "Matt" },
 { "id": 1031, "name": "Matt Sizemore" },
 { "id": 5534, "name": "Matt Stevens" },
+{ "id": 5677, "name": "Matt Wood" },
 { "id": 1035, "name": "Matthias von Fistenberg" },
 { "id": 4856, "name": "Max Cameron" },
 { "id": 1055, "name": "Michael Beck" },
@@ -482,8 +539,10 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 1079, "name": "Mikael" },
 { "id": 4797, "name": "Mike Anders" },
 { "id": 4801, "name": "Mike Dozer" },
+{ "id": 5732, "name": "Mitch Roberts" },
 { "id": 4399, "name": "Morgan Black" },
 { "id": 1633, "name": "Mustafa Medina" },
+{ "id": 1123, "name": "Neo" },
 { "id": 4455, "name": "Nick" },
 { "id": 4593, "name": "Nick Andrews" },
 { "id": 5536, "name": "Nick Cross" },
@@ -501,6 +560,7 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 4432, "name": "Patrick O\'Connor" },
 { "id": 1173, "name": "Pedro" },
 { "id": 1177, "name": "Peter" },
+{ "id": 5765, "name": "Peter Fulton" },
 { "id": 1185, "name": "Peto Coast" },
 { "id": 4701, "name": "Preston Johnson" },
 { "id": 4270, "name": "Preto Bom" },
@@ -510,11 +570,14 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 4304, "name": "Raphael" },
 { "id": 3165, "name": "Raphael (Raw Fuck Club)" },
 { "id": 1219, "name": "Ray Dalton" },
+{ "id": 5805, "name": "Ray Diesel" },
 { "id": 4772, "name": "Red" },
 { "id": 3086, "name": "Renato Bellagio" },
+{ "id": 5592, "name": "Rikk York" },
 { "id": 1265, "name": "Rio" },
 { "id": 4314, "name": "Riu" },
 { "id": 1266, "name": "RJ" },
+{ "id": 5572, "name": "Rob Skelton" },
 { "id": 5291, "name": "Rocco Steele" },
 { "id": 4277, "name": "Rocco Vitelli" },
 { "id": 2607, "name": "Rod Stevens" },
@@ -523,9 +586,12 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 2880, "name": "Ronan" },
 { "id": 2479, "name": "Rudy" },
 { "id": 4927, "name": "Ryan Jamieson" },
+{ "id": 5574, "name": "Ryan Raz" },
 { "id": 1348, "name": "Sandro" },
 { "id": 4301, "name": "Saulo" },
 { "id": 4968, "name": "Saxon West" },
+{ "id": 5794, "name": "Scott DeMarco" },
+{ "id": 5614, "name": "Sean Duran" },
 { "id": 1372, "name": "Sean Storm" },
 { "id": 1377, "name": "Sebastian Carle" },
 { "id": 4720, "name": "Sebastian Rio" },
@@ -546,8 +612,11 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 3088, "name": "Tattoo Junior" },
 { "id": 2085, "name": "Thiago Romero" },
 { "id": 1498, "name": "Tim Rusty" },
+{ "id": 2228, "name": "Tommy Deluca" },
 { "id": 2882, "name": "Tommy Hawk" },
+{ "id": 5812, "name": "Trey Turner" },
 { "id": 1558, "name": "Tristan Mathews" },
+{ "id": 5678, "name": "Trit Tyler" },
 { "id": 4811, "name": "Troy Moreno" },
 { "id": 2967, "name": "Ty (Raw Fuck Club)" },
 { "id": 4655, "name": "Ty Roberts" },
@@ -557,6 +626,8 @@ var seemore_actors = [{ "id": 1757, "name": "Aandre" },
 { "id": 1696, "name": "Wade Stone" },
 { "id": 4693, "name": "William West" },
 { "id": 4319, "name": "Xande" },
+{ "id": 5610, "name": "Xavier Arroyo" },
+{ "id": 5760, "name": "Yago" },
 { "id": 4393, "name": "Yan" },
 { "id": 1611, "name": "Yuri" },
 { "id": 1613, "name": "Yves" },
@@ -707,8 +778,6 @@ function navbar_newsletter_newsemail_click()
                         			Highest-Rated                    			</a></li>
                 		
 				
-                		                    			<li><a href="browse.php?featured=all">
-                        			All Scenes                    			</a></li>
                 		
 				            		</ul>
 		</div>
@@ -726,7 +795,7 @@ function navbar_newsletter_newsemail_click()
 		<h2><img src="images/sidebar-categories.png"></h2>
 		<div class="sub">
 			<ul id="taglist" class="links">
-				<li><a href="browse.php?by_category=133">Double Penetration</a></li><li><a href="browse.php?by_category=172">Latino</a></li><li><a href="browse.php?by_category=170">Sling</a></li><li><a href="browse.php?by_category=130">Uncut</a></li><li><a href="browse.php?by_category=143">Threeway</a></li>			</ul>
+				<li><a href="browse.php?by_category=133">Double Penetration</a></li><li><a href="browse.php?by_category=176">Group</a></li><li><a href="browse.php?by_category=108">Leather</a></li><li><a href="browse.php?by_category=170">Sling</a></li><li><a href="browse.php?by_category=143">Threeway</a></li>			</ul>
 			<div class="viewAll">
 				<a id="seemore_tags" href="javascript:sidebar_tags_seemore_click();">see more →</a>
 			</div>
@@ -738,7 +807,7 @@ function navbar_newsletter_newsemail_click()
 		<h2><img src="images/sidebar-actors.png"></h2>
 		<div class="sub">
 			<ul id="actorlist" class="links">
-				<li><a href="browse.php?by_actor=1035">Matthias von Fistenberg</a></li><li><a href="browse.php?by_actor=2014">Mason Garet</a></li><li><a href="browse.php?by_actor=4297">Kane Rider</a></li><li><a href="browse.php?by_actor=5469">Jed Athens</a></li><li><a href="browse.php?by_actor=1219">Ray Dalton</a></li>			</ul>
+				<li><a href="browse.php?by_actor=4432">Patrick O'Connor</a></li><li><a href="browse.php?by_actor=5657">Jackson Fillmore</a></li><li><a href="browse.php?by_actor=5069">Chris Tyler</a></li><li><a href="browse.php?by_actor=4729">Jesse Santana</a></li><li><a href="browse.php?by_actor=4271">Eddie von Fistenberg</a></li>			</ul>
 			<div class="viewAll">
 				<a id="seemore_actors" href="javascript:sidebar_actors_seemore_click();">see more →</a>
 			</div>
@@ -778,7 +847,13 @@ jQuery(function($) {
 	</div>
 </div>
 
-        <div class="section" style="background-color:#404040"><div class="addthis_toolbox addthis_32x32_style addthis_default_style"><a class="addthis_button_twitter_follow" addthis:userid="rawfuckclub"></a></div><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51b23b771b73928b"></script></div>				</div>
+	<div class="section" style="background-color:#404040">
+		<div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+			<a class="addthis_button_twitter_follow" addthis:userid="rawfuckclub"></a>
+		</div>
+	</div>
+
+				</div>
 				<div id="main">
 					<div class="info">
 
@@ -842,7 +917,7 @@ jQuery(function($) {
 			<li class="pipe">|</li>
 			<li><a href="info.php?page=2257">18 U.S.C. 2257</a></li>
 		</ul>
-		<h4>Content © 2015 Dark Alley Media. Platform by PPVNetworks 2.0. Billed by PPVBill.</h4>
+		<h4>Content © 2016 Dark Alley Media. Platform by PPVNetworks 2.0. Billed by PPVBill.</h4>
 	</div>
 </div>
 	
