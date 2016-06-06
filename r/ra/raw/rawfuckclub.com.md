@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rawfuckclub.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185327id_/http%3A//www.rawfuckclub.com/vod/RFC/info.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawfuckclub.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606180531id_/http%3A//www.rawfuckclub.com/vod/RFC/info.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Raw Fuck Club
 
