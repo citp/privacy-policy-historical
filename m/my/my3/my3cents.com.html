@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the my3cents.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206104308id_/http%3A//mythreecents.com/privacy.cgi) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the my3cents.com privacy policy that was archived on 2016-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606165700id_/http%3A//mythreecents.com/privacy.cgi) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title></title>
@@ -8,6 +8,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
 <link rel="shortcut icon" href="/favicon.ico?v=3">
 <link rel="stylesheet" type="text/css" href="/main_style.css">
+<link href="https://fonts.googleapis.com/css?family=Oswald:400,300" rel="stylesheet" type="text/css">
 <!--[if lte IE 6]>
 <script src="/scripts/catch.js" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="/ie6_style.css" />
@@ -51,10 +52,10 @@
 </div>
 
 <div id="headerSocial">
-	<span id="manage-account-links">
+	<div id="manage-account-links">
 	<a href="https://mythreecents.com/myProfile.cgi">Login</a>
-	</span>
-	<br>
+	</div>
+
 	<div id="socialStuff">
 		<span id="feedcnt"><a href="http://mythreecents.com/newsletterSignup.cgi"><img src="/images/feedburner.gif" style="border:0" alt="Feedburner count"></a></span>
 		<span id="fbcnt"><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fmy3cents&amp;width&amp;layout=box_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:65px;" allowtransparency="true"></iframe></span>
@@ -66,15 +67,14 @@
 
 <div id="navwrap">
 	<ul id="menu">
-		<li id="menuItem0"><a href="#top"><img src="/images/top.png" border="0" id="topIcon" title="Jump to top of page"></a></li>
-		<li id="menuItem1"><a href="http://mythreecents.com/getStarted.cgi?ref=2"><img src="/media/compose4.gif" border="0" id="composeIcon" title="Write a Review"> Write Review</a></li>
+		<li id="menuItem0"><a href="#top"><img src="/images/top.png" border="0" id="topIcon" class="topJump" title="Jump to top of page"></a></li>
+		<li id="menuItem1"><a href="http://mythreecents.com/getStarted.cgi?ref=2"><img src="/media/compose4.gif" border="0" id="composeIcon" title="Write a Review"> <span id="composeTxt">Write Review</span></a></li>
 		<li id="menuItem2">
 		<span id="searchBoxId">
 			<form action="https://www.google.com" id="cse-search-box">
 			<input type="hidden" name="cx" value="partner-pub-0200629403145096:1265365941">
 			<input type="hidden" name="ie" value="UTF-8">
-			<input type="text" name="q" size="20" id="gSearchInput">&nbsp;
-			<button type="submit" name="sa" value="Search Reviews" id="searchBtn">Search</button>
+			<input type="text" name="q" size="20" id="gSearchInput"><span id="g-search-button-bar" onclick="$(this).closest('form').submit();"></span>
 			</form>
 		</span>
 		</li>
