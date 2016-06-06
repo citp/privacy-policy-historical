@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitesafelist.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206045812id_/http%3A//www.elitesafelist.com/disclaimers/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitesafelist.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606202735id_/http%3A//www.elitesafelist.com/disclaimers/privacypolicy.php) for the most accurate reproduction.*
 
 # Untitled
 
