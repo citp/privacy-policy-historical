@@ -1,52 +1,56 @@
-> *The following text is extracted and transformed from the raccars.co.uk privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235255id_/http%3A//www.raccars.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raccars.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606161438id_/http%3A//www.raccars.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - RAC Cars
+# RAC Cars Privacy policy
 
 This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and the procedures we have put in place to safeguard your privacy. Please read it carefully.
 
 ## Who we are
 
-For the purpose of the Data Protection Act 1998 ("Act"), the data controller is Net Cars Limited trading as RAC Cars (Company Number 08370931) ("RAC Cars").
+For the purpose of the Data Protection Act 1998 ("Act"), the data controller is RAC Motoring Services (Company Number01424399) ("RAC"). The data processor is Motors.co.uk Limited (company number 05975777) (“Motors” )
 
 ## The information we collect
 
 The information below provides an overview of how we protect your privacy whenever you are on this site. We may collect information about you in two ways: indirectly (for example, through cookies see section "Our Use of IP Addresses and Cookies") and/or directly for example:
 
-  * Information you provide by filling in forms on our site;
-  * If you contact us, we may keep a record of that correspondence.
-  * Details of transactions you carry out through our site.
-  * We may ask you for information when you report a problem with our site.
+Information you provide by filling in forms on our site;
 
+If you contact us, we may keep a record of that correspondence.
 
+Details of transactions you carry out through our site.
 
-Throughout our site, we provide opportunities for you to apply for various products and services for example car data checks and car finance. Where information in response to a question is stated to be mandatory, we will not be able to process your application without that information. Where information in response to question is voluntary, we will notify you of the reason we are asking for information and how this information will be used when that information is requested. It is completely up to you whether or not you want to provide any information which is stated to be voluntary.
+We may ask you for information when you report a problem with our site.
+
+Throughout our site, we provide opportunities for you to apply for various products and services for example car data checks and car finance. Where information in response to a question is stated to be mandatory, we will not be able to process your application without that information. Where information in response to question is voluntary it is completely up to you whether or not you want to provide any information which is stated to be voluntary.
 
 ## How we use the information
 
 We use information held about you in the following ways:
 
-  * To provide you with a product or service or to enable a third party to provide you with a product or service you have requested.
-  * To process any applications or requests for products or services you make to us or via us to a third party.
-  * To ensure that the content on our site is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us or, where you have consented to be contacted for such purpose, which we feel may interest you.
-  * To notify you about changes to our service.
-  * To notify you about special features on our site.
-  * To aggregate information and statistics for the purpose of monitoring website usage in order to help us develop our site and our services and we may provide such aggregate information to third parties such as advertisers to enable them to assess the value of advertising on our site. The statistics will not include information that can be used to identify any individual.
+To provide you with a product or service or to enable a third party to provide you with a product or service you have requested.
 
+To process any applications or requests for products or services you make to us or via us to a third party.
 
+To ensure that the content on our site is presented in the most effective manner for you and for your computer.
+
+To provide you with information, products or services that you request from us or, where you have consented to be contacted for such purpose, which we feel may interest you.
+
+To notify you about changes to our service.
+
+To notify you about special features on our site.
+
+To aggregate information and statistics for the purpose of monitoring website usage in order to help us develop our site and our services. RAC may provide such aggregate information to third parties, such as advertisers to enable them to assess the value of advertising on our site, however the statistics will not include information that can be used to identify any individual.
 
 To help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct any account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated, for fraud prevention, money laundering prevention and occasionally for tracing debtors.
 
-We may also use your data, or permit selected third parties (e.g. financial institutions, insurance providers, insurance claim advisers and car dealerships) to use your data, to provide you with information about services or products or related information which may be of interest to you and we or they may contact you about these by post or telephone. If you would rather not receive this information, please send an e-mail message to [info@raccars.co.uk](mailto:info@raccars.co.uk).
+We may also use your data to provide you with information about services or products or related information which may be of interest to you and we or they may contact you about these by post, e-mail or telephone. 
 
 Please note that your initial call to a dealer advertising a car for sale on this site may be monitored or recorded for quality and verification purposes.
 
 If you are an existing customer, we will only contact you by electronic means (email or SMS) with information about services or products similar to those which were the subject of a previous supply to you via our site.
 
-  * If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
-  * If you do not want us to use your data in this way, or to pass your details on to selected third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form).
+If you are a new customer we will contact you by electronic means only if you have consented to this.
 
-
+If you do not want us to use your data in this way, or to pass your details on to selected third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form).
 
 ## Your information shared
 
@@ -62,9 +66,9 @@ Where you purchase products or services from or provide information to a third p
 
 ## Disclosure of your information
 
-If RAC Cars' business is sold or integrated with another business, we may disclose your personal information to our advisers and any prospective purchasers and their advisers and such personal information will be passed on to the new owners of the business.
+If the RAC business is sold or integrated with another business, we may disclose your personal information to our advisers and any prospective purchasers and their advisers and such personal information will be passed on to the new owners of the business.
 
-We may share your information where required in compliance with any legal obligation or to protect the rights, property or safety of RAC Cars, our customers or others or our site or to enforce the terms of use of our site.
+We may share your information where required in compliance with any legal obligation or to protect the rights, property or safety of RAC , our customers or others or our site or to enforce the terms of use of our site.
 
 ## Our use of IP addresses and cookies
 
@@ -72,12 +76,13 @@ We may collect information about your computer, including (where available) your
 
 For the same reason we may obtain information about your general internet usage by using a cookie. Cookies are small text files placed on your hard drive each time you access a website. We may use cookies to facilitate your internet sessions, to maintain security and to improve our site. In particular, cookies enable us:
 
-  * To estimate our audience size and usage pattern.
-  * To store information about your preferences, and so allow us to customise our site according to your individual interests.
-  * To speed up your searches.
-  * To recognise you when you return to our site.
+To estimate our audience size and usage pattern.
 
+To store information about your preferences, and so allow us to customise our site according to your individual interests.
 
+To speed up your searches.
+
+To recognise you when you return to our site.
 
 You can disable cookies on your computer by changing the settings in preferences or options in your menu browser. However, if you disable cookies you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
@@ -91,10 +96,9 @@ Unfortunately the transmission of information via the internet is not completely
 
 If you give us information about another person (e.g. a joint applicant for a product or service), you confirm that the other person has appointed you to act on his/her behalf and has agreed that you are authorised to:
 
-  * give consent on his/her behalf to the processing of his/her personal data (including any sensitive personal data) in accordance with this privacy policy; and
-  * link or record information about him/her with you at credit reference agencies.
+give consent on his/her behalf to the processing of his/her personal data (including any sensitive personal data) in accordance with this privacy policy; and
 
-
+link or record information about him/her with you at credit reference agencies.
 
 ## Your rights
 
@@ -102,7 +106,7 @@ You are entitled to know whether we hold information about you and, if we do, yo
 
 ## Marketing to Children
 
-RAC Cars does not knowingly collect data from nor market to children anywhere.
+RAC does not knowingly collect data from nor market to children anywhere.
 
 ## Your Consent
 
@@ -110,4 +114,4 @@ By submitting your information to us, you consent to the use of that information
 
 ## How to contact us
 
-We welcome your views about our site and our privacy policy. If you would like to contact us with any queries, comments or requests please send an e-mail to [info@raccars.co.uk](mailto:info@raccars.co.uk).
+We welcome your views about our site and our privacy policy. If you would like to contact us with any queries, comments or requests please send an e-mail to [info@raccars.co.uk](mailto:info@raccars.co.uk)
