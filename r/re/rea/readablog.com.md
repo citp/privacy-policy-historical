@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readablog.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114241id_/http%3A//blogrific.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readablog.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606182536id_/http%3A//blogrific.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blogrific
 
