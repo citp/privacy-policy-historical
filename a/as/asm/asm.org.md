@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asm.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205234301id_/http%3A//www.asm.org/index.php/privacy-policy%3Ftmpl%3Dcomponent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asm.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606190210id_/http%3A//www.asm.org/index.php/privacy-policy%3Ftmpl%3Dcomponent) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  [ Privacy Policy](http://www.asm.org/index.php/privacy-policy "91819")
+##  Privacy Policy 
 
 **ASM's Privacy Philosophy**  
 American Society for Microbiology ("ASM") is committed to maintaining your confidence and trust with respect to the information we collect from you on web sites owned and operated by ASM ("ASM Web Sites"). This Privacy Policy sets forth the information we collect about you, how we use this information, and the choices you have about how we use such information.
