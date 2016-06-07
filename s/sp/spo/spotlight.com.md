@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207091001id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607163049id_/https%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Spotlight - professional acting jobs and auditions since 1927
 
 ## Privacy Policy
-
-This policy was last reviewed and updated in June 2014.
 
 Spotlight is committed to protecting the privacy of its users. This Privacy Policy sets out the type of personal information that we collect, what it is used for and the rights you have in relation to this information. By using Spotlight's Services and/or this Site and/or Spotlight's software Application(s) you accept the terms of this Privacy Policy. This Privacy Policy should be read in conjunction with our terms of use as they apply to you:
 
@@ -20,7 +18,7 @@ For Sales and Payment Service Terms [see here](https://www.spotlight.com/aboutus
 
 For Rooms & Studio Bookings Service Terms [see here](http://www.spotlight.com/aboutus/terms/RoomsStudiosTerms.html "see here").
 
-Spotlight may change this policy occasionally by updating this page. You should therefore check this page from time to time to ensure that you are happy with any changes. Please note that Privacy Policies contain specific information regarding how companies process your sensitive personal information, and also information to set out the circumstances under which they may transfer data outside the European Economic Area. By using our site and our services you consent to us processing your personal information as set out in our Privacy Policy and within your related Terms.
+Spotlight may change this policy occasionally by updating this page. You should therefore check this page from time to time to ensure that you are happy with any changes. Your continued access and use of this site or other Spotlight services will mean that you agree to our current Privacy Policy. Please note that Privacy Policies contain specific information regarding how companies process your sensitive personal information, and also information to set out the circumstances under which they may transfer data outside the European Economic Area. By using our site and our services you consent to us processing your personal information as set out in our Privacy Policy and within your related Terms.
 
 ### Definitions
 
@@ -34,7 +32,7 @@ In this Privacy Policy:
 
 We will collect personal information from you when you sign-up to or otherwise use our Site and/or Services. We may also collect information from you if you access or use our site's other features, such as entering competitions and communicating with us directly. We may process data including the following personal information about you, where supplied: Name, gender, date of birth, address(es), email, telephone number(s), information pertaining to disability and ethnicity, IP address, photographs, video and audio clips and career history.
 
- **Please note, that as many of our Services are primarily promotional tools, personal data included in these public profiles may be accessible by other Spotlight users and/or the public via wide circulation or redistribution, and via our historical archives. Therefore you should never include any personal data on your online or printed public profile that you would wish to remain private.**
+ **Please note, that as many of our Services are primarily promotional tools, personal data included in these public profiles may be accessible by other Spotlight users and/or the public via wide circulation or redistribution, and via our historical archives. Therefore you should never include any personal data on your profile that you would wish to remain private.**
 
 ### How will we use your personal information?
 
@@ -82,7 +80,7 @@ We are constantly looking for new ways to change and upgrade our Services and fu
 
 We will retain payment details briefly (the duration of time it takes to complete each transaction) whilst purchases are made through our online shop. Payment card details are not stored on our servers beyond this.
 
-Our secure socket layer software (SSL) is the industry standard and among the best software available today for secure commerce transactions. It encrypts all personal information including credit card numbers, names and addresses. This encryption has the objective of ensuring that nothing can be read as it travels over the Internet to our chosen fully PCI DSS compliant payment service providers [www.sagepay.com](http://www.sagepay.com/ "www.sagepay.com") and <https://worldpay.com/> for processing.
+Our secure socket layer software (SSL) is the industry standard and among the best software available today for secure commerce transactions. It encrypts all personal information including credit card numbers, names and addresses. This encryption has the objective of ensuring that nothing can be read as it travels over the Internet to our chosen fully PCI DSS compliant payment service providers [www.sagepay.com](http://www.sagepay.com/ "www.sagepay.com") and <https://worldpay.com/> and <https://gocardless.com/> for processing.
 
 If you experience any payment problems when placing an order via our Site, we advise you to resubmit your payment details. If your payment still fails, please contact your card issuer, to ensure there are no problems with your account, before contacting our customer services team.
 
@@ -121,11 +119,15 @@ To see a comprehensive list of the cookies used on the Spotlight website, and th
 
 For more information about cookies, including how to remove and disable them, visit the following website: <http://ico.org.uk/for_the_public/topic_specific_guides/online/cookies>.
 
-An IP address is a number which is automatically assigned to your computer whenever you access the internet. When you access the Spotlight site we will log your IP address. We generally only use IP addresses to analyse trends, administer our website, track general user movements and gather broad demographic information for aggregate use. However, we do link IP addresses to other information which could identify the user, for instance when assessing applications from new, re-joining and renewing members to ensure that they are provided with legal 'cooling off periods' where necessary. They will also be used to ascertain where members may be attempting to seek extended free periods on the Spotlight website by the misuse of our 'cooling off periods' or refund policy (see Terms & Conditions). The IP information gathered for this purpose will only be used to 'flag up' possible misuse to Spotlight staff members.
+An IP address is a number which is automatically assigned to your computer whenever you access the internet. When you access the Spotlight site we will log your IP address. We generally only use IP addresses to analyse trends, administer our website, track general user movements and gather broad demographic information for aggregate use, or where investigating possible criminal activity. However, we do link IP addresses to other information which could identify the user, for instance when assessing applications from new, re-joining and renewing members to ensure that they are provided with legal 'cooling off periods' where necessary. They will also be used to ascertain where members may be attempting to seek extended free periods on the Spotlight website by the misuse of our 'cooling off periods' or refund policy (see Terms & Conditions). The IP information gathered for this purpose will only be used to 'flag up' possible misuse to Spotlight staff members.
 
 ### Digital Editions
 
-In relation to any digital edition/Application please note that Apple, Google, Amazon or other providers may on occasion transfer some of your data to Spotlight. Spotlight may also gather information such as your name and email address within the app; such personal data will be administrated in line with this privacy policy.   
+In relation to any digital edition/Application, previously or currently offered by us, please note that Apple, Google, Amazon or other providers may on occasion transfer some of your data to Spotlight. Spotlight may also gather information such as your name and email address within the app; such personal data will be administrated in line with this privacy policy.
+
+### Changes to this Privacy Policy
+
+We keep our Privacy Policy under regular review. This Privacy Policy was last updated in April 2016.  
 
 
 ### Queries and Requests
