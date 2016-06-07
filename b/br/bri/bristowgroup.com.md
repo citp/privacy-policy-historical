@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bristowgroup.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207155600id_/http%3A//bristowgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristowgroup.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607071036id_/http%3A//bristowgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - bristowgroup.com
 
-Sagittis facilisis amet, vel, natoque integer. Rhoncus dapibus, tempor! Turpis nisi et ultricies vel. Magnis? Nascetur et enim eros ac rhoncus! Vut facilisis risus.
+Dapibus tempor turpis nisi et ultricies magnis. Nascetur et enim eros ac rhoncus vut facilisis risus.
 
 
 
