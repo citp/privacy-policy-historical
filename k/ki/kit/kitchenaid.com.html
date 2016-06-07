@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kitchenaid.com privacy policy that was archived on 2015-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228014528id_/http%3A//www.kitchenaid.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kitchenaid.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608014437id_/http%3A//www.kitchenaid.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:wairole="http://www.w3.org/2005/01/wai-rdf/GUIRoleTaxonomy#" xmlns:waistate="http://www.w3.org/2005/07/aaa" xml:lang="en" class="dj_gecko dj_ff3 dj_contentbox dj_webkit dj_contentbox" lang="en"><head>
 	<title>
@@ -34,12 +34,12 @@
 <!-- end standard css include block -->
  				<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
  			 
-	<script id="elicit-js" async="" src="https://kitchenaid.elicitapp.com/js.ashx?f=elicit.tag.web.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W5NL5J"></script><script type="text/javascript" src="/wcsstore/dojo131/dojo/dojo.js" djconfig="parseOnLoad: false, isDebug: false, useCommentedJson: true,locale: 'en-us' "></script>
+	<script id="eGainOffers" src="https://whirlpool.egain.net/system/Offers.egain?command=GetRulesJS&amp;egofferpageurl=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160608014437id_%2Fhttp%3A%2F%2Fwww.kitchenaid.com%2Fprivacy-policy%2F&amp;egofferpagetitle=Privacy%20Policy%20%7C%20KitchenAid&amp;egofferpatternchecksum="></script><script id="_egainallowcobrowse" src="//kitchenaid.egain.net/system/cb/admin/js/allow_cobrowse.js"></script><script id="elicit-js" async="" src="https://kitchenaid.elicitapp.com/js.ashx?f=elicit.tag.web.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W5NL5J"></script><script type="text/javascript" src="/wcsstore/dojo131/dojo/dojo.js" djconfig="parseOnLoad: false, isDebug: false, useCommentedJson: true,locale: 'en-us' "></script>
 		
 	<!-- BEGIN CommonJSToInclude.jspf --><!-- BEGIN WHRORNCommonJSToInclude.jspf -->
 
 <script type="text/javascript">
-var absoluteURL = "https://www.kitchenaid.com/webapp/wcs/stores/servlet/";
+var absoluteURL = "http://www.kitchenaid.com/webapp/wcs/stores/servlet/";
 var imageDirectoryPath = "/wcsstore/NARStorefrontAssetStore/";
 var styleDirectoryPath = "images/colors/color2/";
 var STORE_NAME = 'KAD_US_B2C';
@@ -84,6 +84,62 @@ function getStyleDirectoryPath()
 {
 	return styleDirectoryPath;
 }
+
+//Scene7 - Rosetta - Jan 2016 - START
+var scene7Enabled = false;
+
+var scene7Protocol = document.URL.substring(0, document.URL.indexOf("://")) + ':';
+scene7Enabled = true;
+var serverurl = scene7Protocol + "//images.kitchenaid.com/is/image/";
+var contenturl = scene7Protocol + "//images.kitchenaid.com/skins/";
+var config = "Scene7SharedAssets/Universal_HTML5_MixedMedia2_light";
+var s7qvconfig = "Scene7SharedAssets/Universal_HTML5_MixedMedia_light";
+var videoserverurl = scene7Protocol + "//images.kitchenaid.com/is/content/";
+
+function initMixedMediaSet(containerId, assetId){
+	$("#color-swatches").css("pointer-events","none");
+	var s7_mixedmediaview = new s7viewers.MixedMediaViewer({    
+	    "containerId" : containerId,        
+	    "params" : {        
+	       "asset" : assetId,      
+	       "serverurl" : serverurl,        
+	       "contenturl": contenturl,       
+	       "config": config,       
+	       "ZoomView.singleclick": "none",
+	       "SpinView.singleclick": "none",
+	       "videoserverurl": videoserverurl},
+	       "handlers":{
+	    	    "initComplete":function() {
+	    	        console.log("init complete");
+	    	        $("#color-swatches").css("pointer-events","auto");
+	    	        }
+	    	}
+	    	          
+	}).init();
+}
+function initQuickViewMixedMediaSet(containerId, assetId){
+    $("#color-swatches").css("pointer-events","none");
+    var s7_mixedmediaview = new s7viewers.MixedMediaViewer({    
+        "containerId" : containerId,        
+        "params" : {        
+           "asset" : assetId,      
+           "serverurl" : serverurl,        
+           "contenturl": contenturl,       
+           "config": s7qvconfig,       
+           "ZoomView.singleclick": "none",
+           "SpinView.singleclick": "none",
+           "videoserverurl": videoserverurl},
+           "handlers":{
+                "initComplete":function() {
+                    console.log("init complete");
+                    $("#color-swatches").css("pointer-events","auto");
+                    }
+            }
+                      
+    }).init();
+} 
+
+//Scene7 - Rosetta - Jan 2016 - END
 </script>
 <!-- Start changes for QC 110 -->
 <script type="text/javascript">
@@ -252,8 +308,8 @@ if (document.referrer){
  
 <div id="fDiv"></div>
 
-<!-- END StoreCommonUtilities.jspf --><!-- Header Nav Start --><!-- BEGIN LayoutContainerTop.jspf --><!-- BEGIN WHRORNHeaderDisplay.jspf --><!-- Gladiator Phase 2 Change START 12/25 --><!-- HOST: [NAR-server4] -->
-<!-- GENERATED: [CachedORNHeaderDisplay.jsp, Tue Dec 22 01:48:44 EST 2015] -->
+<!-- END StoreCommonUtilities.jspf --><!-- Header Nav Start --><!-- BEGIN LayoutContainerTop.jspf --><!-- BEGIN WHRORNHeaderDisplay.jspf --><!-- Gladiator Phase 2 Change START 12/25 --><!-- HOST: [NAR-server3] -->
+<!-- GENERATED: [CachedORNHeaderDisplay.jsp, Tue Jun 07 11:39:12 EDT 2016] -->
   
 
 
@@ -411,7 +467,7 @@ function clearText(thefield){
 						<div id="outerCartContainer" style="display: block;">
 							<div dojotype="dojo.dnd.Target" jsid="miniShopCart_dndTarget" id="miniShopCart_dndTarget" accept="item, product, package, bundle" class="dojoDndContainer dojoDndTarget">
 								<div dojotype="wc.widget.RefreshArea" id="MiniShoppingCart" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" onmouseover="showMiniShopCartDropDown('placeHolder','quick_cart_container','orderItemsList');" role="wairole:region" waistate:live="polite" waistate:atomic="true" waistate:relevant="all" title="" class="dijitContentPane">
-									<!-- Start - JSP File Name: MiniShopCartDisplay.jsp --><!-- GENERATED: [MiniShopCartDisplay, Tue Dec 22 01:48:44 EST 2015] -->
+									<!-- Start - JSP File Name: MiniShopCartDisplay.jsp --><!-- GENERATED: [MiniShopCartDisplay, Tue Jun 07 11:39:12 EDT 2016] -->
 
 <!-- If we get here from a generic error this service will fail so we need to catch the exception -->
 <a href="http://www.kitchenaid.com/webapp/wcs/stores/servlet/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10552&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10202&amp;URL=AjaxOrderItemDisplayView" tabindex="0" id="shoppingCartBar" waistate:controls="ShopCartDisplay" onkeypress="showMiniShopCartDropDown1(event,'placeHolder','quick_cart_container','orderItemsList');" onclick="showMiniShopCartDropDown1(event,'placeHolder','quick_cart_container','orderItemsList');">
@@ -469,7 +525,20 @@ function clearText(thefield){
       <ul class="header-options">
          <li class="shop-utility-link"><a href="/shop/">SHOP</a></li>
         <li><a href="/shop/more-ways-to-shop-1/outlet-3/102020231/">OUTLET</a></li>
-         <li><a id="chatLink" href="/customer-service/live-chat/">LIVE CHAT</a></li>
+
+<!--
+<li><a id="chatLink" href="/customer-service/live-chat/">LIVE CHAT</a></li>
+-->
+        <li id="chatLinkFirstTier">
+          <a id="chatLink" href="#">LIVE CHAT</a>
+          <div id="chatLinkSecondTier">
+            <ul>
+              <li><a href="#" onclick="egainChat.openHelp('kitchenaidma','1007')" style="cursor:hand">MAJOR APPLIANCES</a></li>
+              <li><a href="#" onclick="egainChat.openHelp('kitchenaidpa','1008')" style="cursor:hand">COUNTERTOP APPLIANCES</a></li>
+              <li><a href="#" onclick="egainChat.openHelp('kitchenaidpa','1008')" style="cursor:hand">KITCHENWARE</a></li>
+            </ul>
+          </div>
+        </li>
          <li><a href="/find-a-store/">FIND A RETAILER</a></li>
          <li><a href="/contact-us/">CONTACT US</a></li>
       </ul>
@@ -865,7 +934,7 @@ function clearText(thefield){
                      <li><a class="keep-links" href="https://register.kitchenaid.com/" name="https://register.kitchenaid.com/">Register Products</a></li>
                      <li><a class="keep-links" href="/jump-page_replacement-parts.content.html" name="/jump-page_replacement-parts.content.html">Replacement Parts</a></li>
                      <li><a class="keep-links" href="/customer-service/schedule-service/" name="/customer-service/schedule-service/">Schedule Service</a></li>
-<li><a href="/jump-page_extended-service-plans.content.html" name="/jump-page_extended-service-plans.content.html">Service Plans</a></li>
+<li><a href="/jump-page_service-plans.content.html" name="/jump-page_service-plans.content.html">Service Plans</a></li>
                   </ul>
                </li>
                <li class="submenu culinary-inspirations-menu-item main-nav-content">
@@ -1051,7 +1120,7 @@ dojo.addOnLoad(function() {
 		<div class="main-content-wrapper-bottom"></div>
 	</div>
 	
-	<!-- Footer Start Start --><!-- BEGIN LayoutContainerBottom.jspf --><!-- BEGIN FooterDisplay.jspf --><!-- Gladiator Phase 2 START 12/26 --><!-- JSP File Name: CachedFooterDisplay.jsp --><!-- GENERATED: [CachedFooterDisplay, Tue Dec 22 01:48:45 EST 2015] -->
+	<!-- Footer Start Start --><!-- BEGIN LayoutContainerBottom.jspf --><!-- BEGIN FooterDisplay.jspf --><!-- Gladiator Phase 2 START 12/26 --><!-- JSP File Name: CachedFooterDisplay.jsp --><!-- GENERATED: [CachedFooterDisplay, Tue Jun 07 11:39:13 EDT 2016] -->
 <!-- search functionality in footer for swash --><!-- search functionality ends for swash --><!-- Gladiator Phase 2 START 12/18 --><div id="footer-container">
    <div class="footer-header"></div>
    <div id="footer-nav">
@@ -1161,7 +1230,9 @@ dojo.addOnLoad(function() {
    </div>
 </div>
 <link rel="stylesheet" href="https://cdn.powerreviews.com/repos/17708/pr/pwr/engine/pr_styles_review.css" id="prBaseStylesheet">
-<link rel="stylesheet" href="/css/powerreviews/pr_style_sheet.css" type="text/css" id="prMerchantOverrideStylesheet"><!--  contentName: footer, displayType: standard, store: KAD_US_B2C, locale: en_US, status: { [path=systemdefined/footer.xml, displayed=true, error=] }-->
+<link rel="stylesheet" href="/css/powerreviews/pr_style_sheet.css" type="text/css" id="prMerchantOverrideStylesheet">
+<iframe src="about:blank" title="" id="egot_iframe" style="width: 0px; height: 0px; border: 0px;"></iframe><script src="/javascript/content/onetag.js"></script>
+<script src="/javascript/content/onetag-open.js"></script><!--  contentName: footer, displayType: standard, store: KAD_US_B2C, locale: en_US, status: { [path=systemdefined/footer.xml, displayed=true, error=] }-->
 
 		  	  	
 			  	  	<!-- Gladiator Phase 2 END 12/18 -->
@@ -1178,7 +1249,9 @@ dojo.addOnLoad(function() {
 		//Make sure page is loaded at this point
 		//Set requestedSubmitted to false
 		requestSubmitted = false;
-	}); 	
+	}); 
+
+			
 </script>
 <!--  AddThis code --><!-- END LayoutContainerBottom.jspf --><!-- Footer Start End -->
 
