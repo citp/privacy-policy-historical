@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elephant.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913102238id_/http%3A//www.elephant.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elephant.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607211023id_/http%3A//www.elephant.com/privacy) for the most accurate reproduction.*
 
 # Elephant Auto Insurance | Privacy & Security
 
@@ -24,7 +24,7 @@ Elephant collects financial information in connection with insurance transaction
 
 ####  How will you share this information about me?
 
-Elephant reserves the right to disclose nonpublic personal information (NPPI) it collects to third parties. Without prior authorization, we will share information about you only as permitted by law. We will never share your NPPI with other companies for their marketing purposes without your consent. However, as permitted by law, disclosures of NPPI we have collected may be made to our affiliates and partners when deemed necessary to business operations. Disclosures may also lawfully be made to prevent, detect, or investigate criminal activity, fraud, and misrepresentation.
+Elephant reserves the right to disclose nonpublic personal information (NPPI) it collects to third parties. Without prior authorization, we will share information about you only as permitted by law. However, as permitted by law, disclosures of NPPI we have collected may be made to our affiliates and partners when deemed necessary to business operations. Disclosures may also lawfully be made to prevent, detect, or investigate criminal activity, fraud, and misrepresentation.
 
 Disclosures of NPPI are made only when required to provide insurance claims or customer service, prevent fraud, perform research or comply with the law. Examples of potential recipients to whom your NPPI may be disclosed include: claims representatives, underwriters, service providers, consumer reporting agencies, other insurance agencies, law enforcement, and government agencies. These parties may disclose the information to others as permitted by law. For example, consumer reporting agencies may disclose transaction information received from us to other insurance companies with whom you do business.
 
