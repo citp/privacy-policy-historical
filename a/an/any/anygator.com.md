@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the anygator.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608082310id_/http%3A//us.anygator.com/info%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anygator.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607171151id_/http%3A//us.anygator.com/info%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - Anygator.com - Bite the net
 
 ### Registration
 
 You can use Anygator without registering. If you want Anygator to remember your settings permanently or if you want to access your personal page from more than one PC you need to register with your email address and a password. In addition this will also protect your account from unauthorized access. When you register we'll send you a welcome email.  
-We may send you service announcements and advertising messages from YOUniversal Media or third parties.  
+We may send you service announcements and advertising messages from YOUniversal Next Limited or third parties.  
 You can unsubscribe from these announcements and advertising messages at any time by sending an email to [unsubscribe@anygator.com](mailto:unsubscribe@anygator.com)
 
 ### Policy Privacy
@@ -61,16 +61,13 @@ We may need to disclose your data to appropriate persons where required or permi
 
 You can update or amend your contact details at any time from within the Anygator Portal. If you have any questions about the use of your personal data or if you wish to know how you can inspect or correct other personal data we may hold please contact us at:
 
-YOUniversal Media srl  
-Via Palestro 30  
-00185 Roma  
-Italy  
-Email: [info@anygator.com](mailto:info@anygator.com)  
-Fax: +39 06 99341558
+YOUniversal Next Limited   
+51/52 Fitzwilliam Square W - Dublin 2  
+EIRE  
+Email: [info@youniversalnext.com](mailto:info@youniversalnext.com)
 
 ### Changes to the Policy
 
 We may need to amend the Privacy Policy from time to time. Any such amendment will take effect as soon as it is posted on the Anygator Website. You are therefore encouraged to familiarise yourself with the Privacy Policy on a regular basis. The Privacy Policy will always be easily accessible online throughout Anygator Website.
 
-This webpage uses cookies, including from third parties, to provide you with advertisements and services that are in line with your preferences. If you want to learn more or opt out of some or all cookies, click [here.](https://web.archive.org/info?page=extended_cookie)  
-By closing this banner, scrolling this page or by clicking on any of its elements you agree to the webpage’s cookie policy. OK 
+This website uses cookies, also third parties cookies, in order to send to you adverts and services in line with your preferences. If you are willing to know more about cookies or to deny your consent to all or to certain cookies, please click [here](https://web.archive.org/info?page=extended_cookie).By closing this banner, scrolling this page or clicking any element whatsoever on this page you consent to the use of cookies. OK 
