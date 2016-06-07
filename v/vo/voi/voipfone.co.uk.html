@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the voipfone.co.uk privacy policy that was archived on 2015-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208023235id_/http%3A//www.voipfone.co.uk/cookie_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the voipfone.co.uk privacy policy that was archived on 2016-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607082104id_/http%3A//www.voipfone.co.uk/cookie_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1582133790752"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><script async="" src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1582133790571"></script>
     <title>Voipfone -
         Cookie Policy    </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -123,14 +123,14 @@
               <br>
               These cookies will remain on your device after you have left our website. These cookies help us identify you as a unique visitor these cookies do not contain personal information, and cannot be used to identify you in any way.<br>
               <br>
-            We use Google Analytics to collate statistical information about our website. Google Analytics uses cookies to help us to analyse how users use the site. For more information about Analytics cookies, please click on the following link: <a href="http://www.google.com/analytics/learn/privacy.html">http://www.google.com/analytics/learn/privacy.html</a><span class="pm_title"><br>
+            We use Google Analytics to collate statistical information about our website. Google Analytics uses cookies to help us to analyse how users use the site. <a href="http://www.google.com/analytics/learn/privacy.html">Please click here for more information about Analytics cookies.</a><span class="pm_title"><br>
             </span></p>
             <p>&nbsp;</p>
             <p><span class="pm_title">Removing Or Blocking Cookies</span><br>
               <br>
               iNet Telecoms Ltd will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies on this or any other website, you can do this by making changes to your browser settings.<br>
               <br>
-            For more information about removing or blocking cookies visit <a href="http://www.aboutcookies.org/Default.aspx?page=1">http://www.aboutcookies.org</a> this site contains information on how to block or remove cookies from most web browsers.</p>
+            <a href="http://www.aboutcookies.org/Default.aspx?page=1">Please click here for more information about removing or blocking cookies.</a> This site contains information on how to block or remove cookies from most web browsers.</p>
 <p>&nbsp;</p>
             <p class="pm_title">More information needed?</p>
             <p><br>
@@ -319,7 +319,7 @@ United Kingdom</p>
 </div>
 <div class="foot">
   <div class="foot_wrap">
-    <p align="center" style="margin: 0;"> Copyright 2004 - 2015, iNet Telecoms® Ltd All rights reserved.</p><br>
+    <p align="center" style="margin: 0;"> Copyright 2004 - 2016, iNet Telecoms® Ltd All rights reserved.</p><br>
   </div>
 </div>
 
@@ -409,8 +409,15 @@ function getUrlParam(name) {
 	return results[1] || "";
 }
 
-function getAlphanumeric(str) {  
-    return str.replace(/[^A-Za-z0-9]/g, '');
+// str = string to filter
+// addressChecker = allow underscore, space and dash
+function getAlphanumeric(str, addressChecker) {
+	var filter = /[^A-Za-z0-9]/g;
+	if(addressChecker)
+	{
+		filter = /[^A-Za-z0-9-_ ]/g;
+	}
+    return str.replace(filter, '');
 }
 
 function isValidEmail(email) {
