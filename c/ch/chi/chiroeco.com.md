@@ -1,53 +1,69 @@
-> *The following text is extracted and transformed from the chiroeco.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018141303id_/http%3A//chiroeco.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiroeco.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607080000id_/http%3A//www.chiroeco.com/privacy-policy) for the most accurate reproduction.*
 
-# Chiropractic Economics - Privacy Policy
+# Privacy Policy - Chiropractic Economics
 
- 
+## Privacy Policy for Chiropractic Economics
 
-> Privacy Policy covering Chiropractic Economics Website  
+### What information do we collect?
+
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+### What do we use your information for?
+
+Any of the information we collect from you may be used in one of the following ways:
+
+>   * To personalize your experience  
+>  (your information helps us to better respond to your individual needs)
+>   * To improve our website  
+>  (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+>   * To improve customer service  
+>  (your information helps us to more effectively respond to your customer service requests and support needs)
+>   * To process transactionsYour information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+>   * To administer a contest, promotion, survey or other site feature
+>   * To send periodic emails
 > 
-> 
-> Chirocpractic Economics, Inc. 5150 Palm Valley Rd. Suite 103, Ponte Vedra Beach, FL 32082  
-> 
-> 
-> This is a website of Chirocpractic Economics, Inc. We are committed to protecting your privacy and we take our responsibilities regarding the security of information you provide to us very seriously. If you have any concerns, questions or comments please email the Website [editor](https://web.archive.org/web/20061018141303id_/http%3A//chiroeco.com/digitaloutput@digitaloutput.net).   
-> 
-> 
-> 2\. Use of Information   
->  If you provide us with any personal information through this Website or any associated poll, survey or competition (“Your Information”) we will use it as set out in this policy and to: (a) provide you with any goods or services that you request and to monitor the provision of those goods and services; and (b) contact you about any goods or services of Future or any of its group companies which may be of interest to you. If you do not wish to receive information about our goods and services or those of our group companies, please follow the unsubscribe instructions on the correspondence you receive or on this Website or contact the Website editor.   
-> 
-> 
-> 3\. Disclosure to third parties   
->  We may pass Your Information on to our group companies and our agents, subcontractors and partners and any agents, subcontractors and partners of our group of companies. We may also pass Your Information on to third parties who help us to organise and administer any competition, survey or poll which we run on or through this Website, only if specified in the rules of the competition, survey or poll. Unless expressly stated in this policy, we will not disclose any of Your Information to any other person without your consent. Please note that if you upload or post any information to a public part of this Website, we may use it in accordance with our website terms and conditions of use and it may be viewed and used by others.   
-> 
-> 
-> 4\. Our email newsletters and special interest newsletters   
->  If you subscribe to receive one of our email newsletters or a special interest newsletter provided by one of our partners, that newsletter will be provided to you free of charge, unless otherwise stated. To enable us to do this you will need to provide us with your email address. We may ask you to provide us with other information which we or our partner may require from time to time for business purposes. Our newsletters and those of our partners may contain promotions or advertisements relating to the goods and services provided by us or our group companies or partners from time to time. If at any time you wish to unsubscribe from an email newsletter or a special interest newsletter you may do so by following the unsubscribe instructions on the newsletter or on this Website or by e-mailing the Website editor.   
-> 
-> 
-> 5\. Third party sites   
->  This Website may contain a link to third party websites. We may, on occasion, disclose non-personal aggregated information to the owners or providers of those third party websites.   
-> 
-> 
-> 6\. Cookies   
->  This Website may make use of 'cookies' and tracking software. Cookies are pieces of information that are stored by the browser on the hard drive of your computer. Cookies enable us and any person who advertises on our Website to provide features such as remembering certain of Your Information and your preferences. Cookies can be deleted from your hard drive or you can configure your web browser so that it rejects cookies. Rejection of cookies will not prevent you from using most of the features on this Website. If you experience any problems having deleted cookies, you should contact the supplier of your web browser. The tracking software monitors traffic patterns and site usage so that we can design and develop this Website to suit the needs and requirements of visitors to it.   
-> 
-> 
-> 7\. Surveys   
->  If you choose to take part in an on-line survey or poll conducted by us, we may use the information you provide for the purposes set out in Paragraph 2 above and we may disclose that information to the parties referred to in Paragraph 3 above. We may disclose non-personal, aggregated information we collect from you in this way to any other party.   
-> 
-> 
-> 8\. Security   
->  In accordance with our requirements under the Data Protection Act 1998, we shall use reasonable endeavours to implement security procedures to help prevent unauthorised access to Your Information. However, Future shall not be liable for any attempt to hack or crack or otherwise gain access to any part of this Website including any of Your Information.   
-> 
-> 
-> 9\. Usage of information   
->  We may disclose Your Information if we are required to do so by any law or other regulatory or government authority.   
-> 
-> 
-> 10\. Corrections/updates   
->  If we hold any of Your Information and that information is incorrect in any respect, you can e-mail the Website editor and the information will be corrected as soon as reasonably possible.   
-> 
-> 
-> 11\. Policy changes   
->  By using this Website you agree to the terms of this privacy policy and our website terms of use. We may amend this privacy policy and our website terms of use from time to time. If we do so, we will post an updated version on this Website. 
+
+
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+
+### How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+### Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+#### California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.  As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+
+##### Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+### Your Consent
+
+By using our site, you consent to our online privacy policy.
+
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+[www.chiroeco.com](http://www.chiroeco.com/) 820 A1A North, Suite W18 Ponte Vedra Beach, Florida 32082 [webmaster@chiroeco.com](mailto:webmaster@chiroeco.com)
