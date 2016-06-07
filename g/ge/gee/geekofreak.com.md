@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geekofreak.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141941id_/http%3A//geekofreak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekofreak.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607224916id_/http%3A//geekofreak.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Computer FrEaKs - Computer FrEaKs
+# Privacy Policy - - Computer FrEaKs
 
 ## Privacy Policy:
 
@@ -39,3 +39,5 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, GeekoFreak may change its Privacy Policy from time to time, and in GeekoFreak's sole discretion. GeekoFreak encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a GeekoFreak.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+### Share and Enjoy
