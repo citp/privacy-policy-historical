@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nh7.in privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212221723id_/http%3A//nh7.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nh7.in privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608012252id_/http%3A//nh7.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy > NH7 | Discover new music from India and around the world
 
