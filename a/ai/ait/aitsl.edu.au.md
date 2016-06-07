@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aitsl.edu.au privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228223643id_/http%3A//www.aitsl.edu.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aitsl.edu.au privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607170150id_/http%3A//www.aitsl.edu.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Australian Institute for Teaching and School Leadership
 
@@ -17,11 +17,13 @@ If you  **do not**  wish for AITSL to collect this information, you [can opt 
 
 AITSL uses this information for statistical purposes and for system administration tasks to maintain the services it provides through AITSL websites. AITSL does not attempt to identify individuals as part of its regular business practices however in the unlikely event of an investigation, AITSL, a law enforcement agency or other government agency may exercise its legal authority to inspect the server's logs.
 
-If at any stage you provide us with your email address either as part of a message, completing a survey/questionnaire or by registering to become an Authorised User of one or more of AITSL's websites, AITSL will only use your email address to:
+If at any stage you provide us with your email address either as part of a message, completing a survey/questionnaire/form or by registering to become an Authorised User of one or more of AITSL's websites, AITSL will only use your email address to:
 
   * fulfil its obligations to you and to respond to any questions or requests you may have
   * contact you about material changes in the Terms and Conditions
-  * comply with any applicable law or regulation or where AITSL reasonably believes such use is necessary to conform with the requirements of any applicable law or to comply with legal process served on AITSL.
+  * comply with any applicable law or regulation or where AITSL reasonably believes such use is necessary to conform with the requirements of any applicable law or to comply with legal process served on AITSL
+  * inform you about educational news, resources and tools with an e-newsletter. To opt out of this list please email [info@aitsl.edu.au](mailto:mailto:info@aitsl.edu.au)  
+
 
 
 
