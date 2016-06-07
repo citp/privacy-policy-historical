@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycomicshop.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207122459id_/https%3A//www.mycomicshop.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycomicshop.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608005927id_/http%3A//www.mycomicshop.com/help/privacy) for the most accurate reproduction.*
 
 # Comic Books - Privacy and Security
 
@@ -10,6 +10,7 @@ We use cookies to keep track of your shopping cart and your login. If your brows
 
   
   
+---|---  
 **Email Address** | 
 
 We require an email address to place an order. This email address is used only to contact you with information about the status of your order. We will never send you advertisements or other unrequested email. We will **never, ever** give your email address to a spammer or any third party. If you need to update the email address registered at our site, please email [customerservice@mycomicshop.com](mailto:customerservice@mycomicshop.com)
