@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bootableusb.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207122808id_/http%3A//bootableusb.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootableusb.net privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607130900id_/http%3A//bootableusb.net/privacy) for the most accurate reproduction.*
 
-# 💻 Privacy - Bootable USB | Bootable USB
+# Privacy - Bootable USB | Bootable USB
 
 1\. **Protecting your privacy** is very important to BootableUSB, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically.
 
