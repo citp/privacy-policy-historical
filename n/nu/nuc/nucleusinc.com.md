@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nucleusinc.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207192045id_/http%3A//www.nucleuscatalog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nucleusinc.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013546id_/http%3A//www.nucleuscatalog.com/privacy-policy) for the most accurate reproduction.*
 
 # Nucleus Catalog Privacy Policy
 
@@ -72,7 +72,7 @@ We may enter into strategic marketing alliances or partnerships with third parti
 
 Notice of New Services and Changes
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a link when you receive such an offer or by sending us an email request at . 
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a link when you receive such an offer or by sending us an email request at service@nucleusinc.com. 
 
 [Back to Top](http://www.nucleuscatalog.com/privacy-policy#page)
 
@@ -99,7 +99,7 @@ How Do We Protect Your Information?
 
 How Can You Access and Correct Your Information?
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing .
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing service@nucleusinc.com.
 
 [Back to Top](http://www.nucleuscatalog.com/privacy-policy#page)
 
