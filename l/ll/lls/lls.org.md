@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lls.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207212536id_/http%3A//www.lls.org/lls-us-hq/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lls.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607223620id_/http%3A//www.lls.org/lls-us-hq/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Leukemia and Lymphoma Society
 
@@ -85,8 +85,8 @@ If users have questions or concerns regarding this statement, they should first 
 Nancy Hallberg  
 Chief Marketing Officer  
 The Leukemia & Lymphoma Society   
-1311 Mamaroneck Ave.   
-White Plains, NY 10605
+3 International Drive, Suite 200   
+Rye Brook, NY 10573
 
 **Additional Information**
 
@@ -99,5 +99,5 @@ LLS reserves the right to change this policy at any time. Since any changes will
 Nancy Hallberg  
 Chief Marketing Officer   
 The Leukemia & Lymphoma Society   
-1311 Mamaroneck Ave.   
-White Plains, NY 10605
+3 International Drive, Suite 200   
+Rye Brook, NY 10573
