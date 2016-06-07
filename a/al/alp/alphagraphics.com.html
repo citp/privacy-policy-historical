@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the alphagraphics.com privacy policy that was archived on 2015-09-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150909092005id_/http%3A//www.alphagraphics.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alphagraphics.com privacy policy that was archived on 2016-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607211539id_/http%3A//www.alphagraphics.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en-US"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=EDGE">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
         
     	<title>Privacy Policy | AlphaGraphics</title>
-    <link rel="stylesheet" type="text/css" href="/css/theme.css?version=1">
+    <link rel="stylesheet" type="text/css" href="/css/theme.css?version=4">
     <link href="http://fonts.googleapis.com/css?family=Merriweather+Sans:400,700,300" rel="stylesheet" type="text/css">
 
     <!--[if IE]>
@@ -29,12 +30,12 @@
 	</script>
 	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 	</script>
-	<noscript>
+	<!-- <noscript>
 	<div style="display:inline;">
 	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/981547676/?value=0&amp;guid=ON&amp;script=0"/>
 	</div>
-	</noscript>
-    
+	</noscript> -->
+
     <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
     <script src="/js/wrapper.js?version=1" type="text/javascript"></script>
     <script src="/js/carousel.js"></script>
@@ -44,45 +45,49 @@
     <script type="text/javascript" src="/js/jquery.fittext.js"></script>
     <script type="text/javascript" src="/js/jquery.cookie.js"></script>
     <script type="text/javascript" src="/js/base64.min.js"></script>
-    <script type="text/javascript" src="/js/search-widget.js"></script>
-        	<script type="text/javascript">var agCenterID = 13980;</script>
-        <script type="text/javascript" src="/js/marketingkit.js"></script>
+    <script type="text/javascript" src="/js/search-widget.js?20160212"></script>
+        	<script type="text/javascript">var agCenterID = 3582;</script>
+        <script type="text/javascript" src="/js/jquery.validate.js?v=1"></script>
+    <script type="text/javascript" src="/js/marketingkit.js?v=3"></script>
     <script type="text/javascript" src="/js/contactus.js"></script>
 
+    
                 <script src="/js/category.js" type="text/javascript"></script>
         
                 <link rel="stylesheet" type="text/css" href="/css/1600/category.css?version=1">
         
     <script type="text/javascript">
-					var bamGAID = "UA-38883410-1";
+					var bamGAID = "UA-38800602-1";
 					var bamGALanguage = "en";
 
             </script>
     <script src="/js/ag-ga-track.js" type="text/javascript"></script>
 
     
+    
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 </head>
 
 <body class="lang_en">
+
 <div class="main-container">
 
     <div id="header">
-        <noscript>
+        <!-- <noscript>
             <div class="w1280 noscript">
                 <div class="w960">
                     <h4>This website requires Javascript to be enabled on your browser.</h4>
 <p>Please adjust your browser settings for the optimal viewing experience.</p>                </div>
             </div>
-        </noscript>
+        </noscript> -->
 
         <div class="w1280">
         <div class="w960">
 
-            <div id="logo">
-                <a href="/"><img src="/img/alphagraphics-logo.png" width="212" height="89"></a>
-            </div>
+                        <div id="logo">
+                                <a href="/"><img src="/img/alphagraphics-logo.png" width="212" height="89" alt="Alphagraphics"></a>
+                            </div>
 
             
             <div id="center-search">
@@ -92,11 +97,11 @@
                 <div id="center-search-widget">
                     <span class="close"></span>
                     <div id="search-loader">
-                        <p>Getting your location...</p>
-                        <img src="/images/loading.gif" class="animation" width="32" height="32">
+                        <p><label for="l-search">Getting your location...</label></p>
+                        <img src="/images/loading.gif" class="animation" width="32" height="32" alt="loader">
 
                         <div class="search-by-location inline-form-item search-field" style="display: none">
-                            <input type="text"><a href="javascript:void(0)" class="btn btn-red">Search</a>
+                            <input type="text" id="l-search"><a href="javascript:void(0)" class="btn btn-red">Search</a>
                         </div>
                     </div>
                     <div id="search-result" style="display:none"></div>
@@ -110,21 +115,21 @@
                     <li><a href="/about_us">About</a></li>
                                         <li>
                         <form action="/search" method="post" id="search-form">
-                        <input type="text" id="search" placeholder="Search" name="search_str"><span class="search-btn"></span>
-                        <input type="hidden" name="center_id" value="-1">
+                            <input type="text" id="search" placeholder="Search" name="search_str" title="Search term"><label for="search" class="search-btn"><span>Search term</span></label>
+                            <input type="hidden" name="center_id" value="-1">
                         </form>
                     </li>
                     <li>
-                        <a href="javascript:void(0)" id="ag-login-btn">AG Online Login</a>
+                        <a href="#none1" onclick="return false;" id="ag-login-btn">AG Online Login</a>
                         <div id="ag-login-window">
                             <form method="post" name="agonline" id="agonline-form" action="https://www.four51.com/ui/logon.aspx">
                                                                 <div class="form-item">
-                                    <label>Username</label>
-                                    <input type="text" name="UserName">
+                                    <label for="luname">Username</label>
+                                    <input id="luname" type="text" name="UserName">
                                 </div>
                                 <div class="form-item">
-                                    <label>Password</label>
-                                    <input type="password" name="Password">
+                                    <label for="lupass">Password</label>
+                                    <input id="lupass" type="password" name="Password">
                                 </div>
                                 <div class="form-item">
                                     <input type="hidden" name="return" value="http://www.alphagraphics.com/privacy_policy">
@@ -145,7 +150,7 @@
 
         <div id="navigation">
             <ul id="main-menu" class="header size-2">
-                                    <li>
+                                                    <li>
                         <a href="/print_services">Print Services</a>
                         <div class="line-hide"></div>
                         <div class="submenu">
@@ -155,77 +160,45 @@
 
                                     <ul>
                                                                                                                         <li><a href="/print_services/products/annual_reports">Annual Reports</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/banners">Banners</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/blueprints">Blueprints</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/book_printing">Book Printing</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/booklets">Booklets</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/brochures">Brochures</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/business_cards">Business Cards</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/cd_replication">CD Replication</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/calendars">Calendars</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/cards_and_invitations">Cards &amp; Invitations</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/catalogs">Catalogs</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/copies">Copies</a></li>
-
                                                                                             </ul></div>
                                                 <div>
-                                                <h4></h4>
+                                                <span class="h4"></span>
                                                 <ul>
                                                                                                                                                                                                             <li><a href="/print_services/products/dvd_replication">DVD Replication</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/envelopes">Envelopes</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/forms">Forms</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/labels">Labels</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/letterhead">Letterhead</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/manuals">Manuals</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/newsletters_and_flyers">Newsletters &amp; Flyers</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/photo_prints_and_enlargements">Photo Prints &amp; Enlargements</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/photobooks">Photobooks</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/postcards">Postcards</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/posters">Posters</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/presentation_materials">Presentation Materials</a></li>
-
                                                                                             </ul></div>
                                                 <div>
-                                                <h4></h4>
+                                                <span class="h4"></span>
                                                 <ul>
                                                                                                                                                                                                             <li><a href="/print_services/products/promotional_products">Promotional Products</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/retail_and_restaurant_items">Retail &amp; Restaurant Items</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/signs">Signs</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/stationery">Stationery</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/trade_show_materials">Trade Show Materials</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/training_and_educational_materials">Training &amp; Educational Materials</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/yearbooks">Yearbooks</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/products/foto_produtos">Foto Produtos</a></li>
-
                                                                                                                                                             </ul>
 
                                                                 </div>
@@ -234,25 +207,15 @@
 
                                     <ul>
                                                                                                                         <li><a href="/print_services/print_and_design_services/design_it">Design It</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/print_and_design_services/print_solutions">Print Solutions</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/print_and_design_services/color_printing">Color Printing</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/print_and_design_services/copy_services">Copy Services</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/print_and_design_services/digital_printing">Digital Printing</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/print_and_design_services/book_and_binding">Book &amp; Binding</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/print_and_design_services/large_format">Large Format</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/print_and_design_services/digital_offset_printing">Digital Offset Printing</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/print_and_design_services/ag_online">AG Online</a></li>
-
                                                                                                                                                                                                             <li><a href="/print_services/print_and_design_services/publicação_de_livros">Publicação de livros</a></li>
-
                                                                                                                                                             </ul>
 
                                                                 </div>
@@ -263,16 +226,16 @@
 
                             <div class="push-right">
                                 <div>
-                                    <a href="javascript:void(0)" class="btn btn-red btn-request btn-large"><span>Request a Quote</span></a>
+                                    <a href="#" onclick="return false;" class="btn btn-red btn-request btn-large"><span>Request a Quote</span></a>
                                 </div>
                                 <div>
-                                    <a href="javascript:void(0)" class="btn btn-gray btn-download btn-large"><span>Download our free marketing kit</span></a>
+                                    <a href="#none1" onclick="return false;" class="btn btn-gray btn-download btn-large"><span style="font-size: 11px;">Download our free marketing kit</span></a>
                                 </div>
 
                                 <div class="case-studies">
                                     <h3>Latest Case Studies</h3>
-                                    <a href="/marketing_communications/case_studies"><img src="/img/case-studies.jpg" width="163" height="78"></a>
-                                    <a href="/marketing_communications/case_studies"><span>Find out more about our expertise</span></a>
+                                    <a href="/marketing_communications/case_studies"><img src="/img/case-studies.jpg" alt="Our best case studies" width="163" height="78">
+                                    <span>Find out more about our expertise</span></a>
                                 </div>
                             </div>
                         </div>
@@ -288,15 +251,10 @@
 
                                     <ul>
                                                                                                                         <li><a href="/marketing_communications/self_book_publishing/book_design">Book Design</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/self_book_publishing/custom_book_printing">Custom Book Printing</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/self_book_publishing/ebook_formatting">eBook Formatting</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/self_book_publishing/book_marketing">Book Marketing</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/self_book_publishing/fulfillment">Fulfillment</a></li>
-
                                                                                                                                                             </ul>
 
                                                                     <h4 class="additional"><a href="/marketing_communications/industry_specific_marketing">Industry Specific Marketing</a></h4>
@@ -310,21 +268,13 @@
 
                                     <ul>
                                                                                                                         <li><a href="/marketing_communications/direct_marketing/strategic_consultation">Strategic Consultation</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/direct_marketing/graphic_design">Graphic Design</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/direct_marketing/copywriting">Copywriting</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/direct_marketing/list_acquisition">List Acquisition</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/direct_marketing/personalized_urls">Personalized URLs</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/direct_marketing/variable_maps">Variable Maps</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/direct_marketing/mailing_services">Mailing Services</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/direct_marketing/every_door_direct_mail_(eddm)">Every Door Direct Mail (EDDM)</a></li>
-
                                                                                                                                                             </ul>
 
                                                                 </div>
@@ -333,62 +283,54 @@
 
                                     <ul>
                                                                                                                         <li><a href="/marketing_communications/online_marketing/seo">SEO</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/online_marketing/paid_search">Paid Search</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/online_marketing/social_media">Social Media</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/online_marketing/web_design">Web Design</a></li>
-
                                                                                                                                                             </ul>
 
                                                                     <h4 class="additional"><a href="/marketing_communications/mobile_marketing">Mobile Marketing</a></h4>
 
                                     <ul>
                                                                                                                         <li><a href="/marketing_communications/mobile_marketing/sms~mms">SMS/MMS</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/mobile_marketing/mobile_websites">Mobile Websites</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/mobile_marketing/qr_codes~ms_tags">QR Codes/MS Tags</a></li>
-
                                                                                                                                                                                                             <li><a href="/marketing_communications/mobile_marketing/mobile_apps">Mobile Apps</a></li>
-
                                                                                                                                                             </ul>
 
                                                                 </div>
                             
                             <div class="col1">
-                                                            <h4><a href="/marketing_communications/business_solutions">Business Solutions</a></h4>
-                                                            <h4><a href="/marketing_communications/brand_building">Brand Building</a></h4>
-                                                            <h4><a href="/marketing_communications/branding_and_identity">Branding &amp; Identity</a></h4>
-                                                            <h4><a href="/marketing_communications/lead_generation">Lead Generation</a></h4>
-                                                            <h4><a href="/marketing_communications/email_marketing">Email Marketing</a></h4>
-                                                            <h4><a href="/marketing_communications/epublications">ePublications</a></h4>
-                                                            <h4><a href="/marketing_communications/customer_retention">Customer Retention</a></h4>
-                                                            <h4><a href="/marketing_communications/customer_reactivation">Customer Reactivation</a></h4>
-                                                        </div>
+                                                                                            <h4><a href="/marketing_communications/business_solutions">Business Solutions</a></h4>
+                                                                                                                            <h4><a href="/marketing_communications/brand_building">Brand Building</a></h4>
+                                                                                                                            <h4><a href="/marketing_communications/branding_and_identity">Branding &amp; Identity</a></h4>
+                                                                                                                            <h4><a href="/marketing_communications/lead_generation">Lead Generation</a></h4>
+                                                                                                                            <h4><a href="/marketing_communications/email_marketing">Email Marketing</a></h4>
+                                                                                                                            <h4><a href="/marketing_communications/epublications">ePublications</a></h4>
+                                                                                                                            <h4><a href="/marketing_communications/customer_retention">Customer Retention</a></h4>
+                                                                                                                            <h4><a href="/marketing_communications/customer_reactivation">Customer Reactivation</a></h4>
+                                                                                        </div>
 
 
                             <div class="push-right">
                                 <div>
-                                    <a href="javascript:void(0)" class="btn btn-red btn-request btn-large"><span>Request a Quote</span></a>
+                                    <a href="#" onclick="return false;" class="btn btn-red btn-request btn-large"><span>Request a Quote</span></a>
                                 </div>
                                 <div>
-                                    <a href="javascript:void(0)" class="btn btn-gray btn-download btn-large"><span>Download our free marketing kit</span></a>
+                                    <a href="#none1" onclick="return false;" class="btn btn-gray btn-download btn-large"><span style="font-size: 11px;">Download our free marketing kit</span></a>
                                 </div>
 
                                 <div class="case-studies">
                                     <h3>Latest Case Studies</h3>
-                                    <a href="/marketing_communications/case_studies"><img src="/img/case-studies.jpg" width="163" height="78"></a>
-                                    <a href="/marketing_communications/case_studies"><span>Find out more about our expertise</span></a>
+                                    <a href="/marketing_communications/case_studies"><img src="/img/case-studies.jpg" alt="Our best case studies" width="163" height="78">
+                                    <span>Find out more about our expertise</span></a>
                                 </div>
                             </div>
                         </div>
 
                     </li>
-                            </ul>
+                                        </ul>
             <ul class="social">
-            	<li><a target="_blank" href="http://www.alphagraphics.com/blog/" class="blog"></a></li>&nbsp;            </ul>
+            	<li><a target="_blank" href="http://www.facebook.com/Alphagraphics" class="facebook"><span>facebook</span></a></li>&nbsp;<li><a target="_blank" href="http://twitter.com/alphagraphics" class="twitter"><span>twitter</span></a></li>&nbsp;<li><a target="_blank" href="http://www.linkedin.com/company/alphagraphics" class="linkedin"><span>linkedin</span></a></li>&nbsp;<li><a target="_blank" href="https://plus.google.com/106959570033862226122" class="g_plus"><span>g_plus</span></a></li>&nbsp;<li><a target="_blank" href="http://www.alphagraphics.com/blog/" class="blog"><span>blog</span></a></li>&nbsp;            </ul>
         </div>
 
     </div>
@@ -402,7 +344,7 @@
         <div class="subpage-header">
             <div class="carousel">
                 <ul>
-                    <li><img src="/images/1600/accordions/114.jpg" width="960"></li>
+                    <li><img alt="Image 114" src="/images/1600/accordions/114.jpg" width="960"></li>
                 </ul>
             </div>
 
@@ -416,6 +358,7 @@
 
         <div class="submenu-content">
                         <div class="col2 fullwidth">
+                <h2 class="hidden-text">Please, investigate AlphaGraphics</h2>
                 <div id="submenu-list">
                 
                 
@@ -504,7 +447,7 @@
 <!-- End Content -->
     <div id="footer">
     <div class="w1280">
-        <div class="w960">
+        <div class="w960" id="none1">
 
             <div class="row">
                 <div class="one-third">
@@ -516,22 +459,17 @@
 </div>                    <div class="link-farm"><a href="/about_us">About Us</a>
 <a target="_blank" href="http://alphagraphicsfranchise.com/">Own A Franchise</a>
 <a href="/about_us/leadership">Leadership</a>
-<a href="/about_us/careers">Careers</a>
+
 <a href="javascript:void(0)" class="show-widget">Get a Quote</a>
 </div>                </div>
 
                 <div class="one-third">
-                    	<h4>AlphaGraphics World Headquarters</h4>
-<p>
-215 South State Street, Suite 320<br>
-Salt Lake City, UT 84111<br>
-United States
-</p>                </div>
+                    	<div class="h4">AlphaGraphics World Headquarters</div><p>215 South State Street, Suite 320<br>Salt Lake City, UT 84111<br>United States</p>                </div>
                 <div class="one-third">
-                    <p><label>Toll Free:</label><span>800.955.6246</span><br>
-<label>Phone:</label><span>801.595.7270</span><br>
-<label>Fax:</label><span>801.595.7271</span><br>
-<label>E-mail:</label><span><a href="#" class="show-contactus-form">Contact Us</a></span></p>                </div>
+                        <p><span class="label">Toll Free:</span><span class="descr">800.955.6246</span><br>
+<span class="label">Phone:</span><span class="descr">801.595.7270</span><br>
+<span class="label">Fax:</span><span class="descr">801.595.7271</span><br>
+<span class="label">E-mail:</span><span><a href="#" class="show-contactus-form descr">Contact Us</a></span></p>                </div>
             </div>
 
             <div class="row small-gap">
@@ -544,25 +482,24 @@ United States
 <!--                    <a href="/">News</a> |-->
                     <a href="/glossary">Glossary</a>
                 </span>
-                <span id="copyright">All content © copyright 2015 AlphaGraphics. All rights reserved.</span>
+                <span id="copyright">All content © copyright 2016 AlphaGraphics. All rights reserved.</span>
                 </div>
 
                 <div class="one-third">
                 <ul id="languages">
-                    <li><a href="/privacy_policy?lang=en" class="flag us"></a></li>
-                    <li><a href="/privacy_policy?lang=br" class="flag uk"></a></li>
-                    <li><a href="/privacy_policy?lang=po" class="flag po"></a></li>
+                    <li><a href="/privacy_policy?lang=en" class="flag us"><span>English</span></a></li>
+                    <li><a href="/privacy_policy?lang=en#sidebar_container" class="flag uk"><span>English UK</span></a></li>
+                    <li><a href="/privacy_policy?lang=po" class="flag po"><span>Portuges</span></a></li>
 
-                    <li><a href="/?lang=en" class="flag cn search-by-country" data-term="China"></a></li>
-                    <li><a href="/?lang=en" class="flag hk search-by-country" data-term="Hong-Kong"></a></li>
-                    <li><a href="/?lang=en" class="flag mx search-by-country" data-term="Mexico"></a></li>
-                    <li><a href="/?lang=en" class="flag sa search-by-country" data-term="Saudi Arabia"></a></li>
+                    <li><a href="/?lang=en&amp;l=ch" class="flag cn search-by-country" data-term="China"><span>China</span></a></li>
+                    <li><a href="/?lang=en&amp;l=hk" class="flag hk search-by-country" data-term="Hong-Kong"><span>Hong-Kong</span></a></li>
+                    <li><a href="/?lang=en&amp;l=sa" class="flag sa search-by-country" data-term="Saudi Arabia"><span>Saudi Arabia</span></a></li>
                 </ul>
                 </div>
 
                 <div class="one-third">
                 <ul class="social">
-                    <li><a target="_blank" href="http://www.alphagraphics.com/blog/" class="blog"></a></li>&nbsp;                </ul>
+                    <li><a target="_blank" href="http://www.facebook.com/Alphagraphics" class="facebook"><span>facebook</span></a></li>&nbsp;<li><a target="_blank" href="http://twitter.com/alphagraphics" class="twitter"><span>twitter</span></a></li>&nbsp;<li><a target="_blank" href="http://www.linkedin.com/company/alphagraphics" class="linkedin"><span>linkedin</span></a></li>&nbsp;<li><a target="_blank" href="https://plus.google.com/106959570033862226122" class="g_plus"><span>g_plus</span></a></li>&nbsp;<li><a target="_blank" href="http://www.alphagraphics.com/blog/" class="blog"><span>blog</span></a></li>&nbsp;                </ul>
                 </div>
 
             </div>
@@ -590,6 +527,10 @@ United States
             <a href="/{{lang}}{{base}}" class="btn btn-red btn-local-site"><span>Visit local site</span></a>
         </div>
 
+        <div class="call-to-action select-center" style="display: none">
+            <a href="/{{lang}}{{base}}" class="btn btn-red btn-local-site btn-select" onclick="selectCenter(this); return false;" data-center-name="{{centerWebName}}" data-center-id="{{centerID}}"><span>Select a center</span></a>
+        </div>
+
         <ul id="offer"></ul>
 
         <div class="map-container">
@@ -602,7 +543,7 @@ United States
         <div id="other-centers-list">
             <div class="centers">
             {{#each near_centers}}
-                <div class="center" data-latitude="{{latitude}}" data-longitude="{{longitude}}">
+                <div class="center" data-latitude="{{latitude}}" data-longitude="{{longitude}}" data-id="{{centerID}}">
                     <span class="title"><a href="/{{lang}}{{base}}">{{centerWebName}}</a></span>
                     <span class="address">{{address1}}<br/>{{address2}}</span>
                     <span class="city">{{city}}, {{abbreviation}} {{#ifequal country_code 'us'}} {{else}} {{country}}  {{/ifequal}} {{zip}}</span>
