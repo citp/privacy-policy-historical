@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverwhiz.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134820id_/http%3A//driverwhiz.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverwhiz.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608014029id_/http%3A//driverwhiz.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Driver Whiz Privacy Policy
 
@@ -387,8 +387,8 @@ alternative, you may reach us at:
   * **BY TELEPHONE:** 1 (925) 293-9056. (Business Hours: M-F  
 9am-5pm Pacific Standard Time) International: +1 (925) 293-9056  
 (check your local telephone company for estimated charges)
-  * **BY MAIL:** Attn. Privacy Officer 383 Media Inc. 4683 Chabot  
-Drive, Suite 350 Pleasanton, CA, 94588
+  * **BY MAIL:** Attn. Privacy Officer 383 Media Inc. 7600 Dublin  
+Boulevard, Suite 210 Dublin, CA, 94568
 
 
 
