@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailermailer.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141505id_/http%3A//www.mailermailer.com/privacy-policy.rwp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailermailer.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607083931id_/http%3A//www.mailermailer.com/privacy-policy.rwp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ To report any abuse or violations of the MailerMailer email list service, please
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name or IP address, but not the email address. Unless otherwise stated on our web site, we collect only the domain name or IP address of visitors to our Web page, the email addresses of those who communicate with us via email, the email addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and registrations to access portions of the site and their related services or to set up a MailerMailer account. 
 
-We also collect clickstream information. We use SSL (secure socket layer) encryption for online payment collection for purchases of our own proprietary products and services, which includes the MailerMailer email list management service. We rely on third party providers for some of our products and services which may be advertised via the MailerMailer service— the privacy policies of those sites govern the method by which they collect and use such information. 
+We also collect clickstream information. We use SSL (secure socket layer) encryption for online payment collection for purchases of our own proprietary products and services, which includes the MailerMailer email list management service. We rely on third party providers for some of our products and services which may be advertised via the MailerMailer service — the privacy policies of those sites govern the method by which they collect and use such information. 
 
 ### Use of Web Site Information Collected
 
