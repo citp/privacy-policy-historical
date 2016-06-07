@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purevision.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045531id_/http%3A//www.bausch.com/en/Reference/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purevision.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607160017id_/http%3A//www.bausch.com/en/Reference/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ The privacy practices set forth in this Privacy Policy are for this Web Site and
 
 ## How We Protect the Privacy of Job Applicants
 
-Personal information collected from job applicants is protected by Bausch & Lomb's “[Protecting Applicant Privacy](https://web.archive.org/Portals/107/-/m/BL/Global1/Files/Corporate/HR/applicantprivacy.pdf)(68 KB, PDF)” policy.
+Personal information collected from job applicants is protected by Bausch & Lomb's “[Protecting Applicant Privacy](https://web.archive.org/Portals/69/-/m/BL/Global1/Files/Corporate/HR/applicantprivacy.pdf)(68 KB, PDF)” policy.
 
 ## US - EU Safe Harbor Participation
 
@@ -63,8 +63,8 @@ Bausch + Lomb recognizes that the European Union (“EU”) has an “ominbus”
 If you have any questions about this Privacy Policy, our privacy practices or our Safe Harbor participation, please contact:
 
 Office of the Chief Privacy Officer  
-Bausch & Lomb Incorporated  
-One Bausch & Lomb Place  
-Rochester, NY 14604-2701  
+Bausch + Lomb, a Division of Valeant Pharmaceuticals North America  
+400 Somerset Corporate Boulevard  
+Bridgewater, NJ 08807  
 ph: (800) 782-5812  
 email: [dataprivacy@bausch.com](mailto:dataprivacy@bausch.com)
