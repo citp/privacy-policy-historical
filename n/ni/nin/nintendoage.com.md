@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the nintendoage.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217162441id_/http%3A//nintendoage.com/pub/faq/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendoage.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013115id_/http%3A//nintendoage.com/pub/faq/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # 
 
 **Bucket Head Media Privacy Policy**  
 (Last updated $Date: 2015/07/08 03:31:46 $)
 
-Bucket Head Media LLC ("Bucket Head") is committed to respecting the privacy of persons using Nintendoage.com, SegaAge.com, and PlaystationCollecting.com (the "Sites"). This Privacy Policy describes Bucket Head's information gathering and dissemination practices for the Sites. 
+Bucket Head Media LLC ("Bucket Head") is committed to respecting the privacy of persons using Nintendoage.com, SegaAge.com, and PlayStationAge.com (the "Sites"). This Privacy Policy describes Bucket Head's information gathering and dissemination practices for the Sites. 
 
 We encourage you to read this Privacy Policy carefully prior to using a Site. By using a Site, you accept the practices described in this Privacy Policy. 
 
