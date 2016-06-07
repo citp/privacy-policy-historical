@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legoland.com.my privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208054924id_/http%3A//www.legoland.com.my/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legoland.com.my privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161239id_/http%3A//www.legoland.com.my/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - LEGOLAND
 
@@ -73,7 +73,7 @@ Contact us
 
 7, Jalan Legoland, Bandar Medini,
 
-79250 Nusajaya, Johor, Malaysia.
+79250 Iskandar Puteri, Johor, Malaysia.
 
 Tel: +605-597 888
 
