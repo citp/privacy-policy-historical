@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mysticalraven.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208003405id_/http%3A//www.mysticalraven.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysticalraven.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608014525id_/http%3A//www.mysticalraven.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy – Mystical Raven
 
 **Section 1 –  How do we use your information?**
 
@@ -36,16 +36,4 @@ We reserve the ability to change this privacy policy at any time, so review it f
 
 **Section 8 – Questions**
 
-If you have any questions or comments please contact us [here](http://www.mysticalraven.com/about/contact-us/)
-
-The following two tabs change content below.
-
-  * Bio
-  * Latest Posts
-
-
-
-Raven Fon is a freelance writer and a globetrotting journalist. She studied creative writing and journalism at Saint Petersburg College and has since been a contributor to local newspapers, as well as several blogs including The Open Mind, Earth We Are One, and I Heart Intelligence.
-
-  
-
+If you have any questions or comments please contact us [here](http://mysticalraven.com/about/contact-us/)
