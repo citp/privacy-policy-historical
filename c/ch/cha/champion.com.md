@@ -1,145 +1,172 @@
-> *The following text is extracted and transformed from the champion.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908042456id_/https%3A//www.championmortgage.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the champion.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607224115id_/http%3A//www.champion.com/shop/champion/PrivacySecurity) for the most accurate reproduction.*
 
-# Champion Mortgage | Privacy Policy
+# Privacy Security
 
-At Champion Mortgage, customer service, trust and confidence is a high priority. That's why we welcome this opportunity to describe our privacy policies, the steps we take to protect and maintain your information and to let you know how you can choose how your customer information may be shared. 
+**Last updated:** October 21, 2014
 
-Please see our [Consumer Privacy Notice](https://web.archive.org/Content/documents/ChampionPrivacyNotice.pdf) for a full explanation of how we collect, use and share personal information and what steps you can take to limit sharing of your information. [California residents](https://web.archive.org/Content/documents/ChampionCaliforniaPrivacyNotice.pdf)
+At Hanesbrands, we respect our customers and understand that you may have concerns about privacy, so we have instituted these privacy policies, which are intended to ensure that your Personal Information is handled safely and responsibly. This Privacy Policy (the " **Privacy Policy** " or the " **Policy** ") and the [Terms of Use](https://web.archive.org/web/20160607224115id_/http%3A//www.champion.com/shop/champion/TermsOfUse) constitute a single Agreement that governs your use of the [Site](https://web.archive.org/web/20160607224115id_/http%3A//www.champion.com/shop/champion/TermsOfUse). Any capitalized term that is not defined in this Policy shall have the meaning given to it in the Terms of Use.
 
-####  Privacy Options and Solicitations
+### OVERVIEW
 
-  * To make privacy elections, [click here](https://web.archive.org/Home/PrivacyElections).
-  * To limit the types of solicitations Champion sends you, [click here](https://web.archive.org/Home/DoNotSolicit).
+This Policy applies to information collected on the Site. **This Policy does not apply to or govern our collection and use of information in connection with purchases made at our retail locations or through our mail order catalogs.**
 
+In general, the Policy explains:
 
+  * What information we collect about you and how it is collected
+  * How we use information that we collect
+  * How we share information that we collect
+  * Your choices regarding information that we have collected about you
 
-###  Information Collection
 
-We collect nonpublic personal information about you, including: 
 
-  * Information we receive from you on applications, surveys, online registrations or other forms (such as your name, address, assets, income and debt)
-  * Information about your transactions with us, our affiliates or others (such as account balance, payment history or information about our communications with you)
-  * Information about your creditworthiness, credit history and other facts about you that we obtain from consumer reporting agencies or from providers of marketing and demographic information
-  * Information from other outside sources regarding their employment, credit or other relationship with you or verifying representations made by you, such as your employment history, loan balances or your property insurance coverage
+We encourage you to refer to this Policy periodically so that you understand our current practices regarding information collected about you through your [use](https://web.archive.org/web/20160607224115id_/http%3A//www.champion.com/shop/champion/TermsOfUse) (as defined in the Terms of Use) of the Site.
 
+Your access and use of the Site means that you agree to the terms and conditions set forth in this Privacy Policy and the Terms of Use.
 
+### INFORMATION COLLECTION
 
-###  Protecting the Confidentiality and Security of Your Information
+We collect information from a variety of sources, including information provided by you, information we collect when you use the Site or purchase products through it, and information about you that we receive from third-party sources.
 
-Keeping financial information secure is one of our most important responsibilities. Only those persons who need it to perform their job responsibilities are authorized to access your information. We take commercially reasonable precautions to protect your information and limit disclosure by maintaining physical, electronic and procedural safeguards.
+Immediately below, we have identified our sources of information, together with examples of the kinds of information collected by each source:
 
-###  Information Use and Disclosure
+**Information You Provide.** We may collect Personal Information from you when you use the Site. For example, you may provide such information when you search for and buy a product, subscribe to various services such as email communications, post reviews, compile a "My Favorites" list or other product list, participate in contests or questionnaires, respond to a survey, or communicate with customer service, among other things. For purposes of this Privacy Policy, " **Personal Information** " means any information you provide to us on the Site which can personally identify you. Examples of the types of Personal Information that we may request from you include the following:
 
-We may share information we have about you to give you superior service and to make a wider range of products available to you. We may share this information in the following ways:
+  * Name (first, middle initial, and last)
+  * Address (billing and shipping)
+  * Zip code
+  * E-mail address
+  * Telephone number(s)
+  * Mobile telephone number(s)
+  * Date of birth or age
+  * Security question answers
+  * Credit card or other payment information for purchases you make on the Site
+  * Your order history (including returns or exchanges)
 
-####  With Affiliates of Champion Mortgage
 
-The Fair Credit Reporting Act gives you the opportunity to limit the sharing of "non-experience information" among affiliates of Champion Mortgage. "Non-experience information" includes information that is used, expected to be used, or collected for the purpose of establishing your eligibility for consumer credit, insurance or deposit accounts, and is not related solely to your transactions or other experiences with us, including information: 
 
-  * From your applications, such as your income or marital status
-  * From a credit report, such as your credit history
-  * From sources used to verify representations made by you, such as your open lines of credit or employment history
+**Automatically Collected Information.** We, and certain service providers and other third-parties, on our behalf, use cookies, web beacons, Flash cookies (also known as local shared objects), and other technologies (collectively, " **Cookies** ") to receive and store certain types of information whenever you use or interact with the Site. This information may include the pages you visit on our Site, the web address from which you came, the type of browser/device/hardware you are using, purchase information and checkout process information, search terms, and mobile geographic location, and it helps us recognize you, customize your website experience and make our marketing messages more relevant. Cookies may be used in connection with our content appearing on other websites or mobile applications. Cookies enable us to enhance the user experience on the Site by providing features, including Site customization and storage of items in your cart between visits. We also use Cookies for reporting and analysis purposes (such as how you are shopping our website, the performance of our marketing efforts, and your response to those marketing efforts).
 
+**Information from Third Parties.** We also obtain Personal Information from third parties. For example, portions of the Site may include features or widgets from various social media platforms, such as Facebook, Google Plus, Twitter, Pinterest, Instagram, Tumblr and YouTube (each, a " **Social Media Platform** "), and we may enable you to register or log-in to the Site through a Social Media Platform. These features use Cookies to collect information about your IP address, and the pages on our Site that you have visited. Your interactions with those features are governed by the terms of use and privacy policies of the companies that provide them.
 
+**Mobile Information.** When you use the Site on a mobile device or when you download or use any apps created by us, we may receive information about your location and your mobile device itself, including your device's unique identifier. We may use this information to provide you with location-based services and other services, such as advertising, search results, and other personalized content.
 
-Within the Champion Mortgage family of companies, we may share the customer information we collect (described in the Information Collection) with:  
+### HOW WE USE INFORMATION
 
+We may use the information we collect for a variety of reasons related to our operation and your use of the Site. We may combine information about you that we collect on-line, in our stores, via mobile applications, and from third-party sources. In addition, we may share information about you with third parties in certain circumstances.
 
-  * Affiliate companies providing financial and other services, such as mortgage lenders, insurance agencies, home security companies, lawn care and pest control companies and residential homebuilders
+Examples of specific ways in which Hanesbrands may use your Personal Information include, but are not limited to, the following:
 
+  * Responding to your requests (including, for example, to process orders; enter a sweepstakes; post a testimonial, photograph, comment or question, or to receive product information, or catalogs or to enroll in our e-mail program);
+  * Improving the content, appearance and utility of the Site;
+  * Tracking our visitors' use of the Site for internal research purposes and to enhance our product messaging to you;
+  * Inviting you to participate in market research;
+  * Providing any necessary notices to our visitors and notifying them about Site updates;
+  * Sending catalogs, printed materials, offers and other announcements to postal addresses and allowing our affiliates and other reputable third-party marketers to do the same;
+  * Sending e-mail offers, announcements, or newsletters to your e-mail address (these e-mails may come from any of us at Hanesbrands, including any Hanesbrands affiliate);
+  * Contacting you on a residential or mobile telephone number that you have given us (either by a traditional voice call or through an SMS or text message) to provide you with information about our products, special offers, or promotions;
+  * Enabling users to register an account on the Site and to log-in using their credentials from a Social Media Platform;
+  * Providing apps or interactive features of the Site, such as product reviews or marketing communications and other information regarding our products, services and promotions;
+  * Administering promotions, surveys, and focus groups;
+  * Providing location-based services, including search results and other personalized content, through use of location information obtained from your mobile device; and
+  * Monitoring against theft and fraud.
 
 
-If you prefer that we not share non-experience information about you with an affiliate of Champion Mortgage, you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-866-654-0020. 
 
-####  With Third Party Service Providers, Joint Marketers and As Otherwise Permitted by Law
+**How We Share Information with Third Parties.** Hanesbrands respects your privacy and, accordingly, shares Personal Information with third parties in a limited number of circumstances:
 
-We may work with non-affiliated companies or organizations to provide services on our behalf in connection with the servicing of your account or to provide you with opportunities to buy products or services offered by us or jointly with other financial institutions. Consequently, we may disclose some or all of the information that we collect (described in the Information Collection ) to the following: 
+  * _Affiliates_. We may share your Personal Information within the Hanesbrands family of companies for marketing and/or other administrative purposes.
 
-  * Companies that perform services on our behalf, such as check and statement printers, data processing companies and vendors who monitor the status of insurance on the property
-  * Companies with whom we have joint marketing agreements
+  * _Third-Party Providers_. We may contract with other companies to provide certain services to us, including credit card processing, shipping, e-mail distribution, changing mailing addresses, market research and promotions management. These third-party service providers may have access to Personal Information or non-personal information in order to perform their functions, but they may not use this information for other purposes. These companies are prohibited from using your Personal Information for their own marketing purposes or from sharing this information with others, but we cannot guarantee security of Personal Information and are not liable for misuse of it by others.
 
+We also use third-party service providers to serve advertisements (banners, links, etc.) on our behalf, whether displayed on the Site or elsewhere on the Internet. These advertising service providers may use Cookies to collect non-identifiable information about your visits to the Site. Such non-identifiable information does not include your name, address, e-mail address or other Personal Information. In addition to the information about your visits to the Site, our service providers may also use the information about your visits to other websites to target advertisements for products and services available from us.
 
+Our advertising partners, which currently include, but are not limited to Doubleclick, PointRoll, Facebook and Pinterest, use third-party Cookies. In the future, we may partner with other entities that will provide us with interest-based advertising (displayed on the Site or elsewhere on the Internet). For more information about interest-based advertising and for a link to a tool that will enable you to manage third-party advertising preferences, see the Managing Your Preferences: Interest-Based Advertising section, below.
 
-For your protection, we require that these companies keep all personal information secure and confidential.
+  * _Promotional Offers:_ Although we do not rent customers' e-mail addresses to third parties, we may rent to non-affiliated third parties (for their own marketing or promotional uses) the names and postal addresses of customers that have ordered our products through the Site. In addition, we may disclose Personal Information to affiliates for marketing and promotional purposes. The Managing Your Preferences section of this Policy discusses ways in which you can modify your promotional and marketing preferences.
 
-We may disclose some or all of the information that we collect (described in the Information Collection) as permitted by law. For example, we may share personal information: 
+  * _Co-Sponsored Events._ We sometimes work with an unaffiliated co-sponsor to provide certain contests, sweepstakes, promotions and other offerings to our customers. We will let you know if an event or promotion is co-sponsored (for example, by prominently displaying the co-sponsor's name and/or logo on applicable pages on the Site). As part of a co-sponsored event, we may provide the co-sponsor with information (including Personal Information) that is necessary to facilitate the event. In these circumstances, our co-sponsor will have the right to use any Personal Information received from us for its own purposes, and such uses would then be subject to the co-sponsor's own terms of use and privacy policy. We are not responsible for how our co-sponsors may use your Personal Information that we share in connection with a co-sponsored event.
 
-  * With regulatory authorities and law enforcement officials
-  * To protect against fraud
-  * To report activity to credit bureaus
-  * To respond to a subpoena
-  * To service your account
+  * _Social Media Platforms._ If you choose to connect your [ID](https://web.archive.org/web/20160607224115id_/http%3A//www.champion.com/shop/champion/TermsOfUse#tou-registration) with a Social Media Platform or use your credentials on it to register or login to the Site, we will ask you for your permission to access your data on the Social Media Platform to create a Site account.
 
+  * _Protecting Our Interests; Legal Compliance; Business Transfers._ We may disclose information we collect when we believe disclosure is appropriate in order to comply with the law, to enforce or apply applicable terms and conditions and other agreements, and/or to protect the rights, property or safety of our company, our customers, or others. If some or all of our business assets are sold or transferred, we may transfer the corresponding information regarding our customers. We also may retain a copy of such transferred customer information.
 
+  * _With Your Permission._ At your direction or request, we may share your information in other ways. For example, if you create a "My Favorites" list and elect to make it available to the public, your information will be accessible on the Site.
 
-####  With Other Third Parties
+  * _Aggregated Information._ We may share with third parties certain aggregate information (that is, information that does not directly identify an individual). This allows us to give you a more personalized experience when you use the Site.
 
-We may disclose some or all of the information that we collect (described in the Information Collection) with non-affiliated companies or other organizations, including: 
 
-  * Financial service providers, such as mortgage bankers, securities broker-dealers and insurance agents
-  * Non-financial companies, such as retailers, direct marketers, membership clubs and publishers
-  * Other companies and organizations, such as non-profit organizations
 
 
+**Remember that this Policy only applies to information collected through the Site. It is possible that our policies relating to information collected at our retail locations or through our mail order catalog may permit us to share Personal Information in different circumstances, even if that information has also been collected through the Site pursuant to this Policy.**
 
-If you prefer that we not share nonpublic personal information about you with non-affiliated companies and organizations as described in this section (except information described above under Information Sharing "With Third Party Service Providers, Joint Marketers and As Otherwise Permitted by Law"), you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-866-654-0020.
+### UPDATING YOUR ACCOUNT INFORMATION AND MANAGING YOUR PREFERENCES
 
-###  Maintenance of Accurate Information
+**Updating Your Account Information.**
 
-We have established commercially reasonable procedures designed to ensure that your personal information is as accurate and complete as possible. If you believe that our records contain inaccurate or incomplete information about you, please notify us by calling 1-866-654-0020 or sending a written inquiry to us at Champion Mortgage, Attention: Customer Service Department, P.O. Box 40724, Lansing, MI 48901-7927. We will take commercially reasonable steps to investigate your concerns and correct inaccurate information in a timely manner. 
+  * If you are a registered user of the Site, you can use the [My Account](https://web.archive.org/web/20160607224115id_/http%3A//www.champion.com/shop/champion/MyAccount) page on the Site to update your contact, shipping, and other account information.
+  * If you have questions about your order, you may check your order status online in [My Order](https://web.archive.org/web/20160607224115id_/http%3A//www.champion.com/shop/champion/OrderStatusSummary).
+  * If you have any additional questions, please call our Customer Service department at (800) 832-0594.
 
-###  Former Customers
 
-If you pay off your account with Champion Mortgage, your account is later sold to a third party investor or you, in some other manner, become a former customer, we will continue to treat and safeguard your information as described in this notice. 
 
-###  Companies Providing This Notice
+**Managing Your Preferences.** We want to communicate with you in the most effective manner, whether by sending you relevant marketing materials or by operating an intuitive and informative website. At the same time, we appreciate that your preferences regarding marketing, promotions, and online privacy will continue to evolve. This section provides you with information on how you can fine-tune your preference settings.
 
-This policy is provided by Champion Mortgage and its subsidiaries.
+  * _Hanesbrands Marketing and Promotions._ If, at any time, you no longer wish to receive marketing or promotional materials from us, you may notify us of your choice in several different ways. You may send an e-mail to [hanes.customer@hanes.com](mailto:hanes.customer@hanes.com); you may write to Hanes Consumer Services, Hanesbrands Inc., P.O. Box 748, Rural Hall, NC 27098; or you may call (800) 832-0594. When contacting us, please be sure to provide us with your exact e-mail address, name, postal address, and/or telephone number(s) in order to be sure we handle your request correctly. In addition, each time we send you an e-mail marketing message, we give you the option to unsubscribe from the applicable brand's promotional e-mail list by simply clicking the unsubscribe link included in the e-mail.
 
-You may opt out as described in this [Privacy Policy](https://web.archive.org/Content/documents/ChampionPrivacyNotice.pdf). You do not need to notify us if you have decided not to opt out. It may take up to four to six weeks to process your request. If at a later time you wish to change these opt out instructions, please contact our customer service department at 1-866-654-0020.
+We may, however, continue to contact you via e-mail if you have subscribed to any of our other brand-specific e-mail lists. We may also continue to contact you by e-mail for administrative or informational purposes, including follow-up messages regarding the administration of your account, services, features or functions in which you have enrolled or registered to use, other promotions or contests in which you have participated or have entered, goods and/or services you have ordered, and other transactions you have undertaken with the Site.
 
-Upon contacting the customer service department at the above listed toll-free number, your opt-out choices will be as reflected below.  
+  * _Third-Party Services._ This Policy does not cover any use of Personal Information or non-personal information that a third party may collect from you or that you may make available through use of the Site or our branded pages on a third-party website (such as a fan page on a Social Media Platform), and any such information is governed by the applicable third party's terms of use and privacy policy and not this Agreement. Accordingly, we encourage you to familiarize yourself with the privacy policies and controls of applicable third-party service providers and Social Media Platforms.
 
+  * _Mobile Devices._ Most mobile devices allow you to customize various privacy settings, such as location services and push notifications. For more information about how to do this, please contact your mobile service provider or the manufacturer of your mobile device to learn how to adjust the settings on your device. Please note that if you choose not to provide us with your location information through the mobile version of the Site, you may not be able to use all of the Site's features.
 
-  * Please do not share non-experience information about me with an affiliate of Champion Mortgage.
+  * _Interest-Based Advertising and Do-Not Track Settings._ Interest-based advertising uses information about you to provide relevant, targeted advertising likely to be of interest to you. Click [here](http://www.aboutads.info/consumers) for additional information on interest-based advertising.
 
-If you opt out, you may not receive offers for other products or services from the affiliates of Champion Mortgage that may be of value to you.
+Although some web browsers offer "do not track" options, the Site does not currently honor "do-not-track" browser settings. If you would like to opt-out of interest-based advertising, please click [here](http://www.aboutads.info/choices/). Please note: if you choose opt-out of Hanesbrands' interest-based advertising, you may continue to see or receive online advertising from us, but such ads may not be as relevant to you.
 
-  * Please do not share nonpublic personal information about you with non-affiliated companies and organizations as described in this notice (except information described above under Information Sharing "With Third Party Service Providers, Joint Marketers and As Otherwise Permitted by Law").
+  * _Cookies_. Internet browser software may allow you to change settings and prevent websites from automatically setting Cookies. Some media players, such as Flash, allow you to manage local shared objects. If you do change these settings, it may affect your ability to use certain features and functions on our Site, and you may need to re-enter information when you use the Site at a later time. You should consult with the publisher or licensor of your browser and media players if you want to change the settings or if you are experiencing trouble browsing our Site.
 
-If you opt out, you may not receive offers for other products and services from companies and organizations not affiliated with Champion Mortgage that may be of value to you.
 
 
 
+### INFORMATION ABOUT CHILDREN UNDER 13
 
-Note for Accounts with Co-Borrowers: Your opt out choices will also apply to co-borrowers.
+The Children's Online Privacy Protection Act imposes requirements on websites that collect personal information about children under 13 (for example, name, address, and e-mail address). We recognize the particular importance of protecting the privacy of personal information where children are involved, and we do not knowingly collect personal information from children under the age of 13.
 
-###  Cookies and Other Technical Information.
+We do not sell products for purchase **by** children, but some portions of the Site may offer children's products for purchase by adults.
 
-We may send "cookies" to your computer primarily to enhance your online experience. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). We may also use tracking systems such as "Web beacons," which monitor your use of our Web sites. Tracking systems (Web beacons or Web bugs) are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the Web beacon appears, the time the page containing the Web beacon was viewed, the types of browser that fetched the Web beacon and the identification number of any cookie on the computer previously placed by that server. When corresponding with you via HTML capable e-mail, Web beacons let us know whether you received and opened our e-mail.
+If a child under the age of 13 has provided our website with personally identifiable information, we ask that such child's parent or guardian call (800) 832-0594 or contact us at [hanes.customer@hanes.com](mailto:hanes.customer@hanes.com), and we will delete the information about the child from our files.
 
-On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish one of our Web sites with personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons.
+### SECURITY AND PHISHING
 
-Your ongoing use of our Web sites constitutes your acceptance of this Privacy Policy, and you specifically agree to our described use of cookies and Web beacons. You may adjust your browser to reject cookies from us or from any other site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our Web sites can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content. 
+We maintain reasonable administrative, technical and physical safeguards to protect your Personal Information. However, no e-commerce solution, website, database, or system is completely secure or "hacker proof." As such, you are also responsible for taking reasonable steps to protect your Personal Information against unauthorized disclosure or misuse.
 
-### Targeted Advertising
+Phishing attacks attempt to steal consumers' personal identity data and financial account credentials. "Phishers" use "spoofed" e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging sensitive Personal Information such as credit card numbers, account usernames, passwords, and Social Security Numbers. **WE DO NOT SEND E-MAILS ASKING YOU TO PROVIDE OR CONFIRM SENSITIVE PERSONAL INFORMATION OR YOUR USERNAME OR PASSWORD!** If you receive such e-mail communication, please forward it immediately to the Site's Privacy Administrator at [hanes.customer@hanes.com](mailto:hanes.customer@hanes.com), and then immediately delete the fraudulent e-mail from your computer.
 
-We may also use technologies to collect information about your online activities over time and across third party websites or other online services (behavioral tracking). We believe that this online behavioral tracking helps to provide you with more relevant advertising based upon on the websites you visit. Third parties may also use similar technologies to collect information about your online activities over time and across different third party sites, including your use of this Champion Mortgage website. 
+### REVISIONS AND UPDATES
 
-You can visit the [NAI Opt-Out web site](http://www.networkadvertising.org/choices/) for information on how you can opt out of behavioral tracking on this website. Using the choice mechanisms these programs make available may help you see advertising that is relevant to you or help you avoid seeing interest based advertising generally. Please note that the Champion Mortgage website does not respond or honor “Do Not Track” requests. 
+We reserve the right to change this Policy, and any changes to our Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect.
 
-###  Secure Email
+### YOUR CALIFORNIA PRIVACY RIGHTS
 
-A message for all Champion’s clients and business partners: as part of Champion’s ongoing efforts to strengthen security and to protect sensitive information, we have a Secure Email system. It provides a convenient method for you to receive and reply to secure emails, while continuing to ensure the integrity of the information interchange. 
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of Personal Information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of Personal Information shared with third parties and used for direct marketing purposes and the name and address of the third parties that received such Personal Information.
 
-####  Will I have to install new software or register for the new system?
+If you are a California resident and want a copy of this notice, please submit a written request to the following address:
 
-No new software is required on your system. The first time you use the new secure email system, you will be asked to create a password. You will also select a password recovery question / answer that will allow you to change your password. There are no other registration requirements. 
+> Hanesbrands Inc.  
+> P.O. Box 748  
+> Rural Hall, NC 27098  
+> c/o Privacy Administrator
 
-####  How will I receive secure email messages from Champion?
+In your request, please specify that you want a "Your Hanesbrands California Privacy Rights Notice." Please allow 30 days for a response.
 
-Secure email messages (and any attached files) from Champion will be encrypted before they are sent, and then delivered directly to your inbox. When you open the message you will be prompted to enter your password, which will decrypt the message (and any attached files). You can then save, reply to, or forward the message and files. 
+### QUESTIONS
 
-####  Are there reply capabilities? Can I initiate a secure email to an Champion Associate?
+Questions concerning the use of the Site should be directed to us, as follows:
 
-You can respond to Champion secure emails with secure replies, and there is also a method for initiating secure email exchanges with Champion associates. 
+  * E-mail: [hanes.customer@hanes.com](mailto:hanes.customer@hanes.com)
+  * Mail: WebMaster, Hanesbrands Inc., P.O. Box 748, Rural Hall, NC 27098
+  * Telephone: (800) 832-0594
+
+
+
+When contacting us, please be sure to provide us with your exact e-mail address, name, address, and/or telephone number(s) so that we may handle your request correctly.
