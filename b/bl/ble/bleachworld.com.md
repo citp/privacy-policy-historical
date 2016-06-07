@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the bleachworld.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025055430id_/http%3A//www.viz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachworld.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607233718id_/http%3A//www.viz.com/privacy) for the most accurate reproduction.*
 
-# VIZ.com
+# Privacy Policy // Viz
+
+## VIZ Media Privacy Policy
+
+Effective Date September 24, 2007 (last updated May 1, 2013)
+
+* * *
 
 **About this Policy**
 
 | 
 
 This policy describes our privacy practices for our websites, mobile websites, smart phone applications and programming services (the "Sites").  
+  
+---|---  
   
 **Information We Collect**
 
@@ -103,7 +111,7 @@ No
 
 No  
   
-**With our business partners.** For example, we might share information with a business partner who is running a joint promotion with us. We might also share information to trusted business partners whose products we think you would like. To opt out of having your information shared, see the Your Choices section below.
+**With our business partners.** For example, we might share information with a business partner who is running a joint promotion with us. We might also share information to trusted business partners whose products we think you would like. To opt out of having your information shared, see the Your Choicessection below.
 
 | 
 
@@ -113,7 +121,7 @@ In some circumstances
 
 | 
 
-To stop receiving our promotional emails, [email us](mailto:optout@viz.com) opt-out request. When logged in to certain of our Sites, registered users can also change their options at the Your Account page.
+To stop receiving our promotional emails, [email us](mailto:optout@viz.com)opt-out request. When logged in to certain of our Sites, registered users can also change their options at the Your Account page.
 
 To opt out of having us share your information with third parties for their promotional purposes, please [email us](mailto:optout@viz.com). If you accept an offer from one of them after you opt out, we will share your information with that specific party.
 
@@ -123,11 +131,11 @@ You can choose whether or not to share personal information. If you choose not t
 
 | 
 
-You can [email us](mailto:privacypolicy@viz.com) or write to us at:
+You can [email us](mailto:privacypolicy@viz.com)or write to us at:
 
-Online Manager (Privacy Issue) VIZ Media  
-1355 Market Street, Suite #200  
-San Francisco, CA 94103  
+Online Manager (Privacy Issue) VIZ Media   
+1355 Market Street, Suite #200   
+San Francisco, CA 94103   
 (415) 546-7073  
   
 **Our Sites and Children**
@@ -158,7 +166,7 @@ Our sites contain links to third party sites. If you click on one of those links
 
 If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information. You can make a request one time each year.
 
-To exercise your rights, you can [email us](mailto:privacypolicy@viz.com) or write to us at the address in the "More Questions" section, above. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.  
+To exercise your rights, you can [email us](mailto:privacypolicy@viz.com)or write to us at the address in the "More Questions" section, above. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.  
   
 **Updating Personal Information**
 
@@ -179,4 +187,45 @@ Log on to our Site and click on "My Account" to make changes.
 
 | 
 
-This Policy was updated on September 24, 2012. Where allowed by law, changes to our policy will be applied to information we already have.
+This Policy was updated on September 24, 2012. Where allowed by law, changes to our policy will be applied to information we already have.  
+  
+## VIZ Media and Our Tracking Tools
+
+* * *
+
+**Tracking Technologies We Use**
+
+| 
+
+We or our vendors use several common tracking tools. These may include browser cookies. We may also use web beacons and similar technologies. We use these tools to track our consumers and Site visitors. We also use them for other business purposes, including:
+
+  * To track new visitors to our sites.
+  * To recognize past customers.
+  * To store your password if you are registered on our sites.
+  * To serve you with advertising content in which we think you will be interested. As part of this customization, we may observe your behaviors on this Site or on other websites. We may also get information about your browsing history from our trusted business partners.
+  * So we can better understand our audience, our customers, our Site visitors, and their respective interests.
+
+  
+---|---  
+  
+**Controlling Our Use of Tracking Technologies**
+
+| 
+
+You may control our use of cookies. How you do so depends on the type of cookie. You can set your browser to reject browser cookies. To control flash cookies, which we may use on certain Sites from time to time, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings.
+
+NOTE: If you set your computer to block cookies, you may not be able to use certain features on our sites.
+
+We work with Twitter to bring you more useful and interesting advertising content. You may find instructions on how to opt out of Twitter's collection of remarketing data [here](https://support.twitter.com/articles/20170405).  
+  
+**About Our Ads on Other Websites**
+
+| 
+
+We may also work with online advertising companies to provide you with advertising that is as relevant and useful as possible. We may provide this advertising on our Sites and other third party sites that you visit. These ads may be based on information you submit on our Sites or third party sites. They may also be based on your activities or behaviors on our Sites or on third party sites. The information gathered may be used to serve you with advertisements on our Sites or on third party websites. This includes mobile websites or applications.  
+  
+**Opting Out of Receiving/Seeing Tracking-Based Ads**
+
+| 
+
+We sometimes work with vendors to provide you with online ads. What ads you see may be based on your activities on our Site or third party sites. To opt out of having your online behavior tracked for advertising purposes click [here](http://www.aboutads.info/choices/).
