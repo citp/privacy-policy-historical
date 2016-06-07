@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmr.qld.gov.au privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212182824id_/http%3A//www.tmr.qld.gov.au/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmr.qld.gov.au privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607165306id_/http%3A//www.tmr.qld.gov.au/Help/Privacy) for the most accurate reproduction.*
 
 # Privacy (Department of Transport and Main Roads)
 
@@ -22,6 +22,10 @@ For information to be personal information 2 criteria must be satisfied.
 
 
 To download a copy of this Act, please click on [Information Privacy Act 2009 (PDF, 845 KB)](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf).
+
+The departments’ Information Privacy Management Plan takes into consideration the diverse range of activities and functions of the department, and provides an overview for how compliance with the IP Act is achieved. This plan also provides a guideline for employees and contractors of the department who deal with personal information in relation to the functions and activities of the department.
+
+[Information Privacy Plan 2016 (PDF, 168 KB)](https://web.archive.org/-/media/Help/information-privacy-plan-2016.pdf?la=en)
 
 ### Online services
 
@@ -54,13 +58,29 @@ Unless you provide your personal information as part of the online service, no a
 
 **Please note:** if you notify us of a change of address and/or e-contact details, this information will change the addresses recorded for your Queensland driver licence, marine licence, industry authority, adult proof of age card and/or vehicles or vessels registered in Queensland.
 
+### Mobile applications
+
+#### Privacy
+
+The Department of Transport and Main Roads (the department) respects your privacy. Any personal information that is collected or provided via a software application (App) will be managed in accordance with the Information Privacy Act 2009. 
+
+Where relevant, the department may record information about your use of the App. This information may include but is not limited to: 
+
+  * the random, auto-generated user account number created when the App is first launched and associated with your device
+  * when and how the App is used
+  * the pages accessed and the types of functions used.
+
+
+
+The information you provide will be used only for the purpose it was collected in order to provide you with a service. The department may disclose relevant personal information where required to or authorised by law.
+
 ### Emails and mobile phone/SMS device numbers
 
 If you choose to supply an email address and/or mobile phone/SMS device number, you also consent to the use of that information for the following purposes:
 
-  * issuing you with an online access code when you request it
-  * responding to your enquiries
-  * processing your transaction
+  * issuing you with an online access code when you request it 
+  * responding to your enquiries 
+  * processing your transaction 
   * sending you information, notices, reminders or updates on Transport and Main Roads products and services. 
 
 
@@ -105,7 +125,7 @@ Brisbane Qld 4001
 Email: | [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au)  
 Phone: | 07 3066 7108  
   
-Or you may lodge your complaint or enquiry online through our [online complaints form](https://web.archive.org/Contact-us.aspx).
+Or you may lodge your complaint or enquiry online through our [online complaints form](https://web.archive.org/Contact-us).
 
 ### Contact
 
