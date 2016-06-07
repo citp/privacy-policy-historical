@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airnow.gov privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134933id_/http%3A//www.epa.gov/epafiles/usenotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airnow.gov privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161126id_/http%3A//www.epa.gov/epafiles/usenotice.htm) for the most accurate reproduction.*
 
 # Privacy and Security Notice | EPA Home | US EPA
 
@@ -65,7 +65,7 @@ For more information about the federal government's use of persistent cookies, p
 
 Top of Page
 
-**How Long is the Information Retained** : The logs for each day, with no personal information, are maintained in accordance with [Records Schedule 095](http://www.epa.gov/records/policy/schedule/sched/0095.htm).
+**How Long is the Information Retained** : The logs for each day, with no personal information, are maintained in accordance with [Records Schedule 095](https://web.archive.org/records/policy/schedule/sched/0095.htm).
 
 Top of Page
 
@@ -80,7 +80,7 @@ Top of Page
 
 
 
-EPA pages have "session cookies," to facilitate use of a particular page and to identify the number and type of pages viewed during visits to [www.epa.gov](http://www.epa.gov/). Session cookies disappear when the Web user terminates a Web session and closes the browser. EPA also permits the use of persistent cookies for the collection of Web metrics; however, EPA does not collect any personally identifiable information about visitors to our Web pages (see "EPA and Privacy" above).
+EPA pages have "session cookies," to facilitate use of a particular page and to identify the number and type of pages viewed during visits to [www.epa.gov](https://web.archive.org/). Session cookies disappear when the Web user terminates a Web session and closes the browser. EPA also permits the use of persistent cookies for the collection of Web metrics; however, EPA does not collect any personally identifiable information about visitors to our Web pages (see "EPA and Privacy" above).
 
 If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. Most Internet browsers have settings that let you identify and/or reject cookies.
 
