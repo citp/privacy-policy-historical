@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the science.gov privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141240id_/http%3A//www.science.gov/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the science.gov privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013627id_/http%3A//www.science.gov/disclaimer.html) for the most accurate reproduction.*
 
 # Science.gov: Privacy and Security
 
@@ -108,7 +108,7 @@ For more information about Section 508, please visit the [DOE Section 508 websit
 
   * #### Persons with Disabilities
 
-This Website complies with [ Section 508 of the Rehabilitation Act](https://www.section508.gov/content/learn/laws-and-policies), which requires that individuals with disabilities who are members of the public or are Federal employees have access to and use of information and data comparable to that provided to the public at large, unless it is determined that such access would impose undue burden or compromise functionality of the Website. 
+This Website complies with Section 508 of the Rehabilitation Act, which requires that individuals with disabilities who are members of the public or are Federal employees have access to and use of information and data comparable to that provided to the public at large, unless it is determined that such access would impose undue burden or compromise functionality of the Website. 
 
   * #### PDF or Other Image Based Documents
 
