@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aeroprecisionusa.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141548id_/http%3A//aeroprecisionusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeroprecisionusa.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607083557id_/http%3A//www.aeroprecisionusa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Aero Precision
 
 This privacy policy sets out how Aero Precision uses and protects any information that you give Aero Precision when you use this website. Aero Precision is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Aero Precision may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
@@ -8,10 +8,10 @@ This privacy policy sets out how Aero Precision uses and protects any informatio
 
 We may collect the following information:
 
-  * name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+  * Name
+  * Contact information including email address
+  * Demographic information such as postcode, preferences and interests
+  * Other information relevant to customer surveys and/or offers
 
 
 
@@ -48,8 +48,8 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@aeroprecisionusa.com 
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@aeroprecisionusa.com 
 
 
 
@@ -92,3 +92,9 @@ WISHLIST | An encrypted list of products added to your Wishlist.
 WISHLIST_CNT | The number of items in your Wishlist.  
   
 
+
+#### Unsubscribing From Marketing Emails
+
+In subscribing to our newsletter you agree that Aero Precision, located at 2338 S Holgate St, Tacoma, WA 98402-1404 may use the data you entered to inform you by e-mail about the contents and/or products selected by you.
+
+You may revoke your consent at any time with effect for the future, either by written notice or by email to [csr@aeroprecisionusa.com](mailto:csr@aeroprecisionusa.com). You may also unsubscribe from any newsletter via the link provided at the end of each newsletter. We transfer your data to our service providers only for data administration and hosting purposes.
