@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenextdigit.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223114748id_/http%3A//thenextdigit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenextdigit.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607233009id_/http%3A//thenextdigit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TND
 
