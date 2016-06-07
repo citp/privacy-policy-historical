@@ -1,27 +1,24 @@
-> *The following text is extracted and transformed from the klipsch.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115071740id_/http%3A//www.klipsch.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klipsch.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607112852id_/http%3A//www.klipsch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Klipsch
+# Privacy Policy | Klipsch®
 
-This is a privacy policy for Klipsch Audio Technologies. Our homepage on the Web is located at [http://www.klipsch.com](https://web.archive.org/). The full text of our privacy policy is available below.
+This is a privacy policy for Klipsch Audio Technologies. Our homepage on the Web is located at [http://www.klipsch.com](http://www.klipsch.com/). The full text of our privacy policy is available below.
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
+We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
-**Klipsch Audio Technologies  
+ **Klipsch Audio Technologies  
 3502 Woodview Trace  
 Suite 200  
-Indianapolis, IN 46268   
-United States of America  
-**
+Indianapolis, IN 46268   
+United States of America**
 
-You may contact us by e-mail at [support@klipsch.com](mailto:support@klipsch.com). You may call us at 1-800-KLIPSCH. 
+You may contact us by e-mail at [support@klipsch.com](mailto:support@klipsch.com). You may call us at 1-800-KLIPSCH. 
 
-**Dispute Resolution and Privacy Seals**
+ **Dispute Resolution and Privacy Seals**
 
 We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern.
 
-  * **Disputes** : Contact customer support to resolve any disputes you may have. 
-
-
+ **Disputes:** Contact customer support to resolve any disputes you may have.
 
 ## Additional Information
 
@@ -29,29 +26,26 @@ This policy is valid for 1 day from the time that it is loaded by a client.
 
 ## Data Collection
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 3 data groups. The data practices of each group will be explained separately. 
+P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 3 data groups. The data practices of each group will be explained separately. 
 
-**Group "Basic information"**
+ **Group "Basic information"**
 
 We collect the following information:
 
 Search terms
 
+At the user's option, we may also collect the following data:
 
-
-  * At the user's option, we may also collect the following data:
-
-
-  * Click-stream data 
-  * HTTP protocol elements 
+  * Click-stream data
+  * HTTP protocol elements
 
 
 
 This data will be used for the following purposes:
 
-  * Completion and support of the current activity. 
-  * Web site and system administration. 
-  * Research and development. 
+  * Completion and support of the current activity.
+  * Web site and system administration.
+  * Research and development.
 
 
 
@@ -61,18 +55,18 @@ The following explanation is provided for why this data is collected:
 
 Data collected from all Web users: access logs, and search strings (if entered).
 
-**Group "Cookies"**
+ **Group "Cookies"**
 
 At the user's option, we will collect the following data:
 
-  * HTTP cookies 
+  * HTTP cookies
 
 
 
 This data will be used for the following purposes:
 
-  * Research and development. 
-  * One-time tailoring. 
+  * Research and development.
+  * One-time tailoring.
 
 
 
@@ -82,31 +76,30 @@ The following explanation is provided for why this data is collected:
 
 Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
 
-  
-**Group "User information"**
+ **Group "User information"**
 
 We collect the following information:
 
-  * Physical contact information 
+  * Physical contact information
 
 
 
 At the user's option, we may also collect the following data:
 
-  * Unique identifiers 
-  * Online contact information 
-  * Purchase information 
-  * Demographic data 
+  * Unique identifiers
+  * Online contact information
+  * Purchase information
+  * Demographic data
 
 
 
 This data will be used for the following purposes:
 
-  * Completion and support of the current activity. 
-  * Web site and system administration. 
-  * Research and development. 
-  * One-time tailoring. 
-  * Contacting visitors for marketing of services or products. The user must **opt-in** to this usage. 
+  * Completion and support of the current activity.
+  * Web site and system administration.
+  * Research and development.
+  * One-time tailoring.
+  * Contacting visitors for marketing of services or products. The user must opt-in to this usage.
 
 
 
@@ -120,7 +113,7 @@ Cookies are a technology which can be used to provide you with tailored informat
 
 Our site makes use of cookies. Cookies are used for the following purposes:
 
-  * User targeting 
-  * Research and development 
+  * User targeting
+  * Research and development
 
 
