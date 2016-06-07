@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tests.com privacy policy that was archived on 2015-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208093934id_/http%3A//www.tests.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tests.com privacy policy that was archived on 2016-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607234721id_/http%3A//www.tests.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -36,6 +36,7 @@ function addBookmark(title, url) {
 <!--[if IE]>
 <link href="/css/ie-template2015.css" rel="stylesheet" type="text/css" />
 <![endif]-->
+
 </head>
 <body>
 <input type="hidden" value="BlueTemplate">
@@ -206,7 +207,7 @@ $(document).ready(function(){
 <a href="http://www.Tests.com/about">About Us</a>&nbsp;| <a href="http://www.Tests.com/contact-us">Contact</a> | <a href="http://www.tests.com/Terms-Of-Sale">Terms of Sale / Refunds</a>&nbsp;	
 		</div>
 		<div class="copyright-holder">
-Copyright © 2009-2015 Tests.com LLC - All Rights Reserved&nbsp;&nbsp;&nbsp; <a href="http://tests.com/terms">Terms of Use</a>&nbsp;/ <a href="http://tests.com/privacy">Privacy</a>		</div>
+Copyright © 2009-2016 Tests.com LLC - All Rights Reserved&nbsp;&nbsp;&nbsp; <a href="http://tests.com/terms">Terms of Use</a>&nbsp;/ <a href="http://tests.com/privacy">Privacy</a>		</div>
 	</div>
 </div>
 </form>
@@ -286,9 +287,15 @@ function SwitchDiv(ans, correct, idx, cnt)
 		}
 }
 </script>
-
-<script type="text/javascript" src="http://www.tests.com/js/tooltip.js"></script>
-<script type="text/javascript" src="http://www.tests.com/js/collapse.js"></script>
-<script type="text/javascript" src="http://www.tests.com/js/transition.js"></script>
+<script src="/js/jquery.autotab.js"></script>
+<script>
+$(document).ready(function() {
+	$.autotab({ tabOnSelect: true });
+	$('.number').autotab('filter', 'number');           
+});
+</script>
+<script type="text/javascript" src="/js/tooltip.js"></script>
+<script type="text/javascript" src="/js/collapse.js"></script>
+<script type="text/javascript" src="/js/transition.js"></script>
 
 </body></html>
