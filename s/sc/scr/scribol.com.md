@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the scribol.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203183739id_/http%3A//scribol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribol.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607133848id_/http%3A//scribol.com/privacy-policy) for the most accurate reproduction.*
 
-# Scribol.com: Privacy Policy
+# Privacy policy - Scribol.com
 
-Our website uses cookies. By continuing we assume your permission to use cookies as detailed in our [privacy policy](http://www.scribol.com/privacy-policy).
-
-We are committed to safeguarding the privacy of visitors to the Scribol website (the “Site”); this policy sets out how we will treat your personal information.
+We are committed to safeguarding the privacy of visitors to the Scribol website (the “Site”); this policy sets out how we will treat your personal information.
 
 If you are younger than 18, please ensure that your parent or guardian has read this privacy policy and is happy for you to accept it. Your registration for the Site is conditional on your parent or guardian’s consent to this privacy policy.
 
@@ -18,19 +16,19 @@ We may collect, store and use the following kinds of personal information:
 
 (c) information that you provide to us for the purpose of subscribing to the Site services and email notifications;
 
-(d) information contained in any email messages sent using our message service; 
+(d) information contained in any email messages sent using our message service;
 
-(e) any other information that you choose to send to us. 
+(e) any other information that you choose to send to us.
 
 **2\. Cookies**
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
+A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-We may use both “session” cookies and “persistent” cookies on the Site for the purpose of creating better recommendations. We will use the session cookies to keep track of you whilst you navigate the Site. We will use the persistent cookies to enable the Site to recognise you when you visit. 
+We may use both “session” cookies and “persistent” cookies on the Site for the purpose of creating better recommendations. We will use the session cookies to keep track of you whilst you navigate the Site. We will use the persistent cookies to enable the Site to recognise you when you visit.
 
 Session cookies will be deleted from your computer when you close your browser. Persistent cookies may remain stored on your computer until deleted, or until they reach a specified expiry date. We use these persistent cookies to better serve you with the kinds of content that we feel may be of interest to you.
 
-We use Google Analytics to analyse the use of the Site. Google Analytics generates statistical and other information about the Site use by means of cookies, which are stored on users' computers. The information generated relating to the Site is used to create reports about the use of the Site. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>. 
+We use Google Analytics to analyse the use of the Site. Google Analytics generates statistical and other information about the Site use by means of cookies, which are stored on users’ computers. The information generated relating to the Site is used to create reports about the use of the Site. Google will store this information. Google’s privacy policy is available at: <http://www.google.com/privacypolicy.html>.
 
 We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
@@ -64,7 +62,7 @@ We will not without your express consent provide your personal information to an
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
-In addition, we may disclose your personal information: 
+In addition, we may disclose your personal information:
 
 (a) to the extent that we are required to do so by law;
 
@@ -80,7 +78,7 @@ Except as provided in this privacy policy, we will not provide your information 
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
-Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area. 
+Information which you provide may be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area.
 
 In addition, personal information that you submit for publication on the Site will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
 
@@ -88,7 +86,7 @@ You expressly agree to such transfers of personal information.
 
 **6\. Security of your personal information**
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
 We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted.
 
@@ -98,9 +96,9 @@ You are responsible for keeping your password and user details confidential. We 
 
 **7\. Policy amendments**
 
-We may update this privacy policy from time-to-time by posting a new version on the Site. You should check this page occasionally to ensure you are happy with any changes. 
+We may update this privacy policy from time-to-time by posting a new version on the Site. You should check this page occasionally to ensure you are happy with any changes.
 
-We may also notify you of changes to our privacy policy by email. 
+We may also notify you of changes to our privacy policy by email.
 
 **8\. Your rights**
 
@@ -124,4 +122,6 @@ Please let us know if the personal information which we hold about you needs to 
 
 **11\. Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to info AT scribol DOT com or by post to 72-75 Red Lion Street, London, WC1R 4NA.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [contact@scribol.com](mailto:contact@scribol.com) or by post to 72-75 Red Lion Street, London, WC1R 4NA. 
+
+Pages: 1 [2](http://scribol.com/privacy-policy/2/) [3](http://scribol.com/privacy-policy/3/)
