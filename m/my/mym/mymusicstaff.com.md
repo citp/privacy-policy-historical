@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mymusicstaff.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208171401id_/http%3A//www.mymusicstaff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymusicstaff.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161954id_/http%3A//www.mymusicstaff.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - My Music Staff » My Music Staff
+# Privacy Policy - » My Music Staff
 
 This Privacy Policy outlines the types of personal information we gather when you use MyMusicStaff.com as well as some of the steps we take to safeguard it.
 
