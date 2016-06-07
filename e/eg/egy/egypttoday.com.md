@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the egypttoday.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207210322id_/http%3A//egypttoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egypttoday.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607205940id_/http%3A//egypttoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Egypt Today
+# Privacy Policy/ToS | Egypt Today
 
 ****  
 Egypt Today knows that you care how information about you is used` and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy (this “Policy”) explains Egypt   Today treatment of information that we collect when you are on our website located at Egypt Today.com (the “Site”) and when you use our products and services (collectively, the ” Service”). By using the Service, you are accepting the practices described here. This Policy does not apply to the practices of other divisions of Egypt Today (“Egypt Today”) or to the practices of any person or entity other than Egypt Today, including operators of websites you may visit before or after visiting the Site and the owners or publishers of the Publications you purchase, download or otherwise access through the Service.
@@ -146,3 +146,110 @@ From time to time, Egypt Today may revise this Policy. The update date first wri
 
 If you have any questions or concerns regarding this Policy or our use of your information, please email support@mediwave.me or use the following address:  
 Egypt Today 7 B, Road 199, Maadi, Cairo-Egypt
+
+TERMS OF SERVICE
+
+**Egypt Today Legal Notices**
+
+Please review ET Terms of Service, and Refund Policy below.
+
+· Terms of Service
+
+· Refund Policy
+
+**Terms of Service**  
+Welcome to Egypt Today! Access to, and use of Egypt Today website located at egypttoday.com (the “Site”) and other Egypt Today Internet services (together with access to and use of the Site, the “Service” are subject to the following Terms of Service (these “Terms”). Please read these Terms carefully. Creating an account with Egypt Today or otherwise accessing or using the Service will signify that you have read, understand, and agree to be bound by these Terms and to comply with all applicable laws and regulations. These Terms constitute a binding agreement between you and Egypt Today (“ET” or “we” or “our”). If you do not agree to these Terms, you may not use the Service.
+
+THESE TERMS CONTAIN WARRANTY DISCLAIMERS AND OTHER PROVISIONS THAT LIMIT THE LIABILITY OF Egypt Today. PLEASE READ THESE TERMS IN THEIR ENTIRETY. ****
+
+**1\. Description of Service**
+
+The Service is operated by Egypt Today, and includes the Site through which you order, subscribe to and receive various digital magazines and other publications, content and products (collectively, the “Publications”). Use of the PDF Reader software is also subject to the [Adobe Acrobat License Agreement.](http://gb.zinio.com/legal/reader-license.jsp)
+
+**2.Your Account**
+
+Certain portions of the Service are available only to individuals who have registered with and obtained a password from Egypt Today. By registering with Egypt Today, you certify that you are at least 18 years of age. You may not provide or use a password, email address, or any other information of anyone else in connection with the Services. You agree to provide true, accurate, current and complete information about yourself when you register with or order Publications from Egypt Today, and to maintain and promptly update that information to keep it true, accurate, current and complete. You are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account, including the selection and use of all content and services.
+
+**3\. User Conduct**
+
+You may only use the Service for lawful purposes and in accordance with these Terms, any operating rules established by Egypt Today from time to time and the [Adobe Acrobat Reader License Agreement](http://gb.zinio.com/legal/reader-license.jsp). Egypt Today reserves the right to refuse service, terminate accounts, or cancel orders at any time in its sole discretion, including, without limitation, based on any activity by a subscriber in violation of these Terms or applicable laws and regulations.
+
+**4.International Users**
+
+The Service is controlled, operated and administered by ePRESS from its offices and servers located within the United States of America. If you access the Service from a location outside the United States, you are responsible for compliance with all applicable local laws and regulations. You agree that you will not use the Service or any Publications accessed through the Service in any country or in any manner prohibited by the United States Export Administration Act or any other applicable laws or regulations.
+
+**5\. Intellectual Property**
+
+All content included as part of the Service, such as text, graphics, logos, button icons, images, as well as compilations thereof, and all software used on the Site, is the property of Egypt Today or its suppliers or licensors, and is protected by Egypt and law, and applicable international laws and treaties, including without limitation copyright and other laws and treaties that protect intellectual property and proprietary rights. You agree to observe and abide by all such applicable laws and treaties, and to not alter, obscure or remove any copyright and other proprietary notices, legends (whether outlining restrictions on use or otherwise) contained in any such content.
+
+Each third-party content provider owns the copyright in and to all content original to it, including without limitation on the Publications delivered or otherwise made available to you through the Service. Except as permitted by the Publication’s lawful owner, you acknowledge that you do not acquire any ownership rights in a Publication by downloading a Publication accessed through the Service.
+
+Except as explicitly required under applicable copyright laws and treaties or permitted by the features of the Service and Egypt Today Reader software, you may not modify, reverse engineer, publish, transmit, display, participate in the transfer or sale, create derivative works of, or in any way commercially exploit or provide to a third party access to the content of the Site, the Publications, or any portion of them without the express permission of Egypt Today and the owner of such content.
+
+We do not grant you any licenses, express or implied, to the intellectual property of Egypt Today or our licensors except as expressly authorized by these Terms or the [Adobe Acrobat Reader License Agreement.](http://gb.zinio.com/legal/reader-license.jsp)
+
+**6\. Third-Party Content**
+
+Egypt Today is a distributor (not a publisher) of the Publications. Accordingly, we have no editorial control over the Publications. Any opinions, advice, statements, services, offers or other information or content expressed or made available by third parties, including those made in Publications offered by the Service, are those of the respective author(s) or publisher(s) and not of Egypt Today. Egypt Today does not guarantee the accuracy, completeness or usefulness of all or any portion of any Publication or any services or offers made by third parties, nor will we be liable for any loss or damage caused by your reliance on information contained in any Publication, or your use of services offered, or your acceptance of any offers made through the Service or the Publications.
+
+The Service may contain links to other Internet sites and third-party resources. Egypt Today does not assume any responsibility or liability for communications or materials available through such linked sites. These links are provided for your convenience only. You are solely responsible for understanding any terms and conditions that may apply when you visit or place an order for products or services through, or otherwise use a third-party site.
+
+**7.Modifications to Service**
+
+We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. You agree that Egypt Today shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Service.
+
+**8.Disclaimer of Warranties**
+
+THE SERVICE AND ALL PUBLICATIONS ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. Egypt Today, ITS AFFILIATES, SUPPLIERS, LICENSORS AND AGENTS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. WITHOUT LIMITING THE FOREGOING, NEITHER Egypt Today NOR ITS AFFILIATES, SUPPLIERS, LICENSORS OR AGENTS, MAKES ANY WARRANTY THAT (A) THE SERVICE WILL MEET YOUR REQUIREMENTS, (B) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (C) THE INFORMATION THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE OR THAT MAY BE CONTAINTED IN THE PUBLICATIONS WILL BE ACCURATE OR RELIABLE, OR (D) THE QUALITY OF ANY PUBLICATIONS OR THE SERVICE WILL MEET YOUR EXPECTATIONS.
+
+YOU ARE SOLELY RESPONSIBILE FOR OBTAINING AND MAINTAINING RELIABLE INTERNET CONNECTIVITY. Egypt Today IS NOT RESPONSIBLE FOR YOUR INABILITY TO DOWNLOAD OR OTHERWISE ACCESS CONTENT.
+
+ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DONE AT YOUR OWN DISCRETION AND RISK AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OR USE OF ANY SUCH MATERIAL.
+
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM Egypt Today OR THROUGH OR FROM THE SERVICE SHALL CREATE ANY WARRANTY.
+
+**9.Limitation of Liability**
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NEITHER Egypt Today NOR ITS AFFILIATES, SUPPLIERS LICENSORS, OR AGENTS BE LIABLE UNDER ANY THEORY OF LAW, FOR ANY INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AGGREGATE LIABILITY OF Egypt Today FOR CLAIMS ARISING FROM YOUR USE OF THE SERVICE OR PUBLICATIONS OR OTHERWISE SHALL BE LIMITED TO THE FEES PAID BY YOU TO Egypt Today FOR THE PORTION OF THE SERVICE OR PUBLICATION GIVING RISE TO THE CLAIM.
+
+**10\. Indemnification**
+
+You agree to defend, indemnify and hold harmless Egypt Today, its licensors, suppliers and any third-party content providers and their respective directors, officers, employees and agents from and against all claims, losses, expenses, damages and costs, including attorney’s fees, arising out of or resulting from (a) your use of the Service or the Publications, (b) your violation of these Terms, or (c) any activity related to your account (including negligent or wrongful conduct) by you or any other person accessing the Service or the Publications using your account.
+
+**11\. Monitoring**
+
+Egypt Today retains the right, but not the obligation, to monitor the Service to determine compliance with these Terms and any operating rules established by Egypt Today, and to satisfy any law, regulation or authorized government request. Without limiting the foregoing, we retain the right to remove any content that we, in our sole discretion, find to be in violation of the provisions hereof or otherwise objectionable or in breach of Egypt Today’s or its licensors’ obligations.
+
+**12\. Termination**
+
+Either Egypt Today or you may terminate these Terms at any time. Without limiting the foregoing, Egypt Today may, in its sole discretion and without liability, terminate your password, or use of the Service for any reason, including, without limitation, if Egypt Today believes that you have violated or acted inconsistently with the letter or spirit of these Terms. Any termination of your access to the Service under any provision of these Terms may be effected without prior notice, and Egypt Today may immediately deactivate or delete your account and all related information and/or bar any further access to the Service. Sections 2, 4, 5, 6 and 8 through17 shall survive termination of these Terms.
+
+**13\. Continuous Service Program**
+
+All subscription orders will include “Continuous Service” which enables you to receive uninterrupted delivery of Publications until you cancel your subscriptions. You may cancel subscriptions at any time and receive a refund for any unserved issues (see Refund Policy below). With Continuous Service, after all issues of a Publication in your initial subscription period have been served, you will be billed automatically, at the end of your initial subscription period, for the next subscription period in accordance with the then-current offer terms applicable to that Publication as they appear on our Service.
+
+**14\. Pricing and Tax**
+
+All pricing featured on the Site is inclusive of VAT, GST and sales tax. Purchase transactions will include VAT, GST or sales tax based on your billing address and the tax rates in effect at the time your transaction is completed. Egypt Today will only charge tax in countries where digital goods are taxable. No customers are eligible for the tax exemptions for transactions made on the Service. All pricing and tax on the Egypt Today iPad and iPhone apps will follow Apple’s iTunes Terms and Conditions.
+
+**15\. Miscellaneous**
+
+These Terms, the [Adobe Acrobat Reader License Agreement](http://gb.zinio.com/legal/reader-license.jsp) and the other rules, guidelines, licenses and disclaimers posted on the Site constitute the entire agreement between Egypt Today and you with respect to your use of the Service and supersede all previous written or oral agreements between us with respect to the subject matter hereof. These Terms shall be governed by the statutes and laws of the Arab Republic of Egypt (A.R.E). No waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default.
+
+**16\. Notification of Changes**
+
+From time to time, Egypt Today may revise these Terms to keep them up to date with Egypt Today’s products and services. Please refer to the Site periodically for any changes. The update date first written above is used to alert you to recent modifications. Your access or use of the Service subsequent to such an update will signify your assent to be bound by such changes
+
+**17\. Our Address**
+
+MediaWave
+
+7B, Road 199, Maadi, Cairo-Egypt
+
+**Refund Policy**
+
+1\. Refund policy for credit card purchases on egypttoday.com
+
+Egypt Today will provide a refund for all unserved issues of Publications to the original credit card used for purchase. Single copy purchases will only be refunded in the event that you are unable to download the issue. Please go to Egypt Today’s help page to request a refund.
+
+_Last updated October, 2015_
