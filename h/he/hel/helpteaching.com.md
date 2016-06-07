@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpteaching.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207130746id_/http%3A//www.helpteaching.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpteaching.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608010129id_/http%3A//www.helpteaching.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HelpTeaching.com
 
@@ -22,7 +22,7 @@ Help Teaching Pro requires a paid subscription. Help Teaching may contact subscr
 
 ## The Organization Collecting the Information
 
-The data that you provide for Help Teaching is collected from the [www.helpteaching.com](https://web.archive.org/) Web site by Tribrio, Inc. 
+The data that you provide for Help Teaching is collected from the [www.helpteaching.com](https://web.archive.org/) Web site by SureSwift Worldwide. 
 
 ## With Whom May the Information Be Shared
 
