@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeportal.in privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207135826id_/http%3A//bikeportal.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeportal.in privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607080802id_/http%3A//bikeportal.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BikePortal
 
@@ -14,7 +14,7 @@ We want you to:
   * feel secure submitting information to us;
   * contact us with your questions or concerns about privacy on the Site;
   * know that by using our Site you are consenting to the collection of certain data
-  * 
+
 
 
 ## What information is, or may be, collected from you?
@@ -46,12 +46,12 @@ We may also collect the following information:
   * about the pages you visit/access;
   * the links you click on our site;
   * the number of times you access the page You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
-  *   *   * 
+
 
 
 You must submit to us or our agent or affiliates or the Site information which is accurate and not misleading.
 
-Who collects the information?
+## Who collects the information?
 
 We will collect anonymous traffic information from you when you visit our site.
 
@@ -133,7 +133,7 @@ We do not share or rent your email addresses with third parties except our agent
 
 We may be required to share the aforesaid information with government authorities and agencies for the purposes of verification of identity or for prevention, detection, investigation including cyber incidents, prosecution and punishment of offences. You agree and consent for bikeportal.in to disclose your information, if so required under the applicable law.
 
-Agents
+## Agents
 
 We use the services of our enabling partners such as third party resellers, business associates to fulfill orders, and CREDIT CARD processing companies to process the payment for goods and services ordered from the Site. These entities do not retain, store, share or use personally identifiable information for any other purposes other than mentioned in this Policy
 
@@ -162,21 +162,21 @@ If you have any questions about security on our Web site, you can send email us 
 
 ## Bikeportal cancellation and refund policy
 
-A. Cancellation Procedure:
+#### A. Cancellation Procedure:
 
-  * (i) Customer to send e-mail to Bikeportal, specifying the Transaction Id which is to be cancelled, along with the reason of cancellation and other booking details as follows: 
+  * **(i)** Customer to send e-mail to Bikeportal, specifying the Transaction Id which is to be cancelled, along with the reason of cancellation and other booking details as follows: 
     * Date of booking;
     * Vehicle code;
     * Cost of vehicle and etc.
-  * (ii) Bikeportal customer care executive will confirm the cancellation within 24 hours of receipt of your cancellation email. Upon receipt of confirmation of the cancellation of order, the same will be communicated to the vehicle manufacturer/dealer and the order will be cancelled.
-  * (iii) Cancellation of order will be accepted by Bikeportal if the online booking is cancelled by the customer within 5 days from the date of booking. Any cancellation request beyond such timeline will not be entertained and neither Bikeportal nor any of its employees, agents, directors, vendors, channel distributors, partner merchants will be held liable whether financially or otherwise in any manner whatsoever to the customer.
+  * **(ii)** Bikeportal customer care executive will confirm the cancellation within 24 hours of receipt of your cancellation email. Upon receipt of confirmation of the cancellation of order, the same will be communicated to the vehicle manufacturer/dealer and the order will be cancelled.
+  * **(iii)** Cancellation of order will be accepted by Bikeportal if the online booking is cancelled by the customer within 5 days from the date of booking. Any cancellation request beyond such timeline will not be entertained and neither Bikeportal nor any of its employees, agents, directors, vendors, channel distributors, partner merchants will be held liable whether financially or otherwise in any manner whatsoever to the customer.
 
 
 
-B. Refund of Amount:
+#### B. Refund of Amount:
 
-  * (i) Once the order is cancelled by the customer, the refund amount will be returned to the customer after deducting a processing fee of 2.5% to 3.5 % of the total booking amount. This processing fee may differ depending upon payment gateway terms of usage.
-  * (ii) Bikeportal will take 15-30 days to process the refund amount and return the amount to the customer’s account.
+  * **(i)** Once the order is cancelled by the customer, the refund amount will be returned to the customer after deducting a processing fee of 2.5% to 3.5 % of the total booking amount. This processing fee may differ depending upon payment gateway terms of usage.
+  * **(ii)** Bikeportal will take 15-30 days to process the refund amount and return the amount to the customer’s account.
 
 
 
@@ -236,7 +236,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If we decide to make changes in our email practices, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we decide to change our email practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-Creative WebMedia Pvt. Ltd  
+**Creative WebMedia Pvt. Ltd**  
 Plot no 64,  
 Ground Floor,  
 Sector 44,  
