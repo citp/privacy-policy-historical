@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104204724id_/http%3A//www.steelcase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607022310id_/http%3A//www.steelcase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Steelcase
 
@@ -8,7 +8,7 @@ _Last revised and updated:  March 4, 2015_
 
 Steelcase Inc., a Michigan corporation, with a registered mailing address at 901 44th Street SE, Grand Rapids, Michigan 49508 USA ( **“** Company **“** , **“** we **”** or “us”), respect your privacy and we are committed to protecting it through our compliance with this policy. 
 
-This policy describes the types of information we may collect from you or that you may provide when you visit[ www.steelcase.com](http://www.steelcase.com/) (our “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit[ www.steelcase.com](https://www.steelcase.com/) (our “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies solely to information we collect on this Website and in e-mail, text and other electronic messages between you and this Website. It does not apply to information collected by us offline or through any other means, including on any other website operated by us or any third party (including our affiliates) that may link to or be accessible from or on this Website.
 
@@ -57,20 +57,20 @@ We may disclose aggregated information about our users, and information that doe
 
 We may disclose for the purposes described above, personal information that we collect or you provide as set out in this privacy policy: (a) to our subsidiaries and affiliates; (b) to contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them; and (c) to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by the Company about our Website users is among the assets transferred.
 
-We may also disclose your personal information: (a) to comply with any court order, law or legal process, including to respond to any government or regulatory request; and (b) to enforce or apply our [Terms](http://www.steelcase.com/terms-of-use/) of Use [www.steelcase.com/terms-of-use/] and other agreements; 
+We may also disclose your personal information: (a) to comply with any court order, law or legal process, including to respond to any government or regulatory request; and (b) to enforce or apply our [Terms](https://www.steelcase.com/terms-of-use/) of Use [www.steelcase.com/terms-of-use/] and other agreements; 
 
 #### Choices About How We Use and Disclose Your Information
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
   * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this Website may then be inaccessible or not function properly.
-  * **Promotional Offers from the Company.** If you do not wish to have your contact information used by the Company to promote our products or services, you can opt-out by  logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request using the [“Contact Us” form](http://www.steelcase.com/contact-us/) [www.steelcase.com/contact-us/]. If we have sent you a promotional e-mail, you may click on the opt-out option included in the email and thus send us a return e-mail asking to be omitted from future e-mail distributions. This opt-out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
+  * **Promotional Offers from the Company.** If you do not wish to have your contact information used by the Company to promote our products or services, you can opt-out by  logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request using the [“Contact Us” form](https://www.steelcase.com/contact-us/) [www.steelcase.com/contact-us/]. If we have sent you a promotional e-mail, you may click on the opt-out option included in the email and thus send us a return e-mail asking to be omitted from future e-mail distributions. This opt-out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
 
 
 
 #### Accessing and Correcting Your Information
 
-You can review and change your personal information by logging into the Website and visiting your account profile page. You may also send us an e-mail using the [“Contact Us” form](http://www.steelcase.com/contact-us/) [www.steelcase.com/contact-us/] to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You can review and change your personal information by logging into the Website and visiting your account profile page. You may also send us an e-mail using the [“Contact Us” form](https://www.steelcase.com/contact-us/) [www.steelcase.com/contact-us/] to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 #### Data Security
 
@@ -86,7 +86,7 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 #### Contact Information
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: our [“Contact Us” form](http://www.steelcase.com/contact-us/) [www.steelcase.com/contact-us/], or via our toll-free number: 800.333.9939.
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: our [“Contact Us” form](https://www.steelcase.com/contact-us/) [www.steelcase.com/contact-us/], or via our toll-free number: 800.333.9939.
 
 #### **  
 ** Safe Harbor Participation
