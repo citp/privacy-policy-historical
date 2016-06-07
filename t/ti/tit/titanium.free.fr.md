@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanium.free.fr privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207021423id_/http%3A//www.titanium.free.fr/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanium.free.fr privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608004111id_/http%3A//www.titanium.free.fr/privacy.html) for the most accurate reproduction.*
 
 # Titanium Software - Home
 
@@ -46,10 +46,13 @@ Titanium Software has appropriate security measures in place to protect against 
 
 **COPYRIGHT NOTICE**
 
-This website, including all images and text, are Copyright © 2015 by Titanium Software. Reproduction, with or without alteration, is prohibited without prior written permission.
+This website, including all images and text, are Copyright © 2016 by Titanium Software. Reproduction, with or without alteration, is prohibited without prior written permission.
 
 **CONTROLLER/WEBMASTER CONTACT INFORMATION**
 
 The Controller and Webmaster, Joël Barrière, can be reached via email at [joel.barriere@free.fr]()
 
-Policy Last Updated: _March 28, 2015_
+Policy Last Updated: _March 28, 2016_
+
+  
+
