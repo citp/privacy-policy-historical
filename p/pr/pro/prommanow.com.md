@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prommanow.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208205332id_/http%3A//prommanow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prommanow.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607234130id_/http%3A//prommanow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pro MMA Now
 
@@ -17,6 +17,10 @@ We only collect personal information that is relevant to the purpose of our webs
 2\. Automatic Information:
 
 We receive and store certain types of information whenever you interact with us. Pro MMA Now and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Pro MMA Now cookie information, and the page you requested. Pro MMA Now uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website. Pro MMA Now may collect and, on any page, display the total counts that page has been viewed.
+
+Also:
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/choices/).
 
 Many companies offer programs that help you to visit websites anonymously. While Pro MMA Now will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
@@ -59,4 +63,4 @@ If you decide to visit Pro MMA Now website, your visit and any possible dispute 
 
 Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of 6-7-13 and last updated 6-7-13.
+This Privacy Policy is effective as of 6-7-13 and last updated 1-1-16.
