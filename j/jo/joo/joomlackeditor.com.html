@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the joomlackeditor.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207140825id_/http%3A//arkextensions.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joomlackeditor.com privacy policy that was archived on 2016-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607135614id_/http%3A//arkextensions.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-gb" dir="ltr" data-config="{&quot;twitter&quot;:0,&quot;plusone&quot;:0,&quot;facebook&quot;:0,&quot;style&quot;:&quot;default&quot;,&quot;sticky-navbar&quot;:1}"><head>
 <meta charset="utf-8">
@@ -13,17 +13,14 @@
   <title>Privacy Policy | Ark Extensions</title>
   <link href="http://arkextensions.com/component/search/?Itemid=283&amp;format=opensearch" rel="search" title="Search Ark Extensions" type="application/opensearchdescription+xml">
   <link href="/templates/yoo_lava/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-  <link rel="stylesheet" href="/index.php?option=com_ajax&amp;plugin=arkbootstrap&amp;format=json" type="text/css">
   <link rel="stylesheet" href="/index.php?option=com_ajax&amp;plugin=arktypography&amp;format=json" type="text/css">
+  <link rel="stylesheet" href="/index.php?option=com_ajax&amp;plugin=arkbootstrap&amp;format=json" type="text/css">
   <link rel="stylesheet" href="/plugins/arkeditor/codesnippet/codesnippet/lib/highlight/styles/github.css" type="text/css">
   <link rel="stylesheet" href="http://arkextensions.com/plugins/arkeditor/fontawesome/fontawesome/fontawesome/css/font-awesome.min.css" type="text/css">
   <link rel="stylesheet" href="/cache/widgetkit/widgetkit-5ded5cd6.css" type="text/css">
   <link rel="stylesheet" href="http://arkextensions.com/plugins/content/fastsocialshare/style/style.css" type="text/css">
-  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
+  <link rel="stylesheet" href="http://arkextensions.com/media/editors/arkeditor/css/squeezebox.css" type="text/css">
   <style type="text/css">
-
-				@font-face {font-family:"IcoMoon";font-style:normal;font-weight:normal;src:url("media/jui/fonts/IcoMoon.eot?#iefix") format("embedded-opentype"), url("media/jui/fonts/IcoMoon.woff") format("woff"), url("media/jui/fonts/IcoMoon.ttf") format("truetype"), url("media/jui/fonts/IcoMoon.svg#IcoMoon") format("svg");}
-			
 </style>
   <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/plugins/arkeditor/codesnippet/codesnippet/lib/highlight/highlight.pack.js" type="text/javascript"></script>
   <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
@@ -31,26 +28,51 @@
   <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
   <script src="/cache/widgetkit/widgetkit-9060907b.js" type="text/javascript"></script>
   <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
-  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
-  <script src="/media/system/js/core.js" type="text/javascript"></script>
-  <script src="http://arkextensions.com/media/editors/arkeditor/js/mootools-more-light.js" type="text/javascript"></script>
-  <script src="/media/system/js/modal.js" type="text/javascript"></script>
-  <script src="http://arkextensions.com/media/editors/arkeditor/js/modal.image2.js" type="text/javascript"></script>
+  <script src="http://arkextensions.com/media/editors/arkeditor/js/jquery.easing.min.js" type="text/javascript"></script>
+  <script src="http://arkextensions.com/media/editors/arkeditor/js/squeezebox.min.js" type="text/javascript"></script>
   <script type="text/javascript">
 hljs.initHighlightingOnLoad();
-jQuery(function($)
+(function()
 				{
-					SqueezeBox.assign( $( 'a.modal' ).get(), { parse: 'rel' });
+					if(typeof jQuery == 'undefined')
+						return;
 					
-					$( 'img.modal' ).each( function( i, el )
+					jQuery(function($)
 					{
-						SqueezeBox.assign( el, 
+						if($.fn.squeezeBox)
 						{
-							handler: 'image2',
-							url: $( el ).attr( 'src' )
-						});
+							$( 'a.modal' ).squeezeBox({ parse: 'rel' });
+				
+							$( 'img.modal' ).each( function( i, el )
+							{
+								$(el).squeezeBox({
+									handler: 'image',
+									url: $( el ).attr( 'src' )
+								});
+							})
+						}
+						else if(typeof(SqueezeBox) !== 'undefined')
+						{
+							$( 'img.modal' ).each( function( i, el )
+							{
+								SqueezeBox.assign( el, 
+								{
+									handler: 'image',
+									url: $( el ).attr( 'src' )
+								});
+							});
+						}
+						
+						function jModalClose() 
+						{
+							if(typeof(SqueezeBox) == 'object')
+								SqueezeBox.close();
+							else
+								ARK.squeezeBox.close();
+						}
+					
 					});
-				});
+				})();
   </script>
 
 <link rel="apple-touch-icon-precomposed" href="/templates/yoo_lava/apple_touch_icon.png">
@@ -71,17 +93,15 @@ jQuery(function($)
 
 						<div class="uk-navbar-flip uk-visible-large">
 				<div class="uk-navbar-content">
-<form id="search-40" class="uk-search" action="/privacy-policy" method="post" role="search" data-uk-search="{'source': '/component/search/?tmpl=raw&amp;type=json&amp;ordering=&amp;searchphrase=all', 'param': 'searchword', 'msgResultsHeader': 'Search Results', 'msgMoreResults': 'More Results', 'msgNoResults': 'No results found', flipDropdown: 1}">
-	<input class="uk-search-field" type="search" name="searchword" placeholder="search...">
-	<button class="uk-search-close" type="reset"></button>
-	<input type="hidden" name="task" value="search">
-	<input type="hidden" name="option" value="com_search">
-	<input type="hidden" name="Itemid" value="283">
-</form></div>
+	<div class="social">
+    <a class="uk-icon-button uk-icon-facebook" href="https://www.facebook.com/Ark-Extensions-105985259480730/"></a>
+    <a class="uk-icon-button uk-icon-google-plus-square" href="https://plus.google.com/u/0/108004702777795658419/posts"></a>
+    <a class="uk-icon-button uk-icon-twitter" href="https://twitter.com/arkextensions"></a>
+  </div></div>
 			</div>
 			
 						<div class="uk-navbar-flip">
-				<ul class="uk-navbar-nav uk-visible-large"><li class="uk-parent" data-uk-dropdown="{}"><a href="/">Products</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/products/ark-editor">Ark Editor (7th Series)</a></li><li><a href="/products/ark-media-manager">Ark Media Manager</a></li><li><a href="/products/jck-editor">JCK Editor (6th Series)</a></li></ul></div></div></div></li><li data-uk-dropdown="{}"><a href="http://arkextensions.com/support">Support</a></li><li data-uk-dropdown="{}"><a href="/blog">Blog</a></li></ul>
+				<ul class="uk-navbar-nav uk-visible-large"><li class="uk-parent" data-uk-dropdown="{}"><a href="/">Products</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/products/ark-editor">Ark Editor</a></li><li><a href="/products/ark-media-manager">Ark Media Manager</a></li><li><a href="/products/ark-frontend-menu-editing">Frontend Menu Editing</a></li><li><a href="/products/ark-inline-framework">Ark Inline Framework </a></li><li><a href="/products/jck-editor">JCK Editor (6th Series)</a></li></ul></div></div></div></li><li data-uk-dropdown="{}"><a href="http://arkextensions.com/support">Support</a></li><li data-uk-dropdown="{}"><a href="/blog">Blog</a></li></ul>
 <ul class="uk-navbar-nav uk-visible-large"><li data-uk-dropdown="{}"><a href="/client-area"><i class="uk-icon-unlock-alt"></i> Client Area</a></li></ul>			</div>	
 			
 						<div class="uk-hidden-large">
@@ -203,13 +223,12 @@ jQuery(function($)
 										<a class="tm-totop-scroller" data-uk-smooth-scroll="" href="#"></a>
 					
 					<div class="uk-panel">
-	<div class="small">
-	WebxSolution Ltd is not affiliated with or endorsed by the Joomla! Project or Open Source Matters. The Joomla! name and logo is used under a limited license granted by Open Source Matters the trademark holder in the United States and other countries.</div>
-<p>
-	Copyright © 2014 <a href="http://www.webxsolution.com" target="_blank">WebxSolution Ltd</a><br>
-	Powered by <a href="http://www.joomlawired.com/" target="blank" title="Visit Joomla.org!">JoomlaWired</a></p>
-<p>
-	&nbsp;</p>
+	<div class="small">WebxSolution Ltd is not affiliated with or endorsed by the Joomla! Project or Open Source Matters. The Joomla! name and logo is used under a limited license granted by Open Source Matters the trademark holder in the United States and other countries.</div>
+
+<p>Copyright © 2009 - 2016 <a href="http://www.webxsolution.com" target="_blank">WebxSolution Ltd</a><br>
+Powered by <a href="http://www.joomlawired.com/" target="blank" title="Visit Joomla.org!">JoomlaWired</a></p>
+
+<p>&nbsp;</p>
 </div>
 				</footer>
 				
@@ -236,7 +255,7 @@ jQuery(function($)
 	<input type="hidden" name="option" value="com_search">
 	<input type="hidden" name="Itemid" value="283">
 </form></div>
-<ul class="uk-nav uk-nav-offcanvas"><li class="uk-parent"><a href="/">Products</a><ul class="uk-nav-sub"><li><a href="/products/ark-editor">Ark Editor (7th Series)</a></li><li><a href="/products/ark-media-manager">Ark Media Manager</a></li><li><a href="/products/jck-editor">JCK Editor (6th Series)</a></li></ul></li><li><a href="http://arkextensions.com/support">Support</a></li><li><a href="/blog">Blog</a></li></ul></div>
+<ul class="uk-nav uk-nav-offcanvas"><li class="uk-parent"><a href="/">Products</a><ul class="uk-nav-sub"><li><a href="/products/ark-editor">Ark Editor</a></li><li><a href="/products/ark-media-manager">Ark Media Manager</a></li><li><a href="/products/ark-frontend-menu-editing">Frontend Menu Editing</a></li><li><a href="/products/ark-inline-framework">Ark Inline Framework </a></li><li><a href="/products/jck-editor">JCK Editor (6th Series)</a></li></ul></li><li><a href="http://arkextensions.com/support">Support</a></li><li><a href="/blog">Blog</a></li></ul></div>
 		</div>
 		
 	</div>
