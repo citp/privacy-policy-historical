@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askkissy.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207101948id_/http%3A//askkissy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askkissy.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607232207id_/http%3A//askkissy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | News | AskKissy.com - By Kissy Denise
+# Privacy Policy | Trending News & Top Celebrity Gossip | AskKissy.com - By Kissy Denise
 
 **Privacy Policy for www.askkissy.com**
 
