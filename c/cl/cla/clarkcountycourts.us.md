@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarkcountycourts.us privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207115452id_/http%3A//www.clarkcountycourts.us/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarkcountycourts.us privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607233912id_/http%3A//www.clarkcountycourts.us/privacy-statement.html) for the most accurate reproduction.*
 
 # Welcome to the Clark County Courts in Las Vegas
 
