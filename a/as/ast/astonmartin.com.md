@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the astonmartin.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102143id_/http%3A//www.astonmartin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astonmartin.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607233848id_/http%3A//www.astonmartin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## ABOUT THIS PRIVACY POLICY
 
-Aston Martin Lagonda Limited (“ **Aston Martin** ” “ **us** ”, “ **we** ” or “ **our** ”), with its registered office at Banbury Road, Gaydon, Warwickshire, CV35 0DB and registered number 01199255, is committed to protecting the privacy of its  users. 
+Aston Martin Lagonda Limited (“Aston Martin” “us”, “we” or “our”), a company registered in England with number 01199255 and with its registered office at Banbury Road, Gaydon, Warwickshire, CV35 0DB, is committed to protecting the privacy of its users. 
 
 This privacy policy (the “ **Privacy Policy** ”) explains our policy regarding any personal data that you might supply to us (or that might be collected from you) when you visit our Website or use certain services offered via the Website (“ **Information** ”). The Information shall be used in accordance with the permissions granted by you and in accordance with the [Data Protection Act](http://www.hmso.gov.uk/acts/acts1998/19980029.htm) 1998 (the “ **Act** ”). 
 
@@ -13,7 +13,17 @@ This Privacy Policy is intended to assist you in making informed decisions when 
   
 
 
-Please note this Privacy Policy only applies to the use of Information collected via our Website or during your communications with us. It does not apply to your communications with our authorised dealers, or any other third party. 
+Please note this Privacy Policy only applies to the use of Information collected via our Website (which for this purpose includes the Aston Martin Art of Living Experiences website (the “Experiences Website”) which is hosted, maintained and managed on behalf of Aston Martin by Quintessentially (UK) Limited (“Quintessentially”), a company registered in England with number 03879072 and whose registered office is at 29 Portland Place, London, W1B 1QB) or during your communications with us. It does not apply to your communications with our authorised dealers, or any other third party. 
+
+  
+
+
+## DATA PROCESSORS
+
+  
+
+
+Aston Martin works with a number authorised third party partners including authorised agencies, authorised Aston Martin dealers, authorised suppliers and preferred event management partners across the world (which includes without limitation Quintessentially), in order to deliver the products, services, events and experiences described on the Website (including the Experiences Website) and such authorised third party partners are data processors (“Data Processors”) for the purposes of the Act. 
 
   
 
@@ -144,7 +154,7 @@ The Information that Aston Martin collects from you may be transferred to and st
   
 
 
-The Website contains some links to other third party websites. Please be aware that Aston Martin is not responsible for the privacy practices of such other third party sites. This Privacy Policy applies solely to the Information collected by Aston Martin on this Website. 
+The Website contains some links to other third party websites. Please be aware that Aston Martin is not responsible for the privacy practices of such other third party sites. This Privacy Policy applies solely to the Information collected by Aston Martin on our Website (which for the avoidance of doubt includes the Experiences Website). 
 
   
 
