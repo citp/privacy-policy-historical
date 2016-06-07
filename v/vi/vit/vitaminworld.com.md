@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vitaminworld.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208181635id_/http%3A//www.vitaminworld.com/privacy-policy/privacy-policy.html%3Ficid%3Dros-_-footer-_-privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitaminworld.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607171324id_/http%3A//www.vitaminworld.com/privacy-policy/privacy-policy.html%3Ficid%3Dros-_-footer-_-privacyPolicy) for the most accurate reproduction.*
 
-# eCommerce Solutions On-Demand | Demandware Privacy Policy
-
-[](https://privacy.truste.com/privacy-seal/NBTY-Global,-Inc-/validation?rid=13d95c5f-f09c-4342-ab56-783501d243d9 "TRUSTe European Safe Harbor certification")
+# Privacy Policy | Vitamin World
 
 Last Updated: August 2015
 
