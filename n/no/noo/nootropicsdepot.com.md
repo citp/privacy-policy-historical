@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nootropicsdepot.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214043659id_/http%3A//nootropicsdepot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nootropicsdepot.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607230923id_/http%3A//nootropicsdepot.com/privacy-policy-1) for the most accurate reproduction.*
 
-# Privacy Policy
+# Contact Us - Privacy Policy - NootropicsDepot.com
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected from or submitted to NootropicsDepot.com web site. Our web site may contain links to other web sites operated by third parties. NootropicsDepot.com is not responsible for the privacy practices or policies of such third party web sites.
 
@@ -26,3 +26,24 @@ In each of the instances above, we typically ask for your name, e-mail address, 
 **Our Commitment To Data Security**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+#### In-House Purity Testing
+
+Did you know we have an in-house testing lab with equipment from Thermo Scientific and Agilent Technologies to ensure product purity? 
+
+
+
+
+#### Join Newsletter
+
+Be the first to learn about new product releases, exclusive sales and special promotions. [**Click here**](http://nootropicsdepot.com/join-newsletter/) to subscribe to our newsletter and receive **10% off** your first order! 
+
+#### Free Shipping
+
+**FREE** USPS Priority Mail Shipping on Domestic Orders Over $50 or **FREE** Standard Mail on International Orders over $200
+
+  
+
+
+All prices are in USD. © 2016 NootropicsDepot.com   
+
