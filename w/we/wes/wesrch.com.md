@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wesrch.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016210200id_/http%3A//www.wesrch.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesrch.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607054902id_/http%3A//www.wesrch.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice - weSRCH
 
