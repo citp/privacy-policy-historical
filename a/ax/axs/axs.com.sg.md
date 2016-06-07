@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axs.com.sg privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207142442id_/http%3A//www.axs.com.sg/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axs.com.sg privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013741id_/http%3A//www.axs.com.sg/privacyPolicy.php) for the most accurate reproduction.*
 
 # AXS Consumer
 
@@ -41,7 +41,7 @@ If you have any queries, please contact our Data Privacy Officer at dpo@axs.com.
   * Identification number.
 
   
-1.5 We collect personal information that you provide to us when you contact AXS for recruitment and related purposes. Such personal information are collected, used, and disclosed by AXS in accordance with AXS Personal Data Protection Policy for Job Applicants, a copy of which is published at [here](https://web.archive.org/web/20151207142442id_/http%3A//www.axs.com.sg/jobPrivacyPolicy.php). 
+1.5 We collect personal information that you provide to us when you contact AXS for recruitment and related purposes. Such personal information are collected, used, and disclosed by AXS in accordance with AXS Personal Data Protection Policy for Job Applicants, a copy of which is published at [here](https://web.archive.org/web/20160608013741id_/http%3A//www.axs.com.sg/jobPrivacyPolicy.php). 
 
 1.6 If you choose not to provide the above mentioned personal information, you are still allowed to generally access the AXS Network and access and use the services and content available on the AXS Network. 
 
@@ -70,7 +70,7 @@ If you have any queries, please contact our Data Privacy Officer at dpo@axs.com.
 
 3.1 Our Data Privacy Officer is responsible for ensuring that requests for access to information and correction of information are properly dealt with in accordance with the procedures described here. 
 
-3.2 All requests for information or requests for the correction of information held by AXS shall be made by completing AXS's standard Request For Information / Correction Form (PDF available [here](https://web.archive.org/web/20151207142442id_/http%3A//www.axs.com.sg/documents/AXSRequestForm.pdf) ), and sending a copy of the duly completed form to AXS via email at: dpo@axs.com.sg, or post or fax at: 
+3.2 All requests for information or requests for the correction of information held by AXS shall be made by completing AXS's standard Request For Information / Correction Form (PDF available [here](https://web.archive.org/web/20160608013741id_/http%3A//www.axs.com.sg/documents/AXSRequestForm.pdf) ), and sending a copy of the duly completed form to AXS via email at: dpo@axs.com.sg, or post or fax at: 
 
 AXS Pte Ltd   
 61 Mohamed Sultan Road  
