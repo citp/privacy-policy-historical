@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the imaging-resource.com privacy policy that was archived on 2011-02-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110204103954id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imaging-resource.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608012123id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript" type="text/javascript">
+<html><head><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0023/2478.js?439008" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script language="JavaScript" type="text/javascript">
 // If the cookie is not present, begin is set to -1
 begin = document.cookie.indexOf("pgtraffic=");
 // document.write(begin+"<br>");
@@ -69,14 +69,226 @@ if (begin == -1) {
 
 
 	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
-	<title>The Imaging Resource: Privacy Policy</title>
-	<meta name="copyright" content="Copyright 2001, The Imaging Resource">
-	<meta name="description" content="Privacy policy for The Imaging Resource.">
-	<meta name="keywords" content="digital cameras, digital scanners, film scanners, flatbed scanners, digital photography, digital imaging, digital camera reviews, privacy policy">
+	<title>The Imaging Resource Privacy Policy</title>
+	<meta name="description" content="Privacy Policy for The Imaging Resource.">
+	<meta name="keywords" content="usage policy">
 	<link href="/IN/style.css" type="text/css" rel="stylesheet">
 	<link rel="SHORTCUT ICON" href="/ART/favicon.ico">
-	<meta name="Revisit-After" content="1 days">
 <script type="text/javascript">
+	
+/*
+ * Sticky Ad Module
+ * The stick ad is a rectangle (300x250) or super rectangle (300x600) that
+ * follows in the right rail as the user scrolls down the page until it hits
+ * the bottom ad, then stops.
+ *
+ */
+
+var adSticky = (function ($) {
+  // private variables and functions
+  var adSelector = '.ad-scroll';
+  var bottomAdSelector = '.ad-bottom, .affiliate-scroll-stopper';
+  var adWrapper = 'ad-scroll-wrap';
+  var stuckClass = 'stuck-sidebar';
+  var lockedClass = 'locked';
+  var lockedPadding = 50;
+
+
+  // constructor
+  var module = function () {
+    console.log('Sticky Ad Module instantiated');
+    this.wrapElements();
+    this.scrollAdjuster();
+    this.createWaypoints();
+  };
+
+  // prototype
+  module.prototype = {
+    constructor: module,
+    wrapElements: function() {
+      $(adSelector).each(function() {
+        var height = $(this).outerHeight(true);
+        height = height < 250 ? 250 : height; 
+        $(this).parent('.'+adWrapper).height(height);
+      });
+    },
+
+    scrollAdjuster: function() {
+      $(window).scroll(function() {
+        var $stuckAd = $('.'+stuckClass +' '+adSelector);
+        // the size of the actual browser window on desktop. iOS defaults this to 980px
+        var windowWidth = $(window).width(); 
+        // the size of the document.
+        var docWidth = $(document).width();
+        // the actual size of the screen on iOS.
+        var deviceWidth = window.screen.width;
+
+        if($stuckAd.hasClass('locked'))
+        {
+          $stuckAd.css("marginLeft", 0);
+        }
+        else
+        {
+          // we've scrolled past the right edge of the document
+          // (and we're not on a mobile device where the 'window' is larger than the screen)
+          // if a user expands the browser window wider than their screen width on the desktop
+          // they'll get the sort of paralax effect this is intended to prevent
+          if (windowWidth + $(this).scrollLeft() > docWidth && deviceWidth > windowWidth)
+          {
+            $stuckAd.css("marginLeft", windowWidth - docWidth - 1);
+          }
+          // we've scrolled past the left edge of the document
+          else if ($(this).scrollLeft() < 0)
+          {
+            $stuckAd.css("marginLeft", 0);
+          }
+          // offset the sticky ad with scroll amount
+          else
+          {
+            $stuckAd.css("marginLeft", -$(this).scrollLeft());
+          }
+        }
+      });
+    },
+
+    // Create Waypoints for Sticky Ad
+    createWaypoints: function () {
+
+      $('.'+adWrapper).waypoint(function(direction) {
+        if(direction == 'down')
+        {
+          $(this).addClass(stuckClass);
+        }
+        else
+        {
+          $(this).removeClass(stuckClass);
+          $(this).find(adSelector).css('marginLeft', 0);
+        }
+      });
+
+      $(bottomAdSelector).waypoint(function(direction) {
+        if(direction == 'down')
+        {
+          var offsetTop = $(bottomAdSelector).position().top;
+          offsetTop -= $(adSelector).outerHeight(true);
+          // also subtract some constant to add more space
+          // between the bottom ad and the scrolling ad
+          offsetTop -= lockedPadding;
+
+          $(adSelector).addClass(lockedClass).css({'top' : offsetTop, 'marginLeft' : 0});
+        }
+        else
+        {
+          $(adSelector).removeClass(lockedClass).css({'top' : 0});
+        }
+
+      }, {
+        offset: function() {
+          return $(adSelector).height() + lockedPadding;
+        }
+      });
+    }
+  };
+
+  // return module
+  return module;
+})(jQuery);
+
+
+/*
+ * Expandable Ad Module
+ * The expandable ad module is a rectangle (300x250) or super rectangle (300x600)
+ * in the right rail area that expands in to the content area on mouse-over
+ * or click to contain some larger or expanded content.
+ */
+
+var adExpandable = (function ($) {
+  // private variables and functions
+  var adSelector = '.ad-expandable';
+  var expandedClass = 'expanded';
+  var inTimer, outTimer;
+  var delayIn = 300;
+  var delayOut = 700;
+  // For analytics
+  var campaign = '{advertiser}/{campaign}'; // this needs to change per campaign
+  var dwellStart = 0;
+
+  // constructor
+  var module = function () {
+    console.log('Expandable Ad Module instantiated');
+    _gaq.push(['_trackEvent', 'advertising/expandable-ad', 'Ad loaded', campaign, 1, true]);
+    this.setupEvents();
+  };
+
+  // prototype
+  module.prototype = {
+    constructor: module,
+    // Setup Events for Expandable Ad
+    setupEvents: function () {
+      var mod = this;
+
+      $('body').on('mouseover', adSelector, function(){
+        outTimer = clearTimeout(outTimer);
+        var ad = $(this);
+
+        inTimer = setTimeout(function(ad) {
+          console.log('Expandable Ad - Expanded');
+          _gaq.push(['_trackEvent', 'advertising/expandable-ad', 'Expanded', campaign, 1, true]);
+          ad.addClass(expandedClass);
+          mod.startDwell();
+        }, delayIn, ad);
+      });
+
+      $('body').on('mouseout', adSelector+'.'+expandedClass, function(){
+        inTimer = clearTimeout(inTimer);
+        var close = true;
+        var ad = $(this);
+
+        outTimer = setTimeout(function(ad) {
+          dwell = mod.stopDwell();
+          if(dwell) {
+            console.log('Expandable Ad - Dwell Time - '+dwell);
+            _gaq.push(['_trackEvent', 'advertising/expandable-ad', 'Dwell Time', campaign, dwell, true ]);
+          }
+
+          console.log('Expandable Ad - Collapsed');
+          _gaq.push(['_trackEvent', 'advertising/expandable-ad', 'Collapsed', campaign, 1, true ]);
+          ad.removeClass(expandedClass);
+        }, delayOut, ad);
+
+      });
+    },
+    startDwell: function() {
+      if (window.performance.now) {
+        dwellStart = window.performance.now();
+      }else{
+        dwellStart = Date().getTime();
+      }
+    },
+    stopDwell: function() {
+      if (window.performance.now && dwellStart !== 0) {
+        dwellEnd = window.performance.now();
+      }else{
+        dwellEnd = Date().getTime();
+      }
+
+      dwellTime = Math.round(dwellEnd - dwellStart) / 1000; // dwell time converted to seconds
+      dwellStart = 0;
+      return dwellTime;
+    }
+
+  };
+
+  // return module
+  return module;
+})(jQuery);
+
+
+/**
+ * Not sure if the stuff below is currently used
+ */
+
+
 // Functions for clearing/setting text in searchbox
 function clickclear(thisfield, defaulttext) {
 	if (thisfield.value == defaulttext) {
@@ -121,7 +333,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 
 
 
-addLoadListener(initTooltips);
+//addLoadListener(initTooltips);
 
 function initTooltips()
 {
@@ -536,13 +748,19 @@ function identifyBrowser() {
   return false;
 }
 
-</script><script language="JavaScript" type="text/javascript"> 
-				<!--
-				if (!document.cookie || document.cookie.indexOf('AVPWCAP=') == -1) {
-					document.write('<SCR'+'IPT src="http://174.36.192.249/advertpro/servlet/view/window/javascript/zone?zid=78&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"><\/SCR'+'IPT>');
+	</script><script language="JavaScript" type="text/javascript">
+				//var randomnumber=Math.floor(Math.random()*101);
+				var randomnumber = 11;
+				if (randomnumber <= 10) {
+					// Dual ads
+					document.write('<scr'+'ipt src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/unique/javascript/strip?zid=182&pid=0&total=2&layout=horizontal&margin=0&padding=27&overlay=true&autoclose=15&spacing=20&bgcolor=%23E0E0EB&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent(document.location)+'" type="text/javascript"></scr'+'ipt>');
+				} else {
+					// Regular single ad
+					if (!document.cookie || document.cookie.indexOf('AVPWCAP=') == -1) {
+						document.write('<SCR'+'IPT src="http://ads.imaging-resource.com/advertpro/servlet/view/window/javascript/zone?zid=78&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"><\/SCR'+'IPT>');
+					}
 				}
-				//-->
-				</script><script src="http://174.36.192.249/advertpro/servlet/view/window/javascript/zone?zid=78&amp;pid=0&amp;random=51583150&amp;millis=1580431663093&amp;referrer=https%3A//web.archive.org/web/20110204103954id_/http%253A//www.imaging-resource.com/PRIVACY.HTM" language="JavaScript" type="text/javascript"></script><script type="text/javascript" language="JavaScript">
+				</script><script src="http://ads.imaging-resource.com/advertpro/servlet/view/window/javascript/zone?zid=78&amp;pid=0&amp;random=73266408&amp;millis=1580431681320&amp;referrer=https%3A//web.archive.org/web/20160608012123id_/http%253A//www.imaging-resource.com/PRIVACY.HTM" language="JavaScript" type="text/javascript"></script><script type="text/javascript" language="JavaScript">
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
@@ -573,18 +791,48 @@ function MM_findObj(n, d) { //v3.0
 function MM_jumpMenuGo(selName,targ,restore){ //v3.0
   var selObj = MM_findObj(selName); if (selObj) MM_jumpMenu(targ,selObj,restore);
 }
-</script></head>
+</script><script type="text/javascript" src="//www.google.com/jsapi"></script><script type="text/javascript">
+  <!--
+  google.load("jquery","1.7", {uncompressed:true});
+  -->
+  </script><script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+        var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+        var s = document.createElement('script'); s.src = protocol + script_url;
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+      }
+      bm_website_code = 'E923B8D2F91C4182';
+      jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+      jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+  </script><link rel="stylesheet" href="/features/topnav/topnav.css" type="text/css"><script src="/features/topnav/js/jquery.hoverIntent.min.js" type="text/javascript" charset="utf-8"></script><script src="/features/topnav/js/topnav.js" type="text/javascript" charset="utf-8"></script><script src="/features/tooltips/js/jquery.wtooltip.min.js" type="text/javascript" charset="utf-8"></script><script src="/features/tooltips/js/inittooltips.js" type="text/javascript" charset="utf-8"></script></head>
 
 
 
 
 
 
+<!-- Include file that drives the layout for those files not camera reviews and not in EE. Generally, those whose content is in /CAMDB/static and /PAGES -->
 
-			
+	
+	
+	
+
 				
 			
 
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 <!--These are the region variables for all the software pages
@@ -608,42 +856,217 @@ function MM_jumpMenuGo(selName,targ,restore){ //v3.0
 
 
 
-<body>
+
+
+<body itemscope="" itemtype="http://schema.org/WebPage">
 
 <div id="wrapper">
 	<table id="header">
 	<tbody><tr>
 		<td id="logo_divider"><a href="http://www.imaging-resource.com"><img src="/ART/logo.130.gif" width="130" height="84" alt="Imaging Resource logo" border="0" id="logo"></a></td>
 		<td id="leaderboard">
-<!-- BEGIN AVPA CODE BLOCK: Region 64 / Keyword NULL -->
+    <!-- BEGIN AVPA CODE BLOCK: Region 64 / Keyword NULL -->
 
-<script type="text/javascript">
-<!--
-	document.write('<SCR'+'IPT src="http://174.36.192.249/advertpro/servlet/view/banner/javascript/zone?zid=64&amp;pid=0&amp;keywords=NULL&amp;random='+Math.floor(89999999*Math.random()+10000000)+'&amp;millis='+new Date().getTime()+'&amp;referrer='+escape(document.location)+'" type="text/javascript"><\/SCR'+'IPT>');
-//-->
-</script><script src="http://174.36.192.249/advertpro/servlet/view/banner/javascript/zone?zid=64&amp;pid=0&amp;keywords=NULL&amp;random=55592142&amp;millis=1580431663097&amp;referrer=https%3A//web.archive.org/web/20110204103954id_/http%253A//www.imaging-resource.com/PRIVACY.HTM" type="text/javascript"></script>
-<noscript>
-<A href="http://174.36.192.249/advertpro/servlet/click/zone?zid=64&amp;pid=0&amp;lookup=true&amp;keywords=NULL&amp;position=1" target="_top">
-<IMG src="http://174.36.192.249/advertpro/servlet/view/banner/image/zone?zid=64&amp;pid=0&amp;keywords=NULL&amp;position=1" hspace="0" vspace="0" border="0" alt="Click Here!">
-</A>
-</noscript>
+    <script type="text/javascript">
+        <!--
+        document.write('<SCR'+'IPT src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=64&amp;pid=0&amp;keywords=NULL&amp;random='+Math.floor(89999999*Math.random()+10000000)+'&amp;millis='+new Date().getTime()+'&amp;referrer='+escape(document.location)+'" type="text/javascript"><\/SCR'+'IPT>');
+        //-->
+    </script><script src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=64&amp;pid=0&amp;keywords=NULL&amp;random=79323659&amp;millis=1580431681404&amp;referrer=https%3A//web.archive.org/web/20160608012123id_/http%253A//www.imaging-resource.com/PRIVACY.HTM" type="text/javascript"></script>
 
-<!-- END AVPA CODE BLOCK: Region 64 / Keyword NULL -->
+    <!-- END AVPA CODE BLOCK: Region 64 / Keyword NULL -->
 
 </td>
 	</tr>
 	</tbody></table>
-	<div id="head-tagline">
-		<span id="date">February  4, 2011</span><span id="tagline">Your source for the most comprehensive and informative digital camera reviews</span>
-		<span id="search"><form action="http://search.freefind.com/find.html" method="GET"><input type="HIDDEN" name="id" size="-1" value="8176159"><input type="HIDDEN" name="pageid" size="-1" value="r"> <input type="HIDDEN" name="mode" size="-1" value="ALL"><input type="HIDDEN" name="n" value="0"><input type="text" name="query" onclick="clickclear(this, 'Search this Site')" onblur="clickrecall(this,'Search this Site')" size="12" maxlength="50" value="Search this Site"><input name="SUBMIT" type="SUBMIT" value="Go">&nbsp;<label><a href="/SITEMAP.HTM" style="color: #ffffff;">SiteMap</a></label>&nbsp;&nbsp;</form></span>
+	<div id="menu-top">
+		
+	<ul id="navlist">
+		<li class="mega">
+			<a href="/">Home</a>
+		</li>
+		
+		<li class="mega">
+			<a href="/news">Photo News</a>
+			<div class="megaMenuContainer">
+				<div class="megaMenuPoint"></div>
+				<div class="megaSubMenu curved shadow">
+					
+					<!-- Camera mega menu content here -->
+					<div class="megaMenuCol" style="width:120px;"> 
+						<ul>
+							<li><a href="/news">Photo News</a></li>
+							<li><a href="/new-on-ir">New on the site</a></li>
+							<li><a href="/newsletter/">Newsletter</a></li>
+							<li><a href="/NEWSARCH/news-archive.html">News Archives</a></li>
+						</ul>
+					</div>
+
+					<div style="clear:both"></div>
+				</div>
+			</div>
+		</li>
+
+		<li class="mega">
+			<a href="/cameras/reviews/">Camera Reviews</a>
+			<div class="megaMenuContainer">
+				<div class="megaMenuPoint"></div>
+				<div class="megaSubMenu curved shadow">
+					
+					<!-- Camera mega menu content here -->
+					<div class="megaMenuCol" style="width:175px;"> 
+						<ul>
+							<li><a href="/cameras/reviews/">Camera Reviews</a></li>
+							<li><a href="/WB/WB.HTM">Best Cameras</a> <em>(Dave's Picks)</em></li>
+						</ul>
+						<br>
+						<ul>
+							<li><a href="/compact-cameras">Compact Cameras</a></li>
+							<li><a href="/dslr-cameras">DSLR Cameras</a></li>
+							<li><a href="/mirrorless-cameras">Mirrorless Cameras</a></li>
+						</ul>
+						<br>
+						<ul>
+							<li><a href="/IMCOMP/COMPS01.HTM">Compare Images</a></li>
+							<li><a href="/cameras/compare/">Compare Cameras</a></li>
+						</ul>
+					</div>
+					
+					<div class="megaMenuCol" style="width:170px;"> 
+						<div class="megaMenuHead">Popular Manufacturers</div>
+						<ul>
+							<li><a href="/cameras/canon/reviews/">Canon Cameras</a></li>
+							<li><a href="/cameras/fujifilm/reviews/">Fuji Cameras</a></li>
+							<li><a href="/cameras/nikon/reviews/">Nikon Cameras</a></li>
+							<li><a href="/cameras/olympus/reviews/">Olympus Cameras</a></li>
+							<li><a href="/cameras/panasonic/reviews/">Panasonic Cameras</a></li>
+							<li><a href="/cameras/pentax/reviews/">Pentax Cameras</a></li>
+							<li><a href="/cameras/samsung/reviews/">Samsung Cameras</a></li>
+							<li><a href="/cameras/sony/reviews/">Sony Cameras</a></li>
+							<li><a href="/cameras/brands/">All Camera Manufacturers</a></li>
+						</ul>
+					</div>
+					
+					<div style="clear:both"></div>
+				</div>
+			</div>
+		</li>
+
+		<li class="mega">
+			<a target="_blank" href="/lenses/reviews/">Lens Reviews</a>
+			<div class="megaMenuContainer">
+				<div class="megaMenuPoint"></div>
+				<div class="megaSubMenu curved shadow">
+					
+					<!-- Camera mega menu content here -->
+					<div class="megaMenuCol" style="width:160px;"> 
+						<div class="megaMenuHead">Lens Reviews</div>
+						<ul>
+							<li><a href="/lenses/canon/reviews/">Canon Lenses</a></li>
+							<li><a href="/lenses/nikon/reviews/">Nikon Lenses</a></li>
+							<li><a href="/lenses/olympus/reviews/">Olympus Lenses</a></li>
+							<li><a href="/lenses/panasonic/reviews/">Panasonic Lenses</a></li>
+							<li><a href="/lenses/pentax/reviews/">Pentax Lenses</a></li>
+							<li><a href="/lenses/sigma/reviews/">Sigma Lenses</a></li>
+							<li><a href="/lenses/sony/reviews/">Sony Lenses</a></li>
+							<li><a href="/lenses/tamron/reviews/">Tamron Lenses</a></li>
+							<li><a href="/lenses/reviews/">All lens reviews</a></li>
+						</ul>
+					</div>
+
+					<div style="clear:both"></div>
+				</div>
+			</div>
+		</li>
+
+		<li class="mega">
+			<a href="/PRINT.HTM">Printer Reviews</a>
+		</li>
+		
+		<li class="mega">
+			<a href="/accessories">Accessories</a>
+			<div class="megaMenuContainer">
+				<div class="megaMenuPoint"></div>
+				<div class="megaSubMenu curved shadow">
+					
+					<!-- Camera mega menu content here -->
+					<div class="megaMenuCol" style="width:150px;"> 
+						<div class="megaMenuHead">Reviews by IR</div>
+						<ul>
+							<li><a href="/camera-accessories">Camera Accessories</a></li>
+							<li><a href="/SCAN1.HTM">Scanners</a></li>
+							<li><a href="/SOFT.HTM">Software</a></li>
+						</ul>
+					</div>
+					<div class="megaMenuCol" style="width:195px;"> 
+						<div class="megaMenuHead">Reviews by SLR Gear Readers</div>
+						<ul>
+							<li><a target="_blank" href="http://www.slrgear.com/reviews/showcat.php/cat/57">Flash Reviews</a></li>
+							<li><a target="_blank" href="http://www.slrgear.com/reviews/showcat.php/cat/52">Tripod Reviews</a></li>
+							<li><a target="_blank" href="http://www.slrgear.com/reviews/showcat.php/cat/74">Camera Bag Reviews</a></li>
+						</ul>
+					</div>
+					<div style="clear:both"></div>
+				</div>
+			</div>
+		</li>
+	</ul>
+
+	<ul class="navright">
+		<li class="mega">
+			<a href="/about-ir">About IR</a>
+			<div class="megaMenuContainer">
+				<div class="megaMenuPoint"></div>
+				<div class="megaSubMenu curved shadow">
+					
+					<div class="megaMenuCol" style="width:90px;"> 
+						<ul>
+							<li><a href="/about-ir">About IR</a></li>
+							<li><a href="/about-ir/the-team">The Team</a></li>
+							<li><a href="/ADINFO.HTM">Advertising</a></li>
+						</ul>
+					</div>
+
+					<div style="clear:both"></div>
+				</div>
+			</div>
+		</li>
+	</ul>
+	<!--
+	<span class="navright">
+		<a href="">Login</a>
+	</span>
+	-->
+  <!-- end top nav -->
+
+<script type="text/javascript" src="/features/topnav/js/megamenu.js"></script>
+<span id="search"><script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+    if(typeof jQuery=='undefined') {
+    	google.load("jquery","1.7");
+    }
+    google.load("jqueryui","1");
+</script>
+
+<link href="/features/searchbox/searchbox.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="/features/searchbox/searchbox.js"></script>
+
+<form action="/search.html" method="get" autocomplete="off">
+<input placeholder="Search" type="text" name="q" id="searchquery" autocomplete="off">
+ </form>
+<div id="search-results">
+    <div id="search-results-list"></div>
+    <div id="search-loading"><img src="/features/searchbox/images/loading.gif" alt="loading ..."></div>
+    <div id="search-not-found">No Cameras Found</div>
+    <div id="search-more"><a href="">See all results</a></div>
+</div>
+
+</span>
 	</div>
 	
-	
 	<div id="content">
+		
 		<div id="mid-col-5">
-			
-			
-			
+		
 			<div class="marker7">The Imaging Resource Privacy Policy</div>
 <p>The Imaging Resource does not collect any user specific identifiable
   information other than what the user specifically volunteers. For example, this
@@ -664,175 +1087,159 @@ function MM_jumpMenuGo(selName,targ,restore){ //v3.0
 web beacons to collect information in your browser when you access third 
 party ads served on our site. Please consult the Help documentation for your 
 respective browser if you wish to disable such third party cookies.</p>
+<p>Some network ads are served by Lijit Networks. For the information collected by this ad network, please see their privacy policy at:</p>
+<p>Lijit Networks, Inc. Privacy Policy<br>
+<a href="http://www.lijit.com/company/privacy-policy" target="_blank">http://www.lijit.com/company/privacy-policy</a></p>
+<p>Lijit collects only anonymous information unless you choose to submit personal information. Lijit permits readers to opt out of the collection of this anonymous site visit data. To opt out, please see the section labeled 'Opting Out' in the above privacy policy for additional information.</p>
 <p> If
   you have any questions about our privacy policy, please send us a <a href="mailto:web@imaging-resource.com">note</a>. </p>
 <p>&nbsp;</p>
 
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		</div>
-<!--//	<div id="mid-col-1"> Already in include. //-->
 			
-<div id="mid-col-1">
-	<div class="marker3">Resources</div>
-	<div class="navigation">
-		<ul>
-		<li><h5><font color="#3a3a3a">Digital Cameras</font></h5>
-		<ul>
-		<li><a href="/index.html">Home</a></li>
-		<li><a href="/PRICE3.HTM">By Price</a></li>
-		<li><a href="/MFR1.HTM">By Manufacturer</a></li>
-		<li><a href="/MEGAPIXEL.HTM">By Megapixel</a></li>
-		<li><a href="/DIGCAM01.HTM">Digital Camera Reviews</a></li>
-		<li><a href="/WB/WB.HTM" title="Dave's Digital Camera Picks">Dave's Picks</a></li>
-		<li><a href="http://www.imaging-resource.com/cgi-bin/pl/pl.cgi?602" title="Check prices on Digital Cameras" target="_blank">Check Prices </a></li>
-		<li><a href="/IMCOMP/COMPS01.HTM">Compare Sample Images</a></li>
-		<li><a href="/CAMDB/compare_cameras.php">Compare Models</a></li>
-		<li><a href="http://www.imaging-resource.com/cgi-bin/m/pl.cgi?cajs" target="_newWindow" onclick="openWindow('http://www.imaging-resource.com/cgi-bin/m/pl.cgi?cajs'); return false;">Find the Best Camera For You</a></li>
-		<li><a href="http://www.photo-forums.com/WebX?14@@.ee6b2a8">Camera Forums</a></li>
-		<li><a href="/ARTS/DRV/DRV.HTM">Camera Drivers</a></li>
-		<li><a href="http://www.imaging-resource.com/buynow.htm" title="IR Shopping Portal">Support this Site<br>(Use our links)</a>
-		</li></ul>
-		</li>
-		<li><h5><font color="#3A3A3A">Accessories</font></h5>
-			<ul>
-			<li><a href="http://www.slrgear.com/reviews/index.php">Camera Lens Reviews</a></li>
-			<li><a href="/ACCS/BATTS/BATTS.HTM">Batteries</a></li>
-			<li><a href="/ACC1.HTM">Camera Accessories</a></li>
-			<li><a href="/PRINT.HTM">Printers</a></li>
-			<li><a href="/SCAN1.HTM">Scanners</a></li>
-			<li><a href="/SOFT.HTM">Software</a></li>
-			</ul>
-		</li>
-		<li><h5><font color="#3A3A3A">Tutorials</font></h5>
-			<ul>
-			<li><a href="/GETSTART.HTM">Getting Started</a></li>
-			<li><a href="/BETTERPICS.HTM">Better Pictures</a></li>
-			<li><a href="/HOWTO.HTM">How To</a></li>
-			</ul>
-		</li>
-		<li><h5><font color="#3A3A3A">News</font></h5>
-			<ul>
-			<li><a href="/NEWS.HTM">Breaking News</a></li>
-			<li><a href="/news.xml">RSS Feed</a>&nbsp;<a href="http://www.imaging-resource.com/news.xml" class="rss">RSS</a></li>
-			<li><a href="/NEW1.HTM" title="What's new at The Imaging Resource">What's New</a>&nbsp;<a href="http://www.imaging-resource.com/whatsnew.xml" class="rss">RSS</a></li>
-			<li><a href="/IRNEWS/" title="Digital Camera newsletter">Newsletter</a></li>
-			</ul>
-		</li>
-		<li><h5><font color="#3A3A3A">Forums</font></h5>
-			<ul>
-			<li><a href="http://www.photo-forums.com/">Main Forums</a></li>
-			<li><a href="http://www.photo-forums.com/WebX?14@@.ee6b2a8">Camera Forums</a></li>
-			<li><a href="http://www.photo-forums.com/WebX?14@@.ee6f773">Canon Talk</a></li>
-			<li><a href="http://www.photo-forums.com/WebX?14@@.ee6f781">Nikon Talk</a></li>
-			<li><a href="http://www.photo-forums.com/WebX?14@@.ee6f783">Olympus Talk</a></li>
-			<li><a href="http://www.photo-forums.com/WebX?14@@.ee6f789">Sony Talk</a></li>
-			</ul>
-		</li>
-		<li><h5><font color="#3A3A3A">Search</font></h5>
-			<ul>
-			<li><a href="/search.html">Search</a></li>
-			<li><a href="/SITEMAP.HTM">SiteMap</a></li>
-			<li><a href="http://www.imaging-resource.com/pages/">Link Directory</a></li>
-			</ul>
-		</li>
-		<li><h5><font color="#3A3A3A">About Us</font></h5>
-			<ul>
-			<li><a href="/ABOUTUS.HTM">About This Site</a></li>
-			<li><a href="/MASTHEAD.HTM">Masthead</a></li>
-			<li><a href="/ADINFO.HTM">Advertising</a></li>
-			<li><a href="/PRESSKIT.HTM">Press Kit</a></li>
-			<li><a href="/PRIVACY.HTM">Privacy Policy</a></li>
-			</ul>
-		</li>
-		</ul>
-	</div>
-<!--// Include for MFR1, DIGCAM0x, and PRICE page only. //-->	
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			
+		</div>
+		
+		<div id="mid-col-4">
+			        <div class="ad-news">
+        	
+    <!-- BEGIN AVPA CODE BLOCK: Region 34 / Keyword NULL -->
+
+    <script type="text/javascript">
+        <!--
+        document.write('<SCR'+'IPT src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=34&amp;pid=0&amp;keywords=NULL&amp;random='+Math.floor(89999999*Math.random()+10000000)+'&amp;millis='+new Date().getTime()+'&amp;referrer='+escape(document.location)+'" type="text/javascript"><\/SCR'+'IPT>');
+        //-->
+    </script><script src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=34&amp;pid=0&amp;keywords=NULL&amp;random=27486525&amp;millis=1580431681464&amp;referrer=https%3A//web.archive.org/web/20160608012123id_/http%253A//www.imaging-resource.com/PRIVACY.HTM" type="text/javascript"></script>
+
+    <!-- END AVPA CODE BLOCK: Region 34 / Keyword NULL -->
 
 
+        </div>
+		<div class="ad-news">
+			
+    <!-- BEGIN AVPA CODE BLOCK: Region 121 / Keyword NULL -->
 
-	
-	
-	
-	
-	
+    <script type="text/javascript">
+        <!--
+        document.write('<SCR'+'IPT src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=121&amp;pid=0&amp;keywords=NULL&amp;random='+Math.floor(89999999*Math.random()+10000000)+'&amp;millis='+new Date().getTime()+'&amp;referrer='+escape(document.location)+'" type="text/javascript"><\/SCR'+'IPT>');
+        //-->
+    </script><script src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=121&amp;pid=0&amp;keywords=NULL&amp;random=51494932&amp;millis=1580431681468&amp;referrer=https%3A//web.archive.org/web/20160608012123id_/http%253A//www.imaging-resource.com/PRIVACY.HTM" type="text/javascript"></script>
+
+    <!-- END AVPA CODE BLOCK: Region 121 / Keyword NULL -->
 
 
+		</div>
+		 <div class="ad-news">
+			
+    <!-- BEGIN AVPA CODE BLOCK: Region 122 / Keyword NULL -->
 
-<!--// Include for camera review pages only. //-->
+    <script type="text/javascript">
+        <!--
+        document.write('<SCR'+'IPT src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=122&amp;pid=0&amp;keywords=NULL&amp;random='+Math.floor(89999999*Math.random()+10000000)+'&amp;millis='+new Date().getTime()+'&amp;referrer='+escape(document.location)+'" type="text/javascript"><\/SCR'+'IPT>');
+        //-->
+    </script><script src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=122&amp;pid=0&amp;keywords=NULL&amp;random=30100593&amp;millis=1580431681471&amp;referrer=https%3A//web.archive.org/web/20160608012123id_/http%253A//www.imaging-resource.com/PRIVACY.HTM" type="text/javascript"></script>
+
+    <!-- END AVPA CODE BLOCK: Region 122 / Keyword NULL -->
 
 
+		</div>
+
+			<div class="potd-pod portrait">
+  <div class="photo-container">
+    <a href="http://www.dailydigitalphoto.com/cgi-bin/potd/potd.pl" target="_blank">
+      <img src="/features/potd/images/ir_potd_300.jpg" alt="Photo of the Day from Daily Digital Photo">
+    </a>
+    <span class="potdh3"><a href="http://www.dailydigitalphoto.com/cgi-bin/potd/potd.pl" target="_blank"><span class="todays">Today’s</span> <span class="photo">Photo</span> <span class="ofthe">of the</span> <span class="day">Day</span><span class="arrow"></span></a></span>
+  </div>
+  <span class="potdh4"><a href="http://www.dailydigitalphoto.com/potd-images/ir_potd_enter.htm">Enter</a> this month to win:</span>
+
+  <div class="prizes">
+    <p class="first"><em>1</em> $300 Adorama Gift Certificate</p>
+    <p class="second"><em>2</em> $200 Adorama Gift Certificate</p>
+    <p class="third"><em>3</em> $100 Adorama Gift Certificate</p>
+  </div>
 </div>
 
-		<div id="mid-col-4">
-			        <div class="ad-news"><center>
-<!-- BEGIN AVPA CODE BLOCK: Region 68 / Keyword NULL -->
-
-<script type="text/javascript">
-<!--
-	document.write('<SCR'+'IPT src="http://174.36.192.249/advertpro/servlet/view/banner/javascript/zone?zid=68&amp;pid=0&amp;keywords=NULL&amp;random='+Math.floor(89999999*Math.random()+10000000)+'&amp;millis='+new Date().getTime()+'&amp;referrer='+escape(document.location)+'" type="text/javascript"><\/SCR'+'IPT>');
-//-->
-</script><script src="http://174.36.192.249/advertpro/servlet/view/banner/javascript/zone?zid=68&amp;pid=0&amp;keywords=NULL&amp;random=55773887&amp;millis=1580431663108&amp;referrer=https%3A//web.archive.org/web/20110204103954id_/http%253A//www.imaging-resource.com/PRIVACY.HTM" type="text/javascript"></script>
-<noscript>
-<A href="http://174.36.192.249/advertpro/servlet/click/zone?zid=68&amp;pid=0&amp;lookup=true&amp;keywords=NULL&amp;position=1" target="_top">
-<IMG src="http://174.36.192.249/advertpro/servlet/view/banner/image/zone?zid=68&amp;pid=0&amp;keywords=NULL&amp;position=1" hspace="0" vspace="0" border="0" alt="Click Here!">
-</A>
-</noscript>
-
-<!-- END AVPA CODE BLOCK: Region 68 / Keyword NULL -->
-
-</center>
-        </div>
-
+			<table><tbody><tr><td valign="top" align="right" width="135"><img src="/ART/SPACE.GIF" width="130" height="1" valign="top"></td></tr></tbody></table>
 		</div>
+		
 	</div>
 	<p>&nbsp;</p>
 	<div id="footer">
 		<div id="foot-col-1">
 			  <!-- Start BOTTOM -->
 
-<p></p>
-<p align="center"></p><br>
-  <br>
-<p align="center"><script type="text/javascript" src="../../IN/ANTISPAMEMAIL.JS"></script></p>
-<p class="footer_text"><b>This document copyright © 1998 - 2011, The Imaging Resource, all rights reserved.</b> Visitors to this site may download this document for <i>local, private, non-commercial use</i>. Individuals who have <i>themselves</i> downloaded this page may print a copy on their personal printers for convenience of reading and reference. Other than this explicit usage, it may not be published, reproduced, or distributed in print or electronic and/or digital media without the express written consent of <script type="text/javascript" src="../../IN/ANTISPAMEMAIL2.JS"></script>.</p>
+<p align="center"></p>
 
-<p align="center"><a href="/search.html" title="Search The Imaging Resource">Search</a>
-  | <a href="/SITEMAP.HTM" title="The Imaging Resource SiteMap">SiteMap</a> |
-  <a href="/ABOUTUS.HTM" title="Get more information on The Imaging Resource">About
-  Us</a> | <a href="/ADINFO.HTM" title="Advertising information for The Imaging Resource">Advertising</a>
-  | <a href="/PRESSKIT.HTM">Press Kit</a> | <a href="/PRIVACY.HTM" title="The Imaging Resource Privacy Policy">Privacy
-  Policy</a> | <a href="http://www.imaging-resource.com" title="The Imaging Resource Home Page">Home</a><br>
-  <br>
-<a href=" http://www.pixmania-pro.co.uk/uk/uk/home.html" target="_blank">Digital Camera Wholesalers</a> | <a href="http://www.pixmania.com/ie/uk/xx/49/xx/1/1/criteresn.html" target="_blank">Sony digital Cameras</a> | <a href="http://www.pixmania.co.uk/uk/uk/cameras/digital-camera/1/1/categorie.html" target="_blank">digital cameras</a> at low prices</p>
-  <font size="1px">SL Server</font>
+<p align="center"><a href="/SITEMAP.HTM" title="The Imaging Resource Site Map">Site Map</a> | <a href="/ABOUTUS.HTM">About Us</a> | <script src="/IN/js-email.js"></script><script type="text/javascript" language="JavaScript">antispam_email('web', 'Contact Us', 'Imaging Resource Site Email');</script><a href="mailto:web@imaging-resource.com?subject=Imaging Resource Site Email"><strong>Contact Us</strong></a><noscript>Please enable JavaScript in order to view the email address.</noscript> | <a href="/ADINFO.HTM">Advertising</a> | <a href="/PRIVACY.HTM">Privacy Policy</a> | <a href="/USAGE.HTM">Usage Policy</a> | <a href="http://www.imaging-resource.com" title="The Imaging Resource Home Page">Home</a>
+
+</p><h6 align="center">Imaging Resource © 1998 - 2016. Material on this site may not be reproduced, distributed, transmitted or otherwise used without the prior written consent of <script type="text/javascript" language="JavaScript">antispam_email('web', 'The Imaging Resource', 'Imaging Resource Site Email');</script><a href="mailto:web@imaging-resource.com?subject=Imaging Resource Site Email"><strong>The Imaging Resource</strong></a><noscript>Please enable JavaScript in order to view the email address.</noscript>.</h6>
+  <div class="fixedApply">
+   <!-- <a href="http://www.imaging-resource.com/APPLY.HTM"><img src="/IN/jobadbanner.png" border="0"></a> -->
+  </div>
+
+
 <!-- End BOTTOM -->
 
 
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-8396527-1']);
+_gaq.push(['_trackPageview']);
+setTimeout("_gaq.push(['_trackEvent', '60_seconds', 'read'])",60000);
 
-<!--// Google Analytics tracking //-->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-	var pageTracker = _gat._getTracker("UA-8396527-1");
-	pageTracker._setDomainName("none");
-	pageTracker._setAllowLinker(true);	
-	pageTracker._trackPageview();
-} catch(err) {}
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
 </script>
+
+
+<!-- CrazyEgg Tag -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0023/2478.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<!-- End CrazyEgg Tag -->
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-c3GXusZc0TJL4"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-c3GXusZc0TJL4.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
 
 
 		</div>
@@ -841,14 +1248,17 @@ try {
 		<script language="JavaScript" type="text/javascript">
 		<!--
 		if (!document.cookie || document.cookie.indexOf('AVPDCAP=') == -1) {
-		  document.write('<SCR'+'IPT src="http://174.36.192.249/advertpro/servlet/view/dynamic/javascript/zone?zid=96&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
+		  document.write('<SCR'+'IPT src="http://ads.imaging-resource.com/advertpro/servlet/view/dynamic/javascript/zone?zid=96&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
 		}
 		//-->
-		</script><script src="http://174.36.192.249/advertpro/servlet/view/dynamic/javascript/zone?zid=96&amp;pid=0&amp;random=95140405&amp;millis=1580431663676&amp;referrer=https%3A//web.archive.org/web/20110204103954id_/http%253A//www.imaging-resource.com/PRIVACY.HTM" language="JavaScript" type="text/javascript"></script>
+		</script><script src="http://ads.imaging-resource.com/advertpro/servlet/view/dynamic/javascript/zone?zid=96&amp;pid=0&amp;random=66512288&amp;millis=1580431681672&amp;referrer=https%3A//web.archive.org/web/20160608012123id_/http%253A//www.imaging-resource.com/PRIVACY.HTM" language="JavaScript" type="text/javascript"></script>
 		<!-- END AVPA CODE BLOCK: Region 96 -->
 
 	
 </div>
+
+
+
 
 
 
