@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the registerdomain.co.za privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206223429id_/http%3A//www.registerdomain.co.za/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the registerdomain.co.za privacy policy that was archived on 2016-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607042346id_/http%3A//www.registerdomain.co.za/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -31,33 +31,23 @@
 <![endif]-->
 
 
-    <script>
+    <script data-cfasync="false">
                 ( function(jQuery) {
                     jQuery(document).ready(function() { 
                         jQuery('ul.dropdown-menu li a').each(function( index ) {
-                            if(jQuery(this).attr('href') == 'clientarea.php?action=domains'){
-                                jQuery(this).parent().after('<li><a href="clientarea.php?managedns">Manage DNS</a></li>');
-                            }
-                        }); 
-                    });
-                } ) ( jQuery );
-                </script>
-<link rel="stylesheet" href="/whmcs/assets/css/weebly.css">
-<script>
-                ( function(jQuery) {
-                    jQuery(document).ready(function() { 
-                        jQuery('ul.dropdown-menu li a').each(function( index ) {
-                            if(jQuery(this).attr('href').indexOf('clientarea.php?action=domains') >= 0){
+                            var href = jQuery(this).attr('href');
+                            if(href && jQuery(this).attr('href').indexOf('clientarea.php?action=domains') >= 0){
                                 jQuery(this).parent().after('<li><a href="index.php?m=DNSManager2">Manage DNS</a></li>');
                             }
                         }); 
                     });
                 } ) ( jQuery );
                 </script>
+<link rel="stylesheet" href="assets/css/weebly.css">
 <script type="text/javascript">
 
 var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-71051606-1']);
+_gaq.push(['_setAccount', 'UA-16718108-2']);
 _gaq.push(['_setDomainName', 'registerdomain.co.za']);
 _gaq.push(['_trackPageview']);
 
@@ -89,7 +79,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 					</ul>
 					<ul class="list-inline pull-right hidden-xs" style="margin-top: 2px;margin-bottom: 5px;">
 						<li>
-						<a href="contact-us">Contact Us</a>
+						<a href="/contact-us">Contact Us</a>
 						</li>
 					</ul>
 				</div>
@@ -109,10 +99,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                         <!-- Login/Account Notifications -->
                         <!-- Shopping Cart -->
             <div class="pull-right nav">
-                <a href="cart.php?a=view" class="quick-nav"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">View Cart (</span><span id="cartItemCount">0</span><span class="hidden-xs">)</span></a>
+                <a href="/cart.php?a=view" class="quick-nav"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs">View Cart (</span><span id="cartItemCount">0</span><span class="hidden-xs">)</span></a>
             </div>
 
-            
         </div>
 
         <a href="/index.php"><img src="/templates/qc/img/logo.png" alt="Register Domain"></a>
@@ -225,24 +214,24 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                         Support
                         &nbsp;<b class="caret"></b>        </a>
                     <ul class="dropdown-menu">
-                            <li menuitemname="Announcements" id="Primary_Navbar-Support-Announcements">
-                    <a href="/announcements">
-                                                Announcements
-                                            </a>
-                </li>
-                            <li menuitemname="Network Status" id="Primary_Navbar-Support-Network_Status">
-                    <a href="/network-status">
-                                                Network Status
-                                            </a>
-                </li>
                             <li menuitemname="Open Support Ticket" id="Primary_Navbar-Support-Open_Support_Ticket">
                     <a href="/new-support-ticket">
                                                 Open Support Ticket
                                             </a>
                 </li>
+                            <li menuitemname="Announcements" id="Primary_Navbar-Support-Announcements">
+                    <a href="/announcements">
+                                                Announcements
+                                            </a>
+                </li>
                             <li menuitemname="Knowledge Base" id="Primary_Navbar-Support-Knowledge_Base">
                     <a href="/knowledgebase">
                                                 Knowledge Base
+                                            </a>
+                </li>
+                            <li menuitemname="Network Status" id="Primary_Navbar-Support-Network_Status">
+                    <a href="/network-status">
+                                                Network Status
                                             </a>
                 </li>
                         </ul>
@@ -297,8 +286,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                 <!-- Container for main page display content -->
         <div class="col-xs-12 main-content">
                             <div class="header-lined">
-    <h2>Privacy Policy</h2>
-    <ol class="breadcrumb">
+        	<h1>Privacy Policy</h1>
+    	<ol class="breadcrumb">
             <li>
             <a href="index.php">            Home
             </a>        </li>
@@ -306,8 +295,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                         Privacy Policy
                     </li>
     </ol>
-</div>
-
+    </div>
             
 
 <div class="space-12"></div>
@@ -380,57 +368,57 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-12">
 						<h5>Domain Names</h5>
 												<ul class="list-unstyled">
-							<li><a href="domain-registration">Domain Registration</a></li>							<li><a href="domain-transfer">Domain Transfer</a></li>							<li><a href="domainchecker.php?search=bulkregister">Bulk Domains</a></li>
+							<li><a href="/domain-registration">Domain Registration</a></li>							<li><a href="/domain-transfer">Domain Transfer</a></li>							<li><a href="/domainchecker.php?search=bulkregister">Bulk Domains</a></li>
 						</ul>
 					</div>
 					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-12">
 						<h5>Products &amp; Services</h5>
 						<ul class="list-unstyled">
-							<li><a href="web-hosting">Web Hosting</a></li>
-							<li><a href="email-hosting">Email Hosting</a></li>
-							<li><a href="ssl-certificates">SSL Certificates</a></li>
+							<li><a href="/web-hosting">Web Hosting</a></li>
+							<li><a href="/email-hosting">Email Hosting</a></li>
+							<li><a href="/ssl-certificates">SSL Certificates</a></li>
 						</ul>
 					</div>
 					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-12">
 						<h5>Resellers</h5>
 						<ul class="list-unstyled">
-							<li><a href="resellers">Reseller Overview</a></li>
-							<li><a href="domain-reseller">Domain Reseller</a></li>
+							<li><a href="/resellers">Reseller Overview</a></li>
+							<li><a href="/domain-reseller">Domain Reseller</a></li>
 						</ul>
 					</div>
 					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-12">
 						<h5>Customer Support</h5>
 						<ul class="list-unstyled">
-							<li><a href="new-support-ticket">Open Support Ticket</a></li>
-														<li><a href="knowledgebase">Knowledge Base</a></li>
+							<li><a href="/new-support-ticket">Open Support Ticket</a></li>
+														<li><a href="/knowledgebase">Knowledge Base</a></li>
 						</ul>
 					</div>	
 					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-12">
 						<h5>Company</h5>
 						<ul class="list-unstyled">
-							<li><a href="about-us">About Us</a></li>
-							<li><a href="contact-us">Contact Us</a></li>
+							<li><a href="/about-us">About Us</a></li>
+							<li><a href="/contact-us">Contact Us</a></li>
 						</ul>
 					</div>
 					<div class="col-lg-2 col-md-2 col-sm-3 col-xs-12">
 						<h5>Legal</h5>
 						<ul class="list-unstyled">
-							<li><a href="terms-of-service">Terms Of Service</a></li>
-							<li><a href="domain-dispute-resolution">Domain Dispute Resolution</a></li>
-							<li><a href="acceptable-usage-policy">Acceptable Usage Policy</a></li>
-							<li><a href="privacy-policy">Privacy Policy</a></li>
-							<li><a href="http://ispa.org.za/code-of-conduct/" rel="nofollow" target="_blank"><img src="templates/qc/img/ispa.png"></a></li>
+							<li><a href="/terms-of-service">Terms Of Service</a></li>
+							<li><a href="/domain-dispute-resolution">Domain Dispute Resolution</a></li>
+							<li><a href="/acceptable-usage-policy">Acceptable Usage Policy</a></li>
+							<li><a href="/privacy-policy">Privacy Policy</a></li>
+							<li><a href="http://ispa.org.za/code-of-conduct/" rel="nofollow" target="_blank"><img src="/templates/qc/img/ispa.png"></a></li>
 						</ul>
 					</div>						
 				</div>
 
-    <p>Copyright © 2015 Register Domain. All Rights Reserved.</p>
+    <p>Copyright © 2016 Register Domain. All Rights Reserved.</p>
 </section>
 
 <script src="/assets/js/bootstrap.min.js"></script>
 <script src="/assets/js/jquery-ui.min.js"></script>
 <script type="text/javascript">
-    var csrfToken = '44b78f8e4119634ada05d0879246ff4d21777c80';
+    var csrfToken = '90fdeed30bf8ba0646c098e158d6c6ea6f9d8abc';
 </script>
 <script src="/templates/qc/js/whmcs.js"></script>
 
