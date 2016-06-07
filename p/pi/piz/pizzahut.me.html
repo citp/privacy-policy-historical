@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pizzahut.me privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207143410id_/http%3A//pizzahut.me/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pizzahut.me privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608001837id_/http%3A//pizzahut.me/policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -278,8 +278,8 @@ function close_all(){
 				<li><a href="http://pizzahut.me/our_story.php">our story</a></li>
 				<li><a href="http://pizzahut.me/nutrition.php">Nutrition</a></li>
 				<li><a href="http://pizzahut.me/contact.php">contact us</a></li>
-				<li><div class="form-group" style="padding-top: 20px; display: inline-block;" id="flags">
-						<span class="activecountry AE">&nbsp;
+<li><div class="form-group" style="padding-top: 20px; display: inline-block;" id="flags">
+					<span class="activecountry AE">&nbsp;
 							<ul class="dropdown" id="countries">
                                                                             <li onclick="getFlagVal(&quot;AE&quot;)" style="background:url(http://pizzahut.me//countriesFlags/8a1897a7446978518ff6d363e2525558.png) no-repeat;" title="United Arab Emirates"></li>
                                                                             <li onclick="getFlagVal(&quot;JO&quot;)" style="background:url(http://pizzahut.me//countriesFlags/748321200bb9f168d2a83c87e3a711a7.png) no-repeat;" title="Jordan"></li>
@@ -293,7 +293,7 @@ function close_all(){
                                     </ul>
 						</span>
 					</div></li>
-				<li><form name="search_form" id="myform" method="POST" action="http://pizzahut.me/search.php" style="float: right">
+<li><form name="search_form" id="myform" method="POST" action="http://pizzahut.me/search.php" style="float: right">
 						<div class="serch" style="margin: 25px 5px; position: relative;">
 							<input type="text" name="search" onblur="myFunction()" placeholder="Search">
 						</div>
@@ -656,13 +656,13 @@ function close_all(){
 					}
 				</style>
 				<script type="text/javascript">
-                    $('.dropdown-menu').mouseover(function (e) {
+                    jQuery('.dropdown-menu').mouseover(function (e) {
 
-                        $('.dropdown-menu').css('display', 'block');
+                        jQuery('.dropdown-menu').css('display', 'block');
                     })
-                    $('.dropdown-menu').mouseleave(function (e) {
+                    jQuery('.dropdown-menu').mouseleave(function (e) {
 
-                        $('.dropdown-menu').css('display', 'none');
+                        jQuery('.dropdown-menu').css('display', 'none');
                     })
                 </script>
 				<div id="socialmedia1" class="col-md-6">
@@ -705,7 +705,7 @@ function close_all(){
                     new WOW().init();
     </script>
 	<script type="text/javascript">
-        $('#options').flagStrap({
+        jQuery('#options').flagStrap({
             countries: {
                 "JO": "",
                 "AE": "",
@@ -727,9 +727,18 @@ function close_all(){
             var strurl = window.location.href;
             var n = strurl.indexOf("/en/");
             if (n == -1) {
-                window.location = 'http://pizzahut.me/dotranslate.php?country=' + val;
+                
+if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
+   location.replace('http://pizzahut.me/dotranslate.php?country=' + val);
+}else{
+window.location = 'http://pizzahut.me/dotranslate.php?country=' + val;
+}
             } else {
-                window.location = 'http://pizzahut.me/dotranslate.php?country=' + val + '&changeurl=' + document.URL;
+if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
+   location.replace('http://pizzahut.me/dotranslate.php?country=' + val + '&changeurl=' + document.URL);
+}else{
+window.location = 'http://pizzahut.me/dotranslate.php?country=' + val + '&changeurl=' + document.URL;
+}
             }
         }
         function change_language(lang, val) {
@@ -756,15 +765,20 @@ function close_all(){
         function refreshHeader(individualMeal) {
             window.location = 'http://pizzahut.me/dotranslate.php?individualMeal=' + individualMeal;
         }
-        $(document).ready(function (e) {
+        jQuery(document).ready(function (e) {
+ $(".activecountry").hover(function(){
+    $("#countries").show();
+  }, function(){
+    $("#countries").hide();
+ })
             topbarfixed();
-            $(window).resize(function () {
+            jQuery(window).resize(function () {
                 topbarfixed();
             })
         });
         function topbarfixed() {
-            var width = $(".header").width();
-            $(".header-background").css({'width': width + 'px'});
+            var width = jQuery(".header").width();
+            jQuery(".header-background").css({'width': width + 'px'});
         }
     </script>
 	<div id="fb-root"></div>
