@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motdgd.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204124840id_/http%3A//motdgd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motdgd.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607230255id_/http%3A//motdgd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MOTDgd
 
@@ -26,7 +26,8 @@ We may use the information Users provide about themselves when placing an order 
 – To run a promotion, contest, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
 – To send periodic emails  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.  
+– We will not use phone numbers for marketing purposes, or pass phone numbers onto other individuals or companies for such a purpose.
 
 **How we protect your information**  
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
@@ -36,6 +37,11 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Third party websites**  
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+**Agreement with RingCaptcha (for phone verifications)  
+**RingCaptcha have explicity stated they do not plan on sharing or using encrypted phone numbers for marketing purposes or any other purpose. As described in their TOS, phone numbers are only analysed for fraud and service abuse prevention, and can only be used for debugging purposes if required for 7 days only.
+
+MOTDgd equally will not use any phone numbers gathered for marketing, nor will they pass them to other firms or individuals, outside the RingCaptcha agreement. RingCaptcha verification is purely for security only.
 
 **Advertising**  
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.
