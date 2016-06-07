@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northstarattahoe.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208142010id_/http%3A//www.northstarcalifornia.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northstarattahoe.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607082725id_/http%3A//www.northstarcalifornia.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | northstarcalifornia.com
 
@@ -55,7 +55,7 @@ Personal information collected on any of the Sites may be shared with other memb
 We may occasionally feature web pages on which you can register for special promotions or services provided in conjunction with our business partners. When we feature pages like these on our Sites, we will give you a clear notice that you are providing information to another party. We may also arrange to send you marketing and promotional information of other reputable companies that we think might be of interest to you, only if you tell us that you want to receive these sorts of materials. We do not share your personal information with these companies.
 
 **_In Connection with Corporate Events._**  
-If some or all of the business assets of one of our ompanies or Sites are sold or transferred, we generally would transfer the corresponding information regarding our guests and customers to the acquiring business so that they can continue to operate the business, but your information would remain subject to this Policy.
+If some or all of the business assets of one of our companies or Sites are sold or transferred, we generally would transfer the corresponding information regarding our guests and customers to the acquiring business so that they can continue to operate the business, but your information would remain subject to this Policy.
 
 **_In Special Circumstances._**  
 In certain special cases, we may disclose your personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you, Vail Resorts or someone else. We may also disclose your personal information when we believe the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case, administrative investigation or investigation conducted by Vail Resorts.
@@ -116,7 +116,7 @@ If you have questions about this Privacy Policy or the practices of our Sites, p
 The Vail Corporation dba Vail Resorts Management Company  
 390 Interlocken Crescent, Suite 1000  
 Broomfield, CO 80026  
-1-800-842-8062  
+970-754-0020  
 [comments@vailresorts.com](mailto:comments@vailresorts.com?subject=Contact%20Us%20via%20Privacy%20Policy)
 
 **Effective Date of this Privacy Policy**
