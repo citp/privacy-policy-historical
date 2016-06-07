@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addyourlinksfree.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207115858id_/http%3A//www.addyourlinksfree.com/Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addyourlinksfree.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608002924id_/http%3A//www.addyourlinksfree.com/Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.addyourlinksfree.com
 
