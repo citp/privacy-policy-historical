@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nighthelper.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207200429id_/http%3A//www.nighthelper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nighthelper.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607163512id_/http%3A//www.nighthelper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy! - Night Helper
 
@@ -75,3 +75,5 @@ It is our policy to provide notifications, whether such notifications are requir
 **Changes to Our Privacy Policy**
 
 If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it, and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
+
+[](https://www.pinterest.com/pin/create/button/)
