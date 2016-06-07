@@ -1,43 +1,84 @@
-> *The following text is extracted and transformed from the otweak.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134156id_/http%3A//www.otweak.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otweak.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607075253id_/http%3A//www.otweak.com/privacypolicy) for the most accurate reproduction.*
 
 # oTweak Software - Privacy Policy
 
-| 
+Privacy and Cookies Policy
 
-oTweak Software Privacy Policy
+oTweak Software is committed to safeguard the privacy of its customers and individuals who make use of our online facilities. This policy provides you with information about what data we collect and how this data is processed by us.
 
 **Collection and use of information**
 
-In order to provide our full range of services, we may collect the following types of information:
+In general, you can visit the oTweak Software website/s (the 'Websites') without telling us who you are or giving any personal information about you. Information which we collect may be used:
 
-Use of cookies - When you visit www.oTweak.com, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user account details, preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, www.oTweak.com features and services may not function properly if your cookies are disabled.
+\- to communicate with you and fulfill your requests for our products or services,  
+\- improve our products or services where possible,  
+\- to fulfill the purpose for which you provided the information,  
+\- for customer service purposes,  
+\- for marketing and promotional purposes, including remarketing,  
+\- to conduct research,  
+\- to provide information that we believe may be of interest to you,  
+\- to enforce the legal terms that govern your use of our Websites, and/or for the reasons specific to the type of collection of information.
 
-Log information - When you use www.oTweak.com, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+We may also collect and store certain types of data as described in more detail below. 
 
-www.oTweak.com processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We only process personal information to provide our own services.
+**Cookies**
 
-**Choices for personal information**
+**1\. Cookies and Web Beacons** \- When you visit our Websites, we or our service providers, advertisers or partners, may send one or more cookies to your computer or use web beacons to improve the quality of our service by analyzing traffic pattern, tracking user trends and conducting optional research surveys. A cookie is a small file containing a string of characters that uniquely identifies your browser and a web beacon is a single pixel or clear GIF which are small pieces of code placed on a web page. Most browsers are initially set up to accept cookies and similar technologies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Web beacons may also be disabled by disabling JavaScript on your computer. However, alteration of such settings may affect the functionality of our Websites. For more information on how to disable cookies, you may visit www.aboutcookies.org.
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+**2\. Third party cookies**
 
-If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent.
+Third party cookies are cookies from another domain (not from oTweak Software Websites). We don’t control the content of these cookies. Therefore, please review information about the cookies from the third-party websites. Examples of third parties who set cookies on oTweak Software Websites include:
+
+**2A. Advertising networks**
+
+These are advertising networks used to deliver interactive advertising campaigns on partner websites. These cookies track the types of content you have viewed to ensure adverts are as relevant to you as possible.  
+Google Analytics - http://www.google.com/analytics/learn/privacy.html , Opt-out: https://tools.google.com/dlpage/gaoptout/  
+Google AdSense - https://www.google.com/intl/en/policies/privacy/ , Opt-out: https://www.google.com/settings/u/0/ads/authenticated?hl=en 
+
+**Third Party Advertising Technologies:**
+
+This may include third party cookies placed on the oTweak Software Websites to deliver tailored information and content which may be of interest to you, such as promotions or offerings, when you visit third party websites after you have left our Websites. These third party companies may deliver advertisements and/or promotions that might also place cookies and otherwise track user behaviour. We do not permit these third parties to collect personal information about you (such as email address) on our Websites, nor do we share with them any personal information about you. 
+
+**Log information** \- When you visit our Websites, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies as explained above. 
+
+**Electronic notices and Promotional Emails** \- We may provide you with information and notices regarding the oTweak Software products, applications, surveys, promotional emails, offers or other information which may be of use or interest to You, via the email address you designate in the payment process, when you sign up for our newsletter or when you sign up to some of our free services. 
+
+We may also send you transactional, technical or other service notifications from time to time. These messages are sent only to individuals who have purchased our products or services and are essential to maintain the functionality of same, so there is no opt-out available for this type of notifications. 
+
+We do not share your email address with any third party, and we process and store such personal information in accordance with the terms of this Policy. 
+
+**oTweak Software Products** \- Whilst in use, the oTweak Software products may collect some information from your computer (e.g. frequency of use, system name, Windows version and browser type, IP address, installed devices and date of installation). In some products, we also make use of in-product analytics services provided by third parties. These third parties may collect some information regarding your activity when making use of the oTweak Software Products but will not collect any personally identifiable information about you. Note that if your IP address is collected by oTweak Software, this is only used to generate aggregate statistics and is not used in a way that leads to identify you personally. 
+
+When you purchase a oTweak Software product from the oTweak Software Websites, you will be required to provide personal information (including your credit card details) to one of our trusted third party retailers. Information you provide to the retailer will be processed in accordance with its privacy policy and you are therefore advised to review such policy prior to purchase. The retailer may share your personal information with us, including but not limited to details on the purchase and any other personal information necessary for authentication of license, statistical, notification, as well as support and payment-related services. You may also access your purchase details remotely by submitting a request on our Support Website. 
 
 **Information sharing**
 
-www.oTweak.com only shares personal information with other commercial projects from oTweak Software upon obtaining the user’s consent. We require opt-in consent for the sharing of any personal information.
+oTweak Software will only use your personal information for the purposes which are specified in this policy. 
 
-**Information security**
+We may engage third party service providers that assist us in providing or improving our services as explained above and we might need to share some personal or other data with them to enable them to do so. These service providers are either subject to this privacy policy or follow practices that offer an equivalent level of protection and may be located outside the EU. Your information may also be transferred to another company in the event of sale of our company to a third party. We will not sell or rent your personal information to third parties for marketing purposes without your consent. 
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+To further improve our products and the service we offer to you, we may also need to divulge certain information collected by our products to third party partners and/or suppliers. In any case, we will only provide anonymous or non-personally identifiable information to such third parties. We will not sell or rent your personal information to third parties for marketing purposes without your consent. 
 
-We restrict access to personal information to oTweak Software employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+**Information processing and security**
+
+oTweak Software processes personal information. Information is retained on our servers in the United States and in other countries. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data held by us.
 
 **Data integrity**
 
-oTweak Software processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. You are therefore kindly requested to inform us of any change referring to your personal data held by us. You have the right to access the personal information that we may hold about you, to rectify this data or object to the storage of the data for legitimate purposes by contacting us at http://www.otweak.com/company/contactus/.
+
+**Privacy of business partners**
+
+Our Websites and our newsletter may include various links to third party websites or promote third party products. We are not responsible for the privacy practices of such third parties in any way. We strongly suggest that you refer to their privacy policy before accessing any website or making any purchase so that you are aware of the applicable practices and thus be able to make an informed decision about your actions and/or transactions.
+
+**Social Media Features and Widgets**
+
+The oTweak Software Websites may include social media features, such as Facebook’s ‘Like’ button, and widgets, such as the ‘Share This’ button, or interactive mini-programs that run on our Websites. These features are usually recognisable by their third party brand or logo and may collect your IP address, which page you are visiting on our Websites, and set a cookie to enable the feature to work properly. Social media features and widgets are either hosted by a third party or hosted directly on our Websites. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+**Children**
+
+The oTweak Software Websites are not aimed at children and we do not knowingly collect any personal information from children. Minors should not use these Websites unless supervised by an adult.
 
 **Changes to this policy**
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
-
-| 
+Please note that this policy may change from time to time. All updates will be published on the oTweak Software Websites and, if the changes are significant, the changes will be posted on the Websites and on this page thirty days prior to taking effect. Each version of this policy will be identifiable at the top of this document by its effective date. We encourage you to refer to this policy periodically.
