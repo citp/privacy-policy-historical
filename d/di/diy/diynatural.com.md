@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diynatural.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107201400id_/http%3A//www.diynatural.com/privacy-policy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diynatural.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607185717id_/http%3A//www.diynatural.com/privacy-policy-terms) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
