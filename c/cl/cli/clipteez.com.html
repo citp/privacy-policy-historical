@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the clipteez.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207214309id_/http%3A//clipteez.com/info.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clipteez.com privacy policy that was archived on 2016-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607233502id_/http%3A//clipteez.com/info.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="/webicons/clipteez/favicon.ico">
 
     <link rel="stylesheet" href="/css/jquery-ui.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link rel="stylesheet" type="text/css" href="/css/dave.css">
+    <!--<link rel='stylesheet' type='text/css' href='/css/dave.css'>-->
     <!--<link rel='stylesheet' type='text/css' href='/css/font-awesome.min.css'>-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
@@ -24,8 +24,19 @@
       </script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="/js/plupload.full.min.js"></script>
     
-    
+    <script type="text/javascript">
+<!--
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
+//-->
+</script>
     
     <script src="/js/jquery.autosize-min.js"></script>
     <script src="/js/jqueryDesign.js"></script>    
@@ -34,7 +45,15 @@
         
 <script>$(document).ready(function() {
  
-
+	    $('#memberAC').autocomplete({
+		source:'autocomplete.php?search=username', 
+		minLength:3
+	    });
+	    $('#ipAC').autocomplete({
+		source:'autocomplete.php?search=ip', 
+		minLength:3
+	    });
+	    $( document ).tooltip();
 
             $(function(){
             $(window).resize(function(){
@@ -65,7 +84,7 @@ setTimeout(fade_out, 2000);</script>
 <section class="headercontainer">
 	<div class="header">
 		  <span class="logo" onclick="location.href='/'">ClipTeez</span> 
-<form method="post" action="/search.php" class="searchfield" style="margin:3px 0px 0px 20px;"><input type="text" id="search" name="search" placeholder="Search..."></form><div id="loginbutton" class="headerlogin headerbutton"><i class="fa fa-sign-in"></i> <span class="desktop">LOG IN</span></div><div id="registerbutton" class="headerlogin headerbutton" "=""><i class="fa fa-pencil"></i> <span class="desktop">REGISTER</span></div>	</div>
+<form method="post" action="/search.php" class="searchfield" style="margin:3px 0px 0px 20px;"><input type="text" id="search" name="search" placeholder="Search..."></form><div id="loginbutton" class="headerlogin headerbutton"><i class="fa fa-sign-in mobile" title="Log In"></i> <span class="desktop">LOG IN</span></div><div id="registerbutton" class="headerlogin headerbutton" "=""><i class="fa fa-pencil mobile" title="Register"></i> <span class="desktop">REGISTER</span></div>	</div>
 </section>
 <section class="maincontentcontainer">
     <div class="maincontent">
@@ -79,7 +98,8 @@ setTimeout(fade_out, 2000);</script>
                 <div class="navitem"><a href="info.php?page=whysell">Why open a studio here?</a></div>
                 <div class="navitem"><a href="info.php?page=whybuy">Why buy here?</a></div>
                 <div class="navitem"><a href="info.php?page=FAQ">FAQ</a></div>
-                <div class="navitem"><a href="info.php?page=DMCA">DMCA</a></div>
+		<div class="navitem"><a href="info.php?page=changelog">Change Log</a></div>
+                <div class="navitem"><a href="info.php?page=Copyright">Copyright</a></div>
                 <div class="navitem"><a href="info.php?page=privacy">Privacy Policy</a></div>
                 <div class="navitem"><a href="info.php?page=terms">Terms and Conditions</a></div>
                 <div class="navitem"><a href="info.php?page=refund">Refund Policy</a></div>
@@ -140,14 +160,14 @@ setTimeout(fade_out, 2000);</script>
 	</noscript>
             <input type="submit" value="Register" class="loginbutton">
             </form>
-          </div> <section class="footercontainer"><div class="footer"><p style="float:left; position:absolute; top:-4px;"><img src="/images/ateezmediacompany.png"></p><p style="float:right"><a href="https://twitter.com/intent/follow?screen_name=clipteez" class="twitter-follow-button" data-show-count="false"><i class="fa fa-twitter"></i>Follow us!</a><a href="registerstudio.php">Start your Studio</a>
-	    <a title="The server is fully available, your videos will be processed immediately" style="color: lime; cursor:help;">Server Status</a>
-            <a href="testimonials.php">testimonials</a>
-            <a href="info.php?page=terms">about us</a>
-            <a href="info.php?page=terms">terms &amp; conditions</a>
-            <a href="info.php?page=DMCA">DMCA</a>            
-            <a href="info.php?page=privacy">privacy policy</a>
-            <a href="info.php?page=contact">Contact us</a>
+          </div> <section class="footercontainer"><div class="footer"><p class="tmlogo">©2016&nbsp;&nbsp;<img src="/images/ateezmediacompany.png"></p><p style="float:right"><a href="/registerstudio.php"><i class="fa fa-star mobile"></i><span class="desktop" title="Start your Studio"> Start your Studio</span></a> <a href="https://twitter.com/intent/follow?screen_name=clipteez" class="twitter-follow-button" data-show-count="false"><i class="fa fa-twitter mobile"></i><span class="desktop">Follow us!</span></a>
+	    <a title="The server is fully available, your videos will be processed immediately" style="color: lime; cursor:help;"><i class="fa fa-server mobile" title="Testimonials"></i> <span class="desktop">Server Status</span></a>
+            <a href="/testimonials.php"><i class="fa fa-comment-o mobile" title="Testimonials"></i> <span class="desktop">Testimonials</span></a>
+            <a href="/info.php?page=about"><i class="fa fa-building-o mobile" title="About Us"></i> <span class="desktop">About Us</span></a>
+            <a href="/info.php?page=terms"><i class="fa fa-legal mobile" title="Terms and Conditions"></i> <span class="desktop">Terms and Conditions</span></a>
+            <a href="/info.php?page=Copyright"><i class="fa fa-copyright mobile" title="Copyright Violation (Auteursrechtenschending)"></i> <span class="desktop">Copyright</span></a>
+            <a href="/info.php?page=privacy"><i class="fa fa-cloud mobile" title="Privacy Policy"></i> <span class="desktop">Privacy Policy</span></a>
+            <a href="/info.php?page=contact"><i class="fa fa-envelope-o mobile" title="Contact Us"></i> <span class="desktop">Contact us</span></a>
             
           </p></div></section>
 </body></html>
