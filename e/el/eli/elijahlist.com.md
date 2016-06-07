@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elijahlist.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207091845id_/http%3A//www.elijahlist.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elijahlist.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607212311id_/http%3A//www.elijahlist.com/privacy_policy.html) for the most accurate reproduction.*
 
 # The ElijahList - Privacy Policy
 
@@ -50,8 +50,7 @@ In an attempt to provide you with increased value, we may include third party li
 
 **Changes to our policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change.  
-
+If we decide to change our privacy policy, we will post those changes on this page.
 
 **Questions and feedback**
 
