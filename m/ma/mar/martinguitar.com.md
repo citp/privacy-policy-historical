@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the martinguitar.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206215033id_/http%3A//martinguitar.com/component/content/article.html%3Fid%3D220) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinguitar.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607072939id_/https%3A//www.martinguitar.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Martin Guitar | C.F. Martin & Co.
-
-##  Privacy Policy 
+# Privacy Policy
 
 ### C. F. Martin & Co., Inc.’s  
 Online Privacy and Security Statement
