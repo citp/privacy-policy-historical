@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchwarp.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207034546id_/http%3A//searchwarp.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchwarp.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608005644id_/http%3A//searchwarp.com/Privacy) for the most accurate reproduction.*
 
 # siteName Privacy Policy
 
