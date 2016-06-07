@@ -1,88 +1,87 @@
-> *The following text is extracted and transformed from the lacrosse.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208103213id_/http%3A//www.uslacrosse.org/about-us-lacrosse/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrosse.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607123135id_/http%3A//www.uslacrosse.org/about-us-lacrosse/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you feel that we are not abiding by our posted privacy statement, you should first contact Sara Noon, Managing Director of Membership, at [snoon@uslacrosse.org](mailto:snoon@uslacrosse.org) or at 410.235.6882 ext. 114.
+This Privacy Policy applies to activities of USL and to persons visiting the Site, signing up for USL publications and mailings, or entering into transactions with the USL, and covers the collection, use, storage and disclosure of information and data as described in this Privacy Policy. By accessing or using the Site and/or providing any personal information to us, you are accepting the practices described in this Privacy Policy. If you do not accept these practices, you must not access or use the Site or provide us with your personal information. We may change or add to this privacy policy, so we encourage you to review it periodically. 
 
-#### The organization collecting the information.
+### Consent to transfer personal information to the United States
 
-US Lacrosse (USL) is the sole owner of the information collected on its sites and through other means. We will not sell, share, rent, or otherwise disclose this information to other parties other than as disclosed in this statement.
+If you reside outside of the United States, your personal information will be transferred to the U.S. and processed and stored in the U.S. By accessing or using the Site or the App, or providing any personal information to us, you are accepting the practices described in this Privacy Policy and the Website Terms of Use and consent to the transfer, processing, and storage of your personal information in the U.S. 
 
-Please be aware that www.uslacrosse.org contains links to other sites and that USL is not responsible for the privacy policies of other sites. We encourage our users to take appropriate precautions when leaving our site and read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+### What information does the Site collect and how is the information used?
 
-#### What personally identifiable information is collected from you through our web site and how is it used?
+Personal information is data that can be used to identify or contact an individual. You do not have to provide any personal information to read the content of our Site. However, you will provide personal information when submitting a donation, signing up to attend an event, registering for clinics, applying to become a member, creating an USL account, purchasing merchandise, or contacting us for more information. Some examples of personal information we collect include: your name, mailing address, e-mail address, and phone number. When you make a donation or sign up for an event, we ask for your name, address, e-mail address, phone number, and credit card information (i.e., card type, number, security code and expiration date). Credit card payment processing is handled by a third party and is subject to the third party’s privacy policy. USL does not store credit card data provided to the third party for credit card payment processing. The purchase of US Lacrosse and Team USA branded merchandise is also processed through a third party website and is subject to the third party’s privacy policy. 
 
-USL collects membership information from our users at several different points throughout our web site and from other sources. This section describes these points of collection.
+We use your personal information for our internal business operations such as to process your donation, provide our programs and services, and/or to respond to your request for information. We may also use the information to contact you if there is a problem with your donation, for feedback on our services, and/or to contact you for marketing purposes. For example, you may receive periodic e-mails, direct mailings or telephone calls from us with information on our upcoming events. If you do not wish to receive such mailings or calls, please let us know by sending an e-mail to the address below or click “unsubscribe” as instructed in any email from us. 
 
- **Membership Registration**  
-In order to become a member of USL, an applicant must first complete a membership registration form. During registration an applicant is required to give contact information such as name, address, phone number, e-mail address, date of birth and classification. This information is used to create a membership card and to contact the member about topics in which he/she has expressed an interest. All information is required unless otherwise stated on the membership form. This privacy policy governs both members who apply online or otherwise. Financial information is never shared inside or outside our organization, except as necessary to process membership.
+We are the sole owner of any and all information collected through the use of the Site. 
 
- **Event Registration**  
-In order to register for an event through a USL web site, an entrant is required to give contact information such as name, address, phone number, and e-mail address, as well as information about his/her event(s)—which may include age, etc. USL sends information about entrants (such as name, age, address, event entered, etc.) to event management personnel so they can properly and accurately prepare team lists and conduct the event.
+### Do we collect information from children under age 13? 
 
- **Merchandise Order**  
-We request information from customers on our merchandise forms. A customer must provide contact information (such as name and shipping address) and financial information (such as credit card number and expiration date). This information is used to fill customers' orders and process payment. If we have trouble processing an order, this contact information is used to get in touch with the customer. Customers' names and addresses may be shared with third parties necessary to process, fulfill, or ship orders. Financial information is never shared inside or outside our organization, except as necessary to process the order.
+Our website is intended for a general audience and is not directed to children under the age of 13. We do not knowingly collect personal information from children under the age of 13, and require any information regarding children under 13 to be provided by parents. Please contact us at info@uslacrosse.org if you suspect that we have collected information from children under the age of 13. If we learn that we have collected the personal information of a child under 13 without verifiable parental consent, we will take steps to delete the information as quickly as possible. 
 
- **Contests and Surveys**  
-From time to time, we conduct contests or surveys. Participation in these contests or surveys is completely voluntary, and thus the user has a choice about whether or not to disclose the information requested.
+### Does the Site use cookies or tracking technology?
 
- **Log Files**  
-We use standard server log files to analyze trends, administer the site, and gather broad demographic information for aggregate use. This log file information is not linked to personally identifiable information, and all information gleaned from log files is used only in the aggregate.
+USL’s website uses cookies and other technologies for the purposes explained below. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy. 
 
- **Other Collection Points**  
-We may also collect information from people through other means such as the telephone, by e-mail, by fax, on paper, and in person. This privacy policy governs the use and disclosure of that information as well.
+Cookies are text files containing small amounts of information that are placed on your device’s browser that are used to help the Site recognize your browser in the future and to track your interaction with the Site. Cookies are stored on your device or in local storage. Cookies are useful because they make using the Internet easier by, among other things, saving your passwords and preferences for you. Some cookies (“session” cookies) expire and are automatically deleted when you close your browser, while others (“persistent” cookies) do not expire and are not automatically deleted. We may use cookies for purposes, including but not limited to, delivering content specific to your interests, tracking and analyzing Site usage and browsing activity, making your visit to the Site easier by recognizing you when you return, and other purposes as determined by USL. You can enable your browser to refuse cookies, but certain features of the Site may not work as intended or may be slowed if you decline to accept cookies. For information on configuring your browser to decline cookies, check your browser’s “help” feature. 
 
-#### With whom may the information be shared and other kinds of disclosures.
+We may also use web beacons, clear gif technology, action tags or other technologies to collect aggregate Site visitation data by tracking how users navigate to and through the Site. We may also use this technology to track the delivery of HTML email messages. Web beacons cannot be declined when delivered using a regular web page, but they can be refused when delivered by email. If you do not wish to receive web beacons by email, you will need to disable HTML images or select text only for emails received with your email software. 
 
-We occasionally share information with other USL entities and third parties. This section describes what information we share and with whom.
+We may also track activity on our Site using log files stored on our servers, and collect information, including IP addresses, browser types and versions, geographic information, pages viewed and devices used to interact with the Site. We may use this information to personalize your experience and to administer our Site. 
 
- **Sharing with USL entities**  
-USL Chapters receive reports about members in their chapters, including name, address, phone, e-mail address, etc. This information is used to contact members about general-interest matters and specialized topics in the same manner as described in Section 2 above. Chapters may occasionally share aggregated demographic information with their partners and advertisers. Again, this is not linked to any personal information that can identify any individual person.
+Some web browsers may transmit “do not track” signals to the websites with which the browser communicates. There is no standard that governs what, if anything, websites should do when they receive these signals. We do not currently take action in response to these signals. We may revise this policy if and when a standard for responding to these signals is established. 
 
-USL Chapters are required to abide by the national USL privacy policy. Certain chapters may have their own privacy policies, but these will always be more restrictive, never less, than the national policy. In the event that a chapter has a more restrictive policy, that chapter's policy will apply to the individual chapter. In this event, please refer questions first to the chapter, then to the national office.
+We may monitor email correspondence and telephone calls to track reported problems and to ensure quality assurance. Similarly, we monitor web traffic in the aggregate for the purposes of evaluating marketing campaigns and content improvement. 
 
- **Sharing with non-USL third parties**  
-For elite athletes, we also share information from your profile and other sources with the United States Anti-Doping Agency (USADA), the International Olympic Committee (IOC), and the International Lacrosse Federation (ILF) and the International Federation for Women's Lacrosse Association (IFWLA) for administrative purposes. This helps athletes avoid re-entering their information for each organization. These organizations' respective privacy policies govern the use of your information for their purposes.
+We may use a web analytics service, such as Google Analytics, to record and analyze your activity on this Site. The Site or any such service may track your browsing across web sites that use the same service and may collect demographic data, including the type of computer or operating system, location of user (e.g., city, state, country) and gender. 
 
-USL occasionally enters into partnerships with other organizations to provide valuable services to the lacrosse community. When USL provides the services or collects information from such services, this privacy statement will govern the use of such information for the partnership.
+Our Site may include social media features such as the Facebook “like” button, widgets or interactive mini-programs that run on our Site. These features may collect your IP address, browsing information and may set a cookie to enable the feature to function properly. Your interactions with these features are governed by the privacy policy of the party providing it. 
 
-When someone signs up for an event, we pass on the necessary information (name, address, age) to the event management personnel. These parties are not allowed to use personally identifiable information except for the purpose of entering the person in the event. However, this information may be used to create programs, and results for the event which may include entrants' name, home city and state, age, etc. USL has advised event management personnel that if they plan to use this information for purposes other than entering a person in the event, they must notify USL. USL will in turn notify entrants, and entrants will have the option of being excluded from such other purposes at the time of registration.
+### To whom do we disclose information? 
 
-We use an outside shipping company to ship orders, and an outside printing company to print certain publications, and a credit card processing company to bill users for goods and services. These companies are directed not to retain, share, store, or use personally identifiable information for any secondary purpose.
+Except as provided in this Policy, we will not knowingly sell, share or rent your personal information to any third parties without your permission. The information that we collect is generally used for internal purposes such as fulfilling your requests for information, processing your transactions, verifying membership status, compiling usage statistics regarding the Site, and analyzing visitor preferences regarding our services and events. USL may share information, including personal information with its employees, contractors, and affiliated organizations, such as Chapters, for the purpose of carrying out general USL business operations. For example, we use third party services to assist us in securely processing your credit card orders or donations and may share information with Chapters or third party service providers for the purpose of verifying US Lacrosse membership. We may also share personal information and non-personally identifiable information with third parties, including Chapters of USL, that help manage and maintain our website and databases and with third parties who assist us with event registration, direct mailing, email communications, and other business operations. We strive to ensure that any such parties will provide at least the same level of protection as this Privacy Policy offers. However, we are not responsible for the privacy practices of third parties and do not guarantee that these third parties have similar privacy practices. 
 
-We occasionally share aggregated demographic information with our corporate sponsors, suppliers, partners, and advertisers. This is not linked to any personal information that can identify any individual person.
+We will divulge personal information to courts, law enforcement and other governmental agencies and third parties when required to do so or when we in good faith believe it is necessary in order to comply with legal obligations 
 
-From time to time, we also provide postal, phone and e-mail lists to USL corporate partners for the specific purpose of offering discounts or programs which we think might be of interest to our members. These companies will be provided information through a bonded membership is directed not to use these mailing lists for any other purposes or to disclose them to any third party. Members may opt out of inclusion in such lists by contacting us at uslacrosse@uslacrosse.org.
+In the event that this Site or substantially all of our assets are acquired, merged or reorganized, user information may be transferred to another party. 
 
-We will also share information to prevent fraud, to respond to legal process, or otherwise as required by law.
+USL shares with lists containing the names and mailing addresses of members with third party sponsors for the purpose of providing exclusive promotional offers. You may request that USL not provide your information to third parties for their marketing purposes by sending a written request to the mailing address below or to info@uslacrosse.org 
 
- **Other kinds of disclosures of personal information**  
-USL employees, may have their name, address, fax number, phone number, and e-mail (work and/or home for each) listed both on the web site and in print for contact purposes. Any person who accepts an official position with USL agrees to have his/her contact information made available to USL’s members and the public.
+### What are the privacy policies of linked sites and other third parties?
 
-Elite athletes and Hall of Famers may have their biographies posted on the USL web site or otherwise published by USL. These people agree to have certain information about themselves communicated to the public, including, but not limited to, name, home city and state, age, educational background, etc. The names of elite athletes who are subject to drug testing may also be posted on our web site and reported to the media.
+The USL Site uses third parties to process credit card payments and merchandise sales, and the USL Site also contains links to other sites. This Privacy Policy only addresses the use and disclosure of information we collect from you. Although you may link to other sites or third parties via the Site, we are not responsible for the privacy practices of third parties or the content of linked sites that are not programs of USL. We encourage our website visitors to be aware when they leave our site and to read the privacy policies of each and every website that collects personally identifiable information. 
 
- **Children**  
-In cases where USL collects personally identifiable information from children under the age of 18, we require parental consent before collection is completed. For example, the USL membership application requires a parent's or guardian's "signature" before it will be accepted. The signature on the application evidences the parent's or guardian's consent to have the child's information used as an aggregate collection. Individual information about children under 18 will not be shared; however information regarding their parents (name, address, e-mail, and phone) can be shared and are subject to this policy.
+### Who may see the information I post to various areas of the USL site?
 
-#### The kind of security procedures that are in place to protect the loss, misuse, or alteration of information under USL's control.
+You also may provide information to be published or displayed on the US Lacrosse Blogblog, or other public areas of the website, or transmitted to other users of the website or third parties (collectively, “User Contributions”). You are solely responsible for your communications and consequences for posting those communications. You provide User Contributions and transmit them to others at your own risk. We cannot control the actions of other users of the website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons. USL does not warrant the information transmitted through User Contributions. 
 
-USL takes every reasonable precaution to protect users' information: however USL can not guarantee that your information is 100% secure. When users submit sensitive information, the information is protected both on- and off-line.
+### How can you access or correct your information? 
 
-When registration forms ask users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with industry-standard encryption software (SLL). While on a secure page, such as our membership application, the lock icon at the bottom of web browsers (i.e. Netscape Navigator, Microsoft Internet Explorer) appears locked. If not locked, any information a user submits is not secure, and USL will not be responsible for the loss or theft of such information.
+You may view, correct or update the personal information we have about you by sending a request to the mailing address or the e-mail address listed below. Individuals with a USL account may correct or update the personal information within the USL system by logging into their account. Others who may want to correct or update their personal information may do so by contacting us by email, mail or phone using the contact information below. If we use any of your personal information in a manner that you believe is inconsistent with this Privacy Policy, please contact us so that we may correct such inconsistency. To change your date of birth you must contact member services by phone at 410-235-6882 extension 102. 
 
-While we use SSL encryption to protect sensitive information online, we also make every reasonable effort to protect users' information off-line. Access to users' information, not only the sensitive information mentioned above, is restricted in our organization. Only those employees who need the information to perform their job are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices and are reminded about the importance we place on privacy. 
+### How may this privacy statement be amended?
 
-USL makes every reasonable effort to safeguard sensitive information by regularly reviewing our security standards and practices to protect against unauthorized access. If you have any questions about the security of our web site, you can send an an e-mail to [blogue@uslacrosse.org](mailto:blogue@uslacrosse.org).
+From time to time, we may make changes to our information practices or alter the functionality of the Site. If we decide to change our Privacy Policy, we will post a notice of those changes on our home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. When we make updates, we will change the “last updated” date below. We encourage you to periodically review this page and the Site’s home page for the latest information on our privacy practices for this Site. 
 
-#### What choices are available to you regarding collection, use, and distribution of the information and how you can correct any inaccuracies in the information.
+### What security measures does the Site employ?
 
- **Choice and opting in/out**  
-We send all new members a welcoming e-mail to confirm their membership status. Members may opt out of various mailings by following the instructions provided at the bottom of e-mail messages, or by contacting our Membership Services group either by e-mailing us at [uslacrosse@uslacrosse.org](mailto:uslacrosse@uslacrosse.org) or by calling 410.235.6882 ext. 102.
+The security of your personal information is important to us. We employ various security measures to protect against the loss of information that the Site collects. However, you should keep in mind that this Site is run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security. No method of transmission over the Internet or method of electronic storage is 100% percent secure and we cannot guarantee absolute security. You are solely responsible for maintaining the confidentiality of your username and password and are responsible for any unauthorized use. 
 
- **Correction/Updating Personal Information**  
-If a user's personally identifiable information changes (such as your address, phone, e-mail address, etc.), this can be changed by the user by contacting the Membership Services department at the US Lacrosse national office.
+### Your California Privacy Rights:
 
-For elite athletes, biographies are updated throughout the year, and any inaccuracies may be corrected by notifying Brian Logue, Director of Communications at [blogue@uslacrosse.org](mailto:blogue@uslacrosse.org). Such changes will be reflected in the next release of the athlete biographies.
+As stated above, anyone, including California residents, may request that we not share their information with third parties for the third party’s own marketing purposes by sending a written request to the mailing address or the email address listed below. 
 
- **Notification of Changes**  
-If USL changes its privacy policy, we will post a notice of the change on our homepage for at least seven days so users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point USL decides to use personally identifiable information in a manner different from that stated at the time it was collected, users will have a choice whether to opt-out from such use. 
+### How can you contact us?
+
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact us by mail, e-mail or phone at: 
+
+**Mailing address:**  
+US Lacrosse   
+113 W. University Parkway   
+Baltimore, MD 21210 
+
+E-mail address: [info@uslacrosse.org](mailto:info@uslacrosse.org)  
+Telephone: (410) 235-6882 
+
+_Last Updated: March 4, 2016_
