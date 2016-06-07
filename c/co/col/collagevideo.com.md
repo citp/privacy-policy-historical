@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the collagevideo.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208015116id_/http%3A//www.collagevideo.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collagevideo.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608003249id_/http%3A//www.collagevideo.com/pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – Collage Video
+
+## Privacy Statement for Collage Video
 
 Collage Video has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for the Web site www.collagevideo.com. 
 
@@ -24,8 +26,9 @@ You can send email to collage@collagevideo.com 
 
 You can send mail to the following postal address:   
 Collage Video   
-107 Pink Street  
-Hackensack, NJ 07601 USA   
+210 West Parkway, Suite 7  
+Pompton Plains, NJ 07444. 
+
 You can call the following telephone number: 1-800-433-6769. Outside the US and Canada, you can call 201-464-4921. 
 
  **Cookies**  Our Site uses cookies to keep track of your shopping cart if you leave our site and return. Our shopping cart system should work even if you have cookies turned off. But if you leave the site and return later, you are less likely to find your shopping cart if you do not accept cookies. In addition, third party vendors, including Google, may show our ads on sites on the internet. These vendors uses cookies to serve ads based on a user's prior visits to our website. Users may opt out of vendors' use of cookies by visiting the Network Advertising Initiative opt out page:[http://www.networkadvertising.org](http://www.networkadvertising.org/)
