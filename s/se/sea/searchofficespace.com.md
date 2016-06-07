@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchofficespace.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208140231id_/http%3A//www.searchofficespace.com/more/privacy-policy/%3Fclxs%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchofficespace.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608002154id_/http%3A//www.searchofficespace.com/more/privacy-policy/%3Fclxs%3Dfooter) for the most accurate reproduction.*
 
 # Search Office Space | Privacy Policy
 
