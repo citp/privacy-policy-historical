@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kobelli.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114307id_/http%3A//kobelli.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobelli.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607214443id_/http%3A//kobelli.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy
-
-This Privacy Policy governs the manner in which kobelli collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.kobelli.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Diamond Me.
+# Kobelli Privacy Policy
 
 ### Personal Identification Information
 
@@ -18,7 +16,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 ### How We Use Collected Information
 
-Diamond Me collects and uses Users personal information for the following purposes:
+Kobelli collects and uses Users personal information for the following purposes:
 
   * \- To personalize user experience We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
   * \- To improve our Site We continually strive to improve our website offerings based on the information and feedback we receive from you.
@@ -41,7 +39,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 ### Changes to This Privacy Policy
 
-Diamond Me has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Kobelli has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ### Your Acceptance of These Terms
 
@@ -55,4 +53,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 (800) 842-3222   
 [info@kobelli.com](mailto:info@kobelli.com)
 
-This document was last updated on jan 1, 2014
+Sign Up for Our Newsletter to receive latest news and events.
