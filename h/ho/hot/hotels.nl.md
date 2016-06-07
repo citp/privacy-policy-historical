@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotels.nl privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208040804id_/http%3A//www.hotels.nl/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.nl privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607233649id_/http%3A//www.hotels.nl/service/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -42,7 +42,7 @@ Hotels.nl takes its responsibility regarding the privacy of your details very se
 
 
 
-Hotels.nl reserves the right to obey legal regulations and rules with regards to your use of this website or information given by you to Hotels.nl or information collected with regards to your use of this website.
+Hotels.nl reserves the right to obey legal regulations and rules with regards to your use of this website or information given by you to Hotels.nl or information collected with regards to your use of this website. 
 
 ### 2\. Traffic data
 
@@ -50,7 +50,7 @@ Traffic data is obtained by:
 
   *  ~~~~ **Cookies**  
 Hotels.nl may use cookies when offering its online services. These are small files, which are stored on the hard disk of your computer. By using these cookies, our website is able to recognise you when you visit Hotels.nl. This way we can ensure that when visiting our website you won't need to constantly fill in the same information. The information stored in a cookie also depends on your own browser preferences. Should you have switched off the use of cookies or should you wish to do so, then you will still be able to view most parts of the Hotels.nl website. However, you will NOT be able to make a booking.   
-Hotels.nl is not responsible for erroneous bookings resulting from cookies.
+Hotels.nl is not responsible for erroneous bookings resulting from cookies. 
 
 In[this overview](http://media.hotels.nl/conditions/cookies_hotelsnl.pdf) you can see which cookies may be saved while you visit the Hotels.nl website. Which cookies can be placed, partly depends on how you land on our website (for instance, directly through the address bar or through a link from a search engine or a third-party website), and which pages you visit on Hotels.nl (for instance, a search results page or the booking form). 
 
