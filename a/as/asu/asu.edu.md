@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208032525id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607232905id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
 # ASU's Privacy Statement
 
@@ -6,7 +6,7 @@ ASU provides online information and services to students, employees and the publ
 
 Additionally, Arizona State University is committed to complying fully with the Children's Online Privacy Protection Act of 1998. The Federal Trade Commission provides more information about the Children's Online Privacy Protection Act at [www.ftc.gov/privacy/privacyinitiatives/childrens.html](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html).
 
-The ASU Web site contains links to external Web sites. ASU is not responsible for the privacy practices or policies of those sites not housed on ASU servers.
+The ASU Web site contains links to external Web sites. ASU is not responsible for the privacy practices or policies of those sites not housed on ASU servers. For sites not housed on ASU servers, we recommend that users review applicable privacy practices and policies.
 
 ## Information Collected by ASU
 
@@ -62,7 +62,7 @@ ASU does not store any personal information in cookies nor do we link or combine
 
 #### Parental Access 
 
-Parents can print out and mail or fax a signed form that allows them to review any identifiable information collected about their underage child, have this information deleted, and/or request that there be no further collection or use of their underage child’s information. ASU will take steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child’s parent or legal guardian. You can link to the form [here](https://web.archive.org/web/20151208032525id_/https://www.asu.edu/privacy/parentalform.pdf). Parents with questions will find contact information below.
+Parents can print out and mail or fax a signed form that allows them to review any identifiable information collected about their underage child, have this information deleted, and/or request that there be no further collection or use of their underage child’s information. ASU will take steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child’s parent or legal guardian. You can link to the form [here](https://web.archive.org/web/20160607232905id_/http://www.asu.edu/privacy/parentalform.pdf). Parents with questions will find contact information below.
 
 ## Alternatives to Web site Transactions
 
