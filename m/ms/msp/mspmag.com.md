@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mspmag.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226133615id_/http%3A//mspmag.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspmag.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608010205id_/http%3A//mspmag.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Best of the Twin Cities | Mpls.St.Paul Magazine
 
@@ -54,7 +54,7 @@ This website has security measures in place to protect against loss, misuse and 
 Any information you include in a message you post to any message board, discussion group blog, or other public posting area on our site is available to anyone with Internet access. You submit postings, photographs, etc., at your own risk; please take the necessary precautions when taking part in such activities. For example, if you don't want people to know your name or email address, make sure not to include that information in any message you post publicly. For more information on material posted by users on the site, please see the [Terms of Service Agreement](https://web.archive.org/Terms-Of-Service/).
 
 **Policy Changes**  
-mspmag.com reserves the right to change any or all of the Privacy Policy at any time without notice or liability to users. If we append to or make changes concerning our privacy practices online, however, we will post those changes within this privacy policy. The most recent version of this Privacy Policy can be found at mspmag.com. You agree that any subsequent use by you of this site following changes to this Privacy Policy will constitute your acceptance of all such changes. This policy was last updated on January 1, 2012.
+mspmag.com reserves the right to change any or all of the Privacy Policy at any time without notice or liability to users. If we append to or make changes concerning our privacy practices online, however, we will post those changes within this privacy policy. The most recent version of this Privacy Policy can be found at mspmag.com. You agree that any subsequent use by you of this site following changes to this Privacy Policy will constitute your acceptance of all such changes. 
 
 If any conflicts or disputes arise with our privacy policy, we commit to resolve it within twenty-four to forty-eight hours. Should a situation such as this occur, users may contact us at the e-mail address, mailing address, or telephone number listed below.
 
@@ -67,4 +67,4 @@ Minneapolis, MN 55402
 612-339-7571  
 Fax: 612-339-5806
 
-Copyright 2006 mspmag.com, Mpls.St.Paul Magazine, MSP Communications
+Effective March 25, 2016.
