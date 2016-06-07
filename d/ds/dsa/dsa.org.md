@@ -1,19 +1,33 @@
-> *The following text is extracted and transformed from the dsa.org privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919220409id_/http%3A//www.dsa.org/about-dsa/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsa.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607094828id_/http%3A//www.dsa.org/contact/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy
 
-The Direct Selling Association (DSA) respects the privacy of every individual who visits our website. This is how we handle information we learn about you. The information we receive depends on what you do when you visit our site. DSA will not collect or retain any information about you personally (that is, your name, address, telephone number or e-mail address) unless you choose to provide it to us.
+The privacy policy applies solely to information collected by dsa.org. It will notify you of the following: 
 
-## If you visit our site to read or download information:
+  1. What personally identifiable information is collected from you through dsa.org, how it is used and with whom it may be shared. 
 
-We collect and store only the following information: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account), the date and time you access our site and the Internet address of the website from which you linked directly to our site.
+  2. What choices are available to you regarding the use of your data. 
 
-We use this information to measure the number of visitors to the different sections of our site and to help us make our site more useful to visitors.
+  3. The security procedures in place to protect the misuse of your information. 
 
-## If you send us e-mail:
+  4. How you can correct any inaccuracies in the information. 
 
-If you send us an e-mail to ask a question we will only use your information to answer your request. Your e-mail address or other contact information will not be provided to any third party without your prior consent.
 
-## How to contact us:
 
-If you have submitted information about yourself through the DSA website or an e-mail message and you would like us to delete that information from our records, please send an e-mail to [info@dsa.org](mailto:info@dsa.org). We will make every effort to delete your personal information from our files.
+
+**Information Collection, Use, and Sharing**   
+DSA is the sole owner of the information collected on dsa.org. We only have access to/collect information that you voluntarily give us via email or any other contact from you. We will not share your information with any third party outside of the Association.
+
+**Your Access to and Control Over Information**   
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us at [info@dsa.org](mailto:info@dsa.org). 
+
+   • See what data we have about you, if any. 
+
+   • Change/correct any data we have about you. 
+
+   • Have us delete any data we have about you. 
+
+   • Express any concern you have about our use of your data. 
+
+**Security**   
+We take precautions to protect your information. When you submit sensitive information through dsa.org, your information is protected both online and offline. 
