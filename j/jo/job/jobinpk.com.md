@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobinpk.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133311id_/http%3A//www.jobinpk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobinpk.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608012135id_/http%3A//www.jobinpk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Newspaper Job ads, Jobs in Pakistan, Bank Jobs, Sindh Punjab Jobs Karachi
 
@@ -22,9 +22,3 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of Government Jobs Pakistan, Jobs Pakistan, Bank Jobs Pakistan, Mobile Pakistan, Technology News, Telecom News & Updates then you may contact us at karimrose77@yahoo.com
-
-#### Google keywords
-
-  * Jobspakistanbank com
-
-
