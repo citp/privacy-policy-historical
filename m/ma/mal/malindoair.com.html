@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the malindoair.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206132420id_/http%3A//www.malindoair.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the malindoair.com privacy policy that was archived on 2016-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607095032id_/http%3A//www.malindoair.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head name="theme-color">
 		<title>Privacy Policy</title>
@@ -11,7 +11,7 @@
 		<meta name="theme-color" content="#573791">
 		<link rel="icon" sizes="350x350" href="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/images/malindo-favi.png?ver=0.2">
 		<link rel="stylesheet" href="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/bootstrap/css/bootstrap.min.css">
-		<link href="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/css/styles.css" rel="stylesheet">
+		<link href="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/css/styles.css?ver=0.1" rel="stylesheet">
 		<link href="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/css/travelicon.css?ver=0.1" rel="stylesheet">
 		<link href="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/css/jquery-ui-datepicker.css?ver=0.1" rel="stylesheet">
 		<!--<link rel="stylesheet" href="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/css/bootstrap.datepicker.css"/>-->
@@ -34,11 +34,14 @@
                         contentType: "application/json; charset=utf-8",
                         dataType: "json",
                         success: function (data) {
-                            try {                             
-                                var newUrl = $('.milesurl').attr("href");
+                            try {   
+								$(".milesurl").each(function(){
+									var newUrl = $(this).attr("href");
+									$(this).attr("href",newUrl+data.d);
+								});
                                $('#sid').val( data.d );
 							   $('#sid1').val( data.d );
-								$(".milesurl").attr("href",newUrl+data.d);
+								
                             }
                             catch (e) {                    
                             //alert(e);
@@ -52,7 +55,7 @@
 		<!--<link rel="stylesheet" type="text/css" href="/Frontend/Composite/Navigation/Distributed/Styles.css" />-->
 	</head>
 	<body>
-		<header class="scroll-header">
+		<header class="scroll-header HideMiles">
 			<div class="container">
 				<div class="logo"><a href="/"><img src="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/images/logo.png" alt="" class="img-responsive"></a></div>
 				<div class="navbar-header">
@@ -62,11 +65,28 @@
 					<li><a href="https://b2b.malindoair.com/" target="_blank">TRAVEL AGENT</a><span>|</span></li>
 					<li><a href="/government" target="_blank">GOVERNMENT TRAVEL</a><span>|</span></li>
 					<li><a href="https://search.malindoair.com/OD/loyalty/login.aspx?sid=" class="milesurl" target="_blank">MALINDO MILES</a><span>|</span></li>
-					<li><a href="/corporate" target="_blank">MALINDO CORPORATE</a></li>
+					<li><a href="/Corporate" target="_blank">MALINDO CORPORATE</a></li>
+				</ul>
+			</div>
+			<!--<f:function xmlns:f="http://www.composite.net/ns/function/1.0" name="MalindoLayout.mainHeader">
+			  <f:param name="Name" value="topHeader" />
+			</f:function>-->
+		</header>
+		<header class="scroll-header hide Shwmiles">
+			<div class="container ">
+				<div class="logo miles"><a href=""><img src="https://s3-ap-southeast-1.amazonaws.com/malindoair.com/resource/images/Malindo_Miles_logo.jpg" alt="" class="img-responsive"></a></div>
+				<div class="navbar-header">
+					<button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle collapsed" type="button"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+				</div>
+				<ul class="header-link">
+					<li><a href="https://b2b.malindoair.com/" target="_blank">TRAVEL AGENT</a><span>|</span></li>
+					<li><a href="/government" target="_blank">GOVERNMENT TRAVEL</a><span>|</span></li>
+					<li><a href="/Malindomiles" target="_blank">MALINDO MILES</a><span>|</span></li>
+					<li><a href="/Corporate" target="_blank">MALINDO CORPORATE</a></li>
 				</ul>
 			</div>
 		</header>
-		<div class="container-fluid navi inner-menu">
+		<div class="container-fluid navi inner-menu HideMiles">
 			<div class="container">
 				<div role="navigation" class="navbar navbar-inverse row">
 					<div id="NavigationSideBar" class="navbar-collapse collapse container">
@@ -91,7 +111,7 @@
 								</ul>
 							</li>
 							<li class="dropdown ">
-								<a href="/special-offers" class="dropdown-toggle">Promotion</a>
+								<a href="#">Promotion</a>
 								<ul class="dropdown-menu">
 									<li class=""><a href="/special-offers/latest-promotions">Latest Promotions</a></li>
 									<li class=""><a href="/special-offers/our-fares">Our Fares</a></li>
@@ -113,13 +133,26 @@
 									<li class=""><a href="/the-malindo-experience/inflight-entertainment">Inflight Entertainment</a></li>
 									<li class=""><a href="/the-malindo-experience/baggage2">Baggage</a></li>
 									<li class=""><a href="/the-malindo-experience/seating">Seating</a></li>
-									<li class=""><a href="/the-malindo-experience/our-meals">Our Meals</a></li>
 									<li class=""><a href="/the-malindo-experience/staying-connected">Stay Connected</a></li>
 									<li class=""><a href="/the-malindo-experience/special-needs">Special Needs</a></li>
 									<li class=""><a href="/the-malindo-experience/malindomag">MALINDOMAG</a></li>
-									<li class=""><a href="/the-malindo-experience/malindo-lounge">Malindo Lounge</a></li>
 								</ul>
 							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-fluid navi inner-menu hide Shwmiles">
+			<div class="container">
+				<div role="navigation" class="navbar navbar-inverse row">
+					<div id="NavigationSideBar1" class="navbar-collapse collapse container">
+						<ul class="nav navbar-nav">
+							<li><a href="/Malindomiles">Home</a></li>
+							<li><a href="/Malindomiles/about">About Miles</a></li>
+							<li><a href="/">Book Flight</a></li>
+							<li><a href="/Malindomiles/contact">Contact us</a></li>
+							<li><a href="/Malindomiles/faq">FAQ</a></li>
 						</ul>
 					</div>
 				</div>
