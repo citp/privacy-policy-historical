@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drizzydrake.org privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602075004id_/http%3A//www.drizzydrake.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drizzydrake.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607224801id_/http%3A//www.drizzydrake.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - DRIZZY DRAKE
 
 This website is operated by or for Orelus Investments, LLC (“ **DRIZZYDRAKE.ORG** “). The following rules set forth **DRIZZYDRAKE.ORG** ‘s rights to collect and make use of certain information.
 
