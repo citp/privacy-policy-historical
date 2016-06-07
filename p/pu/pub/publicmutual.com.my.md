@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicmutual.com.my privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208210407id_/http%3A//www.publicmutual.com.my/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicmutual.com.my privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608000922id_/http%3A//www.publicmutual.com.my/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Public Mutual Berhad
 
@@ -20,7 +20,8 @@ In accordance with strict compliance to Guidelines by Securities Commission, and
 
 If the Customer does not wish to have the Customer's information shared with any other party, or the Customer does not wish to be solicited for products or services offered by PMB or parties it provides information to, please write in to the PMB at the address below:
 
-**Marketing & Corporate Communications Department**  
+**e-Marketing Unit**  
+Marketing & Financial Planning Department  
 Public Mutual Berhad  
 3rd Floor, Block C, Sri Damansara Business Park  
 Persiaran Industri, Bandar Sri Damansara  
@@ -32,12 +33,12 @@ The instances where PMB will disclose the Customer information are:
 a. where it is required by law, Court Order or is otherwise legally permitted;
 
 b. where such disclosure is required under Order of Court, legislation or regulations to be divulged   
-     to any government agency, agencies, ministries, departments or bodies established   
-     or approved by Securities Commission;
+to any government agency, agencies, ministries, departments or bodies established   
+or approved by Securities Commission;
 
 c. where requested or permitted by the Customer in writing.
 
-**3\. Collection  And Use Of Customer Information**
+**3\. Collection And Use Of Customer Information**
 
 Certain personal information of the Customer as particularised by PMB from time to time will be required to be submitted to the PMB by the Customer to enable PMB to process the Customer's request for information pertaining to services offered by PMB for handling queries, evaluating Customer’s investment needs and/or offering PMB’s products and services. Generally, the nature of information that is required includes but shall not be limited to information such as Customer's name, address, e-mail address, telephone number, age, gender, particulars of identity documents such as identity card or passport and where applicable, financial information such as information of income, assets, liabilities for the purpose of financial planning services as PMB shall require from time to time.
 
@@ -47,8 +48,8 @@ Although the primary purpose of acquiring the information is to confine its use 
 
 Any questions or complaints relating to the PMB's handling of personal information may be made to:
 
-  
-**Marketing & Corporate Communications Department**  
+**e-Marketing Unit**  
+Marketing & Financial Planning Department  
 Public Mutual Berhad  
 3rd Floor, Block C, Sri Damansara Business Park  
 Persiaran Industri, Bandar Sri Damansara  
