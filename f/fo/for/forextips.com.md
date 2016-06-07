@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forextips.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207111707id_/http%3A//www.forextips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextips.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608000207id_/http%3A//www.forextips.com/privacy-policy) for the most accurate reproduction.*
 
 # | Privacy Policy | Forex TİPS
 
@@ -58,4 +58,17 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
   * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Forex+T%C4%B0PS+Foreign+Currency+Exchange+Trading+Education&summary=%0D%0Avar%20axel%20%3D%20Math.random%28%29%20%2B%20%22%22%3B%0D%0Avar%20a%20%3D%20axel%20%2A%2010000000000000%3B%0D%0Adocument.write%28%27%27%29%3B%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0ANo%20data%20you%20provide%20ForexTips.com%20as%20part%20of%20your%20basic%20registration%20or%20personalization%20will%20be%20sold%20to%20outside%20organizations.%20ForexTips.com%2C%20however%2C%20 "LinkedIn")
   * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.forextips.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
   * 
+
+
+Kick-Start your Forex FUTURE with a **Free** Webinar!
+
+  
+
+
+  
+
+
+**2\. Choose a Webinar Time:**
+
+  
 
