@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mature-qualitysingles.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215024358id_/http%3A//www.mature-qualitysingles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mature-qualitysingles.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013523id_/http%3A//mature-qualitysingles.com/privacy.php) for the most accurate reproduction.*
 
 # Mature Quality Singles - Privacy Policy
 
@@ -17,7 +17,7 @@ In addition to the information we collect directly from you, we also monitor and
 
 We are able to offer our services to you, in part, because you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 C.F.R. § 310, et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, you expressly consent to allow Mature-QualitySingles.com to contact you by email, telephone or other means, including contacting you using an automated telephone dialing system, prerecorded message.
 
-The information we collect is used to improve the content of our Web page, to customize the content and/or layout of our page for each individual visitor, to notify consumers about updates to our Web site, to contact consumers for marketing purposes, to share with other reputable organizations to help them contact consumers for marketing purposes.
+The information we collect is used to improve the content of our Web page, to customize the content and/or layout of our page for each individual visitor, to notify consumers about updates to our Web site, to contact consumers for marketing purposes, to share or sell to other reputable organizations to help them contact consumers for marketing purposes.
 
 With respect to cookies: Cookies are small text files that are placed on your computer's hard drive by our computers or servers to identify your computer. Cookies are only read by the server that placed them there and are unable to execute any code or virus. We use cookies to record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
