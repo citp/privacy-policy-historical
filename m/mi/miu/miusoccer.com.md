@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miusoccer.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206133909id_/http%3A//miusoccer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miusoccer.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607134547id_/http%3A//miusoccer.com/privacy) for the most accurate reproduction.*
 
-# Privacy « miusoccer.com
+# Privacy – miusoccer.com
 
 Privacy
 
@@ -32,6 +32,8 @@ Do we use cookies?
 
 We do not use cookies.
 
+_**Have an opinion on this story? leave your comment at the bottom**_
+
 Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
@@ -58,4 +60,10 @@ Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-http://miusoccer.com/privacy
+> [Privacy](http://miusoccer.com/privacy)
+
+  
+  
+[](http://politicslatest.com/)  
+  
+
