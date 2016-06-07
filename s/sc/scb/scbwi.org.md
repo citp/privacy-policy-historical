@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scbwi.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208175528id_/http%3A//www.scbwi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scbwi.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607165443id_/http%3A//www.scbwi.org/privacy-policy) for the most accurate reproduction.*
 
 # SCBWI | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 All SCBWI information is the intellectual property of the SCBWI and is to be used only with written permission by the SCBWI Headquarters.
 
-All email addresses and other contact information on the SCBWI website are intended for personal use by SCBWI members wishing to connect with other members. or their Regional Advisors.  Generic email addresses posted are for informational use only and may not be used for any solicitation or advertising. Unsolicited advertising or emails of any kind sent to any SCBWI member including, but not limited to, Regional Advisors, Assistant Regional Advisors, Illustrator Coordinators and any employee of SCBWI,  is prohibited.  Parties engaged in solicitation inviolation of this policy may be subject to legal action as well as immediate termination of the violator's SCBWI membership. 
+All email addresses and other contact information on the SCBWI website are intended for personal use by SCBWI members wishing to connect with other members or their Regional Advisors. Generic email addresses posted are for informational use only and may not be used for any solicitation or advertising. Unsolicited advertising or emails of any kind sent to any SCBWI member including, but not limited to, Regional Advisors, Assistant Regional Advisors, Illustrator Coordinators and any employee of SCBWI, is prohibited. Parties engaged in solicitation in violation of this policy may be subject to legal action as well as immediate termination of the violator's SCBWI membership. 
 
 Unless we have your express permission, SCBWI does not share your contact information with anyone, other than reputable contractors doing work for SCBWI (such as the mailing house that handles our Bulletin). Such contractors are never allowed to retain or use your contact information except for the purpose of the work we've assigned them. 
 
@@ -33,4 +33,4 @@ SCBWI may periodically update this policy. SCBWI will notify you about significa
 
 **Questions**
 
-Any questions about this Privacy Policy should be addressed to sararutenberg@scbwi.org or by mail at: 4727 Wilshire Blvd., Suite 301, Los Angeles, CA 90010
+For any questions about this Privacy Policy call 323-782-1010 or by mail at: 4727 Wilshire Blvd., Suite 301, Los Angeles, CA 90010
