@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paniniamerica.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207151915id_/http%3A//www.paniniamerica.net/privacyStatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paniniamerica.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013416id_/http%3A//www.paniniamerica.net/privacyStatement.cfm) for the most accurate reproduction.*
 
 # Panini America, Inc.
 
@@ -62,10 +62,10 @@ Panini America, Inc.
 Suite 100  
 Irving, TX 75061 
 
-**The Phone Number is:** (817) 662-5203. 
+**The Phone Number is:** (800) 852-8833. 
 
 Please note that this number is for questions about the Privacy statement, or for a contact to remove your child from a web-based database. It is not for Customer Service questions. 
 
-[Click here to contact us concerning privacy issues.](https://web.archive.org/web/20151207151915id_/http%3A//www.paniniamerica.net/custserv.cfm?t=privacy#contact)
+[Click here to contact us concerning privacy issues.](https://web.archive.org/web/20160608013416id_/http%3A//www.paniniamerica.net/custserv.cfm?t=privacy#contact)
 
 THIS PRIVACY POLICY WAS LAST UPDATED ON 3/28/2008 
