@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wirelessweek.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010348id_/http%3A//www.wirelessweek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessweek.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607160100id_/http%3A//www.wirelessweek.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Wireless Week
 
 Last updated: January 25, 2013
 
