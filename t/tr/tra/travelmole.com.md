@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616102124id_/http%3A//www.travelmole.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608015059id_/http%3A//www.travelmole.com/privacy_policy.php) for the most accurate reproduction.*
 
 # TravelMole - Privacy Policy
 
@@ -13,7 +13,9 @@ Surveys & Contests
 Security  
 Correcting/Updating Personal Information  
 Notification of Changes  
-Cookies
+Cookies  
+Anti-Spam Policy  
+Policy Regarding Advertising Our Website
 
 All User information supplied by Users of TravelMole.com as defined under TravelMole.com Terms & Conditions is covered by the Data Protection Act 1998 (the Act) and U.K.'s amended Privacy and Electronic Communication Regulations (PECR) Act 2011.
 
@@ -148,6 +150,34 @@ The cookies we use or allow are an accepted part of ecommerce and important to y
 
 **Browser controls**  
 Most modern browsers offer you ways to control or block cookies. These browser controls will usually be found in the “options’ or “preferences” menu. For more help, you may take a look at the “Help” settings or review these website for more details -<http://www.aboutcookies.org/Default.aspx?page=1>
+
+  
+
+
+### **ANTI-SPAM POLICY**
+
+Spam, or unsolicited emails (usually sent in bulk), are a common problem in the digital age. TravelMole.com has a zero-tolorance policy regarding spam emails.
+
+Automated software systems running on the TravelMole servers automatically scan all incoming email and filter known and likely spam emails. No software is perfect however so if you believe your legitimate email was caught in our spam software, please try again by either using a different email address or by sending a plain-text email with no attachements.
+
+Continued spamming to TravelMole addresses will be reported and IP's of gross spammers will be blocked
+
+TravelMole sends millions of emails out each year to our subscribers. If you receive any email that you do not want (a frequent cause of this is a TravelMole subscriber leaving a business and that subscriber's emails auto-forward to another employee), simply hit the unsubscribe option found in every one of our emails or forward the email to [support@travelmole.com](mailto:support@travelmole.com) with the subject line changed to "Unsubscribe". Alternativly, you can email [support@travelmole.com](mailto:support@travelmole.com) with the email address in question and title the email "Unsubscribe this address".
+
+All unsubscribe or abuse requests are investigated by TravelMole staff and are promptly addressed.
+
+If you have any questions about our anti-spam policy or wish to report anything to the TravelMole support staff, please email us at [support@travelmole.com](mailto:support@travelmole.com).
+
+  
+
+
+### **POLICY REGARDING ADVERTISING OUR WEBSITE**
+
+Any email sent regarding, promoting or otherwise describing TravelMole.com or any affiliated sites (such as TravelMole.tv, TravelMole.net, TravelMole.info, or TravelMole.mobi) must be sent only to individuals or subscribers who have agreed to receive such messages. Any advertising of our website, brand or logo through unsolicited email messages is strictly prohibited. 
+
+Failure to comply with this policy is grounds for termination of any partnership, business agreement, or trade agreement. Any individual subscriber found to have ignored or abused this policy will have their account terminated.
+
+If you have received any communication you believe may be an unsolicited email promoting or mentioning our brand, website or logo and would like to report the abuse, please email us at [support@travelmole.com](mailto:support@travelmole.com). Any complaint regarding possible abuse will be promptly and thoroughly investigated.
 
   
 
