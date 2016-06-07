@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorawesomeness.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905202526id_/https%3A//colorlib.com/wp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorawesomeness.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607045854id_/https%3A//colorlib.com/wp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Colorlib
 
