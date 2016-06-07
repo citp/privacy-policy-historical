@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the screenstepslive.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407151132id_/http%3A//www.screensteps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenstepslive.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607210736id_/http%3A//www.screensteps.com/privacy-policy) for the most accurate reproduction.*
 
-# ScreenSteps Privacy Policy
+# Privacy Policy
 
 ### What This Privacy Policy Covers 
 
