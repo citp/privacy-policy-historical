@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steelconstruction.info privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206015137id_/http%3A//www.steelconstruction.info/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelconstruction.info privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607101210id_/http%3A//www.steelconstruction.info/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Steelconstruction.info
 
@@ -8,7 +8,7 @@ The following are the terms of the Privacy Policy to which you agree by using or
 
 ## [top] Privacy Policy
 
-This Privacy Policy is applicable to any personal information given via www.steelconstruction.info (the "Site") by you, the user or users of the Site, to us (“User Information”). "We/Us" means Tata Steel Europe, the British Constructional Steelwork Association and the Steel Construction Institute, the joint owners of the Site. We process personal data only in strict compliance with the Data Protection Act 1998 and associated legislation and we will not disclose your User Information to any person without your express consent, unless required to do so by law. 
+This Privacy Policy is applicable to any personal information given via www.steelconstruction.info (the "Site") by you, the user or users of the Site, to us (“User Information”). "We/Us" means the British Constructional Steelwork Association, the owners of the Site, and the Steel Construction Institute. We process personal data only in strict compliance with the Data Protection Act 1998 and associated legislation and we will not disclose your User Information to any person without your express consent, unless required to do so by law. 
 
 ### [top] Data Collection
 
@@ -16,7 +16,7 @@ When using the Site, you will only be asked to enter User Information when creat
 
 ### [top] Data Use
 
-We shall be entitled to use your User Information in order to identify your membership of the Steel Construction Institute and/or the British Constructional Steelwork Association. We shall also be entitled to use your User Information to inform you of marketing notifications if you have requested this when creating an account. 
+We shall be entitled to use your User Information in order to identify your membership of the British Constructional Steelwork Association and/or the Steel Construction Institute. We shall also be entitled to use your User Information to inform you of marketing notifications if you have requested this when creating an account. 
 
 ### [top] Information about our use of cookies
 
