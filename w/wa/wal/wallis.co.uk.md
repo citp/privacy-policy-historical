@@ -1,58 +1,53 @@
-> *The following text is extracted and transformed from the wallis.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607064943id_/http%3A//www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33058%26storeId%3D12557%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D281007%26interstitial%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallis.co.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607224446id_/http%3A//www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33058%26storeId%3D12557%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D281007%26interstitial%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy - Wallis
 
-## Privacy Policy Statement
+## PRIVACY POLICY
 
-References in this Privacy Policy Statement to "we", "us" and "Wallis" are to Wallis Retail Limited.
+  
+References in this Privacy Policy Statement to "we", "us" and "Wallis" are to Wallis Limited (Trading as Wallis). At Wallis we are committed to maintaining your privacy. Our privacy policy statement is given below. If we make changes to this policy, we will notify you by updating this statement on our Website.
 
-At Wallis we are committed to maintaining your privacy. Our privacy policy statement is given below. If we make changes to this policy, we will notify you by updating this statement on our website.
+## WHAT INFORMATION DO WE COLLECT?
 
-### WHAT INFORMATION DO WE COLLECT
+  
+We ask for your name, telephone number, home address, email address and age for competitions, sweepstakes, or newsletter sign ups. When a purchase is made on our site, in addition to the above, we also ask for delivery address, and payment method details. We may obtain information about your usage of our Website to help us develop and improve it further through online surveys and other requests.
 
-We ask for your name, telephone number, home address, email address and age for competitions, prize draws or newsletter sign ups. When a purchase is made on our site, in addition to the above, we also ask for delivery address and payment method details. We may obtain information about your usage of our Web site to help us develop and improve it further through online surveys and other requests.
+## WHAT THE DATA WILL BE USED FOR?
 
-### WHAT THE DATA WILL BE USED FOR?
+  
+Your data will enable us, and our processors, to fulfil your order, to notify you about important functionality changes and for statistical or survey purposes to improve this website and our services to you. We may also send you from time to time (by email or post) information about products and services and details of promotions and special offers from Wallis. If you do not wish to be contacted for these purposes, we offer a range of ways in which you can inform us about your marketing preferences:
 
-Your data will enable us, and our processors, to fulfil your order, to notify you about important functionality changes and for statistical or survey purposes to improve this website and our services to you.
-
-We may also send you from time to time (by email or post) information about products and services and details of promotions and special offers from Wallis. If you do not wish to be contacted for these purposes, we offer a range of ways in which you can inform us about your marketing preferences:
-
-  *   * all email messages and email newsletters will contain information on how you can unsubscribe; or
-  * send an email to our customer services division on [feedback@wallis.co.uk](mailto:feedback@wallis.co.uk) writing "unsubscribe" in the subject heading; or
-  * call our customer services division - see the "CONTACT US" section; or
-  * write to us at: Customer Services, Arcadia Group Limited, Colegrave House, 70 Berners Street, London W1T 3NL
-
-
+• All email messages and email newsletters will contain information on how you can unsubscribe; or  
+• Send an email to our customer services division on [our feedback form](mailto:feedback@wallis.co.uk) writing "unsubscribe" in the subject heading; or  
+• Call our customer services division - see the "Contact Us" section; or  
+• Write to us at: Customer Services, Arcadia Group Limited, Colegrave House, 70 Berners Street, London W1T 3NL
 
 In assessing your request for goods or services, we may use your information for the purposes of the prevention and detection of fraud.
 
-Wallis Retail Limited is a registered data controller under the Data Protection Act 1998 (the "Act"). We comply with the standards, procedures and requirements laid down in the Act to ensure that the personal information you give us is kept secure and processed fairly and lawfully
+## WHAT INFORMATION DO WE SHARE WITH OTHERS?
 
-We will not pass your information on to other Arcadia Group companies or other third parties for marketing purposes unless you have agreed for us to do so.
+  
+We may contract with other companies to provide certain services, including credit card processing, shipping, name and address verification, email distribution, market research, marketing and advertising services (including advertising on third party websites, social media networks and profiling) and promotions management. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than Wallis. We may share your information with other Arcadia Group companies for internal business purposes (for example administering e-receipts or responding to customer queries). We may transfer personal data that we collect from you to third party data processors located in countries that are outside of the European Economic Area and to other Arcadia group companies in connection with the above purposes. Any such transfer of your personal data will be carried out in compliance with applicable laws and we will treat the information in a manner consistent with this Privacy Policy Statement. However, we will not pass your information on to any other Arcadia Group companies or other third parties for their own marketing purposes unless you have agreed for us to do so.
 
-In assessing your request for goods or services, we may use your information for the purposes of the prevention and detection of fraud. One of the purposes for which we may disclose your address and postcode details is to check against the IMRG Security Alert or any other Fraud Prevention Scheme or Credit Reference Agency, which may keep a record of that information. At all times where we disclose your information it will remain secure.
+## COOKIES
 
-### WHAT INFORMATION DO WE SHARE WITH OTHERS?
+  
+This website uses Cookies. For more information please click here to see our [Cookie policy](https://web.archive.org/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd?catalogId=33058&storeId=12557&langId=-1&viewAllFlag=false&categoryId=281007&interstitial=true).
 
-We may contract with other companies to provide certain services, including credit card processing, shipping, name and address verification, email distribution, market research and promotions management. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than Wallis. We will not pass your information on to any other Arcadia Group companies or other third parties for marketing purposes unless you have agreed for us to do so.
+## LINKS TO THIRD-PARTY SITES
 
-One of the purposes for which we may disclose your address and post code details is to check against the IMRG Security Alert or any other Fraud Prevention Scheme. We may also disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
+  
+In an attempt to provide you with increased value, we may from time to time include third party links on our Website. These linked sites have separate and independent privacy policies. We encourage you to review those policies when you visit those sites. This Privacy Policy Statement only covers our Website and does not cover any other website. We therefore have no responsibility or liability for the content and activities of these linked sites.
 
-### COOKIES
+##   
+PRIVACY OF CHILDEREN ON OUR WEBSITE
 
-A Cookie is a small data file that is stored by your Web browser on your computer. We use Cookies to keep track of your current shopping session, to enable you to proceed to checkout at any time and to personalize your online experience. If you do not accept Cookies you will be unable to use this website. Refer to the Help content of your browser for more information on selecting or deselecting Cookies.
+  
+Our Website is not intended for use by children under the age of 13, and we will not knowingly collect any information from any person below the age of 13.
 
-### LINKS TO THIRD PARTY SITES
+## SALE OF ASSETS
 
-In an attempt to provide you with increased value, we may from time to time include third party links on our Website. These linked sites have separate and independent privacy policies.  We encourage you to review those policies when you visit those sites.  This Privacy Policy Statement only covers our Website and does not cover any other website. We therefore have no responsibility or liability for the content and activities of these linked sites.
-
-### PRIVACY OF CHILDREN ON OUR WEBSITE
-
-Our Website is not intended for use by children under the age of 14, and we will not knowingly collect any information from any person below the age of 14.
-
-### SALE OF ASSETS
-
+  
 In the unlikely event that Wallis or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
 
 You're safe with us.
