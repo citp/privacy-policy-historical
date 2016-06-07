@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leawo.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131024id_/http%3A//www.leawo.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leawo.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608010627id_/http%3A//www.leawo.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Leawo Software
 
@@ -12,7 +12,7 @@ When you place an order on our website, your full name, email address, mailing a
 **2\. How do 3rd party credit card processors protect customer information?  **  
 Leawo Software uses secure server hosted by SWREG and other 3rd party credit card processors that encrypt all the customer's personal information including name, address, credit card number, credit card expiration date, etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition.
 
-**3\. What is SWREG?**    
+**3\. What is SWREG?**  
 SWREG is an advanced secure online payment service for software registration that has been in operation since 1987. Leawo Software uses SWREG to provide you with very secure and fast online purchase.
 
 **4\. About cookies  **  
@@ -21,4 +21,4 @@ In order to better understand what services are valuable to our customers, we us
 You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages.
 
 **5\. Our companywide commitment to your privacy  
-**This policy covers the Intel Corporate website and is applicable worldwide. To make sure your personal information is secure, we communicate these guidelines to Leawo employees and strictly enforce privacy safeguards within the company. 
+** This policy covers the Intel Corporate website and is applicable worldwide. To make sure your personal information is secure, we communicate these guidelines to Leawo employees and strictly enforce privacy safeguards within the company.
