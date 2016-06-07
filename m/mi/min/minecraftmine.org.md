@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftmine.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114953id_/http%3A//www.minecraftmine.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftmine.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607034108id_/http%3A//www.minecraftmine.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Download Minecraft
 
@@ -26,5 +26,7 @@ If you have any questions regarding the privacy policy of www.minecraftmine.org 
 #### Incoming search terms:
 
   * Minecraft privacy policy
+  * minecraft updates privacy
+  * poilies mod for mincraft
 
 
