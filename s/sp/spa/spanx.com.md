@@ -1,151 +1,153 @@
-> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003121433id_/http%3A//www.spanx.com/-cms-page.privacypolicy%3Bpgid%3DH8tkS3exQtNSRpWtAo44LLQX0000L2Ix9L83%3Bsid%3DDFG6li1tdQi8lntglt2Jkh9nLtAagw_srERnUsOB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607092528id_/http%3A//www.spanx.com/customer-service/safety-security-and-privacy/our-privacy-policy) for the most accurate reproduction.*
 
-# Spanx Store - US
+# Our Privacy Policy | on Spanx.com
 
-Welcome to Spanx.com. Your trust is one of our most important assets. We take seriously the protection and proper use of the personal information you supply to us. This policy explains what personally identifiable or personal information we may collect from you when you visit our website, how we use such information, and the choices you have regarding our use of this information.
+Last Updated: March 29, 2016.
 
-Security
+Welcome to Spanx.com. Your trust is one of our most important assets. We take seriously the protection and proper use of the personal information you supply to us. This policy explains what personal information we may collect from you when you visit our websites or use our mobile applications (collectively the "Site"), how we use such information, and the choices you have regarding our use of this information.
 
-We are committed to handling your personal information, including your online credit card transactions, with high standards of information security. We take appropriate physical, electronic and administrative steps to maintain the security and accuracy of personally identifiable information we collect, including limiting the number of people who have physical access to our database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. Our website uses encryption technology, such as Secure Sockets Layer (SSL), to protect your personal information during data transport. SSL encrypts ordering information such as your name, address and credit card number. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you're about to enter a secure area.
+We use information from our interactions with you and other customers on our Site. Because we respect your privacy, we have implemented procedures designed to handle your personal information in a safe, secure, and responsible manner.
 
-You may purchase online merchandise by calling toll-free 1.888.806.7311 (7am-12am, 7 days a week.) One of our customer service associates will gladly take your order.
+As we make use of advances in technology to improve the Site, we may modify this policy from time to time. If we make any material changes to our privacy policy, we will provide notice on this Site prior to the change becoming effective. You can determine when this policy was last revised by referring to the date it was "last updated" above. You can review the last version of this policy [here](https://web.archive.org/privacy-policy-013111). We encourage you to refer to this policy on an ongoing basis to understand our most current data privacy practices.
 
-Our customer service centers also operate over a private, secure network. Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information.
+If you do not agree with the practices described in this policy, please do not provide us with your personal information or interact with the Site. 
 
-Privacy policy
+**The Information We Collect and Use**
 
-This Privacy Policy was last updated on January 31, 2011.
+_Information Collection:_ We may collect some or all of the following information from you when you visit and interact with our Site:
 
-Providing our customers the highest quality products and services, we use information from our interactions with you and other customers, as well as from other parties. Because we respect your privacy, we have implemented procedures designed to handle your personal information in a safe, secure, and responsible manner.
-
-As we take advantage of advances in technology to improve the services we offer, we will post them only on this website so encourage you to refer to this policy on an ongoing basis to understand our current privacy policy.
-
-The information we collect
-
-Generally, you may browse the website without providing any personally identifiable information. However, we may ask you to provide personally identifiable information at various times and places on this website. In some cases, if you choose not to provide us with the requested information, you may not be able to access all of this website or participate in all of its features.
-
-We receive and store any personally identifiable information you enter on the website, whenever you shop with Spanx - online or through our catalogs - or information you give us in any other way. For example, we may collect the following personally identifiable information: your name, address, telephone number, and e-mail address. If you use a credit or debit card, we will also include your account number. We may also collect personal information about you from third parties, such as demographic firms, to make our future marketing efforts more efficient.
-
-When you register with us as an online customer, we may ask for additional information, such as your favorite SpanxÂ® product.
-
-If you use one of our services or participate in one of our promotions or sweepstakes, we may ask for additional information, such as your age, interests, or product preferences.
-
-From your purchases and other interactions with us, we obtain information concerning the specific products or services you purchase or use.
-
-When you visit this website, our web server automatically collects anonymous information such as log data and IP addresses. We may use the automatically collected information for a number of purposes, such as improving our website design, product assortments, customer service, and special promotions.
-
-How we use the information we collect
-
-We use the information we collect for various purposes, including:
-
-  
-
-
-  * to complete your purchase transactions
-  * to provide the services you request
-  * to send you our catalogs and other offerings by mail
-  * to keep you informed about the status of your orders
-  * to identify your product and service preferences, so we can notify you of new or additional products, services, and promotions that might be of interest to you
-  * to notify you of product recalls or provide other information concerning products you have purchased
-  * to improve our merchandise selections, customer service, and overall shopping experience
+  * _Personal information that you voluntarily provide to us._ Personal information is information about you that specifically identifies you or, when combined with other information we have, can be used to identify you. It includes such things as name, mailing address, telephone number, email address, date of birth, personal shopping preferences, purchase and ordering history, gender, demographic information, and financial information, such as payment card information. 
+  * _Non-identifying information we collect when you use the Site._ Non-identifying information is information that alone cannot identify you and has not been associated with you. It includes such things as data from cookies or data about the device you use to access, use, or interact with our Site.
 
 
 
-Who we disclose the information to
+The type of personal information we collect from you will depend on the specific web pages you access at our Site. Generally, you may browse our Site and learn about our many products without providing any personal information. However, we may ask you to provide certain personal information at various times and places on the Site. In some cases, if you choose not to provide us with the requested personal information, you may not be able to access all of the Site or participate in all of its features. For example, we may collect personal information from you when you:
 
-We may disclose information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to: (a) manage a database of customer information; (b) assist us in distributing e-mails; (c) assist us with direct marketing and data collection; (d) provide us storage and analysis; (d) provide fraud prevention services; and (e) other services designed to assist us in maximizing our business potential.
+  * Register, subscribe, or create an account with Spanx;
+  * Purchase products from Spanx through our Site;
+  * Create a registry or "wish list" of Spanx products;
+  * Open or respond to our email or mobile messaging offers;
+  * Participate in surveys, questionnaires, contests, sweepstakes, or special offers online;
+  * Contact customer service or otherwise make use of our customer support tools, such as our "Live Chat" option;
+  * Connect, link or "share" our Site via social networking sites; 
+  * Post comments in public areas of our Site;
+  * Provide a product review; and
+  * Sign up for product notifications.
 
-Other companies: We may provide information to carefully selected outside companies when we believe their products or services may be of interest to you. We will not, however, sell, rent, or share your email address with third parties for marketing purposes without your consent.
 
-Business Transitions: We may transfer or share personal information about you if Spanx, Inc. goes through a business transition such as a merger, acquisition, or sale of all or part of its assets in these situations. You will be notified via email or prominent notice on our website prior to a transfer or control of your personal information, if your personal information will be used contrary to this policy. However, nothing in this Privacy Policy is intended to interfere with the ability of Spanx to transfer all or part of its business and/or assets to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever. Spanx specifically reserves the right to transfer or share a copy of personally identifiable information collected from its websites to the buyer of that portion of its business relating to that information.
 
-Compliance with Law: We may provide access to information when legally required to do so to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our website, to limit our legal liability and protect our rights or to protect the rights, property, or safety of visitors of this website or the public.
+We use the personal information we collect for various purposes, including to:
 
-Your choices regarding use of the information we collect
+  * Operate, maintain and improve the Site, our services, and our products; 
+  * Establish an online Spanx account for you at your request;
+  * Process online purchase orders and keep you informed of the status of your orders;
+  * Provide you with information concerning products you have purchased;
+  * Provide customer service (for example, responding to a request or following up on an product order);
+  * Identify your preferences so can we notify you of new or additional products, services, and promotions that might be of interest to you; 
+  * Personalize your online experience with content and offers tailored to your interests;
+  * Allow you to interact with certain third party content service providers (for example, to enable you to link to, or view content from, third party sites within Spanx’s Site, or view Spanx’s content on a third party site);
+  * Include you in online surveys, contests, or special promotions;
+  * Enable you to post comments and other content on the Spanx Site; 
+  * Send you our catalogs and other Spanx product offerings by mail or electronically; and
+  * Improve our Site, merchandise selections, customer service, and overall shopping experience.
 
-We provide you with a number of choices regarding our handling of your personally identifiable information.
 
-Direct Mail Marketing: If you wish to be removed from the list of customers that receive direct mail, please either: write to: Spanx Customer Relations, 1435 International Drive Eau Claire, WI 54701 or call 1.888.806.7311.
+
+We also may use information collected as described in this policy with your consent or as otherwise required or permitted by law.
+
+_Social Networking:_ Certain social media features available on our Site may be hosted by third party sites. For example, some social networking services allow you to share products and services from our Site via your social networking profile. If you choose to make use of third party social media services (such as Facebook or Twitter), we may receive personal information about you, such as your name and email address, that you have made available through those services. We encourage you to visit those third party social networking services’ privacy policies and review your privacy settings directly on those services. Any information we receive through third party social media services may be used as described in this policy.
+
+_Information About Friends or Family:_ In certain limited circumstances, we may collect information about people you know. For example, when you purchase a gift order for a friend or family member, we ask for the gift recipient’s email address in order to process the gift order. Our Site also may include a "Refer a Friend" feature that allows you to easily forward information about Spanx to friends or family. If you elect to refer a friend or family member to our Site, we will ask for that person’s email address. We also may send that friend or family member a message on your behalf. We may store this information for the purpose of sending this message and to manage and improve our "Refer a Friend" program. You are responsible for notifying and, where necessary, obtaining the consent of your family member or friend before providing us with their information.
+
+_Other Sources:_ We may also collect information about you, including personal information, from other third party sources. For example, we collect certain personal information about you from marketing research firms in order to improve our future marketing efforts and make them more efficient. This information may include name, demographic information, interests, and publicly-observed data like shopping behavior. When we combine this information with the personal information we collect from you, the combined information will be handled in accordance with this policy. 
+
+_Non-identifying Information Collected By Automated Means:_ We may use cookies, web beacons/pixels, and other technology to collect anonymous, non-identifying information about you when you visit our Site or interact with our emails or online advertisements. These cookies may be delivered in a first party or third party context. For example, we may collect information about your browser type and version, ISP, viewed web pages, links that are clicked, online searches via the Spanx Website, IP address, sites visited before and after visiting our Site, details about items purchased, and emails we send that you open, forward, or click through to our Site. 
+
+A cookie is a small data file that is stored on your device or your web browser when you visit a Site. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same Site at a later date, the cookie information is still available. A pixel tag ("pixel") is a small string of code that is used in conjunction with a cookie.
+
+By collecting this information we can better understand how you interact with our Site; give you a more personal and optimized online experience by tracking your preferences; identify offers or special promotions that may be of particular interest to you based on your unique tastes; improve our Site; fulfill contracts with our business partners; help confirm receipt of and response to our emails; and provide more effective customer service. We also use this information for the same purpose as your personal information. 
+
+**Information Sharing**
+
+We may disclose information to outside companies that help us bring you the products and services we offer. For example, we share your information with our vendors and suppliers to: (a) assist us with processing and fulfilling purchase orders; (b) manage a database of customer information; (c) assist us in distributing emails; (d) assist us with direct marketing and data collection; (d) provide us storage and analysis; (e) provide fraud prevention services; (f) utilize other services designed to assist us in maximizing our business potential and your shopping experience; and (g) accomplish the other purposes for collection described above. 
+
+_Web Advertising Partners:_ We may share your information – such as your name, mailing address, email address, and records of any transactions you conduct with us – with our third party advertising partners and their service providers in order to help us serve you with interest-based advertisements. If you prefer that we do not share any information with these companies, please see the following section, "Your Choices," below.
+
+We may also use third party advertisers and ad networks to provide you with relevant advertisements for our products and services on other third party sites that you visit. Some of these advertisers and ad networks may use technology such as cookies, web beacons/pixel tags, and clear gifs to collect non-identifying information about your interaction with the Site, such as your IP address, your ISP, and the browser type and version you use to visit our Site. These advertisers and ad networks use the information described above to present you with tailored advertisements for our products and services on other sites that reflect your particular interests and needs. For example, if you search for or browse a product on our Site, you may see an ad from us on another site you visit with information about a product that is similar to that for which you were searching or browsing on our Site. 
+
+_Postal Mailing Companies:_ We may share certain information from our postal mailing list, such as your name and email address, with carefully selected outside companies when we believe their products or services may be of interest to you. If you prefer that we do not share any information with these companies, please see the following section, "Your Choices," below. 
+
+_Business Transitions:_ We may transfer or share information about you if Spanx, Inc. goes through a business transition such as a merger, acquisition, or sale of all or part of its assets in these situations. Spanx specifically reserves the right to transfer or share personal information collected from its Site to the buyer of that portion of its business relating to that information.
+
+_Compliance with Law:_ We may provide access to personal information when legally required to do so by law, regulation, subpoena, court order, government request, or other legal proceedings; to protect against misuse or unauthorized use of our Site; to investigate or prevent actual or expected fraud, or criminal activity; to limit our legal liability and protect our rights; or to protect the rights, property, or safety of visitors of this Site or the public.
+
+We may also disclose your personal information for other purposes with your consent or as otherwise permitted by law. 
+
+Except as provided in this policy, we will not sell or rent your email address to third parties for marketing purposes without your consent.
+
+**Your Choices**
+
+We provide you with a number of choices regarding our handling of your personal information.
+
+_Direct Mail Marketing:_ If you wish to specify your direct mail preferences, or be removed from the list of customers that receive direct mail, please write to: 
+
+Spanx Customer Relations  
+1435 International Drive,  
+Eau Claire WI 54701
+
+or call 1.888.806.7311.
 
 If you choose to write to us, please include your name, address, phone number, and email address and state "NO MAIL OFFERS" if you don't want to receive offers by mail.
 
-Because customer lists often are prepared well in advance of an offering (sometimes a few months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. We appreciate your patience and understanding in giving us time to carry out your request.
+Because customer lists are prepared well in advance of an offering (generally several months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. We appreciate your patience and understanding in giving us time to carry out your request.
 
-Your California Privacy Rights
+_Emails:_ If you do not want to receive promotional emails from Spanx, its affiliates or business partners, please follow the instructions at the bottom of any email communication sent by us and click on the unsubscribe link. Please note that even if you unsubscribe from commercial email messages, we may still email you non-commercial emails related to your account and your transactions on the Site. Also, please allow us 10 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request.
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties for direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Spanx Customer Relations, 1435 International Drive Eau Claire, WI 54701. Please allow 30 days for a response.
+We may also provide you the opportunity to affirmatively choose, or opt-in, to receive emails from certain other third-parties that will send you information about products and services that may be of interest to you. If you choose to opt-in to receive such emails, we will only provide these third parties with your email address.
 
-E-mails
+_Cookies and Tracking:_ You can disable cookies at any time by adjusting your browser settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available. Please be aware, however, that if you turn off cookies, you will not be able to take full advantage of all of our Site features. For example, we will not be able to track your orders or enable you to make a purchase from our Site. In addition, we will not be able to recognize you as a registered user to allow you access to your account information. 
 
-If you do not want to receive promotional email from Spanx or its affiliates you can click on the unsubscribe link and hit send at the bottom of any email communication sent by us. Please allow us 30 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request.
+You can learn more about, and opt-out of being targeted by certain third party advertising cookies on the Spanx Site in the United States, by visiting the National Advertising Initiative’s Opt-Out Tool (<http://www.networkadvertising.org/choices/>), the About Ads Opt-Out Tool( [http://www.aboutads.info/choices/](http://www.networkadvertising.org/choices/)) or TRUSTe’s site (<http://preferences-mgr.truste.com/>).
 
-Cookies and how we use them
+**Do Not Track**
 
-Our website uses "cookie" and "web beacon" technology. We use cookies and web beacons to distinguish you from other visitors, track your IP address and usage of our website, and to identify the name of the website from which you linked to www.spanx.com. This information is used for fulfilling contracts with our business partners and to help us serve you better by improving our website design, as well as our products, services, and promotions. We do not otherwise track any information about your use of other websites. Non-personally identifiable information obtained through cookies and web beacons may be shared with or obtained by service providers on our behalf.
+Currently, we do not alter our data collection and use practices in response to Do Not Track signals. 
 
-A cookie is a small data file that is placed on the hard drive of your computer when you visit a website. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available. A web beacon is a small string of code that represents a clear graphic image and is used in conjunction with a cookie.
+**California Privacy Rights**
 
-When you visit our website, we may use both a session and a persistent cookie. This cookie may contain information (such as a unique user ID) that is used to track your usage of our website and in some cases, your email address. A web beacon allows us to capture certain additional types of information about a visitor's actions on a website, such as a visitor's cookie number, the time, date, duration, and number of page views, a description of the page where the Web beacon is placed, and details about any items that were purchased.
+Under California Civil Code section 1798.83, California residents who have an established business relationship with us are entitled to ask us for a notice describing the types of personal customer information we have shared with third parties for those parties’ direct marketing purposes during the preceding calendar year. That notice will identify the categories of information shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. If you are a California resident and would like to request a copy of this notice, please submit a written request to the following address: Spanx Customer Relations, 1435 International Drive Eau Claire, WI 54701. Please allow 30 days for a response.
 
-If you register with us, your cookie allows us to recognize you when you return to our website and provides you with access to your account information. If you save your information with or order from us, we may also use cookies to monitor and maintain information about your use of our website. If you have not saved your information with or ordered from us, we may monitor and maintain information about your use of our website in a manner that does not identify you. You can disable cookies at any time by using your browser options; however, if you turn off cookies, we will not be able to track your order or enable you to make a purchase from our website. In addition, we will not be able to recognize you as a registered user to allow you access to your account information.
+**Security of Your Personal Information**
 
-Children's privacy
+We are committed to protecting your personal information. We have implemented appropriate, industry-standard physical, technical, and administrative safeguards to maintain the security and integrity of your personal information. Additionally, as part of our ongoing commitment to ensure that your shopping experience on our Site is protected, Spanx will prosecute all unauthorized or fraudulent transactions to the fullest extent allowed by law.
 
-Protecting children's privacy is important to us. Our website is a general audience website. No part of our website is targeted to attract anyone under 13. Our online sweepstakes are restricted to entrants who are at least 18 years old.
+However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee that your personal information is absolutely secure. If you have any questions about the security of our Site, you can contact us at 1.888.806.7311.
 
-Children under the age of 13 should always ask their parents or guardians for permission before providing any personal information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the web.
+Please note that email is not encrypted and is not considered to be a secure means of transmitting credit card information. You may purchase online merchandise from one of our customer service associates by calling toll-free 1.888.806.7311. 
 
-Links to other websites
+**Accessing and Correcting Your Personal Information**
 
-While visiting www.spanx.com, you may link to websites operated by our business partners or other third parties. This does not mean that we endorse companies, their products, or their websites. We do not make any representations or warranties about any website you may access through www.spanx.com. They are independent from us, and we have no control over or responsibility for their information or activities.
+If you are a registered user, you can access your account at any time to update your information, including your password, email address, mailing address, billing information, and registry or wish list content. You can also contact our customer service toll-free at 1.888.806.7311, or by email at contactus@spanx.com.
 
-In addition, our privacy practices may differ from those of these other websites. If you provide personal information at one of those websites, you are subject to the privacy policy of the operator of that website, not the Spanx privacy policy. Make sure you understand any website's privacy policies before providing personal information.
+**Children's Privacy**
 
-Online account registration
+Protecting children's privacy is important to us. Our Site is a general audience Site. No part of our Site is targeted to attract anyone under 13. Our online sweepstakes are restricted to entrants who are at least 18 years old.
 
-To make online shopping faster and easier, you may register with www.spanx.com. As a registered customer, you only have to enter your shipping addresses and billing information once; they will be securely stored with us for your future use. Using your name and a password of your choice, you may access your account online at any time to add, delete, or change information.
+Children under the age of 13 should always ask their parents or guardians for permission before providing any personal information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the web. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at 1.888.806.7311. A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit its use.
 
-If you are using a public computer, we strongly encourage you to LOG OUT at the conclusion of your session. Your information will still be stored with us but it will not be accessible to anyone else from that computer.
+**Links to Other Sites and Content**
 
-Acceptance
+This policy only addresses the collection, use and disclosure of information by Spanx through your interaction with the Site. However, our Site may contain links to other sites that are not owned or controlled by us, such as social networking sites, interactive maps that provide directions to our stores, or third party sites that facilitate our contests and sweepstakes. The use of links does not mean that we endorse companies, their products, or their sites. We have no control over or responsibility for their information or activities. Our Privacy Policy and practices may differ from those of these other sites. We encourage you to learn about these sites’ privacy policies prior to providing them with information or taking advantage of a sponsored offer or promotion.
 
-By using this website, you accept the policies set forth in this Privacy Policy.
+**United States Only**
 
-Any questions?
+This Site is intended for use by residents of the United States. For international users, please note that your information may be transferred to and processed in the United States. All matters relating to this site are governed by the laws of the State of Georgia in the United States. If you reside in a country outside the United States, please note that the data protection and privacy laws of the United States may not be as protective as the laws in your country. By using our Website, you agree to have your information transferred to and used in the United States as set forth in this Privacy Policy.
+
+**Any Questions?**
 
 We'll be happy to provide additional information or answer any questions. Please:
 
-  
-
-
-  * Call toll-free: 1.888.806.7311
-  * Write: Spanx Customer Relations  
-         1435 International Drive  
-         Eau Claire, WI 54701
-
-
-
-Mac user advisory
-
-Macintosh users must place their online orders using Safari or Firefox. These browsers allow us to offer our customers the highest level of security; other browsers prevent users from viewing secure pages during the checkout process. We apologize for any inconvenience.
-
-You also may place an order for catalog merchandise by calling 1.888.806.7311.
-
-Conditions of use, notices and disclaimers
-
-When you use this website, you are automatically agreeing that both your access to the website and your use of it are:
-
-  
-
-
-  * Subject to the terms and conditions in this legal notice, which may change at any time without notice.
-  * Subject to all applicable laws.
-  * Undertaken at your own risk.
-
-
-
-Please refer to this page frequently to review our current terms and conditions of use.
-
-Protecting your information
-
-As part of our ongoing commitment to ensure that your shopping experience with www.spanx.com is protected, Spanx will prosecute all unauthorized or fraudulent transactions to the fullest extent allowed by law.
+Call toll-free: 1.888.806.7311  
+Write: Spanx Customer Relations  
+1435 International Drive  
+Eau Claire, WI 54701
