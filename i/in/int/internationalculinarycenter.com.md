@@ -1,59 +1,73 @@
-> *The following text is extracted and transformed from the internationalculinarycenter.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227064514id_/http%3A//www.internationalculinarycenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalculinarycenter.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608011520id_/http%3A//www.internationalculinarycenter.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - International Culinary Center
+# Privacy Policy - International Culinary Center
 
-**Information Collection**  
-Because the International Culinary Center, LLC (The International Culinary Center) wants to demonstrate its commitment to our users’ privacy, we have disclosed our information practices on our website below. If users have any questions or concerns regarding this statement, they should contact the Website Administrator by [email](mailto:administrator@internationalculinarycenter.com) or at 888.324.2433.
+Effective – January 1st, 2016
 
-The International Culinary Center, LLC is the sole owner of the information collected on [www.internationalculinarycenter.com](http://www.internationalculinarycenter.com/), [www.lecolenyc.com](http://www.lecolenyc.com/), and [www.pastryscoop.com](http://www.pastryscoop.com/).
+## Information Collection
 
-The International Culinary Center, LLC collects information from our users at several different points on our web site.
+The International Culinary Center, LLC (“The International Culinary Center”) is committed to our users’ privacy, and has posted this privacy policy to disclose the information practices we use on our websites below.  If users have specific questions or concerns regarding this statement, they should contact our Websites Administrator by [ **email**](mailto:administrator@internationalculinarycenter.com) or at 888.324.2433.
 
-**More Information Request**  
-Registration is not required in order to use this web site. However, a user must first complete the contact/registration form in order to: receive information via mail, submit the contact form, apply to the International Culinary Center. To complete the form, a user is required to provide contact information including: name, phone number, email address, mailing address, high school or equivalency completion, and citizenship status. We use this information to contact the user about the programs and events at the International Culinary Center for which they have expressed interest, or those that are related to this program of interest. If you wish to be removed from these mailings, please follow the instructions at the bottom of each email or use the contact information provided in the section “Opt-out/Remove” below.
+The International Culinary Center  is the sole owner of the information collected on the websites ending *.internationalculinarycenter.com, *.culinarycenter.com or *.culinarycenter.edu (“Sites”).
 
-**Email Sign-Up**  
-Upon submitting contact or application information, users are added to the email and promotional mailing list. If you wish to be removed from these mailings, please follow the instructions at the bottom of the email or use the contact information provided in the section “ Opt-out/Remove” below. Users are able to sign up to receive separate regular emails about L’Ecole by providing their email address on the L’Ecole section or about PastryScoop.com by signing up on the [PastryScoop.com](http://pastryscoop.com/) web site.
+The International Culinary Center collects information provided directly from our users at various places within the Sites.  This information may include email addresses, contact information, application and registration data, submitted coursework, and comments/questions posted within online forums. This type of information is submitted through forms that our users submit or files uploaded to our Sites.
 
-**Applying to the International Culinary Center**  
-When applying for any program at the International Culinary Center through the online application, users must provide contact information, educational and work history, and financial information (credit card number and expiration date). This information is used for billing purposes and to enroll the user. If we have trouble processing the deposit payment, the contact information is used to get in touch with the user. We may also email the applicant about related programs or special events being offered by the International Culinary Center and/or its partners. If you wish to be removed from these mailings, please follow the instructions at the bottom of each email or use the contact information provided in the section “Opt-out/Remove” below.
+The International Culinary Center also collects information on how and when users access our Sites and the services contained within them.  This information may include location data, content and service access, and log data (such as device, browser, and IP address).   Additionally, we and our partners use cookies and other tracking technologies to enhance your experience with our Sites.  Cookies are text files stored within your computer browser that allow us to save your preferences and track your usage of our content and services across visits.
 
-**Information Use**  
-We do not sell or rent your contact information to third parties, except when required to disclose such information by law or in response to a request from a law enforcement agency or authority. The International Culinary Center uses contact information to send the user additional information about our schools and partners. A user’s contact information may also be used to contact the user directly with questions/concerns. The International Culinary Center does not seek to solicit information from anyone under the age of 13 (which is defined as a child). If a child submits information to us and we know that the person submitting the information is a child, we will not use it for any purpose. We will delete the information as soon as we discover this fact and we will not disclose the information to third parties.
+## Information Usage
 
-**Third Party Intermediaries**  
-We occasionally use outside companies to mail promotional material via email and post. These companies do not retain, share, store, or use personally identifiable information for any secondary purposes.
+The International Culinary Center uses this information to continuously improve the products and services we offer to our customers.  Examples of such usage include, responding to users who request to be contacted, sending content to interested users who have opted in to receive our content, collection of application and enrollment data necessary for attendance to our classes, accessing and contributing to content within our online student communities, or attending and participating in online classes.
 
-**IP Address**  
-We log all connections to our web servers, and those log files include your IP address. An IP address is NOT personally identifiable information, but general information about your location, connection to the Internet, and your Internet Service Provider. We only use your IP address to help diagnose problems with our server and to administer the site.
+We do not sell or rent the information you provide us to Third Parties, but may share such information with our Partners to improve upon our products and services.
 
-**Cookies**  
-A cookie is a piece of data stored on the user’s computer tied to information about their computer. Usage of a cookie is in NO way linked to any personally identifiable information while on our site. So, while the user session will be tracked to give us an idea of what parts of the site a user is visiting, the user will remain anonymous. If a user rejects cookies, they may still use our site.
+We, along with Third Parties and our Partners, may use the Information to:
 
-We use both session ID cookies and persistent cookies. For the session ID cookie, once a user closes the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. We may use cookies to: keep count of your return visits to our site, and accumulate and report anonymous, aggregate, and statistical information on web site usage
+  * provide and communicate with you about the services or your account with us,
+  * fulfill your requests regarding the services, including without limitation requests for newsletters and notifications,
+  * respond to your inquiries, and notify you if you have won a contest,
+  * communicate with you about other products, programs or services that we believe may be of interest to you,
+  * enforce the legal terms (including without limitation our policies and terms of service) that govern your use of our services, and/or for the purposes for which you provided the Information,
+  * provide technical support for the services,
+  * prevent fraud or potentially illegal activities (including, without limitation, copyright infringement) on or through the services,
+  * protect the safety of our users,
+  * customize or personalize ads, offers and content made available to you based on your visits to and/or usage of the services or other online or mobile websites, applications, platforms or services, and analyze the performance of those ads, offers and content, as well as your interaction with them,
+  * perform analysis regarding how you use the services or any part thereof,
+  * send gifts, cards, invitations or emails if you use these services, to your designated recipients.
 
-We do not use cookies to identify, monitor, or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information we obtain.
 
-**Log Files**  
-Like most standard web site servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. This information is not linked to personally identifiable information.
 
-**Links**  
-The International Culinary Center web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware of that when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by [www.internationalculinarycenter.com](http://www.internationalculinarycenter.com/), [www.lecolenyc.com](http://www.lecolenyc.com/), and [www.pastryscoop.com](http://www.pastryscoop.com/).
+When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our services, (3) contact you through the social media service or directly by sending you the latest news, special offerings, and rewards, and (4) enable you to share your experience and content via social media services. When you provide information about yourself to us through social media services or other third party platforms, it may be publicly viewed by other members of these services and we cannot prevent further use of the information by third parties.
 
-**Security**  
-The International Culinary Center takes every precaution to protect our users’ information. When users submit sensitive information via the web site, their information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and protected with industry standard encryption software: Secure Sockets Layer (SSL). While on a secure page such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked or open, when users are just ‘surfing.’ While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All employees are kept up-to-date on our security and privacy practices. The servers that store personally identifiable information are also maintained in a secure environment. If users have any questions about the security on our web site, users can send an email to [Tara Hill](mailto:thill@frenchculinary.com).
+The International Culinary Center does not seek to solicit information from anyone under the age of 13 (which is defined as a child). If a child submits information to us and we know that the person submitting the information is a child, we will not use it for any purpose. We will deactivate the information as soon as we discover this fact and we will not disclose the information to third parties.
 
-**Notification of Changes**  
-We will notify all users if there are any material changes to our privacy policy. We will take commercially reasonable measures to obtain written or active email consent from the user if [www.internationalculinarycenter.com](http://www.internationalculinarycenter.com/), [www.lecolenyc.com](http://www.lecolenyc.com/), and [www.pastryscoop.com](http://www.pastryscoop.com/) is going to be using the information collected from the user in a manner different from that stated at the time of collection. All changes to our privacy statement will be posted prior to a change.
+## Information Security
 
-**Contact Us/Opt-Out/Update**  
-To remove or change your contact information in our database, or to not receive future mailings or other communications on our culinary programs, as well as for all other inquiries, please [unsubscribe here](https://secure.internationalculinarycenter.com/unsubscribe/).
+The International Culinary Center strives to protect our users’ information.  Submitted contact, application, registration, enrollment, and student data is protected from public access.  When our forms request sensitive or confidential information (such as educational records, identification data, credit card numbers, or bank account information), that information is encrypted in transit to protect against eavesdropping.  Credit card  and bank data are discarded after every transaction and not stored online by the International Culinary Center.  Employee access to user information is restricted by role and protected with logon access controls.
 
-To remove or change your contact info in our database, or to not receive future mailings from L’Ecole, send an email to [lecolenews@intlculcenter.com](mailto:lecolenews@intlculcenter.com) to unsubscribe.
+Our Sites may contain links to other web sites.  Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware of that when they leave our Sites and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by our Sites.
 
-You may also contact us at any time using the contact information below:
+## Information Compliance
 
+The International Culinary Center fully complies with the rights afforded to students under the Family Educational Rights and Privacy Act (FERPA).  Among these rights, are the rights for students to inspect, amend, and restrict access to their educational records.   For more information, see <http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html>
+
+## Information Choice
+
+The International Culinary Center maintains two mechanisms for our users to control the usage of their personal data  – email opt-out and prohibit data disclosure.
+
+Users may control their email preferences and/or opt-out completely by following the unsubscribe link within the footer of every email, or by clicking the link here <https://secure.internationalculinarycenter.com/unsubscribe/>.  Changing your email and/or opt-out preferences will prevent you from receiving ongoing commercial/promotional content via email.
+
+To prohibit any disclosure of your personal data,  a request must be made in writing to our Registrar ‘s Office at:  
+Office of the Registrar, International Culinary Center, 462 Broadway, New York, NY 10013
+
+## Policy Changes & Notification
+
+The International Culinary Center reserves the right to change our Privacy Policy at any time.  By using our Sites, you agree to the collection and use of information in accordance with the policy.  Changes to our privacy policy will be posted online with a new effective date, and you are encouraged the check this privacy policy periodically.  If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+## Contact Us
+
+You may also contact us at any time using the contact information below:  
 The International Culinary Center, LLC  
-Attn: Website Administrator  
+Attn: Websites Administrator  
+The International Culinary Center  
 462 Broadway New York, NY 10013  
-[administrator@internationalculinarycenter.com](mailto:administrator@internationalculinarycenter.com)
+[**administrator@internationalculinarycenter.com  **](mailto:administrator@internationalculinarycenter.com)
