@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laemmle.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208113312id_/http%3A//www.laemmle.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laemmle.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161144id_/http%3A//www.laemmle.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Laemmle.com
 
@@ -65,13 +65,11 @@ This site may contain message boards, and/or news groups available to its users.
 
 **Security**
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We use Secure Shell to access our servers remotely, and all server sessions are encrypted. We protect the secure areas of our site (including our databases and intranet) by using a commercial firewall.
+We use security measures to protect against the loss, misuse or alteration of the information under our control. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-Secure Encryption & Identity Assurance Services Provided by DigiCert®: A Secure Site Seal from DigiCert® establishes your business as a legitimate, registered, and safe place to do business online. Our secure server SSL Site Seal allows customers to check your identity, and Confirm Your Integrity.
+We follow generally accepted standards to protect the personal information transferred to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-DigiCert® provides security to Laemmle.com, Inc. by enabling the encryption of data transmitted between Laemmle.com, Inc. and your browser during an encrypted SSL/TLS session (look for the padlock).
-
-The BBBOnLine Reliability seal program is the Better Business Bureau's reliability assurance program for the World Wide Web, aimed at creating greater consumer trust and confidence on the Internet. The mission of the Reliability seal program is to help web users find reliable, trustworthy, businesses online, and to help reliable businesses identify themselves as such, via voluntary self-regulatory programs. The BBBOnLine Reliability Seal supports the growth and development of safe and secure e-commerce.
+We use Secure Shell to access our servers remotely, and all server sessions are encrypted. We protect the secure areas of our site (including our databases and intranet) by using a commercial firewall.
 
 **Choice/Opt-Out - Your Ability to Opt-Out and Remove Your Information**
 
@@ -87,7 +85,7 @@ Customer Service
 11523 Santa Monica Blvd.  
 Los Angeles, CA 90025
 
-4.      Users can call the following telephone number: 1-310-478-1041 ext. 215
+4.      Users can call the following telephone number: 1-310-478-1041
 
 **Correct/Update - Your Ability to Update Your Information**
 
@@ -98,7 +96,7 @@ This site gives users the following options for changing and modifying informati
 Laemmle  
 Customer Service  
 11325 Santa Monica Blvd.  
-Los Angeles, CA 90025Users can call the following telephone number: 1-888-440-8457
+Los Angeles, CA 90025
 
 
 
