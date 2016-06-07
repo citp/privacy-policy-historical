@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fla-keys.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207130910id_/http%3A//www.fla-keys.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fla-keys.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608010546id_/http%3A//www.fla-keys.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - TDC Monroe County Florida Keys Official Tourism Website
 
@@ -27,6 +27,8 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+As a County tourism promotion agency, we consider the personal information you provide, including your email address, to be exempt from s. 119.07(1) and from s. 24(a), Art. I of the State Constitution pursuant to F.S. 125.0104(9)(d).
 
 **Third party links**
 
