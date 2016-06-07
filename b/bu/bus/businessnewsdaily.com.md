@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessnewsdaily.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230235329id_/http%3A//www.purch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessnewsdaily.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607090547id_/http%3A//purch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Purch
 
@@ -6,7 +6,7 @@ Purch has created this Privacy Policy in order to set forth the principles gover
 
 **Purch has updated its privacy policy to clarify how it collects, uses, stores and shares data and to provide more details around these practices. Please read this Privacy Policy as you consent to these data practices by using this Website.**
 
-Your privacy is very important to us. This Privacy Policy describes and governs the information collection, use, and sharing practices of TechMediaNetworks, Inc. (d/b/a Purch) and its corporate affiliates (collectively, “Purch,” “we,” “us,” and “our”) with respect to Purch’s websites and interactive services that link to this Privacy Policy from the Privacy Policy link included on such sites and services (together, the “Websites”).
+Your privacy is very important to us. This Privacy Policy describes and governs the information collection, use, and sharing practices of Purch Group, Inc. and its corporate affiliates (collectively, “Purch,” “we,” “us,” and “our”) with respect to Purch’s websites and interactive services that link to this Privacy Policy from the Privacy Policy link included on such sites and services (together, the “Websites”).
 
 Please note that this Privacy Policy applies only to information collected by Purch and not to information collected by any third-party sites to which Purch may link or information provided to or collected by third-parties through third-party cookies, web beacons, and other third-party technologies served during your visit to the Websites.
 
@@ -145,7 +145,7 @@ Third-party cookies, web beacons, and other third-party Tracking Technologies ar
 
 We use a variety of companies to serve advertisements on our Websites.
 
-You may wish to visit [http://www.networkadvertising.org](http://www.networkadvertising.org/ "http://www.networkadvertising.org")/ to learn more about online advertising including behavioral advertising. This website provides information about the Network Advertising Initiative (“NAI”), its members, and your choices regarding having information used by NAI companies, including the “opt-out” procedures of NAI members which are located at: <http://www.networkadvertising.org/choices/>.
+You may wish to visit <http://www.networkadvertising.org/> (the “NAI Site”) and<http://www.aboutads.info/principles/>  (the “DAA Site”) to learn more about online advertising including behavioral advertising. The NAI Site provides information about the Network Advertising Initiative (“NAI”), its members, and your choices regarding having information used by NAI companies, including the “opt-out” procedures of NAI members which are located at: <http://www.networkadvertising.org/choices/>.  The DAA Site provides information about the Digital Advertising Alliance and the companies who participate in its transparency and choice program around interest-based advertising.  You can opt-out of having the participating companies collect Web viewing data for interest- based advertising by visiting this page: <http://www.aboutads.info/choices/>.
 
 You may also wish to visit Google’s advertising opt-out page located at: <http://www.google.com/policies/privacy/ads/>. There you will find information about “opting-out” of Google’s use of cookies to serve ads based on your prior visits to our Websites.
 
