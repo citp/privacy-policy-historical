@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rap-up.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207114450id_/http%3A//www.rap-up.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rap-up.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608000706id_/http%3A//www.rap-up.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rap-Up
 
