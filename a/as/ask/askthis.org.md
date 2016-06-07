@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askthis.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133410id_/http%3A//askthis.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askthis.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607160052id_/http%3A//askthis.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,8 +60,8 @@ If you have any questions or concerns about this askthis.org Privacy Policy or i
 
 askthis.org  
 Attention: Privacy Issues  
-1111 Main St. Suite 201  
-Conway, AR 72032  
+500 President Clinton Ave. Suite 300  
+Little Rock, AR 72201  
 [contact@askthis.org](mailto:contact@askthis.org)
 
 **Last Updated:** January 30th, 2015
