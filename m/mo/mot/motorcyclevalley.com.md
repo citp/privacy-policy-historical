@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motorcyclevalley.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207090851id_/http%3A//www.motorcyclevalley.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcyclevalley.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161127id_/http%3A//www.motorcyclevalley.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Bike Bangladesh. Motorcycle Price Specs News and Reviews.
+# Motorcycle Price in Bangladesh. Bike Price in BD. TVS Suzuki Pulsar Bajaj Yamaha Honda Hero.
 
 **www.motorcyclevalley.com** is the best place where you can find all the important, essential and wishing information about motorcycles or bikes whenever you want wherever you want. So our user’s privacy is very important for us. We never use any kind of misuse with your any kind of information and of course not without your permission. We follow our strict privacy policy which is necessary to read every user before use our website (www.motorcyclevalley.com).  
 The privacy policies are given below: 
