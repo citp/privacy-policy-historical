@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukvapers.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208143501id_/http%3A//ukvapers.org/Thread-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukvapers.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607091641id_/http%3A//ukvapers.org/Thread-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,8 +44,6 @@ If you have any questions regarding this privacy policy, you can contact us via 
 
 * * *
 
-[  
-  
-](http://www.puffin-eliquid.com/ukv/)
+Massive thanks to everyone who helped my daughter and me raise over £500 for Macmillan Cancer Support through our OutRun May Challenge 
 
 (This post was last modified: 03/11/13 09:36 PM by [Phil A](http://ukvapers.org/User-Phil-A). )
