@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ozmodchips.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207090219id_/http%3A//www.ozmodchips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozmodchips.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608002549id_/http%3A//www.ozmodchips.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : OzModChips.com, Australian Supplier of WiiKey, Drivekey, M3, R4DS and CycloDS
+# Privacy Notice : OzModChips.com, Australian Supplier of x360k3y/xk3y, R4DS, Gateway3DS, Sky3DS+ and Cronus Max Plus
 
 This site is owned and operated by Ozmodchips.com. Your privacy on the Internet is of the utmost importance to us. At Ozmodchips.com, we want to make your experience online satisfying and safe. Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
 
