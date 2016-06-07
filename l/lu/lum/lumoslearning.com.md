@@ -1,84 +1,138 @@
-> *The following text is extracted and transformed from the lumoslearning.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208145811id_/http%3A//lumoslearning.com/llwp/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumoslearning.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607075402id_/https%3A//lumoslearning.com/llwp/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy - Lumos Learning
 
-This privacy statement is designed to help you understand how we use and safeguard the personal information you provide to us. This privacy statement describes the practices of LumosTestPrep.com, LumosEditor.com, and Lumos Information Services.
+**IMPORTANT:
 
-### Information That We Collect
+THIS PAGE PROVIDES GENERAL INFORMATION ABOUT THE PRIVACY POLICY OF THIS WEBSITE. IF YOU ARE UNDER 18 YEARS OF AGE, PLEASE BE SURE TO READ THIS PRIVACY POLICY WITH YOUR PARENTS OR GUARDIAN AND ASK QUESTIONS ABOUT THINGS YOU DO NOT UNDERSTAND.
 
-When you visit our Web site, you may provide us with information in different ways. For example, you may register with us or sign up for our newsletter.  Additionally, we collect information on an aggregate basis as you and others browse our web site.
+**
 
-### Children’s Data
+**Effective date : 05/07/2016**
 
-The Lumos Information Services websites are designed for elementary, middle and high school students, their parents, and adults seeking information on higher education. Children under 13 years of age may use these websites to get general information about higher education. However, we do not collect personal information from anyone under 13, and children under 13 may not register or conduct personalized searches.
+www.lumoslearning.com (herein referred to as Website) is owned, managed and operated by Lumos Information Services, (hereinafter referred to as Company or We or Us or Our) a Limited Liability Company registered in New Jersey, USA with the registered address at PO Box 1575, Piscataway, NJ 08855.
 
-The types of information we ask for varies with the search you’re conducting. In addition to your name and contact information, we will ask for other information related to the topic. If you request document editing services from us, you will provide a copy of the letter, essay or resume you want us to revise.
+The Privacy Policy (hereinafter referred to as Policy) outlines the Company practices, policies and procedures concerning the collection, use, and protection of information collected from the users of this Website, in whatever capacity they use this Website (herein referred to as User, You or Your). We are committed to protecting your online privacy while you use this Website as a visitor or registered user.
 
-### How We Use the Information
+This Policy and Our privacy practices in pursuance thereof are consistent with the relevant provisions contained under Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 (hereinafter, referred to as Rules).
 
-In general, we use the information you provide in order to:
+By using this Website or any features thereof, you understand, acknowledge, and agree to the clause(s) and sub-clause(s) contained hereinafter. In case you do not agree to any of the following clause(s) or sub-clause(s), you understand, acknowledge and agree that your sole remedy against the Company is the cessation of further use of this Website.
 
-  * Respond to your requests for information
-  * Provide the services you request
-  * Provide customer service
-  * provide links between targeted product and service providers and appropriate individuals
+_This Policy is incorporated by reference within Our Terms of Use Agreement and shall be read in conjunction with the said Terms of Use Agreement._
 
+  * ### 1\. Personally identifiable Information Collection, Non Collection and Usage:
 
+    * **1.1 Sensitive Personal Data or Information :**
 
-   
-If you request editing services, we provide those services and bill you for the services as instructed. We do NOT sell any personal information from essays or resumes to any third parties. The full policy regarding use of customer information can be found in the Terms of Service that you must check to complete your order.
+We do not collect any Sensitive Personal Data or Information, from any user of this Website. During the online registration process, We ask for your email id, preferred password in order to allow secure access to the features of the Website that are reserved for the registered members of this Website (hereinafter, referred to as Member Area). Once registered, You can access the Member Area by keying in your login id and the corresponding password.
 
-If you purchase a product or service on our site, you may provide us with a credit card number. This credit card number will only be used to process your purchase. We will not disclose credit card numbers to third parties for marketing purposes under any circumstances.
+    * **1.2 Personally identifiable information :**
 
-In general, it is our policy to share information with other Lumos Information Services companies unless you tell us not to by opting out. Unless you agree (by opting in), we will not share personal information about you with unrelated companies except as needed to complete your transaction. However, we may disclose any information when legally compelled to do so or when needed for the protection of our legal rights. For example, we may disclose information about you in response to a subpoena or government investigation. We may also disclose information about you in connection with the transfer of assets of our business.
+In order to become a registered member of this Website, You are required to fill and submit an online Registration Form. Through this Registration Form, We collect certain personally identifiable information from You including, but limited to, Name, email id, login name and password.
 
-At registration, you will be given the opportunity to opt-out of Company internal promotions, offers and marketing messages. You will also be given the opportunity to opt-in to receive offers from partners and third parties.
+We do not collect any other personal information about Users except when such Users specifically provide personal information on a Voluntary basis (for example user name and password, login information) in connection with a request for technical support, whether by email or phone request or when personal information is provided on behalf of an individual (for example, by a school administrator or teacher entering identifying information about teachers, students or parents or library for the purpose of setting up users).
 
-### Your Choices
+Based on the Online programs enrolled by the User, the personal information provided may also consist of, but limited to (i) school administrators’ names, contact information and Login Information, (ii) teachers’ names, Department of Education identification number, contact information and Login Information, (iii) identifying information about students provided by the school administrator or teacher (e.g. students’ names or school-issued identification numbers) or parents, solely for the purpose of tracking and gathering data regarding such students’ use of various products, and (iv) parents’ names and contact information provided by the parent themselves or school administrator or teacher, solely for reference.
 
-_Opting Out of Offers from Lumos Information Services_
+      * **1.2.1 Personal Information provided on behalf of children :**
 
-We only want to send you information if you want to receive it. You may opt out of receiving additional or future information from us or from having your information shared within the Lumos Information Services at any time by doing any one of the following: clicking the “unsubscribe” link found in every newsletter or email, or by contacting our customer services department by email at support@lumostestprep.com or phone (888-408-1689) and requesting removal from our internal email lists.
+We understand that Users who are under 13 years of age (“Children”) need special safeguards and privacy protection, and it is the intent of Lumos Information Services to fully comply with the Children’s Online Privacy Protection Act (“COPPA”). Lumos Information Services does not collect personal information directly from Children online at any point. Lumos Information Services only receives personal information about Children directly from school administrators and/or teachers or Parents when they set up Student account. Parents or legal guardians should contact their Child’s school to review any personal information regarding their Children that the school’s administrators or teachers have provided to Lumos Information Services.
 
-_Opting In for Offers from Our Marketing Partners_
+Parents or legal guardians can request that their Children’s school not provide any personal information through Student account to Lumos Information Services. Please be aware that, depending on the school’s policies, if a parent or legal guardian makes such a request, their Children may no longer be eligible to be enrolled in Lumos Information Services programs. Therefore, such a request by a parent or legal guardian could potentially terminate their Children’s participation in and their use of Lumos Information Services programs.
 
-If you want to receive information from our marketing partners, you may opt in during the registration process by checking the appropriate boxes on the registration page. If you do opt in, you can always change your mind and inform us that you no longer want to disclose your information to new marketing partners. Simply contact our customer services department by email at support@lumostestprep.com and request removal from our external email list or call us at (888-408-1689)
+    * **1.3 Collection of Personally Identifiable Information:**
 
-_Newsletter_
+Besides the Registration Form, We may collect the aforementioned personally identifiable information, or any part thereof, from the Survey Forms, Referral Forms, Newsletters Subscription Forms, Invitation Forms, Sweepstakes/Competitions/Contests Forms, or any other promotional or research activities undertaken by the Company and which necessitate the collection of such personally identifiable information.
 
-If a user wishes to subscribe to any of our newsletters, we ask them to register by providing their contact information (email address), geographic information (zip code), and segmentation information (high school student, parent, etc.). Newsletter recipients will also receive Company offers from time-to-time and may opt-out of these offers by using the method described above.
+  * ### 2\. Use of Personally identifiable information:
 
-_Promotions, Surveys and Contests_
+    * 2.1 The aforementioned personally identifiable information is collected in order to achieve the basic objectives of the Website and to provide You with timely, efficient, and personalized services (wherever required).
 
-From time-to-time our site requests information from users via promotions, surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), segmentation information (such as high school student, parent, etc.) and demographic information (such as zip code). Contact information will be used to process entries, send promotional material, notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving use of and satisfaction with this Web site.
+    * 2.2 Your email ID is used firstly to verify the genuineness of Your registration application, and then to activate Your account with the Website, and finally to communicate with You regarding latest updates and news of the Website, respond to Your requests, and other important information that You may require either to act upon or for Your general information purposes.
 
-Please be sure to consult the official rules of any contest or sweepstakes you enter as specific data collection and usage practices may vary by contest or sweepstakes. Unless the official rules or entry instructions provide otherwise, contest or sweepstakes participants may opt-out of receiving future mailings or having their information shared with other companies by the method described above.
+    * 2.3 We only send newsletters, latest offers, news, and updates to subscribers who opt to receive the newsletter. If You do not want Us to contact You for this purpose, You can opt-out by clicking the Unsubscribe link that is included in all Our similar emails.
 
-_Email A Friend/Tell A Friend_
+    * 2.4 We may send certain communications to Your postal address, which are required by law to be communicated via offline mode as well.
 
-If a user elects to participate in our referral program for recruiting friends to become a customer of the site, we ask the user to provide the email address of the friend who will then receive a one-time email message. Friends recruited through this program will register with us and enjoy all of the benefits of being a user.
+    * 2.5 We allow the option to share certain website details on social media like Facebook, twitter, LinkedIn or Google plus in order to help You share and stay connected with Your network of friends on these popular media.
 
-_Special Offers_
+    * 2.6 As a registered member of this Website, You are also provided with the facility to post blogs on the Website, which are publicly accessible to all visitors to this Website. While We reserve the right to moderate all such blog posts for compliance with Our Terms of Use Agreement, We shall not be liable for any such blog post that may compromise the poster’s online privacy. Consequently, You may use Your Pet Name or real name within the blog post, but We disclaim any liability arising out of all such disclosures by the user him/ herself.
 
-We send all new members a welcoming email. Established members will occasionally receive information on products, services, special deals, or a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see description of our opt-out policy above.
+    * 2.7 In the event you provide a feedback to Our website or leave a testimonial for Us, We shall treat all the personally identifiable information contained in such feedback/testimonial in accordance with the provisions contained herein.
 
-### Cookies and Web Site Information
+    * 2.8 We ask your email id in case of Forgotten password to reset your password. You are advised to change the password after logging into your id using the temporary password provided as per the suggestion in our mail. In case the account has been created using Username and not email id, we take necessary account details over phone for resetting the password. We treat this a personally identifiable information and is treated in accordance with the provisions contained herein
 
-Like most other commercial websites, we use standard “cookie” technology and web server logs to collect information about how our web site is used. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computers used to access our websites. Cookies allow you to move from page to page on the website, by remembering the information about the entire session.
+    * 2.9 Only that much personally identifiable information is collected as is absolutely vital to provide You with efficient and timely services.
 
-Information gathered through cookies and by our web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
+    * 2.10 All Your personally identifiable information so collected is kept confidential and never shared with, or sold to, or otherwise commercially traded with, any third party without Your prior express written consent. However, We may share all or part of such personally identifiable information with trusted third party providers and/or suppliers who work on Our behalf in order to provide You with efficient and timely services. However, all such third party providers and/or suppliers are under appropriate burden of confidentiality not to share, disclose, or independently use any of the personally identifiable information so collected.
 
-Please note that this website provides direct links to various other websites, where you can apply for products and services or register for more information. This privacy statement does not describe the practices of our partners. Before disclosing personal information on any other company’s web site, you should read the privacy policy associated with that site.
+  * ### 3\. Retention of Personally Identifiable Information:
 
-### How Do We Secure Information Transmissions?
+We reserve the right to retain any and all of Your personally identifiable information so collected through this Website for as long duration as is mandated by the applicable law for the time being in force as as governed by Our administrative expediency, whichever period expires later.
 
-If you purchase a product from us, we will ask for a credit card number. These transactions are secured using licensed secure server software which encrypts the information you provide.
+  * ### 4\. Review of Personally Identifiable Information:
 
+All the personally identifiable information so collected is available for review and revision in Your Member Area. You can, at any time, review and/or change such personally identifiable information, which is incorrect or inaccurate or has turned obsolete.  
+However, You understand, acknowledge and agree that We shall not be liable for the authenticity of any personally identifiable information You provide at any time.
+
+  * ### 5\. Non Provision of Personally Identifiable Information:
+
+We collect only reasonable amount of personally identifiable information in order to provide You with efficient and timely services.  
+However, should You choose not to provide Us with the requested personally identifiable information, You understand, acknowledge and agree that You don’t have any actionable claim in this regard against the Company and the Company shall not obligated to deliver the requested services in the absence of the provision of the requested personally identifiable information.
+
+  * ### 6\. Non Personally identifiable Information – Collection and Usage
+
+    * **6.1 Non Personally identifiable information collection:**
+
+When You visit different pages of this Website, We also collect certain non personally identifiable information including, but not limited to, the type of browser used to access this Website, Internet Protocol (IP) Address of Your computer system, IP address of Your Internet Service Provider (ISP), the operating system installed on Your computer system, etc.
+
+    * **6.2 Usage of Non Personally Identifiable Information:**
+
+We use non personally identifiable information to improve the layout and content of Our Website, provide You with customised advertisements, analyse the Website usage, and enhance Your overall experience of using this Website.
+
+  * ### 7\. Cookies Policy :
+
+We use cookies to collect the aforementioned non personally identifiable information from the users of this Website. Cookies are small text files that are placed on the hard drive of Your computer system by a Web page server. The cookies are meant to determine such information as: how You use Our Website, how You use Our services in general, types of data accessed, time and volume of use, duration of sessions and other similar usage. The cookies are also used to avoid repeat login while the session is still open. Our cookies do not, in any way, compromise on Your online privacy or damage Your computer system in any manner whatsoever. However, You shall be solely responsible for regularly clearing cookies, cached data and temporary internet files from Your computer system in order to manage the downloaded data, if any.
+
+  * ### 8\. Private Messaging :
+
+Lumos Information Services may offer private messaging to certain registered Users. Users should be aware that any information posted in these forums will be received by the specified User’s account. Lumos Information Services has no obligation to monitor the private messaging system. Lumos Information Services reserves the right, however, at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, or to edit, or remove any information or materials, in whole or in part, that in the sole discretion of Lumos Information Services are objectionable or in violation of this privacy policy or the terms and conditions governing the User’s use of the Website.
+
+  * ### 9\. Links :
+
+    * 9.1 Website may contain links to other Web sites, chat rooms, or other resources that Lumos Information Services provides for Users’ convenience (the “Linked Sites”). The Linked Sites are not under the control of Lumos Information Services, and Lumos Information Services is not responsible for the content available on any Linked Site. The Linked Sites do not imply the endorsement of material from Lumos Information Services on any Linked Site, and Lumos Information Services expressly disclaims all liability with regard to Users’ access to such Linked Sites. Access to any Web sites linked to Lumos Information Services is at Users’ own risk.
+
+    * 9.2 At our discretion, we may include or offer Third Party Products or Services on our Website. These Third Party services may have separate and independent Privacy Policies. We , therefore, have no liability or responsibility for the content and activities of these linked sites.
+
+  * ### 10\. Copyrights :
+
+The contents of this Website are Copyright © of the Company. Any contents of the Website, including texts, documents, logos, images, graphics, video, their arrangement and adaptation on the same site are subject to the laws of intellectual property and protected by copyright. The copy, alteration, distribution, publication or use of these contents on other sites to trading purposes is not permitted without the specific authorization of Lumos Information Services.
+
+  * ### 11\. Trademarks :
+
+All the trademarks and logos belong to Lumos Information Services, displayed on the Website are exclusive property of Lumos Information Services. Any use and/ or reproduction of the same for any purposes or by means is expressly prohibited and will be persecuted under the appropriate laws.  
+The trademarks & logos belonging to third parties displayed on the Website are the exclusive property of their owners and any use/ or reproduction is prohibited. The third party links and logos used are only for identification and to provide access to their services.
+
+  * ### 12\. Commitment to Data Security :
+
+To Prevent unauthorized access, maintain data accuracy, and ensure the correct use of Information, Lumos Information Services has put in place commercially reasonable physical, electronic and managerial procedures to safeguard and secure the information Lumos Information Services collects. Lumos Information Services also uses Secure Socket Layer (SSL) protocol on registration and login pages to protect personal information.  
+For Purchase of products from our Website, we ask for Credit Card number. These transactions are secured using licensed secure server software which encrypts the information you provide.  
 Additionally, we periodically review our operations and business practices for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information.
 
-### Contact Us With Any Questions
+  * ### 13\. Your Consent :
 
-If you have any questions about this privacy statement, the practices of our websites, or your dealings with this web site, please contact the proper address below:  
+By Using our Website, you consent to Our Privacy Policy.
+
+  * ### 14\. Changes in Privacy Policy :
+
+We reserve the right, in our sole discretion, to amend and update this Policy or any part thereof at any time. We shall notify any major amendment(s) in the Policy by a notice requesting perusal on the homepage, which shall run for fifteen (15) days from such amendment(s). All such amendment(s) and updates shall come into effect immediately upon posting on the Website page. You are, therefore, advised to visit this Website page periodically to remain informed about the latest changes affected to this Policy. Your continued usage of this Website constitutes your implied acceptance of the amended Privacy Policy.
+
+
+
+
+### Contact Us :
+
+If you have any questions about this privacy statement, the practices of our websites, or your dealings with this web site, please contact us at:  
 Company: Lumos Information Services  
 Phone: 888-309-8227  
 Fax: (866)283-6471  
