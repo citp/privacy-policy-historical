@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131120id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608004617id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Covestor
 
-Covestor Limited has adopted this policy with recognition that protecting the privacy and security of the personal information we obtain about our members, clients and Portfolio Managers is an important responsibility. We also know that you expect us to service you in an accurate and efficient manner. To do so, we must collect and maintain certain personal information about you.
+Covestor Ltd has adopted this policy with recognition that protecting the privacy and security of the personal information we obtain about our members, clients and portfolio managers, is an important responsibility. We also know that you expect us to service you in an accurate and efficient manner. To do so, we must collect and maintain certain personal information about you.
 
-This policy outlines the types of information we collect about you and how we use and safeguard that information. If you have any questions or concerns regarding this statement, you should contact [Customer Services](http://site.covestor.com/contact)
+This policy outlines the types of information we collect about you and how we use and safeguard that information. If you have any questions or concerns regarding this statement, you should contact us at 1 (866) 825-3005.
 
   
 
@@ -28,17 +28,17 @@ We collect two types of information from our users. The first is information tha
 
 #### 3\. What Information We Disclose
 
-  1. We do not disclose the non-public personal information we collect about our clients and publishers to anyone except:
+  1. We do not disclose the non-public personal information we collect about our clients and portfolio managers to anyone except:
 
-    1. in furtherance of our business relationship with them and then only to those persons necessary to effect the transactions and provide the services that they authorize (such as broker-dealers, custodians, independent managers etc.);
+    1. in furtherance of our business relationship with them and then only to those persons necessary to effect the transactions and provide the services that they authorize (such as broker-dealers, custodians, independent portfolio managers on our platform, etc.);
 
     2. to persons assessing our compliance with industry standards (e.g. professional licensing authorities, etc.);
 
-    3. our attorneys, accountants, and auditors; or as otherwise required by government agencies and other third parties by law.
+    3. our attorneys, accountants, and auditors or as otherwise required by government agencies and other third parties by law; and
 
     4. to third parties in certain circumstances (such as third parties that perform administrative or marketing services on our behalf or for joint marketing programs). These third parties are prohibited to use or share the information for any other purpose.
 
-  2. If you decide at some point to either terminate our services or become an inactive client or publisher, we will continue to adhere to our privacy policy, as may be amended from time to time.
+  2. If you decide at some point to either terminate our services or become an inactive client or portfolio manager, we will continue to adhere to our privacy policy, as may be amended from time to time.
 
 
   
@@ -50,7 +50,7 @@ We collect two types of information from our users. The first is information tha
 
   2. We maintain physical, electronic and procedural safeguards that comply with applicable federal or state standards to protect your non-public personal information.
 
-  3. The entire Covestor.com website uses secure socket layer technology (SSL) so that information displayed and submitted by you is always encrypted. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+  3. Information submitted by you on the Covestor.com website is encrypted using industry standard secure socket layer technology (SSL). No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 
   
@@ -82,7 +82,7 @@ We collect two types of information from our users. The first is information tha
 
 #### 7\. Amending Your Account Information
 
-  1. We are committed to keeping accurate and up-to-date records to help ensure the integrity of the services we offer. If you identify an inaccuracy, or need to make a change to it, please either update the information if you are able directly on our website or alternatively contact Customer Service.
+  1. We are committed to keeping accurate and up-to-date records to help ensure the integrity of the services we offer. If you identify an inaccuracy in, or need to make a change to your account information, please either update the information if you are able to do so directly on our website or alternatively contact Client Services by phone at 1 (866) 825-3005 or by email at clientrelations@covestor.com.
 
   2. Covestor has the right to edit, remove or add any information at any time at its sole discretion.
 
@@ -102,5 +102,5 @@ We collect two types of information from our users. The first is information tha
 
 #### Date
 
-08 August 2014  
-Copyright © 2014 Covestor Ltd. All rights reserved.
+04 April 2016  
+Copyright © 2016 Covestor Ltd. All rights reserved.
