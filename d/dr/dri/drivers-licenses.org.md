@@ -1,137 +1,276 @@
-> *The following text is extracted and transformed from the drivers-licenses.org privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119062447id_/http%3A//drivers-licenses.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers-licenses.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607203730id_/http%3A//drivers-licenses.org/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | drivers-licenses.org
+# None
 
-Privacy Policy | drivers-licenses.org
+###  **Last Updated: 02/17/2016**
 
-Last Updated: March 2, 2015
+Welcome! You have arrived at a web site that is provided by **Final Draft, LTD.** (" **Company** "or " **we** ," " **our** " or " **us** "). This " **Privacy Policy** " governs your use of [drivers-licenses.org](http://drivers-licenses.org/) (including, without limitation, both mobile and online versions of our site), and also applies to your use of all features, applications, content, downloads and other services that we make available through these sites and/or that post a link to this Privacy Policy (collectively, referred to herein as the " **Site** "), regardless of how you access or use the Site, whether via personal computers, mobile devices or otherwise. This Privacy Policy does not apply to our data collection activities offline or otherwise outside of our Site (unless otherwise stated below). 
 
-Please review our Terms and Conditions which also governs your visit to our sites(s) to understand our practices.
+To the extent we provide you notice on our Site of different or additional privacy policies or practices ( _e.g._ , at the point of our collection), those additional terms shall govern such data collection and use. 
 
-#### drivers-licenses.org Privacy Statement
+In addition, please review the Site's **_[Terms and Conditions](https://web.archive.org/tc.html)_** , which governs your use of the Site. _By using our Site_ , _you consent to our Privacy Policy and Terms and Conditions and our collection, use and sharing of your information and data, and other activities, as described below._
 
-Welcome to the drivers-licenses.org Web site, www.drivers-licenses.org owned and operated by Cambridge Media Series LLC ("drivers-licenses.org", "we," "us," or "our"). drivers-licenses.org is committed to respecting the privacy rights and concerns of all users of our www.drivers-licenses.org Web site (the "Site"). As such, we have established and implemented this Privacy Statement to inform visitors to this Site how we use and protect the information we collect at this Site.
+##  **_Table of Contents_**
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+**It is important that you read and understand the entire Privacy Policy before using the Site. However, this table of contents highlights key issues and points and you can click on the headings and the " _More_ " links to be taken to the full explanation. **
 
-If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy statement.
+  1. ### What Information Does the Site Collect?
 
-drivers-licenses.org has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.drivers-licenses.org. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at info@drivers-licenses.org. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+    1. #### Information You Provide to Us
 
-#### What information does drivers-licenses.org collect?
+You may provide us with Personal Information and Demographic Information such as when you complete a form on the Site, contact us or submit information through the Site. **More**
 
-We collect certain types of information and ask for PERSONAL INFORMATION such as your name, age, gender, education, occupation, telephone number, ID number, mobile telephone number (if you have a mobile phone), e-mail address, home address and/or zip code, and voter registration information ("PERSONAL INFORMATION"). We also collect billing information such as credit card number to process your payment and fulfill your order.
+    2. #### Information We Collect and Store As You Access and Use the Site
 
-We may collect such PERSONAL INFORMATION when you fill out the voter registration form or if you decide to participate in a survey, take a poll, sign a petition, set up an account, or it is necessary to participate, for example, in a contest, petition, sweepstakes promotion, survey or other activity. The following sections describe what type of information we collect, when we collect it and how we use it.
+Certain information may be collected from you automatically when you access and use the Site. For example, we and third parties may use Tracking Technologies to collect Usage Information based on your Device Identifier for a variety of purposes, including tracking, targeting, and advertising, which may include activities across time and third party locations. **More**
 
-#### Information you give us
+    3. #### Information Third Parties Provide About You
 
-We receive and store any information you enter on our Web site or give us in any other way. For example you provide information when fill out the voter registration forms or participate in a poll: communicate with us and you grant us permission to contact you by phone, e-mail, SMS/MMS or otherwise; complete any questionnaire, survey, petition or entry form; or employ any of our notification services or engage in any of our services. In order to use certain functionality of drivers-licenses.org, you will have to submit certain PERSONAL INFORMATION. In addition we may collect information associated with your usage participation and submissions to our Web site and features. We may also collect any and all information associated with your practices and actions. We may also collect demographic information that you provide to us, such as your zip code or income level. We use your demographic information to tailor the Site to you and for internal purposes.
+We may obtain information about you from third parties. **More**
 
-#### Automatic Information
+    4. #### Interactions with Third-Party Services
 
-In the process of operating our Web site(s) and interacting with you we may automatically collect and analyze a variety of information and store it in log files. This information may include but is not limited to, the internet protocol (IP) address, computer and connection setting browser plug-in types and versions operating system and platform; purchase and participation history; products you viewed or searched for; and the ways you used to contact us.
+If you interact with third-party services, those services may send us information about you and you or we may send them information about you. **More**
 
-We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, as well as our marketing and analytics and site functionality. 
+    5. #### Information You Provide About a Third Party
 
-Technologies such as: cookies, beacons, tags and scripts are used by Cambridge Media Series LLC and our marketing partners, affiliates, analytics, service providers, and online customer support providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+You may provide us information about others, such as when you send a friend a message. **More**
 
-We use cookies for our shopping cart, to record user settings for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+    6. #### California Do Not Track Disclosures
 
-#### Behavioral Targeting/Re-Targeting
+We do not look for or respond to do not track signals, but you may have certain other options regarding tracking and/or targeting. **More**
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+  2. ### How Do We Use the Information Collected?
 
-#### Information from Other Sources
+We use your Personal Information, Demographic Information and Usage Information for a variety of purposes detailed in this section. **More**
 
-We may receive information associated with your account from other sources including, but not limited to, 3rd party advertisers, affiliated companies, 3rd party billing providers, and credit card processors. drivers-licenses.org may also allow third-party to advertise on or link to our site(s). You can find out more about the information collection and use practices of these other parties by examining their associated policies.
+  3. ### How and When Do We Disclose Information to Third Parties?
 
-#### Customer Service
+We may provide your information to third parties under various circumstances detailed in this Section.These may include:
 
-We provide customer service support through e-mail or telephone. In order to provide customer support, we will ask for your e-mail address and phone numbers. We only use information received from customer support requests, including e-mail addresses, mobile phone numbers and user names, for customer support services and we do not transfer or share this information with any third parties, except third parties who may help us administer such customer support, if any.
+    1. #### When You Request Information From or Provide Information to Third Parties
 
-#### How do we use the information you provide us?
+If you request information from third parties, request that we send information to third parties or interact with third party services, content, ads or tools (including Facebook and other third party share functionality), we may share your information with such parties and/or they may collect your information directly. This may also include ordering or purchasing products from third parties through us where we indicate that the third party rather than us is the seller. **More**
 
-As stated above, we use your PERSONAL INFORMATION such as your name, address, and mailing address for customer service, to provide you with information that pertains to your place of residence or that you may request, send you newsletters and to customize your experience on the Site.
+    2. #### Third Parties Providing Services on our Behalf
 
-These third parties may include the credit card companies and banking institutions used to process the transaction. We also will use your e-mail address to send you email updates and messages about future programs, issues, activities, offers, promotions, surveys, petitions and Site news in which we think you would have an interest, or to contact you when we provide customer support.
+Our vendors may collect your information or we may share it with them. **More**
 
-In addition, we may also use your e-mail address to send you information on updates to the drivers-licenses.org features and services which we may make available from time to time. To opt out of receiving these e-mails, please contact us at info@drivers-licenses.org. 
+    3. #### Administrative and Legal Reasons
 
-We may also provide information about our visitors to outside parties from time to time. For further details, please see the section below titled, "Does drivers-licenses.org disclose the information it collects to outside parties?"
+There are a variety of administrative and legal reasons for which we may share your information. **More**
 
-We may use the information we collect to tailor your experience on drivers-licenses.org Features and services by displaying content according to your interests and preferences, providing a faster method for you to access your account and submit information to us and allowing us to contact you, if necessary, such as, but not limited to, when a new issue, petition, survey or service is available.
+    4. #### Affiliates and Business Transfer
 
-We may use the information we collect to provide current and future customers with new products and services. In efforts to provide better, more tailored and higher valued services, we may market to customers existing, new or upgraded offerings, products and services.
+We may share your information with our affiliates or in the event of a sale, merger or similar transaction. **More**
 
-#### How does drivers-licenses.org protect customer information?
+    5. #### Sweepstakes, Contests and Promotions
 
-We implement a variety of security measures to ensure the security of your PERSONAL INFORMATION on our systems. User PERSONAL INFORMATION is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+Promotions entrants may be required to consent to certain information sharing. **More**
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at info@drivers-licenses.org.
+    6. #### Your California Privacy Rights
 
-#### How do I update my Personal Information?
+California residents may request information about sharing of certain personal information with third parties for the third parties' direct marketing purposes by contacting us using the methods described in this section. **More**
 
-If your personal information changes, or if you wish to delete inaccuracies or update it, you may do so by contacting us at info@drivers-licenses.org. We will respond to your access request within 30 days.
+  4. ### Ads and Information About You
 
-We will retain your information as needed to provide you services. If you wish to request that we no longer use your information to provide you services contact us at info@drivers-licenses.org. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We and third parties may send you targeted ads based on your location, information and/or behavior. If you object, exercise choices some third parties may offer. **More**
 
-#### Does drivers-licenses.org disclose the information it collects from its visitors to outside parties?
+  5. ### Do Third-Party Content, Links to Third-Party Sites and/or Third-Party Apps Appear on the Site?
 
-When you participate on the drivers-licenses.org website, fill out voter registration forms, participate in petitions, surveys or premium offers, the PERSONAL INFORMATION you disclose for these and similar activities may be shared with third parties, such as those who may administer and fulfill the activity for us . Sales and shipping records will also be generated and maintained. Unless you give us permission at the time we collect such information, however, this information will not be used for any purpose except the fulfillment, and record keeping of the transaction.
+We may allow you to access third-party content on the Site, or to link to third-party applications and locations from the Site, but we are not responsible for your interaction with third-party content, apps, and locations. **More**
 
-We may share your PERSONAL INFORMATION with third party organizations to independently market and /or communicate with you. In addition, we may temporarily populate a third party advertising offer with your PERSONAL INFORMATION to make any ordering process more seamless and efficient for you. Should you respond to a particular offer from our business partners or advertisers that may be offered on our Site, we may also use your PERSONAL INFORMATION to provide a report to our advertisers or business partners that tells them who responded to a particular offer. Further if you accept an offer contained in, for example, an email, we may provide the advertiser or business partner with the PERSONAL INFORMATION necessary to fulfill that offer to you. If you no longer wish to be contacted by these third parties you must contact that third party directly. 
+  6. ### How Do I Change My Information and Communications Preferences?
 
-Your PERSONAL INFORMATION may be shared with those persons or entities that administer our Web site, with other companies and Web sites we own or operate for our behalf and/or with third parties for their internal purposes. We may share, sell or trade PERSONAL INFORMATION with third parties who may use such information to directly market offers to you. If you are a resident of California, and do not want your PERSONAL INFORMATION shared with these third parties for marketing purposes, please let us know via e-mail at info@drivers-licenses.org.com
+You may change certain account information and preferences. **More**
 
-Should you change your mind about the information you've provided to us, should you no longer wish to receive information from us (including newsletters), or should your information change, we have provided a way for you to correct, update or remove the personal data you gave us. For further details please see the section below titled, "How do you change the information we have for you?"
+  7. ### What About Transfer of Information to the United States?
 
-In the event drivers-licenses.org goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, account holders' information will, in most instances, be included as part of the assets transferred. Visitors and account holders will be notified via prominent notice on the Site for 30 days prior to a change of ownership or control of information of users held by us. Notwithstanding any other term of this privacy statement, we may release any PERSONAL INFORMATION we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety. 
+Data may be transferred to the United States. **More**
 
-We share your personal information with third parties only in ways that are described in this privacy statement. 
+  8. ### What Should Parents Know About Children?
 
-We may provide your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
+We do not intend to collect Personal Information from children. If you think we have, let us know. **More**
 
-Third party links This Web site contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. 
+  9. ### What About Security?
 
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personal information.
+No data security is absolute, but we take reasonable steps to secure data appropriately. **More**
 
-This privacy statement applies only to information collected by this Web site. 
+  10. ### What About Changes to the Privacy Policy?
 
-In an attempt to provide increased value to our visitors, we may choose various third party Web sites to link to, and/or frame within the Site. We also participate in co-branding and other relationships to offer e-commerce and other services and features to our visitors and account holders. However, even if the third party is affiliated with us, we have no control over these linked sites, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners or third party Web sites (even if offered on or through our site) may not be received by us. As such, we have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such Web sites. These linked sites are only for your convenience and you therefore access them at your own risk. Nonetheless, we seek to protect the integrity of the drivers-licenses.org features and the links placed upon each of them and therefore request any feedback on not only the drivers-licenses.org features, but for sites each links to as well (including if a specific link does not work).
+We may change this Privacy Policy as explained **_here_**.
 
-Further, any linking with any other Web site is neither an endorsement of that site nor any of the products or services which may be offered on that site. We make no representation or warranty regarding any third party Websites or their use of your PERSONAL INFORMATION.
 
-#### Surveys
 
-From time-to-time, we request information from users via surveys. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as your email address), and demographic information (such as interests or age level). Survey information may be used for purposes of monitoring or improving the use and satisfaction of the drivers-licenses.org Features and services. We may also use information from these surveys to better distribute market and provide products and services to new and existing users.
 
-#### Social Media Features and Widgets
+## Full Details of Terms and Conditions
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy statement of the company providing it.
+### **1\. What Information Does the Site Collect?**
 
-#### Anti-Spam Policy
+**(a)** **Information You Provide to Us**
 
-We have crafted a strong, zero-tolerance anti-spam policy to protect you. If you feel you have been sent spam, please email us at info@drivers-licenses.org and we'll immediately take steps to solve the problem. We hold the privacy of all users in the highest regard, as well as the recipients of emails sent by our advertisers.
+On the Site, we may ask you to provide certain categories of information such as: (1) personally identifiable information, which is information that identifies you personally, such as your first and last name, credit card number, email address, home address, phone number, career, health, household and income information (" **Personal Information** "); and (2) demographic information, such as information about your gender, age and zip code (" **Demographic Information** "). If we combine Demographic Information with the Personal Information we collect directly from you on the Site, we will treat the combined data as Personal Information under this Privacy Policy. In connection with the Site, Company may collect Personal Information and Demographic in the following ways: 
 
-#### The Federal CAN-SPAM Act
+  * Through forms filled out by a user on the Site. 
+  * Through Information provided by a user in connection with any services offered on the Site. 
+  * Through surveys, polls, blogs and postings and submittals. 
 
-The Federal CAN-SPAM Act, put into law in 2003, dictates rules in sending commercial email. We vigorously follow these rules and add a few more for added safety.
 
-#### California Privacy Rights
 
-California Civil Code Section 1798.83, permits our Web site users who are California residents to request and obtain from us once a year, free of charge, information about the PERSONAL INFORMATION (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, should you be a California resident and would like to make such a request, please submit your request in writing to: drivers-licenses.org at 6539 Harrison Avenue #101 Cincinnati, OH 45247.
+####  **(b) Information We Collect and Store As You Access and Use the Site**
 
-#### Questions?
+In addition to any Personal Information or other information that you choose to submit to us via our Site, we and our third-party service providers may use a variety of technologies that automatically (or passively) collect and store certain information whenever you visit or interact with the Site (" **Usage Information** "). This Usage Information may be stored or accessed using a variety of technologies that may be downloaded to your personal computer, browser, laptop, tablet, mobile phone or other device (a " **Device** ") whenever you visit or interact with our Site. Usage Information may be non‑identifying or may be associated with you. Whenever we associate Usage Information with your Personal Information, we will treat it as Personal Information. This Usage Information may include: 
 
-Contact us if you have any questions about our privacy practices or your dealings with the drivers-licenses.org , please do not hesitate to contact info@drivers-licenses.org or 6539 Harrison Avenue #101 Cincinnati, OH 45247
+  * your IP address, UDID or other unique identifier (" **Device Identifier** "). A Device Identifier is a number that is automatically assigned to your Device used to access the Site, and our computers identify your Device by its Device Identifier; 
+  * your Device functionality (including browser, operating system, hardware, mobile network information); 
+  * the URL that referred you to our Site; 
+  * the areas within our Site that you visit and your activities there, including remembering you and your preferences; 
+  * your Device location; 
+  * your Device characteristics; and 
+  * certain other Device data, including the time of day, among other information. 
 
-#### Terms and Conditions
 
-Please also read the Terms and Conditions establishing the use, disclaimers, and limitations of liability governing the use of the Site, the drivers-licenses.org services and other drivers-licenses.org features and applications.
 
-This site is privately owned and is neither operated by, nor affiliated with, any government agency.
+We may use various methods and technologies to collect and store Usage Information (" **Tracking Technologies** "). Tracking Technologies may set, change, alter or modify settings or configurations on your Device. A few of the Tracking Technologies include, without limitation, the following (and subsequent technology and methods later developed): 
 
-Copyright © drivers-licenses.org 2014 All Rights.
+  * **_Cookies_** . A cookie is a data file placed on a Device when it is used to visit the Site. A Flash cookie (or locally shared object) is a data file placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device. HTML5 cookies can be programmed through HTML5 local storage. Unlike Flash cookies, HTML5 cookies do not require a plug-in. Regular cookies may generally be disabled or removed by tools that are available as part of most commercial browsers, and in some but not all instances can be blocked in the future by selecting certain settings. Each browser you use will need to be set separately and different browsers offer different functionality and options in this regard. Also, these tools may not be effective with regard to Flash cookies or HTML5 cookies. For information on disabling Flash cookies, go to Adobe's web site [www.adobe.com](http://www.adobe.com/). Please be aware that if you disable or remove cookies, Flash cookies, or HTML5 cookies on your Device, some parts of our Site may not function properly, and that when you revisit our Site your ability to limit cookies is subject to your browser settings and limitations. 
+  * **_Web Beacons_** . Small graphic images or other web programming code called web beacons (also known as "1x1 GIFs" or "clear GIFs") may be included in our Site's pages and messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Site, to monitor how users navigate the Site, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed. 
+  * **_Embedded Scripts_** . An embedded script is programming code that is designed to collect information about your interactions with the Site, such as the links you click on. The code is temporarily downloaded onto your Device from our web server or a third party service provider, is active only while you are connected to the Site, and is deactivated or deleted thereafter. 
+  * **_Browser Fingerprinting_** . Collection and analysis of information from your Device, such as, without limitation, your operating system, plug-ins, system fonts and other data, for purposes of identification. 
+  * **_ETag, or entity tag_** . A feature of the cache in browsers. It is an opaque identifier assigned by a web server to a specific version of a resource found at a URL. If the resource content at that URL ever changes, a new and different ETag is assigned. Used in this manner ETags are a form of Device Identifier. ETag tracking may generate unique tracking values even where the consumer blocks HTTP, Flash and/or HTML5 cookies. 
+  * **_Recognition Technologies_** . Technologies, including application of statistical probability to data sets, which attempt to recognize or make assumptions about users and devices ( _e.g._ , that a user of multiple devices is the same user). 
 
-[](https://privacy.truste.com/privacy-seal/Cambridge-Media-Series-LLC/validation?rid=4f20cf41-f3dc-4cbd-a658-77e8fa93b7f4 "TRUSTe online privacy certification")
+
+
+We may use Tracking Technologies for a variety of purposes, including: 
+
+  * **_Strictly Necessary_** . We may use cookies or other Tracking Technologies that we consider are strictly necessary to allow you to use and access our Site, including cookies required to prevent fraudulent activity, improve security or allow you to make use of Site functionality. 
+
+
+  * **_Performance‑Related_** . We may use cookies or other Tracking Technologies that are useful in order to assess the performance of the Site, including as part of our analytic practices or otherwise to improve the content, products or services offered through the Site. 
+  * **_Functionality‑Related_** . We may use cookies or other Tracking Technologies that are required to offer you enhanced functionality when accessing the Site, including identifying you when you visit our Site or keeping track of our specified preferences, including in terms of the presentation of content on our Site. 
+  * **_Targeting‑Related_** . We may use Tracking Technologies to deliver content relevant to your interests on our Site and third‑party sites based on how you interact with our content. This includes using Tracking Technologies to understand the usefulness to you of the content that have been delivered to you. 
+
+
+
+There may be other Tracking Technologies now and later devised and used by us in connection with the Site. Further, third parties may use Tracking Technologies in connection with our Site, which may include the collection of information about your online activities over time and across third-party web sites or online services. We may not control those Tracking Technologies and we are not responsible for them. However, you consent to potentially encountering third-party Tracking Technologies in connection with use of our Site and accept that our statements under this Privacy Policy do not apply to the Tracking Technologies or practices of such third parties. 
+
+####  **(c) Information Third Parties Provide About You**
+
+We may receive information about you from your friends and others that use the Site, such as when they submit your information to us. Additionally, we may, from time to time, supplement the information we collect directly from you on our Site with outside records from third parties for various purposes, including to enhance our ability to serve you, to tailor our content to you and to offer you opportunities that may be of interest to you. To the extent we combine information we receive from those sources with your Personal Information we collect on the Site, it will be treated as Personal Information and we will apply this Privacy Policy to such combined information, unless we have disclosed otherwise. In no other circumstances do our statements under this Privacy Policy apply to information we receive about you from third parties. 
+
+####  **(d)** **Interactions with Third Party Services**
+
+The Site may include functionality that allows certain kinds of interactions between the Site and your account on a third-party web site, application or other service. The use of this functionality may involve the third-party operator providing certain information, including Personal Information, to us. For example, we may provide third-party sites' interfaces or links on the Site to facilitate your sending a communication from the Site. For example, we may use third parties to facilitate emails, Tweets or Facebook postings. These third parties may retain any information used or provided in any such communications or other activities and these third parties' practices are not subject to our Privacy Policy. Company may not control or have access to your communications through these third parties. Further, when you use third-party sites or services, you are using their services and not our services and they, not we, are responsible for their practices. You should review the applicable third-party privacy policies before using such third-party tools on our Site. 
+
+####  **(e) Information You Provide About a Third Party**
+
+You may send someone else a communication from the Site, such as sending an invitation to a friend. If so, the information you provide (names, email addresses, mobile number, etc.) is used to facilitate the communication and is not used by us for any other marketing purpose unless we obtain consent from that person or we explicitly say otherwise. Please be aware that when you use any send-to-a-friend functionality on our Site, your email address, mobile number, name or user name and message may be included in the communication sent to your addressee(s). 
+
+####  **(f) California Do Not Track Disclosures**
+
+Various third parties are developing or have developed signals or other mechanisms for the expression of consumer choice regarding the collection of information about an individual consumer's online activities over time and across third-party web sites or online services ( _e.g._ , browser do not track signals). Currently, we do not monitor or take any action with respect to these signals or other mechanisms. 
+
+####  **(g)**
+
+Company has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, [**drivers-licenses.org**](http://drivers-licenses.org/) and does not cover information that may be collected through software downloaded from the website. 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
+
+###  **2\. How Do We Use the Information Collected?**
+
+Company may use your Personal Information, Demographic Information or Usage Information in the following ways: 
+
+  * To process transactions, including to fulfill your order; 
+  * Send you an order confirmation; 
+  * Send product updates or warranty information; 
+  * Respond to customer service requests; 
+  * Administer your account; 
+  * Send you a newsletter and offers on behalf of us and third parties; 
+  * Send you marketing communications on behalf of us and third parties, including to let you know about new products, services or upcoming events; 
+  * To notify you of product recalls or providing other information concerning products or services you have purchased; 
+  * To provide customer support such as to respond to your questions and concerns; 
+  * Improve the Site, marketing efforts and Site offerings; 
+  * Conduct research and analysis; 
+  * To provide requested information, products and services to users via the Site or through other online or offline channels; 
+  * To enable you to participate in a variety of the Site's features such as to enable you to participate in online surveys, prize promotions such as contests, sweepstakes or other promotions from Company or third parties; 
+  * To allow you to receive other offers from non-affiliated third party companies and marketers; 
+  * To customize your experience on the Site or to serve you specific content or ads that are relevant to you; 
+  * To improve the user experience with the Site; 
+  * To contact you with regard to your use of the Site and, in our discretion, changes to the Site and/or Site's policies; 
+  * For internal business purposes 
+  * In connection with the operation of the Site; 
+  * For users to obtain information and offers for products and services offered by Company as well as selected third parties; and 
+  * For purposes disclosed at the time you provide your information or as otherwise set forth in this privacy policy. 
+
+
+
+###  **3\. How and When Do We Disclose Information to Third Parties?**
+
+We may share, license or sell non-Personal Information, such as aggregated user statistics, with third parties. Further, we may share your Device Identifiers with third parties along with data related to you and your activities. Also, we may share, license or sell your Personal Information to third parties for various marketing purposes, including their online ( _e.g._ , e-mail marketing) and offline ( _e.g._ , telemarketing, cell phone text messaging, skip tracing, pre-recorded messages, automated attendant telemarketing, and direct mail) marketing programs. If you are a California resident and wish to opt-out of having your information shared with third parties for the third parties' marketing purposes, see Section 3(f) below. In addition, we may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information and as described below or otherwise in this Privacy Policy. Company may disclose your information as follows: 
+
+####  **(a) When You Request Information From or Provide Information to Third Parties**
+
+. You may be presented with an option on our Site to receive certain information and/or marketing offers directly from third parties or to have us send certain information to third parties or give them access to it. If you choose to do so, your Personal Information and other information may be disclosed to such third parties and all information you disclose will be subject to the third-party privacy policies and practices of such third parties. In addition, third parties may store, collect or otherwise have access to your information when you interact with their Tracking Technologies, content, tools apps or ads on our Site or link to them from our Site. This may include using third party tools such as Facebook, Twitter, Pinterest or other third-party posting or content sharing tools and by so interacting you consent to such third party practices. It may also include ordering or purchasing products from third parties through us where we indicate that the third party rather than us is the seller. We are not responsible for the privacy policies and practices of such third parties and, therefore, you should review such third party privacy policies and practices of such third parties prior to requesting information from or otherwise interacting with them. 
+
+####  **(b) Third Parties Providing Services on our Behalf**
+
+. We may use third-party vendors to perform certain services on behalf of us or the Site, such as: (a) to assist us in Site operations such as e-commerce operations such as shipping of products and services and fulfillment of orders; (b) to manage a database of customer information; (c) hosting the Site; (d) designing and/or operating the Site's features such as our live chat functionality on the Site; (e) tracking the Site's activities and analytics; (f) enabling us to send you special offers or perform other administrative services; and (g) other services designed to assist us in maximizing our business potential. We may provide these vendors with access to user information, including Device Identifiers and Personal Information, to carry out the services they are performing for you or for us. Third-party analytics and other service providers may set and access their own Tracking Technologies on your Device and they may otherwise collect or have access to information about you, potentially including Personal Information, about you. We are not responsible for those third party technologies or activities arising out of them. However, some may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available _here_. We are not responsible for the effectiveness of or compliance with any third parties' opt-out options. 
+
+####  **(c) Administrative and Legal Reasons**
+
+. We may access, use, preserve, transfer and disclose your information (including Device Identifiers and Personal Information) to third parties: (i) to satisfy any applicable law, regulation, subpoenas, governmental requests or legal process if in our good faith opinion such is required or permitted by law; (ii) to protect and/or defend the Site's **_[Terms and Conditions](https://web.archive.org/tc.html)_** or other policies applicable to the Site, including investigation of potential violations thereof; (iii) to protect the safety, rights, property or security of the Site or any third party; and/or (iv) to detect, prevent or otherwise address fraud, security or technical issues. Further, we may use IP address or other Device Identifiers, to identify users, and may do so in cooperation with third parties such as copyright owners, internet service providers, wireless service providers and/or law enforcement agencies, including disclosing such information to third parties, all in our discretion, subject to applicable law. Such disclosures may be carried out without notice to you. 
+
+####  **(d) Affiliates and Business Transfer**
+
+. We may share your information, including your Device Identifiers and Personal Information, Demographic Information and Usage Information with our parent, subsidiaries and affiliates. We also reserve the right to disclose and transfer all such information: (i) to a subsequent owner, co-owner or operator of the Site or applicable database; or (ii) in connection with a merger, consolidation, restructuring, the sale of substantially all of our interests and/or assets or other corporate change, including, during the course of any due diligence process. 
+
+####  **(e)** **Sweepstakes, Contests and Promotions**
+
+. We may offer sweepstakes, contests, and other promotions (any, a " **Promotion** ") through the Site that may require registration. By participating in a Promotion, you are agreeing to official rules that govern that Promotion, which may contain specific requirements of you, including, allowing the sponsor of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion's official rules, such as on a winners list. 
+
+####  **(f) Your California Privacy Rights.**
+
+As disclosed above, we may elect to share information about you with third parties for those third parties' direct marketing purposes. California Civil Code § 1798.83 permits California residents to opt-out of having their personal information shared with third parties for the third parties' direct marketing purposes. If you are a California resident and wish to opt-out of having your personal information shared with third parties for the third parties' marketing purposes, contact us at **[info@drivers-licenses.org](mailto:info@drivers-licenses.org)**. You must include your full name, email address, and postal address in your request. 
+
+###  **4\. Ads and Information About You**
+
+We and third parties, such as network advertisers and ad exchanges, may serve advertisements across the Internet and may use third party analytics service providers to evaluate and provide us and/or third parties with information about the use of these ads on third party sites and viewing of ads and of our content. Network advertisers are third parties that display advertisements, which may be based on your activities across the Internet and mobile media (" **Behavioral Ads** "). Behavioral Ads enable us to target advertisements to you for products and services in which we believe you might be interested. If you object to receiving Behavioral Ads from us on third party sites, you can learn more about your ability to limit Behavioral Ads below. Our third party ad network and exchange providers, the advertisers and/or traffic measurement services may themselves set and access their own technologies on your Device and track certain behavioral Usage Information via a Device Identifier. These third party technologies may be set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements; and (c) understand the usefulness of the advertisements that have been delivered to you. You acknowledge and agree that associated technology may access and use your Device and may set or change settings on your Device in connection with the associated operations. Note that any images (or any other parts of content) served by third parties in association with third-party ads or other content may serve as web beacons, which enable third parties to carry out the previously described activities. 
+
+Statements regarding our practices do not apply to the methods for collecting information used by these third parties or the use of the information that such third parties collect. We do however work with third parties to make efforts to have you provided with information on their practices and any available opportunity to exercise choice. The relevant third party's terms of service, privacy policy, permissions, notices and choices should be reviewed regarding their collection, storage and sharing practices. We make no representations regarding the policies or practices of third party advertisers or advertising networks or exchanges or related third parties. 
+
+Some third parties may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available _here_.Further, while sites use a variety of companies to serve advertisements, you may wish to visit <http://www.networkadvertising.org/choices>, which provides information regarding this practice by Network Advertising Initiative (" **NAI** ") members, and your choices regarding having this information used by these companies, including the "opt-out" procedures of NAI members. Opting out of one or more NAI members only means that those NAI members no longer will be allowed under their own rules to deliver Behavioral Ads to you, but does not mean you will no longer receive any targeted content and/or ads. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different Device or change web browsers, your NAI opt-out may not, or may no longer, be effective. You may also opt-out of receiving Behavioral Ads on participating sites and services by visiting the Digital Advertising Alliance (" **DAA** ") website at _<http://www.aboutads.info/choices>_. Similar limitations may apply to the DAA opt-out. We are not responsible for effectiveness of or compliance with any third parties' opt-out options or programs. 
+
+###  **5\. Do Third-Party Content, Links to Third-Party Sites and/or Third-Party Apps Appear on the Site?**
+
+The Site may contain content, links or apps that are supplied by a third party, and those third parties may collect Usage Information and your Device Identifier when pages from the Site are served to you for their own commercial purposes. In addition, when you are on the Site you may be directed to other sites and apps that are operated and controlled by third parties that we do not control. We are not responsible for the data collection and privacy practices employed by any of these third parties or their sites or apps and they may be tracking you across multiple online services and may be sharing the results of that tracking with us and/or others. These third parties may have their own terms of service, privacy policies or other policies and ask you to agree to the same. For example, if you "click" on a link, the "click" may take you off the Site onto a different location. These other online services may associate their Tracking Technologies with you, independently collect information about you, including Personal Information, and may or may not have their own published privacy policies. We are not responsible for these third-party privacy policies or the practices of Third-Party Owners. Be sure to review any available policies before submitting any personally identifiable information to a third-party application or otherwise interacting with it and exercise caution in connection with these applications. We also encourage you to note when you leave our Site and to review the third-party privacy policies of all third-party locations and exercise caution in connection with them. 
+
+###  **6\. How Do I Change My Information and Communications Preferences?**
+
+You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration. The Site may allow you to review, correct or update Personal Information you have provided through the Site's forms, and you may provide updates and changes by contacting us by email at: **_[info@drivers-licenses.org](mailto:info@drivers-licenses.org)_**. If so, we will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable (but we may retain prior information as business records). Please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons. Also, if you have made any public postings on the Site such as in forums or blogs, these communications cannot generally be removed. When you edit your Personal Information or change your preferences on the Site, information that you remove may persist internally for our administrative purposes. You may cancel or modify our email marketing communications you receive from us by following the instructions contained within our promotional emails. This will not affect subsequent subscriptions and if your opt-out is limited to certain types of emails the opt-out will be so limited. Subsequent or different subscriptions will be unaffected. Please note that we reserve the right to send you certain communications relating to your use of our Site, such as administrative and Site announcements and these transactional account messages may be unaffected if you choose to opt-out from receiving our marketing communications. If you have any questions about the Privacy Policy or practices described in it, you should contact us by email at: **_[info@drivers-licenses.org](mailto:info@drivers-licenses.org)_**. 
+
+###  **7\. What About Transfer of Information to the United States?**
+
+Our Site is operated in the United States and intended for users located in the United States. If you are located outside of the United States, please be aware that information we collect, including Personal Information, will be transferred to, and processed, stored and used in the United States. The data protection laws in the United States may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. By using the Site or providing us with any information, you consent to the transfer to, and processing, usage, sharing and storage of your information, including Personal Information, in the United States as set forth in this Privacy Policy. 
+
+###  **8\. What Should Parents Know About Children?**
+
+The Site is a general audience web site and we do not knowingly collect any personal information from children younger than the age of thirteen (13) as required by U.S. law. We will delete any personal information collected that we later determine to be from a user younger than the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personal information to us, please contact us by email at: **_[info@drivers-licenses.org](mailto:info@drivers-licenses.org)_**. 
+
+###  **9\. What About Security?**
+
+We endeavor to incorporate commercially reasonable safeguards to help protect and secure your Personal Information. However, no data transmission over the Internet, mobile networks, wireless transmission or electronic storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure the security of any information you transmit to us, and you use our Site and provide us with your information at your own risk. 
+
+###  **10\. What About Changes to the Privacy Policy?**
+
+We reserve the right to change this Privacy Policy at any time without notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy and your use of our Site indicates your consent to the privacy policy posted at the time of use. However, we will not use your previously collected Personal Information in a manner materially different than indicated at the time it was collected without your consent. To the extent any provision of this Privacy Policy is found by a competent tribunal to be invalid or unenforceable, such provision shall be severed to the extent necessary for the remainder to be valid and enforceable. 
+
+The following third parties that collect information from you on the Site have given us notice that you may obtain information on their policies and practices, and in some instances opt-out of certain of their activities, as follows: 
+
+**Party** |  **Service** |  **For More Information** |  **Use of Tracking Technologies** |  **Privacy Choices**  
+---|---|---|---|---  
+Google Analytics  |  Analytics  |  <http://www.google.com/analytics/learn/privacy.html> |  Yes  |  <https://tools.google.com/dlpage/gaoptout/>  
+Doubleclick by Google  |  Ad Serving  |  <https://www.doubleclickbygoogle.com/> |  Yes  |  <https://www.google.com/settings/u/0/ads/plugin?hl=en>  
+Google Adsense  |  Ad Serving  |  <https://www.google.com/adsense/start/#?modal_active=none> |  Yes  |  <https://www.google.com/settings/u/0/ads/authenticated?hl=en>  
+  
+PLEASE NOTE: We are not responsible for third-party policies or practices. We try to keep this information current, and will add to and subtract from the chart above as appropriate, but it is provided as a courtesy and may not be current or accurate. Please contact the applicable third parties regarding their privacy and data security policies and practices. 
