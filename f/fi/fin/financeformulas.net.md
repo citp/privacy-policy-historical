@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financeformulas.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207171339id_/http%3A//financeformulas.net/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financeformulas.net privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607095902id_/http%3A//www.financeformulas.net/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,3 +22,7 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
+
+  
+Return to Top  
+
