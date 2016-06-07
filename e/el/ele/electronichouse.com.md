@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronichouse.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234904id_/http%3A//www.electronichouse.com/account/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronichouse.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608012541id_/http%3A//www.electronichouse.com/account/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EH Network
 
