@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shortyawards.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206014459id_/http%3A//shortyawards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortyawards.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607034401id_/http%3A//shortyawards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Shorty Awards
 
@@ -37,7 +37,7 @@ You must be at least 13 years old to participate in the Awards.
 
 The Awards are administered in the United States and are primarily intended for and directed to users in the United States. If you are participating in the Awards from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued participation in the Awards, which is governed by U.S. law, this Privacy Policy, and our rules, you are transferring your personal information to the United States and you consent to that transfer.
 
-California Civil Code Section 1798.83 permits users of the Awards who are participants in the awards to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to hello@sawhorsemedia.com or write us at: 
+California Civil Code Section 1798.83 permits users of the Awards who are participants in the awards to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email with "California Privacy Rights" in the heading to hello@sawhorsemedia.com or write us at: 
 
 **Sawhorse Privacy Rights**  
 632 Broadway, Suite 901  
