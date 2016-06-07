@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersalesmachine.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024235732id_/http%3A//www.supersalesmachine.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersalesmachine.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607224152id_/http%3A//www.supersalesmachine.net/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # *TOP SECRET!* $634.25-$720.35 A Day Profit-Pulling Sales Machine Revealed!
 
