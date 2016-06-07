@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the everydaydishes.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208210355id_/http%3A//everydaydishes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydaydishes.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608000703id_/http%3A//everydaydishes.com/privacy) for the most accurate reproduction.*
 
 # privacy policy – Everyday Dishes
 
-We are part of “Everyday Dishes & DIY, LLC.” Brands, which include Everyday Dishes & DIY, everydaydishes.com, and Live the Moment. Everyday Dishes & DIY, LLC. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase “contact information” means any information by which you can be contacted, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting the practices described in this Privacy Policy.
-
-As a part of our commitment to your privacy, Everyday Dishes & DIY, LLC. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association’s “Privacy Promise to American Consumers.” We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers’ requests not to share their contact information with other marketers; and (3) honor customers’ requests not to receive mail, telephone, or other solicitations from Everyday Dishes & DIY, LLC. Brands.
+We are part of “CherylStyle, LLC.” Brands, which include Everyday Dishes, everydaydishes.com, and Live the Moment. CherylStyle, LLC dba Everyday Dishes Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase “contact information” means any information by which you can be contacted, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting the practices described in this Privacy Policy.As a part of our commitment to your privacy, CherylStyle, LLC dba Everyday Dishes Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association’s “Privacy Promise to American Consumers.” We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers’ requests not to share their contact information with other marketers; and (3) honor customers’ requests not to receive mail, telephone, or other solicitations from CherylStyle, LLC dba Everyday Dishes Brands.
 
 **Collecting Information About You**
 
-There may be times (such as when you purchase or order a product, subscribe to a service, register to receive catalogs, sign up to receive emails, submit information and personal content on the Everyday Dishes & DIY  website, or to participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain contact information about yourself, such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, and other information. When providing information to Everyday Dishes & DIY, you are also opting in to receive email newsletters from Everyday Dishes & DIY. We may also maintain a record of your product purchases.
+There may be times (such as when you purchase or order a product, subscribe to a service, register to receive catalogs, sign up to receive emails, submit information and personal content on the Everyday Dishes website, or to participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain contact information about yourself, such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, and other information. When providing information to Everyday Dishes, you are also opting in to receive email newsletters from Everyday Dishes. We may also maintain a record of your product purchases.
 
 Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our web sites. In addition, we may need to contact you via phone, email or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive marketing communications from us.
 
@@ -21,7 +19,7 @@ We use your contact information for internal purposes only, such as:
   * Confirming and tracking your order, subscription, or registration;
   * Analyzing preferences, trends, and statistics;
   * Informing you of our new products, services, and offers, newsletters; and
-  * Providing you with other information from and about Everyday Dishes & DIY, LLC. Brands.
+  * Providing you with other information from and about CherylStyle, LLC dba Everyday Dishes Brands.
 
 
 
@@ -35,7 +33,7 @@ We may contract with companies or persons to provide certain services including 
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our websites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/>.
 
-In certain instances we may disclose your contact information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Everyday Dishes & DIY, LLC Brands or to others. We may also disclose your contact information when we believe the law or legal process requires it.
+In certain instances we may disclose your contact information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to CherylStyle, LLC dba Everyday Dishes Brands or to others. We may also disclose your contact information when we believe the law or legal process requires it.
 
 **Opting Out Of Marketing And Transfers; Updating and Deleting Information About You**
 
@@ -64,7 +62,7 @@ We urge you to keep any password that you establish with us in a safe place and 
 
 **Protecting Children**
 
-Everyday Dishes & DIY, LLC. Brands take special care to protect the safety and privacy of children. Our websites are general audience sites. We do not permit anyone under the age of 13 to register with us. We also do not send email correspondence to anyone who tells us that they are under the age of 13.  
+CherylStyle, LLC dba Everyday Dishes Brands take special care to protect the safety and privacy of children. Our websites are general audience sites. We do not permit anyone under the age of 13 to register with us. We also do not send email correspondence to anyone who tells us that they are under the age of 13.  
 Children under the age of 13 should always ask their parents or guardians for permission before providing any contact information to anyone online. We urge parents and guardians to participate in their children’s online activities and use parental control or other web filtering technology to supervise children’s access to the Internet.
 
 **Links to Third Party Sites**
@@ -77,4 +75,4 @@ If we decide to change our privacy policy in whole or in part, we will inform yo
 
 **Your Feedback**
 
-To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 602-476-0630 or [email us](mailto:hi_there@cherylstyle.com). 
+To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 602-476-0630 or [email us](mailto:hi_there@cherylstyle.com).
