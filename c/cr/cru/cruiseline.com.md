@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cruiseline.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207020647id_/http%3A//cruiseline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruiseline.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607135611id_/http%3A//cruiseline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We built Cruiseline.com.com to help cruisers share and read cruise reviews as well as get together and share their experiences. To do that, we collect personal information about you. We understand this personal information is YOURS. As such, we give you control over your personal information. Cruiseline.com helps you share information with other cruisers and make new friends. You choose what information to put in your profile, including contact and personal information, pictures and interests. At any time, you can modify all of this through your Settings page.
+We built Cruiseline.com to help cruisers share and read cruise reviews as well as get together and share their experiences. To do that, we collect personal information about you. We understand this personal information is YOURS. As such, we give you control over your personal information. Cruiseline.com helps you share information with other cruisers and make new friends. You choose what information to put in your profile, including contact and personal information, pictures and interests. At any time, you can modify all of this through your Settings page.
 
 This Privacy Policy describes how we use and protect your personal information. By accepting the Privacy Policy and the Terms and Conditions of Service during registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on December 5, 2012.
 
@@ -14,7 +14,7 @@ You can browse and read most of the content cruiseline.com without telling us wh
 
   * __general information about you such as full name, date of birth, relationship status, interests and hobbies;
 
-  * __information based on your activities on Cruiseline.com.com (such as your cruises, reviews or posts to the discussion forum);
+  * __information based on your activities on Cruiseline.com (such as your cruises, reviews or posts to the discussion forum);
 
   * __community discussions, dispute resolution, correspondence sent to us; and
 
