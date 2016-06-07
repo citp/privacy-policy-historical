@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voipfone.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208023235id_/http%3A//www.voipfone.co.uk/cookie_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voipfone.co.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607082104id_/http%3A//www.voipfone.co.uk/cookie_policy.php) for the most accurate reproduction.*
 
 # Voipfone - Cookie Policy
 
@@ -8,14 +8,14 @@ Users of our website and services have the option to disable these cookies in th
 
 These cookies will remain on your device after you have left our website. These cookies help us identify you as a unique visitor these cookies do not contain personal information, and cannot be used to identify you in any way.
 
-We use Google Analytics to collate statistical information about our website. Google Analytics uses cookies to help us to analyse how users use the site. For more information about Analytics cookies, please click on the following link: <http://www.google.com/analytics/learn/privacy.html>  
+We use Google Analytics to collate statistical information about our website. Google Analytics uses cookies to help us to analyse how users use the site. [Please click here for more information about Analytics cookies.](http://www.google.com/analytics/learn/privacy.html)  
 
 
 Removing Or Blocking Cookies
 
 iNet Telecoms Ltd will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies on this or any other website, you can do this by making changes to your browser settings.
 
-For more information about removing or blocking cookies visit [http://www.aboutcookies.org](http://www.aboutcookies.org/Default.aspx?page=1) this site contains information on how to block or remove cookies from most web browsers.
+[Please click here for more information about removing or blocking cookies.](http://www.aboutcookies.org/Default.aspx?page=1) This site contains information on how to block or remove cookies from most web browsers.
 
 More information needed?
 
