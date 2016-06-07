@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metastock.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206112421id_/http%3A//www.metastock.com/company/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metastock.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607022749id_/http%3A//www.metastock.com/company/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -106,4 +106,4 @@ MetaStock
 Suite 200  
 Salt Lake City, UT 84123
 
-© MetaStock 2015 
+© MetaStock 2016 
