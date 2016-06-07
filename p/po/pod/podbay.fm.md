@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podbay.fm privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141808id_/http%3A//podbay.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podbay.fm privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013848id_/http%3A//podbay.fm/privacy) for the most accurate reproduction.*
 
 # About podbay.fm
 
