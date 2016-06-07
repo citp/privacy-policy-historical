@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renu.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133425id_/http%3A//bausch.com/reference/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renu.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607155928id_/http%3A//bausch.com/reference/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ The privacy practices set forth in this Privacy Policy are for this Web Site and
 
 ## How We Protect the Privacy of Job Applicants
 
-Personal information collected from job applicants is protected by Bausch & Lomb's “[Protecting Applicant Privacy](https://web.archive.org/Portals/107/-/m/BL/Global1/Files/Corporate/HR/applicantprivacy.pdf)(68 KB, PDF)” policy.
+Personal information collected from job applicants is protected by Bausch & Lomb's “[Protecting Applicant Privacy](https://web.archive.org/Portals/69/-/m/BL/Global1/Files/Corporate/HR/applicantprivacy.pdf)(68 KB, PDF)” policy.
 
 ## US - EU Safe Harbor Participation
 
