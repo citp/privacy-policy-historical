@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greatbigcanvas.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208221328id_/http%3A//www.greatbigcanvas.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatbigcanvas.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608014225id_/http%3A//www.greatbigcanvas.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Great Big Canvas
 
-Effective Date: March 2015
+Effective Date: May 2016
 
 This website is operated by Circle Graphics Inc. through its Great Big Canvas brand (“GBC”). GBC values the users of our website (the "Website"). Your privacy and trust are very important to us. We recognize that you may have concerns about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the Website and the services offered on the Website ("GBC Services"). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us at [service@greatbigcanvas.com](mailto:service@greatbigcanvas.com) or at Great Big Canvas, PO Box 900044, Raleigh, NC 27675-9044.
 
@@ -48,7 +48,7 @@ A cookie is a small file placed on the hard drive of your computer. Most website
 
 A web beacon is an often-transparent graphic image, usually no larger than a 1x1 pixel that is placed on a web page or in an e-mail that is used to monitor the behavior of the user visiting the Website or receiving the e-mail.
 
-Cookies and web beacons used by GBC and our online partners are not linked to Personal Information. Some third parties may use cookies or web beacons on our Website. We have no access to or control over these cookies and web beacons. This Privacy Policy covers the use of cookies and web beacons by GBC and our online partners only and does not cover the use of cookies or web beacons by any other third party or advertiser.
+Some third parties may use cookies or web beacons on our Website. We have no access to or control over these cookies and web beacons. This Privacy Policy covers the use of cookies and web beacons by GBC and our online partners only and does not cover the use of cookies or web beacons by any other third party or advertiser.
 
 #### Does GBC Protect My Personal Information?
 
