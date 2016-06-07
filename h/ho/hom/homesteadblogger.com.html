@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homesteadblogger.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207102438id_/http%3A//mollygreen.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homesteadblogger.com privacy policy that was archived on 2016-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607161150id_/http%3A//mollygreen.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class="js"><!--<![endif]--><head>
 	<meta charset="UTF-8">
@@ -11,25 +11,18 @@
 	<script src="http://mollygreen.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
 	<![endif]-->
 
-	<script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 		document.documentElement.className = 'js';
 	</script>
 
 	<title>Privacy Policy | Molly Green</title>
-
-
-
- <!-- Starting Social Media Sharing Meta Data From Floating Social Media Icon -->
-<!-- Ending Social Media Sharing Meta Data From Floating Social Media Icon -->
-
-
- <link rel="alternate" type="application/rss+xml" title="Molly Green » Feed" href="http://mollygreen.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Molly Green » Feed" href="http://mollygreen.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Molly Green » Comments Feed" href="http://mollygreen.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Molly Green » Privacy Policy Comments Feed" href="http://mollygreen.com/privacy_policy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/mollygreen.com\/wp-includes\/js\/wp-emoji.js?ver=4.3.1","twemoji":"http:\/\/mollygreen.com\/wp-includes\/js\/twemoji.js?ver=4.3.1"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/mollygreen.com\/wp-includes\/js\/wp-emoji.js?ver=4.5","twemoji":"http:\/\/mollygreen.com\/wp-includes\/js\/twemoji.js?ver=4.5"}};
 			( function( window, document, settings ) {
-	var src, ready;
+	var src, ready, ii, tests;
 
 	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
@@ -37,12 +30,14 @@
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
 		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' );
+			context = canvas.getContext && canvas.getContext( '2d' ),
+			stringFromCharCode = String.fromCharCode,
+			tonedata, tone, tone2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
@@ -56,27 +51,53 @@
 		context.textBaseline = 'top';
 		context.font = '600 32px Arial';
 
-		if ( type === 'flag' ) {
-			/*
-			 * This works because the image will be one of three things:
-			 * - Two empty squares, if the browser doesn't render emoji
-			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
-			 * - The British flag
-			 *
-			 * The first two will encode to small images (1-2KB data URLs), the third will encode
-			 * to a larger image (4-5KB data URL).
-			 */
-			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
-			return canvas.toDataURL().length > 3000;
-		} else {
-			/*
-			 * This creates a smiling emoji, and checks to see if there is any image data in the
-			 * center pixel. In browsers that don't support emoji, the character will be rendered
-			 * as an empty square, so the center pixel will be blank.
-			 */
-			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
-			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * This works because the image will be one of three things:
+				 * - Two empty squares, if the browser doesn't render emoji
+				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
+				 * - The Australian flag
+				 *
+				 * The first two will encode to small images (1-2KB data URLs), the third will encode
+				 * to a larger image (4-5KB data URL).
+				 */
+				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
+				return canvas.toDataURL().length > 3000;
+			case 'diversity':
+				/*
+				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
+				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
+				 * compares if the emoji rendering has changed.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+
+				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
+				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
+				// So, we create our own string and compare that, instead.
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+
+				return tone !== tone2;
+			case 'simple':
+				/*
+				 * This creates a smiling emoji, and checks to see if there is any image data in the
+				 * center pixel. In browsers that don't support emoji, the character will be rendered
+				 * as an empty square, so the center pixel will be blank.
+				 */
+				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode8':
+				/*
+				 * To check for Unicode 8 support, let's try rendering the most important advancement
+				 * that the Unicode Consortium have made in years: the burrito.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
+
+		return false;
 	}
 
 	function addScript( src ) {
@@ -87,17 +108,31 @@
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
+	tests = Array( 'simple', 'flag', 'unicode8', 'diversity' );
+
 	settings.supports = {
-		simple: browserSupportsEmoji( 'simple' ),
-		flag:   browserSupportsEmoji( 'flag' )
+		everything: true,
+		everythingExceptFlag: true
 	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
 
 	settings.DOMReady = false;
 	settings.readyCallback = function() {
 		settings.DOMReady = true;
 	};
 
-	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+	if ( ! settings.supports.everything ) {
 		ready = function() {
 			settings.readyCallback();
 		};
@@ -125,7 +160,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://mollygreen.com/wp-includes/js/twemoji.js?ver=4.3.1" type="text/javascript"></script><script src="http://mollygreen.com/wp-includes/js/wp-emoji.js?ver=4.3.1" type="text/javascript"></script>
+		</script><script src="http://mollygreen.com/wp-includes/js/twemoji.js?ver=4.5" type="text/javascript"></script><script src="http://mollygreen.com/wp-includes/js/wp-emoji.js?ver=4.5" type="text/javascript"></script>
 		<meta content="Divi Child Theme v.1.0" name="generator"><style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -140,45 +175,33 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="ac-style-css" href="http://mollygreen.com/wp-content/plugins/advanced-categories-widget/css/widget.css?ver=4.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="vtprd-front-end-style-css" href="http://mollygreen.com/wp-content/plugins/pricing-deals-for-woocommerce/core/css/vtprd-front-end-min.css?ver=4.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="ac-style-css" href="http://mollygreen.com/wp-content/plugins/advanced-categories-widget/css/widget.css?ver=4.5" type="text/css" media="all">
+<link rel="stylesheet" id="bxslider-css-css" href="http://mollygreen.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/jquery.bxslider.css?ver=4.5" type="text/css" media="">
+<link rel="stylesheet" id="kiwi-logo-carousel-styles-css" href="http://mollygreen.com/wp-content/plugins/kiwi-logo-carousel/custom-styles.css?ver=4.5" type="text/css" media="">
+<link rel="stylesheet" id="vtprd-front-end-style-css" href="http://mollygreen.com/wp-content/plugins/pricing-deals-for-woocommerce/core/css/vtprd-front-end-min.css?ver=4.5" type="text/css" media="all">
 <link rel="stylesheet" id="bbp-default-css" href="http://mollygreen.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.8-5815" type="text/css" media="screen">
-<link rel="stylesheet" id="bp-legacy-css-css" href="http://mollygreen.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.css?ver=2.4.0" type="text/css" media="screen">
-<link rel="stylesheet" id="rs-plugin-settings-css" href="http://mollygreen.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="bp-legacy-css-css" href="http://mollygreen.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.css?ver=2.5.2" type="text/css" media="screen">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://mollygreen.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.4.1" type="text/css" media="all">
 <style id="rs-plugin-settings-inline-css" type="text/css">
 .tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
 </style>
-<link rel="stylesheet" id="follow-up-emails-css" href="http://mollygreen.com/wp-content/plugins/woocommerce-follow-up-emails/templates/followups.css?ver=4.4.7" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-layout-css" href="//mollygreen.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.4.10" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//mollygreen.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.4.10" type="text/css" media="only screen and (max-width: 768px)">
-<link rel="stylesheet" id="woocommerce-general-css" href="//mollygreen.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.4.10" type="text/css" media="all">
+<link rel="stylesheet" id="follow-up-emails-css" href="http://mollygreen.com/wp-content/plugins/woocommerce-follow-up-emails/templates/followups.css?ver=4.4.12" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//mollygreen.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.5.5" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//mollygreen.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.5.5" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="//mollygreen.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.5.5" type="text/css" media="all">
 <link rel="stylesheet" id="ub_adminbar_general_styles-css" href="http://mollygreen.com/wp-content/plugins/ultimate-branding/ultimate-branding-files/modules/custom-admin-bar-files/css/general.css?ver=1.0" type="text/css" media="all">
 <link rel="stylesheet" id="divi-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,latin-ext" type="text/css" media="all">
 <link rel="stylesheet" id="et-gf-pt-sans-css" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&amp;subset=latin,latin-ext,cyrillic" type="text/css" media="all">
-<link rel="stylesheet" id="divi-style-css" href="http://mollygreen.com/wp-content/themes/Divi-child/style.css?ver=2.5.6" type="text/css" media="all">
+<link rel="stylesheet" id="divi-style-css" href="http://mollygreen.com/wp-content/themes/Divi-child/style.css?ver=2.7.3" type="text/css" media="all">
 <link rel="stylesheet" id="et_lb_modules-css" href="http://mollygreen.com/wp-content/plugins/elegantbuilder/style.css?ver=2.4" type="text/css" media="all">
-<link rel="stylesheet" id="et-shortcodes-css-css" href="http://mollygreen.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=3.0" type="text/css" media="all">
-<link rel="stylesheet" id="et-shortcodes-responsive-css-css" href="http://mollygreen.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0" type="text/css" media="all">
-<link rel="stylesheet" id="magnific-popup-css" href="http://mollygreen.com/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=2.5.6" type="text/css" media="all">
-<link rel="stylesheet" id="acx-si-style-css" href="http://mollygreen.com/wp-content/plugins/premium-floating-social-media-icon/style.css?ver=4.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="wdsb-css" href="http://mollygreen.com/wp-content/plugins/sharebox/css/wdsb.css?ver=4.3.1" type="text/css" media="all">
-<script type="text/javascript">
-				var _wdsb_data = {
-					"min_width": 1160,
-					"min_post_height": 350,
-					"is_singular": 1,
-					"horizontal_selector": "",
-					"top_selector": "",
-					"z_index": 10000000,
-					"allow_fixed": 0,
-					"offset": {"htype": "page", "hdir": "left", "hoffset": 70, "vtype": "page-top", "voffset": 0},
-					"limit": {"top_selector": "", "top_offset": 150, "bottom_selector": "", "bottom_offset": 0}
-				};
-			</script><script type="text/javascript" src="http://mollygreen.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.2.1"></script>
+<link rel="stylesheet" id="et-shortcodes-css-css" href="http://mollygreen.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=2.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="et-shortcodes-responsive-css-css" href="http://mollygreen.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=2.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-css" href="http://mollygreen.com/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=2.7.3" type="text/css" media="all">
+<script type="text/javascript" src="http://mollygreen.com/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.0"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var ac = {"nonce":"473956676c","action":"ac_load_utility","ajaxurl":"http:\/\/mollygreen.com\/wp-admin\/admin-ajax.php"};
+var ac = {"nonce":"ba3887a7e6","action":"ac_load_utility","ajaxurl":"http:\/\/mollygreen.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/advanced-categories-widget/js/jquery.widget.js?ver=2.4.0"></script>
@@ -187,44 +210,56 @@ var ac = {"nonce":"473956676c","action":"ac_load_utility","ajaxurl":"http:\/\/mo
 var BP_Confirm = {"are_you_sure":"Are you sure?"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/buddypress/bp-core/js/confirm.js?ver=2.4.0"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/buddypress/bp-core/js/widget-members.js?ver=2.4.0"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/buddypress/bp-core/js/jquery-query.js?ver=2.4.0"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/buddypress/bp-core/js/jquery-cookie.js?ver=2.4.0"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/buddypress/bp-core/js/jquery-scroll-to.js?ver=2.4.0"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/buddypress/bp-core/js/confirm.js?ver=2.5.2"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/buddypress/bp-core/js/widget-members.js?ver=2.5.2"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/buddypress/bp-core/js/jquery-query.js?ver=2.5.2"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/buddypress/bp-core/js/jquery-cookie.js?ver=2.5.2"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/buddypress/bp-core/js/jquery-scroll-to.js?ver=2.5.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var BP_DTheme = {"accepted":"Accepted","close":"Close","comments":"comments","leave_group_confirm":"Are you sure you want to leave this group?","mark_as_fav":"Favorite","my_favs":"My Favorites","rejected":"Rejected","remove_fav":"Remove Favorite","show_all":"Show all","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all %d comments","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","view":"View"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.js?ver=2.4.0"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.1.3"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.1.3"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.js?ver=2.5.2"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.4.1"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var FUE = {"ajaxurl":"http:\/\/mollygreen.com\/wp-admin\/admin-ajax.php","ajax_loader":"http:\/\/mollygreen.com\/wp-content\/plugins\/woocommerce-follow-up-emails\/templates\/images\/ajax-loader.gif"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/woocommerce-follow-up-emails/templates/js/fue-account-subscriptions.js?ver=4.4.12"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var affwp_scripts = {"ajaxurl":"http:\/\/mollygreen.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="//mollygreen.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/affiliate-wp/assets/js/tracking.js?ver=1.7.8"></script>
-<script type="text/javascript" id="omapi-script" src="//a.optnmnstr.com/app/js/api.min.js?ver=1.1.4"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/sharebox/js/wdsb.js?ver=1.7.4"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/affiliate-wp/assets/js/tracking.js?ver=1.7.16"></script>
+<script type="text/javascript" data-cfasync="false" id="omapi-script" src="//a.optnmnstr.com/app/js/api.min.js?ver=1.1.4.5"></script>
+<link rel="https://api.w.org/" href="http://mollygreen.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mollygreen.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mollygreen.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="Molly Green">
 
 <link rel="shortlink" href="http://mollygreen.com/?p=360">
+<link rel="alternate" type="application/json+oembed" href="http://mollygreen.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmollygreen.com%2Fprivacy_policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://mollygreen.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmollygreen.com%2Fprivacy_policy%2F&amp;format=xml">
 	<link rel="canonical" href="http://mollygreen.com/privacy_policy/">
 
-<!-- This site is using AdRotate v3.11 Professional to display their advertisements - https://www.adrotateplugin.com/ -->
+<!-- This site is using AdRotate v3.20.2 Professional to display their advertisements - https://ajdg.solutions/products/adrotate-for-wordpress/ -->
 <!-- AdRotate CSS -->
 <style type="text/css" media="screen">
 	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g img { height:auto; }
 	.g-col { position:relative; float:left; }
 	.g-col:first-child { margin-left: 0; }
 	.g-col:last-child { margin-right: 0; }
-	.g-1 { margin:5px 5px 5px 5px; }
-	.g-5 { margin:5px 5px 5px 5px; }
+	.g-1 { width:100%; max-width:700px; height:100%; max-height:100px; margin: 0 auto; }
+	.g-2 { width:100%; max-width:700px; height:100%; max-height:100px; margin: 0 auto; }
+	.g-3 { width:100%; max-width:700px; height:100%; max-height:100px; margin: 0 auto; }
+	.g-4 { width:100%; max-width:700px; height:100%; max-height:100px; margin: 0 auto; }
+	.g-5 { width:100%; max-width:728px; height:100%; max-height:100px; margin: 0 auto; }
 	@media only screen and (max-width: 480px) {
 		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
 	}
@@ -234,43 +269,6 @@ var affwp_scripts = {"ajaxurl":"http:\/\/mollygreen.com\/wp-admin\/admin-ajax.ph
 
 	<script type="text/javascript">var ajaxurl = 'http://mollygreen.com/wp-admin/admin-ajax.php';</script>
 
-	<script language="JavaScript">
-	function fsmip_share(url)
-	{
-	window.open(url,"Window","menubar=0,resizable=1,width=750,height=400");
-	}
-	</script>
-	<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/premium-floating-social-media-icon/js/floating.js"></script>
-
-
-
-<!-- Starting Styles For Social Media Icon From Acurax International www.acurax.com -->
-<style type="text/css">
-#divBottomRight img 
-{
-width: 32px; 
-}
-#divBottomRight 
-{
-width: px; 
-}
-#divBottomRight 
-{
-min-width:0px; 
-position: static; 
-}
-@media only screen and (max-width:650px) 
-{
-#divBottomRight img 
-{
-max-width:12% !important; 
-}
-}
-</style>
-<!-- Ending Styles For Social Media Icon From Acurax International www.acurax.com -->
-
-
-
 		<script type="text/javascript">
 		var AFFWP = AFFWP || {};
 		AFFWP.referral_var = 'ref';
@@ -279,21 +277,17 @@ max-width:12% !important;
 		</script>
 		<style>.affwp-leaderboard p{font-size:80%;color:#999;}</style>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">		<style id="theme-customizer-css">
-					@media only screen and ( min-width: 767px ) {
-				body, .et_pb_column_1_2 .et_quote_content blockquote cite, .et_pb_column_1_2 .et_link_content a.et_link_main_url, .et_pb_column_1_3 .et_quote_content blockquote cite, .et_pb_column_3_8 .et_quote_content blockquote cite, .et_pb_column_1_4 .et_quote_content blockquote cite, .et_pb_blog_grid .et_quote_content blockquote cite, .et_pb_column_1_3 .et_link_content a.et_link_main_url, .et_pb_column_3_8 .et_link_content a.et_link_main_url, .et_pb_column_1_4 .et_link_content a.et_link_main_url, .et_pb_blog_grid .et_link_content a.et_link_main_url, body .et_pb_bg_layout_light .et_pb_post p,  body .et_pb_bg_layout_dark .et_pb_post p { font-size: 14px; }
-				.et_pb_slide_content, .et_pb_best_value { font-size: 15px; }
-			}
 							body { color: #000000; }
 											.woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: #668d3c !important; }
-			#et_search_icon:hover, .mobile_menu_bar:before, .et-social-icon a:hover, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .nav-single a, .posted_in a { color: #668d3c; }
+			#et_search_icon:hover, .mobile_menu_bar:before, .mobile_menu_bar:after, .et_toggle_slide_menu:after, .et-social-icon a:hover, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .nav-single a, .posted_in a { color: #668d3c; }
 			.et_pb_contact_submit, .et_password_protected_form .et_submit_button, .et_pb_bg_layout_light .et_pb_newsletter_button, .comment-reply-link, .form-submit input, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button { color: #668d3c; }
 			.footer-widget h4 { color: #668d3c; }
 			.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote { border-color: #668d3c; }
-			.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content { background-color: #668d3c; }
+			.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content, .et_pb_post_slider.et_pb_bg_layout_dark, .et_slide_in_menu_container { background-color: #668d3c; }
 									a { color: #83929f; }
 													#top-header, #et-secondary-nav li ul { background-color: #bdd09f; }
 								#top-header, #top-header a { color: rgba(0,0,0,0.7); }
-									.et_header_style_centered .mobile_nav .select_page, .et_header_style_split .mobile_nav .select_page, .et_nav_text_color_light #top-menu > li > a, .et_nav_text_color_dark #top-menu > li > a, #top-menu a, .et_mobile_menu li a, .et_nav_text_color_light .et_mobile_menu li a, .et_nav_text_color_dark .et_mobile_menu li a, #et_search_icon:before, .et_search_form_container input, span.et_close_search_field:after, #et-top-navigation .et-cart-info, .mobile_menu_bar:before { color: #666666; }
+									.et_header_style_centered .mobile_nav .select_page, .et_header_style_split .mobile_nav .select_page, .et_nav_text_color_light #top-menu > li > a, .et_nav_text_color_dark #top-menu > li > a, #top-menu a, .et_mobile_menu li a, .et_nav_text_color_light .et_mobile_menu li a, .et_nav_text_color_dark .et_mobile_menu li a, #et_search_icon:before, .et_search_form_container input, span.et_close_search_field:after, #et-top-navigation .et-cart-info { color: #666666; }
 			.et_search_form_container input::-moz-placeholder { color: #666666; }
 			.et_search_form_container input::-webkit-input-placeholder { color: #666666; }
 			.et_search_form_container input:-ms-input-placeholder { color: #666666; }
@@ -309,7 +303,7 @@ max-width:12% !important;
 							.footer-widget li:before { border-color: #668d3c; }
 																
 		
-		
+																														
 		@media only screen and ( min-width: 981px ) {
 																																								.et-fixed-header#top-header, .et-fixed-header#top-header #et-secondary-nav li ul { background-color: #bdd09f; }
 																.et-fixed-header #top-menu a, .et-fixed-header #et_search_icon:before, .et-fixed-header #et_top_search .et-search-form input, .et-fixed-header .et_search_form_container input, .et-fixed-header .et_close_search_field:after, .et-fixed-header #et-top-navigation .et-cart-info { color: #666666 !important; }
@@ -343,7 +337,7 @@ max-width:12% !important;
 	<style id="module-customizer-css">
 			</style>
 
-	<link rel="shortcut icon" href="http://mollygreen.com/wp-content/uploads/2014/07/faviconcameoright.png"><meta name="generator" content="Powered by Slider Revolution 5.1.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+	<link rel="shortcut icon" href="https://mollygreen.com/wp-content/uploads/2016/03/Molly-cameo-Green20px-1.png"><meta name="generator" content="Powered by Slider Revolution 5.2.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
 <meta name="p:domain_verify" content="503a09b9a1ff9f42f956c0025aa8f7dd"><style type="text/css" id="et-custom-css">
 .home #breadcrumbs { display: none; }
 .et_pb_section { padding: 0; }
@@ -455,36 +449,32 @@ max-width:12% !important;
 table.cart th, #main-content table.cart th, table.cart td, #main-content table.cart td, table.cart tr, #main-content table.cart tr, #content-area table tr, #content-area table td, #content-area table th {
     max-width: none;
 }
-</style>
-<!-- WooCommerce Google Analytics Integration -->
 
-<script>
-	var gaProperty = 'UA-55121126-1';
-	var disableStr = 'ga-disable-' + gaProperty;
-	if (document.cookie.indexOf(disableStr + '=true') > -1) {
-		window[disableStr] = true;
-	}
-	function gaOptout() {
-		document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-		window[disableStr] = true;
-	}
-</script>
+.woocommerce-cart table.cart td.actions .coupon .input-text {
+   background-color: #668d3c !important;
+}
+</style><!-- WooCommerce Google Analytics Integration -->
+		<script type="text/javascript">
+			var gaProperty = 'UA-55121126-1';
+			var disableStr = 'ga-disable-' + gaProperty;
+			if ( document.cookie.indexOf( disableStr + '=true' ) > -1 ) {
+				window[disableStr] = true;
+			}
+			function gaOptout() {
+				document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+				window[disableStr] = true;
+			}
+		</script>
+		<script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-<script type="text/javascript">
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	ga('create', 'UA-55121126-1', 'auto');
-	ga('set', 'dimension1', 'no');
-	ga('send', 'pageview');
-</script>
-
-<!-- /WooCommerce Google Analytics Integration -->
-
-</head>
-<body class="page page-id-360 page-template-default et_pb_button_helper_class et_fixed_nav et_show_nav et_secondary_nav_enabled et_secondary_nav_two_panels et_pb_gutter et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_left et_pb_pagebuilder_layout et_right_sidebar unknown no-js">
+		ga( 'create', 'UA-55121126-1', 'auto' );ga( 'set', 'anonymizeIp', true );
+		ga( 'set', 'dimension1', 'no' );
+ga( 'require', 'ecommerce', 'ecommerce.js');</script>
+		<!-- /WooCommerce Google Analytics Integration --></head>
+<body class="singular page page-id-360 page-template-default et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_secondary_nav_enabled et_secondary_nav_two_panels et_pb_gutter et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_left et_pb_pagebuilder_layout et_right_sidebar unknown no-js">
 	<div id="page-container">
 
 			<div id="top-header">
@@ -547,30 +537,42 @@ table.cart th, #main-content table.cart th, table.cart td, #main-content table.c
 			</div> <!-- .container -->
 		</div> <!-- #top-header -->
 	
+	
 		<header id="main-header" data-height-onload="66">
 			<div class="container clearfix et_menu_container">
 							<div class="logo_container">
 					<span class="logo_helper"></span>
 					<a href="http://mollygreen.com/">
-						<img src="http://mollygreen.com/wp-content/uploads/2015/07/MGM-Web-Logo-long386px.png" alt="Molly Green" id="logo" data-height-percentage="54">
+						<img src="https://mollygreen.com/wp-content/uploads/2015/07/MGM-Web-Logo-long386px.png" alt="Molly Green" id="logo" data-height-percentage="54">
 					</a>
 				</div>
 				<div id="et-top-navigation" data-height="66" data-fixed-height="40">
-					<nav id="top-menu-nav">
-					<ul id="top-menu" class="nav"><li id="menu-item-19250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-19250"><a href="http://mollygreen.com">Home</a></li>
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-19250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-19250"><a href="http://mollygreen.com">Home</a></li>
 <li id="menu-item-19241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19241"><a href="#">Subscribe</a>
 <ul class="sub-menu">
 	<li id="menu-item-19243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19243"><a target="_blank" href="http://mollygreenonline.com">Read Current Issue</a></li>
-	<li id="menu-item-19242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19242"><a href="http://mollygreen.com/product/memberships">Subscribe – $24/year</a></li>
+	<li id="menu-item-19242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19242"><a href="http://mollygreen.com/product/print+subscription+usa">Subscribe – $24/year</a></li>
 	<li id="menu-item-16497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16497"><a target="_blank" href="http://mollygreen.com/join">Become a Member – best value</a></li>
 	<li id="menu-item-20599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20599"><a target="_blank" href="http://mollygreen.com/enewsletter/">Free eNewsletter</a></li>
 	<li id="menu-item-16084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16084"><a href="http://mollygreen.com/mg-apps/">Free Apps</a></li>
+	<li id="menu-item-31903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-31903"><a href="#">Magazine</a>
+	<ul class="sub-menu">
+		<li id="menu-item-31899" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-31899"><a href="#">Reviews</a>
+		<ul class="sub-menu">
+			<li id="menu-item-31900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31900"><a target="_blank" href="http://www.sheilacakesblog.com/2016/03/molly-green-magazine-helps-simplify.html">Sheila Rominger</a></li>
+			<li id="menu-item-31901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31901"><a target="_blank" href="http://www.aliciahutchinson.com/?p=60">Alicia Hutchinson</a></li>
+			<li id="menu-item-31902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31902"><a target="_blank" href="http://www.littlehouseliving.com/molly-green-a-review-a-giveaway.html">Merissa Alink</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
 </ul>
 </li>
 <li id="menu-item-12848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12848"><a href="http://mollygreen.com/mercantile">Mercantile</a>
 <ul class="sub-menu">
 	<li id="menu-item-21660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21660"><a href="http://mollygreen.com/mercantile">Mercantile</a></li>
-	<li id="menu-item-21661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21661"><a href="http://mollygreen.com/product-category/molly-green-magazine-2015/">2015 Print Magazines</a></li>
+	<li id="menu-item-21661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21661"><a href="http://mollygreen.com/product-category/molly-green-magazine-2015/">Print Magazines</a></li>
 	<li id="menu-item-13979" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13979"><a href="http://mollygreen.com/product-category/planners/">Planners</a></li>
 	<li id="menu-item-13976" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-13976"><a href="http://mollygreen.com/product-category/vintage-molly-green/">Vintage Molly Green</a></li>
 	<li id="menu-item-13636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13636"><a href="http://mollygreen.com/cart/">Cart</a></li>
@@ -601,24 +603,25 @@ table.cart th, #main-content table.cart th, table.cart td, #main-content table.c
 	<li id="menu-item-17822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17822"><a target="_blank" href="http://mollygreen.com/submission_information_for_molly_green_magazine/">Writer’s Guidelines</a></li>
 	<li id="menu-item-19128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19128"><a href="http://mollygreen.com/business-stories/">Business Stories</a></li>
 	<li id="menu-item-19251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19251"><a href="http://mollygreen.com/affiliate-area/">Affiliate Program</a></li>
-	<li id="menu-item-21214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21214"><a href="http://mollygreen.com/bundles/">HOMEstead BUNDLES</a></li>
+	<li id="menu-item-29711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29711"><a href="http://mollygreen.com/reviews/">Molly Green Reviews</a></li>
 	<li id="menu-item-19104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19104"><a href="http://mollygreen.com/farms/">National Farms Network</a></li>
 	<li id="menu-item-9038" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9038"><a href="http://mollygreen.com/contact/">Contact Us</a></li>
 </ul>
 </li>
-</ul>					</nav>
-
+</ul>						</nav>
+					
+					
 					
 										<div id="et_top_search">
 						<span id="et_search_icon"></span>
 					</div>
 					
 					<div id="et_mobile_nav_menu">
-			<div class="mobile_nav closed">
-				<span class="select_page">Select Page</span>
-				<span class="mobile_menu_bar"></span>
-			</div>
-		</div>				</div> <!-- #et-top-navigation -->
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
 			</div> <!-- .container -->
 			<div class="et_search_outer">
 				<div class="container et_search_form_container">
@@ -644,7 +647,7 @@ table.cart th, #main-content table.cart th, table.cart td, #main-content table.c
 					
 					<div class=" et_pb_row et_pb_row_0">
 				
-				<div class="et_pb_column et_pb_column_3_4 et_pb_column_0">
+				<div class="et_pb_column et_pb_column_3_4  et_pb_column_0">
 				
 				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_0">
 				
@@ -695,40 +698,37 @@ table.cart th, #main-content table.cart th, table.cart td, #main-content table.c
 <p>&nbsp;</p>
 
 			</div> <!-- .et_pb_text -->
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_1">
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4  et_pb_column_1">
 				
 				<div class="et_pb_widget_area et_pb_widget_area_left clearfix et_pb_module et_pb_bg_layout_light  et_pb_sidebar_0">
-				<div id="text-21" class="et_pb_widget widget_text">			<div class="textwidget"><a href="http://mollygreen.com/join/" target="_blank"><img class="aligncenter" src="http://mollygreen.com/wp-content/uploads/2015/10/MGM-Membership-350x350-plain.jpg" alt="Join"></a></div>
+				<div id="text-22" class="et_pb_widget widget_text">			<div class="textwidget"><div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/MollyGreenMag/posts/954212537992995" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/MollyGreenMag/posts/954212537992995"><p>Join the Molly Green family of homesteaders and home-keepers today!</p>Posted by <a href="https://www.facebook.com/MollyGreenMag/">Molly Green</a> on&nbsp;<a href="https://www.facebook.com/MollyGreenMag/posts/954212537992995">Thursday, December 10, 2015</a></blockquote></div></div></div>
+		</div> <!-- end .et_pb_widget --><div id="text-21" class="et_pb_widget widget_text">			<div class="textwidget"><a href="http://mollygreen.com/join/" target="_blank"><img class="aligncenter" src="http://mollygreen.com/wp-content/uploads/2016/03/MGM99cent_adSpring-2016.jpg" alt="Join"></a></div>
 		</div> <!-- end .et_pb_widget -->		<div id="recent-posts-2" class="et_pb_widget widget_recent_entries">		<h4 class="widgettitle">Recent Articles</h4>		<ul>
 					<li>
-				<a href="http://mollygreen.com/blog/three-levels-of-christmas-giving/">Three Levels of Christmas Giving</a>
+				<a href="http://mollygreen.com/blog/review-of-economics-for-everybody/">Review of Economics for Everybody</a>
 						</li>
 					<li>
-				<a href="http://mollygreen.com/blog/review-of-hands-of-a-child-lapbooks/">Review of Hands of a Child Lapbooks</a>
+				<a href="http://mollygreen.com/blog/why-cant-they-make-decent-movies/">Why Can’t They Make Decent Movies?</a>
 						</li>
 					<li>
-				<a href="http://mollygreen.com/blog/happy-thanksgiving/">Happy Thanksgiving</a>
+				<a href="http://mollygreen.com/blog/home-remedies-that-worked-for-us/">Home Remedies that Worked for Us</a>
 						</li>
 					<li>
-				<a href="http://mollygreen.com/blog/winterizing-your-chickens/">Winterizing Your Chickens</a>
+				<a href="http://mollygreen.com/blog/build-a-menu-baked-ranch-chicken/">Build a Menu: Baked Ranch Chicken</a>
 						</li>
 					<li>
-				<a href="http://mollygreen.com/blog/4-reasons-to-consider-self-publishing/">4 Reasons to Consider Self-Publishing</a>
+				<a href="http://mollygreen.com/blog/growing-up-hunting-shaping-who-i-am-today/">Growing Up Hunting: Shaping Who I am Today</a>
 						</li>
 				</ul>
-		</div> <!-- end .et_pb_widget --><div id="acx-social-icons-widget-13" class="et_pb_widget acx-social-icons-desc"><h4 class="widgettitle">Connect With Us</h4><style>
-.widget-acx-social-icons-widget-13-widget img 
-{
-width:32px; 
- } 
-</style><div id="acurax_si_simple" class="acx_fsmi_float_fix widget-acx-social-icons-widget-13-widget" style="text-align:center;"><a href="http://www.twitter.com/MollyGreenMag" target="_blank" title="Visit us on Twitter"><img src="http://mollygreen.com/wp-content/plugins/premium-floating-social-media-icon/images/themes/1/twitter.png" alt="Visit us on Twitter" style="border:0px;" class="bounce" height="32px" width="32px"></a><a href="https://www.facebook.com/MollyGreenMag" target="_blank" title="Visit us on Facebook"><img src="http://mollygreen.com/wp-content/plugins/premium-floating-social-media-icon/images/themes/1/facebook.png" alt="Visit us on Facebook" style="border:0px;" class="bounce" height="32px" width="32px"></a><a href="https://plus.google.com/+MollygreenMagazine/posts" target="_blank" title="Visit us on GooglePlus"><img src="http://mollygreen.com/wp-content/plugins/premium-floating-social-media-icon/images/themes/1/googleplus.png" alt="Visit us on GooglePlus" style="border:0px;" class="bounce" height="32px" width="32px"></a><a href="https://www.pinterest.com/mollygreen/" target="_blank" title="Visit us on Pinterest"><img src="http://mollygreen.com/wp-content/plugins/premium-floating-social-media-icon/images/themes/1/pinterest.png" alt="Visit us on Pinterest" style="border:0px;" class="bounce" height="32px" width="32px"></a><a href="https://www.youtube.com/channel/UCSaW9qfv58iW5PS312Cdvnw" target="_blank" title="Visit us on YouTube"><img src="http://mollygreen.com/wp-content/plugins/premium-floating-social-media-icon/images/themes/1/youtube.png" alt="Visit us on YouTube" style="border:0px;" class="bounce" height="32px" width="32px"></a><a href="http://mollygreen.com/feed/" target="_blank" title="Check our RSS Feed"><img src="http://mollygreen.com/wp-content/plugins/premium-floating-social-media-icon/images/themes/1/feed.png" alt="Check our RSS Feed" style="border:0px;" class="bounce" height="32px" width="32px"></a><a href="https://instagram.com/mollygreenmagazine/" target="_blank" title="Visit us on Instagram"><img src="http://mollygreen.com/wp-content/uploads/2015/07/instagram3.png" alt="Visit us on Instagram" style="border:0px;" class="bounce"></a></div></div> <!-- end .et_pb_widget -->
+		</div> <!-- end .et_pb_widget -->		<div id="text-23" class="et_pb_widget widget_text">			<div class="textwidget"><div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/MollyGreenMag/posts/974928372588078:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/MollyGreenMag/posts/974928372588078:0"><p>What could be more important than HOME? It's where all the most important events begin. Sign up for a print magazine...</p>Posted by <a href="https://www.facebook.com/MollyGreenMag/">Molly Green</a> on&nbsp;<a href="https://www.facebook.com/MollyGreenMag/posts/974928372588078:0">Monday, January 18, 2016</a></blockquote></div></div></div>
+		</div> <!-- end .et_pb_widget -->
 			</div> <!-- .et_pb_widget_area -->
 			</div> <!-- .et_pb_column -->
 					
 			</div> <!-- .et_pb_row -->
 				
 			</div> <!-- .et_pb_section -->
-<div class="g g-5"><div class="g-single a-5"><center><a href="http://mollygreen.com/subscribe/"><img src="http://mollygreen.com/wp-content/uploads/2015/04/MGM-Print-728x90.jpg"></a></center></div></div>					</div> <!-- .entry-content -->
+<div class="g g-5"><div class="g-dyn a-11 c-1"><center><a onclick="ga('send','event','banner','click','Harvest Right, LLC.',1,{'nonInteraction':1});" href="http://www.harvestright.com" target="_blank"><img onload="ga('send','event','banner','impression','Harvest Right, LLC.',2,{'nonInteraction':1});" src="http://mollygreen.com/wp-content/uploads/2015/12/web-banners_LDSLiving_728x90.jpg"></a><center></center></center></div><div class="g-dyn a-12 c-2"><center><a onclick="ga('send','event','banner','click','Down to Earth Seeds',1,{'nonInteraction':1});" href="http://www.DowntoEarthSeeds.com" target="_blank"><img onload="ga('send','event','banner','impression','Down to Earth Seeds',2,{'nonInteraction':1});" src="http://mollygreen.com/wp-content/uploads/2015/04/HeirloomSeeds728x90.jpg"></a><center></center></center></div><div class="g-dyn a-8 c-3"><center><a onclick="ga('send','event','banner','click','Considering Homeschooling',1,{'nonInteraction':1});" href="http://www.ConsideringHomeschooling.info" target="_blank"><img onload="ga('send','event','banner','impression','Considering Homeschooling',2,{'nonInteraction':1});" src="http://mollygreen.com/wp-content/banners/consideringhomeschoolingbanner728x90.jpg"></a><center></center></center></div><div class="g-dyn a-23 c-4"><center><a onclick="ga('send','event','banner','click','Albert Whitman &amp; Company',1,{'nonInteraction':1});" href="http://www.albertwhitman.com/book/first-peas-to-the-table/" target="_blank"><img onload="ga('send','event','banner','impression','Albert Whitman &amp; Company',2,{'nonInteraction':1});" src="http://mollygreen.com/wp-content/uploads/2016/06/FirstPeasMollyGreenBannerAd.jpg"></a><center></center></center></div><div class="g-dyn a-1 c-5"><center><a onclick="ga('send','event','banner','click','Mango Languages Filler For Sept and October 2014',1,{'nonInteraction':1});" href="http://www.mangolanguages.com/mollygreen" target="_blank"><img onload="ga('send','event','banner','impression','Mango Languages Filler For Sept and October 2014',2,{'nonInteraction':1});" src="http://mollygreen.com/wp-content/banners/mangomolly-green-banner.png"></a><center></center></center></div><div class="g-dyn a-20 c-6"><center><a onclick="ga('send','event','banner','click','Nite Guard',1,{'nonInteraction':1});" href="http://www.niteguard.com" target="_blank"><img onload="ga('send','event','banner','impression','Nite Guard',2,{'nonInteraction':1});" src="http://mollygreen.com/wp-content/uploads/2015/12/Website-Banner_728x90.jpg"></a><center></center></center></div><div class="g-dyn a-22 c-7"><center><a onclick="ga('send','event','banner','click','VidAngel',1,{'nonInteraction':1});" href="http://www.shareasale.com/u.cfm?d=324613&amp;m=52993&amp;u=1285716" target="_blank"><img onload="ga('send','event','banner','impression','VidAngel',2,{'nonInteraction':1});" src="http://mollygreen.com/wp-content/uploads/2016/04/LongBanner2.png"></a><center></center></center></div><div class="g-dyn a-5 c-8"><center><a onclick="ga('send','event','banner','click','Molly Green.com',1,{'nonInteraction':1});" href="http://mollygreen.com/subscribe/" target="_blank"><img onload="ga('send','event','banner','impression','Molly Green.com',2,{'nonInteraction':1});" src="http://mollygreen.com/wp-content/uploads/2015/04/MGM-Print-728x90.jpg"></a><center></center></center></div><div class="g-dyn a-3 c-9"><center><a onclick="ga('send','event','banner','click','DoTerra Lisa Barthuly link',1,{'nonInteraction':1});" href="http://www.mydoTERRA.com/PreparedHomestead/#/" target="_blank"><img onload="ga('send','event','banner','impression','DoTerra Lisa Barthuly link',2,{'nonInteraction':1});" src="http://mollygreen.com/wp-content/uploads/2015/09/doTERRAbanner700x100A.jpg"></a><center></center></center></div><div class="g-dyn a-21 c-10"><center><a onclick="ga('send','event','banner','click','N82 Tactical, Inc.',1,{'nonInteraction':1});" href="http://www.n82tactical.com/" target="_blank"><img onload="ga('send','event','banner','impression','N82 Tactical, Inc.',2,{'nonInteraction':1});" src="http://mollygreen.com/wp-content/uploads/2016/01/700-X-100-BANNER.jpg"></a><center></center></center></div><div class="g-dyn a-16 c-11"><center><a onclick="ga('send','event','banner','click','Fowl Play Products / The Chicken Swing',1,{'nonInteraction':1});" href="https://www.fowlplayproducts.com/ " target="_blank"><img onload="ga('send','event','banner','impression','Fowl Play Products / The Chicken Swing',2,{'nonInteraction':1});" src="http://mollygreen.com/wp-content/uploads/2015/05/Banner-ad-3.jpg"></a><center></center></center></div></div>					</div> <!-- .entry-content -->
 
 				
 				</article> <!-- .et_pb_post -->
@@ -742,7 +742,7 @@ width:32px;
 				
 <div class="container">
 	<div id="footer-widgets" class="clearfix">
-	<div class="footer-widget"><div id="text-15" class="fwidget et_pb_widget widget_text"><h4 class="title">Latest Issue</h4>			<div class="textwidget"><a href="http://mollygreenonline.com/" target="_blank"><img class="aligncenter size-medium wp-image-15050" src="http://mollygreen.com/wp-content/uploads/2015/12/MGM-Winter-2016-Cover-3D-72255.png" alt="mg cover" width="250" height="250"></a>
+	<div class="footer-widget"><div id="text-15" class="fwidget et_pb_widget widget_text"><h4 class="title">Latest Issue</h4>			<div class="textwidget"><a href="http://mollygreenonline.com/" target="_blank"><img class="aligncenter size-medium wp-image-15050" src="https://mollygreen.com/wp-content/uploads/2016/03/MGM-Spring-2016-3D-Cover-72255.png" alt="mg cover" width="250" height="250"></a>
 
 From the Makers of <br><b><i>The Old Schoolhouse</i></b>® Magazine</div>
 		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="nav_menu-2" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">Links</h4><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-13027" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13027"><a href="http://mollygreen.com/mollyblog">Molly Green Blog</a></li>
@@ -762,12 +762,7 @@ From the Makers of <br><b><i>The Old Schoolhouse</i></b>® Magazine</div>
 &nbsp;
 
 &nbsp;</div>
-		</div> <!-- end .fwidget --><div id="acx-social-icons-widget-16" class="fwidget et_pb_widget acx-social-icons-desc"><h4 class="title">Connect with Us</h4><style>
-.widget-acx-social-icons-widget-16-widget img 
-{
-width:32px; 
- } 
-</style><div id="acurax_si_simple" class="acx_fsmi_float_fix widget-acx-social-icons-widget-16-widget" style="text-align:center;"><a href="http://www.twitter.com/MollyGreenMag" target="_blank" title="Visit us on Twitter"><img src="http://mollygreen.com/wp-content/plugins/premium-floating-social-media-icon/images/themes/1/twitter.png" alt="Visit us on Twitter" style="border:0px;" class="bounce" height="32px" width="32px"></a><a href="https://www.facebook.com/MollyGreenMag" target="_blank" title="Visit us on Facebook"><img src="http://mollygreen.com/wp-content/plugins/premium-floating-social-media-icon/images/themes/1/facebook.png" alt="Visit us on Facebook" style="border:0px;" class="bounce" height="32px" width="32px"></a><a href="https://plus.google.com/+MollygreenMagazine/posts" target="_blank" title="Visit us on GooglePlus"><img src="http://mollygreen.com/wp-content/plugins/premium-floating-social-media-icon/images/themes/1/googleplus.png" alt="Visit us on GooglePlus" style="border:0px;" class="bounce" height="32px" width="32px"></a><a href="https://www.pinterest.com/mollygreen/" target="_blank" title="Visit us on Pinterest"><img src="http://mollygreen.com/wp-content/plugins/premium-floating-social-media-icon/images/themes/1/pinterest.png" alt="Visit us on Pinterest" style="border:0px;" class="bounce" height="32px" width="32px"></a><a href="https://www.youtube.com/channel/UCSaW9qfv58iW5PS312Cdvnw" target="_blank" title="Visit us on YouTube"><img src="http://mollygreen.com/wp-content/plugins/premium-floating-social-media-icon/images/themes/1/youtube.png" alt="Visit us on YouTube" style="border:0px;" class="bounce" height="32px" width="32px"></a><a href="http://mollygreen.com/feed/" target="_blank" title="Check our RSS Feed"><img src="http://mollygreen.com/wp-content/plugins/premium-floating-social-media-icon/images/themes/1/feed.png" alt="Check our RSS Feed" style="border:0px;" class="bounce" height="32px" width="32px"></a><a href="https://instagram.com/mollygreenmagazine/" target="_blank" title="Visit us on Instagram"><img src="http://mollygreen.com/wp-content/uploads/2015/07/instagram3.png" alt="Visit us on Instagram" style="border:0px;" class="bounce"></a></div></div> <!-- end .fwidget --><div id="text-18" class="fwidget et_pb_widget widget_text">			<div class="textwidget">Sponsored in part by <a href="http://www.Movieguide.org" target="_blank">MovieGuide.org</a></div>
+		</div> <!-- end .fwidget --><div id="text-18" class="fwidget et_pb_widget widget_text">			<div class="textwidget">Sponsored in part by <a href="http://www.Movieguide.org" target="_blank">MovieGuide.org</a></div>
 		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget last"><div id="bp_core_login_widget-2" class="fwidget et_pb_widget widget_bp_core_login_widget buddypress widget"><h4 class="title">Members</h4>
 		
 			
@@ -797,7 +792,7 @@ width:32px;
 				<div id="footer-bottom">
 					<div class="container clearfix">
 				
-						<p id="footer-info">Copyright © 2014 - 2015 <a href="http://mollygreen.com">Molly Green, LLC</a>. All Rights Reserved.</p>
+						<p id="footer-info">Copyright © 2014 - 2016 <a href="http://mollygreen.com">Molly Green, LLC</a>. All Rights Reserved.</p>
 					</div>	<!-- .container -->
 				</div>
 			</footer> <!-- #main-footer -->
@@ -832,9 +827,11 @@ qacct:"p-y46F4XJJXF5nF"
 </noscript>
 <!-- End Quantcast tag -->
 
-<!-- Generated in 1.978 seconds. (197 q) -->
+<!-- Generated in 2.290 seconds. (163 q) -->
 
-	        <script>
+	<script>jQuery(document).ready(function(){jQuery(".kiwi-logo-carousel-default").bxSlider({mode:"horizontal",speed:500,slideMargin:0,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:false,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:4,moveSlides:1,slideWidth:200,auto:true,pause:4000,useCSS:false});jQuery(".kiwi-logo-carousel-stores").bxSlider({mode:"horizontal",speed:30000,slideMargin:0,infiniteLoop:true,hideControlOnEnd:false,captions:false,ticker:true,tickerHover:false,adaptiveHeight:false,responsive:true,pager:false,controls:true,autoControls:false,minSlides:1,maxSlides:4,moveSlides:1,slideWidth:200,auto:false,pause:4000,useCSS:false});});</script>        <style type="text/css" id="et-builder-page-custom-style">
+				 .et_pb_section { background-color: ; }
+			</style><!-- This site is converting visitors into subscribers and customers with OptinMonster - http://optinmonster.com --><div id="om-ye3optiis6-lightbox-holder"></div><script>var ye3optiis6_lightbox,ye3optiis6_lightbox_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){ye3optiis6_lightbox_poll(function(){if(window['om_loaded']){if(!ye3optiis6_lightbox){ye3optiis6_lightbox=new OptinMonsterApp();return ye3optiis6_lightbox.init({u:"2849.240463",staging:0,dev:0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmnstr.com/app/js/api.min.js",o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;ye3optiis6_lightbox=new OptinMonsterApp();ye3optiis6_lightbox.init({u:"2849.240463",staging:0,dev:0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster --><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -847,88 +844,92 @@ qacct:"p-y46F4XJJXF5nF"
 
 
 
-<script type="text/javascript" src="http://mollygreen.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js?ver=2.5.6"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/adrotate-pro/library/jquery.adrotate.clicktracker.js?ver=0.6"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js?ver=2.7.3"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/adrotate-pro/library/jquery.adrotate.dyngroup.js"></script>
 <script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.8-5815"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-includes/js/comment-reply.js?ver=4.3.1"></script>
-<script type="text/javascript" src="//code.tidio.co/js1fyo0pkypfs0qy4u1cyqszqxt9izjn.js?ver=3.0.0"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-includes/js/comment-reply.js?ver=4.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var FUE_Front = {"is_logged_in":"","ajaxurl":"http:\/\/mollygreen.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/woocommerce-follow-up-emails/templates/js/fue-front.js?ver=4.4.12"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy_policy\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/mollygreen.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//mollygreen.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.js?ver=2.4.10"></script>
+<script type="text/javascript" src="//mollygreen.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.js?ver=2.5.5"></script>
 <script type="text/javascript" src="//mollygreen.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.js?ver=2.70"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy_policy\/?wc-ajax=%%endpoint%%"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//mollygreen.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.js?ver=2.4.10"></script>
+<script type="text/javascript" src="//mollygreen.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.js?ver=2.5.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy_policy\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//mollygreen.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js?ver=2.4.10"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/themes/Divi/js/custom.js?ver=2.5.6"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js?ver=2.5.6"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js?ver=2.5.6"></script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/themes/Divi/includes/builder/scripts/jquery.magnific-popup.js?ver=2.5.6"></script>
+<script type="text/javascript" src="//mollygreen.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js?ver=2.5.5"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/themes/Divi/includes/builder/scripts/jquery.mobile.custom.min.js?ver=2.7.3"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/themes/Divi/js/custom.js?ver=2.7.3"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js?ver=2.7.3"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js?ver=2.7.3"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/themes/Divi/includes/builder/scripts/jquery.magnific-popup.js?ver=2.7.3"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var et_pb_custom = {"ajaxurl":"http:\/\/mollygreen.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/mollygreen.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/mollygreen.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_load_nonce":"2a74ac69a3","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","is_divi_theme_used":"1","widget_search_selector":".widget_search"};
+var et_pb_custom = {"ajaxurl":"http:\/\/mollygreen.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/mollygreen.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/mollygreen.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"189db5681b","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"5673769feb","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"360","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://mollygreen.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js?ver=2.5.6"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js?ver=2.7.3"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-includes/js/wp-embed.js?ver=4.5"></script>
+<script type="text/javascript" src="http://mollygreen.com/wp-content/plugins/kiwi-logo-carousel/third-party/jquery.bxslider/jquery.bxslider.js?ver=4.5"></script>
 <!-- WooCommerce JavaScript -->
 <script type="text/javascript">
 jQuery(function($) {
 
-	$( '.add_to_cart_button:not(.product_type_variable, .product_type_grouped)' ).click( function() {
-		ga('send', 'event', 'Products', 'Add to Cart', ($(this).data('product_sku')) ? ('SKU: ' + $(this).data('product_sku')) : ('#' + $(this).data('product_id')));
-	});
+			$( '.add_to_cart_button:not(.product_type_variable, .product_type_grouped)' ).click( function() {
+				ga('send', 'event', 'Products', 'Add to Cart', ($(this).data('product_sku')) ? ('SKU: ' + $(this).data('product_sku')) : ('#' + $(this).data('product_id')));
+			});
+		
 
+ga( 'send', 'pageview' ); 
 });
 </script>
-		<script type="text/javascript">
-		(function() {
-			window.PinIt = window.PinIt || { loaded:false };
-			if (window.PinIt.loaded) return;
-			window.PinIt.loaded = true;
-			function async_load(){
-				var s = document.createElement("script");
-				s.type = "text/javascript";
-				s.async = true;
-				if (window.location.protocol == "https:")
-					s.src = "//assets.pinterest.com/js/pinit.js";
-				else
-					s.src = "//assets.pinterest.com/js/pinit.js";
-				var x = document.getElementsByTagName("script")[0];
-				x.parentNode.insertBefore(s, x);
-			}
-			if (window.attachEvent)
-				window.attachEvent("onload", async_load);
-			else
-				window.addEventListener("load", async_load, false);
-		})();
-		</script>
-			<script>
-	function acurax_pin_it() {
-		var e=document.createElement('script');
-		e.setAttribute('type','text/javascript');
-		e.setAttribute('charset','UTF-8');
-		e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r=' + Math.random()*99999999);
-		document.body.appendChild(e);
-	}
-	</script>
-	<!-- AdRotate JS -->
+<!-- AdRotate JS -->
 <script type="text/javascript">
-var tracker_url = 'http://mollygreen.com/wp-content/plugins/adrotate-pro/library/clicktracker.php';
+jQuery(document).ready(function(){
+if(jQuery.fn.gslider) {
+	jQuery('.g-1').gslider({ groupid: 1, speed: 7000 });
+	jQuery('.g-2').gslider({ groupid: 2, speed: 7000 });
+	jQuery('.g-3').gslider({ groupid: 3, speed: 7000 });
+	jQuery('.g-4').gslider({ groupid: 4, speed: 7000 });
+	jQuery('.g-5').gslider({ groupid: 5, speed: 7000 });
+}
+});
 </script>
 <!-- /AdRotate JS -->
 
-	    <script type="text/javascript">var omapi_localized = { ajax: 'http://mollygreen.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '3e80b8e47e' };</script>
-	    
+	    <script type="text/javascript">var omapi_localized = { ajax: 'http://mollygreen.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '0085c8751e' };</script>
+	    <!-- Piwik 
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  _paq.push(['trackAllContentImpressions']); //for AdRotate Pro
+  (function() {
+    var u="//stats.mollygreen.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//stats.mollygreen.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+-->
+<!-- End Piwik Code -->
+
 
 </body></html>
