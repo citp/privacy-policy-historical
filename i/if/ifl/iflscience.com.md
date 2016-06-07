@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iflscience.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226012400id_/http%3A//www.iflscience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iflscience.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608014002id_/http%3A//www.iflscience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IFLScience
 
@@ -57,7 +57,7 @@ If we provide you with any mailings or other communication, you can always opt o
 
 You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled.
 
-You have the right to remove your personal information from our databases. To do this, please delete your Company account. If you have any problems or questions, please let us know by contacting us here _[termsandprivacy@iflscience.com](mailto:termsandprivacy@iflscience.com)_ and we will assist you with the process.
+You have the right to remove your personal information from our databases. To do this, please delete your Company account. If you have any problems or questions, please let us know by contacting us here [termsandprivacy@iflscience.com](mailto:termsandprivacy@iflscience.com) and we will assist you with the process.
 
 ## Accessing and updating your personal information
 
@@ -105,7 +105,7 @@ We regularly review our compliance with our Privacy Policy. When we receive form
 
 ## Children Under 13
 
-Our site is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child’s information on our site, please contact us at _[termsandprivacy@iflscience.com](mailto:termsandprivacy@iflscience.com)_.
+Our site is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child’s information on our site, please contact us at [termsandprivacy@iflscience.com](mailto:termsandprivacy@iflscience.com).
 
 ## Our Services are Located in the United States
 
