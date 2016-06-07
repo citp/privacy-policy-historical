@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022025029id_/http%3A//www.patriots.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607155329id_/http%3A//www.patriots.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | New England Patriots
 
 ## New England Patriots Website Privacy Policy
 
-_Last modified: 6/24/2015_
+_Last modified: 10/29/2015_
 
   * Introduction 
   * Children Under the Age of 13 
@@ -26,16 +26,6 @@ _Last modified: 6/24/2015_
 
 * * *
 
-  * Safe Harbor Privacy Statement 
-    * Definitions 
-    * Notice 
-    * Choice 
-    * Onward Transfer of Personal Data 
-    * Security 
-    * Data Integrity 
-    * Access and Correction 
-    * Enforcement 
-    * Dispute Resolution 
   * TRUSTe Privacy Program 
 
 
@@ -69,6 +59,8 @@ It does not apply to information collected by:
 
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use the Services. By accessing or using the Services, you agree to this Privacy Policy. This policy may change from time to time (see Changes to our Privacy Policy ). Your continued use of the Services after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+
+Please note that the Services are directed towards users who reside in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States. While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this policy.
 
 ## Children Under the Age of 13
 
@@ -321,8 +313,6 @@ It is our policy to post any changes we make to our Privacy Policy on this page.
 
 New England Patriots LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through the Services that link to this Privacy Policy. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-New England Patriots LLC complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. New England Patriots LLC adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view New England Patriots certification, please visit <http://www.export.gov/safeharbor/>.
-
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
 [web@patriots.com](mailto:web@patriots.com)
@@ -331,84 +321,6 @@ Gillette Stadium
 One Patriot Place  
 Foxboro, Massachusetts 02035, USA  
 Attn: Website Privacy Policy
-
-## Safe Harbor Privacy Statement
-
-This policy describes the privacy principles we follow with respect to transfers of personal data from the European Economic Area (EEA) and from Switzerland (collectively, "Europe") to the United States. It sets out our practices for collecting, using, maintaining, protecting and disclosing that personal data.
-
-We will process personal data that is transferred to us from Europe in accordance with the safe harbor principles agreed between the United States Department of Commerce and the European Commission ("Safe Harbor Principles"). These principles enable US companies to satisfy the European Union ("EU") requirement set out in the EU Data Protection Directive that personal data transferred from Europe to the United States be adequately protected.
-
-The following definitions apply to Our Safe Harbor Policy:
-
-  * **Data Protection Directive:** EU Directive 95/46/EC on the protection of individuals with regard to the processing of personal data and on the free movement of such data.
-
-  * **Agent:** any third-party data processor that processes personal data We provide on Our behalf and under Our instructions.
-
-  * **Personal Data:** any information or set of information that identifies or could be used to identify (together with other information) a living individual. Personal data does not include information that is anonymised or aggregated.
-
-  * **Sensitive Personal Data:** any Personal Data that reveals race, ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, information that concerns health or sex life, and information about criminal or administrative proceedings and sanctions.
-
-
-
-
-**Notice**
-
-If we collect Personal Data directly from individuals in Europe, we will inform them about the purposes for which we intend to process that Personal Data, the types of non-agent third parties, if any, to which we will disclose that Personal Data, and the choices and means, if any, that we offer individuals for limiting the use and disclosure of their Personal Data.
-
-We will provide notice to individuals in clear and conspicuous language when individuals are first asked to provide Personal Data to us, or as soon as practicable thereafter. In any event, we will provide notice before we use the Personal Data for a purpose other than that for which it was originally collected.
-
-If we receive Personal Data from our subsidiaries, affiliates or other entities in Europe, we will use that information in accordance with the notices those entities provided to the individuals to whom that Personal Data relates and the choices made by those individuals.
-
- **Choice**
-
-We will provide individuals with the opportunity to opt out of any disclosure of their Personal Data to any non-agent third party or the use of that data for a purpose other than the purpose for which it was originally collected or subsequently authorised by the individual.
-
-We will not disclose Sensitive Personal Data to a non-agent third party or use Sensitive Personal Data for a purpose other than the purpose for which it was originally collected or subsequently authorised by the individual unless we have received the individual's affirmative and explicit consent (opt-in).
-
-We will provide individuals with reasonable methods to exercise their choices.
-
- **Onward Transfer of Personal Data**
-
-We will obtain assurances from our Agents that they will safeguard Personal Data in accordance with this safe harbor policy. Appropriate assurances include:
-
-  * a contract between us and the Agent that requires the Agent to provide at least the same level of protection as is required by the Safe Harbor Principles;
-  * the Agent being subject to the Data Protection Directive;
-  * the Agent being established in a country that is subject to a finding of adequacy by the European Commission under Article 25(6) of Data Protection Directive; or
-  * safe harbor certification of the Agent.
-
-
-
-**Security**
-
-We will take reasonable precautions to protect Personal Data we create, maintain, use or disseminate from loss, misuse, unauthorised access, disclosure, alteration and destruction. We will take special care to ensure the security of Sensitive Personal Data.
-
- **Data Integrity**
-
-We will use Personal Data only for the purpose for which it was first collected or subsequently authorised by the individual or for other compatible purposes. We will take reasonable steps to ensure that Personal Data is relevant to its intended use, accurate, complete and current.
-
- **Data Retention**
-
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
- **Access and Correction**
-
-Upon request, we will provide individuals with reasonable access to the Personal Data that we hold about them except where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy in the case in question, or where the rights of persons other than the individual would be violated.
-
-We will take reasonable steps to permit individuals to correct, amend or delete Personal Data related to them that is inaccurate or incomplete. We will respond to requests to access, correct or delete your Personal Data within a reasonable timeframe.
-
- **Enforcement**
-
-We will conduct compliance audits of its relevant privacy practices to verify compliance with this safe harbor policy.
-
-If we determine that an employee of ours acted in violation of this safe harbor policy he or she will be subject to disciplinary action up to and including termination of employment.
-
- **Dispute Resolution**
-
-Any questions or concerns regarding our use or disclosure of Personal Data should be addressed to Our Central Privacy Coordinator at the address given below. We will investigate and attempt to resolve any complaints and disputes regarding the use and disclosure of Personal Data in accordance with the provisions of this safe harbor policy.
-
-For complaints that cannot be resolved between Company and the complainant, we have agreed to participate in the [TRUSTe dispute resolution procedures](http://www.truste.com/products-and-services/dispute-resolution-services/) in the investigation and resolution of complaints to resolve disputes in accordance with the Safe Harbor Principles.
-
-* * *
 
 [](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=a9e7f2ff-43c6-4318-bede-aa3a0cf32271 "TRUSTe European Safe Harbor certification")
 
