@@ -1,40 +1,6 @@
-> *The following text is extracted and transformed from the crime-scene-investigator.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207155246id_/http%3A//www.crime-scene-investigator.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crime-scene-investigator.net privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607083642id_/http%3A//www.crime-scene-investigator.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**Sign up now to receive our free monthly newsletter** featuring articles, news and new jobs available in Crime Scene Investigations and Forensic Science. 
-
-## How to Become a CSI
-
-[](http://www.crime-scene-investigator.net/csi-training.html)
-
-  
-
-
-### Job Posting Alerts
-
-[Tweets by @CSInetwork](https://twitter.com/CSInetwork)
-
-**"Follow" to Receive Job Alerts**
-
-[Follow @CSInetwork](https://twitter.com/CSInetwork)
-
-  
-
-
-## Featured Product
-
-[](http://www.forensicwear.com/)
-
-  
-
-
-| 
-
-  
-
-
-## Privacy Policy
 
 Protecting your private information is our priority. This Statement of Privacy applies to the Crime Scene Investigator Network website (http://www.crime-scene-investigator.net) and Crime Scene Resources and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Crime Scene Resources include the Crime Scene Investigator Network and http://www.crime-scene-investigator.net. The Crime Scene Resources website is an educational and information site. By using the Crime Scene Resources website, you consent to the data practices described in this statement.
 
@@ -98,14 +64,3 @@ Email Address: [info@crimesceneresources.com](mailto:info@crimesceneresources.co
 
 
 Effective as of April 10, 2013
-
-  
-
-
-* * *
-
-  
-Share this page
-
-  
-
