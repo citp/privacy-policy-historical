@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sherwoodforestfarms.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121105405id_/http%3A//www.sherwoodforestfarms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherwoodforestfarms.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607123533id_/http%3A//sherwoodforestfarms.com/privacy-policy) for the most accurate reproduction.*
 
 # Sherwood Forest Farms | Privacy Policy
 
