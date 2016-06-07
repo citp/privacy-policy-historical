@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the navdy.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017094953id_/https%3A//www.navdy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navdy.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607132904id_/https%3A//www.navdy.com/privacy) for the most accurate reproduction.*
 
 # Navdy
 
-Welcome, and thank you for your interest in Navdy, Inc. ("Navdy", "we," or "us") and our web site located at https://www.navdy.com, as well as all related web sites, devices, mobile applications and other services provided by us and on which a link to this Privacy Policy (this "Policy") is displayed (collectively, the "Service").
+Welcome, and thank you for your interest in Navdy, Inc. ("Navdy", "we," or "us") and our web site located at [www.navdy.com](https://web.archive.org/), as well as all related web sites, devices, mobile applications and other services provided by us and on which a link to this Privacy Policy (this "Policy") is displayed (collectively, the "Service").
 
 There are many different ways you can use the Service – to navigate your way through the city, to email your boss that you’re on your way, or to switch a song on your Spotify—without fumbling with your phone. When you buy our device and share information with us, for example by creating a Navdy account, we can make those services even better – to explain how to set up your device in your specific car, to control and personalize your device by selecting specific features, and to help you utilize the features of the Service. As you use the Service, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
 
@@ -88,4 +88,4 @@ Please revisit this page periodically to stay aware of any changes to this Polic
 
 Please contact us with any questions or comments about this Policy, your personal information, our use and disclosure practices, or your consent choices by email at [privacy@navdy.com](mailto:privacy@navdy.com).
 
-Navdy, Inc., 2 Shotwell Street, San Francisco, CA 94103
+Navdy, Inc., 575 7th Street, San Francisco, CA 94103
