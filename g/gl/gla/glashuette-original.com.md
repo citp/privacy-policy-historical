@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glashuette-original.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219220049id_/http%3A//www.glashuette-original.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glashuette-original.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608004702id_/http%3A//www.glashuette-original.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Glashütte Original
 
