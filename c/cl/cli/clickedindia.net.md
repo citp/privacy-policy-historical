@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clickedindia.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207111113id_/http%3A//www.clickedindia.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickedindia.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608000300id_/http%3A//www.clickedindia.net/policy) for the most accurate reproduction.*
 
 # Privacy Policy - ClickedINDIA
 
-At ClickedIndia.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit ClickedIndia.com, and how we safeguard your information. We never sell your personal information to third parties.
+At ClickedINDIA, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit ClickedINDIA, and how we safeguard your information. We never sell your personal information to third parties.
 
 We collect information from you when you register on our site, post a product, post a tradeleads, subscribe to our newsletter, subscribe for trade alert, respond to a survey or fill out a form. 
 
@@ -47,7 +47,13 @@ As with most other websites, we collect and use the data contained in log files.
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features.
 
-We also use third party advertisements on ClickedIndia.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. 
+We also use third party advertisements on ClickedINDIA to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. 
+
+#### DoubleClick DART Cookie
+
+.:: Google, as a third party vendor, uses cookies to serve ads on ClickedINDIA.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to ClickedINDIA and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
 This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
