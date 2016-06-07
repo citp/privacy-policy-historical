@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saberforge.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143806id_/http%3A//www.saberforge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saberforge.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607084832id_/http%3A//www.saberforge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Saber Forge
 
@@ -77,7 +77,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 www.saberforge.com  
-1106 Canary Drive  
-Suisun City, CA 94585  
+270 Beavercreek Rd ste 200  
+Oregon City OR 97045  
 USA  
 [sales@saberforge.com](mailto:sales@saberforge.com)
