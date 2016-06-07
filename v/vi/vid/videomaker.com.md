@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videomaker.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113035643id_/http%3A//www.videomaker.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videomaker.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607082639id_/http%3A//www.videomaker.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Videomaker.com
 
