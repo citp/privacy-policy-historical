@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beverlyhills-md.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215211506id_/http%3A//beverlyhills-md.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beverlyhills-md.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607224813id_/http%3A//beverlyhills-md.com/privacy.php) for the most accurate reproduction.*
 
 # Beverly Hills MD
 
@@ -44,7 +44,7 @@ Network Merchants, LLC stores transaction information on secure computers locate
 
 \- YOUR CONSENT TO PROCESS INFORMATION -
 
-This Site, http://beverlyhills-md.com/, and any webpage associated with Beverly Hills MD, LLC. are operated in and governed by, and in accordance with, the laws of the United States. This Site is intended for the use of residents of the United States. Please note that information we collect may be transferred and processed in the United States, therefore be aware if you are located in Canada, the European Union, or any other country outside the United States. By using the Site or by providing us with any information you irrevocably agree and acknowledge that (i) the Site is subject to the laws of the United States and (ii) the collection, processing, maintenance, and transfer of such information in done in the United States in which the laws on privacy may not be as comprehensive to those in the country where you, the User, reside and/or are a citizen of, and (iii) you waive any claims that may arise under those laws. 
+This Site, http://beverlyhills-md.com, and any webpage associated with Beverly Hills MD, LLC. are operated in and governed by, and in accordance with, the laws of the United States. This Site is intended for the use of residents of the United States. Please note that information we collect may be transferred and processed in the United States, therefore be aware if you are located in Canada, the European Union, or any other country outside the United States. By using the Site or by providing us with any information you irrevocably agree and acknowledge that (i) the Site is subject to the laws of the United States and (ii) the collection, processing, maintenance, and transfer of such information in done in the United States in which the laws on privacy may not be as comprehensive to those in the country where you, the User, reside and/or are a citizen of, and (iii) you waive any claims that may arise under those laws. 
 
 \- COMMUNICATIONS -
 
