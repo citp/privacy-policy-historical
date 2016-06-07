@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207193648id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607235449id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
 
 # Privacy Statement for InternetDJ.com
 
- 
-
-### Posted by [Michael Bordash](https://web.archive.org/user/michael) on Thu Aug 9, 2001
+### Posted by [Michael^2 Bordash](https://web.archive.org/user/michael) on Thu Aug 9, 2001
 
 InternetDJ is committed to providing quality online activities and information to fans. While we encourage the interactive nature of online media, we strive to ensure the online safety and privacy of our visitors. 
 
