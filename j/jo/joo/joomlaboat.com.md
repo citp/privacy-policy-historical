@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the joomlaboat.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207162942id_/http%3A//www.joomlaboat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlaboat.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608014946id_/http%3A//www.joomlaboat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Extensions for Joomla! - JoomlaBoat.com
 
 ## Design Compass Corp (JoomlaBoat.com) privacy policy
 
-This privacy policy sets out how JoomlaBoat.com website uses and protects any information that you give JoomlaBoat.com website when you use this website.
+This privacy policy sets out how JoomlaBoat.com website uses and protects any information that you give to JoomlaBoat.com website when you use this website.
 
 JoomlaBoat.com website is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -31,7 +31,7 @@ We require this information to understand your needs and provide you with a bett
 
   * We may use the information to improve our products and services.
 
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
@@ -40,7 +40,7 @@ We require this information to understand your needs and provide you with a bett
 
 **Security**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure,we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure,we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 **How we use cookies**
 
