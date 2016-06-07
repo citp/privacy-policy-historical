@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the allnight.com privacy policy that was archived on 2015-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151114031029id_/http%3A//allnight.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allnight.com privacy policy that was archived on 2016-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607115354id_/http%3A//allnight.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+    
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,15 +13,15 @@
     <title>Privacy Policy - All Night</title>
 
 
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=605475329556002&amp;version=v2.0"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//s.webtrends.com/js/webtrends.min.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=605475329556002&amp;version=v2.0"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//s.webtrends.com/js/webtrends.min.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
     <script>
         window.STM = window.STM || {};
-        STM.page_context = {"cookie_value":"1|1447470628|86EqYpD5qxF5rZ0kZ12GBlcxMfd-iVqNx-pZDR1Xmvc","build_info":"xyz","require_context":{"paths":{"jquery":"core/jquery_adapter","d3":"deps/d3/d3","picturefill":"deps/picturefill/picturefill"},"baseUrl":"/static/js/"},"is_authenticated":false,"timestamp":1447470628000,"page_load_hooks":[],"enable_pjax":true,"country_code":"US","is_pjax":null};
+        STM.page_context = {"cookie_value":"1|1465300433|U9fLSi3ihXmTH7mZ1LYmrzbYz9r7KeHvI_dxLvBln7Y","build_info":"xyz","require_context":{"paths":{"jquery":"core/jquery_adapter","d3":"deps/d3/d3","picturefill":"deps/picturefill/picturefill"},"baseUrl":"/static/js/"},"is_authenticated":false,"timestamp":1465300433000,"page_load_hooks":[],"enable_pjax":true,"country_code":"US","is_pjax":null};
         var require = STM.page_context.require_context;
     </script>
 
     <!-- Bootstrap core CSS -->
-    <link href="//d35t3x1ya7yah6.cloudfront.net/css/darkroom-938d3ce5c9dab6246b32b852afe79ec8.css" rel="stylesheet">
+    <link href="//d35t3x1ya7yah6.cloudfront.net/css/darkroom-2e46badba51cdc27a3472107910a9122.css" rel="stylesheet">
 <link href="//fonts.googleapis.com/css?family=Raleway:100,400" rel="stylesheet" type="text/css">
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <meta property="fb:app_id" content="605475329556002">
@@ -29,6 +30,7 @@
             var dcs=new Webtrends.dcs().init({
                 dcsid:"dcs222g7cchkss1w55w3ndckx_1b9j",
                 domain:"statse.webtrendslive.com",
+                metanames: "single_slide",
                 timezone:-8,
                 i18n:true,
                 adimpressions:true,
@@ -58,7 +60,8 @@
                         ],
                         callbackTimeout: 200	//This is optional, if not present the base tags dcsdelay value will be used.
                     },
-                    utm_campaign: {src: "//d35t3x1ya7yah6.cloudfront.net/js/static/webtrends.utm.js"}
+                    StickeyParms: {src:" //d35t3x1ya7yah6.cloudfront.net/js/static/StickyParmPlug3.js",  parms:"WT.mc_id"}
+
                 }
             }).track();
         };
@@ -67,7 +70,6 @@
             var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
         }());
     </script>
-
             <script type="text/javascript">
 
         var qs = (function(a) {
@@ -156,7 +158,43 @@
 
         set_page_context_pid_to_cookie_value();
 
+        // -------------------------- # Slide Experience Cookie # -------------------------//
+
+        function createExpTrackingCookie(name,value,days) {
+            // This cookie needs to expire after 3 minutes, so pass in 1 for 'days'
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*6000*60*240));
+                var expires = "; expires="+date.toGMTString();
+            }
+            else var expires = "";
+            document.cookie = name+"="+value+expires+"; path=/";
+        }
+
+
+        function get_exp_from_url(){
+            var exp_from_hash = 0
+            if (qs['exp']) {
+                exp_from_hash = qs['exp'];
+            } else if (qs['utm_source'] || qs['utm_campaign'] || qs['utm_medium']){
+                exp_from_hash = 3;
+            }
+
+            return exp_from_hash;
+        }
+
+        function create_exp_cookie(){
+            var exp = get_exp_from_url();
+            if( exp > 0 ){
+                createExpTrackingCookie('allday_exp', exp, 1);
+            }
+        }
+
+        create_exp_cookie();
+
+
     </script>
+
 
         <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -175,6 +213,22 @@
 
       ga('send', 'pageview');
     </script>
+
+      <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '100504090323682');
+    fbq('track', "PageView");</script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=100504090323682&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -185,7 +239,7 @@
 
 
     <div data-pjax-container="">
-            <nav class="navbar navbar-default navbar-fixed-top navbar-inverse all-night-nav">
+            <nav id="fixed-nav" class="navbar navbar-default navbar-fixed-top navbar-inverse all-night-nav">
 
           <div class="container">
             <div class="navbar-header ">
@@ -241,6 +295,38 @@
 
             </div><!--/.nav-collapse -->
           </div>
+                <div id="subscribe-nav" class="container hide hidden-lg">
+
+            <div class="navbar-header">
+
+                <div class="all-day-nav-inside">
+                    <div class="row">
+                        <p>Subscribe to our newsletter</p>
+                    </div>
+                    <div class="row">
+
+                        <div id="mc_embed_signup">
+                            <form action="//allday.us11.list-manage.com/subscribe/post?u=7d80154a4778c8f6cb68c2ed8&amp;id=28b4301874" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+                                <div id="mc_embed_signup_scroll">
+                                    <div class="mc-field-group input-group">
+                                        <input type="email" value="" placeholder="Enter your email for more!" name="EMAIL" class="required email form-control" id="mce-EMAIL">
+                                        <span class="input-group-btn">
+                                            <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-info" style="width: 89px"></div>
+                                        </span>
+                                    </div>
+
+                                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                    <div style="position: absolute; left: -5000px;"><input type="text" name="b_7d80154a4778c8f6cb68c2ed8_28b4301874" tabindex="-1" value=""></div>
+                                </div>
+                            </form>
+                        </div>
+                        <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+                        <script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+                    </div>
+                </div>
+
+            </div>
+        </div>
         </nav>
 
         <div class="container">
@@ -368,7 +454,7 @@
         <img src="//socialtrack.co/p" width=1 height=1 />
         </noscript>
     </div>
-            <meta name="stm-page-context" id="stm-page-context" data-stm-page-context="{&quot;cookie_value&quot;:&quot;1|1447470628|86EqYpD5qxF5rZ0kZ12GBlcxMfd-iVqNx-pZDR1Xmvc&quot;,&quot;build_info&quot;:&quot;xyz&quot;,&quot;require_context&quot;:{&quot;paths&quot;:{&quot;jquery&quot;:&quot;core/jquery_adapter&quot;,&quot;d3&quot;:&quot;deps/d3/d3&quot;,&quot;picturefill&quot;:&quot;deps/picturefill/picturefill&quot;},&quot;baseUrl&quot;:&quot;/static/js/&quot;},&quot;is_authenticated&quot;:false,&quot;timestamp&quot;:1447470628000,&quot;page_load_hooks&quot;:[],&quot;enable_pjax&quot;:true,&quot;country_code&quot;:&quot;US&quot;,&quot;is_pjax&quot;:null}">
+            <meta name="stm-page-context" id="stm-page-context" data-stm-page-context="{&quot;cookie_value&quot;:&quot;1|1465300433|U9fLSi3ihXmTH7mZ1LYmrzbYz9r7KeHvI_dxLvBln7Y&quot;,&quot;build_info&quot;:&quot;xyz&quot;,&quot;require_context&quot;:{&quot;paths&quot;:{&quot;jquery&quot;:&quot;core/jquery_adapter&quot;,&quot;d3&quot;:&quot;deps/d3/d3&quot;,&quot;picturefill&quot;:&quot;deps/picturefill/picturefill&quot;},&quot;baseUrl&quot;:&quot;/static/js/&quot;},&quot;is_authenticated&quot;:false,&quot;timestamp&quot;:1465300433000,&quot;page_load_hooks&quot;:[],&quot;enable_pjax&quot;:true,&quot;country_code&quot;:&quot;US&quot;,&quot;is_pjax&quot;:null}">
             </div>
     <script src="//code.jquery.com/jquery-1.11.1.min.js" type="text/javascript" charset="utf-8"></script>
     <script type="text/javascript">
