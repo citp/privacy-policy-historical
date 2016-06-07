@@ -1,92 +1,41 @@
-> *The following text is extracted and transformed from the 6dollarshirts.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208090144id_/http%3A//6dollarshirts.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6dollarshirts.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608002848id_/http%3A//www.6dollarshirts.com/privacy) for the most accurate reproduction.*
 
-# HELP SECTION | 6 Dollar Shirts
+# 6 Dollar Shirts Privacy Policy | 6 Dollar Shirts
 
-Privacy Policy
+6 DOLLAR SHIRTS PRIVACY POLICY
 
-6DollarShirts.com Privacy Policy 
+References in this Privacy Policy Statement to "we", "us" and "6 Dollar Shirts" are to Thread Pit, Inc. (Trading as 6 Dollar Shirts). At 6 Dollar Shirts we are committed to upholding your privacy. Our privacy policy statement is below. Changes to this policy, will be reflected on our Website.
 
-We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this website. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
+WHAT INFORMATION IS COLLECTED?
 
-We recognize the importance of protecting your privacy. Our policy is designed to assist you in understanding how we collect, use, and safeguard the personal information you provide to us, and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs. 
+We ask for your name, telephone number, home address, email address and age for competitions and newsletter sign ups. When a purchase is made on our site, in addition to the above, we also request a shipping address, and payment method details. We may obtain information about your usage of the 6 Dollar Shirts website to help us improve user experience.
 
-What Information Do We Collect?  
-When you visit this website you may provide us with two types of information: personal information that you knowingly choose to disclose and is collected on an individual basis, and website-use information collected on an aggregate basis as you and others browse our website. 
+WHAT THE DATA WILL BE USED FOR?
 
-1\. Personal Information You Choose to Provide 
+This data will enable us to print your order, fulfill your order, to notify you of changes and for statistical or survey purposes to improve our services and this website, and in the detection and prevention of fraud on our website. We may also send you information about products and services and details of promotions and special offers from 6 Dollar Shirts. If you do not wish to be contacted for these purposes, we offer a range of ways in which you can inform us about your marketing preferences:
 
-Registration Information  
-When you register for any of our products, services or newsletters you will provide us information about yourself. 
+  * All email messages and email newsletters will contain information on how you can unsubscribe; or
+  * Send an email to our customer services division on support@6dollarshirts.com writing "unsubscribe" in the subject heading. 6 Dollar Shirts complies with the standards, procedures and requirements laid down in the Data Protection Act 1998 to ensure that the personal information you give us is kept secure and processed lawfully.  
 
-Credit Card Information  
-If you choose to avail of our services, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information:  
--Name  
--Mailing address  
--Email address  
--Credit card number   
--Name on credit card   
--Credit card billing address  
--Business and home phone number 
 
-Email Information  
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone. 
 
-  
-2\. Web Site Use Information  
-Similar to other commercial websites, our website utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our website is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our website, and the websites visited just before and just after our website. 
 
-How Do We Use the Information That You Provide to Us? 
+WHAT INFORMATION IS SHARED WITH OTHERS?
 
-We use personal information for purposes of administering our business activities, providing the products and services you requested, processing your payment, monitoring the use of the service, marketing and promotional efforts, improving content and service offerings, customizing our site's content, layout and services, and for other lawful purposes. These uses improve our site and better tailor it to meet your needs. 
+We may contract with other companies to provide certain services, including credit card processing, shipping, name and address verification, email distribution, market research and promotions management. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than 6 Dollar Shirts. One of the purposes for which we may disclose your address and zip code details is to check against the IMRG Security Alert or any other Fraud Prevention Scheme. We may also disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
-Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable or business information will not be shared with parties except as required by law. 
+COOKIES
 
-Occasionally, we may also use the information we collect to notify you about important changes to our website, new services, and special offers we think you will find valuable. You may notify us at any time, if you do not wish to receive these offer,s by emailing us at the link provided on the newsletter. 
+In order to improve your experience on the 6 Dollar Shirts website we use a device known as a “cookie.” A Cookie is a small data file stored by your web browser on your computer. We use Cookies to keep track of your current shopping session, to enable you to proceed to checkout at any time and to personalize your online experience. Please allow the use of cookies to improve your user experience on our website. Refer to the Help content of your browser for more information on selecting or deselecting Cookies.
 
-What Are Cookies?  
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies, however, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. 
+LINKS TO THIRD PARTIES SITES
 
-How Do We Use Information We Collect from Cookies?  
-As you visit and browse our website it uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our web server's log files, allow us to calculate the aggregate number of people visiting our website and which parts of the site are most popular. This helps us gather feedback to constantly improve our website and better serve our clients. Cookies do not allow us to gather any personal information about you, and we do not intentionally store any personal information that your browser provided to us in your cookies. 
+From time to time we may include weblinks to third parties. These sites will have separate and independent privacy policies. You are encouraged to review these policies when you visit these independent sites. The privacy policy of 6 Dollar Shirts only covers our website and does not include any other website. We are not liable for the content of other websites.
 
-IP Addresses  
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data, known as traffic data, so that data (such as the webpages you request) can be sent to you. 
+PRIVACY OF CHILDREN ON OUR WEBSITE
 
-Sharing and Selling Information  
-We do not share, sell, lend or lease any of the information that uniquely identifies a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested. 
+6 Dollar Shirts is not intended to be used by children under the age of 14. We will not knowingly collect any information from any person under 14 years of age.
 
-How Can You Access and Correct Your Information?  
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address. 
+SALE OF ASSETS
 
-What About Legally Compelled Disclosure of Information?  
-We may disclose information when legally compelled to do so, in other words, when we believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service, or to protect the safety of our users and the public. 
-
-What About Other Websites Linked to Our Website?  
-We are not responsible for the practices employed by websites linked to or from our website, or the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our website. 
-
-Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including websites which have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding. 
-
-Your Consent  
-By using our website you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this policy at any time with or without notice. 
-
-Our Commitment To Data Security:
-
-Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
-
-Choice/Opt-In/Opt-Out  
-This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
-
-Surveys & Contests 
-
-From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code and age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
-
-A Special Note About Children 
-
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians. 
-
-Acquisition or Changes in Ownership
-
-In the event that the website (or a substantial portion of its assets) is acquired, your information would be considered part of those assets and may be part of those assets that are transferred. 
-
-Policy Modifications  
-We may change this Privacy Policy from time to time. If/when changes are made to this policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. Be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this policy, without your prior consent.
+In the unlikely event that 6 Dollar Shirts is acquired by a third party, customer information will be included as a transferred asset.
