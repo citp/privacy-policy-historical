@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onrec.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114933id_/http%3A//www.onrec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onrec.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607042456id_/http%3A//www.onrec.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Onrec.com
+# Privacy Policy | Onrec
 
   * Tarsus Group is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation. The purpose of this statement is to explain to you what personal information we collect and how we may use it.
 
@@ -21,30 +21,5 @@
 
 
   * In order to process credit/debit card transactions, the bank or card processing agency may require to verify your personal details for authorisation outside the EEA (European Economic Area). Your information will not be transferred outside the EEA for any other purpose.
-
-
-
-[](https://web.archive.org/node/add/directory-listing)
-
-#### Event diary
-
-  * The Grange St Pauls Hotel
-
-London
-
-March 10 
-
-  * The Grange City Hotel
-
-London
-
-July 12 
-
-  * The Grange City Hotel
-
-London
-
-October 18 
-
 
 
