@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the driverboost.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207132100id_/http%3A//www.driverboost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverboost.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607143819id_/http%3A//www.driverboost.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | DriverBoost.com
 
 #### DriverBoost Privacy Policy Effective Date: 05/5/2014
 
 Boost Software, Inc. (DBA "DriverBoost") privacy policy ("Privacy Policy") covers the collection and use of personal information ("Personal Information") that we may gather any time you interact with us, such as when you visit our Web site, purchase a DriverBoost products, or when you contact our customer support or sales departments. This policy describes our data privacy practices, including what type of information is gathered, how DriverBoost uses the information, and how we safeguard your Personal Information when you submit it to us at www.driverboost.com. At DriverBoost, protecting your privacy is important to us. After all, online privacy and security is what we’re all about. **You expressly consent to the processing of your Personal Information according to this Privacy Policy.   Personal Information may be processed by DriverBoost in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**
-
-[](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=199&sealid=112)
-
-DriverBoost is certified as a Trusted Download Program by TRUSTe signifying that DriverBoost has been tested by TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding DriverBoost, please contact us at 75 Arlington Street, Suite 500, Boston, MA USA 02116 USA or by email at privacy@BoostSoftware.com or by phone at 512.373.3518. If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=199&sealid=112). 
-
-DriverBoost has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site www.driverboost.com and the DriverBoost download.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
 
 DriverBoost complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. DriverBoost has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view DriverBoost’s certification, please visit <http://www.export.gov/safeharbor/>. 
 
