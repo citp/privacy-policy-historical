@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jointhereboot.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207193359id_/http%3A//www.rebootwithjoe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointhereboot.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607162001id_/http%3A//www.rebootwithjoe.com/privacy-policy) for the most accurate reproduction.*
 
 # Reboot with Joe Privacy Policy | Reboot With Joe
 
@@ -11,7 +11,7 @@ Reboot with Joe ( _“Reboot”_ ) understands that your privacy is important an
 
 
 
-This Privacy Policy applies to web sites owned and operated by Reboot as well as mobile device applications (“Apps”) for the iPhone, the iPad and mobile devices operating with the Android operating system.
+This Privacy Policy applies to websites owned and operated by Reboot as well as Reboot’s mobile device applications (“Apps”) for the iPhone, the iPad and mobile devices operating with the Android operating system. This Privacy Policy also applies to information obtained by Reboot from any third party website or service that is integrated with Reboot’s websites or Apps or on which Reboot advertises, such as Facebook, Google+ or Twitter (“Social Networking Sites”).
 
 **Information We Collect**
 
@@ -19,6 +19,7 @@ _Personal Information_
 
 Should you provide it, we may collect the following types of information from you ( _“Personal Information”_ ), which may include information that can be used to identify you:
 
+  * Name
   * Age
   * Email Address
   * Mailing Address
@@ -55,10 +56,11 @@ In addition, third parties under contract with Reboot may use Cookies or Web Bea
 
 _Social Networking Sites_
 
-If you choose to use any third party website or service that is integrated with Reboot, such as Facebook, Google+ or Twitter ( _“Social Networking Sites”_ ), we may receive Personal Information from such Social Networking Sites, including, but not limited to:
+If you choose to use any Social Networking Sites, we may receive Personal Information from such Social Networking Sites, including, but not limited to:
 
   * Name
   * Nickname or Username
+  * Email Address
   * Photo or Graphic Avatar
   * Unique Third Party Website Identifier (e.g., Facebook User ID)
   * Biographical or Demographic Information (e.g. professional title, gender, college attended, etc.)
@@ -232,4 +234,4 @@ Attn: Alex Tibbetts
 
 We may change this Privacy Policy from time to time, so it is suggested that you check the Reboot web site from time to time to ensure that you know about our current policy. We reserve the right to change or modify this Privacy Policy or any of our tools or services at any time and any changes will be effective upon being posted unless we advise otherwise. If we make any material changes to this policy we will notify you by email (sent to the email address specified when you register) and/or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this website for the latest information on our privacy practices. If you do not accept the terms of this Privacy Policy, we ask that you do not register with us and that you do not use the Reboot web site. Please exit the Reboot web site immediately if you do not agree to the terms of this Privacy Policy.
 
-Effective June 1, 2013
+Effective December 28, 2015
