@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204103954id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608012123id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
 
-# The Imaging Resource: Privacy Policy
-
-February 4, 2011Your source for the most comprehensive and informative digital camera reviews
+# The Imaging Resource Privacy Policy
 
 The Imaging Resource Privacy Policy
 
@@ -14,4 +12,19 @@ The Imaging Resource collects some non user specific information such as the typ
 
 Please note that third party ad servers may place and read cookies or use web beacons to collect information in your browser when you access third party ads served on our site. Please consult the Help documentation for your respective browser if you wish to disable such third party cookies.
 
+Some network ads are served by Lijit Networks. For the information collected by this ad network, please see their privacy policy at:
+
+Lijit Networks, Inc. Privacy Policy  
+<http://www.lijit.com/company/privacy-policy>
+
+Lijit collects only anonymous information unless you choose to submit personal information. Lijit permits readers to opt out of the collection of this anonymous site visit data. To opt out, please see the section labeled 'Opting Out' in the above privacy policy for additional information.
+
 If you have any questions about our privacy policy, please send us a [note](mailto:web@imaging-resource.com). 
+
+[Enter](http://www.dailydigitalphoto.com/potd-images/ir_potd_enter.htm) this month to win:
+
+_1_ $300 Adorama Gift Certificate
+
+_2_ $200 Adorama Gift Certificate
+
+_3_ $100 Adorama Gift Certificate
