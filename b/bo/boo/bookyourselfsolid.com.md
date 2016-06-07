@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookyourselfsolid.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207220832id_/http%3A//www.bookyourselfsolid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookyourselfsolid.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608000625id_/http%3A//www.bookyourselfsolid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Book Yourself Solid
 
@@ -23,7 +23,7 @@ Our website’s registration or purchase forms may require you to create a passw
 
 We also occasionally send emails and newsletters to our users, announcing special promotions changes in our services, and other information we believe will be of interest to our users. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site.
 
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you. We would use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems and enforce our [Terms of Use](https://web.archive.org/web/20151207220832id_/http%3A//terms-of-use/).
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you. We would use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems and enforce our [Terms of Use](https://web.archive.org/web/20160608000625id_/http%3A//terms-of-use/).
 
 None of the information you provide will be shared with any third parties outside of Michael Port’s organization, and your information will never be used to solicit your purchase of third party goods or services.
 
