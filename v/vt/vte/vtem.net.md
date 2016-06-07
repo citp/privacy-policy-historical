@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vtem.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206230210id_/http%3A//vtem.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtem.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608014457id_/http%3A//vtem.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -12,19 +12,19 @@ The amount, type, and use of information we collect depends on how you use this 
 
 ## Definitions
 
-“Personal Information” includes, your name, address information, personal e-mail address and URL, telephone number, account username and password, as well as other, similar information. 
+�Personal Information� includes, your name, address information, personal e-mail address and URL, telephone number, account username and password, as well as other, similar information. 
 
-“Prospect Information” includes the same information as Personal Information except that Prospect Information is information that is submitted by an individual who is not the subject of the data submitted.
+�Prospect Information� includes the same information as Personal Information except that Prospect Information is information that is submitted by an individual who is not the subject of the data submitted.
 
-“Non-Identifying Personal Information” includes information about you, including, without limitation, your Internet service provider, browser type, domain name, the Web Site that referred you to us, the web pages you request, the date and time of those requests, and entry and exit points.
+�Non-Identifying Personal Information� includes information about you, including, without limitation, your Internet service provider, browser type, domain name, the Web Site that referred you to us, the web pages you request, the date and time of those requests, and entry and exit points.
 
-“Business Contact Information” includes the name, title, business address, or telephone number of an employee in an organization. It also includes departmental e-mail addresses that contain no individually identifiable information. Business Contact Information is not Personal Information.
+�Business Contact Information� includes the name, title, business address, or telephone number of an employee in an organization. It also includes departmental e-mail addresses that contain no individually identifiable information. Business Contact Information is not Personal Information.
 
-“Aggregated Information” is any information about more than one individual where the individual identities are unknown and cannot be inferred from the information. Aggregated Information is not Personal Information.
+�Aggregated Information� is any information about more than one individual where the individual identities are unknown and cannot be inferred from the information. Aggregated Information is not Personal Information.
 
 ## Collection of Personal Information or Prospect Information
 
-VTEM may collect Personal Information from you, but only if you provide it to us voluntarily. We also collect Personal Information that you provide to our suppliers, which they pass on to us so that we can fulfill your order. You must provide Personal Information in the form of a unique identifier (username, password) to enter certain parts of our web site. In addition, in certain situations, such as when a purchaser buys a product as a gift and supplies the recipients’ name and address, we collect Prospect Information.
+VTEM may collect Personal Information from you, but only if you provide it to us voluntarily. We also collect Personal Information that you provide to our suppliers, which they pass on to us so that we can fulfill your order. You must provide Personal Information in the form of a unique identifier (username, password) to enter certain parts of our web site. In addition, in certain situations, such as when a purchaser buys a product as a gift and supplies the recipients� name and address, we collect Prospect Information.
 
 ## Collection and Use of Non-Identifying Personal Information
 
@@ -70,7 +70,7 @@ We will obtain your consent to the collection, use, and disclosure of that infor
 
 You may withdraw your consent at any time, subject to reasonable notice and legal or contractual obligations. To withdraw your consent, simply tell us of the Personal Information that you no longer wish us to collect, use, or disclose through the Contact Information listed below. However, we are unable to offer some services, like processing purchases, without Personal Information. 
 
-There are limited situations in which applicable laws require or allow us to collect, use, or disclose Personal Information without your consent or after you withdraw your consent. We describe these situations under “Protection of VTEM and Others” in the section on Use of Personal Information or Prospect Information in this Privacy Policy.
+There are limited situations in which applicable laws require or allow us to collect, use, or disclose Personal Information without your consent or after you withdraw your consent. We describe these situations under �Protection of VTEM and Others� in the section on Use of Personal Information or Prospect Information in this Privacy Policy.
 
 ## Retention and Access
 
@@ -86,7 +86,7 @@ Further, we permit only authorized VTEM employees and third parties to access an
 
 ## Links to Other Web Sites
 
-When you click on a link on this Web Site that takes you to a web site operated by another company, you will be subject to that company’s web site privacy policies.
+When you click on a link on this Web Site that takes you to a web site operated by another company, you will be subject to that company�s web site privacy policies.
 
 ## Dispute Resolution
 
