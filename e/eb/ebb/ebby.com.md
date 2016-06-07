@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebby.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133424id_/http%3A//ebby.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebby.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607154800id_/http%3A//www.ebby.com/privacy_policy) for the most accurate reproduction.*
 
-# Dallas Real Estate | Dallas Homes for Sale by Ebby Halliday Realtors
+# Ebby Halliday Realtors
 
 Thank you for visiting Ebby.com or any Web site owned, operated, licensed or controlled by Ebby Halliday REALTORS®. Your privacy is very important to us. Our policy is to respect and protect the privacy of visitors to our web sites. In this document, we explain how we use information you supply us. If we update our privacy policy, all revisions will be posted on this page. We reserve the right to change the privacy policy.
 
@@ -89,5 +89,5 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 If you have questions about the privacy procedures employed at Ebby Halliday REALTORS, please contact [privacy@ebby.com](mailto:privacy@ebby.com) or call 972-980-6600. 
 
-Back to Top | [Home](https://web.archive.org/web/20151207133424id_/http://www.ebby.com/privacy_policy/index.shtml)  
+Back to Top | [Home](https://web.archive.org/web/20160607154800id_/http://www.ebby.com/privacy_policy/index.shtml)  
 
