@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allday.com privacy policy that was archived on 2015-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151227023802id_/http%3A//allday.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allday.com privacy policy that was archived on 2016-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607171151id_/http%3A//allday.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
@@ -16,12 +16,12 @@
     <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=605475329556002&amp;version=v2.0"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//s.webtrends.com/js/webtrends.min.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
     <script>
         window.STM = window.STM || {};
-        STM.page_context = {"cookie_value":"1|1451183882|K03XtnCcxn_l6mROdy5InPtHKXDFNYgGLebH-jEeyaU","build_info":"xyz","require_context":{"paths":{"jquery":"core/jquery_adapter","d3":"deps/d3/d3","picturefill":"deps/picturefill/picturefill"},"baseUrl":"/static/js/"},"is_authenticated":false,"timestamp":1451183882000,"page_load_hooks":[],"enable_pjax":true,"country_code":"US","is_pjax":null};
+        STM.page_context = {"cookie_value":"1|1465319511|g0UU2tIek3GLYZLgJC0tPiGSu60wuwNOZUfRRJZ8wIw","build_info":"xyz","require_context":{"paths":{"jquery":"core/jquery_adapter","d3":"deps/d3/d3","picturefill":"deps/picturefill/picturefill"},"baseUrl":"/static/js/"},"is_authenticated":false,"timestamp":1465319511000,"page_load_hooks":[],"enable_pjax":true,"country_code":"US","is_pjax":null};
         var require = STM.page_context.require_context;
     </script>
 
     <!-- Bootstrap core CSS -->
-        <link href="//d35t3x1ya7yah6.cloudfront.net/css/main-890a83e93f22555088f68cf7b6ba0845.css" rel="stylesheet">
+        <link href="//d35t3x1ya7yah6.cloudfront.net/css/main-8178ff943aef2ada78855b8143d8a5fb.css" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Raleway:100,400" rel="stylesheet" type="text/css">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
         <meta property="fb:app_id" content="843298742347744">
@@ -30,6 +30,7 @@
             var dcs=new Webtrends.dcs().init({
                 dcsid:"dcs222d9cn633l2idh70qq0gc_2q2s",
                 domain:"statse.webtrendslive.com",
+                metanames: "single_slide",
                 timezone:-8,
                 i18n:true,
                 adimpressions:true,
@@ -155,6 +156,41 @@
         }
 
         set_page_context_pid_to_cookie_value();
+
+        // -------------------------- # Slide Experience Cookie # -------------------------//
+
+        function createExpTrackingCookie(name,value,days) {
+            // This cookie needs to expire after 3 minutes, so pass in 1 for 'days'
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*6000*60*240));
+                var expires = "; expires="+date.toGMTString();
+            }
+            else var expires = "";
+            document.cookie = name+"="+value+expires+"; path=/";
+        }
+
+
+        function get_exp_from_url(){
+            var exp_from_hash = 0
+            if (qs['exp']) {
+                exp_from_hash = qs['exp'];
+            } else if (qs['utm_source'] || qs['utm_campaign'] || qs['utm_medium']){
+                exp_from_hash = 3;
+            }
+
+            return exp_from_hash;
+        }
+
+        function create_exp_cookie(){
+            var exp = get_exp_from_url();
+            if( exp > 0 ){
+                createExpTrackingCookie('allday_exp', exp, 1);
+            }
+        }
+
+        create_exp_cookie();
+
 
     </script>
 
@@ -419,7 +455,7 @@
             </div>
         </div>
     </div>
-            <meta name="stm-page-context" id="stm-page-context" data-stm-page-context="{&quot;cookie_value&quot;:&quot;1|1451183882|K03XtnCcxn_l6mROdy5InPtHKXDFNYgGLebH-jEeyaU&quot;,&quot;build_info&quot;:&quot;xyz&quot;,&quot;require_context&quot;:{&quot;paths&quot;:{&quot;jquery&quot;:&quot;core/jquery_adapter&quot;,&quot;d3&quot;:&quot;deps/d3/d3&quot;,&quot;picturefill&quot;:&quot;deps/picturefill/picturefill&quot;},&quot;baseUrl&quot;:&quot;/static/js/&quot;},&quot;is_authenticated&quot;:false,&quot;timestamp&quot;:1451183882000,&quot;page_load_hooks&quot;:[],&quot;enable_pjax&quot;:true,&quot;country_code&quot;:&quot;US&quot;,&quot;is_pjax&quot;:null}">
+            <meta name="stm-page-context" id="stm-page-context" data-stm-page-context="{&quot;cookie_value&quot;:&quot;1|1465319511|g0UU2tIek3GLYZLgJC0tPiGSu60wuwNOZUfRRJZ8wIw&quot;,&quot;build_info&quot;:&quot;xyz&quot;,&quot;require_context&quot;:{&quot;paths&quot;:{&quot;jquery&quot;:&quot;core/jquery_adapter&quot;,&quot;d3&quot;:&quot;deps/d3/d3&quot;,&quot;picturefill&quot;:&quot;deps/picturefill/picturefill&quot;},&quot;baseUrl&quot;:&quot;/static/js/&quot;},&quot;is_authenticated&quot;:false,&quot;timestamp&quot;:1465319511000,&quot;page_load_hooks&quot;:[],&quot;enable_pjax&quot;:true,&quot;country_code&quot;:&quot;US&quot;,&quot;is_pjax&quot;:null}">
             </div>
     <script src="//code.jquery.com/jquery-1.11.1.min.js" type="text/javascript" charset="utf-8"></script>
     <script type="text/javascript">
