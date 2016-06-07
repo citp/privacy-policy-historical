@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankingtech.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207114720id_/http%3A//www.bankingtech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankingtech.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608000846id_/http%3A//www.bankingtech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy » Banking Technology
 
@@ -44,11 +44,7 @@ We use our reasonable endeavours, to ensure proper storage and careful disclosur
 
 This privacy policy only applies to this web site. The web site may contain links to external web sites. Please note that we are not responsible for the privacy practices of other web sites. We recommend that you check the privacy policy of any other web sites you may visit through the web site. The inclusion of links to such web sites does not imply any endorsement of the material on such sites nor any association with their owners or operators. If you have any complaints relating to such sites, please contact them directly.
 
-8\. Opt-In
-
-If you tick the opt-in box the Administrators will provide your information to selected third parties. We or they may contact you by mail, telephone or e-mail to let you know about services and products which may be of interest to you. You have the right to ask for a copy of the information held by us about you in our records in return for the payment of a small fee. You also have the right to correct any inaccuracies in the information.
-
-9\. Use of Cookies
+8\. Use of Cookies
 
 This website uses cookies. Cookies are small pieces of text that are written to your hard drive to store information about your use of the Telecoms.com Website Service. Cookies are used to automatically log you into the Banking Technology Website Service if you have registered for this service. You have the right to refuse cookies (please see your web browser’s help file for information on doing this), but by doing so you may disrupt the performance of the Telecoms.com Website Service or make it inoperable to you
 
