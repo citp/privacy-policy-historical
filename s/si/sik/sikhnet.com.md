@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208094009id_/http%3A//www.sikhnet.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608012318id_/http%3A//www.sikhnet.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SikhNet
 
@@ -68,8 +68,8 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 _Sikhnet_  
-_01-A Ram Das Guru Pl_  
-_Espanola, NM. 87532_  
-_USA_  
-[Contact Form](https://web.archive.org/contact)  
+ _01-A Ram Das Guru Pl_  
+ _Espanola, NM. 87532_  
+ _USA_  
+[ Contact Form](https://web.archive.org/contact)  
 +1-505-814-1523 or toll free: (855)745-SikhNet 
