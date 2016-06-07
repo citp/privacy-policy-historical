@@ -1,29 +1,37 @@
-> *The following text is extracted and transformed from the teachingenglish.org.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134036id_/http%3A//www.britishcouncil.org/terms-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingenglish.org.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607075141id_/http%3A//www.britishcouncil.org/terms-conditions/privacy) for the most accurate reproduction.*
 
-# Privacy policy | British Council
+# Information security and privacy | British Council
 
-The British Council creates international opportunities for the people of the UK and other countries and builds trust between them worldwide. We are committed to ensuring that personal information is protected and managed in accordance with UK law, international good practice and individuals’ rights. We collect and use personal information in order to help us offer individuals appropriate information, products and services.
+The British Council creates international opportunities for the people of the UK and other countries and builds trust between them worldwide. We collect and use personal information to offer individuals information, products and services. 
 
-This policy will apply to all locations where we operate, including where local regulations do not exist. Where different privacy and data protection laws are in place in different countries, we will comply with those laws insofar as they meet internationally accepted privacy principles and fair information practices.
+This policy will apply in all locations where we operate, including where local regulations do not exist, to all forms of information – both electronic and physical – and to all systems used to collect, store, process or transfer information. 
 
-### When asking people for their personal information, the British Council is committed to the following:
+In countries where different privacy and data protection laws are in place, we will comply with those laws insofar as they meet internationally accepted privacy principles and fair information practices.
 
-  * explaining why we need personal information and only asking for the information we need
-  * protecting the information we are given and making sure that only those who need access are able to do so
-  * only sharing the information within the British Council and with other organisations where such sharing is necessary or where we have the individual’s consent.
+### The British Council is committed to:
 
+• protecting the confidentiality, integrity and availability of the information it collects, stores, transfers and processes in accordance with UK law and international good practice, and to meeting legal requirements and its contractual obligations
 
+• explaining why it needs personal information and only asking for the personal  information it needs
 
-### We also undertake to:
+• protecting the information it is given and making sure that only those who need access are able to gain it
 
-  * adopt and maintain a procedure which allows people to request access to the personal information we hold on them and which allows them to complain where they believe we have mishandled their information in some way
-  * not keep personal information for longer than necessary
-  * take measures to protect the rights and freedoms of individuals whose personal information may be transferred to countries with differing data protection laws.
+• only sharing personal information within the British Council and with other organisations where such sharing is necessary or where it has the individual’s consent
 
+• allowing people to request access to the personal information it holds on them and to complain if they believe it has mishandled their information 
 
+• not keeping personal information for longer than necessary
 
-We will provide adequate and appropriate resources to implement this policy and will ensure it is communicated and understood.
+• taking measures to protect the rights and freedoms of individuals whose personal information may be transferred to countries with differing data protection laws
 
-The British Council will review this global policy statement annually to reflect new legal and regulatory developments and ensure good practice.
+• ensuring that actual or suspected breaches of information security are reported to the British Council’s Information Security Officer and investigations are conducted as necessary
 
-This global policy statement was approved by Martin Davidson, Chief Executive, in February 2014 and is due for review in February 2015.
+• applying these standards to its supply chain and delivery partners
+
+• annually assessing and measuring the maturity of its information security. 
+
+We will provide adequate and appropriate resources to implement this policy and will ensure it is communicated and understood.
+
+The British Council will review this global policy statement annually to reflect new legal and regulatory developments and ensure good practice.
+
+This global policy statement was approved by Sir Ciarán Devane, Chief Executive, in February 2016 and is due for review in February 2017.
