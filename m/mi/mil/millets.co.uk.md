@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millets.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208113101id_/http%3A//www.millets.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millets.co.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607160434id_/http%3A//www.millets.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Millets is part of the JD Sports Fashion Group and, for the purposes of the information which you provide to us, acts as the data controller. This means that we are responsible for what happens to the information that you give to us. We will at all times comply with the Data Protection Act 1998 and make sure that we keep your data secure and steps are taken to prevent any unauthorised access to your information. From time to time, we will share the information which you provide to us with other group companies within the JD Sports Fashion Group.
 
-The JD Sports Fashion Group is constantly growing and changing. We will always update the web page [here](http://www.jdsports.co.uk/page/our-brands/), so you should take a look from time to time to see if new companies have joined the group or if any company leaves our group.
+The JD Sports Fashion Group is constantly growing and changing. We will always update the web page [here](https://web.archive.org/our-brands/), so you should take a look from time to time to see if new companies have joined the group or if any company leaves our group.
 
 ## What data do we collect?
 
