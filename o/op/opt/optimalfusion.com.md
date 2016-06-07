@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optimalfusion.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006042031id_/http%3A//optimalfusion.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalfusion.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607073959id_/http%3A//optimalfusion.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Optimal Fusion - Advertisers + Consumers
+# Optimal Fusion Privacy Policy | Performance Driven Integrated Media
 
 **Privacy Policy – Your Privacy Rights**
 
@@ -60,5 +60,3 @@ By using our website, you consent to the collection and use of information by Op
 **Additional information**
 
 This notice details the privacy policies of OptimalFusion™ for all of its users of its website with regard to information collected through this website. If you have questions regarding this policy or the practices of OptimalFusion™, contact us at OptimalFusion™, Privacy Division, located at 7162 Beverly Blvd, #580, Los Angeles, CA 90036.
-
-Copyright © 2015 Optimal Fusion - All Rights Reserved
