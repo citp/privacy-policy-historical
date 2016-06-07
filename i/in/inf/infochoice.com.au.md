@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infochoice.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207153048id_/http%3A//www.infochoice.com.au/infochoice/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infochoice.com.au privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607090555id_/http%3A//www.infochoice.com.au/infochoice/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | InfoChoice
 
@@ -22,9 +22,9 @@ How to contact us
 
 InfoChoice is committed to protecting the privacy of your personal information. This policy explains how InfoChoice manages the personal information that we collect, use and disclose and how to contact us if you have any further queries about our management of your personal information. This policy does not cover personal information collected or held by InfoChoice Ltd or any of its related bodies corporate (as applicable) about its employees. 
 
-InfoChoice is bound by the Australian Privacy Principles in the Privacy Act 1988 (Cth) (and applicable State and Territory health privacy legislation), which regulate how we may collect, use, disclose and store personal information, and how individuals may access and correct personal information held about them. InfoChoice is also required to comply with the Spam Act 2003 (Cth) and the Do Not Call Register Act 2006 (Cth). 
+InfoChoice is bound by the Australian Privacy Principles in the Privacy Act 1988 (Cth) which regulate how we may collect, use, disclose and store personal information, and how individuals may access and correct personal information held about them. InfoChoice is also required to comply with the Spam Act 2003 (Cth) and the Do Not Call Register Act 2006 (Cth). 
 
-InfoChoice is part of the iSelect group of companies. In this policy ‘we’, ‘us’, ‘our’ and ‘InfoChoice’ refers to (and this policy applies to), the following InfoChoice and iSelect businesses: 
+InfoChoice is part of the iSelect group of companies. In this policy ‘we’, ‘us’, ‘our’ and ‘InfoChoice’ refers to (and this policy applies to), the following iSelect businesses: 
 
   * InfoChoice Pty Ltd;
   * iSelect Ltd;
@@ -33,11 +33,18 @@ InfoChoice is part of the iSelect group of companies. In this policy ‘we’, �
   * iSelect General Pty Ltd;
   * iSelect Media Pty Ltd;
   * iSelect Mortgages Pty Ltd;
-  * iSelect e Services Pty Ltd.
+  * iSelect International Pty Ltd;
+  * iSelect Services Pty Ltd; 
+  * Tyrian Pty Ltd
+  * General Brokerage Services Pty Ltd (trading as Budget Connect);
+  * Energy Watch Trading Pty Ltd;
+  * Energy Watch Services Pty Ltd;
+  * Energy Watch Services Limited (New Zealand);
+  * Procure Power Pty Ltd.
 
 
 
-Please contact us if you have any questions regarding InfoChoice’s Privacy Policy or would like us to send you a copy of this policy please contact our Privacy Officer using the details provided below. Our Privacy Policy may be amended from time to time. The current version will be posted on our website. 
+If you have any questions regarding InfoChoice’s Privacy Policy or would like us to send you a copy of this policy please contact our Privacy Officer using the details provided below. Our Privacy Policy may be amended from time to time. The current version will be posted on our website. 
 
 ### What is personal information?
 
@@ -50,49 +57,49 @@ Please contact us if you have any questions regarding InfoChoice’s Privacy Pol
 InfoChoice will only collect personal information about you by lawful and fair means. InfoChoice collects personal information in a variety of ways. It is InfoChoice’s usual practice to collect personal information directly from you (or from your authorised representative), for example when:
 
   * you enquire about or seek a quotation for a product or service offered by our participating providers;
-  * you apply for or purchase a product offered by an InfoChoice business and or our participating providers;
-  * you contact us by telephone, via mail, e-mail or online;
-  * you visit our website (including when you request a quote); 
+  * you apply for or purchase a product offered by an InfoChoice business and/or our participating providers;
+  * you contact us by telephone, mail, email or online;
+  * you visit our website (including when you request a quote or to be contacted by us);
   * we supply any other products or services to you; or
-  * you enter into any trade promotions, competitions, specials or other offers with InfoChoice or its direct partners.
+  * you enter into any trade promotions, competitions, specials or other offers with InfoChoice or its partners.
 
 
 
 Sometimes we collect personal information about customers or potential customers from a third party or a publicly available source, or from marketing and similar lists legally acquired by us. 
 
-If you provide us with personal information about another person (such as a family member), please make sure that you tell them about this policy. 
+If you provide us with personal information about another person (such as a family member), please make sure that you have their consent to do so and that you tell them about this policy. 
 
 ### What kinds of personal information does InfoChoice collect and hold?
 
-The kinds of personal information that we collect and hold about you will depend on the circumstances of collection, including whether we collect the information from you as a customer, participating provider, contractor, stakeholder, job applicant or in some other capacity. 
+The kinds of personal information that we collect and hold about you will depend on the circumstances of collection, including whether we collect the information from you as a customer, participating provider, contractor, supplier, stakeholder, job applicant or in some other capacity. 
 
-For example, if you request a quote for a product or service offered by our participating providers, we may collect your name, address, email address, telephone number, date of birth and any other information required to provide you with the quote If you deal with us in some other capacity (for example, as a participating provider, a supplier or a stakeholder), we may collect your name, contact details and any other information you choose to provide to us. 
+For example, if you request a quote for a product or service offered by our participating providers, we may collect your name, address, email address, telephone number, date of birth and any other information required to provide you with the quote. If you deal with us in some other capacity (for example, as a participating provider, a supplier or a stakeholder), we may collect your name, contact details and any other information you choose to provide to us. 
 
-Any personal information that you provide via our website or contact center (for example, for comparison purposes, to obtain a quote or to purchase products) is collected and stored by InfoChoice. 
+Any personal information that you provide via our website or contact centre (for example, for comparison purposes, to obtain a quote or to purchase products) is collected and stored by InfoChoice. 
 
-To provide some of our services, we may be required to collect and hold your sensitive information (such as medical or certain lifestyle information), for example, if you wish to obtain a comparison quote on health or life insurance. We will only collect sensitive information about you with your consent (unless we are otherwise allowed or required by law to collect that information). 
+To provide some of our services, we may be required to collect and hold your sensitive information (such as medical or certain lifestyle information), for example, if you wish to obtain a comparison quote on life insurance. We will only collect sensitive information about you with your consent (unless we are otherwise allowed or required by law to collect that information). 
 
-If you provide your personal information to a third party via InfoChoice (for example, to purchase products or services on third party website which is linked to InfoChoice) that information is collected and managed by those third parties. You should familiarise yourself with their privacy policy prior to deciding whether you wish to provide them with your information. 
+If you provide your personal information to a third party via InfoChoice (for example, to purchase products or services on a third party website which is linked to InfoChoice) that information is collected and managed by those third parties. You should familiarise yourself with their privacy policy prior to deciding whether you wish to provide them with your information. 
 
-We may monitor and record calls that you make to us in certain circumstances. For example, calls to our contact center are monitored and recorded for training and customer service purposes and to meet our regulatory obligations. 
+We may record and monitor calls that you make to us in certain circumstances. For example, calls to our contact centre are recorded and monitored for training and customer service purposes and to meet our regulatory obligations. 
 
-Some of the products offered by our participating providers can cover more than one person (for example, family and couples health insurance policies that cover two or more persons). If you provide us with information about your partner or a dependant on the policy, you must obtain that person’s permission to give us the information and inform them of this policy. If we are not able to collect your personal information, we may not be able to provide you with our products or services or do business with you or the organisation with which you are connected. 
+Some of the products offered by our participating providers can cover more than one person (for example, home loans). If you provide us with information about another person, you must obtain that person’s permission to give us the information and inform them of this policy. If we are not able to collect your personal information, we may not be able to provide you with our products or services or do business with you or the organisation with which you are connected. 
 
 ### How does InfoChoice use your personal information?
 
-We use personal information for a variety of reasons including to:
+We use personal information for a variety of reasons including to: 
 
   * provide services and products to our customers;
   * answer your inquiries and deliver customer service;
-  * tell our customers and prospective customers about other products, services or promotional offers that we think may be of interest to them;
+  * tell our customers and prospective customers about other products, services or promotional offers that we think may be of interest to them, including products, services or promotional offers of other iSelect businesses;
   * ensure we comply with the requirements of our participating providers;
   * maintain and improve our customer service;
-  * meet our regulatory and legal obligations; 
+  * meet our regulatory and legal obligations;
   * manage and resolve any legal or commercial complaints and issues;
   * consider job applicants for current and future employment;
   * manage our relationships with our participating providers, suppliers and stakeholders;
-  * carry out internal functions including training; and
-  * conduct marketing research and analysis. 
+  * carry out internal functions, including training; and
+  * conduct marketing research and analysis.
 
 
 
@@ -100,16 +107,17 @@ We may also use your information for other purposes required or authorised by or
 
 ### In what circumstances will InfoChoice disclose your personal information?
 
-In the course of conducting our business and providing our products and services to you, we may disclose your personal information. In particular, your personal information may be shared between InfoChoice and iSelect businesses for the purposes outlined in this policy.
+In the course of conducting our business and providing our products and services to you, we may disclose your personal information. In particular, your personal information may be shared between InfoChoice and other iSelect businesses for the purposes outlined in this policy.
 
 We may also disclose your personal information to, where appropriate:
 
   * if you are a customer, our participating providers (before deciding if you want to provide your personal information to any of our participating providers directly or via our website links, you should read their privacy policy);
+  * if you are a customer or prospective customer, other iSelect businesses for the purposes of them informing you about their products and services including those that are similar to the InfoChoice products and services, or where circumstances require, providing operational sales support to the InfoChoice businesses. Please note your consent to receiving mail, telephone, email, SMS or social media communications from iSelect businesses about their products and services will have been given if you do not opt out of receiving such communication. Your consent will remain current for an indefinite period of time unless and until you advise them otherwise.
   * professional advisers (such as lawyers or auditors)
   * our contracted service providers, including: 
     * information technology service providers;
     * payment systems operators and financial institutions;
-    * organisations authorised by InfoChoice to conduct promotional, research or marketing activities;
+    * organisations authorised by InfoChoice to conduct sales, promotional, research or marketing activities; 
   * law enforcement agencies or government authorities; and
   * any persons acting on your behalf including those persons nominated by you, executors, trustees and legal representatives.
 
@@ -121,13 +129,13 @@ In all circumstances where your personal information is disclosed, we will take 
 
 ### Direct marketing
 
-If you are a customer or a potential customer, from time to time we may contact you with information about products and services offered by InfoChoice and our business partners, which we think may be of interest to you. When we contact you it may be by mail, telephone, email, SMS or social media. We will generally give you the opportunity to express a wish not to receive direct marketing communications. Your consent to receive direct marketing communications in the above ways will be deemed to have been given if you do not opt out of receiving direct marketing communications from us, and will remain current for an indefinite period of time unless and until you advise us otherwise. You can opt-out of receiving direct marketing at any time (see below). 
+If you are a customer or a potential customer, we may contact you with information about products and services offered by InfoChoice and other iSelect businesses, as well as our business partners, which we think may be of interest to you. When we contact you it may be by mail, telephone, email, SMS or social media. We will generally give you the opportunity to express a wish not to receive direct marketing communications. Your consent to receive direct marketing communications in the above ways will be deemed to have been given if you do not opt out of receiving direct marketing communications from us, and will remain current for an indefinite period of time unless and until you advise us otherwise. You can opt out of receiving direct marketing at any time (see below). 
 
 If you want to know how we obtained your personal information, please contact our Privacy Officer using the details provided below and we will let you know unless it is impracticable or unreasonable to do so. 
 
 **How can you opt out of receiving direct marketing?**
 
-You can let us know at any time if you do not want the personal information we hold about you to be used or disclosed for direct marketing purposes, or you do not wish to be contacted in any of the above ways, by contacting us. In some circumstances we may need to contact you to obtain additional information, to verify your identity or to clarify your request.
+You can contact us at any time to let us know if you do not want the personal information we hold about you to be used or disclosed for direct marketing purposes, or you do not wish to be contacted in any of the above ways. In some circumstances we may need to contact you to obtain additional information, such as to verify your identity or to clarify your request.
 
 If you wish to unsubscribe from future marketing or promotional material, please email “Unsubscribe” to [marketing@iselect.com.au](mailto:marketing@iselect.com.au).
 
@@ -135,7 +143,7 @@ If you wish to unsubscribe from future marketing or promotional material, please
 
 Some of our service providers are located overseas. As a result, InfoChoice may disclose your personal information to overseas recipients, including recipients located in the United States, Singapore, Hong Kong and Fiji. For example, sometimes we use third party platforms to deliver or store information. These are sites hosted and managed by organisations other than ourselves, and some of these sites are located overseas. 
 
-The email platform used by InfoChoice is maintained overseas by Exact Target Inc which has its principle place of business in the United States of America. Exact Target’s privacy policy is available at [www.exacttarget.com](http://www.exacttarget.com/). Your personal information may be stored in a secure and encrypted form overseas (e.g. in data storage and cloud computing facilities operated by us (or by third parties on InfoChoice’s behalf). 
+The email platform used by InfoChoice is maintained overseas by Exact Target Inc. which has its principal place of business in the United States of America. Exact Target’s privacy policy is available at [www.exacttarget.com](http://www.exacttarget.com/). Your personal information may be stored in a secure and encrypted form overseas (e.g. in data storage and cloud computing facilities operated by us (or by third parties on InfoChoice’s behalf). 
 
 ### Use of Government Identifiers
 
@@ -147,7 +155,7 @@ We may store your information in hardcopy and/or in electronic form. We will tak
 
 This may include a range of systems and communication security measures, as well as the secure storage of hard copy documents. In addition, access to your personal information will be restricted to those properly authorised to have access. 
 
-We rely on the personal information we hold in conducting our business. Therefore, it is very important that the information we hold is accurate, complete and up-to-date. If you believe that your personal information is inaccurate, incomplete, out of date, and irrelevant or misleading, please contact our Privacy Officer using the details provided below and we will take reasonable steps to correct that information. 
+We rely on the personal information we hold in conducting our business. Therefore, it is very important that the information we hold is accurate, complete and up-to-date. If you believe that your personal information is inaccurate, incomplete, out of date, irrelevant or misleading, please contact our Privacy Officer using the details provided below and we will take reasonable steps to correct that information.
 
 ### Website usage
 
@@ -157,19 +165,19 @@ Cookies are pieces of information that a website transfers to your computer for 
 
 In addition, we collect aggregated non-personally identifiable data from our website to help us maintain and improve delivery of InfoChoice's online services and marketing. This aggregated information assists InfoChoice to improve content and website navigation. 
 
-When you visit any of our online resources, our system may collect information about your visit for statistical purposes, including:
+When you visit any of our online resources, our system may certain collect information about your visit for statistical purposes, including:
 
   * server address;
-  * top level domain name (for example .com, .gov, .au, .uk etc.);
+  * top level domain name (for example .com, .gov, .au, etc.);
   * the date and time of your visit to the site;
   * the pages you accessed and documents downloaded during your visit;
   * the previous site you visited;
-  * if you've visited our site before; and
+  * whether you've visited our site before; and
   * the type of browser used.
 
 
 
-We record this data to maintain our server and improve our services. There are several methods and packages that we use to collect visitor behaviours on each of our online platforms. Like a number of commercial web site operators, InfoChoice uses tools to measure and analyse internet usage across our web sites. This enables InfoChoice to track the number of unique browsers to our web sites. 
+We record this data to maintain our server and improve our services. There are several methods and packages that we use to collect visitor behaviours on each of our online platforms. Like a number of commercial website operators, InfoChoice uses tools to measure and analyse internet usage across our websites. This enables InfoChoice to track the number of unique browsers to our websites. 
 
 ### Links to third party sites
 
@@ -179,7 +187,7 @@ These links are provided for your convenience and do not represent InfoChoice's 
 
 ### How you can access or correct your personal information 
 
-You can request access to the personal information we hold about you by contacting our Privacy Officer using the details provided below and we will generally provide you with access, subject to some exceptions permitted by law
+You can request access to the personal information we hold about you by contacting our Privacy Officer using the details provided below. We will generally provide you with access, subject to some exceptions permitted by law.
 
 Access to personal information may be refused in a number of circumstances, such as where: 
 
@@ -190,7 +198,7 @@ Access to personal information may be refused in a number of circumstances, such
   * denying access is required by law;
   * providing access would be likely to prejudice enforcement related activities conducted by an enforcement body; 
   * giving access would reveal evaluative information in connection with a commercially sensitive decision-making process; or
-  * access would pose a threat to the life, health or safety of any individual or to public health or safety.
+  * giving access would pose a threat to the life, health or safety of any individual or to public health or safety.
 
 
 
@@ -214,13 +222,10 @@ If you:
 
 **Please contact our Privacy Officer:**
 
-Privacy Officer  
-294 Bay Road  
-Cheltenham 3192  
+  * by telephone on 03 9276 8000
+  * by mail to 294 Bay Road, Cheltenham 3192
+  * by email to privacy@iselect.com.au.
 
 
-**Email:** privacy@iselect.com.au
 
-**Phone:** 03-9276-8000
-
-**Updated 1 December 2014**
+**Updated 29 April 2016**
