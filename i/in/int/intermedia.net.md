@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intermedia.net privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912082002id_/https%3A//www.intermedia.net/assets/pdf/legal/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermedia.net privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607133800id_/https%3A//www.intermedia.net/assets/pdf/legal/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
