@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allscrabblewords.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207034232id_/http%3A//www.allscrabblewords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allscrabblewords.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608015444id_/http%3A//www.allscrabblewords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unscramble Scrabble Words | Word Decoder, Unscrambler, and Finder for Scrabble and Text Twist
 
@@ -56,4 +56,4 @@ This private policy is in effect as of May 2, 2013. Be it remembered that this P
 
 SCRABBLE® is a registered trademark. All intellectual property rights in and to the game are owned in the U.S.A and Canada by Hasbro Inc., and throughout the rest of the world by J.W. Spear & Sons Limited of Maidenhead, Berkshire, England, a subsidiary of Mattel Inc. Mattel and Spear are not affiliated with Hasbro. Words with Friends is a trademark of Zynga. Allscrabblewords.com is not affiliated with SCRABBLE®, Mattel, Spear, Hasbro, Zynga, or the Words with Friends games in any way. This site is for entertainment and informational purposes only.
 
-© 2015 ALLSCRABBLEWORDS.com. ALL RIGHTS RESERVED
+© 2016 ALLSCRABBLEWORDS.com. ALL RIGHTS RESERVED
