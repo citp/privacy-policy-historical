@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onbile.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207204709id_/http%3A//www.onbile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onbile.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608002210id_/http%3A//www.onbile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Services
 
@@ -25,7 +25,7 @@ Non Personally Identifiable Information: When you access the Site or use the Ser
       * Information regarding your use of the Service, including, activity and visit behavior on your mobile website.
       * Information that your browser sends whenever you visit a website or an online service "Log Data", that may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to the Site and information you search for on the Site.
 
-Policy Towards Children: We do not knowingly collect personally identifiable information from minors. If a parent or guardian becomes aware that their child has provided us with Personal Information without their consent, he or she should contact us at [www.onbile.com/contact-us/](https://web.archive.org/web/20151207204709id_/http://www.onbile.com/privacy-policy/www.onbile.com/contact-us/)
+Policy Towards Children: We do not knowingly collect personally identifiable information from minors. If a parent or guardian becomes aware that their child has provided us with Personal Information without their consent, he or she should contact us at [www.onbile.com/contact-us/](https://web.archive.org/web/20160608002210id_/http://www.onbile.com/privacy-policy/www.onbile.com/contact-us/)
 
     2. **Account Subscriptions**
 
