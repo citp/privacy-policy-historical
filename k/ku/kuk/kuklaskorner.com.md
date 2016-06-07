@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuklaskorner.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208212917id_/http%3A//kuklaskorner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuklaskorner.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608002817id_/http%3A//kuklaskorner.com/privacy) for the most accurate reproduction.*
 
 # Kukla's Korner
 
