@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the billmoyers.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208093949id_/http%3A//billmoyers.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billmoyers.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608012346id_/http%3A//billmoyers.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | BillMoyers.com
 
 Privacy Policy
 
-Public Affairs Television, Inc. is committed to protecting the private information of our website visitors.  The billmoyers.com website (the “Site”) adheres to a strict policy for ensuring the privacy of Personally Identifiable Information and preserving the integrity of this online medium.  Here we explain the type of information collected from the Site, how that information may be used, how you can access or modify that information, and how that information is protected.
+Public Square Media is committed to protecting the private information of our website visitors.  The billmoyers.com website (the “Site”) adheres to a strict policy for ensuring the privacy of Personally Identifiable Information and preserving the integrity of this online medium.  Here we explain the type of information collected from the Site, how that information may be used, how you can access or modify that information, and how that information is protected.
 
  **I.   WHICH SITES ARE COVERED BY THIS POLICY?**  
 This Privacy Policy applies to the Site.  By using the Site, you agree to and accept the terms of this Privacy Policy.  Please note that the Site may contain links to sponsor, partnering organizations and public television stations.  We are not responsible for the privacy practices of those websites.  We encourage you to review the privacy policy of any organization before submitting your personal information to them.
 
  **II.   WHAT INFORMATION DO WE GATHER?**  
-Public Affairs Television, Inc. collects two types of information from visitors to the Site:  (A) Personally Identifiable Information, and (B) Non-personally Identifiable Information (information such as IP addresses and cookies, which allow for a better use of the Site). Uses of this information are discussed in Section III below.
+Public Square Media collects two types of information from visitors to the Site:  (A) Personally Identifiable Information, and (B) Non-personally Identifiable Information (information such as IP addresses and cookies, which allow for a better use of the Site). Uses of this information are discussed in Section III below.
 
  **A.   Personally Identifiable Information**  
-Public Affairs Television, Inc. will not collect Personally Identifiable Information from you, other than what you supply to us on a voluntary basis upon request.  Personally Identifiable Information includes, but is not limited to, name, address, email address, telephone number, and credit card information.
+Public Square Media will not collect Personally Identifiable Information from you, other than what you supply to us on a voluntary basis upon request.  Personally Identifiable Information includes, but is not limited to, name, address, email address, telephone number, and credit card information.
 
  _Registration for the Site_ : ** **  
 The Site may at times require a free registration, which enables full access to the information and resources offered on the Site.  A unique email address must be supplied to register.
@@ -58,7 +58,7 @@ In certain cases, we contract with other companies to provide services on our be
 
 
 
-We (including our service providers) will use these addresses in connection with the purposes for which we collected the information, to provide services and to operate the Site, including to respond to inquiries, to process credit card payments and billing, shipping, email distribution, list processing and analysis, promotions management, to send information about Public Affairs Television, Inc., services, membership or to correspond about a purchase or product offers.
+We (including our service providers) will use these addresses in connection with the purposes for which we collected the information, to provide services and to operate the Site, including to respond to inquiries, to process credit card payments and billing, shipping, email distribution, list processing and analysis, promotions management, to send information about Public Square Media, services, membership or to correspond about a purchase or product offers.
 
 Our service providers have access to your Personally Identifiable Information as necessary to provide certain services on our behalf.  They are required to maintain the privacy of all such information in their possession or control and can only use the information on our behalf for the purpose for which we have contracted them, for example processing your order or sending you a series newsletter.  They are not authorized to use your information for any other purpose.
 
@@ -72,29 +72,29 @@ We offer email newsletters.  If you no longer wish to receive a specific newsle
 
 We use Non-personally Identifiable Information, such as IP addresses or demographic information (zip codes for example) to tailor the Site to the interests/locations of our users and to measure traffic within the Site.
 
-Public Affairs Television, Inc. uses the content from cookies to deliver relevant local resources, remember browser preferences, and improve our visitors’ experiences on the Site.  Public Affairs Television, Inc. does not sell information collected by cookies nor use the information for commerce-related purposes.  In addition, Public Affairs Television, Inc. will not filter content based on your preferences without permission.
+Public Square Media uses the content from cookies to deliver relevant local resources, remember browser preferences, and improve our visitors’ experiences on the Site.  Public Square Media does not sell information collected by cookies nor use the information for commerce-related purposes.  In addition, Public Square Media will not filter content based on your preferences without permission.
 
-Public Affairs Television, Inc. uses cookies at the following times:
+Public Square Media uses cookies at the following times:
 
   * A cookie may automatically localize the Site to the public television station nearest you.
   * If you watch a video clip or listen to an audio clip on the Site, a cookie may remember certain preferences.
-  * A cookie will tell us which pages you visit and the amount of time between each page visit.  The cookie does not remember any information about you or your computer; it just helps us at Public Affairs Television, Inc. to monitor Site usage and traffic; for example, it allows us to measure the number of repeat visitors to the Site in a given month. This data is only used in the aggregate.
+  * A cookie will tell us which pages you visit and the amount of time between each page visit.  The cookie does not remember any information about you or your computer; it just helps us at Public Square Media to monitor Site usage and traffic; for example, it allows us to measure the number of repeat visitors to the Site in a given month. This data is only used in the aggregate.
 
 
 
  **IV.   HOW CAN I ACCESS OR CORRECT INFORMATION?**  
-In certain cases, such as where a user provides an email address in order to receive an email newsletter or a reminder about an upcoming program or event, Personally Identifiable Information that is collected from the Site is only temporarily retained and may be accessible by the user only for a limited period of time following collection.  In other cases, Personally Identifiable Information may be maintained, edited and deleted at the user’s discretion at any time after the information has been submitted to Public Affairs Television, Inc. If at any time, you prefer not to receive email from a service that you subscribed to, simply unsubscribe by following the unsubscribe instructions at the bottom of each email.
+In certain cases, such as where a user provides an email address in order to receive an email newsletter or a reminder about an upcoming program or event, Personally Identifiable Information that is collected from the Site is only temporarily retained and may be accessible by the user only for a limited period of time following collection.  In other cases, Personally Identifiable Information may be maintained, edited and deleted at the user’s discretion at any time after the information has been submitted to Public Square Media If at any time, you prefer not to receive email from a service that you subscribed to, simply unsubscribe by following the unsubscribe instructions at the bottom of each email.
 
  **V.   HOW IS MY INFORMATION PROTECTED?**  
-Public Affairs Television Inc. is committed to ensuring the security of the data provided to us by Site users.  To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place appropriate physical, electronic and managerial procedures to protect the information we collect online.
+Public Square Media is committed to ensuring the security of the data provided to us by Site users.  To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place appropriate physical, electronic and managerial procedures to protect the information we collect online.
 
  **VI.   CHILDREN’S GUIDELINES**  
-This Privacy Policy applies to all adults and children who have reached their 13th birthday.   Public Affairs Television, Inc. does not knowingly permit children under the age of 13 to use the Site and does not knowingly collect or store Personally Identifiable Information from anyone under the age of 13.
+This Privacy Policy applies to all adults and children who have reached their 13th birthday. Public Square Media does not knowingly permit children under the age of 13 to use the Site and does not knowingly collect or store Personally Identifiable Information from anyone under the age of 13.
 
  **VII.   ACCEPTANCE OF BILLMOYERS.COM PRIVACY POLICY TERMS AND CONDITIONS**  
-By using this Site, you signify your agreement to the terms and condition of this Public Affairs Television, Inc. Privacy Policy.  If you do not agree to the terms and conditions, please do not use the Site.  We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this policy at any time.  Please check this page periodically for any changes. Your continued use of the Site following the posting of any changes to these terms shall signify your acceptance of those changes.  If you have any questions or concerns, please [contact us](http://www.pbs.org/about/contact/).
+By using this Site, you signify your agreement to the terms and condition of this Public Square Media Privacy Policy. If you do not agree to the terms and conditions, please do not use the Site.  We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this policy at any time.  Please check this page periodically for any changes. Your continued use of the Site following the posting of any changes to these terms shall signify your acceptance of those changes.  If you have any questions or concerns, please [contact us](http://www.pbs.org/about/contact/).
 
  **VIII.  TERMS OF USE**  
-Please also make sure to read Public Affairs Television, Inc.’s Terms of Use to understand the additional terms and conditions which apply to your use of the Site.
+Please also make sure to read Public Square Media’s Terms of Use to understand the additional terms and conditions which apply to your use of the Site.
 
-The Privacy Policy posted on this Site was updated on or about January 2, 2012.
+The Privacy Policy posted on this Site was updated on or about December 9, 2015.
