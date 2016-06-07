@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214191726id_/http%3A//www.episerver.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607133458id_/http%3A//www.episerver.com/legal/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - EPiServer
+# Privacy Statement - Epi
 
-EPiServer AB is committed to protecting your integrity. This privacy statement describes how data is collected and used on the website www.episerver.com. This policy does not apply to other online or offline EPiServer AB sites, products or services. By visiting this website, you consent to the principles for collection and usage of information described in this privacy statement.
+Episerver AB is committed to protecting your integrity. This privacy statement describes how data is collected and used on the website www.Episerver.com. This policy does not apply to other online or offline Episerver AB sites, products or services. By visiting this website, you consent to the principles for collection and usage of information described in this privacy statement.
 
 ## Handling Personal Information
 
 ### General
 
-The Personal Data Act (1998:204 Swedish law) came into force 1 October 1998 and was fully applied 1 October 2001. The act prevents the violation of personal integrity by processing personal data. Your permission is required for us to handle your personal information. EPiServer AB, company number 556208-3435, Regeringsgatan 67, 103 86 Stockholm, Sweden is responsible for the information provided to EPiServer AB and its subsidiaries.
+The Personal Data Act (1998:204 Swedish law) came into force 1 October 1998 and was fully applied 1 October 2001. The act prevents the violation of personal integrity by processing personal data. Your permission is required for us to handle your personal information. Episerver AB, company number 556208-3435, Regeringsgatan 67, 103 86 Stockholm, Sweden is responsible for the information provided to Episerver AB and its subsidiaries.
 
 ### Use of Your Personal Information
 
-By filling in web forms, providing registration details or, in any other way, providing EPiServer AB with personal information, you thereby approve the following conditions for the handling of your personal information. The personal information collected by EPiServer AB is used to be able to fulfill our commitment to you as a user of EPiServer AB's services, and to be able to maintain our customer registry. The information may also be used for customized information and for marketing purposes. Your personal information may be shared with EPiServer AB's partners, in certain cases outside the European Union, so that they will be able to send you information about their products and services. EPiServer AB can also distribute or deliver the personal information registry to a third party, if that third party either partly or fully takes over EPiServer AB's business activities.
+By filling in web forms, providing registration details or, in any other way, providing Episerver AB with personal information, you thereby approve the following conditions for the handling of your personal information. The personal information collected by Episerver AB is used to be able to fulfill our commitment to you as a user of Episerver AB's services, and to be able to maintain our customer registry. The information may also be used for customized information and for marketing purposes. Your personal information may be shared with Episerver AB's partners, in certain cases outside the European Union, so that they will be able to send you information about their products and services. Episerver AB can also distribute or deliver the personal information registry to a third party, if that third party either partly or fully takes over Episerver AB's business activities.
 
-EPiServer AB handles suitable personal information, e.g. name, address, e-mail address, telephone number, to be able to provide any services without specific permission.
+Episerver AB handles suitable personal information, e.g. name, address, e-mail address, telephone number, to be able to provide any services without specific permission.
 
 ## Cookies on the web site
 
@@ -24,11 +24,11 @@ A cookie is a small text file that visited websites save on your computer. Cooki
 
 Name | Domain | Purpose  
 ---|---|---  
-EPiServer.CMO.LPO | [www.episerver.com](http://www.episerver.com/) | Visitor behaviour and navigation for [EPiServer CMO](https://web.archive.org/add-on-store/Episerver-CMO/)  
-ASP.NET_SessionId | [www.episerver.com](http://www.episerver.com/) | This session cookie is essential for the website to operate and is set upon your arrival to the site. This cookie is deleted when you close the browser.  
-BIGipServerwww.episerver.com  
-_HTTP_Pool | [www.episerver.com](http://www.episerver.com/) | Used for load balancing purposes.  
-.EPiTrace | [www.episerver.com](http://www.episerver.com/) | Visitor behaviour and navigation for EPiServer Live Monitor  
+Episerver.CMO.LPO | [www.Episerver.com](http://www.episerver.com/) | Visitor behaviour and navigation for [Episerver CMO](https://web.archive.org/products/add-on-store/Episerver-CMO/)  
+ASP.NET_SessionId | [www.Episerver.com](http://www.episerver.com/) | This session cookie is essential for the website to operate and is set upon your arrival to the site. This cookie is deleted when you close the browser.  
+BIGipServerwww.Episerver.com  
+_HTTP_Pool | [www.Episerver.com](http://www.episerver.com/) | Used for load balancing purposes.  
+.EPiTrace | [www.Episerver.com](http://www.episerver.com/) | Visitor behaviour and navigation for Episerver Live Monitor  
 PREF | [www.google.com](http://www.google.com/) | Google Analytics. Third-party cookie used to collect information about how visitors use the website.  
 _utma | [www.google.com](http://www.google.com/) | Google Analytics. Third-party cookie used to collect information about how visitors use the website.  
 _utmb | [www.google.com](http://www.google.com/) | Google Analytics. Third-party cookie used to collect information about how visitors use the website.  
@@ -64,9 +64,9 @@ Google Analytics uses cookies to collect information in an anonymous form (aggre
 
 Google can transfer the collected information to a third party if it is required by law or in case a third party processes the information on Google’s account. Google cannot link IP addresses with other data held by Google.
 
-### EPiServer CMO
+### Episerver CMO
 
-To be able to optimize the content of the website we are using [EPiServer CMO](https://web.archive.org/add-on-store/Episerver-CMO/) for campaign handling and optimization. EPiServer CMO collect information in an anonymous form (aggregated) about how visitors use the website, for example, the number of page views, how visitors have arrived at the website, and the number of visits.
+To be able to optimize the content of the website we are using [Episerver CMO](https://web.archive.org/products/add-on-store/Episerver-CMO/) for campaign handling and optimization. Episerver CMO collect information in an anonymous form (aggregated) about how visitors use the website, for example, the number of page views, how visitors have arrived at the website, and the number of visits.
 
 ## Changes to this Privacy Statement
 
@@ -74,6 +74,6 @@ We may occasionally update this privacy statement. When we do, we will also upda
 
 ## Contact Information
 
-If you require further information about EPiServer AB's privacy statement, contact our Personal Data Act via e-mail: [info@episerver.com](mailto:info@episerver.com)
+If you require further information about Episerver AB's privacy statement, contact our Personal Data Act via e-mail: [info@Episerver.com](mailto:info@Episerver.com)
 
 _Updated:  _
