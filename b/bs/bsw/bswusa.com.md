@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bswusa.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134927id_/http%3A//www.bswusa.com/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bswusa.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161143id_/http%3A//www.bswusa.com/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -24,8 +24,8 @@ You may be removed from our e-mail or snail mail list at anytime, by doing one o
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Tom Roalkvam
-
+Tom Roalkvam  
+Executive Vice President  
 BSW   
 2237 South 19th Street   
 Tacoma, WA. 98405   
