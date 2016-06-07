@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplycanning.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207140833id_/http%3A//www.simplycanning.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplycanning.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013059id_/http%3A//www.simplycanning.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Simply Canning - ie the legal stuff.
 
@@ -61,8 +61,3 @@ If you do not agree to Simply Canning's Privacy Policy as posted here on this we
 **Your use of this site indicates acceptance of this privacy policy.**
 
 Return from [Return from Privacy Policy to Simply Canning Home](http://www.simplycanning.com/)
-
-## Canning Books by Sharon   
-
-
-Printable Simply Canning in a book
