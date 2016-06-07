@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjajournalist.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131910id_/http%3A//ninjajournalist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjajournalist.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607140625id_/http%3A//ninjajournalist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ninja Journalist
 
@@ -39,11 +39,11 @@ Non-personally Identifiable Information – If you do not wish for cookies to be
 
 #### **Third Party Vendors**
 
-We believe it is important to provide a tailored experience to our visitors, which is why we allow third party vendors (such as Google) to use cookies for a personalized experience. These third party vendors use the cookies in order to display relevant advertisements on our website, based on your previous history and preferences. Google uses a DoubleClick cookie, which allows it to present advertisements based on your visits to our site and/or other websites that you have visited on the internet. The same applies to partners of Google. You are able to opt out of DoubleClick cookies, and advertising based on your interests, at any time. You can opt out by visiting one of the following:
+We believe it is important to provide a tailored experience to our visitors, which is why we allow third party vendors (such as Google) to use cookies for a personalized experience. These third party vendors use the cookies in order to display relevant advertisements on our website, based on your previous history and preferences. Google uses a DoubleClick cookie, which allows it to present advertisements based on your visits to our site and/or other websites that you have visited on the internet. The same applies to partners of Google. You are able to opt out of DoubleClick cookies, and advertising based on your interests, at any time.
 
-[Ad Settings](http://www.shockpedia.com/wp-content/uploads/2014/09/preferences)
+[Ad Settings](http://www.google.com/ads/preferences/)
 
-[aboutads.info](http://www.shockpedia.com/wp-content/uploads/2014/09/www.aboutads.info)
+[Aboutads.info](http://www.aboutads.info/)
 
 We allow third party vendors to use cookies, web beacons and other similar tracking tools, in order to collect information from NinjaJournalist.com, as they do for other websites on the internet. These third party vendors are only allowed to use this information for measurement services and targeted advertisements.
 
