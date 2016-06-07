@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mecglobal.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927044110id_/http%3A//mecglobal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mecglobal.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608005114id_/http%3A//www.mecglobal.com/privacy) for the most accurate reproduction.*
 
-# Privacy » MEC | Media Agency | Media Planning | Comms Planning
+# Privacy »
 
 [ Mediaedge:CIA, LLC ] ("[MEC]") is a part of GroupM Worldwide, Inc., and has adopted these privacy principles for the website located at ([[mecglobal.com](http://www.mecglobal.com/)]). This Privacy Policy applies only to the website on which it appears, and not to any other [MEC], GroupM or other website or service. This Privacy Policy also provides information about activities we undertake across internet websites on behalf of MEC clients.
 
