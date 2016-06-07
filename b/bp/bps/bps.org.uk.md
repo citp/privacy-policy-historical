@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131137id_/http%3A//www.bps.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607140120id_/http%3A//www.bps.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | BPS
 
@@ -136,12 +136,16 @@ Please let us know if the personal information which we hold about you needs to 
 
 **(10)  Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal information, write to us by [email](mailto:enquiry@bps.org.uk) or post to: The British Psychological Society, St. Andrews House, 48 Princess Road East, Leicester, LE1 7DR.
+If you have any questions about this privacy policy or our treatment of your personal information, write to us by [email](mailto:dpo@bps.org.uk) or post to: Data Protection Officer, The British Psychological Society, St. Andrews House, 48 Princess Road East, Leicester, LE1 7DR.
 
 **(11)  Data controller**
 
 The data controller responsible in respect of information collected by all Society services (electronic or manual) is The British Psychological Society. 
 
 Our data protection registration number is Z5958155.
+
+The Society's Data Protection Policy can be found [here](https://web.archive.org/system/files/Public%20files/General/data_protection_policyx.pdf).
+
+The Society's guide to the Data Protection Act and individual rights of its members and the general public can be found [here](https://web.archive.org/system/files/Public%20files/aa%20Standard%20Docs/society_guide_to_the_dpa.pdf).
 
 Document date: August 2014
