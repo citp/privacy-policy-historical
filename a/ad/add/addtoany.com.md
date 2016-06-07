@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the addtoany.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818045856id_/https%3A//www.addtoany.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addtoany.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607024901id_/https%3A//www.addtoany.com/privacy) for the most accurate reproduction.*
 
 # AddToAny - Privacy Policy
 
 ### What data is collected?
 
   * We tend to **not** collect personally identifiable information 
-    * We do **not** collect any email addresses that you may supply in the [link emailing form](https://web.archive.org/email)
     * An exception is when you [contact us](https://web.archive.org/contact/): for a reply, the form asks for your name and email address, both of which are optional
   * Server log information, such as: 
     * Web requests
     * Internet Protocol address
     * Browser and system information
-  * To store your [preferences](http://www.addtoany.com/share_save/preferences), we may use cookies
+  * To store your [preferences](https://web.archive.org/share/preferences), we may use cookies
 
 
 
