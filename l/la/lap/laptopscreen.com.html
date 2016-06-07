@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the laptopscreen.com privacy policy that was archived on 2015-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208215346id_/http%3A//www.laptopscreen.com/English/article/Privacy%2BPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the laptopscreen.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608011228id_/http%3A//www.laptopscreen.com/English/article/Privacy%2BPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -29,25 +29,98 @@
              <link rel="alternate" href="http://www.laptopscreen.com/English/article/Privacy+Policy/" hreflang="x-default">
              
 
-        <link type="text/css" rel="stylesheet" href="/a_laptopscreen_min.css?date=14">
-    <script src="/control.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-        <script data-cjssrc="/a_laptopscreen_min.js" type="text/cjs"></script>
     
-    <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-12569424-1']);
-    _gaq.push(['_trackPageview']);
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+
+        	<link type="text/css" rel="stylesheet" href="/a_laptopscreen_min.css?date=15">
+    
+    <script src="/control.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+    <script type="text/cjs" data-cjssrc="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+
+
+        <script type="text/javascript">
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-12569424-1', 'auto');  // Replace with your property ID.
+    ga('send', 'pageview');
+    ga('require', 'ecommerce'); 
     </script>
+    <script data-cjssrc="/a_laptopscreen_min.js" type="text/cjs"></script>
+    
     <style>
     .li_spacer {
     width: 1px;
 }
 </style>
 </head>
-<!-- Head 0.011319160461426  --><body>
+<!-- Head 0.022553205490112  --><body>
 
 
 <div id="main_container" class="ls_black">
+
+<div id="black_overlay">
+</div>
+
+<script type="text/cjs">
+	$(function() {
+	    var autocomplete = $( ".search_ajax" ).autocomplete({
+	    	delay: 0,
+	      	source: function( request, response ) {
+
+	    		$.post(	'/section/search/', 
+	        			{ 	search_text : request.term,
+	        				ajax_search: 1 },
+		        		function(d) 
+		        		{ 
+		        			 response( $.parseJSON(d) );
+		        		}
+	        		);
+	      	},
+	      	minLength: 1,
+	      	select: function( event, ui ) {
+				setTimeout(function(){
+					$(".search_ajax").closest("form").submit();
+				}, 300);
+	      	},
+	      	open: function() {
+	        	var selector = $( ".ui-autocomplete" );
+	        	selector.width( "261px");
+	        	$(".top_search").css("z-index", "1001");
+	        	selector.css("top", "-=2");
+	        	selector.css("left", "+=1");
+	        	$("#autocomplete_phrase").show();
+	        	$("#black_overlay").fadeIn(200);
+	      	},
+	      	close: function() {
+	        	$("#autocomplete_phrase").hide();
+	        	$("#black_overlay").fadeOut(200);
+	        	$(".top_search").css("z-index", "0");
+	     	},
+	    });
+	    autocomplete.data("ui-autocomplete")._renderItem = function (ul, item) {
+	        var newText = String(item.value).replace(
+	                new RegExp(this.term, "gi"),
+	                "<b>$&</b>");
+	        return $("<li></li>")
+	            .data("item.autocomplete", item)
+	            .append(newText)
+	            .appendTo(ul);
+	    };
+	    /*autocomplete.data("ui-autocomplete").close = function () {
+		     	return false;
+		};*/
+	});
+</script>
+<style>
+ul.ui-autocomplete:before {
+	    content: "Search suggestions";
+}
+</style>
+
 
 
 <div id="container">
@@ -98,7 +171,7 @@
         <div class="ls_black_grad_2" style="position:relative;">
                     <div class="ls_black_grad_2" style="height: 77px;padding-top: 5px;">
             <div style="float: left; padding-top: 10px; width: 100px;padding-left: 20px;" class="">
-                <span class="gp_like_count_ls" style="left:63px;top:15px;height: 17px;">1093</span>
+                <span class="gp_like_count_ls" style="left:63px;top:15px;height: 17px;">1160</span>
                 <span class="fb_like_count_ls" style="left:79px;top:43px;height: 17px;"></span>
                 <div class="g-plusone" data-size="medium" data-href="http://www.laptopscreen.com" data-theme="dark"></div>
                 <br>
@@ -123,10 +196,10 @@
                     3 year Warranty                    </a>
                 </div>
                 <form action="/English/section/search/" method="post">
-    	        <div class="ls_green_grad ls_black_search_line">
+    	        <div class="ls_green_grad ls_black_search_line input_wrapper top_search">
     		        SEARCH 
     		        <div class="ls_black_search_but_value">GO</div>
-    		        <input type="text" name="search_text" class="ls_y_grad" placeholder="TYPE HERE"> 
+    		        <input type="text" name="search_text" class="ls_y_grad search_ajax" placeholder="TYPE HERE"> 
     		        <div class="ls_black_search_but" style="width: 56px"><input type="image" src="/a_images/ls_black_search.png" alt="Search" style="height: 31px;"></div>
     		        <div class="clearfix"></div>
             	</div>
@@ -180,7 +253,7 @@
 	                <span class="ship_countries"><a href="/English/currency/GBP/">Gatwick <i class="small_flags england"></i></a></span>
 	                
 	                FREE US and Canada shipping for 10+ screens orders<br>
-	                Our inventory is live, over 113800 screens in stock!
+	                Our inventory is live, over 119200 screens in stock!
                 </div>
             </div>
         </div>
@@ -193,7 +266,7 @@
         </h3>
         <div onclick="location.href=&quot;/English/video/&quot;" style="cursor: pointer;padding:0;background: url(&quot;/a_images/videos_1.png&quot;) no-repeat scroll right -10px rgba(0, 0, 0, 0);">
         <div id="header_video_link">
-        1533 screen replacement videos        <br>
+        1638 screen replacement videos        <br>
         <a href="/English/video/" style="color: white; text-decoration:underline">
         watch now        </a>
         </div>
@@ -252,12 +325,32 @@
 • If you believe that we have violated these terms, please, contact us and we will do our best to rectify the situation.</div><div class="bg_grey"><a itemprop="author" href="http://plus.google.com/108717975630094843141?rel=author" style="color:grey">Copyright (©) LaptopScreen.com </a> </div></div><div class="tupizm"> &nbsp;</div>
 <div id="sub_footer"></div>
     <div id="footer">
-            ® Trade-mark of Interac Inc. Used under licence<br>
-        © 2005 — 2015 Laptop Screen Int. Inc. Unauthorized Reproduction Prohibited.<br>
+        <div class="footer_shopperapproved">
+        
+<!-- Cached 2016-06-07 19:10:21 -->
+
+
+<a href="http://www.shopperapproved.com/certificates/laptopscreen.com/" rel="nofollow" target="shopperapproved">
+<span itemscope="" itemtype="http://schema.org/Store">
+  <span itemprop="name">laptopscreen.com</span>
+  <meta itemprop="url" content="www.laptopscreen.com">
+  has a Shopper Approved rating of
+  <span itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+    <span itemprop="ratingValue">4.8</span>/<span itemprop="bestRating">5</span>
+    based on <span itemprop="ratingCount">10822</span> ratings and reviews
+    
+    
+  </span>
+</span>
+</a>
+
+
+        </div>
+        ® Trade-mark of Interac Inc. Used under licence<br>
+        © 2005 — 2016 Laptop Screen Int. Inc. Unauthorized Reproduction Prohibited.<br>
         <a href="/English/article/Privacy+Policy/">Privacy Policy</a><a href="/English/article/Terms+of+Use/">Terms of Use</a>        <a href="/English/">Home</a>
         <a href="https://plus.google.com/108717975630094843141" rel="publisher">Find us on Google+</a>
         <a href="https://www.facebook.com/LaptopScreen">Find us on Facebook</a>
-    
     </div>
     </div>
 <div id="fake_layer"></div>
@@ -299,9 +392,10 @@ $zopim(function() {
     
 
 </script>
-        
+
+
 
 <!-- 
 
-3.25 megabytes -->
-<!-- All page 0.015010118484497  --></body></html>
+2.5 megabytes -->
+<!-- All page 0.19889402389526  --></body></html>
