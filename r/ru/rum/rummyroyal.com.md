@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rummyroyal.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207232102id_/http%3A//www.rummyroyal.com/about_us/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rummyroyal.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607075339id_/http%3A//www.rummyroyal.com/about_us/security.html) for the most accurate reproduction.*
 
 # Security and Privacy - About Us - Rummy Royal
 
@@ -6,7 +6,7 @@
 Protecting the privacy and security of our members is our number one priority at RummyRoyal. While providing our members with a fun, exciting and attractive skill-based online gaming environment, it is important to us to ensure this platform is also safe and secure and that our members’ privacy is fully protected at all times. Our security and privacy policies are strictly enforced at all of our sites and those of our partners’. We conduct all our banking and financial affairs in accordance with generally accepted standards of international banking.
 
 **Privacy Policy**  
-We welcome you to RummyRoyal.com. We provide our services subject to the following terms and conditions contained in this privacy notice (the “Privacy Policy”). If you visit or play at RummyRoyal.com and use any current or future Zirconium Gaming Limited. (referred to herein as “RummyRoyal”) services, you are deemed to have accepted the Privacy Policy and the End User Agreement that appear on the website www.RummyRoyal.com (the “Site”) from time to time.
+We welcome you to RummyRoyal.com. We provide our services subject to the following terms and conditions contained in this privacy notice (the “Privacy Policy”). If you visit or play at RummyRoyal.com and use any current or future Gaming Limited. (referred to herein as “RummyRoyal”) services, you are deemed to have accepted the Privacy Policy and the End User Agreement that appear on the website www.RummyRoyal.com (the “Site”) from time to time.
 
 We appreciate your trust that we will use and share your privacy on the internet carefully and sensibly. The purpose of the Privacy Policy is to enable you to understand how we collect, store, use and safeguard your personal information and your rights in relation to that information. By visiting or playing at RummyRoyal you are accepting the practices described in the Privacy Policy.
 
