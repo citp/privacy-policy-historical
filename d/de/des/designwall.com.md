@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designwall.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105050542id_/http%3A//www.designwall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designwall.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607040751id_/https%3A//www.designwall.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DesignWall
+# Privacy Policy | DesignWall
 
 According to each visitor’s preference, DesignWall may require personal information based on which interaction visitors choose to carry out. Otherwise, visitors can surf through other area which does not require entering personal identification on DesignWall.com. Visitors are eligible to refuse to provide personal information which might prevent them to engage in a certain activities on our site.
 
