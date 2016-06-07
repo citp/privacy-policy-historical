@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the java4s.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207144501id_/http%3A//www.java4s.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the java4s.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607231034id_/http%3A//www.java4s.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Java4s.com
-
-by    | Last Updated On Oct 01, 2015 
 
 Takes your privacy seriously. This privacy policy describes what information we collect and how we use it.
 
@@ -41,6 +39,3 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to webmaster@java4s.com for further clarification
-
-  
-
