@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aftercollege.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085450id_/https%3A//www.aftercollege.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aftercollege.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607225641id_/https%3A//www.aftercollege.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AfterCollege
 
@@ -66,5 +66,5 @@ Email: info@aftercollege.com
 
 Mailing Address:  
 AfterCollege, Inc.  
-98 Battery Street, Suite 502  
+98 Battery Street, Suite 601  
 San Francisco, CA 94111
