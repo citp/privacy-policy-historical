@@ -1,42 +1,48 @@
-> *The following text is extracted and transformed from the partstown.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207132234id_/http%3A//www.partstown.com/is-bin/INTERSHOP.enfinity/WFS/Reedy-PartsTown-Site/en_US/-/USD/ptExtraPage-Start%3FTemplateName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstown.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607064526id_/http%3A//www.partstown.com/is-bin/INTERSHOP.enfinity/WFS/Reedy-PartsTown-Site/en_US/-/USD/ptExtraPage-Start%3FTemplateName%3Dprivacy) for the most accurate reproduction.*
 
-# Restaurant Equipment Parts, Restaurant Parts, Restaurant Supply Parts, Commercial Kitchen Parts
+# Restaurant Equipment Parts, Commercial Kitchen Parts | Parts Town
 
 PRIVACY STATEMENT 
 
-This is Parts Town online privacy policy ("Policy"). This Policy applies only to activities Parts Town engages in on its website ("the Site") and does not apply to Parts Town activities that are "offline" or unrelated to the website. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+This is the Parts Town online privacy policy ("Policy"). This Policy applies only to activities Parts Town engages in on its website (the “Web site") and does not apply to Parts Town activities that are "offline" or unrelated to the website. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
 
 Collection of your Personal Information 
 
 Parts Town collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Parts Town also collects anonymous demographic information, which is not unique to you, such as your ZIP code. 
 
-There is also information about your computer hardware and software that is automatically collected by Parts Town . This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Parts Town for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Parts Town Web site. 
+There is also information about your computer hardware and software that is automatically collected by Parts Town. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Parts Town for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Parts Town Web site. 
 
 Links to Other Sites 
 
-Parts Town encourages you to review the privacy statements of Web sites you choose to link to from our so that you can understand how those Web sites collect, use and share your information. Parts Town is not responsible for the privacy statements or other content on Web sites outside of the Parts Town and our family of Web sites. 
+Parts Town encourages you to review the privacy statements of web sites you choose to link to from our site so that you can understand how those web sites collect, use and share your information. Parts Town is not responsible for the privacy statements or other content on web sites outside of Parts Town and our family of Web sites. 
 
 Use of your Personal Information 
 
-Parts Town collects and uses your personal information to operate our Web site and deliver the services you have requested. Parts Town also uses your personally identifiable information to inform you of other products or services available from Parts Town and its affiliates. Parts Town may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. In addition, Parts Town may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. 
+Parts Town collects and uses your personal information to operate our Web site and deliver the services you have requested. Parts Town also uses your personally identifiable information to inform you of other products or services available from Parts Town and within its family of affiliated companies. Accordingly, Parts Town may share your personally identifiable information within PT Holdings (its parent company) among our various businesses, and within our family of affiliated companies. Parts Town may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. In addition, Parts Town may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. 
+
+Parts Town may share your personal information with third parties such as Google and Facebook to show you relevant interest-based ads. Interest-based ads are ads presented to you based on your interaction with the Web site and other browsing behaviors that are more tailored to your interests. These Interest-based ads may be presented to you while you are browsing our site or third party sites. To measure how you interact with those ads. You may opt-out of these interest-based ads from Parts Town by visiting the third party site and opting out of the use of cookies for interest-based advertising. Please note that if you choose to opt out, you may continue to see ads, but they will not be based on your interactions with our Web site. 
 
 Other than stated above, Parts Town does not sell, rent or lease its customer lists to third parties. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. All such third parties are prohibited from using your personal information except to provide the above stated services to Parts Town , and they are required to maintain the confidentiality of this information. 
 
 Parts Town keeps track of the Web sites and pages our customers visit within the Parts Town website, in order to determine which of our services are the most popular. This data is used to deliver customized content and advertising within Parts Town to customers whose behavior indicates that they are interested in a particular subject area. 
 
-The Parts Town Web site will also disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Parts Town or the site 
+The Parts Town Web site will also disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to conform to the edicts of the law or comply with legal process served on Parts Town or the Web site. 
 
 Use of Cookies 
 
-The Parts Town Web site use cookies to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
+The Parts Town Web site uses cookies to help personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Parts Town pages, or register with Parts Town site or services, a cookie helps Parts Town to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Parts Town Web site, the information you previously provided can be retrieved, so you can easily use the Parts Town features that you customized. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Parts Town pages, or register with the Parts Town site or services, a cookie helps Parts Town to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Parts Town Web site, the information you previously provided can be retrieved, so you can easily use the Parts Town features that you customized. 
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Parts Town services or Web sites you visit. 
+Additionally, Parts Town may use your cookies to collect non-personal information on how you browse and interact with the Web site, and this information may be used to provide you with interest-based ads. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Parts Town services or Web sites you visit. 
 
 Mergers and Acquisitions 
 
 Your personal identifiable information may be provided to a party if we file for bankruptcy, or there is a transfer of the assets or ownership of Parts Town in connection with proposed or consummated corporate reorganizations, such as mergers or acquisitions. 
+
+Changes to your Personal Information and how it may be used 
+
+You can access and update certain information relating to your online account by signing into your account and going to the My Account section of the Web site. If you have questions about personal information we have about you or need to update your information, you can contact us at customerservice@partstown.com. You can opt-out of receiving marketing and promotional e-mails from Parts Town by using the unsubscribe link at the bottom of any Parts Town e-mail. 
 
 Security of your Personal Information 
 
