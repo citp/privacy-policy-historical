@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynextmove.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133557id_/http%3A//www.mynextmove.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynextmove.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608012609id_/http%3A//www.mynextmove.org/help/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Statement at My Next Move
 
