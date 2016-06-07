@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the oxford-royale.co.uk privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203001603id_/https%3A//www.oxford-royale.co.uk/ora/useful-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxford-royale.co.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607204313id_/https%3A//www.oxford-royale.co.uk/ora/useful-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Oxford Summer School 2015 with Oxford Royale Academy
+# Privacy Policy - Oxford Summer School 2016 with Oxford Royale Academy
 
 Oxford Programs Limited (Oxford Royale Academy) ( **“We”** ) are committed to protecting and respecting your privacy.
 
-This policy (together with our Terms and Conditions of Enrolment documents [[www.oxford-royale.co.uk/ora/useful-information/terms-conditions](http://oxford-royale.co.uk/ora/useful-information/terms-conditions)] and any other documents referred to on them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.oxford-royale.co.uk](http://www.oxford-royale.co.uk/) you are accepting and consenting to the practices described in this policy.
+This policy (together with our Terms and Conditions of Enrolment documents [[www.oxford-royale.co.uk/ora/useful-information/terms-conditions](https://oxford-royale.co.uk/ora/useful-information/terms-conditions)] and any other documents referred to on them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.oxford-royale.co.uk](https://www.oxford-royale.co.uk/) you are accepting and consenting to the practices described in this policy.
 
 For the purpose of the Data Protection Act 1998 (the **“Act”** ), the data controller is Oxford Programs Limited, a company incorporated in England and Wales (company number 6045196) and whose registered address is 14 King Street, Bristol BS1 4EF.
 
 **INFORMATION WE MAY COLLECT FROM YOU**  
 We may collect and process the following data about you:
 
-  * **Information you give us.** You may give us information about you by filling in forms on our site [www.oxford-royale.co.uk](http://www.oxford-royale.co.uk/) ( **“our site”** ) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for a product, place an order on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, complete a course and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description, medical and dietary information, and school.
+  * **Information you give us.** You may give us information about you by filling in forms on our site [www.oxford-royale.co.uk](https://www.oxford-royale.co.uk/) ( **“our site”** ) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for a product, place an order on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, complete a course and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description, medical and dietary information, and school.
   * **Information we collect about you.** With regard to each of your visits to our site we may automatically collect the following information:  
 – technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;  
 – information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
@@ -21,7 +21,7 @@ We may collect and process the following data about you:
 
 
 **COOKIES**  
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy [<http://oxford-royale.co.uk/ora/useful-information/cookie-policy>].
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy [<https://oxford-royale.co.uk/ora/useful-information/cookie-policy>].
 
 **USES MADE OF THE INFORMATION**  
 We use information held about you in the following ways:
@@ -58,7 +58,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Oxford Programs Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions of Enrolment [[www.oxford-royale.co.uk/ora/useful-information/terms-conditions](http://oxford-royale.co.uk/ora/useful-information/terms-conditions)] and other agreements; or to protect the rights, property, or safety of Oxford Programs Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions of Enrolment [[www.oxford-royale.co.uk/ora/useful-information/terms-conditions](https://oxford-royale.co.uk/ora/useful-information/terms-conditions)] and other agreements; or to protect the rights, property, or safety of Oxford Programs Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
