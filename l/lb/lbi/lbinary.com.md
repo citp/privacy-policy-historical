@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lbinary.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207004941id_/http%3A//www.lbinary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbinary.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607101659id_/http%3A//www.lbinary.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | LBinary
+# Privacy Policy - LBinary
 
 ## PRIVACY & POLICY
 
