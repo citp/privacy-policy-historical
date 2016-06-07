@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkjobs.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231153437id_/http%3A//www.newyorkjobs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkjobs.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607213529id_/http%3A//www.newyorkjobs.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | NewYorkJobs.com
 
@@ -26,9 +26,11 @@ If you are registered as an employer or a recruiter, you can submit job listings
 
 If you are registered as a job seeker, you can submit your resume information to the database and it will be visible to qualified, pre-screened employers and recruiters who search the resume database. You are not required to include any private, confidential or identifying information in your profile. You can change or delete your profile at any time. 
 
-### Credit Card and Order Information
+### Credit Card Information
 
-When you submit an order to us using our online ordering system, the credit card and personal contact information in the on-line order form is encrypted by your browser before it is transmitted to our secure server over the Internet. Information about the security capabilities of the your browser is displayed on the order form before you submit it. If your browser is not able to provide a secure, encrypted connection, a warning will be displayed on the order form. Once our server receives your order, it relays your credit card information to our credit card processing service in encrypted format and receives a response, which is also encrypted. If the credit card transaction is approved, we store the information pertaining to the order in our database for our records, where it is visible only to trusted NewYorkJobs.com employees. _We never store your credit card information in any format._
+When you choose to pay for a purchase using a credit card, the credit card information is encrypted by your web browser before it is transmitted to our secure server over the Internet. If your browser is not able to provide a secure, encrypted connection, your web browser will display a warning. 
+
+Once our server receives your credit card information, it is immediately relayed to our credit card processor in encrypted format. If the credit card transaction is approved, we store the information pertaining to the order in our database for our records, where it is visible only to trusted NewYorkJobs.com employees. _We never store your credit card number in any format._
 
 ### Anonymous Usage Information
 
