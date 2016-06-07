@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dunkinathome.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207151609id_/http%3A//www.dunkinathome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunkinathome.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607085824id_/http%3A//www.dunkinathome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dunkin' Donuts Coffee
-
-**THE J. M. SMUCKER COMPANY**
 
 This Privacy Policy addresses the practices of The J.M. Smucker Company relating to the collection and use of information resulting from your use of our website. If you have any questions or comments regarding our Privacy Policy please contact us. Our contact information is: 
 
@@ -10,7 +8,7 @@ The J.M. Smucker Company
 1 Strawberry Lane  
 Orrville, Ohio 44667  
 [Email](http://www.dunkinathome.com/contact-us/)  
-Telephone: 1-888-550-9555 
+Telephone: 1-800-374-5308 
 
 ### COLLECTION AND USE OF INFORMATION
 
