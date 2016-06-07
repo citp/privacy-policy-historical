@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adgorithms.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133001id_/http%3A//adgorithms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgorithms.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607152005id_/http%3A//adgorithms.com/privacy-policy) for the most accurate reproduction.*
 
 # Adgorithms | Privacy Policy
 
@@ -81,4 +81,4 @@ Changes to this Privacy Policy are effective as of the stated “Last Revised”
 
 #### ADDITIONAL INFORMATION AND CONTACT US
 
-Adgorithms may update this Privacy Policy from time to time, and so you should review this policy periodically. If you have any questions regarding this Privacy Policy, you may contact our customer service at customerservise@adgorithms.com.
+Adgorithms may update this Privacy Policy from time to time, and so you should review this policy periodically. If you have any questions regarding this Privacy Policy, you may contact our customer service at customerservice@adgorithms.com.
