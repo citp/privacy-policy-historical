@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opb.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208093926id_/http%3A//www.opb.org/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opb.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608012431id_/http%3A//www.opb.org/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy . About | OPB
 
@@ -37,7 +37,7 @@ You always have the ability to configure your Web browser to refuse cookies (ple
 
 ### Security
 
-OPB makes every effort to ensure that all of the transactions that occur on its website are secure. All credit card numbers submitted to the site are encrypted, which is the industry standard for information security and is used by more than 100,000 web sites in more than 50 countries. Any personal information you submit with your donation is encrypted with 128-bit Secure Socket Layer (SSL) technology. In the unlikely event that the information you send is intercepted, it is nearly impossible to decrypt the information. Your peace of mind and security is very important to us. If you do not feel comfortable submitting your financial information online, you can make your donation by calling OPB at 1-800-241-8123.
+OPB makes every effort to ensure that all of the transactions that occur on its website are secure. All credit card numbers submitted to the site are encrypted, which is the industry standard for information security and is used by more than 100,000 web sites in more than 50 countries. Any personal information you submit with your donation is encrypted using protocols that meet or exceed current industry standards. These standards are designed to assure the best possible protection against interception and decryption of information sent through our secure connections. Your peace of mind and security is very important to us. If you do not feel comfortable submitting your financial information online, you can make your donation by calling OPB at 1-800-241-8123.
 
 ### Kids
 
@@ -51,4 +51,4 @@ OPB's website may contain links to other Internet websites. OPB encourages its p
 
 Oregon Public Broadcasting
 
-Revised February 2015
+Revised June 2016
