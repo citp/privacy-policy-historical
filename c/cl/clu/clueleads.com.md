@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clueleads.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133350id_/http%3A//www.clueleads.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clueleads.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607155803id_/http%3A//clueleads.com/Privacy.aspx) for the most accurate reproduction.*
 
 # mlm,India mlm news,mlm classifieds,India mlm companies,networker views,mlm articles,mlm directory,mlm software,Network marketing in Andhrapradesh,India
 
@@ -22,4 +22,8 @@ Corrections/Contact
 Users of this Site may contact [clueleads.com](http://www.clueleads.com/) to modify or correct any of their personal information that is under our control. An individual may also direct a written complaint regarding compliance with this Privacy Statement to us and, within a reasonable time upon receiving the written complaint, we will conduct an investigation into the matter, and we will take necessary measure/s to rectify the source of the complaint, as appropriate.  
    
 |   
----
+---  
+  
+[](https://play.google.com/store/apps/details?id=com.apex.icrf&hl=en)  
+  
+[](http://goo.gl/FZmiAx)
