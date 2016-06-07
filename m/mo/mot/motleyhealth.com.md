@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motleyhealth.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207002710id_/http%3A//www.motleyhealth.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motleyhealth.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607163100id_/http%3A//www.motleyhealth.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy and Cookies Notice - MotleyHealth®
 
@@ -42,17 +42,17 @@ Some of the adverts displayed on our site are provided by Google, and use cookie
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, the visit [Network Advertising Initiative.](http://www.networkadvertising.org/)
 
-### **WordPress.org Cookies**
+###  **WordPress.org Cookies**
 
 WordPress.org websites also collect cookies for users who post comment. As MotleyHealth.com is built using WordPress, these cookies apply to our users.
 
 When visitors comment on the any of our articles or blogs, they will have cookies stored on their computer. This is purely for convenience, so that the visitor will not be required to re-type all their information again when they want to leave another comment on our site in the future.
 
-**Three cookies are set for WordPress commentators:**  comment_author, comment_author_email, comment_author_url
+ **Three cookies are set for WordPress commentators:**  comment_author, comment_author_email, comment_author_url
 
 The commenter cookies are set to expire a little less than one year from the time they are set.
 
-**Prohibiting the collection of Cookies**
+ **Prohibiting the collection of Cookies**
 
 If you would like to prevent MotleyHealth.com from collecting cookies when you visit our site, please update the privacy setting in your chosen web browser. You can directly control cookie acceptance from there:
 
@@ -60,7 +60,7 @@ Google Chrome: <http://www.google.co.uk/goodtoknow/manage-data/>
 
 Mozilla Firefox: <http://www.mozilla.org/en-US/privacy/>
 
-Internet Explorer: <http://privacy.microsoft.com/en-gb/default.mspx>
+Internet Explorer: [http://windows.microsoft.com/en-gb/windows7/how-to-manage-cookies-in-internet-explorer-9x](http://windows.microsoft.com/en-gb/windows7/how-to-manage-cookies-in-internet-explorer-9)
 
 ### Security
 
