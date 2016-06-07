@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harrahscasino.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207201759id_/http%3A//www.harrahscasino.com/policies/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrahscasino.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161156id_/http%3A//www.harrahscasino.com/policies/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Harrah’s Online Casino
+# HarrahsCasino.com | Policies | Privacy Policy
 
 Corporate Privacy Policy  
 Special Provisions for HarrahsCasino.com  
@@ -83,11 +83,20 @@ We may also disclose your Personal Information to third parties for the followin
 
 **Your Choice to Share Information**
 
-If you are a Total Rewards customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please click here, and follow the instructions provided.
+If you are a Total Rewards customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please follow these instructions:
 
-If you are not a Total Rewards customer, please click here to download the opt-out form(PDF), complete it and scan and email it to optout@HarrahsCasino.com.
+  1. First, [click here](https://www.totalrewards.com/mytotalrewards/?showglba=true) to log in to your account. Next, go to your “Profile”, scroll down to “Preferences” and click on “Edit Settings.”
+  2. Click “Manage My Preferences” to continue. Scroll to the bottom and check the box labeled “Do not share my personal information with non-affiliates to market their products & services to me.”
+  3. Click “Save Changes” to ensure your preference settings are set.
 
-Opting out will not prevent your Personal Information from being shared with our affiliates for any purpose or used for other non-marketing purposes described above in this Privacy Policy.
+
+
+If you are not a Total Rewards customer or if you prefer to opt out by mail from having your Personal Information shared with our Joint Marketing Partners, please [click here to download the opt-out form](http://www.totalrewards.com/images/aboutUs/Privacy_Policy_Form.pdf)([PDF](http://get.adobe.com/reader/)), complete it and mail it to:
+
+Caesars Operating Company, Inc.  
+ATTN: Loyalty Marketing  
+P.O. Box 98905  
+Las Vegas, NV 89193
 
 **How to Access, Update and Correct Personal Information**
 
