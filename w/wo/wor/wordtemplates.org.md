@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordtemplates.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205071320id_/http%3A//www.wordtemplates.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordtemplates.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607045744id_/http%3A//www.wordtemplates.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Microsoft Word Templates
+# Privacy Policy – Microsoft Word Templates
 
 We at WordTemplates.org consider your privacy as very important thing. To explain our privacy we provided this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
