@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rossettijorgensen.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207151533id_/http%3A//www.rossettijorgensen.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rossettijorgensen.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608005938id_/http%3A//www.rossettijorgensen.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Rossettijorgensen.com | A PHPLink directory - About Us
+# DIRECTORY_TITLE - About Us
 
-[](http://www.mb103.com/lnk.asp?o=7059&c=79193&a=93299)
+[](http://wizbiz.cpybuff.cpa.clicksure.com/)
 
 ### Privacy Policy
 
