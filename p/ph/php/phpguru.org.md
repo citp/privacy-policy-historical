@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the phpguru.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001321id_/http%3A//www.rgraph.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpguru.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607042446id_/http%3A//www.rgraph.net/privacy) for the most accurate reproduction.*
 
 # The RGraph privacy policy
 
 [](https://web.archive.org/)
 
-[Home](https://web.archive.org/) > Privacy policy
+ 
+
+[Home](https://web.archive.org/) > **Privacy policy**
+
+  
+
 
 This privacy policy sets out how RGraph Commercial Licensing uses and protects any information that you give it when you use this website. 
 
