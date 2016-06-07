@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedirectorysubmit.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001921id_/http%3A//www.freedirectorysubmit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedirectorysubmit.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013807id_/http%3A//www.freedirectorysubmit.com/privacy.html) for the most accurate reproduction.*
 
 # Free Directory Submit | - Privacy Policy
 
