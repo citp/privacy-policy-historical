@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the justwebworld.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209002123id_/http%3A//www.justwebworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justwebworld.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607082725id_/http%3A//www.justwebworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Just Web World
 
 Privacy of our visitors is very important to us. We don’t share & sell any kind of private information to 3rd party while visiting our website justwebworld.com. We keep your and your family privacy in safeguard.
+
+[](http://www.justwebworld.com/wp-content/uploads/2013/09/Privacy-Policy.jpg)
 
  **Routine Information Collection :-**
 
@@ -58,10 +60,8 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 Just Web World has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-The Sponsor Posts/Paid Posts Links are removed after the 6 months or 12 months.
-
  **Contact Information :-**
 
-Concerns or questions about this privacy policy can be directed to admin@justwebworld.com or use this [Contact Us Form](http://www.justwebworld.com/contact-us "Contact Just Web World") for further clarification.
+Concerns or questions about this privacy policy can be directed to harshil@justwebworld.com or use this [Contact Us Form](http://www.justwebworld.com/contact-us "Contact Just Web World") for further clarification.
 
 This document was last updated on February 15,2014.
