@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djhistory.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608132029id_/http%3A//www.djhistory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djhistory.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608015137id_/http%3A//www.djhistory.com/privacy) for the most accurate reproduction.*
 
 # Privacy | DJhistory.com
 
