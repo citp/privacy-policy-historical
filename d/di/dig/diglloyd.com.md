@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the diglloyd.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207041116id_/http%3A//diglloyd.com/site-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diglloyd.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607085916id_/http%3A//diglloyd.com/site-privacy.html) for the most accurate reproduction.*
 
 # diglloyd - Privacy Policy
 
-Effective date: January 15, 2014
+Effective date: January 15, 2014  
+\- updated 15 Dec 2015 to clarify that non personally-identifiable information may be collected by third-party advertisers
 
 ###  Who We Are 
 
@@ -51,7 +52,7 @@ Subscribers may request that a particular contact email be used for these purpos
 
 ###  Site access information
 
-We log and collect and retain technical information such as IP address(es), date and time of access, browser type, login username, page viewing history and similar information via cookies and other automated mechanisms.  This information usually does not personally identify you, but it is possible that it could at some point be linked with other personally identifiable information.  We use this information for analysis of web site usage patterns, bandwidth utilization and similar analysis, and/or to identify violation of Sites [terms of service](https://web.archive.org/web/20151207041116id_/http%3A//diglloyd.com/site-terms-of-use.html) (e.g. bulk downloading, unauthorized access, inappropriate linking, and similar activities that we deem at our sole discretion to be inappropriate or unwanted).
+We log and collect and retain technical information such as IP address(es), date and time of access, browser type, login username, page viewing history and similar information via cookies and other automated mechanisms.  This information usually does not personally identify you, but it is possible that it could at some point be linked with other personally identifiable information.  We use this information for analysis of web site usage patterns, bandwidth utilization and similar analysis, and/or to identify violation of Sites [terms of service](https://web.archive.org/web/20160607085916id_/http%3A//diglloyd.com/site-terms-of-use.html) (e.g. bulk downloading, unauthorized access, inappropriate linking, and similar activities that we deem at our sole discretion to be inappropriate or unwanted).
 
 We also use this information to enhance your user experience, such as display preferences for images, site readability options and similar site options and behaviors.
 
@@ -94,7 +95,7 @@ The Sites currently do not support the ability to respond to “Do Not Track” 
 
 ###  Third-Party Collection of Personally Identifiable Information 
 
-Our Sites do not knowingly permit or facilitate any third-party to collect personally identifiable information about your online activities over time via the Sites. However, Sites use page-hit tracking services such as Google Analytics, and it is possible that such services could obtain information about which we are unaware and/or associate it with other information. We do not control this activity, and we direct you to the privacy controls at services such as Google search.
+Our Sites do not knowingly permit or facilitate any third-party to collect personally identifiable information about your online activities over time via the Sites. However, Sites use page-hit tracking services such as Google Analytics, and it is possible that such services could obtain information about which we are unaware and/or associate it with other information. We do not control this activity, and we direct you to the privacy controls at services such as Google search. Advertisers on this site may collect non personally identifiable visitation information through ad links or ad clicks (text or images or both) on this site.
 
 ###  Google Analytics 
 
