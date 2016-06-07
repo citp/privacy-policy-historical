@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207131310id_/http%3A//www.clubmonaco.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubmonaco.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608011903id_/http%3A//www.clubmonaco.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy) for the most accurate reproduction.*
 
-# Customer Assistance
+# Customer Assistance | Club Monaco
 
 Modified Date: March 6, 2015
 
@@ -72,7 +72,7 @@ Please be sure to include in any email or postal mail your full name, email addr
 
 Club Monaco may transfer the personal information we collect about you to countries other than the country in which you originally provided it. These countries may not have the same data protection laws as the country in which you provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Notice. 
 
-Ralph Lauren Corporation and its U.S. affiliate, Club Monaco US, LLC, are certified under the Safe Harbor privacy framework set forth by the U.S. Department of Commerce regarding the collection, storage, transfer, use and other processing of personal information transferred from the European Economic Area or Switzerland to the United States. [Click here](http://www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions&ab=footer_privacypolicy#policies) to view our Safe Harbor Privacy Policy.
+Ralph Lauren Corporation and its U.S. affiliate, Club Monaco US, LLC, are certified under the Safe Harbor privacy framework set forth by the U.S. Department of Commerce regarding the collection, storage, transfer, use and other processing of personal information transferred from the European Economic Area or Switzerland to the United States. While the Safe Harbor framework is no longer considered a valid data transfer mechanism in the EEA, Ralph Lauren Corporation and Club Monaco US, LLC continue to comply with the relevant principles of the Safe Harbor. We continue to implement other data transfer mechanisms consistent with these principles and applicable law. [Click here](http://www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions&ab=footer_privacypolicy#policies) to view our Safe Harbor Privacy Policy.
 
 * * *
 
