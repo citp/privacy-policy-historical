@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phpgang.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208175534id_/http%3A//www.phpgang.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpgang.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608141925id_/http%3A//www.phpgang.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | PHP Gang – Tutorial Programming Blog | Programmers Demo Download Free
 
 This Privacy Policy governs the manner in which PHP Gang collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.phpgang.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by PHP Gang.
 
