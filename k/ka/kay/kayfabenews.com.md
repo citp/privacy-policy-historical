@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kayfabenews.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226031427id_/http%3A//www.kayfabenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayfabenews.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020800id_/http%3A//www.kayfabenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kayfabe News
 
-**KayfabeNews.com Privacy Policy** [Last updated May 20, 2011]
+**KayfabeNews.com Privacy Policy** [Last updated May 20, 2011] 
 
 This privacy statement (the “Privacy Policy”) applies to all personally identifiable information (collectively, “Personal Data”) and other information that is collected by KayfabeNews.com (“KayfabeNews.com”) through its website, including KayfabeNews.com, (the “Site”).
 
