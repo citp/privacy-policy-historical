@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officiallondontheatre.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226053409id_/http%3A//www.officiallondontheatre.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officiallondontheatre.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608192545id_/http%3A//www.officiallondontheatre.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Official London Theatre
 
@@ -54,7 +54,7 @@ Please see our Cookies Usage Policy to see how we use cookies.
 
 ### 6\. Third Party Sites and Contributors
 
-6.1. The ticketing service provided by the Site is powered by the SEE Group Limited trading via the Way Ahead Group Limited (“SEE”) on behalf of SOLT. Any financial transactions will occur on a designated server of SEE (the “SEE Site”) and will not take place on the Site. We do not control and accept no liability or responsibility for the SEE Site and this Privacy Policy does not apply to the SEE Site. Please consult SEE’s [**Data Protection policy**](http://www.seetickets.com/content/data-protection?) to find out how SEE will collect and use your personal data.
+6.1. The ticketing service provided by the Site is powered by the SEE Group Limited trading via the Way Ahead Group Limited (“SEE”) on behalf of SOLT. Any financial transactions will occur on a designated server of SEE (the “SEE Site”) and will not take place on the Site. We do not control and accept no liability or responsibility for the SEE Site and this Privacy Policy does not apply to the SEE Site. Please consult SEE’s [**Data Protection policy**](http://www.seetickets.com/content/data-protection) to find out how SEE will collect and use your personal data.
 
 6.2. In addition to the SEE Site, the Site contains links to other websites that are operated by third parties. We do not control and accept no liability or responsibility for those websites and this Privacy Policy does not apply to those websites. Please consult the terms and conditions and privacy policy of those third party websites to find out how they collect and use your personal data.
 
