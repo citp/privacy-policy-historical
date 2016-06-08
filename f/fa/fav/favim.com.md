@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the favim.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213060048id_/http%3A//favim.com/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favim.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608105310id_/http%3A//favim.com/faq/privacy.html) for the most accurate reproduction.*
 
-# Most inspiring images and photos - Favim.com
+# Most inspiring images and photos
 
 ### Privacy Policy
 
