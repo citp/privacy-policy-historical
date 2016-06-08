@@ -1,23 +1,25 @@
-> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208182240id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608151624id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
 
 # Software Advice Privacy Policy
 
-We've helped **348,647** companies choose the right software  
-by sharing our extensive research on over 1,566 systems.
+We've helped **400,132** companies choose the right software  
+by sharing our extensive research on over 1,579 systems.
 
-You are being presented this Privacy Policy because you are visiting a website (the “Website”) that is either (a) owned and operated by Software Advice™, Inc. (“Software Advice”) or (b) includes content, including but not limited to registration and other forms, owned by Software Advice or drawn from a website owned and operated by Software Advice. Software Advice is committed to protecting the privacy of our visitors' personally identifiable information. The following privacy policy ("Privacy Policy") explains our online information practices, use of the information you provide us and the choices you can make about the way your information is used by Software Advice. By using the Website and providing personally identifiable information about yourself, you do hereby consent to (1) our Terms of Use, (2) our collection, use, and sharing of data as described in this Privacy Policy; (3) the notice, choice, access, and security we are providing, as described above; and (4) the methods we have described to notify you of changes to this Privacy Policy.
+You are being presented this Privacy Policy because you are visiting a website (the "Website") that is either (a) owned and operated by Software Advice™, Inc. (“Software Advice”) or (b) includes content, including but not limited to registration and other forms, owned by Software Advice or drawn from a website owned and operated by Software Advice. When you provide your Personal Information to Software Advice, you expressly accept this Privacy Policy and provide full consent to the collection, storage and processing of your Personal Information by Software Advice, and to the use and disclosure of your Personal Information to Software Advice Affiliates and third parties in accordance with the terms set out in this Policy. “Software Advice Affiliate” is any legal entity that controls, is controlled by or is under common control with Software Advice. Software Advice is committed to protecting the privacy of our visitors' personally identifiable information. The following privacy policy ("Privacy Policy") explains our online information practices, use of the information you provide us and the choices you can make about the way your information is used by Software Advice.
+
+By using the Website and providing personally identifiable information about yourself, you do hereby consent to (1) our Terms of Use, (2) our collection, use, and sharing of data as described in this Privacy Policy; (3) the notice, choice, access, and security we are providing, as described above; and (4) the methods we have described to notify you of changes to this Privacy Policy.
 
 SO THAT WE MAY ASSIST YOU WITH YOUR SOFTWARE LICENSING/PURCHASE INQUIRY, PLEASE BE ADVISED THAT SOFTWARE ADVICE WILL FURNISH THE INFORMATION YOU SUBMIT ON THE WEBSITE TO OUR PARTICIPATING SOFTWARE VENDORS SO THAT THEY MAY CONTACT YOU ABOUT THEIR PRODUCTS, SERVICES, OFFERS, AND PROMOTIONS. WHEN YOU DOWNLOAD ARTICLES OF INTEREST WRITTEN (IN WHOLE OR IN PART) BY ONE OF OUR GUEST AUTHORS (AN "ADVISOR"), SOFTWARE ADVICE WILL FURNISH THE INFORMATION YOU SUBMIT ON THE WEBSITE TO SUCH ADVISOR SO THAT HE/SHE MAY CONTACT YOU ABOUT THE SUBJECT MATTER OF THE ARTICLE.
 
-Software Advice may gather information about you from the Website and from other sources, such as information you provide to our affiliated companies, including affiliated websites (which may be owned and/or operated by persons having no ownership relationship with Software Advice) or may be an entity directly or indirectly controlling, controlled by or under common control with Software Advice ("Affiliates").
+Software Advice may gather information about you from the Website and from other sources, such as information you provide to our Software Advice Affiliates and other affiliated companies, including affiliated websites (which may be owned and/or operated by persons having no ownership relationship with Software Advice).
 
-As a general rule, you will not be required to provide personally identifiable information as a condition to your browsing the Website. When such information is gathered, we will gather a limited scope of information from you that is necessary to facilitate the requests submitted by you, to improve this Website and your experience with the Website, and to make future visits to the Website easier and more personalized for you.
+As a general rule, you will not be required to provide personally identifiable information as a condition to your browsing the Website. When such information is gathered, we will gather a limited scope of information from you that is necessary to facilitate the requests submitted by you, to improve this Website and your experience with the Website, to share with our Software Advice Affiliates in the ordinary course of business and to make future visits to the Website easier and more personalized for you.
 
 ### WHAT INFORMATION IS COLLECTED AND HOW COLLECTED INFORMATION IS USED
 
 Users of the Website may browse without being obligated to submit any personal information; however, we may collect certain personally identifiable information from you in certain areas of the Website for certain purposes. These purposes include:
 
-  * providing information to us, to owners/operators of affiliate Websites, and/or to the vendor(s) of the software product(s) which you express an interest in purchasing or licensing so that we can contact you and help initiate contact and establish communication between you and such vendor(s) or Affiliates;
+  * providing information to us, to owners/operators of affiliate Websites, to Software Advice Affiliates in the ordinary course of business and/or to the vendor(s) of the software product(s) which you express an interest in purchasing or licensing so that we can contact you and help initiate contact and establish communication between you and such vendor(s) or Affiliates;
   * providing information to an Advisor whose article you have specifically requested to download;
   * conducting other transactions offered by Software Advice that you may request;
   * servicing your account with us and responding to your questions;
@@ -94,11 +96,11 @@ When you use the Website, you may be linked or directed to other third party sit
 
 ### WITH WHOM MAY THE INFORMATION BE SHARED
 
-PLEASE BE ADVISED THAT SOFTWARE ADVICE MAY PROVIDE CERTAIN INFORMATION YOU SUBMIT ON THE WEBSITE TO THIRD PARTIES, INCLUDING, BUT NOT LIMITED TO, YOUR NAME, ADDRESS, PHONE NUMBER AND E-MAIL ADDRESS SO THAT THEY MAY CONTACT YOU ABOUT THEIR OWN OR OTHERS' PRODUCTS, SERVICES, OFFERS AND PROMOTIONS.
+PLEASE BE ADVISED THAT SOFTWARE ADVICE MAY PROVIDE CERTAIN INFORMATION YOU SUBMIT ON THE WEBSITE TO THIRD PARTIES AND AFFILIATES, INCLUDING, BUT NOT LIMITED TO, YOUR NAME, ADDRESS, PHONE NUMBER AND E-MAIL ADDRESS SO THAT THEY MAY CONTACT YOU ABOUT THEIR OWN OR OTHERS' PRODUCTS, SERVICES, OFFERS AND PROMOTIONS.
 
-Additionally, you may authorize us to share your e-mail address with our Affiliates business partners, and third parties, including vendors whose products are profiled on the Website. If you opt-in and/or receive an e-mail opt-in confirmation, our Affiliates and business partners and third parties may contact you via e-mail, U.S. post, and/or telephone with a variety of special promotions, offers, or other information that may be of interest to you.
+Additionally, you may authorize us to share your e-mail address with our Software Advice Affiliates, business partners, and third parties, including vendors whose products are profiled on the Website. If you opt-in and/or receive an e-mail opt-in confirmation, our Software Advice Affiliates and business partners and third parties may contact you via e-mail, U.S. post, and/or telephone with a variety of special promotions, offers, or other information that may be of interest to you.
 
-Software Advice may share personally identifiable information with its Affiliates and business partners necessary to complete transactions as part of its standard business operations and to assist us in offering products or services to you.
+Software Advice may share personally identifiable information with its Software Advice Affiliates and business partners necessary to complete transactions as part of its standard business operations and to assist us in offering products or services to you.
 
 First, we may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, users of the Website, or anyone else who could be harmed by such activities. Second, we may disclose user information when we believe in good faith that such disclosure is required by applicable law.
 
@@ -144,4 +146,4 @@ If you have any specific questions regarding any issues about privacy on the Web
 
 Our collection and use of information shall be governed by laws of the United States.
 
-Updated: February 2015.
+Updated: December 2015.
