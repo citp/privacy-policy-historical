@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the charliepage.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208025126id_/http%3A//charliepage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charliepage.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020021id_/http%3A//charliepage.com/privacy) for the most accurate reproduction.*
 
-# Privacy - CharliePage.com
+# Privacy - CHARLIE PAGE
 
 Common Sense Publishing, L.L.C. is committed to protecting the privacy of our online visitors.  When you visit our website, you may be providing information to Common Sense Publishing, L.L.C. on two different levels:
 
@@ -53,44 +53,10 @@ We will not sell, trade, or give your personal information to other companies or
 
 We use Aweber for our email newsletter. Aweber's email privacy policy can be viewed at http://www.aweber.com.
 
+We use Ontraport for our email marketing and transactional correspondence. Ontraport's email privacy policy can be viewed at http://ontraport.com
+
 You can link to other websites from Common Sense Publishing, L.L.C..
 
 If you link to another website from any of our pages, you are leaving our website and are linking to a website not operated by Common Sense Publishing, L.L.C..  We cannot be held responsible for the content of the alternate website, nor do we represent either the third party or the member if the two enter into a transaction.
 
 An alternate website’s privacy and security policies may differ from those of Common Sense Publishing, L.L.C..  Therefore, we encourage you to read the policies of the websites reached through the use of links from our website.
-
-Common Sense Publishing, L.L.C. does not knowingly collect, maintain, or use personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems.
-
-Common Sense Publishing, L.L.C. encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
-
-* Teach kids never to give personal information, unless supervised by a parent or responsible adult.  This includes name, address, phone, school, etc.  
-* Know the sites your kids are visiting and which sites are appropriate  
-* Look for Web site privacy policies.  
-* Know how your child's information is treated.
-
-Check out the FTC's site:
-
-http://business.ftc.gov/privacy-and-security for more tips on protecting children's privacy online.
-
-If you have questions about the privacy or security of the Common Sense Publishing, L.L.C. website, please contact us via our support center:
-
-http://www.charliepagesupport.com
-
-We can be contacted via postal mail at:
-
-Common Sense Publishing, L.L.C.  
-3204 Longmire Ste. 100  
-College Station TX 77845  
-USA
-
-We do not promote any form of SPAM or sending of email to ANYONE who has not requested information from you.
-
-We do not suggest BUYING MAILING LISTS or performing BULK EMAILING.
-
-The bottom line is simple, if you are not mailing to an opt-in list (people who expressly ask to receive your information) you are sending spam.
-
-We are committed to safeguarding the privacy of people's email addresses and are against the use of UCE (Unsolicited Commercial Email) or spamming including newsgroup mailing.
-
-Please report your issue with us and we will investigate your concerns forthwith.
-
-If you have any questions please contact us using the link above.
