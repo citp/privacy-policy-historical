@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biotherm.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222044418id_/http%3A//www.biotherm-usa.com/cs-privacy-policy/cs-privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biotherm.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608203218id_/http%3A//www.biotherm-usa.com/cs-privacy-policy/cs-privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
