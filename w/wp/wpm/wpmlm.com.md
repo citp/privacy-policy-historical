@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpmlm.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107035748id_/http%3A//wpmlm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmlm.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608131817id_/http%3A//wpmlm.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | WP-MLM
+# Privacy Policy – WP-MLM
 
 ## Privacy Policy
 
@@ -37,3 +37,5 @@ Click here to view our [Terms of Service](https://web.archive.org/tos)
 ## Contact
 
 Email: support@wpmlm.com
+
+[](http://tunedhosting.com/)
