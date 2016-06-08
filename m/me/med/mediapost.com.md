@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230225925id_/http%3A//www.mediapost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608223926id_/http%3A//www.mediapost.com/privacy) for the most accurate reproduction.*
 
 # MediaPost – News and Conferences for Media, Marketing and Online Advertising Professionals
 
@@ -47,7 +47,7 @@ Your individual [MediaPost](http://www.mediapost.com/) user information is passw
 
 MediaPost Communications will NOT disclose any personal information except as described above, as required by law or to protect our interests. MediaPost Communications does disclose user information, including demographic data, in an aggregated form that does not identify individual users in order to describe its services to prospective partners, advertisers and other third parties and for other lawful purposes.
 
-If at any time you believe that MediaPost Communications has not adhered to these principles, please notify us promptly by email to [sergei@mediapost.com](mailto:sergei@mediapost.com), or via our contact informations below.   
+If at any time you believe that MediaPost Communications has not adhered to these principles, please notify us promptly by email to [mark.kecko@mediapost.com](mailto:mark.kecko@mediapost.com), or via our contact informations below.   
 
 
 ## Refunds/Returns
