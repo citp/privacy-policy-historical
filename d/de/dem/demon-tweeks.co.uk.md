@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demon-tweeks.co.uk privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210123226id_/http%3A//www.demon-tweeks.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demon-tweeks.co.uk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608222959id_/http%3A//www.demon-tweeks.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
