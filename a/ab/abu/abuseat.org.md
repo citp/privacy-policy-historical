@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abuseat.org privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228083728id_/http%3A//www.abuseat.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abuseat.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608040415id_/http%3A//www.abuseat.org/privacy.html) for the most accurate reproduction.*
 
 # The CBL
 
@@ -12,7 +12,7 @@ Given the nature of our work, the CBL may from time to time be subject to attack
 
 ## Accuracy and Legal Disclaimer
 
-While the CBL endeavours to keep the information in this website up to date, correct and accurate as possible, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, timeliness, suitability or availability with respect to the website or the information contained herein. 
+While the CBL endeavours to keep the information in this website up to date, correct and as accurate as possible, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, timeliness, suitability or availability with respect to the website or the information contained herein. 
 
 ## Marketing
 
@@ -20,15 +20,17 @@ The CBL is part of Spamhaus, and does no direct marketing or sales whatsoever of
 
 The CBL charges no fees and has no need for financial information of any kind. Anything anywhere indicating otherwise is false and should be considered fraudulent. 
 
+Assistance to help remediate a listing is free, subject to availablity. 
+
 Information that may be collected our site will not be used for any marketing purpose, and will not be sold or otherwise disclosed to any third party for marketing purposes. 
 
 ## Cookies/Tracking/External Links/Logging
 
-The CBL web pages do not use cookies, Java, flash or other "fancy" features. The only use of javascript is to facilitate multi-lingual translation of some of our web pages. If you choose to have Javascript turned off in your browser, the web pages should still function as normal, except that translation will not be available. 
+The CBL web pages do not use cookies, Java, flash or other "fancy" features. The only use of javascript is to facilitate multi-lingual translation of some of our web pages, and to operate the captcha on the lookup page. If you choose to have Javascript turned off in your browser, the web pages should still function as normal, except that translation will not be available. 
 
 The CBL does not use nor subscribe to any tracking or advertising methodologies. Except for the aforementioned translation facility, and explicit third party links, the CBL web pages are entirely stand-alone and perform no invisible/implicit redirects/links of any kind and do not implement any form of third party tracking/metrics. 
 
-The CBL web pages do have links to third party web pages for the purposes of assisting in the analysis and remediation of CBL listings. These web pages are not under our control, and their privacy policies should be consulted if you have concerns. 
+The CBL web pages does have links to third party web pages for the purposes of assisting in the analysis and remediation of CBL listings. These web pages are not under our control, and their privacy policies should be consulted if you have concerns. 
 
 Web site access logging is the usual: originating IP address, timestamp, browser type, operating system and requested link. 
 
@@ -36,9 +38,9 @@ If you register for a rsync transfer of the CBL zone, the originating IP address
 
 ## Data Collection
 
-You can use the CBL web pages without revealing any personal information about yourself, unless you voluntarily choose to do so. 
+The CBL web pages do not collect any personal information whatsoever, except for the rsync transfer registration page. You can use the CBL web pages without revealing any personal information about yourself, unless you voluntarily choose to sign up for rsync transfers. 
 
-In addition to the logging data outlined in the previous section, the CBL web site will only obtain rsync zone transfer registration information if you choose to register. 
+Therefore, the only information collected via use of our web pages is the aforementioned basic web logging, plus the voluntary rsync registration. 
 
 Rsync zone transfer information collected includes what you enter in on the form: your name, organization, request source IP address, timestamp, and IP address that will be doing rsync transfers. 
 
@@ -60,7 +62,7 @@ If you believe a listing is a violation of privacy, correction is simple - find 
 
 If you deliberately run a network of compromised computers running malware or other malicious software and believe our listings are harming your privacy or business, we'll be happy to delist on request. However, such requests must be accompanied by your real name, age, nationality, details of the criminal charges laid against you, which prison you currently reside in, and be notorized by competent legal jurisdiction. Such information will be verified by independent means. If you are not currently in prison, please let us know so we can rectify the situation. 
 
-The contents of the database are not made public, only divulged as we (and only we) deem necessary to assist someone contacting the CBL to resolve individual listings. 
+The contents of the database are not made public, only divulged as we (and only we) deem necessary to assist someone contacting the CBL to resolve individual listings. As such, we will only reveal this information to the listee (person affected by listing) and those they may designate (such as their service provider[s]). 
 
 ## Use of Collected Data
 
@@ -82,8 +84,8 @@ The published CBL DNSBL zone contains only IP addresses of listings and no other
 
 ## Children under the age of 13
 
-We do not believe that Children's Online Privacy Protection Act of 1998 (COPPA) applies in our case, due to the fact that the CBL is non-commercial/non-profit, does not solicit PII for routine interactions, that any PII collected is for internal (rsync registration) use only and not for marketing or other similar purposes, and it is is seems implausible that any child under the age of 13 years of age would ever be likely to interact with the CBL. 
+We do not believe that Children's Online Privacy Protection Act of 1998 (COPPA) applies in our case, due to the fact that the CBL is non-commercial/non-profit, does not solicit PII for routine interactions, that any PII collected is for internal (rsync registration) use only and not for marketing or other similar purposes. It seems implausible that any child under the age of 13 years of age would ever be likely to interact with the CBL. 
 
-That said, some young children with a technical/scientific inclination are doing some surprising things, and we don't want to discourage such learning. We will not knowingly accept rsync registrations or email from under 13 year olds, please have your parents contact us instead. 
+That said, some young children with a technical/scientific inclination are doing some surprising things, and we don't want to discourage such learning. We will not knowingly accept rsync registrations or email from under 13 year olds, please have your parents contact us instead to provide permission. 
 
-The CBL and web pages are copyright © 2003-2015, all unauthorized copying is prohibited
+The CBL and web pages are copyright © 2003-2016, all unauthorized copying is prohibited
