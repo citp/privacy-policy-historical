@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the blendtec.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905054423id_/http%3A//www.blendtec.com/company/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blendtec.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608020744id_/http%3A//www.blendtec.com/company/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-	<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-43Z4V"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQEHV19TGwEJVVVVAgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Privacy Policy | Blendtec.com</title><meta name="description" content="Blendtec makes the world's best blenders, mixers and grain mills. Order yours today! Call 1-800-BLENDTEC"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="author" content="Blendtec"><link href="http://www.blendtec.com/company/privacy-policy" rel="canonical"><link rel="stylesheet" type="text/css" href="/css/main.css"><script type="text/javascript" src="//cdn.blendtec.com/js/modernizr.min.js"></script><!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/css/ie.css" /><script type="text/javascript" src="/js/lib/browserPolyfill.js"></script><![endif]--><link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link href="http://www.blendtec.com/apple-touch-icon.png" type="image/x-icon" rel="apple-touch-icon">	<meta property="twitter:account_id" content="14615195">
+	<script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-43Z4V"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQEHV19TGwEJVVVVAgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Privacy Policy | Blendtec</title><meta name="description" content="Blendtec makes the world's best blenders, mixers and grain mills. Order yours today! Call 1-800-BLENDTEC"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="author" content="Blendtec"><link href="http://www.blendtec.com/company/privacy-policy" rel="canonical"><link rel="stylesheet" type="text/css" href="/css/main.css"><script type="text/javascript" src="//cdn.blendtec.com/js/modernizr.min.js"></script><!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/css/ie.css" /><script type="text/javascript" src="/js/lib/browserPolyfill.js"></script><![endif]--><link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link href="/apple-touch-icon.png" type="image/x-icon" rel="apple-touch-icon">	<meta property="twitter:account_id" content="14615195">
+    <meta property="fb:app_id" content="165268966981950">
 	<meta name="msvalidate.01" content="D213178DB062663B149483E7906643BD">
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/js/blendtec-main.js" src="/js/blendtec-main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modules/common" src="/js/modules/common.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="picturefill" src="/js/plugins/picturefill.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="//web.archive.org/web/20140923074604/http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="cookie" src="/js/plugins/jquery.cookie.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="bootstrap" src="/js/vendor/bootstrap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="dotdot" src="/js/plugins/jquery.dotdotdot.min.js"></script></head>
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/js/blendtec-main.js" src="/js/blendtec-main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modules/common" src="/js/modules/common.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="lodash" src="/js/plugins/lodash.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="youtube" src="/js/plugins/youtube.loader.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="picturefill" src="/js/plugins/picturefill.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="//web.archive.org/web/20151222125903/http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="cookie" src="/js/plugins/jquery.cookie.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="bootstrap" src="/js/vendor/bootstrap.js"></script></head>
 
 
 <body class="pages display company privacy_policy" style="">
@@ -26,16 +27,34 @@
 <!-- End Google Tag Manager -->
 	<div class="page-wrap">
 		
-<div class="new-menu navbar-container hide-print">
-	<div class="navbar navbar-main">
-		<div class="navbar-header">
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navigation">
-				<span class="sr-only">Toggle Navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</button>
-						<a href="/" class="navbar-brand" title="Blendtec"><span>Blendtec</span>
+
+<div class="navbar-wrapper">
+		<div class="top-navbar">
+			<div class="top-navbar-body">
+				<div class="top-navbar-questions">Questions? Call
+					<a class="top-navbar-questions--bold" href="tel://1-800-748-5400">1-800-748-5400</a>
+				</div>
+				
+<div class="nav-signin">
+	<a href="/myaccount/signin" title="Sign In" data-event="NavEv" data-category="MainNav" data-action="Sign In" class="user--signin-link"><i class="icon icon_myaccount"></i><span class="nav-signin_link-text">Sign In</span></a>			
+</div>
+<div class="nav-cart">
+	<a href="/cart" title="Checkout" data-event="NavEv" data-category="MainNav" data-action="Checkout" class="top-nav__cart-link"><i class="icon icon_cart_num_undefined"></i></a></div>
+
+
+			</div>
+
+		</div><!--end top-navbar-->
+
+	<div class="new-menu navbar-container hide-print" id="bt-accordion-header">
+		<div class="navbar">
+			<div class="navbar-inner-wrapper">
+								<div class="" id="main-navigation">
+				
+
+					<div class="bt-accordion-check-prop"></div>
+
+					<a href="/" class="navbar-brand" title="Blendtec"><span>Blendtec</span>
 <svg version="1.1" id="Blendtec-Logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 202 35" enable-background="new 0 0 202 35" xml:space="preserve">
 <path class="logo-path" d="M199.5,28c-0.6-0.6-1.4-0.9-2.3-0.9c-0.9,0-1.6,0.3-2.2,0.9c-0.6,0.6-0.9,1.4-0.9,2.3c0,0.9,0.3,1.6,0.9,2.3
 	c0.6,0.6,1.4,0.9,2.3,0.9c0.9,0,1.6-0.3,2.3-0.9c0.6-0.6,0.9-1.4,0.9-2.3C200.5,29.4,200.1,28.6,199.5,28z M199.2,32.2
@@ -64,29 +83,91 @@
 	c0,1.2-1,2.2-2.2,2.2H130.1z M34.1,2.1v29.2c0,1.3-1,2.3-2.3,2.3c-1.3,0-2.3-1-2.3-2.3V2.1c0-1.3,1-2.3,2.3-2.3
 	C33.1-0.2,34.1,0.8,34.1,2.1z"></path>
 </svg>
-</a>		</div>
+</a>
+					<button type="button" class="navbar-toggle bt-accordion-toggle">
+						<span class="sr-only">Toggle Navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
 
-				<div class="nav-collapse collapse" id="main-navigation">
-					<ul class="navbar-nav nav navbar-right" id="navlist">
-				<li class="navlink nav-first">
-					<a href="/blenders" data-event="NavEv" data-category="MainNav" data-action="Shop">SHOP</a>				</li>
-				<div class="menutab firsttab"></div>
-				<li class="navlink nav-second">
-					<a href="/recipes" title="Recipes" data-event="NavEv" data-category="MainNav" data-action="Recipes">Recipes</a>				</li>
-				<div class="menutab middletab"></div>
-				<li class="navlink nav-third">
-					<a href="/find-store" title="Find Store" data-event="NavEv" data-category="MainNav" data-action="Find Store">FIND STORE</a>				</li>
-				<div class="menutab"></div>
-				<li class="navlink nav-fourth">
-					<a href="/myaccount/signin" title="Sign In" data-event="NavEv" data-category="MainNav" data-action="Sign In" class="user--signin-link">SIGN IN</a>
-					<a href="/myaccount/profile" title="Sign Out" data-event="NavEv" data-category="MainNav" data-action="Sign Out" class="user--signout-link hidden">MY ACCOUNT</a>				</li>
 
-				<li class="navlink cart-state">
-					<a href="/checkout" title="Checkout" data-event="NavEv" data-category="MainNav" data-action="Checkout"><i class="icon icon_cart"></i><span>YOUR CART</span></a>				</li>
-			</ul>
-		</div>
-	</div>
+
+					<div class="nav-signin-and-cart nav-elem-reveal">
+						
+<div class="nav-signin">
+	<a href="/myaccount/signin" title="Sign In" data-event="NavEv" data-category="MainNav" data-action="Sign In" class="user--signin-link"><i class="icon icon_myaccount"></i><span class="nav-signin_link-text">Sign In</span></a>			
 </div>
+<div class="nav-cart">
+	<a href="/cart" title="Checkout" data-event="NavEv" data-category="MainNav" data-action="Checkout" class="top-nav__cart-link"><i class="icon icon_cart_num_undefined"></i></a></div>
+
+
+					</div>
+
+					<div class="nav-social">
+						
+<ul class="social-icons">
+	<li class="social-icon">
+		<a href="http://www.facebook.com/Blendtec">
+			<span class="icon icon_circle_facebook"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="https://twitter.com/Blendtec">
+			<span class="icon icon_circle_twitter"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="https://www.pinterest.com/Blendtec">
+			<span class="icon icon_circle_pinterest"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="http://www.youtube.com/blendteconsumer">
+			<span class="icon icon_circle_youtube"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="https://plus.google.com/+Blendtec">
+			<span class="icon icon_circle_google"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="http://www.blendtec.com/blog">
+			<span class="icon icon_circle_blog"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="http://instagram.com/blendtec">
+			<span class="icon icon_circle_instagram"></span>
+		</a>
+	</li>
+</ul>					</div>
+
+					<ul class="navbar-nav nav collapse" id="navlist">
+	<li class="navlink nav-first">
+		<a href="/blenders" data-event="NavEv" data-category="MainNav" data-action="Shop">Shop</a>	</li>
+	<div class="menutab"></div>
+	<li class="navlink nav-second">
+		<a href="/recipes" title="Recipes" data-event="NavEv" data-category="MainNav" data-action="Recipes">Recipes</a>	</li>
+	<div class="menutab"></div>
+	<li class="navlink nav-third">
+		<a href="http://www.blendtec.com/blog" title="Recipes" data-event="NavEv" data-category="MainNav" data-action="Recipes">Blog</a>	</li>
+	<div class="menutab"></div>
+	<li class="navlink nav-fourth">
+		<a href="/find-store" title="Find Store" data-event="NavEv" data-category="MainNav" data-action="Find Store">FIND A STORE</a>	</li>
+
+	
+</ul>
+
+
+				</div>
+
+			</div>
+		</div><!--end navbar-inner-wrapper-->
+	</div><!--end navbar-->
+</div><!--end navbar-wrapper-->
+
 <div class="flash-message hide animated">
 	<div class="container">
 		<div class="row">
@@ -95,53 +176,32 @@
 			  				</div>
 		</div>
 	</div>
-</div>		<div class="container main-content">
-			
-<div class="privacy-page">
-	<div class="row top-level bg-image main-nav-padding head-image">
-		<div class="col-md-12">
-			<div class="row">
-				<div class="col-md-12 container header">
-					<h1>Privacy and Security</h1>
-				</div>
-			</div>
-		</div>
-	</div>
+</div><div class="use-and-care-page misc-common">
+	<div class="misc-common--hero-area main-nav-padding">
 
-	<div class="container row">
+		<div class="misc-common--hero-text-wrap">
+			<h1 class="misc-common--leader leader-title-use-and-care">PRIVACY POLICY</h1>
+		</div>
+		<div class="misc-common--hero-image-overlay"></div>
+		<div class="misc-common--hero-image hero-image-use-care">
+			<div class="misc-common--hero-bottom"></div>
+		</div>
+	</div><!--end hero-area-->
+		<div class="container main-content">
+			
+	<div class="misc-common--container">
+		<div class="misc-common--content">
+
+			<section class="misc-common--content-section">
+				<div class="row top-level">
+			<div class="container row">
 		<div class="col-md-12">
-			<ul>
-				<li>
-					Blendtec Inc. (hereafter referred to as
-					"Blendtec," "Blendtec.com," "we,"
-					"us" and "our," as appropriate), has created
-					the following Privacy and Security Policy to inform you of what
-					information we collect, why we collect it and to whom it may be
-					disclosed.
-				</li>
-				<li>
-					This Privacy and Security Policy applies to <a href="/">www.blendtec.com</a> and <a href="http://www.willitblend.com/" target="_blank">www.willitblend.com</a> and all related linked pages beginning or containing those URLs
-						 (hereafter referred to as the "Sites").				</li>
-				<li>
-					This Privacy and Security Policy also addresses our data
-					security practices and the options you have to access and
-					control personally identifiable and nonpersonally identifiable
-					information.
-				</li>
-				<li>
-					We may periodically make changes to this Privacy and Security
-					Policy.
-				</li>
-				<li>
-					It is your responsibility to review this Privacy and Security
-					Policy frequently and remain informed about any changes to it,
-					so we encourage you to visit this page often.
-				</li>
-				<li>
-					This Privacy and Security Policy supersedes any and all previous
-					versions.
-				</li>
-			</ul>
+			<p>
+				Blendtec Inc. (hereafter referred to as "Blendtec," "Blendtec.com," "we," "us" and "our," as appropriate), has created the following Privacy and Security Policy to inform you of what information we collect, why we collect it and to whom it may be disclosed.</p>
+
+				<p>This Privacy and Security Policy applies to <a href="/">www.blendtec.com</a> and <a href="http://www.willitblend.com/" target="_blank">www.willitblend.com</a> and all related linked pages beginning or containing those URLs (hereafter referred to as the "Sites"). This Privacy and Security Policy also addresses our data security practices and the options you have to access and control personally identifiable and nonpersonally identifiable information. We may periodically make changes to this Privacy and Security Policy. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. This Privacy and Security Policy supersedes any and all previous versions.
+			</p>
+			
 			<p>
 				<strong>Entering the Sites constitutes your acceptance and agreement
 					to all terms contained in this Privacy and Security Policy. If
@@ -149,9 +209,9 @@
 					Security Policy, please do not enter the Sites.</strong>
 			</p>
 
-			<h3>INFORMATION WE COLLECT</h3>
-			<ul>
-				<li><strong>Personally Identifiable Information</strong>
+			<h2 class="misc-common--content-title margin-top-40">INFORMATION WE COLLECT</h2>
+			
+				<p class="misc-common--content-list-title"><strong>Personally Identifiable Information</strong></p><strong>
 					<ul>
 						<li>
 							The term "personally identifiable information"
@@ -184,8 +244,8 @@
 							to disclose.
 						</li>
 					</ul>
-				</li>
-				<li><strong>Non-Personally Identifiable Information</strong>
+				
+				<p class="misc-common--content-list-title"><strong>Non-Personally Identifiable Information</strong></p>
 					<ul>
 						<li>
 							The term "nonpersonally identifiable information"
@@ -229,9 +289,8 @@
 							all if you set your browser to not accept cookies.
 						</li>
 					</ul>
-				</li>
-			</ul>
-			<h3>WHY WE COLLECT INFORMATION</h3>
+				
+			<h2 class="misc-common--content-title margin-top-40">WHY WE COLLECT INFORMATION</h2>
 			<ul>
 				<li><strong>Personally Identifiable Information</strong>
 					<ul>
@@ -278,7 +337,7 @@
 					</ul>
 				</li>
 			</ul>
-			<h3>DISCLOSURE OF INFORMATION</h3>
+			<h2 class="misc-common--content-title">DISCLOSURE OF INFORMATION</h2>
 			<ul>
 				<li><strong>Personally Identifiable Information</strong>
 					<ul>
@@ -362,7 +421,7 @@
 					</ul>
 				</li>
 			</ul>
-			<h3>THIRD PARTY ADVERTISING</h3>
+			<h2 class="misc-common--content-title">THIRD PARTY ADVERTISING</h2>
 			<ul>
 				<li>
 					We may engage third-party advertising companies to advertise
@@ -382,7 +441,7 @@
 					If you would like more information about this practice and your
 					choices, including how to opt out, <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">click here</a>				</li>
 			</ul>
-			<h3>PROTECTION OF INFORMATION WE COLLECT</h3>
+			<h2 class="misc-common--content-title">PROTECTION OF INFORMATION WE COLLECT</h2>
 			<ul>
 				<li>
 					We offer secure webpages to collect certain kinds of user
@@ -411,7 +470,7 @@
 					personally identifiable information.
 				</li>
 			</ul>
-			<h3>LENGTH OF TIME WE KEEP INFORMATION</h3>
+			<h2 class="misc-common--content-title">LENGTH OF TIME WE KEEP INFORMATION</h2>
 			<ul>
 				<li>
 					We generally keep user data on our server or in our archives for
@@ -429,7 +488,7 @@
 					the public domain indefinitely.
 				</li>
 			</ul>
-			<h3>THIRD PARTY WEBSITES</h3>
+			<h2 class="misc-common--content-title">THIRD PARTY WEBSITES</h2>
 			<ul>
 				<li>The Sites may contain links to third-party websites.</li>
 				<li>
@@ -452,7 +511,7 @@
 					website.
 				</li>
 			</ul>
-			<h3>EMAIL COMMUNICATIONS</h3>
+			<h2 class="misc-common--content-title">EMAIL COMMUNICATIONS</h2>
 			<ul>
 				<li>
 					From time to time, we may send noncommercial electronic mail
@@ -467,12 +526,11 @@
 					discounts, coupons and promotions sent directly to your email
 					account, <a href="http://blendtec.us2.list-manage.com/subscribe?u=20574f0f66c91750fc6b6bd07&amp;id=8c09bd62ec">click here</a>				</li>
 			</ul>
-			<h3>IF YOU HAVE A PRIVACY QUESTION</h3>
-			<ul>
-				<li>
+			<h2 class="misc-common--content-title">QUESTIONS</h2>
+			<p>
 					If you have a privacy question about the Sites or about this
-					Privacy and Security Policy, please <a href="/company/contact">click here</a> to contact us.				</li>
-				<br>
+					Privacy and Security Policy, please <a href="/company/contact">click here</a> to contact us.				
+				</p>
 
 				<div class="row">
 	<div class="col-md-6 col-sm-6 col-xs-6">
@@ -482,11 +540,10 @@
 			1206 S. 1680 W.<br>
 			Orem, UT 84058<br>
 			<abbr title="Phone">P:</abbr>
-			1-800-BLENDTEC 
-			(1-800-253-6383)<br>
-			<abbr title="Fax">F:</abbr> 
+			1-800-748-5400			(1-800-748-5400)<br>
+			<abbr title="Fax">F:</abbr>
 			(801) 802-8584<br>
-			Hours: Mon. – Fri. 8:00 am - 5:30 pm (MST)<br>
+			Hours: Mon. – Fri. 9:00 am - 5:00 pm (MST)<br>
 		</address>
 	</div>
 	<div class="col-md-6 col-sm-6 col-xs-6">
@@ -496,24 +553,111 @@
 			1206 S. 1680 W.<br>
 			Orem, UT 84058<br>
 			<abbr title="Phone">P:</abbr>
-			1-800-BLENDTEC 
-			(1-800-253-6383)<br>
-			<abbr title="Fax">F:</abbr> 
+			1-800-748-5400			(1-800-748-5400)<br>
+			<abbr title="Fax">F:</abbr>
 			(801) 802-8584<br>
 		</address>
 	</div>
 </div>
-				<li>
+				<p>
 					We will investigate your question, respond to your inquiry and
 					attempt to resolve any concern regarding your privacy.
-				</li>
-			</ul>
-		</div>
+				</p>
+		</strong></div><strong>
+	</strong></div><strong>
+			</strong></div><strong>
+
+			</strong></section><strong>
+
+		</strong></div><strong>
+
+		<div class="misc-common--sidebar">
+			
+<div class="misc-common--sidebar-section help">
+	<h3 class="misc-common--sidebar-section-title">Help</h3>
+	<ul class="misc-common--sidebar-link-list">
+		<li class="misc-common--sidebar-link">
+			<a href="/faq" title="FAQ">FAQ</a>		</li>
+		<li>
+			<a href="/registration" title="Register Product">Register Product</a>		</li>
+		<li>
+			<a href="/company/return-policy" title="Return Policy">Return Policy</a>		</li>
+		<li>
+			<a href="/use-and-care" title="Use and Care">Use and Care</a>		</li>
+		<li>
+			<a href="/support/guides" title="User Guides">User Guides</a>		</li>
+		<li>
+			<a href="/warranty" title="Warranty">Warranty</a>		</li>
+	</ul>
+</div>
+<div class="misc-common--sidebar-section custservice">
+	<h3 class="misc-common--sidebar-section-title">Customer Service</h3>
+	<div>
+		<p class="service-hours">1-800-748-5400</p>
+		<p class="service-hours-bold">Customer Service Hours:</p>
+		<p class="service-hours">Mon.–Fri. 7:00 a.m.–7:00 p.m. MST</p>
 	</div>
 </div>
-		</div>
-
+	<div class="misc-common--sidebar-section recipes">
+		<h3 class="misc-common--sidebar-section-title recipes-title">Get Recipes, Tips &amp; Offers!</h3>
+		<div class="recipe-email hide-print">
+	<div class="recipe-email--content-wrap"><h2 class="recipe-email--header">
+			Recipes
+		</h2>
+		<p class="recipe-email--description">
+			Get recipes, tips &amp; offers delivered to your inbox.		</p>
+		<form action="/company/privacy-policy" role="form" class="recipe-email--signup-form" id="EmailSignupDisplayForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"><input type="hidden" name="data[_Token][key]" value="cbec3d4fb465f7cb0815ef8510f85d2e9c5c9bf0" id="Token1367120917"></div><div class="form-group recipe-email--email-input"><label for="EmailSignupEmail" class="control-label">Enter your Email</label> <input name="data[EmailSignup][Email]" class="form-control" type="text" id="EmailSignupEmail"><button class="recipe-email--button"><span class="icon icon_arrow"></span></button></div><div style="display:none;"><input type="hidden" name="data[_Token][fields]" value="525f20b6c5ceae27a5eecd65c3ab2ac84e12c9b9%3A" id="TokenFields1246637525"><input type="hidden" name="data[_Token][unlocked]" value="" id="TokenUnlocked1975638463"></div></form></div>
+</div>
 	</div>
+
+<div class="misc-common--sidebar-section social">
+	<h3 class="misc-common--sidebar-section-title">Find Us Across The Web</h3>
+	
+<ul class="social-icons">
+	<li class="social-icon">
+		<a href="http://www.facebook.com/Blendtec">
+			<span class="icon icon_circle_facebook"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="https://twitter.com/Blendtec">
+			<span class="icon icon_circle_twitter"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="https://www.pinterest.com/Blendtec">
+			<span class="icon icon_circle_pinterest"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="http://www.youtube.com/blendteconsumer">
+			<span class="icon icon_circle_youtube"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="https://plus.google.com/+Blendtec">
+			<span class="icon icon_circle_google"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="http://www.blendtec.com/blog">
+			<span class="icon icon_circle_blog"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="http://instagram.com/blendtec">
+			<span class="icon icon_circle_instagram"></span>
+		</a>
+	</li>
+</ul></div>
+		</div>
+	</strong></div><!--end container--><strong>
+
+</strong></div><!--end faq page--><strong>
+
+		</strong></div><strong>
+
+	</strong></div><strong>
 <div id="generalModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 	<div class="modal-dialog modal-lg">
 		<div class="modal-content">
@@ -523,191 +667,388 @@
 			</div>
 		</div>
 	</div>
-</div>
-<div class="bg-footer hide-print">
-		<div class="container footer hidden-xs hide-print">
-			<div class="row no-outer-margin">
-				<div class="col-md-3 col-xs-3">
-					<h5>Company</h5>
-					<ul>
-	<li>
-		<a href="http://www.blendtec.com/commercial" title="Commercial" class="footer-link">Commercial</a>	</li>
-	<li>
-		<a href="http://www.blendtec.com/blog" title="Blog" class="footer-link">Blog</a>	</li>
-	<li>
-		<a href="/company/about" title="About Us" class="footer-link">About Us</a>	</li>
-	<li>
-		<a href="/careers" title="Career Opportunities" class="footer-link">Career Opportunities</a>	</li>
-	<li>
-		<a href="/affiliates" title="Affiliates" class="footer-link">Affiliates</a>	</li>
-	<li>
-		<a href="/dealers" title="Dealers" class="footer-link">Dealers</a>	</li>
-	<li>
-		<a href="/media" title="Media" class="footer-link">Media</a>	</li>
-</ul>
-				</div>
-				<div class="col-md-3 col-xs-3">
-					<h5>Customer Support</h5>
-					<ul>
-	<li>
-		<a href="/use-and-care" title="Use and Care" class="footer-link">Use and Care</a>	</li>
-	<li>
-		<a href="/company/return-policy" title="Return Policy" class="footer-link">Return Policy</a>	</li>
-	<li>
-		<a href="/company/contact" title="Contact us" class="footer-link">Contact Us</a>	</li>
-	<li>
-		<a href="/faq" title="FAQs" class="footer-link">FAQs</a>	</li>
-</ul>
-				</div>
-				<div class="col-md-2 col-xs-3">
-					<h5>Resources</h5>
-					<ul>
-	<li>
-		<a href="/registration" title="Product Registration" class="footer-link">Product Registration</a>	</li>
-	<li>
-		<a href="/support/guides" title="User Guides" class="footer-link">User Guides</a>	</li>
-	<li>
-		<a href="/company/privacy-policy" title="Privacy Policy" class="footer-link">Privacy Policy</a>	</li>
-	<li>
-		<a href="/company/tos" title="Terms and Conditions" class="footer-link">Terms &amp; Conditions</a>	</li>
-</ul>
-				</div>
-				<div class="col-md-4 col-xs-3">
-					<h5>Connect</h5>
-					<ul class="social">
-	<li>
-		<a href="https://www.Pinterest.com/Blendtec" class="pinterest footer-social" title="Pinterest" target="_blank"><span>Pinterest</span></a>	</li>
-	<li>
-		<a href="http://www.facebook.com/Blendtec" class="facebook footer-social" title="Facebook" target="_blank"><span>Facebook</span></a>	</li>
-	<li>
-		<a href="http://www.youtube.com/blendteconsumer" class="youtube footer-social" title="YouTube" target="_blank"><span>You Tube</span></a>	</li>
-	<li>
-		<a href="https://twitter.com/Blendtec" class="twitter footer-social" title="Twitter" target="_blank"><span>Twitter</span></a>	</li>
-	<li>
-		<a href="https://plus.google.com/+Blendtec" class="google footer-social" rel="publisher" title="Google Plus" target="_blank"><span>Google Plus</span></a>	</li>
-	<li>
-		<a href="http://instagram.com/blendtec" class="instagram footer-social" rel="publisher" title="Instagram" target="_blank"><span>Instagram</span></a>	</li>
-</ul>
-				</div>
-			</div>
-		</div>
-		<div class="container visible-xs hide-print">
-			<div class="row no-outer-margin">
-				<div class="col-md-12">
-					<div class="panel-group footer-mobile" id="accordion-footer">
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-footer" href="#collapseCompany">
-										Company									</a>
-								</h4>
-							</div>
-							<div id="collapseCompany" class="panel-collapse collapse">
-								<div class="panel-body">
-									<ul>
-	<li>
-		<a href="http://www.blendtec.com/commercial" title="Commercial" class="footer-link">Commercial</a>	</li>
-	<li>
-		<a href="http://www.blendtec.com/blog" title="Blog" class="footer-link">Blog</a>	</li>
+</div><div class="bg-footer hide-print">
+
+	<div class="container hide-print">
+		<div class="row no-outer-margin">
+			
+			<div id="bt-accordion-footer" class="bt-accordion-footer">
+				<div class="bt-accordion-check-prop"></div>
+				
+				<div class="bt-accordion-group bt-accordion-group--company">
+					<div class="bt-accordion-toggle">Company<span class="arrow-pos"><span class="bt-accordion-toggle__icon icon icon_arrow"></span></span></div>
+					<div class="bt-accordion-content">
+						<ul class="bt-footer-links">
 	<li>
 		<a href="/company/about" title="About Us" class="footer-link">About Us</a>	</li>
 	<li>
-		<a href="/careers" title="Career Opportunities" class="footer-link">Career Opportunities</a>	</li>
+		<a href="/careers" title="Career Opportunities" class="footer-link">Careers</a>	</li>
+	<li>
+		<a href="/media" title="Media" class="footer-link">Media</a>	</li>
 	<li>
 		<a href="/affiliates" title="Affiliates" class="footer-link">Affiliates</a>	</li>
 	<li>
-		<a href="/dealers" title="Dealers" class="footer-link">Dealers</a>	</li>
+		<a href="/commercial" title="Commercial" class="footer-link">Commercial</a>	</li>
 	<li>
-		<a href="/media" title="Media" class="footer-link">Media</a>	</li>
+		<a href="/dealers" title="Become a Dealer" class="footer-link">Become a Dealer</a>	</li>
+	<li>
+		<a href="/international-dealers" title="International Dealers" class="footer-link">International Dealers</a>	</li>
+
 </ul>
-								</div>
-							</div>
-						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-footer" href="#collapseSupport">
-										Customer Support									</a>
-								</h4>
-							</div>
-							<div id="collapseSupport" class="panel-collapse collapse">
-								<div class="panel-body">
-									<ul>
-	<li>
-		<a href="/use-and-care" title="Use and Care" class="footer-link">Use and Care</a>	</li>
-	<li>
-		<a href="/company/return-policy" title="Return Policy" class="footer-link">Return Policy</a>	</li>
-	<li>
-		<a href="/company/contact" title="Contact us" class="footer-link">Contact Us</a>	</li>
-	<li>
-		<a href="/faq" title="FAQs" class="footer-link">FAQs</a>	</li>
-</ul>
-								</div>
-							</div>
-						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-footer" href="#collapseResources">
-										Resources									</a>
-								</h4>
-							</div>
-							<div id="collapseResources" class="panel-collapse collapse ">
-								<div class="panel-body">
-									<ul>
-	<li>
-		<a href="/registration" title="Product Registration" class="footer-link">Product Registration</a>	</li>
-	<li>
-		<a href="/support/guides" title="User Guides" class="footer-link">User Guides</a>	</li>
-	<li>
-		<a href="/company/privacy-policy" title="Privacy Policy" class="footer-link">Privacy Policy</a>	</li>
-	<li>
-		<a href="/company/tos" title="Terms and Conditions" class="footer-link">Terms &amp; Conditions</a>	</li>
-</ul>
-								</div>
-							</div>
-						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-footer" href="#collapseSocial">
-										Connect									</a>
-								</h4>
-							</div>
-							<div id="collapseSocial" class="panel-collapse collapse">
-								<div class="panel-body">
-									<ul class="social">
-	<li>
-		<a href="https://www.Pinterest.com/Blendtec" class="pinterest footer-social" title="Pinterest" target="_blank"><span>Pinterest</span></a>	</li>
-	<li>
-		<a href="http://www.facebook.com/Blendtec" class="facebook footer-social" title="Facebook" target="_blank"><span>Facebook</span></a>	</li>
-	<li>
-		<a href="http://www.youtube.com/blendteconsumer" class="youtube footer-social" title="YouTube" target="_blank"><span>You Tube</span></a>	</li>
-	<li>
-		<a href="https://twitter.com/Blendtec" class="twitter footer-social" title="Twitter" target="_blank"><span>Twitter</span></a>	</li>
-	<li>
-		<a href="https://plus.google.com/+Blendtec" class="google footer-social" rel="publisher" title="Google Plus" target="_blank"><span>Google Plus</span></a>	</li>
-	<li>
-		<a href="http://instagram.com/blendtec" class="instagram footer-social" rel="publisher" title="Instagram" target="_blank"><span>Instagram</span></a>	</li>
-</ul>
-								</div>
-							</div>
-						</div>
+
 					</div>
-				</div>
+				</div><!--end accordion-group-->
+
+				<div class="bt-accordion-group bt-accordion-group--customer-support">
+					<div class="bt-accordion-toggle">Customer Support<span class="arrow-pos"><span class="bt-accordion-toggle__icon icon icon_arrow"></span></span></div>
+					<div class="bt-accordion-content">
+						<ul class="bt-footer-links">
+	<li>
+		<a href="tel://1-800-748-5400" title="1-800-748-5400" class="footer-link">1-800-748-5400</a>	</li>
+	<li>
+		<a href="/company/contact" title="Contact us" class="footer-link">Contact Us</a>	</li>
+	<li>
+		<a href="/warranty" title="Warranty" class="footer-link">Warranty</a>	</li>
+	<li>
+		<a href="/company/return-policy" title="Return Policy" class="footer-link">Return Policy</a>	</li>
+	<li>
+		<a href="/faq" title="FAQs" class="footer-link">FAQs</a>	</li>
+</ul>					</div>
+				</div><!--end accordion-group-->
+
+				<div class="bt-accordion-group bt-accordion-group--resources">
+					<div class="bt-accordion-toggle">Resources<span class="arrow-pos"><span class="bt-accordion-toggle__icon icon icon_arrow"></span></span></div>
+					<div class="bt-accordion-content">
+						<ul class="bt-footer-links">
+	<li>
+		<a href="/registration" title="Product Registration" class="footer-link">Register a Product</a>	</li>
+	<li>
+		<a href="/support/guides" title="User Guides" class="footer-link">Product Guides</a>	</li>
+	<li>
+		<a href="/use-and-care" title="Use and Care" class="footer-link">Use &amp; Care</a>	</li>
+</ul>					</div>
+				</div><!--end accordion-group-->
+
+				<div class="bt-accordion-group bt-accordion-group--connect">
+					<div class="bt-accordion-toggle">Connect<span class="arrow-pos"><span class="bt-accordion-toggle__icon icon icon_arrow"></span></span></div>
+					<div class="bt-accordion-content">
+						
+<ul class="social-icons">
+	<li class="social-icon">
+		<a href="http://www.facebook.com/Blendtec">
+			<span class="icon icon_circle_facebook"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="https://twitter.com/Blendtec">
+			<span class="icon icon_circle_twitter"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="https://www.pinterest.com/Blendtec">
+			<span class="icon icon_circle_pinterest"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="http://www.youtube.com/blendteconsumer">
+			<span class="icon icon_circle_youtube"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="https://plus.google.com/+Blendtec">
+			<span class="icon icon_circle_google"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="http://www.blendtec.com/blog">
+			<span class="icon icon_circle_blog"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="http://instagram.com/blendtec">
+			<span class="icon icon_circle_instagram"></span>
+		</a>
+	</li>
+</ul>					</div>
+				</div><!--end accordion-group-->
+
+			</div><!--end accordion footer-->
+
+			<div class="bt-footer-badges">
+				<div class="bt-footer-badge">
+					<a href="/what-makes-blendtec-the-best" title="Superior Quality" class="footer-link">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
+
+	<g id="Layer_4">
+		<path fill="#EB222E" d="M835.6,746.9l38.5-67h-44.9V224.5c0-24.2-13-46.8-34-58.9L568.7,34.9c-20.6-11.9-47.3-11.9-68,0
+			L274.3,165.7c-21,12.1-34,34.7-34,58.9v289.3h-106l52.4,91.2l-52.5,90.1h106.1v117.9c0,16,12.9,33.2,34,45.4l226.4,130.7
+			c10.3,6,22.1,9.1,34,9.1c11.9,0,23.7-3.1,34-9.1l226.4-130.7c17-9.8,28.8-26.5,32.6-45.4h46.4L835.6,746.9z"></path>
+		<path fill="#FFFFFF" d="M730.6,288.1h-29.8l-9.2-28.4l-9.2,28.4h-29.8l24.1,17.5l-9.2,28.4l24.1-17.5l24.1,17.5l-9.2-28.4
+			L730.6,288.1z M561.6,206h-54.1c-1.3,0-2.3,1-2.3,2.3c0,1.3,1,2.3,2.3,2.3h54.1c1.3,0,2.3-1,2.3-2.3
+			C563.9,207.1,562.9,206,561.6,206z M561.6,225.5h-54.1c-1.3,0-2.3,1-2.3,2.3c0,1.3,1,2.3,2.3,2.3h54.1c1.3,0,2.3-1,2.3-2.3
+			C563.9,226.6,562.9,225.5,561.6,225.5z M643.4,134.1c-1.5-1.7-4.6-3.4-7.1-3.6l-18.8-2c-2.4-0.3-4.4-0.7-4.4-0.9
+			c0-0.3,1.1-0.5,2.4-0.5c1.3,0,4.1-0.9,6.2-2l3.7-1.9c2.1-1.1,3.9-2.6,3.9-3.3c0-0.7-1.7-1.3-3.9-1.3c-2.1,0-2.7-1-1.3-2.2
+			c1.4-1.2,2.6-2.8,2.6-3.5c0-0.8-2-1.4-4.5-1.4h-23.6c-2.5,0-4.5-0.5-4.5-1.1c0-0.6-2-1.1-4.5-1.1H480.9c-2.5,0-4.5,0.5-4.5,1.1
+			c0,0.6-2,1.1-4.5,1.1h-22.2c-2.5,0-4.5,0.6-4.5,1.3c0,0.7-0.8,4.5-0.8,4.5c-2.5,0-4.5,0.7-4.5,1.6c0,0.9,0.8,1.7,1.8,1.9
+			c1,0.2,3.4,1.4,5.4,2.7l7.8,5.4c1.9,1.3,3.6,4.2,3.8,6.4L469,308c0.1,2.2,0.5,5.3,0.8,7c0.3,1.7,8,4.9,8,7v26c0,2.2,0.5,4.9,1,6
+			c0.6,1.1,5.6,2,8,2h97.5c2.5,0,5.5-0.4,6.8-0.9c1.3-0.5,2.3-4.9,2.3-7.1v-26c0-2.2,8-5.3,8.2-7c0.2-1.7,0.4-4.9,0.5-7l7.7-126.6
+			c0.1-2.2,0.9-3.7,1.8-3.5c0.9,0.3,1.7,2.2,1.8,4.4l5.2,85.9c0.1,2.2,2.3,3.9,4.7,3.9h7.5c2.5,0,4.7-1.8,4.9-3.9l12.2-124.2
+			c0.2-2.2-0.8-5.4-2.3-7.1L643.4,134.1z M584.2,344c0,2.2-2,3.9-4.5,3.9h-36.6c0,0-11.1-0.2-11.3,0h-40.3c-2.5,0-4.5-1.8-4.5-3.9
+			v-21.6c0-2.2,2-3.8,4.5-3.6l37,1.7l2.3,0.5c0.9,0.1,1.5,0.9,1.5,1.7v10.1c0,1,0.8,1.7,1.7,1.7h4.5c1,0,1.7-0.8,1.7-1.7v-9.9
+			c0-0.8,0.5-1.5,1.3-1.7l2.8-0.7l35.3-1.6c2.5-0.2,4.5,1.5,4.5,3.6V344z M593.1,305.8c-0.1,2.2-0.5,3.9-0.7,4c-0.3,0-2.5,0.2-5,0.4
+			l-45.4,2.3V302h9.7c8,0,16.4-1.7,18.5-3.8c2.1-2.1,3.2-4.4,2.5-5.2c-0.7-0.7-2.8,0.1-4.6,1.9c-1.8,1.8-9.9,3.3-17.9,3.3H542v-1
+			c0-2.8-2.3-5.1-5-5.1h-1.2c-2.8,0-5,2.3-5,5.1v1h-4.3v-0.1h-8.1c-8,0-16.1-1.5-17.9-3.3c-1.8-1.8-3.9-2.7-4.6-1.9
+			c-0.7,0.7,0.4,3.1,2.5,5.2c2.1,2.1,10.4,3.8,18.5,3.8h4.8c0,0,0,0,0,0.1h9.2v10.5c-0.3,0-0.7,0-1,0l-45.8-2.3
+			c-2.5-0.2-4.7-0.3-5-0.4c-0.3,0-0.6-1.8-0.7-4l-9.7-159.7c-0.1-2.2,1.8-3.9,4.2-3.9H496c2.5,0,4.8,1.2,5.1,2.6
+			c0.3,1.4,2.6,2.6,5.1,2.6h58.1c2.5,0,4.8-1.2,5.1-2.6c0.3-1.4,2.7-2.6,5.1-2.6h23.9c2.5,0,4.4,1.8,4.2,3.9L593.1,305.8z
+			 M638.4,146.2L627.7,255c-0.2,2.2-0.5,2.2-0.6,0l-4.5-73.1c-0.1-2.2-0.3-5.2-0.4-6.7c-0.1-1.5-1.5-3.1-3.1-3.6
+			c-1.6-0.5-4.2-1.3-5.7-1.7c-1.5-0.4-2.6-2.6-2.5-4.7l1.6-25c0.1-2.2,2.3-3.7,4.7-3.5l13.8,1.4c2.5,0.3,5.2,1.3,6.1,2.3
+			C638.1,141.5,638.6,144.1,638.4,146.2z M620,403.6l-3.5-2c-3.5-2-7.8-6.7-9.4-10.4l-7.3-16.3c-1.7-3.7-6.3-6.7-10.4-6.7H479.8
+			c-4.1,0-8.7,3-10.4,6.7l-7.3,16.3c-1.7,3.7-5.9,8.4-9.4,10.4l-3.5,2c-3.5,2-7,6.9-7.7,10.9l-16.8,99.2h219.7l-16.8-99.2
+			C627,410.5,623.5,405.6,620,403.6z M590.8,408.3H478.4c-5.4,0-8.2-4.1-6.3-9.1l4.1-10.7c1.9-5,7.9-9.1,13.3-9.1h90.1
+			c5.4,0,11.4,4.1,13.3,9.1l4.1,10.7C599,404.2,596.1,408.3,590.8,408.3z M391,288.1l-9.2-28.4l-9.2,28.4h-29.8l24.1,17.5l-9.2,28.4
+			l24.1-17.5l24.1,17.5l-9.2-28.4l24.1-17.5H391z M561.6,264.6h-54.1c-1.3,0-2.3,1-2.3,2.3c0,1.3,1,2.3,2.3,2.3h54.1
+			c1.3,0,2.3-1,2.3-2.3C563.9,265.6,562.9,264.6,561.6,264.6z M561.6,245h-54.1c-1.3,0-2.3,1-2.3,2.3c0,1.3,1,2.3,2.3,2.3h54.1
+			c1.3,0,2.3-1,2.3-2.3C563.9,246.1,562.9,245,561.6,245z"></path>
+		<path fill="#FFFFFF" d="M812.8,678.8V530.2H162.5l43.1,75l-42.9,73.7H812.8z M845.8,696.3H256.6v100.5h589.1l-29-49.8L845.8,696.3z
+			 M256.3,813L256.3,813c0,8.3,8,21.2,26,31.6l62.6,36.1L462.1,813H256.3z M494.8,813l-133.6,77.1l79.1,45.7L652.9,813H494.8z
+			 M456.6,945.3l52.1,30.1c7.9,4.6,16.9,7,26,7c9.1,0,18.1-2.4,26-7l226.4-130.7c12-6.9,20.4-18.5,23.9-31.6H685.6L456.6,945.3z"></path>
+		<path fill="#595A5C" d="M285.2,723.7h14.2v47.9h5.2v-47.9h14.2v-5.1h-33.6V723.7z M341.9,718.2c-5.1,0-9.2,1.9-12.3,5.2
+			c-4.6,5-4.9,9.6-4.9,21.7c0,12.1,0.3,16.7,4.9,21.7c3,3.3,7.2,5.2,12.3,5.2c5.1,0,9.2-1.9,12.2-5.2c4.6-5,5-9.6,5-21.7
+			c0-12.1-0.3-16.7-5-21.7C351.1,720.2,347,718.2,341.9,718.2z M350.4,763.3c-2.3,2.5-5.2,3.7-8.5,3.7c-3.3,0-6.2-1.3-8.5-3.7
+			c-3.1-3.4-3.4-7.3-3.4-18.1c0-10.9,0.3-14.7,3.4-18.1c2.3-2.5,5.2-3.7,8.5-3.7c3.3,0,6.2,1.3,8.5,3.7c3.1,3.4,3.4,7.3,3.4,18.1
+			C353.9,756,353.5,759.9,350.4,763.3z M389.7,718.7h-18.3v52.9h5.2v-21.8h13c8.9,0,15.2-6.2,15.2-15.6
+			C404.9,724.8,398.6,718.7,389.7,718.7z M389.3,744.8h-12.6v-21h12.6c6.1,0,10.3,3.5,10.3,10.5C399.6,741.2,395.4,744.8,389.3,744.8
+			z M427,723.7h14.2v47.9h5.2v-47.9h14.2v-5.1H427V723.7z M483.8,718.2c-5.1,0-9.2,1.9-12.3,5.2c-4.6,5-4.9,9.6-4.9,21.7
+			c0,12.1,0.3,16.7,4.9,21.7c3,3.3,7.2,5.2,12.3,5.2c5.1,0,9.2-1.9,12.2-5.2c4.6-5,5-9.6,5-21.7c0-12.1-0.3-16.7-5-21.7
+			C492.9,720.2,488.9,718.2,483.8,718.2z M492.2,763.3c-2.3,2.5-5.2,3.7-8.5,3.7c-3.3,0-6.2-1.3-8.5-3.7c-3.1-3.4-3.4-7.3-3.4-18.1
+			c0-10.9,0.3-14.7,3.4-18.1c2.3-2.5,5.2-3.7,8.5-3.7c3.3,0,6.2,1.3,8.5,3.7c3.1,3.4,3.4,7.3,3.4,18.1
+			C495.7,756,495.3,759.9,492.2,763.3z M556.1,744.4c4.1-1.6,7.2-6,7.2-11.6c0-8.8-5.9-14.1-14.5-14.1h-18.5v52.9h19.1
+			c8.7,0,14.6-5.1,14.6-14.6C564.1,750.6,560.8,746.3,556.1,744.4z M535.7,723.7h12.8c5.4,0,9.7,2.8,9.7,9.1c0,6.3-4.2,9.2-9.7,9.2
+			h-12.8V723.7z M549,766.5h-13.4v-19.4H549c6.1,0,9.9,3.7,9.9,9.7S555.1,766.5,549,766.5z M591.8,718.2c-5.1,0-9.2,1.9-12.3,5.2
+			c-4.6,5-4.9,9.6-4.9,21.7c0,12.1,0.3,16.7,4.9,21.7c3,3.3,7.2,5.2,12.3,5.2c5.1,0,9.2-1.9,12.2-5.2c4.6-5,5-9.6,5-21.7
+			c0-12.1-0.3-16.7-5-21.7C601,720.2,596.9,718.2,591.8,718.2z M600.3,763.3c-2.3,2.5-5.2,3.7-8.5,3.7c-3.3,0-6.2-1.3-8.5-3.7
+			c-3.1-3.4-3.4-7.3-3.4-18.1c0-10.9,0.3-14.7,3.4-18.1c2.3-2.5,5.2-3.7,8.5-3.7c3.3,0,6.2,1.3,8.5,3.7c3.1,3.4,3.4,7.3,3.4,18.1
+			C603.7,756,603.4,759.9,600.3,763.3z M614.9,723.7h14.2v47.9h5.2v-47.9h14.2v-5.1h-33.6V723.7z M652.7,723.7h14.2v47.9h5.2v-47.9
+			h14.2v-5.1h-33.6V723.7z M709.4,718.2c-5.1,0-9.2,1.9-12.3,5.2c-4.6,5-4.9,9.6-4.9,21.7c0,12.1,0.3,16.7,4.9,21.7
+			c3,3.3,7.2,5.2,12.3,5.2c5.1,0,9.2-1.9,12.2-5.2c4.6-5,5-9.6,5-21.7c0-12.1-0.3-16.7-5-21.7C718.6,720.2,714.5,718.2,709.4,718.2z
+			 M717.9,763.3c-2.3,2.5-5.2,3.7-8.5,3.7c-3.3,0-6.2-1.3-8.5-3.7c-3.1-3.4-3.4-7.3-3.4-18.1c0-10.9,0.3-14.7,3.4-18.1
+			c2.3-2.5,5.2-3.7,8.5-3.7c3.3,0,6.2,1.3,8.5,3.7c3.1,3.4,3.4,7.3,3.4,18.1C721.3,756,721,759.9,717.9,763.3z M775.7,718.7
+			l-15.6,37.5l-16-37.5h-5.2v52.9h5.2v-40.2l13.6,31.9h4.5l13.4-31.9v40.2h5.2v-52.9H775.7z"></path>
+		<path fill="#595A5C" d="M256.5,595.7l-10.4-1.6c-3.7-0.5-6.2-1.7-7.9-3.3c-1.8-1.7-2.4-3.9-2.4-6.2c0-6,4.3-11,13.3-11
+			c5.7,0,12.5,0.7,17.8,6l10.8-10.6c-7.5-7.2-16.1-10.1-28.1-10.1c-18.8,0-30.3,10.9-30.3,26.4c0,7.3,2.1,13.1,6.2,17.1
+			c3.9,3.8,9.2,6.1,16.9,7.2l10.4,1.6c4.4,0.6,6.1,1.3,7.8,2.9c1.8,1.8,2.7,4.3,2.7,7.2c0,7-5.4,10.9-15.5,10.9
+			c-7.9,0-15.4-1.8-20.9-7.3l-11,11c8.5,8.7,18.6,11.5,31.8,11.5c18.3,0,32.3-9.5,32.3-26.4c0-7.8-2.1-14.1-6.7-18.3
+			C269.3,598.8,264.5,596.8,256.5,595.7z M341.7,616.1c0,10-6,16-15.2,16c-9.2,0-15-6-15-16v-56.6h-17v57.2c0,18.4,14.2,30.5,32,30.5
+			c17.8,0,32-12.1,32-30.5v-57.2h-16.9V616.1z M411.2,559.5h-33.7v87h17v-32.7h16.7c18.1,0,28.7-12.3,28.7-27.1
+			C439.9,571.8,429.3,559.5,411.2,559.5z M410.3,598.5h-15.9v-23.8h15.9c7.7,0,12.6,4.9,12.6,12C422.9,593.7,418,598.5,410.3,598.5z
+			 M454.2,646.5h57.3v-15.1h-40.3v-21.1h34.3V595h-34.3v-20.4h40.3v-15.1h-57.3V646.5z M590.4,586.1c0-14.5-10.5-26.6-28.2-26.6
+			h-34.1v87h17v-34.7h12.2l17,34.7H594L574.5,609C583,605.9,590.4,598.3,590.4,586.1z M561.1,597.6h-16v-23h16
+			c7.5,0,12.3,4.8,12.3,11.5S568.5,597.6,561.1,597.6z M608,646.5h17v-87h-17V646.5z M674.5,558.8c-10,0-17.5,3.3-23.3,9.2
+			c-8.7,8.7-8.8,18.4-8.8,35.1c0,16.6,0.1,26.4,8.8,35.1c5.9,5.9,13.3,9.2,23.3,9.2c10,0,17.3-3.3,23.2-9.2
+			c8.7-8.7,8.9-18.4,8.9-35.1c0-16.6-0.2-26.4-8.9-35.1C691.8,562.1,684.5,558.8,674.5,558.8z M685.3,627.3
+			c-2.4,2.8-6.2,4.8-10.9,4.8c-4.6,0-8.4-2-11-4.8c-3.2-3.7-4.2-7.7-4.2-24.3c0-16.6,1-20.8,4.2-24.4c2.6-2.8,6.4-4.6,11-4.6
+			c4.6,0,8.4,1.8,10.9,4.6c3.2,3.7,4.3,7.8,4.3,24.4C689.6,619.6,688.5,623.6,685.3,627.3z M770.4,609c8.4-3.1,15.9-10.6,15.9-22.8
+			c0-14.5-10.5-26.6-28.2-26.6h-34.1v87h17v-34.7h12.2l17,34.7h19.7L770.4,609z M756.9,597.6h-16v-23h16c7.5,0,12.3,4.8,12.3,11.5
+			S764.4,597.6,756.9,597.6z"></path>
+	</g>
+
+</svg></a>				</div>
+				<div class="bt-footer-badge">
+					<a href="/warranty" title="8 Year Warranty" class="footer-link">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
+
+	<g id="Layer_3">
+		<path display="inline" fill="#EB222E" d="M937,808.6l-52.8-90.5l52.7-91.7H830.3V227.6c0-24.3-13.1-47-34.2-59.2L568.6,37
+			c-20.7-12-47.6-12-68.3,0L272.6,168.4c-21.1,12.2-34.2,34.8-34.2,59.2v270.2h-44.2l41.5,72.2l-41.6,71.3h44.3v167.2h0.6
+			c2.7,20.9,15.1,39.7,33.6,50.4l227.6,131.4c10.4,6,22.2,9.2,34.2,9.2c12,0,23.8-3.2,34.2-9.2L796.2,859
+			c18.5-10.7,30.9-29.5,33.6-50.4H937z"></path>
+		<path display="inline" fill="#FFFFFF" d="M383.6,459.7c0,14.3,1.8,27.7,5,40.1h76.1c-7-12.1-11.1-26.2-11.1-41.5
+			c0-45.3,35-81.7,80.4-81.7c45.3,0,80.4,36.4,80.4,81.7c0,15.3-4.1,29.4-11.1,41.5h76.7c3.3-12.4,5.1-25.8,5.1-40.1
+			c0-58.4-33-94.1-67.3-114.7c31.6-19.2,59.1-53.6,59.1-105.1c0-81.7-63.2-135.3-142.9-135.3c-79.7,0-142.2,53.6-142.2,135.3
+			c0,51.5,27.5,85.9,59.1,105.1C416.6,365.6,383.6,401.3,383.6,459.7z M534.1,167.1c42.6,0,72.8,32.3,72.8,74.9
+			c0,43.3-30.2,74.2-72.8,74.2c-42.6,0-72.1-30.9-72.1-74.2C461.9,199.4,491.5,167.1,534.1,167.1z"></path>
+		<path display="inline" fill="#FFFFFF" d="M280.8,844.8l227.6,131.4c15.8,9.1,36.2,9.1,51.9,0L788,844.8c13.4-7.7,22.4-21,25.1-36
+			H255.8C258.4,823.8,267.5,837.1,280.8,844.8z M813.9,625V514.2H222.6l32.1,55.9l-32,54.9H813.9z M908.5,642.8H254.9v149.4h653.6
+			l-43.2-74.1L908.5,642.8z"></path>
+		<path display="inline" fill="#5E5F5F" d="M364.5,681.6L353,728.1l-13.5-46.5h-10.8l-13.5,46.5l-11.4-46.5h-15l19.7,73.8h12
+			l13.6-44.8l13.6,44.8h12l19.8-73.8H364.5z M405.4,681.6l-26.8,73.8h15l4.5-13h26.2l4.3,13h15l-26.9-73.8H405.4z M402.1,730.1
+			l9.3-26.8l9,26.8H402.1z M505.6,704.1c0-12.3-8.9-22.6-23.9-22.6h-28.9v73.8h14.4v-29.4h10.4l14.4,29.4h16.7l-16.5-31.8
+			C499.2,720.9,505.6,714.5,505.6,704.1z M480.7,713.9h-13.6v-19.5h13.6c6.3,0,10.5,4,10.5,9.7S487,713.9,480.7,713.9z M573.3,704.1
+			c0-12.3-8.9-22.6-23.9-22.6h-28.9v73.8h14.4v-29.4h10.4l14.4,29.4h16.7l-16.5-31.8C567,720.9,573.3,714.5,573.3,704.1z
+			 M548.5,713.9h-13.6v-19.5h13.6c6.3,0,10.5,4,10.5,9.7S554.8,713.9,548.5,713.9z M607,681.6l-26.8,73.8h15l4.5-13h26.2l4.4,13h15
+			l-26.9-73.8H607z M603.7,730.1l9.3-26.8l9,26.8H603.7z M696.4,726.7l-29.2-45.2h-12.8v73.8h14.4V710l29.2,45.3h12.8v-73.8h-14.4
+			V726.7z M722.5,694.4h19.3v60.9h14.4v-60.9h19.3v-12.8h-52.9V694.4z M822.9,681.6l-13.6,29.7l-13.8-29.7h-15.6l22.2,43.5v30.2h14.3
+			v-30.2l22.2-43.5H822.9z"></path>
+		<path display="inline" fill="#595A5C" d="M548.3,873.1l-13.9-42.8l-13.9,42.8h-45l36.4,26.5L498,942.4l36.4-26.5l36.4,26.5
+			l-13.9-42.8l36.4-26.5H548.3z M668.9,858.8h-22l-6.8-20.9l-6.8,20.9h-22l17.8,12.9l-6.8,20.9l17.8-12.9l17.8,12.9l-6.8-20.9
+			L668.9,858.8z M429.3,858.8l-6.8-20.9l-6.8,20.9h-22l17.8,12.9l-6.8,20.9l17.8-12.9l17.8,12.9l-6.8-20.9l17.8-12.9H429.3z"></path>
+		<path display="inline" fill="#5E5F5F" d="M441.7,569.9l-17.3-35.2h-8.5l21.9,43.2v30.4h7.8v-30.4l21.7-43.2h-8.5L441.7,569.9z
+			 M478.8,608.2h45.6v-7h-37.8v-26.5h32.2v-7h-32.2v-25.9h37.8v-7h-45.6V608.2z M558.4,534.7l-27.1,73.5h8.4l5.9-16.6h32.1l5.9,16.6
+			h8.4L565,534.7H558.4z M548,584.7l13.8-38.8l13.6,38.8H548z M637.8,574.8c9.5-2,16-9,16-19.7c0-12.7-9-20.4-21.8-20.4h-28.2v73.5
+			h7.8v-32.6h17.7l16.7,32.6h9.2L637.8,574.8z M611.6,568.6v-26.9h19.6c8.6,0,14.7,4.5,14.7,13.5c0,9-6.1,13.4-14.7,13.4H611.6z"></path>
+	</g>	
+
+</svg></a>				</div>
+				<div class="bt-footer-badge">
+					<a href="/where-are-blendtec-blenders-made" title="Proudly Engineered in the USA" class="footer-link"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
+
+	<g id="Layer_2">
+		<path fill="#EB222E" d="M795.9,167.7L568.2,36.2c-20.8-12-47.6-12-68.4,0L272.1,167.7c-21.1,12.2-34.2,34.9-34.2,59.2v572.6
+			c0,24.3,13.1,47,34.2,59.2l227.7,131.5c9.9,5.7,21.2,8.8,32.6,9.1l1.5,1.3l1.5-1.3c11.5-0.3,22.7-3.4,32.6-9.1l227.7-131.5
+			c21.1-12.2,34.2-34.9,34.2-59.2V226.9C830.1,202.5,817,179.8,795.9,167.7z"></path>
+		<path fill="#FFFFFF" d="M275.8,184.9c-13.4,9.7-21.5,25.3-21.5,42v250.3l263.6-152.2L275.7,185.1L275.8,184.9z M291.6,175.3
+			l522.1,301.8V347.3L405.5,109.6L291.6,175.3z M787.7,181.9L560,50.4c-7.9-4.6-16.9-7-26-7c-9.1,0-18.1,2.4-26,7l-86.1,49.7
+			l391.8,228.1V226.9C813.7,208.4,803.7,191.1,787.7,181.9z"></path>
+		<polygon fill="#595A5C" points="340.5,257.1 324.4,306.6 272.3,306.6 314.4,337.3 298.3,386.8 340.5,356.2 382.6,386.8 
+			366.5,337.3 408.7,306.6 356.6,306.6 	"></polygon>
+		<g>
+			<path fill="#FFFFFF" d="M340.4,474.3h-28.3v74.5h11.3v-29.4h17c14.5,0,23.9-9.5,23.9-22.5C364.3,483.9,355,474.3,340.4,474.3z
+				 M339.8,509.4h-16.3v-24.9h16.3c8,0,13.2,4.5,13.2,12.5C353,504.7,347.8,509.4,339.8,509.4z M430,496.1c0-12.7-9-21.8-23.1-21.8
+				H378v74.5h11.3v-31.4h14.1l15.7,31.4h13.2l-17.2-33C423.5,513.5,430,506.7,430,496.1z M389.3,507.8v-23.3H406
+				c7.5,0,12.7,4.4,12.7,11.7c0,7.3-5.1,11.6-12.7,11.6H389.3z M469.6,473.7c-8.2,0-14.4,2.7-19.3,7.5c-7.3,7.3-7.5,14.8-7.5,30.4
+				c0,15.6,0.2,23,7.5,30.4c4.8,4.8,11.1,7.5,19.3,7.5c8.2,0,14.4-2.7,19.3-7.5c7.3-7.3,7.5-14.8,7.5-30.4c0-15.6-0.2-23-7.5-30.4
+				C484,476.4,477.7,473.7,469.6,473.7z M480.7,534.7c-2.8,2.9-6.6,4.7-11.1,4.7c-4.5,0-8.3-1.8-11.1-4.7c-3.7-4-4.4-8.4-4.4-23.1
+				s0.7-19.3,4.4-23.2c2.8-2.9,6.6-4.6,11.1-4.6c4.5,0,8.3,1.7,11.1,4.6c3.8,3.9,4.4,8.5,4.4,23.2S484.4,530.8,480.7,534.7z
+				 M554.1,523.2c0,9.9-6.2,16.1-15.5,16.1s-15.4-6.2-15.4-16.1v-48.9H512v49.4c0,15.4,11.5,25.7,26.7,25.7s26.8-10.4,26.8-25.7
+				v-49.4h-11.3V523.2z M609.9,474.3h-26.2v74.5h26.2c9.3,0,15.9-2.9,21.1-9.4c5.4-6.7,5.6-15.9,5.6-27.8s-0.2-21.1-5.6-27.8
+				C625.8,477.2,619.2,474.3,609.9,474.3z M621.4,533.6c-3.1,3.7-7.4,5.1-12.8,5.1h-13.6v-54.4h13.6c5.3,0,9.6,1.5,12.8,5.1
+				c3.7,4.1,4,11,4,22.1C625.4,522.6,625.1,529.6,621.4,533.6z M664.7,474.3h-11.3v74.5h47.2v-10.2h-35.9V474.3z M739.5,474.3
+				L723.9,507l-15.6-32.8h-12.3l22.3,43.9v30.7h11.3v-30.7l22.3-43.9H739.5z"></path>
+			<path fill="#FFFFFF" d="M308.4,631l33.6,0.3l0.1-7.2l-25.6-0.2l0.1-15.8l21.8,0.2l0.1-7.1l-21.8-0.2l0.1-15.3l25.6,0.2l0.1-7.2
+				l-33.6-0.3L308.4,631z M384.5,615.9l-24-37.1l-7.3-0.1l-0.4,52.5l8,0.1l0.3-36.9l24,37.1l7.3,0.1l0.4-52.5l-8-0.1L384.5,615.9z
+				 M423.2,610.3l11.2,0.1l0,2.9c0,3.4-0.7,6-2.6,8.2c-2.1,2.4-5.2,3.7-8.6,3.7c-3.2,0-5.8-1.2-7.8-3.3c-2.6-2.8-3.1-6-3-16.4
+				c0.1-10.4,0.6-13.6,3.2-16.3c2-2.1,4.7-3.2,7.8-3.2c5.9,0,9.7,3.5,11,9.2l8,0.1c-1.3-8.9-7.8-16.3-18.9-16.4
+				c-5.8,0-10.2,1.8-13.6,5.2c-5.1,5.1-5.4,10.4-5.5,21.3c-0.1,11,0.1,16.2,5.2,21.4c3.4,3.4,7.8,5.4,13.5,5.4
+				c5.5,0,10.6-1.8,14.5-5.9c3.5-3.7,4.8-7.9,4.8-14.8l0.1-8l-19.2-0.1L423.2,610.3z M453.9,632.1l8,0.1l0.4-52.5l-8-0.1L453.9,632.1
+				z M507.3,616.9l-24-37.1l-7.3-0.1l-0.4,52.5l8,0.1l0.3-36.9l24,37.1l7.3,0.1l0.4-52.5l-8-0.1L507.3,616.9z M528.9,632.7l33.6,0.3
+				l0.1-7.2l-25.6-0.2l0.1-15.8l21.8,0.2l0.1-7.1l-21.8-0.2l0.1-15.3l25.6,0.2l0.1-7.2l-33.6-0.3L528.9,632.7z M573.3,633l33.6,0.3
+				l0.1-7.2l-25.6-0.2l0.1-15.8l21.8,0.2l0.1-7.1l-21.8-0.2l0.1-15.3l25.6,0.2l0.1-7.2l-33.6-0.3L573.3,633z M654.7,596.4
+				c0.1-8.9-6.2-15.4-16.2-15.5l-20.4-0.2l-0.4,52.5l8,0.1l0.2-22.1l10,0.1l10.9,22.2l9.3,0.1l-11.9-23.3
+				C650,608.7,654.7,604,654.7,596.4z M626,604.5l0.1-16.4l11.8,0.1c5.3,0,8.9,3.2,8.9,8.3c0,5.2-3.7,8.2-9,8.1L626,604.5z
+				 M666.1,633.7l33.6,0.2l0.1-7.2l-25.6-0.2l0.1-15.8L696,611l0.1-7.1l-21.8-0.2l0.1-15.3l25.6,0.2l0.1-7.2l-33.6-0.2L666.1,633.7z
+				 M744.2,588.4c-3.7-4.6-8.3-6.7-14.8-6.7l-18.4-0.1l-0.4,52.5l18.4,0.1c6.6,0,11.2-2,14.9-6.5c3.9-4.7,4.1-11.2,4.1-19.6
+				C748.1,599.6,748,593.1,744.2,588.4z M740.1,608c-0.1,7.8-0.3,12.7-2.9,15.5c-2.2,2.6-5.3,3.6-9,3.5l-9.6-0.1l0.3-38.3l9.6,0.1
+				c3.8,0,6.8,1.1,9,3.7C740,595.3,740.1,600.2,740.1,608z"></path>
+			<path fill="#FFFFFF" d="M403,787.6c0,21.2-12.7,33.9-32.1,33.9c-19.4,0-31.8-12.7-31.8-33.9V667.8h-36v121.2
+				c0,39.1,30,64.7,67.8,64.7c37.8,0,67.8-25.6,67.8-64.7V667.8H403V787.6z M548.5,744.4l-22-3.4c-7.8-1-13.2-3.6-16.8-7
+				c-3.9-3.6-5.2-8.3-5.2-13.2c0-12.7,9.1-23.3,28.2-23.3c12.2,0,26.4,1.6,37.8,12.7l22.8-22.5c-15.8-15.3-34.2-21.5-59.6-21.5
+				c-39.9,0-64.2,23-64.2,55.9c0,15.5,4.4,27.7,13.2,36.2c8.3,8,19.4,12.9,35.7,15.3l22,3.4c9.3,1.3,12.9,2.8,16.6,6.2
+				c3.9,3.9,5.7,9.1,5.7,15.3c0,14.8-11.4,23-32.9,23c-16.8,0-32.6-3.9-44.3-15.5l-23.3,23.3c18.1,18.4,39.4,24.3,67.3,24.3
+				c38.8,0,68.4-20.2,68.4-55.9c0-16.6-4.4-29.8-14.2-38.8C575.7,751.1,565.3,746.7,548.5,744.4z M701.8,667.8h-28.2l-67.1,184.3H644
+				l11.1-32.6h65.5l10.9,32.6h37.5L701.8,667.8z M665.3,789.2l23.3-67.1l22.5,67.1H665.3z"></path>
+		</g>
+	</g>
+
+</svg></a>				</div>
+				<div class="bt-footer-badge">
+					<a href="/company/return-policy" title="30 Day Guarantee" class="footer-link">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
+
+	<g id="Layer_1">
+		<g display="inline">
+			<path fill="#EB222E" d="M827.6,490.4h-0.5V219c0-23.4-13-45.2-33.9-56.9L567.5,36.2c-20.5-11.4-46.9-11.4-67.4,0L274.3,162.1
+				c-20.9,11.7-33.9,33.5-33.9,56.9v271.4h-43.6l41.1,71.6l-41.2,70.8h43.8v172.9c0,23.4,13,45.2,33.9,56.9l225.7,125.9
+				c10.2,5.7,21.9,8.7,33.7,8.7c11.8,0,23.5-3,33.7-8.7l225.7-125.9c20.9-11.7,33.9-33.5,33.9-56.9V632.8h0.5V490.4z"></path>
+			<path fill="#FFFFFF" d="M471.7,337.4c22.4-11.9,39-32.9,39-69.5c0-57.1-43.3-97.1-103.3-97.1c-57.1,0-102.4,36.2-103.8,96.7h61.9
+				c1.4-25.7,18.6-40.9,41.9-40.9c22.4,0,41.4,14.8,41.4,43.3c0,23.8-12.9,42.4-42.9,42.4h-9V366h9c30.5,0,47.6,18.6,47.6,46.7
+				c0,30.5-19,47.1-45.7,47.1c-24.3,0-45.2-13.8-46.2-44.3h-61.9c0.5,34,12.7,58.4,31.3,74.6h152.7c19.4-16.8,31.7-41.9,31.7-75.5
+				C515.5,373.6,495.9,350.3,471.7,337.4z M648.8,170.8c-55.2,0-103.3,36.2-103.3,100.9v142.8c0,32.9,12.4,58.4,31.8,75.5H720
+				c19.3-17.2,31.6-42.6,31.6-75.5V271.7C751.6,206.9,704,170.8,648.8,170.8z M689.7,414.1c0,28.6-16.2,45.7-40.9,45.7
+				c-24.8,0-41.4-17.1-41.4-45.7V272.7c0-28.6,16.7-46.2,41.4-46.2c24.8,0,40.9,17.6,40.9,46.2V414.1z"></path>
+			<path fill="#FFFFFF" d="M256.4,805.7c0,17.6,9.8,34.1,25.7,42.9l225.7,125.9c15.7,8.8,36.1,8.8,51.8,0l225.7-125.9
+				c15.9-8.8,25.7-25.3,25.7-42.9V633H256.4V805.7z M224.9,506.7l31.8,55.4L225,616.5h586.3V506.7H224.9z"></path>
+			<path fill="#595A5C" d="M465.6,526.1h-26.4v73.1h26.4c10,0,16.8-3.4,22.1-10.7c4.5-6.3,4.6-13.8,4.6-25.9s-0.1-19.6-4.6-25.9
+				C482.5,529.5,475.6,526.1,465.6,526.1z M475.1,582c-2.4,3-5.9,4.5-10.7,4.5h-10.9v-47.6h10.9c4.8,0,8.3,1.5,10.7,4.5
+				c2.7,3.2,3,7.8,3,19.3C478.1,574.2,477.7,578.8,475.1,582z M524.4,526.1l-26.6,73.1h14.9l4.4-12.9h26l4.3,12.9h14.9l-26.7-73.1
+				H524.4z M521.2,574.3l9.2-26.6l8.9,26.6H521.2z M601.6,526.1l-13.4,29.5l-13.7-29.5H559l22,43.1v30h14.2v-30l22-43.1H601.6z"></path>
+			<path fill="#595A5C" d="M547.9,872l-13.8-42.5L520.3,872h-44.7l36.1,26.3L498,940.7l36.1-26.3l36.1,26.3l-13.8-42.5l36.1-26.3
+				H547.9z M667.5,857.8h-21.8l-6.8-20.8l-6.7,20.8h-21.8l17.7,12.8l-6.7,20.8l17.7-12.8l17.7,12.8l-6.8-20.8L667.5,857.8z
+				 M429.9,857.8l-6.8-20.8l-6.7,20.8h-21.8l17.7,12.8l-6.7,20.8l17.7-12.8l17.7,12.8l-6.7-20.8l17.7-12.8H429.9z"></path>
+			<path fill="#595A5C" d="M333.1,705.3l-17-37.1h-5.6v52.2h5.6v-39.7l14.5,31.5h4.8l14.3-31.5v39.7h5.6v-52.2h-5.6L333.1,705.3z
+				 M386.6,667.8c-5.4,0-9.8,1.9-13.1,5.1c-4.9,4.9-5.2,9.5-5.2,21.4s0.3,16.5,5.2,21.4c3.2,3.2,7.6,5.1,13.1,5.1
+				c5.4,0,9.8-1.9,13-5.1c4.9-4.9,5.3-9.5,5.3-21.4s-0.4-16.5-5.3-21.4C396.4,669.7,392,667.8,386.6,667.8z M395.6,712.2
+				c-2.4,2.4-5.5,3.7-9,3.7c-3.5,0-6.6-1.2-9-3.7c-3.3-3.4-3.7-7.2-3.7-17.9s0.4-14.5,3.7-17.9c2.4-2.4,5.5-3.7,9-3.7
+				c3.5,0,6.6,1.2,9,3.7c3.3,3.4,3.7,7.2,3.7,17.9S398.9,708.9,395.6,712.2z M451,710l-27.7-41.8H418v52.2h5.6v-41.9l27.7,41.9h5.3
+				v-52.2H451V710z M471.7,720.5h32.4v-5h-26.9v-18.9h22.9v-5h-22.9v-18.4h26.9v-5h-32.4V720.5z M527.1,693.2l-12.3-25h-6l15.6,30.7
+				v21.6h5.6v-21.6l15.4-30.7h-6L527.1,693.2z M548.5,703.1h20.1v-4.9h-20.1V703.1z M609.1,693.6c4.4-1.6,7.7-5.9,7.7-11.4
+				c0-8.7-6.3-13.9-15.4-13.9h-19.7v52.2h20.3c9.2,0,15.6-5,15.6-14.5C617.6,699.8,614.1,695.4,609.1,693.6z M587.3,673.2H601
+				c5.8,0,10.3,2.8,10.3,9c0,6.2-4.5,9.1-10.3,9.1h-13.6V673.2z M601.6,715.5h-14.2v-19.1h14.2c6.5,0,10.5,3.7,10.5,9.5
+				S608,715.5,601.6,715.5z M642.9,668.2l-19.2,52.2h5.9l4.2-11.8h22.8l4.2,11.8h5.9l-19.2-52.2H642.9z M635.5,703.8l9.8-27.6
+				l9.7,27.6H635.5z M690.8,672.8c6.5,0,11,4.1,12.4,10.6h5.7c-1.8-9.8-8.7-15.6-18.1-15.6c-5.4,0-9.8,1.9-13.1,5.1
+				c-4.9,4.9-5.2,9.5-5.2,21.4s0.3,16.5,5.2,21.4c3.2,3.2,7.6,5.1,13.1,5.1c9.4,0,16.3-5.8,18.1-15.6h-5.6c-1.4,6.5-6,10.6-12.5,10.6
+				c-3.5,0-6.6-1.2-9-3.7c-3.3-3.4-3.7-7.2-3.7-17.9s0.4-14.5,3.7-17.9C684.1,674,687.2,672.8,690.8,672.8z M741.5,688.4l16.4-20.2
+				h-6.8l-24.4,30v-30h-5.6v52.2h5.6v-14.6l11-13.2l15.9,27.8h6.6L741.5,688.4z"></path>
+			<path fill="#595A5C" d="M325.6,779.8h10.8v2.2c0,3.1-0.7,5.7-2.6,7.9c-1.8,2.1-4.6,3.3-8.2,3.3c-3.1,0-5.6-1.2-7.4-3.1
+				c-2.2-2.5-2.8-5.4-2.8-16.6c0-11.2,0.7-14.1,2.8-16.5c1.7-1.9,4.2-3.1,7.4-3.1c5.9,0,9.3,3,10.6,8.6h11.6
+				c-1.6-9.9-8.4-18.8-22.2-18.8c-6.7,0-11.7,2.2-15.7,6.2c-5.9,5.9-6,12.5-6,23.7c0,11.2,0.1,17.9,6,23.7c4.1,4,9,6.2,15.7,6.2
+				c6.3,0,11.7-1.6,16.6-6.7c4.3-4.5,5.6-9.4,5.6-17.9v-8.6h-22.2V779.8z M390.5,782.2c0,6.8-4.1,10.8-10.3,10.8
+				c-6.2,0-10.2-4.1-10.2-10.8V744h-11.5v38.7c0,12.5,9.6,20.7,21.7,20.7c12.1,0,21.7-8.2,21.7-20.7V744h-11.4V782.2z M429.7,744
+				l-21.4,58.9h12l3.6-10.4h20.9l3.5,10.4h12L438.7,744H429.7z M427,782.7l7.4-21.4l7.2,21.4H427z M509.6,762c0-9.8-7.1-18-19.1-18
+				h-23.1v58.9h11.5v-23.5h8.3l11.5,23.5H512l-13.1-25.4C504.6,775.4,509.6,770.3,509.6,762z M489.8,769.8h-10.8v-15.5h10.8
+				c5,0,8.4,3.2,8.4,7.8C498.1,766.5,494.8,769.8,489.8,769.8z M536.5,744L515,802.8h12l3.6-10.4h20.9l3.5,10.4h12L545.5,744H536.5z
+				 M533.8,782.7l7.4-21.4l7.2,21.4H533.8z M607.8,780l-23.3-36h-10.2v58.9h11.5v-36.1l23.3,36.1h10.3V744h-11.5V780z M628.6,754.2
+				H644v48.6h11.5v-48.6h15.4V744h-42.2V754.2z M680.1,802.8h38.8v-10.2h-27.3v-14.3h23.2V768h-23.2v-13.8h27.3V744h-38.8V802.8z
+				 M768.9,754.2V744h-38.8v58.9h38.8v-10.2h-27.3v-14.3h23.2V768h-23.2v-13.8H768.9z"></path>
+		</g>
+	</g>
+
+</svg></a>				</div>
 			</div>
 		</div>
+	</div>
+	
 	<div class="container top-level copyright">
 		<div class="row">
-			<div class="col-md-12">
-				<p>
-					© 2015 Blendtec Inc. <br>
-						All Rights Reserved.					 <a id="pi" class="hide-print" name="pi" title="Pizza.net">
+			<div class="col-sm-6">
+				<p><span class="copyright--bold">
+					Copyright © 2016 Blendtec Inc. All Rights Reserved.					</span>
+
+					<a id="pi" class="hide-print" name="pi" title="Pizza.net">
 						π </a></p><div id="debugPI" style="display:none"><a id="pi" class="hide-print" name="pi" title="Pizza.net">
-							www.blendtec.com:172.31.23.80						</a></div><a id="pi" class="hide-print" name="pi" title="Pizza.net">
+							www.blendtec.com:172.31.25.161						</a></div><a id="pi" class="hide-print" name="pi" title="Pizza.net">
 					</a>
-				<p></p>
+					<a href="/company/privacy-policy" title="Privacy Policy" class="copyright-legal_link">Privacy Policy</a><span class="copyright-legal_link"> | </span><a href="/company/tos" title="Terms &amp; Conditions" class="copyright-legal_link">Terms &amp; Conditions</a>				<p></p>
 			</div>
+			<div class="copyright-social pull-right">
+				
+<ul class="social-icons">
+	<li class="social-icon">
+		<a href="http://www.facebook.com/Blendtec">
+			<span class="icon icon_circle_facebook"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="https://twitter.com/Blendtec">
+			<span class="icon icon_circle_twitter"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="https://www.pinterest.com/Blendtec">
+			<span class="icon icon_circle_pinterest"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="http://www.youtube.com/blendteconsumer">
+			<span class="icon icon_circle_youtube"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="https://plus.google.com/+Blendtec">
+			<span class="icon icon_circle_google"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="http://www.blendtec.com/blog">
+			<span class="icon icon_circle_blog"></span>
+		</a>
+	</li>
+	<li class="social-icon">
+		<a href="http://instagram.com/blendtec">
+			<span class="icon icon_circle_instagram"></span>
+		</a>
+	</li>
+</ul>			</div>
 		</div>
 	</div>
 </div>
@@ -720,6 +1061,6 @@
 	});
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1f060ab8ef","applicationID":"2914753","transactionName":"NAdTMkJXCEQAUEcIVg1NchNDQglaTkNSBlwQTVUPQ0YKVhg=","queueTime":0,"applicationTime":159,"atts":"GEBQRApNG0o=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1f060ab8ef","applicationID":"2914753","transactionName":"NAdTMkJXCEQAUEcIVg1NchNDQglaTkNSBlwQTVUPQ0YKVhg=","queueTime":0,"applicationTime":215,"atts":"GEBQRApNG0o=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-</body></html>
+</strong></body></html>
