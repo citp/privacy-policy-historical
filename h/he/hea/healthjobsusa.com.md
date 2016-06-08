@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthjobsusa.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206235212id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsusa.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608153037id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Healthcare Jobs & Medical Employment - Health Jobs Nationwide
 
@@ -15,19 +15,19 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 
 You agree that HealthJobsNationwide.com may use your personal information to contact you and deliver information to you that, in some cases, is targeted to your interests (such as relevant job postings and services), or provides administrative notices or communications applicable to your use of the Site. By accepting this Privacy Policy, you expressly agree to receive this information. In addition, you may receive free informational e-newsletters from us or our clients/partners relating to topics that may be of special interest to you. If you do not wish to receive these communications, we encourage you to opt out of any further receipt by following the opt out provisions provided in each such communication. You may also opt-out of receiving E-mails by sending us an email to support@healthjobsnationwide.com
 
-**Participation in the Medical Publisher Consortium**
-
-This website is a member of the Medical Publisher Consortium (the "Consortium"), and as such has implemented various technologies for universal registration/log-in among all Consortium member websites. These technologies are managed by DMD Marketing Corp. ("DMD"), and may involve the collection, receipt, and sharing of information with DMD and among other Consortium members. If you would like to understand how this website's participation in the Consortium affects your privacy, please click here:
-
-<http://usersupport.dmdconnects.com/PrivacyPolicy.htm>
-
-Please note that the Consortium registration/log-in system may be different from the registration/log-in used by this website for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Consortium technologies, the conflict will be resolved in favor of policy applicable to the Consortium technologies.
-
 We do not sell your personal information to anyone for any reason if you have indicated a desire for us to keep the information private. When posting jobs and resumes, you decide for yourself how much contact information you wish to display (we enable private communication for those who choose to hide this information).
 
 You should be aware, however, that when you voluntarily display or distribute personal information (such as your E-mail address or resume), that information can be collected and used by others. This may result in unsolicited messages from third parties for which HealthJobsNationwide.com is not responsible. Also, you may have arrived at the Site by following a link from a HealthJobsNationwide.com affiliate. If so, please be aware that HealthJobsNationwide.com may share your information with that affiliate and the affiliate may use the information consistent with its privacy policy instead of this one.
 
 Also, we may disclose your personal information to those parties hosting our web servers, processing credit card information, providing customer service and analyzing data, and other parties we may engage to provide services for HealthJobsNationwide.com. We will endeavor to obtain restrictions on their use of your personal information, but cannot guarantee that we can obtain restrictions on the use of your information.
+
+**DMD HEALTHCARE COMMUNICATIONS NETWORK℠ PRIVACY STATEMENT**
+
+This digital service participates in the DMD Healthcare Communication Network℠ (the "Network"), and as such has implemented various technologies for universal registration/login among all Network member websites. These technologies are managed by DMD Marketing Corp. ("DMD"), and may involve the collection, receipt, and sharing of information with DMD, its clients and other Network members. If you would like to understand how this digital service's participation in the Network affects your privacy, please click here:
+
+<http://usersupport.dmdconnects.com/PrivacyPolicy.htm>
+
+Please note that the Network registration/login system may be different from the registration/login used by this digital service for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Network technologies, the conflict will be resolved in favor of the policy applicable to the Network technologies.
 
 **Online Advertisements.** HealthJobsNationwide.com may display online advertisements. We may share aggregated and non-identifying information about our users collected through the registration process as well as through online surveys and promotions with these advertisers. Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements. For instance, an advertiser tells us the audience they want to reach (for example, females between 25 and 55 years of age) and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display the advertisement to the intended audience. HealthJobsNationwide.com will not share personal information about its users with these advertisers.
 
@@ -40,6 +40,12 @@ We may take the information we receive from individuals responding to our Custom
 **Special Cases.** It is HealthJobsNationwide.com's policy not to use or share your personal information in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, HealthJobsNationwide.com may disclose personal information about you, or information regarding your use of the Services or web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws such as the Electronic Communications Privacy Act, regulations or governmental or legal requests for such information; to disclose information that is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Use or other user policies; to operate the Services properly; or to protect HealthJobsNationwide.com and our users. In addition, personal information we have collected may be passed on to a third party in the event of a transfer of ownership or assets or a bankruptcy of HealthJobsNationwide.com.
 
 **"Cookies" and How HealthJobsNationwide.com Uses Them.** A "cookie" is a small data file that can be placed on your hard drive when you visit certain web sites. HealthJobsNationwide.com may use cookies to collect, store and sometimes track information for statistical purposes to improve the products and services we provide and to manage our system. We may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit a non-HealthJobsNationwide.com web site where you are prompted to log in or that is customizable, you may be required to accept cookies. Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+
+**DMD HEALTHCARE COMMUNICATIONS NETWORK℠ PRIVACY STATEMENT** This digital service participates in the DMD Healthcare Communication Network℠ (the "Network"), and as such has implemented various technologies for universal registration/login among all Network member websites. These technologies are managed by DMD Marketing Corp. ("DMD"), and may involve the collection, receipt, and sharing of information with DMD, its clients and other Network members. If you would like to understand how this digital service’s participation in the Network affects your privacy, please click here: 
+
+<http://usersupport.dmdconnects.com/PrivacyPolicy.htm>
+
+Please note that the Network registration/login system may be different from the registration/login used by this digital service for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Network technologies, the conflict will be resolved in favor of the policy applicable to the Network technologies.
 
 **HealthJobsNationwide.com's Commitment to Children's Privacy.** Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws.
 
