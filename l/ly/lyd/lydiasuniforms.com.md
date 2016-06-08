@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610005919id_/http%3A//www.lydiasuniforms.com/Pages/Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608081745id_/http%3A//www.lydiasuniforms.com/Pages/Privacy-Security) for the most accurate reproduction.*
 
 # Scrubs Nursing Uniforms | Cheap Discount Nurse Scrubs
 
 ****PRIVACY POLICY****  
 LydiasUniforms.com values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, and promotions. Lydiauniforms.com recognizes that it must maintain and use customer information responsibly. Complying with the Children’s Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that a subscriber is under the age of 13 and has signed up without prior verifiable parental consent, we will remove his or her personally identifiable information from our files.
 
-The statements above describe the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, please call us at 800.942.3378 or send an e-mail to [mail@lydiasuniforms.com](mailto:mail@lydiasuniforms.com). You may also write to us at:
+The statements above describe the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, please call us at 800.942.3378 or send an e-mail to [customerservice@lydiasuniforms.com](mailto:customerservice@lydiasuniforms.com). You may also write to us at:
 
 Lydia’s Professional Uniforms  
 2547 Three Mile Rd NW Ste F  
@@ -28,10 +28,10 @@ We do not provide e-mail addresses to third parties. However, if you purchase me
 
 From time to time, we may also send you email to help us learn more about your shopping preferences. In addition, we may use information about your product interests and purchases to help us improve our site design and your shopping experience. If you make a purchase online or over the phone, we may also send you notice about our products, services and promotions through postal mail.
 
-To serve you better, we may combine information you give us online and in our store as well as information about your product interests and purchase. In addition, we may combine information you provide with demographic information that is publicly available. We use this combined information to enhance and personalize your shopping experience with us, and to communicate with you by email or postal mail about our products, services, and promotions that may be of interest to you. If you do not want us to use your information as described above, please contact customer service by calling 800.942.3378 or email [mail@lydiasuniforms.com](mailto:mail@lydiasuniforms.com)
+To serve you better, we may combine information you give us online and in our store as well as information about your product interests and purchase. In addition, we may combine information you provide with demographic information that is publicly available. We use this combined information to enhance and personalize your shopping experience with us, and to communicate with you by email or postal mail about our products, services, and promotions that may be of interest to you. If you do not want us to use your information as described above, please contact customer service by calling 800.942.3378 or email [customerservicel@lydiasuniforms.com](mailto:customerservice@lydiasuniforms.com)
 
 **LIST REMOVAL INSTRUCTIONS**  
-If you would like your name and email address removed from our email list, please e-mail us at [mail@lydiasuniforms.com](mailto:mail@lydiasuniforms.com). If you would like to be removed from our catalog mailing list, please send your full name, address as it is printed on the catalog, and catalog keycode to [mail@lydiasuniforms.com](mailto:mail@lydiasuniforms.com). You may also call 800.942.3378 or write to:
+If you would like your name and email address removed from our email list, please e-mail us at [customerservice@lydiasuniforms.com](mailto:customerservice@lydiasuniforms.com). If you would like to be removed from our catalog mailing list, please send your full name, address as it is printed on the catalog, and catalog keycode to [customerservice@lydiasuniforms.com](mailto:customerservice@lydiasuniforms.com). You may also call 800.942.3378 or write to:
 
 Lydia’s Professional Uniforms  
 2547 Three Mile Rd NW Ste F  
