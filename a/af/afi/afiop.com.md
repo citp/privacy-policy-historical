@@ -1,71 +1,58 @@
-> *The following text is extracted and transformed from the afiop.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714095528id_/http%3A//www.afiop.com/%3Fpage_id%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afiop.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608105816id_/http%3A//www.afiop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Afiop.com
 
 Welcome to Afiop.com (the “Site”).
 
-We see that concealment online is essential to users of our Site, especially when conducting business.  
-This evidence governs our concealment policies with attitude to those users of the Site (“Visitors”) who meet without  
-transacting playing and Visitors who run to transact playing on the Site and attain ingest of the different services offered by Afiop.com (collectively, “Services”) (“Authorized Customers”).
+We understand that privacy online is important to users of our Site, especially when conducting business.  
+This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without  
+transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Afiop.com (collectively, “Services”) (“Authorized Customers”).
 
 **“Personally Identifiable Information”**  
-refers to whatever aggregation that identifies or crapper be utilised to identify, contact, or post the mortal to whom much aggregation pertains, including, but not restricted to, name, address, sound number, copier number, telecommunicate address, playing profiles, ethnic section number, and assign bill information. Personally Identifiable Information does not earmark aggregation that is composed anonymously (that is, without finding of the individualist user)  
-or demographic aggregation not adjoining to an identified individual.
+refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)  
+or demographic information not connected to an identified individual.
 
 **What Personally Identifiable Information is collected?**  
-We haw amass base individualist strikingness aggregation from every of our Visitors. We amass the mass added aggregation from our Authorized Customers: the names, addresses, sound drawing and telecommunicate addresses of Authorized Customers, the nature and filler of the business, and the nature and filler of the business listing that the Authorized Customer intends to acquire or sell.
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
-**What organizations are aggregation the information?**  
-In constituent to our candid assemblage of information, our ordinal band assist vendors (such as assign bill companies, clearinghouses and banks) who haw wage much services as credit, insurance, and escrow services haw amass this aggregation from our Visitors and Authorized Customers. We do not curb how these ordinal parties ingest much information, but we do communicate them to divulge how they ingest individualized aggregation provided to them from Visitors and Authorized Customers. Some of these ordinal parties haw be intermediaries that behave solely as course in the organisation chain, and do not store, retain, or ingest the aggregation presented to them.
+**What organizations are collecting the information?**  
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
-**How does the Site ingest Personally Identifiable Information?**  
-We ingest Personally Identifiable Information to attain the Site, to attain pertinent assist offerings, and to fit acquire and commerce requests on the Site. We haw telecommunicate Visitors and Authorized Customers most investigate or acquire and commerce opportunities on the Site or aggregation attendant to the person concern of the Site. We haw also ingest Personally Identifiable Information to occurrence Visitors and Authorized Customers in salutation to restricted inquiries, or to wage requested information.
+**How does the Site use Personally Identifiable Information?**  
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
-**With whom haw the aggregation haw be shared?**  
-Personally Identifiable Information most Authorized Customers haw be mutual with added Authorized Customers who desire to appraise possibleness transactions with added Authorized Customers. We haw deal mass aggregation most our Visitors, including the demographics of our Visitors and Authorized Customers, with our related agencies and ordinal band vendors. We also substance the possibleness to “opt out” of receiving aggregation or existence contacted by us or by whatever authority performing on our behalf.
+**With whom may the information may be shared?**  
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
 **How is Personally Identifiable Information stored?**  
-Personally Identifiable Information composed by Afiop.com is securely stored and is not reachable to ordinal parties or employees of Afiop.com eliminate for ingest as indicated above. 
+Personally Identifiable Information collected by Afiop.com is securely stored and is not accessible to third parties or employees of Afiop.com except for use as indicated above. 
 
-**What choices are acquirable to Visitors regarding collection, ingest and organisation of the information?**  
-Visitors and Authorized Customers haw opt discover of receiving uninvited aggregation from or existence contacted by us and/or our vendors and related agencies by responding to emails as instructed, or by contacting us at [info@Afiop.com](mailto:info@Afiop.com)
+**What choices are available to Visitors regarding collection, use and distribution of the information?**  
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [info@Afiop.com](mailto:info@Afiop.com)
 
 **Are Cookies Used on the Site?**  
-Cookies are utilised for a difference of reasons. We ingest Cookies to obtain aggregation most the preferences of our Visitors and the services they select. We also ingest Cookies for section purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the locate is clean for more than 10 minutes, we module automatically index the Authorized Customer off.
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-**How does Afiop.com ingest login information?**  
-Afiop.com uses login information, including, but not restricted to, IP addresses, ISPs, and application types, to dissect trends, lot the Site, road a user’s shitting and use, and foregather panoptic demographic information.
+**How does Afiop.com use login information?**  
+Afiop.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
-**What partners or assist providers hit admittance to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-Afiop.com has entered into and module move to start into partnerships and added affiliations with a sort of vendors.  
-Such vendors haw hit admittance to destined Personally Identifiable Information on a requirement to undergo foundation for evaluating Authorized Customers for assist eligibility.  
-Our concealment contract does not counterbalance their assemblage or ingest of this information.  
-Disclosure of Personally Identifiable Information to obey with law. We module divulge Personally Identifiable Information in visit to obey with a suite visit or writ or a letter from a accumulation enforcement authority to promulgation information. We module also divulge Personally Identifiable Information when fairly needed to protect the country of our Visitors and Authorized Customers.
+**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
+Afiop.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
+Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.  
+Our privacy policy does not cover their collection or use of this information.  
+Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
-**How does the Site ready Personally Identifiable Information secure?**  
-All of our employees are old with our section contract and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is exclusive reachable to a restricted sort of eligible employees who are presented a countersign in visit to acquire admittance to the information. We inspect our section systems and processes on a lawful basis. Sensitive information, much as assign bill drawing or ethnic section numbers, is fortified by coding protocols, in locate to protect aggregation dispatched over the Internet. While we verify commercially commonsensible measures to reassert a bonded site, electronic person and databases are person to errors, tampering and break-ins, and we cannot indorse or endorse that much events module not verify locate and we module not be susceptible to Visitors or Authorized Customers for whatever much occurrences.
+**How does the Site keep Personally Identifiable Information secure?**  
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
-**How crapper Visitors precise whatever inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers haw occurrence us to update Personally Identifiable Information most them or to precise whatever inaccuracies by emailing us at [info@Afiop.com](mailto:info@Afiop.com)
+**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [info@Afiop.com](mailto:info@Afiop.com)
 
-**Can a Visitor withdraw or modify Personally Identifiable Information composed by the Site?**  
-We wage Visitors and Authorized Customers with a execution to delete/deactivate Personally Identifiable Information from the Site’s database by contacting [info@Afiop.com](mailto:info@Afiop.com). However, because of backups and records of deletions, it haw be impracticable to withdraw a Visitor’s entry without retentive whatever matter information. An individualist who requests to hit Personally Identifiable Information deactivated module hit this aggregation functionally deleted, and we module not sell, transfer, or ingest Personally Identifiable Information relating to that individualist in whatever artefact agitated forward.
+**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting [info@Afiop.com](mailto:info@Afiop.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
 **What happens if the Privacy Policy Changes?**  
-We module permit our Visitors and Authorized Customers undergo most changes to our concealment contract by bill much changes on the Site. However, if we are dynamical our concealment contract in a behavior that strength drive revealing of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we module occurrence much Visitor or Authorized Customer to earmark much Visitor or Authorized Customer to preclude much disclosure.
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
 **Links:**  
-This scheme locate contains course to added scheme sites. Please state that when you utter on digit of these links, you are agitated to added scheme site. We encourage you to feature the concealment statements of these linked sites as their concealment policies haw dissent from ours.
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.afiop.com%2F%3Fpage_id%3D8%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.afiop.com%2F%3Fpage_id%3D8&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.afiop.com%2F%3Fpage_id%3D8&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.afiop.com%2F%3Fpage_id%3D8&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.afiop.com%2F%3Fpage_id%3D8&title=Privacy%20Policy&notes=Welcome%20to%20Afiop.com%20%28the%20%22Site%22%29.%0D%0A%0D%0AWe%20understand%20that%20privacy%20online%20is%20important%20to%20users%20of%20our%20Site%2C%20especially%20when%20conducting%20business.%0D%0AThis%20statement%20governs%20our%20privacy%20policies%20with%20respect%20to%20those%20users%20of%20the%20Site%20%28%22Visitors%22%29%20who%20visi "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.afiop.com%2F%3Fpage_id%3D8&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.afiop.com%2F%3Fpage_id%3D8&srcTitle=Afiop.com+ "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.afiop.com%2F%3Fpage_id%3D8&title=Privacy%20Policy&source=Afiop.com+&summary=Welcome%20to%20Afiop.com%20%28the%20%22Site%22%29.%0D%0A%0D%0AWe%20understand%20that%20privacy%20online%20is%20important%20to%20users%20of%20our%20Site%2C%20especially%20when%20conducting%20business.%0D%0AThis%20statement%20governs%20our%20privacy%20policies%20with%20respect%20to%20those%20users%20of%20the%20Site%20%28%22Visitors%22%29%20who%20visi "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.afiop.com%2F%3Fpage_id%3D8&Title=Privacy%20Policy "BlinkList")
-  * 
-
+This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
