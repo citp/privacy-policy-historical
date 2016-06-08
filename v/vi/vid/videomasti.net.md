@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videomasti.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208181932id_/http%3A//videomasti.net/%3Fpage_id%3D17085) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videomasti.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608150830id_/http%3A//videomasti.net/%3Fpage_id%3D17085) for the most accurate reproduction.*
 
 # Privacy Policy | Video Masti
 
@@ -28,12 +28,12 @@ When users visit this site, certain non-personally identifying information is re
 
 ## What about Cookies?
 
-A “cookie” is a small text file that an Internet site can place on your computer’s hard drive for record-keeping purposes. Cookies can recognize your browser. As this site contains advertisements from networks like Adbrite, they may use cookies also.
+A “cookie” is a small text file that an Internet site can place on your computerâ€™s hard drive for record-keeping purposes. Cookies can recognize your browser. As this site contains advertisements from networks like Adbrite, they may use cookies also.
 
 ## With Whom Do We Share Your Information?
 
-We will never sell or rent our user’s personal information to third parties. We may disclose personal information to third parties when:  
-1\. We have our user’s consent to share the information  
+We will never sell or rent our userâ€™s personal information to third parties. We may disclose personal information to third parties when:  
+1\. We have our userâ€™s consent to share the information  
 2\. We have to cooperate with the investigations of purported unlawful activities  
 3\. We respond to subpoenas, court orders in compliance with the legal process.  
 4\. We have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing damage either intentionally or unintentionally to our rights or property.
