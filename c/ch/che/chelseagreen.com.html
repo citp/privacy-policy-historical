@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chelseagreen.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207232248id_/http%3A//www.chelseagreen.com/terms-of-use-privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chelseagreen.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608153320id_/http%3A//www.chelseagreen.com/terms-of-use-privacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -29,7 +29,7 @@
 <link rel="stylesheet" type="text/css" href="/css/lightbox/lightbox.css" media="all">
 <link rel="stylesheet" type="text/css" href="/css/cg_common.css" media="all">
 <link rel="stylesheet" type="text/css" href="/css/cg_custom.css" media="all">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.ywxi.net/js/1.js"></script><script type="text/javascript" async="" src="https://js.bronto.com/s/b.min.js"></script><script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PD8WS7"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.ywxi.net/js/1.js"></script><script type="text/javascript" async="" src="https://js.bronto.com/s/b.min.js"></script><script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="/js/lightbox/lightbox.min.js"></script>
 <script type="text/javascript" src="/js/themeforest/bootstrap.js"></script>
 <script type="text/javascript" src="/js/themeforest/bootstrap-tooltip.js"></script>
@@ -94,6 +94,13 @@
 </head>
 <body class=" cms-index-index cms-home chelseagreen" style="">
  
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PD8WS7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PD8WS7');</script>
+  
 <script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_GB;</script>
  
 <div id="fb-root"></div>
@@ -161,7 +168,9 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <div class="right">
 <form name="search" action="/results" method="get" style="position:relative;">
 <input type="hidden" name="term" value="all">
-<div class="param-wrapper"><a href="" class="param">All ▼</a></div>
+<div class="param-wrapper">
+<a href="" class="param">All ▼</a>
+</div>
 <input type="text" placeholder="Search Term" name="search_string" value="">
 <button type="button" id="submit-search">Search</button>
 <ul class="param-list hidden">
@@ -180,7 +189,10 @@ You must have JavaScript enabled in your browser to utilize the functionality of
                                         var prefix  = '';
                                         $( 'a.param' ).click( function(e){
                                             e.preventDefault();
-                                            var list = $( '.param-list' );
+                                            //find the parent form
+                                            var parent_form = $(this).parent().parent();
+                                            //$( "p" ).addClass( "myClass yourClass" );
+                                            var list = $( '.param-list', parent_form );
                                             if( list.hasClass( 'hidden' ) )
                                             {
                                                 list.removeClass( 'hidden' );
@@ -209,23 +221,9 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 
                                         $( '#submit-search' ).click( function(e){
                                             e.preventDefault();
-                                            var term    =  $( 'input[name="term"]' ).val();
-                                            var form    = $( 'form[name="search"]' );
-                                            /*
-                                             if( term == 'events' )      // Change the action URL
-                                             {
-                                             var url = prefix + '/events';
-                                             form.attr( 'action', url );
-                                             }
-                                             else if( term == 'blog' )      // Change the action URL
-                                             {
-                                             var url = prefix + '/blog';
-                                             form.attr( 'action', url );
-                                             }
-                                             */
+                                            var form    = $(this).parent('form' );
                                             form.submit();
                                         });
-
                                     });
                                     -->
                                 </script>
@@ -234,13 +232,7 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </div>
  
 </div>
-<div class="row" style="margin-top:20px;">
-<div class="col-xs-12 col-sm-12">
-<a href="http://www.chelseagreen.com/blogs/happy-holidays-2015?utm_source=Bronto&amp;utm_medium=Email&amp;utm_term=EOYBanner&amp;utm_content=EOYBanner&amp;utm_campaign=EOY">
-<img src="/images/2015-HolidaySale.jpg" alt="Holiday Sale">
-</a>
-</div>
-</div>
+ 
 </div>
 </div>
 </div>
@@ -337,11 +329,13 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </li>
 <li><a href="/faq" class=" row_15">FAQs</a>
 </li>
-<li><a href="/shipping-and-returns" class=" row_16">Shipping &amp; Returns</a>
+<li><a href="/ebook-instructions" class=" row_16">Downloading eBooks</a>
 </li>
-<li><a href="/the-chelsea-green-enewsletter" class=" row_17">Chelsea Green eNewsletter</a>
+<li><a href="/shipping-and-returns" class=" row_17">Shipping &amp; Returns</a>
 </li>
-<li class="active last"><a href="/terms-of-use-privacy-notice" class=" active row_18">Terms of Use &amp; Privacy</a>
+<li><a href="/the-chelsea-green-enewsletter" class=" row_18">Chelsea Green eNewsletter</a>
+</li>
+<li class="active last"><a href="/terms-of-use-privacy-notice" class=" active row_19">Terms of Use &amp; Privacy</a>
 </li>
 </ul>
 </div>
@@ -399,15 +393,17 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </li>
 <li><a href="/special-offers" class=" row_5">Special Offers</a>
 </li>
-<li><a href="/multimedia" class=" row_6">Multimedia</a>
+<li><a href="/ebooks" class=" row_6">eBooks</a>
 </li>
-<li><a href="/blogs" class=" row_7">Dig In</a>
+<li><a href="/multimedia" class=" row_7">Multimedia</a>
 </li>
-<li><a href="/events" class=" row_8">Events</a>
+<li><a href="/blogs" class=" row_8">Dig In</a>
 </li>
-<li><a href="/our-mission-history" class=" row_9">Mission</a>
+<li><a href="/events" class=" row_9">Events</a>
 </li>
-<li class="last"><a href="http://media.chelseagreen.com/" target="_blank" class=" row_10">Online Catalogs &amp; Media Site</a>
+<li><a href="/our-mission-history" class=" row_10">Mission</a>
+</li>
+<li class="last"><a href="http://media.chelseagreen.com/" target="_blank" class=" row_11">Online Catalogs &amp; Media Site</a>
 </li>
 </ul>
 </div>
@@ -436,9 +432,9 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </li>
 <li><a href="/find-a-partner-store" class=" row_9">Find a Partner Store</a>
 </li>
-<li><a href="/permission-and-rights" class=" row_10">Permissions</a>
+<li><a href="/submission-guidelines" class=" row_10">Submission Guidelines</a>
 </li>
-<li><a href="/submission-guidelines" class=" row_11">Submission Guidelines</a>
+<li><a href="/permission-and-rights" class=" row_11">Permissions</a>
 </li>
 <li><a href="/academic-and-libraries" class=" row_12">Academic &amp; Libraries</a>
 </li>
@@ -457,13 +453,15 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <ul>
 <li class="first"><a href="/faq" class=" row_1">Frequently Asked Questions</a>
 </li>
-<li><a href="/shipping-and-returns" class=" row_2">Shipping &amp; Returns</a>
+<li><a href="/ebook-instructions" class=" row_2">Downloading &amp; Reading eBooks</a>
 </li>
-<li class="active"><a href="/terms-of-use-privacy-notice" class=" active row_3">Terms of Use &amp; Privacy Notice</a>
+<li><a href="/shipping-and-returns" class=" row_3">Shipping &amp; Returns</a>
 </li>
-<li><a href="/the-chelsea-green-enewsletter" class=" row_4">Chelsea Green eNewsletter</a>
+<li class="active"><a href="/terms-of-use-privacy-notice" class=" active row_4">Terms of Use &amp; Privacy Notice</a>
 </li>
-<li class="last"><a href="/site-map" class=" row_5">Site Map</a>
+<li><a href="/the-chelsea-green-enewsletter" class=" row_5">Chelsea Green eNewsletter</a>
+</li>
+<li class="last"><a href="/site-map" class=" row_6">Site Map</a>
 </li>
 </ul>
 </div>
@@ -528,7 +526,7 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </div>
 <div class="header-static">
 <div class="center">
-<form name="search" action="/results" method="get" style="position:relative;">
+<form name="footer_search" action="/results" method="get" style="position:relative;">
 <input type="hidden" name="term" value="all">
 <div class="param-wrapper"><a href="" class="param">All ▼</a></div>
 <input type="text" placeholder="Search Term" name="search_string" value="">
@@ -634,11 +632,6 @@ Site by <a href="http://www.stison.com" target="_blank">Stison</a>
             var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
             -->
         </script>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 </div></div><div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src=""><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>
