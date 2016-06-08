@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the quotemedia.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207094929id_/http%3A//www.quotemedia.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotemedia.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608153328id_/http%3A//www.quotemedia.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy > QuoteMedia
+# Privacy Policy - QuoteMedia Market Data Solutions
 
 ## QuoteMedia Privacy Policy
+
+### 1\. PRIVACY POLICY
 
   1. **1.1** QuoteMedia is strongly committed to protecting the privacy of users of it's interactive products and services.
   2. **1.2** This privacy policy applies to the QuoteMedia.com Inc. site and all of the Internet accessible QuoteMedia branded services, which we may offer from time to time, referred hereinafter as QuoteMedia. The purpose of this privacy policy is to inform you, our visitor, what types of information we may gather about you when visiting our site and how we may use that information. We will also inform you whether we disclose your information to anyone and if so, under what conditions, as well as the choices you have regarding our use of the information.
