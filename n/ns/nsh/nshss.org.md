@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nshss.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207083527id_/https%3A//www.nshss.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nshss.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608043608id_/http%3A//nshss.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy National Society of High School Scholars
+# Privacy Policy | NSHSS
 
 This is the web site of **The National Society of High School Scholars**.
 
