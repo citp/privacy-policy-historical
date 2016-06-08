@@ -1,22 +1,25 @@
-<!--The following is the downloaded HTML source of the lifevantage.com privacy policy that was archived on 2015-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151109042217id_/http%3A//www.lifevantage.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lifevantage.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608100843id_/http%3A//www.lifevantage.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIPUVFUGwECVlZVBQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIPUVFUGwIEUVlVBAID"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
 		<meta name="google-site-verification" content="q_G8KJJBq1BIDD8ocTG4yrhk0HjfKmZ2zy52APH-084"> <!-- Webmaster Tools -->
 		<title>Privacy Policy | LifeVantage US</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, maximum-scale=1">
-
+					<meta property="og:image" content="//www.lifevantage.com/wp-content/themes/lifevantage/img/og-lifevantage-image.jpg">
+			<meta property="og:image:height" content="700">
+			<meta property="og:image:width" content="1280">
+				
 		<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 		<link rel="alternate" type="application/rss+xml" title="LifeVantage US » Feed" href="http://www.lifevantage.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="LifeVantage US » Comments Feed" href="http://www.lifevantage.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="LifeVantage US » Privacy Policy Comments Feed" href="http://www.lifevantage.com/privacy-policy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.lifevantage.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.1"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f;c.supports={simple:d("simple"),flag:d("flag")},c.supports.simple&&c.supports.flag||(f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.lifevantage.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.1" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.lifevantage.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.lifevantage.com/wp-includes/js/wp-emoji-release.min.js?ver=4.4.2" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -31,24 +34,25 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="lifevantage-jquery-ui-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/css/smoothness/jquery-ui.min.css?ver=1441838127" type="text/css" media="only screen">
-<link rel="stylesheet" id="lifevantage-font-quarto-css" href="//cloud.typography.com/7804074/797308/css/fonts.css?ver=4.2.1" type="text/css" media="all">
-<link rel="stylesheet" id="lifevantage-combined-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/css/combined.min.css?ver=1446854360" type="text/css" media="all">
-<link rel="stylesheet" id="lifevantage-style-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/style.css?ver=1441838129" type="text/css" media="all">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<link rel="stylesheet" id="lifevantage-font-quarto-css" href="https://cloud.typography.com/7804074/797308/css/fonts.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="lifevantage-combined-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/css/combined.min.css?ver=1464823417" type="text/css" media="all">
+<link rel="stylesheet" id="lifevantage-style-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/style.css?ver=1450480064" type="text/css" media="all">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/vendor/modernizr-2.6.2.min.js?ver=2.6.2"></script>
-<script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/vendor/jquery-ui.min.js?ver=1441838129"></script>
-<script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/app.min.js?ver=1445716069"></script>
+<script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/app.min.js?ver=1463496505"></script>
+<link rel="https://api.w.org/" href="http://www.lifevantage.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.lifevantage.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.lifevantage.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.2.1">
+<meta name="generator" content="WordPress 4.4.2">
 <link rel="canonical" href="http://www.lifevantage.com/privacy-policy/">
 <link rel="shortlink" href="http://www.lifevantage.com/?p=30">
-<!-- <meta name="vfbPro" version="2.5" /> -->
+<link rel="alternate" type="application/json+oembed" href="http://www.lifevantage.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.lifevantage.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.lifevantage.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.lifevantage.com%2Fprivacy-policy%2F&amp;format=xml">
+<!-- <meta name="vfbPro" version="2.5.1" /> -->
 
 		<!--<script>window.jQuery || document.write('<script src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/vendor/jquery-1.7.1.min.js"><\/script>')</script>-->
 	</head>
-	<body id="lfvn" ontouchstart="" class="page page-id-30 page-template-default custom-background-empty">
+			<body id="lfvn" ontouchstart="" class="page page-id-30 page-template-default us-en custom-background-empty" data-site-id="1" data-checkout="true">
 		<div class="container">
 
 			<!--[if lt IE 7]>
@@ -58,37 +62,39 @@ img.emoji {
 			
 <div id="pre_header">
 	<div class="country_nav">
-	<div class="current">Country</div>
+	<div class="current title_pad toggle">Country</div>
 	<nav class="menu">
 		<div class="wrapper">
 			<div class="header">Country</div>
-			<a class="aus" href="http://au.lifevantage.com">Australia</a>
-			<a class="can" href="http://ca-en.lifevantage.com">Canada (English)</a>
-						<a class="hon" href="http://hk-ch.lifevantage.com">香港</a>
-			<a class="hon" href="http://hk-en.lifevantage.com">Hong Kong (English)</a>
-			<a class="jap" href="http://jp.lifevantage.com">日本</a>
-			<a class="mex" href="http://mx.lifevantage.com">México</a>
-			<a class="tha" href="http://th-en.lifevantage.com">Thailand (English)</a>
-			<a class="tha" href="http://th-th.lifevantage.com">ประเทศไทย</a>
-			<a class="usa" href="http://www.lifevantage.com">United States</a>
-			<a class="usa" href="http://us-es.lifevantage.com">Estados Unidos (Español)</a>
+			<a class="au" href="http://au.lifevantage.com">Australia</a>
+			<a class="ca" href="http://ca-en.lifevantage.com">Canada (English)</a>
+						<a class="hk" href="http://hk-ch.lifevantage.com">香港</a>
+			<a class="hk" href="http://hk-en.lifevantage.com">Hong Kong (English)</a>
+			<a class="jp" href="http://jp.lifevantage.com">日本</a>
+			<a class="mx" href="http://mx.lifevantage.com">México</a>
+			<a class="nl" href="http://nl.lifevantage.com">Nederland</a>
+			<a class="th" href="http://th-en.lifevantage.com">Thailand (English)</a>
+			<a class="th" href="http://th-th.lifevantage.com">ประเทศไทย</a>
+			<a class="uk" href="http://uk.lifevantage.com">United Kingdom</a>
+			<a class="us" href="http://www.lifevantage.com">United States</a>
+			<a class="us" href="http://us-es.lifevantage.com">Estados Unidos (Español)</a>
 		</div>
 	</nav>
 </div>
 	<div class="divider left"></div>
-	<div class="distributor_nav">
-		<div class="title">Distributors</div>
+		<div class="distributor_nav">
+		<div class="title title_pad toggle" data-checkout-text="Checkout">Distributors</div>
 		<div class="menu">
 			<div class="wrapper">
 				<div class="user_nav">
-	<a href="http://lifevantage.myvoffice.com/">Login</a>
-	<a href="https://beta-lifevantage.myvoffice.com/Application/index.cfm">Join Us</a>
-</div>
+		    <a href="http://lifevantage.myvoffice.com/">Login</a>
+					<a href="https://evo-lifevantage.myvoffice.com/Application">Join Us</a>
+	</div>
 				<div class="resources_nav">
 	<div class="group has-children">
 		<div class="header">Events</div>
 		<ul class="group_nav">
-			<li><a href="/upcoming-events/">Upcoming Events</a></li>			<li><a href="https://registration.lifevantage.com/Registration/Events?lang=en-US">Event Registration</a></li>			<li><a href="http://bigbluecalendar.mhsoftware.com">Big Blue Calendar</a></li>			<li><a href="/master-track-events-pass/">Master Track Events Pass</a></li>		</ul>
+			<li><a href="/upcoming-events/">Upcoming Events</a></li>			<li><a href="https://registration.lifevantage.com/Registration/Events?lang=en-us">Event Registration</a></li>			<li><a href="http://bigbluecalendar.mhsoftware.com">Big Blue Calendar</a></li>			<li><a href="/master-track-events-pass/">Master Track Events Pass</a></li>		</ul>
 	</div>
 	<div class="group has-children">
 		<div class="header">Media</div>
@@ -98,6 +104,7 @@ img.emoji {
 	<div class="group has-children">
 		<div class="header">Distributor Info</div>
 		<div class="group_nav">
+			<li><a href="http://lifevantage.myvoffice.com/">Virtual Office</a></li>
 			<li><a href="http://www.lifevantageuniversity.com">LifeVantage University</a></li>							<li><a href="http://www.lvnmedia.com/join-lifevantage/meet-our-top-achievers/master-pro-10/">Recognition</a></li>						<li><a href="https://apps.lifevantage.com/topenrollers">Top Enrollers</a></li>			<li><a href="/faqs/">FAQs</a></li>		</div>
 	</div>
 </div>
@@ -105,7 +112,78 @@ img.emoji {
 			</div>
 		</div>
 	</div>
-	<!-- <div class="divider right"></div> -->
+	<div class="cart_nav">
+	<div class="divider right"></div>
+	<div class="title title_pad toggle">
+		<span class="text">My Cart</span>
+		<span class="quantity" rv-text="cart.items | totalQuantity" rv-class-empty="cart.items | totalQuantity | isEmpty" rv-data-quantity="cart.items | totalQuantity"></span>
+	</div>
+	<div class="cart">
+		<div class="status_bar">&nbsp;</div>
+		<div class="has_items" rv-if="cart.items | length">
+			<table class="cart_items">
+				<tbody><tr class="product" rv-each-item="cart.items">
+					<td>
+						<a rv-href="item.url">
+							<img rv-src="item.imagePath" rv-alt="item.name" class="thumbnail">
+						</a>
+					</td>
+					<td class="name_and_description">
+						<a rv-href="item.url" class="name"><span class="category" rv-html="item.name"></span></a>
+						<span class="description" rv-html="item.shortDescription"></span>
+					</td>
+					<td class="quantity" rv-spinner="">
+						<div class="spinner small">
+							<div class="minus">-</div>
+							<input class="" id="" type="number" min="1" rv-max="item.maxQuantity" rv-value="item.quantity" rv-placeholder="0" rv-on-change="cart.onQuantityChange">
+							<div class="plus">+</div>
+						</div>
+						<a class="remove" rv-on-click="cart.onRemoveClick | item">Remove</a>
+					</td>
+					<td class="price">
+						<span class="amount">
+							<span class="currency">$</span><span rv-html="item.retailPrice | price item.quantity"></span>
+						</span>
+						<span class="type">Retail</span>
+					</td>
+					<td class="price">
+						<span class="amount currency">
+							<span class="currency">$</span><span rv-html="item.wholesalePrice | price item.quantity"></span>
+						</span>
+						<span class="type">Monthly</span>
+					</td>
+				</tr>
+				<tr class="subtotal">
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td class="quantity">
+						<span class="label">Subtotal</span>
+					</td>
+					<td class="price">
+						<span class="amount currency">
+							<span class="currency">$</span><span rv-html="cart.subTotalRetail | price"></span>
+						</span>
+						<span class="type">Retail</span>
+					</td>
+					<td class="price">
+						<span class="amount currency">
+							<span class="currency">$</span><span rv-html="cart.subTotalWholesale | price"></span>
+						</span>
+						<span class="type">Monthly</span>
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+		<div class="empty" rv-unless="cart.items | length">
+			<h4 class="header">Your Cart Is Empty</h4>
+			<p class="instruction">Add Products to your cart before checking out</p>
+			<div class="controls start">
+				<a href="/products/" class="btn_new_small start">Start Shopping</a>
+				<a href="/products/" class="btn_new_small continue" rv-on-click="cart.continueShopping">Continue Shopping</a>
+			</div>
+		</div>
+	</div>
+</div>
 		<div class="divider right"></div>
 </div>
 <!-- /#pre-header -->
@@ -113,29 +191,31 @@ img.emoji {
 <div id="condensed_nav_drawer">
 	<div class="pre">
 		<div class="country_nav">
-	<div class="current">Country</div>
+	<div class="current title_pad toggle">Country</div>
 	<nav class="menu">
 		<div class="wrapper">
 			<div class="header">Country</div>
-			<a class="aus" href="http://au.lifevantage.com">Australia</a>
-			<a class="can" href="http://ca-en.lifevantage.com">Canada (English)</a>
-						<a class="hon" href="http://hk-ch.lifevantage.com">香港</a>
-			<a class="hon" href="http://hk-en.lifevantage.com">Hong Kong (English)</a>
-			<a class="jap" href="http://jp.lifevantage.com">日本</a>
-			<a class="mex" href="http://mx.lifevantage.com">México</a>
-			<a class="tha" href="http://th-en.lifevantage.com">Thailand (English)</a>
-			<a class="tha" href="http://th-th.lifevantage.com">ประเทศไทย</a>
-			<a class="usa" href="http://www.lifevantage.com">United States</a>
-			<a class="usa" href="http://us-es.lifevantage.com">Estados Unidos (Español)</a>
+			<a class="au" href="http://au.lifevantage.com">Australia</a>
+			<a class="ca" href="http://ca-en.lifevantage.com">Canada (English)</a>
+						<a class="hk" href="http://hk-ch.lifevantage.com">香港</a>
+			<a class="hk" href="http://hk-en.lifevantage.com">Hong Kong (English)</a>
+			<a class="jp" href="http://jp.lifevantage.com">日本</a>
+			<a class="mx" href="http://mx.lifevantage.com">México</a>
+			<a class="nl" href="http://nl.lifevantage.com">Nederland</a>
+			<a class="th" href="http://th-en.lifevantage.com">Thailand (English)</a>
+			<a class="th" href="http://th-th.lifevantage.com">ประเทศไทย</a>
+			<a class="uk" href="http://uk.lifevantage.com">United Kingdom</a>
+			<a class="us" href="http://www.lifevantage.com">United States</a>
+			<a class="us" href="http://us-es.lifevantage.com">Estados Unidos (Español)</a>
 		</div>
 	</nav>
 </div>
 	</div>
 	<div class="main">
 		<div class="user_nav">
-	<a href="http://lifevantage.myvoffice.com/">Login</a>
-	<a href="https://beta-lifevantage.myvoffice.com/Application/index.cfm">Join Us</a>
-</div>
+		    <a href="http://lifevantage.myvoffice.com/">Login</a>
+					<a href="https://evo-lifevantage.myvoffice.com/Application">Join Us</a>
+	</div>
 		<div class="group">
 			<a href="http://www.lifevantage.com" class="header">Home</a>
 		</div>
@@ -143,11 +223,12 @@ img.emoji {
 			<div class="header">Products</div>
 			<ul class="group_nav">
 				<li><a href="/products/">Products Overview</a></li>
-          				<li><a href="/products/protandim/">Protandim<sup>®</sup></a></li>
-                  				<li><a href="/products/axio/">Axio</a></li>
-                  				<li><a href="/products/truescience/">TrueScience</a></li>
-                  				<li><a href="/products/canine-health/">Canine Health</a></li>
-        			</ul>
+								<li><a href="/products/protandim/">Protandim</a></li>
+												<li><a href="/products/axio/">AXIO</a></li>
+												<li><a href="/products/physiq/">PhysIQ</a></li>
+												<li><a href="/products/truescience/">TrueScience</a></li>
+												<li><a href="/products/canine-health/">Canine Health</a></li>
+							</ul>
 		</div>
 		<div class="group">
 			<a href="/science/" class="header">Science</a>
@@ -156,19 +237,16 @@ img.emoji {
 			<div class="header">Company</div>
 			<ul class="group_nav">
 				<li><a href="/company/">Company Overview</a></li>
-				<li><a href="/corporate-blog/">Blog</a></li>				<li><a href="/upcoming-events/">Upcoming Events</a></li>				<li><a href="/company/management-team/">Management Team</a></li>				<li><a href="/company/lifevantage-lifestories/">LifeVantage LifeStories</a></li>				<li><a href="//investor.lifevantage.com">Investor Relations</a></li>				<li><a href="/company/lifevantage-legacy/">LifeVantage Legacy</a></li>				<li><a href="/company/careers/">Careers</a></li>								<li><a href="/company/contact-us/">Contact Us</a></li>			</ul>
+				<li><a href="/corporate-blog/">Blog</a></li>				<li><a href="/upcoming-events/">Upcoming Events</a></li>				<li><a href="/company/management-team/">Management Team</a></li>				<li><a href="/company/lifevantage-lifestories/">LifeVantage LifeStories</a></li>				<li><a href="http://investor.lifevantage.com">Investor Relations</a></li>				<li><a href="/company/lifevantage-legacy/">LifeVantage Legacy</a></li>				<li><a href="/company/careers/">Careers</a></li>								<li><a href="/company/contact-us/">Contact Us</a></li>			</ul>
 		</div>
 		<div class="group">
 			<a href="/opportunity/" class="header">Opportunity</a>
-		</div>
-				<div class="group">
-			<a href="http://cart.lifevantage.com/product" class="header">Shop</a>
 		</div>
 				<div class="resources_nav">
 	<div class="group has-children">
 		<div class="header">Events</div>
 		<ul class="group_nav">
-			<li><a href="/upcoming-events/">Upcoming Events</a></li>			<li><a href="https://registration.lifevantage.com/Registration/Events?lang=en-US">Event Registration</a></li>			<li><a href="http://bigbluecalendar.mhsoftware.com">Big Blue Calendar</a></li>			<li><a href="/master-track-events-pass/">Master Track Events Pass</a></li>		</ul>
+			<li><a href="/upcoming-events/">Upcoming Events</a></li>			<li><a href="https://registration.lifevantage.com/Registration/Events?lang=en-us">Event Registration</a></li>			<li><a href="http://bigbluecalendar.mhsoftware.com">Big Blue Calendar</a></li>			<li><a href="/master-track-events-pass/">Master Track Events Pass</a></li>		</ul>
 	</div>
 	<div class="group has-children">
 		<div class="header">Media</div>
@@ -178,6 +256,7 @@ img.emoji {
 	<div class="group has-children">
 		<div class="header">Distributor Info</div>
 		<div class="group_nav">
+			<li><a href="http://lifevantage.myvoffice.com/">Virtual Office</a></li>
 			<li><a href="http://www.lifevantageuniversity.com">LifeVantage University</a></li>							<li><a href="http://www.lvnmedia.com/join-lifevantage/meet-our-top-achievers/master-pro-10/">Recognition</a></li>						<li><a href="https://apps.lifevantage.com/topenrollers">Top Enrollers</a></li>			<li><a href="/faqs/">FAQs</a></li>		</div>
 	</div>
 </div>
@@ -185,25 +264,126 @@ img.emoji {
 	</div>
 </div>
 
+<div id="condensed_cart">
+	<nav class="nav">
+		<a class="back">Back</a>
+		<a rv-href="cart.checkoutUrl < cart.apiBaseUrl cart.id" class="checkout" rv-on-click="cart.deleteCacheItems">Checkout</a>
+	</nav>
+	<div class="distributor">
+		<div class="avatar placeholder"></div>
+		<div class="who">
+			<div class="intro">Your Distributor</div>
+			<div class="name"></div>
+		</div>
+		<div class="info">
+			<ul class="stats">
+				<li class="rank"></li>
+							</ul>
+			<nav class="actions">
+													<a href="https://evo-lifevantage.myvoffice.com/Application">Join Us</a>
+							</nav>
+		</div>
+	</div>
+	<div class="cart" data-base-url="https://cart.lifevantage.com/">
+		<div class="has_items" rv-if="cart.items | length">
+			<table class="cart_items">
+				<tbody class="product" rv-each-item="cart.items">
+					<tr>
+						<td rowspan="2" class="row_both">
+							<a rv-href="item.url">
+								<img rv-src="item.imagePath" rv-alt="item.name" class="thumbnail">
+							</a>
+						</td>
+						<td colspan="3" class="row_top name_and_description">
+							<a rv-href="item.url" class="name"><span class="category" rv-html="item.name"></span></a>
+							<span class="description" rv-html="item.shortDescription"></span>
+							<a class="remove_x" rv-on-click="cart.onRemoveClick | item">Remove</a>
+						</td>
+					</tr>
+					<tr>
+						<td class="row_bottom quantity" rv-spinner="">
+							<div class="spinner small">
+								<div class="minus">-</div>
+								<input class="" id="" type="number" min="1" rv-max="item.maxQuantity" rv-value="item.quantity" rv-placeholder="0" rv-on-change="cart.onQuantityChange">
+								<div class="plus">+</div>
+							</div>
+						</td>
+						<td class="row_bottom price">
+							<span class="amount">
+								<span class="currency">$</span><span rv-html="item.retailPrice | price item.quantity"></span>
+							</span>
+							<span class="type">Retail</span>
+						</td>
+						<td class="row_bottom price">
+							<span class="amount currency">
+								<span class="currency">$</span><span rv-html="item.wholesalePrice | price item.quantity"></span>
+							</span>
+							<span class="type">Monthly</span>
+						</td>
+					</tr>
+				</tbody>
+				<tbody class="subtotal">
+					<tr class="subtotal">
+						<td>
+							&nbsp;
+						</td>
+						<td>
+							<span class="label">Subtotal</span>
+						</td>
+						<td class="price">
+							<span class="amount currency">
+								<span class="currency">$</span><span rv-html="cart.subTotalRetail | price"></span>
+							</span>
+							<span class="type">Retail</span>
+						</td>
+						<td class="price">
+							<span class="amount currency">
+								<span class="currency">$</span><span rv-html="cart.subTotalWholesale | price"></span>
+							</span>
+							<span class="type">Monthly</span>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="empty" rv-unless="cart.items | length">
+			<h4 class="header">Your Cart Is Empty</h4>
+			<p class="instruction">Add Products to your cart before checking out</p>
+			<div class="controls start">
+				<a href="/products/" class="btn_new_small start">Start Shopping</a>
+				<a href="/products/" class="btn_new_small continue" rv-on-click="cart.continueShopping">Continue Shopping</a>
+			</div>
+		</div>
+		<div class="p_t_6" rv-if="cart.items | length">&nbsp;</div>
+			</div>
+</div>
+<!-- /#condensed_cart -->
+
 <div id="shiftable">
 	<header id="header">
 		<div id="condensed_nav">
 			<div class="bar filled">
 				<div class="content_wrapper">
-					<div class="toggle">
+					<div class="toggle_drawer">
 						<span>Open Menu</span>
 					</div>
 					<div class="logo">
 						<a href="http://www.lifevantage.com">LifeVantage</a>
 						<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 140 25" enable-background="new 0 0 140 25"><g><g><path d="M2.48322,0.64838H0.00018v18.15448H9.0741V16.2901H2.48322V0.64838z M11.4834,18.80286h2.39569V8.58099 H11.4834V18.80286z M11.4834,6.75378h2.39569V4.2309H11.4834V6.75378z M29.2691,5.20837 c-3.73608,0-6.77869,3.10883-6.77869,6.93231c0,3.8241,3.0426,6.93457,6.77869,6.93457c1.80261,0,3.49811-0.71869,4.77472-2.02429 l0.1911-0.18939l-1.65875-1.69446l-0.18756,0.18268c-0.8645,0.85657-1.97021,1.3252-3.11951,1.3252 c-2.04413,0-3.84668-1.46588-4.31909-3.46271h11.0473l0.02679-0.24323c0.02692-0.30078,0.02692-0.5329,0.02692-0.83447 C35.94031,8.18365,33.02179,5.20837,29.2691,5.20837z M24.95001,11.10059c0.47241-2.01318,2.2785-3.4942,4.31909-3.4942 c2.0473,0,3.85321,1.48102,4.32581,3.4942H24.95001z M136.521,12.02167c-1.93298,0-3.50092,1.56549-3.50092,3.49335 c0,1.922,1.56793,3.48218,3.50092,3.48218c1.91089,0,3.47882-1.56018,3.47882-3.48218 C139.99982,13.58716,138.43188,12.02167,136.521,12.02167z M136.521,18.3219c-1.466,0-2.65472-1.17804-2.65472-2.80688 c0-1.63293,1.18872-2.81622,2.65472-2.81622c1.45868,0,2.64008,1.18329,2.64008,2.81622 C139.16107,17.14386,137.97968,18.3219,136.521,18.3219z M138.10339,14.67957c0-0.83386-0.5249-1.15417-1.4657-1.15417h-1.4588 v3.9444h0.72211v-1.7019h0.44501l1.02136,1.7019h0.7652l-1.06445-1.72168 C137.71722,15.68628,138.10339,15.35327,138.10339,14.67957z M135.901,15.21289V14.0788h0.65668 c0.37891,0,0.80969,0.08368,0.80969,0.5426c0,0.53851-0.37219,0.59149-0.80969,0.59149H135.901z M20.68439,0.54016 c-2.20471,0-3.74622,1.6731-3.74622,4.06842l0.00354,1.24402H15.9599v2.7027h0.98499l0.02362,10.24756h2.41931V8.5553h2.06738 V5.8526h-2.06738V5.78241L19.3642,4.60858c0-0.9165,0.62329-1.55737,1.5213-1.55737c0.104,0,0.24463,0,0.3786,0.04468 l0.34167,0.11627V0.79309L21.46509,0.7168C21.16693,0.56519,20.84851,0.54016,20.68439,0.54016z M72.3028,5.31891 c-1.82611,0-3.53839,0.51227-4.66089,1.38V5.6496h-1.25323v13.17706h1.25323V8.51178 c0.57288-1.23639,2.43939-2.06281,4.66089-2.06281c2.34552,0,4.11481,1.2796,4.11481,2.97949v9.39819h1.24628V9.42847 C77.66388,7.04791,75.4054,5.31891,72.3028,5.31891z M84.42249-0.00012h-1.23981v5.65393h-3.05579v1.26538h3.05579v11.90747 h1.23981V6.91919h3.33392V5.65381h-3.33392V-0.00012z M98.48547,6.40588c-1.10565-0.758-2.41248-1.15552-3.80627-1.15552 c-3.77649,0-6.84558,3.12604-6.84558,6.974c0,3.86029,3.06909,7.00421,6.84558,7.00421c1.38379,0,2.69061-0.40778,3.80627-1.18311 v0.78119h1.23993V5.65381h-1.23993V6.40588z M98.48547,16.4198c-1.13239,1.03729-2.37897,1.5412-3.80627,1.5412 c-3.07611,0-5.57922-2.5744-5.57922-5.73663c0-3.14899,2.50311-5.70959,5.57922-5.70959c1.3938,0,2.64038,0.5072,3.80627,1.54633 V16.4198z M113.22888,6.40588c-1.10907-0.758-2.4126-1.15552-3.80658-1.15552c-3.77612,0-6.84552,3.12604-6.84552,6.974 c0,3.86029,3.0694,7.00421,6.84552,7.00421c1.38062,0,2.6875-0.40778,3.80658-1.18311v1.50873 c0,2.57849-1.50458,4.18048-3.91699,4.18048c-0.1944,0-0.3653,0-0.72711-0.05219l-0.54266-0.08148v1.24469l0.37506,0.08569 c0.30151,0.06866,0.7038,0.06866,0.89471,0.06866c3.133,0,5.1568-2.13739,5.1568-5.44586V5.65381h-1.23981V6.40588z M113.22888,16.4198c-1.13257,1.03729-2.37897,1.5412-3.80658,1.5412c-3.07928,0-5.58228-2.5744-5.58228-5.73663 c0-3.14899,2.50299-5.70959,5.58228-5.70959c1.39398,0,2.63721,0.5072,3.80658,1.54633V16.4198z M124.16229,5.25037 c-3.77289,0-6.8454,3.12604-6.8454,6.974c0,3.86029,3.07251,7.00421,6.8454,7.00421c1.8161,0,3.52838-0.72729,4.8219-2.04828 l0.33502-0.34521l-0.87122-0.89081l-0.33838,0.3443c-1.05554,1.07843-2.45953,1.67242-3.94733,1.67242 c-2.88831,0-5.2337-2.16333-5.54858-5.07599h12.39746v-0.66064C131.01117,8.3764,127.93872,5.25037,124.16229,5.25037z M118.61011,11.62061c0.28491-2.92651,2.63379-5.10583,5.55219-5.10583c2.86511,0,5.25739,2.22382,5.55231,5.10583H118.61011z M61.67102,6.39825c-1.10602-0.75476-2.40942-1.1521-3.8031-1.1521c-3.77643,0-6.85254,3.13025-6.85254,6.97821 c0,3.86279,3.07611,7.00592,6.85254,7.00592c1.36017,0,2.69391-0.41809,3.8031-1.17889v0.77527h1.24628V5.6496h-1.24628V6.39825z M61.67102,16.41595c-1.13281,1.03766-2.37592,1.54315-3.8031,1.54315c-3.07294,0-5.57922-2.57343-5.57922-5.73474 c0-3.1463,2.50629-5.7052,5.57922-5.7052c1.39368,0,2.64026,0.50452,3.8031,1.54462V16.41595z M50.78088,0.9884l-6.5072,14.71429 L37.77991,0.9884h-1.44403l7.93781,17.96246L52.2149,0.9884H50.78088z"></path></g></g></svg>
 					</div>
-									</div>
+					<div class="cart_nav">
+						<div class="title" rv-on-click="cart.condensedCartShow">
+							<span class="text">My Cart</span>
+							<span class="quantity" rv-text="cart.items | totalQuantity" rv-class-empty="cart.items | totalQuantity | isEmpty" rv-data-quantity="cart.items | totalQuantity"></span>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 		<div id="full_nav" class="filled">
 			<nav class="top_nav">
 				<div class="content_wrapper">
-					<div class="logo filled">
+					<div class="logo filled ">
 						<a href="http://www.lifevantage.com">LifeVantage</a>
 						<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 140 25" enable-background="new 0 0 140 25"><g><g><path d="M2.48322,0.64838H0.00018v18.15448H9.0741V16.2901H2.48322V0.64838z M11.4834,18.80286h2.39569V8.58099 H11.4834V18.80286z M11.4834,6.75378h2.39569V4.2309H11.4834V6.75378z M29.2691,5.20837 c-3.73608,0-6.77869,3.10883-6.77869,6.93231c0,3.8241,3.0426,6.93457,6.77869,6.93457c1.80261,0,3.49811-0.71869,4.77472-2.02429 l0.1911-0.18939l-1.65875-1.69446l-0.18756,0.18268c-0.8645,0.85657-1.97021,1.3252-3.11951,1.3252 c-2.04413,0-3.84668-1.46588-4.31909-3.46271h11.0473l0.02679-0.24323c0.02692-0.30078,0.02692-0.5329,0.02692-0.83447 C35.94031,8.18365,33.02179,5.20837,29.2691,5.20837z M24.95001,11.10059c0.47241-2.01318,2.2785-3.4942,4.31909-3.4942 c2.0473,0,3.85321,1.48102,4.32581,3.4942H24.95001z M136.521,12.02167c-1.93298,0-3.50092,1.56549-3.50092,3.49335 c0,1.922,1.56793,3.48218,3.50092,3.48218c1.91089,0,3.47882-1.56018,3.47882-3.48218 C139.99982,13.58716,138.43188,12.02167,136.521,12.02167z M136.521,18.3219c-1.466,0-2.65472-1.17804-2.65472-2.80688 c0-1.63293,1.18872-2.81622,2.65472-2.81622c1.45868,0,2.64008,1.18329,2.64008,2.81622 C139.16107,17.14386,137.97968,18.3219,136.521,18.3219z M138.10339,14.67957c0-0.83386-0.5249-1.15417-1.4657-1.15417h-1.4588 v3.9444h0.72211v-1.7019h0.44501l1.02136,1.7019h0.7652l-1.06445-1.72168 C137.71722,15.68628,138.10339,15.35327,138.10339,14.67957z M135.901,15.21289V14.0788h0.65668 c0.37891,0,0.80969,0.08368,0.80969,0.5426c0,0.53851-0.37219,0.59149-0.80969,0.59149H135.901z M20.68439,0.54016 c-2.20471,0-3.74622,1.6731-3.74622,4.06842l0.00354,1.24402H15.9599v2.7027h0.98499l0.02362,10.24756h2.41931V8.5553h2.06738 V5.8526h-2.06738V5.78241L19.3642,4.60858c0-0.9165,0.62329-1.55737,1.5213-1.55737c0.104,0,0.24463,0,0.3786,0.04468 l0.34167,0.11627V0.79309L21.46509,0.7168C21.16693,0.56519,20.84851,0.54016,20.68439,0.54016z M72.3028,5.31891 c-1.82611,0-3.53839,0.51227-4.66089,1.38V5.6496h-1.25323v13.17706h1.25323V8.51178 c0.57288-1.23639,2.43939-2.06281,4.66089-2.06281c2.34552,0,4.11481,1.2796,4.11481,2.97949v9.39819h1.24628V9.42847 C77.66388,7.04791,75.4054,5.31891,72.3028,5.31891z M84.42249-0.00012h-1.23981v5.65393h-3.05579v1.26538h3.05579v11.90747 h1.23981V6.91919h3.33392V5.65381h-3.33392V-0.00012z M98.48547,6.40588c-1.10565-0.758-2.41248-1.15552-3.80627-1.15552 c-3.77649,0-6.84558,3.12604-6.84558,6.974c0,3.86029,3.06909,7.00421,6.84558,7.00421c1.38379,0,2.69061-0.40778,3.80627-1.18311 v0.78119h1.23993V5.65381h-1.23993V6.40588z M98.48547,16.4198c-1.13239,1.03729-2.37897,1.5412-3.80627,1.5412 c-3.07611,0-5.57922-2.5744-5.57922-5.73663c0-3.14899,2.50311-5.70959,5.57922-5.70959c1.3938,0,2.64038,0.5072,3.80627,1.54633 V16.4198z M113.22888,6.40588c-1.10907-0.758-2.4126-1.15552-3.80658-1.15552c-3.77612,0-6.84552,3.12604-6.84552,6.974 c0,3.86029,3.0694,7.00421,6.84552,7.00421c1.38062,0,2.6875-0.40778,3.80658-1.18311v1.50873 c0,2.57849-1.50458,4.18048-3.91699,4.18048c-0.1944,0-0.3653,0-0.72711-0.05219l-0.54266-0.08148v1.24469l0.37506,0.08569 c0.30151,0.06866,0.7038,0.06866,0.89471,0.06866c3.133,0,5.1568-2.13739,5.1568-5.44586V5.65381h-1.23981V6.40588z M113.22888,16.4198c-1.13257,1.03729-2.37897,1.5412-3.80658,1.5412c-3.07928,0-5.58228-2.5744-5.58228-5.73663 c0-3.14899,2.50299-5.70959,5.58228-5.70959c1.39398,0,2.63721,0.5072,3.80658,1.54633V16.4198z M124.16229,5.25037 c-3.77289,0-6.8454,3.12604-6.8454,6.974c0,3.86029,3.07251,7.00421,6.8454,7.00421c1.8161,0,3.52838-0.72729,4.8219-2.04828 l0.33502-0.34521l-0.87122-0.89081l-0.33838,0.3443c-1.05554,1.07843-2.45953,1.67242-3.94733,1.67242 c-2.88831,0-5.2337-2.16333-5.54858-5.07599h12.39746v-0.66064C131.01117,8.3764,127.93872,5.25037,124.16229,5.25037z M118.61011,11.62061c0.28491-2.92651,2.63379-5.10583,5.55219-5.10583c2.86511,0,5.25739,2.22382,5.55231,5.10583H118.61011z M61.67102,6.39825c-1.10602-0.75476-2.40942-1.1521-3.8031-1.1521c-3.77643,0-6.85254,3.13025-6.85254,6.97821 c0,3.86279,3.07611,7.00592,6.85254,7.00592c1.36017,0,2.69391-0.41809,3.8031-1.17889v0.77527h1.24628V5.6496h-1.24628V6.39825z M61.67102,16.41595c-1.13281,1.03766-2.37592,1.54315-3.8031,1.54315c-3.07294,0-5.57922-2.57343-5.57922-5.73474 c0-3.1463,2.50629-5.7052,5.57922-5.7052c1.39368,0,2.64026,0.50452,3.8031,1.54462V16.41595z M50.78088,0.9884l-6.5072,14.71429 L37.77991,0.9884h-1.44403l7.93781,17.96246L52.2149,0.9884H50.78088z"></path></g></g></svg>
 					</div>
@@ -215,37 +395,40 @@ img.emoji {
 							<a href="/science/" class="category science filled">Science</a>
 						</div>
 												<div class="item">
-							<div class="quick_nav">
-								<a href="/corporate-blog/">Blog</a>								<a href="/upcoming-events/">Upcoming Events</a>								<a href="/company/management-team/">Management Team</a>								<a href="/company/lifevantage-lifestories/">LifeVantage LifeStories</a>								<a href="//investor.lifevantage.com">Investor Relations</a>								<a href="/company/lifevantage-legacy/">LifeVantage Legacy</a>								<a href="/company/careers/">Careers</a>																<a href="/company/contact-us/">Contact Us</a>							</div>
+							<div class="quick_nav" data-transition-delay="true">
+								<a href="/corporate-blog/">Blog</a>								<a href="/upcoming-events/">Upcoming Events</a>								<a href="/company/management-team/">Management Team</a>								<a href="/company/lifevantage-lifestories/">LifeVantage LifeStories</a>								<a href="http://investor.lifevantage.com">Investor Relations</a>								<a href="/company/lifevantage-legacy/">LifeVantage Legacy</a>								<a href="/company/careers/">Careers</a>																<a href="/company/contact-us/">Contact Us</a>							</div>
 							<a href="/company/" class="category company filled">Company</a>
 						</div>
 												<div class="item">
 							<a href="/opportunity/" class="category opportunity filled">Opportunity</a>
 						</div>
-																		<div class="item">
-							<a href="http://cart.lifevantage.com/product" class="category shop filled">Shop</a>
-						</div>
+																	</nav>
+					<nav class="distributor ">
+													<a href="https://evo-lifevantage.myvoffice.com/Application">Join Us</a>
 											</nav>
-					<nav class="distributor">
-						<a href="https://beta-lifevantage.myvoffice.com/Application/index.cfm">Join Us</a>
-					</nav>
 				</div>
 			</nav>
 			<nav class="sub_nav">
 				<div class="content_wrapper">
-          									<a href="/products/protandim">
-							<img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/nav/nav-protandim.jpg" alt="Protandim">
+										<a href="/products/protandim/">
+						<img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/nav/nav-protandim.jpg" alt="Protandim">
+						<div class="label">
+							<span class="title">Protandim</span>
+						</div>
+					</a>
+															<a href="/products/axio/">
+						<img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/nav/nav-axio.jpg" alt="Axio">
+						<div class="label">
+							<span class="title">AXIO</span>
+						</div>
+					</a>
+																<a href="/products/physiq/">
+							<img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/nav/nav-physiq.jpg" alt="PhysIQ, New">
 							<div class="label">
-								<span class="title">Protandim<sup>®</sup></span>
+								<span class="title">PhysIQ</span>
 							</div>
 						</a>
-          			          									<a href="/products/axio/">
-							<img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/nav/nav-axio.jpg" alt="Axio">
-							<div class="label">
-								<span class="title">Axio</span>
-							</div>
-						</a>
-          			          									<a href="/products/truescience/">
+																<a href="/products/truescience/">
 							<img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/nav/nav-truescience.jpg" alt="TrueScience">
 							<div class="label">
 								<span class="title">TrueScience</span>
@@ -265,16 +448,16 @@ img.emoji {
 			<div id="page" class="content outset_header">
 
 
-<section class="clearfix" id="invest">
+<section class="bg_white clearfix">
 	<div class="site_width clearfix m_t_5">
-		<div class="col_2_3 left f_l">
+		<div class="m_auto" style="max-width:750px;">
 			<h3 class="font_title text_blue_1">Privacy Policy</h3>
 			<h2 class="font_title text_blue_2">LifeVantage Policy of User Privacy</h2>
-			<p></p><p>Thank you for visiting our website ("Site"). As used herein, the terms "LifeVantage", "our," "we," and "us" refer to LifeVantage Corporation unless the context clearly provides otherwise. We may update this Privacy Policy from time to time without prior notice to you. We encourage you to review the Privacy Policy periodically for any updates.</p>
+			<p></p><p>Thank you for visiting our website (“Site”). As used herein, the terms “LifeVantage”, “our,” “we,” and “us” refer to LifeVantage Corporation unless the context clearly provides otherwise. We may update this Privacy Policy from time to time without prior notice to you. We encourage you to review the Privacy Policy periodically for any updates.</p>
 <p>LifeVantage is committed to safeguarding and protecting customers. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site and how we may use that information.</p>
 <p><strong>Information LifeVantage Collects</strong><br>
-We may collect either anonymous or personal information on the Site. Anonymous information refers to website use information that cannot be traced back to a specific individual, e.g., the total number of visitors to our Site ("General Information"). Personal information refers to specific information about a customer, e.g., name, address, e-mail address, telephone number and credit card information. ("Personal Information"). Please note that it is your choice to share Personal Information via the Site.</p>
-<p>LifeVantage may collect certain General Information automatically, including "site usage" information from all visitors to the Web Site. Such data is used only in the aggregate. General Information helps LifeVantage to improve your experience. This type of General Information may be shared with third parties any time.</p>
+We may collect either anonymous or personal information on the Site. Anonymous information refers to website use information that cannot be traced back to a specific individual, e.g., the total number of visitors to our Site (“General Information”). Personal information refers to specific information about a customer, e.g., name, address, e-mail address, telephone number and credit card information. (“Personal Information”). Please note that it is your choice to share Personal Information via the Site.</p>
+<p>LifeVantage may collect certain General Information automatically, including “site usage” information from all visitors to the Web Site. Such data is used only in the aggregate. General Information helps LifeVantage to improve your experience. This type of General Information may be shared with third parties any time.</p>
 <p><strong>Ordering</strong><br>
 When you place an order for products or services, we collect Personal Information (such as name, contact and billing information, credit card, and other transaction information). We use this information to deliver your order, process payment, and to communicate with you about the status of your order. We may provide information necessary to the delivery of your order to our shipping partners that may include the type of products ordered.</p>
 <p><strong>Security</strong><br>
@@ -291,7 +474,7 @@ From time to time, we may provide Personal Information in response to court orde
 <p><strong>Protecting Your Information</strong><br>
 We acknowledge your trust and are committed to take reasonable steps to protect Personal Information you provide online from loss, misuse, and unauthorized access. We employ physical, electronic, and managerial processes to safeguard and secure your information.</p>
 <p><strong>Use of Cookies On This Site</strong><br>
-A "cookie" is a small data file transferred to your computer’s hard drive that allows a Web site to respond to you as an individual, gathering and remembering information about your preferences in order to tailor its operation to your needs, likes and dislikes. Cookies also enable us to keep track of a consumer’s electronic "shopping cart" before completing a purchase. Accepting a cookie does not provide us access to your computer or any Personal Information about you, other than the information you choose to share. Other servers cannot read them, nor can they be used to deliver a virus.</p>
+A “cookie” is a small data file transferred to your computer’s hard drive that allows a Web site to respond to you as an individual, gathering and remembering information about your preferences in order to tailor its operation to your needs, likes and dislikes. Cookies also enable us to keep track of a consumer’s electronic “shopping cart” before completing a purchase. Accepting a cookie does not provide us access to your computer or any Personal Information about you, other than the information you choose to share. Other servers cannot read them, nor can they be used to deliver a virus.</p>
 <p><strong>Links To Other Web Sites</strong><br>
 Links to third-party Web sites may be provided solely for your information and convenience. If you use these links, you will leave our Site. This Privacy Statement does not cover the information practices of those Web sites linked to our Site, nor do we control their content or privacy policies. We suggest that you carefully review the privacy policies of each site you visit.</p>
 <p><strong>Children’s Privacy Protection</strong><br>
@@ -315,11 +498,12 @@ Sandy, UT 84070<br>
 	</div>
 </section>
 
+
 				</div>
 				<!-- /#page.content -->
 
 				<section id="purpose_statement">
-	<div class="full_bg focus-right-5" data-stellar-ratio=".9"></div>
+	<div class="full_bg focus-right-5"></div>
 	<div class="section_title">Our Purpose</div>
 	<div class="content_wrapper">
 		<div class="wrapper">
@@ -328,18 +512,16 @@ Sandy, UT 84070<br>
 			</div>
 			<div class="purpose">
 				<div class="statement">
-					Progress is not essential to the human condition, progress <em>is</em> the human condition.
+					We're a community of life-minded people focused on just one thing: making your life better today.
 				</div>
 				<p class="about">
 					At <span class="bold">Life</span>Vantage curiosity has our attention, science has our back and we recognize–and firmly believe–that your growth is the way of our future.
 				</p>
 				<div class="sub_statement">
-					Find a higher calling with LifeVantage and <strong>Venture Higher</strong><span class="sup">™</span>
+					Find your higher calling with LifeVantage and <strong>Venture Higher</strong><span class="sup">™</span>
 				</div>
-				<div class="controls">
-					<a href="https://beta-lifevantage.myvoffice.com/Application/index.cfm" class="control arrow_link_blue">Join Us</a>
-				</div>
-			</div>
+									<a class="control arrow_link_blue" href="https://evo-lifevantage.myvoffice.com/Application">Join Us</a>
+							</div>
 		</div>
 	</div>
 	<!-- /.content_wrapper -->
@@ -354,27 +536,38 @@ Sandy, UT 84070<br>
 						<div class="group">
 				<h4 class="h7_sans"><a href="/products/">Products</a></h4>
 				<ul class="group_nav">
-					<li class="group_nav_item"><a href="/products/protandim/">Protandim</a></li>					<li class="group_nav_item"><a href="/products/axio/">Axio</a></li>					<li class="group_nav_item"><a href="/products/truescience/">TrueScience</a></li>					<li class="group_nav_item"><a href="/products/canine-health/">Canine Health</a></li>					<li class="group_nav_item"><a href="http://cart.lifevantage.com/product">Buy Products</a></li>				</ul>
+											<li class="group_nav_item"><a href="/products/protandim/">Protandim</a></li>
+																<li class="group_nav_item"><a href="/products/axio/">AXIO</a></li>
+																<li class="group_nav_item"><a href="/products/physiq/">PhysIQ</a></li>
+																<li class="group_nav_item"><a href="/products/truescience/">TrueScience</a></li>
+																<li class="group_nav_item"><a href="/products/canine-health/">Canine Health</a></li>
+									</ul>
 			</div>
 						<div class="group">
 				<h4 class="h7_sans"><a href="/company/">Company</a></h4>
 				<ul class="group_nav">
-					<li class="group_nav_item"><a href="/company/management-team/">Management Team</a></li>						<li class="group_nav_item"><a href="/news-center/">News Center</a></li>												<li class="group_nav_item"><a href="/company/lifevantage-legacy/">LifeVantage Legacy</a></li>						<li class="group_nav_item"><a href="/company/careers/">Careers</a></li>												<li class="group_nav_item"><a href="/faqs/">FAQs</a></li>				</ul>
+					<li class="group_nav_item"><a href="/company/management-team/">Management Team</a></li>						<li class="group_nav_item"><a href="/news-center/">News Center</a></li>						<li class="group_nav_item"><a href="/company/lifevantage-legacy/">LifeVantage Legacy</a></li>						<li class="group_nav_item"><a href="/company/careers/">Careers</a></li>												<li class="group_nav_item"><a href="/faqs/">FAQs</a></li>				</ul>
 			</div>
 						<div class="group">
 				<h4 class="h7_sans">Quick Links</h4>
 				<ul class="group_nav">
-					<li class="group_nav_item"><a href="/opportunity/">Opportunity</a></li>					<li class="group_nav_item"><a href="/science/">Science</a></li>										<li class="group_nav_item"><a href="https://beta-lifevantage.myvoffice.com/Application/index.cfm">Become a Distributor</a></li>
-					<li class="group_nav_item"><a href="http://www.lvnmedia.com">LVN Media</a></li>									</ul>
+					<li class="group_nav_item"><a href="/opportunity/">Opportunity</a></li>					<li class="group_nav_item"><a href="/science/">Science</a></li>																<li class="group_nav_item"><a href="https://evo-lifevantage.myvoffice.com/Application">Join Us</a></li>
+										<li class="group_nav_item"><a href="http://www.lvnmedia.com">LVN Media</a></li>				</ul>
 			</div>
 						<div class="group">
 				<h4 class="h7_sans">Resources</h4>
 				<ul class="group_nav">
-					<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Distributor-App-V.03.pdf">Distributor Enrollment Form</a></li>					<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/Application_PreferredCustomer_USA_2015.04.07.pdf">Preferred Customer Enrollment Form</a></li>										<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/2015.04.01-PPs_USA.pdf">Policies &amp; Procedures</a></li>					<!-- repeater field is here if needed -->
-										<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/LifeVantage-Earnings-Claim-Statement-V.04.pdf">Earnings Claim Statement</a></li>
+					<!-- repeater field is here if needed -->
+										<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2016/05/US-Distributor-App-V.01.pdf">Distributor Enrollment Form</a></li>
+										<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2016/05/US-Preferred-Customer-App-V.06.pdf">Preferred Customer Enrollment Form</a></li>
+										<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Compensation-Plan-Highlights-Flyer-V.06.pdf">Compensation Plan Highlights</a></li>
+										<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Policies-Procedures-V.10.pdf">Policies &amp; Procedures</a></li>
+										<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Earnings-Income-Statement-V.02.pdf">Earnings Claim Statement</a></li>
+										<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Opportunity-Pack-Table-V.02-1.pdf">Opportunity Packs</a></li>
+										<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2016/04/Business-Entity-form-V.02-1.pdf">US Business Entity Form</a></li>
 															<li class="group_nav_item"><a href="/suppliers/">Supplier Information</a></li>				</ul>
 			</div>
-			<!-- <small>4.2.1</small> -->
+			<!-- <small>4.4.2</small> -->
 		</nav>
 		<nav class="social_nav">
 			<a href="https://www.facebook.com/LifeVantage">
@@ -404,18 +597,22 @@ Sandy, UT 84070<br>
 					</div>
 					<section class="final">
 						<div class="content_wrapper">
-							<nav class="extra_nav">
-								<br>
-								<a href="//investor.lifevantage.com">Investor Info</a>																<a href="/privacy-policy/">Privacy Policy</a>								<a href="/terms-of-use/">Terms of Use</a>								<a href="/company/contact-us/">Contact Us</a>
-							</nav>
+							<div class="extra">
+								<nav class="extra_nav">
+									<a href="http://investor.lifevantage.com">Investor Info</a>																		<a href="/privacy-policy/">Privacy Policy</a>									<a href="/terms-of-use/">Terms of Use</a>									<a href="/company/contact-us/">Contact Us</a>
+																										</nav>
+								<div class="disclaimer">
+									These statements have not been evaluated by the Food and Drug Administration.<br>
+These products are not intended to diagnose, treat, cure or prevent disease.								</div>
+							</div>
 							<div class="about">
-								<div class="wrap  tooltip" data-tooltip="The Direct Selling Association (DSA) is the national trade association of the leading firms that manufacture and distribute goods and services sold directly to consumers.<br><br>The Association's mission is <em>'To protect, serve and promote the effectiveness of member companies and the independent business people they represent. To ensure that the marketing by member companies of products and/or the direct sales opportunity is conducted with the highest level of business ethics and service to consumers.'</em>
+								<div class="wrap dsa tooltip" data-tooltip="The Direct Selling Association (DSA) is the national trade association of the leading firms that manufacture and distribute goods and services sold directly to consumers.<br><br>The Association's mission is <em>'To protect, serve and promote the effectiveness of member companies and the independent business people they represent. To ensure that the marketing by member companies of products and/or the direct sales opportunity is conducted with the highest level of business ethics and service to consumers.'</em>
 <div class='text_c m_t_2'><a href='http://www.dsa.org' target='_blank'>www.dsa.org</a></div>
 <div class='text_c m_t_2'><a href='http://www.directselling411.com' target='_blank'>www.directselling411.com</a></div>
 <div class='text_c m_t_2'><a href='http://www.dsef.org/what-we-do/ethics-initiative/?fa=dsef-cbbb-partnership' target='_blank'>www.dsef.org</a></div>
-<div class='text_c m_t_2'><a href='http://www.dsa.org/docs/default-source/ethics/codeofethics-fulltext.pdf' target='_blank'>DSA Code of Ethics</a></div>
+<div class='text_c m_t_2'><a href='http://www.dsa.org/docs/default-source/Code-of-Ethics/dsa_codeofethics12-18-2015.pdf?sfvrsn=0' target='_blank'>DSA Code of Ethics</a></div>
 ">
-									<div class="legal">© 2015 LifeVantage Corporation. All rights reserved.<span class="res_hide"><br>LifeVantage is a proud member of the Direct Selling Association.</span></div>
+									<div class="legal">© 2016 LifeVantage Corporation. All rights reserved.<span class="res_hide"><br>LifeVantage is a proud member of the Direct Selling Association.</span></div>
 								</div>
 							</div>
 						</div>
@@ -424,34 +621,46 @@ Sandy, UT 84070<br>
 			</div>
 			<!-- /#shiftable -->
 
-					</div>
+			
+			<div id="overlay">
+				<div id="continue_shopping" class="btn_container">
+					<div class="btn_new_stealth">Continue Shopping</div>
+				</div>
+			</div>
+
+			
+		</div>
 		<!-- /.container -->
 
 		<!-- Google Analytics -->
 		<script type="text/javascript">
+			// New Analytics
+			window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 
-			// variable used to set high dpi screen tracking
-			var pixelRatio = (window.devicePixelRatio >= 1.5) ? "high dpi" : "normal";
+			// Analytics ID's
+			ga('create', 'UA-8177000-1', 'auto');
+			
+			// Custom Dimensions
+			// screen pixel density tracking
+			var pixelDensity = (window.devicePixelRatio >= 1.5) ? "high dpi" : "normal";
+			ga('set', 'dimension1', pixelDensity);
 
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-8177000-1']);
-			_gaq.push(['_setDomainName', 'lifevantage.com']);
-
-			// set custom variables
-			_gaq.push(['_setCustomVar', 1, 'Pixel Ratio', pixelRatio, 2 ]);
-
-			// track page view
-			_gaq.push(['_trackPageview']);
-
-			(function() {
-					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			})();
-
+			// Send All Data to GA
+			ga('send', 'pageview');
+			
 		</script>
+		<script async="" src="//www.google-analytics.com/analytics.js"></script>
 		<!-- End Google Analytics -->
-		<script src="http://localhost:35729/livereload.js?snipver=1"></script><script type="text/javascript" src="http://www.lifevantage.com/wp-includes/js/comment-reply.min.js?ver=4.2.1"></script>
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"17226b5896","applicationID":"2227725,2227726","transactionName":"NQNRMkpYDUVUWhYNVwxJcgVMUAxYGkkDA11PFkEPTlgATxhJDQhRAR8=","queueTime":0,"applicationTime":545,"atts":"GURSRAJCHks=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+		<script type="text/javascript" src="http://www.lifevantage.com/wp-includes/js/comment-reply.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://www.lifevantage.com/wp-includes/js/wp-embed.min.js?ver=4.4.2"></script>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"17226b5896","applicationID":"14587334","transactionName":"NQNRMkpYDUVUWhYNVwxJcgVMUAxYGkkDA11PFkEPTlgATxhJDQhRAR8=","queueTime":0,"applicationTime":904,"atts":"GURSRAJCHks=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script>
 
 </body></html>
