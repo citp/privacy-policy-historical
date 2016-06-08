@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bombbomb.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910174744id_/http%3A//bombbomb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bombbomb.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608073954id_/http%3A//bombbomb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Video Email using Gmail, Mobile, and Web | BombBomb.com
 
