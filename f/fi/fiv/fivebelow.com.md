@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fivebelow.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926102244id_/http%3A//www.fivebelow.com/privacy-policy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivebelow.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608035751id_/http%3A//www.fivebelow.com/privacy-policy-terms) for the most accurate reproduction.*
 
 # Privacy Policy & Terms | Five Below
 
