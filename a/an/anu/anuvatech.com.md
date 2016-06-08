@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anuvatech.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013042332id_/http%3A//anuvatech.com/about-us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anuvatech.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609002618id_/http%3A//anuvatech.com/about-us/privacy.php) for the most accurate reproduction.*
 
 # SEO Privacy Policy | Consider Us For Private Label SEO Services
 
@@ -40,4 +40,4 @@ While ANUVA Technologies is committed to protecting your personal information, n
 
 When you sign up for ANUVA Technologies's products and service, we may send you an e-mail confirming your new account. The message will be sent to the address that you supplied to us at the time of sign-up and will describe ways for you to change or delete the account information provided. Remember to keep the confirmation e-mail as it will also contain information that will help you in case you run into problems accessing our services.
 
-We would be happy to talk to you for any queries you might have. [Contact Us](https://web.archive.org/web/20151013042332id_/http%3A//anuvatech.com/contact-us.php) and we would gladly call you back. 
+We would be happy to talk to you for any queries you might have. [Contact Us](https://web.archive.org/web/20160609002618id_/http%3A//anuvatech.com/contact-us.php) and we would gladly call you back. 
