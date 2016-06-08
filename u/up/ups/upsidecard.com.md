@@ -1,20 +1,10 @@
-> *The following text is extracted and transformed from the upsidecard.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930002542id_/http%3A//www.upsidecard.com/PrivatePolicy.aspx%3Fsitemode%3Dlife) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsidecard.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608220905id_/http%3A//www.upsidecard.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Privacy Policy for UPside Visa Prepaid Cards
 
 This Privacy Disclosure explains the privacy policies of Plastyc Inc. (“Plastyc”) with respect to the UPside Card Services inclusive of customer enrollment, self care and value added services provided through any combination of the UPside Card websites, phone lines and electronic mail and postal mail services, but exclusive of the payment transaction services and card issuance services, which are governed by the MetaBank Privacy Policy.
 
 We are committed to protecting our customers’ privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties. This Privacy Disclosure applies to all users of our websites and value-added services, whether they are minor or major, and whether they are a prospective cardholder, existing cardholder, or parent/tutor of a prospective or existing cardholder.
-
-**The Children Online Privacy Protection Act (COPPA)**
-
-The Children Online Privacy Protection Act, effective April 21, 2000 applies to the online collection of personally identifiable information and aggregate information from children under 13. We do not knowingly market to or solicit information from children under 13. We have made it a policy at Plastyc to not accept any applications or communications from children under the age of 13. Since we do not collect information from children we are not required by law to comply with COPPA, but we do choose to adhere to its principles. We are not responsible for the data collection and practices of nonaffiliated third parties that may be linked to/from our Web site, with respect to COPPA compliance.
-
-We recognize that protecting children’s identities and privacy online is important and that the responsibility to do so rests with both the online industry and with parents. While Plastyc works to protect your personal information, you also have responsibility.
-
-**INTERNET SAFETY For CHILDREN**
-
-The Internet is a public network. Children’s access to the Internet can allow them to visit inappropriate Web sites and be exposed to unwanted risks. Parents can be proactive by installing filtering software that gives them more control over their family’s Internet experience. Learn more about COPPA at [www.coppa.org](http://www.coppa.org/) and on the Federal Trade Commission’s Web Site at [www.ftc.gov](http://www.ftc.gov/).
 
 **1\. DEFINITIONS**
 
@@ -84,14 +74,6 @@ Once your application for an UPside Card is successfully approved, you may opt t
 During the photo depositing of a paper check, your choice of obtaining your funds in minutes or waiting a few days for the check to clear, will be recorded, as well as your decision to approve or decline the fee relative to the service.
 
 We may share non-personally identifiable information such as the frequency and amounts of photo deposits of checks, the percentage of "funds in minutes" versus of "funds in days" that you have chosen and the percentage of instances when you have declined the fees, strictly for research purposes and only to non-commercial third parties. Such information will never be used for marketing purposes.
-
- _Visits to the UPside Mall_
-
-You may choose to visit the UPSide Mall pages of this website either after having logged in as a registered user or simply as a visitor, i.e. without having entered a username and password. If you visit the UPside Mall as a visitor and choose to click on one of the product or merchant links, your action of clicking will be registered anonymously, i.e. without personally identifiable information, by both our servers and the destination merchant’s servers, for the sole purpose of determining if such selection later results in a purchase by you, and therefore determine the efficiency of the UPside Mall in driving traffic towards its merchants.
-
-If you visit the UPside Mall after having logged in and choose to click on one of the product or merchant links, your action will be registered by our servers as related to you as an individual user, whereas your action will be recorded anonymously without personally identifiable information by the destination merchant.
-
-We record your action for the sole purpose of being able to grant you loyalty points, should your action be followed up by a purchase by you from the merchant. Such information will not be shared or sold to any third party.
 
  _Participation in Surveys or Contests_
 
