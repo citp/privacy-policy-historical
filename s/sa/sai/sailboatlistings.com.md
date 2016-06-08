@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sailboatlistings.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208182214id_/http%3A//sailboatlistings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailboatlistings.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608151707id_/http%3A//sailboatlistings.com/privacy) for the most accurate reproduction.*
 
 # Sailboat Listings privacy policy
 
@@ -33,9 +33,19 @@
 
 **Do we use cookies?**
 
-> Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to understand and save your preferences for future visits. Google, as a third party vendor, uses cookies to serve ads. Google's use of the DART cookie enables it to serve ads to users based on their visit to SailboatListings.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting [Ads Settings](http://www.google.com/ads/preferences/). You may also opt out of a third-party vendor's use of cookies for interest based advertising by visiting [http://www.aboutads.info](http://www.aboutads.info/)
+> Yes.
+> 
+> Cookies are small files that a site or its service provider transfer to your computer's hard drive through your Web Browser (if you allow in your browser settings) that enable the site's or service provider's systems to recognize your browser and capture and remember certain information. 
+> 
+> We use cookies to understand and save your preferences for future visits, to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. Google, as a third party vendor, uses cookies to serve ads. Google's use of the DART cookie enables it to serve ads to users based on their visit to SailboatListings.com and other sites on the Internet. 
+> 
+> Users may opt out of the use of the DART cookie by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
+> 
+> You may also opt out of a third-party vendor's use of cookies for interest based advertising by visiting [www.aboutads.info](http://www.aboutads.info/)
 
->  
+**Cookie Policy**
+
+> In order to deliver the website while providing an optimal experience, cookies are required. By using our site, you consent to the use of cookies. You may disable cookies in your own web browser or device if you do not wish cookies to be used or stored, but your experience may be less than optimal due to untargeted ads and some functions may not work.
 
 **Terms and Conditions**
 
