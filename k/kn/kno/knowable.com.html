@@ -1,0 +1,490 @@
+<!--The following is the downloaded HTML source of the knowable.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608100904id_/http%3A//www.knowable.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta property="fb:pages" content="101496476875441">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WM9DKS"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAUFVFNRGwIAV1VSBwID"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+ 
+<script>
+		var _comscore = _comscore || [];
+		_comscore.push({ c1: "2", c2: "21229662" });
+		(function() {
+			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		})();
+	</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=21229662&cv=2.0&cj=1"/>
+</noscript>
+ 
+<meta name="apple-itunes-app" content="app-id=998366781">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1 ">
+<title>Privacy Policy</title>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#222222">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="keywords" content="knowable privacy policy">
+<meta name="description" content="Privacy policy.">
+<script type="text/javascript">
+        var is_mobile = false;
+
+    </script>
+<link rel="canonical" href="http://www.knowable.com/privacy">
+<!--[if lt IE 9]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<![endif]-->
+<meta property="og:url" content="http://www.knowable.com/privacy">
+<meta property="og:site_name" content="knowable.com">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="Privacy policy.">
+<meta property="fb:app_id" content="453142431538593">
+<meta property="fb:admins" content="571518034">
+<meta property="fb:admins" content="509270417">
+<meta property="fb:admins" content="72602842">
+<script src="/includes/js/jquery.min.js"></script>
+<script src="/includes/js/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="/css/jqueryui/css/smoothness/jquery-ui-1.10.1.custom.min.css">
+<link rel="stylesheet" href="/css/styles-main-v1.2.0.8.css">
+<script>var facebook_app_id = 453142431538593;</script>
+<link href="https://plus.google.com/u/0/b/103801024891213218298" rel="publisher">
+</head>
+<body class="privacy-page">
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WM9DKS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WM9DKS');</script>
+ 
+<div class="ad-tag" data-ad-name="native_head" data-ad-size="1x1"></div>
+<script>(deployads = window.deployads || []).push({});</script>
+<div class="tickld-article-styles " id="main-container">
+<div class="tickld-modal"></div>
+<div class="page-wrapper fixed">
+<div class="content-wrapper">
+<div class="header-primary">
+<header class="header-primary-top">
+<div class="menu-toggle">
+<div class="one"></div><div class="two"></div><div class="three"></div>
+</div> 
+<h1 class="tickld-logo">
+<a href="/">
+<div><span>Knowable</span></div>
+</a>
+</h1>
+<div class="header-primary-right">
+ 
+<ul class="header-notifications-nav logged-in">
+<div class="active-indicator"></div>
+ 
+<li class="notifications action">
+<i class="icon-notifications trigger" id="header_notification_count"></i>
+<div class="dropdown-content">
+<div class="dropdown-title">Notifications <a class="pull-right" href="#" id="clear_all_notifications">Clear All</a></div>
+<ul class="notifications-list">
+</ul>
+<a href="/n" class="tickld-btn block tac">SEE ALL</a>
+</div>
+</li>
+</ul> 
+<ul class="user-actions-nav logged-in">
+<li class="user tickld-dropdown">
+<i class="icon-user"></i> <span class="username-holder">username</span>
+<ul>
+<li>
+<a href="/user"><i class="icon-user sml"></i>My Profile</a>
+</li>
+<li><a href="/settings"><i class="icon-settings sml"></i>Settings</a></li>
+ 
+<li><a href="#" class="logout"><i class="icon-logout sml"></i>Logout</a>
+</li>
+</ul>
+</li>
+</ul> 
+ 
+ 
+<ul class="header-notifications-nav logged-out">
+<div class="active-indicator"></div>
+<li class="">
+<a class="signup_inline_action tup" href="/signup" id="reg_a">Register</a>
+</li>
+</ul> 
+<div class="header-login logged-out">
+<a href="/signin" class="tup tickld-btn post-content">Login</a>
+</div>
+ 
+<div><button type="button" class="button secondary vc-upload">UPLOAD VIDEO</button></div>
+</div> 
+</header> 
+<div class="header-primary-bottom">
+<div class="header-primary-nav">
+<ul>
+<li><a class="" href="/fandemonium" title="Go to GEORGE TAKEI’S FAN-DEMONIUM">GEORGE TAKEI’S FAN-DEMONIUM</a></li>
+<li><a class="" href="/all/hot" title="Go to WATCH VIDEOS">WATCH VIDEOS</a></li>
+<li><a class="" href="/section/funny" title="Go to Funny">FUNNY</a></li>
+<li><a class="" href="/section/cute" title="Go to Cute">CUTE</a></li>
+<li><a class="" href="/section/sad" title="Go to Sad">SAD</a></li>
+<li><a class="" href="/section/heartwarming" title="Go to Heartwarming">HEARTWARMING</a></li>
+<li><a class="" href="/section/news" title="Go to News">NEWS</a></li>
+<li><a class="" href="/section/spooky" title="Go to Spooky">SPOOKY</a></li>
+<li><a class="" href="/section/happy" title="Go to Happy">HAPPY</a></li>
+<li><a class="" href="/section/science" title="Go to Science">SCIENCE</a></li>
+<li><a class="" href="/section/amazing" title="Go to Amazing">AMAZING</a></li>
+<li><a class="" href="/section/list" title="Go to Lists">LISTS</a></li>
+<li><a class="" href="/section/lgbt" title="Go to LGBT">LGBT</a></li>
+</ul>
+</div> 
+</div> 
+</div> 
+<div class="mobile-navigation-panel">
+<ul class="mobile-nav">
+<li class="username logged-in-mob">
+<a href="/user/"><i class="icon-user"></i> <span class="username-holder">username</span></a>
+<a href="/settings" class="pull-right settings"><i class="icon-settings"></i></a>
+</li>
+<li class="login logged-out-mob">
+<a href="/signin" class="signup_inline_action">Login / Register</a>
+</li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<li><a class="" href="/fandemonium" title="Go to GEORGE TAKEI’S FAN-DEMONIUM">GEORGE TAKEI’S FAN-DEMONIUM</a></li>
+<li><a class="" href="/all/hot" title="Go to WATCH VIDEOS">WATCH VIDEOS</a></li>
+<li><a class="" href="/section/funny" title="Go to Funny">FUNNY</a></li>
+<li><a class="" href="/section/cute" title="Go to Cute">CUTE</a></li>
+<li><a class="" href="/section/sad" title="Go to Sad">SAD</a></li>
+<li><a class="" href="/section/heartwarming" title="Go to Heartwarming">HEARTWARMING</a></li>
+<li><a class="" href="/section/news" title="Go to News">NEWS</a></li>
+<li><a class="" href="/section/spooky" title="Go to Spooky">SPOOKY</a></li>
+<li><a class="" href="/section/happy" title="Go to Happy">HAPPY</a></li>
+<li><a class="" href="/section/science" title="Go to Science">SCIENCE</a></li>
+<li><a class="" href="/section/amazing" title="Go to Amazing">AMAZING</a></li>
+<li><a class="" href="/section/list" title="Go to Lists">LISTS</a></li>
+<li><a class="" href="/section/lgbt" title="Go to LGBT">LGBT</a></li>
+<li class="logged-in-mob logout"><a href="#" class="logout"><i class="icon-logout"></i>Log Out</a></li>
+</ul> 
+</div> 
+<div class="tickld-body-main row">
+<section class="main-page">
+<div class="bg row">
+<section class="privacy-policy">
+<header>
+<h1 id="policy-sidebar" class="top_of_page">Privacy Policy <span class="last-updated">Last Updated: 08 March 2016</span></h1>
+</header>
+ 
+<aside class="sidebar large-3 medium-4 columns">
+<div class="panel blog-archives">
+<header>
+<h2>Contents</h2>
+</header>
+<ul><li><a href="#section_1">Preface</a></li><li><a href="#section_2">Definitions</a></li><li><a href="#section_3">Introduction</a></li><li><a href="#section_4">What We Collect</a></li><li><a href="#section_5">What We Do With The Information We Gather</a></li><li><a href="#section_6">Who Else Gets To See Your Personal Data</a></li><li><a href="#section_7">Security, Retention and Storage</a></li><li><a href="#section_8">How We Use Cookies</a></li><li><a href="#section_9">Links to Other Websites</a></li><li><a href="#section_10">Controlling Your Personal Data</a></li><li><a href="#section_11">Contact Information</a></li> </ul>
+</div>
+</aside>
+ 
+<div class="blog-list large-9 medium-8 padding-md"> <div id="Preface" class="list-item row">
+<div id="section_1" class="medium-9 columns">
+<h1>1- Preface</h1>
+<p>This privacy policy applies to www.knowable.com owned and operated by Tickld, Limited ("Knowable"). Knowable is committed to ensuring that the privacy of all visitors to www.tickld.com is preserved. Please read the following Privacy Policy to understand how we collect, use, disclose and protect the information you provide to us. By using our Site you consent to the collection, use and disclosure of your personal data under the terms of this Privacy Policy.</p>
+</div> <div class="medium-3 columns tac">
+<img src="/images/privacy-policy-01.png" alt="Preface">
+</div> </div> <div id="Definitions" class="list-item row">
+<div id="section_2" class="medium-12 columns">
+<h1>2- Definitions</h1>
+<p>The following words and expressions have the following meanings unless inconsistent with the context:
+</p><table class="full-width col-alt">
+<tbody><tr>
+<td class="medium-6">Compliance Officer</td>
+<td class="medium-6">Kyle contactable at kyle@tickld.com<br>
+<br>
+Compliance Officer<br>
+Tickld, Limited<br>
+60 St. Clair Avenue East<br>
+Suite 300<br>
+Toronto, Ontario<br>
+M4T 1N5<br>
+Canada<br>
+</td>
+</tr>
+<tr>
+<td class="medium-6">Cookies</td>
+<td class="medium-6">a small amount of data sent from the server which is then stored on your computer's internal storage device (HDD, SSD);
+</td>
+</tr>
+<tr>
+<td class="medium-6">DPA</td>
+<td class="medium-6">Data Protection Act 1998 as amended from time to time;
+</td>
+</tr>
+<tr>
+<td class="medium-6">'data processors','personal data','process','processing' or 'sensitive personal data'</td>
+<td class="medium-6">For UK residents, as defined by the DPA;<br>
+For Canadian residents, 'personal data' means information about an identifiable individual;
+</td>
+</tr>
+<tr>
+<td class="medium-6">PIPEDA</td>
+<td class="medium-6">Personal Information Protection and Electronic Documents Act, SC 2000, c. 5 (Canada), as amended from time to time;
+</td>
+</tr>
+<tr>
+<td class="medium-6">Site</td>
+<td class="medium-6">www.knowable.com;
+</td>
+</tr>
+<tr>
+<td class="medium-6">'we', 'us' or 'our'</td>
+<td class="medium-6">Tickld, Limited, a company duly incorporated under the laws of Ontario;</td>
+</tr>
+<tr>
+<td class="medium-6">'you', 'your''</td>
+<td class="medium-6">an individual, company or firm accessing our Site.</td>
+</tr>
+</tbody></table><p></p>
+</div> </div> <div id="Introduction" class="list-item row">
+<div id="section_3" class="medium-12 columns">
+<h1>3- Introduction</h1>
+<p>This Privacy Policy is a statement as to how we shall process your personal data. We take the security and privacy of you and your personal data very seriously and we are committed to safeguarding your privacy on line. Please be aware that communications over the Internet, such as emails, are not secure unless they are encrypted. We do not accept any responsibility for any unauthorized access, theft or loss of personal data beyond our reasonable control. Knowable may change this policy without notice from time to time to reflect changes in legal or regulatory obligations. However, if we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 28 June 2014.</p><p></p>
+</div> </div> <div id="What We Collect" class="list-item row">
+<div id="section_4" class="medium-9 columns">
+<h1>4- What We Collect</h1>
+<p>We may collect the following personal data:
+</p><ol>
+<li>login information you provide to us upon registration with the Site, including your username, email address and password;</li>
+<li>personal data you provide to us following registration with the Site, including your date of birth and location;</li>
+<li>order information you provide to us when you purchase a product from the web store, including your legal name, postal address, details of your order and credit or debit card information;</li>
+<li>when you contact us via email, post or telephone we may collect personal data from you;</li>
+<li>personal data may also be obtained automatically by your internet browser settings;</li>
+<li>demographic information such as IP address, preferences and interests will be collected by Google Analytics software and Facebook Analytics software installed on the Site</li>
+<li>personal data collected where you complete our surveys and/or respond to our offers; and we may also collect non-personally identifiable information about your visit to our Site through the use of cookies. This information may include, for example, the pages you browse. This information helps us to better manage and develop our Site.</li>
+<li>When you download and use our Service, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID").</li>
+<li>We do not ask you for, access or track any location based information from your mobile device at any time while downloading or use our Mobile Apps or services.</li>
+</ol><p></p>
+</div> <div class="medium-3 columns tac">
+<img src="/images/privacy-policy-04.png" alt="What We Collect">
+</div> </div> <div id="What We Do With The Information We Gather" class="list-item row">
+<div id="section_5" class="medium-12 columns">
+<h1>5- What We Do With The Information We Gather</h1>
+<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+</p><ol>
+<li>internal record keeping;</li>
+<li>we can deal with any general queries you raise from time to time by post, by email or by telephone;</li>
+<li>we can process, bill you for and ship you products that you have purchased from our web store;</li>
+<li>we may use the information to improve our products and services;</li>
+<li>we may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided;</li>
+<li>for security purposes to protect your personal data held and/or processed by us;</li>
+<li>for training our employees in respect of providing our products and/or services to you; and</li>
+<li>for our general marketing purposes unless you have notified us to the contrary.</li>
+<li>to process User Moderation Applications; and</li>
+<li>to enforce our Terms of Use, Username Policy and other policies applicable to your use of the Site and our Mobile Apps; and,</li>
+<li>to occasionally send you push notifications through our mobile applications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.</li>
+</ol><p></p>
+</div> </div> <div id="Who Else Gets To See Your Personal Data" class="list-item row">
+<div id="section_6" class="medium-9 columns">
+<h1>6- Who Else Gets To See Your Personal Data</h1>
+<p>We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.<br><br></p><ol><li>Our data processors. We may share personal data with third parties engaged to assist us in providing services to you or to carry out one or more of the purposes described above. These service providers are prohibited from using your personal data for any purpose other than to provide this assistance and are required to protect personal data collected by them on behalf of Knowable or disclosed to them by Knowable and to comply with the general privacy principles described in this policy.</li> <li>Such marketing companies used by us from time to time</li><li>We reserve the right to disclose personal data to a third party if a law, regulation, search warrant, subpoena or court order legally requires or authorizes us to do so and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.</li><li>We reserve the right to disclose and/or transfer personal data to a third party in the event of a proposed or actual purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, merger, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Knowable, Limited or of any of the business or assets or shares of Knowable, Limited or a division thereof in order for you to continue to receive the same products and services from the third party. In any of these events, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</li></ol><p></p>
+</div> <div class="medium-3 columns tac">
+<img src="/images/privacy-policy-02.png" alt="Who Else Gets To See Your Personal Data">
+</div> </div> <div id="Security, Retention and Storage" class="list-item row">
+<div id="section_7" class="medium-9 columns">
+<h1>7- Security, Retention and Storage</h1>
+<p>We are committed to ensuring that your personal data is secure. In order to prevent loss, theft and unauthorized access, copying, use, modification or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and help secure the personal data we collect. All of our employees and sub-contractors with access to your personal data and/or who are associated with the processing of that data are contractually obliged to respect the confidentiality of your personal data. Our safeguards include firewalls, encryption technology, penetration testing, password protected computers and detailed contracts with our employees and contractors.<br><br> We retain your personal data for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws, and your consent to such purposes(s) remains valid after termination of our relationship with you.<br><br> For the purposes set out in this policy, we or one of our affiliates or an unaffiliated service provider may process and store your personal data outside of the jurisdiction in which you reside, and under the laws of those other foreign jurisdictions, in certain circumstances courts, law enforcement agencies, regulatory agencies or security authorities in those other foreign jurisdictions may be entitled to access your personal data. For more information about our policies and practices related to the use of foreign service providers, please contact our Compliance Officer as described above.</p>
+</div> <div class="medium-3 columns tac">
+<img src="/images/privacy-policy-07.png" alt="Security, Retention and Storage">
+</div> </div> <div id="How We Use Cookies" class="list-item row">
+<div id="section_8" class="medium-9 columns">
+<h1>8- How We Use Cookies</h1>
+<p></p><p>Our Site uses cookies, as almost all websites do, to help provide you with the best experience we can. Cookies are small text files that are placed on your computer or mobile phone when you browse websites.</p>
+<p>Our cookies can be categorized into the following types:</p>
+<ol>
+<li>Strictly necessary cookies. These are cookies that are required for the operation of our Site. They include, for example, cookies that enable you to log into secure areas.</li>
+<li>Analytical/performance cookies. They allow us to recognize and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our Site works, for example, by ensuring that users are finding what they are looking for easily.</li>
+</ol>
+<p>Our cookies help us:</p>
+<ol>
+<li>Make our website work as you would expect</li>
+<li>Save you having to login every time you visit the site</li>
+<li>Remember your settings during and between visits</li>
+<li>Offer you free services/content (thanks to advertising)</li>
+<li>Improve the speed/security of the site</li>
+<li>At your option, allow you to share pages with social networks like Facebook</li>
+<li>Personalize our site to you to help you get what you need faster</li>
+<li>Continuously improve our website for you</li>
+</ol>
+<p>We do not use cookies to:</p>
+<ol>
+<li>Collect any personally identifiable information (without your express permission)</li>
+<li>Collect any sensitive information (without your express permission)</li>
+<li>Share personally identifiable data to third parties (except as otherwise set out in this policy).</li>
+</ol>
+<p>We use cookies to make our website work including:</p>
+<ol>
+<li>Determining if you are logged in or not</li>
+<li>Allowing you to add comments to our site</li>
+<li>Tailoring content to your needs</li>
+<li>There is no way to prevent analytical or performance cookies being set other than to not use our Site. If you have disabled cookies in your browser, you will be denied access to the portions of the website that legitimately require cookies for functionality.</li>
+</ol>
+<p>We also use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the applications, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable informarion you submit within the mobile app.</p>
+<p>You can find more information about the individual cookies we use and the purposes for which we use them in the table below:</p>
+<table class="full-width col-alt"><tbody><tr><td class="medium-2"><b>Cookie</b><br><br></td><td class="medium-2"><b>Name</b><br><br></td><td class="medium-8"><b>Purpose</b><br><br></td></tr>
+<tr><td class="medium-2">Google Analytics</td><td class="medium-2">_utma, _utmb, _utmc, _utmz</td><td class="medium-8">These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.</td></tr>
+<tr><td class="medium-2">CloudFlare</td><td class="medium-2">__cfduid</td><td class="medium-8">In order to protect our website from security threats such as hackers and to boost its performance, we route our DNS through CloudFlare. This cookie is set by the CloudFlare service.</td></tr>
+<tr><td class="medium-2">Login</td><td class="medium-2">remember_me</td><td class="medium-8">Detect whether the user has opted to remain logged in on their computer</td></tr>
+<tr><td class="medium-2">Passcode</td><td class="medium-2">pass</td><td class="medium-8">An encrypted alphanumeric string to verify the user's identity</td></tr>
+<tr><td class="medium-2">User ID</td><td class="medium-2">userID</td><td class="medium-8">Save the user's unique identification number</td></tr></tbody></table>
+<p>Social Website Cookies/Media Widgets</p>
+<p>So you can easily share our content on the likes of Facebook and Twitter we have included sharing buttons on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. The privacy implications on this will vary from social network to social network and will be dependent on the privacy settings you have chosen on these networks.</p>
+<p>Advertising Cookies</p>
+<p>Cookies are widely used in online advertising. Neither us, advertisers or our advertising partners can gain personally identifiable information from these cookies. We only work with advertising partners who work to accepted privacy standards such as <a href="http://www.youronlinechoices.com/uk/">http://www.youronlinechoices.com/uk/</a> if you’re in the United Kingdom or <a href="http://youradchoices.ca">http://youradchoices.ca</a>, which a website managed by the Digital Advertising Alliance of Canada (DAAC) if you’re in Canada.</p>
+<p>You can learn more about online advertising at <a href="http://www.youronlinechoices.com">http://www.youronlinechoices.com</a>. You can opt-out of almost all advertising cookies at <a href="http://www.youronlinechoices.com/uk/your-ad-choices">http://www.youronlinechoices.com/uk/your-ad-choices</a> although we would prefer that you didn't as ultimately adverts help keep much of the internet free. It is also worth noting that opting out of advertising cookies will not mean you won't see adverts, just simply that they won't be tailored to you any longer.</p>
+<p>We use:</p>
+<ol>
+<li>AdSense</li>
+<li>AdX</li>
+<li>Rubicon</li>
+<li>Sortable</li>
+<li>AOL</li>
+<li>Tribal Fusion</li>
+<li>Taboola</li>
+</ol>
+<p>Please note that third parties (including, for example advertising networks and providers or external services like web traffic analysis services) will use cookies over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies. Information on how to block cookies can normally be found within the help features of your browser. If you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our Site. Information can also be found on the main browser websites: <a href="http://support.microsoft.com/kb/196955">http://support.microsoft.com/kb/196955</a> (Internet Explorer), <a href="http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences">http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences</a> (Firefox), <a href="http://support.apple.com/kb/PH5042">http://support.apple.com/kb/PH5042</a> (Safari)<br> <a href="http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95647">http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95647</a> (Chrome).</p>
+<p>Except for essential cookies, cookies from Google Analtyics and cookies from CloudFlare, all cookies will expire after 30 days. You may choose to clear these cookies prior to their automated expiration date.</p>
+<p>Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information.</p>
+<p></p>
+</div> <div class="medium-3 columns tac">
+<img src="/images/privacy-policy-03.png" alt="How We Use Cookies">
+</div> </div> <div id="Links to Other Websites" class="list-item row">
+<div id="section_9" class="medium-9 columns">
+<h1>9- Links to Other Websites</h1>
+<p>Our website may contain links to other websites of interest. However, once you have used these links to leave our Site, you should note that we do not have any control over that other website and the privacy practices of other websites. We cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this Privacy Policy. You should exercise caution and look at the privacy statement applicable to the website in question.<br><br>You can log in to our site using sign-in services such as Facebook Connect. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services such that of Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</p>
+</div> <div class="medium-3 columns tac">
+<img src="/images/privacy-policy-09.png" alt="Links to Other Websites">
+</div> </div> <div id="Controlling Your Personal Data" class="list-item row">
+<div id="section_10" class="medium-9 columns">
+<h1>10- Controlling Your Personal Data</h1>
+<p>You may choose to restrict the collection, use or disclosure of your personal data in the following ways: </p><ol> <li>When you submit posts or leave comments on the site, you should be aware that any information you provide may be read, collected, and used by others who access them. You can remove any of your previously submitted information, by contacting choosing the delete option or by contacting us at hello@knowable.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</li> <li>If you have previously agreed to us using your personal data, you may change your mind at any time by emailing us at hello@knowable.com. We will not sell, distribute, rent or lease your personal data to third parties unless we have your permission or are required by law to do so;</li> <li>If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by emailing us at hello@knowable.com.</li> <li>We may use your personal data to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You have the right to object to your personal data being used for 'direct marketing' purposes. You can change your options in relation to the promotional information you wish to receive at any time by contacting our Compliance Office in writing by post or email;</li> you can set your internet browser to refuse cookies or you can ask your internet browser to alter you when a cookies is being set up (see 'How We Use Cookies'); <li>You have the right to request from us information as to what personal data which we are processing about you under the DPA 1998, PIPEDA and other applicable privacy laws. Unless prohibited by law, a small fee of $10.00 CAD will be payable. Such requests will only be answered by registered post to ensure the privacy of the recipient. If you would like a copy of the relevant information please write by post or email to the Compliance Officer with the subject line '€˜Personal Data'™, which should be accompanied by the $10.00 fee (if applicable). We will provide you with the relevant information within 30 days of receipt of the fee or otherwise as required by law; and</li><li>For UK residents, you have other rights under the DPA in relation to our processing of your personal data.</li> </ol><p></p>
+</div> <div class="medium-3 columns tac">
+<img src="/images/privacy-policy-10.png" alt="Controlling Your Personal Data">
+</div> </div> <div id="Contact Information" class="list-item row">
+<div id="section_11" class="medium-9 columns">
+<h1>11- Contact Information</h1>
+<p>If you have any queries about our processing or use of your personal data, or wish to modify or correct or delete your personal data, you should write, in the first instance to our Compliance Officer. If you want to learn more about your rights regarding your personal data, you should contact (for UK residents) the Information Commissioner's office information line at: (0044) 01625 545745 or visit their website at <a href="www.ico.gov.uk">www.ico.gov.uk</a> or (for Canadian residents) the Office of the Privacy Commissioner of Canada at 1-800-282-1376 or visit their website at <a href="http://www.priv.gc.ca/index_e.asp">http://www.priv.gc.ca/index_e.asp</a>.</p>
+</div> <div class="medium-3 columns tac">
+<img src="/images/privacy-policy-11.png" alt="Contact Information">
+</div> </div> </div>
+ 
+</section>
+</div>
+<div id="tickld_bottom_module_container">
+</div>
+</section>
+</div>  
+<div class="footer-content">
+<p>
+<span class="copy-message">© Tickld, Limited 2016 <a href="http://www.gatewaymedia.com/">Gateway Media Pulse</a></span>
+<a href="/terms" class="footer_hyperlink" title="Terms of Use">Terms</a>
+<a href="/privacy" class="footer_hyperlink" title="Privacy Policy">Privacy</a>
+<a href="/contact" class="footer_hyperlink">Contact</a>
+</p>
+</div>
+</div> 
+</div> 
+</div> 
+<script src="/includes/js/jquery.plugins.min.js?1=3"></script>
+<script src="/includes/js/main-v2.0.6.6.js"></script>
+<script src="https://apis.google.com/js/platform.js" async=""></script>
+<script async="" src="//platform.twitter.com/widgets.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/policy.css" media="screen">
+<script type="text/javascript">
+
+		var u_hash = false;
+
+	if(u_hash.length){
+
+		if (typeof localStorage === 'object') {
+			try {
+				localStorage.setItem('u_hash', u_hash);
+			} catch (e) {
+			}
+		}
+	}else{
+		// no u_hash but may have it in local storage
+		if (typeof localStorage.u_hash !== "undefined" && localStorage.u_hash.length) {
+			u_hash = localStorage.u_hash;
+		}
+	}
+
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+	if(u_hash.length && logged_in ){
+		ga('create', 'UA-69866258-1', { 'userId': u_hash });
+	}else{
+		ga('create', 'UA-69866258-1', 'auto');
+	}
+
+	ga('require', 'linkid', 'linkid.js');
+	ga('send', 'pageview');
+
+
+</script>
+<div class="ad-tag" data-ad-name="desktop_anchor" data-ad-size="1x1"></div>
+<script>(deployads = window.deployads || []).push({});</script>
+ 
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+	(function() {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);
+
+		$('button.vc-upload').click(function(e) {
+			e.preventDefault();
+			location.href = '/upload/video';
+		});
+	})();
+
+	_qevents.push({
+		qacct:"p-A9b8GRq-NyEYK"
+	});
+
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-A9b8GRq-NyEYK.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+ 
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"930450ac69","applicationID":"10340034","transactionName":"MQMEN0AHXBEAWkRRWghJJRZBEl0PTklCUUMHBR8=","queueTime":0,"applicationTime":16,"ttGuid":"","agentToken":"","atts":"HUQHQQgdTx8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
