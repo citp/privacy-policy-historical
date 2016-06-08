@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flexydrive.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814234543id_/http%3A//flexydrive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexydrive.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608124200id_/http%3A//flexydrive.com/privacy.html) for the most accurate reproduction.*
 
-# FlexyDrive
+# FlexyDrive - Keep Files 4 Ever
 
 ### Privacy Policy 
 
