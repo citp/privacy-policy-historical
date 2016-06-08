@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voice.pk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208184726id_/http%3A//www.voice.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voice.pk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608152253id_/http%3A//www.voice.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Voice of Pakistan
+# Privacy Policy – Voice of Pakistan
 
 This privacy statement discloses the privacy practices for all pages and services offered by **Voice.PK (Voice of Pakistan)**
 
