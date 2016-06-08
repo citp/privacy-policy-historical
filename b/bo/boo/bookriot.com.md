@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bookriot.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905233149id_/http%3A//bookriot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookriot.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608145305id_/http%3A//bookriot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BOOK RIOT
 
-**Updated: April 29, 2014**
+**Updated:  October 1, 2015**
 
 This privacy policy (“Privacy Policy”) is intended to inform you of Riot New Media Group, Inc’s (“Riot New Media Group, Inc,” “we,” “us,” or “our”) policies and practices regarding the collection, use, and disclosure of your Personal Information through our site located at <http://bookriot.com/> and any other sites that links to this Privacy Policy (the “Site”). We define “Personal Information” as information that allows someone to identify you personally or contact you, including for example your name, address, telephone number, and email address.
 
@@ -66,4 +66,4 @@ Security. We make reasonable efforts to protect your Personal information, but n
 
 Amendment. We may change this Privacy Policy from time to time. If we make any changes to this Privacy Policy, we will change the “Updated” date above.
 
-Contact Information. If you have any questions about this Privacy Policy, please contact us by e-mail at bookriot (at) bookriot (dot) com or by writing to us at Riot New Media Group, Inc, 616 East 18th Street, #2M, Brooklyn, NY 11226, in each case marking the message “Attention: Privacy Policy.”
+Contact Information. If you have any questions about this Privacy Policy, please contact us by e-mail at bookriot (at) bookriot (dot) com or by writing to us at Riot New Media Group, Inc, 147 Prince Street, Brooklyn, NY 11201, in each case marking the message “Attention: Privacy Policy.”
