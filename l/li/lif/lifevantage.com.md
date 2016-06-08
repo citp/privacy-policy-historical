@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifevantage.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109042217id_/http%3A//www.lifevantage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifevantage.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608100843id_/http%3A//www.lifevantage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LifeVantage US
 
@@ -6,14 +6,14 @@
 
 ## LifeVantage Policy of User Privacy
 
-Thank you for visiting our website ("Site"). As used herein, the terms "LifeVantage", "our," "we," and "us" refer to LifeVantage Corporation unless the context clearly provides otherwise. We may update this Privacy Policy from time to time without prior notice to you. We encourage you to review the Privacy Policy periodically for any updates.
+Thank you for visiting our website (“Site”). As used herein, the terms “LifeVantage”, “our,” “we,” and “us” refer to LifeVantage Corporation unless the context clearly provides otherwise. We may update this Privacy Policy from time to time without prior notice to you. We encourage you to review the Privacy Policy periodically for any updates.
 
 LifeVantage is committed to safeguarding and protecting customers. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site and how we may use that information.
 
 **Information LifeVantage Collects**  
-We may collect either anonymous or personal information on the Site. Anonymous information refers to website use information that cannot be traced back to a specific individual, e.g., the total number of visitors to our Site ("General Information"). Personal information refers to specific information about a customer, e.g., name, address, e-mail address, telephone number and credit card information. ("Personal Information"). Please note that it is your choice to share Personal Information via the Site.
+We may collect either anonymous or personal information on the Site. Anonymous information refers to website use information that cannot be traced back to a specific individual, e.g., the total number of visitors to our Site (“General Information”). Personal information refers to specific information about a customer, e.g., name, address, e-mail address, telephone number and credit card information. (“Personal Information”). Please note that it is your choice to share Personal Information via the Site.
 
-LifeVantage may collect certain General Information automatically, including "site usage" information from all visitors to the Web Site. Such data is used only in the aggregate. General Information helps LifeVantage to improve your experience. This type of General Information may be shared with third parties any time.
+LifeVantage may collect certain General Information automatically, including “site usage” information from all visitors to the Web Site. Such data is used only in the aggregate. General Information helps LifeVantage to improve your experience. This type of General Information may be shared with third parties any time.
 
 **Ordering**  
 When you place an order for products or services, we collect Personal Information (such as name, contact and billing information, credit card, and other transaction information). We use this information to deliver your order, process payment, and to communicate with you about the status of your order. We may provide information necessary to the delivery of your order to our shipping partners that may include the type of products ordered.
@@ -38,7 +38,7 @@ From time to time, we may provide Personal Information in response to court orde
 We acknowledge your trust and are committed to take reasonable steps to protect Personal Information you provide online from loss, misuse, and unauthorized access. We employ physical, electronic, and managerial processes to safeguard and secure your information.
 
 **Use of Cookies On This Site**  
-A "cookie" is a small data file transferred to your computer’s hard drive that allows a Web site to respond to you as an individual, gathering and remembering information about your preferences in order to tailor its operation to your needs, likes and dislikes. Cookies also enable us to keep track of a consumer’s electronic "shopping cart" before completing a purchase. Accepting a cookie does not provide us access to your computer or any Personal Information about you, other than the information you choose to share. Other servers cannot read them, nor can they be used to deliver a virus.
+A “cookie” is a small data file transferred to your computer’s hard drive that allows a Web site to respond to you as an individual, gathering and remembering information about your preferences in order to tailor its operation to your needs, likes and dislikes. Cookies also enable us to keep track of a consumer’s electronic “shopping cart” before completing a purchase. Accepting a cookie does not provide us access to your computer or any Personal Information about you, other than the information you choose to share. Other servers cannot read them, nor can they be used to deliver a virus.
 
 **Links To Other Web Sites**  
 Links to third-party Web sites may be provided solely for your information and convenience. If you use these links, you will leave our Site. This Privacy Statement does not cover the information practices of those Web sites linked to our Site, nor do we control their content or privacy policies. We suggest that you carefully review the privacy policies of each site you visit.
