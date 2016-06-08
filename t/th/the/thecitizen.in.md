@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thecitizen.in privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915104237id_/http%3A//www.thecitizen.in/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecitizen.in privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608225931id_/http%3A//www.thecitizen.in/index.php/thecitizen/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Of The Citizen
+# The Citizen - India’s first independent online newspaper in English
 
-## Privacy
-
-The Citizen, a wholly-owned subsidiary of GSA Azadi Media Pvt Ltd, which owns and operates the website [www.thecitizen.in](http://www.thecitizen.in/) , outlines the following privacy policy:
+The Citizen is the online newspaper of GSA Azadi Media Pvt. Ltd and subject to the following privacy provisions 
 
     * The privacy policy applies only to the site. Links, urls, advertisements and material from other sources/sites do not fall under The  
 Citizen’s privacy policy.
