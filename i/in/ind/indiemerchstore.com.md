@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indiemerchstore.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209175606id_/http%3A//indiemerchstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiemerchstore.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608130829id_/http%3A//www.indiemerchstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IndieMerchstore
 
-indiemerchstore.com is operated by Indie Merch.
+www.indiemerchstore.com is operated by Indie Merch.
 
 We can be reached via email at orders@indiemerchstore.com or you can reach us by telephone at 1 (855) 210-1412
 
