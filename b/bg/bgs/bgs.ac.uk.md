@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bgs.ac.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209074318id_/http%3A//www.bgs.ac.uk/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgs.ac.uk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608225058id_/https%3A//www.bgs.ac.uk/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Help | British Geological Survey (BGS)
 
@@ -33,4 +33,4 @@ We use all reasonable endeavours to protect personal information from loss, misu
 
 **How can you amend your personal information, or ask us to remove it?**
 
-This can be done at any time by [e-mailing us](https://web.archive.org/staff/sendMail.cfm?id=0466) or by writing to the person whom the British Geological Survey has nominated as its representative for the purpose of the Data Protection Act 1998, Marion Squires, at the address of the British Geological Survey set out above.
+This can be done at any time by [e-mailing us](https://web.archive.org/staff/sendMail.cfm?id=47509) or by writing to the person whom the British Geological Survey has nominated as its representative for the purpose of the Data Protection Act 1998, Nicky Poulter, at the address of the British Geological Survey set out above.
