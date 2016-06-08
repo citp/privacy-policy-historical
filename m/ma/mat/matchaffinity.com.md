@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matchaffinity.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207092140id_/http%3A//www.matchaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchaffinity.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608124703id_/http%3A//www.matchaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
 
 # Match Affinity: Find your perfect match with our affinity test
 
@@ -50,11 +50,8 @@ The Member explicitly authorises Match.com International Limited to transfer the
 
 If you no longer wish for match.com, matchaffinity.com, datingdirect.com, datingdirectaffinity.com or its partners to reproduce or broadcast the information comprised in your personal ad, your search criteria, or your profile, you can terminate your match.com, matchaffinity.com, datingdirect.com or datingdirectaffinity.com account following the conditions foreseen in the Article "Termination". Since this information is comprised of your personal ad, your search criteria and your profile, the termination will only take effect upon the next update or version of these communications (printed, press, audiovisual, or electronic) containing your personal ad, your search criteria and your profile information.
 
-### Take your first step  
-to a lasting relationship
-
-  * ›  **Complete our free Affinity Questionnaire**
-  * ›  **View your compatible matches**
-  * ›  **Get in touch**
+  * **Complete our free Affinity Questionnaire**
+  * **View your compatible matches**
+  * **Get in touch**
 
 
