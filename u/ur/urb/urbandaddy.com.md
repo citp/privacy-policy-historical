@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbandaddy.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209123240id_/http%3A//www.urbandaddy.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbandaddy.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608090954id_/http%3A//www.urbandaddy.com/privacypolicy) for the most accurate reproduction.*
 
 # UrbanDaddy | Privacy Policy
 
@@ -85,7 +85,3 @@ Thank you,
 UD
 
 Last revision on November 20 2013.
-
-###  [ UrbanDaddy on Instagram ](https://instagram.com/urbandaddy)
-
-[ ](https://www.instagram.com/p/_DL9GKSrYN/) 115 12hrs [ ](https://www.instagram.com/p/_ChoVpSrUL/) 92 18hrs [ ](https://www.instagram.com/p/_AofUmyrc0/) 147 1day [ ](https://www.instagram.com/p/-_6JwVyrRh/) 113 1day [ ](https://www.instagram.com/p/-9NSCdSrZf/) 200 2days [ ](https://www.instagram.com/p/-6of_aSrd_/) 113 3days
