@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rickeysmileymorningshow.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207023820id_/http%3A//rickeysmileymorningshow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rickeysmileymorningshow.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608093725id_/http%3A//rickeysmileymorningshow.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Rickey Smiley Morning Show
 
