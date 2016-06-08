@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twilighted.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208082727id_/http%3A//www.twilighted.net/viewpage.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilighted.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608191444id_/http%3A//www.twilighted.net/viewpage.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
 
 # Twilighted :: All-Inclusive, High-Quality Twilight Fan Fiction
 
@@ -49,6 +49,6 @@ If you have any further questions or concerns about Twilighted.net's privacy pol
 
 © 2008, 2009 Twilighted Enterprises, LLC. All Rights Reserved.  
 Unauthorized duplication is a violation of applicable laws.  
-[ **Privacy Policy**](https://web.archive.org/web/20151208082727id_/http%3A//www.twilighted.net/viewpage.php?page=policy) | [**Terms of Service**](https://web.archive.org/web/20151208082727id_/http%3A//www.twilighted.net/viewpage.php?page=terms)
+[ **Privacy Policy**](https://web.archive.org/web/20160608191444id_/http%3A//www.twilighted.net/viewpage.php?page=policy) | [**Terms of Service**](https://web.archive.org/web/20160608191444id_/http%3A//www.twilighted.net/viewpage.php?page=terms)
 
 All publicly recognizable characters, settings, etc[.](http://stroybat.org/) are the intellectual property of their respective owners. The original characters and plot are the property of Stephenie Meyer. No copyright infringement is intended.
