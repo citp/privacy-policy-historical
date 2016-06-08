@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedmoon.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122001114id_/http%3A//www.eyesfile.ca/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedmoon.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608121837id_/http%3A//www.eyesfile.ca/privacy_policy.html) for the most accurate reproduction.*
 
 # EyesFile.com privacy_policy
 
