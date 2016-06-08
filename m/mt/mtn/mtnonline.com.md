@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtnonline.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204005531id_/http%3A//www.mtnonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtnonline.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608124743id_/http%3A//www.mtnonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MTN Online
 
