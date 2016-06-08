@@ -1,21 +1,18 @@
-> *The following text is extracted and transformed from the geniusfind.com privacy policy that was archived on 2015-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150201204838id_/http%3A//www.geniusfind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniusfind.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608031341id_/http%3A//www.geniusfind.com/privacy) for the most accurate reproduction.*
 
-# Check Prices Online : Privacy
+# GeniusFind
 
-When using our website to check prices online and find the best bargains possible, please keep in mind our privacy policy. This is our guarantee on what we do with the information you provide us when you sign up to find the best bargains and daily specials. We aim to have no smoke and mirrors between us and our customers, so if there is anything you need clarification on please don't hesitate to contact us for further information.
+|  | Privacy Policy  
+---|---  
+  
+We can be reached via e-mail at [info@geniusfind.com](mailto:info@geniusfind.com). 
 
-At Buy.net we want you to know exactly how and when we collect and use information that can specifically identify you, such as your name, mailing address, phone number, and email address ("personal information").
+For each visitor to our web page, our web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-We do not require that you provide, nor do we collect, any personal information if you are just browsing the Site. We may offer on the Site non-transactional and transaction based services ("Service(s)") in which, subject to applicable terms and availability, you may participate (e.g., submitting product reviews or becoming a Member to buy or sell items through the Storefronts Service). In order to provide you with the Services you request, Buy.net may require that you first provide certain personal information, which we determine is reasonably necessary in order for us to fulfill your request. If you indicate an interest in participating in a Service, we will identify what specific personal information you must provide prior to collecting such information. Any personal information which we collect from you will only be used for the purposes identified in this Privacy Statement, the Buy.net Terms of Use and your applicable Member Agreement with Buy.net, and as may otherwise be indicated at the time the information is collected.
+We collect only the domain name, but not the e-mail address of visitors to our Web page, and we collect aggregate information on what pages consumers access or visit.
 
-Buy.net will not disclose your personal information to any third party unless: 1) it is necessary in order to provide you with a particular Service you have requested; 2) it is required of Buy.net in order to comply with a legal process in any applicable jurisdiction (e.g., court order, subpoena, search warrant, law enforcement request); 3) Buy.net determines, in its sole discretion, that disclosure is necessary to protect the rights, property, and safety of Buy.net, its subsidiaries, affiliates, co-brand partners or other parties under contract with Buy.net, our users, or others; or 4) you have provided such data through a partner's private-level shopping web site hosted by Buy.net, in which case Buy.net may provide your personal data to that partner (Buy.net is not responsible for its partners' privacy policies or their use, storage and processing of data collected on their web sites). In addition, Buy.net may transmit information to a merchant, such as an invoice number, which may permit the merchant to deduce the identity of a user/reviewer in the event that a merchant disputes a user review on the grounds that a transaction never took place between the user and the merchant and/or an order was never made by the user in each case for the applicable product(s)/service(s).
+The information we collect is used for internal review, used to improve the content of our website, and is then discarded. We do not share any information with other organizations for commercial purposes. We do not set any cookies. We do not partner with or have special relationships with any ad server companies. 
 
-In certain instances, Buy.net may request that you provide secondary information (e.g., demographic information), which we may use, for example, to learn more about our customers and to develop and improve our services. Any requests for secondary information will be marked "optional" (or its equivalent). We may compile your personal information with that collected from other customers to create aggregate data. Aggregate data is information about groups of customers and, once compiled, will in no way identify you as an individual. We may disclose aggregate data to our business affiliates, advertisers, and other parties.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically.
 
-Our web servers collect from Site visitors' statistical information regarding what pages are visited, the date and time of the visits, how long it took a user to download a page, and the TCP/IP address of the user. These automated server functions do not collect this information in a manner intended to identify your individual use of the Site, nor do we use this information for any such purpose. This information is collected to assist us in maintaining a high quality site, as well as, providing necessary traffic information to our advertisers and partners.
-
-Third party vendors, including Google, show our ads on sites on the internet.
-
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to Buy.net
-
-Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy/ads/).
+If you feel that Geniusfind.com is not following its stated information policy, you may contact us at the above addresses.
