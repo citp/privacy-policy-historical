@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movabletype.org privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927051737id_/http%3A//www.movabletype.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movabletype.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608143518id_/http%3A//www.movabletype.com/privacy) for the most accurate reproduction.*
 
-# Six Apart - Privacy
+# Privacy | Movable Type
 
 ### Article 1. Information Acquisition
 
