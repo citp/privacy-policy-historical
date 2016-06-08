@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedsguru.in privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218015243id_/http%3A//www.classifiedsguru.in/privacy-policy-p29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedsguru.in privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608155710id_/http%3A//www.classifiedsguru.in/privacy-policy-p29) for the most accurate reproduction.*
 
 # Privacy Policy | Free Classifieds India - free classifieds sites in india post free classified post free ads in india free classified ads posting
 
