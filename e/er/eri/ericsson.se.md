@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ericsson.se privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003173058id_/http%3A//www.ericsson.com/se/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericsson.se privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608234302id_/http%3A//www.ericsson.com/se/privacy) for the most accurate reproduction.*
 
 # Internet privacy policy - Ericsson
 
-**At Ericsson, we understand that privacy is an important issue for users of, and visitors to, the Ericsson Internet site www.ericsson.com and its related domains. The following information is designed to help visitors understand what information we collect from our site, and how we handle and use the information after that.**
+> At Ericsson, we understand that privacy is an important issue for users of, and visitors to, the Ericsson Internet site www.ericsson.com and its related domains. The following information is designed to help visitors understand what information we collect from our site, and how we handle and use the information after that.
 
 ## Information collection and use
 
@@ -16,7 +16,7 @@ If a user contacts Ericsson with a general inquiry, the user may need to provide
 
 If a user wishes to subscribe to Ericsson information such as press releases or financial reports, we ask for an email address. Ericsson will use this e-mail address only to send the requested information; we will not send other unsolicited information.
 
-How to subscribe and unsubscribe: Users may open or cancel subscription(s) at any time by filling in the form on <http://www.ericsson.com/ericsson/press/subscribe/index.shtml>.
+How to subscribe and unsubscribe: Users may open or cancel subscription(s) at any time by filling in the form on <http://www.ericsson.com/thecompany/press/subscribe>.
 
 ## Orders, surveys and contests
 
@@ -26,7 +26,7 @@ From time to time our site may request information from users via surveys or con
 
 ## Third-party services
 
-We may partner with another party to provide these or other specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
+We may partner with another party to provide these or other specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. 
 
 These parties are not allowed to use any personal information collected except for the purpose of providing these services. We do not share aggregated demographic information with our partners and advertisers.
 
