@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toppstiles.co.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209143136id_/http%3A//www.toppstiles.co.uk/page62/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppstiles.co.uk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608185226id_/http%3A//www.toppstiles.co.uk/page62/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Topps Tiles
 
