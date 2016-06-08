@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fs.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207225410id_/http%3A//www.fs.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608151400id_/http%3A//www.fs.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Fiberstore
+# Privacy Policy | FS.COM
 
 FiberStore has created this privacy statement in order to demonstrate our **firm commitment to privacy**. At FiberStore we respect your right to privacy and we understand that, as a visitor to FiberStore you prefer to control your own personal information and preferences. For this reason, we may ask you to register or to provide personal information and preferences when you request information, register for an event, purchase a product, or download documents.  
 The information we learn from you helps us personalize and continually improve your shopping experience at FiberStore.   
