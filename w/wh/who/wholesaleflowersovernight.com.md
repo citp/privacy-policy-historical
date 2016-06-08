@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wholesaleflowersovernight.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222081714id_/http%3A//www.wholesaleflowersovernight.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaleflowersovernight.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608184715id_/http%3A//www.wholesaleflowersovernight.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy ::Online Wholesaler Of Flowers.
+# Privacy Notice
 
 _**WFO Privacy Policy**_ We have established this privacy policy so that you can understand how we intend to treat your personal information. We strive to comply with all applicable laws around the globe that are designed to protect your privacy.
 
