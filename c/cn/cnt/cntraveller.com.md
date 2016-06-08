@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the cntraveller.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134317id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cntraveller.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608113546id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Prviacy
+
+## Privacy
 
 **CONDÉ NAST PUBLICATIONS LTD PRIVACY POLICY AND COOKIE STATEMENT**
 
 This privacy policy covers this website and all sites (together, the Websites) produced by Condé Nast Publications Ltd (Condé Nast, we, us).  For a list of the websites, please click here
 
-It is your responsibility to read and understand this privacy policy. By visiting our Website you are agreeing and consenting to the practices described in this privacy policy.  If you do not agree to all of this privacy policy and do not wish to be bound by it, you are not authorised to access or otherwise use the Websites, or take part in any of the programmes and offers that we provide.  In reviewing this privacy policy, please also read our User Agreement which can be found at: [www.condenast.co.uk/terms](http://www.condenast.co.uk/terms)
+It is your responsibility to read and understand this privacy policy. By visiting our Website you are agreeing and consenting to the practices described in this privacy policy.  If you do not agree to all of this privacy policy and do not wish to be bound by it, you are not authorised to access or otherwise use the Websites, or take part in any of the programmes and offers that we provide.  In reviewing this privacy policy, please also read our User Agreement which can be found at: [www.condenast.co.uk/terms](https://web.archive.org/terms/)
 
 Our legal status under UK data protection law is that of a data controller and in this capacity we will securely store and process your personal information which you have provided to us. Data controller is a legal term used in the Data Protection Act 1998 (the Act) to signify the person who controls what to do with any given personal information.  As a data controller we have registered with the Information Commissioner's Office and our registration number is Z5497344.
 
