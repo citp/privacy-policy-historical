@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uktrainsim.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209041544id_/http%3A//www.uktrainsim.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uktrainsim.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608100201id_/http%3A//www.uktrainsim.com/privacy.php) for the most accurate reproduction.*
 
 # UKTrainSim
 
