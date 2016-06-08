@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209043803id_/http%3A//www.slideroom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608152256id_/http%3A//www.slideroom.com/privacy.html) for the most accurate reproduction.*
 
 # SlideRoom - Privacy Policy
 
@@ -19,6 +19,8 @@ We use your IP Address to help diagnose problems with our server, and to adminis
 ###  IV. USE OF COOKIES
 
 When you view our Website we might store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive nor steal information. Rather, they help you navigate a Website as easily as possible. We use cookies to store that users are logged in and to gather aggregate information via Google Analytics.
+
+SlideRoom uses third party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. Third party vendors will place cookies on web browsers in order to serve ads based on past wesbite visits or engagement with our content. These cookies may be used to show ads to you across the Internet. As always we respect your privacy and are not collecting any personally identifiable information through the use of any third party remarketing system. You may opt out of Google's use of cookies by visiting your [Google Ad Settings](http://www.google.com/settings/ads).
 
 ###  V. SECURITY
 
