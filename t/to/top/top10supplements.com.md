@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the top10supplements.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210032510id_/http%3A//top10supplements.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10supplements.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608184913id_/http%3A//top10supplements.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Top10supps
 
-Last updated: Friday, February 20, 2015
+Last updated: Thursday, February 4, 2016
+
+## Privacy Policy for Top10supplements.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:info@top10supplements.com).
 
@@ -36,7 +38,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 _While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies)._
 
- _You may consult this listing to find the privacy policy for each of the advertising partners of top10supplments.com._
+You may consult this listing to find the privacy policy for each of the advertising partners of top10supplments.com.
 
 These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on top10supplments.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
