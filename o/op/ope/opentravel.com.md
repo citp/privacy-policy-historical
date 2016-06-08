@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentravel.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226070849id_/http%3A//opentravel.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentravel.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608021958id_/http%3A//opentravel.com/privacy_policy) for the most accurate reproduction.*
 
 # Open Travel Privacy Policy
 
