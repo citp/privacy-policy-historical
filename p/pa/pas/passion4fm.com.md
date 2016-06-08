@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passion4fm.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209200424id_/http%3A//www.passion4fm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passion4fm.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608232250id_/http%3A//www.passion4fm.com/privacy-policy) for the most accurate reproduction.*
 
 # Passion4FM Privacy Policy | Passion4FM
 
@@ -144,7 +144,7 @@ Passion4FM has no access to or control over the use of cookies and storage of pe
 
 **More about Third-Party advertisements**
 
-We also use third party cookies and web beacons in order to support our website through displaying advertisements from our affiliate partners and Google. Third party vendors, including [Google Adsense](https://web.archive.org/web/20151209200424id_/http://www.passion4fm.com/privacy-policy/www.google.com/AdSense%E2%80%8E), uses cookies to serve ads based on a user’s prior visits to your website.
+We also use third party cookies and web beacons in order to support our website through displaying advertisements from our affiliate partners and Google. Third party vendors, including [Google Adsense](https://web.archive.org/web/20160608232250id_/http://www.passion4fm.com/privacy-policy/www.google.com/AdSense%E2%80%8E), uses cookies to serve ads based on a user’s prior visits to your website.
 
 **Doubleclick Cookies**
 
