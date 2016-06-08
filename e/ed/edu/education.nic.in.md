@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the education.nic.in privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103054615id_/http%3A//mhrd.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.nic.in privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608085639id_/http%3A//mhrd.gov.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Government of India, Ministry of Human Resource Development
+
+[Home](https://web.archive.org/) » Privacy Policy » Privacy Policy
 
 As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.
 
@@ -25,3 +27,5 @@ If you are asked for any other Personal Information you will be informed how it 
 ##  Note:
 
 The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.
+
+Last Updated by admin on Wed, 10/09/2013 - 14:24
