@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the empressleak.biz privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209094316id_/http%3A//empressleak.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empressleak.biz privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608205558id_/http%3A//empressleak.biz/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | EMPRESSLEAK
-
-### PRIVACY POLICY
 
 1\. All User information supplied by Users of Empressleak.biz as defined under this Terms & Conditions is covered by the Data Protection Act 1998.  
 2\. Users can amend information provided at any time by contacting admin@Empressleak.biz.  
