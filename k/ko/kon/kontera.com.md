@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kontera.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210053655id_/http%3A//amobee.com/privacy/technology) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontera.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608064249id_/http%3A//amobee.com/privacy/technology) for the most accurate reproduction.*
 
 # Amobee Privacy Policy for Consumers - Amobee
 
-**Effective July 30, 2015**
+**Effective March  21, 2016**
 
 We at Amobee offer digital advertising solutions to the largest publishers, advertisers and agencies and mobile operators. In delivering this advertising, we collect and use certain information about mobile and web consumers like you. This Privacy Policy describes how we collect and use this information, and tells how you can protect your privacy.
 
@@ -19,24 +19,23 @@ This Privacy Policy explains:
 
 We collect information in order to provide better and more relevant advertising to consumers. We may collect this information in the following ways:
 
-  * **Information you give us.** For example, from time to time we offer brand recognition surveys on behalf of advertisers. If you participate in these surveys, we will have access to your survey responses. We do not collect personal information through these surveys. Alternatively, from time to time, advertisers may ask us to collect leads on their behalf. In these situations, if you choose to enter your contact information in response to an advertisement, we will have access to your contact information.  This contact information constitutes personal information. Personal information is information about a person whose identity can reasonably be determined from the information. Examples are a person’s name, telephone number, or e-mail address.
+  * **Information you give us.** For example, from time to time we offer brand recognition surveys on behalf of advertisers. If you participate in these surveys, we will have access to your survey responses. We do not collect personal information through these surveys. Alternatively, from time to time, advertisers may ask us to collect leads on their behalf. In these situations, if you choose to enter your contact information in response to an advertisement, we will have access to your contact information.  This contact information constitutes personal information. “Personal information” is information about a person whose identity can reasonably be determined from the information. Examples are a person’s name, telephone number, or e-mail address.
   * **Information we get from your use of our services.** We may collect information about the services that you use and how you use them, like when you visit a website that uses our advertising services or you view and interact with our ads and content. This information includes: 
-    * **Cookies.** We may send cookies to your browser in order to support behavioral targeted advertising. Through it, we may collect data about websites visited, content viewed, searches on other websites, ad interaction, interaction with advertiser websites and other click and browsing behavior. None of our cookies contain personal information and we do not collect personal information with these cookies.
-    * **Advertising identifiers**. To support behavioral targeted advertising on devices where cookies are not available (such as some mobile phone and smart televisions), we may use identifiers such as Apple’s Identifier for Advertising (IDFA) and Google’s Advertising ID. These advertising identifiers do not constitute personal information.
-    * **Browser information.** To support behavioral targeting advertising in situations where cookies are unreliable, we may collect information to identify your web browser. The information collected may vary based on where you are physically located in order to comply with local law. The browser information does not constitute personal information. We may collect: 
+    * **Cookies.** We may send cookies to your browser in order to support behavioral targeted advertising. With these cookies, we may collect data about websites visited, content viewed, searches on other websites, ad interaction, interaction with advertiser websites and other click and browsing behavior, which are examples of what we call “behavioral information.” None of our cookies contain personal information and we do not collect personal information with these cookies.
+    * **Advertising identifiers**. To support behavioral targeted advertising on devices where cookies are not available (such as some mobile phone and smart televisions), we may use identifiers such as Apple’s Identifier for Advertising (IDFA) and Google’s Android Advertising ID (AAID) to collect behavioral information. These advertising identifiers do not constitute personal information.
+    * **Browser information.** To support behavioral targeting advertising in situations where cookies are unreliable, we may collect information to identify your web browser in order to collect behavioral information. The browser information collected may vary based on where you are physically located in order to comply with local law. The browser information does not constitute personal information. We may collect: 
       * a portion of the IP address,
-      * certain HTTP header fields,
+      * HTTP header fields,
       * cached anonymous identifiers and/or
       * browser characteristics measurable through JavaScript.
-    * **Precise Location Data.** To support behavioral advertising, we may use precise location information, including latitude and longitude.
-    * **Mobile App Data.** To support behavioral advertising, we may collect data from mobile apps, such as the content of the apps and event information shared by the apps.
-    * **Contextual Data.** To support contextual advertising, we may collect data about web pages, including page content and page URLs.
+    * **Precise Location Data.** To target advertising, we may use precise location information, including latitude and longitude.
+    * **Mobile Data.** To support behavioral targeted advertising, we may collect and/or use data from mobile devices, such as the content of apps and event information shared by the apps, or information from mobile carriers such as de-identified device location or anonymous identifiers associated with the mobile devices.
+    * **Contextual Data.** To support contextual advertising, we may collect data about web pages, including page content and page URLs. We only collect this data about a web page if the owner of the web site for that web page has contracted with us to show contextual advertising on that web page.
     * **IP addresses.** To support targeted advertising campaigns, outside the EU, we may collect your IP address. We also store IP addresses in server logs for anti-fraud and security reasons.
     * **Web beacons.** To determine whether you have opened or clicked on an advertisement, we include a unique identifier in our marketing e-mails called a web beacon or pixel.
 
 
   * **Information we get from third parties.** We may collect personal information and non-personal information about you from third parties. This information may include name, address, e-mail address, IP address, categorical attributes and demographic information. This information may be licensed or purchased and the use of the information complies with the privacy policy pursuant to which the data was originally collected, as well as local law.
-  * We may also show ads based on the content of the webpage you are visiting, if the publisher of that webpage has provided it to us for contextual analysis.
 
 
 
@@ -44,40 +43,42 @@ We collect information in order to provide better and more relevant advertising 
 
 We use the information we collect to serve advertisements to you and to target and analyze consumer behavior. Our goals are to provide better and more relevant advertising to you and provide useful aggregated analytics to our customers.
 
-While we target advertising for common everyday health topics such as colds, coughs and heartburn, we do not collect or use information about past, present or potential future medical conditions or treatments or sex life.
+We may enhance profiles using cross-device technology. This technology is designed to enable us to provide better and more relevant advertising to you using information collected across various multiple devices you use. For example, you might use browsers on a smartphone, tablet, laptop and a desktop computer, or you may use multiple browsers on the same device. Cross-device technology may tell us that the same user is using multiple devices (or multiple browsers on the same device) either through deterministic methods or by statistical correlation. When we determine that you use two or more devices (or browsers on the same device), we may target advertisements to you across the device (or browsers on the same device).
 
-We do not create collect or use data in order to specifically target children aged 12 or under. Nor do we collect behavioral data when we run advertising on websites or online services where we have actual knowledge that the websites or online services are directed towards children aged 12 or under.
+While we may engage in behavioral targeted advertising for common everyday health topics such as colds, coughs and heartburn, we do not collect data or engage in behavioral targeted advertising based on past, present or potential future medical conditions or treatments or sex life.
 
-We do not combine personal information with online behavioral information. We sometimes support our online behavioral advertising with demographic, categorical or performance information (such as the types of e-mails that users have opened or clicked on in the past) extracted from our e-mail lists, however we always first remove or anonymize all personal information.
+We do not create collect or use data in order to specifically target children aged 12 or under. Nor do we collect behavioral information when we run advertising on websites or online services where we have actual knowledge that the websites or online services are directed towards children aged 12 or under.
+
+We do not combine personal information with behavioral information. We sometimes support our behavioral targeted advertising with demographic, categorical or performance information (such as the types of e-mails that users have opened or clicked on in the past) extracted from our e-mail lists, however we always first remove or anonymize all personal information.
 
 We process personal information on our servers in many countries around the world, including the United States. We may transfer your personal information to the United States.
 
-We retain information that is collected and used for online behavioral advertising only as long as necessary to fulfill a legitimate business need, or as required by law.
+We retain information that is collected and used for behavioral targeted advertising only as long as necessary to fulfill a legitimate business need, or as required by law.
 
-If we are contracted to collect leads (contact information) on behalf of an advertiser, we do not use the contact information for any other advertising campaign, and we do not combine the contact information with online behavioral information.
+If we are contracted to collect leads (contact information) on behalf of an advertiser, we do not use the contact information for any other advertising campaign, and we do not combine the contact information with behavioral information.
 
 **Transparency and choice**
 
 People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can:
 
-  * You can opt out of our web-based online behavioral advertising by clicking this big red button:
+  * You can opt out of our web-based behavioral targeted advertising by clicking this big red button:
 
 
 
-[](http://rrmprod.amobee.com/upsteed/optout?action=out&error_page=http://amobee.com/privacy/technology/optout_failed/&n=http://amobee.com/privacy/technology/optout/)
-
-  * You can opt out of our in-app mobile online behavioral advertising by changing the settings on your mobile device. On Apple devices, the setting may be under Settings-Privacy-Advertising-Limit Ad Tracking. On Android devices, the setting may be under Settings-Account & Sync-Google-Ads-Opt Out of Interest-Based Ads.
+  * You can opt out of our in-app behavioral targeted advertising by changing the settings on your mobile device. On Apple devices, the setting may be under Settings-Privacy-Advertising-Limit Ad Tracking. On Android devices, the setting may be under Settings-Account & Sync-Google-Ads-Opt Out of Interest-Based Ads.
 
 
   * You can opt out of our e-mail advertising by sending a message to [unsubscribe-me@amobee.com](mailto:unsubscribe-me@amobee.com).
 
 
 
-All of these are separate. We do not have personal information in our cookies, for example, so you cannot opt out of online behavioral advertising by e-mailing us. Similarly, the big red button requires cookies to work (it sets an “opt-out” cookie), and since cookies do not work in mobile apps, it will not opt you out of in-app online behavioral advertising. If you set your browser to block our cookies, or if your browser does not support our cookies, the big red button will not work and you may still receive online behavioral advertising.
+All of these are separate. We do not have personal information in our cookies, for example, so you cannot opt out of behavioral targeted advertising by e-mailing us. Similarly, the big red button requires cookies to work (it sets an “opt-out” cookie), and since cookies do not work in mobile apps, it will not opt you out of in-app behavioral targeted advertising. If you set your browser to block our cookies (e.g., with ad-blocking software), or if your browser does not support our cookies, the big red button will not work and you may still receive behavioral targeted advertising.
 
-You will still receive online ads even if you opt out of online behavioral advertising (with the big red button or through your mobile device settings); however, the ads will be less relevant to you. You will not receive any e-mail advertisements from us if you opt out of our e-mail advertising.
+The big red button does not turn off all ads. You will still receive non-behavioral targeted ads even if you opt out of behavioral targeted advertising; however, the ads will be less relevant to you. You will not receive any e-mail advertisements from us if you opt out of our e-mail advertising.
 
-We comply with the DAA’s Self-Regulatory Program for Online Behavioral Advertising and the IAB Europe EU Framework for Online Behavioural Advertising. As part of our compliance, we deploy the Ad Choices icon in behaviorally targeted ads. For more information, please visit <http://www.aboutads.info/choices/> or<http://www.youronlinechoices.com/uk/>.
+We will not collect cross-device information for profiles from a device, or engage in targeting of cross-device advertisements on the device, after you have opted out of online behavioral advertising on the device.
+
+We comply with the Digital Advertising Alliance’s Self-Regulatory Program for Online Behavioral Advertising, the Digital Advertising Alliance of Canada’s Canadian Self-Regulatory Principles for Online Behavioural Advertising, the Australian Digital Advertising Alliance’s Australian Best Practice Guideline for Online Behavioural Advertising, and the IAB Europe EU Framework for Online Behavioural Advertising. As part of our compliance, we deploy the Ad Choices icon in behaviorally targeted ads. For more information, please visit <http://www.aboutads.info/choices/>, <http://youradchoices.ca/choices/>, <http://www.youronlinechoices.com.au/opt-out/> or <http://www.youronlinechoices.com/uk/>.
 
 Advertisers and third-party ad networks may also participate in our ad network and may also utilize cookies to deliver advertisements and monitor the performance of such advertisements. Many third-party ad networks have agreed to provide an “opt out” mechanism for their ad cookies. The collection of information through cookies by such third parties will be governed by their own privacy policies and practices, over which Adconion has no control.
 
@@ -119,4 +120,4 @@ We reserve the right to change our Privacy Policy at any time without notice. Ho
 
 **Contact**
 
-If you have questions or complaints relating to this Privacy Policy, please contact us at [amobeeprivacy@amobee.com](mailto:amobeeprivacy@amobee.com) .
+If you have questions or complaints relating to this Privacy Policy, please contact us at [amobeeprivacy@amobee.com](mailto:amobeeprivacy@amobee.com).
