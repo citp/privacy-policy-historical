@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchell.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224195134id_/http%3A//www.pchell.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchell.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608231307id_/http%3A//www.pchell.com/privacy.shtml) for the most accurate reproduction.*
 
 # PC Hell: Privacy Policy
 
