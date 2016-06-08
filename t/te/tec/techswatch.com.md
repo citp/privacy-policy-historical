@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techswatch.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143336id_/http%3A//www.techswatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techswatch.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608022617id_/http%3A//www.techswatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech Swatch
 
-**Techswatch Privacy Policy Highlights**
+[vc_row][vc_column width=”1/1″][vc_message color=”alert-info” style=”rounded”] **Techswatch Privacy Policy Highlights**
 
 This notice provides highlights of the full privacy policy which currently applies to the collection and use of information from any device used to access or connect to  Techswatch , services, and software, as well as many websites owned by or affiliated with Techswatch and operating under different names.
 
@@ -30,4 +30,4 @@ India, Karnataka,
 
 581320 –
 
-**Ihtishamtashreef6@gmail.com**
+**Ihtishamtashreef6@gmail.com** [/vc_message][/vc_column][/vc_row]
