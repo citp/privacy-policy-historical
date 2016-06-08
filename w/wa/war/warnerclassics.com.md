@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warnerclassics.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204203418id_/http%3A//www.wminewmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warnerclassics.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608234118id_/http%3A//www.wminewmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,10 +14,10 @@ We and our third-party service providers may collect Other Information (defined 
   * Mobile App usage data 
   * Server log files 
   * Information collected through cookies, pixel tags and other technologies. If you are located within the EEA please read our cookie policy <http://www.wminewmedia.com/cookies/> for further details on our use of cookies. 
-  * Geographic location information
-  * Demographic information and other non-personally identifiable information
-  * Information about how you use the Properties
-  * Aggregated information
+  * Geographic location information 
+  * Demographic information and other non-personally identifiable information 
+  * Information about how you use the Properties 
+  * Aggregated information 
 
 
 
