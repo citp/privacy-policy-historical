@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the thehockeywriters.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060935id_/http%3A//thehockeywriters.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehockeywriters.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608151209id_/http%3A//thehockeywriters.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - The Hockey Writers
+# Privacy Statement | The Hockey Writers
 
 This is the web site of **The Hockey Writers** , owned and operated by Bruce K. Hollingdrake
 
 Our postal address is
 
 **1351 Victoria Ave.**  
-**St. Lambert, **[Quebec](http://thehockeywriters.com/tag/quebec/)**  
+**St. Lambert, Quebec  
 J4R 1R4**
 
 We can be reached via e-mail at [editor@thehockeywriters.com](mailto:editor@thehockeywriters.com)
@@ -26,5 +26,5 @@ We never collect any personal information other than names and emails provided d
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-**We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of **[media](http://thehockeywriters.com/tag/media/)** about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp> .  
+**We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out  <http://www.networkadvertising.org/managing/opt_out.asp> .  
 **
