@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deuscustoms.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209045214id_/http%3A//deuscustoms.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deuscustoms.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608193225id_/http%3A//deuscustoms.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Deus Ex MachinaDeus Ex Machina
 
@@ -6,7 +6,7 @@ Deus Ex Machina Motorcycles PTY LTD (Deus Ex Machina Motorcycles) is committed t
 
 Personal information is information or an opinion, in any form and whether true or not, about an individual whose identity is apparent or can reasonably be ascertained from the information or opinion.
 
- **COLLECTION OF PERSONAL INFORMATION BY Deus Ex Machina Motorcycles**
+##  **COLLECTION OF PERSONAL INFORMATION BY Deus Ex Machina Motorcycles**
 
 Deus Ex Machina Motorcycles will only collect personal information about you by lawful and fair means and not in an unreasonably intrusive manner. The types of information we may collect include:
 
@@ -24,7 +24,7 @@ Where possible, we will collect personal information directly from you or a pers
 
 If you do not provide personal information requested of you to Deus Ex Machina Motorcycles, we may be unable to provide you the products or services you have requested or contact you in the future.
 
- **USE AND DISCLOSURE OF PERSONAL INFORMATION BY Deus Ex Machina Motorcycles**
+###  **USE AND DISCLOSURE OF PERSONAL INFORMATION BY Deus Ex Machina Motorcycles**
 
 Deus Ex Machina Motorcycles will only use or disclose your personal information as per
 
