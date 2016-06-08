@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207184045id_/http%3A//www.famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608024129id_/http%3A//www.famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -35,7 +35,7 @@ If you have any comments or questions on the above privacy statement, please fee
 
 |  | Quote of the Day  
 ---  
-I can't believe that God plays dice with the universe.   
+I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live up to what light I have.   
   
 Top 10 Authors  
 ---  
