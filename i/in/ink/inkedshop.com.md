@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the inkedshop.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208171757id_/http%3A//www.inkedshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkedshop.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608123711id_/http%3A//www.inkedshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-PRIVACY POLICY
 
 Introduction
 
