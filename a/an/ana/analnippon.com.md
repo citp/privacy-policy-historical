@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analnippon.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209075249id_/http%3A//www.analnippon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analnippon.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608225519id_/http%3A//www.analnippon.com/privacy) for the most accurate reproduction.*
 
 # AnalNippon.com - Privacy Statement
 
@@ -66,4 +66,4 @@ All questions to Mentarinet ltd regarding these terms and conditions must be dir
 
 Mentarinet ltd registered address at 
 
-Should you have other questions or concerns about these privacy policies, please [contact us](http://www.supportidols.com/support/).
+Should you have other questions or concerns about these privacy policies, please [contact us](http://www.supportidols.com/).
