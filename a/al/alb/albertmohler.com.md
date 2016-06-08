@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the albertmohler.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209194551id_/http%3A//www.albertmohler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albertmohler.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608230925id_/http%3A//www.albertmohler.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AlbertMohler.com
+# Privacy Policy - AlbertMohler.com
 
 AlbertMohler.com respects the privacy of those who visit our website. AlbertMohler.com does not collect personal information about you when you visit our website unless you willingly choose to provide information to us. If you choose to provide information to us, we use it only to fulfill your request for information or services.
 
