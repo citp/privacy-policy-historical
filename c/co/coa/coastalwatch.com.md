@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coastalwatch.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207232523id_/http%3A//www.coastalwatch.com/surfing/12300/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastalwatch.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608060406id_/http%3A//www.coastalwatch.com/surfing/12300/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer | Coastalwatch.com
 
-25 Oct 2013 11,743 VIEWS
+25 Oct 2013 17,149 VIEWS
 
 Coastalwatch Pty Ltd have created this privacy statement in order to demonstrate our firm commitment to our information gathering and dissemination practices for this website Coastalwatch.com and our mobile applications.
 
