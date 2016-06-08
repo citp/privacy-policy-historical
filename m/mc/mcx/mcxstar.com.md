@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mcxstar.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225121137id_/http%3A//mcxstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcxstar.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608053314id_/http%3A//mcxstar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MCXStar : Online MCX Commodity Markets
+# Privacy Policy | MCXStar : Online MCX Commodity Markets
 
 This policy covers how we treat personal information collected and received, including information about you that is personally identifiable but is not otherwise publicly available.We are collecting your information while registering you on our website.For your information below is how we use this information.
 
-  *     **Mcxstar.com** collects personal information when you register or use mcxstar.com products or services or when you visit web pages or otherwise, which information may include but is not limited to, your name, address, email address, phone number, zip/pin code, etc. and other such information about you which is not otherwise publicly available. Besides, mcxstar.com automatically receives and records statistics on our server logs from your browser, including your IP address, the page you request, etc.
+  *     [**Mcxstar.com** ](http://mcxstar.com/)collects personal information when you register or use mcxstar.com products or services or when you visit web pages or otherwise, which information may include but is not limited to, your name, address, email address, phone number, zip/pin code, etc. and other such information about you which is not otherwise publicly available. Besides, mcxstar.com automatically receives and records statistics on our server logs from your browser, including your IP address, the page you request, etc.
 
 
   *     **Mcxstar.com** uses the above information for the general purposes, including but not limited, to fulfilling your requests for products and services, improve our services, contact you, conduct research, or send emails containing advertisements/ newsletters/notifications.
@@ -31,3 +31,5 @@ We have physical, electronic, and procedural safeguards to protect personal info
 mcxstar.com may update this policy from time to time. We may notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your mcxstar.com account or by placing a notice on our site for a reasonable period of time.
 
 If any person, firl, company or other website owner has some issue regarding ant content of our website (MCXSTAR.COM). He/She need to contact us in writting mail to : info@mcxstar.com we will review your problem and if we found some issue we will surely remove it within 7 days from our website.
+
+Privacy Policy in mcxstar.com
