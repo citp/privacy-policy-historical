@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokemoncenter.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029021336id_/http%3A//www.pokemoncenter.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemoncenter.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608185831id_/http%3A//www.pokemoncenter.com/info/privacy) for the most accurate reproduction.*
 
 # Pokémon Center: Help > Privacy, Security & Accessibility
 
