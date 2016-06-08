@@ -1,25 +1,55 @@
-<!--The following is the downloaded HTML source of the quotemedia.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207094929id_/http%3A//www.quotemedia.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quotemedia.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608153328id_/http%3A//www.quotemedia.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-      <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      <link rel="shortcut icon" type="image/x-icon" href="/favicon.png">
 
-    ga('create', 'UA-2593484-1', 'auto');
-    ga('send', 'pageview');
-  </script>
+      <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-2593484-1', 'auto');
+        ga('send', 'pageview');
+        function menuToggler() {
+          $('.main-menu').impToggle();
+          if($('.main-menu').is(":visible")) {
+            setTimeout(function () {  
+                $('.main-menu li a.dropdown').each(function() {
+                  //var _href = $(this).attr('href').replace(/\//g,'');
+
+                  var menu = $(this).parents('li');
+                  $(this).bind('click', function(event) {
+                    event.preventDefault();
+                    if($('div',menu).is(":hidden")) {
+                      $('div',menu).attr('style','');
+                    } else {
+                      $('div',menu).attr('style','display:none!important');
+                    }
+                  });
+                });
+            },150);
+          } else {
+            $('.main-menu li a.dropdown').unbind('click');
+          }
+        }
+      </script>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Privacy Policy &gt; QuoteMedia</title>
-    <meta http-equiv="Description" content="The Company's diversity of technical expertise, its agile responsiveness to custom corporate requirements, and its proven commitment to superior delivery technologies have established QuoteMedia as a frontrunner in the financial market data industry.">
+    <title>Privacy Policy - QuoteMedia Market Data Solutions</title>
+    <meta http-equiv="Description" content="Stock Market Data and Financial Research Solutions.  Financial widgets, market data feeds, and stock market applications.">
     <meta http-equiv="Keywords" content="stock quotes, chart, stock market, market depth, level II, sec filings, market data, data feeds, xml, quotestream, quote module, quote tool, ticker, forex, currency">
+    <!-- start of temp no cache meta tags -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">    
+    <!-- end of temp no cache meta tags -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <link type="text/css" rel="stylesheet" href="//www.quotemedia.com/assets/css/bootstrap.css" media="screen" charset="utf-8">
     <link type="text/css" rel="stylesheet" href="//www.quotemedia.com/assets/css/qmci.css" media="screen" charset="utf-8">
+    <link type="text/css" rel="stylesheet" href="//www.quotemedia.com/assets/css/animations.css" media="screen" charset="utf-8">
     <!-- scripts -->
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" charset="utf-8"></script>
     <script type="text/javascript" src="//www.quotemedia.com/assets/js/bootstrap.min.js"></script>
@@ -29,13 +59,45 @@
       <script src="/assets/js/html5shiv.js"></script>
       <script src="/assets/js/respond.js"></script>
     <![endif]-->
-
+    <script>
+        function hideme(){ 
+            document.getElementById("documentpopup").style.display="none";
+            document.getElementById("documentpopup").className="expand";
+        }
+        function showdocuments(){        
+            document.getElementById("documentpopup").style.display="block";
+        }
+        function hidedocuments(){ 
+            document.getElementById("documentpopup").className +=" shrink";   
+            setTimeout(hideme, 900);
+        }
+        $(window).on('resize', function () {
+          $('.main-menu li a.dropdown').unbind('click');
+        });
+    </script>
+    
   </head>
   <body data-spy="scroll" data-target="#scrollnav" data-offset="140">
 
+    <div id="documentpopup" class="expand">
+        <button class="btn btn-primary" style="float:right" onclick="hidedocuments()">Close</button>
+        <h2>PDF Documents</h2>
+        <a href="/pdfs/QuoteMediaDataCoverage.pdf" target="_blank" class="linktopdf-popup"><i class="icon icon-docs"></i> <span>Market<br>Coverage</span></a>
+        <a href="/pdfs/QuoteMediaXMLJSON.pdf" target="_blank" class="linktopdf-popup"><i class="icon icon-docs"></i> <span>XML &amp; JSON Services</span></a>
+        <a href="/pdfs/QuoteMediaDatafeed.pdf" target="_blank" class="linktopdf-popup"><i class="icon icon-docs"></i> <span>Data Feed Services</span></a>
+        <a href="/pdfs/QuoteMediaNewsServices.pdf" target="_blank" class="linktopdf-popup"><i class="icon icon-docs"></i> <span>News<br>Coverage</span></a>
+        <a href="/pdfs/QuoteMediaContentSolutions.pdf" target="_blank" class="linktopdf-popup"><i class="icon icon-docs"></i> <span>Web Content Solutions</span></a>
+        <a href="/pdfs/QuoteMediaQuotestreamProfessional.pdf" target="_blank" class="linktopdf-popup"><i class="icon icon-docs"></i> <span>Quotestream Professional</span></a>
+        <a href="/pdfs/QuoteMediaQuotestreamNonPro.pdf" target="_blank" class="linktopdf-popup"><i class="icon icon-docs"></i> <span>Quotestream Non-Pro Partners</span></a>
+        <a href="/pdfs/QuoteMediaCorporateProfileWeb.pdf" target="_blank" class="linktopdf-popup"><i class="icon icon-docs"></i> <span>QuoteMedia Company</span></a>
+        <a href="/pdfs/QuoteMediaOverview.ppt" target="_blank" class="linktopdf-popup"><i class="icon icon-docs"></i> <span>QuoteMedia (PPT)</span></a>
+    </div>      
+      
+      
+      
     <div id="qm-smartLookup">
       <div class="closerx">x</div>
-      <script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/lookupSymbols.go?&amp;webmasterId=501&amp;targetsym=on&amp;newwindow=_top&amp;taret=_top&amp;targetURL=http%3A%2F%2Fquotemedia.com/finance/quote/"></script>
+      <script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/lookupSymbols.go?&amp;webmasterId=500&amp;targetsym=on&amp;newwindow=_top&amp;target=_top&amp;targetURL=http://www.quotemedia.com/portal/quote"></script>
       <script type="text/javascript">
         $('.closerx').click(function(){
           $('#qm-smartLookup').css('display','none');
@@ -47,43 +109,35 @@
       <div class="container">
         <div class="row">
           <div class="col-2">
-            <a href="/"><img src="/assets/img/brand_sm.png" class="img-responsive"></a>
+            <a href="/"><img src="/assets/img/brand_sm.png"></a>
           </div>
           <div class="col-10">
             <ul>
-              <li><a href="/quotestream_suite/">Quotestream Suite</a></li>
-              <li><a href="/apifeeds/">Feeds &amp; APIs</a></li>
-              <li><a href="/contentsolutions/">Content Solutions</a></li>
-              <li><a href="/coverage/">Coverage</a></li>
+              <li><a href="/contentsolutions/">Web Content Solutions</a></li>
+              <li><a href="/apifeeds/">Data Feeds &amp; APIs</a></li>
+              <li><a href="/quotestream/">Quotestream Suite</a></li>
+              <li><a href="/irsolutions/">IR Solutions</a></li>
+              <li><a href="/coverage/">Market Coverage</a></li>
               <li><a href="/corp/">Company</a></li>
-              <li><a href="/sales/">Sales</a></li>
-              <li><a href="/support/">Support</a></li>
+              <li><a href="/contact/">Contact</a></li>
             </ul>
           </div>
         </div>
       </div>
     </div>
 
-    <!--div class="navbar navbar-static-top navbar-inverse">
-      <div class="container">
-      <ul class="nav navbar-nav pull-right top-nav">
-        <li><a href="/corp/"><span class="icon icon-briefcase"></i> Company</a></li>
-        <li><a href="/contact/"><span class="icon icon-mail-alt"></i> Contact</a></li>
-      </ul>
-      </div>
-    </div-->
     <div class="container top-heading">
       <div class="row">
         <div class="col-12 col-lg-5">
-          <a href="/"><img src="/assets/img/brand3.png" class="img-responsive"></a>
+            <a href="/"><img style="width:300px; max-width: 90%;" src="/assets/img/quotemedia_large_company_logo.png"></a>
         </div>
         <div class="col-12 col-lg-3 sales-info">
-                    <a href="/sales/" style="text-decoration:underline;">Contact Sales</a>: 1 (844) 485-8200
+                    <a href="/contact/" style="text-decoration:underline;">Contact Sales</a>: 1 (844) 485-8200
                   </div>
-        <div class="col-12 col-lg-4 quote-form visible-lg">
+        <div class="col-12 col-lg-4 quote-form">
           
-          <form class="form-inline" action="/finance/">
-            <label for="symbol" class="hidden-sm hidden-inline">Get a Quote:</label>
+          <form class="form-inline" action="/portal/quote">
+            <label for="symbol" class="hidden-inline">Get a Quote:</label>
             <input type="text" class="form-control" id="symbol" name="qm_symbol" placeholder="enter ticker">
             
             <button type="submit" class="btn btn-primary">Go</button>
@@ -91,20 +145,250 @@
         </div>
       </div>
       <div class="navbar navbar-qmci clearfix">
-        <div class="visible-sm">
-        <a href="javascript:$('.main-menu').impToggle();" class="visible-sm main-menu-toggler"><i class="icon icon-menu"></i></a>
+        <div class="hidden-lg">
+        <a href="javascript:menuToggler();" class="hidden-lg main-menu-toggler"><i class="icon icon-menu"></i></a>
         <br><br>
         </div>
-        <ul class="nav navbar-nav hidden-sm main-menu">
+        <ul class="nav navbar-nav visible-lg main-menu">
           <li><a href="/">Home</a></li>
-          <li><a href="/quotestream_suite/">Quotestream Suite</a></li>
-          <li><a href="/apifeeds/">Data Feeds &amp; APIs</a></li>
-          <li><a href="/contentsolutions/">Content Solutions</a></li>
-          <!--li><a href="/custom/">Custom Solutions</a></li-->
-          <li><a href="/coverage/">Data Coverage</a></li>
-          <li><a href="/corp">Company</a></li>
-          <li><a href="/sales">Sales</a></li>
-          <li><a href="/support">Support</a></li>
+          <li>
+            <a class="dropdown" href="/contentsolutions/">Web Content Solutions <i class="icon icon-down-dir"></i></a>
+            <div class="hidden-lg" style="display:none;">
+            <ul class="nav nav-pills nav-stacked">
+    <li class="main "><a href="/contentsolutions">Content Solutions Overview</a></li>
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+    <li><a href="/contentsolutions/stock_quotes">Stock Quotes</a></li>
+    <li><a href="/contentsolutions/financial_charts">Financial Charts</a></li>
+    <li><a href="/contentsolutions/news_headlines">News and Headlines</a></li>
+    <li><a href="/contentsolutions/sec_filings">SEC Filings</a></li>
+    <li><a href="/contentsolutions/level_2_market_depth">Level 2 / Market Depth</a></li>
+    <li><a href="/contentsolutions/trades">Trades / Time &amp; Sales</a></li>
+    <li><a href="/contentsolutions/options_option_chains">Option Chains</a></li>
+    </ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+    <li><a href="/contentsolutions/company_profiles">Company Profiles</a></li>
+    <li><a href="/contentsolutions/analyst_ratings">Analyst Ratings</a></li>
+    <li><a href="/contentsolutions/earnings">Earnings</a></li>
+    <li><a href="/contentsolutions/corporate_events">Corporate Events</a></li>
+    <li><a href="/contentsolutions/company_financials">Financials</a></li>
+    <li><a href="/contentsolutions/insiders">Insiders</a></li>
+    <li><a href="/contentsolutions/historical_data">Historical Data</a></li>
+    <li><a href="/contentsolutions/key_ratios">Key Ratios</a></li>
+    <li><a href="/contentsolutions/share_information">Share Information</a></li>
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+    <li><a href="/contentsolutions/stock_watchlists">Watchlists</a></li>
+    <li><a href="/contentsolutions/portfolio_manager">Portfolio Manager</a></li>
+    <li><a href="/contentsolutions/stock_alerts">Stock Alerts</a></li>
+    <li><a href="/contentsolutions/news_alerts">News Alerts</a></li>
+    <li><a href="/contentsolutions/market_summary">Market Summary</a></li>
+    <li><a href="/contentsolutions/global_market_indices">Global Market Indices</a></li>
+    <li><a href="/contentsolutions/market_movers">Market Movers</a></li>
+    <li><a href="/contentsolutions/forex_and_currencies">Forex and Currencies</a></li>
+    <li><a href="/contentsolutions/futures_and_commodities">Futures and Commodities</a></li>
+    <li><a href="/contentsolutions/market_heatmaps">Market Heatmaps</a></li>
+    <li><a href="/contentsolutions/canadian_consolidated">Canadian Consolidated</a></li>
+    <li><a href="/contentsolutions/net_house_summary">Net House Summary</a></li>
+    <li><a href="/contentsolutions/finance_calculators">Finance Calculators</a></li>
+    <li><a href="/contentsolutions/stock_market_calendars">Stock Market Calendars</a></li>
+    <li><a href="/contentsolutions/earnings_calendars">Earnings Calendars</a></li>
+    <li><a href="/contentsolutions/earnings_market_summary">Earnings Market Summary</a></li>
+    <li><a href="/contentsolutions/responsive_financial_content">Responsive Financial Content</a></li>
+    <li><a href="/contentsolutions/stock_tickers">Stock Tickers</a></li>
+    <li><a href="/contentsolutions/stock_screeners">Stock Screeners</a></li>
+    <li><a href="/contentsolutions/mutual_fund_screeners">Mutual Fund Screeners</a></li>
+    <li><a href="/contentsolutions/wallboards">Wallboards</a></li>
+    <li><a href="/contentsolutions/custom_development">Custom Development</a></li>
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+    <li class="main"><a href="/contact/">Contact QuoteMedia</a></li>
+</ul>
+
+<a id="contact-us-fixed" href="/contact/">Questions?</a>            </div>
+          </li>
+          <li>
+              <a class="dropdown" href="/apifeeds/">Data Feeds &amp; APIs <i class="icon icon-down-dir"></i></a>
+              <div class="hidden-lg" style="display:none;">
+                  <ul class="nav nav-pills nav-stacked">
+    <li class="main "><a href="/apifeeds">Overview</a></li>
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+   <li class="main "><a href="/apifeeds/datafeeds">Streaming Data Feeds</a></li>
+    <li><a href="/apifeeds/feed_services">Data Feed Services</a></li>
+    <li><a href="/apifeeds/market_coverage">Market Coverage</a></li>
+    <li><a href="/apifeeds/delivery_mechanisms">Delivery Mechanisms</a></li>
+    <li><a href="/apifeeds/feed_products">Data Feed Products</a></li>
+    <li><a href="/apifeeds/reliability">Redundancy &amp; Reliability</a></li>
+    <li><a href="/apifeeds/real_time">Real-Time Market Data</a></li>    
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+    <li class="main "><a href="/apifeeds/xml_json_on_demand_market_data">XML &amp; JSON Data</a></li>
+    <li><a href="/apifeeds/xml_json_stock_quotes">Quotes Data</a></li>
+    <li><a href="/apifeeds/xml_json_intraday_and_historical">Intraday and Historical</a></li>
+    <li><a href="/apifeeds/xml_json_news">News &amp; Headlines</a></li>
+    <li><a href="/apifeeds/xml_json_analysts_and_earnings">Analysts and Earnings</a></li>
+    <li><a href="/apifeeds/xml_json_research_data">Research Data</a></li>
+    <li><a href="/apifeeds/xml_json_charting_data">Charting Data</a></li>
+    <li><a href="/apifeeds/xml_json_options_and_option_chains">Option Chains</a></li>
+    <li><a href="/apifeeds/xml_json_markets">Markets Data</a></li>
+    <li><a href="/apifeeds/xml_json_symbols_splits">Symbols and Splits</a></li>
+    <li><a href="/apifeeds/xml_json_change_delta">Change Deltas</a></li>
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+    <li><a href="/apifeeds/xml_sample">XML Sample</a></li>
+    <li><a href="/apifeeds/json_sample">JSON Sample</a></li>
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+    <li class="main "><a href="/apifeeds/rss_news_services">RSS News Services</a></li>
+
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+    <li class="main "><a href="/apifeeds/custom_index">Custom Index Services</a></li>
+
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+    <li class="main "><a href="/apifeeds/web_services">Web Services API</a></li>
+
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+    <li class="main "><a href="/contact/">Contact QuoteMedia</a></li>
+</ul>
+
+<a id="contact-us-fixed" href="/contact/">Questions?</a>              </div>
+          </li>
+          <li>
+              <a class="dropdown" href="/quotestream/">Quotestream Suite <i class="icon icon-down-dir"></i></a>
+              <div class="hidden-lg" style="display:none;">
+                  <ul class="nav nav-pills nav-stacked">
+    <li class="main "><a href="/quotestream">Overview</a></li>
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+   <li class="main "><a href="/quotestream/quotestream_professional">Quotestream Professional</a></li>
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+   <li class="main "><a href="/quotestream/quotestream_non_professional">Quotestream Non-Professional</a></li>
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+   <li class="main "><a href="/quotestream/quotestream_mobile">Quotestream Mobile</a></li>
+</ul>
+<hr class="space">
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+   <li class="main "><a href="/quotestream/quotestream_reseller_program">Quotestream Reseller Program</a></li>
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+   <li class="main "><a href="/quotestream/quotestream_enterprise">Quotestream Enterprise</a></li>
+</ul>
+<hr class="space">
+
+<!-- AFFILIATES
+<ul class="nav nav-pills nav-stacked">
+   <li class="main "><a href="/quotestream/quotestream_affiliates">Quotestream Affiliates</a></li>
+</ul>
+--> 
+<!-- PARTNERS (WHITE LABEL?)
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+   <li class="main "><a href="/quotestream/quotestream_partners">XX Quotestream Partners</a></li>
+</ul>
+--> 
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+    <li class="main"><a href="/contact/">Contact QuoteMedia</a></li>
+</ul>
+
+<a id="contact-us-fixed" href="/contact/">Questions?</a>              </div>
+          </li>
+          <li>
+              <a href="/irsolutions/">IR Solutions</a>
+              <!--<a class="dropdown" href="/irsolutions/">IR Solutions <i class="icon icon-down-dir"></i></a>
+              <div class="hidden-lg" style="display:none;">
+                                </div>-->
+          </li>          
+          <li>
+              <a class="dropdown" href="/coverage/">Data Coverage <i class="icon icon-down-dir"></i></a>
+              <div class="hidden-lg" style="display:none;">
+                  <ul class="nav nav-pills nav-stacked">
+    <li class="main "><a href="/coverage">Data Coverage Overview</a></li>
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+    <li><a href="/coverage/north_american_equities">North American Equities</a></li>
+    <li><a href="/coverage/global_equities">Global Equities</a></li>
+    <li><a href="/coverage/options">Options</a></li>
+    <li><a href="/coverage/futures_commodities">Futures and Commodities</a></li>
+    <li><a href="/coverage/indices">Indices</a></li>
+    <li><a href="/coverage/mutual_funds">Mutual Funds, ETFs, UITs, REITs</a></li>
+    <li><a href="/coverage/forex">Foreign Exchange &amp; Currencies</a></li>
+    <li><a href="/coverage/rates">Rates</a></li>
+    <li><a href="/coverage/historical">Historical Data</a></li>
+    <li><a href="/coverage/historical_tick_data">Historical Tick Data</a></li>
+    <li><a href="/coverage/chart_analytics">Charting Analytics</a></li>
+    <li><a href="/coverage/news">News Coverage</a></li>
+    <li><a href="/coverage/filings">SEC Filings</a></li>
+    <li><a href="/coverage/fundamentals">Fundamentals</a></li>
+    <li><a href="/coverage/analyst_coverage">Analyst Coverage</a></li>
+    <li><a href="/coverage/insiders">Insiders</a></li>
+    <li><a href="/coverage/ownership_data">Ownership</a></li>
+    <li><a href="/coverage/corporate_actions_dividends_earnings">Corporate Actions &amp; Earnings</a></li>
+    <li><a href="/coverage/market_movers">Market Movers</a></li>
+    <li><a href="/coverage/company_profile">Profile, Share Info &amp; Key Ratios</a></li>
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+    <li class="main"><a href="/contact/">Contact QuoteMedia</a></li>
+</ul>
+
+<a id="contact-us-fixed" href="/contact/">Questions?</a>              </div>
+          </li>
+          <li>
+              <a class="dropdown" href="/corp">Company <i class="icon icon-down-dir"></i></a>
+              <div class="hidden-lg" style="display:none;">
+                  <ul class="nav nav-pills nav-stacked">
+    <li class="main "><a href="/corp">Overview</a></li>
+</ul>
+<hr class="space">
+<ul class="nav nav-pills nav-stacked">
+  <li><a href="/corp/personnel/">Meet the Team</a></li>
+  <li><a href="/corp/offices/">Offices</a></li>
+  <li><a href="/corp/ir/">Investor Relations</a></li>
+  <li><a href="/corp/news/">Company News</a></li>
+  <li><a href="/corp/docs/">Corporate Documents</a></li>
+  <li><a href="/corp/testimonials/">Client Testimonials</a></li>
+  <li><a href="/contact/">Contact QuoteMedia</a></li>
+</ul>
+<div class="subscribe-box">
+  <h4 class="first">Investors Newsletter</h4>
+  <p>Join the QuoteMedia Newsletter to receive QuoteMedia updates and announcements.</p>
+  <form method="post" action="http://pub45.bravenet.com/elist/add.php">
+    <input type="text" placeholder="name" name="ename" class="form-control">
+    <div style="margin-top:5px">
+      <input type="text" placeholder="email" name="emailaddress" class="form-control" style="width: 72%;display:inline-block;"><button type="submit" class="btn btn-primary" style="width: 25%; text-align:center;margin-left:5px;">Join</button>
+    </div>
+    <input type="hidden" name="usernum" style="border: 0px solid black; height: 0px; width: 0px;" value="3796878239"><input type="hidden" name="cpv" style="border: 0px solid black; height: 0px; width: 0px;" value="1"><input type="hidden" name="action" value="join">
+  </form>
+
+</div>              </div>
+          </li>
+          <li>
+              <a href="/contact">Contact</a>
+          </li>
         </ul>
       </div>
     </div>
@@ -119,7 +403,7 @@
           </div>
         </div>
       </div>
-
+     <h3>1. PRIVACY POLICY</h3>
       <ol class="twoDecimal listPadded">
       <li class="clearAfter afterLeft"><strong>1.1</strong> <span>QuoteMedia is strongly committed to protecting the privacy of users of it's interactive products and services.</span></li>
       <li class="clearAfter afterLeft"><strong>1.2</strong> <span>This privacy policy applies to the QuoteMedia.com Inc. site and all of the Internet accessible QuoteMedia branded services, which we may offer from time to time, referred hereinafter as QuoteMedia. The purpose of this privacy policy is to inform you, our visitor, what types of information we may gather about you when visiting our site and how we may use that information. We will also inform you whether we disclose your information to anyone and if so, under what conditions, as well as the choices you have regarding our use of the information.</span></li>
@@ -168,20 +452,23 @@
       <div class="container">
         <div class="row">
           <div class="col-2 col-lg-2">
-            <a href="/">Home</a>
-            <p><a href="/corp/">Company</a></p>
+              <div class="footer-link"><a href="/contentsolutions/">Web Content Solutions</a></div>
+              <div class="footer-link"><a href="/apifeeds/">Data Feeds &amp; APIs</a></div>
+              <div class="footer-link"><a href="/quotestream/">Quotestream Suite</a></div>
           </div>
           <div class="col-2 col-lg-2">
-            <a href="/sales">Contact Sales</a>
-            <p><a href="/support/">Support Center</a></p>
+            <div class="footer-link"><a href="/irsolutions/">IR Solutions</a></div>
+            <div class="footer-link"><a href="/corp/">Company</a></div>
+            <div class="footer-link"><a href="/coverage/">Data Coverage</a></div>
           </div>
           <div class="col-2 col-lg-2">
-            <a href="http://www.quotestream.com/">Quotestream Login</a>
-            <p><a href="http://quotestreampro.com">Quotestream Pro Login</a></p>
+              <div class="footer-link"><a href="/contact">Contact</a></div><a href="/contact">
+              </a><div class="footer-link"><a href="/contact"></a><a href="http://www.quotestream.com/">Quotestream Login</a></div>
+              <div class="footer-link"><a href="http://quotestreampro.com">Quotestream Pro Login</a></div>
           </div>
           <div class="col-4 col-lg-6 legal-copy">
-            Copyright © 2014 QuoteMedia, Inc. All Rights Reserved
-            <p><a href="/legal/tos/">Terms of Use</a> | <a href="/legal/privacy/">Privacy Policy</a></p>
+            Copyright © 2016 QuoteMedia, Inc. All Rights Reserved
+            <div style="margin-top:10px;"><a href="/">Home</a> &nbsp;|&nbsp; <a href="/legal/tos/">Terms of Use</a> &nbsp;|&nbsp; <a href="/legal/privacy/">Privacy Policy</a></div>
           </div>
         </div>
       </div>
@@ -190,7 +477,7 @@
     <div class="alt-footer container visible-sm">
       <div class="row">
 
-          Copyright © 2014 QuoteMedia, Inc.
+          Copyright © 2016 QuoteMedia, Inc.
           
       </div>
     </div>
