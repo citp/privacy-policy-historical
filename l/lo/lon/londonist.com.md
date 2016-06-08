@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonist.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224104246id_/https%3A//londonist.com/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonist.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608114118id_/http%3A//londonist.com/cookies-and-privacy) for the most accurate reproduction.*
 
 # Cookie Information and Privacy Policy | Londonist
 
@@ -64,4 +64,4 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 ## Complaints
 
-If you would like to complain about anything on Londonist.com, or any of our other assets, please email hello@londonist.com with the subject line 'Complaint'.
+If you would like to complain about anything on Londonist.com, or any of our other assets, please email hello@londonist.com with the subject line 'Complaint'.
