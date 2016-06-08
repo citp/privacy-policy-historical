@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ecommercetemplates.com privacy policy that was archived on 2015-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210101016id_/http%3A//www.ecommercetemplates.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ecommercetemplates.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608051118id_/http%3A//www.ecommercetemplates.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!-- #BeginTemplate "/Templates/main.dwt" --><!-- DW6 --><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,6 +19,7 @@
 <link rel="stylesheet" href="/css/ectstyles.css">
 <link rel="stylesheet" href="/css/flexslider.css" type="text/css" media="screen">
 <link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
+<link href="/css/minidropdowncart.css" rel="stylesheet" type="text/css">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script defer="" src="/js/jquery.flexslider.js"></script>
@@ -73,7 +74,7 @@
                       <li><a href="http://www.ecommercetemplates.com/ecommercetools.asp"> Store Tools</a></li>
                     </ul>
                   </li>
-                                   <li class="navextra1"><a href="http://www.ecommercetemplates.com/overview.asp">Overview</a></li>
+                  <li class="navextra1"><a href="http://www.ecommercetemplates.com/overview.asp">Overview</a></li>
                   <li class="dropdown"> <a href="#" id="download" class="dropdown-toggle " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Features</a>
                     <ul class="dropdown-menu">
                       <li><a href="http://www.ecommercetemplates.com/features.asp"> Store Features</a></li>
@@ -96,13 +97,96 @@
                       <li><a href="http://www.ecommercetemplates.com/help/ecommplus/about.asp"> ASP Help Files</a></li>
                       <li><a href="http://www.ecommercetemplates.com/help/admin-help.asp"> Admin Help Files</a></li>
                       <li><a href="http://www.ecommercetemplates.com/tutorials/"> Tutorials</a></li>
-                      <li><a href="http://www.ecommercetemplates.com/free_downloads.asp#usermanual"> User Maunal</a></li>
+                      <li><a href="http://www.ecommercetemplates.com/free_downloads.asp#usermanual"> User Manual</a></li>
                       <li><a href="http://www.ecommercetemplates.com/support/"> Tech Support</a></li>
                     </ul>
-                  </li><li class="navextra"><a href="http://www.ecommercetemplates.com/updaters.asp">Updaters</a></li>
+                  </li><li class="dropdown"> <a href="#" id="download" class="dropdown-toggle " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Updaters</a>
+                    <ul class="dropdown-menu">
+                      <li><a href="http://www.ecommercetemplates.com/updaters.asp"> Download Updater</a></li>
+                      <li><a href="http://www.ecommercetemplates.com/upgrades.asp"> Buy Updater</a> </li>
+                    </ul>
+                  </li>
                   <li><a href="http://www.ecommercetemplates.com/contact.asp">Contact</a></li>
-                  <li><a href="http://www.ecommercetemplates.com/cart.asp"><span class="cartextra">Shopping</span> Cart</a></li>
-                </ul>
+                   <li class="ctextra"><a href="http://www.ecommercetemplates.com/cart.asp"><span class="cartextra">Shopping</span> Cart</a></li>
+                </ul>  
+<div class="ectdp_minicartmainwrapper_ct" id="ectdp_minicartmainwrapper_ct">
+
+<div class="ectdp_minicartmainwrapper">
+    
+	<div class="minicartcnt_dp ectdp_minicartopen" onmouseover="domcopen()" onmouseout="startmcclosecount()">
+	<img src="images/arrow-down.png" style="vertical-align:text-top;" width="16" height="16" alt="Shopping cart"> &nbsp;<a class="ectlink mincart" href="cart.asp">View Cart (<span class="ectMCquant">0</span>)</a>
+	</div>
+    <div class="ectdp_minicartcontainer" id="ectdp_minicartcontainer" style="display:none;" onmouseover="domcopen()" onmouseout="startmcclosecount()">
+<div class="minicartcnt_dp ectdp_empty">Your shopping cart is currently empty</div><div class="minicartcnt_dp"><a href="javascript:domcclose()" class="ectdp_minicartclose">Close</a></div>
+    </div>
+</div>
+
+</div>
+<script>
+var mctmrid=0,ajaxobj,ajaxobjrf;
+function domcopen(){
+	clearTimeout(mctmrid);
+	document.getElementById('ectdp_minicartcontainer').style.display='';
+}
+function domcclose(){
+	document.getElementById('ectdp_minicartcontainer').style.display='none';
+}
+function startmcclosecount(){
+	mctmrid=setTimeout("domcclose()",400);
+}
+function mcpagerefresh(){
+	if(ajaxobj.readyState==4){
+		//document.getElementById('ectdp_minicartmainwrapper_ct').innerHTML=ajaxobj.responseText;
+		document.location.reload();
+	}
+}
+function refreshmcwindow(){
+	if(ajaxobjrf.readyState==4){
+		//alert(ajaxobjrf.responseText);
+		document.getElementById('ectdp_minicartmainwrapper_ct').innerHTML=ajaxobjrf.responseText;
+	}
+}
+function dodeleteitem(cartid){
+	ajaxobj=window.XMLHttpRequest?new XMLHttpRequest():new ActiveXObject("MSXML2.XMLHTTP");
+	ajaxobj.onreadystatechange=mcpagerefresh;
+	ajaxobj.open("GET", "vsadmin/miniajaxdropdowncart.asp?action=deleteitem&cartid="+cartid,true);
+	ajaxobj.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+	ajaxobj.send('');
+}
+function dorefreshmctimer(){
+	setTimeout("dorefreshmc()",1000);
+}
+function dorefreshmc(){
+	ajaxobjrf=window.XMLHttpRequest?new XMLHttpRequest():new ActiveXObject("MSXML2.XMLHTTP");
+	ajaxobjrf.onreadystatechange=refreshmcwindow;
+	ajaxobjrf.open("GET", "vsadmin/miniajaxdropdowncart.asp?action=refresh",true);
+	ajaxobjrf.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+	ajaxobjrf.send('');
+}
+function addOnclick(elem, func) {
+    var old=elem.onclick;
+    if(typeof elem.onclick!='function'){
+        elem.onclick=func;
+    }else{
+        elem.onclick=function(){
+            if(old) old();
+            func();
+        };        
+    }
+}
+function addbuttonclickevent(){
+	var buybuttons=document.getElementsByClassName('buybutton');
+	for(var i = 0; i < buybuttons.length; i++) {
+		var buybutton=buybuttons[i];
+		addOnclick(buybutton, dorefreshmctimer);
+	}
+}
+if(window.addEventListener){
+	window.addEventListener("load",addbuttonclickevent);
+}else if(window.attachEvent)
+    window.attachEvent("load", addbuttonclickevent);
+</script>
+
               </div>
             </nav>
           </div>
@@ -185,7 +269,7 @@
 			
 <div class="minicart">
 	<div class="minicartcnt">
-	<img src="images/littlecart1.gif" style="vertical-align:text-top;" width="16" height="15" alt="Shopping cart"> &nbsp;<a class="ectlink mincart" href="http://www.ecommercetemplates.com/cart.asp">Shopping cart</a>
+	<img src="images/littlecart1.png" style="vertical-align:text-top;" width="16" height="16" alt="Shopping cart"> &nbsp;<a class="ectlink mincart" href="http://www.ecommercetemplates.com/cart.asp">Shopping cart</a>
 	</div>
 
 	<div class="minicartcnt"><span class="ectMCquant">0</span> Product(s) in cart</div>
@@ -203,12 +287,12 @@
      <div class="right_nav_wrapper"> 
 		<h3 class="menuheading">What's new...</h3>
 		<ul>
-                <li><a title="Version 6.5" href="http://www.ecommercetemplates.com/newsletter/">Version 6.5</a></li>
+          <li><a title="Amazon Payments" href="http://www.ecommercetemplates.com/help/ecommplus/amazon-payments.asp">Amazon Payments</a></li>
+                <li><a title="Version 6.5" href="http://www.ecommercetemplates.com/updater-history.asp">Version 6.5</a></li>
                <li><a title="Product Filter Bar" href="http://www.ecommercetemplates.com/help/product-filter-bar.asp">Product filter bar</a></li>
                 <li><a title="Australia Post" href="http://www.ecommercetemplates.com/help/australia-post.asp">Australia Post shipping</a></li>
                 <li><a title="soft cart" href="http://www.ecommercetemplates.com/help/shopping-cart.asp">New soft cart feature</a></li>
                 <li><a title="Wordpress ecommerce" href="http://www.ecommercetemplates.com/wordpress-ecommerce.asp">Wordpress ecommerce</a></li>
-        <li><a title="PayPal Advanced" href="http://www.ecommercetemplates.com/help/ecommplus/paypal-advanced.asp">PayPal Payments Advanced</a></li>
         <li><a title="Royal Mail shipping" href="http://www.ecommercetemplates.com/help/royal-mail.asp">Royal Mail shipping</a></li>
         <li><a title="Responsive designs" href="http://www.ecommercetemplates.com/responsive-design.asp">Responsive design layouts</a></li>
         	<li><a title="Mobile friendly features" href="http://www.ecommercetemplates.com/help/mobile-friendly.asp">Mobile friendly features</a></li>
@@ -301,7 +385,7 @@ function mlvalidator(frm){
 
 <!-- Footer Start-->
 <footer class="clearfix">
-  <div class="blue_bg pad60 clearfix">
+  <div class="blue_bg1 pad60 clearfix">
     <div class="container">
       <div class="row foot">
         <div class="col-md-3 col-xs-12">
@@ -327,7 +411,7 @@ function mlvalidator(frm){
           </ul>
         </div>
         <div class="col-md-2 col-xs-12">
-          <h5>Additional Resources</h5>
+          <h5>Resources</h5>
           <ul>
             <li><a href="http://www.ecommercetemplates.com/payment_processors.asp">Payment providers</a></li>
             <li><a href="http://www.ecommercetemplates.com/free_downloads.asp">Free downloads</a></li>
@@ -366,9 +450,8 @@ function mlvalidator(frm){
     <div class="container">
       <div class="row">
         <div class="col-lg-9 col-xs-12">
-          <div class="pull-left"> <a href="http://www.ecommercetemplates.com/regions/australia.asp">Australia</a> &nbsp;·&nbsp; <a href="http://www.ecommercetemplates.com/regions/canada.asp">Canada</a> &nbsp;·&nbsp; <a href="http://www.ecommercetemplates.com/regions/tienda-virtual.asp">España</a> &nbsp;·&nbsp; <a href="http://www.ecommercetemplates.com/regions/france.asp">France</a> &nbsp;·&nbsp; <a href="http://www.ecommercetemplates.com/regions/germany.asp">Germany</a> &nbsp;·&nbsp; <a href="http://www.ecommercetemplates.com/regions/holland.asp">Holland</a> &nbsp;·&nbsp; <a href="http://www.ecommercetemplates.com/regions/ireland.asp">Ireland</a> · <a href="http://www.ecommercetemplates.com/regions/portugal.asp">Portugal</a> &nbsp;·&nbsp; <a href="http://www.ecommercetemplates.com/regions/south_africa.asp">South Africa</a> &nbsp;·&nbsp; <a href="http://www.ecommercetemplates.com/regions/uk.asp">UK</a><br>
-            <br>
-            © Copyright 2002  - 2015 <a title="ecommerce software" href="http://www.ecommercetemplates.com/" target="_blank">Ecommerce software</a> by Internet Business Solutions SL - All Rights Reserved<br>
+          <div class="pull-left">
+            © Copyright 2002 - 2016 <a title="ecommerce software" href="http://www.ecommercetemplates.com/" target="_blank">Ecommerce software</a> by Internet Business Solutions SL - All Rights Reserved<br>
             <br>
             Ecommerce Templates™ and Ecommerce Plus ™ are registered trademarks of Internet Business Solutions SL. </div>
           <div class="pull-right"><img src="/images/vsign.png" alt="30 day money back guarantee"></div>
