@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the quakeroats.com privacy policy that was archived on 2015-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209190811id_/http%3A//www.quakeroats.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quakeroats.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608151214id_/http%3A//www.quakeroats.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class=" js "><head id="Head1"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes, maximum-scale=1"><meta name="description" content="Quaker Oats Privacy Policy. "><meta name="author" content="Pepsi"><meta http-equiv="cache-control" content="no-cache"><title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class=" js " style="display: block;"><head id="Head1"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes, maximum-scale=1" /> -->  
+   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, maximum-scale=2.0"><meta name="description" content="Quaker Oats Privacy Policy. "><meta name="author" content="Pepsi"><meta http-equiv="cache-control" content="public"><meta http-equiv="cache-control" content="max-age=43200"><title>
 	Privacy Policy | QuakerOats.com
 </title><link href="/Sitefinity/WebsiteTemplates/Quaker/CSS/bootstrap.min.v2.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSS/bootstrap-select.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSS/default.css" rel="stylesheet" type="text/css"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSS/header.css" rel="stylesheet" type="text/css">
     
@@ -14,7 +16,7 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P8LK38"></script><script type="text/javascript" defer="" async="" src="https://cdn.evergage.com/beacon/zetainteractive/quaker_oats/scripts/evergage.min.js"></script><script src="//w.ahalogy.com/"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=005789579034799393676:_h_apncau64"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Sitefinity/WebsiteTemplates/Quaker/Js/jquery.min.js"></script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P8LK38"></script><script type="text/javascript" defer="" async="" src="https://cdn.evergage.com/beacon/zetainteractive/quaker_oats/scripts/evergage.min.js"></script><script src="//w.ahalogy.com/"></script><script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=005789579034799393676:_h_apncau64"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Sitefinity/WebsiteTemplates/Quaker/Js/jquery.min.js"></script>
     <script src="/Sitefinity/WebsiteTemplates/Quaker/Js/jquery-ui.min.js"></script>
     <!--<script src="/Sitefinity/WebsiteTemplates/Quaker/Js/jquery.touchwipe.min.js"></script>-->
     <script src="/Sitefinity/WebsiteTemplates/Quaker/Js/jquery.menu-aim.js"></script>
@@ -28,6 +30,26 @@
     <link rel="SHORTCUT ICON" href="/Sitefinity/WebsiteTemplates/Quaker/Images/favicon.ico">
     <!--<script src="/Sitefinity/WebsiteTemplates/Quaker/Js/foresee-trigger.js"></script>-->
     <script src="/foresee/foresee-trigger.js"></script>
+    
+     <!-- Vulnerability Frame Busting Start -->
+    
+       <style>
+           html { display:none; }
+           @media (max-width:1023px) {
+                html { display:block; }
+           }
+       </style>
+        <script>
+            if (self == top) {
+                document.documentElement.style.display = 'block';
+            } else {
+                top.location = self.location;
+            }
+        </script> 
+   
+    <!-- Vulnerability Frame Busting End -->
+
+
     
     <script type="text/javascript">
         function RedirectHome() {
@@ -50,7 +72,6 @@
 
         function SearchRecipe() {
             if (ValidateTxt()) {
-                ga('send', 'event', 'Global Header', 'Site Search');
                 var searchvalue = "";
                 if (navigator.userAgent.match(/Mobi/)) {
                     searchvalue = document.getElementById("mtxtFindRecipe").value;
@@ -59,7 +80,9 @@
                     searchvalue = document.getElementById("txtFindRecipe").value;
                 }
 
-
+                //ga('send', 'event', 'Global Header', 'Site Search Autocomplete');
+                var docURL = document.URL + '?q=' + searchvalue;
+                _gaq.push(['_trackEvent', docURL, ]);
                 var tabValue;
                 if (searchvalue == 'SEARCH' || searchvalue == '') {
                     tabValue = "All_Product";
@@ -112,6 +135,11 @@
             if (result == false) {
                 alert('Please enter only alphanumeric characters.');
             }
+            if ((txt.trim().toLowerCase() == "and")||(txt.toLowerCase() == "and and")||(txt.toLowerCase() == "and and and")||(txt.toLowerCase() == "and and and and")||(txt.trim()=="")){
+                result = false;
+            }
+            else
+                return true;
             return result;
         }
 
@@ -173,11 +201,16 @@
         ga('create', 'UA-28148907-2', 'auto');
         ga('require', 'displayfeatures');
         ga('send', 'pageview');
-
-        
-
-
     </script>
+    
+    
+    <script type="text/javascript">
+        _gaq = {};
+        _gaq.push = function() {
+            ga('send', 'pageview', arguments[0][1]);
+        }; 
+   </script>
+
     
     <script type="text/javascript">
         (function () {
@@ -186,7 +219,7 @@
             gcse.type = 'text/javascript';
             gcse.async = true;
             gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-            '//www.google.com/cse/cse.js?cx=' + cx;
+            '//cse.google.com/cse.js?cx=' + cx;
             var s = document.getElementsByTagName('script')[0];
             s.parentNode.insertBefore(gcse, s);
         })();
@@ -207,26 +240,32 @@
                     collision: "none"
                 },
                 source: function (request, response) {
-                    $.ajax({
-                        url: "http://clients1.google.com/complete/search?q=" + request.term + "&hl=en&client=partner&source=gcsc&partnerid=005789579034799393676:_h_apncau64&ds=cse&nocache=" + Math.random().toString(),
-                        dataType: "jsonp",
-                        success: function (data) {
-                            if (!data[1] || data[1].length == 0) {
-                                response([{ label: 'No results found.', val: -1 }]);
-                            }
-                            else {
-                                response($.map(data[1].sort(), function (item) {
-                                    return {
-                                        label: item[0],
-                                        value: item[0]
-                                    };
-                                }))
-                            }
-                        }
-                    });
+                    var txttoremove = ['and','and and','and and and','and and and and'];
+                    if ((txttoremove.indexOf(request.term.trim())<0)&&(request.term.trim()!='')) {
+    //                    $.ajax({
+    //                        url: "http://clients1.google.com/complete/search?q=" + request.term.trim() +
+
+    //"&hl=en&client=partner&source=gcsc&partnerid=005789579034799393676:_h_apncau64&ds=cse",
+    //                        dataType: "jsonp",
+    //                        success: function (data) {
+    //                            if (!data[1] || data[1].length == 0) {
+    //                                response([{ label: 'No results found.', val: -1 }]);
+    //                            }
+    //                            else {
+    //                                response($.map(data[1].sort(), function (item) {
+    //                                    return {
+    //                                        label: item[0],
+    //                                        value: item[0]
+    //                                    };
+    //                                }))
+    //                            }
+    //                        }
+    //                    });
+                    }
                 },
                 autoFill: true,
                 minChars: 0,
+                minLength: 3,
                 select: function (event, ui) {
                     $(this).closest('input[id$="txtFindRecipe"]').val(ui.item.value);
                     $(this).keyup(function (event) {
@@ -256,26 +295,32 @@
                     collision: "none"
                 },
                 source: function (request, response) {
-                    $.ajax({
-                        url: "http://clients1.google.com/complete/search?q=" + request.term + "&hl=en&client=partner&source=gcsc&partnerid=005789579034799393676:_h_apncau64&ds=cse&nocache=" + Math.random().toString(),
-                        dataType: "jsonp",
-                        success: function (data) {
-                            if (!data[1] || data[1].length == 0) {
-                                response([{ label: 'No results found.', val: -1 }]);
-                            }
-                            else {
-                                response($.map(data[1].sort(), function (item) {
-                                    return {
-                                        label: item[0],
-                                        value: item[0]
-                                    };
-                                }))
-                            }
-                        }
-                    });
+                    var txttoremove = ['and', 'and and', 'and and and', 'and and and and'];
+                    if ((txttoremove.indexOf(request.term.trim()) < 0) && (request.term.trim() != '')) {
+    //                    $.ajax({
+    //                        url: "http://clients1.google.com/complete/search?q=" + request.term.trim() +
+
+    //"&hl=en&client=partner&source=gcsc&partnerid=005789579034799393676:_h_apncau64&ds=cse",
+    //                        dataType: "jsonp",
+    //                        success: function (data) {
+    //                            if (!data[1] || data[1].length == 0) {
+    //                                response([{ label: 'No results found.', val: -1 }]);
+    //                            }
+    //                            else {
+    //                                response($.map(data[1].sort(), function (item) {
+    //                                    return {
+    //                                        label: item[0],
+    //                                        value: item[0]
+    //                                    };
+    //                                }))
+    //                            }
+    //                        }
+    //                    });
+                    }
                 },
                 autoFill: true,
                 minChars: 0,
+                minLength: 3,
                 select: function (event, ui) {
                     $(this).closest('input[id$="mtxtFindRecipe"]').val(ui.item.value);
                     $(this).keyup(function (event) {
@@ -293,7 +338,7 @@
 
         $(document).ready(function () {
             $('#txtFindRecipe').bind('keypress', function (event) {
-                var regex = new RegExp("^[ a-zA-Z]+$");
+                var regex = new RegExp("^[ a-zA-Z\b]+$");
                 var key = String.fromCharCode(!event.charCode ? event.which : event.charCode);
                 if (!regex.test(key)) {
                     event.preventDefault();
@@ -305,7 +350,7 @@
 
         $(document).ready(function () {
             $('#mtxtFindRecipe').bind('keypress', function (event) {
-                var regex = new RegExp("^[ a-zA-Z]+$");
+                var regex = new RegExp("^[ a-zA-Z\b]+$");
                 var key = String.fromCharCode(!event.charCode ? event.which : event.charCode);
                 if (!regex.test(key)) {
                     event.preventDefault();
@@ -418,7 +463,7 @@
         var axel = Math.random() + "";
         var a = axel * 10000000000000;
         document.write('<iframe src="https://823287.fls.doubleclick.net/activityi;src=823287;type=2014Q-;cat=HomeP-;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-    </script><iframe src="https://823287.fls.doubleclick.net/activityi;src=823287;type=2014Q-;cat=HomeP-;ord=4316970857180.4043?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+    </script><iframe src="https://823287.fls.doubleclick.net/activityi;src=823287;type=2014Q-;cat=HomeP-;ord=8609867559482.193?" width="1" height="1" frameborder="0" style="display:none"></iframe>
     <noscript>
         <iframe src="https://823287.fls.doubleclick.net/activityi;src=823287;type=2014Q-;cat=HomeP-;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
     </noscript>
@@ -426,8 +471,8 @@
 
 <div id="wrapperMain">
     <form method="post" action="./privacy-policy" id="form1">
-<input type="hidden" name="ctl20_TSSM" id="ctl20_TSSM" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTUwNTU0MDE3OQ9kFgICAQ9kFgJmD2QWBGYPZBYCAgMPFgIeB2NvbnRlbnQFHFF1YWtlciBPYXRzIFByaXZhY3kgUG9saWN5LiBkAgEPZBYIAgMPFgIeBXN0eWxlBQ5kaXNwbGF5OiBibG9ja2QCBQ8WAh8BBQ1kaXNwbGF5OiBub25lZAIHDxYCHglpbm5lcmh0bWwFDlByaXZhY3kgUG9saWN5ZAIJDxYCHwJlZGT1CNI0hT5OWfv6WwF+80dFEyORYg==">
+<input type="hidden" name="ctl22_TSSM" id="ctl22_TSSM" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTUwNTU0MDE3OQ9kFgICAQ9kFgJmD2QWBGYPZBYCAgYPFgIeB2NvbnRlbnQFHFF1YWtlciBPYXRzIFByaXZhY3kgUG9saWN5LiBkAgEPZBYIAgMPFgIeBXN0eWxlBQ5kaXNwbGF5OiBibG9ja2QCBQ8WAh8BBQ1kaXNwbGF5OiBub25lZAIHDxYCHglpbm5lcmh0bWwFDlByaXZhY3kgUG9saWN5ZAIJDxYCHwJlZGSUyOrJMMKpnQZv1g76hSnM44bVWg==">
 
 
 <script src="/ScriptResource.axd?d=zm9QP4oCHYik8EWdn-m_0zISB9fVOUf_UiodFBbOG0MDmr7DDUsJOUl_EohT9LyhN6dpAihy4n8XEzj_ILVxLTuVPqXHY8T1RSkKx0KFxifufiNQaQHV4SLcWt_r0Yg7p-_xNow6c7eERQr8ksNJsP6uhY01&amp;t=5f9d5645" type="text/javascript"></script>
@@ -435,11 +480,12 @@
         <!--Hamburger Menu For mobile-->
         <div class="popup-menu" style="display: none"></div>
         <div id="navbar-out" class="left-easing"></div>
-        <div class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right sidr right" id="sidr">
+        <!-- Added nocontent -->
+        <div class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right nocontent sidr right" id="sidr">
             <div class="searchBox">
-                <a href="#" class="submitBtn" onclick="ga('send', 'event', 'Global Header', 'Site Search');">
+                <a href="#" class="submitBtn" onclick="ga('send', 'event', 'Global Header Autocomplete', 'Site Search');">
                     <img src="/Sitefinity/WebsiteTemplates/Quaker/Images/search-icon.png" onclick="SearchRecipe();" alt="" class="mobile-search"></a>
-                <input type="text" name="" autocomplete="off" value="" id="mtxtFindRecipe" placeholder="Search" onkeypress="ga('send', 'event', 'Global Header', 'Site Search');">
+                <input type="text" name="" autocomplete="off" value="" id="mtxtFindRecipe" placeholder="Search" onkeypress="ga('send', 'event', 'Global Header', 'Site Search Autocomplete');" class="ui-autocomplete-input">
             </div>
             <ul class="menu-list">
                 <li class="menu-item">
@@ -588,8 +634,8 @@
 
                 </div>
 
-
-                <div class="desktop-menu-wrapper">
+                <!-- Added nocontent -->
+                <div class="desktop-menu-wrapper nocontent">
                     <!-- LOGO -->
                     <div class="logo">
                         <img src="/Sitefinity/WebsiteTemplates/Quaker/Images/logo.png" alt="" onclick="return RedirectHome();" style="cursor: pointer;">
@@ -619,8 +665,20 @@
                         <div class="signInSearch">
                             <div>
                                 <div>
-                                    <input type="text" id="txtFindRecipe" name="txtFindRecipe" autocomplete="off" value="" placeholder="SEARCH" class="search-area">
-                                    <a href="#" class="Headersearch-icon" onclick="SearchRecipe();"></a>
+                                    <input type="text" id="txtFindRecipe" name="txtFindRecipe" autocomplete="off" list="queryList" value="" placeholder="SEARCH" class="search-area ui-autocomplete-input">
+                                    <datalist id="queryList">
+                                    <option value="cookies">
+                                    </option><option value="oatmeal cookies">
+                                    </option><option value="oatmeal raisin cookies">
+                                    </option><option value="oatmeal">
+                                    </option><option value="meatloaf">
+                                    </option><option value="muffins">
+                                    </option><option value="overnight oats">
+                                    </option><option value="cookie">
+                                    </option><option value="granola">
+                                    </option><option value="oatmeal bars">
+                                    </option></datalist>
+                                   
                                 </div>
                             </div>
                         </div>
@@ -662,7 +720,8 @@
                                             <ul class="third-level">
                                                 <li><a href="/products/hot-cereals/InstantOatmeal/Classic-Flavors.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Regular');">Classic Flavors</a></li>
                                                 <li><a href="/products/hot-cereals/InstantOatmeal/Protein.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Protein');">Protein</a></li>
-                                                <li><a href="/products/hot-cereals/InstantOatmeal/Lower-Sugar.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Lower Sugar');">Lower Sugar</a></li>
+                                                <li><a href="/products/hot-cereals/InstantOatmeal/Supergrains.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Supergrains');">SuperGrains</a></li>
+												<li><a href="/products/hot-cereals/InstantOatmeal/Lower-Sugar.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Lower Sugar');">Lower Sugar</a></li>
                                                 <li><a href="/products/hot-cereals/InstantOatmeal/High-Fiber.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO High Fiber');">High Fiber</a></li>
                                                 <li><a href="/products/hot-cereals/InstantOatmeal/Weight-Control.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Weight Control');">Weight Control</a></li>
                                                 <li><a href="/products/hot-cereals/InstantOatmeal/Organic.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Organic');">Organic</a></li>
@@ -719,6 +778,10 @@
                                                 </a></li>
                                                 <li><a href="/products/hot-cereals/protein-cup/cranberry-almond.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Hot Cereal', 'IQO Cup Cranberry Almond');">Protein Cranberry Almond Cup
                                                 </a></li>
+                                                <li><a href="/products/hot-cereals/instant-oatmeal-cups/banana_bonanza.aspx" onclick="ga('send', 'event', 'Global Navigation','Quaker Products - Hot Cereal', 'IQO Cup Banana Bonanza');">Banana Bonanza
+                                                </a></li>
+                                                <li><a href="/products/hot-cereals/instant-oatmeal-cups/blueberry_bash.aspx" onclick="ga('send', 'event', 'Global Navigation','Quaker Products - Hot Cereal', 'IQO Cup Blueberry Bash');">Blueberry Bash
+                                                </a></li>
                                             </ul>
                                         </li>
                                         <li><a href="/product/hot-cereals/gluten-free-oatmeal.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products 
@@ -736,7 +799,7 @@
                                             'Quaker Products - Hot Cereal', 'Gluten Free IQO Original ');">Gluten Free IQO Original</a>
                                         </li>
 					                        <li>
-                                            <a href="/product/hot-cereals/Gluten-Free-Instant-Oatmeal-lMaple-and-borwn-sugar.aspx" onclick="ga('send', 'event', 'Global 
+                                            <a href="/product/hot-cereals/Gluten-Free-Instant-Oatmeal-Maple-and-brown-sugar.aspx" onclick="ga('send', 'event', 'Global 
 
                                             Navigation', 'Quaker Products - Hot Cereal', 'Gluten Free IQO Maple &amp; Brown Sugar');">Gluten Free IQO Maple &amp; Brown Sugar</a>
                                         </li>
@@ -827,11 +890,9 @@
                                                 </a></li>
                                                 <li><a href="/products/cold-cereals/real-medleys/dark-chocolate-cranberry-almond-granola.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'RM Granola Chocolate');">Real Medleys® Granola Chocolate
                                                 </a></li>                                               
-						<li><a href="/products/cold-cereals/real-medleys/strawberry-almond-granola-yogurt.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'RM Granola &amp; Yogurt Blend Strawberry Almond');">Real Medleys® Granola &amp; Yogurt Blend Strawberry Almond
+						<li><a href="/products/real-medleys/granola/supergrains-blueberry-pecan.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM SuperGrains Blueberry Pecan');">Real Medleys® SuperGrains Blueberry Pecan
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/real-medleys/apple-cinnamon-granola-yogurt.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'RM Granola &amp; Yogurt Blend Apple &amp; Cinnamon');">Real Medleys® Granola &amp; Yogurt Blend Apple &amp; Cinnamon
-                                                </a></li>
-                                                <li><a href="/products/cold-cereals/real-medleys/raspberry-pecan-granola-yogurt.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'RM Granola &amp; Yogurt Blend Raspberry &amp; Pecan');">Real Medleys® Granola &amp; Yogurt Blend Raspberry &amp; Pecan
+                                                <li><a href="/products/real-medleys/granola/supergrains-cinnamon-apple-walnut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM SuperGrains Cinnamon Apple Walnut');">Real Medleys® SuperGrains Cinnamon Apple Walnut
                                                 </a></li>
                                             </ul>
                                         </li>
@@ -860,8 +921,7 @@
                                             <ul class="third-level">
                                                 <li><a href="/products/cold-cereals/corn-bran-crunch.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Corn Bran Crunch');">Corn Bran Crunch
                                                 </a></li>
-                                                <li><a href="/products/cold-cereals/oat-bran-cereal/toasted-oat-bran.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Toasted Oat Bran');">Toasted Oat Bran
-                                                </a></li>
+                                                
                                                 <li><a href="/products/cold-cereals/king-vitaman.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'King Vitamin ');">King Vitamin 
                                                 </a></li>
                                                 <li><a href="/products/cold-cereals/quisp.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Cold Cereal', 'Quisp');">Quisp
@@ -970,8 +1030,30 @@
                                                 </a></li>
                                                 <li><a href="/products/oat-snacks/Yogurt-Granola-Bars/Blueberry.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Yogurt Blueberry');">Chewy® Yogurt Blueberry
                                                 </a></li>
+						<li><a href="/products/oat-snacks/yogurt-granola-bars/variety-pack.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Yogurt Variety Pack');">Chewy® Yogurt Variety Pack
+                                                </a></li>
                                                 <!--<li><a href="/products/oat-snacks/Yogurt-Granola-Bars/Vanilla.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Yogurt Vanilla');">Chewy® Yogurt Vanilla
                                                 </a></li>-->
+                                            </ul>
+                                        </li>
+					<li>
+                                            <a href="/product/snack-bars/chewy-snackwichs.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy snackwichs');">Chewy® Snackwichs</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/snack-bars/chewy-snackwich/apples-and-caramel.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Snackwich Apples &amp; Caramel');">Chewy® Snackwich Apples &amp; Caramel
+                                                </a></li>
+						<li><a href="/products/snack-bars/chewy-snackwich/peanut-butter-and-chocolate-chip.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Chewy Snackwich Peanut Butter &amp; Chocolate Chip');">Chewy® Snackwich Peanut Butter &amp; Chocolate Chip
+                                                </a></li>
+                                            </ul>
+                                        </li>
+					<li>
+                                            <a href="/product/snack-bars/breakfast-flats.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Breakfast Flats');">Breakfast Flats</a>
+                                            <ul class="third-level">
+                                                <li><a href="/products/oat-snacks/breakfast-flats/banana-honey-nut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Breakfast Flats Banna Honey Nut');">Breakfast Flats Banana Honey Nut
+                                                </a></li>
+                                                <li><a href="/products/oat-snacks/breakfast-flats/golden-raisin-cinnamon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Breakfast Flats Golden Raisin Cinnamon');">Breakfast Flats Golden Raisin Cinnamon
+                                                </a></li>
+						<li><a href="/products/oat-snacks/breakfast-flats/cranberry-almond.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Breakfast Flats Cranberry Almond');">Breakfast Flats Cranberry Almond
+                                                </a></li>
                                             </ul>
                                         </li>
                                         <li>
@@ -983,8 +1065,7 @@
                                                 </a></li>
                                                 <li><a href="/products/oat-snacks/real-medleys/dark-chocolate-almond-coconut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'RM Multigrain Bar Dark Chocolate Almond Coconut');">Real Medleys® Multigrain Bar Dark Chocolate Almond Coconut
                                                 </a></li>
-                                                <li><a href="/products/oat-snacks/real-medleys/peach-almond.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'RM Multigrain Bar Peach Almond');">Real Medleys® Multigrain Bar Peach Almond
-                                                </a></li>
+                                                
                                             </ul>
                                         </li>
                                         <li>
@@ -1012,12 +1093,9 @@
                                                 </a></li>
                                                 <li><a href="/products/oat-snacks/oatmeal-to-go-bars/apples-with-cinnamon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Oatmeal To Go Apples with Cinnamon');">Oatmeal To Go Apples with Cinnamon
                                                 </a></li>
-                                                <li><a href="/products/oat-snacks/oatmeal-to-go-bars/banana-bread.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Oatmeal To Go Banana Bread');">Oatmeal To Go Banana Bread
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/oatmeal-to-go-bars/oatmeal-raisin.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Oatmeal To Go Oatmeal Raisin');">Oatmeal To Go Oatmeal Raisin
-                                                </a></li>
-                                                <li><a href="/products/oat-snacks/oatmeal-to-go-bars/raspberry-streusel.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Oatmeal To Go Raspberry Streusel');">Oatmeal To Go Raspberry Streusel
-                                                </a></li>
+                                                
+                                                
+                                                
                                                 <li><a href="/products/oat-snacks/Soft-Baked-Bars/Banana-Nut-Bread.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Soft Baked Banana Nut Bread');">Soft  Baked Banana Nut Bread
                                                 </a></li>
                                                 <li><a href="/products/oat-snacks/Soft-Baked-Bars/Cinnamon-Pecan-Bread.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Soft Baked Cinnamon Pecan Bread');">Soft  Baked Cinnamon Pecan Bread
@@ -1152,6 +1230,10 @@
                                                 </a></li>
                                                 <li><a href="/products/cold-cereals/real-medleys/dark-chocolate-cranberry-almond-granola.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Granola Chocolate');">Real Medleys® Granola Chocolate
                                                 </a></li>
+						<li><a href="/products/real-medleys/granola/supergrains-blueberry-pecan.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM SuperGrains Blueberry Pecan');">Real Medleys® SuperGrains Blueberry Pecan
+                                                </a></li>
+                                                <li><a href="/products/real-medleys/granola/supergrains-cinnamon-apple-walnut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM SuperGrains Cinnamon Apple Walnut');">Real Medleys® SuperGrains Cinnamon Apple Walnut
+                                                </a></li>
                                             </ul>
                                         </li>
                                         <li>
@@ -1163,22 +1245,10 @@
                                                 </a></li>
                                                 <li><a href="/products/oat-snacks/real-medleys/dark-chocolate-almond-coconut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Multigrain Bars Dark Chocolate Almond');">Real Medleys® Multigrain Bar Dark Chocolate Almond Coconut
                                                 </a></li>
-                                                <li><a href="/products/oat-snacks/real-medleys/peach-almond.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Multigrain Bars Peach Almond');">Real Medleys® Multigrain Bar Peach Almond
-                                                </a></li>
+                                                
                                             </ul>
                                         </li>
-					<li>
-					    <a href="/product/real-medleys/granola-yogurt-blend.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Granola &amp; Yogurt Blend');">Real Medleys® Granola &amp; Yogurt Blend</a>
-                                             <ul class="third-level">
-                                        	<li><a href="/products/cold-cereals/real-medleys/strawberry-almond-granola-yogurt.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Granola &amp; Yogurt Blend Strawberry Almond');">Real Medleys® Granola &amp; Yogurt Blend Strawberry Almond
-                                                </a></li>
-                                        	<li><a href="/products/cold-cereals/real-medleys/apple-cinnamon-granola-yogurt.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Granola &amp; Yogurt Blend Apple &amp; Cinnamon');">Real Medleys® Granola &amp; Yogurt Blend Apple &amp; Cinnamon
-                                                </a></li>
-                                        	<li><a href="/products/cold-cereals/real-medleys/raspberry-pecan-granola-yogurt.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Real Medleys', 'RM Granola &amp; Yogurt Blend Raspberry &amp; Pecan');">Real Medleys® Granola &amp; Yogurt Blend Raspberry &amp; Pecan
-                                                </a></li>
-                                            </ul>
-                                        </li>
-                                        
+					                                   
                                     </ul>
                                 </li>
                                 <li>
@@ -1212,10 +1282,7 @@
                                         <li>
                                             <a href="/product/other-products/cookies-biscuits.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Cookies &amp; Biscuits');">Cookies &amp; Biscuits</a>
                                             <ul class="third-level">
-                                                <li><a href="/products/cookies/yogurt-sandwich-biscuits/vanilla.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Oat &amp; Yogurt Sandwich Biscuits Vanilla');">Oat &amp; Yogurt Sandwich Biscuits Vanilla
-                                                </a></li>
-                                                <li><a href="/products/cookies/yogurt-sandwich-biscuits/strawberry.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Oat &amp; Yogurt Sandwich Biscuits Strawberry');">Oat &amp; Yogurt Sandwich Biscuits Strawberry
-                                                </a></li>
+                                                
                                                 <li><a href="/products/cookies/breakfast-cookies/oatmeal-chocolate-chip.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Breakfast Cookies Oatmeal Chocolate Chip');">Breakfast Cookies Oatmeal Chocolate Chip
                                                 </a></li>
                                                 <li><a href="/products/cookies/breakfast-cookies/oatmeal-raisin.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Other', 'Breakfast Cookies Oatmeal Raisin');">Breakfast Cookies Oatmeal Raisin
@@ -1353,6 +1420,10 @@ Quaker Gluten Free FAQs', 'Quaker Gluten Free FAQ');">Quaker Gluten Free FAQ</a>
 
                                         </li>
                                         <li>
+                                            <a href="/oats-do-more/heart-health" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Healthy Living', 'Heart Health');">Heart Health</a>
+
+                                        </li>
+                                        <li>
                                             <a href="/oats-do-more/for-your-family/teaching-healthy-eating-habits.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - Healthy Living', 'Teaching Healthy Eating Habits');">Teaching Healthy Eating Habits</a>
 
                                         </li>
@@ -1432,7 +1503,7 @@ The Quaker Oats Company<br>
 P.O. Box 049003<br>
 Chicago, IL 60604-9003<br>
 (312) 821-1000<br> <br>
-©2015 The Quaker Oats Company. All rights reserved.
+©2016 The Quaker Oats Company. All rights reserved.
 </p> </div> </div> </section> </div> </div>
 
 
@@ -1447,6 +1518,7 @@ Chicago, IL 60604-9003<br>
         
                               
 
+            <img height="1" width="1" alt="" src="https://ct.pinterest.com/?tid=kIXFhMSL8Cs">
         </div>
 
         <footer>
@@ -1497,7 +1569,7 @@ Chicago, IL 60604-9003<br>
                                         <a href="http://www.pepsicojobs.com" target="_blank" onclick="ga('send', 'event', 'Global Footer', 'Careers', 'Site Exit - Pepsico');">Careers</a>
                                     </li>
                                     <li class="li-last">
-                                        <span>© Quaker Oats Company, 2015</span>
+                                        <span>© Quaker Oats Company, 2016</span>
                                     </li>
                                 </ul>
                             </div>
@@ -1555,7 +1627,7 @@ Chicago, IL 60604-9003<br>
 
                     <div class="row">
                         <div class="col-xs-12">
-                            <span class="copyright">© Quaker Oats Company, 2015</span>
+                            <span class="copyright">© Quaker Oats Company, 2016</span>
                         </div>
                     </div>
                 </div>
@@ -1599,7 +1671,7 @@ Chicago, IL 60604-9003<br>
     </form>
 
     <div id="fb-root" class=" fb_reset">
-    <script async="" src="https://web.archive.org/web/20170409032203/https://connect.facebook.net/en_US/all.js"></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f2c5218ee9c9f78" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=146075078749238&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FnRK_i0jz87x.js%3Fversion%3D42%23cb%3Df109685bb529634%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff35635e20f60fb%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/nRK_i0jz87x.js?version=42#channel=f35635e20f60fb&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div>
+    <script async="" src="https://web.archive.org/web/20170409032203/https://connect.facebook.net/en_US/all.js"></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fd30bd4bea0c" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=146075078749238&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FnRK_i0jz87x.js%3Fversion%3D42%23cb%3Df11f7b4d2b17a8c%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff5131ccf853cec%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/nRK_i0jz87x.js?version=42#channel=f5131ccf853cec&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div>
     </div>  
     <script src="/Sitefinity/WebsiteTemplates/Quaker/Js/facebook/fb_init.js" type="text/javascript"></script>
     <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Quaker/Js/shell/shell.js"></script>
@@ -1608,16 +1680,6 @@ Chicago, IL 60604-9003<br>
     
     
     <script type="text/javascript">
-
-        /*var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-28148907-2']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();*/
         var loginUser = '';
 
         if (loginUser != null && loginUser != "") {
@@ -1643,9 +1705,8 @@ Chicago, IL 60604-9003<br>
         <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1018275200/?value=0&amp;guid=ON&amp;script=0"/>
         </div>
         </noscript>
-    
 
 
 
 
-</body></html>
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-2" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span></body></html>
