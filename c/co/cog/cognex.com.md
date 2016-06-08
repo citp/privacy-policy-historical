@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cognex.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206081526id_/http%3A//www.cognex.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cognex.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608072856id_/http%3A//www.cognex.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
