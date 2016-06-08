@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ftmdaily.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209020744id_/http%3A//ftmdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftmdaily.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608054419id_/http%3A//ftmdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy FTMDaily.com - Geopolitical Analysis, Economic Insights, and Investing Ideas
+# Privacy Policy FTMDaily.com - We Follow Trends, Not Opinions
 
 This Privacy Policy governs the manner in which Robinson Media Group, LLC (FTMDaily.com) collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.ftmdaily.com](http://www.ftmdaily.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Robinson Media Group, LLC (FTMDaily.com).
 
