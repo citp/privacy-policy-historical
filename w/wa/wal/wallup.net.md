@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallup.net privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226052047id_/http%3A//wallup.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallup.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608234456id_/http%3A//wallup.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wallpapers HD Deskop
+# Privacy Policy - HD Wallpapers - Desktop Background Images
 
 The owners and operators of wallup.net take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
