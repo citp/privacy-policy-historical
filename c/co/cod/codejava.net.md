@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codejava.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206223429id_/http%3A//www.codejava.net/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codejava.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608145628id_/http%3A//www.codejava.net/site/privacy-policy) for the most accurate reproduction.*
 
 # CodeJava.net’s Privacy Policy
 
