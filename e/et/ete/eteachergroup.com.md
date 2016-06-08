@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eteachergroup.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208005142id_/http%3A//eteachergroup.com/eteacher-privacy-policy%3Fnav%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eteachergroup.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608233314id_/http%3A//eteachergroup.com/eteacher-privacy-policy%3Fnav%3Dfooter) for the most accurate reproduction.*
 
 # eTeacher Privacy Policy | Learn a foreign language
 
