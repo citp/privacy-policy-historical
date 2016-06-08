@@ -1,10 +1,21 @@
-> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206123649id_/http%3A//www.onesimcard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608150932id_/http%3A//www.onesimcard.com/privacy-policy) for the most accurate reproduction.*
 
 # OneSimCard - Privacy Policy
 
 ## We are committed to your privacy in every transaction
 
-At OneSimCard®, the privacy and security of your personal information is extremely important to us. We want to make sure that your personal information is properly protected. We only grant access to personal information about you (such as your name, address, etc.) to our company employees to provide or offer products and services to you, process and service your account(s), and for administration purposes. We only share your personal information with financial service providers to process credit card transactions.
+At OneSimCard®, the privacy and security of your personal information is extremely important to us. We want to make sure that your personal information is properly protected. We only grant access to personal information about you (such as your name, address, etc.) to our company employees to provide or offer products and services to you, process and service your account(s), and for administration purposes.
+
+  1. We share your personal information with financial service providers to process credit card transactions. 
+  2. We may, in accordance with the terms of contracts, give other telecommunications companies providing services to Belmont Telecom, Inc, personal information on nonpaying customers, senders of commercial or other unsolicited e-mail (spam), or customers whose service has been suspended due to refusal to respond to requests for identification verification in accordance with Article 11 of the Act for Prevention of Improper Use of Mobile Voice Communications Services.
+  3. For the purposes of preventing illegal contracts, the occurrence of nonpayment of charges, and other incidents, we may provide other mobile telecommunications carriers with personal information (name, address, date of birth, identification documents, identification numbers, arrest information, methods of forgery) related to forged or falsified identification documents submitted by customers or persons applying for a contract.
+  4. We may provide the necessary personal information, in accordance with the terms of contracts or with prior consent from the customer, to other mobile carriers or PHS carriers involved in the implementation of Mobile and PHS Number Portability (MNP) or telecommunications carriers with whom we have entered into interconnection agreements.
+  5. We may provide customer information (such as the location from which a call was placed, name and/or address of the customer), in accordance with the terms of contracts, to organizations that deal with emergencies (such as the Police Agency, Coast Guard Headquarters or the Fire Department).
+  6. In the event that a customer files a complaint against OneSimCard regarding SMS received by the customer, we may, with prior consent from the customer, give other telecommunications companies personal information related to such filing. In addition, in the event that a line contractor with a telecommunications carrier other than Belmont Telecom, Inc. who received SMS sent by a customer files a complaint against such telecommunications carrier regarding the SMS sent by the customer, we may, in accordance with the terms of contracts, receive personal information on the customer from such telecommunications carrier. 
+  7. In addition to the above, we may provide personal information held by Belmont Telecom, Inc to third parties in a form where personal identification cannot be discerned.
+  8. We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards.
+
+
 
 ## OneSimCard Code of Conduct
 
@@ -16,10 +27,10 @@ This web site may contain links to other sites. If you use a link to visit the s
 
 ## How is your information collected?
 
-In two basic ways: 
+In two basic ways:
 
-  * You provide it to us when you make a purchase or set up an account with us. 
-  * Some information is automatically collected when you use our products and services. For example, network tools are used to collect your call records which you can later review from your account; and we also use cookies and other technologies some provided to us by third parties to learn about your experience with our website. 
+  * You provide it to us when you make a purchase or set up an account with us.
+  * Some information is automatically collected when you use our products and services. For example, network tools are used to collect your call records which you can later review from your account; and we also use cookies and other technologies some provided to us by third parties to learn about your experience with our website.
 
 
 
@@ -29,29 +40,27 @@ We use your information to improve customer experience and our services. Some ex
 
 ## Amendments to Our Privacy Policy
 
-We may, from time to time, amend our Privacy Policy. If we do, we will post amendments to this document on our web site so that you may always have access to our most recent Privacy Policy. We reserve the right, at our discretion, to change, modify, add, or remove portions of our Privacy Policy at any time. If at any point we decide to disclose personal information in a manner different from that stated at the time that information was collected, we will notify users by email. You will be given the choice at that time to 'opt-out' of any disclosures of your personal information that you made available to us prior to the change in our policy. 
+We may, from time to time, amend our Privacy Policy. If we do, we will post amendments to this document on our web site so that you may always have access to our most recent Privacy Policy. We reserve the right, at our discretion, to change, modify, add, or remove portions of our Privacy Policy at any time. If at any point we decide to disclose personal information in a manner different from that stated at the time that information was collected, we will notify users by email. You will be given the choice at that time to 'opt-out' of any disclosures of your personal information that you made available to us prior to the change in our policy.
 
 ## Transactional Emails
 
 We send email confirmations following any transactional activity on the website. It includes product and/or service purchases, refunds, shipping etc.
 
-Transactional emails also include a welcome message sent to new users to verify their email address and account password. 
+Transactional emails also include a welcome message sent to new users to verify their email address and account password.
 
 ## Newsletter and Special Offers
 
-Company news, service updates and special offers are sent out to those who opted in to receive our newsletter. If you no longer wish to receive these emails, you can easily unsubscribe by using any of the following ways: 
+Company news, service updates and special offers are sent out to those who opted in to receive our newsletter. If you no longer wish to receive these emails, you can easily unsubscribe by using any of the following ways:
 
-  * **From a promotional email:** Click on the unsubscribe link which is included in every promotional email. 
-  * **From your OneSimCard web account:** Uncheck "Email me updates about OneSimCard" box from _My Info_ page in your web account.
+  * **From a promotional email:**  Click on the unsubscribe link which is included in every promotional email.
+  * **From your OneSimCard web account:**  Uncheck "Email me updates about OneSimCard" box from My Info page in your web account.
 
 
 
 ## Important Service Announcements
 
-On rare occasions we send out important information regarding changes to products and services sold on the website. These emails are non-promotional in nature and do not contain the unsubscribe link. To stop receiving these mandatory emails you need to cancel your account with OneSimCard. 
+On rare occasions we send out important information regarding changes to products and services sold on the website. These emails are non-promotional in nature and do not contain the unsubscribe link. To stop receiving these mandatory emails you need to cancel your account with OneSimCard.
 
 ## Customer Service
 
-On a regular basis in order to provide support service we may respond to customer requests by phone, email or other way specified by the client. 
-
-© 2006-2015 Belmont Telecom Inc., DBA OneSimCard.com. All rights reserved
+On a regular basis in order to provide support service we may respond to customer requests by phone, email or other way specified by the client.
