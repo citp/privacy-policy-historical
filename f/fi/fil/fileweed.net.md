@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fileweed.net privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204033612id_/http%3A//fileweed.net/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileweed.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608053115id_/http%3A//fileweed.net/pages/privacy.html) for the most accurate reproduction.*
 
-# FileWeed - Easy way to share your files
+# Fileweed - Dosya paylaЕџД±mД±nД±n en kolay yolu
 
-## Privacy Policy
+## __Privacy Policy
 
 Fileweed.net is a provider of online file storage service. Your use of the Fileweed.net site is governed by Fileweed Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.
 
