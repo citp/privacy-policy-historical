@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unipune.ac.in privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206231138id_/http%3A//www.unipune.ac.in/university_files/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unipune.ac.in privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020955id_/http%3A//unipune.ac.in/university_files/privacy_statement.htm) for the most accurate reproduction.*
 
 # General Site Disclaimer : Savitribai Phule Pune University offers undergraduate, postgraduate and doctoral programs in sciences, languages, social sciences, law, management and other interdisciplinary programs.
 
