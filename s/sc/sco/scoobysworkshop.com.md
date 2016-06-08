@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the scoobysworkshop.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122124520id_/http%3A//scoobysworkshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoobysworkshop.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608161538id_/http%3A//scoobysworkshop.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Scooby's Home Workouts
+
+[](http://www.hupso.com/share/)
+
+## Privacy Policy
+
+**What information do we collect?**
 
 We collect information from you when you register on our site or fill out a form.
 
@@ -53,3 +59,5 @@ By using our site, you consent to our online privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified on 8/31/2011
+
+[](http://www.hupso.com/share/)
