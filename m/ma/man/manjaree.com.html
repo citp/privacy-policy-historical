@@ -1,0 +1,1811 @@
+<!--The following is the downloaded HTML source of the manjaree.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608123414id_/http%3A//www.manjaree.com/Info/PrivicyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+    <meta charset="utf-8" />
+    <meta http-equiv="imagetoolbar" content="no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="x-rim-auto-match" content="none" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png" />
+    <link rel="shortcut icon" href="assets/ico/favicon.png" />
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" />
+    <title>Privacy Policy</title>
+
+    
+
+
+    <link href="/Content/css/bootstrap.css" rel="stylesheet" />
+    <link id="pagestyle" rel="stylesheet" type="text/css" href="/Content/css/skin-5.css" />
+    <link href="/Content/css/idangerous.swiper.css" rel="stylesheet" />
+    <link href="/Content/css/style.css" rel="stylesheet" />
+    <link href="/Content/css/animate.min.css" rel="stylesheet" />
+    <link href="/Content/css/owl.carousel.css" rel="stylesheet" />
+    <link href="/Content/css/owl.theme.css" rel="stylesheet" />
+<link href="/Content/css/jquery.mCustomScrollbar.css" rel="stylesheet" />
+    <link href="/Content/css/jquery.dataTables.css" rel="stylesheet" />
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    
+
+    <script src="/Scripts/bootbox.js"></script>
+    <script>
+        paceOptions = {
+            elements: true
+        };
+    </script>
+    <script src="/Content/js/pace.min.js"></script>
+    <script src="/Content/js/toastr.js"></script>
+    <link href="/Content/css/toastr.css" rel="stylesheet" />
+    <script src="/Content/js/typeahead.min.js"></script>
+    <script src="/Content/js/autocomplete.js"></script>
+
+    <script type="text/javascript">
+
+        var scs = 0;
+
+        function blink() {
+            var $el = $(".a3"),
+                x = 500,
+                originalColor = $el.css("color"),
+                i = 100; //counter
+
+            (function loop() { //recurisve IIFE
+                $el.css("color", "white");
+                setTimeout(function () {
+                    $el.css("color", originalColor);
+                    if (--i) setTimeout(loop, x); //restart loop
+                }, x);
+            }());
+        }
+        function GetProductForSearch() {
+            //alert("GetProductForSearch");
+            var jsonData = {
+                searchtext: "Saree"
+            };
+            $.ajax({
+                type: "POST",
+                url: '/Product/GetProductForSearch',
+                data: JSON.stringify(jsonData),
+                contentType: 'application/json; charset=utf-8'
+            }).done(function (data) {
+                var availableTags = "";
+                for (var i = 0 ; i &lt; data.result.length; i++) {
+                    availableTags = availableTags + " &lt;/br&gt; " + data.result[i];
+                    //alert(data.result[i]);                   
+                }
+                $("#spnsearch").html(availableTags);
+
+            }).error(function (jqXHR, textStatus, errorThrown) {
+                alert(jqXHR);
+            });
+            var link = '/Product?mg=' + $("#txtsearch option:selected").val();
+            ;
+            window.location = link;
+        }
+
+        function countwishlist() {
+            // alert("CountCart");
+            $.ajax({
+                url: '/product/totalwishitem',
+                type: "GET",
+
+                contentType: "application/json; charset=utf-8",
+                success: function (response, status, xhr) {
+                    // $('#cartCount').text(response);
+
+                    if (response &gt; 0) {
+                        $("#cntwishlist").show(response);
+                        $(".cntwishlist").text(response);
+                    }
+                    else {
+                        $("#cntwishlist").hide();
+                    }
+
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    //alert(textStatus);
+                }
+            });
+        }
+        function Web_ReminndMeReminder() {
+            //alert("DeleteCartItem");                           
+            var jsonData = {
+            };
+            $.ajax({
+                type: "POST",
+                url: '/Dashboard/Web_ReminndMeReminder',
+                data: JSON.stringify(jsonData),
+                contentType: 'application/json; charset=utf-8'
+            }).done(function (data) {
+                //alert(data.data);
+                var s = data.data;
+                if (data.data &gt; 0) {
+                    $("#cntRmd").show();
+                    $(".cntRmd").text(s);
+                } else {
+                    $("#cntRmd").hide();
+                }
+
+            }).error(function (jqXHR, textStatus, errorThrown) {
+                //alert(jqXHR);
+            });
+        }
+
+
+
+
+
+
+        function ShowMiniCart() {
+            $.ajax({
+                type: "POST",
+                url: '/ShoppingCart/ShowMiniCart',
+                contentType: 'application/json; charset=utf-8'
+            }).done(function (data) {
+                $(".addtocartImg .dropdown-menu").html('');
+                $(".addtocartImg .dropdown-menu").html(data);
+
+            }).error(function (jqXHR, textStatus, errorThrown) {
+                //  alert(jqXHR+"sd");
+            });
+        }
+        function CountCart() {
+            // alert("CountCart");
+            $.ajax({
+                url: '/product/GetCartCount',
+                type: "GET",
+
+                contentType: "application/json; charset=utf-8",
+                success: function (response, status, xhr) {
+                    // $('#cartCount').text(response);
+                    $('#cartCount1').text(response);
+
+                    $('#cartCount3').text(response);
+
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    //alert(textStatus);
+                }
+            });
+        }
+        function Countpcs() {
+            // alert("CountCart");
+            $.ajax({
+                url: '/product/GetCountpcs',
+                type: "GET",
+
+                contentType: "application/json; charset=utf-8",
+                success: function (response, status, xhr) {
+                    $('#cartCount').text(response);
+                    $('#cartCount2').text(response);
+                    if (Number(response) &gt; 0) {
+                        $(".miniCartTable").show();
+                        $(".miniCartm").show();
+                        $(".miniCartFooter").show();
+                    } else {
+                        //$(".miniCartTable").hide();
+                        $(".miniCartTable").html("");
+                        //$(".miniCartTable").html("&lt;div style='text-align:center'&gt;&lt;h2&gt;Your Cart Is Empty&lt;/h2&gt;&lt;/div&gt;");
+                        $(".miniCartTable").html("&lt;div style='text-align:center'&gt;&lt;img src='../images/emptyCart.png' class='img-responsive'/&gt;&lt;/div&gt;");
+                        $(".miniCartFooter").hide();
+                    }
+                    //if (Number(response) &gt;= 4) {
+                    //    alert(response);
+                    //    //$(".miniCartTable").css("height", "150");
+                    //    $(".div.scroll").css("height", "240");
+                    //} else {
+                    //    //$(".miniCartTable").css("height", "250");
+                    //    $(".div.scroll").css("height", "auto");
+                    //}
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    //alert(textStatus);
+                }
+            });
+        }
+        function cart() {
+            //alert("cart");
+            $.ajax({
+                type: "POST",
+                url: '/Product/_shownCartpartial',
+                contentType: 'application/json; charset=utf-8'
+            }).done(function (data) {
+                $(".miniCartTable").html('');
+                $(".miniCartTable").html(data);
+                CountCart();
+                Countpcs();
+            }).error(function (jqXHR, textStatus, errorThrown) {
+                //  alert(jqXHR+"sd");
+            });
+        }
+        function DeleteCartItem(CartId, othis) {
+            //alert("DeleteCartItem_l");
+            var row = othis.parents('tr:first');
+            var jsonData = {
+                CartId: CartId
+            };
+            $.ajax({
+                type: "POST",
+                url: '/Product/DeleteCartItem',
+                data: JSON.stringify(jsonData),
+                contentType: 'application/json; charset=utf-8'
+            }).done(function (data) {
+                //alert(data.totalcartitem);
+                if (data.totalcartitem &gt; 0) {
+                    $(row).remove();
+                    cart();
+                    toastr.success('Your cart item remove successfully.', 'Your Cart Item');
+                    //toastmsg("Product add to cart successfully.")
+                }
+            }).error(function (jqXHR, textStatus, errorThrown) {
+                //alert(jqXHR);
+            });
+        }
+        function MobileShowMiniCart() {
+            $.ajax({
+                type: "POST",
+                url: '/ShoppingCart/MobileShowMiniCart',
+                contentType: 'application/json; charset=utf-8'
+            }).done(function (data) {
+                $(".MaddtocartImg").html('');
+                $(".MaddtocartImg").html(data);
+
+            }).error(function (jqXHR, textStatus, errorThrown) {
+                //  alert(jqXHR+"sd");
+            });
+        }
+        $(document).ready(function () {
+            blink();
+
+
+
+            $("#txtmastersearch").typeahead({
+                minLength: 3,
+                name: 'sear',
+                source: function (request, response) {
+                    objects = [];
+                    map = {};
+                    var url = '/Products/GetAlldata';
+                    $.ajax({
+                        type: "POST",
+                        contentType: "application/json; charset=utf-8",
+                        url: url,
+                        data: "{'SName':'" + $("#txtmastersearch").val() + "'}",
+                        dataType: "json",
+                        success: function (result) {
+                            objects = [];
+                            if (result.Parameterlist.length == 0) {
+                            }
+                            else {
+                              //  objects.push("Readytoship");
+                                //map["Readytoship"]=Object
+                               
+                                $.each(result.Parameterlist, function (i, object) {
+                                    map[object.SearchResult] = object;
+                                    // objects.push(object.SearchResult +'     '+ object.Returnval);
+                                    objects.push(object.SearchResult);
+                                });
+                                response(objects);
+                            }
+
+                        },
+                        error: function (result) {
+                            alert("Error");
+                        }
+                    });
+                },
+                updater: function (item) {
+                    
+
+                    var selectitem = item;
+                    var hurl = window.location.host;
+                    var linkfull = "";
+                    linkfull = '/Products/Master?mg=' + selectitem;
+
+                    window.location.href = "http://" + hurl + linkfull;
+                    //$('#txtCity').val(map[item].Product);
+                    ////$("#txtShipAvability").val("");
+                    ////$(".finalshiptotal").text("0");
+                    ////$('#ddlShipping').attr('disabled', true);
+                    ////$('#ddlShipping').val("0");
+                    ////$("#txtShipAvability").show();
+                    return item;
+                }
+            });
+
+
+
+
+
+
+
+            Web_ReminndMeReminder();
+            countwishlist();
+            $(".Forgottfrontpass").click(function () {
+                $("#ForgottFrontpanel").slideToggle("slow");
+            });
+            cart();
+            $('.req').keyup(function () {
+                // alert('hello');
+
+                $(this).css({
+                    "border": "",
+                    "background": ""
+                });
+
+            });
+            //CountCart();           
+        });
+        //cart();
+
+        function swapStyleSheet(sheet) {
+            document.getElementById('pagestyle').setAttribute('href', sheet);
+        }
+
+        function ForgotPassword() {
+            if ($("#txtForgotPassword").val() != "") {
+                $.ajax({
+                    type: "POST",
+                    url: '/Home/ForGotPassword',
+                    data: JSON.stringify({ email: $("#txtForgotPassword").val() }),
+                    contentType: 'application/json; charset=utf-8'
+                }).done(function (data) {
+                    if (data.message != "") {
+                        $("#ModalLogin").modal('hide');
+                        toastmsg(data.message);
+                    }
+                }).error(function (jqXHR, textStatus, errorThrown) {
+                    $("#spnForGotErrorMsg").text(jqXHR);
+                });
+
+            }
+            else {
+                $("#txtForgotPassword").css({
+                    "border": "1px solid red",
+                    "background": "#FFCECE"
+                })
+            }
+        }
+
+        function Signin() {
+            var isValid = true;
+            $('.signInRequire').each(function () {
+                if ($.trim($(this).val()) == '') {
+                    isValid = false;
+                    $(this).css({
+                        "border": "1px solid red",
+                        "background": "#FFCECE"
+                    });
+                }
+                else {
+                    $(this).css({
+                        "border": "",
+                        "background": ""
+                    });
+                }
+            });
+            if (isValid == true) {
+                $("#spnLoginErrorMsg").text("");
+
+                var rchk = true;
+                if ($("#rmchk").is(':checked')) {
+                    rchk = true;
+                } else {
+                    rchk = false;
+                }
+
+                //alert("hello");
+                //alert($('input:checkbox[name=rememberme]:checked').val());
+
+                var jsonData = { userName: $("#txtLoginUserName").val(), password: $("#txtLoginPassword").val(), ptype: "catalog", rchk: rchk };
+                //if ($("#txtLoginUserName").val() == "admin" &amp;&amp; $("#txtLoginPassword").val() == "admin123") {
+                //    window.location = '/Dashboard';
+                //}
+                //else {
+                //    $("#spnLoginErrorMsg").text("Username or password wrong!.");
+                //}
+                $.ajax({
+                    type: "POST",
+                    url: '/Home/Login',
+                    data: JSON.stringify(jsonData),
+                    contentType: 'application/json; charset=utf-8'
+                }).done(function (data) {
+                    if (data.message == 1) {
+                        //window.location = '/Dashboard';                        
+                        window.location = window.location.href;
+                    }
+                    else if (data.message == 2) {
+                        $("#spnLoginErrorMsg").text("Your account is deactivated!.");
+                    }
+                    else {
+                        $("#spnLoginErrorMsg").text("Username or password wrong!.");
+                    }
+                }).error(function (jqXHR, textStatus, errorThrown) {
+                    //alert(jqXHR);
+                });
+
+            }
+        }
+        function getParameterByName() {
+            var parts = window.location.href.split('/');
+            var answer = parts[parts.length - 1];
+            return answer;
+        }
+        function Register() {
+            var isValid = true;
+            $('.registerRequired').each(function () {
+                if ($.trim($(this).val()) == '') {
+                    isValid = false;
+                    $(this).css({
+                        "border": "1px solid red",
+                        "background": "#FFCECE"
+                    });
+                }
+                else {
+                    $(this).css({
+                        "border": "",
+                        "background": ""
+                    });
+                }
+            });
+            var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            if (!filter.test($("#txtEmail").val())) {
+                toastr.info('Please provide a valid email address', 'Registration');
+                //$("#txtEmail").focus();
+                return false;
+            }
+
+            if ($.trim($("#txtPassword").val()) != $.trim($("#txtConformPassword").val())) {
+                isValid = false;
+                $("#txtConformPassword").css({
+                    "border": "1px solid red",
+                    "background": "#FFCECE"
+                });
+                $("#txtConformPassword").focus();
+                $("#spnErrorMsg").text("Password MisMatch !!")
+                return false;
+            }
+
+            if ($("#turmandcondition").is(':checked') == false) {
+                isValid = false;
+                $("#spnErrorMsgTurmCondition").text("Please Tick or Select  Terms &amp; Conditions !");
+                return false;
+            }
+
+            if (isValid == true) {
+                $("#divLoading").show();
+                //alert("divLoading2");
+                JavascriptFunction();
+                $("#spnErrorMsg").text("");
+                var jsonData = { userName: $("#txtUserName").val(), email: $("#txtEmail").val(), password: $("#txtPassword").val(), mobile: $("#txtMobile").val() };
+                $.ajax({
+                    type: "POST",
+                    url: '/Home/Registration',
+                    data: JSON.stringify(jsonData),
+                    contentType: 'application/json; charset=utf-8'
+                }).done(function (data) {
+                    $("#ModalSignup").modal('hide');
+                    //alert(data.message);
+                    toastmsg(data.message);
+                    $("#divLoading").hide();
+                }).error(function (jqXHR, textStatus, errorThrown) {
+                    $("#divLoading").hide();
+                    //alert(jqXHR);
+                });
+            }
+            clearRegistrationData();
+        }
+        function clearRegistrationData() {
+            $("#txtUserName").val("");
+            $("#txtEmail").val("");
+            $("#txtPassword").val("");
+            $("#txtConformPassword").val("");
+            $("#txtMobile").val("");
+        }
+
+        function JavascriptFunction() {
+            var url = '/Home/PostMethod';
+            $("#divLoading").show();
+            $.post(url, null,
+                    function (data) {
+                        //$("#PID")[0].innerHTML = data;
+                        //$("#divLoading").hide();                        
+                    });
+        }
+
+        function isNumberKey(evt) {
+            var charCode = (evt.which) ? evt.which : evt.keyCode
+            if (charCode &gt; 31 &amp;&amp; (charCode &lt; 48 || charCode &gt; 57))
+                return false;
+
+            return true;
+        }
+    </script>
+    <style>
+        .cartMenu1:hover {
+    background: #2ecc71;
+}
+           .typeahead {
+        left: -60px !important;
+    }
+
+        .ScrollStyle
+{
+    max-height: 150px;
+    overflow-y: scroll;
+}
+        #ForgottFrontpanel {
+            display: none;
+        }
+
+        .themeControll {
+            background: #C64133;
+            height: auto;
+            width: 100px;
+            position: fixed;
+            left: 0;
+            padding: 20px;
+            top: 20%;
+            z-index: 999999;
+            -webkit-transform: translateX(0);
+            -moz-transform: translateX(0);
+            -o-transform: translateX(0);
+            -ms-transform: translateX(0);
+            transform: translateX(0);
+            opacity: 1;
+            -ms-filter: none;
+            filter: none;
+            -webkit-transition: opacity .5s linear, -webkit-transform .7s cubic-bezier(.56, .48, 0, .99);
+            -moz-transition: opacity .5s linear, -moz-transform .7s cubic-bezier(.56, .48, 0, .99);
+            -o-transition: opacity .5s linear, -o-transform .7s cubic-bezier(.56, .48, 0, .99);
+            -ms-transition: opacity .5s linear, -ms-transform .7s cubic-bezier(.56, .48, 0, .99);
+            transition: opacity .5s linear, transform .7s cubic-bezier(.56, .48, 0, .99);
+        }
+
+            .themeControll.active {
+                display: block;
+                -webkit-transform: translateX(-100px);
+                -moz-transform: translateX(-100px);
+                -o-transform: translateX(-100px);
+                -ms-transform: translateX(-1020px);
+                transform: translateX(-100px);
+                -webkit-transition: opacity .5s linear, -webkit-transform .7s cubic-bezier(.56, .48, 0, .99);
+                -moz-transition: opacity .5s linear, -moz-transform .7s cubic-bezier(.56, .48, 0, .99);
+                -o-transition: opacity .5s linear, -o-transform .7s cubic-bezier(.56, .48, 0, .99);
+                -ms-transition: opacity .5s linear, -ms-transform .7s cubic-bezier(.56, .48, 0, .99);
+                transition: opacity .5s linear, transform .7s cubic-bezier(.56, .48, 0, .99);
+            }
+
+            .themeControll a {
+                border-radius: 3px;
+                clear: both;
+                display: block;
+                height: 25px;
+                margin-bottom: 4px;
+                width: 50px;
+            }
+
+        .tbtn {
+            background: #C64133;
+            color: #FFFFFF !important;
+            font-size: 30px;
+            height: auto;
+            padding: 10px;
+            position: absolute;
+            right: -40px;
+            top: 0;
+            width: 40px;
+            cursor: pointer;
+        }
+
+        }
+
+        .common-sprite {
+            background: url("../../../images/icon_a.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+        }
+
+        .payment_visa {
+            height: 0;
+            padding-top: 82px;
+            width: 183px;
+        }
+
+        .courier_icon {
+            width: 122px;
+        }
+
+        .dropdown-menu {
+            margin-left: 15% !important;
+        }
+
+        .dropdownOffer {
+            margin-left: 33% !important;
+        }
+
+        .modal-title-sites {
+            color: #ffffff;
+            font-family: Oswald;
+            font-size: 23px;
+            font-weight: lighter;
+            padding: 13px 0;
+            text-transform: uppercase;
+        }
+
+        .newCollectionUl li p a, .navbar-brand:hover {
+            color: #ffffff;
+        }
+
+        .modal-dialog {
+            max-width: 460px;
+        }
+         #ForgottFrontpanel
+    {
+        display: none;
+    }
+
+	.themeControll {
+		background:#C64133;
+		height: auto;
+		width:100px;
+		position:fixed;
+		left:0;
+		padding:20px;
+		top:20%;
+		z-index:999999;
+		-webkit-transform: translateX(0);
+		-moz-transform: translateX(0);
+		-o-transform: translateX(0);
+		-ms-transform: translateX(0);
+		transform: translateX(0);
+		opacity: 1;
+		-ms-filter: none;
+		filter: none;
+		-webkit-transition: opacity .5s linear, -webkit-transform .7s cubic-bezier(.56, .48, 0, .99);
+		-moz-transition: opacity .5s linear, -moz-transform .7s cubic-bezier(.56, .48, 0, .99);
+		-o-transition: opacity .5s linear, -o-transform .7s cubic-bezier(.56, .48, 0, .99);
+		-ms-transition: opacity .5s linear, -ms-transform .7s cubic-bezier(.56, .48, 0, .99);
+		transition: opacity .5s linear, transform .7s cubic-bezier(.56, .48, 0, .99);
+	}
+	
+	.themeControll.active {
+		display: block;
+		-webkit-transform: translateX(-100px);
+		-moz-transform: translateX(-100px);
+		-o-transform: translateX(-100px);
+		-ms-transform: translateX(-1020px);
+		transform: translateX(-100px);
+		-webkit-transition: opacity .5s linear, -webkit-transform .7s cubic-bezier(.56, .48, 0, .99);
+		-moz-transition: opacity .5s linear, -moz-transform .7s cubic-bezier(.56, .48, 0, .99);
+		-o-transition: opacity .5s linear, -o-transform .7s cubic-bezier(.56, .48, 0, .99);
+		-ms-transition: opacity .5s linear, -ms-transform .7s cubic-bezier(.56, .48, 0, .99);
+		transition: opacity .5s linear, transform .7s cubic-bezier(.56, .48, 0, .99);
+	
+	}
+	
+	.themeControll a {
+    border-radius: 3px;
+    clear: both;
+    display: block;
+    height: 25px;
+    margin-bottom: 4px;
+    width: 50px;
+	}
+	
+	.tbtn {
+    background:#C64133;
+    color: #FFFFFF !important;
+    font-size: 30px;
+    height: auto;
+    padding: 10px;
+    position: absolute;
+    right: -40px;
+    top: 0;
+    width: 40px;
+	cursor:pointer;
+   }
+   
+  
+}
+    .common-sprite {
+                      background: url("../../../images/icon_a.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+                  }
+    .payment_visa {
+        
+        height: 0;
+        padding-top: 82px;
+        width: 183px;
+    }
+        .glyphicon1 {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.courier_icon {
+ 
+    padding-top: 72px;
+    width: 122px;
+}
+        .divloading{        
+        margin: 0px;
+         padding: 0px;
+         position: fixed;
+         right: 0px;
+         top: 0px;
+         width: 100%;
+         height: 100%;
+         background-color: #666666;
+         z-index: 30001;
+         opacity: .8;
+         filter: alpha(opacity=70);
+         display: none;
+        }
+.dropdown-menu{
+    margin-left:15% !important;
+    }
+
+                 .dropdownOffer{
+    margin-left:33% !important;
+    }
+        .modal-title-sites {
+    color: #ffffff;
+    font-family: Oswald;
+    font-size: 23px;
+    font-weight: lighter;
+    padding: 13px 0;
+    text-transform: uppercase;
+}
+        .newCollectionUl li p a, .navbar-brand:hover 
+        {
+        color:#ffffff;
+        }
+#feedback { 
+  height: 110px; 
+  width: 110px; 
+  position: fixed; 
+  top: 40%; 
+  z-index: 1009;
+  transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg); 
+  -moz-transform: rotate(-90deg); 
+  -o-transform: rotate(-90deg); 
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+#feedback a { 
+  display: block; 
+  background: #2ecc71; 
+  height: 30px; 
+  width: 100px; 
+  padding: 3px 11px;
+  color: white; 
+  font-family: Arial, sans-serif; 
+  font-size: 17px; 
+  font-weight: bold; 
+  text-decoration: none; 
+  border-bottom: solid 1px #FFF;
+  border-left: solid 1px #FFF;
+  border-right: solid 1px #fff;
+}
+
+   #whatsapp {
+            height: 25px;
+            width: 25px;
+            position: fixed;
+            top: 80%;
+            z-index: 1009;
+        }
+
+            #whatsapp a {
+                display: block;
+                color: white;
+                background-color:green;
+                font-family: Arial, sans-serif;
+                height: 40px;
+                width: 40px;
+                
+                font-size: 30px;
+                font-weight: bold;
+                text-decoration: none;
+            }
+
+        #facebook {
+            height: 25px;
+            width: 25px;
+            position: fixed;
+            top: 86%;
+            z-index: 1009;
+        }
+
+            #facebook a {
+                display: block;
+                color:white;
+                background-color: #00285A;
+                font-family: Arial, sans-serif;
+                height: 40px;
+                width: 40px;
+                font-size: 30px;
+                font-weight: bold;
+                text-decoration: none;
+            }
+ #goto { 
+  height: 210px; 
+         margin-left:px;
+  width: 110px; 
+  position: fixed; 
+  top: 80%; 
+  z-index: 2009;
+ 
+}
+
+
+	</style>
+    
+</head>
+
+<body class=" pace-running"><div class="pace pace-active"><div class="pace-progress" data-progress-text="100%" data-progress="99" style="width: 100%;">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+
+
+    <div id="feedback">
+        <a data-toggle="modal" class="btn btn-default" data-target=".bs-example-modal-feedback">Feedback</a>
+    </div>
+    <div id="whatsapp">
+        <a data-toggle="modal" class="" href="https://docs.google.com/a/manjaree.in/forms/d/1uoKNbxQbPeYyTffCfU1SUaaKG04ZNcMEu_pILIIDEGY/viewform?c=0&amp;w=1" data-target="" title="Join us on whatsup"><i class="fa fa-whatsapp" style="margin-left: 6px; margin-top: 3px" aria-hidden="true"></i></a>
+    </div>
+    <div id="facebook">
+        <a data-toggle="modal" class="" href="https://www.facebook.com/Manjareecom-1391013251127210/?fref=ts" data-target="" title="Join us on facebook"><i class="fa fa-facebook-square" style="margin-left: 6px; margin-top: 3px" aria-hidden="true"></i></a>
+    </div>
+
+    <div id="divLoading" class="divloading">
+        <p style="position: absolute; top: 50%; left: 50%; color: White;">
+            Loading, please wait...<img src="/images/ajax-loading.gif" />
+        </p>
+    </div>
+
+    <div class="modal signUpContent fade" id="ModelShowReview" tabindex="-1" role="dialog">
+        <div class="modal-dialog ">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">× </button>
+                    <h3 class="modal-title-site text-center">REview Collection </h3>
+                </div>
+                <div class="modal-body">
+                    alpesh
+                 
+
+                </div>
+
+            </div>
+            <!-- /.modal-content -->
+
+        </div>
+        <!-- /.modal-dialog -->
+
+    </div>
+
+
+    <!--  start popup plugin  -->
+    <div class="modal signUpContent fade" id="PopUpplugin" tabindex="-1" role="dialog">
+        <div class="modal-dialog ">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" style="background-color: #0C0C35; margin-left: 410px; margin-top: 5px; border: hidden" data-dismiss="modal"><b>✖</b></button>
+                    <h3 class="modal-title-sites text-center" id="popupmsg"></h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade bs-example-modal-feedback" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="">
+            <div class="modal-content container" style="width: 270px; margin-top: 150px; margin-bottom: 20px; margin-left: -10px; border-radius: 10px">
+                <div class="row">
+                    
+                    <div class="modal-body" style="padding: 10px">
+                        <div class="panel-body right" style="margin-left: 0px">
+                            <button type="button" class="close" style="color: black" data-dismiss="modal"><b>✖</b></button>
+                            <div class="small text-bold left mt5">
+                                <table>
+                                    <tbody><tr>
+                                        <td>
+                                            <div>
+                                                <span style="font-size: 15px">
+                                                    <b>Help us to help you better!</b>
+                                                </span>
+                                                <p>
+                                                    Your suggesstions are valuable to us
+                                                </p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div>
+                                                <span>Name:
+                                                </span>
+                                                <p>
+                                                    <input type="text" id="txtPartyName" placeholder="your Name" class="req form-control" />
+                                                </p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div>
+                                                <span>Email:
+                                                </span>
+                                                <p>
+                                                    <input type="text" id="txtEmai" placeholder=" Your Email Address" class="req form-control" />
+                                                </p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div>
+                                                <span>Contact:
+                                                </span>
+                                                <p>
+                                                    <input type="text" id="txtContact" onkeypress="return isNumberKey(event)" placeholder="Your Contact No." class="req form-control" />
+                                                </p>
+                                            </div>
+                                        </td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <select class="form-control input" id="feedbacktype">
+                                                <option value="type" selected="selected">Type of feedback</option>
+                                                <option value="Product Query">Product Query</option>
+                                                <option value="Suggesstion">Suggestion</option>
+                                                <option value="Supplier Query">Supplier Query</option>
+                                                <option value="Pr &amp; Media Query">Pr &amp; Media Query</option>
+                                                <option value="Website Feedback">Website Feedback</option>
+                                            </select>
+                                        </td>
+
+
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div style="margin-top: 10px">
+                                                <span>Your Suggestion:
+                                                </span>
+                                                <p>
+                                                    <textarea columns="5" id="txtSuggestion" placeholder="Sugesstion here...!" rows="3" class="req form-control"></textarea>
+                                                </p>
+                                            </div>
+                                        </td>
+
+
+                                    </tr>
+                                    <tr>
+
+                                        <td>
+                                            <br />
+                                            <input type="button" class="btn  btn-block btn-lg btn-primary" value="Submit" onclick="Feedback();" /></td>
+                                    </tr>
+                                </tbody></table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Fixed navbar start -->
+    <div class="navbar navbar-tshop navbar-fixed-top megamenu" role="navigation">
+        <div class="navbar-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-sm-6 col-xs-6 col-md-6 no-margin no-padding">
+                    </div>
+                    <div class="col-lg-6 col-sm-6 col-xs-6 col-md-6 no-margin no-padding">
+                        <div class="pull-right">
+                            <ul class="userMenu">
+                                    <li><a><span class="hidden-xs">Wel come, Guest</span></a></li>
+                                    <li><a href="#" data-toggle="modal" data-target="#ModalLogin"><span class="hidden-xs">Sign In</span> <i class="glyphicon glyphicon-log-in hide visible-xs "></i></a></li>
+                                    <li class="hidden-xs"><a href="#" data-toggle="modal" data-target="#ModalSignup">Create Account </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--/.navbar-top-->
+
+        <div class="container">
+
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="sr-only">Toggle navigation </span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-cart"><i class="fa fa-shopping-cart colorWhite "></i><span class="cartRespons colorWhite">Cart (<span id="Mobileminicartfinalprice"><label id="cartCount2"></label></span>) </span></button>
+                <a class="navbar-brand " href="/Dashboard">
+                    
+                    Manjaree
+                </a>
+
+                
+            </div>
+
+            <!-- this part is duplicate from cartMenu  keep it for mobile -->
+            <div class="navbar-cart collapse" style="background-color: white">
+                <div class="cartMenu MaddtocartImg col-lg-4 col-xs-12 col-md-4">
+                    <div class="w100 miniCartTable scroll-pane" style="height: 150px; background-color: white; color: white">
+                        
+<style>
+    div.scroll {
+        height: auto;
+        overflow-y: scroll;
+    }
+</style>
+
+<div class="scroll miniCartTable">
+    
+    <table class="cartTable table-responsive" style="height: auto">
+        <tbody>
+
+        </tbody>
+    </table>
+
+</div>
+
+                    </div>
+                    <div class="miniCartFooter" style="height: 50px; display: block">
+                        <span><a class="btn btn-sm btn-primary" onclick="gotocart();"><i class="fa fa-shopping-cart"></i>  VIEW CART</a><span style="margin-left: 30px; color: white"><span><b>
+                            
+                        </b></span></span></span>
+                    </div>
+                </div>
+            </div>
+            <!--/.navbar-cart-->
+
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active" style="height: 55px"><a href="/Dashboard">Home </a></li>
+                    
+
+                    
+                    <li class="dropdown megamenu-80width">
+                        <a class="dropdown-toggle" data-toggle="dropdown" style="height: 57px">Gallery<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li class="megamenu-content">
+                                <ul class="col-lg-6  col-sm-6 col-md-6  unstyled noMarginLeft">
+                                    <li>
+                                        <p class="promo-1"><strong><a href="/Products?mg=WomensWear" style="color:white">Womens Wear </a></strong></p>
+                                        
+                                        <br />
+                                    </li>
+                                    
+                                    <ul class="col-lg-6  col-sm-6 col-md-6  unstyled noMarginLeft">
+                                        <li><a href="/Products?mg=EthnicWear"><b>
+                                            </b><h4 style="color: #2ecc71"><b>
+                                            Ethnic Wear</b></h4></a></li>
+                                        <li><a href="/Product?mg=Saree">Sarees </a></li>
+                                        <li><a href="/Product?mg=Salwar">Salwar kameez </a></li>
+                                        <li><a href="/Product?mg=Kurtis">Kurtis </a></li>
+                                        <li><a href="/Product?mg=Gown">Wedding Gowns </a></li>
+                                        <li><a href="/Product?mg=Gowns">Gowns</a></li>
+                                        <li><a href="/Product?mg=Lehenga">Lehenga Choli </a></li>
+                                        <li><a href="/Product?mg=Blouse">Blouse </a></li>
+                                    </ul>
+                                    
+                                    <ul class="col-lg-6  col-sm-6 col-md-6  unstyled noMarginLeft">
+                                        
+                                        <li><a href="/Products?mg=WesternWear"><b>
+                                            </b><h4 style="color: #2ecc71"><b>
+                                            Western Wear</b></h4></a></li>
+                                        <li><a href="/Product?mg=Top">Bottom </a></li>
+                                        <li><a href="/Product?mg=Top">Top</a></li>
+                                        <li><a href="/Product?mg=Dress">Dress</a></li>
+                                    </ul>
+                                </ul>
+
+
+                                <ul class="col-lg-2  col-sm-2 col-md-2  unstyled noMarginLeft">
+                                    <li>
+                                        <p class="promo-1"><strong><a href="/Products?mg=KIDSWEAR" style="color:white">KIDS WEAR </a></strong></p>
+                                        <br />
+                                    </li>
+                                    <li><a href="/Product?mg=Kids">Gown</a></li>
+                                </ul>
+                                <ul class="col-lg-2  col-sm-2 col-md-2  unstyled noMarginLeft">
+                                    <li>
+                                        <p class="promo-1"><strong><a href="/Products?mg=HomeDecor" style="color:white">Home Decor </a></strong></p>
+                                        <br />
+                                    </li>
+                                    <li><a href="/Product?mg=Bed">Bedsheets </a></li>
+                                    <li><a href="/Product?mg=Cusion">Cusion Cover </a></li>
+                                    <li><a href="/Product?mg=Ac">Ac Quilts</a></li>
+                                </ul>
+
+                                <ul class="col-lg-2  col-sm-2 col-md-2  unstyled noMarginLeft">
+                                    <li>
+                                        <p class="promo-1"><strong><a href="/Products?mg=Jewellery" style="color:white">Jewellery </a></strong></p>
+                                        <br />
+                                    </li>
+                                    <li><a href="/Product?mg=Necklace">Necklace </a></li>
+                                    <li><a href="/Product?mg=Earrigns">Earrings </a></li>
+                                    <li><a href="/Product?mg=Pendants">Pendants</a></li>
+                                    <li><a href="/Product?mg=PendantsChain">Pendants with Chain</a></li>
+                                </ul>
+
+                                <ul class="col-lg-2  col-sm-2 col-md-2  unstyled" style="display: none">
+                                    <li>
+                                        <p class="promo-1"><strong>Top Brands </strong></p>
+                                    </li>
+                                    <li><a href="/Product?mg=Diesel">Diesel </a></li>
+                                    <li><a href="/Product?mg=Farah">Farah </a></li>
+                                    <li><a href="/Product?mg=G-Star RAW">G-Star RAW </a></li>
+                                    <li><a href="/Product?mg=Lyle &amp; Scott">Lyle &amp; Scott </a></li>
+                                    <li><a href="/Product?mg=Pretty Green">Pretty Green </a></li>
+                                    <li><a href="/Product?mg=TSHOP">TSHOP </a></li>
+                                    <li><a href="/Product?mg=TANJIM">TANJIM </a></li>
+                                </ul>
+                                <ul class="col-lg-3  col-sm-3 col-md-3 col-xs-6" style="display: none">
+                                    <li class="no-margin productPopItem "><a href="product-details.html">
+                                        <img alt="img" src="/Content/images/1.jpg" class="img-responsive" />
+                                    </a><a href="product-details.html" class="text-center productInfo alpha90">Party Wear
+                                        <br />
+                                        <span>Rs.800 </span></a></li>
+                                </ul>
+                                <ul class="col-lg-3  col-sm-3 col-md-3 col-xs-6" style="display: none">
+                                    <li class="no-margin productPopItem relative"><a href="product-details.html">
+                                        <img alt="img" src="/Content/images/2.jpg" class="img-responsive" />
+                                    </a><a href="product-details.html" class="text-center productInfo alpha90">Wedding Wear
+                                        <br />
+                                        <span>Rs.800 </span></a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li class="navbar-form navbar-right">
+                    <input class="form-control typeahead" type="text" style="width: 500px; border-radius: 4px;height:33px !important" id="txtmastersearch" placeholder="Search Anything BRAND,CATALOG,PRODUCT,CELEBRITY,COLOR,FABRIC,WORK" />
+                </li>
+                </ul>
+
+                
+
+
+                <div class="nav navbar-nav navbar-right hidden-xs">
+                    <div class="dropdown  cartMenu cartMenu1" title="Your Wishlist Product">
+                        <div id="cntwishlist" style="display: none">
+                            <a class="dropdown-toggle" data-toggle="" onclick="gotoWishlist();"><span class="cartRespons"><i class="glyphicon1 glyphicon-heart"></i></span>
+                                <label style="color: white; font-size: 10px;"><span class="cartRespons cntwishlist"></span></label>
+                                
+                            </a>
+                        </div>
+                    </div>
+                    <div class="dropdown  cartMenu cartMenu1" title="Your Reminder Product Available">
+                        <div id="cntRmd" style="display: none">
+                            <a class="dropdown-toggle" data-toggle="" onclick="gotoRemindMe();"><span class="cartRespons"></span><i class="glyphicon glyphicon-time" style="font-size: 15px; line-height: 0px"></i>
+                                <label style="color: red; font-size: 10px;"><span class="cartRespons cntRmd a3" style="margin-bottom: 10px;"></span></label>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="dropdown  cartMenu">
+                        
+                        
+
+                        <a class="dropdown-toggle" data-toggle="dropdown" onclick="gotocart();" style="height: 57px"><i class="fa fa-shopping-cart"></i><span class="cartRespons">Cart (
+                            <label id="cartCount"></label>
+                            )</span> <b class=""></b></a>
+                        <div class="dropdown-menu col-lg-4 col-xs-12 col-md-4 ">
+                            <div class="w100 miniCartTable scroll-pane" style="height: auto">
+                                
+<style>
+    div.scroll {
+        height: auto;
+        overflow-y: scroll;
+    }
+</style>
+
+<div class="scroll miniCartTable">
+    
+    <table class="cartTable table-responsive" style="height: auto">
+        <tbody>
+
+        </tbody>
+    </table>
+
+</div>
+
+                            </div>
+                            <div class="miniCartFooter" style="height: 50px; display: block">
+                                <span><a class="btn btn-sm btn-primary" onclick="gotocart();"><i class="fa fa-shopping-cart"></i> VIEW CART </a><span style="margin-left: 100px">Total Price: <span><b>
+                                    <label id="cartCount1"></label>
+                                </b></span></span></span>
+                            </div>
+
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!--/.nav-collapse -->
+        <div class="search-full text-right">
+            <a class="pull-right search-close"><i class=" fa fa-times-circle"></i></a>
+            <div class="searchInputBox pull-right">
+                <input id="txtsearch" type="text" data-searchurl="search?=" name="q" placeholder="start typing and hit enter to search" onchange="GetProductForSearch();" />
+                
+
+                
+
+                
+            </div>
+        </div>
+        <!--/.search-full-->
+    </div>
+    <!--/.container -->
+
+
+
+
+    <!-- /.Fixed navbar  -->
+
+
+    
+
+<div class="container main-container headerOffset">
+<div class="row innerPage">
+<div class="col-lg-12 col-md-12 col-sm-12">
+<div class="row userInfo">
+<div class="col-xs-12 col-sm-12">
+<h1 class="title-big text-center section-title-style2">
+<span>
+Privacy Policy
+</span>
+</h1>
+<p class="lead text-center">
+At Manjaree.com, we respect your privacy and take protecting it seriously. This Privacy Policy covers our collection, use and disclosure of information we collect through our website and service www.Manjaree.com. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Manjaree.
+</p>
+<hr class="hr hr30" />
+<div class="row animated">
+    <div class="col-xs-12 col-sm-12">
+<h3 class="block-title-3">
+“I Am a Manjaree Customer.”
+</h3>
+<p>
+Your account information is held in strict confidence.We do not sell or share your information with anyone. We only collect information like your name, email address, mailing address, phone number, and billing information so we can deliver your purchase product at your door step.
+</p>
+<h3>Links To Other Sites</h3>
+<p>Our Site includes links to other Web sites whose privacy practices may differ from those of Manjaree. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. This privacy policy applies only to information collected by this Web site.</p>
+<h3>
+Security</h3>
+<p>The security of your personal information and our clients’ information is important to us. When you enter sensitive information (such as Transaction with us) we encrypt the transmission of that information using secure socket layer technology (SSL).We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us.
+Any kind of your payment details are not stored in our system. However, just to inform that customer protection is a two-way street. When buying on any online venue, caution must always be practiced. One should note the guidelines that should be follow to ensure safe and secure online shopping experience.</p>
+<h3>What About Cookies?</h3>
+<p>We do use cookies to track a number of activities and provide a desirable experience for our customers, and our subscribers. We do link the information we store in cookies to any personal information you submit while on our site.We treat any data that we collect with a cookie with the same high respect that we treat other data about customers and subscribers, and only use it in ways that are consistent with the policies described above.
+In addition to our own cookies, our third party advertisers may use them to both improve the performance of our service and provide features such as advertising. You can restrict the use of cookies or delete them from your browser at anytime by configuring your browser settings. (Please note that restricting cookies can interfere with some of the functionality of our website.)</p>
+<h3>Newsletters</h3>
+<p>When you sign up for our services, we will send you newsletter(s) or communications regarding products which may be of interest to you. If you no longer wish to receive these communications you can follow the unsubscribe instructions contained in each of the email communications you receive or by contacting us at info@manjaree.in.</p>
+<h3>Changes to This Privacy Statement</h3>
+<p>We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+<h3>Contact Us</h3>
+<p>If you have any questions or suggestions regarding our privacy policy, please contact us at via email at sales@Manjaree.in or click here.</p>
+</div>
+
+
+</div> 
+<hr />
+</div>
+</div>  
+</div>
+</div>  
+<div style="clear:both"> </div>
+</div> 
+
+    <footer>
+        <div class="footer" id="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-2  col-md-2 col-sm-4 col-xs-12">
+                        <h3>Support</h3>
+                        <ul>
+                            <li><a href="/Info/tosellwithus">To sell with us</a></li>
+                            <li><a href="/Info/tobuywithus">To buy with us</a></li>
+                            <li><a href="/Info/finance">Finance</a></li>
+                            <li><a href="/Info/Career">Career</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-2  col-md-2 col-sm-4 col-xs-12">
+                        <h3>Account </h3>
+                        <ul>
+                                <li><a data-toggle="modal" data-dismiss="modal" href="#ModalLogin">Login </a></li>                                   
+                            <li><a href="#">My Manjaree </a></li>
+                            <li><a href="/Product/Cart">My Shopping Cart </a></li>
+                            <li><a href="#">Check Order Status</a></li>
+                            <li><a href="/Info/ChkCashOnDelivery">Check COD</a></li>
+                            <li><a href="/Info/sitemap">Sitemap</a></li>
+                            
+                        </ul>
+                    </div>
+                    <div class="col-lg-2  col-md-2 col-sm-4 col-xs-12">
+                        <h3>Know More </h3>
+                        <ul>
+                            <li><a href="/Info/AboutUs">About Us</a></li>
+                            
+                            <li><a href="/Info/WholeSaleInquiry">Wholesale Inquiry</a></li>
+                            <li><a href="/Info/Franchise">Franchise Inquiry</a></li>
+
+                             
+                            <li><a href="/Info/TermsConditions">Terms &amp; Conditions</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="col-lg-2  col-md-2 col-sm-4 col-xs-12">
+                        <h3>Questions</h3>
+                        <ul>
+                            <li><a href="/Info/FAQS">FAQ</a></li>
+                            
+                            <li><a href="/Info/Disclaimer">Disclaimer</a></li>
+                            
+                        </ul>
+                    </div>
+                    <div class="col-lg-2  col-md-2 col-sm-4 col-xs-12">
+                        <h3>Our Policies</h3>
+                        <ul>
+                            <li><a href="/Info/ShippingPolicy">Shipping Policy</a></li>
+                            <li><a href="/Info/ReturnPolicy">Returns Policy</a></li>
+                            <li><a href="/Info/PrivicyPolicy">Privacy Policy</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-2  col-md-2 col-sm-4 col-xs-12">
+                        <h3>Need Help?</h3>
+                        <ul>
+                            <li><a href="/Info/Contactus">Contact Us</a></li>
+                        </ul>
+                        <h3>Affiliate</h3>
+                        <ul>
+                            <li><a href="/Info/Giveandget">Give &amp; Get Bonus</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-2  col-md-2 col-sm-4 col-xs-4" style="width: 33%">
+                        <h3>Pay by</h3>
+                        <div style="margin-top: 10px">
+                            <a href="">
+                                <img src="/images/paymentlogo/ccavenue1.jpg" title="CC-Avenue" style="margin-top: 10px;" height="20" width="55" /></a>
+                            <a href="">
+                                <img src="/images/paymentlogo/resized_paypal.jpg" title="Paypal" style="margin-top: 10px" height="25" width="30" /></a>
+                            <a href="">
+                                <img src="/images/paymentlogo/resized%20visa.jpg" title="Visa" style="margin-top: 10px" height="25" width="35" /></a>
+                            <a href="">
+                                <img src="/images/paymentlogo/resizedmastercard.jpg" title="MasterCard" style="margin-top: 10px" height="25" width="35" /></a>
+                            <a href="">
+                                <img src="/images/paymentlogo/american1.jpg" title="American Express" style="margin-top: 10px" height="25" width="35" /></a>
+                            <a href="">
+                                <img src="/images/paymentlogo/discover1.jpg" title="Discover" style="margin-top: 10px" height="25" width="35" /></a>
+                            <a href="">
+                                <img src="/images/paymentlogo/mobik1.jpg" title="Mobikwick" style="margin-top: 10px" height="25" width="40" /></a>
+                            <a href="">
+                                <img src="/images/paymentlogo/payu1.jpg" title="PayUMoney" style="margin-top: 10px" height="25" width="40" /></a>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-2  col-md-2 col-sm-4 col-xs-12" style="width: 25%">
+                        <h3>Shipping Partners</h3>
+                        <div style="margin-top: 10px">
+                            <a href="">
+                                <img src="/images/Shppingpartners/bluedart-courier-service.png" height="30px" /></a>
+                            <a href="">
+                                <img src="/images/Shppingpartners/dtdc-courier-service.png" height="30px" /></a>
+                            <a href="">
+                                <img src="/images/Shppingpartners/resizedtirupati.jpg" height="30px" width="60px" /></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3  col-md-3 col-sm-6 col-xs-12">
+                        <h3>Stay in touch </h3>
+                        <ul>
+                            <li>
+                                <div class="input-append newsLatterBox text-center">
+                                    <input id="subscribemail" type="text" class="full text-center req3" placeholder="Email " />
+                                    <button class="btn  bg-gray" type="button" onclick="Subscribe();">Subscribe <i class="fa fa-long-arrow-right"></i></button>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3  col-md-3 col-sm-6 col-xs-12" style="width: 15%">
+                        <h3>Follow Us:</h3>
+                        <ul class="social">
+                            <li style="margin-top: 10px"><a href="https://www.facebook.com/profile.php?id=100010427430514" title="Facebook"><i class=" fa fa-facebook">  </i></a></li>
+                            <li style="margin-top: 10px"><a href="https://twitter.com/ManjareeIN"><i class="fa fa-twitter" title="Twitter">  </i></a></li>
+                            <li style="margin-top: 10px"><a href="https://plus.google.com"><i class="fa fa-google-plus">  </i></a></li>
+                            <li style="margin-top: 10px"><a href="https://in.pinterest.com/manjareein/"><i class="fa fa-pinterest" title="Pinterest">  </i></a></li>
+                            <li style="margin-top: 10px"><a href="http://youtube.com"><i class="fa fa-youtube">  </i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!--/.row-->
+            </div>
+            <!--/.container-->
+        </div>
+        <!--/.footer-->
+
+        <div class="footer-bottom">
+            <div class="container">
+                <p class="pull-left">© Manjaree 2015. All right reserved. </p>
+                
+                <div class="pull-right paymentMethodImg">
+                    
+                </div>
+            </div>
+        </div>
+        <!--Login pop-->
+        <div class="modal signUpContent fade" id="ModalLogin" tabindex="-1" role="dialog">
+            <div class="modal-dialog ">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><b>✖</b></button>
+                        <h3 class="modal-title-site text-center">Login  to Manjaree </h3>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group login-username">
+                            <div>
+                                <input name="log" id="txtLoginUserName" class="form-control input signInRequire" size="20" placeholder="Enter Username" type="text" />
+                            </div>
+                        </div>
+                        <div class="form-group login-password">
+                            <div>
+                                <input name="Password" id="txtLoginPassword" class="form-control input signInRequire" size="20" placeholder="Password" type="password" />
+                                <span id="spnLoginErrorMsg" style="color: red;"></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div>
+                                <div class="checkbox login-remember">
+                                    <label>
+                                        <input id="rmchk" name="rememberme" value="forever" checked="checked" type="checkbox" />
+                                        Remember Me
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <a href="javascript:void(0);" onclick="Signin();" class="btn  btn-block btn-lg btn-primary">LOGIN</a>
+                        </div>
+                        <section id="socialLoginForm">
+                        </section>
+                        <!--userForm-->
+                    </div>
+                    <div class="modal-footer">
+                        <p class="text-center">
+                            Not here before? <a data-toggle="modal" data-dismiss="modal" href="#ModalSignup">Sign Up. </a>
+                            <br />
+                            <a href="javascript:void(0);" class="Forgottfrontpass">Forgot password? </a>
+                        </p>
+                        <div id="ForgottFrontpanel">
+                            <div class="input-icon">
+                                <i class="icon-envelope"></i>
+                                <input type="text" name="txtForgotPassword" id="txtForgotPassword" class="form-control" placeholder="Enter Email Address" data-rule-required="true" data-rule-email="true" data-msg-required="Please enter your email." />
+                                <span id="spnForGotErrorMsg" style="color: red;"></span>
+                                <a class="btn btn-primary" href="javascript:void(0);" onclick="ForgotPassword();"><i class="fa fa-sign-in"></i>Get Password</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.modal-content -->
+
+            </div>
+        </div>
+        <!-- /.modal-dialog -->
+
+        <!-- Modal Signup start -->
+        <div class="modal signUpContent fade" id="ModalSignup" tabindex="-1" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><b>✖</b></button>
+                        <h3 class="modal-title-site text-center">Registration </h3>
+                    </div>
+                    <div class="modal-body">
+
+                        <div class="form-group reg-username">
+                            <div>
+                                <input name="login" class="form-control input registerRequired" id="txtUserName" size="20" placeholder="Enter Username" type="text" />
+                            </div>
+                        </div>
+                        <div class="form-group reg-email">
+                            <div>
+                                <input name="reg" class="form-control input registerRequired" id="txtEmail" size="20" placeholder="Enter Email" type="text" />
+                            </div>
+                            <span id="spnErrorMsgEmail" style="color: red;"></span>
+                        </div>
+                        <div class="form-group reg-password">
+                            <div>
+                                <input name="Confmpassword" class="form-control input registerRequired" id="txtMobile" onkeypress="return isMoNu(event)" maxlength="10" placeholder="Enter Mobile No" type="text" />
+                            </div>
+                            <span id="spnErrorMsgMobile" style="color: red;"></span>
+                        </div>
+                        <div class="form-group reg-password">
+                            <div>
+                                <input name="password" class="form-control input registerRequired" id="txtPassword" size="20" placeholder="Password" type="password" />
+                            </div>
+                        </div>
+                        <div class="form-group reg-password">
+                            <div>
+                                <input name="Confmpassword" class="form-control input registerRequired" id="txtConformPassword" size="20" placeholder="Re-Enter Password" type="password" />
+                                <span id="spnErrorMsg" style="color: red;"></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div>
+                                <div class="checkbox login-remember">
+                                    <label>
+                                        <input name="turmandcondition" id="turmandcondition" onclick="chtermcond();" value="forever" type="checkbox" />
+                                        Terms and Conditions of Registration
+                                    </label>
+                                    <br />
+                                    <span id="spnErrorMsgTurmCondition" style="color: red;"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="control-group">
+                                <input type="button" class="btn  btn-block btn-lg btn-primary" value="REGISTER" onclick="Register();" />
+                            </div>
+                        </div>
+                        <!--userForm-->
+
+                    </div>
+                    <div class="modal-footer">
+                        <p class="text-center">Already member? <a data-toggle="modal" data-dismiss="modal" href="#ModalLogin">Sign in </a></p>
+                    </div>
+                </div>
+                <!-- /.modal-content -->
+
+            </div>
+            <!-- /.modal-dialog -->
+
+        </div>
+        <!-- /.ModalSignup End -->
+
+
+        <!--login popOver>
+    </div>
+        <!--/.footer-bottom-->
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-70840056-1', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+
+    </footer>
+
+    <!-- Le javascript
+================================================== -->
+
+    <!-- Placed at the end of the document so the pages load faster -->
+    
+
+
+    <script src="/Content/js/bootstrap.min.js"></script>
+    <script src="/Content/js/idangerous.swiper-2.1.min.js"></script>
+    <script>
+
+        //function checkEmail2() {
+        //    var email = document.getElementById('txtEmai');
+        //    var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+        //    if (!filter.test(email.value)) {
+
+        //        toastr.info('Please provide a valid email address', 'Feedback');
+        //        $("#txtEmai").focus();
+        //        return false;
+        //    }
+        //    else {
+        //        Feedback();
+        //        return true;
+
+        //    }
+
+
+        //}
+        function Feedback() {
+            var typeq = $("#feedbacktype option:selected").text();
+            var isValid = true;
+            $(".req").each(function () {
+                if ($.trim($(this).val()) == '') {
+                    isValid = false;
+                    $(this).css({
+                        "border": "1px solid red",
+                        "background": "#FFCECE"
+                    });
+                }
+                else {
+                    $(this).css({
+                        "border": "",
+                        "background": ""
+                    });
+                }
+            });
+            var email = document.getElementById('txtEmai');
+            var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            if (!filter.test(email.value)) {
+
+                toastr.info('Please provide a valid email address', 'Feedback');
+                $("#txtEmai").focus();
+                return false;
+            }
+
+            // alert(typeq);
+            if (typeq == 'Type of feedback') {
+                toastr.info('Please select type of feedback', 'Feedback');
+
+                $('#feedbacktype').css({
+                    "border": "1px solid red",
+                    "background": "#FFCECE"
+                });
+                $("#feedbacktype").focus();
+                return false;
+            }
+            else {
+                $('#feedbacktype').css({
+                    "border": "",
+                    "background": ""
+                });
+            }
+            if (isValid == true) {
+
+                var jsonData = { PartyName: $("#txtPartyName").val(), Email: $("#txtEmai").val(), Contact: $("#txtContact").val(), Suggestion: $("#txtSuggestion").val(), feedbacktype: $("#feedbacktype").val() };
+                $.ajax({
+                    type: "POST",
+                    url: '/Home/Add_Web_Customer_Feedback',
+                    data: JSON.stringify(jsonData),
+                    contentType: 'application/json; charset=utf-8'
+                }).done(function (data) {
+                    $("#ModalSignup").modal('hide')
+                    //alert(data.message);
+                    toastr.success('Your Feedback send Succesfully  .', 'Feedback');
+                }).error(function (jqXHR, textStatus, errorThrown) {
+                    //alert(jqXHR);
+                });
+                $("#txtPartyName").val('');
+                $("#txtEmai").val('');
+                $("#txtContact").val('');
+                $("#txtSuggestion").val('');
+                $("#feedbacktype option:selected").text('Type of feedback');
+            }
+        }
+
+        function Subscribe() {
+
+            var isValid = true;
+            $(".req3").each(function () {
+                if ($.trim($(this).val()) == '') {
+                    isValid = false;
+                    $(this).css({
+                        "border": "1px solid red",
+                        "background": "#FFCECE"
+                    });
+                }
+                else {
+                    $(this).css({
+                        "border": "",
+                        "background": ""
+                    });
+                }
+            });
+            var email = document.getElementById('subscribemail');
+            var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            if (!filter.test(email.value)) {
+
+                toastr.info('Please provide a valid email address', 'Subscribe');
+                $("#txtEmai").focus();
+                return false;
+            }
+
+            if (isValid == true) {
+
+                var jsonData = { email: $("#subscribemail").val() };
+                $.ajax({
+                    type: "POST",
+                    url: '/Home/Subscribe',
+                    data: JSON.stringify(jsonData),
+                    contentType: 'application/json; charset=utf-8'
+                }).done(function (data) {
+                    if (data.message == 0) {
+                        toastr.success('Subscribed Successfully.', 'Subscribe');
+
+                    } else {
+                        toastr.info('Your Email is already Subscribed.', 'Subscribe');
+                    }
+                }).error(function (jqXHR, textStatus, errorThrown) {
+                    //alert(jqXHR);
+                });
+
+                $("#subscribemail").val('');
+
+            }
+        }
+
+
+        var mySwiper = new Swiper('.swiper-container', {
+            pagination: '.box-pagination',
+            keyboardControl: true,
+            paginationClickable: true,
+            slidesPerView: 'auto',
+            autoResize: true,
+            resizeReInit: true,
+        })
+
+        $('.prevControl').on('click', function (e) {
+            e.preventDefault()
+            mySwiper.swipePrev()
+        })
+        $('.nextControl').on('click', function (e) {
+            e.preventDefault()
+            mySwiper.swipeNext()
+        })
+
+        function toastmsg(msg) {
+            $('#popupmsg').empty();
+            $('#PopUpplugin').modal('show');
+            $('#popupmsg').append(msg);
+        }
+        function gotoWishlist() {
+            window.location = '/Product/Wishlist';
+        }
+        function gotoRemindMe() {
+            window.location = '/Product/RemindMe';
+        }
+        function gotocart() {
+            window.location = '/Product/Cart';
+        }
+    </script>
+    
+
+    <script src="/Content/js/jquery.cycle2.min.js"></script>
+    <script src="/Content/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="/Content/js/jquery.parallax-1.1.js"></script>
+    <script type="text/javascript" src="/Content/js/jquery.mousewheel.min.js"></script>
+    <script type="text/javascript" src="/Content/js/jquery.mCustomScrollbar.js"></script>
+    <!-- include checkRadio plugin //Custom check & Radio  -->
+    <script type="text/javascript" src="/Content/js/ion.checkRadio.min.js"></script>
+    <script src="/Content/js/grids.js"></script>
+    <script src="/Content/js/owl.carousel.min.js"></script>
+    <!-- jQuery minimalect // custom select   -->
+    <script src="/Content/js/jquery.minimalect.min.js"></script>
+
+    <script src="/Content/js/bootstrap.touchspin.js"></script>
+    <script src="/Content/js/home.js"></script>
+    <script src="/Content/js/script.js"></script>
+    <script src="/Content/js/smoothproducts.min.js"></script>
+    
+
+
+
+
+
+
+</body></html>
