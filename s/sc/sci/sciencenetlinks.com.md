@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencenetlinks.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206215254id_/http%3A//www.aaas.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencenetlinks.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608124623id_/http%3A//www.aaas.org/privacy.shtml) for the most accurate reproduction.*
 
 # AAAS Privacy Policy | AAAS - The World's Largest General Scientific Society
 
@@ -43,6 +43,8 @@ Through interactions with third-party sites, we may inadvertently receive some i
 If the AAAS ownership were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to this Privacy Policy, including its provision for revisions.
 
 Certain information you post to the Web site may be shared with other users beyond these privacy policies. _All such sharing of information is done at your own risk._ Please keep in mind that if you disclose personal information on any information submitted to a Web site, such as a blog, comments, messages, photos, videos, or other items, this information may become publicly available.
+
+**Remarketing** : AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google. AAAS may also use Google and Adobe analytics data and the DoubleClick cookie to serve ads based on a user's prior visits to our website. Site visitors may opt out of the cookie tracking [here](http://www.google.com/ads/preferences/?hl=en). Google has additional information available about their Remarketing Privacy Guidelines, Policies, and Restrictions.
 
 ## Links
 
