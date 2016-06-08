@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infomarketingblog.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206222740id_/http%3A//www.infomarketingblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infomarketingblog.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608144722id_/http%3A//www.infomarketingblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Infomarketingblog.com is committed to your privacy. This Privacy Policy details 
 
 It is our policy, except as noted below, not to sale, trade, lease, give away or otherwise release your personal information, which includes your name, physical address (business or home), home or business telephone number and your e-mail address. 
 
-We collect your name and email opt-ins for the purpose of sending unconfirmed opt-in based email to you. We do not conduct any marketing for any third parties and we do not sell, lease, trade or otherwise allow any third party to have access to our email lists. As always, you may opt-out of receiving any email from us if you wish by following the opt-out procedure set forth in the emails that you receive from us.
+We collect your name and email opt-ins for the purpose of sending unconfirmed opt-in based email to you. We do not conduct any marketing for any third parties and we do not sell, lease, trade or otherwise allow any third party to have access to our email lists. As always, you may opt-out of receiving any email from us if you wish by following the opt-out procedure set forth in the emails that you receive from us. 
 
 **Exceptions to our Privacy Policy**
 
@@ -34,7 +34,7 @@ Other possible uses for the information that we collect includes internal tracki
 
 **General Information**
 
-****As we have indicated above, it is our policy not to send unsolicited emails or allow third parties to contact you via the email address that you provide to us. We may, from time to time, contact you to discuss business relevant to your membership and, naturally, we will contact you to respond to inquiries that you may send to us. 
+As we have indicated above, it is our policy not to send unsolicited emails or allow third parties to contact you via the email address that you provide to us. We may, from time to time, contact you to discuss business relevant to your membership and, naturally, we will contact you to respond to inquiries that you may send to us. 
 
 You can access our Website home page and browse our site without disclosing your personal data. Membership signups require the disclosure of certain personal information, which we do not share except as disclosed herein. 
 
@@ -44,13 +44,13 @@ We do not knowingly collect personal data or information from minors.
 
 We have implemented security policies, rules and technical measure to protect the personal data that we have under our control. These policies, rules and technical measures help to protect your data from unauthorized access, improper use or disclosure, unauthorized modification, and unlawful destruction or accidental loss. However, note that no policy, rule or technical measure can offer 100% protection against unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. 
 
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitor’s and members’ personal data.
+All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitor’s and members’ personal data. 
 
 **Further Data Collection**
 
 We may collect aggregate (general tracking) information about pages that users visit on our site. We also may collect user specific information about pages that users visit on our site. Any information that you give us when you complete a contact form or inquiry form, survey and so forth is collected by us. 
 
-Should you engage in a business transaction with us, such as purchasing a tool, product or service, we will collect the information necessary to complete that transaction.
+Should you engage in a business transaction with us, such as purchasing a tool, product or service, we will collect the information necessary to complete that transaction. 
 
 You may be required to complete online registration forms that provide us with contact information (such as your name and street address), your email address, and your phone numbers. 
 
@@ -60,4 +60,4 @@ Please contact us if you should have any questions, comments or concerns about t
 
 #### Purchasing Services or Products
 
-Any purchase of a service or product from us requires that you provide us your credit card information. We will maintain such information in as secure a manner as meets industry standards and we shall not share any such information with any third party or entity other than as reasonably necessary to fulfill your credit card based order.
+Any purchase of a service or product from us requires that you provide us your credit card information. We will maintain such information in as secure a manner as meets industry standards and we shall not share any such information with any third party or entity other than as reasonably necessary to fulfill your credit card based order. 
