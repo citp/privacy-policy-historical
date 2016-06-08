@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the kennedy-center.org privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127022156id_/http%3A//www.kennedy-center.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kennedy-center.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608082057id_/http%3A//www.kennedy-center.org/pages/legal/privacy) for the most accurate reproduction.*
 
-# Kennedy Center: Privacy Statement
+# Privacy Statement
+
+## Scope
+
+Beginning Dec. 1, 2014, the Kennedy Center's privacy policy will be changing in order to provide you with better and more personalized service.[You can read the old policy here](https://web.archive.org/content/pdfs/2014Kennedy-Center-Privacy-Statement.pdf). Our Contact Preferences menu has also changed, so[please log in to your account](https://web.archive.org/account/login/)to review and make any updates.
+
+This policy covers how the Kennedy Center treats the personal information that it collects from its patrons in any manner, including via phone, by mail, at the Kennedy Center and through the following Kennedy Center websites:
+
+  * [http://www.kennedy-center.org](http://www.kennedy-center.org/)
+  * [http://www.suzannefarrell.org](http://www.kennedy-center.org/sfb)
+  * [http://www.nationalsymphony.org](http://www.kennedy-center.org/nso/)
+  * [http://www.dc-opera.org](http://www.kennedy-center.org/wno/)
+  * [http://artsedge.kennedy-center.org](http://artsedge.kennedy-center.org/)
+  * [http://vsarts.org](http://www.vsarts.org/)
+
+
 
 This policy may also cover information collected and used by the Kennedy Center via third party social media platforms, such as Facebook or YouTube, either generally or through the Kennedy Center's branded pages. 
 
@@ -30,6 +45,35 @@ The ability of tracking tags to gather and use your information through any ****
 
 First and foremost, the Kennedy Center uses any information you provide to us to provide you with products and services such as online ticket and gift shop purchases, newsletter subscriptions and other specifically requested information and activities. In addition, we may perform (or have third parties perform) analyses of visitors' behavior, and may share data with sponsors, advertisers, and collaborators. 
 
+  * Your personal information may be used by us (or third parties engaged by us) to: (1) customize the advertising and the content that you see, (2) fulfill your requests for products and services, (3) contact you, (4) conduct research, (5) respond to subpoenas, court orders or legal process, and (6) establish or exercise our legal rights or defend against legal claims.
+  * Certain performances at the Kennedy Center are produced or presented by third parties. When you make a purchase to a performance presented or produced by one of these third party organizations, the Kennedy Center may provide them with information regarding your purchase. This information may include, but shall not be limited to, your name, address, telephone number and email address, as well as details of your purchase, which may include, but shall not be limited to, the date you purchased your tickets, any offer you responded to, the locations of your seats, and the dollar amount of your transaction. 
+  * We will on occasion share information gathered from our patrons with selected third party vendors who assist the Kennedy Center with promoting and marketing our programs and services. This might include customer research, management of customer databases, promotional mailings or other targeted promotions. This information may include your name, address, e-mail address, site usage data and purchase information.
+  * In addition the Kennedy Center may provide your name and address or phone number to third parties whose products we believe may be of interest to you (although we do not share any other information about you, the selection criteria may result in the third party being able to identify your relationship with the Kennedy Center in a broad manner, i.e., that you are a subscriber or donor, or may have attended a particular production). You can request at any time that we do not share your name and address or phone numbers with such third parties. The Kennedy Center does not monitor or control the privacy policies of such third parties.
+
+
+
+**2\. Anonymity**
+
+You can browse our sites without logging on, and no personal information about you or your visit will be collected by the Kennedy Center. Some anonymous, statistical information is automatically logged when you access one of our sites, which allows us to make our sites more useful to you and others who use them by, for example, tracking which features of the site are most used by visitors. Information that is collected might include: 
+
+  * The date of the visit
+  * The time of arrival and length of visit
+  * The browser used (e.g., Firefox, Internet Explorer, Safari, etc.)
+  * The type of device used, and the Operating System on that device
+  * A list of files downloaded or pages viewed
+  * The Internet Protocol (IP) address of the machine through which the site was accessed
+  * Any errors encountered
+
+
+
+If you wish to browse our site anonymously you will need to log out of your online account. However, your activity will still be tracked by third-party services incorporated into the site. 
+
+You may purchase tickets anonymously if you choose to pay by cash in person at our Box Office.
+
+**3\. Links**
+
+Our websites may include links to other websites. We do not control the privacy policies or terms of service of the destination sites. Once you leave our servers or display embedded content within our websites, applications or email messages), use of any information you provide is governed by the privacy policy of the operator of the third party site or service. That policy may differ from ours. The Kennedy Center is not responsible for the privacy practices or the content of websites other than the Kennedy Center websites. 
+
 **4\. Security and Disclaimer**
 
 Although we use security that we believe to be appropriate to protect your personal information, we do not guarantee that our security precautions will protect against, and we expressly disclaim any liability for, any loss, misuse, or alteration of your personal information.
@@ -44,7 +88,11 @@ The Kennedy Center may update this policy at any time. We will notify you about 
 
 **7\. Account Information and Preferences**
 
-Except for email messages related to a direct action by you, such as a password reset request or order confirmation, any email messages sent to you by the Kennedy Center offer you the option to request not to receive future email messages. You may choose to only receive certain types of email messages, or none at all. You may request to be removed from our mailing or phone list at any time by accessing the Contact Preferences on your account [here](https://www.kennedy-center.org/secure/epatron/forms/gateway.cfm?action=contact_pref): ([https://www.kennedy-center.org//secure/epatron/forms/gateway.cfm?action=contact_pref](https://www.kennedy-center.org/secure/epatron/forms/gateway.cfm?action=contact_pref)) or by contacting us at the phone number or mailing address listed at the end of this document. 
+Except for email messages related to a direct action by you, such as a password reset request or order confirmation, any email messages sent to you by the Kennedy Center offer you the option to request not to receive future email messages. You may choose to only receive certain types of email messages, or none at all. You may request to be removed from our mailing or phone list at any time by accessing the Contact Preferences on your account [here](https://web.archive.org/account/contact): ([https://www.kennedy-center.org/account/contact](https://web.archive.org/account/contact)) or by contacting us at the phone number or mailing address listed at the end of this document. 
+
+  * In addition to changing Contact Preferences, you may alter or change certain information associated with your account, such as your name, physical address, phone numbers, email address, and your interests by logging into our website or contacting us at the address or phone number below. If you wish to inactivate your Kennedy Center account, please contact us at the address listed below. 
+
+
 
 **8\. Questions and Suggestions**
 
