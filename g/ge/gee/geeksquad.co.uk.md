@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeksquad.co.uk privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916053306id_/http%3A//www.geeksquad.co.uk/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksquad.co.uk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608052253id_/http%3A//www.geeksquad.co.uk/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Geek Squad
 
@@ -107,7 +107,7 @@ We may also provide information about our dealings with you to credit reference 
 
 ## Access to information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. Details of how to request a copy of your information can be found at[ How can I see a copy of the information you hold about me?](http://selfhelp.carphonewarehouse.com/SelfHelp/request.do?view\(\)=c%7b4fb25d20-d5c0-11de-e56d-000000000000%7d)
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. Details of how to request a copy of your information can be found at [How can I see a copy of the information you hold about me?](http://selfhelp.carphonewarehouse.com/SelfHelp/request.do?view\(\)=c%7B5c17dcd0-4306-11e4-4e28-f20203001e3d%7D)
 
 ## Monitoring
 
