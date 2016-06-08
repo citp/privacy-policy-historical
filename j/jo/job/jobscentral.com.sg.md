@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscentral.com.sg privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219132717id_/http%3A//jobscentral.com.sg/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscentral.com.sg privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608182057id_/http%3A//jobscentral.com.sg/privacy.php) for the most accurate reproduction.*
 
 # Protect Your Privacy and Safety
 
@@ -261,4 +261,4 @@ You can direct questions regarding this Privacy Policy to CareerBuilder by email
 _(Return to Top)_
 
 **This career portal is owned by CareerBuilder (Singapore) Pte Ltd**   
-3A International Business Park, #08-08, ICON@IBP, Tower A, Singapore 609935 | Tel: 6778-5288 | Fax: 6578-7400 
+78 Shenton Way, #09-01, Singapore 079120 | Tel: 6778-5288 | Fax: 6578-7400 
