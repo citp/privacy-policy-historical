@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everestonline.edu privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206230553id_/http%3A//www.everestonline.edu/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everestonline.edu privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608150258id_/http%3A//www.everestonline.edu/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -139,9 +139,8 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
 If you have any questions or suggestions regarding our Privacy Policy, please contact us at:
 
-Privacy  
-Everest Colleges, Institutes, & Universities  
-5 Hutton Centre Drive, Suite 500  
-Santa Ana, CA 92707  
-Phone: (866) 786-2765  
+Zenith Education Group, Inc.  
+Attn: Corporate Compliance  
+1 Imation Place, Bldg 2  
+Oakdale, MN 55128  
 [privacy@zenith.org](mailto:privacy@zenith.org)
