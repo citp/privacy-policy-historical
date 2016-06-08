@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmeds.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206211517id_/http%3A//www.netmeds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmeds.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608085759id_/http%3A//www.netmeds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Netmeds.com
 
@@ -55,7 +55,7 @@
 
 ##### 5\. With Whom We Share Your Information
 
-5.1 We do not sell, rent or exchange your any personally identifiable information that you provide to us through this Website with any third party for commercial reasons. However, We engage trusted online payment service partners namely PayU and BillDesk to perform payment processing and authorisation services (for net banking or credit/debit card validation). Through your use of the Netmeds.com Services, you consent to our collection and transfer of your information to our payment service partner websites PayU or BillDesk.
+5.1 We do not sell, rent or exchange your any personally identifiable information that you provide to us through this Website with any third party for commercial reasons. However, We engage trusted online payment service partners to perform payment processing and authorisation services (for net banking or credit/debit card validation). Through your use of the Netmeds.com Services, you consent to our collection and transfer of your information to our payment service partner websites.
 
 5.2 As with any business, it is possible that as our business develops, we might sell or buy other businesses or assets. In such transactions, User/Customer information is typically one of the transferred business assets. Accordingly, in the event that Netmeds.com, or substantially all of our assets, is acquired by a third party, such information may be one of the assets that is transferred or acquired by a third party. Under such circumstances, Netmeds.com would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy. You acknowledge that such transfers may occur, and that any acquirer of Netmeds.com may continue to process your personal information as set forth in this Privacy Policy. 
 
