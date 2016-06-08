@@ -1,474 +1,911 @@
-<!--The following is the downloaded HTML source of the loyalty360.org privacy policy that was archived on 2015-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151224164154id_/http%3A//loyalty360.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loyalty360.org privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608080408id_/http%3A//www.loyalty360.org/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><head>
-	<meta name="viewport" content="width=960">
-	<title>Website Privacy Statement | Loyalty360.org</title>
-	<meta name="keywords" content="">
-	<meta name="description" content="">
-	<meta property="og:title" content="Website Privacy Statement | Loyalty360.org">
-	<meta property="og:description" content="">
-	<link rel="canonical" href="http://loyalty360.org/privacy">
-	<link rel="shortcut icon" href="http://loyalty360.org/assets/images/favicon.ico">
-	<link rel="apple-touch-icon" href="http://loyalty360.org/assets/images/apple-touch-icon.png">
-	<link href="http://loyalty360.org/assets/css/core.css" type="text/css" rel="stylesheet" media="screen">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head id="head"><title>
+	Loyalty360 - The Association for Customer Loyalty
+</title><meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+<meta http-equiv="pragma" content="no-cache"> 
+<meta http-equiv="content-style-type" content="text/css"> 
+<meta http-equiv="content-script-type" content="text/javascript"> 
+<link href="/CMSPages/GetResource.ashx?stylesheetname=Loyalty360" type="text/css" rel="stylesheet"> 
+ 
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"> 
+<link href="/favicon.ico" type="image/x-icon" rel="icon"> 
+
+<script type="text/javascript">
+	//<![CDATA[
+$(function(){
+       $("#div_Login").css("display", "none");
+       $('.signin').click(function () {
+            /**/
+            //reset popup
+            //ResetLoginPopUp();
+            $("#div_Login").css("display", "block");
+            $('#lg_username').focus();
+            return false;
+        });
+
+        $('#btnlgSignUp').click(function () {                                  
+                  location.href = "/join";
+        });
+
+        $('#btnlgLogin').click(function (){    
+              var username = $('#lg_username').val();
+              var password = $('#lg_password').val();               
+              //alert(username + ' : '+ password);                             
+              var isValid = ValidateLogin(username, password);
+              if(isValid){
+                  //$(this.form).submit();
+                  var c_url = location.href.replace('#','');                  
+                  //alert(c_url);
+                  location.href = c_url;      
+              }                
+         });          
+
+         $("#div_Login .frmClose > img").click(function () {
+                $("#div_Login").css("display", "none");
+                return false;
+         });       
+
+
+        $("#div_Login .forgotPassword").click(function () {
+            $(".lg_in").hide();
+            $(".lg_f_pwd").show();
+            $('#lg_username, #lg_password').val('');
+            $('.errorSection').hide();
+        });
+        $("#div_Login .cancelLink").click(function () {
+            $(".lg_in").show();
+            $(".lg_f_pwd").hide();
+            $('#lg_username').val('');
+            $('.errorSection').hide();
+        });
+
+        $('#btnlgContinue').click(function () {
+            var username = $('#lg_username').val();
+            var isValid = false;
+            if (username == '') {
+                displayFpError('Please enter a user name or email');
+            }
+            else {
+                isValid = IsUserExist_ForgotPassword(username);
+                //isValid = true;                     
+                if (isValid) {
+                    var succ_msg = "<span style='color:#31af64;'>The password has been sent to specified address " + username + "</span>";
+                    displayFpError(succ_msg);
+                    $('#username').val('');
+                }
+                else {
+                    //displayFpError('No user found!');
+                    displayFpError("Sorry, we didn’t find an account matching that information. Make sure you entered it correctly or <a href='/join'>create an account.</a>");
+                }
+            }
+        });
+
+        $("#lg_username, #lg_password").on("keyup", function (event) {
+            if (event.keyCode == 13) {
+                $("#btnlgLogin").get(0).click();
+            }
+        });
+        
+        $(".signoutLink").on('click',function(){      
+        //alert($(this).text());        
+            SignOut();  
+            return false;
+        });
+});
+
+function ResetLoginPopUp() {
+    $('#lg_username, #lg_password').val('');
+    $(".lg_in").show();
+    $(".lg_f_pwd, .errorSection").hide();
+
+}
+
+function SignOut() {  
+  $.ajax({
+    type: 'POST',
+    async: false,
+    url: '/Loyalty360/WebServices/Loyalty360WebService.asmx/SignOut',
+    contentType: 'application/json; charset=utf-8',
+   // data: '{}',
+    dataType: 'json',
+    success: function (msg) {
+      var val = msg.d;
+      if(val == 0){
+          location.href = "/Home";
+      }  
+    },
+    error: function (msg) { alert(msg.error) }
+  });  
+}
+
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+$(document).ready(function () {  
+  $(".searchFrom").click(function(){
+      $(".searchFrom").addClass("searchFromClick");
+  });
+
+  /*$("div.searchBox > input[type='text']").onChange(function(){
+    var txtVal = $("div.searchBox > input[type='text']").val();
+    if(txtVal = '' || txtVal = 'SEARCH'){
+        alert('a');
+      }
+      else
+        alert(txtVal);
+  });*/
+});
+
+function doRedirect()
+{
+  var SearchText =  $("#txtSearch").val();
+
+ if(SearchText == 'SEARCH')
+    return false;
+  
+  window.location.href = "/Results?Key=" + SearchText;
+  return false;
+}
+
+function RemoveCartCookie() {  
+  $.ajax({
+    type: 'POST',
+    async: false,
+    url: '/Loyalty360/WebServices/Loyalty360WebService.asmx/RemoveCartCookie',
+    contentType: 'application/json; charset=utf-8',
+   // data: '{}',
+    dataType: 'json',
+    success: function (msg) {
+      var val = msg.d;    
+    },
+    error: function (msg) { alert(msg.error) }
+  });  
+}
+//]]>
+</script><link href="/CMSPages/GetResource.ashx?_webparts=677" type="text/css" rel="stylesheet"> 
+</head>
+<body class="LTR ENUS ContentBody">
+    <form method="post" action="/privacy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="form">
+<div class="aspNetHidden">
+<input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form'];
+if (!theForm) {
+    theForm = document.form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZBhRPiLLOSu1RI8qZfkfXRNxfY1N_iMr1G8ZU91jaUVSR5wjzlOnBKkZwQAw9qQuAg2&amp;t=635792775671809273" type="text/javascript"></script>
+
+<input type="hidden" name="lng" id="lng" value="en-US">
+<script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fWebServiceCall.js" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=x6wALODbMJK5e0eRC_p1LRGg3odi7ZyphlareaI8ppK-JjtRcyDWN-F43cNe0g_uwUTDejsn98xDWkv3aXB-9EF5c_tENlRQaxJF75V-6aNDZWAynazH7Rzr3o2hfWRE0&amp;t=7c776dc1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=P5lTttoqSeZXoYRLQMIScDRWfwE8_RiksX_oIyOzHhYhUVUVHdYGEYOfq0Xj0Gv0iuAWi8iG2dDAcNdIS9zsQzFWxktfFZCevJwY70WInOefe_RnFp4wR5f_6k_USnPk0&amp;t=7c776dc1" type="text/javascript"></script>
+<script src="/CMSPages/PortalTemplate.aspx?_TSM_HiddenField_=manScript_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.60919.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3aee051b62-9cd6-49a5-87bb-93c07bc43d63%3a475a4ef5%3aeffe2a26%3a7e63a579" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "isRTL": "false",
+  "applicationUrl": "/",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDialog": false
+};
+
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+null;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185">
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$StaticHTML_Footer$sys_pnlUpdate','','tctxM',''], ['p$lt$ctl02$StaticHTML_Footer',''], [], 90, '');
+//]]>
+</script>
+
+    <div id="ctxM">
+
+</div>
+    <header id="headerSection">
+  <!--Mobile Menu Section Start-->
+  <div class="topHeader">
+    <div class="mobnav-trigger">
+      <button>&nbsp;</button>
+      <ul class="mobile-navigation" style="display: block;">
+        <li><a href="/About-us">About us</a> <span class="expand"><i class="fa fa-plus parent-plus"></i></span>
+          <div class="submenu-mobile" style="display: none;">
+            <ol>
+              <li>
+                <a href="/Companies">Our Members &amp; Sponsors</a>
+              </li>
+              <li>
+                <a href="/About-us/Loyalty360-Staff">Loyalty360 Staff</a>
+              </li>
+              <li>
+                <a href="/About-us/Board-of-Advisors">Board of Advisors</a>
+              </li>
+              <li>
+                <a href="/About-us/Brand-Members">Brand Members</a>
+              </li>
+              
+              <li>
+                <a href="/About-us/Opportunities">Opportunities</a>
+                <span class="expand"><i class="fa fa-plus parent-plus"></i></span>
+                <div class="submenuNew-mobile" style="display: none;">
+                  <ol>
+                    <li>
+                      <a href="/About-us/Opportunities/Media-Kit">Media Kit</a>
+                    </li>
+                    <li>
+                      <a href="/About-us/Opportunities/Advertising">Advertising</a>
+                    </li>
+                    <li>
+                      <a href="/About-us/Opportunities/Media-Partnerships">Media Partnerships</a>
+                    </li>
+                    <li>
+                      <a href="/About-us/Opportunities/Careers">Careers</a>
+                    </li>
+                  </ol>
+                </div>
+              </li>
+            </ol>
+          </div>
+        </li>
+        <li><a href="/Resources">Resources</a> <span class="expand"><i class="fa fa-plus parent-plus"></i></span>
+          <div class="submenu-mobile" style="display: none;">
+            <ol>
+              <li>
+                <a href="/Resources/Find-a-Partner">Find a Partner</a>
+              </li>
+              <li>
+                <a href="/Resources/RFI-RFP-s">RFI/RFP's</a>
+              </li>
+              <li>
+                <a href="/Resources/Loyalty360-Verified">Loyalty360 Verified</a>
+              </li>
+              <li>
+                <a href="/Resources/Job-Board">Job Board</a>
+              </li>
+              <li>
+                <a href="/Resources/Resume-Bank">Resume Bank</a>
+              </li>
+              <li>
+                <a href="/Resources/Featured-Technology">Featured Technology</a>
+              </li>
+            </ol>
+          </div>
+        </li>
+        <li><a href="/Content-Gallery">Content Gallery</a> <span class="expand"><i class="fa fa-plus parent-plus"></i></span>
+          <div class="submenu-mobile" style="display: none;">
+            <ol>
+              <li>
+                <a href="/Content-Gallery/Daily-News">Daily News</a>
+              </li>
+              <li>
+                <a href="/Content-Gallery/Press-Releases">Press Releases</a>
+              </li>
+              <li>
+                <a href="/Content-Gallery/Research-and-Reports">Research and Reports</a>
+              </li>
+              
+              <li>
+                <a href="/Content-Gallery/Loyalty360-Research">Loyalty360 Research</a>
+                <span class="expand"><i class="fa fa-plus parent-plus"></i></span>
+                <div class="submenuNew-mobile" style="display: none;">
+                  <ol>
+                    <li>
+                      <a href="/Content-Gallery/Loyalty360-Research/Landscapes">Landscapes</a>
+                    </li>
+                    <li>
+                      <a href="/Content-Gallery/Loyalty360-Research/Customer-Experience-Landscape">Customer-Experience-Landscape</a>
+                    </li>
+                    <li>
+                      <a href="/Content-Gallery/Loyalty360-Research/Brand-Bites">Brand Bites</a>
+                    </li>
+                    <li>
+                      <a href="/Content-Gallery/Loyalty360-Research/Industry-Briefs">Industry Briefs</a>
+                    </li>
+                  </ol>
+                </div>
+              </li>
+              <li>
+                <a href="/Content-Gallery/Infographics">Infographics</a>
+              </li>
+              <li>
+                <a href="/Content-Gallery/Multimedia">Multimedia</a>
+              </li>
+              <li>
+                <a href="/Content-Gallery/Articles-And-Blogs">Articles and Blogs</a>
+              </li>
+            </ol>
+          </div>
+        </li>
+        
+        
+        
+        <li><a href="/Loyalty360-Events">Loyalty360 Events</a> <span class="expand"><i class="fa fa-plus parent-plus"></i></span>
+          <div class="submenu-mobile" style="display: none;">
+            <ol>
+              <li>
+                <a href="/Loyalty360-Events/Loyalty360-Awards">Loyalty360 Awards</a>
+              </li>
+              <li>
+                <a href="/Loyalty360-Events/Loyalty360-CX-Awards">Loyalty360 CX Awards</a>
+              </li>
+              <li>
+                <a href="/Loyalty360-Events/Loyalty-Expo">Loyalty Expo</a>
+              </li>
+              <li>
+                <a href="/Loyalty360-Events/Engagement-Experience-Expo">Engagement &amp; Experience Expo</a>
+              </li>
+              <li>
+                <a href="/Loyalty360-Events/Industry-Events">Industry Events</a>
+              </li>
+              <li>
+                <a href="/Loyalty360-Events/Speaking-Engagements">Speaking Engagements</a>
+              </li>
+              <li>
+                <a href="/Loyalty360-Events/Loyalty360-Local-Events">Loyalty360 Local Events</a>
+              </li>
+            </ol>
+          </div>
+        </li>
+        <li>
+          <a href="/Webinars">Webinars</a>
+        </li>
+        <li><a href="/Brand-Forum/Brand-Corner">Brand Forum</a> <span class="expand"><i class="fa fa-plus parent-plus"></i></span>
+          <div class="submenu-mobile" style="display: none;">
+            <ol>
+              <li>
+                <a href="/Brand-Forum/Brand-Corner">Brand Corner</a>
+              </li>
+              <li>
+                <a href="/Brand-Forum/Brand-Panel">Brand Panel</a>
+              </li>
+            </ol>
+          </div>
+        </li>
+        <li>
+          <a href="/Loyalty-Today">Loyalty Today</a>
+        </li>
+        <li>
+          <a href="/loyalty-management">Loyalty Management</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!--Mobile Menu End-->
+  <div class="wrapperContainer">
+    <div class="loyalty360-Logo"><a href="/"><img src="/Loyalty360/media/images/loyalty360-logo.png"></a></div><div class="headerRight">
+  <div class="userLink">
+    <ul>              
+      <li><a class="signin" href="#">Login or Join</a> </li>
+      <!--<li>
+ <a href="/join">Join</a>
+</li>-->
+      <li><a href="/Press-Center">Press Center</a></li>
+      <li><a href="/Advertise">Advertise</a></li>
+      <li><a href="/feeds">Subscribe</a></li>
+    </ul>
+  </div>
+  <div class="social">
+    <ul>
+      <li><a href="http://www.facebook.com/pages/Loyalty-360/42226222009" target="_blank"><i class="fa fa-facebook">&nbsp;</i></a></li>
+      <li><a href="http://twitter.com/Loyalty360" target="_blank"><i class="fa fa-twitter">&nbsp;</i></a></li>
+      <li><a href="http://www.linkedin.com/groups?gid=1126557" target="_blank"><i class="fa fa-linkedin">&nbsp;</i></a></li>
+      <li><a href="/Feeds" target="_blank"><i class="fa fa-rss">&nbsp;</i></a></li>
+    </ul>
+  </div><div class="searchFrom">
+    <div class="inputField"><div id="p_lt_ctl00_SmartSearchBox_pnlSearch" class="searchBox" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_ctl00_SmartSearchBox_btnImageButton')">
 	
+    <label for="p_lt_ctl00_SmartSearchBox_txtWord" id="p_lt_ctl00_SmartSearchBox_lblSearch" style="display:none;">Search for:</label>
+    <input type="hidden" name="p$lt$ctl00$SmartSearchBox$txtWord_exWatermark_ClientState" id="p_lt_ctl00_SmartSearchBox_txtWord_exWatermark_ClientState"><input name="p$lt$ctl00$SmartSearchBox$txtWord" type="text" maxlength="1000" id="p_lt_ctl00_SmartSearchBox_txtWord" class="form-control">
+    
+    <input type="image" name="p$lt$ctl00$SmartSearchBox$btnImageButton" id="p_lt_ctl00_SmartSearchBox_btnImageButton" src="/Loyalty360/media/images/navSearchIcon.png" alt="Search">
+    <div id="p_lt_ctl00_SmartSearchBox_pnlPredictiveResultsHolder" class="predictiveSearchHolder">
+
+	</div>
+
+</div>
+</div>
+  </div>
+  
+</div>
+</div>
+</header>        <div id="navigation">
+            <nav>
+                
+	<ul id="menuElem">
+		<li>
+			<a href="/about-us">About us</a>
+			<ul>
+				<li>
+					<a href="/Companies">Our Members &amp; Sponsors</a>
+				</li>
+				<li>
+					<a href="/about-us/loyalty360-staff">Loyalty360 Staff</a>
+				</li>
+				<li>
+					<a href="/about-us/board-of-advisors">Board of Advisors</a>
+				</li>
+				<li>
+					<a href="/about-us/brand-members">Brand Members</a>
+				</li>
+				<li class="menuSubElem">
+					<a href="/about-us/opportunities">Opportunities</a>
+					<ul>
+						<li>
+							<a href="/about-us/opportunities/media-kit">Media Kit</a>
+						</li>
+						<li>
+							<a href="/about-us/opportunities/advertising">Advertising</a>
+						</li>
+						<li>
+							<a href="/about-us/opportunities/media-partnerships">Media Partnerships</a>
+						</li>
+						<li>
+							<a href="/about-us/opportunities/careers">Careers</a>
+						</li>
+
+					</ul>
+				</li>
+
+			</ul>
+		</li>
+		<li>
+			<a href="/resources">Resources</a>
+			<ul>
+				<li>
+					<a href="/resources/find-a-partner">Find a Partner</a>
+				</li>
+				<li>
+					<a href="/resources/rfi-rfp-s">RFI/RFP's</a>
+				</li>
+				<li>
+					<a href="/resources/analyst-reports">Analyst Reports</a>
+				</li>
+				<li>
+					<a href="/resources/job-board">Job Board</a>
+				</li>
+				<li>
+					<a href="/resources/resume-bank">Resume Bank</a>
+				</li>
+				<li>
+					<a href="/resources/featured-technology">Featured Technology</a>
+				</li>
+
+			</ul>
+		</li>
+		<li>
+			<a href="/content-gallery">Content Gallery</a>
+			<ul>
+				<li>
+					<a href="/content-gallery/daily-news">Daily News</a>
+				</li>
+				<li>
+					<a href="/content-gallery/press-releases">Press Releases</a>
+				</li>
+				<li>
+					<a href="/content-gallery/research-and-reports">Research and Reports</a>
+				</li>
+				<li class="menuSubElem">
+					<a href="/content-gallery/loyalty360-research">Loyalty360 Research</a>
+					<ul>
+						<li>
+							<a href="/content-gallery/loyalty360-research/loyalty-landscape">Loyalty Landscape</a>
+						</li>
+						<li>
+							<a href="/content-gallery/loyalty360-research/customer-experience-landscape">Customer Experience Landscape</a>
+						</li>
+						<li>
+							<a href="/content-gallery/loyalty360-research/brand-bites">Brand Bites</a>
+						</li>
+						<li>
+							<a href="/content-gallery/loyalty360-research/industry-briefs">Industry Briefs</a>
+						</li>
+
+					</ul>
+				</li>
+				<li>
+					<a href="/content-gallery/infographics">Infographics</a>
+				</li>
+				<li>
+					<a href="/content-gallery/multimedia">Multimedia</a>
+				</li>
+				<li>
+					<a href="/content-gallery/articles-and-blogs">Articles and Blogs</a>
+				</li>
+				<li>
+					<a href="/content-gallery/featured-story">Featured Story</a>
+				</li>
+				<li>
+					<a href="/content-gallery/conference-presentations">Conference Presentations</a>
+				</li>
+
+			</ul>
+		</li>
+		<li>
+			<a href="/loyalty360-events">Loyalty360 Events</a>
+			<ul>
+				<li>
+					<a href="/loyalty360-events/loyalty360-awards">Loyalty360 Awards</a>
+				</li>
+				<li>
+					<a href="/loyalty360-events/loyalty360-cx-awards">Loyalty360 CX Awards</a>
+				</li>
+				<li>
+					<a href="/loyalty360-events/loyalty-expo">Loyalty Expo</a>
+				</li>
+				<li>
+					<a href="/loyalty360-events/engagement-experience-expo">Engagement &amp; Experience Expo</a>
+				</li>
+				<li>
+					<a href="/loyalty360-events/industry-events">Industry Events</a>
+				</li>
+				<li>
+					<a href="/loyalty360-events/speaking-engagements">Speaking Engagements</a>
+				</li>
+				<li>
+					<a href="/loyalty360-events/loyalty360-local-events">Loyalty360 Local Events</a>
+				</li>
+
+			</ul>
+		</li>
+		<li>
+			<a href="/Webinars/Upcoming-Webinars">Webinars</a>
+		</li>
+		<li>
+			<a href="/brand-forum/brand-corner">Brand Forum</a>
+			<ul>
+				<li>
+					<a href="/brand-forum/brand-corner">Brand Corner</a>
+				</li>
+				<li>
+					<a href="/brand-forum/brand-panel">Brand Panel</a>
+				</li>
+
+			</ul>
+		</li>
+		<li>
+			<a href="/loyalty-today">Loyalty Today</a>
+		</li>
+		<li>
+			<a href="/loyalty-management">Loyalty Management</a>
+		</li>
+
+	</ul>
+
+
+ </nav>
+</div><div class="whitepaperdownload" display="none" id="div_Login">
+<div class="frmClose"><img alt="close" src="/Loyalty360/media/images/slideout-close.gif" title="Close"></div>
+
+<div class="newLogin-section">
+<div class="loginLogo"><a href="javascript:void(0);"><img src="/loyalty360/media/images/Loyalty360Logo2015.png"></a></div>
+
+<div class="errorSection" style="display:none;">Enter your username or email address and password.</div>
+
+<h2 class="lg_f_pwd" style="display:none">Forgot Password</h2>
+
+<p class="lg_f_pwd" style="display:none">Please enter your username or the email address associated with the account so we can help you reset your password.</p>
+
+<div class="newLogin-sectionList">
+<ul>
+	<li><input id="lg_username" placeholder="Username or Email Address" type="text"></li>
+	<li class="lg_in"><input id="lg_password" placeholder="Password (case sensitive)" type="password"></li>
+	<li class="lg_in"><input id="btnlgLogin" type="button" value="Log In"></li>
+	<li class="lg_f_pwd" style="display:none"><input id="btnlgContinue" type="button" value="Continue"></li>
+	<li class="lg_in">Forgot <a class="forgotPassword" href="javascript:void(0);">password?</a></li>
+	<li class="lg_f_pwd" style="display:none"><a class="cancelLink" href="javascript:void(0);">Cancel</a></li>
+	<li class="lg_in"><input class="signupBtn" id="btnlgSignUp" type="button" value="Sign Up"></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+<div class="link-section">
+  <div class="mainContainer">
+    <div class="link-sectionNav">
+	</div>
+    <div class="breadcrumbs-section">
+      <a href="javascript:void(0):"><i class="fa fa-home"></i></a>&nbsp;/&nbsp;<span class="CMSBreadCrumbsCurrentItem">Privacy</span>
+
+    </div>
+  </div>
+</div>
+<div class="mainContainer">
+  <div class="content-con">
+    <!--START-->
+    <div class="loyaltyManagement-con">
+      <div class="loyaltyManagement-left">
+        <div class="pageHead">Website Privacy Statement</div>
+
+<p>This is a website of the Loyalty 360 as it applies to business/ visitors.</p>
+
+<p>Consumer information, including how to register for Loyalty 360 Visitor/Member Services, can be found at ,<span style="text-decoration: underline;">www.loyalty360.org</span>. If you still have questions, or would like to contact us, please send an email to: <a href="mailto:info@loyalty360.org">info@loyalty360.org</a></p>
+
+<p>Our headquarters address is:</p>
+
+<p>Loyalty 360<br>
+4120 Dumont Street<br>
+Cincinnati, OH 45226</p>
+
+<p>You can reach us by email at <a href="mailto:info@loyalty360.org">info@loyalty360.org</a> or call us at <span class="skype_c2c_print_container notranslate">513-545-5612</span><span class="skype_c2c_container notranslate" data-isfreecall="true" data-ismobile="false" data-isrtl="false" data-numbertocall="+15135455612" data-numbertype="campaign-free" dir="ltr" id="skype_c2c_container" onclick="SkypeClick2Call.MenuInjectionHandler.makeCall(this, event)" onmouseout="SkypeClick2Call.MenuInjectionHandler.hideMenu(this, event)" onmouseover="SkypeClick2Call.MenuInjectionHandler.showMenu(this, event)" tabindex="-1"><span class="skype_c2c_highlighting_inactive_common" dir="ltr" skypeaction="skype_dropdown"><span class="skype_c2c_textarea_span" id="free_num_ui"><img class="skype_c2c_logo_img" height="0" src="resource://skype_ff_extension-at-jetpack/skype_ff_extension/data/call_skype_logo.png" width="0"><span class="skype_c2c_text_span">513-545-5612</span><span class="skype_c2c_free_text_span"> FREE</span></span></span></span>.</p>
+
+<p>This policy is valid for one month from the time you visit our site. If our information practices change in the future, we will use only data collected from the time of the policy change forward for these new purposes, or we will contact you before we use your data for these new purposes and offer you the ability to opt out of these new uses.</p>
+
+<p><strong>For website visitors who make purchases or otherwise sign on to our site</strong></p>
+
+<p>When you sign on to our site or make a purchase, we collect your name, company name, contact information, profile and preference information.</p>
+
+<p>When you make a purchase we also collect your credit card information, as well as information about your current purchase and we keep information on your purchase history.</p>
+
+<p>This information is used by us and/or our agents: to support your interaction with our site, to deliver your purchases and to contact you again about other services and products we offer. We may also share your name and geographic address with other reputable companies who have offers we think may interest you. These marketers may in turn contact you.</p>
+
+<p><strong>Addresses and phone numbers</strong></p>
+
+<p>If you give us your postal address, we will send you periodic mailings with information on new Loyalty 360 products, services or information on upcoming Loyalty 360&nbsp; events. You may also receive business mailings from other reputable companies.</p>
+
+<p>If you supply us with your telephone number, you may receive telephone contact from us with information regarding orders you have placed, new products and services or information on upcoming events.</p>
+
+<p>If you do not wish to receive mailings or phone calls from the Loyalty 360 in the future or if you do not wish us to provide other reputable marketers with your mailing information, please let us know by sending an email to <a href="mailto:info@loyalty360.org">info@loyalty360.org</a></p>
+
+<p><strong>Email addresses</strong></p>
+
+<p>We collect the email addresses of those who communicate with us by email. The email addresses are used to contact existing or potential business customers. We will not share business email addresses you give to us with other third parties for their purposes. &nbsp;We may send marketing offers to you on behalf of reputable third parties.</p>
+
+<p>If you do not want to receive future email from Loyalty 360, please let us know by sending an email to <a href="mailto:info@loyalty360.org">info@loyalty360.org</a></p>
+
+<p><strong>Cookies</strong></p>
+
+<p><strong><em>All visitors</em></strong> we place cookies on all website visitor hard drives to collect aggregate information on the number of visitors to our site and the number of pages viewed.</p>
+
+<p><strong><em>Registered visitors</em></strong> we place unique identifier cookies on the hard drives of those who sign on which are used to maintain the visitor "sign on" status for the duration of the visit, for one-time customizing/tailoring of your visit and for long-term storage of user preferences. We also use cookies to track the pages visited by a visitor so that we can deliver Loyalty 360 Web content based on the visitor's profile (as provided by the visitor) and the visitor's past activity on the Loyalty 360 website.</p>
+
+<p><strong><em>General information</em></strong> cookie information is used only by Loyalty 360 and our agents and is not provided to any other organization. It is used in aggregate for traffic analysis and to provide relevant information to our visitors. It is also used for website and system administration, including research and development, user analysis and business decision-making.</p>
+
+<p><strong>For website visitors who do not make purchases or otherwise identify themselves</strong></p>
+
+<p>If you do not sign on to our website, our Web server does not have access to personally identifiable information about you. It does not know your email address unless you volunteer it. At the same time, much of the Loyalty 360’s communication comes in the form of email, so by not sharing your email address you will have limited access to the Loyalty 360’s newsletters and other valuable information.</p>
+
+<p><strong>Clickstream Data</strong></p>
+
+<p>We collect click-stream data and HTTP protocol elements through access logs. This information is not personally identifiable and is used for website and system administration including: research and development, user analysis and business decision-making.</p>
+
+<p><strong>Access</strong></p>
+
+<p>Upon your request, we will provide you with a description of the information that we maintain about you. We will accommodate all reasonable requests. Please contact us by email at <a href="mailto:info@loyalty360.org">info@loyalty360.org</a> or in writing at the above address.</p>
+
+<p><strong>Security</strong></p>
+
+<p>We use industry-standard encryption technologies when transferring and receiving payment data. We have security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from or about you.</p>
+
+<p><strong>Accountability</strong></p>
+
+<p>If you have a question about Loyalty 360’s privacy policy, please contact us at 4120 Dumont Street Cincinnati, OH 45226 or <span style="text-decoration: underline;">ethics@</span><span style="text-decoration: underline;">loyalty360.</span><span style="text-decoration: underline;">org</span>; or <span class="skype_c2c_print_container notranslate">877-433-0819</span><span class="skype_c2c_container notranslate" data-isfreecall="true" data-ismobile="false" data-isrtl="false" data-numbertocall="+18774330819" data-numbertype="tollfree" dir="ltr" id="skype_c2c_container" onclick="SkypeClick2Call.MenuInjectionHandler.makeCall(this, event)" onmouseout="SkypeClick2Call.MenuInjectionHandler.hideMenu(this, event)" onmouseover="SkypeClick2Call.MenuInjectionHandler.showMenu(this, event)" tabindex="-1"><span class="skype_c2c_highlighting_inactive_common" dir="ltr" skypeaction="skype_dropdown"><span class="skype_c2c_textarea_span" id="free_num_ui"><img class="skype_c2c_logo_img" height="0" src="resource://skype_ff_extension-at-jetpack/skype_ff_extension/data/call_skype_logo.png" width="0"><span class="skype_c2c_text_span">877-433-0819</span><span class="skype_c2c_free_text_span"> FREE</span></span></span></span> (fax).</p>
+
+<p>&nbsp;</p>
+
+
+
+
+
+      </div>
+      <div class="loyaltyManagement-add">
+        <div class="right-addCon">
+  <div class="sidebar-block ad ad-250-250" id="div-gpt-ad-1360706453493-0">
+    <script type="text/javascript">
+      googletag.cmd.push(function() {googletag.display('div-gpt-ad-1360706453493-0');});</script>
+  </div>
+</div>
+<div class="ee-contentHead-New">
+  Join <strong>Loyalty</strong><span class="greenColorText">360</span>
+</div>
+<div class="joinMember-list">
+  <ul>
+    <li class="joinMember-listHead"><span><img src="/Loyalty360/media/images/keyIcon.png"></span>Loyalty360 Membership:</li>
+    <li>Access Complete Content</li>
+    <li>Company Member Page</li>
+  </ul>
+  <ul>
+    <li class="joinMember-listHead"><span><img src="/Loyalty360/media/images/ledIcon.png"></span>Free Online Account:</li>
+    <li>Read Full Articles Join Discussions</li>
+    <li>And Much More</li>
+    <li class="joinMember-learn"><a href="/join">Learn More</a></li>
+  </ul>
+</div>
+<div class="ee-contentHead-New">
+  Top <strong>Post</strong>
+</div>
+<div class="joinMember-list topPostSec">
+  <ul><li class="joinMember-listHead">
+  <span>
+    <img src="/Loyalty360/media/images/pencilIcon.png">
+  </span>
+  <a href="/Content-Gallery/Daily-News/Travel-and-Entertainment-Businesses-Pioneer-the-Ch">Travel and Entertainment Businesses Pioneer the Changing Customer Loyalty Landscape</a>
+</li><li class="joinMember-listHead">
+  <span>
+    <img src="/Loyalty360/media/images/pencilIcon.png">
+  </span>
+  <a href="/Content-Gallery/Daily-News/Citi-ThankYou-Rewards-Gains-Heightened-Customer-En">Citi ThankYou Rewards Gains Heightened Customer Engagement in Evolving Digital Landscape</a>
+</li><li class="joinMember-listHead">
+  <span>
+    <img src="/Loyalty360/media/images/pencilIcon.png">
+  </span>
+  <a href="/Content-Gallery/Daily-News/Listening-to-the-Customer-Re-ignites-Brand-Loyalty">Listening to the Customer Re-ignites Brand Loyalty at McDonald’s</a>
+</li> </ul>
+</div>
+<div class="right-addCon">
+  <div class="sidebar-block ad ad-250-200" id="div-gpt-ad-1360707354804-0"><script type="text/javascript">googletag.cmd.push(function() {googletag.display('div-gpt-ad-1360707354804-0');});</script></div>
+</div>
+
+<div class="subscribeNewsletter">
+  <div class="subscribeNewsletter-head">subscribe newsletter</div>
+  <div class="subscribeNewsletter-para">Sign up for our email newsletter to stay up to date on loyalty marketing news, insights, events and more!</div>
+  <div class="subscribeNewsletter-btn"><a href="/feeds">SIGN UP</a></div>
+</div><div class="ee-contentHead-New">
+  The <strong>L<span></span>yalty Pulse</strong>
+  <a href="/PulseChart" class="viewBtn">View All</a>
+</div><div id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_pnlControl" class="PollControl" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_btnVote')">
+	
+    <span id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_lblTitle" class="PollTitle"></span>
+    <span id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_lblQuestion" class="PollQuestion">What is the most important way you differentiate your loyalty program from your competitors?</span>
+    
+    <div id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_pnlAnswer" class="PollAnswers">
+		<table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio radio"><input id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad1" type="radio" name="p$lt$ctl01$pageplaceholder$p$lt$ctl02$StaticHTML_Pulse$widget1$ctl00$viewPoll$Pulse_octGroup" value="rad1"><label for="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad1">Unique rewards</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph0" style="width:100%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio radio"><input id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad2" type="radio" name="p$lt$ctl01$pageplaceholder$p$lt$ctl02$StaticHTML_Pulse$widget1$ctl00$viewPoll$Pulse_octGroup" value="rad2"><label for="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad2">Ease of rewards use/redemption</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph1" style="width:9%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio radio"><input id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad5" type="radio" name="p$lt$ctl01$pageplaceholder$p$lt$ctl02$StaticHTML_Pulse$widget1$ctl00$viewPoll$Pulse_octGroup" value="rad5"><label for="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad5">Multiple technology touchpoints</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph2" style="width:21%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio radio"><input id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad3" type="radio" name="p$lt$ctl01$pageplaceholder$p$lt$ctl02$StaticHTML_Pulse$widget1$ctl00$viewPoll$Pulse_octGroup" value="rad3"><label for="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad3">Program flexibility</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph3" style="width:4%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio radio"><input id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad4" type="radio" name="p$lt$ctl01$pageplaceholder$p$lt$ctl02$StaticHTML_Pulse$widget1$ctl00$viewPoll$Pulse_octGroup" value="rad4"><label for="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_rad4">Exceptional customer service</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph4" style="width:10%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount"></td></tr></tbody></table>
+	</div>
+    
+    <div id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_pnlFooter" class="PollFooter">
+		
+        <input type="submit" name="p$lt$ctl01$pageplaceholder$p$lt$ctl02$StaticHTML_Pulse$widget1$ctl00$viewPoll$btnVote" value="Vote" id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_btnVote" class="PollVoteButton btn btn-default">
+    
+	</div>
+
+</div>
+
+      </div>
+    </div>
+    <!--END-->
+        
+  </div>
+</div>
+
+<div id="p_lt_ctl02_StaticHTML_Footer_sys_pnlUpdate">
+	<footer id="footerSection">
+<div class="wrapperContainer">
+<div class="footerContent-new">
+<div class="newsLetter-new">
+<div class="footerHead-new">Subscribe Newsletter</div>
+
+<p>Sign up for our email newsletter to stay up to date on loyalty marketing news, insights, events and more!</p>
+<a href="/Feeds">SIGN UP</a></div>
+
+<div class="footerLink-new">
+<div class="footerCol-new">
+<div class="footerHead-new">Navigation</div>
+
+<ul>
+	<li><a href="/About-us">About</a></li>
+	<li><a href="/Resources">Resources</a></li>
+	<li><a href="/Content-Gallery">Content Gallery</a></li>
+	<li><a href="/Webinars">Webinars &amp; Conferences</a></li>
+</ul>
+
+<ul>
+	<li><a href="/Brand-Forum">Brand Forum</a></li>
+	<li><a href="/Loyalty-Today">Loyalty Today</a></li>
+	<li><a href="/loyalty-management">Loyalty Management</a></li>
+	<li><a href="javascript:;">/sitemap</a></li>
+</ul>
+</div>
+
+<div class="footerCol-new">
+<div class="footerHead-new">CONNECT</div>
+
+<ul class="footerSocial-new">
+	<li><a href="http://www.facebook.com/pages/Loyalty-360/42226222009"><i class="fa fa-facebook">&nbsp;</i>Facebook</a></li>
+	<li><a href="http://twitter.com/Loyalty360"><i class="fa fa-twitter">&nbsp;</i>Twitter</a></li>
+	<li><a href="http://www.linkedin.com/groups?gid=1126557"><i class="fa fa-linkedin">&nbsp;</i>Linkedin</a></li>
+	<li><a href="https://plus.google.com/110866633570731713110"><i class="fa fa-google-plus">&nbsp;</i>Google+</a></li>
+</ul>
+
+<ul class="footerSocial-new">
+	<li><a href="https://www.pinterest.com/loyalty360/"><i class="fa fa-pinterest">&nbsp;</i>Pinterest</a></li>
+	<li><a href="/Feeds"><i class="fa fa-rss">&nbsp;</i>RSS Feeds</a></li>
+	<li><a href="/contactus"><i class="fa fa-map-marker">&nbsp;</i>Contact Us</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="footer_logo-new"><a class="footerLogo" href="javascript:;"><img alt="footer logo" src="/Loyalty360/media/images/footer_logo-new.png"> </a></div>
+</div>
+</footer>
+
+<div class="copyrightText-new">
+<div class="wrapperContainer">© Copyright 2016 Loyalty 360. All Rights Reserved. <a href="/Privacy">Privacy Policy</a> | <a href="/terms-and-conditions">Terms of Use</a> | <a href="/Member-terms">Member Terms</a></div>
+</div>
+
+</div>
+
+    
     
 
-	<script async="" src="http://loyalty360.org/assets/script/external.php?url=https://static.woopra.com/js/w.js"></script><script id="twitter-wjs" async="" src="https://platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="http://loyalty360.org/assets/script/external.php?url=https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-	<script src="http://code.jquery.com/jquery-migrate-1.1.0.js"></script>
-	
-	
-
-	<meta name="robots" content="index, follow">
-	<!-- meta property="og:image" content="http://loyalty360.org/assets/images/theme/loyalty360-logo-share.png" / -->
-	<script type="text/javascript">
-		var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var e=document.createElement("script");e.async=true;e.type="text/javascript";var t="https:"==document.location.protocol;e.src="http://loyalty360.org/assets/script/external.php?url="+(t?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)})()
-	</script>
-	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.async=true;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-
-</head>
-<body>
-	<div id="page-wrapper">
-		<div id="header">
-<div class="content">
-<img src="http://loyalty360.org/assets/images/theme/loyalty360-logo-share1.png" style="display:none;" alt="loyalty360.org - the loyalty marketer's association">
-				<a href="http://loyalty360.org/" id="site-logo"><img src="/assets/images/theme/loyalty360-logo.png" alt="loyalty360.org - the loyalty marketer's association" width="228" height="64"></a>
-				<h1 style="display:none;">Loyalty 360 - The Loyalty Marketer's Association</h1>
-				<div id="top-nav-wrapper">
-					<ul id="top-nav">
-						
-							<li class=""><a href="/contact-us/"><span>Contact Us</span></a></li>
-						
-							<li class=""><a href="/feeds/"><span>Subscribe</span></a></li>
-						
-							<li class=""><a href="/advertise/"><span>Advertise</span></a></li>
-						
-							<li class=""><a href="/press-center/"><span>Press Center</span></a></li>
-						
-												<li><a href="http://loyalty360.org/register"><span>Join</span></a></li>
-						<li><a href="http://loyalty360.org/login"><span>Sign In</span></a></li>
-																	</ul>
-					
-					<div class="ajax-filter" id="msm-list">
-						<span class="ajax-filter-text msm-american"><span></span>Loyalty 360 (US)</span>
-						<a href="#" class="ajax-dropdown-arrow"></a>
-						<ul class="ajax-dropdown">
-							<li class="msm-european"><a class="follow" href="http://loyalty360.eu">Loyalty 360 (Europe)</a></li>
-						</ul>
-					</div>
-				</div>
-				
-				<div id="header-meta">
-					<form id="header-search" class="form" method="post" action="http://loyalty360.org/">
-<div class="hiddenFields">
-<input type="hidden" name="XID" value="3bf8be7b9854203d926154d8fbfc7e57bb453004">
-<input type="hidden" name="ACT" value="45">
-<input type="hidden" name="results_page" value="search/results">
-<input type="hidden" name="site_id" value="1">
-</div>
-
-
-						
-						<div>
-							<input type="text" name="keywords" value="" title="Search" class="default">
-							<input type="submit" name="Submit">
-						</div>
-					</form>
-					
-					<div id="header-social">
-						<a class="header-social-rss" href="http://loyalty360.org/feeds">RSS Feeds</a>
-						<a class="header-social-linkedin" href="http://www.linkedin.com/groups?gid=1126557">LinkedIn: http://www.linkedin.com/groups?gid=1126557</a>
-						<a class="header-social-twitter" href="http://twitter.com/Loyalty360">Twitter: http://twitter.com/Loyalty360</a>
-						<a class="header-social-facebook" href="http://www.facebook.com/pages/Loyalty-360/42226222009">Facebook: http://www.facebook.com/pages/Loyalty-360/42226222009</a>
-					</div>
-				</div>
-			</div>
-
-			<div id="main-nav-wrapper">
-				<ul id="main-nav" class="content">
-					<li class="about-us "><a href="/about-us/"><span>About Us</span></a><ul>
-					<li class=" "><a href="/press-center/"><span>Press Center</span></a></li>
-				
-					<li class=" "><a href="/about-us/loyalty360-staff/"><span>Loyalty360 Staff</span></a></li>
-				
-					<li class=" "><a href="/about-us/board-of-advisors/"><span>Board of Advisors</span></a></li>
-				
-					<li class=" "><a href="/companies/"><span>Our Members &amp; Sponsors</span></a></li>
-				
-					<li class=" "><a href="http://loyalty360.org/brand-members/"><span>Brand Members</span></a></li>
-				
-					<li class=" "><a href="/the-loyalty360-awards/"><span>Loyalty360 Awards</span></a></li>
-				
-					<li class=" "><a href="/loyalty-landscape/"><span> Loyalty Landscape</span></a></li>
-				
-					<li class=" "><a href="/media-kit/"><span>Loyalty360 Media Kit</span></a></li>
-				
-					<li class=" "><a href="/loyalty360-cx-awards/"><span>Loyalty360 CX Awards</span></a></li>
-				
-					<li class=" "><a href="/customer-experience-landscape/"><span>Customer Experience Landscape</span></a></li>
-				
-					<li class=" the-fulcrum"><a href="/the-fulcrum/"><span>The Fulcrum</span></a></li>
-				
-					<li class=" "><a href="/loyalty-360-research/"><span>Loyalty360 Research</span></a></li>
-				
-					<li class=" "><a href="/verified/"><span>Loyalty360 Verified</span></a></li>
-				
-					<li class=" "><a href="/about-us/loyalty-metric/"><span>Loyalty Metric</span></a></li>
-				</ul></li>
-				
-					<li class="resources "><a href="/resources"><span>Resources</span></a><ul>
-					<li class=" "><a href="/resources#news"><span>News</span></a></li>
-				
-					<li class=" "><a href="/resources#research"><span>Research &amp; Reports</span></a></li>
-				
-					<li class=" "><a href="/resources#articles"><span>Articles &amp; Blogs</span></a></li>
-				
-					<li class=" "><a href="/resources#multimedia"><span>Multimedia</span></a></li>
-				
-					<li class=" "><a href="/resources/infographics/"><span>Infographics/Behind the Numbers</span></a></li>
-				
-					<li class=" "><a href="/find-a-partner/"><span>Find A Partner</span></a></li>
-				
-					<li class=" "><a href="/coming-soon/"><span>Councils</span></a></li>
-				
-					<li class=" "><a href="/brand-corner/rfi-rfp/"><span>RFI/RFP’s</span></a></li>
-				
-					<li class=" "><a href="/career-center/jobs/"><span>Job Board</span></a></li>
-				
-					<li class=" "><a href="/career-center/resumes/"><span>Resume Bank</span></a></li>
-				
-					<li class=" "><a href="/coming-soon/"><span>Ask the Expert</span></a></li>
-				
-					<li class=" "><a href="/resources/featured-technology/"><span>Featured Technology</span></a></li>
-				</ul></li>
-				
-					<li class="webinars "><a href="/conferences"><span>Webinars &amp; Conferences</span></a><ul>
-					<li class=" "><a href="/conferences/webinars/"><span>Webinars</span></a></li>
-				
-					<li class=" "><a href="/conferences/industry-events/"><span>Industry Events</span></a></li>
-				
-					<li class=" "><a href="/conferences/loyalty-expo/"><span>Loyalty Expo</span></a></li>
-				
-					<li class=" "><a href="/conferences/engagement-expo/"><span>Engagement Expo</span></a></li>
-				</ul></li>
-				
-					<li class="tools yellow-gradient"><a href="/resources/brand-corner"><span>Brand Forum</span></a><ul>
-					<li class=" "><a href="/resources/brand-corner"><span>Brand Corner</span></a></li>
-				
-					<li class=" "><a href="/find-a-partner/"><span>Find A Partner</span></a></li>
-				
-					<li class=" "><a href="/coming-soon/"><span>Councils</span></a></li>
-				
-					<li class=" "><a href="/brand-corner/rfi-rfp/"><span>RFI/RFP’s</span></a></li>
-				
-					<li class=" "><a href="/register/"><span>Join Now</span></a></li>
-				
-					<li class=" "><a href="/coming-soon/"><span>Brand Panel</span></a></li>
-				
-					<li class=" "><a href="/career-center/jobs/"><span>Job Board</span></a></li>
-				
-					<li class=" "><a href="/career-center/resumes/"><span>Resume Bank</span></a></li>
-				
-					<li class=" "><a href="/coming-soon/"><span>Ask the Expert</span></a></li>
-				
-					<li class=" "><a href="/coming-soon/"><span>Share Your Story</span></a></li>
-				
-					<li class=" "><a href="/coming-soon/"><span>Brand Stories</span></a></li>
-				
-					<li class=" "><a href="/resources/featured-technology/"><span>Featured Technology</span></a></li>
-				</ul></li>
-				
-					<li class="loyalty-today featured green-gradient"><a href="/loyalty-today"><span>Loyalty Today</span></a></li>
-				
-					<li class="loyalty-management featured blue-gradient"><a href="/loyalty-management/"><span>Loyalty Management</span></a></li>
-				</ul>
-			</div>
-
-		</div>
-
-		<div id="body">
-			<div class="content">
-				
-				<div id="main-content-left">
-					<div id="breadcrumbs">
-						<a href="http://loyalty360.org/">Home</a>&nbsp;|&nbsp;Website Privacy Statement
-					</div>
-					<h2 class="page-title"><strong>Website Privacy Statement</strong></h2>
-			
-					<div id="main-content-left-body">
-						<div id="main-content-left-inner">
-							<div id="main-content-left-inner-content">
-								<div class="copy">
-									<p>
-	This is a website of the Loyalty 360 as it applies to business/ visitors.</p>
-<p>
-	Consumer information, including how to register for Loyalty 360 Visitor/Member Services, can be found at ,<span style="text-decoration: underline;">www.loyalty360.org</span>. If you still have questions, or would like to contact us, please send an email to: <a href="mailto:info@loyalty360.org">info@loyalty360.org</a></p>
-<p>
-	Our headquarters address is:</p>
-<p>
-	Loyalty 360<br>
-	4120 Dumont Street<br>
-	Cincinnati, OH 45226</p>
-<p>
-	You can reach us by email at <a href="mailto:info@loyalty360.org">info@loyalty360.org</a> or call us at 513-545-5612.</p>
-<p>
-	This policy is valid for one month from the time you visit our site. If our information practices change in the future, we will use only data collected from the time of the policy change forward for these new purposes, or we will contact you before we use your data for these new purposes and offer you the ability to opt out of these new uses.</p>
-<p>
-	<strong>For website visitors who make purchases or otherwise sign on to our site</strong></p>
-<p>
-	When you sign on to our site or make a purchase, we collect your name, company name, contact information, profile and preference information.</p>
-<p>
-	When you make a purchase we also collect your credit card information, as well as information about your current purchase and we keep information on your purchase history.</p>
-<p>
-	This information is used by us and/or our agents: to support your interaction with our site, to deliver your purchases and to contact you again about other services and products we offer. We may also share your name and geographic address with other reputable companies who have offers we think may interest you. These marketers may in turn contact you.</p>
-<p>
-	<strong>Addresses and phone numbers</strong></p>
-<p>
-	If you give us your postal address, we will send you periodic mailings with information on new Loyalty 360 products, services or information on upcoming Loyalty 360&nbsp; events. You may also receive business mailings from other reputable companies.</p>
-<p>
-	If you supply us with your telephone number, you may receive telephone contact from us with information regarding orders you have placed, new products and services or information on upcoming events.</p>
-<p>
-	If you do not wish to receive mailings or phone calls from the Loyalty 360 in the future or if you do not wish us to provide other reputable marketers with your mailing information, please let us know by sending an email to <a href="mailto:info@loyalty360.org">info@loyalty360.org</a></p>
-<p>
-	<strong>Email addresses</strong></p>
-<p>
-	We collect the email addresses of those who communicate with us by email. The email addresses are used to contact existing or potential business customers. We will not share business email addresses you give to us with other third parties for their purposes. &nbsp;We may send marketing offers to you on behalf of reputable third parties.</p>
-<p>
-	If you do not want to receive future email from Loyalty 360, please let us know by sending an email to <a href="mailto:info@loyalty360.org">info@loyalty360.org</a></p>
-<p>
-	<strong>Cookies</strong></p>
-<p>
-	<strong><em>All visitors</em></strong> we place cookies on all website visitor hard drives to collect aggregate information on the number of visitors to our site and the number of pages viewed.</p>
-<p>
-	<strong><em>Registered visitors</em></strong> we place unique identifier cookies on the hard drives of those who sign on which are used to maintain the visitor "sign on" status for the duration of the visit, for one-time customizing/tailoring of your visit and for long-term storage of user preferences. We also use cookies to track the pages visited by a visitor so that we can deliver Loyalty 360 Web content based on the visitor's profile (as provided by the visitor) and the visitor's past activity on the Loyalty 360 website.</p>
-<p>
-	<strong><em>General information</em></strong> cookie information is used only by Loyalty 360 and our agents and is not provided to any other organization. It is used in aggregate for traffic analysis and to provide relevant information to our visitors. It is also used for website and system administration, including research and development, user analysis and business decision-making.</p>
-<p>
-	<strong>For website visitors who do not make purchases or otherwise identify themselves</strong></p>
-<p>
-	If you do not sign on to our website, our Web server does not have access to personally identifiable information about you. It does not know your email address unless you volunteer it. At the same time, much of the Loyalty 360’s communication comes in the form of email, so by not sharing your email address you will have limited access to the Loyalty 360’s newsletters and other valuable information.</p>
-<p>
-	<strong>Clickstream Data</strong></p>
-<p>
-	We collect click-stream data and HTTP protocol elements through access logs. This information is not personally identifiable and is used for website and system administration including: research and development, user analysis and business decision-making.</p>
-<p>
-	<strong>Access</strong></p>
-<p>
-	Upon your request, we will provide you with a description of the information that we maintain about you. We will accommodate all reasonable requests. Please contact us by email at <a href="mailto:info@loyalty360.org">info@loyalty360.org</a> or in writing at the above address.</p>
-<p>
-	<strong>Security</strong></p>
-<p>
-	We use industry-standard encryption technologies when transferring and receiving payment data. We have security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from or about you.</p>
-<p>
-	<strong>Accountability</strong></p>
-<p>
-	If you have a question about Loyalty 360’s privacy policy, please contact us at 4120 Dumont Street Cincinnati, OH 45226 or <span style="text-decoration: underline;">ethics@</span><span style="text-decoration: underline;">loyalty360.</span><span style="text-decoration: underline;">org</span>; or 877-433-0819 (fax).</p>
-<p>
-	&nbsp;</p>
-
-								</div>
-							</div>
-						</div>
-					</div>
-			
-					<div id="main-content-left-sidebar">
-						<div id="main-content-left-sidebar-inner">
-							<ul class="sub-nav-list">
-								
-									<li class="active "><a href="/privacy/">Privacy Policy</a></li>
-								
-									<li class=" "><a href="/terms-and-conditions/">Terms of Use</a></li>
-								
-									<li class=" "><a href="/member-terms/">Member Terms</a></li>
-								
-									<li class=" "><a href="/sitemap/">Sitemap</a></li>
-								
-							</ul>
-						</div>
-					</div>
-				</div>
-
-				<div class="sidebar">
-					
-
-		<script type="text/javascript">
-		googletag.cmd.push(function() {
-			googletag.defineSlot('/66425706/member-250-250', [250, 250], 'div-gpt-ad-1360707454972-0').addService(googletag.pubads());
-			googletag.pubads().enableSingleRequest();
-			googletag.enableServices();
-		});
-	</script>
-	<div class="sidebar-block ad ad-250-250" id="div-gpt-ad-1360707454972-0">
-		<script type="text/javascript">googletag.cmd.push(function() {googletag.display('div-gpt-ad-1360707454972-0');});</script>
-	</div>
-	
-
-	
-		<script type="text/javascript">
-		googletag.cmd.push(function() {
-			googletag.defineSlot('/66425706/member-250-200', [250, 200], 'div-gpt-ad-1360707395062-0').addService(googletag.pubads());
-			googletag.pubads().enableSingleRequest();
-			googletag.enableServices();
-		});
-	</script>
-	<div class="sidebar-block ad ad-250-200" id="div-gpt-ad-1360707395062-0">
-		<script type="text/javascript">googletag.cmd.push(function() {googletag.display('div-gpt-ad-1360707395062-0');});</script>
-	</div>
-
-
-				</div>
-			</div>
-			
-		</div>
-		<div id="footer-push"></div>
-	</div>
-
-	
-
-	<div id="footer">
-		<div class="content">
-			<div id="footer-nav" class="footer-block">
-				<h2>Loyalty 360</h2>
-				<ul class="left-nav">
-					<li class=""><a href="http://loyalty360.org/">Home</a></li>
-				
-					<li class="about-us"><a href="/about-us/">About Us</a></li>
-				
-					<li class="resources"><a href="/resources">Resources</a></li>
-				
-					<li class="webinars"><a href="/conferences">Webinars &amp; Conferences</a></li>
-				
-					<li class="tools"><a href="/resources/brand-corner">Brand Forum</a></li>
-				
-					<li class="loyalty-today"><a href="/loyalty-today">Loyalty Today</a></li>
-				
-					<li class="loyalty-management"><a href="/loyalty-management/">Loyalty Management</a></li>
-				</ul>
-				
-				<ul class="right-nav">
-					<li><a href="#">Sign In</a></li>
-					<li><a href="/register">Join</a></li>
-				
-					<li class=""><a href="/press-center/">Press Center</a></li>
-				
-					<li class=""><a href="/advertise/">Advertise</a></li>
-				
-					<li class=""><a href="/feeds/">Subscribe</a></li>
-				
-					<li class=""><a href="/contact-us/">Contact Us</a></li>
-				
-				</ul>
-			</div>
-			<div id="footer-social" class="footer-block">
-				<h2>Stay Connected</h2>
-				<ul>
-					<li class="facebook"><a href="http://www.facebook.com/pages/Loyalty-360/42226222009">Facebook</a></li>
-					<li class="twitter"><a href="http://twitter.com/Loyalty360">Twitter</a></li>
-					<li class="linkedIn"><a href="http://www.linkedin.com/groups?gid=1126557">LinkedIn</a></li>
-					<li class="rss"><a href="http://loyalty360.org/feeds">RSS</a></li>
-				</ul>
-			</div>
-			<div id="footer-newsletter" class="footer-block">
-				<h2>Newsletter Signup</h2>
-				<p>Sign up for our weekly newsletter, <i>This Week in Loyalty,</i> to stay up to date on loyalty marketing news, insights, events and more!</p>
-					
-					<!-- START LOYAL 204 -->
-					
-					<form id="newsletter-signup" name="newsletter-signup" method="post" action="http://loyalty360.org/">
-<div class="hiddenFields">
-<input type="hidden" name="ACT" value="21">
-<input type="hidden" name="URI" value="privacy">
-<input type="hidden" name="XID" value="91b5493ed53fb42b12df39a3fe1d9fa2a48f0cca">
-<input type="hidden" name="status" value="open">
-<input type="hidden" name="return" value="register/newsletter">
-<input type="hidden" name="redirect_on_duplicate" value="">
-<input type="hidden" name="RET" value="http://loyalty360.org/privacy">
-<input type="hidden" name="form_name" value="Newsletter Signup">
-<input type="hidden" name="params_id" value="71949546">
-<input type="hidden" name="site_id" value="1">
-</div>
-
-
-					<div class="input">
-						<input type="text" value="First Name" onfocus="if (this.value == 'First Name') {this.value=''}" name="first_name" class="require" title="First Name">
-						<input type="text" value="Last Name" name="last_name" onfocus="if (this.value == 'Last Name') {this.value=''}" class="require" title="Last Name">
-					</div>
-					<div class="input input-left">
-						<input type="text" value="Email" name="email" onfocus="if (this.value == 'Email') {this.value=''}" class="email require default" title="Email Address">
-					</div>
-					<!-- END LOYAL 204 -->
-						<div class="captcha-hidden">
-		<label for="honeepot">Don't put anything here</label>
-		<input type="text" name="honeepot" id="honeepot">
-	</div>
-  
-					<div class="buttons buttons-right newsletter-subcription">
-						<button type="submit" id="newletter-subscribe"><span>Sign Up</span></button>
-					</div>
-				<div class="snap" style="position: absolute !important; top: -100000px !important;"><input type="text" id="snap_ggnjCUHIn" name="snap_ggnjCUHIn" value="GFqslxNDXlJlY"></div>
-<script type="text/javascript">document.getElementById("snap_ggnjCUHIn").value = "pBhXfZQArVRty";</script>
-</form>
-			</div>
-			<div id="site-credits"><span>© Copyright 2012 Loyalty 360. All Rights Reserved.</span><a href="/privacy/">Privacy Policy</a><a href="/terms-and-conditions/">Terms of Use</a><a href="/member-terms/">Member Terms</a><a href="/sitemap/">Sitemap</a></div>
-		</div>
-	</div>
-
-	<script>!window.jQuery && document.write(unescape('%3Cscript src="http://loyalty360.org/assets/js/jquery-1.6.2.min.js"%3E%3C/script%3E'))</script><script src="http://loyalty360.org/assets/js/jquery-1.6.2.min.js"></script>
-	<script src="http://loyalty360.org/assets/script/external.php?url=https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
-	<script type="text/javascript" src="http://loyalty360.org/themes/third_party/fancybox/javascript/jquery.fancybox-1.3.4.pack.js"></script><script type="text/javascript" src="http://loyalty360.org/themes/third_party/fancybox/javascript/jquery.easing-1.3.pack.js"></script><script type="text/javascript" src="http://loyalty360.org/themes/third_party/fancybox/javascript/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="http://loyalty360.org/themes/third_party/fancybox/javascript/jquery.main.pack.js"></script>
-    <!--script src="http://loyalty360.org/assets/js/combine.js" type="text/javascript"></script//-->
-	<script src="http://loyalty360.org/assets/js/jquery.cycle.all.2.88.min.js" type="text/javascript"></script>
-	<script src="http://loyalty360.org/assets/js/jquery.colorbox-min.js" type="text/javascript"></script>
-	<script src="http://loyalty360.org/assets/js/twitter.js" type="text/javascript"></script>
-	<script src="http://loyalty360.org/assets/js/core.js" type="text/javascript"></script>
-	
-	<script type="text/javascript">
-		var gaJsHost="https:"==document.location.protocol?"https://ssl.":"http://www.";document.write(unescape("%3Cscript src='http://loyalty360.org/assets/script/external.php?url="+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"))
-	</script><script src="http://loyalty360.org/assets/script/external.php?url=https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-		try{var pageTracker=_gat._getTracker("UA-23087386-1");pageTracker._trackPageview()}catch(err){}
-	</script>
-	<script type="text/javascript">var switchTo5x=true;</script>
-	<script type="text/javascript" src="http://loyalty360.org/assets/script/external.php?url=http://w.sharethis.com/button/buttons.js"></script>
-		
-	
-	
-<!-- Start of Woopra Code -->
-<script>
-(function(){var e=document.location.protocol||"http:";var t,n,r,i=window,s=document,o=arguments,u="script",a=["config","track","identify","visit","push","call"],f=function(){var e,t=this;for(t._e=[],e=0;a.length>e;e++)(function(e){t[e]=function(){return t._e.push([e].concat(Array.prototype.slice.call(arguments,0))),t}})(a[e])};for(i._w=i._w||{},t=0;o.length>t;t++)i._w[o[t]]=i[o[t]]=i[o[t]]||new f;n=s.createElement(u),n.async=1,n.src="http://loyalty360.org/assets/script/external.php?url="+e+"//static.woopra.com/js/w.js",r=s.getElementsByTagName(u)[0],r.parentNode.insertBefore(n,r)})("woopra");woopra.config({domain:"loyalty360.org",cross_domain:"engagementexpo.com",hide_xdm_data:true,idle_timeout:18e5});woopra.track();
-if($("#newletter-subscribe").length){
-$("#newletter-subscribe").click(function(){
-var e=$("#first_name").val();var t=$("#last_name").val();var n=$("#email").val();
-var r=e+t;
-if(e!=""&&n!=""){woopra.identify({name:r,email:n});woopra.track("NewsletterSignup",{username:r,email:n});
-setTimeout(function(){return true}, 2000);
-}
-});
-}
-</script>
-<!-- End of Woopra Code -->
-
-<script>
-$(window).on('hashchange',function(){ 
-
-    var urlWithQueryString = window.location.href;
-
-
-    if((urlWithQueryString.indexOf('?') > 0) || (urlWithQueryString.indexOf('/companies/') > 0) || (urlWithQueryString.indexOf('/members/') > 0))
-    {
-        console.log("Not to be refreshed");
- 
-    }
-
-    else
-    {window.location.reload(true);}
-
-});
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
 </script>
 
+<script type="text/javascript">
+	//<![CDATA[
+WebServiceCall('/cmsapi/webanalytics', 'LogHit', '{"NodeAliasPath":"/Footer-Section/Privacy","DocumentCultureCode":"en-US","UrlReferrer":"http://loyalty360.org/Privacy.aspx"}')
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
 
+WebForm_InitCallback();
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
 
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TextBoxWatermarkBehavior, {"ClientStateFieldID":"p_lt_ctl00_SmartSearchBox_txtWord_exWatermark_ClientState","WatermarkText":"SEARCH","id":"p_lt_ctl00_SmartSearchBox_txtWord_exWatermark"}, null, null, $get("p_lt_ctl00_SmartSearchBox_txtWord"));
+});
+//]]>
+</script>
+  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="o2KnrSGBiChlTvIQqCuHO5UHXYn5ma0YTn5DnHE1EA2YYlmo4MuewFns+1d5d/6ix8prH6QKjw4OGQMLz0HISnBEknNSxojomw0DN9GszTy/9gnU33mYFih7CqxlxuYOY3TFsR59ai3IAe8DuAWbwCaESxKoLE4WRLWmEz2b6AG+74VNLVD5VD28hTvS3iTqbOOSayKa5G1lS6YvbWEOR27fuSXB9X/DpKjlWSI9LQOhofOAsIRiLubjppXtNiR7a/Ugp9aEdKyMI+J2yjDsnIwVC38gb/Cf2YHGREZt7n3nVd9RlzEtbBVU/7gkVyWFbAI4RRBcpd01myHfEI579vYpZVRfjSBLgMRnhbAeyuJJ/npNPdvUCc71442Kg9xfckasxCDBGfU4fB87Y9GXgShDim97B4kurgAWiHhaOk4Xu12qAJ9AC/513zay/ciJonc8pMiORGkOB0sgeP4EVzvjVqByKNql0SE7Xn8ipSbzF424a1lkmXwelkwFV1p79jlj0/d6rvaPhc8IDY8XrYglmIE945SkDG3qqAU+Ejx2HYw4NtfYu6HfxyMH3POEhqesmIo1POg0ESJzDJUPOhLKff+hdNu3jEA+9WhgbSnpXWnO49C6Uhz9PtNdoKGCKwRIsWokZCXlxcB2QHIoc6CYeI5J24NKK5XTRCa3womHlPOwk+uz57+jHm5Yl4Q/iQU1fwFX+4V1lAUgyaObudS1d4CYTHb3W6LnDnFurM/9d+E44wT8JESNF3W3tGuIol5NipSNneP0OmR/kC3ERnVQ0juDmELuRmWLRvn8FOPaI+erDkhFvKGHr/YB5CBgXZgV1lIiFTkR3w6vcuq6CeNCtN+19phs5f837UHKZ/xq/t4y/Im9cLQeIjlIzT7vTzi4j6TaJqCV3+t519BXu3QpVaFiEE2mgqHd3TMdn4tnJt35Oq2Bqir6YNjzA2QfbQ/M2Ep1wgHTOeetafcFth9askLNhZAdSWrizlpsxQ+cvnZ3GJ0E5GJXD0YY6PHgzyg/0kdyHhwW1PWXacco+tgJdFfZT087pchlPfF4vGhyF2rNdAJfz3CNvngpNaarSV0Oe+olhFTlKuIls5Q/8uwe4pFbLx2qIeLMs5gQNSn38yAIucP5SV2JR0JpoxkmEvY313TdpXH8SO/NuyFZVnbpU4UunL8cm8GSFIpI8NyxRlabw132sYQBIZADnMn9mX4fdE87eZdSU2u5C5JX2lQg8fQOoAbzJGSlLbjLUuxBi183z1xNV9pE3Eksrap4SmC/6QsbrDx37pVcg0ZUGCv/bciE7UKHFAw23wehPx/jLomEB12dRIDtzmXT3sK+AtTCKKojAO1VJLhcD50felCxtFtRsS89w4jOoOeC6WE//1Ol2XBIwjGHpegnF16Yq25QC321tu2YfZA4zD+d8sWyj6YkiJAhXT54PyInaJMAWLZoZC1/e64P/qfhU6XoyQDx1JE3xYDHgeLdsntoTETLYFK15wNWUHp7RVR5nzJsF8yWBKhRHJ2jRIRhTVseba2pvgkmmm5jmHl9OfujxSlOQSTDzRJnBK8t76fEpK3MVVcJy3BWTtKGt2gww6YzvyIDctiyHJkbAGMoat9ms5uvd3Rvq1vV7uXZRf1sqW1uYQzaWT07dG/WEHHfleNv0gduU+VX6ev3KbAsJlwzO1RCgBUQU2XE8Wn1OzK1ClZ9VJDKm0pd+FRG1ZWYqTm4CuSulfLBbJO5dO0tm20Nepy3ph2phZXLiaf/HOu/CjiYOLFbI5o4DWvMnjPwm4gWEKaaxTQAskuLf1rKzOx89et/pRupBacbKPdLzRdK4MJeupPHKl5PmxxTw7i9nRsPocOBiJGCzUvrze5hmO+PN9EdTAAW+rBa0Py6aPy/7UT9GBHw+fbElsDL+mZ/5jw7t/hg87H8MQDkzVVbjoT9Rn59vyghGXOQNZcNUHkjlw4klmaP7+ZGwr3febjASrXop6Ul1elJ9rraFfbl5VAX9keZ2i3dYjyyd0nm6su4Fbei5dPYsUc1RroKMSCeivI9dkYwv9NSXjsbgh7qQ0wAsuXhvXiIPYBHXNxAY9AMKC3i1/9X0j/1JXm/Stb62ktWeh0XfvfkWS2fdyo2XFw5PRr2sK34rCpli8EuNGbzwnHGF3DsZDn7KKc2Qe2OwGMby4XlNv1Lp6UaiUXUqIPptGRDfTU4YnLYnIZx8GC6de/GP4Y3KwUn6904r27LKKmG4C2fGScMB/UQE1geomQmDrg1HNJdGwx3FCOFf3o49VkrzR13iwlUkClzRF8b/m2cHLSTu2mEYwhfNgqZ6IPYm7KH5eOdQNty4x/dfOU6kL2GbkQLRvU4sPonHJrIesnH5SK6lLIsyppr2E5LkXOz9tVbx2WUT0f6ZLHJ1dcQkat4/BDwUNfZyu9WndG7nGdypkoB/fNMfMvE7MMeObM0mpsIiWUjRQ4hLdU7nU0gBRrGPg7LRUzP+pt36o2LiykanTl+G1Tt0DuyyuSAvyz9CQhkRmSccDDzUw/1s6L+4SEFHaQvoi+2udm7dDgOLvgqeE/6sfd5u2ri5vegmQrn182sNQI6+ZN4pikXIuw6BTw6L7X5ibjPJilY0wXfsL4BadbGc7DZK47GxnV5tvVEOWthB8d1G2kFRC6bUnlbPuh1nR1kI6cBpAtmmDmTJX8Rvo1SnieoNag72wzBFNag+ksSTmpfBi4cnDFwqtOG5Uk=">
+  <script type="text/javascript"> 
+      //<![CDATA[
+      if (window.WebForm_InitCallback) { 
+        __theFormPostData = '';
+        __theFormPostCollection = new Array();
+        window.WebForm_InitCallback(); 
+      }
+      //]]>
+    </script>
+  </form>
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 </body></html>
