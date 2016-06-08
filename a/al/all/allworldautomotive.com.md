@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allworldautomotive.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208000650id_/http%3A//allworldautomotive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allworldautomotive.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608234021id_/http%3A//allworldautomotive.com/privacy.php) for the most accurate reproduction.*
 
 # All World Privacy Policy
 
