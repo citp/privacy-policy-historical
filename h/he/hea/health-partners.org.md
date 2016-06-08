@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health-partners.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231133217id_/http%3A//www.mercy.com/corporate/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health-partners.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608204809id_/http%3A//www.mercy.com/corporate/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Mercy Health Corporate
 
@@ -22,4 +22,4 @@ The Mercy Health corporate website contains links to other websites, and we are 
 
 ##  Contacting This Website
 
-If you have any questions about this privacy statement, the practices of the Mercy Health corporate website or your dealings with the Mercy Health corporate website, you can contact us by [completing this form](https://web.archive.org/web/20151231133217id_/http%3A//www.mercy.com/corporate/contact_us_form.aspx).
+If you have any questions about this privacy statement, the practices of the Mercy Health corporate website or your dealings with the Mercy Health corporate website, you can contact us by [completing this form](https://web.archive.org/web/20160608204809id_/http%3A//www.mercy.com/corporate/contact_us_form.aspx).
