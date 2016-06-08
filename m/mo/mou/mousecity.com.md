@@ -1,71 +1,225 @@
-> *The following text is extracted and transformed from the mousecity.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143134id_/http%3A//www.mousecity.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mousecity.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020723id_/http%3A//www.mousecity.com/site/privacy-policy) for the most accurate reproduction.*
 
-# MouseCity - Only Mouse Games
+# MouseCity.com - Escape Games and other Puzzle Games
 
-**Mousecity.com PRIVACY POLICY**
+This privacy policy has been compiled to better serve those who are concerned with how their Personally identifiable information (PII) is being used online. 
 
-**1\. General**
+PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate
 
-**1.1.** This is the official Privacy and Policy for Mousecity.com. Mousecity.com can be used in this Privacy Policy as ”Mousecity“, “site”, “we”, “us” or “our”.
+a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect
 
-**1.3.** Under 13 visitors/users will need parent or guardian’s consent before registering or providing any personal information to us.
+or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-**2\. Collection and Use of Personal Information**
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-**2.1.** Mousecity.com uses any personal information available for us to respond to our visitors/costumers inquiry or comments. Whatever the activity may be, we will only collect information to the extent deemed reasonably necessary to fulfill your requests and our legitimate business objectives.
+When ordering or registering on our site, as appropriate, you may be asked to enter your game rating or other details to help you with your experience.
 
-**2.2.** Mousecity.com may request and/or collect information from you on a voluntary basis when you: register with us, or when you send questions or comments via e-mail to Mousecity.com. The requested information may include personal information such as your name and e-mail address.
+**When do we collect information?**
 
-**2.3.** Mousecity.com may also collect your IP address for safety and security purposes. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
+We collect information from you when you voting on a game or enter information on our site.
 
-**2.4.** Other non-personal information collected by Mousecity.com is in the form of logs – files that record website activity, including how many “hits” a particular web page is getting. These entries enable Mousecity.com to assess overall site activity, track interest in advertised sales, track interest in purchase behavior, and troubleshoot technical concerns.
+**How do we use your information?**
 
-**2.5.** Through the use of log files, we may also collect certain demographic information such as the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey
 
-**3\. Links to third party’s and responsibilities**
+or marketing communication, surf the website, or use certain other site features in the following ways:
 
-**3.1.** To provide relevant information not found on our website, Mousecity.com may provide links from our site to third party websites and we encourage our users to read third party sites privacy policies before submitting personal information. All the downloads and Exe files provided on this site are from a 3rd party and Mousecity.com is not responsible for any files or adware that gets installed by their games and screensavers. They contain several adware products so download and install at your own risk. Mousecity.com resumes no responsibility.
+       **•**  To improve our website in order to better serve you.
 
-**3.2.** Mousecity.com is not responsible for the privacy practices of the content of third party sites. Mousecity.com hereby disclaims any representations or warranties expressed on any site other than its own site.
+**How do we protect visitor information?**
 
-**4\. Cookies and other aggregate data**
+We do not use vulnerability scanning and/or scanning to PCI standards.
 
-**4.1.** Mousecity.com may use cookies to improve the use of our website. A “cookie” is a small file that websites often store on a user’s computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites.
+We do not use Malware Scanning.
 
-**4.2.** The Site may contain advertisements, references and links to other websites and organizations. We may also use third parties to display or serve advertising on the site and our web-based newsletters or other communications which you may choose to receive. Often these third party advertisers employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules might apply to the collection, use or disclosure of your Personal Information by third parties in connection with their advertisements, promotions and other websites you encounter on the internet. The use of such technology by these third parties is within their control and not ours. Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your Personal Information.
+We do not use an SSL certificate
 
-**4.3.** This Privacy Policy does not cover any use of Personal Information that a third party advertiser or ad server may collect from you. We encourage you to investigate and ask questions directly of them in this regard. Use of Advertisers’ tracking technology is subject to their own privacy policies.
+       **•**  We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
 
-**5\. Privacy of Your Postings**
+**Do we use cookies?**
 
-**5.1.** Mousecity.com reserves the right to monitor, edit and disclose your use of the site or confidential personal information to a third party, if we believe such action is required by law or is necessary to protect and defend our rights, to enforce this Privacy Policy or the terms of the Terms of Service Agreement, or to protect the interests of our users, advertisers, service providers and others.
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser 
 
-**6\. Protection of Personal Information**
+(if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain 
 
-**6.1.** Mousecity.com maintain reasonable standards of security and confidentiality. However, for most internet sites or services, it is possible that third parties may unlawfully intercept or access communications over an unsecured line. Mousecity.com are liable for any leaks caused by us, however we do not take responsibility for unlawful intercepts or accesses what can not be protected against on reasonable standards.
+information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also 
 
-**7\. Phishing**
+used to help us understand your preferences based on previous or current site activity, which enables us to provide you with 
 
-**7.1.** Phishers use spoofed e-mails to lead visitor/consumers to counterfeit websites designed to trick recipients into divulging Personal Information such as account usernames and passwords. Mousecity.com do not send emails asking you to provide or confirm personal information or your username or password. If somebody is asking these things form you or you receive such an email, please forward it to the site’s Privacy Policy e-mail info@mousecity.com and delete the fraudulent e-mail.
+improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can 
 
-**8\. Online Behavioral Advertising (OBA)**
+offer better site experiences and tools in the future.
 
-**8.1.** Online behavioral advertising (“OBA”) and/or multi-site advertising on Mousecity.com is occurring.
+  
+**We use cookies to:**
 
-**8.2.** Mousecity.com may use cookies to improve the use of our website. A “cookie” is a small file that websites often store on a user’s computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites.
+       **•**  Understand and save users preferences for future visits.
 
-**8.3.** The Site may contain advertisements, references and links to other websites and organizations. We may also use third parties to display or serve advertising on the site and our web-based newsletters or other communications which you may choose to receive. Often these third party advertisers employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules might apply to the collection, use or disclosure of your Personal Information by third parties in connection with their advertisements, promotions and other websites you encounter on the internet. The use of such technology by these third parties is within their control and not ours. Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your Personal Information.
+  
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. 
 
-**8.4.** This Privacy Policy does not cover any use of Personal Information that a third party advertiser or ad server may collect from you. We encourage you to investigate and ask questions directly of them in this regard. Use of Advertisers’ tracking technology is subject to their own privacy policies. For more information about these third party servers and how to “opt out” of the ad-serving cookie. Here is the link to opt-out page on the NAI’s (http://www.networkadvertising.org/managing/opt_out.asp) consumer website – http://www.valueclickmedia.com/about/privacy
+You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browsers 
 
-**9\. Information and questions**
+Help menu to learn the correct way to modify your cookies.
 
-**9.1.** If you have questions or need more information about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information, you may contact us directly by sending an email to support@mousecity.com.
+If you disable cookies off, some features will be disabled It wont affect the users experience that make your site experience 
 
-**10\. Validity of the Privacy Policy**
+more efficient and some of our services will not function properly.
 
-**10.1.** This Privacy Policy document is the sole statement of the Mousecity.com site and no other version of the Privacy Policy statement in any other form is valid. Mousecity.com reserves the right to modify Privacy Policy at any time.
+However, you can still place orders .
 
-**10.2.** This Privacy Policy was last modified on the 11th of July, 2012 and is effective immediately.
+**Third Party Disclosure**
 
-**2012 Mousecity.com - All Rights Reserved**
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites 
+
+have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of 
+
+these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Google**
+
+Googles advertising requirements can be summed up by Googles Advertising Principles. They are put in place to provide a 
+
+positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+
+We use Google AdSense Advertising on our website.
+
+  
+Google, as a third party vendor, uses cookies to serve ads on our site. Googles use of the DART cookie enables it to serve ads
+
+to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by
+
+visiting the Google ad and content network privacy policy.
+
+  
+**We have implemented the following:**
+
+       **•**  Remarketing with Google AdSense
+
+       **•**  Google Display Network Impression Reporting
+
+       **•**  Demographics and Interests Reporting
+
+       **•**  DoubleClick Platform Integration
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and 
+
+third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user 
+
+interactions with ad impressions, and other ad service functions as they relate to our website.
+
+  
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. 
+
+Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the 
+
+Google Analytics Opt Out Browser add on.
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. 
+
+The laws reach stretches well beyond California to require a person or company in the United States (and conceivably the world) 
+
+that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy
+
+on its website stating exactly the information being collected and those individuals with whom it is being shared, 
+
+and to comply with this policy. 
+
+\- See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+  
+**According to CalOPPA we agree to the following:**
+
+Users can visit our site anonymously
+
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after
+
+entering our website. Our Privacy Policy link includes the word Privacy, and can be easily be found on the page specified above.
+
+  
+Users will be notified of any privacy policy changes:
+
+       **•**  On our Privacy Policy Page
+
+Users are able to change their personal information:
+
+       **•**  By logging in to their account
+
+  
+**How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser 
+
+mechanism is in place.
+
+  
+**Does our site allow third party behavioral tracking?**
+
+Its also important to note that we allow third party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Childrens Online Privacy Protection Act 
+
+(COPPA) puts parents in control. The Federal Trade Commission, the nations consumer protection agency, enforces the 
+
+COPPA Rule, which spells out what operators of websites and online services must do to protect childrens privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include
+
+have played a significant role in the development of data protection laws around the globe. Understanding the 
+
+Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that 
+
+protect personal information.
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via in site notification
+
+       **•**  Within 1 business day
+
+  
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights 
+
+against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have 
+
+enforceable rights against data users, but also that individuals have recourse to courts or a government agency to 
+
+investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, 
+
+gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+  
+**To be in accordance with CANSPAM we agree to the following:**
+
+**  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+and we will promptly remove you from  **ALL**  correspondence.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+info@mousecity.com
+
+  
+Last Edited on 2016-03-12
