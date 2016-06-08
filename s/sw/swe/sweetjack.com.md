@@ -1,73 +1,91 @@
-> *The following text is extracted and transformed from the sweetjack.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207111632id_/http%3A//www.sweetjack.com/GroupBuyPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetjack.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608034646id_/http%3A//www.sweetjack.com/GroupBuyPrivacyPolicy) for the most accurate reproduction.*
 
-# SweetJack: Daily Deals With Great Discount Rates
+# Sweet Deals: Daily Deals With Great Discount Rates
 
-**Privacy Policy**
+Thank you for visiting incentrev.com, an INCENTREV, Inc. site, and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Website unless you choose to provide that information. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by INCENTREV, Inc., [www.incentrev.com](http://www.incentrev.com/), [ www.incentrevauctions.com](http://www.incentrevauctions.com/) or any of the sub-domains of either incentrev.com or incentrevauctions.com (collectively "INCENTREV") are governed by this Privacy Policy and Notice. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the INCENTREV.
 
-The web pages available at [http://sweetjack.com](http://sweetjack.com/ "http://sweetjack.com"), and all linked pages (collectively, the "Site"), are owned and operated by SweetJack LLC ("SweetJack"), a Nevada limited liability company. SweetJack respects the personal privacy of visitors to the Site. Please read this Internet Privacy Policy carefully so that you understand what information we collect through our the Site, what we do with that information, and how to safeguard the personal information you provide to us. This Internet Privacy Policy applies only to information collected online through the Site and does not describe the ways in which we may collect or use information obtained offline or through any means other than the Site.
+* * *
 
-Your personal privacy is a principal concern to us at SweetJack. Our goal in outlining our policy on the collection and use of customer information is to ensure the highest level of confidentiality and security. When you provide your personal information on the Site, we will not give or sell your personal information to any outside company for its use in marketing or solicitation without your permission, which may be express or implied. We will maintain the confidentiality of your personal information and it will be used only to support your customer relationship with the Site and to assist us in providing better and more targeted services to you. Additionally, internal practices are in place to help protect your privacy by limiting employee access to and use of customer information. When we ask customers to provide their personal information on the Site, it is done with the goal of improving the relationship between SweetJack and users of the Site. At SweetJack, we allow visitors to the Site to maintain control over their personal information while attempting to provide a more interactive online experience. Our intention is to send e-mails only to customers who have chosen to receive such e-mails. At any time, you have the right to decline receiving future communications from SweetJack in any manner, including email, fax, telephone and postal mail.
+###  The Information We Collect
 
-  
-back to top
+Through INCENTREV's marketing, direct sales, websites, sub-domains and other media, you can bid on or purchase gift certificates, goods, or services. You are able to visit much of this website and enjoy INCENTREV without providing any personally identifiable information. Sometimes, however, we do need your personally identifiable information to provide you with the gift certificates, products and services that you request. The types of personally identifiable information that may be collected at these pages and elsewhere include, but are not limited to: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
 
-When you browse the Site, you do so anonymously. Personal information—including your e-mail address—is not collected. However, there are three (3) ways in which the Site may collect information about you.
+At some INCENTREV sites and sub-domains and through certain promotions, you can submit information about other people. For example, you might register a person's name and e-mail address to be user of INCENTREV. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, title, e-mail address, and telephone number.
 
-  
-1\. The Site may request that you voluntarily provide personal information for purposes such as correspondence, site registration, membership, making a purchase, or participating in online surveys. Information that we ask you to provide may include your name, e-mail address, telephone number, mailing address and birth date. We may also request that you provide customer preference information, social security numbers, lifestyle interests, and other demographic information that may be needed to register or subscribe you to services or offers.
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider. The server on which the Website is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. We also request information from the user on our order form. Here a user must provide contact information (such as name and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer orders. If we have trouble processing an order, this contact information is used to get in touch with the user. The contact information may be passed on to the station and used to notify you of other promotions. It may also be passed on to the merchant from whom you bought a certificate or other product. We will not sell, share or otherwise disclose this information to parties not disclosed in this Privacy Policy. Please note that if any government agency legally requests our customer information, we are obligated to release it.
 
-  
-2\. Like many other commercial websites, the Site may use a standard technology called a "cookie" to collect information about how our websites are used. Cookies are small text files on your system used for keeping track of settings or data for a particular website. You may turn them off through your browser or set your browser to notify you before accepting them. The Site may use cookies to store information necessary to provide a service or access into a site. Any information that we may store in cookies is used for internal purposes only.
+* * *
 
-  
-3\. Each time the Site is requested from your browser, we log your computer's IP address into our log files. Your computer has been pre-assigned a 12-digit number from your Internet Service Provider and may be static or dynamically assigned—this number is the IP address. SweetJack uses IP addresses to analyze trends, administer the site, track movements on the site, and gather broad demographic information for aggregate use. IP addresses are not linked to any other personally identifiable information by SweetJack.
+###  How We Use the Information
 
-  
-back to top
+We may use the information you provide about yourself to fulfill your requests for our gift certificates, goods or services, assist in transactions, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you.
 
-We collect only information that is needed, and we tell customers how we use it. We limit the collection of information about our customers to what we need to know to manage their membership, to provide customer service, to offer new products and services, and to fulfill any legal and regulatory requirements. We tell our customers about the general uses of information we collect about them, and we will provide additional explanation if requested. A customer may change, update or add additional information about themselves at any time through the Site.
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests, bids, when you have mad a purchase, or when we make changes to subscriber agreements, or to contact you about your account with us.
 
-  
-back to top
+We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them.
 
-Access to customer information is limited to those who specifically need it to conduct their business responsibilities. We use security techniques designed to protect our customer information—especially information that is used by employees and business partners to fulfill customer services. In addition to providing customers with the opportunity to refuse marketing offers, we release information only at the customers' requests, or when required to do so by law or other regulatory authority. When a court order or subpoena requires us to release information, we notify the customer directly so that his/her legal rights can be exercised, if appropriate. The only exceptions to this policy are when we are prohibited by court order or law from notifying the customer, or cases in which fraud and/or criminal activity is suspected. Finally, each SweetJack employee is personally responsible for maintaining customer confidentiality. All SweetJack employees are required to sign an agreement that they will comply with these policies. Employees who violate these policies are subject to disciplinary action, up to and including termination of employment. Employees are expected to report violations—and may do so confidentially—to their managers or other supervisors. SweetJack employees who have been assigned the responsibility for assuring the adherence to SweetJack's privacy policy.
+If you choose to submit content we may publish your name, screen name, and other information you have provided to us.
 
-  
-back to top
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
 
-You agree that SweetJack may view your future transactions, as well as up to eighteen months of historical transactions, made by you with participating merchants. In this connection, you authorize the sharing, exchange and processing of your transaction history by and among SweetJack, SweetJack’s third party service provider, participating merchants and the payment processor for your transactions."
+We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
 
-  
-back to top
+Agents and contractors of INCENTREV who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for INCENTREV.
 
-As a result of providing your personal information to us, the Site can provide a more customized online experience, making your interaction with us more productive, helpful and fun, and will enhance the services and offers the Site brings to you. If you provide us with your e-mail address, or have done so in the past, we may send you e-mail offers or newsletters. These offers or newsletters are based on information you provided in your membership application, registration forms, surveys, or from information that may indicate purchasing preferences and lifestyle, as well as information available from external sources, such as census bureau data. These e-mail offers will come from the Site only. _Your information or email address is never sold to a third party._ All offers are carefully developed to guarantee that they meet our standards. Our goal is to target offers to customers who will find them of value. At any time, you may request to discontinue receiving these communications from us by simply replying to the e-mail address included in every e-mail message that you receive from the Site.
+We may transfer your personally identifiable information to other INCENTREV affiliates or partners or to offices for internal management and administrative purposes. Your personal data will be transferred to other INCENTREV offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims.
 
-  
-From time to time, we may offer contests or other promotions on the Site. If you enter a contest or participate in a promotional event, we will ask you to provide information about yourself (such as your name, address, and email address). Among other things, we will need this information to contact you if you win, and we may also use this information for marketing purposes. We may share this information with any co-sponsors of the contest or promotional event; co-sponsors will be identified in the contest rules. We may also share this information with or other third-party service providers that help administer our contests and promotional events, such as by conducting drawings, and/or delivering prizes to winners. If you do not want to provide the requested information or have the information provided to co-sponsors or other third-party service providers, please do not enter the contest or participate in the promotional event.
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
 
-  
-We do monitor URL click-throughs found in our email messages. The click-through rate is reviewed in order to track (i) participation in contests to judge effectiveness and award prizes; (ii) listener interests; and/or (iii) response rates for marketing purposes or to report to a client in aggregate form only, the response of customers. Individual activity is never shared with employees or third parties.
+* * *
 
-  
-back to top
+###  Privacy Options
 
-Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. The Site is not directed at children under the age of 13 and we will not knowingly allow anyone under 13 to provide us any personal identifying information. If you are under the age of 13, please do not provide any information about yourself to the Site.
+If an INCENTREV site discloses personally identifiable information to companies not owned by INCENTREV who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by INCENTREV, please write to the address below with the subject "No Third Party Marketing".
 
-  
-back to top
+**Young Children**  
+The Website is not directed to children less than eighteen (18) years of age, and children under such age must not use the website or services offered on it to submit any individually identifiable information about themselves. INCENTREV is not designed to attract anyone under age 18, has no intention of collecting personal information from children, and does not knowingly collect any personal information from children. INCENTREV will use reasonable efforts to delete such information from its database. This Website complies with the Children's Online Privacy Protection Act of 1998 (COPPA).
 
-Third-party Internet sites and services accessible through the Site have separate privacy and information collection practices, independent of us. SweetJack has no responsibility or liability for these independent policies or actions. You are solely responsible for maintaining the secrecy of your passwords, membership ID, or any account information. Please be careful and responsible whenever you are online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we aim to protect your personal information, SweetJack cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.
+* * *
 
-  
-While the Site puts forth its best efforts in adhering to these minimum privacy standards, additional restrictions may be imposed to comply with state and local laws, and/or specific programs, products and services.
+###  Collection of Information by Third-Party Sites and Sponsors
 
-  
-back to top
+The INCENTREV sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
 
-The Internet is an evolving medium. If we need to change this Internet Privacy Policy at some point in the future, we will post the changes to this Internet Privacy Policy on this website and update the reference to the effective date to reflect the date of the amendment. By visiting the Site, you agree that your visit, and any dispute over privacy, is governed by this Internet Privacy Policy.
+**Cookies**  
+To enhance your online experience we use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
-  
-Revised March 21st, 2013.
+We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. Similarly, as part of an arrangement with our business partners (including, those who present or serve the advertisements that you see on our web pages) we may also access cookies placed by others and allow others to access certain cookies placed by us.
 
-  
-back to top
+We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. For more information regarding cookies, please click here.
+
+* * *
+
+###  Our Commitment to Security
+
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect. INCENTREV is serious about protecting your privacy and we take precautions to safeguard your information. When customers submit sensitive information via the web site, their information is protected both online and off-line. Sensitive information (such as a credit card number), is encrypted and protected with Secure Sockets Layer (SSL). SSL is known as the best encryption software in the industry. However, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
+
+#####  How You Can Access or Correct Information
+
+To inquire about personally identifiable information that this INCENTREV site has collected about you, or how to correct factual errors in such information, please email us at info@incentrev.com.
+
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+
+* * *
+
+###  Changes to this Notice
+
+This Notice may be changed by INCENTREV. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
+
+* * *
+
+###  How to Contact Us
+
+If you have any questions or concerns about the INCENTREV Privacy Notice or its implementation please contact us via email at info@incentrev.com or at the following address:
+
+3280 Peachtree Road, NW  
+Suite 2300  
+Atlanta, Georgia 30305
+
+[www.incentrev.com](http://www.incentrev.com/)
+
+This Privacy Notice was revised 03/05/2009.
