@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaysmama.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209144309id_/http%3A//todaysmama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysmama.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608192721id_/http%3A//todaysmama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TodaysMama
 
@@ -9,7 +9,7 @@ This Policy may change over time as we modify or expand our service; we suggest 
 **What Information is Being Collected**  
 TodaysMama.com collects certain information from and about its users. Various forms require users to give us contact information. In addition, when purchasing products and services through this web site, we will collect financial information. Not all information is required to be provided (required information will be clearly noted), but if you should choose to withhold information, you may not be eligible to participate in or receive full benefit from all products or services on the web site.
 
-Also, we use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+Also, we use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **The Use of That Information**  
 We may use your information to provide personalized content and services. Any account information you supply will be used only to process requested commerce transaction or to contact you regarding a specific inquiry or transaction.
