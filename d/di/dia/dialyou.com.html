@@ -1,36 +1,26 @@
-<!--The following is the downloaded HTML source of the dialyou.com privacy policy that was archived on 2015-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209130654id_/http%3A//www.dialyou.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dialyou.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608091458id_/http%3A//www.dialyou.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-                <title>DialYou - Privacy Policy - dialyou.com</title>
+                <title>DialYou - Privacy Policy</title>
                 <meta charset="utf-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                
                 <meta name="author" content="">
                 <meta name="description" content="We are faithful to defending to protecting the privacy and in confidence of all personal considered client analysis mission  and other  internal  business  purposes only.">
                 <meta name="keywords" content="DialYou - Privacy Policy">
-                                
-                <link rel="canonical" href="http://www.dialyou.com/privacy-policy">
+                <meta name="google-site-verification" content="hsbKlOYSA2Kal9wppVYrUG_g4EOvU3-JpZWduldMAhA">
                 <meta name="format-detection" content="telephone=no">
-				<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var switchTo5x=true;</script>
-				<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-				<script type="text/javascript">stLight.options({publisher: "7e8db90e-93d6-4c38-b4ca-0510af8452da", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+                                <link rel="canonical" href="http://www.dialyou.com/privacy-policy">
                 <link rel="shortcut icon" href="http://www.dialyou.com/assets/images/favicon.jpg" type="image/x-icon">
                 <link rel="icon" href="http://www.dialyou.com/assets/images/favicon.ico" type="image/x-icon">
-                <!-- Google font -->
+                                <!-- Google font -->
                 <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
                 <!-- font-awesome -->
                 <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
-                <!-- Bootstrap core CSS -->
+                                <!-- Bootstrap core CSS -->
                 <link href="http://www.dialyou.com/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-                <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
-  
-                <!-- Custom CSS -->
-                <link href="http://www.dialyou.com/assets/css/front-style.css" rel="stylesheet" type="text/css">
-                
-                <!-- Custom CSS -->
-                <link href="http://www.dialyou.com/assets/css/front-style-ramayan.css" rel="stylesheet" type="text/css">
-                
+                                <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.min.css">
+                                <link href="http://www.dialyou.com/assets/css/front-style.min.css?v=111111113" rel="stylesheet" type="text/css"><!-- Custom CSS -->
                 <!--[if lt IE 9]>
                       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
                       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
@@ -39,12 +29,11 @@
                 <link rel="stylesheet" type="text/css" href="css/ie8.css" />
                 <![endif]-->
                 <script type="text/javascript">var BASE_URL = 'http://www.dialyou.com/'; </script>
-                
-                <!-- jQuery 2.1.4 -->
-                <script src="http://www.dialyou.com/assets/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+                                <script src="http://www.dialyou.com/assets/plugins/jQuery/jQuery-2.1.4.min.js"></script><!-- jQuery 2.1.4 -->
                 <script src="http://www.dialyou.com/assets/bootstrap/js/bootstrap.min.js"></script>
-                <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-                <script>
+                <script src="//code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+                <script type="text/javascript" language="javascript" src="https://maps.googleapis.com/maps/api/js?v=3&amp;libraries=geometry"></script> <!-- Geolocaiton Code -->
+                                <script type="text/javascript" language="javascript">
                         $(function() {
                                 cache = {};
                                 $( "input[name=txt_search]" ).autocomplete({
@@ -63,7 +52,6 @@
                                 });
                                 $( "input[name=txt_city]" ).autocomplete({
                                         source: function( request, response ) {
-                                                                console.log(cache);
                                                                 var term = request.term;
                                                                 if ( term in cache ) {
                                                                         response( cache[ term ] );
@@ -80,23 +68,89 @@
                                 $('form[name="frm_top_search"]').submit(function(e){
                                         e.preventDefault();
                                         var search_title = $('[name=txt_search]').val();
-										var search_city = $('[name=txt_city]').val();
+                                        var search_city = $('[name=txt_city]').val();
                                         if(search_title.length >= 0) {
+                                                //var encoded_value = search_title.split(' ').join('-');
                                                 var encoded_value = encodeURIComponent(search_title);
-												var encoded_city_value = encodeURIComponent(search_city);
+                                                //var encoded_city_value = search_city.split(' ').join('-');
+                                                var encoded_city_value = encodeURIComponent(search_city);
                                                 window.location.replace('/search-listing?term=' + encoded_value+'&city='+encoded_city_value);
                                         }
                                 });
-								$("input[name=txt_city]").blur(function(event) {
-										$.post("/ajax-requests/fixed-for-top-search-box-city.php", {city: $('#txt_city').val()},
-										function(data) {
-												$('#txt_city').val(data);
-										});
-								});
+                                $("input[name=txt_city]").blur(function(event) {
+                                    /*$.post("/ajax-requests/fixed-for-top-search-box-city.php", {city: $('#txt_city').val()},
+                                        function(data) {
+                                            $('#txt_city').val(data);
+                                        });*/
+                                    /* Use cache for one day */
+                                    var city = $('#txt_city').val();
+                                    $.cookie('city', city, {path: cookiePath, expires: cookieExpire});
+                                });
+                                                               
+                            if($.cookie('city') == null) {
+                                /* Shared city logic */
+                                if (navigator.geolocation) {
+                                    /* If browser support for geolocation */
+                                    var currentPosition = navigator.geolocation.getCurrentPosition(function(position) {
+
+                                        /* Get current lat long */
+                                        var latitude = position.coords.latitude;
+                                        var longitude = position.coords.longitude;
+
+                                        /* Get current city */
+                                        var geocoder;
+                                        geocoder = new google.maps.Geocoder();
+                                        var latlng = new google.maps.LatLng(latitude, longitude);
+                                        var city = 'Jaipur';
+                                        geocoder.geocode(
+                                            {'latLng': latlng}, 
+                                            function(results, status) {
+                                                if (status == google.maps.GeocoderStatus.OK) {
+                                                        if (results[0]) {
+                                                            var address= results[0].formatted_address ;
+                                                            console.log('Your Address: ' + address);
+                                                            var  value=address.split(",");
+
+                                                            count=value.length;
+                                                            country=value[count-1];
+                                                            state=value[count-2];
+                                                            city=$.trim(value[count-3]);
+                                                            $('#txt_city').val(city);
+                                                            //$.post("/ajax-requests/fixed-for-top-search-box-city.php", {city: city}, function(data) {});
+                                                            console.log("City: " + city);
+
+                                                            /* Use cache for one day */
+                                                            $.cookie('city', city, {path: cookiePath, expires: cookieExpire});
+
+                                                        } else {
+                                                            $('#txt_city').val(city);
+                                                            //$.post("/ajax-requests/fixed-for-top-search-box-city.php", {city: city});
+                                                        }
+
+                                                } else {
+                                                    $('#txt_city').val(city);
+                                                    /* Failed to get address */
+                                                    /*alert("Geocoder failed due to: " + status);*/
+                                                    //$.post("/ajax-requests/fixed-for-top-search-box-city.php", {city: city});
+                                                }
+                                            }
+                                        );
+                                    });
+                                } else {
+                                        $('#txt_city').val('Jaipur');
+                                }
+                                
+                            } else {
+                                /* get data from cookie */
+                                var city = $.cookie('city');
+                                if(city == '')
+                                        city = 'jaipur';
+                                $('#txt_city').val(city);
+                            }
                         });
-                </script>
-                
-                <script>
+                        
+                        
+                        /* Google analytics code */
                         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
                         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -104,8 +158,8 @@
 
                         ga('create', 'UA-66177471-1', 'auto');
                         ga('send', 'pageview');
+                        
                 </script>
-                
         </head>
         <body>
                 <div class="header_top_bar">
@@ -113,9 +167,13 @@
                                 <div class="row">
                                         <div class="col-xs-12 col-sm-12">
                                                 <div class="lglinks">
-                                                        <a href="/aip.php" title="Register Now" target="_blank"><i class="fa fa-user"></i> <font color="#CC0033"><strong>Admission Information Portal</strong></font></a><a href="/business-listing" title="Free Listing"></a><span class="pull-right">Helpline No. 95286-95286</span>                                                </div>
-                                  </div> 
-
+                                                        <a href="/edu.php" title="Register Now" class="nureg_toplink" target="_blank"><i class="fa fa-user"></i>Admission Information Portal</a>
+                                                        <a href="http://www.dialyou.com/franchaise-login.php" title="Client Login" class="nureg_toplink"><i class="fa fa-lock"></i> Client Login</a>
+                                                       
+                                                        <span class="pull-right"><a href="http://www.dialyou.com/free-registration-business" title="Free Listing" class="nureg_toplink">Apply Free Listing</a></span>
+                                                        
+                                                </div>
+                                        </div>
                                 </div>
                         </div>
                 </div>
@@ -128,34 +186,31 @@
                                                 </a>
                                         </div>
                                         <div class="col-xs-12 col-sm-8 col-md-8 pull-right">
-										<div class="top_search_main">
-										<div class="row">
-										        <form name="frm_top_search">
-												<div class="col-xs-12 col-sm-4 space_right">
-										        <div class="search_top">
-												    <div class="search_f city_s">
-													<i class="fa fa-map-marker"></i>
-													<input name="txt_city" id="txt_city" type="text" placeholder="City" value="Fatehabad" onfocus="if(this.value=='Fatehabad'){this.value='';}" onblur="if(this.value==''){this.value='Fatehabad';}" autocomplete="off">
-													</div>
-												</div>
-												</div>
-												<div class="col-xs-12 col-sm-8 space_left">
-                                                <div class="search_top">
-                                                        <!--div class="categories"><select name=""><option>Categories</option></select></div-->
-                                                       
-                                                                <div class="search_f">
-                                                                    <input name="txt_search" type="text" placeholder="Search Here" value="">
-                                                                </div>
-                                                                <button type="submit" id="btn_search"><i class="fa fa-search"></i></button>
-                                                      
-                                                        
-                                                        <!--div class="ui-widget"><input id="tags"></div-->
-                                                        
-                                                </div>
-												</div>
-											   </form>
-											   </div>
-										</div>	   
+                                                <div class="top_search_main">
+                                                        <div class="row">
+                                                                <form name="frm_top_search">
+                                                                        <div class="col-xs-12 col-sm-4 space_right">
+                                                                                <div class="search_top">
+                                                                                        <div class="search_f city_s">
+                                                                                                <i class="fa fa-map-marker"></i>
+                                                                                                <input name="txt_city" id="txt_city" type="text" placeholder="City" value="" autocomplete="off">
+                                                                                        </div>
+                                                                                </div>
+                                                                        </div>
+                                                                        <div class="col-xs-12 col-sm-8 space_left">
+                                                                                <div class="search_top">
+                                                                                        <!--div class="categories"><select name=""><option>Categories</option></select></div-->
+
+                                                                                        <div class="search_f">
+                                                                                                <input name="txt_search" type="text" placeholder="Search Here" value="">
+                                                                                        </div>
+                                                                                        <button type="submit" id="btn_search"><i class="fa fa-search"></i></button>
+                                                                                        <!--div class="ui-widget"><input id="tags"></div-->
+                                                                                </div>
+                                                                        </div>
+                                                                </form>
+                                                        </div>
+                                                </div>	   
                                         </div>
                                 </div>
                         </div>
@@ -176,7 +231,7 @@
                                                 <li> <a href="/free-registration-business" title="APPLY FREE LISTING">APPLY FREE LISTING</a></li>
                                                 <li> <a href="/franchise-list" title="FREE LISTING">FRANCHISE LIST</a></li>
                                                 <li> <a href="/news" title="ALERT">ALERT</a></li>
-                                                <li> <a href="/contact" title="CONTACT US">CONTACT US</a></li>
+                                                <li> <a href="/shopping" title="CONTACT US">SHOPPING</a></li>
                                         </ul>
                                 </div>
                                 <!--/.nav-collapse -->
@@ -184,9 +239,55 @@
                         <!--/.container-fluid -->
                 </nav>
                 <!-- nav - END -->
+                                <!-- City popup -->
+                <a id="cityPopup" href="#" data-toggle="modal" data-target="#select_your_city" style="display: none;">Select Your City</a>
+                <div class="modal fade" id="select_your_city" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                                <div class="modal-content">
+                                        <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                                <h4 class="modal-title" id="myModalLabel">Select Your City</h4>
+                                        </div>
+                                        <div class="modal-body">
+                                                <!--select name="" class="form-control"><option>Select Your City</option></select><br />
+                                                OR-->
+                                                <div class="search_f city_s">
+                                                        <input name="popupCityTxt" type="text" class="form-control" placeholder="Type Your City..." autocomplete="off">
+                                                </div>
+                                        </div>
+                                                                        </div>
+                        </div>
+                </div>
                 
-                
-                
+                <!-- Email registration popup -->
+                <a id="emailRegPopupButton" href="#" data-toggle="modal" data-target="#emailRegPopup" style="display: none;">Registration</a>
+                <div class="modal fade" id="emailRegPopup" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-lg">
+                                <div class="modal-content">
+                                        <form id="emailRegPopFrm" name="emailRegPopFrm">
+                                                <div class="modal-body">
+                                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                                        <p class="b2b_text"><span class="txt1">India's Best B2B &amp; B2C Friendly Portal</span>
+                                                                <span class="txt2">Get Infomation For Education, Business, Job &amp; All Type of Service Provider</span>
+                                                                Please Submit Your Name &amp; Email ID</p>
+                                                        <div class="row">
+                                                                <div class="col-xs-12 col-sm-6  col-sm-offset-3">
+                                                                        <input name="emailRegName" type="text" class="form-control" placeholder="Enter Your Name">
+                                                                        <input name="emailRegEmail" type="text" class="form-control" placeholder="Enter Email Id">
+                                                                </div>
+                                                        </div>
+                                                </div>
+                                                <div class="modal-footer">
+                                                        <div class="row">
+                                                                <div class="col-xs-12 col-sm-4 col-sm-offset-4">
+                                                                        <button name="emailRegPopFrmBtn" type="submit" class="btn btn-default green_gre">Submit</button>
+                                                                </div>
+                                                        </div>		
+                                                </div>
+                                        </form>
+                                </div>
+                        </div>
+                </div>
                 
 <div class="container">
  <div class="row">
@@ -247,119 +348,220 @@ If you have query or concern about these privacy policies; please send us an ema
  </div>
 </div>
 
-
-                <!-- Footer - START -->
-                <footer>
-                        <div class="footer_enquiry_form">
-                                <div class="container">
-                                        <div class="row">
-                                                <form name="footer_enquiry_frm" action="http://www.dialyou.com/ajax-requests/submit-footer-enquiry">
-                                                        <div class="col-xs-12 col-sm-4 col-md-2"><span id="footer_enq_title">Make An Enquiry</span></div>
-                                                        
-                                                        <div class="col-xs-12 col-sm-4 col-md-2"><i class="fa fa-user"></i>
-                                                                <input name="enq_name" type="text" placeholder="Your Name">
-                                                        </div>
-                                                        
-                                                        <div class="col-xs-12 col-sm-4 col-md-2"><i class="fa fa-envelope"></i>
-                                                                <input name="enq_email" type="text" placeholder="Your Email ID">
-                                                        </div>
-                                                        
-                                                        <div class="col-xs-12 col-sm-4 col-md-2"><i class="fa fa-phone"></i>
-                                                                <input name="enq_number" type="text" placeholder="Mobile Number">
-                                                        </div>
-                                                        
-                                                        <div class="col-xs-12 col-sm-4 col-md-2"><i class="fa fa-file-text"></i>
-                                                                <input name="enq_msg" type="text" placeholder="Message">
-                                                        </div>
-                                                        
-                                                        <div class="col-xs-12 col-sm-4 col-md-2">
-                                                                <input type="submit" value="Submit" name="">
-                                                        </div>
-                                                </form>
-                                        </div>
-                                </div>
-                        </div>
-                        
-                        <ul class="footer_links">
-                                <li><a href="/about-us" title="About Us">About Us</a></li>
-                                <li><a href="/business-listing" title="Free Listing">Business Listing</a></li>
-                                <li><a href="/contact" title="Feedback">Feedback</a></li>
-                                <li><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
-                                <li><a href="/privacy-policy" title="Terms">Terms</a></li>
-                                <li><a href="/contact" title="Contact Us">Contact Us</a></li>
-                        </ul>
+        <!-- Footer - START -->
+        <footer>
+                <div class="marquee_block">
                         <div class="container">
-                                <div class="row">
-                                        <form name="subscribeFrm" id="subscribeFrm" method="post" action="" onsubmit="return false">
-                                                <div class="col-xs-12 col-sm-4 col-md-5 col-lg-4">
-                                                        <div id="subscribesuccess" style="color:#0F0; font-size:12px;"></div>
-                                                        <div class="email_subscribe"><input name="emailsub" id="emailsub" type="text" placeholder="Submit Your Email To Subscribe Us"><input name="mailsbs" id="mailsbs" type="submit" value="Submit"></div>
-                                                </div>
-                                        </form>     
-                                        <div class="col-xs-12 col-sm-4 col-md-4 pull-right">
-                                                <ul class="follow_us">
-                                                        <li>Follow Us On:</li>
-                                                        <li><a href="https://www.facebook.com/dialyouindia" class="facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                                        <li><a href="https://twitter.com/dialyouindia" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                                        <li><a href="https://www.youtube.com/channel/UCm1BMwIRYtUEj2RXHuypHVw" class="youtube" target="_blank"><i class="fa fa-youtube"></i></a></li>
-                                                  
-                                                       
-                                                </ul>
+                                    <div class="left_shadow"></div>
+                                    <div class="right_shadow"></div>
+                                    <marquee direction="left">
+                                            Subscribe now
+                                                    First 10,000 Students will win scholarship of 25% of total fee, paid by Dialyou.com | Contact Us:- md@dialyou.com | 94675-94675 | 95286-95286 Subscribe now
+                                                    First 10,000 Students will win scholarship of 25% of total fee, paid by Dialyou.com | Contact Us:- md@dialyou.com | 94675-94675 | 95286-95286 Subscribe now
+                                                    First 10,000 Students will win scholarship of 25% of total fee, paid by Dialyou.com | Contact Us:- md@dialyou.com | 94675-94675 | 95286-95286 Subscribe now
+                                                    First 10,000 Students will win scholarship of 25% of total fee, paid by Dialyou.com | Contact Us:- md@dialyou.com | 94675-94675 | 95286-95286</marquee>
+                            </div>
+                    </div>
+                                            <div class="footer_enquiry_form">
+                                    <div class="container">
+                                            <div class="row">
+                                                    <div class="col-xs-12 col-sm-12 col-md-7 app_logo_block">
+                                                        <a href="https://play.google.com/store/apps/details?id=com.dailyou.DialYou&amp;hl=en" target="_blank"><img src="http://www.dialyou.com/assets/images/android_app.jpg" alt=""></a>
+                                                        <a href="https://play.google.com/store/apps/details?id=com.dailyou.DialYou&amp;hl=en" target="_blank"><img src="http://www.dialyou.com/assets/images/iphone_app.jpg" alt=""></a>
+                                                       <a href="https://play.google.com/store/apps/details?id=com.dailyou.DialYou&amp;hl=en" target="_blank"><img src="http://www.dialyou.com/assets/images/windows_app.jpg" alt=""></a>
+                                                        <a href="https://play.google.com/store/apps/details?id=com.dailyou.DialYou&amp;hl=en" target="_blank"><img src="http://www.dialyou.com/assets/images/blackberry_app.jpg" alt=""></a>
+                                                    </div>  
+                                                    <form id="footer_phone_frm">
+                                                        <div class="col-xs-12 col-sm-8 col-md-3"><i class="fa fa-phone"></i>
+                                                            <input name="footer_phone" id="footer_phone" type="text" placeholder="Mobile Number">
+                                                        </div>
+                                                        <div class="col-xs-12 col-sm-4 col-md-2">
+                                                            <input type="submit" value="Quick Send" name="footer_phone_btn">
+                                                        </div>
+                                                    </form>
+                                            </div>
+                                    </div>
+                            </div>
+                            <div class="container">
+                                    <div class="row">
+                                  <div class="col-xs-12 col-sm-3">
+                                            <h3>Quick Links</h3>
+                                            <ul class="footer_links">
+                                                    <li><a href="/about-us" title="About Us">About Us</a></li>
+                                                    <li><a href="/business-listing" title="Free Listing">Business Listing</a></li>
+                                                    <li><a href="/contact" title="Feedback">Feedback</a></li>
+                                            </ul>
+                                  </div>
+                                    <div class="col-xs-12 col-sm-3">
+
+                                            <h3>&nbsp;</h3>
+
+                                            <ul class="footer_links">
+                                                    <li><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+                                                    <li><a href="/privacy-policy" title="Terms">Terms</a></li>
+                                                    <li><a href="/contact" title="Contact Us">Contact Us</a></li>
+                                            </ul>
+                                    </div>
+
+                                        <div class="col-xs-12 col-sm-5 pull-right">
+                                                <h3>Newsletter</h3>
+                                            <div id="subscribesuccess" style="color:#0F0; font-size:12px;"></div>
+                                            <div class="email_subscribe">
+                                                <form name="subscribeFrm" id="subscribeFrm" method="post" action="" onsubmit="return false">			
+                                                    <table border="0">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="attributeinput">
+                                                                    <i class="fa fa-envelope"></i><input type="text" name="emailsub" id="emailsub" placeholder="Submit Your Email id" size="30"><span style="padding-left:30px;"></span>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>	
+                                                    <input name="mailsbs" id="mailsbs" type="submit" value="Subscribe">
+                                                </form>
+                                            </div>
+
+                                                    <ul class="follow_us">
+                                                            <li>Follow Us On:</li>
+                                                            <li><a href="https://www.facebook.com/dialyouindia" class="facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                                            <li><a href="https://twitter.com/dialyouindia" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                                            <li><a href="https://www.youtube.com/channel/UCm1BMwIRYtUEj2RXHuypHVw" class="youtube" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                                                    </ul>
                                         </div>
-                                </div>
+                                    </div>
                                 <div class="footer_bot_links">
-                                      
+                                        Disclaimer: We have collected all the data from various websites online, so we are not responsible if the data is not correct or you had any privacy with it. If you have any objection with it, feel free to send a message at [md@dialyou.com]. We will remove the content within 24 hours.
                                 </div>
-								<div class="footer_bot_links">
-								Disclaimer: We have collected all the data from various websites online, so we are not responsible if the data is not correct or you had any privacy with it. If you have any objection with it, feel free to send a message at [md@dialyou.com]. We will remove the content within 24 hours.
-								</div>
-                        </div>
-                        <div class="copyright">
-                                <div class="container">
-                                        <div class="row">
-                                                <div class="col-xs-12 col-sm-6">Copyright © All Rights Reserved</div>
-                                                <div class="col-xs-12 col-sm-6"><a href="javascript:void(0)" id="back-to-top" title="Back to top"><i class="fa fa-angle-up"></i></a></div>
+                            </div>
+            <div class="copyright">
+                    <div class="container">
+                            <div class="row">
+                                    <div class="col-xs-12 col-sm-6">Copyright © All Rights Reserved</div>
+                                    <div class="col-xs-12 col-sm-6"></div>
+                            </div>
+                    </div>
+            </div>
+    </footer>
+<p id="back-top"><a href="#top" title="Back to top"><i class="fa fa-angle-up"></i></a></p>
+<!-- Footer - END -->
+
+                                
+                <!-- Universal registration popup -->
+                <a id="emailRegPopupButtonSub" href="#" data-toggle="modal" data-target="#emailRegPopupSub" style="display: none;">Registration</a>
+                <div class="modal fade" id="emailRegPopupSub" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <form id="emailRegPopFrms" name="emailRegPopFrms">
+                                <div class="modal-header">
+                                    <h4 id="myModalLabel" class="modal-title"><i class="fa fa-envelope"></i>Admission Information</h4>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" id="emailRegPopFrmsClose">×</span></button>
+                                </div>
+                                <div class="modal-body">
+                                    <div id="subscribeerrorpopup" style="color:#FF0000; font-size:12px; text-align:center;"></div>
+                                    <div id="subscribesuccesspopup" style="color:#0F0; font-size:16px; font-weight:bold; text-align:center;"></div>
+                                    <div class="row">
+                                        <div class="col-xs-12 col-sm-6">
+                                            <ul class="ai_popup_list">
+                                                <li><i class="fa fa-check green_color"></i> Free Counseling From our Counselors</li>
+                                                <li><i class="fa fa-check green_color"></i> Never miss Important deadlines</li>
+                                                <li><i class="fa fa-check green_color"></i> View Detailed Course Fee info</li>
+                                                <li><i class="fa fa-check green_color"></i> Eligibility, the process is made easy</li>
+                                                <li><i class="fa fa- check green_color"></i> Get Update On Your Email</li>
+                                            </ul>
                                         </div>
+                                        <div class="col-xs-12 col-sm-6">
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-12"><input name="popupName" id="popupName" type="text" class="form-control" placeholder="Enter Your Name"></div>
+                                                <div class="col-xs-12 col-sm-12"><input name="popupEmail" id="popupEmail" type="text" class="form-control" placeholder="Enter Email Id"></div>
+                                                <div class="col-xs-12 col-sm-12"><input name="popupMobile" id="popupMobile" type="text" class="form-control" placeholder="Enter Mobile No."></div>
+                                                <div class="col-xs-12 col-sm-12"><select name="popupCourse" id="popupCourse" class="form-control">
+                                                        <option value="">Select Course</option><option value="ANM">ANM</option><option value="AHW">AHW</option><option value="AMI">AMI</option><option value="BA">BA</option><option value="BE">BE</option><option value="BMS">BMS</option><option value="B.Sc">B.Sc</option><option value="BHM">BHM</option><option value="B.Tech+M.Tech">B.Tech+M.Tech</option><option value="B.Tech. + MBA">B.Tech. + MBA</option><option value="B.Tech">B.Tech</option><option value="B.Com">B.Com</option><option value="BBA+MBA">BBA+MBA</option><option value="B.Lib">B.Lib</option><option value="B.Arch">B.Arch</option><option value="BCA">BCA</option><option value="BA+LLB">BA+LLB</option><option value="B.Com+LLB">B.Com+LLB</option><option value="BBA+LLB">BBA+LLB</option><option value="B.Sc+LLB">B.Sc+LLB</option><option value="BPE">BPE</option><option value="BGMC">BGMC</option><option value="B.Ed">B.Ed</option><option value="B.Sc Nursing">B.Sc Nursing</option><option value="BPT">BPT</option><option value="B.Pharma">B.Pharma</option><option value="B.P.Ed">B.P.Ed</option><option value="BDS">BDS</option><option value="Certificate">Certificate</option><option value="C.Arch">C.Arch</option><option value="Diploma">Diploma</option><option value="D.Arch">D.Arch</option><option value="D.Pharma">D.Pharma</option><option value="DPT">DPT</option><option value="D.Ed">D.Ed</option>
+                                                        <option value="DCA">DCA</option>
+                                                        <option value="DMLT">DMLT</option>
+                                                        <option value="DHM">DHM</option>
+                                                        <option value="ETT">ETT</option>
+                                                        <option value="Fireman">Fireman</option>
+                                                        <option value="GNM">GNM</option>
+                                                        <option value="ITI">ITI</option>
+                                                        <option value="ITC">ITC</option>
+                                                        <option value="JBT">JBT</option>
+                                                        <option value="LLM">LLM</option>
+                                                        <option value="LLB">LLB</option>
+                                                        <option value="MA">MA</option>
+                                                        <option value="MSW">MSW</option>
+                                                        <option value="M.Sc">M.Sc</option>
+                                                        <option value="M.lib">M.lib</option>
+                                                        <option value="MBA">MBA</option>
+                                                        <option value="MHM">MHM</option>
+                                                        <option value="M.Com">M.Com</option>
+                                                        <option value="MCA">MCA</option>
+                                                        <option value="M.Sc">M.Sc</option>
+                                                        <option value="MPE">MPE</option>
+                                                        <option value="MGMC">MGMC</option>
+                                                        <option value="M.Pharma">M.Pharma</option>
+                                                        <option value="MLT">MLT</option>
+                                                        <option value="MPHW">MPHW</option>
+                                                        <option value="MPT">MPT</option>
+                                                        <option value="M. Phil Full Time">M. Phil Full Time</option>
+                                                        <option value="M.Phil Part Time">M.Phil Part Time</option>
+                                                        <option value="M.Sc Nursing">M.Sc Nursing</option>
+                                                        <option value="M.Ed">M.Ed</option>
+                                                        <option value="M.P.Ed">M.P.Ed</option>
+                                                        <option value="MDS">MDS</option>
+                                                        <option value="MBBS">MBBS</option>
+                                                        <option value="MDS">MDS</option>
+                                                        <option value="ME">ME</option>
+                                                        <option value="M.Tech">M.Tech</option>
+                                                        <option value="PG Diploma">PG Diploma</option>
+                                                        <option value="Polytechnic">Polytechnic</option>
+                                                        <option value="PGDM">PGDM</option>
+                                                        <option value="PGDCA">PGDCA</option>
+                                                        <option value="Ph.D Full Time">Ph.D Full Time</option>
+                                                        <option value="Ph.D Part Time">Ph.D Part Time</option>
+                                                        <option value="VLDA">VLDA</option>
+                                                        <option value="Other">Other</option>
+                                                    </select></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <div class="row">
+                                            <div class="col-xs-12 col-sm-4 col-sm-offset-4">
+                                                <button name="emailRegPopFrmBtn" id="emailRegPopFrmBtn" type="submit" class="btn btn-default green_gre">Submit</button>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
+                            </form>
                         </div>
-                </footer>
-                <!-- Footer - END -->
-
-
-                <script src="http://www.dialyou.com/assets/js/front-custom.js"></script>
-                <script src="http://www.dialyou.com/assets/js/jquery.validate.js"></script>
-                <script src="http://www.dialyou.com/assets/js/ramayan.js"></script>
-
-                <script>
-                                                if ($('#back-to-top').length) {
-                                                        var scrollTrigger = 100, // px
-                                                                backToTop = function() {
-                                                                var scrollTop = $(window).scrollTop();
-                                                                if (scrollTop > scrollTrigger) {
-                                                                        $('#back-to-top').addClass('show');
-                                                                } else {
-                                                                        $('#back-to-top').removeClass('show');
-                                                                }
-                                                        };
-                                                        backToTop();
-                                                        $(window).on('scroll', function() {
-                                                                backToTop();
-                                                        });
-                                                        $('#back-to-top').on('click', function(e) {
-                                                                e.preventDefault();
-                                                                $('html,body').animate({
-                                                                        scrollTop: 0
-                                                                }, 700);
-                                                        });
+                    </div>
+                </div>
+                                <script src="http://www.dialyou.com/assets/js/jquery.validate.min.js"></script>
+                <script src="http://www.dialyou.com/assets/js/front-custom.min.js?v=111111117"></script>
+                                <script type="text/javascript">
+                        $(document).ready(function(){// hide #back-top first
+                                $("#back-top").hide();// fade in #back-top
+                                $(function () {
+                                        $(window).scroll(function () {
+                                                if ($(this).scrollTop() > 100) {
+                                                        $('#back-top').fadeIn();
+                                                } else {
+                                                        $('#back-top').fadeOut();
                                                 }
-                </script>
-                <script type="text/javascript">
-                        $(document).ready(function() {
+                                        });
+                                        // scroll body to 0px on click
+                                        $('#back-top a').click(function () {
+                                                $('body,html').animate({ scrollTop: 0}, 800);
+                                                return false;
+                                        });
+                                });
+                        });
+                                                $(document).ready(function() {
                                 $('#subscribeFrm').validate({
                                         rules: {
                                                 emailsub: {
                                                         required: true,
-                                                        email: true,
+                                                        email: true
                                                 }
                                         },
                                         messages: {
@@ -372,7 +574,28 @@ If you have query or concern about these privacy policies; please send us an ema
                                                 $.post("/savesubscribe.php", {email: $('#emailsub').val()},
                                                 function(data) {
                                                         if (data == 'yes') {
-                                                                $('#subscribesuccess').html('Your email submited successfully...');
+                                                                // verify aweber
+                                                                //window.open('http://www.dialyou.com/verify-by-aweber.php?name=DIALYOU&email='+$('#emailsub').val(),'_blank');
+                                                                $('#subscribesuccess').html('Your email Subscribe successfully.');
+                                                                setTimeout(function() {
+                                                                        $('#subscribesuccess').fadeOut('slow');
+                                                                        $("#mailsbs").css("display", "block");
+                                                                        $("#emailsub").val('');
+                                                                }, 2500);
+                                                                /* Send request for newsletter server */
+                                                                regEmail = encodeURIComponent($('#emailsub').val());
+                                                                var sendData = "email="+regEmail+"&list%5B2%5D=signup&subscribe=Subscribe+to+the+selected+newsletters";
+                                                                $.ajax({
+                                                                    type: 'POST',
+                                                                    data: sendData,
+                                                                    url: 'http://newsletter.justdialyou.com/lists/?p=subscribe&id=2',
+                                                                    success: function(msg) {
+                                                                        //Done
+                                                                    }
+                                                                });
+                                                        }
+                                                        else {
+                                                                $('#subscribesuccess').html('Thanks, you are already subscribed.');
                                                                 setTimeout(function() {
                                                                         $('#subscribesuccess').fadeOut('slow');
                                                                         $("#mailsbs").css("display", "block");
@@ -384,12 +607,5 @@ If you have query or concern about these privacy policies; please send us an ema
                                 });
                         });
                 </script>
-                <style type="text/css">
-                        label.error{
-                                font-size:11px;
-                                color:#FF0000;
-                                font-weight:normal;
-                        }
-                </style>
         
 </body></html>
