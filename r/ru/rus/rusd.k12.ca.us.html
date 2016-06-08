@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the rusd.k12.ca.us privacy policy that was archived on 2015-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626101539id_/http%3A//www.schoolwires.com/policies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rusd.k12.ca.us privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608124742id_/http%3A//www.schoolwires.com/policies) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"><html lang="en"><head>
-    <title>Privacy policy / Privacy policy</title>
+    <title>
+        Privacy policy / Privacy policy</title>
     <!--
     <PageMap>
     <DataObject type="document">
@@ -11,11 +12,11 @@
     </PageMap>
     -->
 
-
+    
     
     <!-- Begin swuc.GlobalJS -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580502300000/273815.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
- staticURL = "http://www.schoolwires.com/Static/V2_10_01/";
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580460900000/273815.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+ staticURL = "http://www.schoolwires.com/Static/V2_13_01/";
  SessionTimeout = "0";
 </script>
 <!-- End swuc.GlobalJS -->
@@ -23,26 +24,34 @@
     
     <!-- Stylesheets -->
 
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_10_01/App_Themes/SW/jquery.jgrowl.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_10_01//site/assets/styles/system.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_10_01//site/assets/styles/apps.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_10_01/App_Themes/SW/jQueryUI.css">
-    
-    
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_13_01/GlobalAssets/webfonts/OpenSans-Light.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_13_01/GlobalAssets/webfonts/OpenSans-Italic.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_13_01/GlobalAssets/webfonts/OpenSans-Regular.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_13_01/GlobalAssets/webfonts/OpenSans-SemiBold.css">
+    <link rel="Stylesheet" type="text/css" href="/Content/shepherd/shepherd-theme-default.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_13_01/App_Themes/SW/jquery.jgrowl.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_13_01//site/assets/styles/system.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_13_01//site/assets/styles/apps.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_13_01/App_Themes/SW/jQueryUI.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_13_01/GlobalAssets/webfonts/SchoolwiresMobile.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_13_01//site/assets/styles/dashboard.css">
+
     <!-- Scripts -->
     
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/min/jquery-migrate-1.2.1.js" type="text/javascript"></script>
-
+    <script src="http://www.schoolwires.com/Static/V2_13_01/GlobalAssets/Scripts/min/jquery-migrate-1.2.1.js" type="text/javascript"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script>
+    <script src="/Scripts/tether.min.js" type="text/javascript"></script>
+    <script src="/Scripts/shepherd/shepherd.min.js" type="text/javascript"></script>
+
 
     
 
    <!--  -->
     
 <script type="text/javascript">
-    $(document).ready(function() {
+        $(document).ready(function () {
         SetCookie('SWScreenWidth', screen.width);
         SetCookie('SWClientWidth', document.body.clientWidth);
 
@@ -56,17 +65,31 @@
 
         $("div.ui-article:last").addClass("last-article");
         $("div.region .app:last").addClass("last-app");
-    });
+       
+        // get on screen alerts
+            var isAnyActiveOSA = 'False';
+        var onscreenAlertCookie = GetCookie('Alerts');
 
+        if (onscreenAlertCookie == '' || onscreenAlertCookie == undefined) {
+            onscreenAlertCookie = "";
+        }
+            if (isAnyActiveOSA == 'True') {
+        GetContent(homeURL + "/cms/Tools/OnScreenAlerts/UserControls/OnScreenAlertDialogListWrapper.aspx?OnScreenAlertCookie=" + onscreenAlertCookie + "&SiteID=4", "onscreenalert-holder", 2, "OnScreenAlertCheckListItem();");
+            }
+
+            
+
+    });
+   
     // ADA SKIP NAV
-    $(document).ready(function() {
-        $(document).on('focus', '#skipLink', function() {
+    $(document).ready(function () {
+        $(document).on('focus', '#skipLink', function () {
             $("div.sw-skipnav-outerbar").animate({
                 marginTop: "0px"
             }, 500);
         });
 
-        $(document).on('blur', '#skipLink', function() {
+        $(document).on('blur', '#skipLink', function () {
             $("div.sw-skipnav-outerbar").animate({
                 marginTop: "-30px"
             }, 500);
@@ -84,7 +107,7 @@
         // my account dropdown
         $(top_level_nav).next('ul').find('a').attr('tabIndex', -1);
  
-        $(top_level_nav).focus(function() {
+        $(top_level_nav).focus(function () {
             // hide open menus
             hideMyStartBarMenu();
  
@@ -101,7 +124,7 @@
         });
  
         // Bind arrow keys for navigation
-        $(top_level_nav).keydown(function(e) {
+        $(top_level_nav).keydown(function (e) {
             if (e.keyCode == 37) { //key left
                 e.preventDefault();
 
@@ -111,7 +134,7 @@
                 } else {
                     $(this).prev('.sw-mystart-nav').focus();
                 }
-            } else if(e.keyCode == 38) { //key up
+            } else if (e.keyCode == 38) { //key up
                 e.preventDefault();
 
                 // show school dropdown
@@ -123,7 +146,7 @@
                 if ($(this).find('ul').length > 0) {
                     $(this).find('ul.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).last().focus();
                 }
-            } else if(e.keyCode == 39) { //key right
+            } else if (e.keyCode == 39) { //key right
                 e.preventDefault();
 
                 // This is the last item
@@ -132,7 +155,7 @@
                 } else {
                     $(this).next('.sw-mystart-nav').focus();
                 }
-            } else if(e.keyCode == 40) { //key down
+            } else if (e.keyCode == 40) { //key down
                 e.preventDefault();
 
                 // show school dropdown
@@ -144,7 +167,7 @@
                 if ($(this).next('ul').length > 0) {
                     $(this).next('ul.sw-dropdown').css('display', 'block').attr('aria-hidden', 'false').find('a').attr('tabIndex', 0).first().focus();
                 }
-            } else if(e.keyCode == 13 || e.keyCode == 32) { //enter key
+            } else if (e.keyCode == 13 || e.keyCode == 32) { //enter key
                 // If submenu is hidden, open it
                 e.preventDefault();
 
@@ -153,8 +176,8 @@
                 e.preventDefault();
                 hideMyStartBarMenu();
             } else {
-                $(this).parent('.sw-mystart-nav').find('ul[aria-hidden=false] a').each(function() {
-                    if ($(this).text().substring(0,1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                $(this).parent('.sw-mystart-nav').find('ul[aria-hidden=false] a').each(function () {
+                    if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
                         $(this).focus();
                         return false;
                     }
@@ -171,7 +194,7 @@
         bindMyStartBarLinks(myaccountlinks);
  
         function bindMyStartBarLinks(links) {
-            $(links).keydown(function(e) {
+            $(links).keydown(function (e) {
                 e.stopPropagation();
 
                 if (e.keyCode == 38) { //key up
@@ -209,7 +232,7 @@
                 } else {
                     var found = false;
 
-                    $(this).parent('div').nextAll('li').find('a').each(function() {
+                    $(this).parent('div').nextAll('li').find('a').each(function () {
                         if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
                             $(this).focus();
                             found = true;
@@ -218,7 +241,7 @@
                     });
                    
                     if (!found) {
-                        $(this).parent('div').prevAll('li').find('a').each(function() {
+                        $(this).parent('div').prevAll('li').find('a').each(function () {
                             if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
                                 $(this).focus();
                                 return false;
@@ -230,7 +253,7 @@
         }
  
         // Hide menu if click or focus occurs outside of navigation
-        $('#sw-mystart-inner').find('.sw-mystart-nav').last().keydown(function(e) { 
+        $('#sw-mystart-inner').find('.sw-mystart-nav').last().keydown(function (e) {
             if (e.keyCode == 9) {
                 // If the user tabs out of the navigation hide all menus
                 hideMyStartBarMenu();
@@ -242,40 +265,40 @@
         });*/
 
         // try to capture as many custom MyStart bars as possible
-        $('.sw-mystart-button').find('a').focus(function() {
+        $('.sw-mystart-button').find('a').focus(function () {
             hideMyStartBarMenu();
         });
        
-        $('#sw-mystart-inner').click(function(e) {
+        $('#sw-mystart-inner').click(function (e) {
             e.stopPropagation();
         });
 
-        $('ul.sw-dropdown-list').blur(function() {
+        $('ul.sw-dropdown-list').blur(function () {
             hideMyStartBarMenu();
         });
 
-        $('#ui-btn-mypasskey').focus(function() {
+        $('#ui-btn-mypasskey').focus(function () {
             hideMyStartBarMenu();
         });
 
-        $('#ui-btn-sitemanager').focus(function() {
+        $('#ui-btn-sitemanager').focus(function () {
             hideMyStartBarMenu();
         });
 
-        $('#ui-btn-myview').focus(function() {
+        $('#ui-btn-myview').focus(function () {
             hideMyStartBarMenu();
         });
 
-        $('#ui-btn-signin').focus(function() {
+        $('#ui-btn-signin').focus(function () {
             hideMyStartBarMenu();
         });
 
-        $('#ui-btn-register').focus(function() {
+        $('#ui-btn-register').focus(function () {
             hideMyStartBarMenu();
         });
 
         // button click events
-        $('div.sw-mystart-button.home a').keydown(function(e) {
+        $('div.sw-mystart-button.home a').keydown(function (e) {
             e.stopImmediatePropagation();
 
             if (e.keyCode == 13) {
@@ -283,7 +306,7 @@
             }
         });
 
-        $('div.sw-mystart-button.pw a').keydown(function(e) {
+        $('div.sw-mystart-button.pw a').keydown(function (e) {
             e.stopImmediatePropagation();
 
             if (e.keyCode == 13) {
@@ -291,7 +314,7 @@
             }
         });
 
-        $('div.sw-mystart-button.manage a').keydown(function(e) {
+        $('div.sw-mystart-button.manage a').keydown(function (e) {
             e.stopImmediatePropagation();
 
             if (e.keyCode == 13) {
@@ -299,7 +322,7 @@
             }
         });
 
-        $('#sw-mystart-account').keydown(function(e) {
+        $('#sw-mystart-account').keydown(function (e) {
             e.stopImmediatePropagation();
 
             if (e.keyCode == 13) {
@@ -308,7 +331,7 @@
             }
         });
 
-        $('#sw-mystart-mypasskey a').keydown(function(e) {
+        $('#sw-mystart-mypasskey a').keydown(function (e) {
             e.stopImmediatePropagation();
 
             if (e.keyCode == 13) {
@@ -316,7 +339,7 @@
             }
         });
 
-        $('div.sw-mystart-button.signin a').keydown(function(e) {
+        $('div.sw-mystart-button.signin a').keydown(function (e) {
             e.stopImmediatePropagation();
 
             if (e.keyCode == 13) {
@@ -324,7 +347,7 @@
             }
         });
 
-        $('div.sw-mystart-button.register a').keydown(function(e) {
+        $('div.sw-mystart-button.register a').keydown(function (e) {
             e.stopImmediatePropagation();
 
             if (e.keyCode == 13) {
@@ -339,26 +362,26 @@
     }
 
     // ADA CHANNEL NAV
-    $(document).ready(function() {
+    $(document).ready(function () {
         var settings = {
             menuHoverClass: 'hover'
         };
 
         // Add ARIA role to menubar and menu items
-        $('#channel-navigation').attr('role', 'menubar').find('li').attr('role', 'menuitem');
+        $('[id="channel-navigation"]').attr('role', 'menubar').find('li').attr('role', 'menuitem');
 
-        var top_level_links = $('#channel-navigation').find('> li > a');
+        var top_level_links = $('[id="channel-navigation"]').find('> li > a');
 
         // Set tabIndex to -1 so that top_level_links can't receive focus until menu is open
         $(top_level_links).next('ul').attr({ 'aria-hidden': 'true', 'role': 'menu' }).find('a').attr('tabIndex', -1);
 
         // Adding aria-haspopup for appropriate items
-        $(top_level_links).each(function() {
+        $(top_level_links).each(function () {
             if ($(this).next('ul').length > 0)
                 $(this).parent('li').attr('aria-haspopup', 'true');
         });
 
-        $(top_level_links).focus(function() {
+        $(top_level_links).focus(function () {
             //hide open menus
             hideChannelMenu();
 
@@ -368,7 +391,7 @@
         });
 
         // Bind arrow keys for navigation
-        $(top_level_links).keydown(function(e) {
+        $(top_level_links).keydown(function (e) {
             if (e.keyCode == 37) { //key left
                 e.preventDefault();
 
@@ -413,7 +436,7 @@
                 e.preventDefault();
                 hideChannelMenu();
             } else {
-                $(this).parent('li').find('ul[aria-hidden=false] a').each(function() {
+                $(this).parent('li').find('ul[aria-hidden=false] a').each(function () {
                     if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
                         $(this).focus();
                         return false;
@@ -424,7 +447,7 @@
 
         var links = $(top_level_links).parent('li').find('ul').find('a');
 
-        $(links).keydown(function(e) {
+        $(links).keydown(function (e) {
             if (e.keyCode == 38) {
                 e.preventDefault();
 
@@ -452,7 +475,7 @@
             } else {
                 var found = false;
 
-                $(this).parent('li').nextAll('li').find('a').each(function() {
+                $(this).parent('li').nextAll('li').find('a').each(function () {
                     if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
                         $(this).focus();
                         found = true;
@@ -461,7 +484,7 @@
                 });
 
                 if (!found) {
-                    $(this).parent('li').prevAll('li').find('a').each(function() {
+                    $(this).parent('li').prevAll('li').find('a').each(function () {
                         if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
                             $(this).focus();
                             return false;
@@ -476,14 +499,14 @@
         }
 
         // Hide menu if click or focus occurs outside of navigation
-        $('#channel-navigation').find('a').last().keydown(function(e) {
+        $('[id="channel-navigation"]').find('a').last().keydown(function (e) {
             if (e.keyCode == 9) {
                 // If the user tabs out of the navigation hide all menus
                 hideChannelMenu();
             }
         });
 
-        $('#channel-navigation').find('a').first().keydown(function(e) {
+        $('[id="channel-navigation"]').find('a').first().keydown(function (e) {
             if (e.keyCode == 9) {
                 // hide open MyStart Bar menus
                 hideMyStartBarMenu();
@@ -494,7 +517,7 @@
             hideChannelMenu();
         });*/
 
-        $('#channel-navigation').click(function(e) {
+        $('[id="channel-navigation"]').click(function (e) {
             e.stopPropagation();
         });
     });
@@ -4317,7 +4340,7 @@ ga('send', 'pageview');
 		/* HOMEPAGE EDIT THUMBNAIL STYLES */
 		
 		div.region {
-		    
+            ;
 		}
 		
 		div.region span.homepage-thumb-region-number {
@@ -4332,33 +4355,43 @@ ga('send', 'pageview');
 		    padding: 40px 0 40px 0;
 		    display: block;
 		}
+
 		div.homepage-thumb-region.region-1 {
 		    background: #264867; /*dark blue*/
 		}
+
 		div.homepage-thumb-region.region-2 {
 		    background: #5C1700; /*dark red*/
 		}
+
 		div.homepage-thumb-region.region-3 {
 		    background: #335905; /*dark green*/
 		}
+
 		div.homepage-thumb-region.region-4 {
 		    background: #B45014; /*dark orange*/
 		}
+
 		div.homepage-thumb-region.region-5 {
 		    background: #51445F; /*dark purple*/
 		}
+
 		div.homepage-thumb-region.region-6 {
 		    background: #3B70A0; /*lighter blue*/
 		}
+
 		div.homepage-thumb-region.region-7 {
 		    background: #862200; /*lighter red*/
 		}
+
 		div.homepage-thumb-region.region-8 {
 		    background: #417206; /*lighter green*/
 		}
+
 		div.homepage-thumb-region.region-9 {
 		    background: #D36929; /*lighter orange*/
 		}
+
 		div.homepage-thumb-region.region-10 {
 		    background: #6E5C80; /*lighter purple*/
 		}
@@ -4406,10 +4439,14 @@ ga('send', 'pageview');
     
 <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
 <body>
+   
+    <!-- OnScreen Alert Dialog Start -->
+    <div id="onscreenalert-holder"></div>
+    <!-- OnScreen Alert Dialog End -->
 
     <!-- ADA Skip Nav -->
     <div class="sw-skipnav-outerbar">
-        <a href="#sw-maincontent" id="skipLink" class="sw-skipnav">Skip to Main Content</a>
+        <a href="#sw-maincontent" id="skipLink" class="sw-skipnav" tabindex="1">Skip to Main Content</a>
     </div>
 
 <!-- off-canvas menu enabled-->
@@ -4420,7 +4457,7 @@ ga('send', 'pageview');
 <style type="text/css">
 	/* SPECIAL MODE BAR */
 	div.sw-special-mode-bar {
-		background: #FBC243 url('http://www.schoolwires.com/Static/V2_10_01//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
+		background: #FBC243 url('http://www.schoolwires.com/Static/V2_13_01//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
 		height: 30px;
 		text-align: left;
 		font-size: 12px;
@@ -4495,7 +4532,7 @@ window.location.href="http://www.schoolwires.com/site/Default.aspx?PageType=6&Si
 }
 </script>
 <input id="sw-search-input" type="text" title="Type the word to search for and click Search." placeholder="Search this Site...">
-<a tabindex="0" id="sw-search-button" onclick="SWGoToSearchResultsPageswsearchinput();"><span><img src="http://www.schoolwires.com/Static/V2_10_01//globalassets/images/sw-mystart-search.png" alt="Search"></span></a>
+<a tabindex="0" id="sw-search-button" onclick="SWGoToSearchResultsPageswsearchinput();"><span><img src="http://www.schoolwires.com/Static/V2_13_01//globalassets/images/sw-mystart-search.png" alt="Search"></span></a>
 </div>
 <div class="clear"></div>
 </div>
@@ -5001,7 +5038,6 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <li class=""><a href="/domain/98"><span>Outreach – family notification suite</span></a></li>
 <li class=""><a href="/domain/75"><span>Nimbus – social &amp; collaborative learning</span></a></li>
 <li class=""><a href="/domain/76"><span>Synergy – file sharing system</span></a></li>
-<li class=""><a href="/domain/77"><span>Assist – service request system</span></a></li>
 <li class=""><a href="/domain/78"><span>Greenleaf – virtual exchange program</span></a></li>
 </ul>
 </li><li class="sw-channel-item ">
@@ -5112,14 +5148,14 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <div id="sw-footer-right">
 <div id="sw-footer-links">
 <ul>
-<li><a title="Click to email the primary contact" href="mailto:rob.madgwick@schoolwires.com">Questions or Feedback?</a> | </li>
-<li><a href="http://www.schoolwires.com/privacy" target="_blank">Schoolwires Privacy Policy (Updated)</a> | </li>
+<li><a title="Click to email the primary contact" href="mailto:rob.madgwick@blackboard.com">Questions or Feedback?</a> | </li>
+<li><a href="http://www.schoolwires.com/privacy" target="_blank">Blackboard Schoolwires Privacy Policy (Updated)</a> | </li>
 <li><a href="http://www.schoolwires.com/terms" target="_blank">Terms of Use</a></li>
 </ul>
 </div>
-<div id="sw-footer-copyright">Copyright © 2002-2015 Schoolwires, Inc. All rights reserved.</div>
-<div id="sw-footer-logo"><a href="http://www.schoolwires.com" title="This site is powered by Schoolwires Centricity2.">
-<img src="http://www.schoolwires.com/Static/V2_10_01//GlobalAssets/Images/sw-footer-logo.png" alt="Powered by Schoolwires Centricity2 logo">
+<div id="sw-footer-copyright">Copyright © 2002-2016 Blackboard, Inc. All rights reserved.</div>
+<div id="sw-footer-logo"><a href="http://www.schoolwires.com" title="This site is powered by Schoolwires.">
+<img src="http://www.schoolwires.com/Static/V2_13_01//GlobalAssets/Images/sw-footer-logo.png" alt="Powered by Schoolwires logo">
 </a></div>
 </div>
 </div>
@@ -5127,7 +5163,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <!-- END - STANDARD FOOTER -->
 <script type="text/javascript">
    $(document).ready(function(){
-      var beaconURL='http://analytics.schoolwires.com/analytics.asmx/Insert?AccountNumber=46N0TcY8aaqpNwzcY55gRw%3d%3d&SessionID=732b75f3-df05-406c-9914-d61967bbe195&SiteID=4&ChannelID=53&SectionID=90&PageID=345&HitDate=6%2f26%2f2015+6%3a15%3a39+AM&Browser=Mozilla+0.0&OS=Unknown&IPAddress=207.241.237.211';
+      var beaconURL='http://analytics.schoolwires.com/analytics.asmx/Insert?AccountNumber=46N0TcY8aaqpNwzcY55gRw%3d%3d&SessionID=99519167-2d01-4fbc-a4c1-4187bb8a06cb&SiteID=4&ChannelID=53&SectionID=90&PageID=345&HitDate=6%2f8%2f2016+8%3a47%3a42+AM&Browser=Unknown+0.0&OS=Unknown&IPAddress=204.236.235.245';
       try {
          $.getJSON(beaconURL + '&jsonp=?', function(myData) {});
       } catch(err) { 
@@ -5138,10 +5174,10 @@ function LoadTaggedData(container, MIID, PMI, tag) {
   
     <input type="hidden" id="hid-pageid" value="345">  
  
+    
 
 
-
-<div id="dialog-overlay-WindowMedium-base" class="ui-dialog-overlay-base"><div id="WindowMedium" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close" title="Close." onclick="CloseDialogOverlay(&quot;WindowMedium&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowMedium-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowMedium-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowMedium-footer"></div></div></div>
+    <div id="dialog-overlay-WindowMedium-base" class="ui-dialog-overlay-base"><div id="WindowMedium" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close" title="Close." onclick="CloseDialogOverlay(&quot;WindowMedium&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowMedium-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowMedium-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowMedium-footer"></div></div></div>
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -5150,7 +5186,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 		
     });
 </script>
-<div id="dialog-overlay-WindowSmall-base" class="ui-dialog-overlay-base"><div id="WindowSmall" class="ui-dialog-overlay small"><div class="ui-dialog-overlay-close" title="Close." onclick="CloseDialogOverlay(&quot;WindowSmall&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowSmall-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowSmall-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowSmall-footer"></div></div></div>
+    <div id="dialog-overlay-WindowSmall-base" class="ui-dialog-overlay-base"><div id="WindowSmall" class="ui-dialog-overlay small"><div class="ui-dialog-overlay-close" title="Close." onclick="CloseDialogOverlay(&quot;WindowSmall&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowSmall-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowSmall-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowSmall-footer"></div></div></div>
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -5159,7 +5195,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 		
     });
 </script>
-<div id="dialog-overlay-WindowLarge-base" class="ui-dialog-overlay-base"><div id="WindowLarge" class="ui-dialog-overlay large"><div class="ui-dialog-overlay-close" title="Close." onclick="CloseDialogOverlay(&quot;WindowLarge&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowLarge-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowLarge-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowLarge-footer"></div></div></div>
+    <div id="dialog-overlay-WindowLarge-base" class="ui-dialog-overlay-base"><div id="WindowLarge" class="ui-dialog-overlay large"><div class="ui-dialog-overlay-close" title="Close." onclick="CloseDialogOverlay(&quot;WindowLarge&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowLarge-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowLarge-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowLarge-footer"></div></div></div>
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -5169,7 +5205,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     });
 </script>
 
-<div id="dialog-overlay-WindowMediumModal-base" class="ui-dialog-overlay-base-modal"><div id="WindowMediumModal" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;WindowMediumModal&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowMediumModal-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowMediumModal-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowMediumModal-footer"></div></div></div>
+    <div id="dialog-overlay-WindowMediumModal-base" class="ui-dialog-overlay-base-modal"><div id="WindowMediumModal" class="ui-dialog-overlay medium"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;WindowMediumModal&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowMediumModal-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowMediumModal-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowMediumModal-footer"></div></div></div>
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -5178,7 +5214,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 		
     });
 </script>
-<div id="dialog-overlay-WindowSmallModal-base" class="ui-dialog-overlay-base-modal"><div id="WindowSmallModal" class="ui-dialog-overlay small"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;WindowSmallModal&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowSmallModal-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowSmallModal-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowSmallModal-footer"></div></div></div>
+    <div id="dialog-overlay-WindowSmallModal-base" class="ui-dialog-overlay-base-modal"><div id="WindowSmallModal" class="ui-dialog-overlay small"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;WindowSmallModal&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowSmallModal-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowSmallModal-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowSmallModal-footer"></div></div></div>
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -5187,7 +5223,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 		
     });
 </script>
-<div id="dialog-overlay-WindowLargeModal-base" class="ui-dialog-overlay-base-modal"><div id="WindowLargeModal" class="ui-dialog-overlay large"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;WindowLargeModal&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowLargeModal-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowLargeModal-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowLargeModal-footer"></div></div></div>
+    <div id="dialog-overlay-WindowLargeModal-base" class="ui-dialog-overlay-base-modal"><div id="WindowLargeModal" class="ui-dialog-overlay large"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;WindowLargeModal&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowLargeModal-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowLargeModal-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowLargeModal-footer"></div></div></div>
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -5196,7 +5232,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 		
     });
 </script>
-<div id="dialog-overlay-WindowXLargeModal-base" class="ui-dialog-overlay-base-modal"><div id="WindowXLargeModal" class="ui-dialog-overlay xlarge"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;WindowXLargeModal&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowXLargeModal-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowXLargeModal-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowXLargeModal-footer"></div></div></div>
+    <div id="dialog-overlay-WindowXLargeModal-base" class="ui-dialog-overlay-base-modal"><div id="WindowXLargeModal" class="ui-dialog-overlay xlarge"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;WindowXLargeModal&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-WindowXLargeModal-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-WindowXLargeModal-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-WindowXLargeModal-footer"></div></div></div>
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -5216,7 +5252,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     });
 </script>
 
-<div id="dialog-overlay-InsertOverlay-base" class="ui-dialog-overlay-base-modal"><div id="InsertOverlay" class="ui-dialog-overlay large"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;InsertOverlay&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-InsertOverlay-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-InsertOverlay-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-InsertOverlay-footer"></div></div></div>
+    <div id="dialog-overlay-InsertOverlay-base" class="ui-dialog-overlay-base-modal"><div id="InsertOverlay" class="ui-dialog-overlay large"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;InsertOverlay&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-InsertOverlay-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-InsertOverlay-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-InsertOverlay-footer"></div></div></div>
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -5225,7 +5261,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 		
     });
 </script>
-<div id="dialog-overlay-InsertOverlay2-base" class="ui-dialog-overlay-base-modal"><div id="InsertOverlay2" class="ui-dialog-overlay large"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;InsertOverlay2&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-InsertOverlay2-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-InsertOverlay2-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-InsertOverlay2-footer"></div></div></div>
+    <div id="dialog-overlay-InsertOverlay2-base" class="ui-dialog-overlay-base-modal"><div id="InsertOverlay2" class="ui-dialog-overlay large"><div class="ui-dialog-overlay-close modal" title="Close." onclick="CloseDialogOverlay(&quot;InsertOverlay2&quot;);"></div><div class="ui-dialog-overlay-title-bar" id="dialog-overlay-InsertOverlay2-title-bar"></div><div class="ui-dialog-overlay-body" id="dialog-overlay-InsertOverlay2-body"></div><div class="ui-dialog-overlay-footer" id="dialog-overlay-InsertOverlay2-footer"></div></div></div>
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -5234,16 +5270,122 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 		
     });
 </script>
+    
+    <style type="text/css">
+    #videowrapper {
+        position: fixed;
+        z-index: 20000;
+        background: rgba(0, 0, 0, 0.5) none repeat scroll 0% 0%;
+        top: 0px;
+        bottom: 0px;
+        left: 0px;
+        right: 0px;
+    }
+    #videodialog {
+        position: absolute;
+        top: 50px;
+        left: 50px;
+        right: 50px;
+        background: #FFF none repeat scroll 0% 0%;
+        z-index: 30000;
+        box-shadow: 0px 0px 23px rgba(0, 0, 0, 0.65);
+        box-sizing: border-box;
+        border: 8px solid #FFF;
+    }
 
+    #videodialog .close-btn {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        padding: 0px 25px 0px 0px;
+        color: #666;
+        line-height: 1;
+        font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
+        font-size: 14px;
+        cursor: pointer;
+    }
 
+    #videodialog .close-btn::after {
+        content: "X";
+        width: 16px;
+        height: 16px;
+        position: absolute;
+        top: 50%;
+        right: 0px;
+        margin-top: -8px;
+        background: #999 none repeat scroll 0% 0%;
+        border-radius: 9px;
+        color: #FFF;
+        font-weight: bold;
+        line-height: 16px;
+        font-size: 9px;
+        text-align: center;
+    }
+        #videodialog-video {
+            margin-top:25px;
+        }
+    </style>
+    <script type="text/javascript">
+        function resizeVideoIframe() {
+            $("#videodialog-video iframe").css({ "width": "auto", "height": "auto" });
+            var screenWidth = $(window).width();
+            var screenHeight = $(window).height();
+            //alert('screen width =' + screenWidth + '  screen height=' + screenHeight);
+            var initVidW = 800, initVidH = 600;
+            var vidRatio = initVidH / initVidW;
+            var vidWidth = $("#videodialog-video").width();
+            //alert('videoWidth = ' +vidWidth);
+            var vidHeight = vidWidth * vidRatio;
+
+            if ((vidHeight + 100) > screenHeight) {
+                vidHeight = screenHeight - 140;
+            }
+
+            $("#videodialog-video").css({ "height": (vidHeight) });
+            $("#videodialog-video iframe").css({ "width": vidWidth, "height": vidHeight }); 
+        }
+
+        function resizeVideo() {
+            $("#videodialog-video video").css({ "width": "auto", "height": "auto" });
+            var screenWidth = $(window).width();
+            var screenHeight = $(window).height();
+            //alert('screen width =' + screenWidth + '  screen height=' + screenHeight);
+            var initVidW = 800, initVidH = 600;
+            var vidRatio = initVidH / initVidW;
+            var vidWidth = $("#videodialog-video").width();
+            //alert('videoWidth = ' +vidWidth);
+            var vidHeight = vidWidth * vidRatio;
+
+            if ((vidHeight + 100) > screenHeight) {
+                vidHeight = screenHeight - 140;
+            }
+
+            $("#videodialog-video").css({ "height": (vidHeight) });
+            $("#videodialog-video video").css({ "width": vidWidth, "height": vidHeight });
+            //$(".videoControl").css({ "bottom": $("#videodialog-video video").bottom() + 5, "width": 100 });
+        }
+
+        function closeVideoDialog() {
+            $('#videowrapper').addClass('ui-helper-hidden');
+            $('#videodialog-video').html('');
+            $(window).resize(function () { });
+        }
+    </script>
+    <div id="videowrapper" class="ui-helper-hidden">
+        <div id="videodialog">
+            <div id="videodialog-close" class="close-btn" onclick="closeVideoDialog();">CLOSE</div>
+            <div id="videodialog-video"></div>
+        </div>
+    </div>
     <script type="text/javascript">
 
-		$(document).ready(function() {
+        $(document).ready(function () {
+
 			removeBrokenImages();
 			checkSidebar();
 			RemoveCookie();
 			
-			$('.navigation li.collapsible').each(function() {
+            $('.navigation li.collapsible').each(function () {
 			    if ($(this).find('ul').length == 0) {
 			        $(this).removeClass('collapsible');
 			    } 
@@ -5252,14 +5394,14 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 			// find page nav state cookie and add open chevron
 			var arrValues = GetCookie('SWPageNavState').split('~');
 
-			$.each(arrValues, function() {
+            $.each(arrValues, function () {
 				if (this != '') {
 					$('#' + this).addClass('collapsible').prepend("<div class='bullet collapsible' />");
 				}
 			});
 
 			// find remaining sub menus and add closed chevron and close menu
-			$('.navigation li > ul').each(function() {
+            $('.navigation li > ul').each(function () {
 			    var list = $(this);
 			    
 			    if (list.parent().hasClass('active') && !list.parent().hasClass('collapsible')) {
@@ -5283,74 +5425,74 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 			});
 			
 			// remove bullet from hierarchy if no-bullet set
-			$('.navigation li.collapsible').each(function() {
+            $('.navigation li.collapsible').each(function () {
 			    if ($(this).hasClass('no-bullet')) {
-			        if (!$(this).hasClass('navigationgroup')) {$(this).removeClass('collapsible');}
+                    if (!$(this).hasClass('navigationgroup')) { $(this).removeClass('collapsible'); }
 			        $(this).children('div.collapsible').remove();
 			    }
 			});
 
-			$('.navigation li.expandable').each(function() {
+            $('.navigation li.expandable').each(function () {
 			    if ($(this).hasClass('no-bullet')) {
-			        if (!$(this).hasClass('navigationgroup')) {$(this).removeClass('expandable');}
+                    if (!$(this).hasClass('navigationgroup')) { $(this).removeClass('expandable'); }
 			        $(this).children('div.expandable').remove();
 			    }
 			});
 			
-			$('.navigation li:not(.collapsible,.expandable,.no-bullet)').each(function() {
+            $('.navigation li:not(.collapsible,.expandable,.no-bullet)').each(function () {
 			    $(this).prepend("<div class='bullet' />");
 			});
 		
-			$('.navigation li.active').parents('ul').each(function() {
+            $('.navigation li.active').parents('ul').each(function () {
                 if (!$(this).hasClass('page-navigation')) {
                     OpenPageSubMenu($(this).parent());
                 }
             });
 		
 			// set click event for chevron
-            $(document).on('click', '.navigation div.collapsible', function() {
+            $(document).on('click', '.navigation div.collapsible', function () {
 				ClosePageSubMenu($(this).parent());
 			});
 
-            $(document).on('click', '.navigation div.expandable', function() {
+            $(document).on('click', '.navigation div.expandable', function () {
 				OpenPageSubMenu($(this).parent());
             });
             
             // set navigation grouping links
-            $(document).on('click', '.navigationgroup.collapsible > a', function() {
+            $(document).on('click', '.navigationgroup.collapsible > a', function () {
                 ClosePageSubMenu($(this).parent());
             });
 
-            $(document).on('click', '.navigationgroup.expandable > a', function() {
+            $(document).on('click', '.navigationgroup.expandable > a', function () {
                 OpenPageSubMenu($(this).parent());
             });				
 			
 			//SW MYSTART DROPDOWNS
-            $(document).on('click', '.sw-mystart-dropdown', function() {
+            $(document).on('click', '.sw-mystart-dropdown', function () {
                 $(this).children(".sw-dropdown").css("display", "block");
 			});
 
-		    $(".sw-mystart-dropdown").hover(function() {}, function() {
+            $(".sw-mystart-dropdown").hover(function () { }, function () {
 		        $(this).children(".sw-dropdown").hide();
 		        $(this).blur();
             });
 
 		    //SW ACCOUNT DROPDOWN
-		    $(document).on('click', '#sw-mystart-account', function() {
+            $(document).on('click', '#sw-mystart-account', function () {
 		        $(this).children("#sw-myaccount-list").show();
 		        $(this).addClass("clicked-state");
 		    });
 
-			$("#sw-mystart-account, #sw-myaccount-list").hover(function() {}, function() {
+            $("#sw-mystart-account, #sw-myaccount-list").hover(function () { }, function () {
 				$(this).children("#sw-myaccount-list").hide();
 				$(this).removeClass("clicked-state");
 				$("#sw-myaccount").blur();
 			});
 			   
 		   // set hover class for page and section navigation
-		   $('.ui-widget.app.pagenavigation, .ui-widget.app.sectionnavigation').find('li > a').hover(function() {
+            $('.ui-widget.app.pagenavigation, .ui-widget.app.sectionnavigation').find('li > a').hover(function () {
 		        $(this).addClass('hover');
-		   }, function() {
+            }, function () {
 		        $(this).removeClass('hover');
 		   });
 
@@ -5358,8 +5500,12 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 		
 		function OpenPageSubMenu(li) {
             if (li.prop('tagName').toLowerCase() == "li") {
-			    li.removeClass('expandable').addClass('collapsible');
-			    li.find('div:first').removeClass('expandable').addClass('collapsible');	
+                if (li.hasClass('expandable')) {  
+                    li.removeClass('expandable').addClass('collapsible');
+                }
+                if (li.find('div:first').hasClass('expandable')) {
+                    li.find('div:first').removeClass('expandable').addClass('collapsible');
+                }
 			    li.find('ul:first').show();
 
 			    PageNavigationStateCookie();
@@ -5379,9 +5525,9 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 		function PageNavigationStateCookie() {
 		    var strCookie = "";
 
-			$('.pagenavigation li > ul').each(function() {
+            $('.pagenavigation li > ul').each(function () {
 			    var item = $(this).parent('li');
-				if (item.hasClass('collapsible') && !item.hasClass('no-bullet')){
+                if (item.hasClass('collapsible') && !item.hasClass('no-bullet')) {
 					strCookie += $(this).parent().attr('id') + '~';
 				}
             });
@@ -5389,18 +5535,18 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 			SetCookie('SWPageNavState', strCookie);
 		}
 		
-		function checkSidebar(){
-		   $(".ui-widget-sidebar").each(function() {
-			   if($.trim($(this).html()) != ""){
+        function checkSidebar() {
+            $(".ui-widget-sidebar").each(function () {
+                if ($.trim($(this).html()) != "") {
 				   $(this).show();
 				   $(this).siblings(".ui-widget-detail").addClass("with-sidebar");
 			   } 
 		   });
         }
 
-		function removeBrokenImages(){
+        function removeBrokenImages() {
 		   //REMOVES ANY BROKEN IMAGES
-		    $("span.img img").each(function() {
+            $("span.img img").each(function () {
 		        if ($(this).attr("src") !== undefined) {
 		            $(this).parent().parent().show();
 		            $(this).parent().parent().siblings().addClass("has-thumb");
@@ -5463,9 +5609,9 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 	        }
 	    }
 
-	    $(document).ready(function() {
+        $(document).ready(function () {
 	        if ($("#sw-pg-sitenav-a").length > 0) {
-                $(document).on('click', '#sw-pg-sitenav-a', function() {
+                $(document).on('click', '#sw-pg-sitenav-a', function () {
 	                if ($("#sw-pg-sitenav-ul").hasClass('sw-pgmenu-closed')) {
 	                    AddOffCanvasMenuHeightForSiteNav();
 
@@ -5478,7 +5624,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 	                }
 	            });
 
-                $(document).on('click', '#sw-pg-selectschool-a', function() {
+                $(document).on('click', '#sw-pg-selectschool-a', function () {
 	                if ($("#sw-pg-selectschool-ul").hasClass('sw-pgmenu-closed')) {
 	                    AddOffCanvasMenuHeightForSelectSchool();
 
@@ -5491,7 +5637,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 	                }
 	            });
 
-                $(document).on('click', '#sw-pg-myaccount-a', function() {
+                $(document).on('click', '#sw-pg-myaccount-a', function () {
 	                if ($("#sw-pg-myaccount-ul").hasClass('sw-pgmenu-closed')) {
 	                    $("ul.sw-pgmenu-toplevel").removeClass('sw-pgmenu-open').addClass('sw-pgmenu-closed');
 	                    $("#sw-pg-myaccount-ul").removeClass('sw-pgmenu-closed');
@@ -5502,7 +5648,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 	                }
 	            });
 
-                $(document).on('click', '.pg-list-bullet', function() {
+                $(document).on('click', '.pg-list-bullet', function () {
 	                $(this).prev().toggle();
 
 	                if ($(this).hasClass('closed')) {
@@ -5516,42 +5662,42 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 	                }
 	            });
 
-                $(document).on('mouseover', '#sw-pg-selectschool', function() {
+                $(document).on('mouseover', '#sw-pg-selectschool', function () {
 	                $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseout').addClass('sw-pg-selectschool-firstli-mouseover');
 	                $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseover').removeClass('sw-pg-selectschool-firstli-a-mouseout');
 	            });
 
-                $(document).on('mouseout', '#sw-pg-selectschool', function() {
+                $(document).on('mouseout', '#sw-pg-selectschool', function () {
 	                $("#sw-pg-selectschool-firstli").removeClass('sw-pg-selectschool-firstli-mouseover').addClass('sw-pg-selectschool-firstli-mouseout');
 	                $("#sw-pg-selectschool-firstli a").addClass('sw-pg-selectschool-firstli-a-mouseout').removeClass('sw-pg-selectschool-firstli-a-mouseover');
 	            });
 
-                $(document).on('mouseover', '#sw-pg-myaccount', function() {
+                $(document).on('mouseover', '#sw-pg-myaccount', function () {
 	                $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseout').addClass('sw-pg-myaccount-firstli-mouseover');
 	                $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseover').removeClass('sw-pg-myaccount-firstli-a-mouseout');
 	            });
 
-                $(document).on('mouseout', '#sw-pg-myaccount', function() {
+                $(document).on('mouseout', '#sw-pg-myaccount', function () {
 	                $("#sw-pg-myaccount-firstli").removeClass('sw-pg-myaccount-firstli-mouseover').addClass('sw-pg-myaccount-firstli-mouseout');
 	                $("#sw-pg-myaccount-firstli a").addClass('sw-pg-myaccount-firstli-a-mouseout').removeClass('sw-pg-myaccount-firstli-a-mouseover');
 	            });
 
-                $(document).on('mouseover', '#sw-pg-sitenav', function() {
+                $(document).on('mouseover', '#sw-pg-sitenav', function () {
 	                $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseout').addClass('sw-pg-sitenav-firstli-mouseover');
 	                $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseover').removeClass('sw-pg-sitenav-firstli-a-mouseout');
 	            });
 
-                $(document).on('mouseout', '#sw-pg-sitenav', function() {
+                $(document).on('mouseout', '#sw-pg-sitenav', function () {
 	                $("#sw-pg-sitenav-firstli").removeClass('sw-pg-sitenav-firstli-mouseover').addClass('sw-pg-sitenav-firstli-mouseout');
 	                $("#sw-pg-sitenav-firstli a").addClass('sw-pg-sitenav-firstli-a-mouseout').removeClass('sw-pg-sitenav-firstli-a-mouseover');
 	            });
 
-                $(document).on('mouseover', '#sw-pg-district', function() {
+                $(document).on('mouseover', '#sw-pg-district', function () {
 	                $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseout').addClass('sw-pg-district-firstli-mouseover');
 	                $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseover').removeClass('sw-pg-district-firstli-a-mouseout');
 	            });
 
-                $(document).on('mouseout', '#sw-pg-district', function() {
+                $(document).on('mouseout', '#sw-pg-district', function () {
 	                $("#sw-pg-district-firstli").removeClass('sw-pg-district-firstli-mouseover').addClass('sw-pg-district-firstli-mouseout');
 	                $("#sw-pg-district-firstli a").addClass('sw-pg-district-firstli-a-mouseout').removeClass('sw-pg-district-firstli-a-mouseover');
 	            });
@@ -5562,24 +5708,29 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 </script>
     
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/min/SW-UI.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/Initialize.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/min/swfobject.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/min/jquery.ajaxupload.min.js" type="text/javascript"></script> 
+    <script src="http://www.schoolwires.com/Static/V2_13_01/GlobalAssets/Scripts/min/SW-UI.min.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_13_01/GlobalAssets/Scripts/jquery.sectionlayer.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_13_01/GlobalAssets/Scripts/Initialize.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_13_01/GlobalAssets/Scripts/min/swfobject.min.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_13_01/GlobalAssets/Scripts/min/jquery.ajaxupload.min.js" type="text/javascript"></script> 
 
 <!-- Begin swuc.CheckScript -->
-  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/ThirdParty/json2.js"></script>
-  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/CheckScript.js"></script>
+  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_13_01/GlobalAssets/Scripts/ThirdParty/json2.js"></script>
+  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_13_01/GlobalAssets/Scripts/CheckScript.js"></script>
 <!-- End swuc.CheckScript -->
 
 
-<!-- Server Load Time (01): 0.1093757 Seconds -->
+<!-- Server Load Time (01): 0.1474666 Seconds -->
 
-
+    
 
 <!-- off-canvas menu enabled-->
 
 
-<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","bam.nr-data.net","e84461d315","246869","Z1MEZEtSVkoFBxIKX14ZJ2NpHEtQEAFJB1VWVxNcTR1ZShQc",15,109,new Date().getTime(),"C66458FADF9F38F","","","",""]);</script>
 
+    <!-- DashBoard SideBar Start -->
+    
+    <!-- DashBoard SideBar End -->
+
+<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","bam.nr-data.net","e84461d315","246869","Z1MEZEtSVkoFBxIKX14ZJ2NpHEtQEAFJB1VWVxNcTR1ZShQc",2,155,new Date().getTime(),"75374E15147F1279","","","",""]);</script>
 <script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
