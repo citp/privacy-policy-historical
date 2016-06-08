@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingmyurl.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206131915id_/http%3A//www.pingmyurl.org/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingmyurl.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608145258id_/http%3A//www.pingmyurl.org/page/privacy) for the most accurate reproduction.*
 
 # Ping My URL Add My URL - FREE Website Submission Service
 
