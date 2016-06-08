@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midisite.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208105049id_/http%3A//www.midisite.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midisite.co.uk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608080736id_/http%3A//www.midisite.co.uk/privacy.html) for the most accurate reproduction.*
 
 # MIDIsite - MIDI Search Engine
 
