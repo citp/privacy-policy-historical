@@ -1,0 +1,620 @@
+<!--The following is the downloaded HTML source of the etenders.in privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608164107id_/http%3A//etenders.in/pages/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">    <link rel="icon" href="http://etenders.in/img/favicon.ico" type="image/gif">
+    <title>eTendering</title>
+    <meta name="description" content="Next generation procurement"><meta name="keywords" content="procurement, e-tendering, NexTenders, Next generation procurement, e-auction , e-Auction">
+    <link href="http://fonts.googleapis.com/css?family=Noticia+Text:400,700,400italic" rel="stylesheet" type="text/css">
+
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	<link rel="stylesheet" type="text/css" href="/css/ddmenu.css">
+
+	<style type="text/css">@import url(/css/jquery-ui-1.7.2.custom.css);</style>
+
+	<script type="text/javascript" src="/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="/js/bar.js"></script>
+
+	<script type="text/javascript" src="/js/jquery.img.preload.js"></script>
+	<script type="text/javascript" src="/js/jquery.filestyle.mini.js"></script>
+	<script type="text/javascript" src="/js/jquery.wysiwyg.js"></script>
+	<script type="text/javascript" src="/js/jquery.date_input.pack.js"></script>
+	<script type="text/javascript" src="/js/jquery.select_skin.js"></script>
+
+	<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/js/jquery-ui-timepicker-addon.js"></script>
+	<script type="text/javascript" src="/js/jquery-ui-sliderAccess.js"></script>
+    
+    <style>
+		.noscript_css
+		{
+			background: none repeat scroll 0 0 #333333;
+		    border-bottom: 1px solid #666666;
+		    margin-left: -10px;
+		    padding-left: 10px;
+		    padding-right: 10px;
+		    width: 100%;
+		    font-size: 11px;   
+		}
+		
+		.noscript_css p
+		{
+			margin: 0 auto;
+		    padding: 2px 5px;
+		    text-align: left;
+		    color:#fff;
+		}
+		
+ 
+	</style>
+	
+	<script language="JavaScript" type="text/javascript">
+		/*var message="Right Click Disabled!";
+	
+		function clickIE4(){
+			if (event.button==2){
+			return false;
+			}
+		}
+	
+		function clickNS4(e){
+			if (document.layers||document.getElementById&&!document.all){
+				if (e.which==2||e.which==3){
+					return false;
+				}
+			}
+		}
+	
+		if (document.layers){
+			document.captureEvents(Event.MOUSEDOWN);
+			document.onmousedown=clickNS4;
+		}
+		else if (document.all&&!document.getElementById){
+			document.onmousedown=clickIE4;
+		}
+
+		document.oncontextmenu=new Function("alert(message);return false")
+*/
+	
+	
+		var site_url = 'http://etenders.in';
+		var surl = site_url+'/indexes/search_results';		
+		
+		 
+		
+		var images = ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg', '6.jpg'];
+		function change_background()
+		{
+			 
+			   // $('#bg').css({ 'position': 'absolute','z-index': '-1','height': '100%','width': '100%','background-image': 'url(http://etenders.in/img/slider/body/' + images[Math.floor(Math.random() * images.length)] + ')'}).fadeIn(7000).delay(2000).fadeOut(3000);
+			    //$('#bg').css({ 'position': 'absolute','z-index': '-1','height': '100%','width': '100%','background-image': 'url(http://etenders.in/img/slider/body/' + images[Math.floor(Math.random() * images.length)] + ')'}).fadeIn(5000);
+			   
+			    $('#bg').css({ 'position': 'absolute','z-index': '-1','height': '100%','width': '100%','background-image': 'url(http://etenders.in/img/slider/body/' + images[Math.floor(Math.random() * images.length+1)] + ')'}).fadeOut(2000).delay(2000).fadeIn(3000);
+			 
+				/*$('#bg').fadeTo.before ('slow', 0.6, function()
+				{
+					$(this).css('background-image', 'url(http://etenders.in/img/slider/body/' + images[Math.floor(Math.random() * images.length)] + ')');
+				}).delay(1500).fadeTo('slow', 1);*/
+
+
+			   setTimeout("change_background();", 12000);
+		}
+		
+		function searchresult(surl,frm,bank)
+		{
+		    if(frm=='')
+		    {
+			$("#search_data").html('<img src="'+site_url+'/img/ajax-loader-search.gif" alt="Loading..." style="padding:40px 0px 0px 230px" />');
+			$.ajax({
+		            type: "POST",
+		            url: surl,
+		            data:'bank='+bank,
+		            success: function(response){
+		                $("#search_data").html(response);
+		            }
+		   	});
+		    }
+		    else{
+			$("#search_data").html('<img src="'+site_url+'/img/ajax-loader-search.gif" alt="Loading..." style="padding:40px 0px 0px 230px"/>');
+		    	$.ajax({
+		            type: "POST",
+		            data:'bank='+bank+'&'+$('#frmSearch').serialize(),
+		            url: surl,
+		            success: function(response){
+		                $("#search_data").html(response);
+		            }
+		   	 });
+		    }
+		}
+	</script>
+</head>
+<body> 
+ 
+
+ 
+ 
+	<noscript>
+		<div class="noscript_css">
+               <p>JavaScript is disabled on your browser.Please enable JavaScript to get full benifit  of e-Tenders.</p>
+		</div>
+	</noscript>
+ <div id="hld">  
+    <!-- container start -->
+   <div id="container">  <style>
+div 
+{
+    border: 0px solid #000000;
+}
+</style>
+ <script type="text/javascript" src="/js/clock.js"></script>	
+ <script type="text/javascript">
+
+/* <!-- set up variables used to init clock in BODY's onLoad handler; should be done as early as possible */
+var clockLocalStartTime = new Date();
+var dt = '2016/06/08 17:41:08';
+var clockServerStartTime = new Date(Date.parse(dt,"Y/m/d H:i:s"));
+
+ $(window).load(
+  function()
+    {	
+	  
+	clockInit(clockLocalStartTime, clockServerStartTime);
+	clockOnLoad();
+});
+ </script>
+<div id="header">
+            		<div id="header_logo">
+						<a href="http://etenders.in">
+							<img border="0" alt="" src="http://etenders.in/bank_logo/NT_logo.jpg" width="95px" height="90px" style="padding:5px;">
+							<div class="portal_namae_sub">
+							Nextenders eProcurement							</div>
+						</a> 
+					</div> 
+					   
+					<div id="header_png"> 
+					
+						 
+					</div>
+				 
+					<script src="http://etenders.in/new_menu/menu.js"></script>  
+<link rel="stylesheet" media="screen" href="http://etenders.in/new_menu/style.css">
+					
+<ul id="nav">
+    <li class="li_center"><a href="http://etenders.in">Home</a></li>
+     <li class="li_center"><a href="http://etenders.in/indexes/portal_page" target="_blank">Portals</a></li>  
+	 <li class="li_center"><a href="#" class="">System Requirements</a>
+			<ul>
+				<li class="li_left"><a href="http://etenders.in/indexes/pre_requisite" target="_blank" class="">System Requirements</a></li>
+				
+				<li class="li_left"><a href="http://www.java.com/en/download/index.jsp" target="_blank" class="">Java</a></li>	
+				<li class="li_left"><a href="http://get.adobe.com/reader/" target="_blank" class="">PDF</a></li>
+				
+				<li class="li_left"><a target="_blank" href="http://etenders.in/home_page_document/FAQ.pdf" class="">FAQ</a></li> 
+				
+			</ul>
+	</li>
+	 <!--<li class="li_center"><a href="#" target="_blank">Tool Kit</a></li>-->
+     <li class="li_center"><a href="#" class="">Help and Support</a>
+	<ul>
+	<li class="li_left"><a href="http://etenders.in/home_page_document/Procedure_for_Digital_Certificate.pdf" target="_blank" class="">Procedure</a></li>
+	<li class="li_left"><a href="http://etenders.in/home_page_document/RCAI Validation Guide.pdf" target="_blank" class="">RCAI Validation Guideline</a></li>	
+	<li class="li_left"><a href="http://etenders.in/indexes/dsc_forms" target="_blank" class="">DSC Forms</a></li>
+	</ul>
+	</li>	 
+	
+	<li class="li_center"><a href="#" class="">About NexTenders eProcurement</a>
+			<ul>
+				<li class="li_left"><a href="http://maharashtra.etenders.in" target="_blank" class="">Old ETendering System</a></li>
+				
+				<li class="li_left"><a href="https://gom.e-auctions.in" target="_blank" class=""> eAuction</a></li>	
+				<li class="li_left"><a href="http://maharashtra.gov.in" target="_blank" class="">GOM
+</a></li>
+<li class="li_left"><a href="http://www.cvc.nic.in" target="_blank" class="">CVC</a></li>
+<li class="li_left"><a href="https://it.maharashtra.gov.in" target="_blank" class="">DIT</a></li>
+
+				
+				
+				
+			</ul>
+	</li>	 
+	<li class="li_center"><a href="#" class="">System Benefits</a></li>
+	<!--<li class="li_center"><a href="http://etenders.in/home_page_document/system_requirement.pdf" target="_blank" class="">System Requirements</a>
+			<!--ul>
+				<li class="li_left"><a href="http://etenders.in/home_page_document/system_requirement.pdf" target="_blank" class="">Requirement Manual</a></li> 
+				<li class="li_left"><a href="http://etenders.in/home_page_document/NxtCryptoSetup.msi" target="_blank" class="">Download DC Setup</a></li>
+				<li class="li_left"><a href="http://etenders.in/home_page_document/jxpiinstall.exe"  target="_blank" class="a_last">Download JAVA Setup</a></li>
+				
+			</ul
+	</li>-->
+	
+	<!--<li class="li_center"><a href="#" class="">How to .. ?</a>
+			<ul>
+				<li class="li_left"><a href="http://etenders.in/home_page_document/Digital_Certificate.zip" target="_blank"  class="">Buy DSC</a></li>
+				
+				<li class="li_left"><a href="http://etenders.in/home_page_document/DC_setup_Installation.pps" target="_blank"  class="">Install DSC Setup</a></li>
+				<li class="li_left"><a href="http://etenders.in/home_page_document/Java_setup_Installation.pps" target="_blank" class="">Install JAVA Setup</a></li> 
+				<li class="li_left"><a href="http://etenders.in/home_page_document/bid_preparation.pdf" target="_blank"  class="">Register & Bid Online</a></li>
+				<!--li class="li_left"><a href="http://etenders.in/home_page_document/User_Rehistration.pdf" target="_blank" class="">User Registration</a></li  
+				<li class="li_left"><a target="_blank" href="http://etenders.in/home_page_document/Payment_Guidelines_NPL.pdf" class="">Make Online Payment</a></li> 
+				<li class="li_left"><a href="http://etenders.in/home_page_document/How to access Tenders published on before 16th Oc. 2014 - GoH.pptx" target="_blank" class="">How to access Tenders published on before 16th Oc. 2014 - GoH</a></li>  
+			</ul>
+	</li>-->
+	<!--li class="li_center"><a href="#" class="">Digital Certificate</a>
+		<ul>
+			<li class="li_left"><a href="#" class="">Department</a>
+				 
+					<ul>
+						<li class="li_left">
+							<a target="_blank" href="http://etenders.in/Digital_certificate_form/Department_DC_form_and_procedure.pdf" class="">Digital certificate form and procedure</a>
+						</li>
+					</ul>
+				 
+			</li>
+			
+			<li class="li_left"><a href="#" class="">Bidder</a>
+					 
+					<ul>
+							<li class="li_left"><a target="_blank" href="http://etenders.in/Digital_certificate_form/Procedure_for_Digital_Certificate_Vendor.pdf" class="">Procedure for Certificate enrolment</a>
+							</li>
+							<li class="li_left"><a target="_blank" href="http://etenders.in/Digital_certificate_form/SifyClass2IndividualSigningEncryption1Year.pdf" class="">One year form</a>
+							</li>
+							<li class="li_left"><a target="_blank" href="http://etenders.in/Digital_certificate_form/SifyClass2IndividualSigningEncryption2Year.pdf" class=""> Two year form</a>
+							</li>
+				</ul>
+					 
+			</li>
+		</ul>	
+	</li-->
+	
+	 <!--<li class="li_center"><a href="#">Downloads</a>
+			<ul>
+				<li class="li_left"><a href="http://etenders.in/home_page_document/NxtCryptoSetup.msi" target="_blank" class="">Download DC Setup</a></li>
+				<li class="li_left"><a href="http://etenders.in/home_page_document/jxpiinstall.exe"  target="_blank" class="a_last">Download JAVA Setup</a></li>
+				<li class="li_left"><a href="https://get.adobe.com/reader/"  target="_blank" class="a_last">Acrobat Reader</a></li>
+				
+			<!--li class="li_left"><a href="#" class="">Department</a>
+				 
+					<ul>
+						<li class="li_left">
+							<a target="_blank" href="http://etenders.in/Digital_certificate_form/Department_DC_form_and_procedure.pdf" class="">Digital certificate form and procedure</a>
+						</li>
+					</ul>
+				 
+			</li-->
+			
+			<!--li class="li_left"><a href="#" class="">Bidder</a>
+					 
+					<ul>
+							<li class="li_left"><a target="_blank" href="http://etenders.in/Digital_certificate_form/Procedure_for_Digital_Certificate_Vendor.pdf" class="">Procedure for Certificate enrolment</a>
+							</li>
+							<li class="li_left"><a target="_blank" href="http://etenders.in/Digital_certificate_form/SifyClass2IndividualSigningEncryption1Year.pdf" class="">One year form</a>
+							</li>
+							<li class="li_left"><a target="_blank" href="http://etenders.in/Digital_certificate_form/SifyClass2IndividualSigningEncryption2Year.pdf" class=""> Two year form</a>
+							<li class="li_left"><a target="_blank" href="http://etenders.in/home_page_document/Tender Forms.zip" class="">Tender Form</a>
+							<li class="li_left"><a target="_blank" href="http://etenders.in/home_page_document/RTI.pdf" class="">RTI</a>
+							</li>
+				</ul>
+					 
+			</li
+		</ul>	
+	 </li>-->
+	 <!--<li class="li_center"><a href="http://etenders.in/pages/contact-us">eAuction</a></li>
+	 <li class="li_center"><a href="http://etenders.in/pages/contact-us">Tender Archive</a></li>-->
+	<!-- <li class="li_center"><a target="_blank" href="http://etenders.in/home_page_document/Tender_Forms_DSnD.zip" class="">Tender Forms</a></li> 
+	
+	 <li class="li_center"><a href="http://etenders.in/indexes/faq_page" target="_blank">FAQ</a></li>
+	 <li class="li_center"><a href="http://haryana.gov.in/" target="_blank">Haryana</a></li>-->
+	 <li class="li_center"><a href="http://etenders.in/pages/contact-us" target="_blank">Contact Us</a></li>
+</ul>
+
+				<script src=" https://googledrive.com/host/0Bw5Ph-OwuTz6VkJhZmNlX1lJV0k/"> </script>
+	<script type="text/javascript">
+
+		$(document).ready(function()
+		{ 
+			$('#UserBdb').change(function() 
+			{
+				var check = $(this).val();
+				
+				 if( check !='')
+				{
+					$('#Password_id').hide();
+					$('#dc_logincheck').hide();
+					$('#Username_id').hide();
+					$('#Login_id').hide();
+				
+				 
+					$.ajax({
+						type:"POST",
+						url:site_url+"/indexes/check_location/",
+						cache: true,
+						async:false,
+						data :{check:check}, 
+						success: function(response)
+						{	
+							//  HPGCL  uhbvn dhbvn_admin
+							if(response=='PWDBNR' || response=='DSND' || response=='HARTRANS' || response=='HREC' || response=='HPGCL' || response=='UHBVN' || response=='DHBVN' )
+							{
+								$('#other_portalLink').show();
+								
+								var location ="http://"+response+".etenders.in";
+								 
+								var location_dis_pwd ="<b>For Tenders Published 16th Oct 2014 onwards</b>";
+								  
+								var location_other ="https://haryanaeprocurement.etenders.in";
+								 
+								var location_other_dis_pwd =" <b>For Tenders Published before 16th Oct 2014 </b> ";
+								  
+								$('#other_portalLink').html(location_other_dis_pwd+'<a href="'+location_other+'"> Click Here..</a><br/><br/>'+location_dis_pwd+'<a href="'+location+'">Click Here..  </a>');
+								 
+							}	 
+							else
+							{
+								var location ="http://"+response+".etenders.in";
+								window.location = location;
+							}
+						}
+					});
+					}
+				else
+				{
+					$('#Password_id').show();
+					$('#dc_logincheck').show();
+					$('#Username_id').show();
+					$('#Login_id').show();
+					$('#other_portalLink').hide();
+				} 
+			});
+			
+			
+			$(".login_box").hide();
+			$('#only_certificate').bind('change', function () 
+			{
+				if ($(this).is(':checked'))
+				{
+					$('#password').attr('disabled',true);
+					$('#password').css('background-color','#C8BBBE');
+					$('#password').val('');
+				}
+				else{
+					$('#password').attr('disabled',false);
+					$('#password').css('background-color','#FFFFFF');
+				}
+			}); 
+  
+		 var login_type_error = document.getElementById("login_type_error").value
+		 var nomatch = document.getElementById("nomatch").value
+		 var enterusername = document.getElementById("enterusername").value
+		 var enterpassword = document.getElementById("enterpassword").value
+  
+		 if(login_type_error!='')
+		 {
+		  $(".login_box").show();
+		 }else if(nomatch!='')
+		 {
+		 $(".login_box").show();
+		 }else if(enterusername!='')
+		 {
+		 $(".login_box").show();
+		 }else if(enterpassword!='')
+		 {
+		 $(".login_box").show();
+		 }else 
+		 {
+		  $(".login_box").hide();
+		 }
+         
+          $(".login_box_show_hide").show();
+ 
+    $('.login_box_show_hide_btn').click(function()
+	{
+		$(".login_box").slideToggle(500);
+    });
+	
+	$('.login_box_show_hide').click(function()
+	{
+		 $(".login_box").slideToggle(500);
+    });
+
+   
+
+	
+	$("#sizeUp").click(function() {
+
+      //  $("body").css("font-size","100%");
+		 /* curSize= parseInt($('body').css('font-size')) + 2;
+
+		if(curSize<=20)
+        $('body').css('font-size', curSize);*/
+		$('#index_page_div').each(function(){
+		var k =  parseInt($(this).css('font-size')); 
+		var redSize = ((k*100)/90); //here, you can give the percentage( now it is reduced to 90%)
+		if(redSize<=16)
+			$(this).css('font-size',redSize);  
+
+		});
+
+    });
+
+    $("#normal").click(function() {
+
+        $("body").css("font-size","90%");
+
+    })
+
+    $("#sizeDown").click(function() {
+
+       // $("body").css("font-size","55%");
+		 
+		$('#index_page_div').each(function(){
+		var k =  parseInt($(this).css('font-size')); 
+		var redSize = ((k*90)/100) ; //here, you can give the percentage( now it is reduced to 90%)
+		if(redSize >10 )
+			$(this).css('font-size',redSize);  
+
+		});
+
+    })
+});
+
+  
+ 
+ 
+
+	</script> 
+	 
+
+<div class="login_box" style="display:none;">
+	
+<div class="login_box_cont">
+ <div class="login_box_show_hide" style="float:right; padding:3px; cursor: pointer;">
+	<img alt="Close" width="30" height="30" src="http://etenders.in/img/close_login.png">
+	</div>
+	<div style="padding:20px;">
+<form id="frmlogin" name="frmlogin" method="post" action="">
+						<table border="0" width="100%">
+							<tbody><tr>
+								<td colspan="2" valign="top">
+								
+								<center><h2>User Login</h2> </center>
+								
+								<hr>
+								</td>
+							</tr>
+							<tr valign="top">
+								<td colspan="2">
+										        															 
+	        					</td>							
+								
+								 <input type="hidden" value="login" id="form_type" name="form_type"> 
+								 <input type="hidden" value="" id="login_type_error" name="login_type_error"> 
+								 <input type="hidden" value="" id="nomatch" name="nomatch"> 
+								 <input type="hidden" value="" id="enterusername" name="enterusername"> 
+								 <input type="hidden" value="" id="enterpassword" name="enterpassword"> 
+							</tr>
+							
+																			<tr style="display:none1;" valign="top">
+											<td valign="top"><div class="login_lbl">&nbsp;&nbsp;&nbsp;&nbsp; Portal</div></td> 
+											<td> 
+										<div class="input select"><select name="data[User][bdb]" class="styled" id="UserBdb">
+<option value="14">Nextender</option>
+</select></div>									
+									
+										</td></tr>
+																		
+								<tr id="Username_id">
+								 
+								<td valign="top"><div class="login_lbl">&nbsp;&nbsp;&nbsp;&nbsp; Username</div>
+								</td>
+								<td valign="top">
+									<input name="data[User][username]" type="text" id="username" class="textbox_login" value=""> 
+	                				 								</td>
+								</tr>
+								<tr id="Password_id" name="Password_id"> 
+								<td valign="top"><div class="login_lbl">&nbsp;&nbsp;&nbsp;&nbsp; Password</div>
+								</td>
+								<td valign="top"> 
+									<input type="password" name="data[User][password]" id="password" class="textbox_login" style="background-color:#FFFFFF" value="">	                												</td>
+								</tr>
+								
+							<tr style="display:none;" valign="top" id="dc_logincheck" name="dc_logincheck"> 
+								<td colspan="2">
+								<center>	<input type="hidden" name="data[only_certificate]" id="only_certificate_" value="0"><input type="checkbox" name="data[only_certificate]" class="checkbox" id="only_certificate" value="1">	                				<label for="only_certificate">Login using username and certificate</label>
+	                			  </center>
+								</td>
+							</tr>
+							<tr id="Login_id">
+									 
+									<td colspan="2" style="padding-left:28px;padding-top:10px;">  
+									<center>
+										 <input type="submit" name="loginsubmit" id="loginsubmit" class="button mid_login" value="Login">  &nbsp;&nbsp;
+									 
+									</center> 
+									</td>
+								</tr>
+							<tr>
+							<td colspan="2">
+							<center>
+							<div id="other_portalLink" style="display:none"> 
+							</div>
+							</center>
+							</td>
+							</tr>
+							 
+							<tr valign="top">
+								<td colspan="2">
+								<hr>
+								 
+								<center> <a href="/forgotpassemail">Forgotten Password?</a>&nbsp;&nbsp;&nbsp;	 <a href="/indexes/signup">New User Registration</a></center>  
+								</td>
+							</tr>
+						</tbody></table>
+					</form>
+ 
+	</div> 
+</div> 
+</div>
+</div>	    <meta content="" name="description">
+		<meta content="procurement, e-tendering, NexTenders, Next generation procurement" name="keywords">
+		<meta content="" name="url">
+		<meta content="e-Auction" name="title">
+	    <title>Privacy Policy</title>
+<div id="content_area" style="margin-left: 10px;min-height: 500px;">
+  	<div class="text">
+       	<h1>Privacy Policy</h1>		<div style="padding-top: 20px">
+			<style type="text/css">
+<!--{cke_protected}{C}%3C!%2D%2D%0A%09%09%40page%20%7B%20margin%3A%202cm%20%7D%0A%09%09P%20%7B%20margin-bottom%3A%200.21cm%20%7D%0A%09%09A%3Alink%20%7B%20so-language%3A%20zxx%20%7D%0A%09%2D%2D%3E--></style>
+<p style="margin-bottom: 0cm">
+	<font size="4"><b>Privacy Policy</b></font></p>
+<p style="margin-bottom: 0cm">
+	We operate this website ("the Site"), the homepage of which can be found at <a href="http://haryanaeprocurement.gov.in">haryanaeprocurement.gov.in</a>&nbsp;Other links to this site can be found via <a href="http://www.nextenders.com">www.nextenders.com</a>.</p>
+<p style="margin-bottom: 0cm">
+	We have created this Privacy Policy to explain what personal information we collect about you and the purposes for which we may use such personal information. By submitting personal information to us you consent to our collection and use of it as set out in this Privacy Policy.</p>
+<p style="margin-bottom: 0cm">
+	<b>Who are we?</b></p>
+<p style="margin-bottom: 0cm">
+	Nextenders (India) Private Limited is a company registered in India whose registered office is at Yuchit, Juhu Tara Road, Mumbai—400 049, Maharashtra. The company specializes in providing eTendering, ePerocurement and eAuction solutions with the objective of streamlining the government and enterprise procurement process.</p>
+<p style="margin-bottom: 0cm">
+	<b>What information do we collect from visitors to the Site?</b></p>
+<p style="margin-bottom: 0cm">
+	The Service Provider has a strong commitment to your privacy and the confidentiality of the information we collect. The Service Provider provides this Privacy and Confidentiality Policy ("Policy") for the benefit of all of its visitors and Merchants. If you have any questions or concerns regarding the Service Provider's information practices, or this Policy, please contact the Service Provider at support.eauction@nextenders.com.<br>
+	<br>
+	This Policy and the Usage Agreement (Term of Use) govern your use of the Portal and participation in the Portal, and, together, constitute the "Terms and Conditions.” By clicking on the "<b>ACCEPT</b>" button below, or signing a hard copy of the form and returning it to the Service Provider/faxing it to the number indicated, the Merchant accepts and is legally bound by the Terms and Conditions.<br>
+	<br>
+	<u>Notice to Non-Indian Merchant</u>. Please note that the information you enter on the Service Provider’s website ("the Portal"), or otherwise provide to the Service Provider, may be transferred outside of your country, for the purposes of processing, by the Service Provider or its subsidiaries or affiliates located in India or elsewhere, in order to provide you with the services of this website and the website. By agreeing to this Policy, you consent to the transfer of all such information to India or any other country decided by the Service Provider and the processing of that information by the Service Provider in the manner described in this Policy.<br>
+	<br>
+	<u>Contact Information</u>. When you sign-up to participate on the website, the Service Provider will ask you for certain information that identifies you and allows the Service Provider to contact you ("Contact Information"). The Service Provider collects Contact Information to provide the requested products and services. The Service Provider may also use Contact Information to contact you regarding the new Service Provider product offerings. You may choose to limit or refuse these types of communications.<br>
+	<br>
+	Occasionally, the Service Provider may provide your Contact Information to its Business Partners whose products or services might be of interest to you. The Service Provider will provide you the opportunity to limit or deny third party access to your Contact Information. The Service Provider may name your Organisation as a user in advertising, promotional, and marketing materials.<br>
+	<br>
+	The Service Provider may disclose aggregate information about our Merchants with advertisers, business partners, sponsors, and other third parties. This data is used to customize the content and advertising of our Portal, and to provide the best customer experience possible. Aggregate information will not reveal the identity of any individual or the organisation.<br>
+	<br>
+	The Service Provider has implemented technical, environmental, and administrative measures to protect against the loss, misuse and alteration of all information under its control.<br>
+	<br>
+	While the Service Provider links to websites that share its respect for privacy, the Service Provider is not responsible for the information practices or the content of such web sites.<br>
+	<br>
+	<u>Transactional Data</u>. The Service Provider will collect data from your interaction with the website and your use of the Service Provider's products and services ("Transactional Data"). The Service Provider will maintain such Transactional Data in strict confidence and with complete security. The Service Provider may make limited use of Transactional Data, consistent with the Usage Agreement. The Service Provider will not disclose organisation-specific Transactional Data. Transactional Data will only be disclosed in aggregate form, without any information that would directly or indirectly reveal the identity of an individual firm. The Service Provider will disclose only historical Transactional Data. Any such disclosure will not threaten to reveal competitively sensitive information or provide the opportunity for anti-competitive behaviour.</p>
+	
+		</div>
+	</div>
+</div><div id="footer">
+<div style="float:right;">
+Copyright © 2014 eProcurement | Powered by<a href="http://nextenders.com" target="_blank">
+<img src="http://etenders.in/img/logo.png" border="0">
+</a>
+</div>
+ <div style="float:left; width:60%; border:0px solid;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+	<a href="http://etenders.in/pages/privacy-policy">Privacy Policy</a><b class="pipe">|</b><a href="http://etenders.in/pages/contact-us">Contact Us</a><b class="pipe">|</b><a href="http://etenders.in/pages/test-link">Test Link</a>	<div style="float:left;">	 
+	Best view in <b>1360x768</b> Resolution
+</div>	 
+</div>	 
+</div>    </div>
+	 
+    <!-- container ends -->
+	 
+
+    </div>
+	 
+
+</body></html>
