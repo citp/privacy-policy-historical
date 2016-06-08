@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the loyalty360.org privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224164154id_/http%3A//loyalty360.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyalty360.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608080408id_/http%3A//www.loyalty360.org/Privacy.aspx) for the most accurate reproduction.*
 
-# Website Privacy Statement | Loyalty360.org
+# Loyalty360 - The Association for Customer Loyalty
+
+Website Privacy Statement
 
 This is a website of the Loyalty 360 as it applies to business/ visitors.
 
@@ -12,7 +14,7 @@ Loyalty 360
 4120 Dumont Street  
 Cincinnati, OH 45226
 
-You can reach us by email at [info@loyalty360.org](mailto:info@loyalty360.org) or call us at 513-545-5612.
+You can reach us by email at [info@loyalty360.org](mailto:info@loyalty360.org) or call us at 513-545-5612513-545-5612 FREE.
 
 This policy is valid for one month from the time you visit our site. If our information practices change in the future, we will use only data collected from the time of the policy change forward for these new purposes, or we will contact you before we use your data for these new purposes and offer you the ability to opt out of these new uses.
 
@@ -64,4 +66,4 @@ We use industry-standard encryption technologies when transferring and receiving
 
 **Accountability**
 
-If you have a question about Loyalty 360’s privacy policy, please contact us at 4120 Dumont Street Cincinnati, OH 45226 or ethics@loyalty360.org; or 877-433-0819 (fax).
+If you have a question about Loyalty 360’s privacy policy, please contact us at 4120 Dumont Street Cincinnati, OH 45226 or ethics@loyalty360.org; or 877-433-0819877-433-0819 FREE (fax).
