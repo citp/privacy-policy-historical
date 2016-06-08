@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213055456id_/http%3A//www.kidzworld.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzworld.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608104116id_/http%3A//www.kidzworld.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Safe Website For kids - Kidzworld
 
@@ -8,7 +8,7 @@ We have a sophisticated and highly confidential moderations and behavior managem
 
 ## Children's Online Privacy Protection Act
 
-Kidzworld is a leading [**_safe social network for kids_**](https://web.archive.org/web/20151213055456id_/http%3A//www.kidzworld.com/corporate/safety). It was established in 2001, by Allen W. Achilles as a direct result of his concern for the online safety and security of his own children. Since that time, he has been a tireless advocate for the **safety and security of kids online**. COPPA (Childrenís Online Privacy Protection Act) became effective on April 21, 2000. The regulations apply to the online collection of personal information from children in the US who are 12 years and younger. The Act spells out what website operators, need to include in their privacy policy, when and how to seek verifiable consent from a parent and what responsibilities website operators have to protect and secure childrenís privacy and safety online.
+Kidzworld is a leading [**_safe social network for kids_**](https://web.archive.org/web/20160608104116id_/http%3A//www.kidzworld.com/corporate/safety). It was established in 2001, by Allen W. Achilles as a direct result of his concern for the online safety and security of his own children. Since that time, he has been a tireless advocate for the **safety and security of kids online**. COPPA (Childrenís Online Privacy Protection Act) became effective on April 21, 2000. The regulations apply to the online collection of personal information from children in the US who are 12 years and younger. The Act spells out what website operators, need to include in their privacy policy, when and how to seek verifiable consent from a parent and what responsibilities website operators have to protect and secure childrenís privacy and safety online.
 
 COPPA applies to individual identifiable information about a child (12 or younger) that is collected online, such as full name, home address, email address, telephone number or any other information that would allow someone to identify or contact a kid. The Act also applies to other types of information, such as hobbies, interests and user information gathered through the use of cookies and other methods of tracking, when they are tied to individually identifiable information. Kidzworld does not use cookies to track user behaviour, interests or hobbies.
 
@@ -36,7 +36,7 @@ In the member only KW Zone kids can create an online profile where they can desi
 
 ## Safety Partnerships
 
-[](http://www.kidsafeseal.com/) [](http://www.crispthinking.com/)
+[](https://www.kidsafeseal.com/aboutourprogram.html) [](http://www.crispthinking.com/)
 
 ## Chat Rooms
 
@@ -44,7 +44,7 @@ Kidzworlds chat rooms are open 24/7 and only accessible to our registered users.
 
 ## Kidzworld Forums
 
-Kidzworlds **safe and secure** **bulletin boards and forums** are moderated at all times by our moderation and behavioural analysis platform as well as our experienced Kidzworld staff to ensure that the kids do not divulge personal information. Kids who tries to reveal, or ask for, personal information will be blocked from posting in the forums for a period of time. If problems continue their IP address may be permanently blocked and future access denied to the website from that IP address.
+Kidzworlds **safe and secure** forums are moderated at all times by our moderation and behavioural analysis platform as well as our experienced Kidzworld staff to ensure that the kids do not divulge personal information. Kids who tries to reveal, or ask for, personal information will be blocked from posting in the forums for a period of time. If problems continue their IP address may be permanently blocked and future access denied to the website from that IP address.
 
 ## Photo Uploads
 
