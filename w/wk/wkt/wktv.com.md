@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wktv.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208060450id_/http%3A//www.wktv.com/terms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wktv.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608225735id_/http%3A//www.wktv.com/terms/privacy-policy.html) for the most accurate reproduction.*
 
-# WKTV.com: Privacy Policy
+# None
 
 At WKTV Television we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. This Privacy Policy applies to those websites that are part of the WKTV Television.
 
