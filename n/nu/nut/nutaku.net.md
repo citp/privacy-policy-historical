@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nutaku.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207123412id_/http%3A//www.nutaku.net/age/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutaku.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608223459id_/http%3A//www.nutaku.net/age/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nutaku.net
+
+Your account will not be completed until you have read and affirmatively accepted our Terms Of Use located at [www.nutaku.net/terms](https://web.archive.org/age/terms/) and our Privacy Policy and by checking the applicable boxes on the account creation page.
 
 ## 1\. Information We Collect
 
