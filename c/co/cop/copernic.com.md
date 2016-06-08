@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the copernic.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206181132id_/http%3A//www.copernic.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copernic.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608231444id_/http%3A//www.copernic.com/en/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## Copernic - Web Site Privacy Policy
 
 Copernic, a division of N. Harris Computer Corporation ("Copernic") respects your right to privacy. We understand the sensitive nature of privacy issues and the company takes measures to ensure that the confidentiality of our clients and web users is protected. Copernic does not distribute, sell, or rent any of the information collected about our website users or clients. 
 
 By using the Copernic site and products, you indicate your agreement to the collection and use of your information by Copernic as outlined in this privacy policy. Please note that this policy is subject to change and updates will be posted on this page when there has been a change, or a new service or product has been added to our offerings from time to time. We therefore encourage you to visit it periodically to review our practices and updates. 
 
 **Coverage**  
-This policy applies to the collection, use, storage and disclosure of information by Copernic It applies to [www.copernic.com](http://www.copernic.com/), [www.mycopernic.com](http://www.mycopernic.com/), or to any site including "Copernic" in its URL, and which includes a link to this privacy policy. The presence of the Copernic alone does not guarantee the applicability of this policy, as many of our clients run their own, wholly separate sites, and that have their own privacy policies. 
+This policy applies to the collection, use, storage and disclosure of information by Copernic. It applies to [www.copernic.com](http://www.copernic.com/), [www.mycopernic.com](http://www.mycopernic.com/), or to any site including "Copernic" in its URL, and which includes a link to this privacy policy. The presence of the Copernic alone does not guarantee the applicability of this policy, as many of our clients run their own, wholly separate sites, and that have their own privacy policies. 
 
 **Links to Other Sites**  
 You will find various links on our sites. The sites these all link to are owned and maintained by independent companies, over which Copernic has no control, and who are not covered by this privacy policy. Copernic is not responsible or liable for the content of these sites, or their collection of information and its use. If you have any concerns about your privacy at one of these sites, please review their sites' policies or contact them directly. 
