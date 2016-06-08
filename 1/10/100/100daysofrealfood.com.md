@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100daysofrealfood.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230093122id_/http%3A//www.100daysofrealfood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100daysofrealfood.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608222345id_/http%3A//www.100daysofrealfood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 100 Days of Real Food
 
