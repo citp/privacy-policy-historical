@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broward.edu privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209081825id_/http%3A//www.broward.edu/legal/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broward.edu privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608230428id_/http%3A//www.broward.edu/legal/Pages/privacy.aspx) for the most accurate reproduction.*
 
-# Broward College - Internet Privacy Statement
+# Legal
 
 as required by Broward College policy [6Hx2-8.02](https://web.archive.org/legal/policies/Section%20Template/6Hx2-8.02.pdf)
 
