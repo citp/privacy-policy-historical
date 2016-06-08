@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109234206id_/http%3A//www.costco.co.uk/your_rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608102619id_/http%3A//www.costco.co.uk/your_rights) for the most accurate reproduction.*
 
 # Your Rights | Costco UK
 
@@ -158,7 +158,7 @@ We encourage parents to take an active interest in their children's use of the I
 
 #### L. Questions or Concerns
 
-If you have any questions or concerns about this privacy statement or would like to contact us for any reason, you can call our Customer Care Centre on freephone **0800 0324 324** or see [Contact Us](https://web.archive.org/contact_us).
+If you have any questions or concerns about this privacy statement or would like to contact us for any reason, you can call our Customer Care Centre on freephone **0800 0324 324** or see [Contact Us](https://web.archive.org/view/content/enquiries).
 
 #### M. Changes to this Statement
 
@@ -251,8 +251,8 @@ If you are not satisfied with your subscription, we will refund your entire subs
 Additional Site Terms apply to use of this website and our sale/supply of goods and services. These include:
 
   * Costco Online Privacy Policy
-  * [Returns and Cancellation & Assistance Procedures](https://web.archive.org/faqs)
-  * WEEE terms, relating to applicable purchases of electrical and electronic equipment
+  * [Returns and Cancellation & Assistance Procedures](https://web.archive.org/view/content/customer_care)
+  * [WEEE terms, relating to applicable purchases of electrical and electronic equipment](https://web.archive.org/view/content/weee_regulations)
   * [For Costco Wholesale Members only, the provisions of the Membership Terms that apply to them](http://warehouses.costco.co.uk/terms/)
 
 
@@ -277,7 +277,7 @@ If you meet the above requirements, we grant you a limited licence to make perso
 
 Prices indicated on the website include UK mainland delivery charges (unless stated otherwise). However, prices on the website do not include the annual subscription fee or the surcharge that must be paid by customers other than Costco Subscribers and Members when ordering goods or services from us. The surcharge is equal to 5% (five percent) of the total price of the goods and services placed in an order, excluding any VAT charged in respect of those goods and services. Subscription fees and surcharges are subject to VAT, which must be paid in addition. Costco Members whose membership is current and valid at the date of their orders, and who have entered their membership number during the registration process in the My Account section of the website, do not have to pay the surcharge. Subscription fees and surcharges will be separately itemized in the checkout section on the website and added to the price of the goods and services.
 
-Nothing in these Site Terms or elsewhere on this website constitutes an offer to sell or supply goods or services, including a subscription to costco.co.uk. Your order of goods or services or application for a subscription account constitutes an offer to purchase them. Our Order Confirmation confirms the receipt of your order, but does not constitute an acceptance of it.
+Nothing in these Site Terms or elsewhere on this website constitutes an offer to sell or supply goods or services, including a subscription to costco.co.uk. Your order of goods or services or application for a subscription account constitutes an offer to purchase them. Our Order Confirmation confirms the receipt of your order, but does not constitute an acceptance of it. Once we accept the order, however, it is our duty to supply the goods you ordered.
 
 Except in the case of Higher Value Goods, we accept your order when we despatch the goods or begin to supply the services that you have ordered. This concludes the contract of sale for the goods despatched, but not for any other goods or services that you may have ordered at the same time.
 
@@ -295,7 +295,7 @@ All card payments are subject to authorisation by your card issuer. If your paym
 
 We take reasonable precautions to ensure that goods and services are fairly and accurately described on our website and that they are available at the prices listed. However, please note that, subject to applicable law, we: (a) reserve the right to change the goods and services advertised or offered for sale through this website without any prior notice, the prices or specifications of such goods and services, and any promotional offers and any other Site Materials at any time and from time to time without any notice or liability to you or any other person; (b) cannot guarantee that goods or services advertised or offered for sale on this website will be available when ordered or thereafter; (c) reserve the right to limit quantities sold or made available for sale; (d) do not warrant that the Site Materials (including but without limitation to product descriptions, photographs and product user guides) are accurate, complete, reliable, current or error-free; and (e) reserve the right not to process orders, and to revise orders or recover funds where the price or other material information on this website is inaccurate or when we recognise there has been a material error or breach of the Site Terms. If we do not process an order for such reason, we will advise you that the order has been cancelled and will either not charge you or will apply credit to the payment type used in the order.
 
-For more information please see our [Returns, Cancellations and Assistance Procedures](https://web.archive.org/faqs).
+For more information please see our [Returns, Cancellations and Assistance Procedures](https://web.archive.org/view/content/customer_care).
 
 #### G. PASSWORDS AND SECURITY
 
@@ -365,7 +365,7 @@ Reference to any products, services, processes, or other information, by trade n
 
 #### N. LIMITATION OF LIABILITY 
 
-Please see our Returns and Cancellations Procedures for details of the Costco Satisfaction Guarantee. Nothing in this section affects your rights under the Costco Satisfaction Guarantee or your statutory rights including, but not limited to, your statutory cancellation rights. For further information on Consumer statutory rights, please see Section S (Further Information) below or Statutory Rights section.
+Please see our Returns and Cancellations Procedures for details of the Costco Satisfaction Guarantee. Nothing in this section affects your rights under the Costco Satisfaction Guarantee or your statutory rights including, but not limited to, your statutory cancellation rights. For further information on Consumer statutory rights, please see Section S (Further Information) below or [Statutory Rights section.](https://web.archive.org/view/content/payments_and_refunds)
 
 Except to the extent that applicable law may prohibit the exclusion of such liability, Costco shall have no liability for any direct, special, punitive, exemplary, indirect or consequential losses, liabilities, costs (including legal costs), expenses or damages of any kind (collectively, "loss and damage"), including but not limited to loss of use, loss of profits, loss of business opportunity, loss of data, loss of goodwill or reputation whether in an action in contract, tort, for tortious or contractual negligence, or otherwise, arising out of or in any way connected with the use or inability to use this website or the materials contained in, or accessed through, this website. This does not apply to any liability we may have towards you in respect of goods and services that we sell or supply to you.
 
@@ -395,7 +395,7 @@ No party who is not a party to the agreement between us created by the Site Term
 
 #### T. FURTHER INFORMATION 
 
-For further information about Consumer statutory rights, please see our Consumer Fact Sheet: U.K. Statutory Cancellation Right or visit [www.adviceguide.org.uk](http://www.adviceguide.org.uk/). 
+For further information about Consumer statutory rights, please see our Consumer Fact Sheet: U.K. [Statutory Cancellation Right](https://web.archive.org/view/content/payments_and_refunds) or visit [www.adviceguide.org.uk](http://www.adviceguide.org.uk/). 
 
 #### U. CONTACT US
 
@@ -407,79 +407,3 @@ By mail: Costco.co.uk, Building 4400 Harris Parkway Magna Park Lutterworth LE17 
 #### EXHIBIT A
 
 Currently, the registered trade marks owned by the Costco Companies include the following without limitation: BANQUET, GRANDMA PORCOS, COSTCO, COSTCO.CO.UK, COSTCO CONCIERGE SERVICES, THE COSTCO CONNECTION, COSTCO WHOLESALE, KIRKLAND, SIGNATURE, COSTCO WHOLESALE EXECUTIVE MEMBER, KIRKLAND SIGNATURE, CHOCOLATES OF THE WORLD, COURT CLASSIC, and FUNHOUSE TREATS. The Costco Companies also may use other trade marks that are not registered. 
-
-## Statutory Cancellation Rights 
-
-#### What is my statutory cancellation right as a consumer?
-
-In most circumstances, Costco’s return policy provides consumers with the most favourable return privileges available.  Under the UK's Consumer Protection Regulations of 2013 (as amended) (the "Regulations") , however, you have an additional, statutory right to cancel orders for goods and services made through the website. This right ("statutory cancellation right") applies only where you make your purchase as a Consumer. You can only use this right within a period of 14 days. The period of 14 days begins on the day after the day on which you receive the goods relating to your order or (in the case of services) the day after the day on which the contract is concluded.
-
-#### Are there any exceptions to the statutory cancellation right?
-
-The statutory cancellation right also does not apply to certain types of goods, namely:
-
-  * goods that have been personalised or otherwise made to your specifications;
-  * goods such as flowers, food, plants or other goods which by their nature are liable to deteriorate or expire rapidly or cannot be returned (such as pierced jewellery), underwear or swimming costumes where the hygiene strips or seals have been removed);
-  * audio or video recordings or computer software that has been unsealed;
-  * newspapers, periodicals or magazines; or
-  * goods where the price is dependent on fluctuations in the financial market (such as vintage wines).
-
-
-
-The statutory cancellation right does not apply to certain kinds of services, or to any kind of service that has been fully performed where (by your express request) performance has begun before the end of the cancellation period.
-
-#### What are my obligations?
-
-Costco requires customers using the statutory cancellation right to return the goods to Costco in the event of cancellation. Costco also requires customers using the statutory cancellation right to pay the cost of returning them, or the cost incurred by Costco in recovering them.
-
-#### How do I exercise my statutory cancellation right?
-
-If you wish to exercise your statutory cancellation right please contact our Customer Care Centre at freephone **0800 0324 324** or by email, fax or hand/postal delivery to the address here; Customer Care Manager, Costco Online UK Ltd., UK Home Office, Hartspring Lane, Watford, WD25 8JS, United Kingdom. Alternatively, you can complete our cancellation form which is available **[here](http://warehouses.costco.co.uk/_docs/CostcoUK_Cancellation_Form.doc)** and send this to us by email, fax or hand/postal delivery to the address above.
-
-#### What must I do with the goods?
-
-Customers using the statutory cancellation right are required to return the goods to us (in their original packaging, wherever possible) as soon as possible and in any event within 14 days after the day you informed us that you wish to cancel their order, and in the manner we direct. For items that, due to their nature cannot be returned by post, you should contact us for information about the cost of return shipping.
-
-Costco will instruct you how to make the returns to us. We may ask you to send the item to us using labels that we will provide. Alternatively, we may arrange for our carrier to collect them from you within five days following your notifying us of your wish to return the goods. You may request a later collection date, and we will accommodate you if circumstances permit.
-
-#### When should I expect my refund?
-
-If you exercise your statutory cancellation right we will reimburse you within 14 days following the day on which we receive the goods from you. Refunds will be made in the same way as your original payment.
-
-Please note that this is not a full statement of your statutory cancellation right. For further information, please consult [www.adviceguide.org.uk](http://www.adviceguide.org.uk/).
-
-## WEEE Regulations
-
-#### Waste Electrical and Electronic Equipment (WEEE) Business-to-Business use
-
-This agreement applies to businesses who buy products on www.costco.co.uk and covers the WEEE regulations in force in the United Kingdom since 2006. These regulations may be amended from time to time.
-
-This agreement applies to relevant electrical and electronic equipment (EEE), which has been purchased from Costco Online UK Ltd by its Trade members, and other purchasers that are not for private households.
-
-The buyer of this relevant EEE acknowledges and agrees that the buyer shall:
-
-  1. At all times be and remain responsible for the collection, treatment, recovery and environmentally sound disposal of relevant WEEE and all associated financial charges.
-  2. Have its own arrangements in place for dealing with the relevant WEEE in a way that is consistent with the WEEE regulations and continue to comply with all WEEE regulations.
-  3. Provide Costco Online UK Ltd with such co-operation, assistance and information as may be reasonably required in relation to WEEE. The information will be used for Costco Online UK Ltd obligations under the WEEE regulations.
-
-
-
-#### Recycling your old electricals is easy!
-
-Recycle your electrical and electronic devices free at your local recycling centre. To find your nearest centre, visit the [Recycle More](http://www.recycle-more.co.uk/) website and type in your postcode.
-
-#### Why recycle?
-
-Unwanted electrical equipment is the UK's fastest growing type of waste.
-
-Many electrical items can be repaired or recycled, saving natural resources and the environment. If you do not recycle electrical equipment will end up in landfill where hazardous substances will leak out and cause soil and water contamination – harming wildlife and also human health.
-
-We're proud to support your local authority in providing local recycling facilities for electrical equipment.
-
-To remind you that old electrical equipment can be recycled, it is now marked with the crossed-out wheeled bin symbol. Please do not throw any electrical equipment (including those marked with this symbol) in your bin.
-
-#### How are we helping?
-
-In the UK, distributors including retailers must provide a system which allows all customers buying new electrical equipment the opportunity to recycle their old items free of charge. As a responsible retailer, we have met the requirements placed on us by financially supporting the national network of WEEE recycling centres established by local authorities. This is achieved through membership of the national Distributor Take-back scheme (DTS).
-
-To find more information on WEEE recycling and to locate your nearest recycling centre please visit the [Recycle More](http://www.recycle-more.co.uk/) website.
