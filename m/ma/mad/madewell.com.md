@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madewell.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907143720id_/https%3A//www.madewell.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madewell.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608195808id_/https%3A//www.madewell.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Our Privacy Policy - Madewell Private Policy - Madewell
 
