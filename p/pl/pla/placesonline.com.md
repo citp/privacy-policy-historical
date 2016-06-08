@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placesonline.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206134344id_/http%3A//www.paesionline.info/copyright.asp%3Fdomain%3D.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placesonline.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608151835id_/http%3A//www.paesionline.info/copyright.asp%3Fdomain%3D.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
