@@ -1,0 +1,398 @@
+<!--The following is the downloaded HTML source of the semaltmedia.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608091510id_/http%3A//semalt.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1280">
+<meta name="MobileOptimized" content="1280">
+<title>Privacy Policy</title>
+<link href="/css/layout.css?109" type="text/css" rel="stylesheet">
+<link href="/css/hf.css?109" type="text/css" rel="stylesheet">
+<link href="/css/sticky-header.css?109" type="text/css" rel="stylesheet">
+
+<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/js/polyfill.js?165"></script>
+<script src="/js/jquery2.js?165"></script>
+<script src="/js/jquery.exp.js?165"></script>
+<script src="/js/device.min.js?165"></script>
+<script src="/js/jquery.cookie.js"></script>
+<script>var iframe_open = false;</script>
+<script src="/js/layout.js?165"></script>
+<script src="/js/combo.js?165"></script>
+<script src="/js/i18n.js?165"></script>
+
+
+<script src="/js/sticky-header.js?165"></script>
+<script src="/js/jquery.main2.js?165"></script>
+<script src="/js/activity.js?165"></script>
+<script src="/test/heatmap/click-detect.js?1098218167"></script>
+<script>
+window.workIp = false;
+</script>
+</head>
+<body class=" lang_en">
+	<input type="hidden" id="viewName" value="privacy-policy">
+<script src="//semalt.com/js/notification_block.js?165"></script>
+
+<div class="header-semalt-main">
+    <div class="header-semalt">
+        <div class="header-center">
+            <a href="//semalt.com" class="logo-semalt"><img src="//semalt.com/img/logo-semalt.png"></a>
+            <ul id="menuMain" class="menu-noauth">
+                <li class="menuli menu1 "><a data-menu="rmenu1" href="javascript:;">Products</a></li>
+                <li class="menuli menu2 "><a data-menu="rmenu2" href="//semalt.com/price">Pricing</a></li>
+                <li class="menuli menu3 "><a data-menu="rmenu3" href="javascript:;">Company</a></li>
+                <li class="menuli menu4 "><a data-menu="rmenu4" href="javascript:;">Success stories</a></li>
+                <li class="menuli menu5 "><a data-menu="" href="//semalt.com/help">Help</a></li>
+            </ul>
+            <a href="//semalt.com/#net" class="buttonLogin">Login or Register</a>    
+        </div>   
+    </div>
+    <div class="header-pannel">
+        <div class="header-pannel-center">
+            <div class="rmenu rmenu1">
+                <a href="//semalt.com/autoseo">AutoSEO</a>
+                <a href="//semalt.com/fullseo">FullSEO</a>
+                <a href="//semalt.com/analytics">Analytics</a>
+                <a href="//semalt.com/web-development">Web development</a>
+                <a href="//semalt.com/video-production">Video Production</a>
+            </div>
+            <div class="rmenu rmenu2">
+                <a class="headerPrice" data-tab="AutoSeo" href="https://semalt.com/price#AutoSeo">Auto SEO</a>
+                <a class="headerPrice" data-tab="Analytics" href="https://semalt.com/price#Analytics">Analytics</a>
+                <a class="headerPrice" data-tab="FullSeo" href="https://semalt.com/price#FullSeo">Full SEO</a>
+                <a class="headerPrice" data-tab="Video" href="https://semalt.com/price#Video">Explainer Video</a>
+            </div>             
+            <div class="rmenu rmenu3">
+                <a href="http://semalt.info">What is Semalt</a>
+                <a href="http://semalt.org">About us</a>
+                <a href="http://semalt.net">Crawler</a>
+                <a href="//blog.semalt.com">Blog</a>
+                <a href="//semalt.com/contacts">Contacts</a>
+            </div>
+            <div class="rmenu rmenu4">
+                <a href="http://semalt.expert">AutoSEO stories</a>
+                <a href="//semalt.com/case">FullSEO story</a>
+                <a href="http://semalt.media/portfolio">Video Portfolio</a>
+            </div>
+            <!--<div class="rmenu rmenu5">
+                <a href="//semalt.com/help">Help center</a>
+                <a href="//semalt.com/help">Useful info</a>
+            </div>-->
+        </div>
+    </div>
+</div>
+
+<script>
+//$('li','#menuMain').mouseenter(function(){
+$('.header-semalt-main').delegate('.menuli','mouseenter',function(){
+    $('.rmenu').hide();
+    var menu = $(this).children('a').attr('data-menu');
+    if(menu.length>0) {
+        $('.'+menu).show();
+        $('.header-pannel').addClass('pannelActive');
+    }
+    else {
+        $('.header-pannel').removeClass('pannelActive');
+    }
+});
+$('.header-semalt-main').mouseleave(function(){
+    $('.header-pannel').removeClass('pannelActive');
+});
+var notice = [];
+
+
+$('.header-semalt-main').delegate('#envelope','click',function(){
+    $('.popup', '.popup-holder').hide();
+    if($('.nfblock').is(":visible") == true) {
+        $('.nfblock').fadeOut(200);
+        $('.show_all_cat').hide();
+        return;                    
+    }
+	$.ajax({
+        url: 'https://semalt.com/ajax/notification/get_notification.php',
+        xhrFields: { withCredentials: true},  
+		headers: {'X-Requested-With': 'XMLHttpRequest'},
+        type: 'POST',
+        cache: false,
+        data: {'q':'notification_unreed', 'id_categ':1 },
+        success: function(data) { 
+            $('.nfblock').fadeIn(200);                       
+            data = data.split('__11__',3);
+            if(data[1]=='notification_unreed'){
+                $('.nfblock_main').html(data[0]);
+                add_scroll3();
+                $('.nfblock .nfblock1 .nfremove').addClass('nfnone');   
+            }
+            notice = $.parseJSON(data[2]);
+        }
+    });
+}); 
+function add_scroll3(){
+    if($('.nfblock1').length > 3){
+        $('.nfblock_main').addClass('scrollable-area');
+        jcf.customForms.replaceAll();
+    }
+    else {
+        if($('.nfblock1').length == 3){
+            var hh = $('.nfblock1').eq(0).height()+$('.nfblock1').eq(1).height()+$('.nfblock1').eq(2).height()+6;
+            if(hh>270){
+                $('.nfblock_main').addClass('scrollable-area');
+                jcf.customForms.replaceAll();
+                return;                  
+            }
+        }
+        $('.nfblock_main').css('width', 360).removeClass('scrollable-area').next('.vscrollbar').hide(); //.unwrap();
+    }
+}
+</script>
+<div id="middle">
+	<div id="pageContent" class="left fullWidth">
+<style>
+.policy{
+    width: 980px;
+    margin: 0 auto;
+    color: #868686;
+    font-family:  Ebrima, Arial, Tahoma, sans-serif;
+    text-align: justify;
+    font-size: 18px;
+    line-height: normal;
+    padding-bottom: 60px;
+}
+.policy h1 {
+    padding-top: 25px;
+    margin-bottom: -10px;
+    font-size: 48px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color:#00516d;
+    text-align: center;
+}
+.policy h2{
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#5f6978;
+    text-transform: uppercase;
+    margin-bottom: -5px;
+}
+.policy a {
+    color: #53b9ee;
+}
+</style>
+<script>
+Activity.log('visit', 'privacy_policy');
+</script>
+<div class="policy">
+	<h1>Privacy Policy</h1>
+	<p>At semalt.com, we respect the privacy of our users and the importance of the information they entrust to us. We provide this Privacy Policy so that our users ("you") will know what information is being collected about you and your activities on semalt.com, how that information is being used, and with whom it is being shared. This Privacy Policy describes the online privacy practices applicable to the web pages within the Internet domain semalt.com (the "Site") and the various services ("Services") we provide on or through the Site.</p>
+	<p>By using the Site and Services, you are agreeing to the collection and use of certain information about you in the manner described in this Privacy Policy.</p>
+	<p>We update this Privacy Policy from time to time. If we make any material changes in the ways we may collect, use, or share information, we will notify you by posting notice of the changes on the Site. We encourage you to periodically review our Privacy Policy to become and remain familiar with it.</p>
+	
+	<h2>Issues that privacy policy addresses</h2>
+	<p>In order to provide our full range of services, we may collect the following types of information:</p>
+
+	<h2>What types of information do we collect?</h2>
+	<p>Each time you visit the Site, we collect the limited information that your browser makes available whenever you visit any website. This information includes: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited before clicking through to the Site; (c) your browser and platform type (e.g., an IE browser on a Windows platform); (d) your browser language; and (e) the data in any undeleted "cookies" that your browser previously accepted from us. Additionally, when you enter a search query using the Site or Services, we will receive the query text and process it, together with the above data, to return a search results page to you. If you have modified your browser settings so that address-bar search queries and erroneous domain name system (DNS) requests are submitted to us, we may also receive any search query or misspelled URL that you enter into your browser's address bar.</p> 
+	<p>The Site and Services usually do not require registration or submission of an email address in order to use them.</p>
+
+	<h2>How may we use the information we collect?</h2>
+	<p>We use the information that we collect to improve the overall quality of your experience with the Site and Services, and to facilitate evaluation, improvement, and development of the Services. We aggregate query information for internal reporting purposes and optimization of advertising revenue. We count, track, and aggregate our visitors' activities in our analysis of general traffic flows at the Site (e.g., tracking where users come from, what pages they select within the Site, how they interact with search results, etc.).</p> 
+	<p>Information about the search queries you submit to the Site and how you interact with search results may also be used to personalize the content and advertisements that we present to you. We may, based on the search queries you submit and the search results you select (including paid search results), draw inferences about your interests and display advertisements matched to such interests. You may receive such customized ads on the Site, on websites in the Sponsored Listings network.</p>
+
+	<h2>How are cookies used on the site?</h2>
+	<p>We use cookies to track traffic flow and patterns of travel within and among the Site as well as websites in the Sponsored Listings network. Cookies are a standard Internet technology that allows us to store and retrieve information on a user's system. Our web server automatically asks a new user's browser whether it will accept our cookie file. If the user's browser accepts our cookie, our web server will record the cookie's unique ID for our use in internal reporting and for customized advertising. All of your search queries and interactions with search results on the Site are associated with your unique cookie ID. When you use the Site, or a website in the Sponsored Listings network, we may use your cookie data to customize the Services and advertisements delivered to you.</p> 
+	<p>If you would like to remove our cookies from your computer, you can delete them using your browser (consult your browser's "help" menu to learn how to delete cookies). If you choose to decline or remove cookies, please note that you may not be able to use some of the interactive features offered on the Site.</p>
+
+	<h2>What happens when you leave the site to go to other internet sites?</h2>
+	<p>We do not control the information collection and dissemination policies of third-party companies. When you are on the Site, you may be directed to other sites that are beyond our control. For example, if you click on a search result, the click may take you to a third-party website. These other sites may independently collect data from or about you, solicit information from you, or place their own cookies on your computer. We are not responsible for any use of the information such third-party sites may collect.</p> 
+
+	<h2>Do we take security precautions to protect your information?</h2>
+	<p>We have security measures in place that are designed to safeguard and help prevent unauthorized access to information we collect online. semalt.com utilizes both industry and proprietary standards to preserve the confidentiality of information. We seek to limit access to our users' information to employees who we believe reasonably need access to that information to provide products or services to you or in order to perform their jobs. These employees have been informed of the need to maintain the security and confidentiality of such information. Unfortunately, no security system can be 100% secure; accordingly, we cannot guarantee the security of the information that we collect online.</p> 
+</div>	</div>
+	<div class="clear"></div>
+</div>
+<div id="footer2015">
+    <div class="footermain">
+        <div class="blockfooter1">
+            <h4>Semalt company</h4>
+            <ul>
+                <li><a href="http://semalt.info">What is Semalt</a></li>
+                <li><a href="http://semalt.org">About Us</a></li>
+                <li><a href="//semalt.com/price">Pricing</a></li>
+                <li><a href="http://semalt.net">Crawler</a></li>
+                <li><a href="http://blog.semalt.com">Blog</a></li>
+                <li><a href="http://semalt.com/help">Help Center</a></li>
+                <li><a href="http://semalt.com/contacts">Contacts</a></li>
+            </ul>
+            <h4>Semalt Success stories</h4>
+            <ul>
+                <li><a href="http://semalt.expert">AutoSEO Stories</a></li>
+                <li><a href="http://semalt.com/case">FullSEO Case</a></li>
+            </ul>            
+        </div>
+        <div class="blockfooter2">
+            <h4>Semalt media</h4>
+            <ul>
+                <li><a href="http://semalt.media/explainer-video">What is Explainer Video</a></li>
+                <li><a href="http://semalt.media/free-video-tool">Free video tool</a></li>
+                <li><a href="http://semalt.media/template-video">Template video</a></li>
+                <li><a href="http://semalt.media/portfolio">Portfolio</a></li>
+                <li><a href="http://semalt.media/videos">Clients videos</a></li>
+                <li><a href="http://semalt.media/pricing">Pricing</a></li>
+                <li><a href="http://semalt.media/faq">Questions &amp; Answers</a></li>
+            </ul>
+            <h4>Resolution</h4>
+            <ul>
+                <li class="fmobilever"><a id="select_mobile">Mobile version</a></li>
+                <li class="fdesctopver"><a>Desktop version</a></li>
+            </ul>         
+        </div>
+        <div class="blockfooter3">
+            <h4>Products</h4>
+            <ul>
+                <!-- <li><a href="#">All Products</a></li> -->
+                <li><a href="http://semalt.com/autoseo">AutoSEO</a></li>
+                <li><a href="http://semalt.com/fullseo">FullSEO</a></li>
+                <li><a href="http://semalt.com/analytics">Analytics</a></li>
+                <li><a href="http://semalt.com/web-development">Web development</a></li>
+                <li><a href="http://semalt.com/video-productions">Video Production</a></li>
+            </ul>
+            <h4>FOLLOW US</h4>
+            <div class="social">
+                <div>
+                    <a target="_blank" href="https://www.facebook.com/SemaltCompany?fref=ts" class="s fb"></a>
+                    <a target="_blank" href="https://twitter.com/SemaltCom" class="s tw"></a>
+                    <a target="_blank" href="https://plus.google.com/u/0/100342573081864354339/posts" class="s gp"></a>
+                </div>
+                <div>
+                    <a target="_blank" href="https://www.linkedin.com/company/semalt-company" class="s in"></a>
+                    <a target="_blank" href="https://vimeo.com/user40074468" class="s vw"></a>
+                    <a target="_blank" href="https://www.youtube.com/channel/UCBAjjiw53lUAm5YR7lgB4sQ" class="s yo"></a>
+                </div>
+            </div>        
+        </div>
+        <div class="blockfooter4">
+            <h4>Contacts</h4>
+            <ul>
+                <li><a href="mailto:company@semalt.com">company@semalt.com</a></li>
+            </ul>
+            <div class="fcontacts">Sribnokilska St 3a,<br>Kyiv, 02095 Ukraine</div>
+            <div id="mapCanvas3"></div>
+            <img class="semalt-maps-img" src="//semalt.com/img/contacts/kiev.png?2">
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<div id="footer2015m">
+    <div class="footermainm">
+        <div class="fleft">© 2016, Semalt.com. All rights reserved</div>
+        <div class="fright">
+            <ul>
+                <li><a target="_blank" href="http://semalt.com/privacy-policy">Privacy Policy</a></li>
+                <li><a target="_blank" href="http://semalt.com/terms-of-service">Terms of Service</a></li>
+                <li><a target="_blank" href="http://semalt.com/refund-policy">Refund Policy</a></li>
+            </ul>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<script>
+var startMaps = false;
+function initialize(){ 
+  var myLatlng3 = new google.maps.LatLng(50.401276,30.630246);
+  var mapOptions3 = {
+    zoom: 15,
+    center: myLatlng3,
+    mapTypeId: google.maps.MapTypeId.ROADMAP,
+    scrollwheel: false
+  }
+  var image = '//semalt.com/img/contacts/semalt-ico2.png';
+  var map3 = new google.maps.Map(document.getElementById('mapCanvas3'), mapOptions3);
+  var contentString3 = '<div class="cont">'+
+    '<b>Head Office</b><br />' +
+    '<a href="//semalt.com">www.semalt.com</a><br />' +
+    'Sribnokilska St 3a, <br />' +
+    'Kyiv, 02095 Ukraine' +
+    '</div>';
+  var infowindow3 = new google.maps.InfoWindow({
+      content: contentString3
+  });
+  var marker3 = new google.maps.Marker({
+      position: myLatlng3,
+      map: map3,
+      title: 'Semalt',
+      icon: image
+  });
+  google.maps.event.addListener(marker3, 'click', function() { 
+    infowindow3.open(map3,marker3);
+  });
+}
+$('.semalt-maps-img').mouseenter(function(){
+    if(!startMaps){
+        startMaps = true;
+        var $this_ = $(this);
+        $.ajax({
+          url: 'https://maps.googleapis.com/maps/api/js?v=3.exp&language=en',
+          dataType: "script",
+          success: function(){ initialize(); setTimeout(function(){ $this_.remove();},800);
+          }
+        });         
+    }
+});
+//google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-46334650-1', 'auto', {'allowLinker': true});
+    ga('require', 'linker');
+    ga('linker:autoLink', ['semalt.com', 'semalt.org', 'semalt.net', 'semalt.info', 'semalt.expert', 'blog.semalt.com', 'semaltcases.com', 'semalt.media'] );
+    ga('send', 'pageview');
+</script>
+<!--LiveInternet counter--><script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;semalt?r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"" : ";s"+screen.width+"*"+screen.height+"*" + (screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u"+escape(document.URL) + ";h"+escape(document.title.substring(0,80)) + ";" +Math.random();</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter24618050 = new Ya.Metrika({
+                    id:24618050,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/24618050" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script>
+var google_b_analytics = function(){
+    var a1 = location.href.indexOf('?_ga=');
+    if (history.replaceState &&  a1!== -1) {
+        history.replaceState(null, null, location.pathname.substr(0, a1) );
+    }
+}
+google_b_analytics();
+</script>
+
+<input type="hidden" id="is_pw" value="0">
+
+
+</body></html>
