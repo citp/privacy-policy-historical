@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepeoplesperson.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209143404id_/http%3A//thepeoplesperson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepeoplesperson.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608191010id_/http%3A//thepeoplesperson.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Peoples Person
+# Privacy Policy
 
 This Privacy Policy governs the manner in which The Peoples Person collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://thepeoplesperson.com](http://thepeoplesperson.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Peoples Person.
 
