@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the termpaperslab.com privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026131941id_/http%3A//www.antiessays.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termpaperslab.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608021930id_/http%3A//www.antiessays.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - AntiEssays.com
 
@@ -73,8 +73,8 @@ By mail:
     
     
     AntiEssays.com
-    8939 1/2 Santa Monica Blvd
-    West Hollywood, CA 90069 USA
+    1680 Vine Street Suite 1200
+    Hollywood, CA 90028
 
 ##### If You Are a Resident of California
 
