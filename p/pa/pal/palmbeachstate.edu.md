@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palmbeachstate.edu privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208181949id_/http%3A//www.palmbeachstate.edu/businesscommunity/internet-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmbeachstate.edu privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608144343id_/http%3A//www.palmbeachstate.edu/businesscommunity/internet-privacy-statement.aspx) for the most accurate reproduction.*
 
 # Palm Beach State - Internet Privacy Statement
 
