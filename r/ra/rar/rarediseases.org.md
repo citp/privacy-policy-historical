@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rarediseases.org privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209143201id_/http%3A//rarediseases.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rarediseases.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608181901id_/http%3A//rarediseases.org/privacy) for the most accurate reproduction.*
 
 # Privacy - NORD (National Organization for Rare Disorders)
 
