@@ -1,6 +1,174 @@
-> *The following text is extracted and transformed from the patpat.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214133927id_/http%3A//patpat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patpat.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608212546id_/http%3A//patpat.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | PatPat
+# PatPat | Daily Deals For Moms
+
+[Women __](http://www.patpat.com/category/Women?category_id=10)
+
+## Flash Sale
+
+[ ](http://www.patpat.com/Flash-Sale/event/Summer-Festival-Favorites?event_id=12592)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Comfy-Knit-Tunics-and-Dresses---Plus-Size?event_id=12279)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Chevron-Maxi-Dresses?event_id=12588)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Hit-The-Gym-Womens-Sports-Tops-&-Shorts?event_id=12593)
+
+Ends in   
+3 days
+
+[Accessories __](http://www.patpat.com/category/Accessories?category_id=11)
+
+## Flash Sale
+
+[ ](http://www.patpat.com/Flash-Sale/event/Slap-up-Women%27s-Wallet?event_id=12605)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Your-Golden-Statement-Bracelets?event_id=12611)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Dazzling-Shambhala-Necklaces-&-Earrings-Set?event_id=12612)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Find-Your-Statement-Necklaces?event_id=12456)
+
+Ends in   
+18 hrs
+
+[Beauty __](http://www.patpat.com/category/Beauty?category_id=14)
+
+## Flash Sale
+
+[ ](http://www.patpat.com/Flash-Sale/event/Makeup-&-Jewelry-Organizers?event_id=12552)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Reusable-Menstrual-Pads-Prices-vary-by-size?event_id=12554)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/I-Love-Dots-Cosmetic-Bags?event_id=12651)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Flawless-Brush-Set?event_id=12654)
+
+Ends in   
+3 days
+
+[Kids __](http://www.patpat.com/category/Kids?category_id=12)
+
+## Flash Sale
+
+[ ](http://www.patpat.com/Flash-Sale/event/Sail-Away-with-Me?event_id=12650)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Girly-Graphic-One-Pieces?event_id=12657)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Cool-Outfits-for-Cool-Kids-Babes?event_id=12669)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Bluebird-Skies?event_id=12670)
+
+Ends in   
+3 days
+
+[Diapering __](http://www.patpat.com/category/Diapering?category_id=17)
+
+## Flash Sale
+
+[ ](http://www.patpat.com/Flash-Sale/event/Baby-Land:-Clean-&-Cute-Diaper-Bags?event_id=12576)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Sterling-Baby-Cloth-Diaper-Cover?event_id=12574)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Classic-Essentials-for-Babies?event_id=12575)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Caught-Ya-Lookin%27-Cloth-Diaper?event_id=12579)
+
+Ends in   
+3 days
+
+[Baby Care __](http://www.patpat.com/category/Baby-Care?category_id=15)
+
+## Flash Sale
+
+[ ](http://www.patpat.com/Flash-Sale/event/Baby-Land:-Clean-&-Cute-Diaper-Bags?event_id=12576)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Ready-for-Summer-Time-Toys?event_id=12345)
+
+Ends in   
+2 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Snug-Swaddle-Blankets-&-More?event_id=12524)
+
+Ends in   
+18 hrs
+
+[ ](http://www.patpat.com/Flash-Sale/event/Extra-large-Cuddly-Changing-Pads?event_id=12558)
+
+Ends in   
+2 days
+
+[Home __](http://www.patpat.com/category/Home?category_id=16)
+
+## Flash Sale
+
+[ ](http://www.patpat.com/Flash-Sale/event/Delicate-iPhone-Cover?event_id=12617)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Practical-Phone-and-Tablet-Stand?event_id=12557)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Family-Sun-Shelter-Cabana-Tents?event_id=12560)
+
+Ends in   
+3 days
+
+[ ](http://www.patpat.com/Flash-Sale/event/Amazing-Wall-Art?event_id=12591)
+
+Ends in   
+3 days
 
 ### **_INTERFOCUS, INC. PRIVACY POLICY_**
 
@@ -15,8 +183,8 @@ We may collect different types of personal and other information based on your u
 
 Some examples include:
 
-  * Contact Information that allows us to communicate with you — including your name, address, and e-mail address;
-  * Equipment, Performance, Site and/or App Usage, Viewing and other Technical Information about your use of our network, services, products or websites.
+  * Contact Information that allows us to communicate with you — including your name, address, and e-mail address; 
+  * Equipment, Performance, Site and/or App Usage, Viewing and other Technical Information about your use of our network, services, products or websites. 
 
 
 
@@ -34,7 +202,7 @@ We may use the information we collect in a variety of ways, including:
   * Communicating with you regarding service updates, offers, and promotions;
   * Delivering customized content that may be of interest to you;
   * Addressing network integrity and security issues;
-  * Investigating, preventing or taking action regarding illegal activities, violations of our User Agreement.
+  * Investigating, preventing or taking action regarding illegal activities, violations of our User Agreement. 
 
 
 
@@ -65,7 +233,3 @@ Interfocus, Inc.
 Suite W013
 
 Sunnyvale, California, 94085
-
-© 2015 Interfocus Inc. All Rights Reserved
-
-Apple, iPad, iPhone, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
