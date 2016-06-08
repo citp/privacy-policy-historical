@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contestburner.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207233107id_/http%3A//www.contestburner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contestburner.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608233124id_/http%3A//www.contestburner.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Contest Burner
 
