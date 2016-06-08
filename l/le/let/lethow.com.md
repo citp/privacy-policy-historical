@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lethow.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209141308id_/http%3A//lethow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lethow.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608103257id_/http%3A//lethow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Like many other Web sites, www.lethow.com makes use of log files. The informatio
 
 **Cookies and Web Beacons**
 
-We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit [http://www.aboutcookies.org](https://www.aboutcookies.org/ "http://www.aboutcookies.org") for detailed guidance. ** **
+We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit [http://www.aboutcookies.org](http://www.aboutcookies.org/ "http://www.aboutcookies.org") for detailed guidance. ** **
 
 **Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage.  **If you are not happy, then you should either not use this site, or you should delete www.lethow.com cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “In Private” for Internet Explorer, “Private Browsing” in Firefox and Safari etc.)  
 ** **  
@@ -26,13 +26,13 @@ Google, as a third party vendor, uses cookies to serve ads on www.lethow.com
 
 Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.lethow.com and other sites on the Internet.
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html")
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 **Google Adsense**
 
 This cookie is used by Google to report to us how the adverts shown on www.lethow.com are performing. User data is all anonymous.
 
-_You can find out more generally about Google and its policies and principles as regards advertising at_[ _http://www.google.com/policies/privacy/ads/_](https://www.google.com/policies/privacy/ads "http://www.google.com/policies/privacy/ads")
+_You can find out more generally about Google and its policies and principles as regards advertising at  _[ _http://www.google.com/policies/privacy/ads/_](http://www.google.com/policies/privacy/ads "http://www.google.com/policies/privacy/ads")
 
 **Google Analytics**
 
@@ -40,7 +40,7 @@ We use this to understand how the site is being used in order to improve the use
 
 User data is all anonymous.
 
-You can find out more about Google’s position on privacy as regards its analytics service at [http://www.google.co.uk/intl/en/analytics/privacyoverview.html](https://www.google.co.uk/intl/en/analytics/privacyoverview.html "http://www.google.co.uk/intl/en/analytics/privacyoverview.html")
+You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>
 
 **Six Apart Media**
 
@@ -57,24 +57,36 @@ When your browser requests a page that displays advertising from one of the Adve
 If you would like to contact the Advertisers to learn more about their privacy policies and what options (if any) they offer to opt out of their data collection and use, please follow these links to their Web sites:
 
 Six Apart Ltd.  
-[http://www.sixapart.com/privacy](https://www.sixapart.com/privacy "http://www.sixapart.com/privacy")
+<http://www.sixapart.com/privacy>
 
 Six Apart Media third party advertising networks and advertisers  
-[http://www.sixapart.com/advertising/solutions-for-bloggers/privacy/3rd-party-list/index.html](https://www.sixapart.com/advertising/solutions-for-bloggers/privacy/3rd-party-list/index.html "http://www.sixapart.com/advertising/solutions-for-bloggers/privacy/3rd-party-list/index.html")
+<http://www.sixapart.com/advertising/solutions-for-bloggers/privacy/3rd-party-list/index.html>
 
-Some of these third party advertising networks are participants in the Network Advertising Initiative (“NAI”), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may “opt out” of targeted advertising delivered by NAI member ad networks [here.](https://www.networkadvertising.org/ "http://www.networkadvertising.org")
+Some of these third party advertising networks are participants in the Network Advertising Initiative (“NAI”), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may “opt out” of targeted advertising delivered by NAI member ad networks [here.](http://www.networkadvertising.org/ "http://www.networkadvertising.org")
 
-**BuySellAds.com**
+**VigLinks.com**
 
-BuySellAds.com as a third party vendor serves ads on www.lethow.com.
+Viglinks.com as a third party vendor serves ads on www.lethow.com.
 
-BuySellAds.com may use cookies and/or web beacons to gather non-personally identifiable information for statistical purposes.
+VigLinks.com may use cookies and/or web beacons to gather non-personally identifiable information for statistical purposes.
 
-For more information about BuySellAds.com please visit the following pages:
+For more information about Viglinks.com please visit the following pages:
 
-Website: [http://buysellads.com/](https://buysellads.com/ "http://buysellads.com")  
-Privacy Policy: [http://buysellads.com/about/privacy](https://buysellads.com/about/privacy "http://buysellads.com/about/privacy")  
-Terms of use: [http://buysellads.com/about/terms](https://buysellads.com/about/terms "http://buysellads.com/about/terms")
+Website: [http://viglinks.com](http://viglinks.com/ "http://buysellads.com")  
+Privacy Policy: <http://www.viglink.com/legal/privacy/>  
+Terms of Service: <http://www.viglink.com/legal/tos/>
+
+**Media.Net Advertising Ltd.**
+
+Media.Net as a third party vendor serves ads on www.lethow.com.
+
+Media.Net may use cookies and/or web beacons to gather non-personally identifiable information for statistical purposes.
+
+For more information about media.net please visit the following pages:
+
+Website: [http://media.net](http://media.net/)  
+Privacy Policy: <http://www.media.net/privacy-policy>  
+Terms of Service: <http://www.media.net/TermsOfService>
 
 **Third Party Advertisers – General Information**
 
@@ -94,10 +106,10 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 **Persistent cookies for site performance**
 
-**Web beacons.**  Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+**Web Beacons.**  Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
-**Social buttons.**  On many of the pages of the site you will see ‘social buttons’. These enable users to share or bookmark the web pages. There are buttons for: Twitter, Google +1, Facebook ‘Like’, LinkedIn ‘Share’, and StumbleUpon & others similar. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of Econsultancy. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on Econsultancy’s site. So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting Econsultancy, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
+**Social Buttons.**  On many of the pages of the site you will see ‘social buttons’. These enable users to share or bookmark the web pages. There are buttons for: Twitter, Google +1, Facebook ‘Like’, LinkedIn ‘Share’, and StumbleUpon & others similar. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of Econsultancy. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on Econsultancy’s site. So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting Econsultancy, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
 
-**External web services.**  We use a number of external web services on the Consultancy site, mostly to display content within our web pages. For example, to display images we often use Flickr; to display slideshows we sometimes use SlideShare; to show videos we use Vimeo and YouTube. This is not an exhaustive or complete list of the services we use, or might use in the future, when embedding content, but these are the most common. As with the social buttons we cannot prevent these sites, or external domains, from collecting information on your usage of this embedded content. If you are not logged in to these external services then they will not know who you are but are likely to gather anonymous usage information e.g. number of views, plays, loads etc.
+**External Web Services.**  We use a number of external web services on the Consultancy site, mostly to display content within our web pages. For example, to display images we often use Flickr; to display slideshows we sometimes use SlideShare; to show videos we use Vimeo and YouTube. This is not an exhaustive or complete list of the services we use, or might use in the future, when embedding content, but these are the most common. As with the social buttons we cannot prevent these sites, or external domains, from collecting information on your usage of this embedded content. If you are not logged in to these external services then they will not know who you are but are likely to gather anonymous usage information e.g. number of views, plays, loads etc.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
