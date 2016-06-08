@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games2win.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927111719id_/http%3A//www.games2win.com/corporate/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2win.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608173806id_/http%3A//www.games2win.com/corporate/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Games2win.com - Play Free Games Online
 
