@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the our.com privacy policy that was archived on 2015-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209043657id_/http%3A//www.our.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the our.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608151625id_/http%3A//www.our.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
         <meta charset="utf-8">
-        <title>Our.com :: Privacy Policy</title>
+        <title>Privacy Policy - Our.com</title>
         <meta name="description" content="">
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
@@ -117,70 +117,10 @@
                     
             // Facebook login
             // Additional JS functions here
-            window.fbAsyncInit = function() {
-                FB.init({
-                  appId      : '161337093903516', // App ID
-                  version    : 'v2.2', // Api Version
-                  channelUrl : '//www.our.com/channel.php', // Channel File
-                  status     : true, // check login status
-                  cookie     : true, // enable cookies to allow the server to access the session
-                  xfbml      : true  // parse XFBML
-                });
-                // Additional init code here
-                FB.Event.subscribe('auth.statusChange', function(response) {
-                    //alert(response.status);
-                    if (response.status === 'connected') {
-                            var uid = response.authResponse.userID;
-                            var accessToken = response.authResponse.accessToken;
-                            // fb_validate();
-                        }else{
-                            //alert("Error found while logged in. Please try again.");
-                        }
-                    });
-            
-                FB.getLoginStatus(function(response) {
-                      if (response.status === 'connected') {
-                        // connected
-                        // fb_validate();
-                      } else if (response.status === 'not_authorized') {
-                        // not_authorized
-                        // fb_login();
-                      } else {
-                        // not_logged_in
-                        // fb_login();
-                      }
-                });
-            
-            };
-            
-            // Load the SDK Asynchronously
-            (function(d){
-               var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-               if (d.getElementById(id)) {return;}
-               js = d.createElement('script'); js.id = id; js.async = true;
-               js.src = "//connect.facebook.net/en_US/sdk.js";
-               ref.parentNode.insertBefore(js, ref);
-             }(document));
-            
-            function fb_login() {
-                FB.login(function(response) {
-                    if (response.authResponse) {
-                        // connected
-                        // alert('conectado');
-                        fb_validate();
-                    } else {
-                        // cancelled
-                        // alert("cancelado");
-                    }
-                },{scope:'public_profile,email,user_birthday'});
-            }
-            
-            function fb_validate() {
-               FB.api('/me', function(response) {
-                    // Redirección a la página de registro de facebook
-                    location.href = 'http://www.our.com/fb_registration.php';
-                });
-           	}            // uiSlideHeader
+            window.fbAsyncInit=function(){FB.init({appId:'161337093903516',version:'v2.2',channelUrl:'//www.our.com/channel.php',status:true,cookie:true,xfbml:true});FB.Event.subscribe('auth.statusChange',function(response){if(response.status==='connected'){var uid=response.authResponse.userID;var accessToken=response.authResponse.accessToken;}else{}});FB.getLoginStatus(function(response){if(response.status==='connected'){}else if(response.status==='not_authorized'){}else{}});};
+            (function(d){var js,id='facebook-jssdk',ref=d.getElementsByTagName('script')[0];if(d.getElementById(id)){return;}js=d.createElement('script');js.id=id;js.async=true;js.src="//connect.facebook.net/en_US/sdk.js";ref.parentNode.insertBefore(js, ref);}(document));
+            function fb_login(){FB.login(function(response){if(response.authResponse){fb_validate();}else{}},{scope:'public_profile,email,user_birthday'});}
+            function fb_validate(){FB.api('/me',function(response){location.href='http://www.our.com/fb_registration.php';});}            // uiSlideHeader
             var banners = new Array("http://www.our.com/app/our-slots/#_blank","http://www.our.com/app/our-bingo/#_blank","http://www.our.com/games/our-bingo/#_self","http://www.our.com/games/our-slots/#_self","javascript:showTheFormRegister();#_self");
 
             
@@ -294,7 +234,7 @@
                         emailToSend = emailToSend.toLowerCase();
                         // Send email via ajax
                         var sessionVarName = 'loginFormKey';
-                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:3892, sessionKeyVarName:sessionVarName} ,function(data) {
+                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:8468, sessionKeyVarName:sessionVarName} ,function(data) {
                              _loginFormRememberSended(true, data);
                         });
                     }
@@ -546,7 +486,7 @@
                         var fbId_param = '';
                         var fbImage_param = '';
                         var vinculateIdUser_param = '';
-                        $.post('http://www.our.com/usr_create.php',{ login:$('#registerLogin').val(), password:$('#registerPassword').val(), email:$('#registerEmail').val(), birthDate:birthDate, gender:$('[name="registerSex"]:checked').val(), sessionKey:7752, from:from, fbId:fbId_param, fbImage:fbImage_param, vinculateIdUser:vinculateIdUser_param} ,function(data) {
+                        $.post('http://www.our.com/usr_create.php',{ login:$('#registerLogin').val(), password:$('#registerPassword').val(), email:$('#registerEmail').val(), birthDate:birthDate, gender:$('[name="registerSex"]:checked').val(), sessionKey:3168, from:from, fbId:fbId_param, fbImage:fbImage_param, vinculateIdUser:vinculateIdUser_param} ,function(data) {
                             if (data.indexOf('yes') == -1 && isNaN(data)) {
                                 // Registration failed !!!!
                                 messageError("There was an error registering user");
@@ -623,7 +563,7 @@
                         emailToSend = emailToSend.toLowerCase();
                         // Send email via ajax
                         var sessionVarName = 'loginFormKey2';
-                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:8700, sessionKeyVarName:sessionVarName} ,function(data) {
+                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:1326, sessionKeyVarName:sessionVarName} ,function(data) {
                              _RegisterLoginFormRememberSended(true, data);
                         });
                     }
@@ -731,7 +671,7 @@
                 
                 $('#resendEmail').click(function() {
                     if (id_new_user > 0) {
-                        $.post('http://www.our.com/usr_send_validation_email.php',{ userId:id_new_user, sessionKey:5280} ,function(data) {
+                        $.post('http://www.our.com/usr_send_validation_email.php',{ userId:id_new_user, sessionKey:7815} ,function(data) {
                             if (data == 'yes') {
                                 // Email sended
                                 $('#responsenolocate2').html(message_email_sended + ' ' + email_new_user);
@@ -877,13 +817,9 @@
                 <a href="javascript://" class="fbenterButton" id="fbenterButton"><span>Login with</span></a>
             </div>        </div>
                     
-            <script type="text/javascript">
-            <!--
-            function changeLang(lng) {
-                window.location = location.protocol  + '//' + location.host + location.pathname + '?lang=' + lng;
-            }
-            //-->
-            </script>
+            <script type="text/javascript"><!--
+            function changeLang(lng){window.location=location.protocol+'//'+location.host+location.pathname+'?lang='+lng;}
+            --></script>
             <div id="footer">
                 <div id="footerLinks">
                     <a href="http://www.our.com/faq/">Help</a>
@@ -918,7 +854,8 @@
                             <div><label class="labelField" for="registerEmail">email</label><input type="text" name="registerEmail" id="registerEmail" value=""><div id="registerEmailCondition" class="condition"></div></div>
                             <div class="birthdayFields">
                                 <div class="selectYear"><select name="registerBirthYear" id="registerBirthYear">
-                                    <option value="2001">2001</option>
+                                    <option value="2002">2002</option>
+<option value="2001">2001</option>
 <option value="2000">2000</option>
 <option value="1999">1999</option>
 <option value="1998">1998</option>
@@ -984,7 +921,6 @@
 <option value="1938">1938</option>
 <option value="1937">1937</option>
 <option value="1936">1936</option>
-<option value="1935">1935</option>
 
                                 </select></div>
                                 <div class="selectMonth"><select name="registerBirthMonth" id="registerBirthMonth">
@@ -1105,5 +1041,5 @@
                 
         <script src="//static.getclicky.com/js" type="text/javascript"></script>
         <script type="text/javascript">try{ clicky.init(100614490); }catch(e){}</script>
-        <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100614490ns.gif" /></p></noscript>            
+        <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100614490ns.gif" /></p></noscript>    
 </body></html>
