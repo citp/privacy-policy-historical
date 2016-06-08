@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143312id_/http%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608022016id_/http%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
 
 # GPF: Privacy Statement and Ad Info
 
@@ -32,17 +32,16 @@ There have been, in some cases, advertisers who have displayed ads on our site t
 
 Each advertiser usually maintains their own privacy policies and procedures. For your convenience, we've included links to their privacy pages here:
 
-  * [Ligit Networks, Inc., Privacy Policy](http://www.lijit.com/company/privacy-policy)
-  * [ContextWeb Privacy & Security](http://www.contextweb.com/privacy_policy)
-  * [Google Privacy Policy](http://www.google.com/privacy/privacy-policy.html)
-  * [Project Wonderful Privacy Policy](http://www.projectwonderful.com/privacypolicy.php)
+  * [sovrn/Ligit Networks Privacy Policy](http://www.sovrn.com/privacy-policy/)
+  * [PulsePoint Privacy Policy](http://www.pulsepoint.com/privacy-policy.html)
+  * [Project Wonderful Privacy Policy](https://www.projectwonderful.com/privacypolicy.php)
 
 
 
 We are now required to include the following statement from one of our ad suppliers:
 
-> We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
+> We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/choices/).
 
 Currently, we have only a very limited capacity to directly sell ads on our site. Our tests have been largely experimental and we are exploring many options in this realm, such as purchasing ad-server software or simply rolling our own. In the meantime, we encourage anyone looking to advertise directly here on **GPF** to do so through [Project Wonderful](http://www.projectwonderful.com/). For more information, please see our [Advertising](http://www.gpf-comics.com/advertise/) hub.
 
-In addition, we've also launched [GPF Premium](http://www.gpf-comics.com/premium/), a subscription-based service that allows you to surf our site ad-free for a small fee. In addition, subscriptions allow you to gain access to exclusive content. We here at **GPF** heartily endorse Premium as a kewl, nifty way to enjoy our comic without pop-up banners and other annoying distractions. Please visit the link above for more details.
+In addition, we've also launched [GPF Premium](http://www.gpf-comics.com/premium/), a subscription-based service that allows you to surf our site ad-free for a small fee. In addition, subscriptions allow you to gain access to exclusive content. We here at **GPF** heartily endorse Premium as a cool, nifty way to enjoy our comic without pop-up banners and other annoying distractions. Please visit the link above for more details.
