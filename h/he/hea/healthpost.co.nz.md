@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the healthpost.co.nz privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140829id_/http%3A//www.healthpost.co.nz/customer-service/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpost.co.nz privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608100330id_/http%3A//www.healthpost.co.nz/customer-service/privacy-security) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy | HealthPost NZ
 
-**Date Last Updated: 9** th November 2015
+**Date Last Updated:** 9th November 2015
 
+|  [](http://www.healthpost.co.nz/customer-service/privacy-security/2014-online-trust-honour-roll "2014 Online Trust Honour Roll")  
+---|---  
+  
 ## The Short Version
 
 **We value your privacy and make it a priority to safeguard your personal information.**
@@ -12,11 +15,11 @@
 
 We understand that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide us. Any information you give to HealthPost will be held with the utmost care.
 
-A more detailed explanation of how we safeguard your personal information is found below.  This should be read in conjunction with our [Terms & Conditions](http://www.healthpost.co.nz/customer-service/terms-conditions/ "Terms & Conditions").
+A more detailed explanation of how we safeguard your personal information is found below.  This should be read in conjunction with our [Terms & Conditions](http://www.healthpost.co.nz/customer-service/terms-conditions "Terms & Conditions").
 
-If you've any questions or concerns, [please let us know.](https://web.archive.org/customer-service/contact-us "Contact us") We're always happy to help.
+If you've any questions or concerns, [please let us know.](http://www.healthpost.co.nz/contacts "Contact us") We're always happy to help.
 
-HealthPost is proud to have been awarded to the international Online Trust Alliance (OTA) [‘2014 Online Trust Honour Roll’](https://web.archive.org/customer-service/privacy-security/2014-online-trust-honour-roll "2014 Online Trust Honour Roll") for New Zealand.
+HealthPost is proud to have been awarded to the international Online Trust Alliance (OTA) [‘2014 Online Trust Honour Roll’](http://www.healthpost.co.nz/customer-service/privacy-security/2014-online-trust-honour-roll "2014 Online Trust Honour Roll") for New Zealand.
 
 * * *
 
