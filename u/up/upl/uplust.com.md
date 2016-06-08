@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uplust.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703103012id_/http%3A//uplust.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uplust.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608231222id_/http%3A//uplust.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Uplust Help Center
 
