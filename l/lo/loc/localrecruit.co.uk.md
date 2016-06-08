@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localrecruit.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141034id_/http%3A//www.localrecruit.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localrecruit.co.uk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608041832id_/http%3A//www.localrecruit.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Local Recruit: Privacy Policy
 
@@ -28,11 +28,11 @@ When you use the LocalRecruit.co.uk site, our servers (which may be hosted by a 
 
 Please refer to our [Cookie Policy](https://web.archive.org/cookies.html) for full infomation about the cookies we use and what they do.
 
-With regards to Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) (used to serve ads on this site):
+With regards to Google and the [DoubleClick DART cookie](http://www.google.com/doubleclick/) (used to serve ads on this site):
 
   * Google, as a third-party vendor, uses cookies to serve ads on this site.
   * Google's use of the DART cookie enables it and its partners to serve ads to our users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/policies/privacy/ads/).
 
 
 
