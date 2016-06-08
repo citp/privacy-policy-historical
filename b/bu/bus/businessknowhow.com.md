@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessknowhow.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906062340id_/http%3A//www.businessknowhow.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessknowhow.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608122500id_/http%3A//www.businessknowhow.com/privacy.htm) for the most accurate reproduction.*
 
 # Business Know-How® Privacy Statement
 
