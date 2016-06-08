@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lycamobile.us privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205182147id_/http%3A//www.lycamobile.us/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lycamobile.us privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609001943id_/http%3A//www.lycamobile.us/en/privacy) for the most accurate reproduction.*
 
 # Lycamobile | Privacy Policy
 
@@ -71,7 +71,7 @@ We maintain a variety of physical, electronic, and procedural safeguards. These 
 
 [ ](javascript:;) **Information choices and changes**
 
-We offer you choices regarding how we contact you for marketing related communications and whether we use information regarding your online activities for marketing purposes. Visit [contact us ](https://web.archive.org/web/20151205182147id_/http%3A//www.lycamobile.us/en/contactus)to learn about ways to register your privacy preferences with us. You may also register a "do not contact" request by calling customer care or sending an email to [cs@lycamobile.us](mailto:cs@lycamobile.us). It may take up to 15 business days to process this request. If you register a "do-not-contact" request, we may still contact you for non-promotional purposes, such as emails about your accounts or our ongoing business relations. If you disable cookies on your Internet browser, you also may stop some collection and use of data when you visit our web sites. If you would like to change certain Lycamobile account information, you may create an online account and manage your account online. For more information, [click here](http://www.lycamobile.us/en/)
+We offer you choices regarding how we contact you for marketing related communications and whether we use information regarding your online activities for marketing purposes. Visit [contact us ](https://web.archive.org/web/20160609001943id_/http%3A//www.lycamobile.us/en/contactus)to learn about ways to register your privacy preferences with us. You may also register a "do not contact" request by calling customer care or sending an email to [cs@lycamobile.us](mailto:cs@lycamobile.us). It may take up to 15 business days to process this request. If you register a "do-not-contact" request, we may still contact you for non-promotional purposes, such as emails about your accounts or our ongoing business relations. If you disable cookies on your Internet browser, you also may stop some collection and use of data when you visit our web sites. If you would like to change certain Lycamobile account information, you may create an online account and manage your account online. For more information, [click here](http://www.lycamobile.us/en/)
 
 [ ](javascript:;) **Contacting us**
 
