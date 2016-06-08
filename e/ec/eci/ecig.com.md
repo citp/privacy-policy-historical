@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecig.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207132407id_/http%3A//www.ecig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecig.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608181234id_/http%3A//www.ecig.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ecig.com | Electronic Cigarettes
+# Privacy Policy | Ecig.com
 
 __When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
