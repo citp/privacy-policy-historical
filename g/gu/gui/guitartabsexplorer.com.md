@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the guitartabsexplorer.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114916id_/http%3A//www.guitartabsexplorer.com/content/Privacy%2Bstatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitartabsexplorer.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608120753id_/http%3A//www.guitartabsexplorer.com/content/Privacy%2Bstatement.php) for the most accurate reproduction.*
 
 # GuitarTabsExplorer.com - Privacy statement
 
-**The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information which is received and collected by GuitarTabsExplorer.com and how it is used.**
+Chords & tabs __[Content](https://web.archive.org/content/) __Privacy statement
+
+The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information which is received and collected by GuitarTabsExplorer.com and how it is used. 
 
 ## How we use cookies
 
