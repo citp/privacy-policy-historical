@@ -1,253 +1,170 @@
-> *The following text is extracted and transformed from the asda.jobs privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140726id_/http%3A//www.asda.jobs/site-support/privacy-policy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asda.jobs privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608155355id_/http%3A//www.asda.jobs/privacy-cookie-policy) for the most accurate reproduction.*
 
-# Privacy policy and Cookies
+# Asda | Privacy & Cookie Policy
 
-This privacy statement sets out how ASDA Stores Limited (a company registered in England and Wales under company number 464777) ("Asda", "we", "our" or "us"), the operator of the website [www.asda.jobs](https://web.archive.org/) (the "site"), complies with UK data protection law.
+**_Privacy Policy_**
 
-This privacy statement applies to the processing of your application by Asda and your use of the recruitment services on the site.
+**Our Privacy Mission Statement:**
 
-Asda may update this privacy statement and so you should check it from time to time, and always before you submit an application, to make sure that you are happy with any changes that may have been made (as detailed below).
+"At ASDA, we value the trust placed in us by customers, suppliers and colleagues who give us their Personal Information. Data security is one of our highest priorities and we aim to be as clear as possible about what we do with Personal Information and why we do it."
 
-### Privacy
+**Our Privacy Statement for ASDA websites**
 
-Our aim is to be as clear and open as possible about what we do with your personal data and how we use it. If you apply for a position using the online recruitment services, or via your agency, Asda will receive and use the information you provide (including personal data) for the recruitment purposes outlined in this privacy statement.
+Your Privacy is really important to us, and we understand how important it is to you.
 
-##### What information do we collect and what do we use it for?
+Our aim is to be as clear and open as possible about what we do and why we do it. ASDA is committed to the online Privacy of all its users.
 
-You can have a look through the site without giving us any of your personal data.
+This Privacy Policy regulates the use by ASDA and its partner companies of the information you provide when using ASDA websites.
 
-If you decide to apply for a position via the site or your agency, Asda will need to collect and process your personal data, including:
+This ASDA website is run by the [ASDA group of companies](http://www.asda.com/help/privacy-policy.html?cmpid=ahc-_-ahc-_-asdacom-_-hp-_-footer-_-privacy#asdagroupcomp) and its partners (" **we** ", " **us** ", " **our** ")
 
-• Name, address and postcode - without this we would not know where to send recruitment information.
+The Privacy policy applies to the processing of your application by Asda and your use of the recruitment services on this site.
 
-• E-mail address - we send a confirmation of your application via email. We may use e-mail or telephone to advise you of similar alternative vacancies unless you have asked us not to. We may also contact you by e-mail if you have only partially completed an application. Rest assured, we won't bombard you with boring emails
+**_Information we collect_**
 
-• Contact telephone numbers - if there are any problems with your application or we need to clarify anything with you, we need to be able to contact you quickly. Again, we won't pester you.
+You can have a look through the site without giving us any of your Personal Information.
 
-• User name and password - this is to keep your personal data secure and so that you can return to a partially completed application at a later date.
+If you decide to apply for a position through the site or an agency, Asda will need to collect and process your Personal Information, including:
 
-• Your application - this is required so that we may assess you. Such personal data will include details of your skills (including education, professional qualifications and training), employment history and referees. You should only provide the personal data required by our application template. This template includes a question about any adjustments that may be required should you be invited for interview/assessment.
+  * Name, address and postcode - We need this to send you all of the recruitment information.
+  * E-mail address - We send a confirmation of your application by email. We may use e-mail or telephone to speak to you about similar vacancies unless you have asked us not to. We may also contact you by e-mail if you have only partially completed an application. But don’t worry. We won’t fill up your inbox with boring emails.
+  * Contact telephone numbers - If there are any problems with your application, or we have to clarify anything with you, we need to be able to contact you quickly. Again, we certainly won’t call you for any other reason.
+  * User name and password - This is to keep your Personal Information secure, and so you can come back to an incomplete application at a later date.
+  * Your application – Well, we definitely need this so we can assess you. Such Personal Information will include details of your skills (including education, professional qualifications and training), employment history and referees. You should only provide the Personal Information required by our application template. This template includes a question about any adjustments that may be required should you be invited for an interview or assessment.
+  * Disability Information – Any information you provide about a disability is considered Highly Sensitive. By providing such Personal Information, you agree to allow us to use it for the purposes of making any necessary adjustments if you’re invited for interview/assessment, and for monitoring purposes.
+  * Criminal records checks – For some roles, we might need to enquire about previous criminal convictions or carry out criminal records checks. If this is necessary, we’ll make you aware of this as early in the recruitment process as possible.
+  * Other Personal Information specified during the online application process that is relevant to recruitment.
 
-• Disability data - any personal data you provide about a disability is sensitive personal data. By providing such sensitive personal data, you agree to allow us to use it for the purposes of making any necessary adjustments if you are invited for interview/assessment, and for monitoring purposes.
 
-• Criminal records checks - some roles may require us to enquire about previous criminal convictions or carry out criminal records checks. If this is necessary we will make you aware of this as early in the recruitment process as possible.
 
-• Other personal data specified during the online application process that is relevant to recruitment.
+If you’re application is successful, we’ll need a few other things before you start. This includes your National Insurance number (and any other proof of your right to work in the UK, for example visa or working permits), bank details, date of birth, next of kin, and driving licence (if applicable).
 
-If your application is successful and we recruit you to work with Asda, we will also require your National Insurance number (and any other proof of your right to work in the UK, for example visa or working permits), bank details, date of birth, next of kin and driving licence (if applicable).
+**_How we use the information we collect_**
 
-### Use and disclosure of information
+The Personal Information you provide will be used to:
 
-The personal data you provide will be used to:
+  * Process your application.
+  * Consider you for the position you have applied for, and any upcoming vacancies that are suitable (unless you have opted not to be contacted in respect of subsequent vacancies).
+  * Fulfil Asda's legal obligations.
+  * Carry out internal record keeping.
+  * Provide general information (which does not identify individuals) and statistics to help Asda develop its websites and services.
+  * Make up part of your personnel records if your application is successful. However, this will only be for as long as it’s relevant to your employment at Asda.
+  * Approach your nominated referees for the purposes of obtaining references.
+  * Carry out equal opportunities monitoring (see below).
 
-• Process your application  
-• Consider you for the position for which you have applied, and subsequent suitable vacancies (unless you have opted not to be contacted in respect of subsequent vacancies)  
-• Fulfil Asda's legal obligations  
-• Carry out internal record keeping  
-• Provide general aggregate information (which does not identify individuals) and statistics to help Asda develop its websites and services  
-• Make up part of your personnel records if your application is successful (but only to the extent that such personal data is relevant to your on-going employment)  
-• Approach your nominated referees for the purposes of obtaining references  
-• Carry out equal opportunities monitoring (see below)
 
-Please note that we may use service providers to process your personal data on our behalf but only for the purposes outlined above.
 
-Where you provide personal data about somebody else, for example, your referees, you should ensure that they have given their consent.
+Where you provide Personal Information about somebody else, like your referees, you should always ask them beforehand to get their consent.
 
-### IP addresses
+**IP addresses**  \- when you visit our site, we will automatically receive your IP address, a unique identifier for your computer or other access device.
 
-When you visit the site, we may receive your IP address, a unique identifier for your computer or other access device. We do not use your IP address to identify you.
+**Equal opportunities -** We’re required by law to make basic documentation checks on every candidate. Please note that we’ll ask you to provide documentation of your eligibility to work in the UK if you’re invited to attend the next stage of the recruitment process with us. Other Personal Information, for example, relating to your gender, race or ethnic origin, religion or belief, age bracket, details of any disability and sexual orientation is requested for the purpose of monitoring the effectiveness of our Equal Opportunities policy. This Personal Information is requested purely for monitoring purposes.
 
-### Cookies
+**Cookies**
 
-Our sites use a number of different cookies. Below we explain the cookies we use and why we use them.
+Our sites use a number of different cookies. Below we explain the cookies we use and why we use them.   
+[What is a cookie?](http://www.asda.com/help/privacy-policy.html?cmpid=ahc-_-ahc-_-asdacom-_-hp-_-footer-_-privacy#cookiesWhat)   
+[Cookies we use and why we use them](http://www.asda.com/help/privacy-policy.html?cmpid=ahc-_-ahc-_-asdacom-_-hp-_-footer-_-privacy#cookiesWeUse)   
+[Your right to refuse cookies and what happens if you refuse them](http://www.asda.com/help/privacy-policy.html?cmpid=ahc-_-ahc-_-asdacom-_-hp-_-footer-_-privacy#cookiesRefuse)
 
-##### What is a cookie?
-
+**What is a cookie?**    
 A cookie is a small text file that may be placed on your device when you visit our sites. When you next visit our sites the cookie allows us to distinguish you from other users.
 
-There are two broad categories of cookies:
+**There are two broad categories of cookies:**
 
-**• Persistent cookies** \- Persistent cookies remain on your device until deleted manually or automatically
+  1. **Persistent cookies**  
+Persistent cookies remain on your device until deleted manually or automatically.
+  2. **Session cookies**  
+Session cookies remain on your device until you close your browser when they are automatically deleted.
 
-**• Session cookies** \- Session cookies remain on your device until you close your browser when they are automatically deleted.
 
-##### Cookies we use and why we use them
 
-**• Essential cookies** \- Essential cookies are technical cookies that are required for the operation of our sites. Without essential cookies our sites can't operate properly. Essential cookies include, for example, cookies that enable you to log into secure areas
+**Cookies we use and why we use them**
 
-**• Performance cookies** \- Performance cookies allow us to recognise and count the number of visitors to our sites and to see how visitors move around them. This helps us to improve the way our sites work by enabling us to tailor our sites to the way visitors use them. The information we collect from performance cookies is aggregated which means that we cannot identify you from it.
+  1. **Essential cookies**  
+Essential cookies are technical cookies that are required for the operation of our sites. Without essential cookies our sites can’t operate properly. Essential cookies include, for example, cookies that enable you to log into secure areas.
+  2. **Performance cookies**  
+Performance cookies allow us to recognise and count the number of visitors to our sites and to see how visitors move around them. This helps us to improve the way our sites work by enabling us to tailor our sites to the way visitors use them. The information we collect from performance cookies is aggregated which means that we cannot identify you from it.
+  3. **Experience cookies**  
+Experience cookies allow our sites to remember the choices you make. Our sites use experience cookies to provide you with enhanced and personalised features. For example, we use information collected through what are known as “web-analytic” cookies to compare the choices you make to those of our other customers so that we can learn from those choices.   
+Information collected by experience cookies cannot track your browsing activity when you leave our sites to browse other sites.
+  4. **Marketing cookies**  
+Marketing cookies record your visits to our sites, the pages you have visited and the links you have followed. We use this information to make our sites and the advertising displayed on them more relevant to your interests. For example sometimes we use marketing cookies to limit the number of times that you see an advert. Sometimes we share information about your browsing activity, (which we have collected from cookies), with our advertising partners. They may use this information to advertise products, which may interest you, on other sites.
 
-**• Experience cookies** \- Experience cookies allow our sites to remember the choices you make. Our sites use experience cookies to provide you with enhanced and personalised features. For example, we use information collected through what are known as "web-analytic" cookies to compare the choices you make to those of our other customers so that we can learn from those choices. Information collected by experience cookies cannot track your browsing activity when you leave our sites to browse other sites.
 
-**• Marketing cookies** \- Marketing cookies record your visits to our sites, the pages you have visited and the links you have followed. We use this information to make our sites and the advertising displayed on them more relevant to your interests. For example sometimes we use marketing cookies to limit the number of times that you see an advert. Sometimes we share information about your browsing activity, (which we have collected from cookies), with our advertising partners. They may use this information to advertise products, which may interest you, on other sites.
 
-##### Turning cookies and web beacons off
+**Your right to refuse cookies and what happens if you refuse them**    
+You can refuse cookies by activating the relevant setting on your browser. However, if you do so you may not be able to access all or parts of our sites. If you carry on using our sites and do not change your browser settings we will assume you consent to us using cookies as described above.
 
-You have a choice to accept or reject cookies and web beacons. You may set up your web browser to notify you of cookie placement requests or web beacons, or you can choose to reject cookies or web beacons completely.  
-If you want to delete any cookies or web beacons that are already on your computer or reject future cookies or web beacons, please go to the instructions for your file management software or look at www.aboutcookies.org.  
-Please remember that if you delete or reject cookies or web beacons, certain parts of the site may not be available or may not function properly. If you do not reject cookies or web beacons and you continue to use the site, you agree to our use of such cookies and web beacons.
+**Who we share the information Wwith**
 
-### Equal Opportunities
+We will not sell your personal information to third parties other than our subsidiaries, affiliates or parent companies unless you say we can (for example for carefully selected third parties to contact you) or are required by law.
 
-We are required by law to make basic documentation checks on every candidate. Please note that you will be asked to provide documentation of your eligibility to work in the UK if you are invited to attend the next stage of the recruitment process with us. Other personal data, for example, relating to your gender, race or ethnic origin, religion or belief, age bracket, details of any disability and sexual orientation is requested for the purpose of monitoring the effectiveness of our Equal Opportunities policy. This personal data is requested purely for monitoring purposes.
+**Processing by third parties**  \- from time to time we may employ other companies and individuals to perform functions on our behalf. They have access to Personal Information needed to perform their functions, they will only use it for the purposes listed above, and they may not use it for other purposes. They must also process the Personal Information as set out in this Privacy Policy and as permitted by the UK's Data Protection Act.
 
-### International transfers
+**International transfers**  \- in order to carry out the steps set out above we may send your personal information outside of the European Economic Area and, if necessary, across international borders. The data protection laws in these countries may not be as comprehensive as in the European Economic Area. However, we have taken appropriate steps to make sure the same level of protection for the processing carried out in these countries as within the European Economic Area. Any details you provide may be electronically sent to the US to our parent company Wal-Mart Stores Inc., which helps us in running our websites. However, any such information will be dealt with in accordance with the UK's Data Protection Act.
 
-In order to carry out the steps set out above we may send your personal data outside of the European Economic Area and, if necessary, across international borders. By submitting your personal data to us, you agree to this transfer, storing and processing. The data protection laws in these countries may not be as comprehensive as in the European Economic Area. However, we will take appropriate steps to make sure there is an adequate level of protection for processing personal data in these countries in accordance with the UK Data Protection Act 1998.
+**Storage of data** \- We will not store your personal information for any longer than we need to, however we may be obliged by law to store your communications and personal information including activity logs and we may need to show details of these to government or authorised officials upon request. Like many websites, we use log files to monitor the effectiveness of our online marketing programmes.
 
-Any details you provide may be electronically sent to the US to our parent company Walmart Stores, Inc., which helps us in running our websites. However, any such personal data will be dealt with in accordance with the UK Data Protection Act 1998.
+**Access rights**
 
-### Storage of Data
+You have a right to access the personal information that is held about you. To obtain a copy of the personal information ASDA holds about you, please write to us at the following address enclosing your postal details and a cheque for £10, which we are entitled by law to charge, payable to ASDA Stores Limited: 
 
-We will not store your personal data for any longer than is necessary for the purposes for which it was collected or as required by law. However, we may be obliged by law to store your communications and personal data including activity logs and we may need to show details of these to government or authorised officials upon request. Like many websites, we use log files to monitor the effectiveness of our online marketing programmes.
+  
+Data Protection Officer,   
+Legal Department,   
+ASDA Stores Limited,   
+ASDA House,   
+Great Wilson Street,   
+Southbank,   
+Leeds, LS11 5AD
 
-### Your rights and removal of your personal data
+**Security**  \- at ASDA, information security is very important and we have taken many steps to make sure your shopping experience with us is secure. Information about you will be kept safe and secure. In order to prevent unauthorised access or disclosure of your information, we have put in place suitable physical, electronic and managerial procedures to protect and secure information that is collected online.
 
-It is your responsibility to ensure that all of the personal data you provide is true and is not misleading, deceptive or inaccurate in any way. If you believe any of the personal data Asda holds about you is incorrect, please log back into your account and amend your record or contact us at Asda Resourcing Team, Asda House, Great Wilson Street, Leeds, LS11 5AD and we will happily amend this for you.  
-If at any time after the submission of your application you become unavailable to work, or if you simply change your mind, please contact the store / depot you have applied to work in and we will withdraw your application.
+**Keeping your information secure**  \- to help us keep your information confidential you should:
 
-You have a right to access the personal data held about you. To obtain a copy of the personal data we hold about you, please contact us at Asda Resourcing Team, Asda House, Great Wilson Street, Leeds, LS11 5AD.
+  1. Keep your password secret.
+  2. Never distribute the website addresses for pages that you have looked at while logged in as a registered customer.
 
-### Security
 
-The transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the site. Any transmission is at your own risk.  
-Once we receive your personal data, we will use appropriate technical and organisational measures to protect your personal data against unauthorised or unlawful processing and accidental loss, destruction or damage.
 
-Your personal data can only be viewed on-line if you successfully log-in to the site. Our log-in procedure minimises the risk of someone who is not the applicant doing this. You are responsible for keeping your password confidential. We ask you not to share this password with anyone.
+**Password**  \- you should choose a password that is not obvious or known to anyone else. You should never give a third party your password, as you will be responsible for all activity and charges incurred through use of your password whether authorised by you or not.
 
-### Content
+If you forget your password, you can request a new password, which will be emailed to the address we hold for you. You can change your password anytime through the account facilities on the website. Should we think that there is likely to be, or has been any breach of security, we may change your password and notify you of the change by email.
 
-The questionnaire you are about to take is proprietary software produced by Kenexa Technology, Inc. and/or its partners. The content in this questionnaire is protected by International Copyright law. Under no condition may it be copied, reproduced, or reconstructed in whole, or in part, in any form whatsoever without the express written consent of Kenexa Technology, Inc.
+**Security in our offices**  \- access to your information is restricted in our stores and offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. The servers that store this information are kept in a secure environment.
 
-### No liability for consequential damages
+**Links**
 
-In no event shall Kenexa or its suppliers be liable for any damages whatsoever including, without limitation, damages for loss of vocational opportunity arising out of the use of or inability to use this Kenexa product, even if Kenexa has been advised about the possibility of such damages.  
-Contact  
-Questions, comments and any requests regarding this privacy statement are welcomed and should be addressed to Asda Resourcing Team, Asda House, Great Wilson Street, Leeds, LS11 5AD.
+Our website may contain links to let you to visit other websites of interest easily. Once you have used these links to leave our website, you should be aware that we do not have any control over that other website. As such we cannot be responsible for the protection and privacy of any information which you provide whilst visiting these websites, and they are not governed by this Privacy Policy. ASDA is not responsible for any products and/or services featured on any third party website. You should exercise caution and look at the Privacy Policy applicable to the website in question.
 
-This privacy statement was last updated on 21 June 2011.
+**Notification of changes to this policy**
 
-This privacy statement sets out how ASDA Stores Limited (a company registered in England and Wales under company number 464777) ("Asda", "we", "our" or "us"), the operator of the website [www.asda.jobs](https://web.archive.org/) (the "site"), complies with UK data protection law.
+If we decide to change our Privacy Policy, we will post these changes on this website so you know what information we collect and how we use it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will tell you. You will have a choice as to whether or not we use your information in this different manner.
 
-This privacy statement applies to the processing of your application by Asda and your use of the recruitment services on the site.
+**Feedback**
 
-Asda may update this privacy statement and so you should check it from time to time, and always before you submit an application, to make sure that you are happy with any changes that may have been made (as detailed below).
+We want to make sure we're giving you the information about privacy and security that you want - let us know what you think. If you have any feedback, questions or concerns, please email us at [dataprotection@asda.co.uk](mailto:dataprotection@asda.co.uk).
 
-### Privacy
+**ASDA group of companies:**
 
-Our aim is to be as clear and open as possible about what we do with your personal data and how we use it. If you apply for a position using the online recruitment services, or via your agency, Asda will receive and use the information you provide (including personal data) for the recruitment purposes outlined in this privacy statement.
+**Asda Stores Limited**    
+Asda House   
+South Bank   
+Great Wilson Street   
+Leeds   
+LS11 5AD   
+Registered in England & Wales, company No. 00464777   
+ICO registration no: Z7545987   
+FCA No. 407914   
+VAT No. GB 362 0127 92
 
-##### What information do we collect and what do we use it for?
-
-You can have a look through the site without giving us any of your personal data.
-
-If you decide to apply for a position via the site or your agency, Asda will need to collect and process your personal data, including:
-
-• Name, address and postcode - without this we would not know where to send recruitment information.
-
-• E-mail address - we send a confirmation of your application via email. We may use e-mail or telephone to advise you of similar alternative vacancies unless you have asked us not to. We may also contact you by e-mail if you have only partially completed an application. Rest assured, we won't bombard you with boring emails
-
-• Contact telephone numbers - if there are any problems with your application or we need to clarify anything with you, we need to be able to contact you quickly. Again, we won't pester you.
-
-• User name and password - this is to keep your personal data secure and so that you can return to a partially completed application at a later date.
-
-• Your application - this is required so that we may assess you. Such personal data will include details of your skills (including education, professional qualifications and training), employment history and referees. You should only provide the personal data required by our application template. This template includes a question about any adjustments that may be required should you be invited for interview/assessment.
-
-• Disability data - any personal data you provide about a disability is sensitive personal data. By providing such sensitive personal data, you agree to allow us to use it for the purposes of making any necessary adjustments if you are invited for interview/assessment, and for monitoring purposes.
-
-• Criminal records checks - some roles may require us to enquire about previous criminal convictions or carry out criminal records checks. If this is necessary we will make you aware of this as early in the recruitment process as possible.
-
-• Other personal data specified during the online application process that is relevant to recruitment.
-
-If your application is successful and we recruit you to work with Asda, we will also require your National Insurance number (and any other proof of your right to work in the UK, for example visa or working permits), bank details, date of birth, next of kin and driving licence (if applicable).
-
-### Use and disclosure of information
-
-The personal data you provide will be used to:
-
-• Process your application  
-• Consider you for the position for which you have applied, and subsequent suitable vacancies (unless you have opted not to be contacted in respect of subsequent vacancies)  
-• Fulfil Asda's legal obligations  
-• Carry out internal record keeping  
-• Provide general aggregate information (which does not identify individuals) and statistics to help Asda develop its websites and services  
-• Make up part of your personnel records if your application is successful (but only to the extent that such personal data is relevant to your on-going employment)  
-• Approach your nominated referees for the purposes of obtaining references  
-• Carry out equal opportunities monitoring (see below)
-
-Please note that we may use service providers to process your personal data on our behalf but only for the purposes outlined above.
-
-Where you provide personal data about somebody else, for example, your referees, you should ensure that they have given their consent.
-
-### IP addresses
-
-When you visit the site, we may receive your IP address, a unique identifier for your computer or other access device. We do not use your IP address to identify you.
-
-### Cookies
-
-Our sites use a number of different cookies. Below we explain the cookies we use and why we use them.
-
-##### What is a cookie?
-
-A cookie is a small text file that may be placed on your device when you visit our sites. When you next visit our sites the cookie allows us to distinguish you from other users.
-
-There are two broad categories of cookies:
-
-**• Persistent cookies** \- Persistent cookies remain on your device until deleted manually or automatically
-
-**• Session cookies** \- Session cookies remain on your device until you close your browser when they are automatically deleted.
-
-##### Cookies we use and why we use them
-
-**• Essential cookies** \- Essential cookies are technical cookies that are required for the operation of our sites. Without essential cookies our sites can't operate properly. Essential cookies include, for example, cookies that enable you to log into secure areas
-
-**• Performance cookies** \- Performance cookies allow us to recognise and count the number of visitors to our sites and to see how visitors move around them. This helps us to improve the way our sites work by enabling us to tailor our sites to the way visitors use them. The information we collect from performance cookies is aggregated which means that we cannot identify you from it.
-
-**• Experience cookies** \- Experience cookies allow our sites to remember the choices you make. Our sites use experience cookies to provide you with enhanced and personalised features. For example, we use information collected through what are known as "web-analytic" cookies to compare the choices you make to those of our other customers so that we can learn from those choices. Information collected by experience cookies cannot track your browsing activity when you leave our sites to browse other sites.
-
-**• Marketing cookies** \- Marketing cookies record your visits to our sites, the pages you have visited and the links you have followed. We use this information to make our sites and the advertising displayed on them more relevant to your interests. For example sometimes we use marketing cookies to limit the number of times that you see an advert. Sometimes we share information about your browsing activity, (which we have collected from cookies), with our advertising partners. They may use this information to advertise products, which may interest you, on other sites.
-
-##### Turning cookies and web beacons off
-
-You have a choice to accept or reject cookies and web beacons. You may set up your web browser to notify you of cookie placement requests or web beacons, or you can choose to reject cookies or web beacons completely.  
-If you want to delete any cookies or web beacons that are already on your computer or reject future cookies or web beacons, please go to the instructions for your file management software or look at www.aboutcookies.org.  
-Please remember that if you delete or reject cookies or web beacons, certain parts of the site may not be available or may not function properly. If you do not reject cookies or web beacons and you continue to use the site, you agree to our use of such cookies and web beacons.
-
-### Equal Opportunities
-
-We are required by law to make basic documentation checks on every candidate. Please note that you will be asked to provide documentation of your eligibility to work in the UK if you are invited to attend the next stage of the recruitment process with us. Other personal data, for example, relating to your gender, race or ethnic origin, religion or belief, age bracket, details of any disability and sexual orientation is requested for the purpose of monitoring the effectiveness of our Equal Opportunities policy. This personal data is requested purely for monitoring purposes.
-
-### International transfers
-
-In order to carry out the steps set out above we may send your personal data outside of the European Economic Area and, if necessary, across international borders. By submitting your personal data to us, you agree to this transfer, storing and processing. The data protection laws in these countries may not be as comprehensive as in the European Economic Area. However, we will take appropriate steps to make sure there is an adequate level of protection for processing personal data in these countries in accordance with the UK Data Protection Act 1998.
-
-Any details you provide may be electronically sent to the US to our parent company Walmart Stores, Inc., which helps us in running our websites. However, any such personal data will be dealt with in accordance with the UK Data Protection Act 1998.
-
-### Storage of Data
-
-We will not store your personal data for any longer than is necessary for the purposes for which it was collected or as required by law. However, we may be obliged by law to store your communications and personal data including activity logs and we may need to show details of these to government or authorised officials upon request. Like many websites, we use log files to monitor the effectiveness of our online marketing programmes.
-
-### Your rights and removal of your personal data
-
-It is your responsibility to ensure that all of the personal data you provide is true and is not misleading, deceptive or inaccurate in any way. If you believe any of the personal data Asda holds about you is incorrect, please log back into your account and amend your record or contact us at Asda Resourcing Team, Asda House, Great Wilson Street, Leeds, LS11 5AD and we will happily amend this for you.  
-If at any time after the submission of your application you become unavailable to work, or if you simply change your mind, please contact the store / depot you have applied to work in and we will withdraw your application.
-
-You have a right to access the personal data held about you. To obtain a copy of the personal data we hold about you, please contact us at Asda Resourcing Team, Asda House, Great Wilson Street, Leeds, LS11 5AD.
-
-### Security
-
-The transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the site. Any transmission is at your own risk.  
-Once we receive your personal data, we will use appropriate technical and organisational measures to protect your personal data against unauthorised or unlawful processing and accidental loss, destruction or damage.
-
-Your personal data can only be viewed on-line if you successfully log-in to the site. Our log-in procedure minimises the risk of someone who is not the applicant doing this. You are responsible for keeping your password confidential. We ask you not to share this password with anyone.
-
-### Content
-
-The questionnaire you are about to take is proprietary software produced by Kenexa Technology, Inc. and/or its partners. The content in this questionnaire is protected by International Copyright law. Under no condition may it be copied, reproduced, or reconstructed in whole, or in part, in any form whatsoever without the express written consent of Kenexa Technology, Inc.
-
-### No liability for consequential damages
-
-In no event shall Kenexa or its suppliers be liable for any damages whatsoever including, without limitation, damages for loss of vocational opportunity arising out of the use of or inability to use this Kenexa product, even if Kenexa has been advised about the possibility of such damages.  
-Contact  
-Questions, comments and any requests regarding this privacy statement are welcomed and should be addressed to Asda Resourcing Team, Asda House, Great Wilson Street, Leeds, LS11 5AD.
-
-This privacy statement was last updated on 21 June 2011.
+**Asda Financial Services Limited**    
+Asda House Southbank   
+Great Wilson Street   
+Leeds   
+West Yorkshire   
+LS11 5AD   
+Registered in England & Wales, company No. 04562707   
+ICO registration no: Z1392501   
+FCA No. 230174
