@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the our.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209043657id_/http%3A//www.our.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the our.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608151625id_/http%3A//www.our.com/privacy) for the most accurate reproduction.*
 
-# Our.com :: Privacy Policy
+# Privacy Policy - Our.com
 
 ### Data Protection and Privacy Policy
 
