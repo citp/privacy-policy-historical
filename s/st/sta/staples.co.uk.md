@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the staples.co.uk privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230121249id_/http%3A//www.staples.co.uk/Content/static/customerservice/legal/policy_privacy.cshtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staples.co.uk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608081005id_/http%3A//www.staples.co.uk/Content/static/customerservice/legal/policy_privacy.cshtml) for the most accurate reproduction.*
 
-# Policy | Staples.co.uk
+# Policy | Staples®
 
 Policy The policy and legal information with online shopping on Staples.
 
@@ -38,7 +38,7 @@ Our service providers and other data recipients may be located in countries outs
 
 ### How can I limit the use and sharing personal data about me?
 
-We will provide you with any marketing communication or invitations for product reviews via email only if you have expressly consented to such communication. You may withdraw your consent at any time by calling us on 0333 300 1334, by writing to us at Staples Direct, PO Box 732, Doncaster, DN3 1WR, by faxing us on 0333 300 0039 or by sending an e-mail via our [online contact form](https://web.archive.org/Contact/CustomerEmailFeedBack?icid=ft:cs).
+We will provide you with any marketing communication or invitations for product reviews via email only if you have expressly consented to such communication. You may withdraw your consent at any time by calling us on 0333 300 1334, by writing to us at Customer Services, Staples Online UK Aqueous 3, Aston Cross Business Village Rocky Lane Birmingham B6 5RQ, by faxing us on 0333 300 0039 or by sending an e-mail via our [online contact form](https://web.archive.org/Contact/CustomerEmailFeedBack?icid=ft:cs).
 
 ### How can I access or update personally identifiable information about myself?
 
@@ -46,6 +46,6 @@ It is important that our databases are accurate and up-to-date. To exercise your
 
 ### How may I contact Staples?
 
-If you have any questions about our handling of personal data relating to you, please contact us at 0333 300 1334. Alternatively, you may fax us on 0333 300 0039 or write to us at Staples Direct, PO Box 732, Doncaster, DN3 1WR.
+If you have any questions about our handling of personal data relating to you, please contact us at 0333 300 1334. Alternatively, you may fax us on 0333 300 0039 or write to us at Customer Services, Staples Online UK, Aqueous 3, Aston Cross Business Village, Rocky Lane, Birmingham B6 5RQ.
 
 This Privacy Statement was posted on 25 April 2014. We reserve the right to change our data practices from time to time.
