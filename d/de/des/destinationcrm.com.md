@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationcrm.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203172013id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationcrm.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608173655id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
 
 # ITI Privacy and Cookies Policy
 
