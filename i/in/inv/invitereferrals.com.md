@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invitereferrals.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927195007id_/http%3A//www.invitereferrals.com/campaign/site/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitereferrals.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608172908id_/http%3A//www.invitereferrals.com/campaign/site/policy) for the most accurate reproduction.*
 
-# Privacy Policy - Invite Referrals
+# Privacy Policy | Referral Program Software | Invite Referrals
 
   * inviteReferrals.com ('inviteReferrals', 'We', 'Our') is committed to protecting your privacy and ensuring you have a positive experience on our website, [www.inviteReferrals.com](http://www.invitereferrals.com/) ("Website"). This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy.
   * We encourage you to read this policy to ensure you understand inviteReferrals's privacy practices.
