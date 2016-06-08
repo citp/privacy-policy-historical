@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quakeroats.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190811id_/http%3A//www.quakeroats.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quakeroats.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608151214id_/http%3A//www.quakeroats.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | QuakerOats.com
 
@@ -105,4 +105,4 @@ P.O. Box 049003
 Chicago, IL 60604-9003  
 (312) 821-1000
 
-©2015 The Quaker Oats Company. All rights reserved. 
+©2016 The Quaker Oats Company. All rights reserved. 
