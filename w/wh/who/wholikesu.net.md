@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholikesu.net privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210051928id_/http%3A//www.wholikesu.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholikesu.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608230252id_/http%3A//www.wholikesu.net/privacy.html) for the most accurate reproduction.*
 
 # Who likes you? - Online Dating Service.
 
