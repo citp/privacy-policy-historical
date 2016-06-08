@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ioncube.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206104317id_/http%3A//www.ioncube.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioncube.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608125253id_/http%3A//www.ioncube.com/pp.php) for the most accurate reproduction.*
 
 # - PHP Encoder, protection, installer and performance tools from ionCube
+
+Privacy Policy
 
 PRIVACY POLICY FOR IONCUBE.COM 
 
@@ -16,7 +18,7 @@ For your security, information gathered and processed for effecting a purchase i
 
 THE USE OF COOKIES 
 
-A cookie is a piece of data stored on a visitor's computer containing information sent from the Service. It is passed to the Service when the user requests pages. The Service uses a cookie to establish and authenticate a private session between a member and the Service. Cookies cannot be used to obtain any information from the users computer other than that which was stored in the cookie by the Service in the first place. The cookie is invalidated and may be deleted by the member's browser when the member elects to log out of the Service. For more details, see our [Cookies Policy](https://web.archive.org/web/20151206104317id_/http%3A//www.ioncube.com/cookies_policy.php). 
+A cookie is a piece of data stored on a visitor's computer containing information sent from the Service. It is passed to the Service when the user requests pages. The Service uses a cookie to establish and authenticate a private session between a member and the Service. Cookies cannot be used to obtain any information from the users computer other than that which was stored in the cookie by the Service in the first place. The cookie is invalidated and may be deleted by the member's browser when the member elects to log out of the Service. For more details, see our [Cookies Policy](https://web.archive.org/web/20160608125253id_/http%3A//www.ioncube.com/cookies_policy.php). 
 
 TRANSACTION AND LOG FILES 
 
