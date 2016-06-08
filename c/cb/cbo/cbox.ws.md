@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbox.ws privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204161632id_/http%3A//www.cbox.ws/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbox.ws privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608045304id_/http%3A//www.cbox.ws/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · Cbox
 
