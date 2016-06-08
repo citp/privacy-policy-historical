@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kurzweilai.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209191044id_/http%3A//www.kurzweilai.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kurzweilai.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608152652id_/http%3A//www.kurzweilai.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KurzweilAI
 
@@ -15,6 +15,7 @@ The information we gather falls into two categories: 1) personal information you
   * We may use demographic and preference information to allow promotions or advertising on our Web site to be targeted, in aggregate, to the users for whom they are most pertinent.
   * We contract with other companies to provide services on our behalf, including website server, website development, and mailing list management.
   * Any information you disclose when posting to our Forums, or commenting on our posts, such as a screen name, email address, or website address, becomes public and may be used by KurzweilAI for online and offline promotional or commercial uses in any and all media.
+  * We reserve the right to block specific IP addresses as well as whole IP address ranges that interfere with or may interfere with our services and to keep a list of such offending IP addresses. This list of these blacklisted IPs will not be made public.
 
 
 
