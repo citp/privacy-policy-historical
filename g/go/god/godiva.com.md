@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godiva.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204163531id_/http%3A//www.godiva.com/privacy-policy/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godiva.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608165945id_/http%3A//www.godiva.com/privacy-policy/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | GODIVA
 
@@ -32,7 +32,7 @@ We collect the following information about you in various ways, including when y
 
 We use the information you supply for the purpose of providing the services you have requested and as described in this Policy. The email address you provide is used for internal purposes, such as confirming and tracking your order. In addition, Godiva may contact you via email or regular mail to keep you up-to-date on the latest Godiva.com news or to send you our latest catalog. Also, we may rent, share, sell or exchange your email or postal address with third parties, who may contact you regarding their products or services that we think may be of interest to you. If you would like to opt out of receiving mailings from Godiva or our third parties, please visit 
 
-[_Communication Preferences_](http://www.godiva.com/on/demandware.store/Sites-Godiva-Site/default/Account-GuestPreferences)
+[_Communication Preferences_](http://www.godiva.com/account-guestpreferences)
 
 . Additionally, gift recipients may, from time to time, receive our latest catalog as well as offers from us regarding new products and services that we think may be of interest to them. We work with a third party service provider, who uses information collected automatically through technology to help us better understand how you use Godiva.com. The information this third party service provider collects, such as which search engine referred you to Godiva.com and how you navigated around our website, will help us to better serve you and provide you with more personalized information and product offerings. We may share your information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide to it anonymous. To learn more about the use of this information or choose not to have this information used by our third-party advertising partner by opting out please visit the 
 
@@ -48,7 +48,7 @@ Godiva uses automatic tracking technologies, including "cookies" and clear gifs 
 
 . Most web browsers automatically accept cookies, but they should also allow you to instruct your browser to prevent the use of cookies. You may use the Help feature on your browser to find information on how to manage, restrict, or prevent the use of cookies. Please note that if you disable cookies certain aspects of Godiva.com will not function properly, such as the shopping bag. We also use "web beacons" in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to track the effectiveness of certain communications as well as the effectiveness of our marketing campaigns. If you would like to opt-out of these emails you can do so via our 
 
-_[Communication Preferences](http://www.godiva.com/on/demandware.store/Sites-Godiva-Site/default/Account-GuestPreferences)_
+_[Communication Preferences](http://www.godiva.com/account-guestpreferences)_
 
 page. Note that if you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.
 
@@ -80,7 +80,7 @@ _[letters@godiva.com](mailto:letters@godiva.com)_
 
 • You may unsubscribe from marketing emails from us by visiting the 
 
-_[Communication Preferences](http://www.godiva.com/on/demandware.store/Sites-Godiva-Site/default/Account-GuestPreferences)_
+_[Communication Preferences](http://www.godiva.com/account-guestpreferences)_
 
 page.
 
