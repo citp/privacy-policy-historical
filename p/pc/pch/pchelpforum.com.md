@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchelpforum.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143030id_/http%3A//www.pchelpforum.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchelpforum.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608021029id_/http%3A//www.pchelpforum.com/privacy-policy.php) for the most accurate reproduction.*
 
 # PC Help Forum - Privacy Policy
 
