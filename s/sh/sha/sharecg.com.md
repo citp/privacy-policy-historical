@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208184817id_/http%3A//www10.sharecg.com/policy/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecg.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608152627id_/http%3A//www10.sharecg.com/policy/privacy_policy.php) for the most accurate reproduction.*
 
 # ShareCG: Privacy Policy
 
@@ -64,4 +64,4 @@ If you have questions or suggestions, please contact us at:
 
 Internet Business Systems, Inc.  
 Privacy Policy Issues  
-Phone: +1 (408) 850-9201
+Phone: +1 (408)-337-6870
