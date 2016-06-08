@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the crowdfireapp.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209070438id_/http%3A//www.crowdfireapp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfireapp.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608061619id_/http%3A//www.crowdfireapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Crowdfire
 
+## Privacy Policy
+
 ### INTRODUCTION
 
-  1. The terms Codigami or "we" or "us" or "our" or any grammatical variations of the preceding words refer to Codigami Technologies Pvt. Ltd. The terms "you" or "your" refer to the client/customer or to users of any of the interfaces (including but not limited to websites and emails) provided by Codigami. 
+  1. The terms Codigami or "we" or "us" or "our" or any grammatical variations of the preceding words refer to Codigami Inc. The terms "you" or "your" refer to the client/customer or to users of any of the interfaces (including but not limited to websites and emails) provided by Codigami. 
   2. Codigami’s Privacy Policy shall apply to the information obtained via our website(s), through emails, through information obtained through third parties and shall govern our behavior related to all services offered by us. But this document shall not curtail Codigami’s right to publish privacy policies specifically corresponding to one or more services. 
   3. Queries regarding our Privacy Policy can be sent through any mode of communication specified by us in any of our interfaces. 
 
