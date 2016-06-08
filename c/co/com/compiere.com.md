@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223091900id_/http%3A//www.aptean.com/en/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608185939id_/http%3A//www.aptean.com/en/Privacy-Statement) for the most accurate reproduction.*
 
-# Privacy Statement - Effective as of November 17, 2015 - Aptean - Enterprise Software Solutions - Business Software Applications, Software Products and Services
+# Privacy Statement - Effective as of January 28, 2016 - Aptean - Enterprise Software Solutions - Business Software Applications, Software Products and Services
 
 ## COMMITTED TO PROTECTING YOUR INFORMATION
 
@@ -86,7 +86,7 @@ If you have any questions, comments or suggestions about our personal informatio
 
 ## APTEAN GROUP OF COMPANIES
 
-The Aptean group includes but is not limited to the following companies: Aptean Inc; Aptean Systems, LLC; ActivPlant Corporation; CDC Software Canada Limited; Pivotal Corporation dba Aptean Canada Corporation; CoreTrac, Inc.; Medworxx, Inc; Aptean Limited; Respond Group Limited trading as Aptean; Aptean Iberica S.L.U; IMI Holdings Ireland Limited trading as Aptean; Pivotal Technologies Corporation trading as Aptean; Aptean GmbH; Aptean France S.A; Saratoga Systems SARL trading as Aptean; Aptean Poland, sp.zoo; Aptean OY; Aptean Nederland B.V.; CDC Software (Denmark) ApS; Aptean Software Private Limited; Aptean India Private Limited; Aptean (Australia) Pty Ltd; CDC Software Japan KK trading as Aptean; Consona Japan Company Ltd trading as Aptean;Platinum China Limited trading as Aptean; Cimnet Systems Asia Pacific Limited trading as Aptean; CDC Software Asia Corp trading as Aptean; Consona Shenzhen Limited trading as Aptean; Platinum Software Systems (Shanghai) Ltd trading as Aptean; and CDC Software Singapore Pte Ltd.
+The Aptean group includes but is not limited to the following companies: Aptean Inc; Aptean Systems, LLC; ActivPlant Corporation; AssetPoint LLC: CDC Software Canada Limited; Pivotal Corporation dba Aptean Canada Corporation; Computron Software, LLC; CoreTrac, Inc.; Medworxx, Inc; Aptean Limited; Respond Group Limited trading as Aptean; Aptean Systems UK Limited; Computron Software Limited; Medworxx UK Limited; Aptean Iberica S.L.U; IMI Holdings Ireland Limited trading as Aptean; Pivotal Technologies Corporation trading as Aptean; Aptean GmbH; Aptean France S.A; Saratoga Systems SARL trading as Aptean; Aptean Poland, sp.zoo; Aptean OY; Aptean Nederland B.V.; CDC Software (Denmark) ApS; Ross System N.V.; Aptean AB; Saratoga Systems AB; Aptean Software Private Limited; Aptean India Private Limited; Aptean (Australia) Pty Ltd; CDC Software Japan KK trading as Aptean; Consona Japan Company Ltd trading as Aptean; Cimnet Systems Asia Pacific Limited trading as Aptean; CDC Software Asia Corp trading as Aptean; Consona Shenzhen Limited trading as Aptean; GEN2 Enterprise Software (Pty) Ltd; Procurement Network (Pty) Ltd; Procurement Network (Pty) Ltd. and CDC Software Singapore Pte Ltd. 
 
 ## CHANGES TO THIS STATEMENT
 
