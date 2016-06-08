@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakershoe.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208103042id_/http%3A//www.bakershoe.com/content/privacy-statement-drews-boots-website) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakershoe.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608232928id_/http%3A//www.bakershoe.com/content/privacy-statement-drews-boots-website) for the most accurate reproduction.*
 
 # Drew's Boots Privacy Statement | Ordering Boots Online | Baker's Boots & Clothing
 
