@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the justlisted.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217025355id_/http%3A//www.marketleader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justlisted.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608021203id_/http%3A//www.marketleader.com/privacy) for the most accurate reproduction.*
 
-# Real estate marketing software for prospects, client management, websites | Market Leader
+# Market Leader Privacy Policy | Market Leader
 
 We, Constellation Web Solutions, Inc. DBA Market Leader (“ML”), have created this privacy statement in order to demonstrate our firm commitment to privacy. This privacy statement discloses the information collection and disclosure practices for our Web sites (the “Sites”). By accessing the Sites, you consent to the collection and use of information as described herein. We reserve the right to change this privacy statement at any time. If we make any material changes to our privacy statement, we will post a new statement on the Sites and update the revision date. Therefore, we encourage you to check the date of our privacy statement whenever you visit the Sites to see if it has been updated since your last visit.
 
 ### Information we collect
 
-Personal Information. When you register for certain services on the Sites we may ask you to provide personal information.  When you make inquiries through our services or contact us for support we may also collect personal information.  For some services we collect personal information, such as your e-mail address, name, home or work address or telephone number. We may also collect demographic information, such as your ZIP code, age, gender, and preferences. Information we collect may be combined with information we obtained through other services we offer. We may collect information about your visit to the Sites, including the pages you view, the links you click and other actions taken in connection with the Sites and services. We may also collect certain standard information that your browser sends to every web site you visit, such as your IP address, browser type and language, access times and referring Web site addresses. Our Sites may also provide you with various services related to home selling and home buying (e.g., estimates of current market value of homes, moving costs, mortgage or finance costs, current home listings, neighborhood information, etc.) in these instances we may collect additional information related to the services. In order for us to provide these services, we also may collect supplementary personally identifying information about you from third party sources to correct or supplement the information we have requested from you.  By filling out any forms on the Site, providing information to us or making any inquiry, you acknowledge that we have an established business relationship and you expressly consent to being contacted by us or our service providers, whether by phone, mobile phone, email, mail, texting or otherwise.
+Personal Information. When you register for certain services on the Sites we may ask you to provide personal information. When you make inquiries through our services or contact us for support we may also collect personal information. For some services we collect personal information, such as your e-mail address, name, home or work address or telephone number. We may also collect demographic information, such as your ZIP code, age, gender, and preferences. Information we collect may be combined with information we obtained through other services we offer. We may collect information about your visit to the Sites, including the pages you view, the links you click and other actions taken in connection with the Sites and services. We may also collect certain standard information that your browser sends to every web site you visit, such as your IP address, browser type and language, access times and referring Web site addresses. Our Sites may also provide you with various services related to home selling and home buying (e.g., estimates of current market value of homes, moving costs, mortgage or finance costs, current home listings, neighborhood information, etc.) in these instances we may collect additional information related to the services. In order for us to provide these services, we also may collect supplementary personally identifying information about you from third party sources to correct or supplement the information we have requested from you. By filling out any forms on the Site, providing information to us or making any inquiry, you acknowledge that we have an established business relationship and you expressly consent to being contacted by us or our service providers, whether by phone, mobile phone, email, mail, texting or otherwise.
 
 Aggregate Information. Aggregate information is data we collect about a group or category of products, services or users, from which individual user identities have been removed. We collect aggregate information about you and your use of our services and combine it with information about how others use the same service. Such aggregate information includes, without limitation, site traffic, page views, and impressions. This information may be correlated to you for our internal use only. However, we may collect, compile, store, publish, promote, sell, or otherwise disclose or use any and all aggregate information (i.e., information that does not personally identify you).
 
@@ -54,15 +54,16 @@ We do not intend, and these Sites are not designed, to collect personal informat
 
 Market Leader gives users the following options for accessing, changing and deleting personal information previously provided, or opting out of receiving communications from us:
 
-\- email us at info@MarketLeader.com;
+  * email us at [info@MarketLeader.com](mailto:info@MarketLeader.com);
+  * or call us at the following telephone number: [877.450.0088](tel:1-877-450-0088)
 
-\- or call us at the following telephone number: (877) 450-0088
+
 
 ### Questions and concerns
 
-If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, please contact us at the following address or email us at info@MarketLeader.com:
+If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, please contact us at the following address or email us at [info@MarketLeader.com](mailto:info@MarketLeader.com):
 
 Constellation Web Solutions, Inc. DBA Market Leader (“ML”).  
 1840 York Road, Timonium, MD 21093
 
-Last revised:  October 2015
+Last revised: October 2015
