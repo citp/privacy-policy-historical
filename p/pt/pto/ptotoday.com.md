@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206235414id_/http%3A//www.ptotoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608153611id_/http%3A//www.ptotoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,11 +6,11 @@ Effective June 15, 2013
 
 School Family Media, Inc., the owner of this ptotoday.com website, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, ptotoday.com, as well as for our affiliated website: schoolfamilynights.com
 
-#### IP Addresses and Cookies
+#### **IP Addresses and Cookies**
 
 We use your IP address to help diagnose problems with our server, and to administer our website. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
 
-#### Data We Collect
+#### **Data We Collect**
 
 School Family Media collects or may collect information from our users at several different points on our website. School Family Media is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways other than as disclosed in this statement.
 
