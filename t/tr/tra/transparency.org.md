@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the transparency.org privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209193337id_/http%3A//www.transparency.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transparency.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608223856id_/http%3A//www.transparency.org/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Transparency International - The Global Anti-Corruption Coalition
 
 Transparency International (TI) is committed to ensuring the privacy of all our users. We collect and retain only such personal information as you choose to provide us. All such information is stored securely and will not be made public, sold, rented or likewise distributed.
 
