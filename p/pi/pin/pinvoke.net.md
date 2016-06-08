@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinvoke.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207142926id_/http%3A//www.red-gate.com/our-company/about/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinvoke.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020433id_/http%3A//www.red-gate.com/our-company/about/legal) for the most accurate reproduction.*
 
 # Legal Information About Redgate Software
 
@@ -6,39 +6,44 @@
 
 ### Introduction
 
-Redgate (which means here Redgate Software Limited and its subsidiaries Red Gate Software Inc. and Red Gate Software Pte) respects your privacy. All information you give us is held with the utmost care and security.
+Redgate (which means here Redgate Software Limited and its subsidiary Red Gate Software Inc.) respects your privacy. All information you give us is held with the utmost care and security.
 
-This privacy policy sets out our privacy practices. Please take time to review this privacy policy as it tells you how your personal information will be treated by us. We do not sell, rent or loan any identifiable information regarding our customers to any third party. Only in the circumstances described within this Privacy Policy would we share your information with any third party.
+Please take time to review this privacy policy as it sets out our privacy practices and tells you how your personal information will be treated by us. We do not sell, rent or loan any identifiable information regarding our customers to any third party. Only in the circumstances described within this Privacy Policy would we share your information with any third party.
 
-Our use of personal data in the UK is in accordance with the Data Protection Act 1998 and our Subsidiaries’ practices in Singapore and the US are as far as reasonably possible in line with those in the UK. In Singapore our activities are governed by the Personal Data Protection Act 2012 and in the USA we comply with the principles of the US Safe Harbor program. Any questions regarding Redgate’s privacy policy should be directed to the Data Controller at [privacy@red-gate.com](mailto:privacy@red-gate.com), or alternatively see the section [Contacting us](https://web.archive.org/our-company/about/legal#contact).
+Our use of personal data in the UK is in accordance with the Data Protection Act 1998 and our Subsidiary’s practices in the US are as far as reasonably possible in line with those in the UK.
+
+Any questions regarding Redgate’s privacy policy should be directed to [privacy@red-gate.com](mailto:privacy@red-gate.com), or alternatively see the section Contacting us.
 
 ### Use of information
 
 Redgate will not collect any personal information about individuals except as set out in this privacy policy.
 
-Examples of the types of personal information we will collect are: name, company, postal address, email address, phone number, details of website and product usage and product commentary.
+Examples of the types of personal information we will collect are: name, company, postal address, email address, phone number, details of website, features and product usage, installation data and product commentary.
 
 We will use the personal information provided to us in order to:
 
   * process orders submitted by you;
-  * identify the Redgate 'certified partner' that is best placed to provide training or consultancy services to you;
+  * identify the Redgate 'certified partner' that is best placed to support your software purchase if you cannot purchase directly from us;
   * customize the service we provide to you;
   * administrate or otherwise carry out our obligations in relation to any agreement you have with us;
-  * verify your identity (for example if you participate in any promotions administered by us);
+  * verify your identity (e.g. if you participate in any promotions administered by us);
   * anticipate and resolve any problems with any goods or services supplied to you;
   * carry out market research and surveys and track sales data;
   * send you our newsletter, where this is requested by you;
   * track your engagement with us, including through our website, articles and newsletters;
-  * to send you follow-up communications relating to software downloaded from our site; and
+  * understand how you use our products and services;
+  * contact you by telephone and send you follow-up communications relating to your use of software downloaded from our website; and
   * send you information about our other products and services.
 
 
 
-We may collect any personal information provided by you to us through this website or via one of our telephone operators, or we may collect this information through your email or other communications with us. Certain information is collected automatically, as described later in the privacy policy.
+We may collect any personal information provided by you to us through this website or via use of our products, or we may collect this information via one of our telephone operators or through your email or other communications with us. Certain information is collected automatically, as described later in the privacy policy.
 
 We may also ask you for other optional information such as what sort of equipment/device/software you use and what other subjects interest you. If you choose to give us this information, we will use it to help us to provide you with the best possible service that is personalized to your needs and preferences.
 
 Although we do not make it compulsory to give us every item of information we ask for, the more information volunteered by our customers (and the more accurate it is), the better we can match our services to the needs of the body of our customers.
+
+During the installation process we may give you the opportunity to choose what ‘product use’ information you provide to us.
 
 We also collect information from you if you choose to take part in any of our on-site surveys or promotions. We will use this information to administer the promotion, help us to plan other promotions and improve the services we provide.
 
@@ -60,33 +65,29 @@ In addition, we will only record a call we conduct with you (incoming or outgoin
 
 ### Log files/IP addresses
 
-When you visit our site, we automatically log your IP address which is recognized by our web server. We use IP addresses to help us administer the site, to collect broad demographic information for aggregate use and to track your engagement with us.
+When you visit our website, we automatically log your IP address which is recognized by our web server. We use IP addresses to help us administer the website, to collect broad demographic information for aggregate use and to track your engagement with us.
 
 ### Non personal information
 
-We may automatically collect non-personal information about you, such as the type of internet browsers you use and the site from which you linked to our site. You cannot be identified from this information and it is only used to assist us in providing an effective service on our site.
-
-Redgate may share non-personal aggregate or summary information regarding its customers with partners or other third parties, such as information relating to the number of users linking to our site from their sites but Redgate does not sell or share any information at the individual level.
+Redgate may share non-personal aggregate or summary information regarding its customers with partners or other third parties, such as information relating to the number of users linking to our website from their sites but Redgate does not sell or share any information at the individual level.
 
 ### Cookies
 
 Cookies are very small text files saved to your computer used to track user navigation around a website.
 
-At Redgate session cookies are used when users log-in to the site. Redgate will use such cookies to identify unique users to our sites. They are not cross-referenced with any other information such that an individual person could be identified.
+At Redgate session cookies are used when users log-in to the website. Redgate will use such cookies to identify unique users to our websites. They are not cross-referenced with any other information such that an individual person could be identified.
 
-Redgate uses a cookie called Hubspot which allows us to uniquely identify and track your movement within any of Redgate’s websites and engagement with our other marketing services (for example, our blogs and newsletters) by linking with the email address you provide when you download any Redgate product. This cookie will be activated on download of a Redgate product, but can retrospectively identify your past visits to any Redgate website.
+Redgate uses a cookie called Hubspot which allows us to uniquely identify and track your movement within any of Redgate’s websites and engagement with our other marketing services (for example, our blogs and newsletters) by linking with the personal information (name, phone number and email address) you provide when you download any Redgate product. This cookie will be activated on download of a Redgate product, but can retrospectively identify your past visits to any Redgate website.
 
-Redgate also uses in-product cookies to collect, maintain, process and use analytics data related to your use of Redgate products. These are enabled by default, but may be disabled by you at any time.
+Redgate may use a third party to serve advertisements on our websites. The advertisers may use cookies to track the number of users responding to the campaign. Redgate does not have access to or control of cookies placed by third parties.
 
-Redgate may use a third party to serve advertisements on our sites. The advertisers may use cookies to track the number of users responding to the campaign. Redgate does not have access to or control of cookies placed by third parties.
-
-Disabling/Enabling Cookies - users have the ability to accept or disable cookies by modifying the settings in their browser. Disabling cookies, however, may mean that some functionality may be affected. For further directions on how to disable cookies please visit <http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html>
+Disabling/Enabling Cookies – users have the ability to accept or disable cookies by modifying the settings in their browser. Disabling cookies, however, may mean that some functionality may be affected. For further directions on how to disable cookies please visit <http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html>
 
 ### Disclosures
 
 Other than the disclosures referred to in this policy, we will not disclose any personal information without your permission unless we are legally obliged or entitled to do so (for example, if required to do so by Court order or for the purposes of identifying fraud or other crime).
 
-We will only disclose your personal information to a third party either as part of a reorganization or a sale of the assets of Redgate Software and/or having ensured that steps have been taken to ensure that your privacy rights continue to be protected.
+We will only disclose your personal information to a third party either as part of a reorganization or a sale of the assets of Redgate and/or having ensured that steps have been taken to ensure that your privacy rights continue to be protected.
 
 ### Information about our products and services
 
@@ -94,21 +95,21 @@ It is very important to us that we provide you with the highest level of service
 
 ### Keeping our records accurate
 
-We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please [contact us](https://web.archive.org/website/legal#contact) as set out below.
+We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below.
 
 ### User discussion forums
 
 Redgate may make chat rooms, forums, message boards and/or other news groups available to its users. Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information.
 
-See information on [accepted use](https://web.archive.org/messageboard/profile.php?mode=register&sid=e52cc692b155c24b81f311edd34c79c8) of our forums.
+See information on [use](https://forums.red-gate.com/faq.php) of our forums.
 
 ### Security
 
-We have implemented technology and policies to help safeguard your privacy from unauthorized access and improper use. For example, transactions conducted through the site are encrypted and user log-in is subject to password protection. We will continue to monitor and update security measures as new technology becomes available as appropriate to the site.
+We have implemented technology and policies to help safeguard your privacy from unauthorized access and improper use. For example, transactions conducted through the website are encrypted and user log-in is subject to password protection. We will continue to monitor and update security measures as new technology becomes available as appropriate to the website.
 
 ### Transfers of your personal information outside of the European Economic Area
 
-Information you provide to us may be transferred by us to Red Gate Software Inc., Red Gate Software Pte and/or our service providers that are situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA. Any of our servers may also be temporarily located in a country outside the EEA. If we transfer your information outside the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected.
+Information you provide to us may be transferred by us to Red Gate Software Inc. and/or our service providers that are situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA. Any of our servers may also be temporarily located in a country outside the EEA. If we transfer your information outside the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected.
 
 ### Your consent
 
@@ -116,7 +117,9 @@ By using our website, or giving us your details at an exhibition, you consent to
 
 ### Contacting us
 
-If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by sending an email to us at [privacy@red-gate.com](mailto:privacy@red-gate.com) or by contacting us at Redgate Software Limited, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ, United Kingdom. You are entitled to ask for a copy of the information we store about you (for which we may charge a small fee).
+If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by sending an email to us at [privacy@red-gate.com](mailto:privacy@red-gate.com) or by contacting us at Redgate Software Limited, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ, United Kingdom.
+
+You are entitled to ask for a copy of the information we store about you (for which we may charge a small fee).
 
 * * *
 
