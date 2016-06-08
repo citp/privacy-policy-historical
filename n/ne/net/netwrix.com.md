@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netwrix.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905190459id_/http%3A//www.netwrix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netwrix.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608165013id_/http%3A//www.netwrix.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ By using this Web site or otherwise providing Personal Information in connection
 
 ## Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits customers of the Netwrix Corporation who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [contact us](https://web.archive.org/web/20150905190459id_/http%3A//www.netwrix.com/contact.html). 
+California Civil Code Section 1798.83 permits customers of the Netwrix Corporation who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [contact us](https://web.archive.org/web/20160608165013id_/http%3A//www.netwrix.com/contact.html). 
 
 ## Links to Other Web Sites
 
@@ -54,4 +54,4 @@ We may amend this Privacy Policy at any time. If significant changes are made in
 
 ## Questions or Feedback
 
-[Contact us](https://web.archive.org/web/20150905190459id_/http%3A//www.netwrix.com/contact.html) for any questions or suggestions about this Privacy Policy.
+[Contact us](https://web.archive.org/web/20160608165013id_/http%3A//www.netwrix.com/contact.html) for any questions or suggestions about this Privacy Policy.
