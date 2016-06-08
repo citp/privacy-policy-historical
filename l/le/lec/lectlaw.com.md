@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lectlaw.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208055031id_/http%3A//www.lectlaw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lectlaw.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608121116id_/http%3A//www.lectlaw.com/privacy.html) for the most accurate reproduction.*
 
 # lectlaw.com | Privacy Policy
 
@@ -123,8 +123,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
 
-1116 Cerro Gordo Rd  
-Santa Fe, NM 87505  
+60 La Joya  
+Glorieta, NM 87505  
 United States 
 
 lectlaw.com 
