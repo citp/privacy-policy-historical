@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dowjones.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016031057id_/http%3A//www.dowjones.com/privacy-policy-update) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dowjones.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608110428id_/http%3A//www.dowjones.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Update - Dow JonesDow Jones
+# Privacy Policy - Dow JonesDow Jones
 
 **THE DOW JONES PRIVACY POLICY**
 
@@ -12,7 +12,7 @@ Dow Jones & Company, Inc. and its affiliates (“Dow Jones”) want you to be 
 
 This Privacy Policy applies to information we collect from all sources including in connection with our websites, mobile sites, applications (“apps”), electronic newsletters and widgets (collectively the “Dow Jones Online Services”) that link to this Privacy Policy. If there is a conflict between this Policy and a Dow Jones Online Services corporate subscription agreement, the Dow Jones Online Services corporate subscription agreement will take precedence.
 
-This Policy describes Dow Jones’s collection and use of users’ Personal Information. It also describes generally Dow Jones’s practices for handling Other Information (e.g., interests, demographics and services usage) collected through our Dow Jones Online Services or from a third party to the extent such information is associated with a particular device, user or user account. As described more fully below, we share information with our affiliated companies (“Dow Jones Affiliates”) for the purposes described in this privacy policy. A list of Dow Jones Affiliates is available [here](http://newscorp.com/about/our-businesses/) and in annual reports [here.](http://investors.newscorp.com/sec.cfm)   By using the Dow Jones Online Services or by providing personal information to us, you agree to the terms and conditions of this Privacy Policy.
+This Policy describes Dow Jones’ collection and use of users’ Personal Information. It also describes generally Dow Jones’ practices for handling Other Information (e.g., interests, demographics and services usage) collected through our Dow Jones Online Services or from a third party to the extent such information is associated with a particular device, user or user account. As described more fully below, we share information with our affiliated companies (“Dow Jones Affiliates”) for the purposes described in this privacy policy. A list of Dow Jones Affiliates is available [here](http://newscorp.com/about/our-businesses/) and in annual reports [here.](http://investors.newscorp.com/sec.cfm)   By using the Dow Jones Online Services or by providing personal information to us, you agree to the terms and conditions of this Privacy Policy.
 
 You may choose not to submit requested information online, or may choose to restrict the use of cookies (see Other Information below, or our [Cookie Policy](http://new.dowjones.com/about/cookies-policy/), for more information), but that may limit the services Dow Jones is able to provide to you.
 
