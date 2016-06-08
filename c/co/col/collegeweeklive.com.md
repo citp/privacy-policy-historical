@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegeweeklive.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919081609id_/http%3A//www.collegeweeklive.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeweeklive.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608095632id_/http%3A//www.collegeweeklive.com/about/privacy-policy) for the most accurate reproduction.*
 
-# None
+# 
 
 CollegeWeekLive, Inc. ("we" "our" or "CollegeWeekLive") takes your privacy very seriously. This Privacy Policy describes (i) the types of information we collect from you when you visit this website (the "Site") or use any services or content we offer (the "Services"); (ii) how we use the information we collect; (iii) with whom and why we share it; and (iv) the choices we offer regarding our use of the information. We also describe the measures we take to protect the security of the information and how to contact us about our privacy practices. 
 
