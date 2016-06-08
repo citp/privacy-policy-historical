@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinasinlove.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209063650id_/http%3A//latinasinlove.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinasinlove.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608225538id_/http%3A//latinasinlove.com/Home/Privacy) for the most accurate reproduction.*
 
 # Dominican Women, Dominican dating, Dominican singles, Dominican personal at latinasinlove.com
 
