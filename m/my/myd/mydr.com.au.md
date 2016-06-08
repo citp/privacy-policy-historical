@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210024029id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608183955id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
 
 # privacy policy - myDr.com.au
 
@@ -109,3 +109,7 @@ Tower 2 475 Victoria Ave or Locked Bag 2999 Chatswood DC,
 Chatswood NSW 2067
 
 We will endeavour to respond to your request or complaint within 30 days. If you are still not satisfied, you may take your complaint to the OAIC.
+
+Last Reviewed: 08 October 2014   
+©Copyright: myDr, Cirrus Media Pty Ltd, 2000-2016. All rights reserved.   
+
