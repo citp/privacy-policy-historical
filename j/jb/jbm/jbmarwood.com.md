@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbmarwood.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207110240id_/http%3A//jbmarwood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbmarwood.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608160329id_/http%3A//jbmarwood.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy • JB Marwood
 
@@ -63,7 +63,5 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypo
 If we decide to change our privacy policy, we will post those changes on this page.
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
-
-[](https://go.ig.com/visit/?bta=35215&nci=5710)
 
 * * *
