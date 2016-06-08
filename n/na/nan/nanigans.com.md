@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanigans.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227223152id_/http%3A//www.nanigans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanigans.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608130426id_/http%3A//www.nanigans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nanigans – Advertising Automation Software
 
@@ -82,7 +82,7 @@ Please be aware that because cookies are browser specific, if you use more than 
 
 ##### iOS Users
 
-##### For iOS 7 and 8 Users
+##### For iOS 7 and Above Users
 
   * From your iOS home screen, go to Settings -> Privacy -> Advertising
   * On the Advertising screen, turn “Limit Ad Tracking” on
