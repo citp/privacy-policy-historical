@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anz.co.nz privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206042358id_/http%3A//www.anz.co.nz/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.co.nz privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608130811id_/http%3A//www.anz.co.nz/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
 
 # Website security and privacy statement | ANZ
 
@@ -18,7 +18,9 @@
 
 ### About this ANZ Website Security and Privacy statement
 
-This ANZ Website Security and Privacy Statement applies to this website ("ANZ website") which is operated by ANZ Bank New Zealand Limited ("ANZ", “we” and, together with Australia and New Zealand Banking Group Limited and any companies owned by, or related to those companies whether located in New Zealand or elsewhere the “ANZ Group").
+This ANZ Website Security and Privacy Statement applies to this website ("ANZ website") but does not include ANZ Internet Banking or ANZ goMoney. This website is operated by ANZ Bank New Zealand Limited ("ANZ", “we” and, together with Australia and New Zealand Banking Group Limited and any companies owned by, or related to those companies whether located in New Zealand or elsewhere the “ANZ Group").
+
+For information about ANZ Internet Banking or goMoney, please see the [ANZ Electronic Banking Conditions of Use (PDF 152kB)](https://web.archive.org/resources/6/7/67cd07804ee131e5bc44fe146f64e4a5/Electronic-COU.pdf?MOD=AJPERES "ANZ Electronic Banking Conditions of Use \(PDF 152kB\)")
 
 ANZ understands and appreciates that you, as an ANZ website visitor, are concerned about your privacy and about the confidentiality and security of information we may gain about you online. We are committed to protecting your privacy. This ANZ Website Security and Privacy Statement explains how your information will be treated as you access and interact with the ANZ website.
 
@@ -46,7 +48,7 @@ Back to top
 
 The information that ANZ collects about you is dependent on how you use the facilities offered by the ANZ website.
 
-If you visit an unsecure area of the ANZ website (that is, an area where you are not required to log on) to read, browse or download information, our system will record the date and time of your visit to our site, the pages viewed and any information downloaded. However, our systems will not record any personally identifiable information.
+If you visit an unsecure area of the ANZ website (for example, an area where you are not required to log on) to read, browse or download information, our system will record the date and time of your visit to our site, the pages viewed and any information downloaded. However, our systems will not record any personally identifiable information.
 
 The ANZ website offers a number of interactive facilities including tools such as budget planners and calculators, as well as online surveys and application forms.
 
@@ -72,7 +74,7 @@ Back to top
 
 It is necessary for ANZ to collect your IP address for your interaction with various parts of the ANZ website. Your IP address is the identifier for your computer when you are using the internet.
 
-For instance, ANZ collects and stores your IP address when you log into ANZ Internet Banking. As part of our security for ANZ Internet Banking, ANZ uses this information when we attempt to detect and prevent fraudulent transactions in Internet Banking. We store your IP address for security, audit and reporting purposes. Your IP address will not be used by us or released to any third party except in the case of security, inappropriate behaviour or fraud issues, such as unauthorised access to your, or our computer systems or fraudulent transactions.
+ANZ uses your IP address for security purposes, and to help provide you with better and more customised service and a more effective website
 
 Back to top
 
