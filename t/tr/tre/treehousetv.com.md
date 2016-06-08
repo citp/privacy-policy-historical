@@ -1,110 +1,146 @@
-> *The following text is extracted and transformed from the treehousetv.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210051208id_/http%3A//www.treehousetv.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treehousetv.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608193549id_/http%3A//www.treehousetv.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Treehouse
 
-At [www.treehousetv.com](http://www.treehousetv.com/) (the "Site") we at Watch More TV Interactive Inc. and Treehouse TV, a division of Corus Entertainment Inc. (collectively, "Treehouse"), the operators of the Site, understand and appreciate the concerns that parents and families may have with regard to information gathered about Site users surfing our website, or on any other website.  
+**Treehouse TV Privacy Policy**
 
-The Site gathers different kinds of information from its visitors in accordance with applicable privacy laws.
+Last updated: March 1, 2016
+
+YTV Canada, Inc., on behalf of Treehouse TV, and Corus Digital Inc., their successors and assigns, (collectively, "Treehouse"), the owners and operators of this website (the “Site”), respect your privacy and believe the best way to serve you on the Internet is with honesty, accountability and adherence to legal standards. We are sensitive to the issue of privacy and have structured our online activities to maximize your control over the disclosure of your own personally identifiable information.
+
+By visiting or interacting with this Site, you agree to be bound by the terms of this Privacy Policy. We may change this Privacy Policy at any time, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, you should review this Privacy Policy from time to time to keep informed of such amendments. The latest version of the Privacy Policy will be available through a link at the bottom of the homepage. The most recent date of revision will be indicated prominently at the top of the Privacy Policy.  If you do not agree to the terms of this or any revised policy, please do not register as a user or further interact with the Site.   
+
+This Privacy Policy applies to this Site only, and does not apply to other websites or apps operated by Corus Digital Inc., other Corus Entertainment Inc. companies, or third parties, each of which has its own terms of use and privacy policies. Please read the respective sites' terms and policies when accessing such sites or using such apps.
 
 Please also make sure to read the Site’s [Terms of Use](http://www.treehousetv.com/page/terms-use) as it supplements and forms part of this Privacy Policy. By using the Site you are agreeing to our Privacy Policy and Terms of Use. If you do not agree to the terms of this policy, please exit the Site immediately.
 
-We may change this Privacy Policy at any time by posting revisions to the Site. Your continued use of the Site indicates your agreement to the revised terms.
+**Privacy of children**
 
-We understand and appreciate the concerns that parents and families may have, with regard to the information we gather about the users surfing our Site. For the purposes of this Policy, “parent” may mean parent or legal guardian of a child.
+We encourage parents and guardians to be aware of and to participate in their children's online activities. Minors (persons under the age of majority in their province or territory of residence) are not eligible to use the Site unsupervised and we ask that you do not allow your child to submit any personal information to us. We do not knowingly collect the personal information of minors.
 
-It is our policy that all children ages 13 and under require parent's or guardian’s approval before providing any personal information. We also recommend that parents do not allow their children to submit any personal information without the parent’s prior consent. Personal information can mean the child’s and/or parent/guardian’s name(s), city and province of residence, postal code, email address, or other personal identification. We recommend that parents/guardians monitor their kids’ use of this Site and other websites.
+**What information do we collect?**
 
-**_WHY WE COLLECT INFORMATION_**
+Treehouse may collect two types of information from visitors to the Site: Personal Information and Non-Personal Information. Personal Information is any information about you as an identifiable individual, such as your name, user name, address, postal code, telephone number, e-mail address age, marital status, income level, education level, intentions, preferences and opinions.  Treehouse collects Personal Information only where it is voluntarily provided by the individual in question.
 
-At Treehouse we have created lots of fun activities that parents and preschoolers can participate in all year round. By becoming a member of the Site, and providing basic information to us, Parents can:
+Non-Personal Information is any information that cannot be associated with an identifiable individual, such as aggregated statistical information (e.g. the average length of time users spend visiting the site), or other anonymous information, such as the type and version of browser being used to access the Site.  Your computer and its operating systems, browsers, and memory contain vast quantities of transaction data and records of your use of it.
 
-·         opt-in to receive our monthly, weekly and/or recipe and crafts newsletters;
+Treehouse generally collects Personal Information from you in order to provide you with products and services, to administer contests and special events, to better understand user preferences and to market our products and services. 
 
-·         opt-in to receive “Corus Contests” newsletters;
+We may also collect information about you from a social network site you may have connected from, in order to provide you with a more personalized experience.  In some cases, we will collect psychographic data from third parties that help us better understand our users.
 
-·         opt-in to receive 3rd party marketing material;
+If you send an e-mail to us, or fill out our "feedback" form through the Site, we will collect your e-mail address and the full content of your e-mail, including attached files, and other information you provide. We may use and display your full name and email address when you send an email notification to a friend through the Site or the social network from which you have connected to the Site (such as in an invitation, or when sharing your content).
 
-·         opt-in to receive partner newsletters;
+**Why is the information collected?**
 
-·         participate in Treehouse/Corus mobile features such as promotions/news (mobile number required);
+Treehouse may collect your personal information in order to enable Treehouse to make general improvements to the Site, ensure that content standards of the Site are rigorously upheld, enable us to contact you (for example, registration is needed to enter certain contests) and better serve your specific interests. You may choose not to provide your personal information, but this may lead to decreased functionality of the Site for you and will prevent us from providing you with certain products or services. However, you can still access and visit many of the Site's features. We may also request you to voluntarily provide personal information that is not required to access features of our Site.
 
-·         submit local events for the Treehouse “Events Calendar”;
+For example, we may collect information from you to allow you to:
 
-·         submit comments and ratings on articles;
-
-·         submit craft ideas;
-
-·         submit content for their online journal;
-
-·         receive email notifications;
-
-·         receive notices;
-
-·         receive promotions;
-
-·         receive electronic postcards;
-
-·         participate in un-moderated message boards;
-
-·         participate in online polls and surveys; and
-
-·         participate in online contests.
-
-Personal information can include:
-
-  * your name or your child's name
-  * your city, province and/or postal code
-  * your phone number
-  * your email address
+  * Join a club or become a member;
+  * Enter  a contest or other promotion;
+  * Subscribe to our e-mail newsletter(s);
+  * Respond to online questionnaires;
+  * To participate in interactive online activities (such as games, chatrooms or bulletin boards);
+  * To shop online at our and/or our contractor's Site; or
+  * To contact us to make requests or comment on our services.
 
 
 
-**_PERSONAL INFORMATION_**
+In addition to using Personal Information to keep in contact with users Treehouse may use your information for the following purposes: (i) to better understand viewer and user needs and preferences; (ii) to improve the content and format of our Site; (iii) to notify visitors about updates to our Site; (iv) to keep you informed about products and services (both ours and third parties') in which you have expressed an interest; (v) to complete business transactions; (vi) to contact you as part of a promotion; (vii) to administer individual accounts; (viii) to provide customer support; (ix) to personalize your experience and make content recommendations; (x) to meet legal requirements.
 
-On the Site, we may, on occasion, gather personal information from a user (e.g., name, phone number and/or email address), as part of a contest. There may be opportunities for Site users to enter a Treehouse contest directly via the Site. Any information that is collected for the purpose of a contest is used only to award prizes, to track compliance with the official rules and regulations and/or for internal feedback purposes. If Treehouse intends to use a winner's personally identifying information, such as a name or photograph, the contest winner is notified prior to use and the appropriate release forms must be completed by a user (or their parent/guardian) and returned.
+Treehouse may transparently collect non-personally identifiable aggregate information through the use of cookies or by other means. We use this information to assess general usage patterns, including identifying repeat users, collect demographic information, administer and make improvements to the Site to tailor our visitor's experiences at the Site and display content according to their preferences so as to make it more useful to you and other users. Treehouse, its parent company and its subsidiary and holding companies and such other third party as we may designate reserve the right to use, maintain, update, disclose and/or sell aggregate information to third parties.
 
-Treehouse uses third party service providers to fulfill its contests, store data and execute mobile features. The information collected by these third party service providers is solely for the purpose of the contest fulfilment, data storage and execution of mobile features. All information received from our visitors remains the exclusive property of Treehouse and is not sold or distributed.  Once a user’s information is no longer required it is deleted, unless such user is already a member of our Site. Third party service providers are contractually bound to maintain the confidentiality of your personal information and are prohibited from using your personal information for any other purpose. 
+**Personal Information for Contests**
 
-**_OPT-IN/OPT-OUT_**
+A user can enter a Treehouse contest through the Site. If a user is 13 years of age and under, we require the consent of a Parent prior to the submission of a user's personal information. On the online entry form, we ask for personal information such as the entrant’s name and address. Unless otherwise specified in the applicable contest rules, this personal information is collected, used and/or disclosed solely for the purpose of awarding contest prizes, tracking compliance with the official rules and regulations and for internal feedback purposes. Treehouse only uses and discloses a contest winner's name and photograph after receiving prior written consent from the winner (or their Parent, if the winner is under the age of majority in his or her Province of residence) and the appropriate release forms are fully completed by a Parent and returned to Treehouse.
 
-We do not sell or otherwise share personally identifiable information about individual users without the prior approval of the user. On the page where we ask for that information, there is a prominently displayed method to indicate to us that you do or do not want to receive promotional and/or marketing information about products, services and offerings. Check the appropriate box and your information may be used as described above. Leave it blank, and we consider it an opt-out. Either way, it is always your choice. User consent to use personal information can be withdrawn at any time by following the online instructions at <http://treehousetv.com/content/faq.aspx#Membership>.
+**Show Submission**
 
-**_GENERAL WEBSITE TRAFFIC_**
+Occasionally, Treehouse users will have the opportunity to submit ideas or content such as videos for inclusion on the Site or on some shows airing on Treehouse. At the time of submission, the producers of these shows will also ask the users to include a contact number, email or address. Only those who produce the show in question will have access to the contact information and it will not be passed on to a third party. People who submit ideas or content may be contacted if the show's producers are possibly interested in using such submissions.
 
-We at Treehouse keep track of total accesses to our Site. For example, we count how many times people access a particular page on the Site. All information gathered in this way is generic, and we do not track any individual users from this, but only calculate how many accesses have taken place.
+**Information we collect from third parties**
 
-**_COOKIE TECHNOLOGY_**
+We may use third-party advertising and analytics companies to collect Non-Personal Information and/or serve ads to users when they visit our websites or use our apps. These companies may use Non-Personal Information (i.e. not including your name, address, email address or telephone number) about the use of this Site and other Corus Digital Inc. sites, as well as other Web and offline activity in order to provide advertisements about goods and services of possible interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [www.youradchoices.ca](http://www.youradchoices.ca/). Rest assured that neither Treehouse nor any third parties acting on its behalf collect browsing information respecting the use of the site by children, nor does Treehouse target advertising to children based on browsing activity.
 
-Cookies are small data files that your browser may place on your computer when you visit different Web sites to mark that you have been there. Cookie technology is used on our Site to maximize the website-browsing experience. For example, we use cookies to keep track of a user's time zone information which allows us to customize our schedule and give accurate show times. We also use cookies to keep track of a user's selections on the "My Favourites" page. No personal information is gathered from these cookies. However, you may choose to set up your browser to refuse cookies or alert you when cookies are sent. Please note, though, if you don't have a Treehouse cookie it may limit our ability to customize and improve our Site features.
+We may also infer information about you based on the information you provide to us or information we receive from third parties, including information we may receive from social media sites, in accordance with your privacy settings on such sites.  We may also collect demographic, psychographic and lifestyle profile data from third parties, which may be predictively associated with you, based on what we know about you.  For example, data may be available suggesting common interests or attributes of people living in your postal district.  Any such information that is associated with you is considered to be personal information, and will be treated as such according to this privacy policy.  If you would prefer that Treehouse not associate such third party data with you, you may opt-out by visiting <http://youradchoices.ca/choices>
 
-**_EMAIL IDENTIFICATION_**
+**With whom do we share information?**
 
-When a user sends a message to Treehouse through the Site, two pieces of information are automatically stamped on the message. These are the time that the message was sent, and the IP address it was sent from. This is done as a precaution against threatening emails we may receive towards Treehouse, its staff, or anyone else. It is only ever used to find the source of a message in those extreme cases where we feel someone's safety may be at risk.
+Treehouse works closely with a number of parties who may perform functions on our behalf, including fulfilling orders, providing streaming services or other third party content, providing promotional materials to our users, sending e-mail, managing, compiling and processing data, administering contests, processing credit card payments or providing customer service.  Data, including Personal Information, may be stored or processed outside Canada or in the cloud where it will be subject to the laws of the jurisdiction(s) in which it resides. We do not disclose your Personal Information to these parties except to the extent necessary to enable them to provide the specific services to you or on your behalf. Third party service providers are contractually bound to maintain the confidentiality of your Personal Information and are prohibited from using your Personal Information for any other purpose. 
 
-**_LINKS TO THIRD PARTY WEBSITES_**
+Other than for the specific purposes set forth in this Privacy Policy statement, we will not disclose your Personal Information to any third parties unless we obtain your prior consent or are legally compelled to do so or to protect and defend our rights or property. In addition, we will not contact you without your permission except as specified above or in connection with the registration process.
 
-Please keep in mind that this Privacy Policy applies to the Site only. Occasionally, we may have links to other websites, including those of sponsors and partners. And although we do our best to ensure that these third parties share our views about privacy protection and safety, we don't have control over how they collect and use personal information from visitors. That's why always a good idea to check out another website's privacy policy and terms of use - even if you've linked to it from Treehouse.
+In the event of a proposed or actual sale of all or a substantial portion of our business assets, your Personal Information may be disclosed to potential buyers where necessary to determine whether to proceed with the transaction.  Where such a transaction is completed, your Personal Information may be among the transferred assets. In such event, the purchaser will continue to be subject to the confidentiality obligations posted herein. 
 
-**Access through Social Network Services or Mobile Devices**
+**What are your choices?**
 
-The Site may permit you to link to other social media websites on the Internet (e.g., Twitter, Facebook, Pinterest, Tumblr, among others) ("Social Media Sites"), and Social Media Sites may contain links to the Site. By accessing the Site through a Social Media Site, mobile device or other third party platform or service or by connecting to such a platform or service via the Site, you authorize us to collect, store, and use in accordance with this Privacy Policy any and all information that you agreed the Social Media Site, mobile device or other third party platform could provide to us through the social network/mobile device/third party platform Application Programming Interface (“API”) based on your settings on the Social Media Site, mobile device or platform. Your agreement is effective when you connect with the Social Media Site, device, platform or service via the Service, and/or when you connect, “accept” or “allow” (or similar terms) such service to access your information through the Social Media Site, mobile device or other third party platform or service. The use of third party applications developed using our API is subject to the terms of use and privacy policies of such third party application developers. Be sure to review any available policies before submitting any personally identifiable information to a third party application or otherwise interacting with it.
+We do not sell or otherwise share personally identifiable information about individual users without the prior approval of the user. On the page where we ask for that information, there is a prominently displayed method to indicate to us that you do or do not want to receive promotional and/or marketing information about products, services and offerings. Check the appropriate box and your information may be used as described above. Leave it blank, and we consider it an opt-out. Either way, it is always your choice. User consent to use Personal Information can be withdrawn at any time by emailing our Privacy Officer using the contact information provided below.
+
+**What are cookies, and how are they used?**
+
+Cookies are small data files that your browser may place on your computer when you visit different Web sites to mark that you have been there. Cookie technology is used on our Site to maximize the website-browsing experience. For example, cookies allow us to track a browser's movement through the Site over several sessions. Through cookies, the Site can recognize repeat visitors, facilitate the visitor's access to and use of the Site and allows the Site to track usage behaviour that will allow content improvement and enable us to tailor our Site to better match your interests and preferences. We may also use cookies to allow you to select and prioritize your preferences when you enter our Site.
+
+No Personal Information is gathered from these cookies. However, you may choose to set up your browser to refuse cookies or alert you when cookies are sent. Please note, though, if you don't have a Treehouse cookie it may limit our ability to customize and improve our Site features.
+
+**Linking to Our Business Partners' and Third Party Content/Websites**
+
+Please keep in mind that this Privacy Policy applies to the Site only. The Site may provide on-line media streaming and other third party content. Occasionally, the Site may contain links from and to sites operated by other Corus companies, our business partners and other independent third parties whose privacy practices may be different from those of Treehouse. Once you leave the Site, you may or may not see a new URL in the location bar. If you submit Personal Information to any of those sites, your information is governed by the privacy policies of those destination websites. Please review the linked site's and third party content provider's privacy policies, and do not use or further visit these sites if you do not agree with the terms of these policies. The linked sites are not under our influence or control, and we are not responsible for the privacy policies and practices or the content of the sites operated by our business partners or other third parties or the privacy policies and practices or contents of any linked site or subsequent links from that site.
+
+The Site may include social media features, like the Facebook “Like” button. These features may collect information about your IP address and which page you’re visiting on our Site, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them. 
+
+This site may also permit you to link to other social media websites on the Internet (e.g., Twitter, Facebook, Pinterest, Tumblr, among others) (" **Social Media Sites** ").  By accessing the Site through a Social Media Site, mobile device or other third party platform or service or by connecting to such a platform or service via the Site, we may be authorized to collect, store, and use personal information as permitted by your user agreement and settings with the Social Media Site, mobile device or other third party platform.
 
  “ **Refer a Friend” or “Sharing Features**
 
-If you choose to use a referral service to "tell a friend" about the Site, a specific article or feature on the Site, or a contest that is running, we may ask you for your friend’s name and email address (or in the case of friends who are under the age of majority in their province or territory of residence, the friend’s parent or legal guardian. We will then send your friend (or his or her parent or legal guardian) an email on your behalf inviting him or her to visit the relevant webpage or check out the Site. We store your friend's name and email for a short period for the sole purpose of sending this email and for redundancy checking, to be sure that your friend does not receive multiple copies of the same email message. We do not keep or use this information for any other purpose.
+If you choose to use a referral service to "tell a friend" about the Site, a specific article or feature on the Site, or a contest that is running, we may ask you for your friend’s name and email address. We will then send your friend an email on your behalf inviting him or her to visit the relevant webpage or check out the Site. We store your friend's name and email for a short period for the sole purpose of sending this email and for redundancy checking, to be sure that your friend does not receive multiple copies of the same email message. We do not keep or use this information for any other purpose.
 
-**_SOFTWARE SOLUTIONS_**
+**How We Protect Your Personal Information**
 
-There are software programs that allow parents to block certain websites from their kids. Some programs are more flexible than others, so you may want to shop around to find one that you're comfortable with. We hope you and your children continue to enjoy your surfing experience on the Site
+We have policies and procedures in place to protect the privacy and confidentiality of the information that we collect and maintain, including contracts with third parties that manage the information provided by you. All Personal Information is stored on secure servers, behind a firewall at a data center with access to data strictly controlled. Only individuals specifically involved in the analysis and other functions set out herein have access to your Personal Information. These individuals have been provided the requisite training on our privacy policies and practices.
 
-Any questions, comments or concerns concerning the Treehouse Privacy Policy can be sent to:
+To help ensure the privacy of your information, we urge you not to share your user name and password with anyone and recommend that you change your password frequently and store it in a safe place. If you are asked to create a user name or password, please select words that do not personally identify you. We may offer "auto login" which allows users to enter member areas of our Site without re-entering password information. You may want to disable auto login on your device, in order to prevent access by unauthorized users of your device.
 
-Corus Privacy Officer  
-Corus Quay  
-25 Dockside Drive  
-Toronto, Ontario  
-M5A 0B5
+**Updating / Deleting your Information**
 
-Or email: _[privacy@corusent.com](mailto:privacy@corusent.com)_
+Users of the Site may delete any Personal Information previously submitted through the Site, unless such deletion would compromise privacy or security interests. To update or delete your information, please contact the company’s Privacy Officer, at the address listed below.
 
-Please make any communications as complete and descriptive as possible and we will attempt to respond promptly to your concerns. 
+**Questions/Concerns?**  
+ 
+
+If you have any concerns about privacy procedures respecting our Site, or to find out further details about how your Personal Information may be used, write us at:
+
+**Corus Entertainment Inc.**  
+ **Corus Quay, 25 Dockside Drive,  
+Toronto, Ontario M5A 0B5**
+
+**_Attn:    Privacy Officer_**
+
+Or you may email us at [**privacy@corusent.com**](mailto:privacy@corusent.com) **.**
+
+Please make any communications as complete and descriptive as possible, and we will attempt to respond promptly to your concerns.
+
+**_Office of the Privacy Commissioner of Canada_**
+
+The Office of the Privacy Commissioner of Canada oversees our Personal Information handling practices. If any privacy concerns are not addressed to your satisfaction you may contact the Office of the Privacy Commissioner of Canada for further guidance:
+
+By Phone:
+
+| 
+
+1-800-282-1376 or 819-994-5444  
+  
+---|---  
+  
+By Fax:
+
+| 
+
+819-994-6591  
+  
+Website:
+
+| 
+
+[www.priv.gc.ca](http://www.priv.gc.ca/)  
+  
+©2016 YTV Canada, Inc. and Corus Digital Inc.
