@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mashinglab.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106153955id_/http%3A//www.mashinglab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashinglab.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608092722id_/http%3A//www.mashinglab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mashing Lab
 
@@ -6,13 +6,13 @@
 
 At mashinglab.com we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our web site and staunchly recognize the importance of protecting this information. In adopting this privacy policy (this “Privacy Policy”), our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. This Privacy Policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our Privacy Policy.
 
-**When does Mashinglab collect my personal information?**
+ **When does Mashinglab collect my personal information?**
 
 You may provide personal information to Mashinglab in one of eight ways: (1) by sharing your e-mail address when subscribing to our newsletter, (2) by sharing personal information when you submit news tips to our editorial team or by submitting a report via our Contact Form, (3) by sharing personal information when you post comments on our posts or stories, (4) by sharing contact information ( Twitter username and Facebook account name) through our contests and Open Web Awards, (5) by signing up to be a member of our online social network, (6) by participating in our Mashinglab Invites community, (7) by posting a job listing via our Jobs Board, or (8) by participating in a survey where an email address is requested. We may also ask for other information at other times but at no time will you be required to share any personal information to gain complete access to our site. Mashinglab is an open community but email addresses are requested to participate in some of our member-only features.
 
 In addition to basic contact information, our analytics trackers may also collect information that is in no way personally identifiable. This may include the operating system you are working on, the Internet browser you are using, and the screen resolution of your computer.
 
-**How does Mashinglab use my personal information?**
+ **How does Mashinglab use my personal information?**
 
 Depending on the portion of our site that you have subscribed to, we may use your information in a number of ways.
 
@@ -32,7 +32,7 @@ When you sign up for our updates or receive e-mail messages from Mashinglab, you
 
 Non-personally identifiable information (such as stated above) may be shared in aggregate form with our advertisers or marketing partners but your personally identifiable information will never be disclosed to them.
 
-**Who else has access to my personal information?**
+ **Who else has access to my personal information?**
 
 The ads appearing on Mashinglab’s website are delivered to you by Google Adsense or our Web advertising serving partners. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. And, in the course of serving advertisements to this site, third party advertisers may place or recognize a unique cookie on your browser. For more information about Google Adsense, cookies, and how to “opt-out”, please go to www. **google**.com/ **privacy** /
 
@@ -46,11 +46,11 @@ We have also contracted with a number of advertising network partners to monitor
 
 Third parties and web sites that have links on our site may also collect or use information about you. The information practices of other companies or people that Mashinglab does not employ or manage are not covered by this Privacy Policy.
 
-**Is there anything else I should know about my privacy and Mashinglab?**
+ **Is there anything else I should know about my privacy and Mashinglab?**
 
 Any information you disclose voluntarily on our comments page or in any properties hosted by Mashinglab becomes public information. mashinglab.com is a public forum. We cannot control the action of our site users and advise you to use your discretion in sharing information about yourself on the Internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online.
 
-**Mashinglab Comment Policy**
+ **Mashinglab Comment Policy**
 
 We never censor comments based on political or ideological point of view or of a critical nature. We reserve the right to delete those comments that are off-topic, “spammy” in nature, abusive, use excessive foul language, or include ad hominem attacks.
 
@@ -58,7 +58,7 @@ Once a comment is made public on the Mashinglab website, we will not remove it b
 
 Comments will only be considered for removal (i) in response to legal process, for example, in response to a court order, or (ii) in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law.
 
-**Mashinglab’s Profile Policy**
+ **Mashinglab’s Profile Policy**
 
 Mashinglab’s online social network is entirely opt-in by our members. The accounts listed in our database are created by members of the mashinglab.com network. Due to security considerations, Mashinglab will not process account deletion requests made via email. To delete an account, the account holder must sign into the network using his/her email address or username in order to permanently delete his/her account. If the account holder no longer has access to the email account upon which the account was created, the account holder will not be able to delete the account.
 
