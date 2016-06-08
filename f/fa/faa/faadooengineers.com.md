@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faadooengineers.com privacy policy that was archived on 2015-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150727230741id_/http%3A//www.faadooengineers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faadooengineers.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608200657id_/http%3A//www.faadooengineers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FaaDoOEngineers.com
 
@@ -6,7 +6,7 @@ FaaDoOEngineers.com is a wholly owned website of Two Minds Technology Pvt. Ltd. 
 
 FE respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users FE offers a vast repository of Online Sites and variety of community services. You may read 'About Us' to know more about FE at <http://www.faadooengineers.com/about-us.php> Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'FaaDoOEngineers Portals' in detail. The information about the user as collected by FE is: (a) information supplied by users and (b) information automatically tracked while navigation (Information). 
 
-By using FE’s website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer. 
+By using FE�s website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer. 
 
 **USER INFORMATION**
 
@@ -31,7 +31,7 @@ b) FE proposes to share such information within its group companies and officers
 
 **ACCESSING AND UPDATING PERSONAL INFORMATION**
 
-When you use FE’s websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems. 
+When you use FE�s websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems. 
 
 **INFORMATION SECURITY**
 
