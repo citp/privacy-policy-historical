@@ -1,10 +1,25 @@
-> *The following text is extracted and transformed from the forestessentialsindia.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114151057id_/http%3A//www.forestessentialsindia.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestessentialsindia.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608123319id_/http%3A//www.forestessentialsindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## DATE OF EFFECT:
+\- Date of Effect
 
-  
+\- Information We Collect
+
+\- How We Use Your Personally Identifiable Information
+
+\- Technologies that Allow Us to Customise Your Experience on Forest Essentials Online
+
+\- Information We Share and Who We Share With
+
+\- How We Protect Personal Information
+
+\- Updates to Our Privacy Policy
+
+\- Comments
+
+**DATE OF EFFECT:**
+
 This Privacy Policy comes into effect from Oct 1 2010
 
 Thank you for visiting Forest Essentials’ Online Store which is currently located at www.forestessentialsindia.com . Your visit to this website is subject to this Privacy Policy and our Terms and Conditions.
@@ -109,8 +124,6 @@ We maintain reasonable safeguards for this website to protect against unauthoris
 **Updates to Our Privacy Policy**
 
 We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. We suggest that you periodically consult this Privacy Policy. Please find the effective date of the Privacy Policy at the top of this page.
-
-**Comments**
 
 We have taken great efforts to ensure that your visit to Forest Essentials Online is an excellent and fruitful one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact us by email at [legal@forestessentialsindia.com](mailto:legal@forestessentialsindia.com)
 
