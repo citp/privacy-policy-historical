@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterplansindia.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206111105id_/http%3A//www.masterplansindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterplansindia.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608171628id_/http%3A//www.masterplansindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Master Plans India
 
@@ -18,6 +18,8 @@ Contact us at info[@]masterplansindia.com if you have any questions/feedback reg
 
 Your email address will not be published. Required fields are marked *
 
+Comment
+
 Name *
 
 Email *
@@ -25,9 +27,5 @@ Email *
 Website
 
 Check here to Subscribe to notifications for new posts
-
-Comment
-
-Notify me of follow-up comments by email.
 
 Notify me of new posts by email.
