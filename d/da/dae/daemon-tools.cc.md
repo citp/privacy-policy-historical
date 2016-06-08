@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the daemon-tools.cc privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018110738id_/http%3A//www.daemon-tools.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daemon-tools.cc privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608072340id_/http%3A//www.daemon-tools.cc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DAEMON-Tools.cc - DAEMON-Tools.cc
+
+## Privacy Policy
 
 At Disc Soft, your security and privacy is of the utmost importance to us. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, and store your information. Please [let us know](https://web.archive.org/contacts) if you have any questions.
 
@@ -14,7 +16,7 @@ When you register your account, purchase a product, we may collect your email ad
 
 ### How we use your personal information
 
-The personal information we collect allows us to register and identify your software product license. It also allows us to keep you posted on Disc Soft latest product announcements, software updates, and upcoming events. If you don’t want to be on our mailing list, you can opt out anytime by updating [your preferences](https://disc-soft.com/account/options).
+The personal information we collect allows us to register and identify your software product license. It also allows us to keep you posted on Disc Soft latest product announcements, software updates, and upcoming events. If you don’t want to be on our mailing list, you can opt out anytime by updating [your preferences](https://www.daemon-tools.cc/account/options).
 
 ### Collection and Use of Non-Personal Information
 
