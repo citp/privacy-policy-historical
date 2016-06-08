@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turkey-mmm.net privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123110548id_/http%3A//turkey-mmm.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turkey-mmm.net privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609014338id_/http%3A//turkey-mmm.net/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY / MMM TURKEY — Official Website
 
