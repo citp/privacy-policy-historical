@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the mediander.com privacy policy that was archived on 2015-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150624132750id_/http%3A//www.mediander.com/info/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mediander.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608123720id_/http%3A//www.mediander.com/info/privacy_policy/%23%21) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html><head>
 <meta charset="utf-8">
 
 <title>Privacy Policy | Mediander</title>
@@ -17,28 +17,36 @@
 <meta property="og:site_name" content="Mediander">
 <meta name="title" content="Privacy Policy | Mediander">
 <meta name="description" content="">
+<meta name="thumbnail" itemprop="thumbnailUrl" content="">
+
 
   <meta name="viewport" content="width=1160">
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-<link type="text/css" rel="stylesheet" href="/css/fonts.css?ver=2015-05-20-v1">
+<link type="text/css" rel="stylesheet" href="/css/fonts.css?ver=2016-05-17-v1">
+<link type="text/css" rel="stylesheet" href="/css/jquery-ui/jquery-ui-1.10.0.custom.min.css?ver=2016-05-17-v1">
 
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-ZJJP"></script><script async="" type="text/javascript" src="https://web.archive.org/web/20141007013049/http://www.googletagservices.com/tag/js/gpt.js"></script><script>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-ZJJP"></script><script>
     // Provide Mediander namespaces for data passed thru templates. This is kinda hacky and should go away in the end.
     var Mediander = {
-        Connects: {
-            Video: {} 
-        },
         Culturemap: null,
+        Tiles: {},
         cgi_name_lc: 'static',
         id2product: {book: {}, ebook: {}},
         id2altids: {book: {}, ebook: {}},
-        is_admin: false,
-        is_mobile: false,
-        ymd: '2015-06-24'
+        is_admin:         false,
+        is_mobile:        false,
+        is_order_summary: false,
+        is_staff:         'no',
+        ymd: '2016-06-08',
+        showModalSignup: false,
+        siteCategory: '',
+        google_analytics_id: 'UA-41077626-1'
     };
 </script>
+
+
 
 
 
@@ -47,19 +55,22 @@
 
 
 <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51530f8d15d04def&amp;async=1"></script>
-<script src="/js/app/Ads.js"></script> <!-- not managed by requireJS, does not require jQuery -->
+
+<link type="text/css" rel="stylesheet" href="/css/mediander.css?ver=2016-05-17-v1">
+
+  <link type="text/css" rel="stylesheet" href="/css/mediander_header_footer.css?ver=2016-05-17-v1">
+
+<link type="text/css" rel="stylesheet" href="/css/mediander_minicart.css?ver=2016-05-17-v1">
+<link type="text/css" rel="stylesheet" href="/css/mediander_modal_signup.css?ver=2016-05-17-v1">
+
 
 
   
-   <link type="text/css" rel="stylesheet" href="/css/mediander.css?ver=2015-05-20-v1">
-    <link type="text/css" rel="stylesheet" href="/css/mediander_header_footer.css?ver=2015-05-20-v1">
+    <link type="text/css" rel="stylesheet" href="/css/mediander_static_pages.css?ver=2016-05-17-v1">
   
 
 
 
-<link type="text/css" rel="stylesheet" href="/css/mediander_minicart.css?ver=2015-05-20-v1">
-<link type="text/css" rel="stylesheet" href="/css/mediander_signup.css?ver=2015-05-20-v1">
-<link type="text/css" rel="stylesheet" href="/css/mediander_static_pages.css?ver=2015-05-20-v1">
 
 
 
@@ -71,9 +82,10 @@
 
 
 
+
 </head>
 <body>
-  <!-- Google Tag Manager (Note that this ALSO implicitly pulls in the primary analytics code) -->
+    <!-- Google Tag Manager (Note that this ALSO implicitly pulls in the primary analytics code) -->
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-ZJJP"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -83,7 +95,7 @@
     })(window,document,'script','dataLayer','GTM-ZJJP');</script>
   <!-- End Google Tag Manager -->
 
-<!-- Begin comScore Tag -->
+  <!-- Begin comScore Tag -->
 <script>
   var _comscore = _comscore || [];
   _comscore.push({ c1: "2", c2: "18167439" });
@@ -99,67 +111,119 @@
 <!-- End comScore Tag -->
 
 
-<!-- This is for Facebook connects that will be implemented after launch of Phase 2
-     
--->
+  
+    <!--[if lt IE 8]>
+      <div id="warning_outdated_ie" class="warning_outdated_ie">
+      For a better Mediander experience <span id="win_xp" style="display:none">on Windows XP</span> please consider <span id="not_win_xp"><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">upgrading to a newer version of Internet Explorer</a> or</span> using <a href="https://www.google.com/chrome">Chrome</a> or <a href="http://www.mozilla.org">Firefox</a>.</div><script>if (navigator.appVersion.match(/XP|NT 5\.1/)) {  document.getElementById("not_win_xp").style.display = 'none'; document.getElementById('win_xp').style.display = 'inline' }</script>
+    <![endif]-->
 
-
-
-
-
-<!--[if lt IE 8]>
-<div id="warning_outdated_ie" class="warning_outdated_ie">
-For a better Mediander experience <span id="win_xp" style="display:none">on Windows XP</span> please consider <span id="not_win_xp"><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">upgrading to a newer version of Internet Explorer</a> or</span> using <a href="https://www.google.com/chrome">Chrome</a> or <a href="http://www.mozilla.org">Firefox</a>.</div><script>if (navigator.appVersion.match(/XP|NT 5\.1/)) {  document.getElementById("not_win_xp").style.display = 'none'; document.getElementById('win_xp').style.display = 'inline' }</script>
-<![endif]-->
-
-<!-- Sudo banner -->
+    <!-- Sudo banner -->
             
 
 
 
-<!-- CONTENT AREA -->
-<div class="container">
+    <div class="wide-wrapper">
 
-<!-- HEADER AND GLOBAL NAV -->
+      <div id="page-header">
 
+        
+          
+
+        
+        <div id="main-nav">
+          <!--navigation.tmpl-->
 
 
 <header>
   
   <div class="logo">
-    <a href="/"><img src="/images/logo.jpg"></a>
+    <a href="/"><img src="/images/global_nav/mediander-logo.png"></a>
   </div>
   
   <nav>
     <ul>
-      <li><a href="/connects/">Connects</a></li>
+      <li><a href="/">Home</a></li>
+      <li><a href="/connects/">Topics</a></li>
+      <li class="B2B"><a href="/info/B2B/">Business<br>Services</a></li>
       <li><a href="/culturemap/">CultureMap</a></li>
       <li><a href="/books/">BookShop</a></li>
       <li><a href="http://blog.mediander.com/">Blog</a></li>
-      
-        <li><a href="/info/video_tour/">Video Tour</a></li>
-        <li><a href="/info/about/">About Us</a></li>
-        <li><a href="/info/faq/">FAQ</a></li>
-      
     </ul>
+    <div class="beta">BETA</div>
   </nav>
 
   <!--Search Starting-->
-  <div id="rits-header-search">
+  <div id="rits-header-search" class="ui-front">
     <form class="site-search" action="/search" method="GET">
-      <input type="text" name="q" value="" placeholder="Search">
+      <input type="text" name="q" value="" placeholder="Search" class="search_autocomplete" id="search-autocomplete" autocomplete="off">
+      <input type="hidden" name="from_autocomplete" class="from-autocomplete" value="0">
       <input type="submit" value="Go">
     </form>
   </div> 
 
+  
+  <div class="breadcrumbs">
+    <a href="/">Home</a><span class="crumb-separator">
+      &gt; </span>
+      Privacy Policy
+  <div>
 
-</header>
+</div></div></header>
+</div> <!--/#expanded-header-->
+</div> <!--/#expanded-header-wrapper-->
+
+<div id="collapsed-header-wrapper">
+<div id="collapsed-header">
+  <header>
+    <div class="collapsed-logo">
+      <a href="/"><img src="/images/global_nav/collapsed-logo.png"></a>
+    </div>
+    <div class="goto-top">
+      <a href="#"><img src="/images/global_nav/collapsed-up-arrow.png"><br>
+        TOP
+      </a>
+    </div> <!--/.goto-top-->
+    <div class="collapsed-search">
+      <!--Search Starting-->
+      <div id="rits-collapsed-header-search" class="ui-front">
+        <form class="site-search" action="/search" method="GET">
+          <input type="text" name="q" value="" class="search_autocomplete" id="search-autocomplete-collapsed" autocomplete="off">
+          <input type="hidden" name="from_autocomplete" class="from-autocomplete" value="0">
+        </form>
+      </div> <!--/#rits-collapsed-header-search.ui-front-->
+    </div> <!--/.collapsed-search-->
+
+
+    <div class="sign-in">
+      <ul>
+        <li id="legacy-mini-cart" class="cart">
+          <a href="/cart/">
+            MY CART (<span id="header_cart_count">0</span>)
+          </a>
+        </li>
+      
+    </ul></div>
+
+  </header>
+</div> <!--/#collapsed-header-->
+</div> <!--/#collapsed-header-wrapper-->
+
+<!--/navigation.tmpl-->
+
+        </div>
+       <!--/#page-header-->
+
+      <div class="container">
+ 
+        
+
+  
+
+<!--/global_header.tmpl-->
 
 
 
-
-
-
+<!--Static/page.tmpl-->
 <!-- CONTENT AREA --> 
 <div class="content_area">
 
@@ -244,9 +308,9 @@ For a better Mediander experience <span id="win_xp" style="display:none">on Wind
 
 <p>We may use third party advertising companies and advertising networks to serve ads to you on our behalf when you visit these Sites. These companies may use information (not including your name, address, email address or telephone number) about your visits to these Sites and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following web addresses:</p>
 
-<p><a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a> <br>
-<a href="http://www.doubleclick.com/us/about_doubleclick/privacy">http://www.doubleclick.com/us/about_doubleclick/privacy</a><br>
-<a href="http://www.operative.com/privacy-policy/">http://www.operative.com/privacy-policy/</a></p>
+<p><a class="list" href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a> <br>
+<a class="list" href="http://www.doubleclick.com/us/about_doubleclick/privacy">http://www.doubleclick.com/us/about_doubleclick/privacy</a><br>
+<a class="list" href="http://www.operative.com/privacy-policy/">http://www.operative.com/privacy-policy/</a></p>
 
 <h5>USE OF IP ADDRESS</h5>
 
@@ -265,26 +329,16 @@ You may occasionally get cookies from our advertisers when using these Sites as 
 
 <p>If you have any questions or concerns about Mediander's Privacy Policy or its implementation, you may contact us at <a href="mailto:support@mediander.zendesk.com">support@mediander.zendesk.com</a>.</p>
 
+
 </div> <!-- end .generic_static_content -->
 
 </div> <!-- end .page_content -->
+<!--/Static/page.tmpl-->
 
+<!--global_right_column_and_footer.tmpl-->
 
             <!-- RIGHT COLUMN - ADS, SHARE LINKS AND NAV -->
             <div class="right_column">
-    	      <div class="sharelink_tab">
-                 <!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
-  <a class="addthis_button_facebook"></a>
-  <a class="addthis_button_twitter"></a>
-  <a class="addthis_button_email"></a>
-  <a class="addthis_button_compact"></a> 
-</div>
-<!-- AddThis Button END -->
-
-              </div>
-              <!-- end .sharelink_tab -->
-
               
 
               
@@ -298,58 +352,147 @@ You may occasionally get cookies from our advertisers when using these Sites as 
             </div> <!-- end .right_column -->
 			
 
-
-			<div class="clear"></div>
+          <div class="clear"></div>
           </div> <!-- end  .content_area -->
 
           <!-- GLOBAL FOOTER -->
           
-<div class="footer_for_crawler">
-  <div class="footer-widget-menu">
-    <h3>Mediander</h3>
-    <ul>
-      <li><a href="/">Home</a></li>
-      <li><a href="/info/video_tour/">Video Tour</a></li>
-      <li><a href="/info/privacy_policy/">Privacy Policy</a></li>
-      <li><a href="/info/terms_and_conditions/">Terms &amp; Conditions</a></li>
-    </ul>
-    <ul>
-      <li><a href="/info/about/">About Us</a></li>
-      <li><a href="/info/contact_us/">Contact Us</a></li>
-      <li><a href="/info/contact_us/">Advertise With Us</a></li>
-      <li><a href="/info/faq/">FAQ</a></li>
-    </ul>
-  </div>
-  
 
-  <div class="card-icons">
-    <div class="text">
-      We securely accept
-    </div>
-    <div class="images">
-      <img src="/images/footer-card-icon-amex.png">
-      <img src="/images/footer-card-icon-disc.png">
-      <img src="/images/footer-card-icon-mcrd.png">
-      <img src="/images/footer-card-icon-visa.png">
-    </div>
-  </div>
 
-  <div class="legal">
-      
+<div id="footer-margin"></div>
 
-      
- </div> <!-- end .legal -->
 
-</div>
 
+<div id="footer" style="display:none">
+  <div id="collapsed-footer">
+    <div id="show-bar">
+      <div class="center-content">
+        <a href="#" onclick="Mediander.expandFooter()">
+          <div class="label">
+            Show
+          </div>
+          <div class="white-circle">
+            <div class="plus-sign"></div>
+          </div>
+        </a>
+      </div>
+    </div> <!--/#show-bar-->
+  </div> <!--/#collapsed-footer-->
+
+  <div id="expanded-footer">
+    <div id="hide-bar">
+      <div class="center-content">
+        <a href="#" onclick="Mediander.collapseFooter()">
+          <div class="label">
+            Hide
+          </div>
+          <div class="white-circle">
+            <div class="minus-sign"></div>
+          </div>
+        </a>
+      </div> <!--/.center-content-->
+    </div> <!--/#hide-bar-->
+    <div id="newsletter">
+      <div class="center-content">
+        <div class="row">
+          <div id="newsletter-left" class="bottom">
+            Weekly newsletters
+          </div>
+          <div id="newsletter-center" class="bottom">
+            Timely Topics, Books, Blog Posts, CultureMaps and more
+          </div>
+          <div id="newsletter-right" class="bottom">
+            <form class="newsletterForm">
+              <input class="jEmailAddress" type="text" name="email" placeholder="Email">
+              <input class="jEmailSubscrib" type="submit" value="SIGN UP">
+              <p class="jEmailMessage subscrib-message"></p>
+            </form>
+          </div>
+        </div> <!--/.row-->
+      </div>
+    </div> <!--/#newsletter-->
+    <div id="links">
+      <div class="center-content">
+        <div class="links-list">
+          <div class="group">
+            SUPPORT
+          </div>
+          <div class="link">
+            <a href="/info/faq/#!/">FAQ</a>
+          </div>
+          <div class="link">
+            <a href="/info/video_tour/#!/">Video Tour</a>
+          </div>
+        </div>
+        <div class="links-list">
+          <div class="group">
+            COMPANY
+          </div>
+          <div class="link">
+            <a href="/info/about/#!/">About Us</a>
+          </div>
+          <div class="link">
+            <a href="/info/contact_us/#!/">Advertise with Us</a>
+          </div>
+          <div class="link">
+            <a href="/info/contact_us/#!/">Contact Us</a>
+          </div>
+        </div>
+        <div class="links-list">
+          <div class="group">
+            TERMS
+          </div>
+          <div class="link">
+            <a href="/info/privacy_policy/#!/">Privacy Policy</a>
+          </div>
+          <div class="link">
+            <a href="/info/terms_and_conditions/#!/">Terms &amp; Conditions</a>
+          </div>
+        </div>
+        <div class="links-list">
+          <div class="group">
+            FOLLOW US
+          </div>
+          <div class="social-media-icons">
+            <ul>
+              <li>
+                <a class="addthis_button_facebook_follow" addthis:userid="mediander"></a>
+              </li>
+              <li>
+                <a class="addthis_button_twitter_follow" addthis:userid="mediander_com"></a>
+              </li>
+              <li>
+                <a class="addthis_button_pinterest_follow" addthis:userid="mediander"></a>
+              </li>
+              <li>
+                <a class="addthis_button_linkedin_follow" addthis:userid="3105531" addthis:usertype="company"></a>
+              </li>
+            </ul>
+          </div> <!--/.social-media-icons-->
+
+        </div>
+      </div>
+    </div> <!--/#links-->
+    <div id="fine-print">
+      <div class="center-content">
+        Copyright 2016
+        Mediander LLC. All rights reserved.
+        MEDIANDER<span class="trademark">TM</span>,
+        MEDIANDER CULTUREMAP<span class="trademark">®</span>, and
+        CULTUREMAP<span class="trademark">®</span>
+        are trademarks of Mediander LLC and Fine Creative Media, Inc.
+      </div>
+    </div> <!--/#fine-print-->
+  </div> <!--/#expanded-footer-->
+
+</div> <!--/#footer-->
 
 
         </div> <!-- end .container -->
+         <!-- end .wide-wrapper -->
       <div class="clear"></div>
-      
-      
-
   
 
+<!--/global_right_column_and_footer.tmpl-->
 
 </body></html>
