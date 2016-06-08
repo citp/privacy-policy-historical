@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itsworthmore.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208110120id_/http%3A//itsworthmore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsworthmore.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608081233id_/http%3A//www.itsworthmore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sell an iPhone, iPad, Samsung Galaxy for More Cash | ItsWorthMore.com
+# Privacy Policy | ItsWorthMore.com
 
 We understand that your privacy is very important to you and we want you to know that it is just as important to us. In line with our efforts to maintain a long term relationship with our customers, we realize that along with trust comes protecting your privacy. Please note that when engaging in business with us you provide us with two types of information: Personal information that can be used to Identify you and Non-personal information that cannot be used to identify who you are.
 
