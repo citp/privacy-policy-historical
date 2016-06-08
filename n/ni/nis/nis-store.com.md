@@ -1,33 +1,29 @@
-> *The following text is extracted and transformed from the nis-store.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204052704id_/http%3A//www.nis-store.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nis-store.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608070950id_/http%3A//nis-store.com/company-policies/privacy-and-security) for the most accurate reproduction.*
 
-# NIS Web Shop - Privacy Policy
+# NIS-Store
 
-http://nis-store.com (this “Extranet) is operated by Alcone Marketing Group ("Alcone" or "We"). Alcone takes your privacy rights seriously, and this notice is intended to tell you about how Alcone collects and uses information on this Extranet.
+**Note: Delivery of the ordered items will be carried out only to the address specified in the PayPal payment details**
 
-This Extranet is intended for use by Authorized National In-Store Employees and Authorized National In-Store Distributors only. All purchases made on this Extranet must be made by persons 18 years of age or older.
+Security：
 
-Alcone automatically logs information such as visitors' IP addresses and browser types of all visitors to ensure that you are an Authorized National In-Store Employee or Authorized National In-Store Distributor. Alcone collects customer information on this Extranet for the purpose of completing the transaction, fulfilling merchandise orders and complying with your requests. We collect contact, shipping, billing and opt-in email addresses. Alcone uses cookies on this Extranet in order to assist the transaction process.
+NIS respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. We respect your privacy and want you to know about the policies we have in place to protect your personal information.
 
-We only disclose information to service providers necessary to fulfill your requests, such as to process your transaction and ship your requested orders.
+The policy of allowing access to this Personal Information is only to our staffs with a need to know. We also use available technology and encryption, when legally required or when appropriate for your protection, to provide a more secure environment and to reduce the chance of unauthorized access. Personal Information is stored in a secure environment protected by a combination of physical and technical measures. Tape backups are not permitted to leave the premises without prior authorization..
 
-We do not sell or rent your personally identifiable information to third parties for any purpose. We do provide your information to National In-Store for National In-Store’s internal analytical purposes only, so it can monitor the effectiveness of this Extranet, and confirm purchases by you and invoice amounts which National In-Store may be responsible pursuant to its agreement with Alcone.
+This information may be collected Register email, Password, gender  ，shipping and billing address(es), phone number, email address, and credit card number, the date and time, browser and operating system, the URL you request, In addition, we may ask for your country of residence and/or your organization's country of operation, so that we can comply with applicable laws and regulations. This information is used for billing, order processing and internal marketing as well as to communicate with you about your order and our site
 
-This Extranet is intended for users in the United States. If you place an order on this Extranet, you are consenting to the transfer of your personal information to the United States for processing.
+When we have more cooperation (like drop shipping), we may collect more information: Like Phone number, your website, MSN, your reviews and testimonials etc
 
-This Extranet may contain links to other web extranets or sites on the Internet. Once the user leaves this Extranet, use of any information provided is governed by the privacy policy and other terms of use of the operators of the applicable web extranets or site you have linked to. Alcone is not responsible for the practices or content of web extranets or sites it does not operate.
+Information use:
 
-Alcone cooperates with law enforcement agencies in identifying those who engage in illegal activities. Therefore, we respond to subpoenas, warrants or other court orders regarding information concerning users. We will, at our discretion, use or disclose information if we believe we are required to do so by law; believe that such disclosure is necessary to protect us from legal liability; or believe we should do so to protect someone's safety.
+We use your personal information to process your order and provide you with customer service. We may use your personal information internally to collect general information about visitors to this Site, improve Site content and layout, improve our outreach, and market our services and products.
 
-You can view and update your information on this Extranet by going to:   
-http://nis-store.com. 
+We will use your personal information to communicate with you about our Site and your orders. All customers must provide an email address to allow communication with nis.hk regarding orders placed. We may send you a confirmation email after you register with us as well as service-related announcements as necessary (for example, temporary suspension of service for maintenance.) You may also submit your email address to request notification when we receive a new brand, product style or product, or to sign up for our email newsletter and special offers. You can unsubscribe or opt out of future emails at any time (see the Opt Out/Corrections section below for more details).
 
-Please refer to our [Terms and Conditions](https://web.archive.org/web/20050204052704id_/http%3A//www.nis-store.com/terms.html), and other terms and conditions governing the use of this Extranet.
+Like most online retailers, we sometimes use third-party service providers to perform specific functions on our behalf. Any information disclosed to them is solely to help in their provision of service. For example, we provide your name, shipping address, email and phone number to partners such as DHL and UPS in order to guarantee delivery of your orders, and we may use relevant customer information in order to monitor the quality of the third party’s service.
 
-Please keep in mind that business and web extranets evolve over time. This means that this Privacy Policy and the [Terms and Conditions](https://web.archive.org/web/20050204052704id_/http%3A//www.nis-store.com/terms.html)
+Similarly, we must provide your credit card number to financial services organizations such as credit card processors and issuers in order to process payments. We protect all submissions of your credit card number for authorization with state-of-the-art data encryption.
 
-are subject to change without prior notice. Information that we gather is subject to this Privacy Policy and the [Terms and Conditions](https://web.archive.org/web/20050204052704id_/http%3A//www.nis-store.com/terms.html) that is in effect at the time. Your visit to this Extranet after changes are made to our Privacy Policy and our [ Terms and Conditions](https://web.archive.org/web/20050204052704id_/http%3A//www.nis-store.com/terms.html) constitutes your acceptance of each revision to the Privacy Policy and our [Terms and Conditions](https://web.archive.org/web/20050204052704id_/http%3A//www.nis-store.com/terms.html). If you are a frequent user of this Extranet, we suggest you review our Privacy Policy and the [Terms and Conditions](https://web.archive.org/web/20050204052704id_/http%3A//www.nis-store.com/terms.html) on a regular basis to inform yourself of any changes.
+Notification of updates ：
 
-Lastly, we will only contact you to process your transactions and make sure you received and are satisfied with your order. We will not market to you separately, unless you specifically opt-in to receive additional promotions or to respond to customer service surveys.
-
-  
- 
+To keep you informed of what information we collect, use, and disclose, we will post any changes or updates to this Privacy Notice on this Site and encourage you to review this Privacy Notice from time to time. Please contact us with any questions about the Privacy Notice.
