@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krajee.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127041847id_/http%3A//krajee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krajee.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608140535id_/http%3A//krajee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Krajee
 
@@ -128,7 +128,7 @@ krajee.com does not specifically market to children under 13.
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles  
 and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
- **In order to be in line with Fair Information Practices, krajee.com will take the following responsive action, should a data breach occur:**
+**In order to be in line with Fair Information Practices, krajee.com will take the following responsive action, should a data breach occur:**
 
   * krajee.com will notify the users via in site notification within 7 business days
   * krajee.com also agree to the individual redress principle, which requires that individuals have a right to pursue  
@@ -149,4 +149,4 @@ krajee.com may update this privacy policy by posting a new version on this websi
 
 You should check this page occasionally to ensure you are familiar with any changes.
 
- _Last Edited On: 2014-11-18_
+_Last Edited On: 2014-11-18_
