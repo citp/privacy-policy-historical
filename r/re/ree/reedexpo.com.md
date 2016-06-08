@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reedexpo.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226090400id_/http%3A//www.reedexpo.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedexpo.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608175333id_/http%3A//www.reedexpo.com/en/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reed Exhibitions
 
@@ -13,7 +13,7 @@ Reed Exhibitions defines its customers as follows:
   * Trade Show visitors
   * Trade Show exhibitors
   * Conference visitors
-  * Inquiries
+  * Enquiries
   * Speakers
   * Press
   * Other individuals with whom Reed Exhibitions maintains business relationships or communications
@@ -52,11 +52,11 @@ The Reed Exhibitions cookie that is placed on your computer as a result of you r
 
 **Any Queries/Questions**
 
-If you have any questions or concerns about your customer information or your request to opt-out of communications from Reed Exhibitions or its third party partners, please contact our Corporate Headquarters via email inquiry@reedexpo.co.uk, telephone + 44 (0) 20 8910 7878, or fax + 44 (0) 20 8910 7813.
+If you have any questions or concerns about your customer information or your request to opt-out of communications from Reed Exhibitions or its third party partners, please contact our Corporate Headquarters via email enquiry@reedexpo.co.uk.
 
 **Email Addresses**
 
-This site recognises the home servers of visitors, but not their email addresses. Individually identifiable email addresses are not captured or stored unless they are provided. Persons who communicate with Reed Exhibitions, and supply us with an email address, may receive future communications by email or telephone. Persons who do not wish to receive email messages may contact Reed Exhibitions and ask to be removed; to do so, send an email to inquiry@reedexpo.co.uk and specify your name, company name and email address. As such, Reed Exhibitions supports the customer's right to "opt-out". Persons who request information about Reed Exhibitions, and who supply us with their name and address will be added to our database to receive the requested information.
+This site recognises the home servers of visitors, but not their email addresses. Individually identifiable email addresses are not captured or stored unless they are provided. Persons who communicate with Reed Exhibitions, and supply us with an email address, may receive future communications by email or telephone. Persons who do not wish to receive email messages may contact Reed Exhibitions and ask to be removed; to do so, send an email to enquiry@reedexpo.co.uk and specify your name, company name and email address. As such, Reed Exhibitions supports the customer's right to "opt-out". Persons who request information about Reed Exhibitions, and who supply us with their name and address will be added to our database to receive the requested information.
 
 **Disclaimer**
 
