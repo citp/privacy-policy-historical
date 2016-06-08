@@ -1,11 +1,29 @@
-<!--The following is the downloaded HTML source of the bodyartforms.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207230600id_/http%3A//www.bodyartforms.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bodyartforms.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608153358id_/http%3A//www.bodyartforms.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="/cart/js/cart_mini_display.js" async=""></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript">
+	history.navigationMode = 'compatible';
+	$(document).ready(function(){
+		$('#header-cart-count').html($.cookie("cartCount"));
+	});
+	
+	var page_name_with_querystring = document.location.href.match(/[^\/]+$/)[0];
+		
+	var page_name_no_querystring =  location.pathname.substring(location.pathname.lastIndexOf("/") + 1);
+	
+	if (page_name_no_querystring == "products.asp" || page_name_no_querystring == "productdetails.asp") {
+		localStorage.setItem("item_url_last_viewed", page_name_with_querystring);
+	}
+	
+</script>
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy policy</title>
-<link href="CSS/Default.css?472015" rel="stylesheet" type="text/css">
+<link href="CSS/Default.css?572016" rel="stylesheet" type="text/css">
 
 
 </head>
@@ -28,11 +46,7 @@
 <div id="TopHeader_CenterGrey">
 	<div id="TopRandomImages">
 		<div id="Align_TopRandomImages">
-
-			<div class="header-coupon-block" style="float:right; margin-left: 5px;">
-			Use Coupon Code: <b>HOLIDAYS2015 -- 20% Off all December!!</b> 
-			</div>
-			
+		
 		</div><!-- End Align_TopRandomImages DIV -->
 	</div><!-- End TopRandomImages DIV -->
 </div><!-- End TopHeader_CenterGrey DIV -->
@@ -46,13 +60,17 @@
 </ul>
 </div><!-- End BottomGrey DIV -->
 
-<div id="Basket">
-    <div id="BasketText">Your cart total: 
-              $0.00
-                  &nbsp;&nbsp;&nbsp;<a href="viewcart.asp">View entire cart</a>
-</div><!-- End BasketText DIV -->
+<div id="Basket" style="display: relative;">
+    <div id="BasketText">&nbsp;&nbsp;<span id="cart_count_text"><span id="header-cart-count">0</span> items&nbsp;&nbsp;&nbsp;</span><a href="cart.asp" class="cart_display_hover">View entire cart</a>
+	</div><!-- End BasketText DIV -->
     <div id="BasketImage"></div>
-
+<div class="cart_show">
+	<div class="cart_mini_header">YOUR CART ITEMS</div>
+	<div class="cart_show_frame"></div>
+	<div class="cart_mini_buttons">
+	<a href="cart.asp" class="checkout_button" style="padding: 5px;">View cart</a>
+	</div>
+</div>
 </div><!-- End Basket DIV -->
 
 <div id="BAFLogo"></div>
@@ -61,7 +79,7 @@
 </div><!-- End header div -->
 <!-- Superfish is pop out left navigation -->
 <link rel="stylesheet" type="text/css" media="screen" href="css/superfish.css"> 
-<script type="text/javascript" src="CollapsePanel.js"></script>
+<script type="text/javascript" src="/js/CollapsePanel.js"></script>
 <div class="leftnav_container">
 <div class="LEFTNAV"> 
 <script type="text/javascript"> 
@@ -99,10 +117,77 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
                   <option value="septum">Septum</option>
                   <option value="barbell">Straight barbell</option>
                   <option value="twists">Twists</option>
+				  <option value="Weight">Weights</option>
                     </select>
 
                 
 
+<br>
+<select name="piercing" id="piercing">
+	
+	
+
+		<option value="" selected="selected">Piercing type...</option>
+	
+	
+
+	<option value="">&nbsp;</option>
+	<option value="">EAR</option>
+	<option value="Anti-tragus">&nbsp;&nbsp;&nbsp;&nbsp;Anti-tragus</option>
+	<option value="Basic ear piercing">&nbsp;&nbsp;&nbsp;&nbsp;Basic ear piercing</option>
+	<option value="Conch">&nbsp;&nbsp;&nbsp;&nbsp;Conch</option>
+	<option value="Daith">&nbsp;&nbsp;&nbsp;&nbsp;Daith</option>
+	<option value="Helix">&nbsp;&nbsp;&nbsp;&nbsp;Helix</option>
+	<option value="Industrial">&nbsp;&nbsp;&nbsp;&nbsp;Industrial</option>
+	<option value="Lobe">&nbsp;&nbsp;&nbsp;&nbsp;Lobe</option>
+	<option value="Rook">&nbsp;&nbsp;&nbsp;&nbsp;Rook</option>			
+	<option value="Snug">&nbsp;&nbsp;&nbsp;&nbsp;Snug</option>
+	<option value="Stretched lobe">&nbsp;&nbsp;&nbsp;&nbsp;Stretched lobe</option>
+	<option value="Tragus">&nbsp;&nbsp;&nbsp;&nbsp;Tragus</option>
+	
+	<option value="">&nbsp;</option>
+	<option value="">NOSE</option>
+	<option value="Nostril">&nbsp;&nbsp;&nbsp;&nbsp;Nostril</option>
+	<option value="Septum">&nbsp;&nbsp;&nbsp;&nbsp;Septum</option>
+
+	<option value="">&nbsp;</option>
+	<option value="">OTHER</option>
+	<option value="Microdermal">&nbsp;&nbsp;&nbsp;&nbsp;Microdermal</option>
+	<option value="Navel">&nbsp;&nbsp;&nbsp;&nbsp;Navel</option>
+	<option value="Nipple">&nbsp;&nbsp;&nbsp;&nbsp;Nipple</option>
+	<option value="Surface">&nbsp;&nbsp;&nbsp;&nbsp;Surface</option>
+	<option value="Tongue">&nbsp;&nbsp;&nbsp;&nbsp;Tongue</option>
+	<option value="Tongue web">&nbsp;&nbsp;&nbsp;&nbsp;Tongue web</option>
+	
+	<option value="">&nbsp;</option>
+	<option value="">FACE</option>
+	<option value="Bites">&nbsp;&nbsp;&nbsp;&nbsp;Bites</option>
+	<option value="Bridge">&nbsp;&nbsp;&nbsp;&nbsp;Bridge</option>
+	<option value="Cheek">&nbsp;&nbsp;&nbsp;&nbsp;Cheek</option>
+	<option value="Eyebrow">&nbsp;&nbsp;&nbsp;&nbsp;Eyebrow</option>
+	<option value="Jestrum">&nbsp;&nbsp;&nbsp;&nbsp;Jestrum</option>
+	<option value="Labret">&nbsp;&nbsp;&nbsp;&nbsp;Labret</option>
+	<option value="Lip">&nbsp;&nbsp;&nbsp;&nbsp;Lip</option>
+	<option value="Philtrum">&nbsp;&nbsp;&nbsp;&nbsp;Philtrum</option>
+	<option value="Vertical labret">&nbsp;&nbsp;&nbsp;&nbsp;Vertical labret</option>
+
+	<option value="">&nbsp;</option>
+	<option value="">GENITAL</option>
+	<option value="Ampallang">&nbsp;&nbsp;&nbsp;&nbsp;Ampallang</option>
+	<option value="Apadravya">&nbsp;&nbsp;&nbsp;&nbsp;Apadravya</option>
+	<option value="Clitoris">&nbsp;&nbsp;&nbsp;&nbsp;Clitoris</option>
+	<option value="Christina">&nbsp;&nbsp;&nbsp;&nbsp;Christina</option>
+	<option value="Dydoe">&nbsp;&nbsp;&nbsp;&nbsp;Dydoe</option>
+	<option value="Foreskin">&nbsp;&nbsp;&nbsp;&nbsp;Foreskin</option>
+	<option value="Fourchette">&nbsp;&nbsp;&nbsp;&nbsp;Fourchette</option>
+	<option value="Frenum">&nbsp;&nbsp;&nbsp;&nbsp;Frenum</option>
+	<option value="Guiche">&nbsp;&nbsp;&nbsp;&nbsp;Guiche</option>
+	<option value="Horizontal hood">&nbsp;&nbsp;&nbsp;&nbsp;Horizontal hood</option>
+	<option value="Labia">&nbsp;&nbsp;&nbsp;&nbsp;Labia</option>
+	<option value="Prince Albert">&nbsp;&nbsp;&nbsp;&nbsp;Prince Albert</option>
+	<option value="Scrotum">&nbsp;&nbsp;&nbsp;&nbsp;Scrotum</option>	
+	<option value="Vertical hood">&nbsp;&nbsp;&nbsp;&nbsp;Vertical hood</option>
+</select>
 <br>
             
 <select name="gauge" id="gauge">
@@ -281,6 +366,52 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
 
 <option value="5XL">5XL</option>
 
+<option value="Size 4">Size 4</option>
+
+<option value="Size 4.5">Size 4.5</option>
+
+<option value="Size 5">Size 5</option>
+
+<option value="Size 5.5">Size 5.5</option>
+
+<option value="Size 6">Size 6</option>
+
+<option value="Size 6.5">Size 6.5</option>
+
+<option value="Size 7">Size 7</option>
+
+<option value="Size 7.5">Size 7.5</option>
+
+<option value="Size 8">Size 8</option>
+
+<option value="Size 8.5">Size 8.5</option>
+
+<option value="Size 9">Size 9</option>
+
+<option value="Size 9.5">Size 9.5</option>
+
+<option value="Size 10">Size 10</option>
+
+<option value="Size 10.5">Size 10.5</option>
+
+<option value="Size 11">Size 11</option>
+
+<option value="Size 11.5">Size 11.5</option>
+
+<option value="Size 12">Size 12</option>
+
+<option value="Size 12.5">Size 12.5</option>
+
+<option value="Size 13">Size 13</option>
+
+<option value="Size 13.5">Size 13.5</option>
+
+<option value="Size 14">Size 14</option>
+
+<option value="Size 14.5">Size 14.5</option>
+
+<option value="Size 15">Size 15</option>
+
 <option value=" "> </option>
 
 <option value="&nbsp;">&nbsp; (0)</option>
@@ -375,7 +506,7 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
                 <option value="Silicone">&nbsp;&nbsp;&nbsp;&nbsp;Silicone</option>
                 <option value="PTFE">&nbsp;&nbsp;&nbsp;&nbsp;PTFE</option>
                 <option value="Bioplast">&nbsp;&nbsp;&nbsp;&nbsp;Bioplast</option>
-                <option value="Flexible Plastic">&nbsp;&nbsp;&nbsp;&nbsp;Flexible Plastic</option>
+                <option value="Flexible and plastic">&nbsp;&nbsp;&nbsp;&nbsp;Flexible Plastic</option>
               </select>
 
             <select name="brand" id="brand">
@@ -449,6 +580,93 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
                 <option value="50-70">50% - 70% off</option>
                 <option value="75-90">75% + off</option>
             </select>
+
+			<select name="colors">
+				<option value="">Color...</option>
+			
+					<option value="amber">amber</option>
+				
+					<option value="aqua">aqua</option>
+				
+					<option value="black">black</option>
+				
+					<option value="blue">blue</option>
+				
+					<option value="bone">bone</option>
+				
+					<option value="brass">brass</option>
+				
+					<option value="bronze">bronze</option>
+				
+					<option value="brown">brown</option>
+				
+					<option value="clear">clear</option>
+				
+					<option value="copper">copper</option>
+				
+					<option value="dark-blue">dark-blue</option>
+				
+					<option value="dark-purple">dark-purple</option>
+				
+					<option value="fuchsia">fuchsia</option>
+				
+					<option value="hider">hider</option>
+				
+					<option value="iridescent">iridescent</option>
+				
+					<option value="gold">gold</option>
+				
+					<option value="glow">glow</option>
+				
+					<option value="gray">gray</option>
+				
+					<option value="green">green</option>
+				
+					<option value="lavender">lavender</option>
+				
+					<option value="light-blue">light-blue</option>
+				
+					<option value="lime">lime</option>
+				
+					<option value="magenta">magenta</option>
+				
+					<option value="metallic">metallic</option>
+				
+					<option value="navy">navy</option>
+				
+					<option value="neon">neon</option>
+				
+					<option value="opalescent">opalescent</option>
+				
+					<option value="orange">orange</option>
+				
+					<option value="pattern">pattern</option>
+				
+					<option value="pink">pink</option>
+				
+					<option value="purple">purple</option>
+				
+					<option value="rainbow">rainbow</option>
+				
+					<option value="red">red</option>
+				
+					<option value="rose-gold">rose-gold</option>
+				
+					<option value="silver">silver</option>
+				
+					<option value="tan">tan</option>
+				
+					<option value="teal">teal</option>
+				
+					<option value="translucent">translucent</option>
+				
+					<option value="turquoise">turquoise</option>
+				
+					<option value="white">white</option>
+				
+					<option value="yellow">yellow</option>
+				
+            </select>
 			<br>
 <div class="align_center">
 <button type="submit" class="filter_button">» Filter jewelry «</button>
@@ -510,13 +728,8 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
 <div class="RoundedBkgd">
 <ul class="PureCSS">
     <li><a href="http://www.bodyartforms.com/products.asp?new=Yes">NEW ITEMS</a></li>
+	<li><a href="http://www.bodyartforms.com/products.asp?restock=Yes&amp;date=6/8/2016" class="sf-with-ul">Re-stocked items</a></li>
 </ul>
-<ul class="sf-menu sf-vertical" style="clear: both;">
-    <li class="current">
-    <a href="http://www.bodyartforms.com/products.asp?restock=Yes&amp;date=12/7/2015" class="sf-with-ul">Re-stocked items</a>
-        <ul><li><a href="http://www.bodyartforms.com/products.asp?restock=Yes&amp;date=12/7/2015">New layout (products)</a></li><li><a href="http://www.bodyartforms.com/restocked_items.asp?jewelry=restock&amp;date=12/7/2015">Old layout (one page)</a></li></ul>
-        </li>
-        </ul>
 </div>      <p class="LeftNav_Headers"><img src="http://www.bodyartforms.com/images/navleft_arrowdown.gif" alt="Icon" width="16" height="9">&nbsp;Sales:</p>
 <div class="RoundedBkgd">
 <ul class="sf-menu sf-vertical">
@@ -689,35 +902,24 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=bananabell">Navel / Belly</a></li>
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=nipple">Nipples</a></li>
     <li><a href="http://www.bodyartforms.com/products.asp?Extras=Y">Threaded ends &amp; o-rings </a></li>
-    <li><a href="http://www.bodyartforms.com/products.asp?jewelry=earring">Earrings, pendants, and necklaces</a></li>
+</ul>
+<p class="LeftNav_Headers"><img src="http://www.bodyartforms.com/images/navleft_arrowdown.gif" alt="Icon" width="16" height="9">&nbsp;Regular jewelry:</p>
+<ul class="PureCSS">
+    		<li><a href="http://www.bodyartforms.com/products.asp?jewelry=earring">Earrings</a></li>
+        <li><a href="http://www.bodyartforms.com/products.asp?jewelry=necklace">Necklaces &amp; pendants</a></li>
+        <li><a href="http://www.bodyartforms.com/products.asp?jewelry=rings">Finger rings</a></li>
+        <li><a href="http://www.bodyartforms.com/products.asp?jewelry=bracelet">Bracelets</a></li>
 </ul>
     <p class="LeftNav_Headers"><img src="http://www.bodyartforms.com/images/navleft_arrowdown.gif" alt="Icon" width="16" height="9">&nbsp;Other stuff:</p>
  <div class="RoundedBkgd">
 <ul class="PureCSS">
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=gear">T-shirts, buttons, &amp; stickers</a></li>
-    </ul>
-<ul class="sf-menu sf-vertical">
-    <li class="current">
-    <a href="http://www.bodyartforms.com/products.asp?jewelry=earring" class="sf-with-ul">Necklaces &amp; accessories</a>
-<ul><li>       <a href="http://www.bodyartforms.com/products.asp?jewelry=earring">Earrings</a></li>
-        <li><a href="http://www.bodyartforms.com/products.asp?jewelry=necklace">Necklaces &amp; pendants</a></li>
-        <li><a href="http://www.bodyartforms.com/products.asp?jewelry=rings">Rings</a></li>
-        <li><a href="http://www.bodyartforms.com/products.asp?jewelry=bracelet">Bracelets</a></li>
-</ul>
-</li>
-</ul>
-<ul class="PureCSS" style="-moz-border-radius: 0px 0px 7px 0px;
-	-webkit-border-top-right-radius: 0px;
-	-webkit-border-top-left-radius: 0px;
-	-webkit-border-bottom-right-radius: 7px;
-	-webkit-border-bottom-left-radius: 0px;
-	border-radius: 0px 0px 7px 0px;">
         <li><a href="http://www.bodyartforms.com/products.asp?brand=Wildcard&amp;Filter=Yes">Wildcard clothing</a></li>
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=cleansers">Cleansers, lotions, oils, &amp; salves</a></li>
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=tools">Ring openers, closures, &amp; calipers </a></li>
     <li><a href="http://www.bodyartforms.com/products.asp?jewelry=storage">Jewelry storage</a></li>
 	<li><a href="http://www.bodyartforms.com/productdetails.asp?ProductID=1464">Autoclave service</a></li> 
-    <li><a href="http://www.bodyartforms.com/productdetails.asp?ProductID=2424">Gift certificates</a></li>    
+	<li><a href="http://www.bodyartforms.com/gift-certificate.asp">Gift certificates</a></li> 
 </ul>
 </div>
 </div><!-- End leftnav div -->
@@ -733,6 +935,7 @@ Narrow your search results:            <select name="jewelry" id="jewelry">
    <li><a class="faqlinks" href="#howuse">Security</a></li>
    <li><a class="faqlinks" href="#shareinfo">Information Sharing</a></li>
    <li><a class="faqlinks" href="#accurateinfo">Help us keep your personal information accurate</a></li>
+   <li><a class="faqlinks" href="#marketing">Marketing</a></li>
    <li><a class="faqlinks" href="#tracking">Cookies and Other Tracking Technologies</a></li>
    <li><a class="faqlinks" href="#questions">Contact Information</a></li>
  </ul>
@@ -821,7 +1024,17 @@ We will retain your information for as long as your account is active or as need
        your personal information changes or you would like to review 
   the personal information we may have on file, just login into your account at the top of the page and make the necessary changes. </div>
 <br>
-
+<div class="MediumHeader-Purple"><a name="marketing"></a>Marketing
+   <a class="BacktoTop" href="#top">back 
+       to top</a></div>
+  <div class="ContentText">
+	We utilize Google products which highlight user preferences in order to tweak our advertising to make it more effective. For example, we use Google Remarketing to show relevant products to some users who have purchased similar products, and Similar Audiences to find new audiences who are similar to the audience of our website. We use Audience Analysis to see demographic information about the users on our site. This gives us general information, such as the approximate percentage of users who are between the ages of 18-24. It does not give us any specific user information, and only displays data for groups of tens of thousands of users in a very general way.
+	<br>
+	<br>
+	All of these programs are entirely voluntary. You can opt out of any of them, or all of them by adjusting your <a href="http://www.google.com/settings/ads" target="_blank">Google Ads settings</a>.
+  
+  </div>
+<br>
 <div class="MediumHeader-Purple"><a name="tracking"></a>Cookies and Other Tracking Technologies
 <a class="BacktoTop" href="#top">back 
        to top</a></div>
@@ -906,7 +1119,7 @@ We will retain your information for as long as your account is active or as need
 <div style="float: right; text-align: right; padding-right: 20px; font-size: 10px;">
 <br>
 <a href="contact1.asp" class="footer_links">Contact us</a> | <a href="faqs.asp" class="footer_links">FAQ</a> | <a href="privacypolicy.asp" class="footer_links">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;
-All content and designs © 2001-2015 Bodyartforms LLC unless otherwise stated
+All content and designs © 2001-2016 Bodyartforms LLC unless otherwise stated
 <br><br>
 </div>
 </div>
