@@ -1,53 +1,46 @@
-> *The following text is extracted and transformed from the gayroom.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207203813id_/http%3A//gayroom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayroom.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608124813id_/http%3A//gayroom.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
-## Privacy policy
+**This Privacy Policy (the “Policy”) applies to all of the Whale Member (“Service Provider”) family of websites (the “Sites”), including this site, as well as any other Sites at which this Policy appears and which are owned/controlled by the Service Provider. This Policy describes how Service Provider uses information it obtains about its users when they visit one of the Sites and is inapplicable to information obtained about you through other channels. Please review this Policy carefully. If you have any questions about this Policy, please email cvv@cvvhelp.net.**
 
-This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscribers and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site.
+### 1\. Revisions.
 
-This Site does not knowingly seek or collect any personal information or data from persons under the age of 18.
+Service Provider reserves the unilateral right to modify this Policy from time-to-time.
 
-Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express Assent to the Use of Personal Information Collected by Site.
+a. By accessing, using, or joining this Site, you acknowledge that Service Provider possesses this unilateral right and that you will ensure that you stay up-to-date regarding changes to the Policy by checking it on a regular basis. You shall be bound by the terms of the Policy then in effect each time you access or use this Site.  
+b. Dates that the Policy is revised will be contained in the “Last Modified Date” on the top of this page. If you visit this page and see a new “Last Modified Date,” you agree that you shall review the Policy for revisions.  
+c. In the event of a conflict between this Policy and any Terms of Use for any Sites, this Policy shall control.
 
-CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT.
+### 2\. Collection of Information.
 
-IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.
+a. When you sign up for membership on the Site, you are required to provide Service Provider with your name, billing address, email address, postal code, credit card number, bank account and routing number, telephone number, and other personal information. You may be asked for additional information to participate in special promotions, offers, contests, or polls. This is information Service Provider is collecting from you. Service Provider recognizes that, from time-to-time, the information provided during sign-up may become inaccurate or out-of-date. To modify the information provided during sign-up, please email cvv@cvvhelp.net.  
+b. In addition to collecting information if and/or when you register for membership, Service Provider uses cookies to collect, among other things, your location, your IP address, referral websites and your membership ID. You can turn off cookies, but you might not be able to use any or all of the Site, irrespective of whether you are a member.  
+c. In addition to the data that you provide to us, we may also obtain data from trusted third parties. This ‘profiling’ information is produced from a variety of sources, including publicly available data or from providers to whom you have given your permission for your data to be shared.
 
-## What Information About Subscribers is Collected?
+### 3\. Information Collected
 
-When any adult consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, e-mail address, username and password, and special interests or affiliations. This Site collects any and all such information and includes it in its customer database.
+The amount of information Service Provider collects from visitors to the Sites largely depends upon whether the visitor is a member or is simply browsing the Sites. A non-member browsing one of the Sites only has the information collected described in Paragraph 2(b) of this Policy. Members to one or more of the Sites will have the information collected described in Paragraph 2(a) of the Policy. Service Provider may collect additional personal information in the event you send any communication or correspondence to Service Provider. Service Provider may store any and all information collected in its database(s).
 
-If the Site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the Site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the Site and included in its customer database.
+If we make other organizational services available through our Sites, you understand we do not operate those sites. Information as to the privacy practices of such other organizations is governed by their own polices and you should review them before providing any information to them. You consent that such organizations may share your personal information with Service Provider if you have accessed such services through our Sites.
 
-When a subscriber of this Site requests web pages from the Site's server or clicks on banners or other hypertext links, the Site will automatically collect some information or data about the subscriber, including the subscriber's IP address, the information that is collected may also indicate any special preferences or requests of the subscriber; all that information and data will be collected by the Site and included in its customer database.
+### 4\. Use of Information.
 
-If a subscriber sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its customer database.
+The primary use of information collected by Service Provider is to provide you access to and enhance your experience on the Sites. More specifically, Service Provider collects information to provide you with varying levels of access to one or more of the Sites and to ensure you continue to have access to one or more of the Sites (e.g., for monthly payment purposes). As stated in Paragraph 3, Service Provider also uses cookies to collect information to tailor the Sites to your preferences and generally to make your visits more enjoyable. While those are the primary reasons Service Provider collects information, there are others, including:
 
-## Use of Personal Subscriber Information.
+ **a. Advertising and Marketing.** Service Provider uses cookies and other passively collected information to improve its advertising and to improve the applicability of its advertising to your interests. Collected information may also be used for general market research and to track the interests of current and former members to one or more of the Sites. Service Provider is not responsible for the collection, use, or security of any information, sensitive, personally-identifying, or otherwise, that you voluntarily share with an advertiser.  
+ **b. Operation.** Service Provider may share your information if it becomes necessary to operate one or more of the Sites properly. This may include sharing information with a third-party vendor to collect fees or other monies owed by you. Service Provider may also share your information to prevent, detect, or resolve issue of fraud or security.  
+ **c. Legal** Service Provider may use your information for legal purposes.  
+i. For example, your information may assist Service Provider in ensuring that you are in compliance with the Terms of Use, including our intellectual property policies and the requirement that you not share your password with third parties. It may also be used as necessary to bring legal action against you in the event that you materially breach Service Provider’s Terms of Use.  
+ii. Service Provider may also share your information with law enforcement to assist in any criminal investigations against you or to comply with any laws or regulations.   
+iii. Service Provider may share your information with a debt collector or legal counsel to collect any fees or other monies owed by you or to otherwise enforce the Terms of Use.  
+iv. In some cases, Service Provider may be subpoenaed to provide your information in a civil or criminal matter. Service provider reserves the right to respond to a subpoena without the necessity of informing you, but Service Provider may provide you with an opportunity to seek to quash the subpoena before responding, in service provider’s sole discretion. 
 
-Except for Subscribers who: (a) voluntarily register as an advertiser with the Site or, (b) provide a specific query or comment to the Site through the “contact us” link on the Site, the Site will not obtain, collect, copy, use, transfer, sell nor save any unique, personal or identifying information from any Subscribers that visit the Site and/or any Affiliate Sites (collectively, the “Prohibited Data”). Without limiting the foregoing, the Site may collect, use and store (but only in its own data facility), for no more than thirty (30) days, the IP address (i.e., the octet) of a Subscriber who accesses the Site, solely for the limited purpose of detecting “click fraud” (i.e., an automated method of linking to, or access of, the Site for the purpose of inflating the number of page views of the Site) and for no other reason; provided that, instead of collecting, using and storing the IP address (i.e., the octet) of a Subscriber who accesses the Site, the Site will “hash” or convert each IP address into a mathematical representation of the IP address which the Site may collect, use and store without limitation. For the avoidance of doubt, the Site will destroy each IP address (and any data containing such IP address) no later than thirty (30) days after the date the Site collected that IP address.] The Site will not use "cookie" or similar technology (e.g., clear gifs) on the Site for any purpose at any time; provided that the Site may display clear gif banner ads in connection with queries prohibited under this Agreement (e.g., illegal or “blacklisted” queries).
+### 5\. Data Security
 
-## Security of Personal Information Collected by the Site.
+Service Provider takes reasonable efforts to ensure that sensitive or personally-identifying information and data it collects remains secure. It uses reasonable measures any time sensitive, personal information is transmitted. However, nothing is perfect, and Service Provider cannot guarantee that hackers or other cyber-criminals will never be capable of infiltrating its systems. For this reason, you acknowledge and accept that you assume any risk that such breaches may occur despite these measures being in place. Non personally-identifying information may be shared publicly for any purpose.
 
-Consistent with the Policies set forth in this Privacy Statement, the Site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the Site.
+### 6\. Emails
 
-All subscribers should consider any information provided to or collected by the Site as non-confidential, and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
-
-## "OPT-IN" and "OPT-OUT" Provisions.
-
-There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers").
-
-"OPT-IN" -- Some Offers may be presented to the subscriber with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that Offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties.
-
-"OPT-OUT" -- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
-
-## "OPT-OUT" Revocation Procedure.
-
-The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by going to the Site, and entering in the exact email address to be "Opted-Out".
-
-## Terms and Conditions of Membership.
-
-Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
-
-In the event of any conflicts between the Membership Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
+a. Emails from Service Provider. When you sign up for one or more of the Sites, you provide Service Provider with an accurate email address. Service Provider maintains a member directory so that it may email you from time-to-time. These emails may concern matters Service Provider thinks you may find interesting, including but not limited to new Sites, programs, and services. Emails from Service Provider and its affiliates are not SPAM, as you have a business relationship with Service Provider as soon as you join one or   
+b. Emails to Service Provider. If you contact Service Provider via email or via any link on one of the Sites, you should be aware that the information you transmit should not be considered private or secure. Please do not transmit any information you would not want to become public.
