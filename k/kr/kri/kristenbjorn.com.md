@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kristenbjorn.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209183950id_/http%3A//www.kristenbjorn.com/web/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kristenbjorn.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608144352id_/http%3A//www.kristenbjorn.com/web/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - | Kristen Bjorn / European Gay Bareback Porn
 
@@ -27,4 +27,4 @@ KristenBjorn.com may be required by law or government agency to disclose both Ac
 
 Your personal information is secured by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of active and passive Information.  
 KristenBjorn.com does not sell, rent, or trade your personal information to or with third parties.  
-If you desire not to receive information or if you wish to access, delete, or correct you information, please contact [Customer Service](https://web.archive.org/web/20151209183950id_/http%3A//www.kristenbjorn.com/web/contact.php)
+If you desire not to receive information or if you wish to access, delete, or correct you information, please contact [Customer Service](https://web.archive.org/web/20160608144352id_/http%3A//www.kristenbjorn.com/web/contact.php)
