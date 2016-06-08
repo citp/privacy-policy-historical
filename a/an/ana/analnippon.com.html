@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the analnippon.com privacy policy that was archived on 2015-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209075249id_/http%3A//www.analnippon.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the analnippon.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608225519id_/http%3A//www.analnippon.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head lang="en">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -43,6 +43,15 @@
         ga('send', 'pageview', {
             'page': 'ExtraTracking',
             'title': 'LOCATION:WWW:NONMEMBER:PRIVACY_TYPE:'+ typeEvent
+        });
+    }
+
+    function gaAdtrack(type, spotAD) {
+        if (typeof type === 'undefined') type = 'IMPRESSION';
+        if (typeof spotAD === 'undefined') spotAD = 'UNDEFINED';
+        ga('send', 'pageview', {
+            'page': 'ADTRACK:WWW:' + type + ':' + spotAD + ':PRIVACY',
+            'title': 'http://www.analnippon.com/privacy'
         });
     }
 
@@ -109,7 +118,7 @@
             <p class="b-page-text">All questions to Mentarinet ltd regarding these terms and conditions must be directed to: <span class="hidden_text hidden_text__terms"></span></p>
             <p class="b-page-text">Mentarinet ltd registered address at <span class="hidden_text hidden_text__addres"></span></p>
             <br>
-            <p class="b-page-text">Should you have other questions or concerns about these privacy policies, please <a class="link" href="http://www.supportidols.com/support/">contact us</a>.</p>
+            <p class="b-page-text">Should you have other questions or concerns about these privacy policies, please <a class="link" href="http://www.supportidols.com">contact us</a>.</p>
         </div>
         <div class="b-page-footer">
             <a class="btn btn-default" href="http://www.analnippon.com/" title="AnalNippon.com">Back to AnalNippon.com</a>
