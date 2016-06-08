@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logoarena.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906191315id_/http%3A//www.logoarena.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoarena.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608113500id_/http%3A//www.logoarena.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Logo Arena
 
@@ -34,7 +34,7 @@ You can set preferences for how Google advertises to you using the [Google Ad Pr
 
 **Facebook** – Cookies and pixels are used to understand and deliver ads and make them more relevant to you. We may also use a cookie to learn whether someone who saw an advert on Facebook later visited our website.
 
-Facebook is able to connect the data with your Facebook account and use them for their own advertising purposes, in accordance with Facebook's Data Use Policy found at: https://www.facebook.com/about/privacy/. Facebook conversion tracking also allows Facebook and its partners to show you advertisements on and outside Facebook. In addition, a cookie will be saved onto your computer for these purposes. Please click here if you would like to revoke your permission: [https://www.facebook.com/ads/website_custom_audiences/](https://www.facebook.com/ads/website_custom_audiences).
+Facebook is able to connect the data with your Facebook account and use them for their own advertising purposes, in accordance with Facebook's Data Use Policy found at: https://www.facebook.com/about/privacy/. Facebook conversion tracking also allows Facebook and its partners to show you advertisements on and outside Facebook. In addition, a cookie will be saved onto your computer for these purposes. Please [click here](https://www.facebook.com/ads/website_custom_audiences) if you would like to revoke your permission.
 
 By registering with Logo Arena, you hereby acknowledge and agree to the above privacy policy and any amendments to it hence forth.
 
