@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fallout3nexus.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604020922id_/http%3A//fallout3.nexusmods.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fallout3nexus.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608031547id_/http%3A//www.nexusmods.com/fallout3/about/privacy) for the most accurate reproduction.*
 
-# Fallout 3 Nexus - Fallout 3 Mods and community
+# Fallout3 Nexus - mods and community
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.
 
