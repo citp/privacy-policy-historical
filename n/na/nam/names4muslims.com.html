@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the names4muslims.com privacy policy that was archived on 2015-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208015534id_/http%3A//www.names4muslims.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the names4muslims.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608153418id_/http%3A//www.names4muslims.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -38,7 +38,7 @@
             <li><a href="http://www.names4muslims.com/">Home</a></li>
             <li><a href="http://www.names4muslims.com/muslim-baby-names.html">Muslim Names</a></li>
             <li><a href="http://www.names4muslims.com/muslim-baby-girl-names.html">Muslim Girl Names</a></li>
-            <li><a href="http://www.names4muslims.com/muslim-baby-boy-names.html">Muslim Boy Names</a></li>
+            <li><a href="http://www.names4muslims.com/baby-boys.php">Muslim Boy Names</a></li>
             <li><a href="http://www.names4muslims.com/names-by-meaning.html">Names by Meaning</a></li>
             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Random Names <b class="caret"></b></a>
               <ul class="dropdown-menu">
@@ -58,10 +58,10 @@
 <div id="wrap" class="container">
     <div class="well">
        <div class="row">
-  <div class="col-md-3 col-lg-3">
-    <h4>Muslim Names</h4>
+  <div class="col-md-4 col-lg-4">
+    <h4>Search and Find Muslim Names</h4>
   </div>
-  <div class="col-md-9 col-lg-9">
+  <div class="col-md-8 col-lg-8">
     <form class="form-inline" role="form" id="search" action="http://www.names4muslims.com/search/pre_search" method="post">
       <div class="form-group form-group-lg">
         <select name="gender" class="form-control input-lg">
@@ -78,6 +78,7 @@
         </span> </div>
     </form>
   </div>
+  <div class="col-md-12 text-center"><h3>A Good and Beautiful Name is the Greatest Gifts You can Give Your Children.</h3><h3></h3></div>
 </div>    </div>
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-8">
@@ -105,11 +106,12 @@
   </div>
 </div>
 <!-- /container -->
+<div id="fav-menu"><a href="http://www.names4muslims.com/favorite-names.html" class="btn btn-lg btn-circle btn-girl" title="View my favorites"><span class="fa-stack"><i class="fa fa-heart fa-stack-2x"></i><span class="count fa fa-stack-1x" style="font-size:11px;color:#000;"></span></span></a></div>
 <footer class="footer">
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-5 col-md-5 col-md-push-7"><p class="text-right text-muted"><a class="text-muted" href="http://www.names4muslims.com/">Home</a> | <a class="text-muted" href="http://www.names4muslims.com/privacy.html">Privacy &amp; Policy</a> | <a class="text-muted" href="http://www.names4muslims.com/contacts.html">Contact Us</a> </p></div>
-      <div class="col-xs-12 col-sm-7 col-md-7 col-md-pull-5"><p class="text-left text-muted">Copyright © <script>document.write(new Date().getFullYear())</script>2020 Names4muslims.com and www.muslim-names.net. Site by <a class="text-muted" href="http://mebron.com" title="Website by">Mebron</a></p></div>
+      <div class="col-xs-12 col-sm-7 col-md-7 col-md-pull-5"><p class="text-left text-muted">Copyright © <script>document.write(new Date().getFullYear())</script>2020 Names4muslims.com and www.muslim-names.net. Site by <a class="text-muted" href="http://mebron.com" title="Website by">Mebron</a><br></p></div>
 
     </div>
   </div>
@@ -154,7 +156,8 @@
 </script>
 <script type="text/javascript">
   $("body").on("click", ".fav", function(event) {
-    $(this).html('<i class="fa fa-star"></i> Favorited').css({color: 'green'});
+    $(this).html('<i class="fa fa-star"></i> Favorited').css({color: 'green'}); 
+    $("#favorite-btn").css( "opacity", 1);
     var id = (this.id);
     $.ajax({
       type: 'post',
