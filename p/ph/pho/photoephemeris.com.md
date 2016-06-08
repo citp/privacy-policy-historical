@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the photoephemeris.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206232536id_/http%3A//photoephemeris.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoephemeris.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608151425id_/http%3A//photoephemeris.com/privacy) for the most accurate reproduction.*
 
 # The Photographer's Ephemeris: Privacy Policy
 
-The Photographer’s Ephemeris applications for iOS, Android, Windows, Mac, web browser, and other devices and platforms, our web-site [photoephemeris.com](http://photoephemeris.com/) (also accessible via [thephotographersephemeris.com](http://thephotographersephemeris.com/) and [photoephemeris.co.uk](http://photoephemeris.co.uk/)) and our supporting services including Location Synchronization and Crookneck Photo Apps accounts (“Backend Services”), collectively, our “Services”, are developed, published and maintained by Crookneck Consulting LLC (referred to as “we”, “us” and “our” below).
+The Photographer’s Ephemeris™ applications for iOS, Android, Windows, Mac, web browser, and other devices and platforms, our web-site [photoephemeris.com](http://photoephemeris.com/) (also accessible via [thephotographersephemeris.com](http://thephotographersephemeris.com/) and [photoephemeris.co.uk](http://photoephemeris.co.uk/)) and our supporting services including Location Synchronization and Crookneck Photo Apps accounts (“Backend Services”), collectively, our “Services”, are developed, published and maintained by Crookneck Consulting LLC (referred to as “we”, “us” and “our” below).
 
 ## Your Privacy
 
@@ -38,15 +38,17 @@ We may share non-personal, aggregated information with our customers, partners, 
 
 In the future, we may sell, buy, merge, or partner with other companies or businesses. In such transactions, user information may be among the transferred assets.
 
-We use return email addresses or other contact information you provide to us to answer the email enquiries we receive.
+We use return email addresses or other contact information you provide to us to answer the email enquiries we receive and to communicate with you regarding your use of or access to the Services.
 
-If you indicate interest in our Services by contacting us or donating in support of any of our Services, we may occasionally email you to inform you of significant updates to those services. You may unsubscribe from any such future mailings.
+If you contact us with an enquiry, support request or other similar request related to Skyfire™, we may share your contact details and request with Matthew Kuhns Photography, the licensor of Skyfire to Crookneck Consulting LLC, for the purposes of addressing your request appropriately, and you hereby consent to the same.
 
-Contact information is not used for any other purpose and is not intentionally shared with outside parties without your consent.
+If you indicate interest in our Services by contacting us, donating, or signing up for a trial of or subscription to the Services, we may occasionally email you to inform you of significant updates, or changes that may affect your use of or access to the Services. You may unsubscribe from future mailings using the link included.
+
+Your contact information is not used for any other purpose and is not intentionally shared with outside parties without your consent.
 
 ## Third Party Services
 
-We rely on services provided by third parties to collect the information described in this policy (for example, Google Analytics and Crittercism). We make reasonable efforts to ensure that such third party services are trustworthy. However, we cannot be held responsible for collection or use of your information by such third parties. 
+We rely on services provided by third parties to collect the information described in this policy (for example, Google Analytics and HockeyApp). We make reasonable efforts to ensure that such third party services are trustworthy. However, we cannot be held responsible for collection or use of your information by such third parties. 
 
 ## Data Security
 
