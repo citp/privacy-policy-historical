@@ -1,37 +1,13 @@
-> *The following text is extracted and transformed from the drippic.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015102006id_/http%3A//exotic-pictures.drippic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drippic.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608143351id_/http%3A//drippic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us at drippic.com[at]gmail.com 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested. Log files are maintained and analysed of all requests for files on this website’s web servers. Log files do not capture personal information but do capture the user’s IP address, which is automatically recognised by our web servers. This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties.
 
-At drippic.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by drippic.com and how it is used. 
+## Third Parties
 
-**Log Files**
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
 
-Like many other Web sites, drippic.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users that are based on their visit to your sites and/or other sites across the Internet.
 
-**Cookies and Web Beacons**
-
-drippic.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
-
-**DoubleClick DART Cookie**
-
-• Google, as a third party vendor, uses cookies to serve ads on drippic.com.   
-• Google's use of the DART cookie enables it to serve ads to our users based on their visit to drippic.com and other sites on the Internet.   
-• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: 
-
-Google Adsense   
-CPX Interactive 
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on drippic.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
-
-drippic.com has no access to or control over these cookies that are used by third-party advertisers. 
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. drippic.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. **Content on the website**
-
-You are the sole author and owner of all rights in and to the Content (including words, images, sounds, etc.), and you are fully empowered to grant us the rights to use the Content as provided below without the knowledge, consent or approval of any third party.   
-The content you see on the website are not hosted on our servers as they are all embedded images and if you find any images which is subject to copyright/infringing material or NSFW please report us at drippic.com[at]gmail.com, Thank you. 
+Users may opt out of using the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest-based advertising by visiting aboutads.info.)
