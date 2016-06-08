@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221224705id_/http%3A//www.ga.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608182712id_/http%3A//www.ga.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Geoscience Australia
 
 ## General
 
-This statement applies to user interactions with the [Geoscience Australia Website](https://web.archive.org/web/20151221224705id_/http%3A//www.ga.gov.au/?a=7503).
+This statement applies to user interactions with the [Geoscience Australia Website](https://web.archive.org/web/20160608182712id_/http%3A//www.ga.gov.au/?a=7503).
 
 ## Data Collection and Click-Stream Data
 
@@ -38,7 +38,7 @@ Any personal details submitted via the Geoscience Australia website will only be
 
 Information given during the course of online purchases and product orders may be used to determine your liability to Australian GST on the items purchased or ordered.
 
-If you have concerns about sending information over the web, please [contact us](https://web.archive.org/web/20151221224705id_/http%3A//www.ga.gov.au/?a=3448) for alternative methods of submitting information (mail, fax etc).
+If you have concerns about sending information over the web, please [contact us](https://web.archive.org/web/20160608182712id_/http%3A//www.ga.gov.au/?a=3448) for alternative methods of submitting information (mail, fax etc).
 
 ## User Feedback
 
@@ -71,4 +71,4 @@ Information you send us is stored behind our firewall.
 
 Any of your information, (apart from usage logs), that is on our server outside the firewall is always **encrypted** , and moved inside the firewall at the earliest opportunity.
 
-If you have concerns about sending information over the web, please [contact us](https://web.archive.org/web/20151221224705id_/http%3A//www.ga.gov.au/?a=3448) for alternative methods of submitting information (mail, fax etc).
+If you have concerns about sending information over the web, please [contact us](https://web.archive.org/web/20160608182712id_/http%3A//www.ga.gov.au/?a=3448) for alternative methods of submitting information (mail, fax etc).
