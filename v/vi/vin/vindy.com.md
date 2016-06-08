@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210052101id_/http%3A//www.vindy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608223455id_/http%3A//www.vindy.com/privacy) for the most accurate reproduction.*
 
-# Youngstown News, The Vindicator Web Site Privacy Policy
+# Youngstown news, The Vindicator Web Site Privacy Policy
 
 **Please read this entire notice.**   The purpose of our privacy policy is to inform you that we do collect certain kinds of information about your use of Vindy.com and Vindicator.com (for purposes of this Policy, these shall be called “the Sites”); what kinds of information we gather; how we may use that information; whether we disclose it to anyone; and the choices you have regarding our use of, and your ability to correct, the information.   The Vindicator Printing Company (referred to as “The Vindicator” in this policy) owns and operates the Sites.
 
