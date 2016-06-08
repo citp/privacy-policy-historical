@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prestonandsteve.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208141101id_/http%3A//wmmr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestonandsteve.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608181702id_/http%3A//wmmr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 93.3 WMMR
 
 ## Privacy Policy
 
-[](http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwmmr.com%2Fprivacy-policy%2F&title=Privacy+Policy) [](http://twitter.com/home?status=Privacy+Policy+http%3A%2F%2Fwmmr.com%2Fprivacy-policy%2F) [](https://plus.google.com/share?url=http%3A%2F%2Fwmmr.com%2Fprivacy-policy%2F)
+[](http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwmmr.com%2Fprivacy-policy%2F&title=Privacy+Policy+-+93.3+WMMR) [](http://twitter.com/home?status=Privacy+Policy+http%3A%2F%2Fwmmr.com%2Fprivacy-policy%2F) [](https://plus.google.com/share?url=http%3A%2F%2Fwmmr.com%2Fprivacy-policy%2F)
 
 This Privacy Policy was last updated on May 29, 2015 and is effective immediately. It applies to all Greater Media radio stations and related properties, including WMMR (Station).
 
