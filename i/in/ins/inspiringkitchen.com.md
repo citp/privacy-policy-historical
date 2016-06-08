@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the inspiringkitchen.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207223720id_/http%3A//inspiringkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiringkitchen.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608151158id_/http%3A//inspiringkitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # InspiringKitchen.com Privacy Policy - InspiringKitchen.com
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Finspiringkitchen.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 This privacy policy sets out how Inspiring Kitchen uses and protects any information that you give while using www.inspiringkitchen.com
 
