@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dialyou.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209130654id_/http%3A//www.dialyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialyou.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608091458id_/http%3A//www.dialyou.com/privacy-policy) for the most accurate reproduction.*
 
-# DialYou - Privacy Policy - dialyou.com
+# DialYou - Privacy Policy
 
 In the way of register for and availing various services we provides from time to time throughout our website which is www.dialyou.com ("Website", telephone & search) or any other standard in which Dial You may provides services (collectively referred to as "Media") you may be obligate to give your name, residence address, place of work address, email address, date of birth, educational experience and related Personal Information ("Personal Information").
 
