@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plurk.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202175632id_/http%3A//www.plurk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plurk.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608111821id_/http%3A//www.plurk.com/privacy) for the most accurate reproduction.*
 
-# Plurk Privacy Policy
+# Privacy Policy - Plurk
 
 #### What This Privacy Policy Covers
 
