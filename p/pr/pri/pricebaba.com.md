@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricebaba.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126033509id_/http%3A//pricebaba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricebaba.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608102607id_/http%3A//pricebaba.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | PriceBaba
+# Privacy | Pricebaba.com
 
 Greetings Dear Users of PriceBaba. This page is to enlighten you with our policies that are in place to do one and only one thing - respect your privacy. As users of this website, we assume that you agree to this policy and be well informed that PriceBaba will not participate in any activity that will misuse your personal information.
 
@@ -15,10 +15,3 @@ Just because we have your contact details does not mean we will or ever intend t
 In the future, if we feel there's something we need to inform you regarding privacy, we will update this page and hope you will take note of it.
 
 We love a clean Internet, an environment that inspires trust. We hate spam and we have no intentions to unethically sell your contact information stored with us.
-
-**Pricebaba Clear Android App**
-
-The PriceBaba Clear app checks your used mobile phone's condition in a few minutes!  
-There are permissions we ask upon installation. We ask these permissions to perform tests on your phone that help us evaluate your phone better. At any point, we do not collect and store any private, sensitive information like your contacts, photos or use things like your microphone for any purposes other performing the aforementioned tests. 
-
-For any questions regarding your privacy, you can write to us [here](http://pricebaba.com/feedback).
