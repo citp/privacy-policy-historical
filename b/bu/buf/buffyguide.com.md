@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffyguide.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208053603id_/http%3A//www.buffyguide.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffyguide.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608153221id_/http%3A//www.buffyguide.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - BuffyGuide.com
 
@@ -49,6 +49,12 @@ We use Gorilla Nation, DoubleClick and other third-party advertising companies t
 This website may utilize certain services provided by DoubleClick, Inc. (DoubleClick). For further information concerning DoubleClick's privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go to <http://www.doubleclick.com/us/about_doubleclick/privacy/>
 
 From time to time some of our advertising partners may prompt you to enter your email address or other personal information via an ad on this site. Please refer to their privacy policy for their specific use of this information.
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting aboutads.info.)
 
 **Third Party Cookies**
 
