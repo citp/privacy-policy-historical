@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inter-lumi.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206091257id_/http%3A//www.inter-lumi.com/m_page/23-Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inter-lumi.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608060535id_/http%3A//www.inter-lumi.com/m_page/23-Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
