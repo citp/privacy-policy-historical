@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebacklinkcreator.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021050144id_/http%3A//www.freebacklinkcreator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebacklinkcreator.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608073528id_/http%3A//www.freebacklinkcreator.com/privacy) for the most accurate reproduction.*
 
 # Privacy - www.freebacklinkcreator.com
 
@@ -32,4 +32,6 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 www.freebacklinkcreator.com has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.freebacklinkcreator.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.freebacklinkcreator.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
+
+Some personal information is gathered to allow you to make use of the freebacklinkcreator tool. This information is used to manage your access. By signing up you agree that you may be sent emails or provided by offers that may be of interest to you. Your email details will not be passed to third parties.
