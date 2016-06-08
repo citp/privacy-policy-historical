@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unittus.com privacy policy that was archived on 2014-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140116151718id_/https%3A//www.unittus.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unittus.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608145208id_/https%3A//www.unittus.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Unittus | The First People Search and Social Network in the World. Join Unittus.
 
@@ -97,7 +97,7 @@ Unittus, Inc. 7353 International Place, Unit 309, Sarasota, FL 34240
 
 Last Revision September 1, 2011
 
-International Copyright © 2011 - 2014 Unittus, Inc. All rights reserved.
+International Copyright © 2011 - 2015 Unittus, Inc. All rights reserved.
 
 UNITTUS is a registered mark in the U.S. Patent and Trademark Office
 
