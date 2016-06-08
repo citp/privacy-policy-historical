@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecornerstoneforteachers.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208103405id_/http%3A//thecornerstoneforteachers.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecornerstoneforteachers.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608223730id_/http%3A//thecornerstoneforteachers.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/Disclosure Info | The Cornerstone
 
@@ -21,12 +21,3 @@ If you have questions or concerns, please contact the webmaster, [Angela Watson]
 ### Amazon
 
 Angela Watson is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
-
-The following two tabs change content below.
-
-  * Bio
-  * Latest Posts
-
-
-
-Angela is a National Board Certified Teacher with 11 years of classroom experience. In 2009, she turned her passion for helping other teachers into a career as an educational consultant based in Brooklyn, NY. As founder of Due Season Press and Educational Services, she's created [4 books](http://thecornerstoneforteachers.com/books), [2 online courses](http://dueseason.usefedora.com/), [a blog](http://thecornerstoneforteachers.com/blog), [podcast](http://thecornerstoneforteachers.com/podcast), [curriculum resources](http://www.teacherspayteachers.com/Store/Angela-Watson), and conducts [seminars](http://thecornerstoneforteachers.com/about/consultations) in schools around the world. [Subscribe via email](http://eepurl.com/5xHWb) to get her best content and exclusive tips & tricks!
