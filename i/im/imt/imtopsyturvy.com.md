@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imtopsyturvy.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208061644id_/http%3A//ashleemarie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtopsyturvy.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608153100id_/http%3A//ashleemarie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ashlee Marie
 
-This privacy policy sets out how Topsy Turvy Cakes LLC uses and protects any information that you give while using www.ashleemarie.com
+This privacy policy sets out how Topsy Turvy [Cakes](http://ashleemarie.com/category/cakes/) LLC uses and protects any information that you give while using www.ashleemarie.com
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
 Topsy Turvy Cakes LLC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2/25/2015.
@@ -54,7 +54,7 @@ You may choose to restrict the collection or use of your personal information in
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+We will not sell, distribute or lease your personal information to third [parties](http://ashleemarie.com/category/parties/) unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 **Opt Out**
 
