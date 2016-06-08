@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the jewelry.com privacy policy that was archived on 2015-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209190445id_/http%3A//www.jewelry.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jewelry.com privacy policy that was archived on 2016-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608150804id_/http%3A//www.jewelry.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="wf-loading wf-loading"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script id="ltkSDK" src="http://cdn.listrakbi.com/scripts/script.js?m=ilvJRBKzlQiO&amp;v=1"></script><script async="" src="//s.btstatic.com/tag.js#site=owB3fEQ"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//use.typekit.net/kgp5stf.js" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwAAUlVXGwYFVFVSDgE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script id="ltkSDK" src="http://cdn.listrakbi.com/scripts/script.js?m=ilvJRBKzlQiO&amp;v=1"></script><script async="" src="//s.btstatic.com/tag.js#site=owB3fEQ"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//use.typekit.net/kgp5stf.js" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwAAUlVXGwYFVFVSDgE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
 <title>Privacy Policy</title>
 <meta name="description" content="Your Jewelry Store for Exceptional Designer Jewelry and Unique Collections at the Best Prices Online. Diamonds, Gemstones, Pearls and more from $39.">
 <meta name="keywords" content="Jewelry, Diamond, Sapphire, Emerald, Ruby, Tanzanite, Silver, Rings, Earrings, Necklaces">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://max2.jewelrystatic.com/media/favicon/default/favicon_2.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://max2.jewelrystatic.com/media/favicon/default/favicon_2.ico" type="image/x-icon">
+<link rel="icon" href="http://max1.jewelrystatic.com/media/favicon/default/favicon_2.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://max1.jewelrystatic.com/media/favicon/default/favicon_2.ico" type="image/x-icon">
 <script type="text/javascript" pagespeed_no_defer="">
     window._sf_startpt = (new Date()).getTime();
 </script>
@@ -31,8 +31,7 @@
         DY = {scsec : 8765734 ,API: function(){(DY.API.actions = DY.API.actions || []).push(arguments)}};
     </script>
     <script type="text/javascript" src="//cdn.dynamicyield.com/api/8765734/api_dynamic.js"></script>
-    <script type="text/javascript" src="//cdn.dynamicyield.com/api/8765734/api_static.js"></script><script type="text/javascript" src="//cdn.optimizely.com/js/91972916.js" pagespeed_no_defer=""></script>
-
+    <script type="text/javascript" src="//cdn.dynamicyield.com/api/8765734/api_static.js"></script>
 <script type="text/javascript" pagespeed_no_defer="">
   ;(function(d) {
     var config = {
@@ -66,7 +65,7 @@
         orderInformation:   '',
         justLoggedIn:       false,
         justSubscribed:     false,
-        customerSegments:   ["Email","Web Visitors"],
+        customerSegments:   ["Web Visitors"],
         sessionCoupon:      '',
         magicLevel:         '', // get info from coupon in session
         page:               {
@@ -75,10 +74,11 @@
         }
     };
 //]]>
-</script><link rel="stylesheet" type="text/css" href="http://www.jewelry.com/skin/frontend/enterprise/jewelry/css/min/pix.min.css?v=2.04" media="all">
-<script type="text/javascript" src="http://www.jewelry.com/js/min/prototype.min.js?v=2.04"></script>
-<script type="text/javascript" src="http://www.jewelry.com/js/min/top_scripts.min.js?v=2.04"></script>
-<script type="text/javascript" src="http://www.jewelry.com/skin/frontend/enterprise/jewelry/js/enterprise/wishlist.js?v=2.04"></script>
+</script><link rel="stylesheet" type="text/css" href="http://www.jewelry.com/skin/frontend/enterprise/jewelry/css/min/pix.min.css?v=2.11" media="all">
+<script type="text/javascript" src="http://www.jewelry.com/js/min/prototype.min.js?v=2.11"></script>
+<script type="text/javascript" src="http://www.jewelry.com/js/somethingdigital/ajaxcoupon.js?v=2.11"></script>
+<script type="text/javascript" src="http://www.jewelry.com/js/min/top_scripts.min.js?v=2.11"></script>
+<script type="text/javascript" src="http://www.jewelry.com/skin/frontend/enterprise/jewelry/js/enterprise/wishlist.js?v=2.11"></script>
 <link rel="canonical" href="http://www.jewelry.com/privacy-policy">
 <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
 <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
@@ -129,7 +129,7 @@ Mage.Cookies.domain   = '.jewelry.com';
         orderInformation:   '',
         justLoggedIn:       false,
         justSubscribed:     false,
-        customerSegments:   ["Email","Web Visitors"],
+        customerSegments:   ["Web Visitors"],
         sessionCoupon:      '',
         magicLevel:         '', // get info from coupon in session
         page:               {
@@ -161,8 +161,6 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 		'siteSpeedSampleRate':10,
 		'cookieDomain':'jewelry.com'
 	});
-
-	window.optimizely=window.optimizely||[];window.optimizely.push(['activateUniversalAnalytics']);
 
 	ga('require','displayfeatures');
 
@@ -295,7 +293,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 		<a class="login-modal-link" data-select="popupcs-login" href="#login-modal-window">Log in</a>	</li>
 	<li>
 		<a class="login-modal-link red-txt" data-select="popupcs-register" href="#login-modal-window">Sign Up</a>	</li>
-</ul>                <!--2015-12-09-->
+</ul>                <!--2016-06-08-->
 <nav class="nav-container" id="nav-area">
     <div class="nav-wrapper">
     <a href="#" class="nav-close-icon"></a>
@@ -312,42 +310,51 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                         <ul class="top-menu-section-content">
                                                                                                                             <li><ul class="designer-links">
                                                                 <li class="mob-level-2"><a href="http://www.jewelry.com/designers/van-kempen/" onmouseover="changeFeaturedProduct('designer', 185);">Van Kempen</a></li>
+                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/designers/marie-claire/" onmouseover="changeFeaturedProduct('designer', 845);">Marie Claire</a></li>
                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/designers/carolyn-pollack/" onmouseover="changeFeaturedProduct('designer', 8);">Carolyn Pollack</a></li>
                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/designers/kabana/" onmouseover="changeFeaturedProduct('designer', 184);">Kabana</a></li>
                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/designers/honora/" onmouseover="changeFeaturedProduct('designer', 188);">Honora</a></li>
                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/designers/chrysalis/" onmouseover="changeFeaturedProduct('designer', 756);">Chrysalis</a></li>
-                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/designers/sajen/" onmouseover="changeFeaturedProduct('designer', 178);">Sajen</a></li>
                                                                                                                                     </ul></li>
                                                                                                                                 <li><ul class="designer-links">
-                                                                <li class="mob-level-2"><a href="http://www.jewelry.com/designers/american-west/" onmouseover="changeFeaturedProduct('designer', 192);">American West</a></li>
+                                                                <li class="mob-level-2"><a href="http://www.jewelry.com/designers/sajen/" onmouseover="changeFeaturedProduct('designer', 178);">Sajen</a></li>
+                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/designers/american-west/" onmouseover="changeFeaturedProduct('designer', 192);">American West</a></li>
                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/designers/cristina-sabatini/" onmouseover="changeFeaturedProduct('designer', 217);">Cristina Sabatini</a></li>
                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/designers/zoccai-925/" onmouseover="changeFeaturedProduct('designer', 190);">Zoccai 925</a></li>
                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/designers/charles-garnier/" onmouseover="changeFeaturedProduct('designer', 9);">Charles Garnier</a></li>
                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/designers/elle/" onmouseover="changeFeaturedProduct('designer', 181);">Elle</a></li>
-                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/designers/just-cavalli/" onmouseover="changeFeaturedProduct('designer', 278);">Just Cavalli</a></li>
                                                                                                                                     </ul></li>
                                                                                                                                 <li><ul class="designer-links">
-                                                                <li class="mob-level-2"><a href="http://www.jewelry.com/designers/jessica-simpson/" onmouseover="changeFeaturedProduct('designer', 176);">Jessica Simpson</a></li>
+                                                                <li class="mob-level-2"><a href="http://www.jewelry.com/designers/just-cavalli/" onmouseover="changeFeaturedProduct('designer', 278);">Just Cavalli</a></li>
+                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/designers/jessica-simpson/" onmouseover="changeFeaturedProduct('designer', 176);">Jessica Simpson</a></li>
                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/designers/aya-azrielant/" onmouseover="changeFeaturedProduct('designer', 7);">Aya Azrielant</a></li>
                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/designers/guy-laroche/" onmouseover="changeFeaturedProduct('designer', 448);">Guy Laroche</a></li>
-                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/designers/gold-sisters/" onmouseover="changeFeaturedProduct('designer', 695);">Gold Sisters</a></li>
                                                                                                     <li class="mob-level-2"><a href="http://www.jewelry.com/designers/" class="menu-viewall-btn">view all</a></li>
                                                                                                     </ul></li>
                                                                                     </ul>                     </div>                                             <div class="designer-ajax-image-wrapper designer designer-185">
                             <div class="menu-image">
-<img src="http://max2.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-11-20_VanKempen_NavTeaser.jpg" class="retina" alt="Van Kempen Art Nouveau Pearl Flower Earrings In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max2.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Designers_NavTeasers/2016-03-11_VanKempen_NavTeaser.jpg" class="" alt="Van Kempen Art Nouveau Bouquet Necklace In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Van Kempen</span>
 
 <span class="designer-ajax-quality">Whimsical.<br>Vintage. Classic.</span>
 
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>49</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-8">
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>49</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-845">
                             <div class="menu-image">
-<img src="http://max2.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-02-24_CarolynPollack_NavTeaser.jpg" class="retina" alt="Carolyn Pollack Filigree Cross Pendant In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Designers_NavTeasers/2016-02-02_MarieClaire_NavTeaser.jpg" class="" alt="Marie Claire Concave Flower Pendant With Swarovski Crystals In Alloy" pagespeed_no_transform="">
 </div>
 
-<span class="designer-ajax-product ">Carolyn Pollack</span>
+<span class="designer-ajax-product">Marie Claire</span>
+
+<span class="designer-ajax-quality">Chic. Sophisticated.<br>Contemporary.</span>
+
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-8">
+                            <div class="menu-image">
+<img src="http://max2.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Designers_NavTeasers/2016-04-04_CarolynPollack_NavTeaser.jpg" class="" alt="Carolyn Pollack Labradorite Cuff Bracelet In Sterling Silver" pagespeed_no_transform="">
+</div>
+
+<span class="designer-ajax-product">Carolyn Pollack</span>
 
 <span class="designer-ajax-quality">Colorful. Genuine.<br>Made In America.</span>
 
@@ -360,7 +367,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <span class="designer-ajax-quality">Delightfully<br>Feminine.</span>
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>39</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-188">
                             <div class="menu-image">
-<img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-11-06_Honora_NavTeaser.jpg" class="retina" alt="Honora Morning Dew Pearl Toggle Station Necklace In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-11-06_Honora_NavTeaser.jpg" class="retina" alt="Honora Morning Dew Pearl Toggle Station Necklace In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Honora</span>
@@ -369,7 +376,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>40</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-756">
                             <div class="menu-image">
-<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-11-25_Chrysalis_NavTeaser.jpg" class="" alt="Chrysalis Bangle Bracelet With Emerald Swarovski Crystals In Brass" pagespeed_no_transform="">
+<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Designers_NavTeasers/2016-04-04_Chrysalis_NavTeaser.jpg" class="" alt="Chrysalis Bangle Bracelet With Diamond Swarovski Crystals In Brass" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Chrysalis</span>
@@ -378,7 +385,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-178">
                             <div class="menu-image">
-<img src="http://max2.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-12-04_Sajen_NavTeaser.jpg" class="" alt="Sajen Carved Cinnabar And Garnet Necklace In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max2.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Designers_NavTeasers/2016-01-08_Sajen_NavTeaser.jpg" class="" alt="Sajen Turquoise And Blue Topaz Knuckle Ring In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Sajen</span>
@@ -387,7 +394,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-192">
                             <div class="menu-image">
-<img src="http://max2.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-10-02_AmericanWest_NavTeaser.jpg" class="retina" alt="American West Mother-of-Pearl Pendant In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Designers_NavTeasers/2016-02-24_AmericanWest_NavTeaser.jpg" class="" alt="American West Lapis Pendant With Swirl Detail In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">American West</span>
@@ -405,7 +412,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>169</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-190">
                             <div class="menu-image">
-<img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-10-30_Zoccai_NavTeaser.jpg" class="retina" alt="Zoccai 925 Pink Coral Rose Hoop Earrings In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max2.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-10-30_Zoccai_NavTeaser.jpg" class="retina" alt="Zoccai 925 Pink Coral Rose Hoop Earrings In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Zoccai 925</span>
@@ -414,16 +421,16 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>90</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-9">
                             <div class="menu-image">
-<img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-02-24_CharlesGarnier_NavTeaser.jpg" class="retina" alt="Charles Garnier Beveled Twist Hoop Earrings In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max2.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Designers_NavTeasers/2016-04-04_CharlesGarnier_NavTeaser.jpg" class="" alt="Charles Garnier Pebble Drop Earrings In Sterling Silver" pagespeed_no_transform="">
 </div>
 
-<span class="designer-ajax-product ">Charles Garnier</span>
+<span class="designer-ajax-product">Charles Garnier</span>
 
 <span class="designer-ajax-quality">Contemporary<br>Classics.</span>
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>60</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-181">
                             <div class="menu-image">
-<img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-02-24_Elle_NavTeaser.jpg" class="retina" alt="Elle Mother-Of-Pearl Pendant In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-02-24_Elle_NavTeaser.jpg" class="retina" alt="Elle Mother-Of-Pearl Pendant In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product ">Elle</span>
@@ -432,69 +439,60 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>50</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-278">
                             <div class="menu-image">
-<img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-02-24_JustCavalli_NavTeaser.jpg" class="retina" alt="Just Cavalli Snake Pendant In Stainless Steel" pagespeed_no_transform="">
+<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Designers_NavTeasers/2016-04-04_JustCavalli_NavTeaser.jpg" class="" alt="Just Cavalli Pink Leopard Print Pendant In Stainless Steel" pagespeed_no_transform="">
 </div>
 
-<span class="designer-ajax-product ">Just Cavalli</span>
+<span class="designer-ajax-product">Just Cavalli</span>
 
 <span class="designer-ajax-quality">Fierce &amp;<br>Fashionista-Friendly.</span>
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>79</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-176">
                             <div class="menu-image">
-<img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-02-24_JessicaSimpson_NavTeaser.jpg" class="retina" alt="Jessica Simpson Diamond Heart Pendant In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Designers_NavTeasers/2016-04-04_JessicaSimpson_NavTeaser.jpg" class="" alt="Jessica Simpson Diamond Cross Pendant In 10K Gold" pagespeed_no_transform="">
 </div>
 
-<span class="designer-ajax-product ">Jessica Simpson</span>
+<span class="designer-ajax-product">Jessica Simpson</span>
 
 <span class="designer-ajax-quality">Diamonds Are A<br>Girl’s Best Friend.</span>
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>79</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-7">
                             <div class="menu-image">
-<img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-02-24_AyaAzrielant_NavTeaser.jpg" class="retina" alt="Aya Azrielant Crystal Earrings with Swarovski Crystal In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Designers_NavTeasers/2016-04-04_AyaAzrielant_NavTeaser.jpg" class="" alt="Aya Azrielant Swiss Blue Topaz Ring In Silver And Gold" pagespeed_no_transform="">
 </div>
 
-<span class="designer-ajax-product ">Aya Azrielant</span>
+<span class="designer-ajax-product">Aya Azrielant</span>
 
 <span class="designer-ajax-quality">Artistic. Elegant.<br>Contemporary.</span>
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>69</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-448">
                             <div class="menu-image">
-<img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-10-09_GuyLaroche_NavTeaser.jpg" class="retina" alt="Guy Laroche Tile Pendant With Cubic Zirconia In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-10-09_GuyLaroche_NavTeaser.jpg" class="retina" alt="Guy Laroche Tile Pendant With Cubic Zirconia In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Guy Laroche</span>
 
 <span class="designer-ajax-quality">Refined<br>Elegance.</span>
 
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>110</span>                                                            </div>                                                     <div class="designer-ajax-image-wrapper designer designer-695">
-                            <div class="menu-image">
-<img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Designers_NavTeasers/2015-02-26_GoldSisters_NavTeaser.jpg" class="retina" alt="Gold Sisters Dark Red Link Bracelet with Swarovski Zirconia" pagespeed_no_transform="">
-</div>
-
-<span class="designer-ajax-product ">Gold Sisters</span>
-
-<span class="designer-ajax-quality">Vibrant Italian<br>Designs.</span>
-
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>69</span>                                                            </div>                                                     </div> 
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>110</span>                                                            </div>                                                     </div> 
                                                     <div class="bottom-menu-section designer-bottom-menu-section">
                             <ul class="bottom-menu-section-content">
                             <li><span class="designer-menu-title">Featured</span><span class="designer-menu-desc">Designers</span></li>
                                                                                             <li class="check">
                                     <a href="http://www.jewelry.com/designers/van-kempen/">
-                                        <img src="http://max1.jewelrystatic.com/media/retina/catalog/category/2015-11-20_VanKempen_NavFeature.jpg" alt="Van Kempen" class="retina">
+                                        <img src="http://max2.jewelrystatic.com/media/retina/catalog/category/2016-03-11_VanKempen_NavFeature.jpg" alt="Van Kempen" class="retina">
                                         <span>Van Kempen</span>
                                     </a>
                                 </li>
                                                                                             <li class="check">
-                                    <a href="http://www.jewelry.com/designers/carolyn-pollack/">
-                                        <img src="http://max3.jewelrystatic.com/media/retina/catalog/category/2015-02-24_CarolynPollack_NavFeature_Designers.jpg" alt="Carolyn Pollack" class="retina">
-                                        <span>Carolyn Pollack</span>
+                                    <a href="http://www.jewelry.com/designers/marie-claire/">
+                                        <img src="http://max1.jewelrystatic.com/media/retina/catalog/category/2016-02-02_MarieClaire_NavFeature.jpg" alt="Marie Claire" class="retina">
+                                        <span>Marie Claire</span>
                                     </a>
                                 </li>
                                                                                             <li class="check">
-                                    <a href="http://www.jewelry.com/designers/kabana/">
-                                        <img src="http://max2.jewelrystatic.com/media/retina/catalog/category/2015-09-17_Kabana_NavFeature_Designers.jpg" alt="Kabana" class="retina">
-                                        <span>Kabana</span>
+                                    <a href="http://www.jewelry.com/designers/carolyn-pollack/">
+                                        <img src="http://max1.jewelrystatic.com/media/retina/catalog/category/2016-04-04_CarolynPollack_NavFeature_Designers.jpg" alt="Carolyn Pollack" class="retina">
+                                        <span>Carolyn Pollack</span>
                                     </a>
                                 </li>
                                                         </ul>                            </div>                                            </div>                     <a class="mob-more" href="#">More...</a>
@@ -510,12 +508,12 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                                 <span class="designer-wrapper-title">Collections</span>
                                 <ul class="top-menu-section-content">
                                                                                                                                                             <li><ul class="designer-links">
-                                                                                <li class="mob-level-2"><a href="http://www.jewelry.com/collections/five-star-collection/" onmouseover="changeFeaturedProduct('collection', 813);">Five Star Collection</a></li>
+                                                                                <li class="mob-level-2"><a href="http://www.jewelry.com/collections/real-gold/" onmouseover="changeFeaturedProduct('collection', 229);">Real Gold</a></li>
+                                                                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/collections/five-star-collection/" onmouseover="changeFeaturedProduct('collection', 813);">Five Star Collection</a></li>
                                                                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/collections/crystaluxe-with-swarovski-crystals-1/" onmouseover="changeFeaturedProduct('collection', 222);">Crystaluxe™ With Swarovski® Crystals</a></li>
-                                                                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/collections/real-gold/" onmouseover="changeFeaturedProduct('collection', 229);">Real Gold</a></li>
-                                                                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/collections/pearls-of-wisdom/" onmouseover="changeFeaturedProduct('collection', 230);">Pearls Of Wisdom</a></li>
                                                                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/collections/black-white/" onmouseover="changeFeaturedProduct('collection', 220);">Black &amp; White</a></li>
                                                                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/collections/birthstones/" onmouseover="changeFeaturedProduct('collection', 219);">Birthstones</a></li>
+                                                                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/collections/from-the-heart/" onmouseover="changeFeaturedProduct('collection', 861);">From The Heart</a></li>
                                                                                                                                                                     </ul></li>
                                                                                                                                                                 <li><ul class="designer-links">
                                                                                 <li class="mob-level-2"><a href="http://www.jewelry.com/collections/very-vintage/" onmouseover="changeFeaturedProduct('collection', 237);">Very Vintage</a></li>
@@ -526,13 +524,21 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                                                                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/collections/cocktail-hour/" onmouseover="changeFeaturedProduct('collection', 223);">Cocktail Hour</a></li>
                                                                                                                                                                     </ul></li>
                                                                                                                                                                 <li><ul class="designer-links">
-                                                                                <li class="mob-level-2"><a href="http://www.jewelry.com/collections/wild-styles/" onmouseover="changeFeaturedProduct('collection', 234);">Wild Styles</a></li>
+                                                                                <li class="mob-level-2"><a href="http://www.jewelry.com/collections/xpy/" onmouseover="changeFeaturedProduct('collection', 863);">XPY</a></li>
                                                                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/collections/silver-linings/" onmouseover="changeFeaturedProduct('collection', 793);">Silver Linings</a></li>
-                                                                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/collections/winter-wonders/" onmouseover="changeFeaturedProduct('collection', 851);">Winter Wonders</a></li>
-                                                                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/collections/manhattan-collection/" onmouseover="changeFeaturedProduct('collection', 233);">Manhattan Collection</a></li>
+                                                                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/collections/spring-jewelry/" onmouseover="changeFeaturedProduct('collection', 721);">Spring Jewelry</a></li>
                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/collections/" class="menu-viewall-btn">view all</a></li>
                                                                                                                             </ul></li>
-                                                                                                            </ul>                             </div>                                                             <div class="designer-ajax-image-wrapper collection collection-813">
+                                                                                                            </ul>                             </div>                                                             <div class="designer-ajax-image-wrapper collection collection-229">
+                                    <div class="menu-image">
+<img src="http://max2.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Collections_NavTeasers/2016-03-25_RealGold_NavTeaser.jpg" class="" alt="Just Gold Filigree Butterfly Pendant In 14K Gold" pagespeed_no_transform="">
+</div>
+
+<span class="designer-ajax-product">Just Gold</span>
+
+<span class="designer-ajax-quality">Experience<br>The Luxury.</span>
+
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-813">
                                     <div class="menu-image">
 <img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-08-18_FiveStar_NavTeaser.jpg" class="retina" alt="Multi-Stone Flower Bracelet In 14K Gold" pagespeed_no_transform="">
 </div>
@@ -543,34 +549,16 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>99</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-222">
                                     <div class="menu-image">
-<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-11-25_Crystaluxe_NavTeaser.jpg" class="" alt="Crystaluxe Bird Pendant With Amethyst Swarovski Crystals In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Collections_NavTeasers/2016-04-04_Crystaluxe_NavTeaser.jpg" class="" alt="Crystaluxe Bluebird Necklace With Swarovski Crystals In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Crystaluxe<sup style="font-size:130%; position:relative; top:0.42em;">™</sup> With Swarovski<sup style="font-size:130%; position:relative; top:0.42em;">®</sup> Crystals</span>
 
 <span class="designer-ajax-quality">The Ultimate<br>In Crystal Luxury.</span>
 
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>19</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-229">
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>19</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-220">
                                     <div class="menu-image">
-<img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-10-02_RealGold_NavTeaser.jpg" class="retina" alt="Interlocking Circle Drop Pendant In 10K Gold" pagespeed_no_transform="">
-</div>
-
-<span class="designer-ajax-product">Real Gold</span>
-
-<span class="designer-ajax-quality">Experience<br>The Luxury.</span>
-
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-230">
-                                    <div class="menu-image">
-<img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-10-05_PearlsOfWisdom_NavTeaser.jpg" class="retina" alt="Pearl Drop Pendant with Swarovski Crystals In Sterling Silver" pagespeed_no_transform="">
-</div>
-
-<span class="designer-ajax-product">Pearls Of Wisdom</span>
-
-<span class="designer-ajax-quality">Classic. Elegant.<br>Timeless.</span>
-
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-220">
-                                    <div class="menu-image">
-<img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-10-05_BW_NavTeaser.jpg" class="retina" alt="Black And White Diamond Ring In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Collections_NavTeasers/2016-02-19_BW_NavTeaser.jpg" class="" alt="Ring With Black And White Swarovski Zirconia In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Black &amp; White</span>
@@ -579,16 +567,25 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-219">
                                     <div class="menu-image">
-<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Collections_NavTeasers/2014-11-30_Birthstones_NavTeaser.jpg" class="" alt="Sky Blue And White Topaz Ring In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Collections_NavTeasers/2016-06-01_Birthstones_NavTeaser.jpg" class="" alt="Butterfly Pearl Drop Earrings With Diamonds In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Birthstones</span>
 
-<span class="designer-ajax-quality">Sparkle In<br>December’s<br>Birthstone.</span>
+<span class="designer-ajax-quality">Sparkle In<br>June’s<br>Birthstone.</span>
 
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>19</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-237">
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>19</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-861">
                                     <div class="menu-image">
-<img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-10-06_VeryVintage_NavTeaser.jpg" class="retina" alt="Diamond Flower Medallion Necklace In Silver And Gold" pagespeed_no_transform="">
+<img src="http://max2.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Collections_NavTeasers/2016-04-11_FromTheHeart_NavTeaser.jpg" class="" alt="Ruby Heart Pendant With Diamonds In Sterling Silver" pagespeed_no_transform="">
+</div>
+
+<span class="designer-ajax-product">From The Heart</span>
+
+<span class="designer-ajax-quality">100 Ways To Say<br>‘I Love You.’</span>
+
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>17</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-237">
+                                    <div class="menu-image">
+<img src="http://max2.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Collections_NavTeasers/2016-01-08_VeryVintage_NavTeaser.jpg" class="" alt="Diamond Filigree Fan Pendant Necklace In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Very Vintage</span>
@@ -597,7 +594,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-784">
                                     <div class="menu-image">
-<img src="http://max2.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-10-06_RoseGold_NavTeaser.jpg" class="retina" alt="Sunburst Cuff Bracelet In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Collections_NavTeasers/2016-02-26_RoseGold_NavTeaser.jpg" class="" alt="Morganite And White Topaz Ring In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Pretty In Pink</span>
@@ -615,7 +612,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>19</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-226">
                                     <div class="menu-image">
-<img src="http://max2.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-10-05_ShadesOfDiamond_NavTeaser.jpg" class="retina" alt="Blue Diamond Heart Pendant In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-10-05_ShadesOfDiamond_NavTeaser.jpg" class="retina" alt="Blue Diamond Heart Pendant In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Shades Of Diamond</span>
@@ -624,7 +621,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-224">
                                     <div class="menu-image">
-<img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-10-05_Kids_NavTeaser.jpg" class="retina" alt="Disney Minnie Mouse Pendant with Crystal In Brass" pagespeed_no_transform="">
+<img src="http://max2.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-10-05_Kids_NavTeaser.jpg" class="retina" alt="Disney Minnie Mouse Pendant with Crystal In Brass" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Kids’ Jewelry</span>
@@ -633,69 +630,60 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-223">
                                     <div class="menu-image">
-<img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-10-29_CocktailHour_NavTeaser.jpg" class="retina" alt="Multi-Stone Ring With Diamonds In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Collections_NavTeasers/2016-02-12_CocktailHour_NavTeaser.jpg" class="" alt="Ceylon And White Sapphire Ring In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Cocktail Hour</span>
 
 <span class="designer-ajax-quality">Cocktail Rings<br>For Every Finger.</span>
 
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-234">
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-863">
                                     <div class="menu-image">
-<img src="http://max2.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-09-25_WildStyles_NavTeaser.jpg" class="retina" alt="Crystaluxe Owl Ring With Swarovski Crystals In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Collections_NavTeasers/2016-05-09_XPY_NavTeaser.jpg" class="" alt="Penguin Trio Necklace With Diamonds In Silver" pagespeed_no_transform="">
 </div>
 
-<span class="designer-ajax-product ">Wild Styles</span>
+<span class="designer-ajax-product">XPY</span>
 
-<span class="designer-ajax-quality">Express Yourself<br>With Animal Favorites.</span>
+<span class="designer-ajax-quality">Express Yourself.<br>Jewelry that shows<br>the world the real you.</span>
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-793">
                                     <div class="menu-image">
-<img src="http://max2.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-10-05_SilverLinings_NavTeaser.jpg" class="retina" alt="Textured Disc Drop Earrings In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-10-05_SilverLinings_NavTeaser.jpg" class="retina" alt="Textured Disc Drop Earrings In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Silver Linings</span>
 
 <span class="designer-ajax-quality">Sleek,<br>Geometric Designs.</span>
 
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>24</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-851">
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>24</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-721">
                                     <div class="menu-image">
-<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-12-03_WinterWonders_NavTeaser.jpg" class="" alt="Snowman Charm With Diamonds In Silver And Gold" pagespeed_no_transform="">
+<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Collections_NavTeasers/2016-03-28_SpringStyle_NavTeaser.jpg" class="" alt="Blue And White Sapphire Flower Ring In 10K Gold" pagespeed_no_transform="">
 </div>
 
-<span class="designer-ajax-product">Winter Wonderland</span>
+<span class="designer-ajax-product">Spring Jewelry</span>
 
-<span class="designer-ajax-quality">Holiday<br>Favorites.</span>
+<span class="designer-ajax-quality">Butterflies, Blooms<br>And Botanicals.</span>
 
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>19</span>                                                                    </div>                                                             <div class="designer-ajax-image-wrapper collection collection-233">
-                                    <div class="menu-image">
-<img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Collections_NavTeasers/2015-10-06_ManhattanCollection_NavTeaser.jpg" class="retina" alt="Statue of Liberty Charm In 14K Gold" pagespeed_no_transform="">
-</div>
-
-<span class="designer-ajax-product">The Manhattan Collection</span>
-
-<span class="designer-ajax-quality">Jewelry Inspired By<br>‘The Big Apple.’</span>
-
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                                    </div>                                                     </div> 
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>19</span>                                                                    </div>                                                     </div> 
                                                     <div class="bottom-menu-section designer-bottom-menu-section">
                             <ul class="bottom-menu-section-content">
                             <li><span class="designer-menu-title">Featured</span><span class="designer-menu-desc">Collections</span></li>
                                                                                             <li class="check">
+                                    <a href="http://www.jewelry.com/collections/real-gold/">
+                                        <img src="http://max1.jewelrystatic.com/media/retina/catalog/category/2016-03-25_RealGold_NavFeature_1.jpg" alt="Real Gold" class="retina">
+                                        <span>Real Gold</span>
+                                    </a>
+                                </li>
+                                                                                            <li class="check">
                                     <a href="http://www.jewelry.com/collections/five-star-collection/">
-                                        <img src="http://max1.jewelrystatic.com/media/retina/catalog/category/2015-08-18_FiveStar_NavFeature.jpg" alt="Five Star Collection" class="retina">
+                                        <img src="http://max3.jewelrystatic.com/media/retina/catalog/category/2015-08-18_FiveStar_NavFeature.jpg" alt="Five Star Collection" class="retina">
                                         <span>Five Star Collection</span>
                                     </a>
                                 </li>
                                                                                             <li class="check">
                                     <a href="http://www.jewelry.com/collections/crystaluxe-with-swarovski-crystals-1/">
-                                        <img src="http://max3.jewelrystatic.com/media/retina/catalog/category/2015-11-25_Crystaluxe_NavFeature.jpg" alt="Crystaluxe™ With Swarovski® Crystals" class="retina">
+                                        <img src="http://max1.jewelrystatic.com/media/retina/catalog/category/2016-04-04_Crystaluxe_NavFeature.jpg" alt="Crystaluxe™ With Swarovski® Crystals" class="retina">
                                         <span>Crystaluxe™ With Swarovski® Crystals</span>
-                                    </a>
-                                </li>
-                                                                                            <li class="check">
-                                    <a href="http://www.jewelry.com/collections/real-gold/">
-                                        <img src="http://max1.jewelrystatic.com/media/retina/catalog/category/2015-10-02_RealGold_NavFeature.jpg" alt="Real Gold" class="retina">
-                                        <span>Real Gold</span>
                                     </a>
                                 </li>
                                                         </ul>                            </div>                                            </div>                     <a class="mob-more" href="#">More...</a>
@@ -777,6 +765,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                                                                                                     <li class="jw-links"><a href="http://www.jewelry.com/shop/mens/money-clips/">Money Clips</a></li>
                                                                                                     <li class="jw-links"><a href="http://www.jewelry.com/shop/mens/rings/">Rings</a></li>
                                                                                                     <li class="jw-links"><a href="http://www.jewelry.com/shop/mens/bracelets/">Bracelets</a></li>
+                                                                                                    <li class="jw-links"><a href="http://www.jewelry.com/shop/mens/necklaces/">Necklaces</a></li>
                                                                                             </ul>                                         </li>                                     </ul>                                 </li>                                                                                                                                                             <li>
                                     <ul class="jw-row-level">
                                         <li>
@@ -808,42 +797,51 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                                 <span class="designer-wrapper-title">Deals</span>
                                 <ul class="top-menu-section-content">
                                                                                                                                                             <li><ul class="designer-links">
-                                                                                <li class="mob-level-2"><a href="http://www.jewelry.com/deals/deal-of-the-day/" onmouseover="changeFeaturedProduct('deal', 213);">Deal Of The Day</a></li>
+                                                                                <li class="mob-level-2"><a href="http://www.jewelry.com/deals/fathers-day-jewelry/" onmouseover="changeFeaturedProduct('deal', 764);">Father's Day Jewelry</a></li>
+                                                                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/deals/deal-of-the-day/" onmouseover="changeFeaturedProduct('deal', 213);">Deal Of The Day</a></li>
                                                                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/deals/new-arrivals/" onmouseover="changeFeaturedProduct('deal', 714);">New Arrivals</a></li>
                                                                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/deals/doorbuster-deals/" onmouseover="changeFeaturedProduct('deal', 196);">Doorbuster Deals</a></li>
                                                                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/deals/clearance/" onmouseover="changeFeaturedProduct('deal', 28);">Clearance</a></li>
                                                                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/deals/premier-picks/" onmouseover="changeFeaturedProduct('deal', 285);">Premier Picks</a></li>
-                                                                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/deals/deal-of-the-week/" onmouseover="changeFeaturedProduct('deal', 214);">Weekly Deal</a></li>
                                                                                                                                                                     </ul></li>
                                                                                                                                                                 <li><ul class="designer-links">
-                                                                                <li class="mob-level-2"><a href="http://www.jewelry.com/deals/99-sale/" onmouseover="changeFeaturedProduct('deal', 283);">$99 Sale</a></li>
+                                                                                <li class="mob-level-2"><a href="http://www.jewelry.com/deals/deal-of-the-week/" onmouseover="changeFeaturedProduct('deal', 214);">Weekly Deal</a></li>
+                                                                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/deals/99-sale/" onmouseover="changeFeaturedProduct('deal', 283);">$99 Sale</a></li>
                                                                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/deals/birthstones/" onmouseover="changeFeaturedProduct('deal', 284);">Birthstones</a></li>
                                                                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/deals/100-deals-under-100/" onmouseover="changeFeaturedProduct('deal', 286);">Deals Under $100</a></li>
                                                                                                                                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/deals/29-sale/" onmouseover="changeFeaturedProduct('deal', 287);">$29 Sale</a></li>
-                                                                                                                                                                                                                                            <li class="mob-level-2"><a href="http://www.jewelry.com/deals/disney-deals/" onmouseover="changeFeaturedProduct('deal', 707);">Disney Deals</a></li>
                                                                                                                             <li class="mob-level-2"><a href="http://www.jewelry.com/deals/" class="menu-viewall-btn">view all</a></li>
                                                                                                                             </ul></li>
-                                                                                                            </ul>                             </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-213" id="deal-213">
+                                                                                                            </ul>                             </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-764" id="deal-764">
                                     <div class="menu-image">
-<img src="http://max2.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2015-12-09_DailyDeal_NavTeaser.jpg" class="" alt="Miracle Pendant With Diamonds In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2016-06-07_FathersDay_NavTeaser.jpg" class="" alt="Dad Flip Ring With Diamonds In Sterling Silver" pagespeed_no_transform="">
+</div>
+
+<span class="designer-ajax-product">Father’s Day Jewelry</span>
+
+<span class="designer-ajax-quality">Bling<br>For Dad!</span>
+
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>19</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-213" id="deal-213">
+                                    <div class="menu-image">
+<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2016-06-08_DailyDeal_NavTeaser.jpg" class="" alt="Crystaluxe Flower Drop Earrings With Swarovski Crystal In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Deal Of The Day</span>
 
 <span class="designer-ajax-quality">One Amazing Deal.<br>One Day Only!</span>
 
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>24</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-714" id="deal-714">
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>19</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-714" id="deal-714">
                                     <div class="menu-image">
-<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2015-12-07_NewArrivals_NavTeaser.jpg" class="" alt="Ring With Green Swarovski Zirconia In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2016-06-01_NewArrivals_NavTeaser.jpg" class="" alt="Blue Opal And White Topaz Ring In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">New Arrivals</span>
 
-<span class="designer-ajax-quality">Just In For<br>The Holidays!</span>
+<span class="designer-ajax-quality">Get Them While<br>They’re Hot!</span>
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>19</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-196" id="deal-196">
                                     <div class="menu-image">
-<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2015-12-04_Doorbusters_NavTeaser.jpg" class="" alt="Diamond Loop Pendant In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2016-06-02_Doorbusters_NavTeaser.jpg" class="" alt="Amethyst Bangle With Diamonds In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Doorbusters</span>
@@ -852,34 +850,34 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>19</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-28" id="deal-28">
                                     <div class="menu-image">
-<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2015-11-30_Clearance_NavTeaser.jpg" class="" alt="Diamond Heart Pendant In 10K Gold" pagespeed_no_transform="">
+<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2016-06-02_Clearance_NavTeaser.jpg" class="" alt="Black And Champagne Diamond Dragon Pendant In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Clearance</span>
 
 <span class="designer-ajax-quality">New Styles<br>Added!</span>
 
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>33</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-285" id="deal-285">
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>20</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-285" id="deal-285">
                                     <div class="menu-image">
-<img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Deals_NavTeasers/2015-10-13_PremierDeals_NavTeaser.jpg" class="retina" alt="Vintage Diamond Band Ring In 14K Gold" pagespeed_no_transform="">
+<img src="http://max2.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2016-03-11_PremierDeals_NavTeaser.jpg" class="" alt="Diamond Halo Bridal Set In 14K Gold" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Premier Picks</span>
 
 <span class="designer-ajax-quality">Classic Style.<br>Incredible Prices.</span>
 
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>129</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-214" id="deal-214">
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>89</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-214" id="deal-214">
                                     <div class="menu-image">
-<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2015-12-07_WeeklyDeal_NavTeaser.jpg" class="" alt="Swiss Blue Topaz Pendant With Diamond In 10K Gold" pagespeed_no_transform="">
+<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2016-06-06_WeeklyDeal_NavTeaser.jpg" class="" alt="Crystaluxe Infinity Necklace With Swarovski Crystals In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Weekly Deal</span>
 
 <span class="designer-ajax-quality">Don’t Miss<br>Our Hottest Deal<br>Of The Week!</span>
 
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>59</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-283" id="deal-283">
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>24</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-283" id="deal-283">
                                     <div class="menu-image">
-<img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Deals_NavTeasers/2015-10-13_99Sale_NavTeaser.jpg" class="retina" alt="Pearl And Diamond Stud Earrings In Silver And Gold" pagespeed_no_transform="">
+<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2016-02-16_99Sale_NavTeaser.jpg" class="" alt="Amethyst Quartz And Cubic Zirconia Ring In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">$99 Sale</span>
@@ -888,16 +886,16 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>99</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-284" id="deal-284">
                                     <div class="menu-image">
-<img src="http://max2.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2015-11-30_Birthstones_NavTeaser.jpg" class="" alt="Swiss Blue Topaz Pendant In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2016-06-01_Birthstones_NavTeaser.jpg" class="" alt="Pearl And Diamond Stud Earrings In Silver And Gold" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Birthstones</span>
 
-<span class="designer-ajax-quality">December<br>Birthstone<br>Savings.</span>
+<span class="designer-ajax-quality">June<br>Birthstone<br>Savings.</span>
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>19</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-286" id="deal-286">
                                     <div class="menu-image">
-<img src="http://max2.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2015-11-27_Under100_NavTeaser.jpg" class="" alt="Ruby And White Sapphire Pendant In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2016-05-23_Under100_NavTeaser.jpg" class="" alt="Tree Of Life Pendant With Cubic Zirconia In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">Deals Under $100</span>
@@ -906,43 +904,34 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>19</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-287" id="deal-287">
                                     <div class="menu-image">
-<img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Nav_Teasers/Deals_NavTeasers/2015-09-14_29Sale_NavTeaser.jpg" class="retina" alt="Opal And Topaz Ring With Diamonds In Sterling Silver" pagespeed_no_transform="">
+<img src="http://max2.jewelrystatic.com/media/wysiwyg/Nav_Teasers/Deals_NavTeasers/2016-02-16_29Sale_NavTeaser.jpg" class="" alt="Rainbow Topaz Butterfly Earrings In Sterling Silver" pagespeed_no_transform="">
 </div>
 
 <span class="designer-ajax-product">$29 Sale</span>
 
 <span class="designer-ajax-quality">Stock Up<br>And Save!</span>
 
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                                    </div>                                                                                                                             <div class="designer-ajax-image-wrapper deal deal-707" id="deal-707">
-                                    <div class="menu-image">
-<img src="http://max2.jewelrystatic.com/media/retina/wysiwyg/HP_Campaigns/2015-03-06_Disney_NavTeaser.jpg" class="retina" alt="Cinderella Slipper Pendant In Sterling Silver  |  Disney" pagespeed_no_transform="">
-</div>
-
-<span class="designer-ajax-product">Disney Dazzlers</span>
-
-<span class="designer-ajax-quality">Elsa, Anna, Cinderella,<br>And more.</span>
-
-<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>19</span>                                                                    </div>                                                     </div>                                                     <div class="bottom-menu-section designer-bottom-menu-section">
+<span class="designer-ajax-price"> <span class="small-txt">From</span> <span class="currency-symbol">$</span>29</span>                                                                    </div>                                                     </div>                                                     <div class="bottom-menu-section designer-bottom-menu-section">
                             <ul class="bottom-menu-section-content" id="featured-deals-area">
                             <li><span class="designer-menu-title">Featured</span><span class="designer-menu-desc">Deals</span></li>
                                                                                             <li class="check">
+                                    <a href="http://www.jewelry.com/deals/fathers-day-jewelry/">
+                                        <!--DATE 2016-06-08 01:22:04-->
+                                                                                    <img id="feat-deals-image-764" src="http://max2.jewelrystatic.com/media/retina/catalog/category/2016-06-07_FathersDay_vNavFeature.jpg" alt="Father's Day Jewelry" class="retina" pagespeed_no_transform="">
+                                                                                <span>Father's Day Jewelry</span>
+                                    </a>
+                                </li>
+                                                                                            <li class="check">
                                     <a href="http://www.jewelry.com/deals/deal-of-the-day/">
-                                        <!--DATE 2015-12-09 00:12:57-->
-                                                                                    <img src="http://max1.jewelrystatic.com/media/wysiwyg/Nav_Feature/2015-12-09_DailyDeal_NavFeature_Deals.jpg" class="" alt="Miracle Pendant With Diamonds In Sterling Silver" pagespeed_no_transform="">                                                                                <span>Deal Of The Day</span>
+                                        <!--DATE 2016-06-08 01:22:04-->
+                                                                                    <img src="http://max3.jewelrystatic.com/media/wysiwyg/Nav_Feature/2016-06-08_DailyDeal_NavFeature.jpg" class="" alt="Crystaluxe Flower Drop Earrings With Swarovski Crystal In Sterling Silver" pagespeed_no_transform="">                                                                                <span>Deal Of The Day</span>
                                     </a>
                                 </li>
                                                                                             <li class="check">
                                     <a href="http://www.jewelry.com/deals/new-arrivals/">
-                                        <!--DATE 2015-12-09 00:12:57-->
-                                                                                    <img id="feat-deals-image-714" src="http://max1.jewelrystatic.com/media/retina/catalog/category/2015-12-07_NewArrivals_NavFeature.jpg" alt="New Arrivals" class="retina" pagespeed_no_transform="">
+                                        <!--DATE 2016-06-08 01:22:04-->
+                                                                                    <img id="feat-deals-image-714" src="http://max1.jewelrystatic.com/media/retina/catalog/category/2016-06-01_NewArrivals_NavFeature.jpg" alt="New Arrivals" class="retina" pagespeed_no_transform="">
                                                                                 <span>New Arrivals</span>
-                                    </a>
-                                </li>
-                                                                                            <li class="check">
-                                    <a href="http://www.jewelry.com/deals/doorbuster-deals/">
-                                        <!--DATE 2015-12-09 00:12:57-->
-                                                                                    <img id="feat-deals-image-196" src="http://max2.jewelrystatic.com/media/retina/catalog/category/2015-12-04_Doorbusters_NavFeature_Deals.jpg" alt="Doorbuster Deals" class="retina" pagespeed_no_transform="">
-                                                                                <span>Doorbuster Deals</span>
                                     </a>
                                 </li>
                                                         </ul>                            </div>                                            </div>                     <a class="mob-more" href="#">More...</a>
@@ -968,39 +957,39 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                                 <div class="right-blog-section">
                                     <ul>
                                 <li class="mob-level-2">
-                                    <a href="http://www.jewelry.com/blog/4-jewelry-hacks/">
-                                         <img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Blog_NavFeature/JewelryHacks_NavFeature_Blog_2015-09-15.jpg" class="retina" alt="Jewelry Hacks" pagespeed_no_transform="">
-                                        <span>Jewelry Hacks</span>
+                                    <a href="http://www.jewelry.com/blog/oscars-2016-red-carpet-inspired-jewelry-looks/">
+                                         <img src="http://max1.jewelrystatic.com/media/wysiwyg/Blog_NavFeature/Oscars2016_NavFeature_Blog_2016-03-23.jpg" class="" alt="Cate Blanchett  |  Oscars 2016  |  Red Carpet Inspired Jewelry Looks" pagespeed_no_transform="">
+                                        <span>Celebrity Style</span>
                                     </a>
                                 </li>
                                 <li class="mob-level-2">
-                                    <a href="http://www.jewelry.com/blog/jewelry-symbols-what-does-the-evil-eye-mean/">
-                                         <img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Blog_NavFeature/EvilEye_NavFeature_Blog_2015-09-15.jpg" class="retina" alt="Evil Eye  |  Jewelry Symbols" pagespeed_no_transform="">
-                                        <span>Evil Eye Envy</span>
+                                    <a href="http://www.jewelry.com/blog/spring-2016-runway-fashion-trends-jewelry-pairings/">
+                                         <img src="http://max3.jewelrystatic.com/media/wysiwyg/Blog_NavFeature/Spring2016_NavFeature_Blog_2016-03-23.jpg" class="" alt="Elle LOVE Pendant In Sterling Silver  |  Spring 2016 Runway Fashion Trends And Jewelry Pairings" pagespeed_no_transform="">
+                                        <span>On The Runway</span>
                                     </a>
                                 </li>
                                 <li class="mob-level-2">
-                                    <a href="http://www.jewelry.com/blog/fall-2015-runway-jewelry-trends/">
-                                        <img src="http://max2.jewelrystatic.com/media/retina/wysiwyg/Blog_NavFeature/JewelryTrends_NavFeature_Blog_2015-09-15.jpg" class="retina" alt="Fall 2015 Runway Jewelry Trends" pagespeed_no_transform="">
-                                        <span>Fall Favorites</span>
+                                    <a href="http://www.jewelry.com/blog/refresh-your-spring-look-with-new-arrivals-from-jewelry-com/">
+                                        <img src="http://max1.jewelrystatic.com/media/wysiwyg/Blog_NavFeature/SpringArrivals_NavFeature_Blog_2016-03-23.jpg" class="" alt="Carolyn Pollack Cabled X Ring In Sterling Silver  |  Spring Look  |  New Arrivals" pagespeed_no_transform="">
+                                        <span>New For Spring</span>
                                     </a>
                                 </li>
                                 <li class="mob-level-2">
-                                    <a href="http://www.jewelry.com/blog/burning-jewelry-highlights/">
-                                        <img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Blog_NavFeature/BurningMan_NavFeature_Blog_2015-09-15.jpg" class="retina" alt="Burning Man Jewelry Highlights" pagespeed_no_transform="">
-                                        <span>Burning Man Bling</span>
+                                    <a href="http://www.jewelry.com/blog/engagement-ring-buying-guide-diamonds-alternative-styles/">
+                                        <img src="http://max3.jewelrystatic.com/media/wysiwyg/Blog_NavFeature/Engagement_NavFeature_Blog_2016-03-23.jpg" class="" alt="Blue And White Sapphire Ring In 10K Gold  |  Engagement Ring Buying Guide  |  Diamonds And Alternative Styles" pagespeed_no_transform="">
+                                        <span>Budget-Friendly Bridal</span>
                                     </a>
                                 </li>
                                 <li class="mob-level-2">
-                                    <a href="http://www.jewelry.com/blog/jewelry-trendcaster-the-l-a-look/">
-                                        <img src="http://max3.jewelrystatic.com/media/retina/wysiwyg/Blog_NavFeature/LAJewelry_NavFeature_Blog_2015-09-15.jpg" class="retina" alt="Jewelry Trend  |  The L.A. Look" pagespeed_no_transform="">
-                                        <span>The ‘L.A.’ Look</span>
+                                    <a href="http://www.jewelry.com/blog/the-bachelor-ben-higgins-proposes-to-lauren-b-with-95000-engagement-ring/">
+                                        <img src="http://max3.jewelrystatic.com/media/wysiwyg/Blog_NavFeature/Bachelor_NavFeature_Blog_2016-03-23.jpg" class="" alt="The Bachelor  |  Ben Higgins Proposes to Lauren B  |  Engagement Ring" pagespeed_no_transform="">
+                                        <span>Bachelor Bling</span>
                                     </a>
                                 </li>
                                 <li class="mob-level-2">
-                                    <a href="http://www.jewelry.com/blog/the-sexy-side-of-sapphire-septembers-birthstone/">
-                                        <img src="http://max1.jewelrystatic.com/media/retina/wysiwyg/Blog_NavFeature/Sapphire_NavFeature_Blog_2015-09-15.jpg" class="retina" alt="Sapphire  |  September Birthstone  |  Sexy  |  Princess Diana  |  Duchess Kate  |  Liz Taylor  |  Jessica Chastain" pagespeed_no_transform="">
-                                        <span>Sexy Sapphire</span>
+                                    <a href="http://www.jewelry.com/blog/pantone-color-of-the-year-rose-quartz-serenity/">
+                                         <img src="http://max3.jewelrystatic.com/media/wysiwyg/Blog_NavFeature/Pantone_NavFeature_Blog_2015-12-30.jpg" class="" alt="PANTONE Color Of The Year  |  Rose Quartz And Serenity" pagespeed_no_transform="">
+                                        <span>Pantone Picks</span>
                                     </a>
                                 </li>
 </ul>                                </div>
@@ -1071,12 +1060,12 @@ optionalZipCountries = ["HK","IE","MO","PA"];
             </div>
         </div>
     </div>
-</div>        <!--ewpagecache:core_messages_begin:d45eb--><!--ewpagecache:core_messages_end-->        <section class="main col1-layout">
+</div>                <section class="main col1-layout">
             <div class="col-main">
                 	<h1 class="single-page-title-wrapper">
 		<span class="regular-text">Read Our</span> Privacy Policy        
 	</h1>
-<div class="std"><!--ewpagecache:core_messages_begin:07bee--><!--ewpagecache:core_messages_end--><h2>Jewelry.com will occasionally update its privacy statement to reflect company and customer feedback. We encourage you to periodically review this page to be informed of how we are protecting your information. If you have questions or concerns about our policy, you should first contact us. Your privacy is important to us. This privacy policy is designed to inform you of what information Jewelry.com collects, why we collect such information and how we use the information we collect.</h2>
+<div class="std"><h2>Jewelry.com will occasionally update its privacy statement to reflect company and customer feedback. We encourage you to periodically review this page to be informed of how we are protecting your information. If you have questions or concerns about our policy, you should first contact us. Your privacy is important to us. This privacy policy is designed to inform you of what information Jewelry.com collects, why we collect such information and how we use the information we collect.</h2>
 
 <h3>Collection And Use Of Information:</h3>
 <p>In general, you can browse our Web Site without telling us who you are or revealing any personally identifiable information about yourself. Personally identifiable information means any information that may be used to identify an individual, including, but not limited to, a first and last name; home, billing or other physical address; an email address; phone number or other contact information. When you submit your personally identifiable information to us, you are giving us your consent to the collection, use and disclosure of your personally identifiable information as set forth in this privacy policy.</p>
@@ -1291,11 +1280,6 @@ optionalZipCountries = ["HK","IE","MO","PA"];
         </a>
     </li>
     <li>
-        <a id="seal-a" href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.jewelry.com&amp;lang=en" target="_blank">
-            <div class="icon-norton"></div>
-        </a>
-    </li>
-    <li>
         <a href="http://www.pricegrabber.com/rating_getreview.php/retid=22096" target="_blank">
             <img border="0" src="http://max1.jewelrystatic.com/media/wysiwyg/merchant_rating_image.png" alt="PriceGrabber User Ratings for Jewelry.com">
         </a>
@@ -1352,6 +1336,8 @@ optionalZipCountries = ["HK","IE","MO","PA"];
         _ltk.SCA.CaptureEmail('footer-newsletter');
         _ltk.SCA.CaptureEmail('pop-email_address');
         _ltk.SCA.CaptureEmail('pop-login-email');
+        _ltk.Activity.AddPageBrowse(location.href);
+        _ltk.Activity.Submit();
     });
 </script>
 ﻿
@@ -1377,7 +1363,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 </script>
 <script src="http://www.jewelry.com/js/mirasvit/code/feedexport/performance.js" type="text/javascript"></script>    </div>
 </div>
-<script type="text/javascript" src="http://www.jewelry.com/js/min/pix.min.js?v=2.04"></script>
-<script type="text/javascript" src="http://www.jewelry.com/js/min/bottom_scripts.min.js?v=2.04"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9a5908c89c","applicationID":"5504090","transactionName":"ZABSZEJYWBYEBkdYDF1KZUJZFl8LAQBLHxNbFQ==","queueTime":0,"applicationTime":16,"atts":"SEdREgpCSxg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+<script type="text/javascript" src="http://www.jewelry.com/js/min/pix.min.js?v=2.11"></script>
+<script type="text/javascript" src="http://www.jewelry.com/js/min/bottom_scripts.min.js?v=2.11"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9a5908c89c","applicationID":"5504090","transactionName":"ZABSZEJYWBYEBkdYDF1KZUJZFl8LAQBLHxNbFQ==","queueTime":0,"applicationTime":143,"atts":"SEdREgpCSxg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
