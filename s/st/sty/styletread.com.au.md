@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styletread.com.au privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209193842id_/http%3A//www.styletread.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styletread.com.au privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608225555id_/http%3A//www.styletread.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,11 +78,9 @@ We don't treat the data collected as personal information or use it in associati
 
 Identification checks
 
-Styletread will randomly select transactions and request for proof of identification via email for the purpose of credit card fraud prevention.
+Styletread will partially refund you a small amount back into your nominated account to verify that you are the credit card holder.
 
-Creating a secure online shopping environment is extremely important and random identification checks ensures we can take further steps to prevent credit card fraud.
-
-There will be a three-working-day period in which to submit a copy of your driver’s license or similar photo ID via email or fax to Styletread. Once we receive the requested documentation, your order will be processed and shipped as soon as possible. If we do not receive the requested information within three working days your order will be cancelled and you will receive a full refund. 
+Once we receive the confirmation either via email or phone, your order will be processed and shipped as soon as possible. If we do not receive the confirmed information within three working days your order will be cancelled and you will receive a full refund.
 
 Address and Contact Details
 
@@ -100,4 +98,4 @@ Phone: 1300 602 947
 
 Fax: 02 8279 9321
 
-Last Updated: 28/05/2015
+Last Updated: 19/02/2016
