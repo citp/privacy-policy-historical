@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cmswire.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205062900id_/http%3A//www.cmswire.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmswire.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608053520id_/http%3A//www.cmswire.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Simpler Media Group (the publisher of the CMSWire.com websites) also referred to as "SMG" provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of our websites, located at [www.simplermedia.com](http://www.simplermedia.com/) and [www.cmswire.com](http://www.cmswire.com/) ("Sites") or collected through our other services, including via email subscriptions and survey tools ("Services").
+Simpler Media Group (the publisher of the CMSWire.com website) also referred to as "SMG" provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of our websites, located at [www.simplermedia.com](http://www.simplermedia.com/), [www.dxsummit.com](http://www.dxsummit.com/) and [www.cmswire.com](http://www.cmswire.com/) ("Sites") or collected through our other services, including via email subscriptions and survey tools ("Services").
 
 This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on this website. You are advised to consult this Privacy Policy regularly for any changes.
 
@@ -70,4 +70,4 @@ If you post any personally identifiable information in a Simpler Media Group web
 
 ## Policy Changes
 
-This Privacy Policy came into effect in 2009 and was last updated on May 1, 2013. Any updates to this policy will be published on this page.
+This Privacy Policy came into effect in 2009 and was last updated on February 1, 2016. Any updates to this policy will be published on this page.
