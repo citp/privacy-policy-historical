@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the londonpass.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206120901id_/http%3A//www.londonpass.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonpass.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608063733id_/https%3A//www.londonpass.com/privacy.php) for the most accurate reproduction.*
 
-# How does the London Pass work?
+# Privacy
 
 Leisure Pass Group is committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998)
 
@@ -28,7 +28,7 @@ We process personal information collected via the London Pass website for the pu
   * processing any orders you may have made
   * conducting market research surveys
   * running competitions
-  * providing you with information about products and services we offer
+  * providing you information about products and services offered by The Leisure Pass Group
 
 
 
