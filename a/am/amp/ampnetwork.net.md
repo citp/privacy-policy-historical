@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ampnetwork.net privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205003337id_/http%3A//www.ampnetwork.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampnetwork.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608161246id_/http%3A//www.ampnetwork.net/privacy.php) for the most accurate reproduction.*
 
 # AmpNetwork.net
 
