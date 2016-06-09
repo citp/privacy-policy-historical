@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkshrink.net privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117052154id_/http%3A//linkshrink.net/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkshrink.net privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609035109id_/http%3A//linkshrink.net/PrivacyPolicy) for the most accurate reproduction.*
 
 # LinkShrink.net - Earn money sharing shrinked links!
 
@@ -24,4 +24,4 @@ Links on our site which may lead to other sites have their own privacy policy, w
 
 **Information accessibility**
 
-As per The Data Protection Act 1998, we cannot withhold your own data from you, thus we offer any information we have stored on your account. If you wish to have access to our data collection on you and your account, a fee of $10 is required for our costs for processing your request and extracting the data for you. Please [Contact Us](https://web.archive.org/web/20151117052154id_/http%3A//linkshrink.net/contact) to process your data access request. You may also contact us if you have any queries, requests, or comments using the same contact form. We will get back to you within a few hours with a reply. 
+As per The Data Protection Act 1998, we cannot withhold your own data from you, thus we offer any information we have stored on your account. If you wish to have access to our data collection on you and your account, a fee of $10 is required for our costs for processing your request and extracting the data for you. Please [Contact Us](https://web.archive.org/web/20160609035109id_/http%3A//linkshrink.net/contact) to process your data access request. You may also contact us if you have any queries, requests, or comments using the same contact form. We will get back to you within a few hours with a reply. 
