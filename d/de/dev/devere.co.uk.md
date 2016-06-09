@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devere.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208151737id_/http%3A//deverevenues.co.uk/en/legals-and-policy/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devere.co.uk privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609192731id_/http%3A//www.deverevenues.co.uk/en/legals-and-policy/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - De Vere Venues
 
