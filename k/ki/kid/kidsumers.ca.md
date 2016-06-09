@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidsumers.ca privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224115902id_/http%3A//kidsumers.ca/privacy-policy-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsumers.ca privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609212837id_/http%3A//kidsumers.ca/privacy-policy-and-disclosure) for the most accurate reproduction.*
 
-# Kidsumers — Kidsumers Privacy Policy
+# Privacy Policy | Kidsumers
 
 Privacy Policy for 
 
@@ -37,14 +37,3 @@ has no access to or control over these cookies that are used by third-party adve
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. ‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-  * Bio
-  * Twitter
-  * Facebook
-  * Google+
-  * LinkedIn
-  * Latest Posts
-
-
-
-Sheri McDonald is a Mom to 4 awesome kids who range in age from 6 to 21. She is a Canadian Mom Blogger, a Travel Blogger, a Brand Ambassador, a Social Media Influencer, a Spokesperson and an amateur photographer. You can find her writing about family life, food, travel, Disney and family friendly products at [ Kidsumers ](http://kidsumers.ca/) (a play on the word 'consumers') and sharing her travel experience at [ Big Family Travels](http://bigfamilytravels.com/).
