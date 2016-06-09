@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ancestry.ca privacy policy that was archived on 2015-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212060923id_/http%3A//www.ancestry.ca/cs/legal/privacyphilosophy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ancestry.ca privacy policy that was archived on 2016-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609120831id_/http%3A//www.ancestry.ca/cs/legal/privacyphilosophy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="r" lang="en-US"><head>
 	<meta charset="utf-8">
@@ -24,20 +24,47 @@
 	<script src="http://c.mfcreative.com/lib/tgn/util/v1.1/AjaxManager.js?v=4" type="text/javascript"></script>
 	<script src="http://c.mfcreative.com/lib/tgn/util/v1.1/ResourceManager.js?v=4" type="text/javascript"></script>
 		<!-- Header top resources -->
-				<link rel="stylesheet" href="http://c.mfcreative.com//SSS_NAV/1.0.981/Content/1.2/header.css">
-				<script type="text/javascript" src="http://c.mfcreative.com//SSS_NAV/1.0.981/Content/1.2/header.js"></script>
+				<link rel="stylesheet" href="http://c.mfcreative.com//SSS_NAV/1.0.1100/Content/2.1/header.css">
+				<script type="text/javascript" src="http://c.mfcreative.com//SSS_NAV/1.0.1100/Content/2.1/header.js"></script>
 				<script type="text/javascript">
 					
-function SetupHeader(onDocReady, retries) { if (typeof AHS !== 'undefined') { AHS.AncestryDomain = 'http://www.ancestry.ca';AHS.SelectedTab = 'SELECTEDTAB';AHS.CacheUrl = '//c.mfcreative.com/';AHS.jQueryTimeout = 15000;AHS.CountCache = 360;AHS.Dna.AjaxDomain = '//dna.ancestry.com';AHS.Dna.MakeCall = false;AHS.TreesAjaxDomain = '//header.ajax.ancestry.ca';if ('False' == 'True') { AHS.IsLoggedIn = true;AHS.MessageCount = '0';AHS.MoreTreesText = 'More';AHS.TreesDomain = 'http://trees.ancestry.ca';AHS.Hints.AjaxDomain = '//header.ajax.ancestry.ca';AHS.UserId = '';AHS.Messages.AjaxDomain = '//header.ajax.ancestry.ca'; AHS.NavigationAjaxUrl = '//navigation.ancestry.ca/ajax'; AHS.loadUserInfo(); } else { AHS.UsernameText = 'Username or email';AHS.PasswordText = 'Password'; } if ('False' == 'True') { AHS.allowTracking = true; } AHS.ShowTreesTab = true;if (onDocReady) { AHS.initialize();}else {$(document).ready(function () { AHS.initialize(); }); } } else if (retries > 0) { setTimeout('SetupHeader('+onDocReady+','+(retries-1)+')',100);} } if (typeof AHS === 'undefined') { $(document).ready(function () { SetupHeader(true,5); }); } else { SetupHeader(false,5); }
-				</script>
-				<script type="text/javascript">
-					
-$(function(){var n={Get:function(n){var i=new RegExp(n+"=([^;]+)","i"),t=i.exec(document.cookie);return t!=null?unescape(t[1]):null},Set:function(n,t,i,r,u){n&&(n=n.toUpperCase(),document.cookie=n+"="+t+"; path="+(i?i:"/")+(r?"; expires="+r:"")+(u?"; domain="+u:""))},GetProperties:function(t){for(var f=n.Get(t),i,e=/([^&=]+)=?([^&]*)/g,r=function(n){return decodeURIComponent(n.replace(/\+/g," "))},u={};i=e.exec(f);)u[r(i[1])]=r(i[2]);return u},GetProperty:function(t,i){return n.GetProperties(t)[i.toUpperCase()]},SetProperty:function(t,i,r,u,f,e){var o=n.GetProperties(t),s,h;if(o){o[i.toUpperCase()]=r;s="";for(h in o)s+="&"+h+"="+o[h];n.Set(t,s.substring(1),u,f,e)}}},r,t,i;window.CSUFailSafeExecuted||(window.CSUFailSafeExecuted=!0,r=n.Get("VARSESSION"),t=n.GetProperty("VARSESSION","NEWSITEFEEDBACK"),r&&(!t||t!=="false")&&n.SetProperty("VARSESSION","NEWSITEFEEDBACK","false",null,null,"ancestry.ca"),i=n.GetProperty("VARSESSION","NewSiteExperience"),i&&i!=="loggedout"&&(n.SetProperty("VARSESSION","NewSiteExperience","loggedout",null,null,"ancestry.ca"),location.reload()))}())
+$(function () {
+	function setupHeader(numTries) {
+		if (typeof header !== 'undefined') {
+			header.init({
+				'userId': '',
+				'rootDomain': 'ancestry.ca',
+				'ajaxUrl': '//navigation.ancestry.ca/ajax/userdata/2.1',
+				'dnaUrl': '//dna.ancestry.ca',
+				'userAjaxUrl': '//navigation.ancestry.ca/ajax/UserInfo',
+				'clearUserDataUrl': '//navigation.ancestry.ca/ajax/Clear',
+				'clearCartUrl': '//navigation.ancestry.ca/ajax/ClearCart',
+				'treesAjaxUrl': '//navigation.ancestry.ca/ajax/Trees',
+				'dnaNotificationsAjaxUrl': '//navigation.ancestry.ca/ajax/DnaHints',
+				'hintsAjaxUrl': '//navigation.ancestry.ca/ajax/Hints',
+				'messagesAjaxUrl': '//navigation.ancestry.ca/ajax/Messages',
+				'cacheDomain': '//c.mfcreative.com',
+				'isLoggedIn': 'False' == 'True',
+				'selectedTabName': 'SELECTEDTAB',
+				'facebookUrl': '//fbsso.ajax.ancestry.com/SignOn/Login',
+				'hintsClearAllUrl': '//navigation.ancestry.ca/ajax/ClearAllHints',
+				'addTracking': 'False' == 'True',
+				'showHireAnExpertWarning': 'False' == 'True',
+				'cachedData': {}
+			});
+		} else if (numTries < 15) {
+			setTimeout(function () {
+				setupHeader(numTries + 1);
+			}, 200);
+		}
+	}
+	setupHeader(0);
+});
 				</script>
 		
-		<!--<link rel="stylesheet" href="http://c.mfcreative.com/cms/1.1.496-450/css/legal/responsiveLegal.css"/>-->
+		<!--<link rel="stylesheet" href="http://c.mfcreative.com/cms/1.1.549-500/css/legal/responsiveLegal.css"/>-->
 		
-			<link rel="stylesheet" href="http://c.mfcreative.com/cms/1.1.496-450/css/legal/privacy.css">
+			<link rel="stylesheet" href="http://c.mfcreative.com/cms/1.1.549-500/css/legal/privacy.css">
 		
 		
 	</head>
@@ -45,26 +72,146 @@ $(function(){var n={Get:function(n){var i=new RegExp(n+"=([^;]+)","i"),t=i.exec(
 	<body>
 
 	<div id="HeaderRegion">
-		<!-- Navigation/v1.2/5543/4105 --><header class="headWrp  loggedOut" role="banner" aria-label="Main Navigation"><div class="topSec clearfix"><div id="Hdr_LogoWrp" class="localLogo"><a href="http://www.ancestry.ca/" data-tracking-name="Home Logo"><img src="//c.mfcreative.com//SSS_NAV/1.0.981//Content/1.2/i/logos/ancestry.png" alt="Ancestry"><span class="localLeaf"></span></a></div>
-			<ul class="userControls textsml"><li class="acctNote" data-menu="account"><button type="button" id="showSignIn" class="ancBtn sml silver iconAfter iconArrowSmallDownAfter" onclick="AHS.showLogin(); AHS.prepareFacebook('//fbsso.ajax.ancestry.ca/SignOn/Login?partnerid=5543&amp;lcid=4105');" data-tracking-name="Load Sign In">Sign In</button><span id="profileButton"></span><div class="loginBox textsml"><div class="acctNoteArrow"><div class="acctNoteInnerArrow"></div></div><form id="loginForm" action="https://secure.ancestry.ca/login?ti.si=0&amp;ti=5543" method="post" class="form loginForm"><div><label for="username">Username or email</label><input type="text" class="ancUser loginFormInput" name="username" id="username"></div><div class="topSpacing"><label for="password">Password</label><input type="password" class="ancPass loginFormInput" name="password" id="password"></div><div class="topSpacing"><input type="submit" id="signin" class="ancBtn orange" data-tracking-name="Sign In" value="Sign In"><a href="https://secure.ancestry.ca/Account/ForgotPassword" class="forgotInfo" data-tracking-name="Forgot Password">Forgot?</a></div><input type="hidden" name="kurl" id="sh_kurl" value="http://www.ancestry.ca/cs/legal/privacyphilosophy"></form><div id="facebook-sso-webpart-region" style="display: none"><div id="SignOnRegion"></div></div><div id="fb-root"></div><div id="helpInsertLO"><a class="acctHelp" onclick="var s=s_gi('myfamilyancestry');s.tl(this,'o','Global Help');" href="http://ancestryca.custhelp.com/">Help</a></div><div id="subInsertLO"><a class="" href="http://www.ancestry.ca//t7364/rd.ashx" data-tracking-name="Subscribe Mobile">Subscribe</a></div></div></li><li><a class="ancBtn sml" href="http://www.ancestry.ca//t7364/rd.ashx" data-tracking-name="Subscribe">Subscribe</a></li><li><a class="acctHelp" href="http://ancestryca.custhelp.com/" data-tracking-name="Get Help">Help</a></li><li id="Hdr_ToggleLanguage"><a href="javascript:AHS.toggleLanguage(3084);" class="links" data-tracking-name="Toggle Language">Français</a></li></ul>
+		<h2 class="hideVisually">Ancestry</h2>
+<nav class="nav navLoggedOut navVersion21 navStandard" id="nav" aria-labelledby="navMainMenuTitle" data-nav-version="navVersion21" role="banner">
+	<h3 class="hideVisually" id="navMainMenuTitle">Main Menu</h3>
+	<a href="#skipped-nav" class="hideVisually" id="navSkip">Skip Ancestry navigation</a><!--
+	--><button type="button" class="link navMobile navLink icon iconMenu show480 calloutTriggerNoArrow" title="Main Menu" id="navMobile" aria-controls="navMobileMenu" aria-expanded="false" aria-haspopup="true" aria-owns="navMobileMenu"></button><!--
+	--><a class="navLink navLogo" data-tracking-name="Logo" href="http://www.ancestry.ca">
+	<img alt="Ancestry" height="21" src="//c.mfcreative.com/i/logo/ancestry-on-dark.svg" width="118">
+	</a><!--
+	-->		<div class="navMainMenu hide480">
+<a class="navLink navMainLink navHome calloutTriggerNoArrow hide768 show480" data-tracking-name="Home" href="http://www.ancestry.ca" id="navHome">Home</a><a class="navLink navMainLink navTrees calloutTriggerNoArrow" data-tracking-name="Family Trees" href="http://trees.ancestry.ca" id="navTrees" aria-controls="navTreesMenu" aria-expanded="false" aria-haspopup="true" aria-owns="navTreesMenu">Family Trees</a><a class="navLink navMainLink navSearch calloutTriggerNoArrow" data-tracking-name="Search" href="http://search.ancestry.ca" id="navSearch" aria-controls="navSearchMenu" aria-expanded="false" aria-haspopup="true" aria-owns="navSearchMenu">Search</a><a class="navLink navMainLink navDna calloutTriggerNoArrow" data-tracking-name="AncestryDNA" href="http://dna.ancestry.ca" id="navDna">DNA</a><a class="navLink navMainLink navHelp calloutTriggerNoArrow" data-tracking-name="Get Help" href="http://ancestryca.custhelp.com/" id="navHelp" aria-controls="navHelpMenu" aria-expanded="false" aria-haspopup="true" aria-owns="navHelpMenu">Help</a><a class="navLink navMainLink navExtras calloutTriggerNoArrow" data-tracking-name="Extras" href="http://www.ancestry.ca/cs/apps/allproducts" id="navExtras" aria-controls="navExtrasMenu" aria-expanded="false" aria-haspopup="true" aria-owns="navExtrasMenu">Extras</a>		</div><!--
+	-->
+	<div class="navSecondaryMenu ">
+<a class="navLink navEmphasizedButton navSubscribeLink hide480" href="http://www.ancestry.ca/cs/offers/subscribe " data-tracking-name="Subscribe">Subscribe</a><!--
+		--><a href="https://secure.ancestry.ca/login?ti.si=0&amp;ti=5543" class="navLink navAccount iconAfter iconArrowSmallDownAfter" id="navAccount" aria-controls="navAccountMenu" aria-expanded="false" aria-haspopup="true" aria-owns="navAccountMenu" data-tracking-name="Load Sign In">Sign In</a><!--
+		--><button type="button" class="link navLink navLanguageToggle hide480" data-language-id="3084" data-language-name="frCA">FR</button><!--
+		-->	</div>
+	<div class="navMobileMenu" id="navMobileMenu">
+<a class="calloutMenuTitle navMobileHome" data-tracking-name="Home" href="http://www.ancestry.ca" id="navMobileHome">Home</a>
+			<div class="navTreesMenu navSubMenu navMobileSubMenu" id="navTreesMenu" role="group" aria-labelledby="navTrees">
+
+				<h5 class="show480 calloutMenuTitle iconAfter iconArrowSmallDownAfter">Family Trees</h5>
+								<ul>
+					
+ 
+					<li><a href="http://trees.ancestry.ca/pt/startped.aspx" id="navLinkStartTree" data-tracking-name="Start a new tree">Start a New Tree</a></li>
+					 
+					<li><a href="http://trees.ancestry.ca/pt/uploadfile.aspx" id="navLinkUploadGedcom" data-tracking-name="Upload a GEDCOM">Upload a GEDCOM</a></li>
+										
+				</ul>
+			</div>
+		
+			<div class="navSearchMenu navSubMenu navMobileSubMenu" id="navSearchMenu" role="group" aria-labelledby="navSearch">
+
+				<h5 class="show480 calloutMenuTitle iconAfter iconArrowSmallDownAfter">Search &amp; Browse</h5>
+								<ul>
+					
+ 
+					<li><a href="http://search.ancestry.ca" id="navLinkAllCategories" data-tracking-name="All Categories">All Collections</a></li>
+					 
+					<li><a href="http://search.ancestry.ca/search/category.aspx?cat=35" id="navLinkCensus" data-tracking-name="Census &amp; Voter Lists">Census &amp; Voter Lists</a></li>
+					 
+					<li><a href="http://search.ancestry.ca/search/category.aspx?cat=34" id="navLinkBMD" data-tracking-name="Birth, Marriage &amp; Death">Birth, Marriage &amp; Death</a></li>
+					 
+					<li><a href="http://search.ancestry.ca/search/category.aspx?cat=40" id="navLinkImmigration" data-tracking-name="Immigration &amp; Travel">Immigration &amp; Travel</a></li>
+					 
+					<li><a href="http://search.ancestry.ca/search/db.aspx?dbid=1030" id="navLinkPublicMemberTrees" data-tracking-name="Public Member Trees">Public Member Trees</a></li>
+					 
+					<li><a href="http://search.ancestry.ca/search/category.aspx?cat=39" id="navLinkMilitary" data-tracking-name="Military">Military</a></li>
+					 
+					<li><a href="http://search.ancestry.ca/search/cardcatalog.aspx#ccat=hc%3D25%26dbSort%3D1%26sbo%3D1%26" id="navLinkCardCatalog" data-tracking-name="Card Catalog">Card Catalogue</a></li>
+					 
+					<li><a href="http://community.ancestry.ca/directory/directory.aspx" id="navLinkMemberDirectory" data-tracking-name="Search Member Directory">Member Directory</a></li>
+										
+				</ul>
+			</div>
+		<a class="calloutMenuTitle navMobileDna" data-tracking-name="AncestryDNA" href="http://dna.ancestry.ca" id="navMobileDna">DNA</a>
+			<div class="navHelpMenu navSubMenu navMobileSubMenu" id="navHelpMenu" role="group" aria-labelledby="navHelp">
+
+				<h5 class="show480 calloutMenuTitle iconAfter iconArrowSmallDownAfter">Get Help</h5>
+								<ul>
+					
+ 
+					<li><a href="http://ancestryca.custhelp.com/" id="navLinkSupportHome" data-tracking-name="Support">Support Centre</a></li>
+					 
+					<li><a href="http://www.ancestry.ca/cs/Satellite?childpagename=CALearningCenter%2FLearning_C%2FPageDefault&amp;pagename=LearningWrapper&amp;cid=1265127735386" id="navLinkGettingStarted" data-tracking-name="Getting Started">Get Started</a></li>
+					 
+					<li><a href="http://www.ancestry.ca/cs/Satellite?childpagename=CALearningCenter%2FLearning_C%2FPageDefault&amp;pagename=LearningWrapper&amp;cid=1265127984275" id="navLinkFamilyTrees" data-tracking-name="Family Trees">Family Trees</a></li>
+					 
+					<li><a href="http://www.ancestry.ca/cs/Satellite?childpagename=CALearningCenter%2FLearning_C%2FPageDefault&amp;pagename=LearningWrapper&amp;cid=1265128161531" id="navLinkExploringRecords" data-tracking-name="Exploring the Records">Exploring the Records</a></li>
+					 
+					<li><a href="http://www.ancestry.ca/cs/Satellite?childpagename=CALearningCenter%2FLearning_C%2FPageDefault&amp;pagename=LearningWrapper&amp;cid=1265128165497" id="navLinkFamilyHistoryTips" data-tracking-name="Family History Tips">Family History Tips</a></li>
+					 
+					<li><a href="http://boards.ancestry.ca" id="navLinkMessageBoards" data-tracking-name="Message Boards">Message Boards</a></li>
+					 
+					<li><a href="http://community.ancestry.ca" id="navLinkCommunity" data-tracking-name="Community">Community</a></li>
+										
+				</ul>
+			</div>
+		
+			<div class="navExtrasMenu navSubMenu navMobileSubMenu" id="navExtrasMenu" role="group" aria-labelledby="navExtras">
+
+				<h5 class="show480 calloutMenuTitle iconAfter iconArrowSmallDownAfter">Extras</h5>
+								<ul>
+					
+ 
+					<li><a href="http://www.ancestry.ca/cs/ca/world-war-1?o_iid=62158&amp;o_lid=62158&amp;o_sch=Web+Property" id="navLinkWW1" data-tracking-name="World War 1-100 years">World War 1-100 years</a></li>
+					 
+					<li><a href="http://www.ancestry.ca/cs/ancestry-app" id="navLinkMobileApps" data-tracking-name="iOS &amp; Android Apps">iOS &amp; Android Apps</a></li>
+					 
+					<li><a href="http://www.ancestry.ca/Academy/courses/recommended" id="navLinkAcademy" data-tracking-name="Ancestry Academy">Ancestry Academy</a></li>
+										
+				</ul>
+			</div>
+			</div>
+	<div class="navAccountMenu navSubMenu calloutDomContent" id="navAccountMenu">
+		<form class="form" method="post" action="https://secure.ancestry.ca/login?ti.si=0&amp;ti=5543">
+			<label for="username">Username or email</label>
+			<input type="text" name="username" id="username">
+			<label for="password" class="topSpacing">Password</label>
+			<input type="password" name="password" id="password">
+			<input type="hidden" name="kurl" id="sh_kurl" value="http://www.ancestry.ca/cs/legal/PrivacyPhilosophy">
+			<div class="formFooter">
+				<input class="ancBtn orange" type="submit" value="Sign in" data-tracking-name="Sign In"><a href="https://secure.ancestry.ca/security/forgotpassword.aspx" class="navForgot" data-tracking-name="Forgot Password">Forgot?</a>
+				<button type="button" class="link icon iconFacebook navFacebookLogin" title="Sign In with Facebook" data-tracking-name="Sign In with Facebook"><span class="hideVisually">Login with Facebook</span></button>
+			</div>
+			<div class="noDisplay" id="facebook-sso-webpart-region" data-lcid="1033" data-partnerid="0"><div id="SignOnRegion"></div></div>
+			<div class="noDisplay" id="fb-root"></div>
+		</form>
+		<ul class="calloutMenu show480 topSpacing">
+			<li><a href="http://www.ancestry.ca/cs/offers/subscribe " data-tracking-name="Subscribe Mobile">Subscribe</a></li>
+			<li class="show480 navLanguageToggleContainer"><button type="button" class="link navLanguageToggle" data-language-id="3084" data-language-name="frCA">Français</button></li>
+		</ul>
+	</div>
+		<div id="skipped-nav"></div>
+</nav>
+<div class="textCenter" data-title="You are leaving the Ancestry website." id="progenLeavingAncestryModal" style="display:none">
+    <div class="navProgenLogo" data-alt="ProGenealogists" data-src="//c.mfcreative.com/i/logo/progen.svg"></div>
+	<p class="topSpacingBlock">The website you are about to visit is ProGenealogists<sup>®</sup>, operated <br class="hide320">by TGN Services, LLC, a subsidiary of Ancestry.</p>
+	<footer class="textCenter topSpacingBlock"><a class="ancBtn" id="goToProGen" href="https://www.progenealogists.com/?source=nav.modal">Continue to the ProGenealogists website</a></footer>
 </div>
-
-
-
-<div class="ieGrad"><a id="menuButton" href="javascript:void(0);" data-tracking-name="Show Mobile Menu"><span class="menuBar"></span><span class="menuBar"></span><span class="menuBar"></span></a><div class="mainNav"><div class="menuContArrow"></div><ul id="Hdr_Tabs" class="gLinks"><li><a id="tabHome" class="tabHome" href="http://www.ancestry.ca/">
-						Home
-					</a></li><li><a id="tabTrees" class="tabTrees" href="http://trees.ancestry.ca?req=tree">
-						Family Trees
- <span></span></a><div class="listWrpr" id="tabTreesListWrpr"><div class="innerListWrpr"><ul class="ddList"><li id="_tLoad_" class=" lastLi "><a href="#"><em class="listWrprLoading">Loading...</em></a></li></ul></div></div></li><li><a id="tabSearch" class="tabSearch" href="http://search.ancestry.ca/search/">
-						Search
- <span></span></a><div class="listWrpr" id="tabSearchListWrpr"><div class="innerListWrpr"><ul class="ddList"><li id="Hdr_Srch_All" class=""><a href="http://search.ancestry.ca/search/">Search All Records</a></li><li id="Hdr_Srch_Census" class=""><a href="http://search.ancestry.ca/search/category.aspx?cat=35">Census &amp; Voter Lists</a></li><li id="Hdr_Srch_BMD" class=""><a href="http://search.ancestry.ca/search/category.aspx?cat=34">Birth, Marriage &amp; Death</a></li><li id="Hdr_Srch_Military" class=""><a href="http://search.ancestry.ca/search/category.aspx?cat=39">Military</a></li><li id="Hdr_Srch_Immigration" class=""><a href="http://search.ancestry.ca/search/category.aspx?cat=40">Immigration &amp; Travel</a></li><li id="Hdr_Srch_Directories" class=""><a href="http://search.ancestry.ca/search/category.aspx?cat=37">Schools, Directories &amp; Church Histories</a></li><li id="Hdr_Srch_PublicTrees" class=""><a href="http://www.ancestry.ca/search/db.aspx?dbid=1030">Public Member Trees</a></li><li id="Hdr_Srch_CardCatalog" class=" lastLi "><a href="http://search.ancestry.ca/search/CardCatalog.aspx">Card Catalogue</a></li></ul></div></div></li><li><a id="tabDna" class="tabDna" href="http://dna.ancestry.ca">
-						DNA
-					</a></li><li><a id="tabColl" class="tabColl" href="http://community.ancestry.ca">
-						Collaborate
- <span></span></a><div class="listWrpr" id="tabCollListWrpr"><div class="innerListWrpr"><ul class="ddList"><li id="Hdr_Coll_RecentMemberActivity" class=""><a href="http://community.ancestry.ca/fullfeed.aspx">Recent Member Connect Activity</a></li><li id="Hdr_Coll_MessageBoards" class=""><a href="http://boards.ancestry.ca">Message Boards</a></li><li id="Hdr_Coll_WorldArchives" class=""><a href="http://community.ancestry.ca/awap">Ancestry World Archives Project</a></li><li id="Hdr_Coll_MemberDirectory" class=""><a href="http://community.ancestry.ca/directory/">Member Directory</a></li><li id="Hdr_Coll_PublicProfile" class=" lastLi "><a href="http://community.ancestry.ca/profile.aspx">Public Profile</a></li></ul></div></div></li><li><a id="tabLearn" class="tabLearn" href="http://www.ancestry.ca/cs/HelpAndAdviceCA">
-						Learning Centre
- <span></span></a><div class="listWrpr" id="tabLearnListWrpr"><div class="innerListWrpr"><ul class="ddList"><li id="Hdr_Lrn_GetStarted" class=""><a href="http://www.ancestry.ca/cs/Satellite?childpagename=CALearningCenter%2FLearning_C%2FPageDefault&amp;pagename=LearningWrapper&amp;cid=1265127735386">Get Started</a></li><li id="Hdr_Lrn_FamilyTrees" class=""><a href="http://www.ancestry.ca/cs/Satellite?childpagename=CALearningCenter%2FLearning_C%2FPageDefault&amp;pagename=LearningWrapper&amp;cid=1265127984275">Family Trees</a></li><li id="Hdr_Lrn_ExploringRecords" class=""><a href="http://www.ancestry.ca/cs/Satellite?childpagename=CALearningCenter%2FLearning_C%2FPageDefault&amp;pagename=LearningWrapper&amp;cid=1265128161531">Exploring the Records</a></li><li id="Hdr_Lrn_FamilyTips" class=" lastLi "><a href="http://www.ancestry.ca/cs/Satellite?childpagename=CALearningCenter%2FLearning_C%2FPageDefault&amp;pagename=LearningWrapper&amp;cid=1265128165497">Family History Tips</a></li></ul></div></div></li></ul><ul id="Hdr_Pills" class="secLinks textsml"><li id="responsiveSubMenu"><a href="#">More</a></li><li class="headerPill"><a id="tabShop" href="http://www.ancestry.ca/cs/apps/ca-products">Shop</a></li><li class="headerPillMarketing headerPillWWI"><a id="tabWWI" href="http://www.ancestry.ca/s62158/t31035/rd.ashx" title="WWI - 100 Years"><span class="headerPillText">WWI Promotion</span></a></li></ul></div><div class="fader"></div></div>
-</header><!--NAV-->
+<div class="navTemplates">
+    <script class="navTemplate" id="templateNew" type="text/html">New</script>
+	<script class="navTemplate" id="templateBadge" type="text/html"><span class="badge badgeColor1">{text}</span></script>
+	<script class="navTemplate" id="templateNotificationUsercardImage" type="text/html"><div class="userCardImg"><img class="navUserImage" src="{imageUrl}"></div></script>
+	<script class="navTemplate" id="templateNotificationUsercardIcon" type="text/html"><div class="userCardImg icon icon{icon}"></div></script>
+	<script class="navTemplate" id="templateNotificationTypeIcon" type="text/html"><span class="navNotificationTypeIcon icon {iconClasses}"></span></script>
+	<script class="navTemplate" id="templateEmphasizedButton" type="text/html"><a class="navLink navEmphasizedButton hide480" href="{url}">{text}</a></script>
+	<script class="navTemplate" id="templateEmphasizedMobileButton" type="text/html"><a class="calloutMenuTitle navEmphasizedTitle" href="{url}"><span class="ancBtn silver">{text}</span></a></script>
+	<script class="navTemplate" id="templateNotification" type="text/html"><li class="navListItem"><a class="{unread}" href="{url}" data-tracking-name="{tracking}">
+		<div class="userCard">
+			{image}
+			<div class="userCardContent">
+				<h6 class="userCardTitle"><span class="userCardTitleText">{title}</span> {badge}</h6>
+				<p class="userCardSubTitle noTopSpacing">{subtitle}</p>
+				<div class="userCardInfo">{meta}</div>
+			</div>
+		</div>
+	</a></li>
+	</script>
+</div>
 	</div>
 
 		
@@ -134,6 +281,7 @@ $(function(){var n={Get:function(n){var i=new RegExp(n+"=([^;]+)","i"),t=i.exec(
 				<li class="sideNavItem "><a href="http://www.ancestry.ca/cs/legal/CommunicationsFromAncestry">Communications from Ancestry.ca</a></li>
 				<li class="sideNavItem "><a href="http://www.ancestry.ca/cs/legal/AboutCookies">Cookies</a></li>
 				<li class="sideNavItem "><a href="http://www.ancestry.ca/cs/legal/AdditionalResources">Additional Resources</a></li>
+				<li class="sideNavItem "><a href="http://www.ancestry.ca/cs/legal/Phishing">Security Tips - Ancestry.ca</a></li>
 	</ul>
 	<footer class="conFooter">
 			<p>
@@ -154,19 +302,13 @@ $(function(){var n={Get:function(n){var i=new RegExp(n+"=([^;]+)","i"),t=i.exec(
 <!--[if lte IE 9]></div><![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--></div><!--<![endif]-->
 		
-		<script type="text/javascript">$(document).ready(function () {$('#sitesSelect').val($('#sitesSelect [ancSelected="true"]').val());});</script><link type="text/css" rel="stylesheet" href="http://c.mfcreative.com//SSS_FTB/1.1.132/CDN/css/v1.css">
-	<div id="FooterRegion"><!-- v1/5543/4105/LoggedOut/ Server: PRDSLVWSSSFTB02 TS: 12/11/2015 23:06:23 --><footer class="footer clearfix" id="footer" role="contentinfo"><div class="footerLinks clearfix"><ul class=""><li id="Ftr_TL_SupportCenter"><span class="footerLink"><a id="Ftr_TL_SupportCenter_Link" href="http://ancestryca.custhelp.com/">Support Centre</a></span></li><li id="Ftr_TL_AboutUs"><a class="footerLink" id="Ftr_TL_AboutUs_Link" href="http://www.ancestry.ca/about/default.aspx">About Us</a></li><li id="Ftr_TL_Affiliates"><a class="footerLink" id="Ftr_TL_Affiliates_Link" href="http://www.ancestry.ca/cs/sitemap-ca-en">Site Map</a></li></ul><div class="footerSites"><label for="footerSitesSelect">Visit our other sites:</label><select class="footerSitesSelect" onchange="window.location = this.value;" id="footerSitesSelect"><optgroup label="International"><option id="OS_US" value="http://www.ancestry.com/HomeRedirect.aspx?ref=5543">United States</option><option id="OS_UK" value="http://www.ancestry.co.uk/HomeRedirect.aspx?ref=5543">United Kingdom</option><option id="OS_CA_EN" value="http://www.ancestry.ca?lcid=4105" selected="selected" ancselected="true">Canada (English)</option><option id="OS_CA_FR" value="http://www.ancestry.ca?lcid=3084">Canada (Français)</option><option id="OS_AU" value="http://www.Ancestry.com.au">Australia</option><option id="OS_DE" value="http://www.Ancestry.de">Deutschland</option><option id="OS_IT" value="http://www.ancestry.it">Italia</option><option id="OS_FR" value="http://www.ancestry.fr">France</option><option id="OS_SE" value="http://www.ancestry.se">Sverige</option><option id="OS_MX" value="http://www.ancestry.mx">México</option></optgroup><optgroup label="Other Sites"><option id="OS_Corporate" value="http://corporate.ancestry.com">Ancestry.com Corporate</option><option id="OS_IECorporate" value="http://www.ancestryeurope.ie">Ancestry.ie Corporate</option><option id="OS_FTM" value="http://www.familytreemaker.com">FamilyTreeMaker.com</option><option id="OS_Fold3" value="http://www.fold3.com">Fold3.com</option><option id="OS_MyCanvas" value="http://www.mycanvas.com">MyCanvas.com</option><option id="OS_Newspapers" value="http://www.newspapers.com">Newspapers.com</option><option id="OS_Progen" value="http://www.progenealogists.com">Progenealogists.com</option><option id="OS_RootsWeb" value="http://www.rootsweb.com">RootsWeb.com</option></optgroup></select></div></div><div class="footerLegal"><span>© 2006-2015 Ancestry</span><span><a id="Ftr_LL_Privacy_Link" href="http://www.ancestry.ca/cs/legal/privacyphilosophy">Privacy</a></span><span><a id="Ftr_LL_Cookies_Link" href="http://www.ancestry.ca/cs/legal/aboutcookies">Cookies</a></span><span><sup class="badge badgeColor1">New</sup>&nbsp;<a id="Ftr_LL_TermsAndConditions_Link" href="http://www.ancestry.ca/cs/legal/termsandconditions">Terms and Conditions</a></span><span>Operated by Ancestry Information Operations Company</span></div></footer><script>
-		(function() {
-			if (document.cookie.indexOf("NEWSITEEXPERIENCE=true") !== -1) {
-				document.getElementById('FooterRegion').className += ' footer2';
-			}
-		}());
-	</script></div>
+		<link type="text/css" rel="stylesheet" href="https://c.mfcreative.com//SSS_FTB/1.1.163/CDN/css/v1.css">
+	<div id="FooterRegion"><!-- v1/5543/4105/LoggedOut/ Server: PRDSLVWSSSFTB02 TS: 06/09/2016 06:06:18 --><footer class="footer clearfix" id="footer" role="contentinfo"><div class="footerLinks clearfix"><ul class=""><li id="Ftr_TL_SupportCenter"><span class="footerLink"><a id="Ftr_TL_SupportCenter_Link" href="http://ancestryca.custhelp.com/">Support Centre</a></span></li><li id="Ftr_TL_AboutUs"><a class="footerLink" id="Ftr_TL_AboutUs_Link" href="http://www.ancestry.ca/about/default.aspx">About Us</a></li><li id="Ftr_TL_Affiliates"><a class="footerLink" id="Ftr_TL_Affiliates_Link" href="http://www.ancestry.ca/cs/sitemap-ca-en">Site Map</a></li></ul><div class="footerSites"><label for="footerSitesSelect">Visit our other sites:</label><select class="footerSitesSelect" onchange="window.location = this.value;" id="footerSitesSelect"><optgroup label="International"><option id="OS_US" value="http://www.ancestry.com/HomeRedirect.aspx?ref=5543">United States</option><option id="OS_UK" value="http://www.ancestry.co.uk/HomeRedirect.aspx?ref=5543">United Kingdom</option><option id="OS_CA_EN" value="http://www.ancestry.ca?lcid=4105" selected="selected">Canada (English)</option><option id="OS_CA_FR" value="http://www.ancestry.ca?lcid=3084">Canada (Français)</option><option id="OS_AU" value="http://www.Ancestry.com.au">Australia</option><option id="OS_DE" value="http://www.ancestry.de">Deutschland</option><option id="OS_IT" value="http://www.ancestry.it">Italia</option><option id="OS_FR" value="http://www.ancestry.fr">France</option><option id="OS_SE" value="http://www.ancestry.se">Sverige</option><option id="OS_MX" value="http://www.ancestry.mx">México</option></optgroup><optgroup label="Other Sites"><option id="OS_Corporate" value="http://corporate.ancestry.com">Ancestry.com Corporate</option><option id="OS_IECorporate" value="http://www.ancestryeurope.ie">Ancestry.ie Corporate</option><option id="OS_FTM" value="http://www.familytreemaker.com">FamilyTreeMaker.com</option><option id="OS_Fold3" value="http://www.fold3.com">Fold3.com</option><option id="OS_MyCanvas" value="http://www.mycanvas.com">MyCanvas.com</option><option id="OS_Newspapers" value="http://www.newspapers.com">Newspapers.com</option><option id="OS_Progen" value="http://www.progenealogists.com">Progenealogists.com</option><option id="OS_RootsWeb" value="http://www.rootsweb.com">RootsWeb.com</option></optgroup></select></div></div><div class="footerLegal"><span>© 2006-2016 Ancestry</span><span><a id="Ftr_LL_Privacy_Link" href="http://www.ancestry.ca/cs/legal/privacyphilosophy">Privacy</a></span><span><a id="Ftr_LL_Cookies_Link" href="http://www.ancestry.ca/cs/legal/aboutcookies">Cookies</a></span><span><a id="Ftr_LL_TermsAndConditions_Link" href="http://www.ancestry.ca/cs/legal/termsandconditions">Terms and Conditions</a></span><span>Operated by Ancestry Information Operations Unlimited Company</span></div></footer></div>
 
 
 	<script type="text/javascript">
 		var utag_data = {
-		  page_name : "ancestry ca : general sites : legal : privacyphilosophy", // page_name (eVar41)
+		  page_name : "ancestry ca : general sites : legal : PrivacyPhilosophy", // page_name (eVar41)
 		  page_name_tier2 : "", // page_name_tier2 (eVar42/prop42)
 		  page_name_tier3 : "", // page_name_tier3 (eVar43/prop42)
 		  product_type : "0:", // product_type (subscription type - prop10/eVar15)
@@ -188,7 +330,7 @@ $(function(){var n={Get:function(n){var i=new RegExp(n+"=([^;]+)","i"),t=i.exec(
 	</script>
 
 		
-		<script src="http://c.mfcreative.com/cms/1.1.496-450/scripts/common/parseUri.js"></script>
+		<script src="http://c.mfcreative.com/cms/1.1.549-500/scripts/common/parseUri.js"></script>
 			<script src="http://c.mfcreative.com/js/v3/modal.js"></script>
 			<script>
 				// THIS CODE RUNS THE ACCORDION SECTIONS (**PUT THE FOLLOWING BLOCK ONLY ON PAGES WITH ACCORDION SECTIONS**)
