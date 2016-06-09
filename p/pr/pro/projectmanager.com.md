@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the projectmanager.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927043916id_/https%3A//www.projectmanager.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectmanager.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609195619id_/https%3A//www.projectmanager.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ProjectManager.com
 
-[ProjectManager.com](https://web.archive.org/) Ltd is committed to protecting the privacy of the personal information of individuals and companies we deal with.
+[ProjectManager.com](https://www.projectmanager.com/) Ltd is committed to protecting the privacy of the personal information of individuals and companies we deal with.
 
 ### Information gathered on this website
 
-When you browse, read or download information from our website our system may log these movements. These website logs are not personally identifiable and are purely statistical. The statistical information we collect comes from monitoring the website using 'cookies', in order to identify user trends which assist us in improving the service to you.
+When you browse, read or download information from our website our system may log these movements. These website logs are not personally identifiable and are purely statistical. The statistical information we collect comes from monitoring the website using ‘cookies’, in order to identify user trends which assist us in improving the service to you.
 
 ### How we use your personal information
 
@@ -22,7 +22,7 @@ We use strict security procedures and technology to protect any personal informa
 
 If you have registered login access to secure parts of this service, then your account information will be password protected. We recommend that you do not share your password with anyone. To further protect your personal information, your login time will automatically expire after a specified period of inactivity. We will permanently delete personal information that is no longer required by us.
 
-Please note that email correspondence is not encrypted and cannot be considered a secure means of transmitting sensitive information. You also should be aware of the limitations of security, authentication, encryption, and privacy measures used in connection with the internet in general and that any information you transmit across the internet has a remote chance of being damaged, corrupted, "sniffed" and/or accessed by another person without permission, however unlikely that may be.
+Please note that email correspondence is not encrypted and cannot be considered a secure means of transmitting sensitive information. You also should be aware of the limitations of security, authentication, encryption, and privacy measures used in connection with the internet in general and that any information you transmit across the internet has a remote chance of being damaged, corrupted, “sniffed” and/or accessed by another person without permission, however unlikely that may be.
 
 ### Accessing your personal information
 
