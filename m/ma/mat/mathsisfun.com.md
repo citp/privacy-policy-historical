@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mathsisfun.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222153437id_/http%3A//www.mathsisfun.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathsisfun.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609065827id_/http%3A//www.mathsisfun.com/Privacy.htm) for the most accurate reproduction.*
 
 # Maths is Fun - Privacy Statement
 
-Also Read: [Internet Safety Guide](https://web.archive.org/web/20151222153437id_/http%3A//www.mathsisfun.com/internet-safety.html)
+Also Read: [Internet Safety Guide](https://web.archive.org/web/20160609065827id_/http%3A//www.mathsisfun.com/internet-safety.html)
 
 ### Overview 
 
-Mathsisfun.com does not have memberships or subscriptions, and **does not keep any personally identifiable information** (except what you say when you [contact us](https://web.archive.org/web/20151222153437id_/http%3A//www.mathsisfun.com/contact.php)).
+Mathsisfun.com does not have memberships or subscriptions, and **does not keep any personally identifiable information** (except what you say when you [contact us](https://web.archive.org/web/20160609065827id_/http%3A//www.mathsisfun.com/contact.php)).
 
 We use "cookies" to store some settings. Advertisers may also use information about you that is out of our control. 
 
@@ -25,7 +25,7 @@ _This privacy statement discloses the privacy practices for mathsisfun.com, and 
 
 
   
-**_If you feel that we are not abiding by our privacy policy, please[contact us](https://web.archive.org/web/20151222153437id_/http%3A//www.mathsisfun.com/contact.php)_**
+**_If you feel that we are not abiding by our privacy policy, please[contact us](https://web.archive.org/web/20160609065827id_/http%3A//www.mathsisfun.com/contact.php)_**
 
 ## Information Collection and Use 
 
