@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelgirls.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122002254id_/http%3A//www.travelgirls.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelgirls.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609120813id_/http%3A//www.travelgirls.com/page/privacy-policy) for the most accurate reproduction.*
 
 # travelgirls.com-Privacy policy
 
