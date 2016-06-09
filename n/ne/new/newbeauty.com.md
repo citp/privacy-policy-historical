@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbeauty.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222134554id_/http%3A//www.sandow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbeauty.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609081829id_/http%3A//www.sandow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SANDOW | Brands Powered by Innovation.
 
@@ -107,7 +107,7 @@ None of the SANDOW Properties are directed at children, and SANDOW does not sell
 
 ### 9\. CHOICE/OPT OUT
 
-SANDOW gives Users the ability to opt-out of receiving future communications. To opt-out of email communications, follow the “un-subscribe” links included at the bottom of email communications or send an email to [optout@sandow.com](https://web.archive.org/web/20151222134554id_/http%3A//www.sandow.com/optout@sandow.com "optout@sandow.com").
+SANDOW gives Users the ability to opt-out of receiving future communications. To opt-out of email communications, follow the “un-subscribe” links included at the bottom of email communications or send an email to [optout@sandow.com](mailto:optout@sandow.com).
 
 ### 10\. NOTIFICATION OF CHANGES
 
