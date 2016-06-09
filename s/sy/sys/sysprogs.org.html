@@ -1,0 +1,375 @@
+<!--The following is the downloaded HTML source of the sysprogs.org privacy policy that was archived on 2016-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609170854id_/http%3A//sysprogs.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-	transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript">
+	function determineBrowser() {
+	
+	  var ua, s, i;
+	
+	  this.isIE    = false;  // Internet Explorer
+	  this.isOP    = false;  // Opera
+	  this.isNS    = false;  // Netscape
+	  this.version = null;
+	
+	  ua = navigator.userAgent;
+	
+	  s = "Opera";
+	  if ((i = ua.indexOf(s)) >= 0) {
+	    this.isOP = true;
+	    this.version = parseFloat(ua.substr(i + s.length));
+	    return;
+	  }
+	
+	  s = "Netscape6/";
+	  if ((i = ua.indexOf(s)) >= 0) {
+	    this.isNS = true;
+	    this.version = parseFloat(ua.substr(i + s.length));
+	    return;
+	  }
+	
+	  // Treat any other "Gecko" browser as Netscape 6.1.
+	
+	  s = "Gecko";
+	  if ((i = ua.indexOf(s)) >= 0) {
+	    this.isNS = true;
+	    this.version = 6.1;
+	    return;
+	  }
+	
+	  s = "MSIE";
+	  if ((i = ua.indexOf(s))) {
+	    this.isIE = true;
+	    this.version = parseFloat(ua.substr(i + s.length));
+	    return;
+	  }
+	}
+	
+	function addClassName(element, element_class) {
+		element.className += " " + element_class;
+	}
+	
+	function removeClassName(element, element_class) {
+	
+	  var i, curList, newList;
+	
+	  if (element.className == null)
+	    return;
+	
+	  newList = new Array();
+	  curList = element.className.split(" ");
+	  for (i = 0; i < curList.length; i++)
+	    if (curList[i] != element_class)
+	      newList.push(curList[i]);
+	  element.className = newList.join(" ");
+	}
+	
+	var browser = new determineBrowser();
+	
+	function buttonMousedown(event, menuId) {
+	  var button;
+	
+	  if (browser.isIE)
+	    button = window.event.srcElement;
+	  else
+	    button = event.currentTarget;
+	
+	  button.blur();
+	
+	  if (button.menu == null) {
+	    button.menu = document.getElementById(menuId);
+	  }
+	
+	  if (button.menu.style.display == "") {
+	    button.menu.style.display = "none";
+		addClassName(button, "collapsed");
+	  }
+	  else {
+	    button.menu.style.display = "";
+		removeClassName(button, "collapsed");
+	  }
+	  return false;
+	}
+</script>
+<link rel="apple-touch-icon" sizes="57x57" href="http://sysprogs.com/apple-touch-icon-57x57.png?v=yyy2JjJkq9">
+<link rel="apple-touch-icon" sizes="60x60" href="http://sysprogs.com/apple-touch-icon-60x60.png?v=yyy2JjJkq9">
+<link rel="apple-touch-icon" sizes="72x72" href="http://sysprogs.com/apple-touch-icon-72x72.png?v=yyy2JjJkq9">
+<link rel="apple-touch-icon" sizes="76x76" href="http://sysprogs.com/apple-touch-icon-76x76.png?v=yyy2JjJkq9">
+<link rel="apple-touch-icon" sizes="114x114" href="http://sysprogs.com/apple-touch-icon-114x114.png?v=yyy2JjJkq9">
+<link rel="apple-touch-icon" sizes="120x120" href="http://sysprogs.com/apple-touch-icon-120x120.png?v=yyy2JjJkq9">
+<link rel="apple-touch-icon" sizes="144x144" href="http://sysprogs.com/apple-touch-icon-144x144.png?v=yyy2JjJkq9">
+<link rel="apple-touch-icon" sizes="152x152" href="http://sysprogs.com/apple-touch-icon-152x152.png?v=yyy2JjJkq9">
+<link rel="apple-touch-icon" sizes="180x180" href="http://sysprogs.com/apple-touch-icon-180x180.png?v=yyy2JjJkq9">
+<link rel="icon" type="image/png" href="http://sysprogs.com/favicon-32x32.png?v=yyy2JjJkq9" sizes="32x32">
+<link rel="icon" type="image/png" href="http://sysprogs.com/favicon-194x194.png?v=yyy2JjJkq9" sizes="194x194">
+<link rel="icon" type="image/png" href="http://sysprogs.com/favicon-96x96.png?v=yyy2JjJkq9" sizes="96x96">
+<link rel="icon" type="image/png" href="http://sysprogs.com/android-chrome-192x192.png?v=yyy2JjJkq9" sizes="192x192">
+<link rel="icon" type="image/png" href="http://sysprogs.com/favicon-16x16.png?v=yyy2JjJkq9" sizes="16x16">
+<link rel="manifest" href="http://sysprogs.com/manifest.json?v=yyy2JjJkq9">
+<link rel="shortcut icon" href="http://sysprogs.com/favicon.ico?v=yyy2JjJkq9">
+<meta name="apple-mobile-web-app-title" content="Sysprogs">
+<meta name="application-name" content="Sysprogs">
+<meta name="msapplication-TileColor" content="#ffc40d">
+<meta name="msapplication-TileImage" content="http://sysprogs.com/mstile-144x144.png?v=yyy2JjJkq9">
+<meta name="theme-color" content="#ffffff">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://sysprogs.com/css/style.css">
+
+
+
+
+<title>Sysprogs - Privacy Policy</title>
+</head>
+
+<body>
+
+	<div id="page">
+				<header id="masthead" class="site-header clearfix">
+	<div id="header-text-nav-container" class="clearfix">
+		<div class="inner-wrap">
+			<div id="header-text-nav-wrap" class="clearfix">
+				<div id="header-left-section">						
+				</div><!-- #header-left-section -->
+				<div id="header-right-section">
+					<div id="header-logo-image">
+						<a href="http://sysprogs.com" title="Sysprogs Home" rel="home"><img src="http://sysprogs.com/img/logo_b&amp;w.png" alt="Sysprogs"></a>
+					</div><!-- #header-logo-image -->
+				</div><!-- #header-right-section -->
+		   </div><!-- #header-text-nav-wrap -->
+		</div><!-- .inner-wrap -->
+		<nav id="site-navigation" class="main-navigation clearfix" role="navigation">
+	<div class="inner-wrap clearfix">
+	   <h4 class="menu-toggle"></h4>
+	   <div class="menu-primary-container">
+			<ul id="menu-tutorials" class="menu">
+				<li class="menu-item menu-item-has-children"><a href="http://sysprogs.com/products">Products</a>
+					<ul class="sub-menu">
+						<li class="menu-item"><a href="http://visualgdb.com">VisualGDB</a></li>
+						<li class="menu-item"><a href="http://sysprogs.com/VisualKernel">VisualKernel</a></li>
+						<li class="menu-item"><a href="http://smartty.sysprogs.com">SmarTTY</a></li>
+						<li class="menu-item"><a href="http://gnutoolchains.com">GNU Toolchains</a></li>
+						<li class="menu-item"><a href="http://wincdemu.sysprogs.org">WinCDEmu</a></li>
+						<li class="menu-item"><a href="http://winflashtool.sysprogs.com">WinFlashTool</a></li>
+						<li class="menu-item"><a href="http://sysprogs.com/legacy/">Legacy Products</a></li>
+					</ul>
+				</li>
+				<li class="menu-item menu-item-has-children"><a href="http://sysprogs.com/downloads">Downloads</a>
+					<ul class="sub-menu">
+						<li class="menu-item"><a href="http://visualgdb.com/download">VisualGDB</a></li>
+						<li class="menu-item"><a href="http://sysprogs.com/VisualKernel/download">VisualKernel</a></li>
+						<li class="menu-item"><a href="http://smartty.sysprogs.com/download">SmarTTY</a></li>
+						<li class="menu-item"><a href="http://wincdemu.sysprogs.org/download">WinCDEmu</a></li>
+						<li class="menu-item"><a href="http://gnutoolchains.com/download">GNU Toolchains</a></li>
+						<li class="menu-item"><a href="http://winflashtool.sysprogs.com/download">WinFlashTool</a></li>
+					</ul>
+				</li>
+				<li class="menu-item menu-item-has-children"><a href="http://sysprogs.com/tutorials/">Tutorials</a>
+					<ul class="sub-menu">
+						<li class="menu-item"><a href="http://visualgdb.com/tutorials/">VisualGDB</a></li>
+						<li class="menu-item"><a href="http://sysprogs.com/VisualKernel/tutorials/">VisualKernel</a></li>
+						<li class="menu-item"><a href="http://wincdemu.sysprogs.org/tutorials/">WinCDEmu</a></li>
+					</ul>
+				</li>
+				<li class="menu-item menu-item-has-children"><a href="http://sysprogs.com/support">Support</a>
+					<ul class="sub-menu">
+						<li class="menu-item"><a href="http://forum.sysprogs.com">Forum</a></li>
+						<li class="menu-item"><a href="http://sysprogs.com/support">Support</a></li>
+						<li class="menu-item"><a href="http://visualgdb.com/KB">Knowledge Base</a></li>
+					</ul>
+				</li>
+				<li class="menu-item menu-item-has-children"><a href="http://sysprogs.com/contact">Contact</a>
+					<ul class="sub-menu">
+						<li class="menu-item"><a href="http://sysprogs.com/contact">Contact</a></li>
+						<li class="menu-item"><a href="http://sysprogs.com/blog">Blog</a></li>
+						<li class="menu-item"><a href="http://sysprogs.com/about">About Us</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</nav>
+<script type="text/javascript" src="http://sysprogs.com/layout/navigation.js" async=""></script>	</div><!-- #header-text-nav-container -->
+</header>		
+		<div id="main" class="clearfix">	
+ 
+		<div class="inner-wrap clearfix">
+			<div id="content">
+
+
+								<div class="nav_2">
+					<ul>
+																<li>
+						<h3 onmousedown="buttonMousedown(event,'contact_smenu');">Contact</h3>
+						<ul id="contact_smenu">
+							<li><a href="/contact">Contact</a></li>
+							<li><a href="/about">About Us</a></li>
+							<li><a href="/services">Services</a></li>
+						</ul>
+					</li>										<li>
+						<h3 onmousedown="buttonMousedown(event,'press_smenu');" style="padding-left:10px;">Press Releases</h3>
+						<ul id="press_smenu">
+							<li><a href="http://sysprogs.com/press/launch">VisualGDB Launched</a></li>
+						</ul>
+					</li>										<li>
+						<h3 onmousedown="buttonMousedown(event,'legal_smenu');">Legal</h3>
+						<ul id="legal_smenu">
+							<li><a href="http://sysprogs.com/disclaimer">Terms of Use</a></li>
+							<li><a href="http://sysprogs.com/copyright">Copyright Notice</a></li>
+							<li><a href="http://sysprogs.com/privacy">Privacy Policy</a></li>
+						</ul>
+					</li>
+					</ul>
+				</div>
+								<div class="article_content">
+					
+
+<h1 id="title">Privacy and Cookie Policy</h1>
+				<p>Last revised: May 05, 2016</p>
+				<h3>What we collect</h3>
+				<p>We may collect information about the use of this website. We use this information to improve our website and services. This information is not personally linked to you.</p>
+				<p>We may also collect your contact data and payment data. This information is used to handle your orders and provide support.</p>
+				<h3>Sharing information</h3>
+				<p>We may disclose your personal information to appropriate third parties. Such third parties include the order and payment processing companies we use and to comply with legal requirements. We will not sell or rent your personal information to third parties.</p>
+				<h3>Security</h3>
+				<p>We are commited to keeping your information secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
+				<h3>Links to other websites</h3>
+				<p>This website may contain links to other websites. We have no control over the content and privacy policies of other websites. You are responsible for checking the privacy policy on these websites.</p>
+				<h3>Google Analytics</h3>
+				<p>This website uses Google Analytics, a web analytics service 
+				provided by Google, Inc. (“Google”). Google Analytics uses 
+				“cookies”, which are text files placed on your computer, to help 
+				the website analyze how users use the site. The information 
+				generated by the cookie about your use of the website will be 
+				transmitted to and stored by Google on servers in the United 
+				States.</p>
+				<p>In case IP-anonymisation is activated on this website, your 
+				IP address will be truncated within the area of Member States of 
+				the European Union or other parties to the Agreement on the 
+				European Economic Area. Only in exceptional cases the whole IP 
+				address will be first transfered to a Google server in the USA 
+				and truncated there. The IP-anonymisation is active on this 
+				website.</p>
+				<p>Google will use this information on behalf of the operator of 
+				this website for the purpose of evaluating your use of the 
+				website, compiling reports on website activity for website 
+				operators and providing them other services relating to website 
+				activity and internet usage.</p>
+				<p>The IP-address, that your Browser conveys within the scope of 
+				Google Analytics, will not be associated with any other data 
+				held by Google. You may refuse the use of cookies by selecting 
+				the appropriate settings on your browser, however please note 
+				that if you do this you may not be able to use the full 
+				functionality of this website. You can also opt-out from being 
+				tracked by Google Analytics with effect for the future by 
+				downloading and installing Google Analytics Opt-out Browser 
+				Addon for your current web browser:
+				<a href="http://tools.google.com/dlpage/gaoptout?hl=en">http://tools.google.com/dlpage/gaoptout?hl=en</a>.</p>
+				<h3>Google Adsense</h3>
+				<p>This website uses Google Adsense, a web advertisement service provided by Google, Inc. ("Google"), to serve ads on portions of the website. Google Adsense uses cookies to serve ads based on your prior visits to the website. Google's use of the DoubleClick cookie enables it and its partners to serve ads based on your visits to our website and/or other sites on the Internet.</p>
+				<p>You can opt out of the use of the DoubleClick cookie for interest-based advertising by visiting <a href="http://www.google.com/ads/preferences/">Ads Settings</a>.</p>
+				<p>Other third-party vendors and ad networks may use cookies to serve ads on our website.</p>
+				<p>You can opt out of some third-party vendor's use of cookies for interest-based advertising by visiting <a href="http://www.aboutads.info/">aboutads.info</a>.</p>
+				<p>You can read more about Google's use of data from their <a href="http://www.google.com/intl/en/policies/privacy/partners/">partner site privacy policy</a>.</p>
+				<h3>Changes to this policy</h3>
+				<p>We may revise this policy from time to time. If we make material changes, then we change the „last revised“ date above. You should check periodically for changes.</p>
+					
+
+							<style type="text/css">
+.share_links
+{
+	width:60%;
+	clear: both;
+	margin-left:auto;
+	margin-right:auto;
+	font: 100% arial;
+}
+
+.article_content .share_links { width: 70%; } 
+.post .share_links { width: 80%; } 
+
+.share_link
+{
+	width:120px;
+	float:left;
+	vertical-align:top;
+	padding: 1.6%;
+}
+
+@media screen and (max-width:1100px) {
+	.share_links { width: 80%; }
+}
+
+@media screen and (max-width:1200px) {
+	.post .share_links, .article_content .share_links { width: 90%; } 
+}
+
+@media screen and (max-width:1100px) {
+	.post .share_links, .article_content .share_links { width: 100%; } 
+}
+
+@media screen and (max-width:900px) {
+	.share_links { width: 100%; }
+	.share_link { padding: 3%; }
+}
+
+.share_link.share_link_twitter
+{
+	width: 180px;
+}
+
+.share_link_googleplus { width: 70px; }
+
+</style>
+<div class="inner-wrap clearfix">
+<div class="share_links clearfix">
+<div class="share_link"><script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right" data-showzero="true"></script></div>
+<div class="share_link share_link_twitter"><a href="https://twitter.com/sysprogs" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @sysprogs</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+<div class="share_link"><!-- Include the JavaScript SDK on your page once, ideally right after the opening <body> tag. -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Place the code for your plugin wherever you want the plugin to appear on your page. -->
+<div class="fb-like" data-send="false" data-layout="button_count" data-width="120" data-show-faces="false"></div></div>
+<div class="share_link share_link_googleplus"><!-- Place this tag where you want the +1 button to render. -->
+<div class="g-plusone" data-size="medium" annotation="bubble" data-width="120"></div>
+
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></div>
+</div>
+</div>						</div><!-- .article_content -->
+					<div class="spacer"></div>
+				</div><!-- #content -->
+						</div><!-- .inner-wrap -->
+					</div><!-- #main -->
+		<footer id="colophon" class="clearfix">
+	<div class="footer-socket-wrapper clearfix">
+		<div class="inner-wrap">
+		<div class="footer-socket-area">
+			<div class="footer-socket-right-section"><a href="http://sysprogs.com/disclaimer">Terms of Use</a><span> | </span><a href="http://sysprogs.com/copyright">Copyright</a><span> | </span><a href="http://sysprogs.com/privacy">Privacy and Cookie Policy</a></div>
+			<div class="footer-socket-left-section">
+				<div class="copyright"><span>© 2012-2016 Sysprogs OÜ. All rights reserved.</span></div>                  
+			</div>
+		</div>
+		</div>
+	</div>
+</footer>
+
+	</div><!-- #page -->
+
+</body></html>
