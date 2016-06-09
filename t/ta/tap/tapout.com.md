@@ -1,57 +1,107 @@
-> *The following text is extracted and transformed from the tapout.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215181722id_/http%3A//www.tapout.com/index.cfm%3Ffa%3DAboutUs.privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapout.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609223026id_/http%3A//www.tapout.com/index.php/useful-guides/privacy-policy) for the most accurate reproduction.*
 
-# TapouT - An Expression of Combat Known Worldwide
+# Tapout :: Privacy Policy
 
-Tapout, LLC (“Tapout”) is committed to protecting the privacy of our Website visitors. This Privacy Policy details the measures taken by Tapout to protect your privacy in connection with your use of www.tapout.com and other sites owned or operated by Tapout (including, but not limited to, www.inyaface.com) (“Site”). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov).  
-This Privacy Policy is incorporated into and is subject to the [Terms of Use.](http://www.tapout.com/index.cfm?fa=AboutUs.privacyPolicy) If you do not agree to the terms of this Privacy Policy or the Terms of Use, please do not provide Tapout with any information and do not use the Site.   
-Your continued use of the Site after the Privacy Policy has been modified will signify your acceptance of the changes for information gathered after the date of the change. Please note that this Privacy Policy applies only to our online collection and use of information and does not apply to any information that you may provide to us by other means, such as via mail or telephone and does not apply to DMCA notices and counternotices.  
-**Your California Privacy Rights**
+EFFECTIVE TIME: March, 2016.
 
-Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed personally identifiable information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a Privacy Policy that gives either an opt-out or opt-in choice for use of your personally identifiable information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. 
+Tapout Online Store (“we”) operates the web site located at http://www.tapout.com (the “Web Site”). We recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site.
 
-Tapout has opted for the alternative option and therefore it has a comprehensive Privacy Policy and provides you with details on how you may opt-out or opt-in to the use of your personally identifiable information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your personally identifiable information for marketing purposes during the preceding year. If you are a California resident and request information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail):
+PLEASE READ THIS PRIVACY POLICY CAREFULLY, AND IF YOU HAVE ANY QUESTIONS, PLEASE FEEL FREE TO CONTACT US. BY VISITING THE WEB SITE, YOU CONSENT TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION AS OUTLINED IN THE PRIVACY POLICY.
 
-Tapout, LLC 21800 Barton Road Suite 105 , Grand Terrace, CA 92313
+## When do we collect information?
 
-**Overview**
+We may collect information about you anytime you interact with us such as when you (i) access or browse the Web Site, (ii) order products or services through the Web Site, (iii) communicate with us either by e-mail, over the telephone or in any other manner, (iv) elect to participate in any of our product promotions, and (v) request information about products and services.
 
-This policy statement discloses our privacy practices including the notification of: · Personally identifiable information (“PII”) collected through our Site;   
-· Intended usage of this PII;   
-· Choices available regarding opt-in/opt-out, data collection, use and distribution of the information;  
-· Security measures to protect the loss or misuse of information under Tapout's control; and  
-· How to maintain the accuracy of your information. The Details
+## What information do we collect? 
 
-In general, you may visit our Site and access information while not revealing any individual user information other than Technology Related Information (defined below). If you upload or download content to/from this Site, or e-mail us, such content will be governed by the Terms of Use, any other terms or conditions on the upload/download pages and, if applicable, such content owner’s terms and conditions. You may be required to register to use portions of the Site. The types of individual user information collected in the registration process may include your name, e-mail address, date of birth, website name, website URL and other PII and other information requested or volunteered by you. Tapout collects PII when you register with Tapout, when you visit Site pages and when you deliver communications or download/upload communications to/from the Site. Tapout may combine information about you that we have with information we obtain from clients, business associates or otherwise. Without limitation, information collected, including PII, may be used by Tapout for internal research purposes, marketing, promotions and public relations, subject to the terms of our Privacy Policy. Tapout will not disclose, transfer, sell or otherwise communicate your PII to any third party, other than Tapout’s parent, subsidiaries and affiliates, and each of (i) their employees, vendors and/or contractors, (ii) owners or licensors of content accessed on the Site; and/or (iii) their clients, and/or their client’s clients, (“Disclosed Parties”) in each case subject to Tapout’s Privacy Policy, unless you give Tapout permission to do so, except as otherwise set forth in this Privacy Policy. Without limiting the generality of the foregoing, Tapout will share PII with its clients and with other companies that have partnered with Tapout or its clients, including, without limitation, parties that led you to the Site through a communication or other means employed by or on behalf of such party (each, a "Disclosed Party"). However, when you register, Tapout will provide you the opportunity to opt-out from having your PII disclosed to third parties for direct marketing purposes other than those of Tapout itself. You can also opt-out of Tapout’s use of you PII for its own direct marketing purposes as explained under the “Consent/Opt-out” section below. Additionally, you agree that Tapout may disclose any information you provide if required to do so by law or pursuant to a request by law enforcement or if we have a good faith belief that disclosure is necessary to (i) comply with the law or with the legal process; (ii) protect and defend the rights or property of Tapout or third parties; or (iii) act in an emergency to protect someone's safety or legal rights (“Mandatory Disclosures”). Further, as we develop our business, we may buy or sell assets or change our name or form of entity, and, depending upon the transaction, your personal information may be one of the transferred assets; provided, however, we will not sell or transfer PII except subject to the terms of our Privacy Policy. For instance, in the event that Tapout is acquired by another company, your PII may be part of the assets transferred to the acquiring party.
+Information we collect is generally of two types—personally identifiable information and non-personally identifiable information.
 
-Tapout will notify you before PII about you becomes subject to a different privacy policy. The collected information may be provided in the aggregate to other third parties not disclosed above, including potential business partners and advertisers, but this information is not linked to any PII before it is disclosed unless Tapout has obtained your consent. When you use co-branded services you are giving us permission to pass any personally identifiable information you provide in the context of our co-branding and marketing relationship, back to our co-branding partner. Their use of your information is subject to their own privacy policies.
+Personally identifiable information comprises any information that can help us identify or locate an individual, including, without limitation, an individual’s name, address, e-mail address, telephone number and credit card number.
 
-To help administer our Site and provide a positive experience while visiting our Site, Tapout does collect technology-related information. “Technology-Related Information” may include, but is not limited to, the following: source IP address, domain name, date and time visited and visited pages. A "cookie" is a small line of text that is stored with your Web browser for record-keeping purposes and to help us provide better service to you. Your browser has options to accept, reject or provide you with notice when a cookie is sent. We use cookies for many purposes such as to save your password so you don't have to re-enter it each time you visit our site. We also use cookies to deliver content (which may include third party advertisements) specific to your interests. Tapout may set and access Tapout “cookies” and other technological tools on your computer. Tapout may allow other companies that show advertisements on some of our pages and the Disclosed Parties set and access their cookies on your computer. 
+Non-personally identifiable information comprises information that does not by itself identify an individual. This information generally includes anonymous information about an individual’s use of the Website that includes, among other things, information concerning date and time of visit, the pages of the Website visited, path through the Website, IP address, the type of browser and operating system used.
 
-Tapout has no control over the information collected from or about you by any third party after you have left the Site. By clicking on links to other websites, advertisers and other third parties, you are leaving the Site. Once you have left the Site, Tapout does not control the data collection and privacy practices, or other activities, of any third party linked to or from this Site and Tapout assumes no liability and is not responsible for any practices of such third party locations. Keep in mind that it is always possible that third parties may unlawfully intercept or access transmission or privacy communications and Tapout assumes no liability and is not responsible for any such practices by third parties.  
-**Consent/Opt-Out**
+## What do we use your information for? 
 
-Tapout may consider requests from unrelated third parties (i.e., other than the Disclosed Parties) to contact you, but we will not give that third party any PII unless Tapout has obtained your consent. You give this consent by failing to “opt-out” to having your information shared for direct marketing purposes when you register. Additionally, Tapout may itself send you information such as newsletters and information about media content, promotional events, marketing events and opportunities to participate in research studies and promotional activities, which may include references therein to third party products and services. You may also opt-out of these solicitations when you register. Alternatively, if you would like to exercise your right under the CAN SPAM Act to not receive future e-mail correspondence from us, except with respect to your transactions (including use of our Site) or communications with us regarding Mandatory Disclosures or as otherwise required by law, you may do so by using a link provided at the bottom of such communications. You may review, change or delete any information you submitted to Tapout by going to the registration page at any time. You must include your name and password, and a description of the information you would like to change. Alternatively, you can send mail to the following postal address: Tapout LLC, 21800 Barton Road., Ste 105, Grand Terrace CA 92313 (Attn: Privacy).  
-**Data Security**
+Any of the information we collect from you may be used in one of the following ways: 
 
-Tapout endeavors to ensure the commercially reasonable protection of user’s PII. We have implemented security measures to protect PII collected on our Site against loss, misuse or alteration. However, the Internet is an open system and technology and human operators are not infallible. Accordingly, we cannot and do not guarantee that the individual user information you have transmitted, including PII, will not be intercepted by others and/or decrypted or accidentally disclosed. We cannot ensure or warrant the security of any information transmitted to us over the Internet, and we accept no liability for any unintentional disclosure. In the unfortunate event that your “personal information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we will notify you by e-mail or by posting a notice to your user account if you have one (at Tapout’s sole and absolute discretion) in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.  
-**Changes to the Privacy Policy**
+  * **To personalize your experience**  
+(your information helps us to better respond to your individual needs)
 
-As a user of the Site, please understand that our Privacy Policy may change from time to time. You should check the Privacy Policy and Terms of Use each time you visit the Site as the use of the Site constitutes acceptance of the then current Privacy Policy and Terms of Use. If we decide to make any material changes, we will post these changes on the Site. If, at any point, we decide to use PII in a manner different than what was stated at the time it was collected, we will notify users of this change by email. Users will have a choice as to whether or not we use their information in this different manner. Tapout will use information in accordance with the privacy policy under which the information was collected unless you agree otherwise.  
-A Special Note about Children, Children’s Privacy and Our Compliance with the Children’s Online Privacy Protection Act In compliance with the Children’s Online Privacy Protection Act (“COPPA”), we are a general audience site and do not intend to collect any PII from children under thirteen (13) years of age, unless we believe such collection to be permitted by law. Our Site targets an audience that is eighteen (18) years of age or older and some content may not be appropriate for all ages. Parental supervision is recommended. If you are the parent or guardian of a child under thirteen (13) and believe that he or she has disclosed PII to us, please contact us at the following e-mail address: customerservice@tapout.com. Upon request, the parent or guardian of a child under thirteen (13) may review and request the deletion of such child’s PII, as well as refuse to permit the further collection or use of such PII.  
-Questions
+  * **To improve the Web Site**  
+(we continually strive to improve the Web Site offerings based on the information and feedback we receive from you)
 
-Still have questions? If you have any questions, or believe Tapout is not abiding by our posted Privacy Policy, you should contact Tapout's privacy manager by email at customerservice@tapout.com. Alternatively, you can send mail to the following postal address: Tapout, LLC, 21800 Barton Road Ste 105, Grand Terrace, CA 92313 (Attn: Privacy).   
-**Sole Statement**
+  * **To improve customer service**  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-This Privacy Policy is the sole statement of Tapout’s privacy policy with respect to this Site and other sites controlled by us, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated is valid.  
-Effective Date
+  * **To process transactions**  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-This Privacy Policy was last changed and posted on our Site on October 3, 2008. © 2008 Tapout, LLC.  All rights reserved.
+  * **To send periodic emails**  
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
-TapouT® and INYAFACE® are trademarks  
-of Tapout, LLC  
-All Rights Reserved
 
-**Tapout, LLC**  
-21800 Barton Road, Ste. 105  
-Grand Terrace , CA 92313
+
+
+**Note:** If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+## How do we protect your information? 
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+## Do we use cookies? 
+
+Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+## Do we disclose any information to outside parties? 
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating the Web Site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## Third Party Links 
+
+Occasionally, at our discretion, we may include or offer third party products or services on the Web Site. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of the Web Site and welcome any feedback about these sites.
+
+## California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of the Web Site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+
+## Children’s Online Privacy Protection Act Compliance 
+
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+
+As a parent or guardian you can request us to remove personal information of your child that was submitted without your consent or by misrepresenting his or her age. At your request, we will take reasonable steps to remove such information from our database. All such requests should include the same user name, password, and e-mail address that your child submitted and should be sent to [cs.tapout@brandedonline.com](mailto:cs.tapout@brandedonline.com).
+
+## Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through the Web Site and not to information collected offline.
+
+## Terms and Conditions 
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of the Web Site.
+
+## Integrity
+
+During the account sign-in process you can review, change or remove the information you have submitted. We aim to keep our information about you as accurate as possible and encourage you to promptly update your information if it changes. You may, at any time, access your information to update, modify or delete any inaccuracies by accessing your account through the Web Site. You may also request us to remove your account information from our databases and we will try to remove as much information as possible. However, as we generally keep information related to past transactions for our records, we will not be able to completely remove your information.
+
+## Changes to our Privacy Policy 
+
+We may change our policy at any time by posting a new version of it on the Web Site. We encourage you to check the Web Site regularly for information about revisions to this Privacy Policy. In the event that we change our Privacy Policy, such changes will affect all of the information we collect after any such change. If you object to the change to our Privacy Policy, then you must contact us in writing regarding your objection.
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+Tapout Online Store  
+Attn: Privacy Policy  
+946 W. 17th Street  
+Costa Mesa, CA 92627  
+USA 
