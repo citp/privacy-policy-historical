@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueheronhealthnews.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190537id_/http%3A//blueheronhealthnews.com/site/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueheronhealthnews.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609232214id_/http%3A//blueheronhealthnews.com/site/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Blue Heron Natural Health News
 
@@ -45,7 +45,7 @@ Children Under Thirteen
 DBA Blue Heron Health News does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
 Opt-Out & Unsubscribe  
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from DBA Blue Heron Health News by contacting us.
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from DBA Blue Heron Health News by contacting us or by clicking a link at the bottom of every email we send.
 
 Changes to this Statement  
 DBA Blue Heron Health News will occasionally update this Statement of Privacy to reflect company and customer feedback. DBA Blue Heron Health News encourages you to periodically review this Statement to be informed of how DBA Blue Heron Health News is protecting your information.
