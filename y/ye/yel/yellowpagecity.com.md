@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpagecity.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912082114id_/http%3A//www.yellowpagecity.com/Misc/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpagecity.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609212452id_/http%3A//www.yellowpagecity.com/Misc/privacypolicy.htm) for the most accurate reproduction.*
 
 # YellowPageCity Inc. Privacy Policy
 
@@ -30,7 +30,7 @@ Protecting the privacy of the very young is especially important.  For that rea
 
 __ **How You Can Access Or Correct Your Information:**__
 
-You can correct fatal errors in your personally identifiable information by sending us a request that credibly shows error.  **[Click Here - Update Listing](https://web.archive.org/web/20150912082114id_/http%3A//www.yellowpagecity.com/Misc/manageListing.asp)**
+You can correct fatal errors in your personally identifiable information by sending us a request that credibly shows error.  **[Click Here - Update Listing](https://web.archive.org/web/20160609212452id_/http%3A//www.yellowpagecity.com/Misc/manageListing.asp)**
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
