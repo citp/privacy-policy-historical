@@ -1,99 +1,58 @@
-> *The following text is extracted and transformed from the changeip.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210104735id_/http%3A//www.changeip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changeip.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610002001id_/http%3A//www.changeip.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | ChangeIP.com
+# Privacy Policy - Change IP
 
-## Information Collection and Use
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-**Information Collection**  
-ChangeIP.com is the sole owner of the information collected on www.ChangeIP.com and our related owned sites. ChangeIP.com collects information from our users at several different points on our Web site.
+##### What personal information do we collect from the people that visit our blog, website or app?
 
-**Registration**  
-In order to use this Web site, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. We never ask for the user to provide demographic information such as income level, gender, social security number, etc to provide service.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
 
-**Order**  
-We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user. This information is never used for marketing or any other purpose other than to contact the user if needed. This information is stored in an encrypted format on our server and is never given to anyone for any reason.
+##### When do we collect information?
 
-**Information Use**  
-We collect and store information from users strictly for business purposes only. We do not sell or publish any of our information. We will use the information given to use to contact the user with updated site information, newsletters, specials, sales, etc.
+We collect information from you when you place an order or enter information on our site.
 
-**Cookies**  
-A cookie is a piece of data stored on the user’s computer tied to information about the user. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions, although we do not store any persistent cookies on your machine. Cookies are used on this site in customary ways to facilitate account management and other usage activities.
+##### How do we use your information?
 
-**Advertising**  
-The ads appearing on this web site are delivered to users by NO ONE but us! Information about users’ visit to this site, such as number of times they have viewed an ad is never used in any way.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
-**Log Files**  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+  * To improve our website in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To administer a contest, promotion, survey or other site feature.
 
-**Clear Gifs (Web Beacons/Web Bugs)**  
-We do not employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) to track web usage. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. You may find many 1×1 transparent pixels on our site.
 
-**DNS**  
-ChangeIP.com records DNS packets that are directed towards our infrastructure. These DNS packets are collected for statistical, technical, troubleshooting, and other related reasons. A captured DNS packet contains the source IP address of the client who requested the DNS lookup, and question / answer payload. This information is used internally to make decisions related to expanding infrastructure, tracking anomalies, assisting with legal requests / subpoenas, analyzing malware and botnets, and the general health of our DNS infrastructure. At our discretion we may also submit DNS packet streams to trusted 3rd parties to assist with the above mentioned activities.
 
-## Communications from the Site
+##### How do we protect visitor information? 
 
-**Special Offers and Updates**  
-We send all new members a welcoming/authentication email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible. We use regular Malware Scanning. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information. All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-**Newsletter**  
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections.
+##### Do we use 'cookies'? 
 
-**Service Announcements**  
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**Customer** Service  
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.
+##### Third Party Disclosure 
 
-## Sharing
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Legal Disclaimer**  
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+##### Third Party Links 
 
-**Aggregate Information (non-personally identifiable)**  
-We do not share aggregated demographic information with our partners and advertisers.
+We do not include or offer third party products or services on our website.
 
-**Third Party Intermediaries**  
-We use an outside credit card processing company to bill users for goods and services. These companies do retain and store or use personally identifiable information for billing purposes only.
+##### California Online Privacy Protection Act 
 
-**Business Transitions**  
-In the event ChangeIP.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. 
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-**Choice/Opt-out**  
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists.
+##### COPPA (Children Online Privacy Protection Act) 
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at sales@ChangeIP.com.
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. We do not specifically market to children under 13.
 
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
+##### Fair Information Practices 
 
-**Links**  
-This Web site contains links to other sites. Please be aware that we, ChangeIP.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
-**Surveys**  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users’ personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users’ personally identifiable information for any secondary purposes. 
+##### CAN SPAM Act
 
-**Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. ChangeIP.com will automatically send the friend a one-time email inviting them to visit the site. ChangeIP.com does not store this information.
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-**Chat Rooms, Message Boards, and Public Forums**  
-Please keep in mind that whenever you voluntarily disclose personal information online – for example on message boards, through e-mail, or in chat areas – that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
-
-**Security**  
-This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
-
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or birth date) that information is encrypted and is protected with the best encryption software in the industry – SSL & md5 hashing. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’.
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.
-
-If users have any questions about the security at our Web site, users can send an email to Support@ChangeIP.com
-
-Correcting/Updating/Deleting/Deactivating Personal Information  
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the account page or by emailing our Customer Support at Support@ChangeIP.com.
-
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email.
-
-**Update History**  
-September 18, 2013 – Legal review update
+Thank you for letting us protect your privacy, security and freedom.   
+[Feel free to Contact Us if you have any questions.](https://web.archive.org/web/20160610002001id_/http%3A//www.changeip.com/contact-us.php)
