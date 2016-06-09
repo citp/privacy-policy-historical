@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redorbit.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235817id_/http%3A//www.redorbit.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redorbit.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609225528id_/http%3A//www.redorbit.com/privacy_statement) for the most accurate reproduction.*
 
-# Privacy Statement - redOrbit
+# Privacy Statement - Redorbit
 
 This privacy statement covers the site [www.redorbit.com](http://www.redorbit.com/). Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices.
 
@@ -54,7 +54,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie��? on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 **Log Files**
 
@@ -159,4 +159,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at:  
-Web site URL : [www.redorbit.com](http://www.redorbit.com/)
+Web site URL : [www.redorbit.com/contact_us](http://www.redorbit.com/contact_us/)
