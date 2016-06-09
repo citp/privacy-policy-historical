@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianvisaexpert.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207232918id_/http%3A//www.canadianvisaexpert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianvisaexpert.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609200633id_/http%3A//www.canadianvisaexpert.com/privacy) for the most accurate reproduction.*
 
 # Privacy |
 
@@ -29,7 +29,9 @@ We use your Data for legitimate business operational and marketing purposes, whi
 . Resolving disputes, collecting fees, and troubleshooting problems.  
 . Conducting market research surveys.  
 . Occasionally offering current subscribers the chance to participate in contests or surveys.  
-. Providing you with information about products and services we offer. **You may stop the delivery of marketing emails by following the instructions accompanying a particular communication or by contacting us at[privacy@CanadianVisaExpert.com](mailto:privacy@CanadianVisaExpert.com)**
+. Providing you with information about products and services we offer.
+
+**You may stop the delivery of marketing emails by following the instructions accompanying a particular communication or by contacting us at[privacy@CanadianVisaExpert.com](mailto:privacy@CanadianVisaExpert.com)**
 
 Canadian Visa Expert Organization may share information about users with business partners, sponsors and other third parties. We provide this information in aggregate form so that no individual user is identified. **If you prefer not to receive online marketing information from third-party companies, please contact our Privacy Officer by e-mail at[privacy@CanadianVisaExpert.com](mailto:privacy@CanadianVisaExpert.com)**
 
@@ -41,10 +43,16 @@ When purchasing a product using a credit card, you will be asked to submit data 
 
 **Security Policy**
 
-CanadianVisaExpert.com has appropriate measures in place to help ensure that our users' Data is protected against unauthorized access or use, alteration, unlawful or accidental destruction and accidental loss. Although we make reasonable efforts to protect your Personal Information from loss, misuse, or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet.  
+CanadianVisaExpert.com has appropriate measures in place to help ensure that our users' Data is protected against unauthorized access or use, alteration, unlawful or accidental destruction and accidental loss.
+
+Although we make reasonable efforts to protect your Personal Information from loss, misuse, or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet.
+
 We have adopted security tools and procedures that limit access to private and personal information as well as locates and prevents access from unauthorized users. While our security measures exceed the industry standards and we have not received any complaints about the penetrability of our security system, there is some risk that thieves could find a way to thwart our security systems.
 
-We utilize 'Cookies' on your computer in order to simplify the user's experience. You can set your browser preferences to a 'cookie' rejecting mode, but be advised that the service may not function properly. CanadianVisaExpert.com data is stored behind 'Firewalls' so as to prevent loss, changing or misuse of information under our control.  
+We utilize 'Cookies' on your computer in order to simplify the user's experience. You can set your browser preferences to a 'cookie' rejecting mode, but be advised that the service may not function properly.
+
+CanadianVisaExpert.com data is stored behind 'Firewalls' so as to prevent loss, changing or misuse of information under our control.
+
 CanadianVisaExpert.com includes links to different sites. Please note that when 'clicking' any of these links, your computer will be directed to another separate website. We advise that you read the Privacy Protection Notice on these sites, since theirs may differ from ours.
 
 **Access to Data and Contact Info**
