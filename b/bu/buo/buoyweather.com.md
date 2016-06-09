@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buoyweather.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210142116id_/http%3A//www.buoyweather.com/info.jsp%3Fid%3D21737) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buoyweather.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609180254id_/http%3A//www.buoyweather.com/info.jsp%3Fid%3D21737) for the most accurate reproduction.*
 
 # Privacy Policy | BUOYWEATHER.COM
 
@@ -6,14 +6,14 @@
 
 Buoyweather Inc. (Buoyweather) respects your privacy and promises to earn and keep your trust. At Buoyweather, we understand the importance of privacy, and we want you to be as comfortable as possible visiting our site and using its services. All information about you is kept confidential and will not be used in ways that you have not consented, and we will not sell or disclose any information that identifies you to a third party without your explicit approval. We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.
 
-Questions regarding this policy and our practice should be directed to Buoyweather Customer Service, by e-mail to [customerservice@Buoyweather.com](mailto:customerservice@buoyweather.com), by telephone at 1-800-229-7873, or by postal mail to Buoyweather Inc., 300 Pacific Coast Highway, Suite 300, Huntington Beach, CA 92648. 
+Questions regarding this policy and our practice should be directed to Buoyweather Customer Service, by e-mail to support@buoyweather.com, by telephone at 1-800-229-7873, or by postal mail to Buoyweather Inc., 300 Pacific Coast Highway, Suite 300, Huntington Beach, CA 92648. 
 
   
 
 
 ## PRIVACY POLICY
 
-This Privacy Policy is incorporated into and subject to the [Terms and Conditions](http://www.buoyweather.com/info.jsp?id=21738) of use. It tells you what information we collect, how we protect it and what choices you have about how that information is used. Most information collected is to enable us to best meet your needs as an action sports participant in a highly customized and responsive manner. 
+This Privacy Policy is incorporated into and subject to the Terms and Conditions of use. It tells you what information we collect, how we protect it and what choices you have about how that information is used. Most information collected is to enable us to best meet your needs as an action sports participant in a highly customized and responsive manner. 
 
   
 
@@ -109,16 +109,16 @@ We, our partners and/or our advertisers may use third parties to serve or presen
 
 
 
-The NAI (Network Advertising Initiative) is a cooperative group of ad serving providers. The NAI has developed a set of privacy principles to which its members adhere. The NAI is committed to provide consumers with clear explanations of Internet advertising practices and how they affect you and the Internet generally. For more information about the NAI, third party ad servers generally, and the opt-out opportunities available through the NAI, visit <http://www.networkadvertising.org/index.asp>
+The NAI (Network Advertising Initiative) is a cooperative group of ad serving providers. The NAI has developed a set of privacy principles to which its members adhere. The NAI is committed to provide consumers with clear explanations of Internet advertising practices and how they affect you and the Internet generally. For more information about the NAI, third party ad servers generally, and the opt-out opportunities available through the NAI, visit their website. 
 
   
 
 
 ## SECTION 9 - UPDATING YOUR PERSONAL INFORMATION AND CONTACTING BUOYWEATHER
 
-You can always contact us in order to delete your Personal information from our systems by e-mailing us at customerservice@buoyweather.com. You can always update the Personal information that you have provided to us and change your Privacy choices by updating the "[My Account](http://my.buoyweather.com/bw/account_via/index.cfm)" section on the web site. 
+You can always contact us in order to delete your Personal information from our systems by e-mailing us at support@buoyweather.com. You can always update the Personal information that you have provided to us and change your Privacy choices by updating the My Account section on the web site. 
 
-Any other questions? Contact Customer Service at [customerservice@buoyweather.com](mailto:customerservice@buoyweather.com). 
+Any other questions? Contact Customer Service at support@buoyweather.com. 
 
   
 
