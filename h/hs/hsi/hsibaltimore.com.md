@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsibaltimore.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208082926id_/http%3A//hsionline.com/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsibaltimore.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609213849id_/http%3A//hsionline.com/privacy-policy-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy/Disclaimer
 
@@ -12,8 +12,8 @@ To manage your subscription by mail or for any other subscription issues, write 
 
 Order Processing Center  
 Attn: Customer Service  
-P.O. Box 925  
-Frederick, MD 21705 USA
+P.O. Box 913  
+Frederick, MD 21705-0913
 
 Or take a moment to fill out our customer service contact form: <http://www.newmarkethealth.com/hsicontact/hsi_contact_form.htm>
 
@@ -21,7 +21,7 @@ When you place an online order with us, we collect your e-mail address, land add
 
 We may automatically gather general statistical information about our website and visitors, such as IP addresses, browsers, pages viewed, number of visitors, goods and services purchased, transactions completed, etc. To do this, we use action tags and cookies provided by our site analytics. The cookie itself does not contain any of your personal information, so it does not jeopardize the privacy of your activities or the security of the transactions you place at our sites; We simply log this information in order to provide a more customized experience when visiting the site.
 
-We have implemented Google Analytics features based on Display Advertising (Google Analytics Demographics and Interest Reporting). You can [opt-out](https://tools.google.com/dlpage/gaoptout/) of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings. In addition, you can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to disable tracking by Google Analytics. We will use the data provided by Google Analytics Demographics and Interest Reporting to develop the site and content around our users’ interests. 
+We have implemented Google Analytics features based on Display Advertising (Google Analytics Demographics and Interest Reporting). You can [opt-out](https://tools.google.com/dlpage/gaoptout/) of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings. In addition, you can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to disable tracking by Google Analytics. We will use the data provided by Google Analytics Demographics and Interest Reporting to develop the site and content around our users’ interests.
 
 **Policy against advertising our website using unsolicited email messages**  
 We require that all e-mails promoting hsionline.com or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination. If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department (abuse@hsionline.com). We will immediately investigate all allegations made related to unsolicited messages.
