@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221215313id_/http%3A//inin.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610002114id_/https%3A//www.inin.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Interactive Intelligence
 
-_Date last revised: 10/07/2014_
+_Date last revised: 10/5/2015_
 
 #### Interactive Intelligence Group, Inc. Privacy Policy
 
