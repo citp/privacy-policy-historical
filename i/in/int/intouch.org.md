@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026194501id_/http%3A//www.intouch.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609213353id_/http%3A//www.intouch.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
