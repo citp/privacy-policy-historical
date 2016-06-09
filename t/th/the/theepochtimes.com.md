@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theepochtimes.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209222900id_/http%3A//www.theepochtimes.com/n3/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theepochtimes.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609221716id_/http%3A//www.theepochtimes.com/n3/privacy-notice) for the most accurate reproduction.*
 
 # The Epoch Times - Privacy Notice
 
