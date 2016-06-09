@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the antelife.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711073558id_/http%3A//www.antelife.com/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antelife.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609144617id_/http%3A//www.antelife.com/security-privacy) for the most accurate reproduction.*
 
 # Security & Privacy - Wholesale Electronics on AntElife.com
 
 AntElife.com respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used.
+
+ **Aukey International Limited was the party who collecting the data and will be responsible for that.**
 
 Thank you for accessing the website ("Site") of AntElife.com, Limited. ("AntElife.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice.\
 
