@@ -1,188 +1,32 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105235315id_/http%3A//www.acop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609184417id_/http%3A//www.acop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | American Consumer Opinion Panel
 
 This Privacy Policy is reviewed and updated annually. 
 
-### American Consumer Opinion® believes that its Members have an inalienable right to privacy. We protect your privacy and anonymity by adhering to these standards:
-
-  * [Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/eu/eg_main_018475.asp) as developed by the U.S. Department of Commerce in consultation with the European Commission. 
-  * [Children's Online Privacy Protection Act](http://www.business.ftc.gov/privacy-and-security/children%E2%80%99s-privacy) issued by the Federal Trade Commission (FTC). 
-
-  
-
-
-### We recognize that some of the information we request from you is personal and sensitive. Here are our privacy practices regarding the information you entrust to us.
-
-**Who We Are**   
-American Consumer Opinion® and www.acop.com are owned and operated by Decision Analyst, Inc. Tell me more.
-
-**Personal Information We Collect From You**   
-We only collect your personal information (name, address, phone number, and email address) that you provide during registration. We also collect your survey response via surveys Tell me more.
-
-**How We Use Your Information**   
-We use your personal information to communicate with you, to determine whether you qualify for surveys, and to compile an accurate statistical "picture" of those who take surveys Tell me more.
-
-**Who We Share Your Information With**   
-We don't share any information that personally identifies you with any business, client, or business partner. American Consumer Opinion® does not sell or rent your personal information to anyone Tell me more.
-
-**How You Can Control Your Information**   
-You may "opt out" at any time when taking a survey. You may also update or delete your personal information at any time Tell me more.
-
-**Privacy For Children Under 14**   
-In compliance with the Children's Online Privacy Protection Act, we do not accept registrations from children under 14. We do not directly advertise or market to children. We may survey children under 14, whose parents are panel Members, with their parents' consent. Tell me more.
-
-**How We Secure Your Information**   
-American Consumer Opinion® has multiple security measures in place to ensure the confidentiality of your personal information. Tell me more.
-
-**Use Of Internet Technology ("Cookies" And Log Files)**   
-We do not regularly use cookies. We do collect information in our log files. Tell me more.
-
-**Communications With Members**   
-We send emails to Members to confirm their registration, to invite them to surveys, and for special occasions and announcements. Tell me more.
-
-**Legal Disclaimer**   
-In the rare event that disclosing personal information may be required by law, we will do so. Tell me more.
-
-**Links To Outside Sites**   
-The acop.com website contains links to other websites whose privacy policies may differ from ours. Tell me more.
-
-**Notification Of Changes**   
-We will notify you by email before any policy is changed and give you a chance to opt out. Tell me more.
-
-**Questions And Concerns**   
-We welcome questions or concerns regarding our data-protection practices and our Privacy Policy. Tell me more.
-
-**Enforcement Of Privacy Policy**   
-If you believe we have violated our stated Privacy Policy with respect to personal information you have entrusted to us, you have several options. Tell me more.
-
 ### Who We Are
 
-American Consumer Opinion® and www.acop.com are owned and operated by [Decision Analyst, Inc](http://www.decisionanalyst.com/)., a global marketing research and analytical consulting company, headquartered in the Dallas-Fort Worth area. We subscribe to the privacy, confidentiality, and ethics policies of these professional organizations: 
+The American Consumer Opinion Panel® and www.acop.com are owned and operated by [Decision Analyst, Inc](http://www.decisionanalyst.com/)., a global marketing research and analytical consulting firm headquartered in the Dallas-Fort Worth area. Decision Analyst, Inc. subscribes to the privacy, confidentiality, and ethics policies of these organizations: 
 
-  * [Better Business Bureau (BBB)](http://www.bbb.org/fort-worth/business-reviews/market-research-and-analysis/decision-analyst-inc-in-arlington-tx-86080008/#bbbonlineclick)
-  * [Council of American Survey Research Organizations (CASRO)](http://www.casro.org/codeofstandards.cfm)
+  * [Council of American Survey Research Organizations (CASRO)](http://www.casro.org/?page=TheCASROCode)
   * [Marketing Research Association (MRA)](http://www.mra-net.org/)
-  * [World Association of Research Professionals (ESOMAR)](http://www.esomar.org/)
+  * [ESOMAR (The World Association of Research Professionals)](http://www.esomar.org/)
 
 
 
-Back to top
+### The American Consumer Opinion Panel® BELIEVES THAT ITS MEMBERS HAVE AN INALIENABLE RIGHT TO PRIVACY. WE PROTECT YOUR PRIVACY BY ADHERING TO THESE STANDARDS:
 
-### Personal Information We Collect From You
+Safe Harbor Privacy Principles as developed by the U.S. Department of Commerce in consultation with the European Commission. 
 
-We collect information from you during the registration process and during the survey process. 
-
-  * During our registration process, we collect your name, address, email address, and the names, dates of birth, and genders of those in your household. We also collect the IP address of your computer. 
-  * We also gather information on your household—such as dwelling type, education level, gender, income, marital status, ethnicity, occupation, your Internet speed, and computer capabilities. 
-  * Additional information may also be requested when you participate in surveys, such as your preferences, shopping patterns, and buying behavior. 
-  * None of the information collected in surveys is reported by the names or addresses of Members. Your individual information is always placed into anonymous, statistical summaries. No one outside of Decision Analyst will ever know how you personally answered any of the questions in our surveys. 
+  * [Children's Online Privacy Protection Act](http://www.business.ftc.gov/privacy-and-security/childrens-privacy) issued by the Federal Trade Commission (FTC). 
+  * [Council of American Survey Research Organizations (CASRO)](http://www.casro.org/?page=TheCASROCode) Standards. 
+  * [ESOMAR Guidelines and Standards](http://www.esomar.org/). 
 
 
 
-Back to top
+Decision Analyst, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Decision Analyst, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Decision Analyst, Inc.'s certification, please visit <http://www.export.gov/safeharbor/>. 
 
-### How We Use Your Information
-
-  * We use information about you, your household, and its Members to determine whether you qualify to participate in a particular survey. 
-  * We use your email address to invite you to complete surveys and to notify you of news regarding American Consumer Opinion®. 
-  * We use your name and address to send you any cash, products, prizes, or incentives to which you may be entitled. 
-  * We use personal information gathered during surveys to analyze the survey results. For example, we might look at the answers of women compared to men, or the answers of young people compared to older people, or high-income groups compared to low-income groups. 
-  * We use your personal information to verify you are who you say you are and live where you say you live. Any evidence of false or dishonest information will result in the permanent loss of your membership and the loss of Points in your account. 
-  * We may use your contact information, such as email address, registration data, and IP address, to verify the opt-in nature of our email list, when asked to do so by an Internet Service Provider. 
-
-
-
-Back to top
-
-### Who We Share Your Information With
-
-  * Your answers to our surveys are grouped with the answers of other people and reported to our clients as statistical summaries. 
-  * None of your answers to surveys are ever reported in conjunction with your personal information. No one outside of Decision Analyst will ever know how you personally answered any of the questions in our surveys. 
-  * We don't share your personal information with any third parties—no client, no business partner, or other organization. **American Consumer Opinion® does not sell or rent your personal information to anyone.**
-  * We may contract with an email service provider to help us send email invitations to surveys. In such cases, we will have a nondisclosure agreement with the email service provider to ensure your contact information is protected and used properly. 
-
-
-
-Back to top
-
-### How You Can Control Your Information
-
-You may "opt out" of giving personal information at any time when taking a survey. You may also [update or delete](http://www.acop.com/login/) your personal information at any time. 
-
-  * Once you join our panel and receive invitations to complete surveys, you are under no obligation to complete those surveys. You can simply choose not to respond. 
-  * If you start taking a survey and are asked questions you do not wish to respond to, you may simply stop taking the survey. 
-  * Once you have registered, you may safely [update or delete](http://www.acop.com/login/) your membership (and all of your personal data) at any time. 
-
-
-
-Back to top
-
-### Privacy For Children Under 14
-
-  * American Consumer Opinion® and Decision Analyst, Inc., in compliance with the [Children's Online Privacy Protection Act](http://www.business.ftc.gov/privacy-and-security/children%E2%80%99s-privacy), do not accept registrations from children under age 14. 
-  * We do not directly advertise or market to children. 
-  * From time to time we may have a survey available for children, but we will not directly contact any children under age 14. For these surveys we will contact the parents who are Members of the panel and ask them to give consent for the child to complete the screener or survey. 
-
-
-
-Back to top
-
-### How We Secure Your Information
-
-We consider the protection of all personally identifiable information we receive from our Members to be critical to our corporate mission. We have security measures in place to protect against the loss, misuse, and alteration of any information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. To minimize this risk, we encrypt all information using the Secure Sockets Layer (SSL) protocol. 
-
-  * Private data about you and your household (name, email address, street address, phone number, income, education, family composition, etc.) is strictly confidential and protected at all times. 
-  * Only a few trusted employees at Decision Analyst, Inc. have access to your personal information, and each has signed a binding confidentiality and nondisclosure agreement. 
-  * Contractors who may work with us also sign a nondisclosure agreement. 
-  * When registering or taking a survey, the information you send us is encrypted. This protects the information you provide to us. 
-
-
-
-Back to top
-
-### Use Of Internet Technology ("Cookies" And Log Files)
-
-  * "Cookies" are pieces of information that a website transfers to your computer's hard drive for record-keeping purposes. Cookies are used by thousands of websites to make your life as a Web user much easier. There are occasions where we may use cookies. For example, we may use cookies to track registrations back to any affiliate site that may have referred you, and we may use cookies to track advertising results. 
-  * Like many website servers, we gather information in our log files. Information gathered in log files includes Internet protocol (IP) address, browser type, Internet service provider (ISP), referring and exit pages, platform type, date and time stamp, and number of clicks while onsite. 
-  * Log-file information is not linked to any individually identifiable information and is used only to administer our systems, to make improvements to our website, and to determine the success of advertising campaigns. 
-
-
-
-Back to top
-
-### Communications With Members
-
-  * We send an email (generated by an auto-reply system) to all new Members to confirm their registration. 
-  * We send emails to Members from time to time, inviting them to take surveys. 
-  * We regularly send emails to Members for special occasions (holidays, birthday) and to make announcements regarding system updates. 
-  * We communicate with Members by email on a case-by-case basis to answer customer-service-related questions. 
-
-
-
-Back to top
-
-### Legal Disclaimer
-
-We make every effort to preserve user privacy. It is possible, in rare instances, that your personal data might need to be disclosed, if required by law and if we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or a legal process served on our website. If this should ever occur, we will attempt to notify you in advance so that you can take legal action to protect your personal information. 
-
-Back to top
-
-### Links To Outside Sites
-
-The acop.com website contains links to other websites. While these websites might be of interest to you, please note that their privacy policies may differ from ours. We encourage you to read the privacy statement of each site you visit. 
-
-Back to top
-
-### Notification Of Changes
-
-If there is a significant change in our privacy policy or practices, or in how we use personally identifiable information, we will notify you by email before the policy is changed and give you a chance to opt out. 
-
-Back to top
-
-### Questions And Concerns
-
-For more information, questions, or concerns regarding our data-protection practices and our Privacy Policy, please contact our Internet Operations Department at: 
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Decision Analyst commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Decision Analyst at: 
 
 Internet Operations Department   
 Decision Analyst, Inc.   
@@ -191,9 +35,183 @@ Arlington, Texas 76011
 Phone numbers:   
 Within the U.S., 1-817-649-5241   
 International, 1-817-640-6166   
-Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?subject=QuestionRegardingACOPPrivacyPolicy)
+Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?subject=Question%20Regarding%20American%20Consumer%20Opinion%20Panel%20Privacy%20Policy)
 
-If you wish to unsubscribe, please click [here](https://web.archive.org/login/). Log on to your **My Account** page, go to **Login** and then enter your email address and password. Choose the **Delete Account** option located on the front page of your **My Account** page. Deleting your account could take up to 10 days for your request to be processed, so please disregard any emails you receive from us in the meantime. 
+Decision Analyst has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Decision Analyst, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program) for more information and to file a complaint.
+
+Back to top
+
+### Personal Information We Collect From You
+
+We collect information from you during the registration process and during participation in surveys. 
+
+  * During the registration process (and at times during surveys), we collect your name, address, email address, phone numbers, and the names, dates of birth, and genders of those in your household. We also collect the IP address from your computer, the type of device (PC, tablet computer, smartphone), and your computer's "digital fingerprint," so that we can identify duplicate surveys and detect and prevent fraud. 
+  * We also gather information on your household-such as dwelling type, household membership, education level, gender, income, marital status, ethnicity, and occupation. We may ask about products and services used by members of your family, and about your brand preferences, shopping patterns, and buying behavior. 
+  * Decision Analyst may collect personal information and demographic information from information services bureaus, other research firms and/or sample providers/suppliers, social media platforms, and other data sources. Decision Analyst may use your personal or demographic information for data validation, data appending, fraud detection and prevention, and/or sending emails to invite you to participate in a survey and/or join another Panel. 
+
+
+
+Back to top
+
+### How We Use Your Information
+
+We use your personal information for several purposes including, without limitation,: (i) to communicate with you about your membership and to determine whether you qualify for surveys, (ii) to invite you to participate in surveys , (iii) to notify you of news about The American Consumer Opinion Panel®, (iv) to notify you of Points balances in your Member Account, (v) to alert you to changes in our Privacy Policy, (vi) to send you any cash, test products, prizes, or incentives to which you may be entitled based upon your participation in our services, (vii) for fraud detection, (viii) for matching your personal information with other information from secondary and syndicated sources, (ix) for shipping test products to your home, and (x) for validating your address. In addition to the above uses: 
+
+  * We use personal information and social-demographic information gathered during surveys to analyze the survey results. For example, we might look at the answers of women compared to men, or the answers of young people compared to older people, or high-income groups compared to low-income groups. 
+  
+
+  * We use your personal information to verify you are who you say you are, and live where you say you live. Any evidence of false or dishonest information will result in the permanent loss of your Membership and the loss of any Points in your Member Account. 
+  * We may use your contact information, such as email address, registration data, and IP address, to verify the opt-in nature of our email list, when asked to do so by an Internet Service Provider. 
+  * We will not use mobile phone numbers for text messaging without separately obtaining your consent for the sending of text messages. 
+
+
+
+Back to top
+
+### Who We Share Your Information With
+
+  * We share your personal information with third parties, including, without limitation, service providers (e.g. email distribution or mailing companies, rewards vendors, companies providing fraud detection/prevention services, companies providing data validation services, companies shipping products to you for use in connection in-home usage testing, etc.), market research companies, and third parties providing data matching and appending services. 
+  * We may share your personal information and/or social-demographic information, including, without limitation, a unique identification number ("UID"), zipcode, gender, marital status, education, ethnicity/race (where permitted by applicable law), employment related information, and information on household members, for each member of the American Consumer Opinion Panel® , with Survey Sampling International, LLC ("SSI") for the purpose of allowing SSI to identify survey opportunities that you may be eligible for through SSI's services. If you are eligible for a survey available through SSI, SSI will provide Decision Analyst with your UID and a link to a survey and Decision Analyst will email you an invitation to participate in the survey. Decision Analyst will not share your name, address, email address, or phone number with SSI. If you have questions about how SSI uses the data we share, please review SSI's privacy policy available [here]. The sharing of your information by Decision Analyst with SSI and your participation in a survey available through SSI, **does not** make you a member of any panel owned and/or operated by SSI and does not qualify you for, or entitled you to receive, any benefit(s) or incentive(s) offered to the members of the panels owned and/or operated by SSI. If you would like to opt-out of this sharing of your information, please contact Decision Analyst at 1-800-262-5974 or you can email us at aparks@acop.com and Decision Analyst will (i) stop sharing your information with SSI and (ii) request that SSI delete all of your information that Decision Analyst previously shared with SSI. 
+  * We may contract with an email service provider to help us send email invitations to surveys. In such cases, we will have a nondisclosure agreement with the email service provider to ensure your personal contact information is protected and private. 
+  * Decision Analyst may disclose or share personal and other information collected through Decision Analyst's services with other companies as follows: 
+  *     * In response to a subpoena or an order of a court or government agency. 
+  
+
+  *     * To establish, exercise or defend legal claims of an individual or Decision Analyst, to protect the safety of an individual or to protect Decision Analyst's rights and/or property. 
+  
+
+  *     * Among various Decision Analyst Panels if you sign up for more than one panel. 
+  
+
+  *     * To a parent, subsidiary, or affiliate of Decision Analyst in the event of a reorganization or restructuring. 
+  
+
+  *     * To authorized agents, research partners, and/or subcontractors of Decision Analyst and/or of Decision Analyst's clients, who are providing data appending services, data validation services, fraud detection and/or prevention services, database-matching services, coding services, sampling services, data segmentation services, and reward, incentive and sweepstakes related services. 
+  
+
+  *     * To a client for limited marketing research uses such as modeling, validation, fraud detection and/or prevention, data appending, database analyses, and reward, incentive or sweepstakes redemption, fulfillment and/or entry to reward your participation in or completion of a survey. 
+  
+
+  *     * To a new owner with a change of ownership or control, including a merger or an acquisition of any or all of Decision Analyst's business assets, provided that the party receiving or acquiring the personal information agrees to use, protect and maintain the security, integrity and confidentiality of personal information in accordance with this Privacy Policy. 
+  
+
+  *     * To partners of Decision Analyst who offer incentives for use of Decision Analyst's services, solely for the partners' use in connection with their incentive program and its terms of use, including the crediting of Member Accounts maintained by the partners for individuals who use or participate in Decision Analyst's services. 
+  
+
+  *     * As otherwise permitted in this Privacy Policy. 
+  
+
+  
+Additionally, UIDs and information collected by automated means are provided to third parties, including clients, partners, agents and/or vendors for identifying participants for re-contact surveys or communications, fraud detection and/or prevention, database matching, data validation, data append, coding, data analyses, and reward, incentive, sweepstakes or promotion related services and/or developing aggregated data insights regarding survey respondents and providing a client(s) with access to and use of the aggregated data insights. 
+
+Decision Analyst will provide survey data and responses to Decision Analyst clients with no personal information disclosed by Decision Analyst, other than UIDs. If you voluntarily disclose personal information in connection with your survey responses, and Decision Analyst collects the survey responses, Decision Analyst will transfer the survey responses, UID and the voluntarily disclosed personal information to Decision Analyst's client. In addition, Decision Analyst may share geographic and/or demographic data Decision Analyst collects from you during registration or through surveys. Such data may be shared with third parties on an individual respondent level or as aggregate summaries. 
+
+Decision Analyst's clients may engage Decision Analyst to supply or provide demographic information of or about individuals who have viewed an advertisement or visited a website for the purpose of measuring internet and digital media audiences. The demographic information may be provided or supplied to Decision Analyst's clients. The demographic information and analysis performed by or on behalf of Decision Analyst's clients assist with the creation, development and implementation of websites, online advertisements and other Internet and digital media features, functionality and campaigns. 
+
+Generally, disclosures of personal information by Decision Analyst to some other company or organization, except for disclosures of UIDs, are controlled by a written agreement between Decision Analyst and the other company or organization, which restricts and limits use of the personal information. Decision Analyst may allow a client to collect personal information directly from panel members. The disclosure is voluntary and, prior to collection, the client is required to enter into a written agreement with Decision Analyst, which restricts and limits use of the personal information. 
+
+
+
+
+Back to top
+
+### How You Can Control Your Information
+
+You may "Opt-Out" at any time when taking a survey. You may also update or delete your personal information at any time by logging into your American Consumer Opinion Panel® Member Account 
+
+  * Once you join our panel and receive invitations to complete surveys, you are under no obligation to complete those surveys. You can simply choose not to respond. 
+  * If you start taking a survey and are asked questions you do not wish to respond to, you may simply stop taking the survey. 
+  * Once you have registered, you may safely _update_ or _delete_ your Member Account (and all of your personal data) at any time. If you would like to contact Decision Analyst in regard to your privacy please email us at privacy@decisionanalyst.com.   
+
+
+
+
+If you wish to unsubscribe, please click [here](http://www.acop.com/login/). Log on to your **My Account** page, go to Login, and then enter your email address and password. Choose the **Delete Account** option located on the front page of your **My Account** page. Deleting your account could take up to 10 days, so please disregard any emails you receive from us in the meantime. 
+
+Back to top
+
+### Privacy For Children Under 14
+
+We comply with applicable laws in each country with regards to protecting the privacy of, and the collection and processing of personal information of, minors. For example, in the United States, we do not knowingly collect personal information from individuals under the age of 13, our services and panels are not designed or intended for individuals under the age of 13, and if we have a survey for children 12 or younger, we will ask parents to review the survey and give their permission for their child to take the survey. If we become aware that we collected personal information from an individual under the applicable minimum age threshold in a country, we will promptly delete all personal information collected from or about such individual. 
+
+Back to top
+
+### How We Secure Your Information
+
+The American Consumer Opinion Panel® has multiple security measures in place to ensure the confidentiality and protection of your personal information. The data is stored behind Decision Analyst's firewall, and the data is encrypted. We have security measures in place to protect against the loss, misuse, or alteration of any information we receive from you. As with any transmission over the Internet, there is some element of risk involved in sending personal information. To minimize this risk, we encrypt all information using the Secure Sockets Layer (SSL) protocol. 
+
+Back to top
+
+### "Cookies," Log Files, and Internet Technology
+
+"Cookies" are small files that store certain data on a device or computer. Cookies are used by most websites to make your life as a Web user easier. There are times when we may use cookies. For example, we may use cookies to track registrations back to an affiliate site that may have referred you, and we may use cookies to track advertising results. We may use cookies during a survey to make the survey easier and faster to complete. 
+
+  * We gather information in our log files such as Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), type of computing device, referring and exit pages, platform type, date and time stamp, number of clicks while onsite, and other variables. 
+  * Log-file information is not linked to any personally identifiable information and is used only to administer our systems, to make improvements to our website, and to determine the success of advertising campaigns. 
+  * Digital fingerprinting assigns a unique identifier to your computing device (PC, tablet computer, smartphone, etc.) based on its technical settings and IP Address. Decision Analyst uses digital fingerprinting technology for quality control, validation purposes and fraud detection and/or prevention, including identifying duplicate or fraudulent respondents. Decision Analyst may implement and use digital fingerprinting directly or through a third party vendor. 
+  * Watermarking involves placing code or a file on your computing device to identify that it has been used to register with or access Decision Analyst's services. Watermarking is used for quality control and validation purposes and fraud detection and/or prevention purposes. Decision Analyst may engage in watermarking activities directly or through a third party vendor. 
+
+
+
+Back to top
+
+### Communications With Members
+
+We send emails to Panel Members to confirm their registration, to invite them to surveys, to update the Privacy Policy, to notify Members of unredeemed Points in their Member Accounts, and for special occasions and announcements. 
+
+  * We send an email to all new Members to confirm their registration. New Members must Opt-In to this email to become a Member. 
+  * We communicate with Members by email or phone on a case-by-case basis to answer any questions or provide Member services. 
+
+
+
+Back to top
+
+### Legal Disclaimer
+
+If required by a court of law or government agency, your personal data might need to be disclosed, if we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or a legal process. We will take legal action, if appropriate, to protect your personal data. We will attempt to notify you in advance so that you can take legal action on your own, if desired, to protect your personal information. 
+
+Back to top
+
+### Links To Outside Sites
+
+The www.acop.com website contains links to other websites whose privacy policies may differ from ours, and occasionally you may take a survey from one of Decision Analyst's research partners-whose privacy policy may differ from ours. We encourage you to read the privacy statement of each site you visit. 
+
+Back to top
+
+### Notification Of Changes
+
+We will notify you by email or text message before any change in our Privacy Policy to give you a chance to Opt-Out or update or delete your Member Account. 
+
+Back to top
+
+### Retention of Personal Information
+
+Your personal information is kept by Decision Analyst so long as you are an active Member of the American Consumer Opinion Panel® or some other Decision Analyst panel. Once you cancel your Member Account or Opt-Out, your personal data remains encrypted and is stored for a period of 2 years behind our firewall, or if any questions come up about your Member Account or Points in your Account. 
+
+Back to top
+
+### Enforcement Of Privacy Policy
+
+If you believe Decision Analyst, Inc. has violated this Privacy Policy with respect to your personal information, please contact us so that we can investigate and correct any errors or mistakes. If you are a US resident and you are not satisfied with our response, you may file a complaint with the 
+
+_Council of American Survey Research Organizations (CASRO)_
+
+, 170 North Country Road, Suite 4, New York 11777 or, if you are an EU or Swiss resident, you may file a complaint with the BBB EU Safe Harbor at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program). 
+
+Back to top
+
+### Questions And Comments
+
+We welcome your questions or comments regarding our data-protection practices and our Privacy Policy. If you have questions or concerns, please contact: 
+
+Internet Operations Department   
+Decision Analyst, Inc.   
+604 Avenue H East   
+Arlington, Texas 76011   
+Phone numbers:   
+Within the U.S., 1-817-649-5241   
+International, 1-817-640-6166   
+Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?subject=Question%20Regarding%20American%20Consumer%20Opinion%20Panel%20Privacy%20Policy)
 
 For more information about Internet privacy and the privacy guidelines we follow: 
 
@@ -204,14 +222,6 @@ For more information about Internet privacy and the privacy guidelines we follow
 
 Back to top
 
-### Enforcement Of Privacy Policy
-
-If you believe we have violated our stated Privacy Policy with respect to personal information you have entrusted to us, you have several options: 
-
-  * We urge you to contact our [Internet Operations Department](mailto:privacy@decisionanalyst.com?subject=QuestionRegarding%20ACOP%20Privacy%20Policy) so we may investigate your complaint. 
-  * You may also file a complaint with the [Council of American Survey Research Organizations (CASRO)](http://www.casro.org/),  
-170 North Country Road, Suite 4, New York 11777. 
-
-
+* This Privacy Policy is reviewed and updated annually. 
 
 Back to top
