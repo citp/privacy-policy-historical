@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestateexpress.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316173229id_/https%3A//www.realestateexpress.com/general/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestateexpress.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610003942id_/https%3A//www.realestateexpress.com/general/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Real Estate Express Real Estate License School
 
