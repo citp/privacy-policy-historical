@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rocketlawyer.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222214246id_/https%3A//www.rocketlawyer.com/privacy.rl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketlawyer.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609045641id_/https%3A//www.rocketlawyer.com/privacy.rl) for the most accurate reproduction.*
 
 # Rocket Lawyer Privacy Policy
 
-Last Updated: 11/11/2015
+Last Updated: 2/17/2016
 
 Protecting your private information is our priority. This Privacy Policy governs data collection and usage of the products, services, software, platform and websites (collectively, "Services") provided by Rocket Lawyer Incorporated and any of our affiliates (collectively, "Rocket Lawyer"). By using the Services, you consent to the data practices described in this policy as well as our [Terms of Service](https://web.archive.org/terms-and-conditions.rl). If you do not agree to any part of this Privacy Policy, then you should stop accessing the Services.  
 
