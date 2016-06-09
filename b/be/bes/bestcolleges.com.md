@@ -1,49 +1,35 @@
-> *The following text is extracted and transformed from the bestcolleges.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208185032id_/http%3A//www.bestcolleges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcolleges.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609232611id_/http%3A//www.bestcolleges.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BestColleges.com
 
-## PERSONAL INFORMATION COMPILATION AND UTILIZATION
+## Terms of Use and Privacy Policy for Use of BestColleges.com (Effective January 5, 2016)
 
-While you use BestColleges.com, we have the right to collect from you the following personal information:
+Thank you for your interest and use of the content and services of BestColleges.com. This page will explain how BestColleges.com gathers and utilizes different kinds of information so that we may provide users with content, products, and services relevant to education options and related topics. By using our website, you are agreeing to this Terms of Use and Privacy Policy. 
 
-  * Demographic information, including your projected year of graduation, education, sex, hobbies, and zip code
-  * Your general contact Information, including your email address, mailing address, phone number
+BestColleges.com collects two kinds of information: _submitted information_ and _automatic information_. 
 
+_Automatic information_ includes certain types of anonymous information whenever you interact with BestColleges.com. This data aids in creating improvements in our user experience, such as providing more relevant and tailored content. For example, we use “cookies” to collect anonymous data for analytics, site optimization and for tailored advertising and marketing. This data includes (but is not limited to) your browser version, operating system version, and your IP address. 
 
+By utilizing our website, you acknowledge and agree that automatic information collected on BestColleges.com may be shared with schools, affiliated companies, and third parties for the purpose of providing information about degrees, programs and other education-related products and services. 
 
-We may also engage in the common website practice of compiling information regarding your computer, including, but not limited to, your IP Address and operating system.
+_Submitted information_ is data that is voluntarily inputted and submitted by users through our web forms, which may include personal contact information, such as name, telephone number, mailing address, and email address, as well any other information that may be required to match users to an education product or service. Submitted information is collected, stored and shared with schools and other third parties as necessary to provide users with information about education-related services, in addition to schools and programs.
 
-Compiled information is used to:
+By submitting this information, you authorize BestColleges.com (as well as our affiliated schools and partners) to contact you in accordance with all applicable laws by phone, through text messages, or by email or mail regarding education options or related topics. You also acknowledge and agree that we retain the right to release any collected information, including personally identifiable information, as needed, to businesses providing our company with administration services (such as an email delivery service). In addition, through this action, you grant us, our affiliates, and our partners and vendors the right to contact you for a period of time, and relinquish any rights granted to you by the Do Not Call list or other applicable law. Your submission serves as an omission to Do Not Call requirements established by state and federal governments and may exempt us from other applicable laws.
 
-  * Decipher online college degrees suitable for you and offer you useful information for accomplishing your career goals and obtaining an excellent, practical online education that meets your scheduling needs
-  * Provide you with requested school information
-  * Provide customer service
-  * Provide you with a newsletter
-  * Provide you with marketing communications
-  * Provide you with answers to your inquiries and concerns
-  * Improve our Web BestColleges.com and marketing efforts, and otherwise assess the needs of our business
-  * Take part in research and analysis
+If you receive any email communications from us, a school, or third party, you will be afforded the ability to unsubscribe through a link in the email, at which point you will be removed from further mailings from that sender.
 
+We also retain the right to release your personal information in circumstances required by law, such as to abide by a subpoena or other legal procedure. This will be when, in good faith, we believe it is necessary to preserve our rights, ensure the safety of you or others, explore alleged fraud, to reply to a government or legal request, and/or in the instance that BestColleges.com is merging, acquisitioning, or selling some or all of its assets to a third party.
 
+In addition, it is possible that we will revise our Terms of Use and Privacy Policy in the future if we change our practices. We recommend that you revisit this document periodically to stay up-to-date with our practices concerning your privacy and other important information.
 
-## OPT-OUT CHOICE
+## Use of Cookies
 
-You can opt-out of receiving our marketing information by unsubscribing. Instructions for doing so are located in emails you receive from us.
+Cookies are small pieces of data sent from a website and stored in the user’s web browser, including for technical purposes such as web analytics. By using this website, you acknowledge that we use cookies and consent to our use of cookies. Our web analytics are primarily performed using Google Analytics, a tool provided by Google, Inc. 
 
-## INFORMATION SHARING
+Advertising cookies do not contain personally identifiable information and allow users to remain anonymous. However, they do permit advertisers to make ads more relevant to the user’s interests. Advertising cookies are sometimes referred to as third-party cookies because they track navigation and publish ads on behalf of third parties. For more information about Google Analytics and its uses, check Google’s privacy policy at <https://support.google.com/analytics/answer/6004245>.
 
-There exist circumstances in which we may provide your personal information to our contracted service providers; for instance, we may provide your personal information to a contracted customer relations service. If we share your personal information with third parties, it will be in the exact ways specified by this privacy statement. BestColleges.com will never sell the personal information we’ve acquired to third parties for their irrelevant marketing objectives.
+BestColleges.com, including services and partnerships with vendors and third-party service providers, may use cookies for Web analytics such as demographic and other anonymous data for web optimization and other analysis, and “lead auditing” to ensure the accuracy, relevance and validity of submitted information. In addition, our use of marketing and conversion-tracking cookies is for, but not limited to, targeting and optimizing digital ad serving to improve relevance, user experience, and advertising effectiveness.
 
-If you defer your personal information to BestColleges.com, you will hereby make an “inquiry” that gives us, our affiliated entities, and our third party marketing partners and vendors the right to contact you. You will also provide consent, for a limited period of time, to our affiliates, partners, and vendors, to contact you by means of telephone, even if it is the case that you are on any governmental Do Not Call list, as your inquiry equates to an exclusion to all Do Not Call provisions.
+You can remove cookies through your browser settings at any time, though you may need to do this on a per use and not one-time basis. You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website and DAA website.
 
-In the event that BestColleges.com undergoes a merger with, acquisition of, or partakes in the sale of any of its assets to a third party, we have the right to disclose your personal information with your prior consent when we hold in good faith that disclosing said information will be to the benefit of protecting BestColleges.com’s legal rights as well as the safety of you or another, determining if fraud has taken place, or responding to a government demand during such business activities.
-
-## NOTIFICATION OF PRIVACY STATEMENT CHANGES
-
-Future changes to our privacy policy may take place, thus requiring us to update it. It is our recommendation that you review our privacy policy on occasion to ensure you have a current grasp of it.
-
-## CONTACT US
-
-If you find you have questions or concerns in regard to BestColleges.com’s privacy policy, please email us using our contact form.
-
-Effective date: February 2014
+Use our contact form if you have any questions or concerns about this Terms of Use and Privacy Policy.
