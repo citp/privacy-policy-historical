@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inoreader.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225073815id_/http%3A//www.inoreader.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inoreader.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609050637id_/http%3A//www.inoreader.com/privacy_policy) for the most accurate reproduction.*
 
 # Inoreader • Privacy Policy
 
@@ -14,7 +14,7 @@ Non Personal Information" is information that is not personally identifiable to 
 
 ## Information We Collect:
 
-Generally, you control the amount and type of information you provide to us when using our Website. Any non-financial information provided when volunatarily registering for use of the Service, including, username and password and email address. 
+Generally, you control the amount and type of information you provide to us when using our Website. Any non-financial information provided when voluntarily registering for use of the Service, including, username and password and email address. 
 
 ## Cookies:
 
