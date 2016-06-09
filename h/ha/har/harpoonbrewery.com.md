@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harpoonbrewery.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911222917id_/http%3A//www.harpoonbrewery.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harpoonbrewery.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609040437id_/http%3A//www.harpoonbrewery.com/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Harpoon Brewery
 
 Harpoon Brewery understands the importance of privacy and security with regard to exchanging information online. As such, we respect your right to privacy. All detailed information is held in confidence, and is never sold, transferred, shared or solicited to other parties.
 
