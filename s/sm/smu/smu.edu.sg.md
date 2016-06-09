@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smu.edu.sg privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209221402id_/http%3A//smu.edu.sg/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smu.edu.sg privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609204858id_/https%3A//www.smu.edu.sg/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Singapore Management University (SMU)
 
