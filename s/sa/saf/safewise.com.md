@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the safewise.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906055421id_/http%3A//www.safewise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safewise.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609104015id_/http%3A//www.safewise.com/privacy-policy) for the most accurate reproduction.*
 
 # SafeWise Privacy Policy
 
 The purpose of this Privacy Policy is to give you a summary of the ways in which Clear Link Technologies, LLC d/b/a SafeWise collects, maintains, and uses your information. Please feel free to contact us by email at privacy@clearlink.com or by mail at Clear Link Technologies, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116 with any questions or concerns about this Privacy Policy or the information we gather about you.
 
-## How We Collect Your Information
+### How We Collect Your Information
 
 We gather information about you as you use our websites, contact our customer service representatives, fill out online order forms or information request sheets, and provide your information to our sales agents. We use cookies and pixel tags to track your usage of our websites. We also use online order forms and information request sheets to obtain information from you necessary to process your orders and provide you with requested information. When you call the numbers on our websites and speak with our customer service representatives, we collect information provided during the call to ensure the best quality of service and the correct processing of your orders.
 
-## Information We Collect
+### Information We Collect
 
 We collect various types of Customer Information. A summary of the types of information that we collect is set forth below:
 
@@ -17,15 +17,15 @@ We collect various types of Customer Information. A summary of the types of info
   * Customer Order Information. Customer Order Information is that information necessary to complete your orders and requests for information. Such information may include your Customer Contact Information, programming and packaging selections, your billing and shipping information, as well as other details pertaining to your order of products and services through us.
   * Demographical Information. Demographical Information is publicly available information that we may learn about you regarding such things as your age, income, home ownership, household size, etc. that helps us to provide you with better offers for products and services.
   * Website Usage Information. Website Usage Information is information that we collect, via anonymous third-party cookies, that tells us about the way you use and navigate through our websites.
-  * This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to explain customer site usability You can choose to disable the Service at http://www.clicktale.net/disable.html.
+  * This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to explain customer site usability You can choose to disable the Service at [ http://clicktale.net/disable.html.](http://www.clicktale.net/disable.html)
 
 
 
-## Security Measures
+### Security Measures
 
 Clearlink Technologies, LLC has implemented a variety of encryption and security technologies and procedures to protect information stored in our computer systems from unauthorized access. We also maintain procedural safeguards that restrict access to your Customer Information to employees (or people working on our behalf and under confidentiality agreements) who need to know your Customer Information in order to provide the products and services that you request.
 
-## Use and sharing of customer information
+### Use and sharing of customer information
 
 All of your Customer Information is used in an effort to process your orders and requests and to provide you with the products and services you desire. We may share your Customer Information with third parties in order to complete your purchases of products and services as described below. In addition, your Customer Information may be used and shared in an effort to present to you other special offers and promotions that may become available. The extent to which we use and share your Customer Information depends upon the nature of and purpose for which we use and share it. A summary of how we share your Customer Information with third parties is set forth as follows:
 
@@ -34,25 +34,21 @@ All of your Customer Information is used in an effort to process your orders and
 
 
 
-## Opt-out Procedures
+### Opt-out Procedures
 
-To opt out from receiving further communications from us regarding other offers and promotions, or to opt out from having your information shared with any Third Party Advertisers, you may email us at privacy@clearlink.com or write to Clear Link Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. Additionally, you may opt-out by visiting the website at http://clearlink.com/unsubscribe. To opt-out of anonymous third-party advertising cookies, visit the Network Advertising Initiative website, click here <http://www.networkadvertising.org/choices/>.
+To opt out from receiving further communications from us regarding other offers and promotions, or to opt out from having your information shared with any Third Party Advertisers, you may email us at privacy@clearlink.com or write to Clear Link Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. Additionally, you may opt-out by visiting the website at http://clearlink.com/unsubscribe. To opt-out of anonymous third-party advertising cookies, visit the Network Advertising Initiative website, click here [http://www.networkadvertising.org/choices/.](http://www.networkadvertising.org/choices/)
 
-## Telemarketing
-
-IMPORTANT - PLEASE READ: By providing your contact information, including your telephone number, on this Web site, you are expressly granting us permission to contact you even though you may have previously chosen to have your telephone number added to any Do-Not-Call List including lists maintained by us, or any local, state or federal government agency. In addition, your state may have laws that prevent us from calling you on your mobile/cellular telephone. If you use a mobile/cellular telephone as your primary means of communication, please call us toll-free in the U.S. and Canada at 1-800-580-5494.
-
-## Changes to This Privacy Policy
+### Changes to This Privacy Policy
 
 We will update this Privacy Policy from time to time to reflect changes in our business. If we change how we use your Customer Information or the purposes or entities for and to which we disclose your Customer Information we will post the policy change notification on our web site.
 
-## Access to information
+### Access to Information
 
 Should you have any questions about the Customer Information we have about you or to access your information that we have on file, you may email us at privacy@clearlink.com or write to Clearlink Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the Customer Information about you that we have collected is incomplete or inaccurate, Clearlink Technologies will correct the information upon verification of the omission or error and that the person requesting the change is the person about whom the Customer Information relates.
 
-## If You Are a Resident of California
+### If You Are a Resident of California or Delaware
 
-If you are a California resident, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of your Customer Information with third parties, for the third parties' direct marketing purposes. California law provides that you have the right to submit a request to us at the designated address and receive the following information:
+If you are a California or Delaware resident, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of your Customer Information with third parties, for the third parties' direct marketing purposes. California and Delaware law provides that you have the right to submit a request to us at the designated address and receive the following information:
 
   * The categories of information we disclosed to third parties for the third parties direct marketing purposes during the preceding calendar year
   * The names and addresses of third parties that received such information: and
@@ -62,4 +58,4 @@ If you are a California resident, in addition to the rights set forth above, you
 
 You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@clearlink.com.
 
-The Effective Date hereto shall be June 01, 2009
+The Effective Date hereto shall be September 01, 2015
