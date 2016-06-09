@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revisionworld.com privacy policy that was archived on 2015-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150902050102id_/http%3A//revisionworld.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revisionworld.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609060809id_/http%3A//revisionworld.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy | content, privacy | Revision World
 
@@ -20,7 +20,7 @@ RevisionWorld.com also logs non-personally-identifiable information including IP
 
 User Profile information including members' pictures and first names are displayed to people in order to facilitate user interaction in the RevisionWorld.com social networking community. Email addresses are used for the purposes of inviting new friends to join RevisionWorld, to add users to members' friends' networks, and to send notifications related to the service. With the exception of inviting friends, adding friends, and notifications, a user's email address is not shared or displayed to people within a user's personal network Users within a personal network communicate on RevisionWorld.com with each other through the RevisionWorld.com service, without disclosing their email addresses. Users' full names are never directly revealed to other members. To facilitate searching and finding friends and acquaintances on the service, RevisionWorld.com allows users to search for other members using first and last name, email address, and schools and/or companies where users may have attended or worked.
 
-We may also use a user's email address to send updates, a newsletter or news regarding the service. Users may choose not to receive email of this type by changing their "notification" settings.
+We may also use a user's email address to send updates, a newsletter or news regarding the service. Users may choose not to receive these emails by unsubscribing at any time. We may from time to time pass on registered users email addresses to trusted third parties. Users will be able to unsubscribe from these messages at any time.
 
 From time to time, RevisionWorld.com or a partner, may sponsor a promotion, sweepstake or contest on RevisionWorld.com. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
 
