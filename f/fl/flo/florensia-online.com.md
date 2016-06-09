@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the florensia-online.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208215725id_/http%3A//www.florensia-online.com/pages/legal-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the florensia-online.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609223759id_/http%3A//www.florensia-online.com/pages/legal-policy) for the most accurate reproduction.*
 
 # Florensia Western Global | Free to Play next-gen MMOG | Play for free! florensia-online.com
 
