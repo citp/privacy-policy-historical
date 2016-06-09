@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110145910id_/http%3A//www.filemaker.com/company/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609145448id_/http%3A//www.filemaker.com/company/legal/privacy.html) for the most accurate reproduction.*
 
 # Legal: FileMaker Customer Privacy Policy
 
@@ -59,7 +59,7 @@ Pixel tags enable us to send email messages in a format customers can read, and 
 
 Learn more about [FileMaker's use of cookies](https://web.archive.org/company/legal/cookies.html).
 
-Learn more about [Do Not Track Signals](https://web.archive.org/web/20151110145910id_/http%3A//www.filemaker.com/company/legal/do-not-track).
+Learn more about [Do Not Track Signals](https://web.archive.org/web/20160609145448id_/http%3A//www.filemaker.com/company/legal/do-not-track).
 
 ### Disclosure to Third Parties
 
