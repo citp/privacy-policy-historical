@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationidea.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905082922id_/http%3A//vacationidea.com/about/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationidea.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609081733id_/http%3A//vacationidea.com/about/privacypolicy.cfm) for the most accurate reproduction.*
 
 # VacationIdea.com Privacy Policy
 
@@ -25,7 +25,7 @@ Cookies are text files place in your computer's browser to store your preference
 This site contains links to other Internet sites that have their own privacy policies. Chrema Inc has no control over information that is submitted to, or collected by these third parties. 
 
 **Advertising**  
-Chrema Inc may use a reputable third party to present or serve the advertisements that you may see on our web site. The third-party ad servers we use may place cookies and/or collect non-personally identifiable information such as your internet browser type and the number of times you have viewed an ad. If you would like to opt-out, please visit _www.networkadvertising.org/consumer/opt_out.asp_.
+Chrema Inc may use a reputable third party to present or serve the advertisements that you may see on our web site. The third-party ad servers we use may place cookies and/or collect non-personally identifiable information such as your internet browser type and the number of times you have viewed an ad. If you would like to opt-out, please visit the Digital Advertising Alliance opt-out page at http://aboutads.info/choices or the Network Advertising Initiative opt-out page at http://www.networkadvertising.org/managing/opt_out.asp .
 
 **Notice to Parents**  
 The site you are visiting is a general audience site.
