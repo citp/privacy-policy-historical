@@ -1,71 +1,124 @@
-> *The following text is extracted and transformed from the igt.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619053334id_/http%3A//www.igt.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igt.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609151103id_/https%3A//www.igt.com/en/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy | IGT
+# Privacy Notice
 
-### Privacy is very important to IGT
+The effective date of this Privacy Notice is September 1, 2015
 
-It is the policy of International Game Technology ("IGT") to respect the privacy of users who visit IGT.com or any of the other IGT Web sites (each a "Site"). To ensure this, the following policy statement explains how we collect information from you as well as how it is used.
+## Our commitment to you
 
-### Passive Collection of Information
+As a world's leading end-to-end gaming company, International Game Technology, PLC and its subsidiaries (“IGT”) is committed to data privacy, and we recognize the responsibility we have to protect the privacy rights of all individuals whose personal information is within our custody and management in accordance with applicable data protection laws and regulations.
 
-While you are on our site, we automatically track information related to your use of the Site. This information may include, among other things, URL tracking information, user's browser, user's IP address, files downloaded or viewed by the user and user's path through the Web site, date, time and frequency of accessing site and length of time spent reviewing certain features. We may also track usage through cookies. A cookie is a small data file written to a user's hard drive. Cookies may be used to, among other things, allow automated log-in and may contain information such as a login ID or other information about preferences or Internet use. If you wish to disable cookies, you may do so on your Web browser.
+As used in this Privacy Notice, terms such as “we” or “our” or “us” refer to IGT and its current and future subsidiaries.
 
-### Personal Identifying Information
+The term “personal information” used throughout this policy means any information relating directly or indirectly to a specific individual. Personal Information includes, among other information, an individual’s name, postal address, email address, telephone number, and credential information. Please note that although personal information is used throughout this document, “personal data” would have the same meaning and as such could replace the term “personal information”.
 
-We may collect your name, address, telephone number(s), e-mail address when you provide us with that information, when you request information from us, contact us, or sign up for classes with us. We may also collect information about your job history and experience, and your education when you submit your application for employment with IGT or our subsidiaries or affiliates on or through our Site. We may also ask you for other information to help us determine whether you would be eligible under various local immigration or employment laws to work in a particular country.
+We may revise this Privacy Notice from time to time as we deem appropriate consistent with the principles described in this notice, our commitment to you, our evolving business needs, or changes in applicable laws or regulations. Please check this Privacy Notice frequently to ensure that you are in agreement with any change.
 
-### How IGT Uses Information Collected
+## The purpose and applicability of this Privacy Notice
 
-IGT uses the information we collect on the Site to respond to your requests for information or questions, to improve our marketing and promotional efforts, to statistically analyze usage of our Site, to improve our content and offerings on the Site, to improve and evaluate our products and services, and to customize the content and layout of the Site.
+The purpose of this Privacy Notice is to describe how we handle your personal information as well as other information received through the [igt.com](https://web.archive.org/) website and we encourage you to read this Privacy Notice carefully before using this website. This Privacy Notice, along with the website Terms and Conditions, describe the conditions of use under which we offer you access to our services. By using our services you signify your agreement to this Privacy Notice.
 
-We may use e-mail addresses, mailing addresses or phone numbers, to contact users regarding administrative notices and for the purposes of promoting IGT® products or services and the Site. Should you wish to be removed from IGT's electronic communications list at any time, please send your request to: MemberServices@IGT.com. Should you wish to be removed from IGT's general mailing list, please contact IGT at 775-448-1826.
+This Privacy Notice does not apply to information collected through others means such as telephone or in person.
 
-If you apply for a position with IGT through this Site, we will use your information to evaluate your candidacy, and may use your name, username, and e-mail address to contact you regarding any positions for which you have applied or regarding other opportunities at IGT or our subsidiaries or affiliates in which we think you might be interested. If you are applying from outside of the United States, your information will be transferred to the United States for consideration.
+This website may contain links to other websites. We are not responsible for the security, privacy practices, or the content of such websites. Once you leave this website, using any of these links, the privacy practices mentioned in this notice do not apply and we invite you to examine the privacy statements and the Terms and Conditions that govern the other websites.
 
-### International Users
+## Information we collect about you
 
-This Site is hosted on a server in the United States and all information collected by IGT from this Site will be collected, stored, used and otherwise processed in the United States, including information from users outside the United States. By accessing this Site you consent to the transfer to and use of your information in the United States in accordance with this Policy.
+This website includes webpages asking you to provide us with your personal information in order to respond to your request for services or information. You do not have to provide us with your personal information; however, we may limit your ability to use or to request certain services or information.
 
-### Disclosure to Third Parties
+We will not intentionally collect personal information that is not relevant to the uses stated in this notice.
 
-IGT is not in the business of selling personally identifiable information to others. IGT does or may share or disclose information you provide us to other companies and people with your consent or under the circumstances described below.
+### Personal information
 
-IGT may analyze or disclose aggregated information that does not identify our users to third parties for marketing and promotional or other purposes.
+We collect your first and last names, email address, company, phone number, and your comments under the Contact Us webpage in order to answer your request. We also collect your email address under the Investor Relations webpage to provide you with email alerts.
 
-We also share user information with our subsidiaries, affiliates, business partners and service providers. These third parties may provide you information, products, or services on our behalf or to help us provide our customers with better products and services.
+We collect your login credentials (email address or username and password) under the Gaming Support webpage if you have an account with us and login into it. Please note that such accounts are intended solely for IGT customers and employees - those in the gaming industry who work directly with IGT. When registering for a member account, we may collect among other information:
 
-As we continue to develop our business, we might sell or buy assets. In such transactions, user information generally is one of the transferred business assets. Also, if all or substantially all the assets of IGT or any of its subsidiaries or affiliates assets were acquired, user information would be one of the transferred assets. We do not offer for sale personally identifiable information other than in connection with business-related transfers.
+  * Your company including country, region, city and name
+  * Your contact information including first, middle and last names, title and job title, department, landline, mobile phone and fax numbers
+  * A quality password and the reason for access from a drop list
 
-IGT reserves the right to disclose user or visitor information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) IGT's rights or property, other users or anyone else that could be harmed by such activities. IGT may also disclose user information when we believe in good faith that the law requires it.
 
-### Children
 
-The Site is generally not intended for use by children. We do not knowingly solicit or collect any personal information about children under the age of 13 or market to them.
+Please note that other third party websites may collect your personal information when you apply for and submit a job application and when you request gaming support. The privacy practices mentioned in this notice do not apply and we invite you to examine the privacy statements and the Terms and Conditions that govern the other websites.
 
-### Security
+### Information from web technologies
 
-IGT uses reasonable security measures to safeguard the confidentiality of information that it collects. IGT limits access to such information to authorized personnel only.
+We use other web technologies, which may include “Cookies” and other web technologies to gather information that also help us understand how you use our website. A cookie is a small text file composed of letters and numbers that is stored on your computing device. A cookie may be persistent in order to keep your profile and preferences or may expire at the end of a web session. In particular, we use non-persistent cookies which expire at the end of the browser session to determine your usage of this website. We track activities of our logged-in account members. We may also use click events on certain graphics and data attributes.
 
-### Other Sites and Third Parties
+Your computer devices may allow you to disable cookies and similar web artifacts by setting your browser preferences at any time; however, we may require the use of these web technologies to enable us for instance to establish the connection between your device and this website or to personalize and improve your experience and the site navigation.
 
-This policy only addresses the use and disclosure of information IGT collects on this site. IGT does not control and is not responsible for the privacy practices of other sites or third parties to whom you may link from our site.
+### Information from monitoring tools
 
-### General
+We use the default capabilities of your browser as well as those used by Google Analytics and New Relic monitoring tools to collect anonymous information about your usage of this website. By visiting this website, we will automatically gather and store the following information including, but not limited to the following:
 
-IGT cooperates with law enforcement agencies in identifying those who use our site for illegal activities. Therefore, IGT responds to subpoenas, warrants or other court orders regarding information concerning any users. We will, at our discretion, disclose information if we believe we are required to do so by law, believe that such disclosure is necessary to protect us from legal liability or believe we need to do so to protect someone's safety or the integrity of the site.
+  * Internet Protocol (“IP”) address and domain name of the device you are using when browsing this website. The IP address is a dynamic or static numerical identifier assigned either to an Internet Service Provider (“ISP”) or directly to a person’s computer
+  * Type of browser and operating system you are using
+  * Date and time of your visit on this website
+  * Webpages or services accessed at this website
 
-This Privacy Policy is subject to the terms of the applicable IGT Terms and Conditions of Use. IGT reserves the right to change this Privacy Policy. Any changes to this Policy will be posted to this page as soon as reasonably possible and will become effective immediately. Therefore, please check this page periodically. Use of the Site constitutes consent to use of your information in accordance the Privacy Policy then in effect.
 
-The operator of this Site is
 
-IGT Reno  
-9295 Prototype Drive  
-Reno, NV 89521-8986  
-United States  
-775-448-7777  
-www.IGT.com
+Google Analytics and New Relic record visitor traffic but does honor your browser cookie blocking setting.
 
-If you have any questions regarding IGT's Privacy Policy, please contact [Webmaster@IGT.com](mailto:Webmaster@IGT.com?Subject=Privacy%20Policy).
+## How we use information we collect about you
 
-  
+We may use your information for purposes such as:
 
+  * To respond and/or follow up on your request
+  * To alert you with news releases when you subscribe
+  * To create your member account and provide you with gaming support
+  * To improve your website experience and customize our services we provide to you
+  * To comply with applicable laws and regulations or to respond to a public authority request
+  * To protect our rights or the integrity of this website
+
+
+
+We may also de-identify, combine, or aggregate any of the information we collect for analyzing usage statistics and trends.
+
+We will not use your personal information for purposes that are incompatible with the purposes for which we originally received your information without your express consent.
+
+We will retain your information only as long as you are a registered member of this website or use our services and as necessary for us to comply with a public authority, resolve disputes, troubleshoot problems, and as otherwise reasonably necessary for our business purposes including but not limited to compliance with all applicable laws and regulations.
+
+## With who we may share information about you
+
+We will not sell or lease your personal information to third parties without your consent.
+
+We may disclose your information to IGT affiliates as well as NTT Data, (add)ventures, and Masterminds who work on our behalf and have agreed to adhere to the rules set forth in this Privacy Notice. We may also disclose your information to other business partners such as NASDAQ.
+
+We may disclose your information to other entities in the event IGT goes through a business transition, such as a merger, acquisition, or sale of all or a portion of our assets, as your personal information might be among the assets transferred.
+
+We may also disclose your information when we believe in good faith that disclosure is necessary to protect our rights or the integrity of the website, prevent harm to other visitors or protect your safety, investigate fraud or breaches of a contract or a law, or respond to a legal process or a request from a public authority.
+
+We may store your information in our facilities such as but not limited to Reno for support activities as well as on Amazon Web Services located in Portland, Oregon, U.S.A and Dublin, Ireland to facilitate your connectivity by accessing our services from multiple devices, anytime, anywhere.
+
+Please note that when you are visiting this website from a country other than the country in which our servers are located, the exchange of information between your location and this website will necessarily result in a cross border transfer of that information. By visiting and providing information to this website, you consent to the processing and transfer of your data across international boundaries.
+
+## How do we protect your information
+
+We have reasonable and customary security measures in place to protect against unauthorized access, use, and disclosure of your personal information. As an example of such measures, we restrict access to personal information on a need to know basis.
+
+To protect the confidentiality, integrity, availability of your personal information in our custody, we maintain physical, logical, and procedural safeguards in compliance with internationally recognized standards and other industry based security best practices. As part of these best practices, we are reviewing our privacy policies on a regular basis to ensure our compliance with data protection laws and regulations of the jurisdictions in which we do business.
+
+As an example of such compliance, our U.S. entity, IGT Global Solution Corporation, abides by the voluntary Safe Harbor Principles managed by the U.S. Department of Commerce for the collection, use, and retention of personal information from countries in the European Economic Area (“EEA”) and Switzerland. To learn more about the U.S. Department of Commerce Safe Harbor Program and view our certification, please visit <http://export.gov/safeharbor/index.asp>.
+
+## What can you do about the information that we collect and handle
+
+First and foremost, you need to agree with the terms as set forth in this Privacy Notice along with our Terms and Conditions.
+
+Within reasonable limits on expenses and frequency requests, we will allow you to view or get a copy of the information we are holding about you, or request changes to correct any information we are holding about you that you believe is inaccurate or incomplete.
+
+You may submit your request in writing to; email or call us at the postal or electronic addresses or phone number as indicated in this Privacy Notice. We will promptly correct any incomplete or inaccurate information or in the event your request was denied, communicate the reason for the denial and generate a written record of that request and the reason(s) for denial.
+
+If you choose not to agree with these terms or you choose to cease your membership at a later time, we may limit your ability to receive certain services or information.
+
+## How you can contact us
+
+If you have any concern about this Privacy Notice or our privacy practices, please contact us:
+
+International Game Technology PLC (IGT)  
+66 Seymour Street  
+London, U.K. WH1 5BT 
+
+Phone +44 02075353200  
+Email: [privacy@igt.com](mailto:privacy@igt.com?Subject=Privacy%20Notice)
