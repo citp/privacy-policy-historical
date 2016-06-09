@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midsouthshooterssupply.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210025340id_/http%3A//www.midsouthshooterssupply.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midsouthshooterssupply.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609085913id_/http%3A//www.midsouthshooterssupply.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Shooting Supplies | MidsouthShootersSupply.com
 
