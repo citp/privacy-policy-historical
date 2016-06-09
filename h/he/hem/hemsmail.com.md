@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hemsmail.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209062658id_/http%3A//hemsmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hemsmail.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609194455id_/http%3A//hemsmail.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hems Mail ™ : Email Marketing India | SMTP Server | Bulk Email
+# Privacy Policy - Email Marketing India | SMTP Server India
 
 ### PRIVACY STATEMENT
 
