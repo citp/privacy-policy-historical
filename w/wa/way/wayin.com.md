@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wayin.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906210130id_/http%3A//wayin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wayin.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609142525id_/http%3A//wayin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wayin - Social Media Marketing
+# Privacy Policy | Wayin - Creating Authentic Campaign Experiences
 
 This Privacy Policy applies to Wayin.com (the “Site”) and other services provided to third parties by Wayin, Inc. as further described below (“Services”). By using the Site or the Services, you consent to the practices described in this Privacy Policy. If you do not agree to the terms set forth in this Privacy Policy, you may not use our Site or Services.
 
@@ -48,7 +48,7 @@ We may share your PII or Non-PII collected through our Site or Services with: (i
 
 Please be aware that by using our Site or Services you are deemed to have accepted and agreed to the sharing of your Information collected through our Site and Services in the manner described in this Privacy Policy, and the sharing of your Social Media Content in accordance with the terms and policies of the applicable social media platform through which it was initially submitted, and we will not be required to obtain your consent for any disclosure described herein.
 
-In accordance with California law, if you would like to obtain a list of the third parties to whom we have disclosed PII for direct marketing purposes during the preceding calendar year, please write to us at: Wayin, Inc., Attn: Legal, 1623 Blake St.  #350, Denver, CO 80202.
+In accordance with California law, if you would like to obtain a list of the third parties to whom we have disclosed PII for direct marketing purposes during the preceding calendar year, please write to us at: Wayin, Inc., Attn: Legal, 1625 Blake St, Denver, CO 80202.
 
 **Security of your Personal Information**
 
@@ -67,7 +67,7 @@ Any questions or concerns about our privacy practices should be sent to Wayin at
 
 Wayin Inc.,  
 Attn: Legal  
-1623 Blake St. #350  
+1625 Blake St  
 Denver, CO 80202.  
 [contactsus@wayin.com](mailto:contactsus@wayin.com)
 
@@ -89,4 +89,4 @@ This Site and our Services are not intended for use by children under the age of
 
 Wayin welcomes your comments regarding this Privacy Policy. If you have any questions about our practices with regard to your PII or Non-PII, or if you believe that Wayin has not adhered to this Privacy Policy, please contact Wayin at contactus@wayin.com.
 
-This Privacy Policy is effective on July 20, 2015.
+This Privacy Policy is effective on September 15, 2015.
