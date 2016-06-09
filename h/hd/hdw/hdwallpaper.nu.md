@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallpaper.nu privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107144559id_/http%3A//www.hdwallpaper.nu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpaper.nu privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609093126id_/http%3A//www.hdwallpaper.nu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HD Wallpaper .NU
 
@@ -29,11 +29,9 @@ To provide relevant information not found on our Web site, hdwallpaper.nu may pr
 Any personal information that you disclose while visiting any of our websites is collected by hdwallpaper.nu, and is used in the manner specified above.
 
 **Questions and Complaints**  
-If you have any questions, complaints or comments regarding our Privacy Policy Statement, please [contact us](https://web.archive.org/contact).
-
 By using this site, you signify your assent to the hdwallpaper.nu Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
 
 **Additional Privacy Policy Information**  
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please contact us by email.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please contact us.
