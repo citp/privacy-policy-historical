@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the karooya.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207165524id_/http%3A//www.karooya.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the karooya.com privacy policy that was archived on 2016-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609202334id_/http%3A//www.karooya.com/privacy-policy) for the most accurate reproduction.-->
 
-<html lang="en"><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<html lang="en"><head><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="https://api.calq.io/lib/js/core-1.0.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 
     sendSignupAttemptNotification = function(linkName) {
       $.ajax({
@@ -30,7 +30,7 @@
 <link href="http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic" rel="stylesheet" type="text/css">
 
 <!-- Add custom CSS here -->
-<link href="/css/small-business.css?20140612" rel="stylesheet">
+<link href="/css/small-business.css?20160129" rel="stylesheet">
 <link href="/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -42,6 +42,9 @@
 <!-- JavaScript -->
 <script src="/js/jquery-1.10.2.js"></script>
 <script src="/js/bootstrap.min.js"></script>
+
+<script src="/js/common-utils.js?20160129"></script>
+
 <!--  Declare Global Java variables -->
 
 <script async="" src="//static.hotjar.com/c/hotjar-5932.js?sv=2"></script></head>
@@ -51,7 +54,7 @@
     <div class="row">
         <div class="col-lg-2">
             <a class="navbar-brand logo-nav" href="/">
-                <img src="/images/karooya-logo-small.jpg">
+                <img alt="Karooya" src="/images/karooya-logo-small.jpg">
             </a>
         </div>
         <div class="col-lg-6 col-lg-offset-4">
@@ -86,23 +89,24 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand logo-nav" style="padding: 5px 15px;" href="/">
-                <img src="/images/karooya-logo-for-navbar-small.png">
+                <img alt="Karooya" src="/images/karooya-logo-for-navbar-small.png">
             </a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="http://app.karooya.com/signup?p=n" onclick="sendSignupAttemptNotification('navbar')">Free Trial</a></li>
+                <li><a href="http://app.karooya.com/signup?p=n" onclick="sendSignupAttemptNotification('navbar')">Start Free Trial</a></li>
                 <li><a href="/benefits-for-agencies">Agencies</a></li>
                 <li><a href="/benefits-for-advertisers">Advertisers</a></li>
                 <li><a href="/pricing">Pricing</a></li>
-                <li><a href="/exact-match-close-variant-solution">Exact Match Solution</a></li>
+                <li><a href="/negative-keywords-tool-for-bing-ads">Bing Ads Support</a></li>
                 <li class="hidden-lg hidden-md hidden-sm"><a href="http://app.karooya.com/">Sign In</a></li>
             </ul>
         </div> <!-- /.navbar-collapse -->
     </div> <!-- /.container -->
 </nav>
+
 
     <div class="container">
 
@@ -389,6 +393,8 @@
                     <li><a href="pricing">Plans and Pricing</a></li>
                     <li><a href="/benefits-for-agencies"> Benefits for Agencies </a></li>
                     <li><a href="/benefits-for-advertisers"> Benefits for Advertisers </a></li>
+                    <li><a href="/negative-keywords-tool-for-bing-ads">Bing Ads Support</a></li>
+                    <li><a href="/exact-match-close-variant-solution">Exact Match Solution</a></li>
                 </ul>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-4">
@@ -414,7 +420,7 @@
 <!-- 
 <div id="footer">
   <div class="container">
-    <p class="text-muted credit">&copy; Karooya 2013-15</p>
+    <p class="text-muted credit">&copy; Karooya 2013-16</p>
   </div>
 </div>
  -->
@@ -428,6 +434,40 @@
   ga('create', 'UA-46662882-1', 'karooya.com');
   ga('send', 'pageview');
 </script>
+<script type="text/javascript">
+(function (e, t) { if (!t.__SV) { window.calq = t; var n = e.createElement("script"); n.type = "text/javascript"; n.src = "http" + ("https:" === e.location.protocol ? "s" : "") + '://api.calq.io/lib/js/core-1.0.js'; n.async = !0; var r = e.getElementsByTagName("script")[0]; r.parentNode.insertBefore(n, r); t.init = function (e, o) { if (t.writeKey) return; t.writeKey = e; t._initOptions = o; t._execQueue = []; m = "action.track action.trackSale action.trackHTMLLink action.trackPageView action.setGlobalProperty user.profile user.identify user.clear".split(" "); for (var n = 0; n < m.length; n++) { var f = function () { var r = m[n]; var s = function () { t._execQueue.push({ m: r, args: arguments }) }; var i = r.split("."); if (i.length == 2) { if (!t[i[0]]) { t[i[0]] = [] } t[i[0]][i[1]] = s } else { t[r] = s } }(); } }; t.__SV = 1 } })(document, window.calq || []);
+calq.init("cb598a1c8161942ef5e8e9a3a6c02600", {'cookieDomain':'.karooya.com'});
+calq.action.trackPageView();   // [Optional] Leave if you want to automatically create a "Page View" action
+
+var COOKIE_NAME_KAROOYA_LANDING = "landing-karooya";
+var COOKIE_NAME_KAROOYA_REFERER = "ref-karooya";
+
+function checkAndInitFirstVisit() {
+  if (!getCookie(COOKIE_NAME_KAROOYA_REFERER)) {
+    var referrer = getReferrer();
+    var currentPageURL = getCurrentPageURL();
+    setCookie(COOKIE_NAME_KAROOYA_REFERER, encodeBase64(referrer), 7, ".karooya.com", "/");
+    setCookie(COOKIE_NAME_KAROOYA_LANDING, encodeBase64(currentPageURL), 7, ".karooya.com", "/");
+    calq.action.track("karooya_first_visit", {"karooya_referral_source": referrer, "karooya_landing_page":currentPageURL});
+  }
+}
+
+$(document).ready(checkAndInitFirstVisit);
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1772415342988941');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1772415342988941&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 
 
 
