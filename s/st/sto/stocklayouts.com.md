@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the stocklayouts.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208165119id_/http%3A//www.stocklayouts.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocklayouts.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609224643id_/http%3A//www.stocklayouts.com/Privacy.aspx) for the most accurate reproduction.*
 
 # StockLayouts | Privacy Policy
+
+StockLayouts Privacy Policy for the Internet 
 
 StockLayouts LLC respects your ability to make informed choices about the collection and uses of your personal information. This privacy policy tells you about our online collection and uses of information that identifies you personally so that you can make an informed choice about using this site. The terms of this policy apply to www.stocklayouts.com unless different terms are otherwise specified in a form or contract provided to you by us. 
 
