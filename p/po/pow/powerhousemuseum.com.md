@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906101616id_/https%3A//maas.museum/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609164324id_/https%3A//maas.museum/privacy) for the most accurate reproduction.*
 
-# Privacy | Museum Of Applied Arts And Sciences
+# Privacy – Museum Of Applied Arts And Sciences
 
 Museum of Applied Arts and Sciences is committed to protecting your privacy, including throughout and as a result of your interaction/s with our websites. These include:
 
@@ -9,6 +9,7 @@ Museum of Applied Arts and Sciences is committed to protecting your privacy, in
   * sydneyoberservatory.com
   * castlehill.powerhousemuseum.com
   * sydneydesign.com.au
+  * makerfairesydney.com
   * dhub.org
   * ultimosciencefestival.com
   * migrationheritage.nsw.gov.au
