@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iselect.com.au privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507082631id_/http%3A//www.iselect.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iselect.com.au privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609113658id_/http%3A//www.iselect.com.au/privacy-policy) for the most accurate reproduction.*
 
 # iSelect Privacy Policy
 
@@ -39,7 +39,7 @@ Please contact us if you have any questions regarding iSelect’s Privacy Policy
 
 ## How does iSelect collect and hold your personal information?
 
-iSelect will only collect personal information about you by lawful and fair means. iSelect collects personal information in a variety of ways. It is iSelect's usual practice to collect personal information directly from you (or from your authorised representative), for example when:
+iSelect will only collect personal information about you by lawful and fair means. iSelect collects personal information in a variety of ways. It is iSelect’s usual practice to collect personal information directly from you (or from your authorised representative), for example when:
 
   * you enquire about or seek a quotation for a product or service offered by our participating providers;
   * you apply for or purchase a product offered by an iSelect business and or our participating providers;
@@ -68,7 +68,7 @@ If you provide your personal information to a third party via iSelect (for examp
 
 We may monitor and record calls that you make to us in certain circumstances. For example, calls to our contact center are monitored and recorded for training and customer service purposes and to meet our regulatory obligations.
 
-Some of the products offered by our participating providers can cover more than one person (for example, family and couples health insurance policies that cover two or more persons). If you provide us with information about your partner or a dependant on the policy, you must obtain that person's permission to give us the information and inform them of this policy.
+Some of the products offered by our participating providers can cover more than one person (for example, family and couples health insurance policies that cover two or more persons). If you provide us with information about your partner or a dependant on the policy, you must obtain that person’s permission to give us the information and inform them of this policy.
 
 If we are not able to collect your personal information, we may not be able to provide you with our products or services or do business with you or the organisation with which you are connected.
 
