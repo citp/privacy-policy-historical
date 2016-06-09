@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayako.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229060258id_/http%3A//www.kayako.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayako.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609045839id_/http%3A//www.kayako.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy | Kayako - Live Chat & Helpdesk software
 
@@ -72,13 +72,13 @@ You may contact Kayako using any of the methods outlined here: [www.kayako.com/c
 
 Our mailing addresses are:
 
-### Kayako Helpdesk Pvt. Ltd.
+### Kayako Support Systems Pvt. Ltd.
 
-Fourth Floor, Midland Financial Centre
+16th Floor
 
-21-22 G.T.Road
+Building 14B
 
-Jalandhar Punjab, 144001
+DLF Cyber City Gurgaon, 122002
 
 India
 
