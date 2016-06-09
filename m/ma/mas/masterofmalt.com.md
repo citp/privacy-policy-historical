@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterofmalt.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905121923id_/https%3A//www.masterofmalt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterofmalt.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609212218id_/https%3A//www.masterofmalt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Master of Malt
 
@@ -17,7 +17,7 @@
 
 ### introduction
 
-This policy (together with our terms of use (which can be found here: <https://www.masterofmalt.com/terms-of-use>)) explains how we process personal data. Please read it carefully. By visiting [www.masterofmalt.com](https://web.archive.org/web/20150905121923id_/https://www.masterofmalt.com/privacy-policy/www.masterofmalt.com) (our website) you are accepting and consenting to the terms of this policy.
+This policy (together with our terms of use (which can be found here: <https://www.masterofmalt.com/terms-of-use>)) explains how we process personal data. Please read it carefully. By visiting [www.masterofmalt.com](https://web.archive.org/web/20160609212218id_/https://www.masterofmalt.com/privacy-policy/www.masterofmalt.com) (our website) you are accepting and consenting to the terms of this policy.
 
 We are committed to protecting your privacy. We will only use the information that we collect about you in accordance with the UK Data Protection Act 1998. For the purposes of that Act, the data controller is Atom Supplies Limited, a company registered in England and Wales under company number 03193057 whose registered office is at North House, 198 High Street, Tonbridge, Kent TN9 1BE. The nominated representative is Tom McGuinness, whose principal place of business is 8a London Road, Tunbridge Wells, Kent TN1 1DA.
 
@@ -55,7 +55,7 @@ A “cookie” is a small text file that’s stored on your device when you visi
 
 Some cookies are deleted when you close down your browser. Others remain on your device until they expire or you delete them from your cache. These enable us to remember things about you as a returning visitor.
 
-For more information about cookies, please visit [www.allaboutcookies.org](https://web.archive.org/web/20150905121923id_/https://www.masterofmalt.com/privacy-policy/www.allaboutcookies.org). Alternatively, you can search the internet for other independent information on cookies.
+For more information about cookies, please visit [www.allaboutcookies.org](https://web.archive.org/web/20160609212218id_/https://www.masterofmalt.com/privacy-policy/www.allaboutcookies.org). Alternatively, you can search the internet for other independent information on cookies.
 
 ### cookies - how we use them
 
