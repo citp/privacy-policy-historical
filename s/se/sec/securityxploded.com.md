@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the securityxploded.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209204153id_/http%3A//securityxploded.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityxploded.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609020204id_/http%3A//securityxploded.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.SecurityXploded.com
 
-|   
----  
-Privacy Policy - www.SecurityXploded.com  |    
+|  Privacy Policy - www.SecurityXploded.com  |    
 ---  
    
 Privacy Policy  
@@ -42,36 +40,28 @@ The data collected from feedback program is not stored anywhere except that feed
   
 |  Final Note   
 ---  
-If you believe that information presented above is incorrect or incomplete, please write to the Author through our [Feedback form](https://web.archive.org/web/20151209204153id_/http%3A//securityxploded.com/sitefeedback.php). Author will be more than happy to address any of your concerns or issues.  
-|    
+If you believe that information presented above is incorrect or incomplete, please write to the Author through our [Feedback form](https://web.archive.org/web/20160609020204id_/http%3A//securityxploded.com/sitefeedback.php). Author will be more than happy to address any of your concerns or issues.  
+|   
 ---  
-| New Tool [»  ](https://web.archive.org/web/20151209204153id_/http%3A//securityxploded.com/new-softwares.php)  
+| Just Launched [»»  ](http://xenarmor.com/network-ssl-certificate-scanner.php)  
 ---  
-[](https://web.archive.org/web/20151209204153id_/http%3A//securityxploded.com/windows-spy-keylogger-free.php)
-
-Windows Spy Keylogger v1.0  
-  
-| 10 Million Downloads [»  ](https://web.archive.org/web/20151209204153id_/http%3A//securityxploded.com/statistics.php)  
----  
-[](https://web.archive.org/web/20151209204153id_/http%3A//securityxploded.com/statistics.php)
-
-Special thanks to all our millions of fans!!!  
+[](http://xenarmor.com/network-ssl-certificate-scanner.php)  
   
 | Security Training  
 ---  
-[](https://web.archive.org/web/20151209204153id_/http%3A//securityxploded.com/security-training.php)
+[](https://web.archive.org/web/20160609020204id_/http%3A//securityxploded.com/security-training.php)
 
 Our Free Advanced Malware Analysis Training Series  
   
-| Testimonials [»  ](https://web.archive.org/web/20151209204153id_/http%3A//securityxploded.com/testimonials.php)  
+| Testimonials [»»  ](https://web.archive.org/web/20160609020204id_/http%3A//securityxploded.com/testimonials.php)  
 ---  
-[](https://web.archive.org/web/20151209204153id_/http%3A//securityxploded.com/testimonials.php)
+[](https://web.archive.org/web/20160609020204id_/http%3A//securityxploded.com/testimonials.php)
 
-"I have found 'SecurityXploded' tools to be an invaluable asset in many of our Forensic Investigations..."  
+"I have found 'SecurityXploded' tools to be an invaluable asset..."  
 \- James, Police Dept, Delaware, USA  
   
-| Awards [»  ](https://web.archive.org/web/20151209204153id_/http%3A//securityxploded.com/awards.php)  
+| Awards [»»  ](https://web.archive.org/web/20160609020204id_/http%3A//securityxploded.com/awards.php)  
 ---  
-[](https://web.archive.org/web/20151209204153id_/http%3A//securityxploded.com/awards.php)
+[](https://web.archive.org/web/20160609020204id_/http%3A//securityxploded.com/awards.php)
 
 Awards for our softwares from leading Download Sites
