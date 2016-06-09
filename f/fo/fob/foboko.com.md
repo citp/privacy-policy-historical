@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foboko.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209191024id_/http%3A//www.foboko.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foboko.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609232127id_/http%3A//www.foboko.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Foboko
 
-**Paradise Publishing, Inc.** (the “Company”) recognizes that its customers, visitors, users, and others who use www.foboko.com or other web sites owned or operated by the Company (the “Websites”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Websites. Company provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Websites.
+**Foboko** (this website) recognizes that its customers, visitors, users, and others who use www.foboko.com or other web sites owned or operated by the Company (the “Websites”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Websites. Company provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Websites.
 
 This Privacy Notice is incorporated into and is subject to the Company [Terms of Service](https://web.archive.org/legal/tos). Your use of the Websites and any personal information you provide on the Websites remains subject to the terms of this Privacy Notice and our Terms of Service.
 
@@ -86,11 +86,11 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 The Company regularly reviews its compliance with this Privacy Policy. Please direct any questions or concerns regarding this Privacy Policy or the Company’s treatment of personal information and/or payment information by contacting us using our support contact form found at our [contact form](https://web.archive.org/help/contact) or by writing to us at: 
 
-> Paradise Publishers Inc.  
->  112 North Curry Street  
->  Carson City  
->  Nevada  
->  89703-4934 USA 
+> Senad Santic  
+>  Norra Dragspelsgatan 6  
+>  Västra Frölunda  
+>  Västra Götaland  
+>  42143 Sweden 
 
 When we receive formal written complaints at this address, it is our policy to contact the complaining user regarding his or her concerns. 
 
