@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dutiesjob.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515063657id_/http%3A//dutiesjob.com/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dutiesjob.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609073149id_/http%3A//dutiesjob.com/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy for [Duties Job] ([http://dutiesjob.com](http://dutiesjob.com/ "duties job") or ([dutiesjob.com](http://dutiesjob.com/ "duties job")) ) **
+**Privacy Policy for [Duties Job] [[http://dutiesjob.com](http://dutiesjob.com/ "duties job") or [dutiesjob.com](http://dutiesjob.com/ "duties job") domain (including any related subdomains 'SubDomain'.dutiesjob.com.com)]**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at 
 
