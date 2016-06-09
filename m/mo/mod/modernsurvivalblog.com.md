@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernsurvivalblog.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208203935id_/http%3A//modernsurvivalblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernsurvivalblog.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609051959id_/http%3A//modernsurvivalblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,7 @@ At ModernSurvivalBlog.com, the privacy of our visitors is of utmost importance. 
 
    
 **Log Files**  
-Like many other Web sites, ModernSurvivalBlog.com makes use of log files in an effort to improve the user experience. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. 
-
-**IP addresses, and other such information are NOT linked to any information that is personally identifiable.**
+Like many other Web sites, ModernSurvivalBlog.com makes use of log files in an effort to improve the user experience. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages – which are used to analyze trends and to administer the site. 
 
    
 **DoubleClick DART Cookie**  
