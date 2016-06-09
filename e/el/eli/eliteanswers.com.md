@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eliteanswers.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207121454id_/http%3A//www.eliteanswers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eliteanswers.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609105412id_/http%3A//www.eliteanswers.com/privacy) for the most accurate reproduction.*
 
 # EliteAnswers.com Privacy Policy
 
@@ -71,7 +71,7 @@ Elite Answers Inc. ("Elite Answers") is committed to providing you a first-class
 
 **Changes to this Privacy Policy**
 
-  * Elite Answers may periodically update this policy. Major updates will be complimented with prominent notice on our site noting that a change has occurred. 
+  * Elite Answers may periodically update this policy. Major updates will be complemented with prominent notice on our site noting that a change has occurred. 
 
 
 
