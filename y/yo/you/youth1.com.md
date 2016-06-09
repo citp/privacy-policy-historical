@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youth1.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231080607id_/http%3A//youth1.com/article/privacy-satement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youth1.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609190256id_/http%3A//youth1.com/article/privacy-satement) for the most accurate reproduction.*
 
 # Privacy Satement | Youth1
 
@@ -39,7 +39,7 @@ The security of your personal information is important to us. Whenever we need t
 
 Forums, Community and Groups
 
-If you use a community or forum on this site you should be aware that any personally identifiable information you submit there can be read, collected, or used by other community and forum users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit. Youth1 LLC reserves the right to terminate the accounts of users who use these services in a manner inconsistent with our [Terms of Service.](https://web.archive.org/web/20151231080607id_/http%3A//youth1.com/article/index.php?option=com_content&view=article&id=214:terms-of-service&catid=172:company-documents&Itemid=227) Please review the [Terms of Service](https://web.archive.org/web/20151231080607id_/http%3A//youth1.com/article/index.php?option=com_content&view=article&id=214:terms-of-service&catid=172:company-documents&Itemid=227) during registration.
+If you use a community or forum on this site you should be aware that any personally identifiable information you submit there can be read, collected, or used by other community and forum users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit. Youth1 LLC reserves the right to terminate the accounts of users who use these services in a manner inconsistent with our [Terms of Service.](https://web.archive.org/web/20160609190256id_/http%3A//youth1.com/article/index.php?option=com_content&view=article&id=214:terms-of-service&catid=172:company-documents&Itemid=227) Please review the [Terms of Service](https://web.archive.org/web/20160609190256id_/http%3A//youth1.com/article/index.php?option=com_content&view=article&id=214:terms-of-service&catid=172:company-documents&Itemid=227) during registration.
 
 Business Transitions
 
