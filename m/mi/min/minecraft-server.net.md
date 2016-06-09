@@ -1,37 +1,61 @@
-> *The following text is extracted and transformed from the minecraft-server.net privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009030646id_/http%3A//minecraft-server.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-server.net privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609193441id_/http%3A//minecraft-server.net/page/privacy) for the most accurate reproduction.*
 
-# Refund and Privacy Policies | Minecraft Server List
+# Privacy Policy | Minecraft Servers List
 
-### General
+**What information do we collect?**
 
-This Privacy Policy relates to the product Soulsplit and the associated website at soulsplit.com and it's subdomains are owned and operated by Ryan Herman Co. Ryan Herman Co are committed to integrity and professionalism in all areas of our services and therefore we take our obligations under the Data Protection Act 1998 (“the Act”) seriously. We will use all reasonable endeavours to protect your privacy and ensure that personal data is collected and processed in accordance with the Act and only as outlined below. 
+We collect information from you when you register on http://minecraft-server.net, place an order and/or when you vote for a minecraft server on this web site.
 
-### Your personal data: what we collect
+When registering on http://minecraft-server.net, as appropriate, you will be asked to enter your: e-mail address. You may, however, visit http://minecraft-server.net anonymously. When placing an order we will require your name and address. For European costumers that represent a company we may also require a valid Business name, Registration number and VAT before placing an order. When voting for a minecraft server on http://minecraft-server.net we may collect your entered minecraft username (for Votifer purposes) and IP address to prevent double-voting and also to validate your vote. 
 
-We may collect the following types of personal data from you if you buy products or services from us: Your name, email address (that of the payment and/or for login purposes) and IP address; When you are browsing our website, we may collect information about your computer, including your IP address, operating system. We may obtain information by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive and allow us to recognise your PC and your preferred settings. Most browsers can be programmed to reject, or warn you, before using cookies. 
+**What do we use your information for?**
 
-### Your personal data: how we use it
+Any of the information we collect from you may be used in one of the following ways:   
+• To personalize your experience (your information helps us to better respond to your individual needs).  
+• To improve Minecraft-Server.net (we continually strive to improve http://minecraft-server.net offerings based on the information and feedback we receive from you).  
+• To prevent booting or any kind of ways to cheat the voting system.  
+• To improve our customer service (your information helps us to more effectively respond to your customer service requests and support needs).  
+• To process transactions (such as payments for additional services).  
+• At the point when an end-user wishes to make a payment, his registration details may be passed to Paymentwall that provides payment processing services, in order for Paymentwall to better protect service and end-users from unauthorized payments
 
-We will use your personal data for administrative purposes, including making a contract with you, billing you, receiving payment from you and carrying out services for you. We may use the data you provide to conduct appropriate anti-fraud checks. To ensure that your credit, debit or charge card has not been used without your consent, we will validate name, address and other personal information that you supply during the order and payment process. In performing these checks, personal data you provide may be disclosed to a registered Credit Reference Agency, which may keep a record. This is done only to confirm your identity and no credit check is performed, and your credit rating should not be affected. We may use your email address to contact you with news, updates, and Soulsplit related matters 
+• Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-### Your personal data: use by third parties
+• To administer a contest, promotion, survey or other site feature.  
+• To send periodic emails (the email address you provide for order processing, will only be used to send you information and updates pertaining to your order).
 
-We will not provide any other your personal data to any third party unless you specifically authorise us to do so; or we need to do so in relation to a payment transaction with a credit or debit card company or in relation to a direct debit transaction with a bank or other financial institution or credit reference agency; or we are required to do so by law or other binding regulation. 
+**How do we protect your information?**
 
-### Maintaining records
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. Information we collect may be stored or processed on computers located in any country where we do business. Special situations may require disclosure of your data.
 
-In line with current requirements under the Data Protection Act, 1998, we will retain your personal data for no longer than necessary. We encourage you to provide full personal data and you agree to provide personal data which is in all respects true, accurate and up to date and is not misleading, deceptive or inaccurate. 
+**Do we use cookies?**
 
-### Data security
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-We will take reasonable steps to protect the personal data under our control from unauthorised access, improper use and disclosure. Even though we have taken reasonable steps to protect your data whilst it is being transmitted, we cannot guarantee the security of any data transmitted to us by the internet and any transmission is at your own risk. Once we have received your data, we will use strict procedures and security features to prevent unauthorised access. 
+We use cookies only to save your login preferences for future visits and to prevent booting and voting cheats. If you wish to disable cookies, you may do so through your individual browser options.
 
-### Requesting information
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website and/or minecraft server. Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. We at http://minecraft-server.net use tools such as (but not limited too) Google Analytics, Google Webmasters and Google Adsense to help improve the experience and maintain our service.
 
-The full extent of the personal data we hold on you is displayed in the Administration section of our website at soulsplit.com. You may ask us to provide you with a copy of the personal data we hold about you for a nominal fee by sending an email to info@soulsplit.com. For your protection, we may ask for proof of your identity before providing any information and reserve the right to refuse to provide information requested if your identity is not established to our satisfaction. 
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
-### Our details
+http://minecraft-server.net (and any sub domains) uses a third party protection service offered by Cloudflare. This service may place cookies on the browsers in order to track malicious visitors, to reduce the chance of blocking legitimate users, and to provide customized services. The __cfduid cookie by Cloudflare is used to override any security restrictions based on the IP address the visitor is coming from. If you do not want CloudFlare to use cookies, you can disable them within your browser. 
 
-The contact details of our Data Protection Compliance Officer are: Ryan Herman support@minecraft-server.net 
+**Do we disclose any information to outside parties?**
 
-If you have any enquiry or concern about our Privacy Policy, or the way we are handling your personal data, please contact us at the address above.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating http://minecraft-server.net, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. 
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on http://minecraft-server.net. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through http://minecraft-server.net and not to information collected offline.
+
+**Your Consent**
+
+By using and accessing http://minecraft-server.net website, you consent to our privacy policy.
+
+Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on http://minecraft-server.net or application. If the change materially affects registered users, we will send a notice to you by email, notification or text.   
+If you have any questions or concerns about our privacy policies, please [ Contact Us](http://minecraft-server.net/contact/)
+
+**Last Edit : 14th October 2015**
