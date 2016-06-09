@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virustotal.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630034726id_/https%3A//www.virustotal.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virustotal.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609043857id_/https%3A//virustotal.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy - VirusTotal
 
