@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magnetstreet.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055424id_/http%3A//www.magnetstreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnetstreet.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609073525id_/http%3A//www.magnetstreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ Users may opt out of Google's use of cookies by visiting the
 
 When MagnetStreet has co-branded, customized, private label, or sponsored products and services, or joins with other parties to provide specific products or services, then MagnetStreet may share (provide and receive) your personally identifiable information with those other parties. These third parties will use your personally identifiable information according to their own privacy policies. 
 
-You will occasionally receive emails containing information on products, services, special offers, contests, promotions or a newsletter. MagnetStreet provides you with a mechanism to opt-out from receiving these types of communications. To unsubscribe, please send an email to [unsubscribe@magnetstreet.com](mailto:unsubscribe@magnetstreet.com). 
+You will occasionally receive emails containing information on products, services, special offers, contests, promotions or a newsletter. MagnetStreet provides you with a mechanism to opt-out from receiving these types of communications. To [unsubscribe](https://web.archive.org/unsubscribe), please send an email to [unsubscribe@magnetstreet.com](mailto:unsubscribe@magnetstreet.com). 
 
 MagnetStreet may disclose certain of your personally identifiable information to third-party service providers in order to fulfill your order. These third-party service providers have agreed to use your personally identifiable information only to fulfill your order and to keep it secure and confidential. MagnetStreet may share aggregate information, such as usage and demographic data, with third parties. Aggregate information does not include personally identifiable information. 
 
