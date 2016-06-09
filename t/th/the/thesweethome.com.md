@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesweethome.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907123442id_/http%3A//thesweethome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesweethome.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610014328id_/http%3A//thesweethome.com/privacy) for the most accurate reproduction.*
 
-# The Sweethome
+# Privacy Policy | The Sweethome
 
   
 **PLEASE READ THE FOLLOWING TERMS CAREFULLY BEFORE USING THE SITE.** The operator of this website, Submarine Leisure Club, Inc. (“we” or “us”) offers access to this website (the “Site”) conditioned on your acceptance without modification of the terms, conditions and notices contained herein (collectively, the “Privacy Policy”). In addition, particular features, applications and activities offered as part of the Site may also be subject to additional privacy terms specified in connection with such features, applications and activities, all of which are incorporated herein by reference.
