@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320033512id_/https%3A//www.citysocializer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610000942id_/https%3A//www.citysocializer.com/privacy) for the most accurate reproduction.*
 
 # citysocializer social club privacy policy
 
@@ -10,7 +10,7 @@ CitySocialising Ltd. (herein referred to as “citysocializer”) values your pr
 
 1.1.1. Compulsory information: your full name, your email address, gender, date of birth, a password selected by you, your city or town location; and
 
-1.1.2. Non-compulsory information: your marital status, parental status, sexual orientation, the type of people you would like to meet, where you are from, a personal message about yourself, tags that relate to your interests.
+1.1.2. Non-compulsory information: your marital status, sexual orientation, the type of people you would like to meet, where you are from, a personal message about yourself, tags that relate to your interests.
 
 1.1.3. for purposes of this Policy, "Personally Identifiable Information" means information that could be used to identify your personally (such as your email address or IP address), which has not been previously or subsequently disclosed by you on the public areas of our website or in messages you send via the Citysocializer platform.
 
