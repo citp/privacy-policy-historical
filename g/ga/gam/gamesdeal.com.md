@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesdeal.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208221920id_/http%3A//www.gamesdeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesdeal.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610005313id_/http%3A//www.gamesdeal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -97,3 +97,15 @@ The Company's sites are not intended for or directed to persons under the age of
 OPT OUT/CORRECTIONS
 
 Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to gamesdeal.com’s Customer Support department at service@gamesdeal.com please do not email your credit card number or other sensitive information.
+
+**Glory  Profit International Limited**  
+Room 1202, 12/F., AT Tower, 180 Electric Road,  
+North Point, Hong Kong.
+
+ **Email** : info@GamesDeal.com
+
+ **Tel** : 0180 7 807 786
+
+**Newsletters and Email Promotions:**
+
+We use email to communicate news and special promotions to our members. If you'd rather not receive these messages, you can click the [unsubscribe link](http://www.gamesdeal.com/unsubscribe.html) on the email and you will be unsubscribed from the mail list immediately and without cost.
