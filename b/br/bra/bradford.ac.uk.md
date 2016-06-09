@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradford.ac.uk privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223095921id_/http%3A//www.brad.ac.uk/about/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradford.ac.uk privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609100133id_/http%3A//www.bradford.ac.uk/about/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - University of Bradford
 
