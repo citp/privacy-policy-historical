@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxtube.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206214216id_/http%3A//info.foxtube.com/legal/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxtube.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609182408id_/http%3A//info.foxtube.com/legal/Privacy_policy.html) for the most accurate reproduction.*
 
 # Foxtube.com Privacy Policy
 
