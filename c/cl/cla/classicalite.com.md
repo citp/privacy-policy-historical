@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the classicalite.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209090324id_/http%3A//www.classicalite.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicalite.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609212827id_/http%3A//www.classicalite.com/privacypolicy) for the most accurate reproduction.*
 
 # Classicalite
 
 #### Privacy Policy
 
-This is the privacy policy ("Privacy Policy") for HNGN.com ("Site," "we," "us," or "our"). This Privacy Policy is intended to explain our privacy practices and covers the following areas:  
+This is the privacy policy ("Privacy Policy") for Classicalite.com ("Site," "we," "us," or "our"). This Privacy Policy is intended to explain our privacy practices and covers the following areas:  
 When This Privacy Policy Applies. U.S. Governing Law; Safe Harbor..  
 Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).  
 Opting-out of Certain Uses of your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).  
@@ -185,13 +185,13 @@ In addition, Parents of children or Ineligible Teenagers who wish to terminate t
 8\. Protection of Information. 
     While no data transmission over the Internet is 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Information. However, regardless of our efforts and the Device you use to access the Site, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We conduct financial transactions via secured transmissions but may not always secure other parts of the Site. We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our operational service providers follow similar standards of security and confidentiality. 
 
-Phishing. Phishing attacks attempt to steal consumers' personal identity data and financial account credentials. "Phishers" use 'spoofed' e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Information such as credit card numbers, account usernames, passwords and social security numbers. WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM CREDIT CARD NUMBERS, SOCIAL SECURITY NUMBERS OR YOUR USERNAME OR PASSWORD! If you receive such email communication, please forward it immediately to the Site's Privacy Administrator at info@HNGN.com, and then immediately delete the fraudulent email from your computer.
+Phishing. Phishing attacks attempt to steal consumers' personal identity data and financial account credentials. "Phishers" use 'spoofed' e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Information such as credit card numbers, account usernames, passwords and social security numbers. WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM CREDIT CARD NUMBERS, SOCIAL SECURITY NUMBERS OR YOUR USERNAME OR PASSWORD! If you receive such email communication, please forward it immediately to the Site's Privacy Administrator at info@classicalite.com, and then immediately delete the fraudulent email from your computer.
 
  
 9\. Your California Privacy Rights. 
     If you are a resident of the State of California, we provide you with information on how to exercise your disclosure choice options such as your right to opt-out (which we may sometimes refer to as "unsubscribe") or opt-in for use of your Personal information by third parties (such as Advertisers) for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal information for marketing purposes during the preceding year. 
 
-If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to the Privacy Administrator at info@HNGN.com, Attn: Your California Privacy Rights, c/o Privacy Administrator.
+If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to the Privacy Administrator at info@classicalite.com, Attn: Your California Privacy Rights, c/o Privacy Administrator.
 
 All requests must be labeled "Your California Privacy Rights" on the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
@@ -210,7 +210,7 @@ You are solely responsible for maintaining the strict confidentiality of your Us
 Further, if you use any of the Communities features and functions made available on or through the Site, please remember that any information disclosed in these venues is automatically made public and please use caution when disclosing any Personal information in the Communities, as you do not know who will access and use your Personal Information or for what purposes. Classicalite is in no way responsible for the accuracy, use, or misuse of any information, including Personal information, that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues will be available publicly, even without your knowledge or authorization.
 
 **b. Questions.**
-    Questions. If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, you may contact us directly by sending an email to info@HNGN.com.
+    Questions. If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, you may contact us directly by sending an email to info@classicalite.com.
  
 **c. Sole Statement:**
     This document is the sole statement of the Site's Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.
