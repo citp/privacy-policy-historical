@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 101cookingfortwo.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207223808id_/http%3A//www.101cookingfortwo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101cookingfortwo.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610003920id_/http%3A//www.101cookingfortwo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 101 Cooking For Two
 
@@ -56,7 +56,7 @@ Amazon ([http://www.amazon.com](http://www.amazon.com/))
 
 Lijit ([http://www.lijit.com](http://www.lijit.com/))
 
-ZipList (<http://get.ziplist.com/>)
+ZipList (http://get.ziplist.com/)
 
 Martha’s Circle (<http://www.marthastewart.com/>)
 
