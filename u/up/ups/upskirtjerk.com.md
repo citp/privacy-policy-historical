@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upskirtjerk.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210122900id_/http%3A//www.upskirtjerk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upskirtjerk.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609230039id_/http%3A//www.upskirtjerk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Upskirt Jerk
+# Privacy Policy - Upskirt Jerk
 
 ## Privacy Policy
 
