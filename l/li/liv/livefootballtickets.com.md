@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livefootballtickets.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209100952id_/http%3A//www.livefootballtickets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livefootballtickets.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610005318id_/http%3A//www.livefootballtickets.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Privacy policy
 
 This Privacy Policy was last updated on 29/09/2009 and is effective as of that date.
 
