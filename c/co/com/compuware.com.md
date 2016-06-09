@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229120004id_/http%3A//www.compuware.com/en_us/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609211110id_/http%3A//www.compuware.com/en_us/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Compuware
 
@@ -12,12 +12,15 @@ Compuware Corporation respects your right to privacy and is committed to protect
   * Opt-Out
   * Links to Other Websites
   * Commitment to Data Security
-  * EU Safe Harbor Certification
+  * Model Clauses
+  * Safe Harbor
   * Public Forums
   * Online Job Applications
   * Issue Resolution
 
 
+
+### Collection of Personal Data
 
 You may visit a Compuware website without identifying yourself or sharing any personal information.  Compuware does collect certain domain information in order to improve and customize your experience on its site(s).  Specifically, Compuware may collect the following types of information when you use any Compuware or Compuware-affiliated website:
 
@@ -29,7 +32,9 @@ You may visit a Compuware website without identifying yourself or sharing any pe
 
 
 
-**_General:_** ** _ _**
+### Use of Collected Information
+
+**_General:_**
 
 Compuware may use usage data in aggregated form to:
 
@@ -79,9 +84,13 @@ Compuware provides these links to you as a convenience and the inclusion of any 
 
 To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-### European Union Safe Harbor Certification
+### Model Clauses
 
-Compuware complies with the U.S. – EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Compuware has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Compuware’s certification, please visit <http://www.export.gov/safeharbor>.
+Compuware and its affiliates transfer personal information among certain countries under the Standard Contractual Clauses approved by the European Commission (sometimes called the “model clauses”) and complies with the requirements of those model clauses.
+
+### Safe Harbor
+
+The U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, each administered by the U.S. Department of Commerce, (collectively, the “Safe Harbor”) was invalidated by the European high court on October 6, 2015. Compuware continues to follow principles contained in the Safe Harbor framework regarding the collection, use and retention of personal information from European Union member countries and Switzerland, but makes no claim that the Safe Harbor framework itself has any particular legal effect.
 
 ### Public Forums
 
@@ -117,12 +126,15 @@ Compuware Corporation respects your right to privacy and is committed to protect
   * Opt-Out
   * Links to Other Websites
   * Commitment to Data Security
-  * EU Safe Harbor Certification
+  * Model Clauses
+  * Safe Harbor
   * Public Forums
   * Online Job Applications
   * Issue Resolution
 
 
+
+### Collection of Personal Data
 
 You may visit a Compuware website without identifying yourself or sharing any personal information.  Compuware does collect certain domain information in order to improve and customize your experience on its site(s).  Specifically, Compuware may collect the following types of information when you use any Compuware or Compuware-affiliated website:
 
@@ -134,7 +146,9 @@ You may visit a Compuware website without identifying yourself or sharing any pe
 
 
 
-**_General:_** ** _ _**
+### Use of Collected Information
+
+**_General:_**
 
 Compuware may use usage data in aggregated form to:
 
@@ -184,9 +198,13 @@ Compuware provides these links to you as a convenience and the inclusion of any 
 
 To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-### European Union Safe Harbor Certification
+### Model Clauses
 
-Compuware complies with the U.S. – EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Compuware has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Compuware’s certification, please visit <http://www.export.gov/safeharbor>.
+Compuware and its affiliates transfer personal information among certain countries under the Standard Contractual Clauses approved by the European Commission (sometimes called the “model clauses”) and complies with the requirements of those model clauses.
+
+### Safe Harbor
+
+The U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, each administered by the U.S. Department of Commerce, (collectively, the “Safe Harbor”) was invalidated by the European high court on October 6, 2015. Compuware continues to follow principles contained in the Safe Harbor framework regarding the collection, use and retention of personal information from European Union member countries and Switzerland, but makes no claim that the Safe Harbor framework itself has any particular legal effect.
 
 ### Public Forums
 
