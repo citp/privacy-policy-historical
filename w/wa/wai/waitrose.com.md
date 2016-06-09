@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the waitrose.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208061317id_/http%3A//www.waitrose.com/footer/terms_of_service/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waitrose.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609204533id_/http%3A//www.waitrose.com/footer/terms_of_service/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
 **In summary**
 
-Below, we tell you in detail how we use and store all of your personal and web-use data but, in summary, any personal information you give us is safe and confidential: we store all of your information on a secure server and never share any of your personal details with anybody outside of the John Lewis Partnership for mailing or marketing purposes.
+Below, we tell you in detail how we use and store all of your personal and web-use data but, in summary, any personal information you give us is safe and confidential: we store all of your information on a secure server and never share any of your personal details with anybody outside of the John Lewis Partnership for their mailing or marketing purposes.
 
 **Your personal details**
 
-Your privacy is important to us, which is why we will never release your personal details to any company outside of the John Lewis Partnership for mailing or marketing purposes (although we reserve the right to disclose this information in the circumstances set out below). We treat all of your personal information as confidential and keep it on a secure server.
+Your privacy is of the highest importance to us, and we promise never to release your personal details to any outside company for their mailing or marketing purposes (although we reserve the right to disclose this information in the circumstances set out below). We treat all of your personal information as confidential and keep it on a secure server.
 
 **When we may use your personal details**
 
-To provide you with the best possible service, we’d like to keep you up-to-date with a range of products and services provided by the John Lewis Partnership including John Lewis, Waitrose and John Lewis Financial Services Ltd. This may include news of special events, promotions, product launches and catalogues. As we are constantly looking to improve our services, we may occasionally contact you for research purposes by post, telephone, SMS text messaging and / or email. You can choose not to receive further information from us by clicking the relevant boxes during registration.
+To provide you with the best possible service, we’d like to keep you up-to-date with a range of products and services provided by the John Lewis Partnership including John Lewis, Waitrose and John Lewis Financial Services. This may include news of special events, promotions, product launches and catalogues. As we are constantly looking to improve our services, we may occasionally contact you for research purposes by post, telephone, SMS text messaging and / or email. You can choose not to receive further information from us by clicking the relevant boxes during registration.
 
 You have the right to request a copy of any information about you we hold at any time, and also to have that information corrected if it is inaccurate. To view any information you have disclosed, contact The Company Secretary, John Lewis Partnership, 171 Victoria Street, London SW1E 5NN. Nothing in these Terms and Conditions affects your rights under the Data Protection Act 1998.
 
