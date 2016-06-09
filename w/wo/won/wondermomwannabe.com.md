@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wondermomwannabe.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210190351id_/http%3A//wondermomwannabe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wondermomwannabe.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609195844id_/http%3A//wondermomwannabe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,9 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Google, as a third party vendor, uses cookies to serve ads on your site.  
 Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>.
 
 **What do we use your information for?**
 
