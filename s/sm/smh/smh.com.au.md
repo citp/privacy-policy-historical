@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smh.com.au privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629002045id_/http%3A//www.fairfax.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smh.com.au privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609065525id_/http%3A//www.fairfax.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Fairfax Digital - Australian Digital Media publisher
 
