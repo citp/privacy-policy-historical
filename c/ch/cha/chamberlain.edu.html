@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chamberlain.edu privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207131125id_/http%3A//www.chamberlain.edu/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chamberlain.edu privacy policy that was archived on 2016-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609230538id_/http%3A//www.chamberlain.edu/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 	Privacy
@@ -53,62 +53,123 @@ Sys.Application._enableHistoryInScriptManager();
 
 <header id="header">
     <div class="wrapper">
-        <div class="utilityBar">
+        <div class="utilityBar-topNav">
             <script src="//cdn.optimizely.com/js/596850295.js"></script>
             <ul>
                 <li class="searchField">
-                    <input type="textbox" id="txtSearch" text="search" rel="/SearchResults.aspx?q={0}" value="Search">
-                    <input type="button" id="btnSearch" class="btnSearch" onclick="clickButton">
+                    <input type="text" id="q" name="q" size="15" onkeypress="return SubmitOnEnter(this,event)">
+                    <input type="button" name="sa" value="Search" onclick="SearchSite();" onkeypress="return submitenter(this,event)" style="display:none">
                 </li>
-                <li><a href="http://alumni.chamberlain.edu" title="Alumni">Alumni</a></li>
-                <li class="divider">|</li>
-                <li><a href="/current-students" title="Current Students" onclick="var s=s_gi('rocchamberlainprod'); s.tl(this,'e','Current Students');">Current Students</a></li>
+                
+                
+                <li class="showSCI"><a title="Student Consumer Information" href="/student-consumer-information">Student Consumer Information</a></li>
+                                <li class="divider showSCI">|</li>
+
+                <li><a href="/current-students" title="Current Students">Current Students</a></li>
+
             </ul>
+
+       
+
             <script type="text/javascript">
-                $(document).ready(function () {
-
-                    jQuery('#btnSearch').bind('click', function (e) {
-                        var qString = jQuery('#txtSearch').val();
-                        var newLocation = '/SearchResults.aspx?q=' + qString;
-
-                        location.href = newLocation;
-                    });
-                });
-
-
-
-                $("#txtSearch").keyup(function (event) {
-                    if (event.keyCode == 13) {
-                        $("#btnSearch").click();
-                    }
-                });
-
-
-
-                function clickButton(e, buttonid) {
-                    var evt = e ? e : window.event;
-                    var bt = document.getElementById(buttonid);
-     
-                    if (bt) {
-                        if (evt.keyCode == 13) {
+                
+                function URLEncode (clearString) {
+                    
+                    var output = '';
+                  
+                    var x = 0;
+                    
+                    clearString = clearString.toString();
+                   
+                    var regex = /(^[a-zA-Z0-9_.]*)/;
+                   
+                    while (x < clearString.length) {
+                      
+                        var match = regex.exec(clearString.substr(x));
+                      
+                        if (match != null && match.length > 1 && match[1] != '') {
+                           
+                            output += match[1];
+                          
+                            x += match[1].length;
+                          
+                        } else {
                             
-                            bt.click();
-                            return false;
+                            if (clearString[x] == ' ')
+                                
+                            output += '+';
+                         
+                        else {
+                        
+                        var charCode = clearString.charCodeAt(x);
+                            var hexVal = charCode.toString(16);
+                            output += '%' + ( hexVal.length < 2 ? '0' : '' ) + hexVal.toUpperCase();
+                         
                         }
+                      
+                        x++;
+                       
                     }
+                   
                 }
-
+                
+                return output;
                
+                }
+               
+               
+                function SubmitOnEnter(myfield, e)
+                 
+                    {
+                        
+                        var keycode;
+                       
+                        if (window.event)
+                           
+                        keycode = window.event.keyCode;
+                      
+                    else if (e)
+                       
+                        keycode = e.which;
+                        
+                    else
+                   
+                    return true;
+                       
+                        if (keycode == 13)
+                           
+                        {
+                            
+                            SearchSite();
+                           
+                            return false;
+                           
+                        }
+                      
+                    else
+                   
+                    return true;
+                       
+                    }
+                  
+                    function SearchSite()
+                       
+                        {
+                           
+                            document.location.href='/SearchResults.aspx?q=' +                           
+                            URLEncode(document.getElementById('q').value) + '&sa=Search';
+                                                  }
 
             </script>
         </div>
         <div class="infoBar">
             <a href="/"><img id="Image1" src="http://cdncontent.chamberlain.edu/assets/images/layout/logo_headerChamberlain2.png" alt="Chamberlain College of Nursing"></a>
-            <ul>
-                   <li class="callLink"><a href="tel:877.751.5783">877.751.5783</a></li>
+            <ul>                <li class="RMI-btn-header"><a href="/requestmoreinfolong" onclick="_gaq.push(['_trackEvent', 'CTA Button Tests', 'July 2012', 'Header_RMI Link']);">Request Info</a></li>
+
+                 <li class="callLink"><a href="tel:877.751.5783">877.751.5783</a></li>
             <li class="liveChatLink">
              
-              <a id="liveagent_button_online_57380000000KynT" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('57380000000KynT')">Chat with Admissions<!-- Online Chat Content --></a>
+              <a class="liveChatLink2" id="liveagent_button_online_57380000000KynT" href="javascript://Chat" style="display: none;" onclick="liveagent.startChat('57380000000KynT')">Chat<!-- Online Chat Content --></a>
               <div id="liveagent_button_offline_57380000000KynT" style="display: none;" class="liveChatLinkOff"></div>
               <script type="text/javascript">
                   if (!window._laq) { window._laq = []; }
@@ -117,7 +178,6 @@ Sys.Application._enableHistoryInScriptManager();
                       liveagent.showWhenOffline('57380000000KynT', document.getElementById('liveagent_button_offline_57380000000KynT'));
                   });</script>
                </li> 
-                <li class="rmiLink"><a href="/requestmoreinfolong" onclick="_gaq.push(['_trackEvent', 'CTA Button Tests', 'July 2012', 'Header_RMI Link']);">Request Information</a></li>
             </ul>
         </div>
 
@@ -170,7 +230,7 @@ Sys.Application._enableHistoryInScriptManager();
                                                  
                                                     <li><!--span>&bull;</span--><a href="/nursing-students/academic-excellence" title="Academic Excellence">Academic Excellence</a></li>    
                                                  
-                                                    <li><!--span>&bull;</span--><a href="/community/student-life/chamberlain-cares---new" title="Community Involvement">Community Involvement</a></li>    
+                                                    <li><!--span>&bull;</span--><a href="/community/student-life/chamberlain-cares" title="Community Involvement">Community Involvement</a></li>    
                                                  
                                                             </ul>
                                                         </li>
@@ -202,12 +262,14 @@ Sys.Application._enableHistoryInScriptManager();
                                        </ul> </div><div class="col2"><ul>
                                         
                                            
-                                        </ul><img width="180px" height="110px" src="http://cdncontent.chamberlain.edu/assets/images/page/3.jpg" alt="A Proud History"> <div class="article"><strong>A Culture of Care</strong><br>
+                                        </ul><img height="110px" width="180px" src="http://cdncontent.chamberlain.edu/assets/images/page/3.jpg" alt="A Proud History">
+<div class="article"><strong>A Culture of Care</strong><br>
 Chamberlain students treat thousands
-of patients during International Nursing
-Service Project trips to Kenya, Brazil,
+of patients during the Global Health
+Education Program trips to India, Brazil,
 and beyond.
-</div> <a class="mm_readmore" href="http://www.chamberlain.edu/community/students/community-involvement">Read More</a>
+</div>
+<a class="mm_readmore" href="http://www.chamberlain.edu/community/students/community-involvement">Read More</a>
 
                                              </div>
                                     <!--/ul-->
@@ -260,7 +322,7 @@ and beyond.
                                                                 
                                                     <li><!--span>&bull;</span--><a href="/financial-aid/financial-aid-resources/forms-library" title="Forms Library">Forms Library</a>   
                                                   </li>
-                                                    <li><!--span>&bull;</span--><a href="/financial-aid/financial-aid-resources/tuition-and-fees" title="Tuition and Fees">Tuition and Fees</a>   
+                                                    <li><!--span>&bull;</span--><a href="/financial-aid/financial-aid-resources/tuition-and-fees" title="Tuition and Expenses">Tuition and Expenses</a>   
                                                   </li>
                                                             </ul>
                                                         </li>
@@ -268,12 +330,14 @@ and beyond.
                                        </ul> </div><div class="col2"><ul>
                                         
                                            
-                                        </ul><img width="180px" height="110px" src="http://cdncontent.chamberlain.edu/assets/images/page/4.jpg" alt="A Proud History"> <div class="article"><strong>Special Tuition Rates</strong><br>
-Chamberlain offers special tuition rates
+                                        </ul><img height="110px" width="180px" src="http://cdncontent.chamberlain.edu/assets/images/page/4.jpg" alt="A Proud History">
+<div class="article"><strong>Group-Specific Tuition Rates</strong><br>
+Chamberlain offers group-specific tuition rates
 to alumni, military and nurses at select
 healthcare institutions, associations and
 organizations.
-</div> <a class="mm_readmore" href="http://chamberlain.edu/nursing-partners/educational-healthcare-partners">Read More</a>
+</div>
+<a class="mm_readmore" href="http://chamberlain.edu/nursing-partners/educational-healthcare-partners">Read More</a>
                                             
                                             </div>
                                     <!--/ul-->
@@ -292,6 +356,22 @@ organizations.
                       
                           <li>
                           <a href="/nursing-schools/Phoenix-Arizona"> Phoenix</a>
+
+                          </li>
+                      
+                          </ul>
+                      
+                      
+                      </li>
+                         
+          
+             
+                  <li><h4>California</h4>
+                  
+                          <ul>
+                      
+                          <li>
+                          <a href="/nursing-schools/Sacramento-California"> Sacramento</a>
 
                           </li>
                       
@@ -758,10 +838,12 @@ organizations.
                                        </ul> </div><div class="col2"><ul>
                                         
                                            
-                                        </ul><img width="180px" height="110px" src="http://cdncontent.chamberlain.edu/assets/images/page/1.jpg" alt="A Proud History"> <div class="article"><strong>A Proud History</strong><br>
-For 125 years, Chamberlain
+                                        </ul><img height="110px" width="180px" src="http://cdncontent.chamberlain.edu/assets/images/page/1.jpg" alt="A Proud History">
+<div class="article"><strong>A Proud History</strong><br>
+For more than 125 years, Chamberlain
 College of Nursing has been preparing
-extraordinary nursing graduates.</div> <a class="mm_readmore" href="http://www.chamberlain.edu/about-nursing/chamberlain/history">Read More</a>
+extraordinary nursing graduates.</div>
+<a class="mm_readmore" href="http://www.chamberlain.edu/about-nursing/chamberlain/history">Read More</a>
 
                                                
                                             </div>
@@ -1010,7 +1092,7 @@ padding-top: 5px !important;
     <span id="breadPlaceholder_T981F3B56003_ctl00_ctl00_BreadcrumbLabel" class="sfBreadcrumbLabel" style="display:none;"></span>
     <div id="ctl00_breadPlaceholder_T981F3B56003_ctl00_ctl00_Breadcrumb" class="RadSiteMap RadSiteMap_Default">
 		<!-- 2015.2.623.40 --><ul class="rsmFlow rsmLevel rsmOneLevel">
-			<li class="rsmItem sfBreadcrumbNavigation"><a class="rsmLink" href="home-b" title="HLC accredited, Chamberlain offers on-site 3-year BSN, and online nursing programs like the RN to BSN option, MSN, and DNP. Learn more. ">Home</a><span class="sfBreadcrumbNodeSeparator">&gt;</span></li> <li class="rsmItem sfNoBreadcrumbNavigation"><a class="rsmLink" href="javascript: void(0)">Privacy</a></li>
+			<li class="rsmItem sfBreadcrumbNavigation"><a class="rsmLink" href="nursing-college" title="HLC accredited, Chamberlain offers on-site 3-year BSN, and online nursing programs like the RN to BSN option, MSN, and DNP. Learn more. ">Home</a><span class="sfBreadcrumbNodeSeparator">&gt;</span></li> <li class="rsmItem sfNoBreadcrumbNavigation"><a class="rsmLink" href="javascript: void(0)">Privacy</a></li>
 		</ul><input id="ctl00_breadPlaceholder_T981F3B56003_ctl00_ctl00_Breadcrumb_ClientState" name="ctl00_breadPlaceholder_T981F3B56003_ctl00_ctl00_Breadcrumb_ClientState" type="hidden">
 	</div>
 </div>
@@ -1065,7 +1147,8 @@ Last revised on August 12, 2015.</p> </div>
         <li><a href="/contact-us" title="Contact Us">Contact Us</a></li>
         <li><a href="https://chamberlain-devry.icims.com" title="Careers at Chamberlain" target="_blank">Careers</a> </li>
         <li> <a href="http://www.devryeducationgroup.com" title="Organization" target="_blank">Organization</a></li>
-        <li> <a href="/about-nursing/chamberlain/accreditation" title="Accreditation">Accreditation</a> </li>
+        <li> <a href="http://alumni.chamberlain.edu/" title="Alumni" target="_blank">Alumni</a></li>
+<li> <a href="/about-nursing/chamberlain/accreditation" title="Accreditation">Accreditation</a> </li>
         <li></li>
       </ul>
       <ul class="a1">
@@ -1080,21 +1163,35 @@ Last revised on August 12, 2015.</p> </div>
      </div> 
     <div class="frfooter">
         <ul class="c">
-         <li id="c"><a href="http://www.usnews.com/education/online-education/chamberlain-college-of-nursing-ONUR0520/nursing" target="_blank"></a></li>
          
-         <li id="a"><a href="http://nursejournal.org/top-50-most-social-media-friendly-nursing-schools/" target="_blank"></a></li>
+         
+      
        
       </ul>
-     </div>
+     </div>    <div id="social-corner">
+         <ul> 
+          <li><a href="http://www.facebook.com/chamberlainedu" title="Facebook" class="facebook" target="_blank"> <img alt="Facebook" src="/assets/images/icons/facebook.png"></a> </li>
+          <li><a href="http://www.youtube.com/ChamberlainCollege" title="YouTube" target="_blank"> <img alt="YouTube" src="/assets/images/icons/youtube.png"></a></li>
+          <li><a href="http://www.twitter.com/chamberlainedu" title="Twitter" target="_blank"> <img alt="Twitter" src="/assets/images/icons/twitter.png"></a> </li>
+          <li><a href="http://pinterest.com/chamberlainedu/" title="Pinterest" target="_blank"> <img alt="Pinterest" src="/assets/images/icons/pinterest.png"></a> </li>
+          <li><a href="http://www.linkedin.com/company/chamberlain-college-of-nursing " title="LinkedIn" target="_blank"> <img alt="LinkedIn" src="/assets/images/icons/linkedin.png"></a> </li>
+          <li><a href="https://plus.google.com/u/0/117441487279131929469/posts#117441487279131929469/posts " title="Google+" target="_blank"> <img alt="Google+" src="/assets/images/icons/googleplus.png"></a> </li>
+          <li><a href="http://instagram.com/chamberlainedu" title="Chamberlain Instagram" target="_blank"> <img alt="Chamberlain Instagram" src="/assets/images/icons/instagram.png"></a></li>
+             </ul>
+      </div>
       </div> 
-      <div class="TNDisclaimer" style="clear:both; color:#FFF; margin-left:17px;">Chamberlain College of Nursing is authorized for operation as a postsecondary educational institution by the <a href="http://tn.gov/thec/topic/authorized-institutions-data" target="_blank" style="font-weight:bold">Tennessee Higher Education Commission</a>.</div>
+
+  
+    
+      
+        <div class="TNDisclaimer" style="clear:both; color:#FFF; margin-left:17px;">Chamberlain College of Nursing is authorized for operation as a postsecondary educational institution by the <a href="http://tn.gov/thec/topic/authorized-institutions-data" target="_blank" style="font-weight:bold">Tennessee Higher Education Commission</a>.</div>
 
    </div> 
 </footer>
 
- <script type="text/javascript" src="https://c.la1s1.salesforceliveagent.com/content/g/deployment.js"></script>
+ <script type="text/javascript" src="https://c.la4-c2-chi.salesforceliveagent.com/content/g/deployment.js"></script>
               <script type="text/javascript">
-                  liveagent.init('https://d.la1s1.salesforceliveagent.com/chat', '57280000000KynT', '00D80000000ZxLm');
+                  liveagent.init('https://d.la4-c2-chi.salesforceliveagent.com/chat', '57280000000KynT', '00D80000000ZxLm');
               </script>
 
 <div id="ContentPlaceHolderFoot_C002">
