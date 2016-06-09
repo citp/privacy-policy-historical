@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the gajitz.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207133315id_/http%3A//gajitz.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gajitz.com privacy policy that was archived on 2016-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609150751id_/http%3A//gajitz.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
-        <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="//cdn.linksmart.com/linksmart_2.3.0.min.js" async=""></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" async="" src="//g2.gumgum.com/javascripts/ggv2.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="//cdn.linksmart.com/linksmart_2.3.0.min.js" async=""></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
         <script>window.ONSWIPE_USR = 'gajitz'</script>
         <script src="http://assets.onswipe.com/synapse/on.js?usr=gajitz"></script>
@@ -470,7 +470,7 @@ Template Name: Privacy Policy Template
         
     <div id="footerKeysText">  
       <p>Gajitz brings you the latest and greatest gadgets, sensational scientific discoveries and innovative new technologies from around the world<br>
-      to educate, entertain and inspire as well as fascinating retro and vintage designs. Gajitz © 2009-2015 <a href="http://misnamed.net/" title="Misnamed Media">Misnamed Media LLC</a></p>
+      to educate, entertain and inspire as well as fascinating retro and vintage designs. Gajitz © 2009-2016 <a href="http://misnamed.net/" title="Misnamed Media">Misnamed Media LLC</a></p>
     </div>
   </div>
  </div></div></center>		
@@ -526,9 +526,7 @@ Template Name: Privacy Policy Template
         if (_urb.askill) {return;}
         if ($('.gaj-ads-top').length) {
             if (_urb.test == 'singletop') { _urb.ads_top(); }
-            else if ((_urb.age.indexOf("ten") >= 0) && 
-                (_urb.ref.indexOf("social") == -1)) {
-            _urb.ads_top();}
+            if (_urb.age.indexOf("ten") >= 0) { _urb.ads_top(); }
         }
         if ($('#tocbox').length) {
             if (_urb.test == 'tocbox') { _urb.ads_toc(); }
@@ -638,9 +636,11 @@ _qevents.push({
 <script>
     if ((['images','gumgum','vibrant'].indexOf(_urb.test) >= 0) || 
         ( 
+            /* #1608
             (_urb.type == "single") &&
             (_urb.ref.indexOf("self") == -1) &&
             (_urb.ref.indexOf("social") == -1) &&
+            */
             (_urb.age.indexOf("ten") >= 0)
         ) 
     ) {
@@ -672,7 +672,7 @@ _qevents.push({
             };
         </script>
         <!-- Minified Cookie Consent served from our CDN -->
-        <script src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
         
 
 
