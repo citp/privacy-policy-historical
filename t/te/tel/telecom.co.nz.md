@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telecom.co.nz privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104110145id_/http%3A//www.spark.co.nz/help/other/websiteprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecom.co.nz privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609200711id_/http%3A//www.spark.co.nz/help/other/websiteprivacypolicy) for the most accurate reproduction.*
 
-# Website Privacy Policy - Other - Help - Personal - telecomcms - Spark New Zealand
+# Website Privacy Policy | Spark NZ
 
 ### 1. Definitions
 
