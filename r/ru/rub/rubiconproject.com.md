@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rubiconproject.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227034045id_/http%3A//www.rubiconproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubiconproject.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609050404id_/http%3A//www.rubiconproject.com/privacy) for the most accurate reproduction.*
 
 # Rubicon Project Privacy Dashboard and Opt-Out - Rubicon Project
 
-Last Updated: October 21, 2015
+Last Updated: February 29, 2016
 
 Our Privacy Dashboard is designed to assist you in understanding how we collect and use information about you and your device so that you can make informed decisions when using our website and interacting with our products and services.
 
@@ -21,7 +21,7 @@ To read the full privacy policy governing:
 
 **Rubicon Project Opt-Out**
 
-To opt-out of the use of our technology to deliver you targeted advertisements based on your interests, [click here](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/) and [here](http://buyercloud.rubiconproject.com/privacy/opt-out/).
+To opt-out of the use of our technology to deliver you targeted advertisements based on your interests, [click here](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/).
 
 **Data We Collect**
 
@@ -41,11 +41,9 @@ Rubicon Project may share data with third parties for a variety of reasons, incl
 
 We may change our privacy policies from time to time in order to reflect changes to our practices or for other operational, legal, or regulatory reasons. When we do, we will give you notice of any material changes by posting the revised privacy policy on this website and, where appropriate, by other means.
 
-**U.S.-E.U. Safe Harbor**
+**Data Transfers for Residents of the European Economic Area (EEA)**
 
-We are a participant in the U.S.-E.U. Safe Harbor framework, and in this regard, may transfer certain personal information about you (either as a visitor to our website, or as a recipient of an advertisement delivered using our advertising technology) from the E.U. to the U.S. in compliance with the Safe Harbor Privacy Principles. For more information about the U.S.-E.U. Safe Harbor, please visit <http://export.gov/safeharbor/>. To see our certification, please click here: <https://safeharbor.export.gov/companyinfo.aspx?id=28228>. We additionally protect the information we transfer from the E.U. to the U.S. through inter-company agreements between our various entities.
-
-In accordance with the Safe Harbor Privacy Principles, we have designated JAMS, Inc. as our independent recourse mechanism to mediate any disputes or compliance regarding our compliance with the Safe Harbor. Such mediation will be governed by the JAMS International Mediation Rules. To submit a complaint to JAMS for mediation, please visit <http://www.jamsadr.com/file-safe-harbor-claim/>.
+Rubicon Project works with customers and consumers throughout the world, including in the European Economic Area (EEA). If you are a resident of the EEA, your personal data is processed by our UK subsidiary The Rubicon Project Ltd., which is registered with the UK Information Commissioner’s Office (registration no. ZA118130). Please note that Rubicon Project uses servers located around the world, including in the United States, and your data may be transferred outside of the EEA. In order to ensure that your personal data is adequately protected when transferred outside of the EEA, The Rubicon Project Ltd. has entered into inter-company “model clause” agreements with other various entities that may process your personal data on behalf of The Rubicon Project Ltd.
 
 **Contact**
 
@@ -61,10 +59,11 @@ Playa Vista, CA 90094
 **European Economic Area (EEA) residents**
 
 The Rubicon Project Ltd.  
-Attn: Privacy Officer  
-2nd Level  
-25 Procter Street  
-London, WC1V 6NY  
+Attn: Data Protection Officer  
+Walmar House  
+5th Floor  
+296 Regent St.  
+London, W1B 3HR  
 United Kingdom
 
 **Important note:**  The data controller of EEA residents’ personal information is The Rubicon Project Ltd at the above address. The Rubicon Project Ltd is registered with the UK Information Commissioner’s Office (registration no. ZA118130).
