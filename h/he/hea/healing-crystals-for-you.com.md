@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healing-crystals-for-you.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208135832id_/http%3A//www.healing-crystals-for-you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healing-crystals-for-you.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609114245id_/http%3A//www.healing-crystals-for-you.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer for Healing Crystals For You
 
@@ -112,7 +112,7 @@ I am grateful when people send me their success stories as well as a photograph.
 
 I'll share them to help others understand the possibilities of using my programs. When you send me a story, I may make changes including minor edits to correct any spelling and grammar mistakes or to make your story clearer. 
 
-I will use your name and town unless you tell me not to. And at any time you would like me not to use your story, just send me an email via my [Contact](http://www.healing-crystals-for-you.com/contact.html) page.  
+I will use your name and town unless you tell me not to. And at any time you would like me not to use your story, just send me an email via my Contact page.  
 
 
 ## Agreeing to Terms
