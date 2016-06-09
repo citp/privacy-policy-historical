@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webnode.in privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222224539id_/http%3A//www.webnode.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webnode.in privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609065005id_/http%3A//www.webnode.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Webnode
 
@@ -56,6 +56,6 @@ This Privacy Policy may be revised periodically and this will be reflected on th
 
 ## Feedback
 
-Please contact Webnode with any questions or comments about this Privacy Policy or the Webnode Sites by email to: [%2%](mailto:%2%)
+Please contact Webnode with any questions or comments about this Privacy Policy or the Webnode Sites by email to: [support@webnode.com](mailto:support@webnode.com)
 
 _Last modified March 2, 2012._
