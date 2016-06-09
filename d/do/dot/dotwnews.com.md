@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dotwnews.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207024453id_/http%3A//www.dotwnews.com/page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotwnews.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610011413id_/http%3A//www.dotwnews.com/page/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement - DOTWNews.com - Destinations of the World News
-
-## Privacy statement
+# Privacy statement | Luxury Travel Magazine
 
 Destinations of the World News is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Destinations of the World News Web site and governs data collection and usage. By using the Destinations of the World News website, you consent to the data practices described in this statement.
 
