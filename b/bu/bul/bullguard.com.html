@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bullguard.com privacy policy that was archived on 2015-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150819074458id_/http%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bullguard.com privacy policy that was archived on 2016-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609103933id_/http%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head><link rel="icon" type="image/png" href="//www.bullguard.com/favicon.png"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link rel="alternate" hreflang="en" href="http://www.bullguard.com/about/privacy-policy.aspx">
 <meta http-equiv="content-language" content="en"><meta content="privacy policy" name="keywords"><meta content="BullGuard Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.bullguard.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe." name="description"><meta name="pingdom" content="site verification"><title>
@@ -9,6 +9,7 @@
   
   <link href="/css/master.ws30.css" rel="stylesheet" type="text/css" media="screen,handheld">
   <link media="screen" type="text/css" rel="stylesheet" href="/css/mobile.css">
+  <link media="screen" type="text/css" rel="stylesheet" href="/css/comparisonWidget.css">
   
   <link rel="apple-touch-icon" href="/favicon-apple.png">
   <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/0747.js?439013" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/aquant.js?a=p-e63Wnergpaayr" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TS82NQ"></script><script type="text/javascript" src="/js/jquery162min.js"></script>
@@ -204,17 +205,17 @@
   </script>
          <script src="/scripts/countdown.js"></script>
     <script>
-  var promoDate = new Date("9 february 2015 13:00:00");
-  var endDate = new Date("16 July 2015 14:00:00");
+   var promoDate = new Date("27 August 2015 12:00:00");
+  var endDate = new Date("3 November 2015 12:00:00");
   var currentDate = new Date();
-      var timerDate = new Date("17 february 2015 12:00:00");
+      var timerDate = promoDate;
       var css = '';
       if(currentDate < promoDate){
           css = '/css/christmas2014.css';
       }
       else if(currentDate  >=promoDate && currentDate < endDate ){
-          timerDate = new Date("17 february 2015 12:00:00");
-          css = '/css/summer2015.css';
+          timerDate = endDate;
+          css = '/css/halloween2015.css';
       }
         
       if(css != ''){
@@ -224,10 +225,10 @@
     $(document).ready(function(){
  
   //countDown
-      /*$(".countdownTimer").countdown({
-    date: timerDate,
+      /*  $(".countdownTimer").countdown({
+    date: timerDate ,
     format: "on"
-    });*/
+       });*/
   
   //close sticky
   $('.closeSticky').click(function() {
@@ -241,6 +242,33 @@
   
 });
     </script>
+        
+                <script>
+           $(document).ready(function(){
+          var pathname = window.location.pathname.toLowerCase();
+          if(pathname.indexOf("/da")==0){
+            $('a[href$="http://blog.bullguard.com"]').attr("href", "http://www.bullguard.com/da/blog")
+          }
+             var subPath = pathname.substring(pathname.indexOf("products")-1); //delete langauage 
+             $('#compareProdWidget').hide();
+             if ( $.inArray(subPath, ["/","/fr/", "/da/", "/de/", "/pt-br/", "/zh-cn/", "/zh-tw/", "/es/", "/sv/", "/nl/", "/nb-no/",
+                                      "/products.aspx",
+                                      "/products/bullguard-premium-protection.aspx",
+                                      "/products/bullguard-internet-security.aspx",
+                                      "/products/bullguard-antivirus.aspx"] ) != -1 ) {
+        $('#compareProdWidget a').attr('href','http://www.bullguard.com/products/compare-products-bt.aspx');
+        $('#compareProdWidget').show();
+    }  
+             subPath = pathname.substring(pathname.indexOf("downloads")-1); //delete langauage 
+             if ( $.inArray(subPath, ["/downloads.aspx",
+                                       "/downloads/premium-protection-free-trial.aspx",
+                                       "/downloads/internet-security-free-trial.aspx",
+                                       "/downloads/antivirus-free-trial.aspx"] ) != -1 ) {
+        $('#compareProdWidget a').attr('href','http://www.bullguard.com/products/compare-products-trial.aspx');
+        $('#compareProdWidget').show();
+    }  
+});
+        </script>
         
   
 </head>
@@ -327,8 +355,8 @@ function __doPostBack(eventTarget, eventArgument) {
 <script src="/WebResource.axd?d=WumPbSvktoGgCtU-PC8_dA2&amp;t=635295180254197539" type="text/javascript"></script>
 
 
-<script src="/ScriptResource.axd?d=fUmf-OcCGgtRjWxVmSjrb94Ukydzs7FdGuzWYAwv3j-envYO3lJRS-7zfGy48D_SF2mDqCFMCDjw0R9sgn-RCzz9C_jY-Y_LAOOg2UQI8hs1&amp;t=2e2045e2" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=fUmf-OcCGgtRjWxVmSjrb94Ukydzs7FdGuzWYAwv3j-envYO3lJRS-7zfGy48D_S8QBwp_QOQuTtSm_uRHbjkbVzBfn_oyCvedd34JzbVtg1&amp;t=2e2045e2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=hGorLMqtPGq9swFOjKPrGqIb1f2woL3bbstr75LYISZo6wal2pl5sEcLnwmSIjsVY-93lRz27lURmPgyghnC_AIDF9DI0XQ1AF7fy7Pr1WQ1&amp;t=2e2045e2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=hGorLMqtPGq9swFOjKPrGqIb1f2woL3bbstr75LYISZo6wal2pl5sEcLnwmSIjsVGqbvqIClp8LGzD0REYEDCW10WEoNupFuQeYgtdQptJg1&amp;t=2e2045e2" type="text/javascript"></script>
           <script type="text/javascript">
 //<![CDATA[
 Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ctl00$ctl00$ctl00$ContentPlaceHolderDefault$scriptmanager', document.getElementById('aspnetForm'));
@@ -337,34 +365,6 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 </script>
 
           
-  
-<script type="text/javascript">
-	var uvOptions = { sso: '' };
-	$.ajax({
-		type: "POST",
-		url: "/uservoice.ashx",
-		data: "{}",
-		contentType: "application/json; charset=utf-8",
-		dataType: "text",
-		success: function (data) {
-			if (data.length > 0) {
-				uvOptions.sso = data;
-			}
-			var uv = document.createElement('script');
-			uv.type = 'text/javascript';
-			uv.async = true;
-			uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/xPRXJPN8FxVXrNOD8HfylQ.js';
-			var s = document.getElementsByTagName('script')[0];
-			s.parentNode.insertBefore(uv, s);
-		},
-		error: function (xhr, textStatus, error) {
-			console.log(xhr.statusText);
-			console.log(textStatus);
-			console.log(error);
-		}
-	});
-</script>
-
    
  
  <div id="cookies">
@@ -375,11 +375,43 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 </div>
    
      <!-- black friday -->
-      
+ 
+   
+    
+    <!-- Compare widget -->
+  
+ 
+  <div class="" id="compareProdWidget" style="display: none;"><a href="http://www.bullguard.com/products/compare-products-bt.aspx"> Compare BullGuard security products <span>here</span> <img src="data:image/jpg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABQAAD/4QOPaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjAtYzA2MCA2MS4xMzQ3NzcsIDIwMTAvMDIvMTItMTc6MzI6MDAgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6ZjNiMWNiYjAtMTM0Ny00N2VmLThlOTctNjRlZTYzMWIwZjA5IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjYwQTkzNjgyMDM5MDExRTVCNzc5QUE2QzY3MUNFOUI3IiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjYwQTkzNjgxMDM5MDExRTVCNzc5QUE2QzY3MUNFOUI3IiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE0IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MDJiNGIxYjMtZDAxOC00YjliLWI1ZjQtZmU2OWFlNmQyYTRkIiBzdFJlZjpkb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6MmNlM2YxNjMtMWRhZC0xMTc4LWIzYjYtZjkwNGMxMGM4MDI0Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+/+4ADkFkb2JlAGTAAAAAAf/bAIQAAgICAgICAgICAgMCAgIDBAMCAgMEBQQEBAQEBQYFBQUFBQUGBgcHCAcHBgkJCgoJCQwMDAwMDAwMDAwMDAwMDAEDAwMFBAUJBgYJDQsJCw0PDg4ODg8PDAwMDAwPDwwMDAwMDA8MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM/8AAEQgAZAAFAwERAAIRAQMRAf/EAIIAAAICAwAAAAAAAAAAAAAAAAAIAQYCAwcBAAIBBQEAAAAAAAAAAAAAAAABCAIDBAYHBRAAAQAGCQUAAAAAAAAAAAAAABFBEkIDBiEi0pOj0wQFFjSUFVYXEQEAAAEICgMAAAAAAAAAAAAAEQHRAhIiklMEIUGhQlLSA6MUNBUGF//aAAwDAQACEQMRAD8AYEjIk8AAAEE5lN/tW8d9qLZ0fwcvh0bskzpvgZbDoXZJlcWZTMSsDMNwaVmkeLx4+Yb/APCZPg20p0Sf077FH2e30uRbXz1Gh7yHwKNotP2SZm+h2u6jZ4CElZyFNca3WtNaaRrUdLBY1Gt//9k="> </a></div>
+
+
+  <!-- //Compare widget -->
+ 
+    <!--  promo top -->
+       <!-- 
+ 
+  <div id="logoTooltip" class="enLogoTip"><a href="http://www.bullguard.com/landing-pages/easter.aspx?language=en"></a> <span class="closeLogoTip">Close</span></div>
+
+ -->
+        <!-- // promo top-->
+    
+    <!--  promo bottom -->
+         
+ 
+  <p>
+<link rel="stylesheet" type="text/css" href="/css/iotbanner1.css ">
+</p>
+<div id="stickyBottom" class="enStickyBottom"><span class="closeSticky">Close</span> <a class="iot-learn-more" href="https://www.bullguard.com/marketingfiles/ext/web/IoT-Consumer_Guide.pdf" title="Learn more">Learn more</a> <a class="iot-free-scan" href="https://iotscanner.bullguard.com" title="Free scan">Free scan</a></div>
+<div id="MobileBottom"><span class="closeMSticky">Close</span> <a href="https://iotscanner.bullguard.com"> <img src="/img/iotbanner2/iotbg_small.png" alt="Iot Scanner"> </a></div>
+
+ 
+        <!-- // promo bottom -->
+    
+    
 
     
       <!-- black friday -->
       
+  
       
   <div id="top">
     <a title="BullGuard" id="logoTop" href="/" onclick="try {dataLayer.push({'event':'siteEvent', 'siteEvtCateg': 'HeaderTabs', 'siteEvtAction': 'Logo', 'siteEvtLabel': document.location.pathname});} catch(err){}"></a>
@@ -447,9 +479,6 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
     <a href="/products/bullguard-identity-protection.aspx" title="Identity Protection">Identity Protection</a>
     <a href="/products/bullguard-android-mobile-security.aspx" title="Mobile Security">Mobile Security</a>
 
-    <p>Backup Products<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
-    <a href="/products/bullguard-mobile-backup-12.aspx" title="Mobile Backup">Mobile Backup</a>
-    <a href="/products/bullguard-backup.aspx" title="BullGuard Backup">BullGuard Backup</a>
      </div>
     </li>
     <li class="hasDropdown">
@@ -462,11 +491,9 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
     <p>Popular Downloads<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
     <a href="/downloads/premium-protection-free-trial.aspx" title="Premium Protection" class="BPPdownload">Premium Protection</a>
     <a href="/downloads/internet-security-free-trial.aspx" title="Internet Security" class="ISdownload">Internet Security</a>
-    <a href="/bg/tracking.aspx?url=%2fproducts%2fbullguard-mobile-backup-12%2fmobile-backup-download.aspx&amp;subaffiliate=ddmpage" title="Mobile Backup 12">Mobile Backup 12</a>
    <a href="https://play.google.com/store/apps/details?id=com.bullguard.mobile.mobilesecurity" title="Mobile Security" target="_blank" class="BKdownload">Mobile Security</a>
     <p>Other Downloads<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
     <a href="/downloads/antivirus-free-trial.aspx" title="Antivirus" class="AVdownload">Antivirus</a>
-    <a href="/downloads/online-backup-free-trial.aspx" title="BullGuard Backup" class="BKdownload">BullGuard Backup</a>
      </div>
     </li>
     <li class="hasDropdown">
@@ -480,11 +507,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
     <a href="https://www.bullguard.com/shop/customizeproduct?pid=3" title="Internet Security">Internet Security</a>
     <a href="https://www.bullguard.com/shop/customizeproduct?pid=25" title="Antivirus">Antivirus</a>
     <a href="https://www.bullguard.com/shop/customizeproduct?pid=38" title="Identity Protection">Identity Protection</a>
-    <a href="https://www.bullguard.com/shop/customizeproduct?pid=13" title="Mobile Backup 12">Mobile Backup 12</a>
     <a href="https://www.bullguard.com/shop/customizeproduct?pid=32" title="Mobile Security">Mobile Security</a>
-    <p>Other Products<img src="/media/1260199/menuarrows.png" style="position: absolute; bottom: 0px; left: 8px;" alt=""></p>
-    <a href="https://www.bullguard.com/shop/customizeproduct?pid=6" title="BullGuard Backup">BullGuard Backup</a>
-
      </div>
     </li>
     <li class="hasDropdown">
@@ -543,6 +566,8 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 
   </div>
   <div id="container" class="rel">
+    
+     
     
     <div id="breadcrumbs">
       
@@ -712,7 +737,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
     <br>
     <div id="footerShadow"></div>
 <div id="footer">
-<div class="footPart"><a href="/" class="footPartHeading logoFooter"></a></div>
+<div class="footPart"><a class="footPartHeading logoFooter" href="/"></a></div>
 <div class="footPart">
 <p class="footPartHeading">Products</p>
 </div>
@@ -725,21 +750,24 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 <p class="clear">&nbsp;</p>
 <div class="footerBar"></div>
 <br>
-<div class="footPart"><a href="/about.aspx">About Us</a> <a href="/press/product-images.aspx">Press</a> <a href="/resellers-2012.aspx">Partner Lounge</a> <a href="/contact-bullguard.aspx">Contact Us</a></div>
+<div class="footPart"><a href="/about.aspx">About Us</a> <a href="/press/product-images.aspx">Press</a> <a href="/resellers-2012.aspx">Partner Lounge</a> <a href="/affiliate-partners.aspx">Affiliate Programs</a> <a href="/careers.aspx">Careers</a> <a href="/contact-bullguard.aspx">Contact Us</a></div>
 <div class="footPart"><a href="/products/bullguard-premium-protection.aspx">BullGuard Premium Protection</a> <a href="/products/bullguard-internet-security-old.aspx">BullGuard Internet Security</a> <a href="/products/bullguard-antivirus.aspx">BullGuard Antivirus</a> <a href="/products/bullguard-identity-protection.aspx">BullGuard Identity Protection</a> <a href="/products/bullguard-android-mobile-security.aspx">BullGuard Mobile Security</a></div>
-<div class="footPart"><a href="/products/bullguard-internet-security-2013.aspx">Internet Security</a> <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bullguard.mobile.mobilesecurity">Mobile Security</a> <a href="/downloads.aspx">More downloads</a></div>
+<div class="footPart"><a href="/downloads/internet-security-free-trial.aspx">Internet Security</a> <a href="https://play.google.com/store/apps/details?id=com.bullguard.mobile.mobilesecurity" target="_blank">Mobile Security</a> <a href="/downloads.aspx">More downloads</a></div>
 <div class="footPart"><a href="/support.aspx">Help Centre</a> <a href="/support/product-guides.aspx">Product Guides</a> <a href="http://forum.bullguard.com">Forums</a> <a href="/support/support-schedule.aspx">Live Technical Support</a></div>
 <p class="clearfix">&nbsp;</p>
-<div style="margin: 20px 0 20px 0;" class="footerBar"></div>
+<div class="footerBar" style="margin: 20px 0 20px 0;"></div>
 <div class="clearfix"><br>
-<div class="socialMediaBox"><strong>Follow Us</strong> <a title="facebook" rel="nofollow" href="http://www.facebook.com/BullGuard" onclick="window.open('http://www.facebook.com/BullGuard','fbwindow'); return false; "><span>Facebook</span></a> <a title="twitter" rel="nofollow" href="http://www.twitter.com/BullGuard" onclick="window.open('http://www.twitter.com/BullGuard','fbwindow'); return false;" class="twBtn"><span>Twitter</span></a> <a title="googlePlus" rel="nofollow" onclick="window.open('https://plus.google.com/102909736483892980240?prscr=3','fbwindow'); return false;" href="https://plus.google.com/102909736483892980240?prscr=3" class="gPlustBtn"><span>Google+</span></a> <a title="LinkedIn" onclick="window.open('http://www.linkedin.com/company/bullguard?trk=tabs_biz_home','lnkwindow'); return false; " rel="nofollow" href="http://www.linkedin.com/company/bullguard?trk=tabs_biz_home" class="liBtn"><span>Linkedin</span></a></div>
+<div class="socialMediaBox"><strong>Follow Us</strong> <a onclick="window.open('http://www.facebook.com/BullGuard','fbwindow'); return false; " href="http://www.facebook.com/BullGuard" rel="nofollow" title="facebook"><span>Facebook</span></a> <a class="twBtn" onclick="window.open('http://www.twitter.com/BullGuard','fbwindow'); return false;" href="http://www.twitter.com/BullGuard" rel="nofollow" title="twitter"><span>Twitter</span></a> <a class="gPlustBtn" href="https://plus.google.com/102909736483892980240?prscr=3" onclick="window.open('https://plus.google.com/102909736483892980240?prscr=3','fbwindow'); return false;" rel="nofollow" title="googlePlus"><span>Google+</span></a> <a class="liBtn" href="http://www.linkedin.com/company/bullguard?trk=tabs_biz_home" rel="nofollow" onclick="window.open('http://www.linkedin.com/company/bullguard?trk=tabs_biz_home','lnkwindow'); return false; " title="LinkedIn"><span>Linkedin</span></a></div>
 </div>
 </div>
   </div>
   <div>
       <div class="lastImg"></div>
       <p id="copyright">
-        © 2002 – 2014 BullGuard. All Rights Reserved. <a href="/about/privacy-policy.aspx">Privacy Policy &amp; Cookies</a>
+        <span id="copyrightReserved">
+        ©2016 BullGuard. All Rights Reserved. 
+          </span>
+          <a href="/about/privacy-policy.aspx">Privacy Policy &amp; Cookies</a>
         <a href="/about/legal-terms.aspx">Legal Terms</a>
 
         </p>
@@ -767,6 +795,12 @@ Sys.Application.initialize();
   
   
 
+    <script>
+           $(document).ready(function(){
+         text = $('#copyrightReserved').text(); 
+         $('#copyrightReserved').text(text.replace('©2016', '©' + new Date().getFullYear())); 
+});
+        </script>
 
 
         
@@ -829,7 +863,6 @@ Sys.Application.initialize();
   
 
 
-          
       
   
 </body></html>
