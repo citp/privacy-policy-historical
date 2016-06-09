@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airastana.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610004423id_/http%3A//airastana.com/Information/Terms-and-Conditions/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airastana.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609210046id_/http%3A//airastana.com/Information/Terms-and-Conditions/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ If your browser does not support SSL, we recommend you to update to the latest v
 
 ### Email services
 
-When you subscribe to receiving such communications as Air Astana’s electronic newsletter, you are giving Air Astana permission to use your email address for sending you the newsletter, and other mail such as surveys and news about special offers. You can subscribe to electronic newsletters via our Frequent Flyer Programme [Nomad Club](https://web.archive.org/Nomad-Club/Join-Nomad-Club/Join-Now) **** or on **Subscribe to Specials Offers** page at airastana.com.
+When you subscribe to receiving such communications as Air Astana’s electronic newsletter, you are giving Air Astana permission to use your email address for sending you the newsletter, and other mail such as surveys and news about special offers. You can subscribe to electronic newsletters via our Frequent Flyer Programme [Nomad Club](https://web.archive.org/Nomad-Club/Join-Nomad-Club/Join-Now) **** or on [Subscribe to Specials Offers](https://web.archive.org/global/en-us/Plan/Special-Offers/Subscribe-to-Special-Offers) page at airastana.com.
 
 If you wish to retract your permission for Air Astana and do not want to receive information by email, you can do so any time by clicking the ‘unsubscribe’ link at the bottom of the email.
 
