@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214132501id_/http%3A//www.math.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609131053id_/http%3A//www.math.com/privacy.html) for the most accurate reproduction.*
 
 # Math.com Privacy Policy
 
@@ -25,7 +25,7 @@ Custom Search
 
 Privacy Policy For Math.com
 
-(last updated September 29, 2015)  
+(last updated March 9, 2016)  
 At Math.com your privacy is important to us. We have created this privacy statement in order to demonstrate our commitment to privacy. Math.com's policy regarding use of your individual identifying information or other information supplied to us or collected during your visit(s) to the Math.com website covers the following areas: 
 
   * Information Gathering
@@ -85,7 +85,7 @@ In the course of serving advertisements to this site, our third-party advertiser
   
 Third parties (including us and other advertisers) may serve content and advertisements, collect information directly from users, and place or recognize cookies in connection with this site. These third parties may also collect device-specific information (such as your hardware model, operating system version, unique device identifiers and mobile network information, including phone number). Google may associate your device identifiers or phone number with your Google Account. When you use a location-enabled service, third parties may collect and process information about your actual location, such as GPS signals sent by a mobile device. They may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and mobile towers.
 
-If you would like to review the privacy policies of our third party advertisers and/or analytics, please visit [Google](http://www.google.com/privacy_ads.html), [Google Analytics](http://www.google.com/analytics/learn/privacy.html), [AOL Advertising](http://advertising.aol.com/privacy) and, [Commission Junction](http://www.cj.com/privacy.html). You can learn more about how Google products use your data by visiting [this page](http://www.google.com/intl/en/policies/privacy/partners/). 
+If you would like to review the privacy policies of our third party advertisers and/or analytics, please visit [Google](http://www.google.com/privacy_ads.html), [Google Analytics](http://www.google.com/analytics/learn/privacy.html), [AOL Advertising](http://privacy.aol.com/) and, [Commission Junction](http://www.cj.com/privacy.html). You can learn more about how Google products use your data by visiting [this page](http://www.google.com/intl/en/policies/privacy/partners/). 
 
 * **Behavioral Advertising and Content**
   
