@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.wa.us privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219071759id_/http%3A//access.wa.gov/siteinformation/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.wa.us privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609045605id_/http%3A//www.access.wa.gov/siteinformation/privacynotice) for the most accurate reproduction.*
 
 # Access Washington - Privacy Notice
 
@@ -58,7 +58,7 @@ Access Washington keeps a staff-use-only database of all of the transcripts prod
 
 After 30 days, user names, IP address, and email addresses are automatically erased from the transcript by the software and only the content of the transcript is retained in the database.
 
-The database of transcripts may be used to compile statistics about chat usage and for research to help improve online reference service. Excerpts from transcripts may be used for reports or publications. Personal information (e.g. IP address, email, names, phone numbers, etc.) that might be included in the body of a chat transcript will not be shared outside DES unless otherwise required by law.
+The database of transcripts may be used to compile statistics about chat usage and for research to help improve online reference service. Excerpts from transcripts may be used for reports or publications. Personal information (e.g. IP address, email, names, phone numbers, etc.) that might be included in the body of a chat transcript will not be shared outside WaTech unless otherwise required by law.
 
 To have your chat transcript deleted from the database, please email [AccessWA@des.wa.gov](mailto:AccessWA@des.wa.gov). Please send the date and time the chat started.
 
@@ -120,7 +120,7 @@ At no time is your private information, whether stored in persistent cookies or 
 
 ## 7\. Security
 
-The Department of Enterprise Services (DES), as developer and manager of Access Washington, has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained by DES. For site security purposes and to ensure that this Website remains available to all users, the state employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise cause damage to this Website. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession.
+Washington Technology Solutions ([WaTech](http://watech.wa.gov/)), as developer and manager of Access Washington, has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained by WaTech. For site security purposes and to ensure that this Website remains available to all users, the state employs software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise cause damage to this Website. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession.
 
 This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via Access Washington Website.
 
@@ -128,17 +128,20 @@ This information should not be construed in any way as giving business, legal, o
 
 Access Washington has links to many other Websites. These include links to Websites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on Access Washington and this Privacy Notice will not apply. When you link to another Website, you are subject to the privacy notice of that new site.
 
-Reference in this Website to any specific commercial products, processes, or services, or the use of any trade, firm, or corporation name is for the information and convenience of the public and does not constitute endorsement, recommendation, or favoring by the State of Washington, DES, or its officers, employees or agents.
+Reference in this Website to any specific commercial products, processes, or services, or the use of any trade, firm, or corporation name is for the information and convenience of the public and does not constitute endorsement, recommendation, or favoring by the State of Washington, WaTech, or its officers, employees or agents.
 
 Access Washington reserves the right to revise and update this Privacy Notice at any time without notice by posting such revised Privacy Notice at the Access Washington home page.
 
 To review your personal information, or request correction of your personal information:
 
-_DES Public Disclosure Officer  
-PO Box 42445  
-Olympia, WA 98504-2445  
-Phone: (360) 902-3551   
-Fax: (360) 586-5885   
-Email: [Public Disclosure Office](mailto:Harold.Goldes@des.wa.gov)_
+_WaTech  Public Disclosure Officer  
+1500 Jefferson St. SE  
+Olympia, WA 98504 – 41501
 
-_Last Modified: October 2011_
+Phone: (360) 407-8765   
+Fax: (360) 407-9177   
+Email: [Public Disclosure Office](mailto:publicdisclosure@cts.wa.gov)
+
+_
+
+_Last Modified: January 2016_
