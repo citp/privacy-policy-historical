@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rodales.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915054400id_/https%3A//www.rodales.com/s/rodales/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodales.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609163227id_/http%3A//www.rodales.com/s/rodales/privacy-policy.html) for the most accurate reproduction.*
 
 # Rodale's Privacy Policy: Protecting Your Information
 
 * * *
 
-Rodale's® LLC ("we"), a shopping destination where inspired design meets healthy living, is a subsidiary of Rodale (together "Rodale"), the world's leading healthy lifestyle company, publishes some of the best-known health and wellness lifestyle magazines, including _Prevention_ , _Men's Health_ , _Women's Health_ , _Runner's World_ , _Running Times_ , _Bicycling_ , and _Organic Gardening_ , and is one of the largest independent book publishers in the United States. Rodale brings you the ideas, insights, and information that inspire and enable people to improve their lives and the world around them. 
+Rodale's® LLC ("we"), a shopping destination where inspired design meets healthy living, is a subsidiary of Rodale (together "Rodale"), the world's leading healthy lifestyle company, publishes some of the best-known health and wellness lifestyle magazines, including _Prevention_ , _Men's Health_ , _Women's Health_ , _Runner's World_ , _Bicycling_ , and _Rodale’s Organic Life_ , and is one of the largest independent book publishers in the United States. Rodale brings you the ideas, insights, and information that inspire and enable people to improve their lives and the world around them. 
 
 This privacy policy applies to all information gathering activities of Rodale, on and offline. The policy describes how we handle information provided to us or collected on Internet sites where this privacy policy is posted. It also explains how we handle information provided to us or collected on applications we make available on or through third-party sites or platforms, if it is disclosed to you in connection with your use, purchase or download of the application. We may make changes to this policy. Please check back frequently for updates. Unless otherwise noted, any changes to this policy will take effect immediately upon being posted. Your continued use of Rodale sites, applications, products and services after the effective date of the changes constitutes your consent.
 
@@ -52,13 +52,13 @@ As described above, from time to time, we make your PII available to third parti
 
 ## Updating Your Account and Contact Information
 
-Upon request, we will update your personal account information (e.g., customer number), access your account status (outstanding balance), and update your contact information (i.e., name, address, phone number). For more information or to update an account, please call Customer Service at 888-891-8900, 8AM to midnight EST, 7 days a week or email us at [customercare@rodales.com](mailto:customercare@rodales.com). If you prefer, you may write to us at Privacy Request, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
+Upon request, we will update your personal account information (e.g., customer number), access your account status (outstanding balance), and update your contact information (i.e., name, address, phone number). For more information or to update an account, please call Customer Service at 888-891-8900, 8AM-8PM Monday-Saturday, Noon-6PM ET Sunday or email us at [customercare@rodales.com](mailto:customercare@rodales.com). If you prefer, you may write to us at Privacy Request, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
 
 * * *
 
 ## What if I don't want commercial/promotional e-mail from Rodale?
 
-If you do not want to receive commercial/promotional e-mail or online newsletters that you have subscribed to, please let us know by updating your email preferences at [preferences.rodales.com](https://www.rodales.com/email-preferences.html), by utilizing the unsubscribe option available on commercial e-mail communications, by calling us at 866-387-0509, or by writing to us at Privacy Request, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
+If you do not want to receive commercial/promotional e-mail or online newsletters that you have subscribed to, please let us know by updating your email preferences at the [Email Preferences Center](http://www.rodales.com/email-preferences.html), by utilizing the unsubscribe option available on commercial e-mail communications, by calling us at 866-387-0509, or by writing to us at Privacy Request, Rodale Inc., 400 South Tenth Street, Emmaus, PA 18098.
 
 * * *
 
@@ -120,7 +120,7 @@ Rodale uses industry-standard encryption technologies when transferring and rece
 
 ## Contact Us
 
-If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. You may also contact us to request access to or request corrections to your PII. Our postal address is 400 South 10th Street, Emmaus, PA 18098, and our privacy team can be reached via e-mail at [privacy@rodale.com](mailto:%20privacy@rodale.com) or you may use the form located at <http://www.rodale.com/cs/index.html>. You can reach customer service by telephone at 888-891-8900, 8AM to midnight EST, 7 days a week. Please note that we may not release or modify your PII to you unless you are able to provide satisfactory confirmation of identity.
+If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. You may also contact us to request access to or request corrections to your PII. Our postal address is 400 South 10th Street, Emmaus, PA 18098, and our privacy team can be reached via e-mail at [privacy@rodale.com](mailto:%20privacy@rodale.com) or you may use the form located at <http://www.rodale.com/cs/index.html>. You can reach customer service by telephone at 888-891-8900, 8AM-8PM Monday-Saturday, Noon-6PM ET Sunday. Please note that we may not release or modify your PII to you unless you are able to provide satisfactory confirmation of identity.
 
 Additionally, you may contact your state or local consumer protection office, [The Direct Marketing Association's Committee on Ethical Business Practices](http://www.the-dma.org/index.php), the [Better Business Bureau](http://www.bbb.org/), or The Federal Trade Commission by phone at (202) FTC-HELP (202/382-4357) and online at [www.ftc.gov](http://www.ftc.gov/).
 
