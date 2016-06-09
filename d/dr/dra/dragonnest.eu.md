@@ -1,46 +1,73 @@
-> *The following text is extracted and transformed from the dragonnest.eu privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628081006id_/http%3A//www.dragonnest.eu/en/Legal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonnest.eu privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609055945id_/http%3A//www.dragonnest.eu/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Dragon Nest Europe: Free-to-Play Online Action RPG
 
-Shanda Games International Europe GmbH (Shanda) domiciled in Ackerstrasse 153, 10115 Berlin, take the protection of your personal data very seriously. The following Privacy Policy will provide you information about the personal data that is collected and how it is processed and used.
+Cherry Credits values the importance of your privacy. Cherry Credits Privacy Policy covers the collection, use, and disclosure of personal information that may be received or collected when registering with Cherry Credits or using any of our services and also some of the measures we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
- **Subject matter of this Privacy Policy**  
-This Privacy Policy applies to all services which are offered on Shanda Internet pages, in particular the Shanda portal and the individual online gaming sites. Unless stated otherwise, this Privacy Policy exclusively regulates how Shanda treats your personal data. In case you make use of services provided by third parties, the privacy policies of these third parties apply exclusively. Shanda does not revise privacy policies of third parties.
+By accessing this Web Site and/or using the materials, facilities and/or services offered through this Web Site, you agree that, Singapore law (including without Limitation, the provisions of the Evidence Act (Cap. 97), the Electronic Transactions Act (Cap. 88) and the Personal Data Protection Act (PDPA) shall govern such access and the provision of such materials, facilities and/or services and you agree to submit to the non-exclusive jurisdiction of the Singapore courts.
 
- **Data controller**  
-The data controller according to the Federal Data Protection Act is Shanda Ackerstrasse 153, 10115 Berlin. In case you have any questions concerning privacy policy issues, please contact help@dragonnest.eu. At this address, you can inquire about privacy issues and review, change or delete your personal data stored by Shanda. Alternatively, you can also contact us using the above postal address. Please - if possible â€“ indicate the online game that you have played, the server and your player name. This will cause you no other costs than the transmission costs stated in the base rates (i.e. the costs of your Internet, e-mail, mobile phone or telephone connection).
+Upon submission of your personally identifiable information on or through this website, you are giving us your consent to collect, use and disclose your personal identifiable information in the manner as set forth in our Privacy Policy.
 
- **General information**  
-We collect, process and use personal data â€“ unless already permitted by statutes â€“ only with your consent. If the consent is declared electronically within the scope of our Internet presence, we will comply with the statutory obligations to inform you about it.
+###### Data Controller
 
- **Collection of data to implement the contract**  
-Generally, you can access our Internet presence without disclosing any personal data to us. It is always your choice whether or not to provide us with your personal data. We collect your data to be able to fulfill the user contract concluded with you. In addition to monitoring compliance with the terms of use and the rules of the game, this includes in particular the proper handling of your payment orders. If you would like to register on our Internet sites, participate in sweepstakes or subscribe to our newsletter, it is necessary to provide personal data. This data includes, for example, your name, address, e-mail address and other personal data which Shanda may query in individual cases. In addition, the automatic collection of further data of registered customers, e.g. the IP address, is required for the technical implementation of our services as well as the monitoring of the use of our services in compliance with the law and the contract. The proper implementation of the user contract involves in particular the monitoring of compliance with the terms of use and the rules of the game. Insofar as we provide you clients for download to participate in our games, a program to avoid altering or fraudulent interventions in the game may be installed in the game along with these clients to prevent unlawful use of the game and manipulation of data. 
+The data controller according to the Federal Data Protection Act is Cherry Credits Pte Ltd, Singapore. In case you have any questions concerning privacy policy issues, please contact dpo@cherrycredits.com. At this address, you can inquire about privacy issues and review or change your personal data stored by Cherry Credits. Alternatively, you can also contact us using the following postal address: 3 Fusionopolis Way Symbiosis #11-20 Singapore 138633. Please indicate the online game that you are playing, the server and your player name. This will cause you no other costs than the transmission costs stated in the base rates (i.e. the costs of your Internet, e-mail, mobile phone or telephone connection).
 
-Such programs are started together with the respective game and exclusively serve to protect the data of the respective game stored on the clients and the servers. During the participation in the respective game, an analysis of the client software, the technical communication between the client and our servers as well as known unlawful technical manipulations and aids (in particular hacks and cheats) may be conducted. Further analysis of your computer and data will not be conducted; in particular neither your communication within the game nor your other data stored on your computer outside the game will be evaluated. If no alterations of the client or the communication between the client and the server are detected on your computer, personal data will not be collected and in particular not transmitted to the respective game server or Shanda. In case abusive use, in particular technical manipulation and violation of the terms of use and the rules of the game, is detected, the data required to eliminate the abuse will be transmitted to Shanda. In the event that such a program is installed along with a game, you will be informed of this by separate notice. You may abort or cancel the installation at any time by aborting the installation of the client or uninstalling the client.
+###### Why we collect personal information?
 
- **Cookies**  
+We collect your personal information when you register with Cherry Credits. It enables us to give you convenient access to our products and services and focus on categories which may be of great interest to you. In addition, your personal information helps us to keep you posted on the latest product announcements, updates, and events with Cherry Credits. If you do not want Cherry Credits to keep you up-to-date with our latest news and services, you may edit your preferences in your Cherry Account and update your preferences and personal information.
+
+###### What information we collect and how we may use it?
+
+• We will request for your personal information when you register with Cherry Credits. To safeguard your account, information is collected to allow us to verify that you are the actual owner of a specific Cherry Account
+
+• We need to share your information to provide the product or service you have requested;
+
+• We need to send the information to companies who work on behalf of Cherry Credits to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personal information we provide to them beyond what is necessary to assist us.);
+
+• We respond to subpoenas, court orders or legal process; or
+
+• We find that your actions on our web sites violate the use of CherryCredits.com
+
+• We may use personal information auditing, research, and analysis to improve Cherry Credits’ products.
+
+###### Cookies
+
 For technical purposes and to make the visit to our Internet presence as pleasant as possible, we use, like many other companies, so-called cookies. After your visit to our websites, these cookies are usually automatically deleted from your hard drive; however, some cookies may be stored on your hard drive for a longer period of time for technical reasons. Your Internet browser can be set to reject cookies generally or delete them in individual cases. If you wish to prevent cookies from being installed or would like to delete individual cookies, please follow the instructions of the manufacturer of your browser. Please note that you may no longer be able to use our Internet pages or only in a limited manner for technical reasons.
 
- **Collection of data for statistical purposes**  
-Within the scope of statistical evaluations, we collect in some areas of our Internet presence data such as operating system and version, browser and version, IP address as well as further system data. We use this data for statistical evaluations, in particular for the purpose of adapting our Internet presence to the usersâ€™ needs. Where possible, the data is anonymised. No data is disclosed to third parties.
+###### Your Cherry Account and related information
 
- **Withdrawal of consents**  
-Insofar as the processing of your personal data is based on your consent and is not contractually or statutorily justified, you may withdraw your consent to data processing at any time with effect for the future.  
-Insofar as your withdrawal refers to the receipt of newsletters or other e-mails, you will be informed as part of the communication that you may cancel your subscription at any time. The cancellation of your subscription will cause you no costs other than the transmission costs stated in the base rates.  
-Otherwise, please refer to the support of the website or game you used to withdraw your consent. The cancellation of your subscription will cause you no other costs than the transmission costs stated in the base rates.
+Cherry Credits allows you to create a "Cherry Account" based on your personal information. This registration allows users to access our services. When you choose to purchase from our Merchants using Cherry Credits, all you need to do is to login into your Cherry Account. With your Cherry Account, you will be able to access and purchase with our authorized Merchants.
 
- **Use of pseudonyms**  
-In many cases it is possible to use Shandaâ€™s services by using pseudonyms. Users are encouraged to make use of this feature.
+###### How we protect your personal information
 
- **Use of your personal data**  
-We use your personal data in order to constantly improve our range of services and to satisfy the usersâ€™ needs. Shanda uses your personal data for the establishment, implementation and settlement of your contractual relationship with Shanda and the processing of payments. Furthermore, we use your data in order to communicate with you. This includes that we, as the case may be, inform you about novelties of our services by e-mail. Thus, we use your data to regularly inform you about products, services or certain events from our range of services and our corporate groupâ€™s range of services which may be of interest to you. You may also be sent e-mails within the scope of customer surveys.  
-You may receive e-mails from us from the following address: newsletter@dragonnest.eu or news@sdgieurope.com. Finally, we use your data in order to protect our websites against abusive use and to trace any unauthorized access.
+Cherry Credits takes precautions to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
 
- **Disclosure of personal data**  
-As a matter of course, your data will not be sold to third parties. Shanda exclusively discloses your personal data to the following extent: We cooperate with payment providers (e.g. credit card companies, banks, PayPal, mobile services, debt collection agencies, etc.), providers that create and compile statistical data, IT service providers (e.g. data centers, hosts, backup services, database services). These service providers only have access to your data to the extent which is necessary for the completion of their tasks. These service providers are obliged to treat your data according to this Privacy Policy and the relevant data protection statutes. In the case that Shanda, companies controlled by Shanda, particular affiliated companies or shares of the company are sold, your customer data will generally be passed on with the transmitted part of the company. Of course, in this case your data is also subject to this Privacy Policy and the relevant data protection statutes.
+Cherry Credits uses Secure Sockets Layer (SSL) encryption on all web pages where personal information is required. To make purchases from the Cherry Exchange, you must use an SSL-enabled browser such as Internet Explorer. Doing so protects the confidentiality of your personal and credit card information while it's transmitted over the Internet.
 
- **Deletion of data**  
-If your data is no longer necessary for the above-mentioned purposes including settlement, for tax purposes or other legal reasons, it will be deleted.
+You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser like Internet Explorer or Mozilla Firefox. In addition, do not reveal your 6-Digit security PIN and Secret Questions/Answers.
 
- **Security of your personal data**  
-We process the data collected from you according to the German Data Protection Act. All employees are obliged and have been advised to maintain data confidentiality and privacy obligations. When submitting payments, the transfer of your data is protected by SSL encryption technology. Our SSL transfer is THAWTE-certified.
+###### Integrity of your personal information
+
+It is necessary to ensure that personal information used during registration with Cherry Credits is accurate, complete, and up to date for the purposes for which it is used. You always have the right to access and correct the personal information you have provided. You can help us ensure that your contact information and preferences are accurate, complete, and up to date by login into your Cherry Account.
+
+Your email address provided may be used to inform you of the latest Cherry Credits games and promotions via electronic newsletters. You may opt out of this by unchecking the newsletter box during registration or by choosing to unsubscribe from our mailing list. When you choose the latter, you will be directed to https://exchange.cherrycredits.com/unsubscribe.aspx where you will need to enter your credentials to remove yourself from the mailing list. Alternatively you may visit the given site directly to unsubscribe from our mailing list.
+
+###### Links to Third Party Sites
+
+The Web Site may contain links to or references to other web sites that may be accessed or which may originate outside the boundaries of the Web Site and which information Cherry Credits will have no control. Therefore, Cherry Credits shall have no obligation or responsibility regarding any content derived, obtained, accessed within through or outside of the Web Site. Cherry Credits’ inclusion of links to such web sites does not imply any endorsement or verification of the material on such web sites or any association with their operators, and such web sites shall be accessed at the user's own risk.
+
+###### Privacy questions
+
+If you have questions or concerns about Cherry Credits Privacy Policy or your personal data, please contact us via Cherry Messenger. Alternatively, you may email us at dpo@cherrycredits.com. 
+
+3 Fusionopolis Way Symbiosis #11-20 
+
+Singapore 138633 
+
+Office Contact: 6747 6676 
+
+Customer Service Contact: gardener at cherrycredits dot com 
+
+###### Revisions to the Privacy Policy
+
+We may change our Privacy Policy from time to time. Please review the latest version of our Privacy Policy posted on this webpage. The changes that are posted will take effect immediately. Please contact us at dpo@cherrycredits.com if you no longer wish for Cherry Credits to collect, use or disclose your personally identifiable information.
