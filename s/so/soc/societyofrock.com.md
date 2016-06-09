@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the societyofrock.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025232026id_/http%3A//societyofrock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the societyofrock.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609180023id_/http%3A//societyofrock.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Society Of Rock
+# Privacy Policy | Society Of Rock
 
 ### WHAT INFORMATION DO WE COLLECT?
 
