@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kffl.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210144958id_/http%3A//fantasy.usatoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kffl.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609204625id_/http%3A//fantasy.usatoday.com/privacy) for the most accurate reproduction.*
 
-# Daily Fantasy Leagues | USA Today Fantasy Sports
+# Privacy | USA Today Fantasy Sports
 
 Last Updated: April 8th, 2013
 
