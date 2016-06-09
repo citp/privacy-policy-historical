@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016041553id_/http%3A//www.brighamandwomens.org/about_BWH/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609121341id_/http%3A//www.brighamandwomens.org/about_BWH/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -88,4 +88,4 @@ If you have any questions or concerns about our Privacy Policy, please contact u
   
 
 
-This page was last modified on 10/19/2011 
+This page was last modified on 11/17/2015 
