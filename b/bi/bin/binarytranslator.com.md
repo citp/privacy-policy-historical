@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binarytranslator.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209143217id_/http%3A//binarytranslator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binarytranslator.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609173913id_/http%3A//binarytranslator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,4 +10,5 @@ We do not store any information submitted to this site for the purposes of trans
 
 Cookies
 
-Cookies are an industry standard tool used by most websites. Advertisers on this website will use cookies to deliver ads that are more relevant to you. We have no access to or control over these. That said, they should in no way cause damage to your computer.
+Cookies are an industry standard tool used by most websites. Advertisers on this website will use cookies to deliver ads that are more relevant to you. We have no access to or control over these. That said, they should in no way cause damage to your computer.  
+[Expert SEO](http://washeen.com/)
