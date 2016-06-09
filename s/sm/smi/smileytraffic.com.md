@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416005349id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smileytraffic.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609125723id_/http%3A//www.smileytraffic.com/privacy.php) for the most accurate reproduction.*
 
 # SmileyTraffic #1 Rated Traffic Exchange For Signups To Your Pages!
 
@@ -13,30 +13,36 @@
 
 Member Earnings  
 Since 03-22-04  
-**$170,949.51**  
+**$191,878.98**  
 
 
 **_Live Site Stats_**
 
 **Total Members:  
-177836**
+191950**
 
 **New  
 Members Last  
 7 Days:  
-300**
+193**
 
 **New  
 Members Last  
 30 Days:  
-1381**
+856**
+
+Referral Pages Being Shown This Second: 
+
+483 
 
   
 
 
 [](http://adone-ten.com/Surf/Splash.php?p=4&ref=489)  
 **Our Stickers Are  
-Paid Until 01-13-2016!**
+Paid Until 01-13-2017!**
+
+[](http://viraltrafficgames.com/?rid=610&sid=174)
 
 |  Personal Information  
 Is NEVER EVER given out to anyone, this is collected to set up your account and for payment or contact with Smileytraffic.com.
