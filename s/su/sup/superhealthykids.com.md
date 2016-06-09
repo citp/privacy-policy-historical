@@ -1,21 +1,71 @@
-> *The following text is extracted and transformed from the superhealthykids.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922044629id_/http%3A//www.superhealthykids.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superhealthykids.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610003709id_/http%3A//www.superhealthykids.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Super Healthy Kids
 
-This Privacy Policy explains superhealthykids.com’s policy regarding the privacy of information supplied by users or collected by us from users of superhealthykids.com site. We are committed to protecting your privacy.
+## Affiliate Disclosure
 
-This Policy may change over time as we modify or expand our service; we suggest that you check back from time to time in order to understand how we treat your information. The TodaysMama.com web site may contain links to other sites that are not under our control. These web sites have their own policies regarding privacy. You should review those policies before visiting the web sites. We have no responsibility for linked web sites, and we provide these links solely for the convenience and information of our visitors.
+SuperHealthyKids.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](http://amazon.com/).
 
-What Information is Being Collected  
-superhealthykids.com collects certain information from and about its users. Various forms require users to give us contact information. In addition, when purchasing products and services through this web site, we will collect financial information. Not all information is required to be provided (required information will be clearly noted), but if you should choose to withhold information, you may not be eligible to participate in or receive full benefit from all products or services on the web site.
+## Privacy Policy
 
-Also, we use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
+This privacy policy sets out how Super Healthy Kids, Inc. uses and protects any information that you give us while using www.superhealthykids.com.  Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy was most recently updated on November 5th 2014.
 
-The Use of That Information  
-We may use your information to provide personalized content and services. Any account information you supply will be used only to process requested commerce transaction or to contact you regarding a specific inquiry or transaction.
+**What we collect**
 
-Third Party Distribution  
-Superhealthykids.com will not willfully disclose any individually identifiable information about its users to any third party without first receiving that user’s permission.
+We may collect the following information:
 
-Security  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control, such as firewalls and authentication protection. All orders are transmitted over secure Internet connections using SSL (Secure Socket Layer) encryption technology. All of your personal information including your credit card information is stored in an unreadable, encrypted format at all times. This web site, and more importantly all user information, is further protected by a multilayer firewall based security system.
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
+  * shipping and billing address during the purchase process
+  * credit or debit card information in connection with purchases made on www.superhealthykids.com
+
+
+
+**What we do with the information we gather**
+
+We collect information to understand your needs so that we can provide you with a better customer experience, and in particular for the following reasons:
+
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
+  * We may use your information to provide you with products and services that you have purchased from us.
+
+
+
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.  Credit and or debit card information is stored in a manner that is compliant with Payment Card Industry Data Security Standards (PCI compliant).
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Advertising**
+
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We use advertising service vendors to help present advertisements on the website.  These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and we disclaims all liability in connection therewith.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * you can opt out of our mailing lists using the unsubscribe feature listed in any of our marketing emails
+  * if you have previously agreed to us using your personal information for direct marketing purposes, such as by signing up for our newsletter, you may change your mind at any time by contacting us.
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+**Opt Out**
+
+For information about opting out of data collection by any of our advertising partners, or our data collection, or for any other questions, please contact [russ@superhealthykids.com](mailto:russ@superhealthykids.com).  For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy-policy](http://www.gourmetads.com/about/privacy-policy). If you believe that any information we are holding on you is incorrect or incomplete, please let us know.
