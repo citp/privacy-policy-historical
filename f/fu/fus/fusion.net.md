@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusion.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190709id_/http%3A//fusion.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusion.net privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609232154id_/http%3A//fusion.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fusion
 
@@ -7,11 +7,11 @@
 
 [](https://privacy.truste.com/privacy-seal/Fusion-Media-Network,-LLC/validation?rid=227bc72b-18f2-4897-8e44-5e980db57383 "TRUSTe online privacy certification")
 
-**Last Modified:** February 10, 2015.
+**Last Modified:** December 14, 2015.
 
-This privacy policy applies to [http://fusion.net](http://fusion.net/) owned and operated by Fusion Media Network, LLC (“Fusion”). This privacy policy describes the treatment of information provided or collected on the site. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. We follow this privacy policy in accordance with local law in the places where we operate.
+This privacy policy applies to http://fusion.net owned and operated by Fusion Media Network, LLC (“Fusion”). This privacy policy describes the treatment of information provided or collected on the site. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. We follow this privacy policy in accordance with local law in the places where we operate.
 
-Fusion has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [http://fusion.net](http://fusion.net/).
+Fusion has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, http://fusion.net.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
