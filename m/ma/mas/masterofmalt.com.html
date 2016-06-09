@@ -1,36 +1,51 @@
-<!--The following is the downloaded HTML source of the masterofmalt.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905121923id_/https%3A//www.masterofmalt.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the masterofmalt.com privacy policy that was archived on 2016-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609212218id_/https%3A//www.masterofmalt.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" class="no-js"><head id="Head1"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" charset="utf-8" src="//cdn.zopim.com/?kJO4BBKzd15D7P2L0danoTHTSY8sNO32" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"819cd4f734","applicationID":"4484612,4484613","transactionName":"NVwEYhNWWkNWBUwLXgwWJ2UxGEdEVhJRAR8DShZO","queueTime":0,"applicationTime":17,"ttGuid":"C6ACA941F2B95C0F","agent":"js-agent.newrelic.com/nr-686.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw4CUVZWGwcEXFVUBgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#"><head id="Head1"><title>
 	Privacy Policy - Master of Malt
-</title>    
-    <script type="text/javascript">
-        document.domain = 'masterofmalt.com';
+</title>
+
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N5HMB7"></script><script async="" charset="utf-8" src="//cdn.zopim.com/?kJO4BBKzd15D7P2L0danoTHTSY8sNO32" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
         // THIS IS THE GLOBAL MOM OBJECT
         // TODO: Load from Config.
         var mom = mom || {};
         mom.routes = {};
         mom.routes.privateAPI = 'https://admin.atom2.local/webapi/';
         mom.modules = {};
+        mom.singletons = {};
+        mom.globals = {};
+
         mom.browsers = {
             currentBrowserIsIE7: false,
             currentBrowserIsIE8: false,
-            currentBrowserIsIE9: false
+            currentBrowserIsIE9: false,
+            supports: {}
         };
+        mom.browsers.supports.svg = true;
+        mom.config = {"AuctionRegistrationProductId":51001};
         // END GLOBAL MOM OBJECT
 
-        var javaCookie = false;
-        var showCurrencyPopup = true,
-            countryCode       = "US",    
-            brandID           = 1,  
-            basketTotal       = 0,
-            isTablet          = false,
-            isRetina          = false,
-            BasketID          = "",            
-            
-        ProductsInBasketJSArray = {};
+        var showCurrencyPopup       = true,
+            countryCode             = "US",
+            brandID                 = 1,
+            basketTotal             = 0,
+            isTablet                = false,
+            isRetina                = false,
+            BasketID                = "",
+            UseCDN                  = true,
+            BYOLive                 = true,
+            ProductsInBasketJSArray = {},
+            javaCookie              = false,
+            deliveryEndDate         = 1465801200,
+            currentTimeStamp        = 1465507332,
+            javaCookie              = false,
+            orderOffers             = [],
+            notificationMessage     = 'Shopping at Master of Malt is safe and secure.';
+
+        var BYOCalendarContent = {"Products": []};
+        mom.globals.BYOTypes = [{"TypeID":1,"Name":"My Advent Calendar","FormattedName":"My<br />Advent Calendar","SentanceName":"advent calendar","Quantity":24,"ProductID":46092},{"TypeID":2,"Name":"My Tasting Set","FormattedName":"My<br />Tasting Set","SentanceName":"tasting set","Quantity":5,"ProductID":52524}];
     </script>
-    
+
     <!--[if IE 7]>
         <script>  mom.browsers.currentBrowserIsIE7 = true; </script>
     <![endif]-->
@@ -41,18 +56,28 @@
     <!--[if IE 9]>
         <script>  mom.browsers.currentBrowserIsIE9 = true; </script>
     <![endif]-->
-    
-    <link href="https://cdn1.masterofmalt.com/Css/crushed/crushed_master-8d1edc55.css" type="text/css" rel="stylesheet"><script src="https://cdn2.masterofmalt.com/Javascript/crushed/master.min-612878ba.js" type="text/javascript"></script>
-<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"><link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Master Of Malt Search">  
+
+    <link href="https://cdn1.masterofmalt.com/Css/master-ee449add6e.css" type="text/css" rel="stylesheet"><script src="https://cdn3.masterofmalt.com/Javascript/crushed/master-ed179c7468.min.js" type="text/javascript"></script>
+    <link href="https://cdn3.masterofmalt.com/Css/pages/static-f2033c7d48.css" type="text/css" rel="stylesheet">
+
+
+    <!--[if lt IE 9]>
+        <script src="https://cdn1.masterofmalt.com/Javascript/thirdparty/respondjs/respond.min.js"></script>
+        <script src="https://cdn2.masterofmalt.com/Javascript/thirdparty/html5shiv/html5shiv.js"></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" href="https://cdn2.masterofmalt.com/images/favicon.ico" type="image/x-icon">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Master Of Malt Search">
         <link href="https://plus.google.com/111714992030919294968" rel="publisher">
     
-  
+
     <!--[if lte IE 6]>
         <link rel="stylesheet" type="text/css" href="/Css/StylesheetIE6.css" media="screen" />
     <![endif]-->
 
     
-    <script type="text/javascript">   
+
+    <script type="text/javascript">
         // google analytics
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
@@ -65,18 +90,93 @@
         ga('require', 'displayfeatures');
         ga('send', 'pageview');
     </script>
-    <meta name="theme-color" content="#F9F8ED"><meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="theme-color" content="#F9F8ED"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 <link rel="canonical" href="https://www.masterofmalt.com/privacy-policy/">
 </head>
-<body>    
+
+<body class=" byo" itemscope="" itemtype="http://schema.org/WebPage">
     
+    <div id="BYOWrapper" style="display:none">
+        <div id="byoPanelWrapper">
+            <div id="byoPanel">
+                <div class="byo-close-panel fontello-cancel js-byo-close-panel"></div>
+                <div id="byoHeader">
+                    <button class="byo-btn-stop">Stop building this <span class="js-byo-sentance-name"></span></button>
+                </div>
+                <div id="byoCompletePanel">
+                    <h3>YOUR PERSONALISED<br><span class="js-byo-sentance-name"></span> IS READY !</h3>
+                    <label for="byoGiftMessage">Add a free gift message</label>
+                    <textarea id="byoGiftMessage" maxlength="200" placeholder="Your free gift message goes here..."></textarea>
+                    <div class="detBuyButton">
+                        <a id="byoAddToBasket" class="mom-btn byo-btn-addtobasket mom-btn-buy mom-btn-red mom-btn-buy-add-to-basket mom-btn-buy-large" rel="nofollow" href="#add"><div><div class="mom-btn-text"></div></div></a>
+                    </div>
+                </div>
+                <div id="byoOutOfStockPanel">
+                    <div class="fontello-attention-circled"></div>
+                    <h3>Some drams are now out of stock</h3>
+                    <p>Unfourtunately some of the drams you selected for your <span class="js-byo-sentance-name"></span> are now out of stock :(</p>
+                    <div class="fontello-angle-down"></div>
+                </div>
+                <div id="byoList">
+                    <div id="byoNoStockHeader">Please replace these out of stock drams</div>
+                    <ul></ul>
+                    <div id="byoStepGuide">
+                        <h3>Help</h3>
+                        <ol>
+                            <li>Click the bubble above or the X button to hide this panel.</li>
+                            <li>The bubble will follow you around and you can use it to bring the panel back.</li>
+                            <li>Browse the site like you normally would, when you find something you want hit “Add to <span class="js-byo-sentance-name"></span>” (the button’s on the product page in the Dram section).</li>
+                            <li>View a searchable list of all our drams.</li>
+                        </ol>
+                    </div>
+                    <div class="byo-all-drams-wrap">
+                        <a id="GoToDrams" class="mom-btn mom-btn-green mom-btn-inline mom-btn-medium mom-btn-arrow-right js-go-to-drams-button" rel="nofollow" href="/search/#search=&amp;page=1&amp;sort=_score&amp;direction=desc&amp;hasdram=1"><div><div class="mom-btn-text">View all drams</div></div></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="byo-instructions js-byo-instructions">
+            <h5>It looks like you're building a <span class="js-byo-sentance-name"></span>!</h5>
+            <ul>
+                <li>Click the bubble below to see the full contents of the <span class="js-byo-sentance-name"></span>.</li>
+                <li>Browse the site like you normally would, when you find something you want hit “Add to <span class="js-byo-sentance-name"></span>” (the button’s on the product page in the Dram section).</li>
+                <li>This is a searchable page of all of our drams, enjoy!</li>
+            </ul>
+
+            <a href="#" onclick="mom.BYO.bubble.$instructions.hide(); return false;">Got it Drammy, go away!</a>
+        </div>
+        <div id="jsByoBubble" class="byo-bubble" style="display: none">
+            <div class="progress-arc js-progress-arc">
+                <div class="circle">
+                    <div class="mask full">
+                        <div class="fill"></div>
+                    </div>
+                    <div class="mask half">
+                        <div class="fill"></div>
+                        <div class="fill fix"></div>
+                    </div>
+                    <div class="shadow"></div>
+                </div>
+            </div>
+            <div class="byo-inner">
+                <div class="byo-overlay">
+                    <h3 class="byo-bubble-title js-title"></h3>
+                    <div class="byo-progress-count js-progress-count"></div>
+                    <div class="byo-total-price js-total-price"></div>
+                </div>
+            </div>
+        </div>
+        <div class="byo-body-overlay"></div>
+    </div>
+
     
     <form name="AspNetForm" method="post" action="/privacy-policy/" id="AspNetForm">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
 <input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM0MjY5MDQwMWRkfjTnSMQcA4OLD1wn7KnqpU/XfGk=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk4MDk3OTk3NGRkSHO0zQgdZRINTI42xmV0ysPNu7w=">
 </div>
 
 <script type="text/javascript">
@@ -99,33 +199,33 @@ function __doPostBack(eventTarget, eventArgument) {
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5A785FF9">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAyYVESx2jXjOKB09qy2gsde0sZXUuMb66OpNB6E6wB8oh2MRLi+A3YN+sgbZ+OXWkvrjoIXS2VihImsTFI4RvBrZE0AwkOtEQ5lmT47NCw25hmm3kpV7j9Il/M3TkIlghfjEiO6J64YrjtSUPVkpANW/wM8H4qMeVjByQlBJJRFXZWyJ4e8uw5mggmduoP+93D1bzk5evRuntPHTiINVu3wn5JsTRp/VQsyHKCpfyL46mi1bI2tCGQlzxQbxd4mkvXuRbtc6HFRs6UsxW914dd7EyqJ+A==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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">
 </div>
-    
-    
+
+        
+        
 
     <input name="ctl00$hidSessionTimeOut" type="hidden" id="hidSessionTimeOut" value="1471168928">
 
     
-    <div id="ctl06_partnerHeaderContent" class="partnerHeaderContent"></div>
-
-
-
-    
     
 
     
     
     
-    
-    
-    <div id="international_PopUp" class="international-pop-up" style="display:none;">        
-        <strong id="localisedWelcome">Hello</strong>
 
-        <div class="mom-input-group clearfix">
-            <label>We've set your shipping destination to</label>            
-            <img src="/Images/dnp/flags/48/US.png" id="shippingCountryFlag" class="js-InternationalPopupCountryFlag">
-            <select name="ctl00$shippingCountry" id="shippingCountry" class="js-international-pop-up-country-dropdown mom-input">
+        
+        <div id="international_PopUp" class="international-pop-up boxBgr" style="display: none;">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 id="localisedWelcome">Hello</h2>
+                    <p>We've set your shipping destination to:</p>
+                </div>
+            </div>
+
+            <div class="mom-input-extra-container">
+                <div class="mom-input-wrapper">
+                        <select name="ctl00$shippingCountry" id="shippingCountry" class="js-international-pop-up-country-dropdown">
 	<option value="464" data-csc="GB">United Kingdom - Mainland</option>
 	<option value="482" data-csc="GB">United Kingdom - Isle Of Man</option>
 	<option value="481" data-csc="GB">United Kingdom - Northern Ireland</option>
@@ -149,7 +249,6 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="246" data-csc="AO">Angola</option>
 	<option value="247" data-csc="AI">Anguilla</option>
 	<option value="249" data-csc="AG">Antigua And Barbuda</option>
-	<option value="250" data-csc="AR">Argentina</option>
 	<option value="251" data-csc="AM">Armenia</option>
 	<option value="252" data-csc="AW">Aruba</option>
 	<option value="253" data-csc="AU">Australia</option>
@@ -157,7 +256,6 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="255" data-csc="AZ">Azerbaijan</option>
 	<option value="256" data-csc="BS">Bahamas</option>
 	<option value="257" data-csc="BH">Bahrain</option>
-	<option value="258" data-csc="BD">Bangladesh</option>
 	<option value="259" data-csc="BB">Barbados</option>
 	<option value="261" data-csc="BE">Belgium</option>
 	<option value="262" data-csc="BZ">Belize</option>
@@ -165,8 +263,7 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="264" data-csc="BM">Bermuda</option>
 	<option value="265" data-csc="BT">Bhutan</option>
 	<option value="266" data-csc="BO">Bolivia</option>
-	<option value="267" data-csc="BA">Bosnia And Herzegowina</option>
-	<option value="268" data-csc="BW">Botswana</option>
+	<option value="267" data-csc="BA">Bosnia And Herzegovina</option>
 	<option value="272" data-csc="BN">Brunei Darussalam</option>
 	<option value="273" data-csc="BG">Bulgaria</option>
 	<option value="274" data-csc="BF">Burkina Faso</option>
@@ -183,14 +280,12 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="291" data-csc="CK">Cook Islands</option>
 	<option value="292" data-csc="CR">Costa Rica</option>
 	<option value="294" data-csc="HR">Croatia (Local Name: Hrvatska)</option>
-	<option value="295" data-csc="CU">Cuba</option>
 	<option value="296" data-csc="CY">Cyprus</option>
 	<option value="297" data-csc="CZ">Czech Republic</option>
 	<option value="298" data-csc="DK">Denmark</option>
 	<option value="299" data-csc="DJ">Djibouti</option>
 	<option value="300" data-csc="DM">Dominica</option>
 	<option value="301" data-csc="DO">Dominican Republic</option>
-	<option value="303" data-csc="EG">Egypt</option>
 	<option value="304" data-csc="SV">El Salvador</option>
 	<option value="305" data-csc="GQ">Equatorial Guinea</option>
 	<option value="306" data-csc="ER">Eritrea</option>
@@ -203,7 +298,6 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="315" data-csc="PF">French Polynesia</option>
 	<option value="317" data-csc="GA">Gabon</option>
 	<option value="318" data-csc="GM">Gambia</option>
-	<option value="319" data-csc="GE">Georgia</option>
 	<option value="320" data-csc="DE">Germany</option>
 	<option value="321" data-csc="GH">Ghana</option>
 	<option value="322" data-csc="GI">Gibraltar</option>
@@ -220,15 +314,11 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="336" data-csc="HU">Hungary</option>
 	<option value="337" data-csc="IS">Iceland</option>
 	<option value="338" data-csc="IN">India</option>
-	<option value="339" data-csc="ID">Indonesia</option>
-	<option value="340" data-csc="IR">Iran (Islamic Republic Of)</option>
-	<option value="341" data-csc="IQ">Iraq</option>
 	<option value="342" data-csc="IE">Ireland</option>
 	<option value="343" data-csc="IL">Israel</option>
 	<option value="344" data-csc="IT">Italy</option>
 	<option value="345" data-csc="JM">Jamaica</option>
 	<option value="346" data-csc="JP">Japan</option>
-	<option value="348" data-csc="KZ">Kazakhstan</option>
 	<option value="350" data-csc="KI">Kiribati</option>
 	<option value="352" data-csc="KR">Korea, Republic Of</option>
 	<option value="353" data-csc="KW">Kuwait</option>
@@ -237,13 +327,11 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="356" data-csc="LV">Latvia</option>
 	<option value="357" data-csc="LB">Lebanon</option>
 	<option value="358" data-csc="LS">Lesotho</option>
-	<option value="359" data-csc="LR">Liberia</option>
 	<option value="360" data-csc="LY">Libyan Arab Jamahiriya</option>
 	<option value="361" data-csc="LI">Liechtenstein</option>
 	<option value="362" data-csc="LT">Lithuania</option>
 	<option value="363" data-csc="LU">Luxembourg</option>
 	<option value="364" data-csc="MO">Macau</option>
-	<option value="365" data-csc="MK">Macedonia, The Former Yugoslav Republic Of</option>
 	<option value="366" data-csc="MG">Madagascar</option>
 	<option value="367" data-csc="MW">Malawi</option>
 	<option value="368" data-csc="MY">Malaysia</option>
@@ -265,7 +353,6 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="384" data-csc="MZ">Mozambique</option>
 	<option value="386" data-csc="NA">Namibia</option>
 	<option value="387" data-csc="NR">Nauru</option>
-	<option value="388" data-csc="NP">Nepal</option>
 	<option value="389" data-csc="NL">Netherlands</option>
 	<option value="391" data-csc="NC">New Caledonia</option>
 	<option value="392" data-csc="NZ">New Zealand</option>
@@ -275,7 +362,6 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="397" data-csc="NF">Norfolk Island</option>
 	<option value="398" data-csc="MP">Northern Mariana Islands</option>
 	<option value="399" data-csc="NO">Norway</option>
-	<option value="400" data-csc="OM">Oman</option>
 	<option value="401" data-csc="PK">Pakistan</option>
 	<option value="402" data-csc="PW">Palau</option>
 	<option value="403" data-csc="PS">Palestinian Territory, Occupied</option>
@@ -285,7 +371,6 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="407" data-csc="PE">Peru</option>
 	<option value="410" data-csc="PL">Poland</option>
 	<option value="411" data-csc="PT">Portugal</option>
-	<option value="412" data-csc="PR">Puerto Rico</option>
 	<option value="413" data-csc="QA">Qatar</option>
 	<option value="415" data-csc="RO">Romania</option>
 	<option value="417" data-csc="RW">Rwanda</option>
@@ -306,7 +391,6 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="436" data-csc="ZA">South Africa</option>
 	<option value="438" data-csc="ES">Spain</option>
 	<option value="439" data-csc="LK">Sri Lanka</option>
-	<option value="440" data-csc="SD">Sudan</option>
 	<option value="441" data-csc="SR">Suriname</option>
 	<option value="443" data-csc="SZ">Swaziland</option>
 	<option value="444" data-csc="SE">Sweden</option>
@@ -332,108 +416,164 @@ function __doPostBack(eventTarget, eventArgument) {
 	<option value="468" data-csc="UZ">Uzbekistan</option>
 	<option value="469" data-csc="VU">Vanuatu</option>
 	<option value="471" data-csc="VE">Venezuela</option>
-	<option value="472" data-csc="VN">Vietnam</option>
 	<option value="473" data-csc="VG">Virgin Islands (British)</option>
 	<option value="474" data-csc="VI">Virgin Islands (U.S.)</option>
 	<option value="477" data-csc="YE">Yemen</option>
 	<option value="478" data-csc="ZM">Zambia</option>
 	<option value="479" data-csc="ZW">Zimbabwe</option>
+
 </select>
-        </div>
-
-        <div class="international-pop-up-confirmation">        
-            <button class="js-international-pop-up-confirmation momBtn momBtnSubmit momBtnOk"></button>
-        </div>
-
-        <p class="international-pop-up-currency-text">
-            Prices vary based on delivery destination (it's a tax thing), so please change it if you're not shipping within <span id="shippingCountryName">United States</span> as it might affect the price! (<a href="/Blog/post/Buying-Whisky-in-the-USA-just-got-cheaper-and-clearer.aspx">Why?</a>)
-        </p>
-    </div>
-    <div id="international_PopUp_background" class="ac_transparent" style="display:none;"></div>
-
-    <div class="headerBackground">
-        <div class="inBit">
-            <div class="headerWrap">
-                <div class="headerLeft">
-                    <div itemscope="" itemtype="http://schema.org/Organization">
-                        <a href="https://www.masterofmalt.com/" id="siteLogoAnchor" itemprop="url">
-                            <img src="https://cdn2.masterofmalt.com/images/dnp/logo.png" id="siteLogoImg" itemprop="logo" class="logoImg" alt="Master of Malt">
-                        </a>
-                        
-                    </div>
-                    <img src="https://cdn1.masterofmalt.com/Images/dnp/international/flags/57-logo-flag.png" id="internationalBackground">
-                </div>                
-                
-                <div id="div_Header_middle" class="headerMiddle">
-                    <div id="headerAwardIcon" class="headerAwardIcon"><img src="https://cdn2.masterofmalt.com/images/dnp/IWSC2014.png" alt="Online Retailer of the Year"></div>
                 </div>
-                <div class="headerRight">
-                    
+                <div class="mom-input-extra">
+                    <img src="https://cdn2.masterofmalt.com/Images/dnp/flags/48/US.png" id="shippingCountryFlag" class="js-InternationalPopupCountryFlag">
+                </div>
+            </div>
 
+            <div class="international-pop-up-confirmation">
+                    <a id="InternationalPopupConfirmation" class="mom-btn mom-btn-brown mom-btn-inline js-international-pop-up-confirmation" rel="nofollow" href="#confirm"><div><div class="mom-btn-text">OK</div></div></a>
+            </div>
 
-<div class="cartHeadTopLine">     
-    
-    <a id="cartHeadDelivery" href="/delivery/">Delivery</a>
-    
-    <a onclick="ShowLoginBox(); return false;" id="ucCart_lnkLogin" name="loginLink" href="javascript:__doPostBack('ctl00$ucCart$lnkLogin','')">Login</a>
-    <div id="loginContainer"></div>   
-    
-    <a href="/blog/" id="ucCart_cartheaderBlog">Blog</a>
-    <a id="cartHeadContact" href="/contact-us/">Contact</a>
-    <a id="ucCart_lnkTradeLogon" href="javascript:__doPostBack('ctl00$ucCart$lnkTradeLogon','')">Trade</a>
-    
-    <span class="cartHeadTelefone icon_phone">+44 (0)1892 888 376</span>         
+            <p class="international-pop-up-currency-text">
+                    Prices vary based on delivery destination (it's a tax thing), so please change it if you're not shipping within <span id="shippingCountryName">United States</span> as it might affect the price! (<a href="/Blog/post/Buying-Whisky-in-the-USA-just-got-cheaper-and-clearer.aspx">Why?</a>)
+            </p>
+        </div>
+        <div id="ModalBackdrop" class="ac_transparent" style="display: none;"></div>
+
+        <div id="NotificationDesktopPlaceholder_ctl00_NotificationContainer" class="js-notification notification notification-unpinned notification-count-2" style="display: none;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="notification-inner">
+                    <ol class="js-messages">
+                        <li id="NotificationDesktopPlaceholder_ctl00_NotificationMessage" class="js-notification-message notification-message">Shopping at Master of Malt is safe and secure.</li>
+                        <li id="NotificationDesktopPlaceholder_ctl00_DeliveryCountdown" class="js-delivery-countdown notification-message"></li>
+                    </ol>
+                    <div class="fontello-cancel js-notification-pin"></div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
-<div id="ucCart_cartHeadWrap" class="cartHeadWrap right cartHeadMiddleLine">
-    <div class="cartHeadIn">
-        <table id="tblCart">
-            <tbody><tr>
-                <td class="txt_left"><a href="javascript:GoTocart()" id="ucCart_cartHeadBasket" target="_parent" class="cartHeadAnchor icon_basket" title="My shopping basket">My Basket</a></td>
+
+        
+
+<header class="headerBackground" id="js-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-4 col-md-3">
+                <div itemscope="" itemtype="http://schema.org/Organization" class="logo-wrapper" id="js-logo">
+                    <a href="https://www.masterofmalt.com/" id="ucHeader_siteLogoAnchor" itemprop="url">
+                        <img src="https://cdn3.masterofmalt.com/images/dnp/logo.svg" id="ucHeader_siteLogoImg" itemprop="logo" class="logoImg" alt="Master of Malt">
+                    </a>
+                    
+                </div>
+                <img src="https://cdn1.masterofmalt.com/Images/dnp/international/flags/57-logo-flag.png" id="ucHeader_internationalBackground" class="international-background">
+            </div>
+
+            <div class="col-xs-8 hidden-md hidden-lg">
+                <div class="hamburger" id="js-hamburger" data-context="menu">
+                    <div class="bap"></div>
+                    <div class="patty"></div>
+                    <div class="bap"></div>
+                </div>
+
+                <a href="/ShoppingBasket.aspx" rel="nofollow" id="js-basket" class="basket-button"><span id="ucHeader_cartHeadTotalMobile" class="js-cart-total cartHeadTotal hidden-xs">$0.00</span></a>
+
                 
-                <td style="border-right:0">
-                    <div onclick="javascript:GoTocart()" style="display:inline">Total<span id="ucCart_cartHeadTotal" class="cartHeadTotal">$0.00</span></div>
-                </td>
-                <td id="ucCart_td_currencyDropDown">
-                    <div id="currencyDropDownTip">
-                        <div class="allRoundedBorders left currencyDropDownTipText">
-                            <div>You can change the currency displayed here.</div>
-                            <div id="currencyDropDownClose">click to close</div>
+                    <div class="login-button" id="js-login" data-login-entry-point="0" data-context="login"></div>
+                
+
+                <div class="currency-country-button" id="js-currency-country-button" data-context="currency-country"><span id="ucHeader_CurrencyCountryButtonSymbol">$</span></div>
+            </div>
+
+            <style scoped="">
+                @media (max-width: 1200px) {
+                    .award-image {
+                        display:none;
+                    }
+                }
+            </style>
+            <div id="ucHeader_div_Header_middle" class="col-md-2 hidden-xs hidden-sm">
+                <div id="ucHeader_HeaderAwardIcon" class="award-image">
+                    <a href="/blog/post/master-of-malt-named-global-online-retailer-of-the-year.aspx"><div id="headerLogo"></div></a>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-7">
+                <div class="row hidden-xs hidden-sm">
+                    <div class="col-md-8 hidden-xs hidden-sm">
+                        <div class="separated-links">
+                            
+                            <span><a href="/delivery/">Delivery</a></span>
+                            <span id="lnkLogin"><a data-login-entry-point="0" data-context="login" href="/#login">Login</a></span>
+                            
+                            <span><a href="/blog/">Blog</a></span>
+                            <span><a href="/contact-us/">Contact</a></span>
+                            <span id="ucHeader_lnkTradeLogonWrapper"><a href="/trade/" title="Trade">Trade</a></span>
+                            
                         </div>
-                        <img src="https://cdn2.masterofmalt.com/Images/dnp/international/dropDownArrow.png" class="right currencyDropDownArrow">
                     </div>
-                    <select name="ctl00$ucCart$ddl_Currency" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ucCart$ddl_Currency\',\'\')', 0)" id="ucCart_ddl_Currency" class="CurrencyDD">
+                    <div class="col-md-4 hidden-xs hidden-sm text-right">
+                        <span class="cart-telephone fontello-phone">
+                            <a href="tel: +44 (0)1892 888 376">+44 (0)1892 888 376</a>
+                        </span>
+                    </div>
+                </div>
+
+                <div id="ucHeader_cartHeadWrap" class="cartHeadWrap cartHeadMiddleLine hidden-xs hidden-sm">
+                    <div class="row">
+                        <div class="hh-gutter col-md-3 hidden-xs hidden-sm">
+                            <a href="/ShoppingBasket.aspx" id="ucHeader_cartHeadBasket" rel="nofollow" class="cartHeadAnchor fontello-basket cart-link" title="My shopping basket">My Basket</a>
+                        </div>
+
+                        <div class="hh-gutter col-md-3 hidden-xs hidden-sm">
+                            <a href="/ShoppingBasket.aspx" rel="nofollow" class="basket-total-link">Total<span id="ucHeader_cartHeadTotalDesktop" class="cartHeadTotal js-cart-total">$0.00</span></a>
+                        </div>
+
+                        <div class="hh-gutter col-md-3">
+                            <div id="ucHeader_td_currencyDropDown">
+                                <div id="currencyDropDownTip">
+                                    <div class="allRoundedBorders left currencyDropDownTipText">
+                                        <div>You can change the currency displayed here.</div>
+                                        <div id="currencyDropDownClose">click to close</div>
+                                    </div>
+                                    <img src="https://cdn2.masterofmalt.com/Images/dnp/international/dropDownArrow.png" class="currencyDropDownArrow">
+                                </div>
+                                <select name="ctl00$ucHeader$ddl_CurrencyDesktop" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ucHeader$ddl_CurrencyDesktop\',\'\')', 0)" id="ucHeader_ddl_CurrencyDesktop" class="CurrencyDD">
 	<option value="-1">GBP (£)</option>
 	<option selected="selected" value="57">USD ($)</option>
 	<option value="16">EUR (€)</option>
 	<option value="3">AUD (A$)</option>
 	<option value="51">SEK (kr)</option>
 
-</select>                               
-                </td>
+</select>
+                            </div>
+                        </div>
 
-                <td style="border-right:0">
-                    <div style="text-align: right;">
-                        <div class="arrRight2 cartArrow"></div>
-                        <a id="ucCart_cartHeadBasketCheckout" class="cartHeadAnchor" onclick="javascript:GoTocart()">Checkout</a>                         
-                        
-                     </div>
-                </td>                        
-            </tr>
-        </tbody></table>
-    </div>
-</div>
+                        <div class="hh-gutter col-md-3 hidden-xs hidden-sm text-right">
+                            <a href="/ShoppingBasket.aspx" id="ucHeader_cartHeadBasketCheckout" rel="nofollow" class="cartHeadAnchor">Checkout <span class="fontello-angle-double-right"></span></a>
+                        </div>
+                    </div>
+                </div>
 
-
-                    <div class="cartHeadWrap cartSearchWrap right">
-                        
+                
 
 
 <div class="searchHeadWrap">
-    <div class="searchHeadInput"><input name="ctl00$ucSearch$ucSearch_searchHeadInput" type="text" id="ucSearch_ucSearch_searchHeadInput" autocomplete="off" class="searchHeadInputField" onkeydown="return Search(event)" onkeyup="searchBoxActivated()" onfocus="searchBoxActivated()"></div>    
-    <div class="searchHeadMagny magny" onclick="Search('do')" title="Search"></div>
-    <div class="searchHeadWord"><div class="arrRight2 cartArrow"></div><a class="cartHeadAnchor" href="/search/">Advanced Search</a></div>
-    <div class="cb"></div>
+
+    <div class="row">
+        <div class="hh-gutter col-md-9">
+            <div class="searchHeadInput mom-input-icon-search">
+                <input name="ctl00$ucHeader$ucSearch$ucSearch_searchHeadInput" type="text" id="ucHeader_ucSearch_ucSearch_searchHeadInput" autocomplete="off" placeholder="Search" data-context="search" class="searchHeadInputField">
+                <div class="fontello-search-1 js-search-input-icon"></div>
+                <div class="fontello-cancel js-search-input-clear" style="display: none;"></div>
+            </div>
+        </div>
+        <div class="hh-gutter text-right col-md-3 hidden-xs hidden-sm">
+            <a class="cartHeadAnchor advanced-search-link" href="/search/">Advanced Search</a>
+        </div>
+    </div>
+
     <div id="gssPopoutContainer" class="hidden">
         <div id="gssPopoutFilters">
             <div class="as_topMargin" id="as_extraFiltersDropDown"></div>
@@ -443,53 +583,1044 @@ function __doPostBack(eventTarget, eventArgument) {
         </div>
     </div>
 </div>
-                    </div>
-                </div>
-            
-                <div class="cb"></div>
             </div>
         </div>
     </div>
-    
+</header>
 
-<div class="menu_back nav1Bgr">
-    <div class="menuContainer">
-        <div id="momMenu" class="mainMenuWrap">  
-          <ul>
-            <div style="float:left"></div>
+<div class="main-menu-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                
 
-            <li id="menuGiftIdeas"><div></div><a href="https://www.masterofmalt.com/gift-ideas/" rel="subMenuAll">Gift Ideas</a></li>
-            <li id="menuScotchWhisky"><div></div><a href="https://www.masterofmalt.com/country/scotch-whisky/" rel="subMenuAll">Scotch Whisky</a></li>
-            <li id="menuOtherWhisky"><div></div><a href="https://www.masterofmalt.com/world-whisky/" rel="subMenuAll">World Whisky</a></li>
-            <li id="menuOtherSpirits"><div></div><a href="https://www.masterofmalt.com/spirits/" rel="subMenuAll">Other Spirits</a></li>
-            <li id="menuLiqueurs"><div></div><a href="https://www.masterofmalt.com/liqueurs/" rel="subMenuAll">Liqueurs</a></li>
-            <li id="menuOtherDrinks"><div></div><a href="https://www.masterofmalt.com/other-drinks/" rel="subMenuAll">Other Drinks</a></li>
-            <li id="menuWine"><div></div><a href="https://www.masterofmalt.com/wine-and-champagne/" rel="subMenuAll">Wine &amp; Champagne</a></li>
-            <li id="menuSamples"><div></div><a href="https://www.masterofmalt.com/samples/" rel="subMenuAll">Samples</a></li>
-            <li id="menuOthers"><div></div><a href="https://www.masterofmalt.com/other-products/" rel="subMenuAll">Other</a></li>
-          </ul>  
+<nav id="js-menu" itemscope="" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+    <ul class="main-menu">
+        <li id="js-menu-home-link" class="hidden-md hidden-lg" itemprop="name"><a href="/" itemprop="url">Home</a></li>
+        <li class="mom-menu-featured">
+            <a href="https://www.masterofmalt.com/gift-ideas/">Father's Day</a>
+            <div class="js-dropdown dropdown dropdown-gift">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul>
+                            
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/gift-ideas/" itemprop="url">Gift Ideas</a></li>
+                            <li itemprop="name" class="hidden-xs hidden-sm"><a href="https://www.masterofmalt.com/gift-finder/" itemprop="url">Gift Finder</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/gift-vouchers/" itemprop="url">Gift Vouchers</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/new-arrivals/" itemprop="url">New Arrivals</a></li>
+                            <li itemprop="name" class="hidden-xs hidden-sm"><a href="https://www.masterofmalt.com/personalised-whisky/" itemprop="url">Personalised Whisky</a></li>
+                            <li itemprop="name" class="hidden-xs hidden-sm"><a href="https://www.masterofmalt.com/blend-your-own-whisky/" itemprop="url">Blend Your Own Whisky</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/tasting-sets/" itemprop="url">Tasting Sets</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/master-of-malt-bottlings/" itemprop="url">Master of Malt Bottlings</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/pre_bottled-cocktails/" itemprop="url">Pre-Bottled Cocktails</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/old-and-rare-whisky/" itemprop="url">Old &amp; Rare</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="https://www.masterofmalt.com/samples/">Samples</a>
+            <div class="js-dropdown dropdown dropdown-samples">
+                <div class="row">
+                    <div class="col-md-4">
+                        <ul class="hidden-md hidden-lg">
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/all/" itemprop="url">All Samples</a></li>
+                        </ul>
+
+                        <ul>
+                            
+                            <li itemprop="name" class="hidden-sm hidden-xs"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/all/" itemprop="url">All Samples</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/tasting-sets/" itemprop="url">Tasting Sets</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/whisky-samples/scotch/" itemprop="url">Scotch Whisky</a></li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/samples/whisky-samples/scotch/single-malt-whisky/">Single Malt Whisky</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/samples/whisky-samples/scotch/single-malt-whisky/" itemprop="url">All Single Malt Whisky</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/samples/whisky-samples/scotch/single-malt-whisky/speyside/" itemprop="url">Speyside</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/samples/whisky-samples/scotch/single-malt-whisky/islay/" itemprop="url">Islay</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/samples/whisky-samples/scotch/single-malt-whisky/island/" itemprop="url">Island</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/samples/whisky-samples/scotch/single-malt-whisky/highland/" itemprop="url">Highland</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/samples/whisky-samples/scotch/single-malt-whisky/lowland/" itemprop="url">Lowland</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/samples/whisky-samples/scotch/single-malt-whisky/campbeltown/" itemprop="url">Campbeltown</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/whisky-samples/master-of-malt-bottlings/" itemprop="url">Master of Malt Own Bottlings</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/whisky-samples/reference-series/" itemprop="url">Reference Series</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/whisky-samples/blended-whisky/" itemprop="url">Blended Whisky</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/whisky-samples/blended-malt-whisky/" itemprop="url">Blended Malt Whisky</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/whisky-samples/grain-whisky/" itemprop="url">Grain Whisky</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-4">
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/samples/whisky-samples/american-whiskey/">American Whiskey</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/samples/whisky-samples/american-whiskey/" itemprop="url">All American Whiskey</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/samples/whisky-samples/american-whiskey/bourbon-whiskey/" itemprop="url">Bourbon</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/samples/whisky-samples/american-whiskey/single-barrel-whiskey/" itemprop="url">Single Barrel</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/samples/whisky-samples/american-whiskey/rye-whiskey/" itemprop="url">Rye</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/samples/whisky-samples/american-whiskey/wheat-whiskey/" itemprop="url">Wheat</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/samples/whisky-samples/american-whiskey/small-batch-whiskey/" itemprop="url">Small Batch</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/samples/whisky-samples/american-whiskey/corn-whiskey/" itemprop="url">Corn</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/samples/spirit-samples/american-spirit/white-dog/" itemprop="url">White Dog</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/whisky-samples/japanese-whisky/" itemprop="url">Japanese Whisky</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/whisky-samples/irish-whiskey/" itemprop="url">Irish Whiskey</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/whisky-samples/other-whiskies/" itemprop="url">Other Whiskies</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-4">
+                        <ul>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/whisky-samples/" itemprop="url">Whisky</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/rum-samples/" itemprop="url">Rum</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/cognac-samples/" itemprop="url">Cognac</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/armagnac-samples/" itemprop="url">Armagnac</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/gin-and-jenever-samples/" itemprop="url">Gin and Jenever</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/vodka-samples/" itemprop="url">Vodka</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/other-spirits-samples/" itemprop="url">Other Spirits</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="https://www.masterofmalt.com/country/scotch-whisky/">Scotch Whisky</a>
+            <div class="js-dropdown dropdown dropdown-scotch">
+                <div class="row">
+                    <div class="col-md-6">
+                        <ul class="hidden-md hidden-lg">
+                            <li><a href="https://www.masterofmalt.com/country/scotch-whisky/">All Scotch Whisky</a></li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/country-style/scotch/single-malt-whisky/">Single Malt Whisky</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/country-style/scotch/single-malt-whisky/" itemprop="url">All Single Malt Whisky</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/region-style/speyside/single-malt-whisky/" itemprop="url">Speyside</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/region-style/islay/single-malt-whisky/" itemprop="url">Islay</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/region-style/island/single-malt-whisky/" itemprop="url">Island</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/region-style/highland/single-malt-whisky/" itemprop="url">Highland</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/region-style/lowland/single-malt-whisky/" itemprop="url">Lowland</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/region-style/campbeltown/single-malt-whisky/" itemprop="url">Campbeltown</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/master-of-malt-bottlings/">Master of Malt Bottlings</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/master-of-malt-bottlings/" itemprop="url">All Master of Malt Bottlings</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/master-of-malt-single-cask-bottlings/" itemprop="url">Single Cask Bottlings</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/the-lost-bottlings/" itemprop="url">Lost Bottlings Series</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/that-boutique-y-whisky-company/" itemprop="url">That Boutique-y Whisky Company</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/country-style/scotch/blended-whisky/" itemprop="url">Blended Whisky</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/country-style/scotch/blended-malt-whisky/" target="_parent" itemprop="url">Blended Malt Whisky</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/country-style/scotch/grain-whisky/" itemprop="url">Grain Whisky</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/country-style/scotch/malt-and-new-make-spirit/" itemprop="url">Malt Spirit/New Make</a></li>
+                        </ul>
+                        <ul>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/whisky-samples/scotch/" itemprop="url">Whisky Samples</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/the-lost-distilleries/" itemprop="url">The Lost Distilleries</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/gift-ideas/" itemprop="url">Gift Ideas</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/new-arrivals/" itemprop="url">New Arrivals</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/blend-your-own-whisky/" itemprop="url">Blend Your Own Whisky</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/guides/how-to-taste-whisky/" itemprop="url">Guide to Tasting Whisky</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-6 hidden-xs hidden-sm">
+                        <ul>
+                            <li id="js-scotch-whisky-distillery-search" class="dropdown-distillery-search">
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/distilleries-and-brands/">Distilleries and Brands</a>
+                                <div class="mom-input-icon-search">
+                                    <input type="text" value="Type to filter">
+                                </div>
+                                <div class="dropdown-distillery-list">
+                                    <ul id="ucHeader_ucMainNav_ScotchWhiskyDistilleryList"></ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="https://www.masterofmalt.com/world-whisky/">World Whisky</a>
+            <div class="js-dropdown dropdown dropdown-world">
+                <div class="row">
+                    <div class="col-md-3">
+                        <ul class="hidden-md hidden-lg">
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/world-whisky/" itemprop="url">All World Whisky</a></li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/country/american-whiskey/">American Whiskey</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/country/american-whiskey/" itemprop="url">All American Whiskey</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/american/bourbon-whiskey/" itemprop="url">Bourbon</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/american/single-barrel-whiskey/" itemprop="url">Single Barrel</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/american/rye-whiskey/" itemprop="url">Rye</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/american/tennessee-whiskey/" itemprop="url">Tennessee</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/american/wheat-whiskey/" itemprop="url">Wheat</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/american/small-batch-whiskey/" itemprop="url">Small Batch</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/american/corn-whiskey/" itemprop="url">Corn</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/american/white-dog-spirit/" itemprop="url">White Dog</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/country/japanese-whisky/">Japanese Whisky</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/country/japanese-whisky/" itemprop="url">All Japanese Whisky</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/japanese/single-malt-whisky/" itemprop="url">Single Malt</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/japanese/blended-malt-whisky/" itemprop="url">Blended Malt</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/japanese/blended-whisky/" itemprop="url">Blended Whisky</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/country/irish-whiskey/">Irish Whiskey</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/country/irish-whiskey/" itemprop="url">All Irish Whiskey</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/irish/single-malt-whiskey/" itemprop="url">Single Malt</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/irish/single-pot-still-whiskey/" itemprop="url">Single Pot Still</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/irish/blended-whiskey/" itemprop="url">Blended</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country-style/irish/grain-whiskey/" itemprop="url">Grain</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-3">
+                        <ul>
+                            <li>
+                                <span class="dropdown-heading">Other Whiskies</span>
+                                <ul>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country/indian-whisky/" itemprop="url">Indian</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country/welsh-whisky/" itemprop="url">Welsh</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country/english-whisky/" itemprop="url">English</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country/canadian-whisky/" itemprop="url">Canadian</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country/swedish-whisky/" itemprop="url">Swedish</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country/dutch-whisky/" itemprop="url">Dutch</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country/south-african-whisky/" itemprop="url">South African</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country/australian-whisky/" itemprop="url">Australian</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/country/kiwi-whisky/" itemprop="url">Kiwi</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/samples/whisky-samples/world-whisky/" itemprop="url">Whisky Samples</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/gift-ideas/" itemprop="url">Gift Ideas</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/new-arrivals/" itemprop="url">New Arrivals</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/blend-your-own-whisky/" itemprop="url">Blend Your Own</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-6 hidden-xs hidden-sm">
+                        <ul>
+                            <li id="js-world-whisky-distillery-search" class="dropdown-distillery-search">
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/distilleries-and-brands/">Distilleries and Brands</a>
+                                <div class="mom-input-icon-search">
+                                    <input type="text" value="Type to filter">
+                                </div>
+                                <div class="dropdown-distillery-list">
+                                    <ul id="ucHeader_ucMainNav_OtherWhiskyDistilleryList"></ul>
+                                </div>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/guides/how-to-taste-whisky/" itemprop="url">Guide to Tasting Whisky</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="https://www.masterofmalt.com/spirits/">Other Spirits</a>
+            <div class="js-dropdown dropdown dropdown-other-spirits">
+                <div class="row">
+                    <div class="col-md-3">
+                        <ul class="hidden-md hidden-lg">
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/spirits/" itemprop="url">All Other Spirits</a></li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/rum/">Rum</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/rum/" itemprop="url">All Rum</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/style/white-rum/" itemprop="url">White</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/style/dark-rum/" itemprop="url">Dark</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/style/spiced-rum/" itemprop="url">Spiced</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/cognac/">Cognac</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/cognac/" itemprop="url">All Cognac</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/style/vs-cognac/" itemprop="url">VS</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/style/vsop-cognac/" itemprop="url">VSOP</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/style/xo-cognac/" itemprop="url">XO</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/style/prestige-cognac/" itemprop="url">Prestige</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/gin-and-jenever/">Gin and Jenever</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/gin-and-jenever/" itemprop="url">All Gin and Jenever</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/gin/" itemprop="url">Gin</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/jenever/" itemprop="url">Jenever</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/vodka/">Vodka</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/vodka/" itemprop="url">All Vodka</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/style/plain-vodka/" itemprop="url">Plain</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/style/flavoured-vodka/" itemprop="url">Flavoured</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/tequila/">Tequila</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/tequila/" itemprop="url">All Tequila</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/style/blanco-tequila/" itemprop="url">Blanco</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/style/anejo-tequila/" itemprop="url">Anejo</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/style/reposado-tequila/" itemprop="url">Reposado</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li itemprop="name">
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/antique-spirits/" itemprop="url">Antique Spirits</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-3">
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/other-spirits/">Other Spirits</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/other-spirits/" itemprop="url">All Other Spirits</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/absinthe/" itemprop="url">Absinthe</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/armagnac/" itemprop="url">Armagnac</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/aquavit/" itemprop="url">Aquavit</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/distilleries/batshit-mental-ideas/" itemprop="url">Batshit Mental Ideas</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/brown-drink/" itemprop="url">Brown Drink</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/cachaca/" itemprop="url">Cachaça</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/calvados/" itemprop="url">Calvados</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/eaux-de-vie/" itemprop="url">Eaux de Vie</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/grappa/" itemprop="url">Grappa</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/mezcal/" itemprop="url">Mezcal</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/other-brandy/" itemprop="url">Other Brandy</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/pisco/" itemprop="url">Pisco</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/schnapps/" itemprop="url">Schnapps</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/shochu/" itemprop="url">Shochu</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/sotol/" itemprop="url">Sotol</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/pre_bottled-cocktails/" itemprop="url">Pre-Bottled Cocktails</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-6 hidden-xs hidden-sm">
+                        <ul>
+                            <li id="js-other-spirits-distillery-search" class="dropdown-distillery-search">
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/distilleries-and-brands/">Distilleries and Brands</a>
+                                <div class="mom-input-icon-search">
+                                    <input type="text" value="Type to filter">
+                                </div>
+                                <div class="dropdown-distillery-list">
+                                    <ul id="ucHeader_ucMainNav_OtherSpiritsDistilleryList"></ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="https://www.masterofmalt.com/liqueurs/">Liqueurs</a>
+            <div class="js-dropdown dropdown dropdown-liqueurs">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul>
+                            <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/liqueurs/" itemprop="url">All Liqueurs</a>
+                            </li><li itemprop="name"><a href="https://www.masterofmalt.com/liqueurs/whisky-liqueurs/" itemprop="url">Whisky Liqueurs</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/liqueurs/fruit-liqueurs/" itemprop="url">Fruit Liqueurs</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/liqueurs/cream-liqueurs/" itemprop="url">Cream Liqueurs</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/liqueurs/honey-liqueurs/" itemprop="url">Honey Liqueurs</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/liqueurs/nutty-liqueurs/" itemprop="url">Nutty Liqueurs</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/liqueurs/herb-liqueurs/" itemprop="url">Herb Liqueurs</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/liqueurs/floral-liqueurs/" itemprop="url">Floral Liqueurs</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/liqueurs/spiced-liqueurs/" itemprop="url">Spiced Liqueurs</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/liqueurs/chocolate-liqueurs/" itemprop="url">Chocolate Liqueurs</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/liqueurs/coffee-liqueurs/" itemprop="url">Coffee Liqueurs</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/liqueurs/mint-liqueurs/" itemprop="url">Mint Liqueurs</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/liqueurs/anise-liqueurs/" itemprop="url">Anise Liqueurs</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="https://www.masterofmalt.com/wine-and-champagne/">Wine</a>
+            <div class="js-dropdown dropdown dropdown-wine">
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="dropdown-col-heading">Wine &amp; Champagne</div>
+                        <ul class="hidden-md hidden-lg">
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/wine-and-champagne/" itemprop="url">All Wine &amp; Champagne</a></li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/wine/sparkling-wine/champagne/">Champagne</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/wine/sparkling-wine/champagne/" itemprop="url">All Champagne</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/sparkling-wine/champagne/vintage-champagne/" itemprop="url">Vintage</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/sparkling-wine/champagne/non-vintage-champagne/" itemprop="url">Non-Vintage</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/sparkling-wine/champagne/rose-champagne/" itemprop="url">Rose</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/sparkling-wine/champagne/prestige-cuvee-champagne/" itemprop="url">Prestige Cuvée</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/sparkling-wine/champagne/large-format-champagne/" itemprop="url">Large Format</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/wine/">Wine</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/wine/" itemprop="url">All Wine</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/red-wine/" itemprop="url">Red</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/white-wine/" itemprop="url">White</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/rose-wine/" itemprop="url">Rosé</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/fortified-wine/sherry/" itemprop="url">Sherry</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/sweet-and-dessert-wine/" itemprop="url">Sweet/Dessert</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/fortified-wine/port/" itemprop="url">Port</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/fortified-wine/madeira/" itemprop="url">Madeira</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/fruit-wine/" itemprop="url">Fruit</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/other-fortified-wine/" itemprop="url">Other fortified</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/other-sparkling-wine/" itemprop="url">Other Sparkling</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="dropdown-col-heading">Flavour Profile</div>
+
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/wine/red-wine/">Red</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/wine/red-wine/" itemprop="url">All Red</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/red-wine/light-elegant-reds/" itemprop="url">Light, elegant reds</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/red-wine/medium-bodied-reds/" itemprop="url">Medium-bodied reds</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/red-wine/rich-full-bodied-reds/" itemprop="url">Rich, full-bodied reds</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/wine/white-wine/">White</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg"><a href="https://www.masterofmalt.com/wine/white-wine/">All White</a></li>
+                                    <li><a href="https://www.masterofmalt.com/wine/white-wine/crisp-dry-whites/">Crisp, dry whites</a></li>
+                                    <li><a href="https://www.masterofmalt.com/wine/white-wine/delicate-whites/">Delicate whites</a></li>
+                                    <li><a href="https://www.masterofmalt.com/wine/white-wine/soft-buttery-whites/">Soft, buttery whites</a></li>
+                                    <li><a href="https://www.masterofmalt.com/wine/white-wine/full-oaky-whites/">Full, oaky whites</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/wine/sparkling-wine/">Sparkling</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/wine/sparkling-wine/" itemprop="url">All Sparkling</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/delicate-sparkling/" itemprop="url">Delicate sparkling</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/rich-sparkling-wine/" itemprop="url">Rich sparkling </a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="dropdown-col-heading">Varietal</div>
+
+                        <ul>
+                            <li>
+                                <span class="dropdown-heading">Grape</span>
+                                <ul>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/cabernet-sauvignon/" itemprop="url">Cabernet Sauvignon</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/pinot-noir/" itemprop="url">Pinot Noir</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/chardonnay/" itemprop="url">Chardonnay</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/sauvignon-blanc/" itemprop="url">Sauvignon Blanc</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/pinot-grigio/" itemprop="url">Pinot Grigio</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/malbec/" itemprop="url">Malbec</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/merlot/" itemprop="url">Merlot</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/shiraz-syrah/" itemprop="url">Shiraz/Syrah</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/grenache/" itemprop="url">Grenache</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/tempranillo/" itemprop="url">Tempranillo</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/viognier/" itemprop="url">Viognier</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/sangiovese/" itemprop="url">Sangiovese</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/riesling/" itemprop="url">Riesling</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/wine/zinfandel/" itemprop="url">Zinfandel</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="dropdown-col-heading">Country/Region</div>
+
+                        <ul>
+                            <li>
+                                <a class="dropdown-heading" href="https://www.masterofmalt.com/country/french-wine/">France</a>
+                                <ul>
+                                    <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/country/french-wine/" itemprop="url">All France</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/region/bordeaux-wine/" itemprop="url">Bordeaux</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/region/burgundian-wine/" itemprop="url">Burgundy</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/region/loire-valley-wine/" itemprop="url">Loire</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/region/rhone-wine/" itemprop="url">Rhône</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/region/alsace-wine/" itemprop="url">Alsace</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/country/kiwi-wine/" itemprop="url">New Zealand</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/country/australian-wine/" itemprop="url">Australia</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/country/spanish-wine/" itemprop="url">Spain</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/country/italian-wine/" itemprop="url">Italy</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/country/argentinian-wine/" itemprop="url">Argentina</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/country/chilean-wine/" itemprop="url">Chile</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/country/south-african-wine/" itemprop="url">South Africa</a></li>
+                            <li itemprop="name"><a class="dropdown-heading" href="https://www.masterofmalt.com/country/american-wine/" itemprop="url">USA</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="https://www.masterofmalt.com/beer/">Beer</a>
+            <div class="js-dropdown dropdown dropdown-beer">
+                <div class="row">
+                    <div class="col-md-3">
+                        <ul>
+                            <li>
+                                <div class="dropdown-heading">Beer Style</div>
+                                <ul>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/abbey-trappist/" itemprop="url">Abbey / Trappist</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/alt-kolsch/" itemprop="url">Alt, Kölsch</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/apa-american-pale-ale/" itemprop="url">APA (American Pale Ale)</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/barley-wine/" itemprop="url">Barley Wine</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/bitter/" itemprop="url">Bitter</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/blonde/" itemprop="url">Blonde</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/bock/" itemprop="url">Bock</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/cask-aged/" itemprop="url">Cask-Aged</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/cider/" itemprop="url">Cider</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/coffee-chocolate-honey/" itemprop="url">Coffee / Chocolate / Honey</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/dark-ale/" itemprop="url">Dark Ale</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/dark-lager-schwarzbier/" itemprop="url">Dark Lager / Schwarzbier</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/dubbel/" itemprop="url">Dubbel</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/fruit/" itemprop="url">Fruit</a></li>
+  	                                
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/herb-spice/" itemprop="url">Herb / Spice</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/ipa-india-pale-ale/" itemprop="url">IPA (India Pale Ale)</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/lager-pilsner/" itemprop="url">Lager / Pilsner</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/low-alcohol/" itemprop="url">Low-Alcohol</a></li>
+  	                                
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/oktoberfest/" itemprop="url">Oktoberfest</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/pale-ale/" itemprop="url">Pale Ale</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/porter/" itemprop="url">Porter</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/quadrupel/" itemprop="url">Quadrupel</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/red-ale/" itemprop="url">Red Ale</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/rye/" itemprop="url">Rye</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/saison/" itemprop="url">Saison</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/scotch/" itemprop="url">Scotch</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/smoked/" itemprop="url">Smoked</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/sour-lambic/" itemprop="url">Sour / Lambic</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/stout/" itemprop="url">Stout</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/tripel/" itemprop="url">Tripel</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/wheat-wit-white/" itemprop="url">Wheat / Wit / White</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/beer/winter-christmas-ale/" itemprop="url">Winter / Christmas Ale</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <ul>
+                            <li>
+                                <div class="dropdown-heading">Hop Varietal</div>
+                                <ul>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/ahtanum/" itemprop="url">Ahtanum</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/amarillo/" itemprop="url">Amarillo</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/apollo/" itemprop="url">Apollo</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/bravo/" itemprop="url">Bravo</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/brewers-gold/" itemprop="url">Brewers Gold</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/calypso/" itemprop="url">Calypso</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/cascade/" itemprop="url">Cascade</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/centennial/" itemprop="url">Centennial</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/challenger/" itemprop="url">Challenger</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/chinook/" itemprop="url">Chinook</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/citra/" itemprop="url">Citra</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/cluster/" itemprop="url">Cluster</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/colombus/" itemprop="url">Colombus</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/comet/" itemprop="url">Comet</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/first-gold/" itemprop="url">First Gold</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/fuggles/" itemprop="url">Fuggles</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/galaxy/" itemprop="url">Galaxy</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/galena/" itemprop="url">Galena</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/golding/" itemprop="url">Golding</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/hallertau-aroma/" itemprop="url">Hallertau Aroma</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/hallertau-mittelfruh/" itemprop="url">Hallertau Mittelfrüh</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/hellertauer-hersbrucker/" itemprop="url">Hellertauer Hersbrucker</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/herkules/" itemprop="url">Herkules</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/kohatu/" itemprop="url">Kohatu</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/lemon-drop/" itemprop="url">Lemon Drop</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/magnum/" itemprop="url">Magnum</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/millennium/" itemprop="url">Millennium</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/mosaic/" itemprop="url">Mosaic</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/motueka/" itemprop="url">Motueka</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/mt-hood/" itemprop="url">Mt. Hood</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/nelson-sauvin/" itemprop="url">Nelson Sauvin</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/northern-brewer/" itemprop="url">Northern Brewer</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/nugget/" itemprop="url">Nugget</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/pacific-gem/" itemprop="url">Pacific Gem</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/pacific-jade/" itemprop="url">Pacific Jade</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/pacifica/" itemprop="url">Pacifica</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/palisade/" itemprop="url">Palisade</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/perle/" itemprop="url">Perle</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/saaz/" itemprop="url">Saaz</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/simcoe/" itemprop="url">Simcoe</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/sorachi-ace/" itemprop="url">Sorachi Ace</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/sovereign/" itemprop="url">Sovereign</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/sterling/" itemprop="url">Sterling</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/target/" itemprop="url">Target</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/taurus/" itemprop="url">Taurus</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/tettnang-tettnanger/" itemprop="url">Tettnang Tettnanger</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/vic-secret/" itemprop="url">Vic Secret</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/warrior/" itemprop="url">Warrior</a></li>
+                                    <li itemprop="name"><a href="https://www.masterofmalt.com/beer/willamette/" itemprop="url">Willamette</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-2">
+                        <ul>
+                            <li>
+                                <div class="dropdown-heading">Country</div>
+                                <ul>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/country/american-beer/" itemprop="url">American</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/country/australian-beer/" itemprop="url">Australian</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/country/belgian-beer/" itemprop="url">Belgian</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/country/danish-beer/" itemprop="url">Danish</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/country/dutch-beer/" itemprop="url">Dutch</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/country/english-beer/" itemprop="url">English</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/country/icelandic-beer/" itemprop="url">Icelandic</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/country/japanese-beer/" itemprop="url">Japanese</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/country/kiwi-beer/" itemprop="url">Kiwi</a></li>
+  	                                <li itemprop="name"><a href="https://www.masterofmalt.com/country/scotch-beer/" itemprop="url">Scottish</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 hidden-xs hidden-sm">
+                        <ul>
+                            <li>
+                                <div class="dropdown-heading">Brewery</div>
+                                <ul>
+                                    <li id="js-beer-brewery-search" class="dropdown-distillery-search">
+                                        <div class="mom-input-icon-search">
+                                            <input type="text" value="Type to filter">
+                                        </div>
+                                        <div class="dropdown-distillery-list">
+                                            <ul id="ucHeader_ucMainNav_BeerBreweriesList"></ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="https://www.masterofmalt.com/other-drinks/">Other Drinks</a>
+            <div class="js-dropdown dropdown dropdown-other-drinks">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul>
+                            <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/other-drinks/" itemprop="url">All Other Drinks</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/pre_bottled-cocktails/" itemprop="url">Pre-Bottled Cocktails</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/syrups-and-cordials/" itemprop="url">Syrups and Cordials</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/fruit-purees/" itemprop="url">Fruit Purèes</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/mineral-water/" itemprop="url">Mineral Water</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/cider/" itemprop="url">Cider</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/vermouth/" itemprop="url">Vermouth</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/bitters/" itemprop="url">Bitters</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/sake/" itemprop="url">Sake</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/mixers/" itemprop="url">Mixers</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/mead/" itemprop="url">Mead</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="https://www.masterofmalt.com/other-products/">More</a>
+            <div class="js-dropdown dropdown dropdown-other">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul>
+                            <li class="hidden-md hidden-lg" itemprop="name"><a href="https://www.masterofmalt.com/other-products/" itemprop="url">All Other</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/glassware/" itemprop="url">Glassware</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/books-and-dvds/" itemprop="url">Books and DVDs</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/barware/" itemprop="url">Barware</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/gift-vouchers/" itemprop="url">Gift Vouchers</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/american-white-oak-toasted-barrels/" itemprop="url">American White Oak Toasted Barrels</a></li>
+                            <li itemprop="name"><a href="https://www.masterofmalt.com/bin-ends/" itemprop="url">Bin Ends</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+    </ul>
+</nav>
+
+            </div>
         </div>
-        
-        <div id="subMenuAll">
-            <iframe id="menuFrame" frameborder="0" scrolling="no" src="https://cdn2.masterofmalt.com/Menus.aspx?c=0816015624" allowtransparency="true"></iframe>
-        </div>
-        
     </div>
 </div>
-    <div class="cb"></div>
 
-    <div class="pageBgr">
+<div id="js-currency-country" class="currency-country">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="hh-gutter col-xs-12">
+                        <h2>Currency and Delivery Country</h2>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="hh-gutter col-xs-4">
+                        <div class="mom-select">
+                            <select name="ctl00$ucHeader$ddl_CurrencyMobile" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ucHeader$ddl_CurrencyMobile\',\'\')', 0)" id="ucHeader_ddl_CurrencyMobile">
+	<option value="-1">GBP (£)</option>
+	<option selected="selected" value="57">USD ($)</option>
+	<option value="16">EUR (€)</option>
+	<option value="3">AUD (A$)</option>
+	<option value="51">SEK (kr)</option>
+
+</select>
+                        </div>
+                    </div>
+
+                    <div class="hh-gutter col-xs-8">
+                        <div class="mom-select">
+                            <select name="ctl00$ucHeader$shippingCountry" id="shippingCountry" class="js-international-dropdown">
+	<option value="464">United Kingdom - Mainland</option>
+	<option value="482">United Kingdom - Isle Of Man</option>
+	<option value="481">United Kingdom - Northern Ireland</option>
+	<option value="480">United Kingdom - Highlands And Islands</option>
+	<option value="483">United Kingdom - Scilly Isles (Isles Of Scilly)</option>
+	<option value="484">United Kingdom - Channel Islands</option>
+	<option value="486">United Kingdom - Isle Of Wight</option>
+	<option selected="selected" value="465">United States</option>
+	<option value="346">Japan</option>
+	<option value="253">Australia</option>
+	<option value="313">France</option>
+	<option value="389">Netherlands</option>
+	<option value="261">Belgium</option>
+	<option value="320">Germany</option>
+	<option value="342">Ireland</option>
+	<option value="241">Afghanistan</option>
+	<option value="242">Albania</option>
+	<option value="243">Algeria</option>
+	<option value="244">American Samoa</option>
+	<option value="245">Andorra</option>
+	<option value="246">Angola</option>
+	<option value="247">Anguilla</option>
+	<option value="249">Antigua And Barbuda</option>
+	<option value="251">Armenia</option>
+	<option value="252">Aruba</option>
+	<option value="253">Australia</option>
+	<option value="254">Austria</option>
+	<option value="255">Azerbaijan</option>
+	<option value="256">Bahamas</option>
+	<option value="257">Bahrain</option>
+	<option value="259">Barbados</option>
+	<option value="261">Belgium</option>
+	<option value="262">Belize</option>
+	<option value="263">Benin</option>
+	<option value="264">Bermuda</option>
+	<option value="265">Bhutan</option>
+	<option value="266">Bolivia</option>
+	<option value="267">Bosnia And Herzegovina</option>
+	<option value="272">Brunei Darussalam</option>
+	<option value="273">Bulgaria</option>
+	<option value="274">Burkina Faso</option>
+	<option value="275">Burundi</option>
+	<option value="277">Cameroon</option>
+	<option value="279">Cape Verde</option>
+	<option value="280">Cayman Islands</option>
+	<option value="281">Central African Republic</option>
+	<option value="282">Chad</option>
+	<option value="283">Chile</option>
+	<option value="284">China</option>
+	<option value="285">Christmas Island</option>
+	<option value="289">Congo, Democratic Republic Of (Was Zaire)</option>
+	<option value="291">Cook Islands</option>
+	<option value="292">Costa Rica</option>
+	<option value="294">Croatia (Local Name: Hrvatska)</option>
+	<option value="296">Cyprus</option>
+	<option value="297">Czech Republic</option>
+	<option value="298">Denmark</option>
+	<option value="299">Djibouti</option>
+	<option value="300">Dominica</option>
+	<option value="301">Dominican Republic</option>
+	<option value="304">El Salvador</option>
+	<option value="305">Equatorial Guinea</option>
+	<option value="306">Eritrea</option>
+	<option value="307">Estonia</option>
+	<option value="308">Ethiopia</option>
+	<option value="311">Fiji</option>
+	<option value="312">Finland</option>
+	<option value="313">France</option>
+	<option value="314">French Guiana</option>
+	<option value="315">French Polynesia</option>
+	<option value="317">Gabon</option>
+	<option value="318">Gambia</option>
+	<option value="320">Germany</option>
+	<option value="321">Ghana</option>
+	<option value="322">Gibraltar</option>
+	<option value="323">Greece</option>
+	<option value="324">Greenland</option>
+	<option value="325">Grenada</option>
+	<option value="326">Guadeloupe</option>
+	<option value="327">Guam</option>
+	<option value="328">Guatemala</option>
+	<option value="329">Guinea</option>
+	<option value="331">Guyana</option>
+	<option value="334">Honduras</option>
+	<option value="335">Hong Kong</option>
+	<option value="336">Hungary</option>
+	<option value="337">Iceland</option>
+	<option value="338">India</option>
+	<option value="342">Ireland</option>
+	<option value="343">Israel</option>
+	<option value="344">Italy</option>
+	<option value="345">Jamaica</option>
+	<option value="346">Japan</option>
+	<option value="350">Kiribati</option>
+	<option value="352">Korea, Republic Of</option>
+	<option value="353">Kuwait</option>
+	<option value="354">Kyrgyzstan</option>
+	<option value="355">Lao People's Democratic Republic</option>
+	<option value="356">Latvia</option>
+	<option value="357">Lebanon</option>
+	<option value="358">Lesotho</option>
+	<option value="360">Libyan Arab Jamahiriya</option>
+	<option value="361">Liechtenstein</option>
+	<option value="362">Lithuania</option>
+	<option value="363">Luxembourg</option>
+	<option value="364">Macau</option>
+	<option value="366">Madagascar</option>
+	<option value="367">Malawi</option>
+	<option value="368">Malaysia</option>
+	<option value="369">Maldives</option>
+	<option value="370">Mali</option>
+	<option value="371">Malta</option>
+	<option value="372">Marshall Islands</option>
+	<option value="373">Martinique</option>
+	<option value="374">Mauritania</option>
+	<option value="375">Mauritius</option>
+	<option value="376">Mayotte</option>
+	<option value="378">Micronesia, Federated States Of</option>
+	<option value="379">Moldova, Republic Of</option>
+	<option value="380">Monaco</option>
+	<option value="381">Mongolia</option>
+	<option value="488">Montenegro</option>
+	<option value="382">Montserrat</option>
+	<option value="383">Morocco</option>
+	<option value="384">Mozambique</option>
+	<option value="386">Namibia</option>
+	<option value="387">Nauru</option>
+	<option value="389">Netherlands</option>
+	<option value="391">New Caledonia</option>
+	<option value="392">New Zealand</option>
+	<option value="393">Nicaragua</option>
+	<option value="394">Niger</option>
+	<option value="395">Nigeria</option>
+	<option value="397">Norfolk Island</option>
+	<option value="398">Northern Mariana Islands</option>
+	<option value="399">Norway</option>
+	<option value="401">Pakistan</option>
+	<option value="402">Palau</option>
+	<option value="403">Palestinian Territory, Occupied</option>
+	<option value="404">Panama</option>
+	<option value="405">Papua New Guinea</option>
+	<option value="406">Paraguay</option>
+	<option value="407">Peru</option>
+	<option value="410">Poland</option>
+	<option value="411">Portugal</option>
+	<option value="413">Qatar</option>
+	<option value="415">Romania</option>
+	<option value="417">Rwanda</option>
+	<option value="419">Saint Kitts And Nevis</option>
+	<option value="420">Saint Lucia</option>
+	<option value="421">Saint Pierre And Miquelon</option>
+	<option value="422">Saint Vincent And The Grenadines</option>
+	<option value="423">Samoa</option>
+	<option value="424">San Marino</option>
+	<option value="427">Senegal</option>
+	<option value="487">Serbia</option>
+	<option value="429">Seychelles</option>
+	<option value="430">Sierra Leone</option>
+	<option value="431">Singapore</option>
+	<option value="432">Slovakia</option>
+	<option value="433">Slovenia</option>
+	<option value="434">Solomon Islands</option>
+	<option value="436">South Africa</option>
+	<option value="438">Spain</option>
+	<option value="439">Sri Lanka</option>
+	<option value="441">Suriname</option>
+	<option value="443">Swaziland</option>
+	<option value="444">Sweden</option>
+	<option value="445">Switzerland</option>
+	<option value="448">Tajikistan</option>
+	<option value="449">Tanzania, United Republic Of</option>
+	<option value="451">Timor-Leste</option>
+	<option value="452">Togo</option>
+	<option value="454">Tonga</option>
+	<option value="456">Tunisia</option>
+	<option value="459">Turks And Caicos Islands</option>
+	<option value="460">Tuvalu</option>
+	<option value="461">Uganda</option>
+	<option value="484">United Kingdom - Channel Islands</option>
+	<option value="480">United Kingdom - Highlands And Islands</option>
+	<option value="482">United Kingdom - Isle Of Man</option>
+	<option value="486">United Kingdom - Isle Of Wight</option>
+	<option value="464">United Kingdom - Mainland</option>
+	<option value="481">United Kingdom - Northern Ireland</option>
+	<option value="483">United Kingdom - Scilly Isles (Isles Of Scilly)</option>
+	<option value="465">United States</option>
+	<option value="467">Uruguay</option>
+	<option value="468">Uzbekistan</option>
+	<option value="469">Vanuatu</option>
+	<option value="471">Venezuela</option>
+	<option value="473">Virgin Islands (British)</option>
+	<option value="474">Virgin Islands (U.S.)</option>
+	<option value="477">Yemen</option>
+	<option value="478">Zambia</option>
+	<option value="479">Zimbabwe</option>
+
+</select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
         
-        <div class="checkoutWideHeader"></div>
-        <div class="inBit">
-            <noscript><div style="color:White;background-color:Red; font-size:14px;">Please note: Javascript must be enabled for you to use this website properly.</div></noscript>
-            <div id="DivCookie" style="color:White;background-color:Red; font-size:14px; display:none;"></div>            
+
+        <nav class="search-wrapper">
+            <div class="search-facets js-search-facets">
+                <label for="in_stock">
+                    <input type="checkbox" data-facet-id="stocklevel" data-facet-type="number" id="in_stock">
+                    <span>In Stock <span class="result-count"></span></span>
+                </label>
+                <label for="sample_available">
+                    <input type="checkbox" data-facet-id="hasdram" data-facet-type="number" id="sample_available">
+                    <span>3cl Sample <span class="result-count"></span></span>
+                </label>
+                <label for="fast_delivery">
+                    <input type="checkbox" data-facet-id="atomstock" data-facet-type="number" id="fast_delivery">
+                    <span>Fast Delivery <span class="result-count"></span></span>
+                </label>
+
+                
+                    <label for="free_delivery">
+                        <input type="checkbox" data-facet-id="hasfreeshipping" data-facet-type="boolean" id="free_delivery">
+                        <span>Free Delivery <span class="result-count"></span></span>
+                    </label>
+                
+            </div>
+            <hr class="faded-line">
+            <h3 class="js-search-status">
+                Please search using the box above
+            </h3>
+            <div class="search-position-wrapper">
+                <div id="search-results-wrapper">
+                    <ol class="search-results">
+                    </ol>
+                </div>
+                <div id="js-show-more-button" class="show-more-button"></div>
+            </div>
+        </nav>
+
+        <div id="js-login-container" class="login-container spinner-image-brown spinner-center spinner-percentage-25 loading">
+            <div class="loading-section">
+                <div class="row">
+                    <div class="col-md-12 h-gutter">
+                        <h3>We're just loading our login box for you, hang on!</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <section class="pageBgr" id="main-content">
+        
             
-<div id="ContentPlaceHolder1_ctl00_breadcrumbs" class="breadCrumb"><span itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://www.masterofmalt.com/" itemprop="url"><span itemprop="title">Home</span></a></span> &gt; <span itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">Privacy Policy</span></div>
-<div class="pageIn">
-<h1>Privacy Policy</h1>
-    <div class="staticWrap">
-        <div class="pageCopy">
+            
+
+    
+
+<nav class="breadcrumbs-wrapper">
+    <div class="container">
+        <div id="ContentPlaceHolder1_Breadcrumb_breadcrumbs"><ol class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="https://www.masterofmalt.com/" itemprop="item"><span itemprop="name">Home</span></a><meta itemprop="position" content="1"></li><li>Privacy Policy</li></ol></div>
+    </div>
+</nav>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="h-gutter col-md-12">
+                <h1>
+                    Privacy Policy
+                </h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div>
+                    <div class="staticWrap">
+                        <div class="pageCopy">
 	<style>
 		.uppercase {
 			text-transform: uppercase;
@@ -541,120 +1672,160 @@ function __doPostBack(eventTarget, eventArgument) {
 	<p>You can disable cookies completely by changing your browser settings; however some areas of our website will not be accessible or may not function properly. You can also delete cookies relating to our website, but if you do so we will not remember things about you.</p>
 	<p>Finally, please note that third parties (including providers of external services like web traffic analysis services) may also use cookies. Google also places and reads cookies on the browsers of users of our website (and may also use web beacons and similar technologies) to collect information relevant to the Google Certified Shops Programme. We have no control over these third parties..</p>
 </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-</div>
 
             
-        </div>
 
         <!-- Cookie Box -->
-        <div id="cookiePopup" class="boxBgr cookieNoticePopUp">
-            <img src="/images/dnp/closeBtn.png" style="cursor:pointer; position:absolute; top: 5px; right: 5px" onclick="hideCookieNotice();">
-            We use cookies to help provide you with the best possible online shopping experience. By using this site, you agree that we may store and access cookies on your device.<br>Visit our <a href="/privacy-policy/" rel="nofollow" onclick="hideCookieNotice();">privacy policy</a> page for more information.
+            <div id="cookiePopup" class="cookieNoticePopUp">
+                <div class="mom-btn-close mom-btn-close-small" onclick="hideCookieNotice();"></div>
+                We use cookies to help provide you with the best possible online shopping experience. By using this site, you agree that we may store and access cookies on your device.
+                Visit our <a href="/privacy-policy/" rel="nofollow" onclick="hideCookieNotice();">privacy policy</a> page for more information.
+    </div>
+        </section>
+
+    
+
+    
+
+<footer>
+    <div class="container">
+        <div class="h-gutter row">
+            <div class="col-md-3 col-sm-6">
+                <div class="footer_links">
+                    <span>Service &amp; Support</span>
+                    <a href="/delivery/">Shipping &amp; FAQ</a>
+                    <a href="/contact-us/">Contact</a>
+                    <a href="/trade/">Trade</a>
+                    <a href="/about-us/">About Us</a>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="footer_links">
+                    <span>Features</span>
+                    <a href="/gift-ideas/">Gift Ideas</a>
+                    <a href="/personalised-whisky/">Personalised Whisky</a>
+                    <a href="/we-buy-bottles-collections-and-casks/">We Buy Bottles</a>
+                    <a href="/careers/">Careers</a>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="footer_links">
+                    <span>Social &amp; Media</span>
+                    <div>
+                        <a href="/blog/">Blog</a>
+                        <a style="margin-left: 5px" href="/Blog/syndication.axd?format=rss">(RSS)</a>
+                    </div>
+                    <div>
+                        <a href="/press/">Press</a>
+                        <a style="margin-left: 5px" href="/RSS.aspx">(RSS)</a>
+                    </div>
+                    <a href="http://twitter.com/masterofmalt" target="_blank" rel="nofollow">Twitter</a>
+                    <a href="http://www.facebook.com/masterofmalt" target="_blank" rel="nofollow">Facebook</a>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="footer_links">
+                    <span style="margin-right: 0">Legal Information</span>
+                    <b>
+                        <a href="/important-allergen-information/" rel="nofollow">Important Allergen Information</a>
+                    </b>
+                    <a href="/the-legal-stuff/" rel="nofollow">The Legal Stuff</a>
+                    <div>
+                        © 2016 Master of Malt.com
+                    </div>
+                    <a href="#" style="text-align: right">
+                        <i>Back to top</i>
+                        <div class="footer_back_to_top">
+                            <span class="fontello-angle-double-up"></span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="h-gutter row">
+            <div class="col-md-12">
+                We think you're in <span class="gold">United States</span> (<span class="js-international-pop-up-link international-pop-up-link">change</span>) so we're displaying prices which don't include VAT.
+                <div id="ucFooter_currencyDisclaimer" class="currencyDisclaimer">The prices currently being shown in <span class="gold">USD</span> <span class="hidden-xs hidden-sm">(<a href="javascript:showCurrencyDropDownTip();">change</a>)</span> are approximate, and should be used for illustrative purposes only.  All prices are in GBP and all orders are charged in GBP. The order total – the amount you will actually be charged – will be displayed in GBP before you place your order.</div>
+            </div>
+        </div>
+
+        <div class="h-gutter row">
+            <div class="col-md-6">
+                <div class="footer_payment_methods">
+                    <div class="footer_links_title">We Accept</div>
+                    <ul class="footer_logos">
+                        <li>
+                            <div class="footer_visa"></div>
+                        </li>
+                        <li>
+                            <div class="footer_mastercard"></div>
+                        </li>
+                        <li>
+                            <div class="footer_amex"></div>
+                        </li>
+                        <li>
+                            <div class="footer_paypal"></div>
+                        </li>
+                        <li>
+                            <div class="footer_amazon"></div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="footer_delivery_methods">
+                    <div class="footer_links_title">Delivery Partners</div>
+                    <ul class="footer_logos">
+                        <li>
+                            <div class="footer_parcelforce"></div>
+                        </li>
+                        <li>
+                            <div class="footer_royalmail"></div>
+                        </li>
+                        <li>
+                            <div class="footer_interlink"></div>
+                        </li>
+                        <li>
+                            <div class="footer_tnt"></div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="h-gutter row">
+            <div class="col-md-2">
+                <div class="drink_aware_wrap">
+                    <a href="http://www.drinkaware.co.uk" rel="nofollow" class="footer_drinkaware"></a>
+                </div>
+            </div>
+            <div class="col-md-10">
+                <div class="sip_dont_gulp">
+                    <span>Master of Malt supports responsible drinking - Sip, don't Gulp. </span>
+                </div>
+            </div>
+        </div>
+        <div class="h-gutter row">
+            <div id="legal_fluff">
+                ATOM Supplies Ltd trading as Master of Malt.  Registered office: North House, 198 High Street, Tonbridge, TN9 1BE. Registered in England &amp; Wales. Company number 3193057, VAT number GB 662241553.
+            </div>
         </div>
     </div>
+</footer>
+<script type="text/javascript">
+    var currencySymbol = "&#36;";
+    var exchangeRate = 1.45100;
+    var tradeGroupID = 0;   
+</script>
 
-   
-
-    
-<div class="footerBgr">
-    <div class="inBit">    
-        <div id="footerLinkContainer">
-            <div class="footerLinks">
-                <span>Service &amp; Support</span>            
-                <a href="/delivery/">Shipping &amp; FAQ</a>
-                <a href="/contact-us/">Contact</a>
-                <a href="/trade/">Trade</a>
-                <a href="/about-us/">About Us</a>
-            </div>
-            <div class="footerLinks">
-                <span>Features</span>            
-                <a href="/gift-ideas/">Gift Ideas</a>
-                <a href="/personalised-whisky/">Personalised Whisky</a>
-                <a href="/we-buy-bottles-collections-and-casks/">We Buy Bottles</a>
-                <a href="/careers/">Careers</a>
-            </div>
-            <div class="footerLinks">
-                <span>Social &amp; Media</span>            
-                <div><a style="display:inline" href="/blog/">Blog</a><a style="display:inline; margin-left:5px" href="/Blog/syndication.axd?format=rss">(RSS)</a></div>
-                <div><a style="display:inline" href="/press/">Press</a><a style="display:inline; margin-left:5px" href="/RSS.aspx">(RSS)</a></div>
-                <a href="http://twitter.com/masterofmalt" target="_blank" rel="nofollow">Twitter</a>
-                <a href="http://www.facebook.com/masterofmalt" target="_blank" rel="nofollow">Facebook</a>
-            </div>
-            <div class="footerLinks" style="width: 23%">
-                <span style="margin-right:0px">Legal Information</span>            
-                <b><a href="/important-allergen-information/" rel="nofollow">Important Allergen Information</a></b>
-                <a href="/the-legal-stuff/" rel="nofollow">The Legal Stuff</a>
-                <div>© 2015 Master of Malt.com</div>
-                <a href="#" style="text-align:right"><i>Back to top</i><div style="padding-top:0;" class="footerBack2Top"><span class="sprite_arrUp" style="display:inline-block; margin:0; border-bottom:none;"></span></div></a>
-            </div>
-        </div>
-        We think you're in <span class="gold">United States</span> (<span class="js-international-pop-up-link">change</span>) so we're displaying prices which don't include VAT.
-        <br>
-        <div id="ucFooter_currencyDisclaimer" class="currencyDisclaimer">The prices currently being shown in <span class="gold">USD</span> (<a href="javascript:showCurrencyDropDownTip();">change</a>) are approximate, and should be used for illustrative purposes only.  All prices are in GBP and all orders are charged in GBP. The order total – the amount you will actually be charged – will be displayed in GBP before you place your order.</div>
-        <div class="footerLinksBottomCont">
-            <div class="footerLinksBottom">
-                <div class="footerLinks2"> 
-                    <div class="footerLinks2Title">We Accept</div>
-                    <ul class="footerAcceptLogos">
-                        <li><div class="footer_visa"></div></li>
-                        <li><div class="footer_mastercard"></div></li>
-                        <li><div class="footer_amex"></div></li>
-                        <li><div class="footer_paypal"></div></li>
-                        <li><div class="footer_amazon"></div></li>
-                    </ul>                    
-                </div>
-                <div class="footerLinks2" style="padding-right:0px"> 
-                    <div class="footerLinks2Title">Delivery Partners</div>
-                    <ul class="footerAcceptLogos">
-                        <li><div class="footer_parcelforce"></div></li>
-                        <li><div class="footer_royalmail"></div></li>
-                        <li><div class="footer_interlink"></div></li>
-                        <li><div class="footer_tnt"></div></li>
-                    </ul> 
-                </div>
-            </div>
-        </div>
-        <div style="width:100%" class="footerIn">
-            <div class="drinkawareBar"><a href="http://www.drinkaware.co.uk" style="display:block" rel="nofollow" class="footer_drinkaware"></a></div>
-            <span>Master of Malt supports responsible drinking - Sip, don't Gulp. </span>
-        </div>
-        <div class="cb"></div>
-        <div id="legalFluff" style="font-size: 12px; margin-bottom: 10px;">ATOM Supplies Ltd trading as Master of Malt.  Registered office: North House, 198 High Street, Tonbridge, TN9 1BE. Registered in England &amp; Wales. Company number 3193057, VAT number GB 662241553.</div>
-    </div> 
-    
-    <script type="text/javascript">
-        var currencySymbol = "&#36;";
-        var exchangeRate = 1.51791;
-        var tradeGroupID = 0;   
-    </script>        
-</div>
 
     </form>
 
-    <script type="text/javascript" defer="defer">
-        var to;
-        $().ready(function() {
-            to = setTimeout("TimedOut()", $("hidSessionTimeOut").val());
-        });
-
-        function TimedOut() {    
-            $.post(window.location.origin + "/reconnect.aspx", null,
-                function(data) {
-                    if (data == "success") {
-                        to = setTimeout("TimedOut()", $("#hidSessionTimeOut").val());
-                
-                    }
-                }
-            );
-        }
-
-        CheckDivCookie();
-        DefineOnLoad();
-    </script>
-
-    
-    
     
     <!--[if gt IE 7]><!-->
 <script type="text/javascript">    	
@@ -667,6 +1838,27 @@ function __doPostBack(eventTarget, eventArgument) {
 	})(document, 'script');
 </script>
 <!--<![endif]-->
-
+    <script>
+        dataLayer = [{
+            'debug': false,
+            'pageType': "",
+            'productIDs': [],
+            'orderNum': 0,
+            'orderTotal': 0.00,
+            'orderFufillment': 0.00
+            }];
+    </script>
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N5HMB7"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-N5HMB7');
+    </script>
+    <!-- End Google Tag Manager -->
+    
 
 </body></html>
