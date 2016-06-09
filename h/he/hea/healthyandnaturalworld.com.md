@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyandnaturalworld.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226070134id_/http%3A//www.healthyandnaturalworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyandnaturalworld.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609224144id_/http%3A//www.healthyandnaturalworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,3 +13,5 @@ This site may collect identifiable information such as names and email addresses
 Third-party advertisers like Google, may also place and read cookies on your browser to serve ads on this site or use tracking technology to collect information. You can choose not to accept these cookies. Google also uses DART cookie that enables it to serve ads to users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 This website has links, when you click links to other websites to leave our site, we do not anymore have control over that website. Please note that this site does not accept responsibility for the activities of any third party listing on this site, including ads or the content they provide. By using this site you are agreeing to this condition.
+
+The entire content of this website is copyrighted and should never be reproduced/copied to another website without written authorization from the owner.
