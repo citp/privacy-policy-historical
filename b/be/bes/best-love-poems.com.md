@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the best-love-poems.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207232356id_/http%3A//www.poems-and-quotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-love-poems.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609174151id_/http%3A//www.poems-and-quotes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
-This privacy statement discloses the privacy policy of Poems & Quotes. Questions regarding this statement should be sent [here](https://web.archive.org/web/20151207232356id_/http%3A//www.poems-and-quotes.com/contact.html).
+This privacy statement discloses the privacy policy of Poems & Quotes. Questions regarding this statement should be sent [here](https://web.archive.org/web/20160609174151id_/http%3A//www.poems-and-quotes.com/contact.html).
 
 ## Information Collection and Use
 
