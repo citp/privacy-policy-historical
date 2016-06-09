@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the autobazaar.co.ke privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608214425id_/http%3A//www.autobazaar.co.ke/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autobazaar.co.ke privacy policy that was archived on 2016-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610002750id_/http%3A//www.autobazaar.co.ke/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 
@@ -7,8 +7,8 @@
 <meta name="description" content="Privacy Policy on autoBAZAAR Kenya">
 <meta name="keywords" content="used,privacy policy,used cars kenya,cars for sale in kenya,car dealers,buy cars kenya,">
 
-<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=9" /><![endif]-->
-<meta name="generator" content="AutoBazaar Car Classifieds Kenya">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="autoBAZAAR Car Classifieds Kenya">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
 <meta name="Author" content="AutoBazaar Car Classifieds Kenya">
@@ -16,15 +16,20 @@
 <meta name="google-site-verification" content="LYGcxerKT9xjSUgAGXl2B1xk1AgezciZs2eZhHPhfug">
 <meta name="msvalidate.01" content="4D60063947B70BE37D01E64FECF97FEF">
 <meta name="alexaVerifyID" content="Xd-egXngm2y1oHiGyXX2-ZHPpVo">
-<link rel="sitemap" type="application/xml" title="Sitemap" href="//www.autobazaar.co.ke/plugins/sitemap/sitemap.xml">
-<link rel="stylesheet" href="http://www.autobazaar.co.ke/templates/autotrader/css/style.css">
-<link rel="shortcut icon" href="http://www.autobazaar.co.ke/templates/autotrader/img/favicon.ico">
+<link rel="sitemap" type="application/xml" title="Sitemap" href="http://www.autobazaar.co.ke/plugins/sitemap/sitemap.xml">
+
+<link rel="stylesheet" href="http://www.autobazaar.co.ke/templates/used_cars_kenya/css/style.css">
+<link rel="stylesheet" href="http://www.autobazaar.co.ke/templates/used_cars_kenya/css/jquery.ui.css">
+<link rel="shortcut icon" href="http://www.autobazaar.co.ke/templates/used_cars_kenya/img/favicon.ico">
 
 
 <!--[if lt IE 9]>
-<script src="http://www.autobazaar.co.ke/templates/autotrader/js/ie/css3-mediaqueries.js"></script>
-<script src="http://www.autobazaar.co.ke/templates/autotrader/js/ie/html5shiv.js"></script>
-<script src="http://www.autobazaar.co.ke/templates/autotrader/js/ie/selectivizr-min.js"></script>
+<meta http-equiv="refresh" content="0; url=http://www.autobazaar.co.ke/templates/used_cars_kenya/browser-upgrade.htx" />
+<style>body { display: none!important; }</style>
+<![endif]-->
+
+<!--[if IE 9]>
+<link rel="stylesheet" href="http://www.autobazaar.co.ke/templates/used_cars_kenya/css/ie9-fallback.css" />
 <![endif]-->
 
 		
@@ -63,6 +68,8 @@
 	var rlLangDir = 'ltr';
 	var rlLang = 'en';
 	var lang = new Array();
+	var isLogin = false;
+	
 	lang['photo'] = 'Picture';
 	lang['of'] = 'of';
 	lang['close'] = 'Close';
@@ -89,14 +96,19 @@
 	lang['gateway_fail'] = 'Please choose a <b>Payment Gateway</b> from the list.';
 	lang['characters_left'] = 'Characters left';
 	lang['notice_bad_file_ext'] = 'The {ext} file extension is incompatible, please consider using an extension from the list.';
+	lang['no_browser_gps_support'] = 'Your browser does not support Geolocation option';
+	lang['gps_support_denied'] = 'Please enable Geolocation detection in your browser settings';
+	lang['map_listings_request_fail'] = '';
+	lang['map_search_limit_warning'] = '';
 	
 	var rlPageInfo = new Array();
 	rlPageInfo['key'] = 'privacy_police';
 	rlPageInfo['controller'] = 'static';
 	rlPageInfo['path'] = 'privacy-policy';
+
 	var rlConfig = new Array();
 	rlConfig['seo_url'] = 'http://www.autobazaar.co.ke/';
-	rlConfig['tpl_base'] = 'http://www.autobazaar.co.ke/templates/autotrader/';
+	rlConfig['tpl_base'] = 'http://www.autobazaar.co.ke/templates/used_cars_kenya/';
 	rlConfig['files_url'] = 'http://www.autobazaar.co.ke/files/';
 	rlConfig['libs_url'] = 'http://www.autobazaar.co.ke/libs/';
 	rlConfig['plugins_url'] = 'http://www.autobazaar.co.ke/plugins/';
@@ -104,21 +116,25 @@
 	rlConfig['sf_display_fields'] = 0;
 	rlConfig['account_password_strength'] = 1;
 	rlConfig['messages_length'] = 250;
-	rlConfig['pg_upload_thumbnail_width'] = 190;
-	rlConfig['pg_upload_thumbnail_height'] = 130;
+	rlConfig['pg_upload_thumbnail_width'] = 236;
+	rlConfig['pg_upload_thumbnail_height'] = 142;
 	rlConfig['template_type'] = 'responsive_42';
-	
+	rlConfig['domain'] = '.autobazaar.co.ke';
+	rlConfig['domain_path'] = '/';
+	rlConfig['map_search_listings_limit'] = 500;
+	rlConfig['map_search_listings_limit_mobile'] = 75;
+
 	flynax.langSelector();
 	
 	
 	var qtip_style = new Object({
 		width: 'auto',
-		background: '#4b4b4b',
+		background: '#00b4c9',
 		color: 'white',
 		border: {
 			width: 7,
 			radius: 0,
-			color: '#4b4b4b'
+			color: '#00b4c9'
 		},
 		tip: 'bottomLeft'
 	});
@@ -126,68 +142,24 @@
 //]]>
 </script>
 
-<script src="http://www.autobazaar.co.ke/templates/autotrader/js/lib.js"></script>
 
-<script type="text/javascript" src="http://www.autobazaar.co.ke/plugins/listings_carousel/static/carousel.js"></script><script type="text/javascript">var rlCarousel = new Array();</script><!-- Facebook connect block -->
-
-</head><body class=""><div id="fb-root"></div>
-<script type="text/javascript">
-//<![CDATA[
-var responsive_template = true;
-
-
-window.fbAsyncInit = function() {
-	FB.init({
-		appId: '264417067019218', // App ID from the app dashboard
-		channelUrl : 'http://www.facebook.com/AutoBazaarOnline', // Channel file for x-domain comms
-		cookie: true, // Check Facebook Login status
-		xfbml: true // Look for social plugins on the page
-	});
-
-	// bookmarks
-	if ( $('#fl-facebook-funs').length > 0 ) {
-		FB.Event.subscribe('xfbml.render',
-			function(response) {
-				var width = $('#fl-facebook-funs').width();
-				$('.fb_iframe_widget iframe, .fb_iframe_widget > span').width(width);
-			}
-		);
+<style>
+	span.circle,
+	div.kw-search,
+	ul.tabs > li.more > span {
+		behavior: url(http://www.autobazaar.co.ke/templates/used_cars_kenya/css/PIE.htc);
 	}
-};
-
-if (!document.getElementById('fb-nav-bar')) {
-	var fcDOM = '<img style="cursor:pointer;" alt="" title="Log in with Facebook" src="http://www.autobazaar.co.ke/plugins/facebookConnect/static/fb_login.png" onclick="fcLogin();" />';
-	$('input[value=login]:first').parent().find('input[type=submit]').after(fcDOM);
-}
-else {
-	// move FB icon
-	if ( $('form[name="userbar_login"]').length ) {
-		$('input[name=username]').before($('img[onclick="fcLogin();"]'));
-		$('img[onclick="fcLogin();"]').css('margin-right', '5px');
-	}
-}
-
-if ( responsive_template && $('img#fb-nav-bar').length ) {
-	$('img#fb-nav-bar').after('<a title="Log in with Facebook" class="fb-connect" href="javascript:fcLogin()">Connect</a>');
-	$('img#fb-nav-bar').remove();
-}
-
-function fcLogin() {
-	window.location.href = rlConfig['libs_url'].replace('libs', 'plugins') + 'facebookConnect/request.php';
-}
-
-(function(d) {
-	var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-	js = d.createElement('script'); js.id = id; js.async = true;
-	js.src = "//connect.facebook.net/en_US/all.js";
-	d.getElementsByTagName('head')[0].appendChild(js);
-}(document));
+</style>
 
 
-//]]>
-</script>
 
-<!-- Facebook connect block end --><link href="http://www.autobazaar.co.ke/plugins/bookmarks/static/style.css" type="text/css" rel="stylesheet"><script type="text/javascript" src="http://www.autobazaar.co.ke/plugins/recentlyViewed/static/lib.js"></script><script type="text/javascript">var sync_rv_complete = ""; var logged = ""; </script><script type="text/javascript" src="http://www.autobazaar.co.ke/plugins/reportBrokenListing/static/lib.js"></script><script type="text/javascript" src="http://www.autobazaar.co.ke/libs/jquery/jquery.textareaCounter.js"></script>
+<script src="http://www.autobazaar.co.ke/templates/used_cars_kenya/js/lib.js"></script>
+
+<link href="http://www.autobazaar.co.ke/plugins/compare/static/style_responsive42.css" type="text/css" rel="stylesheet"><!-- banners header -->
+
+<link href="http://www.autobazaar.co.ke/plugins/banners/static/style.css" type="text/css" rel="stylesheet">
+
+<!-- banners header end --><link href="http://www.autobazaar.co.ke/plugins/bookmarks/static/style.css" type="text/css" rel="stylesheet">
 
 
 <script type="text/javascript" charset="UTF-8">
@@ -219,11 +191,7 @@ window.setTimeout(
 
 <script type="text/javascript" charset="UTF-8">
 /* <![CDATA[ */
-xajax_loadListings = function() { return xajax.request( { xjxfun: 'ajaxLoadListings' }, { parameters: arguments } ); };
 xajax_ctreeOpen = function() { return xajax.request( { xjxfun: 'ajaxOpen' }, { parameters: arguments } ); };
-xajax_syncRvListings = function() { return xajax.request( { xjxfun: 'ajaxSyncRvListings' }, { parameters: arguments } ); };
-xajax_reportBrokenListing = function() { return xajax.request( { xjxfun: 'ajaxRreportBrokenListing' }, { parameters: arguments } ); };
-xajax_removeReportBrokenListing = function() { return xajax.request( { xjxfun: 'ajaxRemoveReportBrokenListing' }, { parameters: arguments } ); };
 /* ]]> */
 </script>
 
@@ -237,42 +205,24 @@ if(sframeurl.indexOf('?') == -1) { self.location.href = document.URL + '?iframe=
 </script>
 
 
+	
+</head>
+<body class="large privacy-police-page header-banner">
+	<div class="main-wrapper">
+		<header class="page-header">
+			<div class="point1 clearfix">
+				<div class="top-navigation">
+					<div class="point1">
+						<!-- languages selector -->
 
 
-<h1 id="header_keywords"><strong>Privacy Policy on autoBAZAAR Kenya</strong></h1>
-	<header>
-		<section class="point1">
-			<div id="logo">
-				<a href="http://www.autobazaar.co.ke/" title="autoBAZAAR Cars Kenya">
-					<img alt="autoBAZAAR Cars Kenya" src="http://www.autobazaar.co.ke/templates/autotrader/img/logo.png">
-				</a>
-			</div>
-			
-			<div id="header-banner">
-				<!-- header banner tpl -->
+<!-- languages selector end -->
+						<div class="fright">
+							<!-- user navigation bar -->
 
-
-									
-							<div id="introl">
-<a href="http://www.autobazaar.co.ke/search.html" class="btn"><h2>Used Cars in Kenya</h2>
-<p>Find Cars for Sale in Kenya</p></a>
-<a href="http://www.autobazaar.co.ke/sell-a-car.html" class="btn"><h2>Selling your Car?</h2>
-<p>Sell it where more buyers will see it!</p></a>
-<a href="http://www.autobazaar.co.ke/aakenya" class="btn"><h2>Get AA Kenya Quotes</h2>
-<p>Road Rescue, Insurance and more!</p></a>
-</div>
-						
-			
-
-<!-- header banner tpl end -->			</div>
-
-			<div id="top-navigation" class="clearfix">
-				
-				
-				<!-- user navigation bar -->
 
 <span class="circle" id="user-navbar">
-		<span class="default"><span></span></span>
+	<span class="default"><span>Log in</span></span>
 	<span class="content  hide">
 					<span class="user-navbar-container">
 								
@@ -284,87 +234,61 @@ if(sframeurl.indexOf('?') == -1) { self.location.href = document.URL + '?iframe=
 					
 					<div class="nowrap">
 					<input type="submit" value="Log in">
-					<span class="hookUserNavbar"><img onclick="fcLogin();" id="fb-nav-bar" style="cursor:pointer;" src="http://www.autobazaar.co.ke/plugins/facebookConnect/static/fb_ico.png" alt="Log in with Facebook" title="Log in with Facebook"></span>
+					<span class="hookUserNavbar"></span>
 					</div>
 					
 					<span class="links">
-						<span><a title="Reset my password" class="font1" href="http://www.autobazaar.co.ke/remind.html">Forgot password?</a></span>
-						<a title="Create a New Account" class="font1" href="http://www.autobazaar.co.ke/registration.html">Register, it’s free!</a>
-					</span>
+						<span><a title="Reset my password" class="font2" href="http://www.autobazaar.co.ke/remind.html">Forgot password?</a></span>
+													<a title="Create a New Account" class="font2" href="http://www.autobazaar.co.ke/registration.html">Register, it’s free!</a>
+											</span>
 				</form>
 			</span>
 			</span>
 	
-	<span class="mobile-hidden">
-					<a title="Log in" href="http://www.autobazaar.co.ke/login.html">Log in</a><a title="Create a New Account" href="http://www.autobazaar.co.ke/registration.html">Register, it’s free!</a>
-			</span>
-</span>
+	</span>
 
-<!-- user navigation bar end -->				<!-- languages selector -->
-
-
-<!-- languages selector end -->				
-			</div>
-		</section>
-		<section class="main-menu">
-			<nav class="point1 clearfix">
-				<div class="kw-search">
-					<span class="lens"><span></span></span><span class="field"><form method="post" action="http://www.autobazaar.co.ke/search.html"><input type="hidden" name="form" value="keyword_search"><input placeholder="Search" id="autocomplete" type="text" maxlength="255" name="f[keyword_search]"></form></span>
-					<span class="close"></span>
-					
-					<script>
-						var ac_php = 'http://www.autobazaar.co.ke/templates/autotrader/request.ajax.php';
-						var view_details = 'View details';
-						var join_date = 'Registration Date';
-						var category_phrase = 'Category';
-					</script>
+<!-- user navigation bar end -->							
+						</div>
+					</div>
 				</div>
-				<!-- main menu block -->
+				<section class="main-menu">
+					<div class="point1">
+						<div id="logo">
+							<a href="http://www.autobazaar.co.ke/" title="autoBAZAAR Cars Kenya">
+								<img alt="autoBAZAAR Cars Kenya" src="http://www.autobazaar.co.ke/templates/used_cars_kenya/img/blank.gif">
+							</a>
+						</div>
 
-<ul class="menu"><li><a title="autoBAZAAR Cars Kenya" href="http://www.autobazaar.co.ke/">Home</a></li><li><a title="Sell your car on AutoBazaar Kenya - Buy, Sell or Import New and Used Cars at Auto Bazaar Kenya" href="http://www.autobazaar.co.ke/sell-a-car.html">Place an Ad</a></li><li><a title="Search on AutoBazaar Kenya - Buy, Sell or Import New and Used Cars at Auto Bazaar Kenya" href="http://www.autobazaar.co.ke/search.html">Search</a></li><li><a title="Used Cars for Sale in Kenya - Buy, Sell or Import Used Cars at Auto Bazaar Kenya" href="http://www.autobazaar.co.ke/used-cars-for-sale-in-kenya.html">Just Added</a></li><li><a title="Browse Cars for Sale in Kenya" href="http://www.autobazaar.co.ke/browse-cars-for-sale-in-kenya.html">Browse</a></li><li><a title="Car Dealers" href="http://www.autobazaar.co.ke/car-dealers-kenya/All.html">Car Dealers</a></li><li><a title="Vehicle Price Guide" href="http://www.autobazaar.co.ke/vehicle-price-guide.html">Vehicle Price Guide</a></li><li class="more hide"><span><span></span><span></span><span></span></span></li></ul>
+						<nav class="menu">
+							<!-- main menu block -->
+
+<div><span class="menu-button hide" title="Menu"><span></span><span></span><span></span></span><span class="mobile-menu-header hide"><span>Menu</span><span></span></span><a class="add-property button" title="Sell your car on AutoBazaar Kenya - Buy, Sell or Import New and Used Cars at Auto Bazaar Kenya" href="http://www.autobazaar.co.ke/sell-a-car.html">Place an Ad</a><ul class="menu"><li><a title="autoBAZAAR Cars Kenya" href="http://www.autobazaar.co.ke/">Home</a></li><li><a title="Search on AutoBazaar Kenya - Buy, Sell or Import New and Used Cars at Auto Bazaar Kenya" href="http://www.autobazaar.co.ke/search.html">Search</a></li><li><a title="Used Cars for Sale in Kenya - Buy, Sell or Import Used Cars at Auto Bazaar Kenya" href="http://www.autobazaar.co.ke/used-cars-for-sale-in-kenya.html">Just Added</a></li><li><a title="Browse Cars for Sale in Kenya" href="http://www.autobazaar.co.ke/browse-cars-for-sale-in-kenya.html">Browse</a></li><li><a title="Car Dealers" href="http://www.autobazaar.co.ke/car-dealers-kenya/All.html">Car Dealers</a></li><li><a title="Vehicle Price Guide" href="http://www.autobazaar.co.ke/vehicle-price-guide.html">Vehicle Price Guide</a></li><li><a title="Blog" href="http://www.autobazaar.co.ke/blog/">Blog</a></li><li class="more" style="display: none;"><span><span></span><span></span><span></span></span></li></ul></div>
 
 <ul id="main_menu_more"></ul>
 
-<!-- main menu block end -->			</nav>
-		</section>
-	</header><!-- page content -->
+<!-- main menu block end -->						</nav>
+					</div>
+				</section>
+			</div>
+		</header><!-- page content -->
 
 
 <div id="wrapper">
-	<div id="push-header"></div>
-	
 	<section id="main_container">
 		<!-- bread crumbs block -->
 
 
 <!-- bread crumbs block end -->
-		<div class="inside-container point1 clearfix">
-						<!-- long top blocks area -->
-						<!-- long top blocks area -->
+		
+		<div class="inside-container point1 clearfix">	
+			<div class="row">
+				<!-- left blocks area on home page -->
+									<aside class="left col-md-4">
+							
 
-			<!-- left blocks area on home page -->
-							<aside class="left">
-						
 
-
-<section class="no-style content-padding ">
-
-	<!-- banners box1 -->
-
-<div class="banners-box ">
-	<div class="banner" style="margin:auto; width:250px; height:250px;">
-		<div class="banner-here" style="line-height:248px;">250 x 250</div>
-	</div>
-</div>
-
-<!-- banners box end -->
-</section>
-
-	
-
-	<section class="side_block">
-	<h3>Multiple Website Posting</h3>
-	<div class="clearfix">
+<section class="side_block">
+	<h3>Multiple Website Posting</h3>	<div class="clearfix">
 
 	<h3>
 	When you list your vehicle(s) on autoBAZAAR.co.ke, your vehicle(s) will automatically show up on the following sites:</h3>
@@ -377,11 +301,12 @@ Locanto.co.ke</strong><br>
 <a class="button" href="/sell-a-car.html">Place an Ad</a>
 
 
-		</div>
+	</div>
 </section>	
 
 
-<section class="no-style content-padding ">
+<section class="side_block no-style no-header">
+		<div class="clearfix">
 
 	<!-- facebook funs box tpl -->
 
@@ -392,8 +317,8 @@ Locanto.co.ke</strong><br>
 	var allow_fb_init = false;
 	
 	$(document).ready(function(){
-		var width = $('#fl-facebook-funs').width();
-		$('.fb-like-box').attr('data-width', width);
+        var width = $('#fl-facebook-funs').width();
+        $('.fb-like-box').attr('data-width', width);
 
 		if ( allow_fb_init ) {
 			window.fbAsyncInit = function() {
@@ -402,14 +327,15 @@ Locanto.co.ke</strong><br>
 					appId      : '264417067019218',                        // App ID from the app dashboard
 					channelUrl : 'http://www.facebook.com/AutoBazaarOnline', // Channel file for x-domain comms
 					status     : true,                                 // Check Facebook Login status
-					xfbml      : true                                  // Look for social plugins on the page
+					xfbml      : true,                                  // Look for social plugins on the page
+                    version    : 'v2.2'
 				});
-		
-				FB.Event.subscribe('xfbml.render',
-				    function(response) {
-						$('.fb_iframe_widget iframe, .fb_iframe_widget > span').width(width);
-				    }
-				);
+
+                FB.Event.subscribe('xfbml.render',
+                    function(response) {
+                        $('.fb_iframe_widget iframe, .fb_iframe_widget > span').width(width);
+                    }
+                );
 			};
 		}
 
@@ -431,36 +357,37 @@ Locanto.co.ke</strong><br>
 
 <!-- facebook funs box tpl end -->
 
+
+	</div>
 </section>
+					</aside>
+								<!-- left blocks area end -->
 
-
-				</aside>
-						<!-- left blocks area end -->
-
-			<section id="content">
-															<h2>Privacy Policy</h2>
-													
-				<div id="system_message">
-					<script type="text/javascript">//<![CDATA[
-						var fixed_message = true;
-						var message_text = '', error_fields = '';
-						var message_type = 'error';
-																								
-						$(document).ready(function(){
-							if ( message_text ) {
-								printMessage(message_type, message_text, error_fields, fixed_message);
-							}
-						});
+				<section id="content" class="col-md-8">
+																		<h1>Privacy Policy</h1>
+								<h2 class="subhtwo">Privacy Policy on autoBAZAAR Kenya</h2>
+																
+					<div id="system_message">
+						<script type="text/javascript">//<![CDATA[
+							var fixed_message = true;
+							var message_text = '', error_fields = '';
+							var message_type = 'error';
+																												
+							$(document).ready(function(){
+								if ( message_text ) {
+									printMessage(message_type, message_text, error_fields, fixed_message);
+								}
+							});
+							
+						//]]>
+						</script>
 						
-					//]]>
-					</script>
+						<!-- no javascript mode -->
+												<!-- no javascript mode end -->
+					</div>
 					
-					<!-- no javascript mode -->
-										<!-- no javascript mode end -->
-				</div>
-				
-								
-				<section id="controller_area"><div class="content-padding"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+																
+					<section id="controller_area"><div class="content-padding"><table border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody>
 		<tr>
 			<td valign="top">
@@ -553,76 +480,125 @@ Locanto.co.ke</strong><br>
 		</tr>
 	</tbody>
 </table></div></section>
-				
-				<!-- middle blocks area -->
-								<!-- middle blocks area end -->
-				
-							</section>
-				
-								<!-- bottom blocks area -->
-				<aside class="bottom">
-																											
+
+											<!-- middle blocks area -->
+												<!-- middle blocks area end -->
+						
+												
+															</section>
+			</div>
+		</div>
+	</section>
+</div>
+
+	<div class="header-banner-cont">
+		<div class="point1">
+			<div id="header-banner">
+				<!-- header banner tpl -->
 
 
-<section class="no-style content-padding ">
 
+	<div class="no-banner">728x90</div>
+
+<!-- header banner tpl end -->			</div>
+		</div>
+	</div>
+
+<!-- page content end -->		<footer class="page-footer">
+			<div class="point1 clearfix">
+				<span class="scroll-top"></span>
+
+				<nav class="footer-menu">
+					<!-- footer menu block -->
+
+<ul>
+<li><a title="autoBAZAAR Cars Kenya" href="http://www.autobazaar.co.ke/">Home</a></li><li><a title="My Favorite Listings" href="http://www.autobazaar.co.ke/my-favorites.html">Favorites</a></li><li><a title="Help Desk - Knowledgebase - Submit a ticket" href="http://www.autobazaar.co.ke/helpdesk.html">Help Desk</a></li><li><a class="active" title="Privacy Policy" href="http://www.autobazaar.co.ke/privacy-policy.html">Privacy Policy</a></li><li><a title="Vehicle Price Guide" href="http://www.autobazaar.co.ke/vehicle-price-guide.html">Vehicle Price Guide</a></li><li><a title="Contact us" href="http://www.autobazaar.co.ke/contact-us.html">Contact Us</a></li><li><a title="Terms of use" href="http://www.autobazaar.co.ke/terms-of-use.html">Terms of Use</a></li><li><a title="Blog" href="http://www.autobazaar.co.ke/blog/">Blog</a></li><li><a title="Get Quotes" href="http://www.autobazaar.co.ke/quotes.html">Get Quotes</a></li><li><a title="Online Kenya Traffic and Road Sign Tests" href="http://www.autobazaar.co.ke/online-kenya-traffic-and-road-sign-tests.html">Online Driving Tests</a></li><li><a title="Compare Vehicles" href="http://www.autobazaar.co.ke/compare-vehicles.html">Compare Vehicles</a></li></ul>
+
+<!-- footer menu block end -->				</nav>
+
+				<!-- footer data tpl -->
+
+<div class="footer-data">
+	<div class="icons">
+		<!--  -->
+		<a class="facebook" target="_blank" title="Join us on facebook" href="//www.facebook.com/AutoBazaarOnline"></a>
+		<a class="twitter" target="_blank" title="Join us on twitter" href="//www.twitter.com/autobazaarkenya"></a>
+		<a class="google" target="_blank" title="Join us on Google Plus" href="//plus.google.com/+AutobazaarCoKe"></a>		
+	</div>
+	<div class="logo">
+					<a href="http://corp.buyandsell.co.ke" title="autoBAZAAR Cars Kenya" target="_blank">
+						<img alt="autoBAZAAR Cars Kenya" src="http://www.autobazaar.co.ke/templates/used_cars_kenya/img/blank.gif">
+					</a>
+				</div>
 	
-
-</section>
-
-																						
-
-
-<section class="no-style content-padding ">
-
-	<!-- banners box1 -->
-
-<div class="banners-box ">
-	<div class="banner" style="margin:auto; width:728px; height:90px;">
-		<div class="banner-here" style="line-height:88px;">728 x 90</div>
+	<div>
+		© 2016, powered by
+		<a title="powered by AutoBazaar Cars Kenya" href="http://corp.buyandsell.co.ke">AutoBazaar Cars Kenya</a>
 	</div>
 </div>
 
-<!-- banners box end -->
-</section>
+<!-- footer data tpl end -->			</div>
+		</footer>
+		
+		<!-- compare listings tab -->
 
-																																																																										</aside> 
-				<!-- bottom blocks area end -->
-						</div>
-	</section>
-	
-	<div id="push-footer"></div>
-</div>
-
-<!-- page content end -->	<footer class="clearfix">
-		<div class="point1 clearfix">
-			<nav class="footer-menu">
-				<!-- footer menu block -->
-
-<ul>
-<li><a title="autoBAZAAR Cars Kenya" href="http://www.autobazaar.co.ke/">Home</a></li><li><a title="My Favorite Listings" href="http://www.autobazaar.co.ke/my-favorites.html">Favorites</a></li><li><a title="Help Desk - Knowledgebase - Submit a ticket" href="http://www.autobazaar.co.ke/helpdesk.html">Help Desk</a></li><li><a class="active" title="Privacy Policy" href="http://www.autobazaar.co.ke/privacy-policy.html">Privacy Policy</a></li><li><a title="Vehicle Price Guide" href="http://www.autobazaar.co.ke/vehicle-price-guide.html">Vehicle Price Guide</a></li><li><a title="Contact us" href="http://www.autobazaar.co.ke/contact-us.html">Contact Us</a></li><li><a title="Terms of use" href="http://www.autobazaar.co.ke/terms-of-use.html">Terms of Use</a></li><li><a title="Get Quotes" href="http://www.autobazaar.co.ke/quotes.html">Get Quotes</a></li><li><a rel="nofollow" title="XML Inventory Feeds" href="http://www.autobazaar.co.ke/xml-inventory-feeds.html">XML Inventory Feeds</a></li><li><a title="Recently Viewed Vehicles" href="http://www.autobazaar.co.ke/recently-viewed.html">Recently Viewed Vehicles</a></li></ul>
-
-<!-- footer menu block end -->			</nav>
-			
-			<div class="footer-data">
-				<div class="icons">
-					<a title="Subscribe to RSS-feed" href="http://www.autobazaar.co.ke/rss-feed/news/" target="_blank"><img alt="RSS Feed" src="http://www.autobazaar.co.ke/templates/autotrader/img/blank.gif" class="rss"></a>
-					<a target="_blank" title="Join us on facebook" href="http://www.facebook.com/AutoBazaarOnline"><img alt="facebook" src="http://www.autobazaar.co.ke/templates/autotrader/img/blank.gif" class="facebook"></a>
-					<a target="_blank" title="Join us on twitter" href="https://www.twitter.com/autobazaarkenya"><img alt="twitter" src="http://www.autobazaar.co.ke/templates/autotrader/img/blank.gif" class="twitter"></a>
-					<a target="_blank" title="Join us on Google Plus" href="//plus.google.com/+AutobazaarCoKe"><img alt="gplus" src="http://www.autobazaar.co.ke/templates/autotrader/img/blank.gif" class="gplus"></a>
+	<div id="compare_listings_fixed">
+		<div class="highlight_dark hborder search" id="compare_listings_tab">
+			<label>Compare Vehicles</label> <span class="counter"></span>
+		</div>
+		<div class="highlight_dark hborder" id="compare_listings_area">
+			<div>
+				<div class="title">Vehicles to compare</div>
+				<div class="body">
+					<span class="info">There are no listings to compare</span>
 				</div>
-				
-				<div class="logo">
-					<a href="http://corp.buyandsell.co.ke" title="autoBAZAAR Cars Kenya" target="_blank">
-						<img alt="autoBAZAAR Cars Kenya" src="http://www.autobazaar.co.ke/templates/autotrader/img/blank.gif">
-					</a>
+				<div class="button hide">
+					<a class="button" href="http://www.autobazaar.co.ke/compare-vehicles.html">Compare</a>
 				</div>
-				
-				© 2015, powered by
-				<a title="powered by AutoBazaar Cars Kenya" href="http://www.autobazaar.co.ke/">AutoBazaar Cars Kenya</a>
 			</div>
 		</div>
-	</footer>
+	</div>
+
+<script type="text/javascript">//<![CDATA[
+var flCompare = new Object();
+flCompare.phrases = new Array();
+flCompare.requestUrl = '',
+flCompare.visible = false;
+flCompare.counter = false;
+flCompare.phrases['add'] = "(+) Compare";
+flCompare.phrases['remove'] = "(-) Compare";
+flCompare.phrases['notice'] = "Are you sure you want to remove this listing from vehicle comparisons?";
+flCompare.phrases['warning'] = "Are you sure?";
+flCompare.phrases['compare_comparison_table'] = "Compare Vehicles";
+flCompare.phrases['compare_default_view'] = "Default view";
+flCompare.phrases['powered_by'] = "powered by";
+flCompare.phrases['copy_rights'] = "AutoBazaar Cars Kenya";
+//]]>
+</script>
+<script type="text/javascript" src="http://www.autobazaar.co.ke/plugins/compare/static/lib.js"></script>
+
+<!-- compare listings tab end --><script src="//www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit&amp;hl=en" async="" defer=""></script>
+
+<script type="text/javascript">
+    
+    var onloadCallback = function() {
+        $('.gptwdg').each(function(){
+            var i = $(this).attr('abbr');
+
+            if ($('#gcaptcha_widget'+i).html() == '') {
+                grecaptcha.render('gcaptcha_widget'+i, {
+                  'sitekey' : '6LdiiQwTAAAAAO9iLyRU4AhBOGrkYuAes-mRMd3l',
+                  'callback' : eval('afterCaptcha'+i),
+                  'tabindex': i,
+                  'theme' : 'light'
+                });
+            }
+        });
+    };
+    
+</script>
+
+	</div>
 
 			<div id="login_modal_source" class="hide">
 			<div class="tmp-dom">
@@ -656,109 +632,8 @@ Locanto.co.ke</strong><br>
 				</form>
 			</div>
 		</div>
-			
-	<!-- compare listings tab -->
-
-	<div id="compare_listings_fixed">
-		<div class="highlight_dark hborder search" id="compare_listings_tab">
-			<label>Compare Vehicles</label> <span class="counter"></span>
-		</div>
-		<div class="highlight_dark hborder" id="compare_listings_area">
-			<div>
-				<div class="title">Vehicles to Compare</div>
-				<div class="body">
-					<span class="info">There are no listings to compare</span>
-				</div>
-				<div class="button hide">
-					<a class="button" href="http://www.autobazaar.co.ke/comparision-tables.html">Compare Vehicles</a>
-				</div>
-			</div>
-		</div>
-	</div>
-
-<script type="text/javascript">//<![CDATA[
-var flCompare = new Object();
-flCompare.phrases = new Array();
-flCompare.requestUrl = '',
-flCompare.visible = false;
-flCompare.counter = false;
-flCompare.phrases['add'] = "(+) Compare";
-flCompare.phrases['remove'] = "(-) Compare";
-flCompare.phrases['notice'] = "Are you sure you want to remove this vehicle from your Compare list?";
-flCompare.phrases['warning'] = "Are you sure?";
-flCompare.phrases['compare_comparison_table'] = "Compare Vehicles";
-flCompare.phrases['compare_default_view'] = "Default view";
-flCompare.phrases['powered_by'] = "powered by";
-flCompare.phrases['copy_rights'] = "AutoBazaar Cars Kenya";
-//]]>
-</script>
-<script type="text/javascript" src="http://www.autobazaar.co.ke/plugins/compare/static/lib.js"></script>
-
-<!-- compare listings tab end --><!-- Facebook connect block -->
-
-<div id="fb-root"></div>
-<script type="text/javascript">
-//<![CDATA[
-var responsive_template = true;
-
-
-window.fbAsyncInit = function() {
-	FB.init({
-		appId: '264417067019218', // App ID from the app dashboard
-		channelUrl : 'http://www.facebook.com/AutoBazaarOnline', // Channel file for x-domain comms
-		cookie: true, // Check Facebook Login status
-		xfbml: true // Look for social plugins on the page
-	});
-
-	// bookmarks
-	if ( $('#fl-facebook-funs').length > 0 ) {
-		FB.Event.subscribe('xfbml.render',
-			function(response) {
-				var width = $('#fl-facebook-funs').width();
-				$('.fb_iframe_widget iframe, .fb_iframe_widget > span').width(width);
-			}
-		);
-	}
-};
-
-if (!document.getElementById('fb-nav-bar')) {
-	var fcDOM = '<img style="cursor:pointer;" alt="" title="Log in with Facebook" src="http://www.autobazaar.co.ke/plugins/facebookConnect/static/fb_login.png" onclick="fcLogin();" />';
-	$('input[value=login]:first').parent().find('input[type=submit]').after(fcDOM);
-}
-else {
-	// move FB icon
-	if ( $('form[name="userbar_login"]').length ) {
-		$('input[name=username]').before($('img[onclick="fcLogin();"]'));
-		$('img[onclick="fcLogin();"]').css('margin-right', '5px');
-	}
-}
-
-if ( responsive_template && $('img#fb-nav-bar').length ) {
-	$('img#fb-nav-bar').after('<a title="Log in with Facebook" class="fb-connect" href="javascript:fcLogin()">Connect</a>');
-	$('img#fb-nav-bar').remove();
-}
-
-function fcLogin() {
-	window.location.href = rlConfig['libs_url'].replace('libs', 'plugins') + 'facebookConnect/request.php';
-}
-
-(function(d) {
-	var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-	js = d.createElement('script'); js.id = id; js.async = true;
-	js.src = "//connect.facebook.net/en_US/all.js";
-	d.getElementsByTagName('head')[0].appendChild(js);
-}(document));
-
-
-//]]>
-</script>
-
-<!-- Facebook connect block end --><!-- recently viewed listings tpl -->
-
-
-
-<!-- recently viewed listings tpl end -->
 	
+		
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
