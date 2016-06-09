@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rootupdate.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101042527id_/http%3A//www.rootupdate.com/p/privacy-policy_13.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootupdate.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609101716id_/http%3A//www.rootupdate.com/p/privacy-policy_13.html) for the most accurate reproduction.*
 
-# Privacy Policy - Root Update
+# Root Update : Privacy Policy
 
 Privacy Policy for Root Update  
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at rootweall@gmail.com  
