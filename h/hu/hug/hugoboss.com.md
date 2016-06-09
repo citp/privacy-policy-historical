@@ -1,91 +1,150 @@
-> *The following text is extracted and transformed from the hugoboss.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022131356id_/http%3A//www.hugoboss.com/us/about-hugo-boss/privacy-statement/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hugoboss.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609101644id_/http%3A//www.hugoboss.com/us/about-hugo-boss/privacy-statement/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-## PRIVACY STATEMENT
+**Hugo Boss Privacy Policy**
 
-In this Website Privacy Statement (“Statement”), we, HUGO BOSS Fashions, Inc., 601 West 26th Street, New York, NY 10001 (hereinafter referred to as "HUGO BOSS”, “we”, “us” or “our”), describe what personal information we collect through those web pages at http://store-us.hugoboss.com that we control and on which we display a direct link to this Statement and through our mobile apps (collectively, the “Site”) and how we collect and use such data.
+## Last Updated February 2016
 
-## SCOPE
+## Effective March 1, 2016
 
-This Statement covers only data collected through the Site, in our company owned stores in the United States and in any instance here we specifically reference this policy. It does not apply to any other data including, without limitation, data that we collect through other web pages at [www.hugoboss-store.com](http://www.hugoboss-store.com/), or data that others collect on websites that are linked or linking to the Site.
+We at Hugo Boss USA are committed to protecting the information that you share with us, and explaining how we collect, process, and share that information online.
 
-## 3 TYPES OF DATA HUGO BOSS COLLECTIONS, COLLECTION METHODS AND COLLECTION PURPOSES
+## What information does this Privacy Policy cover?
 
-Through the Site, we receive and collect data that you actively submit as well as data that we passively track:
+This Privacy Policy applies to Personal Information collected in the United States on: websites, mobile applications or in controlled widgets embedded in communication platforms with a link to this Privacy Policy (“Sites”). It also applies to Personal Information collected at freestanding Retail and Outlet stores operated by Hugo Boss Retail, Inc. It does not apply to any other information collected by HUGO BOSS Fashions, Inc. or Hugo Boss Retail, Inc. or its other United States based affiliates (“Hugo Boss USA”) through any other means. By “Personal Information,” we mean information that identifies you personally. It covers how we collect, use, and share that Personal Information as of the date that this Privacy Policy is posted. This Policy also doesn’t apply to any Sites maintained or operated by other companies, by any affiliates or subsidiaries or partners of Hugo Boss USA or otherwise linked to our Sites.
 
-_Actively Submitted Data:_ When you purchase products through our Site, sign up for a newsletter, participate in promotions, connect to or interact with the Site on or through a social network (e.g., Facebook, Google+, or Twitter), submit comments, reviews, or other user generated content, communicate with customer support representatives, or otherwise actively send us data, you are providing, and we collect, data such as your name, email address(es), billing address(es), delivery address(es), telephone number(s), social networking information, and credit card information. In each such instance, you will know what data we collect through the Site, because you actively submit it. We collect actively submitted data primarily for the purpose for which you originally sent us the data (for example, to sell and deliver products). We may also use this data internally as research data to improve our products and services, and for purposes of advertising, promoting, and informing you about products, services, initiatives, and events; you can opt out of receiving marketing emails as explained below.
+## You Consent to Transfer Your Personal Information to the United States
 
-_Passively Tracked Data and Cookies:_ When you visit the Site, we also passively track information on your computer and Internet connection, such as the IP address of your computer and/or Internet service provider, the date and time you access the Site, the Inter net address of websites from which you link to our Site, the computer technology you are using and your movements and preferences on our Site. We use technology that many other websites employ, including, without limitation, cookies, to collect information such as the aforementioned. We may also use such cookies to collect information i n connection with future visits from that Site, to recognize you as a previous visitor and to track your activity on the Site. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of the Site might not work without cookies. We reserve our right to also use other technologies such as Internet tags, web beacons, and navigational data collection tools (log files, server logs, or click stream). We collect passively tracked data primarily for purposes of administering, protecting and improving our Site and our systems, to better understand the preferences of our Site visitors, to identify server problems, to compile aggregated statistics about Site usage, to help personalize your experience of our Site and advertisements on other sites across the Inter net, and to personalize offers. Please see the advertising section below for more information about our online advertising practices and your choices.
+Hugo Boss USA is headquartered in the United States. If you decide to use this Site, your Personal Information may be transferred to the United States, and processed according to the terms described in this Privacy Policy. The laws in the United States may not be considered adequate by authorities in your home country. If you prefer not to have your Personal Information transferred to the United States, don’t use this Site. Otherwise, by using this Site, you expressly consent and authorize Hugo Boss to transfer your Personal Information to destinations outside your home country, and process it according to the terms of this Privacy Policy.
 
-_Combinations:_ We may combine passively tracked data with data that you actively submit and similar non-personal information that we receive from third party advertisers. We use this information, in part, to provide better service to Site visitors, customize the Site based on your preferences, compile and analyze statistics and trends, to otherwise administer and improve the Site for your use, and to personalize offers (for example, combined information may allow us to recommend products to you based on what you have liked in the past).
+## What types of Personal Information do we collect about our online visitors?
 
-## 4 DISCLOSURE OF PERSONAL INFORMATION
+We receive and store certain types of information from you whenever you interact with our Sites to deliver the products you request from us, and help improve your overall shopping experience. For example, like many other websites, we drop “cookies” and store other web-based files on user devices to get certain types of information when your web browser accesses our Site.
 
-We may sell, trade, or otherwise share your information with third parties for any reason. Without limiting the foregoing, we may also share your personal information with others as follows: 
+**Information You Provide.** We generally collect only Personal Information you voluntarily provide to us. We don't require you to give us Personal Information to access certain public areas of our Site. This is true unless you live in a country that defines Personal Information to include network identifiers like your Internet Protocol addresses. For some secure areas of our Site, however, we require you to provide Personal Information when you use specific features. For example, we collect Personal Information from you when you: 
 
-_Affiliates:_ We may share your information with our corporate affiliates including, without limitation, HUGO BOSS AG in Germany, so, among other things, that you may be informed of other products and/or services that may be of interest to you.
+  1. Ask to register with us online or at a Hugo Boss Retail Store1
+  2. Sign up for our newsletter2
+  3. Request we alert you when an item or type of item is back in stock
+  4. Participate in promotions or surveys
+  5. Submit comments, reviews, or other user-generated content
+  6. Connect or interact with us through social networks (e.g., Facebook, Google+, Twitter) or Live Chat
+  7. Request customer or technical support3
 
-_Service Providers:_ We also grant access to your information to affiliated and unaffiliated service providers and third parties that process or maintain data on our behalf, such as freight forwarders, carriers, technology service providers, social networks, and such individuals or companies that conduct, manage or otherwise handle our marketing and promotional campaigns. Such third parties are subject to strict confidentiality obligations and may access and use your personally identifiable information only in accordance with our instructions and not for their own purposes.
 
-_Third Party Communications:_ From time to time, we may share personal information with third parties to allow them to contact you regarding products, programs, services and promotions that they believe may be of interest to you. If you would prefer that we do not share personal information about you with such third parties for their marketing purposes, you may opt-out of receiving e-mails from us in accordance with Section 8, below.
 
-_E-mails to Friends:_ Please note that any personal information you provide in connection with sending messages regarding Site-related content to a friend through the Site, such as your name and your e- mail address, will be disclosed to your friend.
+This Personal Information, for example, may include your: 
 
-_Promotions:_ We may share the personal information you provide in connection with promotions with third-party sponsors of such promotions (irrespective of whether such promotions are hosted by us), or otherwise in accordance with the rules applicable to the particular promotion. You should carefully review the rules, if any, of each promotion in which you participate through the Site, as they may contain additional important information about a sponsor's or other third parties' use of personal information about you. To the extent that the terms and conditions of such rules concerning the treatment of personal information conflict with this Privacy Statement, the terms and conditions of such rules will control.
+  1. Name
+  2. Postal or billing address
+  3. Geolocation (depending on the settings of your mobile device)
+  4. E-mail address
+  5. Social Media account information (username and website)
+  6. Telephone or mobile number
+  7. Payment card information
 
-_Information Posted by Visitors:_ We may make available through the Site certain services (for example, message boards, chat functionality and blogs, among other services) to which you are able to post information and materials. Please note that any information you disclose through such services or otherwise on the Site becomes public information, and may be available to visitors to the Site and to the general public. In addition, when you choose to make a posting on such services, certain information, such as your user name, will be available for other users to view. We urge you to exercise discretion and caution when deciding to disclose personal information, or any other information, on the Site. We may disclose, distribute, and redistribute any information and materials that you post on the Site to social media and other cross promotional channels, to the extent per mitted by law. WE ARE NOT RESPONSIBLE FOR THE USE OF ANY INFORMATION YOU VOLUNTARILY DISCLOSE THROUGH THE SITE.
 
-_Legal Obligations:_ We may also share your information to (a) conform to the law, comply with legal process served on us or our corporate affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](https://store-us.hugoboss.com/Terms-Conditions/terms-conditions,en_US,pg.html), comply with contractual obligations to third parties, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of us and/or our corporate affiliates, our users or others.
 
-_Corporate Transactions:_ Finally, we may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.
+If you can’t or choose not to provide us with the Personal Information we reasonably require, we may be unable to provide you with the information or services you have requested.
 
-## ADVERTISING
+**Information Collected Through Technology.** We also obtain information in other ways through technology. Some of this information may be linked to you personally. This information helps our Sites function correctly and supports the work we do to understand the needs of our customers. Here are some examples.
 
-HUGO BOSS uses selected advertising partners to serve relevant ads on this Site and third party Internet sites. HUGO BOSS does not provide any personal information to these advertising partners to allow them to use such data on their own behalf. These advertising partners may, however, place their own cookies on your browser. You can choose not to allow advertising partners to use their cookies to serve you ads on third party Internet sites. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Our advertising partner is a member of the Network Advertising Initiative. You can opt-out of ad targeting from NAI member companies in a single location. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/managing/opt_out.asp). This Privacy Statement does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
+**Device Information.** Depending on the permissions you’ve granted and other factors, we may receive information about your location and your mobile device when you download or use apps created by our Sites, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, certain player search results, and other personalized content. Examples of the device information we may collect includes: 
 
-## ACCESS AND CORRECTION
+  * Attributes such as the operating system, hardware version, device settings, file and software names and types, battery and signal strength, and device identifiers.
+  * Device locations, including specific geographic locations, such as through GPS, Bluetooth, or WiFi signals.
+  * Connection information such as the name of your mobile operator or ISP, browser type, language and time zone, mobile phone number and IP address.
 
-Please keep your personally identifiable information, accurate, current, and complete by routinely updating your user profile or by contacting us as specified below.
 
-## SECURITY
 
-We take reasonable steps to protect personally identifiable information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. But, you should keep in mind that no Internet transmission is ever completely secure or error-free. In particular, e-mail sent to or from the Sites may not be secure.
+Most mobile devices allow you to turn off location services, and we encourage you to contact your device manufacturer for detailed instructions on how to do that. 
 
-## OPT-OUT, COMMUNICATION PREFERENCES
+**Payment Information.** If you purchase a product on our Site, we will collect payment card information from you, including your name, expiration date, authentication code, and billing address. We will securely transmit this information consistent with payment card industry rules to the appropriate payment facilitators. We may offer you the option to save information about the method and choice of payment on our Site. If you save this payment card information on our Site, you will be able to add, delete, or modify that information at any time using your account settings.
 
-You may modify your communication preferences and/or opt-out from specific communications at any time by (1) choosing the unsubscribe option in the e-mail, or (2) Click here Click here to adjust your privacy/communications settings. Please note that if you opt-out as described above, we will not be able to remove PII about you from the databases of third parties with which we have already shared PII as of the date that we implement your opt-out request. If you wish to cease receiving marketing-related e-mails from third parties, please contact such third parties directly or utilize any opt-out mechanisms set forth in their respective privacy policies or marketing-related e-mails.
+## Do we advertise online?
 
-## EFFECTIVE DATE, AMENDMENTS
+We advertise in a number of ways, including online through managed social media presences, and on other unaffiliated sites and mobile applications. To understand how our advertising campaigns are performing, we may collect certain information via our Sites through our advertising service providers. We or our vendors use several common online tracking tools to collect this information, such as browser and flash cookies, web beacons and other, similar technologies. The information we collect includes IP addresses, the number of page visits, pages viewed via our Sites, search engine referrals, browsing activities over time and across other websites following your visit to one of our Sites or applications, and responses to advertisements and promotions on the websites and applications where we advertise. We also use certain information to: 
 
-This Privacy Policy is effective January 8, 2014. We reserve the right to amend it from time to time and if we change it materially, we will post a revised version on the Site and notify you of any material changes by posting a link on the home page of our Site that says “Revised Privacy Statement.” Please check back periodically, and especially before you provide any personally identifiable information to us. We will also indicate a revised Effective Date at the top of this Privacy Statement and the changes in the Privacy Statement will not be effective until 30 days after first posting the revised version.
+  * Present tailored ads, including banner ads and splash ads that appear as you log-in or off of your online accounts via our Sites;
+  * Identify new visitors to our Sites;
+  * Recognize returning visitors;
+  * Advertise on other websites and mobile applications not affiliated with us;
+  * Analyze the effectiveness of our advertisements; 
+  * Better understand our audience, customers, or other Site visitors; and
+  * Determine whether you might be interested in new products or services.
 
-## LINKS TO OTHER WEB SITES
 
-This Site contains links and references to other web pages to which this Privacy Statement does not apply. We encourage you to read the privacy statement or policy of every web page you visit.
 
-## CONTACT US (REGARDING CALIFORNIA PRIVACY RIGHTS OR OTHER TOPICS)
+**Controlling Our Tracking Tools.** Our browser may give you the ability to control cookies. How you do so, however, depends on your browser and the type of cookie. Certain browsers can be set to reject all browser cookies. If you configure your computer to block all cookies, you may disrupt certain web page features and limit the functionality we can provide when you visit or use our Sites. If you block or delete cookies, not all of the tracking that we have described in this policy will stop. Some browsers have a “ **Do Not Track** ” feature that lets you tell websites that you do not want to have your online activities tracked. These browser features are still not uniform, so we are not currently set up to respond to those signals.
 
-Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this Statement as follows.
+**Controlling Online Interest-Based Ads.** We sometimes work with online advertising vendors to provide you with relevant and useful ads. This may include ads served on or through our Sites. This may also include ads served on other companies’ websites. These ads may be based on information collected by us or third parties. For example, your postal code may be used to target an ad for people in your area. These ads may also be based on your activities on our Sites or on third party websites. For more information about our ad service provider and its cookies, including information about how to opt out of these technologies, you may visit <http://www.aboutads.info/choices>. In addition, users may prevent Google’s collection of data generated by your use of the Sites (including your IP address) by downloading and installing a Browser Plugin available at <https://tools.google.com/dlpage/gaoptout?hl=en>. 
 
-California Civil Code Section 1798.83 permits HUGO BOSS customers who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [customerservice@hugoboss-store.com](mailto:customerservice@hugoboss-store.com) or write to us at:
+## How we use and share your Personal Information?
 
-HUGO BOSS FASHIONS, INC.
+We disclose Personal Information to external entities to perform support services for us and they may access your Personal Information for the purposes of performing those support services. We may also share what we know about you with unaffiliated third parties for our own or their own marketing purposes, or offer you the products and services of affiliated or unaffiliated third parties. To the extent legally permitted, we may combine your online information with information collected from offline sources or information we already have. We may also use and disclose certain Personal Information to our corporate affiliates as well as others for any purpose allowed by law.
 
-601 West 26th St, 8th Floor
+**Hugo Boss Business Activities.** We process and may disclose your Personal Information to others to:
 
-New York, NY 10001
+  * Respond to your questions, complaints, or reviews of our product or services;
+  * Administer contests, promotions, or surveys;
+  * Send you communications, including ads, electronic newsletters, or other offers or opportunities tailored to you;
+  * Enable our advertisers to provide you with more personalized content, and track the effectiveness of certain advertising campaigns;
+  * Comply with applicable law, obey judicial orders, cooperate with law enforcement authorities, or prevent any suspected illegal activities; 
+  * Help us run our business; or
+  * For any other everyday business purposes, such as product development and Site administration.
 
-## DO NOT TRACK SIGNALS
 
-We value your preferences and give you certain choices about the information you share with us. At this time, the Site does not respond to "do not track" signals or similar mechanisms. For more information about how you can opt-out from certain communication activities, please review Section 8 of this Privacy Statement. Additionally, as described in Section 5, you can opt-out of ad targeting from NAI member companies by visiting [here](http://www.networkadvertising.org/)
 
-. 
+**Authorized Service Providers.** We use other companies and individuals to perform certain functions on our behalf. Those functions include payment card processors, shipping vendors, third party logistic providers, call-center support, e commerce service providers, analyzing or hosting data on cloud-based servers, and other companies that help us provide and improve our products and services. We may disclose your Personal Information to these companies and other individuals performing services in the United States or other locations where Hugo Boss maintains a facility.
 
-## TECHNICAL INFORMATION
+**Sale of the Businesses.** If we sell all or part of our business, Personal Information may be transferred to the purchaser in connection with that transaction. We will use reasonable efforts to include contractual provisions that require the purchaser to treat your Personal Information consistent with the terms of this Privacy Policy. 
 
-The HUGO BOSS Online Store has been optimized for a screen resolution of 1024 x 768 px. You will also need a recent version of a browser such as Internet Explorer, Mozilla, Firefox, Safari or Opera. To enjoy the full range of features offered by the Online Store, you will also need a recent version of the Flash Player plug-in (version 9 or higher).
+**Other Disclosures.** We may otherwise disclose Personal Information as permitted or required by law, when we believe in good faith it is necessary for safety purposes, required for legal reporting, or to protect our legal rights or enforce our Terms of Use or any applicable rules, or to protect the rights of others. We may also disclose Personal Information to our auditors, legal advisors, or to respond to a subpoena or other law enforcement request. We may also aggregate information that we gather about you (e.g., online sales, traffic patterns) and provide these statistics to others in aggregate form. 
 
-## CHILDREN
+## What choices do you have about the collection, use, and sharing of your Personal Information?
 
-We do not knowingly or intentionally collect personal information from children under age 13. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
+If you signed up to receive newsletters or other marketing communications from us, you can opt-out any time by clicking the unsubscribe link at the bottom of the message. You can also log-in to your account to opt-out and update your marketing preferences at any time. Even after you opt-out or update your marketing preferences, please allow sufficient time to process your marketing preferences. It may take up to **10 days** to process your e-mail related requests, and up to 30 days for all other marketing-related requests. And even after you’ve opt-out of receiving marketing communications from us, we may still contact you for transactional or informational purposes. These include, for example, customer service issues, returns or product-related inquiries, surveys or recalls, or any questions regarding a specific order.
+
+## What kinds of security measures do we take to safeguard your Personal Information?
+
+The security and confidentiality of your Personal Information matters to us. That’s why we have technical, administrative, and physical controls in place to protect your Personal Information from unauthorized access, use, and disclosure. For example, we encrypt payment card information you submit to us using Secure Sockets Layer (“SSL”) technology that helps protect information during transport to our Site. Of course, we transmit the entire payment card number to the appropriate credit card company during order processing in accordance with payment card rules. We also review our security procedures periodically to consider appropriate new technology and updated methods. Even so, despite our reasonable efforts, no security measure is ever perfect or impenetrable.
+
+## How can you access, update, or block your Personal Information?
+
+You can update the Personal Information you provided to us by logging-in to your profile, and making the appropriate changes or corrections yourself. You can also contact us directly any time at the address below to update your Personal Information. If you wish to de-activate your account, you may do so by contacting our customer support team at customerservice-us@hugoboss.com Once you do so, your account will then be de-activated on a going-forward basis, although certain personal information may still be retained in accordance with our Record Retention Policy or to the extent necessary to comply with applicable law.
+
+You can opt-out of receiving HUGO BOSS marketing e-mails at any time by emailing your unsubscribe request to [customerservice-us@hugoboss.com.](mailto:customerservice-us@hugoboss.com)
+
+## Minors and Children Under 13
+
+Our Sites are not intended for minors. We do not knowingly collect any Personal Information from children under the age of 13 or knowingly track the use of our Sites by minors.
+
+## How can you file a complaint, ask questions, or send us comments about this Privacy Policy?
+
+If you have any questions, have a complaint, or wish to send us comments about this Privacy Policy, e-mail us at [customerservice-us@hugoboss.com.](mailto:customerservice-us@hugoboss.com) or call or write to us. We will investigate your complaint, and use reasonable efforts to respond to you as soon as possible. 
+
+Our postal address is:
+
+Hugo Boss Fashions, Inc.
+
+Attn.: Privacy Office
+
+55 Water Street, 48th Floor
+
+New York, NY 10041
+
+**For California Residents.** California Civil Code (section 1798.83) gives Hugo Boss customers who are California residents the right to request certain information about our disclosure of Personal Information to third parties for their own direct marketing purposes. If you wish to make this type of request, please e-mail, or write to us at the address provided above.
+
+## How will you know if we amend this Privacy Policy?
+
+We may amend this Privacy Policy at any time. If we make any material change to this privacy policy in regard to how we collect, use, disclose, or otherwise process Personal Information, we will prominently post the updated Privacy Policy. Any material changes to this Privacy Policy will be effective 10 days after our posting the updated Privacy Policy. Where required to do so by law, we may seek your prior consent to any material changes we make to this Privacy Policy. If you disagree with our Privacy Policy changes, you may de-activate your account., or opt out.
+
+  
+
+
+* * *
+
+1 <https://www.hugoboss.com/us/account?dwcont=C193708365>  
+2 [http://www.hugoboss.com/us/newsletter?email&utm_source=site&utm_medium=site&utm_campaign=email](http://www.hugoboss.com/us/newsletter?email&utm_source=site&utm_medium=site&utm_campaign=email)  
+3 <https://www.hugoboss.com/us/contactus#contactanker>
