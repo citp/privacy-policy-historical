@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onehub.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101025756id_/http%3A//www.onehub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehub.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610004708id_/http%3A//www.onehub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Onehub
 
@@ -25,11 +25,9 @@ You retain copyright and all other rights you already hold for the content you s
 
 ## Introduction
 
-Onehub Inc. (“Onehub”) operates web-based services at onehub.com. It is Onehub’s policy to respect your privacy regarding any information we may collect while operating our websites. This privacy policy describes the choices available to you regarding our use of the personal information we collect and how you can access and update this information.
+Onehub Inc. ("Onehub") operates web-based services at onehub.com. It is Onehub’s policy to respect your privacy regarding any information we may collect while operating our websites. This privacy policy describes the choices available to you regarding our use of the personal information we collect and how you can access and update this information.
 
-Onehub Inc. complies with the U.S. ‐ E.U. & Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union and Switzerland. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>.
-
-If you have questions or concerns regarding this Policy, contact info@onehub.com.
+Onehub Inc. complies with the U.S. ‐ E.U. & Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union and Switzerland. Onehub is built on Amazon Web Services (AWS). As an AWS customer, Onehub can continue to run its operations "[in full compliance with the EU Data Protection Directive (Directive 95/46/EC)](https://blogs.aws.amazon.com/security/post/Tx3QAALRNBIK9K1/Customer-Update-AWS-and-EU-Safe-Harbor)". For more information on this topic, visit [Amazon’s EU Data Protection FAQ](http://aws.amazon.com/compliance/eu-data-protection/).
 
 ## Website visitors
 
