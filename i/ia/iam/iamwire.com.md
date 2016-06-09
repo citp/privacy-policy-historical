@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamwire.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209045734id_/http%3A//www.iamwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamwire.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609195515id_/http%3A//www.iamwire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iamwire
 
@@ -123,7 +123,7 @@ We have implemented reasonable security measures and practices in an effort to p
 
 **Email or Text Message Communications**
 
-We may contact you by e-mail, text message or other equivalent electronic communications if you access iamwire products or services or register for events, or other content or services provided by iamwire. By visiting or using iamwire content, products or services, or registering for or attending iamwire events, you specifically consent to the receipt of these e-mail or text message communications. If you do not want to receive emails, text messages or other communications from us, please notify us by email at [info@iamwire.com](mailto:info@iamwire.com) and include sufficient information for us to identify your account, including your Name, Email Address (or Cellphone Number) and the specifics of your request. If you unsubscribe, iamwire may still contact you via email or text message for administrative purposes or concerning any products, services or events for which you have registered or are using.
+We may contact you by e-mail, text message or other equivalent electronic communications if you access iamwire products or services or register for events, or other content or services provided by iamwire. By visiting or using iamwire content, products or services, or registering for or attending iamwire events, you specifically consent to the receipt of these e-mail or text message communications. If you do not want to receive emails, text messages or other communications from us, please notify us by email at [info{at}iamwire.com](mailto:info@iamwire.com) and include sufficient information for us to identify your account, including your Name, Email Address (or Cellphone Number) and the specifics of your request. If you unsubscribe, iamwire may still contact you via email or text message for administrative purposes or concerning any products, services or events for which you have registered or are using.
 
 **Changes to the Privacy Policy**
 
@@ -131,12 +131,12 @@ iamwire retains the discretion to amend or modify this Privacy Policy from time 
 
 **How to Contact Us**
 
-iamwire welcomes any questions or comments you may have regarding this Privacy Policy or its implementation. Any such questions or comments should be submitted via email to [info@iamwire.com](mailto:info@iamwire.com) or directed to the address below. We will undertake reasonable efforts to resolve or address your concern.
+iamwire welcomes any questions or comments you may have regarding this Privacy Policy or its implementation. Any such questions or comments should be submitted via email to [info{at}iamwire.com](mailto:info@iamwire.com) or directed to the address below. We will undertake reasonable efforts to resolve or address your concern.
 
 **Corporate Office**
 
 Wirefoot India Technology Private Limited  
 SCO – 18, 2nd Floor, Housing Board Complex  
 Saraswati Vihar, Near MG Road  
-Gurgaon – 122001, Haryana, India  
+Gurgaon – 122002, Haryana, India  
 Phone: 0124-4004961
