@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eazework.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208204518id_/http%3A//www.eazework.com/resources/privacy-and-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eazework.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609200128id_/http%3A//www.eazework.com/resources/privacy-and-security.aspx) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
@@ -11,7 +11,7 @@ When you are given a user account you can create a login id and password that is
 
 ## Data Ownership
 
-As you use our application you will update information on your company, customers, processes, financial information, product information etc. All such information uploaded through your login id remains your sole and exclusive property. This information is also classified as Personal Information. Please note that the usage of EazeWork applications and services is governed by our [Terms of Service](https://web.archive.org/web/20151208204518id_/http%3A//www.eazework.com/resources/terms-of-service.aspx "Terms of Service"). 
+As you use our application you will update information on your company, customers, processes, financial information, product information etc. All such information uploaded through your login id remains your sole and exclusive property. This information is also classified as Personal Information. Please note that the usage of EazeWork applications and services is governed by our [Terms of Service](https://web.archive.org/web/20160609200128id_/http%3A//www.eazework.com/resources/terms-of-service.aspx "Terms of Service"). 
 
 ##  Cookies and Tracking Technology
 
@@ -55,9 +55,9 @@ You will have the opportunity to opt-in or opt-out of receiving communications f
 
 At EazeWork, protection of customer data and applications is of highest priority. We take all precautions to keep your data safe and secure. The platform is hosted at the state of the art data centre, using the latest firewall protection, intrusion detection systems, SSL encryption and proprietary security products and managed by a team of experts to keep customer data stored in a high security facility where even physical access is audited and controlled. All data is regularly backed up to ensure that your data is never lost, even in the worst of calamities.
 
-EazeWork provides a unique user name and password to each user that must be entered each time a User logs on. A session "cookie" is issued only to record encrypted authentication information for the duration of a specific session. The session "cookie" does not store either the username or password of the user or any other confidential user and session information, but instead implements more advanced security methods based on dynamic data and encoded session IDs. In addition, Secure Socket Layer (SSL) technology protects your information using both server authentication and data encryption while accessing our site using Google Chrome version 30.0, Microsoft Internet Explorer version 8.0 or higher, Safari version 5.0 and Mozilla Firefox v 28.0 or later.
+EazeWork provides a unique user name and password to each user that must be entered each time a User logs on. A session "cookie" is issued only to record encrypted authentication information for the duration of a specific session. The session "cookie" does not store either the username or password of the user or any other confidential user and session information, but instead implements more advanced security methods based on dynamic data and encoded session IDs. In addition, Secure Socket Layer (SSL) technology protects your information using both server authentication and data encryption while accessing our site using Latest two versions of Google Chrome, Microsoft Internet Explorer, Safari and Mozilla Firefox.
 
-Questions regarding the security practices of the Services should be emailed to [support@eazework.com](mailto:support@eazework.com).
+Questions regarding the security practices of the Services should be emailed to [vaibhav@eazework.com](mailto:vaibhav@eazework.com).
 
 ##  Data Backup
 
@@ -69,4 +69,4 @@ EazeWork may amend this policy from time to time, the amended policy will be pos
 
 ##  Contact Information
 
-EazeWork welcomes your comments regarding this privacy statement. If you believe that EazeWork has not adhered to this privacy statement, please contact EazeWork by email at [support@eazework.com](mailto:support@eazework.com), and we will promptly address the issue.
+EazeWork welcomes your comments regarding this privacy statement. If you believe that EazeWork has not adhered to this privacy statement, please contact EazeWork by email at [vaibhav@eazework.com](mailto:vaibhav@eazework.com), and we will promptly address the issue.
