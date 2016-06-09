@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the vpside.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223112115id_/http%3A//www.aplusapps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpside.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609033909id_/http%3A//www.aplusapps.com/privacy) for the most accurate reproduction.*
 
-# Privacy - ap.ps
+# Privacy | ap.ps
 
 Privacy
 
-Super apps dearly respects your privacy and is committed to safeguarding your privacy while online at Super apps. The following discloses how we go about gather and disseminate information for this site.
+We dearly respects your privacy and is committed to safeguarding your privacy while online. The following discloses how we go about gather and disseminate information for this site.
+
+Cookie Notice
+
+We use cookies to ensure that we give you the best experience on our website. We assume that you are happy with it, when you use this website.
 
 RSS Feeds and Email Updates
 
@@ -16,8 +20,8 @@ Like most blogging platforms we use web-based analytics. This stores information
 
 Links
 
-This site contains links to other sites. Please be aware that we are not responsible for the privacy practices of these other sites. We suggest users be aware of this when they leave Super apps and read the privacy statements of each and every site that collects personally identifiable information.
+This site contains links to other sites. Please be aware that we are not responsible for the privacy practices of these other sites. 
 
 Contact Information
 
-If you have any questions or concerns please [contact us](http://www.appssuper.com/contact-us/).
+If you have any questions or concerns please [contact us](https://web.archive.org/contact-us/).
