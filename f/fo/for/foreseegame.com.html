@@ -1,32 +1,37 @@
-<!--The following is the downloaded HTML source of the foreseegame.com privacy policy that was archived on 2015-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151128171020id_/http%3A//www.foreseegame.com/Static/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foreseegame.com privacy policy that was archived on 2016-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609164746id_/http%3A//www.foreseegame.com/Static/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head id="Head1"><title>
 	Privacy Policy
 </title><meta name="description" content="foreseegame.com, play thousands of prediction games online. Our gaming portal includes free forecasting games / prediction games related to sports, cricket, football, election, stock, reality show, weather prediction."><meta name="keywords" content="Foreseegame, 
 Play Free Online Games, Prediction Games, Predict &amp; Win Money Online, Gaming Portal, 
-Game of prediction, play and win cash reward, win cash online, Opinion Square"><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.foreseegame.com/MUser/Index.aspx">
-    <link href="http://rs.foreseegame.com/Resource/css/style.css?v=7.6" rel="stylesheet" type="text/css">
+Game of prediction, play and win cash reward, win cash online, Opinion Square">
+    
+    <link href="http://rs.foreseegame.com/Resource/css/style.css?v=9.2" rel="stylesheet" type="text/css">
     <link href="http://rs.foreseegame.com/Resource/css/BanHovEffects.css" rel="stylesheet" type="text/css">
     <link rel="shortcut icon" type="image/x-icon" href="http://rs.foreseegame.com/Resource/images/icon.ico">
     
-    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://rs.foreseegame.com/Resource/JS/jquery.js"></script>
+    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://rs.foreseegame.com/Resource/JS/jquery.js"></script>
     <script type="text/javascript" src="http://rs.foreseegame.com/Resource/JS/jquery.cycle.all.latest.js"></script>
     <script type="text/javascript" src="http://rs.foreseegame.com/Resource/JS/jcarousellite.js"></script>
     <script type="text/javascript" src="http://rs.foreseegame.com/Resource/JS/RollOver.js"></script>
-    <script type="text/javascript">
 
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-39292122-1']);
-        _gaq.push(['_trackPageview']);
+    
 
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-39292122-1', 'auto');
+        ga('send', 'pageview');
 
     </script>
+
 
     
 
@@ -141,87 +146,85 @@ Game of prediction, play and win cash reward, win cash online, Opinion Square"><
                 document.getElementById(id).value = 'Type your Email ID here'; //document.getElementById(id).style.color = '#c2c0c0';
                 RemoveMsg();
             }
-
-
-}
-
-
-$(function () {
-    $.fn.scrollBottom = function () {
-        return $(document).height() - this.scrollTop() - this.height();
-    };
-
-    var $el = $('#sidebar>div');
-    var $window = $(window);
-    var top = $el.parent().position().top;
-
-    $window.bind("scroll resize", function () {
-        var gap = $window.height() - $el.height() - 10;
-
-        var scrollTop = $window.scrollTop()
-
-        if (scrollTop < top + 430) {
-            $el.css({
-                top: (top - scrollTop) + "px",
-                bottom: "auto"
-
-            });
-
-        } else {
-            $el.css({
-                top: "auto",
-                bottom: 574,//140
-                // top: (top - scrollTop) + "px",
-                //bottom: "auto"
-            });
         }
-    }).scroll();
-});
-$(document).ready(function ($) {
-
-    $('#gameNavMenu').dcMegaMenu({
-        rowItems: '3',
-        speed: 'fast',
-        effect: 'fade'
-    });
+        function removespace(id, val) {
+            if (val.trim() == '' && id == 'txtSearch') {
+                document.getElementById(id).value = "";
+            }
+        }
 
 
+        $(function () {
+            $.fn.scrollBottom = function () {
+                return $(document).height() - this.scrollTop() - this.height();
+            };
+
+            var $el = $('#sidebar>div');
+            var $window = $(window);
+            var top = $el.parent().position().top;
+
+            $window.bind("scroll resize", function () {
+                var gap = $window.height() - $el.height() - 10;
+
+                var scrollTop = $window.scrollTop()
+
+                if (scrollTop < top + 430) {
+                    $el.css({
+                        top: (top - scrollTop) + "px",
+                        bottom: "auto"
+
+                    });
+
+                } else {
+                    $el.css({
+                        top: "auto",
+                        bottom: 574,//140
+                        // top: (top - scrollTop) + "px",
+                        //bottom: "auto"
+                    });
+                }
+            }).scroll();
+        });
+        $(document).ready(function ($) {
+
+            $('#gameNavMenu').dcMegaMenu({
+                rowItems: '3',
+                speed: 'fast',
+                effect: 'fade'
+            });
+            
+        });
+        function divon() {
+            document.getElementById("divLoader").style.display = 'block';
+            $('body').append('<div id="mask" class="mask"></div>');
+            $('#mask').fadeIn(5);
+        }
 
 
+        function checkEmail() {
+            var Email = document.getElementById('txtNewsletterEmail').value;
+            //  var emailPat = /^(\".*\"|[A-Za-z]\w*)@(\[\d{1,3}(\.\d{1,3}){3}]|[A-Za-z]\w*(\.[A-Za-z]\w*)+)$/
+            var emailPat = /^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$/
+            var EmailmatchArray = Email.match(emailPat);
+            if (Email == "Type your Email ID here") {
+                //alert("Please enter email address");
+                document.getElementById("MsgDiv").innerHTML = "Please enter email address!";
+                return false;
+            }
+            if (EmailmatchArray == null) {
+                // alert("Please enter valid email address");
+                document.getElementById("MsgDiv").innerHTML = "Please enter valid email address!";
+                return false;
+            }
+        }
 
-
-});
-function divon() {
-    document.getElementById("divLoader").style.display = 'block';
-    $('body').append('<div id="mask" class="mask"></div>');
-    $('#mask').fadeIn(5);
-}
-
-
-function checkEmail() {
-    var Email = document.getElementById('txtNewsletterEmail').value;
-    //  var emailPat = /^(\".*\"|[A-Za-z]\w*)@(\[\d{1,3}(\.\d{1,3}){3}]|[A-Za-z]\w*(\.[A-Za-z]\w*)+)$/
-    var emailPat = /^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$/
-    var EmailmatchArray = Email.match(emailPat);
-    if (Email == "Type your Email ID here") {
-        //alert("Please enter email address");
-        document.getElementById("MsgDiv").innerHTML = "Please enter email address!";
-        return false;
-    }
-    if (EmailmatchArray == null) {
-        // alert("Please enter valid email address");
-        document.getElementById("MsgDiv").innerHTML = "Please enter valid email address!";
-        return false;
-    }
-}
-
-function RemoveMsg() {
-    document.getElementById("MsgDiv").innerHTML = "";
-}
-function closeWin() {
-    //myWindow.close();
-    self.close();
-}
+        function RemoveMsg() {
+            document.getElementById("MsgDiv").innerHTML = "";
+        }
+        function closeWin() {
+            //myWindow.close();
+            self.close();
+        }
     </script>
     <style type="text/css">
         #sidebar > div {
@@ -296,6 +299,118 @@ function closeWin() {
             setTimeout("CityBoxShow_PreCity()", 3000);
         }
     </script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {   
+            var e = document.getElementById('ddlSearch');
+            var eval = e.options[e.selectedIndex].value;
+            SetSearchPlaceholderValue(eval);
+        });
+
+        function GetSelectedTextValue(ddlFruits) {
+            var selectedText = ddlFruits.options[ddlFruits.selectedIndex].innerHTML;
+            var selectedValue = ddlFruits.value;
+            var my_list = document.getElementById("SuggestedData");
+            my_list.innerHTML = null;
+
+            var Keyword = '';
+            var sessionType = '';
+          
+            if (Keyword != "") {
+
+                if (ddlFruits.selectedIndex != sessionType) {
+                    document.getElementById("txtSearch").value = "";
+                } else {
+                    document.getElementById("txtSearch").value = Keyword;
+                }
+            }
+
+            SetSearchPlaceholderValue(selectedValue);
+        }
+        function SuccessGetSuggestedData(result) {
+            var my_list = document.getElementById("SuggestedData");
+            my_list.innerHTML = result;
+           // populatefiltereddata();
+        }
+        function FailedGetSuggestedData(error) {
+            var my_list = document.getElementById("SuggestedData");
+            my_list.innerHTML = null;
+        }
+
+        function SetSearchPlaceholderValue(Type) {
+
+            $("#txtSearch").removeAttr("placeholder");
+            if (Type == "All")
+                $("#txtSearch").attr("placeholder", "Search");
+            if (Type == "Brands")
+                $("#txtSearch").attr("placeholder", "Search brand");
+            if (Type == "Products")
+                $("#txtSearch").attr("placeholder", "Search product");
+            if (Type == "Categories")
+                $("#txtSearch").attr("placeholder", "Search category");
+        }
+
+        /*function populatefiltereddata() {
+
+            var text = document.getElementById("txtSearch.ClientID").value;
+            var txt = null;
+            var length = 1;
+            var x = document.getElementById("SuggestedData");
+            var i;
+
+            for (i = 0; i < x.options.length; i++) {
+
+                if (length == 13)
+                    break;
+
+                if (x.options[i].value.toUpperCase().indexOf(text.toUpperCase()) == 0 && text.trim() != "") {
+                    txt = txt + "<option value='" + x.options[i].value + "' />";
+                    length++;
+                }
+            }
+
+            if (txt != null)
+                document.getElementById("SuggestedData").innerHTML = txt;
+            else
+                document.getElementById("SuggestedData").innerHTML = null;
+        }*/
+        function myFunction(event,typetext) {
+
+            var x = event.which || event.keyCode;
+            
+            if ((x >= 48 && x <= 90) || x == 8 || x == 32 || x == 191 || x == 190) {
+
+                if (document.getElementById("ddlSearch").value != "All" && document.getElementById("txtSearch").value != "") {
+
+                   // var my_list = document.getElementById("SuggestedData");
+                   // my_list.innerHTML = null;
+
+                    AutoComplete.GetSuggestedData(document.getElementById("ddlSearch").value, typetext, SuccessGetSuggestedData, FailedGetSuggestedData, null);
+
+                } else {
+                    document.getElementById("SuggestedData").innerHTML = null;
+                }
+            }
+        }
+        function txt_blur(id, val) {
+
+            if (val == '' && id == 'txtFeedbackName') {
+                document.getElementById(id).value = 'Type your Name here'; //document.getElementById(id).style.color = '#c2c0c0';
+            }
+            else if (val == '' && id == 'txtFeedbackEmail') {
+                document.getElementById(id).value = 'Type your Email Id here';// document.getElementById(id).style.color = '#c2c0c0';
+            }
+            else if (val == '' && id == 'txtFeedbackComments') {
+                document.getElementById(id).value = 'Type your Feedback here'; //document.getElementById(id).style.color = '#c2c0c0';
+            }
+            else if (val == '' && id == 'txtNewsletterEmail') {
+                document.getElementById(id).value = 'Type your Email ID here'; //document.getElementById(id).style.color = '#c2c0c0';
+                RemoveMsg();
+            }
+        }
+    </script>   
+          
+    
 </head>
 <body>
     <!-- Start Alexa Certify Javascript -->
@@ -311,7 +426,7 @@ function closeWin() {
     
     
     <form method="post" action="/Static/PrivacyPolicy" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg4MTAyMTU0OA9kFgJmDw8WAh4GR2FtZUlkBQEwZBYEAgEPFgIeBmFjdGlvbgUVL1N0YXRpYy9Qcml2YWN5UG9saWN5FgwCBA8PZBYCHgpvbmtleXByZXNzBSdyZXR1cm4gY29udHJvbEVudGVyKCdidG5TZWFyY2gnLCBldmVudClkAgUPDxYCHghJbWFnZVVybAU+aHR0cDovL3JzLmZvcmVzZWVnYW1lLmNvbS9SZXNvdXJjZS9pbWFnZXMvZmx1aWRVSS9zZWFyY2gyMi5wbmdkZAIJDxYCHglpbm5lcmh0bWwFkBc8bGk+PGEgaHJlZj0naHR0cDovL3d3dy5mb3Jlc2VlZ2FtZS5jb20vZ2FtZXMvVGVsZS1UYWxrL0NhdGVnb3JpZXMvZTVhNzU2M2I1ZjAyM2JmYTM3Yjg2NzJlYTUyMzRjNmEnPlRlbGUgVGFsazwvYT4KPHVsIGNsYXNzPSdtZW51c3R5bGUnPjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9CZW5nYWwtU2luZ2luZy1TdGFyL0NhdGVnb3JpZXMvZTVhNzU2M2I1ZjAyM2JmYTZjZTY4ZDUzMTYwN2Q5MTc1MjQyYWE4MTIxOTVhNmFjNDA0YmU1OGUwZDliMzg5NCc+QmVuZ2FsIFNpbmdpbmcgU3RhcjwvYT48L2xpPgo8bGk+PGEgaHJlZj0naHR0cDovL3d3dy5mb3Jlc2VlZ2FtZS5jb20vZ2FtZXMvQmlnLUJvc3MvQ2F0ZWdvcmllcy9lNWE3NTYzYjVmMDIzYmZhYTZiNzRiMmIzZjc0MmI3NjQ2YmJhYTljNDJlZjM4M2QnPkJpZyBCb3NzPC9hPjwvbGk+CjwvdWw+CjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL0F3YXJkcy0mLUNvbnRlc3RzL0NhdGVnb3JpZXMvYTM4YmQ0YzJmMjJjMTExYzgyYWIzYzA1YzQ1OGJhYTEwNjMwOTMzNThiNGJkZTQ5Jz5Bd2FyZHMgJiBDb250ZXN0czwvYT4KPHVsIGNsYXNzPSdtZW51c3R5bGUnPjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9Xb3JsZC1Eb2N1bWVudGFyeS1Bd2FyZHMvQ2F0ZWdvcmllcy9hMzhiZDRjMmYyMmMxMTFjODJhYjNjMDVjNDU4YmFhMWVmOGZlMjZjNTZkNmEwYWNiMzU3ZTdhNDJiNTNkZjdhNGI1NzAzZTljY2IxM2Y3N2I3YzU5OTNhZDJkZTExZDYnPldvcmxkIERvY3VtZW50YXJ5IEF3YXJkczwvYT48L2xpPgo8bGk+PGEgaHJlZj0naHR0cDovL3d3dy5mb3Jlc2VlZ2FtZS5jb20vZ2FtZXMvVW5pdmVyc2FsLUJlYXV0eS1QYWdlYW50L0NhdGVnb3JpZXMvYTM4YmQ0YzJmMjJjMTExYzgyYWIzYzA1YzQ1OGJhYTE0NTk3NTRlNjU0NGE5M2RkNjQ2NjY0Mjc4OWE2MDEyM2U4YzQ2M2MwZjNkM2E0ZmQ4NWNjNzA4ZWFiOTA0M2M0Jz5Vbml2ZXJzYWwgQmVhdXR5IFBhZ2VhbnQ8L2E+PC9saT4KPGxpPjxhIGhyZWY9J2h0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL1dvcmxkLUJlYXV0eS1wYWdlYW50L0NhdGVnb3JpZXMvYTM4YmQ0YzJmMjJjMTExYzgyYWIzYzA1YzQ1OGJhYTFlZjhmZTI2YzU2ZDZhMGFjOGJiNDg1OWFjNmM4MmU5Y2I5M2NjYzQ3ZDNkZDdiMzYnPldvcmxkIEJlYXV0eSBwYWdlYW50PC9hPjwvbGk+CjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9FYXJ0aC1CZWF1dHktUGFnZWFudC9DYXRlZ29yaWVzL2EzOGJkNGMyZjIyYzExMWM4MmFiM2MwNWM0NThiYWExNWE1ODY2MTBjOWQyZGQ0YzQwNDc1NTRiNzgzZThlNjJjOThjMzZiMWIxNzFkMTZjJz5FYXJ0aCBCZWF1dHkgUGFnZWFudDwvYT48L2xpPgo8bGk+PGEgaHJlZj0naHR0cDovL3d3dy5mb3Jlc2VlZ2FtZS5jb20vZ2FtZXMvVHJhdmVsLUF3YXJkcy9DYXRlZ29yaWVzL2EzOGJkNGMyZjIyYzExMWM4MmFiM2MwNWM0NThiYWExOTNiZjQwYjFhZmUyYmEwYmRjYWEwMmQ3MDYyM2QyN2MnPlRyYXZlbCBBd2FyZHM8L2E+PC9saT4KPC91bD4KPC9saT48bGk+PGEgaHJlZj0naHR0cDovL3d3dy5mb3Jlc2VlZ2FtZS5jb20vZ2FtZXMvU3BvcnRzL0NhdGVnb3JpZXMvZTNjMTgyMGQ4MGMyYTZmMCc+U3BvcnRzPC9hPgo8dWwgY2xhc3M9J21lbnVzdHlsZSc+PGxpPjxhIGhyZWY9J2h0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL1NxdWFzaC9DYXRlZ29yaWVzL2FhMmUyMjdjNGJhNTkwZGZlYzQ4ODMwZjY2NDMxMWM4Jz5TcXVhc2g8L2E+PC9saT4KPGxpPjxhIGhyZWY9J2h0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL1Rlc3QtU2VyaWVzL0NhdGVnb3JpZXMvYmNjZGI0Y2FlNDk2YmViN2MxMGZiMWQ5YWI0ZDZlYjEyYzFkNjhjMjkwNTZiNDY2Jz5UZXN0IFNlcmllczwvYT48L2xpPgo8bGk+PGEgaHJlZj0naHR0cDovL3d3dy5mb3Jlc2VlZ2FtZS5jb20vZ2FtZXMvSW5kaWFuLVNvY2Nlci1MZWFndWUvQ2F0ZWdvcmllcy84MTY3MTNhOWQ5MzliNzU2M2ZkM2MwZWNkYmJkODU3ODY1YTNiOGIzMTljODcwMGViNTE0ZDVmMDJjZDcyNjliJz5JbmRpYW4gU29jY2VyIExlYWd1ZTwvYT48L2xpPgo8bGk+PGEgaHJlZj0naHR0cDovL3d3dy5mb3Jlc2VlZ2FtZS5jb20vZ2FtZXMvVGVubmlzL0NhdGVnb3JpZXMvYmNjZGI0Y2FlNDk2YmViNzEwMTlhNjcyZjU0YjJmMDcnPlRlbm5pczwvYT48L2xpPgo8bGk+PGEgaHJlZj0naHR0cDovL3d3dy5mb3Jlc2VlZ2FtZS5jb20vZ2FtZXMvR3JhbmQtUHJpeC9DYXRlZ29yaWVzLzQyODNlNjhmZWEwYzZmMWRjZWRiMGFhYmQ4NzYyYTVlZTJmMDExMWFjOTU5OGJkOSc+R3JhbmQgUHJpeDwvYT48L2xpPgo8bGk+PGEgaHJlZj0naHR0cDovL3d3dy5mb3Jlc2VlZ2FtZS5jb20vZ2FtZXMvQ3JpY2tldC1Ub3VybmFtZW50L0NhdGVnb3JpZXMvZDc5YjBlMGQ1MzJlMTM0OWRjZGY1MzViMWQ3Y2EzYTJkNTQwMDY1MTYwYzgxZjVhYzIzNDM2MWJlZGI3OWIxYSc+Q3JpY2tldCBUb3VybmFtZW50PC9hPjwvbGk+CjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9Tb2NjZXIvQ2F0ZWdvcmllcy9hYTJlMjI3YzRiYTU5MGRmNTcyOTRmODU1ODAyMWNiOSc+U29jY2VyPC9hPjwvbGk+CjwvdWw+CjwvbGk+PGxpIHN0eWxlPSdsaXN0LXN0eWxlOm5vbmU7IGJvcmRlcjpub25lOyB3aWR0aDo0NDBweDsnPjxhIGhyZWY9J2h0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL0FsbENhdGVnb3JpZXMnIHN0eWxlPSdwYWRkaW5nOjNweDtmbG9hdDpyaWdodDsgY29sb3I6I2ZmZjsgdGV4dC1kZWNvcmF0aW9uOm5vbmU7IG1hcmdpbi10b3A6OHB4O21hcmdpbi1sZWZ0OjQ1cHg7YmFja2dyb3VuZDojMDM1ZTg4O3RleHQtYWxpZ246Y2VudGVyOyB3aWR0aDo3MHB4Oyc+TU9SRTwvYT48L2xpPmQCCg8WAh8EBfAHPGxpPjxzcGFuIHN0eWxlPSdjb2xvcjojYjcwMTAxO3RleHQtdHJhbnNmb3JtOnVwcGVyY2FzZTsgZm9udC1zaXplOjE0cHg7IGZvbnQtd2VpZ2h0OmJvbGQ7Jz5DYXNoIFJld2FyZDwvc3Bhbj4KPHVsIGNsYXNzPSdtZW51c3R5bGUnPjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9DYXNoL1Byb2R1Y3RzLzY1NWRjMjIzNWVkZTFjNzknPkNhc2g8L2E+PC9saT4KPC91bD4KPC9saT48bGk+PHNwYW4gc3R5bGU9J2NvbG9yOiNiNzAxMDE7dGV4dC10cmFuc2Zvcm06dXBwZXJjYXNlOyBmb250LXNpemU6MTRweDsgZm9udC13ZWlnaHQ6Ym9sZDsnPkVkdWNhdGlvbjwvc3Bhbj4KPHVsIGNsYXNzPSdtZW51c3R5bGUnPjxsaT48YSBocmVmPSdodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9FZHVjYXRpb24vUHJvZHVjdHMvNThjNWJjMGE3NTIzZDU1YjUwZDI2MDdiMzdkNTI2ODEnPkVkdWNhdGlvbjwvYT48L2xpPgo8L3VsPgo8L2xpPjxsaT48c3BhbiBzdHlsZT0nY29sb3I6I2I3MDEwMTt0ZXh0LXRyYW5zZm9ybTp1cHBlcmNhc2U7IGZvbnQtc2l6ZToxNHB4OyBmb250LXdlaWdodDpib2xkOyc+TWVkaWE8L3NwYW4+Cjx1bCBjbGFzcz0nbWVudXN0eWxlJz48bGk+PGEgaHJlZj0naHR0cDovL3d3dy5mb3Jlc2VlZ2FtZS5jb20vZ2FtZXMvV2ViLVBvcnRhbC9Qcm9kdWN0cy9hNDk2ZTUxNzY0MTQyYTFkMjQ2MDg1NjIzMDNmMDljZSc+V2ViIFBvcnRhbDwvYT48L2xpPgo8L3VsPgo8L2xpPjxsaSBzdHlsZT0nbGlzdC1zdHlsZTpub25lOyB3aWR0aDo0NDBweDsnPjxhIGhyZWY9J2h0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL0FsbFByb2R1Y3RzJyBzdHlsZT0ncGFkZGluZzozcHg7IGNvbG9yOiNmZmY7IGZsb2F0OnJpZ2h0OyB0ZXh0LWRlY29yYXRpb246bm9uZTsgbWFyZ2luLXRvcDo4cHg7bWFyZ2luLWxlZnQ6NDVweDtiYWNrZ3JvdW5kOiMwMzVlODg7dGV4dC1hbGlnbjpjZW50ZXI7IHdpZHRoOjcwcHg7Jz5NT1JFPC9hPjwvbGk+ZAILD2QWAgIBD2QWBAIDDxYCHwQFsAM8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+DQokKHdpbmRvdykubG9hZChmdW5jdGlvbiAoKSB7DQogICAgICAgICAgICAgICAgICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsgJCgnI0NvbnRlbnRQbGFjZUhvbGRlcjJfZHZTcG9uTG9nbycpLmh0bWwoIjxkaXYgY2xhc3M9J3NsaWRlc2hvdyc+PGltZyBzcmM9J2h0dHA6Ly9ycy5mb3Jlc2VlZ2FtZS5jb20vVXBsb2FkL1RvcFJpZ2h0L1JpZ2h0VG9wUGFuZWxfSTFfMDYxNzEzMTYxNDA4LmpwZycgd2lkdGg9JzIzMCcgaGVpZ2h0PScxNDknIHN0eWxlPSdib3JkZXI6MHB4OycvPjwvZGl2PiIpOyB9LCA1MDApOyANCnNldFRpbWVvdXQoZnVuY3Rpb24gKCkgeyAkKCcuc2xpZGVzaG93JykuY3ljbGUoeyBmeDogJ2ZhZGUnLCBkZWxheTogLTQwMDAgfSk7fSwgMTAwMCk7fSk7DQo8L3NjcmlwdD5kAgQPFgIfBAWBBjxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz4NCiQod2luZG93KS5sb2FkKGZ1bmN0aW9uICgpIHsNCiAgICAgICAgICAgICAgICAgICAgICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgeyAkKCcjQ29udGVudFBsYWNlSG9sZGVyMl9kdlJpZ2h0UGFuZWwnKS5odG1sKCI8ZGl2IGNsYXNzPSdyX2Jhbic+PGEgaHJlZj0naHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5taGJsLnNhc3Rhc3VuZGFyJmhsPWVuJyB0YXJnZXQ9JyBfYmxhbmsnIHN0eWxlPSdib3JkZXI6MHB4Oyc+PGltZyBzcmM9J2h0dHA6Ly9ycy5mb3Jlc2VlZ2FtZS5jb20vVXBsb2FkL0lubmVyUmlnaHRQYW5lbC9Jbm5lclJpZ2h0UGFuZWxfSTFMXzExMjUxNTE5MDUwNC5wbmcnIHdpZHRoPScyNTAnIGhlaWdodD0nNjAwJyBzdHlsZT0nYm9yZGVyOjBweDsnLz48L2E+PC9kaXY+PGRpdiBjbGFzcz0ncl9iYW4nPjxhIGhyZWY9J2h0dHBzOi8vcGxheS5nb29nbGUuY29tL3N0b3JlL2FwcHMvZGV0YWlscz9pZD1jb20uZm9yZXNlZWdhbWUuYXBwJmhsPWVuJyB0YXJnZXQ9JyBfYmxhbmsnIHN0eWxlPSdib3JkZXI6MHB4Oyc+PGltZyBzcmM9J2h0dHA6Ly9ycy5mb3Jlc2VlZ2FtZS5jb20vVXBsb2FkL0lubmVyUmlnaHRQYW5lbC9Jbm5lclJpZ2h0UGFuZWxfSTFNXzExMTIxNTEwMTM0My5wbmcnIHdpZHRoPScyNTAnIGhlaWdodD0nMzUwJyBzdHlsZT0nYm9yZGVyOjBweDsnLz48L2E+PC9kaXY+Iik7IH0sIDUwMCk7IA0KfSk7DQo8L3NjcmlwdD5kAg0PZBYEZg9kFgICAQ8WAh4EVGV4dAWaCTxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL0Fhc2Fhbi9CcmFuZHMvYzgzMDJmYmJjOWRlMTQ4MiI+QWFzYWFuPC9hPiB8IDxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL1plcm90b3gvQnJhbmRzL2M1NTk2ZWE3OTVhMDExOWEiPlplcm90b3g8L2E+IHwgPGEgdGFyZ2V0PSdfc2VsZicgaHJlZj0iaHR0cDovL3d3dy5mb3Jlc2VlZ2FtZS5jb20vZ2FtZXMvSGFuZHl3YXJlL0JyYW5kcy9kMTQzOTQ4MGIwODJkNTViNGIyNmEyMDlmOTA0MThhZSI+SGFuZHl3YXJlPC9hPiB8IDxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL0dvbWF4L0JyYW5kcy9jOTczOWE2ZjUwZDQxNTdjIj5Hb21heDwvYT4gfCA8YSB0YXJnZXQ9J19zZWxmJyBocmVmPSJodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9Gb3Jlc2VlZ2FtZS9CcmFuZHMvMGFjMmU2MDIyYTgxNWEzY2NjODI4MzU4OTQzMGU2Y2QiPkZvcmVzZWVnYW1lPC9hPiB8IDxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL1Nhc3RhU3VuZGFyLmNvbS9CcmFuZHMvNDJmMDY5NGYzOWViNzUzMGM0OWIyMDhiZjUyMzhkZjkiPlNhc3Rhc3VuZGFyLmNvbTwvYT4gfCA8YSB0YXJnZXQ9J19zZWxmJyBocmVmPSJodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9PcGluaW9uLVNxdWFyZS9DYXRlZ29yaWVzL2Y0YjFlZDA0NzI0NzA4MmE2ZmMxM2UwNTA5NmUwNzNkIj5PcGluaW9uIFNxdWFyZTwvYT4gfCA8YSB0YXJnZXQ9J19zZWxmJyBocmVmPSJodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9BbGxQcm9kdWN0cyI+V2luIHByb2R1Y3RzPC9hPiB8IDxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL0Nhc2gtUmV3YXJkL1Byb2R1Y3RzLzk0MjI0YmVhMGM4YjRlYWFlNDMxYzg3M2Y2NjNlMmMyIj5DYXNoIHJld2FyZDwvYT4gfCA8YSB0YXJnZXQ9J19zZWxmJyBocmVmPSJodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9UcmVhc3VyZS1IdW50L0NhdGVnb3JpZXMvOWNlMDVlY2Y2MmIzYWNiNTZhYzVjNjA4MDNhODg5ZDgiPlRyZWFzdXJlIEh1bnQ8L2E+ZAIBDw8WAh4HRW5hYmxlZGhkZAIEDxYCHwQF/wM8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+LyogPCFbQ0RBVEFbICovIHZhciBnb29nbGVfY29udmVyc2lvbl9pZCA9IDkzNTY3ODU5MTt2YXIgZ29vZ2xlX2N1c3RvbV9wYXJhbXMgPSB3aW5kb3cuZ29vZ2xlX3RhZ19wYXJhbXM7dmFyIGdvb2dsZV9yZW1hcmtldGluZ19vbmx5ID0gdHJ1ZTsgLyogXV0+ICovIDwvc2NyaXB0PjxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyBzcmM9Jy8vd3d3Lmdvb2dsZWFkc2VydmljZXMuY29tL3BhZ2VhZC9jb252ZXJzaW9uLmpzJz48L3NjcmlwdD48bm9zY3JpcHQ+PGRpdiBzdHlsZT0nZGlzcGxheTppbmxpbmU7Jz48aW1nIGhlaWdodD0nMScgd2lkdGg9JzEnIHN0eWxlPSdib3JkZXItc3R5bGU6bm9uZTsnIGFsdD0nJyBzcmM9Jy8vZ29vZ2xlYWRzLmcuZG91YmxlY2xpY2submV0L3BhZ2VhZC92aWV3dGhyb3VnaGNvbnZlcnNpb24vOTM1Njc4NTkxLz92YWx1ZT0wJmFtcDtndWlkPU9OJmFtcDtzY3JpcHQ9MCcvPjwvZGl2Pjwvbm9zY3JpcHQ+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUPY3RsMDAkYnRuU2VhcmNoba65DHk2k0SXAuJy2WO/6eGw1aMOXm+Xm8BuPRdme2I=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg4MTAyMTU0OA9kFgJmDw8WAh4GR2FtZUlkBQEwZBYEAgEPFgIeBmFjdGlvbgUVL1N0YXRpYy9Qcml2YWN5UG9saWN5FggCBA8PZBYCHgpvbmtleXByZXNzBSdyZXR1cm4gY29udHJvbEVudGVyKCdidG5TZWFyY2gnLCBldmVudClkAgUPDxYCHghJbWFnZVVybAU/aHR0cDovL3JzLmZvcmVzZWVnYW1lLmNvbS9SZXNvdXJjZS9pbWFnZXMvZmx1aWRVSS9zZWFyY2gyMmEucG5nZGQCCQ9kFgICAQ9kFgYCAg8WAh4JaW5uZXJodG1sBa8EPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPg0KJCh3aW5kb3cpLmxvYWQoZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgICAgICAgICAgICAgc2V0VGltZW91dChmdW5jdGlvbiAoKSB7ICQoJyNDb250ZW50UGxhY2VIb2xkZXIyX2R2Qm90dG9tUGFuZWwnKS5odG1sKCI8ZGl2IGNsYXNzPSdzbGlkZXNob3cnPjxhIGhyZWY9J2h0dHBzOi8vcGxheS5nb29nbGUuY29tL3N0b3JlL2FwcHMvZGV0YWlscz9pZD1jb20ubWhibC5zYXN0YXN1bmRhcicgdGFyZ2V0PScgX2JsYW5rJyBzdHlsZT0nYm9yZGVyOjBweDsnPjxpbWcgc3JjPSdodHRwOi8vcnMuZm9yZXNlZWdhbWUuY29tL1VwbG9hZC9Jbm5lckJvdHRvbVBhbmVsL0JvdHRvbVBhbmVsX0kxXzA1MjUxNjEzMjM1My5qcGcnIHdpZHRoPSc3MDcnIGhlaWdodD0nMTc4JyBzdHlsZT0nYm9yZGVyOjBweDsnLz48L2E+PC9kaXY+Iik7IH0sIDUwMCk7IA0Kc2V0VGltZW91dChmdW5jdGlvbiAoKSB7ICQoJy5zbGlkZXNob3cnKS5jeWNsZSh7IGZ4OiAnZmFkZScsIGRlbGF5OiAtNDAwMCB9KTt9LCAxMDAwKTt9KTsNCjwvc2NyaXB0PmQCAw8WAh8EBbADPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPg0KJCh3aW5kb3cpLmxvYWQoZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgICAgICAgICAgICAgc2V0VGltZW91dChmdW5jdGlvbiAoKSB7ICQoJyNDb250ZW50UGxhY2VIb2xkZXIyX2R2U3BvbkxvZ28nKS5odG1sKCI8ZGl2IGNsYXNzPSdzbGlkZXNob3cnPjxpbWcgc3JjPSdodHRwOi8vcnMuZm9yZXNlZWdhbWUuY29tL1VwbG9hZC9Ub3BSaWdodC9SaWdodFRvcFBhbmVsX0kxXzA2MTcxMzE2MTQwOC5qcGcnIHdpZHRoPScyMzAnIGhlaWdodD0nMTQ5JyBzdHlsZT0nYm9yZGVyOjBweDsnLz48L2Rpdj4iKTsgfSwgNTAwKTsgDQpzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsgJCgnLnNsaWRlc2hvdycpLmN5Y2xlKHsgZng6ICdmYWRlJywgZGVsYXk6IC00MDAwIH0pO30sIDEwMDApO30pOw0KPC9zY3JpcHQ+ZAIEDxYCHwQFmAY8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+DQokKHdpbmRvdykubG9hZChmdW5jdGlvbiAoKSB7DQogICAgICAgICAgICAgICAgICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsgJCgnI0NvbnRlbnRQbGFjZUhvbGRlcjJfZHZSaWdodFBhbmVsJykuaHRtbCgiPGRpdiBjbGFzcz0ncl9iYW4nPjxhIGhyZWY9J2h0dHA6Ly93d3cuc2FzdGFzdW5kYXIuY29tL2luZGV4LnBocC9wcm9kdWN0L3NlYXJjaD9zZWFyY2hUZXh0PWFhc2FhbitmbG9vcnMrJTI2K3RpbGVzK3NjcnViYmVyJyB0YXJnZXQ9JyBfYmxhbmsnIHN0eWxlPSdib3JkZXI6MHB4Oyc+PGltZyBzcmM9J2h0dHA6Ly9ycy5mb3Jlc2VlZ2FtZS5jb20vVXBsb2FkL0lubmVyUmlnaHRQYW5lbC9Jbm5lclJpZ2h0UGFuZWxfSTFMXzA2MDYxNjE1Mzk0Ny5qcGcnIHdpZHRoPScyNTAnIGhlaWdodD0nNjAwJyBzdHlsZT0nYm9yZGVyOjBweDsnLz48L2E+PC9kaXY+PGRpdiBjbGFzcz0ncl9iYW4nPjxhIGhyZWY9J2h0dHBzOi8vcGxheS5nb29nbGUuY29tL3N0b3JlL2FwcHMvZGV0YWlscz9pZD1jb20uZm9yZXNlZWdhbWUuYXBwJmhsPWVuJyB0YXJnZXQ9JyBfYmxhbmsnIHN0eWxlPSdib3JkZXI6MHB4Oyc+PGltZyBzcmM9J2h0dHA6Ly9ycy5mb3Jlc2VlZ2FtZS5jb20vVXBsb2FkL0lubmVyUmlnaHRQYW5lbC9Jbm5lclJpZ2h0UGFuZWxfSTFNXzExMTIxNTEwMTM0My5wbmcnIHdpZHRoPScyNTAnIGhlaWdodD0nMzUwJyBzdHlsZT0nYm9yZGVyOjBweDsnLz48L2E+PC9kaXY+Iik7IH0sIDUwMCk7IA0KfSk7DQo8L3NjcmlwdD5kAgsPZBYEZg9kFgICAQ8WAh4EVGV4dAWaCTxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL0Fhc2Fhbi9CcmFuZHMvYzgzMDJmYmJjOWRlMTQ4MiI+QWFzYWFuPC9hPiB8IDxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL1plcm90b3gvQnJhbmRzL2M1NTk2ZWE3OTVhMDExOWEiPlplcm90b3g8L2E+IHwgPGEgdGFyZ2V0PSdfc2VsZicgaHJlZj0iaHR0cDovL3d3dy5mb3Jlc2VlZ2FtZS5jb20vZ2FtZXMvSGFuZHl3YXJlL0JyYW5kcy9kMTQzOTQ4MGIwODJkNTViNGIyNmEyMDlmOTA0MThhZSI+SGFuZHl3YXJlPC9hPiB8IDxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL0dvbWF4L0JyYW5kcy9jOTczOWE2ZjUwZDQxNTdjIj5Hb21heDwvYT4gfCA8YSB0YXJnZXQ9J19zZWxmJyBocmVmPSJodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9Gb3Jlc2VlZ2FtZS9CcmFuZHMvMGFjMmU2MDIyYTgxNWEzY2NjODI4MzU4OTQzMGU2Y2QiPkZvcmVzZWVnYW1lPC9hPiB8IDxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL1Nhc3RhU3VuZGFyLmNvbS9CcmFuZHMvNDJmMDY5NGYzOWViNzUzMGM0OWIyMDhiZjUyMzhkZjkiPlNhc3Rhc3VuZGFyLmNvbTwvYT4gfCA8YSB0YXJnZXQ9J19zZWxmJyBocmVmPSJodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9PcGluaW9uLVNxdWFyZS9DYXRlZ29yaWVzL2Y0YjFlZDA0NzI0NzA4MmE2ZmMxM2UwNTA5NmUwNzNkIj5PcGluaW9uIFNxdWFyZTwvYT4gfCA8YSB0YXJnZXQ9J19zZWxmJyBocmVmPSJodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9BbGxQcm9kdWN0cyI+V2luIHByb2R1Y3RzPC9hPiB8IDxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Imh0dHA6Ly93d3cuZm9yZXNlZWdhbWUuY29tL2dhbWVzL0Nhc2gtUmV3YXJkL1Byb2R1Y3RzLzk0MjI0YmVhMGM4YjRlYWFlNDMxYzg3M2Y2NjNlMmMyIj5DYXNoIHJld2FyZDwvYT4gfCA8YSB0YXJnZXQ9J19zZWxmJyBocmVmPSJodHRwOi8vd3d3LmZvcmVzZWVnYW1lLmNvbS9nYW1lcy9UcmVhc3VyZS1IdW50L0NhdGVnb3JpZXMvOWNlMDVlY2Y2MmIzYWNiNTZhYzVjNjA4MDNhODg5ZDgiPlRyZWFzdXJlIEh1bnQ8L2E+ZAIBDw8WAh4HRW5hYmxlZGhkZAIEDxYCHwQF/wM8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+LyogPCFbQ0RBVEFbICovIHZhciBnb29nbGVfY29udmVyc2lvbl9pZCA9IDkzNTY3ODU5MTt2YXIgZ29vZ2xlX2N1c3RvbV9wYXJhbXMgPSB3aW5kb3cuZ29vZ2xlX3RhZ19wYXJhbXM7dmFyIGdvb2dsZV9yZW1hcmtldGluZ19vbmx5ID0gdHJ1ZTsgLyogXV0+ICovIDwvc2NyaXB0PjxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyBzcmM9Jy8vd3d3Lmdvb2dsZWFkc2VydmljZXMuY29tL3BhZ2VhZC9jb252ZXJzaW9uLmpzJz48L3NjcmlwdD48bm9zY3JpcHQ+PGRpdiBzdHlsZT0nZGlzcGxheTppbmxpbmU7Jz48aW1nIGhlaWdodD0nMScgd2lkdGg9JzEnIHN0eWxlPSdib3JkZXItc3R5bGU6bm9uZTsnIGFsdD0nJyBzcmM9Jy8vZ29vZ2xlYWRzLmcuZG91YmxlY2xpY2submV0L3BhZ2VhZC92aWV3dGhyb3VnaGNvbnZlcnNpb24vOTM1Njc4NTkxLz92YWx1ZT0wJmFtcDtndWlkPU9OJmFtcDtzY3JpcHQ9MCcvPjwvZGl2Pjwvbm9zY3JpcHQ+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUPY3RsMDAkYnRuU2VhcmNoInYYVtA9FATT0fba0Oxq7RXpResvKd7b2SVMKeuEgqs=">
 
 
 <script src="/ScriptResource.axd?d=p0NzwcNFGE70-4nwl8rpsL0_SydfkVQcu63ElSBGBhaEGztRSacVqHVtI4S68SyJMkqgJGLBU-8NTgGFzz9kS_SzAkL0WzFwxZ9piv0Xs-GselcEBetOKw1fPpntfp2T0&amp;t=f2cd5c5" type="text/javascript"></script>
@@ -350,7 +465,7 @@ function closeWin() {
 
 
     <a id="btnWallImg" href="javascript:__doPostBack('ctl00$btnWallImg','')">
-          <img src="http://rs.foreseegame.com/Resource/images/fluidUI/UpperEWall.png" alt="">
+          <img src="http://rs.foreseegame.com/Resource/images/fluidUI/UpperEWall.png" alt="foreseegame ewall">
    </a>
 </div><!--<end of topEwall>-->
 </div><!--<end of masterIn>-->
@@ -361,9 +476,12 @@ function closeWin() {
 <div class="searchPart">
 <div class="searchFont">Search Games by</div>
 
+<div style="width:100%; float:left; padding:0; margin:0; height:34px;">
+<div style="width:32%; float:left; padding:0; margin:0; height:34px;">
 
-<select name="ctl00$ddlSearch" id="ddlSearch" class="searchdeck2 ">
-	<option value="All">All</option>
+
+    <select name="ctl00$ddlSearch" id="ddlSearch" class="searchdeck2" onchange="GetSelectedTextValue(this)">
+	<option value="All">Keyword</option>
 	<option value="Categories">Categories</option>
 	<option value="Events" style="display:none;">Events</option>
 	<option value="Brands">Brands</option>
@@ -371,11 +489,24 @@ function closeWin() {
 
 </select>
 
-<input name="ctl00$txtSearch" type="text" maxlength="50" id="txtSearch" class="searchdeck" onclick="txt_focus(this.id,this.value);" autocomplete="off" onblur="txt_blur(this.id,this.value);" validationmode="1" placeholder="Search keyword" onkeypress="return controlEnter('btnSearch', event)">
 
-<input type="image" name="ctl00$btnSearch" id="btnSearch" class="searchdeck3" src="http://rs.foreseegame.com/Resource/images/fluidUI/search22.png" onclick="javascript:divon();">
+</div>
+
+<div style="width:47%; float:left; padding:0; margin:0; height:34px;">
+    <input name="ctl00$txtSearch" type="text" maxlength="50" id="txtSearch" class="searchdeck" onclick="txt_focus(this.id,this.value);" autocomplete="off" onkeyup="removespace(this.id,this.value);myFunction(event,this.value);" onblur="txt_blur(this.id,this.value);" validationmode="1" list="SuggestedData" onkeypress="return controlEnter('btnSearch', event)">
+</div>
+
+ 
+    <datalist id="SuggestedData" data-list-size="12">
+    </datalist>
 
 
+
+<div style="width:20%; float:left; padding:0; margin:0; height:34px;">
+    <input type="image" name="ctl00$btnSearch" id="btnSearch" class="searchdeck3" src="http://rs.foreseegame.com/Resource/images/fluidUI/search22a.png" onclick="javascript:divon();">
+    </div>
+
+</div>
 </div><!--<end of searchPart>-->
 
 <div class="logoPart">
@@ -387,102 +518,63 @@ function closeWin() {
 <div style="clear:both"></div> 
 <ul>
      
- <li><a href="http://www.foreseegame.com/login/"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/login.png" alt="" style="float:left;"> Log In</a></li>
- <li><a href="http://www.foreseegame.com/MemberRegistration"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/signup.png" alt="" style="float:left;"> Sign Up</a></li>
+ <li><a href="http://www.foreseegame.com/login/"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/login.png" alt="login logo" style="float:left;"> Log In</a></li>
+ <li><a href="http://www.foreseegame.com/MemberRegistration"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/signup.png" alt="signup logo" style="float:left;"> Sign Up</a></li>
  
     
-     <li><a id="lnkReferralSystem" href="javascript:__doPostBack('ctl00$lnkReferralSystem','')"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/friend_hover.png" alt="" style="float:left;"> Invite Friends</a></li>
-</ul>
+     <li><a id="lnkReferralSystem" href="javascript:__doPostBack('ctl00$lnkReferralSystem','')"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/friend_hover.png" alt="invite friend" style="float:left;"> Invite Friends</a></li>
+</ul> 
+
 </div><!--<end of loginPart>-->
+
 </div><!--<end of masterIn>-->
 <div style="clear:both"></div>
 </section>
 
-
-        <section>
-<div class="depbluebg">
-<div class="masterIn">
-<div class="gme_cat_2">
-    <div class="triangle-bottomleft"></div>
-                        <div class="horizontal_menu">
-                            <ul id="gameNavMenu" class="menu_2" style="list-style: none; display: block;">
-                                <li class="gme_cat_ln dc-mega-li" style="width: 145px;"><a href="javascript:void(0);" style="line-height:62px"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/BrabdIcon.png" alt="">&nbsp; Brand &nbsp;<img src="http://rs.foreseegame.com/Resource/images/menu_dd_nv.png" width="9" height="8" alt="" border="0">&nbsp;<span class="dc-mega-icon"></span></a>
-                                    
-                                    <div class="sub-container mega" style="left: 144px; margin-left: -142.7px; top: 12px; z-index: 1000;">
-                                        <ul class="sub" style="display: none; width: 180px; height: 65px; margin-top:-10px;">
-                                            <div class="row" style="width: 456.4px;">
-                                                <ul>
-                                                <li class="mega-unit mega-hdr" style="height: 186px; ">
-                                                    <ul class="menustyle">
-                                                        <li style="width:160px;"><a href="http://www.foreseegame.com/AllBrands">Games By Brand</a></li>
-                                                        <li><a href="http://www.foreseegame.com/OffersByBrand">Offers By Brand</a></li>
-                                                    </ul>
-                                                </li>
-                                              </ul>
-                                            </div>
-                                        </ul>
-                                    </div>
-                                </li>
-                                <li class="gme_cat_ln"><a href="http://www.foreseegame.com/AllCategories">                                   
-                                    <img src="http://rs.foreseegame.com/Resource/images/fluidUI/GameIcon.png" alt="">&nbsp; Game Categories&nbsp;<img src="http://rs.foreseegame.com/Resource/images/menu_dd_nv.png" width="9" height="8" alt="" border="0">&nbsp;</a>
-                                    <ul id="CT" class="menustyle" style="margin-top:-10px;"><li><a href="http://www.foreseegame.com/games/Tele-Talk/Categories/e5a7563b5f023bfa37b8672ea5234c6a">Tele Talk</a>
-<ul class="menustyle"><li><a href="http://www.foreseegame.com/games/Bengal-Singing-Star/Categories/e5a7563b5f023bfa6ce68d531607d9175242aa812195a6ac404be58e0d9b3894">Bengal Singing Star</a></li>
-<li><a href="http://www.foreseegame.com/games/Big-Boss/Categories/e5a7563b5f023bfaa6b74b2b3f742b7646bbaa9c42ef383d">Big Boss</a></li>
-</ul>
-</li><li><a href="http://www.foreseegame.com/games/Awards-&amp;-Contests/Categories/a38bd4c2f22c111c82ab3c05c458baa1063093358b4bde49">Awards &amp; Contests</a>
-<ul class="menustyle"><li><a href="http://www.foreseegame.com/games/World-Documentary-Awards/Categories/a38bd4c2f22c111c82ab3c05c458baa1ef8fe26c56d6a0acb357e7a42b53df7a4b5703e9ccb13f77b7c5993ad2de11d6">World Documentary Awards</a></li>
-<li><a href="http://www.foreseegame.com/games/Universal-Beauty-Pageant/Categories/a38bd4c2f22c111c82ab3c05c458baa1459754e6544a93dd6466642789a60123e8c463c0f3d3a4fd85cc708eab9043c4">Universal Beauty Pageant</a></li>
-<li><a href="http://www.foreseegame.com/games/World-Beauty-pageant/Categories/a38bd4c2f22c111c82ab3c05c458baa1ef8fe26c56d6a0ac8bb4859ac6c82e9cb93ccc47d3dd7b36">World Beauty pageant</a></li>
-<li><a href="http://www.foreseegame.com/games/Earth-Beauty-Pageant/Categories/a38bd4c2f22c111c82ab3c05c458baa15a586610c9d2dd4c4047554b783e8e62c98c36b1b171d16c">Earth Beauty Pageant</a></li>
-<li><a href="http://www.foreseegame.com/games/Travel-Awards/Categories/a38bd4c2f22c111c82ab3c05c458baa193bf40b1afe2ba0bdcaa02d70623d27c">Travel Awards</a></li>
-</ul>
-</li><li><a href="http://www.foreseegame.com/games/Sports/Categories/e3c1820d80c2a6f0">Sports</a>
-<ul class="menustyle"><li><a href="http://www.foreseegame.com/games/Squash/Categories/aa2e227c4ba590dfec48830f664311c8">Squash</a></li>
-<li><a href="http://www.foreseegame.com/games/Test-Series/Categories/bccdb4cae496beb7c10fb1d9ab4d6eb12c1d68c29056b466">Test Series</a></li>
-<li><a href="http://www.foreseegame.com/games/Indian-Soccer-League/Categories/816713a9d939b7563fd3c0ecdbbd857865a3b8b319c8700eb514d5f02cd7269b">Indian Soccer League</a></li>
-<li><a href="http://www.foreseegame.com/games/Tennis/Categories/bccdb4cae496beb71019a672f54b2f07">Tennis</a></li>
-<li><a href="http://www.foreseegame.com/games/Grand-Prix/Categories/4283e68fea0c6f1dcedb0aabd8762a5ee2f0111ac9598bd9">Grand Prix</a></li>
-<li><a href="http://www.foreseegame.com/games/Cricket-Tournament/Categories/d79b0e0d532e1349dcdf535b1d7ca3a2d540065160c81f5ac234361bedb79b1a">Cricket Tournament</a></li>
-<li><a href="http://www.foreseegame.com/games/Soccer/Categories/aa2e227c4ba590df57294f8558021cb9">Soccer</a></li>
-</ul>
-</li><li style="list-style:none; border:none; width:440px;"><a href="http://www.foreseegame.com/AllCategories" style="padding:3px;float:right; color:#fff; text-decoration:none; margin-top:8px;margin-left:45px;background:#035e88;text-align:center; width:70px;">MORE</a></li></ul>
-                                </li>
-
-                                <li class="gme_cat_ln" style="top:50px;"><a href="http://www.foreseegame.com/AllProducts"><img src="http://rs.foreseegame.com/Resource/images/fluidUI/productIcon.png" alt="">&nbsp; Games by Product&nbsp;<img src="http://rs.foreseegame.com/Resource/images/menu_dd_nv.png" width="9" height="8" alt="" border="0">&nbsp;</a>
-                     
-                                    <ul id="PRD" class="menustyle" style="top:50px;margin-top:-10px;"><li><span style="color:#b70101;text-transform:uppercase; font-size:14px; font-weight:bold;">Cash Reward</span>
-<ul class="menustyle"><li><a href="http://www.foreseegame.com/games/Cash/Products/655dc2235ede1c79">Cash</a></li>
-</ul>
-</li><li><span style="color:#b70101;text-transform:uppercase; font-size:14px; font-weight:bold;">Education</span>
-<ul class="menustyle"><li><a href="http://www.foreseegame.com/games/Education/Products/58c5bc0a7523d55b50d2607b37d52681">Education</a></li>
-</ul>
-</li><li><span style="color:#b70101;text-transform:uppercase; font-size:14px; font-weight:bold;">Media</span>
-<ul class="menustyle"><li><a href="http://www.foreseegame.com/games/Web-Portal/Products/a496e51764142a1d24608562303f09ce">Web Portal</a></li>
-</ul>
-</li><li style="list-style:none; width:440px;"><a href="http://www.foreseegame.com/AllProducts" style="padding:3px; color:#fff; float:right; text-decoration:none; margin-top:8px;margin-left:45px;background:#035e88;text-align:center; width:70px;">MORE</a></li></ul>
-                                   
-                                </li>
+<section>
+    <div class="depbluebg">
+        <div class="masterIn">
+        <div class="gme_cat_2">
+            
+            <div class="drop_brand">
+                <ul>
+                    <li><a href="#">
+                        <img src="http://rs.foreseegame.com/Resource/images/fluidUI/BrabdIcon.png" alt="" style="background-position:bottom;"> 
+                        &nbsp; Brands 
+                        <img src="http://rs.foreseegame.com/Resource/images/menu_dd_nv.png" width="9" height="8" alt="" border="0"></a>
+                            <ul class="showbox slideright">
+                                <li><a href="http://www.foreseegame.com/AllBrands">+ Games by Brand</a></li>
+                                <li><a href="http://www.foreseegame.com/OffersByBrand">+ Offers by Brand</a></li> 
                             </ul>
-                        </div>
-                    </div>
-
-<div class="CandQarea">
-<div class="contestPlace">
-    <a href="http://www.foreseegame.com/contest/listing.aspx">
-<img src="http://rs.foreseegame.com/Resource/images/fluidUI/contestLgo.png" alt="">
-
-    </a>
-</div>
-
-
-
-
-
-</div>
-</div><!--<end of masterIn>--> 
-</div><!--<end of depbluebg> -->
-
-
+                    </li>
+                    <li><a href="http://www.foreseegame.com/AllCategories">
+                        <img src="http://rs.foreseegame.com/Resource/images/fluidUI/GameIcon.png" alt="" style="background-position:bottom;">
+                        &nbsp; Game Categories
+                    </a></li>
+                    <li><a href="http://www.foreseegame.com/AllProducts">
+                        <img src="http://rs.foreseegame.com/Resource/images/fluidUI/productIcon.png" alt="" style="background-position:bottom;"> 
+                        &nbsp; Games by Product
+                    </a></li>
+                </ul>
+            </div>
+            
+            <div class="triangle-bottomleft"></div>
+        </div>
+        <div class="CandQarea">
+            <div class="contestPlace">
+                <a href="http://www.foreseegame.com/contest/listing.aspx">
+                <img src="http://rs.foreseegame.com/Resource/images/fluidUI/contestLgo.png" alt="">
+                </a>
+            </div>
+            <div class="fomoPlace">
+                <a href="http://www.foreseegame.com/ForeseeMoney">
+                <img src="http://rs.foreseegame.com/Resource/images/fluidUI/FomoLogoInnerPage.png" alt="fomoLogo" title="Play Games &amp; Earn Money!">
+                </a>
+            </div>
+            
+        </div>
+        </div><!--<end of masterIn>--> 
+    </div><!--<end of depbluebg> -->
 </section>
 
 
@@ -605,10 +697,11 @@ In accordance with the Information Technology Act, 2000 and rules made thereunde
                                 
                                 
                             </div>
-                            <div id="ContentPlaceHolder2_dvBottomPanel" class="bot_ban">
-                                
-
-                            </div>
+                            <div id="ContentPlaceHolder2_dvBottomPanel" class="bot_ban"><script type="text/javascript">
+$(window).load(function () {
+                        setTimeout(function () { $('#ContentPlaceHolder2_dvBottomPanel').html("<div class='slideshow'><a href='https://play.google.com/store/apps/details?id=com.mhbl.sastasundar' target=' _blank' style='border:0px;'><img src='http://rs.foreseegame.com/Upload/InnerBottomPanel/BottomPanel_I1_052516132353.jpg' width='707' height='178' style='border:0px;'/></a></div>"); }, 500); 
+setTimeout(function () { $('.slideshow').cycle({ fx: 'fade', delay: -4000 });}, 1000);});
+</script></div>
                         </div>
                         <div id="ContentPlaceHolder2_dvSponLogo" class="spon_logo_rgt" style="overflow: hidden;"><script type="text/javascript">
 $(window).load(function () {
@@ -618,7 +711,7 @@ setTimeout(function () { $('.slideshow').cycle({ fx: 'fade', delay: -4000 });}, 
                         <div class="listing_rgt_ban" id="sidebar">
                             <div id="ContentPlaceHolder2_dvRightPanel" class="rgt_main_ban" style="bottom: 1200px !important"><script type="text/javascript">
 $(window).load(function () {
-                        setTimeout(function () { $('#ContentPlaceHolder2_dvRightPanel').html("<div class='r_ban'><a href='https://play.google.com/store/apps/details?id=com.mhbl.sastasundar&hl=en' target=' _blank' style='border:0px;'><img src='http://rs.foreseegame.com/Upload/InnerRightPanel/InnerRightPanel_I1L_112515190504.png' width='250' height='600' style='border:0px;'/></a></div><div class='r_ban'><a href='https://play.google.com/store/apps/details?id=com.foreseegame.app&hl=en' target=' _blank' style='border:0px;'><img src='http://rs.foreseegame.com/Upload/InnerRightPanel/InnerRightPanel_I1M_111215101343.png' width='250' height='350' style='border:0px;'/></a></div>"); }, 500); 
+                        setTimeout(function () { $('#ContentPlaceHolder2_dvRightPanel').html("<div class='r_ban'><a href='http://www.sastasundar.com/index.php/product/search?searchText=aasaan+floors+%26+tiles+scrubber' target=' _blank' style='border:0px;'><img src='http://rs.foreseegame.com/Upload/InnerRightPanel/InnerRightPanel_I1L_060616153947.jpg' width='250' height='600' style='border:0px;'/></a></div><div class='r_ban'><a href='https://play.google.com/store/apps/details?id=com.foreseegame.app&hl=en' target=' _blank' style='border:0px;'><img src='http://rs.foreseegame.com/Upload/InnerRightPanel/InnerRightPanel_I1M_111215101343.png' width='250' height='350' style='border:0px;'/></a></div>"); }, 500); 
 });
 </script></div>
                         </div>
@@ -628,6 +721,9 @@ $(window).load(function () {
         
         <!--body End-->
         <!--Ad Network start-->
+        
+
+        <div class="listing_bdy_con">
         <div id="AdNewtorkDVCenter" class="AD728X90Con">
             <div class="AD728X90">
                 <!-- Affinity In-Page Code Starts here -->
@@ -635,6 +731,8 @@ $(window).load(function () {
                 <!-- Affinity In-Page Code Ends here -->
             </div>
         </div>
+        </div>
+
         <script type="text/javascript">
             $(document).ready(function () {
                 var Path = 'http://www.foreseegame.com';
@@ -670,7 +768,7 @@ $(window).load(function () {
                             
                         </p>
                     </div>
-                      
+
                 </div>
                 <div class="footerNewrighttpart">
 
@@ -690,9 +788,8 @@ $(window).load(function () {
                     <div class="frlinkparts">
                         <div class="footerNew_rightlinks">
                             <ul>
-                                <li><a href="http://www.foreseegame.com/Clientele">Brand Archive</a></li>
                                 <li><a href="http://foreseegame.org/" target="_blank">Official Blog</a></li>
-                                <li><a href="http://www.foreseegame.com/Clientele">Clientele </a></li>
+                                <li><a href="http://www.foreseegame.com/Clientele">Brand Archive</a></li>
                                 
                                 <li>
                                     
@@ -707,22 +804,25 @@ $(window).load(function () {
                                 
                                 <li><a href="http://www.foreseegame.com/Static/TermsOfUse">Terms of Use</a></li>
                                 <li><a href="http://www.foreseegame.com/Static/PrivacyPolicy">Privacy Policy</a></li>
+                                 
 
                             </ul>
                         </div>
                     </div>
                     <div class="parts">
-                        <div class="engage_btn" style="display:none"><a href="#">Engage Your Consumers</a></div>
+                        <div class="engage_btn" style="display: none"><a href="#">Engage Your Consumers</a></div>
                     </div>
 
                 </div>
 
-                <div class="footerNew_socialicons">
-                            
+                <div style="clear:both"></div>
 
-                            
-                            <div id="fb-root"></div>
-                            <script>(function (d, s, id) {
+                <div class="footerNew_socialicons">
+                    
+
+                    
+                    <div id="fb-root"></div>
+                    <script>(function (d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
     js = d.createElement(s); js.id = id;
@@ -730,32 +830,32 @@ $(window).load(function () {
     fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-                            <div class="fb-like" data-href="https://www.facebook.com/Foreseegame" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
-                            
+                    <div class="fb-like" data-href="https://www.facebook.com/Foreseegame" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+                    
 
-                            
-                            <a href="https://twitter.com/foreseegame" class="twitter-follow-button" data-show-count="false">Follow @foreseegame</a>
-                            <script type="text/javascript">!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');</script>
-                            
+                    
+                    <a href="https://twitter.com/foreseegame" class="twitter-follow-button" data-show-count="false">Follow @foreseegame</a>
+                    <script type="text/javascript">!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');</script>
+                    
 
-                            
-                            <!-- Place this tag in your head or just before your close body tag. -->
-                            <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
+                    
+                    <!-- Place this tag in your head or just before your close body tag. -->
+                    <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
 
-                            <!-- Place this tag where you want the widget to render. -->
-                            <div class="g-follow" data-annotation="bubble" data-height="20" data-href="https://plus.google.com/112924591267646612944" data-rel="publisher"></div>
+                    <!-- Place this tag where you want the widget to render. -->
+                    <div class="g-follow" data-annotation="bubble" data-height="20" data-href="https://plus.google.com/112924591267646612944" data-rel="publisher"></div>
 
-                            
-
-
+                    
 
 
-                            
 
-                            <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
-                            <script type="IN/FollowCompany" data-id="3568542" data-counter="right"></script>
-                            
-                        </div>
+
+                    
+
+                    <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+                    <script type="IN/FollowCompany" data-id="3568542" data-counter="right"></script>
+                    
+                </div>
             </div>
         </div>
 
@@ -813,7 +913,7 @@ $(window).load(function () {
                     $(nwsltrBox).fadeIn(300);
 
                     //Set the center alignment padding + border
-                    var popMargTop = ($(nwsltrBox).height() + 24) / 2;
+                    var popMargTop = ($(nwsltrBox).height() + 80) / 2;
                     var popMargLeft = ($(nwsltrBox).width() + 24) / 2;
 
                     $(nwsltrBox).css({
@@ -860,7 +960,7 @@ $(window).load(function () {
             <div id="nwsltr-box" class="nwsltr-popup">
                 
                 <a href="javascript:void(0);" class="close">
-                    <img src="http://rs.foreseegame.com/Resource/images/close_pop.png" class="btn_close" title="Close Window" alt=""></a>
+                    <img src="http://rs.foreseegame.com/Resource/images/close_pop.png" class="btn_close" title="Close Window" alt="close button"></a>
                 
                 <div class="nl_top">
                 </div>
@@ -889,10 +989,11 @@ $(window).load(function () {
         
 </div>
         <!--Newsletter End-->
+          
         <!--Feedback Start-->
         <script type="text/javascript">
             $(document).ready(function () {
-                $('a.feedback-window').click(function () {
+                $('#feedback-window').click(function () {
 
                     // Getting the variable's value from a link 
                     var feedbackBox = $(this).attr('href');
@@ -958,11 +1059,12 @@ $(window).load(function () {
 	
             <div id="feedback-box" class="feedback-popup">
                 <a href="javascript:void(0);" class="close2">
-                    <img src="http://rs.foreseegame.com/Resource/images/close_pop.png" class="btn_close" title="Close Window" alt=""></a>
+                    <img src="http://rs.foreseegame.com/Resource/images/close_pop.png" class="btn_close" title="Close Window" alt="close button"></a>
                 <div class="fdbck_top">
+                  
                 </div>
-                <div class="fdbck_mid">
-                    <div class="fdbk_formArea" style="height: 300px;">
+                <div class="fdbck_mid" style="height:auto;">
+                    <div class="fdbk_formArea" style="height: auto; display:none;">
                         <span>Name :</span>
                         
                         <input name="ctl00$txtFeedbackName" type="text" value="N/A" id="txtFeedbackName" class="fdbk_formArea_txt" onclick="txt_focus(this.id,this.value);" onblur="txt_blur(this.id,this.value);">
@@ -980,6 +1082,43 @@ $(window).load(function () {
                             <input type="submit" name="ctl00$btnFeedBack" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnFeedBack&quot;, &quot;&quot;, true, &quot;feedback&quot;, &quot;&quot;, false, false))" id="btnFeedBack" class="fdbk_SubmitBtn" style="margin: 0px 0px 0px 17px;">
                         </div>
                     </div>
+                    <div class="fdbk_formArea" style="width:322px; height:auto; padding:0px 28px 8px 28px">
+                         <div id="Panel3">
+		
+                        
+                         <div>
+                             <div style="font-size:11px; color:gray; padding-bottom:10px;">** We may use your feedback in our Buddies' Byte section</div>
+                            
+                                <div style="color:#1294d0; float:left">Name<span class="FormMandatorySign" style="font-size:10px"> *</span></div>
+                                
+                                <div style="float:left; margin-left:5px; width: 82% ">
+                                    <input name="ctl00$txtName" type="text" maxlength="50" id="txtName" class="txt_fld" onpaste="return false;" validationmode="1" style="width: 100%;height: 25px;"><br>
+                                    
+                                    <input type="hidden" name="ctl00$hdnTestimonialType" id="hdnTestimonialType">
+
+                                </div>
+                            
+                             <div style="clear:both"></div>
+                            
+                               
+                            
+                                 <div style="color:#1294d0;margin-top: 14px;">Feedback<span class="FormMandatorySign" style="font-size:10px">*</span></div>
+                                  <div>
+                                    <textarea name="ctl00$txtFeedback" rows="10" cols="20" id="txtFeedback" class="txt_fld" onpaste="return false;" validationmode="1" style="resize:none; width: 314px;"></textarea><br>
+                                       
+                                     <br>
+                                
+                                </div>
+                                <div style="text-align:center">
+                                    <input type="submit" name="ctl00$btnSaveTestimonial" value="Save" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnSaveTestimonial&quot;, &quot;&quot;, true, &quot;testimonialValidationGrp&quot;, &quot;&quot;, false, false))" id="btnSaveTestimonial" class="buttonY"> 
+                                     
+                                </div>
+
+                        </div>
+                             
+	</div>
+                    </div>
+
                 </div>
                 <div class="fdbck_bot">
                 </div>
@@ -987,7 +1126,7 @@ $(window).load(function () {
         
 </div>
         <!--Feedback End-->
-        
+      
         
 
         <script language="javascript" type="text/javascript">
@@ -1004,7 +1143,7 @@ $(window).load(function () {
         </div>
         
     </form>
-
+   
     <div id="ADNetWorkADHolderDvLeft" class="AdConLeftBottom">
         <div class="Ad300X250">
             <iframe id="AdNewtorkFrameLeft" src="" allowtransparency="true" scrolling="no" frameborder="0"></iframe>
@@ -1015,6 +1154,10 @@ $(window).load(function () {
             <iframe id="AdNewtorkFrameRight" src="" allowtransparency="true" scrolling="no" frameborder="0"></iframe>
         </div>
     </div>
+
+   
+
+
     <script type="text/javascript">
         function SetLeftAdDimension(width, height, Position) {
             height = parseInt(height) + 10;
@@ -1050,7 +1193,7 @@ $(window).load(function () {
 
         $(document).ready(function () {
             //Entered character validation
-            $('#txtSearch').keyup(function (e) {
+            $('#txtSearch, #txtName, #txtAbout1, #txtAbout2, #txtFeedback').keyup(function (e) {
                 //console.log('keyup');
                 if ($.inArray(e.keyCode, [8, 16, 17, 20, 35, 36, 37, 38, 39, 40, 46, 144, 145]) <= -1) {
                     var sender = $(this);
@@ -1060,11 +1203,17 @@ $(window).load(function () {
                     var val = fn_GetValidChars(sender);
 
                     $(sender).val(val);
+                   
                     this.setSelectionRange(startPos, endPos);
 
                     //stop entry more than maxlength else default 100 len characters
                     var maxlen = $(sender).attr('maxlength');
-                    maxlen = isNaN(parseInt(maxlen)) ? 100 : maxlen;
+
+                    if ($(sender).attr('id') == "txtFeedback") {
+                        maxlen = 2000;
+                    }
+
+                    maxlen = isNaN(parseInt(maxlen)) || parseInt(maxlen) == -1 ? 100 : maxlen;
                     if (val.length > maxlen) {
                         $(sender).val(val.substring(0, maxlen));
                         e.preventDefault();
