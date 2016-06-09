@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the minecraftskins.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207120246id_/http%3A//www.minecraftskins.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the minecraftskins.com privacy policy that was archived on 2016-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610013343id_/http%3A//www.minecraftskins.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script type="text/javascript" async="" src="//server.cpmstar.com/cached/js/siteskin_v100.pack.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=38857570ac/cloudflare.min.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="//server.cpmstar.com/cached/js/siteskin_v100.pack.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js"></script><script type="text/javascript">
 //<![CDATA[
-try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:1449484051,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"aa1e9b60a6104c4a77492f782493f13e",petok:"c209f8e53926887fd79cae3b98fdbb2581cf3804-1449489766-1800",zone:"minecraftskins.com",rocket:"0",apps:{"abetterbrowser":{"ie":"10","opera":null,"chrome":null,"safari":null,"firefox":null}},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=38857570ac/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:1465375928,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"ab8454e16e4313f1c40298e4d9825c50",petok:"08c5e359f23c037d1e10c6dbd6afd93039a0d8a4-1465522423-1800",zone:"minecraftskins.com",rocket:"0",apps:{"abetterbrowser":{"ie":"10","opera":null,"chrome":null,"safari":null,"firefox":null}},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
 //]]>
 </script>
-<link rel="stylesheet" type="text/css" href="http://www.minecraftskins.com/css/style.css">
+<link rel="stylesheet" type="text/css" href="http://www.minecraftskins.com/css/style.css?v1.5">
 <link rel="stylesheet" type="text/css" href="http://www.minecraftskins.com/css/style2.css">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 <script src="http://www.minecraftskins.com/my_js/skinpreview64.js"></script>
@@ -34,6 +34,11 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:1449484051,byc:0,owlid
 <script type="text/javascript" src="http://www.minecraftskins.com/my_js/functional.js"></script>
 <script>
       $(function() {
+        $("#upload_frm").keydown(function (e) { 
+            if(e.which == 13) {
+                e.preventDefault();
+            }
+        });
         $('.cont_box').hover(function(){
             $(this).children('.cont_image').css({'background-color':'#ccc'});
             $(this).find('a').css({'color':'#2EBDC2'});
@@ -50,6 +55,42 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:1449484051,byc:0,owlid
 <script type="text/javascript">
 
             $(function() {
+                var items = JSON.parse(localStorage.getItem("searchList"));
+                var list = $("#history-list");
+                list.hide();
+                $('#clearHistorySearch').css("display","none");
+                $('#searchHistoryList').css({"display":"none","overflow-y":"hidden"});
+                var parent = list.parent();
+
+                if (items) {
+                    list.detach().empty().each(function(i){
+                        for (var x = 0; x < items.length; x++){
+                            var marg = 30;
+                            var t = 0;
+                            if (t === 0) {
+                                $(this).append('<li>' + items[x] + '</li>').css({"position":"absolute","z-index":"99999","margin-top":marg});    
+                            } else {
+                                $(this).append('<li>' + items[x] + '</li>').css({"position":"absolute","z-index":"99999","margin-top":marg+t});
+                            }
+                            
+                            t += 10;
+
+                            if (x == items.length - 1){
+                                $(this).appendTo(parent).css({"position":"absolute","z-index":"99999","margin-top":marg});    
+                            }
+                        }
+                    });
+                }
+
+                $("#history-list li").click(function(e) {
+                    e.preventDefault();
+                    var selVal = $(this).html();
+                    $('#search_name').val(selVal);
+                    list.hide();
+                    $('#clearHistorySearch').css("display","none");
+                    $('#searchHistoryList').css({"display":"none","overflow-y":"hidden"});
+                });
+
                 $('#searc input').keypress(function (e) {
                     if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
                         validate_all_for_search();
@@ -57,6 +98,36 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:1449484051,byc:0,owlid
                     } else {
                         return true;
                     }
+                });
+
+                $("#searc input").dblclick(function() {
+                    list.show().css({"position":"absolute","z-index":"9999","background-color":"white","margin":"0"});
+                    var searchItems = JSON.parse(localStorage.getItem("searchList"));
+                    if (searchItems) {
+                        $('#clearHistorySearch').css("display","inline-block");
+                        if (searchItems.length > 5) {
+                            $('#searchHistoryList').css({"display":"inline-block","overflow-y":"scroll"});
+                        } else {
+                            $('#searchHistoryList').css({"display":"inline-block","overflow":"hidden"});
+                        }
+                    }
+                    // var item = JSON.parse(localStorage.getItem("searchList"));
+                    // console.log(item);
+                });
+
+                // $(document).on('click', function(e) {
+                //     list.hide();
+                //     $('#clearHistorySearch').hide();
+                // });
+
+                $('#clearHistorySearch').click(function(e) {
+                    e.preventDefault();
+                    localStorage.removeItem("searchList");
+                    var list = $("#history-list");
+                    list.empty();
+                    list.hide();
+                    $('#clearHistorySearch').css("display","none");
+                    $('#searchHistoryList').css({"display":"none","overflow-y":"hidden"});
                 });
             });
 
@@ -69,6 +140,10 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:1449484051,byc:0,owlid
         }
 
         function clear1() {
+            var list = $("#history-list");
+            list.hide();
+            $('#clearHistorySearch').hide();
+            $('#searchHistoryList').css({"display":"none","overflow-y":"hidden"});
             // document.getElementById('search_name').value="";
             if (document.getElementById('search_name').value=='Enter some text here') { document.getElementById('search_name').value=''; }
         }
@@ -93,6 +168,19 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:1449484051,byc:0,owlid
             var str2 = str.toLowerCase();
             var str3 = str2.replace(/\s/g, "-");
             var str4 = str3.replace(/\'/g, "_");
+
+            var searchList = localStorage.getItem("searchList");
+            var obj = [];
+            if(searchList){
+                obj= JSON.parse(searchList);  
+            }
+            var myString="pede";
+            if ($.inArray(str2, obj) != -1) {
+                console.log('match');
+            } else {
+                obj.push(str2);
+                localStorage.setItem("searchList",JSON.stringify(obj));
+            }
 
             document.searc.action='http://www.minecraftskins.com/'+'search/'+serby+'/'+str4+'/1/';
             document.searc.submit();
@@ -131,19 +219,27 @@ google_ad_height = 15;
 <li><a href="http://www.minecraftskins.com/skin-editor/">Editor</a></li>
 <li><a href="http://www.minecraftskins.com/upload/">Upload </a></li> </ul>
 </div>
-<form method="post" name="searc" id="searc" action="">
+<form method="post" name="searc" id="searc" action="" autocomplete="off">
 <ul class="navsmall">
 <li><input type="radio" name="search_cat" value="skin" checked="true">Skin</li>
 <li><input type="radio" name="search_cat" value="author">Author</li>
 </ul>
 <div class="search_part"><input id="search_name" name="search_name" type="text" class="search_box" value="Enter some text here" onclick="clear1()">
-<input type="button" class="search_button" value="Search" onclick="validate_all_for_search();"></div>
+<input type="button" class="search_button" value="Search" onclick="validate_all_for_search();">
+<div id="searchHistoryList" style="width:244px;">
+<a id="clearHistorySearch" href="#">clear search</a>
+<ul id="history-list" style="width:244px;margin:0;padding:0;">
+ 
+</ul>
+</div>
+</div>
 </form>
 <div id="search_name_validate" style="display:none; float: left; margin-left: 217px;">
 <div class="search_part" id="search_name_err" style="color:#d92d2d;float:left;margin-left:500px; font-size:14px;"></div>
 </div>
 </div>
 </div>
+<style>#searchHistoryList{width:244px;position:relative;height:125px;overflow-y:hidden;overflow-x:hidden;}#clearHistorySearch{display:none;position:absolute;color:rgb(0,174,255);margin-top:5px;z-index:99999999;width:55px;margin-left:170px;font-size:9px;}#history-list{list-style-type:none;}#history-list li:hover{background-color:grey;color:white;}#history-list li{list-style-type:none;height:20px;padding-left:10px;padding-top:5px;cursor:pointer;color:black;}</style>
 <div class="body_part">
 <div class="white_box">
 <div class="whitebox_top"></div>
@@ -239,7 +335,7 @@ setInterval(function() {
   }
 }, 1500);
 </script>
-<div class="footer_part">
+<div class="footer_part" style="z-index=-1; overflow: visible;">
 <div class="footer_leftbox">
 <div class="top_footer_text">Thank you for visiting Minecraftskins.com - Skindex, The source for <span>Minecraft Skins</span></div>
 <div class="footer_outterbox">
@@ -293,7 +389,7 @@ setInterval(function() {
 <div class="fb-like-box" data-href="http://www.facebook.com/pages/The-Skindex/267055893359937" data-width="300" data-height="180" data-show-faces="true" data-stream="false" data-header="false"></div>
  
 </div>
-<div class="copyclass" style="margin-top: 28px; padding-right: 90px;">© MinecraftSkins.com 2010 - 2015. All rights reserved.</div>
+<div class="copyclass" style="margin-top: 28px; padding-right: 90px;">© MinecraftSkins.com 2010 - 2016. All rights reserved.</div>
 </div>
 
 <div id="fb-root"></div>
