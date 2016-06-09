@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharpspring.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129022406id_/http%3A//sharpspring.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharpspring.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609123950id_/http%3A//sharpspring.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - SharpSpring
+# Privacy Policy | SharpSpring
 
 Protecting your private information is our priority. This Statement of Privacy applies to the sharpspring.com, freemarketinganalytics.com, freemarketingautomation.com, and any other website owned by SharpSpring, LLC (collectively, the “Sites,” “Site,” “associated Sites,” or “SharpSpring”). This statement of privacy governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to SharpSpring, LLC. include SharpSpring.com and any other Site owned by SharpSpring, LLC. The SharpSpring website and associated Sites are a Marketing Analytics and Automation Solution. By using the SharpSpring website or Sites, you consent to the data practices described in this statement.
 
