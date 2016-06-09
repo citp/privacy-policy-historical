@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xoriant.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228235839id_/http%3A//www.xoriant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoriant.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609110012id_/http%3A//www.xoriant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xoriant
 
-Copyright © 2015 Xoriant, Inc. All Rights Reserved.
+Copyright © 2016 Xoriant, Inc. All Rights Reserved.
 
 Xoriant respects and is committed to protecting your privacy. You can view our web site without divulging any personal information about yourself, however certain content on our web site requires registration and the transmittal of personal information. We have created this Privacy Statement to disclose what happens with the personal information you provide to us through this process. At any time, you have the ability to visit the subscription center and deactivate any access you registered for or terminate receipt of communications from us.
 
