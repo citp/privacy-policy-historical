@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the simplyhired.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207061258id_/http%3A//www.simplyhired.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyhired.com.au privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609142733id_/http%3A//www.simplyhired.com.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Simply Hired
 
-**Effective Date: July 20, 2015**
+**Effective Date: May 27, 2016**
 
-This Privacy Policy was last updated: July 20, 2015
+This Privacy Policy was last updated: May 27, 2016
 
 Simply Hired, Inc. ("Simply Hired") has drafted its Privacy Policy to ensure that you can clearly understand our data and security practices and policies as you use Simply Hired's websites and software applications (the "Sites"). This Privacy Policy describes the types of Personal Information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of your Personal Information. The phrase "Personal Information" refers to information that personally identifies you, such as your name, address, telephone number, email address, credit card number or other billing information. We also describe the measures we take to protect the security of your Personal Information and how you can contact us about our privacy practices. 
 
@@ -68,7 +68,7 @@ Simply Hired maintains administrative, technical and physical safeguards designe
 
 Additional Details
 
-  * Children's Privacy
+  * "Children's Privacy" 
 
 
 
@@ -78,7 +78,6 @@ Additional Details
 
   * Additional Disclosures
     * Cookies, Tracking Choices and Third Party Advertisers
-    * California Residents
     * Links to Other Websites
     * International Data Transfers
 
@@ -158,7 +157,7 @@ We share Personal Information with our service providers who help us in the deli
 
 Simply Hired also may disclose specific user information when we determine, in good faith, that such disclosure is necessary to comply with the law, to cooperate with or seek assistance from law enforcement, to prevent a crime or protect national security, or to protect the interests or safety of Simply Hired or other users of the Sites.
 
-In addition, Personal Information we have collected may be passed on to a third party in the event of a transfer of ownership or assets, a bankruptcy, or another corporate reorganization of Simply Hired.
+Personal Information we have collected may be passed on to a third party in the event of a bankruptcy or another corporate reorganization of Simply Hired. In addition, if we are acquired by or merged with another company, or in the event of any sale of assets or other transfer of ownership by Simply Hired to a third party, the Personal Information we have collected may be transferred to such third party as well as such third party’s affiliates and subsidiaries.
 
 (Return to Top)
 
@@ -180,7 +179,7 @@ Simply Hired uses third-party advertising companies that may place or access coo
 
 The third-party advertising companies used by Simply Hired operate under their own privacy policies and we encourage you to be aware of the privacy policies of such companies. Simply Hired does not have control over or access to any information contained in the cookies that are set on your computer by third-party advertisers. 
 
-Our Sites do not respond to web browser "do not track" signals. However, to help prevent and limit the automatic collection of information by any participating third-party advertisers, including the collection of personally identifiable information about your online activities over time and across third-party websites or online services, you may opt-out of such collection by clicking the AdChoices icon located within the ad, by accessing the ["about ads" opt-out site](http://www.aboutads.info/choices/), or by accessing the [NAI opt-out site](http://www.networkadvertising.org/choices/). Please note that this opt-out is cookie-based. If you buy a new computer, change web browsers or delete this cookie, you will need to perform each opt-out task again. 
+Our Sites do not respond to web browser "do not track" signals. However, to help prevent and limit the automatic collection of information by any participating third-party advertisers, including the collection of personally identifiable information about your online activities over time and across third-party websites or online services, you may opt-out of such collection by clicking the AdChoices icon located in the ad, by accessing the ["about ads" opt-out site](http://www.aboutads.info/choices/), or by accessing the [NAI opt-out site](http://www.networkadvertising.org/choices/). Please note that this opt-out is cookie-based. If you buy a new computer, change web browsers or delete this cookie, you will need to perform each opt-out task again. 
 
 In addition, some employers using our Sites may place cookies on your computer through their job postings and may use such cookies to distinguish your web browser uniquely. Often, employers use such information to track the effectiveness of their job postings by measuring how many users who view their postings later become job applicants. 
 
@@ -192,13 +191,13 @@ You may opt-out of Google Analytics Advertising Features by visiting the [Google
 
 ## Update Your Account Information
 
-You may access, update and amend Personal Information included in your online account at any time by logging into your account and making the necessary changes. You may access, review and update (including changing or deleting parts of your account information) the information in your account at any time. However, if you wish to delete the entirety of the information you have provided to us, you must first access and close your account by going . Upon successful closure of your account, you may create a new account with your updated Personal Information. 
+You may access, update and amend Personal Information included in your online account at any time by logging into your account and making the necessary changes. You may access, review and update (including changing or deleting parts of your account information) the information in your account at any time. However, if you wish to delete the entirety of the information you have provided to us, you must first access and close your account by going [here](http://www.simplyhired.com.au/account/). Upon successful closure of your account, you may create a new account with your updated Personal Information. 
 
 (Return to Top)
 
 ## International Data Transfers
 
-When we obtain Personal Information about you, we may process and store the information outside of the country in which you are located, including in the United States. The countries in which we process the information may not have the same data protection laws as the country in which you are located. Further, users who access your information, such as potential employers, also may be located in a different country than you and different laws may apply to their use of your information. 
+When we obtain Personal Information about you, we may process and store the information outside of the country in which you are located, including in the United States. The countries in which we process the information may not have data protection laws that offer equivalent protection for your information as the country in which you are located. Further, users who access your information, such as potential employers, also may be located in a different country than you and different laws may apply to their use of your information. By accessing and registering with the Sites you consent to the use, disclosure and transfer of information in accordance with this Privacy Policy and subject to the laws of the United States. 
 
 (Return to Top)
 
@@ -230,12 +229,6 @@ To further protect yourself, you should safeguard your Simply Hired account user
 
 (Return to Top)
 
-## California, USA Residents
-
-California law permits its residents to request and receive information about a business' disclosure of certain categories of Personal Information to other companies for direct marketing purposes. If you are a California resident and a user of any of the Sites, you can request a copy of this information from Simply Hired by sending an email to [privacy@simplyhired.com](mailto:privacy@simplyhired.com). Please include your name and email address in email requests. 
-
-(Return to Top)
-
 ## Children's Privacy
 
 We do not knowingly collect or solicit information from anyone under the age of 13. If you are under 13, please do not use the Sites. In the event that we learn that we have collected personal information from a child under the age of 13, we will delete that information as quickly as possible. 
@@ -246,6 +239,6 @@ Minors of working age who use the site and wish to have their publicly available
 
 ## How to Contact Us
 
-You can direct questions regarding this Privacy Policy to Simply Hired by emailing us at . Please include your name and email address in email requests 
+You can direct questions regarding this Privacy Policy to Simply Hired by emailing us at [privacy@simplyhired.com](mailto:privacy@simplyhired.com) Please include your name and email address in email requests 
 
 (Return to Top)
