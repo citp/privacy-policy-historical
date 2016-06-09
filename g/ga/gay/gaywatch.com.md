@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaywatch.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210090818id_/http%3A//gaywatch.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaywatch.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609183445id_/http%3A//gaywatch.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Gaywatch.com
 
