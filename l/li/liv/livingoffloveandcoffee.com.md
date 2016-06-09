@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingoffloveandcoffee.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216171008id_/http%3A//livingoffloveandcoffee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingoffloveandcoffee.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609140428id_/http%3A//livingoffloveandcoffee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Living Off Love and Coffee
 
