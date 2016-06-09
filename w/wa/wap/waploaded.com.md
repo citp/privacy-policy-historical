@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the waploaded.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209041827id_/http%3A//www.waploaded.com/docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waploaded.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609225331id_/http%3A//www.waploaded.com/docs/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Waploaded
+# Privacy Policy ★ Waploaded
 
 ### We take your privacy seriously.
 
@@ -22,14 +22,17 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
-### Our Video Hosting Policy.
+### Our Hosting Policy.
 
-All These Videos On Waploaded Are Hosted On Popular Video Hosting Websites, And Are Licensed To Different Channels. We Only Provide Them For streaming For Our Users By Carefully Under Acknowledging Copyright Rules Copy Them To Our Servers. You Can Read Our [Content Removal](http://www.waploaded.com/docs/content-removal) if anyOne Holds Bound to Run On Our Platform. 
+All Videos On Waploaded Are Hosted On Popular Video Hosting Websites, And Are Licensed To Different Channels. We Only Provide Them For streaming For Our Users By Carefully Under Acknowledging Copyright Rules Copy Them To Our Servers, Musics (Sound Recordings) are only distributed for artiste(s) promotional aim alone, You Can Read Our [Content Removal](http://www.waploaded.com/docs/dmca) if anyOne Holds Bound to Run On Our Platform. 
 
 ### Contact Information
 
-Concerns or questions about this privacy policy can be directed to an Administrator at Waploaded.Com for further clarification.  
-1) A word filter has been put in place to prevent forum members from using sexually explicit words in their posts.   
-2) Our Members have been informed that they need to keep their words clean if the Website is to survive. 
+Concerns or questions about this privacy policy can be directed to an Administrator at info@waploaded.com for further clarification.
 
-Written: Aug 23, 2014; Updated: Dec 09, 2014; Read: 11329 times
+1) A word filter has been put in place to prevent forum members from using sexually explicit words in their posts.   
+2) Our Members have been informed that they need to keep their words clean if the Website is to survive.   
+3) Users upload access for Audio, Videos files has been restricted.   
+4) All users acknowledge that they are responsible for anything they post on Waploaded.com 
+
+Written: Aug 23, 2014; Updated: Dec 15, 2015; Read: 14113 times
