@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturendesign.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208094056id_/http%3A//www.architecturendesign.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturendesign.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610000709id_/http%3A//www.architecturendesign.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Architecture & Design
 
@@ -26,8 +26,6 @@ If you do nothing during your visit but browse through the website, read pages, 
 
 We use the information we collect to count the number and type of visitors to the different pages on our site, and to help us make our site more useful to visitors like you.
 
-Advertisement 
-
 ### Keeping Your Information Secure
 
 We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.
@@ -36,11 +34,13 @@ Cookies
 
 To save you comment’s information every time you visit [Architecture & Design](http://www.architecturendesign.net/ "Architecture & Design"), we place a little text file called a â€œcookieâ€? on your hard drive. It sits in your web browser directory.
 
+Advertisement
+
 A cookie lets us store your profile information on your computer and lets our website retrieve it when you visit our site. No other website can use or view the cookie set by [Architecture & Design](http://www.architecturendesign.net/ "Architecture & Design").
 
 Cookies help us create a speedy web experience by remembering your address and email information, so you don’t have to re-type it when making comments.
 
-Advertisement 
+Advertisement
 
 We may use cookies on the website for the purpose of monitoring your and other users’ activity in order to improve the website and the services available to you. If you don’t want us to use cookies when you use our website, you will need to change your Internet browser settings so that your browser does not accept them.
 
