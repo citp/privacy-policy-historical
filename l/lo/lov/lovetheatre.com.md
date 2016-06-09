@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lovetheatre.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210020116id_/http%3A//www.lovetheatre.com/information/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovetheatre.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609225906id_/http%3A//www.lovetheatre.com/information/security) for the most accurate reproduction.*
 
 # Security | Information | LOVEtheatre
+
+LOVEtheatre (we) are proudly owned and operated by The Ticket Machine Group Ltd, a company registered in England (company number 026389710). Please read this privacy policy carefully, as it describes what personal information we collect and how we use it. 
 
 What information do we collect?
 
@@ -65,7 +67,14 @@ We use Google Analytics to make sure our website is meeting our users’ needs a
 
 Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+If you've given your consent when registering for your personal information to be provided to carefully selected third parties they may contact you by post, telephone or email with information or offers regarding their goods and services.  
+LOVEtheatre and its associated companies will not share your data with any third parties without your consent, except under the following circumstances: 
+
+  1. trusted third parties who assist us in operating our website, conducting our business, or providing services to you on our behalf, so long as those third parties agree, in writing, to keep this information confidential;. 
+  2. when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety; and 
+  3. non-personally identifiable visitor information may be provided to third parties for marketing, advertising, or other uses
+
+
 
 California Online Privacy Protection Act Compliance
 
