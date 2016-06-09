@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the bbnsms.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209013154id_/http%3A//docs.bbnplace.com/%3Farticle%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbnsms.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609200908id_/http%3A//docs.bbnplace.com/%3Farticle%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
 
 
-### May 10, 2013
+### May 24, 2016
 
-This privacy statement describes how Browser Based Network collects and uses the personal information you provide on our Web site: www.bbnplace.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Browser Based Network collects and uses the personal information you provide on our Web site: www.bbnplace.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
 
-Browser Based Network Ltd was awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices was reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, [www.bbnplace.com](http://www.bbnplace.com/) and does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@bbnplace.com](mailto:info@bbnplace.com).
 
 **Collection and Use of Personal Information**
 
@@ -94,7 +93,8 @@ We may update this privacy policy to reflect changes to our information practice
 
 You can contact us by writing or email us at the address below:  
 Browser Based Network Ltd.  
-4, Kusimo Street, Aguda – Surulere,  
+5, Adisa Lawal Keshinro Street, (Off Abraham Adesanya),  
+Ajah - Lekki Phase 2,  
 Lagos, Nigeria – 23401  
 Phone: +234 1 7303090  
 Email: info@bbnplace.com
