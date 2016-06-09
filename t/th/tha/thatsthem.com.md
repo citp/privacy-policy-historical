@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the thatsthem.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231532id_/http%3A//thatsthem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsthem.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609163944id_/https%3A//thatsthem.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ThatsThem
 
 ThatsThem delivers analytics and other data-related services to small and medium-sized businesses, marketing companies, enterprises, and other organizations. The data is typically used by our customers for research, validation and verification services, marketing communications, targeting advertising, and similar uses. 
 
 ##  Scope of this Privacy Policy.
 
-ThatsThem has created this privacy policy to demonstrate its commitment to privacy. This privacy policy applies to all visitors (individuals or businesses) to the ThatsThem website, [ThatsThem.com](http://thatsthem.com/), and describes how we use and share the personal information that we gather on our website. This policy does not apply to the practices of third parties that ThatsThem does not own or control, or to individuals and businesses that ThatsThem does not employ or manage. Further, our customers' use of our services and any data we provide to them is subject to the customers' privacy policies and practices, not this one.
+ThatsThem has created this privacy policy to demonstrate its commitment to privacy. This privacy policy applies to all visitors (individuals or businesses) to the ThatsThem website, [ThatsThem.com](https://thatsthem.com/), and describes how we use and share the personal information that we gather on our website. This policy does not apply to the practices of third parties that ThatsThem does not own or control, or to individuals and businesses that ThatsThem does not employ or manage. Further, our customers' use of our services and any data we provide to them is subject to the customers' privacy policies and practices, not this one.
 
 ThatsThem does not knowingly collect personal information about children. If we discover we have collected personal information from a child under 13, we will delete that information from our systems.
 
-## Opt-Out.
+## Optout.
 
-ThatsThem appreciates and understands the importance of privacy. Any individual visitor (consumer or business) to ThatsThem can choose to Opt-Out, so information about them is not shared with ThatsThem customers. For more information, [click this link](https://web.archive.org/optout).
+ThatsThem appreciates and understands the importance of privacy. Any individual visitor (consumer or business) to ThatsThem can choose to Optout, so information about them is not shared with ThatsThem customers. For more information, [visit our optout page](https://thatsthem.com/optout).
 
 ## Collection of Information on Our Website.
 
@@ -39,9 +39,8 @@ In addition, we may use aggregate and de-identified information for various othe
 We may share your information as follows:
 
   * **Marketing Partners.** We also may share your information with companies that we believe might offer products and services of interest to you; these companies may market to you. 
-  * **Our Customers.** We also may share information with those customers who hire us to perform analytics on their behalf. For information on how to opt-out, please see the opt-out section above.
-  * **Service Providers.** We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf.
-
+  * **Our Customers.** We also may share information with those customers who hire us to perform analytics on their behalf. For information on how to optout, please see the optout section above.
+ **Service Providers.** We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf. 
 
 
 We also may share your information in the following circumstances and with the following persons/entities:
@@ -81,14 +80,14 @@ We use third parties such as network advertisers to display advertisements about
 
 Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads, to personalize advertising content to you, and to track your movements on website and on other third party sites. These third party cookies and other technologies are governed by each third party's specific privacy policy, and not this one. We may provide these third-party advertisers with de-identified information about your usage of our website and our services, as well as aggregate information about visitors to our website and users of our services; however, we do not share your personal information with these third parties. 
 
-You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative ("NAI") and the Digital Advertising Alliance ("DAA"). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: www.networkadvertising.org/optout_nonppii.asp and www.aboutads.info/choices.
+You may optout of many third-party ad networks, including those operated by members of the Network Advertising Initiative ("NAI") and the Digital Advertising Alliance ("DAA"). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to optout of third-party ad networks operated by NAI and DAA members, please visit their respective websites: www.networkadvertising.org/optout_nonppii.asp and www.aboutads.info/choices.
 
 ## Your California Privacy Rights.
 
-If you are a ThatsThem customer or site visitor who resides in California, and you have provided ThatsThem your personal information, you may request a list of the third parties with whom we have shared such personal information, for the third parties' own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information by contacting us at admin@thatsthem.com.
+If you are a ThatsThem customer or site visitor who resides in California, and you have provided ThatsThem your personal information, you may request a list of the third parties with whom we have shared such personal information, for the third parties' own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information by contacting us at [info@thatsthem.com](mailto:info@thatsthem.com).
 
 ## Updates to the Privacy Policy.
 
-ThatsThem may make changes to this privacy statement from time to time. Notice will be provided on this page [http://www.thatsthem.com/privacy](https://web.archive.org/privacy) to any material changes made the policy. This policies outlined above are not intended to and do not create any contractual obligations or other legal rights in or on behalf of any other person or entity.
+ThatsThem may make changes to this privacy statement from time to time. Notice will be provided on this page [http://www.thatsthem.com/privacy](https://thatsthem.com/privacy) to any material changes made the policy. This policies outlined above are not intended to and do not create any contractual obligations or other legal rights in or on behalf of any other person or entity.
 
-Last Updated: June 4th, 2014
+Last Updated: October 30th, 2015
