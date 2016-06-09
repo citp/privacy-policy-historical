@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130102317id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610013824id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,9 +14,9 @@ Viajes Beda S.A. de C.V. (hereinafter, “Bestday.com”), located at Avenida Bo
 
 The personal data that Bestday.com collects from you will be used solely for the purposes set out herein and may be obtained:
 
-  * Directly by entering your data or using the online services through the webpage www.bestday.com
-  * Directly through our _call center_.
-  * Personally through our booking agents.
+  * • Directly by entering your data or using the online services through the webpage www.bestday.com
+  * • Directly through our _call center_.
+  * • Personally through our booking agents.
 
 
 
@@ -33,6 +33,8 @@ Your data will be collected for the following main purposes that are necessary f
 Secondarily, we will use your personal data for the following purposes that are not necessary for the requested service but that allow and facilitate better assistance on our part:
 
 \- To evaluate the quality of the service, conduct surveys about travel habits and preferences, to participate in contests and raffles, customer loyalty programs, as well as for the sending of promotions, offers, services and advertising (solely and exclusively for Bestday.com).
+
+The Data Holder may immediately and at no cost request the cancellation of e-mail marketing from BestDay.com by clicking on the “Unsuscribe” link.
 
 In the event that you do not wish your personal data to be processed for these additional purposes, you may send at this time a written statement via email to the email address privacidad@bestday.com.
 
@@ -54,10 +56,10 @@ In any event, we hereby undertake not to transfer your personal data to third pa
 
 Article 28 of the LFPDPPP grants you four rights to exercise:
 
-  * The owner has the right to **_Access_ **his/her personal data that are held by the responsible party and to be aware of the Privacy Notice and its purposes.
-  * The owner has the right to ** _Rectify_** his/her datain the event that they are inexact, incorrect or outdated _._
-  * The owner has the right to ** _Cancel_ **his/her personal data when he/she considers that they are not being used to fulfill the purposes established in this Privacy Notice.
-  * The owner has the right to ** _Oppose_** the processing of his/her personal data in regard to any of the purposes established in this Privacy Notice.
+  * • The owner has the right to **_Access_ **his/her personal data that are held by the responsible party and to be aware of the Privacy Notice and its purposes.
+  * • The owner has the right to ** _Rectify_** his/her datain the event that they are inexact, incorrect or outdated _._
+  * • The owner has the right to ** _Cancel_ **his/her personal data when he/she considers that they are not being used to fulfill the purposes established in this Privacy Notice.
+  * • The owner has the right to ** _Oppose_** the processing of his/her personal data in regard to any of the purposes established in this Privacy Notice.
 
 
 
@@ -67,7 +69,7 @@ Article 8 of the LFPDPPP provides for the possibility of revoking the consent gr
 
  **Mechanisms for exercising ARCO Rights and revoking the consent for processing your data**
 
-To exercise your rights of Access, Rectification, Cancellation and Opposition or your right to revoke the consent for the processing of your personal data, you are required to complete and send the EXERCISE OF ARCO RIGHTS FORM, which you can [download here](http://www.bestday.com/FormatosPrivacidad/Formato_BDI.pdf), and submit it to Bestday.com at the following email address: [privacidad@bestday.com](mailto:privacidad@bestday.com), or you can submit the form physically to the following address: Avenida Bonampak Manzana 2, Lote 7, Supermanzana 10, Torre “B,” Cancún, Quintana Roo, C.P. 77500, attention Department of Protection of Personal Data,  in writing and in Spanish, complying with the requirements set forth in Article 29 of the LFPDPPP. For more information you can contact the Bestday.com Department of Protection of Personal Data directly by phone at: (52) 998 8811300 Ext. 1194 / 1190 / 1457 / 1682 / 1690 / 1291.
+To exercise your rights of Access, Rectification, Cancellation and Opposition or your right to revoke the consent for the processing of your personal data, you are required to complete and send the EXERCISE OF ARCO RIGHTS FORM, which you can [download here](https://www.bestday.com/FormatosPrivacidad/Formato_BDI.pdf), and submit it to Bestday.com at the following email address: [privacidad@bestday.com](mailto:privacidad@bestday.com), or you can submit the form physically to the following address: Avenida Bonampak Manzana 2, Lote 7, Supermanzana 10, Torre “B,” Cancún, Quintana Roo, C.P. 77500, attention Department of Protection of Personal Data,  in writing and in Spanish, complying with the requirements set forth in Article 29 of the LFPDPPP. For more information you can contact the Bestday.com Department of Protection of Personal Data directly by phone at: (52) 998 8811300 Ext. 1194 / 1190 / 1457 / 1682 / 1690 / 1291.
 
 To justify exercising your ARCO Rights, you are required to verify the possession of your ARCO Rights or the representation with respect to the owner through a copy of your identification document and the presentation of the original for comparison purposes, or the instruments indicated in Article 89 of the LFPDPPP.
 
@@ -95,7 +97,7 @@ To ensure that you are able to limit the use and disclosure of your personal dat
 
 Bestday.com uses its own cookies and those of third parties to analyze your browsing and offer you more personalized service according to your interests.
 
-If you are interested in learning about our Cookies policy [click here.](http://www.bestday.com/cookies/)
+If you are interested in learning about our Cookies policy [click here.](https://www.bestday.com/cookies/)
 
  **Modifications to this notice**
 
@@ -109,4 +111,4 @@ If you do not expressly oppose this Privacy Notice and its updates, we will assu
 
 Bestday.com recommends that you read this Privacy Notice, given that providing your data by any means constitutes your acceptance of this Privacy Notice. 
 
- **[www.bestday.com](http://www.bestday.com/)**
+ **[www.bestday.com](https://www.bestday.com/)**
