@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securepay.com.au privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030200119id_/https%3A//www.securepay.com.au/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securepay.com.au privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609163825id_/https%3A//www.securepay.com.au/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - SecurePay
 
@@ -384,7 +384,7 @@ remain unchanged.
 
 [Developer Centre >](https://www.securepay.com.au/developers/)
 
-#### Why do I need an online payments solution?
+#### Why do I need an online payments solution ?
 
 An online payments solution allows you to accept payments securely via your website, giving your customers peace of mind and minimising your business risk.
 
