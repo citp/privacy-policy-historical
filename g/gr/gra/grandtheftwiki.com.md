@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandtheftwiki.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210051046id_/http%3A//www.grandtheftwiki.com/Grand_Theft_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandtheftwiki.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609200529id_/http%3A//www.grandtheftwiki.com/Grand_Theft_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Grand Theft Wiki:Privacy Policy - Grand Theft Wiki, the GTA wiki
 
