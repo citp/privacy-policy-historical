@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askiyogi.com privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710121505id_/http%3A//www.askiyogi.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askiyogi.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609054904id_/http%3A//www.askiyogi.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Ask iYogi
 
