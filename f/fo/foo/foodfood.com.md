@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodfood.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210144641id_/http%3A//www.foodfood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodfood.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609190728id_/http%3A//www.foodfood.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FOOD FOOD
+# FOOD FOOD – Privacy Policy
 
 ### Privacy Policy
 
