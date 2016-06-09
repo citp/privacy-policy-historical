@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaysparent.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213124036id_/http%3A//www.rogersmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysparent.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609160014id_/http%3A//www.rogersmedia.com/privacy) for the most accurate reproduction.*
 
 # Rogers Media Privacy FAQ - Rogers Media Inc.
 
@@ -155,6 +155,11 @@ Toronto, ON M4W 1G9
 
 **_Office of the Privacy Commissioner of Canada_**  
 The Office of the Privacy Commissioner of Canada oversees our personal information handling practices. If any privacy concerns are not addressed to your satisfaction you may contact the Office of the Privacy Commissioner of Canada for further guidance:
+
+**By Phone:** 1-800-282-1376 or 613-995-8210  
+**By Fax:** 613-947-6850  
+**By E-mail:** [](mailto:%3Ca%20href='mailto:info@privcom.gc.ca'%20class='rogers_salient_email_link'%3Einfo@privcom.gc.ca%3C/a%3E)[info@privcom.gc.ca](mailto:info@privcom.gc.ca)  
+**Website:** [www.privcom.gc.ca](http://www.privcom.gc.ca/)
 
 Back to top
 
