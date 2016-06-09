@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flamingtext.in privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208171428id_/http%3A//www.flamingtext.in/privacy.html%3F_loc%3Dbottom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingtext.in privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609224132id_/http%3A//www.flamingtext.in/privacy.html%3F_loc%3Dbottom) for the most accurate reproduction.*
 
 # Logo Design Tool. Free and Online.
 
