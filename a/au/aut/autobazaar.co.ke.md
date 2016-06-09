@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the autobazaar.co.ke privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608214425id_/http%3A//www.autobazaar.co.ke/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobazaar.co.ke privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610002750id_/http%3A//www.autobazaar.co.ke/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy on autoBAZAAR Kenya
+
+## Privacy Policy on autoBAZAAR Kenya
 
   1. What information is collected?
   2. How is the information collected?
@@ -72,7 +74,7 @@ back to the top
 
 **VIII. Questions**
 
-  * If you have further questions that were not addressed in the above privacy policy, please contact the Buy and Sell Media Company Kenya Legal Department through out contact page [here](https://web.archive.org/web/20150608214425id_/http%3A//www.autobazaar.co.ke/index.php?a=28&b=136).  
+  * If you have further questions that were not addressed in the above privacy policy, please contact the Buy and Sell Media Company Kenya Legal Department through out contact page [here](https://web.archive.org/web/20160610002750id_/http%3A//www.autobazaar.co.ke/index.php?a=28&b=136).  
 back to the top  
  
 
