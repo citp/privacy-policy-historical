@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runningshoesguru.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190711id_/http%3A//www.runningshoesguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningshoesguru.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609083959id_/http%3A//www.runningshoesguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Running Shoes Guru
 
@@ -10,8 +10,8 @@ We may change this policy from time to time by updating this page. You should ch
 
 ### Information We Collect
 
-* 1.Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data. 
-* 2.Information that you provide by filling in forms on our website, such as when you signup to our newsletter, register for information or make a purchase. 
+* 1.Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
+* 2.Information that you provide by filling in forms on our website, such as when you signup to our newsletter, register for information or make a purchase.
 * 3.Information provided to us when you communicate with us for any reason.  
 
 
@@ -29,9 +29,9 @@ Our advertisers may also use cookies, over which we have no control. Such cookie
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
 
-* 1.To provide you with information requested from us, relating to our products or services. To provide information on other products which we feel may be of interest to you, where you have consented to receive such information. 
-* 2.To meet our contractual commitments to you. 
-* 3.To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service. 
+* 1.To provide you with information requested from us, relating to our products or services. To provide information on other products which we feel may be of interest to you, where you have consented to receive such information.
+* 2.To meet our contractual commitments to you.
+* 3.To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service.
 
 If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you.
 
@@ -55,8 +55,8 @@ Where applicable, we may disclose your personal information to any member of our
 
 We may also disclose your personal information to third parties:
 
-* 1.Where we sell any or all of our business and/or our assets to a third party. 
-* 2.Where we are legally required to disclose your information. 
+* 1.Where we sell any or all of our business and/or our assets to a third party.
+* 2.Where we are legally required to disclose your information.
 * 3.To assist fraud protection and minimise credit risk.  
 
 
