@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208221947id_/http%3A//www.essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610005803id_/http%3A//www.essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
 
 # University of Essex :: University of Essex Privacy Policy :: Website privacy and cookies policy
 
@@ -29,7 +29,7 @@ This information is also gathered by Google Analytics to provide web traffic rep
 
 If you visit our pages via a proxy server, some of the logged data will be obscured; for instance, the IP address collected will be that of the proxy server rather than that of your computer. 
 
-In addition to data collected automatically by the webservers, some of our pages request additional information; for instance, the prospectus request form asks for contact and other details, and the myEssex portals allow you to record a range of preferences so that you can customise what you see. Where this happens you will find further specific information about the data gathered and its use.
+In addition to data collected automatically by the webservers, some of our pages request additional information; for instance, the prospectus request form asks for contact and other details, and the MyEssex portals allow you to record a range of preferences so that you can customise what you see. Where this happens you will find further specific information about the data gathered and its use.
 
 All personal data is collected and stored in compliance with the Data Protection Act 1998.
 
@@ -41,7 +41,7 @@ Cookies are small text files stored on your computer. They relate to a specific 
 
 You can control the use of cookies on your computer by adjusting your web browser preferences, choosing to allow them, block them, only allow them from selected sites or only allow certain types of cookies. Restricting cookies for a site may interfere with some of the functionality of that site, though. 
 
-Details of the cookies we use are available elsewhere: [Cookies on the University website](https://web.archive.org/web/20151208221947id_/http%3A//www.essex.ac.uk/site/our_cookies.aspx).
+Details of the cookies we use are available elsewhere: [Cookies on the University website](https://web.archive.org/web/20160610005803id_/http%3A//www.essex.ac.uk/site/our_cookies.aspx).
 
 For more information about cookies please see [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
@@ -49,7 +49,7 @@ For more information about cookies please see [www.allaboutcookies.org](http://w
 
 We use the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. This could mean that we advertise to you if you haven't completed a task on our site. For example, looking at course details but not making an application. The advert could be in the form of an advertisement on your Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on your past visits to our website. Any data collected will be used in accordance with our own privacy policy and Google's privacy policy.
 
-You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/). If you want, you can opt out of interest-based advertising entirely using [your cookie settings](http://www.google.com/settings/ads/onweb/) or [a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
+You can set preferences for how Google advertises to you using the Google Ad Preferences page. If you want, you can opt out of interest-based advertising entirely using your cookie settings or a browser plugin.
 
 ## Google Analytics 
 
@@ -57,7 +57,7 @@ We use a third-party product, 'Google Analytics', to help us understand how our 
 
 ## Additional data for specialist applications
 
-Specialist applications, including the myEssex portals and e-learning tools, such as Moodle, Perception and OCS gather user data specific to their intended purpose. Data gathered by these applications includes user identifiers, tracking information, user contributions (eg on discussion forums, submitted essay content and assessment answers). 
+Specialist applications, including the MyEssex portals and e-learning tools, such as Moodle, Perception and OCS gather user data specific to their intended purpose. Data gathered by these applications includes user identifiers, tracking information, user contributions (eg on discussion forums, submitted essay content and assessment answers). 
 
 ## What do we do with the data?
 
@@ -78,4 +78,4 @@ Where data is passed to third parties, it is done so in compliance with the Data
 
 Anonymised usage data may be provided in publicly-available web statistics; any such data cannot be traced to individual users.
 
-© 2015 University of Essex. All rights reserved.
+© 2016 University of Essex. All rights reserved.
