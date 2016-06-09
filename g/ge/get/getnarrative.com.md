@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the getnarrative.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115082418id_/http%3A//getnarrative.com/pages/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getnarrative.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609124711id_/http%3A//getnarrative.com/legal/privacy-cookie-policy) for the most accurate reproduction.*
 
-# About Narrative | Narrative - automatic lifelogging camera
+# Legal - Cookie policy
 
-Version 1.1  
-Last revised May 26th 2015
+Version 1.3  
+Last revised: April 4th 2016
 
 This is a legal document about your privacy when you use Narrative’s Site and Services. Please refer to this right column for explanations of the paragraphs in plain english.
 
@@ -14,7 +14,7 @@ Narrative AB, 556870-9520, (“Narrative”, “we” “our”, or “us”). i
 We want to hear from you if you have questions on the privacy policy!
 
 If you have any questions or concerns about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following address:  
-**Narrative AB**  
+ **Narrative AB**  
 Attn: Privacy  
 Brahegatan 60  
 SE-114 37 Stockholm  
@@ -33,17 +33,17 @@ Let us know if someone under 13 is using Narrative, because we do not want them 
 
 We do not intentionally gather Personal Data from visitors who are under the age of 13. If a child under 13 submits Personal Data to Company and we learn that the Personal Data is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any Personal Data from a child under 13, please contact us at support@getnarrative.com.
 
-### 3\. A Note to Users Outside of the United States
+### 3\. A Note to Users in the European Union
 
-We may store your data outside of Europe, with suppliers that all sign off to the common rules around privacy protection.
+We may store your data outside of Europe.
 
-By visiting the Site and providing us with data, you acknowledge and agree that your Personal Data may be processed for the purposes identified in the Privacy Policy. In addition, you agree that your Personal Data may be processed in a country outside the European Union/European Economic Area, e.g. the United States. By providing your data, you consent to such transfer of data. Our suppliers of storage and customer care systems adhere to the United States/European Union Data Protection Safe Harbor Arrangement, which can be located at <http://www.exportgove/safeharbor> (“Safe Harbor”).
+By visiting the Site and providing us with data, you acknowledge and agree that your Personal Data may be processed for the purposes identified in the Privacy Policy. In addition, you agree that your Personal Data may be processed in a country outside the European Union/European Economic Area. By providing your data, you consent to such transfer of data.
 
 ### 4\. Types of Data We Collect.
 
 There is “personal data” that is linked to you as a person and there is “anonymous data” that is not linked to you as a person. Below are details on how we deal with these types of data.
 
-**“Personal Data”** means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Anonymous Data” means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+ **“Personal Data”** means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Anonymous Data” means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
 
 #### (a) Information You Provide to Us
 
@@ -54,7 +54,7 @@ We store various personal data that is needed to provide the products and servic
   * If you tell us where you are (e.g., by allowing your Narrative Clip to send us your location), we store and use that information to provide you with location-based information.
   * When you order Products on our Site, our e-commerce platform provider, Shopify Inc., will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information. They store your data in a secure server behind a firewall. If you chose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. This information is protected using industry-standard encryption. For more insight, you may also want to read Shopify’s Terms of Service and Privacy Statement.
   * When you order Services on our Site we and, our payment systems service providers, Braintree and/or PayPal, will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information. This information is protected using industry-standard encryption. For more insight, you may also want to read Braintree’s and PayPal’s Terms of Service and Privacy Statement.
-  * We retain information on your behalf, e.g. photographic material, GPS-information, time-stamps, comments and other information that you store using your Account.
+  * We retain information on your behalf, e.g. photographic material, location-information, time-stamps, comments and other information that you store using your Account.
   * If you provide us feedback or contact us via e-mail or our Application(s), we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply. This information may be shared with third parties who help process and fulfill your purchases. When you contact us via our Application(s), we will also collect your mobile device model, software version and device carrier, Application version, total and free space, battery level and status, network type and country code.
   * When you post content (text, images, photographs, messages, comments or any other kind of content that is not your e-mail address) on publicly available parts of our Site, such as message boards, the information contained in your posting will be stored in our servers and other users will be able to see it, along with your profile photo and any other information that you choose to make public on your public profile page **(“Profile”)**.
   * When you participate in one of our surveys, we may collect additional profile information.
@@ -98,7 +98,7 @@ We may receive Personal and/or Anonymous Data about you from companies that prov
 
 You share your location data with Narrative by using Narrative’s products.
 
-The Narrative Clip records your location information when it collects photographic information. Via the Clip, we collect your location information to make a map available to the recipients of your messages showing your location. When you contact us through our Application(s), we will gather information about the country code of your device.
+The Narrative Clip records your location information when it collects photographic information. Via the Clip, we collect your location information to provide you with information about your location. We use third party service providers and serve them with anonymous data in order to further process or refine the location information we provide to you. We never send third party service providers any information that allows them to connect location information to you as an individual user. When you contact us through our Application(s), we will gather information about the country code of your device.
 
 ### 5\. Use of Your Personal Data
 
@@ -198,7 +198,7 @@ If we are presented with such a request, Narrative will notify all affected user
 
 If we provide your Narrative files to a law enforcement agency as set forth above, we will remove Narrative’s encryption from the files before providing them to law enforcement.
 
-**Third Party Websites.** Our Site may contain links to third party websites. When you click on a link to any other website or location, you will leave our Site and go to another site, and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of your Personal Data after you click on links to such outside websites. We encourage you to read the privacy policies of every website you visit. The links to third party websites or locations are for your convenience and do not signify our endorsement of such third parties or their products, content or websites.
+ **Third Party Websites.** Our Site may contain links to third party websites. When you click on a link to any other website or location, you will leave our Site and go to another site, and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of your Personal Data after you click on links to such outside websites. We encourage you to read the privacy policies of every website you visit. The links to third party websites or locations are for your convenience and do not signify our endorsement of such third parties or their products, content or websites.
 
 ### 7\. Your Choices Regarding Information.
 
@@ -206,23 +206,23 @@ You have several choices regarding the use of information on our Service:
 
 You can always choose to not receive more emails from us, with the potential exception of communication strictly tied to the services.
 
-**(a) Email Communications.** We will periodically send you free newsletters and e-mails that directly promote the use of our Site or Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). Despite your indicated e-mail preferences, we may send you service related communications, including notices of any updates to our Terms of Use or Privacy Policy.
+ **(a) Email Communications.** We will periodically send you free newsletters and e-mails that directly promote the use of our Site or Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). Despite your indicated e-mail preferences, we may send you service related communications, including notices of any updates to our Terms of Use or Privacy Policy.
 
 You can always choose not to accept cookies at Narrative’s websites, but it may result in you not being able to fully use our websites.
 
-**(b) Cookies.** . If you decide at any time that you no longer wish to accept Cookies from our Service for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting Cookies or to prompt you before accepting a Cookie from the websites you visit. Consult your browser’s technical information. If you do not accept Cookies, however, you may not be able to use all portions of the Service or all functionality of the Service. If you have any questions about how to disable or modify Cookies, please let us know at the contact information provided below.
+ **(b) Cookies.** . If you decide at any time that you no longer wish to accept Cookies from our Service for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting Cookies or to prompt you before accepting a Cookie from the websites you visit. Consult your browser’s technical information. If you do not accept Cookies, however, you may not be able to use all portions of the Service or all functionality of the Service. If you have any questions about how to disable or modify Cookies, please let us know at the contact information provided below.
 
 You can always choose not to share your data with third party social networks.
 
-**(c) De-Linking SNS.** If you decide at any time that you no longer wish to have your SNS account (e.g., Facebook) linked to your Account, then you may de-link the SNS account in the “preferences” section in your account settings. You may also manage the sharing of certain Personal Data with us when you connect with us through an SNS, such as through Facebook Connect. Please refer to the privacy settings of the SNS to determine how you may adjust our permissions and manage the interactivity between the Services and your social media account or mobile device.
+ **(c) De-Linking SNS.** If you decide at any time that you no longer wish to have your SNS account (e.g., Facebook) linked to your Account, then you may de-link the SNS account in the “preferences” section in your account settings. You may also manage the sharing of certain Personal Data with us when you connect with us through an SNS, such as through Facebook Connect. Please refer to the privacy settings of the SNS to determine how you may adjust our permissions and manage the interactivity between the Services and your social media account or mobile device.
 
 You can always change the personal data you share with us and request for it to be deleted. We will do our best to never keep your data longer than needed.
 
-**(d) Changing or Deleting Your Personal Data** You may change any of your Personal Data in your Account by editing your profile within your Account or by sending an e-mail to us care@getnarrative.com. You may request deletion of your Personal Data by us, and we will use commercially reasonable efforts to honor your request. Please note that we may be required by law to keep such information and not delete it, or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements. We strive to never keep any Personal Data longer than absolutely necessary.
+ **(d) Changing or Deleting Your Personal Data** You may change any of your Personal Data in your Account by editing your profile within your Account or by sending an e-mail to us care@getnarrative.com. You may request deletion of your Personal Data by us, and we will use commercially reasonable efforts to honor your request. Please note that we may be required by law to keep such information and not delete it, or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements. We strive to never keep any Personal Data longer than absolutely necessary.
 
 You can always uninstall Narrative’s applications. This does not delete your data from our Site and Services.
 
-**(e) Applications.** You can stop all collection of information by the Application(s) by uninstalling the Application(s). You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. Please note that such uninstallation alone does not delete your Personal Data from our Site and Services.
+ **(e) Applications.** You can stop all collection of information by the Application(s) by uninstalling the Application(s). You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. Please note that such uninstallation alone does not delete your Personal Data from our Site and Services.
 
 ### 8\. Transfer of information to other countries
 
@@ -253,7 +253,7 @@ Tell us what you think about this privacy policy and let us know if you want a c
 
 Please email any request for such a copy, questions, concerns or comments you have about this Privacy Policy on care@getnarrative.com or write to us at:
 
-**Narrative AB**  
+ **Narrative AB**  
 Att: Privacy  
 Brahegatan 60  
 SE-114 37 Stockholm  
