@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vixendaily.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210030758id_/http%3A//www.vixendaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vixendaily.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609095629id_/http%3A//www.vixendaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,4 +66,4 @@ You may unsubscribe from our email newsletters at any time. You can do so by cli
 
 ## Disclaimer
 
-This policy may be changed at any time at Vixen Daily’s discretion. If we should update this policy, we will post the updates to this page on our website. This policy was revised February 3, 2015. 
+This policy may be changed at any time at Vixen Daily’s discretion. If we should update this policy, we will post the updates to this page on our website. This policy was revised February 3, 2015.
