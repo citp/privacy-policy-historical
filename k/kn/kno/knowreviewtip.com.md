@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowreviewtip.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134218id_/http%3A//www.knowreviewtips.com/privacy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowreviewtip.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609180842id_/http%3A//www.knowreviewtip.com/privacy-disclaimer) for the most accurate reproduction.*
 
 # Know Review Tip | Privacy Policy & Disclaimer
 
