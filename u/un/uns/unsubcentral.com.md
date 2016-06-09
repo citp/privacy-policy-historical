@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the unsubcentral.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207051759id_/http%3A//www.unsubcentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unsubcentral.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609131915id_/https%3A//www.unsubcentral.com/privacy) for the most accurate reproduction.*
 
 # UnsubCentral | Privacy Policy
 
 #### UnsubCentral Privacy Policy **  
 **
 
-UnsubCentral, Inc. (“UnsubCentral,” “us,” “we,” or “our”) respects and values your privacy. This privacy policy (the “Privacy Policy” or “Policy”) details UnsubCentral's treatment of personally identifiable information ('PII') and other information collected from our customers (“customers,” “clients,” “you,” “your,”) through this website at [www.unsubcentral.com](http://www.unsubcentral.com/) (the “Website”) and the Service (defined below), why we collect it and how it is used. Notwithstanding the foregoing, use of the UnsubCentral suppression service (the “Service”) shall be governed by the applicable services agreement between UnsubCentral and you (or the appropriate third party if other than you) and our information privacy practices for customer data as described below.
+UnsubCentral, Inc. (“UnsubCentral,” “us,” “we,” or “our”) respects and values your privacy. This privacy policy (the “Privacy Policy” or “Policy”) details UnsubCentral's treatment of personally identifiable information ('PII') and other information collected from our customers (“customers,” “clients,” “you,” “your,”) through this website at [www.unsubcentral.com](https://www.unsubcentral.com/) (the “Website”) and the Service (defined below), why we collect it and how it is used. Notwithstanding the foregoing, use of the UnsubCentral suppression service (the “Service”) shall be governed by the applicable services agreement between UnsubCentral and you (or the appropriate third party if other than you) and our information privacy practices for customer data as described below.
 
 We may periodically make changes to this Privacy Policy and those changes become effective immediately upon posting them to the Site. It is your responsibility to review this Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. We are not required to provide notice of changes to this Privacy Policy.
 
