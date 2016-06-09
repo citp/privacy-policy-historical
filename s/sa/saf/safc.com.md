@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safc.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207100752id_/http%3A//www.safc.com/hygiene-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safc.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609080945id_/http%3A//www.safc.com/hygiene-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SAFC
 
@@ -54,9 +54,7 @@ We do not keep your personal information any longer than is necessary.
 
 By joining the SAFC email update service, and/ or as a supporter, customer, subscriber or competition entrant, we will occasionally email you with our latest news and information about our products, services, special offers, promotions and any other advertising or marketing materials which we think may be of interest to you.
 
-For example, we will often give advance notice of our fantastic sales offers so that you can pick up a bargain. You will be asked when registering on the website to indicate if you do not want to be contacted by us in this way. You will need to provide us with your name and email address if you wish to subscribe to this service. You can unsubscribe from the email service at any time by clicking here. You can change your profile details by clicking here.
-
-If you subscribe to our mailing lists, you may be asked to specify the areas in which you are interested so that we can tailor the information which is sent to you to cover the subjects, topics and merchandise in which you might be interested.
+For example, we will often give advance notice of our fantastic sales offers so that you can pick up a bargain. You will be asked when registering on the website to indicate if you do not want to be contacted by us in this way. You will need to provide us with your name and email address if you wish to subscribe to this service. 
 
 Third party promotions **  
 ** We would also like to pass your details to third parties and organisations approved by us and with whom we have commercial links so that they may contact you to inform you about their products and/ or services and promotions, which may be of interest to you. We will only disclose your data to third parties if you consent to us doing so. You may be asked when registering on the website to indicate if you allow us to pass your details to any third parties. ****
