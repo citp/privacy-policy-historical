@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the percolate.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619085900id_/http%3A//percolate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the percolate.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609202119id_/https%3A//percolate.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Percolate
 
@@ -56,26 +56,13 @@ If you prefer to call, our number is (646) 470-8346
 
 We have implemented security measures to protect user information from loss, misuse and alteration. We use industry-standard practices such as encrypted storage, firewalls and password protection systems to safeguard the confidentiality of your personal information. Each of our employees is aware of our security policies, and your information is only available to those employees who need it to perform their jobs.
 
-### Safe Harbor Privacy Statement
-
-For personal information that is subject to EU data protection laws that we receive from Member States of the European Union, We have committed to handling such personal information in accordance with the seven principles outlined in EU Directive 95/46/EC on the protection of personal data (the “Safe Harbor Principles”). Additional information about the Safe Harbor program is available at the U.S. Department of Commerce's website at <http://www.export.gov/safeharbor>.
-
-Our Safe Harbor certification can be found at <http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list>.
+### EU Data Privacy Statement
 
 We process user information in our facilities in the United States. All user information subject to this Privacy Policy is collected in the United States, obtained through websites in the United States, or obtained in other countries and transferred to the United States. Regardless where it originated, all user information subject to this Privacy Policy receives the same level of privacy protection as described herein.
 
-### Enforcement
+We handle personal information that is subject to EU data protection laws in accordance with the seven principles outlined in EU Directive 95/46/EC on the protection of personal data (the “Safe Harbor Principles”). Additional information about the Safe Harbor program is available at the U.S. Department of Commerce's website at <http://www.export.gov/safeharbor>.
 
-Complaints related to this Privacy Policy and our compliance with it and the Safe Harbor Principles can initially be referred to privacy@percolate.com. We also follow internal procedures for verifying that our commitments under this Privacy Policy have been implemented, and will remedy problems arising out of a failure to comply with this Privacy Policy and the Safe Harbor Principles.
-
-We have further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Percolate, you may contact the BBB EU SAFE HARBOR program at the address below:
-
-Council of Better Business Bureaus, Inc.  
-BBB EU SAFE HARBOR  
-3033 Wilson Boulevard, Suite 600  
-Arlington, VA 22201  
-Phone: 703-276-0100  
-Web: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
+**EU Personal Data Protection After Safe Harbor Invalidation.**  In October 2015, the Court of Justice of the European Union (CJEU) invalidated the EU-US Safe Harbor program as the basis for the transfer of personal data outside the European Economic Area. In order to continue providing services to our global client base, we are working to develop ways for our clients to continue transferring personal data to us in compliance with EU data protection laws. When necessary, we implement EU Standard Contractual Clauses (SCCs) (pre-approved by the European Commission and also referred to as the Model Clauses), through our Data Processing Addendum. Furthermore, on February 2, 2016, the US and the European Union announced their agreement to a new framework for personal data transfer, referred to as the EU-US Privacy Shield. The Privacy Shield framework has not yet been implemented, but we will continue to monitor developments related to the Privacy Shield and work with clients to ensure that their transfer of personal data is compliant with EU data protection laws.
 
 ### Changes to this Policy
 
@@ -85,4 +72,4 @@ We may revise this Privacy Policy from time to time. The most current version of
 
 Thoughts or questions about this Privacy Policy? Please, let us know at [privacy@percolate.com](mailto:privacy@percolate.com)
 
-_This Privacy Policy is effective as of May 26, 2011. Updated on November 10, 2014._
+_This Privacy Policy is effective as of May 26, 2011. Updated on March 28, 2016._
