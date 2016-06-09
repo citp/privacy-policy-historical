@@ -1,187 +1,102 @@
-> *The following text is extracted and transformed from the lightersideofrealestate.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104223637id_/http%3A//lightersideofrealestate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightersideofrealestate.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609083135id_/http%3A//lightersideofrealestate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lighter Side of Real Estate
 
-## lightersideofrealestate.com Privacy Policy
+We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this website. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+We recognize the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use, and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices, and our customer’s needs.
 
-### What personal information do we collect from the people that visit our blog, website or app?
+###  **WHAT INFORMATION DO WE COLLECT?**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information, photos, voluntarily submitted company information and location or other details to help you with your experience.
+When you visit this website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse our website.
 
-### When do we collect information?
+  1. Personal Information You Choose to Provide
+  2. Registration Information
 
-We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
 
-### How do we use your information?
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+When you register for any of our products, services, or newsletters you will provide us information about yourself.
 
-  * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To improve our website in order to better serve you.
-  * To allow us to better service you in responding to your customer service requests.
-  * To administer a contest, promotion, survey or other site feature.
-  * To quickly process your transactions.
-  * To send periodic emails regarding your order or other products and services.
+  3. Email Information
 
 
 
-### How do we protect visitor information?
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+  4. Website Use Information
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+Similar to other commercial websites, our website utilizes a standard technology called cookies (see explanation below, What Are Cookies?) and web server log files to collect information about how our website is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our website, and the websites visited just before and just after our website.
 
-### Do we use ‘cookies’?
+###  **HOW DO WE USE THE INFORMATION THAT YOU PROVIDE TO US?**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site`s content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
 
-### We use cookies to:
+Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law. Occasionally, we may also use the information we collect to notify you about important changes to our website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
 
-  * Understand and save user’s preferences for future visits.
-  * Keep track of advertisements.
-  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
-  * You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
-  * If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
-  * However, you can still place orders.
+###  **WHAT ARE COOKIES?**
 
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site`s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser`s preferences allow it, but (to protect your privacy) your browser only permits a Website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users.A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
 
+###  **HOW DO WE USE INFORMATION WE COLLECT FROM COOKIES?**
 
-### Third Party Disclosure
+As you visit and browse our website, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our web server`s log files, allow us to calculate the aggregate number of people visiting our website and which parts of the site are most popular. This helps us gather feedback to constantly improve our Website and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+###  **WHAT ARE DYNAMIC ADS?**
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Dynamic Ads are ads that are personalized in real-time to the user. Unlike static ads that show the same content on every impression, Dynamic Ads enable the advertiser to display a unique creative for different users. Dynamic Ads are the only feasible way to scale up the number of creatives per campaign and to personalize them on each impression.
 
-### Third party links
+###  **WHAT IS RETARGETING?**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+The main goal of ReTargeting Ads is to re-engage site visitors after they have left the site. Dynamic ReTargeting Ads are generated based on the actual products or offers viewed on the advertiser’s site. For example if you’ve visited a retailer’s website and viewed a specific product, you might receive a banner ad containing that product. Rather than showing the same ad to every visitor, Lighter Side of Real Estate’s Dynamic Ad Application will select the most relevant ad copy based on the user’s activity on the site. Lighter Side of Real Estate’s Personalized ReTargeting Platform works when an advertiser places our tag on his website. The tag embeds a third party cookie on the browser of users visiting the site. Using Real Time Bidding (RTB) Ad Exchanges, it is then possible to focus media buying efforts against those visitors. It is important to note that the cookie itself does not contain any personal identifying information. Our Personalized ReTargeting ads intelligently match the right offering to each visitor based on his previous activities on the site. Each advertiser using Lighter Side of Real Estate’s services is responsible to limit the number of ad impressions shown to each user in order to ensure that viewers are not overly exposed to specific ads.
 
-### Google
+###  **HOW CAN I REMOVE MYSELF FROM BEING RETARGETED?**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users.
+The Lighter Side of Real Estate makes removing our tracking cookie easy for any user who wishes to do so. Users that don’t want to see Lighter Side of Real Estate Personalized Ads should simply email admin@lightersideofrealestate.com
 
-[Google Adwords Policy](https://support.google.com/adwordspolicy/answer/1316548?hl=en)
+###  **IP ADDRESSES**
 
-We use Google AdSense Advertising on our website.
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+###  **WHAT ABOUT LEGALLY COMPELLED DISCLOSURE OF INFORMATION?**
 
-### We have implemented the following:
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
 
-  * Remarketing with Google AdSense
-  * Google Display Network Impression Reporting
-  * Demographics and Interests Reporting
-  * DoubleClick Platform Integration
+###  **WHAT ABOUT OTHER WEBSITES LINKED TO OUR WEBSITE?**
 
+We are not responsible for the practices employed by websites linked to or from our website or the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our website. Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including websites, which have a link on our website, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
 
+###  **YOUR CONSENT**
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+By using our website you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this Privacy Policy at any time with or without notice.
 
- **Opting out:**
+###  **OUR COMMITMENT TO DATA SECURITY**
 
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-### California Online Privacy Protection Act
+###  **CHOICE / OPT-IN / OPT-OUT**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: [California Online Privacy Protection Act CALOPPA](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf).
+This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
 
-### According to CalOPPA we agree to the following:
+###  **SURVEYS & CONTESTS**
 
-Users can visit our site anonymously
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+###  **A SPECIAL NOTE ABOUT CHILDREN**
 
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
 
-Users will be notified of any privacy policy changes:
+###  **ACQUISITION OR CHANGES IN OWNERSHIP**
 
-  * On our Privacy Policy Page
+In the event that the website (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
 
+###  **POLICY MODIFICATIONS**
 
+We may change this Privacy Policy from time to time. If/when changes are made to this Privacy Policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
-Users are able to change their personal information:
+###  **CONTACT US**
 
-  * By emailing us
-  * By logging in to their account
+If you have any questions or comments about these our Terms of Service as outlined above, you can contact us.
 
-
-
-### How does our site handle do not track signals?
-
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
-
-### Does our site allow third party behavioral tracking?
-
-It’s also important to note that we allow third party behavioral tracking
-
-### COPPA (Children Online Privacy Protection Act)
-
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under 13.
-
-### Fair Information Practices
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-### In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
-
-We will notify the users via email
-
-  * Within 7 business days
-
-
-
-We will notify the users via in site notification
-
-  * Within 7 business days
-
-
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-### CAN SPAM Act
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-### We collect your email address in order to:
-
-  * Send information, respond to inquiries, and/or other requests or questions.
-  * Process orders and to send information and updates pertaining to orders
-  * We may also send you additional information related to your product and/or service.
-  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
-
-
-
-### To be accordance with CANSPAM we agree to the following:
-
-  * NOT use false, or misleading subjects or email addresses
-  * Identify the message as an advertisement in some reasonable way
-  * Include the physical address of our business or site headquarters
-  * Monitor third party email marketing services for compliance, if one is used.
-  * Honor opt-out/unsubscribe requests quickly
-  * Allow users to unsubscribe by using the link at the bottom of each email
-
-### If at any time you would like to unsubscribe from receiving future emails, you can
-
-    * Follow the instructions at the bottom of each email.
-
-### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-lightersideofrealestate.com  
-166 Corley Mill Rd  
-Lexington, SC 29072 USA  
-Email: admin[@]lightersideofrealestate.com
-
-Last Edited on 2014-11-02
-
-
-
+ _Last Edited on 11-25-2015_
