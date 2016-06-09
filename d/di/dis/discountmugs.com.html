@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the discountmugs.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906013237id_/https%3A//www.discountmugs.com/nc/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discountmugs.com privacy policy that was archived on 2016-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609195727id_/https%3A//www.discountmugs.com/nc/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PWKNTZ"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.mongoosemetrics.com/jsfiles/js-correlation/mm-engine.js?t=1580432848669"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwEFWFZXGwYDVFJbBwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/822965624361174463/bc.vms4/vms.js"></script><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PWKNTZ"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.mongoosemetrics.com/jsfiles/js-correlation/mm-engine.js?t=1580432849331"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);</script>
 <title>DiscountMugs.com Privacy Policy – DiscountMugs Privacy Policy – Discount Mugs Privacy Policy</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 <link rel="SHORTCUT ICON" href="/favicon.ico">
@@ -17,6 +17,7 @@
 <meta name="geo.placename" content="Miami">
 <meta name="geo.position" content="25.889626;-80.386773">
 <meta name="ICBM" content="25.889626, -80.386773">
+<script src="//cdn.optimizely.com/js/3822894690.js"></script>
 
 <!--[if lt IE 9]>
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -47,15 +48,20 @@ input, select{vertical-align:middle;outline:none;}
 .no-mr-right{margin-right:0px !important;}
 @font-face{font-family:'Helvetica Condensed';font-style:normal;font-weight:400;src:url(/nl/fonts/HelveticaCondensed.woff) format("woff")}
 @font-face{font-family:'Helvetica Condensed Bold';font-style:normal;font-weight:600;src:url(/nl/fonts/Helvetica-Condensed-Bold.woff) format("woff")}
+@font-face{font-family:'Helvetica Condensed';font-style:normal;font-weight:400;src:url(/nl/fonts/euphoriascript-regular-webfont.eot) format("eot")}
+@font-face{font-family:'Helvetica Condensed Bold';font-style:normal;font-weight:600;src:url(/nl/fonts/euphoriascript-regular-webfont.eot) format("eot")}
+
 .wrapper{width:100%;}
 .wrapper-inner{background-color: rgba(0, 0, 0, 0.3);height:100%;width:100%;position:fixed;z-index:999;top:45px;}
 .header-top-holder{width:100%;background:#403e34;padding:5px 0;}
 .header-top-content{width:1430px;margin:0 auto;}
 .header-top-content{width:1430px;margin:0 auto;}
+.header-top-content-left{float:left;}
+.header-top-content-left h1{color:#FFFFFF;font-weight:normal;}
 .header-top-content-right{float:right;}
 .header-top-content-right ul li{float:left;border-left:1px solid #fff;padding:0 10px;}
 .header-top-content-right ul li:first-child{border-left:none;}
-.header-top-content-right ul li a{color:#fff;}
+.header-top-content-right ul li a{color:#fff;font-family: helvetica condensed;font-size: 14px;}
 .header-top-content-right ul li a:hover{color:#f7941d;}
 .header-mid-holder{width:100%;}
 .search-for-mobile-content{display:none;}
@@ -64,32 +70,41 @@ input, select{vertical-align:middle;outline:none;}
 .header-mid-content-phone-only-mobile{display:none;float:right;}
 .mobile-menu-trigger{display:none;}
 .header-mid-content-logo-holder{float:left;}
-.header-mid-content-logo{float:left;line-height:0px;}
+.header-mid-content-logo{float:left;line-height:0px;width:250px;}
 .header-mid-content-logo a{display:block;}
 .header-mid-content-logo a img{width:100%;}
 .header-mid-content-logo img.logo2{display:none;}
 .header-mid-content-logo .punchline { color: #bbb;font-size: 12px;font-weight: 700;padding: 0 20px 0 0;float:right;line-height:normal;}
 .header-mid-content-logo .punchline h1 {color: #bb2129;display: inline;font-size: 12px;}
 .header-mid-content-logo .punchline span {color: #bb2129;display: inline;font-size: 12px;}
-.header-mid-content-mobile-menu-search-holder{float:left;margin-top:15px;margin:15px 60px 0 60px;}
+.header-mid-content-mobile-menu-search-holder{float:left;margin-top:15px;margin:15px 50px 0 50px;}
 .header-mid-content-mobile-menu{float:left;position:absolute;/*width:380px;z-index:9999;*/display:none;}
-.header-mid-content-search{border:1px solid #d2d2d2;background:#f3f3f3;border-radius:3px;padding:2px;float:left;}
-.header-mid-content-search input[type="text"]{border:none;background:none;color:#acacae;font-style:italic;font-size:14px;padding:0px;padding:8px 0 8px 8px;width:340px;}
-.header-mid-content-search button{transition:all 0.4s linear 0s;background:#f7941d;border:none;color:#fff;cursor:pointer;border-radius:3px;padding:6px 14px;}
+.header-mid-content-search{border:1px solid #d2d2d2;background:#f3f3f3;border-radius:3px;float:left;}
+.header-mid-content-search input[type="text"]{border:none;background:none;color:#acacae;font-style:italic;font-size:14px;padding:0px;padding:8px 0 8px 8px;width:460px;float:left;outline:none;}
+.header-mid-content-search button{transition:all 0.4s linear 0s;background:#bab8bb;border:none;color:#fff;cursor:pointer;border-radius:3px;padding:6px 14px;outline:none;line-height:10px;}
+.header-mid-content-search button:hover{background:#333333;}
 .header-mid-content-search button:hover{background:#8bc43f;}
 .header-mid-content-phone-chat-holder{float:left;margin-top:6px;}
-.header-mid-content-phone{float:left;margin-right:10px;padding-right:10px;border-right:1px solid #dbdbdb;}
-.header-mid-content-phone-icon{float:left;}
+.header-mid-content-phone-chat-holder{float:left;margin-top:6px;}
+.header-mid-content-phone{float:left;margin-bottom:5px;}
+.header-mid-content-phone-icon{float:left;margin-right:5px;}
 .header-mid-content-phone-icon i{font-size:40px;color:#58585a;margin:6px 5px 0 0;}
 .header-mid-content-phone-text{float:left;color:#58585a;}
-.header-mid-content-phone-text p:first-child{font-family:"Helvetica Condensed Bold";color:#f7941d;font-size:24px;}
-.header-mid-content-phone-text p:first-child a{color:#f7941d;}
+.header-mid-content-phone-text p:first-child{font-family:"Helvetica Condensed Bold";color:#6e6d72;font-size:24px;line-height:20px;}
+.header-mid-content-phone-text p:first-child a{color:#6e6d72;}
+.header-mid-content-phone-text p.phones-open{font-size:12px;padding:2px 0 0 4px;}
+
+.header-mid-content-chat-online-holder{clear:both;}
+.header-mid-content-chat-online-holder p.chat-online{background:url(/nl/images/chat.png) no-repeat 0 0;font-family:"Helvetica Condensed Bold";color:#6e6d72;padding-left: 30px; line-height: 20px;}
+.header-mid-content-chat-online-holder p a{color:#16addc;text-decoration:underline;}
+
 .header-mid-content-chat{float:left;}
 .header-mid-content-chat-icon{float:left;}
 .header-mid-content-chat-icon i{font-size:40px;color:#58585a;margin:6px 5px 0 0;}
 .header-mid-content-chat-text{float:left;color:#58585a;}
 .header-mid-content-chat-text p:first-child{font-family:"Helvetica Condensed Bold";color:#f7941d;font-size:24px;}
 .header-mid-content-chat-text p a{color:#16addc;}
+
 .header-mid-content-icons-holder {float:right;}
 .header-mid-content-icons-holder i.fa-phone {display:none;float:left;color:#333;font-size:18px;margin:0 2px;}
 .header-mid-content-icons-holder i.fa-search {display:none;float:left;color:#333;font-size:20px;margin:0 15px;}
@@ -99,28 +114,75 @@ input, select{vertical-align:middle;outline:none;}
 .header-mid-content-call-text-holder p:first-child{font-family:"Helvetica Condensed Bold";color:#f7941d;font-size:16px;display:block;}
 .header-mid-content-call-text-holder p:first-child a{color:#f7941d;}
 .header-mid-content-call-text-holder p{font-size:12px;display:none;}
-.header-mid-content-cart{float:right;width:65px;height:50px;}
-.header-mid-content-cart a{text-align:center;color:#58585a;background:#f3f3f3;border:1px solid #d2d2d2;border-radius:3px;display:block;position:relative;z-index:999;}
+.header-mid-content-cart{float: left;height: 50px;margin-right: 40px;margin-top: 10px;width: 125px;}
+.header-mid-content-cart a{color:#58585a;display:block;position:relative;z-index:999;}
 .header-mid-content-cart:hover a{border-bottom:none;}
-.header-mid-content-cart a span{display:block;width:100% !important;}
+.header-mid-content-cart a span{float:left;}
+.header-mid-content-cart a span.header-mid-content-cart-icon{line-height:0px;margin-right:10px;}
+.header-mid-content-cart a span.header-mid-content-cart-icon i.fa-shopping-cart{display:none;}
+.header-mid-content-cart a span.text-your-cart{color: #6e6d72;font-family: "Helvetica Condensed Bold";font-size: 16px;}
+.header-mid-content-cart a span.text-your-cart-count{color: #f7941d;}
+
 .header-mid-content-cart span.header-mid-content-cart-icon i{font-size:25px;color: #8bc43f;}
 .header-mid-content-cart span.header-mid-content-cart-icon span.header-mid-content-cart-icon-cnt{background:#58585a;color:#fff;height:25px;width: 25px !important;text-align:center;line-height:25px;border-radius: 30px;position:absolute;left: 20px;top: -10px;  /*margin: -40px 0 0 20px;*/}
 .header-mid-content-cart:hover{border-bottom:#f3f3f3;}
 .header-mid-content-cart:hover .cart-drop-content{display:block;}
-
-.cart-drop-content{display:none;padding:10px;border: 1px solid #d2d2d2;padding:15px;width:260px !important;float: right;margin-top:-3px;border-radius: 3px;z-index:9;background:#f3f3f3;position:relative;}
+.cart-drop-content{display:none;padding:10px;border: 1px solid #d2d2d2;padding:15px;width:260px !important;float: right;margin-top:-1px;border-radius: 3px;z-index:9;background:#f3f3f3;position:relative;}
 .cart-drop-content .cart-drop-hd{font-family:"Helvetica Condensed Bold";color: #9fa2a5;font-size: 14px;}
 .cart-drop-content .cart-drop-product{margin:10px 0;}
 .cart-drop-content span.cart-drop-product-count{float:left;}
 .cart-drop-content span.cart-drop-product-price{float:right;color: #f68922;}
 .cart-drop-content .cart-drop-link a{color: #6f9f35;background:none;border:none;text-align:left;}
 
+/*added for new design header*/
+.header-mid-content-your-account-holder{float:left;margin-top:10px;}
+.header-mid-content-your-account-icon{float:left;margin-right:10px;}
+.header-mid-content-your-account-icon i.fa-users{display:none;}
+.header-mid-content-your-account-text{float:left;position:relative;}
+.header-mid-content-your-account-text span{display:block;}
+.header-mid-content-your-account-text span.text-your-account{font-family: "Helvetica Condensed Bold";font-size:16px;color:#6e6d72;}
+.header-mid-content-your-account-text span.text-your-name{color: #16addc;}
+
+.header-mid-content-your-account-text:hover .your-account-drop-menu-holder{
+	display:block;
+	}
+
+.your-account-drop-menu-holder{
+	position:absolute;
+	border:1px solid #dadada;
+	background:#f3f3f3;
+	padding:10px 15px;
+	position:absolute;
+	right:0px;
+	top:20px;
+	width:120px;
+	z-index:99;
+	display:none;
+	}
+.your-account-drop-menu-holder ul li a{	
+font-family: "Helvetica Condensed Bold";
+font-size: 14px;
+color: #6E6D72;
+line-height:24px;
+display:block;
+}
+
+.your-account-drop-menu-holder ul li a:hover{	
+color: #F7941D;
+}
+
+.your-account-drop-menu-holder ul li.your-account-drop-menu-name a{	
+font-size: 16px;
+color: #16ADDC;
+text-align:right;
+}
+
 .header-bot-holder{width:100%;}
 .header-bot-content{width:1430px;margin:0 auto;position:relative;}
 .header-bot-content ul{border-bottom:1px solid #e6e6e6;float:left;}
 .header-bot-content ul li{border:1px solid transparent;border-bottom:none;float:left;margin-bottom:-1px;}
 .header-bot-content ul li:hover{border:1px solid #e6e6e6;border-bottom:none;background:#fff;}
-.header-bot-content ul li a{color:#8d8d8d;font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:12px;display:inline-block;padding:12px 6.5px;}
+.header-bot-content ul li a{color:#8d8d8d;font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:12px;display:inline-block;padding:12px 4.5px;}
 .header-bot-content ul li a:hover{background:#fff;}
 .header-bot-content ul li a span{float:left;}
 .header-bot-content ul li a span.menu-icon{width:28px;height:28px;padding-right:5px;}
@@ -138,13 +200,152 @@ input, select{vertical-align:middle;outline:none;}
 .header-bot-content ul li a span.top-icon-wellness{background:url(/nl/images/dm-top-menu-icons.png) no-repeat 0 -308px;}
 .header-bot-content ul li a span.top-icon-events{background:url(/nl/images/dm-top-menu-icons.png) no-repeat 0 -336px;}
 .header-bot-content ul li a span.top-icon-menu_clearance{background:url(/nl/images/dm-top-menu-icons.png) no-repeat 0 -364px;}
+.header-bot-content ul li a span.top-icon-menu-gift-idea{background:url(/nl/images/giftbox-green.png) no-repeat 0 0}
 
-.menu-drop-holder{position:absolute;display:none;/*left:0;*/z-index:999;}
+
+/**signup-popup-start**/
+.new-sign-up-holder-for-dm{
+	background:#737478 url(/images/header-top-sign-up-background.jpg) bottom center repeat-x;
+	padding:20px 0;
+	width:100%;
+	}
+.new-sign-up-holder-for-dm-inner{
+	width:700px;
+	margin:0 auto;
+	color:#333;
+	position:relative;
+	}
+	
+.new-sign-up-holder-for-dm-cross{
+	position: absolute;
+    right: 0;
+	top: -15px;
+	}
+.new-sign-up-holder-for-dm-cross a{
+	height:30px;
+	width:30px;
+	background:#a7a8ac;
+	color:#fff;
+	text-align:center;
+	line-height:30px;
+	border:3px solid #fff;
+	display:block;
+	border-radius: 30px;
+	font-family: "Helvetica Condensed Bold";
+	font-size:16px;
+	}	
+.new-sign-up-holder-for-dm-cross a:hover{
+	background:#f7941d;
+	border:3px solid #fff;
+	}		
+	
+.new-sign-up-holder-for-dm-inner-normal{
+	text-align:center;
+	color:#fff;
+	}
+.new-sign-up-holder-for-dm-inner-normal p.hd-miduam{
+	font-size:24px;
+	line-height:24px;
+	font-family: "Helvetica Condensed Bold";
+	}
+.new-sign-up-holder-for-dm-inner-normal p.hd-big{
+	font-family: "Helvetica Condensed Bold";
+	font-size:44px;
+	color:#8bc43f;
+	text-transform:uppercase;
+	}
+.new-sign-up-holder-for-dm-inner-normal p.hd-small{
+    font-size: 11px;
+    margin-left: 182px;
+    text-align: left;
+	color:#b4b5b7;
+	}	
+.sign-me-up-holder{
+	margin-bottom:5px;
+	}
+.sign-me-up-holder span{
+	display:inline-block;
+	margin:0 5px;
+	font-size:14px;
+	}	
+.sign-me-up-holder span input[type="text"]{
+	border:none;
+	padding:8px 10px;
+	width:300px;
+	}	
+.sign-me-up-holder span input[type="submit"]{
+	border:none;
+	background:#8bc43f;
+	color:#fff;
+	cursor:pointer;
+	text-transform:uppercase;
+	font-family: "Helvetica Condensed Bold";
+	font-size:14px;
+	padding: 7px 10px;
+	border-radius:3px;
+	transition: all 0.4s linear 0s;
+	}	
+.sign-me-up-holder span input[type="submit"]:hover{
+	background:#f7941d;
+	}	
+	
+	
+	
+.new-sign-up-holder-for-dm-inner-success{
+	text-align:center;
+	}
+.new-sign-up-holder-for-dm-inner-success p.hd-miduam{
+	font-size:30px;
+	line-height:24px;
+	text-transform:uppercase;
+	font-family: "Helvetica Condensed Bold";
+	color:#fff;
+	}
+.new-sign-up-holder-for-dm-inner-success p.hd-big{
+	font-family: "Helvetica Condensed Bold";
+	font-size:55px;
+	color:#8bc43f;
+	text-transform:uppercase;
+	}
+.new-sign-up-holder-for-dm-inner-success p.hd-small{
+	color: #b4b5b7;
+    font-size: 11px;
+    text-align: left;
+	margin-left:70px;
+	}	
+.new-sign-up-holder-for-dm-inner-success .use-promo-code{
+	font-family: "Helvetica Condensed Bold";
+	text-align:center;
+	}
+.new-sign-up-holder-for-dm-inner-success .use-promo-code span:first-child{
+	color:#fff;
+	font-size:18px;
+	margin-right:5px;
+	text-shadow: none;
+	 letter-spacing: normal;
+	 text-transform:none;
+	}	
+		
+.new-sign-up-holder-for-dm-inner-success .use-promo-code span{
+	font-size:50px;
+	text-transform:uppercase;
+	color:#8bc43f;
+	text-shadow:
+   -2px -2px 0 #fff,  
+    1px -2px 0 #fff,
+    -2px 1px 0 #fff,
+     1px 1px 0 #fff;
+	 letter-spacing: 1px;
+	 display:inline-block;
+}	
+/**signup-popup-end**/
+
+.menu-drop-holder{position:absolute;display:none;/*left:0;*/z-index:9999;}
 .header-bot-content ul li:hover .menu-drop-holder{display:block;}
 .menu-drop-content{position:relative;float:left;}
 .menu-drop-content-link-box{padding:10px;border:1px solid #e6e6e6;border-top:none;background:#fff;float:left;}
 .menu-drop-content-link-box-single-holder{float:left;background:#fff;}
-.menu-drop-content-link-box-single{float:left;width:225px;/*width:350px;*/}
+.menu-drop-content-link-box-single{float:left;width:220px;/*width:350px;*/}
 
 .menu-drop-content-link-box-single ul{border:none;}
 .menu-drop-content-link-box-single ul li{float:none;border:none;margin:0px;}
@@ -485,12 +686,13 @@ a,img{outline:none;border:none}
 @media only screen and (max-width: 1550px) {
 .header-top-content{width:1320px;}
 .header-top-content{width:1320px;}
+.header-mid-content-cart {margin-right: 30px;}
 .header-mid-content{width:1320px;}
 .header-bot-content{width:1320px;}
 
 .header-mid-content-mobile-menu-search-holder{margin:15px 45px 0;}
-.header-mid-content-search input[type="text"]{width:280px;}
-.header-bot-content ul li a{padding:12px 2.5px;}
+.header-mid-content-search input[type="text"]{width:370px;}
+.header-bot-content ul li a{padding:12px 0.5px;}
 .body-inner{width:1320px;}
 
 }
@@ -500,7 +702,7 @@ a,img{outline:none;border:none}
 .header-top-content{width:1250px;}
 .header-mid-content{width:1250px;}
 .header-mid-content-mobile-menu-search-holder{margin:15px 25px 0;}
-.header-mid-content-search input[type="text"]{width:250px;}
+.header-mid-content-search input[type="text"]{width:350px;}
 .header-bot-content{width:1250px;}
 
 .header-bot-content ul li a span.menu-icon{padding-right:0;}
@@ -511,9 +713,9 @@ a,img{outline:none;border:none}
 .header-top-content{width:1025px;}
 .header-top-content{width:1025px;}
 .header-mid-content{width:1025px;}
-.header-mid-content-logo{width:260px;}
-.header-mid-content-logo .punchline{margin-bottom:8px;}
-.header-mid-content-search input[type="text"]{width:180px;}
+.header-mid-content-search input[type="text"] {width: 190px;}
+.header-mid-content-cart {margin-right: 10px;margin-top: 0;}
+.header-mid-content-your-account-holder {margin-top: 0;}
 .header-mid-content-mobile-menu-search-holder{margin:0 15px;}
 .header-mid-content-phone-chat-holder{margin-top:0px;}
 .header-mid-content-phone-text{font-size:13px;}
@@ -521,7 +723,7 @@ a,img{outline:none;border:none}
 .header-bot-content{width:1025px;}
 .header-bot-content ul li{text-align:center;}
 .header-bot-content ul li a span{float:none;display:block;}
-.header-bot-content ul li a{padding:12px 8.5px;}
+.header-bot-content ul li a{padding:12px 7.5px;}
 .header-bot-content ul li a span.menu-icon{display:block;margin:0 auto;}
 .menu-drop-content-link-box-single ul li{text-align:left;}
 .body-inner{width:1025px;}
@@ -529,111 +731,44 @@ a,img{outline:none;border:none}
 }
 
 @media only screen and (max-width:1024px) {
-.header-top-holder{display:none;}
 .header-top-content{width:900px;}
-.header-mid-holder{border-bottom:1px solid #CCC;}
-.mobile-menu-trigger{display:block;width:24px;font-size:9px;line-height:normal;/*height:20px;*/margin-right:20px;float:left;line-height:0px;margin-left: 4px;}
-.mobile-menu-trigger img{width:100%;}
-.mobile-menu-trigger a{display: block;text-align: center;color:#58585a;}
-.mobile-menu-trigger a span{display: inline-block;}
-.mobile-menu-trigger a span i.fa-bars{font-size: 11px;margin:0px;}
-.header-mid-content-logo {/*margin-left: 40px;*/position: relative;width: 131px;z-index: 9999;margin-top:2px;}
-.header-mid-content-logo .punchline{display:none;}
-.header-mid-content-logo img.logo2{display:block;}
-.header-mid-content-cart{height: 24px;width: 30px;}
-.header-mid-content-cart a{background:none;border:none;}
-.header-mid-content-cart a span.text-your-cart{display:none;}
-.header-mid-content-cart span.header-mid-content-cart-icon i{color:#333;}
-.header-mid-content-icons-holder i.fa-search{display:block;}
-.header-mid-content-icons-holder i.fa-phone{display:block;}
-.header-mid-content-call-icons-holder{display:block;margin-right:6px;margin-top:4px;}
-.header-mid-content-cart span.header-mid-content-cart-icon span.header-mid-content-cart-icon-cnt{margin-left:0px; left: 8px;top: -15px;background:none;color:#333;}
-.cart-drop-content{z-index:99999;}
-.header-mid-content-phone-only-mobile{display:block;}
-.header-mid-content-phone-chat-holder{display:none;}
-.header-mid-content-phone-only-mobile .header-mid-content-phone{display:block;}
-.header-mid-content-phone-only-mobile .header-mid-content-phone{padding:0px;margin:0px;border:none;}
-.header-mid-content{width:900px;padding:10px 0;}
-.header-mid-content-mobile-menu-search-holder{/*margin: 5px 15px 0 0;*/ display:none;}
-.header-mid-content-search{background:#f3f3f4;}
-.header-mid-content-search button{padding:8px 14px;}
-.header-mid-content-mobile-menu{display:block;}
-.header-mid-content-mobile-menu.for-bg{height: 100%;width: 250px;background:#fff;position:fixed;z-index:99999;top:45px;}
-
-a.dl-close-cross{background:#fff;color: #F00;height:52px;line-height: 52px;position: absolute;text-align: center;width: 52px;z-index:9999;top: 0px;display:none;right: -52px;}
-.header-mid-content-search{margin-left:70px;position:relative;z-index:99999;}
-.header-mid-content-search input[type="text"]{width:730px;}
-.header-mid-content-search button{background:none;padding:0px;color:#58585a;}
-.header-mid-content-search button:hover{background:none;}
-.header-mid-content-search button i{height:25px;width:25px;font-size:25px;line-height:25px;text-align:center;margin:0 auto;}
-
-.search-for-mobile-content{width:900px;margin:0 auto;display:block;}
-.search-for-mobile-content input[type="text"]{border:none;padding:20px 10px;margin:0 10px;width:800px;}
-.search-for-mobile-content i.fa-remove{color:#333;border:1px solid #333;padding: 8px 10px;}	
-.search-for-mobile-content button{background:none;border:none;cursor:pointer;margin: 0;padding: 0;width: 18px;}
-.search-for-mobile-content i.fa-search{color:#cfcdcd;}	
-
-.header-mid-content-logo-holder a i.fa-bars{float:left;font-size:25px;color:#333;margin-right:15px;display:block;}	
-	
-.header-bot-holder{display:none;}
 .body-inner{width:900px;}
 .listPageheadTxt{margin-top:10px;}
+
+
 
 }
 
 </style>
 <script type="text/javascript" src="https://d0bb7f9bf11b5ad1a6b2-6175f06f5e3f64e15abbf67415a276ec.ssl.cf1.rackcdn.com/js/jquery-1.7.0.min3.js"></script>
 
-<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=53912102"></script></head>
+</head>
 <body>
 
 <section class="wrapper">
-	<section class="wrapper-inner" style="display:none;"></section>
+		<div class="new-sign-up-holder-for-dm" id="newSubscribePopup">
+		<div class="new-sign-up-holder-for-dm-inner">
+			<div class="new-sign-up-holder-for-dm-cross"><a href="javascript:Close_discountsignPopup1();">X</a></div>
+				<div class="new-sign-up-holder-for-dm-inner-normal" id="NewSubscribePopupContent">
+					<p class="hd-miduam">Sign Up For Our Email List And Receive</p>
+					<p class="hd-big">$50 Off Of Your Order</p>
+					<form action="" method="post" name="newSubscribeForm" id="newSubscribeForm" onsubmit="return chk_discountform1();">
+					<div class="sign-me-up-holder">
+					<span>Email Address:</span><span><input name="userEmail" id="userEmail" type="text"></span><span><input name="" type="submit" value="Sign Me Up"></span>
+					</div>
+					</form>
+					<p class="hd-small">Not valid for blank items &amp; cannot be combined with other discounts. Min Applies.</p>
+				</div>
+			<div class="new-sign-up-holder-for-dm-inner-success" id="success" style="display:none;">
+				<!--<p class="hd-big">Thank You!</p>-->
+				<p class="hd-miduam">Save $50 On Your Order Of $500 Or More</p>
+				<div class="use-promo-code"><span>Use promo code:</span><span>Save50</span></div>
+				<p class="hd-small">Not valid for blank items &amp; cannot be combined with other discounts. Min Applies.</p>
+			</div>
+		</div>
+	</div>
+		<section class="wrapper-inner" style="display:none;"></section>
 		
-	<section class="header-top-holder">
-    		<section class="header-top-content">
-			<section class="header-top-content-right">
-				<ul>
-					<li><a href="/nc/upload.php">Upload Artwork</a></li>
-					<li id="track-order">
-						<a href="javascript:;">Track Your Order</a>
-						<div class="track-your-order-log-holder">  
-							<div class="track-your-order-log">	
-								<div class="track-your-order-log-top">Track Your Order</div>
-								<div class="track-your-order-log-bot">
-									<form name="frmtrack" id="frmtrack" action="/nc/track_order_info.php" method="post" onsubmit="return trackvalid();">
-										<div class="enter-order-holdet">
-											<div class="track-your-order-counter"><span>1</span></div>
-											<div class="enter-order-holdet-inner">
-												<label class="order"><span>Enter Your Order # <span>(Example: DM1234567)</span></span><input name="order_id" type="text"></label>
-											</div>
-										</div>
-										<div class="billing-zip-email-holdet">
-											<div class="track-your-order-counter"><span>2</span><span>Enter Your:</span></div>
-											<div class="billing-zip-email-holdet-inner">
-												<label class="billing"><span>Billing Zip Code :</span><input name="billing_zipcode" type="text"></label>
-												<span class="sp-or">OR</span>
-												<label class="email"><span>Email Address :</span><input name="email_id" type="text"></label>
-												<div class="clear"></div>
-											</div>
-										</div>
-										<div class="clear"></div>
-										<div class="btn-track"><input name="" type="submit" value="Track"></div>
-										<div class="clear"></div>
-									</form>
-								</div>
-							</div>
-						</div>					
-					</li>
-					<li><a href="/nc/support-customer-service.php">Customer Service</a></li>
-					<li><a href="https://secure.discountmugs.com/client/" rel="nofollow">Sign In</a></li>
-				</ul>
-				<div class="clear"></div>
-			</section>
-			<div class="clear"></div>
-		</section>
-	</section>
-	
 	<section class="header-mid-holder-outer">
 		<header class="header-mid-holder">
 			<section class="header-mid-content">
@@ -656,54 +791,45 @@ a.dl-close-cross{background:#fff;color: #F00;height:52px;line-height: 52px;posit
 					<form name="frmSearch" id="top_search_form" method="get" action="/nc/search.php">
 						<input type="text" name="keyword_search" id="keyword_search" placeholder="What are you looking for?">
 						<input name="searchText" id="searchText" type="hidden" value="">
-						<button type="submit" name=""><i class="fa fa-search"></i></button>
+						<button type="submit" name=""><img src="/nl/images/searchicon.png" alt="Search" title="Search"></button>
 					</form>
 					</section>
 				</section>
-				
 				<section class="header-mid-content-phone-chat-holder">
 					<section class="header-mid-content-phone">
-						<section class="header-mid-content-phone-icon"><i class="fa fa-phone"></i></section>
+						<section class="header-mid-content-phone-icon"><img src="/nl/images/phoneicon.gif" alt="Click to Chat" title="Click to Chat"></section>
 						<section class="header-mid-content-phone-text">
-							<p>
-								1-800-569-1980							</p>
-							<p>Call Us: We're Here to Help!</p>
+							<p>1-800-569-1980</p>
+							<p class="phones-open">8:00 am - 12:00 am EST</p>
 						</section>
 					</section>
-				
-					<section class="header-mid-content-chat">
-						<section class="header-mid-content-chat-icon"><i class="fa fa-user"></i></section>
-						<section class="header-mid-content-chat-text">
-							<p>Chat With US</p>
-							<p>
-								Click to Chat: 
-																<a href="javascript:;" rel="nofollow" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/53912102/?cmd=file&amp;file=visitorWantsToChat&amp;site=53912102&amp;SV!skill=DM Sales&amp;referrer=%2Fnc%2Fprivacy.php','custclient','width=500,height=350');return false;" target="custclient" style="cursor:pointer" title="Click here to chat live with an online representative">ONLINE NOW</a>
-															</p>
-						</section>
-					</section>
-				</section>
-								
+										<section class="header-mid-content-chat-online-holder">
+						<p class="chat-online">
+							Click to Chat: 
+							<a href="javascript:;" id="bc-chat-online" rel="nofollow" style="cursor:pointer" title="Click here to chat live with an online representative">ONLINE NOW</a>
+						</p>
+                    </section>
+									</section>
 				
 				<section class="header-mid-content-icons-holder">
 					<section class="header-mid-content-call-icons-holder">
 						<a href="tel:1-800-569-1980"><i class="fa fa-phone"></i></a>
-					
 						<section class="header-mid-content-call-text-holder">
 							<p>
 							1-800-569-1980							</p>
-							<p><span class="cl-text">Call Us:</span> We're Here to Help!</p>
+							<p><span class="cl-text">Call Us:</span> Speak with a Rep!</p>
 						</section>
 					</section>
 					
 					<a class="search-for-mobile" href="javascript:;"><i class="fa fa-search"></i></a>
 					<section class="header-mid-content-cart">
-						<a href="https://secure.discountmugs.com/nc/dm-cart-step2.php" rel="nofollow">
+						<a href="/nc/new-cart.php" rel="nofollow">
 							<span class="header-mid-content-cart-icon">
-								<i class="fa fa-shopping-cart"></i>
+							<i class="fa fa-shopping-cart"></i>
+								<img class="header-mid-content-cart-icon-pic" src="/nl/images/carticon.png" alt="Your Cart" title="Your Cart">
 															</span>
 							<span class="text-your-cart">Your Cart</span>
 						</a>
-						
 												<div class="cart-drop-content">
 							<div class="cart-drop-hd">My Cart</div>
 							<div class="cart-drop-product">
@@ -711,628 +837,397 @@ a.dl-close-cross{background:#fff;color: #F00;height:52px;line-height: 52px;posit
 								<span class="cart-drop-product-price">$0.00</span>
 								<div class="clear"></div>
 							</div>
-							<div class="cart-drop-link"><a href="https://secure.discountmugs.com/nc/dm-cart-step2.php" rel="nofollow">View Cart</a></div>
+							<div class="cart-drop-link"><a href="/nc/new-cart.php" rel="nofollow">View Cart</a></div>
 						</div>
 											</section>
+					
+					
+					<section class="header-mid-content-your-account-holder">
+						<section class="header-mid-content-your-account-icon">
+							<i class="fa fa-users"></i>
+							<img class="header-mid-content-your-account-icon-pic" src="/nl/images/accounticon.png" alt="Your Account" title="Your Account">
+						</section>
+						<section class="header-mid-content-your-account-text">
+							<a href="javascript:;">
+								<span class="text-your-account">Your Account <i class="fa fa-caret-down"></i></span>
+															</a>
+							<section class="your-account-drop-menu-holder">
+								<ul>
+																		<li><a href="/client/">Sign In</a></li>
+									<li><a href="/nc/track_order_info.php">Track An Order</a></li>
+									<li><a href="/nc/support-customer-service.php">Customer Service</a></li>
+																	</ul>
+							</section>
+						</section>
+					</section>
+					
 				</section>
 				<div class="clear"></div>
 			</section>	
 		</header>
 			</section>
-	<section class="header-bot-holder">
+<section class="header-bot-holder">
 		<section class="header-bot-content">
-			<ul>
-							<li>
+			<ul><li>
 					<a href="/group-category/apparel/" title="Apparel &amp; T-Shirts">
 						<span class="menu-icon top-icon-apparel"></span>
 						<span class="menu-text">Apparel &amp;<br> T-Shirts</span>
-					</a>
-					
-					<div class="menu-drop-holder" style=" left:0;">
+					</a><div class="menu-drop-holder" style="left:0;">
 						<div class="menu-drop-content">
 							<div class="menu-drop-content-link-box">
-								<div class="menu-drop-content-link-box-single-holder">
-																	<div class="menu-drop-content-link-box-single cl-1">
-																			<div class="toppart">
+								<div class="menu-drop-content-link-box-single-holder"><div class="menu-drop-content-link-box-single cl-1"><div class="toppart">
 										<a href="/category/custom-screen-printed-apparel/" class="allApparel" title="Apparel">Apparel</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/custom-t-shirts/" title="Custom T-Shirts"><i class="fa fa-caret-right"></i> Custom T-Shirts</a></li>
-																						<li><a href="/category/custom-sweatshirts/" title="Sweatshirts &amp; Hoodies"><i class="fa fa-caret-right"></i> Sweatshirts &amp; Hoodies</a></li>
-																						<li><a href="/category/custom-polo-shirts-and-dress-shirts/" title="Polo &amp; Dress Shirts"><i class="fa fa-caret-right"></i> Polo &amp; Dress Shirts</a></li>
-																						<li><a href="/category/custom-jackets-and-outerwear/" title="Jackets &amp; Fleece"><i class="fa fa-caret-right"></i> Jackets &amp; Fleece</a></li>
-																						<li><a href="/category/custom-performance-shirts/" title="Performance Shirts"><i class="fa fa-caret-right"></i> Performance Shirts</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="menu-drop-content-link-box-single cl-2">
-																			<div class="toppart">
+										</div><ul><li><a href="/category/custom-t-shirts/" title="Custom T-Shirts"><i class="fa fa-caret-right"></i>Custom T-Shirts</a></li><li><a href="/category/custom-sweatshirts/" title="Sweatshirts &amp; Hoodies"><i class="fa fa-caret-right"></i>Sweatshirts &amp; Hoodies</a></li><li><a href="/category/custom-polo-shirts-and-dress-shirts/" title="Polo &amp; Dress Shirts"><i class="fa fa-caret-right"></i>Polo &amp; Dress Shirts</a></li><li><a href="/category/custom-jackets-and-outerwear/" title="Jackets &amp; Fleece"><i class="fa fa-caret-right"></i>Jackets &amp; Fleece</a></li><li><a href="/category/custom-performance-shirts/" title="Performance Shirts"><i class="fa fa-caret-right"></i>Performance Shirts</a></li></ul>
+										<div class="clear"></div></div><div class="menu-drop-content-link-box-single cl-2"><div class="toppart">
 										<a href="/category/custom-youth-t-shirts/" class="kidsApparel" title="Kid's Apparel">Kid's Apparel</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/custom-ladies-t-shirts/" class="womansApparel" title="Womens T-Shirts">Womens T-Shirts</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/personalized-aprons/" class="aprons" title="Custom Aprons">Custom Aprons</a>
-										</div>
-																												</div>
-																		<div class="clear"></div>
+										</div><div class="toppart">
+										<a href="/category/custom-caps/" class="headwearOthers" title="All Hats &amp; Caps">All Hats &amp; Caps</a>
+										</div><ul><li><a href="/category/baseball-caps/" title="Baseball Caps"><i class="fa fa-caret-right"></i>Baseball Caps</a></li><li><a href="/category/custom-visors/" title="Custom Visors"><i class="fa fa-caret-right"></i>Custom Visors</a></li><li><a href="/category/custom-beanies/" title="Knit Caps &amp; Beanies"><i class="fa fa-caret-right"></i>Knit Caps &amp; Beanies</a></li></ul>
+										<div class="clear"></div></div><div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
 							<div class="clear"></div>
 						</div>
-					</div>
-					
-				</li>
-							<li>
+					</div></li><li>
 					<a href="/group-category/bags-carry-cases/" title="Bags &amp; Backpacks">
 						<span class="menu-icon top-icon-bags"></span>
 						<span class="menu-text">Bags &amp;<br> Backpacks</span>
-					</a>
-					
-					<div class="menu-drop-holder" style=" left:0;">
+					</a><div class="menu-drop-holder" style="left:0;">
 						<div class="menu-drop-content">
 							<div class="menu-drop-content-link-box">
-								<div class="menu-drop-content-link-box-single-holder">
-																	<div class="menu-drop-content-link-box-single cl-1">
-																			<div class="toppart">
+								<div class="menu-drop-content-link-box-single-holder"><div class="menu-drop-content-link-box-single cl-1"><div class="toppart">
 										<a href="/category/all-bags/" class="travelOffice" title="Bags">Bags</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/cheap-wholesale-tote-bags/" title="Tote Bags"><i class="fa fa-caret-right"></i> Tote Bags</a></li>
-																						<li><a href="/category/grocery-tote-bags/" title="Grocery Bags"><i class="fa fa-caret-right"></i> Grocery Bags</a></li>
-																						<li><a href="/category/personalized-messenger-and-laptop-bags/" title="Laptop &amp; Messenger Bags"><i class="fa fa-caret-right"></i> Laptop &amp; Messenger Bags</a></li>
-																						<li><a href="/category/personalized-insulated-lunch-bags-and-coolers/" title="Lunch Bags &amp; Coolers"><i class="fa fa-caret-right"></i> Lunch Bags &amp; Coolers</a></li>
-																						<li><a href="/category/personalized-paper-bags/" title="Paper Bags"><i class="fa fa-caret-right"></i> Paper Bags</a></li>
-																						<li><a href="/category/reusable-grocery-bags/" title="Reusable Bags"><i class="fa fa-caret-right"></i> Reusable Bags</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="menu-drop-content-link-box-single cl-2">
-																			<div class="toppart">
+										</div><ul><li><a href="/category/cheap-wholesale-tote-bags/" title="Tote Bags"><i class="fa fa-caret-right"></i>Tote Bags</a></li><li><a href="/category/grocery-tote-bags/" title="Grocery Bags"><i class="fa fa-caret-right"></i>Grocery Bags</a></li><li><a href="/category/personalized-messenger-and-laptop-bags/" title="Laptop &amp; Messenger Bags"><i class="fa fa-caret-right"></i>Laptop &amp; Messenger Bags</a></li><li><a href="/category/personalized-insulated-lunch-bags-and-coolers/" title="Lunch Bags &amp; Coolers"><i class="fa fa-caret-right"></i>Lunch Bags &amp; Coolers</a></li><li><a href="/category/personalized-paper-bags/" title="Paper Bags"><i class="fa fa-caret-right"></i>Paper Bags</a></li><li><a href="/category/reusable-grocery-bags/" title="Reusable Bags"><i class="fa fa-caret-right"></i>Reusable Bags</a></li></ul>
+										<div class="clear"></div></div><div class="menu-drop-content-link-box-single cl-2"><div class="toppart">
 										<a href="/category/custom-backpacks/" class="bagStyles" title="Backpacks">Backpacks</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/personalized-drawstring-bags/" title="Drawstring Backpacks"><i class="fa fa-caret-right"></i> Drawstring Backpacks</a></li>
-																						<li><a href="/category/custom-personalized-duffel-bags/" title="Duffel Bags"><i class="fa fa-caret-right"></i> Duffel Bags</a></li>
-																						<li><a href="/category/personalized-sling-backpacks/" title="Sling Backpacks"><i class="fa fa-caret-right"></i> Sling Backpacks</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="clear"></div>
+										</div><ul><li><a href="/category/personalized-drawstring-bags/" title="Drawstring Backpacks"><i class="fa fa-caret-right"></i>Drawstring Backpacks</a></li><li><a href="/category/custom-personalized-duffel-bags/" title="Duffel Bags"><i class="fa fa-caret-right"></i>Duffel Bags</a></li><li><a href="/category/personalized-sling-backpacks/" title="Sling Backpacks"><i class="fa fa-caret-right"></i>Sling Backpacks</a></li></ul>
+										<div class="clear"></div></div><div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
 							<div class="clear"></div>
 						</div>
-					</div>
-					
-				</li>
-							<li>
+					</div></li><li>
 					<a href="/category/custom-caps/" title="Caps &amp; Hats">
 						<span class="menu-icon top-icon-caps-hats"></span>
 						<span class="menu-text">Caps <br>&amp; Hats</span>
-					</a>
-					
-					<div class="menu-drop-holder" style=" margin-left:-82px;">
+					</a><div class="menu-drop-holder" style="margin-left:-82px;">
 						<div class="menu-drop-content">
 							<div class="menu-drop-content-link-box">
-								<div class="menu-drop-content-link-box-single-holder">
-																	<div class="menu-drop-content-link-box-single cl-1">
-																			<div class="toppart">
+								<div class="menu-drop-content-link-box-single-holder"><div class="menu-drop-content-link-box-single cl-1"><div class="toppart">
 										<a href="/category/custom-caps/" class="headwearOthers" title="All Hats &amp; Caps">All Hats &amp; Caps</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/custom-visors/" title="Custom Visors"><i class="fa fa-caret-right"></i> Custom Visors</a></li>
-																						<li><a href="/category/custom-beanies/" title="Knit Caps &amp; Beanies"><i class="fa fa-caret-right"></i> Knit Caps &amp; Beanies</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="clear"></div>
+										</div><ul><li><a href="/category/baseball-caps/" title="Baseball Caps"><i class="fa fa-caret-right"></i>Baseball Caps</a></li><li><a href="/category/custom-visors/" title="Custom Visors"><i class="fa fa-caret-right"></i>Custom Visors</a></li><li><a href="/category/custom-beanies/" title="Knit Caps &amp; Beanies"><i class="fa fa-caret-right"></i>Knit Caps &amp; Beanies</a></li></ul>
+										<div class="clear"></div></div><div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
 							<div class="clear"></div>
 						</div>
-					</div>
-					
-				</li>
-							<li>
+					</div></li><li>
 					<a href="/group-category/drinkware/" title="Drinkware &amp; Bottles">
 						<span class="menu-icon top-icon-drinkware"></span>
 						<span class="menu-text">Drinkware <br>&amp; Bottles</span>
-					</a>
-					
-					<div class="menu-drop-holder" style=" left:0;">
+					</a><div class="menu-drop-holder" style="left:0;">
 						<div class="menu-drop-content">
 							<div class="menu-drop-content-link-box">
-								<div class="menu-drop-content-link-box-single-holder">
-																	<div class="menu-drop-content-link-box-single cl-1">
-																			<div class="toppart">
+								<div class="menu-drop-content-link-box-single-holder"><div class="menu-drop-content-link-box-single cl-1"><div class="toppart">
 										<a href="/category/custom-personalized-coffee-mugs-and-travel-mugs/" class="Allmugs" title="All Mugs">All Mugs</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/custom-personalized-ceramic-coffee-mugs/" title="Ceramic Mugs"><i class="fa fa-caret-right"></i> Ceramic Mugs</a></li>
-																						<li><a href="/category/custom-personalized-glass-coffee-mugs/" title="Glass Mugs"><i class="fa fa-caret-right"></i> Glass Mugs</a></li>
-																						<li><a href="/category/custom-personalized-full-color-ceramic-mugs/" title="Photo Mugs"><i class="fa fa-caret-right"></i> Photo Mugs</a></li>
-																					</ul>
-										<div class="clear"></div>
-																													<div class="toppart">
+										</div><ul><li><a href="/category/custom-personalized-ceramic-coffee-mugs/" title="Ceramic Mugs"><i class="fa fa-caret-right"></i>Ceramic Mugs</a></li><li><a href="/category/custom-personalized-glass-coffee-mugs/" title="Glass Mugs"><i class="fa fa-caret-right"></i>Glass Mugs</a></li><li><a href="/category/custom-personalized-full-color-ceramic-mugs/" title="Photo Mugs"><i class="fa fa-caret-right"></i>Photo Mugs</a></li></ul>
+										<div class="clear"></div><div class="toppart">
 										<a href="/category/custom-travel-mugs-and-personalized-tumblers/" class="TravelMugs" title="Travel Mugs">Travel Mugs</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/plastic-customized-travel-mugs-and-wholesale-tumblers/" title="Plastic Travel Mugs"><i class="fa fa-caret-right"></i> Plastic Travel Mugs</a></li>
-																						<li><a href="/category/stainless-steel-promotional-travel-mugs-and-customizable-tumblers/" title="Stainless Steel Mugs"><i class="fa fa-caret-right"></i> Stainless Steel Mugs</a></li>
-																						<li><a href="/category/thermos-travel-mugs/" title="Travel Thermos"><i class="fa fa-caret-right"></i> Travel Thermos</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="menu-drop-content-link-box-single cl-2">
-																			<div class="toppart">
+										</div><ul><li><a href="/category/plastic-customized-travel-mugs-and-wholesale-tumblers/" title="Plastic Travel Mugs"><i class="fa fa-caret-right"></i>Plastic Travel Mugs</a></li><li><a href="/category/stainless-steel-promotional-travel-mugs-and-customizable-tumblers/" title="Stainless Steel Mugs"><i class="fa fa-caret-right"></i>Stainless Steel Mugs</a></li><li><a href="/category/thermos-travel-mugs/" title="Travel Thermos"><i class="fa fa-caret-right"></i>Travel Thermos</a></li></ul>
+										<div class="clear"></div></div><div class="menu-drop-content-link-box-single cl-2"><div class="toppart">
 										<a href="/category/glassware/" class="GlassWare" title="Glassware">Glassware</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/custom-beer-mugs-and-glasses/" title="Beer Mugs"><i class="fa fa-caret-right"></i> Beer Mugs</a></li>
-																						<li><a href="/category/custom-personalized-champagne-flutes-glasses/" title="Champagne Glasses"><i class="fa fa-caret-right"></i> Champagne Glasses</a></li>
-																						<li><a href="/category/wholesale-personalized-drinking-glasses/" title="Drinking Glasses"><i class="fa fa-caret-right"></i> Drinking Glasses</a></li>
-																						<li><a href="/category/custom-wine-glasses/" title="Wine Glasses"><i class="fa fa-caret-right"></i> Wine Glasses</a></li>
-																						<li><a href="/category/custom-personalized-shot-glasses/" title="Shot Glasses"><i class="fa fa-caret-right"></i> Shot Glasses</a></li>
-																						<li><a href="/category/wholesale-personalized-mason-jars/" title="Mason Jars"><i class="fa fa-caret-right"></i> Mason Jars</a></li>
-																						<li><a href="/category/custom-personalized-pilsner-pub-glasses/" title="Pilsner Glasses"><i class="fa fa-caret-right"></i> Pilsner Glasses</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="menu-drop-content-link-box-single cl-3">
-																			<div class="toppart">
+										</div><ul><li><a href="/category/custom-beer-mugs-and-glasses/" title="Beer Mugs"><i class="fa fa-caret-right"></i>Beer Mugs</a></li><li><a href="/category/custom-personalized-champagne-flutes-glasses/" title="Champagne Glasses"><i class="fa fa-caret-right"></i>Champagne Glasses</a></li><li><a href="/category/wholesale-personalized-drinking-glasses/" title="Drinking Glasses"><i class="fa fa-caret-right"></i>Drinking Glasses</a></li><li><a href="/category/custom-wine-glasses/" title="Wine Glasses"><i class="fa fa-caret-right"></i>Wine Glasses</a></li><li><a href="/category/custom-personalized-shot-glasses/" title="Shot Glasses"><i class="fa fa-caret-right"></i>Shot Glasses</a></li><li><a href="/category/wholesale-personalized-mason-jars/" title="Mason Jars"><i class="fa fa-caret-right"></i>Mason Jars</a></li><li><a href="/category/custom-personalized-pilsner-pub-glasses/" title="Pilsner Glasses"><i class="fa fa-caret-right"></i>Pilsner Glasses</a></li></ul>
+										<div class="clear"></div></div><div class="menu-drop-content-link-box-single cl-3"><div class="toppart">
 										<a href="/category/custom-personalized-sports-water-bottles/" class="sportsBottles" title="Sports Bottles">Sports Bottles</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/bpa-free-water-bottles/" title="BPA Free Bottles"><i class="fa fa-caret-right"></i> BPA Free Bottles</a></li>
-																						<li><a href="/category/wholesale-personalized-plastic-sports-water-bottles/" title="Plastic Water Bottles"><i class="fa fa-caret-right"></i> Plastic Water Bottles</a></li>
-																					</ul>
-										<div class="clear"></div>
-																													<div class="toppart">
+										</div><ul><li><a href="/category/bpa-free-water-bottles/" title="BPA Free Bottles"><i class="fa fa-caret-right"></i>BPA Free Bottles</a></li><li><a href="/category/wholesale-personalized-plastic-sports-water-bottles/" title="Plastic Water Bottles"><i class="fa fa-caret-right"></i>Plastic Water Bottles</a></li></ul>
+										<div class="clear"></div><div class="toppart">
 										<a href="/category/custom-personalized-acrylic-plastic-drinkware/" class="paperPlastic" title="Plastic Drinkware">Plastic Drinkware</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/custom-personalized-plastic-stadium-cups/" title="Stadium Cups"><i class="fa fa-caret-right"></i> Stadium Cups</a></li>
-																						<li><a href="/category/tumblers/" title="Plastic Tumblers"><i class="fa fa-caret-right"></i> Plastic Tumblers</a></li>
-																						<li><a href="/category/personalized-plastic-beer-mugs-and-acrylic-customized-beer-mugs/" title="Plastic Beer Mugs"><i class="fa fa-caret-right"></i> Plastic Beer Mugs</a></li>
-																					</ul>
-										<div class="clear"></div>
-																													<div class="toppart">
+										</div><ul><li><a href="/category/custom-personalized-plastic-stadium-cups/" title="Stadium Cups"><i class="fa fa-caret-right"></i>Stadium Cups</a></li><li><a href="/category/acrylic-tumblers/" title="Plastic Tumblers"><i class="fa fa-caret-right"></i>Plastic Tumblers</a></li><li><a href="/category/personalized-plastic-beer-mugs-and-acrylic-customized-beer-mugs/" title="Plastic Beer Mugs"><i class="fa fa-caret-right"></i>Plastic Beer Mugs</a></li></ul>
+										<div class="clear"></div><div class="toppart">
 										<a href="/category/custom-printed-coasters-and-personalized-beer-coasters/" class="CoaSters" title="Coasters">Coasters</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/custom-koozies/" class="canCoolers" title="Koozies">Koozies</a>
-										</div>
-																												</div>
-																		<div class="clear"></div>
+										</div></div><div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
 							<div class="clear"></div>
 						</div>
-					</div>
-					
-				</li>
-							<li>
+					</div></li><li>
 					<a href="/category/custom-koozies/" title="Can Coolers &amp; Koozies">
 						<span class="menu-icon top-icon-koozies"></span>
 						<span class="menu-text">Can Coolers <br>&amp; Koozies</span>
-					</a>
-					
-					<div class="menu-drop-holder" style=" margin-left:-82px;">
+					</a><div class="menu-drop-holder" style="margin-left:-82px;">
 						<div class="menu-drop-content">
 							<div class="menu-drop-content-link-box">
-								<div class="menu-drop-content-link-box-single-holder">
-																	<div class="menu-drop-content-link-box-single cl-2">
-																			<div class="toppart">
+								<div class="menu-drop-content-link-box-single-holder"><div class="menu-drop-content-link-box-single cl-2"><div class="toppart">
 										<a href="/category/custom-koozies/" class="canCoolers" title="Koozies">Koozies</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/custom-koozies/" title="All Koozies"><i class="fa fa-caret-right"></i> All Koozies</a></li>
-																						<li><a href="/category/personalized-beer-bottle-koozies/" title="Beer Coolers"><i class="fa fa-caret-right"></i> Beer Coolers</a></li>
-																						<li><a href="/category/personalized-wedding-koozies/" title="Wedding Koozies"><i class="fa fa-caret-right"></i> Wedding Koozies</a></li>
-																						<li><a href="/category/personalized-custom-photo-koozies/" title="Photo Koozies"><i class="fa fa-caret-right"></i> Photo Koozies</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="clear"></div>
+										</div><ul><li><a href="/category/all-koozies/" title="All Koozies"><i class="fa fa-caret-right"></i>All Koozies</a></li><li><a href="/category/personalized-beer-bottle-koozies/" title="Beer Coolers"><i class="fa fa-caret-right"></i>Beer Coolers</a></li><li><a href="/category/personalized-wedding-koozies/" title="Wedding Koozies"><i class="fa fa-caret-right"></i>Wedding Koozies</a></li><li><a href="/category/personalized-custom-photo-koozies/" title="Photo Koozies"><i class="fa fa-caret-right"></i>Photo Koozies</a></li></ul>
+										<div class="clear"></div></div><div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
 							<div class="clear"></div>
 						</div>
-					</div>
-					
-				</li>
-							<li>
+					</div></li><li>
 					<a href="/category/custom-keychains-and-personalized-key-chains/" title="Key Chains">
 						<span class="menu-icon top-icon-keychains"></span>
-						<span class="menu-text">Key Chains</span>
-					</a>
-					
-					<div class="menu-drop-holder" style=" margin-left:-82px;">
+						<span class="menu-text">Key <br>Chains</span>
+					</a><div class="menu-drop-holder" style="margin-left:-82px;">
 						<div class="menu-drop-content">
 							<div class="menu-drop-content-link-box">
-								<div class="menu-drop-content-link-box-single-holder">
-																	<div class="menu-drop-content-link-box-single cl-2">
-																			<div class="toppart">
+								<div class="menu-drop-content-link-box-single-holder"><div class="menu-drop-content-link-box-single cl-2"><div class="toppart">
 										<a href="/category/custom-keychains-and-personalized-key-chains/" class="keyChains" title="Key Chains">Key Chains</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/personalized-metal-keychains-and-engraved-key-chains/" title="Metal Key Chains"><i class="fa fa-caret-right"></i> Metal Key Chains</a></li>
-																						<li><a href="/category/bulk-plastic-key-chains-and-printed-keychains/" title="Plastic Key Chains"><i class="fa fa-caret-right"></i> Plastic Key Chains</a></li>
-																						<li><a href="/category/custom-bottle-openers/" title="Bottle Opener Key Chains"><i class="fa fa-caret-right"></i> Bottle Opener Key Chains</a></li>
-																						<li><a href="/category/flashlight-customizable-keychains-and-promotional-key-lights/" title="Flashlight Key Chains"><i class="fa fa-caret-right"></i> Flashlight Key Chains</a></li>
-																						<li><a href="/category/carabiner-promotional-keychains-and-wholesale-key-chains/" title="Carabiner Key Chains"><i class="fa fa-caret-right"></i> Carabiner Key Chains</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="clear"></div>
+										</div><ul><li><a href="/category/personalized-metal-keychains-and-engraved-key-chains/" title="Metal Key Chains"><i class="fa fa-caret-right"></i>Metal Key Chains</a></li><li><a href="/category/bulk-plastic-key-chains-and-printed-keychains/" title="Plastic Key Chains"><i class="fa fa-caret-right"></i>Plastic Key Chains</a></li><li><a href="/category/custom-bottle-openers/" title="Bottle Opener Key Chains"><i class="fa fa-caret-right"></i>Bottle Opener Key Chains</a></li><li><a href="/category/flashlight-customizable-keychains-and-promotional-key-lights/" title="Flashlight Key Chains"><i class="fa fa-caret-right"></i>Flashlight Key Chains</a></li><li><a href="/category/carabiner-promotional-keychains-and-wholesale-key-chains/" title="Carabiner Key Chains"><i class="fa fa-caret-right"></i>Carabiner Key Chains</a></li></ul>
+										<div class="clear"></div></div><div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
 							<div class="clear"></div>
 						</div>
-					</div>
-					
-				</li>
-							<li>
+					</div></li><li>
 					<a href="/group-category/magnets/" title="Magnets">
 						<span class="menu-icon top-icon-magnets"></span>
 						<span class="menu-text">Magnets</span>
-					</a>
-					
-					<div class="menu-drop-holder" style=" margin-left:-195px;">
+					</a><div class="menu-drop-holder" style="margin-left:-195px;">
 						<div class="menu-drop-content">
 							<div class="menu-drop-content-link-box">
-								<div class="menu-drop-content-link-box-single-holder">
-																	<div class="menu-drop-content-link-box-single cl-2">
-																			<div class="toppart">
-										<a href="/category/custom-magnets/" class="businessMagnes" title="Custom Magnets">Custom Magnets</a>
-										</div>
-																													<div class="toppart">
+								<div class="menu-drop-content-link-box-single-holder"><div class="menu-drop-content-link-box-single cl-1"><div class="toppart">
+										<a href="/group-category/magnets/" class="businessMagnes" title="Custom Magnets">Custom Magnets</a>
+										</div><div class="toppart">
 										<a href="/category/custom-business-card-magnets/" class="stockDesign" title="Business Card Magnets">Business Card Magnets</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/save-the-date-magnets/" class="saveTheDate" title="Save the Date Magnets">Save the Date Magnets</a>
-										</div>
-																												</div>
-																		<div class="menu-drop-content-link-box-single cl-3">
-																			<div class="toppart">
+										</div></div><div class="menu-drop-content-link-box-single cl-3"><div class="toppart">
 										<a href="/category/custom-calendar-magnets/" class="cal-culator" title="Calendar Magnets">Calendar Magnets</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/personalized-custom-photo-magnets/" class="magnetic-Memo" title="Photo Magnets">Photo Magnets</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/promotional-car-magnets/" class="CarMagnets" title="Car Magnets">Car Magnets</a>
-										</div>
-																												</div>
-																		<div class="clear"></div>
+										</div></div><div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
 							<div class="clear"></div>
 						</div>
-					</div>
-					
-				</li>
-							<li>
+					</div></li><li>
 					<a href="/group-category/office/" title="Office &amp; Tech">
 						<span class="menu-icon top-icon-computer"></span>
 						<span class="menu-text">Office <br>&amp; Tech</span>
-					</a>
-					
-					<div class="menu-drop-holder" style=" margin-left:-195px;">
+					</a><div class="menu-drop-holder" style="margin-left:-307px;">
 						<div class="menu-drop-content">
 							<div class="menu-drop-content-link-box">
-								<div class="menu-drop-content-link-box-single-holder">
-																	<div class="menu-drop-content-link-box-single cl-2">
-																			<div class="toppart">
+								<div class="menu-drop-content-link-box-single-holder"><div class="menu-drop-content-link-box-single cl-2"><div class="toppart">
 										<a href="/group-category/office/" class="AccesSOries" title="Office">Office</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/pens-pencils-highlighters/" title="Pens"><i class="fa fa-caret-right"></i> Pens</a></li>
-																						<li><a href="/category/portfolios-and-notebooks/" title="Notebooks &amp; Notepads"><i class="fa fa-caret-right"></i> Notebooks &amp; Notepads</a></li>
-																						<li><a href="/category/custom-personalized-padfolios-portfolios/" title="Portfolios &amp; Organizers"><i class="fa fa-caret-right"></i> Portfolios &amp; Organizers</a></li>
-																						<li><a href="/category/personalized-adhesive-notepads/" title="Adhesive Notepads"><i class="fa fa-caret-right"></i> Adhesive Notepads</a></li>
-																						<li><a href="/category/promotional-calendars/" title="Calendars"><i class="fa fa-caret-right"></i> Calendars</a></li>
-																						<li><a href="/category/custom-lanyards/" title="Lanyards"><i class="fa fa-caret-right"></i> Lanyards</a></li>
-																						<li><a href="/category/stress-balls/" title="Stressballs"><i class="fa fa-caret-right"></i> Stressballs</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="menu-drop-content-link-box-single cl-3">
-																			<div class="toppart">
-										<a href="/nc/list-products/technology/" class="TechnoLogy" title="Computers &amp; Tech">Computers &amp; Tech</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/usb-flash-drives/" title="USB Flash Drives"><i class="fa fa-caret-right"></i> USB Flash Drives</a></li>
-																						<li><a href="/category/mouse-pads/" title="Mousepads"><i class="fa fa-caret-right"></i> Mousepads</a></li>
-																					</ul>
-										<div class="clear"></div>
-																													<div class="toppart">
+										</div><ul><li><a href="/category/pens-pencils-highlighters/" title="Pens"><i class="fa fa-caret-right"></i>Pens</a></li><li><a href="/category/portfolios-and-notebooks/" title="Notebooks &amp; Notepads"><i class="fa fa-caret-right"></i>Notebooks &amp; Notepads</a></li><li><a href="/category/custom-personalized-padfolios-portfolios/" title="Portfolios &amp; Organizers"><i class="fa fa-caret-right"></i>Portfolios &amp; Organizers</a></li><li><a href="/category/personalized-adhesive-notepads/" title="Adhesive Notepads"><i class="fa fa-caret-right"></i>Adhesive Notepads</a></li><li><a href="/category/promotional-calendars/" title="Calendars"><i class="fa fa-caret-right"></i>Calendars</a></li><li><a href="/category/custom-lanyards/" title="Lanyards"><i class="fa fa-caret-right"></i>Lanyards</a></li><li><a href="/category/stress-balls/" title="Stressballs"><i class="fa fa-caret-right"></i>Stressballs</a></li></ul>
+										<div class="clear"></div></div><div class="menu-drop-content-link-box-single cl-3"><div class="toppart">
+										<a href="/category/technology/" class="TechnoLogy" title="Computers &amp; Tech">Computers &amp; Tech</a>
+										</div><ul><li><a href="/category/usb-flash-drives/" title="USB Flash Drives"><i class="fa fa-caret-right"></i>USB Flash Drives</a></li><li><a href="/category/mouse-pads/" title="Mousepads"><i class="fa fa-caret-right"></i>Mousepads</a></li></ul>
+										<div class="clear"></div><div class="toppart">
 										<a href="/category/personalized-laptop-and-computer-accessories/" class="computer-accessories" title="Computer Accessories">Computer Accessories</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/custom-printed-phone-accessories/" class="phone-accessories" title="Phone Accessories">Phone Accessories</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/tablet-accessories/" class="tablet-accessories" title="Tablet Accessories">Tablet Accessories</a>
-										</div>
-																												</div>
-																		<div class="clear"></div>
+										</div></div><div class="menu-drop-content-link-box-single cl-4"><div class="toppart">
+										<a href="/group-category/magnets/" class="businessMagnes" title="Custom Magnets">Custom Magnets</a>
+										</div><ul><li><a href="/category/custom-business-card-magnets/" title="Business Card Magnets"><i class="fa fa-caret-right"></i>Business Card Magnets</a></li><li><a href="/category/save-the-date-magnets/" title="Save the Date Magnets"><i class="fa fa-caret-right"></i>Save the Date Magnets</a></li><li><a href="/category/custom-calendar-magnets/" title="Calendar Magnets"><i class="fa fa-caret-right"></i>Calendar Magnets</a></li><li><a href="/category/promotional-car-magnets/" title="Car Magnets"><i class="fa fa-caret-right"></i>Car Magnets</a></li><li><a href="/category/personalized-custom-photo-magnets/" title="Photo Magnets"><i class="fa fa-caret-right"></i>Photo Magnets</a></li></ul>
+										<div class="clear"></div></div><div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
 							<div class="clear"></div>
 						</div>
-					</div>
-					
-				</li>
-							<li>
+					</div></li><li>
 					<a href="/group-category/outdoor-leisure/" title="Outdoor &amp; Leisure">
 						<span class="menu-icon top-icon-outdoor"></span>
 						<span class="menu-text">Outdoor <br>&amp; Leisure</span>
-					</a>
-					
-					<div class="menu-drop-holder" style=" margin-left:-195px;">
+					</a><div class="menu-drop-holder" style="margin-left:-195px;">
 						<div class="menu-drop-content">
 							<div class="menu-drop-content-link-box">
-								<div class="menu-drop-content-link-box-single-holder">
-																	<div class="menu-drop-content-link-box-single cl-3">
-																			<div class="toppart">
+								<div class="menu-drop-content-link-box-single-holder"><div class="menu-drop-content-link-box-single cl-3"><div class="toppart">
 										<a href="/category/wholesale-outdoor-and-leisure/" class="chaIRs" title="Outdoor &amp; Leisure">Outdoor &amp; Leisure</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/towels/" title="Custom Towels"><i class="fa fa-caret-right"></i> Custom Towels</a></li>
-																						<li><a href="/category/custom-blankets/" title="Blankets"><i class="fa fa-caret-right"></i> Blankets</a></li>
-																						<li><a href="/category/folding-chairs/" title="Folding Chairs"><i class="fa fa-caret-right"></i> Folding Chairs</a></li>
-																						<li><a href="/category/umbrellas/" title="Umbrellas"><i class="fa fa-caret-right"></i> Umbrellas</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="menu-drop-content-link-box-single cl-4">
-																			<div class="toppart">
+										</div><ul><li><a href="/category/towels/" title="Custom Towels"><i class="fa fa-caret-right"></i>Custom Towels</a></li><li><a href="/category/custom-blankets/" title="Blankets"><i class="fa fa-caret-right"></i>Blankets</a></li><li><a href="/category/folding-chairs/" title="Folding Chairs"><i class="fa fa-caret-right"></i>Folding Chairs</a></li><li><a href="/category/umbrellas/" title="Umbrellas"><i class="fa fa-caret-right"></i>Umbrellas</a></li></ul>
+										<div class="clear"></div></div><div class="menu-drop-content-link-box-single cl-4"><div class="toppart">
 										<a href="/category/sunglasses-and-accessories/" class="ouTDoor" title="Custom Sunglasses">Custom Sunglasses</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/frisbees/" class="flyingDisc" title="Frisbees">Frisbees</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/golf-balls/" class="goLF" title="Golf Balls">Golf Balls</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/golf-towels/" class="golf-towels" title="Golf Towels">Golf Towels</a>
-										</div>
-																												</div>
-																		<div class="clear"></div>
+										</div></div><div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
 							<div class="clear"></div>
 						</div>
-					</div>
-					
-				</li>
-							<li>
+					</div></li><li>
 					<a href="/group-category/pens-pencils-markers/" title="Pens, Pencils &amp; Highlighters">
 						<span class="menu-icon top-icon-pens"></span>
 						<span class="menu-text">Pens, Pencils <br>&amp; Highlighters</span>
-					</a>
-					
-					<div class="menu-drop-holder" style=" margin-left:-195px;">
+					</a><div class="menu-drop-holder" style="margin-left:-195px;">
 						<div class="menu-drop-content">
 							<div class="menu-drop-content-link-box">
-								<div class="menu-drop-content-link-box-single-holder">
-																	<div class="menu-drop-content-link-box-single cl-3">
-																			<div class="toppart">
-										<a href="/category/pens-pencils-highlighters/" class="PENs" title="Pens">Pens</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/plastic-printed-marketing-pens/" title="Plastic Pens"><i class="fa fa-caret-right"></i> Plastic Pens</a></li>
-																						<li><a href="/category/wholesale-custom-metal-pens/" title="Metal Pens"><i class="fa fa-caret-right"></i> Metal Pens</a></li>
-																						<li><a href="/category/custom-stylus-pens/" title="Stylus Pens"><i class="fa fa-caret-right"></i> Stylus Pens</a></li>
-																						<li><a href="/category/personalized-rollerball-pens-and-custom-gel-pens/" title="Gel &amp; Rollerball Pens"><i class="fa fa-caret-right"></i> Gel &amp; Rollerball Pens</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="menu-drop-content-link-box-single cl-4">
-																			<div class="toppart">
+								<div class="menu-drop-content-link-box-single-holder"><div class="menu-drop-content-link-box-single cl-1"><div class="toppart">
+										<a href="/group-category/pens-pencils-markers/" class="PENs" title="Pens">Pens</a>
+										</div><ul><li><a href="/category/plastic-printed-marketing-pens/" title="Plastic Pens"><i class="fa fa-caret-right"></i>Plastic Pens</a></li><li><a href="/category/wholesale-custom-metal-pens/" title="Metal Pens"><i class="fa fa-caret-right"></i>Metal Pens</a></li><li><a href="/category/custom-stylus-pens/" title="Stylus Pens"><i class="fa fa-caret-right"></i>Stylus Pens</a></li><li><a href="/category/personalized-rollerball-pens-and-custom-gel-pens/" title="Gel &amp; Rollerball Pens"><i class="fa fa-caret-right"></i>Gel &amp; Rollerball Pens</a></li></ul>
+										<div class="clear"></div></div><div class="menu-drop-content-link-box-single cl-4"><div class="toppart">
 										<a href="/category/personalized-pencils-and-custom-mechanical-pencils/" class="writinGType" title="Pencils">Pencils</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/bulk-highlighters-and-promotional-highlighter-pens/" class="highlighters" title="Highlighters">Highlighters</a>
-										</div>
-																												</div>
-																		<div class="clear"></div>
+										</div></div><div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
 							<div class="clear"></div>
 						</div>
-					</div>
-					
-				</li>
-							<li>
+					</div></li><li>
 					<a href="/group-category/toys-and-novelties/" title="Toys &amp; Novelties">
 						<span class="menu-icon top-icon-toys"></span>
 						<span class="menu-text">Toys &amp;<br> Novelties</span>
-					</a>
-					
-					<div class="menu-drop-holder" style=" margin-left:-195px;">
+					</a><div class="menu-drop-holder" style="margin-left:-195px;">
 						<div class="menu-drop-content">
 							<div class="menu-drop-content-link-box">
-								<div class="menu-drop-content-link-box-single-holder">
-																	<div class="menu-drop-content-link-box-single cl-3">
-																			<div class="toppart">
+								<div class="menu-drop-content-link-box-single-holder"><div class="menu-drop-content-link-box-single cl-3"><div class="toppart">
 										<a href="/category/frisbees/" class="FLyingdisc" title="Custom Frisbees">Custom Frisbees</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/glow-in-the-dark-promos/" class="glow-in-dark" title="Glow In The Dark">Glow In The Dark</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/pet-products/" class="pet-products" title="Pet Products">Pet Products</a>
-										</div>
-																												</div>
-																		<div class="menu-drop-content-link-box-single cl-4">
-																			<div class="toppart">
+										</div></div><div class="menu-drop-content-link-box-single cl-4"><div class="toppart">
 										<a href="/category/custom-silicone-bracelets-custom-wristbands/" class="wrisTBands" title="Silicone Wristbands">Silicone Wristbands</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/stress-balls/" class="StresSReliever" title="Stress Balls">Stress Balls</a>
-										</div>
-																												</div>
-																		<div class="clear"></div>
+										</div></div><div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
 							<div class="clear"></div>
 						</div>
-					</div>
-					
-				</li>
-							<li>
+					</div></li><li>
 					<a href="/group-category/wellness-safety-products/" title="Wellness Safety">
 						<span class="menu-icon top-icon-wellness"></span>
 						<span class="menu-text">Wellness<br> Safety</span>
-					</a>
-					
-					<div class="menu-drop-holder" style=" margin-left:-82px;">
+					</a><div class="menu-drop-holder" style="margin-left:-82px;">
 						<div class="menu-drop-content">
 							<div class="menu-drop-content-link-box">
-								<div class="menu-drop-content-link-box-single-holder">
-																	<div class="menu-drop-content-link-box-single cl-4">
-																			<div class="toppart">
+								<div class="menu-drop-content-link-box-single-holder"><div class="menu-drop-content-link-box-single cl-4"><div class="toppart">
 										<a href="/category/wholesale-safety-wellness-products/" class="heaLThcare" title="Wellness &amp; Safety">Wellness &amp; Safety</a>
-										</div>
-																				<ul>
-																						<li><a href="/category/promotional-hand-sanitizers-personalized-antibacterial-sprays/" title="Hand Sanitizers"><i class="fa fa-caret-right"></i> Hand Sanitizers</a></li>
-																						<li><a href="/category/personalized-lip-balms/" title="Lip Balm"><i class="fa fa-caret-right"></i> Lip Balm</a></li>
-																						<li><a href="/category/personalized-sunscreen-sun-care-products/" title="Sunscreen"><i class="fa fa-caret-right"></i> Sunscreen</a></li>
-																						<li><a href="/category/cheap-pedometers/" title="Pedometers"><i class="fa fa-caret-right"></i> Pedometers</a></li>
-																						<li><a href="/category/cheap-first-aid-kits-wholesale-emergency-kits/" title="First Aid Kits"><i class="fa fa-caret-right"></i> First Aid Kits</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="clear"></div>
+										</div><ul><li><a href="/category/promotional-hand-sanitizers-personalized-antibacterial-sprays/" title="Hand Sanitizers"><i class="fa fa-caret-right"></i>Hand Sanitizers</a></li><li><a href="/category/personalized-lip-balms/" title="Lip Balm"><i class="fa fa-caret-right"></i>Lip Balm</a></li><li><a href="/category/personalized-sunscreen-sun-care-products/" title="Sunscreen"><i class="fa fa-caret-right"></i>Sunscreen</a></li><li><a href="/category/cheap-pedometers/" title="Pedometers"><i class="fa fa-caret-right"></i>Pedometers</a></li><li><a href="/category/cheap-first-aid-kits-wholesale-emergency-kits/" title="First Aid Kits"><i class="fa fa-caret-right"></i>First Aid Kits</a></li></ul>
+										<div class="clear"></div></div><div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
 							<div class="clear"></div>
 						</div>
-					</div>
-					
-				</li>
-							<li>
+					</div></li><li>
 					<a href="/group-category/favors/" title="Event Favors">
 						<span class="menu-icon top-icon-events"></span>
 						<span class="menu-text">Event <br>Favors</span>
-					</a>
-					
-					<div class="menu-drop-holder" style=" right:0;">
+					</a><div class="menu-drop-holder" style="right:0;">
 						<div class="menu-drop-content">
 							<div class="menu-drop-content-link-box">
-								<div class="menu-drop-content-link-box-single-holder">
-																	<div class="menu-drop-content-link-box-single cl-3">
-																			<div class="toppart">
+								<div class="menu-drop-content-link-box-single-holder"><div class="menu-drop-content-link-box-single cl-3"><div class="toppart">
 										<a href="/group-category/favors/" class="eventFavors" title="Event Favors">Event Favors</a>
-										</div>
-																				<ul>
-																						<li><a href="/nc/occasion/wedding-favors/" title="Wedding Favors"><i class="fa fa-caret-right"></i> Wedding Favors</a></li>
-																						<li><a href="/nc/occasion/reunion-favors/" title="Family Reunion"><i class="fa fa-caret-right"></i> Family Reunion</a></li>
-																						<li><a href="/nc/occasion/party-favors/" title="Party Favors"><i class="fa fa-caret-right"></i> Party Favors</a></li>
-																						<li><a href="/nc/occasion/birthday-favors/" title="Birthday Favors"><i class="fa fa-caret-right"></i> Birthday Favors</a></li>
-																						<li><a href="/category/glass-awards-and-recognition-crystals/" title="Awards"><i class="fa fa-caret-right"></i> Awards</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="menu-drop-content-link-box-single cl-4">
-																			<div class="toppart">
+										</div><ul><li><a href="/nc/occasion/wedding-favors/" title="Wedding Favors"><i class="fa fa-caret-right"></i>Wedding Favors</a></li><li><a href="/nc/occasion/reunion-favors/" title="Family Reunion"><i class="fa fa-caret-right"></i>Family Reunion</a></li><li><a href="/nc/occasion/party-favors/" title="Party Favors"><i class="fa fa-caret-right"></i>Party Favors</a></li><li><a href="/nc/occasion/birthday-favors/" title="Birthday Favors"><i class="fa fa-caret-right"></i>Birthday Favors</a></li><li><a href="/category/glass-awards-and-recognition-crystals/" title="Awards"><i class="fa fa-caret-right"></i>Awards</a></li><li><a href="/nc/occasion/tradeshow-giveways/" title="Tradeshow Giveaways"><i class="fa fa-caret-right"></i>Tradeshow Giveaways</a></li><li><a href="/nc/occasion/memorial-day-sale-items/" title="Memorial Day Sale"><i class="fa fa-caret-right"></i>Memorial Day Sale</a></li></ul>
+										<div class="clear"></div></div><div class="menu-drop-content-link-box-single cl-4"><div class="toppart">
 										<a href="/category/custom-restaurant-vitrified-porcelain-dinnerware/" class="DinneRware" title="Dinnerware">Dinnerware</a>
-										</div>
-																													<div class="toppart">
+										</div><div class="toppart">
 										<a href="/category/plate-tiles/" class="platesTiles" title="Plates &amp; Tiles">Plates &amp; Tiles</a>
-										</div>
-																												</div>
-																		<div class="clear"></div>
+										</div></div><div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
 							<div class="clear"></div>
 						</div>
-					</div>
-					
-				</li>
-							<li>
+					</div></li><li>
 					<a href="/nc/list-clearance/all/" title="Clearance &amp; More">
 						<span class="menu-icon top-icon-menu_clearance"></span>
 						<span class="menu-text">Clearance<br> &amp; More</span>
-					</a>
-					
-					<div class="menu-drop-holder" style=" right:0;">
+					</a><div class="menu-drop-holder" style="right:0;">
 						<div class="menu-drop-content">
 							<div class="menu-drop-content-link-box">
-								<div class="menu-drop-content-link-box-single-holder">
-																	<div class="menu-drop-content-link-box-single cl-1">
-																			<div class="toppart">
+								<div class="menu-drop-content-link-box-single-holder"><div class="menu-drop-content-link-box-single cl-1"><div class="toppart">
 										<a href="/nc/list-clearance/all/" class="clearancEStock" title="Clearance &amp; Sale Items">Clearance &amp; Sale Items</a>
-										</div>
-																				<ul>
-																						<li><a href="/nc/list-clearance/all/" title="Shop Our Clearance &amp; Sale Items"><i class="fa fa-caret-right"></i> Shop Our Clearance &amp; Sale Items</a></li>
-																						<li><a href="/nc/coupon-specials.php" title="DiscountMugs Coupons"><i class="fa fa-caret-right"></i> DiscountMugs Coupons</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="menu-drop-content-link-box-single cl-2">
-																			<div class="toppart">
+										</div><ul><li><a href="/nc/list-clearance/all/" title="Shop Our Clearance &amp; Sale Items"><i class="fa fa-caret-right"></i>Shop Our Clearance &amp; Sale Items</a></li><li><a href="/nc/coupon-specials.php" title="DiscountMugs Coupons"><i class="fa fa-caret-right"></i>DiscountMugs Coupons</a></li><li><a href="/category/new-promotional-products/" title="New Arrivals"><i class="fa fa-caret-right"></i>New Arrivals</a></li></ul>
+										<div class="clear"></div></div><div class="menu-drop-content-link-box-single cl-2"><div class="toppart">
 										<a href="/nc/brands.php" class="OrganiZations" title="Shop By Brand">Shop By Brand</a>
-										</div>
-																				<ul>
-																						<li><a href="/nc/brands.php" title="Browse by Brand"><i class="fa fa-caret-right"></i> Browse by Brand</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="menu-drop-content-link-box-single cl-3">
-																			<div class="toppart">
+										</div><ul><li><a href="/nc/brands.php" title="Browse by Brand"><i class="fa fa-caret-right"></i>Browse by Brand</a></li></ul>
+										<div class="clear"></div></div><div class="menu-drop-content-link-box-single cl-3"><div class="toppart">
 										<a href="/nc/overstock-item.php" class="oveRSTock" title="Overstock Items">Overstock Items</a>
-										</div>
-																				<ul>
-																						<li><a href="/nc/overstock-item.php" title="Overstock Items"><i class="fa fa-caret-right"></i> Overstock Items</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="menu-drop-content-link-box-single cl-4">
-																			<div class="toppart">
+										</div><ul><li><a href="/nc/overstock-item.php" title="Overstock Items"><i class="fa fa-caret-right"></i>Overstock Items</a></li></ul>
+										<div class="clear"></div></div><div class="menu-drop-content-link-box-single cl-4"><div class="toppart">
 										<a href="/nc/more_promos.php" class="teLLUs" title="Tell us">Tell us</a>
-										</div>
-																				<ul>
-																						<li><a href="/nc/more_promos.php" title="Tell us what you are looking for"><i class="fa fa-caret-right"></i> Tell us what you are looking for</a></li>
-																					</ul>
-										<div class="clear"></div>
-																												</div>
-																		<div class="clear"></div>
+										</div><ul><li><a href="/nc/more_promos.php" title="Tell us what you are looking for"><i class="fa fa-caret-right"></i>Tell us what you are looking for</a></li></ul>
+										<div class="clear"></div></div><div class="clear"></div>
 								</div>
 								<div class="clear"></div>
 							</div>
 							<div class="clear"></div>
 						</div>
-					</div>
-					
-				</li>
-						</ul>
+					</div></li><li>
+					<a href="https://blog.discountmugs.com" title="Blog">
+						<span class="menu-icon top-icon-menu-gift-idea"></span>
+						<span class="menu-text">Blog</span>
+					</a></li></ul>
 			<div class="clear"></div>
 		</section>
 	</section>
-
-
-<div style="width:100%; text-align:center;"><div class="listPageheadTxt">LABOR DAY SALE: 15% OFF MOST ITEMS NOW THROUGH FRIDAY. USE CODE: 15LABOR</div></div>
-
-<!--[if IE 7]>
+<div style="width:100%; text-align:center;"><div class="listPageheadTxt">Enjoy the lowest prices guaranteed on all printed products!</div></div><script>
+function Close_discountsignPopup1() {
+    $("#newSubscribePopup").slideUp();
+}
+function chk_discountform1() {
+    if ($("#userEmail").val().search(/\S/) == -1) {
+        alert("Please Enter E-mail Address");
+        return false
+    } else if ($("#userEmail").val().search(/\b[A-Z0-9._%-]+@[A-Z0-9.-]+\.[A-Z]{2,4}\b/i) == -1) {
+        alert("Invalid Email ....");
+        return false
+    }
+    var str = $("#newSubscribeForm").serialize();
+	var email = $("#userEmail").val();
+    $.ajax({
+        url: "/process_discountform.php",
+        type: "GET",
+        data: str,
+        cache: false,
+        success: function(html) {
+			//alert(html);
+            if (html == "Success") {
+			 	//$("#NewSubscribePopupContent").fadeOut();
+              	$("#NewSubscribePopupContent").html("&nbsp;");
+				$("#success").fadeIn("slow");
+				//$("#NewSubscribePopupContent").html('<img src="/images/secondpopup.png" alt="">');
+				(function() {
+					var sa_point = document.createElement('script');
+					sa_point.type ='text/javascript'; 
+					sa_point.async =true; 
+					sa_point.id ='sapoint';
+					sa_point.src = 'http://cdn.socialannex.com/c/js/c-loyalty-points.js?site_id=9917071&email='+email+'&method=2&action_id=108';
+					var sax_point = document.getElementsByTagName('script')[0];
+					sax_point.parentNode.insertBefore(sa_point, sax_point);
+				})();
+                setTimeout("Close_discountsignPopup1()", 1E4)
+            } else alert("Sorry, unexpected error. Please try again later.")
+        }
+    });
+    return false
+}
+function logout_client(url){
+	if(window.confirm("Are you sure you want to log out?")){		
+		window.location.href = url;		
+	}
+}
+</script><!--[if IE 7]>
 	<style>
     .body-inner { *margin-top:62px;}
     </style>
@@ -1488,7 +1383,7 @@ $(document).ready(function() {
 </style>
 
 <footer class="footer-holder">
-	<section class="footer-top-holder">
+	<section class="footer-top-holder footer-holder-dmlab">
 		<section class="footer-top-content">
 			<ul>
 				<li>State-Of-the-Art USA Manufacturing &amp; Printing </li>
@@ -1497,7 +1392,8 @@ $(document).ready(function() {
 			</ul>
 		</section>
 	</section>
-	<section class="footer-mid-holder">
+	
+		<section class="footer-mid-holder">
 		<section class="footer-mid-content">
 			<section class="footer-mid-content-single-block exclusive-offers">
 				<span>Exclusive Offers</span>
@@ -1558,6 +1454,7 @@ $(document).ready(function() {
 				<span>Info &amp; More</span>
 				<ul>
 					<li><a href="/nc/awards-and-recognition.php">Awards &amp; Recognition</a></li>
+					<li><a href="/nc/career-newwork.php">Career</a></li>
 					<li><a href="https://blog.discountmugs.com/">Our Blog</a></li>
 					<li><a href="/nc/used_equipments.php">Equipment</a></li>
 				</ul>
@@ -1568,7 +1465,7 @@ $(document).ready(function() {
 	<section class="footer-bot-holder">
 		<section class="footer-bot-content">
 			<section class="footer-bot-content-left">
-				<span>© 2015 DiscountMugs.com All rights reserved.</span>
+				<span>© 2016 DiscountMugs.com All rights reserved.</span>
 				<ul>
 				<li><a href="/nc/sitemap.php">Site Map</a></li>
 				<li><a href="/nc/privacy.php">Privacy Policy</a></li>
@@ -1582,13 +1479,8 @@ $(document).ready(function() {
 </footer>
 </section>
 
-<div id="livechatContainer">  
-<div id="chatBlock">
-	<div id="live_chat_btn"></div>
-	<a href="javascript:;" rel="nofollow" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/53912102/?cmd=file&amp;file=visitorWantsToChat&amp;site=53912102&amp;SV!skill=DM Sales&amp;referrer=%2Fnc%2Fprivacy.php','custclient','width=500,height=350');return false;" target="custclient" style=" float: left;height: 138px;width: 361px;"></a>
-	<a href="javascript:;" rel="nofollow"><img src="https://d0bb7f9bf11b5ad1a6b2-6175f06f5e3f64e15abbf67415a276ec.ssl.cf1.rackcdn.com/images/new-chat-close.png" width="363" height="19" alt="" class="close"></a>
-</div>
-</div>
+
+
 
 
 
@@ -1597,6 +1489,35 @@ $(document).ready(function() {
 
 <link href="/nl/css/footer.css" rel="stylesheet" type="text/css">
 
+
+<script language="javascript">
+var timeOut = 0;
+function resetLvChatRunStat_new() {
+$("#newlivechat").animate({
+				bottom: "-210px"
+			}, "slow");
+}
+$(document).ready(function() {
+	 $("#newlivechat").mouseenter(function() {
+	 		clearTimeout(timeOut);
+			$("#newlivechat").animate({
+			   bottom: "-26px"
+			}, "slow");
+			
+		});
+		 $("#newlivechat").mouseleave(function() {	 
+			timeOut = setTimeout(resetLvChatRunStat_new, 2000);
+		});
+		$("#chat_close").click(function() {
+		   if($("#newlivechat").css("bottom")=='-26px'){	 
+				resetLvChatRunStat_new();
+		   }
+		});
+	$("#bc-chat-online, .live-chat-for-fullwidth-dmlab a").click(function() {
+		$(".bcFloat a").trigger("click");
+		});	
+});		
+</script>
 
 <script src="/js/dm_utility_script_16042015.js"></script>
 <script src="/js/subscribe-popup-18082015.js"></script>
@@ -1614,7 +1535,6 @@ $('#dl-menu').dlmenu();
 
 
 <script>
-var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "53912102",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);
 /*Start Alexa Certify Javascript*/
 _atrk_opts = { atrk_acct:"fSvih1aMQV00MV", domain:"discountmugs.com",dynamic: true};
 (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
@@ -1633,6 +1553,27 @@ mm_options('execute');
 </script>
 <!-- End Mongoose Metrics Tracking Code -->
 
+<!-- BEGIN: Google Trusted Stores -->
+<script type="text/javascript">
+var gts = gts || [];
+
+gts.push(["id", "41821"]);
+gts.push(["badge_position", "BOTTOM_LEFT"]);
+gts.push(["locale", "en_US"]);
+gts.push(["google_base_subaccount_id", "3351413"]);
+gts.push(["google_base_country", "US"]);
+gts.push(["google_base_language", "en"]);
+
+(function() {
+	var gts = document.createElement("script");
+	gts.type = "text/javascript";
+	gts.async = true;
+	gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+	var s = document.getElementsByTagName("script")[0];
+	s.parentNode.insertBefore(gts, s);
+})();
+</script>
+<!-- END: Google Trusted Stores -->
 
 <!--<div id="sa_loyalty"></div>
 <script type="text/javascript"> 
@@ -1649,32 +1590,19 @@ else {window.addEventListener('load', sa_async_load,false);}
 })(); 
 </script>-->
 
-
+<!-- Facebook Pixel Code -->
 <script>
-var CONTENT_IDS = [];
-var CONTENT_TYPE = '';
-(function() {
-	var _fbq = window._fbq || (window._fbq = []);
-			var CONTENT_IDS = ['<product_id>'];
-		var CONTENT_TYPE = 'product';
-		
-	  if (!_fbq.loaded) {
-		var fbds = document.createElement('script');
-		fbds.async = true;
-		fbds.src = '//connect.facebook.net/en_US/fbds.js';
-		var s = document.getElementsByTagName('script')[0];
-		s.parentNode.insertBefore(fbds, s);
-		_fbq.loaded = true;
-	  }
-	  _fbq.push(['addPixelId', '1583815358565656']);
-	})();
-	window._fbq = window._fbq || [];
-	window._fbq.push(['track', 'ViewContent', {
-	  content_ids: CONTENT_IDS,
-	  content_type: CONTENT_TYPE
-}]);
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+// Insert Your Facebook Pixel ID below. 
+fbq('init', '1583815358565656');
+ fbq('track', 'PageView');
+  
 </script>
-
+<!-- End Facebook Pixel Code -->
 <script type="application/ld+json">
 { "@context" 	: "http://schema.org",
   "@type" 		: "Organization",
@@ -1699,84 +1627,18 @@ var CONTENT_TYPE = '';
     }]
 }
 </script>
+
+
 <script type="text/javascript">
-	var google_pagetype = document.URL.split('/')[3];
-	var pagetype;
-	var prodID;
-	var SKU;
-	var color;
-	var cartTotal;
-	var prodQty;
-	var category;
-			if (google_pagetype == 'product'){
-		SKU = document.getElementById("product_code").value;
-		color = document.getElementById("product_color").value;
-		prodID = prodID = SKU+"-"+color;
-		prodQty = document.getElementById("quantity").value;
-	}
-	if (google_pagetype == 'category'){
-		category = document.URL.split('/')[4];
-	}
-	if (google_pagetype == 'nc'){
-		pagetype = document.URL.split('/')[4].split('?')[0];
-		if (pagetype.indexOf('cart')!==-1){
-			switch (pagetype.substring(pagetype.length - 9,pagetype.length - 4)){
-				case 'step2':
-					if (document.getElementById("SubTotalShow")){
-						cartTotal = parseFloat(document.getElementById("SubTotalShow").innerText.replace(/\$/,"").replace(/\,/,""));
-					}
-					else{
-						cartTotal = null;
-					}
-					var prodsCart = document.getElementsByClassName('display-img');
-					for (var i=0; i<prodsCart.length;i++){
-						var prodsAttr = prodsCart[i].getElementsByTagName('input');
-						for (var j=0; j<prodsAttr.length; j++){
-							if (prodsAttr[j].id.indexOf('product_code')!==-1){
-								if (typeof(prodID) == "undefined"){
-									prodID = prodsAttr[j].value;
-								}
-								else {
-									prodID = prodID + "," + prodsAttr[j].value;
-								}
-							}
-						}
-					}
-					SKU = prodID;
-					google_pagetype = 'cart';
-					pagetype = 'cartStep2';
-					break;
-				case 'step3':
-					google_pagetype = 'cart';
-					pagetype = 'cartStep3';
-					break;
-			}
-		}
-		else{
-			if (pagetype.split('/').length >= 4){
-				google_pagetype = 'category';
-				category = document.URL.split('/')[4].substring(0,document.URL.split('/')[4].length-4);
-			}
-			if (document.URL.indexOf('view-product')!==-1){
-				google_pagetype = 'product';
-				SKU = document.getElementById("product_code").value;
-				color = document.getElementById("product_color").value;
-				prodID = SKU+"-"+color;
-				prodQty = document.getElementById("quantity").value;
-			}
-		}
-	}
 	dataLayer = [{
-	"ecomm_pagetype": google_pagetype,
-	"ecomm_prodid": prodID,
-	"totalvalue": cartTotal,
-	"SKU": SKU,
-	"color": color,
-	"qty": prodQty,
-	"pagetype": pagetype,
-	"category": category
+	"ecomm_pagetype": 'privacy',
+	"ecomm_prodid": '',
+	"SKU": '',
+	"category": ''
 	}];
+	
 </script>
+
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PWKNTZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>
@@ -1791,5 +1653,28 @@ var CONTENT_TYPE = '';
 (window,document,'script','dataLayer','GTM-PWKNTZ');
 //End Google Tag Manager
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"58d279cc48","applicationID":"5303909","transactionName":"MVFaYBQHDEcEUhYMWAgbbUYPSQxXSkEQDEEHV0EaFg4S","queueTime":0,"applicationTime":225,"atts":"HRZZFlwdH0k=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
+<!-- BoldChat Visitor Monitor HTML v5.00 (Website=Discountmugs,Ruleset=Branders Ruleset,Floating Chat=DiscountMugs - Floating Button - 4/5/2016 -->
+<script type="text/javascript">
+  window._bcvma = window._bcvma || [];
+  _bcvma.push(["setAccountID", "822965624361174463"]);
+  _bcvma.push(["setParameter", "WebsiteID", "1171386858280186894"]);
+  _bcvma.push(["setParameter", "InvitationID", "815854687915586865"]);
+  _bcvma.push(["addFloat", {type: "chat", id: "816006811420149549"}]);
+  _bcvma.push(["pageViewed", document.location.href, document.referrer]);
+  var bcLoad = function(){
+    if(window.bcLoaded) return; window.bcLoaded = true;
+    var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+    vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/822965624361174463/bc.vms4/vms.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+  };
+  if(window.pageViewer && pageViewer.load) pageViewer.load();
+  else if(document.readyState=="complete") bcLoad();
+  else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+  else window.attachEvent('onload', bcLoad);
+</script>
+<noscript>
+<a href="http://www.boldchat.com" title="Visitor Monitoring" target="_blank"><img alt="Visitor Monitoring" src="https://vms.boldchat.com/aid/822965624361174463/bc.vmi?&amp;wdid=1171386858280186894" border="0" width="1" height="1" /></a>
+</noscript>
+<!-- /BoldChat Visitor Monitor HTML v5.00 -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"58d279cc48","applicationID":"18747254","transactionName":"MVFaYBQHDEcEUhYMWAgbbUYPSQxXSkEQDEEHV0EaFg4S","queueTime":0,"applicationTime":102,"atts":"HRZZFlwdH0k=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
