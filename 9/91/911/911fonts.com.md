@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the 911fonts.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209044812id_/http%3A//www.911fonts.com/help/Privacy_Policy_48.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 911fonts.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609184911id_/http%3A//www.911fonts.com/help/Privacy_Policy_48.htm) for the most accurate reproduction.*
 
 # Help | Privacy Policy www.911fonts.com - Fonts archive with more than 40 000+ fonts. Zephyr font, Gill sans, Bembo font, cyrillic font download, graffity fonts, fonts.
-
-  
-
 
 **Third Party Advertising:**
 
@@ -28,3 +25,7 @@ This site has security measures in place to protect the loss, misuse and alterat
  **Contacting the Web Site:**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact -  admin[at]911fonts.com. 
+
+**Date** : 2010-01-08
+
+**Author** : admin
