@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productreview.com.au privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228175500id_/http%3A//www.productreview.com.au/i/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productreview.com.au privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609044740id_/http%3A//www.productreview.com.au/i/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ProductReview.com.au
 
