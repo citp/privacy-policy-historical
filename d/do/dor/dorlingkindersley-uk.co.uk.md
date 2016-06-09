@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dorlingkindersley-uk.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207143052id_/http%3A//www.dk.com/uk/information/privacy-policy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorlingkindersley-uk.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610004952id_/http%3A//www.dk.com/uk/information/privacy-policy-and-cookies) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies
 
