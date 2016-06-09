@@ -1,188 +1,254 @@
-> *The following text is extracted and transformed from the mi.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906080423id_/http%3A//www.mi.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mi.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609060937id_/http%3A//www.mi.com/en/privacy) for the most accurate reproduction.*
 
-# About Us- Mi Global Home
+# Privacy Policy - Mi Global Home
 
 ## Privacy Policy
 
-There are many ways you can use our services. For instance, you can visit Xiaomi official website to purchase our products and use our products and services. When you share information with us, for example by creating a [Mi Account](https://account.xiaomi.com/), we can make those services even better. We can show you more relevant product updates and ads, to help you connect with people or to make sharing with others faster and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
+**Update!**
 
-###  Our Privacy Policy explains: 
+Our Privacy Policy was updated on **6 May 2016**. We have revamped the Privacy Policy front and back so that from this date onwards, this Privacy Policy can provide privacy details on how we manage your personal information for all Xiaomi products and services, unless a separate privacy policy is provided for a specific Xiaomi product or service.
 
-  * What information we collect. 
-  * How we collect and use that information. 
-  * How should you provide information selectively, and how to access and update information. 
-  * Information sharing and protection, and the application and changes of this Privacy Policy. 
+Please take a moment to familiarise yourself with our privacy practices and let us know if you have any questions.
 
+* * *
 
+### Our commitment to you
 
-###  Information we collect 
+This Privacy Policy sets out how Xiaomi Inc. and its affiliated companies within the Xiaomi Group ("Xiaomi", "we", "our" or "us") collect, use, disclose, process and protect any information that you give us when you use our products and services located at www.mi.com, en.miui.com, account.xiaomi.com, MIUI and our Suite of applications that we offer on our mobile devices, for a list of these applications, please [click here](http://www.mi.com/hk/about/applist/#en). Should we ask you to provide certain information by which you can be identified when using Xiaomi products and services, it will only be used in accordance with this Privacy Policy and/or our terms and conditions for users.
 
-We will collect two types of your information. 
+The Privacy Policy is designed with you in mind, and it is important that you have a comprehensive understanding of our personal information collection and usage practices, as well as full confidence that ultimately, you have control of any personal information provided to Xiaomi.
 
-Personal Information (information which can be personally identifiable) and Non-personal Information (all information excluding personal information). If we combine Personal Information with Non-personal Information technically, as long as they stay combined, such information will be deemed as Personal Information. 
+In this Privacy Policy, "personal information" means information that can be used to identify an individual, either from that information alone or from that information combined with other information Xiaomi has access about that individual. Such personal information may include your name, address, telephone number and email address.
 
-###  How we collect and use information 
+By using Xiaomi products and services, you are deemed to have read, acknowledged and accepted all the provisions stated here in the Privacy Policy, including any changes we may make from time to time. We are committed to protecting the privacy, confidentiality and security of your personal information by complying with applicable laws, including your local data protection legislation. We are equally committed to ensuring that all our employees and agents uphold these obligations.
 
-###  Information we get from your use of our services 
+Ultimately, what we want is the best for all our users. Should you have any concerns with our data handling practice as summarised in this Privacy Policy, please contact our Data Protection Officer at [privacy@xiaomi.com](mailto:privacy@xiaomi.com) to address your specific concerns. We will be happy to address them directly.
 
-When you interact with Xiaomi Inc., its subsidiaries and affiliates (hereinafter referred to as “Xiaomi” or “we”) and our operational cooperators (hereinafter referred to as “Cooperator”), you may be asked to provide your Personal and Non-Personal Information in order to use our products and services. We use and combine Personal Information we collect from all of our services with Non-Personal Information to provide, maintain, protect and improve them our products and services. Should any of the information below be classified as Personal Information, you hereby agree that Xiaomi may collect, use and/or disclose the Personal Information for the purposes set out below. 
+[](https://privacy.truste.com/privacy-seal/validation?rid=2a8dc25b-165b-449b-aeb4-fea7228974fa "TRUSTe Privacy Certification")
 
-The following are types of information which we may collect and examples how we use such information. Please note that the information mentioned below and how it is used are examples, and are not exhaustive. 
+|  Xiaomi has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page by clicking the TRUSTe seal. The TRUSTe certification only covers information collected through our sites www.mi.com, account.xiaomi.com, en.miui.com, i.mi.com and our suite of applications that we offer on our mobile devices, for a list of applications click[ here](http://www.mi.com/hk/about/applist/#en).   
+---|---  
+  
+If you have questions or concerns regarding our Privacy Policy or practices, please contact us at [privacy@xiaomi.com](mailto:privacy@xiaomi.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-###  The collection of Information 
+### What information is collected and how do we use it?
 
-  * When you create a Mi Account, download or update Xiaomi software, or participate in an online survey offered by us, we’ll ask for your Personal Information, including but not limited to your name, telephone number, E-mail address, and mailing address. Other information we may ask you for includes your profession, language, zip code, area code, time zone, etc. 
-  * When you purchase Xiaomi products or services, we’ll collect relevant Personal Information, including but not limited to delivery information, and order details. 
-  * When you use our customer support services, our customer service agent may collect relevant Personal Information, including but not limited to your name, order number, phone number, delivery address, Xiaomi Account ID, email address, mobile equipment number. We may also record the call for training purposes.
-  * When you activate our Mi Cloud or Cloud Messaging service, we may also collect personal information relating to your mobile device and location. We may also collect your mobile network information, message recipient phone numbers and message content temporarily for routing purposes. 
-  * When you use some of our services (e.g., invite other users to join relevant services, share information with other users, etc.), other users can see the Personal Information that you share. In addition, they can read, collect and use such information. When it comes a legal dispute, you should bear the corresponding legal responsibility for all Personal Information uploaded / shared by you. 
-  * When you log in to Mi Account or activate Mi Message service, your mobile user identification information and phone number will be sent to the server. 
-  * Information relevant to user behavior and problem diagnosis—when you participate in “ User Experience Program”, we will track your usage of product functionalities. We do this to learn about your habits when you visit Xiaomi official website or use our products and services. When system is forced to exit or crashes, we will collect environmental information of the device to diagnose problems. 
-  * Data saved in Server—when you use products and services like MIUI Theme, VoiceAssist and Browser, Xiaomi may collect data saved in server about your usage of features like uploading, downloading, syncing, browsing etc. Such information shall be deemed as Non-personal Information. 
-  * Location Information—when you use location-based applications and features, we will collect your location information. For instance, when you use location-based search, ads, weather features or obtain map information, your location information will be sent to Xiaomi, in order to provide you with more precise information. 
-  * Information collected by Cookies and various technologies—we and our partners use Cookies and various technologies to collect and store Non-personal Information when you visit Xiaomi websites and use online services, interactive applications, E-mail messages and ads. 
-  * Log Information—when you visit Xiaomi server, we will automatically collect and store information in server logs. Such server log information may include: IP address, browser type, browser language, referral URL, operating system, and date and time stamp and click-stream data. 
-  * Mobile device unique identifier-when you activate a Xiaomi mobile device, its device unique identifier and location information (Non-personal Information) will be sent to the server. The collection of such information may also apply to your system or application updates as well as recovery of factory settings etc. 
+#### Types of Information Collected
 
+In order to provide our services to you, we will ask you to provide personal information that is necessary to provide those services to you. If you do not provide your personal information, we may not be able to provide you with our products or services.
 
+We may collect the following types of information (which may or may not be personal information):
 
-###  The use of Information 
+  * **Information you provide to us or upload** (including your contact details): we may collect any and all personal information you provide to us, like your name, mobile phone number, email address, delivery address, Mi Account details (e.g. your security related information, name, birthday, gender), order, invoicing details, materials or data you may sync through Mi Cloud or other apps (e.g. photos, contact lists), information in relation to creating an account and participating in the MIUI Forum or other Xiaomi platforms, phone numbers you insert into your contacts or to send a message, feedback, and any other information you provide us.
+  * **Device or SIM-related information** : nformation related to your device. For example, IMEI number, IMSI number, MAC address, MIUI version, Android version, device manufacturer details and model name, network operator.
+  * **Information specific to you that may be assigned by us** : we may collect and use information such as your Mi Account ID.
+  * **Location information** (only for specific services/functionalities): various types of information on your location. For example, country code, city code, mobile network code, cell identity, longitude and latitude information, language settings.
+  * **Log information** : information related to your use of certain functions, apps and websites. For example, cookies and other anonymous identifier technologies, IP addresses, temporary message history, standard system logs.
+  * **Other information** : environmental characteristics value (ECV) (i.e. value generated from Mi Account ID, phone device ID, connected Wi-Fi ID and location value).
 
-  * Xiaomi will strictly follow this Privacy Policy as well as the updates hereof when using your Personal Information. Your Personal Information will only be used for purposes after receiving your permissions when we collect them. For any other uses, we will ask you for permission. 
-  * The Personal Information may be used to provide you with Xiaomi products and services, to handle your orders, or to follow the contracts between you and us. This is to ensure the safety and functionality of our products and services, verify your identity or prevent and hold accountable for fraud or any other kinds of improper use. 
-  * The Personal Information may be used to make our products and service better, however, in most cases we will only use comprehensive information and statistical information for such purpose. 
-  * The Personal Information may be used to communicate with you. For example, we will provide you with notice of our updates and releases of Xiaomi products and services. 
-  * The Personal Information may be used to customize product design and services. For example, we will recommend and display the content and ads that may interest you; or use such information for research purposes. 
-  * When you participate in lotteries, competitions or similar promotion events held by us, we may use your Personal Information to manage these events. 
-  * Your mobile user identification information, mobile device unique identification information and the location information may be used to activate your after-service and specific software licenses; and we may ask you for further investigations. We may also use such information to improve our products and analyze the efficiency of our business operation. 
-  * The Non-personal information we collect, such as profession, language, zip code, area code and time zone etc. help us to learn more about user behavior and to improve our products, services and promotions. 
-  * We may analyze the data from our “ User Experience Program” to improve user experience, operating performance, problem solving, functionality and design of our products and services. 
-  * We use Cookies and various technologies (such as pixel tags) to collect information to improve our products and overall service quality. For example, when you select a display language in settings, we will show our service in your preferred language. We use pixel tags to send email messages in a format our users can read, and they tell us whether they have read. We may use this information to reduce or eliminate messages sent to users.   
-While not all cookies collect personal data, some can potentially collect personal data. When you enable the use of cookies for your Internet activities, you are deemed to have consented to the use of cookies to collect, use, and disclose personal data you provide. You can configure your web browser to suit your cookie preferences, i.e. to accept or reject certain categories of cookies, or choose to receive a notification if there are cookies about to be created. 
 
 
+We may also collect other types of information which are not linked to an individual and which is anonymous. For example, the device model and system version number of the user’s Xiaomi mobile phone device may be collected when using a particular service. Such information is collected in order to improve the services we provide to you. The type and amount of information collected will depend on how you use, opt-in or participate in our products and/or services.
 
-###  How to decide what information to provide 
+#### How the personal information is used
 
-People have different privacy concerns, therefore, we will explicitly explain in ways you accept to help you to make decisions. 
+Personal information is collected for providing services and / or products to you, and legal compliance on our part under applicable laws. You hereby consent that we may process and disclose personal information to our affiliated companies (which are in the communications, social media, technology and cloud businesses), Third Party Service Providers (defined below) for the purposes stated in this Privacy Policy.
 
-  * You are free to decide whether or not to participate in the “ User Experience Program”, which means you can turn it off to exit this plan. 
-  * You can change your location setting in system settings to provide less precise location information to us. For example, you can change the locating method or disable locating server; or modify the accuracy of your location information. 
+We may use your personal information for the following purposes:
 
+  * Providing, processing, maintaining, improving and developing our goods and/or services to you, including after-sales and customer support and for services on your device or through our websites.
+  * Communicating with you about your device, service or any general queries, such as updates, customer inquiry support, information about our events, notices.
+  * Conducting marketing related activities, such as providing marketing and promotional materials and updates. For more information on marketing and promotional activities, please refer to the Direct Marketing section below.
+  * Allowing you to post comments in public forums. 
+  * Conducting promotional activities, such as sweepstakes and Facebook events.
+  * Analysing and developing statistical information on use of our products and services to better improve our products and services. 
+  * Storing and maintaining information about you for our business operations or legal obligations.
 
 
-###  Accessing and updating your Personal Information 
 
-Click [https://account.xiaomi.com](https://account.xiaomi.com/) to log in to your account, you are able to access and update your Personal Information. You can delete part of Personal Information or request to delete your personal account, unless we must keep certain information for legal purposes. 
+_Here are more details on how we use your information (which may include personal information) -_
 
-We always find ways to provide you with access to your personal information within thirty (30) days. If any of the information is incorrect or illegal, we will find ways for you to update or delete quickly (unless we must keep those information for legitimate business or legal purposes). When you update Personal Information, you will be asked to verify your identity before we can proceed your requests. We may reject requests that are unreasonably repetitive, require disproportionate technical effort, risk the privacy of others, or would be extremely impractical. 
+  * **Setting up your Mi Account**. Personal information collected when creating a Mi Account on our web sites or through our mobile devices is used for creating the personal Mi Account and profile page for the user.
+  * **Processing your purchase orders**. Information relating to e-commerce orders may be used for processing the purchase order and related after-sales services, including customer support and re-delivery. In addition, the order number is used to cross check the order with the delivery partner as well as the actual delivery of the parcel. The receipt details, including name, address, phone number and postal code are for delivery purposes. The email address is used to send parcel tracking information to the user. The list of purchased item(s) is used for printing the invoice and allowing users to see what is in the parcel.
+  * **Allowing you to participate in MIUI Forum**. Personal information in relation to the MIUI Forum or other Xiaomi Internet platforms may be used for profile page display, interaction with other users, participating in the forum.
+  * **Providing Mi Cloud and other MIUI services**. Information (device or SIM card-related information including IMEI number, IMSI number, phone number, device ID, device operating system, MAC Address, device type, system and performance information and location information including mobile country code, mobile network code, location area code and cell identity) is collected for activating MIUI services, e.g. Mi Cloud, call log sync, SMS sync, Find Device, for the purposes of user authentication and activation of the services.
+  * **Diagnosing activation failures**. Location related information is used for the purpose of assessing SIM card activation failure (i.e. failure of SMS gateway and network) to identify the network operator of that service, and notify the network operator of that failure.
+  * **Providing other MIUI services**. Other information collected for each of the MIUI services may be used for performing the functions of that service, and to facilitate the provision of that service for the benefit of the user, e.g. downloading, updating, registering or performing activities related to MIUI services. For example, personal information collected by the Theme Store may be used to provide personalised theme recommendation services based on your downloading and browsing history.
+  * **Finding your device** : Xiaomi’s Find Device feature helps you find and secure your phone if it is lost or stolen. You can locate your phone on a map using location information provided by your phone, wipe your phone, or lock your phone. We may collect your location data directly from your mobile device, or in some situations, from cell towers or Wi-Fi hotspots. 
+  * **Recording location information in photos**. You have the ability to record your location information while taking a photo. This information will be visible within your photos folder and the location will be put into the header of your photos. If you do not wish to have your location recording while taking a photo, you may turn this off at any time within the camera settings of the device.
+  * **Providing messaging functions (e.g. Mi Talk, Mi Message)**. If you download and use Mi Talk, information collected for Mi Talk may be used for activating this service and identifying the user and message recipient. In addition, chat history is stored for the convenience of re-loading historical chats after a user has re-installed apps, or for synchronisation across devices. Information (sender’s and recipient's phone numbers and Mi Message IDs) may be used for Mi Message for activating the services and enabling the service to function, including routing of messages.
+  * **Providing location based services**. In the course of using MIUI services, location information may also be used by us or Third Party Service Providers to serve you the correct version of the service and provide accurate details about that location for the best possible user experience, e.g. weather details, location access (as part of the Android platform). You may turn this off at any time by going into the device settings or discontinue use of that application.
+  * **Improving user experience**. Some opt-in features, such as the User Experience Program, allow Xiaomi to analyse data about how users use the mobile phone and MIUI services, so as to improve the user experience, such as sending crash reports.
+  * **Allowing you to use Security Centre**. Information collected may be used for security and system up-keeping functionalities in the Security Centre, such as advertising blocker, virus scan, power saver, blocklist, cleaner, etc. Some of these functionalities are operated by Third Party Service Providers. Information (which is not personal information like virus definition lists) is used for virus scan functions.
+  * **Providing Push Service**. Mi Account ID and IMEI numbers will also be used to provide the Xiaomi push service to evaluate advertising performance and send notifications from MIUI about software updates or new product announcements, including information about sales and promotion. You may opt out of this at any time through changing your preferences under "Settings".
+  * **Verifying user identity**. Xiaomi uses the ECV value to verify the user identity and ensure there is no log-in by hackers or unauthorised persons.
+  * **Collecting user feedback**. The feedback you choose to provide is valuable in helping Xiaomi make improvements to our services. In order to follow up on the feedback you have chosen to provide, Xiaomi may correspond with you using the personal information that you have provided and keep records.
+  * **Sending notices**. From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies.
+  * **Conducting promotional activities**. If you enter into a sweepstake, contest, or similar promotion, e.g. via Xiaomi’s Facebook page or other social media platforms, we may use the personal information you provide to administer those programmes.
 
-Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
 
-###  Information we share with third party 
 
-Except the explicitly noted limited sharing hereby, we will strictly ensure the confidentiality of your Personal Information and will not share such information with a third party. 
+#### Direct Marketing
 
-You are authorizing us to share your Personal Information with a third party without your further consent in the following cases: 
+  * We may use your name, phone number, and email address, Mi Account ID and IMEI number to provide marketing materials to you relating to goods and services of Xiaomi companies and our business partners which offer network, mobile applications and cloud products and services. To provide better user experience, we may recommend above-mentioned products, services and activities based on information about your purchase history, website browsing history, birthday, age, gender, and location. We will only so use your personal data after we have obtained your consent or indication of no objection in accordance with local data protection laws, which may require separate explicit consent. You have the right to opt out of our proposed use of your personal data for direct marketing. If you no longer wish to receive certain types of email communications you may opt-out by following the unsubscribe link located at the bottom of each communication. We will not transfer your personal data to our business partners for use by our business partners in direct marketing.
 
-  * Cases in which disclosure as required or authorised based on the applicable laws and/or regulations. 
-  * Cases in which the purpose of such disclosure is clearly in your interests, and if consent cannot be obtained in a timely way. 
-  * Cases in which the disclosure is necessary to respond to an emergency that threatens the life, health or safety of yourself or another individual. 
-  * Cases in which disclosure is necessary for any investigation or proceedings. 
-  * Cases in which the personal data is disclosed to any officer of any officer of a prescribed law enforcement agency, upon production of written authorisation signed by the head or director of that law enforcement agency or a person of a similar rank, certifying that the personal data is necessary for the purposes of the functions or duties of the officer. 
-  * Cases in which the disclosure is to a public agency and such disclosure is necessary in the public interest. 
-  * Where such disclosure without your consent is permitted by law. 
-  * We provide Personal Information to our subsidiaries, affiliates or other trustworthy businesses or persons to process above matters for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
-  * If Xiaomi is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any Personal Information and notice affected users before Personal Information is transferred. 
-  * For business purposes or user protection needs, we may share Non-personal Information publicly or with our partners to show trends about the general use of our services. 
 
 
+#### Cookies and Other Technologies (only when browsing www.mi.com)
 
-###  Information security 
+  * **What information is collected and how do we use them?** Technologies such as cookies, tags, and scripts are used by Xiaomi and our Third Party Service Providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+  * **Log Files** : As true of most websites, we gather certain information and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we gather about you.
+  * **Advertising** : We partner with our Third Party Service Providers to either display advertising on our website or to manage our advertising on other sites. Our Third Party Service Provider may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/).
+  * **Mobile Analytics** : Within some of our mobile applications we use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where crashes occur within the application. We do not link the information we store within the analytics software to any personal information you submit within the mobile application.
+  * **Local Storage – HTML5/Flash** : We use Local Storage Objects (LSOs) such as HTML5 or Flash to store content and preferences. Third parties with whom we partner to provide certain features on our Sites or to display advertising based upon your web browsing activity also use HTML5 or Flash cookies to collect and store information. Various browsers may offer their own management tool for removing HTML5 LSOs. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
 
-  * We encrypt many of our services using SSL. 
-  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
-  * We restrict access to personal information to Xiaomi employees and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations, and may be disciplined or terminate his\her relationship with Xiaomi if they fail to meet these obligations. 
-  * Xiaomi takes the security of your personal information very seriously. Therefore, we continuously strive to protect your Personal Information by encrypt when store or in transit it. We do this is to protect your information from unauthorized access to or unauthorized alteration, disclosure or destruction. In the meantime, certain enciphered data can only be visited by user himself/herself. 
 
+We do not sell any personal information to third parties.
 
+We may disclose your personal information on occasion to third parties (as described below) in order to provide the products or services that you have requested.
 
-###  Retention of Personal Information 
+Disclosure may be made to Third Party Service Providers and affiliated companies listed in this section below. In each case described in this section, you can be assured that Xiaomi will only share your personal information in accordance with your consent. You should know that when Xiaomi shares your personal information with a Third Party Service Provider under any circumstance described in this section, Xiaomi will contractually specify that the third party is subject to practices and obligations to comply with applicable local data protection laws. Xiaomi will contractually ensure compliance by any Third Party Service Providers with the privacy standards that apply to them in your home jurisdiction.
 
-We will also put in place measures such that your Personal Information in our possession or under our control is destroyed and/or anonymized as soon as it is reasonable to assume that (i) the purpose for which that Personal Information was collected is no longer being served by the retention of such Personal Information; and (ii) retention is no longer necessary for any other legal or business purposes. 
+#### Sharing with our Group and Third Party Service Providers
 
-Such third parties may include: 
+From time to time, in order to conduct business operations smoothly in providing you with the full capabilities of our products and services, we may disclose your personal information from time to time to other Xiaomi affiliated companies (in communications, social media, technology or cloud businesses), or our third party service providers which are our mailing houses, delivery service providers, telecommunications companies, data centres, data storage facilities, customer service providers, advertising and marketing service providers. Such Third Party Service Providers would be processing your personal information on Xiaomi’s behalf or for one or more of the purposes listed above. We may share your IP address with third parties when using certain mobile applications on our device in order to provide you with some of the services you requested. If you no longer wish to allow us to share this information, please contact us at [privacy@xiaomi.com](mailto:privacy@xiaomi.com).
 
-  * our associated or affiliated organisations or related corporations; 
-  * any of our agents, contractors or third party service providers that process or will be processing your personal data on our behalf including but not limited to those which provide administrative or other services to us such as mailing houses, telecommunication companies, information technology companies and data centres; and 
-  * third parties to whom disclosure by Xiaomi is for one or more of the purposes and such third parties would in turn be collecting and processing your personal data for one or more of the Purposes. 
+#### Sharing with our Group’s ecosystem companies
 
+Xiaomi works together with a cool group of companies, which together form the Mi Ecosystem. The Mi Ecosystem companies are independent entities, invested and incubated by Xiaomi, and are experts in their fields. Xiaomi may disclose your personal data to the Mi Ecosystem companies so as to provide you with and improve the exciting products and services (both hardware and software) from the Mi Ecosystem companies. Some of these products and services will still be under the Xiaomi brand, while others may use their own brand. The Mi Ecosystem companies may also share data with Xiaomi from time to time in relation to products and services under the Xiaomi brand to provide hardware and software services, and to create better functions and user experience. If Xiaomi is involved in a merger, acquisition or asset sale of all or a portion of our assets, you will be notified via email and/or a prominent notice on our website, of any changes in ownership, uses of your personal information, and choices you may have regarding your personal information.
 
+#### Sharing with Others
 
-###  When this Privacy Policy applies 
+Xiaomi may disclose your personal information without further consent when required under applicable law.
 
-Our Privacy Policy does not apply to products and services offered by a third party. Xiaomi products and services may include third party’s products or services. When you use such products and services, they may collect your information. For this reason, we strongly suggest you to read privacy policy provided by corresponding third party. 
+#### Information Not Requiring Consent
 
-Our Privacy Policy does not apply to other sites linked from our services. 
+  * We may share anonymised information and statistics in aggregate form with third parties for business purposes, for example with advertisers on our website, we may share them trends about the general use of our services, such as the number of customers in certain demographic groups who purchased certain products or who carried out certain transactions.
 
-###  Children 
+  * For the avoidance of doubt, Xiaomi may collect, use or disclose your personal information without your consent if it is and only to the extent it is allowed explicitly under local data protection laws.
 
-Xiaomi suggests that children under 14 years of age get prior approval from their legal guardian before using Xiaomi products and services. Xiaomi will not collect children's Personal Information if we know the user is under age, nor will we disclose such information to any third party. The legal guardian shall have the right to reject Xiaomi and its affiliates to collect his/her children's Personal Information, or request the deletion of such Personal Information. If we find out that we have collected the Personal Information of children under 14 years old, we will delete it as soon as it is brought to our attention. 
 
-###  Changes 
 
-Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, unless we provide you with an E-mail notice or site notice. 
 
-###  Specific product practices 
+### Security Safeguards
 
-The following notices explain specific privacy practices with respect to certain Xiaomi products and services that you may use. 
+#### Xiaomi’s Security Measures
 
-###  Mi Account Service 
+We are committed to ensuring that your personal information is secure. In order to prevent unauthorised access, disclosure or other similar risks, we have put in place reasonable physical, electronic and managerial procedures to safeguard and secure the information we collect on your mobile device and on Xiaomi websites. We will use all reasonable efforts to safeguard your personal information.
 
-  * The terms in this Privacy Policy will also apply to product and services provided by Mi Account Service (collectively the “Mi Account”) that you use. 
-  * Xiaomi is the provider of Mi Account Service, and some Mi Account features you may enjoy are syncing data with Mi Cloud, Find Device and etc. Once you log in to Mi Account, we will collect your information such as your phone number, mobile user identification information and mobile devices unique identifier. If we combine Personal Information with Non-personal Information technically, as long as they stay combined, such information will be deemed as Personal Information. 
-  * With your further agreement, Xiaomi may collect, use, transit, process and maintain information related to your account, as well as information related to any devices or computers registered under your account. Xiaomi may also collect technical, statistical or diagnostic information that related to your usage or caused by your usage, and that may be used to support, improve and upgrade our products and services. 
-  * You can withdraw this consent at any time by stop using or log out from your Mi Account on your device. 
+For example, when you access your Mi Account, you can choose to use our two-step verification process for better security. When you send or receive data from your Xiaomi device to our servers, we make sure they are encrypted using Secure Sockets Layer ("SSL") and other algorithms.
 
+All your personal information is stored on secure servers that are protected in controlled facilities. We classify your data based on importance and sensitivity, and ensure that your personal information has the highest security level. We make sure that our employees and Third Party Service Providers who access the information to help provide you with our products and services are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet such obligations. We have special access controls for cloud based data storage as well. All in all, we regularly review our information collection, storage and processing practices, including physical security measures, to guard against any unauthorised access and use.
 
+We will take all practicable steps to safeguard your personal information. However, you should be aware that the use of the Internet is not entirely secure, and for this reason we cannot guarantee the security or integrity of any personal information which is transferred from you or to you via the Internet.
 
-###  Mi Cloud Service 
+#### What you can do!
 
-  * The terms in this Privacy Policy will also apply to products and services provided by Mi Cloud Service (collectively the “Mi Cloud”) that you use. 
-  * Xiaomi is the provider of Mi Cloud Service. You can enjoy some features through Internet by syncing data with Mi Cloud. For example, your can import your Personal Information (such as messages, contacts, photos, screenshots, notes, E-mails, calendar etc.) to your compatible devices or computers through this service. When you turn on “Find Device” feature provided by this service, you will be asked to upload Personal Information, including location information. Once you launch Mi Cloud Service to sync data, your Personal Information will be sent to Xiaomi automatically; and we will store such information. As a result, you can access to such information or push such information wirelessly to other devices or computers that also have Mi Cloud Sync Service turned on. 
-  * If you have turned on “Find Device” feature in a device (e.g., a cell phone) that supports SIM card, the system may automatically send a text message in the background to our server (SMS fee charged by the operator). When you insert or replace the SIM card, we will automatically send the verification SMS and store your new phone number in the server. 
-  * You can withdraw this consent at any time by stopping the use and turning off the sync feature provided by Mi Cloud, and turning off “Find Device” on your computer or other devices. 
+  * You can play your part in safeguarding your personal information by not disclosing your login password or account information to anybody unless such person is duly authorised by you. Whenever you log in as a Mi Account user on Xiaomi websites, particularly on somebody else's computer or on public Internet terminals, you should always log out at the end of your session.
 
+  * Xiaomi cannot be held responsible for lapses in security caused by third party accesses to your personal information as a result of your failure to keep your personal information private. Notwithstanding the foregoing, you must notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security.
 
+  * Your assistance will help us protect the privacy of your personal information.
 
-###  Mi Message Service 
 
-  * The terms in this Privacy Policy will also apply to products, services and websites provided by Mi Message service (collectively the “Mi Message”). 
-  * Xiaomi is the provider of Mi Message service. You can send free online messages to devices that also have Mi Message turned on. Xiaomi will not read, transfer or store the content of your messages. 
-  * Once you activate Mi Message, we will collect your information, such as your phone number, mobile user identification information and mobile devices unique identifier. If we combine Personal Information with Non-personal Information technically, as long as they stay combined, such information will be deemed as Personal Information. 
-  * You further agree that, Xiaomi is allowed to collect, use, transit, process and maintain information related to your account, as well as information related to any device or computer registered under your account. Xiaomi may also collect information that related to your usage or created by usage, and that may be used to improve Xiaomi products and services technically, statistically or diagnostically. 
-  * You can withdraw this consent at any time by stopping the use and turning off the Mi Cloud Sync service on your computer or other devices. 
 
 
+### Retention Policy
 
-### User Experience Program
+Personal information will be held for as long as it is necessary to fulfil the purpose for which it was collected, or as required or permitted by applicable laws. We shall cease to retain personal information, or remove the means by which the personal information can be associated with particular individuals, as soon as it is reasonable to assume that the purpose for which that personal information was collected is no longer being served by retention of the personal information.
 
-Information relevant to user behavior and problem diagnosis—when you participate in the “User Experience Program”, we will collect your IMEI number and track your usage of product functionalities. We do this to learn about your habits and improve your overall experience when you visit the Xiaomi official website or use our products and services. When the system crashes or is forced to exit, we will collect environmental information of the device to diagnose problems.
+### Accessing other Features on your Device
 
-### Report Spam in Blocklist (from Security Centre)
+Our applications may need access to certain features on your device such as enabling emails to contacts, SMS storage and Wi-Fi network status, as well as other features. This information is used to allow the applications to run on your device and allow you to interact with the applications. At any time you may revoke your permissions by turning these off at the device level or contacting us at [privacy@xiaomi.com](mailto:privacy@xiaomi.com)
 
-In order to block spam messages in an intelligent manner, MIUI enables users to mark messages as spam such that similar messages in the future could be marked and filtered automatically. When the user manually marks messages as spam, the spam message's phone number and its content may be uploaded to Xiaomi servers.
+### You have control over your information!
 
-###  Google input method 
+#### Controlling settings
 
-The following link leads to terms that apply to Google input method: [http://www.google.com/policies/privacy/ ](http://www.google.com/policies/privacy/)
+Xiaomi recognises that privacy concerns differ from person to person. Therefore, we provide examples of ways Xiaomi makes available for you to choose to restrict the collection, use, disclosure or processing of your personal information and control your privacy settings:
 
-###  SwiftKey input method 
+  * Toggle on/off for the User Experience Program and Location Access functions;
+  * Log in and out of the Mi Account;
+  * Toggle on/off for the Mi Cloud sync functions
+  * Delete any information stored on Mi Cloud through [www.mi.com/micloud](http://www.mi.com/micloud); and
+  * Toggle on/off for other services and functionalities which deal with sensitive or personal information.
 
-The following link leads to terms that apply to SwiftKey input method: <http://swiftkey.com/en/privacy/>
 
-###  Further information 
 
-If you have any questions or concerns about Xiaomi’s Privacy Policy or data processing, or if you want to make a complaint about a possible breach of local personal data protection laws, please contact our Privacy Officer by sending an email to [legalqa@xiaomi.com](mailto:legalqa@xiaomi.com)
+You may obtain more details in relation to your device’s security status in the MIUI Security Centre as well.
+
+If you have previously agreed to us using your personal information for the abovementioned purposes, you may change your mind at any time by writing or emailing us at [privacy@xiaomi.com](mailto:privacy@xiaomi.com).
+
+#### Access, Updating or Correcting Your Personal Information
+
+  * You have the right to request access to and/or correction of any other personal information that we hold about you. When you update your personal information, you will be asked to verify your identity before we proceed with your request. Once we obtain sufficient information to accommodate your request for access to or correction of your personal information, we shall proceed to respond to your request within any timeframe set out under your applicable data protection laws.
+  * We normally provide such services for free but reserve the right to charge a reasonable fee for your data access request.
+  * If you would like to request access to your personal data held by us or if you believe any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the email address below. Email: [privacy@xiaomi.com](mailto:privacy@xiaomi.com).
+  * For details relating to the personal information in your Mi Account, you may also access and change them at [http://account.mi.com](http://account.mi.com/) or by logging into your account on your device.
+
+
+
+#### Withdrawal of Consent
+
+  * You may withdraw your consent for the collection, use and/or disclosure of your personal information in our possession or control by submitting a request. This may be done by accessing your Mi Account management centre at [account.xiaomi.com/pass/del](http://www.account.xiaomi.com/pass/del). We will process your request within a reasonable time from when the request was made, and thereafter not collect, use and/or disclose your personal information as per your request.
+  * Please recognise that your withdrawal of consent could result in certain legal consequences. Depending on the extent of your withdrawal of consent for us to process your personal information, it may mean that you will not be able to enjoy Xiaomi’s products and services.
+
+
+
+### Transfer of personal information outside of your jurisdiction
+
+To the extent that we may need to transfer personal information outside of your jurisdiction, whether to our affiliated companies (which are in the communications, social media, technology and cloud businesses) or Third Party Service Providers, we shall do so in accordance with the applicable laws. In particular, we will ensure that all transfers will be in accordance with requirements under your applicable local data protection laws by putting in place appropriate safeguards.
+
+Xiaomi may use overseas facilities operated and controlled by Xiaomi to process or back up your personal information. Currently, Xiaomi has data centres in Beijing, United States and Singapore. These overseas jurisdictions may or may not have in place data protection laws which are substantially similar to that in your home jurisdiction. We may transfer to and store your personal information at our overseas facilities. However, this does not change any of our commitments to safeguard your personal information in accordance with this Privacy Policy.
+
+### Miscellaneous
+
+#### Minors
+
+  * We consider it the responsibility of parents to monitor their children’s use of our products and services. Nevertheless, it is our policy not to require personal information from minors or offer to send any promotional materials to persons in that category.
+  * Xiaomi does not seek or intend to seek to receive any personal information from minors. Should a parent or guardian have reasons to believe that a minor has provided Xiaomi with personal information without their prior consent, please contact us to ensure that the personal information is removed and the minor unsubscribes from any of the applicable Xiaomi services.
+
+
+
+#### Order of Precedence
+
+If you have agreed to our applicable User Agreements, in the event of inconsistency between such User Agreements and this Privacy Policy, such User Agreements shall prevail.
+
+#### Updates To The Privacy Policy
+
+We keep our Privacy Policy under regular review and may update this privacy policy to reflect changes to our information practices. If we make material changes to our Privacy Policy, we will notify you by email (sent to the e-mail address specified in your account) or post the changes on all the Xiaomi websites or through our mobile devices, so that you may be aware of the information we collect and how we use it. Such changes to our Privacy Policy shall apply from the effective date as set out in the notice or on the website. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of products and services on the websites, mobile phones and/or any other device will be taken as acceptance of the updated Privacy Policy. We will seek your fresh consent before we collect more personal information from you or when we wish to use or disclose your personal information for new purposes.
+
+### Do I have to agree to any third party terms and conditions?
+
+Our Privacy Policy does not apply to products and services offered by a third party. Xiaomi products and services may include third parties’ products, services and links to third parties’ websites. When you use such products or services, they may collect your information too. For this reason, we strongly suggest that you read the third party’s privacy policy as you have taken time to read ours. We are not responsible for and cannot control how third parties use personal information which they collect from you. Our Privacy Policy does not apply to other sites linked from our services.
+
+Here are third party terms and privacy policies that apply when you use these specific products:
+
+  * By using PayPal or other third party check-out services to finalize and pay for your order, you are agreeing to the third party check-out service provider’s privacy policy will apply to the information you provide on their website. 
+  * By using the Virus Scan feature in the MIUI Security Center, you are agreeing to Tencent’s Terms of Service: <http://wesecure.qq.com/termsofservice.jsp>
+  * By using the Cleaner feature in MIUI’s Security Center, you are agreeing to Cheetah Mobile’s Privacy Policy: <http://www.cmcm.com/protocol/cleanmaster/privacy-for-sdk.html>
+  * By using the Google Input Method, you are agreeing to Google’s terms: <http://www.google.com/policies/privacy>
+  * By using the SwiftKey Input Method, you are agreeing to SwiftKey’s terms: <http://swiftkey.com/en/privacy>
+  * By using the Fleksy Input Method, you are agreeing to Fleksy’s terms: <http://feedback.fleksy.com/tos>
+
+
+
+#### Social Media (Features) and Widgets
+
+Our websites include social media features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social media features and Widgets are either hosted by a third party or hosted directly on our websites. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+#### Single Sign-On
+
+Depending on your jurisdiction, you may be able to log in to our website using sign-on services such as Facebook Connect or an Open ID provider. These services will authenticate your identity, provide you the option to share certain personal information (such as your name and email address) with us, and to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.
+
+### Contact Us
+
+If you have any comments or questions about this Privacy Policy or any questions relating to Xiaomi’s collection, use or disclosure of your personal information, please contact our Data Protection Officer at the address below referencing "Privacy Policy":
+
+Xiaomi Singapore Pte. Ltd.  
+20 Cross Street, China Court #02-12  
+Singapore 048422  
+Email: [privacy@xiaomi.com](mailto:privacy@xiaomi.com)
+
+Thank you for taking the time to understand our Privacy Policy!
