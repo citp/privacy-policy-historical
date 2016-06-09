@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boardwalkbuy.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231231715id_/http%3A//www.boardwalkbuy.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardwalkbuy.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609213603id_/http%3A//www.boardwalkbuy.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – BoardwalkBuy
+# Privacy Policy – ePacificmall
 
 PRIVACY STATEMENT
 
