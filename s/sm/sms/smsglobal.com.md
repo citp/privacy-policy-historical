@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsglobal.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231151252id_/http%3A//www.smsglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsglobal.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609155514id_/http%3A//www.smsglobal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SMS Gateway - Web SMS, Email SMS & SMS APIs - SMSGlobal
 
@@ -40,7 +40,16 @@ You can import contacts from your Outlook or other email account address book to
 
 ### Cookies
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. SMSGlobal’s website will log people out of a secure session after 2 hours of inactivity by a user.  
+A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. SMSGlobal’s website will log people out of a secure session after 2 hours of inactivity by a user.
+
+Other cookies we use are in relation to marketing performance. These cookies, such as Google AdWords, Google Analytics, Facebook, Twitter and Hubspot help us to understand how users interact with our site, doing so anonymously by placing users completing the same actions into an audience “bucket”. These cookies report back to our systems about the pages users have visited or the actions they have completed. The reason for this is so that we are better equipped to provide a more appropriate marketing strategy for our potential customers. For example, by supporting a popular page with a link straight from the homepage to increase satisfied browsers.
+
+We also utilise remarketing products with the information collected from these cookies. For example, Google allows us to build an anonymous audience list based on a user’s action i.e. visited the site, which we can then use as a target audience to display advertising to across Google’s display network of content websites.
+
+If you wish to restrict or block the cookies which are set by SMSGlobal, or any other website, you can do this through your browser settings. Either through browsing on the incognito settings or regularly deleting your cookies. The ‘Help’ function within your browser should tell you how you can restrict or block cookies. For information on how to restrict or block cookies on the browser of your mobile phone you will need to refer to your handset manual.
+
+If you’d like more information on cookies, we find the following link very useful:  
+[www.allaboutcookies.org](http://www.allaboutcookies.org/)  
  
 
 ### Log Files
