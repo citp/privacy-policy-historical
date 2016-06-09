@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the providence.edu privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509033636id_/http%3A//www.providence.edu/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providence.edu privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609222733id_/http%3A//www.providence.edu/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Providence College - Providence College
+# Privacy Policy
 
-## Protecting Privacy
+### ​​​​Protecting Privacy
 
-Providence College is committed to protecting the privacy of its students, faculty, staff, alumni, and friends.  The College acknowledges the confidential nature of information it receives in the ordinary course of business involving these groups of individuals.  The personal information that you provide on our website will be used expressly for the purpose of processing the intended online transaction.  It will not be used for any other commercial or philanthropic purpose, and the information you provide will not be shared or sold to any other individual or organization. The College also uses third-party sites for some of its services.  Most of these sites are governed by their own privacy policy; otherwise, they have an agreement with the College to honor our privacy standards.  The College may provide aggregated statistical data to reputable third-party vendors, but this data will include no personally identifiable information.
+Providence College is committed to protecting the privacy of its students, faculty, staff, alumni, and friends.  The College acknowledges the confidential nature of information it receives in the ordinary course of business involving these groups of individuals.  The personal information that you provide on our website will be used expressly for the purpose of processing the intended online transaction.  It will not be used for any other commercial or philanthropic purpose, and the information you provide will not be shared or sold to any other individual or organization. The College also uses third-party sites for some of its services.  Most of these sites are governed by their own privacy policy; otherwise, they have an agreement with the College to honor our privacy standards.  The College may provide aggregated statistical data to reputable third-party vendors, but this data will include no personally identifiable information.​
 
 Providence College does, upon explicit request of users, share information with other parties and gather information from other private data providers.  For example, the College receives test scores from testing agencies and will send transcripts to other educational institutions.  This action is taken only at the request of users (persons to whom the information applies). 
 
@@ -18,4 +18,13 @@ Several of our sites enable users to pay for services or products online with a 
 
 Providence College makes forums, message boards, and news groups available to its users.  The College does not ordinarily log public chat sessions; however, any information that is disclosed via the above communication methods becomes public information and users should exercise caution when deciding to disclose confidential information in such manner. 
 
-At various times, online surveys are being conducted on the College’s website.  Confidential information gathered in such online surveys is used only for the purposes (research or otherwise) indicated in the survey.  Unless otherwise noted, answers provided by responders are confidential and individual responses will be not improperly disclosed.  Aggregate (and non-personally identifiable data) from surveys may be shared with external third parties. 
+At various times, online surveys are being conducted on the College’s website.  Confidential information gathered in such online surveys is used only for the purposes (research or otherwise) indicated in the survey.  Unless otherwise noted, answers provided by responders are confidential and individual responses will be not improperly disclosed.  Aggregate (and non-personally identifiable data) from surveys may be shared with external third parties. ​
+
+## Unsubscribe Processes
+
+### Alumni & Institutional Advancement
+
+The College is working with third parties to collect user data for conversion tracking and to serve ads targeted to users’ interests. If you wish to opt out of interest-based advertising, use your browser's Do Not Track function. [Twitter users can also change their advertising settings to opt out​](https://support.twitter.com/articles/20170405).  
+
+
+### School of Continuing Education
