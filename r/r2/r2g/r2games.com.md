@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the r2games.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221175207id_/http%3A//www.r2games.com/public/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r2games.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609050426id_/http%3A//www.r2games.com/public/privacy-policy.html) for the most accurate reproduction.*
 
 # R2Games-home
 
 **R2Games Privacy Policy - Effective Date**
 
-The effective date of this Privacy Policy (the "Policy") is _July 31st, 2015_.
+The effective date of this Privacy Policy (the "Policy") is _December 30th, 2015_.
 
  **1\. Introduction**
 
-R2Game Co., Limited, also referred to as "R2Games," "we," or "us," takes necessary precautions when collecting, storing, using, and sharing any personal data including, but not limited to, your name, address, telephone number, email, and birth date (the "Personal Information"). The purpose of the Policy is to inform you what information we collect and store, how we use that information, our cooperation with third parties concerning the use and sharing of your Personal Information, and our measures regarding security and privacy.
+Reality Squared Game Co., Limited, also referred to as "R2Games," "we," or "us," takes necessary precautions when collecting, storing, using, and sharing any personal data including, but not limited to, your name, address, telephone number, email, and birth date (the "Personal Information"). The purpose of the Policy is to inform you what information we collect and store, how we use that information, our cooperation with third parties concerning the use and sharing of your Personal Information, and our measures regarding security and privacy.
 
 By accessing our products and services (the "Services") and/or creating an account, you consent to our collecting, storing, using, and sharing of your information as outlined in the Policy. If you do not agree to the Policy and our [Terms of Service](http://www.r2games.com/public/2015/06/23/terms-of-use.html), you should discontinue your use of the Services. We encourage all of our players to read the Policy and understand the information presented.
 
@@ -65,8 +65,10 @@ Our products are designed for a mature audience and you must be at least 13 year
 
 The Policy and your use of the Services shall be governed by and construed and take effect in accordance with the laws of Hong Kong. With respect to any questions, disputes, suits, action or proceedings arising out of or in connection with the Policy, you irrevocably submit to the exclusive jurisdiction of the courts of Hong Kong. If you have any questions about the Policy, or the practices mentioned within, please send an email to **privacy@r2games.com** ****.
 
-Room 1210A, Silvercorp Tower 2
+Room 1910G,
 
-No.30 Canton Road, Tsim Sha Tsui
+19/F, Parklane Square, 2 Tuen Hing Road,
 
-Kowloon, Hong Kong
+Tuen Mun,
+
+N.T., Hong Kong
