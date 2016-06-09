@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filipinamagic.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102022030id_/http%3A//www.filipinamagic.com/exec/privacy-policy.jsp%3Fnats%3DMDowOjEz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipinamagic.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609211522id_/http%3A//www.filipinamagic.com/exec/privacy-policy.jsp%3Fnats%3DMC4wLjQ0LjQ5LjAuMC4wLjAuMA) for the most accurate reproduction.*
 
 # Filipinamagic. The hottest Asian Cam Models and Live sex
 
@@ -6,7 +6,7 @@
 
 **PERSONAL INFORMATION**
 
-We only collect personal information from visitors to our web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. We may require visitors to provide us with information including, but not limited to, their name, physical address, email address, birth date, credit card number, credit card expiration date, username, password, and on occasion a unique identifier (such as their motherтАЩs maiden name).
+We only collect personal information from visitors to our web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. We may require visitors to provide us with information including, but not limited to, their name, physical address, email address, birth date, credit card number, credit card expiration date, username, password, and on occasion a unique identifier (such as their mother's maiden name).
 
 **NON-PERSONAL INFORMATION**
 
