@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spinnakerboutique.it privacy policy that was archived on 2015-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151229163736id_/http%3A//www.spinnakerboutique.it/privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spinnakerboutique.it privacy policy that was archived on 2016-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609133057id_/http%3A//www.spinnakerboutique.it/privacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="k-webkit k-webkit69"><head>
     <title>Privacy notice | Spinnaker Boutique</title>
@@ -23,6 +23,8 @@
 <link href="/Plugins/SevenSpikes.Nop.Plugins.MegaMenu/Themes/Tiffany/Content/MegaMenu.css" rel="stylesheet" type="text/css">
 <link href="/Plugins/SevenSpikes.Nop.Plugins.AjaxCart/Styles/common.css" rel="stylesheet" type="text/css">
 <link href="/Plugins/SevenSpikes.Nop.Plugins.AjaxCart/Themes/Tiffany/Content/ajaxCart.css" rel="stylesheet" type="text/css">
+<link href="/Plugins/SevenSpikes.Nop.Plugins.ProductRibbons/Styles/Ribbons.common.css" rel="stylesheet" type="text/css">
+<link href="/Plugins/SevenSpikes.Nop.Plugins.ProductRibbons/Themes/Tiffany/Content/Ribbons.css" rel="stylesheet" type="text/css">
 
     
     <script src="/Scripts/jquery-1.10.2.min.js" type="text/javascript"></script>
@@ -42,6 +44,8 @@
 <script src="/Scripts/kendo/2014.1.318/kendo.userevents.min.js" type="text/javascript"></script>
 <script src="/Scripts/kendo/2014.1.318/kendo.draganddrop.min.js" type="text/javascript"></script>
 <script src="/Scripts/kendo/2014.1.318/kendo.window.min.js" type="text/javascript"></script>
+<script src="/Plugins/SevenSpikes.Nop.Plugins.ProductRibbons/Scripts/jquery.json-2.4.min.js" type="text/javascript"></script>
+<script src="/Plugins/SevenSpikes.Nop.Plugins.ProductRibbons/Scripts/ProductRibbons.min.js" type="text/javascript"></script>
 <script src="/Plugins/SevenSpikes.Core/Scripts/footable.js" type="text/javascript"></script>
 <script src="/Plugins/SevenSpikes.Core/Scripts/perfect-scrollbar.min.js" type="text/javascript"></script>
 <script src="/Themes/Tiffany/Content/scripts/tiffany.js" type="text/javascript"></script>
@@ -55,7 +59,7 @@
 <link rel="shortcut icon" href="http://www.spinnakerboutique.it/favicon.ico">
     <!--Powered by nopCommerce - http://www.nopCommerce.com-->
 </head>
-<body class="notAndroid23  color-dove" style=""><div class="addProductToCartErrors"></div><div class="addProductVariantToCartErrors"></div><div class="nopAjaxCartPanelAjaxBusy" style="display: none;"></div>
+<body class="notAndroid23  color-dove" style="">
     
 
 
@@ -116,7 +120,7 @@
 
                     <div class="currency-selector">
 
-        <div tabindex="1" class="new_select" id="selectbox_customerCurrency1582532353338" style="position: relative; z-index: 999; width: 78px;"><div class="styleSelect_item" style="position: absolute; z-index: 499; top: 26px; left: 0px; display: none;"><div class="styleSelect_item_content"><ul><li id="/changecurrency/6?returnurl=%2fprivacy-notice"><span style="display: block;" class="selected">Euro</span></li><li id="/changecurrency/1?returnurl=%2fprivacy-notice"><span style="display: block;">US Dollar</span></li><li id="/changecurrency/5?returnurl=%2fprivacy-notice"><span style="display: block;">Chinese Yuan Renminbi</span></li><li id="/changecurrency/7?returnurl=%2fprivacy-notice"><span style="display: block;">Hong Kong Dollar</span></li><li id="/changecurrency/8?returnurl=%2fprivacy-notice"><span style="display: block;">Japanese Yen</span></li></ul></div></div><span id="/changecurrency/6?returnurl=%2fprivacy-notice" class="activeSelect">Euro</span></div><select id="customerCurrency" name="customerCurrency" onchange="setLocation(this.value);" tabindex="1" style="display: none;"><option selected="selected" value="/changecurrency/6?returnurl=%2fprivacy-notice">Euro</option>
+        <select id="customerCurrency" name="customerCurrency" onchange="setLocation(this.value);"><option selected="selected" value="/changecurrency/6?returnurl=%2fprivacy-notice">Euro</option>
 <option value="/changecurrency/1?returnurl=%2fprivacy-notice">US Dollar</option>
 <option value="/changecurrency/5?returnurl=%2fprivacy-notice">Chinese Yuan Renminbi</option>
 <option value="/changecurrency/7?returnurl=%2fprivacy-notice">Hong Kong Dollar</option>
@@ -141,8 +145,8 @@
 
                 
             </div><div class="search-box store-search-box">
-                <form action="/search" id="small-search-box-form" method="get" novalidate="novalidate">    <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" class="search-box-text ui-autocomplete-input" id="small-searchterms" autocomplete="off" name="q" placeholder="Search store" tabindex="2">
-    <input type="submit" class="button-1 search-box-button" value="Search" tabindex="3">
+                <form action="/search" id="small-search-box-form" method="get" novalidate="novalidate">    <input type="text" class="search-box-text" id="small-searchterms" autocomplete="off" name="q" placeholder="Search store">
+    <input type="submit" class="button-1 search-box-button" value="Search">
         <script type="text/javascript">
             $("#small-search-box-form").submit(function(event) {
                 if ($("#small-searchterms").val() == "") {
@@ -179,7 +183,7 @@
             </script>
         
 </form>
-            <ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul></div>
+            </div>
         </div>
     </div>
 </div>
@@ -257,7 +261,7 @@ You have no items in your shopping cart.        </div>
 
 
 
-<input type="hidden" value="false" id="isRtlEnabled" tabindex="4">
+<input type="hidden" value="false" id="isRtlEnabled">
 
 <ul class="mega-menu">
             <li>
@@ -266,270 +270,104 @@ You have no items in your shopping cart.        </div>
 
 
 
-
-
             <li>
                 <a href="/Men-1" title="MEN">MEN</a>
-                    <div class="dropdown categories fullWidth boxes-3">
-                        <div class="row-wrapper">
-                            <div class="row"><div class="box">
-        <div class="title">
-            <strong>
-                <a href="/Clothing-9" title="CLOTHING">CLOTHING</a>
-            </strong>
-        </div>
-        <div class="picture">
-            <a href="/Clothing-9" title="Show products in category CLOTHING">
-                <img class="lazy" alt="Picture for category CLOTHING" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0001609_clothing_220.jpeg">
-            </a>
-        </div>
-        <ul class="subcategories">
+                    <div class="dropdown categories">
+                        <div class="row">
+                            <div class="box">
+                                <div class="title">
+                                    <strong>Shop by category</strong>
+                                </div>
+                                <ul>
+                                            <li>
+                                                <a href="/Clothing-9" title="CLOTHING">CLOTHING</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Shoes-12" title="SHOES">SHOES</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Accessories-8" title="ACCESSORIES">ACCESSORIES</a>
+                                            </li>
 
-
-
-        </ul>
-    
-</div><div class="box">
-        <div class="title">
-            <strong>
-                <a href="/Shoes-12" title="SHOES">SHOES</a>
-            </strong>
-        </div>
-        <div class="picture">
-            <a href="/Shoes-12" title="Show products in category SHOES">
-                <img class="lazy" alt="Picture for category SHOES" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0001624_shoes_220.jpeg">
-            </a>
-        </div>
-        <ul class="subcategories">
-
-
-
-        </ul>
-    
-</div><div class="box">
-        <div class="title">
-            <strong>
-                <a href="/Accessories-8" title="ACCESSORIES">ACCESSORIES</a>
-            </strong>
-        </div>
-        <div class="picture">
-            <a href="/Accessories-8" title="Show products in category ACCESSORIES">
-                <img class="lazy" alt="Picture for category ACCESSORIES" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0001622_accessories_220.jpeg">
-            </a>
-        </div>
-        <ul class="subcategories">
-
-
-
-        </ul>
-    
-</div></div>
-                        </div>
-                        <div class="slider-wrapper no-captions">
-                            <a href="/Men-1">
-                                <img alt="banner" class="nivo-main-image" src="http://www.spinnakerboutique.it/content/images/thumbs/0001625_men_220.jpeg">
-                            </a>
-                            <div style="display: block;" class="nivo-caption"></div>
-                        </div>
-                                              
-                    </div>
+                                </ul>
+                            </div><!--box-->
+                        </div><!--row-->
+                    </div><!--dropdown-->
             </li>
+            
             <li>
                 <a href="/Women-2" title="WOMEN">WOMEN</a>
-                    <div class="dropdown categories fullWidth boxes-3">
-                        <div class="row-wrapper">
-                            <div class="row"><div class="box">
-        <div class="title">
-            <strong>
-                <a href="/Clothing-4" title="CLOTHING">CLOTHING</a>
-            </strong>
-        </div>
-        <div class="picture">
-            <a href="/Clothing-4" title="Show products in category CLOTHING">
-                <img class="lazy" alt="Picture for category CLOTHING" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0001631_clothing_220.jpeg">
-            </a>
-        </div>
-        <ul class="subcategories">
+                    <div class="dropdown categories">
+                        <div class="row">
+                            <div class="box">
+                                <div class="title">
+                                    <strong>Shop by category</strong>
+                                </div>
+                                <ul>
+                                            <li>
+                                                <a href="/Clothing-4" title="CLOTHING">CLOTHING</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Shoes-7" title="SHOES">SHOES</a>
+                                            </li>
+                                            <li>
+                                                <a href="/Accessories-3" title="ACCESSORIES">ACCESSORIES</a>
+                                            </li>
 
-
-
-        </ul>
-    
-</div><div class="box">
-        <div class="title">
-            <strong>
-                <a href="/Shoes-7" title="SHOES">SHOES</a>
-            </strong>
-        </div>
-        <div class="picture">
-            <a href="/Shoes-7" title="Show products in category SHOES">
-                <img class="lazy" alt="Picture for category SHOES" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0001615_shoes_220.jpeg">
-            </a>
-        </div>
-        <ul class="subcategories">
-
-
-
-        </ul>
-    
-</div><div class="box">
-        <div class="title">
-            <strong>
-                <a href="/Accessories-3" title="ACCESSORIES">ACCESSORIES</a>
-            </strong>
-        </div>
-        <div class="picture">
-            <a href="/Accessories-3" title="Show products in category ACCESSORIES">
-                <img class="lazy" alt="Picture for category ACCESSORIES" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0001630_accessories_220.jpeg">
-            </a>
-        </div>
-        <ul class="subcategories">
-
-
-
-        </ul>
-    
-</div></div>
-                        </div>
-                        <div class="slider-wrapper no-captions">
-                            <a href="/Women-2">
-                                <img alt="banner" class="nivo-main-image" src="http://www.spinnakerboutique.it/content/images/thumbs/0001617_women_220.jpeg">
-                            </a>
-                            <div style="display: block;" class="nivo-caption"></div>
-                        </div>
-                                              
-                    </div>
+                                </ul>
+                            </div><!--box-->
+                        </div><!--row-->
+                    </div><!--dropdown-->
             </li>
-
 
 
 
     <li>
-        <a href="/manufacturer/all" title="Brand">Brand</a>
-        <div class="dropdown manufacturers fullWidth">
-            <div class="row-wrapper">
-                <div class="row"><div class="box">
-                        <div class="title">
-                            <a class="manufacturer" href="/2mestyle" title="2MESTYLE"><strong>2MESTYLE</strong></a>
-                        </div><!-- title -->
-                        <ul>
-                            <li>
-                                <a class="manufacturer" href="/2mestyle" title="2MESTYLE">
-                                    <span><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0000328_2mestyle_150.jpeg" alt="Picture for category 2MESTYLE" title="Picture for category 2MESTYLE"></span>
-                                </a>
-                            </li>
-                        </ul>
-                    
-</div><div class="box">
-                        <div class="title">
-                            <a class="manufacturer" href="/7-for-all-mankind" title="7 FOR ALL MANKIND"><strong>7 FOR ALL MANKIND</strong></a>
-                        </div><!-- title -->
-                        <ul>
-                            <li>
-                                <a class="manufacturer" href="/7-for-all-mankind" title="7 FOR ALL MANKIND">
-                                    <span><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0000229_7-for-all-mankind_150.jpeg" alt="Picture for category 7 FOR ALL MANKIND" title="Picture for category 7 FOR ALL MANKIND"></span>
-                                </a>
-                            </li>
-                        </ul>
-                    
-</div><div class="box">
-                        <div class="title">
-                            <a class="manufacturer" href="/alexander-mcqueen" title="ALEXANDER McQUEEN"><strong>ALEXANDER McQUEEN</strong></a>
-                        </div><!-- title -->
-                        <ul>
-                            <li>
-                                <a class="manufacturer" href="/alexander-mcqueen" title="ALEXANDER McQUEEN">
-                                    <span><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0000230_alexander-mcqueen_150.jpeg" alt="Picture for category ALEXANDER McQUEEN" title="Picture for category ALEXANDER McQUEEN"></span>
-                                </a>
-                            </li>
-                        </ul>
-                    
-</div><div class="box">
-                        <div class="title">
-                            <a class="manufacturer" href="/anna-baiguera-2" title="ANNA BAIGUERA"><strong>ANNA BAIGUERA</strong></a>
-                        </div><!-- title -->
-                        <ul>
-                            <li>
-                                <a class="manufacturer" href="/anna-baiguera-2" title="ANNA BAIGUERA">
-                                    <span><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0000231_anna-baiguera_150.jpeg" alt="Picture for category ANNA BAIGUERA" title="Picture for category ANNA BAIGUERA"></span>
-                                </a>
-                            </li>
-                        </ul>
-                    
-</div><div class="box">
-                        <div class="title">
-                            <a class="manufacturer" href="/ash" title="ASH"><strong>ASH</strong></a>
-                        </div><!-- title -->
-                        <ul>
-                            <li>
-                                <a class="manufacturer" href="/ash" title="ASH">
-                                    <span><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0000329_ash_150.jpeg" alt="Picture for category ASH" title="Picture for category ASH"></span>
-                                </a>
-                            </li>
-                        </ul>
-                    
-</div></div><div class="row"><div class="box">
-                        <div class="title">
-                            <a class="manufacturer" href="/azzedine-alaia" title="AZZEDINE ALAIA"><strong>AZZEDINE ALAIA</strong></a>
-                        </div><!-- title -->
-                        <ul>
-                            <li>
-                                <a class="manufacturer" href="/azzedine-alaia" title="AZZEDINE ALAIA">
-                                    <span><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0000234_azzedine-alaia_150.jpeg" alt="Picture for category AZZEDINE ALAIA" title="Picture for category AZZEDINE ALAIA"></span>
-                                </a>
-                            </li>
-                        </ul>
-                    
-</div><div class="box">
-                        <div class="title">
-                            <a class="manufacturer" href="/bagutta" title="BAGUTTA"><strong>BAGUTTA</strong></a>
-                        </div><!-- title -->
-                        <ul>
-                            <li>
-                                <a class="manufacturer" href="/bagutta" title="BAGUTTA">
-                                    <span><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0001600_bagutta_150.jpeg" alt="Picture for category BAGUTTA" title="Picture for category BAGUTTA"></span>
-                                </a>
-                            </li>
-                        </ul>
-                    
-</div><div class="box">
-                        <div class="title">
-                            <a class="manufacturer" href="/bally" title="BALLY"><strong>BALLY</strong></a>
-                        </div><!-- title -->
-                        <ul>
-                            <li>
-                                <a class="manufacturer" href="/bally" title="BALLY">
-                                    <span><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0000236_bally_150.jpeg" alt="Picture for category BALLY" title="Picture for category BALLY"></span>
-                                </a>
-                            </li>
-                        </ul>
-                    
-</div><div class="box">
-                        <div class="title">
-                            <a class="manufacturer" href="/belstaff" title="BELSTAFF"><strong>BELSTAFF</strong></a>
-                        </div><!-- title -->
-                        <ul>
-                            <li>
-                                <a class="manufacturer" href="/belstaff" title="BELSTAFF">
-                                    <span><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/0000330_belstaff_150.jpeg" alt="Picture for category BELSTAFF" title="Picture for category BELSTAFF"></span>
-                                </a>
-                            </li>
-                        </ul>
-                    
-</div><div class="box">
-                        <div class="title">
-                            <a class="manufacturer" href="/blugirl" title="BLUGIRL"><strong>BLUGIRL</strong></a>
-                        </div><!-- title -->
-                        <ul>
-                            <li>
-                                <a class="manufacturer" href="/blugirl" title="BLUGIRL">
-                                    <span><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="http://www.spinnakerboutique.it/content/images/thumbs/default-image_150.png" alt="Picture for category BLUGIRL" title="Picture for category BLUGIRL"></span>
-                                </a>
-                            </li>
-                        </ul>
-                    
-</div></div>
-            </div>
+        <a href="/manufacturer/all" title="DESIGNERS">DESIGNERS</a>
+        <div class="dropdown manufacturers">
+            <div class="row">
+                <div class="box">
+                    <div class="title">
+                        <strong>Shop by manufacturer</strong>
+                    </div>
+                    <ul>
+                                <li>
+                                    <a href="/alexander-mcqueen" title="ALEXANDER McQUEEN">ALEXANDER McQUEEN</a>
+                                </li>   
+                                <li>
+                                    <a href="/burberry" title="BURBERRY">BURBERRY</a>
+                                </li>   
+                                <li>
+                                    <a href="/dolce-gabbana-2" title="DOLCE GABBANA">DOLCE GABBANA</a>
+                                </li>   
+                                <li>
+                                    <a href="/fendi-2" title="FENDI">FENDI</a>
+                                </li>   
+                                <li>
+                                    <a href="/givenchy" title="GIVENCHY">GIVENCHY</a>
+                                </li>   
+                                <li>
+                                    <a href="/gucci-2" title="GUCCI">GUCCI</a>
+                                </li>   
+                                <li>
+                                    <a href="/moncler" title="MONCLER">MONCLER</a>
+                                </li>   
+                                <li>
+                                    <a href="/saint-laurent" title="SAINT LAURENT">SAINT LAURENT</a>
+                                </li>   
+                                <li>
+                                    <a href="/stella-mccartney" title="STELLA McCARTNEY">STELLA McCARTNEY</a>
+                                </li>   
+                                <li>
+                                    <a href="/valentino-garavani" title="VALENTINO GARAVANI">VALENTINO GARAVANI</a>
+                                </li>   
+                                <li>
+                                    <a class="view-all" href="/manufacturer/all" title="View all">View all</a>
+                                </li>
+
+                    </ul>
+                </div><!--box-->
+            </div><!--row-->
         </div><!--dropdown-->
     </li>
         <li>
@@ -539,7 +377,27 @@ You have no items in your shopping cart.        </div>
             <a href="/ContactUs" title="Contact us">Contact us</a>
         </li>
 
-</ul>
+<li>
+                <a href="/sale-6" title="SALE" style="color: red !important">SALE</a>
+                    <div class="dropdown categories">
+                        <div class="row">
+                            <div class="box">
+                                <div class="title">
+                                    <strong>Shop by category</strong>
+                                </div>
+                                <ul>
+                                            <li>
+                                                <a href="/women-sale" title="WOMEN">WOMEN</a>
+                                            </li>
+                                            <li>
+                                                <a href="/men-sale" title="MEN">MEN</a>
+                                            </li>
+
+                                </ul>
+                            </div><!--box-->
+                        </div><!--row-->
+                    </div><!--dropdown-->
+            </li></ul>
 <div class="menu-title"><span>Menu</span></div>
 <ul class="mega-menu-responsive">
             <li>
@@ -569,6 +427,7 @@ You have no items in your shopping cart.        </div>
                     </ul>
                 </div>
         </li>
+        
         <li>
                 <a href="/Women-2" title="WOMEN" class="with-subcategories">WOMEN</a>
                 <div class="plus-button"></div>
@@ -594,7 +453,7 @@ You have no items in your shopping cart.        </div>
 
 
     <li>
-            <a href="/manufacturer/all" class="with-subcategories" title="Brand">Brand</a>
+            <a href="/manufacturer/all" class="with-subcategories" title="DESIGNERS">DESIGNERS</a>
             <div class="plus-button"></div>
             <div class="sublist-wrap">
                 <ul class="sublist">
@@ -602,34 +461,34 @@ You have no items in your shopping cart.        </div>
                         <span>back</span>
                     </li>
                         <li>
-                            <a href="/2mestyle" title="2MESTYLE">2MESTYLE</a>
-                        </li>
-                        <li>
-                            <a href="/7-for-all-mankind" title="7 FOR ALL MANKIND">7 FOR ALL MANKIND</a>
-                        </li>
-                        <li>
                             <a href="/alexander-mcqueen" title="ALEXANDER McQUEEN">ALEXANDER McQUEEN</a>
                         </li>
                         <li>
-                            <a href="/anna-baiguera-2" title="ANNA BAIGUERA">ANNA BAIGUERA</a>
+                            <a href="/burberry" title="BURBERRY">BURBERRY</a>
                         </li>
                         <li>
-                            <a href="/ash" title="ASH">ASH</a>
+                            <a href="/dolce-gabbana-2" title="DOLCE GABBANA">DOLCE GABBANA</a>
                         </li>
                         <li>
-                            <a href="/azzedine-alaia" title="AZZEDINE ALAIA">AZZEDINE ALAIA</a>
+                            <a href="/fendi-2" title="FENDI">FENDI</a>
                         </li>
                         <li>
-                            <a href="/bagutta" title="BAGUTTA">BAGUTTA</a>
+                            <a href="/givenchy" title="GIVENCHY">GIVENCHY</a>
                         </li>
                         <li>
-                            <a href="/bally" title="BALLY">BALLY</a>
+                            <a href="/gucci-2" title="GUCCI">GUCCI</a>
                         </li>
                         <li>
-                            <a href="/belstaff" title="BELSTAFF">BELSTAFF</a>
+                            <a href="/moncler" title="MONCLER">MONCLER</a>
                         </li>
                         <li>
-                            <a href="/blugirl" title="BLUGIRL">BLUGIRL</a>
+                            <a href="/saint-laurent" title="SAINT LAURENT">SAINT LAURENT</a>
+                        </li>
+                        <li>
+                            <a href="/stella-mccartney" title="STELLA McCARTNEY">STELLA McCARTNEY</a>
+                        </li>
+                        <li>
+                            <a href="/valentino-garavani" title="VALENTINO GARAVANI">VALENTINO GARAVANI</a>
                         </li>
                         <li>
                             <a class="view-all" href="/manufacturer/all" title="View all">View all</a>
@@ -645,7 +504,24 @@ You have no items in your shopping cart.        </div>
             <a href="/ContactUs" title="Contact us">Contact us</a>
         </li>
 
-</ul>
+<li>
+                <a href="/sale-6" title="SALE" class="with-subcategories" style="color: red !important">SALE</a>
+                <div class="plus-button"></div>
+                <div class="sublist-wrap">
+                    <ul class="sublist">
+                        <li class="back-button">
+                            <span>back</span>
+                        </li>
+                                <li>
+                                    <a href="/women-sale" title="WOMEN">WOMEN</a>
+                                </li>
+                                <li>
+                                    <a href="/men-sale" title="MEN">MEN</a>
+                                </li>
+
+                    </ul>
+                </div>
+        </li></ul>
 
 <script type="text/javascript">
 
@@ -694,6 +570,31 @@ You have no items in your shopping cart.        </div>
     </div></div>
 </div>
 
+<script>
+    //  To display SALE in end
+    (function () {
+        $('.mega-menu > li:eq(2)').appendTo('.mega-menu');
+        $('.mega-menu > li:last > a').attr('style', 'color: red !important');
+        $('.mega-menu-responsive > li:eq(2)').appendTo('.mega-menu-responsive');
+        $('.mega-menu-responsive > li:last > a').attr('style', 'color: red !important');
+        
+    })();
+
+    $(document).ready(function () {
+        $('.block-category-navigation > .listbox > ul > li > a').addClass('parent-category');
+        var titleArray = document.title.split('|');
+       
+        if (titleArray.length > 0) {
+            if (titleArray[0].trim() == "SALE") {
+                $('.page-title > div > img').remove();
+                $('.center-2').css('display', 'none');
+                $('.side-2').css('display', 'none');
+                
+            }
+        }
+    });
+</script>
+
 
 
     <div class="master-wrapper-content">
@@ -708,16 +609,25 @@ You have no items in your shopping cart.        </div>
 <div class="ajaxCartInfo" data-getajaxcartbuttonurl="/NopAjaxCart/GetAjaxCartButtonsAjax" data-productpageaddtocartbuttonselector="input.add-to-cart-button" data-productboxaddtocartbuttonselector="input.product-box-add-to-cart-button" data-productboxproductitemelementselector=".product-item">
 </div>
 
-<input id="addProductVariantToCartUrl" name="addProductVariantToCartUrl" type="hidden" value="/AddProductFromProductDetailsPageToCartAjax" tabindex="5">
-<input id="addProductToCartUrl" name="addProductToCartUrl" type="hidden" value="/AddProductToCartAjax" tabindex="6">
-<input id="miniShoppingCartUrl" name="miniShoppingCartUrl" type="hidden" value="/MiniShoppingCart" tabindex="7">
-<input id="flyoutShoppingCartUrl" name="flyoutShoppingCartUrl" type="hidden" value="/NopAjaxCartFlyoutShoppingCart" tabindex="8">
-<input id="checkProductAttributesUrl" name="checkProductAttributesUrl" type="hidden" value="/CheckIfProductOrItsAssociatedProductsHasAttributes" tabindex="9">
-<input id="getMiniProductDetailsViewUrl" name="getMiniProductDetailsViewUrl" type="hidden" value="/GetMiniProductDetailsView" tabindex="10">
-<input id="flyoutShoppingCartPanelSelector" name="flyoutShoppingCartPanelSelector" type="hidden" value="#flyout-cart" tabindex="11">
-<input id="shoppingCartMenuLinkSelector" name="shoppingCartMenuLinkSelector" type="hidden" value="span.cart-qty" tabindex="12">
+<input id="addProductVariantToCartUrl" name="addProductVariantToCartUrl" type="hidden" value="/AddProductFromProductDetailsPageToCartAjax">
+<input id="addProductToCartUrl" name="addProductToCartUrl" type="hidden" value="/AddProductToCartAjax">
+<input id="miniShoppingCartUrl" name="miniShoppingCartUrl" type="hidden" value="/MiniShoppingCart">
+<input id="flyoutShoppingCartUrl" name="flyoutShoppingCartUrl" type="hidden" value="/NopAjaxCartFlyoutShoppingCart">
+<input id="checkProductAttributesUrl" name="checkProductAttributesUrl" type="hidden" value="/CheckIfProductOrItsAssociatedProductsHasAttributes">
+<input id="getMiniProductDetailsViewUrl" name="getMiniProductDetailsViewUrl" type="hidden" value="/GetMiniProductDetailsView">
+<input id="flyoutShoppingCartPanelSelector" name="flyoutShoppingCartPanelSelector" type="hidden" value="#flyout-cart">
+<input id="shoppingCartMenuLinkSelector" name="shoppingCartMenuLinkSelector" type="hidden" value="span.cart-qty">
 
 
+
+
+
+<script type="text/javascript">
+    var nop_store_directory_root = "http://www.spinnakerboutique.it/";
+</script>
+
+<div id="product-ribbon-info" data-productid="0" data-productboxselector=".product-item, .item-holder" data-productboxpicturecontainerselector=".picture, .item-picture" data-productpagepicturesparentcontainerselector=".product-essential" data-productpagebugpicturecontainerselector=".picture" data-retrieveproductribbonsurl="/ProductRibbons/RetrieveProductRibbons">
+</div>
         
         <div class="ajax-loading-block-window" style="display: none">
             <div class="loading-image"></div>
@@ -779,8 +689,8 @@ You have no items in your shopping cart.        </div>
     </div>
     <div class="newsletter-subscribe" id="newsletter-subscribe-block">
         <div class="newsletter-email">
-            <input class="newsletter-subscribe-text" id="newsletter-email" name="NewsletterEmail" placeholder="Enter your email here..." type="text" value="" tabindex="13">
-            <input type="button" value="Subscribe" id="newsletter-subscribe-button" class="button-1 newsletter-subscribe-button" tabindex="14">
+            <input class="newsletter-subscribe-text" id="newsletter-email" name="NewsletterEmail" placeholder="Enter your email here..." type="text" value="">
+            <input type="button" value="Subscribe" id="newsletter-subscribe-button" class="button-1 newsletter-subscribe-button">
         </div>
         <div class="newsletter-validation">
             <span id="subscribe-loading-progress" style="display: none;" class="please-wait">Wait...</span>
@@ -865,7 +775,9 @@ You have no items in your shopping cart.        </div>
                                     <li><a href="https://www.facebook.com/spinnakerboutique.it?ref=hl" class="facebook" target="_blank"></a></li>
                                     <li><a href="https://www.youtube.com/user/SpinnakerGroup" class="youtube" target="_blank"></a></li>
                                                     <li><a href="https://it.pinterest.com/spinnakeralassi/" class="pinterest" target="_blank"></a></li>
-                                                    <li><a class="rss" target="_blank" href="/news/rss/1"></a></li>
+                              
+                    <li><a class="rss" target="_blank" href="/news/rss/1"></a></li>
+                <li><a href="https://www.instagram.com/spinnaker_boutique/" class="instagram"></a></li>
             </ul>
 
             <ul class="information-links">
@@ -884,7 +796,9 @@ You have no items in your shopping cart.        </div>
             </ul>
 
             <h3 style="text-transform:uppercase;color:white">
-                <a href="http://thebestshops.com/it/index.html" target="_blank">The Best Shop</a>
+                <a href="http://thebestshops.com/it/index.html" target="_blank">
+                    <img src="/Themes/Tiffany/Content/img/logobianco.png" alt="The Best Shop" width="200">
+                </a>
             </h3>
 
                 <div class="footer-powered-by">
@@ -893,7 +807,7 @@ You have no items in your shopping cart.        </div>
                 </div>
 
             <div class="footer-disclaimer">
-                Copyright © 2015 Spinnaker Boutique. All rights reserved.
+                Copyright © 2016 Spinnaker Boutique. All rights reserved.
             </div>
                 <div class="footer-tax-shipping">
                     All prices are entered excluding tax. Excluding <a href="/shipping-returns">shipping</a>
@@ -913,4 +827,4 @@ You have no items in your shopping cart.        </div>
     <div id="goToTop"><span>top</span></div>
 
 
-<div class="k-widget k-window ajaxCart" style="padding-top: 32px; min-width: 90px; min-height: 50px; display: none;"><div class="k-window-titlebar k-header" style="margin-top: -32px;">&nbsp;<span class="k-window-title" style="right: 1376px;"></span><div class="k-window-actions"><a role="button" href="#" class="k-window-action k-link"><span role="presentation" class="k-icon k-i-close">Close</span></a></div></div><div class="miniProductDetailsView k-window-content k-content" data-role="window" tabindex="0"></div></div><div class="k-widget k-window ajaxCart" style="padding-top: 32px; min-width: 90px; min-height: 50px; display: none;"><div class="k-window-titlebar k-header" style="margin-top: -32px;">&nbsp;<span class="k-window-title" style="right: 1376px;"></span><div class="k-window-actions"><a role="button" href="#" class="k-window-action k-link"><span role="presentation" class="k-icon k-i-close">Close</span></a></div></div><div class="productAddedToCartWindow k-window-content k-content" data-role="window" tabindex="0"></div></div></body></html>
+<input class="javascriptErrorsElement" type="hidden" value="URL: https://web.archive.org/web/20160827071345/http://www.spinnakerboutique.it/Themes/Tiffany/Content/scripts/tiffany.js§§MESSAGE: Uncaught ReferenceError: Modernizr is not defined§§ROW: 188"></body></html>
