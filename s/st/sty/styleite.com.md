@@ -1,77 +1,118 @@
-> *The following text is extracted and transformed from the styleite.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006111540id_/http%3A//www.styleite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleite.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610000123id_/http%3A//runwayriot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Styleite
+# Privacy Policy | RunwayRiot
 
-**PRIVACY POLICY**
+**INTRODUCTION**  
+Welcome! The following privacy policy (the “Privacy Policy”) outlines the types of personal information that RunwayRiot, LLC (“we,” “our,” or “us”) collects when operating services through our website http://www.runwayriot.com(the “Site” or “RunwayRiot”). 
 
-This privacy policy governs Styleite.com.
+We try to collect as little information as possible while still providing you with a quality service. Your privacy is important to us, and we do our best to protect your personal information and ensure that information is kept private and secure. If you have any questions, please contact us at info@runwayriot.com. 
 
-**Information Collection**
+**OVERVIEW**  
+This section is a user-friendly guide to help you understand our Privacy Policy. It is in no way a replacement, and may not be thought of as the full policy. Know that when you accept this agreement, you are accepting the full RunwayRiot Privacy Policy.
 
-Styleite may collect information from its users at any point on the site. Styleite, LLC. (“Styleite”), a Delaware Corporation, is the sole owner of the information collected on Styleite.com whether accessed via a web browser, a mobile device, a non-browser application, or email.
+● Any time you go on RunwayRiot or log into your account, you are allowing us to collect information according to this policy. Your use is your consent.  
+● When you visit or use RunwayRiot, we collect personal information, such as your name, email address, IP address, password, and any other information you provide to us. We do our best to protect this information and generally only use it to make the Site available to you.  
+● We work with third-party services, like rewardStyle, to make RunwayRiot simpler to use. If you use a third-party service through RunwayRiot you are also consenting to their privacy policies, so be sure to read those policies as well.  
+● We may place cookies on your computing device to identify you when you visit the Site. You are not required to accept any cookies, but may want to in order to better utilize the full functionality of RunwayRiot.  
+● We do not sell, rent, or trade any information that you provide us or share any of your information with any third-parties, except:  
+o When legally necessary;  
+o To provide this information to our partners; or  
+o To protect the safety of our users.  
+● We take reasonable steps to protect your information, but, as a user, you must also protect your username and password from falling into the wrong hands.  
+● We may change parts of this policy from time to time, so it is important to check it frequently. If significant changes are made we will do our best to notify you. 
 
-**Comments and Posts**
+**HOW YOU ACCEPT THIS POLICY**  
+When you visit RunwayRiot, sign up for an account, or otherwise provide us with any personal information you consent to the terms and conditions of this Privacy Policy.
 
-Styleite users can choose to write comments or posts on the site. To leave a comment, users must submit a valid email address. Styleite uses this information to screen out users who leave comments that violate its terms and conditions of use. Styleite does not share user information with any other organization.
+**INFORMATION WE COLLECT AND WHY**  
+In order to provide you with a high quality service and verify your identity, we collect various types of information when you visit RunwayRiot. 
 
-**Newsletters**
+_As a Visitor_  
+We may collect various types of non-personally identifiable information about visitors who use the Site, such as device-related information (e.g., device, browser, IP address) and server log information (e.g., date and time of day of your visit). We use this information to better understand our visitors and to enhance your experience. 
 
-Styleite offers email newsletters. Users who subscribe to the Styleite newsletter will receive regular email updates about new content and features.
+_For Newsletter/Wishlist_  
+When you create a user account to access our newsletter or wishlist, we will also collect certain personal information, such as your first, last name, and email address.
 
-To sign up to receive regular emails, users must submit information including a valid email address. Styleite does not share contact or personal information with any other organization. This information can be used in aggregate form to assess general user interest in various internal and third-party products and services, and your personal and contact information will not be passed to any other organization. Styleite may periodically email you messages about products and services that we think may be of interest to you. We may also produce contests, sweepstakes and special events with the support of promotional partners. Information collected by our Sites in conjunction with such events may also be used for the marketing of additional services and events by the Sites and/or their promotional partners. In the instance that there is a conflict between this privacy policy and the rules or policies applicable to a special event, the rules and policies associated with the special event shall govern. You can choose not to receive such messages in the future by following the “unsubscribe” instructions located near the bottom of each e-mail.
+Please keep in mind that we may from time to time collect various other types of personal information related to your use of RunwayRiot. For example, we may ask for additional information if you contact us for technical support. We may collect hardware addresses or unique user identifier numbers. Or, we may collect personal information if we run a promotion or other advertising or marketing event. 
 
-**Cookies**
+We use this information to validate your identity, make it easier for you to use the Site, and ensure that you receive important information generated by RunwayRiot. We also use it in for marketing, advertising, and to improve the Site.
 
-Styleite may use cookies. A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. Session ID cookies terminate as soon as the user closes the browser. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help instructions.
+_Third-Party Services_  
+We haven’t built every single part of RunwayRiot from scratch. To run the Site, we utilize various third-party services to maintain RunwayRiot (collectively “Third-Party Services”), such as rewardStlyle. If you authorize us to connect with these Third-Party Services, you grant us the permission to collect certain personal information, such as your name, email address, and any other information that the third-party service makes available to us. Your use of these Third-Party Services is governed by their Terms of Service and Privacy Policies. We will use and disclose such information in accordance with this Privacy Policy.
 
-**Third-Party Cookies**
+_Cookies_  
+Like many websites and online services, we may set and access “cookies” on your device when you use our Site. A “cookie” is a small file containing a string of characters that is sent to your computer and stored on your device when you visit a website. 
 
-Styleite uses third-party advertising companies to serve ads and collect information when you visit Styleite.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Third-party advertisers’ use of cookies is subject to their own privacy policies. Styleite has no access to or control over these cookies once we have given permission for them to set cookies for advertising. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+When logging into RunwayRiot, a cookie is sent to your device that identifies your user account and allows you to successfully access the Site. You are not required to accept any cookies; however if cookies are impaired or disabled, you may not be able to login successfully or some features of RunwayRiot may not function properly.
 
-**Log Files**
+_Analytics_  
+We use analytics tools, such as Google Analytics, to collect information about your usage of RunwayRiot (collectively “Analytics Tools”). These Analytics Tools collect information such as how often you visit the Site, what areas of the Site you visit, and what other sites or services you used prior to using RunwayRiot. 
 
-Like most websites, our servers use log files. These log file records include Internet Protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. Styleite uses this information to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. Styleite may use a tracking utility that uses log files to analyze user movement.
+Analytics Tools all operate differently. For example, Google Analytics only collects the IP address assigned to you on the date you visit RunwayRiot, not your name or other identifying information. Although Google Analytics plants a permanent cookie on your computer to identify you as a unique user the next time you visit, the cookie cannot be used by anyone but Google. 
 
-**Legal Disclaimer**
+As of right now, we only use the information we get from Analytics Tools to improve the Site and do not combine the information collected through the use of Analytics tools with personally identifiable information. However, we reserve the right to do so in the future.
 
-Though Styleite makes every effort to preserve user privacy, it may need to disclose personal information when required by law wherein Styleite has a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process.
+Google’s ability to use and share information collected by Google Analytics about your use of RunwayRiot is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. 
 
-**Business Transitions**
+You can prevent Google Analytics from recognizing you on return visits to RunwayRiot disabling cookies on your browser. You also can opt out of Google Analytics by installing the Google Analytics Opt-out Browser Add-on here.
 
-In the event Styleite goes through a business transition such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information may be part of the assets transferred.
+**HOW WE USE YOUR PERSONAL INFORMATION**  
+Your personal information is primarily used for the creation of a RunwayRiot user account profile. As set forth above and in this section, we also use your personal information to:
 
-**Links**
+● Provide information that you request through the Site and respond to correspondence that we receive from you;  
+● Provide, maintain, administer, or expand the Site;  
+● Perform business analyses to improve, or enhance our business, RunwayRiot and other products and services we offer;  
+● Send you information about RunwayRiot;  
+● Contact you when necessary or requested;  
+● Customize and tailor your experience of the Site;  
+● Send emails and other communications that display content that we think will interest you according to your preferences; or  
+● Prevent, detect, and investigate security breaches and potentially illegal or prohibited activities. 
 
-Styleite publishes links to other sites. Please be aware that Styleite is not responsible for the privacy practices orcontent of such other sites. Styleite encourages its users to be aware when they leave Styleite and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement  
-applies solely to information collected by Styleite.
+As part of this process, we may aggregate some of your personal information in certain data analyses, and may display this information publicly or provide it to others. When aggregating personal information, we do our best to ensure that the information is not identifiable to any particular user.
 
-**Third-Party Advertising**
+**WHEN DO WE SHARE YOUR PERSONAL INFORMATION**
 
-The advertisements appearing on Styleite are delivered to users with a third-party ad server. Information about a user’s visit to Styleite.com, such as number of times they have viewed an advertisement (but not username, date ofbirth, or any other personal information) is used to serve ads to users on this site.
+We do not sell, rent, or trade any information that you provide us or share any of your information with any third parties, except as provided below.
 
-**Information Collected Through Third-Party Sources**
+We may disclose personal information in response to service of legal process, such as a court order, summons, subpoenas, or as permitted or required by law when we reasonably believe it is necessary or appropriate to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Terms of Service, which can be found here runwayriot.com/terms. 
 
-This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources contains any personally identifying information. This type of information includes, but is not limited to:
+We may share aggregated information with third parties, such as demographic and geographic information, and when doing so will attempt to remove your personally identifiable information. We may also disclose potentially personally-identifying information to employees, independent contractors, vendors, and affiliated organizations that: (i) need to know your personal information in order to provide services available on RunwayRiot; and (ii) have agreed not to disclose your information to others. Some of these employees, contractors, or affiliated organizations may be located outside of your home country. By using RunwayRiot, you consent to the transfer of such information to them.
 
-  * Demographic information (gender, age, HHI, job title, interests, etc.)
-  * Advertising information (clicks, interactions, post-impression performance data)
-  * Social networking information (Facebook, Twitter, LinkedIn, etc.)
-  * Research information (data collected from partners)
+Information about our users, including personal information, may be disclosed or transferred to entities, now or in the future, affiliated with us or as part of any merger, acquisition, change of control, debt financing, insolvency, bankruptcy or sale of our assets. Such information may be used in the businesses of any entity so receiving it and you consent to any such transfer.
 
+**DATA RETENTION**  
+We will retain your data for the life of the Site. If you delete your account, we may retain some personal information that you have provided to us in order to maintain the Site for other users or to comply with relevant laws.
 
+**CHILDREN**  
+RunwayRiot is intended to be used by adults, not children. We do not knowingly collect information from children under the age of 18 and we do not target our Site to children under the age of 13. If you learn that a child under the age of 18 has used the Site, created a user account, or provided us with personally identifiable information, please contact us at info@runwayriot.com . 
 
-**Children Under 13**
+**PROTECTION OF PERSONAL INFORMATION**  
+The security of the information you provide is important to us. We employ several physical and electronic safeguards to keep your information safe, including encrypted user passwords and securing all connections with industry standard transport layer security.
 
-Styleite is not intended for children under 13 years of age. No one under age 13 may provide any information to or on Styleite. Styleite does not knowingly target advertising to or collection information from children under the age of 13. If you are under the age of 13, do not use or provide information on Styleite. If Styleite learns it has collected or received personal information from a child under 13 without verification of parental consent, the information will be deleted.
+If you log into your account on a shared computer, be sure to sign out of your account when finished. If you believe a third party has access to your account, you must let us know as soon as possible.
 
-**Visitors from outside the United States**
+Even with all these precautions, we cannot fully guarantee against the access, disclosure, alteration, or deletion of data through events such as, but not limited to, hardware or software failure or unauthorized entry or use.
 
-Styleite’s offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence.
+**ONLINE TRACKING AND HOW WE RESPOND TO DO NOT TRACK SIGNALS**  
+Online tracking is the collection of data about an individual’s internet activity used to deliver targeted advertisements and for other purposes. Some web browsers (including Safari, Internet Explorer, Firefox, and Chrome) incorporate a “Do Not Track” (DNT) or similar feature that signals to websites that a visitor does not want to have his or her online activity and behavior tracked. If an online service elects to respond to a particular DNT signal, the service may refrain from collecting certain personal information about the browser’s user. Not all browsers offer a DNT option and there is currently no industry consensus as to what constitutes a DNT signal. For these reasons, many website operators, including RunwayRiot, do not take action to respond to DNT signals. For more information about DNT signals, visit http://allaboutdnt.com.
 
-**Notification of Changes**
+**CHANGES TO THIS POLICY**  
+We may modify our Privacy Policy at any time. Any changes to the Privacy Policy will be reflected on this page and will become effective immediately upon posting. If the changes are significant, we will do our best to notify you via email or through a notification. Please check the effective date below to determine if there have been any changes since you have last reviewed the Privacy Policy.
 
-Whenever Styleite changes its privacy policy, it will post those changes to this privacy statement.
+**YOUR RIGHTS AS A CALIFORNIA RESIDENT**  
+Residents of California have the right to request from us certain information with respect to the types of personal information we share with third parties for those third parties’ direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by emailing us at info@runwayriot.com. Your request should specify your full name and the email address you used when submitting personal information to us.
 
-**Contact Information**
+**INTERNATIONAL USERS AND VISITORS**  
+RunwayRiot is hosted in the United States. Because the Internet is global, you should note that by providing your personal information as an international visitor or user, you are: (i) permitting the transfer of your personal information to the United States which may not have the same data protection laws as the country in which you reside; and (ii) permitting the use of your personal information in accordance with this Privacy Policy.
 
-If you have any questions or suggestions regarding our privacy policy, please contact info@Styleite.com.
+**QUESTIONS?**
+
+EMAIL  
+info@runwayriot.com
+
+MAILING ADDRESS  
+RunwayRiot, LLC  
+1261 Broadway Ave., Suite 508  
+New York, NY 10001
+
+**EFFECTIVE DATE:** November 17, 2015
