@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritscienceandmetaphysics.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915060627id_/http%3A//www.spiritscienceandmetaphysics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritscienceandmetaphysics.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610001755id_/http%3A//www.spiritscienceandmetaphysics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spirit Science and Metaphysics
 
@@ -59,10 +59,8 @@ Spirit Science and Metaphysics Corp. has the discretion to update this privacy p
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-### Share and Enjoy
-
   * ### Recent Posts
 
-    * [3 Things Only Free Spirits Do](http://www.spiritscienceandmetaphysics.com/3-things-only-free-spirits-do/)
+    * [From New Age Blogger To Jesus – Why I’m A Christian Now](http://www.spiritscienceandmetaphysics.com/from-new-age-blogger-to-jesus-why-im-a-christian-now/)
 
 
