@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicaid.gov privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083321id_/http%3A//www.cms.gov/about-cms/agency-information/aboutwebsite/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicaid.gov privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609045731id_/http%3A//www.cms.gov/about-cms/agency-information/aboutwebsite/privacy-policy.html) for the most accurate reproduction.*
 
 # Centers for Medicare & Medicaid Services (CMS) Website Privacy Policy - Centers for Medicare & Medicaid Services
 
@@ -82,7 +82,7 @@ For further information about the CMS website privacy policy, please contact [Pr
 
 ## **Data safeguards and privacy**
 
-All uses of Web-based technologies comply with existing privacy and data safeguarding policies and standards. Information Technology (IT) systems owned and operated by CMS are assessed using Privacy Impact Assessments (PIAs) posted for public view on the Department of Health and Human Services (HHS) website (http://www.hhs.gov/pia). CMS conducts and publishes a PIA for each use of a third-party website and application (TPWA) as they may have a different functionality or practice. TPWA PIAs are posted for public view on the HHS website at http://www.hhs.gov/pia.
+All uses of Web-based technologies comply with existing privacy and data safeguarding policies and standards. Information Technology (IT) systems owned and operated by CMS are assessed using Privacy Impact Assessments (PIAs) posted for public view on the Department of Health and Human Services (HHS) website (<http://www.hhs.gov/pia>). CMS conducts and publishes a PIA for each use of a third-party website and application (TPWA) as they may have a different functionality or practice. TPWA PIAs are posted for public view on the HHS website at <http://www.hhs.gov/pia>.
 
 Groups of records that contain information about an individual and are designed to be retrieved by the individual's name or other personal identifier linked to the individual are covered by the Privacy Act of 1974, as amended (5 U.S.C. Section 552a). For these records, CMS Systems of Record Notices are published in the Federal Register and posted on the CMS Senior Official for Privacy Website.
 
@@ -104,7 +104,7 @@ When you visit CMS websites, please look for the Privacy Notice posted on the ma
 
 ## **How long we keep data and how we access it**
 
-CMS websites keep data collected long enough to achieve the specified objective for which they were collected. The data generated from these activities falls under the National Archives and Records Administration (NARA) General Records Schedule (GRS) 20-item IC “Electronic Records,” and will be handled according to the requirements of that schedule (http://www.archives.gov/records-mgmt/grs/grs20.html).
+CMS websites keep data collected long enough to achieve the specified objective for which they were collected. The data generated from these activities falls under the National Archives and Records Administration (NARA) General Records Schedule (GRS) 20-item IC “Electronic Records,” and will be handled according to the requirements of that schedule (<http://www.archives.gov/records-mgmt/grs/grs20.html>).
 
 ## **How CMS websites use third-party websites and applications**
 
