@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the jawbone.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905112711id_/https%3A//jawbone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jawbone.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609192931id_/https%3A//jawbone.com/privacy) for the most accurate reproduction.*
 
 # Jawbone | Privacy
 
-## Website Privacy
-
-[Click here to view the UP privacy policy.](https://web.archive.org/up/privacy)
+[Click here to view the UP privacy policy »](https://web.archive.org/up/privacy)
 
 We, Aliphcom, a California corporation doing business as Jawbone ("Jawbone" or "we") explain in this Statement what information we collect from you, a website visitor, when you visit our web and mobile sites at [www.jawbone.com](https://web.archive.org/) and other domains on which we place a direct link to this Statement ("Site(s)"). This Statement does not cover any other information that we collect including, without limitation, data that we collect offline or that we receive through our mobile app and store from users of our fitness tracker products.
 
