@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the relishapp.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209220458id_/http%3A//www.relishapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relishapp.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609195944id_/http%3A//www.relishapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Relish
 
-This privacy policy sets out how Matt Wynne Ltd uses and protects any information that you give Matt Wynne Ltd when you use this website. 
+This privacy policy sets out how Cucumber Limited uses and protects any information that you give Cucumber Limited when you use this website. 
 
-Matt Wynne Limited is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
+Cucumber Limited is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
-Matt Wynne Limited may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 5 July 2012. 
+Cucumber Limited may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 5 July 2012. 
 
 ##  What we collect 
 
