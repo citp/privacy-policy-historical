@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the realestate.co.jp privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415005557id_/http%3A//www.realestate.co.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.co.jp privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609201133id_/https%3A//www.realestate.co.jp/privacy-policy) for the most accurate reproduction.*
 
-# Real Estate Japan
+# Privacy Policy - Real Estate Japan
+
+## Privacy Policy
 
 Fundamental Principles Regarding the Protection of Personal Information Real Estate Japan K.K. (hereafter referred to as “this Company”) complies with the laws and regulations regarding the protection of personal information, and is dedicated to paying strict attention to the protection of customers important personal information.
 
