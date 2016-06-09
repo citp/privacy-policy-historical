@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestmediainfo.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209073907id_/http%3A//www.bestmediainfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmediainfo.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609192024id_/http%3A//www.bestmediainfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Media Info, News and Analysis on Indian Advertising, Marketing and Media Industry.
 
