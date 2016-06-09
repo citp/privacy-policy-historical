@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gsma.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210051707id_/http%3A//www.gsma.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsma.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609195226id_/http%3A//www.gsma.com/cookie-policy) for the most accurate reproduction.*
 
-# Cookie Policy | About Us
+# Cookie Policy - About UsAbout Us
 
 **What is a cookie?**  
 ‘Cookies’ are small text files that websites may place on your computer, mobile device or tablet. They’re used to remember what you have done on a website in order to improve your browsing experience, to help remember log-ins, or to provide advertising while visiting a particular site.
