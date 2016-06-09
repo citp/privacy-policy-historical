@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caqh.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230221929id_/http%3A//www.caqh.org/about/caqh-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caqh.org privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609083826id_/http%3A//www.caqh.org/about/caqh-privacy-policy) for the most accurate reproduction.*
 
 # About | CAQH Privacy Policy | CAQH
 
