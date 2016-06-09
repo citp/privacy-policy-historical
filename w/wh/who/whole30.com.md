@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whole30.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209045608id_/http%3A//whole30.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whole30.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609195631id_/http%3A//whole30.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Whole30® Program
 
-If you require any more information or have any questions about our privacy policy, please feel free [contact us](mailto:headquarters@whole9life.com).
+If you require any more information or have any questions about our privacy policy, please feel free [contact us](mailto:headquarters@whole30.com).
 
 At Whole30.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by Whole30.com and how we use it.
 
@@ -45,6 +45,6 @@ This privacy policy applies only to our online activities and is valid for visit
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
 **Update**  
-This Privacy Policy was last updated on: December 1, 2014.  
+This Privacy Policy was last updated on: December 1, 2015.  
 [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
