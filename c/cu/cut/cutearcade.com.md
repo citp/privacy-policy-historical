@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutearcade.com privacy policy that was archived on 2013-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130320073351id_/http%3A//www.gurlz.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutearcade.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609223628id_/http%3A//www.gurlz.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -- Gurlz.com
 
