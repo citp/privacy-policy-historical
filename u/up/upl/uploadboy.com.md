@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uploadboy.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127035158id_/http%3A//uploadboy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadboy.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609044941id_/http%3A//uploadboy.com/en/privacy.html) for the most accurate reproduction.*
 
-# Uploadboy.com - the simplest and secure way to host your files | Cloud Storage | Affordable Cloud Storage Service
+# UploadBoy.com Making Your File Sharing Easy!
 
 Privacy Policy for uploadboy.com
 
