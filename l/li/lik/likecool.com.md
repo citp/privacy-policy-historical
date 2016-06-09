@@ -1,13 +1,39 @@
-> *The following text is extracted and transformed from the likecool.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504124323id_/http%3A//www.likecool.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likecool.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609125607id_/http%3A//www.likecool.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Likecool.com
+# 
 
-**Privacy Policy**  
-LikeCOOL respects each individual user's right to privacy. We do use Google Analytics and SiteMeter to collect aggregate information on unique visits, pageviews, etc–this information is used to analyze overall traffic patterns only.   
----  
-Non-personal information and data may be automatically collected through the standard operation of Likecool's servers or through the use of "cookies.". Cookies are small text files a web site places on your computer's hard drive to recognize repeat users and facilitate the user's use of the site. Also, cookies allow a site to track usage behavior and compile aggregate data for content improvement, targeted advertising, and marketing and promotional purposes. Users should be aware that Likecool cannot control the use of cookies or the resulting information by advertisers or other third parties. Most browsers allow a user to deny cookies; however, users should note that cookies may be required to provide certain web site features.   
-We will never sell or otherwise distribute your email address, IP address or any other identifying information to outside parties unless required by law.   
-  
+[](http://www.likecool.com/)
+
+PRIVACY POLICY
+
+This Privacy Policy governs the manner in which likecool collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.likecool.com website ("Site"). This privacy policy applies to the Site and all products and services offered by likecool.   
+Personal identification information   
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.   
+Non-personal identification information   
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.   
+Web browser cookies   
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.   
+How we use collected information   
+likecool may collect and use Users personal information for the following purposes:   
+\- To improve customer service   
+Information you provide helps us respond to your customer service requests and support needs more efficiently.   
+\- To personalize user experience   
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.   
+\- To process payments   
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.   
+\- To run a promotion, contest, survey or other Site feature   
+To send Users information they agreed to receive about topics we think will be of interest to them.   
+\- To send periodic emails   
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.   
+How we protect your information   
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.   
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.   
+Sharing your personal information   
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.   
+Changes to this privacy policy   
+likecool has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.   
+Your acceptance of these terms   
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.   
+Contacting us below.   
 ATTENTION KIDS: No information should be submitted to Likecool by children under 18 years of age without their parent's or guardian's consent. Likecool does not monitor the age of its user audience.   
-  
-**LikeCOOL.COM**
+LikeCOOL.COM 
