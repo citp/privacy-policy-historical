@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intextechnologies.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923215322id_/http%3A//www.intex.in/Home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intextechnologies.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609170840id_/http%3A//www.intex.in/Home/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy : Intex Technologies
 
 ### Your privacy is important to us. To know more on how INTEX works to maintain this, read below.
 
