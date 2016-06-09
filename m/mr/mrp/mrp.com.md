@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mrp.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210030136id_/http%3A//www.mrp.com/company/privacyPolicy.jsp%3Fselpage%3DprivacyPolicyNav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrp.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609095547id_/http%3A//www.mrp.com/company/privacyPolicy.jsp%3Fselpage%3DprivacyPolicyNav) for the most accurate reproduction.*
 
-# MRP Online Shopping | Apparel - Ladies, Men and Kids Fashion Clothing
+# Shop Online | Ladies, Mens & Kids Fashion | MRP ZA
+
+DESKTOP 2200020 MOBILE 2200020 
 
 ## terms and conditions for the use of the www..mrp.com website
 
@@ -178,13 +180,13 @@ Do not post content on any of our social media platforms that infringes or viola
 
 
 
-#### 12\. CONTACT DETAILS
+#### 12\. COMPANY DETAILS
 
-  * In the event that you need to contact us for purposes related to this Agreement, please make use of the following contact details:
-  * Telephone: +27 (0)31 310 8023
-  * Email: Helen Grosvenor - [HGrosvenor@mrpg.com](mailto:HGrosvenor@mrpg.com?subject=mrp%20site%20terms%20and%20conditions)
-  * Registered Address (and address for legal service):
-  * Mr Price Group Limited, 65 Masabalala Yengwa Avenue, Durban, RSA, 4001 Postal Address: P.O. Box 912, Durban, RSA, 4000
-  * Last updated 20/11/15
+  * Mr Price Group Limited, trading as mrp, a company registered in the Republic of South Africa (Reg. No. 1933/004418/06 ), with its registered office for legal service of documents at P.O. Box 912, Durban, 4000, South Africa
+  * Telephone Number: +27 31 310 8638
+  * Website Address: [www.mrp.com](http://www.mrp.com/)
+  * Telephone number: 0800 212 535 (Customer Services)
+  * Divisional Directors: N A Lyne (Managing), D Baney; P D H Botha, K A Els, J Frédéric, M A Hill, K J Jones, J Morse, A C Roberts, and K Smit
+  * Last updated 19/05/16
 
 
