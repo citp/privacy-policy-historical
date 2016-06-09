@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadyoutubevideo.org privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909070027id_/http%3A//downloadyoutubevideo.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadyoutubevideo.org privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609081151id_/http%3A//downloadyoutubevideo.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
