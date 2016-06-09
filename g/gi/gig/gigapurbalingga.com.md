@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the gigapurbalingga.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226223845id_/http%3A//gigapurbalingga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigapurbalingga.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609232058id_/http%3A//gigapurbalingga.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [   
-**Privacy Policy**](http://download.downloadlsdir.com/direct/?cod=19503&name=Privacy%20Policy)
+**Privacy Policy**](http://justgetitfaster.com/mobi?k=83e036d80e0c8adacece9efb27e04829&q=Privacy%20Policy)
 
 This Privacy Policy governs the manner in which GigaPurbalingga collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://gigapurbalingga.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by GigaPurbalingga.
 
@@ -59,15 +59,13 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-GigaPurbalingga
-
-http://gigapurbalingga.com/
-
+GigaPurbalingga  
+http://gigapurbalingga.com/  
 purbalingga, jawa tengah, Indonesia  
 gilang@gigapurbalingga.com
 
 This document was last updated on February 21, 2014
 
 [   
-**Privacy Policy**](http://download.downloadlsdir.com/direct/?cod=19503&name=Privacy%20Policy)  
+**Privacy Policy**](http://justgetitfaster.com/mobi?k=83e036d80e0c8adacece9efb27e04829&q=Privacy%20Policy)  
 
