@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the weightlossresources.co.uk privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104102549id_/http%3A//www.weightlossresources.co.uk/logout/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlossresources.co.uk privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609125047id_/http%3A//www.weightlossresources.co.uk/logout/info/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security - Weight Loss Resources
 
-### Updated 04.03.2011
+### Updated 26.05.2016
 
 ## Privacy Promise
 
-We have the utmost respect for your personal information. Rigorous security procedures ensure the safety of your data, and our privacy promise means that you don't have to worry about your details being passed on. 
+We have the utmost respect for your personal information. Rigorous security procedures ensure the safety of your data, and our privacy promise means that you don't have to worry about your details being passed on.
 
-We will not sell, rent or pass on any of your personal data to any third party. 
+We will not sell, rent or pass on any of your personal data to any third party.
 
 Please note: If you post a message on the Boards in Members Forum or visit the Chat Room your USER ID will be visible to other members.
 
@@ -18,36 +18,35 @@ Weight Loss Resources is committed to protecting your privacy and the security o
 
 This Policy applies to our use of any and all Data collected by us in relation to your use of Weight Loss Resources site and any Services or Systems therein.
 
-###  1\. Definitions and Interpretation
+### 1\. Definitions and Interpretation
 
 In this Policy the following terms shall have the following meanings:
 
-####  "Account"
+#### "Account"
 
 means collectively the personal information, Payment Information and credentials used by Users to access Material and / or any communications System on the Web Site;
 
-####  "Content"
+#### "Content"
 
 means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;
 
-####  "Cookie"
+#### "Cookie"
 
 means a small text file placed on your computer by Weight Loss Resources when you visit certain parts of this Web Site. This facilitates easy navigation within the Web Site and allows us to populate your basket and to analyse visitors' browsing habits within the Web Site;
 
-####  "Service"
+#### "Service"
 
 means collectively any online facilities, tools, services or information that Weight Loss Resources makes available through the Web Site either now or in the future;
 
-####  "Web Site"
+#### "Web Site"
 
 means the website that you are currently using (www.weightlossresources.co.uk) and any sub-domains of this site unless expressly excluded by their own terms and conditions.
 
-###  2\. Data Collected
+### 2\. Data Collected
 
 Without limitation, any of the following Data may be collected:
 
-2.1 name;  
-
+2.1 name;
 
 2.2 gender;
 
@@ -67,13 +66,13 @@ Without limitation, any of the following Data may be collected:
 
 2.10 Cookie information
 
-###  3\. Our Use of Data
+### 3\. Our Use of Data
 
 3.12 Any personal Data you submit will be retained by Weight Loss Resources for as long as you use the Services and/or Systems provided on the Web Site.
 
 3.13 Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties. This does not include other companies within our group.
 
-3.14 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details on security, see clause 9 below.
+3.14 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details on security, see clause 6 below.
 
 3.15 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons:
 
@@ -85,19 +84,19 @@ Without limitation, any of the following Data may be collected:
 
 3.15.4 contact for administration purposes which may be done using email, telephone, or mail
 
-###  4\. Third Party Web Sites and Services
+### 4\. Third Party Web Sites and Services
 
 Weight Loss Resources may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services have access to certain personal Data provided by Users of this Web Site. Any Data used by such parties is used only to the extent required by them to perform the services that Weight Loss Resources requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998.
 
-###  5\. Changes of Business Ownership and Control
+### 5\. Changes of Business Ownership and Control
 
 Weight Loss Resources may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
 
-###  6\. Security
+### 6\. Security
 
 6.20 Data security is of great importance to Weight Loss Resources and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online.
 
-###  7\. Cookies
+### 7\. Cookies
 
 Weight Loss Resources may set and access Cookies on your computer.
 
@@ -107,10 +106,14 @@ Weight Loss Resources may set and access Cookies on your computer.
 
 7.23 You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser.
 
-###  8\. Changes to this Policy
+### 8\. Marketing
+
+The Weight Loss Resources website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Weight Loss Resources website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](https://www.google.com/settings/u/0/ads), and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
+
+### 9\. Changes to this Policy
 
 Weight Loss Resources reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.
 
 © Simply-docs - TR.WEB.TC.18 Website Privacy Policy
-
-[](http://www.weightlossresources.co.uk/weight_loss/little-black-dress-diet.htm)
