@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210015802id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609225710id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us | OfferStation.com
 
@@ -52,48 +52,48 @@ OfferStation reserves the right to modify, update, and change this policy at our
 
 [
 
-## Wakai Promotion
+## Kipling Summer Fun Roadshow 2016
 
-](http://www.offerstation.com/offers-promotions/165446/wakai-promotion.htm)
-
-[
-
-## Give Love, Give Joy at Parkson
-
-](http://www.offerstation.com/offers-promotions/165468/give-love-give-joy-at-parkson.htm)
+](http://www.offerstation.com/happenings-events/173839/kipling-summer-fun-roadshow-2016.htm)
 
 [
 
-## Terranova Sale
+## The Chicken Rice Shop "Ayam Berempah Istimewa" Promotion
 
-](http://www.offerstation.com/sales-warehouse-clearance/165554/terranova-sale.htm)
-
-[
-
-## PONEY Member Sale
-
-](http://www.offerstation.com/sales-warehouse-clearance/165471/poney-member-sale.htm)
+](http://www.offerstation.com/dining-food-offers/173800/the-chicken-rice-shop-ayam-berempah-istimewa-promotion.htm)
 
 [
 
-## All-New Mazda CX-3
+## Fella Design Nationwide Ramadhan Sale 2016 
 
-](http://www.offerstation.com/whats-new/165475/all-new-mazda-cx-3.htm)
-
-[
-
-## Res|Toe|Run Sale
-
-](http://www.offerstation.com/sales-warehouse-clearance/164100/res-toe-run-sale.htm)
+](http://www.offerstation.com/sales-warehouse-clearance/173845/fella-design-nationwide-ramadhan-sale-2016.htm)
 
 [
 
-## Sangkaya Kota Damansara Grand Opening Promotion
+## Ramadan Bazaar by Weekend Market at Sunway Putra Mall
 
-](http://www.offerstation.com/dining-food-offers/165494/sangkaya-kota-damansara-grand-opening-promotion.htm)
+](http://www.offerstation.com/happenings-events/173793/ramadan-bazaar-by-weekend-market-at-sunway-putra-mall.htm)
 
 [
 
-## Christmas Celebration at 1 Utama
+## ParaThai Ramadhan Feast Special Set Promotion
 
-](http://www.offerstation.com/offers-promotions/165037/christmas-celebration-at-1-utama.htm)
+](http://www.offerstation.com/dining-food-offers/173693/parathai-ramadhan-feast-special-set-promotion.htm)
+
+[
+
+## KL SOGO Ramadan Warehouse Clearance
+
+](http://www.offerstation.com/warehouse-sales/173823/kl-sogo-ramadan-warehouse-clearance.htm)
+
+[
+
+## Toys R Us Star Members Warehouse Sale
+
+](http://www.offerstation.com/warehouse-sales/173603/toys-r-us-star-members-warehouse-sale.htm)
+
+[
+
+## Tony Roma's Malaysia 10th Anniversary Promotion
+
+](http://www.offerstation.com/dining-food-offers/170494/tony-romas-malaysia-10th-anniversary-promotion.htm)
