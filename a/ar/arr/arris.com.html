@@ -1,31 +1,20 @@
-<!--The following is the downloaded HTML source of the arris.com privacy policy that was archived on 2015-09-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150911203141id_/http%3A//www.arris.com/Company/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arris.com privacy policy that was archived on 2016-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610043335id_/http%3A//www.arris.com/Company/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>ARRIS | Privacy Policy</title>
+    <title>Privacy Policy | ARRIS</title>
     <meta name="description">
     <meta name="keywords">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css">
           
-    <link href="/bundles/css?v=srzUk8NXl25kyNeK5xW_3A85t3HFaHZZ9RaaeDpAnP41" rel="stylesheet">
+    <link href="/bundles/css?v=rJ9YheqAv0vbZHMfaM0ewpbbl-5U0Y248X6eaKCdJ5c1" rel="stylesheet">
 
-    <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/bundles/js?v=Ue00zB7fboylMJO-P2X2NWgeIq-IXmN5h6TP14xtymo1"></script>
+    <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/bundles/js?v=ziMqaf6uqrjDAS_xVSeau8hoQtfrQuq_-l1wbM0y4J41"></script>
 
     
-    <!--  QuestionPro Implementation for Feedback Tracking  -->
-    <script>
-    EMBED_PARAMS = {};
-    EMBED_PARAMS.domain = "//questionpro.com";
-    EMBED_PARAMS.surveyID = 'ABMq7ZSvJp';
-    EMBED_PARAMS.src = "//questionpro.com/t/ABMq7ZSvJp";
-    EMBED_PARAMS.width = "500px";
-    EMBED_PARAMS.height = "500px";
-    EMBED_PARAMS.border = "hidden";
-    </script>
-
     <!--  PARDOT  -->
     <script type="text/javascript">
     piAId = '11832';
@@ -52,6 +41,7 @@
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
     ga('create', 'UA-5080971-1', 'auto');
+    ga('require', 'linkid');
     ga('send', 'pageview');
     </script>
 
@@ -171,22 +161,44 @@
                             
 
 <div class="container ng-scope" ng-app="searchApp" ng-controller="navSearchBoxController">
+    <style>
+        ::-input-placeholder {
+            color: red;
+        }
+    </style>
+
+
     <ul class="arrissearchbox col-md-12">
         <li class="dropdown">
-            <form class="search-page-form ng-pristine ng-valid" novalidate="">
-                <input type="search" placeholder="Search..." ng-model="query" ng-change="searchTypeAhead(query)" class="ng-pristine ng-untouched ng-valid">
-                <input type="submit" class="btn btn-default" ng-click="goToSearchPage(query)" value="SEARCH">
-                <ul class="search-suggestions ng-hide" ng-show="suggestionsVisibility">
+
+        <form id="searchbox_012585340214973221806:gxo66-8i4d0" action="/Search/" class="ng-pristine ng-valid">
+            <input value="012585340214973221806:gxo66-8i4d0" name="cx" type="hidden">
+            <input value="FORID:11" name="cof" type="hidden">
+            <input id="q" class="google_search_box" name="q" size="27" type="text" onfocus="this.value=''" placeholder="Search..." style="height: 40px; width: 90%; color: #000!important; font-size: 18px; padding-left: 10px; -webkit-appearance: none;">
+       
+
+         </form>
+            
+          <!--  <form class="search-page-form" novalidate>
+                <input type="search" placeholder="Search..." ng-model="query" ng-change="searchTypeAhead(query)" />
+                <input type="submit" class="btn btn-default" ng-click="goToSearchPage(query)" value="SEARCH" />
+                <ul class="search-suggestions" ng-show="suggestionsVisibility">
                     <li>
                         <div ng-switch="suggestedSearchResultsView">
-                            <!-- ngSwitchWhen: view-Searching -->
-                            <!-- ngSwitchWhen: view-Found -->
-                            <!-- ngSwitchWhen: view-NotFound -->
+                            <div ng-switch-when="view-Searching">
+                                <label>SEARCHING FOR SUGGESTIONS...</label>
+                            </div>
+                            <div ng-switch-when="view-Found">
+                                <label>SUGGESTED SEARCHES: </label>
+                            </div>
+                            <div ng-switch-when="view-NotFound">
+                                <label>NO SUGGESTIONS FOUND FOR <span class="arris-lgt-orange-accent">"{{query}}"</span>, TRY ADDING MORE DETAILS OR USING A DIFFERENT SEARCH TERM. </label>
+                            </div>
                             </div>
                     </li>
-                    <!-- ngRepeat: x in searchResults -->
+                    <li ng-repeat="x in searchResults"><a ng-click="goToPage(x)" href="{{ x.FriendlyUrl }}">{{ x.Title }} <span class="glyphicon glyphicon-triangle-right arris-lgt-orange-accent"></span></a></li>
                 </ul>
-            </form>
+            </form> -->
         </li>
     </ul>
 </div>
@@ -291,11 +303,15 @@
         
     </div>
 </div>
+
+
     </div>
     <!-- END EPISERVER BODY -->
     
     <!-- FOOTER -->
     
+
+
 <style type="text/css">
     @media (max-width: 768px) {
         .mobile-add-padding {
@@ -319,9 +335,13 @@
             <div class="col-xs-12 col-sm-6">
                 <ul class="region-map-menu">
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle arris-white-accent" data-toggle="dropdown" role="button" aria-expanded="false">Region: USA <span class="glyphicon glyphicon-triangle-bottom arris-lgt-orange-accent"></span></a>
+                        <a href="#" class="dropdown-toggle arris-white-accent" data-toggle="dropdown" role="button" aria-expanded="false">Region: <span class="glyphicon glyphicon-triangle-bottom arris-lgt-orange-accent"></span></a>
                         <ul class="dropdown-menu" role="menu">
-                            <li><a href="/Company/Regions">Other Regions</a></li>
+                                    <li><a href="/">Global</a></li>
+                                    <li><a href="/company/regions/apac/">Asia-Pacific</a></li>
+                                    <li><a href="/company/regions/cala/">Carribbean and Latin America</a></li>
+                                    <li><a href="/company/regions/emea/">Europe, Middle East and Africa</a></li>
+                                    <li><a href="/products/product-regions/na-products/">North America</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -401,17 +421,13 @@
         </div>
         <div class="col-xs-12">
             <hr class="light-grey-line">
-            <div class="copyright arris-white-accent" style="font-size: 10px;">1995 - 2015 ARRIS Group, Inc. All Rights Reserved</div>
+            <div class="copyright arris-white-accent" style="font-size: 10px;">1995 - 2016 ARRIS Group, Inc. All Rights Reserved</div>
         </div>
     </div>
 </footer>
     <!-- END FOOTER -->
     
-<!--
-    <script type="text/javascript">var domain = 'https://www.questionpro.com/a/'; var surveyID = 'ABMq7ZSvJp';</script>
-    <script src="https://www.questionpro.com/a/javascript/feedback/feedbackwarper.js"></script><noscript><a href="www.questionpro.com">www.questionpro.com</a></noscript>
-    -->
     
 
 
-<script type="text/javascript" src="//questionpro.com/javascript/embedsurvey.js"></script><script type="text/javascript" src="//questionpro.com/javascript/nyroModal/jquery.nyroModal.custom.js"></script><link rel="stylesheet" type="text/css" href="//questionpro.com/stylesheets/nyroModal/nyroModal.css?version=1"></body></html>
+</body></html>
