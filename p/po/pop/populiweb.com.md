@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the populiweb.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116061917id_/http%3A//populiweb.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the populiweb.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610091623id_/http%3A//www.populiweb.com/legal/privacy) for the most accurate reproduction.*
 
 # Populi - Privacy Policy
 
@@ -66,7 +66,7 @@ The Services may include certain communications to Account-holders from Populi, 
 
 #####  2.4 Communications from Customers 
 
-You may also at any time via your Account provide your mobile phone number and opt-in to receive SMS messages, including emergency notifications and campus alerts, from the Customer where you are employed, engaged or enrolled. You can opt-out of this service at any time via your Account. 
+You may also at any time via your Account provide your mobile phone number and opt-in to receive text messages, including emergency notifications and campus alerts, from the Customer where you are employed, engaged or enrolled. You can opt-out of this service at any time via your Account. 
 
 ####  Section 3: General 
 
