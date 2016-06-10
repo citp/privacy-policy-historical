@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funimation.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213220339id_/http%3A//www.funimation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funimation.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610223428id_/http%3A//www.funimation.com/privacy-policy) for the most accurate reproduction.*
 
 # FUNimation - Privacy Policy
 
