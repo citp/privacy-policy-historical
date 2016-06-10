@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beyondbeyond.co.uk privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008013253id_/http%3A//beyondbeyond.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondbeyond.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610171832id_/http%3A//beyondbeyond.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Beyond Beyond ™ Wedding Blog - UK Wedding Blog & Wedding Magazine| International Wedding Blog | Free iPad Wedding Magazine | Photography, Style, Design & Inspiration
+# Beyond Beyond ™ – UK Wedding Blog // International Wedding Blog // | Privacy Policy
 
-This [Privacy Policy](http://beyondbeyond.co.uk/privacy-policy/) governs the manner in which Beyond Beyond & Beyond The Magazine collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.beyondbeyond.co.uk](http://www.generateprivacypolicy.com/account/policies/edit/www.beyondbeyond.co.uk) website (“Site”). This privacy policy applies to the Site and all products and services offered by Beyond Beyond & Beyond The Magazine.
+This Privacy Policy governs the manner in which Beyond Beyond & Beyond The Magazine collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.beyondbeyond.co.uk](http://www.generateprivacypolicy.com/account/policies/edit/www.beyondbeyond.co.uk) website (“Site”). This privacy policy applies to the Site and all products and services offered by Beyond Beyond & Beyond The Magazine.
 
 **Personal identification information**
 
@@ -23,7 +23,7 @@ Beyond Beyond & Beyond The Magazine may collect and use Users personal informati
   * _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
   * _– To send periodic emails_  
-If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may [contact](http://beyondbeyond.co.uk/contact/) us via our Site.
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
@@ -67,7 +67,5 @@ Beyond Beyond
 hello@beyondbeyond.co.uk
 
 This document was last updated on December 08, 2012
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fbeyondbeyond.co.uk%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
  
