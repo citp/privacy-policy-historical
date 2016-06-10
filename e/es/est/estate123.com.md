@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the estate123.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222093410id_/http%3A//www.estate123.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estate123.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610223639id_/http%3A//www.estate123.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.estate123.com
 
 Privacy Policy for www.estate123.com 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at samue@matrixinvent.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@estate123.com. 
 
 At www.estate123.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.estate123.com and how it is used. 
 
