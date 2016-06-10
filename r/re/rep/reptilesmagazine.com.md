@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reptilesmagazine.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210072144id_/http%3A//www.reptilesmagazine.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reptilesmagazine.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610034924id_/http%3A//www.reptilesmagazine.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
