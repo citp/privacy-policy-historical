@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivint.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210222940id_/http%3A//www.vivint.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivint.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610032827id_/http%3A//www.vivint.com/company/policies/privacy) for the most accurate reproduction.*
 
 # Learn More About Vivint's Updated Privacy Policy
 
@@ -60,3 +60,5 @@ If there are any questions regarding this privacy policy, you may contact us usi
 Provo, UT 84604  
 [support@vivint.com](mailto:support@vivint.com)  
 801.216.5232
+
+[Download PDF](https://images.vivintcdn.com/global/vivint.com/sections/company-policies/Vivint-Privacy-Policy.pdf)
