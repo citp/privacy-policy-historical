@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kasamba.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220054909id_/http%3A//www.kasamba.com/lp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kasamba.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610035225id_/http%3A//www.kasamba.com/lp/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -59,7 +59,7 @@ Advisors with whom a Member or other Advisors Services Visitor communicates have
 
   * Third Parties. Kasamba does not sell, trade or rent Personal Information provided by you in any Transcript, Survey or Recording for direct marketing or any other purpose, except as provided in this Privacy Policy or with your permission. Except as described in this Privacy Policy, Kasamba does not divulge the content of Transcripts, Surveys or Recordings to third parties or vendors performing services on behalf of Kasamba.
 
-If you accessed Kasamba's Advisor Services Site or Kasamba's Advisor Services Platform via a third party website, you may be subject to terms and conditions that apply to that third party website. As mentioned below, Kasamba is not responsible for the privacy practices of any third party. 
+If you accessed Kasamba's Advisor Services Site or Kasamba's Advisor Services Platform via a third party website, you may be subject to terms and conditions that apply to that third party website. As mentioned below, Kasamba is not responsible for the privacy practices of any third party. Kasamba may share your Personal Information, including your email address, with the third-party website from which you accessed Kasamba's services for its business purposes, including to optimize your experience and to improve its services. 
 
 Kasamba uses third party data facilities and other third party service providers to perform services that are routinely handled by such providers. Such providers may store and, if applicable, process Personal Information and non-Personal Information in keeping with the service that they provide. We may also share weblog data and other similar non-Personal Information Data with third parties. For example, we may share traffic data for the Site with a third party that analyzes and publishes Website traffic surveys.
 
@@ -122,4 +122,4 @@ Pixel tags are small graphic images that are embedded in a web page or email for
 
 Web browser is a software program that allows a user to access, retrieve and view information on the World Wide Web. Examples of browsers include Internet Explorer, FireFox, Google Chrome and Safari.
 
-Last updated: August 22, 2013. For the prior version, please click [here](http://www.liveperson.com/lp/privacy_policy_prior_version/)
+Last updated: May 4, 2016. 
