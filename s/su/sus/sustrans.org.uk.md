@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sustrans.org.uk privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210125141id_/http%3A//www.sustrans.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sustrans.org.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610194317id_/http%3A//www.sustrans.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Sustrans
 
@@ -6,7 +6,7 @@ Sustrans is committed to ensuring that your privacy is protected in compliance w
 
 Sustrans is named as the Data Controller on the public register of data controllers which is available on the Information Commissioner's website (Registration Number Z7399708).
 
-This policy applies to all the pages hosted on this site – [http://www.sustrans.org.uk](https://web.archive.org/%5B~1~%5D). It does not apply to other organisations to which we may link and whose privacy policies may differ.
+This policy applies to all the pages hosted on this site – [http://www.sustrans.org.uk](http://www.sustrans.org.uk/). It does not apply to other organisations to which we may link and whose privacy policies may differ.
 
 #### 1\. The information we collect and how we use it
 
@@ -105,12 +105,13 @@ We cannot ensure or warrant the security of any information you transmit to us o
 
 On receipt of proof of identity and a written request, we will provide you with a copy of any information that we hold about you. Please write to:
 
-John Richardson,  
-Sustrans,  
-2 Cathedral Square,  
-College Green,  
-Bristol,  
-BS1 5DD
+Graham Clifton Coles
+
+Sustrans  
+Rosebery House  
+9 Haymarket Terrace  
+Edinburgh  
+EH12 5EZ
 
 We will reply within forty calendar days.
 
@@ -118,11 +119,12 @@ We will reply within forty calendar days.
 
 If you have any queries or comments about this privacy policy, please send a letter to:
 
-John Richardson,  
-Sustrans,  
-2 Cathedral Square,  
-College Green,  
-Bristol,  
-BS1 5DD
+Graham Clifton Coles
 
-Last updated April 2012
+Sustrans  
+Rosebery House  
+9 Haymarket Terrace  
+Edinburgh  
+EH12 5EZ
+
+Last updated April 2016
