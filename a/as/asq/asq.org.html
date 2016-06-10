@@ -1,9 +1,16 @@
-<!--The following is the downloaded HTML source of the asq.org privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906011652id_/http%3A//asq.org/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asq.org privacy policy that was archived on 2016-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610141516id_/http%3A//asq.org/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" class="no-js" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><!-- #BeginTemplate "/templates/a-tango-three-column.dwt" --><!-- DW6 --><head>
-		    <meta charset="utf-8">
+			
+    <meta charset="utf-8">
     <!--/ Remove this if you use the .htaccess /-->
+    <!--/ CSS : implied media="all"1-->
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Rokkitt">
+    <link rel="stylesheet" href="/interface/styles/styles.css">
+    
+    <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WV6VND"></script><script src="/interface/js/modernizr-2.0.6.js"></script>
+
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <!--/ Mobile viewport optimized: j.mp/bplateviewport /-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
@@ -16,10 +23,8 @@
     <link rel="apple-touch-icon" sizes="72x72" href="/interface/icons/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="/interface/icons/apple-touch-icon-114x114.png">
     <link rel="apple-touch-startup-image" href="/interface/icons/apple-touch-startup-image-320x460.png">
-    <!--/ CSS : implied media="all" /-->
-    <link rel="stylesheet" href="/interface/styles/styles.css">
-    <script src="/interface/js/modernizr-2.0.6.js"></script>
-
+    
+ 
 		<!-- #BeginEditable "doctitle" --> 
 
 
@@ -35,7 +40,181 @@
 	</head>
 
 	<body>
+        <script>
+    dataLayer = [];
+    var usrGlbl;
+    var bsf = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
+    var cd1 = '01234567890123456';
+    var mbType;
+    var usrName;
+    var mbNb;
+    var isLeader;
+    var hq = location.href.indexOf("hq.") > -1 ? 'hq.' : '';
+    var mb;
+    var Comment = '';
+    var isLoggedIn = 0;
+    var CO;
+    var cafId;
+    getUsrGlbl();
 
+    function rot07(input) {
+        if (!input) return '';
+        for (var output = '', i = 0; i < input.length; i++) {
+            character = input.charAt(i);
+            position = cd1.indexOf(character);
+            if (position > -1)
+                character = cd1.charAt(position + 5);
+            output += character;
+        }
+        return output;
+    }
+
+    function decode(encStr) {
+        var bits, decOut = '', i = 0;
+        for (; i < encStr.length; i += 4) {
+            bits =
+     (bsf.indexOf(encStr.charAt(i)) & 0xff) << 18 |
+     (bsf.indexOf(encStr.charAt(i + 1)) & 0xff) << 12 |
+     (bsf.indexOf(encStr.charAt(i + 2)) & 0xff) << 6 |
+      bsf.indexOf(encStr.charAt(i + 3)) & 0xff;
+            decOut += String.fromCharCode(
+     (bits & 0xff0000) >> 16, (bits & 0xff00) >> 8, bits & 0xff);
+        }
+        if (encStr.charCodeAt(i - 2) == 61)
+            undecOut = decOut.substring(0, decOut.length - 2);
+        else if (encStr.charCodeAt(i - 1) == 61)
+            undecOut = decOut.substring(0, decOut.length - 1);
+        else undecOut = decOut;
+
+        return unescape(undecOut); 	//line add for chinese char
+    }
+
+    function getUsrGlbl() {
+        var allCookies = document.cookie.toString();
+        if (allCookies.indexOf("10.1.7.144") > -1) {
+            //alert (allCookies);
+        }
+        if (document.cookie.toString().indexOf("caf") > -1) {
+            var startAt = allCookies.indexOf("caf") + 4;
+            var remainingPart = allCookies.substring(startAt);
+            cafId = remainingPart.substring(0, remainingPart.indexOf(";"));
+            console.log(cafId);
+        }
+        if (document.cookie.toString().indexOf("nebsuc") > -1) {
+            var startAt = allCookies.indexOf("nebsuc") + 7;
+            var remainingPart = allCookies.substring(startAt);
+
+            usrGlbl = remainingPart.indexOf(";") > -1 ? remainingPart.substring(0, remainingPart.indexOf(";"))
+													: remainingPart;
+            usrGlbl = decode(usrGlbl);
+            if (document.cookie.toString().indexOf("qazqsa29") > -1) {
+                startAt = allCookies.indexOf("qazqsa29") + 9;
+                remainingPart = allCookies.substring(startAt);
+
+                var mbNb = remainingPart.indexOf(";") > -1 ? remainingPart.substring(0, remainingPart.indexOf(";"))
+														: remainingPart;
+                this.mbNb = rot07(mbNb);
+            }
+            if (usrGlbl != null) {
+                var posa = usrGlbl.indexOf("~");
+                var usrNm = usrGlbl.substring(0, usrGlbl.indexOf("~"));
+                //alert(usrNm);
+                var pos1 = usrGlbl.indexOf("~", usrGlbl.indexOf("~") + 1) + 1;
+                var pos2 = usrGlbl.indexOf("~", pos1);
+
+                this.usrGlbl = usrGlbl;
+                this.usrNm = usrNm;
+                this.mbType = this.usrGlbl.substring(pos1, pos2);
+
+                pos1 = usrGlbl.indexOf("~CO:");
+                if (pos1 > -1) {
+                    CO = usrGlbl.substring(pos1 + 4);
+                    if (CO.indexOf("~") > -1) {
+                        CO = CO.substring(0, CO.indexOf("~"));
+                        // alert(CO);
+                    }
+                }
+                //alert(CO);
+
+                // to support Ray's Flash NON-MEMBER introduction			
+                var aYrFromNow = new Date(new Date().getTime() + (1000 * 3600 * 24 * 365));
+                //alert(aYrFromNow.toGMTString());
+                document.cookie = "mbtype=" + this.mbType + ";path=/;domain=asq.org;expires=" + aYrFromNow;
+
+                //alert("<!-- JR temp...\n" + usrGlbl + "-->");
+                //document.write(this.usrNm) ;
+                this.isLeader = (usrGlbl.indexOf("LEADER") > -1 ? 1 : 0);
+                //alert("isLeader: " + this.isLeader);
+            }
+            return usrGlbl;
+        }
+    }
+    /* function isGroup(usr) {
+        // alert(usrGlbl);
+        if (usrGlbl != null) {
+            if (usr.indexOf("ORG") > -1 ||
+			usr.indexOf("SCHOOL") > -1 ||
+			usr.indexOf("SUSTAINING") > -1 ||
+			usr.indexOf("DISTRICT") > -1) {
+
+                location.href = '/members/group-registration.html';
+                // alert("group detected");
+                return;
+            }
+        }
+    }
+
+   isGroup(usrGlbl); */
+
+    if (usrGlbl != null) {
+        loginState = "Logged In";
+        if (CO != null) {
+            dlCo = CO;
+        } else {
+            dlCo = "NULL";
+        };
+        if (mbType != null) {
+            dlType = mbType;
+        } else {
+            dlType = "NULL";
+        };
+    } else {
+        var loginState = "Logged Out";
+        var dlType = "NULL";
+        var dlCo = "NULL";
+    };
+
+    console.log("cafId :" + cafId);
+
+    eval(dataLayer.push({
+        'visitorLoginState': loginState,
+        'visitorType': dlType,
+        'visitorEnterprise': dlCo,
+        'visitorAffiliation': cafId
+    }));
+
+
+</script>
+<!-- this is from wm -->
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WV6VND"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({ 'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WV6VND');</script>
+<!-- End Google Tag Manager -->
+
+<!-- BCM 05 JUNE 2014 added GTM datalayer code -->
+<!-- BCM 22 MAY 2015 added isGroup -->
+<!-- Adding Bing Ads UET code ME50523 KO -->
+<script>    (function (w, d, t, r, u) { var f, n, i; w[u] = w[u] || [], f = function () { var o = { ti: "5175363" }; o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad") }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function () { var s = this.readyState; s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null) }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i) })(window, document, "script", "//bat.bing.com/bat.js", "uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5175363&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+<!-- End Bing Ads UET code -->
 		<h1><!-- #BeginEditable "topictitle" -->ASQ's Privacy Policy <!-- #EndEditable --><!-- #BeginEditable "Title" --> <!-- #EndEditable --></h1>
 	    
 		<div class="pagePart">
@@ -153,7 +332,7 @@
 	    </div>
 
 				<!-- Page Navigation -->
-		<nav id="navSite">
+		<nav id="navSite"> 
             <div id="navMainPos">
                 <ul id="navMain">
 				    <li id="navKC"><a href="/knowledge-center/index.html" title="Knowledge Center">Knowledge Center</a></li>
@@ -171,10 +350,12 @@
 					<li><a href="http://asq.org" title="Store">Home</a></li>
 					<li><a href="/store/index.html" title="Store" class="eyebrowStore">Store</a></li>
 					<li><a href="/qualityprogress/index.html" title="Quality Progress" target="_blank" class="eyebrowQP"><em>Quality Progress</em></a></li>
-                    <li><a href="http://videos.asq.org/home">ASQ™ TV</a></li>
+                    <li><a href="http://asq.org/ASQ-TV">ASQ™ TV</a></li>
 					<li><a href="/customer-service/contact-asq/index.html" title="Contact ASQ" class="eyebrowContact">Contact ASQ</a></li>
-					<li id="navEcomm"><a href="https://secure.asq.org/perl/scart/catalog.cgi?cart=view" title="Shopping Cart" class="eyebrowCart">Shopping Cart</a></li>
-				</ul>
+                    <!--// <li id="navEcomm"><a href="https://secure.asq.org/perl/scart/catalog.cgi?cart=view" title="Shopping Cart" class="eyebrowCart">Shopping Cart</a></li> //-->
+                    <li><a href="/membership/createAccount.html" title="Contact ASQ" class="eyebrowContact">Create Account</a></li>
+                    <li id="navEcomm"><a href="#ShoppingCart" onclick="getShoppingCartPath(); return false;">Shopping Cart</a></li> 
+                 </ul>
             </div>
             
             <div id="navSocialPos" class="uxlShareTopMenu"><ul id="navSocial">
@@ -196,7 +377,7 @@
                 <!-- Logo & Branding -->
                 <a href="/index.aspx" id="hdrTagline">ASQ is a global community of people passionate about quality, who use the tools, their ideas and expertise to make our world work better. ASQ: <span style="color:#000">The Global Voice of Quality</span>.</a>
 			    <!-- Country Navigation -->
-                 <div id="navGlobal"><p><a href="/global/select-country-region.html">Select Country / Region &nbsp;&nbsp;<img src="/img/world-globe-asq-header.png" class="globeVam" width="40" height="19" alt="globe">&nbsp;&nbsp; USA</a></p></div>
+                 <div id="navGlobal"><p><a href="/global/select-country-region.html">Select Country / Region&nbsp; <img src="/img/world-globe-asq-header.png" class="globeVam" width="40" height="19" alt="globe"> &nbsp;U.S./Canada</a></p></div>
               
                 <div id="searchBox">
                     <form class="formTypeSearch" id="formSectionGlobal" name="formSectionGlobal" method="GET" action="/gadget/search.aspx">
@@ -205,11 +386,11 @@
 						<input type="hidden" name="search_mode" value="keyword">
 						<input type="search" name="q" placeholder="Search ASQ" id="navSearchTerm">
 						<input type="submit" value="Search">
-						<nav>
+						<!-- <nav>
 							<ul class="secondaryMenu">
-								<li><a href="/perl/search-Google-Mini.pl?previous=&amp;as_epq=&amp;site=my_collection&amp;filter=0&amp;as_eq=&amp;output=xml_no_dtd&amp;client=my_collection&amp;btnG=Search&amp;access=p&amp;num=10&amp;ip=207.67.83.164&amp;as_oq=&amp;as_occt=any&amp;as_q=&amp;proxystylesheet=my_collection&amp;oe=UTF-8&amp;proxycustom=%3CADVANCED/%3E">Advanced Search</a></li>
-							</ul>
-						</nav>
+								<li><a href="/perl/search-Google-Mini.pl?previous=&as_epq=&site=my_collection&filter=0&as_eq=&output=xml_no_dtd&client=my_collection&btnG=Search&access=p&num=10&ip=207.67.83.164&as_oq=&as_occt=any&as_q=&proxystylesheet=my_collection&oe=UTF-8&proxycustom=%3CADVANCED/%3E">Advanced Search</a></li>
+							</ul> 
+						</nav> -->
 					</form>
                     <!-- form class="formTypeSearch" method="get" id="formSectionGlobal" name="formSectionGlobal" action="http://search.asq.org">
 				        <input type="hidden" name="" value="" />
@@ -252,9 +433,24 @@
             <p id="copyright">© American Society for Quality. All rights reserved.</p>
 		</footer>
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-		<script> !window.jQuery && document.write(unescape('%3Cscript src="/interface/js/jquery-1.10.2.js"%3E%3C/script%3E'))</script><script src="/interface/js/jquery-1.10.2.js"></script>
+		<script>		    !window.jQuery && document.write(unescape('%3Cscript src="/interface/js/jquery-1.10.2.js"%3E%3C/script%3E'))</script><script src="/interface/js/jquery-1.10.2.js"></script>
 		<script src="/interface/js/jquery-migrate-1.2.1.js"></script>
-        <script src="/interface/js/application-v5.js"></script>    
+        <script src="/interface/js/application-v10.js"></script>
+         <!-- CHECKING FOR TEST OR PRODUCTION -->
+        <script type="text/javascript">
+            function getShoppingCartPath() {
+                // verify whether test or hq
+                if ((document.URL.indexOf("test.") != -1) || (document.URL.indexOf("hq.") != -1)) {
+                    // user is in test
+                    window.top.location = "https://ebusinesstst.asq.org/PersonifyEbusiness/Default.aspx?TabID=211&SSOForce=Y";
+                }
+
+                else {
+                    window.top.location = "https://ebusiness.asq.org/PersonifyEbusiness/Default.aspx?TabID=211&SSOForce=Y";
+                }
+            }
+        </script>
+    
         <!--// start special message  //-->
 <script src="/includes/scripts/special-message.js" type="text/javascript"></script>
 <script>    specialMessage();</script>
