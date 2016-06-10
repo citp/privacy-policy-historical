@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the angara.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118203433id_/http%3A//www.angara.com/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angara.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610092429id_/http%3A//www.angara.com/privacy-and-security.html) for the most accurate reproduction.*
 
-# Privacy and Security | Angara.com
+# Privacy and Security | Angara
 
 Privacy & Security Statement
 
@@ -16,7 +16,7 @@ We use third-party advertising companies to serve ads when you visit our Website
 
 **How is my information used?**
 
-When you make a purchase from Angara.com, we use your information to process your order and to answer your questions about the status of your order. We may use the information to provide you with periodic emails and mailings about Angara merchandise, services and promotions. We may also send you emails to help us learn more about your shopping preferences. In addition, we use information about your product interests and purchases to help us improve our online store and your shopping experience. If you request a catalog from us, if you register with us, or if you purchase from us online or over the phone, you have the option to request marketing materials from us, and we may send you notices about our merchandise, services and promotions through mail. When you make a purchase from Angara.com, we use your information to process your order and to answer your questions about the status of your order. We may use the information to provide you with periodic emails and mailings about Angara merchandise, services and promotions. We may also send you emails to help us learn more about your shopping preferences. In addition, we use information about your product interests and purchases to help us improve our online store and your shopping experience. If you request a catalog from us, if you register with us, or if you purchase from us online or over the phone, you have the option to request marketing materials from us, and we may send you notices about our merchandise, services and promotions through mail.
+When you make a purchase from Angara.com, we use your information to process your order and to answer your questions about the status of your order. We may use the information to provide you with periodic emails and mailings about Angara merchandise, services and promotions. We may also send you emails to help us learn more about your shopping preferences. In addition, we use information about your product interests and purchases to help us improve our online store and your shopping experience. If you request a catalog from us, if you register with us, or if you purchase from us online or over the phone, you have the option to request marketing materials from us, and we may send you notices about our merchandise, services and promotions through mail.
 
 **Will my information be shared?**
 
