@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polarr.co privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911221251id_/https%3A//www.iubenda.com/privacy-policy/958268/full-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polarr.co privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610101613id_/https%3A//www.iubenda.com/privacy-policy/958268/full-legal) for the most accurate reproduction.*
 
 # Privacy Policy of polarr.co
 
@@ -10,7 +10,7 @@ info@polarr.co
 
 ## Types of Data collected
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage data and Email address. 
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookies, Usage data, email address and general activity data. 
 
 Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
 The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
@@ -36,7 +36,7 @@ The Data is kept for the time necessary to provide the service requested by the 
 
 ## The use of the collected Data
 
-The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Contacting the User, Interaction with external social networks and platforms and Access to third party services' accounts. 
+The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Contacting the User, Interaction with external social networks and platforms, Access to third party services' accounts and Handling activity data. 
 
 The Personal Data used for each purpose is outlined in the specific sections of this document.
 
@@ -54,7 +54,7 @@ By default, this includes certain User’s Data such as id, name, picture, gende
 
 ### Email
 
-Provides access to the User's primary email address
+Provides access to the User's primary email address.
 
 ### Upload Photos
 
@@ -66,7 +66,7 @@ Personal Data is collected for the following purposes and using the following se
 
   * ### Access to third party services' accounts
 
-These services allow this Application to access Data from your account on a third party service and perform actions with it.  
+This type of services allows this Application to access Data from your account on a third party service and perform actions with it.  
 These services are not activated automatically, but require explicit authorization by the User.
 
 #### Access to the Facebook account (This Application)
@@ -75,7 +75,7 @@ This service allows this Application to connect with the User's account on the F
 
 Permissions asked: Email and Upload Photos. 
 
-Place of processing: USA – [Privacy Policy](https://www.facebook.com/policy.php)
+Place of processing: US – [Privacy Policy](https://www.facebook.com/policy.php)
 
   * ### Analytics
 
@@ -86,9 +86,15 @@ The services contained in this section enable the Owner to monitor and analyze w
 Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
+
+#### Analytics collected directly (This Application)
+
+This Application uses an internal analytics system that does not involve third parties.
+
+Personal Data collected: Cookies and Usage data. 
 
   * ### Contacting the User
 
@@ -96,21 +102,33 @@ Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/poli
 
 By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.
 
-Personal Data collected: Email address and Usage data. 
+Personal Data collected: email address and Usage data. 
+
+  * ### Handling activity data
+
+This type of services allows the Owner to use the activity data collected by your device in order for this Application to operate or to provide specific features. This may include movements, heartbeat, change in altitude or data about the surroundings.  
+Depending on what is described below, third parties may be involved in the activity tracking.  
+Most devices allow for the User to control which Data is accessed or stored.
+
+#### Activity data tracked by your device (This Application)
+
+This Application uses some activity data tracked by your device to operate or to provide specific features.
+
+Personal Data collected: general activity data. 
 
   * ### Interaction with external social networks and platforms
 
-These services allow interaction with social networks or other external platforms directly from the pages of this Application.  
-The interaction and information obtained by this Application are always subject to the User’s privacy settings for each social network.  
-If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it.
+This type of services allow interaction with social networks or other external platforms directly from the pages of this Application.  
+The interaction and information obtained through this Application are always subject to the User’s privacy settings for each social network.  
+This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.
 
 #### Facebook Like button and social widgets (Facebook, Inc.)
 
 The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
+Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/explanation)
 
 
 
@@ -161,7 +179,7 @@ Information collected automatically from this Application (or third party servic
 
 #### User
 
-The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refer.
+The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refers.
 
 #### Data Subject
 
@@ -179,7 +197,7 @@ The natural person, legal person, public administration or any other body, assoc
 
 The hardware or software tool by which the Personal Data of the User is collected.
 
-#### Cookie
+#### Cookies
 
 Small piece of data stored in the User's device.
 
