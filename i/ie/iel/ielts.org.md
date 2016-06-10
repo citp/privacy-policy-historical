@@ -1,140 +1,101 @@
-> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611091437id_/http%3A//www.ielts.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610120552id_/https%3A//www.ielts.org/policy/privacy-policy) for the most accurate reproduction.*
 
-# IELTS | Privacy Policy
+# IELTS - Privacy policy
 
 ## Privacy Statement
 
-  * [**Privacy Policy**](https://web.archive.org/privacy_policy.aspx#PrivacyPolicy)
-  * [**Protecting Personal Information**](https://web.archive.org/privacy_policy.aspx#ProtectingPersonalInformation)
-  * [**Information that the company holds**](https://web.archive.org/privacy_policy.aspx#Informationthatthecompanyholds)
-  * [**Web site tracking**](https://web.archive.org/privacy_policy.aspx#Websitetraffictracking)
-  * [**Use and Disclosure of Personal Information**](https://web.archive.org/privacy_policy.aspx#UseandDisclosureofPersonalInformation)
-  * [**Security of Personal Information**](https://web.archive.org/privacy_policy.aspx#SecurityofPersonalInformation)
-  * [**Right of Access by the Individual**](https://web.archive.org/privacy_policy.aspx#RightofAccessbytheIndividual)
-  * [**Privacy Representative**](https://web.archive.org/privacy_policy.aspx#PrivacyRepresentative)
-  * [**Personal Information Management Policy Statement**](https://web.archive.org/privacy_policy.aspx#PersonalInformationManagementPolicyStatement)
+IELTS test centres exist in more than 140 countries, across Europe, Asia, Australia and New Zealand, North America and the Middle East.  IELTS Australia operates and manages some of these IELTS test centres and the British Council operates and manages others, to which you may be referred.
+
+**In dealings with the IELTS Owners:  **
+
+We collect personal details such as name, postal and email addresses, date of birth, gender, contact details, languages, country of nationality, residency status, education qualifications, national identity card number, passport details, employment history occupation, information required for visa application and professional memberships of individuals:
+
+  * who apply to undertake, or have undertaken, an assessment service provided by, or through, the IELTS Owners;
+  * who formally advise/register their interest in being engaged as consultants, or individuals who have been, or are currently, engaged as consultants on projects/programs managed by the IELTS Owners (or the IELTS Owners together with other organisations); and
+  * who register to participate in an event organised, managed or presented by the IELTS Owners, whether in its own right, or under contract for another organisation.
 
 
 
-## Privacy Policy
+This will include copies of documents you provide to us as proof of identity – e.g. copies of your passport or national identity card, proof of citizenship or photographs of you when you apply to sit the IELTS test.
 
-The company is subject to the [**Privacy Act**](http://www.privacy.gov.au/law) and the associated National Privacy Principles.
+**  We may also hold Sensitive Information about individuals including:**
 
-This policy sets out how the company collects, holds and uses personal information collected from individuals in the conduct of our business.
-
-## Protecting Personal Information
-
-All personal information collected from individuals as a result of our business operations will be protected as an essential part of the relationship we wish to establish with our clients. The company will only disclose this information in accordance with the provisions of the Privacy Act and the National Privacy Principles.
-
-## Information that the company holds
-
-In the normal course of business activities, the company will collect personal information, including sensitive information.
-
-Personal information may include an individual's name, address, date of birth, contact details, occupation, and professional memberships.
-
-Sensitive information includes details of an individual's racial or ethnic origin, religious beliefs, and health information. The company must obtain the consent of the person to collect and use that information.
-
-## Web site traffic tracking
-
-IELTS partners uses Google Analytics to measure and analyse its internet usage to ensure the site meets its objectives with advertisers and users. Individual privacy is protected but IELTS partners gains insights on how make the site more useful for advertisers as well as our users.
-
-  * The number of page views (or page impressions) that occur on an IELTS site;
-  * The number of unique visitors;
-  * How long these unique visitors (on average) spend on an IELTS site; and
-  * Common entry and exit points to IELTS sites.
+  * medical information (which you may provide to obtain special consideration);
+  * biometric information for IELTS test candidates who provide a finger scan as part of the Identity Authentication Management (IAM) for the IELTS test (a copy of - your finger scan is held in the form of a Binary Large Object (BLOB); and 
+  * racial or ethnic origin (from information on your country of origin).  
 
 
 
-## Disabling Cookies in Internet Explorer (IE)
+In the case of individuals who have completed an assessment service provided by, or through, the IELTS Owners, results achieved by the individual will also be held. 
 
-Go to the Tools -> Internet Options -> Privacy menu. You then select how the browser accepts cookies, based on the source of the cookie, and whether the source has a "privacy policy". There are also features for the advanced user for greater control over cookies.
-
-## Use and Disclosure of Personal Information
-
-The company will use personal information to:
-
-  * provide its services, particularly those associated with student services (eg recruitment, English language testing)
-  * provide students, institutions and other clients of developments in the services it offers
-  * manage its internal business operations
+  
 
 
+## Purposes
 
-The company will only disclose information for the purpose for which it was collected, and where appropriate, after obtaining the necessary consent from the individual. Information may be disclosed for other purposes, with the specific consent of the individual to do so.
+**We collect your Personal information to allow us to:**
 
-The company may also be required to disclose personal information where the law requires such disclosure.
-
-## Security of Personal Information
-
-The company will take reasonable steps to ensure the security of personal information that it holds, regardless of the form in which that information is held. This will include taking reasonable steps to prevent the misuse or loss of this information, or unauthorised disclosure, access to, or modification of this information.
-
-Where the information is held in electronic form, access will be controlled by user logins and passwords, and restriction of access only to persons who need to have that access in the course of the company's business activities.
-
-All staff of the company are subject to confidentiality obligations as part of their conditions of employment.
-
-## Right of Access by the Individual
-
-Any individual has the right to request access at any time to the personal information that the company holds about that person. This access will be refused where the company cannot be satisfied as to the identity of the person requesting that access.
-
-Any individual can request the company to modify or correct personal information that the person believes to be incorrect.
-
-The company can refuse to provide access to personal information where the Privacy Act allows it to do so.
-
-## Privacy Representative
-
-IELTS partner's Privacy Representative is the Company Secretary. Any questions, concerns or complaints about the company's Privacy Policy or its practices related to privacy of personal information should be address to the Representative, as follows:
-
-IELTS Webmaster  
-[**Contact IELTS**](https://web.archive.org/contact_us.aspx)
-
-## Personal Information Management Policy Statement
-
-IELTS Australia Limited (IELTS) is bound by the National Privacy Principles (NPP's), as set out in the [**Privacy Act 1988**](http://www.privacy.gov.au/law) (as amended).
-
-In general, IELTS partners hold the following types of personal information:
-
-  * personal details of individuals who have enquired about study opportunities in Australia, or who have applied to undertake a course of study at an Australian educational institution, or an overseas education institution that has entered into a twinning arrangement with an Australian education institution. As IELTS partners operate in over 30 overseas countries, it is unavoidable that some of this personal information is sensitive information (ie the individual's racial or ethnic origin);
-  * personal details of individuals who have applied to undertake, or have undertaken, an assessment service provided by, or through, IELTS. In the case of individuals who have completed such assessment, IELTS will also hold the results achieved by the individual;
-  * personal details of individuals who have formally advised/registered their interest in being engaged as consultants, or individuals who have been, or are currently, engaged as consultants on projects/programs managed by IELTS partners (or IELTS partners in consortium with other organisations);
-  * personal details about individuals who have registered their names with a service offered by the company (eg the Graduate Recruitment Service)
-  * personal details about individuals who have registered to participate in an event organised, managed or presented by IELTS partners, whether in its own right, or under contract for another organisation.
+  * share the relevant information from your IELTS application or test with educational institutions, IELTS test centres, governments (including visa processing authorities), or professional bodies and commercial organisations that recognise IELTS scores;
+  * forward any enquiries you have to the other joint owners of the IELTS test (The British Council, IDP Education and Cambridge English Language Assessment) in accordance with your expressed preference (e.g. when you make a general enquiry about IELTS or about sitting an IELTS test);
+  * share any relevant information from your IELTS application or test with the other joint owners of the IELTS test (The British Council, IDP Education and Cambridge English Language Assessment) for purposes such as administering the IELTS test, reviewing IELTS test results for statistical and fraud detection purposes, or accommodating changes in your preference as to test centre location;
+  * share the relevant information from your IELTS application or test with regulatory authorities for verification purposes, to protect the IELTS test and its stakeholders or where legally required;
+  * inform you of and provide you with information on the services we provide (including events and opportunities to participate in projects/programs);
+  * use your information in an anonymous form, for informational, research, statistical and training purposes for the development of Cambridge English Language Assessment examinations;
+  * manage our internal business operations; and
+  * respond to your questions.
 
 
 
-**In general, IELTS partners use this personal information for the following purposes:**
+## Detailed privacy policies
 
-  * assisting an individual to avail themselves of the opportunity to undertake studies in an Australian education institution;
-  * assisting an individual to further their career after completing their studies at an Australian education institution, or an overseas education institution twinned to an Australian education institution
-  * provide opportunities for individuals to participate in projects/programs as consultants
-  * effective management of events
+**The privacy and data protection policies of the IELTS Owners are detailed as follows:  
+**
 
-
-
-IELTS partners have taken reasonable steps to ensure the security and appropriate use of personal information including:
-
-  * developing and implementing a Privacy Policy
-  * training its staff in the management of personal information
-  * developing and implementing appropriate computer system controls
+  * The British Council’s is found at: <http://www.britishcouncil.org/privacy-cookies/data-protection>
+  * IDP Education and IELTS Australia’s is found at: <https://www.idp.com/global/footerlinks/privacypolicy>
+  * Cambridge English Language Assessment’s is found at: <http://www.cambridgeenglish.org/footer/data-protection>
 
 
 
-IELTS is a contractor to the Commonwealth and State governments, and contracts out services.
+## Glossary
 
-Complaints about possible breaches of privacy should be marked as "Confidential", and addressed to:
+  1. APP means the Australian Privacy Principles in Schedule 1 of the Privacy Act.
+  2. IELTS refers to the International English Language Testing System.
+  3. IELTS Owners refers to The British Council, IDP Education (through its subsidiary IELTS Australia Pty Ltd) and Cambridge English Language Assessment who together own the IELTS test. The British Council and Cambridge English Language Assessment are United Kingdom based entities. IDP Education is an Australian based entity.
+  4. IDP Education refers to IDP Education Limited (ACN 117 676 463). IELTS Australia refers to IELTS Australia Pty Ltd (ACN 008 664 766) which is a subsidiary of IDP Education.
+  5. Personal Information means information or an opinion [CS1] [SG2] about an identified individual, or an individual who is reasonably identifiable, whether the information or opinion [CS3] is true or not, and whether the information or opinion is recorded in a material form or not.
+  6. Privacy Act means the Australian Privacy Act 1988 (Cth).
+  7. Sensitive Information includes information or an opinion [CS4] about an individual’s racial or ethnic origin, political opinions, membership of a professional or trade association or criminal record that is also personal information, or health information about an individual, or biometric information used for the purpose of automated biometric verification or identification, or biometric templates.
 
+
+
+## Website usage and other information collected on this website
+
+By accessing and using this, you accept and agree to the IELTS Owners’ Privacy Policy without limitation or qualification.   
+We will not without your prior consent disclose Personal Information collected about you on this website to any other party. Further, we do not sell, rent or trade your Personal Information to any other third parties except as required by law or permitted under the Privacy Act. 
+
+The IELTS Owners’ Privacy Policy applies solely to information collected by us and may differ from the policies of other companies’ or organisations’ websites that you link to from this website. We recommend that you read the privacy policy of any other companies’ or organisations’ website that you link to from our website.
+
+## Google Analytics
+
+We use Google Analytics to measure and analyse its internet usage to ensure the site meets the IELTS Owners’ business objectives with advertisers and users. Individual privacy is protected but we gain insights on how to make the site more useful for advertisers as well as our users. 
+
+**Data collected from this analysis includes:  **
+
+  * the number of page views (or page impressions) that occur on our sites;
+  * the number of unique visitors;
+  * how long these unique visitors (on average) spend on our sites;
+  * common entry and exit points to our sites;
+  * files downloaded from the site;
+  * forms filled in on the site.
+
+
+
+## Cookies
+
+Cookies are small data files that are sent from a website and stored in a user’s web browser. The IELTS Owners’ website use cookies to improve the user’s web browsing experience (e.g. language preference or selected locality).   
+If you wish to disable the cookies on this website you will need to follow the steps required for your preferred browser (e.g. in Internet Explorer 10 and 11 this can be found in the Privacy tab under Internet Options).
+
+For more information contact:  
 **IELTS Webmaster**  
-[**Contact IELTS**](https://web.archive.org/contact_us.aspx).
-
-Requests for access to personal information should be addressed to the Company Secretary (as set out above).
-
-Where a request is limited to access to an individual's personal information, the company will take all reasonable steps to respond within **five (5) working days** of the receipt of the request. These steps will include verification of the identity of the individual concerned.
-
-Where the request is in respect of correction of inaccuracies to an individual's personal information, the nature of the inaccuracy must be clearly stated, along with the information required to be entered in lieu of the inaccurate information. The company will take all reasonable steps to respond within **five (5) working days** of the receipt of the request. These steps will include verification of the identity of the individual concerned.
-
-All requests for access to personal information (for whatever purpose) will be responded to in writing, and will be recorded in a register maintained for this purpose.
-
-Where the individual's identity cannot be verified to the satisfaction of the Company Secretary, the request for access will be denied.
-
-For more information contact:
-
-**IELTS Webmaster**  
-[**Contact IELTS**](https://web.archive.org/contact_us.aspx).
+[Contact IELTS](http://www.ielts.org/info-pages/contact-us)
