@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adblockplus.org privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209175025id_/https%3A//adblockplus.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adblockplus.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610162209id_/https%3A//adblockplus.org/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,6 +74,27 @@ Adblock Plus may make further requests to the AdblockPlus.org website as require
 ### Data retention
 
 Adblock Plus stores some data in [the Firefox profile](http://support.mozilla.com/en-US/kb/Profiles) on your computer. Adblock Plus never transmits this data to any servers, but other extensions and services, such as [Firefox Sync](https://services.mozilla.com/privacy-policy/), may do so. Most of the data (your preferences, filter subscriptions and custom filters) is unobjectionable privacy-wise. However, filter hit statistics and recent issue reports could be used to reconstruct your browsing history. Adblock Plus treats this information identically to how history data is treated by the browser: this data isn't stored if you are using [Private Browsing mode](http://support.mozilla.com/en-US/kb/Private+Browsing) and is removed if you choose to clear your browsing history. 
+
+## Adblock Browser for iOS
+
+### Crash reporter
+
+In the event of an unexpected crash, Adblock Browser for iOS collects data relevant for analyzing the cause of the error and transmits it to our ​[HockeyApp](http://hockeyapp.net/) account. The data is solely used for individual troubleshooting (as well as for identifying general defects which lead to unexpected crashes) and is never shared with any third parties other than HockeyApp. 
+
+During a crash the following data is sent: 
+
+  * Bundle identifier, bundle version and short bundle version string of Adblock Browser for iOS. 
+  * Device type, CPU architecture and version of the operating system. 
+  * Timestamp of when the crash happened. 
+  * A generated UUID to prevent duplicate crash reports. 
+  * If an exception was thrown, the plain-text class name and message value of the exception. 
+  * Low level crash data like instruction pointer, method or function names, signal data, pointer registers and information about the loaded binary images. 
+
+
+
+Said data is only collected when the application crashes. Furthermore, Adblock Browser for iOS explicitly asks for permission to send the collected information after the crash happened. All crash reports stored on our servers are removed after 30 days. 
+
+In order to learn more about HockeyApps’s privacy policy, please consult their ​[Terms of Service](http://hockeyapp.net/terms) as well as their [​documentation of collected data](http://support.hockeyapp.net/kb/app-management-2/what-data-is-collected-with-crash-reports). 
 
 ## Element Hiding Helper extension
 
