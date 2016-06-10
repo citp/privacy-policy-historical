@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cms2cms.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906200553id_/https%3A//www.cms2cms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cms2cms.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610233103id_/https%3A//www.cms2cms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy applies to [CMS2CMS service](http://www.cms2cms.com/) developed by MagneticOne.  
+This privacy policy applies to [CMS2CMS](http://cms2cms.com/) developed by MagneticOne.  
 MagneticOne is committed to ensuring that your privacy is protected. We recognize the importance of protecting all the information provided by CMS2CMS service users, newsletter subscribers and all MagneticOne customers. All our customers and users are encouraged to read this privacy policy prior to submitting any personal information or using the website in any other manner.
 
 ## Information Collection and Usage
