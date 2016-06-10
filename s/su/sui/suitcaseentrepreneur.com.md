@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suitcaseentrepreneur.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210230850id_/http%3A//suitcaseentrepreneur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suitcaseentrepreneur.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610035257id_/http%3A//suitcaseentrepreneur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Live a Location Independent Nomadic Lifestyle with Freedom | The Suitcase Entrepreneur
 
@@ -43,4 +43,6 @@ You acknowledge and agree that it is your responsibility to review this Site and
 CONTACT  
 If you have questions about my privacy policy, please email me at support@suitcaseentrepreneur.com.
 
-Updated: August 2013
+Updated: February 2016
+
+[](https://www.pinterest.com/pin/create/button/)
