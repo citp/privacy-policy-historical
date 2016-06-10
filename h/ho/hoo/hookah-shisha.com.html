@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the hookah-shisha.com privacy policy that was archived on 2015-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151229220032id_/https%3A//www.hookah-shisha.com/store/pc/hookah-privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hookah-shisha.com privacy policy that was archived on 2016-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610104845id_/https%3A//www.hookah-shisha.com/store/pc/hookah-privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="//scripts.kissmetrics.com/4277f99dc8dcc72bd155cd74f0b1a4cbd8a6679b.2.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">    var _kmq = _kmq || []; var _kmk = _kmk || '4277f99dc8dcc72bd155cd74f0b1a4cbd8a6679b'; function _kms(u) { setTimeout(function () { var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = u; f.parentNode.insertBefore(s, f); }, 1); } _kms('//i.kissmetrics.com/i.js'); _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js'); </script>
+<script type="text/javascript" async="" src="https://getgratify.com/web_analytics/merchant.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="//scripts.kissmetrics.com/4277f99dc8dcc72bd155cd74f0b1a4cbd8a6679b.2.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">    var _kmq = _kmq || []; var _kmk = _kmk || '4277f99dc8dcc72bd155cd74f0b1a4cbd8a6679b'; function _kms(u) { setTimeout(function () { var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = u; f.parentNode.insertBefore(s, f); }, 1); } _kms('//i.kissmetrics.com/i.js'); _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js'); </script>
 
 <script src="//cdn.optimizely.com/js/82681533.js" async=""></script>
 <!--<script type="text/javascript">
@@ -77,14 +77,25 @@
     $(document).ready(function () {
         $("#ColorSelect").bind('change keyup', function (e) {
             $("img[name=image-swap]").attr("src", $("#ColorSelect option:selected").attr("rel"));
-            $("img[id=Img1]").attr("src", $("#ColorSelect option:selected").attr("rel"));
+            $("img[id=Img1]").attr("src", $("#ColorSelect option:selected").attr("rel"));   
             $("a[id=MainImgBTO]").attr("href", $("#ColorSelect option:selected").attr("url"));
-            $("a[id=LargeImageToWindow]").attr("href", $("#ColorSelect option:selected").attr("url")); 
+            $("a[id=LargeImageToWindow]").attr("href", $("#ColorSelect option:selected").attr("url"));
+            $("img[id=LargeImageToWindow2]").attr("src", $("#MainImgBTO").attr("href"));
         });
     });
+
+</script> 
+
+<script>
+ $(document).ready(function () {
+    $("#MainImgBTO").click(function () {
+        $("img[id=LargeImageToWindow2]").attr("src", $("#MainImgBTO").attr("href"));
+    });
+});
 </script>
 
- <script>
+
+<script>
      $(document).ready(function () {
          //stick in the fixed 100% height behind the navbar but don't wrap it
          $('#slide-nav.navbar .container').append($('<div id="navbar-height-col"></div>'));
@@ -123,7 +134,21 @@
 
      });
     </script>
-     
+
+
+
+<!-- Hotjar Tracking Code for http://www.hookah-shisha.com -->
+<script>
+    (function (h, o, t, j, a, r) {
+        h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+        h._hjSettings = { hjid: 132867, hjsv: 5 };
+        a = o.getElementsByTagName('head')[0];
+        r = o.createElement('script'); r.async = 1;
+        r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');
+</script><script async="" src="//static.hotjar.com/c/hotjar-132867.js?sv=5"></script>
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0">
  
 
@@ -151,7 +176,7 @@
 <!-- End Google Tag Manager -->
 
 <div class="promotopleft">
-<a href="/store/pc/hookah-monthly-giveaway.asp"><img src="/images/promos/floater-for-email-sign-up2.png" alt="Monthly Hookah Giveaway" border="0" width="152" height="134"></a>
+<a href="/store/pc/hookah-monthly-giveaway.asp"><img src="/images/promos/floater-for-email-sign-up2.png" alt="Sign Up to Win a Free Hookah" border="0" width="152" height="134"></a>
 </div>
 
 <script type="text/javascript">
@@ -170,7 +195,7 @@ function hideCol(column, hideVal) {
 	function hideRow(row, hideVal) {
 	if (document.getElementById('row'+row)) {
 		var displayStyle = (hideVal!=true)? 'inline' : 'none' ;
-		var cookie_date = new Date ( 2016, 01, 13 );
+		var cookie_date = new Date ( 2016, 06, 25 );
 		document.getElementById('row'+row).style.display = displayStyle;	
 		document.cookie = "hidebar=1; expires=" + cookie_date.toGMTString()+ ";path=/;";
 	}
@@ -223,7 +248,7 @@ function hideCol(column, hideVal) {
         </div>
 
           <div class="col-xs-12 col-sm-4 col-md-6  col-lg-6 HeaderPromos NotMobile" id="topright">  
-		       <a href="/store/pc/tip.asp?subpageId=29#gelato"><img src="/images/promos/EconoGelato175.png" border="0" alt="Free Econo-Gelato Hookah Coupon Code"></a>
+		       <a href="/store/pc/tip.asp?subpageId=29"><img src="/images/promos/EconoGelato175.png" border="0" alt="Free Gelato on Orders of $175"></a>
 		       &nbsp;&nbsp;&nbsp;
                <a href="/store/pc/tip.asp?subpageId=29#furat"><img src="/images/promos/free-furat-100.png" border="0" alt="Free Furat Hookah On Orders Over $100"></a>
 		 </div>
@@ -268,19 +293,22 @@ function hideCol(column, hideVal) {
                     </button>
                 </li>
                 <li>
-                <script>
-                    $('body').on('touchstart.dropdown', '.dropdown', function (e) { e.stopPropagation(); });
-                </script>
-                  <a class="dropdown mobileButton" id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+
+                  <a class="mobileButton" id="ContactToggleButton" href="#" type="button" data-toggle="dropdown">
                     <div class="mobileButton">
                       <span class="glyphicon glyphicon-earphone glyphicon-align-center"></span><br> CONTACT
                    </div>
                   </a>
-                  <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+                  <ul class="dropdown-menu ContactPane" id="ContactPane">
                     <li><a href="tel:866-466-5247">CALL</a></li>
                       <li><a href="mailto:info@hookah-shisha.com">EMAIL</a></li>
                       <li><button type="button" onclick="LC_API.open_chat_window();">CHAT</button></li>
                   </ul>
+               <script>
+                     $("#ContactToggleButton").click(function () {
+                           $("#ContactPane").toggle();
+                     });
+                </script>
                 </li>
                 <li><a href="/store/pc/custpref.asp"><div class="mobileButton"><span class="glyphicon glyphicon-user"></span><br>ACCOUNT</div></a></li>
                 <li><a href="/store/pc/viewcart.asp"><div class="mobileButton"><span class="glyphicon glyphicon-shopping-cart glyphicon-align-center"></span><br>CART</div></a></li>
@@ -469,7 +497,7 @@ function hideCol(column, hideVal) {
 
     <div class="row" id="footer">
         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
-	    Copyright © 2015 Hookah-Shisha.com.  All rights reserved.<br>
+	    Copyright © 2016 Hookah-Shisha.com.  All rights reserved.<br>
                 <div class="fourFooterLinks">
                   <a href="/store/pc/hookah-privacy.asp">Privacy Policy</a>  :  
                   <a href="/sitemap.asp">Site Map</a> :  <a href="/store/pc/contact.asp">Contact Us</a> :  
@@ -615,7 +643,17 @@ function hideCol(column, hideVal) {
 </div>
 <!-- Modal -->
 
+<!-- Gratify JavaScript code snippet -->
+<script>
+    var _vc = _vc || {};
+    _vc.merchantId = '6fb14f79-f3b6-4d90-9ad4-0933e24354cb';
 
+    (function () {
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+        s.src = 'https://getgratify.com/web_analytics/merchant.js';
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
 
 
 
