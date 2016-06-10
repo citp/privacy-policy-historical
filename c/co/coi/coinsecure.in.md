@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the coinsecure.in privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919194404id_/https%3A//coinsecure.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinsecure.in privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610061521id_/https%3A//coinsecure.in/privacy) for the most accurate reproduction.*
 
-# Coinsecure | Home
-
-__
-
-## Terms 
-
-  * __ Terms & Conditions
-
-
+# User profile
 
 Privacy Policy
 
@@ -95,3 +87,5 @@ All user information collected by us through the website is maintained confident
 
 
 
+
+India's Fastest 24/7 Realtime Bitcoin Trading Platform
