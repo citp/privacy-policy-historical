@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eaglecreek.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906165856id_/https%3A//shop.eaglecreek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaglecreek.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610100114id_/https%3A//shop.eaglecreek.com/privacy.html) for the most accurate reproduction.*
 
 # Eagle Creek Official Store
 
@@ -50,7 +50,7 @@ You always have the choice not to receive marketing communications. For instruct
 
 Our blog is managed by a third-party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third-party application if you want the personal information that was posted to the comments section removed. To learn how the third-party application uses your information, please review its privacy policy. 
 
-We display personal testimonials/reviews of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [customerservice@store.eaglecreek.com](mailto:customerservice@store.eaglecreek.com). 
+We display personal testimonials/reviews of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [CustomerService@eaglecreek.com](mailto:CustomerService@eaglecreek.com). 
 
   
 **WITH WHOM IS INFORMATION SHARED?**  
