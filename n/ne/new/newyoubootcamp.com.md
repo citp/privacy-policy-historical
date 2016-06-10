@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyoubootcamp.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907170405id_/http%3A//newyoubootcamp.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyoubootcamp.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610212002id_/http%3A//newyoubootcamp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - New You Boot Camp
 
