@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gadgetstouse.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428220844id_/http%3A//gadgetstouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetstouse.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610141143id_/http%3A//gadgetstouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gadgets To Use
 
 Privacy Policy for Gadgets To Use ( <http://www.gadgetstouse.com/> )
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.getmeapp.com/contact-us).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://gadgetstouse.com/contact-us).
 
 At http://www.gadgetstouse.com/ , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.gadgetstouse.com/  and how it is used.
 
