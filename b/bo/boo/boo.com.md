@@ -1,58 +1,40 @@
-> *The following text is extracted and transformed from the boo.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216061723id_/http%3A//www.hostelworld.com/securityprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boo.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610184516id_/http%3A//www.hostelworld.com/securityprivacy.php) for the most accurate reproduction.*
 
 # Hostelworld.com Security & Privacy Policy
 
-_Hostelworld.com has been processing online hostel reservations since 1999 and we have always placed the security of our internet transactions and our customers credit card details as our top priority._
+Hostelworld.com Limited (" **Hostelworld** ") operates the Hostelworld.com website, mobile site, mobile app and a booking engine, which is integrated into third party websites (together the " **Hostelworld Sites** "). This privacy statement sets out our privacy and security practices and forms part of the Terms and Conditions that apply to your use of the Hostelworld Sites. Please note that where you access our booking engine on a third party website this privacy statement only applies to information we collect through your use of the booking engine, and does not data collected or held by the operator of the third party website.
 
-We will continue to offer our customers the highest level of security available for online transactions and hope this reassures you when you make your reservations with us.
+Hostelworld has been processing online hostel reservations since 1999 and we have always placed the security of our internet transactions and our customers" credit card details as our top priority. We will continue to offer our customers the highest level of security available for online transactions and hope this reassures you when you make your reservations with us.
 
-All sensitive information exchanged between your computer and our site is encrypted using SSL. Our SSL Certificate is provided by GlobalSign. This ensures that your information is transmitted securely and is safe from third parties. Please read on for more information on site encryption.
-
-### SITE ENCRYPTION
-
-Hostelworld.com utilizes a technology called SSL (Secure Sockets Layer). SSL is a set of rules followed by computers connected to the Internet.  
-Encryption - These rules include encryption, which guards against eavesdropping   
-Data Integrity - Data integrity, which ensures that your communications are not tampered with during transmission and   
-Authentication - authentication, which verifies that the party who receives your communication are who they claim to be.
-
-### HOW ENCRYPTION WORKS
-
-There are two levels of encryption: 40-bit and 128-bit. With 40-bit encryption, there are billions of possible keys to decipher the coded information, and only one of them works. Someone intercepting the information would have to find the right key - a nearly impossible task. With 128-bit encryption, there are 300 billion trillion times as many keys as with 40-bit encryption. It is virtually impossible for an unauthorized party to find the right key, even if they are equipped with the best computers.
-
-If you're about to send information to a site that's not using SSL, your browser will warn you first. SSL protects your communications during transmission. Because of the authentication involved, secure servers are slower than the regular server for delivering files. Therefore SSL is only used when transmitting sensitive information across the web.
-
-### PRIVACY POLICY
-
-Hostelworld.com realises some people are unsure about entering their personal details into websites over the Internet. Below, we explain how we use your information and how we protect your privacy. Hostelworld.com and its associated companies respect and protect your right to privacy in relation to your interactions with this website. Any information which is provided by you to Hostelworld.com via this website or otherwise will be treated in accordance with the terms of the Irish Data Protection Acts, 1988 and 2003 and/or such amending or replacement legislation as may be adopted in Ireland from time to time.
+Hostelworld realises that some people are unsure about entering their personal details into websites and apps over the Internet. Below, we explain how we use your information and how we protect your privacy. Hostelworld and its associated companies respect and protect your right to privacy in relation to your interactions with the Hostelworld Sites. Any information which is provided by you to Hostelworld via the Hostelworld Sites or otherwise will be treated in accordance with the terms of the Irish Data Protection Acts 1988 and 2003 and/or such amending or replacement legislation as may be adopted in Ireland from time to time.
 
 ### INFORMATION REQUIRED TO PROCESS YOUR BOOKING
 
-For us to process a booking for you on behalf of a travel services provider, we require some information from you. This includes your name, nationality, your gender (or the gender of the group you are in), your phone number and email address. Also, since we confirm your booking while you are on the site, we require your credit or debit card details so we can guarantee your beds when you pay your deposit.
+For us to process a booking for you on behalf of a travel services provider, we require some information from you. This includes your name, nationality, your gender (or the gender of the group you are in), your phone number and email address. Also, since we confirm your booking while you are on the Hostelworld Site, we require your credit or debit card details so we can guarantee your beds when you pay your deposit.
 
 ### WHO SEES YOUR INFORMATION
 
-We are required to send your information to the travel services provider with which you booked travel services so that the travel service provider knows who you are and when you will use its travel services. We give your name, your nationality, your gender (or the gender of the group you are in), your phone number, your email address, your credit card details and of course, the details of your booking. The travel service provider requires this information to accept a confirmed booking from you. All travel service providers on whose behalf we facilitate bookings have agreed to the Hostelworld.com terms and conditions and accept this privacy policy.
+We are required to send your information to the travel services provider with which you booked travel services so that the travel service provider knows who you are and when you will use its travel services. We give your name, your nationality, your gender (or the gender of the group you are in), your phone number, your email address, your credit card details and of course, the details of your booking. The travel service provider requires this information to accept a confirmed booking from you. All travel service providers on whose behalf we facilitate bookings have agreed to the Hostelworld terms and conditions and accept this privacy policy.
+
+We may also pass your personal information to third party service providers who process it on our behalf in order to allow us to provide the best service to you. For example, we use various technologies provided by Google, including its Maps product and its analytics products, to enhance the Hostelworld Sites. The following websites set out Google"s privacy policies in connection with these services <http://www.google.com/policies/privacy/partners/> and <http://www.google.com/policies/privacy/>. 
+
+We only pass your personal information to trusted third party services providers in accordance with our obligations under the Irish Data Protection Acts 1988 and 2003.
 
 ### SECURITY
 
-All sensitive information exchanged between your computer and our site is encrypted using SSL. Our SSL Cert. is provided by GlobalSign. This ensures that your information is transmitted securely and is safe from third parties.   
-You should be aware that where you link to another website from this website, that Hostelworld.com has no control over that other website. Accordingly, Hostelworld.com cannot guarantee that the controller of that web site will respect your privacy in the same manner as Hostelworld.com.
+All personal information exchanged between your device and the Hostelworld Sites is encrypted using TLS. Our TLS Cert. is provided by GlobalSign. This ensures that your information is transmitted securely and is safe from third parties. 
+
+You should be aware that where you link to another website from the Hostelworld Sites, Hostelworld has no control over that other website. Accordingly, Hostelworld cannot guarantee that the controller of that website will respect your privacy in the same manner as Hostelworld.
 
 ### HOW WE USE YOUR INFORMATION
 
-In addition to the use and disclosure of information which is required when you avail of our travel related and data processing services (and which we describe above), we use your email address for sending you a confirmation of your bookings, pre-trip reminder e-mails, an email reminder to provide a guest review of your last accommodation stay, or occasionally to inform you of new features on Hostelworld.com. Our booking confirmation and pre-trip reminder emails may contain banner advertising. We only use your phone number to contact you urgently if there is a problem with your booking. In circumstances where you contact us with a query, we use your contact details in order to respond to your query. In the event that you choose to purchase a Lonely Planet Digital Guide on Hostelworld.com, you will be authorising Hostelworld.com to pass your email address and country of residence to Lonely Planet so that Lonely Planet can deliver the Lonely Planet Digital Guide purchased by you from Lonely Planet. 
+In addition to the use and disclosure of information which is required when you avail of our travel related and data processing services (and which we describe above), we use your email address for sending you a confirmation of your bookings, pre-trip reminder e-mails, an email reminder to provide a guest review of your last accommodation stay, or occasionally to inform you of new features on the Hostelworld Sites. Our booking confirmation and pre-trip reminder emails may contain banner advertising. We only use your phone number to contact you urgently if there is a problem with your booking. In circumstances where you contact us with a query, we use your contact details in order to respond to your query. 
 
-In the event that you choose to use Quick Search to obtain a quote from one of our travel services partners, you will be authorising Hostelworld.com to pass certain details, as have been entered by you, through to these partners. These details will not contain personally identifying information. 
+Where you have given us your consent, we may send you emails that we think will be useful to you. This may include our regular e-newsletter, special offers, travel tips, customer surveys and information about products and services offered by us or our selected partners. Where your settings on your device permit us to send app notifications we may also send you app notifications containing similar information. You may opt out of receiving email messages at any time by clicking on the link provided in the email messages, and app notifications by changing the notification settings in your app. 
 
-When you consent to becoming a Hostelworld.com subscriber, you also agree to receive newsletters and other promotional messages from Hostelworld.com and related websites operated by Hostelword.com Limited. The promotional messages will include details of related services of Hostelworld.com Limited which may be of interest to you. You will be given the opportunity to unsubscribe from these newsletters and other promotional messages both at the time you become a subscriber and in every e-mail that we send. 
+We take reasonable steps to ensure that your information is relevant to its intended use, and that it is accurate and up to date. As a registered Hostelworld.com user, you can access and update your contact information, personal preferences and e-mail subscription choices at any time by visiting the account section of the Hostelworld.com website. The information that you submit helps us to make your emails more useful, interesting and relevant to you.
 
-We take reasonable steps to ensure that your information is relevant to its intended use, and that it is accurate and up to date. As a registered Hostelworld.com subscriber, you can access and update your contact information, personal preferences and e-mail subscription choices at any time by visiting the MyAccount tab on the MyWorld page on the Hostelword.com website. The information that you submit helps us to make your emails more useful, interesting and relevant to you. 
-
-We use cookies and pixel tags on our website, mobile phone applications and in our e-mails in accordance with our Cookie Policy, which is available [**here**](https://web.archive.org/cookiespolicy.php). 
-
-You may disable the use of cookies through your browser’s settings. By accessing and using our website without changing your browser’s cookie settings, you are consenting to our use of such cookies 
-
-In the event that you choose to participate in our Member-Get-Member program, we will only use information about your referred friends to invite them to subscribe to our email newsletters and email offers and, if they subscribe, for any other purpose notified to them at the time of subscription. 
+We use cookies and pixel tags on the Hostelworld Sites and in our e-mails in accordance with our Cookies Policy, which is available [here](https://web.archive.org/cookiespolicy.php). 
 
 On occasions, we may supply statistics about our customers to third-parties such as hostels or other agents. These statistics never contain personally identifying information.
 
@@ -60,11 +42,11 @@ We would not sell or rent your personal information to third parties for their m
 
 ### TARGETED ADVERTISING
 
-We want to make it easy for you to take advantage of the travel related opportunities which we feature on our website. We work with our advertising partners in order to try and ensure that when you see a Hostelworld advert it will be relevant to you and your interests. This applies to adverts that are displayed on Hostelworld’s own websites, in Hostelworld emails, and on websites owned by third parties. We do this by allowing our third party advertisers to collect non-personally identifiable information about your visit to our website, such as the pages you visit on our website and the locations you appear to be interested in. We also provide third party advertisers with non-personally identifiable information that we collect about you when you use our website in order to only show you relevant adverts. We may also use such information in order to avoid showing you adverts on third party websites like Facebook and Twitter if we don’t think you will be interested in them.
+We want to make it easy for you to take advantage of the travel related opportunities which we feature on the Hostelworld Sites. We work with our advertising partners in order to try and ensure that when you see an advert for a Hostelworld brand it will be relevant to you and your interests. This applies to adverts that are displayed on Hostelworld"s own websites (including the Hostelworld Sites, in Hostelworld emails, and on websites owned by third parties). We do this by allowing our third party advertisers to collect non-personally identifiable information about your visit to the Hostelworld Sites, such as the pages you visit on the Hostelworld Sites and the locations you appear to be interested in. We also provide third party advertisers with non-personally identifiable information that we collect about you when you use the Hostelworld Sites in order to only show you relevant adverts. We may also use such information in order to avoid showing you adverts on third party websites like Facebook and Twitter if we don"t think that you will be interested in them.
 
-When we share your information with third party advertisers we always ensure that we do so in compliance with our obligations under data protection law. We may use technologies such as “hashing” to ensure that we do not provide our third party service providers with your personal data. For more information on how our third party advertising service providers gather information about your use of this website, please refer to our cookies policy which is available [**here**](https://web.archive.org/cookiespolicy.php).
+When we share your information with third party advertisers we always ensure that we do so in compliance with our obligations under data protection law. We may use technologies such as "hashing" to ensure that we do not provide our third party service providers with your personal data. For more information on how our third party advertising service providers gather information about your use of the Hostelworld Sites, please refer to our Cookies Policy which is available [here](https://web.archive.org/cookiespolicy.php).
 
-Some of our third party advertising partners ask us to make you aware of their privacy policies. These policies are available by following the links below:
+Some of our third party advertising partners ask us to make you aware of their privacy policies. These policies are available by following the links below: 
 
 [**Facebook**](https://www.facebook.com/about/basics)
 
@@ -72,28 +54,34 @@ Some of our third party advertising partners ask us to make you aware of their p
 
 [**Criteo**](http://www.criteo.com/privacy/)
 
-### MYWORLD SOCIAL NETWORK
+[**Google**](https://www.google.es/intl/en/policies/privacy/)
 
-When you make a booking with Hostelworld.com a MyWorld account will automatically be created for you. MyWorld is a travel social network that allows you to view, change or cancel your bookings, connect with other travellers, leave reviews, upload photos, share travel tips and plan future trips. 
+### YOUR HOSTELWORLD ACCOUNT
 
-After making your first booking with Hostelworld.com you will receive details of your MyWorld username and password. You can change your username, password and personal details at any time by logging into your account. 
+When you make a booking on the Hostelworld Sites an account will automatically be created for you. You account allows you to view, change or cancel your bookings, and may include features that allow you to connect with other travellers, leave reviews, upload photos, share travel tips and plan future trips. 
 
-Your profile settings in your MyWorld account will automatically default to Private. You can modify this profile setting at any time by logging into your account. There are three types of profile settings available in MyWorld: Private Access (your profile cannot be viewed by anyone), Public Access (your profile can be viewed by everyone) or Buddy Access (your profile can only be viewed by your MyWorld travel buddies). 
+After making your first booking on the Hostelworld Sites you will receive details of your Hostelworld account username and password. You can change your username, password and personal details at any time by logging into your account. 
 
-Where you have applied ‘Public Access’ or ‘Buddy Access’ to your MyWorld account, any reviews that you submit will show your username. Where you have applied ‘Private Access’ settings to your MyWorld account, any reviews that you submit will appear as anonymous.
+Your profile settings in your Hostelworld account will automatically default to Private. You can modify this profile setting at any time by logging into your account. There are three types of profile settings available in connection with your Hostelworld account: Private Access (your profile cannot be viewed by anyone), Public Access (your profile can be viewed by everyone) or Buddy Access (your profile can only be viewed by your designated travel buddies). 
+
+Where you have applied "Public Access" or "Buddy Access" to your account, any reviews that you submit will show your username. Where you have applied "Private Access" settings to your account, any reviews that you submit will appear as anonymous.
 
 ### REVIEWS
 
-We offer you the opportunity to post reviews of the accommodation you book through our site. Where you provide us with a review, we may include your review on our websites and on selected partner sites.
+We offer you the opportunity to post reviews of the accommodation you book through the Hostelworld Sites. Where you provide us with a review, we may include your review on the Hostelworld Sites and on selected partner sites.
+
+### WEBSITE TESTING
+
+We use various technologies to allow us to test how the Hostelworld Sites operate and allow us to improve our services. Further details of such tests are available [here](https://web.archive.org/website-testing)
 
 ### YOUR ACCESS AND AMENDMENT RIGHTS
 
-You have the right to request a copy of the information which we hold about you (for which we may charge you a small fee) and to have inaccuracies in the information corrected. If you wish to avail of any of these rights, please contact us at [customerservice@hostelworld.com](mailto:customerservice@hostelworld.com)
+You have the right to request a copy of the information which we hold about you (for which we may charge you a small fee) and to have inaccuracies in the information corrected. If you wish to avail of any of these rights, please contact us at customerservice@hostelworld.com.
 
 ### LIMITATION AND EXCLUSION OF LIABILITY
 
-HOSTELWORLD.COM, ITS DIRECTORS, EMPLOYEES, SERVANTS AND AGENTS, AFFILIATES OR OTHER REPRESENTATIVES AND THEIR RESPECTIVE PARENT AND SUBSIDIARY COMPANIES SHALL NOT BE LIABLE IN RESPECT OF ANY CLAIMS, EMERGENCIES, DEMANDS, CAUSES OF ACTION, DAMAGES, LOSSES, EXPENSES INCLUDING WITHOUT LIMITATION, REASONABLE ATTORNEY FEES AND COSTS OF PROCEEDINGS ARISING OUT OF OR IN CONNECTION WITH THE USE AND/OR DISSEMINATION OF PERSONAL INFORMATION RELATING TO YOU IN ACCORDANCE WITH THIS PRIVACY POLICY AND YOUR CONSENT.
+HOSTELWORLD, ITS DIRECTORS, EMPLOYEES, SERVANTS AND AGENTS, AFFILIATES OR OTHER REPRESENTATIVES AND THEIR RESPECTIVE PARENT AND SUBSIDIARY COMPANIES SHALL NOT BE LIABLE IN RESPECT OF ANY CLAIMS, EMERGENCIES, DEMANDS, CAUSES OF ACTION, DAMAGES, LOSSES, EXPENSES INCLUDING WITHOUT LIMITATION, REASONABLE ATTORNEY FEES AND COSTS OF PROCEEDINGS ARISING OUT OF OR IN CONNECTION WITH THE USE AND/OR DISSEMINATION OF PERSONAL INFORMATION RELATING TO YOU IN ACCORDANCE WITH THIS PRIVACY POLICY AND YOUR CONSENT.
 
 ### AMENDMENT OF PRIVACY AND SECURITY STATEMENT
 
-Hostelworld.com reserves the right in its sole discretion to amend this Privacy and Security Statement at any time and you should regularly check this privacy policy for any amendments. However, where any such amendments would materially change the use we make of any personal data, any such amendment will be subject to your prior consent.
+Hostelworld reserves the right in its sole discretion to amend this Privacy and Security Statement at any time and you should regularly check this privacy policy for any amendments. However, where any such amendments would materially change the use we make of any personal data, any such amendment will be subject to your prior consent.
