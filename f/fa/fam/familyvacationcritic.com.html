@@ -1,17 +1,20 @@
-<!--The following is the downloaded HTML source of the familyvacationcritic.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207031029id_/http%3A//www.familyvacationcritic.com/privacy/abt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the familyvacationcritic.com privacy policy that was archived on 2016-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611000255id_/http%3A//www.familyvacationcritic.com/privacy/abt) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us"><head>
 <meta charset="utf-8">
 <meta charset="utf-8">
 <title>Privacy - Family Vacation Critic</title>
-<script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-var fvc_config = {"newsletter":{"link":"\/newsletter\/manage.php","redirect_on_signup":false}};
+<script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+var SAFARI_SIMULATED_TABS_TEST = false;
+var fvc_config = {"newsletter":{"link":"\/newsletter\/manage.php","redirect_on_signup":false},"user_ip":"204.236.226.210","is_mobile":false};
+var userLang = '';
+var mcid = 35413; // Created in common
 </script>
 <!-- Load in common CSS and javascript -->
-<script type="text/javascript" src="http://www.cruisecritic.com/assets/js/tPixel.js"></script>
+<script type="text/javascript" src="http://www.cruisecritic.com/assets/js/tpixel.min.js"></script>
 <script src="//cdn.optimizely.com/js/2203350275.js"></script>
-<meta name="description" content="The Internet contains a wealth of information and it may also contain personal details about you that you dont want everyone to know. At Family Vacation ...">
+<meta name="description" content="The Internet contains a wealth of information and it may also contain personal details about you that you dont want everyone to know. At Family Vacation Critic...">
 <meta name="keywords" content="">
 
 <link rel="alternate" type="application/rss+xml" title="Family Vacation Critic RSS" href="/rss.php">
@@ -20,7 +23,7 @@ var fvc_config = {"newsletter":{"link":"\/newsletter\/manage.php","redirect_on_s
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
 <link type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.3/themes/base/jquery-ui.css" rel="stylesheet">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.3/jquery-ui.min.js"></script>
 
 <!-- Popunder -->
@@ -30,7 +33,7 @@ var fvc_config = {"newsletter":{"link":"\/newsletter\/manage.php","redirect_on_s
 <script type="text/javascript" src="/include/jquery/js/jquery.cookie.js"></script>
 
 <!--Fancy Box-->
-<script type="text/javascript" src="/include/jquery/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="/include/jquery/fancybox/jquery.fancybox-1.3.4.js"></script>
 <link rel="stylesheet" href="/include/jquery/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
 
 <!--jAlert-->
@@ -61,71 +64,71 @@ $(function() {
 	  var hotelFriendlyURL = '';
 	  var outputBoxItemHeight = 20;
 	  var outputBoxMaxItemsInWindow = 12; //how many items before box starts scrolling
-	  
+
   $(document).ready(function(){
 		// Get Search Results on Keyup
 		$("input#hotels").keyup(function(e) {
 			$('#bbacHotelOutput').removeClass('hide');
-			
+
 			if(e.keyCode==13) { //enter button
 				bbacIsHotel($("input#hotels").val());
 			} else {
 				bbacLoadingIndicator();
 				if($(this).val() != '') {
-					bbacGetMatchingResults($("input#hotels").val());										
+					bbacGetMatchingResults($("input#hotels").val());
 				} else {
 					$('#bbacHotelOutput').html('');
 				}
 			}
 		});
-		
+
 
 		// Hotel Selected
 		$("div.bbacItemSelect").live("click", function() {
 			$("input#hotels").val($(this).text());
 			bbacLoadingIndicator();
-			
+
 			hotelSelected = $("input#hotels").val();
-			friendlyURL = bbacGetFriendlyURL(hotelSelected, $(this).attr('fUrl'));			
+			friendlyURL = bbacGetFriendlyURL(hotelSelected, $(this).attr('fUrl'));
 			window.location = "http://www.familyvacationcritic.com/"+ friendlyURL +"/htl/";
 		});
-		
-		
+
+
 		//Hide Search Results When Clicked Outside Output Box
-		$('#bbacHotelOutput').hover(function(){ 
+		$('#bbacHotelOutput').hover(function(){
 			mouseOutputBox=true;
-		}, function(){ 
+		}, function(){
 			mouseOutputBox=false;
-		});		
-		$('body').mouseup(function(){ 
+		});
+		$('body').mouseup(function(){
 			if(! mouseOutputBox) $('#bbacHotelOutput').addClass('hide');
 		});
-		
-		
-		
+
+
+
   	});
-	
-	
-	
-	
-	
+
+
+
+
+
 	////////////////////////////////////////////
 	// FUNCTIONS
 	////////////////////////////////////////////
 	function bbacIsHotel(queryVal) {
-		$.getJSON("/ajax/ajx_typeahead.php", 
-					{ query: queryVal, action:"isHotel" }, 
+		$.getJSON("/ajax/ajx_typeahead.php",
+					{ query: queryVal, action:"isHotel" },
 					function(json){
 						if(json.status == 1) {
 							//hotel was found
 							window.location = "/"+ json.fUrl +"/htl/";
-						} else {		
+						} else {
 							//hote NOT found, push to search results page
 							window.location = "/search/results.php?searchTerm=" + queryVal.replace(' ', '+');
 						}
     				});
 	}
-	
+
 	function bbacSetOutputBoxHeight(foundCount) {
 		if(foundCount > outputBoxMaxItemsInWindow) {
 			$('#bbacHotelOutput').css('height',(outputBoxMaxItemsInWindow * outputBoxItemHeight) + 'px');
@@ -135,17 +138,17 @@ $(function() {
 			$('#bbacHotelOutput').css('height','');
 		}
 	}
-	
+
 	function bbacGetMatchingResults(queryVal) {
-		$.getJSON("/ajax/ajx_typeahead.php", 
-					{ query: queryVal, action:"getHotelList" }, 
+		$.getJSON("/ajax/ajx_typeahead.php",
+					{ query: queryVal, action:"getHotelList" },
 					function(json){
-						bbacSetOutputBoxHeight(json.foundCount);	
+						bbacSetOutputBoxHeight(json.foundCount);
 						$('#bbacHotelOutput').html(json.html);
     				});
 	}
-	
-	function bbacGetFriendlyURL(hotel, fUrl) {					
+
+	function bbacGetFriendlyURL(hotel, fUrl) {
 		hotelName = hotel;
 		if(fUrl.length <= 0) {
 			hotelName = hotelName.toLowerCase();
@@ -156,26 +159,25 @@ $(function() {
 			hotelName = hotelName.replace(/ -/g, '');
 			hotelName = hotelName.replace(/ /g, '-');
 			//hotelName = hotelName.replace(/'/g, '');
-			//hotelName = hotelName.replace(/,/g, '');			
+			//hotelName = hotelName.replace(/,/g, '');
 			return hotelName;
 		} else {
 			return fUrl;
 		}
-				
+
 	}
 	function bbacLoadingIndicator() {
 		$('#bbacHotelOutput').html('<img src="http://images.familyvacationcritic.com/loading_small_spinner.gif" border="0" />');
 		return false;
 	}
-	
+
   </script>
 <script type="text/javascript" src="/js/global.js"></script>
-<link rel="stylesheet" type="text/css" href="/css/global.css?ver=2" media="screen">
+<link rel="stylesheet" href="/css-a40ba863/global.css?ver=2" media="screen">
 <link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css" media="screen">
 
 <script type="text/javascript" src="/js/analytics.js"></script>
 <script type="text/javascript" src="/js/ajax.js"></script>
-<script type="text/javascript" src="/js/login.js"></script>
 <script type="text/javascript" src="/js/hotel_search_bar.js"></script>
 <script type="text/javascript" src="/js/popup.js"></script>
 
@@ -191,7 +193,41 @@ $(function() {
 <!-- AJAX library for Exact Target -->
 <script language="javascript" src="/js/exactTarget_ajax_soap.js"></script>
 <link rel="stylesheet" type="text/css" href="/css/exactTarget.css">
-<link rel="stylesheet" type="text/css" href="/css/aboutus.css" media="screen">
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script>
+googletag.cmd.push(function() {
+        var mapping_2 = googletag.sizeMapping().addSize([971,10], [728,90]).addSize([668,10], [728,90]).addSize([0,0], [320,50]).build();
+    googletag.defineSlot("/5349/ta.cc.fvc.com.s/articles", [320,50], "div-gpt-ad-QKG7SNVVMS-0")
+        .defineSizeMapping(mapping_2)
+        
+        .addService(googletag.pubads())
+        .setTargeting("pagetype", "").setTargeting("rd", "fvc").setTargeting("pos", "topleft");
+
+    
+    googletag.defineSlot("/5349/ta.cc.fvc.com.s/articles", [160,600], "div-gpt-ad-QKG7SNVVMS-1")
+        
+        
+        .addService(googletag.pubads())
+        .setTargeting("pagetype", "").setTargeting("rd", "fvc").setTargeting("pos", "right1");
+
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+});
+</script><link rel="stylesheet" type="text/css" href="/css/aboutus.css" media="screen">
 
 <script type="text/javascript">
 $(document).ready(function() {
@@ -218,34 +254,29 @@ $('.dropdown').click(function(){
 </head>
 <body>
 <div id="wrapper">
-	        <div id="ad">
-            <div class="floatLeft">
-            <iframe src="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/articles;pos=topleft;sz=728x90;dcopt=ist;tile=1;ord=1449457829;?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-                    <script language="JavaScript" src="http://ad.doubleclick.net/adj/ta.cc.fvc.com.s/articles;pos=topleft;sz=728x90;dcopt=ist;abr=!ie;tile=1;ord=1449457829;?" type="text/javascript"></script>
-                </iframe>
-                <noscript>
-                <a href="http://ad.doubleclick.net/jump/ta.cc.fvc.com.s/articles;pos=topleft;sz=728x90;dcopt=ist;abr=!ie4;abr=!ie5;abr=!ie6;tile=1;ord=1449457829;?" target="_blank"><img src="http://ad.doubleclick.net/ad/ta.cc.fvc.com.s/articles;pos=topleft;sz=728x90;dcopt=ist;abr=!ie4;abr=!ie5;abr=!ie6;tile=1;ord=1449457829?" width="728" height="90" border="0" alt=""></a>
-                </noscript>
-            </div>
-
-            <div class="floatRight" style="width:221px; overflow:hidden;">
-
-                <!-- START E-NEWSLETTER SIGN-UP FORM -->
-                <form class="newsletterSubscribeFrm" style="background-image: url(//images.familyvacationcritic.com/subscribe-now-topad.jpg)" analytics-name="family_fun_top_right">
-                    <fieldset>
-                        <label class="subscriberEmailLbl">Sign Up for Our Newsletter</label>
-                        <input type="text" name="subscriberEmail" class="subscriberEmail newsletterField emailExample" placeholder="Enter your e-mail" maxlength="100">
-                        <input type="submit" value="Go" class="topNewsletterSubmitBtn tertiary" name="newsletterSubmitBtn" data-loading-text="Saving...">
-                        <input type="hidden" id="siteOrigin" name="siteOrigin" value="fvc">
-                        <input type="hidden" id="pageReferer" name="pageReferer" value="top_right">
-                    </fieldset>
-                </form>
-                <!-- END E-NEWSLETTER SIGN-UP FORM -->
-
-            </div>
-
-            <br clear="all">
+	    <div id="ad">
+        <div class="floatLeft">
+            <div id="div-gpt-ad-QKG7SNVVMS-0"><script type="text/javascript">
+googletag.cmd.push(function() {
+    googletag.display("div-gpt-ad-QKG7SNVVMS-0");
+});
+</script></div>
         </div>
+        <div class="floatRight" style="width:221px; overflow:hidden;">
+            <!-- START E-NEWSLETTER SIGN-UP FORM -->
+            <form class="newsletterSubscribeFrm" style="background-image: url(//images.familyvacationcritic.com/subscribe-now-topad.jpg)" analytics-name="top_right">
+                <fieldset>
+                    <label class="subscriberEmailLbl">Sign Up for Our Newsletter</label>
+                    <input type="text" name="subscriberEmail" class="subscriberEmail newsletterField emailExample" placeholder="Enter your e-mail" maxlength="100">
+                    <input type="submit" value="Go" class="topNewsletterSubmitBtn tertiary" name="newsletterSubmitBtn" data-loading-text="Saving...">
+                    <input type="hidden" id="siteOrigin" name="siteOrigin" value="fvc">
+                    <input type="hidden" id="pageReferer" name="pageReferer" value="top_right">
+                </fieldset>
+            </form>
+            <!-- END E-NEWSLETTER SIGN-UP FORM -->
+        </div>
+        <br clear="all">
+    </div>
 	<div id="main">
 		
 <script type="text/javascript">
@@ -289,19 +320,10 @@ var hotelVersion = 'none';
 </div>
 
 		<div class="nav-top-right clearfix">
-			<div class="login">
-				<ul class="clearfix">
-										<li>
-						<a class="fvc_login" href="#" title="Sign In" data-ctype="Top Nav Click" data-sname="{label}">Sign In</a>
-						<span>|</span>
-						<a class="redText fvc_sign_up" title="Register for Free" style="cursor: pointer;" data-ctype="Top Nav Click" data-sname="{label}">Join</a>
-					</li>
-									</ul>
-			</div>
 			<div class="social">
 				<ul class="clearfix">
-					<li class="facebook"><a href="http://www.facebook.com/FamilyVacationCritic" target="_blank" data-ctype="Top Nav Click" data-sname="Facebook Icon" title="Follow Family Vacation Critic on Facebook"><i class="fa fa-facebook"></i></a></li>
-					<li class="twitter"><a href="http://www.twitter.com/FamilyVacation" target="_blank" data-ctype="Top Nav Click" data-sname="Twitter Icon" title="Follow FamilyVacation on Twitter"><i class="fa fa-twitter"></i></a></li>
+					<li class="facebook"><a rel="nofollow" href="http://www.facebook.com/FamilyVacationCritic" target="_blank" data-ctype="Top Nav Click" data-sname="Facebook Icon" title="Follow Family Vacation Critic on Facebook"><i class="fa fa-facebook"></i></a></li>
+					<li class="twitter"><a rel="nofollow" href="http://www.twitter.com/FamilyVacation" target="_blank" data-ctype="Top Nav Click" data-sname="Twitter Icon" title="Follow FamilyVacation on Twitter"><i class="fa fa-twitter"></i></a></li>
 					<li class="rss"><a href="/rss.php" target="_blank" data-ctype="Top Nav Click" data-sname="RSS Icon" title="Family Vacation Critic RSS"><i class="fa fa-rss"></i></a></li>
 				</ul>
 			</div>
@@ -314,13 +336,11 @@ var hotelVersion = 'none';
 
 		<div id="headerBar">
 			<div id="mainNav">
-<a href="/" title="Home" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">Home</a><a href="/family-vacations/" class="unselectedSection" title="Destinations" data-ctype="Top Nav Click" data-sname="{label}">Destinations</a><a href="/family-resorts/" title="Family Resorts" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">Resorts</a><a href="/vacation-rentals/" title="Vacation Rentals" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">Rentals</a><a href="/deals/" title="Family Vacation Deals" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">Deals</a><a href="/planning/" title="Planning" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">Planning</a><a href="/ideas/" title="Ideas" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">Ideas</a><a href="/forums/" title="Family Vacation Forums" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">Forums</a><a href="/news/" class="unselectedSection" title="News" data-ctype="Top Nav Click" data-sname="{label}">News</a><a href="/all-inclusive-vacations/ideas/" title="All-Inclusives" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">All-Inclusives</a></div>
+<a href="/" title="Home" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">Home</a><a href="/family-vacations/" class="unselectedSection" title="Destinations" data-ctype="Top Nav Click" data-sname="{label}">Destinations</a><a href="/family-resorts/" title="Family Resorts" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">Resorts</a><a href="/vacation-rentals/" title="Vacation Rentals" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">Rentals</a><a href="/deals/" title="Family Vacation Deals" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">Deals</a><a href="/planning/" title="Planning" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">Planning</a><a href="/ideas/" title="Ideas" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">Ideas</a><a href="/news/" class="unselectedSection" title="News" data-ctype="Top Nav Click" data-sname="{label}">News</a><a href="/all-inclusive-vacations/ideas/" title="All-Inclusives" class="unselectedSection" data-ctype="Top Nav Click" data-sname="{label}">All-Inclusives</a></div>
 		</div>
 	</div>
 
 </div> <!-- header close -->
-
-
 		<div id="breadCrumbs">
 			<div class="sectionTitle" style="padding-top: 10px"><h1>Privacy</h1></div>
 			<div id="breadCrumbLink">
@@ -363,6 +383,7 @@ var hotelVersion = 'none';
 	<li ddparent="dd5" class="level2 hide"><a id="art319" href="/editorial-disclaimer/abt/">Editorial Disclaimer</a></li>
 	<li ddparent="dd5" class="level2 hide"><a id="art19" href="/privacy/abt/">Privacy</a></li>
 	<li ddparent="dd5" class="level2 hide"><a id="art159" href="/community-guidelines/abt/">User Guidelines</a></li>
+        <li ddparent="dd5" class="level2 hide"><a id="art1046" href="/phishing-awareness/abt/">Phishing Awareness</a></li>
                                             
 <li><a id="art127" href="/careers/abt/">Careers</a></li><a id="art127" href="/careers/abt/">
                         
@@ -403,7 +424,11 @@ LauraS<br>
 Senior Manager, Community <br>
 Family Vacation Critic</div><br clear="all">		</div>
 		<div id="abtRightPanel">
-			<div id="skyscraperAd"><iframe src="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/articles;pos=right1;sz=160x600;tile=3;ord=1449457829;?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><script language="JavaScript" src="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/articles;pos=right1;sz=160x600;tile=3;ord=1449457829;?" type="text/javascript"></script></iframe><noscript><a href="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/articles;pos=right1;sz=160x600;tile=3;ord=1449457829;?" target="_blank"><img src="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/articles;pos=right1;sz=160x600;tile=3;ord=1449457829;?" width="160" height="600" border="0" alt=""></a></noscript></div>		</div>
+			<div id="div-gpt-ad-QKG7SNVVMS-1"><script type="text/javascript">
+googletag.cmd.push(function() {
+    googletag.display("div-gpt-ad-QKG7SNVVMS-1");
+});
+</script></div>		</div>
 		<div class="spacer"> </div>
 	</div>
 
@@ -415,7 +440,8 @@ Family Vacation Critic</div><br clear="all">		</div>
 				<i class="fa fa-envelope-o"></i> Subscribe Now
 			</label>
 			<div id="footer-newsletter-control">
-				<input type="text" id="footer-newsletter-input"><button type="submit" id="footer-newsletter-button">Go</button>
+				<input type="hidden" name="pageReferer" value="FVC Footer">
+				<input type="text" name="subscriberEmail" id="footer-newsletter-input"><button type="submit" id="footer-newsletter-button">Go</button>
 			</div>
 			<div class="description">Subscribe to our mailing list to get deals<br class="mobile-only"> and saving tips.</div>
 		</form>
@@ -423,8 +449,8 @@ Family Vacation Critic</div><br clear="all">		</div>
 	</div>
 	<div id="footer-social" class="social clearfix">
 		<ul>
-			<li class="facebook"><a href="http://www.facebook.com/FamilyVacationCritic" target="_blank" data-ctype="Footer Click" data-sname="Facebook Icon" title="Follow Family Vacation Critic on Facebook"><i class="fa fa-facebook"></i></a></li>
-			<li class="twitter"><a href="http://www.twitter.com/FamilyVacation" target="_blank" data-ctype="Footer Click" data-sname="Twitter Icon" title="Follow FamilyVacation on Twitter"><i class="fa fa-twitter"></i></a></li>
+			<li class="facebook"><a rel="nofollow" href="http://www.facebook.com/FamilyVacationCritic" target="_blank" data-ctype="Footer Click" data-sname="Facebook Icon" title="Follow Family Vacation Critic on Facebook"><i class="fa fa-facebook"></i></a></li>
+			<li class="twitter"><a rel="nofollow" href="http://www.twitter.com/FamilyVacation" target="_blank" data-ctype="Footer Click" data-sname="Twitter Icon" title="Follow FamilyVacation on Twitter"><i class="fa fa-twitter"></i></a></li>
 			<li class="rss"><a href="/rss.php" target="_blank" data-ctype="Footer Click" data-sname="RSS Icon" title="Family Vacation Critic RSS"><i class="fa fa-rss"></i></a></li>
 		</ul>
 		<div class="description">Follow Us</div>
@@ -485,8 +511,31 @@ s.pageName="";
 s.channel="";
 s.hier1="";
 s.events="";
-
 s.eVar39="Direct";
+
+if (typeof tPixel !== 'undefined' && tPixel.isNewImpression()) {
+    s.eVar42 = 'Dateless Entry';
+    var entry_date = {};
+    entry_date.dated_in = readCookie('fvcCheckInDate');
+    entry_date.dated_out = readCookie('fvcCheckOutDate');
+    if (entry_date.dated_in !== null && entry_date.dated_out !== null) {
+        entry_date.date_today = new Date();
+        entry_date.date_today.setHours(0);
+        entry_date.date_today.setMinutes(0);
+        entry_date.date_today.setSeconds(0);
+        entry_date.date_today.setHours(0);
+        entry_date.dated_in = new Date(entry_date.dated_in);
+        entry_date.dated_out = new Date(entry_date.dated_out);
+        if (entry_date.dated_in != 'Invalid Date' &&
+            entry_date.dated_out != 'Invalid Date' &&
+            entry_date.dated_in >= entry_date.date_today &&
+            entry_date.dated_out > entry_date.dated_in) {
+            s.eVar42 = 'Dated Entry';
+        }
+    }
+    entry_date = null;
+}
+
 
 //Optimizely SiteCatalyst Integration
 window.optimizely = window.optimizely || [];
@@ -540,21 +589,6 @@ var _gaq = _gaq || [];
 
 </script>
 
-<!-- Setup AddThis events for GA -->
-<script type="text/javascript">
-   var addthis_config = {
-      data_ga_tracker: _gaq,
-	  data_track_clickback: true
-   };
-</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=familyvacationcritic"></script>
-
-<script type="text/javascript">
-try {
-	_gat.fixTimeouts();
-} catch(e) {}
-</script>
-
 
 <!-- Google Code for Broad Remarketing List -->
 <script type="text/javascript">
@@ -591,8 +625,6 @@ var google_remarketing_only = true;
 </div>
 </noscript>
 
-<script async="" type="text/javascript" src="//www.hipegg.com/js/familyvacationcritic.com/"></script>
-
 <!-- Google Code for FamilyVactionCritic MCC Conversion Pixel Conversion Page
 In your html page, add the snippet and call
 goog_report_conversion when someone clicks on the
@@ -622,26 +654,5 @@ if (typeof(conv_handler) == 'function')
 <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5064356"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
 <noscript><img src="//bat.bing.com/action/0?ti=5064356&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
 
-<link rel="stylesheet" type="text/css" href="/css/login.css" media="screen">
 
-<!-- Required for Facebook init -->
-<div id="fb-root"></div>
-
-<div id="login_popup_container"></div>
-
-<div id="login_signing_in_popup"></div>
-
-<div id="login_signing_up_popup"></div>
-
-<script type="text/javascript" src="/js/login.js"></script>
-
-<script>
-    // create and intialize Login JS object
-    var login_object = Object.create(Login);
-    login_object.init('175999065896227');
-</script>
-
-<!-- These hidden divs are here because when we include this on the forums, we send a 'click' trigger to the login div, so the div must exist somewhere for that to work -->
-<div class="fvc_login" style="display: none;"></div>
-<div class="fvc_sign_up" style="display: none;"></div>
 </body></html>
