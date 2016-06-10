@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritlabs.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226164840id_/https%3A//www.ritlabs.com/en/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritlabs.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610171219id_/https%3A//www.ritlabs.com/en/privacy/index.php) for the most accurate reproduction.*
 
 # Ritlabs, SRL Privacy Policy
 
