@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the salesgravy.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211172356id_/https%3A//www.salesgravy.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesgravy.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610201841id_/https%3A//www.salesgravy.com/privacy-statement) for the most accurate reproduction.*
 
 # Sales Jobs Community – Advance Your Sales Career
+
+### We respect your privacy!
 
 Any and all the information collected on SalesGravy.com will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned. 
 
@@ -8,6 +10,8 @@ Any information you provide will be held with the utmost care and will not be us
 
 Phone: 1-706-664-0810  
 Email: gethelp@salesgravy.com 
+
+### Privacy and Security Notice
 
 The Internet contains a wealth of information. Unfortunately, it may also contain personal details about you that you don't want everyone to know. For example, your real name (lots of people on the Internet use aliases, alter egos or nicknames), street address, phone number, or e-mail address. Also, when you go online, sites you visit may be gathering information about you without your knowledge. 
 
