@@ -1,180 +1,74 @@
-> *The following text is extracted and transformed from the dstore.com.au privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919222639id_/https%3A//dstore.com.au/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dstore.com.au privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610160610id_/http%3A//www.netfleet.com.au/privacy.php) for the most accurate reproduction.*
 
-# dstore.com.au Help: Privacy Policy
+# Privacy Policy - Buy & Sell Domains | Netfleet: Australia's No.1 Domain Name Trading Platform
 
-This Privacy Policy sets out the approach which dstore will take in relation to the treatment of Personal Information. It includes information on how dstore collects, uses, discloses and keeps secure, individuals' Personal Information. It also covers how dstore makes the Personal Information it holds available for access to and correction by the individual. 
+## Privacy Policy
 
-This policy has been drafted having regard to dstore's obligations under the Privacy Act 1988 (including the new National Privacy Principles) (the Privacy Act).   
-This Policy is a public document and has been prepared in light of National Privacy Principle 5, Openness. 
+The privacy of any personal information you provide is extremely important to us. The following privacy policy governs the collection and use of your personal information by Netfleet. This privacy policy sets out how we are committed to respect your rights to privacy in accordance with the National Privacy Principles contained in the Privacy Act 1988.
 
-### **1\. Collection**
+#### How do we collect personal information?
 
-1.1 dstore will only collect Personal Information where the information is necessary for dstore to perform one or more of its functions or activities. In this context, "collect" means gather, acquire or obtain by any means, information in circumstances where the individual is identifiable or identified. 
+  * We may collect personal information from you directly by telephonenumber, facsimile, email, post or frequently via our website. We may also receive information via an intermediary, a company with which we may have a relationship such as a domain services company.
 
-1.2 dstore collects Personal Information primarily to supply customers with the products and services ordered from it and its related companies. dstore also collects and uses Personal Information for secondary purposes including: 
 
-    1. billing and account management 
-    2. business planning and product development; and 
-    3. to provide individuals with information about promotions, as well as the products and services of dstore affiliated companies and other organisations. 
-    4. to enhance the online shopping experience by displaying products and/or services that match the personal preferences of individuals based on their previous website browsing history and/or buying activity. 
 
+####   
+What types of personal information do we collect?
 
+  * We collect personal information about you to enable us to provide the best possible service in relation to your domain name needs. The types of personally identifiable information that we may collect include your name, address, telephonenumber number and ABN. 
 
-1.3 dstore will not collect Sensitive Information from individuals except with consent and only where it is necessary for dstore to collect such information for an activity or function. 
+When we request your personal information, we will endeavour to specify which information we require for our purposes and which information may be provided at your option. You may choose not to supply any optional information requested by us but our ability to assist you may be restricted.
 
-1.4 dstore will not collect Personal Information secretly or in an underhanded way. 
 
-1.5 dstore will take steps to ensure that individuals on purchased lists are or have been notified of the information as outlined at 1.3. 
 
-### **  
-2\. Use**
 
-2.1 dstore will obtain an individual's consent for Use of non-sensitive Personal Information for Secondary Purposes at the time of collection, unless the Use is a related Secondary Purpose which would be within the relevant individual's Reasonable Expectations. 
+#### How do we use your personal information?
 
-2.2 dstore Uses Personal Information primarily for the purposes listed in 1.2 above. 
+  * We use your personal information for the following purposes: - to complete a transaction to which the provision of that personal information relates, such as the completion of order forms to communicate information about our products and services to you, for our internal administrative, marketing, planning, product development and research requirements to conduct our day to day business such as the sale of a domain name and transfer requirements. 
 
-2.3 If dstore relies on the Direct Marketing exception to Direct Market to individuals it will ensure that: 
+At any time you may opt out of receiving any communications from us. If you wish to opt out of receiving communications from us please contact us using the information at the end of this document.
 
-    1. the individual is clearly notified of their right to Opt Out from further Direct Marketing; 
-    2. there is only one Use of the information before the Opt Out right is given and this Use applies across all dstore Related Bodies Corporate (if the information is shared between those Related Bodies Corporate); 
-    3. the individual is given an Opt Out in all further instances of Direct Marketing if they have not previously chosen to Opt Out; and 
-    4. if the individual Opts Out of all Direct Marketing the Opt Out will be respected by dstore and all its Related Bodies Corporate. 
 
 
 
-2.4 dstore will not use Sensitive Information for Direct Marketing. 
+#### Do we ever disclose your personal information to others?
 
-2.5 dstore may use Personal Information to avoid an imminent threat to a person's life or to public safety. It may also use Personal Information for reasons related to law enforcement or internal investigations into unlawful activities. 
+  * We do not sell our client lists to third parties. We may disclose personal information to third parties in the following circumstances: 
 
-2.6 dstore will not use Personal Information without taking reasonable steps to ensure that the information is accurate, complete and up to date. 
+1) When explicitly instructed to do so by yourself 2) As required to effect a domain name transfer or other service where required 3) As part of a promotion you may have entered (eg expired domain report) 
 
-###   
-**3\. Disclosure**
+Otherwise, we do not disclose personal information unless we are required to do so by law or regulation.
 
-3.1 dstore may Disclose Personal Information to related or unrelated third parties if consent has been obtained from the individual. This will include obtaining the individual's consent for Disclosures made under the credit reporting requirements of the Privacy Act. 
 
-3.2 dstore may Disclose Personal Information between Related Bodies Corporate. Where information is Disclosed to such a Related Body Corporate, that Related Body Corporate is bound by the original Primary Purpose for which the information was collected. 
 
-3.3 dstore may Disclose Personal Information to unrelated third parties to enable outsourcing of functions (such as billing, customer relations management and order fulfillment), where that is Disclosure or Use for a related Secondary Purpose and has been notified to individuals or where such Disclosure is within the individual's Reasonable Expectations. 
 
-3.4 dstore will take reasonable steps to ensure that its contracts with third parties include requirements for third parties to comply with the Use and Disclosure requirements of the Privacy Act. 
+#### What rights do you have to access your personal information?
 
-3.5 dstore may Disclose Personal Information to law enforcement agencies, government agencies, courts or external advisers where permitted or required by law. 
+  * At any time, you may ask us to provide you with a list of the personal information we hold about you, and copies of that personal information. We will endeavour to provide you with the data within 30 days of receiving your request. 
 
-3.6 dstore may Disclose Personal Information to avoid an imminent threat to a person's life or to public safety. 
+If you believe for any reason that we are holding inaccurate or incomplete data about you, you may ask us to correct it. We will consider if the information requires amendment. If we do not agree that there are grounds for amendment, then we will add a note to the personal information stating that you disagree with it.
 
-3.7 If a Disclosure is not for a Primary Purpose; is not for a related Secondary Purpose; or upfront consent has not been obtained, dstore will not Disclose Personal Information otherwise than in accordance with the exceptions set out at 3.1 to 3.6 above. 
 
-3.8 dstore does not generally sell or share its customer lists on a commercial basis with third parties but if it did, it would only do so if we had the appropriate consent of the individual involved. If the consent provided is conditional, dstore will take steps to ensure (by contract) that the use of its customer list by third parties does not exceed the scope of the consent. 
 
-###   
-**4\. Information Quality**
 
-4.1 dstore will review, on a regular and ongoing basis, its collection and storage practices to ascertain how improvements to accuracy can be achieved. 
+#### How do we store your personal information?
 
-4.2 dstore will take steps to destroy or de-identify Personal Information after as short a time as possible and after a maximum of seven years from the date of the last customer interaction, unless the law requires otherwise. 
+  * We take all reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification or exposure. We require all staff to maintain the confidentiality of customer information. Access to information stored electronically is restricted to employees whose job requires access to the information. Access to our computer systems is restricted through password protection.
 
-###   
-**5\. Information Security**
 
-5.1 dstore requires employees and contractors to perform their duties in a manner that is consistent with dstore's legal responsibilities in relation to privacy. 
 
-5.2 dstore will take all reasonable steps to ensure that paper and electronic records containing Personal Information are stored in facilities that are only accessible by people within dstore who have a genuine "need to know" as well as "right to know". 
+#### Whois Policy
 
-5.3 dstore will review, on a regular and ongoing basis, its information security practices to ascertain how ongoing responsibilities can be achieved and maintained. 
+  * When a domain name is registered, certain information is collected for use on the WHOIS service. The WHOIS service allows internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA’s WHOIS policy at http://www.auda.org.au/whois which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data.
 
-###   
-**6\. Access and Correction**
 
-6.1 dstore will allow its records containing Personal Information to be accessed by the individual concerned in accordance with the Privacy Act. 
 
-6.2 dstore will correct its records containing Personal Information as soon as practically possible, at the request of the individual concerned in accordance with the Privacy Act. 
+As you browse this website and other websites, online ad networks we work with may place anonymous cookies on your computer, and use similar technologies, in order to understand your interests based on your (anonymous) online activities, and thus to tailor more relevant ads to you.   If you do not wish to receive such tailored advertising, you can visit this page to opt out of most companies that engage in such advertising.  (This will not prevent you from seeing ads; the ads simply will not be delivered through these targeting methods.) 
 
-6.3 Individuals wishing to lodge a request to access and/or correct their Personal Information should do so by contacting dstore Customer Service, as per the details on the website. 
+#### How can we be contacted?
 
-6.4 dstore can charge a fee for processing an access request but will generally not do so unless the request is complex or is resource intensive. 
+  
+You can make any requests relating to your personal information held by us by contacting any member of staff via our [Contact Us](https://web.archive.org/index.php?a=contact "Contact Us") form.
 
-###   
-**7\. Openness**
-
-7.1 dstore Customer Service representatives will be the first point of contact for inquiries about privacy issues. Individuals wishing to make an inquiry or complaint regarding privacy, should do so by contacting dstore Customer Service, as per the details on the dstore website. 
-
-7.3 dstore websites will contain a prominently displayed privacy statement and will include a copy of this dstore Privacy Policy. 
-
-###   
-**8\. Anonymous Transactions**
-
-8.1 dstore will not make it mandatory for visitors to its web sites to provide Personal Information unless such Personal Information is required to answer an inquiry or provide a service. dstore may however request visitors to provide Personal Information voluntarily to dstore (for example, as part of a competition or questionnaire). 
-
-### **  
-9\. Transferring Personal Information Overseas**
-
-9.1 dstore will take reasonable steps to limit the amount of Personal Information it sends to unrelated organisations overseas. 
-
-9.2 If Personal Information must be sent by dstore overseas for sound business reasons, dstore will require the overseas organisation receiving the information to provide a binding undertaking that it will handle that information in accordance with the National Privacy Principles, preferably as part of the services contract. 
-
-### **  
-10\. Glossary**
-
-_Collection Information_ means the information outlined in 1.3 notified to individuals prior to, or as soon as practical after, the collection of their Personal Information. 
-
-_Direct Marketing_ means the marketing of goods or services through means of communication including written, verbal or electronic means. The goods or services which are marketed may be those of dstore or a Related Body Corporate or those of an independent third party organisation. 
-
-_Disclosure_ generally means the release of information outside dstore , including under a contract to carry out an "outsourced function". 
-
-_Health Information_ means: 
-
-    1. information or an opinion about: 
-      1. the health or a disability (at any time) of an individual; or 
-      2. an individual's expressed wishes about the future provision of health services to him or her; or 
-      3. a health service provided or to be provided to an individual; that is also personal information; or 
-    2. other personal information collected to provide or in providing a health service; or 
-    3. other personal information about an individual collected in connection with the donation; or intended donation by the individual of his or her body parts or body substances. 
-
-
-
-_Opt Out_ means an individual's expressed request not to receive further Direct Marketing. 
-
-_dstore_ means all companies in the dstore group, including DSIP Pty Limited and HotShed Ltd. 
-
-_Personal Information_ means information or an opinion (including information or an opinion forming part of a database), whether true or not and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained from the information or opinion. 
-
-_Primary Purpose_ is the dominant or fundamental reason for information being collected in a particular transaction. 
-
-_Reasonable Expectation_ means a reasonable individual's expectation that their personal information might be Used or Disclosed for the particular purpose. 
-
-_Related Body Corporate_ means that where a body corporate is: 
-
-    * a holding company of another body corporate; 
-    * a subsidiary of another body corporate; or 
-    * a subsidiary of a holding company of another body corporate, 
-
-
-
-the first mentioned body corporate and the other body corporate are deemed to be related to each other. 
-
-_Sensitive Information_ means: 
-
-    1. information or an opinion about an individual's: 
-      1. racial or ethnic origin; or 
-      2. political opinions; or 
-      3. membership of a political association; or 
-      4. religious beliefs or affiliations; or 
-      5. philosophical beliefs; or 
-      6. membership of a professional or trade association; or 
-      7. membership of a trade union; or 
-      8. sexual preferences or practices; or 
-      9. criminal record;   
-that is also personal information or 
-    2. Health Information about an individual. 
-
-
-
-_Use_ means the handling of Personal Information within dstore. 
-
-### **  
-Contacting dstore**
-
-If you require further information regarding dstore's Privacy Policy, you can contact dstore Customer Service Centre by clicking [**here.**](http://dstore.com/contact/)
-
-Alternatively you can call toll-free on 1800 378 673; or international +61 7 3846 4141.[](mailto:privacy@dstore.com)
+  
+﻿ 
