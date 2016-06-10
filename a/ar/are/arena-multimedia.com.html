@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the arena-multimedia.com privacy policy that was archived on 2015-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209200313id_/http%3A//www.arena-multimedia.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arena-multimedia.com privacy policy that was archived on 2016-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610194149id_/http%3A//www.arena-multimedia.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -22,8 +22,8 @@
 <script type="text/javascript">
             jQuery(document).ready(function($) {    
               $('#banner-fade').bjqs({
-                height      : 280,
-                width       : 682,
+                height      : 335,
+                width       : 698,
                 responsive  : true
               });    
             });
@@ -91,6 +91,7 @@
     }
     var cId = "";
     function getCenterAddress() {
+     initializeMap();
     //var divSendSms='<div class="sms_container">';
        // divSendSms +='<div id="dSendSms"><a href="javascript:void(0)" onClick="open_sms()"></a></div>';    
         loc = "";
@@ -209,7 +210,19 @@
 
    // var markerArray = [];
    function initializeMap() {
-        //alert(loc);
+   if (document.getElementById('selState').value !="SELECT STATE" && document.getElementById('selState').value !="16" )
+   {
+       document.getElementById('divdefault').style.display='none';
+          document.getElementById('map_canvas').style.display='block';
+                   document.getElementById('dispFullAddress').style.display='block';
+   }
+   else
+   {
+   document.getElementById('map_canvas').style.display='none';
+          document.getElementById('divdefault').style.display='block';
+          document.getElementById('dispFullAddress').style.display='none';
+
+   }
         //alert("fghgf");
         var location = loc.split("|*|");
         var lenLocation = location.length;
@@ -1346,27 +1359,27 @@ ul.placement_list li{padding:5px;margin:0 3px 5px 2px;float:left;font:normal 12p
 </style>
  <div class="our-recruiters">
  <h2><a href="placement-assistance.aspx" title="PLACEMENTS" hidefocus="true" style="outline: none;">PLACEMENTS</a></h2>
- <p class="txt13"><strong>Record-breaking job placements in 2014</strong></p>
- <p class="highlight_txt">10,000+ Arena students placed in top companies across India!</p>
+ <!--<p class="txt13"><strong>Record-breaking job placements in 2014</strong></p>-->
+ <p class="highlight_txt">Arena students placed in top companies across India!</p>
  </div> 
  <a href="placement-assistance.aspx" title="View More Recruiters" hidefocus="true" style="outline: none;"> 
  <div class="recruiters-corousel" style="padding-left:4px !important;margin-bottom:10px;"> 
   <div class="placementdivarea">
        <ul class="placement_list">
-         <li class="darkRed txt15">Aaj Tak</li>
-         <li class="darkYellow">Amazon</li>
-         <li class="darkPurple">Colors</li>
-         <li class="lightBlue">Flipkart</li>
-         <li class="red">Red FM</li>
-         <li class="cyan">Myntra</li>
-         <li class="brown">OLX.in</li>
-         <li class="purple">TCS</li>         
-         <li class="drk_green txt15">Prime Focus</li>
-         <li class="darkPurple">Filament</li>
-         <li class="red">Tech Mahindra</li>
-         <li class="brown">Zee TV</li>
+         <li class="darkRed txt15">Google</li>
+         <li class="darkYellow">L&amp;T</li>
+         <li class="darkPurple">Accenture</li>
+         <li class="lightBlue">TCS</li>
+         <li class="red">Red Chillies Entertainment</li>
+         <li class="cyan">Amazon</li>
+         <li class="brown">Flipkart</li>
+         <li class="purple">Jabong</li>         
+         <li class="drk_green txt15">T Series</li>
+         <li class="darkPurple">Zee TV</li>
+         <li class="purple">99acres.com</li>
+         <li class="brown">Prime Focus</li>
          <li class="red">Times of India</li>
-         <li class="lightBlue">123Greetings</li>
+        
        </ul>         
   </div>
   </div>  
@@ -1550,7 +1563,7 @@ var l2sontxt='LIVE CHAT';var l2sofftxt='LIVE CHAT'; var l2s_pht=escape(location.
                         <span class="inputfild">
 
 <select class="dropdown" title="search by location" name="selStateFooter" id="selStateFooter" onchange="getFooterCity('footerState')">
-<option value="ANDHRA PRADESH">ANDHRA PRADESH</option><option value="ASSAM">ASSAM</option><option value="BIHAR">BIHAR</option><option value="CHHATISGARH">CHHATISGARH</option><option value="Delhi-NCR">Delhi-NCR</option><option value="GUJARAT">GUJARAT</option><option value="HARYANA">HARYANA</option><option value="HIMACHAL PRADESH">HIMACHAL PRADESH</option><option value="JAMMU and KASHMIR">JAMMU and KASHMIR</option><option value="JHARKHAND">JHARKHAND</option><option value="KARNATAKA">KARNATAKA</option><option value="KERALA">KERALA</option><option value="MADHYA PRADESH">MADHYA PRADESH</option><option value="MAHARASHTRA">MAHARASHTRA</option><option value="MEGHALAYA">MEGHALAYA</option><option value="ODISHA">ODISHA</option><option value="PUNJAB">PUNJAB</option><option value="RAJASTHAN">RAJASTHAN</option><option value="TAMIL NADU">TAMIL NADU</option><option value="Telangana">Telangana</option><option value="UTTAR PRADESH">UTTAR PRADESH</option><option value="UTTARAKHAND">UTTARAKHAND</option><option value="WEST BENGAL">WEST BENGAL</option>
+<option value="ANDHRA PRADESH">ANDHRA PRADESH</option><option value="ASSAM">ASSAM</option><option value="BIHAR">BIHAR</option><option value="CHHATISGARH">CHHATISGARH</option><option value="Delhi-NCR">Delhi-NCR</option><option value="GUJARAT">GUJARAT</option><option value="HARYANA">HARYANA</option><option value="JAMMU and KASHMIR">JAMMU and KASHMIR</option><option value="JHARKHAND">JHARKHAND</option><option value="KARNATAKA">KARNATAKA</option><option value="KERALA">KERALA</option><option value="MADHYA PRADESH">MADHYA PRADESH</option><option value="MAHARASHTRA">MAHARASHTRA</option><option value="MEGHALAYA">MEGHALAYA</option><option value="ODISHA">ODISHA</option><option value="PUNJAB">PUNJAB</option><option value="RAJASTHAN">RAJASTHAN</option><option value="TAMIL NADU">TAMIL NADU</option><option value="TELANGANA">TELANGANA</option><option value="UTTAR PRADESH">UTTAR PRADESH</option><option value="UTTARAKHAND">UTTARAKHAND</option><option value="WEST BENGAL">WEST BENGAL</option>
  
         </select>
                         <!--<select class="dropdown" title="dropdown box">
@@ -1726,6 +1739,13 @@ function ShowPopup()
     }
 }
 </script>
+
+
+<div>
+
+</div>
+
+
 
 </footer>
 <script type="text/javascript">
