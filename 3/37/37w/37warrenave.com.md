@@ -1,122 +1,104 @@
-> *The following text is extracted and transformed from the 37warrenave.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810220123id_/http%3A//www.homefinder.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 37warrenave.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610080319id_/http%3A//37warrenave.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# HomeFinder.com :: Company :: Privacy Policy
+# 37 Warren Ave - Privacy Policy
 
-| 
+AllYourwants2.com and its affiliates (collectively, “ **Company** ” or “ **we”** ) respect the privacy of the users of this Site ( **“User** ” or **“you** ”) and are committed to protect the information of its Users. We believe that you have a right to know our practices regarding the information we may collect, use and disclose when you visit our website. The guidelines contained herein apply to your visit or use of the Site.
 
-This web site (the " **Site** ") is operated by HomeFinder.com (" **HomeFinder.com** "). The Privacy Policy that follows (the " **Policy** ") describes HomeFinder.com's collection, use and disclosure of information practices in connection with the Site. This Policy applies to the national version of the Site, located at www.HomeFinder.com, as well as to any other versions or pages of the Site that HomeFinder.com operates, including mobile versions and pages that HomeFinder.com co-brands or private labels with its newspaper and broadcast affiliates and other partners (collectively, " **Affiliates** "). For example, you may have arrived at a co-branded version of the Site from an Affiliate's web site, in which case, that Affiliate will be identified at the top of the home page of this Site. In this Policy HomeFinder.com may refer to those versions of the Site as an " **Affiliate Version**." Please be aware that HomeFinder.com may share any information you submit through this Site with Affiliates, as described below. During your visit to any Affiliate Version, the Affiliate may independently collect other information from you. 
+**1. Acceptance of the Policy**
 
-This Policy does not describe HomeFinder.com's collection, use, and disclosure of information through means other than this Site (e.g., offline) or the collection, use, and disclosure practices of any third party, including Affiliates. For information on a third party's information collection, use, and disclosure practices, please review the privacy policy on the applicable third party's web site. Also, please note that this Site contains links to other web sites. HomeFinder.com is not responsible for the web sites, content or privacy practices of any third party, including Affiliates. By using this Site, you acknowledge that you have read this Policy and agree that you are subject to the provisions of this Policy and the HomeFinder.com Terms of Use located at the following URL: [http://www.HomeFinder.com/company/terms](http://www.homefinder.com/company/terms), in each case without modification. If you do not accept any portion of this Policy or the Terms of Use, your only option is not to use the Site.
+  **PLEASE READ CAREFULLY** : BY ACCESSING AND/OR USING THE SITE, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY, INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT USE THE SITE.
 
-Collection of Personally Identifiable Information
+**2. Which information we may collect on our Users?**
 
-You are not required to provide any personally identifiable information to visit the Site. HomeFinder.com automatically collects Usage Data (as described below) and may collect ZIP codes and other information in connection with your use of the Site (e.g., the type of property you are looking for, the areas in which you are conducting any property search, etc.). HomeFinder.com collects personally identifiable information on the Site only when you make it available through your use of the Site. You may be required to provide personally identifiable information to use certain services on this Site. In addition, you may submit personally identifiable information through the Site in other ways, including: (a) participating in online surveys, promotions, contests and/or sweepstakes; (b) subscribing to newsletters, editorial content, and/or promotional content sent via email; (c) in connection with other products, services, features, and/or requests made available through the Site; and (d) submission of purchase and/or billing related information including credit card numbers. The types of personally identifiable information collected will depend on the nature of the submission or the features of the Site used, but could include your name, address, phone number, email address and credit card information. In the event that you purchase an ad in a print/online package through a newspaper Affiliate, the Affiliate is required to share your name, phone number and email address with HomeFinder.com in order to allow HomeFinder.com to process, maintain, and contact you regarding your ad. 
+ We collect two types of data and information:
 
-Usage Data Collection
+a. The first type of information is collected regardless of whether the User has registered the Site or is visiting the Site anonymously, and consists of non-identifiable and anonymous information (“ **Non-personal Information** ”).   
+To put it simply, we have no idea what is the identity of the User from which we have collected the Non-personal Information. Non-personal Information which is being gathered consists of technical information and behavioral information, as detailed below:
 
-The Site automatically collects passive information and may also customize your visit through technical means, including the following: 
+**Technical information:**
 
-**Cookies** : Cookies are small text files that are placed on your computer's hard drive by computers (or servers) to identify your computer.
-
-**Web Beacons** : Web beacons (also known as pixel tags, Internet tags, clear GIFs, or single-pixel GIFs) are electronic images embedded into a web page.
-
-**IP Address Logs** : HomeFinder.com also logs Internet Protocol (IP) addresses �the location of your computer on the Internet.
-
-Cookies allow HomeFinder.com to recognize you when you visit the Site, to personalize your experience and generally to serve you better. For example, if you enter your name, address or ZIP code on one of the Site's forms, it may be stored in a cookie so you do not have to enter it again on other forms on the Site. Cookies and web beacons can tell us what advertising you have seen on the Site, which allows HomeFinder.com to offer you a more diverse selection of advertising information and may also be used together to measure the effectiveness of HomeFinder.com advertising campaigns. Cookies, web beacons and IP addresses are also used to compile data regarding Site usage (what web site you came from, what pages of the Site you visit, how long you were on the Site, what type of browser you are using, what web site did you go to, etc.). Web beacons may also be included in emails sent by HomeFinder.com to determine when and if such emails are opened or forwarded. You may disable cookies or otherwise manage them through tools provided with your browser software and with third-party software packages. If you turn off cookies, many of the Site's features will not work as well or at all. Anonymous information regarding usage of the Site and services that is collected and/or aggregated by or on behalf of HomeFinder.com through the use of such technical means or otherwise is referred to in this Policy as " **Usage Data**."
-
-Information Use
-
-**Personally Identifiable Information** : Personally identifiable information collected by HomeFinder.com through your use of the Site may be stored on servers or in a cookie on your computer and may be used by HomeFinder.com for any of the following purposes:
-
-  * To confirm, fulfill, or follow-up a request that you make or to communicate with you regarding the HomeFinder.com service. 
-  * To contact you by e-mail regarding account status, changes to any account agreement, and/or to confirm account registration. In addition, if you provide your email address or other contact information in connection with a request for product information, HomeFinder.com, an advertiser, affiliate, partner and/or other third party or parties, as applicable, may use that information to contact you. 
-  * To send promotional materials, newsletters, or other content via email or otherwise, unless you have indicated that you do not wish to receive such materials. 
-  * To permit third parties to whom HomeFinder.com may disclose personally identifiable information specifically for direct marketing purposes to send you promotional or informational messages, but only if you have first affirmatively agreed to receive such messages. 
-  * To improve your user experience and/or to measure interest in various areas of the Site.
-  * To manage its relationships with Affiliates, customers, and other third parties to which HomeFinder.com may disclose personally identifiable information pursuant to this Policy. 
-  * To facilitate Site administration, analysis, research, reporting, development, optimization and other internal purposes, including, without limitation, to compile Usage Data. 
+  * Type of operation system _(e.g. Windows, Linux, etc.)_
+  * Type of Browser _(e.g. Explorer, Firefox, Chrome, Safari, etc.)_
+  * Screen resolution _(e.g. 800x600, 1024x768, etc.)_
+  * Browser and keyboard language ( _e.g. English_ )
+  * IP Address.
+  * The domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to the Site.
+  * The date and time you access the Site and pages you visit.
+  * Any Similar technical information. 
 
 
 
-**Usage Data** : Usage Data is used by HomeFinder.com for administrative, analytical, research, optimization and other purposes. For example, HomeFinder.com may use statistical analyses of Usage Data in order to measure interest in the various areas of the Site, for development purposes and to inform advertisers and partners in aggregate and anonymous terms about consumers who click on their advertising or other messages. IP Addresses are also used for systems administration and for related troubleshooting purposes.
+**Behavioral information:**
 
-With respect to promotional materials and newsletters that HomeFinder.com may send via email from time to time, HomeFinder.com will not continue to send you such communications if you ask us not to. However, you agree that HomeFinder.com may send to you, and you cannot opt out of, communications of a transactional or relationship nature, including, but not limited to, communications regarding fraudulent or illegal activity, account status, changes to this Policy or the HomeFinder.com Terms of Service, as well as communications to confirm, fulfill, and follow up on your registration, service, or a request submitted through the Site. 
+  * The clicks, mouse movements and similar information with regard to the User's session _(e.g. the fact that User has chosen to click on a certain link or access a certain webpage)_. Please be advised that such information shall be deleted within approximately thirty (30) days after your visit to the Site. 
+  * We use a third-party web analytics service to gather and monitor behavioral information. You must read and agree to the Privacy Policy of the provider of the web analytics service we use on the Site, at the address [<http://www.clicktale.com/privacy_service.aspx>].
 
-Information Sharing
 
-HomeFinder.com may share personally identifiable information that you provide with third parties in the following cases:
 
-**Affiliates.** HomeFinder.com may share personally identifiable information with its Affiliates on the condition that the Affiliates' disclosure and use of such information is consistent with all applicable laws, rules, and regulations and this Policy. 
+b. The other type of information is individually identifiable information (" **Personal Information** "). To put it simply, this information may identify an individual or is of a private and/or sensitive nature. Personal Information which is being gathered consists of any personal details provided voluntarily by the User (e.g. User's name, email address, author bio etc.) mainly by registration to the Site. We also treat any email you may send to us as Personal Information.
 
-**Requests.** HomeFinder.com maintains relationships with third party providers for some of the products and services offered through the Site. If you request information or services through the Site, you agree that HomeFinder.com may share personally identifiable information with third parties as may be necessary to provide such information to or perform such services for you. For example, if you request information about a property advertised on the Site, HomeFinder.com will share the information collected through such request with the owner(s) and/or agent(s) for property (or applicable designee) and any other parties providing that listing (e.g., if a third party real estate company or real estate agent provides the listing to us on behalf of the property owner(s)). In some cases, the information that you provide through the Site may be collected directly by a third party or its designee (e.g., through forms hosted by such third party or on a page framed with HomeFinder.com branding). Personally identifiable information also may be shared with the specific third parties that can respond to your requests in the form of reporting and other follow-up communications. The subsequent use or disclosure of any information collected by or provided to third parties is subject to their privacy policies and practices. 
+For the sake of clarification, any Non-personal Information combined with Personal Information shall be regarded as Personal information.
 
-**Direct Marketing.** Except as provided herein, it is HomeFinder.com's policy not to disclose personally identifiable information of its users to third parties specifically for the third parties' direct marketing purposes. If you are 18 years of age or older and have affirmatively agreed to receive third party direct marketing materials, HomeFinder.com may share your personally identifiable information with third parties for direct marketing purposes. Although HomeFinder.com will endeavor to notify all third-party direct marketers that the information provided to them is confidential, the subsequent use or disclosure of information is subject to those third parties' privacy policies and practices.
+**We will not collect any Personal Information from you without your approval.** Among other things, we will not collect any chat or other correspondence between a User and any third-party.
 
-**Service Providers.** HomeFinder.com may work with related and unrelated third parties that provide services on its behalf. Examples include providers of analytical, developmental, promotional, research, credit card processing, technology, support and other services. For example, HomeFinder.com may work with third parties who host or operate the Site or may ask that a third party conduct an online survey or sweepstakes or send newsletters or other email communications on its behalf. Similarly, if you make a payment to HomeFinder.com by credit card, HomeFinder.com may share personally identifiable information and credit card information with a third party in order to process credit card transactions, or such information may be collected directly by the credit card processing service provider on HomeFinder.com's behalf. In such cases, HomeFinder.com shall endeavor to require that the third party maintain personally identifiable information as confidential and use the information only to perform the services specified by HomeFinder.com.
+**3. How do we collect information on our Users? **
 
-**Sweepstakes/Promotions.** In the event that you participate in a sweepstakes, contest, or other promotion on the Site, HomeFinder.com reserves the right to share personally identifiable information collected in conjunction with the sweepstakes, contest or promotion with any third party sponsor or co-sponsor. After the information is provided to such third parties, the subsequent use or disclosure of such information is subject to those third parties' privacy policies and practices. 
+ There are two main methods we use: 
 
-**Other.** HomeFinder.com expressly reserves the right to release any personally identifiable information or other information you provide to third parties under the following circumstances: (a) when required by law or legal process, or if otherwise requested by a legitimate law enforcement body to cooperate in their investigations, (b) to investigate and/or take action against illegal activity, suspected abuse, or unauthorized use of the Site and/or HomeFinder.com services, (c) to protect the property or safety of HomeFinder.com users or others, (d) to enforce the Site's Terms of Use and (e) in connection with any sale or other transfer of ownership of all or a part of HomeFinder.com or the reorganization of any of its businesses or related businesses. If you make any personally identifiable information publicly available on the Site (e.g., by posting a listing which contains personally identifiable information), anyone may see and use such information and HomeFinder.com is not responsible for such use. HomeFinder.com reserves the right to share any personally identifiable information you post on the Site with third parties. To the extent HomeFinder.com does so, the subsequent use and disclosure of such information is subject to the privacy policies and practices of those third parties. 
+a. **We collect information while you access, browse, view or otherwise use the Site**. In other words, when you access the Site we are aware of your usage of the Site, and may gather, collect and record the information relating to such usage. For example, when you connect to the Site, your computer tells us your IP address.
 
-Please note that the messages that HomeFinder.com sends to you to confirm, fulfill, or follow up on a request may incidentally include promotional material or other content from HomeFinder.com or its partners. In the case of these messages, HomeFinder.com is not sharing your personally identifiable information with those third parties. HomeFinder.com reserves the right to share Usage Data with Affiliates and any other third party for any reason.
+b. **We collect information which you provide us voluntarily**. For example, when you wish to register to the Site, we may ask you to provide certain Personal Information which shall be kept on our servers. Each time you will be interested in providing information voluntarily we may ask you to consent to the collection and public display of such information.
 
-Collection of Information by Third Parties
+**4. What are the purposes of collecting the information? **
 
-As noted in this Policy, Affiliates and other third parties may collect information about you when using the Site through the use of cookies and web beacons and/or other similar technologies. For example, we work with companies that collect statistical information regarding Site usage and provide related analytical services. Also, HomeFinder.com uses third-party companies to serve advertisements when you visit the Site, to collect statistical information regarding Site usage, and to generate metrics related to the delivery of such advertisements. Third-party advertising companies may collect non-personally identifiable information about your visits to the Site and other web sites in order to provide targeted advertisements about goods and services which may be of interest to you across their networks of web sites (which may or may not include this Site). These third parties also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences, for measuring the effectiveness of their advertising, and for other purposes. In addition, HomeFinder.com may share statistical and behavioral data about visitors to the Site with these third-party advertising companies for the purpose of managing and targeting advertisements on the Site and/or on other web sites. These third-party advertising companies may note some of the pages you visit on the Site through the use of web beacons. In the course of serving advertisements to you, these third-party advertising companies may also place or recognize a unique cookie on your computer to allow them to recognize web beacons and otherwise improve advertising effectiveness.
+ Non-personal Information is collected in order to: 
 
-If you would like more information about the information collection practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click [ here ](http://www.networkadvertising.org/managing/opt_out.asp).
+  * enhance the User's experience on the Site (e.g. by determining the screen resolutions).
+  * learn about the preferences of Users and general trends on our Site (e.g. understand which software is more popular than others).
+  * better understand the priorities and interests of our potential customers and partners in order to better suit their needs and increase the efficiency of our sales and marketing processes.
+  * administer the Site, help diagnose problems with our server, to gather broad demographic information.
 
-Sell a Home Ads
 
-When purchasing a Sell a Home online classified listing (also referred to as a� **Single Listing Package** or **SLP** , or a� **Sell Your Home Ad** �), it is important to note that any information you choose to include in a SLP may be made publicly available via the Site and other media in which HomeFinder.com listings are published, including third party web sites and print publications. For example, you may include a phone number and/or an email address to allow users to contact you regarding your SLP. As such, you may receive unsolicited phone calls and emails from third parties, even after your SLP is no longer on the Site. Except for required information, you should not include any contact or other information in a SLP that you do not want other parties to see or use. If you wish to access, verify the accuracy of, or change the personally identifiable information in your SLP account, you can use the interface available at [http://www.HomeFinder.com/realestate/sell](http://www.homefinder.com/realestate/sell). 
 
-Forums
+Personal Information is collected in order to: 
 
-HomeFinder.com also may offer message boards, blogs, bulletin boards, chat rooms, comments areas, or other forums ("Forums") on the Site that are intended for use by visitors who are 18 years of age or older. Any information you disclose when posting a message in these Forums may become public. You should not include any information in your posting that you do not want other parties to see or use. Moreover, users who post a message in the Site's Forums make their e-mail addresses available to others, and if you post any messages in the Forums that include contact information (e.g. name, phone number) you may receive unsolicited email or calls from third parties.
+  * personalize your experience on the Site.
+  * provide you with certain information and services available only to registered Users.
+  * allow us to contact you with proposals and tailored information regarding events, offers, etc.
+  * identify you when conducting customer service operations (such as license purchase and generation, providing product feedback, etc.).
+  * other User Generated Content, voluntarily supplied by the User for the purpose of public use and display (e.g. public User Bio).  
 
-Email this Listing
 
-The Site offers you the ability to email certain pages or content of the Site to a friend or other third party. If you choose to use the Email this Listing functionality, your name, email address and any message you are allowed to include will be visible to the recipient of the email. HomeFinder.com does not use the names and addresses stored through the Email this Listing functionality for any purpose other than sending a one-time email to your friend. The Email this Listing functionality is for informational purposes only and you may not use it for any unlawful purpose, including any harassment or threats. 
 
-Changes to this Policy
 
-Any changes to this Policy will be posted on the Site in this location and this Policy will be identified as "Last updated on __________, 20__". Your continued use of the Site after such notice constitutes acceptance of such changes without modification. It is your responsibility to check back and review this location regularly to ensure that you are familiar with the most current terms. Should you object to any such changes to this Policy, your only option is to discontinue use of the Site.
+**5. Sharing Personal Information with third parties**
 
-Security
+ We will share Personal Information only in the following cases: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce these Privacy Policy or the Terms of Use, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to claims that any content published on the Site violates any right of a third-party; (e) to respond to claims that unauthorized information (e.g. e-mail address, name, etc.) of a third-party has been posted on the Site by us without your consent; (f) to protect the rights, property, or personal safety of the Company, its Users or the general public; (g) when Company is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of the assets of Company; (h) pursuant to your approval, in order to supply certain services you have requested from Company; (i) to let our partners and affiliates serve you with commercials; or (j) with respect to articles, opinions, any other documentation supplied by you for the purpose of public use, in order to provide the services.
 
-The security of your personally identifiable information is extremely important to us. We take steps to keep it physically secure in data centers and it is accessible only to authorized personnel as needed to perform operations governed by this Policy. In addition, when collecting credit card information, the Site uses Secure Socket Layer (SSL) encryption, the industry standard for protecting privacy in web transactions. Please keep in mind that despite these measures, HomeFinder.com cannot guarantee or warrant 100% security of its servers and databases. Moreover, HomeFinder.com cannot guarantee or warrant that personally identifiable information that you submit through the Site will not be intercepted or otherwise disclosed.
+**6. Deletion of Personal Information**
 
-Children
+ If for any reason you wish to delete your Personal Information, you should send an email via our Contact Us form/page, and we will make reasonable efforts to delete any such information pursuant to any applicable privacy laws.
 
-HomeFinder.com believes that it is especially important to protect children's privacy online. HomeFinder.com does not knowingly collect or use any personally identifiable information from children under the age of 13 and HomeFinder.com does not knowingly provide any personally identifiable information, regardless of its source, to any third party for any purpose whatsoever from visitors younger than 13 years old. No information should be submitted to or posted at HomeFinder.com by visitors younger than 13 years old. If we discover we have received any information from a child under 13 in violation of this Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below.
+**7. Cookies & Local Storage**
 
-Links
+ When you visit the Site, Company may use industry-wide technologies such as "Cookies" (or similar technologies), which stores certain information on your computer (" **Local Storage** ") and which will allow us to enable automatic sign-in to the Site, and make your browsing much more convenient and effortless. For example, and for your convenience, a Cookie can "autofill" information on forms on the Site, precluding the need for you to fill out the same information on our registration forms each time you want to access information that requires registration. However, cookies by themselves cannot be used to discover the identity of the user; It is easy to prohibit the Local Storage. Most browsers will allow you to erase cookies from your computer's hard drive, block acceptance of cookies, or receive a warning before a Cookie is stored.
 
-This Site contains links to other sites. While HomeFinder.com encourages its business partners to adopt privacy policies and practices that build users' trust and confidence in the Internet, HomeFinder.com is not responsible for the privacy policies or practices of third parties or any of the content of web sites linked to the Site or any third-party products or services offered through the Site. You should use common sense when you navigate the Internet and be aware of when you travel outside the Site. In addition, you should carefully review the applicable privacy policies of each web site you visit and each web service you use.
+We also use certain third-party cookies. These are a different kind of cookies, which are stored on your computer by a third party site, rather than by the Company. This kind of cookie is updated each time you visit our Site, and also when you visit other website that uses similar cookies. Third-party cookies usually store only a Non-personal Information, such as the web pages you have visited, the duration of your browsing, etc.
 
-Notice to California Residents – Your California Privacy Rights
+Specifically, Google, as a third party vendor, uses cookies to serve ads on the Site. Google's use of the DART cookie enables it to serve ads to users based on their visit to our Site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google Ad And Content Network Privacy Policy](http://www.google.com/privacy/ads/).
 
-California Civil Code Section 1798.83 permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. 
+**8. Security **
 
-If you are a California resident and would like to make such a request, please submit your request in writing to:
+ We take a great care in maintaining the security of the Site and your information and in preventing unauthorized access to it through industry standard technologies and internal procedures. However, we do not guarantee that unauthorized access will never occur.
 
-HomeFinder.com, LLC  
-Attn.: California Privacy Rights Requests  
-c/o: Chief Legal Officer  
-Classified Ventures, LLC  
-175 West Jackson, Suite 800  
-Chicago, Illinois 60604
+Users who have registered to the Site agree to keep their password in strict confidence and not disclose such password to any third party.
 
-International users
+**9. Third Party Sites**
 
-If you are an international user, by using the Site, you agree that HomeFinder.com may collect, use and transfer your personal information as described in this Policy, including transfers outside the country where you live. If you reside in a country in the European Union or other jurisdiction that provides access rights under law, you may access your personal information or have it corrected or updated by using the interface available at [http://www.HomeFinder.com/realestate/sell](http://www.homefinder.com/realestate/sell) (in the case of an SLP account) or by contacting us at the email address set forth below. In some jurisdictions, you may be charged a reasonable fee for access to information.
+ While using the Site you may encounter links to third party websites. Please be advised that such third party websites are independent sites, and we assume no responsibility or liability whatsoever with regard to privacy matters or any other legal matter with respect to such sites. We encourage you to carefully read the privacy policies and the terms of use or service of such websites.
 
-If you have any questions about this Privacy Policy, please [contact us](http://www.homefinder.com/company/contact).
+**10. Changes to the Privacy Policy **
 
-© 2013 HomeFinder.com | 20 North Wacker Drive | Chicago, IL 60606
+ The terms of this Privacy Policy will govern the use of the Site and any information collected therein. Company reserves the right to change this policy at any time, so please re-visit this page frequently. In case of any material change, we will post a clear notice on the Site.
 
-Last updated on November 9, 2009
-
-[^ Back to Top](http://www.homefinder.com/company/privacy#top)  
-  
----|---
+Changes to this Privacy Policy are effective as of the stated " _Last Update_ ” and your continued use of the Site on or after the Last Update date will constitute acceptance of, and agreement to be bound by, those changes.
