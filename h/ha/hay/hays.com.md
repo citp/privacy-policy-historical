@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125041007id_/http%3A//www.hays.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610220230id_/https%3A//www.haysplc.com/site-services/cookies-and-privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Hays - Recruiting experts worldwide
-
-**We are currently updating our cookies & privacy policy. **
+# Cookies and privacy policy | Hays – Recruiting experts worldwide
 
 ## What does this policy cover?
 
-This Data Protection Policy governs our processing of all personal data provided to us via the Hays.com website and other international websites and our international offices. You are asked to please read it carefully.
+This Data Protection Policy governs our processing of all personal data provided to us via the [Haysplc.com](https://www.haysplc.com/) website and other international websites and our international offices. You are asked to please read it carefully.
 
 ## What if you do not agree with this privacy policy?
 
@@ -21,35 +19,23 @@ Hays Specialist Recruitment Limited and its operating affiliates are registered 
 We will collect data about you, both personal data (such as your name and contact details) and also sensitive personal data (such as information in your CV). The personal data and sensitive personal data will be stored, processed, used and disclosed by us in the following ways:
 
   * to provide our recruitment services to you and to facilitate the recruitment process
-
   * to assess data about you against vacancies which we judge may be suitable for you
-
   * to send your information to clients in order to apply for jobs or to assess your eligibility for jobs
-
   * to enable you to submit your CV, apply online for jobs or to subscribe to alerts about jobs we think may be of interest to you
-
   * to market our, full range of recruitment services to you (permanent, temporary, contract, outplacement and recruitment process outsourcing services)
-
   * to enable us to develop and market other products and services and to improve our customer service and to make our services more valuable to you (including tailoring our website and our group companies websites when you log on to make enrich your personal online experience)
-
   * to send you details of reports, promotions, offers, networking and client events and general information about the industry sectors which we think might be of interest to you
-
   * to answer your questions and enquiries
-
   * to third parties where we have retained them to provide services that you or our client have requested, such references, qualifications and criminal reference checking services, verification of the details you have provided from third party source, psychometric evaluation or skill test
-
   * to third parties who perform functions on our behalf and who also provide services to us, such as professional advisors, IT consultants carrying out testing and development work on our business systems, research and mailing houses and outsourcing partners
-
   * to regulatory or law enforcement agencies if we believe in good faith that we are required by law to disclose it in connection with the detection of crime, the collection of taxes or duties, in order to comply with any applicable law or order of a court of competent jurisdiction, or in connection with legal proceedings
-
   * To use your information on an anonymised basis to monitor compliance with our equal opportunities policy
-
 
 
 
 From time to time we may seek your consent to process, use or disclose your information for any other purpose not listed above.
 
-We may also pass your information to, or allows access to such information to the Hays group of companies, whose locations can be found at www.hays.com in order that they may use your personal information in the same way as we process, use and disclose your information as described above.
+We may also pass your information to, or allows access to such information to the Hays group of companies, whose locations can be found at [www.haysplc.com](https://haysplc.com/) in order that they may use your personal information in the same way as we process, use and disclose your information as described above.
 
 We reserve the right to transfer your information to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company provided that the third party agrees to adhere to the terms of this Privacy Policy and provided that the third party only uses your Personal Data for the purposes that you provided it to us. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt-out.
 
@@ -74,7 +60,7 @@ We will use reasonable endeavours to ensure that your Personal Data is maintaine
 Your information is held on servers hosted by us or our Internet Services Provider. The nature of the internet is such that we cannot guarantee or warrant the security of any information you transmit to us via the internet.  
 How we collect and aggregate information about visitors to our websites
 
-We also collect information about the way jobseekers and visitors use this website in order to improve our services. We do not use information gained in this way in a way that any individual can be identified, and only use it to understand our users better, and to determine aggregate trends, most popular pages, etc, for all the website’s users. We may share this kind of aggregate data with selected third parties to assist with these purposes. We may also undertake marketing profiling to help us indentify services or jobs which may be of interest to you.
+We also collect information about the way jobseekers and visitors use this website in order to improve our services. We do not use information gained in this way in a way that any individual can be identified, and only use it to understand our users better, and to determine aggregate trends, most popular pages, etc, for all the website’s users. We may share this kind of aggregate data with selected third parties to assist with these purposes. We may also undertake marketing profiling to help us identify services or jobs which may be of interest to you.
 
 ## Cookies
 
@@ -88,5 +74,4 @@ Please note that clicking on links and banner advertisements and RSS feeds may r
 
 ## Change to our Privacy Policy
 
-Any changes to this Privacy Policy will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.  
- 
+Any changes to this Privacy Policy will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.
