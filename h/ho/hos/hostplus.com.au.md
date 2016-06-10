@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112171308id_/http%3A//hostplus.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610132937id_/http%3A//hostplus.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-### The Hostplus  Privacy Policy – our commitment to you.
+### The Hostplus Privacy Policy – our commitment to you.
 
 At Hostplus we’re run to benefit our members, which means we’re committed to acting in your best interests at all times.  We’re also committed to making life as easy as possible for you.  And because we’re a super fund, there is a certain amount of personal information we need to collect from you in order to provide you with the services and support you need. 
 
@@ -14,15 +14,17 @@ This policy briefly explains the main ways we protect your privacy, the reasons 
 
 Personal information means information we hold about you from which your identity can reasonably be determined. 
 
-### So why does Hostplus  collect your personal and information? 
+### So why does Hostplus collect your personal and information? 
 
 In many cases, the law requires us to collect your personal information, for example, in order to identify you.  It also allows us to set up your super account, to keep it running smoothly and to respond to any queries or requests you may have regarding your account.  These might include: 
 
   * implementing your investment choices, 
-  * establishing and maintaining your additional insurance protection, 
+  * establishing and maintaining your insurance arrangements, 
   * processing super contributions, 
   * transferring monies or paying benefits, 
-  * reporting the investment performance of your account to you, and 
+  * reporting the investment performance of your account to you
+  * the provison of financial product advice,
+  * market research and product and service improvement, and
   * keeping you up to date on other products and services available to you as a Hostplus member (which may include sending you some marketing communications).
 
 
@@ -31,7 +33,7 @@ Certain information such as your Tax File Number (TFN) is required for taxation 
 
 So that we can better tailor our information and products to your needs, we also use technology known as “cookies” to collect statistical information on website activity, such as the number of people using our website and how they navigate through it.
 
-At times we may need to collect sensitive information from you such as medical information and family relationship details in order to process insurance applications and benefit claims.   This information is used by Hostplus and our insurer to assess your eligibility for an insured benefit.  We will always seek your express consent before we collect any sensitive information from you, and we will ensure that the collection of this information is absolutely necessary.
+At times we may need to collect sensitive information from you such as medical information and family relationship details in order to process insurance applications and benefit claims.   This information is used by Hostplus and our relevant insurers to assess your eligibility for an insured benefit.  We will always seek your express consent before we collect any sensitive information from you, and we will ensure that the collection of this information is absolutely necessary.
 
 ### What personal information do we ask for? 
 
@@ -73,25 +75,26 @@ We may also need to ask you for sensitive information including:
 
 ### How do we collect and hold your personal information? 
 
-Where possible, we will collect information from you directly.
+Where possible, we will collect information from you directly. Sometimes we collect personal information from a Third Party you would reasonably expect us to collect from, such as an alliance partner for market research and to improve our product and services.
 
 Personal information may be collected through the following channels: 
 
   * Via membership and insurance forms. 
   * Over the phone via the Hostplus contact centre. 
   * As part of an insurance claim process or a request for access to your superannuation benefits. 
-  * Via our Account Managers and branch staff. 
+  * Via our Account Managers. 
   * Through our online portals when you update your details. 
   * Via Industry Fund Services financial planners.
   * Via address matches services provided by third party vendors.
+  * Via our alliance partners.
 
 
 
 If you are an employer-sponsored member we will also collect information from your employer when they make a superannuation contribution on your behalf. 
 
-As mentioned above, we also use technology such as google analytics and cookies to collect information about your visit to the Hostplus website and/or our online portals. This information includes the time and date of your visit, your server address, the type of browser, domain name, pages visited, documents downloaded and length of visit. It’s important to note that this technology only identifies your computer when you visit our website, it does not identify you. 
+As mentioned above, we also use technology such as Google analytics and cookies to collect information about your visit to the Hostplus website and/or our online portals. This information includes the time and date of your visit, your IP address, the type of browser, pages visited, documents downloaded and length of visit. It’s important to note that this technology only identifies your device when you visit our website, it does not identify you. 
 
-Once collected, your personal information is stored securely on a database maintained by our fund administrator, Superpartners.  We may also hold your personal information in hard copy format if you provide it for purposes including, but not limited to, insurance and benefit claims and complaints. See **Do we disclose your personal information to overseas recipients?**
+Once collected, your personal information is stored securely on a database maintained by the LINK Group (which incorporates Australian Administration Services Pty Limited ABN 62 003 429 114, referred herein as 'AAS' or our 'fund administrator').  We may also hold your personal information in hard copy format if you provide it for purposes including, but not limited to, insurance and benefit claims and complaints. See **Do we disclose your personal information to overseas recipients?**
 
 ### Who do we share your personal information with? 
 
@@ -99,30 +102,32 @@ We may need to disclose relevant personal information to external organisations 
 
 They include: 
 
-  * **Superpartners Pty Ltd** – Has been contracted by the fund for the provision of member and employer services, including insurance cover. Superpartners manage the database where your personal information is stored. Superpartners is a member of the Link Group of companies. Please refer to the Link Market Services website, [www.linkgroup.com](https://web.archive.org/web/20151112171308id_/http%3A//hostplus.com.au/www.linkgroup.com)
-  * **Third party vendors** – engaged by Superpartners, such as information technology, credit control, printing, mailing, and address verification vendors. 
-  * **Metlife Insurance Limited** – our insurer responsible for administering your insurance arrangements and processing any claims. 
+  * **LINK Group/AAS**  – Has been contracted by the fund for the provision of member and employer services, including the administration of insurance cover. The Link Group manage the database where your personal information is stored. AAS is a member of the Link Group of companies. Please refer to the Link Market Services website, [www.linkgroup.com](https://web.archive.org/web/20160610132937id_/http%3A//hostplus.com.au/www.linkgroup.com)
+  * **Third party vendors** – engaged by the LINK Group/AAS, such as information technology, printing, mailing, and address verification vendors.  
+A commercial organisation may also be used to independently verify your identification details prior to processing a benefit payment request or claim. 
+  * Our insurers including but not limited to Metlife Insurance Limited (Metlife) - are responsible for administering your insurance arrangements and processing any claims. 
   * **Medical practitioners and other relevant professionals** – for assessing increased insurance applications and/or during the claims process for insurance benefits. 
   * **Mail houses** – that provide you with correspondence about your Hostplus account as well as keeping you up to date on other products and services available to you as a Hostplus member. 
   * **Other superannuation funds** – when your benefits are transferred or rolled over. 
   * **Regulatory bodies** – such as the Australian Prudential Regulation Authority (APRA), Australian Securities and Investments Commission (ASIC), Australian Transaction Reports and Analysis Centre (AUSTRAC) and the Australian Taxation Office (ATO) to the extent required by law. 
   * **Your representative/s** – either your legal representatives after your death to enable the processing of a death claim, or your other nominated agent or representative (including professional adviser) as authorised by you. 
   * **Your spouse or former spouse** – to the extent required by law. 
-  * ****Marketing and** market research agencies** – organisations which provide marketing and communications services to Hostplus. 
-  * **Industry Fund Services Ltd** – You may be contacted directly by one of Hostplus’ dedicated Industry Fund Services (IFS) financial planners about financial planning services can help you. Additionally, an IFS financial planner may need to access your information to provide you with tailored personal advice. Financial advice provided by Hostplus’ dedicated IFS financial planners is currently provided under IFS’ Australian Financial Services Licence (AFSL 232514). For further information please visit our [advice page](https://web.archive.org/financial-planning/getting-the-right-advice)[ ](http://hostplus.com.au/advice).
+  * ****Marketing and** market research agencies** – organisations which provide marketing, product service and communications services to Hostplus. 
+  * **Industry Fund Services Ltd** – You may be contacted directly by one of Hostplus’ dedicated Industry Fund Services (IFS) financial planners about financial planning services that can help you. Additionally, an IFS financial planner may need to access your information to provide you with tailored personal advice. Financial advice provided by Hostplus’ dedicated IFS financial planners is currently provided under IFS’ Australian Financial Services Licence (AFSL 232514). For further information please visit our [advice page](https://web.archive.org/financial-planning/getting-the-right-advice)[ ](http://hostplus.com.au/advice).
   * **ME Bank** – our fairer banking partner who may from time to time contact you with exclusive discount offers available to Hostplus members.
-  * **Hardwire** – our creative agency for marketing purposes and maintaining online tools.
+  * **Hardwire/Reactive  **– our creative agency for marketing purposes and maintaining online tools.
   * **Auditors** – for the purpose of auditing the fund's compliance with processes and policies.
   * **Listed Companies or Responsible Entities** \- such as those of listed managed investment schemes available via the Choiceplus investment option, when required under Legal notice.
+  * **Advice Providers  **– such as Advisor Network Pty Ltd ABN 25 056 310 699 and Toowards ABN 23 074 054 998 for the purposes of providing limited financial product advice through the Hostplus online intra-fund advice tool. 
 
 
 
 ### Do we disclose your personal information to overseas recipients? 
 
-Our administrator Superpartners’ privacy policy details which countries your personal information is disclosed to as part of their administration activities. It’s available at [superpartners.com.au/privacy  
-](http://superpartners.com.au/privacy)
+Our administrator AAS's privacy policy details which countries your personal information is disclosed to as part of their administration activities. It’s available at [linkgroup.com/privacy.html  
+](http://www.linkgroup.com/privacy.html)
 
-Your personal information may also be stored on servers based in the United States of America and disclosed to auditors based in the Philippines and using an eRoom based in Singapore.
+Your personal information may also be stored on servers based in the United States of America and using an eRoom based in Singapore.
 
 We may also need to disclose your personal information to overseas recipients in New Zealand and the United Kingdom if you make a request for the rollover out or in of your superannuation or pension benefits held in these countries. 
 
@@ -137,8 +142,8 @@ Simply contact us via the details below and we’d be happy to help with:
 
 
 
-Call us on **1300 467 875**  or **1300 348 546** for pension members
+Call us on **1300 467 875  **for super members or **1300 348 546** for pension members.
 
 Email us at [**privacy@mail.hostplus.com.au**](mailto:privacy@hostplus.com.au), or **[privacy@mail.hostpluspension.com.au](mailto:privacy@mail.hostpluspension.com.au)**
 
-Write to us at Reply Paid 84069, Carlton South VIC 3053.
+Write to us at Locked Bag 5046 Parramatta NSW 2124.
