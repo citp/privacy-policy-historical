@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examsolutions.net privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203060921id_/http%3A//www.examsolutions.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examsolutions.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610165948id_/http%3A//www.examsolutions.net/privacy.php) for the most accurate reproduction.*
 
 # ExamSolutions: Privacy Statement
 
