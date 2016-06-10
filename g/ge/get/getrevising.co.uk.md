@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2015-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150704215610id_/https%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610053654id_/https%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Get Revising
+# Privacy Policy
 
-  * join **1,415,123** students and teachers
-  * access over **191,500** learning resources
-  * unlimited access for **£6.99** a month
-
-
-
-Get Revising is owned and operated by The Student Room Group Limited company number (04666380)   
+Get Revising is owned and operated by The Student Room Group Limited company number (04666380).  
 
 
 This is about protecting the information you give us. It is standard for a site of this type. The principles are the key thing.
@@ -47,18 +41,10 @@ At GetRevising.co.uk we collect information about our users for two main reasons
 1\. To help us continually improve the service we offer.  
 2\. To use the details of our users to sell appropriate advertising or sponsorship space on the site, and so continue to keep getrevising.co.uk free for all our users.
 
-## Study Smarter
+6) Amendments
 
-191,500 resources for £6.99
+Please note that this privacy policy is subject to change from time to time. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy policy. 
 
-## What our members say:
+7) Access to information
 
-> “My only regret is not finding this website sooner otherwise it is AMAZING!!!”
-
-> “It has been so useful to my education, I can't imagine not using it!”
-
-Becca
-
-> “Best website ever, useful for all levels of study :)”
-
-Ragnaros
+The Data Protection Act 1998 gives you the right to access information held about you. Your rights to access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. If any of the information we hold about you is incorrect, please let us know and we will review it. We may also update the information we hold if we believe that it is incorrect. 
