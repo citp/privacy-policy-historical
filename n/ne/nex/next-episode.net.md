@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the next-episode.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208103207id_/http%3A//next-episode.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the next-episode.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610184740id_/http%3A//next-episode.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Next Episode
 
 |    | 
 
-This Privacy Policy governs the manner in which Next Episode collects, uses, maintains and discloses information collected from users (each, a "User") of the [//next-episode.net](https://next-episode.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Next Episode.
+This Privacy Policy governs the manner in which Next Episode collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://next-episode.net](https://next-episode.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Next Episode.
 
 **Personal identification information**
 
@@ -22,9 +22,9 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 Next Episode may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
 
