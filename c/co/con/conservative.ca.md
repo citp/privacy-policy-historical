@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the conservative.ca privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130191603id_/http%3A//cpcp.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservative.ca privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610103402id_/http%3A//cpcp.cc/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Conservative Party of Canada - Protect our Economy
+# Privacy Policy | Conservative Party of Canada - Canada's Official Opposition
 
 **Our Commitment to Protecting Your Privacy**
 
@@ -48,7 +48,7 @@ Our web site contains links to a limited number of other web sites. The Conserva
 
 If you have any questions, concerns, or complaints about the Conservative Party privacy policy or the information we collect, please contact our privacy officer by e-mail at privacy@conservative.ca, or by regular mail at:
 
-Attn: David Dalphy, Privacy Officer  
+Attn: Greg Labuschagne, Privacy Officer  
 Conservative Party of Canada  
 1204 – 130 Albert St.  
 Ottawa, ON K1P 5G4
