@@ -1,81 +1,68 @@
-> *The following text is extracted and transformed from the zen12.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210231830id_/http%3A//inspire3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zen12.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611003321id_/http%3A//inspire3.com/privacy) for the most accurate reproduction.*
 
-# inspire3.com - privacy
+# Inspire3 Ltd - Privacy Policy
 
-Our Commitment To Privacy
+Your privacy is important to us. That's why we've created this simplified privacy policy, to help you easily understand what we do with your information.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+### About Us
 
-The Information We Collect
-
-This notice applies to all information collected or submitted on the various websites owned by Inspire3. On some pages, you can order products, make requests, and register to receive materials.
-
-When subscribing to receive material by e-mail, the types of personal information collected are typically:
-
-Name  
-E-mail address
-
-When purchasing a product, the types of personal information collected are typically:
-
-Name  
-E-mail address  
-Postal address
-
-Your credit card details may also be taken, simply for the purpose of billing your card. If this is taken, it is immediately and securely passed to our payments provider, SWREG Inc.
-
-For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, SWREG Inc, keeps this information encrypted and secure on your behalf.
-
-We may store an authorisation tag on our system, which can be used with our payment gateway provider to rebill your card. However your actual card details are never stored directly.
-
-The Way We Use Information
-
-We use the information you provide about yourself when placing an order to complete that order. We may also provide this information to an outside party to help with shipping for an order.
-
-We may also provide your information to an outside party to call you following a purchase, to check on your progress, and offer you coaching services.
-
-We may share your name and e-mail address with an affiliate, if you purchased through an affiliate link. This helps the affiliate keep track of promotional activities, and the affiliate may attempt to reasonably follow up with you, with you having the option to opt-out.
-
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
-
-You can register with our website if you would like to receive our various newsletters, as well as updates on new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form and confirm your address by verified double opt-in.
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
-
-Our Commitment To Data Security
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-Our Commitment To Children's Privacy
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-
-How You Can Access Or Correct Your Information
-
-You can access all your personally identifiable information that we collect online and maintain by writing to us and making an official request. We use this procedure to better safeguard your information.
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-If you wish to unsubscribe from a newsletter you are receiving, or a mailing list you have joined, you can do so by clicking the unsubscribe link at the bottom of the message.
-
-How To Unsubscribe from Newsletters
-
-If you are receiving a newsletter from us, you can unsubscribe by clicking on the link at the bottom of every single message we send out.
-
-How To Contact Us
-
-Should you have other questions or concerns about this privacy policy, please contact us online at contact@inspire3.com.
-
-You can also mail us at: Inspire3, 2nd Floor, 145-147 St John Street, London, EC1V 4PY.
-
-Copyright Warning
-
-The unauthorized reproduction or distribution of our copyrighted work is illegal. Criminal copyright infringement, including infringement without monetary gain, is investigated by the FBI and is punishable by up to 5 years in federal prison and a fine of $250,000.
-
-  
+  * We are Inspire3 Ltd, with our homepage at [www.inspire3.com](http://www.inspire3.com/).
+  * Our address is 20-22 Wenlock Road, London, EC1V 4PY, United Kingdom.
+  * You can reach our support team at [ awesome@inspire3.com](mailto:awesome@inspire3.com), or call us in the UK on (+44) 7092 17 18 19.
+  * "We", "us" and "our" on this page refer to Inspire3 Ltd.
 
 
-copyright © 2013 Inspire3. all rights reserved.
+
+### Our Policy in a Nutshell
+
+  * We will NEVER sell your details to anyone else, and we'll NEVER spam you!
+  * You can ALWAYS opt-out of our communications, just by telling us.
+  * Every non-transactional email we send includes an unsubscribe link in the footer.
+  * We promise never to do anything "weird" with your information.
+
+
+
+### The Information We Collect
+
+  * We collect all the information you'd expect for our sites to operate correctly.
+  * For email subscriptions, we collect the name and email address provided, as well as the signup & confirmation IP addresses.
+  * For purchases, we collect the name, email address, postal address, and payment details provided, as well as your IP address.
+  * For support questions, we use the return email address to reply to the query, and possibly offer an email subscription.
+  * We may also collect other aggregate information to improve our systems, such as server logs and email click counts.
+
+
+
+### Secure Purchases
+
+  * Your payment information is handled in the most secure manner possible.
+  * All payment data is secured during the  ordering process using 256-bit military grade encryption.
+  * We NEVER permanently store your credit card details. Payment data is typically handled by our PayPal merchant account.
+  * We may use PayPal Reference Transactions to bill the original payment method if you authorize additional purchases.
+
+
+
+### What We Do With Your Information
+
+  * We will use the information you provide to help complete the service you have asked of us.
+  * For email subscriptions, we will use this data to send you the information you requested - such as our regular newsletter.
+  * For purchases, we will use this data to complete the order - such as sending out download links, or physically mailing out a product.
+  * If you have provided your telephone number to us, we may call you to check on your progress, and maybe offer additional coaching.
+  * If you have provided your mailing address, we may send you extra material that we deem relevant.
+  * We aim for all of our communications to be relevant. You can opt-out of any communication at any time simply by letting us know.
+
+
+
+### Our Commitment to Data Security
+
+  * We don't take security lightly. We know your information is important.
+  * We have taken measures to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information.
+  * We have appropriate physical, electronic and managerial procedures to safeguard and secure the information you provide.
+
+
+
+### Other Things You Should Know
+
+  * If you have questions about the information we hold about you, you can contact us for more information.
+  * We never collect or maintain information from those we know are under 18\. Our sites and products are aimed at responsible adults, aged 18 or over.
+
+
