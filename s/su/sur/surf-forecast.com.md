@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surf-forecast.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205235707id_/http%3A//www.surf-forecast.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surf-forecast.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610082446id_/http%3A//www.surf-forecast.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,4 +20,4 @@ Pages of Surf-Forecast.com contain banner ads and analytics tools hosted by 3rd 
 
 Surf-Forecast.com will not share the list of users' email or postal addresses with any third parties without consent of the users, with the exception of providing postal services with information required for delivery of the products ordered by the user or awarded to the user. 
 
-New for December 2015: Use the [+][-] and arrow controls in the forecast maps to zoom right into your local area. (Dans le site de fr bientôt.) En el sitio web es pronto. (No site do pt breve.) 
+**Do you have old images of surf?** Simply upload them to the photo gallery and we will search our vast archive of forecasts and display the open water swell sizes, directions and periods, as well as wind and tide at the time of the image. It's a really useful way of knowing what to look for in the forecast tables. 
