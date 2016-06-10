@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reload.in privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315184738id_/https%3A//www.reload.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reload.in privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611002835id_/https%3A//www.reload.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reload
 
@@ -16,11 +16,14 @@ We collect only limited personal information from the new user that is necessary
 
 ### Personal information and data about the user collected by us are:
 
-**At the time of registration:** At the time of registration, we collect and store your E-mail address and cell phone number as provided by you in our database. At the time of payment: We do not store the Delivery/Shipping address (Name, Address, City, State, Country and Postal code) and Phone Number at the time you make a payment towards your balance. We don’t store any credit card information of the user. At the time of payment, user is redirected to the third-party website where user is required to provide the credit card details. Reload does not have any control of the information on the third-party website and does not take any responsibility for the misuse of the credit card information provided by the user to the third party. At Reload, we assure to protect your information and will not be distributed to any third party unless you explicitly consent to sharing this information. 
+**At the time of registration:** At the time of registration, we collect and store your E-mail address and cell phone number as provided by you in our database. At the time of payment: We do not store the Delivery/Shipping address (Name, Address, City, State, Country and Postal code) and Phone Number at the time you make a payment towards your balance. We don't store any credit card information of the user. At the time of payment, user is redirected to the third-party website where user is required to provide the credit card details. Reload does not have any control of the information on the third-party website and does not take any responsibility for the misuse of the credit card information provided by the user to the third party. At Reload, we assure to protect your information and will not be distributed to any third party unless you explicitly consent to sharing this information. 
 
 ### Use of Information collected
 
 Reload uses the collected information to provide you the user friendly, efficient, smooth and satisfactory service. We further use this information, to respond to your suggestions, feedback, and disputes if any and enforce Terms and Conditions of Service agreement. The information provided by you is used for following purposes: 
+
+  
+
 
 #### Email
 
@@ -52,7 +55,7 @@ We use your phone number to keep you updated with your Reload balance, sending y
 
 #### Credit Card Information
 
-We don’t store any credit card information of the user. At the time of payment while placing an order, user is redirected to the third-party website where user is required to provide the credit card details. Reload does not have any control of the information on the third-party website and does not take any responsibility for the misuse of the credit card information provided by the user to the third party. 
+We don't store any credit card information of the user. At the time of payment while placing an order, user is redirected to the third-party website where user is required to provide the credit card details. Reload does not have any control of the information on the third-party website and does not take any responsibility for the misuse of the credit card information provided by the user to the third party. 
 
 #### Sharing of Information
 
@@ -64,11 +67,11 @@ Reload keeps you informed about new features, products and promotions via email.
 
 #### Changes and Modification
 
-Reload reserves the right to modify the Privacy Policy at any time. If our privacy policy changes, the revised policy will be posted on this site and we will change the ‘updated’ date at the bottom of this page to reflect the date of the modification. Please visit this page regularly to see the changes if any. 
+Reload reserves the right to modify the Privacy Policy at any time. If our privacy policy changes, the revised policy will be posted on this site and we will change the 'updated' date at the bottom of this page to reflect the date of the modification. Please visit this page regularly to see the changes if any. 
 
 #### Laws and Regulations
 
-Reload may be required by law to disclose your Personal Information to proper law enforcement agencies; even if you requested that we don’t share your information. This information may be necessary to identify, contact or bring legal action against anyone who committed any offence as per stated laws and regulations. 
+Reload may be required by law to disclose your Personal Information to proper law enforcement agencies; even if you requested that we don't share your information. This information may be necessary to identify, contact or bring legal action against anyone who committed any offence as per stated laws and regulations. 
 
 #### Merger, Acquisition and Termination of Service
 
