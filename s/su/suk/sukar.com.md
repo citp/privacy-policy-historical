@@ -1,50 +1,119 @@
-> *The following text is extracted and transformed from the sukar.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227095717id_/http%3A//www.sukar.com/ae-en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sukar.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610113318id_/http%3A//uae.souq.com/ae-en/privacy-policy/c) for the most accurate reproduction.*
 
-# Sukar.com
+# Souq.com | Privacy policy
 
-## Privacy Policy
+**Introduction**
 
-### Disclaimer & Privacy Policy
+  1. Our privacy policy describes the ways in which we collect, store, use and protect your personal information and it is important for you to review this privacy policy.  
+By "personal information" we mean information that can be associated with a specific person and can be used to identify that person. 
+  2. We do not consider anonymised information to constitute personal information as it cannot be used to identify a specific person. We collect personal information from you when you use souq.com or its related websites and services ("Site") (including, without limitation, when you buy and sell items or participate in auctions or when you telephone or email our customer support team).  
+By providing us with your personal information you expressly consent to us processing your personal information in accordance with the terms of our privacy policy.
+  3. We may amend our privacy policy at any time by posting a revised version on the Site.  
+The revised version will be effective at the time we post it and, following such posting, your continued use of the Site will constitute your express consent to us continuing to process your personal information in accordance with the terms of our revised privacy policy.
+  4. We last amended our privacy policy on 4 November 2009 and we would encourage you to check the Site regularly for the announcement of any amendments to our privacy policy.
 
-The information we collect through our Site helps us provide you with information specific to your needs and interests. This privacy policy (the "Privacy Policy") covers the Sukar website (the "Site" or "Sukar"), including any registered domain endings, such as ".com".
 
-Please read below to review our Privacy Policy and the types of information we gather through our Site. In this Privacy Policy, "we", "us", "our" and other similar references mean Sukar and "you" and "your" and other similar references mean a specific user of the Site. By visiting the Site, you accept the practices described in this Privacy Policy.
 
-### How Does Sukar Gather and Use Information?
+**Our privacy policy covers the following topics:**
 
-Cookies. Cookies are pieces of data assigned by a web server that uniquely identify the browser on your PC. Websites typically use temporary cookies called "session" cookies to ensure that you are recognized when you move from page to page within one site and that any information you have entered is remembered. For example, if an e-commerce site did not use session cookies then items placed in a shopping basket would disappear by the time you reach the checkout. Websites also use cookies called "persistent" cookies to enable a website to remember you on subsequent visits, speeding up or enhancing your experience of services or functions offered. Sukar attempts to install both persistent and session cookies when a user arrives at our Site.
+  1. our collection of your personal information
+  2. our use of your personal informationy.
+  3. your use of your and other users’ personal information
+  4. accessing, reviewing and amending your personal information
+  5. third party website links
+  6. cookies
+  7. no spam or spoof emails
+  8. protecting your personal information
+  9. how you can contact us about privacy questions
 
-Cookies enable our systems to gather information about your navigational patterns through the site. Viewers have the option to accept or disable cookies at any time through their browsers. If you block or refuse to accept cookies, or delete cookies between visits to the site, you may not be able to access or use certain features or functions of our Site.
 
-Server Statistics. We collect general statistics to track user trends on our Site. These statistics include hits to our server, the types of browsers used to access our Site, page views, and navigational patterns. The information that is collected in this manner does NOT provide us with any personally identifiable information about our users. It helps us track "where" our users are coming from. This allows us to pinpoint high traffic areas and determine the most effective ways to communicate with our users. As part of that ongoing analysis, Sukar also uses devices called "web beacons" to help us identify when emails sent to you have been received and read. In order to prevent the introduction of viruses and hackers into the Sukar site we may collect information, such as IP addresses, into a log file to be used to identify potential hackers of the Sukar site.
 
-Personal Information You Provide Us. For the purposes of this Privacy Policy, "Personal Information" is any information that identifies you, would enable someone to contact you, or that describes your relationship with Sukar. We collect and store Personal Information when you register to use our Site, ask a question, complete a form, conduct a transaction, or send us an email. While you are not required to submit any information to our Site, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our Site and we may not be able to provide you with certain services. Sukar uses your Personal Information to complete transactions, respond to your requests, deliver the products and services you request, and notify you of promotions, updates, or special offers that we think may interest you. If you are already receiving Sukar emails and no longer wish to receive such communications, simply follow the "unsubscribe" instructions that appear in every Sukar e-email, or change your notification settings in your profile.
+**Our collection of your personal information**
 
-### What Security Procedures Does Sukar Use To Protect Personal Information?
+  1. As part of your registration on the Site, you will be asked to provide us with certain personal information, such as your name, shipping address, email address and/or telephone number and other similar information as well as some additional information about you such as your date of birth or other identifying information.  
+Additionally, in order for us to verify your identity, we may need to request from you valid proof of identification (e.g. in the form of a copy of your passport, resident’s visa or permit, national ID card and/or driver’s license).
+  2. We will also need to collect selected financial information from you, such as your credit card and/or bank account details.
+  3. You will need to input this financial information into the "My Account" section of the Site.   
+We use this financial information for billing purposes and for the fulfilment of your orders.   
+Following your registration on the Site, you should not post any personal information (including any financial information) anywhere on the Site other than on the My Account section of the Site.   
+Restricting the posting of personal information to the My Account section of the Site protects you from the possibility of fraud or identity theft. The posting by you of any personal information anywhere on the Site other than on the My Account section of the Site may lead to the suspension of your use of the Site.
+  4. We will collect transactional information based on your activities using the Site (such as buying and selling items and participating in auctions), This transactional information is used solely in relation to the transactions you undertake on the Site and for no other reasons.
+  5. Please note that we may use your Internet protocol (or IP) address (which is a unique number assigned to your computer server or your Internet service provider (or ISP)) to analyse user trends and improve the administration of the Site.
+  6. We may also collect information about your computer (for example, browser type) and navigation information (for example, the pages you visit on the Site) along with the times that you access the Site.
 
-We use physical, electronic, and administrative safeguards to assist us in preventing unauthorized access, maintaining data accuracy, and correctly using your Personal Information.
 
-Except as specified in this Privacy Policy, we use commercially reasonable efforts to limit access to your Personal Information to the employees, agents, and officers of Sukar, who need the information for their jobs.
 
-### Will Sukar Disclose The Information It Collects To Outside Parties?
+Finally, we may collect additional information from or about you in other ways not specifically described here.   
+For example, we may collect information related to your contact with our customer support team or store results when you respond to a survey.   
+We may also collect feedback ratings and other comments relating to your use of the Site.   
+Where we aggregate personal information for statistical purposes, such aggregated personal information shall be anonymized.  
 
-Sukar may share information with carefully selected vendors and business partners with whom we work. This includes companies that offer affinity, frequent-user, and reward programs; and, companies that perform marketing services and other business operations for us (including providing goods and services to our users, as necessary to complete transactions you request).  
-All companies that act on our behalf are contractually obligated to keep all information confidential and to use the customer information only to provide the services we ask them to perform for you and us. We may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third party vendors, but these statistics do not include Personal Information. We may disclose Personal Information we collect from you if required to do so by law or in the good-faith belief that disclosure is necessary (a) to obey the law or comply with legal process served on us or our affiliates; (b) to protect and defend our rights or property or the rights or property of other users of our Site; or (c) to act in an emergency to protect the personal safety of users of our Site or External Links.
 
-### Other companies or organizations may have links to their Sites on our Site
+**Our use of your personal information**
 
-We are not responsible for how these other companies or organizations collect, use, disclose, or secure the information that you provide them. If you choose to access a third party Site linked to our Site, you do so at your own risk and subject to any terms of service or privacy policy (if any) associated with such third party Sites.
+  1. We only use your personal information to provide services and customer support to you; to measure and improve our services to you; to prevent illegal activities and implement our user agreement with you ("User Agreement"); troubleshoot problems; collect fees; provide you with promotional emails and verify information you give us with third parties. For example, we may share some of the personal information you give us with banks or credit card authorisation, processing and verification services or with third parties for fraud screening purposes.
+  2. Though we make every effort to preserve your privacy, we may need to disclose your personal information to law enforcement agencies, government agencies or other third parties where we are compelled so to do by court order or similar legal procedure; where we are required to disclose your personal information to comply with law; where we are cooperating with an ongoing law enforcement investigation or where we have a good faith belief that our disclosure of your personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate a possible violation of our User Agreement.
+  3. In the event of a sale of Souq.com FZ-LLC, any of its affiliates and subsidiaries or any related business assets, your personal information may be disclosed to any potential purchaser for the purposes of the continued provision of the Site or otherwise in relation to any such sale.  
+We may share your personal information with our other group companies so as to provide joint content and services to you, to help detect illegal acts and/or the violations of our policies.   
+We may also share your personal information with other Site members as part of an auction or "Buy Now" purchase on the Site. For example, at the end of a successful auction on the Site we will provide the seller and the successful buyer with each other’s contact information.  
+This contact information will be the personal information provided by you to us on registration and, as a result, should always be kept up-to-date.
+  4. Additionally, information relating to items you are buying or selling or auctions you are participating in be displayed on the Site. This information can include details of your user ID, feedback ratings and associated comments relating to your use of the Site. Otherwise, we will only disclose your personal information to a third party with your express permission.
+  5. We do not sell or rent any of your personal information to third parties in the normal course of doing business and will only share your personal information with third parties in accordance with this privacy policy.
+  6. By registering on the Site, you give us your express consent to receive promotional emails about our services and emails announcing changes to, and new features on, the Site.   
+If, at any time, you decide that you do not wish to receive any such emails, you can opt out of receiving such emails by clicking on the link at the bottom of any of the emails or by going to the My Account section of the Site.
+  7. Additionally, we do use comments made by you about the Site for marketing purposes and by making such comments you expressly consent to our using such comments for marketing purposes.
 
-### Collection Of Information From Children
 
-Sukar does not direct any of our content specifically to children. Users of our Site are required to be at least eighteen (18) years old, and any user under 18 is not an authorized user. If we learn that a user is under thirteen (13) years of age, we will promptly delete any Personal Information we have collected about that user.
 
-### Consent To Processing In The Middle East Countries
+**Your use of your and other users’ personal information**
 
-By providing any Personal Information to Sukar, all users, including, without limitation, users in the Middle East countries, fully understand and unambiguously consent to this Privacy Policy and to the transfer of such Personal Information across international borders in accordance with Sukar standard operations, including the collection, storage, and processing of such information in the Middle East countries.
+  1. Site members may need to share personal information (including financial information) with each other to complete transactions on the Site. You should respect, at all times, the privacy of other Site members.
+  2. We cannot guarantee the privacy of your personal information when you share personal information with other Site members so you should always seek information on the privacy and security policies of any other Site members with whom you are transacting prior to sharing any of your personal information with another Site member.
+  3. This privacy policy does not cover your release of your personal information to another Site member.
+  4. You agree to use any personal information received from another Site member in relation to a transaction on the Site solely in relation to such transaction and shall not use the information received from another Site member for any other purposes (except with the express consent of the other Site member).
+  5. You acknowledge and agree and you shall use personal information received from another Site member in accordance with all applicable laws.
 
-### In Summary
 
-Sukar is committed to protecting your privacy.
 
-The information collected from our Site helps us better understand our market and consumer interests. This allows us to serve our customers and business associates with the level of satisfaction they deserve. 
+**Accessing, reviewing and amending your personal information**
+
+  1. You can access and review your personal information in the My Account section of the Site.   
+If your personal information changes in any way or is incorrectly presented on the Site you should immediately update or correct your personal information (as applicable) by accessing the My Account section on the Site or, alternatively, by contacting our customer support team.   
+The "Customer Support" link at the top of each Site webpage contains our customer support email and phone details.
+  2. Please note that we shall retain your personal information during and following the end of your use of the Site as required to comply with law, for technical troubleshooting requirements, to prevent fraud, to assist in any legal investigations and to take any other actions otherwise permitted by law.
+
+
+
+**Third party website links**
+
+The Site may contains links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage you when you leave the Site to read the privacy statements of each and every website you visit if you intend to provide personal information to that website. Our privacy policy applies solely to your personal information that we collect on the Site. 
+
+**Cookies**
+
+  1. Like many websites, the Site uses 'cookie' technology (small computer files placed on your computer’s hard drive). When you go to particular website pages on the Site, the cookie identifies your browser with a unique, random number.
+  2. The cookies we use do not reveal any personal information about you. Cookies help us improve your experience of the Site and also help us understand which parts of the Site are the most popular. You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of the Site.
+
+
+
+**No spam or spoof emails**
+
+We do not tolerate spam. To report Site related spam or spoof emails, please forward the email to spam@souq.com or spoof@souq.com. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content. 
+
+**Protecting your personal information**
+
+  1. We hold your personal information on servers located in the United Kingdom and the United States.
+  2. By providing us with personal information, you consent to the transfer of your personal information to, and its storage on, our servers located in the United Kingdom and/or the United States. We take every precaution to safeguard all your personal information from unauthorised access, use or disclosure.
+  3. All personal information is encrypted.   
+However, the Internet is not a secure medium and we cannot guarantee the privacy of your personal information.
+  4. You must enter your username and password each time you want to access your account or make transactions on the Site.
+  5. Choose your password carefully using unique numbers, letters and special characters.
+  6. Never share your username and password with anyone.
+  7. If you are concerned that your username or password has been compromised, please contact our customer support team immediately and ensure you change your password by logging onto the My Account section of the Site.
+
+
+
+**How you can contact us about privacy questions**
+
+If you have questions or concerns about our collection and use of your personal information, please contact our customer support team at the "Customer Support" link at the top of any Site webpage. 
+
+Souq.com FZ LLC, Dubai Internet City, Thuraya 2 Tower, Office 1902 Dubai, United Arab Emirates 
