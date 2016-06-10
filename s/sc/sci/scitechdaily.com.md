@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scitechdaily.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210065709id_/http%3A//scitechdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scitechdaily.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610024238id_/http%3A//scitechdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
