@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kalynskitchen.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211140754id_/http%3A//kalynskitchen.blogspot.com/2005/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalynskitchen.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610151218id_/http%3A//www.kalynskitchen.com/2005/04/privacy-policy.html) for the most accurate reproduction.*
 
 # Kalyn's Kitchen®: Privacy Policy
 
@@ -20,11 +20,8 @@ Google, as a third party vendor, uses cookies to serve ads on this website. The 
 **Advertiser Privacy Policies**  
 If you would like to contact the Advertisers to learn more about their privacy policies and what options (if any) they offer to opt out of their data collection and use, please follow these links to their Web sites:
 
-BlogHer Publishing Network  
+BlogHer (She Knows) Publishing Network  
 <http://www.blogher.com/privacy-policy>
-
-Lijit Networks Inc.  
-<http://www.lijit.com/company/privacy-policy>
 
 Some of these third party advertising networks are participants in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI member ad networks [here.](http://www.networkadvertising.org/)
 
@@ -34,6 +31,8 @@ If you have any questions about this policy please contact kalynskitchen (at) co
 **Changes to This Policy:**  
 We reserve the right to update or change this privacy policy at any time. Any such change, modification, or addition to the privacy policy on Kalyn's Kitchen will become effective immediately upon posting on the site.
 
-This policy last updated on December 17, 2014.
+This policy last updated on June 2016.
 
 [](http://www.statcounter.com/)
+
+__If you make a recipe, share it with the hashtag **#kalynskitchen** on [Instagram](https://www.instagram.com/explore/tags/kalynskitchen/), [Facebook](https://www.facebook.com/hashtag/kalynskitchen) and [Twitter](https://twitter.com/hashtag/kalynskitchen) so I can see what you're cooking!
