@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashmoneyaffiliate.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210193308id_/http%3A//cashmoneyaffiliate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashmoneyaffiliate.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610110452id_/http%3A//cashmoneyaffiliate.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Cash Money Affiliate - Affiliate Mobile Marketing
+# Privacy Policy
 
 Temimarketing LTD (“We”) are committed to protecting and respecting your privacy.
 
