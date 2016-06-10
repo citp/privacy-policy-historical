@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysecretsexcontact.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210051132id_/http%3A//www.mysecretsexcontact.com/privacy%3Fprid%3D25710%26p%3D362232) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysecretsexcontact.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610110724id_/http%3A//www.mysecretsexcontact.com/privacy%3Fprid%3D25710%26p%3D362232) for the most accurate reproduction.*
 
 # Secret Flirts and Sexcontacts
 
@@ -28,7 +28,7 @@ In no event we will sell or rent your personal data for marketing purposes to th
 
 Never publish, share or distribute personal information that you do not want other people to see on forums, blogs or in chat rooms. When other people ask you for your personal information then please be aware that this may not be an employee of MySecretSexContact. Feel free to ask some critical questions to make sure you are dealing with an employee of MySecretSexContact. Never share your username or password with others. When you lose your password there is a possibility that you lose control over your personal information and legal action on your part might be necessary. In case you suspect that your password has been made public to third parties, immediately change the password and/or contact [our customer service](https://web.archive.org/contact/?prid=25710&p=362232).
 
-The content of external links is not controlled by us. This is the provider responsible and liable . However, does apply the provision that materials of a beneficiary to be removed if they infringe on their rights. 
+The content of external links is not controlled by us. That is the responsibility and liability of the respective provider. However, in regard to the provision that materials of any person entitled to be removed if they infringe their rights. 
 
 ### Assess, change or delete your personal information
 
