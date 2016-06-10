@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkfruit.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007233225id_/http%3A//www.inkfruit.com/fineprint%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkfruit.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610225554id_/http%3A//zovi.com/fineprint%23privacypolicy) for the most accurate reproduction.*
 
 # Online Shopping - Clothes, Shoes, Accessories at Zovi.com - Online Fashion Store.
 
@@ -59,7 +59,9 @@ We as a merchant shall be under no liability whatsoever in respect of any loss o
 
   1. No other offer/coupon or zovi cash will be applicable along with this offer
   2. Free shipping is applicable only on orders of Rs.599/- & above. 
-  3. We offer a 30 day return policy, however returned products should be unsoiled and all tags need to be intact
-  4. Terms of this offer is subject to change without prior notice
+  3. Min cart value to make a purchase on Zovi is Rs.399 
+  4. We offer a 30 day return policy, however returned products should be unsoiled and all tags need to be intact
+  5. Terms of this offer is subject to change without prior notice
+  6. *Max discount applicable on any product is up to 50% on the MRP
 
 
