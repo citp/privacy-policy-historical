@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmypast.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207123128id_/http%3A//www.findmypast.com.au/articles/using-the-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.com.au privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610070118id_/http%3A//www.findmypast.com.au/articles/using-the-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | findmypast.com.au
 
@@ -45,6 +45,24 @@ If you create a family tree or create content on the website, we also gather tha
 **Information stored in your family tree:** Information stored in your family tree on the website will, in almost all cases, include personal information about other people who are still alive.
 
 You must always seek permission from people who are living before you make their personal information available in your tree, or anywhere else online. We have provided you with privacy controls to manage your family tree and control who can see the information in it. You should familiarise yourself with how they work as you're responsible for using them to control who sees the information you have provided. We reserve the right (at our own discretion) to remove any personal data which you have included in your family tree about people who are living if we are alerted to the fact that this personal data was used without that person's permission. If you become aware that your personal information has been included in somebody else's tree without your permission or is being misused in any other way on the findmypast.com.au site, please send an email to our Customer Support team  with details and we will investigate and, if necessary, remove this information.
+
+**Record Matching**
+
+Findmypast uses record matching technologies to suggest possible matches between historical records on Findmypast and associated partner trees.
+
+**What is Record Matching?**
+
+Record matching on Findmypast automatically matches historical records for your family tree. These records are pulled from our vast database of over 8 billion records. Record matching will save you time with your research and allow you to make fascinating discoveries through birth, marriage and death documents and census records.
+
+**How does it work?**
+
+When record matching is enabled within the partner site, information from small parts of your family tree is passed between the sites without you having to do anything, to a matching service on the Findmypast website. This information includes basic information such as names, dates and places associated with individuals and their close relatives. Findmypast uses this data to find accurate matches for relevant individuals. Please note this information is not retained by Findmypast and is deleted automatically after matches are calculated and displayed to you. Only partner site users receive Findmypast hints, Findmypast users do not receive hints about trees on the partner site.
+
+The partner site will show matches in its search window where matches are found. To find out more about these matches, click on the links provided and review them; you will then have the ability to accept or reject matches. Please note that some of the matches can be viewed and confirmed for free, while others require a Findmypast data subscription. In order to review these matches you will need to subscribe to Findmypast and create an account.
+
+The information passed to Findmypast is never used for any other purpose and will never be displayed, sold, licensed or used in any manner whatsoever.
+
+If you have any question or concerns, you can email support@findmypast.com.au.
 
 **Emails we send you:** We try only to send you emails which are relevant and help you with your family history or tell you important things about the website. There are some emails which we send you only if we have your permission (marketing emails) and you can notify us at any time if you no longer wish to receive these marketing emails (see below). There are some emails which we send you even if we don't have your permission (service emails) - we send these to administer the service. Each is explained below.
 
