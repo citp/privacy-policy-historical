@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the playboyplus.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035817id_/http%3A//www.playboyplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboyplus.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610215713id_/http%3A//www.playboyplus.com/privacy-policy) for the most accurate reproduction.*
 
 # PlayBoy Plus™ Privacy Policy Page
 
-This Privacy Policy (the "Policy") applies to Playboy Plus Entertainment, Inc.’s ("PBP") family of websites (the "Sites"). These include playboy.com; cyber.playboy.com; and any other websites at which this Policy appears. It does NOT apply to other online or offline websites, products or services of PBP or PBP's affiliates. This Policy explains what information we collect about you and what we do with it. We reserve the right to modify this Policy at any time, and we will notify you of any material changes to the Policy by posting the new Policy here and changing the "Effective Date" at the top. We may also use alternative methods to alert you to changes to the Policy. We encourage you to check this page periodically for any changes. By using or navigating any of the Sites or any portion of the Sites, you acknowledge that you have read, understand and agree to be bound by this Policy or any modified Policy as posted. If you do not agree to these terms, please do not use or visit any of the Sites or any portion of the Sites.
+This Privacy Policy (the "Policy") applies to Playboy Plus Entertainment, Inc.’s ("PBP") family of websites (the "Sites"). These include playboyplus.com; cyber.playboy.com; and any other websites at which this Policy appears. It does NOT apply to other online or offline websites, products or services of PBP or PBP's affiliates. This Policy explains what information we collect about you and what we do with it. We reserve the right to modify this Policy at any time, and we will notify you of any material changes to the Policy by posting the new Policy here and changing the "Effective Date" at the top. We may also use alternative methods to alert you to changes to the Policy. We encourage you to check this page periodically for any changes. By using or navigating any of the Sites or any portion of the Sites, you acknowledge that you have read, understand and agree to be bound by this Policy or any modified Policy as posted. If you do not agree to these terms, please do not use or visit any of the Sites or any portion of the Sites.
 
 ## What information do we collect?
 
@@ -62,7 +62,7 @@ No. The Sites may contain links to other Internet sites, resources and sources o
 
 All e-mails you receive from us will include specific instructions on how to unsubscribe, and you may unsubscribe at any time. Additionally, we give you the following options for removing your information from our database:
 
-  1. Send an email to [admin@playboy.com](mailto:admin@playboy.com) (please indicate that you would like to be unsubscribed from PBP emails);
+  1. Send an email to [admin@playboyplus.com](mailto:admin@playboyplus.com) (please indicate that you would like to be unsubscribed from PBP emails);
   2. Select the opt-out link at the bottom of any PBP email and follow the instructions provided;
   3. Send a letter to the following address: 
     * Playboy Plus Entertainment, Inc.
@@ -75,13 +75,13 @@ Please note, however, you cannot opt out of receiving emails from us regarding y
 
 ## How do you update/correct your information?
 
-You may correct or update the personal information you have provided to PBP by sending us an email at [admin@playboy.com](mailto:admin@playboy.com).
+You may correct or update the personal information you have provided to PBP by sending us an email at [admin@playboy.com](mailto:admin@playboyplus.com).
 
 Please note, however, that even if you update or remove your personal information from our live database, your data may be retained in our backup files and archives.
 
 ## Got more questions? We can help!
 
-PBP recognizes the importance of protecting your privacy. If you have any questions about this Privacy Policy, the practices of our Sites or your dealings with PBP, please contact us at admin@playboy.com or by mail at 2300 West Empire Avenue, 7th Floor, Burbank, California 91504.
+PBP recognizes the importance of protecting your privacy. If you have any questions about this Privacy Policy, the practices of our Sites or your dealings with PBP, please contact us at admin@playboyplus.com or by mail at 2300 West Empire Avenue, 7th Floor, Burbank, California 91504.
 
 Please note that persons under the age of 18 are prohibited from viewing our Sites, and PBP does not knowingly collect any personal information from persons under the age of 18.
 
@@ -89,7 +89,7 @@ Please note that persons under the age of 18 are prohibited from viewing our Sit
 
 California residents who have an established business relationship with PBP may choose to opt out of PBP disclosing personal information about them to third parties for marketing purposes.
 
-From time to time, we may share your personal information with carefully screened companies that offer products or services that we believe you may enjoy. If you do not want us to share your personal information with such third parties, please send us your name, email address, street address and phone number to [admin@playboy.com](mailto:admin@playboy.com).
+From time to time, we may share your personal information with carefully screened companies that offer products or services that we believe you may enjoy. If you do not want us to share your personal information with such third parties, please send us your name, email address, street address and phone number to [admin@playboyplus.com](mailto:admin@playboyplus.com).
 
 Your opt out request will be processed within 30 days of the date it was received.
 
