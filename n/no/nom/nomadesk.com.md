@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomadesk.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210203333id_/http%3A//www.nomadesk.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomadesk.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610025658id_/http%3A//www.nomadesk.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nomadesk
 
@@ -34,7 +34,7 @@ We reserve the right to make changes to this policy. Any changes to this policy 
 Nomadesk creates a secure area on your local hard drive called a Vault. All folders and files stored on a Vault are protected by 256-bit encryption. When the Nomadesk application is closed, your Vaults are invisible, making it impossible for unauthorized individuals to access your private data. Starting the Nomadesk application, and entering your personal password (only known by you) unhides the Vaults and makes them readily available within your standard file management applications (i.e., Windows Explorer, Mac Finder).  
 Using SAML, the authentication can be done against your Active Directory.
 
-## Theftguard Remote Wipe
+## Theftguard Remote Track & Wipe
 
 In the event your computer or mobile device is stolen, Nomadesk uses a unique serial number assigned to each device to give you the ability to remotely wipe all files and folders on your cached Nomadesk Vaults. The tracking even allows you to locate the missing device on Google Maps.
 
@@ -45,7 +45,7 @@ We maintain datacenter facilities in Europe and USA for our European and America
 
 ## File Revisions / Backup
 
-Security is also available when your files are accidently deleted. Nomadesk retains backups of your Vaults allowing you to retrieve past version with a simple restore function from your Nomadesk online portal.
+Data loss prevention is also available when your files are accidently deleted. Nomadesk retains backups of your Vaults allowing you to retrieve past version with a simple restore function from your Nomadesk online portal.
 
 ## Online Trashcan
 
@@ -53,15 +53,15 @@ When a file is deleted on a shared Vault, all individuals sharing the Vault have
 
 ## FileLink
 
-Instead of e-mailing large files, FileLink allows you to e-mail a short-URL. The recipient clicks the link to download the file from your Vault in the Nomadesk cloud. A plugin for Outlook is available to generate FileLinks on the fly while writing the e-mail.
+Instead of e-mailing large files, FileLink allows you to e-mail a short-URL. The recipient clicks the link to download the file from your Vault in the Nomadesk cloud. A plugin for Outlook is available to generate FileLinks on the fly while writing the e-mail. Links can carry your corporate branding.
 
 ## FolderLink
 
-FolderLink allows you to provide access to an entire folder of files on your secure server. Instead of initiating a file download (like a FileLink), FolderLink directs the recipient to a web page where they view and upload files (if given authority to do so). FolderLink is simple to use and can replace more complicated services like FTP.
+FolderLink allows you to provide access to an entire folder of files on your secure server. Instead of initiating a file download (like a FileLink), FolderLink directs the recipient to a web page where they view and upload files (if given authority to do so). FolderLink is simple to use and can replace more complicated services like FTP. Links can carry your corporate branding.
 
 ## Get Link…
 
-Right-click on any Nomadesk folder or file to create and copy a short-URL to the clipboard. Then paste the URL in emails, on Twitter, on Facebook, in documents, etc.
+Right-click on any Nomadesk folder or file to create and copy a short-URL to the clipboard. Then paste the URL in emails, on Twitter, on Facebook, in documents, etc. Links can carry your corporate branding.
 
 ## Access Control
 
