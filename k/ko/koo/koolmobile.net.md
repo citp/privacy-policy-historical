@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koolmobile.net privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224115616id_/http%3A//koolmobile.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koolmobile.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610041057id_/http%3A//koolmobile.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Koolmobile
 
@@ -22,7 +22,7 @@ This website is partially funded through our generous sponsors and advertisers. 
 
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to our website and other sites on the Internet.
 
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](http://www.google.com/policies/privacy/ads/)
 
 **Ads that may appear at our website**
 
