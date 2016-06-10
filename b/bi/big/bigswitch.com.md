@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigswitch.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207102152id_/http%3A//www.bigswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigswitch.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610173334id_/http%3A//bigswitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Big Switch Networks, Inc.
 
@@ -71,14 +71,14 @@ Your account information and access to our service is accessible only through th
 
 ## Updating and Accessing Personal Information.
 
-If your personal information changes in any way, we invite you to correct or update your information as soon as possible. You can make updates to your profile information by logging into your account on Big Switch at any time. You can also request changes or access to your information by emailing [support@bigswitch.com](mailto:support@bigswitch.com).
+If your personal information changes in any way, we invite you to correct or update your information as soon as possible. You can make updates to your profile information by logging into your account on Big Switch at any time. You can also request changes or access to your information by emailing support@bigswitch.com.
 
 ## Choice/Opt-Out.
 
-Big Switch may send you communications or data regarding our services, including but not limited to (i) notices about your use of our services, including any notices concerning violations of use, (ii) updates, and (iii) promotional information and materials regarding our products and services. You may opt-out of receiving promotional emails from Big Switch by following the opt-out instructions provided in those emails. You may also opt-out of receiving promotional emails and other promotional communications from us at any time by emailing [support@bigswitch.com](mailto:support@bigswitch.com) with your specific request. Opt-out requests will not apply to transactional service messages, such as security alerts and notices about your current account and services.
+Big Switch may send you communications or data regarding our services, including but not limited to (i) notices about your use of our services, including any notices concerning violations of use, (ii) updates, and (iii) promotional information and materials regarding our products and services. You may opt-out of receiving promotional emails from Big Switch by following the opt-out instructions provided in those emails. You may also opt-out of receiving promotional emails and other promotional communications from us at any time by emailing support@bigswitch.com with your specific request. Opt-out requests will not apply to transactional service messages, such as security alerts and notices about your current account and services.
 
 ## Contacting Us.
 
-Any questions about this Policy should be addressed to [support@bigswitch.com](mailto:support@bigswitch.com).
+Any questions about this Policy should be addressed to support@bigswitch.com.
 
 Last updated: January 2014
