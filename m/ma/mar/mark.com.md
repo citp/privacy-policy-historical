@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mark.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913081154id_/https%3A//mark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mark.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610191055id_/https%3A//mark.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · Mark
 
