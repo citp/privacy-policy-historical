@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the examswatch.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127171059id_/http%3A//examswatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examswatch.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610193108id_/http%3A//examswatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ExamsWatch
+
+**ExamsWatch.com Privacy Policy**
 
 Protecting your privacy is very important to [us](http://examswatch.com/about/) and we have developed this privacy policy to protect your personal information and keep it confidential.
 
@@ -26,11 +28,11 @@ We also honour “do not track” signals and do not track, plant cookies, or us
 
 In accordance with _Fair Information Practices_ , we will notify our subscribers, users within 2 business days via email.
 
-In accordance with _CAN SPAM act_ , we agree to promptly remove subscribers from all correspondence upon user’s request for unsubscribing from receiving any future emails. You can mail us at admin@examswatch.com to request to unsubscribe.
+In accordance with _CAN SPAM act_ , we agree to promptly remove subscribers from all correspondence upon user’s request for unsubscribing from receiving any future emails. You can mail us at **[admin _@examswatch.com_](mailto:admin@examswatch.com)** to request to unsubscribe.
 
 **Use of Collected Information**
 
-www.examswatch.com may collect and use user’s personal identification information for improving customer service and support, to personalize user experience, to respond to user’s enquiries and requests, and to improve the quality of our content and services, products, based on the feedback you provide.
+www.examswatch.com may collect and use user’s personal identification information for improving customer service and support, to personalize user experience, to respond to user’s enquiries and requests, and to improve the quality of our content and services, products, based on the feedback you provide. However, _We are strictly against outsourcing, selling of user’s information._
 
 **Cookies**
 
@@ -58,10 +60,15 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google�
 
 By using www.examswatch.com, you indicate your acceptance for this policy. If you do not agree to privacy policy of ExamsWatch, please do not use www.examswatch.com. Your continued use of the site following the changes to this policy, will be deemed your agreement to those changes.
 
-**Contact Us**
+**Contacting us**
 
-> **WZ- 106/23- 24, 2nd Floor,**  
->  **Rajouri Garden Extension, Delhi- 110027,**  
->  **New Delhi, India.**  
->  **Phone- +9111-47082562**  
->  **Email- admin@examswatch.com, ashwani@examswatch.com**
+If there any question regarding the privacy policy of out site, you may contact using the information below.
+
+ExamsWatch Media  
+Ground Floor, 12, VDS Market,  
+Sector-51, Noida,  
+Uttar Pradesh, 201301,  
+Email: [editor _@examswatch.com_](mailto:editor@examswatch.com)  
+Phone no.: 09760199730, 09650146683.
+
+Privacy Policy last update on May 7, 2016.
