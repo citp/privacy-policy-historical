@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the codility.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315024727id_/https%3A//codility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codility.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610085451id_/https%3A//codility.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Codility
 
-Last updated on 2013-06-12
+Last updated on 2016-03-03
 
-Codility Ltd ( _"_ we, _"_ “us” or “our”) is committed to protecting and respecting your privacy. This Privacy Policy sets out how we **** collect, use and share information which identifies you or is associated with you (“personal information”).
+Codility Ltd ( _"_ we, _"_ “us” or “our”) is committed to protecting and respecting your privacy. This Privacy Policy sets out how we collect, use and share information which identifies you or is associated with you (“personal information”).
 
 Please read this Privacy Policy carefully to understand our views and practices regarding your personal information and how we will treat it. By setting up an account with us or using and accessing [https://codility.com](https://codility.com/) (the “Service”), you consent to the use of your personal information as described in this Privacy Policy.
 
 For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Codility Ltd. Our registered office is at 9th Floor, 107 Cheapside, London, United Kingdom EC2V 6DN. Our company registration number is 08372083.
 
-You should also be aware that we use cookies to store and access information whilst providing the Service. You can find out more about our use of cookies in our [Cookie Policy](https://web.archive.org/cookie-policy).
+You should also be aware that we use cookies to store and access information whilst providing the Service. You can find out more about our use of cookies in our [Cookie Policy](https://web.archive.org/cookie-policy/).
 
 **1\. Information We May Collect**
 
 We collect the categories of information set out in sections a. to e. below when you use the Service.
 
-a. **** Information we collect directly from you: 
+a. Information we collect directly from you: 
 
 We collect information from you when you submit information to us or the Service. The following are examples of when we may collect information directly from you:
 
@@ -35,11 +35,11 @@ We collect information from you when you submit information to us or the Service
 
 
 
-b. **** Information from the organisation that creates your profile on the Service
+b. Information from the organisation that creates your profile on the Service
 
 If you are provided with login details to access the Service through an organisation’s account, that organisation may provide us with details to create a profile for you on the Service. This can include information such as your name, job title, work telephone number and email address.
 
-c. **** Information about how you use the Service ****
+c. Information about how you use the Service
 
 We collect data about how you use the Service such the time you access the Service and duration you are on it, the site you come to the Service from or go to after leaving the Service, selections and choices you make and preferences that you set when using the Service as well as any data you input while conducting any assessment on the Service.
 
@@ -51,9 +51,9 @@ e. Information about your actual location
 
 We do not collect information about your actual location, other than an approximate location (usually no more precise than city level) which can be determined from your IP address.
 
-In certain instances we may use cookies and similar technologies to store and access information we collect through the Service. You can find out more about our use of cookies in our [Cookie Policy](https://web.archive.org/cookie-policy).
+In certain instances we may use cookies and similar technologies to store and access information we collect through the Service. You can find out more about our use of cookies in our [Cookie Policy](https://web.archive.org/cookie-policy/).
 
-**3\. Where We Store Your Personal Data**
+**2\. Where We Store Your Personal Data**
 
 The information we collect directly from you, about how you use the Service and about how you connect to Service may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who works for us or for one of our suppliers or any of our employer clients. Such staff maybe engaged in, among other things the provision of support services to us or the assessment of your candidacy. By using the Service you consent to any transfer, storage or processing of your personal information outside of your country. We will take all steps reasonably necessary to ensure that personal information is treated securely and in accordance with this Privacy Policy.
 
@@ -61,7 +61,7 @@ All information you provide to us is stored on a third party's secure servers pr
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-**4\. Uses Made of the Information We Collect**
+**3\. Uses Made of the Information We Collect**
 
 We use the information we collect in the following ways:
 
@@ -92,7 +92,7 @@ We use the information we collect in the following ways:
 
 
 
-**5\. Disclosure of Personal Information**
+**4\. Disclosure of Personal Information**
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries and the employees, agents, officers, directors and contractors of the foregoing entities. These companies will only use your personal information in the same way as we can under this Privacy Policy.
 
@@ -115,24 +115,24 @@ We may disclose your personal information to third parties:
 
 
 
-**6\. Your Marketing Rights**
+**5\. Your Marketing Rights**
 
 You have the right to ask us not to process the personal information for marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at support@codility.com.
 
-We or online advertising networks that we partner with may use cookies to make sure advertisements you see online are more relevant to you. You can find out more about cookies and how to manage them by reading our [Cookie Policy](https://web.archive.org/cookie-policy).
+We or online advertising networks that we partner with may use cookies to make sure advertisements you see online are more relevant to you. You can find out more about cookies and how to manage them by reading our [Cookie Policy](https://web.archive.org/cookie-policy/).
 
 The Service may, from time to time, contain links to and from the websites of our employer partners, partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-**7\. Access to Information**
+**6\. Access to Information**
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act.
 
-**8\. Changes to our Privacy Policy**
+**7\. Changes to our Privacy Policy**
 
 Any changes we may make to our privacy policy in the future will be posted on this page.
 
 We may change, modify, add or remove portions of this Privacy Policy at any time. We will use reasonable endeavours to inform you of any material changes when they occur. We may do this by email or notice on the site as we consider appropriate. Any changes will be updated on this Privacy Policy page. You should periodically review our Privacy Policy page for any such changes and can object to them by no longer using or accessing the Service. Please further note, depending on your particular interaction with us, different portions of this Privacy Policy may apply to you at different times.
 
-**9\. Contact**
+**8\. Contact**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to support@codility.com.
+Questions, comments and requests regarding this privacy policy are welcome and should be addressed to support@codility.com.
