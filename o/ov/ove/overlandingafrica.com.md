@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overlandingafrica.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024060109id_/http%3A//www.overlandingafrica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overlandingafrica.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610060137id_/http%3A//www.overlandingafrica.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Overlanding Africa.com
 
