@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ashleystewart.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204170344id_/http%3A//www.ashleystewart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleystewart.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610143224id_/http%3A//www.ashleystewart.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Ashley Stewart
+# Privacy Policy | Ashley Stewart Plus Size Clothing
 
 Ashley Stewart believes it is important to let visitors to AshleyStewart.com (the "Website") know what types of information we collect online and how we may use and share that information. This privacy policy applies to information obtained by us through this Website, or which you may otherwise provide directly to us, and not to other websites to which we may link. We may post links as a way of helping you locate related information and products easily. However, when linking to another website, you must review that website's privacy policy as other websites may not treat information collected online in the same manner that we do. In this online Privacy Policy, "we", "our" or "us" refers to Ashley Stewart, and "you" or "your" refers to each visitor to the Website. Except for the section titled Your California Privacy Rights, this Privacy Policy applies only to information that we collect about you on the Website.
 
