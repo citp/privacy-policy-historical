@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the languagecourse.net privacy policy that was archived on 2015-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210123750id_/http%3A//www.languagecourse.net/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the languagecourse.net privacy policy that was archived on 2016-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610213247id_/http%3A//www.languagecourse.net/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Privacy Policy</title>
@@ -13,15 +13,22 @@
 <meta property="og:site_name" content="LanguageCourse.Net">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:description" name="fb_description" content="">
-<meta property="og:image" content="http://c0577872.cdn.cloudfiles.rackspacecloud.com/fb_default_image.jpg">
+<meta property="og:image" content="/templates/default/img/fb_default_image.jpg">
 
 
 
 	<link rel="canonical" href="">
 	<meta property="og:url" content="">
-	<link rel="StyleSheet" href="/templates/default/css/general.css.20150421155200.php?lang=en" type="text/css" media="all">
+	<link rel="StyleSheet" href="/templates/default/css/general-ssl.css.20160608151734.php?lang=en" type="text/css" media="all">
 	<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon_lcn.ico">
-						        	<!-- Start of responsive modification (RM) -->
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<!-- Rating system CSS -->
+	<link href="/templates/default/css/jq-rating.css" rel="stylesheet" type="text/css">
+	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+						        	<!-- Boostrap own CSS -->
+	<link rel="StyleSheet" href="/templates/default/css/parts/bootstrap-own.css" type="text/css">
+	<!-- Start of responsive modification (RM) -->
 	<link rel="StyleSheet" href="/templates/default/css/parts/responsive.css" type="text/css">
 	<!-- End of RM -->
 	<link rel="StyleSheet" href="/templates/default/css/print.20100517115428.css.php" type="text/css" media="print">
@@ -70,8 +77,9 @@
 			padding-bottom: 10px;
             padding-top: 0px;
 		}
-		.tell_a_friend  p {
+		.tell_a_friend p {
 			margin-bottom: 15px;
+			font-size: 1.2em;
 		}
 		.tell_a_friend  a {
 			margin: 0 3px;
@@ -104,6 +112,8 @@
             font-size: 11px;
             font-weight: bold;
             text-align: right;
+            z-index: 3;
+            background-color: #FFFFFF;
         }
 
         #consultantBar.visibleConsultantBar .cbExplanation {
@@ -111,25 +121,86 @@
             font-weight: normal;
             font-style: italic;
         }
+
+        #head{
+        	z-index: 4;
+        }
+
+        #contactBoxWrapper{
+        	z-index: 2;
+        }
 	
 </style>
 
-<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="/templates/default/js/jquery-1.6.1.min.js"></script>
-<script type="text/javascript" src="/templates/default/js/customSelect.jquery.js" async=""></script>
-<script type="text/javascript" src="/templates/default/js/friendlyURL20100122.js.php" async=""></script>
+<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="/templates/default/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/templates/default/js/jquery.browser.min.js"></script>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=languagecourse"></script>
+<script type="text/javascript" src="/templates/default/js/customSelect.jquery.js"></script>
+<script type="text/javascript" src="/templates/default/js/friendlyURL20100122.js.php"></script>
+<!-- Bootstrap JS -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<!-- Bootstrap calendar datepicker plugin -->
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.1/js/bootstrap-datepicker.js"></script>
+<!-- localization of weekdays/months of the bootstrap calendar datepicker plugin -->
+<script type="text/javascript" src="/templates/default/js/locales/bootstrap-datepicker.en.js" charset="UTF-8"></script>
+<!-- Star rating system: jq-rating => https://github.com/esleducation/jq-rating -->
+<script type="text/javascript" src="/templates/default/js/jq-rating.js"></script>
+<!-- Boostrap plugins initializations, plugins and specific function + jq-rating -->
+<script type="text/javascript" src="/templates/default/js/customBootstrapPlugins.js"></script>
 <!-- Start of responsive modification (RM) -->
-<script type="text/javascript" src="/templates/default/js/responsiveFunctions.js" async=""></script>
+<script type="text/javascript" src="/templates/default/js/responsiveFunctions.js"></script>
 <!-- End of RM -->
 <script type="text/javascript">
 
+jQuery(function($){
+/*** BOOTSTRAP BASED CALENDAR DATEPICKER PLUGIN ***/
+	/*** init bootstrap calendar datepicker plugin + specific options ***/
+	$('#calendarDatePicker').datepicker({todayHighlight: true, language: 'en', container: '#calendarDatePicker', autoclose: 'true', clearBtn: 'true', startDate: '0', endDate: '+1y', format: 'dd M. yyyy'});
+	/*** END => init init bootstrap calendar datepicker plugin ***/
+
+	// set the value of the input field to today's date
+	
+					$('#calendar_date_intro').removeClass('calendarHideIntro').addClass('calendarShowIntro');
+			$('#calendar_date').attr('size','1');
+			$('#calendar_date').css('width','0');
+			
+
+	// replace the default '+' in the calendar icon when selected date is cleared
+	$('#calendarDatePicker').datepicker().on('clearDate', function(e) {
+			var ind = document.getElementById('calendarIndicator');
+			ind.innerHTML = '+';
+			ind.className = ind.className.replace( "calNumFilled", "calNumEmpty" );
+			$('#calendar_date_intro').removeClass('calendarHideIntro').addClass('calendarShowIntro');
+			$('#calendar_date').css('size','1');
+			$('#calendar_date').css('width','0');
+	});
+
+	// dynamically add red border and red color content in calendar selector (adding class 'redWhenEmptyDate' or removing it)
+	function redWhenEmptyDate() {
+		if($(".calendarShowIntro").length !== 0) {
+			$('#calendarDatePicker').addClass('redWhenEmptyDate');
+		} else {
+			$('#calendarDatePicker').removeClass('redWhenEmptyDate');
+		}
+	}
+	// trigger function when the date picker is hidden in order to put or remove the red colouring class
+	$('#calendarDatePicker').datepicker().on('hide', redWhenEmptyDate);
+	// init function to dynamically add red border and red color content in calendar selector
+	redWhenEmptyDate();
+/*** END OF => CALENDAR DATEPICKER PLUGIN ***/
+});
+
+<!-- old code -->
 jQuery(function(){
 	jQuery('.drop_down, .drop_down_searchbox').show().customStyle();
 });
 
 </script>
 
-            <script type="text/javascript" src="/templates/default/js/ajax_services.js.php" async=""></script>
-    <!-- Facebook Conversion Code for Key Pages Views -->
+        <script type="text/javascript" src="/templates/default/js/ajax_services.js.php"></script>
+        <script type="text/javascript" src="/templates/default/js/selector.js.php"></script>
+<!-- Facebook Conversion Code for Key Pages Views -->
 
 <script>(function() {
   var _fbq = window._fbq || (window._fbq = []);
@@ -149,11 +220,53 @@ window._fbq.push(['track', '6018598102861', {'value':'0.00','currency':'EUR'}]);
 
 </head><body onload="showPhoneGraphic();positionContactBox()">
 <div id="main">
- <div id="consultantBar"></div> <div id="head"> <div class="head_center"> <div id="head_title"> <div id="bar_title_image"> <a href="/"> <img border="0" src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/lcn_en.jpg"> </a> </div> </div> <div>  <div id="bar_flags_new"> <ul>  <li class="langList"><a href="#"><span id="langMenuFlag_en" class="langMenuFlag_en langFlag"></span>English</a> <ul>  <li id="flag_link_to_es"><a href="/politica-de-privacidad.php" alt="" title=""><span id="langMenuFlag_es" class="langMenuFlag_es langFlag"></span>Español</a></li>  <li id="flag_link_to_de"><a href="/datenschutzbestimmungen.php" alt="" title=""><span id="langMenuFlag_de" class="langMenuFlag_de langFlag"></span>Deutsch</a></li>  <li id="flag_link_to_fr"><a href="/politique-de-confidentialite.php" alt="" title=""><span id="langMenuFlag_fr" class="langMenuFlag_fr langFlag"></span>Français</a></li>  <li id="flag_link_to_it"><a href="/corsi-di-lingua/politica-di-riservatezza.php" alt="" title=""><span id="langMenuFlag_it" class="langMenuFlag_it langFlag"></span>Italiano</a></li>  <li id="flag_link_to_ru"><a href="/ru/privacy-policy.php" alt="" title=""><span id="langMenuFlag_ru" class="langMenuFlag_ru langFlag"></span>Русский</a></li>  <li id="flag_link_to_jp"><a href="/discount-ryugaku/privacy-policy.php" alt="" title=""><span id="langMenuFlag_jp" class="langMenuFlag_jp langFlag"></span>日本語</a></li>  <li id="flag_link_to_nl"><a href="/talen-cursussen/privacy-beleid.php" alt="" title=""><span id="langMenuFlag_nl" class="langMenuFlag_nl langFlag"></span>Nederlands</a></li>  <li id="flag_link_to_pl"><a href="/kursy-jezykowe/warunki-ochrony-prywatnosci-klienta.php" alt="" title=""><span id="langMenuFlag_pl" class="langMenuFlag_pl langFlag"></span>Polski</a></li>  <li id="flag_link_to_se"><a href="/se-sprakkurser/sekretessvillkor.php" alt="" title=""><span id="langMenuFlag_se" class="langMenuFlag_se langFlag"></span>Svenska</a></li>  <li id="flag_link_to_ar"><a href="/ar/seiast-alkososia" alt="" title=""><span id="langMenuFlag_ar" class="langMenuFlag_ar langFlag"></span>العربية</a></li>  <li id="flag_link_to_bg"><a href="/bg/politica-na-confedencialnost" alt="" title=""><span id="langMenuFlag_bg" class="langMenuFlag_bg langFlag"></span>Български</a></li>  <li id="flag_link_to_bn"><a href="/bn/privacy-policy" alt="" title=""><span id="langMenuFlag_bn" class="langMenuFlag_bn langFlag"></span>বাঙালী </a></li>  <li id="flag_link_to_ca"><a href="/ca/politica-privacitat" alt="" title=""><span id="langMenuFlag_ca" class="langMenuFlag_ca langFlag"></span>Català</a></li>  <li id="flag_link_to_cs"><a href="/cs/privacy-policy" alt="" title=""><span id="langMenuFlag_cs" class="langMenuFlag_cs langFlag"></span>Čeština</a></li>  <li id="flag_link_to_zh"><a href="/zh/privacy-policy" alt="" title=""><span id="langMenuFlag_zh" class="langMenuFlag_zh langFlag"></span>汉语</a></li>  <li id="flag_link_to_da"><a href="/da/fortrolighedspolitik" alt="" title=""><span id="langMenuFlag_da" class="langMenuFlag_da langFlag"></span>Dansk</a></li>  <li id="flag_link_to_el"><a href="/el/privacy-policy" alt="" title=""><span id="langMenuFlag_el" class="langMenuFlag_el langFlag"></span>Ελληνικά</a></li>  <li id="flag_link_to_fa"><a href="/fa/privacy-policy" alt="" title=""><span id="langMenuFlag_fa" class="langMenuFlag_fa langFlag"></span>فارسی</a></li>  <li id="flag_link_to_fi"><a href="/fi/tietojen-salaus" alt="" title=""><span id="langMenuFlag_fi" class="langMenuFlag_fi langFlag"></span>Suomi</a></li>  <li id="flag_link_to_hi"><a href="/hi/privacy-policy" alt="" title=""><span id="langMenuFlag_hi" class="langMenuFlag_hi langFlag"></span>हिंदी</a></li>  <li id="flag_link_to_iw"><a href="/iw/privacy-policy" alt="" title=""><span id="langMenuFlag_iw" class="langMenuFlag_iw langFlag"></span>עברית</a></li>  <li id="flag_link_to_hr"><a href="/hr/pravila-o-privatnosti" alt="" title=""><span id="langMenuFlag_hr" class="langMenuFlag_hr langFlag"></span>Hrvatski</a></li>  <li id="flag_link_to_hu"><a href="/hu/adatvedelem" alt="" title=""><span id="langMenuFlag_hu" class="langMenuFlag_hu langFlag"></span>Magyar</a></li>  <li id="flag_link_to_ko"><a href="/ko/privacy-policy" alt="" title=""><span id="langMenuFlag_ko" class="langMenuFlag_ko langFlag"></span>한국어</a></li>  <li id="flag_link_to_ms"><a href="/ms/polisi-privasi" alt="" title=""><span id="langMenuFlag_ms" class="langMenuFlag_ms langFlag"></span>Bahasa Malaysia</a></li>  <li id="flag_link_to_no"><a href="/no/privacy-policy" alt="" title=""><span id="langMenuFlag_no" class="langMenuFlag_no langFlag"></span>Norsk</a></li>  <li id="flag_link_to_pt"><a href="/pt/politica-privacidade" alt="" title=""><span id="langMenuFlag_pt" class="langMenuFlag_pt langFlag"></span>Português</a></li>  <li id="flag_link_to_ro"><a href="/ro/privacy-policy" alt="" title=""><span id="langMenuFlag_ro" class="langMenuFlag_ro langFlag"></span>Română</a></li>  <li id="flag_link_to_sk"><a href="/sk/pravidla-ochrany-sukromia" alt="" title=""><span id="langMenuFlag_sk" class="langMenuFlag_sk langFlag"></span>Slovenčina</a></li>  <li id="flag_link_to_sl"><a href="/sl/politika-zasebnosti" alt="" title=""><span id="langMenuFlag_sl" class="langMenuFlag_sl langFlag"></span>Slovenski</a></li>  <li id="flag_link_to_th"><a href="/th/privacy-policy" alt="" title=""><span id="langMenuFlag_th" class="langMenuFlag_th langFlag"></span>ภาษาไทย</a></li>  <li id="flag_link_to_tr"><a href="/tr/gizlilik-politikasi" alt="" title=""><span id="langMenuFlag_tr" class="langMenuFlag_tr langFlag"></span>Türkçe</a></li>  <li id="flag_link_to_uk"><a href="/uk/polityka-konfidentsiinosti" alt="" title=""><span id="langMenuFlag_uk" class="langMenuFlag_uk langFlag"></span>українська</a></li>  <li id="flag_link_to_vi"><a href="/vi/chinh-sach-bao-mat" alt="" title=""><span id="langMenuFlag_vi" class="langMenuFlag_vi langFlag"></span>Tiếng Việt</a></li>  </ul> </li> </ul> </div>  <div class="head_help" id="contact_head_help">  <div id="url-wrapper-print"> www.languagecourse.net/privacy-policy.php </div> </div> </div> <!--<div id="head_phrase">  </div>--> </div> <a href="/our_service_guarantees.php"><div class="head_seals"> <img src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/guarantees_en.jpg"> </div></a> <div class="side_left_barra_nav"></div> <div class="clear"></div>    <!--<div class="head_right"></div>--> <div class="clear"></div> <!--<div id="barra_nav"> <div id="slogan"><img src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/slogan_en.png" alt="" /></div> <div id="head_phrase2"> <img border="0" src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/web_en.png"/> </div> <div class="side_left_barra_nav"></div> <div class="clear"></div> </div>--> <div class="clear"></div>   <div id="bread_crumbs">     <h4 class="bread_crumbs_link"><a href="/"><img src="http://c0577872.cdn.cloudfiles.rackspacecloud.com//home_image_small.gif"></a></h4>   <h4 class="bread_crumbs_final">&gt;&nbsp;Privacy Policy</h4>    <div class="clear"></div> </div>
+<div id="lang_suggest" class="lang_suggestion"><span id="lang_suggestion_question"></span>  <span id="lang_suggestion_link"></span><span id="close_suggest" class="suggestion_close">X</span> </div> <input type="hidden" id="browser_lang" value=""> <input type="hidden" id="show_lang_suggestion" value=""> 
+<script type="text/javascript">
+	function readCookie(name) {
+	    var nameEQ = name + "=";
+	    var ca = document.cookie.split(';');
+	    for (var i = 0; i < ca.length; i++) {
+	        var c = ca[i];
+	        while (c.charAt(0) == ' ')
+	            c = c.substring(1, c.length);
+	        if (c.indexOf(nameEQ) == 0)
+	            return c.substring(nameEQ.length, c.length);
+	    }
+	    return null;
+	}
+	if (readCookie('lang_suggest_close') == null) {
+		document.addEventListener("DOMContentLoaded", function()  {
+	        window.setTimeout(function() {
+	        	var browser_lang = document.getElementById('browser_lang').value;
+	        	var show_lang_suggestion = document.getElementById('show_lang_suggestion').value;
+ if (show_lang_suggestion == 'true' && browser_lang != 'en') 
+	        	{
+					var targetHeight = 30;
+		          	// fade in
+		          	jQuery('#lang_suggest').animate({height: targetHeight + 'px'}, 800);
+		          	jQuery('#head').animate({top: targetHeight + 'px'}, 800);
+		          	jQuery('#body_content').animate({top: targetHeight + 'px'}, 800);
+		          	jQuery('#addthis_bar').animate({top: '+='  + targetHeight}, 800);
+		          	jQuery('#contactBoxWrapper').animate({top: '+=' + targetHeight}, 800);
+		          	// set handler for fadeout
+		        	document.getElementById('close_suggest').addEventListener("click", function() {
+		 	           	document.cookie = "lang_suggest_close=1; path=/";
+	   		          	jQuery('#lang_suggest').animate({height: '0px'}, 800);
+			          	jQuery('#head').animate({top: '0px'}, 800);
+			          	jQuery('#body_content').animate({top: '0px'}, 800);
+			          	jQuery('#addthis_bar').animate({top: '-='  + targetHeight}, 800);
+			          	jQuery('#contactBoxWrapper').animate({top: '-=' + targetHeight}, 800);
+		        	});
+	        	}
+	        }, 5000);
+		});
+	}
+</script>
+  <div id="consultantBar"></div> <div id="head"> <div class="header"> <div id="head_title"> <a href="/"> <img border="0" src="/templates/default/img/lcn_en2.jpg"> </a> </div> <div id="headCenter"> <div id="headSearchBar">  <!-- <div onclick="document.getElementById('searchForm_small').submit.click();" id="arrow_search"></div>--> <form id="searchForm_small" action="/code/search_form.php?page_language=en"> <input type="hidden" id="page_language" name="page_language" value="en"> <div> <input class="form-control" type="text" name="search_query" id="search_query" placeholder="Country, City, School ..." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Country, City, School ...'"> <i class="glyphicon glyphicon-search"></i> </div> <input type="submit" name="submit" value="Submit" style="display:none;"> </form> </div>  <div class="headSlogan"><p>#1 Most Visited Website for Booking Language Courses</p></div> </div>  <div class="rightFloater"> <div id="headerHelp" class="popoverContainer"> <a tabindex="0" href="#" class="btn popoverLinksList" role="button" data-use="#helpList" data-toggle="popover" data-placement="bottom" data-template="<div class=&quot;popover&quot; role=&quot;tooltip&quot;><div class=&quot;arrow&quot;></div><div class=&quot;popover-content&quot;></div></div>">Help</a> <div id="helpList" style="display: none;"> <ul> <li class="popoverLinksListTitle">How can we help you?</li>                                               <li> <a class="helpLink_1" href="/book-language-programe-online.php">Steps to enroll in a language course</a> </li>    <li> <a class="helpLink_3" href="/faq.php3">FAQ</a> </li>    <li> <a class="helpLink_14" href="https://secure.languagecourse.net//contact.php">Contact Us</a> </li>    <li> <a class="helpLink_15" href="/group-discounts-language-travels.php">Group Discount</a> </li>    <li> <a class="helpLink_16" href="/about-us.php">About us</a> </li>                           </ul> </div> </div> <div class="vertLineRightHeader"><span></span></div> <div id="bar_flags_new" class="popoverContainer">  <div class="langList"> <a tabindex="0" href="#" class="btn popoverLinksList" role="button" data-use="#flagsContent" data-toggle="popover" data-placement="bottom" data-template="<div class=&quot;popover&quot; role=&quot;tooltip&quot;><div class=&quot;arrow&quot;></div><ul class=&quot;popover-content&quot;></ul></div>"><span id="langMenuFlag_en" class="langMenuFlag_en langFlag"></span></a> <ul id="flagsContent" style="display: none;">  <li id="flag_link_to_es"><a href="/politica-de-privacidad.php" alt="" title=""><span id="langMenuFlag_es" class="langMenuFlag_es langFlag"></span></a></li>  <li id="flag_link_to_de"><a href="/datenschutzbestimmungen.php" alt="" title=""><span id="langMenuFlag_de" class="langMenuFlag_de langFlag"></span></a></li>  <li id="flag_link_to_fr"><a href="/politique-de-confidentialite.php" alt="" title=""><span id="langMenuFlag_fr" class="langMenuFlag_fr langFlag"></span></a></li>  <li id="flag_link_to_it"><a href="/corsi-di-lingua/politica-di-riservatezza.php" alt="" title=""><span id="langMenuFlag_it" class="langMenuFlag_it langFlag"></span></a></li>  <li id="flag_link_to_ru"><a href="/ru/privacy-policy.php" alt="" title=""><span id="langMenuFlag_ru" class="langMenuFlag_ru langFlag"></span></a></li>  <li id="flag_link_to_jp"><a href="/discount-ryugaku/privacy-policy.php" alt="" title=""><span id="langMenuFlag_jp" class="langMenuFlag_jp langFlag"></span></a></li>  <li id="flag_link_to_nl"><a href="/talen-cursussen/privacy-beleid.php" alt="" title=""><span id="langMenuFlag_nl" class="langMenuFlag_nl langFlag"></span></a></li>  <li id="flag_link_to_pl"><a href="/kursy-jezykowe/warunki-ochrony-prywatnosci-klienta.php" alt="" title=""><span id="langMenuFlag_pl" class="langMenuFlag_pl langFlag"></span></a></li>  <li id="flag_link_to_se"><a href="/se-sprakkurser/sekretessvillkor.php" alt="" title=""><span id="langMenuFlag_se" class="langMenuFlag_se langFlag"></span></a></li>  <li id="flag_link_to_ar"><a href="/ar/seiast-alkososia" alt="" title=""><span id="langMenuFlag_ar" class="langMenuFlag_ar langFlag"></span></a></li>  <li id="flag_link_to_bg"><a href="/bg/politica-na-confedencialnost" alt="" title=""><span id="langMenuFlag_bg" class="langMenuFlag_bg langFlag"></span></a></li>  <li id="flag_link_to_bn"><a href="/bn/privacy-policy" alt="" title=""><span id="langMenuFlag_bn" class="langMenuFlag_bn langFlag"></span></a></li>  <li id="flag_link_to_ca"><a href="/ca/politica-privacitat" alt="" title=""><span id="langMenuFlag_ca" class="langMenuFlag_ca langFlag"></span></a></li>  <li id="flag_link_to_cs"><a href="/cs/privacy-policy" alt="" title=""><span id="langMenuFlag_cs" class="langMenuFlag_cs langFlag"></span></a></li>  <li id="flag_link_to_zh"><a href="/zh/privacy-policy" alt="" title=""><span id="langMenuFlag_zh" class="langMenuFlag_zh langFlag"></span></a></li>  <li id="flag_link_to_da"><a href="/da/fortrolighedspolitik" alt="" title=""><span id="langMenuFlag_da" class="langMenuFlag_da langFlag"></span></a></li>  <li id="flag_link_to_el"><a href="/el/privacy-policy" alt="" title=""><span id="langMenuFlag_el" class="langMenuFlag_el langFlag"></span></a></li>  <li id="flag_link_to_fa"><a href="/fa/privacy-policy" alt="" title=""><span id="langMenuFlag_fa" class="langMenuFlag_fa langFlag"></span></a></li>  <li id="flag_link_to_fi"><a href="/fi/tietojen-salaus" alt="" title=""><span id="langMenuFlag_fi" class="langMenuFlag_fi langFlag"></span></a></li>  <li id="flag_link_to_hi"><a href="/hi/privacy-policy" alt="" title=""><span id="langMenuFlag_hi" class="langMenuFlag_hi langFlag"></span></a></li>  <li id="flag_link_to_iw"><a href="/iw/privacy-policy" alt="" title=""><span id="langMenuFlag_iw" class="langMenuFlag_iw langFlag"></span></a></li>  <li id="flag_link_to_hr"><a href="/hr/pravila-o-privatnosti" alt="" title=""><span id="langMenuFlag_hr" class="langMenuFlag_hr langFlag"></span></a></li>  <li id="flag_link_to_hu"><a href="/hu/adatvedelem" alt="" title=""><span id="langMenuFlag_hu" class="langMenuFlag_hu langFlag"></span></a></li>  <li id="flag_link_to_ko"><a href="/ko/privacy-policy" alt="" title=""><span id="langMenuFlag_ko" class="langMenuFlag_ko langFlag"></span></a></li>  <li id="flag_link_to_ms"><a href="/ms/polisi-privasi" alt="" title=""><span id="langMenuFlag_ms" class="langMenuFlag_ms langFlag"></span></a></li>  <li id="flag_link_to_no"><a href="/no/privacy-policy" alt="" title=""><span id="langMenuFlag_no" class="langMenuFlag_no langFlag"></span></a></li>  <li id="flag_link_to_pt"><a href="/pt/politica-privacidade" alt="" title=""><span id="langMenuFlag_pt" class="langMenuFlag_pt langFlag"></span></a></li>  <li id="flag_link_to_ro"><a href="/ro/privacy-policy" alt="" title=""><span id="langMenuFlag_ro" class="langMenuFlag_ro langFlag"></span></a></li>  <li id="flag_link_to_sk"><a href="/sk/pravidla-ochrany-sukromia" alt="" title=""><span id="langMenuFlag_sk" class="langMenuFlag_sk langFlag"></span></a></li>  <li id="flag_link_to_sl"><a href="/sl/politika-zasebnosti" alt="" title=""><span id="langMenuFlag_sl" class="langMenuFlag_sl langFlag"></span></a></li>  <li id="flag_link_to_th"><a href="/th/privacy-policy" alt="" title=""><span id="langMenuFlag_th" class="langMenuFlag_th langFlag"></span></a></li>  <li id="flag_link_to_tr"><a href="/tr/gizlilik-politikasi" alt="" title=""><span id="langMenuFlag_tr" class="langMenuFlag_tr langFlag"></span></a></li>  <li id="flag_link_to_uk"><a href="/uk/polityka-konfidentsiinosti" alt="" title=""><span id="langMenuFlag_uk" class="langMenuFlag_uk langFlag"></span></a></li>  <li id="flag_link_to_vi"><a href="/vi/chinh-sach-bao-mat" alt="" title=""><span id="langMenuFlag_vi" class="langMenuFlag_vi langFlag"></span></a></li>  </ul> </div> </div> </div>  </div> <!-- <div class="head_help" id="contact_head_help"> -->  <div id="url-wrapper-print"> www.languagecourse.net/privacy-policy.php </div> <!-- </div> --> </div> <div id="bottomHead"> <div class="breadAndSocial">  <div id="bread_crumbs">    <h4 class="bread_crumbs_link"><a href="/"></a></h4>   <h4 class="bread_crumbs_final">» <span class="unselectable">Privacy Policy</span></h4>   </div>   </div> </div>     <!--<div class="head_right"></div>--> <div class="clear"></div> <!--<div id="barra_nav"> <div id="slogan"><img src="/templates/default/img/slogan_en.png" alt="" /></div> <div id="head_phrase2"> <img border="0" src="/templates/default/img/web_en.png"/> </div> <div class="side_left_barra_nav"></div> <div class="clear"></div> </div>--> <div class="clear"></div>  
 </div> <style type="text/css"> 
 	#content {
     float: right;
-    width: 697px;
+    width: 977px;
 }
 
 	.ilinks{
@@ -161,7 +274,7 @@ window._fbq.push(['track', '6018598102861', {'value':'0.00','currency':'EUR'}]);
 	}
 
 	#decorator_71, #decorator_7 {
-		width: 679px !important;
+		width: 970px !important;
 		margin-right:18px;
 	}
 	
@@ -188,7 +301,7 @@ window._fbq.push(['track', '6018598102861', {'value':'0.00','currency':'EUR'}]);
 }
 </style>
 
-<div id="col_left">  			   <div id="decorator_8"><div class="side_t_8"><div class="corner_tl_8"></div><div class="corner_tr_8"></div></div><div class="content_8"> <!--    	<div> <div class="big_title">School search</div> <div class="dotted_line_small"></div> </div>--> <div id="menu">  <div> <div class="big_title">School search</div> <div class="dotted_line_small"></div> </div> <form id="search_small" action="/code/school_overview.php?page_language=en" onsubmit="return getFriendlyURL();"> <input type="hidden" id="page_language" name="page_language" value="en"> <table> <tbody><tr><td><select name="language_id" id="language_id_select" class="drop_down_searchbox" onchange="oSearchbox.selectLanguage();" style="display: inline-block; position: absolute; opacity: 0; font-size: 12px; height: 22px;"><option value="-1">Choose language</option><option value="1">English</option><option value="2">Spanish</option><option value="3">French</option><option value="4">Italian</option><option value="5">German</option><option value="16">Arabic</option><option value="9">Chinese</option><option value="null" disabled="">---------------------------</option><option value="23">Czech</option><option value="16">Arabic</option><option value="9">Chinese</option><option value="23">Czech</option><option value="22">Danish</option><option value="8">Dutch</option><option value="1">English</option><option value="21">Finnish</option><option value="3">French</option><option value="5">German</option><option value="10">Greek</option><option value="4">Italian</option><option value="15">Japanese</option><option value="19">Norwegian</option><option value="17">Polish</option><option value="6">Portuguese</option><option value="7">Russian</option><option value="2">Spanish</option><option value="18">Swedish</option><option value="12">Turkish</option></select><span class="customStyleSelectBox" style="display: inline-block;"><span class="customStyleSelectBoxInner" style="width: 134px; display: inline-block;">Choose language</span></span></td></tr> <tr><td><select name="country" id="country_select" class="drop_down_searchbox" onchange="oSearchbox.selectCountry();" disabled="" style="display: inline-block; position: absolute; opacity: 0; font-size: 12px; height: 22px;"><option value="-1">Choose country</option></select><span class="customStyleSelectBox" style="display: inline-block;"><span class="customStyleSelectBoxInner" style="width: 134px; display: inline-block;">Choose country</span></span></td></tr> <tr><td><select name="city" id="city_select" class="drop_down_searchbox" style="display: inline-block; position: absolute; opacity: 0; font-size: 12px; height: 22px;"><option value="-1">Choose city</option><option value="">All cities</option></select><span class="customStyleSelectBox" style="display: inline-block;"><span class="customStyleSelectBoxInner" style="width: 134px; display: inline-block;">All cities</span></span></td></tr> </tbody></table> <input type="submit" name="submit" value="Submit" style="display:none;"> <div onclick="document.getElementById('search_small').submit.click();" class="go_btn"> <img src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/button_go_yellow_en.png" alt="Go"> </div> <div class="clear"></div> </form> </div> </div><div class="side_b_8"><div class="corner_bl_8"></div><div class="corner_br_8"></div></div></div>      <div id="decorator_1"><div class="side_t_1"><div class="corner_tl_1"></div><div class="corner_tr_1"></div></div><div class="content_1" id="bannerLeftFlash">  <!--     EXCEPCI?: ALBERT, VOLDR?A QUE QUAN APAREGUI EL SEARCH BOX DINS DE COL_LEFT EL MENU FOS= MARGIN-TOP:40PX-->  <div class="menu">                                                <div> <!--							--> <div class="big_title">How to enroll?</div> <div class="dotted_line_small"></div> <div class="subcategories"><ul>    <li>   <a href="/book-language-programe-online.php">Steps to enroll in a language course</a></li>  </ul></div>      <div> <!--							--> <div class="big_title">Contact us</div> <div class="dotted_line_small"></div> <div class="subcategories"><ul>    <li>   <a href="/faq.php3">FAQ</a></li>        <li id="contact_leftbar">   <a href="https://secure.languagecourse.net//contact.php">Contact Us</a></li>        <li>   <a href="/group-discounts-language-travels.php">Group Discount</a></li>        <li>   <a href="/about-us.php">About us</a></li>  </ul></div>                             </div>   </div>   <div style="height:14px;">&nbsp;</div>  </div><div class="side_b_1"><div class="corner_bl_1"></div><div class="corner_br_1"></div></div></div>     <div id="banner_left" style="margin-top:20px;"> <!--<object type="application/x-shockwave-flash" width="170" height="650" data="http://c0577872.cdn.cloudfiles.rackspacecloud.com/banner_left_en.swf"> <param name="movie" value="http://c0577872.cdn.cloudfiles.rackspacecloud.com/banner_left_en.swf" /> <param name="quality" value="high" /> <param name="wmode" value="opaque" /> <img src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/banner_left_en.gif" alt="" /> </object>--> <img src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/BenefitsBanner-a_en.gif" alt=""> </div>     <!-- VT LEFT BANNER --> <div id="banner_VT" style="margin-top:20px;"> <div id="content_VT"> <div id="banner_dropdown_VT"> <form name="vt_launch" method="post" action="/vocabulary-trainer.php" target="blank"> <select style="width: 165px; display: inline; position: absolute; opacity: 0; font-size: 12px; height: 22px;" class="drop_down" id="vt_launch_learn" name="vt_launch_learn"> <option value="">Choose Language</option><option value="arabic">Arabic</option><option value="bengali">Bengali</option><option value="bulgarian">Bulgarian</option><option value="catalan">Catalan</option><option value="chinese">Chinese</option><option value="croatian">Croatian</option><option value="czech">Czech</option><option value="danish">Danish</option><option value="dutch">Dutch</option><option value="finnish">Finnish</option><option value="french">French</option><option value="german">German</option><option value="greek">Greek</option><option value="hebrew">Hebrew</option><option value="hindi">Hindi</option><option value="hungarian">Hungarian</option><option value="italian">Italian</option><option value="japanese">Japanese</option><option value="korean">Korean</option><option value="malay">Malay</option><option value="norwegian">Norwegian</option><option value="persian">Persian</option><option value="polish">Polish</option><option value="portuguese">Portuguese</option><option value="romanian">Romanian</option><option value="russian">Russian</option><option value="slovak">Slovak</option><option value="spanish">Spanish</option><option value="swedish">Swedish</option><option value="thai">Thai</option><option value="turkish">Turkish</option><option value="ukrainian">Ukrainian</option><option value="vietnamese">Vietnamese</option> </select><span class="customStyleSelectBox" style="display: inline-block;"><span class="customStyleSelectBoxInner" style="width: 149px; display: inline-block;">Choose Language</span></span> <input type="hidden" name="vt_launch_native" id="vt_launch_native" value="en"> </form> </div> <div class="banner_go_VT" onclick="VTGo();"></div> </div> </div>    <div id="decorator_8"><div class="side_t_8"><div class="corner_tl_8"></div><div class="corner_tr_8"></div></div><div class="content_8"> <div style="margin-top:14px; font-size:12px;"> <div class="big_title_search">Site Search</div> <div class="dotted_line_small"></div> </div> <div onclick="document.getElementById('searchForm_small').submit.click();" id="arrow_search"> <img src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/arrow_search.png" alt="Go"> </div> <form id="searchForm_small" action="/code/search_form.php?page_language=en"> <input type="hidden" id="page_language" name="page_language" value="en"> <input type="text" name="search_query" id="search_query" style="font-size:13px; width:130px;"> <input type="submit" name="submit" value="Submit" style="display:none;">  <div class="clear"></div> </form>  </div>  </div><div class="side_b_8"><div class="corner_bl_8"></div><div class="corner_br_8"></div></div></div>    <div id="last_visited" style="margin-bottom: 10px;"></div>        <div id="decorator_w" style="margin-top: 40px;">
+<div id="col_left">  			   <div id="decorator_8"><div class="side_t_8"><div class="corner_tl_8"></div><div class="corner_tr_8"></div></div><div class="content_8"> <!--    	<div> <div class="big_title">School search</div> <div class="dotted_line_small"></div> </div>--> <div id="menu">  <div> <div class="big_title">School search</div> <div class="dotted_line_small"></div> </div> <form id="search_small" action="/code/school_overview.php?page_language=en" onsubmit="return getFriendlyURL();"> <input type="hidden" id="page_language" name="page_language" value="en"> <table> <tbody><tr><td><select name="language_id" id="language_id_select" class="drop_down_searchbox" onchange="oSearchbox.selectLanguage();"><option value="-1">Choose language</option><option value="1">English</option><option value="2">Spanish</option><option value="3">French</option><option value="4">Italian</option><option value="5">German</option><option value="16">Arabic</option><option value="9">Chinese</option><option value="null" disabled="">---------------------------</option><option value="23">Czech</option><option value="16">Arabic</option><option value="9">Chinese</option><option value="23">Czech</option><option value="22">Danish</option><option value="8">Dutch</option><option value="1">English</option><option value="21">Finnish</option><option value="3">French</option><option value="5">German</option><option value="10">Greek</option><option value="4">Italian</option><option value="15">Japanese</option><option value="19">Norwegian</option><option value="17">Polish</option><option value="6">Portuguese</option><option value="7">Russian</option><option value="2">Spanish</option><option value="18">Swedish</option><option value="12">Turkish</option></select></td></tr> <tr><td><select name="country" id="country_select" class="drop_down_searchbox" onchange="oSearchbox.selectCountry();" disabled=""><option value="-1">Choose country</option></select></td></tr> <tr><td><select name="city" id="city_select" class="drop_down_searchbox"><option value="-1">Choose city</option><option value="">All cities</option></select></td></tr> </tbody></table> <input type="submit" name="submit" value="Submit" style="display:none;"> <div onclick="document.getElementById('search_small').submit.click();" class="go_btn"> <img src="/templates/default/img/button_go_yellow_en.png" alt="Go"> </div> <div class="clear"></div> </form> </div> </div><div class="side_b_8"><div class="corner_bl_8"></div><div class="corner_br_8"></div></div></div>     <!--<div id="decorator_1"><div class="side_t_1"><div class="corner_tl_1"></div><div class="corner_tr_1"></div></div><div class="content_1" id='bannerLeftFlash'> <!--     EXCEPCI?: ALBERT, VOLDR?A QUE QUAN APAREGUI EL SEARCH BOX DINS DE COL_LEFT EL MENU FOS= MARGIN-TOP:40PX-> <div class="menu">                                                <div>  <div class="big_title">How to enroll?</div> <div class="dotted_line_small"></div> <div class="subcategories"><ul>    <li>   <a href="/book-language-programe-online.php">Steps to enroll in a language course</a></li>  </ul></div>      <div>  <div class="big_title">Contact us</div> <div class="dotted_line_small"></div> <div class="subcategories"><ul>    <li>   <a href="/faq.php3">FAQ</a></li>        <li id="contact_leftbar">   <a href="https://secure.languagecourse.net//contact.php">Contact Us</a></li>        <li>   <a href="/group-discounts-language-travels.php">Group Discount</a></li>        <li>   <a href="/about-us.php">About us</a></li>  </ul></div>                            </div>  </div>   <div style="height:14px;">&nbsp;</div> </div><div class="side_b_1"><div class="corner_bl_1"></div><div class="corner_br_1"></div></div></div>-->     <div id="banner_left"> <!--<object type="application/x-shockwave-flash" width="170" height="650" data="/templates/default/img/banner_left_en.swf"> <param name="movie" value="/templates/default/img/banner_left_en.swf" /> <param name="quality" value="high" /> <param name="wmode" value="opaque" /> <img src="/templates/default/img/banner_left_en.gif" alt="" /> </object>--> <img src="/templates/default/img/BenefitsBanner-a_en.gif" alt=""> </div>     <!-- VT LEFT BANNER --> <div id="banner_VT" style="margin-top:20px;"> <div id="content_VT"> <div id="banner_dropdown_VT"> <form name="vt_launch" method="post" action="/vocabulary-trainer.php" target="blank"> <select style="width: 165px; display: inline; position: absolute; opacity: 0; font-size: 11px; height: 20px;" class="drop_down" id="vt_launch_learn" name="vt_launch_learn"> <option value="">Choose Language</option><option value="arabic">Arabic</option><option value="bengali">Bengali</option><option value="bulgarian">Bulgarian</option><option value="catalan">Catalan</option><option value="chinese">Chinese</option><option value="croatian">Croatian</option><option value="czech">Czech</option><option value="danish">Danish</option><option value="dutch">Dutch</option><option value="finnish">Finnish</option><option value="french">French</option><option value="german">German</option><option value="greek">Greek</option><option value="hebrew">Hebrew</option><option value="hindi">Hindi</option><option value="hungarian">Hungarian</option><option value="italian">Italian</option><option value="japanese">Japanese</option><option value="korean">Korean</option><option value="malay">Malay</option><option value="norwegian">Norwegian</option><option value="persian">Persian</option><option value="polish">Polish</option><option value="portuguese">Portuguese</option><option value="romanian">Romanian</option><option value="russian">Russian</option><option value="slovak">Slovak</option><option value="spanish">Spanish</option><option value="swedish">Swedish</option><option value="thai">Thai</option><option value="turkish">Turkish</option><option value="ukrainian">Ukrainian</option><option value="vietnamese">Vietnamese</option> </select> <input type="hidden" name="vt_launch_native" id="vt_launch_native" value="en"> </form> </div> <div class="banner_go_VT" onclick="VTGo();"></div> </div> </div>    <div id="decorator_8"><div class="side_t_8"><div class="corner_tl_8"></div><div class="corner_tr_8"></div></div><div class="content_8"> <div style="margin-top:14px; font-size:12px;"> <div class="big_title_search">Site Search</div> <div class="dotted_line_small"></div> </div> <div onclick="document.getElementById('searchForm_small').submit.click();" id="arrow_search"> <img src="/templates/default/img/arrow_search.png" alt="Go"> </div> <form id="searchForm_small" action="/code/search_form.php?page_language=en"> <input type="hidden" id="page_language" name="page_language" value="en"> <input type="text" name="search_query" id="search_query_old" style="font-size:13px; width:130px;"> <input type="submit" name="submit" value="Submit" style="display:none;">  <div class="clear"></div> </form>  </div><div class="side_b_8"><div class="corner_bl_8"></div><div class="corner_br_8"></div></div></div>      <div id="decorator_w" style="margin-top: 40px;">
   <div class="side_t_w">
   
 	<div class="corner_tl_w"></div>
@@ -207,14 +320,14 @@ window._fbq.push(['track', '6018598102861', {'value':'0.00','currency':'EUR'}]);
     <div class="title_school"></div>
     
     <ul>
-        	<li><strong>Fiza</strong> (39): LanguageCourse.Net provides great rates, is very... <a href="/customer-testimonials.php">more</a></li>
+        	<li><strong>Abrahan</strong> (23): I liked the experience of Cursos-de-idiomas.com,... <a href="/customer-testimonials.php">more</a></li>
         	<li><strong>Oscar</strong> (20): I chose them because they have really good... <a href="/customer-testimonials.php">more</a></li>
-        	<li><strong>Francesco</strong> (36): I had a doubt, a quick and precise reply helped me... <a href="/customer-testimonials.php">more</a></li>
+        	<li><strong>Inesa</strong> (25): I think the service works really well. I have had... <a href="/customer-testimonials.php">more</a></li>
         
     </ul>
     
     <div class="show"><a href="/customer-testimonials.php">Show All Customer Comments (403)</a></div>
-<!--    <div class="variable_text">10.12.2015</div>
+<!--    <div class="variable_text">10.06.2016</div>
 -->  </div>
   </div>
   <div class="side_b_w">
@@ -222,13 +335,8 @@ window._fbq.push(['track', '6018598102861', {'value':'0.00','currency':'EUR'}]);
     <div class="footer_w"></div>
     <div class="corner_br_w"></div>
   </div>
-</div>       <div id="facebook_w"> <iframe id="facebook_w_iframe" src="http://www.facebook.com/plugins/likebox.php?layout=button_count&amp;href=http%3A%2F%2Fwww.facebook.com%2Flanguagecourse.net&amp;width=195&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=289" scrolling="no" frameborder="0" allowtransparency="true"></iframe> </div>  </div> <div id="footer"> <div id="footer_1"> <div class="side_t_1"><div class="corner_tl_1"></div><div class="corner_tr_1"></div></div> <div class="content_1">  					
-	    
-	<div class="tell_a_friend">
-			
-	</div>
-	   <div id="menu-footer">                                                         <div id="contact_footerbar" style="display:inline"> |<a href="https://secure.languagecourse.net//contact.php">Contact&nbsp;Us</a> </div>	     |<a href="/course-guide.php">Choosing&nbsp;Schools&nbsp;&amp;&nbsp;Courses</a>      |<a href="/visa-information-studies-abroad.php">Visa&nbsp;Information</a>      |<a href="/scholarships.php3">Scholarship</a>      |<a href="/city-guides.php3">City&nbsp;Guides</a>      |<a href="/language-exams.php">Language&nbsp;Exams</a>      |<a href="/language-learning-resources.php">Language&nbsp;Learning&nbsp;Resources</a>      |<a href="/terms-and-conditions.php">Terms</a>      |<a href="/credits-usa.php3">US&nbsp;University&nbsp;Credits</a>      |<a href="/affiliate-program-language-travel.php">Affiliate&nbsp;program</a>      |<a href="/privacy-policy.php">Privacy&nbsp;Policy</a>      |<a href="/forum/">Forum</a>    | </div>   <div id="seals-footer" style="float: right; padding-bottom: 5px;">  <img id="warranty_seals" src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/warranty_en.png" usemap="#warrantySealsMap" alt=""> <map id="warrantySealsMap" name="warrantySealsMap"> <area shape="rect" coords="511,0,787,62" href="/our_service_guarantees.php"> <area shape="rect" coords="222,0,430,62" href="/school-associations.php"> <area shape="rect" coords="89,9,139,62" href="https://www.paypal.com/verified/pal=paypal@languagecourse.net" alt="Paypal" title="Paypal"> </map>  </div>   <a id="trustlink" name="trustlink" href="http://members.trust-guard.com/certificates/3155" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;"><img name="trustseal" alt="Business Seal" style="border: 0;" src="http://seals.trust-guard.com/business-3155-small.gif"></a></div>  <div style="clear:both;"></div><br><p> </p><p class="like_h6">© 1999 - 2015 LanguageCourse S.L. | Company Tax No. ESB62762091 <br> <span id="contact_sentencefooter">Do you need help/assistance? 
-Please <a href="/contact.php">contact us.</a><br></span> </p> </div> <div class="side_b_1"><div class="corner_bl_1"></div><div class="corner_br_1"></div></div> </div> </div> <script type="text/javascript">
+</div>     </div> </div> <div id="footer"> <div id="footer_1"> <div class="side_t_1"><div class="corner_tl_1"></div><div class="corner_tr_1"></div></div> <div class="content_1">   <div id="menu-footer">                                                         <div id="contact_footerbar" style="display:inline"> |<a href="https://secure.languagecourse.net//contact.php">Contact&nbsp;Us</a> </div>	     |<a href="/course-guide.php">Choosing&nbsp;Schools&nbsp;&amp;&nbsp;Courses</a>      |<a href="/visa-information-studies-abroad.php">Visa&nbsp;Information</a>      |<a href="/scholarships.php3">Scholarship</a>      |<a href="/city-guides.php3">City&nbsp;Guides</a>      |<a href="/language-exams.php">Language&nbsp;Exams</a>      |<a href="/language-learning-resources.php">Language&nbsp;Learning&nbsp;Resources</a>      |<a href="/terms-and-conditions.php">Terms</a>      |<a href="/credits-usa.php3">US&nbsp;University&nbsp;Credits</a>      |<a href="/affiliate-program-language-travel.php">Affiliate&nbsp;program</a>      |<a href="/privacy-policy.php">Privacy&nbsp;Policy</a>      |<a href="/forum/">Forum</a>    | </div>    <div id="seals-footer">  <img id="warranty_seals" src="/templates/default/img/warranty_en.png" usemap="#warrantySealsMap" alt=""> <map id="warrantySealsMap" name="warrantySealsMap"> <area shape="rect" coords="511,0,787,62" href="/our_service_guarantees.php"> <area shape="rect" coords="222,0,430,62" href="/school-associations.php"> <area shape="rect" coords="89,9,139,62" href="https://www.paypal.com/verified/pal=paypal@languagecourse.net" alt="Paypal" title="Paypal"> </map>  </div> <div style="clear:both;"></div> <p class="like_h6">© 1999 - 2016 LanguageCourse S.L. | Company Tax No. ESB62762091 <br> <span id="contact_sentencefooter">Do you need help/assistance? 
+Please <a href="/contact.php">contact us.</a><br></span> </p> </div> <div class="side_b_1"><div class="corner_bl_1"></div><div class="corner_br_1"></div></div> </div> <script type="text/javascript">
 // Beginning of old file common.light.js
 
 function emptySelect(oSelect){
@@ -645,7 +753,7 @@ jQuery('#country_select').change(function() {
         function showPhoneGraphic() {
 
     
-            var foo = new Ajax('/ajax/getPhoneGraphic.php?language=en&CDNPath=http://c0577872.cdn.cloudfiles.rackspacecloud.com/&skype_user=language-course12', {
+            var foo = new Ajax('/ajax/getPhoneGraphic.php?language=en&CDNPath=/templates/default/img/&skype_user=language-course3', {
                 data: '',
                 method: 'get',
                 onComplete: function (responseText) {
@@ -734,7 +842,7 @@ jQuery('#country_select').change(function() {
          function showPhoneGraphicHeader() {
 
     
-            var graphic = new Ajax('/ajax/getPhoneGraphic.headerbar.php?language=en&CDNPath=http://c0577872.cdn.cloudfiles.rackspacecloud.com/', {
+            var graphic = new Ajax('/ajax/getPhoneGraphic.headerbar.php?language=en&CDNPath=/templates/default/img/', {
                 data: '',
                 method: 'get',
                 onComplete: function (responseText) {
@@ -755,6 +863,16 @@ jQuery('#country_select').change(function() {
     
     	}
 
+    	function changeConsultantCountry(){
+    
+    		var e = document.getElementById('consultant_country_selector');
+    		var country = e.options[e.selectedIndex].value;
+
+    		document.cookie = "consultant_force_country="+country+"; path=/; domain=languagecourse.net";
+    		document.location.reload();
+    
+    	}
+
     	function showLastVisited_original() {
 
     
@@ -771,6 +889,68 @@ jQuery('#country_select').change(function() {
     
         }
 
+        function getLangSuggestion(long_width) {
+	        var timestamp = new Date().getTime();
+	        new Ajax('/ajax/getLangSuggestion.php?long_width='+ long_width +'&force='+timestamp, { dataType: 'json', method: 'get', onComplete: function (responseText) {
+						var ret = JSON.parse(responseText);
+						document.getElementById('browser_lang').value = ret['browser_lang'];
+						document.getElementById('show_lang_suggestion').value = ret['show_lang_suggestion'];
+						document.getElementById('lang_suggestion_question').innerHTML = ret['lang_suggestion_question'];
+						document.getElementById('lang_suggestion_link').innerHTML = ret['lang_suggestion_link'];
+	        		}
+	        	}).request();
+	    }
+
+	    function lhc_checkDepartmentIsOnline(lang) {
+	        var timestamp = new Date().getTime();
+	        new Ajax('/ajax/lhc_checkDepartment.php?lang=' + lang + '&force='+timestamp, { data: '', method: 'get', onComplete: function (responseText) {
+						//document.getElementById('lch_department_online').value = responseText;
+						if (responseText == '1')
+							showLiveHelperChat();
+	        		}
+	        	}).request();
+	    }
+
+	    function loadCourseList(school_index, lang) {
+			var school_id = document.getElementById('schoolId_' + school_index).value;
+	        new Ajax('/ajax/courseList.php?school_id='+ school_id + "&lg=" + lang, { dataType: 'json', method: 'get', onComplete: function (responseText) {
+						var ret = JSON.parse(responseText);
+						var cList = document.getElementById("courseList_" + school_index);
+						for (i=0; i<ret.length;i++) {
+							var li = document.createElement("li");
+							li.id = "courseList_" + school_index + "_" + ret[i]['course_id'];
+							li.innerHTML = "<a href='javascript:void(0)' onClick='SelectCourse(" + 
+												school_index + "," + ret[i]['course_id'] + ");'>" + 
+												"<span id='courseName_" + school_index + "_" + ret[i]['course_id'] + "' class='courseDropTitle'>" + ret[i]['course_name'] + "</span>" + 
+												"<span id='courseInfo_" + school_index + "_" + ret[i]['course_id'] + "' class='courseDropSub'>(" + ret[i]['info'] + ")</span></a>";
+							cList.appendChild(li);
+						}
+						if (ret.length > 0)
+							document.getElementById('coursesLoaded_' + school_index).value = 1;
+	        		}
+	        	}).request();
+	    }
+
+	    function loadAccommoList(school_index, lang) {
+			var school_id = document.getElementById('schoolId_' + school_index).value;
+	        new Ajax('/ajax/accommoList.php?school_id='+ school_id + "&lg=" + lang, { dataType: 'json', method: 'get', onComplete: function (responseText) {
+						var ret = JSON.parse(responseText);
+						var aList = document.getElementById("accommoList_" + school_index);
+						for (i=0; i<ret.length;i++) {
+							var li = document.createElement("li");
+							li.id = "accommoList_" + school_index + "_" + ret[i]['accommodation_id'];
+							li.innerHTML = "<a href='javascript:void(0)' onClick='SelectAccommo(" + 
+												school_index + "," + ret[i]['accommodation_id'] + ");'>" + 
+												"<span id='accommoName_" + school_index + "_" + ret[i]['accommodation_id'] + "' class='accommoDropTitle'>" + ret[i]['accommo_name'] + "</span>" + 
+												"<span id='accommoInfo_" + school_index + "_" + ret[i]['accommodation_id'] + "' class='accommoDropSub'>(" + ret[i]['info'] + ")</span></a>";
+							aList.appendChild(li);
+						}
+						if (ret.length > 0)
+							document.getElementById('accommoLoaded_' + school_index).value = 1;
+	        		}
+	        	}).request();
+	    }
+
     	function showLastVisited(){
 
    	
@@ -782,6 +962,7 @@ jQuery('#country_select').change(function() {
             	dataType: 'json',
             	success: function(response){
         			jQuery("#last_visited").html(response.text);
+                    jQuery('#last_visited [data-jq-rating]').jqRating();
             		//jQuery("#affil_id").val(response.affil_id);
             	}
             });
@@ -863,9 +1044,11 @@ function onlyAjaxRequest(url_to_call) {
         }
     
 
-        // Debug
+        // Ajax to execute when loading page
         jQuery('#language_id_select').change();
         showLastVisited();
+                    lhc_checkDepartmentIsOnline('en');
+        
 </script>
 
 
@@ -879,7 +1062,7 @@ function onlyAjaxRequest(url_to_call) {
 	//display:none !important;
 }
 </style>
-   <div id="contactBoxWrapper"> <div id="contactBoxQuestions"> <img src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/contactBoxquestions-en.png"> </div> <div id="contactBoxAgent">  <img src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/contactBox-jusa.jpg">  </div> <div id="contactBoxPhones">  <img src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/contactBoxPhones-en.png"> </div> <div id="contactBoxTextareaDiv"> <textarea type="text" name="textareaContactBox" id="contactBoxTextarea" onclick="javascript:openContactText('main');">type message</textarea> <div id="contactBoxSend"> <img src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/contactBoxSend-en.png" onclick="javascript:openContactText('main');"> </div> </div> <div id="contactBoxSkype"></div> <!-- Uncomment to activate fully functional LCN CONTACT BOX WIDGET: <div id="contactBoxCallback"> <img src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/contactBoxCallback-en.png" /> </div> --> <div id="contactBoxBenefits"> <img src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/contactBoxBenefits-en.png"> </div> </div>  <div id="TypingBoxDeployedWrapper"> <form name="contact_floating_form" id="contact_floating_form" method="post" action="https://secure.languagecourse.net//contact.php"> <input type="hidden" name="language" value="en"> <input type="hidden" name="school_id" value=""> <input type="hidden" name="city_id" value=""> <input type="hidden" name="country_id" value=""> <input type="hidden" name="countryFrom" value="MX"> <input type="hidden" name="source" value="float"> <input type="hidden" name="lcnet" value=""> <input type="hidden" name="page_referer" value="www.languagecourse.net/privacy-policy.php"> <input type="text" name="ffooo" value="" class="ffooo_me">  <div id="TypingBoxDeployedMessage"> <textarea type="text" name="comments" id="textareaTypingBoxDeployedMessage" onfocus="javascript:activateField('textareaTypingBoxDeployedMessage', 'type message');" onfocusout="javascript:deactivateField('textareaTypingBoxDeployedMessage', 'type message');">type message</textarea> </div> <div id="TypingBoxDeployedNameDiv"> <div> <textarea type="text" name="lastname" id="TypingBoxDeployedNameTextarea" onfocus="javascript:activateField('TypingBoxDeployedNameTextarea', 'Name:*');" onfocusout="javascript:deactivateField('TypingBoxDeployedNameTextarea', 'Name:*');">Name:*</textarea> </div> </div> <div id="TypingBoxDeployedEmailDiv"> <div> <textarea type="text" name="email" id="TypingBoxDeployedEmailTextarea" onfocus="javascript:activateField('TypingBoxDeployedEmailTextarea', 'Email:*');" onfocusout="javascript:deactivateField('TypingBoxDeployedEmailTextarea', 'Email:*');">Email:*</textarea> </div> </div> <div id="TypingBoxDeployedSendDiv"> <div id="TypingBoxDeployedSendRequiredText"> <span class="bigAsterisk">*</span>required </div> <div id="TypingBoxDeployedSendButton"> <button class="fake_submit" type="button" id="submit_button" onclick="validateForm();" onfocus="javascript:activateField('submit_button', '');"> <img src="http://c0577872.cdn.cloudfiles.rackspacecloud.com/contactBoxSendButton-en.png"> </button> </div> </div> </form> </div>  <script> 
+  <div id="contactBoxWrapper"> <div id="contactBoxQuestions"> <img src="/templates/default/img/contactBoxquestions-en.png"> </div> <div id="contactBoxAgent">  </div> <div id="contactBoxPhones">  <img src="/templates/default/img/contactBoxPhones-en.png"> </div> <div id="contactBoxTextareaDiv"> <textarea type="text" name="textareaContactBox" id="contactBoxTextarea" onclick="javascript:openContactText('main');">type message</textarea> <div id="contactBoxSend"> <img src="/templates/default/img/contactBoxSend-en.png" onclick="javascript:openContactText('main');"> </div> </div> <div id="contactBoxSkype"></div> <!-- Uncomment to activate fully functional LCN CONTACT BOX WIDGET: <div id="contactBoxCallback"> <img src="/templates/default/img/contactBoxCallback-en.png" /> </div> --> <!--div id="contactBoxBenefits"> <img src="/templates/default/img/contactBoxBenefits-en.png" /> </div--> </div>  <div id="TypingBoxDeployedWrapper"> <form name="contact_floating_form" id="contact_floating_form" method="post" action="https://secure.languagecourse.net//contact.php"> <input type="hidden" name="language" value="en"> <input type="hidden" name="school_id" value=""> <input type="hidden" name="city_id" value=""> <input type="hidden" name="country_id" value=""> <input type="hidden" name="countryFrom" value=""> <input type="hidden" name="source" value="float"> <input type="hidden" name="lcnet" value=""> <input type="hidden" name="page_referer" value="www.languagecourse.net/privacy-policy.php"> <input type="text" name="ffooo" value="" class="ffooo_me">  <div id="TypingBoxDeployedMessage"> <img src="/templates/default/img/close_icon.png" style="float:right; cursor:pointer;" onclick="closeContactText();"> <textarea type="text" name="comments" id="textareaTypingBoxDeployedMessage" onfocus="javascript:activateField('textareaTypingBoxDeployedMessage', 'type message');" onfocusout="javascript:deactivateField('textareaTypingBoxDeployedMessage', 'type message');">type message</textarea> </div> <div id="TypingBoxDeployedNameDiv"> <div> <textarea type="text" name="lastname" id="TypingBoxDeployedNameTextarea" onfocus="javascript:activateField('TypingBoxDeployedNameTextarea', 'Name:*');" onfocusout="javascript:deactivateField('TypingBoxDeployedNameTextarea', 'Name:*');">Name:*</textarea> </div> </div> <div id="TypingBoxDeployedEmailDiv"> <div> <textarea type="text" name="email" id="TypingBoxDeployedEmailTextarea" onfocus="javascript:activateField('TypingBoxDeployedEmailTextarea', 'Email:*');" onfocusout="javascript:deactivateField('TypingBoxDeployedEmailTextarea', 'Email:*');">Email:*</textarea> </div> </div> <div id="TypingBoxDeployedSendDiv"> <div id="TypingBoxDeployedSendRequiredText"> <span class="bigAsterisk">*</span>required </div> <div id="TypingBoxDeployedSendButton"> <button class="fake_submit" type="button" id="submit_button" onclick="validateForm();" onfocus="javascript:activateField('submit_button', '');"> <img src="/templates/default/img/contactBoxSendButton-en.png"> </button> </div> </div> </form> </div>  <script> 
 
 	jQuery(document).mouseup(function (e){
 	    var container = jQuery("#TypingBoxDeployedWrapper");
@@ -1006,17 +1189,84 @@ function onlyAjaxRequest(url_to_call) {
 		document.getElementById('TypingBoxDeployedWrapper').style.display = "none";
 	}
 	
-	
 	/*document.onclick = closeContactText;
 	document.getElementById("TypingBoxDeployedWrapper").onclick = openContactText;
 	document.getElementById("contactBoxTextarea").onclick = openContactText("main");*/
 	
 	
-	 </script>  <!-- <script type="text/javascript" src="/templates/default/js/btn.js"></script> -->
+	 </script>  <input type="hidden" id="lch_department_online" value=""> <script type="text/javascript"> function showLiveHelperChat() { 
+		var LHCChatOptions = {};
+		LHCChatOptions.opt = {widget_height:190,widget_width:300,popup_height:520,popup_width:500};
+		(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		var refferer = (document.referrer) ? encodeURIComponent(document.referrer) : '';
+		var location  = (document.location) ? encodeURIComponent(document.location) : '';
+		 po.src = 'https://www.languagecourse.net/lhc_web/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(check_operator_messages)/true/(top)/350/(units)/pixels/(leaveamessage)/true/(department)/1?r='+refferer+'&l='+location; 
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		  } </script> 
+<script type="text/javascript">
+	function readCookie(name) {
+	    var nameEQ = name + "=";
+	    var ca = document.cookie.split(';');
+	    for (var i = 0; i < ca.length; i++) {
+	        var c = ca[i];
+	        while (c.charAt(0) == ' ')
+	            c = c.substring(1, c.length);
+	        if (c.indexOf(nameEQ) == 0)
+	            return c.substring(nameEQ.length, c.length);
+	    }
+	    return null;
+	}
+	var cookie_value = readCookie('lang_suggest_close');
+	if (cookie_value == null || parseInt(cookie_value) < 2) {
+		document.addEventListener("DOMContentLoaded", function()  {
+	        window.setTimeout(function() {
+	        	var browser_lang = document.getElementById('browser_lang').value;
+	        	var show_lang_suggestion = document.getElementById('show_lang_suggestion').value;
+	        	if (cookie_value == null)
+	        		cookie_value = 1
+	        	else
+	        		cookie_value++;
+	        	var d = new Date();
+    			d.setTime(d.getTime() + (365*100*24*60*60*1000)); // 100 years
+    			var expires = "expires="+d.toUTCString();
+	        	document.cookie = "lang_suggest_close=" + cookie_value + "; path=/" + "; " + expires;
+ if (show_lang_suggestion == 'true' && browser_lang != 'en') 
+	        	{
+					var targetHeight = 30;
+		          	// fade in
+		          	jQuery('#lang_suggest').animate({height: targetHeight + 'px'}, 800);
+		          	jQuery('#head').animate({top: targetHeight + 'px'}, 800);
+		          	jQuery('#body_content').animate({top: targetHeight + 'px'}, 800);
+		          	jQuery('#addthis_bar').animate({top: '+='  + targetHeight}, 800);
+		          	jQuery('#contactBoxWrapper').animate({top: '+=' + targetHeight}, 800);
+		          	// set handler for fadeout
+		        	document.getElementById('close_suggest').addEventListener("click", function() {
+			        	var d = new Date();
+		    			d.setTime(d.getTime() + (365*100*24*60*60*1000)); // 100 years
+		    			var expires = "expires="+d.toUTCString();
+		 	           	document.cookie = "lang_suggest_close=3; path=/" + "; " + expires;
+	   		          	jQuery('#lang_suggest').animate({height: '0px'}, 800);
+			          	jQuery('#head').animate({top: '0px'}, 800);
+			          	jQuery('#body_content').animate({top: '0px'}, 800);
+			          	jQuery('#addthis_bar').animate({top: '-='  + targetHeight}, 800);
+			          	jQuery('#contactBoxWrapper').animate({top: '-=' + targetHeight}, 800);
+		        	});
+	        	}
+	        }, 5000);
+		});
+	}
+</script>
+ <!-- <script type="text/javascript" src="/templates/default/js/btn.js"></script> -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl.":"http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-215632-1"); pageTracker._initData(); pageTracker._setDomainName('languagecourse.net'); pageTracker._trackPageview();
+var pageTracker = _gat._getTracker("UA-215632-1"); 
+pageTracker._initData(); 
+pageTracker._setDomainName('languagecourse.net'); 
+pageTracker._addIgnoredRef("languagecourse.net");
+pageTracker._trackPageview();
 </script></div></body></html>
