@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thegtaplace.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210231917id_/http%3A//www.thegtaplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegtaplace.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610042231id_/http%3A//www.thegtaplace.com/privacy) for the most accurate reproduction.*
 
-# The GTA Place - Privacy Policy & Cookies
+# The GTA Place - Privacy Policy
 
 We realise that the privacy of your personal information is important. This policy outlines what information may be collected when you visit our website or use our mobile application, how that information is used, and how that information is kept safe. We never sell, distribute, or otherwise reveal personally identifiable information to any non-law-enforcement third parties.
 
 The general information we collect is in most cases **anonymised** and used purely for statistical or analytical purposes. This information can not be linked back to you as an individual unless otherwise stated.
 
-"The GTA Place" and "TGTAP" are terms used in this policy to refer to our website. "GTA Cheats" and "Cheats for GTA" are terms used in this policy to refer to our mobile application ("App"). When you continue to visit our website or use our App, you are consenting to the practices described in this policy.
+"The GTA Place" and "TGTAP" are terms used in this policy to refer to our website. "Cheats for GTA" is a term used in this policy to refer to our mobile application ("App"). When you continue to visit our website or use our App, you are consenting to the practices described in this policy.
 
 ### Cookies and Web Beacons
 
@@ -21,7 +21,7 @@ We also use third party advertisements to support our website. These advertisers
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The DoubleClick cookie is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.  
 Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-Google AdMob is one of the ad networks The GTA Place uses in its mobile App, Cheats for GTA (known as GTA Cheats on some App stores). Google AdMob uses the same aforementioned policy of Google AdSense.
+Google AdMob is one of the ad networks The GTA Place uses in its mobile App, Cheats for GTA. Google AdMob uses the same aforementioned policy of Google AdSense.
 
 #### Intergi Cookies and Privacy
 
