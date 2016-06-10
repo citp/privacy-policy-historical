@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misterhorse.tv privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118103543id_/http%3A//misterhorse.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misterhorse.tv privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610223217id_/http%3A//misterhorse.tv/privacy-policy) for the most accurate reproduction.*
 
 # MisterHorse.tv | Privacy Policy
 
