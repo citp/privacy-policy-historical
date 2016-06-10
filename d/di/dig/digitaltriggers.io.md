@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaltriggers.io privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210045205id_/http%3A//digitaltriggers.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaltriggers.io privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610122029id_/http%3A//digitaltriggers.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
