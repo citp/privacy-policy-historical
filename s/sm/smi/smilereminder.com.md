@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smilereminder.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922175024id_/http%3A//www.solutionreach.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilereminder.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610094456id_/http%3A//www.solutionreach.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Solutionreach
 
