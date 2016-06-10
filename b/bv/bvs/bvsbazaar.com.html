@@ -1,0 +1,777 @@
+<!--The following is the downloaded HTML source of the bvsbazaar.com privacy policy that was archived on 2016-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611015133id_/http%3A//www.bvsbazaar.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<html><head>
+		
+		
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		
+		<link rel="stylesheet" type="text/css" href="assets/lib/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="assets/lib/font-awesome/css/font-awesome.min.css">
+		
+		<link rel="stylesheet" type="text/css" href="assets/lib/owl.carousel/owl.carousel.css">
+		<link rel="stylesheet" type="text/css" href="assets/lib/jquery-ui/jquery-ui.css">
+		
+		<link rel="stylesheet" type="text/css" href="assets/css/animate.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/reset.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/login.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css"> 
+		<link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/option6.css"> 
+		<link rel="stylesheet" type="text/css" href="assets/css/style1.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/login.css">
+	
+		<title>BVS Bazaar</title>
+		<link rel="shortcut icon" href="assets/images/favicon.png">
+		<script src="include/jquery.min.js"></script>
+		<link rel="stylesheet" href="include/bootstrap.min.css">
+		<link rel="stylesheet" href="include/bootstrap-theme.min.css">
+		
+		
+		
+		<script src="typeahead.min.js"></script>
+		<script>
+			$(document).ready(function(){
+				$('input.typeahead').typeahead({
+					name: 'typeahead',
+					remote:'search.php?key=%QUERY',
+					limit : 10
+				});
+				
+			});
+		</script>
+		<style>
+			
+			a{
+			color:#6A5656;
+			}
+			
+			input.typeahead::-webkit-input-placeholder {
+			color: black !important;
+			}
+			
+			input.typeahead::-moz-placeholder { /* Firefox 18- */
+			color: black !important;  
+			}
+			
+			input.typeahead::-moz-placeholder {  /* Firefox 19+ */
+			color: black !important;  
+			}
+			
+			input.typeahead::-ms-input-placeholder {  
+			color: black !important;  
+			}
+		</style>
+		<script>
+			$(document).ready(function(){
+				$("#add_to_cart_button").click(function(){
+					 $("#wait").css("display", "block");
+					var hidden_size = $("#hidden_size").val();
+					
+					if(hidden_size==null)
+					{
+						var hidden_size="";
+					}
+					
+					var pro_qty = $("#pro_qty").val();
+					var pid = $("#pid").val();
+					var pname = $("#pname").val();
+					var item_id = $("#item_id").val();
+					// Returns successful data submission message when the entered information is stored in database.
+					var dataString = 'pid='+ pid + '&item_id='+ item_id + '&pro_qty='+ pro_qty + '&hidden_size='+ hidden_size + '&pname='+ pname;
+					
+					// AJAX Code To Submit Form.
+					$.ajax({
+						type: "POST",
+						url: "cart_update.php",
+						data: dataString,
+						cache: false,
+						success: function(response){
+							 $("#wait").css("display", "none");
+							$("#cart_count").html(response);
+							//getElementById('cart_count').InnerHtml=response;
+							//window.location='checkout.php';
+						}
+					});
+					
+					return false;
+				});
+				});
+		</script>
+		<script>
+			$(document).ready(function(){
+				
+				var name="abc";
+				$.ajax({
+					type: "POST",
+					url: "cart_check.php",
+					data: "check="+name,
+					cache: false,
+					success: function(response){
+						
+						$("#cart_count").html(response);
+						//getElementById('cart_count').InnerHtml=response;
+						//window.location='checkout.php';
+					}
+				});
+			});
+			
+			
+			
+			
+			
+		</script>
+		<script type="text/javascript">
+			/*	function cart()
+				{
+				$.post("cart_update.php", $(".cart").serialize(),  function(response) {
+				
+				});
+				window.location.reload();
+				location.reload( true );
+				return false;
+				}
+			*/
+		</script>
+		<script type="text/javascript">
+			function notification()
+			{
+				$.post("wishlist_notify.php", $(".notify").serialize(),  function(response) {
+					alert(response);
+				});
+				return false;
+			}
+		</script>
+		<script type="text/javascript">
+			function fill(Value)
+			{
+				$('#name').val(Value);
+				$('#display').hide();
+			}
+			
+			$(document).ready(function(){
+				$("#name").keyup(function() {
+					var name = $('#name').val();
+					if(name == "")
+					{
+						
+						$("#display").css('display','none');
+					}
+					else
+					{
+						$.ajax({
+							type: "POST",
+							url: "search.php",
+							data: "name="+ name ,
+							success: function(html){
+								$("#display").html(html).show();
+							}
+						});
+					}
+				});
+			});
+		</script>
+		<style>
+			#quick_link{
+			padding: 5px;
+			background: #ffffff;
+			border-bottom: solid 1px #ccc;
+			}
+			#quick_link ul li{
+			display: inline;
+			}
+			#table td{
+			padding: 6px;
+			padding-right: 40px;
+			}
+			#name:placeholder-shown { 
+			color:    #909;
+			}
+		</style>
+		
+	</head>
+	<body class="option6">
+		<!-- HEADER -->
+		<div id="header" class="header">
+			<div class="top-header">
+				<div class="container">
+					<div class="top-bar-social col-xs-12" style="margin-top:5px;">
+						<a href="https://www.facebook.com/BVSBazaar-1001883356555514/?ref=aymt_homepage_panel"><i class="fa fa-facebook"></i></a>
+						<a href="https://twitter.com/BvsBazaar &#9;"><i class="fa fa-twitter"></i></a>
+						<a href="https://in.pinterest.com/bvs3859/"><i class="fa fa-pinterest"></i></a>
+						<a href="https://plus.google.com/u/0/114174079645552142112"><i class="fa fa-google-plus"></i></a>
+						<a href="notification.php">Notification</a> |
+						<a href="seller/index.php" style="margin-left: 0px;">Sell</a>
+					</div>
+					
+					<div id="user-info-top" class="user-info pull-right col-xs-12" style="margin-top:5px;">
+						
+					
+					<div class="support-link" style="float:none">
+						<a href="offer_zone.php" style="color: #E1E614;">Offer Zone</a>
+						<ul style="float:right;"> <li><a href="combo_products.php" style="color:#E1E614;"><i class="fa fa-star"></i>&nbsp;Combo Deals&nbsp;<i class="fa fa-star"></i></a></li></ul>					</div>
+					
+					<div class="support-link" style="float:none">
+						<a href="giftcard.php">Gift Card</a>
+						
+						<a href="wallet.php">Wallet</a>
+													<a href="track_order.php" data-rel="popup" data-transition="slidedown">Track Order</a>
+												
+					</div>
+					
+					<div class="dropdown">
+							<a href="login.php">Login</a>							
+							
+						</div>
+					
+					
+					
+					</div>
+				</div>
+			</div>
+			
+			<!--/.top-header -->
+			<!-- MAIN HEADER -->
+			<div class="container main-header">
+				<div class="row" style="">
+					<div class="col-xs-12 col-sm-12 col-md-3 logo">
+						<a href="index.php">
+							<img style="margin-top:7px;" src="assets/data/option6/logo_header.png" alt="logo">
+						</a>
+					</div>
+					<div class="col-xs-7 col-sm-9 col-md-7 header-search-box" style="padding: 0px;padding-left: 0px;">
+						<!-- search -->
+						<div id="content">
+							 
+							
+							
+							<form class="form-inline" method="post" action="search_product.php" style="width:100%;background-color:white;border-radius: 5px 5px 5px 5px;">
+								
+								<div class="form-group input-serach" style="width:100%;">
+									<input type="text" name="typeahead" class="typeahead tt-query" style="color:black;" autocomplete="off" spellcheck="false" placeholder="Find here What you like..!!">
+									
+								</div>
+								<button type="submit" name="submit" id="submit" class="pull-right btn-search" style="    border-radius: 0px 4px 4px 0px;"></button>
+								
+							</form>
+							
+							<div style="width:100%" id="display" class="dropdown-menu mega_dropdown"></div>
+							
+						</div>
+						<!-- /.search -->
+						
+					</div>
+					
+					<div class="col-xs-5 col-sm-3 col-md-2 group-button-header btt">
+						<div class="">
+							<a title="Compare" href="compare.php" class="btn-compare">compare</a>
+													</div>
+						
+						<div class="">
+															<a title="My wishlist" href="login.php" class="btn-heart">wishlist</a>
+								
+															
+						</div>
+						<a href="cart_items.php"><div class="btn-cart" id="cart-block">
+														
+							
+						</div>
+						</a>
+						
+						
+					</div>
+				</div>
+			</div>
+			<!-- END MANIN HEADER -->
+			<div id="nav-top-menu" class="nav-top-menu">
+				<div class="container">
+					<div class="row" style="    margin-top: 7px !important;">
+						
+						<div id="main-menu" class="col-md-12 main-menu">
+							<div class="container-fluid"><nav class="navbar navbar-default navbar-inverse" role="navigation" style="border-radius:5px 5px 0 0"><div class="container-fluid"><div class="navbar-header"><button class="navbar-toggle" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button> <a href="#" class="navbar-brand">Menu</a></div><div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle">ELECTRONICS</a><ul class="dropdown-menu mega_dropdown" role="menu" style="left:0;width:100%"><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=1&amp;sid=1">Mobiles &amp; Tablets</a></li><ul><style>( )</td><td title='C:\wamp\www\bvs\index.php' bgcolor='#eeeeec'>..\index.php<b>:</b>0</td></tr><tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>0.0156</td><td bgcolor='#eeeeec' align='right'>439312</td><td bgcolor='#eeeeec'>include_once( <font color='#00bb00'>'C:\wamp\www\bvs\include\header.php'</font>)</td><td title='C:\wamp\www\bvs\index.php' bgcolor='#eeeeec'>..\index.php<b>:</b>3</td></tr></table></font>:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=1&amp;ssid=59" class="test">Samsung<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=1&amp;ssid=65" class="test">Mi<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=1&amp;ssid=529" class="test">Apple<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=1&amp;ssid=530" class="test">HTC<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=1&amp;ssid=531" class="test">Sony<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=1&amp;ssid=63" class="test">Lenovo<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=1&amp;ssid=323" class="test">LETV<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=1&amp;ssid=498" class="test">Infocus<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=1&amp;ssid=510" class="test">All Mobiles<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=1&amp;sid=2">Laptops and Computers</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=&amp;sid=2&amp;ssid=75" class="test">Dell<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=&amp;sid=2&amp;ssid=77" class="test">HP<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=&amp;sid=2&amp;ssid=78" class="test">Lenovo<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=&amp;sid=2&amp;ssid=81" class="test">Asus<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=&amp;sid=2&amp;ssid=511" class="test">Acer<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=&amp;sid=2&amp;ssid=528" class="test">All Brands<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=&amp;sid=2&amp;ssid=589" class="test">Refurbished Products<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=1&amp;sid=173">Accessories</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=173&amp;ssid=501" class="test">Earphones &amp; Headsets<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=173&amp;ssid=486" class="test">Power Banks &amp; Batteries<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=173&amp;ssid=487" class="test">Memory Cards &amp; Pendrives<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=173&amp;ssid=503" class="test">Mobile Chargers and Cables<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=173&amp;ssid=484" class="test">Cases &amp; Covers<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=1&amp;sid=3">Televisions</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=3&amp;ssid=82" class="test">Sony<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=3&amp;ssid=83" class="test">Samsung<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=3&amp;ssid=532" class="test">All Brands<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=1&amp;sid=5">Camera</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=5&amp;ssid=352" class="test">Nikon<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=5&amp;ssid=355" class="test">Canon<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=5&amp;ssid=533" class="test">All Brands<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=1&amp;sid=8">Home Appliances</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=8&amp;ssid=404" class="test">Water Purifier<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=8&amp;ssid=534" class="test">Vacuum Cleaner<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=8&amp;ssid=535" class="test">Others<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=1&amp;sid=10">Audio and Video Players</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=10&amp;ssid=500" class="test">Speakers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=10&amp;ssid=502" class="test">FM/MP3 Players<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=10&amp;ssid=526" class="test">Home Theater Systems <i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=10&amp;ssid=525" class="test">Philips<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=1&amp;sid=11">Small Appliances</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=11&amp;ssid=460" class="test">Hand Blender<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=11&amp;ssid=326" class="test">Irons <i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=11&amp;ssid=328" class="test">Emergency Lights<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=11&amp;ssid=460" class="test">Hand Blender<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=11&amp;ssid=537" class="test">All Small Appliances<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=1&amp;sid=7">Large Appliances</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=7&amp;ssid=331" class="test">Washing Machines<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=7&amp;ssid=329" class="test">Refrigerators<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=7&amp;ssid=330" class="test">Air Conditioners<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=7&amp;ssid=495" class="test">Coolers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=7&amp;ssid=496" class="test">Fans<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=7&amp;ssid=539" class="test">Other<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=1&amp;sid=12">Personal Care Appliances</a></li><ul><style>#test4:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=12&amp;ssid=461" class="test">Hair Trimmer<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=12&amp;ssid=337" class="test">Trimmers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=12&amp;ssid=338" class="test">Shavers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=12&amp;ssid=538" class="test">Other Appliances<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=1&amp;sid=13">Wearables, Smart Watches</a></li><ul><style>#test4:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=13&amp;ssid=349" class="test">Smart Watch<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=13&amp;ssid=348" class="test">Smart Bands<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=13&amp;ssid=536" class="test">Other Wearables<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=1&amp;sid=14">Healthcare Appliances</a></li><ul><style>#test4:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=14&amp;ssid=392" class="test">Slimming Belts<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=14&amp;ssid=393" class="test">Weighing Scale<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=14&amp;ssid=546" class="test">Other Healthcare Equipments <i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=1&amp;sid=15">Gaming and Office Equipments</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=15&amp;ssid=382" class="test">Keyboard &amp; Mouse<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=15&amp;ssid=379" class="test">Printers and Ink<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=15&amp;ssid=542" class="test">Play Stations<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=15&amp;ssid=543" class="test">X-BOX<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=15&amp;ssid=544" class="test">Other Gaming Devices<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=15&amp;ssid=545" class="test">Other Office Equipments<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=1&amp;sid=173">Top Brands</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=174&amp;ssid=485" class="test">Microsoft<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=1&amp;sid=174&amp;ssid=513" class="test">Apple<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li></ul></li><li class="dropdown"><a class="dropdown-toggle">MEN</a><ul class="dropdown-menu mega_dropdown" role="menu" style="left:0;width:100%"><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=2&amp;sid=138">Clothing</a></li><ul><style>#test3:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=138&amp;ssid=227" class="test">New Arrival<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=138&amp;ssid=228" class="test">Shirts<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=138&amp;ssid=229" class="test">T-Shirts<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=138&amp;ssid=230" class="test">Jeans<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=138&amp;ssid=231" class="test">Suits &amp; Blazers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=138&amp;ssid=232" class="test">Trousers &amp; Chinos<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=138&amp;ssid=233" class="test">Sports Wear<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=138&amp;ssid=234" class="test">Shorts, 3/4ths &amp; Cargos<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=138&amp;ssid=239" class="test">Innerwear &amp; Loungewear<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=138&amp;ssid=240" class="test">Trackpants &amp; Tracksuits<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=138&amp;ssid=241" class="test">Socks, Ties &amp; Handkerchief<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=138&amp;ssid=242" class="test">Raincoats<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=138&amp;ssid=243" class="test">Suitings &amp; Shirting<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=138&amp;ssid=547" class="test">Other Clothings<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=2&amp;sid=139">Ethnic Wear</a></li><ul><style>#test18:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=139&amp;ssid=244" class="test">Fancy Kurta<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=139&amp;ssid=245" class="test">Kurta &amp; Pyjama<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=139&amp;ssid=246" class="test">kurta &amp; Dhoti<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=139&amp;ssid=247" class="test">Sherwani &amp; Sets<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=139&amp;ssid=551" class="test">Other Ethnic Wear<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=2&amp;sid=141">Footwear</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=141&amp;ssid=265" class="test">Sports Shoes<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=141&amp;ssid=266" class="test">Casual Shoes<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=141&amp;ssid=270" class="test">Floater Sandals<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=141&amp;ssid=271" class="test">Flip- Flops &amp; Slippers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=141&amp;ssid=267" class="test">Formal Shoes<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=141&amp;ssid=268" class="test">Loafers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=141&amp;ssid=269" class="test">Boots<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=141&amp;ssid=554" class="test">Other Footwears<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=2&amp;sid=142">STORES</a></li><ul><style>#test8:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=142&amp;ssid=257" class="test">Store@99<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=142&amp;ssid=258" class="test">Store@199<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=142&amp;ssid=260" class="test">Store@299<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=142&amp;ssid=262" class="test">Store@499<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=2&amp;sid=143">Watches/Bracelets</a></li><ul><style>#test7:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=143&amp;ssid=346" class="test">Fastrack<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=143&amp;ssid=345" class="test">Casio<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=143&amp;ssid=347" class="test">Titan<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=143&amp;ssid=560" class="test">All Brands<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=143&amp;ssid=558" class="test">Other Wearables<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=2&amp;sid=144">Eyewear/Sunglasses</a></li><ul><style>#test4:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=144&amp;ssid=364" class="test">Ray Ban<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=144&amp;ssid=362" class="test">Fastrack<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=144&amp;ssid=552" class="test">All Brands<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=144&amp;ssid=559" class="test">Others Eyewears<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=2&amp;sid=145">Bags &amp; Luggage</a></li><ul><style>#test3:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=145&amp;ssid=358" class="test">Backpacks<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=145&amp;ssid=361" class="test">Laptop Bags<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=145&amp;ssid=548" class="test">Trolley Bags &amp; Suitcases<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=2&amp;sid=145&amp;ssid=550" class="test">Other Bags<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=2&amp;sid=146">Fragrances</a></li><ul><style>#test3:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=146&amp;ssid=341" class="test">Perfumes<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=146&amp;ssid=340" class="test">Deodorants<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=146&amp;ssid=555" class="test">Others<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=2&amp;sid=148">Grooming</a></li><ul><style>#test8:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=148&amp;ssid=365" class="test">Skin Care<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=148&amp;ssid=478" class="test">Shaving Kits &amp; Needs<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=148&amp;ssid=390" class="test">Aftershave<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=148&amp;ssid=367" class="test">Hair Care<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=148&amp;ssid=368" class="test">Sexual Wellness<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=148&amp;ssid=401" class="test">Bath Needs<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=148&amp;ssid=556" class="test">Other Wellness<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=2&amp;sid=147">Mens Accessories</a></li><ul><style>#test3:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=147&amp;ssid=479" class="test">Wallets<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=147&amp;ssid=504" class="test">Belts<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=147&amp;ssid=400" class="test">Handkerchiefs<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=147&amp;ssid=394" class="test">Bracelets<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px"><a href="brands.php?mid=2&amp;sid=147&amp;ssid=557" class="test">Other Accessories<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=2&amp;sid=149">Top Brands</a></li><ul><style>#test7:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li></ul></li><li class="dropdown"><a class="dropdown-toggle">WOMEN</a><ul class="dropdown-menu mega_dropdown" role="menu" style="left:0;width:100%"><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=3&amp;sid=109">Clothings</a></li><ul><style>#test7:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=109&amp;ssid=224" class="test">Popular Clothing<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=109&amp;ssid=225" class="test">Sports Wear<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=109&amp;ssid=272" class="test">Women Formal<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=109&amp;ssid=516" class="test">Jeans<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=109&amp;ssid=519" class="test">Tops<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=109&amp;ssid=518" class="test">Shirts<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=109&amp;ssid=517" class="test">T-Shirts<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=109&amp;ssid=520" class="test">Sarees<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=109&amp;ssid=521" class="test">Salwar-Kurta-Dupatta<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=109&amp;ssid=522" class="test">Dress Materials<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=109&amp;ssid=523" class="test">All Clothings<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=109&amp;ssid=577" class="test">Socks, Ties &amp; Handkerchief<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=3&amp;sid=110">Ethnic wear</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=110&amp;ssid=408" class="test">Kurtas &amp; Kurtis<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=110&amp;ssid=406" class="test">Sarees<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=110&amp;ssid=407" class="test">Stiched Salwar Suits<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=110&amp;ssid=409" class="test">Dress Materials<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=3&amp;sid=111">Western Wear</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=111&amp;ssid=279" class="test">Tops &amp; Shirts<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=111&amp;ssid=280" class="test">Jeans<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=111&amp;ssid=281" class="test">Dresses<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=111&amp;ssid=282" class="test">Winter Wear<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=111&amp;ssid=283" class="test">Shorts &amp; Capris<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=111&amp;ssid=574" class="test">All Western Wear<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=3&amp;sid=134">Lingerie, Sleepwears</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=134&amp;ssid=300" class="test">Bras &amp; Panties<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=134&amp;ssid=302" class="test">Sleep Wears<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=134&amp;ssid=304" class="test">Swim &amp; Beach Wear<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=3&amp;sid=164">FOOTWEAR</a></li><ul><style>#test4:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=164&amp;ssid=422" class="test">Flats &amp; Sandals<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=164&amp;ssid=494" class="test">Slippers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=164&amp;ssid=420" class="test">Sports Shoes<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=164&amp;ssid=421" class="test">Heels<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=164&amp;ssid=423" class="test">Ethnic Footwear<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=3&amp;sid=165">STORES</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=165&amp;ssid=414" class="test">Store@99<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=165&amp;ssid=415" class="test">Store@199<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=165&amp;ssid=416" class="test">Store@299<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=165&amp;ssid=418" class="test">Store@499<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=3&amp;sid=166">PERFUMES</a></li><ul><style>#test7:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=166&amp;ssid=425" class="test">Perfumes<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=166&amp;ssid=424" class="test">Deodorants<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=166&amp;ssid=568" class="test">Others<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=3&amp;sid=167">Watches</a></li><ul><style>#test3:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=167&amp;ssid=433" class="test">Titan<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=167&amp;ssid=435" class="test">Casio<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=167&amp;ssid=573" class="test">All Brands<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=3&amp;sid=168">Eyewear/Sunglasses</a></li><ul><style>#test4:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=168&amp;ssid=444" class="test">Ray Ban<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=3&amp;sid=169">Jewellery</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=169&amp;ssid=436" class="test">Necklaces &amp; Sets<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=169&amp;ssid=437" class="test">Rings<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=169&amp;ssid=443" class="test">Earrings<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=169&amp;ssid=442" class="test">Bangles &amp; Bracelets<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=169&amp;ssid=524" class="test">All Jewelleries<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=3&amp;sid=170">BEAUTY &amp; PERSONAL CARE</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=170&amp;ssid=446" class="test">Skin Care<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=170&amp;ssid=447" class="test">Hair Care<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=170&amp;ssid=448" class="test">Sexual Wellness<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=170&amp;ssid=449" class="test">Bath Needs<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=170&amp;ssid=561" class="test">Other Beauty Products<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=3&amp;sid=171">WOMENS ACCESSORIES</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=171&amp;ssid=450" class="test">Handbags<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=171&amp;ssid=454" class="test">Belts<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=171&amp;ssid=451" class="test">Clutches<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=171&amp;ssid=455" class="test">Socks &amp; Stockings<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=171&amp;ssid=575" class="test">Other Accessories<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=3&amp;sid=172">TOP BRANDS</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=172&amp;ssid=452" class="test">W<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=172&amp;ssid=453" class="test">BIBA<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=172&amp;ssid=571" class="test">Adidas<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=3&amp;sid=172&amp;ssid=572" class="test">Nike<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li></ul></li><li class="dropdown"><a class="dropdown-toggle">BABY AND KIDS</a><ul class="dropdown-menu mega_dropdown" role="menu" style="left:0;width:100%"><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=4&amp;sid=121">Toys</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=121&amp;ssid=291" class="test">Electronic &amp; Music<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=121&amp;ssid=294" class="test">Soft, Taddy &amp; dolls<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=4&amp;sid=123">Kids &amp; Baby Clothing</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=123&amp;ssid=107" class="test">Baby Boy Clothing<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=123&amp;ssid=108" class="test">Baby Girl Clothing<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=123&amp;ssid=109" class="test">Boy Clothing<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=123&amp;ssid=110" class="test">Girl Clothing<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=123&amp;ssid=111" class="test">Combo Pack<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=123&amp;ssid=576" class="test">Kids Socks<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=4&amp;sid=124">Clothing By Age</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=124&amp;ssid=112" class="test">0-2 years<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=124&amp;ssid=113" class="test">2-5 yaers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=124&amp;ssid=114" class="test">5-8 years<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=124&amp;ssid=115" class="test">8-10 years<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=124&amp;ssid=116" class="test">10+ years<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=4&amp;sid=126">Baby and Kids Footwear</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=126&amp;ssid=118" class="test">Baby Girl Footwear<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=126&amp;ssid=119" class="test">Boy Footwear<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=126&amp;ssid=120" class="test">Girl Footwear<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=126&amp;ssid=467" class="test">Baby Boy Footwear<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=4&amp;sid=127">Footwear by age</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=127&amp;ssid=121" class="test">0-2 years<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=127&amp;ssid=122" class="test">2-5 yaers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=127&amp;ssid=123" class="test">5-8 years<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=127&amp;ssid=124" class="test">8-10 years<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=127&amp;ssid=125" class="test">10 -12 years<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=4&amp;sid=128">Baby Care</a></li><ul><style>#test7:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=128&amp;ssid=126" class="test">Bath &amp; Skin Care<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=128&amp;ssid=127" class="test">Health &amp; Safety<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=4&amp;sid=129">STORES</a></li><ul><style>#test12:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=129&amp;ssid=273" class="test">Store@99<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=129&amp;ssid=274" class="test">Store@199<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=4&amp;sid=130">Kids Watches &amp; Accessories</a></li><ul><style>#test7:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=130&amp;ssid=136" class="test">Kids Watches<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=130&amp;ssid=137" class="test">Jewellery<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=4&amp;sid=131">Kids Sports</a></li><ul><style>#test11:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=131&amp;ssid=142" class="test">Badminton<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=131&amp;ssid=475" class="test">Sport Squap Game<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=4&amp;sid=132">Kids Sunglasses School supplies</a></li><ul><style>#test12:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=132&amp;ssid=462" class="test">Ray Ban<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=4&amp;sid=132&amp;ssid=466" class="test">Umbrellas<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=4&amp;sid=133">Top Brands</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"></ul></li></ul></li><li class="dropdown"><a class="dropdown-toggle">HOME &amp; FURNITURE</a><ul class="dropdown-menu mega_dropdown" role="menu" style="left:0;width:100%"><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=5&amp;sid=150">Kitchen &amp; Dining</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=150&amp;ssid=256" class="test">Pressure Cookers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=150&amp;ssid=363" class="test">Cookware &amp; Bakeware<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=150&amp;ssid=366" class="test">Containers &amp; Jars<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=150&amp;ssid=259" class="test">Pots &amp; Pans<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=150&amp;ssid=255" class="test">Kitchen tools<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=5&amp;sid=151">FURNITURE</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=151&amp;ssid=383" class="test">TV Cabinets<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=151&amp;ssid=384" class="test">Coffee &amp; Centre Tables<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=151&amp;ssid=385" class="test">Office &amp; Study Chairs<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=151&amp;ssid=386" class="test">Shoe Rackes<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=151&amp;ssid=389" class="test">Sofas &amp;  Sectionals Beds<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=5&amp;sid=152">Kitchen Appliances</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=152&amp;ssid=315" class="test">Juice Mixer Grinders<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=152&amp;ssid=317" class="test">Roti Makers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=152&amp;ssid=316" class="test">Kettles &amp; Coffee Makers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=152&amp;ssid=318" class="test">Food Processors<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=152&amp;ssid=369" class="test">Microwave Oven<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=5&amp;sid=154">Furnishing</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=154&amp;ssid=339" class="test">Bedsheet &amp; Sets<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=154&amp;ssid=344" class="test">Cushion &amp; Covers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=154&amp;ssid=342" class="test">Pillows &amp; Matresses<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=154&amp;ssid=343" class="test">Quilts &amp; Blankets<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=5&amp;sid=155">Home Decor &amp; Lighting</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=155&amp;ssid=332" class="test">Lamps &amp; Lighting<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=155&amp;ssid=497" class="test">Stickers<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=155&amp;ssid=333" class="test">Home Accents<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=155&amp;ssid=334" class="test">Wall Decor<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=155&amp;ssid=335" class="test">Religion &amp; Spirituality<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=5&amp;sid=156">Home Appliances</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=156&amp;ssid=312" class="test">Water Purifier<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=156&amp;ssid=313" class="test">Gas Stove<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=156&amp;ssid=311" class="test">Iron<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=156&amp;ssid=314" class="test">Sewing Macnhine<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=5&amp;sid=157">Home Store</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=157&amp;ssid=319" class="test">Store@99<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=157&amp;ssid=320" class="test">Store@199<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=157&amp;ssid=321" class="test">Store@299<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=157&amp;ssid=481" class="test">Store@499<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=157&amp;ssid=483" class="test">Store@999<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=5&amp;sid=158">Bath Essentials</a></li><ul><style>#test8:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=158&amp;ssid=322" class="test">Towels<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=5&amp;sid=159">Household Daily Needs</a></li><ul><style>#test2:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=5&amp;sid=160">Pet Supplies</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=160&amp;ssid=350" class="test">Aquatic Supplies<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=5&amp;sid=162">Tools &amp; Hardware</a></li><ul><style>#test3:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=162&amp;ssid=307" class="test">Bathroom Accessories<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=162&amp;ssid=309" class="test">Taps &amp; Faucets<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=162&amp;ssid=310" class="test">Safes, Locks &amp; Door<i class="fa fa-caret-right"></i></a></li>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=5&amp;sid=163">Gourmet &amp; Specialty Foods</a></li><ul><style>#test5:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=5&amp;sid=175">Top Brands</a></li><ul><style>#test2:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=5&amp;sid=175&amp;ssid=490" class="test">Bosch<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li></ul></li><li class="dropdown"><a class="dropdown-toggle">GROCERY</a><ul class="dropdown-menu mega_dropdown" role="menu" style="left:0"><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=33">Flours</a></li><ul><style>#test4:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=34">Pulses</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=35">Rice</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=36">Sauces &amp; Cooking Pastes</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=37">Chips</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=38">Baking Supplies</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=39">Cereal &amp; Muesli</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=40">Canned &amp; Jarred Food</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=41">Candies &amp; Gum</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=42">Coffee, Tea &amp; Beverages</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=6&amp;sid=42&amp;ssid=582" class="test">Cofee<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=6&amp;sid=42&amp;ssid=583" class="test">Tea<i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=6&amp;sid=42&amp;ssid=584" class="test">Rooh Afza<i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=43">Olives, Pickles &amp; Relish</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=44">Ready Meals &amp; Mixes</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=45">Pasta &amp; Noodles</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=46">Powdered Spices &amp; Masalas</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=&amp;sid=&amp;ssid=" class="test"><i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=&amp;sid=&amp;ssid=" class="test"><i class="fa fa-caret-right"></i></a></li>  <li class="link_container" style="font-size:14px;font-style:normal;height:20px" id="test1"><a href="brands.php?mid=&amp;sid=&amp;ssid=" class="test"><i class="fa fa-caret-right"></i></a></li>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=47">Snack Foods</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=48">Dried Fruits, Nuts &amp; Seeds</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=49">Hampers &amp; Gourmet Gifts</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=50">Spices &amp; Masalas</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=51">Jams, Honey &amp; Spreads</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=52">Oils, Vinegars &amp; Salad Dressings</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=53">Top Brands</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=6&amp;sid=104">pet foods</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li></ul></li><li class="dropdown"><a class="dropdown-toggle">EXTRAS</a><ul class="dropdown-menu mega_dropdown" role="menu" style="left:0"><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=7&amp;sid=54">Sports and Health</a></li><ul><style>#test2:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=7&amp;sid=55">Music, Movies and other Media</a></li><ul><style>#test8:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul><li class="link_container group_header"><a href="subcategory.php?mid=7&amp;sid=56">TV Shows and Popular Seriels</a></li><ul><style>#test6:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=7&amp;sid=57">Books, Ebooks and stationary</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=7&amp;sid=58">Flowers and Cakes</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=7&amp;sid=60">Auto and Accessories</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li><li class="block-container col-sm-3" style="width:20%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=7&amp;sid=61">Tools, Equipments and Machinaries</a></li><ul><style>#test1:hover{border:1px solid #DBE515!important}.fa-caret-right{display:none}.link_container:hover .fa-caret-right{display:inherit}</style>  </ul></ul></li></ul></li><li class="dropdown"><a class="dropdown-toggle">SERVICES</a><ul class="dropdown-menu mega_dropdown" role="menu" style="left:0;width:100%"><li class="block-container col-sm-3" style="width:100%"><ul class="block"><li class="link_container group_header"><a href="subcategory.php?mid=8&amp;sid=62">Coming soon with a number of service experts in different fields to fulfill your life with happiness.........!!</a></li></ul></li></ul></li></ul></div></div></nav></div>						</div>
+					</div>															
+					<!-- Quick link -->
+					
+					
+														
+									<div id="quick_link" class="goquickly-bar" style="height: 25px;">
+										<ul style="float:left;margin-bottom:0px !important;margin-top:-3px !important;">
+											
+											
+																							<li class="">
+													<a href="brands.php?mid=1&amp;sid=173&amp;ssid=503">&nbsp;Chargers&nbsp;&nbsp;|&nbsp;</a>
+												</li>
+																								<li class="">
+													<a href="brands.php?mid=1&amp;sid=173&amp;ssid=501">&nbsp;Earphones&nbsp;&nbsp;|&nbsp;</a>
+												</li>
+																								<li class="">
+													<a href="brands.php?mid=1&amp;sid=173&amp;ssid=486">&nbsp;Powerbanks&nbsp;&nbsp;|&nbsp;</a>
+												</li>
+																								<li class="">
+													<a href="brands.php?mid=1&amp;sid=173&amp;ssid=487">&nbsp;Memory Cards&nbsp;&nbsp;|&nbsp;</a>
+												</li>
+																								<li class="">
+													<a href="brands.php?mid=1&amp;sid=173&amp;ssid=484">&nbsp;Mobile Covers&nbsp;&nbsp;|&nbsp;</a>
+												</li>
+																								<li class="">
+													<a href="brands.php?mid=2&amp;sid=147&amp;ssid=479">&nbsp;Men Wallet&nbsp;&nbsp;|&nbsp;</a>
+												</li>
+																								<li class="">
+													<a href="brands.php?mid=2&amp;sid=147&amp;ssid=504">&nbsp;Belts&nbsp;&nbsp;|&nbsp;</a>
+												</li>
+																								<li class="">
+													<a href="brands.php?mid=2&amp;sid=147&amp;ssid=504">&nbsp;Men Belts&nbsp;&nbsp;|&nbsp;</a>
+												</li>
+																								<li class="">
+													<a href="brands.php?mid=3&amp;sid=169&amp;ssid=443">&nbsp;Women Earrings&nbsp;&nbsp;|&nbsp;</a>
+												</li>
+												</ul></div>									
+								    <style type="text/css">
+										.bs-example{
+										font-family: sans-serif;
+										position: relative;
+										margin: 50px;
+										}
+										.twitter-typeahead{
+										width:100% !important;
+										
+										}
+										.typeahead, .tt-query, .tt-hint {
+										width:100% !important;
+										border: 2px solid #CCCCCC;
+										
+										font-size: 12px;
+										height: 30px;
+										line-height: 30px;
+										width: 682px;
+										padding: 8px 12px;
+										width: 396px;
+										}
+										
+										.typeahead {
+										background-color: #FFFFFF;
+										}
+										
+										.typeahead:focus {
+										border: 2px solid #0097CF;
+										}
+										
+										.tt-query {
+										
+										}
+										
+										.tt-hint {
+										color: #000000;
+										}
+										
+										.tt-dropdown-menu {
+										top: 70% !important; 
+										background-color: #FFFFFF;
+										border: 1px solid rgba(0, 0, 0, 0.2);
+										width: 682px;
+										
+										margin-top: 12px;
+										padding: 8px 0;
+										width: 100% !important;
+										}
+										
+										.tt-suggestion {
+										font-size: 12px;
+										line-height: 14px;
+										padding: 3px 20px;
+										color:#000000;
+										}
+										
+										.tt-suggestion.tt-is-under-cursor {
+										background-color: #0097CF;
+										color: #000000;
+										}
+										
+										.tt-suggestion p {
+										margin: 0;
+										}
+									</style>	
+									
+									<script type="text/javascript" src="assets/lib/bootstrap/js/bootstrap.min.js"></script>
+									
+									<script type="text/javascript" src="assets/lib/select2/js/select2.min.js"></script>
+									
+									<script type="text/javascript" src="assets/lib/jquery.bxslider/jquery.bxslider.min.js"></script>
+									
+									<script type="text/javascript" src="assets/lib/owl.carousel/owl.carousel.min.js"></script>
+									
+									
+									
+									<script type="text/javascript" src="assets/lib/countdown/jquery.plugin.js"></script>
+									
+									<script type="text/javascript" src="assets/lib/countdown/jquery.countdown.js"></script>
+									
+									<!-- ./COUNTDOWN -->
+									
+									<script type="text/javascript" src="assets/lib/fancyBox/jquery.fancybox.js"></script>
+									
+									<script type="text/javascript" src="assets/js/jquery.actual.min.js"></script>
+									
+									<script type="text/javascript" src="assets/js/theme-script.js"></script>
+									
+									
+								<!-- end Quick link -->																																																																																																																																	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<!-- userinfo on top-->
+<div id="form-search-opntop">
+</div>
+<!-- userinfo on top-->
+<div id="user-info-opntop">
+</div>
+<!-- CART ICON ON MMENU -->
+<div id="shopping-cart-box-ontop">
+	<i class="fa fa-shopping-cart"></i>
+	<div class="shopping-cart-box-ontop-content"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- end header -->
+<!-- Home slideder-->
+
+<!-- END Home slideder-->
+
+<div class="container" id="columns">
+	
+	<!-- breadcrumb -->
+	
+	<!-- ./breadcrumb -->
+	<!-- page heading-->
+	
+	<!-- ../page heading-->
+	<div class="page-content">
+		<div class="row">
+			
+			<div class="col-sm-12">
+                <!-- main -->
+				
+				<h2> Privacy Policy</h2>
+				<br>
+				<h3>Please read the following statement to learn about our information gathering and dissemination practices.</h3><br>
+				<p>
+					<b>Note: </b>Our privacy policy is subject to change at any time without notice. To make sure user are aware of any changes, please review this policy periodically.
+				</p>
+				<br>
+				<p>
+					By browsing/visiting this Website user agree to be bound by the terms and conditions of this Privacy Policy. If user do not agree please do not use or access our Website. By mere use of the Website, its contents or by going ahead and purchasing products or servicesuser expressly consent to our use and disclosure of user’s personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use.
+					
+					
+				</p>
+				
+				<br>
+				
+				<p>When any user uses our Website, we collect and store user’s personal information which is provided by the user from time to time. Our main goal is to provide the user a safe, efficient, smooth and customized experience. This helps us to provide services and features that most likely meet user’s needs, and to customize our Website in such a way where user finds an experience safer and easier. Generally, user can visit/browse the Website without sharing or revealing any personal information about the user. Once Wecollect user’s personal information, the user is not anonymous to us. Usually we indicate which fields are required and which fields are optional. Hence user can provide only information user want to and the least information we need in order to serve user in a better way.</p> <br>      
+				
+				<br>
+				
+				
+				
+				
+				<p>
+					"Cookies" may be used on certain pages of the Website to help analyses our web page flow, measure promotional effectiveness, promote trust and safety, provides information that is targeted to user’s interests. "Cookies" are small files placed on user’s hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie". BVSBAZAAR also use cookies to allow user to enter user’s password less frequently during a session. User is always free to decline our cookies if user’s browser permits. We do not control the use of cookies by third party associates. 
+				</p> <br>  
+				
+				
+				
+				
+				<p>If user chooses to buy the products on the Website, we collect information about user’s buying actions. We may collect some additional information, such as a billing address, a credit / debit card number, card’s expiration date and/ or other payment instrument details and tracking information from Cheque or money orders. We may also collect information from our message boards, chat rooms or other message areas or leave feedback if user chooses to post. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law. If user sends us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about user’s activities or postings on the Website, we may collect such information into a file specific to user.
+					BVSBAZAAR collect’s personally identifiable information (email address, name, phone number, credit card / debit card / other payment instrument details, etc. from user when user set up a free account with us. When a user sends email or letter, we may store the correspondence details for future use. Thoughuser can browse some sections of our Website without being a registered member but certain activities such as placing an order do require registration. We do use user’s contact information to send user offers based on user’s previous orders and user’s interests.BVSBAZAAR usesuser’s personal information to market to user;we provide user the ability to opt-out of such uses. BVSBAZAAR may use user’s personal information to resolve disputes;  to promote a safe service; to collect money; detect and protect us against error, to troubleshoot problems; fraud and other criminal activity; enforce our terms and conditions.
+					We identify and use user’s IP address to help diagnose problems with our server, and to administer our Website. User’s IP address is also used to help identify user and to gather broad demographic information.
+					We may share personal information with our other corporate entities and affiliates. These entities and affiliates may market to user as a result of such sharing unless users explicitly opt-out.We do not disclose user’s personal information to third parties for their marketing and advertising purposes without user’s explicit consent.BVSBAZAAR and its affiliates may share / sell some or all of user’s personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization/restructuring of business.
+					
+				</p> <br> 
+				
+				
+				
+				<p>Our Website links to other websites that may collect personally identifiable information about user. BVS BAZAAR.com is not responsible for the privacy practices or the content of those linked websites.Our Website has security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever user change or access user’s account information, we offer the use of a secure server. Once user’s information is in our control we follow strict security guidelines, protecting it against any unauthorized access.</p><br>
+				<p>
+				We use third-party advertising companies to serve ads when user visits our Website. These companies may use information (not including user’s name, address, emailaddress, or telephone number) about user’s visits to this and other websites in order to provide advertisements about goods and services of interest to user.</p><br>
+				<p>BVSBAZAAR may sometimes ask our website user to complete optional online surveys where the user may be asked for some information.</p>
+				<br>
+				
+				<p>We may sharesome personal information if necessary to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to any summons/subpoenas, court orders, or other legal process, this includes law enforcement offices, third party rights owners. Sometimes we may share the information where disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
+				</p><br>     
+				
+				<h2>Note: BVSBAZAAR provides all users with the opportunity to opt-out of receiving non-essential </h2>
+				
+				
+				<!-- end main  -->
+			</div>
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+<!-- Footer -->
+<footer id="footer">
+	<div class="container">
+		<!-- introduce-box -->
+		<div id="introduce-box" class="row">
+		
+
+                <div class="col-md-9">
+                    <div class="row">
+                        <div class="col-sm-4 col-xs-6">
+                            <div class="introduce-title">BVSBazaar</div>
+                            <ul id="introduce-company" class="introduce-list">
+                                <li><a href="about_us.php">About Us</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
+                                <li><a href="seller/index.php">Sell on BVSBazaar</a></li>
+                                <li><a href="career.php">Careers</a></li>
+                                <li><a href="become_an_effiliate.php">Become an Affiliate</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col-sm-4 col-xs-6" style="padding:0px;">
+                            <div class="introduce-title">Policies</div>
+                            <ul id="introduce-Account" class="introduce-list">
+                                <li><a href="payment_policies.php">Payments</a></li>
+                                <li><a href="cancelation_and_refund_policy.php">Cancellation &amp; Returns</a></li>
+                                <li><a href="shipping_and_delivery_policy.php">Shipping and Delivery</a></li>
+                                <li><a href="privacy_policy.php">Privacy Policy</a></li>
+                                <li><a href="security_policy.php">Security</a></li>
+								<li><a href="terms_&amp;_conditions.php">T&amp;C</a></li>
+                            </ul>
+                        </div>
+				         <div class="col-sm-4 col-xs-6">
+                            <div class="introduce-title">Help</div>
+                            <ul id="introduce-support" class="introduce-list">
+                                <li><a href="buyer-faq.php">FAQs</a></li>
+                                <li><a href="account.php">My Account</a></li>
+                               
+                                <li><a href="contact.php">Customer Care</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-md-3">
+			<div id="address-box">
+				<a href="#"><img src="assets/data/option6/flogo.png" alt="logo"></a>
+				<div id="address-list">
+		
+				
+					
+					<div class="tit-name">Dial:</div>
+					<div class="tit-contain">
+					+91 9821597166 <br> +91 9821597168</div>
+					<div class="tit-name">mail us:</div>
+					<div class="tit-contain">support@bvsbazaar.com</div>
+				</div>
+			</div> 
+		</div>
+				</div>
+				<div id="introduce-box" class="row">
+			<div class="col-md-12">
+			<div class="col-sm-12">
+						<ul id="trademark-search-list" class="trademark-list">
+			
+				<li class="trademark-text-tit">ELECTRONICS</li>
+									<li><a href="subcategory.php?mid=1&amp;sid=1">Mobiles &amp; Tablets</a></li>
+										<li><a href="subcategory.php?mid=1&amp;sid=2">Laptops and Computers</a></li>
+										<li><a href="subcategory.php?mid=1&amp;sid=3">Televisions</a></li>
+										<li><a href="subcategory.php?mid=1&amp;sid=5">Camera and Video Recorders</a></li>
+										<li><a href="subcategory.php?mid=1&amp;sid=7">Large Appliances</a></li>
+										<li><a href="subcategory.php?mid=1&amp;sid=8">Home Appliances</a></li>
+										<li><a href="subcategory.php?mid=1&amp;sid=10">Audio and Video Players</a></li>
+										<li><a href="subcategory.php?mid=1&amp;sid=11">Small Appliances</a></li>
+										<li><a href="subcategory.php?mid=1&amp;sid=12">Personal Care Appliances</a></li>
+										<li><a href="subcategory.php?mid=1&amp;sid=13">Wearables, Smart Watches</a></li>
+										<li><a href="subcategory.php?mid=1&amp;sid=14">Healthcare Appliances</a></li>
+										<li><a href="subcategory.php?mid=1&amp;sid=15">Gaming and Office Equipments</a></li>
+										<li><a href="subcategory.php?mid=1&amp;sid=173">Accessories</a></li>
+										<li><a href="subcategory.php?mid=1&amp;sid=174">Combo Products</a></li>
+										<li><a href="subcategory.php?mid=1&amp;sid=177">Refurbished Products</a></li>
+								<ul id="trademark-search-list" class="trademark-list">
+			
+				<li class="trademark-text-tit">MEN</li>
+									<li><a href="subcategory.php?mid=2&amp;sid=138">Clothing</a></li>
+										<li><a href="subcategory.php?mid=2&amp;sid=139">Ethnic Wear</a></li>
+										<li><a href="subcategory.php?mid=2&amp;sid=141">Footwear</a></li>
+										<li><a href="subcategory.php?mid=2&amp;sid=142">STORES</a></li>
+										<li><a href="subcategory.php?mid=2&amp;sid=143">Watches/Bracelets</a></li>
+										<li><a href="subcategory.php?mid=2&amp;sid=144">Eyewear/Sunglasses</a></li>
+										<li><a href="subcategory.php?mid=2&amp;sid=145">Bags &amp; Luggage</a></li>
+										<li><a href="subcategory.php?mid=2&amp;sid=146">Fragrances</a></li>
+										<li><a href="subcategory.php?mid=2&amp;sid=147">Mens Accessories</a></li>
+										<li><a href="subcategory.php?mid=2&amp;sid=148">Grooming &amp; Wellness</a></li>
+										<li><a href="subcategory.php?mid=2&amp;sid=149">Combo Products</a></li>
+								<ul id="trademark-search-list" class="trademark-list">
+			
+				<li class="trademark-text-tit">WOMEN</li>
+									<li><a href="subcategory.php?mid=3&amp;sid=109">Clothings</a></li>
+										<li><a href="subcategory.php?mid=3&amp;sid=110">Ethnic wear</a></li>
+										<li><a href="subcategory.php?mid=3&amp;sid=111">Western Wear</a></li>
+										<li><a href="subcategory.php?mid=3&amp;sid=134">Lingerie, Sleep &amp; Swimwear</a></li>
+										<li><a href="subcategory.php?mid=3&amp;sid=164">Footwear</a></li>
+										<li><a href="subcategory.php?mid=3&amp;sid=165">STORES</a></li>
+										<li><a href="subcategory.php?mid=3&amp;sid=166">PERFUMES &amp; FRAGRANCES</a></li>
+										<li><a href="subcategory.php?mid=3&amp;sid=167">Watches</a></li>
+										<li><a href="subcategory.php?mid=3&amp;sid=168">Eyewear/Sunglasses</a></li>
+										<li><a href="subcategory.php?mid=3&amp;sid=169">Jewellery</a></li>
+										<li><a href="subcategory.php?mid=3&amp;sid=170">Beauty &amp; Personal Care</a></li>
+										<li><a href="subcategory.php?mid=3&amp;sid=171">Womens Accessories</a></li>
+										<li><a href="subcategory.php?mid=3&amp;sid=172">Top Brands</a></li>
+								<ul id="trademark-search-list" class="trademark-list">
+			
+				<li class="trademark-text-tit">BABY AND KIDS</li>
+									<li><a href="subcategory.php?mid=4&amp;sid=121">Toys</a></li>
+										<li><a href="subcategory.php?mid=4&amp;sid=123">Kids &amp; Baby Clothing</a></li>
+										<li><a href="subcategory.php?mid=4&amp;sid=124">Clothing By Age</a></li>
+										<li><a href="subcategory.php?mid=4&amp;sid=126">Baby and Kids Footwear</a></li>
+										<li><a href="subcategory.php?mid=4&amp;sid=127">Footwear by age</a></li>
+										<li><a href="subcategory.php?mid=4&amp;sid=128">Baby Care</a></li>
+										<li><a href="subcategory.php?mid=4&amp;sid=129">STORES</a></li>
+										<li><a href="subcategory.php?mid=4&amp;sid=130">Kids Watches &amp; Accessories</a></li>
+										<li><a href="subcategory.php?mid=4&amp;sid=131">Kids Sports</a></li>
+										<li><a href="subcategory.php?mid=4&amp;sid=132">Kids Sunglasses School supplies</a></li>
+										<li><a href="subcategory.php?mid=4&amp;sid=133">Top Brands</a></li>
+								<ul id="trademark-search-list" class="trademark-list">
+			
+				<li class="trademark-text-tit">HOME &amp; FURNITURE</li>
+									<li><a href="subcategory.php?mid=5&amp;sid=150">Kitchen &amp; Dining</a></li>
+										<li><a href="subcategory.php?mid=5&amp;sid=151">FURNITURE</a></li>
+										<li><a href="subcategory.php?mid=5&amp;sid=152">Kitchen Appliances</a></li>
+										<li><a href="subcategory.php?mid=5&amp;sid=154">Furnishing</a></li>
+										<li><a href="subcategory.php?mid=5&amp;sid=155">Home Decor </a></li>
+										<li><a href="subcategory.php?mid=5&amp;sid=156">Home Appliances</a></li>
+										<li><a href="subcategory.php?mid=5&amp;sid=157">Home Store</a></li>
+										<li><a href="subcategory.php?mid=5&amp;sid=158">Bath Essentials</a></li>
+										<li><a href="subcategory.php?mid=5&amp;sid=159">Household Daily Needs</a></li>
+										<li><a href="subcategory.php?mid=5&amp;sid=160">Pet Supplies</a></li>
+										<li><a href="subcategory.php?mid=5&amp;sid=162">Tools &amp; Hardware</a></li>
+										<li><a href="subcategory.php?mid=5&amp;sid=163">Gourmet &amp; Specialty Foods</a></li>
+										<li><a href="subcategory.php?mid=5&amp;sid=175">Top Brands</a></li>
+								<ul id="trademark-search-list" class="trademark-list">
+			
+				<li class="trademark-text-tit">GROCERY</li>
+									<li><a href="subcategory.php?mid=6&amp;sid=33">Flours</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=34">Pulses</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=35">Rice</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=36">Sauces &amp; Cooking Pastes</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=37">Chips</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=38">Baking Supplies</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=39">Cereal &amp; Muesli</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=40">Canned &amp; Jarred Food</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=41">Candies &amp; Gum</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=42">Coffee, Tea &amp; Beverages</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=43">Olives, Pickles &amp; Relish</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=44">Ready Meals &amp; Mixes</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=45">Pasta &amp; Noodles</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=46">Powdered Spices &amp; Masalas</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=47">Snack Foods</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=48">Dried Fruits, Nuts &amp; Seeds</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=49">Hampers &amp; Gourmet Gifts</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=50">Spices &amp; Masalas</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=51">Jams, Honey &amp; Spreads&nbsp;</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=52">Oils, Vinegars &amp; Salad Dressings&nbsp;</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=53">Top Brands</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=104">Pet Foods</a></li>
+										<li><a href="subcategory.php?mid=6&amp;sid=176">Personal Care Products</a></li>
+								<ul id="trademark-search-list" class="trademark-list">
+			
+				<li class="trademark-text-tit">EXTRAS</li>
+									<li><a href="subcategory.php?mid=7&amp;sid=54">Sports and Health</a></li>
+										<li><a href="subcategory.php?mid=7&amp;sid=55">Music, Movies and other Media</a></li>
+										<li><a href="subcategory.php?mid=7&amp;sid=56">TV Shows and Popular Seriels</a></li>
+										<li><a href="subcategory.php?mid=7&amp;sid=57">Books, Ebooks and stationary</a></li>
+										<li><a href="subcategory.php?mid=7&amp;sid=58">Flowers and Cakes</a></li>
+										<li><a href="subcategory.php?mid=7&amp;sid=60">Auto and Accessories</a></li>
+										<li><a href="subcategory.php?mid=7&amp;sid=61">Tools, Equipments and Machinaries</a></li>
+								<ul id="trademark-search-list" class="trademark-list">
+			
+				<li class="trademark-text-tit">SERVICES</li>
+									<li><a href="subcategory.php?mid=8&amp;sid=73">Coming soon with a number of service experts in different fields to fulfill your life with happyness.........</a></li>
+								<ul id="trademark-search-list" class="trademark-list">
+			
+				<li class="trademark-text-tit">REFURBISHED PRODUCTS</li>
+									<li><a href="subcategory.php?mid=9&amp;sid=100">Mobile Phones</a></li>
+										<li><a href="subcategory.php?mid=9&amp;sid=101">Laptops</a></li>
+								<ul id="trademark-search-list" class="trademark-list">
+			
+				<li class="trademark-text-tit">ARTIFICIAL JWELLERY</li>
+									<li><a href="subcategory.php?mid=10&amp;sid=98">Ear Rings</a></li>
+										<li><a href="subcategory.php?mid=10&amp;sid=99">Necklace and Earrings</a></li>
+								<ul id="trademark-search-list" class="trademark-list">
+			
+				<li class="trademark-text-tit">ETHNIC HANDICRAFTS</li>
+									<li><a href="subcategory.php?mid=12&amp;sid=95">Showlls</a></li>
+										<li><a href="subcategory.php?mid=12&amp;sid=96">Hand Made Mats</a></li>
+										<li><a href="subcategory.php?mid=12&amp;sid=97">Accessories</a></li>
+									
+				
+			</ul>
+		</ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></div>
+				
+			</div>
+		
+		
+	</div><!-- /#introduce-box -->
+	
+	<!-- #trademark-box -->
+	<!-- #trademark-box -->
+            <div id="trademark-box" class="row">
+                <div class="col-sm-12">
+                    <ul id="trademark-list">
+                        <li id="payment-methods">Accepted Payment Methods</li>
+                       
+                        <li>
+                            <a href="#"><img src="assets/data/trademark-visa.jpg" alt="ups"></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="assets/data/trademark-mc.jpg" alt="ups"></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="assets/data/payment/visa_electron.png" alt="ups"></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="assets/data/payment/net_banking.png" alt="ups"></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="assets/data/payment/maestro.png" alt="ups"></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="assets/data/payment/a-express.png" alt="ups"></a>
+                        </li>
+                    </ul> 
+                </div>
+            </div> 
+	
+	<div id="footer-menu-box">
+	
+		
+		<p class="text-center">Copyrights © 2016 BVS RETAIL PVT. LTD. All Rights Reserved. Designed by RoyalCube Technologies </p>
+	</div><!-- /#footer-menu-box -->
+</div> 
+</footer><!-- /.footer -->
+
+<a href="#" class="scroll_top" title="Scroll to Top" style="display: inline;">Scroll</a>
+<!-- Script-->
+<script type="text/javascript" src="assets/lib/jquery/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="assets/lib/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/lib/select2/js/select2.min.js"></script>
+<script type="text/javascript" src="assets/lib/jquery.bxslider/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="assets/lib/owl.carousel/owl.carousel.min.js"></script>
+<!--<script type="text/javascript" src="assets/lib/jquery.countdown/jquery.countdown.min.js"></script>-->
+<!-- COUNTDOWN -->
+<script type="text/javascript" src="assets/lib/countdown/jquery.plugin.js"></script>
+<script type="text/javascript" src="assets/lib/countdown/jquery.countdown.js"></script>
+<!-- ./COUNTDOWN -->
+<script type="text/javascript" src="assets/lib/fancyBox/jquery.fancybox.js"></script>
+<script type="text/javascript" src="assets/js/jquery.actual.min.js"></script>
+<script type="text/javascript" src="assets/js/theme-script.js"></script>
+
+
+
+
+</body></html>
