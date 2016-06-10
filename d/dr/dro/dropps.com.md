@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropps.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926183303id_/http%3A//dropps.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropps.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610063246id_/http%3A//www.dropps.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Dropps Privacy Policy | Dropps®
 
@@ -11,7 +11,7 @@
     * [In Wash Boosters and Softeners](https://web.archive.org/collections/in-wash-boosters-laundry)
     * [Baby](https://web.archive.org/collections/baby-laundry)
     * [Sensitive Skin](https://web.archive.org/collections/sensitive-skin)
-    * [Shop by Scent](https://web.archive.org/pages/scent-shop)
+    * [Travel Size](https://web.archive.org/collections/travel-size)
   * [Gentle for Baby](https://web.archive.org/collections/gentle-for-baby)
     * [Detergents](https://web.archive.org/collections/detergents-baby)
     * [In Wash Boosters](https://web.archive.org/collections/in-wash-boosters-baby)
@@ -26,15 +26,23 @@
     * [Scent + Dye Free](https://web.archive.org/collections/scent-dye-free-buy-in-bulk)
     * [In-Wash Boosters](https://web.archive.org/collections/buy-in-bulk-in-wash-boosters)
     * [Dish](https://web.archive.org/products/buy-in-bulk-dropps-dishwasher-detergent-pacs-lemon)
+  * [Fabric Care Guide](https://web.archive.org/pages/fabric-care-how-to-wash-and-store-cotton)
+    * [Cotton](https://web.archive.org/pages/fabric-care-how-to-wash-and-store-cotton)
+    * [Denim](https://web.archive.org/pages/fabric-care-how-to-wash-store-denim)
+    * [Flannel](https://web.archive.org/pages/fabric-care-how-to-wash-and-store-flannel)
+    * [Linen](https://web.archive.org/pages/fabric-care-how-to-wash-and-store-linen)
+    * [Spandex & Lycra](https://web.archive.org/pages/fabric-care-how-to-wash-and-store-spandex-and-lycra)
+    * [Sportswear & Swimwear](https://web.archive.org/pages/fabric-care-how-to-wash-and-store-sportswear-and-swimwear)
+    * [Wool & Cashmere](https://web.archive.org/pages/fabric-care-how-to-wash-store-wool-and-cashmere)
+    * [Stain Removal Guide](https://web.archive.org/pages/stain-removal-guide)
   * [About Us](https://web.archive.org/pages/our-story)
-    * [Our Story](https://web.archive.org/pages/our-story)
     * [Special Offers](https://web.archive.org/pages/special-offers-and-sweepstakes)
+    * [Our Blog](https://web.archive.org/blogs/spincycle)
+    * [Our Story](https://web.archive.org/pages/our-story)
     * [Conservation](https://web.archive.org/pages/the-dropps-difference)
     * [Press](https://web.archive.org/pages/press)
     * [Awards & Certifications](https://web.archive.org/pages/awards-certifications)
-    * [Store Locator](http://dropps.com/apps/store-locator)
-    * [Online Retailers](https://web.archive.org/pages/online-retailers)
-  * [Spin Cycle Blog](https://web.archive.org/blogs/spincycle)
+    * [Find a Store](https://web.archive.org/pages/online-retailers)
 
 
 
