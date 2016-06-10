@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gracessweetlife.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209002319id_/http%3A//gracessweetlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gracessweetlife.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610050607id_/http%3A//gracessweetlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for the Grace's Sweet Life Website
 
@@ -86,4 +86,4 @@ If you have any questions about this policy, our practices related to this site,
 
 We reserve the right, at any time, to add to, change, update, or modify this privacy policy simply by posting such change, update, or modification on  **Grace’s Sweet Life** , and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms.
 
-[Comments (0)](http://gracessweetlife.com/privacy-policy/#comments)
+[Comments (0)](http://gracessweetlife.com/privacy-policy/#respond)
