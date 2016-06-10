@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluginboutique.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211053811id_/http%3A//www.pluginboutique.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluginboutique.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610032307id_/http%3A//www.pluginboutique.com/privacy) for the most accurate reproduction.*
 
 # VST Plugins, Synth Presets, Effects, Virtual Instruments, Music Plugins from Pluginboutique
 
@@ -124,11 +124,11 @@ If you have any questions about this privacy policy or our treatment of your per
 
 ### **Plugin Boutique**
 
-The Ironworks  
-Blackman Street  
-Brighton  
-BN1 4GD  
-UK
+Unit 106  
+Brighton Junction  
+1A Isetta Square  
+35 New England Street  
+Brighton, BN1 4GQ
 
 e-mail: support@pluginboutique.com  
-Tel/Fax: +44 (0)1273 692 313
+Tel/Fax: +44 (0)1273 810 250
