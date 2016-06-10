@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211185436id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611002456id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The European
 
@@ -64,11 +64,11 @@ info@theeuropean.de
 
 Most Read 
 
-  * Debate
+  * Column
 
-## [Refugees looking for asylum in Europe](https://web.archive.org/simone-duarte/10577-refugees-looking-for-asylum-in-europe)
+## [Election in Austria](https://web.archive.org/alexander-goerlach--2/11008-election-in-austria)
 
-In a recent interview the associate director of Portugals border agency, Luis Gouveia, said that besides bureaucracy the difficulty in the resettlement of refugees is due to the fact that they don... [read more](https://web.archive.org/simone-duarte/10577-refugees-looking-for-asylum-in-europe)
+The Alpine neighbor of Germany was prepared to swear in a far-right leaning President. What the heck? [read more](https://web.archive.org/alexander-goerlach--2/11008-election-in-austria)
 
 
 
