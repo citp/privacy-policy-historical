@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailysmscollection.in privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920005629id_/http%3A//www.dailysmscollection.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysmscollection.in privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611012017id_/http%3A//www.dailysmscollection.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Daily SMS Collection: Privacy Policy
+# Privacy Policy
 
 Privacy Policy for http://www.dailysmscollection.in/
 
