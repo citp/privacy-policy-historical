@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barstoolsports.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413094026id_/http%3A//www.barstoolsports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barstoolsports.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610185846id_/http%3A//www.barstoolsports.com/privacy-policy) for the most accurate reproduction.*
 
 # Barstool Sports
 
