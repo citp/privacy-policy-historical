@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asexyservice.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208214552id_/http%3A//www.asexyservice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asexyservice.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610153900id_/http%3A//www.asexyservice.com/privacy) for the most accurate reproduction.*
 
 # Browse the webs hottest classifieds - A Sexy Service.com
 
@@ -9,6 +9,8 @@ Acceptance of Our Privacy Policy
 Upon every interaction with ASexyService.com and services (together, the “Website”), you signify you accept this Privacy Policy. If for any reason you do not accept the Websites Privacy Policy, you must discontinue use immediately as you are not authorized to use the Website without said acceptance.
 
 Collection of Personal Information
+
+[istanbul escort](http://www.escortistanbul.asia/ "istanbul escort")
 
 The website collects personal information whenever you use paid or “premium” features, create or update an account, request information or communicate with us, and otherwise visiting or using this Website’s products and services. The collected information may include without limitation users first name, last name, email address, phone number, order history, and other non-public information. We allow you to use your credit card numbers in order to use premium features but we do not store credit card numbers on file for your protection.
 
