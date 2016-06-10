@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisefixer.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208152641id_/http%3A//wisefixer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisefixer.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610213343id_/http%3A//www.wisefixer.com/privacy.php) for the most accurate reproduction.*
 
 # WiseFixer - Privacy
 
