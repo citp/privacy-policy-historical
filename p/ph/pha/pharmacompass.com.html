@@ -1,27 +1,39 @@
-<!--The following is the downloaded HTML source of the pharmacompass.com privacy policy that was archived on 2015-08-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150812112517id_/http%3A//www.pharmacompass.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pharmacompass.com privacy policy that was archived on 2016-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610144827id_/http%3A//www.pharmacompass.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html slick-uniqueid="3" dir="ltr" class="no-js" lang="en-gb"><head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 		<title>Privacy Policy - PharmaCompass.com</title>
 		<meta name="keywords" content="privacy policy of PharmaCompass.com">
 		<meta name="description" content="Know complete information about privacy policy of PharmaCompass.com.">
+		<!--<meta http-equiv="cache-control" content="max-age=0" />
+		<meta http-equiv="cache-control" content="no-cache" />
+		<meta http-equiv="expires" content="-1" />
+		<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+		<meta http-equiv="pragma" content="no-cache" />-->
+		
 		<link href="http://www.pharmacompass.com/jAssets/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 		<link rel="stylesheet" href="http://www.pharmacompass.com/jAssets/css/typography.css" type="text/css" media="screen">
 		<link rel="stylesheet" href="http://www.pharmacompass.com/jAssets/css/template.css" type="text/css" media="screen">
 		<link rel="stylesheet" href="http://www.pharmacompass.com/pAssets/button-css/style.css" type="text/css">
+		<link rel="stylesheet" href="http://www.pharmacompass.com/pAssets/css/showup.css?version=DDMMYYYY">
+		<link rel="stylesheet" href="http://www.pharmacompass.com/pAssets/css/showup.css">
+		<link rel="stylesheet" href="http://www.pharmacompass.com/pAssets/css/pc.css?version=DDMMYYYY" type="text/css">
 		<link rel="stylesheet" href="http://www.pharmacompass.com/pAssets/css/pc.css" type="text/css">
+		<link rel="stylesheet" href="http://www.pharmacompass.com/jAssets/css/style.css?version=DDMMYYYY" type="text/css" media="screen">
 		<link rel="stylesheet" href="http://www.pharmacompass.com/jAssets/css/style.css" type="text/css" media="screen">
+		<link rel="stylesheet" href="http://www.pharmacompass.com/jAssets/css/responsive.css?version=DDMMYYYY" type="text/css" media="screen">
 		<link rel="stylesheet" href="http://www.pharmacompass.com/jAssets/css/responsive.css" type="text/css" media="screen">
 		<link href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet" type="text/css">
 				
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>		
+		<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>		
+		<script type="text/javascript" src="http://www.pharmacompass.com/pAssets/js/showup.js"></script>
 		<script src="http://www.pharmacompass.com/jAssets/js/jquery_002.js" type="text/javascript"></script>
 		<script src="http://www.pharmacompass.com/pAssets/rmm-js/script.js"></script>
-		<script src="http://www.pharmacompass.com/jAssets/js/marquee.js" type="text/javascript"></script>
+		<script src="http://www.pharmacompass.com/jAssets/js/marquee.js" type="text/javascript"></script>		
 		<script type="text/javascript">			
 			jQuery.noConflict();
 			jQuery(document).ready(function($)
@@ -35,6 +47,7 @@
 				});
 				jQuery(".newsticker-jcarousellite").jCarouselLite(
 				{
+					btnPrev: ".prev",
 					vertical: true,
 					hoverPause: true,
 					visible: 2,
@@ -58,7 +71,7 @@
 				}				
 				jQuery(window).scroll(function () 
 				{
-					var scroll = jQuery(this).scrollTop() + 100 ;
+					var scroll = jQuery(this).scrollTop() + 120 ;
 					if (scroll < jQuery('#sidebar').offset().top)
 					{
 						jQuery('#inner').css(
@@ -69,11 +82,23 @@
 					}
 					else
 					{
-						jQuery('#inner').css(
+						if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
 						{
-							'position': 'fixed',
-							'top': '90px'
-						});
+							var top = jQuery('.top-margin').css('margin-top');
+							jQuery('#inner').css(
+							{
+								'position': 'fixed',
+								'top': top
+							});
+						}
+						else
+						{
+							jQuery('#inner').css(
+							{
+								'position': 'fixed',
+								'top': '120px'
+							});
+						}
 					}					
 										
 				});
@@ -85,96 +110,123 @@
 			<script src="http://www.pharmacompass.com/jAssets/js/html5.js"></script>
 			<script src="http://www.pharmacompass.com/jAssets/js/respond.js"></script>
 			<script src="http://www.pharmacompass.com/jAssets/js/selectivizr.js"></script>
-		<![endif]-->		
+		<![endif]-->
+		<!-- Facebook Pixel Code -->
+		<script>
+		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+		document,'script','//connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '1267750079906840');
+		fbq('track', "PageView");
+		</script>
+		<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1267750079906840&ev=PageView&noscript=1"/></noscript>
+		<!-- End Facebook Pixel Code -->
+		
+		<!-- Google Code for Lead on Pharmacompass.com Conversion Page -->
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 964635480;
+			var google_conversion_language = "en";
+			var google_conversion_format = "3";
+			var google_conversion_color = "ffffff";
+			var google_conversion_label = "ecHpCI_-lWEQ2Nb8ywM";
+			var google_remarketing_only = false;
+			/* ]]> */
+		</script>
+		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+		<noscript>
+			<div style="display:inline;">
+				<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/964635480/?label=ecHpCI_-lWEQ2Nb8ywM&amp;guid=ON&amp;script=0"/>
+			</div>
+		</noscript>
+		
     </head>
     <body class="blue align-ltr page-id-435 homepage  firefox com-disabled  breakpoint-1200">
         		<section class="container">			
 			<header id="header-wrap" class="no-print">                               
 				<div class="row">
-	<div class="navbar-fixed-top" style="padding-top:0px;">
-		<div style="background: rgba(0,0,0,0.4);height:30px;">
-			<div class="container">
-				<div class="row">
-					<p style="float:right;padding-right: 20px;padding-top: 5px;margin-bottom: 0px;">
-													<a class="login" href="javascript:void(0);" style="color:#aaa;"><i class="icon-user"></i> Log in</a> 
-							<a class="registers" href="javascript:void(0);" style="color:#aaa;">&nbsp; &nbsp;<span class="icon-lock"></span> Create An Account</a>
-											</p><p>
-				</p></div>
-			</div>
+	<script> var proCom = false; </script>
+			<div id="headerTopDiv" style="text-align: center;margin-top: -21px;">
+			<a id="artLink" href="javascript:void(0);" rel="nofollow" target="_self">
+				<img class="headerTopAdvertise" style="margin-bottom: 2px;" src="" alt="PharmaCompass">
+			</a>
 		</div>
-		<div class="container">
+		<script type="text/javascript">
+			jQuery.noConflict();
+			jQuery(document).ready(function()
+			{ 
+				jQuery.ajax(
+				{
+					url:"http://www.pharmacompass.com/ajax/loadHeader",
+					type:'POST',
+					data:{page:'6'},
+					cache: false,
+					dataType: 'json',
+					success:function(result)
+					{
+						if(result.banner != '')
+						{
+							jQuery('.headerTopAdvertise').attr('src', 'http://www.pharmacompass.com/pAssets/image/'+result.banner).load(function()
+							{
+								jQuery('#artLink').attr('href',result.link).attr('target','_blank');
+								if (typeof callAdd == 'function')
+								{
+									callAdd();
+								}
+							});
+						}
+						else
+						{
+							if (typeof callAdd == 'function')
+							{
+								callAdd();
+							}
+							if(typeof(topBennerVal) != "undefined" && topBennerVal !== null)
+							{
+								topBennerVal = '205px';
+							}
+							jQuery('#headerTopDiv').html('');
+						}
+					},
+					error: function()
+					{
+						if (typeof callAdd == 'function')
+						{
+							callAdd();
+						}
+						if(typeof(topBennerVal) != "undefined" && topBennerVal !== null)
+						{
+							topBennerVal = '205px';
+						}
+						jQuery('#headerTopDiv').html('');
+					}
+				});
+			});
+		</script>
+		<div id="header" style="padding:0px;">
+		<div class="container con-padding">
 			<div class="row">
-				<div class="headerMob grid1 but-width">
-					<div class="button-menu">
-						<nav>
-							<ul class="content clearfix">
-								<li class="dropdown">
-									<a href="javascript:void(0);" id="button_hide"><img class="imglogo" alt="pharma-menu" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/menu.png"></a>
-										<ul class="sub-menu" id="menu_hide">
-											<li><a href="http://www.pharmacompass.com/">HOME</a></li>
-											<li class="dropdown"><a href="javascript:void(0);">OUR ANALYSIS</a>
-												<ul class="sub-menu">
-													<li><a href="http://www.pharmacompass.com/news/Articles">RadioBlog</a></li>
-												</ul>
-											</li>
-											<li class="dropdown"><a href="javascript:void(0);">DATA DOWNLOAD</a>
-												<ul class="sub-menu">
-													<li><a href="http://www.pharmacompass.com/news/radiodata">RadioData</a></li>
-												</ul>
-											</li>
-											<li class="dropdown"><a href="javascript:void(0);">ENQUIRY OR OFFER</a>
-												<ul class="sub-menu">
-													<li><a href="http://www.pharmacompass.com/phisper">Read Enquiry or Offer</a></li>
-													<li class="composePhisper"><a href="javascript:void(0);">Post Your Request</a></li>
-												</ul>
-											</li>
-											
-											<li class="dropdown"><a href="javascript:void(0);">NEWS</a>
-												<ul class="sub-menu">
-													<li><a href="http://www.pharmacompass.com/news/America">America</a></li>
-													<li><a href="http://www.pharmacompass.com/news/APIs">APIs</a></li>
-													<li><a href="http://www.pharmacompass.com/news/Asia">Asia</a></li>
-													<li><a href="http://www.pharmacompass.com/news/Quality-Alerts">Compliance Alerts</a></li>
-													<li><a href="http://www.pharmacompass.com/news/Europe">Europe</a></li>
-													<li><a href="http://www.pharmacompass.com/news/Generics">Generics</a></li>
-													<li><a href="http://www.pharmacompass.com/news/India">India</a></li>
-													<li><a href="http://www.pharmacompass.com/news/Quality">Quality</a></li>
-													<li><a href="http://www.pharmacompass.com/news/FDA-Approvals">Recent Approvals</a></li>
-													<li><a href="http://www.pharmacompass.com/news/science">Science</a></li>
-													<li><a href="http://www.pharmacompass.com/news/Others">Others</a></li>
-												</ul>
-											</li>
-											<li class="dropdown"><a href="javascript:void(0);">IMAGE CREDIT</a>
-												<ul class="sub-menu">
-													<li><a href="http://www.pharmacompass.com/image-credit">Our special thanks</a></li>				
-												</ul>
-											</li>
-											<li class="dropdown"><a href="javascript:void(0);">FEEDBACK</a>
-												<ul class="sub-menu">
-													<li><a class="huti" href="javascript:void(0);">Help us to improve</a></li>													
-												</ul>
-											</li>
-										</ul>
-								</li>
-							</ul>
-						</nav>
-					</div>
-				</div>
 				<div class="headerMob grid3 logo-width">
 					<div class="content">
-						<a href="http://www.pharmacompass.com/"><img class="" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/pharmacompass.png" alt="PHARMACOMPASS"></a>
-						<!--<h1 id='logo' class='brand text' style=''> 
-							<a style="vertical-align: middle;" href='http://www.pharmacompass.com/'><span style='color:#fff;'>Pharma</span>Compass </a>
-							<span class='subTitle'>connecting intelligence with opportunities</span>
-						</h1> 
-						<div style="clear:both"></div>	-->					
-					</div>				
+						<a href="http://www.pharmacompass.com/">
+							<div class="newlogo-icon">
+								<img style="max-width: 100%;" class="" src="http://www.pharmacompass.com/jAssets/images/logo/pc-icon.png" alt="PHARMACOMPASS">
+							</div>
+							<div class="new-drop-logo">
+								<span class="logo-head">PHARMA<span style="color:#8dd2fe;">COMPASS</span></span>
+								<p class="some-id logo-tag">Grow Your Pharma Business Digitally</p>
+							</div>
+						</a>
+						<div style="clear:both"></div>
+					</div>
 				</div>
-				<div class="grid6">
+				<div class="grid6 new-search" style="float: right;">
 					<div class="input-group search-width">
 						<div id="custom-search-input">
 							 <div class="input-group">
-								 <input style="border-radius: 5px !important;" type="search" id="search" name="search" class="search-query form-control" placeholder="SEARCH FOR COMPANIES, APIs, DRUGS TO FIND suppliers, DMFs, dossiers, prices..." autocomplete="off">
+								 <input style="border-radius: 5px !important;" type="search" id="search" name="search" class="search-query form-control" placeholder="SEARCH for Companies, APIs, Drugs, to find Suppliers, DMFs etc..." autocomplete="off">
 								<ul id="searchDisplay" class="search-ac" style="padding:0px; margin:0px;"></ul>
 								 <span class="input-group-btn">
 									 <button onclick="validate();" class="btn btn-danger" type="button">
@@ -184,553 +236,559 @@
 							 </div>
 						 </div>
 					</div>
-					<div class="top-dropdown back-dropdown">
+
+				</div>
+
+				<div style="clear:both"></div>
+		</div>
+	</div>
+	<div class="mob-align-btn" style="background: rgba(0,0,0,0.4);height:30px;">
+		<div class="container">
+			<div style="float:right;">
+				<div class="top-dropdown back-dropdown new-drop" style="margin-left: 0px;">
 						<nav class="navbar navbar-default" role="navigation">
 							<div>
-							  <ul class="nav navbar-nav" style="width: 430px;">
-								<li class="dropdown">
-									 <a style="padding-left:0px;color: #FFEA35;" href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Plan your CPhI</a>
-									 <ul class="dropdown-menu">
-										<li style="font-weight:bold;text-align: left;font-family: Raleway,sans-serif;color:#fff;margin-bottom:15px;border-bottom: 1px solid #fff;">CPhI Madrid 2015</li>
-										<li style="margin-bottom: 15px;border-bottom: 1px solid #fff;padding-bottom:15px;">
-											<a target="_blank" href="http://www.pharmacompass.com/virtual-pop-up-booth" style="line-height: 22px;padding: 0px"><p style="text-align:left;margin-bottom: 0px;">Are you attending but not exhibiting?</p>
-												<p style="padding-left:26px;text-align:left;">Our Virtual Pop-Up Booth is ideal for you.<br>Click here to know more about our exclusive offer</p>
-											</a>
-										</li>
-										<li><a class="exhibitor" style="line-height: 22px;padding: 0px" href="javascript:void(0);">
-												<p style="text-align:left;margin-bottom: 0px;">Already an exhibitor?</p>
-												<p style="padding-left:26px;text-align:left;">Click here so we can update your company profile</p> 
-											</a>
-										</li>
-										
-										
+							<button class="nav-button">Toggle Navigation</button>
+							  <ul class="nav navbar-nav primary-nav">
+								<li class="dropdown dropLi" rel="0" page="" style="position: relative;">
+									 <a style="padding-left:0px;" href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Market Place</a>
+									 <ul class="dropdown-menu market-pos" rel="ddMarketPlace" style="min-height:250px;">
+										<div class="market-left">
+											<div style="color:#16263b;">
+												<p class="market-left-heading">Active Pharmaceutical Ingredients</p>
+											</div>
+											<div style="padding: 0px 10px 10px 0px;font-size: 14px;">
+															<div class="market-enq-main">
+														<div class="menu-api">
+															<div class="market-symbol">
+																<span class="icon-hand-right" style="color:#000;"></span>
+															</div>
+															<div class="market-enquiry">
+																<p><a target="_blank" href="http://www.pharmacompass.com/phisper/OTAz">Enquiry//500g of Diacerein needed for Formulation Development in India [EN00393]</a></p>
+															</div>
+														</div>				
+														<div style="clear:both"></div>
+													</div>
+															<div class="market-enq-main">
+														<div class="menu-api">
+															<div class="market-symbol">
+																<span class="icon-hand-right" style="color:#000;"></span>
+															</div>
+															<div class="market-enquiry">
+																<p><a target="_blank" href="http://www.pharmacompass.com/phisper/ODk4">Enquiry//Oxandrolone API for an emerging generic company in the United States [EN00392]</a></p>
+															</div>
+														</div>				
+														<div style="clear:both"></div>
+													</div>
+															<div class="market-enq-main">
+														<div class="menu-api">
+															<div class="market-symbol">
+																<span class="icon-hand-right" style="color:#000;"></span>
+															</div>
+															<div class="market-enquiry">
+																<p><a target="_blank" href="http://www.pharmacompass.com/phisper/ODky">Enquiry//Niche opportunity in Indonesia [ENA00016]</a></p>
+															</div>
+														</div>				
+														<div style="clear:both"></div>
+													</div>
+													</div>
+										</div>
+										<div class="market-right">
+											<div style="color:#16263b;">
+												<p class="market-left-heading">Finished Dosage Forms</p>
+											</div>
+											<div style="padding: 0px 10px 10px 10px;font-size: 14px;">
+													<div class="market-enq-main">
+													<div class="menu-api">
+														<div class="market-symbol">
+															<span class="icon-hand-right" style="color:#000;"></span>
+														</div>
+														<div class="market-enquiry">
+															<p><a target="_blank" href="http://www.pharmacompass.com/phisper/ODk3">Enquiry//Contract Manufacturer required for Low Molecular Weight Heparin [EN00391]</a></p>
+														</div>
+													</div>			
+													<div style="clear:both"></div>
+												</div>
+													<div class="market-enq-main">
+													<div class="menu-api">
+														<div class="market-symbol">
+															<span class="icon-hand-right" style="color:#000;"></span>
+														</div>
+														<div class="market-enquiry">
+															<p><a target="_blank" href="http://www.pharmacompass.com/phisper/ODY0">Enquiry//e-CTD dossiers without supply needed for Amoxicillin, Cephradine, Cephalexin, Cefixime and Cefdinir [EN00377][EN00378][EN00379][EN00380][EN00381]</a></p>
+														</div>
+													</div>			
+													<div style="clear:both"></div>
+												</div>
+													<div class="market-enq-main">
+													<div class="menu-api">
+														<div class="market-symbol">
+															<span class="icon-hand-right" style="color:#000;"></span>
+														</div>
+														<div class="market-enquiry">
+															<p><a target="_blank" href="http://www.pharmacompass.com/phisper/ODY5">Enquiry//Extended Release Paliperidone tablets for Korea [EN00375]</a></p>
+														</div>
+													</div>			
+													<div style="clear:both"></div>
+												</div>
+												</div>
+										</div>
+										<div style="clear:both"></div>
+										<p style="text-align:center;color:#000;font-size:15px;font-weight:bold;">Click on the title of the enquiry and get connected for free</p>
+										<p style="text-align:center;">
+											<a class="events-view" style="width:160px;" href="http://www.pharmacompass.com/phisper" target="_blank">VIEW ALL ENQUIRIES</a>
+										</p>
+									</ul>
+								</li>
+								<li class="dropdown new-Manufact dropLi" rel="0" page="" style="position: relative;">
+									 <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><span class="icon-star-empty"></span> Manufacturers</a>
+									 <ul class="dropdown-menu featured-pos" rel="ddManufacturers" style="min-height:250px;">
+										<div class="featured-left">
+											<div style="color:#16263b;">
+												<p class="market-left-heading">Manufacturers</p>
+											</div>
+											<div style="padding: 0px;font-size: 14px;">
+													<div class="featured-company">
+													<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Alchem_International_Private_Ltd" target="_blank">
+														<div class="menu-com">
+															<p style="margin-bottom: 0px;">Alchem International Private Ltd</p>
+															<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Pioneer in the field of Phytochemicals</p>				</div>
+														<div class="featured-img">
+															<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/1434625915_logo.jpg" style="max-width: 100%;">
+														</div>
+													</a>
+													<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+													<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Biophore_India_Pharmaceuticals_Pvt._Ltd" target="_blank">
+														<div class="menu-com">
+															<p style="margin-bottom: 0px;">Biophore India Pharmaceuticals Pvt. Ltd</p>
+															<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Research driven global pharmaceutical company</p>				</div>
+														<div class="featured-img">
+															<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/1434949973_Biophore.jpg" style="max-width: 100%;">
+														</div>
+													</a>
+													<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+													<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Invent_Farma" target="_blank">
+														<div class="menu-com">
+															<p style="margin-bottom: 0px;">Invent Farma</p>
+															<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Vertically integrated company based in Barcelona</p>				</div>
+														<div class="featured-img">
+															<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/-1437826011.jpg" style="max-width: 100%;">
+														</div>
+													</a>
+													<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+													<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Farmak_JSC" target="_blank">
+														<div class="menu-com">
+															<p style="margin-bottom: 0px;">Farmak JSC</p>
+															<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">A leading GMP EU-certified Pharmaceutical Manufacturer in Ukraine</p>				</div>
+														<div class="featured-img">
+															<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/-1441175978.jpg" style="max-width: 100%;">
+														</div>
+													</a>
+													<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+													<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Bahrain_Pharma" target="_blank">
+														<div class="menu-com">
+															<p style="margin-bottom: 0px;">Bahrain Pharma</p>
+															<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Halal Certified Softgel Capsules</p>				</div>
+														<div class="featured-img">
+															<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/-1444023789.jpg" style="max-width: 100%;">
+														</div>
+													</a>
+													<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+													<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Shodhana_Laboratories_Ltd" target="_blank">
+														<div class="menu-com">
+															<p style="margin-bottom: 0px;">Shodhana Laboratories Ltd</p>
+															<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">WHO GMP certified API manufacturer</p>				</div>
+														<div class="featured-img">
+															<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/-1444046800.jpg" style="max-width: 100%;">
+														</div>
+													</a>
+													<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+													<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Vefa_Ilac" target="_blank">
+														<div class="menu-com">
+															<p style="margin-bottom: 0px;">Vefa Ilac</p>
+															<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Best in class WHO-GMP certified manufacturing capabilities in Eurasia</p>				</div>
+														<div class="featured-img">
+															<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/-1444279818.jpg" style="max-width: 100%;">
+														</div>
+													</a>
+													<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+													<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Finzelberg_GmbH_&amp;_Co._KG" target="_blank">
+														<div class="menu-com">
+															<p style="margin-bottom: 0px;">Finzelberg GmbH &amp; Co. KG</p>
+															<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Leading producer of Active Phyto-pharmaceutical Ingredients</p>				</div>
+														<div class="featured-img">
+															<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/-1445842881.jpg" style="max-width: 100%;">
+														</div>
+													</a>
+													<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+													<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Abdi_Ibrahim_Ilac_San._Ve_Tic._A.S." target="_blank">
+														<div class="menu-com">
+															<p style="margin-bottom: 0px;">Abdi Ibrahim Ilac San. Ve Tic. A.S.</p>
+															<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">A Leader in the Pharmaceutical Sector in Turkey</p>				</div>
+														<div class="featured-img">
+															<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/ABDI-IBRAHIM-ILAC-SAN-VE-TIC-AS-1453549673.jpg" style="max-width: 100%;">
+														</div>
+													</a>
+													<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+													<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Cayman_Pharma_s.r.o." target="_blank">
+														<div class="menu-com">
+															<p style="margin-bottom: 0px;">Cayman Pharma s.r.o.</p>
+															<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Europe’s most reliable and versatile source for Prostaglandin APIs</p>				</div>
+														<div class="featured-img">
+															<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/Cayman-Pharma-sro-1461141679.jpg" style="max-width: 100%;">
+														</div>
+													</a>
+													<div style="clear:both"></div>
+												</div>
+												</div>
+										</div>
+										<div style="clear:both"></div>
+										<p style="text-align:center;color:#000;font-size:15px;font-weight:bold;">Click on the name of the company to access their profile and to learn about their products &amp; services</p>
 									 </ul>
 								</li>
-								<li class="dropdown"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Top Drug searches</a><ul class="dropdown-menu"><li><a target="_blank" href="http://www.pharmacompass.com/pharma/ingredients/IMATINIB_MESYLATE">IMATINIB MESYLATE</a></li><li><a target="_blank" href="http://www.pharmacompass.com/pharma/ingredients/GEMCITABINE_HYDROCHLORIDE">GEMCITABINE HYDROCHLORIDE</a></li><li><a target="_blank" href="http://www.pharmacompass.com/pharma/ingredients/Bendamustine_Hydrochloride">Bendamustine Hydrochloride</a></li><li><a target="_blank" href="http://www.pharmacompass.com/pharma/ingredients/Decitabine">Decitabine</a></li><li><a target="_blank" href="http://www.pharmacompass.com/pharma/ingredients/Letrozole">Letrozole</a></li></ul></li><li class="dropdown"><a style="border-right:none !important;" href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Popular Companies</a><ul class="dropdown-menu"><li><a target="_blank" href="http://www.pharmacompass.com/pharma/party/Shilpa_Medicare_Limited">Shilpa Medicare Limited</a></li><li><a target="_blank" href="http://www.pharmacompass.com/pharma/party/Teva_Pharmaceutical_Industries_Ltd.">Teva Pharmaceutical Industries Ltd.</a></li><li><a target="_blank" href="http://www.pharmacompass.com/pharma/party/Alchem_International_Private_Limited">Alchem International Private Limited</a></li><li><a target="_blank" href="http://www.pharmacompass.com/pharma/party/Shandong_Xinhua_Pharmaceutical_Co_Ltd">Shandong Xinhua Pharmaceutical Co Ltd</a></li><li><a target="_blank" href="http://www.pharmacompass.com/pharma/party/Alembic_Limited">Alembic Limited</a></li></ul></li>					
-								<!--$most_drug_shortages = $this->main->get_object_from_query("SELECT extract_name FROM `drug_shortage` where pr > 0 and status = '1' and cid != '' order by pr asc");
-								if(!empty($most_drug_shortages))
-								{
-									echo "<li class='dropdown'>";
-										echo "<a style='border-right:none !important;' href='javascript:void(0);' class='dropdown-toggle' data-toggle='dropdown'>US Drug Shortages</a>";
-											echo "<ul class='dropdown-menu'>";
-											foreach($most_drug_shortages->result() as $mds)
+								<li class="dropdown dropLi" rel="0" page="" style="position: relative;">
+									 <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><span class="icon-star-empty"></span> Contract Services</a>
+									 <ul class="dropdown-menu drug-pos" rel="ddServices" style="min-height:250px;">
+										<div class="featured-center">
+											<div style="color:#16263b;">
+												<p class="market-left-heading">Contract Manufacturers</p>
+											</div>
+											<div style="padding: 0px 10px 10px 10px;font-size: 14px;">
+													<div class="featured-company">
+												<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Isochem_SA" target="_blank">
+													<div class="menu-com">
+														<p style="margin-bottom:0px;">Isochem SA</p>
+														<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Leading Supplier of Fine Chemistry</p>			</div>
+													<div class="featured-img">
+														<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/1435140307_isochem.jpg" style="max-width: 100%;">
+													</div>
+												</a>
+												<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+												<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Biovectra_Inc" target="_blank">
+													<div class="menu-com">
+														<p style="margin-bottom:0px;">Biovectra Inc</p>
+														<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Canadian supplier operating 3 FDA-inspected facilities</p>			</div>
+													<div class="featured-img">
+														<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/-1444046067.jpg" style="max-width: 100%;">
+													</div>
+												</a>
+												<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+												<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Angelini_Pharmaceuticals_ACRAF" target="_blank">
+													<div class="menu-com">
+														<p style="margin-bottom:0px;">Angelini Pharmaceuticals ACRAF</p>
+														<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Contract Manufacturer of GMP Fine Chemicals</p>			</div>
+													<div class="featured-img">
+														<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/Angelini-Pharmaceuticals-ACRAF-1461043875.jpg" style="max-width: 100%;">
+													</div>
+												</a>
+												<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+												<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Custom_Pharma_Services" target="_blank">
+													<div class="menu-com">
+														<p style="margin-bottom:0px;">Custom Pharma Services</p>
+														<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">The go-to-resource for contract development &amp; manufacture of solid dose forms</p>			</div>
+													<div class="featured-img">
+														<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/Custom-Pharma-Services-1458543962.jpg" style="max-width: 100%;">
+													</div>
+												</a>
+												<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+												<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/WellSpring" target="_blank">
+													<div class="menu-com">
+														<p style="margin-bottom:0px;">WellSpring</p>
+														<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Helping pharmaceutical companies with their contract manufacturing</p>			</div>
+													<div class="featured-img">
+														<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/WellSpring-1461645221.jpg" style="max-width: 100%;">
+													</div>
+												</a>
+												<div style="clear:both"></div>
+												</div>
+												</div>
+										</div>
+										<div class="featured-right">
+											<div style="color:#16263b;">
+												<p class="market-left-heading">Service Providers</p>
+											</div>
+											<div style="padding: 0px 10px 10px 10px;font-size: 14px;">
+													<div class="featured-company">
+												<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Akovia_Consulting_SAS" target="_blank">
+													<div class="menu-com">
+														<p style="margin-bottom:0px;">Akovia Consulting SAS</p>
+														<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Pharmaceutical quality consulting company</p>			</div>
+													<div class="featured-img">
+														<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/AKOVIA-CONSULTING-SAS-1457354420.jpg" style="max-width: 100%;">
+													</div>
+												</a>
+													<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+												<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Scorr_Marketing" target="_blank">
+													<div class="menu-com">
+														<p style="margin-bottom:0px;">Scorr Marketing</p>
+														<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Kind of Marketing Partner you’d want to work with</p>			</div>
+													<div class="featured-img">
+														<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/Scorr-Marketing-1457420509.png" style="max-width: 100%;">
+													</div>
+												</a>
+													<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+												<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/Unger_Consulting" target="_blank">
+													<div class="menu-com">
+														<p style="margin-bottom:0px;">Unger Consulting</p>
+														<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Database of all GMP warning letter deficiencies</p>			</div>
+													<div class="featured-img">
+														<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/Unger-Consulting-1457355413.png" style="max-width: 100%;">
+													</div>
+												</a>
+													<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+												<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/ATL_Regulatory_Consulting,_LLC" target="_blank">
+													<div class="menu-com">
+														<p style="margin-bottom:0px;">ATL Regulatory Consulting, LLC</p>
+														<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">USFDA Regulatory Affairs and Compliance Services</p>			</div>
+													<div class="featured-img">
+														<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/ATL-Regulatory-Consulting-LLC-1459419393.jpg" style="max-width: 100%;">
+													</div>
+												</a>
+													<div style="clear:both"></div>
+												</div>
+													<div class="featured-company">
+												<a style="white-space: normal;color:#00aeff !important;" href="http://www.pharmacompass.com/pharma/party/ELC_Group" target="_blank">
+													<div class="menu-com">
+														<p style="margin-bottom:0px;">ELC Group</p>
+														<p style="font-size: 12px;color:#000;margin-bottom:0px;line-height: 16px;">Expedite time-to-market through our services</p>			</div>
+													<div class="featured-img">
+														<img class="imglogo" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/ELC-Group-1463026811.jpg" style="max-width: 100%;">
+													</div>
+												</a>
+													<div style="clear:both"></div>
+												</div>
+												</div>
+										</div>
+
+										<div style="clear:both"></div>
+										<p style="text-align:center;color:#000;font-size:15px;font-weight:bold;">Click on the name of the company to access their profile and to learn about their products &amp; services</p>
+									 </ul>
+								</li>
+																	<li class="dropdown dropLi" rel="0" page="6" style="position: relative;">
+										<a style="border-right:none !important;" href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Events</a>
+										<ul class="dropdown-menu events-pos" rel="ddEvents" style="min-height:250px;">
+										<link rel="stylesheet" href="http://www.pharmacompass.com/jAssets/css/jquery.e-calendar.css" type="text/css">
+										<script src="http://www.pharmacompass.com/jAssets/js/calender/jquery.e-calendar.js" type="text/javascript"></script>
+										<div style="width:270px;float:left;">
+											<div class="events-add">
+												<a href="http://www.excipientfest.com/asia/" target="_blank" rel="nofollow"><p style="text-align:center;"><img src="http://www.pharmacompass.com//jAssets/images/ads250/excipient-fest-asia.jpg"></p></a>
+											</div>
+											<div id="calendar"></div>
+										</div>
+										<div id="ddBody">
+											<div class="upcomingEvents ddmue" rel="June 2016">
+												<div class="upcoming-events" style="width:520px;margin-left: 5px;">
+													<p style="color: #000;padding: 0px 0px 5px;font-weight: bold;font-family: 'Roboto Condensed', sans-serif !important;font-size:20px;margin-bottom: 0px;text-align: center;">Events, Webinars, Conferences &amp; More</p>
+																<div class="events" style="padding:0px;">
+																	<div class="events-left" style="height: 140px;">
+																		<div class="events-inner">
+																			<div class="events-icon">
+																				<img alt="A3P Algerie" src="http://www.pharmacompass.com/jAssets/images/events/Webinar.png">
+																			</div>
+																			<div class="events-text">
+																				<p class="events-title"><a style="color:#00aeff !important;" target="_blank" rel="nofollow" href="http://xtalks.com/pre-clinical-models-of-intestinal-toxicity.ashx">Pre-clinical Models</a></p>
+																				<p class="events-date">10 June, 2016</p>
+																				<p class="events-dis" style="font-size: 13px;">Learn to select the best model and study design to predict or assess GI toxicity</p>
+																				<p class="events-dis" style="font-weight:bold;height:auto;font-size: 13px;">Xtalks Life Science Webinars</p>
+																			</div>
+																			<div style="clear:both"></div>
+																		</div>
+																	</div>
+																	<div class="events-left" style="height: 140px;">
+																		<div class="events-inner">
+																			<div class="events-icon">
+																				<img alt="FDA 483 Observations" src="http://www.pharmacompass.com/jAssets/images/events/workshop-new.png">
+																			</div>
+																			<div class="events-text">
+																				<p class="events-title"><a style="color:#00aeff !important;" target="_blank" rel="nofollow" href="http://en.a3p.org/index.php/bioproduction-supports-conferences-photos/bioproduction-articles/134-evenements/a3p-suisse/%201851-techtime-15-juin-2016-ferring,-oxo,-altran.html">TechTime</a></p>
+																				<p class="events-date">15 June, 2016</p>
+																				<p class="events-dis" style="font-size: 13px;">To simplify the batch record and the implementation of Ebr</p>
+																				<p class="events-dis" style="font-weight:bold;height:auto;font-size: 13px;">A3P Forum Switzerland</p>
+																			</div>
+																			<div style="clear:both"></div>
+																		</div>
+																	</div>
+																	<div class="events-left" style="height: 140px;">
+																		<div class="events-inner">
+																			<div class="events-icon">
+																				<img alt="BioProduction" src="http://www.pharmacompass.com/jAssets/images/events/workshop-new.png">
+																			</div>
+																			<div class="events-text">
+																				<p class="events-title"><a style="color:#00aeff !important;" target="_blank" rel="nofollow" href="http://en.a3p.org/index.php/un-jour-un-labo/%201798-un-jour,-un-labo.html">One Day, One Lab</a></p>
+																				<p class="events-date">16 June, 2016</p>
+																				<p class="events-dis" style="font-size: 13px;">Detection of Mycoplasma and Control of Impurities</p>
+																				<p class="events-dis" style="font-weight:bold;height:auto;font-size: 13px;">A3P Forum France</p>
+																			</div>
+																			<div style="clear:both"></div>
+																		</div>
+																	</div>
+																	<div class="events-left" style="height: 140px;">
+																		<div class="events-inner">
+																			<div class="events-icon">
+																				<img alt="A3P Algerie" src="http://www.pharmacompass.com/jAssets/images/events/Webinar.png">
+																			</div>
+																			<div class="events-text">
+																				<p class="events-title"><a style="color:#00aeff !important;" target="_blank" rel="nofollow" href="http://xtalks.com/clinical-data-patient-identification-to-submission.ashx">New-Gen Clinical Data Suite</a></p>
+																				<p class="events-date">21 June, 2016</p>
+																				<p class="events-dis" style="font-size: 13px;">From Patient Identification to Submission, What is a "Game Changer"?</p>
+																				<p class="events-dis" style="font-weight:bold;height:auto;font-size: 13px;">Xtalks Life Science Webinars</p>
+																			</div>
+																			<div style="clear:both"></div>
+																		</div>
+																	</div>
+																	<div class="events-left" style="height: 140px;">
+																		<div class="events-inner">
+																			<div class="events-icon">
+																				<img alt="FDA 483 Observations" src="http://www.pharmacompass.com/jAssets/images/events/Webinar.png">
+																			</div>
+																			<div class="events-text">
+																				<p class="events-title"><a style="color:#00aeff !important;" target="_blank" rel="nofollow" href="http://xtalks.com/Peptides-in-Alzheimers-Research.ashx">Peptides in Alz Research</a></p>
+																				<p class="events-date">22 June, 2016</p>
+																				<p class="events-dis" style="font-size: 13px;">Learn about amyloid peptides &amp; inhibitors used in Alzheimer’s research</p>
+																				<p class="events-dis" style="font-weight:bold;height:auto;font-size: 13px;">Xtalks Life Science Webinars</p>
+																			</div>
+																			<div style="clear:both"></div>
+																		</div>
+																	</div>
+																	<div class="events-left" style="height: 140px;">
+																		<div class="events-inner">
+																			<div class="events-icon">
+																				<img alt="FDA 483 Observations" src="http://www.pharmacompass.com/jAssets/images/events/Webinar.png">
+																			</div>
+																			<div class="events-text">
+																				<p class="events-title"><a style="color:#00aeff !important;" target="_blank" rel="nofollow" href="http://xtalks.com/Diet-Induced-Obesity-In-Mice.ashx">Diet-induced Obesity in Mice</a></p>
+																				<p class="events-date">23 June, 2016</p>
+																				<p class="events-dis" style="font-size: 13px;">Learn preferred mouse strains while comparing models of metabolic syndrome</p>
+																				<p class="events-dis" style="font-weight:bold;height:auto;font-size: 13px;">Xtalks Life Science Webinars</p>
+																				
+																			</div>
+																			<div style="clear:both"></div>
+																		</div>
+																	</div>
+																</div>
+															<div style="clear:both"></div>
+													<p style="text-align:center;"><a class="events-view" target="_blank" href="http://www.pharmacompass.com/events">VIEW MORE</a></p>
+												</div>	
+											</div>
+										</div>
+										<script type="text/javascript">
+											jQuery.noConflict();
+											jQuery(document).ready(function()
 											{
-												echo "<li><a target='_blank' href=".site_url('pharma/ingredients/'.str_replace(' ','_',$mds->extract_name))." >".$mds->extract_name."</a></li>";
-											}
-										echo "</ul>";								
-									echo "</li>";
-								}
-								?>-->
-							  </ul>
+												jQuery('#calendar').eCalendar(
+												{
+													weekDays: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
+													months: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+													textArrows: {previous: '<', next: '>'},
+													eventTitle: 'Events',
+												});
+											});
+										</script>
+										
+										
+										</ul>
+									</li>
+															  </ul>
 							</div>
 						</nav>
 					</div>
 				</div>
-				<div class="grid1 news-let-width">
-					<nav class="ex-menu" dropdown-animation="scale-up" dropdown-sub-animation="slide-right" style="margin-top: 3px;">
-						<ul class="l1">	
-							<li class="item466 signup-right">
-								<a href="javascript:void(0);" class="subtitle icon-envelope1" style="padding: 0px 12px 0px 8px;"><br><br>Newsletter</a>									
-								<span class="dropdown-spacer"></span>
-								<div class="dropdown cols1 newsletter-left">
-									<div class="column col1" style="width: 296px;">
-										<div class="content">
-											<div class="custom">
-												<form style="margin:0;" action="javascript:void(0);" method="POST">
-													<input name="current_url" value="http://www.pharmacompass.com/privacy-policy" type="hidden">
-													<div class="input-append" style="margin-top:7%;">
-														<span class="add-on" style="height:22px;border-right:none;"><span style="color:#333" class="icon-envelope"></span></span>		
-														<input style="width: 86%;" autocomplete="off" class="subscribe_email" name="subscribe_email" placeholder="Email Address" type="email">
-													</div>
-													<div style="float:left;">
-														<p style="font-size:16px;color:#333;margin-bottom:0px;line-height:1;margin-top:10px">Newsletter<br><span style="font-size: 11px;color:#00aeff;">Sign Up, Stay ahead !</span></p>
-													</div>
-													<div style="margin: 10px 0px;color:#00aeff;float: right;">
-														<button type="button" class="btn btn-primary newsSubscribe">Subscribe</button>
-													</div>
-												</form>									
+				<div class="container con-top">
+					<div class="row news-log">
+						<div class="dropdown" style="width: auto;float: left;">
+							<a class="dropdown-toggle" href="javascript:void(0)" style="color:#CEBFC1;border-right: 1px solid #8dd2fe !important;margin-right: 10px;padding-right: 10px;" id="dropdownMenu0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"> Newsletter <span style="margin-top: 9px;border-top: 4px solid #8dd2fe;" class="caret"></span></a>
+							<ul class="dropdown-menu login-drop" aria-labelledby="dropdownMenu0">
+								<li><a class="news_feed" href="javascript:void(0);">Sign Up</a></li>
+							</ul>
+						</div>
+													<div class="dropdown" style="width: auto;float: left;">
+								<a class="dropdown-toggle" href="javascript:void(0)" style="color:#CEBFC1;" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"> Log in <span style="margin-top: 9px;border-top: 4px solid #8dd2fe;" class="caret"></span></a>
+								<ul class="dropdown-menu login-drop" aria-labelledby="dropdownMenu1" style="left: -106px;">
+									<li><a class="login" href="javascript:void(0);">Access Your Account</a></li>
+									<li><a class="registers" href="javascript:void(0);">Create An Account</a></li>
+								</ul>
+							</div>
+
 											</div>
-										</div>
-									</div>
-								</div>
-							</li>				
-						</ul>
-					</nav>
 				</div>
 			</div>
-		</div>
 	</div>
 </div>
-<div class="popup" id="popup" style="display:none;position:fixed">
-	<div class="cnt223">
-		<img title="cross" src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/logo/cross.png" class="x">
-		<p id="message"></p>	 
+					<script src="http://www.pharmacompass.com/pAssets/js/jquery.peelback.js" type="text/javascript"></script>
+				<script>
+					jQuery.noConflict();
+					jQuery(document).ready(function($)
+					{
+						jQuery('#header').peelback({
+							adImage  : 'http://www.pharmacompass.com/pAssets/image/gmp-ad-new.png',
+							peelImage  : 'http://www.pharmacompass.com/pAssets/image/gmp-image-new.png',
+							clickURL : 'http://www.rephine.com/',
+							smallSize: 82,
+							bigSize: 500,
+							gaTrack  : true,
+							gaLabel  : '#1 Stegosaurus',
+							autoAnimate: true
+						});						  
+						jQuery('#peelback').show()
+						// if(proCom === false)
+						// {
+							// jQuery('#peelback').mouseenter();
+							// setTimeout(function() 
+							// {
+								// jQuery('#peelback').mouseout();
+							// }, 6000);
+						// }
+						jQuery(".nav-button").click(function () 
+						{
+							jQuery(".nav-button,.primary-nav").toggleClass("open");
+						});
+					});
+				</script>				
 	</div>
-</div>
+<script>var site_url = 'http://www.pharmacompass.com/';var current_url = 'http://www.pharmacompass.com/privacy-policy';</script>
 <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-47709092-3', 'auto');ga('send', 'pageview');</script>
 <script src="//static.getclicky.com/js" type="text/javascript"></script> <script type="text/javascript">try{ clicky.init(100838530); }catch(e){}</script> <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100838530ns.gif" /></p></noscript>
 <script src="http://www.pharmacompass.com/pAssets/js/jquery.placeholder.js"></script>
+<script src="http://www.pharmacompass.com/pAssets/js/header.js"></script>									
+<!-- Start Alexa Certify Javascript -->
 <script type="text/javascript">
-jQuery.noConflict();
-// jQuery(document).ready(function() 
-// {
-	// var jQuerywindow = jQuery(window);    
-	// function checkWidth() 
-	// {
-		// var windowsize = jQuerywindow.width();
-		// if (windowsize < 360) 
-		// {
-			// jQuery(window).scroll(function()
-			// {
-				// if(jQuery(window).scrollTop() > 0)
-				// {
-					// jQuery('.headerMob').stop(true,true).slideUp( 1000 );
-					
-				// }
-				// else 
-				// {
-					// jQuery('.headerMob').stop(true,true).slideDown( 1000 );
-				// }    
-			// });
-		// }
-	// }
-	// checkWidth();
-	// jQuery(window).resize(checkWidth);
-// });
-jQuery(document).on('click', '.gc', function () 
-{
-	var category = jQuery(this).attr('category');
-	var name = jQuery(this).attr('name');
-	ga('send', 'event', category, 'click',name);
-});
-var running = false;
-var multiClick = false;
-jQuery(document).ready(function()
-{
-	// var refreshIntervalId;
-	// var str = jQuery('#search').attr('placeholder');
-	// var len  = str.length;	
-	// function scrollString()
-	// {
-		// jQuery('#search').attr('placeholder',str = str.substring(1, len-1) + str.charAt(0));
-	// }
-	// refreshIntervalId  = setInterval(function(){ scrollString(); }, 200);
-	// jQuery('#search').click(function () 
-	// {
-		// clearInterval(refreshIntervalId);
-	// });
-	jQuery( '.dropdown' ).hover(
-		function(){
-			 jQuery(this).children('.sub-menu').stop(true, true).delay(50).slideDown(200);
-		 },
-		 function(){
-			jQuery(this).children('.sub-menu').stop(true, true).delay(50).slideUp(200);
-		 }
-	 ); 
-	 jQuery(':not(#button_hide)').click(function(){
-		 jQuery('#menu_hide').hide();
-	 });
-	function callStart()
-	{
-		setInterval(checkDisplay, 1000);
-	}
-	function checkDisplay()
-	{
-		if(jQuery('#search').val()  == '')
-		{
-			jQuery('#searchDisplay').html('').hide();
-		}
-		else
-		{
-			clearInterval();
-		}
-	}				
-	jQuery('#search').keyup(function(e) 
-	{
-		if (e.keyCode === 13)
-		{
-			
-			validate();
-		}
-		if(jQuery('#search').val().replace(/ /g,'').length > 2)
-		{
-			callStart();
-			var search = jQuery('#search').val();
-			if(search == '')
-			{
-				jQuery('#searchDisplay').html('').hide();
-			}
-			else
-			{
-				jQuery.ajax({
-					url:'http://www.pharmacompass.com/ajax/search',
-					type:'POST',
-					data:{search:search},
-					cache: false,
-					success: function(html)
-					{
-						jQuery('#searchDisplay').html(html).show();											
-					}
-				});
-			}
-		}
-		else
-		{
-			jQuery('#searchDisplay').html('').hide();
-		}
-	});
-	jQuery('input, textarea').placeholder({customClass:'my-placeholder'});
-});					
-function validate() 
-{
-	if(running === false) 
-	{
-		running = true;
-		
-		var valid = true;
-		var search = jQuery.trim(jQuery( '#search' ).val());
-		ga('send', 'event', 'Search', 'inner page search',search); 
-		var count = jQuery.trim(jQuery( '#search' ).val()).length;
-		if(jQuery.trim(search) == '')
-		{
-			valid = false;
-			alert('Search box must contain at least four char');
-		}
-		else if(count < 4)
-		{
-			valid = false;
-			alert('Search box must contain at least four char');
-		}							
-		if(valid)
-		{
-			bannerSearch(search);
-		}
-	}
-}
-jQuery(document).on('click', '#searchDisplay .gc', function () 
-{
-	bannerSearch(jQuery(this).text());
-});
-function bannerSearch(search)
-{
-	window.open("http://www.pharmacompass.com/pharma/ingredients/"+ jQuery.trim(search.replace(/ /g, '_')),'_parent');							
-}
-jQuery(document).on('click', '.cross', function () 
-{
-	jQuery('#searchDisplay').html('').hide();
-	jQuery('#search').val('');
-});
-function removeDups(arr) 
-{
-	var result = [], map = {}, item;
-	for (var i = 0; i < arr.length; i++) 
-	{
-		item = arr[i];
-		if (!map[item]) 
-		{
-			result.push(item);
-			map[item] = true;
-		}
-	}
-	return(result);
-}
-jQuery(function()
-{
-	jQuery('.dropdown').hover(            
-		function() {
-			jQuery('.dropdown-menu', this).stop( true, true ).fadeIn('fast');
-			jQuery(this).toggleClass('open');
-			jQuery('b', this).toggleClass('caret caret-up');                
-		},
-		function() {
-			jQuery('.dropdown-menu', this).stop( true, true ).fadeOut('fast');
-			jQuery(this).toggleClass('open');
-			jQuery('b', this).toggleClass('caret caret-up');                
-		});
-});		
-
-jQuery(document).on('click', '.newsSubscribe', function (event) 
-{
-	jQuery('#my_news_feed').hide();
-	if(jQuery('#overlay').length)
-	{
-		jQuery('#overlay').remove();
-	}
-	if(jQuery('.popup').length)
-	{
-		jQuery('.popup').remove();
-	}
-	if(multiClick)
-	{
-		return false;
-	}
-	multiClick = true; 
-	setTimeout(function ()
-	{
-		multiClick = false; 
-	}, 500);
-	event.preventDefault();
-	var obj = jQuery(this);
-	var email = obj.parents('form:first').find('.subscribe_email').val();	
-	if(jQuery.trim(email) != '')
-	{
-		var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
-		if(!emailReg.test(email)) 
-		{			
-			message('Enter a valid email address');			
-			obj.parents('form:first').find('.subscribe_email').focus();
-		}
-		else
-		{
-			jQuery.ajax(
-			{
-				url:"http://www.pharmacompass.com/ajax/subscribe_email",
-				type:'POST',
-				data:{ email:email},
-				dataType: 'json',
-				success:function(result)
-				{
-					if(jQuery.trim(result.output) != 'null')
-					{
-						obj.parents('form:first').find('.subscribe_email').val('');
-						message(result.output);
-					}
-					else
-					{
-						message('Please try again');
-					}
-				}
-			});
-		}
-	}
-	else
-	{
-		message('Enter a valid email address');
-		jQuery('#mod-finder-searchword').focus();				
-	}
-});
-
-function message(msg)
-{
-	if(jQuery('#overlay').length)
-	{
-		jQuery('#overlay').remove();
-	}
-	if(jQuery('.popup').length)
-	{
-		jQuery('.popup').remove();
-	}
-	jQuery('#message').html(msg);
-	var overlay = jQuery("<div id='overlay'></div>");
-	overlay.show();
-	overlay.appendTo(document.body);
-	var left = (jQuery(window).width()/2)-(jQuery('#popup').width()/2);
-	var top = (jQuery(window).height()/2)-(jQuery('#popup').height()/2);	
-	jQuery('#popup').css('left', left);
-	jQuery('#popup').css('top', top);		
-	jQuery('#popup').show();
-	jQuery('.x').click(function () 
-	{
-		jQuery('#popup').hide();
-		overlay.appendTo(document.body).remove();
-		return false;
-	});
-}
-jQuery(document).on("click",".huti",function(event)
-{
-	if(jQuery('#overlay').length)
-	{
-		jQuery('#overlay').remove();
-	}
-	if(jQuery('.popup').length)
-	{
-		jQuery('.popup').remove();
-	}
-	if(multiClick)
-	{
-		return false;
-	}
-	multiClick = true; 
-	setTimeout(function ()
-	{
-		multiClick = false; 
-	}, 500);
-	event.preventDefault();
-	var overlay = jQuery('<div id="overlay"></div>');
-	overlay.appendTo(document.body);
-	jQuery.ajax(
-	{
-		url:"http://www.pharmacompass.com/ajax/page",
-		type:'POST',
-		data:{include:true,popup:true,view:'feedback'},
-		cache: false,
-		success: function(result)
-		{
-			overlay.show();
-			jQuery('body').append(result);
-			jQuery('#feedback_compose').find('#current_url').val("http://www.pharmacompass.com/privacy-policy");
-			clearconsole();
-		}
-	});
-});
-jQuery(document).on("click",".composePhisper",function(event)
-{
-	if(jQuery('#overlay').length)
-	{
-		jQuery('#overlay').remove();
-	}
-	if(jQuery('.popup').length)
-	{
-		jQuery('.popup').remove();
-	}
-	if(multiClick)
-	{
-		return false;
-	}
-	multiClick = true; 
-	setTimeout(function ()
-	{
-		multiClick = false; 
-	}, 500);
-	event.preventDefault();
-	var overlay = jQuery('<div id="overlay"></div>');
-	overlay.appendTo(document.body);
-	jQuery.ajax(
-	{
-		url:"http://www.pharmacompass.com/ajax/page",
-		type:'POST',		
-		data:{include:true,popup:true,view:'phisper_compose'},
-		cache: false,
-		success: function(result)
-		{
-			overlay.show();
-			jQuery('body').append(result);
-			jQuery('#phisper_compose').find('#current_url').val("http://www.pharmacompass.com/privacy-policy");
-			jQuery('#phisper_compose').find('#description').focus();
-			clearconsole();
-		}
-	});
-});
-jQuery(document).on("click",".registers",function(event)
-{
-	if(jQuery('#overlay').length)
-	{
-		jQuery('#overlay').remove();
-	}
-	if(jQuery('.popup').length)
-	{
-		jQuery('.popup').remove();
-	}
-	if(multiClick)
-	{
-		return false;
-	}
-	multiClick = true; 
-	setTimeout(function ()
-	{
-		multiClick = false; 
-	}, 500);
-	event.preventDefault();
-	var overlay = jQuery('<div id="overlay"></div>');
-	overlay.appendTo(document.body);
-	jQuery.ajax(
-	{
-		url:"http://www.pharmacompass.com/page",
-		type:'POST',		
-		data:{include:true,popup:true,view:'register'},
-		cache: false,
-		success: function(result)
-		{
-			overlay.show();
-			jQuery('body').append(result);
-			jQuery('#register').find('#current_url').val("http://www.pharmacompass.com/privacy-policy");
-			clearconsole();
-		}
-	});
-});
-jQuery(document).on("click",".login",function(event)
-{
-	if(jQuery('#overlay').length)
-	{
-		jQuery('#overlay').remove();
-	}
-	if(jQuery('.popup').length)
-	{
-		jQuery('.popup').remove();
-	}
-	if(multiClick)
-	{
-		return false;
-	}
-	multiClick = true; 
-	setTimeout(function ()
-	{
-		multiClick = false; 
-	}, 500);
-	event.preventDefault();
-	var overlay = jQuery('<div id="overlay"></div>');
-	overlay.appendTo(document.body);
-	jQuery.ajax(
-	{
-		url:"http://www.pharmacompass.com/page",
-		type:'POST',		
-		data:{include:true,popup:true,view:'login'},
-		cache: false,
-		success: function(result)
-		{
-			overlay.show();
-			jQuery('body').append(result);
-			jQuery('#login').find('#current_url').val("http://www.pharmacompass.com/privacy-policy");
-			clearconsole();
-		}
-	});
-});
-jQuery(document).on("click",".exhibitor",function(event)
-{
-	if(jQuery('#overlay').length)
-	{
-		jQuery('#overlay').remove();
-	}
-	if(jQuery('.popup').length)
-	{
-		jQuery('.popup').remove();
-	}
-	if(multiClick)
-	{
-		return false;
-	}
-	multiClick = true; 
-	setTimeout(function ()
-	{
-		multiClick = false; 
-	}, 500);
-	event.preventDefault();
-	var overlay = jQuery('<div id="overlay"></div>');
-	overlay.appendTo(document.body);
-	jQuery.ajax(
-	{
-		url:"http://www.pharmacompass.com/page",
-		type:'POST',		
-		data:{include:true,popup:true,view:'exhibitor'},
-		cache: false,
-		success: function(result)
-		{
-			overlay.show();
-			jQuery('body').append(result);
-			jQuery('#exhibitor').find('#current_url').val("http://www.pharmacompass.com/privacy-policy");
-			clearconsole();
-		}
-	});
-});
-function clearconsole()
-{
-	console.log(window.console);
-	if(window.console || window.console.firebug) 
-	{
-		console.clear();
-	}
-}
-</script>			</header>			  
+_atrk_opts = { atrk_acct:"NFv3n1a4KM10mh", domain:"pharmacompass.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=NFv3n1a4KM10mh" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->			</header>			  
 			<div class="row top-margin">
 				<section role="main" class="grid9 offset0 news-left ">
 					<section id="component" role="article" class="">
@@ -817,1112 +875,231 @@ function clearconsole()
 			<h2 class="title M-R-Title" style="background:#560099;"><span class="icon-book"></span><span>Most</span> Read</h2>							
 		</div>
 		<div id="mostRead" style="overflow:hidden;">
-		<div class="content newsticker-jcarousellite">							
-			<ul class="mostread">
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Serious GMP Problems uncovered at Lupin (ANVISA) &amp; Zydus Cadila (USFDA) " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/serious-gmp-problems-uncovered-at-lupin-anvisa-zydus-cadila-usfda" title="Serious GMP Problems uncovered at Lupin (ANVISA) &amp; Zydus Cadila (USFDA) "><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1432807680_5793059580_07a2fc072a_z.jpg" title="Serious GMP Problems uncovered at Lupin (ANVISA) &amp; Zydus Cadila (USFDA) "></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Serious GMP Problems uncovered at Lupin (ANVISA) &amp; Zydus Cadila (USFDA) " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/serious-gmp-problems-uncovered-at-lupin-anvisa-zydus-cadila-usfda" title="Serious GMP Problems uncovered at Lupin (ANVISA) &amp; Zydus Cadila (USFDA) ">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Serious GMP Problems uncovered at Lupin (ANVISA) &amp; Zydus Cadila (USFDA) 										</strong>
-									</h3>
-								</a>
+			<a href="javascript:void(0);" class="prev" style="position: absolute;z-index: 9999;width:90%;text-align:center;top: 61px;"><span class="icon-chevron-up" style="border: 2px solid #FFF;border-radius: 50%;padding: 3px;"></span></a>
+			<div class="content newsticker-jcarousellite">							
+				<ul class="mostread">
+											<li>
+							<div class="image" style="height:150px;overflow:hidden;">
+								<a class="gc" category="Most Read" name="Top drugs by sales revenue in 2015: Who sold the biggest blockbuster drugs? " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/top-drugs-by-sales-revenue-in-2015-who-sold-the-biggest-blockbuster-drugs" title="Top drugs by sales revenue in 2015: Who sold the biggest blockbuster drugs? "><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Top-drugs-by-sales-revenue-in-2015-Who-sold-the-biggest-blockbuster-drugs-1457580958.jpg" title="Top drugs by sales revenue in 2015: Who sold the biggest blockbuster drugs? "></a>
+							</div>	
+							<div class="radio-news">
+								<div>
+									<a class="gc" category="Most Read" name="Top drugs by sales revenue in 2015: Who sold the biggest blockbuster drugs? " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/top-drugs-by-sales-revenue-in-2015-who-sold-the-biggest-blockbuster-drugs" title="Top drugs by sales revenue in 2015: Who sold the biggest blockbuster drugs? ">
+										<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
+											<strong>
+												Top drugs by sales revenue in 2015: Who sold the biggest blockbuster drugs? 											</strong>
+										</h3>
+									</a>
+								</div>
+								<div style="clear:both"></div>
+								<div style="width:100%;">
+									<div class="sub_news" style="width:100%;">														
+										<p style="font-size: 13px;line-height: 1.6;min-height:72px;">The year 2015 has gone down
+in history as a record year for mergers and acquisitions in the pharmace...</p>
+									</div>
+								</div>							
 							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">The Indian
+						</li>
+											<li>
+							<div class="image" style="height:150px;overflow:hidden;">
+								<a class="gc" category="Most Read" name="Serious GMP Problems uncovered at Lupin (ANVISA) &amp; Zydus Cadila (USFDA) " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/serious-gmp-problems-uncovered-at-lupin-anvisa-zydus-cadila-usfda" title="Serious GMP Problems uncovered at Lupin (ANVISA) &amp; Zydus Cadila (USFDA) "><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Serious-GMP-Problems-uncovered-at-Lupin-ANVISA-Zydus-Cadila-USFDA-1444640766.jpg" title="Serious GMP Problems uncovered at Lupin (ANVISA) &amp; Zydus Cadila (USFDA) "></a>
+							</div>	
+							<div class="radio-news">
+								<div>
+									<a class="gc" category="Most Read" name="Serious GMP Problems uncovered at Lupin (ANVISA) &amp; Zydus Cadila (USFDA) " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/serious-gmp-problems-uncovered-at-lupin-anvisa-zydus-cadila-usfda" title="Serious GMP Problems uncovered at Lupin (ANVISA) &amp; Zydus Cadila (USFDA) ">
+										<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
+											<strong>
+												Serious GMP Problems uncovered at Lupin (ANVISA) &amp; Zydus Cadila (USFDA) 											</strong>
+										</h3>
+									</a>
+								</div>
+								<div style="clear:both"></div>
+								<div style="width:100%;">
+									<div class="sub_news" style="width:100%;">														
+										<p style="font-size: 13px;line-height: 1.6;min-height:72px;">The Indian
 pharmaceutical industry cannot seem to shake off its difficult performance trend during i...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Dr. Reddy’s largest API facility maybe the next to get banned from exporting to the United States" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/dr-reddy-s-largest-api-facility-maybe-the-next-to-get-banned-from-exporting-to-the-united-states" title="Dr. Reddy’s largest API facility maybe the next to get banned from exporting to the United States"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1427717703_Dr_14624394123_fd27fdc28b_z_copy.jpg" title="Dr. Reddy’s largest API facility maybe the next to get banned from exporting to the United States"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Dr. Reddy’s largest API facility maybe the next to get banned from exporting to the United States" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/dr-reddy-s-largest-api-facility-maybe-the-next-to-get-banned-from-exporting-to-the-united-states" title="Dr. Reddy’s largest API facility maybe the next to get banned from exporting to the United States">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Dr. Reddy’s largest API facility maybe the next to get banned from exporting to the United States										</strong>
-									</h3>
-								</a>
+									</div>
+								</div>							
 							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Dr. Reddy’s largest active pharmaceutical ingredient
-(API) plant in Srikakulam (Andhra Pradesh...</p>
+						</li>
+											<li>
+							<div class="image" style="height:150px;overflow:hidden;">
+								<a class="gc" category="Most Read" name="Who has the biggest one? Sales of the top pharma products by revenue." style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/who-has-the-biggest-one-sales-of-the-top-pharma-products-by-revenue" title="Who has the biggest one? Sales of the top pharma products by revenue."><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1429784368_Who_has_the_9384642907_acfbb28d26_z.jpg" title="Who has the biggest one? Sales of the top pharma products by revenue."></a>
+							</div>	
+							<div class="radio-news">
+								<div>
+									<a class="gc" category="Most Read" name="Who has the biggest one? Sales of the top pharma products by revenue." style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/who-has-the-biggest-one-sales-of-the-top-pharma-products-by-revenue" title="Who has the biggest one? Sales of the top pharma products by revenue.">
+										<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
+											<strong>
+												Who has the biggest one? Sales of the top pharma products by revenue.											</strong>
+										</h3>
+									</a>
 								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Are assessments of foreign regulatory (USFDA &amp; EDQM) inspections fair?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/are-assessments-of-foreign-regulatory-usfda-edqm-inspections-fair" title="Are assessments of foreign regulatory (USFDA &amp; EDQM) inspections fair?"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1428583372_5561111941_4135799458_z.jpg" title="Are assessments of foreign regulatory (USFDA &amp; EDQM) inspections fair?"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Are assessments of foreign regulatory (USFDA &amp; EDQM) inspections fair?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/are-assessments-of-foreign-regulatory-usfda-edqm-inspections-fair" title="Are assessments of foreign regulatory (USFDA &amp; EDQM) inspections fair?">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Are assessments of foreign regulatory (USFDA &amp; EDQM) inspections fair?										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Youll be surprised with our findings.&nbsp;
-In which parts of the world, can a company
-whose manufac...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Merck vs Merck: A ‘Mercky’ tale" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/merck-vs-merck-a-mercky-tale" title="Merck vs Merck: A ‘Mercky’ tale"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1431435351_Merck_vs_Merck_2372269122_0e846c8dcd_z.jpg" title="Merck vs Merck: A ‘Mercky’ tale"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Merck vs Merck: A ‘Mercky’ tale" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/merck-vs-merck-a-mercky-tale" title="Merck vs Merck: A ‘Mercky’ tale">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Merck vs Merck: A ‘Mercky’ tale										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">It doesn’t help that the company, which calls
-itself Merck in the United States isn’t al...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Why Mylan thinks Teva`s shares are “toilet paper”?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/why-mylan-thinks-teva-s-shares-are-toilet-paper" title="Why Mylan thinks Teva`s shares are “toilet paper”?"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1430376005_Teva_Mylan_3090383674_57184eb550_o.jpg" title="Why Mylan thinks Teva`s shares are “toilet paper”?"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Why Mylan thinks Teva`s shares are “toilet paper”?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/why-mylan-thinks-teva-s-shares-are-toilet-paper" title="Why Mylan thinks Teva`s shares are “toilet paper”?">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Why Mylan thinks Teva`s shares are “toilet paper”?										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">In case you haven’t had time to follow the&nbsp;Mylan-Teva, Perrigo-Mylan saga of
-the past few...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Who has the biggest one? Sales of the top pharma products by revenue." style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/who-has-the-biggest-one-sales-of-the-top-pharma-products-by-revenue" title="Who has the biggest one? Sales of the top pharma products by revenue."><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1429784368_Who_has_the_9384642907_acfbb28d26_z.jpg" title="Who has the biggest one? Sales of the top pharma products by revenue."></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Who has the biggest one? Sales of the top pharma products by revenue." style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/who-has-the-biggest-one-sales-of-the-top-pharma-products-by-revenue" title="Who has the biggest one? Sales of the top pharma products by revenue.">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Who has the biggest one? Sales of the top pharma products by revenue.										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">We always knew math was fuzzy, but never imagined addition could get so
+								<div style="clear:both"></div>
+								<div style="width:100%;">
+									<div class="sub_news" style="width:100%;">														
+										<p style="font-size: 13px;line-height: 1.6;min-height:72px;">We always knew math was fuzzy, but never imagined addition could get so
 complicated.&nbsp; 
 A recent...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Quality Alerts At Lupin, Hospira, Emcure And Uquifa" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/quality-alerts-at-lupin-hospira-emcure-and-uquifa" title="Quality Alerts At Lupin, Hospira, Emcure And Uquifa"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Quality_alerts_4831501753_2d14101d26_z.jpg" title="Quality Alerts At Lupin, Hospira, Emcure And Uquifa"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Quality Alerts At Lupin, Hospira, Emcure And Uquifa" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/quality-alerts-at-lupin-hospira-emcure-and-uquifa" title="Quality Alerts At Lupin, Hospira, Emcure And Uquifa">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Quality Alerts At Lupin, Hospira, Emcure And Uquifa										</strong>
-									</h3>
-								</a>
+									</div>
+								</div>							
 							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Quality concerns at pharmaceutical operations of Lupin, Emcure, Uquifa Mexico &amp; Hospira have bee...</p>
+						</li>
+											<li>
+							<div class="image" style="height:150px;overflow:hidden;">
+								<a class="gc" category="Most Read" name="Pfizer, Novartis and GSK’s Chinese and Indian operations in compliance trouble" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/pfizer-novartis-and-gsk-s-chinese-and-indian-operations-in-compliance-trouble" title="Pfizer, Novartis and GSK’s Chinese and Indian operations in compliance trouble"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Pfizer-Novartis-and-GSKs-Chinese-and-Indian-operations-in-compliance-trouble-1446699534.jpg" title="Pfizer, Novartis and GSK’s Chinese and Indian operations in compliance trouble"></a>
+							</div>	
+							<div class="radio-news">
+								<div>
+									<a class="gc" category="Most Read" name="Pfizer, Novartis and GSK’s Chinese and Indian operations in compliance trouble" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/pfizer-novartis-and-gsk-s-chinese-and-indian-operations-in-compliance-trouble" title="Pfizer, Novartis and GSK’s Chinese and Indian operations in compliance trouble">
+										<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
+											<strong>
+												Pfizer, Novartis and GSK’s Chinese and Indian operations in compliance trouble											</strong>
+										</h3>
+									</a>
 								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Novartis’ plant shut down creates urgency to find alternatives to Chinese APIs" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/novartis-plant-shut-down-creates-urgency-to-find-alternatives-to-chinese-apis" title="Novartis’ plant shut down creates urgency to find alternatives to Chinese APIs"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Novartis-plant-shut-down-creates-urgency-to-find-alternative-to-Chinese-APIs-1438172912.jpg" title="Novartis’ plant shut down creates urgency to find alternatives to Chinese APIs"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Novartis’ plant shut down creates urgency to find alternatives to Chinese APIs" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/novartis-plant-shut-down-creates-urgency-to-find-alternatives-to-chinese-apis" title="Novartis’ plant shut down creates urgency to find alternatives to Chinese APIs">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Novartis’ plant shut down creates urgency to find alternatives to Chinese APIs										</strong>
-									</h3>
-								</a>
+								<div style="clear:both"></div>
+								<div style="width:100%;">
+									<div class="sub_news" style="width:100%;">														
+										<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Last week, a fresh set of compliance concerns emerged out of India and China. Previously, we have se...</p>
+									</div>
+								</div>							
 							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">With Novartis shutting two plants in Germany and one in India by 2016-end, the global reliance on Ch...</p>
+						</li>
+											<li>
+							<div class="image" style="height:150px;overflow:hidden;">
+								<a class="gc" category="Most Read" name="Dr. Reddy’s largest API facility maybe the next to get banned from exporting to the United States" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/dr-reddy-s-largest-api-facility-maybe-the-next-to-get-banned-from-exporting-to-the-united-states" title="Dr. Reddy’s largest API facility maybe the next to get banned from exporting to the United States"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1427717703_Dr_14624394123_fd27fdc28b_z_copy.jpg" title="Dr. Reddy’s largest API facility maybe the next to get banned from exporting to the United States"></a>
+							</div>	
+							<div class="radio-news">
+								<div>
+									<a class="gc" category="Most Read" name="Dr. Reddy’s largest API facility maybe the next to get banned from exporting to the United States" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/dr-reddy-s-largest-api-facility-maybe-the-next-to-get-banned-from-exporting-to-the-united-states" title="Dr. Reddy’s largest API facility maybe the next to get banned from exporting to the United States">
+										<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
+											<strong>
+												Dr. Reddy’s largest API facility maybe the next to get banned from exporting to the United States											</strong>
+										</h3>
+									</a>
 								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Sun pharma has a new global quality head, why?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/sun-pharma-has-a-new-global-quality-head-what-lies-ahead" title="Sun pharma has a new global quality head, why?"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1430984482_Sun_Pharma_has_a_new_Global_Quality_Head_12505752913_f973865feb_z.jpg" title="Sun pharma has a new global quality head, why?"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Sun pharma has a new global quality head, why?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/sun-pharma-has-a-new-global-quality-head-what-lies-ahead" title="Sun pharma has a new global quality head, why?">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Sun pharma has a new global quality head, why?										</strong>
-									</h3>
-								</a>
+								<div style="clear:both"></div>
+								<div style="width:100%;">
+									<div class="sub_news" style="width:100%;">														
+										<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Dr. Reddy’s largest active pharmaceutical ingredient
+(API) plant in Srikakulam (Andhra Pradesh...</p>
+									</div>
+								</div>							
 							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Six weeks ago, Sun Pharma finally closed the multi-billion dollar Ranbaxy
-acquisition and inherited ...</p>
+						</li>
+											<li>
+							<div class="image" style="height:150px;overflow:hidden;">
+								<a class="gc" category="Most Read" name="A 21st Century Cure for generics via the Big Data revolution" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/a-21st-century-cure-for-generics-via-the-big-data-revolution" title="A 21st Century Cure for generics via the Big Data revolution"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/A-21st-Century-Cure-for-generics-via-the-Big-Data-revolution-1438852936.jpg" title="A 21st Century Cure for generics via the Big Data revolution"></a>
+							</div>	
+							<div class="radio-news">
+								<div>
+									<a class="gc" category="Most Read" name="A 21st Century Cure for generics via the Big Data revolution" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/a-21st-century-cure-for-generics-via-the-big-data-revolution" title="A 21st Century Cure for generics via the Big Data revolution">
+										<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
+											<strong>
+												A 21st Century Cure for generics via the Big Data revolution											</strong>
+										</h3>
+									</a>
 								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="USFDA observations at Dr. Reddy’s Srikakulam API plant " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/usfda-observations-at-dr-reddy-s-srikakulam-api-plant" title="USFDA observations at Dr. Reddy’s Srikakulam API plant "><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Dr_9obs_7617496064_45e8c4691b_z_copy_2.jpg" title="USFDA observations at Dr. Reddy’s Srikakulam API plant "></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="USFDA observations at Dr. Reddy’s Srikakulam API plant " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/usfda-observations-at-dr-reddy-s-srikakulam-api-plant" title="USFDA observations at Dr. Reddy’s Srikakulam API plant ">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											USFDA observations at Dr. Reddy’s Srikakulam API plant 										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Update 2015 May 28:
-&nbsp;Click here to see the orignal form 483 issued to Dr Reddy'sObservation 1La...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="The Next Generic Attack: Brilinta® (Ticagrelor), Xarelto® (Rivaroxaban), Tradjenta® (Linagliptin) and… " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/the-next-generic-attack-brilinta-ticagrelor-xarelto-rivaroxaban-tradjenta-linagliptin-and" title="The Next Generic Attack: Brilinta® (Ticagrelor), Xarelto® (Rivaroxaban), Tradjenta® (Linagliptin) and… "><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1431436027_The_Next_6162448737_4d6dc7.jpg" title="The Next Generic Attack: Brilinta® (Ticagrelor), Xarelto® (Rivaroxaban), Tradjenta® (Linagliptin) and… "></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="The Next Generic Attack: Brilinta® (Ticagrelor), Xarelto® (Rivaroxaban), Tradjenta® (Linagliptin) and… " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/the-next-generic-attack-brilinta-ticagrelor-xarelto-rivaroxaban-tradjenta-linagliptin-and" title="The Next Generic Attack: Brilinta® (Ticagrelor), Xarelto® (Rivaroxaban), Tradjenta® (Linagliptin) and… ">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											The Next Generic Attack: Brilinta® (Ticagrelor), Xarelto® (Rivaroxaban), Tradjenta® (Linagliptin) and… 										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">With almost 30,000 Drug Master Files (DMFs) submitted to the
-FDA, reviewing the filings of only the ...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Haunted: Teva’s $1.2 billion ‘pay-for-delay’ penalty; which companies will get hit next?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/haunted-teva-s-1-2-billion-pay-for-delay-penalty-which-companies-will-get-hit-next" title="Haunted: Teva’s $1.2 billion ‘pay-for-delay’ penalty; which companies will get hit next?"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1433399536_Haunted_10665288243_908b0312f6_z_copy.jpg" title="Haunted: Teva’s $1.2 billion ‘pay-for-delay’ penalty; which companies will get hit next?"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Haunted: Teva’s $1.2 billion ‘pay-for-delay’ penalty; which companies will get hit next?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/haunted-teva-s-1-2-billion-pay-for-delay-penalty-which-companies-will-get-hit-next" title="Haunted: Teva’s $1.2 billion ‘pay-for-delay’ penalty; which companies will get hit next?">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Haunted: Teva’s $1.2 billion ‘pay-for-delay’ penalty; which companies will get hit next?										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Teva Pharmaceutical Industries, Ltd., which acquired Cephalon in 2012, will make a total payment of ...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Where companies who fail EDQM inspections go wrong" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/where-companies-who-fail-edqm-inspections-go-wrong" title="Where companies who fail EDQM inspections go wrong"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1430985232_Where_companies_who_fail_EDQM_inspections_go_wrong_8226451812_88007f08df_z.jpg" title="Where companies who fail EDQM inspections go wrong"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Where companies who fail EDQM inspections go wrong" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/where-companies-who-fail-edqm-inspections-go-wrong" title="Where companies who fail EDQM inspections go wrong">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Where companies who fail EDQM inspections go wrong										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">As outcomes of regulatory inspections are variable and uncertain, we share 5 key takeaways, from our...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Did a 29 year-old show GlaxoSmithKline that it made a billion dollar mistake?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/did-a-29-year-old-show-glaxosmithkline-that-it-made-a-billion-dollar-mistake" title="Did a 29 year-old show GlaxoSmithKline that it made a billion dollar mistake?"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1435223053_29_years_old_4382604095_68b7723982_z_copy_360-1_360-1.jpg" title="Did a 29 year-old show GlaxoSmithKline that it made a billion dollar mistake?"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Did a 29 year-old show GlaxoSmithKline that it made a billion dollar mistake?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/did-a-29-year-old-show-glaxosmithkline-that-it-made-a-billion-dollar-mistake" title="Did a 29 year-old show GlaxoSmithKline that it made a billion dollar mistake?">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Did a 29 year-old show GlaxoSmithKline that it made a billion dollar mistake?										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">
-29 year-old healthcare investor, Vivek Ramaswamy, bought an old Alzheimer's drug that GlaxoSmithKli...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="1000 year old remedy maybe a solution to a $100 trillion pharmaceutical problem" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/1000-year-old-remedy-maybe-a-solution-to-a-100-trillion-pharmaceutical-problem" title="1000 year old remedy maybe a solution to a $100 trillion pharmaceutical problem"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1429179216_1429178007_Screen_Shot_2015-04-16_at_3.19.11_pm.png" title="1000 year old remedy maybe a solution to a $100 trillion pharmaceutical problem"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="1000 year old remedy maybe a solution to a $100 trillion pharmaceutical problem" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/1000-year-old-remedy-maybe-a-solution-to-a-100-trillion-pharmaceutical-problem" title="1000 year old remedy maybe a solution to a $100 trillion pharmaceutical problem">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											1000 year old remedy maybe a solution to a $100 trillion pharmaceutical problem										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Researchers at the University of Nottingham’s Centre for Biomolecular Sciences&nbsp;have&nbsp;...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Fondaparinux –An Opportunity Worth Developing" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/fondaparinux-an-opportunity-worth-developing" title="Fondaparinux –An Opportunity Worth Developing"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Fondaparinus_2340150187_49e1e1be01_z.jpg" title="Fondaparinux –An Opportunity Worth Developing"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Fondaparinux –An Opportunity Worth Developing" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/fondaparinux-an-opportunity-worth-developing" title="Fondaparinux –An Opportunity Worth Developing">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Fondaparinux –An Opportunity Worth Developing										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;"> A recent study published in the Journal of the American Medical Association (JAMA) showed that pati...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="A prescription for mobile pharma apps!" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/a-prescription-for-mobile-pharma-apps" title="A prescription for mobile pharma apps!"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/A-prescription-for-mobile-pharma-apps-1435836044.jpg" title="A prescription for mobile pharma apps!"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="A prescription for mobile pharma apps!" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/a-prescription-for-mobile-pharma-apps" title="A prescription for mobile pharma apps!">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											A prescription for mobile pharma apps!										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">&nbsp;The pharmaceutical industry, which spends more
-on marketing than research, has a dismal track ...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Counterfeit drugs: Toyota’s highest ranking female employee arrested; it’s time to understand!" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/counterfeit-drugs-toyota-s-highest-ranking-female-employee-arrested-it-s-time-to-understand" title="Counterfeit drugs: Toyota’s highest ranking female employee arrested; it’s time to understand!"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Counterfeit-drugs-Toyotas-highest-ranking-female-employee-arrested-its-time-to-understand-1435833578.jpg" title="Counterfeit drugs: Toyota’s highest ranking female employee arrested; it’s time to understand!"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Counterfeit drugs: Toyota’s highest ranking female employee arrested; it’s time to understand!" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/counterfeit-drugs-toyota-s-highest-ranking-female-employee-arrested-it-s-time-to-understand" title="Counterfeit drugs: Toyota’s highest ranking female employee arrested; it’s time to understand!">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Counterfeit drugs: Toyota’s highest ranking female employee arrested; it’s time to understand!										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">
-Yesterday, on July 1, 2015, the Drug Supply
-Chain Security Act (or Drug Quality
-and Security Act) b...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Is $6.49 billion making doctors change your prescription?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/is-6-49-billion-making-doctors-change-your-prescription" title="Is $6.49 billion making doctors change your prescription?"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Is-649-billion-making-doctors-change-your-prescription-1436434152.png" title="Is $6.49 billion making doctors change your prescription?"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Is $6.49 billion making doctors change your prescription?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/is-6-49-billion-making-doctors-change-your-prescription" title="Is $6.49 billion making doctors change your prescription?">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Is $6.49 billion making doctors change your prescription?										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Yes, it’s true, last year pharmaceutical companies made payments to doctors; in the United Sta...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="The role of culture in GMP Compliance" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/the-role-of-culture-in-gmp-compliance" title="The role of culture in GMP Compliance"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1434614056_4598527150_2e7176868f_m.jpg" title="The role of culture in GMP Compliance"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="The role of culture in GMP Compliance" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/the-role-of-culture-in-gmp-compliance" title="The role of culture in GMP Compliance">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											The role of culture in GMP Compliance										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">
-Two manufacturers of active pharmaceutical
-ingredients (API), one in Asia and the other in Europe, ...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Teva and Otsuka’s Multi-Billion dollar plan when blockbusters turn Generic: Deuterium Chemistry" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/teva-and-otsuka-s-multi-billion-dollar-plan-when-blockbusters-turn-generic-deuterium-chemistry" title="Teva and Otsuka’s Multi-Billion dollar plan when blockbusters turn Generic: Deuterium Chemistry"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1433412851_524368209_a85e615f8e_m.jpg" title="Teva and Otsuka’s Multi-Billion dollar plan when blockbusters turn Generic: Deuterium Chemistry"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Teva and Otsuka’s Multi-Billion dollar plan when blockbusters turn Generic: Deuterium Chemistry" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/teva-and-otsuka-s-multi-billion-dollar-plan-when-blockbusters-turn-generic-deuterium-chemistry" title="Teva and Otsuka’s Multi-Billion dollar plan when blockbusters turn Generic: Deuterium Chemistry">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Teva and Otsuka’s Multi-Billion dollar plan when blockbusters turn Generic: Deuterium Chemistry										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">
-Two blockbusters,
-Otsuka’s
-Abilify® (aripiprazole)
-and Teva’s
-Copaxone® (glatir...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Wanted: OPPORTUNITIES IN THE DRUG SHORTAGE LIST - APIs urgently needed in US and Canada" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/wanted-opportunities-in-the-drug-shortage-list-apis-urgently-needed-in-us-and-canada" title="Wanted: OPPORTUNITIES IN THE DRUG SHORTAGE LIST - APIs urgently needed in US and Canada"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1428061809_Opportunities_6784948610_2acc27552a_z_copy_2.jpg" title="Wanted: OPPORTUNITIES IN THE DRUG SHORTAGE LIST - APIs urgently needed in US and Canada"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Wanted: OPPORTUNITIES IN THE DRUG SHORTAGE LIST - APIs urgently needed in US and Canada" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/wanted-opportunities-in-the-drug-shortage-list-apis-urgently-needed-in-us-and-canada" title="Wanted: OPPORTUNITIES IN THE DRUG SHORTAGE LIST - APIs urgently needed in US and Canada">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Wanted: OPPORTUNITIES IN THE DRUG SHORTAGE LIST - APIs urgently needed in US and Canada										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Wouldnt it be wonderful if the products that are manufactured, have such great demand that, they fly...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Plan an African safari to discover the world’s fastest growing pharmaceutical opportunity" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/plan-an-african-safari-to-discover-the-world-s-fastest-growing-pharmaceutical-opportunity" title="Plan an African safari to discover the world’s fastest growing pharmaceutical opportunity"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1434613375_16447847592_638876cf97_m.jpg" title="Plan an African safari to discover the world’s fastest growing pharmaceutical opportunity"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Plan an African safari to discover the world’s fastest growing pharmaceutical opportunity" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/plan-an-african-safari-to-discover-the-world-s-fastest-growing-pharmaceutical-opportunity" title="Plan an African safari to discover the world’s fastest growing pharmaceutical opportunity">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Plan an African safari to discover the world’s fastest growing pharmaceutical opportunity										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">
-Africa represents the last geographic frontier where high growth is still achievable. Over the past...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Emcure’s Import Alert: Is there a way of knowing who will be next? " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/emcure-s-import-alert-is-there-a-way-of-knowing-who-will-be-next" title="Emcure’s Import Alert: Is there a way of knowing who will be next? "><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Emcures-Import-Alert-Is-there-a-way-of-knowing-who-will-be-next-1437027578.jpg" title="Emcure’s Import Alert: Is there a way of knowing who will be next? "></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Emcure’s Import Alert: Is there a way of knowing who will be next? " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/emcure-s-import-alert-is-there-a-way-of-knowing-who-will-be-next" title="Emcure’s Import Alert: Is there a way of knowing who will be next? ">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Emcure’s Import Alert: Is there a way of knowing who will be next? 										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">
-The U.S.
-FDA banned drug imports from the finished dosage form operations of Emcure
-Pharmaceuticals...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Serious quality concerns at manufacturing operationsof common pain and fever drugs" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/serious-quality-concerns-at-manufacturing-operationsof-common-pain-and-fever-drugs" title="Serious quality concerns at manufacturing operationsof common pain and fever drugs"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Serious_2912540165_c5008fb277_o_copy.jpg" title="Serious quality concerns at manufacturing operationsof common pain and fever drugs"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Serious quality concerns at manufacturing operationsof common pain and fever drugs" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/serious-quality-concerns-at-manufacturing-operationsof-common-pain-and-fever-drugs" title="Serious quality concerns at manufacturing operationsof common pain and fever drugs">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Serious quality concerns at manufacturing operationsof common pain and fever drugs										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;"> Paracetamol (Acetominophen) and Aspirin (Acetyl Salicylic Acid), basic drugs for pains and fever, c...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Litigation free, first generic opportunities!" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/litigation-free-first-generic-opportunities" title="Litigation free, first generic opportunities!"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Litigation-free-first-generic-opportunities-1437624699.jpg" title="Litigation free, first generic opportunities!"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Litigation free, first generic opportunities!" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/litigation-free-first-generic-opportunities" title="Litigation free, first generic opportunities!">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Litigation free, first generic opportunities!										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Wouldn’t it just be wonderful if there were opportunities to become the first generic on the m...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Move over Statins, Sartans, Tinibs; it’s time for “Cholic chemistry”" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/move-over-statins-sartans-tinibs-it-s-time-for-cholic-chemistry" title="Move over Statins, Sartans, Tinibs; it’s time for “Cholic chemistry”"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1427343446_Cholate_Chemistry_2809364953_d9932a4e05_z.png" title="Move over Statins, Sartans, Tinibs; it’s time for “Cholic chemistry”"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Move over Statins, Sartans, Tinibs; it’s time for “Cholic chemistry”" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/move-over-statins-sartans-tinibs-it-s-time-for-cholic-chemistry" title="Move over Statins, Sartans, Tinibs; it’s time for “Cholic chemistry”">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Move over Statins, Sartans, Tinibs; it’s time for “Cholic chemistry”										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Recently, FDA approved therapies to reduce double chin
-(yes it’s possible!) and treat patients...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="The future of API manufacturing at Dr. Reddy’s" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/the-future-of-api-manufacturing-at-dr-reddy-s" title="The future of API manufacturing at Dr. Reddy’s"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1428063039_The_future_of_API_4597262012_c61e9c669f_z.jpg" title="The future of API manufacturing at Dr. Reddy’s"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="The future of API manufacturing at Dr. Reddy’s" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/the-future-of-api-manufacturing-at-dr-reddy-s" title="The future of API manufacturing at Dr. Reddy’s">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											The future of API manufacturing at Dr. Reddy’s										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Almost immediately after our analysis on why “Dr. Reddy’s largest API facility maybe the...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="FDA Strikes More Than 40 Drugs Approvals In 2014" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/fda-strikes-more-than-40-drugs-approvals-in-2014" title="FDA Strikes More Than 40 Drugs Approvals In 2014"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/fda-strikes-more-than-40-drugs-approvals-in-2014.jpg" title="FDA Strikes More Than 40 Drugs Approvals In 2014"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="FDA Strikes More Than 40 Drugs Approvals In 2014" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/fda-strikes-more-than-40-drugs-approvals-in-2014" title="FDA Strikes More Than 40 Drugs Approvals In 2014">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											FDA Strikes More Than 40 Drugs Approvals In 2014										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Unless you are like Voltaire and think that “The art of medicine consists of amusing patients ...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="The silver lining in Ipca’s Import Alert blues" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/the-silver-lining-in-ipca-s-import-alert-blues" title="The silver lining in Ipca’s Import Alert blues"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/8195086253_054ec108ff_z.jpg" title="The silver lining in Ipca’s Import Alert blues"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="The silver lining in Ipca’s Import Alert blues" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/the-silver-lining-in-ipca-s-import-alert-blues" title="The silver lining in Ipca’s Import Alert blues">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											The silver lining in Ipca’s Import Alert blues										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Ipca Laboratories finished dosage facilities at Silvasa and
-Pithampur (India) were put on the FDA Im...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="A 21st Century Cure for generics via the Big Data revolution" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/a-21st-century-cure-for-generics-via-the-big-data-revolution" title="A 21st Century Cure for generics via the Big Data revolution"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/A-21st-Century-Cure-for-generics-via-the-Big-Data-revolution-1438852936.jpg" title="A 21st Century Cure for generics via the Big Data revolution"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="A 21st Century Cure for generics via the Big Data revolution" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/a-21st-century-cure-for-generics-via-the-big-data-revolution" title="A 21st Century Cure for generics via the Big Data revolution">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											A 21st Century Cure for generics via the Big Data revolution										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">
+								<div style="clear:both"></div>
+								<div style="width:100%;">
+									<div class="sub_news" style="width:100%;">														
+										<p style="font-size: 13px;line-height: 1.6;min-height:72px;">
 The proposed new 21st Century Cures Act could
 herald in a new era of drug development, with the sea...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Dr. Reddy’s expansion plans for API production" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/dr-reddy-s-expansion-plans-for-api-production" title="Dr. Reddy’s expansion plans for API production"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1428062744_Expansion_2637002496_53e86ab699_z.jpg" title="Dr. Reddy’s expansion plans for API production"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Dr. Reddy’s expansion plans for API production" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/dr-reddy-s-expansion-plans-for-api-production" title="Dr. Reddy’s expansion plans for API production">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Dr. Reddy’s expansion plans for API production										</strong>
-									</h3>
-								</a>
+									</div>
+								</div>							
 							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Unrelated to the inspection of
-the USFDA at the Dr. Reddys Srikakulam facility, Dr. Reddys sought pe...</p>
+						</li>
+											<li>
+							<div class="image" style="height:150px;overflow:hidden;">
+								<a class="gc" category="Most Read" name="Glaxo’s terrible August makes safety a priority " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/glaxo-s-terrible-august-makes-safety-a-priority" title="Glaxo’s terrible August makes safety a priority "><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Glaxos-terrible-August-makes-safety-a-priority-1444640815.jpg" title="Glaxo’s terrible August makes safety a priority "></a>
+							</div>	
+							<div class="radio-news">
+								<div>
+									<a class="gc" category="Most Read" name="Glaxo’s terrible August makes safety a priority " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/glaxo-s-terrible-august-makes-safety-a-priority" title="Glaxo’s terrible August makes safety a priority ">
+										<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
+											<strong>
+												Glaxo’s terrible August makes safety a priority 											</strong>
+										</h3>
+									</a>
 								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Will data integrity concerns on clinical trials done at GVK Biosciences go beyond Europe?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/will-data-integrity-concerns-on-clinical-trials-done-at-gvk-biosciences-go-beyond-europe" title="Will data integrity concerns on clinical trials done at GVK Biosciences go beyond Europe?"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1432809462_6212433214_8a2f566fd6_z.jpg" title="Will data integrity concerns on clinical trials done at GVK Biosciences go beyond Europe?"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Will data integrity concerns on clinical trials done at GVK Biosciences go beyond Europe?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/will-data-integrity-concerns-on-clinical-trials-done-at-gvk-biosciences-go-beyond-europe" title="Will data integrity concerns on clinical trials done at GVK Biosciences go beyond Europe?">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Will data integrity concerns on clinical trials done at GVK Biosciences go beyond Europe?										</strong>
-									</h3>
-								</a>
+								<div style="clear:both"></div>
+								<div style="width:100%;">
+									<div class="sub_news" style="width:100%;">														
+										<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Pharmaceutical companies often lose sleep over compliance-related issues. But three accidents, in as...</p>
+									</div>
+								</div>							
 							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">&nbsp;Over
-700 commonly used generic medicines were
-recommended for suspension by the European Medic...</p>
+						</li>
+											<li>
+							<div class="image" style="height:150px;overflow:hidden;">
+								<a class="gc" category="Most Read" name="Zhejiang Hisun’s FDA import alert; a new chapter in the fight against data integrity" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/zhejiang-hisun-s-fda-import-alert-a-new-chapter-in-the-fight-against-data-integrity" title="Zhejiang Hisun’s FDA import alert; a new chapter in the fight against data integrity"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Zhejiang-Hisuns-FDA-import-alert-a-new-chapter-in-the-fight-against-data-integrity-1442467058.jpg" title="Zhejiang Hisun’s FDA import alert; a new chapter in the fight against data integrity"></a>
+							</div>	
+							<div class="radio-news">
+								<div>
+									<a class="gc" category="Most Read" name="Zhejiang Hisun’s FDA import alert; a new chapter in the fight against data integrity" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/zhejiang-hisun-s-fda-import-alert-a-new-chapter-in-the-fight-against-data-integrity" title="Zhejiang Hisun’s FDA import alert; a new chapter in the fight against data integrity">
+										<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
+											<strong>
+												Zhejiang Hisun’s FDA import alert; a new chapter in the fight against data integrity											</strong>
+										</h3>
+									</a>
 								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="With a $1.2 billion buy, Concordia re-affirms that old drugs are indeed gold!" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/with-a-1-2-billion-buy-concordia-re-affirms-that-old-drugs-are-indeed-gold" title="With a $1.2 billion buy, Concordia re-affirms that old drugs are indeed gold!"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Concordia_3830417445_4b157da99a_z.jpg" title="With a $1.2 billion buy, Concordia re-affirms that old drugs are indeed gold!"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="With a $1.2 billion buy, Concordia re-affirms that old drugs are indeed gold!" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/with-a-1-2-billion-buy-concordia-re-affirms-that-old-drugs-are-indeed-gold" title="With a $1.2 billion buy, Concordia re-affirms that old drugs are indeed gold!">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											With a $1.2 billion buy, Concordia re-affirms that old drugs are indeed gold!										</strong>
-									</h3>
-								</a>
+								<div style="clear:both"></div>
+								<div style="width:100%;">
+									<div class="sub_news" style="width:100%;">														
+										<p style="font-size: 13px;line-height: 1.6;min-height:72px;">A few months ago, PharmaCompass covered
+the Health Canada request to quarantine drugs linked to lead...</p>
+									</div>
+								</div>							
 							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Canada based,&nbsp;Concordia Healthcare continued their buying spree of old, established drug brands...</p>
+						</li>
+											<li>
+							<div class="image" style="height:150px;overflow:hidden;">
+								<a class="gc" category="Most Read" name="Sun pharma has a new global quality head, why?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/sun-pharma-has-a-new-global-quality-head-what-lies-ahead" title="Sun pharma has a new global quality head, why?"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1430984482_Sun_Pharma_has_a_new_Global_Quality_Head_12505752913_f973865feb_z.jpg" title="Sun pharma has a new global quality head, why?"></a>
+							</div>	
+							<div class="radio-news">
+								<div>
+									<a class="gc" category="Most Read" name="Sun pharma has a new global quality head, why?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/sun-pharma-has-a-new-global-quality-head-what-lies-ahead" title="Sun pharma has a new global quality head, why?">
+										<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
+											<strong>
+												Sun pharma has a new global quality head, why?											</strong>
+										</h3>
+									</a>
 								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="The secret drug pricing formula" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/the-secret-drug-pricing-formula" title="The secret drug pricing formula"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1430276207_TheSecret_2965137520_246a72592b_z.jpg" title="The secret drug pricing formula"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="The secret drug pricing formula" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/the-secret-drug-pricing-formula" title="The secret drug pricing formula">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											The secret drug pricing formula										</strong>
-									</h3>
-								</a>
+								<div style="clear:both"></div>
+								<div style="width:100%;">
+									<div class="sub_news" style="width:100%;">														
+										<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Six weeks ago, Sun Pharma finally closed the multi-billion dollar Ranbaxy
+acquisition and inherited ...</p>
+									</div>
+								</div>							
 							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">Why do “Americans pay, by far, the highest prices in the world for prescription drugs”?
-...</p>
+						</li>
+											<li>
+							<div class="image" style="height:150px;overflow:hidden;">
+								<a class="gc" category="Most Read" name="Merck vs Merck: A ‘Mercky’ tale" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/merck-vs-merck-a-mercky-tale" title="Merck vs Merck: A ‘Mercky’ tale"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Merck-vs-Merck-A-Mercky-tale-1444640714.jpg" title="Merck vs Merck: A ‘Mercky’ tale"></a>
+							</div>	
+							<div class="radio-news">
+								<div>
+									<a class="gc" category="Most Read" name="Merck vs Merck: A ‘Mercky’ tale" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/merck-vs-merck-a-mercky-tale" title="Merck vs Merck: A ‘Mercky’ tale">
+										<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
+											<strong>
+												Merck vs Merck: A ‘Mercky’ tale											</strong>
+										</h3>
+									</a>
 								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Cabazitaxel –The Market Overcrowding Begins" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/cabazitaxel-the-market-overcrowding-begins" title="Cabazitaxel –The Market Overcrowding Begins"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Cabazitaxel_613445810_2249c2d193_z.jpg" title="Cabazitaxel –The Market Overcrowding Begins"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Cabazitaxel –The Market Overcrowding Begins" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/cabazitaxel-the-market-overcrowding-begins" title="Cabazitaxel –The Market Overcrowding Begins">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Cabazitaxel –The Market Overcrowding Begins										</strong>
-									</h3>
-								</a>
+								<div style="clear:both"></div>
+								<div style="width:100%;">
+									<div class="sub_news" style="width:100%;">														
+										<p style="font-size: 13px;line-height: 1.6;min-height:72px;">It doesn’t help that the company, which calls
+itself Merck in the United States isn’t al...</p>
+									</div>
+								</div>							
 							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;"> Many companies have been actively developing Cabazitaxel (Jevtana Kit®), a prostate cancer drug...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Pharmaceutical drugs or Airplanes: which manufacturing system is more reliable?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/pharmaceutical-drugs-or-airplanes-which-manufacturing-system-is-more-reliable" title="Pharmaceutical drugs or Airplanes: which manufacturing system is more reliable?"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1434007834_Pharmaceutical_5251094170_aa10e94c54_z_copy.jpg" title="Pharmaceutical drugs or Airplanes: which manufacturing system is more reliable?"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Pharmaceutical drugs or Airplanes: which manufacturing system is more reliable?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/pharmaceutical-drugs-or-airplanes-which-manufacturing-system-is-more-reliable" title="Pharmaceutical drugs or Airplanes: which manufacturing system is more reliable?">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Pharmaceutical drugs or Airplanes: which manufacturing system is more reliable?										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">
-“To my knowledge, there's no detailed common understanding within the United States about wha...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Avocado For Your Healthy Heart?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/avocado-for-your-healthy-heart" title="Avocado For Your Healthy Heart?"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/avocado-for-your-healthy-heart.jpg" title="Avocado For Your Healthy Heart?"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Avocado For Your Healthy Heart?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/avocado-for-your-healthy-heart" title="Avocado For Your Healthy Heart?">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Avocado For Your Healthy Heart?										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">That thick skinned, lumpy, ugly looking fruit that most people either love or love to hate, the humb...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Marksans, Quest Life Sciences and the big Indian pharmaceutical dilemma" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/marksans-quest-life-sciences-and-the-big-indian-pharmaceutical-dilemma" title="Marksans, Quest Life Sciences and the big Indian pharmaceutical dilemma"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Marksans-Quest-Life-Sciences-and-the-big-Indian-pharmaceutical-dilemma-1436437284.jpg" title="Marksans, Quest Life Sciences and the big Indian pharmaceutical dilemma"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Marksans, Quest Life Sciences and the big Indian pharmaceutical dilemma" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/marksans-quest-life-sciences-and-the-big-indian-pharmaceutical-dilemma" title="Marksans, Quest Life Sciences and the big Indian pharmaceutical dilemma">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Marksans, Quest Life Sciences and the big Indian pharmaceutical dilemma										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;"> With the ever increasing pressure from international regulatory authorities (e.g. FDA), while some ...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Is Wockhardt turning the corner in its compliance battle?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/is-wockhardt-turning-the-corner-in-its-compliance-battle" title="Is Wockhardt turning the corner in its compliance battle?"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Is-Wockhardt-turning-the-corner-in-its-compliance-battle-1437625368.jpg" title="Is Wockhardt turning the corner in its compliance battle?"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Is Wockhardt turning the corner in its compliance battle?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/is-wockhardt-turning-the-corner-in-its-compliance-battle" title="Is Wockhardt turning the corner in its compliance battle?">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Is Wockhardt turning the corner in its compliance battle?										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">&nbsp;Last week, 162,000 cartons of
-different products manufactured by Indian generic major, Wockhar...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Can Cimetidine, a common antacid, be repurposed for cancer?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/can-cimetidine-a-common-antacid-be-repurposed-for-cancer" title="Can Cimetidine, a common antacid, be repurposed for cancer?"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1426145050_Cimetidine_8515276174_ee90c7a81d_z-2.jpg" title="Can Cimetidine, a common antacid, be repurposed for cancer?"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Can Cimetidine, a common antacid, be repurposed for cancer?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/can-cimetidine-a-common-antacid-be-repurposed-for-cancer" title="Can Cimetidine, a common antacid, be repurposed for cancer?">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Can Cimetidine, a common antacid, be repurposed for cancer?										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;"> A clinical study published in one of the leading oncology journals, Cancer, shows that Cimetidine c...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="The Apple ResearchKit Watch " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/The-Apple-Resear-chKit-Watch" title="The Apple ResearchKit Watch "><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/AppleWatch15222624538_42a0121eaa_z_copy.jpg" title="The Apple ResearchKit Watch "></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="The Apple ResearchKit Watch " style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/The-Apple-Resear-chKit-Watch" title="The Apple ResearchKit Watch ">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											The Apple ResearchKit Watch 										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">
-Apple during their recent announcement of their Watch launch, also discussed at length the Apple R...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Diabetes: Which New Drug is the Safest?  FDA Issues Safety Warning on oral Antidiabetic Blockbusters." style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/diabetes-which-new-drug-is-the-safest-fda-issues-safety-warning-on-oral-antidiabetic-blockbusters" title="Diabetes: Which New Drug is the Safest?  FDA Issues Safety Warning on oral Antidiabetic Blockbusters."><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1432203245_Diabetes_8683527373_a958bf73e1_z_copy.jpg" title="Diabetes: Which New Drug is the Safest?  FDA Issues Safety Warning on oral Antidiabetic Blockbusters."></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Diabetes: Which New Drug is the Safest?  FDA Issues Safety Warning on oral Antidiabetic Blockbusters." style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/diabetes-which-new-drug-is-the-safest-fda-issues-safety-warning-on-oral-antidiabetic-blockbusters" title="Diabetes: Which New Drug is the Safest?  FDA Issues Safety Warning on oral Antidiabetic Blockbusters.">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Diabetes: Which New Drug is the Safest?  FDA Issues Safety Warning on oral Antidiabetic Blockbusters.										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">&nbsp;
-Recently launched type 2 diabetes molecules, canagliflozin, dapagliflozin, and empagliflozin,...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Sanofi ups and down, downs and up!" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/Sanofi-ups-and-down-downs-and-up" title="Sanofi ups and down, downs and up!"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Shan5_6536978985_50fc6a2371_z_copy.jpg" title="Sanofi ups and down, downs and up!"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Sanofi ups and down, downs and up!" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/Sanofi-ups-and-down-downs-and-up" title="Sanofi ups and down, downs and up!">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Sanofi ups and down, downs and up!										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">
-On March 17th of this year, a first delivery of 400,000 doses of hope has reached Gwalior and Jabal...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Pharma Chess: Strategies adopted in the United States to block generics" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/pharma-chess-strategies-adopted-in-the-united-states-to-block-generics" title="Pharma Chess: Strategies adopted in the United States to block generics"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1433402438_Big_Pharma_8257362043_0f637c7cd8_z_copy.jpg" title="Pharma Chess: Strategies adopted in the United States to block generics"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Pharma Chess: Strategies adopted in the United States to block generics" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/pharma-chess-strategies-adopted-in-the-united-states-to-block-generics" title="Pharma Chess: Strategies adopted in the United States to block generics">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Pharma Chess: Strategies adopted in the United States to block generics										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">When a generic drug comes to the U.S.
-market, sales of brand drugs crash. The drop is more than 80% ...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Faster drug approvals in the U.S. through the 21st Century Cures Act" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/faster-drug-approvals-in-the-u-s-through-the-21st-century-cures-act" title="Faster drug approvals in the U.S. through the 21st Century Cures Act"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Faster-drug-approvals-in-the-US-through-the-21st-Century-Cures-Act-1438172247.jpg" title="Faster drug approvals in the U.S. through the 21st Century Cures Act"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Faster drug approvals in the U.S. through the 21st Century Cures Act" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/faster-drug-approvals-in-the-u-s-through-the-21st-century-cures-act" title="Faster drug approvals in the U.S. through the 21st Century Cures Act">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Faster drug approvals in the U.S. through the 21st Century Cures Act										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">The proposed overhaul of the U.S. drug
-approval system through the 21st
-Century Cures Act won’...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Niche European Molecules: is there a business opportunity worth pursuing?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/niche-european-molecules-is-there-a-business-opportunity-worth-pursuing" title="Niche European Molecules: is there a business opportunity worth pursuing?"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1434005235_Beautiful_9364688666_4e9087dc88_z_copy.jpg" title="Niche European Molecules: is there a business opportunity worth pursuing?"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Niche European Molecules: is there a business opportunity worth pursuing?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/niche-european-molecules-is-there-a-business-opportunity-worth-pursuing" title="Niche European Molecules: is there a business opportunity worth pursuing?">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Niche European Molecules: is there a business opportunity worth pursuing?										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">
-New drug development is a series of complex
-activities invariably involving tremendous financial in...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Marijuana Based Medicines – highway to pots of gold" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/marijuana-based-medicines-highway-to-pots-of-gold" title="Marijuana Based Medicines – highway to pots of gold"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Marijuana-Based-Medicines-highway-to-pots-of-gold-1437028096.jpg" title="Marijuana Based Medicines – highway to pots of gold"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Marijuana Based Medicines – highway to pots of gold" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/marijuana-based-medicines-highway-to-pots-of-gold" title="Marijuana Based Medicines – highway to pots of gold">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Marijuana Based Medicines – highway to pots of gold										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">
-Legally
-cultivated cannabis, in some parts of the United States, resulted in a boom,
-which could ne...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Antibiotic resistant superbugs: deadlier than cancer and closer to you than you think" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/antibiotic-resistant-superbugs-deadlier-than-cancer-and-closer-to-you-than-you-think" title="Antibiotic resistant superbugs: deadlier than cancer and closer to you than you think"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/1435223752_antibiotics_intensity_360-1.jpg" title="Antibiotic resistant superbugs: deadlier than cancer and closer to you than you think"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Antibiotic resistant superbugs: deadlier than cancer and closer to you than you think" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/antibiotic-resistant-superbugs-deadlier-than-cancer-and-closer-to-you-than-you-think" title="Antibiotic resistant superbugs: deadlier than cancer and closer to you than you think">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Antibiotic resistant superbugs: deadlier than cancer and closer to you than you think										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">The
-global war on superbugs, bacteria that grow
-resistant to drugs, infect humans and defy conventio...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-									<li>
-						<div class="image" style="height:150px;overflow:hidden;">
-							<a class="gc" category="Most Read" name="Does speedy action by European agencies suggest revival of API production in the West?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/does-speedy-action-by-european-agencies-suggest-revival-of-api-production-in-the-west" title="Does speedy action by European agencies suggest revival of API production in the West?"><img src="http://d1adxjtokj3uyb.cloudfront.net/jAssets/images/news/banner/Does-speedy-action-by-European-agencies-suggest-revival-of-API-production-in-the-West-1438854548.jpg" title="Does speedy action by European agencies suggest revival of API production in the West?"></a>
-						</div>	
-						<div class="radio-news">
-							<div>
-								<a class="gc" category="Most Read" name="Does speedy action by European agencies suggest revival of API production in the West?" style="padding:0px;max-height:none;" href="http://www.pharmacompass.com/pharma-news/does-speedy-action-by-european-agencies-suggest-revival-of-api-production-in-the-west" title="Does speedy action by European agencies suggest revival of API production in the West?">
-									<h3 style="font-size:15px !important;color: #000;line-height: 1.4;">
-										<strong>
-											Does speedy action by European agencies suggest revival of API production in the West?										</strong>
-									</h3>
-								</a>
-							</div>
-							<div style="clear:both"></div>
-							<div style="width:100%;">
-								<div class="sub_news" style="width:100%;">														
-									<p style="font-size: 13px;line-height: 1.6;min-height:72px;">
-Recently announced regulatory
-action against Indian and Chinese companies is creating a significant...</p>
-								</div>
-							</div>							
-						</div>
-					</li>
-							</ul>
-		</div>
+						</li>
+									</ul>
+			</div>
 		</div>
 	</div>
 					</div>
@@ -1942,13 +1119,7 @@ action against Indian and Chinese companies is creating a significant...</p>
 								</div>
 							</div>						
 						</div>
-						<div class="grid3 column last ex-even copyright-2">
-							<div class="block widget widget-totop no-title clearfix ">
-								<div class="content">
-									<a id="scrolltop" href="#top"><span>Back to top</span></a>
-								</div>
-							</div>
-						</div>
+						<a href="javascript:void(0);" class="btn back-to-top btn-dark btn-fixed-bottom top-right"> <span class="icon-chevron-up"></span> </a>
 					</section>
 				</footer>
 		</section>
