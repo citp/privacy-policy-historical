@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hypster.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816085334id_/http%3A//hypster.com/hypster/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypster.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610163730id_/http%3A//hypster.com/hypster/Privacy_Policy) for the most accurate reproduction.*
 
 # Hypster - Privacy Policy
 
-Protecting your privacy is important to BaronsMedia.com LLC ( herein also referred to as "hypster.com"). This Policy explains how hypster.com collects, uses, and discloses the personal information you may provide while using the hypster.com Web site (the "Web Site"). It is always your choice whether or not to provide personal information through the Web site. Any personal information you provide will be treated with care, and subject to his Policy will not be used or disclosed in ways to which you have not consented. Also, you may opt-out certain uses and disclosures of your personal information, as explained in this Policy.
+Protecting your privacy is important to June Media Inc.( herein also referred to as "hypster.com"). This Policy explains how hypster.com collects, uses, and discloses the personal information you may provide while using the hypster.com Web site (the "Web Site"). It is always your choice whether or not to provide personal information through the Web site. Any personal information you provide will be treated with care, and subject to his Policy will not be used or disclosed in ways to which you have not consented. Also, you may opt-out certain uses and disclosures of your personal information, as explained in this Policy.
 
 YOUR CONSENT
 
