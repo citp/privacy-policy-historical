@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorialgateway.org privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209164026id_/http%3A//www.tutorialgateway.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialgateway.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610043420id_/http%3A//www.tutorialgateway.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,5 +50,3 @@ If you have any queries about our Privacy Policy, Please feel free to contact us
 [admin@tutorialgateway.org](mailto:admin@tutorialgateway.org)
 
 This Privacy Policy was last modified on July 26, 2015
-
-## Reader Interactions
