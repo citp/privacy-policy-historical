@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the straighterline.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207020948id_/http%3A//www.straighterline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straighterline.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610133334id_/http%3A//www.straighterline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StraighterLine
 
@@ -152,13 +152,13 @@ We may collect, use and disclose Personal Information for the following purposes
 
 
 
-StraighterLine also reserves the right to replicate written comments about the service sent to its representatives on our Sites and/or in promotional materials and/or in business development materials, along with your name and institution. If you do not want your name to accompany your comments, please email the Office of Compliance [make a live link].
+StraighterLine also reserves the right to replicate written comments about the service sent to its representatives on our Sites and/or in promotional materials and/or in business development materials, along with your name and institution. If you do not want your name to accompany your comments, please email the Office of Compliance [Office.ComplianceStraighterLine@straighterline.com](mailto:Office.ComplianceStraighterLine@straighterline.com).
 
 ##### 6\. Express Consent to Receive Prerecorded Voice Messages, Text Messages and Calls Using an Autodialer
 
 If you have provided prior express written consent in the process of requesting information from StraighterLine about its educational offerings or services, or if you have provided prior express consent after becoming a student to receive communications related to purposes other than marketing, we may use an automatic telephone dialing system (auto-dialer), artificial or prerecorded voice messages, and text messages to communicate with you. 
 
-In the case of text communications, you may receive text messages periodically regarding StraighterLine. Message and data rates may apply. You may opt out at any time by texting STOP to cancel future text messages. By sending STOP, you agree to one additional confirmation message stating that you've opted out and will no longer receive text messages from StraighterLine. To get help, text HELP. You may also get additional support or help by sending an email to TextMsgSupport@straighterline.com.
+In the case of text communications, you may receive text messages periodically regarding StraighterLine. Message and data rates may apply. You may opt out at any time by texting STOP to cancel future text messages. By sending STOP, you agree to one additional confirmation message stating that you've opted out and will no longer receive text messages from StraighterLine. To get help, text HELP. You may also get additional support or help by sending an email to [TextMsgSupport@straighterline.com](mailto:TextMsgSupport@straighterline.com).
 
 By consenting to receive texts you specifically authorize StraighterLine to send text communications using an automatic telephone dialing system or an artificial or prerecorded voice. Your participation and/or your consent is not a condition of purchasing any goods or services. Your consent also provides authorization for the specific telephone number that may be contacted via this program. 
 
@@ -172,7 +172,7 @@ Partner College administrators are within their rights to request access to your
 
 StraighterLine will not use, maintain, or disclose any personally identifiable information provided by a Partner College from any student’s educational record except in compliance with FERPA. Please note that FERPA generally does not apply to information regarding students who have applied for enrollment at a postsecondary institution but have not enrolled or have otherwise indicated interest; however, StraighterLine will use, maintain, and disclose such information in compliance with the remainder of this Privacy Policy.
 
-##### 8\. Location of Information Processing/
+##### 8\. Location of Information Processing
 
 We operate or may process information in multiple jurisdictions, and some Education Partners and Business Associates may be located outside of the jurisdiction in which you reside. In such cases, your Personal Information may be collected, used, disclosed, stored and processed in these other jurisdictions for the purposes described in this Privacy Policy. The data protection and other laws of the United States and other countries might differ from your jurisdiction. We require our Education Partners and Business Associates to use your Personal Information in accordance with this policy and to take reasonable steps to ensure that your privacy is protected in accordance with applicable laws. Please be advised that, by using our Sites and services, you are consenting to the transfer and processing of your Information across international borders. Your Information may be subject to the laws of those other jurisdictions, including lawful requirements to disclose Personal Information to government authorities.
 
@@ -188,11 +188,11 @@ You can opt out of cookies or the other Internet technologies used by disabling 
 
 Marketing Communications 
 
-If you do not wish to receive marketing email communications from us, you may express your choice where indicated on the applicable email or other communication or unsubscribe [make a live link]. 
+If you do not wish to receive marketing email communications from us, you may express your choice where indicated on the applicable email or other communication or unsubscribe [email_unsubscribe@straighterline.com.](mailto:email_unsubscribe@straighterline.com.). 
 
-If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt-out by emailing the Office of Compliance [make a live link]. 
+If you do not wish to receive marketing telephone calls or mailings, you may express your choice to opt-out by emailing the Office of Compliance [Office.ComplianceStraighterLine@straighterline.com](mailto:Office.ComplianceStraighterLine@straighterline.com). 
 
-If you do not wish to receive text messages you may opt out by texting STOP to cancel future text messages. By sending STOP, you agree to one additional confirmation message stating that you've opted out and will no longer receive text messages from StraighterLine. To get help, text HELP. You may also get additional support or help by sending an email toTextMsgSupport@straighterline.com. 
+If you do not wish to receive text messages you may opt out by texting STOP to cancel future text messages. By sending STOP, you agree to one additional confirmation message stating that you've opted out and will no longer receive text messages from StraighterLine. To get help, text HELP. You may also get additional support or help by sending an email to [TextMsgSupport@straighterline.com](mailto:TextMsgSupport@straighterline.com). 
 
 Marketing opt-out requests will only remove you from our list and the list of any Business Associate performing services on our behalf. We are not responsible for the use any other party may make of the Information once it has been transferred in accordance with this Policy, and you will need to contact such entity to have your Information removed from its database. 
 
@@ -202,11 +202,11 @@ You may change various user settings related to sharing your Personal Informatio
 
 Other Collection, Use and Disclosure 
 
-In any situation not covered by the foregoing, you may be able to opt out of our collection, use and disclosure of your Personal Information subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. Note that if you opt out of certain uses of your Personal Information, we may no longer be able to provide certain products or services. For more information on your ability to opt out, email the Office of Compliance [make a live link].
+In any situation not covered by the foregoing, you may be able to opt out of our collection, use and disclosure of your Personal Information subject to applicable contractual, academic, legal or technical restrictions and reasonable notice. Note that if you opt out of certain uses of your Personal Information, we may no longer be able to provide certain products or services. For more information on your ability to opt out, email the Office of Compliance [Office.ComplianceStraighterLine@straighterline.com](mailto:Office.ComplianceStraighterLine@straighterline.com).
 
 ##### 11\. Your California Privacy Rights
 
-Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, we provide California residents the ability to opt out of disclosures to Education Partners for direct marketing purposes. To opt out of these disclosures at no cost, email the Office of Compliance [make a live link].
+Under California’s Shine the Light law, Cal. Civ. Code § 1798.83, we provide California residents the ability to opt out of disclosures to Education Partners for direct marketing purposes. To opt out of these disclosures at no cost, email the Office of Compliance [Office.ComplianceStraighterLine@straighterline.com](mailto:Office.ComplianceStraighterLine@straighterline.com).
 
 ##### 12\. Our Security Measures
 
@@ -232,7 +232,7 @@ StraighterLine may update this Privacy Policy or revise it from time to time. Yo
 
 ##### 17\. How to Access Your Information and Contact Us
 
-If you want access to or wish to update any of your Personal Information or have any questions about our privacy practices, please contact our Compliance Office at Office.ComplianceStraighterLine@straighterline.com
+If you want access to or wish to update any of your Personal Information or have any questions about our privacy practices, please contact our Compliance Office at [Office.ComplianceStraighterLine@straighterline.com](mailto:Office.ComplianceStraighterLine@straighterline.com)
 
 or
 
