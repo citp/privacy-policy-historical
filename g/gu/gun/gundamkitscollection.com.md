@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gundamkitscollection.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210213156id_/http%3A//www.gundamkitscollection.com/p/privacy-policy_31.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gundamkitscollection.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611000815id_/http%3A//www.gundamkitscollection.com/p/privacy-policy_31.html) for the most accurate reproduction.*
 
 # Privacy Policy - Gundam Kits Collection News and Reviews
 
@@ -10,7 +10,11 @@ We may collect personal identification information from Users in a variety of wa
 
 **Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.  
+  
+**Push notifications**  
+**  
+** Gundam Kits Collection News and Reviews have added a push notification app effective May 8, 2016. This program is 100% safe and will not collect personal identifications from the readers subscribed to it. Readers can receive news from our website even if they are not on any of our social media websites like Facebook, Twitter or Pinterest. 
 
 **Web browser cookies**
 
@@ -54,4 +58,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 <http://www.gundamkitscollection.com/>  
 info@gundamkitscollection.com
 
-This document was last updated on February 22, 2013
+This document was last updated on May 8, 2016
