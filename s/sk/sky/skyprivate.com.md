@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyprivate.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210072159id_/http%3A//www.skyprivate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyprivate.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610034858id_/http%3A//www.skyprivate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SkyPrivate
 
@@ -10,7 +10,9 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 This information are not subject to be resell.
 
-Should you have other questions or concerns about these privacy policies, please send us an email at support[@]SkyPrivate.com
+Should you have other questions or concerns about these privacy policies, please open a [ticket](http://support.skyprivate.com/Knowledgebase/List)
+
+. 
 
 ### Your Privacy Rights
 
@@ -130,4 +132,6 @@ You can review and edit your personal information at any time by logging in to y
 
 ### How you can contact us about privacy questions
 
-If you have questions or concerns regarding this policy, you should contact us by email: support@SkyPrivate.com
+If you have questions or concerns regarding this policy, please open a [ticket](http://support.skyprivate.com/Knowledgebase/List)
+
+. 
