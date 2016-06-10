@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modulesgarden.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210123751id_/http%3A//modulesgarden.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modulesgarden.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610222705id_/http%3A//modulesgarden.com/privacy_policy) for the most accurate reproduction.*
 
 # ModulesGarden - Privacy Policy
 
