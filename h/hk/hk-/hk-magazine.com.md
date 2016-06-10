@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the hk-magazine.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226174605id_/http%3A//hk-magazine.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hk-magazine.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610194955id_/http%3A//hk-magazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Hong Kong's City Living Authority Privacy Policy | HK Magazine
+# Privacy Policy | HK Magazine
 
-Effective April 1, 2013
+Effective February 4, 2016
 
 **Overview**
 
 HK Magazine Online takes great care of, and respects, your privacy and your data. This policy is intended to make you aware of how we acquire your information as you sign up for our products and services, how we manage it, and how we will (and will not) use it to provide you with great new products, special deals, offers, services, contests, party invitations, and more.  We adhere to the regulations of the Personal Data (Privacy) Ordinance laws of Hong Kong as well as industry best practices.  We will not automatically add you to any email list, only those you wish to join. You can unsubscribe from any list at any time. 
 
-If you have any questions on any of the below policies, please contact us [here](http://hk-magazine.com/contactus).
+If you have any questions on any of the below policies, please contact us [here](mailto:hk@hkmagmedia.com).
 
 **Access to Site Content and Services**
 
 Most of the content and services offered through websites operated by HK Magazine Online are freely accessible to all users.  However, the following services require users to either become Registered Members of our sites or provide some personal information:
 
-You must become a **Registered Member** of the site if you wish to:
+You must become a  **Registered Member**  of the site if you wish to:
 
   * Post a comment in the forums or create a forum topic
   * Participate in members-only giveaways
@@ -26,7 +26,7 @@ You must become a **Registered Member** of the site if you wish to:
 
 
 
-Registered Members are _required_ to provide:
+Registered Members are  _required_  to provide:
 
   * First name
   * Last name
@@ -37,7 +37,7 @@ Registered Members are _required_ to provide:
 
 
 
-In addition, Registered Members may _choose_ to provide:
+In addition, Registered Members may  _choose_  to provide:
 
   * Mobile phone number
   * Country of origin
@@ -50,7 +50,7 @@ In addition, Registered Members may _choose_ to provide:
 
 In order to complete a purchase (including free guide download) from the Store, Registered Members are also required to provide: phone number, billing and shipping addresses and credit card information.
 
-**Non-members** may take part in the following activities, but may be asked to provide some personal information in order to do so:
+**Non-members**  may take part in the following activities, but may be asked to provide some personal information in order to do so:
 
   * Enter a competition/giveaway/promotion
   * Get an invitation to attend an event
@@ -61,7 +61,7 @@ In order to complete a purchase (including free guide download) from the Store, 
 
 This personal information may include first name, last name, email address, gender, date of birth, interests, or other information related to a particular promotion or event.  This information may be shared with companies or promoters involved in organizing the activity, but it will not be used for marketing purposes without your permission.
 
-In either case, HK Magazine Online will _not_ automatically add you into any list.  You will only become part of a list if you _opt in by choosing to receive that product from us_.
+In either case, HK Magazine Online will  _not_  automatically add you into any list.  You will only become part of a list if you  _opt in by choosing to receive that product from us_.
 
 From time to time, we may communicate to Registered Members about HK Magazine Online products or services that they have not opted in to, and encourage them to do so.  This may also apply to new products that are launched by HK Magazine Online.
 
@@ -101,7 +101,7 @@ Privilege List members who also provide mobile phone information may receive SMS
 
 **Registering with Facebook Connect**
 
-The Facebook Connect platform may be used to register for this site.  If you choose to use the Facebook Connect option then Facebook's terms and conditions, guidelines and privacy policies also apply to your use of this site. By registering for our site with Facebook Connect you allow us to have access to certain information from your Facebook profile (eg: Name, e-mail address, gender, birthdate and location). When you provide this information you help us personalize your experience on our site by providing exclusive content and being able to contact you with news and offers. This Privacy Policy applies to information collected by us through your Facebook Connect login.  Your activities on Facebook are covered by the [Facebook privacy policy ](http://www.facebook.com/policy.php)and the [Facebook terms of use](http://www.facebook.com/terms.php) **.**
+The Facebook Connect platform may be used to register for this site.  If you choose to use the Facebook Connect option then Facebook's terms and conditions, guidelines and privacy policies also apply to your use of this site. By registering for our site with Facebook Connect you allow us to have access to certain information from your Facebook profile (eg: Name, e-mail address, gender, birthdate and location). When you provide this information you help us personalize your experience on our site by providing exclusive content and being able to contact you with news and offers. This Privacy Policy applies to information collected by us through your Facebook Connect login.  Your activities on Facebook are covered by the [Facebook privacy policy](http://www.facebook.com/policy.php) and the [Facebook terms of use](http://www.facebook.com/terms.php) **.**
 
 **Our Emailing Technology**
 
@@ -111,14 +111,18 @@ HK Magazine Online retains a third-party Vendor to provide its emailing services
 
 If we change this Privacy Policy, we will post those changes on the Website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email or by placing a prominent notice on the Website.
 
-**Public Forums**  
+**Public Forums  **
+
 Please keep in mind that whenever you voluntarily disclose personal information online, for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
 
-  **Online Store**  
-We are committed to protecting the information we receive from you. Credit card numbers for purchases made on our online store are collected by PayPal on our behalf and their privacy policies can be viewed at [Paypal Privacy Policy](https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US)
+**Online Store**
 
-**Business Transfers**  
+We are committed to protecting the information we receive from you. Credit card numbers for purchases made on our online store are collected by PayPal on our behalf and their privacy policies can be viewed at [Paypal Privacy Policy](https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US)
+
+**Business Transfers**
+
 We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
 
-**Terms of Service**  
-Users of HK Magazine Online websites and digital products are also subject to the [Terms of Service](https://web.archive.org/content/terms-service).
+**Terms and Conditions**
+
+Users of HK Magazine Online websites and digital products are also subject to the [Terms and Conditions](http://hk-magazine.com/terms-conditions).
