@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140735id_/http%3A//www.outreach.com/print/article.aspx%3Farticle_name%3Da-privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610103010id_/http%3A//www.outreach.com/print/article.aspx%3Farticle_name%3Da-privacypolicy%26ref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## Privacy Policy
 
 Outreach, Inc. and its Affiliates (" **Outreach** " or " **We** ") know that you care about how the information we receive from you is used and shared, and we take your privacy seriously. This Privacy Policy describes Outreach's privacy practices in relation to information that we collect through websites operated by us from which you are accessing this Privacy Policy (collectively, the " **Domains** "), through our social media pages (collectively, the " **Social Media Pages** "), as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Domains, and the Social Media Pages, the " **Sites** "). " **You** " or a " **user** " refers to any individual who visits or otherwise uses the Sites. By using the Sites, you are accepting and agreeing to the practices outlined in this Privacy Policy.
 
