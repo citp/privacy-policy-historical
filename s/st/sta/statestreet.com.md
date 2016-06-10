@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the statestreet.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208212609id_/http%3A//www.statestreet.com/content/ssbsr/en_US/utility/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statestreet.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610190529id_/http%3A//www.statestreet.com/content/ssbsr/en_US/utility/privacy-notice.html) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy Notice | State Street Corporation
 
 This Privacy Notice applies to the State Street Bank and Trust Company (“State Street”) website and thought leadership mobile app (collectively, this “Site”). This Privacy Notice applies to any personal information we may collect from you through this Site, independent of the device (i.e., mobile, computer) used to access this Site.
 
