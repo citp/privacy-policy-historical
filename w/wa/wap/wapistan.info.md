@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapistan.info privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203181438id_/http%3A//wapistan.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapistan.info privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610224615id_/http%3A//wapistan.info/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
