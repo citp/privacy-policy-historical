@@ -1,167 +1,8 @@
-<!--The following is the downloaded HTML source of the lifemadeeasyglobal.com privacy policy that was archived on 2015-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222105358id_/https%3A//www.lifemadeeasyglobal.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lifemadeeasyglobal.com privacy policy that was archived on 2016-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610032322id_/http%3A//www.lifemadeeasyglobal.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head><meta http-equiv="content-type" content="text/html;charset=UTF-8">
 <script src="js/jquery-1.11.3.min.js"></script>
-<script type="text/javascript">
-  $(document).ready(function(){ 
-$("#register_submit").click(function(){
-/*var user_type = $("#user_type").val();
-if(user_type==''){
-$("#errorBox").html("Please Select Registration Type");
-$("#user_type").focus();
-return false;
-}
-else {
-$("#errorBox").html("");
-}
-*/
-var user_mobileno = $("#user_mobileno").val();
-if(user_mobileno==''){
-$("#errorBox1").html("Please Enter Valid Mobile Number");
-$("#user_mobileno").focus();
-return false;
-}
-else {
-$("#errorBox1").html("");
-}
-var user_firstname = $("#user_firstname").val();
-if(user_firstname==''){
-$("#errorBox2").html("Please Enter Full Name");
-$("#user_firstname").focus();
-return false;
-}
-else {
-$("#errorBox2").html("");
-}
-var user_city = $("#user_city").val();
-if(user_city==''){
-$("#errorBox5").html("Please Select City");
-$("#user_city").focus();
-return false;
-}
-else {
-$("#errorBox5").html("");
-}
-var user_area = $("#user_area").val();
-if(user_area==''){
-$("#errorBox3").html("Please Select Area");
-$("#user_area").focus();
-return false;
-}
-else {
-$("#errorBox3").html("");
-}
-var user_pincode = $("#user_pincode").val();
-if(user_pincode==''){
-document.getElementById(user_pincode).focus();
-return false;
-}
-var user_coming = $("#user_coming").val();
-var other_reason = $("#other_reason").val();
-if(user_coming == 'Marketing Team'){
-if(other_reason == ""){
-alert("Please enter executive mobile number");
-$("#other_reason").focus();
-return false;
-}
-}
-if(!document.getElementById("terms").checked){
-$("#errorBox4").html("Please Accept Terms And Conditions");
-$("#terms").focus();
-return false;
-}
-else {
-$("#errorBox4").html("");
-}
-// Returns successful data submission message when the entered information is stored in database.
-var dataString = '&user_mobileno='+ user_mobileno + '&user_firstname='+ user_firstname + '&user_city='+ user_city + '&user_area='+ user_area + '&user_pincode='+ user_pincode+ '&user_coming='+ user_coming+ '&other_reason='+ other_reason;
-//alert(dataString);
-  //AJAX code to submit form.
-  $('#processing').html('<img src="images/loading2.gif" alt=" " title="" id="loads" style="margin-left: 0PX; ">Loading...');
-  $.ajax({
-      type: "GET",
-      url: "user_registration_ajax.php",
-      data: dataString,
-      cache: false,
-      success: function(result){
-     if(result=='suc')    {
-              $("#user_mobileno").val('');
-              $("#user_firstname").val('');
-              $("#user_area").val('');
-			  $("#user_pincode").val('');
-			  $("#user_coming").val('');
-			  $("#processing").hide();
-			  $("#cs-signup-form-section-favorites-526017").hide();
-			  $("#login-from-526017").show();
-			  $("#signup-now-favorites-526017").show();
-			  $("#accout-already-favorites-526017").hide();
-			  $("#Sucess").html("Password will sent your registerd mobile");
-       
-      }
-     else {
-		 $("#processing").hide();
-	  alert("Mobile Already Exist");
-      }
-  }
-               });
-return false;
-});
-});
-</script>
-<script type="text/javascript">
-  $(document).ready(function(){ 
-  
-$("#user_login").click(function(){
-var user_mobile = $("#user_mobile").val();
-if(user_mobile==''){
-//alert( "Please Select User Type!");
-$("#errorMobile").html("Please Enter Mobile Number");
-$("#user_mobile").focus();
-return false;
-}
-else {
-$("#errorMobile").html("");
-}
-var user_password = $("#user_password").val();
-if(user_password==''){
-$("#errorPassword").html("Please Enter Password");
-$("#user_password").focus();
-return false;
-}
-else {
-$("#user_password").html("");
-}
-
-var dataString = 'user_mobile='+ user_mobile + '&user_password='+ user_password;
-//alert(dataString);
-  //AJAX code to submit form.
-  $('#processing').html('<img src="images/loading2.gif" alt=" " title="" id="loads" style="margin-left: 0PX;">Loading...');
-  $.ajax({
-      type: "GET",
-      url: "user_login_ajax.php",
-      data: dataString,
-      cache: false,
-      success: function(result){
-     if(result=='user') {
-	  location.reload(true);
-      // window.location="#";
-        }
-		else if(result=='admin') {
-       window.location="adminpanel/index.php";
-        }
-	else {
-		 $("#processing").hide();
-		 $("#user_password").val('');
-	  alert('The Mobile or password you entered is incorrect.');
-      }
-  }
-               });
-return false;
-
-});
-});
-</script>
 <script type="text/javascript">
   $(document).ready(function(){ 
 $("#updateuser").click(function(){
@@ -196,6 +37,7 @@ var dataString = '&user_password='+ user_password;
 			  $("#user_repassword").val('');
 			  $("#processing").hide();
 			  alert("Successfully Updated Password");
+                      window.location.href='logout.php';
         }
 		  });
 return false;
@@ -226,48 +68,7 @@ return false;
 });
 });
 </script>
-<script type="text/javascript">
-$(document).ready(function(){ 
- $("#forgotpass_submit").click(function(){
-var user_mobil123 = $("#user_mobil123").val();
-if(user_mobil123==''){
-//alert( "Please Select User Type!");
-$("#error12").html("Please Enter Mobile Number");
-$("#user_mobil123").focus();
-return false;
-}
-else {
-$("#error12").html("");
-}
 
-
-var dataString = 'user_mobil123='+ user_mobil123;
-//alert(dataString);
-  //AJAX code to submit form.
-  $('#processing').html('<img src="images/loading2.gif" alt=" " title="" id="loads" style="margin-left: 0PX;">Loading...');
-  $.ajax({
-      type: "GET",
-      url: "user_RecoverPassword_ajax.php",
-      data: dataString,
-      cache: false,
-      success: function(result){
-     if(result=='Sucess') {
-       $("#Success").show();
-         $("#success1").hide();
-	   $("#processing").hide();
-        }
-		
-     else {
-		  alert('The Mobile Not a Registered Mobile');
-		  $("#processing").hide();
-      }
-  }
-               });
-return false;
-
-});
-});
-</script>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="UTF-8">
@@ -276,7 +77,7 @@ return false;
 <meta name="author" content="Life made easy global">
 <title>Life Made Easy Global</title>
 <link rel="shortcut icon" href="images/favicon.ico">
-<link href="https://fonts.googleapis.com/css?family=Lato&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link href="online/fontsgoogleapisfamilyLato&amp;subsetlatinlatin.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 body, .main-section p {
 	font: 14px;
@@ -445,6 +246,20 @@ img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shado
 .recentcomments a{display:inline!important;padding:0!important;margin:0!important}
 </style>
 
+<script src="js1/jquery.min.js"></script> 
+<script src="js1/jquery.dropotron.min.js"></script> 
+<script src="js1/jquery.scrollgress.min.js"></script> 
+<script src="js1/skel.min.js"></script> 
+<script src="js1/util.js"></script> 
+<!--[if lte IE 8]><script src="js/ie/respond.min.js"></script><![endif]--> 
+<script src="js1/main.js"></script> 
+<script src="js1/owl.carousel.js"></script> 
+
+<!--autosearch-->
+      <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+  
+
  <link rel="stylesheet" id="directory_sumoselect_css-css" href="wp-content/plugins/wp-directory/assets/css/A.sumoselect.css%2cqver%3d4.3.1.pagespeed.cf.hPKvSC5R_O.css" type="text/css" media="all">
 <link rel="stylesheet" id="jquery-ui-styles-css" href="wp-content/plugins/wp-directory/assets/css/jquery-ui5b31.css?ver=4.3.1" type="text/css" media="all">
 <link rel="stylesheet" id="owl.carousel_css-css" href="wp-content/themes/directory-theme/assets/css/owl.carousel5b31.css?ver=4.3.1" type="text/css" media="all">
@@ -459,524 +274,71 @@ img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shado
 <script>eval(mod_pagespeed_8xVqEi2_4l);</script> 
 <script type="text/javascript" src="wp-content/themes/directory-theme/assets/scripts/jquery.flexslider-min.js%2cqver%3d4.3.1.pagespeed.jm.S_lfnZfEnk.js"></script>
 
+
+
+
+ 
+
 <style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head><body class="home page page-id-367 page-template-default">
 <!-- Wrapper -->
 <div class="wrapper header-relative wrapper_full_width">
 <!-- Header --> 
-<style>
-.main-section p {
-    font: 17px 'PT Sans', sans-serif;
-    color: #818181;
-}
-</style>
 <!-- Header 1 Start -->
- <style>
-/*rentalform*/
-@media (max-width: 991px) and (min-width: 768px) {
-.cs-form-element.column-input .radio-box1 li {
-	width: 44% !important;
-}
-}
+<link href="css1/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="css1/main.css" rel="stylesheet" type="text/css">
+<link href="css1/responsive.css" rel="stylesheet" type="text/css">
 
-@media screen and (max-width: 480px) and (min-width: 100px) {
-.cs-form-element li input {
-	width: 6% !important;
-}
-}
-</style>
 <!-- Custom Fonts -->
-<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700" rel="stylesheet" type="text/css">
-<header id="main-header" class="header_1 top-bar-off">
-  <!-- Top Strip -->
-  <!-- Main Header -->
-  
-  <div class="main-navbar">
-    <div class="container">
-      <aside class="left-side">
-        <div class="logo"> <a href="index.php"> <img src="wp-content/uploads/Logo.jpg" style="width:232px;margin-top: -4px; " alt="Life made easy Global" title=""> </a> </div>
-      </aside>
-      <aside class="right-side">
-        <nav class="navigation"> <a class="cs-click-menu"><i class="icon-list8"></i></a>
-          <ul><a class="cs-close-btn"><i class="icon-times-circle"></i></a>
-            <li id="menu-item-1487" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu current-menu-item dropdown sub-menu current_page_item dropdown sub-menu menu-item-home dropdown sub-menu current-menu-ancestor dropdown sub-menu current-menu-parent dropdown sub-menu menu-item-has-children"><a href="index.php">HOME</a> 
-              
-              <!--End Sub Menu --> 
-            </li>
-            <li id="menu-item-829" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children"><a href="about.php">ABOUT</a> </li>
-            <li id="menu-item-3170" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon"><a href="property_list.php">PROPERTIES</a>
-              <ul class="sub-dropdown">
-                <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon"><a href="property_list.php?type=Rent"> To-Let</a>
-                  <ul class="sub-dropdown">
-                    <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Resedential&amp;ptype=Rent">Residential</a></li>
-                    <li id="menu-item-3128" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Commercial&amp;ptype=Rent">Commercial</a></li>
-                  </ul>
-                  <!--End Sub Menu --> 
-                  <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-                <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon"><a href="property_list.php?type=Lease">LEASE</a>
-                  <ul class="sub-dropdown">
-                    <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Resedential&amp;ptype=Lease">Residential</a></li>
-                    <li id="menu-item-3128" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Commercial&amp;ptype=Lease">Commercial</a></li>
-                    <li id="menu-item-3128" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Agriculture&amp;ptype=Lease">Agriculture</a></li>
-                  </ul>
-                  <!--End Sub Menu --> 
-                  <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-                <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon"><a href="property_list.php?type=sale"> SALE</a>
-                  <ul class="sub-dropdown">
-                    <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Resedential&amp;ptype=sale">Residential</a></li>
-                    <li id="menu-item-3128" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Commercial&amp;ptype=sale">Commercial</a></li>
-                    <li id="menu-item-3128" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="property_list.php?subtype=Agriculture&amp;ptype=sale">Agriculture</a></li>
-                  </ul>
-                  <!--End Sub Menu -->
-				  <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-                <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon"><a href="propertymanagement_list.php"> Property Management</a>
-                  <ul class="sub-dropdown">
-				  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page parentIcon"><a href="propertymanagement_list.php?type=Rent">Tolet</a>
-					<ul class="sub-dropdown">
-					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="propertymanagement_list.php?subtype=Resedential&amp;ptype=Rent">Residential</a></li>
-					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="propertymanagement_list.php?subtype=Commercial&amp;ptype=Rent">Commercial</a></li>
-					</ul>
-					<!--End Sub Menu -->
-					<span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page parentIcon"><a href="propertymanagement_list.php?subtype=sale">Sale</a>
-					<ul class="sub-dropdown">
-					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="propertymanagement_list.php?subtype=Resedential&amp;ptype=sale">Residential</a></li>
-					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="propertymanagement_list.php?subtype=Commercial&amp;ptype=sale">Commercial</a></li>
-					</ul>
-					<!--End Sub Menu -->
-					<span class="responsive-btn"><i class="icon-plus8"></i></span>
-					<span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-					
-					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page parentIcon"><a href="propertymanagement_list.php?type=Lease">Lease</a>
-					<ul class="sub-dropdown">
-					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="propertymanagement_list.php?subtype=Resedential&amp;ptype=Lease">Residential</a></li>
-					<li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="propertymanagement_list.php?subtype=Commercial&amp;ptype=Lease">Commercial</a></li>
-					</ul>
-					<!--End Sub Menu -->
-					<span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-					
-                    
-                  </ul>
-                  <!--End Sub Menu --><span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-                <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="agents_list.php"> Agents</a> </li>
-              </ul>
-              <!--End Sub Menu --> 
-            <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-            <li id="menu-item-3170" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon">
-            <a href="#">CATEGORIES</a>
-            <ul class="sub-dropdown">
-              <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon">
-              <a href="sale_list.php?category=Sale">SALE</a>
-              <ul class="sub-dropdown">
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page parentIcon">
-                <a href="sale_list.php?saletype=New">NEW</a>
-                <ul class="sub-dropdown">
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Animals&amp;salenew=New"> Animals </a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Books&amp;salenew=New">Books</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=ComputerAccessories&amp;salenew=New">Computer Accessories</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=ComputerPeripherals&amp;salenew=New">Computer Peripherals</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=HealthcareAppliances&amp;salenew=New">Healthcare Appliances</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=KitchenAppliances&amp;salenew=New">Kitchen Appliances</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Laptops&amp;salenew=New">Laptops</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Mobile&amp;salenew=New">Mobile</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=MobileAccessories&amp;salenew=New">Mobile Accessories</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=PersonalCareAppliances&amp;salenew=New">Personal Care Appliances</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Shops&amp;salenew=New">Shops</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Tablet&amp;salenew=New">Tablets</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=TabletAccessories&amp;salenew=New">Tablet Accessories</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Televisions&amp;salenew=New">Televisions</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Vehicle&amp;salenew=New"> Vehicles </a></li>
-                  
-                </ul>
-                <!--End Sub Menu --> <!--End Sub Menu -->
-                
-                <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-                <li id="menu-item-3128" class="menu-item  menu-item-type-post_type  menu-item-object-page parentIcon">
-                <a href="sale_list.php?saletype=Old">OLD</a>
-                <ul class="sub-dropdown">
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Animals&amp;salenew=Old"> Animals </a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Books&amp;salenew=Old">Books</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=ComputerAccessories&amp;salenew=Old">Computer Accessories</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=ComputerPeripherals&amp;salenew=Old">Computer Peripherals</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=HealthcareAppliances&amp;salenew=Old">Healthcare Appliances</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=KitchenAppliances&amp;salenew=Old">Kitchen Appliances</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Laptops&amp;salenew=Old">Laptops</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Mobile&amp;salenew=Old">Mobiles</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=MobileAccessories&amp;salenew=Old">Mobile Accessories</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=PersonalCareAppliances&amp;salenew=Old">Personal Care Appliances</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Shops&amp;salenew=Old">Shops</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Tablet&amp;salenew=Old">Tablet</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=TabletAccessories&amp;salenew=Old">Tablet Accessories</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Televisions&amp;salenew=Old">Televisions</a></li>
-                  <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="sale_list.php?salesubtype=Vehicle&amp;salenew=Old"> Vehicles </a></li>
-                  
-                </ul>
-                <!--End Sub Menu --> <!--End Sub Menu -->
-                <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-              </ul>
-              <!--End Sub Menu --> 
-              <span class="responsive-btn"><i class="icon-plus8"></i></span>
-              <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-              <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon">
-              <a href="rental_list.php">For Hire</a>
-              <ul class="sub-dropdown">
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Air Coolers">AIR COOLERS</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Blazers">BLAZERS</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Bridal Wears">BRIDAL WEAR</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Cameras">CAMERAS</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Chairs">CHAIRS</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Computers">COMPUTERS</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Costumes">COSTUMES</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Cylinders">CYLINDERS</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Dead Body Freezer Box">DEAD BODY FREEZER BOX</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Furniture">FURNITURE</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Generators">GENERATORS</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Hydraulic Cranes">HYDRAULIC CRANES</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Laptops">LAPTOPS</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Mobiles">MOBILES</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Mortuary Freezers">MORTUARY FREEZERS</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Projectors">PROJECTORS</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Sherwanis">SHERWANIS</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Sound Systems">SOUND SYSTEMS</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Suits">SUITS</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Tabs">TABS</a> </li>
-                <li id="menu-item-167" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="rental_list.php?rentaltype=Vehicles">VEHICLES</a> </li>
-                
-                <!--End Sub Menu -->
-                
-              </ul>
-              <!--End Sub Menu --> 
-              <span class="responsive-btn"><i class="icon-plus8"></i></span>
-              <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-              <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom  "><a href="hostels_list.php">HOSTELS</a> <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-              <li id="menu-item-3547" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom  "><a href="hotels_list.php">HOTELS</a> <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-			  <li id="menu-item-3147" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom parentIcon"><a href="restarant_list.php">FOOD &amp; BEVERAGES</a>
-                <ul class="sub-dropdown">
-				<li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="restarant_list.php?restauranttype=Restaurant">RESTAURANT</a></li>
-                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="restarant_list.php?restauranttype=Coffee and Tea">COFFEE &amp; TEA</a></li>
-                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="restarant_list.php?restauranttype=Dessert">DESSERT</a></li>
-                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="restarant_list.php?restauranttype=IceCream">ICECREAM</a></li>
-                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="restarant_list.php?restauranttype=Bakery">BAKERIES</a></li>
-                 </ul>
-              <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-              <li id="menu-item-3147" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom parentIcon"><a href="jobs_list.php">Jobs</a>
-                <ul class="sub-dropdown">
-                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="jobs_list.php?jobtype=Full Time">FULL TIME</a></li>
-                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="jobs_list.php?jobtype=Part Time">PART TIME</a></li>
-                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="jobs_list.php">FREELANCER</a></li>
-                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="candidate_list.php">JOB SEEKERS</a></li>
-                </ul>
-              <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-              <li id="menu-item-3147" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom parentIcon"><a href="education_list.php">Education &amp; Training</a>
-                <ul class="sub-dropdown">
-                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="education_list.php?edutype=PlaySchool">PLAY SCHOOLS</a></li>
-                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="education_list.php?edutype=Schools">SCHOOLS</a></li>
-                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="education_list.php?edutype=Collages">COLLEGES</a></li>
-                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="education_list.php?edutype=Institutes">TRAINING INSTITUTES</a></li>
-                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="education_list.php?edutype=Consultancies">CONSULTANCIES</a></li>
-                </ul>
-              <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-              <li id="menu-item-3147" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom parentIcon"><a href="healthcare_list.php">Health Care</a>
-                <ul class="sub-dropdown">
-                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="healthcare_list.php?healthtype=Doctor">DOCTORS</a></li>
-                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="healthcare_list.php?healthtype=Hospital">HOSPITALS</a></li>
-                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="healthcare_list.php?healthtype=Clinic">CLINICS</a></li>
-                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="healthcare_list.php?healthtype=NursingHome">NURSING HOMES</a></li>
-                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="healthcare_list.php?healthtype=Lab">LABS</a></li>
-                  <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="healthcare_list.php?healthtype=Bloodbank">BLOOD BANKS</a></li>
-                </ul>
-              <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-            </ul>
-            <!--End Sub Menu -->
-            <span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-            
-            <!--<li id="menu-item-1573" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children"><a href="jobs_list.php">JOBS</a>
-                <ul class="sub-dropdown">
-                  <li id="menu-item-1698" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="jobs_list.php">JOBSEEKER</a></li>
-                 <li id="menu-item-1701" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom"><a href="candidate_list.php">EMPLOYER</a></li>
-                   
-                </ul>
-              
-              </li>--> <!--End Sub Menu -->
-                    <li id="menu-item-2648" class="menu-item dropdown mega-menu cs-mega-menu menu-item-type-post_type dropdown mega-menu cs-mega-menu menu-item-object-page dropdown mega-menu cs-mega-menu menu-item-has-children parentIcon"><a href="services_list.php">SERVICES</a>
-              <ul class="mega-grid" style="display: block;">
-                <li id="menu-item-2626" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon">
-                  <ul class="sub-dropdown" style="display: block;">
-                    <li id="menu-item-2623" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Ambulance">Ambulance Service
-                                            ()</a></li>
-					   <li id="menu-item-2623" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Architect">Architect
-                                            ()</a></li>
-                    <li id="menu-item-2611" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Artist"> Artist
-                                            ()</a></li>
-                    <li id="menu-item-2625" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Astrology">Astrologer
-                                            ()</a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Automobile">Automobile
-                                            ()</a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Battery"> Battery Sale &amp; Service
-                                            ()</a></li>
-                    <li id="menu-item-2622" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Beauty">Beauty / Spa
-                                            ()</a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=BedWorks"> Bed Works
-                                            ()</a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=BookBinding"> Book Binding Works
-                                            ()</a></li>
-                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Borewell">Bore Well Mechanic
-                                            ()</a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Brassband"> Brass Band
-                                            ()</a></li>
-                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Contractor"> Building Contractor
-                                            ()</a></li>
-                    <li id="menu-item-2621" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=MaterialSupplier">Building Material Supplier
-                                            ()</a></li>
-                    <li id="menu-item-2614" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Tickets"> Bus / Train / Air Ticket
-                                            ()</a></li>
-                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Cable">Cable / DTH
-                                            ()</a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=CarDecorator"> Car Decorators
-                                            ()</a></li>
-                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Carmechanic">Car / Bike Mechanic
-                                            ()</a></li>
-                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Carpenter"> Carpenters
-                                            ()</a></li>
-					  <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Carpetclean"> Carpet Cleaning
-                                            ()</a></li>
-                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Catering"> Catering
-                                            ()</a></li>
-                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Cartridge">Cartridge Refilling
-                                            ()</a></li>
-                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Childcare"> Child Care
-                                            ()</a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Computerservice">Computer Services
-                                            ()</a></li>
-                  </ul>
-                  <!--End Sub Menu --> 
-                  <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-				  
-                <li id="menu-item-2627" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon">
-                  <ul class="sub-dropdown" style="display: block;">
-				  
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Cookmaster">Cook / Cooking Master
-                                            () </a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Contentwriter">Content Writers
-                                            () </a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=CourierService">Courier services
-                                            () </a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=CurryPoint">Curry Point
-                                            ()</a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Dance"> Dance &amp; Music
-                                            ()</a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Decorators"> Decorators
-                                            ()</a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=digitalSound"> digital Sound
-                                            () </a></li>
-					   <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Ditective"> Ditective
-                                            () </a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=DriverSupplier">Driver Supplier
-                                            () </a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=DrivingSchool"> Driving School
-                                            ()</a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Electrician"> Electricians
-                                            ()</a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=EventManagement"> Event Management
-                                            ()</a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=FashionDesigner"> Fashion Designer
-                                            () </a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Fabrication"> Fabrication
-                                            () </a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=FitnessCenter">Fitness Centers
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=FlourMill">Flour Mill
-                                            ()</a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=FlowerSupplier">Flower Supplier
-                                            () </a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=FunctionHalls">Function Halls
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Furniture"> Furniture
-                                            () </a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Gardening"> Gardener
-                                            ()</a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=GasStoveRepair">Gas Stove Repair
-                                            () </a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Grasary">Grocery Supplier
-                                            () </a></li>
-                   <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=HouseMade"> Home Maids
-                                            ()</a></li>
-                  </ul>
-                  <!--End Sub Menu --> 
-                  <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-                <li id="menu-item-2629" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon">
-                  <ul class="sub-dropdown" style="display: block;">
-				   
-					  <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=HomeNurse"> Home Nurse
-                                            ()</a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=HomeTutions">Home Tuition
-                                            () </a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=IceCreamSupplier">Ice cream Supplier
-                                            ()</a></li>
-                    <li id="menu-item-2606" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=InteriorDesign"> Interior Design
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=InternetProvider">Internet Provider
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Insurance">Insurance
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=KeyMaker">Key Maker
-                                            ()</a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=LaundryCleaner">Laundry / Dry Cleaner
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Loan">Loan
-                                            ()</a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Magician"> Magician / Entertainer
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=marraiageBureau"> Marriage Burea
-                                            ()</a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=MasquitoScreens"> Mosquito Screen
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=MehindiDesigner"> Mehindi Designer
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=MilkVendors"> Milk Vendors
-                                            ()</a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=MineralWaterSuppliers"> Mineral Water Suppliers
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=NewsPaperAgent">News Paper Agents
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=OldAgeHome"> Old Age Home
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Painter">Painters
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=PaintingDesigner">Painting Designer
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=PanPassport"> Pan / Passport Services
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=PackersMovers"> Packers &amp; Movers
-                                            () </a></li>
-                   <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=PestControl">Pest Control
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=PhotoGrapher"> Photographer
-                                            () </a></li>
-                  </ul>
-                  <!--End Sub Menu --> 
-                  <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-                <li id="menu-item-2629" class="menu-item dropdown sub-menu menu-item-type-custom dropdown sub-menu menu-item-object-custom dropdown sub-menu menu-item-has-children parentIcon">
-                  <ul class="sub-dropdown" style="display: block;">
-				   
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Plumber"> Plumber
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=PrintingPress">Printing Press
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=ProvisionStore"> Provision Store
-                                            ()</a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Purohithudu">Purohithudu
-                                            () </a></li>
-                    <li id="menu-item-2615" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=EstateAgent">Realestate Agent
-                                            ()</a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=RiceVendor">Rice Vendors
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=ServiceCenter">Service Center
-                                            ()</a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=SewingMachanic"> Sewing Machine Mechanic
-                                            () </a></li>
-					   <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Shops"> Shops
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=SofaRepairs">Sofa Repair
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=SportsInstitute">Sports Institutions
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Tailor">Tailor
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=TattoArtist">Tattoo Artist
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=TentHouse"> Tent House
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=ToursTravels"> Tours &amp; Travels
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=Towing"> Towing
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=TvAcRefrigerator">TV / AC / Refrigerator
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=VegitableSeller"> Vegitable Seller
-                                            ()</a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=WaterSupplier">Water Supplier
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=WaterManagemant">Water Management
-                                            () </a></li>
-                    <li id="menu-item-2113" class="menu-item  menu-item-type-post_type  menu-item-object-page"><a href="services_list.php?servicetype=YogaTeacher"> Yoga Teacher
-                                            () </a></li>
-                  </ul>
-                  <!--End Sub Menu --> 
-                  <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-              </ul>
-              <!--End Sub Menu --> 
-              <span class="responsive-btn"><i class="icon-plus8"></i></span><span class="responsive-btn"><i class="icon-plus8"></i></span></li>
-            <!--<li id="menu-item-3448" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page dropdown sub-menu menu-item-has-children"><a href="career.php">CAREERS</a>
- </li>
- <li id="menu-item-3448" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page dropdown sub-menu menu-item-has-children"><a href="contact.php">CONTACT</a>
-             
-              </li> -->
-          </ul>
-        </nav>
-        <div class="btn-sec">
-                    <a data-toggle="modal" data-target="#cs_ad_post_modal" class="hd-btn cs-bgcolor"><i class="icon-plus3"></i>Post an Ad</a>
-                    
-          
-          <div aria-hidden="true" role="dialog" tabindex="-1" id="cs_ad_post_modal" class="modal fade add-to-favborites-modal">
-            <div class="modal-dialog">
-              <div class="modal-content">
-                <div class="modal-body">
-                  <div class="cs-login-favorites  afterlogin"> 
-                    <script>jQuery(document).ready(function(){jQuery('#ControlForm_526017 input').keydown(function(e){if(e.keyCode==13){ }});jQuery("#cs-signup-form-section-favorites-526017").hide();jQuery("#accout-already-favorites-526017").hide();jQuery("#forgot-password-526017").hide();jQuery("#signup-now-favorites-526017").click(function(){jQuery("#login-from-526017").hide();jQuery("#signup-now-favorites-526017").hide();jQuery("#cs-signup-form-section-favorites-526017").show();jQuery("#forgot-password-526017").hide();jQuery("#accout-already-favorites-526017").show();jQuery("#forgot-password-favorites-526017").show();});jQuery("#accout-already-favorites-526017").click(function(){jQuery("#login-from-526017").show();jQuery("#signup-now-favorites-526017").show();jQuery("#cs-signup-form-section-favorites-526017").hide();jQuery("#forgot-password-526017").hide();jQuery("#accout-already-favorites-526017").hide();});jQuery("#forgot-password-favorites-526017").click(function(){jQuery("#forgot-password-526017").show();jQuery("#login-from-526017").hide();jQuery("#signup-now-favorites-526017").hide();jQuery("#accout-already-favorites-526017").show();jQuery("#cs-signup-form-section-favorites-526017").hide();jQuery("#forgot-password-favorites-526017").hide();});});</script>
-                    <section class="sg-header ">
-                      <button data-dismiss="modal" class="close" type="button"> <span aria-hidden="true"><i class="icon-times"></i></span><span class="sr-only">Close</span> </button>
-                      <div class="header-element login-from login-form-id-526017" id="login-from-526017">
-                        <h6>User Sign in</h6>
-                        <form class="wp-user-form webkit" id="ControlForm_526017">
-                          <fieldset>
-                            <span class="status status-message" id="Sucess" style="color:blue"></span> <span id="errorMobile" style="color:#FF0000"></span>
-                            <p class="sg-email"> <span class="iconuser"></span>
-                              <input type="text" name="user_login" id="user_mobile" placeholder="Mobile" maxlength="10" onkeypress="return isNumber(event)">
-                            </p>
-                            <span id="errorPassword" style="color:#FF0000"></span>
-                            <p class="sg-password"> <span class="iconepassword"></span>
-                              <input type="password" name="user_password" id="user_password" placeholder="Password">
-                            </p>
-                            <p> <i class="icon-angle-right"></i>
-                              <input type="submit" name="user-submit" id="user_login" class="cs-bgcolor" value="Sign in">
-                            </p>
-                            <span id="processing"></span>
-                          </fieldset>
-                        </form>
-                      </div>
-                      <div class="user-sign-up" id="cs-signup-form-section-favorites-526017" style="display:none">
-                        <h6>User Sign Up</h6>
-                        <form class="wp-user-form" id="wp_signup_form_526017">
-                          <fieldset>
-                            
-                            <span id="errorBox1" style="color:#FF0000"></span>
+<link href="online/googleapisfamily.css" rel="stylesheet" type="text/css">
+<!-- Top Strip -->
+<!-- Main Header -->
+<!-- Header -->
+<header id="header" class="alt">
+
+<h1><a href="#"> <i class="icon-phone6"></i>&nbsp; 040-6990 8990</a>&nbsp;&nbsp;<a href="contact.php"><i class="icon-envelope4"></i>&nbsp; info@lifemadeeasyglobal.com</a></h1>
+<nav id="nav" role="navigation">
+  <ul>
+   <a class="button registers1" data-dismiss="modal" id="logins1" href="#logins" data-modal="#logins" data-toggle="modal" data-target="#logins" style=" background: #454590;border-radius:10px;padding:12px;color:white !important;"> Registration</a> <a class="button logins1" data-dismiss="modal" href="#logins" data-modal="#logins" data-toggle="modal" data-target="#logins" style=" background: #454590;border-radius:10px;padding:12px;color:white !important;"> Login</a>  </ul>
+</nav>
+</header>
+
+<!-- box popup-->
+<div class="modal fade" id="logins">
+  <div id="loginbox">
+    <div class=" ">
+      <div class="login-form">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="font-size: 29px;top: 0px;position: absolute;right: 6px;color: #DA4307;opacity: 1;background: #EEEEEE !important;border-radius: 99px;padding: 0px 4px !important;">×</button>
+        <div class="register" id="registerform" style="display: none;">
+          <h1>Register Here</h1>
+          <div class="head"> <img src="images/user.png" alt=""> </div>
+          <form>
+            <span id="errorBox1" style="color:#FF0000"></span>
                             <p class="sg-password"> <span class="iconemail"></span>
-                              <input type="text" name="user_mobileno" id="user_mobileno" maxlength="10" tabindex="12" onkeypress="return isNumber(event)" placeholder="Mobile No" required="">
+                              <input type="text" name="user_mobileno" id="user_mobileno" maxlength="10" tabindex="12" onkeypress="return isNumber(event)" placeholder="Mobile No" onpaste="return false;">
                             </p>
-                            <span id="errorBox2" style="color:#FF0000"></span>
+            <span id="errorBox2" style="color:#FF0000"></span>
                             <p class="sg-password"> <span class="iconuser"></span>
-                              <input type="text" name="user_firstname" id="user_firstname" tabindex="12" placeholder="Full name" required="">
+                              <input type="text" name="user_firstname" id="user_firstname" tabindex="12" onkeypress="return ValidateAlpha(event);" placeholder="Full name" onpaste="return false;">
                             </p>
                             <span id="errorBox5" style="color:#FF0000"></span>
+								
                             <p class="sg-password">
-                              <select name="user_city" id="user_city" onchange="loadarea(this.value)" required="">
-                                <option value="">City</option>
-                                                              </select>
+                            <select name="user_city" id="user_city" onchange="loadarea(this.value)" class="chosen-select">
+                                  <option value="">City</option>
+                                  <option value="1">HYDERABAD</option><option value="2">RANGAREDDY</option><option value="11">SECUNDERABAD</option>                                </select>
+                              
                             </p>
-                            <span id="errorBox3" style="color:#FF0000"></span>
-                            <p class="sg-password" id="divarea">
-                              <select name="user_area" id="user_area" required="">
+             <span id="errorBox3" style="color:#FF0000"></span>
+            <select name="user_area" id="user_area" class="chosen-select" onchange="loadpincode(this.value)">
                                 <option value="">Area/location</option>
                                 
                               </select>
-                            </p>
-                            <p class="sg-password" id="divpincode">
-                              <select name="user_pincode" id="user_pincode" required="">
+            <p class="sg-password" id="divpincode">
+            <select name="user_pincode" id="user_pincode">
                                 <option value="">Pincode</option>
                               </select>
-                            </p>
-							<p class="sg-password">
-						<select name="user_coming" id="user_coming" required="">
+							  </p>
+            <select name="user_coming" id="user_coming" class="chosen-select">
                                 <option value="">How did you get here</option>
 <option value="Classified AD">Classified AD</option> 
                                 <option value="E-mail">E-mail</option>
@@ -993,112 +355,395 @@ img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shado
                   <option value="Television Advertisement">Television Advertisement</option>
                                  <option value="Other">Other</option> 
                               </select>
-                           <!--   <input type="text" name="user_get" id="user_get" tabindex="12" placeholder="How did you get here" required> -->
- 
-
-                            </p>
-
-<p class="other_reason1" style="display: none;">
-<input id="other_reason" name="other_reason" type="text" maxlength="10" onkeypress="return isNumber(event)" placeholder="Representative Mobile Number" style="display: none;">
+							  <p class="other_reason1" style="display: none;">
+<input id="other_reason" name="other_reason" type="text" maxlength="10" onkeyup="check_mm()" onkeypress="return isNumber(event)" placeholder="Representative Mobile Number" style="display: none;">
 </p>
- <span id="errorBox4" style="color:#FF0000"></span>
+<span id="errorBox4" style="color:#FF0000"></span>
                             <p class="sg-password">
                               <input type="checkbox" id="terms" value="yes" style="width: 11%;" checked="" required="">
-                              <label>I agree Terms and Conditions</label>
+                              I agree Terms and Conditions
+Your information will be shared with our service providers (or) service seekers. <a href="privacy.php"><b style="color: blue;">Privacy policy</b></a>
                             </p>
-                            <p> <i class="icon-angle-right"></i>
-                              <input type="submit" name="user-submit" id="register_submit" class="cs-bgcolor" value="Sign Up">
-                            </p>
-                            <span id="processing"></span>
-                          </fieldset>
-                        </form>
-                      </div>
-                      <div class="header-element forget-password forget-password-526017" id="forgot-password-526017" style="display: none;">
-                     <div id="success1"> <p>Lost Your Password? Please Enter Your Registered Mobile Number. You Will Receive Password To Mobile Number.</p><h6>Enter Your Registered Mobile Number</h6></div>
+							<div class="submit">
+              <input type="submit" name="user-submit" id="register_submit" class="checkmm" value="Sign Up">
+			  <input type="submit" name="user-submit" id="disable" value="Sign Up" style="display:none;" disabled="">
+            </div>
+			<span id="processing"></span>
+            
+            <p><a class="forgot1" style="cursor:pointer">Forgot Password ?</a>  <a class="login1" style="cursor:pointer;float:right;">Member Login </a></p>
+          </form>
+        </div>
+        <div class="login" id="loginform">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="font-size: 29px;top: 0px;position: absolute;right: 6px;color: #DA4307;opacity: 1;background: #EEEEEE !important;border-radius: 99px;padding: 0px 4px !important;">×</button> <br>
+          <br>
+          <h1>Member Login</h1>
+          <div class="head"> <img src="images/user.png" alt=""> </div>
+          <form>
+		  <span class="status status-message" id="Sucess" style="color:blue"></span> <span id="errorMobile" style="color:#FF0000"></span>
+            <input type="text" class="text" name="user_login" id="user_mobile" placeholder="Mobile" maxlength="10" onkeypress="return isNumber(event)" ondrop="return false;" onpaste="return false;">
+			<span id="errorPassword" style="color:#FF0000"></span>
+            <input type="password" name="user_password" id="user_password" placeholder="Password">
+            <div class="submit">
+              <input type="submit" onclick="myFunction()" id="user_login" value="LOGIN">
+            </div>
+            <p><a class="forgot1" style="cursor:pointer">Forgot Password ?</a> <a class="register1" style="cursor:pointer;float:right;">New User Registration </a></p>
+          </form>
+        </div>
+        <div class="forgot" style="display: none;"> <br>
+          <br>
+          <h1>Member Forgot Password</h1>
+          <div class="head"> <img src="images/user.png" alt=""> </div>
+		   <div id="success1"> <p>Lost Your Password? Please Enter Your Registered Mobile Number. You Will Receive Password To Mobile Number.</p><h6>Enter Your Registered Mobile Number</h6></div>
 					   <div class="woocommerce-message" id="Success" style="display: none"><h6 style="color:red">password sent to your mobile number sign in again.</h6><h6></h6></div>
-                        <form class="wp-user-form webkit" id="wp_forgot_526017">
-                          <fieldset>
-                            <span class="status status-message" id="Sucess" style="color:blue"></span> <span id="errorMobile" style="color:#FF0000"></span>
+          <form>
+            <span class="status status-message" id="Sucess" style="color:blue"></span> <span id="errorMobile" style="color:#FF0000"></span>
                             <p class="sg-email"> <span class="iconuser"></span>
                               <input type="text" name="user_mobileno" id="user_mobil123" placeholder="Mobile" maxlength="10" onkeypress="return isNumber(event)">
-                            </p>                           
-                            <p> <i class="icon-angle-right"></i>
-                              <input type="submit" name="user-forgot" id="forgotpass_submit" class="cs-bgcolor" value="Submit">
                             </p>
-                            <span id="processing"></span>
-							
-                          </fieldset>
-                        </form>
-                      </div>
-					 
-                      <!-- End of social_login_ui div --> 
-                    </section>
-                    <aside class="sg-footer"><p id="forgot-password-favorites-526017" class="left-side"><a>Forgot Password?</a></p>
-                      <p id="signup-now-favorites-526017" class="right-side"><a>New User</a></p>
-                      <p id="accout-already-favorites-526017" class="right-side" style="display: none;"><a>Sign In </a></p>
-                    </aside>
-                  </div>
-                </div>
-              </div>
+
+                            <span id="processing"></span>							
+            <div class="submit">
+              <input type="submit" id="forgotpass_submit" onclick="myFunction()" value="Submit">
             </div>
-          </div>
-
-<style>
-#wp_signup_form_526017 input[type="text"],#wp_signup_form_526017 select { 
-height:34px !important;
-width:100% !important;
-}#wp_forgot_526017 input[type="text"],#wp_forgot_526017 select { 
-height:34px !important;
-width:100% !important;
-}
-</style>
-  <script type="text/javascript">
-        $(function(){
-            //initially hide the textbox
-            $("#other_reason").hide();
-$(".other_reason1").hide();
-
-            $('#user_coming').change(function() {
-              if($(this).find('option:selected').val() == "Marketing Team"){
-$(".other_reason1").show();
-                $("#other_reason").show();
-              }else{
-$(".other_reason1").show();
-                $("#other_reason").hide();
-              }
-            });
-            $("#other_reason").keyup(function(ev){
-                  var othersOption = $('#i_n_r_reason').find('option:selected');
-                  if(othersOption.val() == "Marketing Team"){
-                    ev.preventDefault();
-                    //change the selected drop down text
-                    $(othersOption).html($("#other_reason").val()); 
-
-
-                  } 
-            });
-        });
-    </script>
-
-
-
-
-
-
-
-
-          
-          </div> 
-          <div class="cs-login-sec">
-            <ul>
-              <li><a title="Login" data-toggle="modal" data-target="#cs_ad_post_modal" class="cs-user"><i class="icon-user2"></i></a></li>
-            </ul>
-          </div>
-       
-      </aside>
+            <p><a class="login1" style="cursor:pointer">Member Login </a> | <a class="register1" style="cursor:pointer">New User Registration </a></p>
+          </form>
+        </div>
+      </div>
     </div>
   </div>
-  <script type="text/javascript">
+</div>
+<!--starting sign-up form-->
+<script type="text/javascript">
+$(document).ready(function(){ 
+$("#register_submit").click(function(){
+
+var user_mobileno = $("#user_mobileno").val();
+if(user_mobileno==''){
+$("#errorBox1").html("Please Enter Valid Mobile Number");
+$("#user_mobileno").focus();
+return false;
+}
+else {
+$("#errorBox1").html("");
+}
+if(user_mobileno.length<10){
+$("#errorBox1").html("Please enter a valid 10-digit mobile number");
+$("#user_mobileno").focus();
+return false;
+}
+else {
+$("#errorBox1").html("");
+}
+var num = $("#user_mobileno").val();
+var filter = /^[7-9][0-9]{9}$/;
+if (!filter.test(num)) {
+$("#errorBox1").html("Invalid Mobile Nmber");
+$("#user_mobileno").focus();
+return false;
+}
+else {
+$("#errorBox1").html("");
+}
+var user_firstname = $("#user_firstname").val();
+if(user_firstname==''){
+$("#errorBox2").html("Please Enter Full Name");
+$("#user_firstname").focus();
+return false;
+}
+else {
+$("#errorBox2").html("");
+}
+var user_city = $("#user_city").val();
+if(user_city==''){
+$("#errorBox5").html("Please Select City");
+$("#user_city").focus();
+return false;
+}
+else {
+$("#errorBox5").html("");
+}
+var user_area = $("#user_area").val();
+if(user_area==''){
+$("#errorBox3").html("Please Select Area");
+$("#user_area").focus();
+return false;
+}
+else {
+$("#errorBox3").html("");
+}
+var user_pincode = $("#user_pincode").val();
+if(user_pincode==''){
+document.getElementById(user_pincode).focus();
+return false;
+}
+var user_coming = $("#user_coming").val();
+var other_reason = $("#other_reason").val();
+if(user_coming == 'Marketing Team'){
+if(other_reason == ""){
+alert("Please enter executive mobile number");
+$("#other_reason").focus();
+return false;
+}
+if(other_reason.length<10){
+alert("Please enter 10-digit executive mobile number");
+$("#other_reason").focus();
+return false;
+}
+}
+if(!document.getElementById("terms").checked){
+$("#errorBox4").html("Please Accept Terms And Conditions");
+$("#terms").focus();
+return false;
+}
+else {
+$("#errorBox4").html("");
+}
+$("#register_submit").hide();
+$("#disable").show();
+// Returns successful data submission message when the entered information is stored in database.
+var dataString = '&user_mobileno='+ user_mobileno + '&user_firstname='+ user_firstname + '&user_city='+ user_city + '&user_area='+ user_area + '&user_pincode='+ user_pincode+ '&user_coming='+ user_coming+ '&other_reason='+ other_reason;
+//alert(dataString);
+  //AJAX code to submit form.
+  $('#processing').html('<img src="images/loading2.gif" alt=" " title="" id="loads" style="margin-left: 0PX; ">Loading...');
+  $.ajax({
+      type: "GET",
+      url: "user_registration_ajax.php",
+      data: dataString,
+      cache: false,
+      success: function(result){
+     if(result=='suc')    {
+              $("#user_mobileno").val('');
+              $("#user_firstname").val('');
+			  $("#user_city").val('');
+			  $("#user_area").val('');
+			  $("#user_pincode").val('');
+			  $("#user_coming").val('');
+			  $("#processing").hide();
+			  $("#register_submit").show();
+			  $("#disable").hide();
+			  $("#registerform").hide();
+			  $("#loginform").show();
+			  $("#Sucess").html("Password will sent your registerd mobile");
+       
+      }
+     else {
+		 $("#processing").hide();
+	  alert("Mobile Already Exist");
+	$("#disable").hide();
+	  $("#register_submit").show();
+      }
+  }
+               });
+return false;
+});
+});
+</script>
+<!--End of sign-up form-->
+<!--Starting log-in form-->
+<script type="text/javascript">
+  $(document).ready(function(){ 
+  
+$("#user_login").click(function(){
+var user_mobile = $("#user_mobile").val();
+if(user_mobile==''){
+//alert( "Please Select User Type!");
+$("#errorMobile").html("Please Enter Mobile Number");
+$("#user_mobile").focus();
+return false;
+}
+else {
+$("#errorMobile").html("");
+}
+var user_password = $("#user_password").val();
+if(user_password==''){
+$("#errorPassword").html("Please Enter Password");
+$("#user_password").focus();
+return false;
+}
+else {
+$("#user_password").html("");
+}
+
+var dataString = 'user_mobile='+ user_mobile + '&user_password='+ user_password;
+//alert(dataString);
+  //AJAX code to submit form.
+  $('#loginprocessing').html('<img src="images/loading2.gif" alt=" " title="" id="loads" style="margin-left: 0PX;">Loading...');
+  $.ajax({
+      type: "GET",
+      url: "user_login_ajax.php",
+      data: dataString,
+      cache: false,
+      success: function(result){
+     if(result=='user') {
+	  location.reload(true);
+      // window.location="#";
+        }
+		else if(result=='admin') {
+       window.location="adminpanel/index.php";
+        }
+	else {
+		 $("#loginprocessing").hide();
+		 $("#user_password").val('');
+	  alert('The Mobile or password you entered is incorrect.');
+      }
+  }
+               });
+return false;
+
+});
+});
+</script>
+<!--Ending log-in form-->
+<!--Starting Forgot-password-->
+<script type="text/javascript">
+$(document).ready(function(){ 
+ $("#forgotpass_submit").click(function(){
+var user_mobil123 = $("#user_mobil123").val();
+if(user_mobil123==''){
+//alert( "Please Select User Type!");
+$("#error12").html("Please Enter Mobile Number");
+$("#user_mobil123").focus();
+return false;
+}
+else {
+$("#error12").html("");
+}
+
+
+var dataString = 'user_mobil123='+ user_mobil123;
+//alert(dataString);
+  //AJAX code to submit form.
+  $('#processing').html('<img src="images/loading2.gif" alt=" " title="" id="loads" style="margin-left: 0PX;">Loading...');
+  $.ajax({
+      type: "GET",
+      url: "user_RecoverPassword_ajax.php",
+      data: dataString,
+      cache: false,
+      success: function(result){
+     if(result=='Sucess') {
+       $("#Success").show();
+         $("#success1").hide();
+	   $("#processing").hide();
+        }
+		
+     else {
+		  alert('The Mobile Not a Registered Mobile');
+		  $("#processing").hide();
+      }
+  }
+               });
+return false;
+
+});
+});
+</script>
+<!--Ending forgot-password-->
+<!--Start Enquery From-->
+<script>
+function enquery_form(){
+var contact_name=$("#contact_name").val();
+if(contact_name==''){
+$("#errorBox6").html("Please Enter User Name");
+$("#contact_name").focus();
+return false;
+} else{
+	$("#errorBox6").html("");
+}
+var contact_no=$("#contact_no").val();
+if(contact_no==''){
+$("#errorBox7").html("Please Enter Mobile Number");
+$("#contact_no").focus();
+return false;
+} else{
+	$("#errorBox7").html("");
+}
+if(contact_no.length<10){
+$("#errorBox7").html("Please Enter 10-digit Mobile Number");
+$("#contact_no").focus();
+return false;	
+}
+var contact_email=$("#contact_email").val();
+var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+if(contact_email==''){
+$("#errorBox8").html("Please enter Email id");
+$("#contact_email").focus();
+return false;
+} else{
+	$("#errorBox8").html("");
+}
+if(!emailReg.test(contact_email)) {  
+$("#errorBox8").html("Please enter valid email id");
+$("#contact_email").focus();
+return false;
+ } else{
+	$("#errorBox8").html(""); 
+ }
+var contact_message=$("#contact_message").val();
+if(contact_message==''){
+$("#errorBox9").html("Please Specify you are need");
+$("#contact_message").focus();
+return false;
+}
+else{
+	$("#errorBox9").html("");
+}
+// Returns successful data submission message when the entered information is stored in database.
+var message = '&contact_name='+ contact_name + '&contact_no='+ contact_no + '&contact_email='+ contact_email + '&contact_message='+ contact_message;
+//alert(message);
+$.ajax({
+      type: "GET",
+      url: "contactform_ajax.php",
+      data: message,
+      cache: false,
+      success: function(result){
+     
+       alert('Your Enquiry Sucessfully Submitted We will conact soon');
+         $("#contact_name").val('');
+              $("#contact_no").val('');
+			  $("#contact_email").val('');
+			  $("#contact_message").val('');
+			  
+  }
+               });
+return false;
+}	
+
+</script>
+<!--Ending Enquery Form--><!-- box popup--> 
+
+<script>jQuery(document).ready(function(){
+	  //alert("test");
+ $(".login").show();
+ $(".register").hide();
+ $(".forgot").hide();
+ $(".logins1").click(function(){
+ $(".login").show();
+ $(".register").hide();
+ $(".forgot").hide();
+ }); 
+ $(".registers1").click(function(){
+ $(".login").hide();
+ $(".register").show();
+ $(".forgot").hide();
+ }); 
+$(".login1").click(function(){
+ $(".login").show();
+ $(".register").hide();
+ $(".forgot").hide();
+ });
+ $(".register1").click(function(){
+$(".login").hide();
+$(".forgot").hide();
+$(".register").show();
+ });
+$(".forgot1").click(function(){
+ $(".login").hide();
+ $(".register").hide();
+ $(".forgot").show();
+ });
+});
+</script> 
+<script type="text/javascript">
        function isNumber(evt) {
     evt = (evt) ? evt : window.event;
     var charCode = (evt.which) ? evt.which : evt.keyCode;
@@ -1109,8 +754,7 @@ $(".other_reason1").show();
 }
     
     </script> 
-	
-	<script type="text/javascript">
+<script type="text/javascript">
  function loadarea(city){
  	
   if (window.XMLHttpRequest)
@@ -1125,14 +769,15 @@ $(".other_reason1").show();
   {
   if (xmlhttp.readyState==4 && xmlhttp.status==200)
     {
-  document.getElementById("divarea").innerHTML=xmlhttp.responseText;
+  document.getElementById("user_area").innerHTML=xmlhttp.responseText;
+  $('#user_area').trigger("chosen:updated");
     }
   }
 xmlhttp.open("GET","getareaajax.php?city="+city,true);
 xmlhttp.send(); 
 }
- </script>
-  <script type="text/javascript">
+ </script> 
+<script type="text/javascript">
  function loadpincode(pincode){
   if (window.XMLHttpRequest)
     {// code for IE7+, Firefox, Chrome, Opera, Safari
@@ -1152,43 +797,456 @@ xmlhttp.send();
 xmlhttp.open("GET","getpincodeajax.php?pincode="+pincode,true);
 xmlhttp.send(); 
 }
- </script> 
-</header>  <div class="clear"></div>
-  <!-- Breadcrumb SecTion -->
-  <div class="breadcrumb-sec " style="background: url(wp-content/uploads/Sub-header.jpg) center top  #e9e9e9; min-height:203px!important;    "> 
-    <!-- Container -->
-    <div class="absolute-sec">
-      <div class="container">
-        <div class="cs-table">
-          <div class="cs-tablerow"> 
-            <!-- PageInfo -->
-            <div class="pageinfo page-title-align-left">
-              <h1 style="color:#ffffff !important">Privacy Policy</h1>
-            </div>
-            <!-- BreadCrumb -->
-            <div class="breadcrumb">
-              <style scoped="">
-.breadcrumb ul li a,.breadcrumb ul li.active,.breadcrumb ul li:first-child:after{color:#fff!important}
-</style>
-              <div class="breadcrumbs">
-                <ul>
-                  <li><a href="#">Home</a></li>
-                  <li class="active">Privacy Policy</li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
+ </script>
+ <script type="text/javascript">
+        $(function(){
+		
+            //initially hide the textbox
+            $("#other_reason").hide();
+$(".other_reason1").hide();
+
+            $('#user_coming').change(function() {
+              if($(this).find('option:selected').val() == "Marketing Team"){
+			  $(".other_reason1").show();
+                $("#other_reason").show();
+              }else{
+$(".other_reason1").show();
+                $("#other_reason").hide();
+              }
+            });
+            $("#other_reason").keyup(function(ev){
+                  var othersOption = $('#i_n_r_reason').find('option:selected');
+                  if(othersOption.val() == "Marketing Team"){
+                    ev.preventDefault();
+                    //change the selected drop down text
+                    $(othersOption).html($("#other_reason").val()); 
+
+
+                  } 
+            });
+        });
+    </script>
+	<script type="text/javascript">
+       function isNumber(evt) {
+    evt = (evt) ? evt : window.event;
+    var charCode = (evt.which) ? evt.which : evt.keyCode;
+    if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+        return false;
+    }
+    return true;
+}
+    
+    </script>
+<script>
+ function ValidateAlpha(evt)
+    {
+        var keyCode = (evt.which) ? evt.which : evt.keyCode
+        if ((keyCode < 65 || keyCode > 90) && (keyCode < 97 || keyCode > 123) && keyCode != 32)
+         
+        return false;
+            return true;
+    }
+		
+</script>
+<style>
+#ms
+{ padding:0px !important;
+}
+ 
+  #loginbox .login-form {
+     padding: 25px;
+    
+}
+.main-section h6, .main-section h6 a{
+	      color: #303030!important;
+    text-align: center;
+}
+
+@media screen and (max-width: 480px) and (min-width: 100px){
+
+.rating_mobile{
+    position:relative !important;
+}
+   .main-section h6, .main-section h6 a{display:none;} 
+}
+
+
+
+
+
+
+/*rentalform*/
+@media (max-width: 991px) and (min-width: 768px) {
+.cs-form-element.column-input .radio-box1 li {
+	width: 44% !important;
+}
+}
+
+@media screen and (max-width: 480px) and (min-width: 100px) {
+.cs-form-element li input {
+	width: 6% !important;
+}
+}
+
+
+.modal  h1{    font-size: 22px;
+    margin: 0 0 8px;
+    text-align: center;
+    margin-top: 16px;
+}
+#serchs{          position: absolute;
+    top: 40px;
+    left: 9%;
+    width: 80%;
+    margin: 0px auto;
+}
+#loginform p{
+	margin-top:-11px;
+}
+
+ </style>
+ <style>
+@media screen and (max-width: 757px) and (min-width: 100px){
+#navButton
+{ display:none !important;
+} 
+a.btn-secondary, .btn-secondary {
+    background: none;
+    border: 2px solid #A08C80;
+    color: #101010;
+}
+	 
+}
+  </style>
+
+<script>
+function check_mm(){
+var other_reason=$("#other_reason").val();
+if(other_reason.length == 10){
+var message = 'other_reason='+ other_reason ;
+//alert(message);
+$.ajax({
+      type: "GET",
+      url: "checkmm_ajax.php",
+      data: message,
+      cache: false,
+      success: function(result){
+           if(result=='fal'){
+		  alert('Please enter valid MM Number');
+		  document.getElementById("register_submit").disabled=true;
+		 return false;
+	  } else{
+		  document.getElementById("register_submit").disabled=false;
+	  }
+  }
+               });
+return false;
+}	
+}
+</script><div class="main-section" id="ms">
+  <section> <img src="images/lifemadeeasy.jpg" alt="life made easy global" title="life made easy global" id="ban1">
+    <div id="serchs"> 
+      <!--<div class="regi"> 
+<a class="btn btn-secondary text-center registers1"  target="_blank"  data-dismiss="modal"  id="logins1" href="#logins" data-modal="#logins" data-toggle="modal" data-target="#logins" >Register</a><a class="btn btn-secondary text-center logins1"  target="_blank"   data-dismiss="modal"    href="#logins" data-modal="#logins" data-toggle="modal" data-target="#logins" >Login</a> 
+ </div>-->
+      <div class=" ">
+        <h2><a href="https://www.lifemadeeasyglobal.com"><img src="images/logo.png" class="img-responsive" alt="logo" id="nlogo"></a></h2>
+        
       </div>
     </div>
-  </div>
+  </section>
+  <style>
+@media screen and (max-width: 480px) and (min-width: 100px){
+.search-container input, #search_keywords, #search_location, .search-container button {
+    width: 100% !important;
+    margin-bottom: 5px;
+}
+}
+a.btn-secondary, .btn-secondary {
+    background: none;
+       border: 2px solid #FF9B49;
+    color: #b98d36;
+}
+.search-container{
+    background: rgba(193, 193, 193, 0.46);
+    border-radius: 6px;
+    box-shadow: 0 2px 0 0 #e5e5e5;
+    margin: 0 0 2em 0;
+    padding: 1.8em;
+    border: #9894A0 solid 1px;
+	}
+.search-container input {
+    font-weight: 500;
+    font-size: 18px;
+    float: left;
+    box-sizing: border-box;
+    border: none;
+    margin-right: 2%;
+    width: 44.5%;
+    float: left;
+}.search-container button {
+    background-color: #E66F0D;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    text-align: center;
+    height: 43px;
+    width: 7%;
+    position: relative;
+}
+</style>
+</div>
+<style>
+#registerss{ margin: -43px auto;
+    float: right;
+    background: #E66F0D;
+    border-radius: 28px; color: white !important;
+}
+#loginss{ margin: -43px auto;
+    float: right;
+    background: #E66F0D;
+    border-radius: 28px; color: white !important;
+}
+  #postings{     margin: -43px auto;
+    float: right;
+    background: #E66F0D;
+    border-radius: 28px; color: white !important;
+}
+#nlogo{ margin:7px auto; 
+}
+.regi{
+		display:none;}
+	@media screen and (max-width: 610px) and (min-width: 100px){
+	#postings {
+    margin: -23px auto;
+    float: right;
+    margin-right: 156px;
+    background: #E66F0D;
+    border-radius: 28px;
+    color: white !important;
+}
+	
+}
+
+@media screen and (max-width: 840px) and (min-width: 100px){
+	.regi{
+		display:block;    float: right;
+    margin-top: -38px;}
+	
+}
+
+@media screen and (max-width: 760px) and (min-width: 100px){
+	#ms .tested
+	{ width:100% !important; }
+	
+}
+
+@media screen and (max-width: 990px) and (min-width: 600px){
+	
+	
+}
+@media screen and (max-width: 480px) and (min-width: 100px){
+	
+	.localss{ width:100% !important;}
+	#ms .col-md-2
+	{ width:100% !important; }
+	.box .col-md-2 input[type="submit"]{margin-left: 20%;
+	}
+	#logins11{
+position: absolute;
+    top: -35px;
+    left: 45px;
+    width: 40% !important;
+}
+	#logins12{
+position: absolute;
+    top: -35px;
+    right: -26px;
+    width: 40% !important;
+} ul.actions {
+      margin: 0 !important;  
+}
+}
+
+@media screen and (max-width: 840px) and (min-width: 100px){
+	.regi{
+		display:block;    float: right;
+         margin-top: 10px;}
+	
+}
+
+ </style>
+<style>
+ #ban1 {
+    width: 100%;
+    height: 125px;
+}
+#serchs{          position: absolute;
+    top: 0px;
+    left: 9%;
+    width: 80%;
+    margin: 0px auto;
+} 
+.section-content {
+   width: 100%;
+    }
+/*#nlogo{ margin:-30px auto; 
+}#ban1 {
+    width: 100%;
+    height: 260px;
+}*/
+ 
+ </style>
+<style>
+@media screen and (max-width: 1200px) and (min-width: 980px){
+ #services1 .cat-inner a:nth-child(2) {
+    color: #CF1F27;
+    font-size: 13px;
+    font-weight: bold;
+}.cat-inner a:nth-child(2) {
+    color: #111010;
+    font-size: 14px;
+    margin-right: 12px;
+}
+}
+#sdf1
+{
+ margin-top: -35px;margin-bottom: 0px;border-top: 0px #e0e0e0 solid;border-bottom: 0px #e0e0e0 solid;background: #f5f5f5;
+}
+.col-md-3 a{ 
+font-style: normal;
+}
+#sdf{margin-top: 0px;padding-top: 60px;padding-bottom: 40px;  border-top: 0px solid #E0E0E0;
+border-bottom: 0px solid #E0E0E0;    background: #F5F5F5 url(images/bg-paper-white.png) repeat scroll 0% center;
+}
+ 
+#services1 .cat-inner a:nth-child(2) {
+    color: #CF1F27;
+}
+
+#splash div { margin: 30px; height:500px; }
+#asa{
+position: absolute;
+bottom: 0px;
+right: 12px;
+color: rgb(225, 101, 52);
+}
+#services1
+{    width: 23%;
+    padding: 10px 20px;
+    box-shadow: 0 0 5px;
+    margin: 10px 10px !important;
+    height: 208px; background: white;     border-radius: 5px;     background-color: white;
+    padding: 15px;
+ -webkit-box-shadow: 0px 0px 26px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 26px -4px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 26px -4px rgba(0,0,0,0.75);
+}
+
+#subss{    width: 98%;
+    padding: 10px 20px;
+    box-shadow: 0 0 5px;
+    margin: 10px 10px !important;
+    /*height: 233px;*/
+
+background: white;     border-radius: 5px;  background-color: white;
+-webkit-box-shadow: 0px 0px 26px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 26px -4px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 26px -4px rgba(0,0,0,0.75);
+	
+}
+#splash div {
+  
+  padding: 10px;
+  float: left;
+}
+
+#splash div h1 {
+  color: #fff;
+  margin: 0;
+  font-size: 24px;
+  text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+}
+
+#splash div h2 {
+  color: #fff;
+  margin: 0;
+  font-size: 18px;
+  text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+}
+
+  .cs_directory_categories ul li ul li a, #services1 .cs_directory_categories ul li ul li a {
+   color: #000;
+    
+}
+#subss .cat-inner a:nth-child(2) {
+    color: #CF1F27;
+}
+ 
+body #splash_nav li.active { background-color: #558b2f; }
+
+ 
+.cs_directory_categories ul li ul li a {
+    float: left;
+    font-size: 14px;
+}#subss ul li {
+    float: left;
+    line-height: 1.5;
+    list-style: outside none none;
+     
+    position: relative;
+ width: 25%;
+padding-right: 20px;
+}
+#immg
+{ width:100%;
+}
+#ms{ padding:0px ;}
+ 
+#ps{margin-top: -30px;padding-top: 60px;padding-bottom: 30px;     border-top: 0px #e0e0e0 solid;
+    border-bottom: 0px #e0e0e0 solid; background: #ffffff; 
+}
+#csd{    margin-top: -35px;}
+</style>
+ 
   <div class="clear"></div>
+  
+  <style>
+ .col-md-12{
+	  text-align:justify !important;
+	 
+	 
+ }
+#ppBody
+{
+    font-size:11pt;
+    width:100%;
+    margin:0 auto;
+    /*text-align:justify !important;*/
+}
+
+#ppHeader
+{
+    font-family:verdana;
+    font-size:21pt;
+    width:100%;
+    margin:0 auto;
+}
+
+.ppConsistencies
+{
+    display:none;
+}
+</style> 
   <!-- Main Content Section -->
   <main id="main-content"> 
     <!-- Main Section -->
     <div class="main-section">
       <div class="container">
-        <div class="row">
+        <div class="row conts">
           <aside class="page-sidebar">
             <div class="widget element-size-100 cs_ads_banner">
               
@@ -1224,20 +1282,79 @@ xmlhttp.send();
                                       
                                           <div class="panel-body">
                                           
-                                      
-                                       
-<p> We are committed to protect the privacy of all users and customers who visit or conduct business through our website or app and in line with the same this notice detailing our online information is provided.</p>
- <h3 style="  text-align: left;   color: rgb(200, 23, 27);  ">Collection of Personal information: </h3>
-<p> Personal information is collected from you to assist us render a higher degree of customer service. Flexibility is thus given to you for easy navigation through our products, and enabling easier access to our services. Personal information collected here is never used for any purpose other than the purposes listed here and hence does not infringe upon any personal rights therein. </p>
- <h3 style="  text-align: left;   color: rgb(200, 23, 27);  ">Information Collected:</h3>
-<p>The information we gather does not identify individual users but is used to analyze trends, for effective administration of our site. This is also to keep track of user movements within our site, and also to pool demographic statistics on our user base. Information is never used for any kind of marketing. </p>
- <h3 style="  text-align: left;   color: rgb(200, 23, 27);  ">Technologies and Cookies: </h3>
 
-<p> Our app/website uses cookies, web technologies and softwares to aid our understanding of the most popular components of our website, to identify visitor navigational patterns and time spent on the website. The statics so obtained by studying traffic patterns on our sites facilitate and strengthen our understanding of our customer base and helps us serve them better. These also enable us improve your usage experience by providing better convenience to you on each of your visit and use. </p>
- <h3 style="  text-align: left;   color: rgb(200, 23, 27);  ">Alterations to this Privacy Policy: </h3>
- <p>Business and customer surveys are an essential part of our operations. All our customers are encouraged to actively participate in our surveys since they provide us with valuable information which helps improve the delivery of our products and services. All user and customer responses are used only for the purposes of evaluating the quality of our services. </p>
-<p>Alterations or changes may be made to this privacy policy depending on our periodical reviews as best deemed fit. </p>
- 
+<div class="innerText">This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.<br></div><span id="infoCo"></span><br><div class="grayText"><strong>
+What personal information do we collect from the people that visit our blog, website or app?</strong></div><br><div class="innerText">
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, social security number or other details to help you with your experience.</div><br><div class="grayText"><strong>
+When do we collect information?</strong></div><br><div class="innerText">
+We collect information from you when you register on our site, subscribe to a newsletter, respond to a survey, Use Live Chat, Open a Support Ticket or enter information on our site.</div><br> <span id="infoUs"></span><br><div class="grayText"><strong>
+How do we use your information? </strong></div><br><div class="innerText">
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:<br><br></div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong>
+      To personalize user's experience and to allow us to deliver the type of content and product offerings in which you &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;are most interested.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong>
+      To improve our website in order to better serve you.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong>
+      To allow us to better service you in responding to your customer service requests.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong>
+      To administer a contest, promotion, survey or other site feature.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong>
+      To quickly process your transactions.</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong>
+      To ask for ratings and reviews of services or products</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong>
+      To follow up with them after correspondence (live chat, email or phone inquiries)</div><span id="infoPro"></span><br><div class="grayText"><strong>
+How do we protect visitor information?</strong></div><br><div class="innerText">
+We do not use vulnerability scanning and/or scanning to PCI standards..</div><div class="innerText">
+We only provide articles and information. We never ask for personal or private information like email addresses or credit card numbers.</div><div class="innerText">
+We use regular Malware Scanning.<br><br></div><div class="innerText">
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. </div><br><div class="innerText"> 
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.</div><br><div class="innerText">
+All transactions are processed through a gateway provider and are not stored or processed on our servers.</div><span id="coUs"></span><br><div class="grayText"><strong>
+Do we use 'cookies'?</strong></div><br><div class="innerText">
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</div><div class="innerText"><br><strong>
+We use cookies to:</strong></div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong>
+       Understand and save user's preferences for future visits.</div><div class="innerText"><br>
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.<br></div><br><div class="innerText">
+If you disable cookies off, some features will be disabled It won't affect the user's experience that make your site experience more efficient and some of our services will not function properly.</div><br><div class="innerText">
+However, you can still place orders.</div><br><span id="trDi"></span><br><div class="grayText"><strong>
+Third-party disclosure</strong></div><br><div class="innerText">
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+ However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.  </div><span id="trLi"></span><br><div class="grayText"><strong>
+Third-party links :</strong></div><br><div class="innerText"> We do not include or offer third-party products or services on our website.</div><span id="gooAd"></span><br><div class="blueText"><strong>
+Google: </strong></div><br><div class="innerText" style="text-align:none !important;">Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. 
+https://support.google.com/adwordspolicy/answer/1316548?hl=en <br><br></div><div class="innerText">
+We have not enabled Google AdSense on our site but we may do so in the future..</div><span id="calOppa"></span><br><div class="innerText"><br><strong>
+Authority:</strong></div><div class="innerText">
+Our Privacy Policy link includes the word 'Privacy' and can be easily be found on the page specified above.</div><div class="innerText">We have right to change our privacy policy at any reform with regards to our terms and conditions.<br>
+Users will be notified of any privacy policy changes:</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong>
+       On our Privacy Policy Page</div><div class="innerText">
+Users are able to change their personal information:</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong>
+      By emailing us</div><div class="innerText"><br><strong>
+How does our site handle do not track signals?</strong></div><div class="innerText">
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. </div><div class="innerText"><br><strong>
+Does our site allow third-party behavioral tracking??</strong></div><div class="innerText">
+It's also important to note that we do not allow third-party behavioral tracking</div><span id="coppAct"></span><br><div class="blueText"><strong>
+COPPA (Children Online Privacy Protection Act)</strong></div><br><div class="innerText">
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.<br><br></div><div class="innerText">
+We do not specifically market to children under 13.</div><span id="ftcFip"></span><br><div class="blueText"><strong>
+Fair Information Practices</strong></div><br><div class="innerText">
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.<br><br></div><div class="innerText"><strong>
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:</strong></div><div class="innerText">
+We will notify the users via email</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong>
+       Within 7 business days</div><div class="innerText">
+We will notify the users via in-site notification</div><div class="innerText">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>•</strong>
+       Other</div><div class="innerText"><br>
+We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.</div><span id="canSpam"></span><br><div class="blueText"><strong>
+CAN SPAM Act :</strong></div><br><div class="innerText"> The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.<br><br></div><div class="innerText"><strong>
+We collect your email address in order to:</strong></div><div class="innerText"><br><strong>
+To be in accordance with CANSPAM we agree to the following:</strong></div><div class="innerText"><strong><br>
+If at any time you would like to unsubscribe from receiving future emails, you can email us at</strong></div>
+and we will promptly remove you from ALL correspondence.
+Contacting Us
+If there are any questions regarding this privacy policy you may contact us using the information below.
+lifemadeeasyglobal.com
+Plot no: 84, Street no:7, Mamatha Nagar Colony, Nagole
+Hyderbad, Telangana 500068 
+India.
+info@lifemadeeasyglobal.com,
+80196 05555,
+Land Line: 040 6990 8990,
+Last Edited on 2016-03-19.
+<br><span id="ourCon"></span><br><div class="blueText"><strong>Contacting Us</strong></div><br><div class="innerText">If there are any questions regarding this privacy policy you may contact us using the information below.<br><br></div><div class="innerText">lifemadeeasyglobal.com</div><div class="innerText">Plot no: 84, Street no:7, Mamatha Nagar Colony, Nagole</div>Hyderbad, Telangana 500068 <div class="innerText">India</div><div class="innerText">info@lifemadeeasyglobal.com</div><div class="innerText">80196 05555</div><div class="innerText">Land Line: 040 6990 8990</div><div class="innerText"><br>Last Edited on 2016-03-19</div></div>
                                           </div>
                                       
                                       </div>
@@ -1260,27 +1377,28 @@ xmlhttp.send();
           </div>
         </div>
       </div>
-    </div>
-  </main>
+    </main></div>
+  
   <div class="clear"></div>
   <!-- Footer -->
   <div>
 <footer id="footer-sec">
   <div class="container">
-    <div class="row">
+    <div class="row conts">
       <aside class="widget col-md-3 widget_text">
         <div class="widget-section-title" id="footer1">
           <h1> Contact Us</h1>
         </div>
         <ul>
           <li><i class="icon-map-marker"></i>
-            <p>VGC ONLINE SERVICES PVT.LTD. </p>
+            <p><a href="http://www.vgconlineservices.com/" target="_blank">VGC ONLINE SERVICES PVT.LTD.</a> </p>
           </li>
-          <li><i class="icon-phone6"></i>
-            <p> 040-6990 8990 </p>
-          </li>
+          
           <li><i class="icon-mobile4"></i>
-            <p> +91 80 19 60 5555</p>
+            <p> +91 7842 319 319</p>
+          </li>
+<li><i class="icon-phone6"></i>
+            <p> 040-6990 8990 </p>
           </li>
           <li> <i class="icon-envelope4"></i>
             <p><a href="mailto:info@lifemadeeasyglobal.com">info@lifemadeeasyglobal.com</a></p>
@@ -1292,11 +1410,11 @@ xmlhttp.send();
           <h1> Our Services</h1>
         </div>
         <ul>
-          <li class="cat-item cat-item-43"><a href="property_list.php">Property</a> </li>
-          <li class="cat-item cat-item-12"><a href="hostels_list.php">Hostels</a> </li>
-          <li class="cat-item cat-item-43"><a href="sale_list.php">For Sale</a> </li>
-          <li class="cat-item cat-item-43"><a href="rental_list.php">For Hire</a> </li>
-          <li class="cat-item cat-item-10"><a href="jobs_list.php">Jobs</a> </li>
+          <li class="cat-item cat-item-43"><a href="properties-in-hyderabad.php">Property</a> </li>
+          <li class="cat-item cat-item-12"><a href="hostels-in-hyderabad.php">Hostels</a> </li>
+          <li class="cat-item cat-item-43"><a href="sale-offers-in-hyderabad.php">For Sale</a> </li>
+          <li class="cat-item cat-item-43"><a href="rental-services-in-hyderabad.php">For Rentals</a> </li>
+          <li class="cat-item cat-item-10"><a href="jobs-in-hyderabad.php">Jobs</a> </li>
         </ul>
       </aside>
       <aside class="widget col-md-3 recentblog_post">
@@ -1305,45 +1423,84 @@ xmlhttp.send();
         </div>
         <ul>
           <li class="cat-item cat-item-12"><a href="about.php">About Company</a> </li>
-          <li class="cat-item cat-item-328"><a href="agents.php">Our Agents</a> </li>
-          <li class="cat-item cat-item-43"><a href="comingsoon.php">Franchises</a> </li>
-          <!-- <li class="cat-item cat-item-10"><a href="servicess_list.php">All Services</a> </li> -->
+          <li class="cat-item cat-item-328"><a href="agents-in-hyderabad.php">Our Agents</a> </li>
+          <li class="cat-item cat-item-43"><a href="franchisers-in-hyderabad.php">Franchises</a> </li>
+          <li class="cat-item cat-item-10"><a href="investor.php" style="color:#DC143C !important;">Investors</a> </li> 
           <li class="cat-item cat-item-43"><a href="career.php">Careers</a> </li>
           <li class="cat-item cat-item-43"><a href="privacy.php">Privacy Policy</a> </li>
         </ul>
       </aside>
-      <aside class="widget col-md-3 widget_reviews">
+      <aside class="widget col-md-3 recentblog_post">
         <div class="widget-section-title" id="footer1">
-          <h1> Recent Events</h1>
+          <h1>Our projects</h1>
         </div>
         <ul>
-          <li>
-            <div class="infotext" itemprop="reviewRating">
-              <h6><a href="http://vhelp.org.in/" target="_blank">Child care Founds...</a></h6>
-              <div class="cs-rating"><span class="rating-box"></span></div>
-              <ul>
-                <li><span class="post">on</span> November 21, 2015.</li>
-                <li><span class="post_by">Posted by</span><a class="admin" href="#">Admin</a></li>
-              </ul>
-            </div>
-          </li>
-        </ul>
-      </aside>
+                    <li class="cat-item cat-item-12"><a href="http://vhelp.org.in/" target="_blank">V Help foundation</a> </li>
+          <li class="cat-item cat-item-328"><a href="http://www.ampmjob.com/" target="_blank">AMPM job</a> </li>
+          <li class="cat-item cat-item-43"><a href="http://www.janasamasya.com/" target="_blank">janasamasya</a> </li>
+          
+          <li class="cat-item cat-item-10"><a href="http://www.dialyourdrink.com/" target="_blank">dial your drink</a> </li>
+          
+               </ul>
+            </aside></div>
+          
+        
+      
     </div>
-  </div>
-</footer>
+  </footer></div>
+
 
 
 <style>
+#desc{min-height: 520px;
+}
+.paginate span.current {
+    margin: 2px;
+    padding: 7px 11px !important;
+    border: 1px solid #E66F0D !important;
+    font-weight: bold;
+    background-color: #E66F0D !important;
+    color: #FFF; text-decoration: none;
+    color: #666;
+ cursor: default !important;
+}
+.paginate{ float:right;
+}
+.paginate span.disabled {
+   padding: 7px 11px !important;
+    background-color: rgba(16, 16, 16, 0.52) !important;
+    color: #FFF !important;
+    border-color: #7D7D7D !important;
+    font-weight: bold !important;
+    cursor: default !important;
+    margin: 2px !important;
+    border: 1px solid #7D7D7D !important;
+    text-decoration: none;
+    color: #666;
+}
+
+.paginate a {
+    padding: 7px 11px !important;
+    background-color: #2e6ab1 !important;
+    color: #FFF !important;
+    border-color: #2b66a5 !important;
+    font-weight: bold !important;
+    cursor: pointer !important;
+    margin: 2px !important;
+    border: 1px solid #2E78A3 !important;
+    text-decoration: none;
+    color: #666;
+}
 .cs-rating span{  width:152% }
 #footer1 h1
-{color: #406FF6 !important;font-size:16px;
+{color: #406FF6 !important;font-size:19px;
 }
 #icoon
 { color:#fff;
 }
 .social-media li a{
 color:#cccccc;}
+.widget ul li a:hover{color:red !important;}
 </style>
 
 <!-- Bottom Section -->
@@ -1354,33 +1511,458 @@ color:#cccccc;}
         <div class="col-md-6">
           <nav class="footer-nav">
             <ul>
-              <li id="menu-item-2106" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page dropdown sub-menu current-menu-item dropdown sub-menu page_item dropdown sub-menu page-item-367 dropdown sub-menu current_page_item"><a href="index.php">Home</a></li>
-              <li id="menu-item-2107" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page"><a href="property_list.php">Property</a></li>
-              <li id="menu-item-2107" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page"><a href="hostels_list.php">Hostels</a></li>
-              <li id="menu-item-2108" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page"><a href="jobs_list.php">Jobs</a></li>
-              <li id="menu-item-2109" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page"><a href="services_list.php">Services</a></li>
+              <li id="menu-item-2106" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page dropdown sub-menu current-menu-item dropdown sub-menu page_item dropdown sub-menu page-item-367 dropdown sub-menu current_page_item"><a href="https://www.lifemadeeasyglobal.com/">Home</a></li>
+              <li id="menu-item-2107" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page"><a href="properties-in-hyderabad.php">Property</a></li>
+              <li id="menu-item-2107" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page"><a href="hostels-in-hyderabad.php">Hostels</a></li>
+              <li id="menu-item-2108" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page"><a href="jobs-in-hyderabad.php">Jobs</a></li>
+              <li id="menu-item-2109" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page"><a href="services-in-hyderabad.php">Services</a></li>
               <li id="menu-item-2110" class="menu-item dropdown sub-menu menu-item-type-post_type dropdown sub-menu menu-item-object-page"><a href="contact.php">Contact Us</a></li>
             </ul>
           </nav>
-          <p>© 2014-15 LifeMadeEasyGlobal.com All rights reserved.</p>
+          <p>© 2014-16 VGC Online Services Pvt Ltd All rights reserved.</p>
         </div>
         <div class="col-md-6">
           <div class="social-media">
             <ul>
+              <li> <a href="https://in.pinterest.com/venkymama/" title="" data-original-title="Pinterest" data-placement="top" class="colrhover" target="_blank"> <i class="icon-pinterest" id="icoon"></i> </a></li>
+              <li> <a href="https://plus.google.com/+LifeMadeEasyGlobalHyderabad" title="" data-original-title="Googleplus" data-placement="top" class="colrhover" target="_blank"> <i class="fa icon-google-plus" id="icoon"></i></a></li>
               <li> <a href="https://www.facebook.com/lifemadeeasyglobal/" title="" data-original-title="Facebook" data-placement="top" class="colrhover" target="_blank"> <i class="fa icon-facebook7 " id="icoon"></i> </a></li>
               <li> <a title="" href="https://twitter.com/Venkymama_com" data-original-title="Twitter" data-placement="top" class="colrhover" target="_blank"> <i class="fa icon-twitter2 " id="icoon"></i> </a></li>
              <!-- <li> <a   title="" id="icoon"  data-original-title="Google Plus" data-placement="top" class="colrhover" target="_blank"> <i class="fa icon-skype " id="icoon"></i> </a></li> -->
-              <li> <a href="http://in.linkedin.com/in/lifemadeeasyglobal" title="" data-original-title="Linkedin" data-placement="top" class="colrhover" target="_blank"> <i class="fa icon-linkedin4 " id="icoon"></i> </a></li>
+              <li> <a href="https://in.linkedin.com/in/lifemadeeasyglobal" title="" data-original-title="Linkedin" data-placement="top" class="colrhover" target="_blank"> <i class="fa icon-linkedin4 " id="icoon"></i> </a></li>
             </ul>
           </div>
         </div>
-        <a href="#" id="backtop"><i class="icon-angle-up" id="icoon"></i></a> </div>
+        <a href="#" id="backtop"><i class="icon-angle-double-up" id="icoon"></i></a> </div>
     </div>
   </div>
 </div>
-</div>
+
 <div class="clear"></div>
-</div>
-<!-- Wrapper End --> 
+
+
+
+
+
+
+<style>
+#ssdd{
+    position: absolute;
+    left: 270px;
+    top: -2px;
+    border: none;
+    background: none !important;
+    color: black;
+    height: 12px !important;
+    float: right;
+    width: 63px;
+    font-size: 19px;
+    transform: none !important;
+    box-shadow: none;
+}
+</style>
+
+
+
+
+
+<!-- contact form start -->
+<!--<div class="floating-form" id="contact_form">
+<div class="contact-opener">Contact Form</div>
+    <div class="floating-form-heading">Post Your Requirement <div class="contact-opener" id="ssdd"><img name="" src="images/CloseButton.png"   ></div></div>
+    <div id="contact_results"></div>
+    <div id="contact_body">
+	<form>
+	<span id="errorBox6" style="color:#FF0000"></span>
+        <div class="labelss"><span>Name <span class="required">*</span></span>
+        	<input type="text" name="contact_name" id="contact_name" required="true" class="input-field">
+			
+        </div>
+		<span id="errorBox7" style="color:#FF0000"></span>
+		 <div class="labelss"><span>Mobile No<span class="required">*</span></span>
+        	 <input type="text" name="contact_no" id="contact_no" maxlength="10" required="true" class="input-field" onkeypress="return isNumber(event)">
+			 </div>
+			 
+        <span id="errorBox8" style="color:#FF0000"></span>
+		<div class="labelss"><span>Email <span class="required">*</span></span>
+        	<input type="email" id="contact_email" name="contact_email" required="true" class="input-field">
+		</div>
+		
+          <div class="labelss"> <span>Regarding</span>
+            <select name="subject" class="select-field">
+            <option value="General Question">General Question</option>
+            <option value="Advertise">Advertisement</option>
+            <option value="Partnership">Partnership Oppertunity</option>
+            </select>
+        </div> 
+        	<div class="labelss"><span>Description<span class="required">*</span></span>
+        	<textarea name="contact_message" id="contact_message" class="textarea-field" required="true" placeholder="Specify your Requriment"></textarea>
+        </div>
+		<span id="errorBox9" style="color:#FF0000"></span>
+       <div class="labelss">
+        	 <input type="button" id="contact_submit" value="Submit" onclick="enquery_form();" style="    margin-top: 8px;">
+        </div>
+    </div>
+	</form>
+</div> -->
+<!-- contact form end -->
+<script type="text/javascript">
+$(document).ready(function(){ 
+
+	var _scroll = true, _timer = false, _floatbox = $("#contact_form"), _floatbox_opener = $(".contact-opener") ;
+	_floatbox.css("right", "-321px"); //initial contact form position
+	
+	//Contact form Opener button
+	_floatbox_opener.click(function(){
+		if (_floatbox.hasClass('visiable')){
+            _floatbox.animate({"right":"-321px"}, {duration: 300}).removeClass('visiable');
+        }else{
+           _floatbox.animate({"right":"0px"},  {duration: 300}).addClass('visiable');
+        }
+	});
+	
+	//Effect on Scroll
+	$(window).scroll(function(){
+		if(_scroll){
+			_floatbox.animate({"top": "30px"},{duration: 300});
+			_scroll = false;
+		}
+		if(_timer !== false){ clearTimeout(_timer); }           
+			_timer = setTimeout(function(){_scroll = true; 
+			_floatbox.animate({"top": "10px"},{easing: "linear"}, {duration: 500});}, 400); 
+	});
+	
+	
+	
+    
+    //reset previously set border colors and hide all message on .keyup()
+    $("#contact_form  input[required=true], #contact_form textarea[required=true]").keyup(function() { 
+        $(this).css('border-color',''); 
+        $("#result").slideUp();
+    });
+	
+});
+</script>
+<script type="text/javascript">
+       function isNumber(evt) {
+    evt = (evt) ? evt : window.event;
+    var charCode = (evt.which) ? evt.which : evt.keyCode;
+    if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+        return false;
+    }
+    return true;
+}
+    
+    </script>
+<style>
+
+/* floating box style */
+.floating-form {
+    max-width: 100%;    z-index: 9999999;
+    padding: 30px 10px 10px 26px;
+    font: 13px Arial, Helvetica, sans-serif;
+    background: #F9F9F9;
+    border: 1px solid #ddd;
+    right: 10px;
+    position: fixed;
+    box-shadow: -2px -0px 8px rgba(43, 33, 33, 0.06);
+    -moz-box-shadow: -2px -0px 8px rgba(43, 33, 33, 0.06);
+    -webkit-box-shadow:  -2px -0px 8px rgba(43, 33, 33, 0.06);
+	}
+.contact-opener {
+    position: absolute;
+    left: -71px;
+    transform: rotate(-90deg);
+    top: 100px;
+    background-color: #216288;
+    padding: 9px;
+    color: #fff;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.43);
+    cursor: pointer;
+    border-radius: 5px 5px 0px 0px;
+    -webkit-border-radius: 5px 5px 0px 0px;
+    -moz-border-radius: 5px 5px 0px 0px;
+    box-shadow: -2px -0px 8px rgba(43, 33, 33, 0.06);
+    -moz-box-shadow: -2px -0px 8px rgba(43, 33, 33, 0.06);
+    -webkit-box-shadow:  -2px -0px 8px rgba(43, 33, 33, 0.06);
+
+}
+.floating-form-heading{
+    font-weight: bold;
+    font-style: italic;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 10px;
+    font-size: 15px;
+    padding-bottom: 3px;
+}
+.floating-form .labelss{
+    display: block;
+    margin: 0px 0px 2px 0px;
+}
+.floating-form .labelss> span{
+    width: 100%;
+    font-weight: bold;
+    float: left;
+    padding-top: 8px;
+    padding-right: 5px;    margin-bottom: 8px;
+}
+.floating-form span.required{
+    color:red;
+}
+.floating-form .tel-number-field{
+    width: 40px;
+    text-align: center;
+}
+.floating-form  .long{
+    width: 120px;
+}
+.floating-form input.input-field{
+    width: 97%;
+   
+}
+
+.floating-form input.input-field,
+.floating-form .tel-number-field,
+.floating-form .textarea-field,
+ .floating-form .select-field{    float: none !important;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out; 
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    border: 1px solid #C2C2C2;
+    box-shadow: 1px 1px 4px #EBEBEB;
+    -moz-box-shadow: 1px 1px 4px #EBEBEB;
+    -webkit-box-shadow: 1px 1px 4px #EBEBEB;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    padding: 7px;
+    outline: none;
+}
+.floating-form .input-field:focus,
+.floating-form .tel-number-field:focus,
+.floating-form .textarea-field:focus,  
+.floating-form .select-field:focus{
+    border: 1px solid #0C0;
+}
+.floating-form .textarea-field{
+    height:100px;
+    width: 97%;
+}
+.floating-form input[type="button"],
+.floating-form input[type="submit"], .contact-opener {
+    -moz-box-shadow: inset 0px 1px 0px 0px #3985B1;
+    -webkit-box-shadow: inset 0px 1px 0px 0px #3985B1;
+    box-shadow: inset 0px 1px 0px 0px #3985B1;
+    background-color: #216288;
+    border: 1px solid #17445E;
+    display: inline-block;
+    cursor: pointer;
+    color: #FFFFFF;
+    padding: 5px 18px;
+    text-decoration: none;
+    font: 12px Arial, Helvetica, sans-serif;
+}
+.floating-form input[type="button"]:hover,
+.floating-form input[type="submit"]:hover, .contact-opener {
+    background: linear-gradient(to bottom, #2D77A2 5%, #337DA8 100%);
+    background-color: #28739E;
+}
+.floating-form .success{
+	background: #D8FFC0;
+	padding: 5px 10px 5px 10px;
+	margin: 0px 0px 5px 0px;
+	border: none;
+	font-weight: bold;
+	color: #2E6800;
+	border-left: 3px solid #2E6800;
+}
+.floating-form .error {
+	background: #FFE8E8;
+	padding: 5px 10px 5px 10px;
+	margin: 0px 0px 5px 0px;
+	border: none;
+	font-weight: bold;
+	color: #FF0000;
+	border-left: 3px solid #FF0000;
+}
+</style>
+
+  <style>
+a:hover
+{
+text-decoration:none; 
+}
+.cs-form-element li label {
+    color: #00B9F5;
+    float: left;
+    /* font-size: 13px; */
+    font-weight: 500;
+    margin: 0 0 5px;
+    text-transform: uppercase;
+    width: 100%;
+}body {
+    background-color: #F6F6F6;
+}
+
+.modal-open, .modal-open .navbar-fixed-top {
+  margin-right: 0 !important;
+padding-right:0px !important;
+}
+</style>
+
+<style>
+.colorr{     font-size: 17px;
+     
+    color: #E66F0D;
+}
+@media screen and (max-width: 480px) and (min-width: 100px){
+  .floating-form{padding: 30px 10px 10px 13px;}	
+}
+
+
+
+@media screen and (max-width: 600px) and (min-width: 100px){
+ #work{ width:100%;
+}
+
+	 
+}
+
+.sideb{width: 92%;  float: right;
+}
+.sidef1{width: 8%;  float: left;
+}
+.main-section p {
+    font: 14px;
+    color: #000000;
+    font-size: 15px;
+}
+
+#loginbox .login-form {
+    
+    height: auto;
+}
+
+.csuser_info>ul>li span {
+     
+    font-weight: normal !important;
+    font-size: 15px !important;
+}
+
+
+.sidef1 [class^="icon-"],.sidef1 [class*=" icon-"] {
+     
+    color: #E66F0D;
+}
+@media screen and (max-width: 760px) and (min-width: 100px){
+ #work1{margin-bottom:0px !important;}
+ 
+}
+@media (max-width: 767px){
+#footer-sec .widget[class*="col-md-"] {
+      margin-bottom: 0px !important; 
+}
+}
+
+.sidebar-search label {
+        font-weight: normal !important;    font-size: 12px !important;
+}
+</style>
+
+
+
+
+<!-- listing -->
+<style>
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
+.star-ratings-css {
+	unicode-bidi: bidi-override;
+	color: #c5c5c5;
+	font-size: 25px;
+	height: 25px;
+	width: 100px;
+	margin: 0 auto;
+	position: relative;
+	padding: 0;
+	text-shadow: 0px 1px 0 #a2a2a2;
+}
+.star-ratings-css-top {
+	color: #e7711b;
+	padding: 0;
+	position: absolute;
+	z-index: 1;
+	display: block;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+}
+.star-ratings-css-bottom {
+	padding: 0;
+	display: block;
+	z-index: 0;
+}
+.star-ratings-sprite {
+	background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2605/star-rating-sprite.png") repeat-x;
+	font-size: 0;
+	height: 21px;
+	line-height: 0;
+	overflow: hidden;
+	text-indent: -999em;
+	width: 110px;
+	margin: 0 auto;
+}
+.star-ratings-sprite-rating {
+	background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2605/star-rating-sprite.png") repeat-x;
+	background-position: 0 100%;
+	float: left;
+	height: 21px;
+	display: block;
+}
+</style>
+ 
+ 
+ <!-- Detail -->
+ <style>
+ .rating{
+                overflow: hidden;
+                vertical-align: bottom;
+                display: inline-block;
+                width: auto;
+                height: 30px;
+            }
+            .rating > input{
+                opacity: 0;
+                margin-right: -100%;
+            }
+            .rating > label{
+                position: relative;
+                display: block;
+                float: right;
+                background: url('star-off-big.png');
+                background-size: 24px 24px;
+            }
+            .rating > label:before{
+                display: block;
+                opacity: 0;
+                content: '';
+                width: 24px;
+                height: 24px;
+                background: url('star-on-big.png');
+                background-size: 24px 24px;
+                transition: opacity 0.2s linear;
+            }
+            .rating > label:hover:before,
+            .rating > label:hover ~ label:before,
+            .rating:not(:hover) > :checked ~ label:before{
+                opacity: 1;
+            }
+			.rates{
+				background: #EDE7E7;  padding: 10px;    margin-top: 10px;
+			}
+ </style>
 
 </body></html>
