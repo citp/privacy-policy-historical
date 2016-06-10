@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenweddingshoes.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221231035id_/http%3A//greenweddingshoes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenweddingshoes.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610193931id_/http%3A//greenweddingshoes.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Green Wedding Shoes Wedding Blog | Wedding Trends for Stylish + Creative Brides
+# Privacy Policy | Green Wedding Shoes | Weddings, Fashion, Lifestyle + Trave
 
 The privacy of you and every other reader of Green Wedding Shoes (GWS) is very important to us.  As such, we want to make sure you understand what information may be collected when you visit GWS, how we use it and what options you have when it comes to your information.  Our lawyers make some of the concepts sound more difficult than they really are, so we’ll try to simplify the main points whenever possible.
 
