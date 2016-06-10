@@ -1,74 +1,79 @@
-> *The following text is extracted and transformed from the embl.de privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embl.de privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/privacy_policy/index.html) for the most accurate reproduction.*
 
 # EMBL Privacy Policy - EMBL
 
 [ ](https://web.archive.org/index.php "Link to homepage")
 
-  * [Research](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/index.php "Research")
-    * [Research Units](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/units/index.html)
-      * [Cell Biology and Biophysics](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/units/cbb/index.html)
-      * [Developmental Biology](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/units/dev_biology/index.html)
-      * [Directors' Research](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/units/directors_research/index.html)
-      * [Genome Biology](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/units/genome_biology/index.html)
-      * [Structural and Computational Biology](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/units/scb/index.html)
-      * [Research at other EMBL Sites](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/units/other_sites/index.html)
-    * [Interdisciplinary Research](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/interdisciplinary_research/index.html)
-      * [Bioinformatics at EMBL](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/interdisciplinary_research/bioinformatics/index.html)
-      * [Chemistry at EMBL](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/interdisciplinary_research/chemistry/index.html)
-      * [Physics and Engineering at EMBL](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/interdisciplinary_research/physics_engineering/index.html)
-      * [Mathematics and Statistics at EMBL](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/interdisciplinary_research/maths_statistics/index.html)
-      * [EMBL Centres](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/interdisciplinary_research/centres/index.html)
-    * [Faculty](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/faculty/index.php)
-    * [Seminars](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/seminars/index.php)
-    * [Partnerships](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/partnerships/index.html)
+Heidelberg 
+
+Other Locations
+
+  * [Research](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/index.php "Research")
+    * [Research Units](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/units/index.html)
+      * [Cell Biology and Biophysics](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/units/cbb/index.html)
+      * [Developmental Biology](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/units/dev_biology/index.html)
+      * [Directors' Research](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/units/directors_research/index.html)
+      * [Genome Biology](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/units/genome_biology/index.html)
+      * [Structural and Computational Biology](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/units/scb/index.html)
+      * [Research at other EMBL Sites](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/units/other_sites/index.html)
+    * [Interdisciplinary Research](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/interdisciplinary_research/index.html)
+      * [Bioinformatics at EMBL](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/interdisciplinary_research/bioinformatics/index.html)
+      * [Chemistry at EMBL](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/interdisciplinary_research/chemistry/index.html)
+      * [Physics and Engineering at EMBL](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/interdisciplinary_research/physics_engineering/index.html)
+      * [Mathematics and Statistics at EMBL](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/interdisciplinary_research/maths_statistics/index.html)
+      * [EMBL Centres](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/interdisciplinary_research/centres/index.html)
+    * [Faculty](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/faculty/index.php)
+    * [Seminars](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/seminars/index.php)
+    * [Partnerships](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/partnerships/index.html)
     * [TARA OCEANS science](http://www.embl.de/tara_oceans "TARA OCEANS science")
-    * [Technology Transfer](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/tech_transfer/index.html)
-    * [Venture Capital](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/research/venture/index.html)
-  * [Services](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/services/index.html "Services")
-    * [Core Facilities](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/services/core_facilities/index.html)
+    * [Technology Transfer](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/tech_transfer/index.html)
+    * [Venture Capital](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/research/venture/index.html)
+  * [Services](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/services/index.html "Services")
+    * [Core Facilities](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/services/core_facilities/index.html)
     * [Bioinformatics Services](http://www.embl.de/research/interdisciplinary_research/bioinformatics/index.html "Bioinformatics Services")
-    * [Szilárd Library](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/services/library/index.html)
-  * [Training](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/training/index.php "Training")
-    * [EICAT](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/training/eicat/index.html)
-    * [EMBL International PhD Programme](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/training/eipp/index.html)
-    * [Postdoctoral Programme](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/training/postdocs/index.html)
-    * [Conferences and Courses](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/training/events/index.php)
-    * [EMBL Course and Conference Office](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/training/cco/index.html)
-    * [Undergraduates](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/training/undergraduates/index.html)
-    * [Visitors and Scholars](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/training/visitors_scholars/index.html)
-    * [Science for Schools](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/training/scienceforschools/index.html)
-    * [Collaborative Training Programmes](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/training/collaborative_training/index.html)
-  * [Jobs](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/jobs/index.php)
+    * [Szilárd Library](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/services/library/index.html)
+  * [Training](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/training/index.php "Training")
+    * [EICAT](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/training/eicat/index.html)
+    * [EMBL International PhD Programme](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/training/eipp/index.html)
+    * [Postdoctoral Programme](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/training/postdocs/index.html)
+    * [Conferences and Courses](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/training/events/index.php)
+    * [EMBL Course and Conference Office](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/training/cco/index.html)
+    * [Undergraduates](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/training/undergraduates/index.html)
+    * [Visitor Programme](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/training/visitor-programme/index.html)
+    * [Science for Schools](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/training/scienceforschools/index.html)
+    * [Collaborative Training Programmes](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/training/collaborative_training/index.html)
+  * [Jobs](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/jobs/index.php)
     * [Current vacancies](http://www.embl.de/jobs/searchjobs/index.php?newlang=1&loc=0&pos%5B%5D=0&srch_trm=&list=Search "Current vacancies")
-    * [Group Leader Recruitment](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/jobs/gl_recruitment/index.html)
-    * [Related opportunities](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/jobs/partners/index.html)
-    * [HR Excellence in Research](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/jobs/hr-excellence-in-research/index.html)
-  * [About Us](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/general_information/index.html "About Us")
-    * [General Information](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/general_information/index.html)
-    * [40th Anniversary](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/40th-anniversary/index.html)
-    * [Communication and Outreach](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/communication_outreach/index.html)
-    * [Science and Society](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/science_society/index.html)
-    * [Alumni Relations](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/alumni/index.html)
-    * [Resource Development](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/resource_dev/index.html)
-    * [Industry Relations](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/industry-relations/index.html)
-    * [International Relations](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/int_relations/index.html)
-    * [Administration](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/administration/index.html)
-    * [EMBL Archive](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/archive/index.html)
-    * [Contact](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/contact/index.html)
+    * [Group leader recruitment](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/jobs/gl_recruitment/index.html)
+    * [Related opportunities](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/jobs/partners/index.html)
+    * [HR Excellence in Research](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/jobs/hr-excellence-in-research/index.html)
+    * [Science4Refugees](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/jobs/science4refugees/index.html)
+  * [About Us](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/general_information/index.html "About Us")
+    * [General Information](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/general_information/index.html)
+    * [Public events](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/public-events/index.html)
+    * [Communication and Outreach](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/communication_outreach/index.html)
+    * [Science and Society](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/science_society/index.html)
+    * [Alumni Relations](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/alumni/index.html)
+    * [Support EMBL](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/support-embl/index.html)
+    * [Industry Relations](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/industry-relations/index.html)
+    * [International Relations](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/int_relations/index.html)
+    * [Administration](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/administration/index.html)
+    * [EMBL Archive](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/archive/index.html)
+    * [Contact](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/contact/index.html)
   * [Donate](http://www.embl.org/donate/index.php "Donate")
-  * [Staff services](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/staff_services/index.html "Staff services")
+  * [Staff services](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/staff_services/index.html "Staff services")
   * [Intranet](http://intranet.embl.de/index.php)
 
 
   * [Donate](http://www.embl.org/donate/index.php "Donate")
-  * [Staff services](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/staff_services/index.html "Staff services")
+  * [Staff services](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/staff_services/index.html "Staff services")
   * [Intranet](http://intranet.embl.de/index.php)
   * 
 
 
-The European Molecular Biology Laboratory (“EMBL”) is a basic research institute funded by public research monies from 21 member states (Austria, Belgium, Croatia, Czech Republic, Denmark, Finland, France, Germany, Greece, Iceland, Ireland, Israel, Italy, Luxembourg, the Netherlands, Norway, Portugal, Spain, Sweden, Switzerland and the United Kingdom) and associate member states Argentina and Australia.
+The European Molecular Biology Laboratory (“EMBL”) is a basic research institute funded by public research monies from more than 20 [member states](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/general_information/organisation/member_states/index.html "Member states"), including much of Europe and Israel, and two associate members, Argentina and Australia.
 
-Research at EMBL is conducted by approximately 95 independent groups covering the spectrum of molecular biology. The Laboratory is located on five sites: the main Laboratory in Heidelberg/Germany, and Outstations in Hinxton/England (the European Bioinformatics Institute), Grenoble/France, Hamburg/Germany, and Monterotondo/Italy near Rome. The cornerstones of EMBL’s mission are: to perform basic research in molecular biology; to train scientists, students and visitors at all postgraduate levels; to offer vital services to scientists in the member states; to develop new instruments and methods in the life sciences and to actively engage in technology transfer activities.
+Research at EMBL is conducted by more than 80 independent groups covering the spectrum of molecular biology. The Laboratory operates from five sites across Europe: the main Laboratory in Heidelberg/Germany, and Outstations in Hinxton/England (the European Bioinformatics Institute), Grenoble/France, Hamburg/Germany, and Monterotondo/Italy near Rome. The cornerstones of EMBL’s mission are: to perform basic research in molecular biology; to train scientists, students and visitors at all postgraduate levels; to offer vital services to scientists in the member states; to develop new instruments and methods in the life sciences and to actively engage in technology transfer activities.
 
 EMBL operates a number of websites in pursuance of its mission. In addition, scientists and others working at EMBL may publish their personal or group websites under the umbrella of the EMBL website. This EMBL Website Privacy Policy (“Policy”) describes our practices for handling personal information and communicated through official EMBL websites or received via e-mail.
 
@@ -82,7 +87,7 @@ Typical cases where we collect your personal data include when you register for 
 
 When you participate in, access or sign up to any of our scientific services, activities or online content, for instance if you create an account with one of our services, we may receive personal information about you. Depending on the activity, this can consist of information such as your name, email address and more rarely postal address, or your telephone or mobile number. In particular, if you submit data to one of our databases (e.g. the European Nucleotide Archive) or create an account on one of our project portals we require a valid email address to create the account. By submitting your details, you enable us to provide you with the services, activities or online content you select.
 
-We also use cookies (see [section vi](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/privacy_policy/index.html#cookies "EMBL Privacy Policy") below for details) and collect IP addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet) from visitors to our websites.
+We also use cookies (see [section vi](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/privacy_policy/index.html#cookies "EMBL Privacy Policy") below for details) and collect IP addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet) from visitors to our websites.
 
 ### Categories of personal data collected include the following:
 
@@ -137,7 +142,7 @@ EMBL will keep your personal data confidential. We will only disclose it when le
   * From time to time, we may share some information with our collaborators, for instance the [WTSI](http://www.sanger.ac.uk/ "Wellcome Trust Sanger Institute"), [NCBI](http://www.ncbi.nlm.nih.gov/ "National Center for Biotechnology Information"), [DDBJ](http://www.ddbj.nig.ac.jp/ "DNA Data Bank of Japan"), [SIB](http://www.isb-sib.ch/ "Swiss Institute of Bioinformatics"), [PIR](http://pir.georgetown.edu/ "Protein Information Resource"), etc. When submitting data to our databases you opt in to submitting some personal information and we assume that you have permission from your institution to submit these data.
   * Partner institutions, for example [DESY](http://www.desy.de/ "Deutsches Elektronen-Synchrotron") in Hamburg, the [ESRF](http://www.esrf.eu/ "European Synchrotron Radiation Facility") in Grenoble, in order to manage access to shared facilities, or more generally to collaborate scientifically
   * Law enforcement and government bodies, in exceptional circumstances
-  * As described in [section VII](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/privacy_policy/index.html#offensive-content "EMBL Privacy Policy") below.
+  * As described in [section VII](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/privacy_policy/index.html#offensive-content "EMBL Privacy Policy") below.
 
 
 
@@ -191,7 +196,7 @@ Please note that during your visits to our websites you may notice some cookies 
 
 ### d. EMBL cookies and how to reject cookies?
 
-A list of the main cookies that EMBL websites set (and what each is used for) together with ways to minimise the number of cookies you receive can be found at EMBL's [Cookie List and How To Reject Cookies](https://web.archive.org/web/20150905174559id_/http%3A//www.embl.de/aboutus/privacy_policy/cookies_list/index.html "EMBL cookies list").  
+A list of the main cookies that EMBL websites set (and what each is used for) together with ways to minimise the number of cookies you receive can be found at EMBL's [Cookie List and How To Reject Cookies](https://web.archive.org/web/20160610175436id_/http%3A//www.embl.de/aboutus/privacy_policy/cookies_list/index.html "EMBL cookies list").  
 
 TOP
 
