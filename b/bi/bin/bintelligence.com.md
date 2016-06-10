@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bintelligence.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128144059id_/http%3A//www.bintelligence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bintelligence.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610083125id_/http%3A//www.bintelligence.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Business Intelligence Group
 
