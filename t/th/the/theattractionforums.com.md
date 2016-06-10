@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theattractionforums.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211121901id_/http%3A//www.theattractionforums.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theattractionforums.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610200150id_/http%3A//www.theattractionforums.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Theattractionforums.com
 
@@ -16,9 +16,9 @@ All of the newsletters that are sent to you by Love Systems include an unsubscri
 If you have any questions or concerns regarding our privacy policy please direct them to [info@lovesystems.com](mailto:info@lovesystems.com). You may also send a letter to:
 
 Love Systems  
-1640 Wilcox Ave.  
-Hollywood, CA  
-90028
+Unit 900, 901 King St W  
+Toronto, ON  
+M5V-3H5
 
 Our site is hosted by ZeroLag Communications which can be reached at 1-877-ZERO-LAG with offices located at:
 
