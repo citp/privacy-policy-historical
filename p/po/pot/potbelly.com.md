@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117081338id_/http%3A//www.potbelly.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610145103id_/http%3A//www.potbelly.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Potbelly Sandwich Shop
 
@@ -54,11 +54,9 @@ You have several options for updating or changing your personal information and 
 • Follow the "unsubscribe" instructions at the bottom of email marketing communications  
 to opt-out of receiving promotional emails.  
 • Follow the "Update Your Information" instructions at the bottom of email marketing  
-communications to manage your contact information (SMS text, email and postal address) preferences.  
-• Text "STOP" to 43744 to opt-out from promotional SMS text messages.  
-• Contact us at [Talk To Us](https://web.archive.org/TalkToUs/Feedback.asp).
-
-You can usually choose to set your browser to warn you when a cookie is being sent or to remove or reject cookies. Each browser is a little different, so look at your browser help menu to learn the correct way to modify your cookie settings. If you choose to remove or reject cookies, it will affect many features or services on our Website.
+communications to manage your contact information (SMS text, email and postal  address) preferences.  
+• Text "STOP" to 55755 to opt-out from promotional SMS text messages.  
+• Contact us at [Talk To Us](https://web.archive.org/TalkToUs/Feedback.asp). You can usually choose to set your browser to warn you when a cookie is being sent or to remove or reject cookies. Each browser is a little different, so look at your browser help menu to learn the correct way to modify your cookie settings. If you choose to remove or reject cookies, it will affect many features or services on our Website.
 
 ## How to Contact Us
 
