@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dollargeneral.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907175037id_/http%3A//www.dollargeneral.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollargeneral.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610153939id_/http%3A//www.dollargeneral.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Dollar General
 
-Last Modified: February 2015
+Last Modified: November 2015
 
 This Privacy Policy explains how we collect, use and protect information gathered from Our Website and the choices you have regarding our use of that information.
 
@@ -40,7 +40,7 @@ Dollar General does not sell or rent your Personally Identifiable Information. D
 
 ## 5\. How do you use my Personally Identifiable Information?
 
-We will use your Personally Identifiable Information only:
+We will use your Personally Identifiable Information:
 
   * To communicate with you about your use of our Website;
   * To advise you of promotions, sales or other special opportunities, such as digital coupons offers; and
@@ -113,7 +113,10 @@ Information Relating to Services Provided by Our Service Providers
 ## 11\. How do I opt out of Dollar General programs?
 
   * If you receive an e-mail from Dollar General relating to any offer or promotion and wish to be removed from future e-mail contacts, you will have the option to do so by selecting a link located within that e-mail.
-  * If you select not to receive future e-mail solicitations, the only future e-mail communication you will receive from us will be in response to questions from you or to resolve any customer service issues you may have reported.
+  * If you select not to receive future e-mail solicitations, the only future e-mail communication you will receive from us will be in response to questions from you or to resolve any customer service issues you may have reported or other business related matters.
+  * If you would like to remove yourself from the Dollar General Text message service, reply "STOP" to an incoming message or send the word "STOP" to 34898.
+  * If you would like to stop the eReceipt service, you can do so in the settings area for DG Digital Coupons.
+  * If you would like to remove your Digital Coupon account, visit: <http://www.dollargeneral.com/dcfeedback>.
 
 
 
@@ -129,7 +132,7 @@ Some browsers have a "do not track" feature that may transmit "do not track" sig
 
 If you are a California resident you have the right to request and receive information regarding the disclosure of your Personally Identifiable Information by Dollar General or any of our affiliates to a third party for its direct marketing purposes. Any such requests for information can be made by sending an email to [privacypolicy@dollargeneral.com](mailto:privacypolicy@dollargeneral.com) or by writing us at:
 
-Dollar General Corporation,  
-100 Mission Ridge,  
-Goodlettsville, TN 37072,  
+Dollar General Corporation  
+100 Mission Ridge  
+Goodlettsville, TN 37072  
 Attn: Marketing Department. 
