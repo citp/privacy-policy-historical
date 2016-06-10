@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210045202id_/http%3A//www.careers.govt.nz/about-careers-nz/about-this-site/website-policies/%23c22459) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610111807id_/http%3A//www.careers.govt.nz/about-careers-nz/about-this-site/website-copyright-privacy-disclaimers) for the most accurate reproduction.*
 
 # Website copyright, privacy and disclaimers
 
