@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dealspotr.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054608id_/https%3A//dealspotr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealspotr.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610033739id_/https%3A//dealspotr.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Dealspotr
+# Privacy Policy | Dealspotr
 
-##### Last Updated: 9/2/2014
+Last Updated: 9/2/2014
 
 The operator of this service, ZipfWorks, Inc (hereafter, "ZipfWorks," "we," "us" or "our") is committed to protecting the privacy of its users – namely, those individuals who navigate and use this service and other ZipfWorks services, including, Knoji.com, Dealspotr.com, StyleSpotter.com, DayFire.com, ZipfWorks.com and ZipfCommerce.com (hereafter, collectively referred to as “Users” or “you”). This Privacy Policy applies to all of our websites (including Knoji.com, Dealspotr.com, StyleSpotter.com, DayFire.com, ZipfWorks.com and ZipfCommerce.com), mobile applications and the services offered through those websites and mobile applications, including online referral services, information resources, product information, social networking services, shopping features, coupons, reviews, ratings, forums, and email services(collectively, the “Services”). We collect information about you through our websites in an effort to improve your experience and to communicate with you about our services, contests and promotions offered by our websites. As described in this Privacy Policy, we may share your information within ZipfWorks’ network of websites and mobile applications, and under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular service.
 
@@ -10,11 +10,11 @@ Please note ZipfWorks is not responsible for the privacy practices of third part
 
 ZipfWorks reserves the right, at our discretion, to change, modify, add or remove portions of this Privacy Policy at any time. If we change any portions of its Privacy Policy, the changes will be updated on this Privacy Policy page and Users should periodically review our Privacy Policy page for any such changes.
 
-##### Your Agreement
+### Your Agreement
 
 Your use of any of our websites or Services evidences your agreement to the terms of this Privacy Policy. PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND THE WEBSITE’S [TERMS OF USE](https://web.archive.org/terms) IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.
 
-##### Information We Collect and How We Use It
+### Information We Collect and How We Use It
 
 There are a number of services offered by this website that do not require you to register for an account or provide any personally identifiable information to us, such as viewing articles and reviews and information about our Services. However, in order to access certain Services, we may require you to register and/or create an account with us and collect the following types of information of personally identifiable information from you: first and last name, mailing address, e-mail address, telephone number, social security number, and date of birth. For certain services, such as our advertising or user submission (e.g. coupon codes, review, etc.) programs, we also request credit card or other payment account information (including PayPal account information) which we maintain in encrypted form on secure servers. (All of the foregoing personally identifiable information shall be referred to hereafter as “Personal Information.”)
 
@@ -28,7 +28,7 @@ In addition to using your Personal Information to provide the Services, we may a
 
 Non-Personally Identifiable Information is information that does not identify a specific User. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to the Website, the URL of the website you visit after leaving the Website, the type of browser you are using, your Internet Protocol (“IP”) address, occupation, language, unique device identifier, approximate geographic location, and the time zone. We, and/or our authorized third party service providers and advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like cookies and web beacons or pixel tags or location based capabilities on your mobile device. We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized third party service providers and advertisers to measure the overall effectiveness of our online advertising, content, and programming. In certain limited instances, we may combine certain Non-Personally Identifiable Information with other identifiers in order to confirm your identity as part of the registration process for the Website. For example, we may combine an approximate geographic obtained from a User's mobile device and match it with address information the User voluntarily submitted to the Website in order to confirm the User's identity and prevent fraudulent conduct. Notwithstanding, this information would still be considered Non-Personally Identifiable Information when it is taken alone or combined only with other non-identifying information (for example, the type of web browser used by the User).
 
-##### Cookie Policy
+### Cookie Policy
 
 Cookies and how we use them
 
@@ -72,7 +72,7 @@ First Party
 
 landingUrl
 
-http://dealspotr.com
+https://dealspotr.com
 
 .dealspotr.com
 
@@ -126,7 +126,7 @@ Third Party Websites – We offer some of Services in connection with goods, ser
 
 Links – ZipfWorks may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. For more information about links and redirected URLs, please see our FAQs. This Privacy Policy applies to our websites and Services.
 
-##### Other Sharing of User Information
+### Other Sharing of User Information
 
 ZipfWorks only process Personal Information and Non-Personally Identifiable Information about Users (collectively referred to hereafter as "User Information") for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the circumstances described above, ZipfWorks may also share, release and/or disclose User Information to outside parties in the following circumstances:
 
@@ -145,7 +145,7 @@ As discussed above, you can always choose not to provide User Information, altho
 
 If you register for an account or otherwise submit User Information to the website or through the Services, we will send you administrative email messages. We will send you information regarding your account activity and transactions with us, as well as updates about our Services and promotional offers. You cannot opt-out of these Administrative Emails. "Administrative Emails" relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails solely function to advertise our Services, including sales and other offers by Third Party Websites, Third Party Service Providers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at [contact@zipfworks.com](mailto:contact@zipfworks.com), by writing to us at the address contained herein, or by hitting the "unsubscribe" button at the bottom of any of our e-mails.
 
-##### User Information Security
+### User Information Security
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
@@ -155,31 +155,31 @@ Unfortunately, no data transmission over the Internet or any wireless network ca
 
 Account Information and other password-protected areas of our websites can be accessed only with a valid user name and password. Each password owner is responsible for keeping the password confidential and safe, as ZipfWorks has no control or responsibility for this type of User Information. If the password may have been stolen or might otherwise be misused, it is the responsibility of the subject User to notify ZipfWorks immediately for further action.
 
-##### Public Areas of Our Websites
+### Public Areas of Our Websites
 
 We may provide areas on the website where you can publicly post information about yourself, can communicate with others such as discussion boards or blogs, or can review products, and submit media content. By engaging in such conduct, you acknowledge your understanding that any such information you supply may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others throughout the world. For example, if you post your email address along with a product or service review, you may receive unsolicited messages from other registered users. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information. We do obtain consent from our users to post their name along with their reviews.
 
-##### Children
+### Children
 
 Minors (those under the age of 18) may not use the Website. We do not knowingly collect personal information from anyone under the age of 18, and no part of the website is designed to attract anyone under the age of 18. Because we do not intentionally collect any information from children under the age of 18, we also do not knowingly share or disclose such information to third parties. If you have reason to believe that a child under 18 years of age has provided us with information, please contact us at [contact@zipfworks.com](mailto:contact@zipfworks.com)and we will take appropriate action under applicable law.
 
-##### Data Integrity
+### Data Integrity
 
 ZipfWorks processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
-##### Accessing and Updating Account Information
+### Accessing and Updating Account Information
 
 When you use ZipfWorks Services (including create an account through one of our websites), we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
 
-##### Enforcement
+### Enforcement
 
 ZipfWorks regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or ZipfWorks' treatment of User Information by contacting us at contact@ZipfWorks.com. When we receive formal written complaints at this address, it is ZipfWorks’ policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between ZipfWorks and an individual.
 
-##### For Users Outside of the United States Only
+### For Users Outside of the United States Only
 
 All ZipfWorks websites (including this website) are hosted in the United States. If you are a User accessing our websites from the European Union, Australia, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, you are transferring your personal data to the United States which may not have the same data protection laws as such other regions. By providing User Information to any ZipfWorks websites, you are consenting to the transfer of your information to the United States for processing and maintenance in accordance with this Privacy Policy and the website's Terms of Use. You are also consenting to the application of United States law in all matters concerning ZipfWorks' websites and/or Services.
 
-##### For California Residents Only
+### For California Residents Only
 
 California Civil Code Section 1798.83 permits users who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. In general, this information would include a list of the categories of Personal Information that was shared and the names and addresses of all third parties with which the business disclosed and shared information in the preceding calendar year. To make such a request, please write to us at the following address:
 
@@ -188,14 +188,14 @@ Legal Department
 2425 Olympic Blvd. Suite 160E  
 Santa Monica, CA 90404
 
-##### LEGAL DISCLAIMER
+### LEGAL DISCLAIMER
 
 ZipfWorks websites operate "AS-IS" and "AS-AVAILABLE," without warranties of any other kind. We are not responsible for events beyond our direct control. This Privacy Policy is governed by the laws of the State of California, excluding conflicts of law principles. Any legal actions against ZipfWorks arising out of or related to our websites or Services must be commenced in the county of Los Angeles in the state of California in the United States of America.
 
-##### CONTACT US
+### CONTACT US
 
 If you have any questions about this Privacy Policy, or the practices of or your dealings with our websites, please email us at contact@zipfworks.com or write to us at:
 
-ZipfWorks, Inc  
-2425 Olympic Blvd. Suite 160E  
+ZipfWorks, Inc.  
+1601 Cloverfield Blvd. Suite 1050N  
 Santa Monica, CA 90404
