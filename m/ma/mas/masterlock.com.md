@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223040416id_/http%3A//www.masterlock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610030137id_/http%3A//www.masterlock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Master Lock
 
@@ -101,4 +101,4 @@ Phone: 1-800-464-2088
 
 From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-© 2015 Master Lock Company LLC. All rights reserved.
+© 2016 Master Lock Company LLC. All rights reserved.
