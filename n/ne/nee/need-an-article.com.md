@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the need-an-article.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127141359id_/http%3A//needanarticle.com/index2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the need-an-article.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610174723id_/http%3A//needanarticle.com/index2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Need an Article Privacy page Need An Article – Article Writing Service
 
