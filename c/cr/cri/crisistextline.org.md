@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the crisistextline.org privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024164435id_/http%3A//www.crisistextline.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crisistextline.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610031855id_/http%3A//www.crisistextline.org/privacy%23privacy) for the most accurate reproduction.*
 
 # Crisis Text Line | Crisis Text Line
 
-Last Updated: August 3, 2015, 5:32 pm EST
+Last Updated: May 16, 2016 at 3:30 pm EST
 
 **IF YOU ARE IN DANGER OR NEED EMERGENCY HELP, CALL 911 OR YOUR LOCAL AUTHORITIES.**
 
 ## Scope; Acceptance of Terms and Conditions (“Terms”)
 
-Before using CTL, please read the following. By accessing or using CTL you agree to the Terms and privacy policy (“Privacy Policy”) described below. These Terms govern your access and use of CTL. You may contact CTL by e-mail at info@crisistextline.org with questions about these Terms. If you don’t agree to the Terms, you may not use CTL. You can find a list of other hotlines at [CrisisTextLine.org/hotlines](http://crisistextline.org/hotlines).
+Before using CTL, please read the following. By accessing or using CTL you agree to the Terms of Service (“Terms”) and Privacy Policy (“Privacy Policy”) described below. These Terms govern your access and use of CTL. You may contact CTL by e-mail at info@crisistextline.org with questions about these Terms. If you don’t agree to the Terms, you may not use CTL. You can find a list of other hotlines at [CrisisTextLine.org/hotlines](http://crisistextline.org/hotlines).
 
 ## Modification of the Terms and Privacy Policy
 
@@ -26,9 +26,9 @@ CTL and any of our employees, Crisis Counselors, or agents are not responsible f
 
 ## Risks, Use of Service
 
-You assume all risk for use of this service. CTL and any of our employees, Crisis Counselors, or agents have no liability for actions taken by you or a third party, or not taken by you or a third party, and you agree to indemnify us and hold us harmless for damages arising out of (1) your use of CTL, (2) your breach of these Terms, (3) your violation of the law, (4) claims asserted by third parties, which, if proven, would place you in breach of these Terms or (5) information provided by you through CTL. Without limiting the foregoing, in no event shall CTL be liable for any special, incidental, consequential, exemplary or indirect damages.
+You assume all risk for use of this service. CTL and any of our employees, Crisis Counselors, agents, service providers, or any other entities with whom CTL has contracted shall have no liability for (1) actions taken by you or a third party, or not taken by you or a third party, or (2) the unavailability of this service, and you agree to indemnify us and hold us harmless for damages arising out of (1) your use of CTL, (2) your breach of these Terms, (3) your violation of the law, (4) claims asserted by third parties, which, if proven, would place you in breach of these Terms or (5) information provided by you through CTL. Without limiting the foregoing, in no event shall CTL be liable for any special, incidental, consequential, exemplary or indirect damages.
 
-This service is provided on an “as is” basis and “as available” basis. (But we try to be awesome and we are constantly improving.) CTL expressly disclaims all warranties of any kind, whether express or implied, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose and non-infringement, and, without limiting the generality of the foregoing, makes no warranty that CTL will a) meet your requirements; b) be uninterrupted, timely, secure, or error-free; or c) meet your expectations. The foregoing disclaimers of liability apply to all damages or injury, including those caused by any failure of performance, error, omission, interruption, deletion, defect or delay in operation or transmission, whether for breach of contract, tortious behavior, including negligence, or any other cause of action.
+This service is provided on an “as is” basis and “as available” basis. (But we try to be awesome and we are constantly improving.) CTL and its service providers expressly disclaim all warranties of any kind, whether express or implied, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose and non-infringement, and, without limiting the generality of the foregoing, makes no warranty that CTL will a) meet your requirements; b) be uninterrupted, timely, secure, or error-free; or c) meet your expectations. The foregoing disclaimers of liability apply to all damages or injury, including those caused by any failure of performance, error, omission, interruption, deletion, defect or delay in operation or transmission, whether for breach of contract, tortious behavior, including negligence, or any other cause of action.
 
 ## Prohibited Uses; Right to Terminate Access
 
@@ -65,7 +65,7 @@ We take your privacy and security very seriously, so we employ reasonable securi
 
 Additionally, we care about the privacy and safety of our staff and Crisis Counselors. In using this service, you agree to not communicate with our Crisis Counselors outside of the service that CTL provides. If you have questions, comments or feedback for us, please email info@crisistextline.org.
 
-Last Updated: Jan 26, 2015, 6:05 pm EST
+Last Updated: February 9, 2016 at 4:10 pm EST
 
 ## INTRODUCTION; SCOPE
 
@@ -81,11 +81,11 @@ This Privacy Policy governs your use of CTL, describes what information we colle
 
 By using CTL, you agree to the practices outlined in this Privacy Policy. CTL may change this Privacy Policy from time to time, so please consult it regularly for any such changes. Any changes will be effective immediately upon our posting them to our website at CrisisTextLine.org. Your use of CTL after any such changes have been posted shall constitute your acceptance of the revised Privacy Policy and Terms.
 
-Each time that you first send a text message to CTL, you’ll receive a couple automated reply text message(s) with a link to our current Terms and Privacy Policy so you may review them before continuing to use CTL, Using CTL after receiving those text message(s) shall constitute your acceptance of the Terms and Privacy Policy.
+Each time that you first send a text message to CTL, you’ll receive a couple automated reply text message(s) with a link to our current Terms and Privacy Policy so you may review them before continuing to use CTL, using CTL after receiving those text message(s) shall constitute your acceptance of the Terms and Privacy Policy.
 
 ## COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION
 
-“Personally Identifiable Information” is data that can be used to uniquely identify you, such as your full name or home address. During your use of CTL you may be prompted (but never required) to voluntarily provide Personally Identifiable Information, including but not limited to, your home address or email address.
+“Personally Identifiable Information” is data that can be used to uniquely identify you, such as your full name or home address. During your use of CTL you may be prompted (but never required) to voluntarily provide Personally Identifiable Information, including but not limited to, your home address or email address. We will ONLY ask for this if we believe it would help us to better serve you.
 
 While we may collect Personally Identifiable Information, we will not sell or license to any third party any Personally Identifiable Information we receive from you, and will not share it with any third parties except as noted below.
 
@@ -131,11 +131,11 @@ At times we may make certain Personally Identifiable Information available to st
 
 It’s our goal to support you in staying safe and healthy and to do so in the least invasive way possible (read: we don’t want to intrude in your life!). If a crisis counselor identifies imminent harm to yourself or someone else (you have the desire, plan, and means) or suspects abuse or neglect, they let you know they’re concerned about your safety. At this point, they might ask you where you are or what your name is. They’ll continue to work to support you, and if they feel like you might not be able to keep yourself safe, they may contact local police or EMS. We’re not here to tell on you, or rat you out, but we are here to do our best to support you in staying healthy and safe.
 
-### PARTICIPATING CRISIS CENTERS; Crisis Counselors
+### CRISIS COUNSELORS
 
-We operate CTL in conjunction with participating crisis centers and their subcontractors (“CCs”) and volunteer and staff crisis counselors (“Crisis Counselors”). The CCs provide staff and/or Crisis Counselors to help you and supervisors to help monitor CTL activity. Any information, including Personally Identifiable Information, that you share with CTL may be viewed by CTL staff, CCs, or Crisis Counselors for quality control and to better assist you with your crisis.
+We operate CTL in conjunction with volunteer and staff crisis counselors (“Crisis Counselors”). Any information, including Personally Identifiable Information, that you share with CTL may be viewed by CTL staff or Crisis Counselors for quality control and to better assist you with your crisis.
 
-If you provide feedback through an anonymous feedback survey, that feedback may also be shared with CTL, CCs, and Crisis Counselors. We want to provide an awesome service, so we are hungry to learn from your feedback!
+If you provide feedback through an anonymous feedback survey, that feedback may also be shared with CTL Staff and Crisis Counselors. We want to provide an awesome service, so we are hungry to learn from your feedback!
 
 ### OUTSIDE REFERRALS
 
@@ -143,13 +143,13 @@ Sometimes, we may refer you to another hotline or program. There are some really
 
 ### OTHER THIRD PARTIES; LEGAL PROCESSES
 
-In certain narrow circumstances, we may disclose Personally Identifiable Information we collect from you to additional third parties to the extent necessary to: (A) to comply with the law or in response to a subpoena, court order, government request, or other legal process; (B) to protect the interests, rights, safety, or property of CTL, its affiliates, employees, or agents, including but not limited to CCs and Crisis Counselors; (C) to enforce this Privacy Policy or Terms; (D) in connection with a merger, acquisition, liquidation, or corporate divestiture of CTL or its affiliates, or (E) to address fraud, security, technical issues, or to operate CTL or its infrastructure systems properly.
+In certain narrow circumstances, we may disclose Personally Identifiable Information we collect from you to additional third parties to the extent necessary to: (A) to comply with the law or in response to a subpoena, court order, government request, or other legal process; (B) to protect the interests, rights, safety, or property of CTL, its affiliates, employees, or agents, including but not limited to Crisis Counselors; (C) to enforce this Privacy Policy or Terms; (D) in connection with a merger, acquisition, liquidation, or corporate divestiture of CTL or its affiliates, or (E) to address fraud, security, technical issues, or to operate CTL or its infrastructure systems properly.
 
-Note that CTL’s staff, CCs, and Crisis Counselors are located across the United States, and may not be licensed in your state or trained in your state’s law. Other state laws may apply to your communications, and those state laws may not protect your communications to the same degree, or in the same way, as the laws of your state.
+Note that CTL’s staff and Crisis Counselors are located across the United States, and may not be licensed in your state or trained in your state’s law. Other state laws may apply to your communications, and those state laws may not protect your communications to the same degree, or in the same way, as the laws of your state.
 
-### ACADEMICS
+### RESEARCHERS
 
-Sometimes academics reach out to us and ask to look at our data for research purposes. We share data with trusted academics only when it will result in insights that create a better experience for our texters. We follow a set of best practices for data sharing based on the University of Michigan’s Interuniversity Consortium of Social and Political Research, one of the largest open data projects in the U.S., which includes stringent ethical, legal, and security checks. For more details, see our policies for [open data collaborations](http://www.crisistextline.org/open-data).
+As of Feb 16, 2016, we have created a formal process for sharing information about conversations with researchers at universities and other institutions. We share data with trusted researchers only when it will result in insights that create a better experience for our texters. We follow a set of best practices for data sharing based on the University of Michigan’s Interuniversity Consortium of Social and Political Research, one of the largest open data projects in the U.S., which includes stringent ethical, legal, and security checks. For more details, see our policies for [open data collaborations](http://www.crisistextline.org/open-data).
 
 ## RETENTION OF INFORMATION
 
@@ -157,10 +157,10 @@ CTL retains data for reasons including but not limited to improving the quality 
 
 Retention policies and security measures match the sensitivity of the data. We categorize data into three types, based on chance of containing Personally Identifiable Information:
 
-  * Direct Identifiers: Data may identify an individual on its own (e.g., phone number)
-  * Indirect Identifiers: Data may indirectly identify an individual in combination with other data (e.g., city and date of conversation)
+  * The first two, Conversation Level and Actor Level, do not contain Personally Identifiable Information. These will be retained indefinitely.
+  * The third, Message Level, may contain Personally Identifiable Information, including message content and phone number.This will be retained for 7 years, then scrubbed.
   * Non-Identifiers: Data could not identify an individual, directly or indirectly
-  * You may request more information about our data retention policies by contacting us at info@CrisisTextLine.org.
+  * You may request more information by contacting us at info@CrisisTextLine.org.
 
 
 
