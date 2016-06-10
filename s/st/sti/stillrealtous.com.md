@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stillrealtous.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211000444id_/http%3A//www.stillrealtous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stillrealtous.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610043400id_/http%3A//www.stillrealtous.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - StillRealToUs.com
 
