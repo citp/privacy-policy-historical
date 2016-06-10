@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the lawnsite.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210040913id_/http%3A//www.lawnsite.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawnsite.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610201646id_/http%3A//www.lawnsite.com/help/privacy-policy) for the most accurate reproduction.*
 
-# LawnSite.com Privacy Policy, Terms of Use, Contact Grand View Media
+# Privacy Policy | LawnSite
 
-  
+[ ](http://www.lawnsite.com/)
+
 **PRIVACY POLICY**   
 Grand View Media (GVM) has created this Privacy Policy (“Privacy Policy”) to demonstrate its commitment to fully disclosing the information collection and use practices applicable to this Internet Web site (the “Web site”).   
 **By using or accessing the Web site, you signify your acceptance of the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Web site, products and/or services and exit the Web site immediately.**   
@@ -68,7 +69,4 @@ Telephone: 802-748-8908
 Facsimile: (802) 748-1866   
 Email: privacy@grandviewmedia.com 
 
-_Last Revised 12/15_   
-
-
-2780749.1 
+_Last Revised 12/15_
