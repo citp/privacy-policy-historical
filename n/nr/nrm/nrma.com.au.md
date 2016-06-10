@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrma.com.au privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205140926id_/http%3A//www.nrma.com.au/help-information/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrma.com.au privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610081837id_/http%3A//www.nrma.com.au/help-information/privacy-security) for the most accurate reproduction.*
 
 # Privacy, Security & Identity Theft | NRMA Insurance
 
