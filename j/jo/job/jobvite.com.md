@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the jobvite.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909200644id_/http%3A//www.jobvite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobvite.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611005149id_/http%3A//www.jobvite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jobvite
 
-###### This Privacy Policy was last updated on August 6, 2015
+###### This Privacy Policy was last updated on May 23, 2016
 
 _This Privacy Policy (“Privacy Policy”) explains how Jobvite, Inc. (“Jobvite,” “we” or “us”) collect, use and share personally identifiable information of visitors of our web site  [www.jobvite.com](http://www.jobvite.com/) (the “Site”) and users of our on-demand recruitment application (the “Services”). The use of information collected through the Services shall be limited to the purpose of providing those Services to our customers. By using the Site and/or Services, you consent to the collection, use and disclosure of your personally identifiable information in accordance with this Privacy Policy._
-
-Jobvite, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with  and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software or our mobile application. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website: www.jobvite.com and our service platform associated with this website. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Jobvite.
-
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [admin@jobvite.com](mailto:admin@jobvite.com).  If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request)
-
-**U.S.–E.U. Safe Harbor**
-
-Jobvite complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.  Jobvite  has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.   To learn more about the Safe Harbor program, and to view Jobvite’s certification, please visit <http://www.export.gov/safeharbor/>
 
 **Information We Collect and How We Use It.**
 
@@ -138,7 +130,7 @@ Jobvite reserves the right to change this Privacy Policy from time to time. Jobv
 
 **Contact Us**
 
-We welcome your comments or questions concerning our Privacy Policy. If you would like to contact Jobvite regarding this Privacy Policy, please contact us by emailing us at [admin@jobvite.com](mailto:admin@jobvite.com), using out contact form at <http://web.jobvite.com/recruiting-contact-us-request.html>  or using the information below:
+We welcome your comments or questions concerning our Privacy Policy. If you would like to contact Jobvite regarding this Privacy Policy, please contact us by emailing us at [admin@jobvite.com](mailto:admin@jobvite.com), using our [Contact Us](http://www.jobvite.com/contact-us/) form or using the information below:
 
 By mail:  
 Jobvite, Inc.  
