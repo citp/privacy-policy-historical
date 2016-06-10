@@ -1,46 +1,32 @@
-> *The following text is extracted and transformed from the pioneer-audiovisual.eu privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912225237id_/http%3A//www.pioneer-audiovisual.eu/en/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneer-audiovisual.eu privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611001922id_/http%3A//www.pioneer-audiovisual.eu/eu/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pioneer
 
 **PIONEERS COMMITMENT TO PRIVACY**
 
-Your privacy is important to PIONEER EUROPE NV and its national sales subsidiaries and distributors in Europe and we respect your privacy and are committed to protecting it. To better protect your privacy we provide this notice explaining our privacy practices and the choices you can make about the way your personal information is collected and used.
+Your privacy is important to Pioneer & Onkyo Europe GmbH and its national sales subsidiaries and distributors in Europe and we respect your privacy and are committed to protecting it. To better protect your privacy we provide this notice explaining our privacy practices and the choices you can make about the way your personal information is collected and used.
 
 **This privacy notice applies to following websites :**
 
-www.pioneer.eu  
-www.pioneer.at  
-www.pioneer.be  
-www.pioneer.ch  
-www.pioneer.de  
-www.pioneer.dk  
-www.pioneer.es  
-www.pioneer.fi  
-www.pioneer.fr  
-www.pioneer.it  
-www.pioneer.nl  
-www.pioneer.no  
-www.pioneer.pt  
-www.pioneer-rus.ru  
-www.pioneer.se  
-www.pioneer.co.uk  
-www.ba.pioneer.eu  
-www.bg.pioneer.eu  
-www.pioneer.com.cy  
-www.pioneer-ncy.com  
-www.cz.pioneer.eu  
-www.pioneer.gr  
-www.hr.pioneer.eu  
-www.hu.pioneer.eu  
-www.ie.pioneer.eu  
-www.mk.pioneer.eu  
-www.pioneer.com.mt  
-www.ro.pioneer.eu  
-www.rs.pioneer.eu  
-www.pioneer.si  
-www.sk.pioneer.eu  
-www.pioneer.com.tr  
-secure.pioneer.eu
+pioneer-audiovisual.eu   
+pioneer-audiovisual.de  
+pioneer-audiovisual.at  
+pioneer-audiovisual.ch  
+pioneer-audiovisual.co.uk  
+pioneer-audiovisual.fr  
+pioneer-audiovisual.es  
+pioneer-audiovisual.it  
+pioneer-audiovisual.es  
+pioneer-audiovisual.nl  
+pioneer-audiovisual.be  
+pioneer-audiovisual.gr  
+pioneer-audiovisual.dk  
+pioneer-audiovisual.fi  
+pioneer-audiovisual.no  
+pioneer-audiovisual.pt  
+pioneer-audiovisual.ru  
+pioneer-audiovisual.se  
+pioneer-audiovisual.pl
 
 Your use of these websites implies your agreement and acceptance of the clauses of our Privacy Policy. If this is not the case, then we request you not to provide us with any personal information.
 
@@ -72,7 +58,7 @@ Despite these measures, whenever you provide personal information on the Interne
 
 In addition to the companies mentioned and for the purposes described above, we do not sell, trade or transfer your personal information in any form to third parties without informing you first and in accordance with the personal information protection legislation currently in effect.
 
-Your personal information may be transferred to outside contractors to provide services for us. They may be used to provide technical support. We require that these contractors keep your personal information secure and confidential. We also require that these contractors use personal information only on behalf of PIONEER EUROPE NV.
+Your personal information may be transferred to outside contractors to provide services for us. They may be used to provide technical support. We require that these contractors keep your personal information secure and confidential. We also require that these contractors use personal information only on behalf of Pioneer & Onkyo Europe GmbH.
 
 At all time you may opt out for the sharing of your personal information with third parties. This can be done via the account page of our online registration area.
 
@@ -103,15 +89,15 @@ Over time, we may opt to modify or update this policy either due to changes in l
 
 Should you have questions about this privacy policy, the privacy aspects of our products and services or would like to make a complaint, please contact :
 
-PIONEER EUROPE NV  
-European Emarketing Division - Privacy Office  
-Haven 1087 - Keetberglaan 1  
-B - 9120 Melsele  
-Belgium  
-Tel +32 (0)3 570 511  
-Fax +32 (0)3 570 895  
-email privacy@pioneer-eur.com
+Pioneer & Onkyo Europe GmbH  
+Zweigniederlassung Willich  
+Hanns-Martin-Schleyer-Straße 35  
+D-47877 Willich  
+GERMANY
+
+Fon: +49 (0) 2154 - 913-130  
+Fax: +49 (0) 02154 - 429-670
 
 **10\. Who administers the personal information?**
 
-Both our websites and the information collected are administered and controlled by PIONEER EUROPE NV. Our website servers and hosts are located in Belgium and The Netherlands. PIONEER EUROPE NV has signed agreements with the companies that host its websites in order to offer sufficient guarantees regarding the protection of your personal information. Personal information is administered in accordance with current legislation regarding the protection of personal information as well as this privacy policy. To ensure that your personal information is protected, PIONEER EUROPE NV has certified its privacy policy with the Belgian Privacy Commission, a commission overseeing whether the processing and use of personal information is compliant with the Belgian Data Protection Act.
+Both our websites and the information collected are administered and controlled by Pioneer & Onkyo Europe GmbH. Our website servers and hosts are located in Germany. Pioneer & Onkyo Europe GmbH has signed agreements with the companies that host its websites in order to offer sufficient guarantees regarding the protection of your personal information. Personal information is administered in accordance with current legislation regarding the protection of personal information as well as this privacy policy. To ensure that your personal information is protected, Pioneer & Onkyo Europe GmbH has certified its privacy policy with the German Privacy Commission, a commission overseeing whether the processing and use of personal information is compliant with the German Data Protection Act.
