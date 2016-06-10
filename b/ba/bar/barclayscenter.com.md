@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barclayscenter.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209174933id_/http%3A//www.barclayscenter.com/arena/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclayscenter.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610185255id_/http%3A//www.barclayscenter.com/arena/privacy-policy) for the most accurate reproduction.*
 
-# Barclays Center :: Privacy Policy
+# Privacy Policy | Barclays Center
 
 **PRIVACY POLICY**
 
