@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateuralbum.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209174900id_/http%3A//www.amateuralbum.net/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateuralbum.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610184421id_/http%3A//www.amateuralbum.net/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement - AmateurAlbum.net
 
@@ -8,7 +8,7 @@ Personal Information
 
 AmateurAlbum.net allows you to visit the website without revealing any personal information about yourself. Your visit to this website is anonymous. We will only collect your contact information (first name, last name, billing address, phone number, email address and any other relevant information provided by you) as well as financial information (account or credit card numbers), with your permission and for the sole purpose of processing orders.
 
-The information you provide will not be used for any commercial purposes and will not be sold, rented, leased or otherwise forwarded to any third party. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you, and then only with partners who adhere to AmateurAlbum.net's commitment to protecting your privacy and data. AmateurAlbum.net may provide your personal information if necessary, in AmateurAlbum.net�s good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant, or order or to protect the rights of AmateurAlbum.net or others.
+The information you provide will not be used for any commercial purposes and will not be sold, rented, leased or otherwise forwarded to any third party. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you, and then only with partners who adhere to AmateurAlbum.net's commitment to protecting your privacy and data. AmateurAlbum.net may provide your personal information if necessary, in AmateurAlbum.net’s good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant, or order or to protect the rights of AmateurAlbum.net or others.
 
 Security Procedures and Credit Cards
 
