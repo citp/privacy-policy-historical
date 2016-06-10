@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windsorcircle.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110030845id_/http%3A//www.windsorcircle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windsorcircle.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610181531id_/http%3A//www.windsorcircle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ Except as otherwise set forth herein (and, in the case of a customer, set forth 
 
 **Control, E-mail and Opt-Out**
 
-You may request access to and correction of, amendment to, or deletion of any information provided to us at any time by contacting us at [privacy@windsorcircle.com](mailto:privacy@windsorcircle.com). You may also request your information by mail addressed to Windsor Circle, 111 E Chapel Hill St, Durham, NC 27701.  We will respond to any written requests within thirty days.
+You may request access to and correction of, amendment to, or deletion of any information provided to us at any time by contacting us at [privacy@windsorcircle.com](mailto:privacy@windsorcircle.com). You may also request your information by mail addressed to Windsor Circle, 212 W Main St, Suite 400, Durham, NC 27701.  We will respond to any written requests within thirty days.
 
 If you received one or more e-mails from us, it means one of two things:  (i) your e-mail address is on our list of customers, free trial users or prospective customers; or (ii) you have provided us your e-mail address so that we could contact you.  If you believe you received an email from us in error, please contact us immediately at [privacy@windsorcircle.com](mailto:privacy@windsorcircle.com).
 
