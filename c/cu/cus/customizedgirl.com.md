@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the customizedgirl.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209181913id_/http%3A//www.customizedgirl.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customizedgirl.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610193630id_/http%3A//www.customizedgirl.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# CustomziedGirl | Privacy Policy
+# CustomizedGirl | Privacy Policy
 
 CustomizedGirl.com 
 
