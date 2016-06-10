@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the push.com.ph privacy policy that was archived on 2015-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150708073903id_/http%3A//www.abs-cbn.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the push.com.ph privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610205812id_/http%3A//www.abs-cbn.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement :: ABS-CBN.com
 
