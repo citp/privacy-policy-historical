@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enagic.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516205658id_/http%3A//www.enagic.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enagic.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610105820id_/http%3A//www.enagic.com/privacypolicy.php) for the most accurate reproduction.*
 
 # www.Enagic.com Privacy Policy
 
