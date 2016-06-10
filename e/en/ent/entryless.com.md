@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entryless.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317083118id_/https%3A//www.entryless.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entryless.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610062412id_/https%3A//www.entryless.com/privacy-policy) for the most accurate reproduction.*
 
 # Entryless Privacy Policy
 
@@ -92,4 +92,4 @@ We may update this privacy policy to reflect changes to our information practice
 
 ###  CONtACT US
 
-If you have any questions about this Privacy Policy, please contact us at [**contact@entryless.com**](mailto:contact@entryless.com) or send a letter to: 1370 Willow Road, Menlo Park, CA 94065 USA. Effective Date: August 20, 2013.
+If you have any questions about this Privacy Policy, please contact us at [**contact@entryless.com**](mailto:contact@entryless.com) or send a letter to: 303 Twin Dolphin Drive, 6th Floor, Suite 59, Redwood Shores, CA, USA, 94025. Effective Date: August 20, 2013.
