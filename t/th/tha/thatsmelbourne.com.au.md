@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207115225id_/http%3A//www.thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610025842id_/http%3A//www.thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - City of Melbourne
 
 The City of Melbourne views the protection of your privacy as an integral part of its commitment towards complete accountability and integrity in all its activities and programs. 
 
@@ -18,7 +18,7 @@ The City of Melbourne will only collect personal information supplied by you to 
   * to contact you regarding any promotional opportunities for your business or event
   * to promote your business or event on the City of Melbourne's websites or the websites of other organisations (such as Tourism Victoria)
   * to email the last page you visited to a friend (if you request this action via an online form)
-  * photographs submitted with your business or event listing may also be used for promotional purposes by City of Melbourne marketing channels. This may include the newsletter, blog and social media. Please refer to our [photos and privacy guidelines](https://web.archive.org/Pages/PhotoPrivacy.aspx).
+  * photographs submitted with your business or event listing may also be used for promotional purposes by City of Melbourne marketing channels. This may include the newsletter, blog and social media. Please refer to our [photos and information privacy](https://web.archive.org/Pages/ListYourEventBusiness.aspx#privacy).
 
 
 
@@ -102,11 +102,11 @@ This Website Privacy Statement does not extend beyond this website. Where you ch
 
 If you have any other enquiries concerning Council's privacy procedures, please contact the Council's Privacy Officer at [privacy@melbourne.vic.gov.au](mailto:privacy@melbourne.vic.gov.au).
 
-Further information is also available about the City of Melbourne's [Information Privacy](http://www.melbourne.vic.gov.au/AboutCouncil/financegovernance/Pages/Informationprivacy.aspx).
+Further information is also available about the City of Melbourne's [Information Privacy](http://www.melbourne.vic.gov.au/about-council/governance-transparency/policies-protocols/pages/information-privacy-policy.aspx "Information privacy policy").
 
 ## See also
 
-  * [Copyright](https://web.archive.org/Pages/Copyright.aspx)
-  * [Disclaimer](https://web.archive.org/Pages/Disclaimer.aspx)
+  * [Copyright](https://web.archive.org/Pages/Copyright.aspx "Copyright")
+  * [Disclaimer](https://web.archive.org/Pages/Disclaimer.aspx "Disclaimer")
 
 
