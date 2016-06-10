@@ -1,0 +1,634 @@
+<!--The following is the downloaded HTML source of the foodora.ca privacy policy that was archived on 2016-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610102230id_/https%3A//www.foodora.ca/contents/privacy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class=""><!--<![endif]--><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5WN2Q7"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUBUVZQGwIIUllXAgkO"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+        <title>Privacy policy | foodora</title>
+
+                                    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/default/apple-touch-icon-57x57.png?935406f">
+        <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/default/apple-touch-icon-60x60.png?935406f">
+        <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/default/apple-touch-icon-72x72.png?935406f">
+        <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/default/apple-touch-icon-76x76.png?935406f">
+        <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/default/apple-touch-icon-114x114.png?935406f">
+        <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/default/apple-touch-icon-120x120.png?935406f">
+        <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/default/apple-touch-icon-144x144.png?935406f">
+        <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/default/apple-touch-icon-152x152.png?935406f">
+        <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/default/apple-touch-icon-180x180.png?935406f">
+        <link rel="icon" type="image/png" sizes="196x196" href="/img/favicon/default/android-chrome-192x192.png?935406f">
+        <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/default/favicon-16x16.png?935406f">
+        <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/default/favicon-96x96.png?935406f">
+        <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/default/favicon-32x32.png?935406f">
+
+        <meta name="msapplication-TileColor" content="#d70f64 ">
+        <meta name="msapplication-square70x70logo" content="/img/favicon/default/smalltile.png?935406f">
+        <meta name="msapplication-square150x150logo" content="/img/favicon/default/mediumtile.png?935406f">
+        <meta name="msapplication-square310x310logo" content="/img/favicon/default/largetile.png?935406f">
+        <meta name="msapplication-wide310x150logo" content="/img/favicon/default/widetile.png?935406f">
+
+                    <meta name="robots" content="noindex,follow">
+    
+            <meta name="description" content="Our privacy policy">
+        <link rel="canonical" href="https://www.foodora.ca/contents/privacy.htm">
+
+    
+
+            <link rel="stylesheet" href="/css/dist/style-ca.css?935406f">
+            <!-- BEGIN TRACKJS -->
+    <script type="text/javascript">
+        window._trackJs = {
+            token: '5fd69569810247f6b32ca1b8cfa0b22b',
+            application: 'foodora-live',
+            enabled: true,
+                                                    userId: 'anonymous',
+            sessionId: '',
+            onError: function (payload, error) {
+                if (typeof error === 'string') {
+                    if (null !== error.match(/(^400|^412).*/)) {
+                        return false;
+                    }
+                }
+
+                return true;
+            }
+        };
+    </script>
+    <script type="text/javascript" src="https://d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js"></script>
+    <!-- END TRACKJS -->
+
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.23&amp;libraries=places&amp;language=en-CA&amp;client=gme-rocketinternetag&amp;channel=foodora"></script>
+    <script src="/js/dist/all-libs.js?935406f"></script>
+    <script src="/js/dist/head.js?935406f"></script>
+    <script src="https://connect.facebook.net/en_US/sdk.js"></script>
+    
+    <script src="/js/routing?callback=fos.Router.setData&amp;935406f"></script>
+
+    
+    <script type="text/javascript">
+        window.VOLO = window.VOLO || {};
+        VOLO.tagManager = {};
+        VOLO.tagManager.referrer = 'https://www.foodora.ca/restaurant/e1tp/elarepazo';
+        VOLO.tagManager.pageType = '';
+
+        VOLO.Translations = {
+            home: {
+                postal_index_form_please_select_option: 'Please select an option'
+            }
+        };
+        VOLO.configuration = VOLO.configuration || {};
+        VOLO.configuration.countryCode = 'ca';
+        VOLO.configuration.locale = 'en_CA';
+        VOLO.configuration.address_config = {"map_enabled":true,"update_map_input":true,"postal_code_field":["postal_code"],"autocomplete_type":["address"],"hide_checkout_postal_code":false,"required_fields":["street","building","postcode","city"],"format":":building :street, :city :plz","valid_address_input":".*"}
+        VOLO.configuration.sessionId = '';
+        VOLO.configuration.googleTagManagerContainerId = 'GTM-5WN2Q7';
+        VOLO.configuration.appVersion = '935406f';
+        VOLO.orderTrackingInterval = null;
+        VOLO.configuration.smallScreenMaxSize = 800;
+        VOLO.configuration.anchorScrollSpeed = 500;
+        VOLO.configuration.facebookAppId = '1607915012781893';
+        VOLO.configuration.hasCustomerSmsConfirmation = true;
+
+        // cart layout and animation
+        VOLO.configuration.cartBottomMargin = 50;
+        VOLO.configuration.itemsOverflowingClassName = 'checkout__summary-overflowing';
+        VOLO.configuration.timeZone = 'America/Toronto';
+        VOLO.configuration.currencySymbol = 'CAD';
+
+        VOLO.configuration.minimum_order_value_setting = 'always_ask';
+
+        dataLayer = [];
+
+                                                VOLO.createCustomerModel([], true);
+        VOLO.defaultCartValues = {"vendor_id":"","products_count":0};
+        VOLO.riderTip = {"enabled":true,"choices":[10,15,20,25],"showOnMenuPage":false,"percentActive":true};
+    </script>
+    </head>
+    <body class="country-ca static-page">
+                    <script type="text/javascript">
+                if (window.VOLO && VOLO.tagManager) {
+                    VOLO.tagManager.referrer = 'https://www.foodora.ca/restaurant/e1tp/elarepazo';
+                    VOLO.tagManager.pageType = '';
+                }
+            </script>
+            <!-- Google Tag Manager -->
+            
+                        <script type="text/javascript" data-turbolinks-eval="always">
+                if (window.VOLO && VOLO.tagManager) {
+                    window.VOLO.customerData = {
+                        'pageType': VOLO.tagManager.pageType,
+                        'referralKeyword': '',
+                        'zipcode': null,
+                        'city': null,
+                        'country': 'Canada',
+                        'loggedIn': 'false',
+                        'customerId': '',
+                        'cartValue': '0',
+                        'cartContents': '',
+                        'cartQuantity': '0'
+                    }
+                }
+            </script>
+            <script type="text/javascript" data-turbolinks-eval="false">
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer','GTM-5WN2Q7');
+            </script>
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5WN2Q7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager -->
+                                <div class="modal-dialogs"><!-- here you can define your modals --></div>
+
+    <div class="modal-confirm-below-minimum-amount"></div>
+
+    
+    <div class="modal fade" id="login-registration-modal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content" id="spinner-wrapper"></div>
+            <div class="modal-close-button"></div>
+        </div>
+    </div>
+
+    
+    
+    
+    <div class="modal fade headline-content-footer-modal modal-verify-sms" tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-close-button close" data-dismiss="modal"></div>
+                <h4 class="modal__h4 text-center">
+                    Verify                </h4>
+                <div class="modal-body">
+                    <div class="modal-verify-sms__text">
+                        To use the voucher, we need to verify your mobile phone number. A text message with your code has been sent to: %phoneNumber%                    </div>
+                    <div class="modal-verify-sms__error modal-error-message hide">
+                        If you haven't received any text message, please contact our customer support.                    </div>
+                    <form class="modal-verify-sms__form">
+                        <label class="modal-verify-sms__form__label">
+                            <span>Please enter your code</span>
+                            <span class="modal-verify-sms__form__wrapper">
+                                <input type="text" class="modal-verify-sms__verification-code-input">
+                            </span>
+                            <span class="sms-error-message modal-error-message hide"></span>
+                        </label>
+                        <button type="button" class="button button--full-width modal-verify-sms__submit">
+                            Verify                        </button>
+                    </form>
+                    <div class="text-center modal-verify-sms__resend">
+                        No text message received?                        <a class="resend-code">
+                            Resend code                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/template" id="template-login">
+            <h4 class="modal__h4 text-center">Login</h4>
+    <div class="modal__padding-left-right">
+
+                        
+        <div class="modal-error-message hide">
+            
+        </div>
+
+        <div class="modal-success-message modal__success-message__reset-password hide">
+            You've successfully set your password, you can now log in.        </div>
+
+        <div class="facebook-button-wrapper" data-msg-no-email="Sorry, your account with facebook cannot be registered because an email address is missing.">
+            <button class="facebook-button button button--full-width">
+                <span class="facebook-button__content">
+                    <span class="facebook-button__logo">Facebook login</span>
+                </span>
+            </button>
+        </div>
+
+        <div class="login-separator">Or</div>
+        <form class="login-form"
+              action="/login_check"
+              method="post"
+              role="form"
+              id="login-form"
+              data-server-errors="&quot;{}&quot;"
+              novalidate
+        >
+            <div class="form-group">
+                <input type="text" class="form-control" id="username" name="_username"
+                       value="" required="true" placeholder="Username"
+                       data-toggle="tooltip" data-validation-msg="The user name you entered is wrong or does not exist"/>
+            </div>
+            <div class="form-group">
+                <input type="password" class="form-control" id="password" name="_password" placeholder="Password"
+                       data-toggle="tooltip" data-validation-msg="The password you entered is incorrect"/>
+                <a class="position-absolute__top-right login__password__forgot-password-link">Forgot?</a>
+            </div>
+            <button class="button button--full-width modal__padding-left-right" type="submit">Login</button>
+        </form>
+
+        <div class="text-center login-registration-link">Don't have an account? <a class="register-link">Signup here</a></div>
+    </div>
+    </script>
+    <script type="text/template" id="template-registration">
+            <div class="modal__padding-left-right">
+        <h4 class="modal__h4 text-center">Register</h4>
+        <div class="modal__padding-left-right">
+                    </div>
+        <div class="modal-error-message hide"></div>
+
+        <div class="facebook-button-wrapper" data-msg-no-email="Sorry, your account with facebook cannot be registered because an email address is missing.">
+            <button class="facebook-button button button--full-width">
+                    <span class="facebook-button__content">
+                        <span class="facebook-button__logo">Register with Facebook</span>
+                    </span>
+            </button>
+        </div>
+        <div class="login-separator">Or</div>
+        <form class="registration-form" action="/customer"
+              method="post"
+              role="form"
+              data-server-errors="&quot;{}&quot;"
+              novalidate
+        >
+            <div class="form-group">
+                <input type="text"
+                       id="contact-information-first-name"
+                       name="customer[first_name]"
+                       class="form-control"
+                       value=""
+                       required="true"
+                       placeholder="First name"
+                       data-toggle="tooltip"
+                       data-validation-msg="Please enter your name"
+                />
+                            </div>
+            <div class="form-group">
+                <input type="text"
+                       id="contact-information-last-name"
+                       name="customer[last_name]"
+                       class="form-control"
+                       value=""
+                       required="true"
+                       placeholder="Last name"
+                       data-toggle="tooltip"
+                       data-validation-msg="Please enter your last name"
+                />
+                            </div>
+            <div class="form-group">
+                <input type="email"
+                       id="contact-information-email"
+                       name="customer[email]"
+                       class="form-control"
+                       value=""
+                       required="true"
+                       placeholder="Email"
+                       data-toggle="tooltip"
+                       data-validation-msg="Please enter a valid email"
+                />
+                            </div>
+            <div class="form-group">
+                <input type="tel"
+                       id="contact-information-mobile-number"
+                       name="customer[mobile_number]"
+                       class="form-control"
+                       value=""
+                       required="true"
+                       placeholder="Mobile Number"
+                       data-toggle="tooltip"
+                       data-validation-msg="Please enter a valid phone number"
+                />
+                            </div>
+            <div class="form-group">
+                <input type="password"
+                       id="password"
+                       name="customer[password]"
+                       class="form-control"
+                       required="true"
+                       placeholder="Password"
+                       data-toggle="tooltip"
+                       data-validation-msg="You password is too short. Please use a password with at least 6 characters."
+                />
+                            </div>
+            <div class="form-group">
+                <input type="password"
+                       name="customer[confirm_password]"
+                       id="repeat_password"
+                       class="form-control"
+                       required="true"
+                       placeholder="Retype password"
+                       data-toggle="tooltip"
+                       data-validation-msg="The passwords do not match"
+                />
+                            </div>
+            <button type="submit" class="button button--full-width">Register</button>
+        </form>
+        <div class="text-center login-registration-link">You have an account? <a class="login-link">Login</a></div>
+    </div>
+    </script>
+    <script type="text/template" id="template-forgot-password">
+            <h4 class="modal__h4 text-center">Request new password</h4>
+    <div class="modal__padding-left-right">
+
+        
+        <form class="forgot-password-form" action="/customer/forgot_password" method="post" role="form" novalidate>
+            <div class="form-group">
+                <input type="email" class="form-control" id="email" name="_email" placeholder="Email"
+                       value="" data-toggle="tooltip" data-validation-msg="Please enter a valid email address."/>
+            </div>
+            <button class="button button--full-width modal__padding-left-right" type="submit">Submit</button>
+        </form>
+
+        <div class="text-center login-registration-link">You have an account? <a class="login-link">Login</a></div>
+    </div>
+    </script>
+
+    <script type="text/template" id="template-map-modal-dialog">
+    <div class="modal map-modal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content map-modal__content">
+                <div class="modal-close-button" data-dismiss="modal"></div>
+                <div class="modal-body clearfix">
+                    <div class="map-modal__header">
+                        <div class="map-modal__header-content"></div>
+                    </div>
+                    <div class="map-modal__map">
+                        <!-- map goes here -->
+                        <form class="map-modal__autocomplete">
+                            <i class="map-modal__form-icon-search icon-search"></i>
+                            <input type="text" class="map-modal__autocomplete__input"
+                                   data-msg_error_empty="Please enter a street address"
+                                   data-msg_error_postcode="The address you entered was not found. Please check it."
+                                   data-msg_error_city="The address you entered was not found. Please check it."
+                                   data-msg_error_building="Please enter your building number"
+                                   data-msg_error_not_found="The address you entered was not found. Please check it."
+                                   data-msg_title_building="Please enter your street number"
+                                   data-msg_title_default="Is this address correct?"
+                                   data-msg_title_not_unique='Need to change addresss? Then <a class="change-postal-code">click here</a>'
+                                   data-msg_title_insert_postcode="Please enter your address"
+                                   />
+                            <div class="form__error-message map-modal__error-message hide"></div>
+                        </form>
+                        <i class="map-modal__map-center-icon"></i>
+                        <form class="map-modal__submit">
+                            <button type="button" class="map-modal__submit__button button button--disabled">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+        <div class="page-wrapper ">
+            <div class="content-wrapper menu-bg">
+                    <div class="top-banner-container">
+        <div class="top-banner ios-smart-banner">
+        <div class="ios-smart-banner__close-button">
+            <i class="icon-cancel"></i>
+        </div>
+        <div class="ios-smart-banner__logo-icon-wrapper">
+            <i class="icon-logo-icon ios-smart-banner__logo-icon"></i>
+        </div>
+        <div class="ios-smart-banner__information-wrapper">
+            <div class="ios-smart-banner__title">foodora</div>
+            <div class="ios-smart-banner__ratings">
+                <!-- add class "ios-smart-banner__ratings__star--inactive" to make the star inactive -->
+                <span class="ios-smart-banner__ratings__star"><i class="icon-star"></i></span>
+                <span class="ios-smart-banner__ratings__star"><i class="icon-star"></i></span>
+                <span class="ios-smart-banner__ratings__star"><i class="icon-star"></i></span>
+                <span class="ios-smart-banner__ratings__star"><i class="icon-star"></i></span>
+                <span class="ios-smart-banner__ratings__star"><i class="icon-star"></i></span>
+            </div>
+            <div class="ios-smart-banner__free-message">Download for free</div>
+        </div>
+        <a href="https://app.adjust.com/uy8ik9_io2vcw?campaign=CA_Website-Smartbanner_EN" class="ios-smart-banner__view-app-link">View</a>
+    </div>
+        <div class="top-banner android-smart-banner">
+            <div class="android-smart-banner__close-button">
+                <i class="icon-cancel"></i>
+            </div>
+            <div class="android-smart-banner__logo-icon-wrapper">
+                <i class="icon-logo-icon android-smart-banner__logo-icon"></i>
+            </div>
+            <div class="android-smart-banner__information-wrapper">
+                <div class="android-smart-banner__title">foodora</div>
+                <div class="android-smart-banner__ratings">
+                    <!-- add class "android-smart-banner__ratings__star--inactive" to make the star inactive -->
+                    <span class="android-smart-banner__ratings__star"><i class="icon-star"></i></span>
+                    <span class="android-smart-banner__ratings__star"><i class="icon-star"></i></span>
+                    <span class="android-smart-banner__ratings__star"><i class="icon-star"></i></span>
+                    <span class="android-smart-banner__ratings__star"><i class="icon-star"></i></span>
+                    <span class="android-smart-banner__ratings__star"><i class="icon-star"></i></span>
+                </div>
+                <div class="android-smart-banner__free-message">Download for free</div>
+            </div>
+            <a class="ios-smart-banner__view-app-link" href="https://app.adjust.com/uy8ik9_io2vcw?campaign=CA_Website-Smartbanner_EN">View</a>
+        </div>
+        <div class="flood-banner pink-banner top-banner">
+            <div class="pink-banner__content"></div>
+            <div class="pink-banner__close-button">
+                <i class="icon-cancel"></i>
+            </div>
+        </div>
+        <div class="migration-banner pink-banner top-banner">
+            <div class="pink-banner__content migration-banner__content">
+                <i class="migration-banner__content__icon icon-suppertime"></i>
+                <span class="migration-banner-icon-divider">is now</span>
+                <i class="migration-banner__content__icon icon-logo"></i>
+                <span class="migration-banner-text">More restaurants, extended delivery hours, same awesome service!</span>
+            </div>
+            <div class="pink-banner__close-button">
+                <div><i class="icon-cancel"></i></div>
+            </div>
+        </div>
+    </div>
+    <header class="header ">
+        <div class="header__wrapper">
+            <div class="header__logo">
+                <a class="header__logo__a" href="/">
+                    <i class="icon-logo"></i>
+                    <span>Foodora</span>
+                </a>
+                <span class="header__logo__restaurant-name"></span>
+            </div>
+            <div class="header__account">
+                                    <a class="show-login-modal header__account__login-text">Login</a>
+                    <a class="show-login-modal header__account__login-icon"><i class="icon-profile"></i></a>
+                            </div>
+                        <a class="header__cart" data-vendor_id="">
+                <i class="icon-cart"></i>
+                <span class="header__cart__products__count hidden">0</span>
+            </a>
+                                                                            <a class="header__language-switch" href="/fr/contents/privacy.htm" data-no-turbolink="true">
+                        français
+                    </a>
+                                                            </div>
+        <div class="header__wrapper__bg"></div>
+    </header>
+                                            <main>
+                    <div class="hero-banner-wrapper">
+        <div class="hero-banner-content">
+            
+
+
+<div class="b-lazy aspect-ratio-40-11 hero-banner" data-src="https://thumbor.foodora.com/q7gi9Q8X19-5uQ9dakTPviTPiFk=/2000x0/filters:quality(60)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3|https://thumbor.foodora.com/pPYCo0VfxZ9dOez72iq4cqAh4R8=/4000x0/filters:quality(40)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3" data-src-bp_300="https://thumbor.foodora.com/lDhZF-_gl2tjq6dpcfmIQcGiMQ4=/300x0/filters:quality(80)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3|https://thumbor.foodora.com/x_e35j6G47B0kr9r8zC_9NCKxtc=/600x0/filters:quality(45)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3" data-src-bp_400="https://thumbor.foodora.com/ZuTudXYa4mcFcEy8gF91I4VUNOU=/400x0/filters:quality(80)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3|https://thumbor.foodora.com/4zIiExkjPaRNTbOKBoBH66Ioedg=/800x0/filters:quality(45)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3" data-src-bp_600="https://thumbor.foodora.com/PoL4Fybg0U3OT8XwHPfOT8FxNoI=/600x0/filters:quality(80)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3|https://thumbor.foodora.com/tQQ9rXToqPJErr0SjZZRQwTg0ZY=/1200x0/filters:quality(45)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3" data-src-bp_800="https://thumbor.foodora.com/2X1A0IzXLWjGWhKcUM8DSSuzyQg=/800x0/filters:quality(80)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3|https://thumbor.foodora.com/KzGoifMvLsJZrmEhwi_LUlsKIjY=/1600x0/filters:quality(45)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3" data-src-bp_1000="https://thumbor.foodora.com/XIFyD-sa8W8VNvMyiq4slP8YYLU=/1000x0/filters:quality(80)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3|https://thumbor.foodora.com/Rd3RgU_frd5rmcOKOMbepEv9C2o=/2000x0/filters:quality(45)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3" data-src-bp_1200="https://thumbor.foodora.com/zDvYGxR5u6AS_IB1PqkExLrFPco=/1200x0/filters:quality(60)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3|https://thumbor.foodora.com/4DcyawarPRFQwNiTgeAmmulDlmE=/2400x0/filters:quality(40)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3" data-src-bp_1400="https://thumbor.foodora.com/GZMd09lrfn3T1-YuRW10-Wvz6AI=/1400x0/filters:quality(60)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3|https://thumbor.foodora.com/GCUjRPuQxWbF0uMfMXwQ_yn1j4g=/2800x0/filters:quality(40)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3" data-src-bp_biggest="https://thumbor.foodora.com/q7gi9Q8X19-5uQ9dakTPviTPiFk=/2000x0/filters:quality(60)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3|https://thumbor.foodora.com/pPYCo0VfxZ9dOez72iq4cqAh4R8=/4000x0/filters:quality(40)/https://volo-images.s3.amazonaws.com/production/ca/cms-hero.jpg?3">
+</div>
+            <div class="hero-banner-content__header">
+                <h1 class="hero-banner-content__title">Privacy policy</h1>
+            </div>
+        </div>
+    </div>
+    <div class="static-page__blocks-wrapper">
+        <div class="static-page__blocks">
+            <div class="static-page__block">
+                <p>
+	<strong>We collect personal information from our customers in the regular course of doing business.</strong><br>
+	<br>
+	<strong>We collect the following personal information about you:</strong><br>
+	<br>
+	</p><li>Name</li>
+	<li>Address</li>
+	<li>Postal Code</li>
+	<li>Phone Number</li>
+	<li>Email Address</li>
+<br>
+	<strong>When you visit our web site, we also collect:</strong><br>
+	<br>
+	<li>Information about your computer, including your IP address, the type of operating system and browser you use,<br>
+	and your computer's location
+</li>
+	<li>What pages you visit on our site and what links you click on</li>
+	<li>What other sites you've visited recently</li>
+<br>
+		<strong>The main reasons we collect personal information from you are:</strong><br>
+	<br>
+	<li>To complete a sale/transaction</li>
+	<li>Delivery services</li>
+	<li>Customer service</li>
+	<li>Customer relationship management</li>
+	<li>Marketing</li><br>
+	If it's a necessary part of any of these transactions, we may disclose your information to another company.<br>
+	<br>
+	We also pass on your name, phone number, and address to a courier to complete a delivery.<br>
+	<br>
+	<strong>Sharing of Personal Information with Third Parties</strong><br>
+	<br>
+	We do not share your personal information with any third parties.<br>
+	<br>
+	<p>
+	&nbsp;</p>
+            </div>
+        </div>
+    </div>
+            </main>
+            </div>
+                <footer class="footer footer-full">
+                    <div class="footer__wrapper__top">
+    <div class="footer__subscribe__txt">
+        <p>Want vouchers and the latest news from our restaurants?  <b>Get our weekly email:</b></p>
+    </div>
+    <div class="footer__subscribe">
+        <form class="footer__subscribe__form" action="/newsletter/subscribe" method="post" role="form" novalidate="">
+            <div class="footer__subscribe__city">
+                <div class="form__select-wrapper">
+                    <select class="form-control footer__subscribe__form__select" name="newsletter[city_id]" data-validation-msg="Please select your city.">
+                                                <option value="" selected="selected">City</option>
+                                                    <option value="3">Montreal
+                            </option>
+                                                    <option value="2">Toronto
+                            </option>
+                                            </select>
+                </div>
+            </div>
+            <div class="footer__subscribe__email">
+                <input type="text" name="newsletter[email]" class="form-control" value="" required="true" placeholder="Email" data-toggle="tooltip" data-validation-msg="Please enter a valid email address.">
+            </div>
+            <div class="footer__subscribe__button">
+                <button class="button newsletter-form-submit" type="submit">
+                   Signup now                </button>
+            </div>
+        </form>
+        <div class="footer__subscribe__success-message">
+            You have successfully subscribed to our newsletter        </div>
+    </div>
+    <div class="footer__logo">
+        <i class="icon-logo"></i>
+    </div>
+                <div class="footer__social">
+            <a href="https://www.facebook.com/foodora.ca" target="_blank"><i class="icon-facebook-circled"></i></a>
+<a href="https://instagram.com/foodora_ca" target="_blank"><i class="icon-instagram-circled"></i></a>
+        </div>
+    </div>
+
+                                <div class="footer__wrapper__middle">
+                                                        <a class="footer__language-switch button-secondary" href="/fr/contents/privacy.htm">
+                    français
+                </a>
+                            <nav class="footer__nav">
+<ul>
+<li class="footer_nav_terms-and-conditions.htm"><a href="/contents/terms-and-conditions.htm">T&amp;Cs</a></li>
+<li class="footer_nav_privacy"><a href="/contents/privacy.htm">Privacy</a></li>
+<li class="footer_nav_contact"><a href="/contents/contact.htm">Contact</a></li>
+<li class="footer_nav_press"><a href="/contents/press.htm">Press</a></li>
+<li class="footer_nav_press"><a href="/contents/jobs">Jobs</a></li>
+<li class="footer_nav_drivers-and-restaurants"><a href="/contents/drivers-and-restaurants.htm">For Restaurants</a></li>
+
+</ul>
+</nav>
+<div class="footer__disclaimer">© 2016 foodora inc</div>
+    </div>
+
+                            <div class="footer__wrapper__bottom">
+    <div class="footer__popular">
+<h4><a href="/city/toronto">FOOD DELIVERY IN TORONTO</a></h4>
+    <p>
+<a href="/restaurant/o2lp/fresh63580" title="Fresh">Fresh</a>,
+<a href="/restaurant/v0ye/burgerspriest14264" title="The Burger's Priest">The Burger's Priest</a>,
+<a href="/restaurant/k0bx/ravisoups7388" title="Ravi Soups">Ravi Soups</a>,
+<a href="/restaurant/p2he/mevame" title="Me Va Me">Me Va Me</a>,
+<a href="/restaurant/p2aq/saladking" title="Salad King">Salad King</a>,
+<a href="/restaurant/o2vq/littlefin" title="Little Fin">Little Fin</a>,
+<a href="/restaurant/a9si/banhmiboys81704" title="Banh Mi Boys">Banh Mi Boys</a>,
+<a href="/restaurant/j5ty/sakutoronto" title="Saku Toronto">Saku Toronto</a>,
+<a href="/restaurant/q3qy/smoquenbones" title="Smoque N Bones">Smoque N Bones</a>,
+<a href="/restaurant/k0af/evolutionfoodco" title="Evolution Food Co.">Evolution Food Co.</a>
+</p>
+</div>
+<div class="footer__popular">
+<h4><a href="/city/montreal">FOOD DELIVERY IN MONTREAL</a></h4>
+<p>
+<a href="/restaurant/t7ov/falafelavenue" title="Falafel Avenue">Falafel Avenue</a>,
+<a href="/restaurant/a4pw/burgerroyal" title="Burger Royal">Burger Royal</a>,
+<a href="/restaurant/g5do/brigadepizzeria" title="Brigade Pizzeria Napolitaine">Brigade Pizzeria Napolitaine</a>,
+<a href="/restaurant/e7pm/romados" title="Rotisserie Romados">Rotisserie Romados</a>,
+<a href="/restaurant/i5fk/copperbranch28537" title="Copper Branch">Copper Branch</a>,
+<a href="/restaurant/w2pi/leboucan" title="Le Boucan">Le Boucan</a>,
+<a href="/restaurant/f2rf/mtrois" title="M. Trois">M. Trois</a>,
+<a href="/restaurant/s3rk/barros-luco" title="Barros Luco">Barros Luco</a>,
+<a href="/restaurant/s7qx/sushi-jin-jin" title="Sushi Jin Jin">Sushi Jin Jin</a>,
+<a href="/restaurant/g5wc/selgras" title="Sel Gras">Sel Gras</a>
+</p>
+</div>
+<style type="text/css">
+.othercountries { float:left; width:100%; height:auto; } .othercountries p { text-align: center; } .othercountries a { color:#666; cursor: pointer; }
+
+</style>
+
+<div class="othercountries">
+<br>&nbsp;
+<p>
+<a href="https://www.foodora.at" title="foodora.at">foodora.at</a> | &nbsp;
+<a href="https://www.foodora.ca" title="foodora.ca">foodora.ca</a> | &nbsp;
+<a href="https://www.foodora.com.au" title="foodora.com.au">foodora.com.au</a> | &nbsp;
+<a href="https://www.foodora.de" title="foodora.de">foodora.de</a> | &nbsp;
+<a href="https://www.foodora.fi" title="foodora.fi">foodora.fi</a> | &nbsp;
+<a href="https://www.foodora.fr" title="foodora.fr">foodora.fr</a> | &nbsp;
+<a href="https://www.foodora.it" title="foodora.it">foodora.it</a> | &nbsp;
+<a href="https://www.foodora.nl" title="foodora.nl">foodora.nl</a> | &nbsp;
+<a href="https://www.foodora.no" title="foodora.no">foodora.no</a> | &nbsp;
+<a href="https://www.foodora.se" title="foodora.se">foodora.se</a>
+  </p>
+</div></div>
+
+            </footer>
+        </div>
+            <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7bc6d8a4d2","applicationID":"18685589","transactionName":"ZARSYBZSChBRW0QPWV1Oc0EXRwsOH25fCllvJ0JbCkcBDVR6RQhSXwRsdwtdEBFfVFwDRG8iXUcnXAoXQldcClNBWwpdClcBG3FbRA9ZXQ==","queueTime":1,"applicationTime":61,"atts":"SENRFl5IGR4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
