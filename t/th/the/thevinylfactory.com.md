@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevinylfactory.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906092711id_/http%3A//www.thevinylfactory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevinylfactory.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610080310id_/http%3A//www.thevinylfactory.com/privacy-policy) for the most accurate reproduction.*
 
 # The Vinyl Factory - The Home of Vinyl
 
@@ -47,4 +47,4 @@ Other Websites
 
 This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
 
-All content © 2012-2013 by The Vinyl Factory. All rights reserved. 
+All content © 2012-2016 by The Vinyl Factory. All rights reserved. 
