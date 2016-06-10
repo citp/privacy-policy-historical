@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230040810id_/http%3A//www.medicalnewstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalnewstoday.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610183742id_/http%3A//www.medicalnewstoday.com/privacy-policy) for the most accurate reproduction.*
 
 # MNT - Privacy Policy
 
@@ -14,7 +14,7 @@ For example, our email-a-friend service uses your name and email address, as wel
 
 Please read the rest of the document to familiarize yourself with where and how we collect and use your data, as well as how our advertisers and other service providers deal with your personal data.
 
-Please be aware that by continuing to use MNT, you consent to our useage of the methods described here.
+Please be aware that by continuing to use MNT, you consent to our usage of the methods described here.
 
 ## Our use of cookies
 
@@ -80,7 +80,7 @@ As you can understand, this information is very useful and helps us to decide wh
 
 (At the time of writing, our reports showed that we had nearly 5,000 _different_ types of devices accessing MNT per month.)
 
-Regardless of how useful this information it in allowing us to provide a better service to you, our reader, you may opt out of providing this information to Google Analyitics [here](https://tools.google.com/dlpage/gaoptout?hl=None "External Link - Opens in new window").
+Regardless of how useful this information it in allowing us to provide a better service to you, our reader, you may opt out of providing this information to Google Analytics [here](https://tools.google.com/dlpage/gaoptout?hl=None "External Link - Opens in new window").
 
   
 
@@ -109,6 +109,46 @@ We use Twitter's conversion tracking service to track interactions that Twitter 
 This service allows us to analyze, compare and optimize our Twitter-based advertising campaigns when they are active.
 
 You may read more about Twitter's policies for this service [here](https://support.twitter.com/articles/20171365-policies-for-conversion-tracking-and-tailored-audiences "External Link - Opens in new window : Twitter conversion tracking and tailored audience tracking").
+
+  
+
+
+* * *
+
+## MNT Opinions
+
+We provide an open forum for discussion and debate of articles published on MNT, as well as other topics created by MNT readers. This forum can be found at: [http://www.medicalnewstoday.com/opinions](http://http//www.medicalnewstoday.com/opinions).
+
+Contributors to MNT Opinions (known below as "Opinions Service"), may include medical health professionals, patients, patient family members and other interested members of the public. However, information provided by the Opinions Service is designed to complement, not replace, the relationship between a patient and his/her own physician and readers should be aware that opinions found using the Opinions Service should not be regarded as advice given by medical practitioners, or professionals.
+
+When you create a new opinion thread, or submit an opinion using the Opinions Service, the following data will be provided to MNT:
+
+  * Name (public)
+  * Email address (not public)
+  * Opinion Subject (public)
+  * Opinion content (public)
+  * IP address (not public)
+
+
+
+In addition, MNT account holders may also have the following additional information associated with their post:
+
+  * Registered country (not public)
+  * Profession (not public)
+
+
+
+As noted in our [Terms of Use](https://web.archive.org/terms#mnt-opinions), all reader submitted opinions (once moderated), are publicly accessible and may be indexed and presented by search engines and other internet content discovery services outside of MNT. 
+
+Once submitted, comments are not directly editable, however, readers wishing to have previously submitted comments edited, or removed from the Opinions Service may do so by sending a message to MNT through our [contact form](https://web.archive.org/contact).
+
+Please note that MNT has no control over how content from the Opinions Service appears on search engines and other internet content discovery services. Upon request, MNT is able to remove previously posted content from the Opinions Service. MNT does not have the ability to remove any previously indexed content from search engines and internet content discovery services. Readers wishing to remove content external to MNT should contact the appropriate service provider.
+
+Readers wishing to alert MNT of potentially objectionable content on the Opinions Service may click on the "Alert a moderator" link, which can be found at the foot of each individual comment.
+
+Regarding advertising material which appears on the Opinions Service, please refer to the "Third Party Advertising" section above.
+
+You may also refer to the MNT Opinions section of our [Terms of Use statement](https://web.archive.org/terms#mnt-opinions) to learn more about how the Opinions Service works, your responsibilities and obligations.
 
   
 
