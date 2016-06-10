@@ -1,47 +1,95 @@
-> *The following text is extracted and transformed from the voicenation.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210124612id_/http%3A//www.voicenation.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicenation.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610032346id_/http%3A//www.voicenation.com/privacy.shtml) for the most accurate reproduction.*
 
 # VoiceNation | Privacy Policy
 
-Protecting privacy is not a new endeavor for our company. We have a long-standing tradition of recognizing and protecting the privacy of customers who use our telecommunications networks. We maintain strict customer information privacy policies and use state of the art technologies to safeguard customer information and communications from unauthorized intrusions. 
+VoiceNation, LLC is committed to protecting your privacy and developing technology that gives you a powerful and safe online experience. By using the VoiceNation web site, you consent to the data practices described in this statement.
 
-We recognize that the growth of online services, including Internet services, has created additional privacy concerns, particularly for consumers. 
+This privacy notice discloses the privacy practices for VoiceNation's web site. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
-Online privacy concerns focus primarily on the protection of "customer identifiable" information which an individual or other customer reasonably expects to be kept private. As the term suggests, "customer identifiable" information is information that, when associated with an individual identifies that individual, for example, a customer's name, address, telephone number, and e-mail address. 
+§  What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
 
-Some Internet users may also wish to know who can learn about what they do on the Internet, even when that online behavior is not directly linked to any information that identifies an individual. For example, advertisers may observe whether visitors to a Web site see or respond to online advertising without knowing who those visitors are. 
+§  What choices are available to you regarding the use of your data.
 
-It is common practice and often a necessity for companies, governments, or other organizations to collect customer identifiable information in order to conduct business and offer services. For example, a telecommunications provider may collect customer identifiable information, such as name, address, telephone number, and a variety of other information in the course of billing and providing telephone service to a customer. 
+§  The security procedures in place to protect the misuse of your information.
 
-Some activities on the Internet follow very familiar patterns. Consumers signing up for an Internet access service, for example, are usually asked to provide name, address, telephone number and credit card and other information that is typical when the consumer orders a product or service. Similarly, business Web sites may ask visitors to supply information about themselves, particularly when information, services or merchandise are requested, but often simply to be able to better target the company's services to the customer's interests and requirements.
+§  How you can correct any inaccuracies in the information.
 
-### Our Online Privacy Policy: Informed Choice
+**About the VoiceNation.com Service**
 
-We have put in place the following Online Privacy Policy. This policy covers our company and its subsidiaries. We will continue to protect customer information derived from its local, and long distance, and toll free services consistent with federal laws and with federal regulations issued by the Federal Communications Commission.
+VoiceNation, through its VoiceNation.com web site, provides functionality enabling our members to make use of powerful and flexible answering service solutions, including but not limited to receptionist services, call screening, live message relay, disaster recovery, and simple order taking and order fulfillment.
 
-### How We Protect Your Privacy Online
+**Collection of your Personal Information**
 
-Collection and Use: We will collect and use customer identifiable information for billing purposes, to provide and change service, to anticipate and resolve problems with your service, or to create and inform you of products and services that better meet your needs. This means that we may use your customer identifiable information, in conjunction with information available from other sources, to market new services to you that we think will be of interest to you, but we will not disclose your customer identifiable information to third parties who want to market products to you. 
+VoiceNation collects personally identifiable information, such as your e-mail address, name, home or work address, or telephone number. VoiceNation VoiceNation also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-When you access the Internet, the computers that host Web sites you visit (Web servers) automatically receive some anonymous information. This "usage data" may include a record of which pages a Web browser has visited. Our servers receive usage data when customers visit our Web sites. We may use usage data to provide advertising about goods and services that may be of interest to our customers, or to provide customized features and services. We will not use information about your activities on the Internet together with any information that identifies you without your consent. 
+There is also information about your computer hardware and software that is automatically collected by VoiceNation. This information can include: your IP address, browser type, domain names, access times and referring web site addresses. This information is used by VoiceNation for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the VoiceNation.com web site.
 
-Our company and our advertisers may use various kinds of software devices to collect information about Internet use. Small files called "cookies" may be attached to your Web browser. These files identify your browser and save information such as passwords so that Web sites can recognize you. You can set your browser to disable cookies, but some of our Web sites (and other Web sites) may not work properly if you do this. 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through VoiceNation public message boards, this information may be collected and used by others.
 
-Our company uses advertising companies to deliver ads on some of our Web sites. The advertising companies may also receive some anonymous information about ad viewing by Internet users on our Web sites and other Internet sites. This information may be associated with a customer's Web browser, but cannot be associated with a name or e-mail address without the customer's permission. (This means that advertising companies may know where your computer goes on the Internet, but they don't know who you are unless you tell them.) We do not supply customer identifiable information to advertising companies or to individual advertisers or other third parties. If you go to another Web site, including an advertiser's Web site (for example by clicking on an ad), and request information or enter a contest, be aware that you may be authorizing another company, including an advertising company, to use information you supply. Find out more about the advertising companies that deliver ads on our Web sites, read their privacy policies, and choose whether to let them collect information about what you do on the Internet. 
+VoiceNation encourages you to review the privacy statements of web sites you choose to link to from VoiceNation so that you can understand how those web sites collect, use, and share your information. VoiceNation is not responsible for the privacy statements or other content on web sites outside of the VoiceNation or VoiceNation.com family of web sites.
 
-**Disclosure:  **We will not sell, trade, or disclose to third parties any customer identifiable information derived from the registration for or use of a VoiceNationSM service -- including customer names and addresses -- without the consent of the customer (except as required by subpoena, search warrant, or other legal process or in the case of imminent physical harm to the customer or others). When our company uses other agents, contractors or companies to perform services on its behalf, we will ensure that the company protects your customer identifiable information consistent with this Policy. If we include your name and any other customer identifiable information in a directory that we create from information we receive as an online service provider, the company will give you the opportunity to have your information excluded from that directory. Business directories that we create may, however, contain information obtained from other sources. 
+**Use of your Personal Information**
 
-**Customer Choice:**  A customer may choose not to receive direct marketing communications from our company in connection with our online services. Upon such choice, we (a) will not contact that customer directly with marketing messages about our online services, and (b) will not use customer identifiable information obtained from that customer's registration for or use of an online service to contact that customer with marketing messages about any VoiceNationSM products or services. A customer may choose not to receive such messages by e-mail, by mail, or by telephone. 
+VoiceNation collects and uses your personal information to operate the VoiceNation.com web site and deliver the services you have requested. VoiceNation also uses your personally identifiable information to inform you of other products or services available from VoiceNation and its affiliates. VoiceNation may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Customer-identifiable information which a visitor volunteers at one of the VoiceNationSM Web Sites to order VoiceNationSM) services other than online services will be protected just as if the information had been provided under more traditional ways of ordering that service. 
+VoiceNation does not sell, rent or lease its customer lists to third parties. VoiceNation may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party, without your permission. In addition, VoiceNation may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to VoiceNation, and they are required to maintain the confidentiality of your information.
 
-**Security:  **We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your customer identifiable information from unauthorized access or improper use, and we will continue to enhance our security procedures as new technology becomes available. 
+VoiceNation does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-**E-mail Contents:**  The company will not read or disclose to third parties private e-mail communications that are transmitted using VoiceNationSM services except as required to operate the service or as otherwise authorized by law. 
+VoiceNation keeps track of the Web sites and pages our customers visit within VoiceNation, in order to determine which VoiceNation services are the most popular. This data is used to deliver customized content and advertising within VoiceNation to customers whose behavior indicates that they are interested in a particular subject area.
 
-**Improper Conduct:**  We may also use customer identifiable information to investigate and help prevent potentially unlawful activity or activity that threatens the network or otherwise violates the customer agreement for that service. 
+VoiceNation will disclose your personal information without notice only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on VoiceNation or the site; (b) protect and defend the rights or property of VoiceNation; and, (c) act under exigent circumstances to protect the personal safety of users of VoiceNation, or the public.
 
-**Account Information:**  Our company honors requests from customers to review all customer identifiable information maintained in reasonably retrievable form, which currently consists of your name, address, e-mail address, telephone number and/or billing information, and will correct any such information which may be inaccurate. Customers may verify that appropriate corrections have been made. 
+**Contests and Promotions**
 
-**Customer Concerns:  **If you are a consumer with concerns about our online privacy policy or its implementation you may contact us at 1-866-766-5050. 
+On various occasions, VoiceNation sponsors contests, surveys or promotions or allows other companies to sponsor contests or promotions on our site. In order to enter a contest or promotion, you would be asked to provide personally identifiable information. For all contests and promotions sponsored by VoiceNation, the information you submit will be treated in the same way we would treat your new member information.
 
-**Changes in Practices:**  We will keep this Policy current. The company will inform you of any changes that we make. 
+If a promotion is sponsored by a third party, then it will clearly indicate who is collecting the personal information, and you will be given an opportunity to volunteer your information where you will have a choice whether to disclose your personally identifiable information to third parties. These third parties may have their own policies for handling personal information, and information you submit will be subject to those policies. Although VoiceNation encourages third parties to adhere to appropriate privacy standards and policies, we are not responsible for the actions or policies of such parties.
+
+**Our Sponsors and Business Partners**
+
+Our sponsors, from time to time, offer you the opportunity to sign up for their services or information, such as newsletters or promotions. In these instances, we will clearly inform you about exactly who is collecting what personally identifiable information requested by the sponsor, and we will ask you to opt-in and give your permission to release your information to the sponsor prior to disclosing your personal information. If you consent, VoiceNation will transfer your information to the sponsor. Once your information has been transferred to the sponsor, VoiceNation is not responsible for its use. The sponsor's use of the information is governed by the sponsor's privacy policy. While we encourage our third party sponsors to adhere to appropriate privacy standards, we are not responsible for the actions or policies of our sponsors.
+
+**Choice/Opt-out**
+
+Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site. You can do the following at any time by contacting us via the email address or phone number given on our website:
+
+§  See what personal data we have about you, if any.
+
+§  Change/correct any personal data we have about you.
+
+§  Have us delete any personal data we have about you.
+
+§  Express any concerns regarding our use of your personal data.
+
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying with the word "unsubscribe" in the subject line in the email, or email our Customer Service Desk.
+
+**Correcting/Updating/Deleting/Deactivating Personal Information**
+
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done on our Settings page, or by emailing our Customer Service Desk.
+
+Users of our site are notified wherever possible in the event that their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
+
+**Use of Cookies**
+
+The VoiceNation.com web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize VoiceNation.com pages, or register with VoiceNation.com, a cookie helps VoiceNation to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same VoiceNation.com web page, the information you previously provided can be retrieved, so you can easily use the VoiceNation.com features that you customized.
+
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the VoiceNation.com services or web sites you visit.
+
+ This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to [explain your use of the data]. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
+
+If you prefer, a detailed privacy policy you can post can be found at :  <http://www.clicktale.com/privacy_service.aspx>
+
+**Security of your Personal Information**
+
+VoiceNation takes commercially reasonable steps to secure your personal information from unauthorized access, use or disclosure. VoiceNation secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+**Changes to this Statement**
+
+VoiceNation will occasionally update this Statement of Privacy to reflect company and customer feedback. VoiceNation encourages you to periodically review this Statement to be informed of how VoiceNation is protecting your information.
+
+**Contact Information**
+
+VoiceNation welcomes your comments regarding this Statement of Privacy. If you believe that VoiceNation has not adhered to this Statement, please contact VoiceNation at [info@VoiceNation.com](mailto:info@qualityansweringservice.com?subject=Privacy%20Policy%20Inquiry). We will use commercially reasonable efforts to promptly determine and remedy the problem.
