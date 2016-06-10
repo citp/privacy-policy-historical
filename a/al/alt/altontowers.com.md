@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altontowers.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216065633id_/https%3A//www.altontowers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altontowers.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610023537id_/https%3A//www.altontowers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Merlin Entertainments Group Limited ("We") are committed to protecting and respe
 
 This policy (together with any  other terms of use available on our website and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the  **Act** ), the data controller is Merlin Entertainments Group Limited of 3 Market Close, Poole, Dorset BH15 1NQ.
+For the purpose of the Data Protection Act 1998 (the  **Act** ), the data controller is Alton Towers Resort Operations Limited of Alton Towers Resort, Farley Ln, Alton, Staffordshire ST10 4DB
 
 **
 
