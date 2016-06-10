@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the bitesquad.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118123901id_/http%3A//www.bitesquad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitesquad.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610080018id_/http%3A//www.bitesquad.com/privacy) for the most accurate reproduction.*
 
 # Bite Squad Privacy Policy - BiteSquad.com
 
-Please login to create Group Order.
-
- **Privacy Policy**
+**Privacy Policy**
 
 Version Date: 7.3.2012
 
