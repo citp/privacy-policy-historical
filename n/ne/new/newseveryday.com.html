@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newseveryday.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206142806id_/http%3A//www.newseveryday.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newseveryday.com privacy policy that was archived on 2016-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610225805id_/http%3A//www.newseveryday.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -13,10 +13,10 @@
 <script src="//ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
 <![endif]-->
 
-
+<link rel="amphtml" href="">
 <meta http-equiv="Imagetoolbar" content="no">
 	<meta name="robots" content="index, follow">
-	<meta name="Googlebot-news" content="index, follow">
+	<meta name="Googlebot-News" content="index, follow">
 <link rel="stylesheet" href="http://assets.newseveryday.com/common/js/colorbox/colorbox.css" type="text/css">
 <link rel="stylesheet" href="http://assets.newseveryday.com/common/js/bxslider/jquery.bxslider.css" type="text/css">
 <link rel="stylesheet" href="http://assets.newseveryday.com/static/common/_v0.0.0/css/style.css" type="text/css">
@@ -31,6 +31,11 @@
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"></script>
 
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53cd314e7a655f05"></script>
+
+<!-- //Sonobi header start -->
+<script type="text/javascript" async="" src="http://mtrx.go.sonobi.com/morpheus.33universal.2505.js"></script>
+<!-- //Sonobi header end -->
+
 
 </head><body>
 <!-- Google Tag Manager -->
@@ -61,22 +66,28 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li class="m9"><a href="/business/">Business</a></li>
                 <li class="m10"><a href="/science/">Science</a></li>
                 <li class="m11"><a href="/health/">Health</a></li>
+                <li class="m12"><a href="/fun-stuff/">Fun Stuff</a></li>
                 <!-- li class="m12"><a href="/bloggers/">Bloggers</a></li -->
-                <li class="m12"><a href="/videos/">Videos</a></li>
+                <li class="m13"><a href="/videos/">Videos</a></li>
             </ul>
             <div class="srch">
-            	<a href="javascript:void(0);"><span class="ic-srch"><span>search</span></span></a>
-                <div class="con h-srch" style="display:none;"><form action="/search/"><input type="text" class="input" name="q" placeholder="Search Articles..."><input type="submit" class="btn" value="Search"></form></div>
+            	<a href="javascript:void(0);" id="srch-btn"><span class="ic-srch"><span>search</span></span></a>
+                <div class="con h-srch" id="desktop-srch" style="display:none;"><form action="/search/"><input type="text" class="input" name="q" placeholder="Search Articles..."><input type="submit" class="btn" value="Search"></form></div>
             </div>
         </div>
     </nav>
+	<script type="text/javascript">
+		$("#srch-btn").click(function(){
+			$("#desktop-srch").toggle();
+		});
+	</script>
 </header>
 <header class="header-mb">
 <div class="innerwrap">
 	<div class="logo"><a href="/"><img src="http://assets.newseveryday.com/static/common/_v0.0.0/images/logo-newseveryday-w.png" alt="News Everyday"></a></div>
     <div class="nav-mb">
     	<a href="javascript:void(0);" class="ic-nav"><span>Nav</span></a>
-        <ul class="menu" style="display:none;">
+        <ul class="menu" id="mobile-menu" style="display:none;">
         	<li class="m1"><a href="/">Home</a></li>
             <li class="m2"><a href="/news/">News</a></li>
             <li class="m3"><a href="/world/">World</a></li>
@@ -88,24 +99,38 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li class="m9"><a href="/business/">Business</a></li>
             <li class="m10"><a href="/science/">Science</a></li>
             <li class="m11"><a href="/health/">Health</a></li>
+            <li class="m12"><a href="/fun-stuff/">Fun Stuff</a></li>
             <!-- li class="m12"><a href="/bloggers/">Bloggers</a></li -->
-            <li class="m12"><a href="/videos/">Videos</a></li>
+            <li class="m13"><a href="/videos/">Videos</a></li>
     	</ul>
     </div>
     <div class="srch">
-    	<a href="javascript:void(0);"><span class="ic-srch"><span>search</span></span></a>
-        <div class="con h-srch" style="display:none;"><form action="/search/"><input type="text" class="input" name="q" placeholder="Search Articles..."><input type="submit" class="btn" value="Search"></form></div>
+    	<a href="javascript:void(0);" id="srch-btn2"><span class="ic-srch"><span>search</span></span></a>
+        <div class="con h-srch" id="mobile-srch" style="display:none;"><form action="/search/"><input type="text" class="input" name="q" placeholder="Search Articles..."><input type="submit" class="btn" value="Search"></form></div>
 	</div>
 </div>
+<script type="text/javascript">
+	$(".ic-nav").click(function(){
+		$("#mobile-menu").toggle();
+	});
+	$("#srch-btn2").click(function(){
+		$("#mobile-srch").toggle();
+	});
+</script>
 </header>
 <section class="hd-topic">
 	<div class="innerwrap">
-			    <span class="ic-quotes"></span><span class="ttl">What’s Hot :</span> <a href="/articles/29939/20151205/zack-greinke-signs-206-million-deal-with-the-arizona-diamondbacks.htm">Zack Greinke Signs $206 Million Deal with the Arizona Diamondbacks</a><span class="ic-quotes2"></span>
+			    <span class="ic-quotes"></span><span class="ttl">What’s Hot :</span> <a href="/articles/45662/20160609/samsung-galaxy-note-6-release-date-specs-updates.htm">Samsung Galaxy Note 6 Release Date, Specs, News &amp; Update: Render Video, Bigger Battery, New Design and More</a><span class="ic-quotes2"></span>
 	</div>
 </section>
+
+
+<!-- section_center_top_computer start-->
 <div id="adunit_section_center_top_computer" class="adunit_leaderboard"><script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js">
 	googletag.pubads().definePassback('/27637309/newseveryday/sections', [728,90]).setTargeting('poz',['center','top']).display();
-</script></div><section class="contents">
+</script></div>
+<!-- section_center_top_computer end -->
+<section class="contents">
 	
 	<div class="innerwrap">
 		<div class="body">
@@ -317,75 +342,131 @@ This Privacy Policy was last modified on the date indicated above and is effecti
 <script>
 $('#s-letter').click(function(){$.ajax({url:'/home/news/newsletter/main_insert.php',type:'post',data:{email:$('input[name="nmail"]').val()}}).done(function(e){$('#s-msg').html(e);});});
 </script><!-- /s-sns -->
-	  <div id="adunit_section_right_top_computer" class="adunit_rectangle"><script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js">
+	  
+<!-- section_right_top_computer start-->
+<div id="adunit_section_right_top_computer" class="adunit_rectangle"><script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js">
 	googletag.pubads().definePassback('/27637309/newseveryday/sections', [300,250]).setTargeting('poz',['right','top']).display();
-</script></div>      <h4 class="sectitle">Editor's pick
+</script></div>
+<!-- section_right_top_computer end -->
+  <style type="text/css">
+.widget-repeat {
+    float: left;
+    width: 48.25%;
+    margin-left: 3.50%;
+    display: inline;
+    padding-bottom: 12px;
+}
+.widget-firstchild {
+    margin-left: 0;
+	clear: left;
+}
+.widget-art-ttl {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000;
+    font-family: Arial;
+}
+</style>
+
+<div class="sectitle" style="position:relative; clear:both;">
+    <h4>Fun Stuff</h4>
+<a href="/fun-stuff" style="position:absolute;font-size:14px;top:4px;right:0;">See More &lt;&lt;</a>
+</div>
+
+
+<div class="scon">
+			<div class="widget-repeat widget-firstchild">
+			<a href="/articles/34572/20160330/30-child-celebrities-who-became-incredibily-hot-see-before.htm" target="_blank">
+				<img src="http://images.newseveryday.com/data/thumbs/full/29486/196/145/50/40/scarlett-johansson.jpg" alt="Scarlett Johansson">
+				<div class="widget-art-ttl">30 Child Celebrities Who Became Incredibly HOT - See Before &amp; After (PHOTOS)</div>
+			</a>
+		</div>
+			<div class="widget-repeat ">
+			<a href="/articles/34720/20160330/30-celebrities-super-high-iq-didnt-expect-see.htm" target="_blank">
+				<img src="http://images.newseveryday.com/data/thumbs/full/29425/196/145/35/29/emma-watson.jpg" alt="Emma Watson">
+				<div class="widget-art-ttl">30 Celebrities with Super High IQ that You Didn't Expect to See: Emma Watson Has IQ 138?</div>
+			</a>
+		</div>
+			<div class="widget-repeat widget-firstchild">
+			<a href="/articles/35037/20160404/30-celebrity-look-alikes-will-make-shocked-photos.htm" target="_blank">
+				<img src="http://images.newseveryday.com/data/thumbs/full/30813/196/145/50/40/lauren-conrad-carmen-electra.jpg" alt="Lauren Conrad &amp; Carmen Electra">
+				<div class="widget-art-ttl">30 Celebrity Look-Alikes That Will Make You Shocked (PHOTOS)</div>
+			</a>
+		</div>
+			<div class="widget-repeat ">
+			<a href="/articles/34946/20160331/40-hottest-celebrities-whos-over-photos.htm" target="_blank">
+				<img src="http://images.newseveryday.com/data/thumbs/full/29761/196/145/48/23/jennifer-garner-43.jpg" alt="Jennifer Garner  43">
+				<div class="widget-art-ttl">40 Hottest Celebrities Who's Over 40 years old (PHOTOS)</div>
+			</a>
+		</div>
+	</div>
+<h4 class="sectitle">Editor's pick
 </h4>
 <div class="scon">
 		<div class="list">
     	<div class="num">1</div>
-        <div class="photo"><a href="/articles/29927/20151204/nicki-minaj-s-older-brother-charged-with-raping-a-minor.htm"><img src="http://images.newseveryday.com/data/images/full/24894/nicki-minaj.png?w=112&amp;h=112&amp;l=37&amp;t=30" data-original="http://images.newseveryday.com/data/images/full/24894/nicki-minaj.png?w=112&amp;h=112&amp;l=37&amp;t=30" width="112" alt="Nicki Minaj" class="lazy"></a></div>
-         <h3 class="title3"><a href="/articles/29927/20151204/nicki-minaj-s-older-brother-charged-with-raping-a-minor.htm">Nicki Minaj’s Older Brother Charged with Raping a Minor</a></h3>
-         <p class="date"><strong>04</strong> Dec '15 12:57PM</p>
+        <div class="photo"><a href="/articles/44612/20160531/pregnant-women-run-exercise-regularly-claim-experts.htm"><img src="http://images.newseveryday.com/data/thumbs/full/40873/112/112/50/40/pregnant-women-can-run-and-exercise-regularly-claim-experts.jpg" data-original="http://images.newseveryday.com/data/thumbs/full/40873/112/112/50/40/pregnant-women-can-run-and-exercise-regularly-claim-experts.jpg" width="112" alt="Pregnant Women Can Run and Exercise Regularly, Claim Experts" class="lazy"></a></div>
+         <h3 class="title3"><a href="/articles/44612/20160531/pregnant-women-run-exercise-regularly-claim-experts.htm">Pregnant Women Can Run and Exercise Regularly, Claim Experts</a></h3>
+         <p class="date"><strong>31</strong> May '16 20:03PM</p>
 	</div>
 		<div class="list">
     	<div class="num">2</div>
-        <div class="photo"><a href="/articles/29914/20151203/chipotle-to-enforce-stricter-produce-supplier-rules-amid-e-coli-outbreak.htm"><img src="http://images.newseveryday.com/data/images/full/12633/chipotle.jpg?w=112&amp;h=112&amp;l=29&amp;t=53" data-original="http://images.newseveryday.com/data/images/full/12633/chipotle.jpg?w=112&amp;h=112&amp;l=29&amp;t=53" width="112" alt="Chipotle" class="lazy"></a></div>
-         <h3 class="title3"><a href="/articles/29914/20151203/chipotle-to-enforce-stricter-produce-supplier-rules-amid-e-coli-outbreak.htm">Chipotle to Enforce Stricter Produce Supplier Rules amid E. coli Outbreak</a></h3>
-         <p class="date"><strong>03</strong> Dec '15 17:09PM</p>
+        <div class="photo"><a href="/articles/44446/20160531/brains-schizophrenics-heal-reverse-illness.htm"><img src="http://images.newseveryday.com/data/thumbs/full/40768/112/112/50/40/schizophrenia-brain.jpg" data-original="http://images.newseveryday.com/data/thumbs/full/40768/112/112/50/40/schizophrenia-brain.jpg" width="112" alt="Schizophrenia Brain" class="lazy"></a></div>
+         <h3 class="title3"><a href="/articles/44446/20160531/brains-schizophrenics-heal-reverse-illness.htm">Brains Of Schizophrenics Can Self-Heal And Reverse Their Illness</a></h3>
+         <p class="date"><strong>31</strong> May '16 13:20PM</p>
 	</div>
 		<div class="list">
     	<div class="num">3</div>
-        <div class="photo"><a href="/articles/29923/20151204/u-s-international-group-move-to-block-texas-attempt-to-reject-syrian-refugees.htm"><img src="http://images.newseveryday.com/data/images/full/24889/refugees-migrants.jpg?w=112&amp;h=112&amp;l=50&amp;t=40" data-original="http://images.newseveryday.com/data/images/full/24889/refugees-migrants.jpg?w=112&amp;h=112&amp;l=50&amp;t=40" width="112" alt="Refugees, migrants" class="lazy"></a></div>
-         <h3 class="title3"><a href="/articles/29923/20151204/u-s-international-group-move-to-block-texas-attempt-to-reject-syrian-refugees.htm">U.S., International Group Move to Block Texas’ Attempt to Reject Syrian Refugees</a></h3>
-         <p class="date"><strong>04</strong> Dec '15 12:01PM</p>
+        <div class="photo"><a href="/articles/44534/20160531/water-prevents-antarctic-ocean-affected-climate-change.htm"><img src="http://images.newseveryday.com/data/thumbs/full/40793/112/112/50/40/antarctic-ocean.jpg" data-original="http://images.newseveryday.com/data/thumbs/full/40793/112/112/50/40/antarctic-ocean.jpg" width="112" alt="Antarctic ocean" class="lazy"></a></div>
+         <h3 class="title3"><a href="/articles/44534/20160531/water-prevents-antarctic-ocean-affected-climate-change.htm">Climate Change Does Not Affect Antarctic Ocean Due To Deep, Old Water</a></h3>
+         <p class="date"><strong>31</strong> May '16 13:17PM</p>
 	</div>
 		<div class="list">
     	<div class="num">4</div>
-        <div class="photo"><a href="/articles/29920/20151204/paris-café-becomes-the-first-place-to-reopen-after-the-terrorist-attacks.htm"><img src="http://images.newseveryday.com/data/images/full/24885/a-la-bonne-bi-re.png?w=112&amp;h=112&amp;l=50&amp;t=40" data-original="http://images.newseveryday.com/data/images/full/24885/a-la-bonne-bi-re.png?w=112&amp;h=112&amp;l=50&amp;t=40" width="112" alt="A La Bonne Bière" class="lazy"></a></div>
-         <h3 class="title3"><a href="/articles/29920/20151204/paris-café-becomes-the-first-place-to-reopen-after-the-terrorist-attacks.htm">Paris Café Becomes the First Place to Reopen after the Terrorist Attacks</a></h3>
-         <p class="date"><strong>04</strong> Dec '15 10:47AM</p>
+        <div class="photo"><a href="/articles/44478/20160531/zika-virus-infect-placenta-fetus.htm"><img src="http://images.newseveryday.com/data/thumbs/full/40773/112/112/50/40/zika-virus.jpg" data-original="http://images.newseveryday.com/data/thumbs/full/40773/112/112/50/40/zika-virus.jpg" width="112" alt=" Zika virus" class="lazy"></a></div>
+         <h3 class="title3"><a href="/articles/44478/20160531/zika-virus-infect-placenta-fetus.htm">How Does Zika Virus Infect Placenta And Fetus?</a></h3>
+         <p class="date"><strong>31</strong> May '16 13:17PM</p>
 	</div>
 		<div class="list">
     	<div class="num">5</div>
-        <div class="photo"><a href="/articles/29918/20151204/german-lawmakers-approve-sending-1-200-troops-to-support-the-anti-isis-mission-in-syria.htm"><img src="http://images.newseveryday.com/data/images/full/24883/ursula-von-der-leyen.jpg?w=112&amp;h=112&amp;l=34&amp;t=40" data-original="http://images.newseveryday.com/data/images/full/24883/ursula-von-der-leyen.jpg?w=112&amp;h=112&amp;l=34&amp;t=40" width="112" alt=" Ursula von der Leyen" class="lazy"></a></div>
-         <h3 class="title3"><a href="/articles/29918/20151204/german-lawmakers-approve-sending-1-200-troops-to-support-the-anti-isis-mission-in-syria.htm">German Lawmakers Approve Sending 1,200 Troops to Support the Anti-ISIS Mission in Syria</a></h3>
-         <p class="date"><strong>04</strong> Dec '15 09:35AM</p>
+        <div class="photo"><a href="/articles/44428/20160531/coral-bleaching-damaged-barrier-reef.htm"><img src="http://images.newseveryday.com/data/thumbs/full/40767/112/112/50/40/bleached-coral-reefs.jpg" data-original="http://images.newseveryday.com/data/thumbs/full/40767/112/112/50/40/bleached-coral-reefs.jpg" width="112" alt="Bleached coral reefs" class="lazy"></a></div>
+         <h3 class="title3"><a href="/articles/44428/20160531/coral-bleaching-damaged-barrier-reef.htm">Coral Bleaching Has Damaged Over One-Third Of Corals In Parts Of Great Barrier Reef</a></h3>
+         <p class="date"><strong>31</strong> May '16 13:17PM</p>
 	</div>
 		<div class="list">
     	<div class="num">6</div>
-        <div class="photo"><a href="/articles/29847/20151130/sinead-oconnor-suicide-note-facebook-post.htm"><img src="http://images.newseveryday.com/data/images/full/24829/facebook.jpg?w=112&amp;h=112&amp;l=50&amp;t=40" data-original="http://images.newseveryday.com/data/images/full/24829/facebook.jpg?w=112&amp;h=112&amp;l=50&amp;t=40" width="112" alt="Facebook " class="lazy"></a></div>
-         <h3 class="title3"><a href="/articles/29847/20151130/sinead-oconnor-suicide-note-facebook-post.htm">Sinead O'connor Declared ‘Safe And Sound’ After Posting Disturbing Suicide Note On Facebook</a></h3>
-         <p class="date"><strong>30</strong> Nov '15 13:57PM</p>
+        <div class="photo"><a href="/articles/44425/20160531/skin-cancer-drug-ha15-developed.htm"><img src="http://images.newseveryday.com/data/thumbs/full/40765/112/112/50/40/skin-cancer.jpg" data-original="http://images.newseveryday.com/data/thumbs/full/40765/112/112/50/40/skin-cancer.jpg" width="112" alt="Skin cancer" class="lazy"></a></div>
+         <h3 class="title3"><a href="/articles/44425/20160531/skin-cancer-drug-ha15-developed.htm">Skin Cancer Drug HA15 Has Been Developed</a></h3>
+         <p class="date"><strong>31</strong> May '16 13:17PM</p>
 	</div>
 		<div class="list">
     	<div class="num">7</div>
-        <div class="photo"><a href="/articles/29852/20151130/mary-kate-olsen-olivier-sarkozy-marriage-wedding.htm"><img src="http://images.newseveryday.com/data/images/full/24830/getty-images.jpg?w=112&amp;h=112&amp;l=50&amp;t=40" data-original="http://images.newseveryday.com/data/images/full/24830/getty-images.jpg?w=112&amp;h=112&amp;l=50&amp;t=40" width="112" alt="Getty Images" class="lazy"></a></div>
-         <h3 class="title3"><a href="/articles/29852/20151130/mary-kate-olsen-olivier-sarkozy-marriage-wedding.htm">Mary-Kate Olsen Weds Olivier Sarkozy In Private Ceremony</a></h3>
-         <p class="date"><strong>30</strong> Nov '15 13:57PM</p>
+        <div class="photo"><a href="/articles/43158/20160521/healthy-lifestyles-halve-cancer-deaths-study.htm"><img src="http://images.newseveryday.com/data/thumbs/full/39255/112/112/50/40/healthy-lifestyle.jpg" data-original="http://images.newseveryday.com/data/thumbs/full/39255/112/112/50/40/healthy-lifestyle.jpg" width="112" alt="Healthy lifestyle" class="lazy"></a></div>
+         <h3 class="title3"><a href="/articles/43158/20160521/healthy-lifestyles-halve-cancer-deaths-study.htm">Healthy Lifestyles Can Halve Cancer Deaths Among Whites In The US: Study</a></h3>
+         <p class="date"><strong>21</strong> May '16 17:28PM</p>
 	</div>
 		<div class="list">
     	<div class="num">8</div>
-        <div class="photo"><a href="/articles/29857/20151130/kylie-jenner-lip-kit-instagram-snapchat.htm"><img src="http://images.newseveryday.com/data/images/full/24834/facebook.jpg?w=112&amp;h=112&amp;l=50&amp;t=40" data-original="http://images.newseveryday.com/data/images/full/24834/facebook.jpg?w=112&amp;h=112&amp;l=50&amp;t=40" width="112" alt="Facebook " class="lazy"></a></div>
-         <h3 class="title3"><a href="/articles/29857/20151130/kylie-jenner-lip-kit-instagram-snapchat.htm">Kylie Jenner Launched Own 'Lip Kit'</a></h3>
-         <p class="date"><strong>30</strong> Nov '15 13:57PM</p>
+        <div class="photo"><a href="/articles/44518/20160531/why-antarctic-ocean-hasn-t-warmed-when-the-rest-of-the-world-has.htm"><img src="http://images.newseveryday.com/data/thumbs/full/27783/112/112/50/40/global-warming.jpg" data-original="http://images.newseveryday.com/data/thumbs/full/27783/112/112/50/40/global-warming.jpg" width="112" alt="Global warming" class="lazy"></a></div>
+         <h3 class="title3"><a href="/articles/44518/20160531/why-antarctic-ocean-hasn-t-warmed-when-the-rest-of-the-world-has.htm">Why Antarctic Ocean hasn’t warmed when the rest of the world has?</a></h3>
+         <p class="date"><strong>31</strong> May '16 08:59AM</p>
 	</div>
 		<div class="list">
     	<div class="num">9</div>
-        <div class="photo"><a href="/articles/29841/20151128/canada-pledges-2-billion-to-combat-climate-change-in-developing-nations.htm"><img src="http://images.newseveryday.com/data/images/full/24826/justin-trudeau.jpg?w=112&amp;h=112&amp;l=50&amp;t=40" data-original="http://images.newseveryday.com/data/images/full/24826/justin-trudeau.jpg?w=112&amp;h=112&amp;l=50&amp;t=40" width="112" alt="Justin Trudeau" class="lazy"></a></div>
-         <h3 class="title3"><a href="/articles/29841/20151128/canada-pledges-2-billion-to-combat-climate-change-in-developing-nations.htm">Canada Pledges $2 Billion to Combat Climate Change in Developing Nations</a></h3>
-         <p class="date"><strong>28</strong> Nov '15 10:06AM</p>
+        <div class="photo"><a href="/articles/44195/20160528/alzheimers-disease-build-stem-immune-response-infection.htm"><img src="http://images.newseveryday.com/data/thumbs/full/40347/112/112/50/40/alzheimers-disease.jpg" data-original="http://images.newseveryday.com/data/thumbs/full/40347/112/112/50/40/alzheimers-disease.jpg" width="112" alt="Alzheimer's disease" class="lazy"></a></div>
+         <h3 class="title3"><a href="/articles/44195/20160528/alzheimers-disease-build-stem-immune-response-infection.htm">Alzheimer's Disease Build Up May Stem From Body's Immune Response To Infection</a></h3>
+         <p class="date"><strong>28</strong> May '16 09:36AM</p>
 	</div>
-		<div class="list">
-    	<div class="num">10</div>
-        <div class="photo"><a href="/articles/29830/20151127/new-england-patriots-linebacker-jamie-collins-returns-to-practice.htm"><img src="http://images.newseveryday.com/data/images/full/24808/jamie-collins.jpg?w=112&amp;h=112&amp;l=50&amp;t=40" data-original="http://images.newseveryday.com/data/images/full/24808/jamie-collins.jpg?w=112&amp;h=112&amp;l=50&amp;t=40" width="112" alt="Jamie Collins" class="lazy"></a></div>
-         <h3 class="title3"><a href="/articles/29830/20151127/new-england-patriots-linebacker-jamie-collins-returns-to-practice.htm">New England Patriots Linebacker Jamie Collins Returns to Practice</a></h3>
-         <p class="date"><strong>27</strong> Nov '15 14:42PM</p>
-	</div>
-	</div>   <!-- /Most Popular -->
-	  <div id="adunit_section_right_middle1_computer" class="adunit_rectangle"><script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js">
+	</div>  
+<!-- /Most Popular -->
+	  
+<!-- section_right_middle1_computer start-->
+<div id="adunit_section_right_middle1_computer" class="adunit_rectangle"><script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js">
 	googletag.pubads().definePassback('/27637309/newseveryday/sections', [300,250]).setTargeting('poz',['right','middle1']).display();
-</script></div></div>					</div>
+</script></div>
+<!-- section_right_middle1_computer end -->
+</div>					</div>
 </section>
 
 <section class="fcontents">
@@ -396,71 +477,76 @@ $('#s-letter').click(function(){$.ajax({url:'/home/news/newsletter/main_insert.p
 
 	<div class="list">
     	<h4 class="caty">World</h4>
-        <a href="/articles/29910/20151203/ufc-president-dana-white-says-holly-holm-and-ronda-rousey-will-rematch.htm"><div class="photo"><img src="http://images.newseveryday.com/data/images/full/24881/ronda-rousey-holly-holm.jpg?w=180&amp;h=90&amp;l=32&amp;t=25" width="180" alt="Ronda Rousey, Holly Holm"></div><h3 class="title4">UFC President Dana White says Holly Holm and Ronda Rousey will Rematch</h3></a>
+        <a href="/articles/45785/20160610/japan-chinese-naval-ship-jap-islands.htm"><div class="photo"><img src="http://images.newseveryday.com/data/thumbs/full/42536/180/90/50/40/chinese-ship.jpg" width="180" alt="Chinese ship"></div><h3 class="title4">Japan Protests Chinese Naval Ship Near Jap Islands</h3></a>
     </div>
     <div class="list">
     	<h4 class="caty">Politics</h4>
-        <a href="/articles/29907/20151203/uk-orders-airstrikes-in-syria-targets-isis-oilfield.htm"><div class="photo"><img src="http://images.newseveryday.com/data/images/full/24645/isis-islamic-state.png?w=180&amp;h=90&amp;l=74&amp;t=56" width="180" alt="ISIS, Islamic State"></div><h3 class="title4">UK Orders Airstrikes in Syria, Targets ISIS Oilfield</h3></a>
+        <a href="/articles/45808/20160610/baltimore-cop-fatal-injury-freddie-gray-rough-drive.htm"><div class="photo"><img src="http://images.newseveryday.com/data/thumbs/full/42555/180/90/50/40/caesar-goodson-jr.jpg" width="180" alt="Caesar Goodson Jr"></div><h3 class="title4">Did Baltimore Cop Cause Fatal Injury To Freddie Gray In A Rough Drive?</h3></a>
     </div>
     <div class="list">
     	<h4 class="caty">Sports</h4>
-        <a href="/articles/29939/20151205/zack-greinke-signs-206-million-deal-with-the-arizona-diamondbacks.htm"><div class="photo"><img src="http://images.newseveryday.com/data/images/full/18122/zack-greinke.jpg?w=180&amp;h=90&amp;l=50&amp;t=40" width="180" alt="Zack Greinke"></div><h3 class="title4">Zack Greinke Signs $206 Million Deal with the Arizona Diamondbacks</h3></a>
+        <a href="/articles/45667/20160609/michael-schumacher-health-status-rumors-mick-schumacher.htm"><div class="photo"><img src="http://images.newseveryday.com/data/thumbs/full/42382/180/90/50/40/youtube.png" width="180" alt="Youtube"></div><h3 class="title4">Michael Schumacher Health Status News and Rumors: F1 Legend’s Son Wins Twice in a Day as the Champ’s Condition Reportedly Improving</h3></a>
     </div>
     <div class="list">
     	<h4 class="caty">Tech</h4>
-        <a href="/articles/29860/20151130/threats-user-privacy-forces-blackberry-out-pakistan.htm"><div class="photo"><img src="http://images.newseveryday.com/data/images/full/24840/blackberry.jpg?w=180&amp;h=90&amp;l=50&amp;t=40" width="180" alt="BlackBerry"></div><h3 class="title4">Threats To User Privacy Forces BlackBerry Out Of Pakistan</h3></a>
+        <a href="/articles/45918/20160610/uberpool-promises-2-credit-re-late.htm"><div class="photo"><img src="http://images.newseveryday.com/data/thumbs/full/42676/180/90/50/40/uberpool-promises-2-credit-if-you-re-late.png" width="180" alt="UberPool promises $2 credit if you’re late  "></div><h3 class="title4">UberPool promises $2 credit if you’re late</h3></a>
     </div>
     <div class="list2">
     	<h4 class="caty">Entertainment</h4>
-        <a href="/articles/29903/20151203/batman-v-superman-dawn-justice-second-trailer-give-much-away.htm"><div class="photo"><img src="http://images.newseveryday.com/data/images/full/21465/batman-v-superman.jpg?w=180&amp;h=90&amp;l=50&amp;t=40" width="180" alt="Batman V Superman"></div><h3 class="title4">Batman v Superman: Dawn Of Justice: Did The Second Trailer Give Too Much Away ?[Video]</h3></a>
+        <a href="/articles/45886/20160610/bachelorette-season-12-spoilers-news-update-jojo-faces-tough-time.htm"><div class="photo"><img src="http://images.newseveryday.com/data/thumbs/full/42643/180/90/44/18/jojo-fletcher.jpg" width="180" alt="JoJo Fletcher"></div><h3 class="title4">‘The Bachelorette’ Season 12, Spoilers and News Update: JoJo Faces a Tough Time as her Past Comes up in Episode 5</h3></a>
     </div>
     <p class="clr"></p>
 
     <div class="list">
     	<h4 class="caty">Life</h4>
-        <a href="/articles/29885/20151202/mark-zuckerberg-priscilla-chan-promise-to-donate-99-percent-of-facebook-shares.htm"><div class="photo"><img src="http://images.newseveryday.com/data/images/full/24867/mark-zuckerberg-priscilla-chan.jpg?w=180&amp;h=90&amp;l=63&amp;t=16" width="180" alt="Mark Zuckerberg, Priscilla Chan"></div><h3 class="title4">Mark Zuckerberg, Priscilla Chan Promise to Donate 99 percent of Facebook Shares</h3></a>
+        <a href="/articles/45693/20160610/married-people-singles-or-divorced-people-survive-heart-attacks.htm"><div class="photo"><img src="http://images.newseveryday.com/data/thumbs/full/42407/180/90/50/40/married-couple.jpg" width="180" alt="Married couple"></div><h3 class="title4">Married People More Likely Than Singles Or Divorced To Survive Heart Attacks</h3></a>
     </div>
     <div class="list">
     	<h4 class="caty">Business</h4>
-        <a href="/articles/29780/20151125/cdc-links-e-coli-outbreak-costco-chicken-salad.htm"><div class="photo"><img src="http://images.newseveryday.com/data/images/full/24769/costco.png?w=180&amp;h=90&amp;l=50&amp;t=40" width="180" alt="Costco"></div><h3 class="title4">CDC Links E.coli Outbreak To Costco Chicken Salad</h3></a>
+        <a href="/articles/45906/20160610/apple-announces-major-store-changes-subscription-terms.htm"><div class="photo"><img src="http://images.newseveryday.com/data/thumbs/full/42661/180/90/50/40/apple-announces-major-store-changes-for-their-subscription-terms.gif" width="180" alt="Apple announces major Store Changes for their Subscription Terms  "></div><h3 class="title4">Apple announces major Store Changes for their Subscription Terms</h3></a>
     </div>
     <div class="list">
     	<h4 class="caty">Science</h4>
-        <a href="/articles/29770/20151125/genome-modified-mosquito-resistant-malaria.htm"><div class="photo"><img src="http://images.newseveryday.com/data/images/full/187/malaria.jpg?w=180&amp;h=90&amp;l=50&amp;t=40" width="180" alt="Malaria"></div><h3 class="title4">Genome Modified Mosquito Is Resistant To Malaria</h3></a>
+        <a href="/articles/45705/20160610/gene-drive-research-alter-real-environment.htm"><div class="photo"><img src="http://images.newseveryday.com/data/thumbs/full/42408/180/90/50/40/mosquitos.jpg" width="180" alt="Mosquitos"></div><h3 class="title4">'Gene Drive' Needs More Research Before It Can Be Used To Alter Real Environment</h3></a>
     </div>
     <div class="list">
     	<h4 class="caty">Health</h4>
-        <a href="/articles/29895/20151203/cambodian-quack-lands-25-year-prison-term-spreading-hiv.htm"><div class="photo"><img src="http://images.newseveryday.com/data/images/full/2574/aids-hiv.jpg?w=180&amp;h=90&amp;l=50&amp;t=40" width="180" alt="AIDS, HIV"></div><h3 class="title4">Cambodian Quack Lands 25-Year Prison Term For Spreading HIV</h3></a>
+        <a href="/articles/45819/20160610/high-fat-mediterranean-diet-increase-body-weight.htm"><div class="photo"><img src="http://images.newseveryday.com/data/thumbs/full/42562/180/90/50/40/mediterranean-diet.jpg" width="180" alt="Mediterranean diet"></div><h3 class="title4">High Fat in Mediterranean Diet Won't Increase Body Weight</h3></a>
     </div>
     <div class="list2">
     	<h4 class="caty">Bloggers</h4>
-        <a href="/articles/14620/20150424/five-nights-freddys-movie-update-onscreen-adaptation-games-plot.htm"><div class="photo"><img src="http://images.newseveryday.com/data/images/full/8552/five-nights-at-freddys.jpg?w=180&amp;h=90&amp;l=50&amp;t=40" width="180" alt="Five Nights at Freddy's "></div><h3 class="title4">Five Nights at Freddy's Update: Movie Adaptation May NOT Stick to Game's Plot</h3></a>
+        <a href="/articles/14620/20150424/five-nights-freddys-movie-update-onscreen-adaptation-games-plot.htm"><div class="photo"><img src="http://images.newseveryday.com/data/thumbs/full/8552/180/90/50/40/five-nights-at-freddys.jpg" width="180" alt="Five Nights at Freddy's "></div><h3 class="title4">Five Nights at Freddy's Update: Movie Adaptation May NOT Stick to Game's Plot</h3></a>
     </div>
 
 	<!-- </div>
 </section>
  -->	</div>
 </section>
+
+<!-- section_center_bottom_computer start-->
 <div id="adunit_section_center_bottom_computer" class="adunit_leaderboard"><script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js">
 	googletag.pubads().definePassback('/27637309/newseveryday/sections', [728,90]).setTargeting('poz',['center','bottom']).display();
-</script></div><footer>
+</script></div>
+<!-- section_center_bottom_computer end -->
+<footer>
 	<div class="innerwrap">
-		<div class="f-menu"><a href="/news/">News</a><a href="/world/">World</a><a href="/politics/">Politics</a><a href="/sports/">Sports</a><a href="/tech/">Tech</a><a href="/entertainment/">Entertainment</a><a href="/life/">Life</a><a href="/business/">Business</a><a href="/science/">Science</a><a href="/health/">Health</a><a href="/videos/">Videos</a><br><a href="/about-us/">About Us</a><a href="/contact-us/">Contact Us</a><a href="/privacypolicy/">Privacy Policy</a><a href="/termsofservice/">Terms of Use</a></div>
+		<div class="f-menu"><a href="/news/">News</a><a href="/world/">World</a><a href="/politics/">Politics</a><a href="/sports/">Sports</a><a href="/tech/">Tech</a><a href="/entertainment/">Entertainment</a><a href="/life/">Life</a><a href="/business/">Business</a><a href="/science/">Science</a><a href="/health/">Health</a><a href="/fun-stuff/">Fun Stuff</a><a href="/videos/">Videos</a><br><a href="/about-us/">About Us</a><a href="/contact-us/">Contact Us</a><a href="/privacypolicy/">Privacy Policy</a><a href="/termsofservice/">Terms of Use</a></div>
 	    <div class="f-sns">Follow Us<a href="https://www.facebook.com/pages/Newseveryday/252124758245092" target="_blank" class="fb"><span>facebook</span></a><a href="https://twitter.com/News_Every_Day" target="_blank" class="tw"><span>tweeter</span></a><a href="https://plus.google.com/110774874070812342495/about" target="_blank" class="g"><span>google</span></a><a href="/rss/" class="rss"><span>rss</span></a></div>
 	    <div class="f-subscribe"><input type="email" class="input" name="fnmail" placeholder="Enter Your Email"><input type="button" id="f-letter" class="btn" value="Subscribe"><br><output id="f-msg"></output></div>
-	    <div>© Copyright 2015 News Everyday. All Rights Reserved.</div>
+	    <div>© Copyright 2016 News Everyday. All Rights Reserved.</div>
 	</div>
 </footer>
-
 
 <!-- start getclicky code -->
 <div style="display:none;">
 			<img alt="Real Time Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0">
 			<script type="text/javascript">
 			  var clicky_custom = {
-				href: "/privacypolicy/",
+				href: "/privacypolicy",
 				title: "non-article"
 			  };
+			  clicky_custom.outbound_disable = 1;
+			  clicky_custom.video_disable = 1;
 			</script>
 			<script src="//static.getclicky.com/js" type="text/javascript"></script>
 			<script type="text/javascript">try{ clicky.init(100756016); }catch(e){}</script>
@@ -526,7 +612,55 @@ _gaq.push(['_trackPageview']);
 		  _gaq.push(['_setDomainName', 'newseveryday.com']);
 _gaq.push(['_trackPageview']);
 
-		    (function() {
+		
+if (Math.random() < 0.01 || window.tt_no_high_impact_test_indicator) { // 1% traffic will be sampled for heatmap
+    _gaq.push(['_setAccount', 'UA-52977351-1']);
+    var timesRun = 0;
+      var gaCustomVarABTest = 'regular';
+      if (window.tt_no_high_impact_test_indicator) { gaCustomVarABTest = 'tt_no_high_impact'; }
+      _gaq.push(['_setCustomVar',5,'a_b_test',gaCustomVarABTest]);
+      var status_cat = '_incomp';
+      function unknownViewable() {
+        status_cat = '_unknown_' + document.visibilityState;
+      }
+      if (/*@cc_on!@*/false) { // check for Internet Explorer
+        if ('onfocusin' in document && 'onfocusout' in document) { unknownViewable(); }
+      } else {
+        if ('onfocus' in window && 'onblur' in window) { unknownViewable(); }
+      }
+      var interval = setInterval(function(){
+          timesRun += 1;
+          if(timesRun === 60){
+              clearInterval(interval);
+          }
+          var event_name_base = 'pixel_from_top_v8';
+          function onBlur() {
+              status_cat = '_inactive';
+          };
+          function onFocus(){
+              status_cat = '_active';
+          };
+          if (/*@cc_on!@*/false) { // check for Internet Explorer
+            document.onfocusin = onFocus;
+            document.onfocusout = onBlur;
+          } else {
+            window.onfocus = onFocus;
+            window.onblur = onBlur;
+          }
+          $(document).mouseover(function(event) {
+            status_cat = '_active';
+          });
+          $(document).on('touchstart', function() {
+            status_cat = '_active';
+          });
+          var time_label = 'pft-'+(parseInt((timesRun-1)/10)*10+1)+'-'+(parseInt((timesRun-1)/10)*10+11)+'s';
+          var scrollY = window.scrollY;
+          var top_value = ''+(parseInt(scrollY/100)*100)+'-'+(parseInt(scrollY/100)*100+100)+'px';
+          var event_name = event_name_base + status_cat;
+          _gaq.push(['_trackEvent', event_name, time_label, top_value, 1, true]);
+      }, 1000); 
+    }
+    (function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
@@ -542,4 +676,5 @@ _gaq.push(['_trackPageview']);
 window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);
 ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"82cf1d7dd7",applicationID:"6610869",sa:1,agent:"js-agent.newrelic.com/nr-476.min.js"}
 </script>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
