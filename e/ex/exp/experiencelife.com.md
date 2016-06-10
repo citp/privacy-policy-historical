@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experiencelife.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908100539id_/https%3A//experiencelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experiencelife.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610172053id_/https%3A//experiencelife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · Experience Life
 
@@ -107,4 +107,4 @@ This policy was last updated on November 12, 2012.
 
 If you have an inquiry or concern about this policy, please contact [jmartin@experiencelife.com](mailto:jkuenster@experiencelife.com?subject=ExperienceLife.com%20Privacy%20Policy%20Inquiry/Concern).
 
-[](http://experiencelife.com/embeddedsubad)
+[](https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=ELF&cds_page_id=120263)
