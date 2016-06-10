@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatingmag.tv privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221202946id_/http%3A//www.boatingmag.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatingmag.tv privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610145316id_/http%3A//www.boatingmag.tv/privacy.html) for the most accurate reproduction.*
 
 # Boat Reviews, Boat Tests, Boating Tips and More | Boating Magazine
 
@@ -10,11 +10,11 @@ __At Bonnier Corporation, your privacy is important to us.   This Privacy Polic
 
 To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the way your information is collected and used by Bonnier.
 
-Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the Safe Harbor website.
+Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the Safe Harbor website.
 
 **Note: For questions related to your magazine subscription, please visit our magazine’s customer service website** **.**
 
-If you have any questions about this Privacy Policy, please write to us via e-mail at privacy@bonniercorp.com, or via postal mail at:
+If you have any questions about this Privacy Policy, please write to us via e-mail at privacy@bonniercorp.com, or via postal mail at:
 
 Privacy Department  
 Bonnier Corporation  
@@ -53,7 +53,7 @@ We work with reputable third parties that provide data tracking and collection t
 
 These companies may collect information about you on our behalf.  We require that these parties agree to process any such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
 Bonnier websites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties.  By virtue of their sponsorship, these third parties may obtain personally-identifying information that visitors voluntarily submit to them in order to participate in the contest, sweepstakes, or promotion.  Bonnier has no control over the third-party sponsors’ use of this information.  If a third-party sponsor beyond our control will obtain information that you supply us, we will notify you at the time we collect the information from you.  For certain promotions, only those who provide us with the requested personally-identifying information will be able to order products, programs, and services, or otherwise participate in the promotion’s activities and offerings.
 
@@ -97,11 +97,11 @@ We only use the information we collect for purposes consistent with this policy.
 
 **Your privacy options**
 
-**If you prefer not to receive e-mail communications from other companies** , you may choose to remove yourself from any e-mail lists that we provide to third parties for marketing purposes by sending us an e-mail at emailoptout@bonniercorp.com. You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+**If you prefer not to receive e-mail communications from other companies** , you may choose to remove yourself from any e-mail lists that we provide to third parties for marketing purposes by sending us an e-mail at emailoptout@bonniercorp.com.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
-**If you prefer not to receive postal communication from other companies** , you may choose to remove yourself from any postal mailing lists that we provide to third parties for marketing purposes by sending us an e-mail at emailoptout@bonniercorp.com, or writing us at Bonnier Corporation, P.O. Box 6364, Harlan, IA 51593. You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+**If you prefer not to receive postal communication from other companies** , you may choose to remove yourself from any postal mailing lists that we provide to third parties for marketing purposes by sending us an e-mail at emailoptout@bonniercorp.com, or writing us at Bonnier Corporation, P.O. Box 6364, Harlan, IA 51593.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
-We only want to communicate with you if you want to hear from us.   **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by notifying us at emailoptout@bonniercorp.com. You may also notify us by sending mail to the following address:
+We only want to communicate with you if you want to hear from us.   **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by notifying us at emailoptout@bonniercorp.com.  You may also notify us by sending mail to the following address:
 
 Online Marketing Department  
 Bonnier Corporation  
