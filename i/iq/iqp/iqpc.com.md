@@ -1,22 +1,27 @@
-> *The following text is extracted and transformed from the iqpc.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110072821id_/http%3A//www.iqpc.com/Global/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqpc.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610112627id_/http%3A//www.iqpc.com/Global/About/Privacy-Policy) for the most accurate reproduction.*
 
-# Business Conferences, Events & Training Seminars | Privacy Policy
+# Privacy Policy | IQPC.com
+
+## You are here
+
+[Home](https://web.archive.org/) » About IQPC » Privacy Policy
 
 ##  Please click on the links below for more information
 
-  * [Commitment to User Privacy](http://www.iqpc.com/Global/PrivacyPolicy.aspx#A)
-  * [The Information We Collect & the Primary Purpose for its Collection](http://www.iqpc.com/Global/PrivacyPolicy.aspx#B)
-  * [Membership of IQPC's Divisional Sites](http://www.iqpc.com/Global/PrivacyPolicy.aspx#C)
-  * [Use of Cookies & Log Files](http://www.iqpc.com/Global/PrivacyPolicy.aspx#D)
-  * [Information Sharing: Who We Intend to Share Information With and Why](http://www.iqpc.com/Global/PrivacyPolicy.aspx#E)
-  * [Links to Other Web Sites](http://www.iqpc.com/Global/PrivacyPolicy.aspx#F)
-  * [Surveys & Promotions](http://www.iqpc.com/Global/PrivacyPolicy.aspx#G)
-  * [Security](http://www.iqpc.com/Global/PrivacyPolicy.aspx#H)
-  * [Correcting, Updating or Removing Your Personal Information](http://www.iqpc.com/Global/PrivacyPolicy.aspx#I)
-  * [Data Protection](http://www.iqpc.com/Global/PrivacyPolicy.aspx#J)
-  * [Notification of Changes](http://www.iqpc.com/Global/PrivacyPolicy.aspx#K)
-  * [Canada’s Anti-Spam Legislation](http://www.iqpc.com/Global/PrivacyPolicy.aspx#L)
-  * [Data Protection Policy – Germany](http://www.iqpc.com/Global/GermanPrivacy.aspx)
+  * Commitment to User Privacy
+  * The Information We Collect & the Primary Purpose for its Collection
+  * Membership of IQPC's Divisional Sites
+  * Use of Cookies & Log Files
+  * Information Sharing: Who We Intend to Share Information With and Why
+  * Links to Other Web Sites
+  * Surveys & Promotions
+  * Security
+  * Correcting, Updating or Removing Your Personal Information
+  * Data Protection
+  * Notification of Changes
+  * Canada's Anti-Spam Legislation
+  * [Data Protection Policy – Germany](https://web.archive.org/GermanPrivacy/)
+  * Transfer
 
 
 
@@ -26,7 +31,7 @@ _Last Updated; June 17, 2014_
 
 IQPC is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request. This document is designed to give a clear explanation of IQPC's data processing practices. Please see below for further information or if you have any questions or concerns relating to IQPC's site and/or data protection, please e-mail [database@iqpc.com](mailto:database@iqpc.com).
 
-[Back to Top](http://www.iqpc.com/Global/PrivacyPolicy.aspx#top)
+Back to Top
 
 ##  The Information We Collect & the Primary Purpose for its Collection
 
@@ -43,13 +48,13 @@ Interest Areas & Preferences
 
 IQPC is the sole owner of the information collected on this site.
 
-[Back to Top](http://www.iqpc.com/Global/PrivacyPolicy.aspx#top)
+Back to Top
 
 ##  Membership of IQPC's Divisional Sites
 
 In order to provide our web site users with a personalised and valuable service, we operate several divisions, which require membership. As above, we will collect information from users during the membership process.
 
-[Back to Top](http://www.iqpc.com/Global/PrivacyPolicy.aspx#top)
+Back to Top
 
 ##  Use of Cookies & Log Files
 
@@ -66,37 +71,37 @@ Referring Web Site Addresses
 
 This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of IQPC's web sites. Cookies are also used in connection with the membership of our site. If you choose to not have your browser accept cookies, you will be able to view the majority of our site, however you will not you be able to register as a site member.
 
-[Back to Top](http://www.iqpc.com/Global/PrivacyPolicy.aspx#top)
+Back to Top
 
 ##  Information Sharing: Who We Intend to Share Information With and Why
 
-We do not rent or sell our customer e-mail lists. We may share your contact information with professional organisations (including our event sponsors/exhibitors) to promote similar products and services related to your area of interest. If you do not want to make your details available please email [database@iqpc.com](mailto:database@iqpc.com) indicating either or both of the statements below;
+We do not rent or sell our customer e-mail lists. We may share your contact information with professional organisations (including our event sponsors/exhibitors) to promote similar products and services related to your area of interest. By agreeing to our transfer of your Data to these third party organisations for this purpose, you are deemed to provide your consent to any transfer of your Data to organisations based outside the European Economic Area.  If you do not want to make your details available please email [database@iqpc.com](mailto:database@iqpc.com) indicating either or both of the statements below: 
 
 **I do not wish to have my details made available to other organisations  
 I do not wish to receive information about IQPC events or services  
 **
 
-No list supplied by IQPC may be used by anyone other than for the confidential use of the original mailer. All lists are seeded with decoy names to protect against abuse; violators will be prosecuted.
+No list supplied by IQPC may be used by anyone other than for the confidential use of the original mailer. All lists are seeded with decoy names to protect against abuse; violators will be prosecuted. 
 
-[Back to Top](http://www.iqpc.com/Global/PrivacyPolicy.aspx#top)
+Back to Top
 
 ##  Links to Other Web Sites
 
 IQPC contains some links to other sites. Please be aware that IQPC is not responsible for the privacy practices of such other sites. This privacy statement applies solely to the information collected by IQPC.
 
-[Back to Top](http://www.iqpc.com/Global/PrivacyPolicy.aspx#top)
+Back to Top
 
 ##  Surveys & Promotions
 
 From time to time IQPC may run surveys and promotions and may request information from users as part of these. Participation in these is entirely voluntary.
 
-[Back to Top](http://www.iqpc.com/Global/PrivacyPolicy.aspx#top)
+Back to Top
 
 ##  Security
 
 IQPC takes precautions to protect your information. When users submit sensitive information (such as a credit card number) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. Access to all of our users' information is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. The servers that we store personally identifiable information on are kept in a secure environment.
 
-[Back to Top](http://www.iqpc.com/Global/PrivacyPolicy.aspx#top)
+Back to Top
 
 ##  Correcting, Updating or Removing Your Personal Information
 
@@ -110,22 +115,28 @@ Mail: Level 6, 25 Bligh Street, Sydney, NSW 2000
 Email: [database@iqpc.com.au](mailto:database@iqpc.com.au)  
 **
 
-[Back to Top](http://www.iqpc.com/Global/PrivacyPolicy.aspx#top)
+Back to Top
 
 ##  Data Protection
 
 If you no longer wish to receive newsletters or promotional materials, you may opt-out of receiving these communications by following the unsubscribe method on the promotional piece or returning the item(s) to us with "unsubscribe" marked upon it. However, very occasionally, it may be necessary to send you important service announcements about a conference you are attending, for example, we may contact you to inform you of a venue change.
 
-[Back to Top](http://www.iqpc.com/Global/PrivacyPolicy.aspx#top)
+Back to Top
 
 ##  Notification of Changes
 
 IQPC will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. If at any point we decide to use your information in a manner different from that stated at the time it was collected, we will let know you, by placing a prominent notice on this web site. We will use information in accordance with the privacy policy under which the information was collected.
 
-[Back to Top](http://www.iqpc.com/Global/PrivacyPolicy.aspx#top)
+Back to Top
 
-## Canada’s Anti-Spam Legislation
+## Canada's Anti-Spam Legislation
 
-IQPC has taken all reasonable steps to comply with Canada’s Anti-Spam Legislation. We only email contacts with whom we have had a business relationship with the last 2 years, and people who may have enquired about an event in the last 6 months and people who have opted in to receive our divisional newsletters. Should you receive an unsolicited email from IQPC please email [database@iqpc.com](mailto:database@iqpc.com) and we will remove your details within 48 hours.
+IQPC has taken all reasonable steps to comply with Canada's Anti-Spam Legislation. We only email contacts with whom we have had a business relationship with the last 2 years, and people who may have enquired about an event in the last 6 months and people who have opted in to receive our divisional newsletters. Should you receive an unsolicited email from IQPC please email [database@iqpc.com](mailto:database@iqpc.com) and we will remove your details within 48 hours.
 
-[Back to Top](http://www.iqpc.com/Global/PrivacyPolicy.aspx#top)
+Back to Top
+
+##  Transfer
+
+The internet is a global environment. The data that we collect from you may be transferred to, and stored at, international destinations, including destinations outside the European Economic Area ("EEA"). It may also be processed by international staff (or third party contractors) outside this area, who may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. 
+
+Back to Top
