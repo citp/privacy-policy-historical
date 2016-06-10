@@ -1,75 +1,240 @@
-> *The following text is extracted and transformed from the ppaction.org privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429050927id_/http%3A//www.plannedparenthoodaction.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppaction.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610092245id_/http%3A//www.plannedparenthoodaction.org/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Planned Parenthood Action Center
+# Privacy Policy
 
-## PLANNED PARENTHOOD ACTION FUND ONLINE PRIVACY POLICY
+Planned Parenthood Federation of America, Planned Parenthood Action Fund, and Planned Parenthood Affiliates (collectively “Planned Parenthood”, “we,” “our,” or “us”) respects and is committed to protecting the privacy of users of our websites, applications, and other online services (collectively, the “Online Services”). We want our Online Services to be safe and helpful, and to help make you aware of our data practices we drafted this Privacy Policy, which describes the ways in which Planned Parenthood uses, discloses, and collects information from or about you through [www.plannedparenthood.org](https://www.plannedparenthood.org/), [www.plannedparenthoodaction.org](http://www.plannedparenthoodaction.org/), and all other Online Services that link to this policy. Please be aware that your use of the Online Services is not guaranteed to be anonymous, and Planned Parenthood may collect, use, and disclose information about your use of the Online Services as set forth in this Privacy Policy.
 
-We at the Planned Parenthood Action Fund want this site to be a safe and private place for users. The Action Fund will do its part by not requiring you to register or provide any information at all to use this website. You can do your part by reading this policy and taking the steps outlined below. We will also update this privacy policy as we deem necessary, so be sure to re-read it from time to time. By submitting information to us, you agree that PPAF may use the information in accordance with this Privacy Policy.
+Important note: This Privacy Policy does not apply to information you may share with Planned Parenthood in connection with your receipt of healthcare services online or via in-person visits at facilities operated by Planned Parenthood Affiliates. Such information is protected by state and federal law.
 
-## PERSONAL INFORMATION YOU CHOOSE TO PROVIDE
+For your convenience we present below important highlights of the Privacy Policy, which briefly summarize: (1) how we use your information, (2) to whom we disclose your information, (3) how we collect information from or about you through the Online Services, (4) the choices you have with regard to the information we collect, and (5) how you may contact us. The full Privacy Policy governing our data practices follows the highlights section. We encourage you to read both the highlights and the full Privacy Policy carefully to understand how we will treat your information.
 
-To register with our site or to become a member of the Action Fund, you will have to provide some personal information, such as your name, mailing address, and e-mail address. In addition to the required information for membership, your subscription page will give you the option to provide additional information. If you do submit personal information to us, we will use that information for the purposes for which it was submitted. We may also use your information in other ways, such as to contact you about other Planned Parenthood activities and/or fundraising campaigns or as otherwise disclosed to you at the point of collection, and we may share your information with other organizations.
+## PRIVACY POLICY HIGHLIGHTS
 
-a. If you provide your name, address, and e-mail address by registering with our site, we will have a record of your information.
+### How We Use Your Information
 
-b. If you choose to register with, donate to, or become a member of the Planned Parenthood Action Fund, your information will be added to our list and database.
+We and our affiliates may use the information we collect from or about you through the Online Services for a number of purposes, including, but not limited to:
 
-c. If you register with our site or donate to or become a member of the Action Fund, your information will also be shared with the Planned Parenthood Action Network, and you will receive informational updates and action alerts on reproductive rights issues. The Action Network is an electronic network, and therefore we need an e-mail address to contact you. We also need your full postal address in order for our systems to match you to the correct state and federal districts, thereby ensuring that you are primarily sending messages to your designated elected officials.
+  * providing you with products, services, or information you request;
+  * processing any transactions you have authorized;
+  * following up on services or information we provided to you;
+  * contacting you about fundraising campaigns or advocacy efforts;
+  * delivering advertisements targeted to your interests;
+  * conducting research;
+  * promoting Planned Parenthood’s services;
+  * processing an employment, internship, or volunteer application;
+  * providing you with information about the Online Services or required notices;
+  * allowing us to improve the Online Services and the services we provide;
+  * generating and analyzing statistics about your use of the Online Services; and
+  * detecting, preventing, and responding to fraud, intellectual property infringement, violations of our Terms of Use, violations of law, or other misuse of the Online Services.
 
-d. We will receive and retain a record of any other information you choose to provide, such as optional information you submit.
 
-e. We use third-party vendors to provide services on this site and in our offline business operations. The information that you submit on this site may be provided to those vendors on a confidential basis so that those vendors can provide services (such as maintaining our membership database, sending e-mail messages to members, conducting fundraising campaigns, or processing credit card transactions) on our behalf.
 
-##   
-FINANCIAL INFORMATION YOU CHOOSE TO PROVIDE
+We also may combine or aggregate any of the information we collect through the Online Services or elsewhere for any of these purposes, including for the delivery of Targeted Advertisements.
 
-If you choose to make an online donation to the Action Fund, you will have to provide your credit card billing information. As this information is collected and transferred over the Internet to our secure server, it is encrypted using SSL, the industry standard security technology that is designed to protect sensitive information. Our donation pages display the Verisign Secure Site Seal to assure you that our website is authentic and that all transactions are secured by SSL encryption. If you are making a one-time donation, the credit card information that you provide at the time of donation is stored only for the duration of the transaction. If you are making a recurring donation, we encrypt your credit card number and store it in our secure database. Your credit card information is used only to process donations and will not be used for any other purposes.
+Read more about how we use your information
 
-## INFORMATION AUTOMATICALLY COLLECTED AND STORED
+### To Whom We Disclose Your Information
 
-Any website you enter, including <http://www.plannedparenthoodaction.org/>, automatically collects and stores some information about your computer and your visit: your computer's Internet Protocol (IP) address (this is not your e-mail address); the domain from which you access the Internet (e.g., "AOL.com" or "Princeton.edu"); the name, version, and specifications of your computer and your computer's operating system; the Internet address of the website, if any, from which you came to our site; the date and time you arrived at our site and how long you spent on the site; and which pages you visited.
+We may disclose the information we collect from or about you through the Online Services:
 
-If you just browse through our site, read pages, or download information, the above information is all that we collect. We use this information to formulate statistics (possibly with the help of outside experts) that show the number of visitors to the different sections of our site and to help us make our site more useful to visitors. For example, we use the browser information to help us design our website so that as many people as possible will be able to view the pages correctly. These statistics do not reveal personal information.
+  * to our affiliates;
+  * to service providers who work on our behalf;
+  * to other organizations that work with us for the provision of co-branded communications about Planned Parenthood and those organizations’ products or services;
+  * to other organizations with whom Planned Parenthood participates in exchanges of donor information (e.g., donor list rental) and the service providers that facilitate such exchanges;
+  * as required by law;
+  * when required to protect our rights or your safety or the safety of others, or to detect, prevent, or respond to misuse of the Online Services; and
+  * to the extent reasonably necessary to proceed with the negotiation or completion of a merger, acquisition, or sale of all or a portion of our assets.
 
-## USE OF COOKIES
 
-If you choose to provide information by registering with, donating to, or becoming a member of the Action Fund, we may place a small text file, known as a "cookie," on your hard drive so that you will be recognized as you move around the Action Fund pages. Unless you opt-in to use a "persistent cookie," the information is only captured for the duration of your browser session through the use of a "session cookie." For example, if you join the Action Fund and then navigate through different pages of the Action Fund site, the cookie will maintain the information you entered when you filled out the Sign Up page. As you move through the site, any fields requiring information about you that has already been captured will be pre-populated. However, once you close your browser window, the session cookie times out. If you open a new browser window and return to the Action Fund pages, your personal information fields will not be pre-populated.
 
-In certain circumstances, you may be given the option to turn on a "persistent" or "permanent cookie" on your computer (e.g., "Would you like us to remember your password?" messages). A persistent cookie will remember your user name and password and will not time out at the end of your browser session.
+In addition, we may share de-identified information, such as reports on user demographics and traffic patterns, with third parties, including researchers.
 
-## SECURITY
+Read more about to whom we disclose your information
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. The security measures used on this site include, but are not limited to, industry-standard Secure Socket Layer (SSL) technology, Versign certificates, firewalls, and internal policies to maintain the security of stored data. 
+### How We Collect Information From or About You
 
-When you register with, donate to, or become a member of the Action Fund through this website, you will have a personal subscription management page, where you will be able to edit your personal information and recurring donation information, as well as review your messaging, advocacy, and donation records. Access to your personal subscription management page is controlled to protect the privacy of your data — our website requires that you log on with your e-mail address and personal password to access your personal subscription management page. The log-on process may be automated if you choose to accept the placement of a persistent cookie on your PC. See Use of Cookies and Your Help Is Needed for more information on persistent cookies.
+We and our service providers collect information that you provide when you use the Online Services, including, but not limited to, when you:
 
-Remember, many breaches of security occur when users are not vigilant in protecting their own information. The next section of our privacy policy suggests some actions you can take to help control the security of your personal information.
+  * create an account;
+  * make a donation;
+  * contribute content to the Online Services;
+  * use interactive features on the Online Services (e.g., tools, apps, or the chat feature);
+  * make a purchase;
+  * sign an online petition;
+  * apply for a job or for a volunteer or internship opportunity;
+  * sign up to receive updates and other communications from Planned Parenthood;
+  * enter a contest, sweepstakes, or promotion;
+  * participate in polls or surveys; or
+  * otherwise contact us with a question, comment, or request.
 
-## YOUR HELP IS NEEDED
 
-Although we do our best to protect your privacy on <http://www.plannedparenthoodaction.org/>, we need your help.
 
-a. You have control over your own privacy. Think carefully before providing any personal or financial information.
+The information that you provide us can include, but is not limited to:
 
-b. Although this site has security measures in place to protect the loss, misuse, and alteration of the information under our control, no e-mail is completely secure against interception. If you are worried because your communication is very sensitive, do not send it.
+  * your name;
+  * your photograph;
+  * your contact information;
+  * your account information;
+  * demographic information such as your age, gender, and ethnicity;
+  * transaction-related information, such as credit card information;
+  * information you provide when submitting an employment/volunteer application; and
+  * information you provide when you request information or contact us.
 
-c. Remember that we cannot protect your privacy once you leave our site, such as by "hyperlink." So when you visit other websites, check each one's privacy policy yourself, and be careful about the information you offer up.
 
-d. You should be aware that we use personalization measures designed to make your site experience more enjoyable (i.e., personalized links in e-mail that allow pre-population of data fields with certain personal information). We need your help to protect the information embedded in these links. You should always keep your e-mail account information secure and not allow others to access your e-mail account.
 
-e. In addition, you should only forward Action Alert Messages to others through the "Tell a Friend" buttons provided within the e-mail. When you use your e-mail system’s forwarding capabilities (i.e., not "Tell a Friend”), others may be able to take actions in your name and/or access your personal information.
+We and our service providers may automatically collect certain technical information from your computer or mobile device over time and across different websites when you use the Online Services using cookies or similar technologies, such as your Internet Protocol address, your browser type, your operating system, the pages you view on the Online Services, etc. This information allows us and our service providers to recognize you and personalize your experience if you return to the Online Services, to improve the Online Services and the services we provide, and to provide you with advertisements targeted to your interests.
 
-f. You may be given the option to turn on a persistent cookie on your computer (see Use of Cookies above). Remember that once you have set a persistent cookie, anyone can access your personal information by using your computer.
+Read more about how we collect information from or about you
 
-How to Unsubscribe
+### Your Choices
 
-If you do not want to receive any e-mail from us in the future, visit your personal subscription management page to deactivate your account.  Note that your donation records will remain in the Action Fund’s databases, but your login and e-mail address will be deactivated.
+If you do not want the Online Services to collect information through the use of cookies, you can set your web browser to reject cookies from the Online Services.
 
-You may also contact the Action Fund by mail, e-mail, or telephone, as follows:
+If you wish to review or correct the contact information we have on file for you or inform us how you wish your contact information to be used, please contact our staff using the contact information below.
 
-E-mail:  [actionfund@ppfa.org](mailto:actionfund@ppfa.org)
+Read more about your choices
 
-Mail:  Planned Parenthood Action Fund  
-          1110 Vermont Ave. NW  Washington, DC 20005 
+### How to Contact Us
 
-Telephone:  202-973-4800
+If you have any questions about this Privacy Policy or about our data practices regarding the information we collect through the Online Services, please contact us at:
+
+Member Services  
+PPFA  
+434 West 33rd Street  
+New York, NY 10001  
+[member.services@ppfa.org](mailto:member.services@ppfa.org)  
+1-800-430-4907
+
+## FULL PRIVACY POLICY
+
+This Privacy Policy describes the ways in which Planned Parenthood uses, discloses, and collects information from or about you through the Online Services. By using the Online Services, you consent to the processing of your information as set forth in this Privacy Policy, now and as amended by us.
+
+### How do we use your information?
+
+We and our affiliates may use the information we collect from or about you through the Online Services for a number of purposes, including, but not limited to:
+
+  * providing you with products, services, or information you request;
+  * processing any transactions you have authorized;
+  * following up on services or information we provided to you;
+  * contacting you about fundraising campaigns or advocacy efforts;
+  * delivering advertisements targeted to your interests based on your previous activity on the Online Services (commonly referred to as “Targeted Advertisements”) as well as other marketing communications, promotional materials, or advertisements that may be of interest to you;
+  * conducting research;
+  * promoting Planned Parenthood’s services or illustrating the importance of reproductive health and rights;
+  * processing an employment, internship, or volunteer application;
+  * providing you with information about the Online Services or required notices;
+  * allowing us to improve the Online Services and the services we provide, such as by better tailoring our content to our users’ needs and preferences;
+  * generating and analyzing statistics about your use of the Online Services; and
+  * detecting, preventing, and responding to fraud, intellectual property infringement, violations of our Terms of Use, violations of law, or other misuse of the Online Services.
+
+
+
+We also may combine or aggregate any of the information we collect through the Online Services or elsewhere for any of these purposes, including for the delivery of Targeted Advertisements.
+
+To further demonstrate how we and our affiliates may use the information we collect from or about you through the Online Services, we provide the following examples:
+
+  * If you make a donation via the Online Services, your information will be added to one or more of our supporter lists and databases, and you may be contacted about other Planned Parenthood activities, news, and/or fundraising campaigns.
+  * If you join or opt-in to our activist network, you will receive informational updates and action alerts about reproductive health and rights issues. In addition, your information will be added to one or more of our supporter lists and databases, and you may be contacted about other Planned Parenthood activities, news, and/or fundraising campaigns.
+  * If you view certain content on the Online Services, we or a service provider of ours may later display an advertisement related to that content on a different webpage that you visit through the Online Services or on another non-Planned Parenthood website that has a relationship with the service provider.
+  * If you use our website to submit your resume or materials for a paid or volunteer position, your information will be stored in a centralized database and may be accessible to our separately incorporated affiliates, who may be seeking candidates for full-time, part-time, or volunteer positions.
+
+
+
+### Under what circumstances do we disclose your information?
+
+We may disclose the information we collect from or about you through the Online Services:
+
+  * to our affiliates;
+  * to service providers who work on our behalf and who have agreed to keep the information confidential and use the information solely to carry out the services that they are performing for us, including, but not limited to, service providers who process credit card transactions, facilitate our fundraising activities and campaigns, and deliver Targeted Advertisements on our behalf;
+  * to other organizations that work with us for the provision of co-branded communications about Planned Parenthood and those organizations’ products or services;
+  * to other organizations with whom Planned Parenthood participates in exchanges of donor information (e.g., donor list rental) and the service providers that facilitate such exchanges;
+  * as required by law, such as to comply with a subpoena or other legal process, a court order, or government reporting obligations;
+  * when we believe in good faith that disclosure is necessary (a) to protect our rights, the integrity of the Online Services, or your safety or the safety of others, or (b) to detect, prevent, or respond to fraud, intellectual property infringement, violations of our Terms of Use, violations of law, or other misuse of the Online Services; and
+  * to service providers, advisors, and other third parties to the extent reasonably necessary to proceed with the negotiation or completion of a merger, acquisition, or sale of all or a portion of our assets.
+
+
+
+In addition, we may share de-identified information, such as reports on user demographics and traffic patterns, with third parties, including researchers.
+
+The Online Services also may contain links to third-party websites and applications for your convenience and information. Planned Parenthood does not control those third-party websites and applications or their privacy practices, which may differ from ours, and we do not endorse or make any representations about those third-party websites and applications. You acknowledge and agree that we are not responsible for the collection and use of your information by third-party websites and applications that are not under our control, and such information is not governed by this Privacy Policy. Remember that we cannot protect your privacy once you leave the Online Services, so when you visit third-party websites and applications, we encourage you to review their privacy policies and be careful about the information you submit or share.
+
+### What information do we collect?
+
+Information You Provide – We and our service providers collect information that you provide when you use the Online Services, including, but not limited to, when you:
+
+  * create an account;
+  * make a donation;
+  * contribute content to the Online Services, such as when you “Share Your Story” or comment on an article;
+  * use interactive features on the Online Services, such as our tools and apps or the chat feature;
+  * make a purchase (e.g., purchase products from the Planned Parenthood Marketplace);
+  * sign an online petition;
+  * apply for a job or for a volunteer or internship opportunity;
+  * sign up to receive updates and other communications from Planned Parenthood;
+  * enter a contest, sweepstakes, or promotion;
+  * participate in polls or surveys; or
+  * otherwise contact us with a question, comment, or request.
+
+
+
+The information that you provide us can include, but is not limited to:
+
+  * your name;
+  * your photograph;
+  * your contact information, such as your physical address, email address, and phone number;
+  * your username, password, and other account information;
+  * demographic information such as your age, gender, and ethnicity;
+  * transaction-related information, such as credit card information;
+  * information you provide when submitting an application for employment, internship, or volunteer opportunities; and
+  * information you provide when you request information or contact us.
+
+
+
+You have control over your own privacy. Think carefully before providing any personal or financial information online.
+
+Information Automatically Collected From You – We and our service providers may automatically collect certain technical information from your computer or mobile device over time and across different websites when you use the Online Services, such as your Internet Protocol address, your geographic location, your browser type, your operating system, the pages you view on the Online Services, the pages you view immediately before and after you access the Online Services, and the search terms you enter on the Online Services. This information allows us and our service providers to recognize you and personalize your experience if you return to the Online Services, to improve the Online Services and the services we provide, and to provide you with Targeted Advertisements. We and our service providers may collect this information using “cookies,” which are small text files that many websites save on your computer when you visit and access when you return, or similar technologies. We also collect this information by setting a unique anonymous identifier called User ID, set by Universal Google Analytics. User ID helps identify unique users across multiple devices and browsers. Clearing your cookies does not ensure that you will not be recognized as the same unique visitor even after you cleared them. Website visitors who do not want their data collected with Google Analytics in this way can install the [Google Analytics opt-out browser add-on.](https://support.google.com/analytics/answer/181881)
+
+### Online advertisements
+
+Our third-party advertising partners may use cookies and similar technologies on the Online Services and on third-party websites on which our ads appear, which allow the advertising partners to track certain information about user behavior, such as "click-stream data." The information practices of these advertising partners are governed by their own privacy policies and are not governed by this Privacy Policy.
+
+### Where is this information processed?
+
+Information collected through the Online Services will be processed in and subject to the laws of the United States. In addition, we may transfer your information outside the United States to our affiliates and service providers located in other countries. By using the Online Services, you consent to such transfer to, and processing in, the United States and these other countries.
+
+### How is your information secured?
+
+We strive to maintain reasonable administrative, technical, and physical safeguards designed to safeguard the information collected through the Online Services. However, no information system can be 100% secure, so we cannot guarantee the absolute security of your information. Moreover, we are not responsible for the security of information you transmit to the Online Services over networks that we do not control, including the Internet and wireless networks. If you have concerns about the security of sensitive information, do not send it electronically.
+
+### Your choices
+
+If you do not want the Online Services to collect information through the use of cookies, you can set your web browser to reject cookies from the Online Services. Each browser is different, so you should check your browser’s “Help” menu to learn how to change your cookie preferences. If you reject or block cookies from the Online Services, however, the Online Services may not function as intended.
+
+In addition to the records left on your computer by cookies, your browser and operating system contain other records of your web browsing and other actions (e.g., browser history). As with cookies, you can find information about how to clear these history trails in your browser’s "Help" menu.
+
+We do not currently respond to web browser “do not track” signals. If we do so in the future, we will describe how we do so in this Privacy Policy. For more information about do not track, visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
+
+If you wish to review the contact information we have on file for you, correct your contact information, or inform us how you wish your contact information to be used, please contact our staff using the contact information below.
+
+To opt-out of Google Analytics for the web, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout) and install the add-on for your browser.
+
+### Changes to this Privacy Policy
+
+If we update this Privacy Policy, we will notify you by posting a new Privacy Policy on this page. If we make any revisions that materially change the ways in which we use or disclose the information previously collected from you through the Online Services, we will give you the opportunity to consent to such changes before applying them to that information.
+
+### Your California Privacy Rights
+
+If you reside in California and have provided your personally identifiable information to us, you may request information once per calendar year about our disclosures of certain categories of your personally identifiable information to third parties for their direct marketing purposes. Such requests must be submitted to us in writing at the following email address: [member.services@ppfa.org](mailto:member.services@ppfa.org)
+
+### Contact us
+
+If you have any questions about this Privacy Policy or about our data practices regarding the information we collect through the Online Services, please contact us at:
+
+Member Services  
+PPFA  
+434 West 33rd Street  
+New York, NY 10001  
+[member.services@ppfa.org](mailto:member.services@ppfa.org)  
+1-800-430-4907
+
+When you contact us or otherwise submit content via the Online Services, if you desire to remain anonymous, you should not tell us your name or the names of your friends or any other individuals. To fully protect your privacy, do not provide any information that you think may identify you or others.
+
+This Privacy Policy was last updated on June 2, 2014.
