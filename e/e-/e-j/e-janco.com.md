@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the e-janco.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209122913id_/http%3A//e-janco.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-janco.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610063755id_/http%3A//e-janco.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy e-janco.com - Janco Associates
 
 ### Tracking IP addresses
 
-> All Janco Associates, Inc.'s web sites log IP addresses for system administration purposes and to track a user's session. This provides Janco Associates, Inc. with an idea of which parts of our web site users are visiting, and helps Janco make editorial decisions regarding additional content creation and how to best maximize the value of our web sites. 
+> All Janco Associates, Inc.'s web sites log IP addresses for system administration purposes and to track a user's session. This provides Janco Associates, Inc. with an idea of which parts of our web site users are visiting, and helps Janco make editorial decisions regarding additional content creation and how to best maximize the value of our web sites.
 > 
 > Janco does not make personally identifiable information (information that can be used to identify an individual user) available to any organization other than Janco Associates, Inc. and it web sites.
 
 ### Registration
 
-> Janco requires potential customers to submit a variety of information about themselves, including contact information that includes business telephone numbers, e-mail addresses, mailing addresses. Janco Associates keeps this information for Janco's internal and e-mail campaign use only. 
+> Janco requires potential customers to submit a variety of information about themselves, including contact information that includes business telephone numbers, e-mail addresses, mailing addresses. Janco Associates keeps this information for Janco's internal and e-mail campaign use only.
 > 
 > Janco does not re-sell or re-distribute any registration information that it gathers from it's customers or it's site visitors.
 > 
 > Janco does not make personally identifiable information (information that can be used to identify an individual user) available to any other organization. Customers and registered users have an option to opt-out of any communications. Once an e-mail address is opted-out that address will never be allowed to opt in again.
 
-### Google and DoubleCick DART cookie 
+### Google and DoubleCick DART cookieÂ 
 
 > Janco has on its sites some Google ads. Google provides interest based advertising.
 > 
