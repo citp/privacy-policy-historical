@@ -1,120 +1,98 @@
-> *The following text is extracted and transformed from the usedcars.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225073928id_/http%3A//www.usedcars.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedcars.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611005518id_/http%3A//www.usedcars.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – UsedCars.com
 
-**Privacy Policy**
-
 **SCOPE OF THIS PRIVACY POLICY**
 
-At usedcars.com we take privacy seriously. This Privacy Policy describes our policies for handling the information about you that we collect and receive through this website. You can visit [usedcars.com](http://www.usedcars.com/) without revealing who you are or providing any personal information about yourself. By using this website, you agree to the terms of this Privacy Policy.
+At Dealix Corporation ("Dealix", "We", "Us", or "Our") we take privacy seriously. This Privacy Policy describes our policies for handling the information about you that we collect and receive through this website. You can visit our sites without revealing who you are or providing any personal information about yourself. By using this website, you agree to the terms of this Privacy Policy. 
 
-This Privacy Policy does not apply to practices of businesses that we do not own or control or people we do not employ. In addition, this website may contain links to other websites, such as automotive research, financing or insurance websites, and we are not responsible for the content, policies or privacy practices of such websites.
+This Privacy Policy applies to the website on which it is located.  This Privacy Policy does not apply to practices of businesses that we do not own or control or people we do not employ. 
 
-[Usedcars.com](http://www.usedcars.com/) is a Participant in the [TRUSTe Privacy Seal Program](http://www.truste.com/privacy-program-requirements/index.html). TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
+If you have questions or concerns regarding this Privacy Policy, you should first contact us at [privacyquestions@dealix.com](mailto:feedback@dealix.com).
 
-If you have questions or concerns regarding this statement, you should first contact us at [usedcars@dealix.com](mailto:usedcars@dealix.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe here](http://www.truste.org/consumers/watchdog_complaint.php).
-
-TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+In addition, this website may contain links to other websites, such as automotive research, financing or insurance websites, and we are not responsible for the content, policies or privacy practices of such websites. 
 
 **INFORMATION WE COLLECT**
 
 **Information You Submit to Us**
 
-At usedcars.com, we introduce shoppers like you to automobile retailers, retail networks or financing companies. We collect information that you submit to us through this website ("Submitted Information"), including personal information you may submit to us in connection with requesting an automobile price quote, financing or insurance, responding to surveys, contacting us by email or creating a usedcars.com user account. Submitted Information may include personal information about you such as your name, address, phone number, email address.  Submitted Information may also include information regarding potential trade-in vehicles, employer and employment status, social security number, residence information, bankruptcy status, date of birth, household income and availability of a cosigner.
+At Dealix, we introduce vehicle shoppers like you to auto dealers, retail networks or financing companies. We collect information that you submit to us through this website ("Submitted Information"), including personal information you may submit to us in connection with requesting an automobile price quote, financing or insurance, responding to surveys or contacting us by email. Submitted Information typically includes name, address, and phone numbers, email address, and may also include information regarding potential trade-in vehicles, employer and employment status, social security number, residence information, bankruptcy status, date of birth, household income and availability of a cosigner. 
+
+Our website also offers a publicly accessible blog. You should be aware that any information you provide within the blog may be read, collected, and used by others who access them. _To request removal of your personal information from our blog, please review the "Access" section below_.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **Passively Collected Information**
 
-As you browse our website we collect certain information about your visit and your Internet activities through the use of cookies (if your browser permits it), web beacons and from your browser. This information does not consist of personally identifiable information, but includes your browsing history on this site or certain other sites, your IP address, browser type and other information.
+As you browse our website we collect certain information about your visit and your Internet activities through the use of cookies, web beacons and from your browser. This information does not consist of personally identifiable information, but includes your browsing history on this site or certain other sites, your IP address, browser type and other information. In addition to information collected by us, we may allow our affiliated companies or other third-parties to use cookies and web beacons to track non-personally identifiable information about visitors to our site. 
 
-We use this information, which does not identify individual users, to customize users’ experience on the site, to analyze and measure the effectiveness of the site, to administer the site, and to customize the content of advertisements users may see on this site as well as other websites.
+We use this information, which does not personally identify users, to analyze trends, to administer the site, to target relevant content and advertising to users, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to your Submitted Information. We have no access or control over how third parties may use passively collected information about your use of this website.
 
-We do not link this automatically-collected data to personally identifiable information.
+**Social Media Features**
 
-We allow third-party companies to use cookies and web beacons on this site to collect non-personally identifiable information about user activity and to track users on this site and across the Internet.  In particular, we, or third-parties that we allow, use information from cookies to deliver relevant advertisements to users on this site and on other sites across the Internet.  If you would like more information about this practice and to know your choices about not having this information used by participating companies, click here: <http://www.networkadvertising.org/>.
+Our website includes social media features, such as the Facebook Like button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it. 
 
-You can also choose not to accept the cookies delivered by this site. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. Most Web browsers automatically accept cookies, but browsers usually provide the option to disable this feature.  Consult your browser’s "Help" menu to learn more about disabling or deleting cookies.
+**HOW WE USE AND SHARE YOUR PERSONAL INFORMATION**
 
-**HOW WE USE YOUR PERSONAL INFORMATION**
+**Responding To Your Requests**  
+When you provide us with Submitted Information in connection with a price quote or financing request, we will use and share your Submitted Information in one or more of the following ways: 
 
-When you provide us with Submitted Information in connection with an automobile price quote or financing request, we will forward your Submitted Information in one of the following ways:
-
-  * Directly to one of our participating automobile dealers who can respond to your request for information about a vehicle; 
-  * To one of our business partners (generally an automobile manufacturer or another network of participating automobile dealers) who will then forward your Submitted Information on to the automobile dealer selling the vehicle you have requested information about; or 
-  * To one of our business partners who can respond to your request for information about automobile financing or insurance (we do not provide financing or insurance directly, but instead transmit those requests to third-party vendors for consideration). 
-
-
-
-Note that the use of your Submitted Information by our business partners or the automobile dealer, manufacturer, finance or insurance provider to which we forward your Submitted Information is not under our control and is subject to the privacy policies of those entities.
-
-In addition to directly or indirectly forwarding your Submitted Information to an automobile dealer or provider of financing or insurance services, we may use your Submitted Information in the following ways:
-
-  * We may use your information for our internal purposes unrelated to any transaction, such as to help improve our website, better understand our customers' needs or to develop new offerings in which you may be interested; and
-  * We may aggregate your personal information with information from other visitors to prepare reports (that do not include personally identifying information) on site usage, purchase history or other factors for sale or distribution to others.
+  * Forwarding it directly to one of our participating automobile dealers who can respond to your request;
+  * Forwarding it to a third party (generally an automobile manufacturer or another network of participating automobile dealers) who will then forward your Submitted Information on to an automobile dealer who can respond to your request; Forwarding it to a third party who can respond to your specific request for information about automobile financing or insurance (we do not provide financing or insurance directly, but instead transmit those requests to third-party vendors for consideration); and
+  * To contact you, including via email, to thank you for providing your Submitted Information, conduct satisfaction surveys or other administrative purposes related to your request.
 
 
 
-We do not share, sell, rent or trade your Submitted Information with third parties for promotional purposes except as described in this policy.
+**Additional Uses of Your Submitted Information**  
+In addition to using your Submitted Information to respond to your request, we may use or share it in the following ways: 
 
-**COMMUNICATIONS FROM USEDCARS.COM AND OTHERS**
-
-You will receive a thank you email following your submission of a request for information about a vehicle or related products and services through usedcars.com.  You may also receive a survey or marketing email from us by email after submitting your information. You will be able to opt-out of receiving future surveys or marketing emails from usedcars.com by clicking unsubscribe on the bottom of the email.
-
-You should expect to receive communications from the automobile dealer, manufacturer, network of automobile dealers,  or finance or insurance provider to which we forward your Submitted Information.  Any request to opt-out of future communications from these parties must be made directly to that party.
-
-**OTHER DISCLOSURE**
-
-We reserve the right to disclose your personally identifiable information under the following circumstances:
-
-  * As required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process;
-  * To investigate or take action against illegal activity, suspected abuse or unauthorized use of the site;
-  * To protect the property or safety of usedcars.com users or others; 
-  * To enforce our Terms of Service; and
-  * In the event of a sale of usedcars.com to another entity, we will disclose the information to the buyer.
+  * To contact you, including via email, with marketing offers we believe will be relevant to you; 
+  * With our affiliates or other third parties to contact you, including via email, with marketing offers, to use in connection with their marketing and advertising activities, or to use for their internal business purposes such as statistical analysis and reporting;
+  * For our internal purposes unrelated to any transaction, such as to help improve our website, better understand our customers' needs or to develop new offerings in which you may be interested; 
+  * To aggregate your Submitted Information with information from other visitors to prepare reports (that do not include personally identifying information) on site usage, purchase history or other factors for sale or distribution to others; 
+  * With our affiliated companies or other third parties that provide services to help us with our business activities such as submitting email communications to you on our behalf. These companies are authorized to use your Submitted Information _only as necessary_ to providethese services to us;
+  * As required by law, such as to comply with a subpoena, or similar legal process;
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+  * If Dealix is involved in a merger, acquisition, or sale of all or a portion of its assets,  you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your Submitted Information, as well as any choices you may have regarding your Submitted Information; and 
+  * With any other third party with your prior consent to do so. 
 
 
 
-**TELL-A-FRIEND**
+We will share your Submitted Information with third parties only in the ways that are described in this Privacy Policy. 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Usedcars.com does not store this information.
+**Your Privacy Choices**
 
-Your friend may contact us at [usedcars@dealix.com](mailto:usedcars@dealix.com) to request that we remove this information from our database.
+Collecting your Submitted Information and sharing it with automobile dealers and others as described above is the central purpose of this website, so your ability to use this site without the potential use and disclosure of information described above is limited.  Your use of this website and providing Submitted Information is voluntary and you always have the option of not visiting the site or providing Submitted Information to us. In addition, we do not recognize or take any action with respect to do-not-track signals that may be provided by your web browser. You can, however, exercise the following choices with respect to certain information about you that we collect and use:
+
+  * **Cookies**.  If you do not wish for cookie information to be collected when you visit the Site, you may set your browser to refuse cookies, or to alert you when cookies are being sent.  If you do so, please note that some parts of this Site may then be inaccessible or may not function properly. 
+  * **Email Offers From Us**.  If you do not wish to receive email offers or communications from us (other than transactional messages relating to your request for a price quote or other information), you can opt-out of receiving email information from us by using the unsubscribe process in the email.  Please note that if you request to opt-out of receiving emails from us and subsequently provide us with Submitted Information, we will assume that you wish to reinstate your relationship with us and we will use your information as described in this Privacy Policy, unless you subsequently request to opt-out.
+  * **Online Behavioral Advertising**.  Many third-party advertising networks engage in behavioral advertising, that is, delivering advertising based on information gathered about you through cookies and web beacons that track your activities across multiple websites.  Some of these advertising networks participate in the Network Advertising Initiative and/or the Digital Advertising Alliance.  You can request that participating companies not deliver behavioral advertising to you by visiting <http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/> and following the directions.  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+
+
 
 **LINKS TO OTHER SITES**
 
-This website contains links to other sites that are not owned or controlled by us. Please be aware that we, usedcars.com are not responsible for the privacy practices of such other sites.
-
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
-
-This privacy statement applies only to information collected by this site.
+This Privacy Policy applies only to information collected by this website. This website contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. 
 
 **YOUR CONSENT**
 
-Prior to providing us with any of your Submitted Information you can change your mind and cancel the submission by exiting the website. Once you submit your information to us through our website we may use it for any of the purposes mentioned above without first obtaining your consent. You do not have the choice of opting out, or requesting that we do not use your information, for any of the purposes mentioned above once you submit it to us. If you submit an application or request information about financing or insurance, you expressly authorize us and our third party partners to contact you in connection with each such request regardless of whether or not the number you provide us is listed on a "Do Not Call" list.
-
-If you request to opt-out of receiving emails from us and subsequently submit a request for information regarding a vehicle or service through the site, we will assume that you wish to reinstate your relationship with us and we will use your information as described in this policy, unless you subsequently request to opt-out.
+Prior to providing us with any of your Submitted Information you can change your mind and cancel the submission by exiting the website. Once you submit your information to us through our website we may use it for any of the purposes mentioned above without first obtaining your consent. You do not have the choice of opting out, or requesting that we do not use your information, for any of the purposes mentioned above once you submit it to us. If you submit an application or request information about financing or insurance, you expressly authorize us and our third party partners to contact you in connection with each such request regardless of whether or not the number you provide us is listed on a "Do Not Call" list. 
 
 **ACCESS**
 
-If you would like to access and update your personal information to correct or update inaccuracies, please log onto the site and re-populate the form to modify your information and resubmit your request. Should you want to modify information previously provided, please [contact us](https://web.archive.org/about/feedback.aspx).
+If you would like to access and update your PII to correct or update inaccuracies, please log onto the site and re-populate the form to modify your information and resubmit your request. Should you want to modify information that you have previously provided and that is under our possession or control, or if you want to request that such information be deleted, please [contact us.](http://dealix.com/aboutus/contact.aspx)
+
+If your information has been shared with a third party, as described above, then that third party has received their own copy of your data.  If you have been contacted by one of these third parties and wish to correct or request they delete your information, please contact them directly.  
+We will retain your information for as long as your account is active or as needed to provide you services or for the uses outlined in How We Use and Share Your Information section above.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **INFORMATION SECURITY**
 
-We maintain industry standard physical, electronic and other procedural safeguards to comply with applicable privacy laws to guard your nonpublic personal information. We also assess new technology for protecting sensitive customer information on an ongoing basis. When we forward your Submitted Information to an automobile dealer in our network, we ask that dealer to commit to use your Submitted Information only to respond to your request for information. However, please note that when your Submitted Information is forwarded to an automobile dealer or other third party provider, your information is no longer under our control will be handled according to the security and privacy policies of that dealer or third party provider which may differ from ours.
-
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration forms, we encrypt that information using secure socket layer technology (SSL). 
-
-We generally retain your Submitted Information for two years following the deactivation of your account or, if you do not have an account, your submission of a request for information through usedcars.com. We may retain your information for longer in the event that it is needed to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We maintain industry standard physical, electronic and other procedural safeguards to comply with applicable privacy laws to guard your nonpublic personal information. We also assess new technology for protecting sensitive customer information on an ongoing basis. When you enter sensitive information (such as a credit card number) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL). When we forward your Submitted Information to an automobile dealer in our network, we ask that dealer to commit to use your Submitted Information only to respond to your request for information. However, please note that when you Submitted Information is forwarded to an automobile dealer or other third party provider, your information is no longer under our control will be handled according to the security and privacy policies of that dealer or third party provider which may differ from ours. 
 
 **PRIVACY POLICY CHANGES**
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the changes taking effect.
+We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page prior to the changes taking effect. 
 
 **OTHER INFORMATION**
 
-If you have any questions about our Privacy Policy or privacy policies, please feel free to [contact us](https://web.archive.org/about/feedback.aspx). You can also reach us by writing us at Dealix Corporation, 720 Bay Road, Suite 200, Redwood City, CA 94063.
+If you have any questions about this Privacy Policy, please feel free to [contact us.](http://dealix.com/aboutus/contact.aspx) You can also reach us by writing to us at Dealix Corporation, 720 Bay Road, Suite 200, Redwood City, CA 94063.
 
-**EFFECTIVE DATE**
-
-The effective date of this Privacy Policy is October 26, 2011.
+Effective Date:  09/24/2014
