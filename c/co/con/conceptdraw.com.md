@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conceptdraw.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226090236id_/http%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptdraw.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610164832id_/http%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.*
 
 # Privacy | ConceptDraw
 
@@ -79,7 +79,7 @@ CS Odessa websites are general audience sites which are neither designed nor 
 
 ### Store Return Policy
 
-Any fees paid by you for ConceptDraw Products or Solutions are non-refundable. You wil be responsible for withholding, filing, reporting, and paying all taxes, duties and other governmental assessments associated with your activity in connection with your purchase (except for taxes on our net income). Customer Service can be reached M-F at 877-441-1150 ext 5 (between 8 a.m. and 5 p.m. Pacific time zone).
+Any fees paid by you for ConceptDraw Products or Solutions are non-refundable. You will be responsible for withholding, filing, reporting, and paying all taxes, duties and other governmental assessments associated with your activity in connection with your purchase (except for taxes on our net income). Customer Service can be reached M-F at 877-441-1150 ext 5 (between 8 a.m. and 5 p.m. Pacific time zone).
 
 ### Contact Information
 
