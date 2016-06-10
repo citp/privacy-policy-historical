@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vps.net privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013070503id_/http%3A//www.vps.net/about-vps-net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vps.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610083525id_/https%3A//www.vps.net/about-vps-net/legal/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - VPS.NET
 
@@ -115,7 +115,7 @@ We will retain User’s information for as long as their account is active or as
 
 ### Dispute Resolution
 
-You can raise any concerns with us, or with PrivacyTrust [(http://www.privacytrust.org/complaint/raise_privacy_complaint.php)](http://www.privacytrust.org/complaint/raise_privacy_complaint.php).
+You can raise any concerns with us, or with PrivacyTrust [(www.privacytrust.org/complaint/raise_privacy_complaint.php)](http://www.privacytrust.org/complaint/raise_privacy_complaint.php).
 
 ### Business Transitions
 
