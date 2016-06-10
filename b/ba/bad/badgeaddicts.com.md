@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badgeaddicts.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206215913id_/http%3A//www.badgeaddicts.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgeaddicts.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610130431id_/http%3A//www.badgeaddicts.com/privacypolicy.php) for the most accurate reproduction.*
 
 # BadgeAddicts.com - Privacy Policy
 
