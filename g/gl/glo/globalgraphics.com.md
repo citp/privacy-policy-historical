@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalgraphics.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108103554id_/http%3A//www.globalgraphics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgraphics.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610080038id_/http%3A//www.globalgraphics.com/privacy) for the most accurate reproduction.*
 
-# Global Graphics Software privacy policy
+# Global Graphics :: Privacy
 
 Global Graphics Software Limited (hereinafter "Global Graphics") is committed to protecting your privacy in accordance with this online privacy policy as amended from time to time (“Privacy Policy”). Global Graphics will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
@@ -22,7 +22,7 @@ We use the information to handle orders, deliver products and services, update o
 
 ## Changes in Privacy Policy
 
-Global Graphics may change its Privacy Policy from time to time at its sole discretion and will provide notice of changes on this page. If as a result of such changes you want to alter the ways in which Global Graphics is allowed to use your personal information, you can do so by emailing [privacy-information@globalgraphics.com](mailto:privacy-information@globalgraphics.com). 
+Global Graphics may change its Privacy Policy from time to time at its sole discretion and will provide notice of changes on this page. If as a result of such changes you want to alter the ways in which Global Graphics is allowed to use your personal information, you can do so by emailing [privacy-information@globalgraphics.com](mailto:privacy-information@globalgraphics.com).
 
 To ensure that your data is secure during transmission we will use Secure Sockets Layer (SSL) when you provide us with password or order information.
 
@@ -34,7 +34,7 @@ We may use technology to track the patterns of behaviour of visitors to our Site
 
 We will never collect sensitive information about you without your explicit consent. We will not pass on your details to third parties, unless expressly stated herein. We will not e-mail you in the future unless you have given us your consent.
 
-The Site and the products and services are intended for adult audiences, and Global Graphics does not knowingly collect any personal information from anyone under 13 years of age. 
+The Site and the products and services are intended for adult audiences, and Global Graphics does not knowingly collect any personal information from anyone under 13 years of age.
 
 Global Graphics is not responsible for the content or privacy practices of non-Global Graphics sites to which this website might link.
 
