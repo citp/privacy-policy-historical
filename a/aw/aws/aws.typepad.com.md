@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aws.typepad.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225071811id_/https%3A//aws.amazon.com/privacy/%3Fnc1%3Df_pr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aws.typepad.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610153814id_/https%3A//aws.amazon.com/privacy/%3Fnc1%3Df_pr) for the most accurate reproduction.*
 
 # AWS Privacy
 
