@@ -1,101 +1,127 @@
-> *The following text is extracted and transformed from the edge.ca privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210214409id_/http%3A//www.edge.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edge.ca privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611004358id_/http%3A//www.edge.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 102.1 the Edge
 
-**PRIVACY POLICY – Updated as of January 2015**
+**102.1 THE EDGE PRIVACY POLICY**
 
-In this Privacy Policy, "you" refers to the person accessing or using the website(s) located at http://www.edge.ca/ and other online areas operated by CFNY-FM, including but not limited to, the CFNY-FM Official App and other applications (individually and collectively, the " **Site** "). “CFNY-FM”, “Company” “we”, “us”, etc. refers to the company that operates the Site.
+**Last updated: January 2016**
 
-CFNY-FM, the owner and operator of the Site respects your privacy and believes the best way to serve you on the Internet is with honesty, accountability and adherence to legal standards. We are sensitive, to the issue of privacy and have structured our online activities to maximize your control over the disclosure of your own Personal Information. This website (the " **Site** ") is for information purposes only and the Terms of Use http://www.edge.ca/terms and this privacy policy (the “ **Privacy Policy** ”) relate specifically to this Site and do not apply to websites operated by other Corus Entertainment companies, or other third parties, each of which has its own terms of use and privacy policies. Please read the respective sites' terms and policies when accessing those sites.
+Corus Radio Company, a wholly-owned subsidiary of Corus Entertainment Inc. and owner of CFNY-FM, operating as 102.1 The Edge (collectively " **THE EDGE** "), the owners and operators of this website (the “Site”), respect your privacy and believe the best way to serve you on the Internet is with honesty, accountability and adherence to legal standards. We are sensitive to the issue of privacy and have structured our online activities to maximize your control over the disclosure of your own personally identifiable information.  
 
-This Privacy Policy Statement supplements our general Terms of Service, which you must also read. By using the Site, you agree to be bound by the terms of this Privacy Policy and by the Terms of Service We may change this Privacy Policy at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, you should check the terms and conditions of this Privacy Policy from time to time to keep informed of such amendments, and, if you do not agree to the terms of this or any revised policy, please do not register as a user or deregister as a user and exit the Site immediately.
+By visiting or interacting with this Site, you agree to be bound by the terms of this Privacy Policy. We may change this Privacy Policy at any time, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, you should review this Privacy Policy from time to time to keep informed of such amendments. The latest version of the Privacy Policy will be available through a link at the bottom of the homepage. The most recent date of revision will be indicated prominently at the top of the Privacy Policy  If you do not agree to the terms of this or any revised policy, please do not register as a user or further interact with the Site.   
 
-**Privacy of Children**
+This Privacy Policy applies to this Site only, and does not apply to other websites or apps operated by Corus Digital Inc., other Corus Entertainment Inc. companies, or third parties, each of which has its own terms of use and privacy policies. Please read the respective sites' terms and policies when accessing such sites or using such apps.
 
-CFNY-FM encourages parents and guardians to be aware of and participate in their children's online activities. Minors (persons under the age of majority in their province or territory of residence) may not use the Site unsupervised and we ask that you do not allow your child to submit any personal information to us. CFNY-FM  will request permission from a parent or legal guardian before collecting, using or disclosing any personally identifiable information about a child (e.g., for participation in contests and promotions) on any of our commercial websites or online services directed to children under 13 years of age.
+Please also make sure to read the Site’s [Terms of Use](http://www.edge.ca/terms/) as it supplements and forms part of this Privacy Policy. By using the Site you are agreeing to our Privacy Policy and Terms of Use. If you do not agree to the terms of this policy, please exit the Site immediately.
+
+  **Privacy of Children**
+
+ We encourage parents and guardian to be aware of and participate in their children's online activities. Minors (persons under the age of majority in their province or territory of residence) are not eligible to use the Site unsupervised and we ask that you do not allow your child to submit any personal information to us. We do not knowingly collect the personal information of minors.
 
 For more information regarding marketing to children, please visit the [Canadian Marketing Association’s Special Considerations in Marketing to Children guidelines](http://www.the-cma.org/?WCE=C=47%7CK=225849#11), part of the CMA’s Code of Ethics and Standards of Practice.
 
 **Types of Information collected**
 
-CFNY-FM may collect two types of information: Personal Information and aggregated information. Personal information is information that identifies you, and may include information such as your name, site user name, address, postal code, telephone number, mobile number, SMS, e-mail address, age, marital status, income level, education level, intentions, preferences and opinions (“ **Personal Information”).** CFNY-FM does not collect Personal Information about an individual except when individuals provide such specific information on a voluntary basis. Aggregated information may include information that is anonymous such as the type of browser you are using or other information that cannot identify you as an individual.
+THE EDGE may collect two types of information from visitors to the Site: Personal Information and Non-Personal Information. Personal Information is any information about you as an identifiable individual, such as your name, user name, address, postal code, telephone number, mobile number, e-mail address age, marital status, income level, education level, intentions, preferences and opinions (“ **Personal Information** ”).  THE EDGE collects Personal Information only where it is voluntarily provided by the individual in question.
 
-We may also collect information about you from a social network site where you have logged into the Site using your social network ID, in order to provide you with a more personalized experience.
+Non-Personal Information is any information that cannot be associated with an identifiable individual, such as aggregated statistical information (e.g. the average length of time users spend visiting the site), or other anonymous information, such as the type and version of browser being used to access the Site.  Your computer and its operating systems, browsers, and memory contain vast quantities of transaction data and records of your use of it.
 
-If you send an e-mail to us, or fill out our "feedback" form through the Site, we will collect your e-mail address and the full content of your e-mail, including attached files, and other information you provide. We may use and display your full name and email address when you send an email notification to a friend through the Site or the social network through which you have logged on to the Site (such as in an invitation, or when sharing your content).
+THE EDGE generally collects Personal Information from you in order to provide you with products and services, to administer contests and special events, to better understand user preferences and to market our products and services. 
+
+We may also collect information about you from a social network site you may have connected from, in order to provide you with a more personalized experience.  In some cases, we will collect psychographic data from third parties that help us better understand our users.
+
+If you send an e-mail to us, or fill out our "feedback" form through the Site, we will collect your e-mail address and the full content of your e-mail, including attached files, and other information you provide. We may use and display your full name and email address when you send an email notification to a friend through the Site or the social network from which you have connected to the Site (such as in an invitation, or when sharing your content).
+
+**Personal Information for Contests**
+
+A user can enter a THE EDGE contest through the Site. If a user is 13 years of age and under, we require the consent of a Parent prior to the submission of a user's personal information. On the online entry form, we ask for personal information such as the entrant’s name and address. Unless otherwise specified in the applicable contest rules, this personal information is collected, used and/or disclosed solely for the purpose of awarding contest prizes, tracking compliance with the official rules and regulations and for internal feedback purposes.  THE EDGE  only uses and discloses a contest winner's name and photograph after receiving prior written consent from the winner (or their Parent, if the winner is under the age of majority in his or her Province of residence) and the appropriate release forms are fully completed by a Parent and returned to THE EDGE .
+
+**Show Submission**
+
+Occasionally, THE EDGE users will have the opportunity to submit ideas or content such as videos for inclusion on the Site or audio for airing on THE EDGE. At the time of submission, the producers of these shows will also ask the users to include a contact number, email or address. Only those who produce the show in question will have access to the contact information and it will not be passed on to a third party. People who submit ideas or content may be contacted if the show's producers are possibly interested in using such submissions.
 
 **Why is the Information Collected?**
 
-In order to access some specific features of the Site, you may be required to register or otherwise voluntarily provide Personal Information. For example, registration is needed to enter certain contests and better serve your specific interests. You may choose not to provide the personal information, but this may lead to decreased functionality of the Site for you and will prevent us from providing you with certain products or services. However, you can still access and visit many of the Site's features. We also may request you to voluntarily provide Personal Information that is not required to access features of the Site. This information enables CFNY-FM to make general improvements to the Site, ensures that content standards of these sections are rigorously upheld, enables us to contact the prize winners and better serve your specific interests.
+THE EDGE  may collect your personal information in order to enable us to make general improvements to the Site, ensure that content standards of the Site are rigorously upheld, enable us to contact you (for example, registration is needed to enter certain contests) and better serve your specific interests. You may choose not to provide your personal information, but this may lead to decreased functionality of the Site for you and will prevent us from providing you with certain products or services. However, you can still access and visit many of the Site's features. We may also request you to voluntarily provide personal information that is not required to access features of our Site.
 
-CFNY-FM may transparently collect aggregate information, which does not identify you as an individual, through the use of cookies or by other means. We use this information to assess general usage patterns, including identifying repeat users, collect demographic information, administer and make improvements to the Site to tailor our visitors’ experiences at the Site and display content according to their preferences so as to make it more useful to you and other users. CFNY-FM, its parent company and its subsidiary and holding companies, our business partners, reserve the right to use, maintain, update, disclose and/or sell aggregated information to third parties.
+For example, we may collect information from you to allow you to:
 
-**What We Will and Will Not Do with the Information You Provide**
+  * Join a club or become a member;
+  * Enter  a contest or other promotion;
+  * Subscribe to our e-mail newsletter(s);
+  * Respond to online questionnaires;
+  * To participate in interactive online activities (such as games, chatrooms or bulletin boards);
+  * To shop online at our and/or our contractor's Site; or
+  * To contact us to make requests or comment on our services.
 
-CFNY-FM uses information generally to compile statistical data, keep in contact with users and provide them with a better interactive experience. CFNY-FM may use your Personal Information specifically for the following purposes: (i) to improve the content of our Site; (ii) to personalize and/or customize the content and/or layout of our Site for each individual visitor; (iii) to identify our visitors' preferences; (iv) to keep you informed about product and services (both ours and third parties') in which you have expressed an interest and have provided consented through an opt-in method; (v) to establish your eligibility for special offers and discounts; (vi) to complete business transactions; (vii) if you have expressed an interest and have provided consented through an opt-in method, to contact you as part of a promotion; (viii) to allow you to make a posting on the Site; (ix) to administer individual accounts; (x) to provide customer support; (xi) to meet legal requirements; (xii) to provide Internet security; and/or (xiv) to analyze the collected information. If you have entered and won one of CFNY-FM's contests, and if Prior consent to this disclosure is obtained at the time the contest is entered, CFNY-FM and / or its sponsors may publish your name and city of residence.
 
-In the event that we sell a substantial portion of our business assets, our customer information may be among the transferred assets. In such event, the purchaser will inherit the confidentiality obligations posted herein.
 
-CFNY-FM works closely with a number of parties who may perform functions on our behalf, including fulfilling orders, providing music streaming services or other third party content, providing promotional materials to our users, sending e-mail, managing, compiling and processing data, processing credit card payments or providing customer service.  Data may be processed outside Canada or in the cloud. We do not disclose your Personal Information to these parties except to the extent necessary to enable them to provide the specific services to you or on your behalf. Other than for the specific purposes set forth in this Privacy Policy Statement, we will not disclose your Personal Information to any third parties unless we obtain your prior consent or are legally compelled to do so or where such disclosure is required to protect and defend the rights or property of us, you or third parties. You hereby consent to us sharing your Personal Information under the circumstances described herein. In addition, we will not contact you without your permission except as specified above or in connection with the registration process.
+In addition to using Personal Information to keep in contact with users THE EDGE  may use your information for the following purposes: (i) to better understand viewer and user needs and preferences; (ii) to improve the content and format of our Site; (iii) to notify visitors about updates to our Site; (iv) to keep you informed about product and services (both ours and third parties') in which you have expressed an interest; (v) to establish your eligibility for special offers and discounts; (vi) to complete business transactions; (vii) to contact you as part of a promotion; (viii) to administer individual accounts; (ix) to provide customer support; (x) to personalize your experience and make content recommendations; (x1) to meet legal requirements.
 
-On either the Site, you will be given the opportunity to opt in to receiving e-mails, promotional and/or marketing information about other products, services and offerings from CFNY-FM and/or any third parties or other information from CFNY-FM.
+THE EDGE may transparently collect non-personally identifiable aggregate information through the use of cookies or by other means. We use this information to assess general usage patterns, including identifying repeat users, collect demographic information, administer and make improvements to the Site to tailor our visitor's experiences at the Site and display content according to their preferences so as to make it more useful to you and other users.  THE EDGE, its parent company and its subsidiary and holding companies and such other third party as we may designate reserve the right to use, maintain, update, disclose and/or sell aggregate information to third parties.
 
-On either the Site, you will be given the opportunity to indicate whether you would like to receive emails, promotional and/or marketing information about other products, services and offerings from CFNY-FM and/or any third parties or other information from CFNY-FM. You will always have the opportunity to opt-out of any feature that you have opted into on our Site. Please indicate your preferences on the Site accordingly, by checking the appropriate boxes. If you have questions about how your Personal Information is used, please contact us using the address and contact information provided at the end of this policy.
+We may use third-party advertising and analytics companies to collect Non-Personal Information and/or serve ads to users when they visit our websites or use our apps. These companies may use Non-Personal Information (i.e. not including your name, address, email address or telephone number) about the use of this Site and other Corus Entertainment Inc. sites, as well as other Web and offline activity in order to provide advertisements about goods and services of possible interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [www.youradchoices.ca](http://www.youradchoices.ca/).  Rest assured that neither THE EDGE nor any third parties acting on its behalf collect browsing information respecting the use of the site by children, nor does THE EDGE target advertising to children based on browsing activity.
 
-**Third Party Advertising**
+We may also infer information about you based on the information you provide to us or information we receive from third parties, including information we may receive from social media sites, in accordance with your privacy settings on such sites.  We may also collect demographic, psychographic and lifestyle profile data from third parties, which may be predictively associated with you, based on what we know about you.  For example, data may be available suggesting common interests or attributes of people living in your postal district.  Any such information that is associated with you is considered to be personal information, and will be treated as such according to this privacy policy.  If you would prefer that THE EDGE not associate such third party data with you, you may opt-out by visiting <http://youradchoices.ca/choices>.
 
-We use third-party advertising companies to serve ads when you visit the Site. These companies may use non-personally identifiable aggregated information we compile about your visits to this Site in order to provide advertisements on this Site about goods and services that may be of interest to you. Neither CFNY-FM nor any third parties will make any attempt to link this anonymous aggregated traffic and other information to the individual visiting our Site. Except as otherwise detailed in this Privacy Policy, information that personally identifies you will be kept strictly confidential. Any third party promotions and offers will only be made available through us on behalf of the third parties.
+**With whom do we share information?**
 
-**Cookies**
+THE EDGE  works closely with a number of parties who may perform functions on our behalf, including fulfilling orders, providing streaming services or other third party content, providing promotional materials to our users, sending e-mail, managing, compiling and processing data, administering contests, processing credit card payments or providing customer service.  Data, including Personal Information, may be stored or processed outside Canada or in the cloud where it will be subject to the laws of the jurisdiction(s) in which it resides. We do not disclose your Personal Information to these parties except to the extent necessary to enable them to provide the specific services to you or on your behalf. Third party service providers are contractually bound to maintain the confidentiality of your Personal Information and are prohibited from using your Personal Information for any other purpose. 
 
-When you visit the Site, we or a third-party advertiser may store or recognize some information on your computer in the form of a "cookie" or similar file. "Cookies" are small text files that identify an individual computer's browser entering the Site. They do not pose a security threat to you. No personal information is stored within the cookies. For example, cookies allow us to track a browser's movement through the Site over several sessions. Through cookies, the Site can recognize repeat visitors, facilitate the visitor's access to and use of the Site and allows the Site to track usage behaviour that will allow content improvement and enable us to tailor our Site to better match your interests and preferences. If you do not want cookies placed on your computer, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Most Internet browsers or other software will allow you to do this. Please refer to your browser instructions or help screen to learn more about these functions. If you reject cookies, functionality of the Site may be severely limited, and you may not be able to take advantage of many of the Site's best features.
+Other than for the specific purposes set forth in this Privacy Policy statement, we will not disclose your Personal Information to any third parties unless we obtain your prior consent or are legally compelled to do so or to protect and defend our rights or property. In addition, we will not contact you without your permission except as specified above or in connection with the registration process.
 
-## SMS Notifications; Push Notifications
+In the event of a proposed or actual sale of all or a substantial portion of our business assets, your Personal Information may be disclosed to potential buyers where necessary to determine whether to proceed with the transaction.  Where such a transaction is completed, your Personal Information may be among the transferred assets. In such event, the purchaser will continue to be subject to the confidentiality obligations posted herein.   
+
+  **What are your choices?**
+
+We do not sell or otherwise share personally identifiable information about individual users without the prior approval of the user. On the page where we ask for that information, there is a prominently displayed method to indicate to us that you do or do not want to receive promotional and/or marketing information about products, services and offerings. Check the appropriate box and your information may be used as described above. Leave it blank, and we consider it an opt-out. Either way, it is always your choice. User consent to use Personal Information can be withdrawn at any time by emailing our Privacy Officer using the contact information provided below.
+
+**What are cookies, and how are they used?**
+
+Cookies are small data files that your browser may place on your computer when you visit different Web sites to mark that you have been there. Cookie technology is used on our Site to maximize the website-browsing experience. For example, cookies allow us to track a browser's movement through the Site over several sessions. Through cookies, the Site can recognize repeat visitors, facilitate the visitor's access to and use of the Site and allows the Site to track usage behaviour that will allow content improvement and enable us to tailor our Site to better match your interests and preferences. We may also use cookies to allow you to select and prioritize your preferences when you enter our Site.
+
+No Personal Information is gathered from these cookies. However, you may choose to set up your browser to refuse cookies or alert you when cookies are sent. Please note, though, if you don't have a THE EDGE cookie it may limit our ability to customize and improve our Site features.
+
+**SMS Notifications; Push Notifications**
 
 If we offer SMS notification or push notification functionality, and you choose to receive SMS notifications and/or push notifications, we may send such notifications to your mobile device. We will collect and store the information you provide, including your telephone number. You can opt out of receiving SMS and push notifications and you can adjust the types of notifications you receive, and when you receive them, by editing your notification settings on your mobile device. You can also opt out of receiving SMS and push notifications by emailing. We will not charge a fee to use SMS notifications or push notifications, but any text messages sent and/or received are subject to standard text messaging rates. Additionally, text messages sent and/or received count towards a monthly quota as any other messages do. Any users, whether sending or receiving text messages, should be aware that standard text messaging rates may apply. Text messaging rates can normally be found by asking your mobile carrier.
 
 **About Our Forums**
 
-The Site may, from time-to-time, feature forums (such as message boards and chat rooms) which enable our users to communicate with each other. CFNY-FM does not moderate and is not responsible for the content that you or any user posts on any forum on the Site. All personal information you post in a forum becomes public information and may be viewed, collected and used by any visitor to the Site, and may expose you to unsolicited messages. This is beyond our control. Therefore, CFNY-FM strongly recommends that you do not post on any forum private information about yourself or other individuals.
+The Site may, from time-to-time, feature forums (such as message boards and chat rooms) which enable our users to communicate with each other. THE EDGE does not moderate and is not responsible for the content that you or any user posts on any forum on the Site. All personal information you post in a forum becomes public information and may be viewed, collected and used by any visitor to the Site, and may expose you to unsolicited messages. This is beyond our control. Therefore, THE EDGE strongly recommends that you do not post on any forum private information about yourself or other individuals.
 
 **Linking to Our Business Partners' and Third Party Content/Web Sites**
 
-The Site provides on-line multi-media or music streaming and other third party content. We are not responsible for any such third party content, communications or music that you may access through the Site or any fees, costs or roaming charges from your mobile carrier. The Site also contains links from and to sites operated by our business partners and other independent third parties. Once you leave the Site, you may or may not see a new URL in the location bar. Please review the linked site's and third party content provider's privacy policies, and if you do not agree to be bound by the terms of the policies governing that provider/site, terminate your use of that service or your visit to the site. The linked sites are not under our influence or control, and we are not responsible for the privacy policies and practices or the content of the sites operated by our business partners or other third parties or the privacy policies and practices or contents of any linked site or subsequent links from that site.
+Please keep in mind that this Privacy Policy applies to the Site only. The Site may provide on-line media streaming and other third party content. Occasionally, the Site may contain links from and to sites operated by other Corus companies, our business partners and other independent third parties whose privacy practices may be different from those of THE EDGE. Once you leave the Site, you may or may not see a new URL in the location bar. If you submit Personal Information to any of those sites, your information is governed by the privacy policies of those destination websites. Please review the linked site's and third party content provider's privacy policies, and do not use or further visit these sites if you do not agree with the terms of these policies. The linked sites are not under our influence or control, and we are not responsible for the privacy policies and practices or the content of the sites operated by our business partners or other third parties or the privacy policies and practices or contents of any linked site or subsequent links from that site.
 
-**Facebook® Connect**
+The Site may include social media features, like the Facebook “Like” button. These features may collect information about your IP address and which page you’re visiting on our Site, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them. 
 
-If you have a Facebook® account, CFNY-FM may allow you to log in using Facebook Connect (" **Connect** "), a Facebook, Inc. application that enables the Site to work just like the platform applications you find on Facebook.com (" **Facebook** "). Once you allow the Site to connect with Facebook, you will be able to use your Facebook login information to log into the Site and publish your activity on the Site to your Facebook profile. By connecting with the CFNY-FM Facebook application, you permit the Site to use information gathered from the Facebook Fan page https://www.facebook.com/102edge and the Facebook application to improve your use of the Site (for example, by recommending programming or delivering advertising that we think will be of most interest to you); and allow you to interact with your Facebook friends on the Site. In order to make Connect possible, you agree to allow the Site to check your Facebook cookies when you are visiting the Site, and to allow Facebook to receive information concerning the actions you take on the Site (which we will only send with your permission). In the event you no longer want the Site to publish stories about you, or want to otherwise limit the ways in which the Site interacts with your Facebook account, you can always disable this feature by changing your application settings in Facebook. This Privacy Policy applies to information collected by CFNY-FM through your Connect login; however, your activities on Facebook are covered by the Facebook privacy policy and other terms of use (<https://www.facebook.com/legal/terms> and <https://www.facebook.com/about/privacy/>).
+This site may also permit you to link to other social media websites on the Internet (e.g., Twitter, Facebook, Pinterest, Tumblr, among others) (" **Social Media Sites** ").  By accessing the Site through a Social Media Site, mobile device or other third party platform or service or by connecting to such a platform or service via the Site, we may be authorized to collect, store, and use personal information as permitted by your user agreement and settings with the Social Media Site, mobile device or other third party platform. 
 
-**How Secure is Your Information**
+ “ **Refer a Friend” or “Sharing Features**
 
-Any unauthorized use of the Site may result in criminal and/or civil prosecution. We have policies and procedures in place to protect the privacy and confidentiality of your information that we collect and maintain, including contracts with third parties that manage the information provided by you. All personal information is stored on secured servers, behind a firewall at a data center, with access to data strictly controlled. Only individuals specifically involved in the analysis and other functions set out herein have access to your Personal Information. These individuals have been provided the requisite training on our privacy policies and practices. All personal information will be stored and processed in Canada and may be stored in a cloud, where it will be subject to the laws of that jurisdiction.
+  
+If you choose to use a referral service to "tell a friend" about the Site, a specific article or feature on the Site, or a contest that is running, we may ask you for your friend’s name and email address. We will then send your friend an email on your behalf inviting him or her to visit the relevant webpage or check out the Site. We store your friend's name and email for a short period for the sole purpose of sending this email and for redundancy checking, to be sure that your friend does not receive multiple copies of the same email message. We do not keep or use this information for any other purpose.
 
-To help ensure the privacy of your information, we urge you not to share your user name and password with anyone and recommend that you change your password frequently and store it in a safe place. If you are asked to create a user name or password, please select words that do not personally identify you. We may offer "auto login" which allows users to enter member areas of our site without re-entering password information. You may want to disable auto login on your "Set Up" page if you are not the only person using your computer.
+**How We Protect Your Personal Information**
 
-**Termination**
+We have policies and procedures in place to protect the privacy and confidentiality of the information that we collect and maintain, including contracts with third parties that manage the information provided by you. All Personal Information is stored on secure servers, behind a firewall at a data center with access to data strictly controlled. Only individuals specifically involved in the analysis and other functions set out herein have access to your Personal Information. These individuals have been provided the requisite training on our privacy policies and practices.
 
-Without limiting the foregoing, CFNY-FM shall have the right to immediately terminate your access to this Site in the event of any conduct by you which we, in our sole discretion, consider to be unacceptable, or in the event of any breach by you of this Privacy Policy and/or our Terms of Service.
+To help ensure the privacy of your information, we urge you not to share your user name and password with anyone and recommend that you change your password frequently and store it in a safe place. If you are asked to create a user name or password, please select words that do not personally identify you. We may offer "auto login" which allows users to enter member areas of our Site without re-entering password information. You may want to disable auto login on your device, in order to prevent access by unauthorized users of your device.
 
 **Updating / Deleting your Information**
 
-When collected, CFNY-FM enables our users to update/correct Personal Information previously submitted which the user states is erroneous to the extent such activities will not compromise privacy or security interests. To update or delete your information, please go to the Log-In function and update or delete your personal information accordingly from our database. Please note that it may be impossible to delete a user's entry totally without some residual information because of backups and records of deletions.
+Users of the Site may delete any Personal Information previously submitted through the Site, unless such deletion would compromise privacy or security interests. To update or delete your information, please contact the company’s Privacy Officer, at the address listed below. 
 
-**CFNY-FM** **HAS THE RIGHT, BUT NOT THE OBLIGATION, TO REMOVE ANY AND ALL INFORMATION UPLOADED TO THE SITE IN ITS SOLE DISCRETION, OR AS REQUIRED BY LAW.**
-
-**Feedback**  
- 
-
-If you provide feedback to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personal Information. We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy. You agree that any such comments and any emails we receive become our property. We may use feedback for marketing purposes or to add to or modify our services without paying any compensation to you.
-
-   
+  
 **Questions/Concerns?**  
  
 
-If you have any concerns about privacy procedures at our Site, or to find out further details about how your personal information may be used, write us at:
+If you have any concerns about privacy procedures respecting our Site, or to find out further details about how your Personal Information may be used, write us at:
 
 **Corus Entertainment Inc.**  
-**Corus Quay, 25 Dockside Drive,**  
-**Toronto, Ontario M5A 0B5**
+**Corus Quay, 25 Dockside Drive,  
+Toronto, Ontario M5A 0B5**
 
 **_Attn:    Privacy Officer_**
 
@@ -105,4 +131,26 @@ Please make any communications as complete and descriptive as possible, and we w
 
 **_Office of the Privacy Commissioner of Canada_**
 
-The Office of the Privacy Commissioner of Canada oversees our personal information handling practices. If any privacy concerns are not addressed to your satisfaction you may contact the Office of the Privacy Commissioner of Canada for further guidance:
+The Office of the Privacy Commissioner of Canada oversees our Personal Information handling practices. If any privacy concerns are not addressed to your satisfaction you may contact the Office of the Privacy Commissioner of Canada for further guidance:
+
+By Phone:
+
+| 
+
+1-800-282-1376 or 819-994-5444  
+  
+---|---  
+  
+By Fax:
+
+| 
+
+819-994-6591  
+  
+Website:
+
+| 
+
+[www.priv.gc.ca](http://www.priv.gc.ca/)  
+  
+© 2016 Corus Radio Company and Corus Entertainment Inc.
