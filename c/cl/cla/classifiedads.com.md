@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedads.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223034007id_/https%3A//www.classifiedads.com/info.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedads.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610185735id_/https%3A//www.classifiedads.com/info.php%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ We may disclose your personal information if required to do so by law or subpoen
 
 **Your Consent**
 
-By using the Site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on the Site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. If you have any questions, feel free to [contact us](http://www.classifiedads.com/feedback.php).
+By using the Site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on the Site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. If you have any questions, feel free to [contact us](https://www.classifiedads.com/feedback.php).
 
 _Effective as of January 23, 2012_
 
