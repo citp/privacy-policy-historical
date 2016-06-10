@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sumitomocorp.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221033655id_/http%3A//www.sumitomocorp.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumitomocorp.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610200207id_/http%3A//www.sumitomocorp.com/Privacy) for the most accurate reproduction.*
 
-# Sumitomo Corporation of Americas - Privacy Policy
+# Privacy
 
-###  SCOA Web Site Privacy Practices TEST
+**SCOA Web Site Privacy Practices**
 
 Sumitomo Corporation of America (SCOA) is sensitive to Internet privacy issues and protecting the privacy of visitors to this Web site. To demonstrate our firm commitment to your privacy, SCOA created this statement to describe how we use information that we gather from you.
 
