@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okdgg.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210232359id_/http%3A//www.okdgg.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okdgg.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610042441id_/http%3A//www.okdgg.com/about/privacy) for the most accurate reproduction.*
 
 # OKDGG.com: Online Shopping for Korean Fashion, K-Beauty, K-pop, K-food & more
 
@@ -163,7 +163,9 @@
     
     C. Since the content of this Privacy Policy may be changed anytime, please check it every time you visit our website. 
     
+    13. Notice for unsubscribe
+    If you want to unsubscribe okdgg, your coupons and points are disappeared.
+    Additionally, You can re-join same ID after 6-month later
+    
     This Policy is effective on 5, 19, 2014
-    
-    
     
