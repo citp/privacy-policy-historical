@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tureng.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113022601id_/http%3A//tureng.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tureng.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610183216id_/http%3A//tureng.com/en/privacy) for the most accurate reproduction.*
 
-# Tureng - Gizlilik Sözleşmesi
+# Tureng - Privacy Policy
 
 The use of this website and all other websites under tureng.com domain along with all mobile applications (Android, BlackBerry, iPad, iPhone, Windows 8 and Windows Phone) is subject to the terms and conditions explained here. When the user visits this website, they agree to be bound by these terms and conditions, which constitute a binding agreement between the user and Tureng Ltd.
 
