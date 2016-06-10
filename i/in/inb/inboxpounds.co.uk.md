@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxpounds.co.uk privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710231532id_/http%3A//www.inboxpounds.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxpounds.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610155455id_/http%3A//www.inboxpounds.co.uk/pages/privacy) for the most accurate reproduction.*
 
 # Earn Cash Online: Privacy Policy - InboxPounds
 
@@ -17,7 +17,7 @@ Our Compliance Officer for the purpose of the Act is Tom Healy.
 
 InboxPounds® reserves the right to modify this Privacy and Cookie Policy at any time. The date and time of the last update will always appear below, and this serves as notice to our Members. 
 
-Last Updated: _July 14, 2014 2:49 p.m. CST_
+Last Updated: _February 10, 2016_
 
 ## I. INFORMATION COLLECTION
 
@@ -68,7 +68,7 @@ InboxPounds® does not rent, sell, or share Member Data, except in the following
     5. We may share Member Data with third parties as reasonably necessary for us to operate this Website and to provide offers and services to Members that we think will be of interest to you, unless you indicate to us that you do not wish your Member Data to be disclosed for this purpose. 
     6. Should part or all of our business be sold to, merged with, or acquired by another company, some or all Member Data would then belong to said company. 
 
-We may share Member Data with CotterWeb Enterprises, Inc., the American parent corporation of InboxPounds® on the basis that CotterWeb Entprises, Inc., has in place measures recognised by the European Commission as adequate protection for personal data transferred to them from the EU. CotterWeb Entprises, Inc. complies with the U.S.-E.U. Safe Harbor Framework and has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor programme and view the certification of CotterWeb Entprises, Inc., please visit the Safe Harbor website. 
+We may share Member Data with CotterWeb Enterprises, Inc., the American parent corporation of InboxPounds® on the basis that CotterWeb Entprises, Inc., has in place measures recognised by the European Commission as adequate protection for personal data transferred to them from the EU. CotterWeb Entprises, Inc. complies with the U.S.-E.U. Safe Harbor Framework and has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor programme and view the certification of CotterWeb Entprises, Inc., please visit the Safe Harbor website <http://www.export.gov/index.asp.>. 
 
 
 
