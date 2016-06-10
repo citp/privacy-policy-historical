@@ -1,71 +1,39 @@
-> *The following text is extracted and transformed from the ozar.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223062645id_/http%3A//www.ozar.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozar.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610083925id_/http%3A//www.ozar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Ozar
 
-Liability
+Clutter Media LTD (“ **Ozar.com** “) operates Ozar.com and may operate other websites. It is Clutter Media LTD policy to respect your privacy regarding any information we may collect while operating our websites.
 
-All materials, information, software, products and services (also referred to as "Content"), included in or available through www.Ozar.com (also referred to as "Site") are provided on an "as is" basis. The Content is provided without warranties of any kind. 
+### Website Visitors
 
-By using the Content of the Site, you explicitly agree to these terms and conditions.  
-We do not warrant that the Content on this Site is accurate, reliable or correct; that this Site will be available at any particular time or location; that any defects or errors will be corrected; or that the Content is free of viruses or other harmful components. Your use of this Site is solely at your own risk. Any Content viewed, downloaded or otherwise obtained through the use of this Site is done solely at your own discretion and risk, and you will be solely responsible for any damage, including without limitation personal injury or distress, damage to your computer system, or loss of data, that results from the viewing or download of any Content. The operator of Ozar.com can not be held responsible for any problems occuring by using or not using the Site and its Content in any way.
+Like most website operators, Ozar.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Clutter Media LTD purpose in collecting non-personally identifying information is to better understand how Clutter Media LTD visitors use its website. From time to time, Ozar.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Links, advertisements and third party sites  
-This Site provides advertisements and links to other third party websites over which we have no control. We can not be held responsible for those advertisements and websites or any of its Content. You acknowledge that you view and access these advertisements and websites entirely at your own risk.
+Ozar.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Ozar.com blogs/sites. Ozar.com only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-Content made by the operator of Ozar.com
+### Gathering of Personally-Identifying Information
 
-The Site (www.Ozar.com) and its subpages is copyright by its operator. Copyrighted content of this site may not be copied, reproduced, republished, uploaded, posted, transmitted, or distributed, in whole or partly, for any purpose other than individual viewing of this content, without the express prior written consent of Ozar.com's operator. Any modification, decompilation or reverse-engeneering of Ozar.com's operator copyrighted content for any purpose is prohibited.
+Certain visitors to Clutter Media LTD websites choose to interact with Ozar.com in ways that require Ozar.com to gather personally-identifying information. The amount and type of information that Ozar.com gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [Ozar.com](http://www.ozar.com/) to provide a username and email address. Those who engage in transactions with Ozar.com are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Ozar.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Ozar.com. Ozar.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-Content of Third Parties
+### Aggregated Statistics
 
-Games and other content on the site which is not made and copyrighted by the operator of this site, is either licensed or used with permission and protected by international copyright. These games are intellectual property and/or copyright and/or trademark by their respective owners and/or authors.If you are the developer/owner/copyright holder of a game and you wish to have it removed us, please send an email through the email link at the bottom of the site.
+Ozar.com may collect statistics about the behavior of visitors to its websites. Ozar.com may display this information publicly or provide it to others. However, Ozar.com does not disclose personally-identifying information other than as described below.
 
-Automatically logged information (server logs), cookies, Flash shared objects
+### Protection of Certain Personally-Identifying Information
 
-Server logs:
+Ozar.com discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Clutter Media LTD behalf or to provide services available at Clutter Media LTD websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Clutter Media LTD websites, you consent to the transfer of such information to them. Ozar.com will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Ozar.com discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Ozar.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of Ozar.com, third parties or the public at large. If you are a registered user of an Ozar.com website and have supplied your email address, Ozar.com may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Ozar.com and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Ozar.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-Like most servers, our servers automatically record the page requests made when users visit our Site. These "server logs" typically include your web request (the requested content), IP address, browser type, browser language and the date and time of your request. We use this information to help diagnose problems, to analyze statistics of our Site, and to allow us to improve the overall user-experience. No personal information (like your name, email or phone number) is being gathered with server logs. We do not transfer these data to third parties as long as it is not required by law.
+### Cookies
 
-Cookies:
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Ozar.com uses cookies to help Ozar.com identify and track visitors, their usage of Ozar.com website, and their website access preferences. Ozar.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Clutter Media LTD websites, with the drawback that certain features of Clutter Media LTD websites may not function properly without the aid of cookies.
 
-The Site also uses the third party web analytics service "Google Analytics" (GA), by Google, Inc. GA use "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. 
+### Business Transfers
 
-You may refuse the use of cookies by selecting the appropriate settings on your browser,
+If Ozar.com, or substantially all of its assets, were acquired, or in the unlikely event that Ozar.com goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Ozar.com may continue to use your personal information as set forth in this policy.
 
-however please note that if you do this you may not be able to use the full functionality of this website. No personal information (like your name, email or phone number) is being gathered with cookies. 
+### Ads
 
-By using this Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Ozar.com and does not cover the use of cookies by any advertisers.
 
-Flash shared objects:
+### Privacy Policy Changes
 
-Most games on this Site are based on Flash technology (Flash Games). Flash Games may collect data in "shared objects" which are textfiles stored on your computer. We have no control over what data Flash Games of third parties may collect. We are not responsible for the privacy practices of third parties Flash Games.
-
-Third Party Advertising
-
-We use several third party advertising companies to serve ads when you visit the Site. These companies may use cookies to store information about your visits to this and other websites (your browsing activity) in order to provide advertisements on this Site and other sites about goods and services that may be of interest to you.
-
-You may refuse the use of cookies by selecting the appropriate settings on your browser.
-
-Google Adsense:
-
-Delivered by Google, Inc., may make use of one or more "DoubleClick DART Cookies". 
-
-DART cookies store and collect data on your computer about your browsing activity. Google may use this data to show advertisements on this Site based on your browsing activity.
-
-You can choose to opt out of Google's use of cookies by visitingn the:
-
-[Google Ad and Content Privacy Policy](http://www.google.com/privacy_ads.html).
-
-Contact via E-Mail
-
-When you contact us via email, by using a contact link on the bottom of the site, you are providing us with personal information such as your name and email address. Such information is used only for the purpose of assisting you with, and validating your inquiry, request or submission. We respect the privacy concerns of visitors to www.Ozar.com
-
-We do not sell or disclose your email address or any other personal information about you.
-
-Links
-
-We may present internal links (i.e. links to our own pages) or external links (i.e. links to other websites) in a format that allows us to track statistics like the number of clicks a link gets. These statistics will only be used to help us improve the site. We are not responsible for the privacy practices or the content of websites that are being linked to from our Site or newsletters. 
-
-Security
-
-We protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction, through appropriate security measures.
+Although most changes are likely to be minor, Ozar.com may change its Privacy Policy from time to time, and in Clutter Media LTD sole discretion. Ozar.com encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Ozar.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
