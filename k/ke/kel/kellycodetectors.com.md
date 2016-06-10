@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellycodetectors.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210124710id_/http%3A//www.kellycodetectors.com/catalog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellycodetectors.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610220953id_/http%3A//www.kellycodetectors.com/catalog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
