@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nitinbhatia.in privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211214050id_/http%3A//www.nitinbhatia.in/google-adsense-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitinbhatia.in privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610203512id_/http%3A//www.nitinbhatia.in/google-adsense-privacy-policy) for the most accurate reproduction.*
 
-# Google Adsense Privacy Policy - nitinbhatia.in
+# Google Adsense Privacy Policy
 
 This page confirms that this site i.e. NitinBhatia.in strictly adheres to the Google AdSense program policies and Terms & Conditions.
 
