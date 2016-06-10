@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ghs.org privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809171806id_/http%3A//www.ghs.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghs.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610130322id_/http%3A//www.ghs.org/privacypolicy) for the most accurate reproduction.*
 
-# GHS Notice of Privacy Practices - Greenville Health System
+# Greenville Health System GHS Notice of Privacy Practices - Greenville Health System
 
 Updated October 2014 | [__Download a PDF copy of this notice](http://d1nrfqt2fvljr.cloudfront.net/docs/ghs-privacy-policy.pdf)
 
@@ -106,7 +106,7 @@ Under certain circumstances, we may use and disclose health information about yo
 
 GHS is a nonprofit health system that relies on generous support from patients and families to continue vital healthcare, research and education operations. We may use your demographic information such as name, address and birthday to contact you regarding fundraising opportunities. We also may use the dates you received treatment or services, department of service, outcomes information and treating information. You have the right to elect not to receive fundraising communications. Please contact us at **(864) 797-7749** (Office of Philanthropy & Partnership) if you wish to have your name removed from the list to receive fundraising requests supporting GHS in the future. Your decision not to receive fundraising communications will have no impact on your ability to receive healthcare services at any GHS facility.
 
-#### Workers' Compensation
+#### Workers’ Compensation
 
 We may release information about you to comply with workers’ compensation laws or similar programs.
 
@@ -248,7 +248,7 @@ Other uses and disclosures of medical information not covered by this Notice or 
 
 * * *
 
-_**To request a copy of, review of or amendment to your health record, please write to ...**_
+_**To request a copy of, review of or amendment to your health record, please write to …**_
 
 GHS Health Information Management  
 Medical Records Department  
