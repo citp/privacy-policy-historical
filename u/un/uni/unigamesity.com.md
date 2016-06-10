@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the unigamesity.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208113621id_/http%3A//www.unigamesity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unigamesity.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611004038id_/http%3A//www.unigamesity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unigamesity
 
 Unigamesity is committed to protecting you and your family’s personal information and privacy when using Unigamesity’s (the Website) services. This Privacy Policy relates to our use of any personal information you provide through the Unigamesity website.
+
+**Affiliate Information**  
+Unigamesity is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com products. We may also link to various other affiliate networks or programs.
 
 **Collecting your Personal Information**  
 If you wish to do so, you can remain anonymous for the entire duration of your visit on the Unigamesity website. However, we do require personal information from you in a few specific circumstances. We will ask you when we need information that personally identifies you (usually your name and e-mail address). Generally, this information is requested when posting comments on the website, when you are asked to register before entering a contest, if you subscribe to one of our properties or elect to participate in a survey.
@@ -21,6 +24,6 @@ Unigamesity staff will respond to e-mails sent directly to them via the contact 
 We show great interest in confidentiality. Unigamesity is a spam free zone. Also, we will never share your Personal Information or e-mail address to third parties without your prior express consent. Any statistics that we might offer to our advertisement networks does not include any personal identifying information about any individual user. We do our best efforts to protect the security of your personal information.
 
 **Notification of Changes**  
-If we decide to change our privacy policy, we will post a notice about the changes on our Homepage.
+If we decide to change our privacy policy, we will post a notice about the changes here so make sure to visit it regularly.
 
-This Privacy Policy has been updated today, 13th of March, 2009.
+This Privacy Policy has been updated today, 20th of April, 2016.
