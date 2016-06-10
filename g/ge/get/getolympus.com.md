@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the getolympus.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085152id_/http%3A//www.getolympus.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getolympus.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610193048id_/http%3A//www.getolympus.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Olympus
 
-## **Privacy Policy**
+### Privacy Policy
+
+Thank you for visiting olympusamerica.com, a website of Olympus Corporation of the Americas ("Olympus"). We want you to understand how and why we collect, use and disclose the personal information about you on our Sites. We may update this Policy from time to time, so please check this Policy periodically for changes.
+
+Thank you for visiting olympusamerica.com, a website of Olympus Corporation of the Americas ("Olympus"). We want you to understand how and why we collect, use and disclose the personal information about you on our Sites. We may update this Policy from time to time, so please check this Policy periodically for changes.
 
 Thank you for visiting olympusamerica.com, a website of Olympus Corporation of the Americas ("Olympus"). This Privacy Policy describes our practices in connection with information that we collect through websites, mobile sites, applications, widgets and other features that link to olympusamerica.com (collectively, “Sites”). At Olympus, we know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly.
 
 We want you to understand how and why we collect, use and disclose the personal information about you on our Sites. We may update this Policy from time to time, so please check this Policy periodically for changes.
 
-## **PERSONAL INFORMATION WE COLLECT AND USE AT THE SITES**
+#### Personal Information we Collect and use at the Sites
 
 We gather customer information needed to provide you with superior service, communicate information that we believe will be of interest to you, and administer our business.
 
@@ -41,7 +45,7 @@ Generally, we need this basic information about you to communicate with you. Oth
 
 
 
-## **PAYMENTS; THIRD PARTY USE OF PERSONAL INFORMATION**
+#### Payments; Third Party use of Personal Information
 
 If you wish to purchase items on our Sites, we will collect your credit card information and other personal information necessary to fulfill your order. We may also transmit such information securely to a third-party payment processor, and personal information may be collected by this third party and not by us. In the event that your payment is processed by a third party, you will be subject to the third party’s privacy policy and terms and conditions, rather than ours. We have no control over, and shall not be responsible for, any third party’s use of your personal information.
 
@@ -53,27 +57,27 @@ If you click on a link to a third-party site, we encourage you to check the priv
 
 If you are a California resident, you may ask us to refrain from sharing your information (whether collected online or offline) with third parties for their marketing purposes. Please tell us your preference by contacting us as indicated in the "Contacting Us" section of this Policy.
 
-## **WE DO NOT COLLECT INFORMATION FROM CHILDREN**
+#### We do not Collect Information from Children
 
 We are strongly committed to preserving online privacy for all of our Sites visitors, including children. The Sites are designed for use only by adults and children age 13 and older with the consent of their parents. Consistent with the Children's Online Privacy Protection Act, we will not knowingly collect any information from children under the age of 13. Furthermore, we may restrict entries to any contests, sweepstakes or promotions to entrants who are at least 18 years of age.
 
-## **PROFILES AND SCREEN NAMES; SOCIAL MEDIA**
+#### Profiles and Screen Names; Social Media
 
 To take advantage of certain interactive features of our Sites, you may be required to register as a member. As part of the registration, you may be able to create a profile with an associated screen name of your choosing. You acknowledge that if you choose to use your real name or something like it as your screen name, you voluntarily may be relinquishing some of the privacy that your screen name might afford you.
 
 Additionally, we may provide you with access to social media links, message boards, chats, profile pages, blogs, and other third-party functionalities that may permit you to post content to your social media account(s). Any information that you provide through use of social media functionality is governed by the applicable third party’s privacy policy, and not by this Policy. We have no control over, and shall not be responsible for, any third party’s use of personal information that you provide through use of the social media functionality.
 
-## **CONFIDENTIALITY AND SECURITY**
+#### Confidentiality and Security
 
 We restrict access to personal information collected about you at our Sites to our employees, our affiliates' employees or others who need to know that information to provide services to you or in the course of conducting our normal business operations. While no Sites can completely guarantee security, we maintain reasonable physical, electronic and procedural safeguards to protect your personal information collected via the Sites.
 
 We do not guarantee that any information you provide will not be intercepted by a third party during transmission over any public networks or otherwise. You bear the risk of communicating with us electronically and we are not responsible for any resulting loss or damage.
 
-## **THE RIGHT TO VERIFY THE ACCURACY OF INFORMATION WE COLLECT**
+#### The Right to Verify the Accuracy of Information we Collect
 
 Keeping information accurate and up-to-date is important to us. You may be able to personalize your use of our Sites by becoming a registered user, and by doing so, we may be better able to assist you with your specific needs. Once registered, you can review and maintain your account information at any time. Your account information is secure and is accessible by using a password that you select. Do not share your password with anyone.
 
-## **USE OF "COOKIES" OR OTHER DATA COLLECTION TOOLS**
+#### Use of "Cookies" or other Data Collection Tools
 
 A “cookie” is a piece of information which a web server may place on your computer when you visit a website. Many cookies last only through a single Sites session or visit. Others may have an expiration date or may remain on your computer until you delete them.
 
@@ -95,20 +99,6 @@ Certain pages on our Sites contain "web beacons" (also known as Internet tags, p
 
 As there is no commonly accepted response for “do not track” signals initiated by browsers, we do not respond to them.
 
-## **PROMOTIONAL EMAILS**
-
-If we send you any promotional emails, and you no longer would like to receive such emails, please simply follow the "Unsubscribe" instructions on those emails. Your email address will be removed from our marketing list. Please allow us a reasonable period of time in order to satisfy your request.
-
-## **VISITING OUR SITES FROM OUTSIDE OF THE UNITED STATES**
+#### Visiting our Sites from Outside of The United States
 
 If you are visiting our Sites from outside the United States, please be aware that your information may be transferred to, stored or processed in the United States, where some of our servers are located. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.
-
-## **CHANGES TO OUR SITES PRIVACY POLICY**
-
-We may change this Policy at any time and from time to time. The most recent version of the Policy is reflected by the version date located at the bottom of this Policy. This Policy is not intended to and does not create any contractual or other legal right in or on behalf of any party.
-
-## **CONTACTING US**
-
-If you have any questions about this Policy or would like to learn more about how we protect privacy, please contact us as directed on our website at <http://www.olympusamerica.com/oai_contactus.asp>.
-
-Effective Date: January 1, 2014
