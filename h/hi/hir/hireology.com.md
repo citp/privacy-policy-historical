@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hireology.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910192030id_/http%3A//www.hireology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hireology.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610050813id_/http%3A//www.hireology.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HIreology
 
@@ -6,7 +6,7 @@ Hireology, Inc. (“ **Hireology** ”) provides this website (the “ **Site** 
 
 * * *
 
-### Consent for Collection, Use and Disclousure
+### Consent for Collection, Use and Disclosure
 
 This Privacy Policy applies to Hireology’s operation and administration of the Site, and to the information that users may provide or that Hireology may have access to through the Site, but not necessarily to the Services.
 
@@ -141,7 +141,7 @@ Subject to the Terms of Use and any applicable Services Agreement, Hireology wil
 
 ### Contacting Us
 
-Any questions about this Privacy Policy should be addressed to _support at Hireology.com_ or by mail at: Hireology Inc., 640 N. LaSalle St, Suite 480, Chicago, Illinois 60654
+Any questions about this Privacy Policy should be addressed to _support at Hireology.com_ or by mail at: Hireology Inc., 303 E. Wacker Drive, Suite 400, Chicago, Illinois 60601
 
 * * *
 
@@ -153,4 +153,4 @@ Any dispute over privacy or any information described in this Privacy Policy is 
 
 ### Questions
 
-Any questions about this Privacy Policy should be addressed to _support at Hireology.com_ or by mail at: Hireology Inc., 303 East Wacker Drive, Suite 500, Chicago, IL 60601
+Any questions about this Privacy Policy should be addressed to _support at Hireology.com_ or by mail at: Hireology Inc., 303 E. Wacker Drive, Suite 400, Chicago, Illinois 60601
