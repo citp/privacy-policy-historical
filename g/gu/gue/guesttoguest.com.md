@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guesttoguest.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029234757id_/http%3A//www.guesttoguest.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guesttoguest.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610040152id_/https%3A//www.guesttoguest.com/en/privacy) for the most accurate reproduction.*
 
-# Home exchange, apartment swap and house exchange - Privacy - GuestToGuest
+# Privacy - Home exchange - GuestToGuest
 
 Your privacy is very important to GuestToGuest. This page describes how we protect your information and your privacy: 
 
