@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the player.me privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920014414id_/https%3A//player.me/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the player.me privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610093311id_/https%3A//player.me/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Player.me
 
-Welcome to the web site Player.me, and any other web sites, applications, or services that link to this Privacy Policy (collectively, the “Service”), which sites, applications or services are operated or produced by Mynt Labs Limited ( or “Player.me”). Player.me values the privacy of the users, subscribers, publishers, members, and others who visit and use the Service (collectively or individually, “ You ” or “ Users ”) and wants you to be familiar with how we collect, use and disclose information from and about you.
+Welcome to the web site Player.me, and any other web sites, applications, or services that link to this Privacy Policy (collectively, the “Service”), which sites, applications or services are operated or produced by Mynt Labs Holding Limited ( or “Player.me”). Player.me values the privacy of the users, subscribers, publishers, members, and others who visit and use the Service (collectively or individually, “ You ” or “ Users ”) and wants you to be familiar with how we collect, use and disclose information from and about you.
 
 By using the Player.me Service, you expressly consent to the information handling practices described in this notice.
 
@@ -60,7 +60,7 @@ This Privacy Policy does not apply to, and we cannot control the tracking techno
 
 Player.me uses certain physical, managerial, and technical measures designed to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Player.me, and you do so at your own risk. Once we receive your transmission of information, Player.me makes efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If Player.me learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Player.me may post a notice on the Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at privacy@player.me.
+If Player.me learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Player.me may post a notice on the Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [privacy@player.me](mailto:privacy@player.me).
 
 ## Our Commitment to Children’s Privacy
 
@@ -68,7 +68,7 @@ IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE SERVICE A
 
 Protecting the privacy of young children is especially important. For that reason, Player.me does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. If Player.me learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the Service, then Player.me will take the appropriate steps to delete this information.
 
-If you are the parent or legal guardian of a child under 13 who has become a Player.me Service member, then please contact Player.me at privacy@player.me to have that child’s account terminated and information deleted.
+If you are the parent or legal guardian of a child under 13 who has become a Player.me Service member, then please contact Player.me at [privacy@player.me](mailto:privacy@player.me) to have that child’s account terminated and information deleted.
 
 ## International Visitors
 
@@ -86,6 +86,6 @@ For revisions to this Privacy Policy that may be materially less restrictive on 
 
 ## Player.me Contact Information
 
-Please contact Player.me with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices or your consent choices by email at privacy@player.me. We will respond to your inquiry within 30 days of its receipt.
+Please contact Player.me with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices or your consent choices by email at [privacy@player.me](mailto:privacy@player.me). We will respond to your inquiry within 30 days of its receipt.
 
 Last Modified: 31st January 2014
