@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redhotchilipeppers.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917042322id_/http%3A//redhotchilipeppers.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redhotchilipeppers.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611012214id_/http%3A//redhotchilipeppers.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Red Hot Chili Peppers
 
