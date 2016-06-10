@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boldleads.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818202358id_/http%3A//boldleads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldleads.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610020929id_/http%3A//boldleads.com/privacy-policy) for the most accurate reproduction.*
 
 # BoldLeads™ | Real Estate Seller Leads | Seller Leads | Real Estate Listing Leads | Real Estate Lead Generation
 
