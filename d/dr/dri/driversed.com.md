@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversed.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406042526id_/https%3A//driversed.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversed.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610042009id_/https%3A//driversed.com/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - DriversEd.com
 
@@ -10,7 +10,7 @@ This privacy policy describes how Interactive Solutions, Inc. ("Interactive Solu
 
   * In the event Interactive Solutions goes through a business transition, such as a merger, acquisition by another company, or sells a portion of its assets, users' personally identifiable information will, in most instances, be part of the assets transferred. Users will be notified via email and a prominent notice will be placed on our websites for 30 days prior to change of ownership or control of their personally identifiable information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection, they will be given a choice consistent with our notification changes.
 
-  * We send all new members a welcoming email to verify successful enrollment. When an account is created, the user may choose to receive news and promotional emails at that time. We also send an email when the user's due date is near and after they graduate successfully. Upon graduating the course, we send an associate email to users to refer other people to our course. Once payment has been received from their referrals, they will receive a commission payment.
+  * We send all new members a welcoming email to verify successful enrollment. When an account is created, the user enters our list database, and is sent notifications relevant to the chosen course. We also send an email when the user's due date is near and after they graduate successfully. Upon graduating the course users are added to our newsletter list—these newsletters offer news, product information, and discount opportunity information across all eDriving brands.
 
 We provide a way to opt out of our news, promotion, and associate emails. Users can click on the "Unsubscribe" link at the bottom of the email or call our toll free number (888-651-2886) to have their emails blocked. We then remove the user's email from our mailing list. The emails that users send to their friends are one-time emails unless the friend of the user chooses to receive more emails or becomes a registered member of the site as well.
 
