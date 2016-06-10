@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesweetscience.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035632id_/http%3A//www.thesweetscience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesweetscience.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610083522id_/http%3A//www.thesweetscience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,26 +69,26 @@ This document was last updated on March 20, 2014
 
 ### Latest Articles
 
-[](http://www.thesweetscience.com/news/articles-frontpage/21843-chimpa-gonzalez-scores-another-ko-win-in-la)
+[](http://www.thesweetscience.com/news/articles-frontpage/22368-canastota-greets-the-boxing-world)
 
-[](http://www.thesweetscience.com/news/tss-press-releases/21842-daniel-jacobs-vs-peter-quillin-official-weights-)
+[](http://www.thesweetscience.com/news/articles-frontpage/22367-looking-back-and-looking-forward-from-the-stubhub-center-to-madison-square-garden)
 
-[](http://www.thesweetscience.com/news/tss-press-releases/21841-daniel-jacobs-vs-peter-quillin-final-press-conference-quotes)
+[](http://www.thesweetscience.com/news/articles-frontpage/22366-deontay-wilders-next-title-defense-will-be-against-chris-arreola)
 
-[](http://www.thesweetscience.com/news/articles-frontpage/21840-backus-is-always-canastotas-own-but-he-is-still-without-a-hall-pass)
+[](http://www.thesweetscience.com/news/articles-frontpage/22365-is-chris-eubank-jr-up-next-for-ggg)
 
-[](http://www.thesweetscience.com/news/articles-frontpage/21839-lets-see-roachs-worth-training-pascal-for-kovalev-rematch)
+[](http://www.thesweetscience.com/news/articles-frontpage/22364-muhammad-ali-and-those-days-in-la)
 
-[](http://www.thesweetscience.com/news/articles/21838-jacobs-vs-quillin-brooklyn-media-workout-quotes)
+[](http://www.thesweetscience.com/news/articles-frontpage/22363-enzo-maccarinelli-is-still-a-factor-in-the-well-stocked-cruiserweight-division)
 
-[](http://www.thesweetscience.com/news/tss-press-releases/21837-jacobs-vs-quillin-cuellar-vs-oquendo-fight-week-highlights)
+[](http://www.thesweetscience.com/news/articles-frontpage/22361-muhammad-ali-paying-homage-to-an-iconic-icon)
 
-[](http://www.thesweetscience.com/news/articles-frontpage/21836-would-prime-klitschko-have-beaten-fury-)
+[](http://www.thesweetscience.com/news/articles-frontpage/22360-canastota-new-yorks-big-boxing-weekend-is-here)
 
-[](http://www.thesweetscience.com/news/tss-press-releases/21835-media-a-top-fighters-give-their-predictions-on-jacobs-vs-quillin-world-title-)
+[](http://www.thesweetscience.com/news/articles-frontpage/22359-beterbiev-looks-poised-to-make-noise-at-light-heavyweight)
 
-[](http://www.thesweetscience.com/news/articles-frontpage/21834-female-fight-chatter-hardy-lauren-and-others)
+[](http://www.thesweetscience.com/news/articles-frontpage/22358-28-years-after-his-greatest-moment-of-glory-iran-qthe-bladeq-barkley-still-gets-his-props)
 
 #### Latest Videos on [BoxingChannel.tv](http://www.boxingchannel.tv/)
 
-Who wins the WBO Middleweight title fight Dec. 19th? 
+Would You pay to see Floyd Mayweather Jr box against Conor McGregor?
