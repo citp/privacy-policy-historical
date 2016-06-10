@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21food.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923130815id_/http%3A//www.21food.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21food.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610131116id_/http%3A//www.21food.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,4 +63,4 @@ You can access, view and edit your Registration Information, Publishing Informat
 
 ## Your feedback
 
-21Food.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to info@21food.com.
+21Food.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to vip_supplier@21food.com.
