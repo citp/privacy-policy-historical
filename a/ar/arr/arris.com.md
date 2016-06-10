@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arris.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911203141id_/http%3A//www.arris.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arris.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610043335id_/http%3A//www.arris.com/Company/Privacy) for the most accurate reproduction.*
 
-# ARRIS | Privacy Policy
+# Privacy Policy | ARRIS
 
 ARRIS respects your privacy. When using our sites, you may get information, access online products and services, communicate with us or link to other web sites with which we do business. While doing that, you may give us information so that we can provide enhanced products or services to you and to personalize your experience on our website. This online privacy policy describes how we use and protect Personally Identifiable Information that you share with us ("PII”).
 
