@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portphillippublishing.com.au privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210193352id_/http%3A//portphillippublishing.com.au/%3Fpage_id%3D402) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portphillippublishing.com.au privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610105752id_/http%3A//portphillippublishing.com.au/%3Fpage_id%3D402) for the most accurate reproduction.*
 
 # Privacy Policy | Port Phillip Publishing
 
@@ -70,7 +70,7 @@ PPP will review and update this privacy policy as needed. Please check back regu
 
 **Privacy concerns or complaints**
 
-If you have concerns or wish to make a complaint regarding the handling of your personal information by us, please contact us (see below: ‘How to [Contact us](http://www.bendigobank.com.au/public/privacy-policy/full-privacy-policy#contacting-us)’). We will promptly investigate your complaint and notify you of the outcome. If you are still not satisfied with the outcome of your complaint, you may in some cases refer your complaint to the Financial Ombudsman Service (tel. 1300 780 808, web www.fos.org.au), or the Office of the Australian Information Commissioner (tel. 1300 363 992, web www.oaic.gov.au).
+If you have concerns or wish to make a complaint regarding the handling of your personal information by us, please contact us. We will promptly investigate your complaint and notify you of the outcome. If you are still not satisfied with the outcome of your complaint, you may in some cases refer your complaint to the Financial Ombudsman Service (tel. 1300 780 808, web www.fos.org.au), or the Office of the Australian Information Commissioner (tel. 1300 363 992, web www.oaic.gov.au).
 
 **How to contact us**
 
