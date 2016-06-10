@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211115333id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610193924id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # the-Bikini.com Information page. Micro bikinis for sexy women
-
-  
-
-
-Share with Friends
-
-  
-  
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.the-bikini.com&media=http%3A%2F%2Fwww.the-bikini.com%2Fgalleries-micro%2Fbigimages%2Fimage023.jpg&description=Mini%20and%20micro%20bikinis%20by%20www.the-bikini.com)   
-
 
   
   
@@ -101,4 +91,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20151211115333id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20160610193924id_/http%3A//www.the-bikini.com/contact/). 
