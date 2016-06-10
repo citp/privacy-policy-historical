@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titleboxingclub.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630035113id_/http%3A//titleboxingclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titleboxingclub.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610100957id_/http%3A//titleboxingclub.com/privacy-policy) for the most accurate reproduction.*
 
 # TITLE Boxing Club | Privacy Policy
 
@@ -10,7 +10,7 @@ TITLE Boxing Club and TITLE Boxing collects the domain name of each visitor to o
 
 ### What about cookies?
 
-“Cookies” are bits of information that are captured and stored by your web browser on your computer’s hard drive. TITLE Boxing Club and TITLE Boxing do not use cookies to gather information from your computer that was not originally sent within a cookie. Rather, we use cookies to measure usage of the site and to improve your web experience. Most web browsers automatically accept cookies, so if you would like to prevent receipt of such data, you should refer to your web browser’s settings.
+Cookies are bits of information that are captured and stored by your web browser on your computer’s hard drive. TITLE Boxing Club and TITLE Boxing do not use cookies to gather information from your computer that was not originally sent within a cookie. Rather, we use cookies to measure usage of the site and to improve your web experience. Most web browsers automatically accept cookies, so if you would like to prevent receipt of such data, you should refer to your web browser’s settings.
 
 ### How is this information used?
 
