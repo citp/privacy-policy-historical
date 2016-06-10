@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dramasonline.pk privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107082729id_/http%3A//dramasonline.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramasonline.pk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610050829id_/http%3A//dramasonline.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dramas Online
 
