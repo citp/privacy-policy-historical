@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ubmasia.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228215141id_/http%3A//www.ubmasia.com/en-us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubmasia.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611000345id_/http%3A//www.ubmasia.com/en-us/Privacy-Policy) for the most accurate reproduction.*
 
-# UBM Asia > Home > Privacy Policy Statement
+# Asia’s Most Reliable Trade Show Organizer | UBM Asia > Home > Privacy Policy Statement
 
 We, UBM Asia Ltd, take individual privacy seriously. This Statement explains our policies and practices.  
 We respect your privacy and we will use our reasonable endeavour to:
