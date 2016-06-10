@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livelaw.in privacy policy that was archived on 2015-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150722073725id_/http%3A//www.livelaw.in/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelaw.in privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610104839id_/http%3A//www.livelaw.in/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Live Law
+# Privacy Statement
 
 By: Live Law | May 29, 2013 
 
