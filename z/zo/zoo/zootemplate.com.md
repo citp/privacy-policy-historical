@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zootemplate.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905090019id_/http%3A//www.zootemplate.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zootemplate.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610140854id_/http%3A//www.zootemplate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ZooTemplate
 
@@ -12,36 +12,33 @@ By visiting this website, you are accepting the terms of this Website Privacy Po
 
 We retain two types of information:
 
-_Personal Data  
-_
+#### Personal Data
 
 This is data that identifies you or can be used to identify or contact you and may include your name, address, email address, user IP addresses in circumstances where they have not been deleted, clipped or anonymised, and telephone number. Such information is only collected from you if you voluntarily submit it to us.
 
-_Non-Personal Data  
-_
+#### Non-Personal Data
 
 Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This Non-Personal Data comprises information that cannot be used to identify or contact you, such as demographic information regarding, for example, user IP addresses where they have been clipped or anonymised, browser types and other anonymous statistical data involving the use of our website.
 
 ### 3\. Purposes for which we hold your Information
 
-_Non-Personal Data  
-_
+#### Non-Personal Data
 
 We use the Non-Personal Data gathered from visitors to our website in an aggregate form to get a better understanding of where our visitors come from and to help us better design and organize our website.
 
-_Cookies  
-_
+#### Cookies
 
 A cookie is a piece of data stored on the user’s computer tied to information about the user. We don’t use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, We have no access to or control over these cookies, once We have given permission for them to set cookies for advertising.
 
-_Personal Data  
-_
+#### Personal Data
 
 We will process any Personal Data you provide to us for the following purposes:
 
-a) to provide you with information you have requested;  
-b) to contact you if required in connection with your query or to respond to any communications you might send to us;  
-c) to send you the ZooTemplate Newsletter or Event Alerts.
+  1. to provide you with information you have requested;
+  2. to contact you if required in connection with your query or to respond to any communications you might send to us;
+  3. to send you the ZooTemplate Newsletter or Event Alerts.
+
+
 
 ### 4\. Disclosure of Information to Third Parties
 
@@ -55,7 +52,7 @@ This Web site contains links to other sites. Please be aware that We are not res
 
 ### 6\. How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please contact us **support(at)ZooTemplate.com**
+Should you have other questions or concerns about these privacy policies, please don’t hesitate to [contact us](https://web.archive.org/contact-us)!
 
 ### 7\. Changes to the Website Privacy Policy
 
