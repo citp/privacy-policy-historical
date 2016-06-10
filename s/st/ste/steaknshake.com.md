@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steaknshake.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125192925id_/http%3A//www.steaknshake.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steaknshake.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610032756id_/http%3A//www.steaknshake.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Steak 'n Shake
 
@@ -100,7 +100,7 @@ Our Policy is subject to change from time to time, so we suggest that you review
 
 If you have any questions or comments concerning our Privacy Policy, please contact us:
 
-a. Send an email with your request and current contact information to [webservices@steaknshake.com](mailto:webservices@steaknshake.com)
+a. Contact us via <http://www.customerpulse.net:8080/snscontactus/Welcome.jsp>
 
 b. Send a request in writing with your current contact information to:
 
