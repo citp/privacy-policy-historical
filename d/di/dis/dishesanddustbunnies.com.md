@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishesanddustbunnies.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208020143id_/http%3A//dishesanddustbunnies.com/%3Fpage_id%3D141) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishesanddustbunnies.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610115418id_/http%3A//dishesanddustbunnies.com/%3Fpage_id%3D141) for the most accurate reproduction.*
 
 # Privacy Policy - Dishes and Dust Bunnies
 
@@ -42,8 +42,4 @@ You can opt-out of Google Analytics for Display Advertising and customize Google
 
  
 
-* * *
-
-Affiliate links may be used in this post. Printing a coupon or ordering a product through an affiliate link may result in a commission, which helps pay for the cost of running this site and keeps the content free.  Please see my [disclosure ](http://dishesanddustbunnies.com/disclosure-policy/ "Disclosure Policy")and [privacy policy](http://dishesanddustbunnies.com/privacy-policy/ "Privacy Policy") for more information.
-
-* * *
+Affiliate links may be used in this post. Please see my [disclosure ](http://dishesanddustbunnies.com/disclosure-policy/ "Disclosure Policy")and [privacy policy](http://dishesanddustbunnies.com/privacy-policy/ "Privacy Policy") for more information.
