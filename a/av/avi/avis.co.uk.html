@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the avis.co.uk privacy policy that was archived on 2015-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151130062115id_/http%3A//www.avis.co.uk/about-avis/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the avis.co.uk privacy policy that was archived on 2016-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610044830id_/http%3A//www.avis.co.uk/about-avis/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" js no-touch geolocation csstransforms csstransitions svg json scriptdefer svgfilters jquery2 positionfixed no-highres" style=""><!--<![endif]--><head><script src="//tags.tiqcdn.com/utag/avisbudgetgroup/avisuk/prod/utag.js" type="text/javascript" async=""></script><script id="f5_cspm">(function(){var f5_cspm={f5_p:'NLHAJMGOCLMFEAKCHHDABMOKJAHCIOJHIJLFPAOLDPNBABKIMNHDOAJBMHJAPBALAFFDGGNAFOHMEBFABICKOADLAPDLCNDKGMDCDPEKGLHAAAPBGNPFBOHKMNGCBOFN',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,32,(latency>>8));str=f5_cspm.set_byte(str,33,(latency&0xff));str=f5_cspm.set_byte(str,27,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='aaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
+<!DOCTYPE html><html lang="en" class=" js no-touch geolocation csstransforms csstransitions svg json scriptdefer svgfilters jquery2 positionfixed no-highres" style=""><!--<![endif]--><head><script src="//tags.tiqcdn.com/utag/avisbudgetgroup/avisuk/prod/utag.js" type="text/javascript" async=""></script><script id="f5_cspm">(function(){var f5_cspm={f5_p:'BKPDPJBANIDCMPLIKHEMHCHNALNPJIHMMGEOMGAEMLNBDPOFMDJAOGKNICGAAJNKNCDELHBACJOJCNLEADMGAFOKNFOFPPLMBGEKGDMCOEBDJMBEIDHLIJNNFKGEFGFF',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,32,(latency>>8));str=f5_cspm.set_byte(str,33,(latency&0xff));str=f5_cspm.set_byte(str,27,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='aaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
 return;}}
 catch(err){return;}
 setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'){if(pair[1]=='1234'){var d=new Date();d.setTime(d.getTime()-1);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}}
@@ -103,6 +103,7 @@ f5_cspm.go();}());</script>
                   cultureSelector  = "en";
                 }
                Globalize.cultureSelector = cultureSelector ;
+                console.log(culture);
                 
                 
          
@@ -139,6 +140,17 @@ f5_cspm.go();}());</script>
             },
     
             errorMessages : {
+				beyondMaxRentalMsg :["Rental date selected is more than max rental days"],
+           	  delDateGreater:["Sorry, the start date of your car rental cannot fall after the end date. Please check and try again."],
+			  delTimeGreater:["Sorry, your delivery time slot or pick-up time cannot fall after your chosen collection or drop-off time. Please check and try again."],
+	          delTimeNoSlots:[""],
+	          choosePickup:["Please choose your pick-up location."],
+			  chooseDrop:["Please choose your drop-off location."],
+			  chooseOthrPickUp:["Sorry, we don't recognise that pick-up location. Please check and try again."],
+			  chooseOthrDropOff:["Sorry, we don't recognise that drop-off location. Please check and try again."],
+			  changePrice :["Just so you know, choosing this time extends your rental by a day as we charge per 24 hours. If you’d rather not pay for an extra day, please choose an earlier time."],
+			  blackoutMsg:[""],
+			  leadTimeMsg:[""],
               modifyBooking:{
               tncNotChecked  :  ["Please check the box to confirm that you have read and accept our Terms and Conditions."],
               serviceError  :  [""],
@@ -174,20 +186,20 @@ f5_cspm.go();}());</script>
                 not24hrsupoort:["Sorry, we won't be here when you return. Please choose another time or location."],
                 support24hr:["Sorry we won't be here, but you can still return your vehicle by leaving your keys in our secure box."],
                 dropoffLocationClosedDay:["Sorry, we won't be here when you return. Please choose another day or location. "],
-                tableMessage : "Sorry, we don't have any available cars for your journey. Please choose another location or date, or call 0808 284 0013.",
+                tableMessage : "There are no rentals in your booking history.",
         AWDValidate: ["Sorry, we don't recognise your Avis Worldwide Discount (AWD) number. Please key it in again, using the fomat D123456."],
                 wizNumber :["Sorry, the customer number entered is not correct. Please re-enter this number in the format '3ZZ33Z'. "],
                 surName : [""],
                 wizNumberBck : ["Sorry, your last name doesn't match your customer profile. Please check and try again. (ES214)"],
                 surNameBck : ["Sorry, your last name doesn't match your customer profile. Please check and try again. (ES214)"],
-        surNameNull : [""],
+        surNameNull : ["Please enter your surname."],
         billingDetails: {
           companyName : ["Sorry, we don’t recognise that company. Please try again, using letters, numbers and spaces only."],
           address : ["Sorry, we don't recognise that address. Please try again, using letters, numbers, spaces and the characters - # . , ; : ' ° &()/only."],
           city : ["Sorry, we don’t recognise that location. Please try again, using A-Z, a-z, 1-9, spaces and the characters - , . ; ' & / . ( ) only."],
           postCode : ["Sorry, we don’t recognise that postcode. Please try again, using letters, numbers and spaces only."],
           county : ["Sorry, we don’t recognise that county. Please try again, using letters, numbers and spaces only."],
-          clendarMsg :["Please click on <a href='/drive-avis/car-hire-services/long-term-car-hire'>Avis flex </a> to book more than <span> 365</span> day(s)"]
+          clendarMsg :["Please click on <a href='/drive-avis/car-hire-services/long-term-car-hire'>Avis flex </a> to book more than <span> 28</span> day(s)"]
         },
         billingDetailsMandate:{        
           address : ["Please tell us the first line of your address"],
@@ -199,6 +211,7 @@ f5_cspm.go();}());</script>
             urls : {
         contextPath: '',
                 contextPathLocal : '',
+				contextPathLocale : 'en_GB',
                 carRentalSearch : '/JsonProviderServlet/en_GB', //used for autocomplete/lookahead
                 locationGeoSearch : '/.resources/htmlTemplates/stubs/station-results.json', //used for geolocation requests on m.m.19
                 homePageMobile : '/.resources/htmlTemplates/pages/P_D_03_home-page/index.shtml?device=mobile', // Replace with production homepage url
@@ -294,7 +307,7 @@ f5_cspm.go();}());</script>
 				tDateOffset : 1, // this value should be configurable
 				
                 defaultDayRange : 2,                 
-                maxRentalPeriod : 365,
+                maxRentalPeriod : 28,
     
                 mobileMonths : 1,
     
@@ -311,21 +324,21 @@ f5_cspm.go();}());</script>
                 monthNamesLong : Globalize.cultures[culture].calendars.standard.months.names
             }
     
-                ,isMobile :  false,
-        searchIp : false,
-        keyUpDelay : 400,
-                 dayRental : "Day Rental",
-				dayRentals :"days rental",
-				prevText :"previous",
-				calenMonths : "months",
-				nextText: "Next",
-          mapScrollPickup : true,
+            ,isMobile :  false,
+			searchIp : false,
+			keyUpDelay : 400,
+            dayRental : "Day Rental",
+			dayRentals :"days rental",
+			prevText :"previous",
+			calenMonths : "months",
+			nextText: "Next",
+			mapScrollPickup : true,
             mapScrolldrop : true,
 			bookingPagination : "6",
        		awdPopUp:false,
        		bannerHidden:15 ,      
-flow:'false',
-homePageFlag:false
+			flow:'false',
+			homePageFlag:false
             
         }
     
@@ -333,6 +346,10 @@ homePageFlag:false
 
 
 <body class="content-page branch-location" style="">
+
+
+
+
 
 
 
@@ -347,9 +364,9 @@ homePageFlag:false
                   language : "en",
                   brandAndCountry : "avis|uk",
                   pageName : "about-avis:privacy-policy",
-                  server : "endp01dwb04",
+                  server : "endp01dwb02",
                   pageType : "Avis_Flexible_Content",
-                  ipAddress : "174.129.237.157",
+                  ipAddress : "207.241.231.170",
                   brands : []
          }
     </script>
@@ -429,13 +446,14 @@ homePageFlag:false
           <p class="opening-times">Open Monday to Friday from 07:00 - 22:00*</p>
           <p class="footnote">*Charges may apply</p>
            <div class="actions">
-             <a href="tel:0808 284 0169">CLICK TO CALL<i data-icon=""></i></a>
+             <a href="tel:0808 284 0169">Click to call <i data-icon=""></i></a>
            </div>
     </div>
   </div>
 <div class="layout-helper">
 <div id="primary-nav" class="primary-nav" role="tabpanel" aria-labelledby="primary-nav-tab">
-  <ul class="top-level-nav">
+  
+<ul class="top-level-nav">
   <li tabindex="1">
 
   <a class="is-toggleable" href="#link"><span>Avis fleet</span><i data-icon="" data-icon-open="" aria-hidden="true"></i></a>
@@ -452,7 +470,7 @@ homePageFlag:false
      <i data-icon="" aria-hidden="true"></i>
    </span>
    <span class="hero-img">
-   <img width="100%" height="100%" alt="Book now" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/book-avis/book-now-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/book-avis/book-now-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/book-avis/book-now-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/book-avis/book-now-top-nav.jpg">
+   <img alt="Book now" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/book-avis/book-now-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/book-avis/book-now-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/book-avis/book-now-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/book-avis/book-now-top-nav.jpg">
     </span>
 
 </a></li>
@@ -467,7 +485,7 @@ homePageFlag:false
      <i data-icon="" aria-hidden="true"></i>
    </span>
    <span class="hero-img">
-   <img width="100%" height="100%" alt="Our Car Range" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/book-avis/car-range-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/book-avis/car-range-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/book-avis/car-range-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/book-avis/car-range-top-nav.jpg">
+   <img alt="Our Car Range" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/book-avis/car-range-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/book-avis/car-range-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/book-avis/car-range-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/book-avis/car-range-top-nav.jpg">
     </span>
 
 </a></li>
@@ -482,7 +500,7 @@ homePageFlag:false
      <i data-icon="" aria-hidden="true"></i>
    </span>
    <span class="hero-img">
-   <img width="100%" height="100%" alt="Car Rental with Avis. Avis Select Series range" src="" class="responsive-image" data-small="/dms/DMS/local/UK/fleet/select/navigation/select-a5-top-nav.jpg" data-small-retina="/dms/DMS/local/UK/fleet/select/navigation/select-a5-top-nav.jpg" data-large="/dms/DMS/local/UK/fleet/select/navigation/select-a5-top-nav.jpg" data-large-retina="/dms/DMS/local/UK/fleet/select/navigation/select-a5-top-nav.jpg">
+   <img alt="Car Rental with Avis. Avis Select Series range" src="" class="responsive-image" data-small="/dms/DMS/local/UK/fleet/select/navigation/select-a5-top-nav.jpg" data-small-retina="/dms/DMS/local/UK/fleet/select/navigation/select-a5-top-nav.jpg" data-large="/dms/DMS/local/UK/fleet/select/navigation/select-a5-top-nav.jpg" data-large-retina="/dms/DMS/local/UK/fleet/select/navigation/select-a5-top-nav.jpg">
     </span>
 
 </a></li>
@@ -497,7 +515,7 @@ homePageFlag:false
      <i data-icon="" aria-hidden="true"></i>
    </span>
    <span class="hero-img">
-   <img width="100%" height="100%" alt="Avis Car Hire. Avis Prestige Cars" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/book-avis/prestige-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/book-avis/prestige-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/book-avis/prestige-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/book-avis/prestige-top-nav.jpg">
+   <img alt="Avis Car Hire. Avis Prestige Cars" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/book-avis/prestige-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/book-avis/prestige-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/book-avis/prestige-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/book-avis/prestige-top-nav.jpg">
     </span>
 
 </a></li>
@@ -520,7 +538,7 @@ homePageFlag:false
      <i data-icon="" aria-hidden="true"></i>
    </span>
    <span class="hero-img">
-   <img width="100%" height="100%" alt="Save on Avis car hire from one of thousands of locations around the world." src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/offers/all-offers-rcz-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/all-offers-rcz-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/offers/all-offers-rcz-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/all-offers-rcz-top-nav.jpg">
+   <img alt="Save on Avis car hire from one of thousands of locations around the world." src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/offers/all-offers-rcz-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/all-offers-rcz-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/offers/all-offers-rcz-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/all-offers-rcz-top-nav.jpg">
     </span>
 
 </a></li>
@@ -535,7 +553,7 @@ homePageFlag:false
      <i data-icon="" aria-hidden="true"></i>
    </span>
    <span class="hero-img">
-   <img width="100%" height="100%" alt="" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/offers/uk-offers-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/uk-offers-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/offers/uk-offers-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/uk-offers-top-nav.jpg">
+   <img alt="" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/offers/uk-offers-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/uk-offers-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/offers/uk-offers-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/uk-offers-top-nav.jpg">
     </span>
 
 </a></li>
@@ -550,7 +568,7 @@ homePageFlag:false
      <i data-icon="" aria-hidden="true"></i>
    </span>
    <span class="hero-img">
-   <img width="100%" height="100%" alt="European car hire offers" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/offers/european-offers-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/european-offers-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/offers/european-offers-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/european-offers-top-nav.jpg">
+   <img alt="European car hire offers" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/offers/european-offers-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/european-offers-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/offers/european-offers-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/european-offers-top-nav.jpg">
     </span>
 
 </a></li>
@@ -565,7 +583,7 @@ homePageFlag:false
      <i data-icon="" aria-hidden="true"></i>
    </span>
    <span class="hero-img">
-   <img width="100%" height="100%" alt="" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/offers/worldwide-offers-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/worldwide-offers-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/offers/worldwide-offers-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/worldwide-offers-top-nav.jpg">
+   <img alt="" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/offers/worldwide-offers-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/worldwide-offers-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/offers/worldwide-offers-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/offers/worldwide-offers-top-nav.jpg">
     </span>
 
 </a></li>
@@ -588,7 +606,7 @@ homePageFlag:false
      <i data-icon="" aria-hidden="true"></i>
    </span>
    <span class="hero-img">
-   <img width="100%" height="100%" alt="" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/drive-avis/car-hire-locations-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/drive-avis/car-hire-locations-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/drive-avis/car-hire-locations-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/drive-avis/car-hire-locations-top-nav.jpg">
+   <img alt="" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/drive-avis/car-hire-locations-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/drive-avis/car-hire-locations-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/drive-avis/car-hire-locations-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/drive-avis/car-hire-locations-top-nav.jpg">
     </span>
 
 </a></li>
@@ -647,7 +665,7 @@ homePageFlag:false
      <i data-icon="" aria-hidden="true"></i>
    </span>
    <span class="hero-img">
-   <img width="100%" height="100%" alt="" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/business/business-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/business/business-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/business/business-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/business/business-top-nav.jpg">
+   <img alt="" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/business/business-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/business/business-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/business/business-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/business/business-top-nav.jpg">
     </span>
 
 </a></li>
@@ -708,7 +726,7 @@ homePageFlag:false
   </div>
 
   <div class="narrow-vp-hide">
-    <p>Log in to your Avis Preferred account below. You can also manage an existing booking using the link on the left, or call our Customer Services team on 0808 284 6666.</p>
+    <p>Log in to your Avis Preferred account below. You can also manage an existing booking using the link on the left, or call our Customer Services team on 0808 284 6666 (international: +44203 368 6982).</p>
   </div>
   
   
@@ -795,7 +813,7 @@ homePageFlag:false
 
 
 <span class="hero narrow-vp-hide">
- <img width="100%" height="100%" alt="Your Avis" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/your-avis/your-avis-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/your-avis/your-avis-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/your-avis/your-avis-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/your-avis/your-avis-top-nav.jpg">
+ <img alt="Your Avis" src="" class="responsive-image" data-small="/dms/DMS/global/homepage/navigation/top-nav/your-avis/your-avis-top-nav.jpg" data-small-retina="/dms/DMS/global/homepage/navigation/top-nav/your-avis/your-avis-top-nav.jpg" data-large="/dms/DMS/global/homepage/navigation/top-nav/your-avis/your-avis-top-nav.jpg" data-large-retina="/dms/DMS/global/homepage/navigation/top-nav/your-avis/your-avis-top-nav.jpg">
 </span>
 
   </div>
@@ -871,12 +889,6 @@ homePageFlag:false
     
 
 <li><a href="/about-avis/environment-csr">Corporate Social Responsibility<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>
-    
-    
- 
-    
-
-<li><a href="/about-avis/booking-conditions">Booking Conditions<i data-icon="" aria-hidden="true" class="cm6-entry-arrow"></i></a></li>
     
     
  
@@ -1037,7 +1049,7 @@ homePageFlag:false
     </button>
   </div>
     <div class="priv-policy">
-      <a id="policy-link" href="javascript:void(0)" class="js-overlay tmc">Privacy Policy</a>
+      <a id="privacy" href="javascript:void(0)" class="js-overlay tmc">Privacy Policy</a>
     </div>
 
 
@@ -1055,6 +1067,7 @@ homePageFlag:false
   </script>
 <input type="hidden" id="urlCountry" value="GB">
 <input type="hidden" id="urlLocale" value="en_GB">
+
 <script type="text/template" class="termsTemplate">
   <div class="contentpage-overlay-mask" >
     <div class="contentpage-overlay-inner contentpage-overlay-full-width">
@@ -1069,8 +1082,7 @@ homePageFlag:false
 
                 <ul class="accordion-list">
                   <% var termText, payCurr ="";for(var i=0;i< tac.TermsAndConditions.Section.length;i++){%>
-                    <% if(tac.TermsAndConditions.Section[i].Category == "BOOK" || tac.TermsAndConditions.Section[i].Category == "LOC" || tac.TermsAndConditions.Section[i].Category == "PAY" || tac.TermsAndConditions.Section[i].Category == "CANX" || tac.TermsAndConditions.Section[i].Category == "PRIV" || tac.TermsAndConditions.Section[i].Category == "NO_SHOW_PRE" || tac.TermsAndConditions.Section[i].Category == "NO_SHOW_POST"||tac.TermsAndConditions.Section[i].Category == "BOOK_PRE"|| tac.TermsAndConditions.Section[i].Category == "BOOK_POST"|| tac.TermsAndConditions.Section[i].Category == "CONFIRM") {%>
-                
+                    <% if(tac.TermsAndConditions.Section[i].Category == "BOOK" || tac.TermsAndConditions.Section[i].Category == "LOC"  ||  tac.TermsAndConditions.Section[i].Category == "DC" || tac.TermsAndConditions.Section[i].Category == "PAY" || tac.TermsAndConditions.Section[i].Category == "CANX" || tac.TermsAndConditions.Section[i].Category == "PRIV" || tac.TermsAndConditions.Section[i].Category == "NO_SHOW_PRE" || tac.TermsAndConditions.Section[i].Category == "NO_SHOW_POST"||tac.TermsAndConditions.Section[i].Category == "BOOK_PRE"|| tac.TermsAndConditions.Section[i].Category == "BOOK_POST"|| tac.TermsAndConditions.Section[i].Category == "CONFIRM") {%>
                      <li class="<%=tac.TermsAndConditions.Section[i].Category%>" id="privacyPolicyPo<%=tac.TermsAndConditions.Section[i].Category%>">
                         <div class="accordion-header">
                             <h3><%=tac.TermsAndConditions.Section[i].Description%></h3>
@@ -1094,108 +1106,328 @@ homePageFlag:false
     </div>
                       </div>
 </script>
-<section class="footer-block links">
-            <h2>
-                <a href="#newsletter-signup" class="action-toggle">
-                    moreAvis
-                    <span class="is-visually-hidden" data-open-text=": click to close">: click to open</span>
-                    <i aria-hidden="true" data-icon="" data-icon-open=""></i>
-                </a>
-            </h2>
- <div id="more-avis-links">
-    <ul>
-    <li>
+
+
+
+
+<script type="text/template" class="termsTemplateClose">
+	<div class="contentpage-overlay-mask" >
+		<div class="contentpage-overlay-inner contentpage-overlay-full-width">
+			<div class="contentpage-overlay-bg">
+				<h2 id="overlay-title">Terms and Conditions</h2>
+				<a href="#" class="close-overlay">
+					<i data-icon="&#xe002;" aria-label="close the terms and conditions information"></i>
+					Close
+				</a>
+
+				<div class="contentpage-overlay-scroller">		
+				</div>
+			</div>
+		</div>
+	</div>
+</script><section class="footer-block links footer-segment">
+      <div class="clearfix"> 
+<div class="footer-links-subsection">
+               <h3>
+               
+              
+                 How can we help?
+              </h3>
+              <div class="more-avis-links-footer">
+                  <ul>
+<li>
 <a href="/contact-us">
   Contact us <i data-icon="" aria-hidden="true"></i>                 
-</a>
-</li><li>
-<a href="/avis-affiliate-programme">
-  Affiliate programme <i data-icon="" aria-hidden="true"></i>                 
-</a>
-</li><li>
-<a href="/about-avis/cookie-policy">
-  Cookie policy <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li>
 <a href="/contact-us/customer-services">
   Customer services <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li>
-<a target="_blank" href="http://careers.avisbudgetgroup.eu">
-  Careers <i data-icon="" aria-hidden="true"></i>                 
-</a>
-</li><li>
-<a href="/about-avis/privacy-policy">
-  Privacy policy <i data-icon="" aria-hidden="true"></i>                 
-</a>
-</li><li>
-<a href="/your-avis/manage-booking/request-rental-invoice">
-  Request Rental Invoice <i data-icon="" aria-hidden="true"></i>                 
-</a>
-</li><li>
-<a href="/avis-press">
-  Press Area <i data-icon="" aria-hidden="true"></i>                 
-</a>
-</li><li>
-<a target="_blank" href="http://blog.avis.co.uk?cid=hmagb201500101_avis-inspires-footer">
-  Avis Inspires Magazine <i data-icon="" aria-hidden="true"></i>                 
-</a>
-</li><li>
-<a href="/about-avis">
-  About Avis <i data-icon="" aria-hidden="true"></i>                 
-</a>
-</li><li>
-<a href="/about-avis/website-conditions">
-  Website conditions <i data-icon="" aria-hidden="true"></i>                 
+<a href="/faqs">
+  FAQs <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li>
 <a href="/your-avis/manage-booking">
   Manage your booking <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li>
-<a href="/about-avis/booking-conditions">
-  Booking conditions <i data-icon="" aria-hidden="true"></i>                 
+<a href="/your-avis/manage-booking/request-rental-invoice">
+  Request Rental Invoice <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li>
+<a target="_blank" href="http://www.avis.co.uk/TermsAndCondition">
+  Booking terms and conditions <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li>
+<a href="/about-avis/cookie-policy">
+  cookie policy <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/about-avis/website-conditions">
+  Website conditions <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-services/additional-cover/continental-cover">
+  Driving from the UK into Europe? <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li>    
+    
+
+               	  </ul>
+  </div>
+</div><div class="footer-links-subsection">
+               <h3>
+               
+              
+                 What can we offer you?
+              </h3>
+              <div class="more-avis-links-footer">
+                  <ul>
+<li>
+<a href="/car-hire-offers">
+  car hire offers <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li>
+<a target="_blank" href="http://blog.avis.co.uk?cid=hmagb201500101_avis-inspires-footer">
+  Avis Inspires Magazine <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li>
+<a href="/drive-avis/fleet">
+  The Avis Fleet <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li>
+<a href="/avis-UK/en_GB/drive-avis/avis-mobile-apps?intcid=hmagb201500901_avis-app-footer">
+  Get the Avis app <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li>
+<a href="/your-avis/avis-loyalty">
+  introducing avis loyalty <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li>
+<a href="/about-avis">
+  about avis <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li>
+<a target="_blank" href="http://careers.avisbudgetgroup.eu">
+  Careers <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/avis-affiliate-programme">
+  Affiliate programme <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/avis-press">
+  Press Area <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
 <a href="/site-map">
   Site map <i data-icon="" aria-hidden="true"></i>                 
 </a>
-</li><li>
-<a href="/drive-avis/avis-mobile-apps?intcid=hmagb201500901_avis-app-footer">
-  Download the Avis mobile app <i data-icon="" aria-hidden="true"></i>                 
-</a>
-</li><li>
-<a href="/drive-avis/car-hire-locations/europe/united-kingdom">
-  Car Hire United Kingdom <i data-icon="" aria-hidden="true"></i>                 
+</li>    
+    
+
+               	  </ul>
+  </div>
+</div><div class="footer-links-subsection">
+               <h3>
+               
+              
+                 Top Destinations
+              </h3>
+              <div class="more-avis-links-footer">
+                  <ul>
+<li>
+<a href="/drive-avis/car-hire-locations/europe/spain">
+  Car Hire Spain <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li>
 <a href="/drive-avis/car-hire-locations/europe/united-kingdom/england/london">
   Car Hire London <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li>
-<a href="/drive-avis/car-hire-locations/europe/spain">
-  Car Hire Spain <i data-icon="" aria-hidden="true"></i>                 
+<a href="/drive-avis/car-hire-locations/united-states-canada/united-states/florida/orlando">
+  Car Hire Orlando <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li>
+<a href="/drive-avis/car-hire-locations/europe/france">
+  Car Hire France <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li>
+<a href="/drive-avis/car-hire-locations/europe/italy">
+   Car Hire Italy <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li>
+<a href="/drive-avis/car-hire-locations/united-states-canada/united-states/florida">
+  Car Hire Florida <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li>
+<a href="/drive-avis/car-hire-locations/europe/spain/malaga">
+   Car Hire Malaga <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/spain/canary-islands/tenerife">
+  Car Hire Tenerife <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/scotland/edinburgh">
+  Car Hire Edinburgh <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/scotland/glasgow">
+   Car Hire Glasgow <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/spain/mallorca">
+  Car Hire Majorca <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/spain/canary-islands/lanzarote">
+  Car Hire Lanzarote <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/spain/alicante">
+  Car Hire Alicante <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/spain/menorca">
+  Car Hire Menorca <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/cyprus">
+  Car Hire Cyprus <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/northern-ireland/belfast">
+   Car Hire Belfast <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/england/birmingham">
+  Car Hire Birmingham <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/ireland">
+  Car Hire Ireland <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/england/manchester">
+  Car Hire Manchester <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/spain/canary-islands/fuerteventura">
+  Car Hire Fuerteventura <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li>    
+    
+
+               	  </ul>
+  </div>
+</div><div class="footer-links-subsection">
+               <h3>
+               
+              
+                 Top Airport Locations
+              </h3>
+              <div class="more-avis-links-footer">
+                  <ul>
+<li>
 <a href="/drive-avis/car-hire-locations/europe/spain/malaga/malaga-airport">
-  Car Hire Malaga Airport <i data-icon="" aria-hidden="true"></i>                 
+  Malaga Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li>
+<a href="/drive-avis/car-hire-locations/europe/portugal/faro/faro-airport">
+  Faro Airport <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li>
 <a href="/drive-avis/car-hire-locations/europe/spain/alicante/alicante-airport">
-  Car Hire Alicante Airport <i data-icon="" aria-hidden="true"></i>                 
+  Alicante Airport <i data-icon="" aria-hidden="true"></i>                 
 </a>
 </li><li>
-<a href="/drive-avis/car-hire-locations/united-states-canada/united-states">
-  Car Hire USA <i data-icon="" aria-hidden="true"></i>                 
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/scotland/edinburgh/edinburgh-airport">
+  Edinburgh Airport <i data-icon="" aria-hidden="true"></i>                 
 </a>
-</li>   </ul>
+</li><li>
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/england/bristol/bristol-airport">
+  Bristol Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li>
+<a href="/drive-avis/car-hire-locations/europe/ireland/cork/cork-airport">
+  Cork Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li>
+<a href="/drive-avis/car-hire-locations/europe/ireland/knock/knock-airport">
+  Knock Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/scotland/inverness/inverness-airport">
+  Inverness Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/england/birmingham/birmingham-international-airport-uk">
+  Birmingham Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/germany/munich/munich-airport">
+  Munich Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/scotland/aberdeen/aberdeen-airport">
+  Aberdeen Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/ireland/shannon/shannon-airport">
+  Shannon Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/portugal/lisbon/lisbon-airport">
+  Lisbon Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/england/london/heathrow-airport-t5">
+  Heathrow Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/england/london/gatwick-apt-north">
+  Gatwick Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/england/luton/luton-airport">
+  Luton Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/northern-ireland/belfast/belfast-international-airport">
+  Belfast International Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/united-kingdom/england/exeter/exeter-airport">
+  Exeter Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/cyprus/larnaca/larnaca-airport">
+  Larnaca Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li><li class="more-seo-links">
+<a href="/drive-avis/car-hire-locations/europe/cyprus/paphos/paphos-airport">
+  Paphos Airport <i data-icon="" aria-hidden="true"></i>                 
+</a>
+</li>    
+    
+
+               	  </ul>
   </div>
-   
+</div>       </div> 
+  
 
 
+
+     <div class="seemore-links">
+       <a class="showmore" href="#">See More Links<i data-icon=""></i></a>
+       <a class="hidemore" href="#">Hide Links<i data-icon=""></i></a>
+     </div>
 </section><input type="hidden" name="trustPilotUrl" id="trustPilotUrl" value="https://ssl.trustpilot.com/tpelements/115169/f.jsonp">
 <input type="hidden" name="enableBrowserCache" id="enableBrowserCache" value="false">
-<section class="footer-block logo">
+ <section class="footer-block logo">
+
             <div class="avis-we-try" role="img" aria-label="Avis car hire">
      <svg x="0px" y="0px" viewBox="0 0 709.246 196.712" enable-background="new 0 0 709.246 196.712" xml:space="preserve">
 
@@ -1394,8 +1626,13 @@ homePageFlag:false
 </svg>
 
 </div>
-
-</section><section class="footer-block social-media">
+<div class="cards-support">
+  <div class="cards-txt"></div>
+  <div class="cards-imgs">
+  
+  </div>
+</div>
+<div class="footer-block social-media">
 
     <div class="social-links">
           
@@ -1422,7 +1659,7 @@ homePageFlag:false
     </li>
             </ul>
      </div>
-</section> 	<input type="hidden" name="carResults" id="carResults" value="car-results">
+</div></section> 	<input type="hidden" name="carResults" id="carResults" value="car-results">
  	<input type="hidden" name="carReviewandPay" id="carReviewandPay" value="car-review-and-pay">
  	<input type="hidden" name="carConfirmation" id="carConfirmation" value="car-confirmation">
 </footer><script class="template-form-error" type="text/template">
