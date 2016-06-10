@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookdalecc.edu privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220233849id_/http%3A//www.brookdalecc.edu/about/website-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookdalecc.edu privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610121029id_/http%3A//www.brookdalecc.edu/about/website-privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy - Brookdale Community CollegeBrookdale Community College
 
