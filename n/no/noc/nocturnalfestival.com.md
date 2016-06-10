@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nocturnalfestival.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910081625id_/http%3A//insomniac.com/insomniac-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nocturnalfestival.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610101655id_/http%3A//insomniac.com/insomniac-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Insomniac
 
@@ -84,4 +84,4 @@ If you are not satisfied with our response, you can contact TRUSTe [ _here_](ht
 
 From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-© 2015 Insomniac Holdings, LLC All rights reserved.
+© 2016 Insomniac Holdings, LLC All rights reserved.
