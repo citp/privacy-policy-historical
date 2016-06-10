@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cochinsquare.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912095342id_/http%3A//www.cochinsquare.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cochinsquare.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610160800id_/http%3A//www.cochinsquare.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Kochi Cochin News
+# Privacy Policy | Cochin Square - Kochi News
 
 We are committed in respecting the privacy of every person who visits our website (the “ **Site** “). In the course of using the Site, we may become privy to your personal information, including information that is of a confidential nature. Your privacy is important to us and we strive to take reasonable care and protection of the information we receive from you.
 
