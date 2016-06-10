@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gamesrepublic.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316041631id_/https%3A//gamesrepublic.com/service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesrepublic.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610201101id_/https%3A//gamesrepublic.com/service/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - Play. Share. Earn. Join the revolution at Games Republic. - GamesRepublic.com
 
 #### 
 
-Games Republic Limited with its seat at Malta, address: Vincent Building, 28/19 Strait Street, Suite 1458, Valletta, Malta, VLT1432, telephone: 25572557, fax: 25572558, mail: office@gamesrepublic.com (the “ **Company** ”) protects personal data of users - both natural and legal entities - of www.gamesrepublic.com website (the “ **Website** ”).
+Games Republic Limited with its seat at Malta, address: Cobalt House, level 2, Notabile Road, Mriehel BKR 3000, Malta, VLT1432, mail: contact@gamesrepublic.com (the “ **Company** ”) protects personal data of users - both natural and legal entities - of www.gamesrepublic.com website (the “ **Website** ”).
 
 By using the Website and its content the Company may collect and process personal data of its users solely for purposes which are necessary to define, change, terminate and proper realization of activities, services and products available on the Website as regards user’s activity and orders on the Website. The Company may use personal data for marketing, information or other purposes (e.g. updates, contests, promotions, newsletters) solely upon user’s individual consent. 
 
