@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flagsimporter.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210020838id_/http%3A//www.flagsimporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagsimporter.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610185626id_/http%3A//www.flagsimporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
