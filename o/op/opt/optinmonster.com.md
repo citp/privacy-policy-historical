@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optinmonster.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208155402id_/http%3A//optinmonster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optinmonster.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610174218id_/http%3A//optinmonster.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ Retyp also collects potentially personally-identifying information like Internet
 
 **Gathering of Personally-Identifying Information**
 
-Certain visitors to Retyp’s websites choose to interact with Retyp in ways that require Retyp to gather personally-identifying information. The amount and type of information that Retyp gathers depends on the nature of the interaction. For example, we ask visitors who comment on our blog to provide a username and email address. Those who wish to receive OptinMonster updates via email, we collect their emails. For example, when you to sign up for an account, we ask for personal information, like your name, email address, telephone number or credit card to store with your account. When visitors comment on our blog, we ask them to provide a username and email address. For those who wish to receive OptinMonster updates via email, we collect their emails. 
+Certain visitors to Retyp’s websites choose to interact with Retyp in ways that require Retyp to gather personally-identifying information. The amount and type of information that Retyp gathers depends on the nature of the interaction. For example, we ask visitors who comment on our blog to provide a username and email address. Those who wish to receive OptinMonster updates via email, we collect their emails. For example, when you to sign up for an account, we ask for personal information, like your name, email address, telephone number or credit card to store with your account. When visitors comment on our blog, we ask them to provide a username and email address. For those who wish to receive OptinMonster updates via email, we collect their emails.
 
 In each case, Retyp collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Retyp. Retyp does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
@@ -30,17 +30,17 @@ Retyp may collect statistics about the behavior of visitors to its websites. For
 
 **Information We Share**
 
-Retyp discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Retyp’s behalf or to provide services available at Retyp’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Retyp’s websites, you consent to the transfer of such information to them. 
+Retyp discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Retyp’s behalf or to provide services available at Retyp’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Retyp’s websites, you consent to the transfer of such information to them.
 
-Retyp will not rent or sell potentially personally-identifying and personally-identifying information to anyone. 
+Retyp will not rent or sell potentially personally-identifying and personally-identifying information to anyone.
 
-Other than to its employees, contractors and affiliated organizations, as described above, Retyp discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Retyp believes in good faith that disclosure is reasonably necessary to protect the property or rights of Retyp, third parties or the public at large. 
+Other than to its employees, contractors and affiliated organizations, as described above, Retyp discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Retyp believes in good faith that disclosure is reasonably necessary to protect the property or rights of Retyp, third parties or the public at large.
 
-If you are a registered user of an Retyp website and have supplied your email address, Retyp may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Retyp and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. 
+If you are a registered user of an Retyp website and have supplied your email address, Retyp may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Retyp and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum.
 
-If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. 
+If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users.
 
-Retyp takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information, as discussed below. 
+Retyp takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information, as discussed below.
 
 **Information Security**
 
@@ -86,5 +86,5 @@ We regularly review our compliance with our Privacy Policy. We also adhere to se
 
 Although most changes are likely to be minor, Retyp may change its Privacy Policy from time to time, and in Retyp’s sole discretion. Retyp encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Contact  
-If you have any questions regarding this Privacy Policy, or your dealings with our website, please contact us at: support [at] our domain .com
+_Contact_  
+If you have any questions regarding this Privacy Policy, or your dealings with our website, please contact us by clicking [here](http://optinmonster.com/contact-us/ "Contact Us").
