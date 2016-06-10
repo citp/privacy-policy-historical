@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924104104id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610114617id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy policy : Southern
 
@@ -19,20 +19,20 @@ This Privacy Policy explains:
 
 For the purposes of the Data Protection Act 1998, the data controller is:
 
-Southern Railway Limited Go-Ahead House,   
-26-28 Addiscombe Road  
-Croydon   
-CR9 5GA
+Govia Thameslink Railway Limited   
+1st and 2nd Floors  
+Monument Place  
+24 Monument Street  
+London EC3R 8AJ
 
 Our nominated data protection officer is:
 
 Chris Fisher  
-Head of Business Assurance and Data Protection Officer  
-3rd Floor,   
-Go-Ahead House,   
-26-28 Addiscombe Road   
-Croydon   
-CR9 5GA
+Internal Audit and Compliance Manager  
+1st Floor  
+Monument Place  
+24 Monument Street  
+London EC3R 8AJ
 
 Email: [privacy@southernrailway.com](mailto:privacy@southernrailway.com "Email Southern")
 
