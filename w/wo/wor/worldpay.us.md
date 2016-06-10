@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldpay.us privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022132734id_/http%3A//www.worldpay.com/content/privacy-policy-us-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpay.us privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610043218id_/http%3A//www.worldpay.com/content/privacy-policy-us-0) for the most accurate reproduction.*
 
 # Privacy Policy US | Worldpay
 
@@ -20,11 +20,7 @@ Every time you visit a website, some information is automatically collected from
 
 ### Information Collected via Cookies and Other Similar Technology
 
-“Cookies” are small text files that are placed on your computer to distinguish you from other visitors to our Website. The use of cookies is a standard practice among websites to collect or track information about your activities while using the website. We or our third-party service providers may place cookies or similar files on your hard drive for many of the reasons listed above while visiting our Website. Most people do not know that cookies are being placed on their computers when they visit websites because browsers are typically set to accept cookies. You can choose to have your browser warn you every time a cookie is being sent to you or you can choose not to accept cookies. You can also delete cookies from your computer at any time. If you refuse cookies, the functionality of our Website may be impacted or become non-functional.
-
-In addition to using cookies, we or our third-party service providers may also use similar technologies to track users’ interactions with our Website. Some of these technologies include web beacons (transparent graphical images placed on a website) and flash objects.
-
-We may use these technologies on our Website to verify your identity, remember personal settings including your preferences, to offer you additional options or enhance your online experience, and to improve our products and services. We may also use them for marketing site personalization, and tracking of online applications and programs and/or track the effectiveness of advertisements for our products and services, referred to as banner ads, that we may place on our Website or other linked and/or partner websites. Cookies used for tracking advertising effectiveness do not collect personally identifiable information. In order to better serve you, some of these technologies allow us the ability to view your past interactions with our Websites for customer service, troubleshooting, risk analysis and fraud detection, as well as other related purposes.
+For a detailed description of Worldpay's cookie policy go to [www.worldpay.com/uk/worldpay-cookies](http://www.worldpay.com/uk/worldpay-cookies)
 
 ### 2\. Information You Choose to Submit
 
