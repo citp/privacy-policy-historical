@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the caboki.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114102305id_/http%3A//www.caboki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caboki.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611045448id_/http%3A//www.caboki.com/privacy.html) for the most accurate reproduction.*
 
 # Caboki.com Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/Caboki-LLC/validation?rid=77d084e1-ea14-484c-8630-173af672ae2a "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/Caboki-LLC/validation?rid=77d084e1-ea14-484c-8630-173af672ae2a "TRUSTe online privacy certification")  
+**Effective: January 10, 2016**
 
-**Effective: February 10, 2015**
+We will never share, sell, barter, or rent your personal information such as your email address to any third party other than as disclosed within this privacy policy.
 
-Caboki LLC ("Caboki") values the protection of individual privacy. This privacy policy sets forth Caboki's privacy policy for the site, and governs the manner in which we collect, use, maintain and disclose information collected from our users. By using our site [www.caboki.com](http://www.caboki.com/), you agree to be bound by this privacy policy. If you do not agree to this privacy policy, please do not use the site.
+Caboki LLC ("Caboki") values the protection of individual privacy. This privacy policy sets forth Caboki's privacy policy for the site, and governs the manner in which we collect, use, maintain and disclose information collected from our users. By using our site [www.caboki.com](http://www.caboki.com/index.html), you agree to be bound by this privacy policy. If you do not agree to this privacy policy, please do not use the site.
 
 Caboki has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this website. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@caboki.com](mailto:privacy@caboki.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
-
-**We will never share, sell, barter, or rent your personal information such as your email address to any third party other than as disclosed within this privacy policy.**
 
 ## How we gather information from users
 
@@ -38,7 +37,7 @@ Aggregated Information (information that does not personally identify you) may b
 
 We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order, processing your payment, or offering customer services. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-We may also disclose your information as required by law, such as to comply with a subpoena, or similar legal process, in response to a court order, at other times when we believe in good faith that disclosure is necessary to protect our rights, your safety or the safety of others, investigate fraud, or respond to a government request,, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+We may also disclose your information as required by law, such as to comply with a subpoena, or similar legal process, in response to a court order, at other times when we believe in good faith that disclosure is necessary to protect our rights, your safety or the safety of others, investigate fraud, or respond to a government request, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
 
 If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
@@ -58,19 +57,19 @@ We post customer reviews/video reviews on our Web site which may contain persona
 
 ## Surveys
 
-We may provide you the opportunity to participate in contests or surveys on our site.  If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). 
+We may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
 
-We use this information Describe fully how the data collected is to be used, e.g., to notify contest winners and award prizes, to monitor site traffic or personalize the site (in the case of anonymous information collected in surveys), to send participants an email  newsletter.
+We use this information Describe fully how the data collected is to be used, e.g., to notify contest winners and award prizes, to monitor site traffic or personalize the site (in the case of anonymous information collected in surveys), to send participants an email newsletter.
 
 We use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users’ personally identifiable information for any other purpose. Use the latter disclosure only if your service-provider contracts expressly prohibit this. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
 ## Social Media Widgets
 
-Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ## Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by [www.caboki.com](http://www.caboki.com/) and our partners specify type e.g. marketing partners, affiliates, or analytics or service providers specify type e.g. online customer support provider, etc. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies, beacons, tags and scripts are used by [www.caboki.com](http://www.caboki.com/index.html) and our partners specify type e.g. marketing partners, affiliates, or analytics or service providers specify type e.g. online customer support provider, etc. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
@@ -84,7 +83,7 @@ We do link this automatically-collected data to personally identifiable informat
 
 ## Flash LSO
 
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information. To manage Flash LSOs please click here:[](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information. To manage Flash LSOs please click here:
 
 <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
@@ -113,6 +112,6 @@ We may update this privacy statement to reflect changes to our information pract
 ## Contact Us:
 
 Caboki LLC  
-4222 Fortuna Center Plaza #806  
-Dumfries, VA 22025  
-Email: service@caboki.com
+3 Corporate Drive  
+Cranbury, NJ 08512 USA  
+Email: privacy@caboki.com
