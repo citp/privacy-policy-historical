@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wizehive.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905124433id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizehive.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611131454id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - WizeHive
+# Privacy policy | WizeHive
 
 Your privacy is important to WizeHive, Inc. ("WizeHive", "we", "us" or "our"). This privacy policy provides details about how your personal information is collected and used by us. Personal information is any information that identifies you or would enable someone to contact you, such as your name, email address, phone number and other non-public information associated with your individual identity. This privacy policy explains our commitment to protecting the privacy of personal information about users of WizeHive websites, software, products and services (collectively, the "Site"). We reserve the right to change this Policy from time to time and will notify you of any changes via email or on our web site.
 
@@ -53,7 +53,7 @@ Our customer and user list is an asset and trade secret of WizeHive, Inc. and ma
 
 Except as stated in this privacy policy, we will not disclose your personal information to third parties except when we must comply with laws that require such disclosure to law enforcement authorities or other government third party officials such as subpoenas.
 
-If we are required by law, regulation or legal process (e.g. subpoena) to disclose information about you, we will notify you to the extent permitted by law but we reserve the right to disclose such information as legally required in our judgment. We also may disclose information about your use of the Site if we have reason to believe you have used the Site for purposes prohibited in our [Terms of Service](http://www.wizehive.com/terms_of_service/) or that it is necessary to avoid injury, damage to property or violation of someone's rights.
+If we are required by law, regulation or legal process (e.g. subpoena) to disclose information about you, we will notify you to the extent permitted by law but we reserve the right to disclose such information as legally required in our judgment. We also may disclose information about your use of the Site if we have reason to believe you have used the Site for purposes prohibited in our [Terms of Service](https://web.archive.org/terms_of_service/) or that it is necessary to avoid injury, damage to property or violation of someone's rights.
 
   
 
