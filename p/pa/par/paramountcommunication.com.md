@@ -1,23 +1,20 @@
-> *The following text is extracted and transformed from the paramountcommunication.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912110832id_/http%3A//www.paramountcommunication.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paramountcommunication.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611154642id_/http%3A//web.paramountcommunication.com/privacy-policy) for the most accurate reproduction.*
 
-# Paramount Communication Group
+# Privacy Policy - Paramount Communication
 
-## Paramount Communication Group, Inc.   
-**Privacy Policy**
-
-Overview
+### _Overview_
 
 At Paramount, we respect the privacy needs of our valued customers and members. This Privacy Policy outlines what specific information is gathered by Paramount and how that information is used.
 
 Paramount works to ensure the highest degree of protection for consumers and businesses. We will continue to work to comply with strict standards for online privacy, security, business practices, transaction integrity and availability. If you have any specific questions about the Paramount Privacy Statement, please contact us via email at [privacy@ParamountCommunication.com](mailto:privacy@ParamountCommunication.com).
 
-Collection and Use of Information by Paramount
+### _Collection and Use of Information by Paramount_
 
 Your personal information is used to create your personal access to products on the site, and to contact you in the course of using the products.  Your personal information may also be transferred to us from another Company in order to send you emails that you have requested.  Financial information that is collected is used to verify your identity, to pay for a product or service, or to bill either you or your company for products and services, as applicable. Demographic and profile data collected by Paramount is used to optimize our Website or any requested email communications, and to display information that is more relevant to you.
 
 Your email address is used to send you information that you have requested. As part of your use of any Paramount product, Paramount allows you to elect to receive, or not receive, certain information from Paramount. Paramount adheres strictly to permission-based email policy. Paramount will not send you unsolicited email information, commercial offers or advertisements. All emails that you have requested, other than transactional emails, will include an option to unsubscribe. Unsubscribe requests are fulfilled promptly and no further communications will be sent to users who have stated that they do not wish to receive the specified information.
 
-Cookies and Web Beacons 
+### _Cookies and Web Beacons_
 
 #### Cookies.
 
@@ -37,9 +34,9 @@ If you do not wish to receive cookies, you may set your browser to reject cookie
 
 #### Web Beacons.
 
-Web beacons (also referred to as “tracking pixels” or “action tags”) are graphic images, usually no larger than 1 pixel x 1 pixel, placed at various locations on our Site and in our emails.  Web beacons help us recognize the cookies on your browser.  Like cookies, Web beacons help us collect information about the ways visitors use our Site.  They also help us identify browser types, IP addresses, search terms that bring visitors to our Site, and the domain names of the Web sites that refer traffic to us.  The information collected by Web beacons does not identify you personally.  However, if you have created a user identity on one of your visits to this Web site, for example, by making a purchase, we may link the information we collect using Web beacons to the information that identifies you personally and use it in the same ways as we use the information we collect using cookies.  Lastly, we utilize web beacons to provide us with more information on any emails we send out, in particular, the web beacons will send us information to let us know that you have received and opened any e-mail you have chosen to receive from us. 
+Web beacons (also referred to as “tracking pixels” or “action tags”) are graphic images, usually no larger than 1 pixel x 1 pixel, placed at various locations on our Site and in our emails.  Web beacons help us recognize the cookies on your browser.  Like cookies, Web beacons help us collect information about the ways visitors use our Site.  They also help us identify browser types, IP addresses, search terms that bring visitors to our Site, and the domain names of the Web sites that refer traffic to us.  The information collected by Web beacons does not identify you personally.  However, if you have created a user identity on one of your visits to this Web site, for example, by making a purchase, we may link the information we collect using Web beacons to the information that identifies you personally and use it in the same ways as we use the information we collect using cookies.  Lastly, we utilize web beacons to provide us with more information on any emails we send out, in particular, the web beacons will send us information to let us know that you have received and opened any e-mail you have chosen to receive from us.
 
-Information Use by Third Parties
+### _Information Use by Third Parties_
 
 #### Our Partners.
 
@@ -59,44 +56,44 @@ There are other limited circumstances in which we may share the personal informa
 
 #### In Connection With Corporate Events.
 
-We may transfer your personal information to another company (either an affiliate of Paramount or an unrelated third party) that has acquired the stock or assets of Paramount Communication Group, one of our affiliates, or one of our operating divisions, for example, as the result of a sale, merger, reorganization, insolvency, dissolution or liquidation.  If such a transfer occurs, the acquiring company’s use of your personal information will still be subject to this Privacy Policy, any applicable Privacy Notices, and the privacy preferences you have expressed to us Contact Lists, Campaign Content and Campaign Reports. 
+We may transfer your personal information to another company (either an affiliate of Paramount or an unrelated third party) that has acquired the stock or assets of Paramount Communication Group, one of our affiliates, or one of our operating divisions, for example, as the result of a sale, merger, reorganization, insolvency, dissolution or liquidation.  If such a transfer occurs, the acquiring company’s use of your personal information will still be subject to this Privacy Policy, any applicable Privacy Notices, and the privacy preferences you have expressed to us Contact Lists, Campaign Content and Campaign Reports.
 
-Paramount ensures that all contact lists, email content and reports remain private and confidential. Any use of Paramount systems must be in compliance with our Acceptable Use Policy - to protect against inappropriate use (illegal, abusive, obscene, threatening, etc.). 
+Paramount ensures that all contact lists, email content and reports remain private and confidential. Any use of Paramount systems must be in compliance with our Acceptable Use Policy – to protect against inappropriate use (illegal, abusive, obscene, threatening, etc.).
 
-**Paramount Communication Group will not sell, rent, loan or allow external access to a customer’s contact lists.** Nor will Paramount themselves use customer’s contact lists for any purpose other than those agreed to in writing. 
+**Paramount Communication Group will not sell, rent, loan or allow external access to a customer’s contact lists.** Nor will Paramount themselves use customer’s contact lists for any purpose other than those agreed to in writing.
 
-How Can You Access and Correct Your Personal Information?
+#### How Can You Access and Correct Your Personal Information?
 
 We strive to maintain the accuracy and integrity of the personal information in our databases and to keep that information up-to-date.  We provide ways for you to access your personal information as required by applicable law, so that you can correct inaccuracies or update your personal information.  We generally do not charge for this service, however, we reserve the right to charge a fee as permitted by applicable law.
 
-If you would like to review, correct or challenge your personal information, please contact us by e-mail at [privacy@ParamountCommunication.com](mailto:privacy@ParamountCommunication.com). 
+If you would like to review, correct or challenge your personal information, please contact us by e-mail at [privacy@ParamountCommunication.com](mailto:privacy@ParamountCommunication.com).
 
 We will respond to reasonable requests within the time limits established by applicable law or within a reasonable time if no time limit is established by applicable law.  For your protection, we may ask you for additional information to verify your identity.  In most cases, we will provide the access you request and correct or delete any inaccurate personal information you discover.  We reserve the right, however, to limit or deny your request to the extent permitted by applicable law if: 1) the disclosure may harm the life, the body, the property and the rights of third parties, 2) the disclosure may lead to a breach of applicable law and regulation, or 3) where you have failed to provide sufficient evidence to verify your identity.
 
-This Privacy Policy May Change
+#### This Privacy Policy May Change
 
 We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on this Web site.  These changes will only apply to personal information we collect after we have posted the revised Privacy Policy.  Your use of this Web site or an email following any such change constitutes your agreement that all personal information collected from or about you through this Web site or email after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy.
 
-To alert you to these changes, we will update the effective date of this Privacy Policy.  We will also provide a notice at the top of this Privacy Policy for at least 30 days after the new effective date and highlight the changes so that you can locate them easily.  Unless the change is a minor change (such as a change in our contact information) or a non-substantive change (such as the reformatting of our Privacy Policy), we will post notices on the page where you submit your order and/or on other relevant pages of this Web site for 30 days after the new effective date to alert you to the change. 
+To alert you to these changes, we will update the effective date of this Privacy Policy.  We will also provide a notice at the top of this Privacy Policy for at least 30 days after the new effective date and highlight the changes so that you can locate them easily.  Unless the change is a minor change (such as a change in our contact information) or a non-substantive change (such as the reformatting of our Privacy Policy), we will post notices on the page where you submit your order and/or on other relevant pages of this Web site for 30 days after the new effective date to alert you to the change.
 
-Children’s Privacy
+#### Children’s Privacy
 
 Our Web site and emails are not directed at nor targeted to children.  No one who has not reached the age of majority in his or her country may use this Web site unless supervised by an adult.
 
-We do not use our Web site to knowingly solicit personal information from or market to anyone under the age of majority in his or her country.  Our goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the Children’s On-line Privacy Protection Act of the United States and other applicable laws or regulations.  If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by email at [privacy@ParamountCommunication.com](mailto:privacy@ParamountCommunication.com) and we will take reasonable steps to remove that information from our databases. 
+We do not use our Web site to knowingly solicit personal information from or market to anyone under the age of majority in his or her country.  Our goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the Children’s On-line Privacy Protection Act of the United States and other applicable laws or regulations.  If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by email at [privacy@ParamountCommunication.com](mailto:privacy@ParamountCommunication.com) and we will take reasonable steps to remove that information from our databases.
 
-Information Exchanges and Transactions
+#### Information Exchanges and Transactions
 
-Privacy, anti-hacking and other security technology has been implemented throughout our application system. Information exchanges and transactions, passwords, contact lists (uploading and storing online) and billing related data between you and our application system are protected using various technologies (multiple PIX firewalls, etc.). This ensures a very high degree of security. 
+Privacy, anti-hacking and other security technology has been implemented throughout our application system. Information exchanges and transactions, passwords, contact lists (uploading and storing online) and billing related data between you and our application system are protected using various technologies (multiple PIX firewalls, etc.). This ensures a very high degree of security.
 
-Credit Card Information 
+#### Credit Card Information
 
 Paramount allows you to purchase email marketing services in a variety of ways. When credit card billing is chosen, information is transferred using industry-leading, secure transmission technology including SSL and HTTPS (the transmission standard used for transactions by major financial institutions). The information is then encrypted using Data Encryption and stored securely so that it is ready to handle your transactions.
 
-Governing Law 
+#### Governing Law
 
-This Privacy Policy and our Privacy Notices are governed by the laws of the State of Minnesota, United States of America, without regard to its conflict of law principles. 
+This Privacy Policy and our Privacy Notices are governed by the laws of the State of Virginia, United States of America, without regard to its conflict of law principles.
 
-The Bottom Line
+#### The Bottom Line
 
 Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at [privacy@ParamountCommunication.com](mailto:privacy@ParamountCommunication.com).
