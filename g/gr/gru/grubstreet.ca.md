@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grubstreet.ca privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212185635id_/http%3A//www.grubstreet.ca/articles/index/1101/grub-street-admin-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grubstreet.ca privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611052931id_/http%3A//grubstreet.ca/articles/index/1101/grub-street-admin-privacy) for the most accurate reproduction.*
 
 # Grubstreet.ca | Grub Street Admin
 
