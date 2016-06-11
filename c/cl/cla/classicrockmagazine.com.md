@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the classicrockmagazine.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124183312id_/http%3A//classicrock.teamrock.com/privacy-policy%3Fns_source%3Dglobal%26ns_mchannel%3Ddesktop%26ns_campaign%3Dfooter-tracking%26ns_linkname%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicrockmagazine.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611111343id_/http%3A//teamrock.com/privacy-policy%3Fns_source%3Dglobal%26ns_mchannel%3Ddesktop%26ns_campaign%3Dfooter-tracking%26ns_linkname%3Dprivacy) for the most accurate reproduction.*
 
-# Classic Rock
-
-This privacy policy sets out how we, Team Rock Limited, will process any personal data we collect from you or you provide to us. 
+# Privacy and Cookie Policy - TeamRock
 
 By visiting www.teamrock.com (our site), you are accepting and consenting to the practices described in this privacy policy.
 
