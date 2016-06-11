@@ -1,27 +1,23 @@
-> *The following text is extracted and transformed from the roi.com.au privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609061005id_/http%3A//www.roi.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roi.com.au privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611152112id_/http%3A//www.roi.com.au/roi-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | ROI.COM.AU
 
 We may collect website visitors’ contact information (like their e-mail addresses). Unless you object, this information may be used:
 
-  * to send news, information about our activities and general promotional material which we believe may be useful to you;
-  * to monitor who is accessing the website or using services offered on the website; and
-  * to profile the type of people accessing the website.
-
-
+• to send news, information about our activities and general promotional material which we believe may be useful to you;  
+• to monitor who is accessing the website or using services offered on the website; and  
+• to profile the type of people accessing the website.
 
 If you do not wish to have your personal information used in this manner or for any other specific purpose, you can e-mail us accordingly.
 
 We utilise “cookies” which enable us to monitor traffic patterns and to serve you more efficiently if you revisit the site. A cookie does not identify you personally but it does identify your computer. You can set your browser to notify you when you receive a cookie and this will provide you with an opportunity to either accept or reject it in each instance.
 
-We will not sell or otherwise provide your personal information to a third party, or make any other use of your personal information, for any purpose which is not incidental to your use of this website. For the removal of doubt, personal information will not be used for any purpose which a reasonable person in your position would not expect.<  
+We will not sell or otherwise provide your personal information to a third party, or make any other use of your personal information, for any purpose which is not incidental to your use of this website. For the removal of doubt, personal information will not be used for any purpose which a reasonable person in your position would not expect.  
 If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:
 
-  * we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure;
-  * we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for government or public security in the performance of their functions; or
-  * we are required by law to disclose the information.
-
-
+• we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure;  
+• we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for government or public security in the performance of their functions; or  
+• we are required by law to disclose the information.
 
 We will preserve the content of any e-mail you send us if we believe we have the legal requirement to do so.
 
