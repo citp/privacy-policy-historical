@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teamrock.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207092003id_/http%3A//www.teamrock.com/privacy-policy%3Fns_source%3Dglobal%26ns_mchannel%3Ddesktop%26ns_campaign%3Dfooter-tracking%26ns_linkname%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamrock.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611111343id_/http%3A//teamrock.com/privacy-policy%3Fns_source%3Dglobal%26ns_mchannel%3Ddesktop%26ns_campaign%3Dfooter-tracking%26ns_linkname%3Dprivacy) for the most accurate reproduction.*
 
-# TeamRock
-
-This privacy policy sets out how we, Team Rock Limited, will process any personal data we collect from you or you provide to us. 
+# Privacy and Cookie Policy - TeamRock
 
 By visiting www.teamrock.com (our site), you are accepting and consenting to the practices described in this privacy policy.
 
