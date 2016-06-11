@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the washingtonbanglaradio.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012182634id_/http%3A//www.washingtonbanglaradio.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtonbanglaradio.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611150931id_/http%3A//www.washingtonbanglaradio.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ওয়াশিংটন বাংলা রেডিও Washington Bangla Radio USA
+# Privacy Policy | WBRi | Washington Bangla Radio on internet
+
+Submitted by administrator on Sat, 10/04/2008 - 14:19.
 
 **What information do we collect?**
 
@@ -37,7 +39,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to�keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
@@ -62,7 +64,11 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
- **California Online Privacy Protection Act Compliance**
+**Affiliate Marketing links**
+
+Our website may contain affiliate marketing links, which means we may get paid commission on sales of those products or services we write about. Our editorial content is not influenced by advertisers or affiliate partnerships. This disclosure is provided in accordance with the [Federal Trade Commission’s 16 CFR § 255.5: Guides Concerning the Use of Endorsements and Testimonials in Advertising](http://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf).
+
+**California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
@@ -84,7 +90,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
 
-This policy was last modified on March 23, 2009.
+This policy was last modified on November 15, 2015 21:14 Eastern Standard Time (US).
 
  **Contacting Us**
 
