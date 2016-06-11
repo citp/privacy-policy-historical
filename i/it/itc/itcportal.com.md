@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itcportal.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005034750id_/http%3A//www.itcportal.com/about-itc/policies/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itcportal.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611060228id_/http%3A//www.itcportal.com/about-itc/policies/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,13 +39,13 @@ ITC Limited welcomes you to its Website and looks forward to a meaningful intera
 
 In accordance with the Information Technology Act, 2000 and the Rules framed thereunder, the name and contact details of the Grievance Officer are provided below: 
 
-Mr. K T Prasad 
+Head of Corporate Human Resources
 
-ITC Centre, 4 Russell Street, Kolkata - 700071 
+ITC Limited, 37 JL Nehru Road, Kolkata - 700071
 
-Prasad.kt@itc.in 
+[webmaster@itc.in](mailto:webmaster@itc.in)
 
-+913322889371 
++913322889371
 
 9AM – 5PM (on all working days) 
 
