@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eventbee.com privacy policy that was archived on 2015-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151210051033id_/http%3A//www.eventbee.com/main/privacystatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eventbee.com privacy policy that was archived on 2016-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611214250id_/http%3A//www.eventbee.com/main/privacystatement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -40,7 +40,7 @@ background-color: #F3F6FA;
 	margin-top: -8px
 }
 </style>
-<script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 window.resizeIframe = function() {
 var obj = document.getElementById('popup');
 obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
@@ -72,8 +72,8 @@ obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
 	color:#FF9900 !important;
 }
 </style>
-<script src="//www.eventbee.com/main/js/i18n/en_US/properties.js"></script>
-
+<script src="//www.eventbee.com/main/js/i18n/en-us/properties.js"></script>
+<link type="text/css" rel="stylesheet" href="/main/css/select2.css">
 
 	<div style="background: none repeat scroll 0px 0px rgb(243, 246, 250); min-height: 91px;" class="navbar navbar-default navbar-fixed-top">
 		<div class="container">
@@ -84,16 +84,18 @@ obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
 				<br> 
 				
 				
-				<a style="margin-bottom: -16px; margin-top: -15px;" class="navbar-brand" href="/"><img height="50" alt="Eventbee" src="http://www.eventbee.com/main/images/logo.png"></a>
+				<a style="margin-bottom: -16px; margin-top: -10px;" class="navbar-brand" href="/"><img alt="Eventbee" src="http://www.eventbee.com/main/images/logo.png"></a>
 				
 				
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
-					<li><a href="/main/pricing"> Pricing and features    </a></li>
-					<li><a href="/main/how-it-works"> How it works     </a></li>
+					
+					<li><a href="/main/pricing/en-us"> Pricing and features    </a></li>
+					
+					<li><a href="/main/how-it-works/en-us"> How it works     </a></li>
 					<!--<li><a href="/main/event-creation"> la.faq.link.txt   </a></li>-->
-					<li><a href="/main/faq">  FAQ   </a></li>
+					<li><a href="/main/faq/en-us">  FAQ   </a></li>
 					<li><a id="contact" href="javascript:;">     Contact</a></li>
 				</ul>
 			  <ul class="nav navbar-nav navbar-right">
@@ -119,10 +121,11 @@ obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
 				  				  
 				<li><a href="javascript:;" id="getTickets">   Get my tickets</a></li>
 				
+				
                      
 				
-				<li><a href="/main/user/login?lang=en_US">  Login     </a></li>
-				<li class="nav-btn"><a href="/main/user/signup?lang=en_US"><button class="btn btn-primary">    Sign Up</button></a></li>
+				<li><a href="/main/user/login?lang=en-us">  Login     </a></li>
+				<li class="nav-btn"><a href="/main/user/signup?lang=en-us"><button class="btn btn-primary">    Sign Up</button></a></li>
 				
 				
 
@@ -152,40 +155,41 @@ obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
 	</div>
 </div>
 <script src="/main/bootstrap/js/jquery-1.11.2.min.js"></script>
+	<script src="/main/js/select2.js"></script>
 <script>
-var i18nLangJSON=[{"country":"USA","code":"US","languages":[{"label":"English","code":"en_US"}]},
+/* var i18nLangJSON=[{"country":"USA","code":"US","languages":[{"label":"English","code":"en_US"}]},
                   {"country":"Columbia","code":"CO","languages":[{"label":"Espa�ol","code":"es_CO"},{"label":"Ingles","code":"en_CO"}]}	                 
                   ];
 
-var I18N_ACTUAL_CODE='en_US';
+var I18N_ACTUAL_CODE='en-us';
 var lang=I18N_ACTUAL_CODE.split("_")[0];
-var country=I18N_ACTUAL_CODE.split("_")[1];
+var country=I18N_ACTUAL_CODE.split("_")[1]; */
 	$(function() {			
-		var countryHTML="";
+		/* var countryHTML="";
 		var languagesHTML="";
 		$.each(i18nLangJSON,function(index,value){
 			if(country==value.code)
 			 	 countryHTML+='<li class="active" id="index_'+index+'"><a title="'+value.country+'" href="javascript:;">'+value.country+'</a></li>';			
 			 else
 				 countryHTML+='<li  id="index_'+index+'"><a title="'+value.country+'" href="javascript:;">'+value.country+'</a></li>';
-		});
-		$("#countries").html(countryHTML);
+		}); */
+		//$("#countries").html(countryHTML);
 		
-		$(document).on("click","[id^='index']",function(){
-			countryClick($(this),false);
-		});
-		$.each(i18nLangJSON,function(index,value){
+		//$(document).on("click","[id^='index']",function(){
+			//countryClick($(this),false);
+		//});
+		/* $.each(i18nLangJSON,function(index,value){
 			if(value.code==country)	
 				countryClick($("#index_"+index),true);				
-		});
+		}); */
 		
 		
-		$("#i18nLangToggle").click(function(){
+		/* $("#i18nLangToggle").click(function(){
 			if($("#i18nLang").is(":visible"))
 				$("#i18nLang").hide('slow');
 			else
 				$("#i18nLang").show('slow');
-		});
+		}); */
 		
 		$('#contact').click(function() {
 							$('.modal-title').html(props.la_supp_popup_hdr);
@@ -225,7 +229,7 @@ var country=I18N_ACTUAL_CODE.split("_")[1];
 						});
 	});
 	
-	function countryClick(el,programClick){
+	/* function countryClick(el,programClick){
 		var index=el.attr('id').split("_")[1];	
 		var languages=i18nLangJSON[parseInt(index)]['languages'];
 		if(!programClick){
@@ -242,7 +246,7 @@ var country=I18N_ACTUAL_CODE.split("_")[1];
 					 languagesHTML+='<li style="cursor:pointer"><a title="'+value.label+'" onclick="languageClick(\''+value.code+'\')">'+value.label+'</a></li>';							 
 			});
 		$("#languages").html(languagesHTML);
-	}
+	} */
 	
 	function languageClick(code){		
 		  var path = location.pathname;
@@ -252,7 +256,7 @@ var country=I18N_ACTUAL_CODE.split("_")[1];
 		  }else
 			  path=path+"/"+code;
 		location.href=path;
-	}
+	} 
 	
 </script><!-------------------------End of Header----------------------------->
 </div>
@@ -266,6 +270,8 @@ var country=I18N_ACTUAL_CODE.split("_")[1];
 <div id="maincontent"><!-------------------------Begin of main content----------------------------->
 <div class="container">
 
+
+<link type="text/css" rel="stylesheet" href="/main/css/select2.css">
 <style>
 #maincontent {
 padding: 0px;
@@ -513,7 +519,12 @@ padding: 0px;
    </tbody></table>
        
     </div></div>
-   
+   <script src="/main/js/select2.js"></script>
+	 <script>
+        $(document).ready(function() {
+            $("#states").select2();   
+        });
+    </script>
 <script>
 $(function(){
 $('.emailus').click(function() {
@@ -557,82 +568,167 @@ $('#myModal .modal-body').html('<iframe id="popup" src="" width="100%" style="he
 .top-gap{
 	margin-top:7px;
 }
+.select-active{
+	background:#ddd !important;
+	color:#000 !important;
+}
+.select-active:hover{
+	background:#ddd !important;
+	color:#000 !important;
+}
+#rootDiv a:hover {
+   text-decoration: underline !important;
+}
+
+.footerlinks a:hover {
+   text-decoration: underline !important;
+}
 </style>
 
 
 
-<script src="//www.eventbee.com/main/js/i18n/en_US/footerjson.js?id=1"></script>
+
+<script src="//www.eventbee.com/main/js/i18n/en-us/footerjson.js?id=1"></script>
 
 <script>
+
 function fillHTML(){
 	var html="<br>";
 	for(var i=0;i<i18nFooter.sections.length;i++){
 		var eachSection=i18nFooter.sections[i];
 		html+='<div class="col-md-'+eachSection.grids+'">';
 		
+		
+		
 		for(var j=0;j<eachSection.subsections.length;j++){
 			var eachSubSection=eachSection.subsections[j];
-			html+='<span class="footertabheader">'+ 
-						'<h4>'+
-								'<strong>'+eachSubSection.title+'</strong>'+
-						'</h4>'+
-					'</span>';
-			for(var k=0;k<eachSubSection.sublinks.length;k++){
-				var eachSubLink=eachSubSection.sublinks[k];
-				if(eachSubLink.type=="text"){
+			
+			if(eachSubSection.title=='search'){
+				html+='<span id="dropDown"></span>';
+			}else{
+
+				html+='<span class="footertabheader">'+ 
+							'<h4>'+ 
+									'<strong>'+eachSubSection.title+'</strong>'+
+							
+							'</h4>'+
+						'</span>';
+				for(var k=0;k<eachSubSection.sublinks.length;k++){
+					var eachSubLink=eachSubSection.sublinks[k];
 					
-					 if(eachSubLink.strong)
-	  	                  html+=' <strong>';
-					  if(eachSubLink.i18n_include==false)
-						  html+='<span class="footertab"><a href="'+eachSubLink.href+'"';
-					else	  
-					   	 html+='<span class="footertab"><a href="'+eachSubLink.href+'"';
-					     if(eachSubLink.target)
-		  	                  html+=' target="'+eachSubLink.target+'"';
-				    	   html+='>';
-					   	if(eachSubLink.limg)
-		  	                  html+=eachSubLink.limg;
-					   	html+=eachSubLink.label+'</a></span>';
-					   	
-					    if(eachSubLink.strong)
-		  	                  html+=' </strong>';
-					   	
-					    html+='<br/>';
-		  	                
+					if(eachSubLink.type=="text"){
+						
+						 if(eachSubLink.strong)
+		  	                  html+=' <strong>';
+						  if(eachSubLink.i18n_include==false)
+							  html+='<span class="footertab"><a href="'+eachSubLink.href+'"';
+						else	  
+						   	 html+='<span class="footertab"><a href="'+eachSubLink.href+'/en-us"';
+						     if(eachSubLink.target)
+			  	                  html+=' target="'+eachSubLink.target+'"';
+					    	   html+='>';
+						   	if(eachSubLink.limg)
+			  	                  html+=eachSubLink.limg;
+						   	html+=eachSubLink.label+'</a></span>';
+						   	
+						    if(eachSubLink.strong)
+			  	                  html+=' </strong>';
+						   	
+						    html+='<br/>';
+			  	                
+					}
+				    else if(eachSubLink.type=="img"){
+				    	html+='<a href="'+eachSubLink.href+'"'; 
+						    	if(eachSubLink.target)
+			  	                  html+=' target="'+eachSubLink.target+'"';
+					    	  html+='>'+
+				    				'<img src="'+eachSubLink.src+'"';
+					    					if(eachSubLink.width)
+					    	                  html+=' width="'+eachSubLink.width+'"';
+					    					if(eachSubLink.class_name)
+						    	                  html+=' class="'+eachSubLink.class_name+'"';
+				    	            html+='/>'+
+				    		        '</a> <br/>';
+				    }
 				}
-			    else if(eachSubLink.type=="img"){
-			    	html+='<a href="'+eachSubLink.href+'"'; 
-					    	if(eachSubLink.target)
-		  	                  html+=' target="'+eachSubLink.target+'"';
-				    	  html+='>'+
-			    				'<img src="'+eachSubLink.src+'"';
-				    					if(eachSubLink.width)
-				    	                  html+=' width="'+eachSubLink.width+'"';
-				    					if(eachSubLink.class_name)
-					    	                  html+=' class="'+eachSubLink.class_name+'"';
-			    	            html+='/>'+
-			    		        '</a> <br/>';
-			    }
-			}
-				
-		}	
-		
+					
+			}	
+	
+			}		
 		html+='</div><!--grid div close -->';
 		document.getElementById("rootDiv").innerHTML=html;
 	}
-	
 }
 </script>
 
 <!-- full width container footer -->
 <div class="container" style="background-color: #474747; width: 100%;">
 	<div class="container footer">
-		<div class="row" style="margin: 0 auto; padding-bottom: 10px;">
+		
+		
+			<div class="row" style="margin: 0 auto; padding-bottom: 10px;">
+		 
+		
+		 
+		 
+		
+		 
 			<div class="row" id="rootDiv">
 				
 				
 			</div>
+			
 		</div>
+		 
+		
+			 
+	  <script>
+        $(document).ready(function() {
+            $("#states").select2();   
+        });
+    </script>
+    <style>
+   .select2-container .select2-choice > .select2-chosen { text-align: center;
+    padding-left: 25px;}
+    </style>
+    
+    
+    
+    
+    
+    <style>
+   .select2-chosen{
+   	 background-image: url("//www.eventbee.com/main/images/flags/flag_united_states.png");
+   	 background-repeat:no-repeat;
+   	 #background-size:25px 27px;
+   	 background-position:center left;
+   }
+    </style>
+    
+		<div class="row" style="margin: 0 auto; padding-bottom: 0px;">
+          
+                 
+                   	<div class="col-md-2">&nbsp; </div>
+					<div class="col-md-4"> &nbsp;</div>
+					<div class="col-md-3">&nbsp; </div>
+					<div class="col-md-3">
+					<span style="display:none;">
+						
+						<a style="position:relative;top:-100px;left: 8px;"><select style="margin-bottom: 25px;width:200px;height:36px !important;line-height:35px !important;margin-top:10px !important;padding: 0px !important;" id="states" onchange="languageClick(value)"> 
+						<!-- <option value="en-co" >Colombia - English</option>   -->
+						<option value="es-co">Colombia - Spanish</option>
+						<option value="es-es">Spain - Spanish</option>                
+						<!--  <option value="en-mx" >Mexico - English</option> -->
+						<option value="es-mx">Mexico - Spanish</option>   
+						 <option value="en-us" selected="selected" class="select-active">United States - English</option>  
+						<!--  </optgroup> -->
+						</select> 
+						</a> 
+						
+          		 </span>
+        </div>
+        </div>
+	
 	</div>
 </div>
 <hr style="margin: 0; background-color: #606060; height: 1px; border-top: 1px solid #282828;">
@@ -641,15 +737,15 @@ function fillHTML(){
 		<div class="row" style="margin: 0 auto; padding-top: 15px;">
 			<div class="row">
 				<center>
-					<span style="font-size: 12px; color: #ccc"> Copyright 2003-­2015. Eventbee Inc. All Rights Reserved. </span>
+					<span style="font-size: 12px; color: #ccc"> Copyright 2003-2016. Eventbee Inc. All Rights Reserved. </span>
 				</center>
 				<span class="footerlinks" style="font-size: 0.7em">
 					<center>
-						<a href="/main/privacystatement">Privacy Statement</a> <span style="color: #ccc"> |</span>   <a href="/main/termsofservice">Terms Of Service</a>
+						<a href="/main/privacystatement/en-us">Privacy Statement</a> <span style="color: #ccc"> |</span>   <a href="/main/termsofservice/en-us">Terms Of Service</a>
 					</center>
 				</span>
 				<center>
-					<span style="font-size: 12px; color: #ccc">Trusted by 40,000+ Event Managers all over the world for their Online Registration, Event Ticketing and Event Promotion needs!</span>
+					<span style="font-size: 12px; color: #ccc">Trusted by 50,000+ Event Managers all over the world for their Online Registration, Event Ticketing and Event Promotion needs!</span>
 				</center>
 			</div>
 			<br>
@@ -657,7 +753,19 @@ function fillHTML(){
 	</div>
 </div>
 <script>
+$('#states').click(function(){
+	$('#disled').css('pointer-events','none');
+	});
 fillHTML();
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60215903-1', 'auto');
+  ga('send', 'pageview');
 </script>
 
 
