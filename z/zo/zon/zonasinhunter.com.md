@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zonasinhunter.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909082217id_/http%3A//zonasinhunter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zonasinhunter.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611131207id_/http%3A//zonasinhunter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Zon ASIN Hunter
 
 This privacy policy sets out how Zon ASIN Hunter uses and protects any information that you give Zon ASIN Hunter when you use this website.
 
