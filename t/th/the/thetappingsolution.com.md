@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetappingsolution.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203223359id_/http%3A//www.thetappingsolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetappingsolution.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611235347id_/http%3A//www.thetappingsolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Above all, it’s important that you know that we will always respect your privacy, your email address, and the information you give us. We’re not going to sell it, trade it, or abuse any information you submit to us.  And if you ever want to stop receiving emails from us, we make it as easy as possible to stop receiving our regular communications, no questions asked.
 
-Here are all the details on your privacy though, in case you want the nitty-gritty of it all…  
+Here are all the details on your privacy though, in case you want the nitty-gritty of it all…  🙂
 
 This full Statement of Privacy applies to the TheTappingSolution.com Web site and governs data collection and usage. By using the TheTappingSolution.com website, you consent to the data practices described in this statement.
 
@@ -22,7 +22,7 @@ If you wish to stop receiving emails from us, you may unsubscribe at any time us
 
 ### Will My Information Ever Be Shared?
 
-The simple answer is…absolutely not.  We never rent, share or sell your information with anybody, ever, period!  We deeply value our relationship with you.  Your information is safe with us.  Our goal is to provide you valuable information to dramatically improve your life.  And we definitely don’t think that you getting junk email would help!    That’s why we never share your information and make it easy to unsubscribe.
+The simple answer is…absolutely not.  We never rent, share or sell your information with anybody, ever, period!  We deeply value our relationship with you.  Your information is safe with us.  Our goal is to provide you valuable information to dramatically improve your life.  And we definitely don’t think that you getting junk email would help!  🙂  That’s why we never share your information and make it easy to unsubscribe.
 
 ### Computer Hardware and Software Information
 
@@ -67,3 +67,121 @@ TheTappingSolution.com will occasionally update this Statement of Privacy to ref
 ### Contact Information
 
 TheTappingSolution.com welcomes your comments regarding this Statement of Privacy. If you believe that TheTappingSolution.com has not adhered to this Statement, please contact TheTappingSolution.com ([Click here](http://thetappingsolution.com/contact/)). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+
+## Slide 1
+
+"EFT has vastly improved my quality of life and my work, and I can't think of a better person to bring this profound practice to you than Nick Ortner."
+
+## New York Times  
+best-selling author
+
+"Put away your skepticism, this really works. I have worked with Nick and had great results with tapping in my own life"
+
+## author of Wishes Fulfilled
+
+"I heartily recommend The Tapping Solution! Read this book and start tapping your way to better health and a   
+better life."
+
+## author of Women's Bodies,  
+Women's Wisdom and The  
+Wisdom of Menopause
+
+## Slide 2
+
+"EFT is the most powerful new transformational technology to come along in years..."
+
+## co-author of   
+Chicken Soup for the Soul
+
+"The Tapping Solution takes a ground-breaking look at a technique that has changed my life."
+
+## author of The Art of   
+Extreme Self Care
+
+"Nick Ortner is a master at EFT who offers a practical and easy-to-learn process that will easily guide you toward a life of healing from negative emotions, physical pain, anxiety, and so much more."
+
+## author of The Soulmate Secret
+
+## Slide 3
+
+"I believe Nick Ortner's teachings are easy to use and practical but work like magic. He certainly has taught me to magically release or dissolve problems of all sorts through the process of tapping."
+
+## author of You Can Heal Your Life
+
+"In my darkest year, I discovered tapping, and, miraculously, this unorthodox approach to making sense of my life moved me out of the fog and into the sunshine."
+
+## founder of Joie de Vivre Hotels
+
+"Nothing comes closer to 'magic' than the positive results I have personally witnessed using EFT on thousands of my patients who suffered from physical and emotional pain and illness..."
+
+## founder of Mercola.com
+
+## Slide 4
+
+"The Tapping Solution is extremely thorough in its explanations of how tapping works, the science behind it, and how to apply it to myriad problems..."
+
+## urologic surgeon and mind-body healing expert
+
+"As a practicing psychiatrist with over 25 years of clinical experience, I see EFT as the most promising new treatment I've ever encountered..."
+
+## director, Integrative Medicine Task Force, Spaulding Rehabilitation Hospital
+
+"Wow! The Tapping Solution reveals how to address both the emotional and physical problems that tend to hamper your life."
+
+## author of The Attractor Factor
+
+## Slide 5
+
+"Nick Ortner gives his readers a wealth of information on the history of tapping, the proper way to tap, and personal accounts of the ways tapping has successfully enriched lives."
+
+## author of The Big Leap and co-author of Conscious Loving
+
+"As one of the foremost teachers and leaders in the method of meridian tapping, Nick empowers people worldwide to expand their minds and lives."
+
+## author of The Child Whisperer
+
+"The results for those who use tapping... are nothing short of amazing and always seem to bring perspective, clarity, and calm to whatever the issue is at hand..."
+
+## health author, www.RenegadeHealth.com
+
+## Slide 6
+
+"Not only does Nick Ortner have an enormous amount of integrity as a person, his book is filled with that same integrity with his true desire to make people aware of the healing impact of tapping."
+
+## host of The Aware Show
+
+"Nick Ortner has arguably done more to promote the art and science of EFT tapping than anyone else on the planet - and his new book seals the deal."
+
+##  developer of Paraliminal Technology
+
+"For those seeking a prescription for eliminating limiting, self-sabotaging beliefs that lead to fear, anxiety, and chronic illness, look no further than The Tapping Solution."
+
+## author of Mind Over Medicine
+
+## Slide 7
+
+"This book is a real gift! Nick has made tapping accessible to all, showing us how easy it is to use this tool to let go of patterns that no longer serve us - and experience more freedom and joy."
+
+## author of Unbinding the Heart
+
+"And I am forever grateful to Nick Ortner for introducing me to tapping. This book is a must!"
+
+## CEO/founder of TheDailyLove.com
+
+"Nick Ortner has taken a unique system of transformation and made it available to everyone."
+
+## author, healer, and host of Healing with the Masters
+
+## Slide 8
+
+"With this thoughtful guide through EFT's history and its everyday applications, Nick demonstrates how profound healing is possible for millions of people..."
+
+## author of Attracting Abundance with EFT
+
+"Nick Ortner has opened more than half a million people to the power of tapping on acupuncture points to enhance their happiness and well-being."
+
+## co-authors of The Promise of Energy Psychology
+
+"Nick Ortner is a man on a mission to change the world, person by person, in a direct and very personal way."
+
+## creator of "The 7 Levels of Wealth Manifestation" and CEO of NESC, Inc.
