@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingovtjob.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230111546id_/http%3A//www.ingovtjob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingovtjob.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611212129id_/http%3A//www.ingovtjob.com/privacy-policy) for the most accurate reproduction.*
 
 # latest Privacy Policy govt jobs 2016 upcoming 2015 recruitment notification
 
@@ -32,6 +32,8 @@ This policy was last modified on 15th July 2013.
 
 If there are any questions regarding this privacy Policy you may contact us using the information below.
 
-**[www.ingovtjob.com](http://www.ingovtjob.com/)**
+ **[www.ingovtjob.com](http://www.ingovtjob.com/)**
 
-**Govnokri@gmail.com**
+ **Govnokri@gmail.com**
+
+Important Note: Kindly Visit to official website to get detailed information about this post as above information on this page may not be complete.
