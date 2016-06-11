@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906071014id_/https%3A//scripted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611055304id_/https%3A//scripted.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Scripted
 
@@ -25,6 +25,10 @@ Your personally identifiable information may be used internally within Scripted 
 In addition, Scripted reserves the right to disclose Your personally identifiable information under limited circumstances in the event Scripted believes that the Website is being used to commit unlawful acts; if disclosure of Your personally identifiable information is required to comply with applicable laws or regulations, or with a court or administrative order; or will help to enforce our Terms of Service, to protect Your safety or security) including the safety and security of property that belongs to You) or to protect the safety and security of the Website or third parties.
 
 From time to time, we may purchase a business or sell one or more of our businesses and Your personally identifiable information may be transferred as a part of the purchase or sale. The personally identifiable information transferred as a part of the purchase or sale would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so.
+
+Payment Information
+
+Scripted uses Plaid Technologies, Inc. (“Plaid”) to gather End User’s data from financial institutions. By using our service, you grant Client and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution. You agree to your personal and financial information being transferred, stored, and processed by Plaid in accordance with the [Plaid Privacy Policy](https://plaid.com/legal).
 
 Usage Information
 
@@ -76,8 +80,8 @@ The Website is hosted in the United States and is intended for and directed to U
 
 Effective Date
 
-This Privacy Policy is effective as of August 15, 2012 and will remain in effect unless changed. Scripted may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy on the Website.
+This Privacy Policy is effective as of March 15, 2016 and will remain in effect unless changed. Scripted may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy on the Website.
 
 Contacting the Website
 
-If You have any questions about this Privacy Policy, the practices of this Website, or Your dealings with this Website, please contact: [contact@scripted.com](mailto:contact@scripted.com).
+If You have any questions about this Privacy Policy, the practices of this Website, or Your dealings with this Website, please contact: [support@scripted.com](mailto:support@scripted.com).
