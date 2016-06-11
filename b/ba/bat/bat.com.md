@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bat.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210014205id_/http%3A//www.bat.com/group/sites/UK__9D9KCY.nsf/vwPagesWebLive/DO52GBWX%3Fopendocument%26jumpto%3Dcoupp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bat.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611114247id_/http%3A//www.bat.com/group/sites/UK__9D9KCY.nsf/vwPagesWebLive/DO52GBWX%3Fopendocument%26jumpto%3Dcoupp) for the most accurate reproduction.*
 
 # British American Tobacco - Conditions of use
 
@@ -70,6 +70,8 @@ Any third party, agent or representative of British American Tobacco who imports
 
 'Cookies' are small data files that are sent to your browser from a web server and stored on your device's hard drive.  References in these conditions of use to ‘cookies’ also include other means of automatically accessing or storing information on your device. 
 
+When you accessed the website, you were presented with a message that notified you of the use of cookies on this website. We had to use a cookie to present you with that notice. If you continue to use this website, further cookies will be placed on your device as described in the table below. By continuing to use this website after we present that notice to you, you are agreeing to the use of the cookies described in this Cookie Policy.
+
 We may use web beacons, which are transparent image files on web pages and are used to monitor your journey around British American Tobacco Group websites.
 
 Otherwise, we do not ourselves use cookies on this website. However, some of the tools and content in the ‘Media’ and ‘Investors’ sections of our website are delivered by (and in some cases also hosted by) third party content providers. When you access this content, these third party providers may set cookies on your computer or mobile device. 
@@ -93,6 +95,11 @@ Purpose |  This cookie is used to remember, during a user session only, a user�
 How to disable / enable this cookie |  This cookie is used to remember, during a user session only, a user’s email alert preferences after he/she has registered or logged in to the relevant area of the website to change those preferences.  Disable cookies coming from the ‘hsprod.investis.com’ domain in browser. Please visit [How to disable cookies in your browser ](http://files.investis.com/info/disabling-cookies.html "How to disable cookies in your browser \(opens in new window\)") for further information regarding disabling this cookie.  
 Name |  Expiry  
 hsid |  Session cookie: end of user browser session  
+Cookie / technology |  This website  
+Purpose |  This cookie is used to store if a user has seen the cookie notification message on this website.  
+How to disable / enable this cookie |  Disable cookies coming from the ‘www.bat.com’ domain in browser.  
+Name |  Expiry  
+cookieMessage |  Persistent cookie: 2 years from set/update  
   
 For more information about cookies, including how to set your internet browser to reject cookies, please visit [www.allaboutcookies.org ](http://www.allaboutcookies.org/ "www.allaboutcookies.org \(opens in new window\)").
 
