@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203150821id_/http%3A//www.ymca.net/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611170305id_/http%3A//www.ymca.net/privacy-policy/index.html) for the most accurate reproduction.*
 
 # the Y: Privacy Policy
 
@@ -57,7 +57,7 @@ Guidelines for participants in our social media, blogs and forums are available 
 
 ## Donations
 
-We collect only enough information to process your donation and do not use the information for any other purpose. Your payment information is transmitted to us using a secure internet method that helps ensure the privacy of this information. During the time your payment information resides on our computers, it is in an encrypted format and can only be accessed by authorized personnel with a decryption key.
+We collect only enough information (online and offline) to process your donation and do not use the information for any other purpose. Your online payment information is transmitted to us using a secure internet method that helps ensure the privacy of this information. During the time your payment information resides on our computers, it is in an encrypted format and can only be accessed by authorized personnel with a decryption key.
 
 ## Links to Other Sites
 
