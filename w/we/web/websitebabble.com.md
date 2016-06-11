@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the websitebabble.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213141930id_/http%3A//www.websitebabble.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitebabble.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611223415id_/http%3A//www.websitebabble.com/privacy.php) for the most accurate reproduction.*
 
 # Website Babble Webmaster Forums
+
+**UPDATE: FEB 29, 2016 - Website Babble is not allowing new registrations but will remain open for now. If you want to find out why,[click here](http://www.websitebabble.com/showthread.php?t=37714). If you want to receive updates on what I plan to do with the forum next, [go here](http://blog.2createawebsite.com/forum-update/).**
 
 At WebsiteBabble.com, I recognize that privacy of your personal information is important. Here is information on what types of personal information I receive and collect when you use visit WebsiteBabble.com, and how I safeguard your information.
 
