@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scienceofpain.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209232438id_/http%3A//bayercare.com/privacy_statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceofpain.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611203548id_/http%3A//bayercare.com/privacy_statement.cfm) for the most accurate reproduction.*
 
 # Bayer Consumer Care Products
 
@@ -134,20 +134,17 @@ In light of the importance of protecting children's privacy, we do not collect, 
 
 If you have any problems, questions or ideas, please contact one of the following persons.
 
-Data Protection Officer of Bayer AG:  
+**Head of Data Privacy**  
 
 
-Dr. Rainer Schwarz  
-Building K56  
-51368 Leverkusen, Germany   
-Phone: +49 (0) 214 30 20522  
-Fax: +49 (0) 214 30 20346  
-[E-mail](https://secure.bayer.com/bayer-group/contact.aspx?lang=en)
+Eva Gardyan-Eisenlohr  
+Phone: +49 (0) 30 468 16924  
+[E-Mail](https://secure.bayer.com/bayer-group/data-privacy.aspx?lang=en)
 
 Bayer Business & Technology Services LLC  
 U.S. Data Privacy Officer  
 100 Bayer Road  
 Pittsburgh, PA 15205  
-[E-mail](https://web.archive.org/web/20151209232438id_/http%3A//bayercare.com/contactdataprotectionoffice.cfm)
+[E-Mail](https://web.archive.org/web/20160611203548id_/http%3A//bayercare.com/contactdataprotectionoffice.cfm)
 
 The constant development of the internet requires occasional adjustments to our privacy statement. We retain the right to make changes when necessary. 
