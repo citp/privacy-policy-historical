@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jantakareporter.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110131205id_/http%3A//www.jantakareporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jantakareporter.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611041216id_/http%3A//www.jantakareporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Janta Ka Reporter
 
@@ -7,6 +7,17 @@
 Your privacy is of utmost importance to us here at Janta Ka Reporter . Rest assured that any information you provide will only be used in accordance with this privacy statement. We only share your information with the trusted companies and our advertisers.
 
 This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used. This policy has last updated in May 2015.
+
+**Twitter**
+
+**Retweets doesn’t mean  endorsements: **Retweet doesn’t mean any endorsement. Janta Ka Reporter official twitter account can retweet on the following terms
+
+  * Its interesting tweet for viewers
+  * Some interesting fact relating to our country
+  * Endorsement by anyone
+  * The tweet has mentioned @JantaKaReporter or/and used jantakareporter.com url in between. It’s strictly not a type of endorsement. We may not agree with the comment written.
+
+
 
 #### **Collection and Use of Information**
 
