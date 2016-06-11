@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatpulse.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206214016id_/https%3A//whatpulse.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatpulse.org privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611105240id_/https%3A//whatpulse.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WhatPulse
 
@@ -46,3 +46,6 @@ This privacy policy is effective as of 22 December, 2012.
 _In summary,_
 
 Effective as of December 10, 2014.
+
+  
+
