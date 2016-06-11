@@ -1,626 +1,1162 @@
-<!--The following is the downloaded HTML source of the betterdoctor.com privacy policy that was archived on 2015-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907092106id_/https%3A//betterdoctor.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the betterdoctor.com privacy policy that was archived on 2016-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611224045id_/http%3A//betterdoctor.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js not-ie"><!--<![endif]--><head>
-<!--[if lte IE 7]> <script> window.location = "/error/ieupgraderequired.html"; </script> <![endif]-->
-<meta charset="utf-8">
-<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
-<script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/54640/bYA.js"></script><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/53ac962fbe7e7e72fb00004c.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"91a3c614e6","applicationID":"295426","transactionName":"J1pZRkBeD1xQFB5bCQpGQl9XQ0xAVAFUS0kUR15EU1Ia","queueTime":0,"applicationTime":25,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQ8BWFVACgoFUFNU"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-<link rel="stylesheet" media="screen" href="https://asset2.betterdoctor.com/assets/consumer-12849edec3d8c14779d53b880ea70651.css">
-<!--[if lt IE 9]>
-<link href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-old-ie-min.css" rel="stylesheet">
-<script>
-  (function(l,p){p=l.pathname||'';l.hash=p[0]==='/'?p.substr(1):p})(window.location);
-</script>
-<script src="https://asset2.betterdoctor.com/assets/consumer/lt_ie9-08bbd18af47a90ddcee0f6a302112111.js"></script>
-<![endif]-->
-<!--[if (gt IE 8)|!(IE)]><!-->
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="https://asset1.betterdoctor.com/javascripts/jquery-2.1.4.js"><\/script>')</script><script src="https://asset1.betterdoctor.com/javascripts/jquery-2.1.4.js"></script>
-<!--<![endif]-->
-
-
-<!--[if lte IE 9]>
-  <script src="https://asset2.betterdoctor.com/assets/jQuery.XDomainRequest-a99fd987b12fdeff2a1d60170bf79e80.js"></script>
-<![endif]-->
-
-
-<script>
-window.optimizely = [];
-</script>
-<title>Privacy Policy | BetterDoctor</title>
-<meta name="description" content="Find the best Doctor, Dentist or Optometrist based on specialty, insurance and location. Available nationwide in every city. Easy, fast and free!">
-<script src="//cdn.optimizely.com/js/466640237.js"></script>
-<script>
-(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
-//mixpanel.init("ecf16df3833abbc179eb0485bc55327d",{debug:true});
-mixpanel.init("ecf16df3833abbc179eb0485bc55327d");
-
-</script>
-<meta property="og:locale" content="en_US"><meta property="og:site_name" content="BetterDoctor"><meta property="og:title" content="BetterDoctor"><meta property="og:type" content="website"><meta property="og:url" content="https://betterdoctor.com"><meta property="og:image" content="https://betterdoctor.com/assets/betterdoctor_fb_og_image.png"><meta property="og:description" content="Find The Right Doctor For You">
-<link href="https://plus.google.com/+Betterdoctor" rel="publisher">
-<meta content="139413569468176" property="fb:app_id">
-<meta content="c6cdb94156f27781d1e3a23b337a2de1" name="p:domain_verify">
-<meta content="244688904" property="twitter:account_id">
-<meta content="254069485980-cu2voajd6v7r762q2fl8aj4pgqg76p20.apps.googleusercontent.com" name="google-signin-clientid">
-<meta content="profile email" name="google-signin-scope">
-<meta content="http://betterdoctor.com" name="google-signin-cookiepolicy">
-<meta content="True" name="HandheldFriendly">
-<meta content="width=device-width" name="viewport">
-<meta content="on" http-equiv="cleartype">
-<meta content="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImlzcyI6ImM1MzNjYmQ1LWQ1YjgtNDhiOC1hNzBkLTBiNzRiN2EwMmIzZiJ9.eyJpc3MiOiJjNTMzY2JkNS1kNWI4LTQ4YjgtYTcwZC0wYjc0YjdhMDJiM2YiLCJuYmYiOjE0NDE2MTc2NjYsImlhdCI6MTQ0MTYxNzY2NiwiZXhwIjoxNDQxNjE4MjY2LCJzZXNzaW9uX2lkIjoiZjI3NGZjMmFlODMwNDNhMTZmMWUwNmU3ZTUxZmVkMTUiLCJzZXNzaW9uX3VhIjoiTW96aWxsYS81LjAgKGNvbXBhdGlibGU7IGFyY2hpdmUub3JnX2JvdCAraHR0cDovL3d3dy5hcmNoaXZlLm9yZy9kZXRhaWxzL2FyY2hpdmUub3JnX2JvdCkifQ.WKSqN2bulwweDpbm6RzkzMeBes0QXiWCcukN3CcBygo" id="jwtToken">
-<meta content="false" id="crawlCheck">
-<meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="DSyGDZYDnreSGMs95hSi5Bgg7EQSASrZ1fjAXH/NXNoMdph1cvSwWEnAhku85nDYd5tffso3ioj+6ICxFHFDKA==">
-</head>
-<body class="variation--doctor">
-<div id="fb-root"></div>
-
-<section class="page">
-<div class="notification-container header-notification-container global-header-notification-container"></div>
-<header class="header">
-<div chiro="view:Header" class="header-container">
-<div class="brand">
-<a class="external bd-logo" href="/"></a>
-</div>
-<div class="search-form">
-<form chiro="component:NameSearchAutocomplete" class="pure-form">
-<div class="hidden submit-search-btn" type="submit">
-<i class="icon icon-search grey"></i>
-</div>
-<select class="form-element search-field" placeholder="Search Doctor by Name" style="visibility:hidden" type="text"></select>
-</form>
-</div>
-<div class="navigation-right">
-<div class="navigation-item">
-<a class="link better-health external" href="https://betterdoctor.com/health" target="_blank">Blog</a>
-</div>
-<div class="navigation-item for-doctors">
-<a class="external link" href="https://doctor.betterdoctor.com" target="_blank">For Doctors</a>
-</div>
-<div chiro="component:Authentication" class="auth-container">
-<div class="navigation-item">
-<a class="link login" href="">Log In</a>
-</div>
-<div class="navigation-item">
-<a class="pure-button callout-button signup" href="">Sign Up</a>
-</div>
-</div>
-<div chiro="component:MyDoctorsStatus" class="navigation-item my-doctors-status" title="My Doctors">
-<a class="link my-doctors-link" href="">
-<i class="icon icon-heart"></i>
-<span class="favorite-count">0</span>
-</a>
-</div>
-</div>
-<div class="clear"></div>
-</div>
-
-</header>
-<div chiro="view:Filters" class="filters">
-<div class="filters-container pure-menu pure-menu-open pure-menu-horizontal">
-<a class="find pure-menu-heading">
-Find
-</a><ul class="filters-nav"><li chiro="component:SpecialtyDropDownButton" class="filters-button filter-dropdown-button specialty">
-<span class="button-content chosen">
-<span class="text-group">
-<i class="icon icon-arrow-1 arrow-down white"></i>
-<span class="text item-ellipsis">
-Select Specialty
-</span>
-</span>
-<span class="interactive hidden">
-<i class="icon icon-arrow-1 arrow-down white"></i>
-<span class="smalltext">Select Specialty</span>
-<div class="selectize-control specialty-select single">
-<div class="selectize-input items not-full has-options">
-<input autocomplete="off" class="text" style="opacity: 1; position: relative; left: 0px;" type="text">
-</div>
-</div>
-</span>
-</span>
-<ul chiro="view:SpecialtyDropDownView" class="submenu specialty-dropdown">
-<li class="pure-menu-heading popular-specialties-heading">Popular Specialties</li>
-<li class="pure-menu-heading all-specialties-heading">All Specialties</li>
-</ul>
-</li><li chiro="component:LocationDropDownButton" class="filters-button filter-dropdown-button location">
-<span class="button-content chosen">
-<span class="text-group">
-<i class="icon icon-arrow-1 arrow-down"></i>
-<span class="text item-ellipsis">
-San Francisco, CA
-</span>
-</span>
-<span class="interactive hidden">
-<i class="icon icon-arrow-1 arrow-down white"></i>
-<span class="smalltext">Select or Enter Location</span>
-<select class="location-select"></select>
-</span>
-</span>
-</li><li chiro="component:InsuranceDropDownButton" class="filters-button filter-dropdown-button insurance pure-menu-selected">
-<span class="button-content">
-<span class="text-group">
-<i class="icon icon-arrow-1 arrow-down"></i>
-<span class="smalltext"></span>
-<span class="text item-ellipsis">
-<span class="select-insurance-highlight">Select Insurance</span>
-</span>
-</span>
-<span class="interactive hidden">
-<i class="icon icon-arrow-1 arrow-down white"></i>
-<span class="smalltext">Select Insurance</span>
-<span class="text item-ellipsis">No Insurance Selected</span>
-</span>
-</span>
-<div chiro="view:InsuranceDropDownView" class="submenu insurance-dropdown">
-<div chiro="component:InsuranceSelector" class="insurance-selector"></div>
-</div>
-</li><li class="filter-search-button">
-<button class="pure-button search-btn action-button">
-Search
-</button>
-</li>
-</ul></div>
-</div>
-
-<main chiro="app:deck" class="container">
-<div chiro="component:HeaderNotificationContainer" class="header-notification-container"></div>
-<section class="results-list-wide results-list">
-<div chiro="component:ResultListHeader" class="results-header">
-</div>
-<div chiro="component:ResultList" class="results-list-wrapper">
-
-</div>
-</section>
-<div chiro="card:Privacy" class="card" id="privacy-card">
-<div class="privacy-page static-card">
-<div class="hero-container">
-<!--[if lte IE 8]>
-<img class="fullbackground" src="https://asset2.betterdoctor.com/assets/consumer/static-pages/privacy-hero-2b275125d2dec6672ca18838655c9b6d.jpg">
-<![endif]-->
-</div>
-<div class="main-section">
-<div class="pure-g">
-<div class="pure-u-sm-1-4"></div>
-<div class="pure-u-1 pure-u-sm-1-2">
-<section>
-<h2>Privacy Policy</h2>
-<p>This Privacy Policy describes our policies on the collection, use, and disclosure of your information in connection with your use of BetterDoctor’s websites and mobile applications (the "Services"). The terms "we", "us", and "BetterDoctor" refer to BetterDoctor Inc., a Delaware corporation. Capitalized terms used but not defined in this Privacy Policy shall have the meanings ascribed to them in the Terms of Use. When you use the Services, you consent to our collection, use, and disclosure of your information as described in this Privacy Policy.</p>
-</section>
-<section>
-<h3>1. Information Collection</h3>
-<p>We collect information from you in several different ways while providing the Services.</p>
-<p>We may collect following information:</p>
-<h4>1.1 Personal Information</h4>
-<p>In order for you to access certain features of the Services, we may require you to provide us with certain information that personally identifies you (“Personal Information”). Personal Information includes the following categories of information: (1) Contact Data (such as your e-mail address, phone number and BetterDoctor password); (2) Demographic Data (such as your gender, your date of birth and your zip code); (3) Insurance Data (such as your insurance carrier and insurance plan); (4) Medical Data (such as your previous health care providers visited, your reason for visit and your date of visit); and (5) other information you choose to share with us. If you communicate with us by, for example, e-mail or letter, any information provided in such communication may be collected as Personal Information.</p>
-<p>We will never ask you to provide, request that you do not provide, and disclaim all liability if you chose to provide any information that relates to the past, present, or future physical or mental health or condition of an individual; the provision of health care to an individual; or the past, present, or future payment for the provision of health care to an individual (collectively, “Individually Identifiable Health Information”).  Providing any such information may be grounds for termination from use of the Services.</p>
-<h4>1.2 Location</h4>
-<p>We may collect and store information about your location if you enable your computer or mobile device to send us location information. You may be able to change the settings on your computer or mobile device to prevent it from providing us with such information.</p>
-<h4>1.3 Activity</h4>
-<p>We may collect and store information related to you and your use of the Services, such as your browser type, IP address, unique device identifier, the phone numbers and names of businesses that you call through use of the Services, requested URL, referring URL, browser language, the pages you view, and the date and time of your visit.</p>
-<p>We may also use third party analytics services in connection with the Services. For example, we may use services to record mouse clicks, mouse movements, scrolling activity, and/or clicks to call or contact health care providers through the Services, as well as any text that you type into the Services (collectively, “Traffic Data”). These analytics services will not collect Personal Information that you do not voluntarily enter. These services will not track your browsing habits across websites which do not use their services. We are using the information collected from these services to find usability problems to make the Services easier to use. The recordings will never identify you or your account. We only record anonymous user information, and we stop such recording before you sign-in or create an account.  Should we decide to use any third party analytics services that track or collect Personal Information, we will provide you with advance notice.</p>
-<h4>1.4 Cookies and Similar Mechanisms</h4>
-<p>“Cookies” are small computer files that are transferred to your computer's hard drive that contain information such as user ID, user preferences, lists of pages visited and activities conducted while browsing the Services. At your option, expense and responsibility, you may block cookies or delete cookies from your hard drive. However, by disabling cookies, you may not have access to the entire set of features of the Services.</p>
-<p>We may use cookies, web beacons, local shared objects (sometimes called flash cookies), and similar technology in connection with your use of the Services. Cookies may have unique identifiers, and reside, among other places, on your computer, in emails we send to you, and on our web pages. Cookies may transmit information about you and your use of the Services, such as your browser type, search preferences, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use.</p>
-<h4>1.5 Information Provided on Behalf of Children</h4>
-<p>BetterDoctor does not collect information from children under the age of 13 in accordance with the Children’s Online Privacy Protection Act (“COPPA”). If you are a parent or legal guardian of a minor child, you may, in compliance with the Terms of Use, use the Services on behalf of such minor child. Any information that you provide while using the Services on behalf of your minor child will be treated as Personal Information as otherwise provided herein. If you are under the age of 18, you should not, and have no permission to, use the Services.</p>
-</section>
-<section>
-<h3>2. Information You Submit</h3>
-<p>We may store the information you submit to or through use of the Services. We use the information to fulfill your requests, provide Service functionality, improve Service quality, personalize your experience, display relevant advertising, provide customer support, send messages to you, back up our systems, allow for disaster recovery, and comply with legal obligations. Among the information you submit to or through the Services, please note:</p>
-<h4>2.1 Account registration</h4>
-<p>
-You must provide a valid email address in order to sign up for an account through the Services. In addition, you may provide us with your (1) full name, (2) phone number, (3) address, and (4) insurance data (such as insurance carrier and insurance plan). When you sign up for a BetterDoctor account, we opt you in to receive emails from BetterDoctor by default. You can manage your email preferences and modify some of the information associated with your account here (Link to my profile page). Note that you cannot opt out of receiving required administrative or legal notices. If you feel that an unauthorized account has been created depicting you or your likeness, you can request its removal by sending email to
-<a class="email-shim" data-prefix="privacy"></a>.
-</p>
-<p>You can also sign up by logging into online accounts you may have with third party service providers, including social networking service providers ("SNS") (e.g. Facebook); each such account, a "Third Party Account", via our Services as described below. As part of the functionality of the Services, you may link your BetterDoctor Account with Third Party Accounts, by  allowing BetterDoctor to access your Third Party Account, to the extent permitted under the applicable terms and conditions that govern your use of each Third Party Account. If you chose to login through a Third Party Account, the login process will be governed by the terms and conditions imposed by the applicable SNS.</p>
-<p>You represent that you are entitled to grant BetterDoctor access to your Third Party Account, without breach by you of any of the terms and conditions that govern your use of the applicable Third Party Account and without obligating BetterDoctor to pay any fees or making BetterDoctor subject to any usage limitations imposed by the applicable SNS. If you decide to register by logging into a Third Party Account via our Services, we may obtain the personal information you have provided to the applicable SNS. Depending on the Third Party Accounts you choose and subject to the privacy settings that you have set in such Third Party Accounts, you understand that by granting us access to the Third Party Accounts, we may also have access to the information in your Third Party Accounts.  To the extent permitted by your Third Party Account settings, BetterDoctor may pre-populate your BetterDoctor registration with Content from your Third Party Account. For example, if you choose to login to BetterDoctor through Facebook, the login authentication occurs between you and Facebook; BetterDoctor may obtain any information that you have authorized Facebook to provide. Please review SNS terms before using these shared login services.  Such SNS have different terms of use and different protections for your content and personal information.</p>
-<h4>2.2 Public Content</h4>
-<p>Any information that you may reveal in a rating or review posting or other online discussion or forum is intentionally open to the public and is not in any way private. You should think carefully before disclosing any Personal Information in any public forum, and do not have permission to disclose any Individually Identifiable Health Information in any public forum. What you have written may be seen and/or collected by third parties and may be used by others in ways we are unable to control or predict.</p>
-<h4>2.3 Contacts</h4>
-<p>You can invite friends, colleagues, health care providers, and others whom you know (collectively, “Associates”) to join the Services by providing their contact information, or by allowing us to use your address book from your computer, mobile device, or other websites or services. We may also use publicly available information to suggest Associates whom you may want to invite to join the Services. If you invite an Associate to join and connect with you through the Services, we may use and store your Associate’s contact information long enough to process your requests. The names and email addresses of Associates whom you invite will be used to send your invitations and reminders as well as to allow BetterDoctor to help expand your network. We may include names and pictures of other people your Associate might know on BetterDoctor.  The invitation will also give your Associate the opportunity to opt out of receiving other invitations to join BetterDoctor.</p>
-<p>When you send an invitation to connect to an Associate or another User, that Associate or User will have access to your email address because it is displayed in the invitation. The invitation may also contain other Services Content about you, such as your name and photograph, to help the User or Associate identify who is sending the invitation. Your BetterDoctor connections will also have access to your email address. You may not invite anyone you do not know and trust to connect with you. We may offer tools to help you upload your Associates' contact information so that you can find your Associates on BetterDoctor, and invite Associates who do not use BetterDoctor to join.</p>
-<h4>2.4 Messaging</h4>
-<p>If we incorporate, messaging into the Services, and you exchange messages with others through the Services, we may store these messages in order to deliver them and allow you to manage them. Many communications you initiate through BetterDoctor (e.g., an invitation sent to a non-User) will list your primary email address and name in the header of the message. Messages you initiate may also provide aggregate information about your network (for instance how many people are in your network), but will not list the people to whom you’re directly connected. If you send information from the Services to your phone via SMS text message, we may log your phone number, phone carrier, and the date and time that the message was processed. We will not charge you for sending information to your phone, but carriers may charge recipients for texts that they receive.</p>
-</section>
-<section>
-<h3>3. Third Parties</h3>
-<p>We do not rent, share, sell or trade Personal Information with third parties for their direct marketing purposes. That said, we work with third parties and they may have access to some of your information:</p>
-<h4>3.1 Sharing of information</h4>
-<p>We share certain categories of information we collect from you in the ways described in this Privacy Policy. We may share Demographic Data with advertisers and other third parties only on an aggregate (i.e., non-personally-identifiable) basis. We may also share your Contact Data, Demographic Data, Insurance Data and Medical Data with health care providers you choose to schedule through our Services. We also share Personal Information and Traffic Data with our business partners who assist us by performing core services (such as hosting, billing, fulfillment, or data storage and security) related to our operation of the Services and/or by making certain interactive tools available to our users. Those business partners shall be bound to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will only use your Contact Data and other Personal Information to carry out their specific business obligations to BetterDoctor and to provide your requested medical care and services.</p>
-<h4>3.2 Service Providers</h4>
-<p>We outsource some of our technical and customer support, tracking and reporting functions, quality assurance testing, payment processing functions, and other services to third parties. We may share information from or about you with them so that they can perform their services.</p>
-<h4>3.3 Business Transfers</h4>
-<p>We may share information from or about you with subsidiaries, joint venturers, or other companies under common control, in which case we will require them to honor this Privacy Policy. If another company acquires BetterDoctor or all or substantially all of our assets, that company will possess the same information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy, unless we notify you otherwise.</p>
-<h4>3.4 Links</h4>
-<p>The Services may contain links to unaffiliated third party websites. Except as set forth herein, we do not share your Personal Information with them, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.</p>
-<h4>3.5 Health Care Providers</h4>
-<p>Health care providers, their employees, and their agents should be particularly aware of their obligations of patient confidentiality, including without limitation their obligations under the Health Insurance Portability and Accountability Act (“HIPAA”), both in communicating with BetterDoctor and in responding to a review of their services posted through our Services. BetterDoctor does not have, and will not accept, any obligations of confidentiality with respect to any communications other than those expressly stated in this Privacy Policy and BetterDoctor’s Terms of Use.</p>
-<h4>3.6 Third Party Services</h4>
-<p>You can connect your BetterDoctor account to Third Party Accounts, in which case we may collect and store information identifying your account with the Third Party Account. We use the information to help you connect and share public content with your friends and followers. We may use the information to pre-populate your account registration information or identify others you may know or wish to invite to join the Services.</p>
-</section>
-<section>
-<h3>4. Use and Disclosure of Your Information</h3>
-<h4>4.1 Customization and Contact</h4>
-<p>One goal in collecting Personal Information from you is to provide an efficient, meaningful, and customized experience.  For example, we can use your Personal Information to: (a) help make the Services easier for you to use by not having to enter information more than once; (b) help you quickly find information and services; (c) help us create content that is most relevant to you; and (d) alert you to new information and Services that we offer.</p>
-<p>We may use your Contact Data to send you information about BetterDoctor or our products or Services, to contact you when necessary, including to remind you of upcoming or follow-up appointments, and in conjunction with your use of certain interactive tools. We may use your Demographic Data, Traffic Data, your Insurance Data or your Medical Data to customize and tailor your experience on the Services, in emails and in other communications, displaying content that we think you might be interested in and according to your preferences. You agree that BetterDoctor may use Personal Information to allow your health care providers to make appointments with other doctors on your behalf through the Services  The sole purpose will be the booking of appointments, and health care providers will not transmit any information regarding the provision of health care.</p>
-<h4>4.2 Change in Control</h4>
-<p>We may also disclose your Personal Information and other information you provide to a third party as part of a sale of the assets of BetterDoctor, a subsidiary or division, or as the result of a change in control of BetterDoctor. Any third party to which BetterDoctor transfers or sells BetterDoctor’s assets will have the right to continue to use the Personal Information and other information that you provide to us, but they will still have to honor the commitments we have made in this Privacy Policy.</p>
-</section>
-<section>
-<h3>5. Changing and Deleting Your Information</h3>
-<p>As a registered User of the Services, you can modify some of the Personal Information you have included in your profile or change your username by logging in and accessing your account. Upon your request, BetterDoctor will use commercially reasonable efforts to delete your account and the Personal Information in your profile; however, it may be impossible to remove your account without some residual information being retained by BetterDoctor. When you delete your account, you understand that removed Content may persist in backup copies for a reasonable period of time (but will not be available to others).  Furthermore, to the extent Content about you has been shared with others, or other Users have independently uploaded and/or retained Content about you, such Content may also remain on the Services.</p>
-<p>For example, while we will remove your account profile and the ability for others to contact you through the Services or access your Personal Information, some Content about you may be retained in the individual pages for health care providers you contacted through the Services or outside the Services.  Such Content may be in aggregate form, such as data pertaining to the number of Users who accessed the respective health care provider’s profile, or in individual form, to the extent that the health care provider has entered or retained Content about individual patients.  The respective health care provider is the only User who would have access to such retained aggregate or individualized Content.</p>
-<p>
-Registered users who wish to close their account should request removal by sending email to
-<a class="email-shim" data-prefix="privacy"></a>.
-</p>
-</section>
-<section>
-<h3>6. Security</h3>
-<p>The security of your Personal Information is important to us. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. For example, when you enter sensitive information through our Services, we encrypt that information using secure socket layer technology (SSL).</p>
-<p>Although we make good faith efforts to store Personal Information in a secure operating environment that is not open to the public, you should understand that there is no such thing as complete security, and we do not guarantee that there will be no unintended disclosures of your Personal Information. If we become aware that your Personal Information has been disclosed in a manner not in accordance with this Privacy Policy, we will use reasonable efforts to notify you of the nature and extent of the disclosure (to the extent we know that information) as soon as reasonably possible and as permitted by law.</p>
-</section>
-<section>
-<h3>7. Updates and Changes to Privacy Policy</h3>
-<p>We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our use of your Personal Information and other information and will be located at http://betterdoctor.com/privacy. If we make material changes to this Privacy Policy, we will notify you by email or by posting a notice on or through the Services. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.</p>
-</section>
-<section>
-<h3>8. Contact</h3>
-<p>
-If you have any comments, concerns or questions about this Privacy Policy, please contact us at
-<a class="email-shim" data-prefix="privacy"></a>.
-</p>
-<p>Last Updated on February 21, 2012</p>
-<p>Copyright 2012 BetterDoctor, Inc. All rights reserved.</p>
-</section>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-
-<div chiro="component:Breadcrumbs" class="breadcrumbs-container">
-
-</div>
-</main>
-</section>
-<div class="container-mask loader-container">
-<div class="loading-spinner"></div>
-</div>
-<div class="container-mask body-container-mask">
-<div class="loading-spinner"></div>
-</div>
-<footer class="footer">
-<i class="icon-close"></i>
-<div class="pure-g footer-inner">
-<div class="pure-u-2-5 footer-about">
-<div class="pure-g">
-<div class="pure-u-1-2">
-<ul>
-<li class="section-title">About</li>
-<li>
-<a href="/about">About Us</a>
-</li>
-<li>
-<a href="/mobile">Mobile App</a>
-</li>
-<li>
-<a class="external" href="http://insuranceradar.betterdoctor.com/" target="_blank">Insurance Radar</a>
-</li>
-<li>
-<a class="external" href="http://pricemaps.betterdoctor.com/" target="_blank">BetterDoctor Pricemaps</a>
-</li>
-<li>
-<a href="/terms">Terms of Use</a>
-</li>
-<li>
-<a href="/privacy">Privacy</a>
-</li>
-<li>
-<a href="/contact">Contact Us</a>
-</li>
-<li>
-<a href="/careers">Careers</a>
-</li>
-</ul>
-</div>
-<div class="pure-u-1-2">
-<ul class="team">
-<li class="section-title">Find Us</li>
-<li class="blog">
-<i class="icon-blog"></i>
-<a class="external" href="https://betterdoctor.com/health" target="_blank">Blog</a>
-</li>
-<li class="facebook">
-<i class="icon-facebook"></i>
-<a class="external" href="https://www.facebook.com/BetterDoctor" target="_blank">Facebook</a>
-</li>
-<li class="twitter">
-<i class="icon-twitter"></i>
-<a class="external" href="https://twitter.com/betterdoctor" target="_blank">Twitter</a>
-</li>
-<li class="google-plus">
-<i class="icon-googleplus"></i>
-<a class="external" href="https://plus.google.com/+Betterdoctor" target="_blank">Google Plus</a>
-</li>
-<li class="pinterest">
-<i class="icon-pinterest"></i>
-<a class="external" href="https://pinterest.com/betterdoctor" target="_blank">Pinterest</a>
-</li>
-<li class="instagram">
-<i class="icon-instagram"></i>
-<a class="external" href="https://instagram.com/betterdoctor" target="_blank">Instagram</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="pure-u-3-5">
-<div class="pure-g">
-<div class="pure-u-1-3">
-<ul>
-<li class="section-title">Popular Specialties</li>
-<li>
-<a class="external" href="/primary-care-doctors">Primary Care Doctors</a>
-</li>
-<li>
-<a class="external" href="/obgyns">OBGYN</a>
-</li>
-<li>
-<a class="external" href="/pediatricians">Pediatrician</a>
-</li>
-<li>
-<a class="external" href="/dentists">Dentist</a>
-</li>
-<li>
-<a class="external" href="/eye-doctors">Eye Doctor</a>
-</li>
-<li>
-<a class="external" href="/specialties">All Specialties</a>
-</li>
-</ul>
-</div>
-<div class="pure-u-1-4">
-<ul>
-<li class="section-title">Popular Cities</li>
-<li>
-<a class="external" href="/primary-care-doctors/tx/austin">Austin, TX</a>
-</li>
-<li>
-<a class="external" href="/primary-care-doctors/az/phoenix">Phoenix, AZ</a>
-</li>
-<li>
-<a class="external" href="/primary-care-doctors/wa/seattle">Seattle, WA</a>
-</li>
-<li>
-<a class="external" href="/primary-care-doctors/ma/boston">Boston, MA</a>
-</li>
-<li>
-<a class="external" href="/primary-care-doctors/co/denver">Denver, CO</a>
-</li>
-</ul>
-</div>
-<div class="pure-u-2-5">
-<ul>
-<li class="section-title">Popular Searches</li>
-<li>
-<a class="external" href="/optometrists/pa/philadelphia">Optometrists in Philadelphia, PA</a>
-</li>
-<li>
-<a class="external" href="/dermatologists/tx/plano">Dermatologists in Plano, TX</a>
-</li>
-<li>
-<a class="external" href="/neurologists/nc/charlotte">Neurologists in Charlotte, NC</a>
-</li>
-<li>
-<a class="external" href="/pulmonologists/tx/san-antonio">Pulmonologists in San Antonio, TX</a>
-</li>
-<li>
-<a class="external" href="/cardiologists/in/indianapolis">Cardiologists in Indianapolis, IN</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="footer-bottom pure-u-1">
-<a class="footer-item external" href="https://doctor.betterdoctor.com" target="_blank">For Doctors</a>
-<a class="footer-item external" href="https://developer.betterdoctor.com" target="_blank">For Developers</a>
-<a class="footer-item external" href="/popular-doctors">Popular Doctors</a>
-<a class="footer-item" href="/procedures">Procedures</a>
-<span class="alphabet-listing">
-<span class="title">Find a Doctor by Name</span>
-<ul>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/a">
-A
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/b">
-B
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/c">
-C
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/d">
-D
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/e">
-E
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/f">
-F
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/g">
-G
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/h">
-H
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/i">
-I
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/j">
-J
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/k">
-K
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/l">
-L
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/m">
-M
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/n">
-N
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/o">
-O
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/p">
-P
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/q">
-Q
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/r">
-R
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/s">
-S
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/t">
-T
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/u">
-U
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/v">
-V
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/w">
-W
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/x">
-X
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/y">
-Y
-</a>
-</li>
-<li>
-<a class="external" href="https://betterdoctor.com/directory/z">
-Z
-</a>
-</li>
-</ul>
-</span>
-</div>
-<div class="footer-copyright pure-u-1">
-© 2015 BetterDoctor, Inc – Find the Right Doctor for You
-</div>
-</div>
-</footer>
-
-<script src="https://asset1.betterdoctor.com/assets/consumer/consumer-b93e5ea9edae9cca2838952288142005.js"></script>
-<!--[if lte IE 9]>
-    <script src="https://asset1.betterdoctor.com/assets/jquery.placeholder-f54ff50c08325a039cdf4f25748d9932.js"></script>
-<![endif]-->
-
-
-<script charset="utf-8">
-if (window.bd && bd.app && bd.app.getCollection) {
-bd.app.getCollection('specialtyGroups').bootstrap([{"uid":"acupuncturists","index":99,"category":"medical","name":"Acupuncture","actor":"Acupuncturist","actors":"Acupuncturists","description":"Specializes in ancient alternative therapy via needles."},{"uid":"addiction-specialists","index":99,"category":"medical","name":"Addiction Medicine","actor":"Addiction Specialist","actors":"Addiction Specialists","description":"Specializes in the treatment of addiction disorders."},{"uid":"allergists","index":99,"category":"medical","name":"Allergy & Immunology","actor":"Allergist","actors":"Allergists","description":"Specializes in treatment of allergies and the immune system."},{"uid":"alternative-medicine-practitioners","index":99,"category":"medical","name":"Alternative Medicine & Other","actor":"Alternative Medicine Practitioner","actors":"Alternative Medicine Practitioners","description":"Specializes in alternative treatments and therapies."},{"uid":"anesthesiologists","index":99,"category":"medical","name":"Anesthesiology","actor":"Anesthesiologist","actors":"Anesthesiologists","description":"Specializes in managing pain and anesthesia in surgeries."},{"uid":"mental-health-therapists","index":99,"category":"medical","name":"Behavioral and Mental Health","actor":"Mental Health Therapist","actors":"Mental Health Therapists","description":"Specializes in behavioral health service counseling."},{"uid":"cardiology","index":99,"category":"medical","name":"Cardiology","actor":"Cardiologist","actors":"Cardiologists","description":""},{"uid":"cardiothoracic-surgeons","index":99,"category":"medical","name":"Cardiothoracic Surgery","actor":"Cardiothoracic Surgeon","actors":"Cardiothoracic Surgeons","description":"Specializes in chest and heart surgery."},{"uid":"cardiologists","index":99,"category":"medical","name":"Cardiovascular Disease","actor":"Cardiologist","actors":"Cardiologists","description":"Specializes in heart problems."},{"uid":"childrens-doctors","index":99,"category":"medical","name":"Children's Doctor","actor":"Children's Doctor","actors":"Children's Doctors","description":"Specializes in the health of children from birth to young adulthood."},{"uid":"chiropractors","index":99,"category":"medical","name":"Chiropractics","actor":"Chiropractor","actors":"Chiropractors","description":"Specializes in alternartive therapy of muscles, bones, and joints."},{"uid":"geneticists","index":99,"category":"medical","name":"Clinical Genetics","actor":"Geneticist","actors":"Geneticists","description":"Specializes in the diagnoses of and counselling for genetic disorders."},{"uid":"colorectal-surgeons","index":99,"category":"medical","name":"Colon & Rectal Surgery","actor":"Colorectal Surgeon","actors":"Colorectal Surgeons","description":"Specializes in colon and rectal surgery."},{"uid":"counselors","index":99,"category":"medical","name":"Counseling","actor":"Counselor","actors":"Counselors","description":"Specializes in behavioral health service counseling."},{"uid":"critical-care-doctors","index":99,"category":"medical","name":"Critical Care Medicine","actor":"Critical Care Doctor","actors":"Critical Care Doctors","description":"Specializes in the care of critically ill patients."},{"uid":"dental-services","index":99,"category":"dental","name":"Dental Services","actor":"Dental Service","actors":"Dental Services","description":""},{"uid":"dentists","index":4,"category":"dental","name":"Dentistry","actor":"Dentist","actors":"Dentists","description":"Specializes in teeth and oral health."},{"uid":"dermatologists","index":6,"category":"medical","name":"Dermatology","actor":"Dermatologist","actors":"Dermatologists","description":"Specializes in skin disorders, including moles and melanoma."},{"uid":"dietitians","index":99,"category":"medical","name":"Dietitian, Registered","actor":"Dietitian","actors":"Dietitians","description":"Specializes in alternative food and nutrition therapies."},{"uid":"emergency-medicine-doctors","index":99,"category":"medical","name":"Emergency Medicine","actor":"Emergency Medicine Doctor","actors":"Emergency Medicine Doctors","description":"Specializes in immediate emergency care."},{"uid":"endocrinologists","index":99,"category":"medical","name":"Endocrinology, Diabetes & Metabolism","actor":"Endocrinologist","actors":"Endocrinologists","description":"Specializes in diabetes, thyroid and other disorders affected by hormones."},{"uid":"eye-doctors","index":5,"category":"vision","name":"Eye Doctor","actor":"Eye Doctor","actors":"Eye Doctors","description":"Specializes in your vision and eyes."},{"uid":"eye-vision-servcies","index":99,"category":"vision","name":"Eye and Vision Services","actor":"Eye and Vision Service","actors":"Eye and Vision Services","description":""},{"uid":"gastroenterologists","index":99,"category":"medical","name":"Gastroenterology","actor":"Gastroenterologist","actors":"Gastroenterologists","description":"Specializes in the digestive system."},{"uid":"geriatric-medicine-doctors","index":99,"category":"medical","name":"Geriatric Medicine","actor":"Geriatric Medicine Doctor","actors":"Geriatric Medicine Doctors","description":"Specializes in the aging process and elderly."},{"uid":"oncologists","index":99,"category":"medical","name":"Hematology & Oncology","actor":"Oncologist","actors":"Oncologists","description":"Specializes in the diagnosis and treatment of cancer and tumors."},{"uid":"hepatologists","index":99,"category":"medical","name":"Hepatology","actor":"Hepatologist","actors":"Hepatologists","description":"Specializes in liver and spleen diseases."},{"uid":"hospice-care-palliative-doctors","index":99,"category":"medical","name":"Hospice and Palliative Medicine","actor":"Hospice Care and Palliative Doctor","actors":"Hospice Care and Palliative Doctors","description":"Specializes in preventing and relieving suffering of dying patients."},{"uid":"hospitalists","index":99,"category":"medical","name":"Hospitalist","actor":"Hospitalist","actors":"Hospitalists","description":"Specializes in general medical care of hospitalized patients."},{"uid":"infectious-disease-doctors","index":99,"category":"medical","name":"Infectious Disease","actor":"Infectious Disease Doctor","actors":"Infectious Disease Doctors","description":"Specializes in infectious diseases of all types and in all organ systems."},{"uid":"lab-doctors","index":99,"category":"medical","name":"Lab Doctors","actor":"Lab Doctor","actors":"Lab Doctors","description":""},{"uid":"massage-therapists","index":99,"category":"medical","name":"Massage Therapy","actor":"Massage Therapist","actors":"Massage Therapists","description":"Specializes in alternative therapy of muscles and tissue."},{"uid":"medical-services","index":99,"category":"medical","name":"Medical Services ","actor":"Medical Services ","actors":"Medical Services s","description":""},{"uid":"naturopathic-doctors","index":99,"category":"medical","name":"Naturopath","actor":"Naturopathic Doctor","actors":"Naturopathic Doctors","description":"Specializes in alternative natural healing."},{"uid":"nephrologists","index":99,"category":"medical","name":"Nephrology","actor":"Nephrologist","actors":"Nephrologists","description":"Specializes in patients with kidney disorders."},{"uid":"neurosurgeons","index":99,"category":"medical","name":"Neurological Surgery","actor":"Neurosurgeon","actors":"Neurosurgeons","description":"Specializes in nervous system and brain surgery."},{"uid":"neurologists","index":99,"category":"medical","name":"Neurology","actor":"Neurologist","actors":"Neurologists","description":"Specializes in the brain and nervous system."},{"uid":"neuromusculoskeletal-medicine-doctors","index":99,"category":"medical","name":"Neuromusculoskeletal Medicine","actor":"Neuromusculoskeletal Medicine Doctor","actors":"Neuromusculoskeletal Medicine Doctors","description":"Specializes in holistic physical therapy to treat illnesses."},{"uid":"nuclear-medicine-doctors","index":99,"category":"medical","name":"Nuclear Medicine","actor":"Nuclear Medicine Doctor","actors":"Nuclear Medicine Doctors","description":"Specializes in diagnosing and treating diseases with radioactive materials."},{"uid":"nurse-practitioners","index":99,"category":"medical","name":"Nurse Practitioner","actor":"Nurse Practitoner","actors":"Nurse Practitoners","description":"Specializes in your and your family's health."},{"uid":"nutritionists","index":99,"category":"medical","name":"Nutrition Medicine","actor":"Nutritionist","actors":"Nutritionists","description":"Specializes in alternative food and nutrition therapies."},{"uid":"obgyns","index":3,"category":"medical","name":"OBGYN","actor":"OBGYN","actors":"OBGYNs","description":"Specializes in the care of the female reproductive system."},{"uid":"occupational-therapy","index":99,"category":"therapy","name":"Occupational & Rehabilitative Therapy","actor":"Therapist","actors":"Therapists","description":"Respiratory, Developmental, Rehabilitative and Restorative Service Providers\r\n"},{"uid":"ophthalmologists","index":99,"category":"vision","name":"Ophthalmology","actor":"Ophthalmologist","actors":"Ophthalmologists","description":"Specializes in vision, eye care, and eye surgery including Lasik."},{"uid":"optometrists","index":99,"category":"vision","name":"Optometry","actor":"Optometrist","actors":"Optometrists","description":"Specializes in vision and prescribing glasses and contact lences."},{"uid":"oral-surgeons","index":99,"category":"medical","name":"Oral & Maxillofacial Surgery","actor":"Oral Surgeon","actors":"Oral Surgeons","description":"Specializes in surgical operations of the mouth, jaw and face."},{"uid":"orthopedic-surgeons","index":7,"category":"medical","name":"Orthopedic Surgery","actor":"Orthopedic Surgeon","actors":"Orthopedic Surgeons","description":"Specializes in surgery and treatment of musculoskeletal problems, including knees and spine."},{"uid":"orthotists-and-prosthetists","index":99,"category":"services","name":"Orthotists and Prosthetists","actor":"Orthotists and Prosthetist","actors":"Orthotists and Prosthetists","description":""},{"uid":"ear-nose-throat-doctors","index":99,"category":"medical","name":"Otolaryngology","actor":"Ear, Nose and Throat Doctor","actors":"Ear, Nose and Throat Doctors","description":"Specializes in ear, nose and throat problems."},{"uid":"pain-management-doctors","index":99,"category":"medical","name":"Pain Medicine","actor":"Pain Management Doctor","actors":"Pain Management Doctors","description":"Specializes in pain management and prevention."},{"uid":"pathologists","index":99,"category":"medical","name":"Pathology","actor":"Pathologist","actors":"Pathologists","description":"Specializes in laboratory tests of tissue and bodily fluids."},{"uid":"pediatric-surgeons","index":99,"category":"medical","name":"Pediatric Surgery","actor":"Pediatric Surgeon","actors":"Pediatric Surgeons","description":"Specializes in complicated surgical conditions in children."},{"uid":"pediatricians","index":2,"category":"medical","name":"Pediatrics","actor":"Pediatrician","actors":"Pediatricians","description":"Specializes in the health of children from birth to young adulthood."},{"uid":"physiatrists","index":99,"category":"medical","name":"Physical Medicine & Rehabilitation","actor":"Physiatrist","actors":"Physiatrists","description":"Specializes in treating patients with physical disabilities."},{"uid":"physical-therapists","index":99,"category":"medical","name":"Physical Therapy","actor":"Physical Therapist","actors":"Physical Therapists","description":"Specializes in physical therapy."},{"uid":"plastic-surgeons","index":99,"category":"medical","name":"Plastic and Reconstructive Surgery","actor":"Plastic Surgeon","actors":"Plastic Surgeons","description":"Specializes in plastic and reconstructive surgery."},{"uid":"podiatrists","index":99,"category":"medical","name":"Podiatry","actor":"Podiatrist","actors":"Podiatrists","description":"Specializes in foot and ankle problems."},{"uid":"preventive-medicine-doctors","index":99,"category":"medical","name":"Preventive Medicine","actor":"Preventive Medicine Doctor","actors":"Preventive Medicine Doctors","description":"Specializes in preventive care."},{"uid":"primary-care-doctors","index":1,"category":"medical","name":"Primary Care Doctor","actor":"Primary Care Doctor","actors":"Primary Care Doctors","description":"Specializes in your and your family's total health."},{"uid":"psychiatrists","index":8,"category":"medical","name":"Psychiatry","actor":"Psychiatrist","actors":"Psychiatrists","description":"Specializes in the diagnosis and treatment of mental disorders."},{"uid":"psychologists","index":99,"category":"medical","name":"Psychology","actor":"Psychologist","actors":"Psychologists","description":"Specializes in psychological counceling and therapy."},{"uid":"pulmonologists","index":99,"category":"medical","name":"Pulmonary Disease","actor":"Pulmonologist","actors":"Pulmonologists","description":"Specializes in lungs and airways."},{"uid":"radiologists","index":99,"category":"medical","name":"Radiology","actor":"Radiologist","actors":"Radiologists","description":"Specializes in imaging via X-rays and ultrasound."},{"uid":"rheumatologists","index":99,"category":"medical","name":"Rheumatology","actor":"Rheumatologist","actors":"Rheumatologists","description":"Specializes in joints, muscles, bones and tendons."},{"uid":"sleep-medicine-doctors","index":99,"category":"medical","name":"Sleep Medicine","actor":"Sleep Medicine Doctor","actors":"Sleep Medicine Doctors","description":"Specializes in  sleep disorders."},{"uid":"specialist-doctors","index":99,"category":"medical","name":"Specialist Doctor","actor":"Specialist Doctor","actors":"Specialist Doctors","description":"Speciaize in specific medical area."},{"uid":"speech-therapists","index":99,"category":"medical","name":"Speech Therapy","actor":"Speech Therapist","actors":"Speech Therapists","description":"Specializes in speech therapy."},{"uid":"sports-medicine-doctors","index":99,"category":"medical","name":"Sports Medicine","actor":"Sports Medicine Doctor","actors":"Sports Medicine Doctors","description":"Specializes in prevention and treatment of sports related injuries."},{"uid":"general-surgeons","index":99,"category":"medical","name":"Surgery","actor":"General Surgeon","actors":"General Surgeons","description":"Specializes in complex surgical operations."},{"uid":"surgeons","index":99,"category":"medical","name":"Surgery","actor":"Surgeon","actors":"Surgeons","description":"Specializes in surgical operations."},{"uid":"urologists","index":99,"category":"medical","name":"Urology","actor":"Urologist","actors":"Urologists","description":"Specializes in genital and urinary problems."},{"uid":"vascular-surgeons","index":99,"category":"medical","name":"Vascular Surgery","actor":"Vascular Surgeon","actors":"Vascular Surgeons","description":"Specializes in blood vessel surgery excluding the heart."}]);
-bd.app.getCollection('insuranceProviders').bootstrap([{"uid":"advantagehealthsolutions","name":"Advantage Health Solutions"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"aetna","name":"Aetna"},{"uid":"altiuscoventryhealthcare","name":"Altius Coventry Health Care"},{"uid":"ambettersuperiorhealthplan","name":"Ambetter Superior Health Plan"},{"uid":"amerihealth","name":"Amerihealth"},{"uid":"amerihealth","name":"Amerihealth"},{"uid":"amerihealth","name":"Amerihealth"},{"uid":"amerihealth","name":"Amerihealth"},{"uid":"ameritas","name":"Ameritas"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem"},{"uid":"anthem","name":"Anthem Blue Cross"},{"uid":"anthembluecrossblueshield","name":"Anthem Blue Cross Blue Shield"},{"uid":"anthembluecrossblueshield","name":"Anthem Blue Cross Blue Shield"},{"uid":"assurant","name":"Assurant"},{"uid":"assurant","name":"Assurant"},{"uid":"aultcare","name":"Aultcare"},{"uid":"bcbsbluecard","name":"BCBS Blue Card"},{"uid":"bcbsminnesota","name":"BCBS Minnesota"},{"uid":"bluecrossbluesheildofalabama","name":"Blue Cross Blue Sheild of Alabama"},{"uid":"bluecrossbluesheildofalabama","name":"Blue Cross Blue Sheild of Alabama"},{"uid":"bluecrossblueshieldofarizona","name":"Blue Cross Blue Shield of Arizona"},{"uid":"bluecrossblueshieldofflorida","name":"Blue Cross Blue Shield of Florida"},{"uid":"bluecrossblueshieldofflorida","name":"Blue Cross Blue Shield of Florida"},{"uid":"bluecrossblueshieldofflorida","name":"Blue Cross Blue Shield of Florida"},{"uid":"bluecrossblueshieldofflorida","name":"Blue Cross Blue Shield of Florida"},{"uid":"bluecrossblueshieldofflorida","name":"Blue Cross Blue Shield of Florida"},{"uid":"bcbsflorida","name":"Blue Cross Blue Shield of Florida BCBSFL"},{"uid":"bluecrossblueshieldofgeorgia","name":"Blue Cross Blue Shield of Georgia"},{"uid":"bluecrossblueshieldofgeorgia","name":"Blue Cross Blue Shield of Georgia"},{"uid":"bluecrossblueshieldofgeorgia","name":"Blue Cross Blue Shield of Georgia"},{"uid":"bluecrossblueshieldofgeorgia","name":"Blue Cross Blue Shield of Georgia"},{"uid":"bluecrossblueshieldofgeorgia","name":"Blue Cross Blue Shield of Georgia"},{"uid":"bluecrossblueshieldofgeorgia","name":"Blue Cross Blue Shield of Georgia"},{"uid":"bluecrossblueshieldofillinois","name":"Blue Cross Blue Shield of Illinois"},{"uid":"bluecrossblueshieldofillinois","name":"Blue Cross Blue Shield of Illinois"},{"uid":"bluecrossblueshieldofillinois","name":"Blue Cross Blue Shield of Illinois"},{"uid":"bluecrossblueshieldofillinois","name":"Blue Cross Blue Shield of Illinois"},{"uid":"bluecrossblueshieldofillinois","name":"Blue Cross Blue Shield of Illinois"},{"uid":"bluecrossblueshieldofkansascity","name":"Blue Cross Blue Shield of Kansas City"},{"uid":"bluecrossblueshieldoflouisiana","name":"Blue Cross Blue Shield of Louisiana"},{"uid":"bluecrossblueshieldoflouisiana","name":"Blue Cross Blue Shield of Louisiana"},{"uid":"bluecrossblueshieldoflouisiana","name":"Blue Cross Blue Shield of Louisiana"},{"uid":"bluecrossblueshieldofmassachusetts","name":"Blue Cross Blue Shield of Massachusetts"},{"uid":"bluecrossblueshieldofmassachusetts","name":"Blue Cross Blue Shield of Massachusetts"},{"uid":"bluecrossblueshieldofmassachusetts","name":"Blue Cross Blue Shield of Massachusetts"},{"uid":"bluecrossblueshieldofmichigan","name":"Blue Cross Blue Shield of Michigan"},{"uid":"bluecrossblueshieldofmichigan","name":"Blue Cross Blue Shield of Michigan"},{"uid":"bluecrossblueshieldofmichigan","name":"Blue Cross Blue Shield of Michigan"},{"uid":"bluecrossblueshieldofnewmexico","name":"Blue Cross Blue Shield of New Mexico"},{"uid":"bluecrossblueshieldofoklahoma","name":"Blue Cross Blue Shield of Oklahoma"},{"uid":"bluecrossblueshieldofrhodeisland","name":"Blue Cross Blue Shield of Rhode Island"},{"uid":"bluecrossblueshieldoftx","name":"Blue Cross Blue Shield of TX"},{"uid":"bluecrossblueshieldoftx","name":"Blue Cross Blue Shield of TX"},{"uid":"bluecrossblueshieldoftennessee","name":"Blue Cross Blue Shield of Tennessee"},{"uid":"bluecrossblueshieldoftennessee","name":"Blue Cross Blue Shield of Tennessee"},{"uid":"bluecrossblueshieldoftexas","name":"Blue Cross Blue Shield of Texas"},{"uid":"bluecrossblueshieldoftexas","name":"Blue Cross Blue Shield of Texas"},{"uid":"bluecrossblueshieldoftexas","name":"Blue Cross Blue Shield of Texas"},{"uid":"bcbstexas","name":"Blue Cross Blue Shield of Texas BCBSTX"},{"uid":"bluecrossblueshieldofwyoming","name":"Blue Cross Blue Shield of Wyoming"},{"uid":"bluecrosscalifornia","name":"Blue Cross California"},{"uid":"bluecrosscalifornia","name":"Blue Cross California"},{"uid":"bluecrosscalifornia","name":"Blue Cross California"},{"uid":"bluecrosscalifornia","name":"Blue Cross California"},{"uid":"bluecrosscalifornia","name":"Blue Cross California"},{"uid":"bluecrosscalifornia","name":"Blue Cross California"},{"uid":"bluecrosscalifornia","name":"Blue Cross California"},{"uid":"bluecrosscalifornia","name":"Blue Cross California"},{"uid":"bluecrosscalifornia","name":"Blue Cross California"},{"uid":"bluecrosscalifornia","name":"Blue Cross California"},{"uid":"bluecrosscalifornia","name":"Blue Cross California"},{"uid":"bluecrossidaho","name":"Blue Cross Idaho"},{"uid":"blueshieldofcalifornia","name":"Blue Shield of California"},{"uid":"blueshieldofcalifornia","name":"Blue Shield of California"},{"uid":"blueshieldofcalifornia","name":"Blue Shield of California"},{"uid":"blueshieldofcalifornia","name":"Blue Shield of California"},{"uid":"blueshieldofcalifornia","name":"Blue Shield of California"},{"uid":"blueshieldofcalifornia","name":"Blue Shield of California"},{"uid":"blueshieldofcalifornia","name":"Blue Shield of California"},{"uid":"blueshieldofcalifornia","name":"Blue Shield of California"},{"uid":"blueshieldofcalifornia","name":"Blue Shield of California"},{"uid":"blueshieldofcalifornia","name":"Blue Shield of California"},{"uid":"blueshieldofcalifornia","name":"Blue Shield of California"},{"uid":"blueshieldofcalifornia","name":"Blue Shield of California"},{"uid":"blueshieldofcalifornia","name":"Blue Shield of California"},{"uid":"bluegrassfamilyhealth","name":"Bluegrass Family Health"},{"uid":"bridgespan","name":"Bridgespan"},{"uid":"buckeyecommunityhealthplan","name":"Buckeye Community Health Plan"},{"uid":"capitalbluecross","name":"Capital Blue Cross"},{"uid":"capitalbluecross","name":"Capital Blue Cross"},{"uid":"capitaldistrictphysicianshealthplan","name":"Capital District Physicians Health Plan"},{"uid":"capitaldistrictphysicianshealthplan","name":"Capital District Physicians Health Plan"},{"uid":"carefirstbluecrossblueshield","name":"Care First Blue Cross Blue Shield"},{"uid":"carefirstbluecrossblueshield","name":"Care First Blue Cross Blue Shield"},{"uid":"carefirstbluecrossblueshield","name":"Care First Blue Cross Blue Shield"},{"uid":"carefirstbluecrossblueshield","name":"Care First Blue Cross Blue Shield"},{"uid":"carefirstbluecrossblueshield","name":"Care First Blue Cross Blue Shield"},{"uid":"carefirstbluecrossblueshield","name":"Care First Blue Cross Blue Shield"},{"uid":"chinesecommunityhealthplan","name":"Chinese Community Health Plan"},{"uid":"cigna","name":"Cigna"},{"uid":"cigna","name":"Cigna"},{"uid":"cigna","name":"Cigna"},{"uid":"cigna","name":"Cigna"},{"uid":"cigna","name":"Cigna"},{"uid":"cignadental","name":"Cigna Dental"},{"uid":"cignadental","name":"Cigna Dental"},{"uid":"cofinity","name":"Cofinity"},{"uid":"communitycarehealthcenters","name":"CommUnityCare Health Centers"},{"uid":"communitycarehealthcenters","name":"CommUnityCare Health Centers"},{"uid":"compbenefitscorporation","name":"CompBenefits Corporation"},{"uid":"compbenefitscorporation","name":"CompBenefits Corporation"},{"uid":"compbenefitscorporation","name":"CompBenefits Corporation"},{"uid":"connecticare","name":"Connecticare"},{"uid":"connecticare","name":"Connecticare"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"coventryhealthcare","name":"Coventry Health Care"},{"uid":"deltadental","name":"Delta Dental"},{"uid":"deltadental","name":"Delta Dental"},{"uid":"deltadental","name":"Delta Dental"},{"uid":"dentalnetworkofamerica","name":"Dental Network of America"},{"uid":"dentemax","name":"DenteMax"},{"uid":"diversifieddental","name":"Diversified Dental"},{"uid":"dominiongroup","name":"Dominion Group"},{"uid":"emblemhealth","name":"Emblem Health"},{"uid":"emblemhealth","name":"Emblem Health"},{"uid":"empirebcbs","name":"Empire BCBS"},{"uid":"empirebcbs","name":"Empire BCBS"},{"uid":"empirebcbs","name":"Empire BCBS"},{"uid":"empirebcbs","name":"Empire BCBS"},{"uid":"excellusbcbs","name":"Excellus BCBS"},{"uid":"excellusbcbs","name":"Excellus BCBS"},{"uid":"firstchoice","name":"First Choice"},{"uid":"firstdentalhealth","name":"First Dental Health"},{"uid":"firsthealthcoventryhealthcare","name":"First Health Coventry Healthcare"},{"uid":"gwhcigna","name":"GWH-Cigna"},{"uid":"geisingerhealthplan","name":"Geisinger Health Plan"},{"uid":"grouphealthcooperative","name":"Group Health Cooperative"},{"uid":"grouphealthcooperative","name":"Group Health Cooperative"},{"uid":"guardiandental","name":"Guardian Dental"},{"uid":"guardiandental","name":"Guardian Dental"},{"uid":"guardiandental","name":"Guardian Dental"},{"uid":"gundersenhealthplan","name":"Gundersen Health Plan"},{"uid":"hap","name":"HAP"},{"uid":"hap","name":"HAP"},{"uid":"hipofny","name":"HIP of NY"},{"uid":"hmsa","name":"HMSA"},{"uid":"harvardpilgrim","name":"Harvard Pilgrim"},{"uid":"healthalliance","name":"Health Alliance"},{"uid":"healthalliance","name":"Health Alliance"},{"uid":"healthnet","name":"Health Net"},{"uid":"healthnet","name":"Health Net"},{"uid":"healthnet","name":"Health Net"},{"uid":"healthnet","name":"Health Net"},{"uid":"healthnet","name":"Health Net"},{"uid":"healthnet","name":"Health Net"},{"uid":"healthnet","name":"Health Net"},{"uid":"healthnet","name":"Health Net"},{"uid":"healthnet","name":"Health Net"},{"uid":"healthnet","name":"Health Net"},{"uid":"healthnet","name":"Health Net"},{"uid":"healthnet","name":"Health Net"},{"uid":"healthnet","name":"Health Net"},{"uid":"healthplanofnevada","name":"Health Plan of Nevada"},{"uid":"healthplanofnevada","name":"Health Plan of Nevada"},{"uid":"healthplanofnevada","name":"Health Plan of Nevada"},{"uid":"healthfirstny","name":"HealthFirst NY"},{"uid":"healthlink","name":"HealthLink"},{"uid":"healthnet","name":"HealthNet"},{"uid":"healthnet","name":"HealthNet"},{"uid":"healthnet","name":"HealthNet"},{"uid":"healthnet","name":"HealthNet"},{"uid":"healthnet","name":"HealthNet"},{"uid":"healthnow","name":"HealthNow"},{"uid":"healthplusofmichigan","name":"HealthPlus of Michigan"},{"uid":"healthspan","name":"HealthSpan"},{"uid":"highmarkbluecrossblueshield","name":"Highmark Blue Cross Blue Shield"},{"uid":"highmarkbluecrossblueshield","name":"Highmark Blue Cross Blue Shield"},{"uid":"homestatehealthplan","name":"Home State Health Plan"},{"uid":"horizonbcbs","name":"Horizon BCBS"},{"uid":"horizonbcbs","name":"Horizon BCBS"},{"uid":"horizonbcbs","name":"Horizon BCBS"},{"uid":"horizonbcbs","name":"Horizon BCBS"},{"uid":"horizonbcbs","name":"Horizon BCBS"},{"uid":"horizonbcbs","name":"Horizon BCBS"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"humana","name":"Humana"},{"uid":"ibcamerihealth","name":"IBC  Amerihealth"},{"uid":"ibcamerihealth","name":"IBC  Amerihealth"},{"uid":"ibcamerihealth","name":"IBC  Amerihealth"},{"uid":"ibcamerihealth","name":"IBC  Amerihealth"},{"uid":"independencebluecross","name":"Independence Blue Cross"},{"uid":"independencebluecross","name":"Independence Blue Cross"},{"uid":"independenthealthassociation","name":"Independent Health Association"},{"uid":"independenthealthassociation","name":"Independent Health Association"},{"uid":"kaisermidatlantic","name":"Kaiser - MidAtlantic"},{"uid":"kaiserpermanente","name":"Kaiser Permanente"},{"uid":"lacarehealth","name":"L.A. Care Health"},{"uid":"lacarehealth","name":"LA Care Health"},{"uid":"libertydentalplan","name":"Liberty Dental Plan"},{"uid":"lifewisehealthplanoforegon","name":"Lifewise health Plan of Oregon"},{"uid":"mhsindiana","name":"MHS Indiana"},{"uid":"mhealthinsured","name":"MHealth Insured"},{"uid":"mvphealthplan","name":"MVP Health Plan"},{"uid":"mvphealthplan","name":"MVP Health Plan"},{"uid":"magnacare","name":"MagnaCare"},{"uid":"magnacare","name":"Magnacare"},{"uid":"medicaid","name":"Medicaid"},{"uid":"medicalmutualofohio","name":"Medical Mutual of Ohio"},{"uid":"medicalmutualofohio","name":"Medical Mutual of Ohio"},{"uid":"medicare","name":"Medicare"},{"uid":"metlife","name":"MetLife"},{"uid":"metlife","name":"MetLife"},{"uid":"molinahealthcare","name":"Molina Healthcare"},{"uid":"molinahealthcare","name":"Molina Healthcare"},{"uid":"multiplan","name":"Multiplan"},{"uid":"multiplan","name":"Multiplan"},{"uid":"multiplan","name":"Multiplan"},{"uid":"odshealthplan","name":"ODS Health Plan"},{"uid":"oxfordhealth","name":"Oxford Health"},{"uid":"oxfordhealth","name":"Oxford Health"},{"uid":"pacificsourcehealthplans","name":"PacificSource Health Plans"},{"uid":"paramount","name":"Paramount"},{"uid":"premerabluecross","name":"Premera Blue Cross"},{"uid":"premerabluecross","name":"Premera Blue Cross"},{"uid":"premerabluecross","name":"Premera Blue Cross"},{"uid":"premerabcbs","name":"Premera Blue Cross Blue Shield"},{"uid":"premerabcbs","name":"Premera Blue Cross Blue Shield"},{"uid":"presbyterianhealthcareservices","name":"Presbyterian Healthcare Services"},{"uid":"principalfinancialservices","name":"Principal Financial Services"},{"uid":"priorityhealth","name":"PriorityHealth"},{"uid":"priorityhealth","name":"PriorityHealth"},{"uid":"providencehealthsystem","name":"Providence Health System"},{"uid":"providencehealthsystem","name":"Providence Health System"},{"uid":"qualcare","name":"QualCare"},{"uid":"qualcare","name":"QualCare"},{"uid":"qualchoice","name":"Qualchoice"},{"uid":"regencebluecrossblueshieldoforegon","name":"Regence Blue Cross Blue Shield of Oregon"},{"uid":"regencebluecrossblueshieldofutah","name":"Regence Blue Cross Blue Shield of Utah"},{"uid":"regenceblueshieldofidaho","name":"Regence Blue Shield of Idaho"},{"uid":"regenceblueshieldofwashinton","name":"Regence Blue Shield of Washinton"},{"uid":"rockymountainhealthplans","name":"Rocky Mountain Health Plans"},{"uid":"sagamorehealthnetwork","name":"Sagamore Health Network"},{"uid":"sciondental","name":"Scion Dental"},{"uid":"scottandwhite","name":"Scott and White"},{"uid":"sharphealthplan","name":"Sharp Health Plan"},{"uid":"sharphealthplan","name":"Sharp Health Plan"},{"uid":"sharphealthplan","name":"Sharp Health Plan"},{"uid":"sharphealthplan","name":"Sharp Health Plan"},{"uid":"sharphealthplan","name":"Sharp Health Plan"},{"uid":"sharphealthplan","name":"Sharp Health Plan"},{"uid":"sierrahealth","name":"Sierra Health"},{"uid":"sierrahealth","name":"Sierra Health"},{"uid":"spectrumhealth","name":"Spectrum Health"},{"uid":"totaldentaladministrators","name":"Total Dental Administrators"},{"uid":"totalhealthplan","name":"Total Health Plan"},{"uid":"tuftshealthplan","name":"Tufts Health Plan"},{"uid":"uhcwestformerlypacificare","name":"UHC West Formerly Pacificare"},{"uid":"uhcwestformerlypacificare","name":"UHC West Formerly Pacificare"},{"uid":"uhcwestformerlypacificare","name":"UHC West Formerly Pacificare"},{"uid":"uhcoftherivervalley","name":"UHC of the River Valley"},{"uid":"unitedconcordia","name":"United Concordia"},{"uid":"unitedconcordia","name":"United Concordia"},{"uid":"unitedconcordia","name":"United Concordia"},{"uid":"unitedhealthcare","name":"United Healthcare"},{"uid":"unitedhealthcare","name":"United Healthcare"},{"uid":"unitedhealthcare","name":"United Healthcare"},{"uid":"unitedhealthcare","name":"United Healthcare"},{"uid":"unitedhealthcare","name":"United Healthcare"},{"uid":"unitedhealthcaredental","name":"United Healthcare Dental"},{"uid":"unitedhealthcaredental","name":"United Healthcare Dental"},{"uid":"unityhealthinsurance","name":"Unity Health Insurance"},{"uid":"vsp","name":"VSP"},{"uid":"wellmarkbluecrossandblueshield","name":"Wellmark Blue Cross and Blue Shield"},{"uid":"westernhealthadvantage","name":"Western Health Advantage"},{"uid":"wisconsinphysiciansserviceinsurancecorporation","name":"Wisconsin Physicians Service Insurance Corporation"}]);
-bd.app.getCollection('insurancePlans').bootstrap([{"uid":"aetna-aetnadppo","pid":"aetna","name":"Aetna DPPO","categories":["dental"]},{"uid":"bluecrossbluesheildofalabama-bcbsalpreferreddentists","pid":"bluecrossbluesheildofalabama","name":"BCBS AL Preferred Dentists","categories":["dental"]},{"uid":"bluecrossblueshieldofflorida-flbluebluedentalchoicechoiceplusppo","pid":"bluecrossblueshieldofflorida","name":"FL Blue BlueDental Choice  Choice Plus PPO","categories":["dental"]},{"uid":"bluecrossblueshieldofgeorgia-bcbsgadentalcomplete","pid":"bluecrossblueshieldofgeorgia","name":"BCBS GA Dental Complete","categories":["dental"]},{"uid":"bluecrossblueshieldoflouisiana-bcbslabluecrossdentalnetwork","pid":"bluecrossblueshieldoflouisiana","name":"BCBS LA Blue Cross Dental Network","categories":["dental"]},{"uid":"bluecrossblueshieldoftx-bcbstxbluecaredental","pid":"bluecrossblueshieldoftx","name":"BCBS TX BlueCare Dental","categories":["dental"]},{"uid":"bluecrossblueshieldoftx-bcbstxdentablue","pid":"bluecrossblueshieldoftx","name":"BCBS TX DentaBlue","categories":["dental"]},{"uid":"bluecrosscalifornia-bccadentalblue100200300","pid":"bluecrosscalifornia","name":"BC CA Dental Blue 100200300","categories":["dental"]},{"uid":"blueshieldofcalifornia-bscadentalppo","pid":"blueshieldofcalifornia","name":"BS CA Dental PPO","categories":["dental"]},{"uid":"carefirstbluecrossblueshield-carefirstregionalpreferreddentalppo","pid":"carefirstbluecrossblueshield","name":"CareFirst Regional Preferred Dental PPO","categories":["dental"]},{"uid":"carefirstbluecrossblueshield-carefirstregionaltraditionaldental","pid":"carefirstbluecrossblueshield","name":"CareFirst Regional Traditional Dental","categories":["dental"]},{"uid":"cignadental-cignadentaldhmo","pid":"cignadental","name":"CIGNA Dental DHMO","categories":["dental"]},{"uid":"cignadental-cignatotaldppo","pid":"cignadental","name":"CIGNA Total DPPO","categories":["dental"]},{"uid":"compbenefitscorporation-compbenefitsdentalaccessplan","pid":"compbenefitscorporation","name":"CompBenefits Dental Access Plan","categories":["dental"]},{"uid":"deltadental-deltadentaldeltacareusa","pid":"deltadental","name":"Delta Dental DeltaCare USA","categories":["dental"]},{"uid":"deltadental-deltadentalppo","pid":"deltadental","name":"Delta Dental PPO","categories":["dental"]},{"uid":"deltadental-deltadentalpremier","pid":"deltadental","name":"Delta Dental Premier","categories":["dental"]},{"uid":"dentalnetworkofamerica-dentalnetworkofamericadppo","pid":"dentalnetworkofamerica","name":"Dental Network of America DPPO","categories":["dental"]},{"uid":"dentemax-dentemaxdental","pid":"dentemax","name":"DenteMax Dental","categories":["dental"]},{"uid":"diversifieddental-diversifieddentalppo","pid":"diversifieddental","name":"Diversified Dental PPO","categories":["dental"]},{"uid":"dominiongroup-dominiondentalppo","pid":"dominiongroup","name":"Dominion Dental PPO","categories":["dental"]},{"uid":"emblemhealth-emblemdentalpreferredplus","pid":"emblemhealth","name":"Emblem Dental - Preferred Plus","categories":["dental"]},{"uid":"firstdentalhealth-firstdentalhealth","pid":"firstdentalhealth","name":"First Dental Health","categories":["dental"]},{"uid":"guardiandental-guardiandentalguardpreferred","pid":"guardiandental","name":"Guardian DentalGuard Preferred","categories":["dental"]},{"uid":"guardiandental-guardianmanageddentalcare","pid":"guardiandental","name":"Guardian Managed Dental Care","categories":["dental"]},{"uid":"guardiandental-guardianmanageddentalguard","pid":"guardiandental","name":"Guardian Managed DentalGuard","categories":["dental"]},{"uid":"horizonbcbs-horizondentalppo","pid":"horizonbcbs","name":"Horizon Dental PPO","categories":["dental"]},{"uid":"humana-humanadentalppo","pid":"humana","name":"Humana Dental PPO","categories":["dental"]},{"uid":"libertydentalplan-libertydentalcaindependenceppo","pid":"libertydentalplan","name":"Liberty Dental CA Independence PPO","categories":["dental"]},{"uid":"metlife-metlifepdp","pid":"metlife","name":"MetLife PDP","categories":["dental"]},{"uid":"principalfinancialservices-principaldentalppo","pid":"principalfinancialservices","name":"Principal Dental PPO","categories":["dental"]},{"uid":"regencebluecrossblueshieldofutah-regencevaluecare","pid":"regencebluecrossblueshieldofutah","name":"Regence ValueCare","categories":["dental"]},{"uid":"sciondental-sciondental","pid":"sciondental","name":"Scion Dental","categories":["dental"]},{"uid":"totaldentaladministrators-totaldentaladministratorsppo","pid":"totaldentaladministrators","name":"Total Dental Administrators PPO","categories":["dental"]},{"uid":"unitedconcordia-unitedconcordiadhmoconcordiaplusgeneraldentist","pid":"unitedconcordia","name":"United Concordia DHMO Concordia Plus General Dentist","categories":["dental"]},{"uid":"unitedhealthcaredental-unitedhealthcaredentaldhmocaonly","pid":"unitedhealthcaredental","name":"United Healthcare Dental DHMO CA Only","categories":["dental"]},{"uid":"unitedhealthcaredental-unitedhealthcaredentalppo","pid":"unitedhealthcaredental","name":"United Healthcare Dental PPO","categories":["dental"]},{"uid":"advantagehealthsolutions-advantagehealth360main","pid":"advantagehealthsolutions","name":"Advantage Health 360 Main","categories":["medical"]},{"uid":"aetna-aetnaadvantage6350","pid":"aetna","name":"Aetna Advantage 6350","categories":["medical"]},{"uid":"aetna-aetnaadvantage6350hix","pid":"aetna","name":"Advantage 6350 - HIX","categories":["medical"]},{"uid":"aetna-aetnabasichix","pid":"aetna","name":"Basic - HIX","categories":["medical"]},{"uid":"aetna-aetnabasichmo","pid":"aetna","name":"Aetna Basic HMO","categories":["medical"]},{"uid":"aetna-aetnachoiceposii","pid":"aetna","name":"Aetna Choice POS II","categories":["medical"]},{"uid":"aetna-aetnachoiceposopenaccess","pid":"aetna","name":"Aetna Choice POS Open Access","categories":["medical"]},{"uid":"aetna-aetnadmo","pid":"aetna","name":"Aetna DMO","categories":["medical"]},{"uid":"aetna-aetnaelectchoiceepo","pid":"aetna","name":"Aetna Elect Choice EPO","categories":["medical"]},{"uid":"aetna-aetnahealthnetworkoptionopenaccess","pid":"aetna","name":"Aetna Health Network Option Open Access","categories":["medical"]},{"uid":"aetna-aetnahmo","pid":"aetna","name":"Aetna HMO","categories":["medical"]},{"uid":"aetna-aetnahmodeductibleplancamembersonly","pid":"aetna","name":"Aetna HMO Deductible Plan CA members only","categories":["medical"]},{"uid":"aetna-aetnamanagedchoiceposopenaccess","pid":"aetna","name":"Aetna Managed Choice POS Open Access","categories":["medical"]},{"uid":"aetna-aetnamdbronzesilverandgoldhmo","pid":"aetna","name":"MD Bronze Silver  Gold - HMO","categories":["medical"]},{"uid":"aetna-aetnasavingsplusofaz","pid":"aetna","name":"Aetna Savings Plus of AZ","categories":["medical"]},{"uid":"aetna-aetnasavingsplusofca","pid":"aetna","name":"Aetna Savings Plus of CA","categories":["medical"]},{"uid":"aetna-aetnaselect","pid":"aetna","name":"Aetna Select","categories":["medical"]},{"uid":"aetna-aetnasignatureadministratorsppo","pid":"aetna","name":"Aetna Signature Administrators PPO","categories":["medical"]},{"uid":"aetna-aetnavitalidadpluscaconaetna","pid":"aetna","name":"Aetna Vitalidad Plus CA con Aetna","categories":["medical"]},{"uid":"aetna-aetnawholehealthbannerhealthnetworkhmo","pid":"aetna","name":"Aetna Whole Health Banner Health Network HMO","categories":["medical"]},{"uid":"aetna-aetnawholehealthcoloradofrontrange","pid":"aetna","name":"Aetna Whole Health Colorado Front Range","categories":["medical"]},{"uid":"aetna-aetnawholehealthprimecarehmoca","pid":"aetna","name":"Aetna Whole Health PrimeCare HMO CA","categories":["medical"]},{"uid":"aetna-aetnawholehealthprimecareoamcca","pid":"aetna","name":"Aetna Whole Health PrimeCare OAMC CA","categories":["medical"]},{"uid":"altiuscoventryhealthcare-altiusproviderdirectory","pid":"altiuscoventryhealthcare","name":"Altius Provider Directory","categories":["medical"]},{"uid":"ambettersuperiorhealthplan-ambettersuperiorhealthplan","pid":"ambettersuperiorhealthplan","name":"Ambetter Superior Health Plan","categories":["medical"]},{"uid":"amerihealth-amerihealthlocalvaluenetworkepoposppo","pid":"amerihealth","name":"Amerihealth Local Value Network EPO POS PPO","categories":["medical"]},{"uid":"amerihealth-amerihealthlocalvaluenetworkhmohmopos","pid":"amerihealth","name":"Amerihealth Local Value Network HMO HMO POS","categories":["medical"]},{"uid":"amerihealth-amerihealthregionalprefntwkepoposppo","pid":"amerihealth","name":"Amerihealth Regional Pref Ntwk EPO POS PPO","categories":["medical"]},{"uid":"amerihealth-amerihealthregionalprefntwkhmohmopos","pid":"amerihealth","name":"Amerihealth Regional Pref Ntwk HMO HMO POS","categories":["medical"]},{"uid":"ameritas-ameritasppo","pid":"ameritas","name":"Ameritas PPO","categories":["medical"]},{"uid":"anthem-anthemblueaccessppo","pid":"anthem","name":"Anthem Blue Access PPO","categories":["medical"]},{"uid":"anthem-anthemblueopenaccesspos","pid":"anthem","name":"Anthem Blue Open Access POS","categories":["medical"]},{"uid":"anthem-anthembluepreferredhmo","pid":"anthem","name":"Anthem Blue Preferred HMO","categories":["medical"]},{"uid":"anthem-anthembluepreferredpluspos","pid":"anthem","name":"Anthem Blue Preferred Plus POS","categories":["medical"]},{"uid":"anthem-anthembluepreferredselect","pid":"anthem","name":"Anthem Blue Preferred Select","categories":["medical"]},{"uid":"anthem-anthemcobluepriorityppo","pid":"anthem","name":"Anthem CO Blue Priority PPO","categories":["medical"]},{"uid":"anthem-anthemcopathway","pid":"anthem","name":"Anthem CO Pathway","categories":["medical"]},{"uid":"anthem-anthemcopathwayxenhancedinddirectaccess","pid":"anthem","name":"Anthem CO Pathway X Enhanced Ind Direct Access","categories":["medical"]},{"uid":"anthem-anthemhealthkeepershmopos","pid":"anthem","name":"Anthem HealthKeepers HMOPOS","categories":["medical"]},{"uid":"anthem-antheminpathwayxbronzedirectcacahix","pid":"anthem","name":"Anthem IN Pathway X Bronze Direct CACA HIX","categories":["medical"]},{"uid":"anthem-anthemkeycareppo","pid":"anthem","name":"Anthem KeyCare PPO","categories":["medical"]},{"uid":"anthem-anthemkypathwayxinddirectaccess","pid":"anthem","name":"Anthem KY Pathway X Ind Direct Access","categories":["medical"]},{"uid":"anthem-anthemmodirectaccesswhsa","pid":"anthem","name":"Anthem MO Direct Access wHSA","categories":["medical"]},{"uid":"anthem-anthemnvpathwayppo","pid":"anthem","name":"Anthem NV Pathway PPO","categories":["medical"]},{"uid":"anthem-anthemnvpathwayxhmoinddirectaccess","pid":"anthem","name":"Anthem NV Pathway X HMOInd Direct Access","categories":["medical"]},{"uid":"anthem-anthemohpathwayxtieredhospinddirectaccess","pid":"anthem","name":"Anthem OH Pathway X Tiered HospInd Direct Access","categories":["medical"]},{"uid":"anthem-anthempathwayxenhancedinddirectaccessnh","pid":"anthem","name":"Anthem Pathway X EnhancedInd Direct Access NH","categories":["medical"]},{"uid":"anthem-anthempathwayxenhancedindguidedaccessme","pid":"anthem","name":"Anthem Pathway X EnhancedInd Guided Access ME","categories":["medical"]},{"uid":"anthem-anthempathwayxindppodirectaccessct","pid":"anthem","name":"Anthem Pathway X Ind PPO Direct Access CT","categories":["medical"]},{"uid":"anthem-anthempathwayxtierhosphealthkeepersdirectaccessva","pid":"anthem","name":"Anthem Pathway X Tier Hosp HealthKeepers DirectAccess VA","categories":["medical"]},{"uid":"anthem-anthemppo","pid":"anthem","name":"Anthem PPO","categories":["medical"]},{"uid":"anthem-anthemppocenturypreferredct","pid":"anthem","name":"Anthem PPO Century Preferred - CT","categories":["medical"]},{"uid":"anthem-anthemwibluepriorityxindivdirectaccess","pid":"anthem","name":"Anthem WI Blue Priority XIndiv DirectAccess","categories":["medical"]},{"uid":"anthembluecrossblueshield-bronzedirectaccessplusgjqa","pid":"anthembluecrossblueshield","name":"Bronze DirectAccess Plus - gjqa","categories":["medical"]},{"uid":"anthembluecrossblueshield-golddirectaccesspluswhsa","pid":"anthembluecrossblueshield","name":"Gold DirectAccess Plus with HSA","categories":["medical"]},{"uid":"assurant-assurantdha","pid":"assurant","name":"Assurant DHA","categories":["medical"]},{"uid":"assurant-assurantdhapremier","pid":"assurant","name":"Assurant DHA Premier","categories":["medical"]},{"uid":"aultcare-aultcareppo","pid":"aultcare","name":"Aultcare PPO","categories":["medical"]},{"uid":"bcbsbluecard-bcbsbluecardppo","pid":"bcbsbluecard","name":"BCBS Blue Card PPO","categories":["medical"]},{"uid":"bcbsflorida-floridablueblueoptionshix","pid":"bcbsflorida","name":"Florida Blue - BlueOptions - HIX","categories":["medical"]},{"uid":"bcbsminnesota-bcbsmnbluecrossaccord","pid":"bcbsminnesota","name":"BCBS MN Blue Cross Accord","categories":["medical"]},{"uid":"bcbstexas-bcbstxblueadvantagehmohix","pid":"bcbstexas","name":"Blue Advantage - HMO - HIX","categories":["medical"]},{"uid":"bluecrossbluesheildofalabama-bcbsalppo","pid":"bluecrossbluesheildofalabama","name":"BCBS AL PPO","categories":["medical"]},{"uid":"bluecrossblueshieldofarizona-bcbsazalliance","pid":"bluecrossblueshieldofarizona","name":"BCBS AZ Alliance","categories":["medical"]},{"uid":"bluecrossblueshieldofflorida-floridabluebluecarehmo","pid":"bluecrossblueshieldofflorida","name":"Florida Blue BlueCare HMO","categories":["medical"]},{"uid":"bluecrossblueshieldofflorida-floridablueblueoptions","pid":"bluecrossblueshieldofflorida","name":"Florida Blue BlueOptions","categories":["medical"]},{"uid":"bluecrossblueshieldofflorida-floridablueblueselect","pid":"bluecrossblueshieldofflorida","name":"Florida Blue BlueSelect","categories":["medical"]},{"uid":"bluecrossblueshieldofflorida-floridabluenetworkblue","pid":"bluecrossblueshieldofflorida","name":"Florida Blue NetworkBlue","categories":["medical"]},{"uid":"bluecrossblueshieldofgeorgia-bcbsgabluechoicehmo","pid":"bluecrossblueshieldofgeorgia","name":"BCBS GA Blue Choice HMO","categories":["medical"]},{"uid":"bluecrossblueshieldofgeorgia-bcbsgabluechoiceoptionpos","pid":"bluecrossblueshieldofgeorgia","name":"BCBS GA BlueChoice Option POS","categories":["medical"]},{"uid":"bluecrossblueshieldofgeorgia-bcbsgabluechoiceppo","pid":"bluecrossblueshieldofgeorgia","name":"BCBS GA Blue Choice PPO","categories":["medical"]},{"uid":"bluecrossblueshieldofgeorgia-bcbsgablueopenaccesspos","pid":"bluecrossblueshieldofgeorgia","name":"BCBS GA Blue Open Access POS","categories":["medical"]},{"uid":"bluecrossblueshieldofgeorgia-bcbsgadirectaccesswhsa","pid":"bluecrossblueshieldofgeorgia","name":"BCBS GA Direct Access wHSA","categories":["medical"]},{"uid":"bluecrossblueshieldofillinois-bcbsilblueadvantagehmo","pid":"bluecrossblueshieldofillinois","name":"BCBS IL Blue Advantage HMO","categories":["medical"]},{"uid":"bluecrossblueshieldofillinois-bcbsilbluechoiceselect","pid":"bluecrossblueshieldofillinois","name":"BCBS IL BlueChoice Select","categories":["medical"]},{"uid":"bluecrossblueshieldofillinois-bcbsilblueprecisionhmo","pid":"bluecrossblueshieldofillinois","name":"BCBS IL Blue Precision HMO","categories":["medical"]},{"uid":"bluecrossblueshieldofillinois-bcbsilhmoillinois","pid":"bluecrossblueshieldofillinois","name":"BCBS IL HMO Illinois","categories":["medical"]},{"uid":"bluecrossblueshieldofillinois-bcbsilppo","pid":"bluecrossblueshieldofillinois","name":"BCBS IL PPO","categories":["medical"]},{"uid":"bluecrossblueshieldofkansascity-bcbskcpreferredcareblueppo","pid":"bluecrossblueshieldofkansascity","name":"BCBS KC Preferred-Care Blue PPO","categories":["medical"]},{"uid":"bluecrossblueshieldoflouisiana-bcbslablueconnecthmopos","pid":"bluecrossblueshieldoflouisiana","name":"BCBS LA BlueConnect HMOPOS","categories":["medical"]},{"uid":"bluecrossblueshieldoflouisiana-bcbslacommunitybluehmopos","pid":"bluecrossblueshieldoflouisiana","name":"BCBS LA Community Blue HMOPOS","categories":["medical"]},{"uid":"bluecrossblueshieldofmassachusetts-bcbsmabluecareelectppo","pid":"bluecrossblueshieldofmassachusetts","name":"BCBS MA Blue Care Elect PPO","categories":["medical"]},{"uid":"bluecrossblueshieldofmassachusetts-bcbsmahmobluewithmanagedcarebehavioralhealth","pid":"bluecrossblueshieldofmassachusetts","name":"BCBS MA HMO Blue with Managed Care Behavioral Health","categories":["medical"]},{"uid":"bluecrossblueshieldofmassachusetts-bcbsmapreferredblueppo","pid":"bluecrossblueshieldofmassachusetts","name":"BCBS MA Preferred Blue PPO","categories":["medical"]},{"uid":"bluecrossblueshieldofmichigan-bcbsmibluecarenetwork","pid":"bluecrossblueshieldofmichigan","name":"BCBS MI Blue Care Network","categories":["medical"]},{"uid":"bluecrossblueshieldofmichigan-bcbsmibluecarenetworkpcpfocusnetwork","pid":"bluecrossblueshieldofmichigan","name":"BCBS MI Blue Care Network PCP Focus Network","categories":["medical"]},{"uid":"bluecrossblueshieldofmichigan-bcbsmippoplansgroupemployees","pid":"bluecrossblueshieldofmichigan","name":"BCBS MI PPO Plans - Group Employees","categories":["medical"]},{"uid":"bluecrossblueshieldofnewmexico-bcbsnmpponm","pid":"bluecrossblueshieldofnewmexico","name":"BCBS NM PPO NM","categories":["medical"]},{"uid":"bluecrossblueshieldofoklahoma-bcbsokbluechoice","pid":"bluecrossblueshieldofoklahoma","name":"BCBS OK BlueChoice","categories":["medical"]},{"uid":"bluecrossblueshieldofrhodeisland-bcbsrihealthmatecoasttocoast","pid":"bluecrossblueshieldofrhodeisland","name":"BCBS RI HealthMate Coast-to-Coast","categories":["medical"]},{"uid":"bluecrossblueshieldoftennessee-bcbstnbluenetworke","pid":"bluecrossblueshieldoftennessee","name":"BCBS TN Blue Network E","categories":["medical"]},{"uid":"bluecrossblueshieldoftennessee-bcbstnnetworks","pid":"bluecrossblueshieldoftennessee","name":"BCBS TN Network S","categories":["medical"]},{"uid":"bluecrossblueshieldoftexas-bcbsncblueoptionsgroupppo","pid":"bluecrossblueshieldoftexas","name":"BCBS NC BlueOptions Group PPO","categories":["medical"]},{"uid":"bluecrossblueshieldoftexas-bcbstxblueadvantagehmo","pid":"bluecrossblueshieldoftexas","name":"BCBS TX Blue Advantage HMO","categories":["medical"]},{"uid":"bluecrossblueshieldoftexas-bcbstxbluechoice","pid":"bluecrossblueshieldoftexas","name":"BCBS TX BlueChoice","categories":["medical"]},{"uid":"bluecrossblueshieldofwyoming-bcbswybluechoicepersonal","pid":"bluecrossblueshieldofwyoming","name":"BCBS WY BlueChoice Personal","categories":["medical"]},{"uid":"bluecrosscalifornia-bluecrosscaadvantageppopreferreddirectaccessplus","pid":"bluecrosscalifornia","name":"Blue Cross CA Advantage PPO Preferred DirectAccess Plus","categories":["medical"]},{"uid":"bluecrosscalifornia-bluecrosscacaliforniacarehmo","pid":"bluecrosscalifornia","name":"Blue Cross CA CaliforniaCare HMO","categories":["medical"]},{"uid":"bluecrosscalifornia-bluecrosscapathwayxhmoguidedaccess","pid":"bluecrosscalifornia","name":"Blue Cross CA Pathway X HMO Guided Access","categories":["medical"]},{"uid":"bluecrosscalifornia-bluecrosscapathwayxppodirectaccess","pid":"bluecrosscalifornia","name":"Blue Cross CA Pathway X PPO Direct Access","categories":["medical"]},{"uid":"bluecrosscalifornia-bluecrosscapathwayxtiereddirectaccess","pid":"bluecrosscalifornia","name":"Blue Cross CA Pathway X Tiered Direct Access","categories":["medical"]},{"uid":"bluecrosscalifornia-bluecrosscapowerselecthmo","pid":"bluecrosscalifornia","name":"Blue Cross CA PowerSelect HMO","categories":["medical"]},{"uid":"bluecrosscalifornia-bluecrosscappo","pid":"bluecrosscalifornia","name":"Blue Cross CA PPO","categories":["medical"]},{"uid":"bluecrosscalifornia-bluecrosscapriorityselecthmo","pid":"bluecrosscalifornia","name":"Blue Cross CA Priority Select HMO","categories":["medical"]},{"uid":"bluecrosscalifornia-bluecrosscaselectplushmo","pid":"bluecrosscalifornia","name":"Blue Cross CA Select Plus HMO","categories":["medical"]},{"uid":"bluecrosscalifornia-bluecrosscaselectppo","pid":"bluecrosscalifornia","name":"Blue Cross CA Select PPO","categories":["medical"]},{"uid":"bluecrossidaho-bluecrossidppo","pid":"bluecrossidaho","name":"Blue Cross ID PPO","categories":["medical"]},{"uid":"bluegrassfamilyhealth-bluegrassfamilyhealthppo","pid":"bluegrassfamilyhealth","name":"Bluegrass Family Health PPO","categories":["medical"]},{"uid":"blueshieldofcalifornia-blueshieldcaaccessplushmo","pid":"blueshieldofcalifornia","name":"Blue Shield CA Access Plus HMO","categories":["medical"]},{"uid":"blueshieldofcalifornia-blueshieldcaaccessplussavenet","pid":"blueshieldofcalifornia","name":"Blue Shield CA Access Plus Savenet","categories":["medical"]},{"uid":"blueshieldofcalifornia-blueshieldcabasicepo","pid":"blueshieldofcalifornia","name":"Blue Shield CA Basic EPO","categories":["medical"]},{"uid":"blueshieldofcalifornia-blueshieldcabasicepobronzelevelhix","pid":"blueshieldofcalifornia","name":"Basic EPO - Bronze level HIX","categories":["medical"]},{"uid":"blueshieldofcalifornia-blueshieldcabasicexclusiveppoforsmallbusiness","pid":"blueshieldofcalifornia","name":"Blue Shield CA Basic Exclusive PPO for Small Business","categories":["medical"]},{"uid":"blueshieldofcalifornia-blueshieldcabasicppo","pid":"blueshieldofcalifornia","name":"Blue Shield CA Basic PPO","categories":["medical"]},{"uid":"blueshieldofcalifornia-blueshieldcabasicppobronzelevelhix","pid":"blueshieldofcalifornia","name":"Basic PPO - Bronze level HIX","categories":["medical"]},{"uid":"blueshieldofcalifornia-blueshieldcaenhancedexclusivehmoforsmallbusiness","pid":"blueshieldofcalifornia","name":"Blue Shield CA Enhanced Exclusive HMO for Small Business","categories":["medical"]},{"uid":"blueshieldofcalifornia-blueshieldcalocalaccessplushmo","pid":"blueshieldofcalifornia","name":"Blue Shield CA Local Access Plus HMO","categories":["medical"]},{"uid":"blueshieldofcalifornia-blueshieldcappo","pid":"blueshieldofcalifornia","name":"Blue Shield CA PPO","categories":["medical"]},{"uid":"blueshieldofcalifornia-bscaplatinum90epo","pid":"blueshieldofcalifornia","name":"BS CA Platinum 90 EPO","categories":["medical"]},{"uid":"blueshieldofcalifornia-bscatrioacohmo","pid":"blueshieldofcalifornia","name":"BS CA Trio ACO HMO","categories":["medical"]},{"uid":"bridgespan-bridgespanhix","pid":"bridgespan","name":"Bridgespan - HIX","categories":["medical"]},{"uid":"buckeyecommunityhealthplan-ambetterfrombuckeyecommunityhealthplanhix","pid":"buckeyecommunityhealthplan","name":"Ambetter from Buckeye Community Health Plan HIX","categories":["medical"]},{"uid":"capitalbluecross-capitalbckeystonehealthplancentralhmo","pid":"capitalbluecross","name":"Capital BC Keystone Health Plan Central HMO","categories":["medical"]},{"uid":"capitalbluecross-capitalbcppo","pid":"capitalbluecross","name":"Capital BC PPO","categories":["medical"]},{"uid":"capitaldistrictphysicianshealthplan-cdphphmo","pid":"capitaldistrictphysicianshealthplan","name":"CDPHP HMO","categories":["medical"]},{"uid":"capitaldistrictphysicianshealthplan-cdphpppo","pid":"capitaldistrictphysicianshealthplan","name":"CDPHP PPO","categories":["medical"]},{"uid":"carefirstbluecrossblueshield-carefirstbluechoiceadvantage","pid":"carefirstbluecrossblueshield","name":"CareFirst BlueChoice Advantage","categories":["medical"]},{"uid":"carefirstbluecrossblueshield-carefirstbluechoicentwkpos","pid":"carefirstbluecrossblueshield","name":"CareFirst BlueChoice Ntwk POS","categories":["medical"]},{"uid":"carefirstbluecrossblueshield-carefirstbluepreferredppo","pid":"carefirstbluecrossblueshield","name":"CareFirst BluePreferred PPO","categories":["medical"]},{"uid":"carefirstbluecrossblueshield-carefirstmarylandpos","pid":"carefirstbluecrossblueshield","name":"CareFirst Maryland POS","categories":["medical"]},{"uid":"chinesecommunityhealthplan-chinesecommunityhealthplan","pid":"chinesecommunityhealthplan","name":"Chinese Community Health Plan","categories":["medical"]},{"uid":"cigna-cignahmo","pid":"cigna","name":"CIGNA HMO","categories":["medical"]},{"uid":"cigna-cignalocalplus","pid":"cigna","name":"CIGNA LocalPlus","categories":["medical"]},{"uid":"cigna-cignaopenaccessplus","pid":"cigna","name":"CIGNA Open Access Plus","categories":["medical"]},{"uid":"cigna-cignappo","pid":"cigna","name":"CIGNA PPO","categories":["medical"]},{"uid":"cofinity-cofinityppo","pid":"cofinity","name":"Cofinity PPO","categories":["medical"]},{"uid":"communitycarehealthcenters-communitycareplusposstandardnetwork","pid":"communitycarehealthcenters","name":"CommunityCare Plus POS Standard Network","categories":["medical"]},{"uid":"communitycarehealthcenters-communitycareppostandardnetwork","pid":"communitycarehealthcenters","name":"CommunityCare PPO Standard Network","categories":["medical"]},{"uid":"compbenefitscorporation-compbenefitsadvantageplusplans","pid":"compbenefitscorporation","name":"CompBenefits AdvantagePlus Plans","categories":["medical"]},{"uid":"compbenefitscorporation-compbenefitsppo","pid":"compbenefitscorporation","name":"CompBenefits PPO","categories":["medical"]},{"uid":"connecticare-connecticareflexpos","pid":"connecticare","name":"Connecticare FlexPOS","categories":["medical"]},{"uid":"connecticare-connecticarehmoopenaccess","pid":"connecticare","name":"Connecticare HMO Open Access","categories":["medical"]},{"uid":"coventryhealthcare-carelinkppowv","pid":"coventryhealthcare","name":"CareLink PPO - WV","categories":["medical"]},{"uid":"coventryhealthcare-coventrycarelinkhmofl","pid":"coventryhealthcare","name":"Coventry Carelink HMO FL","categories":["medical"]},{"uid":"coventryhealthcare-coventrycarelinkhmohix","pid":"coventryhealthcare","name":"Coventry Carelink - HMO  HIX","categories":["medical"]},{"uid":"coventryhealthcare-coventryemployergrouphmoopenaccessfl","pid":"coventryhealthcare","name":"Coventry Employer Group HMOOpen Access - FL","categories":["medical"]},{"uid":"coventryhealthcare-coventryemployergroupppofl","pid":"coventryhealthcare","name":"Coventry Employer Group PPO - FL","categories":["medical"]},{"uid":"coventryhealthcare-coventryfreedomppook","pid":"coventryhealthcare","name":"Coventry Freedom PPO - OK","categories":["medical"]},{"uid":"coventryhealthcare-coventryhealthamericahmo","pid":"coventryhealthcare","name":"Coventry HealthAmerica HMO","categories":["medical"]},{"uid":"coventryhealthcare-coventryhealthamericappo","pid":"coventryhealthcare","name":"Coventry HealthAmerica PPO","categories":["medical"]},{"uid":"coventryhealthcare-coventryhealthcareofnevadappo","pid":"coventryhealthcare","name":"Coventry Health Care of Nevada PPO","categories":["medical"]},{"uid":"coventryhealthcare-coventryhealthcareofvahmo","pid":"coventryhealthcare","name":"Coventry Health Care of VA HMO","categories":["medical"]},{"uid":"coventryhealthcare-coventryhealthlifeilppo","pid":"coventryhealthcare","name":"Coventry Health  Life IL - PPO","categories":["medical"]},{"uid":"coventryhealthcare-coventryiappo","pid":"coventryhealthcare","name":"Coventry IA - PPO","categories":["medical"]},{"uid":"coventryhealthcare-coventryilppo","pid":"coventryhealthcare","name":"Coventry IL - PPO","categories":["medical"]},{"uid":"coventryhealthcare-coventryilppoplatinum","pid":"coventryhealthcare","name":"Coventry IL - PPO Platinum","categories":["medical"]},{"uid":"coventryhealthcare-coventryksppo","pid":"coventryhealthcare","name":"Coventry KS - PPO","categories":["medical"]},{"uid":"coventryhealthcare-coventrylifehealthok","pid":"coventryhealthcare","name":"Coventry Life  Health OK","categories":["medical"]},{"uid":"coventryhealthcare-coventrymohmopos","pid":"coventryhealthcare","name":"Coventry MO - HMOPOS","categories":["medical"]},{"uid":"coventryhealthcare-coventrymoppo","pid":"coventryhealthcare","name":"Coventry MO - PPO","categories":["medical"]},{"uid":"coventryhealthcare-coventryneppo","pid":"coventryhealthcare","name":"Coventry NE - PPO","categories":["medical"]},{"uid":"coventryhealthcare-coventryonehmo","pid":"coventryhealthcare","name":"CoventryOne HMO","categories":["medical"]},{"uid":"coventryhealthcare-coventryonehmohix","pid":"coventryhealthcare","name":"CoventryOne - HMO  HIX","categories":["medical"]},{"uid":"coventryhealthcare-coventryppode","pid":"coventryhealthcare","name":"Coventry PPO - DE","categories":["medical"]},{"uid":"coventryhealthcare-coventryppotn","pid":"coventryhealthcare","name":"Coventry PPO - TN","categories":["medical"]},{"uid":"coventryhealthcare-coventrysouthernhealthppo","pid":"coventryhealthcare","name":"Coventry Southern Health PPO","categories":["medical"]},{"uid":"coventryhealthcare-coventryutpeakadvantage","pid":"coventryhealthcare","name":"Coventry UT Peak Advantage","categories":["medical"]},{"uid":"coventryhealthcare-coventrywellpathpreferredppo","pid":"coventryhealthcare","name":"Coventry Wellpath Preferred PPO","categories":["medical"]},{"uid":"emblemhealth-emblemhealthppoghi","pid":"emblemhealth","name":"EmblemHealth PPO GHI","categories":["medical"]},{"uid":"empirebcbs-empirehmo","pid":"empirebcbs","name":"Empire HMO","categories":["medical"]},{"uid":"empirebcbs-empirepathwayenhancedguidedaccess","pid":"empirebcbs","name":"Empire Pathway Enhanced Guided Access","categories":["medical"]},{"uid":"empirebcbs-empireppo","pid":"empirebcbs","name":"Empire PPO","categories":["medical"]},{"uid":"empirebcbs-empireprismepobluepriority","pid":"empirebcbs","name":"Empire Prism EPO - Blue Priority","categories":["medical"]},{"uid":"excellusbcbs-excellusblueppo","pid":"excellusbcbs","name":"Excellus BluePPO","categories":["medical"]},{"uid":"excellusbcbs-excellushmoblue","pid":"excellusbcbs","name":"Excellus HMOBlue","categories":["medical"]},{"uid":"firstchoice-firstchoice","pid":"firstchoice","name":"First Choice","categories":["medical"]},{"uid":"firsthealthcoventryhealthcare-firsthealthppo","pid":"firsthealthcoventryhealthcare","name":"First Health PPO","categories":["medical"]},{"uid":"geisingerhealthplan-geisingerhealthplan","pid":"geisingerhealthplan","name":"Geisinger Health Plan","categories":["medical"]},{"uid":"grouphealthcooperative-grouphealthcoopalliantplusconnect","pid":"grouphealthcooperative","name":"Group Health Coop Alliant PlusConnect","categories":["medical"]},{"uid":"grouphealthcooperative-grouphealthcoopcore","pid":"grouphealthcooperative","name":"Group Health Coop Core","categories":["medical"]},{"uid":"gundersenhealthplan-gundersenhealthplanselectnetwork","pid":"gundersenhealthplan","name":"Gundersen Health Plan Select Network","categories":["medical"]},{"uid":"gwhcigna-greatwestppo","pid":"gwhcigna","name":"Great West PPO","categories":["medical"]},{"uid":"hap-happpo","pid":"hap","name":"HAP PPO","categories":["medical"]},{"uid":"hap-happreferredppo","pid":"hap","name":"HAP Preferred PPO","categories":["medical"]},{"uid":"harvardpilgrim-harvardpilgrimppo","pid":"harvardpilgrim","name":"Harvard Pilgrim PPO","categories":["medical"]},{"uid":"healthalliance-healthalliancehmopos","pid":"healthalliance","name":"Health Alliance HMOPOS","categories":["medical"]},{"uid":"healthalliance-healthallianceppo","pid":"healthalliance","name":"Health Alliance PPO","categories":["medical"]},{"uid":"healthfirstny-healthfirstnyhmoabcd","pid":"healthfirstny","name":"Healthfirst NY HMO ABCD","categories":["medical"]},{"uid":"healthlink-healthlinkppo","pid":"healthlink","name":"HealthLink PPO","categories":["medical"]},{"uid":"healthnet-bluegoldhmo","pid":"healthnet","name":"Blue  Gold - HMO","categories":["medical"]},{"uid":"healthnet-healthnetazhmoexcelcarenetwork","pid":"healthnet","name":"Health Net AZ HMO ExcelCare Network","categories":["medical"]},{"uid":"healthnet-healthnetazppopos","pid":"healthnet","name":"Health Net AZ PPOPOS","categories":["medical"]},{"uid":"healthnet-healthnetcabluegoldhmo","pid":"healthnet","name":"Health Net CA Blue  Gold HMO","categories":["medical"]},{"uid":"healthnet-healthnetcacommunitycarenetworkhmo","pid":"healthnet","name":"Health Net CA CommunityCare Network HMO","categories":["medical"]},{"uid":"healthnet-healthnetcacoveredcaliforniapposmallgroup","pid":"healthnet","name":"Health Net CA Covered California PPO - Small Group","categories":["medical"]},{"uid":"healthnet-healthnetcahmoemployergroup","pid":"healthnet","name":"Health Net CA HMO Employer Group","categories":["medical"]},{"uid":"healthnet-healthnetcahmosmartcare","pid":"healthnet","name":"Health Net CA HMO SmartCare","categories":["medical"]},{"uid":"healthnet-healthnetcahmowholecarenetwork","pid":"healthnet","name":"Health Net CA HMO Whole Care Network","categories":["medical"]},{"uid":"healthnet-healthnetcaindividualfamilyppo","pid":"healthnet","name":"Health Net CA Individual  Family PPO","categories":["medical"]},{"uid":"healthnet-healthnetcalargegroupppo","pid":"healthnet","name":"Health Net CA Large Group PPO","categories":["medical"]},{"uid":"healthnet-healthnetcaprimaryepo","pid":"healthnet","name":"Health Net CA Primary EPO","categories":["medical"]},{"uid":"healthnet-healthnetcommunitycarenetworkhmohix","pid":"healthnet","name":"Health Net CommunityCare Network - HMO  HIX","categories":["medical"]},{"uid":"healthnet-healthnetindividualfamilyppohix","pid":"healthnet","name":"Health Net Individual  Family - PPO  HIX","categories":["medical"]},{"uid":"healthnet-healthnetorcommunitycare","pid":"healthnet","name":"Health Net OR CommunityCare","categories":["medical"]},{"uid":"healthnet-healthnetorppo","pid":"healthnet","name":"Health Net OR PPO","categories":["medical"]},{"uid":"healthnet-hmoexcelcaresilvernetwork","pid":"healthnet","name":"HMO - ExcelCare  Silver Network","categories":["medical"]},{"uid":"healthnet-hmoexcelcaresilvernetworkmedicarecob","pid":"healthnet","name":"HMO - ExcelCare  Silver Network Medicare COB","categories":["medical"]},{"uid":"healthnow-healthnowppo","pid":"healthnow","name":"HealthNow PPO","categories":["medical"]},{"uid":"healthplanofnevada-healthplanofnvhmonorthernnv","pid":"healthplanofnevada","name":"Health Plan of NV HMO - Northern NV","categories":["medical"]},{"uid":"healthplanofnevada-healthplanofnvhmoruralnv","pid":"healthplanofnevada","name":"Health Plan of NV HMO - Rural NV","categories":["medical"]},{"uid":"healthplanofnevada-healthplanofnvhmosouthernnv","pid":"healthplanofnevada","name":"Health Plan of NV HMO - Southern NV","categories":["medical"]},{"uid":"healthplusofmichigan-healthplushmo","pid":"healthplusofmichigan","name":"HealthPlus HMO","categories":["medical"]},{"uid":"healthspan-healthspanaccessppo","pid":"healthspan","name":"HealthSpan Access PPO","categories":["medical"]},{"uid":"highmarkbluecrossblueshield-highmarkcommunityblueppo","pid":"highmarkbluecrossblueshield","name":"Highmark Community Blue PPO","categories":["medical"]},{"uid":"highmarkbluecrossblueshield-highmarkppoblue","pid":"highmarkbluecrossblueshield","name":"Highmark PPOBlue","categories":["medical"]},{"uid":"hipofny-emblemhipselectppo","pid":"hipofny","name":"Emblem HIP Select PPO","categories":["medical"]},{"uid":"hmsa-hmsapreferredprovidercompmed","pid":"hmsa","name":"HMSA Preferred ProviderComp Med","categories":["medical"]},{"uid":"homestatehealthplan-homestatehealthplan","pid":"homestatehealthplan","name":"Homestate Health Plan","categories":["medical"]},{"uid":"horizonbcbs-horizonadvanceepo","pid":"horizonbcbs","name":"Horizon Advance EPO","categories":["medical"]},{"uid":"horizonbcbs-horizondirectaccess","pid":"horizonbcbs","name":"Horizon Direct Access","categories":["medical"]},{"uid":"horizonbcbs-horizonhmo","pid":"horizonbcbs","name":"Horizon HMO","categories":["medical"]},{"uid":"horizonbcbs-horizonpos","pid":"horizonbcbs","name":"Horizon POS","categories":["medical"]},{"uid":"horizonbcbs-horizonppo","pid":"horizonbcbs","name":"Horizon PPO","categories":["medical"]},{"uid":"humana-humanaatlantahmox","pid":"humana","name":"Humana Atlanta HMOx","categories":["medical"]},{"uid":"humana-humanaatlantahmoxhix","pid":"humana","name":"Atlanta - HMOx HIX","categories":["medical"]},{"uid":"humana-humanaaustinhmoxhix","pid":"humana","name":"Austin - HMOx HIX","categories":["medical"]},{"uid":"humana-humanachoicecarenetworkppo","pid":"humana","name":"Humana ChoiceCare Network PPO","categories":["medical"]},{"uid":"humana-humanacohmoxhix","pid":"humana","name":"Colorado - HMOx  HIX","categories":["medical"]},{"uid":"humana-humanacolumbusgahmox","pid":"humana","name":"Humana Columbus GA HMOx","categories":["medical"]},{"uid":"humana-humanacolumbusgahmoxhix","pid":"humana","name":"Columbus Georgia - HMOx HIX","categories":["medical"]},{"uid":"humana-humanagoldplushmo","pid":"humana","name":"Humana Gold Plus HMO","categories":["medical"]},{"uid":"humana-humanahmopremierhix","pid":"humana","name":"HMO - Premier HIX","categories":["medical"]},{"uid":"humana-humanahmoselect","pid":"humana","name":"Humana HMO Select","categories":["medical"]},{"uid":"humana-humanahoustonhmox","pid":"humana","name":"Humana Houston HMOx","categories":["medical"]},{"uid":"humana-humanaphoenixhmox","pid":"humana","name":"Humana Phoenix HMOx","categories":["medical"]},{"uid":"humana-humanapreferredppo","pid":"humana","name":"Humana Preferred PPO","categories":["medical"]},{"uid":"humana-humanariograndeepoxhix","pid":"humana","name":"Rio Grande - EPOx HIX","categories":["medical"]},{"uid":"humana-humanasanantoniohmoxhix","pid":"humana","name":"San Antonio - HMOx HIX","categories":["medical"]},{"uid":"humana-humanasouthfloridahumxhmox","pid":"humana","name":"Humana South Florida HUMx HMOx","categories":["medical"]},{"uid":"humana-humanasouthfloridahumxhmoxhix","pid":"humana","name":"South Florida - HUMx HMOx HIX","categories":["medical"]},{"uid":"humana-humanatampabaycorenet","pid":"humana","name":"Humana Tampa Bay CoreNet","categories":["medical"]},{"uid":"humana-humanatampabayhumxhmox","pid":"humana","name":"Humana Tampa Bay HUMx HMOx","categories":["medical"]},{"uid":"humana-humanatampabayhumxhmoxhix","pid":"humana","name":"Tampa Bay - HUMx HMOx HIX","categories":["medical"]},{"uid":"humana-humanatucsonhmox","pid":"humana","name":"Humana Tucson HMOx","categories":["medical"]},{"uid":"humana-humanawacohmoxhix","pid":"humana","name":"Waco - HMOx HIX","categories":["medical"]},{"uid":"ibcamerihealth-amerihealthlocalvaluenetworkepoposppohix","pid":"ibcamerihealth","name":"AmeriHealth Local Value Network - EPO POS PPO HIX","categories":["medical"]},{"uid":"ibcamerihealth-amerihealthlocalvaluenetworkhmohmoposhix","pid":"ibcamerihealth","name":"AmeriHealth Local Value Network - HMO HMO POS HIX","categories":["medical"]},{"uid":"ibcamerihealth-amerihealthregionalprefntwkepoposppohix","pid":"ibcamerihealth","name":"AmeriHealth Regional Pref Network - EPO POS PPO HIX","categories":["medical"]},{"uid":"ibcamerihealth-amerihealthregionalprefntwkhmohmoposhix","pid":"ibcamerihealth","name":"AmeriHealth Regional Pref Network - HMO HMO POS HIX","categories":["medical"]},{"uid":"independencebluecross-ibckeystonehmopos","pid":"independencebluecross","name":"IBC Keystone HMO  POS","categories":["medical"]},{"uid":"independencebluecross-ibcpersonalchoiceppo","pid":"independencebluecross","name":"IBC Personal Choice PPO","categories":["medical"]},{"uid":"independenthealthassociation-independenthealthencompasshmo","pid":"independenthealthassociation","name":"Independent Health Encompass HMO","categories":["medical"]},{"uid":"independenthealthassociation-independenthealthflexfithmo","pid":"independenthealthassociation","name":"Independent Health FlexFit HMO","categories":["medical"]},{"uid":"kaisermidatlantic-kaiserpermanentemidatlantic","pid":"kaisermidatlantic","name":"Kaiser Permanente Mid-Atlantic","categories":["medical"]},{"uid":"kaiserpermanente-kaiserpermanente","pid":"kaiserpermanente","name":"Kaiser Permanente","categories":["medical"]},{"uid":"lacarehealth-lacare","pid":"lacarehealth","name":"LACare","categories":["medical"]},{"uid":"lacarehealth-lacarecoveredhix","pid":"lacarehealth","name":"LACare Covered - HIX","categories":["medical"]},{"uid":"lifewisehealthplanoforegon-lifewisehealthplanoforegon","pid":"lifewisehealthplanoforegon","name":"Lifewise Health Plan of Oregon","categories":["medical"]},{"uid":"magnacare-magnacareextrahealthrepublichix","pid":"magnacare","name":"Extra Health Republic - HIX","categories":["medical"]},{"uid":"magnacare-magnacareppo","pid":"magnacare","name":"MagnaCare PPO","categories":["medical"]},{"uid":"medicaid-medicaid","pid":"medicaid","name":"Medicaid","categories":["medical"]},{"uid":"medicalmutualofohio-mmohsupermedplus","pid":"medicalmutualofohio","name":"MMOH SuperMed Plus","categories":["medical"]},{"uid":"medicalmutualofohio-mmohsupermedpos","pid":"medicalmutualofohio","name":"MMOH SuperMed POS","categories":["medical"]},{"uid":"medicare-medicare","pid":"medicare","name":"Medicare","categories":["medical"]},{"uid":"metlife-metlifehmo","pid":"metlife","name":"MetLife HMO","categories":["medical"]},{"uid":"mhealthinsured-mhealthinsured","pid":"mhealthinsured","name":"MHealth Insured","categories":["medical"]},{"uid":"mhsindiana-ambetterfrommhshix","pid":"mhsindiana","name":"Ambetter from MHS HIX","categories":["medical"]},{"uid":"molinahealthcare-molinamrktplaceca","pid":"molinahealthcare","name":"Molina Marketplace CA","categories":["medical"]},{"uid":"molinahealthcare-molinamrktplacecahix","pid":"molinahealthcare","name":"Molina Marketplace - California - HIX","categories":["medical"]},{"uid":"multiplan-multiplanppo","pid":"multiplan","name":"Multiplan PPO","categories":["medical"]},{"uid":"multiplan-phcsppo","pid":"multiplan","name":"PHCS PPO","categories":["medical"]},{"uid":"multiplan-phcsppokaiser","pid":"multiplan","name":"PHCS PPO - Kaiser","categories":["medical"]},{"uid":"mvphealthplan-mvphmo","pid":"mvphealthplan","name":"MVP HMO","categories":["medical"]},{"uid":"mvphealthplan-mvppreferredppo","pid":"mvphealthplan","name":"MVP Preferred PPO","categories":["medical"]},{"uid":"odshealthplan-odsnetwork","pid":"odshealthplan","name":"ODS Network","categories":["medical"]},{"uid":"oxfordhealth-oxfordfreedom","pid":"oxfordhealth","name":"Oxford Freedom","categories":["medical"]},{"uid":"oxfordhealth-oxfordliberty","pid":"oxfordhealth","name":"Oxford Liberty","categories":["medical"]},{"uid":"pacificsourcehealthplans-pacificsourcepreferredpsn","pid":"pacificsourcehealthplans","name":"PacificSource Preferred PSN","categories":["medical"]},{"uid":"paramount-paramountohiohmopico","pid":"paramount","name":"Paramount Ohio HMO PICO","categories":["medical"]},{"uid":"premerabcbs-lifewiseconnecthix","pid":"premerabcbs","name":"LifeWise Connect - HIX","categories":["medical"]},{"uid":"premerabcbs-premeraheritagesignaturehix","pid":"premerabcbs","name":"Premera Heritage Signature - HIX","categories":["medical"]},{"uid":"premerabluecross-premeraheritageheritageplus1","pid":"premerabluecross","name":"Premera Heritage  Heritage Plus 1","categories":["medical"]},{"uid":"premerabluecross-premeraheritagesignature","pid":"premerabluecross","name":"Premera Heritage Signature","categories":["medical"]},{"uid":"premerabluecross-premeralifewiseconnect","pid":"premerabluecross","name":"Premera LifeWise Connect","categories":["medical"]},{"uid":"presbyterianhealthcareservices-presbyteriancommercial","pid":"presbyterianhealthcareservices","name":"Presbyterian Commercial","categories":["medical"]},{"uid":"priorityhealth-priorityhealthhmo","pid":"priorityhealth","name":"PriorityHealth HMO","categories":["medical"]},{"uid":"priorityhealth-priorityhealthpriorityppo","pid":"priorityhealth","name":"PriorityHealth Priority PPO","categories":["medical"]},{"uid":"providencehealthsystem-providencepersonaloption","pid":"providencehealthsystem","name":"Providence Personal Option","categories":["medical"]},{"uid":"providencehealthsystem-providencepreferredppo","pid":"providencehealthsystem","name":"Providence Preferred PPO","categories":["medical"]},{"uid":"qualcare-qualcarehmo","pid":"qualcare","name":"QualCare HMO","categories":["medical"]},{"uid":"qualcare-qualcareppo","pid":"qualcare","name":"QualCare PPO","categories":["medical"]},{"uid":"qualchoice-qualchoiceppo","pid":"qualchoice","name":"Qualchoice PPO","categories":["medical"]},{"uid":"regencebluecrossblueshieldoforegon-regenceorpreferredprovidernetwork","pid":"regencebluecrossblueshieldoforegon","name":"Regence OR Preferred Provider Network","categories":["medical"]},{"uid":"regenceblueshieldofidaho-regenceidpreferredprovidernetwork","pid":"regenceblueshieldofidaho","name":"Regence ID Preferred Provider Network","categories":["medical"]},{"uid":"regenceblueshieldofwashinton-regencewapreferredprovidernetwork","pid":"regenceblueshieldofwashinton","name":"Regence WA Preferred Provider Network","categories":["medical"]},{"uid":"rockymountainhealthplans-rockymountainsummitgroup","pid":"rockymountainhealthplans","name":"Rocky Mountain Summit Group","categories":["medical"]},{"uid":"sagamorehealthnetwork-sagamoreplus","pid":"sagamorehealthnetwork","name":"Sagamore Plus","categories":["medical"]},{"uid":"scottandwhite-scottandwhiteppo","pid":"scottandwhite","name":"Scott and White PPO","categories":["medical"]},{"uid":"sharphealthplan-sharpbluechoice","pid":"sharphealthplan","name":"Sharp Blue Choice","categories":["medical"]},{"uid":"sharphealthplan-sharpgoldvalue","pid":"sharphealthplan","name":"Sharp Gold Value","categories":["medical"]},{"uid":"sharphealthplan-sharphealthperformance","pid":"sharphealthplan","name":"Sharp Health Performance","categories":["medical"]},{"uid":"sharphealthplan-sharphealthperformancehix","pid":"sharphealthplan","name":"Sharp Health Performance - HIX","categories":["medical"]},{"uid":"sharphealthplan-sharphealthpremier","pid":"sharphealthplan","name":"Sharp Health Premier","categories":["medical"]},{"uid":"sharphealthplan-sharphealthpremierhix","pid":"sharphealthplan","name":"Sharp Health Premier - HIX","categories":["medical"]},{"uid":"sierrahealth-sierrahealthnorthernnevadappo","pid":"sierrahealth","name":"Sierra Health Northern Nevada PPO","categories":["medical"]},{"uid":"sierrahealth-sierrahealthsouthernnevadappo","pid":"sierrahealth","name":"Sierra Health Southern Nevada PPO","categories":["medical"]},{"uid":"spectrumhealth-spectrumhealth","pid":"spectrumhealth","name":"Spectrum Health","categories":["medical"]},{"uid":"totalhealthplan-totalhealthplanemployersponsoredhmo","pid":"totalhealthplan","name":"Total Health Plan Employer Sponsored HMO","categories":["medical"]},{"uid":"tuftshealthplan-tuftsppo","pid":"tuftshealthplan","name":"Tufts PPO","categories":["medical"]},{"uid":"uhcoftherivervalley-neighborhoodhealthpartnershipcommercial","pid":"uhcoftherivervalley","name":"Neighborhood Health Partnership - Commercial","categories":["medical"]},{"uid":"uhcwestformerlypacificare-pacificarehmo","pid":"uhcwestformerlypacificare","name":"Pacificare HMO","categories":["medical"]},{"uid":"uhcwestformerlypacificare-uhcwestsignaturevalueadvantagehmovaluenetwork","pid":"uhcwestformerlypacificare","name":"UHC West SignatureValue Advantage HMO Value Network","categories":["medical"]},{"uid":"uhcwestformerlypacificare-uhcwestsignaturevaluealliance","pid":"uhcwestformerlypacificare","name":"UHC West SignatureValue Alliance","categories":["medical"]},{"uid":"unitedconcordia-unitedconcordiaadvantageplusppo","pid":"unitedconcordia","name":"United Concordia Advantage Plus PPO","categories":["medical"]},{"uid":"unitedconcordia-unitedconcordianationalfeeforservice","pid":"unitedconcordia","name":"United Concordia National Fee-For-Service","categories":["medical"]},{"uid":"unitedhealthcare-uhcchoicepluspos","pid":"unitedhealthcare","name":"UHC Choice Plus POS","categories":["medical"]},{"uid":"unitedhealthcare-uhcmedicachoice","pid":"unitedhealthcare","name":"UHC Medica Choice","categories":["medical"]},{"uid":"unitedhealthcare-uhcnavigatehmo","pid":"unitedhealthcare","name":"UHC Navigate HMO","categories":["medical"]},{"uid":"unitedhealthcare-uhcnavigatepos","pid":"unitedhealthcare","name":"UHC Navigate POS","categories":["medical"]},{"uid":"unitedhealthcare-uhcoptionsppo","pid":"unitedhealthcare","name":"UHC Options PPO","categories":["medical"]},{"uid":"unityhealthinsurance-unityhealthinsunitynetwork","pid":"unityhealthinsurance","name":"Unity Health Ins Unity Network","categories":["medical"]},{"uid":"wellmarkbluecrossandblueshield-wellmarkallianceselect","pid":"wellmarkbluecrossandblueshield","name":"Wellmark Alliance Select","categories":["medical"]},{"uid":"westernhealthadvantage-westernhealthadvantage","pid":"westernhealthadvantage","name":"Western Health Advantage","categories":["medical"]},{"uid":"wisconsinphysiciansserviceinsurancecorporation-wps","pid":"wisconsinphysiciansserviceinsurancecorporation","name":"WPS","categories":["medical"]},{"uid":"anthem-blueviewvision","pid":"anthem","name":"Blue View Vision","categories":["vision"]},{"uid":"cigna-vision","pid":"cigna","name":"Vision","categories":["vision"]},{"uid":"vsp-vsp","pid":"vsp","name":"VSP","categories":["vision"]}]);
+<!DOCTYPE html><html lang="en" class="  wf-inactive"><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <style type="text/css">
+a,
+input {
+  touch-action: manipulation;
 }
-</script>
 
-<script>
-if (window.bd && bd.session) {
-bd.session.set('currentLocation', '37.7697,-122.3933');
+body {
+  margin: 0;
 }
-(function() {
-  window._pa = window._pa || {};
-  var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
-  pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/53ac962fbe7e7e72fb00004c.js";
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
-})();
-window_kiq = window._kiq || [];
-(function(){
-  setTimeout(function(){
-    var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
-    s.async = true; s.src = '//s3.amazonaws.com/ki.js/54640/bYA.js'; f.parentNode.insertBefore(s, f);
-  }, 1);
-})();
 
-</script>
-<script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js"></script>
-<style type="text/css" media="screen, projection">
-  @import url(//assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
-</style>
-<script type="text/javascript">
-  if (typeof(Zenbox) !== "undefined") {
-    Zenbox.init({
-      dropboxID:   "20179349",
-      url:         "https://betterdoctor.zendesk.com",
-      tabTooltip:  "Feedback",
-      tabImageURL: "https://p4.zdassets.com/external/zenbox/images/tab_feedback_right.png",
-      tabColor:    "#676767",
-      tabPosition: "Right"
-    });
+img {
+  max-width: 100%;
+}
+
+input {
+  font-family: inherit;
+  font-size: 1rem;
+  box-sizing: border-box;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+input[type=email] {
+  height: 2.25rem;
+  padding: .5rem .5rem;
+  vertical-align: middle;
+  -webkit-appearance: none;
+}
+
+body {
+  font-family: 'Helvetica Neue',Helvetica,sans-serif;
+  line-height: 1.5;
+  font-size: 100%;
+}
+
+h2 {
+  font-family: 'Helvetica Neue',Helvetica,sans-serif;
+  font-weight: bold;
+  line-height: 1.25;
+  margin-top: 1em;
+  margin-bottom: .5em;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+body {
+  color: #111;
+  background-color: #fff;
+}
+
+a {
+  color: #0074d9;
+  text-decoration: none;
+}
+
+.center {
+  text-align: center;
+}
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.mb2 {
+  margin-bottom: 1rem;
+}
+
+.mt3 {
+  margin-top: 2rem;
+}
+
+.mb3 {
+  margin-bottom: 2rem;
+}
+
+.mb4 {
+  margin-bottom: 4rem;
+}
+
+.mxn3 {
+  margin-left: -2rem;
+  margin-right: -2rem;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.py1 {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+
+.px2 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.py3 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.px3 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+@media (max-width:52em) {
+  .mt3 {
+    margin-top: 1rem;
   }
+
+  .mb3 {
+    margin-bottom: 1rem;
+  }
+}
+
+@media (max-width:52em) {
+  .mb4 {
+    margin-bottom: 2rem;
+  }
+}
+
+.container {
+  max-width: 64em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.col {
+  float: left;
+  box-sizing: border-box;
+}
+
+.col-12 {
+  width: 100%;
+}
+
+@media (min-width:40em) {
+  .sm-col-12 {
+    width: 100%;
+  }
+}
+
+@media (min-width:52em) {
+  .md-col-12 {
+    width: 100%;
+  }
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: 'proxima-nova','Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-weight: 200;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #fff;
+  font-family: 'proxima-nova','Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-weight: 200;
+  line-height: 1.6rem;
+  color: #333;
+  letter-spacing: .5px;
+  font-style: normal;
+  font-size: 1rem;
+}
+
+div.ccm-page {
+  position: relative;
+}
+
+div.ccm-page h2 {
+  margin-top: 0;
+  font-family: 'proxima-nova','Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-weight: 600;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+}
+
+div.ccm-page h2 {
+  font-size: 1.6rem;
+  letter-spacing: .08rem;
+}
+
+div.ccm-page p {
+  font-family: 'proxima-nova','Helvetica Neue',Helvetica,Arial,sans-serif;
+  line-height: 1.5em;
+  letter-spacing: .5px;
+  font-style: normal;
+  font-size: 1.1rem;
+}
+
+@media (max-width:40em) {
+  div.ccm-page p {
+    line-height: 1.5em;
+    letter-spacing: .5px;
+    font-size: 1rem;
+    text-align: left !important;
+  }
+}
+
+div.ccm-page main .container p {
+  -webkit-font-smoothing: antialiased;
+}
+
+div.ccm-page a {
+  color: #4fb4d4;
+}
+
+div.ccm-page section h2 {
+  padding-top: 0;
+  margin-bottom: 30px;
+}
+
+@media all and (max-width:52em) {
+  div.ccm-page section h2 {
+    text-align: left;
+    padding-top: 40px;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  max-height: none;
+  max-width: none;
+  width: 100%;
+}
+
+a img,
+img {
+  border: 0;
+}
+
+div.ccm-page p {
+  text-align: left;
+}
+
+div.ccm-page img {
+  height: auto;
+}
+
+div.ccm-page header {
+  color: #333;
+  background: url(/hero-background.svg) right bottom / 1280px no-repeat,url(/hero-background2.svg) left top / 1280px no-repeat,linear-gradient(135deg,#b7c6ce 0,#ebf2f7 25%,#fff 50%,#ebf2f7 75%,#b7c6ce 100%),#fff;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding: 2rem 1rem;
+  z-index: -1;
+}
+
+div.ccm-page header.header-medium {
+  height: 483px;
+}
+
+div.ccm-page .top-nav-bar-container {
+  background-color: #fff;
+}
+
+div.ccm-page .top-nav-bar-container a {
+  font-weight: 300;
+  color: #333;
+}
+
+div.ccm-page .top-nav-bar-container li {
+  padding-left: 10px;
+  display: inline;
+  list-style-type: none;
+}
+
+@media (max-width:40em) {
+  div.ccm-page .top-nav-bar-container {
+    font-size: .8rem;
+  }
+}
+
+@media (max-width:52em) {
+  div.ccm-page .top-nav-bar-container {
+    position: relative;
+    background-color: #fff;
+  }
+}
+
+div.ccm-page .header-navigation ul {
+  margin: 0;
+  padding: 0;
+  margin-top: 3px;
+}
+
+div.ccm-page .header-navigation ul li {
+  border-bottom: 4px solid transparent;
+  margin-right: 40px;
+}
+
+.wf-loading div.ccm-page .header-navigation ul li {
+  visibility: hidden;
+}
+
+div.ccm-page .header-navigation ul li a {
+  padding-top: 10px;
+  padding-bottom: 3px;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+div.ccm-page #header-site-title {
+  margin-top: 0;
+  position: relative;
+  height: 30px;
+}
+
+div.ccm-page .contact-form-modal {
+  height: 100%;
+  color: #333;
+}
+
+div.ccm-page .contact-form-modal .button {
+  padding: 0;
+}
+
+div.ccm-page .contact-form-modal .contact-form-wrap p {
+  text-align: center;
+}
+
+div.ccm-page .contact-form-modal .contact-form-wrap h2 {
+  font-size: 3rem;
+  font-weight: 200;
+  color: #333 !important;
+  padding-top: 3rem;
+}
+
+@media (max-width:40em) {
+  div.ccm-page .contact-form-modal .contact-form-wrap h2 {
+    font-size: 2rem;
+  }
+}
+
+div.ccm-page .btn,
+div.ccm-page a.btn {
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: 200;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  line-height: 1.125rem;
+  padding: .6rem 1.5rem;
+  margin: 0;
+  height: auto;
+  border: 2px solid transparent;
+  vertical-align: middle;
+  -webkit-appearance: none;
+  color: #fff;
+  background-color: #c43fa7;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+.data-kaksi-element-shadow {
+  -webkit-box-shadow: 1px 1px 10px 0 rgba(0,0,0,0.75);
+  -moz-box-shadow: 1px 1px 10px 0 rgba(0,0,0,0.75);
+  box-shadow: 1px 1px 10px 0 rgba(0,0,0,0.75);
+}
+
+
+
+.o-wrapper {
+  min-height: 100%;
+  height: 100%;
+}
+
+.overlay {
+  display: none;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1000001;
+  background-color: #404447;
+  color: white;
+}
+
+#menu-overlay {
+  text-align: center;
+}
+
+.contact-form-modal {
+  height: 100%;
+  color: #333;
+}
+
+.contact-form-modal .button {
+  padding: 0;
+}
+
+.contact-form-modal .contact-form-wrap p {
+  text-align: center;
+}
+
+.contact-form-modal .contact-form-wrap h2 {
+  font-size: 3rem;
+  font-weight: 200;
+  color: #333 !important;
+  padding-top: 3rem;
+}
+
+@media (max-width:40em) {
+  .contact-form-modal .contact-form-wrap h2 {
+    font-size: 2rem;
+  }
+}
+
+.ccm-responsive-menu-launch {
+  display: none;
+  float: right;
+  position: relative;
+  z-index: 1000002;
+}
+
+.ccm-responsive-menu-launch #nav-icon {
+  width: 25px;
+  margin-top: 13px;
+  height: 25px;
+  position: relative;
+  -webkit-transform: rotate(0);
+  -moz-transform: rotate(0);
+  -o-transform: rotate(0);
+  transform: rotate(0);
+}
+
+.ccm-responsive-menu-launch #nav-icon span {
+  display: block;
+  position: absolute;
+  height: 2px;
+  width: 100%;
+  background: black;
+  border-radius: 9px;
+  opacity: 1;
+  left: 0;
+  -webkit-transform: rotate(0);
+  -moz-transform: rotate(0);
+  -o-transform: rotate(0);
+  transform: rotate(0);
+}
+
+.ccm-responsive-menu-launch #nav-icon span:nth-child(1) {
+  top: 0;
+  -webkit-transform-origin: left center;
+  -moz-transform-origin: left center;
+  -o-transform-origin: left center;
+  transform-origin: left center;
+}
+
+.ccm-responsive-menu-launch #nav-icon span:nth-child(2) {
+  top: 8px;
+  -webkit-transform-origin: left center;
+  -moz-transform-origin: left center;
+  -o-transform-origin: left center;
+  transform-origin: left center;
+}
+
+.ccm-responsive-menu-launch #nav-icon span:nth-child(3) {
+  top: 16px;
+  -webkit-transform-origin: left center;
+  -moz-transform-origin: left center;
+  -o-transform-origin: left center;
+  transform-origin: left center;
+}
+
+@media all and (max-width:52em) {
+  .ccm-responsive-menu-launch {
+    display: block;
+    margin-top: -0.3rem;
+  }
+
+  .ccm-responsive-navigation.original {
+    display: none;
+  }
+}
+
+input[type="email"] {
+  display: inline-block;
+  padding: 4px;
+  font-size: 14px;
+  line-height: 18px;
+  color: #555;
+  border: 1px solid #ccc;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+@media (max-width:40em) {
+  main h2,
+  main p {
+    padding: .75rem;
+  }
+}
+
+@media (max-width:40em) {
+  .container p {
+    padding: .75rem;
+  }
+}
+
+.mfp-hide {
+  display: none !important;
+}
+
+.mc-form {
+  margin-top: 2rem;
+}
+
+.mc-form form {
+  margin: 0 auto;
+}
+
+.mc-form .btn,
+.mc-form #mce-EMAIL {
+  margin-right: 10px;
+  height: 3rem !important;
+  -webkit-border-radius: 0.3rem;
+  -moz-border-radius: 0.3rem;
+  border-radius: 0.3rem;
+}
+
+.mc-form .btn {
+  float: right;
+  width: 30%;
+}
+
+.mc-form #mce-EMAIL {
+  float: left;
+  width: 65%;
+  padding: 10px;
+}
+
+@media (max-width: 40em) {
+  .mc-form #mce-EMAIL {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 1rem;
+    float: none;
+    width: 100%;
+  }
+
+  .mc-form .btn {
+    display: block;
+    float: none;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+.mc-form #success-response-form {
+  position: relative;
+  margin: 0 auto;
+  display: block;
+  width: 100%;
+  height: auto;
+  background-color: #FFFFFF;
+  font-weight: 400;
+  padding: 2rem;
+  background-color: #f7f7f7;
+  -webkit-border-radius: 0.3rem;
+  -moz-border-radius: 0.3rem;
+  border-radius: 0.3rem;
+}
+
+.mc-form #success-response-form p {
+  color: #21b9a3;
+  font-size: 1.5rem;
+  text-align: center !important;
+}
+
+.mc-form #success-response-form .btn {
+  float: none;
+  width: auto;
+  background-color: #50b3d3;
+  color: #FFFFFF;
+}
+
+.mc-form #success-response-form a {
+  display: inline-block;
+}
+
+@media (max-width: 40em) {
+  .mc-form #success-response-form {
+    padding: 0.3rem;
+  }
+
+  .mc-form p,
+  .mc-form a {
+    font-size: 0.9rem !important;
+    text-align: center !important;
+    line-height: 1rem;
+  }
+
+  .mc-form a {
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 52em) {
+  .mc-form #success-response-form {
+    padding: 0.5rem;
+  }
+
+  .mc-form p {
+    font-size: 0.9rem;
+  }
+
+  .mc-form a {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 64em) {
+  .mc-form #success-response-form {
+    padding: 0.5rem;
+  }
+
+  .mc-form p,
+  .mc-form a {
+    font-size: 1rem;
+  }
+}
+
+</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700" media="all"><link rel="stylesheet" href="main.css" media="all"><link rel="stylesheet" href="stacktable.css" media="all"><link rel="stylesheet" href="jquery-magnific-popup.css" media="all"><link rel="stylesheet" href="view.css" media="all"><link rel="stylesheet" href="view.css.1" media="all"><script type="text/javascript" async="" src="https://tag.marinsm.com/serve/56814eccf296c8201000009e.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://use.typekit.net/oqn1oqa.js" async=""></script><script id="loadcss">
+(function(u,s){!function(e){"use strict";var n=function(n,t,o){var l,r=e.document,i=r.createElement("link");if(t)l=t;else{var a=(r.body||r.getElementsByTagName("head")[0]).childNodes;l=a[a.length-1]}var d=r.styleSheets;i.rel="stylesheet",i.href=n,i.media="only x",l.parentNode.insertBefore(i,t?l:l.nextSibling);var f=function(e){for(var n=i.href,t=d.length;t--;)if(d[t].href===n)return e();setTimeout(function(){f(e)})};return i.onloadcssdefined=f,f(function(){i.media=o||"all"}),i};"undefined"!=typeof module?module.exports=n:e.loadCSS=n}("undefined"!=typeof global?global:this);for(var i in u){loadCSS(u[i],s);}}(['https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700','main.css','stacktable.css','jquery-magnific-popup.css','view.css','view.css.1'],document.getElementById("loadcss")));
 </script>
+<noscript>
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700" rel="stylesheet" type="text/css">
+<link href="main.css" rel="stylesheet" type="text/css" media="all">
+<link href="stacktable.css" rel="stylesheet" type="text/css" media="all">
+<link href="jquery-magnific-popup.css" rel="stylesheet" type="text/css" media="all">
+<link href="view.css" rel="stylesheet" type="text/css" media="all">
+<link href="view.css.1" rel="stylesheet" type="text/css" media="all">
+</noscript>
+               <script>
+               (function(d) {
+                   var config = {
+                           kitId: 'oqn1oqa',
+                           scriptTimeout: 3000,
+                           async: true
+                       },
+                       h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+               })(document);
+           </script>
+           
+       <script>
+                      var delayed_jquery = [];
+           jQuery = function() {
+               if(typeof arguments[0] == "function"){
+                   jQuery(document).ready(arguments[0]);
+               }else{
+                   return {
+                       ready: function(fn) {
+                           delayed_jquery.push(fn);
+                       }
+                   }
+               }
+           };
+           $ = jQuery;
+           var waitForLoad = function() {
+               if (typeof jQuery.fn != "undefined") {
+                   for(k in delayed_jquery){
+                       delayed_jquery[k]();
+                   }
+               } else {
+                   window.setTimeout(waitForLoad, 500);
+               }
+           };
+           var waitForJqueryTimeout = window.setTimeout(waitForLoad, 500);
+
+           if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+               var msViewportStyle = document.createElement('style');
+               msViewportStyle.appendChild(
+                   document.createTextNode(
+                       '@-ms-viewport{width:auto!important}'
+                   )
+               );
+               document.querySelector('head').appendChild(msViewportStyle);
+           }
+
+
+           
+       </script>
+                
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Privacy Policy | BetterDoctor</title>
+<meta name="description" content="BetterDoctor is the most trusted source of validated doctor data and doctor marketing services across the web. Our data and services power health plan directories, consumer review sites, and individual doctor websites.">
+
+
+
+
+
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <link rel="icon" href="favicon.ico" type="image/x-icon">
+            <link rel="apple-touch-icon" href="favicon-iphone.png">
+    <meta property="og:title" content="Privacy Policy | BetterDoctor">
+<meta property="og:description" content="BetterDoctor is the most trusted source of validated doctor data and doctor marketing services across the web. Our data and services power health plan directories, consumer review sites, and">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://betterdoctor.com/privacy">
+<meta property="og:site_name" content="BetterDoctor">
+<meta name="og:locale" content="en_US">
+<meta name="og:updated_time" content="2016-03-22T16:14:22+00:00">
+
+
+
+<!--[if lt IE 9]><script type="text/javascript" src="/html5-shiv.js"></script><![endif]-->
+<!--[if lt IE 9]><script type="text/javascript" src="/respond.js"></script><![endif]-->
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+</head>
+
+<body class=" page-privacy">
+            <script>
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function () {
+                            (i[r].q = i[r].q || []).push(arguments)
+                        }, i[r].l = 1 * new Date();
+                    a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+                ga('create', 'UA-25871107-5', 'auto');
+                ga('send', 'pageview');
+
+            </script>
+            
+
+
+
+    
+<div id="HTMLBlock1739" class="HTMLBlock">
+</div>
+<div class="ccm-page page-type-page page-template-full">
+    <div class="o-wrapper">
+
+
+
+<div class="">
+    <div class="top-nav-bar-container">
+        <div class="clearfix top-nav-bar  py1 px3">
+            <div id="header-site-title" class="left">
+                
+
+    <a href="https://betterdoctor.com"><img src="betterdoctor-logo-hi-res.png" alt="betterdoctor-logo-hi-res.png" width="170" height="29" class="ccm-image-block img-responsive bID-2053"></a>
+
+            </div>
+            <div class="right header-navigation selected-a-class">
+                
+
+    
+<nav class="ccm-responsive-navigation original"><ul>
+<li class=""><a href="http://data.betterdoctor.com" target="_self" class="">For Health Plans</a></li>
+<li class=""><a href="http://doctor.betterdoctor.com" target="_blank" class="">For Doctors</a></li>
+<li class=""><a href="https://betterdoctor.com/health" target="_blank" class="">Blog</a></li>
+</ul></nav><div class="ccm-responsive-menu-launch">
+<div id="nav-icon" class="c-button">
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+</div>
+            </div>
+        </div>
+    </div>
+    <!-- <div class="sub-top-nav-bar-container">
+        <div class="clearfix py2 px3">
+        </div>
+    </div> -->
+
+</div>
+
+<header class="header-medium header-hero-center" style="background-image:url(privacy-hero.jpg)">
+    <div class="clearfix hero ">
+                
+    </div>
+    </header>
+
+<main class="header-hero-center">
+
+        <section>
+
+                    <div class="center mt3 mb3">
+            
+
+<div class="container px3"><div class="clearfix mxn3"><div class="col-12 col px3">    <section>
+<h2>Privacy Policy</h2>
+<p>This Privacy Policy describes our policies on the collection, use, and disclosure of your information in connection with your use of BetterDoctor’s websites and mobile applications (the "Services"). The terms "we", "us", and "BetterDoctor" refer to BetterDoctor Inc., a Delaware corporation. Capitalized terms used but not defined in this Privacy Policy shall have the meanings ascribed to them in the Terms of Use. When you use the Services, you consent to our collection, use, and disclosure of your information as described in this Privacy Policy.
+</p></section><section>
+<h2>1. Information Collection</h2>
+<p>We collect information from you in several different ways while providing the Services.
+</p>
+<p>We may collect following information:
+</p>
+<h4>1.1 Personal Information</h4>
+<p>In order for you to access certain features of the Services, we may require you to provide us with certain information that personally identifies you (“Personal Information”). Personal Information includes the following categories of information: (1) Contact Data (such as your e-mail address, phone number and BetterDoctor password); (2) Demographic Data (such as your gender, your date of birth and your zip code); (3) Insurance Data (such as your insurance carrier and insurance plan); (4) Medical Data (such as your previous health care providers visited, your reason for visit and your date of visit); and (5) other information you choose to share with us. If you communicate with us by, for example, e-mail or letter, any information provided in such communication may be collected as Personal Information.
+</p>
+<p>We will never ask you to provide, request that you do not provide, and disclaim all liability if you chose to provide any information that relates to the past, present, or future physical or mental health or condition of an individual; the provision of health care to an individual; or the past, present, or future payment for the provision of health care to an individual (collectively, “Individually Identifiable Health Information”). Providing any such information may be grounds for termination from use of the Services.
+</p>
+<h4>1.2 Location</h4>
+<p>We may collect and store information about your location if you enable your computer or mobile device to send us location information. You may be able to change the settings on your computer or mobile device to prevent it from providing us with such information.
+</p>
+<h4>1.3 Activity</h4>
+<p>We may collect and store information related to you and your use of the Services, such as your browser type, IP address, unique device identifier, the phone numbers and names of businesses that you call through use of the Services, requested URL, referring URL, browser language, the pages you view, and the date and time of your visit.
+</p>
+<p>We may also use third party analytics services in connection with the Services. For example, we may use services to record mouse clicks, mouse movements, scrolling activity, and/or clicks to call or contact health care providers through the Services, as well as any text that you type into the Services (collectively, “Traffic Data”). These analytics services will not collect Personal Information that you do not voluntarily enter. These services will not track your browsing habits across websites which do not use their services. We are using the information collected from these services to find usability problems to make the Services easier to use. The recordings will never identify you or your account. We only record anonymous user information, and we stop such recording before you sign-in or create an account. Should we decide to use any third party analytics services that track or collect Personal Information, we will provide you with advance notice.
+</p>
+<h4>1.4 Cookies and Similar Mechanisms</h4>
+<p>“Cookies” are small computer files that are transferred to your computer's hard drive that contain information such as user ID, user preferences, lists of pages visited and activities conducted while browsing the Services. At your option, expense and responsibility, you may block cookies or delete cookies from your hard drive. However, by disabling cookies, you may not have access to the entire set of features of the Services.
+</p>
+<p>We may use cookies, web beacons, local shared objects (sometimes called flash cookies), and similar technology in connection with your use of the Services. Cookies may have unique identifiers, and reside, among other places, on your computer, in emails we send to you, and on our web pages. Cookies may transmit information about you and your use of the Services, such as your browser type, search preferences, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use.
+</p>
+<h4>1.5 Information Provided on Behalf of Children</h4>
+<p>BetterDoctor does not collect information from children under the age of 13 in accordance with the Children’s Online Privacy Protection Act (“COPPA”). If you are a parent or legal guardian of a minor child, you may, in compliance with the Terms of Use, use the Services on behalf of such minor child. Any information that you provide while using the Services on behalf of your minor child will be treated as Personal Information as otherwise provided herein. If you are under the age of 18, you should not, and have no permission to, use the Services.
+</p></section><section>
+<h2>2. Information You Submit</h2>
+<p>We may store the information you submit to or through use of the Services. We use the information to fulfill your requests, provide Service functionality, improve Service quality, personalize your experience, display relevant advertising, provide customer support, send messages to you, back up our systems, allow for disaster recovery, and comply with legal obligations. Among the information you submit to or through the Services, please note:
+</p>
+<h4>2.1 Account registration</h4>
+<p>You must provide a valid email address in order to sign up for an account through the Services. In addition, you may provide us with your (1) full name, (2) phone number, (3) address, and (4) insurance data (such as insurance carrier and insurance plan). When you sign up for a BetterDoctor account, we opt you in to receive emails from BetterDoctor by default. You can manage your email preferences and modify some of the information associated with your account here (Link to my profile page). Note that you cannot opt out of receiving required administrative or legal notices. If you feel that an unauthorized account has been created depicting you or your likeness, you can request its removal by sending email to <a class="" data-prefix="privacy" href="mailto:privacy@betterdoctor.com">privacy@betterdoctor.com</a>.
+</p>
+<p>You can also sign up by logging into online accounts you may have with third party service providers, including social networking service providers ("SNS") (e.g. Facebook); each such account, a "Third Party Account", via our Services as described below. As part of the functionality of the Services, you may link your BetterDoctor Account with Third Party Accounts, by allowing BetterDoctor to access your Third Party Account, to the extent permitted under the applicable terms and conditions that govern your use of each Third Party Account. If you chose to login through a Third Party Account, the login process will be governed by the terms and conditions imposed by the applicable SNS.
+</p>
+<p>You represent that you are entitled to grant BetterDoctor access to your Third Party Account, without breach by you of any of the terms and conditions that govern your use of the applicable Third Party Account and without obligating BetterDoctor to pay any fees or making BetterDoctor subject to any usage limitations imposed by the applicable SNS. If you decide to register by logging into a Third Party Account via our Services, we may obtain the personal information you have provided to the applicable SNS. Depending on the Third Party Accounts you choose and subject to the privacy settings that you have set in such Third Party Accounts, you understand that by granting us access to the Third Party Accounts, we may also have access to the information in your Third Party Accounts. To the extent permitted by your Third Party Account settings, BetterDoctor may pre-populate your BetterDoctor registration with Content from your Third Party Account. For example, if you choose to login to BetterDoctor through Facebook, the login authentication occurs between you and Facebook; BetterDoctor may obtain any information that you have authorized Facebook to provide. Please review SNS terms before using these shared login services. Such SNS have different terms of use and different protections for your content and personal information.
+</p>
+<h4>2.2 Public Content</h4>
+<p>Any information that you may reveal in a rating or review posting or other online discussion or forum is intentionally open to the public and is not in any way private. You should think carefully before disclosing any Personal Information in any public forum, and do not have permission to disclose any Individually Identifiable Health Information in any public forum. What you have written may be seen and/or collected by third parties and may be used by others in ways we are unable to control or predict.
+</p>
+<h4>2.3 Contacts</h4>
+<p>You can invite friends, colleagues, health care providers, and others whom you know (collectively, “Associates”) to join the Services by providing their contact information, or by allowing us to use your address book from your computer, mobile device, or other websites or services. We may also use publicly available information to suggest Associates whom you may want to invite to join the Services. If you invite an Associate to join and connect with you through the Services, we may use and store your Associate’s contact information long enough to process your requests. The names and email addresses of Associates whom you invite will be used to send your invitations and reminders as well as to allow BetterDoctor to help expand your network. We may include names and pictures of other people your Associate might know on BetterDoctor. The invitation will also give your Associate the opportunity to opt out of receiving other invitations to join BetterDoctor.
+</p>
+<p>When you send an invitation to connect to an Associate or another User, that Associate or User will have access to your email address because it is displayed in the invitation. The invitation may also contain other Services Content about you, such as your name and photograph, to help the User or Associate identify who is sending the invitation. Your BetterDoctor connections will also have access to your email address. You may not invite anyone you do not know and trust to connect with you. We may offer tools to help you upload your Associates' contact information so that you can find your Associates on BetterDoctor, and invite Associates who do not use BetterDoctor to join.
+</p>
+<h4>2.4 Messaging</h4>
+<p>If we incorporate, messaging into the Services, and you exchange messages with others through the Services, we may store these messages in order to deliver them and allow you to manage them. Many communications you initiate through BetterDoctor (e.g., an invitation sent to a non-User) will list your primary email address and name in the header of the message. Messages you initiate may also provide aggregate information about your network (for instance how many people are in your network), but will not list the people to whom you’re directly connected. If you send information from the Services to your phone via SMS text message, we may log your phone number, phone carrier, and the date and time that the message was processed. We will not charge you for sending information to your phone, but carriers may charge recipients for texts that they receive.
+</p></section><section>
+<h2>3. Third Parties</h2>
+<p>We do not rent, share, sell or trade Personal Information with third parties for their direct marketing purposes. That said, we work with third parties and they may have access to some of your information:
+</p>
+<h4>3.1 Sharing of information</h4>
+<p>We share certain categories of information we collect from you in the ways described in this Privacy Policy. We may share Demographic Data with advertisers and other third parties only on an aggregate (i.e., non-personally-identifiable) basis. We may also share your Contact Data, Demographic Data, Insurance Data and Medical Data with health care providers you choose to schedule through our Services. We also share Personal Information and Traffic Data with our business partners who assist us by performing core services (such as hosting, billing, fulfillment, or data storage and security) related to our operation of the Services and/or by making certain interactive tools available to our users. Those business partners shall be bound to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will only use your Contact Data and other Personal Information to carry out their specific business obligations to BetterDoctor and to provide your requested medical care and services.
+</p>
+<h4>3.2 Service Providers</h4>
+<p>We outsource some of our technical and customer support, tracking and reporting functions, quality assurance testing, payment processing functions, and other services to third parties. We may share information from or about you with them so that they can perform their services.
+</p>
+<h4>3.3 Business Transfers</h4>
+<p>We may share information from or about you with subsidiaries, joint venturers, or other companies under common control, in which case we will require them to honor this Privacy Policy. If another company acquires BetterDoctor or all or substantially all of our assets, that company will possess the same information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy, unless we notify you otherwise.
+</p>
+<h4>3.4 Links</h4>
+<p>The Services may contain links to unaffiliated third party websites. Except as set forth herein, we do not share your Personal Information with them, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
+</p>
+<h4>3.5 Health Care Providers</h4>
+<p>Health care providers, their employees, and their agents should be particularly aware of their obligations of patient confidentiality, including without limitation their obligations under the Health Insurance Portability and Accountability Act (“HIPAA”), both in communicating with BetterDoctor and in responding to a review of their services posted through our Services. BetterDoctor does not have, and will not accept, any obligations of confidentiality with respect to any communications other than those expressly stated in this Privacy Policy and BetterDoctor’s Terms of Use.
+</p>
+<h4>3.6 Third Party Services</h4>
+<p>You can connect your BetterDoctor account to Third Party Accounts, in which case we may collect and store information identifying your account with the Third Party Account. We use the information to help you connect and share public content with your friends and followers. We may use the information to pre-populate your account registration information or identify others you may know or wish to invite to join the Services.
+</p></section><section>
+<h2>4. Use and Disclosure of Your Information</h2>
+<h4>4.1 Customization and Contact</h4>
+<p>One goal in collecting Personal Information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your Personal Information to: (a) help make the Services easier for you to use by not having to enter information more than once; (b) help you quickly find information and services; (c) help us create content that is most relevant to you; and (d) alert you to new information and Services that we offer.
+</p>
+<p>We may use your Contact Data to send you information about BetterDoctor or our products or Services, to contact you when necessary, including to remind you of upcoming or follow-up appointments, and in conjunction with your use of certain interactive tools. We may use your Demographic Data, Traffic Data, your Insurance Data or your Medical Data to customize and tailor your experience on the Services, in emails and in other communications, displaying content that we think you might be interested in and according to your preferences. You agree that BetterDoctor may use Personal Information to allow your health care providers to make appointments with other doctors on your behalf through the Services The sole purpose will be the booking of appointments, and health care providers will not transmit any information regarding the provision of health care.
+</p>
+<h4>4.2 Change in Control</h4>
+<p>We may also disclose your Personal Information and other information you provide to a third party as part of a sale of the assets of BetterDoctor, a subsidiary or division, or as the result of a change in control of BetterDoctor. Any third party to which BetterDoctor transfers or sells BetterDoctor’s assets will have the right to continue to use the Personal Information and other information that you provide to us, but they will still have to honor the commitments we have made in this Privacy Policy.
+</p></section><section>
+<h2>5. Changing and Deleting Your Information</h2>
+<p>As a registered User of the Services, you can modify some of the Personal Information you have included in your profile or change your username by logging in and accessing your account. Upon your request, BetterDoctor will use commercially reasonable efforts to delete your account and the Personal Information in your profile; however, it may be impossible to remove your account without some residual information being retained by BetterDoctor. When you delete your account, you understand that removed Content may persist in backup copies for a reasonable period of time (but will not be available to others). Furthermore, to the extent Content about you has been shared with others, or other Users have independently uploaded and/or retained Content about you, such Content may also remain on the Services.
+</p>
+<p>For example, while we will remove your account profile and the ability for others to contact you through the Services or access your Personal Information, some Content about you may be retained in the individual pages for health care providers you contacted through the Services or outside the Services. Such Content may be in aggregate form, such as data pertaining to the number of Users who accessed the respective health care provider’s profile, or in individual form, to the extent that the health care provider has entered or retained Content about individual patients. The respective health care provider is the only User who would have access to such retained aggregate or individualized Content.
+</p>
+<p>Registered users who wish to close their account should request removal by sending email to <a class="" data-prefix="privacy" href="mailto:privacy@betterdoctor.com">privacy@betterdoctor.com</a>.
+</p></section><section>
+<h2>6. Security</h2>
+<p>The security of your Personal Information is important to us. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. For example, when you enter sensitive information through our Services, we encrypt that information using secure socket layer technology (SSL).
+</p>
+<p>Although we make good faith efforts to store Personal Information in a secure operating environment that is not open to the public, you should understand that there is no such thing as complete security, and we do not guarantee that there will be no unintended disclosures of your Personal Information. If we become aware that your Personal Information has been disclosed in a manner not in accordance with this Privacy Policy, we will use reasonable efforts to notify you of the nature and extent of the disclosure (to the extent we know that information) as soon as reasonably possible and as permitted by law.
+</p></section><section>
+<h2>7. Updates and Changes to Privacy Policy</h2>
+<p>We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our use of your Personal Information and other information and will be located at http://betterdoctor.com/privacy. If we make material changes to this Privacy Policy, we will notify you by email or by posting a notice on or through the Services. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+</p></section><section>
+<h2>8. Contact</h2>
+<p>If you have any comments, concerns or questions about this Privacy Policy, please contact us at <a class="" data-prefix="privacy" href="mailto:privacy@betterdoctor.com">privacy@betterdoctor.com</a>.
+</p>
+<p>Last Updated on February 21, 2012
+</p>
+<p>Copyright 2016 BetterDoctor, Inc. All rights reserved.
+</p></section>
+</div></div></div>            </div>
+            
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+
+        
+
+        
+        
+        
+
+        </section>
+
+    
+</main>
+
+
+
+<div class="mb4 center mx-auto divider">
+    </div>
+<footer class="page-footer">
+
+    <section class="container px3">
+
+        
+        
+
+        
+                <div class="clearfix mxn3">
+            <div class="col sm-col-3 col-12 px3 py1">
+                
+
+    <h5>BetterDoctor</h5>
+<h5><a href="https://betterdoctor.com">Home</a></h5>
+<h5>
+<a href="https://data.betterdoctor.com">For Health Plans</a>
+</h5>
+<h5>
+<a class="external" href="http://doctor.betterdoctor.com">For Doctors</a>
+</h5>
+<h5>
+<a href="https://developer.betterdoctor.com">For Developers</a>
+</h5>
+<h5>
+<a href="careers">Careers</a>
+</h5>
+<h5>
+<a href="terms">Terms of use</a>
+</h5>
+<h5>
+<a href="privacy">Privacy Policy</a><br>
+</h5>
+            </div>
+            <div class="col sm-col-3 col-12 px3 py1">
+                
+
+    <h5>Company News</h5>
+<h5><a href="http://betterdoctor.com/health/">For Health Plan<br>&amp; API Partners</a></h5>
+<h5><a href="http://doctor.betterdoctor.com/blog">For Doctors</a></h5>
+            </div>
+            <div class="col sm-col-3 col-12 px3 py1">
+                
+
+    <h5>Press</h5>
+<h5><a href="mailto:press@betterdoctor.com" target="_blank">Contact Us</a></h5>
+<h5><a href="https://www.dropbox.com/sh/w6ecs2iid32wnpg/AACYj_MwA15dMC4AiOTciZcXa" target="_blank">Press Kit</a></h5>
+            </div>
+            <div class="col sm-col-3 col-12 px3 py1">
+                
+
+    <h5 style="text-align: right;">Contact</h5>
+<h5 style="text-align: right;">
+<a href="https://maps.google.com/maps?q=945+Bryant+Street,+San+Francisco,+CA&amp;daddr=945+Bryant+St,+San+Francisco,+CA+94103">945 Bryant St, Suite #350<br></a>
+</h5>
+<h5 style="text-align: right;">
+<a href="https://maps.google.com/maps?q=945+Bryant+Street,+San+Francisco,+CA&amp;daddr=945+Bryant+St,+San+Francisco,+CA+94103">	San Francisco CA 94103<br></a><br>
+</h5>
+<h5 style="text-align: right;"><a href="mailto:hello@betterdoctor.com">hello@betterdoctor.com</a></h5>
+            </div>
+        </div>
+        
+    </section>
+
+    <section class="container footer-navigation">
+
+
+
+        
+        <div class="clearfix">
+
+            
+            
+                            <div class="col sm-col-3 col-12 py3 footer-info">
+                    
+
+    
+<div id="HTMLBlock1829" class="HTMLBlock">
+<script type="text/javascript">
+  (function() {
+    window._pa = window._pa || {};
+    // _pa.orderId = "myOrderId"; // OPTIONAL: attach unique conversion identifier to conversions
+    // _pa.revenue = "19.99"; // OPTIONAL: attach dynamic purchase values to conversions
+    // _pa.productId = "myProductId"; // OPTIONAL: Include product ID for use with dynamic ads
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.marinsm.com/serve/56814eccf296c8201000009e.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+</div>
+                </div>
+            
+        </div>
+
+    </section>
+
+            <div class="col sm-col-12 md-col-12 col-12 px3 py1">
+            
+
+    <h5 style="text-align: center;">© 2016 BetterDoctor, Inc. - Finding the right doctor shouldn’t be difficult </h5>
+        </div>
+    </footer>
+
+
+
+
+    
+<div id="HTMLBlock1828" class="HTMLBlock">
+</div>
+
+<div id="contact-form-modal-popup" class="contact-form-modal mfp-hide sm-col-12 md-col-12 mx-auto col-12 width-50">
+    <div class="center contact-form-wrap mb4">
+        <h2>Get Started</h2>
+        <p>Thanks for your interest in BetterDoctor Data Premium Access. Our team will get back to you as soon as possible. Share your email and we’ll talk to you soon!</p>
+    </div>
+    
+
+    
+
+    
+        
+
+
+<div class="col-12 md-col-12 mx-auto mc-form center mb2">
+        <form action="http://betterdoctor.us7.list-manage.com/subscribe/post?u=f7948854fdc528d8bd8e04631&amp;id=211e554ad6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+        <input type="email" value="" name="EMAIL" placeholder="Email" class="email data-kaksi-element-shadow" id="mce-EMAIL">
+        <input type="submit" value="Learn More" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-large data-kaksi-element-shadow">
+    </form>
+    <div id="mce-responses" style="display: none !important;">
+        <div class="response" id="mce-success-response" style="display: none"></div>
+    </div>
+    <div id="success-response-form" style="display: none;">
+        <p>Great, we'll be in contact with you shortly!</p>
+        <a name="developerButton" class="btn btn-large" href="http://developer.betterdoctor.com" target="_blank">Try out our Developer API</a>
+    </div>
+        <script type="text/javascript" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+    <script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+    </div>
+
+
+</div>
+
+</div>
+<div id="menu-overlay" class="overlay nav-menu">
+    <div class="content px2 py3">
+        <div class="nav"><nav class="ccm-responsive-navigation"><ul>
+<li class=""><a href="http://data.betterdoctor.com" target="_self" class="">For Health Plans</a></li>
+<li class=""><a href="http://doctor.betterdoctor.com" target="_blank" class="">For Doctors</a></li>
+<li class=""><a href="https://betterdoctor.com/health" target="_blank" class="">Blog</a></li>
+</ul></nav></div>
+            </div>
+</div>
+</div>
+
+
+
+
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="stacktable.js"></script>
+<script type="text/javascript" src="minishare.js"></script>
+<script type="text/javascript" src="bd.js"></script>
+<script type="text/javascript" src="bd-notification.js"></script>
+<script type="text/javascript" src="bd-footer-nav.js"></script>
+<script type="text/javascript" src="js.cookie.js"></script>
+<script type="text/javascript" src="jquery.matchHeight.js"></script>
+<script type="text/javascript" src="jquery.magnificpopup.1.0.0.js"></script>
+<script type="text/javascript" src="bd-top-nav.js"></script>
+<script type="text/javascript" src="bd-overlay-menu.js"></script>
+<iframe src="javascript:false" title="" style="display: none;"></iframe><script type="text/javascript" src="betterdoctorkaksi.js"></script>
+<script type="text/javascript" src="view.js"></script>
+<script type="text/javascript" src="mailchimp_form.js"></script>
+
+
+
+
 
 
 </body></html>
