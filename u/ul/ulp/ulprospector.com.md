@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ulprospector.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003032554id_/https%3A//www.ulprospector.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulprospector.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611102021id_/https%3A//www.ulprospector.com/en/Privacy) for the most accurate reproduction.*
 
-# Innovadex Privacy Statement
+# Prospector Privacy Statement
 
 Your privacy is important to us. Please take a few minutes to familiarize yourself with our Privacy Policy. YOUR USE OF THE SITE CONSTITUTES ACCEPTANCE OF THE PROSPECTER WEBSITE PRIVACY POLICY. 
 
@@ -37,11 +37,11 @@ With respect to the Prospector database, UL only shares professional information
 
 
 
-UL takes every precaution to protect our users' information. When users submit sensitive information via the Site, their information is protected both online and off-line. 
+UL understands the importance of security and takes precautions to protect our users' information. 
 
 When our member registration and order forms asks users to enter sensitive information (such as credit card numbers), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon in Web browsers address bars becomes locked, as opposed to un-locked, or open, when users are just 'surfing.' 
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our accounts receivable department or customer service representatives) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment, within a locked facility. 
+While we use SSL encryption to protect sensitive information online, we also take steps to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our accounts receivable department or customer service representatives) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment, within a locked facility. 
 
 If users have any questions about the security at our Site, users can send an email to: [customer.support@ULProspector.com](mailto:customer.support@ulprospector.com)
 
