@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025235433id_/http%3A//www.rnib.org.uk/about-rnib/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611161816id_/http%3A//www.rnib.org.uk/about-rnib/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | RNIB | Supporting people with sight loss
 
@@ -76,4 +76,4 @@ We may change our privacy policy from time to time, so please check back periodi
 
 Right now we can only reach one in three of the people who need our help most. Please make a donation and help us support more blind and partially sighted people.
 
-[Donate now](https://donate.rnib.org.uk/donation/)
+[Donate now](https://donate.rnib.org.uk/publicnew/doncc.aspx?rnib_source=website&rnib_medium=donate-promo)
