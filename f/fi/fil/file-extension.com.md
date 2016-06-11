@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the file-extension.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212004337id_/http%3A//www.file-extension.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the file-extension.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611135248id_/http%3A//www.file-extension.com/privacy) for the most accurate reproduction.*
 
 # File-extension.com
 
-v. 28/09/2015
+Last Updated: 16/09/2015
 
 Uniblue is committed to safeguarding the privacy of its customers and individuals who make use of our online facilities. This policy provides you with information about what data we collect and how this data is processed by us. 
 
@@ -30,6 +30,12 @@ When you visit our Websites, we or our service providers, advertisers or partner
 **Third party cookies**
 
 Third party cookies are cookies from another domain (not from Uniblue Websites). We don't control the content of these cookies. Therefore, please review information about the cookies from the third-party websites. Examples of third parties who set cookies on Uniblue Websites include: 
+
+**Hotjar**
+
+A web analytic service provider that records site usage, including mouse clicks, mouse movements, scrolling activity as well as any text you type and action you take while browsing and/or using this Website (excluding 'sensitive' visitor fields such as fields where financial information is inputted). 
+
+For more information on Hotjar's collection of information, please see their Cookie Information here <https://www.hotjar.com/cookies>. You can choose to disable the Hotjar service by contacting them on <https://www.hotjar.com/contact>. 
 
 **Advertising networks**
 
@@ -69,4 +75,4 @@ The Uniblue Websites are not aimed at children and we do not knowingly collect a
 
 ### Changes to this policy
 
-Please note that this policy may change from time to time. All updates will be published on the Uniblue Websites and, if the changes are significant, the changes will be posted on the Websites and on this page <http://www.file-extension.com/privacy/> thirty days prior to taking effect. Each version of this policy will be identifiable at the top of this document by its effective date. We encourage you to refer to this policy periodically. 
+Please note that this policy may change from time to time. All updates will be published on the Uniblue Websites and, if the changes are significant, the changes will be posted on the Websites and on this page <http://www.uniblue.com/privacy/> thirty days prior to taking effect. Each version of this policy will be identifiable at the top of this document by its effective date. We encourage you to refer to this policy periodically. 
