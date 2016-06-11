@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the gimmedelicious.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222022838id_/http%3A//gimmedelicious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gimmedelicious.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611020454id_/http%3A//gimmedelicious.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gimme Delicious
 
 **Privacy Policy**
 
-Brunch Time Baker is committed to maintaining the privacy and protection of your personal information when you visit this website. This policy outlines what information may be collected when you visit the website, and how that information is used. When you continue to visit this website, you are consenting to the practices described in this policy.
+Gimme Delicious is committed to maintaining the privacy and protection of your personal information when you visit this website. This policy outlines what information may be collected when you visit the website, and how that information is used. When you continue to visit this website, you are consenting to the practices described in this policy.
 
 #### Information Collected When Leaving Comments
 
-When you leave comments on Brunch Time Baker  you have the option of providing your name, blog or website URL, or other information. This information becomes a permanent part of the website when you provide it with a comment, and can be seen by other visitors to the site. Your email is required but is not displayed and is never used or sold to third party vendors.
+When you leave comments on Gimme Delicious  you have the option of providing your name, blog or website URL, or other information. This information becomes a permanent part of the website when you provide it with a comment, and can be seen by other visitors to the site. Your email is required but is not displayed and is never used or sold to third party vendors.
 
 #### Information Collected Through Tracking Software
 
-All websites which collect traffic data have the ability to monitor visitor information such as IP addresses, browser type, operating system, location, date/time of visit, and information about which areas of the site are visited. On Brunch time baker, we monitor such information, but do not store it in permanent files or attempt to link it to individual site visitors.
+All websites which collect traffic data have the ability to monitor visitor information such as IP addresses, browser type, operating system, location, date/time of visit, and information about which areas of the site are visited. On Gimme Delicious, we monitor such information, but do not store it in permanent files or attempt to link it to individual site visitors.
 
 #### Information Collected by Third Party Advertisers
 
