@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logo-template.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220202106id_/http%3A//logo-template.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logo-template.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611175844id_/http%3A//logo-template.com/privacy.php) for the most accurate reproduction.*
 
-# Logo Templates - create a logo with great logo images
+# Logo Templates - create a logo with great logo designs
 
 "logo-template.com" respects the privacy rights of our online visitors and customers, and is committed to protecting the personal information collected about you. 
 
