@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamebaby.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127151641id_/http%3A//gamebaby.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebaby.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611223543id_/http%3A//gamebaby.com/terms) for the most accurate reproduction.*
 
 # Game Sets - Terms Site
 
