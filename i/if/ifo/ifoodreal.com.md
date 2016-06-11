@@ -1,37 +1,56 @@
-> *The following text is extracted and transformed from the ifoodreal.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212100652id_/http%3A//ifoodreal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifoodreal.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611223604id_/http%3A//ifoodreal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - iFOODreal | Delicious Clean Eating Recipes
+# Privacy Policy - iFOODreal
 
-This Privacy Policy was last modified on May 02, 2014.
+This privacy policy sets out how iFOODreal uses and protects any information that you give while using www.ifoodreal.com
 
-iFOODreal (“us”, “we”, or “our”) operates http://ifoodreal.com/ (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement.
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
+iFOODreal may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 9, 2016.
 
-**Information Collection And Use**  
-While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, web site address (“Personal Information”).
+**What we collect**
 
-**Log Data**  
-Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+We may collect the following information:
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide  
-advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+  * contact information including email address
+  * demographic information such as location
 
-**Cookies**  
-Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.
 
-**Security**  
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+**What we do with the information we gather**
 
-**Links To Other Sites**  
-Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-iFOODreal has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
+  * We may use the information to improve our products and services.
+  * We may periodically send newsletter that you may find interesting using the email address which you have provided.
 
-**Changes To This Privacy Policy**  
-iFOODreal may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
-**Contact Us**  
-If you have any questions about this Privacy Policy, please [contact us](http://ifoodreal.com/contact/ "Contact").
+
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Advertising**
+
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**  
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+**Opt Out**
+
+For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy-policy](http://www.gourmetads.com/about/privacy-policy). If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
