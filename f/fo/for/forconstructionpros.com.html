@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the forconstructionpros.com privacy policy that was archived on 2015-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151018053257id_/http%3A//www.forconstructionpros.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forconstructionpros.com privacy policy that was archived on 2016-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611123727id_/http%3A//www.forconstructionpros.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -28,7 +28,8 @@
 
 </script>
 <script type="text/javascript" src="http://ox-d.forconstructionpros.com/w/1.0/jstag"></script>
-<script type="text/javascript" src="http://www.forconstructionpros.com/app/merrick/files/www.forconstructionpros.com/js/c2e72b3ac479391621f59ff6d570a24b.js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js"></script>
+<script type="text/javascript" src="http://www.forconstructionpros.com/app/merrick/files/www.forconstructionpros.com/js/d026e9e403e8416280248792da4f6f49.js"></script>
 
 	
 <script type="text/javascript">
@@ -78,7 +79,7 @@ var
 	<!-- End included scripts -->
 
 	<!-- Begin included CSS -->
-	<link rel="stylesheet" type="text/css" href="http://www.forconstructionpros.com/app/merrick/files/www.forconstructionpros.com/css/48f8a969112330aab9a01cef17901493.css">
+	<link rel="stylesheet" type="text/css" href="http://www.forconstructionpros.com/app/merrick/files/www.forconstructionpros.com/css/8734e9522184dfa6f51c5535982d4b1a.css">
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arvo:400,700">
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 
@@ -90,10 +91,19 @@ var
 $(document).ready(function(){
     PlatformComponents.on('ready', function() {
 
-        // Redrawn masonry when comments change.
+        // Redraw masonry when comments change.
         PlatformComponents.on('Comments.render', function() {
             Page.reloadGrid();
             Content.setSidebarHeight();
+        })
+
+        // Show download buttons when a customer is logged in.
+        PlatformComponents.on('CustomerManager.customer.loaded', function(e) {
+
+            if (null !== PlatformComponents.getCustomer().id && undefined !== window.oTable) {
+                $('<strong>EXPORT RESULTS AS</strong>').appendTo($('#spec_search .export'));
+                window.oTable.buttons().container().appendTo( $('#spec_search .export'));
+            }
         })
 
         var hideModal = function() {
@@ -179,6 +189,7 @@ $(document).ready(function(){
 
 	
 
+    
 <script type="text/javascript" async="" src="https://s.dpmsrv.com/dpm_56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.min.js"></script></head>
 
 <body>
@@ -253,6 +264,8 @@ $(document).ready(function(){
 
 
 
+
+
 <!-- Custom Ads -->
 <!-- Wallpaper Ad container -->
 <div id="ad_hug">
@@ -264,28 +277,28 @@ $(document).ready(function(){
 <!-- TEST TAGS -->
 <!-- END TEST TAGS -->
 
-<div class="ad custom-ad ad-1658x1058 wallpaper-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="537455001" data-ad-skip-fallback="true" id="openx_adunit_id__537455001__1979715647"></div>
+<div class="ad custom-ad ad-1658x1058 wallpaper-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="537455001" data-ad-skip-fallback="true" id="openx_adunit_id__537455001__529719994"></div>
 <!-- Welcome Ad container -->
 <!-- End Welcome Ad container -->
 
 <!-- TEST TAGS -->
 <!-- END TEST TAGS -->
 
-<div class="ad custom-ad ad-550x480 welcome-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="537455011" data-ad-skip-fallback="true" id="openx_adunit_id__537455011__1022137073"></div>
+<div class="ad custom-ad ad-550x480 welcome-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="537455011" data-ad-skip-fallback="true" id="openx_adunit_id__537455011__105235782"></div>
 <!-- Page Peel Ad container -->
 <!-- End Page Peel Ad container -->
 
 <!-- TEST TAGS -->
 <!-- END TEST TAGS -->
 
-<div class="ad custom-ad ad-500x500 page-peel-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="537454998" data-ad-skip-fallback="true" id="openx_adunit_id__537454998__1500774403"></div>
+<div class="ad custom-ad ad-500x500 page-peel-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="537454998" data-ad-skip-fallback="true" id="openx_adunit_id__537454998__16950640"></div>
 <!-- Page Peel Ad container -->
 <!-- End Page Peel Ad container -->
 
 <!-- TEST TAGS -->
 <!-- END TEST TAGS -->
 
-<div class="ad custom-ad ad-1x1 take-over-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="537455000" data-ad-skip-fallback="true" id="openx_adunit_id__537455000__1808378076"></div>
+<div class="ad custom-ad ad-1x1 take-over-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="537455000" data-ad-skip-fallback="true" id="openx_adunit_id__537455000__579400171"></div>
 <!-- End Custom Ads -->
 
 <div class="overlay page-overlay ghost"></div>
@@ -546,6 +559,11 @@ $(document).ready(function(){
 		<a href="/locator/asphalt" class="tooltip-item uppercase">Asphalt Industry Directory</a>
 	<!-- </div> -->
 </li>
+<li class="navigation-item extras section-11786" data-alias="/economics">
+	<!-- <div class="color-effect"> -->
+		<a href="/economics" class="tooltip-item uppercase">Economics</a>
+	<!-- </div> -->
+</li>
 
 
 					<li class="navigation-header alt-color-1">User</li>
@@ -580,11 +598,11 @@ $(document).ready(function(){
 
 	<div class="ad-container leaderboard-ad-container variable">
 
-		<div class="ad leaderboard-ad ad-320x50" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="537454997" id="openx_adunit_id__537454997__849675499"></div>
+		<div class="ad leaderboard-ad ad-320x50" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="537454997" id="openx_adunit_id__537454997__487584809"></div>
 
-		<div class="ad leaderboard-ad ad-728x90" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="537454994" id="openx_adunit_id__537454994__1301743825"></div>
+		<div class="ad leaderboard-ad ad-728x90" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="537454994" id="openx_adunit_id__537454994__172231845"></div>
 
-		<div class="ad leaderboard-ad ad-970x90" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="537454972" id="openx_adunit_id__537454972__850580717"></div>
+		<div class="ad leaderboard-ad ad-970x90" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="537454972" id="openx_adunit_id__537454972__1647736373"></div>
 
 	</div>
 	
@@ -841,11 +859,11 @@ $(document).ready(function(){
 
 	<div class="ad-container leaderboard-ad-container variable">
 
-		<div class="ad leaderboard-ad ad-320x50" data-ad-sponsor-skip="1" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="537454997" id="openx_adunit_id__537454997__2056491912"></div>
+		<div class="ad leaderboard-ad ad-320x50" data-ad-sponsor-skip="1" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="537454997" id="openx_adunit_id__537454997__76434165"></div>
 
-		<div class="ad leaderboard-ad ad-728x90" data-ad-sponsor-skip="1" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="537454994" id="openx_adunit_id__537454994__1803816730"></div>
+		<div class="ad leaderboard-ad ad-728x90" data-ad-sponsor-skip="1" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="537454994" id="openx_adunit_id__537454994__1725470481"></div>
 
-		<div class="ad leaderboard-ad ad-970x90" data-ad-sponsor-skip="1" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="537454999" id="openx_adunit_id__537454999__1189476686"></div>
+		<div class="ad leaderboard-ad ad-970x90" data-ad-sponsor-skip="1" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="537454999" id="openx_adunit_id__537454999__982897883"></div>
 
 	</div>
 	
@@ -857,7 +875,34 @@ $(document).ready(function(){
 
     
 
+
+<script src="//fast.wistia.com/static/embed_shepherd-v1.js"></script>
+<script>
+//<![CDATA[
+wistiaEmbeds.onFind(function(video) {
+  var email = Wistia.localStorage("golden-ticket");
+  if (email) {
+    video.setEmail(email);
+  }
+});
+wistiaEmbeds.bind("conversion", function(video, type, data) {
+  if (/^(pre|mid|post)-roll-email$/.test(type)) {
+    Wistia.localStorage("golden-ticket", data);
+    for (var i = 0; i < wistiaEmbeds.length; i++) {
+      wistiaEmbeds[i].setEmail(data);
+    }
+  }
+});
+//]]>
+</script>
+
+
+
 </footer>
+
+
+
+
 
 
 
