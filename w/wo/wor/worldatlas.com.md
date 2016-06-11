@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021051108id_/http%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611090738id_/http%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
 
 # Worldatlas.com and Graphic Maps Privacy Policy
 
@@ -46,5 +46,40 @@ If you have any questions about this privacy statement, the practices of this si
 
   
 worldatlas.com web hosting provided by [rackspace.com](http://www.rackspace.com/)
+
+## Trending on WorldAtlas
+
+  * [ ](https://web.archive.org/articles/most-dangerous-cities-in-the-world.html) [
+
+Most Dangerous Cities in the World
+
+](https://web.archive.org/articles/most-dangerous-cities-in-the-world.html)
+  * [ ](https://web.archive.org/articles/the-10-smallest-countries-in-the-world.html) [
+
+The 10 Smallest Countries In The World
+
+](https://web.archive.org/articles/the-10-smallest-countries-in-the-world.html)
+  * [ ](https://web.archive.org/articles/the-richest-countries-in-the-world.html) [
+
+The Richest Countries In The World
+
+](https://web.archive.org/articles/the-richest-countries-in-the-world.html)
+  * [ ](https://web.archive.org/articles/what-animals-live-in-the-amazon-rainforest.html) [
+
+What Animals Live In The Amazon Rainforest?
+
+](https://web.archive.org/articles/what-animals-live-in-the-amazon-rainforest.html)
+  * [ ](https://web.archive.org/articles/29-most-obese-countries-in-the-world.html) [
+
+29 Most Obese Countries In The World
+
+](https://web.archive.org/articles/29-most-obese-countries-in-the-world.html)
+  * [ ](https://web.archive.org/articles/countries-with-the-tallest-average-heights.html) [
+
+Countries With The Tallest Average Heights
+
+](https://web.archive.org/articles/countries-with-the-tallest-average-heights.html)
+
+
 
 This page was last modified on **August 13, 2015**.
