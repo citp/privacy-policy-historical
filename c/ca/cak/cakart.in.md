@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakart.in privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215162936id_/http%3A//www.cakart.in/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakart.in privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611024153id_/http%3A//www.cakart.in/terms%23privacy) for the most accurate reproduction.*
 
 # The best online video classes and video lecture coaching for CA, CS, CWA and Banking exams in India.
 
