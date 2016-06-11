@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cognifit.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118141142id_/https%3A//www.cognifit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cognifit.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611032546id_/https%3A//www.cognifit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We respect your privacy. This policy explains the accepted privacy practices for our services at [www.cognifit.com](http://www.cognifit.com/), including the purchase and online use of the CogniFit software and suite of training programs and any future software, product, neurons or training programs (the **"Websites"** **"Product"** and **"Products"** respectively, or collectively: the **"Services"** ). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices.
+We respect your privacy. This policy explains the accepted privacy practices for our services at [.cognifit.com](http://www.cognifit.com/), including the purchase and online use of the CogniFit software and suite of training programs and any future software, product, neurons or training programs (the **"Websites"** **"Product"** and **"Products"** respectively, or collectively: the **"Services"** ). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices.
 
 This policy is incorporated by reference to the Websites' Terms and Conditions ( **"Terms of Use"** ).
 
@@ -79,7 +79,7 @@ At any time, we may review, retain and disclose any information as we deem neces
 
 **Deletion of personally identifiable information**
 
-If you wish to delete your personally identifiable information that is stored in our databases, you may contact us at [Customer Support](mailto:support@cognifit.com). You can also delete your account directly from your account settings on the Websites. CogniFit will inform you whether your request has been accepted and may refuse to comply with your request, for example, if CogniFit believes that deleting certain information might prevent maintaining necessary contact with you, or jeopardize certain activities on the Websites, or harm other users. In any case, CogniFit may keep any aggregated or anonymized information for statistical, marketing and other purposes. 
+If you wish to delete your personally identifiable information that is stored in our databases, you may contact us at [ Support](mailto:support@cognifit.com). You can also delete your account directly from your account settings on the Websites. CogniFit will inform you whether your request has been accepted and may refuse to comply with your request, for example, if CogniFit believes that deleting certain information might prevent maintaining necessary contact with you, or jeopardize certain activities on the Websites, or harm other users. In any case, CogniFit may keep any aggregated or anonymized information for statistical, marketing and other purposes. 
 
 **Information security**
 
@@ -134,6 +134,6 @@ When we intend to collect personal information from children, we take additional
 
 
 
-For additional information about our practices in the United States and Latin America regarding children's personal information, please read our [Children's Privacy Policy](https://web.archive.org/children-privacy-policy).
+For additional information about our practices in the United States and Latin America regarding children's personal information, please read our ['s Privacy Policy](https://web.archive.org/children-privacy-policy).
 
 **Last Updated: August 10, 2014.**
