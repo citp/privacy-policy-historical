@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the captcha.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011073925id_/https%3A//captcha.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captcha.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611045701id_/https%3A//captcha.com/privacy.html) for the most accurate reproduction.*
 
-# captcha.com Privacy Policy | captcha.com
+# captcha.com Privacy Policy
 
 We are committed to respecting your privacy and recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, such as name, address, and e-mail).
 
