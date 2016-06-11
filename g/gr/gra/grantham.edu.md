@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grantham.edu privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214022804id_/http%3A//www.grantham.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantham.edu privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611060753id_/http%3A//www.grantham.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Grantham.edu
+# Privacy Policy - Grantham University – Get your Degree Online | Grantham.edu
 
 Grantham University is committed to protecting your privacy when you visit our websites. We want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. The University reserves the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates.
 
