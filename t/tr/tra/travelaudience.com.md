@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelaudience.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202090136id_/http%3A//travelaudience.com/taresources/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelaudience.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611145732id_/http%3A//travelaudience.com/taresources/privacy.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -79,6 +79,11 @@ First, you can change the cookie settings in your browser so that cookies are no
 Please keep in mind that when you block cookies, certain website services that require the processing of cookies (such as certain shopping carts on ecommerce sites) may no longer work.
 
 ### Opt-Out
+
+You may furthermore inform us that you no longer want personalized advertising provided by travel audience by activating the following button icon.
+
+Your current cookie status:  
+
 
 Please keep in mind that in this case we will set a cookie that contains information indicating that you do not wish to receive advertising personalized by travel audience through retargeting. When you have deactivated the acceptance of cookies (see above) in your browser or when you delete the cookies, we will no longer be able to know that you do not want any retargeting. In this case, you will have to reactivate the aforementioned button icon, thereby ensuring that the relevant cookie is permanently stored. The same applies when you use a browser other than the one you are currently using.
 
