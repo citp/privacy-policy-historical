@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greycampus.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225031726id_/http%3A//www.greycampus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greycampus.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611050748id_/http%3A//www.greycampus.com/privacy-policy) for the most accurate reproduction.*
 
 # GreyCampus - Privacy policy
 
@@ -10,13 +10,13 @@ We therefore undertake not to provide anyone with your contact details, includin
 
 We also undertake not to make any individual or organization privy to the contents of any correspondence with us irrespective of whether the correspondence is made electronically through this site or by conventional means.
 
-Despite the above, with respect to all users of our site, Winzest and its associates reserves the right to disclose any content, records, or electronic communication of any kind (including personal information transmitted through our site) in one or more of the following circumstance
+Despite the above, with respect to all users of our site, GreyCampus and its associates reserves the right to disclose any content, records, or electronic communication of any kind (including personal information transmitted through our site) in one or more of the following circumstance
 
 1\. To comply with any law, regulation, or government order under Indian jurisdiction;
 
-2\. If such disclosure is necessary to operate Winzest or any of its business units; and
+2\. If such disclosure is necessary to operate GreyCampus or any of its business units; and
 
-3\. To protect the property and/or legitimate rights of Winzest or its associates, investors, customers, employees and suppliers.
+3\. To protect the property and/or legitimate rights of GreyCampus or its associates, investors, customers, employees and suppliers.
 
 Information collected by GreyCampus
 
