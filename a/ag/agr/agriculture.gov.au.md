@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211111618id_/http%3A//www.agriculture.gov.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611125403id_/http%3A//www.agriculture.gov.au/about/privacy) for the most accurate reproduction.*
 
-# Home Privacy - Department of Agriculture and Water Resources
+# Home Privacy policy - Department of Agriculture and Water Resources
 
-​​​The department provides the following Privacy Policy in accordance with the _Privacy Act 1988_.
+​​​​​The department provides the following Privacy Policy in accordance with the _Privacy Act 1988_.
 
 The purpose of this privacy policy is to:
 
@@ -12,27 +12,25 @@ The purpose of this privacy policy is to:
 
 
 
-This condensed privacy policy has been developed to follow the ‘layered policy’ format, which means that it offers layers of greater or lesser detail so people can read as much as they wish and find what they need. This document provides you with a succinct overview of how we handle your personal information. Our complete privacy policy ( Word [[146 KB](https://web.archive.org/Style%20Library/Images/DAFF/__data/assets/word_doc/0004/2376796/Complete_privacy_policy.doc)]) can be accessed on our website.
+This condensed privacy policy has been developed to follow the ‘layered policy’ format, which means that it offers layers of greater or lesser detail so people can read as much as they wish and find what they need. This document provides you with a succinct overview of how we handle your personal information. Our [complete privacy policy](https://web.archive.org/Style%20Library/Images/DAFF/__data/assets/word_doc/0004/2376796/Complete_privacy_policy.doc) Word [146 KB].
 
 If you wish to make any comments or suggestions about the privacy policy, you can do so by contacting the privacy team in the Office of the General Counsel within the department via:
 
 Email: [Privacy](mailto:privacy@agriculture.gov.au)  
 Phone: (02) 6272 3933  
-Mail: Privacy, Department of Agriculture and Water Resources, PO Box 858, Canberra ACT 2601.  
-
+Mail: Privacy, Department of Agriculture and Water Resources, PO Box 858, Canberra ACT 2601.
 
 Any comments and/or suggestions will be reviewed and considered by the department’s privacy officers.
 
 If you would like to request the privacy policy be made available in an alternate format or language, such as for the vision impaired, or for those from non-english speaking backgrounds, please also contact the privacy team. Reasonable steps will be taken to provide alternate access.
 
-This privacy policy is reviewed and updated annually. Changes will be advertised via the ‘[Latest News](https://web.archive.org/)’ window on the department’s website.  
-
+This privacy policy is reviewed and updated annually. Changes will be advertised via the ‘[Latest News](https://web.archive.org/)’ window on the department’s website.
 
 The privacy policy was last reviewed in March 2014.
 
 ## Our obligations under the Privacy Act
 
-This privacy policy sets out how we comply with our obligations under the [ _Privacy Act 1988_](https://www.comlaw.gov.au/Search/privacy%20Act%201988) (Privacy Act). As an Australian Government agency, we are bound by the Australian Privacy Principles (APP) in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
+This privacy policy sets out how we comply with our obligations under the [ Privacy Act 1988](https://www.comlaw.gov.au/Search/privacy%20Act%201988) (Privacy Act). As an Australian Government agency, we are bound by the Australian Privacy Principles (APP) in the Privacy Act which regulate how government agencies collect, use, store and disclose personal information, and how individuals may access and correct personal information held about them.
 
 ## Personal information
 
@@ -64,17 +62,9 @@ Sensitive information is defined in the Privacy Act as information or an opinion
 
 The department collects and holds a variety of personal information, as included in the table below.
 
-Information Type
-
-| 
-
-Description  
-  
+Information Type| Description  
 ---|---  
-  
-Personal information
-
-| 
+Personal information| 
 
   * name
   * age and gender
@@ -86,11 +76,8 @@ Personal information
   * financial information (ABN)
 
   
-  
 Sensitive information  
-(a subset of Personal information)
-
-| 
+(a subset of Personal information)| 
 
   * racial or ethnic origin
   * political opinion or association
@@ -126,50 +113,42 @@ There are a number of general purposes for which the department may collect, hol
 
 A variety of information is collected by using the department’s website and online services. Some of this may be personal information, which is summarised in the table below:
 
-**Information type**
-
-| 
-
-**Treatment**  
-  
+Information type| Treatment  
 ---|---  
-  
-**Emails and electronic forms**
+ **Emails and electronic forms**| 
 
-| 
+The department’s servers may record your email address if you send us a message online. Your email address will not be added to a mailing list unless you have provided it to the department in order to subscribe to one of our subscription services.
 
-The department’s servers may record your email address if you send us a message online. Your email address will not be added to a mailing list unless you have provided it to the department in order to subscribe to one of our subscription services.  
-When you send us a message online the department’s servers may also record your usage data in the form of page URLs that you have visited on our websites. These URLs will be used for research purposes only within the department.​  
-Where you choose to send the department a completed electronic form that includes your personal details, the department collects personal information such as name, address and email address. The information collected by email or electronic forms will be used only for the purpose for which you provided it, unless an exception applies.  
+When you send us a message online the department’s servers may also record your usage data in the form of page URLs that you have visited on our websites. These URLs will be used for research purposes only within the department.​
+
+Where you choose to send the department a completed electronic form that includes your personal details, the department collects personal information such as name, address and email address. The information collected by email or electronic forms will be used only for the purpose for which you provided it, unless an exception applies.
+
 For those who do not wish to use the internet to transmit information, the department provides alternative ways of providing information. For example, forms may be printed (or obtained in hard copy) and lodged by post.  
   
-**Payment information**
+ **Payment information**| 
 
-| 
+If you choose to pay for a service or product using secure credit card payment facilities available on our website, you will be asked to provide your credit card details. Credit card details are encrypted from the moment they are entered into an electronic form. All other information entered into an electronic form will be encrypted upon submission to the department. 
 
-If you choose to pay for a service or product using secure credit card payment facilities available on our website, you will be asked to provide your credit card details. Credit card details are encrypted from the moment they are entered into an electronic form. All other information entered into an electronic form will be encrypted upon submission to the department.  
 The department stores encrypted credit card details only until the industry standard charge back period has expired (currently 10 months).  
   
-**Clickstream data**
-
-| 
+ **Clickstream data**| 
 
 The department makes a record of your visit to the website and logs the following information for statistical purposes: the user's Internet Protocol (IP) address, the date and time of the visit to the site, the web pages accessed and documents downloaded, the previous site visited, and the user's web browser and operating system.  
   
-**Google Analytics**
+ **Google Analytics**| 
 
-| 
+In addition to web server logs, the department’s website also uses Google Analytics, a web analytics service provided by Google Incorporated (Google). Reports obtained from Google Analytics are used to help improve the department’s website. Google Analytics uses 'cookies' to help analyse how users use the site.
 
-In addition to web server logs, the department’s website also uses Google Analytics, a web analytics service provided by Google Incorporated (Google). Reports obtained from Google Analytics are used to help improve the department’s website. Google Analytics uses 'cookies' to help analyse how users use the site.  
-The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States of America. Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  
+The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States of America. Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
+
 By using the department’s website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. Please refer to [Google's privacy policy](http://www.google.com/privacy.html) for further information.  
   
-**Cookies**
+ **Cookies**| 
 
-| 
+The department utilises cookies when you visit our site. A cookie is a piece of information that a website sends to your browser when you access information at a site. Cookies give websites a sense of memory, allowing them to recognise one user from another. Most sites use them to do anything from counting the number of viewers they have, delivering tailored editorial content, or enabling website editors to identify which of their pages are most popular. 
 
-The department utilises cookies when you visit our site. A cookie is a piece of information that a website sends to your browser when you access information at a site. Cookies give websites a sense of memory, allowing them to recognise one user from another. Most sites use them to do anything from counting the number of viewers they have, delivering tailored editorial content, or enabling website editors to identify which of their pages are most popular.  
-Despite common myths, the cookies sent to your PC cannot read your hard drive, obtain any information from your browser or command your computer to perform any action. They are designed so that they cannot be sent to, or be retrieved by, any other site. Upon receipt of the information from the Department of Agriculture and Water Resources site your browser also saves a Department of Agriculture and Water Resources cookie on your hard-disk. Each time you use your computer to access the Department of Agriculture and Water Resources website, the information that was previously received is sent back to the Department of Agriculture site and Water Resources by your browser, this enables us to identify the information that is most important to you and ensure it can be located effectively. Most commonly used browsers support the use of cookies.  
+Despite common myths, the cookies sent to your PC cannot read your hard drive, obtain any information from your browser or command your computer to perform any action. They are designed so that they cannot be sent to, or be retrieved by, any other site. Upon receipt of the information from the Department of Agriculture and Water Resources site your browser also saves a Department of Agriculture and Water Resources cookie on your hard-disk. Each time you use your computer to access the Department of Agriculture and Water Resources website, the information that was previously received is sent back to the Department of Agriculture site and Water Resources by your browser, this enables us to identify the information that is most important to you and ensure it can be located effectively. Most commonly used browsers support the use of cookies.
+
 You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of some websites. For more information about cookies and instructions on how to adjust your browser settings to restrict or disable cookies, see the [Office of the P​rivacy Commissioner website](https://www.oaic.gov.au/) or the [Interactive Advertising Bureau website](http://www.allaboutcookies.org/).  
   
 ## How to access and seek correction of your personal information
@@ -198,7 +177,7 @@ In the first instance, any privacy concerns or complaints should be reported to 
 
 Phone: 02 6272 3933  
 Email: [Privacy](mailto:privacy@agriculture.gov.au)  
-Mail: Privacy, Department of Agriculture and Water Resources, PO BOX 858, Canberra ACT 2601.
+Mail: Privacy, Department of Agriculture and Water Resources, PO BOX 858, Canberra ACT 2601.
 
 If you are unhappy with the department’s response or reply, you also have the option of contacting the Privacy Commissioner within the OAIC. The Privacy Commissioner can be contacted on:
 
@@ -211,3 +190,5 @@ This site adheres to Commonwealth Government Internet security standards, includ
 **Note:** There is an inherent risk associated with the use of an insecure public network such as the World Wide Web. A user's transactions (including emails) may be viewed, intercepted, corrupted or modified by, or otherwise disclosed to, a third party. The Commonwealth cannot guarantee the security or integrity of any transaction over such a network, including personal or other private information transmitted via email to or from a Department email address (X@agriculture.gov.au). The Commonwealth is not liable in connection with the transmission of any such information (including as a result of negligence).
 
 If you prefer to use an alternative means of delivery, you can send the information via the department's normal communications methods; i.e. mail, phone or fax. If you take this approach, please make it clear which part of the website you are responding to.
+
+​
