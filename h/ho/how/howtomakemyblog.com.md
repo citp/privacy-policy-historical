@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtomakemyblog.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226001754id_/http%3A//howtomakemyblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtomakemyblog.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611072740id_/http%3A//howtomakemyblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,4 +49,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://howtomakemyblog.com/contact/).
 
-September 2013
+2016
