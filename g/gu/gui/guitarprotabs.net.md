@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarprotabs.net privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212163225id_/http%3A//www.guitarprotabs.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarprotabs.net privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611215216id_/http%3A//www.guitarprotabs.net/privacy) for the most accurate reproduction.*
 
 # - Guitar Pro Tab
 
