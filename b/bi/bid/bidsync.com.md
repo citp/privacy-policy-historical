@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidsync.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214134720id_/http%3A//www.bidsync.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidsync.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611135052id_/https%3A//www.bidsync.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Bidsync.com
+# Government Bids, RFPs & Government Contracts | BidSync™
 
 ### **BidSync Privacy Policy To Our Individual Clients**
 
@@ -29,4 +29,5 @@ You can generally visit our Site without revealing any personally identifiable i
 _Last Updated November 17, 2010_
 
 
-| 
+|   
+---|---
