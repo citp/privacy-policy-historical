@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordeconomics.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216092431id_/http%3A//www.oxfordeconomics.com/privacy/overview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordeconomics.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611224008id_/http%3A//www.oxfordeconomics.com/privacy/overview) for the most accurate reproduction.*
 
 # Privacy > Overview - Oxford Economics
 
