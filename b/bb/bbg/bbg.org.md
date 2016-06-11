@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbg.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221085315id_/http%3A//www.bbg.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbg.org privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611201654id_/http%3A//www.bbg.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Brooklyn Botanic Garden
 
@@ -7,6 +7,12 @@
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. The following policy is intended to explain how your personal information will be treated as you make use of our site. Personal information includes your name, street, and email addresses, billing information, click-through activity, and any other information you may provide here. This policy may change from time to time, so please check back periodically. By using the Brooklyn Botanic Garden website, you consent to the data practices described in this statement. 
 
 ### Information BBG Gathers and Tracks
+
+#### AdRoll
+
+BBG works with [AdRoll retargeting](http://www.adroll.com/), who uses technology including web beacons and cookies to collect data about our website usage and to improve the effectiveness of our marketing. Data recorded through the use of this technology is aggregated and shared with us.
+
+No personally identifiable information about you is collected or shared by AdRoll with BBG. You can opt-out of AdRoll and their partners by visiting the [AdRoll website](http://www.adroll.com/about/privacy).
 
 #### BBG eNews
 
@@ -33,8 +39,6 @@ There are several places on the BBG website where users can send questions or co
 BBG tracks user traffic patterns throughout the site. However, we do not correlate this information with data about individual users. BBG does break down overall usage statistics according to a user's domain name, browser type, and MIME (data) type by reading this information from the browser string (information contained in every user's browser).
 
 BBG sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like, based on traffic in those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. 
-
-BBG does not use cookies to track user traffic patterns.
 
 #### Children
 
