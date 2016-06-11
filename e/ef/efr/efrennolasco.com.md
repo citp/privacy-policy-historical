@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efrennolasco.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212013335id_/http%3A//www.efrennolasco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efrennolasco.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611223238id_/http%3A//www.efrennolasco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Efren Nolasco
 
