@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the govnokri.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120170929id_/http%3A//govnokri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govnokri.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611212129id_/http%3A//www.ingovtjob.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# latest Privacy Policy govt jobs 2016 upcoming 2015 recruitment notification
 
-**[www.govnokri.com](http://govnokri.com/)** Really takes your Privacy Seriously. This Privacy Policy Describe what personal Information do we collect and how we use it.
+**[www.ingovtjob.com](http://www.ingovtjob.com/)** Really takes your Privacy Seriously. This Privacy Policy Describe what personal Information do we collect and how we use it.
 
 We Collect information from you when you subscribe to our posts or Comments.
 
@@ -32,6 +32,8 @@ This policy was last modified on 15th July 2013.
 
 If there are any questions regarding this privacy Policy you may contact us using the information below.
 
-[**govnokri.com**](http://govnokri.com/)
+ **[www.ingovtjob.com](http://www.ingovtjob.com/)**
 
-**contact@govnokri.com**
+ **Govnokri@gmail.com**
+
+Important Note: Kindly Visit to official website to get detailed information about this post as above information on this page may not be complete.
