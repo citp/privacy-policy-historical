@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the finestationery.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609200919id_/http%3A//www.finestationery.com/customer-care/privacy-and-security/finestationery-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finestationery.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611132509id_/http%3A//www.finestationery.com/customer-care/privacy-and-security/finestationery-privacy-policy) for the most accurate reproduction.*
 
 # FineStationery Privacy Policy - FineStationery.com
 
-_Privacy Policy last updated 08/27/2012._
+_Privacy Policy last updated 06/24/2015._
 
 FineStationery®, recognizes and respects the importance of maintaining the privacy of our customers, registered members ("Members") and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of:
 
@@ -14,7 +14,7 @@ FineStationery®, recognizes and respects the importance of maintaining the priv
 
 
 
-This Privacy Policy is part of the [Terms of Use](https://web.archive.org/index.cfm/customer-care/terms-of-use/finestationery-terms-of-use/), which governs your use of our Web Site located at www.finestationery.com (or the "Web Site"). The Services are owned by 1-800-Flowers.com, Inc. (the "Company"). This Privacy Policy does not cover information provided to our Company-owned or franchised retail stores.
+This Privacy Policy is part of the [Terms of Use](https://web.archive.org/index.cfm/customer-care/terms-of-use/finestationery-terms-of-use/), which governs your use of our Web Site located at www.finestationery.com (or the "Web Site"). The Services are owned by Fine Stationery International, LLC. (the "Company"). This Privacy Policy does not cover information provided to our Company-owned or franchised retail stores.
 
 Note: You must be 18 years or older and the age of majority in your place of residence to use, subscribe or register as a member of FineStationey.com® (or 21 years or older in the event that you place a request for transmission of an order for a product containing alcohol). The Service is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children under 13 years of age.
 
@@ -72,7 +72,7 @@ We use information we collect to communicate with you, to process your orders, t
 
 However, without your consent, we do not make your, or your gift or message recipients' email addresses, available to “third parties” (as that term is defined and limited below). For example, we may make your postal address available to third parties for marketing purposes, however we would not share your email address without your consent. In addition, you may instruct that other personal information about you or your message or gift recipients' that you have provided to us not be shared with third parties by following the instructions in How to Limit the Use of Personal Information, below.
 
-Our Affiliates, subcontractors, and agents, and any successors or assignees to our business (if we ever sell, lease, license or assign some or all of our business), are not considered to be third parties under this Policy. We may provide your information to our Affiliates for use in connection with their businesses, including sending you offers and promotions. However, in connection with information collected under this Policy, they are required to comply with this Policy. "Affiliates" are persons or entities directly or indirectly controlling, controlled by, or under common control with, or in the same corporate family as, 1-800-Flowers.com, Inc.
+Our Affiliates, subcontractors, and agents, and any successors or assignees to our business (if we ever sell, lease, license or assign some or all of our business), are not considered to be third parties under this Policy. We may provide your information to our Affiliates for use in connection with their businesses, including sending you offers and promotions. However, in connection with information collected under this Policy, they are required to comply with this Policy. "Affiliates" are persons or entities directly or indirectly controlling, controlled by, or under common control with, or in the same corporate family as, Fine Stationery International, LLC.
 
 We may combine information we receive from you via our Services with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us and to communicate with you in accordance with this Privacy Policy.
 
@@ -111,8 +111,10 @@ Emailing us at: [remove@finestationery.com](mailto:remove@finestationery.com) fr
 Writing us at:  
 Customer Satisfaction Department  
 FineStationery.com  
-201 West 14th Street, Suite 200  
-Wilmington, DE 19801
+1313 North Market St,   
+Suite 303  
+Wilmington, DE 19801  
+ 
 
 Telephoning us at 1-888.808.FINE (3463)
 
@@ -149,4 +151,4 @@ By using FineStationery.com®, after such changes take effect, you agree to be l
 FineStationery.com® welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [feedback@finestationery.com](mailto:feedback@finestationery.com).
 
   
-_Privacy Policy last updated 08/27/2012._
+_Privacy Policy last updated 06/24/2015._
