@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the freehoroscopesastrology.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210102414id_/http%3A//www.freehoroscopesastrology.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehoroscopesastrology.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611231811id_/http%3A//www.freehoroscopesastrology.com/privacy.aspx) for the most accurate reproduction.*
 
 # Free Horoscopes Astrology Privacy Policy
 
-Free Horoscopes Astrology respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies to information collected at the freehoroscopesastrology.com web site (Free Horoscopes Astrology), owned and operated by the Millenium Multimedia Corporation, 1217 SW 120th Way, Davie FL 33325. We may amend this statement at any time. Such amendments will apply from the time of publication forward.
+|  | 
+
+* * *
+
+[](http://shop.freehoroscopesastrology.com/report/destinyrevealed)
+
+Free Horoscopes Astrology respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies to information collected at the freehoroscopesastrology.com web site (Free Horoscopes Astrology) and its subdomains, owned and operated by the Millenium Multimedia Corporation, 751 NW 108th Ave, Plantation FL 33324. We may amend this statement at any time. Such amendments will apply from the time of publication forward.
 
 Visitor Tracking
 
@@ -55,3 +61,19 @@ Your Responsibility
 You are responsible for the security of your account numbers and/or passwords. Make sure you keep them in a safe place and do not share them with others.
 
 Always remember to log out after your session ends, to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, but even when using your private computer in your home.
+
+[ ](mailto:freehoroscopesastrology@millenniummultimedia.net)
+
+[
+
+### Personal Horoscope Birth Chart Readings
+
+](mailto:freehoroscopesastrology@millenniummultimedia.net)
+
+[ ](mailto:freehoroscopesastrology@millenniummultimedia.net)[](http://www.freehoroscopesastrology.com/free-zodiac-birth-chart.aspx)
+
+Our in-depth personal astrology reports and personalized horoscopes are all about YOU, based on your zodiac birth chart. Birthday horoscopes, based on your birth place, birth date and time are the most accurate readings available. You'll be amazed by these in-depth astrology forecasts and personal zodiac interpretations. Available online and for immediate download without obligation, so grab your [free natal chart, birth chart interpretation and free personality profile](http://www.freehoroscopesastrology.com/free-zodiac-birth-chart.aspx) today. If you like the sample readings, you'll be thrilled with the full length astrology predictions and reports, on sale now!
+
+**Favorite Astrology Quote:** "You are a child of the universe, no less than the trees and the stars.  You have a right to be here.  And whether or not it is clear to you, no doubt the universe is unfolding as it should." - Max Ehrman
+
+|  | 
