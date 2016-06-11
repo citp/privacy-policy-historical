@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeartworks.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204044129id_/http%3A//www.lifeartworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeartworks.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611114635id_/http%3A//www.lifeartworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Artworks Modern Painting and Photography
 
@@ -17,4 +17,4 @@ External Links
 This site contains links to other sites. Life Artworks is not responsible for the privacy practices or the content of such Web sites.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.lifeartworks.com/contact-us/ "contact us").
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.lifeartworks.com/contact-us/).
