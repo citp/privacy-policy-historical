@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successfactors.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618235218id_/http%3A//www.successfactors.com/en_us/about-successfactors/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successfactors.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611221800id_/http%3A//www.successfactors.com/en_us/about-successfactors/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
