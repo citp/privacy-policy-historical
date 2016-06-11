@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardeners.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913101632id_/http%3A//www.gardeners.com/how-to/privacy-policy/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeners.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611221506id_/http%3A//www.gardeners.com/how-to/privacy-policy/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Gardener's Supply
 
@@ -16,7 +16,7 @@ When you visit our Sites, some information is automatically collected. For examp
 
 ### How do we use "cookies"?
 
-A cookie is a block of text placed in a file on the user's hard drive by a Web site you've visited. These types of cookies cannot identify an individual user specifically, such as by name or address, unless the cookie data is attached to personally identifiable information such as online registration. Gardner’s Supply uses cookies to observe our site visitor's navigation throughout the site. This helps us identify ways to improve the shopping experience. 
+A cookie is a block of text placed in a file on the user's hard drive by a Web site you've visited. These types of cookies cannot identify an individual user specifically, such as by name or address, unless the cookie data is attached to personally identifiable information such as online registration. Gardener’s Supply uses cookies to observe our site visitor's navigation throughout the site. This helps us identify ways to improve the shopping experience. 
 
 Gardener's Supply also uses a session cookie, which is a piece of identification between your browser and our server, which helps to do things like keep track of the items in a user's shopping cart, and other information. The shopping cart cookie is saved for a designated period of time in case the users' session expires or they return to complete a purchase within that time frame. 
 
