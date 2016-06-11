@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossout.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208202635id_/http%3A//www.crossout.net/en/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossout.net privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611232822id_/http%3A//www.crossout.net/en/support/privacypolicy) for the most accurate reproduction.*
 
 # Crossout - Free to Play MMO action gamePrivacy Policy
 
