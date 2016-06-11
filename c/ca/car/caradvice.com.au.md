@@ -1,118 +1,109 @@
-> *The following text is extracted and transformed from the caradvice.com.au privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211064927id_/http%3A//www.caradvice.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caradvice.com.au privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611063211id_/http%3A//www.caradvice.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-In this policy, “us”, “we” or “our” means CARADVICE.COM.AU PTY LTD (ABN 84 116 608 158) and its related bodies corporate.
+CarAdvice.com Limited ABN 84 116 608 158 (“ **CarAdvice Network** ”) is committed to safeguarding your personal information and protecting your privacy. Please take a few minutes to read the following privacy policy so that you understand how we treat your personal information. As we continuously improve and expand our services, this privacy policy might change. So please check it out periodically. If you have any questions about our privacy policy please email us at [privacy@caradvice.com.au](mailto:privacy@caradvice.com.au)
 
-**This policy sets out:**
+In all cases we will treat your personal information with no less protection than that provided for by the Australian Privacy Principles set out under the Privacy Amendment (Enhancing Privacy Protection) Act 2012  (Cth) and any other privacy laws that are in force in Australia.
 
-  * – what kind of information we collect;
-  * – how we collect it;
-  * – why we collect it;
-  * – how we use it;
-  * – how we disclose it;
-  * – opting in and out;
-  * – management and security;
-  * – how to seek access to and update your personal information; and
-  * – how to contact us.
+### How and what personal information we collect about you
+
+We collect personal information when:
+
+  1. you sign up to receive information or submit comments or via Contact Us. To do this, CarAdvice Network will require the minimum personal information required, including your e-mail, name, phone number, address and comments; and
+  2. you interact with CarAdvice Network, for example, via email, e-newsletters or regular mail.
 
 
 
-We are bound by the National Privacy Principles contained in the Privacy Act 1988 (Cwth) (subject to exemptions that apply to us under that Act).
+If you provide us with information via our website, this information will only identify who you are if you provide us with your details (for example, if you provide us with your contact details). When you visit our website our web server collects the following types of information for statistical and marketing purposes:
 
-We may, from time to time, review and update this policy, including to take account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy.
-
-This policy was last updated in October 2011.
-
-**What information we collect**
-
-In general, the personal information we collect about you includes (but is not limited to) your name, contact details (including phone numbers and addresses) and possibly financial information, including your credit card information.
-
-We also collect information about you that is not personal information. For example, we may collect data relating to your activity on our websites (including IP addresses) via tracking technologies such as cookies, or we may collect information from you in response to a survey. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. To the extent this information does not constitute personal information, the National Privacy Principles do not apply and we may use this information for any purpose and by any means whatsoever.
-
-We generally advise that you do not publish or communicate personal information, or at least limit the personal information that you publish or communicate, to the public via our services, such as in our classifieds, forums or blogs (Non-Confidential Information). You acknowledge that we cannot control any third party collection or use of your Non-Confidential Information. You agree that we may use and disclose Non-Confidential Information for any purpose and by any means whatsoever.
-
-**How we collect it**
-
-We may collect your personal information from a variety of sources, including from you, advertisers, mailing lists, recruitment agencies, contractors and business partners.
-
-We may collect your personal information when you request or acquire a product or service from us, register with us as a member, provide a product or service to us, complete a survey or questionnaire, enter a competition or event, contribute in a fundraising event, participate in our services (including our blogs and forums) or when you communicate with us by e-mail, telephone or in writing (for example if you contact customer service to make a complaint or provide feedback).
-
-If, at any time, you provide personal or other information about someone other than yourself, you warrant that you have that person’s consent to provide such information for the purpose specified.
-
-**Why we collect it**
-
-The primary purpose for which we collect information about you is to provide you with products and services you have requested. We also collect information about you for the purposes outlined below.
-
-We may state a more specific purpose at the point we collect your information.
-
-If you do not provide us with the information that we request, we may not be able to provide you with our products or services. For example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members only.
-
-**How we use it**
-
-In addition to the primary purpose outlined above, we may use the personal information we collect, and you consent to us using your personal information:
-
-  * – to provide you with news and information about our products and services;
-  * – to send marketing and promotional material that we believe you may be interested in. This material may relate to any of CarAdvice’s businesses or a third party business which we believe may be of interest to you;
-  * – for purposes necessary or incidental to the provision of goods and services to you;
-  * – to personalise and customise your experiences;
-  * – to manage and enhance our products and services;
-  * – to communicate with you, including by email, mail or telephone;
-  * – to conduct competitions or promotions on behalf of CarAdvice.com.au Pty Ltd and selected third parties;
-  * – to verify your identity;
-  * – to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or 
-  * – as required or permitted by any law (including the Privacy Act).
+  * Your Internet service provider, mobile carrier or data services provider;
+  * Your Internet Protocol (IP) address;
+  * The number of users who visit the website;
+  * The date and time of each visit;
+  * The pages accessed;
+  * The type of browser used;
+  * The links you click;
+  * The features you use;
+  * The content and images you select; and
+  * How you have arrived at our pages.
 
 
 
-**How we disclose it**
+CarAdvice Network staff will have access to your personal details for the purpose of system maintenance, support, testing and troubleshooting. CarAdvice Network may sell or share your data with third parties.
 
-We may disclose personal information, and you consent to us disclosing your personal information, to other members of the CarAdvice Group (in which case, your personal information will be collected, used, disclosed, managed and stored in accordance with this policy).
+Before we disclose your personal information to an overseas recipient such as a supplier or data warehouse:
 
-We may also disclose personal information, and you consent to us disclosing your personal information, to third parties:
-
-  * – engaged by us to perform functions or provide products and services on our behalf, such credit card gateways, mailouts, debt collection, marketing, research and advertising;
-  * – that are our agents, business partners or joint venture entities or partners;
-  * – that sponsor or promote any competition that we conduct or promote via our services;
-  * – authorised by you to receive information held by us;
-  * – as part of any investigation into you or your activity, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary to the Police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator;
-  * – as part of a sale (or proposed sale) of all or part of our business; and/or
-  * – as required or permitted by any law (including the Privacy Act).
+  1. who is not in Australia or an external territory; and
+  2. who is not the entity or the individual;
 
 
 
-**Opting in or out**
+we take steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the Australian Privacy Principles in relation to your personal information.
 
-At the point we collect information from you, you may be asked to “opt in” to consent to us using or disclosing your personal information other than in accordance with this policy or any applicable law. For example, you may be asked to opt-in to receive further information or communications from our advertisers and supporters which do not fall into one of the categories described above.
+### Why we collect personal information and what is it used for?
 
-You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe from e-newsletters and other marketing or promotional material sent by us. You may “opt out” from receiving these communications by either clicking on an unsubscribe link at the end of an email or by updating your personal details on our My Account page. You may also cancel your account on our My Account page.
+We store your personal information to communicate with you. We may use this information to:
 
-If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us using the address below.
+  1. facilitate purchases and payments between you and our service providers;
+  2. offer the best possible service to you;
+  3. provide user data to third parties on subjects that are of interest to you;
+  4. notify you of new services or promotions that the CarAdvice Network believe would be beneficial and valuable to you; and
+  5. send you marketing or promotional material where you have opted to receive this information.
 
-**Management and security**
 
-We have appointed a Privacy Officer to oversee the management of personal information in accordance with this policy and the Privacy Act.
 
-Other than in relation to Non-Confidential Information, we will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, pass word access, secure servers and encryption of credit card transactions.
+### How we hold or store the information we collect
 
-However, you acknowledge that the security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. You provide information to us via the internet or by post at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control.
+We store the information you provide to us and the information we collect electronically in our computer databases. Access to our computer servers is controlled by firewalls and best practice security protocols.
 
-You acknowledge that we are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose your personal information to in accordance with this policy or any applicable laws). The collection and use of your information by such third party/ies may be subject to separate privacy and security policies.
+### To whom do we disclose the personal information?
 
-If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately.
+We disclose personal information to our directors, employees and independent contractors only for a purpose that is consistent with the way we have informed you that we will use the information in this privacy policy.
 
-Accessing and updating your information and how to contact us
+We may also disclose personal information to any person or authority where we are required to by law.
 
-Subject to some exceptions in the Privacy Act, you have the right to seek access to and update the personal information we hold about you. If you make an access request, we will ask you to verify your identity. We may charge a fee to cover the costs of meeting your request.
+Other than as we have set out in our privacy policy, we will not disclose your personal information without your prior consent.
 
-Members of our websites will generally be able to access and update their membership details online.
+### Cookies
 
-We request that you keep your information as current as possible so that we may continue to improve our service to you.
+We use cookies to store and track information about your usage of our services. Cookies are encrypted and unidentifiable bits of information sent to your browser from a web server that is stored on your computer’s hard drive. Cookies are set each time you register, or log in or log out of our website. We may also use cookies to gather aggregated information about user habits on our website and services. For example, we may use cookies to estimate the number of concurrent users, estimate the total number of users, measure traffic statistics and to better understand how our users are using our services.
 
-If you would like to seek access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact the department that collected your personal information in the first instance, or write to:
+Our use of cookies also allows registered users to be presented with a personalised version of the website, carry out transactions and have access to information about your account.
 
-Privacy Officer  
-CarAdvice.com.au Pty Ltd  
-52 victoria Street  
+Most browsers will allow you to turn off cookies. If you want to know how to do this please look at the menu on your browser, or look at the instructions on [www.allaboutcookies.org](https://web.archive.org/web/20160611063211id_/http://www.caradvice.com.au/privacy-policy/www.allaboutcookies.org). Please note however that turning off cookies will restrict your use of our website.
+
+### Amending, deleting and how you can obtain access to your personal information
+
+We try to ensure that all personal information about you that we collect, use or disclose is accurate, complete and up-to-date.
+
+If you want to obtain access to any personal information and data that we hold about you, or believe any of your personal information that we hold is inaccurate, incomplete or it is not necessary to hold it, you can email us at privacy@caradvice.com.au and we will use reasonable efforts to provide it and, if required, correct it. Upon your request, we will provide you with a summary of your personal information. In your request, please provide us with the method that you interacted with us and your current specific contact information so that we can accurately check our records.
+
+You may at any time, request that we amend or delete your personal information from our database by emailing [privacy@caradvice.com.au](mailto:privacy@caradvice.com.au) with the method that you interacted with us and the information you want to amend or delete. If you need us to delete, correct or amend this data, we will do so within 30 days.
+
+### Security and retention policies
+
+We are committed to ensuring the security of the information we hold about you. We take all reasonable steps to ensure that the information we hold about you is protected from misuse, interference and loss, and from unauthorised access, modification or disclosure. If you have requested your personal information to be removed from a particular database we will take reasonable steps to destroy the information and/or ensure that the information is de-identified.
+
+We maintain our servers in a highly secure server environment with 24×7 monitoring, surveillance and support to prevent unauthorised access and data security. Advanced security measures including firewalls, security protocols and surveillance are taken to ensure the continued service and protection of our services from natural disaster, intruders and disruptive events.
+
+If you use the Internet to communicate with us, you should be aware of the risks in transmitting information over the Internet. We do not have control over information while in transit over the Internet and we cannot guarantee its security. Any personal information that we no longer require is destroyed. An exception to this may be where records are retained to comply with legal requirements.
+
+### Making a complaint
+
+If you would like to make a complaint about our collection, use or disclosure of personal information, or if you believe that we have not complied with this privacy policy, please contact us via email at [privacy@caradvice.com.au](mailto:privacy@caradvice.com.au) or post at:
+
+52 Victoria Street  
 McMahons Point  
-NSW 2060
+NSW 2060  
+Australia
+
+When contacting us, please provide us with as much detail as possible and in particular the chauffeur in relation to your complaint.
+
+We will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
+
+If you are not satisfied with the outcome of our assessment of your complaint, you may wish to contact the Office of the Australian Information Commissioner.
+
+### Contact us
+
+CarAdvice Network aims to provide an exceptional level of service to our customers at all times. If you have any questions, or believe that a violation of this privacy policy may have occurred, please email us at [privacy@caradvice.com.au](mailto:privacy@caradvice.com.au) or call us on (02) 9002 5233 and we will endeavour to respond to you within five (5) business days.
