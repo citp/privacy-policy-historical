@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edventures.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204075227id_/http%3A//edventures.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edventures.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611192044id_/http%3A//edventures.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – PCS edventures.com
 
-Privacy Policy
+**Privacy Policy**
 
 This Privacy Policy applies to all of the content and services offered by PCS Edventures!, Inc. and any of its affiliates (collectively, “PCS”),  including without limitation the websites at edventures.com, edventureslab.com, and any subdomain thereof and any content and services PCS provides on mobile devices, but excludes content and services that have separate privacy policies that do not incorporate this Privacy Policy.
 
@@ -34,13 +34,13 @@ Any of the information we collect from you may be used in one of the following w
 
 4) To process transactions
 
-    Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+ Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-5) To administer a contest, promotion, survey or other site feature
+5) To administer a contest, promotion, survey or other site features
 
 6) To send periodic emails
 
-    The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -96,18 +96,11 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-PCS Edventures!, Inc.
-
-345 Bobwhite Court, Suite 200
-
-Boise, ID, USA 83706
-
-Voice: 800.429.3110
-
-Voice: 208.343.3110
-
-Fax: 208.343.1321
-
-Product Information: sales@pcsedu.com
-
-Customer Support: help@pcsedu.com
+PCS Edventures!, Inc.  
+345 Bobwhite Court, Suite 200  
+Boise, ID, USA 83706  
+Voice: 800.429.3110  
+Voice: 208.343.3110  
+Fax: 208.343.1321  
+Product Information: info@edventures.com  
+Customer Support: support@edventures.com
