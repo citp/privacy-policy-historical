@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssir.org privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211053318id_/http%3A//ssir.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssir.org privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611084603id_/http%3A//ssir.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stanford Social Innovation Review
 
@@ -10,13 +10,13 @@ In addition to reviewing this privacy policy, please read our Terms of Use. Your
 
 This privacy policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the website by you will constitute your acceptance of any changes or revisions to the privacy policy.
 
-###  What Information the Website Collects
+### What Information the Website Collects
 
 Our site may automatically recognize your domain name, IP address, browser version, operating system, and the website you passed through to reach us. In addition, our site automatically gathers certain usage information, like the numbers and frequency of visits to the site and its areas—very much like television ratings that tell how many people tuned in to a program.
 
 Some features of our site offer you the option of providing information such as your name, email address, postal address, phone number, organization, location, or any other identifying information. As described in greater detail below, such information will only be used to provide you with products or services you have requested, or additional information about the sites or its affiliates. (You may also provide us with such information in the course of subscribing to _Stanford Social Innovation Review_ magazine or other offerings from _Stanford Social Innovation Review_ —details of how we use such information are also provided below.)
 
-###  How the Website Uses Information You Provide
+### How the Website Uses Information You Provide
 
 The information the website collects is used to improve the content of _Stanford Social Innovation Review_ magazine and its site, and to keep you apprised of important developments. For example, we may use personally identifiable information to contact you as part of an online survey about our editorial offerings, inform you of material changes or additions to our services, advise you of account status, or contact you in order to comply with any legal requirements. Also, we compile and use your information so that we may keep you apprised of special offers, as well as additional products that may be of interest to you.
 
@@ -30,31 +30,37 @@ In some cases, we may disclose information about you to a third party if we are 
 
 In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, _Stanford Social Innovation Review_ reserves the right to transfer your personally identifiable information to the new party in control or the party acquiring assets.
 
-###  Cookies
+### Cookies and Analytics
 
-You may have read about cookies, nuggets of information that are placed by a website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the website and are given the option to save your display name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies.
+Cookies are tiny data files that web sites commonly write to your hard drive when you visit them so that they can remember you when you visit. A cookie file contains information that can identify you anonymously and maintain your account's privacy. Our Service uses cookies to maintain a user's identity between sessions so that the site can be personalized based on user preferences or a user's history. We may use information collected using third party cookies (for example, Google AdSense and DoubleClick) and Web beacons on our Services to deliver _Stanford Social Innovation Review's_ advertising displayed to you on third party sites. We also use cookie information to know when you return to our Site after visiting these third party sites. We also use analytics services (Such as Google Analytics, Optimizely, ClickTale, New Relic, and others) to help analyze how users use the Services. These analytics services use cookies to collect and store information such as how often users visit the Services, what pages they visit, and what other sites they used prior to coming to the Services. We also use the information from these analytics services to improve our Services and to provide reporting to our Partners regarding site activity and utilization. Please see the following links for more information about Google Analytics, DoubleClick, and Google AdSense:http://www.google.com/policies/technologies/ads/ and http://www.google.com/policies/privacy/.
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.
+You can set your web browser to prompt you before you accept a cookie, accept cookies automatically or reject all cookies. However, if you choose not to accept cookies from this web site, then you may not be able to access and use all or part of this web site or benefit from the information and services which it offers.
 
-We may also use advertising service vendors to help present advertisements on the website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before, and to avoid sending you duplicate advertisements. In doing so, these vendors may collect nonpersonal data such as your browser type, your operating system, web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and the _Stanford Social Innovation Review_ disclaims all liability in connection therewith. If you do not want the benefits of these advertising cookies, you may be able to opt-out by visiting Network Advertising Initiative’s Consumer Opt Out.
+### Web Beacons
 
-###  Information Security and Notification
+Pages on the Services and emails that _Stanford Social Innovation Review_ sends to you may contain small image files called web beacons. Web beacons are used as a mechanism to help us track your visits to our site and whether or not you open our emails. In addition, we use several third-party services that embed web beacons on our site for similar tracking purposes. These third-party services are used to provide additional features to users, such as the ability to share content on our site with your social network.
+
+### Links
+
+The Services contains links to other third-party sites. _Stanford Social Innovation Review_ is not responsible for the privacy practices or the content of such third-party sites.
+
+### Information Security and Notification
 
 Because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, the _Stanford Social Innovation Review_ can not guarantee the security of the information you send to us or the security of our servers or databases, and by using the website you agree to assume all risk in connection with the information sent to us or collected by us when you use the website. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you by email (provided we have your email address).
 
-###  Kids and Parents
+### Kids and Parents
 
 This website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums, and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.
 
 If your children disclose information about themselves in publicly accessible areas of the website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
-###  Questions?
+### Questions?
 
-If you have any concerns or questions about any aspect of this policy, or to be removed from all email lists, contact us at [info@ssireview.org](mailto:info@ssireview.org) or at the postal address below.
+If you have any concerns or questions about any aspect of this policy, or to be removed from all email lists, contact us at [info@ssir.org](mailto:info@ssir.org) or at the postal address below.
 
 _Stanford Social Innovation Review_  
 Stanford University  
 PO Box 20441  
 Stanford, CA. 94309-0441
 
-9/20/11
+4/15/2016
