@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hsselite.com privacy policy that was archived on 2015-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151120021711id_/https%3A//www.hsselite.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hsselite.com privacy policy that was archived on 2016-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611102453id_/https%3A//www.hsselite.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -8,6 +8,7 @@
 	<meta itemprop="name" content="Hotspot Shield Elite">
 	<meta itemprop="description" content="World's most trusted VPN, used by over 10 million people to access blocked websites and to browse the Web securely and privately.">
 	<meta itemprop="image" content="https://www.hsselite.com/img/hss-logo.gif">
+	<meta property="og:image" content="https://cdn.hsselite.com/elite/img/hss_logo.png">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,600" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Titillium+Web:400,600,200" rel="stylesheet" type="text/css">
 
@@ -48,7 +49,12 @@ var relocation = function(href) {
         }
         relocationURL += linkerParam;
     }
-    window.location = relocationURL;
+
+    if (window.hss_delay_redirect !== undefined) {
+        setTimeout(function() {window.location = relocationURL;}, 500);
+    } else {
+        window.location = relocationURL;
+    }
 }
 
 var reportTracking = function(category, action, label) {
@@ -172,7 +178,7 @@ window.setTimeout(addJSLogger, 10);
 			<li><a href="/how-it-works">Learn</a></li>
 			<li><a href="/pricing">Prices</a></li>
 			<li><a href="https://hsselite.zendesk.com/home">Support</a></li>
-			<li><a href="/prepurchase-smb">For Business</a></li>
+			<li><a href="/prepurchase-smb?utm_source=hsselite&amp;utm_medium=privacy_page&amp;utm_campaign=smb_link">For Business</a></li>
 		</ul>
 	</div>
 </div>
@@ -246,7 +252,6 @@ window.setTimeout(addJSLogger, 10);
 
 
 <!-- /page -->
-
 <br clear="all">
 <div style="clear: both"></div>
 </div>
@@ -256,56 +261,61 @@ window.setTimeout(addJSLogger, 10);
 		<ul class="f_menu">
 			<li><a href="/contact-us">contact us</a></li>
 			<li><a href="/about-us">about us</a></li>
-			<li><a href="/privacy">privacy</a></li>
+			<li><a class="current" href="/privacy">privacy</a></li>
 			<li><a href="/terms-of-use">terms of use</a></li>
 			<li><a href="/become-an-affiliate">become an affiliate</a></li>
 		</ul>
-		<p class="f_copy f_copy_ltr">Copyright © 2015 AnchorFree, Inc. All Rights Reserved</p>
+		<p class="f_copy f_copy_ltr">Copyright © 2016 AnchorFree, Inc. All Rights Reserved</p>
 		<a href="/pricing" class="f_payment_systems">Various payment options accepted</a>
 		<br clear="all">
 	</div>
 </div>
+
 <div class="th">
 	<div class="th_">
-		<!-- lng -->
+		
 		<div class="th_lng_box">
 			<div class="th_lng_cuurent_country_name">
 				<span>English</span>
 				<div class="th_lng_cuurent_flag c_view c_EN"></div>
 				<span class="ico_for_drop_down_menu"></span>
 				<ul>
-										<li><a href="/?lg=en"><span class="c_view c_EN"></span>English</a></li>
-										<li><a href="/?lg=ru"><span class="c_view c_RU"></span>Русский</a></li>
-										<li><a href="/?lg=ja"><span class="c_view c_JA"></span>日本語</a></li>
-									</ul>
+					<li><a href="/?lg=en"><span class="c_view c_EN"></span>English</a></li>
+					<li><a href="/?lg=ru"><span class="c_view c_RU"></span>Русский</a></li>
+					<li><a href="/?lg=ja"><span class="c_view c_JA"></span>日本語</a></li>
+				</ul>
 			</div>
 		</div>
 		<!-- end:lng -->
-		<!-- Dashboard -->
+		
 		<div class="d-board">
-						<a class="main" href="/sign-in">
-				<span class="ico_th_dboard"></span>My account			</a>
-					</div>
+			<a class="main" href="/sign-in">
+				<span class="ico_th_dboard"></span>My account
+			</a>
+
+		</div>
 		<!-- end:Dashboard -->
 	</div>
 </div>
 
 <script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js"></script>
 <style type="text/css" media="screen, projection">
-  @import url(//assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
+	@import url(//assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
 </style>
 <script type="text/javascript">
-  if (typeof(Zenbox) !== "undefined") {
-    Zenbox.init({
-      dropboxID:   "20112835",
-      url:         "https://hsselite.zendesk.com",
-      tabTooltip:  "Support",
-      tabImageURL: "https://p2.zdassets.com/external/zenbox/images/tab_support.png",
-      tabColor:    "black",
-      tabPosition: "Left"
-    });
-  }
-</script><!-- Quantcast Tag -->
+	if (typeof(Zenbox) !== "undefined") {
+		Zenbox.init({
+			dropboxID:   "20112835",
+			url:         "https://hsselite.zendesk.com",
+			tabTooltip:  "Support",
+			tabImageURL: "https://p2.zdassets.com/external/zenbox/images/tab_support.png",
+			tabColor:    "black",
+			tabPosition: "Left"
+		});
+	}
+</script>
+
+<!-- Quantcast Tag -->
 <script type="text/javascript">
 	var _qevents = _qevents || [];
 
@@ -334,6 +344,7 @@ window.setTimeout(addJSLogger, 10);
 	</div>
 </noscript>
 <!-- End Quantcast tag -->
+
 
 
 
