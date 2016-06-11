@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myadsclassified.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629024021id_/http%3A//www.myadsclassified.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadsclassified.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611223035id_/https%3A//www.myadsclassified.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Myadsclassified.com
 
@@ -23,6 +23,10 @@ Like many web sites, we set and use cookies to enhance your user experience, suc
 The Myadsclassified.com use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Myadsclassified.com pages, or services, a cookie helps Myadsclassified.com to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Myadsclassified.com, the information you previously provided can be retrieved, so you can easily use the Myadsclassified.com features that you customized. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Myadsclassified.com services or Web sites you visit.
 
 We do employ cookies. A cookie is a small text file that our Web server places on a user's computer hard drive to be a unique identifier. Cookies enable Myadsclassified.com to track usage patterns and deliver customized content to users. Our cookies do not have an expiration date. Our cookies do not collect personally identifiable information.
+
+For more information on third-party advertising-related cookies and how to opt-out of them, please visit on of the following third party websites:
+
+Cookie Policy updated 15 April 2014
 
 **
 
