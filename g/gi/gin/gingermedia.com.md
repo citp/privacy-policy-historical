@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gingermedia.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205121243id_/http%3A//www.gingermedia.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gingermedia.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611035543id_/http%3A//gingermedia.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy || Ginger Media
 
 Privacy Policy || Ginger Media  Ginger Media, as part of providing online services, may ask you to provide us with certain personal information, for example, your name, date of birth, e-mail address etc.
 
-Ginger Media takes all reasonable steps to protect the privacy of our customers and ensures that the personal information we collect is not ordinarily disclosed to third parties without the customerвЂ™s consent. Ginger Media has numerous security measures in place to protect the loss, misuse and alteration of our customerвЂ™s information. All customer information is password protected and only accessible by authorized members of the Ginger Media staff.
+Ginger Media takes all reasonable steps to protect the privacy of our customers and ensures that the personal information we collect is not ordinarily disclosed to third parties without the customerРІР‚в„ўs consent. Ginger Media has numerous security measures in place to protect the loss, misuse and alteration of our customerРІР‚в„ўs information. All customer information is password protected and only accessible by authorized members of the Ginger Media staff.
 
 However, there may be times when Ginger Media may be required to disclose personal information of a customer without his/her express consent when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against the customer.
 
