@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writerbay.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906013606id_/http%3A//www.writerbay.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writerbay.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611102317id_/http%3A//www.writerbay.com/privacy-policy.html) for the most accurate reproduction.*
 
 # WriterBay.com - Privacy Policy
 
