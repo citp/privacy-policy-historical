@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the travelaudience.com privacy policy that was archived on 2015-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151202090136id_/http%3A//travelaudience.com/taresources/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the travelaudience.com privacy policy that was archived on 2016-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611145732id_/http%3A//travelaudience.com/taresources/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>privacy policy</title>
@@ -74,6 +74,11 @@ a{
 
 @media screen and (min-width: 480px) {
 
+#optoutimg:hover {
+	cursor: pointer; 
+	cursor: hand;
+}
+
 img{
    padding: 0% 1% 0 1%;
 	 width:50%;
@@ -109,8 +114,88 @@ h2{font-size:2em;}
 }
 
 </style>
-</head>
-<body>
+<script type="text/javascript">
+	var ta_optOutStatus = false;
+	var $jsonp = (function(){
+	  var that = {};
+
+	  that.send = function(src, options) {
+		var callback_name = options.callbackName || 'callback',
+		  on_success = options.onSuccess || function(){},
+		  on_timeout = options.onTimeout || function(){},
+		  timeout = options.timeout || 10; // sec
+
+		var timeout_trigger = window.setTimeout(function(){
+		  window[callback_name] = function(){};
+		  on_timeout();
+		}, timeout * 1000);
+
+		window[callback_name] = function(data){
+		  window.clearTimeout(timeout_trigger);
+		  on_success(data);
+		}
+
+		var script = document.createElement('script');
+		script.type = 'text/javascript';
+		script.async = true;
+		script.src = src;
+
+		document.getElementsByTagName('head')[0].appendChild(script);
+	  }
+
+	  return that;
+	})();
+
+	function setOptOutStatusImage(isOptedOut) {
+		var img = document.getElementById("optoutimg");
+		if (isOptedOut) {
+			img.src = "images/opt_out.gif";
+		}
+		else {
+			img.src = "images/opt_in.gif";
+		}
+	}
+
+	function setUnknownStatusImage() {
+		var img = document.getElementById("optoutimg");
+		img.src = "images/x.gif";
+	}
+
+	function checkOptOutStatus() {
+		$jsonp.send('https://ads.travelaudience.com/api/optout?callback=_cbOptOut', {
+			callbackName: '_cbOptOut',
+			onSuccess: function(json){
+				setOptOutStatusImage(json["result"]);
+				ta_optOutStatus = json["result"];
+			},
+			onTimeout: function(){
+				setUnknownStatusImage();
+			},
+			timeout: 5
+		});
+	}
+
+	function setOptOutStatus(isOptOut) {
+		var optOutParam = "0";
+		if (isOptOut) {
+			optOutParam = "1";
+		}
+
+		$jsonp.send('https://ads.travelaudience.com/api/optout/set/'+optOutParam+'?callback=_cbOptOut', {
+			callbackName: '_cbOptOut',
+			onSuccess: function(json){
+				ta_optOutStatus = isOptOut;
+				setOptOutStatusImage(isOptOut);
+			},
+			onTimeout: function(){
+				setUnknownStatusImage();
+			},
+			timeout: 5
+		});
+	}
+</script>
+<script type="text/javascript" async="" src="https://ads.travelaudience.com/api/optout?callback=_cbOptOut"></script></head>
+<body onload="checkOptOutStatus();">
  <img src="images/logo.png">
  <h2 id="site_link"> <a href="http://travelaudience.com/">Back to the website </a></h2>
 <h1>Privacy policy</h1>
@@ -203,9 +288,7 @@ Please keep in mind that when you block cookies, certain website services that r
         You may furthermore inform us that you no longer want personalized advertising provided by travel audience by activating the following button icon.<br>
         <br>
         Your current cookie status:<br>
-        <img class="gxmbhzsgyuzwluzidmqh pmvrzvuxlvghnglyvnkr" src="http://ads.travelaudience.com/retarget.ashx"><br>
-        <a href="http://ads.travelaudience.com/retarget.ashx?optout=1&amp;ref=http%3A%2F%2Fwww.travelaudience.com%2Ftaresources%2Fprivacy.html">I no longer want to receive any personalized advertising from travel audience.</a><br>
-        <a href="http://ads.travelaudience.com/retarget.ashx?optout=0&amp;ref=http%3A%2F%2Fwww.travelaudience.com%2Ftaresources%2Fprivacy.html%23optout">I would like to receive personalized advertising from travel audience.</a>
+        <img id="optoutimg" class="gxmbhzsgyuzwluzidmqh pmvrzvuxlvghnglyvnkr" onclick="setOptOutStatus(!ta_optOutStatus);"><br>
     </p>
 
 <p>&nbsp;</p>
