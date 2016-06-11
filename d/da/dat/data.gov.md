@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212184909id_/http%3A//www.data.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611223346id_/http%3A//www.data.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Website Policies - Data.gov
 
@@ -222,11 +222,11 @@ The commitment to accessibility for all is reflected on this site in our efforts
 
 The Data.gov site is routinely tested for compliance with Section 508 of the Rehabilitation Act using a technical standards checklist, in-depth testing with screen readers, policy experts, and people with disabilities. For more information on Section 508 technical standards, please visit [www.Section508.gov](http://www.section508.gov/).
 
-In addition, the Data.gov site is also routinely reviewed for alignment with the latest Web Accessibility Initiative Guidelines for W3C. The [Web Accessibility Initiative Guidelines](http://www.w3.org/WAI/ "This link will direct you to an external website that may have different content and privacy policies from Data.gov.") from the W3C define how browsers, media players, and other “user agents” support people with disabilities and work assistive technologies.
+In addition, the Data.gov site is also routinely reviewed for alignment with the latest Web Accessibility Initiative Guidelines for W3C. The [Web Accessibility Initiative Guidelines](http://www.w3.org/WAI/) from the W3C define how browsers, media players, and other “user agents” support people with disabilities and work assistive technologies.
 
 Images on the site contain “alt tags”, which aid users who listen to the content of the site by using a screen reader, rather than reading the site. Likewise, a “skip to” link provides these users with a method for bypassing the header and going directly to the main content each time a page is accessed. Text transcripts accompany audio clips, and closed captioning is available on videos.
 
-Users can get information regarding the accessibility of Adobe Portable Document Format (PDF) files from [the Access Adobe website](http://www.adobe.com/accessibility/ "This link will direct you to an external website that may have different content and privacy policies from Data.gov.").
+Users can get information regarding the accessibility of Adobe Portable Document Format (PDF) files from [the Access Adobe website](http://www.adobe.com/accessibility/).
 
 The Data.gov website is being updated frequently to make it as accessible as possible. If you use assistive technology (such as a screen reader, eye tracking device, or voice recognition software) and have difficulty accessing information on Data.gov, please [contact us](http://www.data.gov/contact-us) and provide the URL (web address) of the material you tried to access, the problem you experienced, and your contact information. A Data.gov team member will contact you and attempt to provide the information you are seeking.
 
