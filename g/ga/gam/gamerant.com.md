@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerant.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207031443id_/http%3A//gamerant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerant.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611041007id_/http%3A//gamerant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 
 The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site and is not shared with other organizations for commercial purposes. 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. 
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
 Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: 
 
