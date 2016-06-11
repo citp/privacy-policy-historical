@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorechicago.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208002553id_/http%3A//www.choosechicago.com/articles/view/Privacy-Policy/176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorechicago.org privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612011458id_/http%3A//www.choosechicago.com/articles/view/Privacy-Policy/176) for the most accurate reproduction.*
 
 # What to do in Chicago - Choose Chicago
 
