@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the togoparts.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226133458id_/http%3A//www.togoparts.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the togoparts.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611190721id_/http%3A//www.togoparts.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Togoparts.com Privacy Statement
 
@@ -6,7 +6,7 @@ Because your privacy is important to us, togoparts.com operates by the following
 
 ## Principle 1.
 
-togoparts.com collects information during the registration process to operate the site ("Registration Information"). togoparts.com explicitly asks when it needs information that personally identifies you ("Personal Information"). The Personal Information togoparts.com collects includes first and last name. In addition to Personal Information collected, togoparts.com also collects non-personally identifiable information (often referred to as demographic information) such as: country, city, email address and ICQ no. You may update your Registration Information at any time from within your togoparts.com account after you have logged in. 
+Togoparts.com collects information during the registration process to operate the site ("Registration Information"). togoparts.com explicitly asks when it needs information that personally identifies you ("Personal Information"). The Personal Information togoparts.com collects includes first and last name. In addition to Personal Information collected, togoparts.com also collects non-personally identifiable information (often referred to as demographic information) such as: country, city and email address. You may update your Registration Information at any time from within your togoparts.com account after you have logged in. 
 
 ## Principle 2.
 
@@ -14,11 +14,11 @@ Your Registration Information (brief profile) is necessary for your membership a
 
 ## Principle 3.
 
-togoparts.com will not send you any unsolicited information, including e-mail, except as mentioned below. togoparts.com may also send periodic member letters to announce important service changes, new features, updates and news about other products and services. togoparts.com will not send you unsolicited e-mail regarding any third party commercial offers or advertisements. 
+Togoparts.com will not send you any unsolicited information, including e-mail, except as mentioned below. togoparts.com may also send periodic member letters to announce important service changes, new features, updates and news about other products and services. togoparts.com will not send you unsolicited e-mail regarding any third party commercial offers or advertisements. 
 
 ## Principle 4.
 
-If at any time you believe that togoparts.com has not adhered to these principles, please notify us by e-mail at [feedback@togoparts.com](https://web.archive.org/web/20151226133458id_/http%3A//www.togoparts.com/pages/feedback@togoparts.com). If you have questions about this policy, please e-mail us at [feedback@togoparts.com](https://web.archive.org/web/20151226133458id_/http%3A//www.togoparts.com/pages/feedback@togoparts.com)
+If at any time you believe that togoparts.com has not adhered to these principles, please notify us by e-mail at [feedback@togoparts.com](https://web.archive.org/web/20160611190721id_/http%3A//www.togoparts.com/pages/feedback@togoparts.com). If you have questions about this policy, please e-mail us at [feedback@togoparts.com](https://web.archive.org/web/20160611190721id_/http%3A//www.togoparts.com/pages/feedback@togoparts.com)
 
 ## What about Cookies?
 
@@ -26,7 +26,7 @@ Cookies are pieces of information that a Web site transfers to your computer's h
 
 ## What about the registration information?
 
-togoparts.com site's registation form requires you to give us contact information (like your name and email address) and unique identifiers (like a password). Unique identifiers (such as passwords) are collected to verify your identity in our system. By registering, users can take advantage of personalization (the ability to select content according to a user-supplied profile) as well as to gain access to other parts of the website like the Forums. This is information which does not personally identify you, but which may be helpful for improving the community services. Generally, this information is collected through "traffic data" and may entail the use of "Cookies" "IP addresses" or other numeric codes used to identify a computer.
+Togoparts.com site's registation form requires you to give us contact information (like your name and email address) and unique identifiers (like a password). Unique identifiers (such as passwords) are collected to verify your identity in our system. By registering, users can take advantage of personalization (the ability to select content according to a user-supplied profile) as well as to gain access to other parts of the website like the Forums. This is information which does not personally identify you, but which may be helpful for improving the community services. Generally, this information is collected through "traffic data" and may entail the use of "Cookies" "IP addresses" or other numeric codes used to identify a computer.
 
 We partner with Facebook to simplify account registration and login. It is not different from a normal account registration. As our policy above, we respect your privacy and we do not share any of your personal data with 3rd party.
 
@@ -55,4 +55,4 @@ Occasionally togoparts.com conducts polls and user surveys to better target our 
 
 By using togoparts.com and the rest of the togoparts.com services, you consent to the collection and use of your information as we have outlined in this policy. togoparts.com may decide to change this Privacy Policy from time to time.
 
-Updated: June 2014
+Updated: Jan 2016
