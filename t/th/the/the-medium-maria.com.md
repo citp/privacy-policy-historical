@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-medium-maria.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121124538id_/http%3A//www.the-medium-maria.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-medium-maria.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611221554id_/http%3A//www.the-medium-maria.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Legal Terms | Maria
 
@@ -24,21 +24,21 @@ The internet is generally not regarded as a completely secure environment, and i
 
 ###  **What information is collected?**
 
-We do not collect your personal data through our web site unless you voluntarily provided such data that could be used to identify a person. Through its website [the-medium-maria.com](http://the-medium-maria.com/) stores several categories of personal data.
+We do not collect your personal data through our web site unless you voluntarily provided such data that could be used to identify a person. Through its website the-medium-maria.com stores several categories of personal data.
 
-In order to receive your free trial offer, you will need to provide the following information: title, surname, first name, date and time of birth, e-mail address and country of residence on the [Free Online Psychic Reading form](https://web.archive.org/web/20151121124538id_/http%3A//www.the-medium-maria.com/free-trial-offers/free-psychic-reading-online.html), which you can access using this link.
+In order to receive your free trial offer, you will need to provide the following information: title, surname, first name, date and time of birth, e-mail address and country of residence on the [Free Online Psychic Reading form](https://web.archive.org/web/20160611221554id_/http%3A//www.the-medium-maria.com/free-trial-offers/free-psychic-reading-online.html), which you can access using this link.
 
 If you decide to order a book or a chargeable Study, you will then need to provide the following information: full address, telephone number, credit card details.
 
-You enter your confidential credit card details within a secure area managed entirely by our payment processors or PCI DSS-compliant suppliers. Mediaweb does not have access to this entirely secure area under any circumstances.
+You enter your confidential credit card details within a secure area managed entirely by the payment solutions or PCI DSS-suppliers working with us. Mediaweb does not have access to this entirely secure area under any circumstances.
 
-There is no obligation to buy. When you visit [the-medium-maria.com](http://the-medium-maria.com/), our web server may also automatically collect your IP address. Furthermore, our web server may automatically collect certain generic information which does not identify you personally such as your web browser, your operating system or your Internet service provider.
+There is no obligation to buy. When you visit the-medium-maria.com, our web server may also automatically collect your IP address. Furthermore, our web server may automatically collect certain generic information which does not identify you personally such as your web browser, your operating system or your Internet service provider.
 
 ###  **How is this information used?**
 
-All the personal data and other information which you have entered are solely used in order to provide you with the service(s) and/or products which you requested on [the-medium-maria.com](http://the-medium-maria.com/) and for the purposes of technical administration, research and development of the Mediaweb website, customer and end user administration and marketing (hereinafter “Services” and “Products”). A secret algorithm based on your surname, first name and date of birth enables us to generate your free trial offer, as well as all the personalised psychic reading products which you can order.
+All the personal data and other information which you have entered are solely used in order to provide you with the service(s) and/or products which you requested on the-medium-maria.com and for the purposes of technical administration, research and development of the Mediaweb website, customer and end user administration and marketing (hereinafter “Services” and “Products”). A secret algorithm based on your surname, first name and date of birth enables us to generate your free trial offer, as well as all the personalised psychic reading products which you can order.
 
-Your e-mail address will be used to send you the Products and Services you ordered. We will also use your e-mail address to send you offers for Products or Services which may be of interest to you – every 2 or 3 days. You will also receive a monthly free newsletter giving you access to your horoscope and articles on subjects in the field of esotericism, clairvoyance or personal development. You can unsubscribe from this mailing list at any time by clicking on the unsubscribe link you can find in each e-mail we send you or using the [contact page](https://web.archive.org/contact.html) you can access through this link. We will then remove your contact information from the lists used for such mailings.
+Your e-mail address will be used to send you the Products and Services you ordered. We will also use your e-mail address to send you offers for Products or Services which may be of interest to you – every 2 or 3 days. You will also receive a monthly free newsletter giving you access to your horoscope and articles on subjects in the field of esotericism, clairvoyance or personal development. You can unsubscribe from this mailing list at any time by clicking on the unsubscribe link you can find in each e-mail we send you or using the [contact page](http://www.the-medium-maria.com/contact.html) you can access through this link. We will then remove your contact information from the lists used for such mailings.
 
 ###  **In which cases will this information be disclosed?**
 
@@ -52,7 +52,7 @@ Mediaweb reserves the right to disclose your personal data in the event of a sum
 
 ###  **How do we share your personal data?**
 
-Only if you ticked the box “I agree to receive offers from Maria’s partners”, may we share your personal data such as title, surname, first name, postal address and e-mail address with third-party companies, MediaWeb partners, whose products or services may be of interest to you. These third-party companies may then send you offers. To the extent permitted by the applicable local laws and regulations we reserve the right to share your personal data with third parties who assist us in providing Services to you, if they provide an adequate level of data protection to ensure the security of your personal data. However, you can contact us at any time through our [contact page](https://web.archive.org/contact.html), which you can access using this link, in order to ask us not to disclose your personal data to third parties.
+Only if you ticked the box “I agree to receive offers from Maria’s partners”, may we share your personal data such as title, surname, first name, postal address and e-mail address with third-party companies, MediaWeb partners, whose products or services may be of interest to you. These third-party companies may then send you offers. To the extent permitted by the applicable local laws and regulations we reserve the right to share your personal data with third parties who assist us in providing Services to you, if they provide an adequate level of data protection to ensure the security of your personal data. However, you can contact us at any time through our [contact page](http://www.the-medium-maria.com/contact.html), which you can access using this link, in order to ask us not to disclose your personal data to third parties.
 
 Mediaweb's suppliers sometimes have temporary and limited access to your personal data. This access may be carried out in the context of maintenance operations or the supply of Services to Mediaweb. In particular, these suppliers offer services in the following areas: payment processing, e-mail routing, SMS routing, printing and sorting mail, website hosting, after-sales service processing, data storage, as well as any other service linked to the operation, maintenance and security of Mediaweb's website. However, access to your personal data remains strictly limited to what is required by the supplier in order to fulfil its service contract with Mediaweb. Moreover, such access is strictly limited to the time required for the operation or service.
 
@@ -62,7 +62,7 @@ Mediaweb strives to maintain the reliability, accuracy, completeness and currenc
 
 ###  **How can I change or delete my personal data?**
 
-In order to find out which personal data were collected and in order to ask for them to be changed or deleted, you can contact us through our [contact page](https://web.archive.org/contact.html), which you can access using this link.
+In order to find out which personal data were collected and in order to ask for them to be changed or deleted, you can contact us through our [contact page](http://www.the-medium-maria.com/contact.html), which you can access using this link.
 
 In order to protect your privacy and the security of the data recorded on our website, we may ask you for additional information in order to check your identity before we answer your query.
 
@@ -100,5 +100,5 @@ In the event Mediaweb goes through a business transition, such as a merger, acqu
 
 ###  **How can I contact you?**
 
-If you have any comments or questions about this document, you can contact me through the [contact page](https://web.archive.org/contact.html), which you can access using this link.  
+If you have any comments or questions about this document, you can contact me through the [contact page](http://www.the-medium-maria.com/contact.html), which you can access using this link.  
  
