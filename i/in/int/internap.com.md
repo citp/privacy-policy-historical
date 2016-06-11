@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the internap.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211145148id_/http%3A//www.internap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internap.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611231815id_/http%3A//www.internap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Internap
 
-This Privacy Policy governs the privacy practices related to the personal information collected through or by Internap from visitors and users of this website and the website of iWeb Technologies, Inc. This Privacy Policy is intended to comply with U.S. – EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland; Canada’s federal Personal Information Protection and Electronic Documents Act (PIPEDA) and any provincial privacy legislation, including Quebec’s An Act Respecting the Protection of Personal Information in the Private Sector. 
+This Privacy Policy governs the privacy practices related to the personal information collected through or by Internap from visitors and users of this website and the website of iWeb Technologies, Inc. 
 
 Internap respects the privacy of every individual who visits this website, provides personal information to us via interactive features of our website(s) or sends e-mails to Internap via our website(s). This Privacy Policy addresses the information that may be collected through our website(s) and how Internap may use that information. In the event that you do not want your personal information collected or shared when you visit our website(s) or send us e-mails, please refer to the procedures described below. This Privacy Policy does not cover our use of information collected through any other means other than information collected through the use of our website(s).
 
@@ -73,8 +73,5 @@ One Ravinia Drive, Suite 1300
 Atlanta, GA 30346  
 [privacyinfo@internap.com](mailto:privacyinfo@internap.com)
 
-nternap will refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU Safe Harbor website at [http://www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program) for more information or to file a complaint. If you are a Canadian user and are unhappy with the results of any such inquiries, you may contact the provincial privacy commissioner located in the province in which you reside.
-
-If we change this Privacy Policy, we will post an updated Privacy Policy on our website(s) in advance of the changes taking effect. If we use personal information in a manner materially different from that stated at the time it was collected, we will post an update to notify users. The changes to the Privacy Policy will become effective when the revised Privacy Policy is posted on our website(s). Your continued use of the website(s) and the services following these changes means that you accept the revised Privacy Policy. If any change materially affects the privacy of your personal information, we will post the Privacy Policy before its effective date and give you a reasonable period of time to object to any changes (which you may do by ceasing to use the website(s) and/or our services).
-
+  
 July 2015
