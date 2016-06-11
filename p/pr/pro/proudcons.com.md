@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the proudcons.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211142425id_/http%3A//proudcons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proudcons.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611110934id_/http%3A//www.proudcons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Proud Conservative
 
-Privacy Policy  
+Proudcons.com Privacy Policy  
 Information that is gathered from visitors  
 In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit.
 
@@ -11,7 +11,7 @@ Cookies may be used to remember visitor preferences when interacting with the we
 Where registration is required, the visitor’s email and a username will be stored on the server.
 
 How the Information is used  
-The information is used to enhance the vistor’s experience when using the website to display personalised content and possibly advertising.
+The information is used to enhance the visitor’s experience when using the website to display personalized content and possibly advertising.
 
 E-mail addresses will not be sold, rented or leased to 3rd parties.
 
