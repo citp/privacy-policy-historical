@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeventchronicle.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212175202id_/http%3A//www.theeventchronicle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeventchronicle.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611085730id_/http%3A//www.theeventchronicle.com/privacy) for the most accurate reproduction.*
 
 # Privacy » The Event Chronicle
 
