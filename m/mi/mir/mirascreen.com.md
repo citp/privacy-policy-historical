@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirascreen.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211041610id_/http%3A//www.mirascreen.com/init/initp_EN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirascreen.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611074719id_/http%3A//mirascreen.com/init/initp_EN.html) for the most accurate reproduction.*
 
 # 无标题文档
 
