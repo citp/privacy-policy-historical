@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poki.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211145013id_/http%3A//poki.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poki.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611231439id_/http%3A//poki.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Poki
 
-This Privacy Policy was last updated on July 20th, 2015.
+This Privacy Policy was last updated on May 2nd, 2016.
 
 Poki is committed to providing fun and exciting digital entertainment across all its products and Works, such as Poki.com (and its related sites) and all applications available on smartphone devices, tablets, browser and desktop (together, the “Works”). Poki.com (herinafter the “Website”) is the property of Poki B.V. (“Poki”). Poki respects the privacy concerns of all users of its Works.
 
@@ -26,11 +26,22 @@ In addition, Advertisers on the Website might use information gathered by the us
 
 The personal data may be transferred to (i) organizations with whom Poki has a contractual relationship (e.g. processors of personal data) or (ii) judicial authorities in case of a legal obligation or a request. The personal data will not be sold or transferred to any other third parties.
 
+In certain cases, personal information can be shared with service providers and advisors: third parties who provide a service to us. For example, we may use a third party service providers to help support our IT infrastructure, develop analytical information for us about our services and provide professional services such as legal and accountancy services. These third parties will only be allowed to use your information in accordance with our instructions and will be required to keep your information confidential and secure.
+
 Poki is not responsible for any personal data collected via any Third Party Works offered on the Works to which these parties’ Terms of Use apply. The user is advised not to use his real name or real e-mail address in any of the games provided on the Website.  
   
 
 
 ## **4\. Cookies, web beacons and IP address**
+
+Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). The Website may gather anonymous “traffic data” that does not personally identify you, but that data may be helpful for marketing purposes or for improving the services we offer. In addition, we may use IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis. We only use IP addresses and other persistent identifiers as defined under the exceptions in COPPA, to support internal operations, specifically to:
+
+  * Maintain or analyze the functioning of the site
+  * Perform network communications
+  * Authenticate users of, or personalize the content on, the site
+  * Serve contextual advertising on the app or cap the frequency of advertising
+
+
 
 (i) What are cookies and web beacons
 
@@ -54,7 +65,7 @@ In addition, we store certain information from your browser, using “cookies.�
 
 Poki might use the information stored in a “cookie” in order prevent a user from rating the same game for several times. Such cookies will only be valid for a period of two weeks.
 
-The Advertisers might use information gathered by the cookies and/or the web beacons for the purpose of online behavioral advertising and/or multisite advertising. The types of information that is gathered by the cookies and/or web beacons as well as the purpose(s) for which this information is used, are provided in the privacy policy of the Advertiser concerned. Advertisement parties will not use data that can lead back to any single person. The user can consult the privacy policy of the Advertisers by clicking on the name of the Advertiser (as indicated above).
+To make great content available for free, Poki runs ads on its Works and its Website. The Advertisers might use information gathered by the cookies and/or the web beacons for the purpose of online behavioral advertising and/or multisite advertising. The types of information that is gathered by the cookies and/or web beacons as well as the purpose(s) for which this information is used, are provided in the privacy policy of the Advertiser concerned. Advertisement parties will not use data that can lead back to any single person. The user can consult the privacy policy of the Advertisers by clicking on the name of the Advertiser (as indicated above).
 
 (iii) Refuse cookies, web-beacons and online behavioral advertising
 
@@ -105,3 +116,7 @@ If you would like to review your or your child’s information, ask to have it d
 ## **6\. Terms of Use**
 
 This Privacy Policy has been set up alongside Poki’s Terms of Use. By agreeing to the Privacy Policy, you also agree to the terms, set in the Terms of Use. You can review the most current version of these terms by clicking on the “Terms of Use” hypertext link located at the bottom of the Website.
+
+## **7.  Games**
+
+Ready to play a game on our online playground? Here are some of our most popular categories: [Racing Games](http://poki.com/en/racing), [Sports Games](http://poki.com/en/sports), [Girl Games](http://poki.com/en/girls), [Thinking Games](http://poki.com/en/puzzle), [Adventure Games](http://poki.com/en/adventure), [Airplane Games](http://poki.com/en/airplane), and [Piano Games](http://poki.com/en/pia-no).
