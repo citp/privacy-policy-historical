@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftpage.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206002657id_/http%3A//swiftpage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftpage.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611185603id_/http%3A//swiftpage.com/privacy-policy) for the most accurate reproduction.*
 
 # Swiftpage | Privacy Policy
 
@@ -9,7 +9,7 @@ Swiftpage is dedicated to the privacy and rights of our customers. The privacy o
 
 
 
-This policy describes the types of information we may collect from you or that you may provide when you visit any Swiftpage company websites (“Websites”), including but not limited to [www.swiftpage.com](http://www.swiftpage.com/), [act.com](http://act.com/), [saleslogix.com](http://saleslogix.com/), [swiftpageconnect.com](http://swiftpageconnect.com/), or use any Swiftpage products or applications, and our practices for collecting, using, maintaining, protecting and disclosing that information. Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Websites. By accessing or using our products or company websites, you agree to this privacy policy. This policy may change from time to time. Your continued use of the Websites after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+This policy describes the types of information we may collect from you or that you may provide when you visit any Swiftpage company websites (“Websites”), including but not limited to [www.swiftpage.com](http://www.swiftpage.com/), [act.com](http://act.com/), [swiftpageconnect.com](http://swiftpageconnect.com/), or use any Swiftpage products or applications, and our practices for collecting, using, maintaining, protecting and disclosing that information. Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Websites. By accessing or using our products or company websites, you agree to this privacy policy. This policy may change from time to time. Your continued use of the Websites after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
 This policy applies to information we collect:
 
