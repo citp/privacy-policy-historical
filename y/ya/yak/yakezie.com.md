@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yakezie.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502135728id_/http%3A//yakezie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yakezie.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612000739id_/http%3A//yakezie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yakezie.com
 
