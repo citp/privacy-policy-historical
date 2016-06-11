@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messletters.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209041356id_/http%3A//www.messletters.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messletters.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611111145id_/http%3A//www.messletters.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy • Our privacy policy
 
