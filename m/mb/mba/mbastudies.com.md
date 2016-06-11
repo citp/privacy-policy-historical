@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the mbastudies.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213054031id_/http%3A//www.mbastudies.com/Schools_and_Universities/Privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbastudies.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611215104id_/http%3A//www.mbastudies.com/Schools_and_Universities/Privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-**What information do we collect?**
-
+**What information do we collect?**  
 We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. 
 
 Any data we request that is not required will be specified as voluntary or optional. 
