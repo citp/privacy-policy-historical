@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lme.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211014350id_/http%3A//www.lme.com/en-gb/about-us/legal-disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lme.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611024818id_/http%3A//www.lme.com/en-gb/about-us/legal-disclaimer/privacy-policy) for the most accurate reproduction.*
 
 # London Metal Exchange: Privacy statement
 
@@ -84,12 +84,12 @@ By continuing to use this website and by providing any personal data to us via t
 You have the right to apply for a copy of the data we hold about you and to have any inaccurate data about you corrected. For more information, please contact us using the details below.   
 
 
-## Privacy support 
+## Privacy support
 
 If you have any questions or concerns about our privacy policy, please contact: 
 
-By post: 56 Leadenhall Street, London, EC3A 2DX  
-Phone: +44 (0) 207 264 5555  
+By post: 10 Finsbury Square, London, EC2A 1AJ  
+Phone: +44 (0) 207 113 8888  
 Fax: +44 (0) 207 264 5541  
 Email address: [info@lme.com  
 ](mailto:info@lme.com?subject=Privacy%20policy)or via our [Contact form](https://web.archive.org/en-gb/about-us/contact-us/)
