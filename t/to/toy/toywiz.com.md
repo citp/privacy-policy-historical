@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toywiz.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007004805id_/http%3A//www.toywiz.com/toysecandpri.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toywiz.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611195534id_/http%3A//www.toywiz.com/toysecandpri.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -9,7 +9,7 @@ ToyWiz is committed to respecting the privacy and security of your personal info
 Protecting Your Information
 
   
-**Safe & secure shopping is our #1 priority. We use a variety of security measures, including sophisticated encryption and authentication tools to maintain the safety of your personal information. Your personal information is contained behind heavily secured networks. We use Verisign, recognized as the world's leader in internet data security, to process orders. All credit card and personal information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases.
+**Safe & secure shopping is our #1 priority. We use a variety of security measures, including sophisticated encryption and authentication tools to maintain the safety of your personal information. Your personal information is contained behind heavily secured networks. All credit card and personal information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases.
 
 ******
 
