@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disclose.tv privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122182021id_/http%3A//www.disclose.tv/pages/view/id/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disclose.tv privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611233846id_/http%3A//www.disclose.tv/pages/view/id/2) for the most accurate reproduction.*
 
 # Disclose.tv
 
@@ -6,7 +6,7 @@ The use of the Disclose.tv website(s) and/or Disclose.tv software and any Disclo
 
 Privacy Statement for the Disclose.tv Web Site
 
-Your privacy is important, so we’d like to explain what information we collect when you visit Disclose.tv ([http://www.disclose.tv/](https://web.archive.org/url/Tm9DaGFuY2VBbm9ueW1vdXNodHRwOi8vd3d3LmRpc2Nsb3NlLnR2Lw..)), [^] why we collect it and how it is used. We’d also like to explain your options to access and control your information, our data security practices and other matters. This Policy is governed by our Site Terms.
+Your privacy is important, so we’d like to explain what information we collect when you visit Disclose.tv (<http://www.disclose.tv/>), [^] why we collect it and how it is used. We’d also like to explain your options to access and control your information, our data security practices and other matters. This Policy is governed by our Site Terms.
 
 Special Note About Children
 
