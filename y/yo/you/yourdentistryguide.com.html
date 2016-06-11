@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yourdentistryguide.com privacy policy that was archived on 2015-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151213053705id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yourdentistryguide.com privacy policy that was archived on 2016-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612004654id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
@@ -54,17 +54,25 @@ $(document).ready(function(){
   }); 
   
   // geolocation code
-  var geolocation_timeout = setTimeout(geolocationTimeout, 20000);
+  var geolocation_timeout = setTimeout(geolocationTimeout, 5000);
   var mobile_browser = jQuery.browser.mobile ? 'Mobile-Yes' : 'Mobile-No';
-  var current_url = parseURL(window.location.href);	
+  var current_url = parseURL(window.location.href);
+  var savedPosition = getPosition();
 	
-  console.log("mobile browser: "+mobile_browser);
-					
+  console.log("mobile browser: " + mobile_browser);
+  console.log("saved position: " + savedPosition);
+
   // try navigator method, unless on geo-search page
   if(current_url.path != '/geo-search/' && geoPosition.init()) {
     console.log("Geoposition is supported");
-			
-    geoPosition.getCurrentPosition(currentPositionSuccess,currentPositionError,{ timeout:5000 });
+
+    if(savedPosition != undefined && savedPosition != 'error') {
+      console.log('Using savedPosition for Geolocation');
+      currentPositionSuccess(savedPosition);
+    } else if (savedPosition != 'error') {
+      console.log('Using geoPosition for Geolocation');
+      geoPosition.getCurrentPosition(currentPositionSuccess,currentPositionError,{ timeout:5000 });
+    }
   } else {
     console.log("Geoposition not supported");
     _gaq.push(['_trackEvent', 'GEO-HTML5', 'Not Supported', mobile_browser ]);
@@ -73,61 +81,66 @@ $(document).ready(function(){
   // success callback
   function currentPositionSuccess(position) {
     console.log("Latitude: " + position.coords.latitude + " Longitude: " + position.coords.longitude + " Accuracy: " + position.coords.accuracy);
-	 _gaq.push(['_trackEvent', 'GEO-HTML5', 'UserShared-LocationObtained', mobile_browser+':'+position.coords.accuracy ]);
+	_gaq.push(['_trackEvent', 'GEO-HTML5', 'UserShared-LocationObtained', mobile_browser+':'+position.coords.accuracy ]);
+
+    setPosition([position.coords.latitude, position.coords.longitude, position.coords.accuracy]); // save position for 24 hours
 	  	
-	 // if #right load geo-profiles, if #geo-gallery load geo-galleries
-	 if($("#right").length > 0 && true) {
-         console.log('Desktop Geolocation Profiles Loaded');
-         var desktopSidebar = jQuery('#right');
-         var desktopFloat   = jQuery('#smartbanner-float');
-         desktopSidebar.load("/_assets/lib/geolocation-profiles.php", { lng: position.coords.longitude, lat: position.coords.latitude });       // desktop right / mobile bottom 2
-         desktopFloat.load("/_assets/lib/geolocation-profiles-float.php", { lng: position.coords.longitude, lat: position.coords.latitude });   // desktop bottom
-         if(mobile_browser == 'Mobile-Yes') {
-             setTimeout(function() {    // allow Geolocation profiles to load before swapping
-                 console.log('Mobile Geolocation Profiles Loaded');
-                 jQuery('#smartbanners-sidebar').html(desktopFloat.html());  // mobile sidebar
-                 jQuery('h2 .wrapper').html(desktopSidebar.html());          // mobile top 3 interior
-                 // mobile top 3 home
-                 jQuery('.first__smarts ul').html(desktopSidebar.find('li').slice(0,3).map(function(key,value) { return value.outerHTML; }).toArray().join(''));
-                 // mobile bottom 2 home
-                 jQuery('.second__smarts ul').html(desktopSidebar.find('li').slice(3,5).map(function(key,value) { return value.outerHTML; }).toArray().join(''));
-             },3000);
-         }
-	 } else {
-		 console.log("Update Geo Galleries");
-		 jQuery("#geo-gallery").load("/_assets/lib/geolocation-gallery.php", { lng: position.coords.longitude, lat: position.coords.latitude, page: current_url.params.page });
-	 }
+	// if #right load geo-profiles, if #geo-gallery load geo-galleries
+	if($("#right").length > 0 && true) {
+      console.log('Desktop Geolocation Profiles Loaded');
+      var desktopSidebar = jQuery('#right');
+      var desktopFloat   = jQuery('#smartbanner-float');
+      desktopSidebar.load("/_assets/lib/geolocation-profiles.php", { lng: position.coords.longitude, lat: position.coords.latitude });       // desktop right / mobile bottom 2
+      desktopFloat.load("/_assets/lib/geolocation-profiles-float.php", { lng: position.coords.longitude, lat: position.coords.latitude });   // desktop bottom
+      if(mobile_browser == 'Mobile-Yes') {
+        setTimeout(function() {    // allow Geolocation profiles to load before swapping
+          console.log('Mobile Geolocation Profiles Loaded');
+          jQuery('#smartbanners-sidebar').html(desktopFloat.html());  // mobile sidebar
+          jQuery('h2 .wrapper').html(desktopSidebar.html());          // mobile top 3 interior
+          // mobile top 3 home
+          jQuery('.first__smarts ul').html(desktopSidebar.find('li').slice(0,3).map(function(key,value) { return value.outerHTML; }).toArray().join(''));
+          // mobile bottom 2 home
+          jQuery('.second__smarts ul').html(desktopSidebar.find('li').slice(3,5).map(function(key,value) { return value.outerHTML; }).toArray().join(''));
+        },3000);
+      }
+	} else {
+	  console.log("Update Geo Galleries");
+      jQuery("#geo-gallery").load("/_assets/lib/geolocation-gallery.php", { lng: position.coords.longitude, lat: position.coords.latitude, page: current_url.params.page });
+	}
     clearTimeout(geolocation_timeout);
   }
 	
   // error callback
   function currentPositionError(error) {
     console.log("Could not get current position");
-		
+
+	setPosition(['error']); // do not try again for 24 hours
+
     switch(error.code) {
-      case error.PERMISSION_DENIED:
-        console.log("User denied the request for Geolocation.");
-		  _gaq.push(['_trackEvent', 'GEO-HTML5', 'UserDenied', mobile_browser ]);
-		  break;
-      case error.POSITION_UNAVAILABLE:
-		  console.log("Location information is unavailable.");
-		  _gaq.push(['_trackEvent', 'GEO-HTML5', 'UserShared-NoLocationFound', mobile_browser ]);
-		  break;
-		case error.TIMEOUT:
-		  console.log("The request to get user location timed out.");
-		  _gaq.push(['_trackEvent', 'GEO-HTML5', 'UserTimeOut', mobile_browser ]);
-		  break;
+        case error.PERMISSION_DENIED:
+            console.log("User denied the request for Geolocation.");
+            _gaq.push(['_trackEvent', 'GEO-HTML5', 'UserDenied', mobile_browser ]);
+            break;
+        case error.POSITION_UNAVAILABLE:
+            console.log("Location information is unavailable.");
+            _gaq.push(['_trackEvent', 'GEO-HTML5', 'UserShared-NoLocationFound', mobile_browser ]);
+            break;
+        case error.TIMEOUT:
+            console.log("The request to get user location timed out.");
+            _gaq.push(['_trackEvent', 'GEO-HTML5', 'UserTimeOut', mobile_browser ]);
+            break;
 		case error.UNKNOWN_ERROR:
-		  console.log("An unknown error occurred.");
-		  _gaq.push(['_trackEvent', 'GEO-HTML5', 'Error?Shared?', mobile_browser ]);
-		  break;
+            console.log("An unknown error occurred.");
+            _gaq.push(['_trackEvent', 'GEO-HTML5', 'Error?Shared?', mobile_browser ]);
+            break;
     } 
     clearTimeout(geolocation_timeout);
   }
 	
   // user ignores geolocation dialog
   function geolocationTimeout() {
-    console.log("Geolocation dialog timed out.");	
+    console.log("Geolocation dialog timed out.");
+    setPosition(['error']);  // do not try again for 24 hours
     _gaq.push(['_trackEvent', 'GEO-HTML5', 'UserTimeOut', mobile_browser ]);
   }
 })
@@ -480,110 +493,110 @@ $(document).ready(function(){
     <div id="smartbanners-sidebar">
             <div class="smartbanners">
                 <ul>
-                                <li id="3151" class="smart-banner first">
-                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-view', '20147']);</script>
-                <p class="docpic">
-                    <!-- THUMBNAIL 1 -->
-                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/14/15/45/21/785/t542.jpg" style="border:0;" width="48"></a>
-                </p>
-                <p class="btns doctor-links">
-                    <!-- URL -->
-                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
-                    <!-- SMILE GALLERY URL -->
-                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
-                </p>
-                <!-- PROFILE NAME -->
-                <br class="clearAll">
-                <h4><a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Dr. Ivory Hancock</a></h4>
-                <p>
-                    <!-- CITY, STATE ZIP -->
-                    Washington, DC 20036<br>
-                    <!-- PHONE -->
-                    <a href="tel:+12027377025" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-call', '20147']);">(202) 737-7025</a>
-                </p>
-            </li>            <li id="46" class="smart-banner second">
+                                <li id="46" class="smart-banner first">
                 <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-view', '20147']);</script>
                 <p class="docpic">
                     <!-- THUMBNAIL 1 -->
-                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="http://www.yourdentistguide.com/ingber/ingber-50x50.jpg" style="border:0;" width="48"></a>
+                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="http://www.yourdentistguide.com/ingber/ingber-50x50.jpg" style="border:0;" width="48"></a>
                 </p>
                 <p class="btns doctor-links">
                     <!-- URL -->
-                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
                     <!-- SMILE GALLERY URL -->
-                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm#gallery" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm#gallery" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
                 </p>
                 <!-- PROFILE NAME -->
                 <br class="clearAll">
-                <h4><a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Kenneth A Ingber, DMD</a></h4>
+                <h4><a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Kenneth A Ingber, DMD</a></h4>
                 <p>
                     <!-- CITY, STATE ZIP -->
                     Washington, DC 20006<br>
                     <!-- PHONE -->
-                    <a href="tel:+12023317474" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-call', '20147']);">(202) 331-7474</a>
+                    <a href="tel:+12023317474" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(202) 331-7474</a>
                 </p>
-            </li>            <li id="3145" class="smart-banner third">
-                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-view', '20147']);</script>
+            </li>            <li id="3151" class="smart-banner second">
+                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-view', '20147']);</script>
                 <p class="docpic">
                     <!-- THUMBNAIL 1 -->
-                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/10/16/12/22/422/t368.png" style="border:0;" width="48"></a>
+                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/14/15/45/21/785/t542.jpg" style="border:0;" width="48"></a>
                 </p>
                 <p class="btns doctor-links">
                     <!-- URL -->
-                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
                     <!-- SMILE GALLERY URL -->
-                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
                 </p>
                 <!-- PROFILE NAME -->
                 <br class="clearAll">
-                <h4><a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Dr. Lance Panarello</a></h4>
+                <h4><a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Dr. Ivory Hancock</a></h4>
+                <p>
+                    <!-- CITY, STATE ZIP -->
+                    Washington, DC 20036<br>
+                    <!-- PHONE -->
+                    <a href="tel:+12027377025" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(202) 737-7025</a>
+                </p>
+            </li>            <li id="3236" class="smart-banner third">
+                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-view', '20147']);</script>
+                <p class="docpic">
+                    <!-- THUMBNAIL 1 -->
+                    <a href="http://888smile10.com/garnet-valley-dentists/?utm_source=Guidetodentistry&amp;utm_medium=display&amp;utm_content=garnetvalley" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2016/06/10/16/51/42/522/t712.jpg" style="border:0;" width="48"></a>
+                </p>
+                <p class="btns doctor-links">
+                    <!-- URL -->
+                    <a href="http://888smile10.com/garnet-valley-dentists/?utm_source=Guidetodentistry&amp;utm_medium=display&amp;utm_content=garnetvalley" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <!-- SMILE GALLERY URL -->
+                    <a href="http://888smile10.com/garnet-valley-dentists/?utm_source=Guidetodentistry&amp;utm_medium=display&amp;utm_content=Photo" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                </p>
+                <!-- PROFILE NAME -->
+                <br class="clearAll">
+                <h4><a href="http://888smile10.com/garnet-valley-dentists/?utm_source=Guidetodentistry&amp;utm_medium=display&amp;utm_content=garnetvalley" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Dr. Scott Shalit</a></h4>
+                <p>
+                    <!-- CITY, STATE ZIP -->
+                    Garnet Valley, PA 19060<br>
+                    <!-- PHONE -->
+                    <a href="tel:+16104595859" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(610) 459-5859</a>
+                </p>
+            </li>            <li id="3145" class="smart-banner fourth">
+                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-view', '20147']);</script>
+                <p class="docpic">
+                    <!-- THUMBNAIL 1 -->
+                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/10/16/12/22/422/t368.png" style="border:0;" width="48"></a>
+                </p>
+                <p class="btns doctor-links">
+                    <!-- URL -->
+                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <!-- SMILE GALLERY URL -->
+                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                </p>
+                <!-- PROFILE NAME -->
+                <br class="clearAll">
+                <h4><a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Dr. Lance Panarello</a></h4>
                 <p>
                     <!-- CITY, STATE ZIP -->
                     Aston, PA 19014<br>
                     <!-- PHONE -->
-                    <a href="tel:+14844982132" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-call', '20147']);">(484) 498-2132</a>
+                    <a href="tel:+14844982132" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(484) 498-2132</a>
                 </p>
-            </li>            <li id="3146" class="smart-banner fourth">
+            </li>            <li id="3146" class="smart-banner fifth">
                 <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-view', '20147']);</script>
                 <p class="docpic">
                     <!-- THUMBNAIL 1 -->
-                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/10/17/45/20/907/t809.png" style="border:0;" width="48"></a>
+                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/10/17/45/20/907/t809.png" style="border:0;" width="48"></a>
                 </p>
                 <p class="btns doctor-links">
                     <!-- URL -->
-                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
                     <!-- SMILE GALLERY URL -->
-                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
                 </p>
                 <!-- PROFILE NAME -->
                 <br class="clearAll">
-                <h4><a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Dr. Lon Kessler</a></h4>
+                <h4><a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Dr. Lon Kessler</a></h4>
                 <p>
                     <!-- CITY, STATE ZIP -->
                     Phoenixville, PA 19460<br>
                     <!-- PHONE -->
-                    <a href="tel:+16109333342" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-call', '20147']);">(610) 933-3342</a>
-                </p>
-            </li>            <li id="3150" class="smart-banner fifth">
-                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-view', '20147']);</script>
-                <p class="docpic">
-                    <!-- THUMBNAIL 1 -->
-                    <a href="https://www.mainlineimpressions.com/" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/11/21/10/54/171/t624.png" style="border:0;" width="48"></a>
-                </p>
-                <p class="btns doctor-links">
-                    <!-- URL -->
-                    <a href="https://www.mainlineimpressions.com/" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
-                    <!-- SMILE GALLERY URL -->
-                    <a href="https://www.mainlineimpressions.com/" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
-                </p>
-                <!-- PROFILE NAME -->
-                <br class="clearAll">
-                <h4><a href="https://www.mainlineimpressions.com/" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Dr. Jerald Matt</a></h4>
-                <p>
-                    <!-- CITY, STATE ZIP -->
-                    Bryn Mawr, PA 19010<br>
-                    <!-- PHONE -->
-                    <a href="tel:+16105253933" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-call', '20147']);">(610) 525-3933</a>
+                    <a href="tel:+16109333342" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(610) 933-3342</a>
                 </p>
             </li>
                 </ul>
@@ -705,48 +718,21 @@ twttr.events.bind('tweet', function(event) {
             <div class="topbox"></div>
             <div id="thumb-list">
                 <ul>
-                                <li id="3151" class="smart-banner first">
-                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-view', '20147']);</script>
-                <p class="docpic">
-                    <!-- THUMBNAIL 1 -->
-                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/14/15/45/21/785/t542.jpg" style="border:0;" width="48"></a>
-                </p>
-                <p class="btns doctor-links">
-                    <!-- URL -->
-                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
-                    <!-- SMILE GALLERY URL -->
-                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
-                </p>
-                <!-- PROFILE NAME -->
-                <br class="clearAll">
-                <h4><a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Dr. Ivory Hancock</a></h4>
-                <p>
-                    <!-- PRACTICE -->
-                    Presidential Dental Group<br>
-                    <!-- LINE 1, LINE 2 -->
-                    1026 16th Street NW, Suite 105
-                    
-                    <br>
-                    <!-- CITY, STATE ZIP -->
-                    Washington, DC 20036<br>
-                    <!-- PHONE -->
-                    <a href="tel:+12027377025" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-call', '20147']);">(202) 737-7025</a>
-                </p>
-            </li>            <li id="46" class="smart-banner second">
+                                <li id="46" class="smart-banner first">
                 <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-view', '20147']);</script>
                 <p class="docpic">
                     <!-- THUMBNAIL 1 -->
-                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="http://www.yourdentistguide.com/ingber/ingber-50x50.jpg" style="border:0;" width="48"></a>
+                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="http://www.yourdentistguide.com/ingber/ingber-50x50.jpg" style="border:0;" width="48"></a>
                 </p>
                 <p class="btns doctor-links">
                     <!-- URL -->
-                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
                     <!-- SMILE GALLERY URL -->
-                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm#gallery" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm#gallery" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
                 </p>
                 <!-- PROFILE NAME -->
                 <br class="clearAll">
-                <h4><a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Kenneth A Ingber, DMD</a></h4>
+                <h4><a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Kenneth A Ingber, DMD</a></h4>
                 <p>
                     <!-- PRACTICE -->
                     K.A. Ingber, D.M.D. and Associates<br>
@@ -757,23 +743,77 @@ twttr.events.bind('tweet', function(event) {
                     <!-- CITY, STATE ZIP -->
                     Washington, DC 20006<br>
                     <!-- PHONE -->
-                    <a href="tel:+12023317474" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-call', '20147']);">(202) 331-7474</a>
+                    <a href="tel:+12023317474" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(202) 331-7474</a>
                 </p>
-            </li>            <li id="3145" class="smart-banner third">
-                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-view', '20147']);</script>
+            </li>            <li id="3151" class="smart-banner second">
+                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-view', '20147']);</script>
                 <p class="docpic">
                     <!-- THUMBNAIL 1 -->
-                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/10/16/12/22/422/t368.png" style="border:0;" width="48"></a>
+                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/14/15/45/21/785/t542.jpg" style="border:0;" width="48"></a>
                 </p>
                 <p class="btns doctor-links">
                     <!-- URL -->
-                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
                     <!-- SMILE GALLERY URL -->
-                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
                 </p>
                 <!-- PROFILE NAME -->
                 <br class="clearAll">
-                <h4><a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Dr. Lance Panarello</a></h4>
+                <h4><a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Dr. Ivory Hancock</a></h4>
+                <p>
+                    <!-- PRACTICE -->
+                    Presidential Dental Group<br>
+                    <!-- LINE 1, LINE 2 -->
+                    1026 16th Street NW, Suite 105
+                    
+                    <br>
+                    <!-- CITY, STATE ZIP -->
+                    Washington, DC 20036<br>
+                    <!-- PHONE -->
+                    <a href="tel:+12027377025" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(202) 737-7025</a>
+                </p>
+            </li>            <li id="3236" class="smart-banner third">
+                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-view', '20147']);</script>
+                <p class="docpic">
+                    <!-- THUMBNAIL 1 -->
+                    <a href="http://888smile10.com/garnet-valley-dentists/?utm_source=Guidetodentistry&amp;utm_medium=display&amp;utm_content=garnetvalley" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2016/06/10/16/51/42/522/t712.jpg" style="border:0;" width="48"></a>
+                </p>
+                <p class="btns doctor-links">
+                    <!-- URL -->
+                    <a href="http://888smile10.com/garnet-valley-dentists/?utm_source=Guidetodentistry&amp;utm_medium=display&amp;utm_content=garnetvalley" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <!-- SMILE GALLERY URL -->
+                    <a href="http://888smile10.com/garnet-valley-dentists/?utm_source=Guidetodentistry&amp;utm_medium=display&amp;utm_content=Photo" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                </p>
+                <!-- PROFILE NAME -->
+                <br class="clearAll">
+                <h4><a href="http://888smile10.com/garnet-valley-dentists/?utm_source=Guidetodentistry&amp;utm_medium=display&amp;utm_content=garnetvalley" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Dr. Scott Shalit</a></h4>
+                <p>
+                    <!-- PRACTICE -->
+                    Simply Beautiful Smiles<br>
+                    <!-- LINE 1, LINE 2 -->
+                    1376 Naaman’s Creek Rd
+                    
+                    <br>
+                    <!-- CITY, STATE ZIP -->
+                    Garnet Valley, PA 19060<br>
+                    <!-- PHONE -->
+                    <a href="tel:+16104595859" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(610) 459-5859</a>
+                </p>
+            </li>            <li id="3145" class="smart-banner fourth">
+                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-view', '20147']);</script>
+                <p class="docpic">
+                    <!-- THUMBNAIL 1 -->
+                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/10/16/12/22/422/t368.png" style="border:0;" width="48"></a>
+                </p>
+                <p class="btns doctor-links">
+                    <!-- URL -->
+                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <!-- SMILE GALLERY URL -->
+                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                </p>
+                <!-- PROFILE NAME -->
+                <br class="clearAll">
+                <h4><a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Dr. Lance Panarello</a></h4>
                 <p>
                     <!-- PRACTICE -->
                     Dental Health Care Associates<br>
@@ -784,23 +824,23 @@ twttr.events.bind('tweet', function(event) {
                     <!-- CITY, STATE ZIP -->
                     Aston, PA 19014<br>
                     <!-- PHONE -->
-                    <a href="tel:+14844982132" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-call', '20147']);">(484) 498-2132</a>
+                    <a href="tel:+14844982132" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(484) 498-2132</a>
                 </p>
-            </li>            <li id="3146" class="smart-banner fourth">
+            </li>            <li id="3146" class="smart-banner fifth">
                 <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-view', '20147']);</script>
                 <p class="docpic">
                     <!-- THUMBNAIL 1 -->
-                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/10/17/45/20/907/t809.png" style="border:0;" width="48"></a>
+                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/10/17/45/20/907/t809.png" style="border:0;" width="48"></a>
                 </p>
                 <p class="btns doctor-links">
                     <!-- URL -->
-                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
                     <!-- SMILE GALLERY URL -->
-                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
                 </p>
                 <!-- PROFILE NAME -->
                 <br class="clearAll">
-                <h4><a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Dr. Lon Kessler</a></h4>
+                <h4><a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Dr. Lon Kessler</a></h4>
                 <p>
                     <!-- PRACTICE -->
                     Kessler Dental Associates<br>
@@ -811,34 +851,7 @@ twttr.events.bind('tweet', function(event) {
                     <!-- CITY, STATE ZIP -->
                     Phoenixville, PA 19460<br>
                     <!-- PHONE -->
-                    <a href="tel:+16109333342" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-call', '20147']);">(610) 933-3342</a>
-                </p>
-            </li>            <li id="3150" class="smart-banner fifth">
-                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-view', '20147']);</script>
-                <p class="docpic">
-                    <!-- THUMBNAIL 1 -->
-                    <a href="https://www.mainlineimpressions.com/" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/11/21/10/54/171/t624.png" style="border:0;" width="48"></a>
-                </p>
-                <p class="btns doctor-links">
-                    <!-- URL -->
-                    <a href="https://www.mainlineimpressions.com/" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
-                    <!-- SMILE GALLERY URL -->
-                    <a href="https://www.mainlineimpressions.com/" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
-                </p>
-                <!-- PROFILE NAME -->
-                <br class="clearAll">
-                <h4><a href="https://www.mainlineimpressions.com/" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Dr. Jerald Matt</a></h4>
-                <p>
-                    <!-- PRACTICE -->
-                    Mainline Impressions Dentistry by Dr. Jerald Matt<br>
-                    <!-- LINE 1, LINE 2 -->
-                    776 W. Lancaster Avenue
-                    
-                    <br>
-                    <!-- CITY, STATE ZIP -->
-                    Bryn Mawr, PA 19010<br>
-                    <!-- PHONE -->
-                    <a href="tel:+16105253933" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-call', '20147']);">(610) 525-3933</a>
+                    <a href="tel:+16109333342" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(610) 933-3342</a>
                 </p>
             </li>
                 </ul>
@@ -1336,115 +1349,115 @@ var nav = $("#mobile_menu");
 
 <span class="top"></span><span class="bottom"></span></div><!-- /shadow-wrapper -->
 
-<p id="copyright">© 2006-2015 Ceatus Media Group LLC<br>
+<p id="copyright">© 2006-2016 Ceatus Media Group LLC<br>
 Consumer Guide to Dentistry is a registered trademark of Ceatus Media Group. All images and text on this site belong to Ceatus Media Group or respective copyright holders as indicated. Copying or reproducing any text or graphics from this website is strictly prohibited by US and international copyright laws. Please read our <a href="/copyright/">Copyright Infringement Policy</a>.</p><p id="alternate"></p>
     <div id="smartbanner-float">
                 <div class="smartbanners">
                 <ul>
-                                <li id="3151" class="smart-banner first">
-                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-view', '20147']);</script>
-                <p class="docpic">
-                    <!-- THUMBNAIL 1 -->
-                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/14/15/45/21/785/t542.jpg" style="border:0;" width="48"></a>
-                </p>
-                <p class="btns doctor-links">
-                    <!-- URL -->
-                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
-                    <!-- SMILE GALLERY URL -->
-                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
-                </p>
-                <!-- PROFILE NAME -->
-                <br class="clearAll">
-                <h4><a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Dr. Ivory Hancock</a></h4>
-                <p>
-                    <!-- CITY, STATE ZIP -->
-                    Washington, DC 20036<br>
-                    <!-- PHONE -->
-                    <a href="tel:+12027377025" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-call', '20147']);">(202) 737-7025</a>
-                </p>
-            </li>            <li id="46" class="smart-banner second">
+                                <li id="46" class="smart-banner first">
                 <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-view', '20147']);</script>
                 <p class="docpic">
                     <!-- THUMBNAIL 1 -->
-                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="http://www.yourdentistguide.com/ingber/ingber-50x50.jpg" style="border:0;" width="48"></a>
+                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="http://www.yourdentistguide.com/ingber/ingber-50x50.jpg" style="border:0;" width="48"></a>
                 </p>
                 <p class="btns doctor-links">
                     <!-- URL -->
-                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
                     <!-- SMILE GALLERY URL -->
-                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm#gallery" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                    <a href="http://www.yourdentistguide.com/ingber-washington-dc.htm#gallery" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
                 </p>
                 <!-- PROFILE NAME -->
                 <br class="clearAll">
-                <h4><a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Kenneth A Ingber, DMD</a></h4>
+                <h4><a href="http://www.yourdentistguide.com/ingber-washington-dc.htm" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Kenneth A Ingber, DMD</a></h4>
                 <p>
                     <!-- CITY, STATE ZIP -->
                     Washington, DC 20006<br>
                     <!-- PHONE -->
-                    <a href="tel:+12023317474" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-call', '20147']);">(202) 331-7474</a>
+                    <a href="tel:+12023317474" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_872_46:Kenneth A Ingber, DMD:20006:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(202) 331-7474</a>
                 </p>
-            </li>            <li id="3145" class="smart-banner third">
-                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-view', '20147']);</script>
+            </li>            <li id="3151" class="smart-banner second">
+                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-view', '20147']);</script>
                 <p class="docpic">
                     <!-- THUMBNAIL 1 -->
-                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/10/16/12/22/422/t368.png" style="border:0;" width="48"></a>
+                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/14/15/45/21/785/t542.jpg" style="border:0;" width="48"></a>
                 </p>
                 <p class="btns doctor-links">
                     <!-- URL -->
-                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
                     <!-- SMILE GALLERY URL -->
-                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                    <a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
                 </p>
                 <!-- PROFILE NAME -->
                 <br class="clearAll">
-                <h4><a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Dr. Lance Panarello</a></h4>
+                <h4><a href="http://www.presidentialdentalgroup.com" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Dr. Ivory Hancock</a></h4>
+                <p>
+                    <!-- CITY, STATE ZIP -->
+                    Washington, DC 20036<br>
+                    <!-- PHONE -->
+                    <a href="tel:+12027377025" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_188_3151:Dr. Ivory Hancock:20036:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(202) 737-7025</a>
+                </p>
+            </li>            <li id="3236" class="smart-banner third">
+                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-view', '20147']);</script>
+                <p class="docpic">
+                    <!-- THUMBNAIL 1 -->
+                    <a href="http://888smile10.com/garnet-valley-dentists/?utm_source=Guidetodentistry&amp;utm_medium=display&amp;utm_content=garnetvalley" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2016/06/10/16/51/42/522/t712.jpg" style="border:0;" width="48"></a>
+                </p>
+                <p class="btns doctor-links">
+                    <!-- URL -->
+                    <a href="http://888smile10.com/garnet-valley-dentists/?utm_source=Guidetodentistry&amp;utm_medium=display&amp;utm_content=garnetvalley" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <!-- SMILE GALLERY URL -->
+                    <a href="http://888smile10.com/garnet-valley-dentists/?utm_source=Guidetodentistry&amp;utm_medium=display&amp;utm_content=Photo" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                </p>
+                <!-- PROFILE NAME -->
+                <br class="clearAll">
+                <h4><a href="http://888smile10.com/garnet-valley-dentists/?utm_source=Guidetodentistry&amp;utm_medium=display&amp;utm_content=garnetvalley" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Dr. Scott Shalit</a></h4>
+                <p>
+                    <!-- CITY, STATE ZIP -->
+                    Garnet Valley, PA 19060<br>
+                    <!-- PHONE -->
+                    <a href="tel:+16104595859" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_233_3236:Dr. Scott Shalit:19060:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(610) 459-5859</a>
+                </p>
+            </li>            <li id="3145" class="smart-banner fourth">
+                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-view', '20147']);</script>
+                <p class="docpic">
+                    <!-- THUMBNAIL 1 -->
+                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/10/16/12/22/422/t368.png" style="border:0;" width="48"></a>
+                </p>
+                <p class="btns doctor-links">
+                    <!-- URL -->
+                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <!-- SMILE GALLERY URL -->
+                    <a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                </p>
+                <!-- PROFILE NAME -->
+                <br class="clearAll">
+                <h4><a href="http://www.pagreendentist.com/" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Dr. Lance Panarello</a></h4>
                 <p>
                     <!-- CITY, STATE ZIP -->
                     Aston, PA 19014<br>
                     <!-- PHONE -->
-                    <a href="tel:+14844982132" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-call', '20147']);">(484) 498-2132</a>
+                    <a href="tel:+14844982132" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_183_3145:Dr. Lance Panarello:19014:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(484) 498-2132</a>
                 </p>
-            </li>            <li id="3146" class="smart-banner fourth">
+            </li>            <li id="3146" class="smart-banner fifth">
                 <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-view', '20147']);</script>
                 <p class="docpic">
                     <!-- THUMBNAIL 1 -->
-                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/10/17/45/20/907/t809.png" style="border:0;" width="48"></a>
+                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:image1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/10/17/45/20/907/t809.png" style="border:0;" width="48"></a>
                 </p>
                 <p class="btns doctor-links">
                     <!-- URL -->
-                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
+                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:button1', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
                     <!-- SMILE GALLERY URL -->
-                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
+                    <a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:button2', '20147']); surveyPopupSB(this);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
                 </p>
                 <!-- PROFILE NAME -->
                 <br class="clearAll">
-                <h4><a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Dr. Lon Kessler</a></h4>
+                <h4><a href="http://familydental.net/" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-visit-profile:link1', '20147']); surveyPopupSB(this);" target="_blank">Dr. Lon Kessler</a></h4>
                 <p>
                     <!-- CITY, STATE ZIP -->
                     Phoenixville, PA 19460<br>
                     <!-- PHONE -->
-                    <a href="tel:+16109333342" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-call', '20147']);">(610) 933-3342</a>
-                </p>
-            </li>            <li id="3150" class="smart-banner fifth">
-                <script type="text/javascript">_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-view', '20147']);</script>
-                <p class="docpic">
-                    <!-- THUMBNAIL 1 -->
-                    <a href="https://www.mainlineimpressions.com/" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-visit-profile:image1', '20147']);" target="_blank"><img alt="P" class="docpic1" height="48" src="https://cmggeo.s3.amazonaws.com/2015/09/11/21/10/54/171/t624.png" style="border:0;" width="48"></a>
-                </p>
-                <p class="btns doctor-links">
-                    <!-- URL -->
-                    <a href="https://www.mainlineimpressions.com/" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-visit-profile:button1', '20147']);" target="_blank"><img alt="Learn more" class="btnLearnMore" src="http://www.yourdentistguide.com/g/images/learn-more.png" style="border:0;"></a><br>
-                    <!-- SMILE GALLERY URL -->
-                    <a href="https://www.mainlineimpressions.com/" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-visit-profile:button2', '20147']);" target="_blank"><img alt="Smile gallery btn" class="btnSmileGallery" src="http://www.yourdentistguide.com/g/images/smile-gallery-btn.png" style="border:0;"></a>
-                </p>
-                <!-- PROFILE NAME -->
-                <br class="clearAll">
-                <h4><a href="https://www.mainlineimpressions.com/" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-visit-profile:link1', '20147']);" target="_blank">Dr. Jerald Matt</a></h4>
-                <p>
-                    <!-- CITY, STATE ZIP -->
-                    Bryn Mawr, PA 19010<br>
-                    <!-- PHONE -->
-                    <a href="tel:+16105253933" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_187_3150:Dr. Jerald Matt:19010:Dentistry', 'profile_stub-call', '20147']);">(610) 525-3933</a>
+                    <a href="tel:+16109333342" class="tel" onclick="_gaq.push(['_trackEvent', 'PS_184_3146:Dr. Lon Kessler:19460:Dentistry', 'profile_stub-call', '20147']); surveyPopupSB(this);">(610) 933-3342</a>
                 </p>
             </li>
                 </ul>
