@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211222544id_/http%3A//privacy.aol.com/%3Ficid%3Dgamesfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611144204id_/http%3A//privacy.aol.com/%3Ficid%3Dgamesfooter_privacy) for the most accurate reproduction.*
 
 # AOL Privacy
 
