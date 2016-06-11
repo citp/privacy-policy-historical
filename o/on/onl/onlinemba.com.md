@@ -1,51 +1,56 @@
-> *The following text is extracted and transformed from the onlinemba.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217052949id_/http%3A//www.onlinemba.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemba.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611084256id_/http%3A//www.onlinemba.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OnlineMBA.com
 
-The following privacy statement depicts OnlineMBA.com’s collection and utilization process of personal information you provide to us.
+## Terms of Use and Privacy Policy for Use of OnlineMBA.com (Effective 1/5/2016)
 
-#### Personal Information Collection and Utilization
+Thank you for your interest in, and use of, our website content and services. This document explains the conditions under which you may utilize our website, and the way in which OnlineMBA.com gathers and utilizes different types of information to provide the content and related products and services. By using our website, you are agreeing to these Terms of Use and Privacy Policy. 
 
-While you use OnlineMBA.com services, we maintain the right to collect personal information from you as follows:
+Generally, there are two categories of information we collect:
 
-  * Contact Information; for example, your full name, contact phone number, email address
-  * Demographic information; for example, your education background, zip code, probable graduation date
-
-
-
-As is true of most websites, we maintain the right to collect information concerning your computer; for example, your browser service, IP address, referring/exit pages, and operating system.
-
-With this information we act to:
-
-  * Locate and make available online college degree programs and related information that matches your career aspirations, education goals, and online education search requirements.
-  * Send you school information you have requested
-  * Reply to customer service requests
-  * Send you a relevant newsletter
-  * Send you relevant marketing communications
-  * Reply to your concerns and questions
-  * Evaluate our Web OnlineMBA.com, marketing efforts, and business needs for future improvement
-  * Research and analysis our market, business, etc.
+  * Submitted information: 
+    * To provide the services requested by our visitors, we provide web forms for the voluntary submission of personal contact information (such as name, telephone number, mailing address and email address), as well any other information required to match you to an education product or service. Your submitted information is collected, stored and shared with schools and other third parties as necessary to provide you with information about schools, programs and education related services.
+    * By submitting this information, you authorize OnlineMBA.com, our affiliated schools and partners, to contact you in accordance with all applicable laws by telephone, text messages, email or mail regarding education options or related topics. See below for more information on this and other important topics. If you receive any email communications from us, a school, or third party, you will be afforded the ability to unsubscribe through a link in the email, at which point you will be removed from further mailings from that sender.
+  * Automatic information: 
+    * As most websites do, we also receive and store certain types of anonymous information whenever you interact with us. This information is useful for improvements and for creating a more relevant user experience. For example, we use “cookies” to collect anonymous data for analytics, site optimization and for tailored advertising and marketing purposes. Examples of this kind of information include, but are not limited to, your browser version, operating system version, and your IP address. See more information about our use of cookies below in this document.
 
 
 
-#### Opt-Out Option
+By utilizing our website, you acknowledge and agree that information collected on our website may be shared with schools, affiliated companies, and third parties, to provide you with information about degrees, programs and other education related products and services. You also acknowledge and agree that we retain the right to release any collected information, including personally identifiable information, as needed, to businesses providing our company with administration services, for example an email service delivery.
 
-If you wish to opt-out of receiving marketing information from us, find and follow our unsubscribe instructions included in our email communications to you.
+By submitting personal information to OnlineMBA.com, you are granting permission for us, our affiliated entities, including schools, third party marketing partners and vendors to contact you, including via telephone, text messages, email, or mail for purposes of providing information, including marketing, for education related products and services. In addition, through this action, you grant us, our affiliates, and partners and vendors, the right to contact you for a period of time and relinquish any rights granted to you by the Do Not Call list or other applicable law. Effectively, your submission serves as an omission to Do Not Call requirements established by state and federal governments and may exempt us from other applicable laws.
 
-#### Information Sharing
+We also retain the right to release your personal information in instances required by law, for example to abide by a subpoena or other legal procedure, when, in good faith, we believe it is necessary to preserve our rights, ensure the safety of you or others, explore alleged fraud, to reply to a government or legal request, and/or in the instance that OnlineMBA.com is merging, acquisitioning, or selling some or all of its assets to a third party.
 
-The ways we emit your personal information to third parties are compliant with that which is described in this privacy statement. Under no circumstance will OnlineMBA.com sell acquired personal information to third parties for their disparate marketing purposes. In certain circumstances, we may provide your personal information to companies that provide OnlineMBA.com with business administration services; for instance, our email delivery service.
+## Terms of Use and Privacy Policy Changes Notification
 
-Additionally, the act of providing OnlineMBA.com with your personal information serves as you making an “inquiry” to and permitting us , our affiliates, and our third party marketing partners and/or vendors to contact you. This act also grants us and our affiliates permission to contact you via telephone for a limited time, regardless of your submission to a state or federal Do Not Call list as your inquiry is a legal exception to all Do Not Call stipulations.ÿ
+It is possible that we will revise our Terms of Use and Privacy Policy in the future if we change our practices, so it is our recommendation that you reread this document periodically to stay current with our practices concerning your privacy and other important information.
 
-We also maintain the right to release your submitted personal information when OnlineMBA.com merges, procures, or sells all or a percentage of its assets to a third party with your prior consent, and is required by law, such as in the case of a court order, to disclose said information when we consider, in good faith, such a disclosure is necessary to protect our constitutional rights, yours or another’s safety, probe fraud/fraudulent events, or adhere to a government request.
+## Cookie Policy – an important part of our Privacy Policy
 
-#### Privacy Statement Changes Notification
+### About Your Consent
 
-If changes in our information procedures are made, we may renew this privacy statement to reflect them. We suggest that you check this privacy policy occasionally to ensure your understanding of it is up-to-date.
+By using this website, you acknowledge that we use Cookies and consent to our use of Cookies.
 
-#### Contacting OnlineMBA.com
+### About Cookies: Ours, Google, and Third-Party Cookies
 
-Please send us all questions or concerns with respect to this privacy policy through our contact form.
+Cookies are small pieces of data sent from a website and stored in the user’s web browser, including for technical purposes such as web analytics. Our web analytics are mainly performed using Google Analytics, a tool provided by Google, Inc. Advertising cookies do not contain personally identifiable information, so users are still anonymous, but they allow advertisers to make ads more relevant to the user’s interests. Advertising cookies are sometimes referred to as third-party cookies, since they track navigation and publish ads on behalf of third parties.  
+For more information about Google Analytics, check Google’s privacy policy at <http://www.google.com/intl/en/analytics/privacyoverview.html>.
 
-Effective date: August 18, 2012
+### About information gathered by Cookies
+
+Here are some examples of how Cookies may be used by us, including through services and partnerships with vendors and third party service providers:
+
+  * Web analytics that include demographic and other anonymous data for web optimization and other analysis
+  * “Lead auditing” to ensure the accuracy, relevance and validity of submitted information
+  * Marketing and conversion tracking cookies. Uses include, but are not limited to, targeting and optimizing digital ad serving to improve relevance, user experience, and advertising effectiveness. 
+
+
+
+### About Refusing and Removing Cookies and Third-Party Advertising
+
+You can remove cookies through your browser settings at any time. You may need to do this on a per use and not one time basis. You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website and DAA website.
+
+## Contact Information
+
+Use our contact form for any questions or concerns about this Terms of Use and Privacy Policy.
