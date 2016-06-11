@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210013401id_/http%3A//www.hippieshop.com/cgi-bin/gold/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611114234id_/http%3A//www.hippieshop.com/cgi-bin/gold/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
-# Hippie Shop Privacy Policy at HippieShop.com
+# Hippie Shop Privacy Policy from HippieShop.com
 
 **Privacy Policy**
 
