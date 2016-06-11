@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nagpurtoday.in privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212192240id_/http%3A//www.nagpurtoday.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nagpurtoday.in privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611235545id_/http%3A//www.nagpurtoday.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nagpur Today : Nagpur News
 
@@ -43,7 +43,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **SM Medias**
 
-**302, Gokul Enclave , Mate Chowk, Nagpur – 440012**
+**19, Great Nag Road, Nagpur – 440010**
 
 **We request you to please provide the following information in your complaint:-**
 
