@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pharmatutor.org privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916132353id_/http%3A//www.pharmatutor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmatutor.org privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611120818id_/http%3A//www.pharmatutor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Of Pharmatutor | PharmaTutor
+
+[ ](http://www.pharmatutor.org/exam-alert/gpat/prepare-for-gpat-online)
 
 This is the web site of **PharmaTutor** **.org** **,   India**  
 
