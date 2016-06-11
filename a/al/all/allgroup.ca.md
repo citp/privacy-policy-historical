@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allgroup.ca privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904054757id_/http%3A//allgroup.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgroup.ca privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611052909id_/http%3A//allgroup.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | All Group Financial Services
+# Privacy Policy - All Group Financial ServicesAll Group Financial Services
 
    
 At the time you begin a relationship with us and during the course of our relationship, we may collect information about you. We obtain most of our information about you directly from you. The information we ask for depends on which product or service you want.
