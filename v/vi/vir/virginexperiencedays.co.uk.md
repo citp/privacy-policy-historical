@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginexperiencedays.co.uk privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912070820id_/http%3A//www.virginexperiencedays.co.uk/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginexperiencedays.co.uk privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611144322id_/http%3A//www.virginexperiencedays.co.uk/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security of the Virgin Experience Days Website
 
@@ -21,7 +21,7 @@ SL8 5YS
 You can phone us on 0844 504 0844*  
 You can email us on [info@virginexperiencedays.co.uk](mailto:info@virginexperiencedays.co.uk)
 
-*Please note that calls to this number are charges at 5p per minute plus your telephone provider's access charge.
+*Please note that calls to this number are charged at 5p per minute plus your telephone provider's access charge.
 
 ## Eight Principles of Privacy
 
