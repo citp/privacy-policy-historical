@@ -1,464 +1,339 @@
-<!--The following is the downloaded HTML source of the begalileo.com privacy policy that was archived on 2015-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151009224156id_/http%3A//www.begalileo.com/user/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the begalileo.com privacy policy that was archived on 2016-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611050512id_/http%3A//www.begalileo.com/home/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-    <link href="/assets/begalileo-f4b8ed23293a7ce44398990d1668bc74.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-    <title> beGalileo|Online Adaptive Learning Platform| Maths practice worksheets </title>
-    <meta name="Generator" content="EditPlus">
-      <meta name="Author" content="">
-        <meta name="Keywords" content="">
-          <meta name="Description" content="">
-
-            <link href="/assets/application-db1b8ae6514ec25a148399008654aae8.css" media="all" rel="stylesheet" type="text/css">
-            <link href="/assets/introjs-1160b99e61acb79b78a2a66f880810c0.css" media="all" rel="stylesheet" type="text/css">
-            <script media="all" src="/assets/intro-5c309e58923e28ebceaaba938206a309.js" type="text/javascript"></script>
-            <script media="all" src="/assets/application-52593f4828eadb0c5d9a9abadbd8c77e.js" type="text/javascript"></script>
-            <meta content="authenticity_token" name="csrf-param">
-<meta content="on/HVQrDggsS6b3N4SsFr8jNkRwG2VmMDEGj1j9tzlQ=" name="csrf-token">          
-
-            <script type="text/x-mathjax-config;executed=true">
-              MathJax.Hub.Config({
-              tex2jax: {
-              inlineMath: [ ['$','$'] ],
-              processEscapes: true
-
-              },    
-              messageStyle: "none"         
+<html><head>
+        <link rel="shortcut icon" type="image/x-icon" href="/assets/new_home/favicon-1-37c6a5e70005b3e052fb19d919b991b63757f517ca8af7a7ab3be39c6867d5a7.ico">
+          <title>beGalileo - Privacy policy</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" href="assets/new_home/favicon-1.ico">
+        <link rel="stylesheet" media="all" href="/assets/home-0cf2bda951590aeab62bab60570e235ce4fa5836fd99a9cde77ce0aa29414429.css">
+        <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" defer="" src="https://salesiq.zoho.com/carveniche/float.ls?embedname=carveniche"></script><script async="" charset="utf-8" src="//v2.zopim.com/?2Vees7WUOiXEsFdGRx6xCKuMwpYWErNa" type="text/javascript"></script><script src="/assets/home-41e8dd2e478d14fa4f9eb4b4b96f310b6184c0aae12e81277a36dcf5e5d58a1d.js" media="all"></script>
+        <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="9Gipvnx3t0rM/zf0luE/S68h7fw2JfcM4L6LAqFiz1ME0N50zSkA+pLzRsSp08Fe8zB3uoWOJUnDeKVd1GPZLg==">          
+       <script type="text/javascript">
+          $(function(){
+            var windowwidth = window.innerWidth;
+   
+          });
+          $(window).load(function(){
+              $('.flexslider').flexslider({
+                  animation: "slide",
+                  start: function (slider) {
+                  }
               });
-            </script>
-            <script>
-  $(document).ready(function(){
-       
-	  $('#tourIcon').show();
-	  //introJs().setOption('showBullets', false).start();
-	  $('#tourIcon').click(function(e){
-          introJs().setOption('showBullets', false).start();
-      });
-      
-      $('#refer-friend').click(function(ee){
-      $('.notify-info-popup').fadeIn(300);   
-        $('.bg-gray').fadeIn(300);  
-        ee.preventDefault();
-       });
-       $('.buton1').click(function(){
-        $('.notify-info-popup').fadeOut(300);   
-        window.location = "/user_references/new"
-       }); 
-       });  
-      
- (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
- (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
- m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
- })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+              $('.flexslider1').flexslider({
+                  animation: "slide",
+                  start: function (slider) {
+                  }
+              });
 
- ga('create', 'UA-56125943-1', 'auto');
- ga('send', 'pageview');
+              $('#slideshow').cycle({
+                  fx: 'scrollHorz',
+                  prev: '#prev',
+                  next: '#next',
+                  after: onAfter,
+                  timeout: 0
+              });
+              function onAfter(curr, next, opts){
+                  var index = opts.currSlide;
+                  $('#prev')[index === 0 ? 'hide' : 'show']();
+                  $('#next')[index === opts.slideCount - 1 ? 'hide' : 'show']();
+              }
+              $("#footer-newsletter").click(function(){
+                  var email = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+                  if ($('#newsletter_email').val() === '' || email.test($('#newsletter_email').val()) === false) {
+                      alert("Please enter the valid email.")
+                  } else {
+                      $.ajax({
+                          url: '/users/validate_newsletter_email',
+                          data: {
+                              newsletter_email: $('#newsletter_email').val(),
+                          },
+                          success: function (data) {
+                              if (data.status == true) {
+                                  $('#newsletter_email').val('')
+                                  alert("Thank you for registering for the beGalileo newsletter.")
+                              } else {
+                                  alert("You have already registered for beGalileo newsletter.")
+                              }
+                          }
+                      });
 
-</script>
+                  }
 
+              });
             
-            <script src="/mathjax/MathJax.js?config=TeX-AMS_HTML-full.js" type="text/javascript"></script>  
 
-               <style>                    
-                    .flash_notice {    
-                      color : #0489B1;
-                      font-family: "imprima";
-                      font-size: 24px;
-                      font-weight: bold;
-                    }
-                    .flash_success {    
-                      color : #8DB600;
-                      font-family: "imprima";
-                      font-size: 24px;
-                      font-weight: bold;
-                    }
-                    .flash_error {    
-                      color : #CC0000;
-                      font-family: "imprima";
-                      font-size: 24px;
-                      font-weight: bold;
-                    }
-                    .flash_info {    
-                      color : #8DB600;
-                      font-family: "imprima";
-                      font-size: 24px;
-                      font-weight: bold;
-                    }
-                    .flash_trial_expire {    
-                      color : #0489B1;
-                      font-family: "imprima";
-                      font-size: 23px;
-                      font-weight: bold;
-                    }
-                    .flash_activation{
-                      color : #d58f08;
-                      font-family: "imprima";
-                      font-size: 20px;
-                    }
-                    
-                  </style>
-                  <style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
-.MathJax_Hover_Arrow {position: absolute; width: 15px; height: 11px; cursor: pointer}
-</style><style type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
-.MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 5px 0px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -khtml-border-radius: 5px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
-.MathJax_MenuItem {padding: 1px 2em; background: transparent}
-.MathJax_MenuArrow {position: absolute; right: .5em; color: #666666}
-.MathJax_MenuActive .MathJax_MenuArrow {color: white}
-.MathJax_MenuCheck {position: absolute; left: .7em}
-.MathJax_MenuRadioCheck {position: absolute; left: .7em}
-.MathJax_MenuLabel {padding: 1px 2em 3px 1.33em; font-style: italic}
-.MathJax_MenuRule {border-top: 1px solid #DDDDDD; margin: 4px 3px}
-.MathJax_MenuDisabled {color: GrayText}
-.MathJax_MenuActive {background-color: #606872; color: white}
-.MathJax_Menu_Close {position: absolute; width: 31px; height: 31px; top: -15px; left: -15px}
-</style><style type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
-#MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
-#MathJax_ZoomFrame {position: relative; display: inline-block; height: 0; width: 0}
-#MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
-</style><style type="text/css">.MathJax_Preview {color: #888}
-#MathJax_Message {position: fixed; left: 1px; bottom: 2px; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
-#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
-.MathJax_Error {color: #CC0000; font-style: italic}
-</style><style type="text/css">.MathJax_Display {text-align: center; margin: 1em 0em; position: relative; display: block; width: 100%}
-.MathJax .merror {background-color: #FFFF88; color: #CC0000; border: 1px solid #CC0000; padding: 1px 3px; font-style: normal; font-size: 90%}
-#MathJax_Tooltip {background-color: InfoBackground; color: InfoText; border: 1px solid black; box-shadow: 2px 2px 5px #AAAAAA; -webkit-box-shadow: 2px 2px 5px #AAAAAA; -moz-box-shadow: 2px 2px 5px #AAAAAA; -khtml-box-shadow: 2px 2px 5px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true'); padding: 3px 4px; z-index: 401; position: absolute; left: 0; top: 0; width: auto; height: auto; display: none}
-.MathJax {display: inline; font-style: normal; font-weight: normal; line-height: normal; font-size: 100%; font-size-adjust: none; text-indent: 0; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; border: 0; padding: 0; margin: 0}
-.MathJax img, .MathJax nobr, .MathJax a {border: 0; padding: 0; margin: 0; max-width: 5000em; max-height: 5000em; vertical-align: 0; line-height: normal; text-decoration: none}
-img.MathJax_strut {border: 0 !important; padding: 0 !important; margin: 0 !important; vertical-align: 0 !important}
-.MathJax span {display: inline; position: static; border: 0; padding: 0; margin: 0; vertical-align: 0; line-height: normal; text-decoration: none}
-.MathJax nobr {white-space: nowrap ! important}
-.MathJax img {display: inline ! important; float: none ! important}
-.MathJax * {transition: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none}
-.MathJax_Processing {visibility: hidden; position: fixed; width: 0; height: 0; overflow: hidden}
-.MathJax_Processed {display: none!important}
-.MathJax_ExBox {display: block; overflow: hidden; width: 1px; height: 60ex}
-.MathJax .MathJax_EmBox {display: block; overflow: hidden; width: 1px; height: 60em}
-.MathJax .MathJax_HitBox {cursor: text; background: white; opacity: 0; filter: alpha(opacity=0)}
-.MathJax .MathJax_HitBox * {filter: none; opacity: 1; background: transparent}
-#MathJax_Tooltip * {filter: none; opacity: 1; background: transparent}
-@font-face {font-family: MathJax_Main; src: url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/woff/MathJax_Main-Regular.woff') format('woff'), url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/otf/MathJax_Main-Regular.otf') format('opentype')}
-@font-face {font-family: MathJax_Main; src: url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/woff/MathJax_Main-Bold.woff') format('woff'), url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/otf/MathJax_Main-Bold.otf') format('opentype'); font-weight: bold}
-@font-face {font-family: MathJax_Main; src: url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/woff/MathJax_Main-Italic.woff') format('woff'), url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/otf/MathJax_Main-Italic.otf') format('opentype'); font-style: italic}
-@font-face {font-family: MathJax_Math; src: url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/woff/MathJax_Math-Italic.woff') format('woff'), url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/otf/MathJax_Math-Italic.otf') format('opentype'); font-style: italic}
-@font-face {font-family: MathJax_Caligraphic; src: url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/woff/MathJax_Caligraphic-Regular.woff') format('woff'), url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/otf/MathJax_Caligraphic-Regular.otf') format('opentype')}
-@font-face {font-family: MathJax_Size1; src: url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/woff/MathJax_Size1-Regular.woff') format('woff'), url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/otf/MathJax_Size1-Regular.otf') format('opentype')}
-@font-face {font-family: MathJax_Size2; src: url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/woff/MathJax_Size2-Regular.woff') format('woff'), url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/otf/MathJax_Size2-Regular.otf') format('opentype')}
-@font-face {font-family: MathJax_Size3; src: url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/woff/MathJax_Size3-Regular.woff') format('woff'), url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/otf/MathJax_Size3-Regular.otf') format('opentype')}
-@font-face {font-family: MathJax_Size4; src: url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/woff/MathJax_Size4-Regular.woff') format('woff'), url('https://web.archive.org/mathjax/fonts/HTML-CSS/TeX/otf/MathJax_Size4-Regular.otf') format('opentype')}
-.MathJax .noError {vertical-align: ; font-size: 90%; text-align: left; color: black; padding: 1px 3px; border: 1px solid}
-</style></head>
-
-                  <body><div style="visibility: hidden; overflow: hidden; position: absolute; top: 0px; height: 1px; width: auto; padding: 0px; border: 0px; margin: 0px; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal;"><div id="MathJax_Hidden"></div></div><div id="MathJax_Message" style="display: none;"></div>
-                    <section id="main-wrapper">
-                      <section id="primary-wrapper">
-                        <header id="header">
-                          <div id="logo">
-                              <a href="/"><img alt="beGalileo" border="0" height="206" src="/assets/logo2-11ca66859be9356c2ef12d41e031998e.png" width="261"></a>
-                          </div>
-                            <section id="signup-main-menu">
-  <nav id="signup-menu">
-    <ul class="navigation">
-      <li style="width:115px;">
+          });
+          
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+          ga('create', 'UA-56125943-1', 'auto');
+          ga('send', 'pageview');
+        </script>
         
-      </li>      
-      <li style="width:115px;">
-        <div class="menu-image"><a href="/"><img alt="Sign-globe" border="0" height="54" src="/assets/sign-globe-fb29c3bcea126ba4ddc5e78379ed0060.png" width="62"></a></div>
-        <div class="menu-text"><a href="/">Home</a></div>
-      </li>
-      <a href="/home/how_it_works">
-      <li style="width:115px;">
-        <div class="menu-image"><img alt="Settings" border="0" height="42" src="/assets/settings-3958041891c920113d040a3060375a47.png" width="44"></div>
-        <div class="menu-text">Product</div>
-      </li>
-</a>       <a href="/subscriptions">
-      <li style="width:115px;" class="highlight_buy_now">
-        <div class="menu-image"><img alt="Payment" border="0" height="52" src="/assets/payment-d5642151075a1a409e721a9f1a52ba9c.png" width="70"></div>
-        <div class="menu-text">Buy Now</div>
-      </li>
-</a>    </ul>
-  </nav>
-</section>
-                        </header>
-                      </section>
+        <!--Start of Zopim Live Chat Script-->
+        <script type="text/javascript">
+        window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+        d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+        _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+        $.src='//v2.zopim.com/?2Vees7WUOiXEsFdGRx6xCKuMwpYWErNa';z.t=+new Date;$.
+        type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+        </script>
+        
+        <!-- Zoho tracking starts--->
+        <script type="text/javascript">
+          var $zoho= $zoho || {salesiq:{values:{},ready:function(){}}};var d=document;s=d.createElement("script");s.type="text/javascript";
+          s.defer=true;s.src="https://salesiq.zoho.com/carveniche/float.ls?embedname=carveniche";
+          t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);
+          $zoho.salesiq.ready=function(embedinfo){$zoho.salesiq.floatbutton.visible("hide");}
+        </script>
+        <!-- Zoho tracing ends -->
+        
+       <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
 
-                      <style>
-  .sec-privacy {
-    margin-top: 30px;
-    margin-left: 200px;
-    width: 950px !important;
-    font-size: 18px;
-    color: #6e6e6e;
-    line-height: 20px;
-    height:auto;
-}
-.link{
-  color: #08c;
-  text-decoration: none;
-}
-.sec-privacy li {
-  margin-top:5px;
-  margin-left:15px;
-}
-.heading {
-  font-size:40px;
-  margin-bottom:64px;
-  margin-left:300px;
-  font-weight:bold;
-}
- 
-</style>
+fbq('init', '1570154019881785');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1570154019881785&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 
-<div>
-<div class="sec-privacy">
-  <p class="heading">Privacy Policy</p> 
-  The beGalileo team ("Company") knows that you care about how information about you is used and shared, 
-  and we take your privacy seriously. We appreciate your trust that we will do so carefully and sensibly. 
-  Please read the following to learn more about our privacy policy. By visiting the&nbsp;beGalileo&nbsp;website &amp; domain name, 
-  and any other linked pages, features, content, or application services offered from time to time by Company in connection 
-  therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and 
-  policies outlined in this Privacy Policy. 
-</div>
-<div class="sec-privacy">
-  <p style="font-size:20px;margin-bottom:10px;font-weight: bold;">What Does This Privacy Policy Cover?</p>
-  This Privacy Policy covers Company's treatment of personally identifiable information ("Personal Information") that 
-  Company gathers when you access the Website and when you use Company's services. This policy does not apply to the 
-  practices of companies that Company does not own or control, or to individuals that Company does not employ or manage.  
-</div>
+        
+        <script>
+          /*
+          document.onkeydown = function(e) {
+            e = (e || e.event);
+            if (e.keyCode == 123) {
+            return false;
+            }
+            if (e.ctrlKey && 
+            (e.keyCode === 67 || 
+            e.keyCode === 85 || 
+            e.keyCode === 117)) {
+            return false;
+            } else {
+            return true;
+            }
+          };
 
-<div class="sec-privacy">
-  <p style="font-size:20px;margin-bottom:10px;font-weight: bold;">How is my child’s personal information treated?</p>
-  If you are a minor (under the age of 18), you may only use this service and disclose Personal Information with your parent, 
-  school, teacher or guardian's express consent. Company only collects limited Personal Information from students ("Children's Personal Information") 
-  directly from the school, teacher, parent or guardian who has registered and paid for the Services. If you are below the age of eighteen (18), 
-  please do not send any Children's Personal Information about yourself to us, other than what we request from your parent 
-  or guardian who registers for the Services. In the event that we learn that we have collected Children's Personal Information 
-  from a student without parental consent being obtained by his or her school, and/or teacher, or if we learn a minor has provided 
-  us Children's Personal Information beyond what we request during the registration process, we will delete that information 
-  as quickly as possible. If you believe that a student may have provided us Children's Personal Information beyond what is 
-  requested when signing up for the Website, or that a student's school, or teacher has not obtained parental consent, 
-  please contact us at&nbsp;<a class="link" href="">support@carveniche.com</a>. Hereinafter, references to "Personal Information" shall apply to personal 
-  information of individual Website users who are not student registrants. References to "Children's Personal Information" 
-  shall only apply to personal information of student users of the Website. General references to "information" shall apply to 
-  all users. Notwithstanding anything to the contrary, if you are a minor and your school, teacher, parent or guardian has 
-  signed up for the Website, you understand that your parent or teacher can view all information within or associated with 
-  the account, including without limitation progress reports and usage data that tracks your performance on assessments, 
-  assignments and other features available through the Services.
-</div> 
-  
-<div class="sec-privacy">
-  <p style="font-size:20px;margin-bottom:10px;font-weight: bold;">What Personal Information Does the Company Collect?</p>
-  The information we gather from customers enables us to personalize and improve our services. We collect the following types 
-  of information from our customers:  
-</div>
+          document.onkeypress = function (event) {
+            event = (event || window.event);
+            if (event.keyCode == 123) {
+            return false;
+            }
+            }
+            document.onmousedown = function (event) {
+            event = (event || window.event);
+            if (event.keyCode == 123) {
+            return false;
+            }
+          }
+          */
+          $(function(){
+          $('.right-spac .num1').each(function(){
+          var carrycls=$(this).find('.carry');
+          var carryclslength=$(this).find('.carry').text().length;         
+          if($(this).text()=='1')
+          {
+           $(this).css({'letter-spacing':'23px'});
+          }
+          if(carryclslength>0)
+          {           
+           $(this).css({'letter-spacing':'23px'});
+          }          
+          });        
+          });          
+        </script>
+        
+        <!-- Web Engagement -->
+        <script type="text/javascript" async="" src="https://ssl.widgets.webengage.com/js/widget/webengage-min-v-5.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
+         var webengage; !function(e,t,n){function o(e,t){e[t[t.length-1]]=function(){r.__queue.push([t.join("."),arguments])}}var i,s,r=e[n],g=" ",l="init options track screen onReady".split(g),a="feedback survey notification".split(g),c="options render clear abort".split(g),p="Open Close Submit Complete View Click".split(g),u="identify login logout setAttribute".split(g);if(!r||!r.__v){for(e[n]=r={__queue:[],__v:"5.0",user:{}},i=0;i<l.length;i++)o(r,[l[i]]);for(i=0;i<a.length;i++){for(r[a[i]]={},s=0;s<c.length;s++)o(r[a[i]],[a[i],c[s]]);for(s=0;s<p.length;s++)o(r[a[i]],[a[i],"on"+p[s]])}for(i=0;i<u.length;i++)o(r.user,["user",u[i]]);setTimeout(function(){var f=t.createElement("script"),d=t.getElementById("_webengage_script_tag");f.type="text/javascript",f.async=!0,f.src=("https:"==t.location.protocol?"https://ssl.widgets.webengage.com":"http://cdn.widgets.webengage.com")+"/js/widget/webengage-min-v-5.0.js",d.parentNode.insertBefore(f,d)})}}(window,document,"webengage");
+         webengage.init("~99198426");
+        </script>
+        <!-- Web Engagement ends -->
+        
+    </head>
+    <body>
+        <div class="fixed-bg"></div>
+        <div id="lazy_overlay"><div id="lazybox"><button name="button" type="submit" id="lazy_close" class="visible"></button><div id="lazy_body"></div></div></div>
+        <a href="https://play.google.com/store/apps/details?id=com.carveniche_cnt.begalileo" target="_blank" class="google-plus"><img src="/assets/new_home/google-plus-7bef8b3339fe40efb0990fa6faf29412c6257d43c73d807e6b583c660e9df0d8.png" alt="Google plus 7bef8b3339fe40efb0990fa6faf29412c6257d43c73d807e6b583c660e9df0d8"></a>
+        
+        <div class="menu-header-parent">
+        <div class="menu-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-2 col-sm-3 col-xs-4 main-logo">
+                        <a href="/"><img alt="beGalileo" class="logo" src="/assets/new_home/logo-bd5ba01c16785db2b76ef773372cbd4932088ae713b49e009e49944679abaaaf.png"></a>
+                        <div class="menu-responsive-hambagger-icon"><span></span><span></span><span></span></div><!--menu-responsive-hambagger-icon-ends-->
+                    </div><!--logo-ends-->
+                    <div class="menu-set">
+                        <div class="col-md-7 col-sm-9 pads">
+                            <ul class="main-menu1">
+                                  <li><a class="main-features" href="/#main-features">FEATURES</a></li>
+                                <li><a href="/how-it-works">HOW IT WORKS?</a></li>
+                                <li><a href="/math-liveclass">LIVE CLASS</a></li>
+                                <li><a class="al" href="/faq">FAQS</a></li>
+                                <li><a href="/about-us">ABOUT US</a></li>
+                                  <li><a class="main-pricing" href="/#main-pricing">PRICING</a></li>
+                                <li><a href="/curriculum/Grade1-Math">CURRICULUM</a></li>
+                                <li><a href="/partner">PARTNERS</a></li>
+                                <li><a href="http://blog.begalileo.com/" target="_blank">BLOG</a></li>
+                                <li><a href="/cbse-icse-math-classes-grade-9-10">LIVE CLASS IX, X</a> <span class="new-feature-img"><img src="/assets/live_class_icons/new-feature-3add7fd1460e5646e992fdb0cac3f4d9a315af5139b7eec85155451eafbe97e5.png" alt="New feature 3add7fd1460e5646e992fdb0cac3f4d9a315af5139b7eec85155451eafbe97e5"></span></li>
+                                
+                                
+                            </ul>
+                        </div><!--ends-md-5-->
+                        <div class="col-md-5 smal-pads">
+                            <a class="heads-green-button btn-properties" href="/user/login">LOGIN</a>
+                            <a class="heads-red-button btn-properties" href="/user/select_role">GET A FREE ACCOUNT</a>  
+                        </div>
+                    </div><!--menu-set-ends-->
+                </div><!--row-ends-->
+            </div><!--ontainer-ends-->
+        </div><!--menu-header-ends-->
+        </div><!--menu-header-parent-ends-->
+        
+        <div class="clear"></div>
+        
 
-<div class="sec-privacy">
-  <p style="font-size:20px;margin-bottom:10px;font-weight: bold;">Information You Provide to Us:</p>
-  We receive and store any information you enter on our Website or provide to us in any other way. 
-  The types of Personal Information collected include your full name, email address, mobile number (optional), 
-  credit card and/or other payment information, Children's Personal Information (which is limited to the child's name), 
-  IP address, browser and location information, username, password and any other information necessary for us to 
-  provide our services. You can choose not to provide us with certain information, but then you may not be able to take 
-  advantage of many of our special features. The Personal Information you provide is used for such purposes as answering questions,
-  sending product updates, and communicating with you about Company's products and services, including specials and new features. 
-  The Children's Personal Information you provide shall only be used for creating your individual account 
-  (which will allow you to receive progress reports that include tracking your child's performance and progress). 
-  You may modify or remove your Personal Information or Children's Personal Information identified below at any time 
-  by logging into your account and accessing features to edit your profile and/or account information.
-</div>
+<div class="wrapper1-1">
+<div class="container">
+<div class="row">
+<h1>beGalileo</h1>
+<p>Privacy Policy</p>
+</div><!--row-ends-->
+</div><!--container-ends-->
+</div><!--wrapper1-1-ends-->
+<div class="wrapper1-2">
+<div class="container">
+<div class="row">
+<div class="para">
+<p>The beGalileo team ("Company") knows that you care about how information about you is used and shared, and we take your privacy seriously. We appreciate your trust that we will do so carefully and sensibly. Please read the following to learn more about our privacy policy. By visiting the beGalileo website &amp; domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.</p>
+<h3>What Does This Privacy Policy Cover? </h3>
+<p>This Privacy Policy covers Company's treatment of personally identifiable information ("Personal Information") that Company gathers when you access the Website and when you use Company's services. This policy does not apply to the practices of companies that Company does not own or control, or to individuals that Company does not employ or manage.</p>
 
-<div class="sec-privacy">
-  <p style="font-size:20px;margin-bottom:10px;font-weight: bold;">Personal Information Collected Automatically:</p>
-  We receive and store certain types of information whenever you interact with our Website or use our services. 
-  Company automatically receives and records information on our server logs from your browser including your IP address, 
-  cookie information, and the page you requested. Generally, our service automatically collects usage information, such as the 
-  numbers and frequency of visitors to our Website and its components. Company only uses this data in aggregate form, that is, 
-  as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to 
-  figure out how often customers use parts of the Website or services so that we can make the Website appealing to as many 
-  customers as possible, and improve those services. As part of this use of information, we may provide aggregate information 
-  to our partners about how our customers, collectively, use our Website or services. We share this type of statistical data so 
-  that our partners also understand how often people use the Website or services, so that they, too, may provide you with an 
-  optimal online experience. Again, Company never discloses aggregate information to a partner in a manner that would identify 
-  you personally.  
-</div> 
-  
-<div class="sec-privacy">
-  <p style="font-size:20px;margin-bottom:10px;font-weight: bold;">E-mail Communications:</p>
-  We often receive a confirmation when you open an email from Company if your computer supports this type of program. 
-  Company uses this confirmation to help us make emails more interesting and helpful. We also compare our customer list 
-  to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. When you 
-  receive e-mail from Company, you can opt out of receiving further e-mails by following the included instructions to unsubscribe.  
-</div> 
+<h3>How is my child's personal information treated?</h3>
+<p>If you are a minor (under the age of 18), you may only use this service and disclose Personal Information with your parent, school, teacher or guardian's express consent. Company only collects limited Personal Information from students ("Children's Personal Information") directly from the school, teacher, parent or guardian who has registered and paid for the Services. If you are below the age of eighteen (18), please do not send any Children's Personal Information about yourself to us, other than what we request from your parent or guardian who registers for the Services. In the event that we learn that we have collected Children's Personal Information from a student without parental consent being obtained by his or her school, and/or teacher, or if we learn a minor has provided us Children's Personal Information beyond what we request during the registration process, we will delete that information as quickly as possible. If you believe that a student may have provided us Children's Personal Information beyond what is requested when signing up for the Website, or that a student's school, or teacher has not obtained parental consent, please contact us at support@carveniche.com. Hereinafter, references to "Personal Information" shall apply to personal information of individual Website users who are not student registrants. References to "Children's Personal Information" shall only apply to personal information of student users of the Website. General references to "information" shall apply to all users. Notwithstanding anything to the contrary, if you are a minor and your school, teacher, parent or guardian has signed up for the Website, you understand that your parent or teacher can view all information within or associated with the account, including without limitation progress reports and usage data that tracks your performance on assessments, assignments and other features available through the Services.</p>
 
-<div class="sec-privacy">
-  <p style="font-size:20px;margin-bottom:10px;font-weight: bold;">What About Cookies?</p>
-  Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our 
-  systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use 
-  cookies to enhance visitors' experiences, to learn more about their use of the Website and to improve quality.&nbsp;<p>Company 
-  cookies do not collect Personal Information or Children's Personal Information, and we do not combine the general information 
-  collected through cookies with other Personal Information or Children's Personal Information to tell us who you are or what 
-  your screen name or email address is.</p>&nbsp;Most browsers have an option for turning off the cookie feature, which will prevent 
-  your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you 
-  to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, 
-  however, because cookies enable you to take advantage of some of our Website's most attractive features. If third party links 
-  appear through advertisements on the Website, those third party sites may use cookies. This Privacy Policy covers the use of 
-  cookies by Company and does not cover the use of cookies by any advertisers or third parties.
-</div>
- 
-<div class="sec-privacy">
-  <p style="font-size:20px;margin-bottom:10px;font-weight: bold;">Will Company Share Any of the Personal Information it Receives?</p>
-  Your Personal Information and Children's Personal Information is an integral part of our business. We neither rent nor sell 
-  your Personal Information or Children's Personal Information to anyone. We share your Personal Information and Children's only 
-  as described below. As explained below, we only share Children's Personal Information associated with your account directly 
-  with you to report on your child's performance using our Services. We never share that Children's Personal Information with 
-  any third party. A child's usage data (i.e. performance on tests, etc. available on the Services) is shared through aggregated, 
-  anonymous comparisons, but never in a way that could personally identify the child. Again, please note that references 
-  to "Personal Information" only apply to personal information of individuals who are not students.&nbsp;
-</div> 
+<h3>What Personal Information Does the Company Collect? </h3>
+<p>The information we gather from customers enables us to personalize and improve our services. We collect the following types of information from our customers:</p>
 
-<div class="sec-privacy">
-  As part of the Website and services, you will receive from Company email and other communication relating to your child's 
-  progress and use of the Services or User Submissions. You acknowledge and agree that by allowing your child to use the Website 
-  and Services, and by posting such User Submissions, Company may send you email and other communication that it determines in 
-  its sole discretion relate to such activity and your User Submissions.  
-</div>  
-  
-<div class="sec-privacy">
-  We may release Personal Information when we believe in good faith that release is necessary to comply with the law; 
-  enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Company, 
-  our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud 
-  protection and credit risk reduction.&nbsp;
-</div>  
- 
-<div class="sec-privacy">
-  <p style="font-size:20px;margin-bottom:10px;font-weight: bold;">Is my Personal Information Secure?</p>
-  Your Company account Personal Information or Children's Personal Information is protected by a password for your 
-  privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information or 
-  Children's Personal Information by selecting and protecting your password appropriately and limiting access to your computer 
-  and browser by signing off after you have finished accessing your account. Company endeavors to protect user information to 
-  ensure that user account information is kept private, however, Company cannot guarantee the security of user account information. 
-  Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at 
-  any time.   
-</div> 
-  
-<div class="sec-privacy">
-  <p style="font-size:20px;margin-bottom:10px;font-weight: bold;">What Personal Information Can I Access?</p>
-  Company allows you to access the following information about you for the purpose of viewing, and in certain situations, 
-  updating that information. This list will change as the Website changes.
-    <li>Name and grade of the child</li>
-    <li>User's email address</li>
-    <li>Username and password</li>
-    <li>User preferences</li>
-    <li>Profile</li>
-</div> 
-  
-<div class="sec-privacy">
-  <p style="font-size:20px;margin-bottom:10px;font-weight: bold;">Changes to this Privacy Policy</p>
-  Company may revise this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy 
-  Policy in effect at the time such information is used. If we make changes in the way we use Personal Information or Children's 
-  Personal Information, we will notify you by posting an announcement on our Website. You are requested to review the privacy 
-  policy from time to time on the website. The most current version of the policy will govern our use of your information and 
-  will always be at privacy. By continuing to access or use the Services after those changes become effective, you agree to be 
-  bound by the revised Privacy Policy.  
-</div>  
-  
-<div class="sec-privacy">
-  <p style="font-size:20px;margin-bottom:10px;font-weight: bold;">Questions?</p>
-  If you have any questions or concerns regarding privacy on our Website, please send us a detailed message 
-  at&nbsp;<a class="link" href="">support@carveniche.com.</a> We will make every effort to resolve your concerns.&nbsp;<br>Effective Date: April 2, 2014&nbsp; 
-  <p style="margin-top:15px;font-style: italic;">
-    Copyright © 2014-15 CarveNiche Technologies Private Limited. All rights reserved.
-  </p>  
-</div>  
-  
-  
-  
-</div>  
-<style>
-.wrapper5{position:relative;width: 1250px;height: 348px;background: url(/assets/footer2.jpg) no-repeat center top;background-size: cover;margin-top: 45px;max-width:1300px;margin: 150px auto 0 auto;}
-.footer-menu1,.soci-icons,.footer-menu3{list-style-type:none;}
-.footer-menu1 li a,.footer-menu3 li a:hover{color:black;  padding: 0 0 0 11px;}
-.footer-menu3 li a{color:gray;}
-.footer-menu1{margin: 10% 0 0 0;}
-.left-contt,.right-contt,.soci-icons li,.footer-menu3 li{float:left;}
-.soci-icons li img{width:30px;}
-.soci-icons li{padding:5px 2px;}
-.soci-icons li:hover{-webkit-transform:rotate(6deg);transform:rotate(6deg);-moz-transform:rotate(6deg);}
-.stay-connected{width: 150px;margin: 2% 0% 5% 21%;cursor:pointer;}
-.stay-connected:hover{-webkit-transform:rotate(4deg);transform:rotate(4deg);-moz-transform:rotate(4deg);}
-.wrapper5-content{width:350px;height:auto;overflow:hidden;position:absolute;  left: 38%;top: 38%;}
-.clear{clear:both;}
-.footer-menu3{margin-top:27%;}
-.footer-menu3 li{padding:0px 3px;border-left:1px solid gray;}
-.footer-menu3 li:first-child{border:none;}
-.footer-menu1 li{margin:5px 0px !important;}
-.soci-icons li, .footer-menu3 li{margin:0px !important;}
-@media screen and (max-width:1300px)
-{
-.wrapper5-content{left: 36%;top: 39%;}
-}
+<h3>Information You Provide to Us: </h3>
+<p>We receive and store any information you enter on our Website or provide to us in any other way. The types of Personal Information collected include your full name, email address, mobile number (optional), credit card and/or other payment information, Children's Personal Information (which is limited to the child's name), IP address, browser and location information, username, password and any other information necessary for us to provide our services. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as answering questions, sending product updates, and communicating with you about Company's products and services, including specials and new features. The Children's Personal Information you provide shall only be used for creating your individual account (which will allow you to receive progress reports that include tracking your child's performance and progress). You may modify or remove your Personal Information or Children's Personal Information identified below at any time by logging into your account and accessing features to edit your profile and/or account information.</p>
 
-.footer-text{  position: absolute; bottom: 0%;text-align: center;line-height: 21px;left: 27%;} 
-a:hover,a{text-decoration:none;}
-.footer-menu1 li:hover{background: url(/assets/pencil.png) no-repeat -0.5% top; }
-.footer-menu1 li{width:122px;}
-.footer-menu1 li a:hover,.footer-menu1 li:hover .a1{color:#ffffff;}
-.footer-text a{color:gray;}
+<h3>Personal Information Collected Automatically:</h3>
+<p>We receive and store certain types of information whenever you interact with our Website or use our services. Company automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested. Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our Website and its components. Company only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Website or services so that we can make the Website appealing to as many customers as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our Website or services. We share this type of statistical data so that our partners also understand how often people use the Website or services, so that they, too, may provide you with an optimal online experience. Again, Company never discloses aggregate information to a partner in a manner that would identify you personally.</p>
 
+<h3>E-mail Communications:</h3>
+<p>We often receive a confirmation when you open an email from Company if your computer supports this type of program. Company uses this confirmation to help us make emails more interesting and helpful. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. When you receive e-mail from Company, you can opt out of receiving further e-mails by following the included instructions to unsubscribe.</p>
 
-.bg-gray{position: fixed;width: 100%;height: 100%;background-color: black;opacity:0.8;top: 0px;left: 0px;z-index: 150;display:none;} 
-.notify-info1{border: 2px solid #2e8ece;background-color: #C0DDF0;padding: 10px 0px 10px 30px;line-height: 20px;width: 640px;border-radius: 10px;position: absolute;right: 0px;height: auto;bottom: 180px;}
-.notify-info-popup{display:none;border: 2px solid #2e8ece;background-color: #C0DDF0;padding: 10px 0px 10px 30px;line-height: 20px;
-width: 640px;border-radius: 10px;position: fixed;left: 400px;height: auto;top: 225px;z-index: 151;}
-.notify-img{position: absolute;left: -52px;top: -26px;}
-.buton1{padding: 5px 18px;margin: 0px 250px;cursor: pointer;}
-</style>  
-        <div class="wrapper5">
+<h3>What About Cookies?</h3>
+<p>Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors' experiences, to learn more about their use of the Website and to improve quality. 
+Company cookies do not collect Personal Information or Children's Personal Information, and we do not combine the general information collected through cookies with other Personal Information or Children's Personal Information to tell us who you are or what your screen name or email address is.</p>
+<p> Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website's most attractive features. If third party links appear through advertisements on the Website, those third party sites may use cookies. This Privacy Policy covers the use of cookies by Company and does not cover the use of cookies by any advertisers or third parties.</p>
+
+<h3>Will Company Share Any of the Personal Information it Receives?</h3>
+<p>Your Personal Information and Children's Personal Information is an integral part of our business. We neither rent nor sell your Personal Information or Children's Personal Information to anyone. We share your Personal Information and Children's only as described below. As explained below, we only share Children's Personal Information associated with your account directly with you to report on your child's performance using our Services. We never share that Children's Personal Information with any third party. A child's usage data (i.e. performance on tests, etc. available on the Services) is shared through aggregated, anonymous comparisons, but never in a way that could personally identify the child. Again, please note that references to "Personal Information" only apply to personal information of individuals who are not students.</p>
+<p>As part of the Website and services, you will receive from Company email and other communication relating to your child's progress and use of the Services or User Submissions. You acknowledge and agree that by allowing your child to use the Website and Services, and by posting such User Submissions, Company may send you email and other communication that it determines in its sole discretion relate to such activity and your User Submissions.</p>
+<p>We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p>
+
+<h3>Is my Personal Information Secure?</h3>
+<p>Your Company account Personal Information or Children's Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information or Children's Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. Company endeavors to protect user information to ensure that user account information is kept private, however, Company cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.</p>
+
+<h3>What Personal Information Can I Access?</h3>
+<p>Company allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Website changes.</p>
+
+<h3>E-mail Communications:</h3>
+<p>We often receive a confirmation when you open an email from Company if your computer supports this type of program. Company uses this confirmation to help us make emails more interesting and helpful. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. When you receive e-mail from Company, you can opt out of receiving further e-mails by following the included instructions to unsubscribe.</p>
+
+<h3>E-mail Communications:</h3>
+<p>We often receive a confirmation when you open an email from Company if your computer supports this type of program. Company uses this confirmation to help us make emails more interesting and helpful. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. When you receive e-mail from Company, you can opt out of receiving further e-mails by following the included instructions to unsubscribe.</p>
+<div class="feedback-ul1">
+<span class="span1"><span></span>Name and grade of the child</span>
+<span class="span1"><span></span>User's email address</span>
+<span class="span1"><span></span>Username and password</span>
+<span class="span1"><span></span>User preferences</span>
+<span class="span1"><span></span>Profile</span>
+</div><!--feedback-ul-ends-->
 <div class="clear"></div>
-<div class="wrapper5-content">
-<div class="left-contt">
-<ul class="footer-menu1"> 
-<li><a href="http://carveniche.com/about.html" target="_blank" class="a1">ABOUT US</a></li>
-<li><a href="http://blog.begalileo.com/" class="a1">BLOGS</a></li>
-<li><a href="/contact" class="a1">CONTACT US</a></li>
-</ul>
-</div>
-<div class="right-contt">
-<img src="/assets/stay_connect4.jpg" class="stay-connected">
-<ul class="soci-icons">
-<li><a href="https://www.facebook.com/begalileo" target="_blank"><img src="/assets/fb1.jpg"></a></li>
-<li><a href="https://twitter.com/begalileo" target="_blank"><img src="/assets/twit5.jpg"></a></li>
-<li><a href="https://www.linkedin.com/company/carveniche-technology-pvt-ltd" target="_blank"><img src="/assets/lin3.jpg"></a></li>
-<li><a href="http://www.youtube.com/channel/UCL7bkk66jAwNrTfqXqmzYaA" target="_blank"><img src="/assets/ytube.jpg"></a></li>
-<li><a href="https://plus.google.com/113485030703335284444/posts" target="_blank"><img src="/assets/gplus1.png"></a></li>
-</ul>
-</div>
-<ul class="footer-menu3">
-<li><a href="/">Home</a></li>
-<li><a href="/home/how_it_works">How it works?</a></li>
-<li><a href="/subscriptions">Buy Now</a></li>
-<li><a href="/user/login">Step in</a></li>
-</ul>
-  
-</div><!--wrapper5-resize-->
-<h6 class="footer-text"><a href="http://www.begalileo.com/user/rights">ALL RIGHTS RESERVED</a>  |  By using this site you agree to our <a href="/user/terms_of_use">TERMS OF USE</a>   and   <a href="/user/privacy_policy">PRIVACY POLICY.</a><br>Copyright 2015, beGalileo</h6>
-        </div><!--wrapper5-ends-->              
+<h3>Changes to this Privacy Policy</h3>
+<p>Company may revise this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information or Children's Personal Information, we will notify you by posting an announcement on our Website. You are requested to review the privacy policy from time to time on the website. The most current version of the policy will govern our use of your information and will always be at privacy. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.</p>
 
-                      
-                    </section>
+<h3>Questions?</h3>
+<p>If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at support@carveniche.com. We will make every effort to resolve your concerns.<br> 
+Effective Date: April 2, 2014</p>
 
-<div class="bg-gray"></div>
-<div class="notify-info-popup">
-      <span class="span1" style="position:relative;width:95%;">
-        <img alt="Info" class="notify-img" src="/assets/Info-8d8f788110fa78a4ce862406ae14b03e.png">
-      Enjoying learning with beGalileo? Refer us to your friends too.<br><br>
+<p class="copy-right-terms">Copyright © 2014-15 CarveNiche Technologies Private Limited. All rights reserved.</p>
 
-Refer a friend and once he signs up for the beGalileo platform, you get one new concept for practice completely FREE. That's not all, even your friend gets 3 instead of 2 concepts for practice after signing up.<br><br>
 
-So, refer more friends and keep getting FREE access to more concepts.<br><br>
+</div><!--para-ends-->
+</div><!--row-ends-->
+</div><!--container-ends-->
+</div><!--wrapper1-2-ends-->
 
-Happy learning!</span>    
-  <br><button class="buton1">ok</button>  
-</div>
-                   
-                  
-                  <div id="MathJax_Font_Test" style="position: absolute; visibility: hidden; top: 0px; left: 0px; width: auto; padding: 0px; border: 0px; margin: 0px; white-space: nowrap; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; font-size: 40px; font-weight: normal; font-style: normal; font-family: MathJax_Size1, monospace;">() [] {} </div></body></html>
+
+
+
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-5 col-sm-5 col-xs-12">
+                        <ul class="footer-menu">
+                            <li><a href="#">FEATURES</a></li>
+                            <li><a href="/curriculum/Grade%201">CURRICULUM</a></li>
+                            <li><a href="http://blog.begalileo.com/" class="a1">BLOG</a></li>
+                            <li><a href="/#main-pricing">PRICING</a></li>
+                            <li><a href="/faq">FAQS</a></li>
+                            <li><a href="/about-us">ABOUT US</a></li>
+                            <li><a href="/how-it-works">HOW IT WORKS?</a></li>
+                            <li><a href="/partner">PARTNERS</a></li>
+                            <li><a href="/contact-us">CONTACT US</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 col-sm-6 center-content center mbdiv">
+                        <h6>DOWNLOAD OUR APP</h6>
+                        <div class="border-div">
+                            <a href="https://play.google.com/store/apps/details?id=com.carveniche_cnt.begalileo" target="_blank" class="google-cls"><img src="/assets/new_home/google-plus-7bef8b3339fe40efb0990fa6faf29412c6257d43c73d807e6b583c660e9df0d8.png" alt="Google plus 7bef8b3339fe40efb0990fa6faf29412c6257d43c73d807e6b583c660e9df0d8"></a>  
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="right-content">
+                            <h6>SIGN UP FOR OUR NEWSLETTER</h6>
+                            <form class="footer-form1">
+                                <a href="javascript:void(0)" id="footer-newsletter"><img class="footer-small-arrow" src="/assets/new_home/right-arrow-b7e79dc3fcb6a8ab458fc59bf4650b040fe9286cec1520c8ae6f4ad0f64ed048.png" alt="Right arrow b7e79dc3fcb6a8ab458fc59bf4650b040fe9286cec1520c8ae6f4ad0f64ed048"></a>
+                                <input type="text" name="newsletter_email" id="newsletter_email" placeholder="ENTER YOUR EMAIL ID">
+                                
+                            </form>
+                            <p>STAY CONNECTED</p>
+                            <ul class="social-icons">
+                                <li><a href="https://www.facebook.com/begalileo" target="_blank"><i class="fa fa-facebook facebook1"></i></a></li>
+                                <li><a href="https://twitter.com/begalileo" target="_blank"><i class="fa fa-twitter twitter1"></i></a></li>
+                                <li><a href="http://www.youtube.com/channel/UCL7bkk66jAwNrTfqXqmzYaA" target="_blank"><i class="fa fa-youtube youtube1"></i></a></li>
+                                <li><a href="https://plus.google.com/113485030703335284444/posts" target="_blank"><i class="fa fa-google-plus google-plus1"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/carveniche-technology-pvt-ltd" target="_blank"><i class="fa fa-linkedin fa-linkedin1"></i></a></li>
+                            </ul>
+                        </div><!--right-content-ends-->
+                    </div><!--col-md-4-ends-->
+                </div><!--row-ends-->
+            </div><!--container-ends-->
+        </div><!--footer-ends-->
+        <div class="footer-content">
+            <div class="container">
+                <div class="row">
+                    <p>Copyright ©  2016 beGalileo. <a class="footer-href1" href="/home/rights">All rights reserved</a>. By using this site you agree to our <a class="footer-href2" href="/home/terms_of_use">TERMS OF USE</a><span class="footer-href2"> &amp; </span><a class="footer-href2" href="/home/privacy_policy">PRIVACY POLICY</a></p>
+                </div><!--row-ends-->
+            </div><!--end-container-->
+        </div><!--footer-content-ends-->
+    
+
+</body></html>
