@@ -1,19 +1,13 @@
-> *The following text is extracted and transformed from the americasaves.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905155541id_/http%3A//www.americasaves.org/learn-more-about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasaves.org privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611025120id_/http%3A//www.americasaves.org/learn-more-about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - America Saves
 
-### What information is collected?
+Privacy Policy:  The [main CFA privacy policy](http://consumerfed.org/privacy-policy/) applies to America Saves websites with these additions.
 
-It is our policy to collect and store only personal information that visitors knowingly provide for America Saves when contacting us. The information collected generally is limited to name, address, email address and personal savings information. The server of our Internet Service Provider collects information on visitors to our site. In order to better understand our audience, our web host provides us with aggregate information on the number of hits the site receives, the domains from which the site is accessed, the top 20 organizations/ISPs that are used to connect to this site and the top 20 referrers (the last page you were on before you connected to this site). To gauge what our visitors are interested in, we also look at the top 20 search words used in connecting to this site.
+America Saves collects personal information from visitors who sign up voluntarily to participate in the savings program.  Visitors who participate provide their name, savings goal, email address, and zip code.  Participants may also sign up for America Saves through local organizations.
 
-We have the capability to calculate which America Saves files have been accessed, the types of files, the size of the files requested, the status of those files (i.e. 404 not found, etc.) and a breakdown of the operating systems used to access the site, but we do not track such information and have no plans to do so.
+CFA maintains the America Saves database.  Information about participants may be shared with and among local America Saves organizations to coordinate area campaigns and for similar activities.  America Saves does not otherwise share personal information about participants with program sponsors or other third parties.  Local organizations may have their own privacy policies.
 
-### How does America Saves use data collected?
+America Saves sends occasional emails to those who agree to receive them unless recipients opt-out.  Those who provide a cell phone number receive text messages if they opt-in.  We do not post any personal information about America Saves participants on the America Saves webpage without their affirmative permission.
 
-We do not sell, rent, share, or otherwise disclose personally identifiable information.
-
-Server statistics collected in aggregate (and previously mentioned) are used to improve the content and navigability of the site.
-
-### How can I contact America Saves?
-
-If you have questions or concerns about this privacy policy, please contact us at [information@americasaves.org](mailto:information@americasaves.org).
+We do not offer any of the America Saves programs to anyone under the age of 14.
