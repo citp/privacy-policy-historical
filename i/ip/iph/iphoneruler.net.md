@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphoneruler.net privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206175528id_/http%3A//www.iphoneruler.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphoneruler.net privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611201128id_/http%3A//www.iphoneruler.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iPhoneRuler
 
