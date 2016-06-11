@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safra.sg privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211105759id_/http%3A//www.safra.sg/General/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safra.sg privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611123220id_/http%3A//www.safra.sg/General/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -264,9 +264,9 @@ SAFRA may require up to 3 weeks from the date of the Individual’s request to r
 This Policy shall be governed by and construed in accordance with the laws of Singapore. Any dispute arising out of or in connection with this Policy including any question regarding its existence, validity or termination, shall be referred to and finally resolved by the Courts of Singapore.
 
 **SAFRA MEMBERS**  
-If you wish to update your communication preferences, please login to your SAFRA Online account [here](https://www.safra.sg/MySAFRA/Login?sol_frm=LGN__&returnUrl=http%3A%2F%2Fwww.safra.sg%2Fen%2Fabout-safra%2Fsafra-volunteers.aspx%23.u6wfnkjhxma#.U6wJ_KjHXMA). Please note that even if you choose not to receive promotions and offers from SAFRA, we will continue to send you important information about your SAFRA membership via the above means, including notifications on membership renewal opportunities and any changes in our membership terms and conditions.
+If you wish to update your communication preferences, please login to your SAFRA Online account [here](https://mysafra.safra.sg/web/login.aspx). Please note that even if you choose not to receive promotions and offers from SAFRA, we will continue to send you important information about your SAFRA membership via the above means, including notifications on membership renewal opportunities and any changes in our membership terms and conditions.
 
 **NON-MEMBERS**  
-You may wish to [sign-up](https://www.safra.sg/MySAFRA/Login?sol_frm=LGN__&returnUrl=http%3A%2F%2Fwww.safra.sg%2Fen%2Fabout-safra%2Fsafra-volunteers.aspx%23.u6wfnkjhxma#.U6wJ_KjHXMA) for a SAFRA Online account to update your preferred mode of contact and/or subscribe to our mailing list to be updated of up-coming events, promotions and offers from SAFRA.
+You may wish to [sign-up](https://mysafra.safra.sg/web/register.aspx) for a SAFRA Online account to update your preferred mode of contact and/or subscribe to our mailing list to be updated of up-coming events, promotions and offers from SAFRA.
 
 To download the Privacy Policy, click [here](https://web.archive.org/~/media/SAFRA%20-%20Privacy%20Policy%209%20June%202015.ashx).
