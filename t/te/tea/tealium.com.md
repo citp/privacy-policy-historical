@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tealium.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922022411id_/http%3A//tealium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tealium.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611052258id_/http%3A//tealium.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tealium
 
 ## Tealium Inc. Web Site Privacy Statement
 
-Privacy Statement Effective as of April 27, 2015
+Privacy Statement Effective as of May 02, 2016
 
 Tealium Inc. (“ **Tealium** ”) is committed to protecting the privacy of individuals who visit Tealium’s website ([http://tealium.com](http://www.tealium.com/)) (“ **Tealium Website** ”) and individuals who use the Services as defined below. This Tealium Website Privacy Statement describes Tealium’s privacy practices in relation to the use of the Tealium Website and the related services offered by Tealium, which services are accessible via the Tealium Website (the “ **Services** ”). The Tealium Website may contain links to other websites. The privacy statements of such other websites govern the content and use of information of those websites. Tealium encourages you to review the privacy statements of such other websites to understand their information practices. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it. Tealium will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this Tealium Website Privacy Statement.
 
@@ -129,7 +129,9 @@ It may be necessary for Tealium to disclose your Personal Information, either by
 
 To facilitate Tealium’s global operations, Tealium may transfer and access Customer Information from around the world, including the United States. This Privacy Statement shall apply even if Tealium transfers Customer Information to other countries.
 
-Wherever we transfer, store or process your Personal Information, we will take reasonable steps to safeguard the privacy of your Personal Information. When using or disclosing Personal Information transferred from the European Union, we abide by the Safe Harbor Principles as set forth by the U.S. Department of Commerce, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent. For European Site Visitors and Customers, your Personal Information may be transferred outside of the European Economic Area (“ **EEA** ”) in order to provide the information or Services you request from us. By visiting the Tealium Website or using the Services, you agree to Tealium transferring your Personal Information outside the EEA.
+Wherever we transfer, store or process your Personal Information, we will take reasonable steps to safeguard the privacy of your Personal Information. When using or disclosing Personal Information transferred from the European Union, we adopt appropriate measures under European Union law for ensuring adequate safeguards, or obtain your consent. For European Site Visitors and Customers, your Personal Information may be transferred outside of the European Economic Area (“ **EEA** ”) in order to provide the information or Services you request from us. By visiting the Tealium Website or using the Services, you agree to Tealium transferring your Personal Information outside the EEA.
+
+Tealium complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Tealium has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Tealium’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## 7\. Use of the Tealium Web Site by Children
 
@@ -138,9 +140,9 @@ Tealium does not sell products for purchase by children. If we learn that we hav
 
 ## 8\. Your Control and Choices
 
-You may correct, update and delete your Customer Information, change your choices for alerts and other messages, choose whether to receive offers and promotions from us or you may request access to the Personal Information we hold about you and ask us to amend or delete such Personal Information. You can send your request to [support@tealium.com](mailto:help@Tealium.com). Tealium offers Site Visitors and Customers who provide contact information a means to choose how Tealium uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking [here](http://offers.tealium.com/unsubscribe.html) or by clicking on the “unsubscribe” link located on the bottom of Tealium’s marketing emails. Additionally, you may send a request specifying your communications preferences to [support@tealium.com](mailto:help@Tealium.com). Customers cannot opt out of receiving transactional emails related to their account with Tealium or the Services.
+You may correct, update and delete your Customer Information, change your choices for alerts and other messages, choose whether to receive offers and promotions from us or you may request access to the Personal Information we hold about you and ask us to amend or delete such Personal Information. You can send your request to [support@tealium.com](mailto:support@tealium.com). Tealium offers Site Visitors and Customers who provide contact information a means to choose how Tealium uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking [here](http://offers.tealium.com/unsubscribe.html) or by clicking on the “unsubscribe” link located on the bottom of Tealium’s marketing emails. Additionally, you may send a request specifying your communications preferences to [support@tealium.com](mailto:support@tealium.com). Customers cannot opt out of receiving transactional emails related to their account with Tealium or the Services.
 
-To update Financial Information or have your registration information deleted, please email support@tealium.com. To discontinue your account, please email [support@tealium.com](mailto:help@Tealium.com). Requests to access, change, or delete your information will be handled within 30 days.
+To update Financial Information or have your registration information deleted, please email [support@tealium.com](mailto:support@tealium.com). To discontinue your account, please email [support@tealium.com](mailto:support@tealium.com). Requests to access, change, or delete your information will be handled within 30 days.
 
 ## 9\. Data Retention
 
