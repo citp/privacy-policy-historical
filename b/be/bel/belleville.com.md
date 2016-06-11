@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belleville.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054250id_/http%3A//www.bnd.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belleville.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611031150id_/http%3A//www.bnd.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Find Belleville News-Democrat newspaper and BND.com's Privacy Policy. Belleville News-Democrat
 
