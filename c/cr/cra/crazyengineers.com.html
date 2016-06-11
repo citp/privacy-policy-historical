@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the crazyengineers.com privacy policy that was archived on 2015-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209024310id_/http%3A//www.crazyengineers.com/pages/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crazyengineers.com privacy policy that was archived on 2016-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611192049id_/http%3A//www.crazyengineers.com/pages/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs LoggedOut Sidebar  Responsive hasTabLinks hasSearch navStyle_3 pageStyle_0 hasFlexbox" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs LoggedOut Sidebar  Responsive pageIsLtr   hasTabLinks  hasSearch   is-sidebarOpen hasRightSidebar is-setWidth navStyle_3 pageStyle_0 hasFlexbox" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
 
 	<meta charset="utf-8">
@@ -20,45 +20,32 @@
 	<title>Privacy Policy | CrazyEngineers</title>
 	
 	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
-	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=12&amp;dir=LTR&amp;d=1449054464">
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=12&amp;dir=LTR&amp;d=1464328786">
 	
-	<link rel="stylesheet" href="css.php?css=EWRporta2_Global,login_bar,moderator_bar,pagenode,share_page,uix_extendedFooter,wf_default&amp;style=12&amp;dir=LTR&amp;d=1449054464">
+	<link rel="stylesheet" href="css.php?css=EWRporta2_Global,login_bar,moderator_bar,notices,pagenode,panel_scroller,share_page,uix_extendedFooter,wf_default&amp;style=12&amp;dir=LTR&amp;d=1464328786">
 
 
 
 	
-	<link rel="stylesheet" href="css.php?css=uix,quark,antiquark&amp;style=12&amp;dir=LTR&amp;d=1449054464">
+	<link rel="stylesheet" href="css.php?css=uix,quark,antiquark&amp;style=12&amp;dir=LTR&amp;d=1464328786">
 	
 	<style>
-/* User specific styling */
-
+	/*** UIX -- PER USER STYLES ***/
 	
 	
 	
 	
-	
-	
-		
-			
-			
-			
-			
-			
-		
 	
 	
 		
 
 </style>
 	
-	<link rel="stylesheet" href="css.php?css=EXTRA&amp;style=12&amp;dir=LTR&amp;d=1449054464">
+	<link rel="stylesheet" href="css.php?css=EXTRA&amp;style=12&amp;dir=LTR&amp;d=1464328786">
 
 	
 	
-	<style>
-/* Node Styling */
-
-</style>
+	
 
 	
 
@@ -99,8 +86,8 @@
 
 
 	
-<script src="js/xenforo/xenforo.js?_v=206179d8"></script>
-	<script src="js/Nobita/FollowingAlerts/follow.js?_v=206179d8"></script>
+<script src="js/xenforo/xenforo.js?_v=b3e5c146"></script>
+	<script src="js/Nobita/FollowingAlerts/follow.js?_v=b3e5c146"></script>
 
 
 
@@ -110,6 +97,7 @@
 	
 		<script src="js/audentio/antiquark/ie8_polyfill.min.js"></script>
 	
+
 <![endif]-->
        
 
@@ -139,9 +127,9 @@
 		jsGlobal				: parseInt('0'),
 		
 	  
-	  	version					: '1.5.0.1',
-	  	jsHeadVersion				: '1.5.0.1',
-	  	addonVersion				: '1000670',
+	  	version					: '1.5.6.0',
+	  	jsHeadVersion				: '1.5.6.0',
+	  	addonVersion				: '1000970',
 	  	contentTemplate				: 'pagenode_container',
 	  
 		globalPadding 				: parseInt('20px'),
@@ -156,8 +144,28 @@
 		
 		sidebarMaxResponsiveWidthStr		: '800px',
 		
-			offCanvasTriggerWidth		: parseInt('800px'),
 		
+			offCanvasRightTriggerWidth	: parseInt('800px'),
+		
+		
+		
+			offCanvasLeftTriggerWidth	: parseInt('800px'),
+		
+		
+		
+			offCanvasNavTriggerWidth	: 99999,
+		
+		
+			offCanvasVisitorTriggerWidth	: 99999,
+		
+		
+		offcanvasTriggerAnimationDuration	: parseInt('300ms'),
+		
+		
+		
+		
+		dropdownMenuAnimationSpeed		: parseInt('0ms'),
+		inlineAlertBalloons			: (parseInt('0') && !parseInt('0')) || parseInt('0'),
 	  
 		jumpToFixedDelayHide			: parseInt('0'),
 	  
@@ -178,6 +186,7 @@
 		stickyGlobalMinimumPosition		: parseInt('200px'),
 		stickyGlobalScrollUp			: parseInt('0'),
 		stickyDisableIOSThirdParty		: parseInt('1'),
+		preventAlwaysSticky			: parseInt('0'),
 		
 		searchMinimalSize			: 99999,
 		
@@ -211,6 +220,11 @@
 			offCanvasSidebar			: 0,
 			offCanvasSidebarVisitorTabs		: 0,
 		
+		
+		offcanvasLeftStatic			: 1 && parseInt('0') && parseInt('1'),
+		offcanvasRightStatic			: 1 && parseInt('0') && parseInt('1'),
+		offcanvasLeftStaticBreakpoint		: parseInt('1300px'),
+		offcanvasRightStaticBreakpoint		: parseInt('1300px'),
 	  
 		reinsertWelcomeBlock			: parseInt('0'),
 	  
@@ -222,11 +236,12 @@
 		
 		collapsibleSidebar			: parseInt('1'),
 		collapsedNodesDefault			: '',
-		widthToggleUpper			: '94%',
+		widthToggleUpper			: '100%',
 		widthToggleLower			: '1200px',
 		
 			toggleWidthEnabled		: parseInt('0'),
 		
+		toggleWidthBreakpoint			: parseInt('1240'),
 		collapsibleNodes			: parseInt('1'),
 		collapsibleSticky			: parseInt('1'),
 		ajaxWidthToggleLink			: 'uix/toggle-width',
@@ -235,10 +250,12 @@
 		ajaxStickyThreadCollapseLink		: 'uix/collapse-sticky-threads',
 		ajaxSidebarToggleLink			: 'uix/toggle-sidebar',
 		
+		stickySidebarDelayInit			: parseInt('1'),
+		
 		user					: {
 								'themeName'		: 'CE-Style-V2',
 								'-themeParents'		: '12,10,0',
-								'-themeModified'	: '1449054464',
+								'-themeModified'	: '1464328786',
 								'-themeSelectable'	: '1',
 								languageName		: 'English (US)',
 								stickyEnableUserbar	: (parseInt('') == parseInt('')) ? parseInt('') : true,
@@ -255,6 +272,7 @@
 								
 									signatureHiding : 1,
 								
+								isAdmin			: parseInt('0"')
 							}
 	};
 	
@@ -264,7 +282,7 @@
 	if(uix.stickyNavigationPortraitMaxHeight == 0){uix.stickyNavigationPortraitMaxHeight = 999999}
 	
 	
-		uix.stickyItems['#navigation'] = {normalHeight:parseInt('52'), stickyHeight:parseInt('40')}
+		uix.stickyItems['#navigation'] = {normalHeight:parseInt('50'), stickyHeight:parseInt('40')}
 		
 		var subElement = null;
 		
@@ -293,7 +311,7 @@
 
 </script>
 
-<script src="js/audentio/antiquark/functions.min.js?_v=206179d8_1.5.0.1"></script>
+<script src="js/audentio/antiquark/functions.min.js?_v=b3e5c146_1.5.6.0"></script>
 
 <script>
 	uix.adminJsError = function(errMsg) {
@@ -305,8 +323,10 @@
 	uix.fixJsVisibility = function() {
 		var userBar = $('.hasJs #userBar');
 		var nodeList = $('.hasJs #forums, .hasJs .category_view .nodeList, .hasJs .watch_forums .nodeList');
+		var panels = $('.js-uix_panels')
 		if (userBar.length) userBar.css('display', 'block');
 		if (nodeList.length) nodeList.css('visibility', 'visible');
+		if (panels.length) $('.js-uix_panels').removeClass('needsInit');
 	}
 	
 	uix.catchJsError = function(err) {
@@ -348,6 +368,19 @@
 
 <script>
 	try {
+		uix.dateHelper.phrase = {
+			now: 'now',
+			second: 's',
+			minute: 'm',
+			hour: 'h',
+			day: 'd',
+			week: 'w',
+			year: 'y',
+			century: 'c',
+			ago: '{time} ago'
+		}
+		
+		
 		uix.sticky.stickyMinDist = parseInt('50');
 		
 		$(document).ready(function(){
@@ -361,6 +394,24 @@ audentio.grid.addSizeListener('global', 'audentio_grid_sm', 300, 0);
 audentio.grid.addSizeListener('global', 'audentio_grid_md', 400, 0);
 audentio.grid.addSizeListener('global', 'audentio_grid_lg', 600, 0);
 audentio.grid.addSizeListener('global', 'audentio_grid_xl', 10000, 0);
+
+audentio.grid.addSizeListener('global', 'below-xs', 200, 0);
+audentio.grid.addSizeListener('global', 'below-sm', 300, 0);
+audentio.grid.addSizeListener('global', 'below-md', 400, 0);
+audentio.grid.addSizeListener('global', 'below-lg', 600, 0);
+audentio.grid.addSizeListener('global', 'below-xl', 10000, 0);
+
+audentio.grid.addSizeListener('global', 'above-xs', 99999, 201);
+audentio.grid.addSizeListener('global', 'above-sm', 99999, 301);
+audentio.grid.addSizeListener('global', 'above-md', 99999, 401);
+audentio.grid.addSizeListener('global', 'above-lg', 99999, 601);
+audentio.grid.addSizeListener('global', 'above-xl', 99999, 10001);
+
+audentio.grid.addSizeListener('global', 'node--xs', 300, 0);
+audentio.grid.addSizeListener('global', 'node--sm', 400, 301);
+audentio.grid.addSizeListener('global', 'node--md', 600, 401);
+audentio.grid.addSizeListener('global', 'node--lg', 10000, 601);
+audentio.grid.addSizeListener('global', 'node--xl', 99999, 10001);
 				
 				
 				
@@ -380,6 +431,84 @@ audentio.grid.addSizeListener('global', 'audentio_grid_xl', 10000, 0);
 	<link rel="apple-touch-icon" href="http://www.crazyengineers.com/styles/default/xenforo/logo.og.png">
 	<link rel="alternate" type="application/rss+xml" title="RSS feed for CrazyEngineers" href="community/-/index.rss">
 	<meta name="description" content="This Privacy Policy governs the manner in which CrazyEngineers Technologies Pvt. Ltd. collects, uses, maintains and discloses information collected from users (each, a &quot;User&quot;) of the...">
+	
+		<meta property="og:site_name" content="CrazyEngineers">
+	
+	<meta property="og:image" content="http://www.crazyengineers.com/styles/default/xenforo/logo.og.png">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="http://www.crazyengineers.com/pages/privacypolicy/">
+	<meta property="og:title" content="Privacy Policy">
+	<meta property="og:description" content="This Privacy Policy governs the manner in which CrazyEngineers Technologies Pvt. Ltd. collects, uses, maintains and discloses information collected from users (each, a &quot;User&quot;) of the http://www.crazyengineers.com website (&quot;Site&quot;). This privacy policy applies to the Site and all products and services offered by CrazyEngineers Technologies Pvt. Ltd..
+
+Personal identification information
+
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+
+Non-personal identification information
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+Web browser cookies
+
+Our Site may use &quot;cookies&quot; to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+How we use collected information
+
+CrazyEngineers Technologies Pvt. Ltd. may collect and use Users personal information for the following purposes:
+
+
+	- To improve customer service
+	Information you provide helps us respond to your customer service requests and support needs more efficiently.
+	- To personalize user experience
+	We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+	- To improve our Site
+	We may use feedback you provide to improve our products and services.
+	- To process payments
+	We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+	- To run a promotion, contest, survey or other Site feature
+	To send Users information they agreed to receive about topics we think will be of interest to them.
+	- To send periodic emails
+	We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+
+
+How we protect your information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+Google Adsense
+
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses &quot;non personally identifiable information&quot; and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+
+Changes to this privacy policy
+
+CrazyEngineers Technologies Pvt. Ltd. has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+CrazyEngineers Technologies Pvt. Ltd.
+http://www.crazyengineers.com
+CrazyEngineers Technologies Pvt. Ltd. B-402, J.P. Chambers, S.A. Road, Nagpur - 440010
+Email: contact@crazyengineers.com
+
+This document was last updated on March 13, 2013">
+	
 	
 	
 
@@ -415,8 +544,9 @@ audentio.grid.addSizeListener('global', 'audentio_grid_xl', 10000, 0);
 
 	
 	
-	<div class="uix_wrapperFix" style="height: 1px; margin-bottom: -1px;"></div>
-		<div id="uix_wrapper">
+<div class="uix_wrapperFix" style="height: 1px; margin-bottom: -1px;"></div>
+
+<div id="uix_wrapper">
 
 <div id="headerMover">
 	<div id="headerProxy"></div>
@@ -430,10 +560,7 @@ audentio.grid.addSizeListener('global', 'audentio_grid_xl', 10000, 0);
 	
 	
 	
-		
-
-
-<div id="logoBlock">
+		<div id="logoBlock" class="header__blockItem ">
 
 	
 	<div class="pageWidth">
@@ -463,10 +590,7 @@ audentio.grid.addSizeListener('global', 'audentio_grid_xl', 10000, 0);
 	
 	
 
-
-
-
-<div id="navigation" class="withSearch stickyTop">
+<div id="navigation" class="header__blockItem withSearch stickyTop">
 	<div class="sticky_wrapper">
 		<div class="uix_navigationWrapper">
 		
@@ -484,10 +608,23 @@ audentio.grid.addSizeListener('global', 'audentio_grid_xl', 10000, 0);
 							
 
 
-											
+
+
+	
+	
+										
 	
 		
 	
+	
+	
+	
+	
+	
+		
+	
+
+
 	
 
 
@@ -624,9 +761,9 @@ audentio.grid.addSizeListener('global', 'audentio_grid_xl', 10000, 0);
 								
 								
 								<!-- responsive popup -->
-								<li class="navTab navigationHiddenTabs Popup PopupControl PopupClosed" style="display:none">	
+								<li class="navTab navigationHiddenTabs navTab--justIcon Popup PopupControl PopupClosed" style="display:none">	
 												
-									<a rel="Menu" class="navLink NoPopupGadget uix_dropdownDesktopMenu"><i class="uix_icon uix_icon-navTrigger"></i><span class="uix_hide menuIcon">Menu</span></a>
+									<a rel="Menu" class="navLink NoPopupGadget uix_dropdownDesktopMenu"><i class="uix_icon uix_icon-navOverflow"></i><span class="uix_hide menuIcon">Menu</span></a>
 									
 									<div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div>
 								</li>
@@ -688,7 +825,18 @@ audentio.grid.addSizeListener('global', 'audentio_grid_xl', 10000, 0);
 									
 
 
+
+
+
+	
 											
+	
+		
+	
+	
+	
+	
+	
 	
 		
 	
@@ -709,9 +857,6 @@ audentio.grid.addSizeListener('global', 'audentio_grid_xl', 10000, 0);
 		<li class="navTab uix_searchTab">
 		
 			
-
-
-
 
 <div id="searchBar" class="hasSearchButton">
 	
@@ -802,16 +947,19 @@ audentio.grid.addSizeListener('global', 'audentio_grid_xl', 10000, 0);
 							
 								
 
-<div id="uix_searchMinimal">
-	<form action="index.php?search/search" method="post">
-		<i id="uix_searchMinimalClose" class="uix_icon uix_icon-close" title="Close"></i>
-		<i id="uix_searchMinimalOptions" class="uix_icon uix_icon-cog" title="Options"></i>
-		<div id="uix_searchMinimalInput">
-			<input type="search" name="keywords" value="" placeholder="Search..." results="0">
-		</div>
-		<input type="hidden" name="_xfToken" value="">
-	</form>
-</div>
+
+	<div id="uix_searchMinimal">
+		<form action="search/search" method="post">
+			<i id="uix_searchMinimalClose" class="uix_icon uix_icon-close" title="Close"></i>
+			<i id="uix_searchMinimalOptions" class="uix_icon uix_icon-cog" title="Options"></i>
+			<div id="uix_searchMinimalInput">
+				<input type="search" name="keywords" value="" placeholder="Search..." results="0">
+			</div>
+			<input type="hidden" name="_xfToken" value="">
+		</form>
+	</div>
+
+
 
 
 							
@@ -894,7 +1042,7 @@ googletag.pubads().definePassback('/4250/CrazyEngineers', [728, 90]).display();
 		<span class="crumbs">
 			
 				<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
-					<a href="http://www.crazyengineers.com/" class="crumb" rel="up" itemprop="url"><span itemprop="title"><i class="uix_icon uix_icon-home"></i></span></a>
+					<a href="http://www.crazyengineers.com/" class="crumb" rel="up" itemprop="url"><span itemprop="title"><i class="uix_icon uix_icon-home" title="Home"></i></span></a>
 					<span class="arrow"><span></span></span>
 				</span>
 			
@@ -923,10 +1071,6 @@ googletag.pubads().definePassback('/4250/CrazyEngineers', [728, 90]).display();
 			
 			
 
-
-
-
-
 	
 	
 	
@@ -935,13 +1079,6 @@ googletag.pubads().definePassback('/4250/CrazyEngineers', [728, 90]).display();
 	
 	
 	
-	
-	
-
-
-
-
-
 
 
 	
@@ -960,7 +1097,32 @@ googletag.pubads().definePassback('/4250/CrazyEngineers', [728, 90]).display();
 						
 						
 
-						
+
+
+
+
+<div class="PanelScroller Notices" data-vertical="0" data-speed="400" data-interval="4000">
+	<div class="scrollContainer">
+		<div class="PanelContainer">
+			<ol class="Panels">
+				
+					<li class="panel Notice DismissParent notice_129 " data-notice="129">
+	
+	<div class="baseHtml noticeContent"><p><span style="font-family:verdana,geneva,sans-serif"><strong>Ashok Leyland, Siemens, Rolta, IBM, WIPRO are Hiring on Monster.com</strong></span><br>
+<span style="font-size:14px">More than 75,000 Job Openings with Top Employers, <a href="http://bit.ly/1s9dSdM" target="_blank"><span style="color:#0000FF">Log on to Monster India to Apply</span></a> &amp; Find Better</span></p></div>
+	
+	
+</li>
+				
+			</ol>
+		</div>
+	</div>
+	
+	
+</div>
+
+
+
 						
 						
 						
@@ -1198,7 +1360,7 @@ This document was last updated on March 13, 2013</span></p><p></p>
 					</div>
 				
 					<!-- sidebar -->
-					<aside class="uix_mainSidebar uix_mainSidebar_right">
+					<aside class="uix_mainSidebar">
 						<div class="inner_wrapper">
 							<div class="sidebar">
 								
@@ -1236,14 +1398,16 @@ This document was last updated on March 13, 2013</span></p><p></p>
 	
 	<div class="section widget-group-no-name widget-container">
 		
-			<div class="secondaryContent widget WidgetFramework_WidgetRenderer_Html" id="widget-82">
+			<div class="secondaryContent widget WidgetFramework_WidgetRenderer_Html" id="widget-84">
 				
 					<h3>
 						
-							Contest Alert:
+							Sponsors
 						
 					</h3>
-					<p><a href="http://www.crazyengineers.com/threads/hunt-for-indias-best-academic-project-contest-2016-registrations-open.85084/"><img alt="" src="http://data.crazyengineers.com/attachments/hunt-for-indias-best-academic-project-png.18827/" style="height:140px; width:300px"></a></p>
+					<script type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js">
+  googletag.pubads().definePassback('/1005025/AFP-300x250-Sidebar', [300, 250]).display();
+</script>
 				
 			</div>
 		
@@ -1293,85 +1457,85 @@ This document was last updated on March 13, 2013</span></p><p></p>
 					
 
 						
-							<li class="thread-85756 thread-node-47">
-	<a href="members/anoop-mathew.102288/" class="avatar Av102288s" data-avatarhtml="true"><img src="data/avatars/s/102/102288.jpg?1442001547" width="48" height="48" alt="Anoop Mathew"></a>
+							<li class="thread-89180 thread-node-35">
+	<a href="members/iuuouye.244056/" class="avatar Av244056s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="iuuouye"></a>
 
 	
 
-	<a title="From the common 15.6 to the handy 11 inch size, what differs in productivity for a Laptop?" class="Tooltip" href="threads/from-the-common-15-6-to-the-handy-11-inch-size-what-differs-in-productivity-for-a-laptop.85756/">
-		From the common 15.6 to the...
+	<a href="threads/i-sometimes-have-to-listen.89180/">
+		I sometimes have to listen
 	</a>
 
 	<div class="userTitle">
-									<a href="members/anoop-mathew.102288/" class="username">Anoop Mathew</a> posted <abbr class="DateTime" data-time="1449616255" data-diff="12603" data-datestring="Dec 9, 2015" data-timestring="4:40 AM">Dec 9, 2015 at 4:40 AM</abbr>
+									<a href="members/iuuouye.244056/" class="username">iuuouye</a> posted <abbr class="DateTime" data-time="1465672735" data-diff="114" data-datestring="Jun 12, 2016" data-timestring="12:48 AM">Jun 12, 2016 at 12:48 AM</abbr>
 								</div>
 	
 	
 </li>
 
 						
-							<li class="thread-85755 thread-node-80">
-	<a href="members/kickoffnews.227924/" class="avatar Av227924s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="kickoffnews"></a>
+							<li class="thread-89179 thread-node-67">
+	<a href="members/debasmita-banerjee.193577/" class="avatar Av193577s" data-avatarhtml="true"><img src="data/avatars/s/193/193577.jpg?1457462685" width="48" height="48" alt="Debasmita Banerjee"></a>
 
 	
 
-	<a title="earth's freshwater than previously thought" class="Tooltip" href="threads/earths-freshwater-than-previously-thought.85755/">
-		earth's freshwater than...
+	<a title="Quote And Reply Option Now Available In WhatsApp" class="Tooltip" href="threads/quote-and-reply-option-now-available-in-whatsapp.89179/">
+		Quote And Reply Option Now...
 	</a>
 
 	<div class="userTitle">
-									<a href="members/kickoffnews.227924/" class="username">kickoffnews</a> posted <abbr class="DateTime" data-time="1449606495" data-diff="22363" data-datestring="Dec 9, 2015" data-timestring="1:58 AM">Dec 9, 2015 at 1:58 AM</abbr>
+									<a href="members/debasmita-banerjee.193577/" class="username">Debasmita Banerjee</a> posted <abbr class="DateTime" data-time="1465671387" data-diff="1462" data-datestring="Jun 12, 2016" data-timestring="12:26 AM">Jun 12, 2016 at 12:26 AM</abbr>
 								</div>
 	
 	
 </li>
 
 						
-							<li class="thread-85754 thread-node-80">
-	<a href="members/kickoffnews.227924/" class="avatar Av227924s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="kickoffnews"></a>
+							<li class="thread-89178 thread-node-35">
+	<a href="members/iuuouye.244056/" class="avatar Av244056s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="iuuouye"></a>
 
 	
 
-	<a title="Asia are pouring into the caliphate, 300" class="Tooltip" href="threads/asia-are-pouring-into-the-caliphate-300.85754/">
-		Asia are pouring into the...
+	<a href="threads/they-realize-they-are-that-thing.89178/">
+		they realize they are that thing
 	</a>
 
 	<div class="userTitle">
-									<a href="members/kickoffnews.227924/" class="username">kickoffnews</a> posted <abbr class="DateTime" data-time="1449605267" data-diff="23591" data-datestring="Dec 9, 2015" data-timestring="1:37 AM">Dec 9, 2015 at 1:37 AM</abbr>
+									<a href="members/iuuouye.244056/" class="username">iuuouye</a> posted <abbr class="DateTime" data-time="1465671005" data-diff="1844" data-datestring="Jun 12, 2016" data-timestring="12:20 AM">Jun 12, 2016 at 12:20 AM</abbr>
 								</div>
 	
 	
 </li>
 
 						
-							<li class="thread-85753 thread-node-80">
-	<a href="members/kickoffnews.227924/" class="avatar Av227924s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="kickoffnews"></a>
+							<li class="thread-89177 thread-node-35">
+	<a href="members/iuuouye.244056/" class="avatar Av244056s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="iuuouye"></a>
 
 	
 
-	<a title="psychological damage with one in four inside" class="Tooltip" href="threads/psychological-damage-with-one-in-four-inside.85753/">
-		psychological damage with one...
+	<a title="insecure his ancestry can be traced back" class="Tooltip" href="threads/insecure-his-ancestry-can-be-traced-back.89177/">
+		insecure his ancestry can be...
 	</a>
 
 	<div class="userTitle">
-									<a href="members/kickoffnews.227924/" class="username">kickoffnews</a> posted <abbr class="DateTime" data-time="1449603251" data-diff="25607" data-datestring="Dec 9, 2015" data-timestring="1:04 AM">Dec 9, 2015 at 1:04 AM</abbr>
+									<a href="members/iuuouye.244056/" class="username">iuuouye</a> posted <abbr class="DateTime" data-time="1465670003" data-diff="2846" data-datestring="Jun 12, 2016" data-timestring="12:03 AM">Jun 12, 2016 at 12:03 AM</abbr>
 								</div>
 	
 	
 </li>
 
 						
-							<li class="thread-85752 thread-node-42">
-	<a href="members/nithu-hasan.227931/" class="avatar Av227931s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Nithu Hasan"></a>
+							<li class="thread-89176 thread-node-35">
+	<a href="members/iuuouye.244056/" class="avatar Av244056s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="iuuouye"></a>
 
 	
 
-	<a title="The Latest: UEFA: All 40 Champions League" class="Tooltip" href="threads/the-latest-uefa-all-40-champions-league.85752/">
-		The Latest: UEFA: All 40...
+	<a href="threads/sometimes-a-link-is-just-a-link.89176/">
+		Sometimes a link is just a link
 	</a>
 
 	<div class="userTitle">
-									<a href="members/nithu-hasan.227931/" class="username">Nithu Hasan</a> posted <abbr class="DateTime" data-time="1449602882" data-diff="25976" data-datestring="Dec 9, 2015" data-timestring="12:58 AM">Dec 9, 2015 at 12:58 AM</abbr>
+									<a href="members/iuuouye.244056/" class="username">iuuouye</a> posted <abbr class="DateTime" data-time="1465668883" data-diff="3966" data-datestring="Jun 11, 2016" data-timestring="11:44 PM">Jun 11, 2016 at 11:44 PM</abbr>
 								</div>
 	
 	
@@ -1404,85 +1568,85 @@ This document was last updated on March 13, 2013</span></p><p></p>
 					
 
 						
-							<li class="thread-85756 thread-node-47">
-	<a href="members/anoop-mathew.102288/" class="avatar Av102288s" data-avatarhtml="true"><img src="data/avatars/s/102/102288.jpg?1442001547" width="48" height="48" alt="Anoop Mathew"></a>
+							<li class="thread-89180 thread-node-35">
+	<a href="members/iuuouye.244056/" class="avatar Av244056s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="iuuouye"></a>
 
 	
 
-	<a title="From the common 15.6 to the handy 11 inch size, what differs in productivity for a Laptop?" class="Tooltip" href="posts/359301/">
-		From the common 15.6 to the...
+	<a href="posts/369645/">
+		I sometimes have to listen
 	</a>
 
 	<div class="userTitle">
-									<a href="members/anoop-mathew.102288/" class="username">Anoop Mathew</a> replied <abbr class="DateTime" data-time="1449616255" data-diff="12603" data-datestring="Dec 9, 2015" data-timestring="4:40 AM">Dec 9, 2015 at 4:40 AM</abbr>
+									<a href="members/iuuouye.244056/" class="username">iuuouye</a> replied <abbr class="DateTime" data-time="1465672735" data-diff="114" data-datestring="Jun 12, 2016" data-timestring="12:48 AM">Jun 12, 2016 at 12:48 AM</abbr>
 								</div>
 	
 	
 </li>
 
 						
-							<li class="thread-85755 thread-node-80">
-	<a href="members/kickoffnews.227924/" class="avatar Av227924s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="kickoffnews"></a>
+							<li class="thread-89179 thread-node-67">
+	<a href="members/debasmita-banerjee.193577/" class="avatar Av193577s" data-avatarhtml="true"><img src="data/avatars/s/193/193577.jpg?1457462685" width="48" height="48" alt="Debasmita Banerjee"></a>
 
 	
 
-	<a title="earth's freshwater than previously thought" class="Tooltip" href="posts/359300/">
-		earth's freshwater than...
+	<a title="Quote And Reply Option Now Available In WhatsApp" class="Tooltip" href="posts/369644/">
+		Quote And Reply Option Now...
 	</a>
 
 	<div class="userTitle">
-									<a href="members/kickoffnews.227924/" class="username">kickoffnews</a> replied <abbr class="DateTime" data-time="1449606495" data-diff="22363" data-datestring="Dec 9, 2015" data-timestring="1:58 AM">Dec 9, 2015 at 1:58 AM</abbr>
+									<a href="members/debasmita-banerjee.193577/" class="username">Debasmita Banerjee</a> replied <abbr class="DateTime" data-time="1465671387" data-diff="1462" data-datestring="Jun 12, 2016" data-timestring="12:26 AM">Jun 12, 2016 at 12:26 AM</abbr>
 								</div>
 	
 	
 </li>
 
 						
-							<li class="thread-61160 thread-node-67">
-	<a href="members/duraikrish.227937/" class="avatar Av227937s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Duraikrish"></a>
+							<li class="thread-89178 thread-node-35">
+	<a href="members/iuuouye.244056/" class="avatar Av244056s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="iuuouye"></a>
 
 	
 
-	<a title="How to calibrate proximity sensor on android phone?" class="Tooltip" href="posts/359299/">
-		How to calibrate proximity...
+	<a href="posts/369643/">
+		they realize they are that thing
 	</a>
 
 	<div class="userTitle">
-									<a href="members/duraikrish.227937/" class="username">Duraikrish</a> replied <abbr class="DateTime" data-time="1449605876" data-diff="22982" data-datestring="Dec 9, 2015" data-timestring="1:47 AM">Dec 9, 2015 at 1:47 AM</abbr>
+									<a href="members/iuuouye.244056/" class="username">iuuouye</a> replied <abbr class="DateTime" data-time="1465671005" data-diff="1844" data-datestring="Jun 12, 2016" data-timestring="12:20 AM">Jun 12, 2016 at 12:20 AM</abbr>
 								</div>
 	
 	
 </li>
 
 						
-							<li class="thread-85754 thread-node-80">
-	<a href="members/kickoffnews.227924/" class="avatar Av227924s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="kickoffnews"></a>
+							<li class="thread-80972 thread-node-69">
+	<a href="members/aman19994.244059/" class="avatar Av244059s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="Aman19994"></a>
 
 	
 
-	<a title="Asia are pouring into the caliphate, 300" class="Tooltip" href="posts/359298/">
-		Asia are pouring into the...
+	<a title="IES 2016 - Exam Date | Registration | How to Apply | Application Form" class="Tooltip" href="posts/369642/">
+		IES 2016 - Exam Date |...
 	</a>
 
 	<div class="userTitle">
-									<a href="members/kickoffnews.227924/" class="username">kickoffnews</a> replied <abbr class="DateTime" data-time="1449605267" data-diff="23591" data-datestring="Dec 9, 2015" data-timestring="1:37 AM">Dec 9, 2015 at 1:37 AM</abbr>
+									<a href="members/aman19994.244059/" class="username">Aman19994</a> replied <abbr class="DateTime" data-time="1465670378" data-diff="2471" data-datestring="Jun 12, 2016" data-timestring="12:09 AM">Jun 12, 2016 at 12:09 AM</abbr>
 								</div>
 	
 	
 </li>
 
 						
-							<li class="thread-85753 thread-node-80">
-	<a href="members/kickoffnews.227924/" class="avatar Av227924s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="kickoffnews"></a>
+							<li class="thread-89177 thread-node-35">
+	<a href="members/iuuouye.244056/" class="avatar Av244056s" data-avatarhtml="true"><img src="styles/antiquark/xenforo/avatars/avatar_male_s.png" width="48" height="48" alt="iuuouye"></a>
 
 	
 
-	<a title="psychological damage with one in four inside" class="Tooltip" href="posts/359297/">
-		psychological damage with one...
+	<a title="insecure his ancestry can be traced back" class="Tooltip" href="posts/369641/">
+		insecure his ancestry can be...
 	</a>
 
 	<div class="userTitle">
-									<a href="members/kickoffnews.227924/" class="username">kickoffnews</a> replied <abbr class="DateTime" data-time="1449603251" data-diff="25607" data-datestring="Dec 9, 2015" data-timestring="1:04 AM">Dec 9, 2015 at 1:04 AM</abbr>
+									<a href="members/iuuouye.244056/" class="username">iuuouye</a> replied <abbr class="DateTime" data-time="1465670003" data-diff="2846" data-datestring="Jun 12, 2016" data-timestring="12:03 AM">Jun 12, 2016 at 12:03 AM</abbr>
 								</div>
 	
 	
@@ -1559,8 +1723,7 @@ This document was last updated on March 13, 2013</span></p><p></p>
 						
 					</h3>
 					<div align="center">
-<a href="http://www.usasciencefestival.org/" target="_blank"><img alt="USASEF" src="http://data.crazyengineers.com/attachments/usasef-jpg.16548/"> <hr>
-</a><a href="http://www.LiquidWeb.com" target="_blank"><img alt="LiquidWeb" src="http://d1nwnu2q4m5qzs.cloudfront.net/attachments/incubator-png.4986/" style="height:87px; width:207px"></a>
+<a href="http://www.liquidweb.com/?RID=CrazyEngineeers" target="_blank"><img alt="LiquidWeb" src="http://d1nwnu2q4m5qzs.cloudfront.net/attachments/incubator-png.4986/" style="height:87px; width:207px"></a>
 </div>
 				
 			</div>
@@ -1601,9 +1764,6 @@ This document was last updated on March 13, 2013</span></p><p></p>
 			
 			
 			
-						
-				
-			
 			
 			
 						
@@ -1626,6 +1786,8 @@ This document was last updated on March 13, 2013</span></p><p></p>
 
 
 
+
+<div id="uix_stickyFooterSpacer"></div>
 
 
 
@@ -1662,8 +1824,6 @@ This document was last updated on March 13, 2013</span></p><p></p>
 	</div>
 </div>
 
-<div id="uix_stickyFooterSpacer"></div>
-
 
 
 
@@ -1694,7 +1854,7 @@ This document was last updated on March 13, 2013</span></p><p></p>
 
 
 
-<div id="uix_footer_columns">
+<div class="bigFooter">
 	<div class="pageWidth">
 		<div class="pageContent">
 			
@@ -1702,12 +1862,12 @@ This document was last updated on March 13, 2013</span></p><p></p>
 			
 			
 			
-			<ul class="uix_footer_columns_container uix_footer_columns_4">
-				<li class="uix_footer_columns_col1">
-					<div class="uix_footer_columnWrapper">
+			<ul class="bigFooterRow bigFooterRow--mainRow bigFooterRow--has4Columns">
+				<li class="bigFooterCol bigFooterCol--col1">
+					<div class="section">
 			
 						
-							<h3>
+							<h3 class="bigFooterHeader">
 								<i class="uix_icon fa fa-caret-square-o-right"></i> 
 								About CrazyEngineers
 							</h3>
@@ -1718,11 +1878,11 @@ This document was last updated on March 13, 2013</span></p><p></p>
 				
 					</div>
 				</li>
-				<li class="uix_footer_columns_col2">
-					<div class="uix_footer_columnWrapper">
+				<li class="bigFooterCol bigFooterCol--col2">
+					<div class="section">
 			
 						
-							<h3>
+							<h3 class="bigFooterHeader">
 								<i class="uix_icon fa fa-info-circle"></i> 
 								Important Links
 							</h3>
@@ -1740,11 +1900,11 @@ This document was last updated on March 13, 2013</span></p><p></p>
 				
 					</div>
 				</li>
-				<li class="uix_footer_columns_col3">
-					<div class="uix_footer_columnWrapper">
+				<li class="bigFooterCol bigFooterCol--col3">
+					<div class="section">
 			
 						
-							<h3>
+							<h3 class="bigFooterHeader">
 								<i class="uix_icon fa fa-bullhorn"></i> 
 								Advertise With Us
 							</h3>
@@ -1756,11 +1916,11 @@ For checking our media kit and getting in touch with our advertising team, click
 				
 					</div>
 				</li>
-				<li class="uix_footer_columns_col4">
-					<div class="uix_footer_columnWrapper">
+				<li class="bigFooterCol bigFooterCol--col4">
+					<div class="section">
 			
 						
-							<h3>
+							<h3 class="bigFooterHeader">
 								<i class="uix_icon fa fa-thumbs-o-up"></i> 
 								Buy CrazyEngineers Tee!
 							</h3>
@@ -1788,12 +1948,12 @@ margin:auto"><a class="callToAction" href="http://www.crazyengineers.com/forms/c
 	<div class="pageWidth">
 		<div class="pageContent">
 			
+				
 			<div id="copyright">
 				 
 				<div class="adCopyrightNoticeStyle">Theme designed by <a href="http://www.audentio.com/shop/xenforo-themes" title="Premium XenForo Themes" rel="nofollow" target="_blank">Audentio Design</a>.</div>
 			</div>
 			
-				
 			
 
 			<span class="helper"></span>
@@ -1814,9 +1974,9 @@ jQuery.extend(true, XenForo,
 	visitor: { user_id: 0 },
 	serverTimeInfo:
 	{
-		now: 1449628989,
-		today: 1449599400,
-		todayDow: 3
+		now: 1465672849,
+		today: 1465669800,
+		todayDow: 0
 	},
 	_lightBoxUniversal: "1",
 	_enableOverlays: "1",
@@ -1835,11 +1995,12 @@ jQuery.extend(true, XenForo,
 		}
 	},
 	_ignoredUsers: [],
-	_loadedScripts: {"EWRporta2_Global":true,"pagenode":true,"share_page":true,"wf_default":true,"login_bar":true,"moderator_bar":true,"uix_extendedFooter":true,"js\/Nobita\/FollowingAlerts\/follow.js?_v=206179d8":true},
+	_loadedScripts: {"EWRporta2_Global":true,"pagenode":true,"share_page":true,"wf_default":true,"login_bar":true,"moderator_bar":true,"notices":true,"panel_scroller":true,"uix_extendedFooter":true,"js\/Nobita\/FollowingAlerts\/follow.js?_v=b3e5c146":true},
 	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
 	_csrfToken: "",
 	_csrfRefreshUrl: "login/csrf-token-refresh",
-	_jsVersion: "206179d8",
+	_jsVersion: "b3e5c146",
+	_noRtnProtect: false,
 	_noSocialLogin: false
 });
 jQuery.extend(XenForo.phrases,
@@ -1883,7 +2044,9 @@ XenForo.Facebook.forceInit = true;
 
 
 
+
 </div> 
+
 <div class="uix_wrapperFix" style="height: 1px; margin-top: -1px;"></div>
 
 
@@ -1892,7 +2055,7 @@ XenForo.Facebook.forceInit = true;
 
 </script>
 
-<!-- UI.X Version: 1.5.0.1 //-->
+<!-- UI.X Version: 1.5.6.0 //-->
 
 
 </body></html>
