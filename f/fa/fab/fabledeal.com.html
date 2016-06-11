@@ -1,0 +1,1760 @@
+<!--The following is the downloaded HTML source of the fabledeal.com privacy policy that was archived on 2016-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611040058id_/http%3A//www.fabledeal.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Privacy Policy | FableDeal</title>
+<!-- Bootstrap -->
+	<link rel="stylesheet" href="http://cdn.fabledeal.com/css/lightslider.css">
+	<link rel="stylesheet" href="http://cdn.fabledeal.com/css/bootstrap.css ">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="http://cdn.fabledeal.com/css/flexslider.css">
+	<link rel="stylesheet" href="http://cdn.fabledeal.com/css/owl.carousel.css">
+	<link rel="stylesheet" href="http://cdn.fabledeal.com/css/ddmenu.css">
+	<link rel="stylesheet" href="http://cdn.fabledeal.com/css/custom.css">
+	<link rel="stylesheet" href="http://cdn.fabledeal.com/css/responsive.css">
+
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"  ></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"  ></script>
+    <![endif]
+<script src="../js/reg_form/jquery.js"  ></script>
+<script src="../js/reg_form/jquery.validate.js"  ></script>
+<script src="http://cdn.fabledeal.com/js/jquery-1.11.0.min.js" ></script>-->
+ <!--<script type="text/javascript">
+   
+  if (screen.width <= 800) {
+    window.location = "http://m.fabledeal.com";
+  }
+   
+</script>  -->
+
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.refiral.com/libs/refiral.min.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?3lhvMpTYk0LVY0BOy4Aunw4NbdNpycAy" type="text/javascript"></script><script src="http://cdn.fabledeal.com/js/jquery-1.11.0.min.js"></script>
+<style>
+footer .container.box.padding.list {
+    background: #999 !important;
+}
+
+.copyright {
+    background: none;
+}
+.icc {width:161px; height:81px;}
+.productList {
+    border: 1px solid #e2e2e2;
+}
+
+.list-data .product > img {
+    height: 150px;
+}
+
+.product > img {
+	height: 200px;
+}
+
+.product figcaption .caption a {
+	color: #575555;
+}
+
+.product figcaption .caption a:hover {
+	color: #428bca;
+}
+
+#show_content_div{
+	display:none; 
+}
+</style>    
+		
+<script>
+$(this).parents('li').remove();
+ var cart_pid;
+		function add_to_cart(cart_pid){
+
+				$.ajax({  
+					type: "GET",  
+					url: "../cart_process.php",  
+					data: "cart_pid="+cart_pid,  
+						success: function(msg){  
+							$("#show_cart").html(msg);
+							$("#incr_cart").load("cart_increment.php");
+							$("#total_price").load("product_total.php");
+								$("#show_empty_div").hide();
+								$("#show_content_div").show();
+							if(cart_pid>0){
+								var insert_name=$('.pick_name'+cart_pid).html();
+								$("#show_pname").html(insert_name);
+								$('#addToCartSuccess').modal('show');
+								
+								//alert("Item added to Cart!");
+							}
+						}  
+				}); 	
+		}
+		function remove_item(remove_pid){
+		    var check_rmv;
+		    check_rmv =  confirm('Are you want to remove your item ?');
+		     if(check_rmv==true){
+			
+				$.ajax({  
+					type: "GET",  
+					url: "../cart_process.php",  
+					data: "remove_pid="+remove_pid,  
+						success: function(msg){  
+							$("#show_cart").html(msg);
+							$("#incr_cart").load("cart_increment.php");
+							$("#total_price").load("product_total.php");
+						}  
+				});			
+			
+		     }
+		 }
+		function remove_item_cart(remove_pid){
+		    var check_rmv;
+		    check_rmv =  confirm('Are you want to remove your item ?');
+		     if(check_rmv==true){
+			
+				$.ajax({  
+					type: "GET",  
+					url: "../cart_process.php",  
+					data: "remove_pid="+remove_pid,  
+						success: function(msg){  
+							$("#show_cart").html(msg);
+							$("#incr_cart").load("cart_increment.php");
+							$("#total_price").load("product_total.php");
+							location.reload();
+						}  
+				});			
+			
+		     }
+		 }	
+		function update_qty(up_pid){
+		    var pick_qty=$("#pick_qty"+up_pid).val();
+			//alert(pick_qty);
+				$.ajax({  
+					type: "GET",  
+					url: "../update_product_qty.php",  
+					data: "up_pid="+up_pid+"&pick_qty_vl="+pick_qty,  
+						success: function(msg){  
+							location.reload();
+						}  
+				});			
+		 }
+	var mid;
+	var sortPara;
+	 function sort_by_filter(sortPara,mid){
+		 
+				$.ajax({  
+					type: "POST",  
+					url: "sort_by_filter.php",  
+					data: "sortPara="+sortPara+"&mid="+mid, 
+						success: function(msg){  
+							$("#filter_sort").html(msg);
+						}  
+				});
+	 }
+var chk_opt_id=0;
+var attributeId=0;
+function multiple_check_filter(chk_opt_id,attributeId)
+{
+				
+	var opts = [];
+	$("input:checkbox").each(function(){
+		if(this.checked){
+			opts.push(this.value);
+		}
+	});
+
+$('#ReplaceDiv').show();	
+	
+	$.ajax({
+	type: "POST",
+	url: "product_search_filter.php",
+	dataType : 'json',
+	cache: false,
+	data: {filterOpts: opts},
+	success: function(records){
+		$('#filter_sort').html(records);
+		$('#ReplaceDiv').hide();	
+	 }
+	});
+/* 	$.ajax({
+	type: "POST",
+	url: "attribute_counting_filter.php",
+	dataType : 'json',
+	cache: false,
+	data: {filterOpts: opts},
+	success: function(records){
+		//$('#filter_sort').html(records);
+	 }
+	}); */
+	//alert(opts);						
+}		 
+	</script>	  
+
+<!--Start of Toggle Dropdown Menu for Search Bar Script-->
+<script>
+	$(document).ready(function(e){
+    $('.search-panel .dropdown-menu').find('a').click(function(e) {
+		e.preventDefault();
+		var param = $(this).attr("href").replace("#","");
+		var concept = $(this).text();
+		$('.search-panel span#search_concept').text(concept);
+		$('.input-group #search_param').val(param);
+	});
+});
+</script>
+<!--End of Toggle Dropdown Menu for Search Bar Script-->
+
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?3lhvMpTYk0LVY0BOy4Aunw4NbdNpycAy";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zopim Live Chat Script--></head>
+
+<body>
+
+<script type="text/javascript">
+function setCate(id){
+
+	document.getElementById("serachCate").value = id;
+}
+</script>
+<style> 
+.search-form .dropdown {
+    background-color: #e2e2e2;
+}
+</style> 
+ <!--cart addred modal-->
+<div class="modal fade" id="addToCartSuccess">
+	<div class="modal-dialog ">
+	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"> ×</span></button>
+
+	<div class="modal-content">
+			<strong><span id="show_pname">Product name</span></strong>
+			<b>Added to your shopping cart</b>
+			<small>Thank you for your choosing!</small>
+			<div class="btn-cart">
+				<a href="" data-dismiss="modal" aria-label="Close">Continue shoping</a>
+				<a href="cart.php">view &amp; Checkout</a>				
+			</div>
+			<div class="clearfix"> </div>			
+		</div>
+	</div>
+</div>
+
+
+<!--header-->
+<header>
+	<div class="container">
+		<a class="logo" href="/"><img src="http://m.fabledeal.com/images/logo.png" width="192" height="54" alt="logo"></a>
+		<section class="header-right-panel">
+			<ul class="topmenu">
+            <li><a style="color:#34b059" href="tel:7065044794"><i style="color:#34b059" class="fa fa-whatsapp"></i> 07065044794</a></li>
+				<li><a href="http://seller.fabledeal.com"><i class="fa fa-star-o"></i> Sell on FableDeal</a></li>
+				<li><a href="/contact-us.php"><i class="fa fa-phone"></i>Customer Care</a></li>
+				<li><a href="/track-order.php"><i class="fa fa-reply"></i>Track Order</a></li>
+				<li><a href="#" onclick="toggleChat()"><i class="fa fa-comments"></i>Live Chat</a></li>
+			</ul>
+			
+			<div class="clearfix"></div>
+			<!--search and cart button-->
+			
+						
+
+		<section class="searchbar">		
+		<form action="http://www.fabledeal.com/product_search.php" method="get" name="search form">	
+			<div class="col-lg-9">      	
+				
+				<div class="col-md-12">
+					<div class="input-group">
+					
+					
+						<!--
+						<div class="input-group-btn search-panel">
+                            <input type="hidden" name="serachCate" id="serachCate" />
+							<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+								<span id="search_concept">All</span> <span class="caret"></span>
+							</button>
+							<ul class="dropdown-menu dropdown_selection" role="menu" value="get_cat">
+							  
+
+									
+
+								<li ><a href="javascript:;" onclick="setCate()" value=""></a></li>	
+
+													
+							</ul>
+						</div>
+						-->
+						      
+						<input type="text" class="form-control" name="serch_data" placeholder="Kya deal hai!">
+						
+						<span class="input-group-btn">
+							<button class="btn btn-default" type="submit" name="submit_search" value="Search"><span class="fa fa-search"></span></button>
+						</span>
+					
+					</div>
+				
+				</div>
+			</div>
+		</form>		
+				<!-- Single button -->
+						<div class="btn-group users">
+	
+	        <a href="/login.php">Login/Sign up</a>
+		
+				
+		</div>		
+					
+				<div class="cart" id="carthtm">
+					
+                                <a class="dropdown-toggle" data-toggle="dropdown"> 
+            
+            <i class="fa fa-shopping-cart"></i>  <span id="incr_cart">0</span> Items
+            
+            
+            </a>
+            <div class="dropdown-menu pull-right">
+            <div id="show_content_div" style="display:block;">
+             <strong>Recently added item(s)</strong>
+            	
+            
+                        <div class="subtotal">
+            <!--<span>Sub-total: Rs 2000</span>-->
+            <span>Total: Rs. <span id="total_price"></span></span>
+            
+            </div>
+            
+            <div class="btn-cart">
+            <a href="cart.php">View Cart</a>
+            <a href="checkout.php">Checkout</a>
+            
+            </div>					  </div>
+            </div>	
+
+                    
+					
+        	
+               </div>
+        </section> 
+		
+		</section>
+	</div>
+
+<div style="display:none;">
+<a href="http://www.samwebstudio.com/" target="_blank" title="Website Designing Company in Delhi">SAM WEB STUDIO</a><br>
+                  <a href="http://www.samwebstudio.com/services/web-designing/" target="_blank" title="Website Designing Company India">Website Designing Company</a> <a href="http://www.samwebstudio.com/services/website-development-company/" target="_blank" title="Web Development Company India">Web Development Company India</a>
+</div>
+</header>
+            <script>
+					function remove_item_cart(remove_pid,remove_sid,size){
+		    var check_rmv;
+		    check_rmv =  confirm('Are you want to remove your item ?');
+		     if(check_rmv==true){
+			
+				$.ajax({  
+					type: "GET",  
+					url: "cart_process.php",  
+					data: "remove_pid2="+remove_pid+"&remove_sid2="+remove_sid+"&sizes="+size,  
+						success: function(msg){  
+							$("#carthtm").html(msg);
+							//var url = window.location.href;
+							//location.reload();
+							//window.location.href = "http://fabledeal.com/cart.php";
+						}  
+				});			
+			
+		     }
+		 }	
+			</script>
+<!-- Facebook Pixel Code -->
+
+<!-- End Twitter universal website tag code -->
+
+<!-- End Facebook Pixel Code -->
+
+<!--menubar-->
+<div class="wrap-bg"></div>
+<div class="menubar">
+	<div class="container">
+		
+	<nav id="ddmenu">
+    <div class="menu-icon"></div>
+    <ul style="height: 41px;">
+		
+	    <li class="full-width">
+			<a href="/category/electronics45.html"> <span class="top-heading">Electronics</span></a>
+			<i class="caret"></i>   
+			  
+            <div class="dropdown">
+                <div class="dd-inner">
+               		<ul class="list-category">
+               			<li><a>Shop By:</a></li>
+               			<li class="has-menu active"><a>Categories <i class="fa fa-caret-up"></i> </a>
+               				<div class="menu-inner-list">
+		               			<ul>
+																	
+													
+									<li class="head"><a href="/category/mobiles83.html">Mobiles <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/apple552.html">Apple</a></li>
+											
+																							
+											<li> <a href="/category/celkon572.html">Celkon</a></li>
+											
+																							
+											<li> <a href="/category/gionee533.html">Gionee</a></li>
+											
+																							
+											<li> <a href="/category/iball551.html">Iball</a></li>
+											
+																							
+											<li> <a href="/category/intex526.html">Intex</a></li>
+											
+																							
+											<li> <a href="/category/karbonn522.html">Karbonn</a></li>
+											
+																							
+											<li> <a href="/category/lava553.html">Lava</a></li>
+											
+																							
+											<li> <a href="/category/lenovo545.html">Lenovo</a></li>
+											
+																							
+											<li> <a href="/category/lyf546.html">LYF</a></li>
+											
+																							
+											<li> <a href="/category/micromax486.html">Micromax</a></li>
+											
+																							
+											<li> <a href="/category/microsoft550.html">Microsoft</a></li>
+											
+																							
+											<li> <a href="/category/nokia525.html">Nokia</a></li>
+											
+																							
+											<li> <a href="/category/phonemax566.html">Phonemax     </a></li>
+											
+																							
+											<li> <a href="/category/samsung451.html">Samsung</a></li>
+											
+																							
+											<li> <a href="/category/sansui554.html">Sansui</a></li>
+											
+																							
+											<li> <a href="/category/sony567.html">Sony</a></li>
+											
+																							
+											<li> <a href="/category/spice523.html">Spice</a></li>
+											
+																							
+											<li> <a href="/category/trio565.html">Trio</a></li>
+											
+																							
+											<li> <a href="/category/videocon547.html">Videocon</a></li>
+											
+																							
+											<li> <a href="/category/vivo534.html">Vivo</a></li>
+											
+																							
+											<li> <a href="/category/zen524.html">Zen</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/mobile-accessories181.html">Mobile Accessories <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/batteries482.html">Batteries</a></li>
+											
+																							
+											<li> <a href="/category/cables276.html">Cables</a></li>
+											
+																							
+											<li> <a href="/category/chargers273.html">Chargers</a></li>
+											
+																							
+											<li> <a href="/category/headphones-earphones93.html">Headphones &amp; Earphones</a></li>
+											
+																							
+											<li> <a href="/category/landline-phones556.html">Landline Phones </a></li>
+											
+																							
+											<li> <a href="/category/memory-cards-readers483.html">Memory Cards &amp; Readers </a></li>
+											
+																							
+											<li> <a href="/category/power-banks182.html">Power Banks</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/laptops85.html">Laptops <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/asus577.html">Asus</a></li>
+											
+																							
+											<li> <a href="/category/dell179.html">Dell</a></li>
+											
+																							
+											<li> <a href="/category/hp180.html">HP</a></li>
+											
+																							
+											<li> <a href="/category/lenovo462.html">Lenovo</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/computer-peripherals86.html">Computer Peripherals <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/cartridges-toners454.html">Cartridges &amp; Toners</a></li>
+											
+																							
+											<li> <a href="/category/desktops463.html">Desktops</a></li>
+											
+																							
+											<li> <a href="/category/printers456.html">Printers</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/computer-laptop-accessories311.html">Computer &amp; Laptop Accessories <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/adapters312.html">Adapters</a></li>
+											
+																							
+											<li> <a href="/category/cleaning-kits569.html">Cleaning Kits </a></li>
+											
+																							
+											<li> <a href="/category/external-hard-disks282.html">External Hard Disks</a></li>
+											
+																							
+											<li> <a href="/category/keyboards458.html">Keyboards</a></li>
+											
+																							
+											<li> <a href="/category/laptop-skins-decals555.html">Laptop Skins &amp; Decals </a></li>
+											
+																							
+											<li> <a href="/category/mouse457.html">Mouse</a></li>
+											
+																							
+											<li> <a href="/category/mouse-pads563.html">Mouse Pads</a></li>
+											
+																							
+											<li> <a href="/category/pen-drive571.html">Pen Drive</a></li>
+											
+																							
+											<li> <a href="/category/webcams568.html">Webcams </a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/tablets84.html">Tablets <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/ambrane183.html">Ambrane</a></li>
+											
+																							
+											<li> <a href="/category/hp452.html">HP</a></li>
+											
+																							
+											<li> <a href="/category/micromax481.html">Micromax</a></li>
+											
+																							
+											<li> <a href="/category/sumsung485.html">Samsung</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/cameras-accessories308.html"> Cameras &amp; Accessories  <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/camera-accessories309.html">Camera Accessories</a></li>
+											
+																							
+											<li> <a href="/category/cameras573.html">Cameras</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/tvs-audio-video95.html">TVs, Audio &amp; Video <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/home-theatre-systems460.html">Home Theatre Systems</a></li>
+											
+																							
+											<li> <a href="/category/mp3-media-players461.html">MP3 &amp; Media Players</a></li>
+											
+																							
+											<li> <a href="/category/speakers453.html">Speakers</a></li>
+											
+																							
+											<li> <a href="/category/video-players393.html">Video Players</a></li>
+											
+												               			</ul>
+							</div>
+               			</li>
+						
+               		</ul>
+                </div>
+            </div>
+        </li>
+		
+			
+	    <li class="full-width">
+			<a href="/category/men-s-fashion501.html"> <span class="top-heading">Men's Fashion</span></a>
+			<i class="caret"></i>   
+			  
+            <div class="dropdown">
+                <div class="dd-inner">
+               		<ul class="list-category">
+               			<li><a>Shop By:</a></li>
+               			<li class="has-menu active"><a>Categories <i class="fa fa-caret-up"></i> </a>
+               				<div class="menu-inner-list">
+		               			<ul>
+																	
+													
+									<li class="head"><a href="/category/men-s-accessories472.html">Men's Accessories <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/fragrances518.html">Fragrances</a></li>
+											
+																							
+											<li> <a href="/category/wallets474.html">Wallets</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/men-s-watches543.html">Men's Watches <i class="fa fa-caret-right"></i></a></li>
+																		
+													
+									<li class="head"><a href="/category/eyewear557.html">Eyewear <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/contact-lenses561.html">Contact Lenses</a></li>
+											
+																							
+											<li> <a href="/category/frames559.html">Spectacle Frames</a></li>
+											
+																							
+											<li> <a href="/category/sunglasses516.html">Sunglasses</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/bags-luggage581.html">Bags &amp; Luggage <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/backpacks582.html">Backpacks</a></li>
+											
+																							
+											<li> <a href="/category/drawstring-bags583.html">Drawstring Bags</a></li>
+											
+																							
+											<li> <a href="/category/trolley-backpacks584.html">Trolley Backpacks</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/men-s-apparel73.html">Men's Apparel <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/innerwear-sleepwear470.html">Innerwear &amp; Sleepwear</a></li>
+											
+																							
+											<li> <a href="/category/jackets406.html">Jackets</a></li>
+											
+																							
+											<li> <a href="/category/jeans404.html">Jeans</a></li>
+											
+																							
+											<li> <a href="/category/kurtas-pyjamas-sherwanis468.html">Kurtas, Pyjamas &amp; Sherwanis</a></li>
+											
+																							
+											<li> <a href="/category/shirts465.html">Shirts</a></li>
+											
+																							
+											<li> <a href="/category/shorts-3-4ths410.html">Shorts &amp; 3/4ths</a></li>
+											
+																							
+											<li> <a href="/category/suitings-shirtings469.html">Suitings &amp; Shirtings</a></li>
+											
+																							
+											<li> <a href="/category/suits-blazers467.html">Suits &amp; Blazers</a></li>
+											
+																							
+											<li> <a href="/category/sweaters408.html">Sweaters</a></li>
+											
+																							
+											<li> <a href="/category/sweatshirts407.html">Sweatshirts</a></li>
+											
+																							
+											<li> <a href="/category/t-shirts405.html">T-Shirts</a></li>
+											
+																							
+											<li> <a href="/category/trackpants-tracksuits409.html">Trackpants &amp; Tracksuits</a></li>
+											
+																							
+											<li> <a href="/category/trousers-chinos466.html">Trousers &amp; Chinos</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/men-s-footwear284.html">Men's Footwear <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/boots508.html">Boots</a></li>
+											
+																							
+											<li> <a href="/category/casual-shoes290.html">Casual Shoes</a></li>
+											
+																							
+											<li> <a href="/category/formal-shoes510.html">Formal Shoes</a></li>
+											
+																							
+											<li> <a href="/category/loafers509.html">Loafers</a></li>
+											
+																							
+											<li> <a href="/category/sandals292.html">Sandals</a></li>
+											
+																							
+											<li> <a href="/category/slippers-flip-flops287.html">Slippers &amp; Flip Flops</a></li>
+											
+																							
+											<li> <a href="/category/sports-shoes289.html">Sports Shoes</a></li>
+											
+												               			</ul>
+							</div>
+               			</li>
+						
+               		</ul>
+                </div>
+            </div>
+        </li>
+		
+			
+	    <li class="full-width">
+			<a href="/category/women-s-fashion502.html"> <span class="top-heading">Women's Fashion</span></a>
+			<i class="caret"></i>   
+			  
+            <div class="dropdown">
+                <div class="dd-inner">
+               		<ul class="list-category">
+               			<li><a>Shop By:</a></li>
+               			<li class="has-menu active"><a>Categories <i class="fa fa-caret-up"></i> </a>
+               				<div class="menu-inner-list">
+		               			<ul>
+																	
+													
+									<li class="head"><a href="/category/women-s-accessories473.html">Women's Accessories <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/hand-bags281.html">Hand Bags</a></li>
+											
+																							
+											<li> <a href="/category/scarves377.html">Stoles &amp; Scarves</a></li>
+											
+																							
+											<li> <a href="/category/travel-organizers-pouches500.html">Travel Organizers &amp; Pouches </a></li>
+											
+																							
+											<li> <a href="/category/wallets-clutches480.html">Wallets &amp; Clutches</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/women-s-watches544.html">Women's Watches <i class="fa fa-caret-right"></i></a></li>
+																		
+													
+									<li class="head"><a href="/category/eyewear558.html">Eyewear <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/contact-lenses562.html">Contact Lenses</a></li>
+											
+																							
+											<li> <a href="/category/spectacle-frames560.html">Spectacle Frames</a></li>
+											
+																							
+											<li> <a href="/category/sunglasses517.html">Sunglasses</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/lingerie-sleepwear391.html">Lingerie &amp; Sleepwear <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/babydolls538.html">Babydolls</a></li>
+											
+																							
+											<li> <a href="/category/bras535.html">Bras</a></li>
+											
+																							
+											<li> <a href="/category/camisoles-slips540.html">Camisoles &amp; Slips</a></li>
+											
+																							
+											<li> <a href="/category/lingerie-sets537.html">Lingerie Sets</a></li>
+											
+																							
+											<li> <a href="/category/night-dresses-nighties539.html">Night Dresses &amp; Nighties</a></li>
+											
+																							
+											<li> <a href="/category/night-suits542.html">Night Suits</a></li>
+											
+																							
+											<li> <a href="/category/panties536.html">Panties</a></li>
+											
+																							
+											<li> <a href="/category/pyjamas-lounge-pants541.html">Pyjamas &amp; Lounge Pants</a></li>
+											
+																							
+											<li> <a href="/category/swim-beach-wear585.html">Swim &amp; Beach Wear </a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/women-s-footwear285.html">Women's Footwear <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/ballerinas418.html">Ballerinas</a></li>
+											
+																							
+											<li> <a href="/category/boots421.html">Boots</a></li>
+											
+																							
+											<li> <a href="/category/casual-shoes395.html">Casual Shoes</a></li>
+											
+																							
+											<li> <a href="/category/flat-slip-on420.html">Flat Slip-On</a></li>
+											
+																							
+											<li> <a href="/category/floater-sandal423.html">Floater Sandal</a></li>
+											
+																							
+											<li> <a href="/category/formal-shoes422.html">Formal Shoes</a></li>
+											
+																							
+											<li> <a href="/category/heels419.html">Heels</a></li>
+											
+																							
+											<li> <a href="/category/sandals396.html">Sandals</a></li>
+											
+																							
+											<li> <a href="/category/slippers-flip-flops288.html">Slippers &amp; Flip Flops</a></li>
+											
+																							
+											<li> <a href="/category/sports-shoes394.html">Sports Shoes</a></li>
+											
+																							
+											<li> <a href="/category/wedges515.html">Wedges</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/western-wear369.html">Western Wear <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/jeans578.html"> Jeans</a></li>
+											
+																							
+											<li> <a href="/category/capris-shorts378.html">Capris &amp; Shorts</a></li>
+											
+																							
+											<li> <a href="/category/dresses-skirts371.html">Dresses &amp; Skirts</a></li>
+											
+																							
+											<li> <a href="/category/leggings-jeggings379.html">Leggings &amp; Jeggings</a></li>
+											
+																							
+											<li> <a href="/category/shirts-tops-tunics370.html">Shirts, Tops &amp; Tunics</a></li>
+											
+																							
+											<li> <a href="/category/shrugs-waistcoats412.html">Shrugs &amp; Jackets</a></li>
+											
+																							
+											<li> <a href="/category/trackpants-tracksuits417.html">Trackpants &amp; Tracksuits</a></li>
+											
+																							
+											<li> <a href="/category/trousers-pants380.html">Trousers &amp; Pants</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/beauty-and-personal-care428.html"> Beauty and Personal Care <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/body-and-skin-care503.html">Body and Skin Care </a></li>
+											
+																							
+											<li> <a href="/category/body-groomers435.html">Body Groomers</a></li>
+											
+																							
+											<li> <a href="/category/clippers437.html">Clippers</a></li>
+											
+																							
+											<li> <a href="/category/epilators434.html">Epilators</a></li>
+											
+																							
+											<li> <a href="/category/fragrances519.html">Fragrances</a></li>
+											
+																							
+											<li> <a href="/category/grooming-kits436.html">Grooming Kits</a></li>
+											
+																							
+											<li> <a href="/category/hair-dryers431.html">Hair Dryers</a></li>
+											
+																							
+											<li> <a href="/category/hair-straighteners432.html">Hair Straighteners</a></li>
+											
+																							
+											<li> <a href="/category/hair-stylers433.html">Hair Stylers</a></li>
+											
+																							
+											<li> <a href="/category/makeup439.html">Makeup</a></li>
+											
+																							
+											<li> <a href="/category/shavers430.html">Shavers</a></li>
+											
+																							
+											<li> <a href="/category/trimmers429.html">Trimmers</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/ethnic-wear124.html">Ethnic Wear <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/dupattas376.html">Dupattas</a></li>
+											
+																							
+											<li> <a href="/category/ethnic-gown532.html">Ethnic Gown</a></li>
+											
+																							
+											<li> <a href="/category/kurtas-kurtis375.html">Kurtas &amp; Kurtis</a></li>
+											
+																							
+											<li> <a href="/category/lehenga-cholis246.html">Lehenga Cholis</a></li>
+											
+																							
+											<li> <a href="/category/salwar-suit247.html">Salwar Suit</a></li>
+											
+																							
+											<li> <a href="/category/sarees125.html">Sarees</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/jewellery81.html">Jewellery <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/artificial-jewellery507.html">Artificial Jewellery</a></li>
+											
+												               			</ul>
+							</div>
+               			</li>
+						
+               		</ul>
+                </div>
+            </div>
+        </li>
+		
+			
+	    <li class="full-width">
+			<a href="/category/home-kitchen46.html"> <span class="top-heading">Home &amp; Kitchen</span></a>
+			<i class="caret"></i>   
+			  
+            <div class="dropdown">
+                <div class="dd-inner">
+               		<ul class="list-category">
+               			<li><a>Shop By:</a></li>
+               			<li class="has-menu active"><a>Categories <i class="fa fa-caret-up"></i> </a>
+               				<div class="menu-inner-list">
+		               			<ul>
+																	
+													
+									<li class="head"><a href="/category/home-appliances176.html"> Home Appliances <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/air-conditioners386.html">Air Conditioners</a></li>
+											
+																							
+											<li> <a href="/category/air-coolers392.html">Air Coolers</a></li>
+											
+																							
+											<li> <a href="/category/fan450.html">Fan</a></li>
+											
+																							
+											<li> <a href="/category/geysers-heaters383.html">Geysers &amp; Heaters</a></li>
+											
+																							
+											<li> <a href="/category/immersion-rods389.html">Immersion Rods</a></li>
+											
+																							
+											<li> <a href="/category/irons177.html">Irons</a></li>
+											
+																							
+											<li> <a href="/category/refrigerators388.html">Refrigerators</a></li>
+											
+																							
+											<li> <a href="/category/room-heaters390.html">Room Heaters</a></li>
+											
+																							
+											<li> <a href="/category/solar-appliances385.html">Solar Appliances</a></li>
+											
+																							
+											<li> <a href="/category/vacuum-cleaners178.html">Vacuum Cleaners</a></li>
+											
+																							
+											<li> <a href="/category/voltage-stabilizers449.html">Voltage Stabilizers</a></li>
+											
+																							
+											<li> <a href="/category/washing-machines387.html">Washing Machines</a></li>
+											
+																							
+											<li> <a href="/category/water-purifiers382.html">Water Purifiers</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/home-decor548.html">Home Decor <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/clocks244.html">Clocks</a></li>
+											
+																							
+											<li> <a href="/category/led-bulbs-cfls101.html">LED Bulbs &amp; CFLs</a></li>
+											
+																							
+											<li> <a href="/category/wall-decals-stickers549.html">Wall Decals &amp; Stickers</a></li>
+											
+																							
+											<li> <a href="/category/wallpapers564.html">Wallpapers</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/kitchen-appliances175.html">Kitchen Appliances <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/coffee-makers133.html">Coffee makers</a></li>
+											
+																							
+											<li> <a href="/category/electric-cookers130.html">Electric Cookers</a></li>
+											
+																							
+											<li> <a href="/category/electric-deep-fryers139.html">Electric Deep Fryers</a></li>
+											
+																							
+											<li> <a href="/category/electric-jug-heater-travel-kettles131.html">Electric Jug(heater)/Travel Kettles</a></li>
+											
+																							
+											<li> <a href="/category/food-makers137.html">Food Makers</a></li>
+											
+																							
+											<li> <a href="/category/food-processors134.html">Food Processors</a></li>
+											
+																							
+											<li> <a href="/category/hand-blenders132.html">Hand Blenders</a></li>
+											
+																							
+											<li> <a href="/category/induction-cooktops128.html">Induction Cooktops</a></li>
+											
+																							
+											<li> <a href="/category/microwave-ovens127.html">Microwave Ovens</a></li>
+											
+																							
+											<li> <a href="/category/mixer-juicer-grinders129.html">Mixer/juicer/grinders</a></li>
+											
+																							
+											<li> <a href="/category/pop-up-toasters136.html">Pop-up Toasters</a></li>
+											
+																							
+											<li> <a href="/category/popcorn-makers138.html">Popcorn Makers</a></li>
+											
+																							
+											<li> <a href="/category/sandwich-roti-makers135.html">Sandwich &amp; Roti Makers</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/kitchenware97.html">Kitchenware <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/bar-glassware241.html">Bar &amp; Glassware</a></li>
+											
+																							
+											<li> <a href="/category/cookware209.html">Cookware</a></li>
+											
+																							
+											<li> <a href="/category/dinnerware224.html">Dinnerware</a></li>
+											
+																							
+											<li> <a href="/category/kitchen-linen205.html">Kitchen Linen</a></li>
+											
+																							
+											<li> <a href="/category/kitchen-tools184.html">Kitchen Tools</a></li>
+											
+																							
+											<li> <a href="/category/serveware229.html">Serveware</a></li>
+											
+																							
+											<li> <a href="/category/storage-organization218.html">Storage &amp; Organization</a></li>
+											
+																							
+											<li> <a href="/category/tableware235.html">Tableware</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/home-furnishing99.html">Home Furnishing <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/bed-and-living361.html">Bed and Living</a></li>
+											
+																							
+											<li> <a href="/category/cushion-pillow-covers363.html">Cushion, Pillow &amp; Covers</a></li>
+											
+																							
+											<li> <a href="/category/floor-coverings579.html">Floor Coverings</a></li>
+											
+																		
+													
+									<li class="head"><a href="/category/furniture100.html">Furniture <i class="fa fa-caret-right"></i></a></li>
+																							
+											<li> <a href="/category/chairs-stools374.html">Chairs &amp; Stools</a></li>
+											
+																							
+											<li> <a href="/category/folding-almirah-organisers499.html">Folding Almirah &amp; Organisers </a></li>
+											
+																							
+											<li> <a href="/category/tables-desks372.html">Tables &amp; Desks</a></li>
+											
+																							
+											<li> <a href="/category/wardrobes-dressers373.html">Wardrobes &amp; Dressers</a></li>
+											
+												               			</ul>
+							</div>
+               			</li>
+						
+               		</ul>
+                </div>
+            </div>
+        </li>
+		
+			
+		<!--
+				<li style="margin-top:-1px;">
+				<a href="/valentine-day-special.php">
+					<img src="/valentine-day-special.jpg" />
+				</a>
+				</li>
+				-->
+
+				<li style="margin-top:-1px; float:right;">					
+						<a href="http://www.fabledeal.com/landing/combo-special.php">
+							<img src="/images/small-size-add-7.jpg">
+						</a>				
+				</li>
+				<li style="margin-top:-1px; float:right; margin-right:20px">					
+						<a href="http://www.fabledeal.com/landing/offers.php">
+							<img src="/images/best-sellers.png">
+						</a>				
+				</li>
+			
+			</ul>
+		</nav>	
+		<!--<ul class="menu-right">
+			<li>
+				<a href="http://www.fabledeal.com/landing/offers.php">
+					<img src="/images/best-offers.png" />
+				</a>
+			</li>
+			<!--<li><a><img src="images/line.png" alt="line">offerzone<img src="images/line.png" alt="line"></a></li>-->
+		<!--</ul>-->
+		
+	</div>	
+</div>
+	<div class="container body">
+		
+		<p>&nbsp;</p>
+		
+		<p>Fabledeal online Pvt Limited is the operator and licensee of <a href="http://www.fabledeal.com">www.fabledeal.com</a> <strong>(“Website”)</strong>. Fabledeal can be contacted by e-mail at <a href="mailto:customercare@fabledeal.com">customercare@fabledeal.com</a>.  The protection and security of your personal information is one of Fableldeal.com  top priorities. This online Privacy Policy discloses fabledeal ’s information practices for this Website and subscriber / membership based services (“Services”) including the type of information being collected, method of such information collection, use of such information and sharing of such information with third parties.  </p>
+
+		<p>By using this Website you agree to accept the terms of this Privacy Policy as well as the Website’s Terms of Use.  By accessing or using this Website you expressly consent to our use and disclosure of your personal information in any manner described in this Privacy Policy.  This Privacy Policy extends to both, users who visit the Website but do not transact business on the Website <strong>(“Users”)</strong> as well as users who are registered and are authorized by the Website to transact business on the Website <strong>(“Members”)</strong>.</p>
+
+		<p>“Personal Information” refers to any information that identifies or can be used to identify, contact or locate the person, to whom such information pertains including, but not limited to, name, address, phone number, fax number, email address, financial profiles, identification  number and credit card information. </p>
+
+		<h4>PLEASE READ THE FOLLOWING TERMS OF OUR PRIVACY POLICY</h4>
+
+		<p><strong>PERSONAL INFORMATION THAT MAY BE COLLECTED</strong></p>
+
+		<p>Fabledeal shall collect and store any information that you may provide on our Website.  To enable you to become a member or subscriber of our Website we need to have your basic Personal Information.  Apart from this, when you visit our site, our systems collect details about your computer’s personal information like your IP address.  Please note that your IP address does not identify you personally.<br><br>
+		
+		No use or Services available on this Website are directed towards children.  Fabledeal does not knowingly collect Personal Information from children or sell of its products to children.</p>
+		
+		<p><strong>USE OF INFORMATION COLLECTED</strong></p>
+		
+		<p>Fabledeal owns all the information collected via the Website.  As applicable, the information collected by Fabledeal  shall be used to contact you about the Website and Website related news and Services available on the Website; monitor and improve the Website; calculate the number of visitors to the Website and to know the geographical locations of the visitors; update you on all the special offers available on the Website and provide you with a better shopping experience.</p>
+		
+		<p>Please note that when you place an order, some of your Personal Information will be passed on to the others who shall need to have access to some Personal Information like courier companies, credit card processing companies, vendors etc. to enable them and Fabledeal  perform their duties and fulfill your order requirements.</p>
+		
+		<p>Fabledeal  does not allow any unauthorized persons or organization to use any information that Fabledeal  may collect from you through this Website.<br><br>
+		
+		In the event Fabledeal  is required to respond to subpoenas, court orders or other legal process, your Personal Information may be disclosed pursuant to such subpoenas, court order or legal process, which may be without notice to you.</p>
+		
+		<p>Cookies are small pieces of information saved by your browser onto your computer.  Cookies are used to record various aspects of your visit and assist Fabledeal  to provide you with uninterrupted service. Fabledeal does not use cookies to save Personal Information for outside uses.</p>
+	
+
+		<div class="clearfix"></div>
+	
+	</div>
+
+
+﻿<footer id="foot">
+<!--new latter and welcome-->
+
+<div class="container padding quicklinks">
+	<div class="col-sm-2">
+		<strong>Policy info</strong>
+		<ul>
+			<li><a href="/terms-of-use.php">Terms of use</a></li>
+			<li><a href="/privacy-policy.php">Privacy policy</a></li>
+			<li><a data-toggle="modal" data-target="#cancellation">Online Cancellation</a></li>
+			<li><a data-toggle="modal" data-target="#replacement">Online Replacement</a></li>
+			<!--<li><a>Legal Disclaimer</a></li>
+			<li><a>Copyright policy</a></li>
+			<li><a>Security</a></li>-->
+		</ul>
+	</div>
+	
+	<div class="col-sm-2">
+	
+		<strong>Need help?</strong>
+		<ul>
+			<li><a href="/contact-us.php">Contact us</a></li>
+			<li><a href="/delivery-returns.php">delivery returns</a></li>
+			<li><a href="/track-order.php">track my order</a></li>
+			<li><a href="/faq.php">FAQ</a></li>
+			<!--<li><a>payments</a></li>-->
+		</ul>
+	</div>
+	
+	<div class="col-sm-2">
+		<strong>Buyer</strong>
+		<ul>
+			<li><a href="http://www.fabledeal.com/login.php">login</a></li>
+			<li><a href="http://www.fabledeal.com/login.php">register</a></li>
+			<li><a href="http://www.fabledeal.com/userAccount.php">my account</a></li>
+			<li><a href="http://www.fabledeal.com/myorder.php">order history</a></li>
+		</ul>
+	</div>
+	
+	<div class="col-sm-2">
+		<strong>Seller</strong>
+		<ul>
+			<li><a href="http://seller.fabledeal.com">login</a></li>
+			<li><a href="http://seller.fabledeal.com">register</a></li>
+			<li><a href="http://seller.fabledeal.com">my account </a></li>
+		</ul>
+	</div>
+	
+	<div class="col-sm-2">
+		<strong>Quick links</strong>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about-us.php">about us</a></li>
+		
+		<!--<li><a>Testimonials</a></li>
+			<li><a>Newsletter</a></li>-->
+			
+			<li><a href="http://www.fabledeal.com/sitemap.xml">Sitemap</a></li>
+		</ul>
+	</div>
+	
+	<div class="col-sm-2">
+		<strong>Follow us</strong>
+		<ul>
+			<li><a href="https://www.facebook.com/fabledeal" target="_blank"><i class="fa fa-facebook"></i> Facebook</a></li>
+			<li><a href="https://twitter.com/fabledeal" target="_blank"><i class="fa fa-twitter"></i>twitter</a></li>
+			<li><a href="https://www.youtube.com/channel/UCwF54p6zc9eSow6NZPyG-2g" target="_blank"><i class="fa fa-youtube"></i>youtube</a></li>
+			<li><a href="https://www.linkedin.com/company/fabledeal" target="_blank"><i class="fa fa-linkedin"></i>linkedin</a></li>
+			<li><a href="https://plus.google.com/+Fabledealonline" target="_blank"><i class="fa fa-google-plus"></i>googlePlus</a></li>
+		</ul>
+	</div>
+</div>
+
+<!--<div class="container box padding list">
+	
+	<div class="col-sm-2">
+		<a><i class="fa fa-mobile"></i> Download app</a>
+	</div>
+		<div class="col-sm-2">
+		<a><i class="fa fa-star-o"></i> Premium first</a>
+	</div>
+
+	<div class="col-sm-2">
+		<a><i class="fa fa-map-marker"></i> order tracking</a>
+	</div>
+
+	<div class="col-sm-2">
+		<a><i class="fa fa-phone"></i> 24x7<br> Customer support</a>
+	</div>
+
+	<div class="col-sm-2">
+		<a><i class="fa fa-bar-chart"></i>Size Chart</a>
+	</div>
+
+	<div class="col-sm-2">
+		<a><i class="fa fa-gift"></i>  order zone </a>
+
+	</div>
+
+	
+</div>-->
+
+<!--footer-->
+
+	<div class="container padding">
+		<!--<div class="col-md-3 border-right">
+		<strong class="rotate90">Download Apps</strong>
+			<ul class="download-btn">
+				<li><a><img src="http://cdn.fabledeal.com/images/google.png" alt="android"></a></li>
+				<li><a><img src="http://cdn.fabledeal.com/images/ios.png" alt="android"></a></li>
+				<li><a><img src="http://cdn.fabledeal.com/images/window.png" alt="android"></a></li>
+				
+			</ul>
+		</div>-->
+		<div class="col-md-10">
+			<div class="footer-links-w">
+				<strong>Top store: Brand Directory  </strong>
+
+				<ul>
+					<li>
+						<h2>Electronics: </h2>
+						<a href="/category/mobile-accessories181.html">Mobile Accessories</a> / 
+						<a href="/category/cameras308.html">Cameras</a> / 
+						<a href="/category/comp-laptop-accessories311.html">Comp/Laptop Accessories</a> / 
+						<a href="/category/mobiles83.html">Mobiles</a> / 
+						<a href="/category/tablets84.html">Tablets</a> / 
+						<a href="/category/laptops85.html">Laptops</a> / 
+						<a href="/category/desktops-monitors86.html">Desktops &amp; Monitors</a> / 
+						<a href="/category/printers-inks87.html">Printers &amp; Inks</a> / 
+						<a href="/category/tvs-audio-video95.html">TVs, Audio &amp; Video</a> / 
+						<a href="/category/electronics45.html">View all</a>
+					</li>
+					
+					<li>
+						<h2>Men's Fashion: </h2>
+						<a href="/category/men-s-accessories472.html">Men's Accessories</a> / 
+						<a href="/category/men-s-apparel73.html">Men's Apparel</a> / 
+						<a href="/category/men-s-footwear284.html">Men's Footwear</a> / 
+						<a href="/category/men-s-fashion501.html">View all</a>
+					</li>
+					
+					<li>
+						<h2>Women's Fashion: </h2>
+						<a href="/category/women-s-footwear285.html">Women's Footwear</a> / 
+						<a href="/category/western-wear369.html">Western Wear</a> / 
+						<a href="/category/winter-wear411.html">Winter Wear</a> / 
+						<a href="/category/beauty-and-personal-care428.html"> Beauty and Personal Care</a> / 
+						<a href="/category/women-s-accessories473.html">Women's Accessories</a> / 
+						<a href="/category/ethnic-wear124.html">Ethnic Wear</a> / 
+						<a href="/category/women-s-apparel74.html">Women's Apparel</a> / 
+						<a href="/category/jewellery81.html">Jewellery</a> / 
+						<a href="/category/women-s-fashion502.html">View all</a>
+					</li>
+					
+					<li>
+						<h2>Home &amp; Kitchen: </h2>
+						<a href="/category/home-appliances176.html"> Home Appliances</a> / 
+						<a href="/category/kitchen-appliances175.html">Kitchen Appliances</a> / 
+						<a href="/category/kitchenware97.html">Kitchenware</a> / 
+						<a href="/category/home-decor98.html">Home Utilities</a> / 
+						<a href="/category/home-furnishing99.html">Home Furnishing</a> / 
+						<a href="/category/furniture100.html">Furniture</a> / 
+						<a href="/category/tools102.html">Tools</a> / 
+						<a href="/category/home-kitchen46.html">View all</a>
+					</li>
+					
+					<li>
+						<h2>Baby &amp; Kids: </h2>
+						<a href="/category/toys103.html">Toys</a> / 
+						<a href="/category/kids-baby-clothing104.html">Kids &amp; Baby Clothing</a> / 
+						<a href="/category/kids-footwear105.html">Kids Footwear</a> / 
+						<a href="/category/baby-care106.html">Baby Care</a> / 
+						<a href="/category/school-supplies107.html">School Supplies</a> / 
+						<a href="/category/baby-kids69.html">View all</a>
+					</li>
+					
+					<li>
+						<h2>Books &amp; Media: </h2>
+						<a href="/category/books108.html">Books</a> / 
+						<a href="/category/office-supplies109.html">Office Supplies</a> / 
+						<a href="/category/stationery110.html">Stationery</a> / 
+						<a href="/category/movies-tv-shows111.html">Movies &amp; TV Shows</a> / 
+						<a href="/category/music112.html">Music</a> / 
+						<a href="/category/books-media70.html">View all</a>
+					</li>
+					
+				</ul>				
+				
+			</div>		
+		</div>
+		
+		<div class="col-sm-2">
+				<img src="http://cdn.fabledeal.com/images/100-Moneyback-Guarantee.png" height="135" width="112" alt="loading">
+			</div>
+		<div class="vspace"></div>
+		<!--
+		<div class="share">
+			<span class='st_fblike_hcount' displayText='Facebook Like'></span>
+			<span class='st_facebook_hcount' displayText='Facebook'></span>
+			<span class='st_twitter_hcount' displayText='Tweet'></span>
+			<span class='st_plusone_hcount' displayText='Google +1'></span>
+			<span class='st_linkedin_hcount' displayText='LinkedIn'></span>
+			<span class='st_whatsapp_hcount' displayText='WhatsApp'></span>
+			<span class='st__hcount' displayText=''></span>
+			<span class='st_email_hcount' displayText='Email'></span>
+		</div>-->
+		
+		<div class="vspace"></div>
+		
+		<div class="footerlink padding">
+			<div class="col-sm-3">
+				<strong>100% secure payment <small>All major credit &amp; debit cards accepted</small></strong>
+			</div>
+			<div class="col-sm-9">
+				<img src="http://cdn.fabledeal.com/images/payment.png" class="payment-icon" width="611" height="34" alt="Payment">
+			</div>
+			<div class="col-sm-2" style="padding-top: 15px;">
+				<span style="font-weight: bold;font-size: 15px;">
+					Coupon Partner:
+				</span>
+			</div>
+			<div class="col-sm-10">
+			
+				<a href="http://www.couponrani.com/fabledeal-coupons">
+					<img style="margin: 10px;" src="http://cdn.fabledeal.com/images/coupon-partner/coupon-rani.png" class="payment-icon" height="34" alt="Coupon Partner">
+				</a>
+				<a href="http://www.couponzguru.com/fabledeal-coupons/">
+					<img style="margin: 10px;" src="http://cdn.fabledeal.com/images/coupon-partner/couponz-guru.jpg" class="payment-icon" height="34" alt="Coupon Partner">
+				</a>
+				<a href="http://www.couponraja.in/fabledeal">
+					<img style="margin: 10px;" src="http://cdn.fabledeal.com/images/coupon-partner/coupon-raja.png" class="payment-icon" height="34" alt="Coupon Partner">
+				</a>
+				<a href="https://www.maddycoupons.in/stores/fabledeal-coupons/">
+					<img style="margin: 10px;" src="http://cdn.fabledeal.com/images/coupon-partner/maddy_coupan.jpg" class="payment-icon" height="34" alt="Coupon Partner">
+				</a>
+				<a href="https://www.shoppirate.in/view/fabledeal">
+					<img style="margin: 10px;" src="http://cdn.fabledeal.com/images/coupon-partner/shop-pirate-logo.png" class="payment-icon" height="34" alt="Coupon Partner">
+				</a>
+				<a href="http://www.coupondekho.co.in/store/fabledeal-promo-codes/">
+					<img style="margin: 10px;" src="http://cdn.fabledeal.com/images/coupon-partner/Coupondekho.png" class="payment-icon" height="34" alt="Coupon Partner">
+				</a>
+				<a href="http://www.couponmama.co.in/stores/fabledeal-promo-codes/">
+					<img style="margin: 10px;" src="http://cdn.fabledeal.com/images/coupon-partner/CouponMama.png" class="payment-icon" height="34" alt="Coupon Partner">
+				</a>
+				<a href="http://www.savemypocket.in/store/fabledeal-coupons-offers/">
+					<img style="margin: 10px;" src="http://cdn.fabledeal.com/images/coupon-partner/savemypocket.png" class="payment-icon" height="34" alt="Coupon Partner">
+				</a>
+				<a href="http://www.savecart.net/store/fabledeal-discount-coupons/">
+					<img style="margin: 10px;" src="http://cdn.fabledeal.com/images/coupon-partner/savecart.png" class="payment-icon" height="34" alt="Coupon Partner">
+				</a>
+			</div>
+			<div class="col-sm-12" style="text-align:center;">
+				© 2015-2016 Fabledeal.com.
+			</div>
+		</div>
+	</div>
+</footer>
+
+<!-- Yahoo pixel tracking code -->
+
+<img src="https://sp.analytics.yahoo.com/spp.pl?a=10000&amp;.yp=10003601">
+
+<!-- Online Cancellation -->
+<div id="cancellation" class="modal fade" role="dialog">
+	<div class="modal-dialog">
+	<!-- Modal content-->
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal">×</button>
+				<h4 class="modal-title">Online Cancellation</h4>
+			</div>
+			
+			<div class="modal-body">
+
+				<form action="" method="post">
+					<div class="form-group">
+						<input type="text" name="order_id" placeholder="Order ID *" required="" class="form-control">
+					</div>
+					<div class="form-group">
+						<input type="text" name="mobile" placeholder="Enter your Mobile No. *" required="" class="form-control">
+					</div>
+					<div class="form-group">
+						<textarea name="message" placeholder="Why do you want to Cancel your order? *" required="" class="form-control" style="height:100px !important;"></textarea>
+					</div>
+					<div class="form-group">
+						<button type="submit" name="cancellation" id="submit" class="btn">Submit</button>
+						<button type="reset" class="btn">Reset</button>
+					</div>
+				</form>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Online Replacement -->
+<div id="replacement" class="modal fade" role="dialog">
+	<div class="modal-dialog">
+	<!-- Modal content-->
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal">×</button>
+				<h4 class="modal-title">Online Replacement</h4>
+			</div>
+			
+			<div class="modal-body">
+
+				<form action="" method="post">
+					<div class="form-group">
+						<input type="text" name="order_id" placeholder="Order ID *" required="" class="form-control">
+					</div>
+					<div class="form-group">
+						<input type="text" name="mobile" placeholder="Enter your Mobile No. *" required="" class="form-control">
+					</div>
+					<div class="form-group">
+						<textarea name="message" placeholder="Reason for Replacement? *" required="" class="form-control" style="height:100px !important;"></textarea>
+					</div>
+					<div class="form-group">
+						<button type="submit" name="replacement" id="submit" class="btn">Submit</button>
+						<button type="reset" class="btn">Reset</button>
+					</div>
+				</form>
+
+			</div>
+			
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Online Cancellation Mail Start -->
+
+<!-- Online Cancellation Mail End -->
+
+
+<!-- Online Replacement Mail Start -->
+
+<!-- Online Replacement Mail End -->
+
+<script type="text/javascript">
+var _refiral=_refiral||{};_refiral.apiKey='587524833eaf98eb779a387e33768c6a';
+(function(){var ref=document.createElement('script');ref.type='text/javascript';ref.async=true;ref.src='https://cdn.refiral.com/libs/refiral.min.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ref,s);})();
+</script>
+
+<!-- Twitter universal website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nupmo', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nupmo&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nupmo&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+</noscript>
+<!-- End Twitter universal website tag code -->
+<!--login modal-->
+<div class="modal fade" id="login" data-backdrop="static">
+  <div class="modal-dialog">
+    <div class="modal-content">
+     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+      
+      <div class="modal-body">
+        	<div class="col-sm-6 col-sm-push-6">
+        		<div class="form-container">
+        		<form id="customLogin" action="session.php" method="post">
+        			<p>Login with email:</p>
+        			
+        			<div class="form-group">
+						<input type="text" name="email" placeholder="Email (Eg. someone@example.com)" class="form-control">
+        			</div>
+        			    <div class="form-group">
+						<input type="password" name="password" placeholder="Password" class="form-control">
+        			</div>
+        			
+        			  <div class="form-group">
+						<button type="submit" class="btn">Login </button>
+        			</div>
+        			
+        			 <div class="form-group">
+        			 	<span class="linered"></span>
+						<div class="col-xs-12"><a class="center forgetPassowrd">Forget your password?</a></div>
+        			</div>
+        		</form>
+        		
+        		<div id="customSignup" style="dispaly:block;">
+        			<p>Signup with email:</p>
+        			<div class="form-group">
+						<input type="text" id="reg_fullname" required="required" name="fullname" placeholder="Full Name" class="form-control">
+						<span id="reg_fullname1"></span>
+        			</div>
+					
+        			<div class="form-group">
+						<input type="email" id="reg_email" required="required" name="email" placeholder="Email (Eg. someone@example.com)" class="form-control">
+						<span id="reg_email1"></span>
+        			</div>
+					
+        			<div class="form-group">
+						<input type="password" id="reg_password" required="required" name="password" placeholder="Password" class="form-control">
+						<span id="reg_password1"></span>
+        			</div>
+        			
+        			  <div class="form-group">
+						<button id="submit_reg" onclick="submit_regmail();" class="btn">Register</button>
+        			</div>
+        			
+        			 <div class="form-group">
+        			 	<span class="linered"></span>
+						<div class="col-xs-12"><a class="center loginEmail">Login into account?</a></div>
+        			</div>
+					
+					<span id="reg_div"></span>
+        		</div>
+				
+        		<div id="forgetPassword" style="dispaly:block;">
+        			<p>Forget Password:</p>
+        			
+
+        			<div class="form-group">
+						<input type="text" id="forget_email" placeholder="Email (Eg. someone@example.com)" class="form-control">
+        			</div>
+        			   
+        			
+        			 <div class="form-group">
+						<button class="btn" id="forget" onclick="send_forget_email();">Send Email</button>
+        			</div>
+        			
+        			 <div class="form-group">
+        			 	<span class="linered"></span>
+						<div class="col-xs-12"><a class="center loginEmail">Login into account</a></div>
+        			</div>
+
+					<span id="forgot_div"></span>
+        			
+        		</div>
+				</div>
+
+        		
+        		<div class="clearfix"></div>
+        	</div>
+        	<div class="col-sm-6 col-sm-pull-6">
+        		<p>Don't have an account sign up?</p>
+        		
+        		<ul class="login-list">
+        				<li><a class="btn fb fb-login-button" data-max-rows="1" data-size="medium" data-show-faces="false" data-auto-logout-link="false"> <i class="fa fa-facebook"></i> Login with facebook</a></li>
+        				<li><a class="btn google"> <i class="fa fa-google-plus"></i>  Login with Google+</a></li>
+        				<li><a class="btn twitter  signupwithEmail"> <i class=" fa fa-envelope-o"></i>Sign up with email</a></li>
+        		</ul>
+        		
+        		<div class="v-line"></div>
+        	</div>
+        	<div class="clearfix"></div>
+      </div>
+      
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div>
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="http://cdn.fabledeal.com/js/jquery-1.11.0.min.js"></script>
+<!-- Latest compiled and minified CSS -->
+<script src="http://cdn.fabledeal.com/js/nanobar.min.js"></script>
+<script>
+var nanobar = new Nanobar(); nanobar.go(50);
+$(window).load(function(){ nanobar.go(100)});
+</script>
+
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+ <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+ 
+<script src="http://cdn.fabledeal.com/js/bootstrap.min.js"></script>
+<script src="http://cdn.fabledeal.com/js/scrollTop.js"></script>
+<script src="http://cdn.fabledeal.com/js/function.js"></script>
+<script src="http://cdn.fabledeal.com/js/jquery.flexslider-min.js"></script>
+<script src="http://cdn.fabledeal.com/js/owl.carousel.min.js"></script>
+<script src="http://cdn.fabledeal.com/js/ddmenu.js"></script>
+<script type="text/javascript" src="http://cdn.fabledeal.com/js/lightslider.js"></script>
+<script type="text/javascript" src="js/typeahead.bundle.js"></script>
+<link rel="stylesheet" href="http://cdn.fabledeal.com/css/autofill.css">
+
+    <!--login window-->
+    <script>
+$(function(){
+
+//alert(localStorage.getItem('quantity'));
+
+		$('.login-btn').click(function(){
+			$("#login").modal();
+			$('.form-container form').hide();
+			$('#customLogin').fadeIn(300);
+			$('.form-container').css('min-height', '200px');			
+		});
+		
+			$('.signup-btn').click(function(){
+			$("#login").modal();
+			$('.form-container form').hide();
+			$('#customSignup').fadeIn(300);			
+			$('.form-container').css('min-height', '240px');			
+		});		
+		
+		$(document.body).on('click','.signupwithEmail', function(){
+			$('.form-container form').hide();
+			$('#customSignup').fadeIn(300);			
+			$('.form-container').css('min-height', '240px');
+		});
+		
+		$(document.body).on('click','.forgetPassowrd', function(){
+			$('.form-container form').hide();
+			$('#forgetPassword ').fadeIn(300);
+			$('.form-container').css('min-height', '200px');			
+		});
+		
+		$(document.body).on('click','.loginEmail', function(){
+			$('.form-container form').hide();
+			$('#customLogin').fadeIn(300);
+			$('.form-container').css('min-height', '200px');			
+		});
+})
+</script>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+vargoogle_tag_params = {
+ecomm_prodid: "",
+ecomm_pagetype: "other",
+ecomm_totalvalue: ""
+};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+vargoogle_conversion_id =  932258673;
+vargoogle_custom_params = window.google_tag_params;
+vargoogle_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/932258673/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-72842059-1', 'auto');
+ga('require', 'ec');
+ga('send','pageview');   
+
+
+</script>
+
+<!------end analytic------>
+
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '521030841400017');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=521030841400017&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nupmo', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nupmo&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nupmo&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+
+</noscript>
+</body></html>
