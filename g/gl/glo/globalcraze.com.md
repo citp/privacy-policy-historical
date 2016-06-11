@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalcraze.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209141329id_/http%3A//www.globalcraze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcraze.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611094201id_/http%3A//www.globalcraze.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,4 +61,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ## [Contacting us](http://www.globalcraze.com/contact-us/ "Contacting us")
 
-Feel free to contact the blog Author using the [contact page](http://www.globalcraze.com/contact-us/ "Contacting us") for any other query / information. 
+Feel free to contact the blog Author using the [contact page](http://www.globalcraze.com/contact-us/ "Contacting us") for any other query / information. 🙂
