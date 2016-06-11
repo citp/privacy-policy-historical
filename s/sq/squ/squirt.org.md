@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the squirt.org privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029085514id_/http%3A//www.squirt.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squirt.org privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611195144id_/http%3A//www.squirt.org/about/privacy) for the most accurate reproduction.*
 
 # Read Squirt’s ‘Privacy Statement’ for any privacy concerns
 
-[ ](https://web.archive.org/)
-
-THIS PRIVACY STATEMENT WAS LAST UPDATED ON: March 12, 2015.
+THIS PRIVACY STATEMENT WAS LAST UPDATED ON: April 27, 2016.
 
 Pressnet, d.b.a Squirt.org, and our parent company, Pink Triangle Press, are committed to protecting your privacy. We value our own privacy and we value each other's. We know that cruising and meeting other guys for sex may be fun, but it can be dangerous, and if we are to feel safe and be safe in this endeavor, then our privacy is a central concern. This statement discloses our practices in significant detail in relation to privacy issues. As the site develops, we will post occasional statements to keep you up to date. Collection of Personal Information Most areas of the service require registration or membership. Personal information such as email addresses are collected through the registration and membership process. Squirt.org may also on occasion use statistical data collected through the registration/membership process to help us improve our services, including demographic information about our members. This information will only be used in aggregated and anonymous form. Personal information is also collected during the membership upgrade / billing process. This information is collected and retained by our third party billing partners on secure servers owned by them. Our transmission of your information to third party billers is encrypted, and safeguarded by industry standard PCI compliance.
 
@@ -26,7 +24,24 @@ Membership / registration information for basic/free members is retained for one
 
 **Cookies**
 
-Squirt.org uses cookies to ensure fairness in polls and contests, to administer free trial memberships, and also to ensure quick entry and use on repeat visits.
+To make this site work properly, we sometimes place small data files called cookies on your device.  
+**What are cookies?** A cookie is a small text file that a website saves on your computer or mobile device when you visit Squirt.org. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another.
+
+**How do we use cookies?**  
+If you create an account with us then we will use cookies for the management of the signup process and general administration. These cookies will usually be deleted when you log out; however, in some cases, they may remain afterwards to remember your site preferences when logged out.
+
+We use cookies when you are logged in so that we can remember this fact. This prevents you from having to log in every single time you visit a new page. These cookies are typically removed or cleared when you log out to ensure that you can only access restricted features and areas when logged in.  
+In order to provide you with a great experience on this site we provide the functionality to set your preferences for how this site runs when you use it. In order to remember your preferences we need to set cookies so that this information can be called whenever you interact with a page is affected by your preferences.
+
+**Third Party Cookies**  
+In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.
+
+This site uses Google Analytics which is one of the most widespread and trusted Analytics solution on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit, so we can continue to produce engaging content.
+
+For more information on Google Analytics cookies, see the official Google Analytics page.
+
+**How to control cookies**  
+You can control and/or delete cookies as you wish – for details, see aboutcookies.org. You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
 
 **Advertisers & Linked Websites**
 
