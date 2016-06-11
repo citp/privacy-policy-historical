@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906013029id_/https%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611232924id_/https%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
 ## [Company](https://web.archive.org/company/default.aspx)
 
-  * [Careers](https://web.archive.org/company/careers/default.aspx)
+  * [Careers](https://web.archive.org/careers/)
   * [Scholarships](https://web.archive.org/company/scholarships/default.aspx)
   * [Sustainability](https://web.archive.org/company/sustainability/default.aspx)
   * [Mobile](https://web.archive.org/company/mobile.aspx)
@@ -113,18 +113,11 @@ This privacy policy was last modified on, and shall be effective from and after 
 |  | Corporate Citizenship Report  
 ---  
   
-##### [Being A Good Citizen](https://web.archive.org/docs/Corp_Citizenship_Report_Apr2015.pdf)
+##### [Being A Good Citizen](https://www.hy-vee.com/company/about-hy-vee/corporate-citizenship-report.aspx)
 
-Hy-Vee has always had a sense of responsibility for its employees, customers and communities. We operate and set the example for what it means to be a good citizen by:
+At Hy-Vee, we are uniquely positioned to lead the way in terms of sustainability and we’re focused on being proactive in this area because it’s the right thing to do.
 
-  * **Providing healthy living features in our stores**
-  * **Building green and being green**
-  * **Giving back to our communities**
-  * **Offering responsible products**
-
-
-
-The [2015 Corporate Citizenship Report](https://web.archive.org/docs/Corp_Citizenship_Report_Apr2015.pdf) details how we accomplish these goals.  
+The [2016 Corporate Citizenship Report](https://www.hy-vee.com/company/about-hy-vee/corporate-citizenship-report.aspx) details how we work to strengthen our communities and help our customers who live in them.  
   
 Seasons  
 ---  
