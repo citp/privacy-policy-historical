@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecpapshop.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115234531id_/http%3A//www.thecpapshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecpapshop.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611062933id_/http%3A//www.thecpapshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The CPAP Shop
 
@@ -14,7 +14,7 @@ Below is a list of information we may collect and store once consent has been ma
   * any correspondence or information submitted through on our Site or corresponding email, chat or phone call;
   * other information from your interaction with our Sites, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the Sites, ad data, IP address and standard web log information;
   * other information from third parties, such as such as demographic and traffic data, prescriptions.
-  * **Information Specific to Google:**
+  *  **Information Specific to Google:**
 
     * We have implemented Google Analytics features based on Display Advertising in order to advertise online (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting) and as a result:
       * Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
@@ -29,7 +29,7 @@ Below is a list of information we may collect and store once consent has been ma
 
 As mentioned, the information provided is used to fulfill a specific request made by you. The information is only used to fulfill that specific request unless you give us permission to use it in another manner such as adding you to our mailing lists.
 
-**Email Privacy Policy**  
+ **Email Privacy Policy**  
 This email privacy policy was written to demonstrate our firm commitment to protection of your information and privacy. We use security measures on our site and database to protect the data in our systems. If you receive an email from us, either your email was listed with us because you opted-in, purchased, or had an other existing relationship with us. We always try to respect you by controlling the frequency of our mailings.
 
 **Our eBooks and your email**  
