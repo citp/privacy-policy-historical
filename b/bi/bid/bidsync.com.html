@@ -1,253 +1,47 @@
-<!--The following is the downloaded HTML source of the bidsync.com privacy policy that was archived on 2015-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151214134720id_/http%3A//www.bidsync.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bidsync.com privacy policy that was archived on 2016-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611135052id_/https%3A//www.bidsync.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width">
-<title>Privacy | Bidsync.com</title>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
+	<base target="_parent">
+	<meta charset="UTF-8">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,800italic,400,300|Open+Sans+Condensed:300,700" rel="stylesheet" type="text/css">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
 
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="stylesheet" type="text/css" media="all" href="/wp-content/themes/bidsync/style.css">
-<link rel="pingback" href="http://www.bidsync.com/xmlrpc.php">
-<!--[if lt IE 9]>
-<script src="http://www.bidsync.com/wp-content/themes/bidsync/js/html5.js" type="text/javascript"></script>
-<![endif]-->
-
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/2716.js?439013" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5GKGHH"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cc.chango.com/static/o.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/wp-content/themes/bidsync/js/jquery/1.7.1/jquery.min.js"></script>
-<script src="/wp-content/themes/bidsync/js/jqueryui/1.8.17/jquery.ui.min.js"></script>
-<script src="/wp-content/themes/bidsync/js/jquerytools/1.2.6/jquery.tools.min.js"></script>
-<script src="/wp-content/themes/bidsync/js/jquery.metadata.min.js"></script>
-
-<script type="text/javascript">
-	$(document).ready(function() {
-		$('.rmv-dft-val').focus(
-			function() {
-				if (this.value == this.defaultValue) {
-					this.value = '';
-					this.style.color = "#333333";
-				}
-			}	
-		);
-		$('.rmv-dft-val').blur(
-			function() {
-				if (this.value == '') {
-					this.value = this.defaultValue;
-					this.style.color = "#bbbbbb";
-				}
-			}
-		);
-		
-		$('.home-tabs-post-swap').hover(
-				function(){
-					$('#img4').attr('src', '/wp-content/themes/bidsync/images/home-tabs-post2.png');
-					$('#btn-post').attr('src', '/wp-content/themes/bidsync/images/home-main-post2.png');
-					//this.src = this.src.replace(".png","2.png");
-				},
-        function(){
-					$('#img4').attr('src', '/wp-content/themes/bidsync/images/home-tabs-post.png');
-					$('#btn-post').attr('src', '/wp-content/themes/bidsync/images/home-main-post.png');
-					//this.src = this.src.replace("2.png",".png");
-				}
-    );
-				
-		$('.home-tabs-find-swap').hover(
-			function(){
-					$('#img3').attr('src', '/wp-content/themes/bidsync/images/home-tabs-find2.png');
-					$('#btn-find').attr('src', '/wp-content/themes/bidsync/images/home-main-find2.png');
-					//this.src = this.src.replace(".png","2.png");
-				},
-        function(){
-					$('#img3').attr('src', '/wp-content/themes/bidsync/images/home-tabs-find.png');
-					$('#btn-find').attr('src', '/wp-content/themes/bidsync/images/home-main-find.png');
-					//this.src = this.src.replace("2.png",".png");
-				}
-    );
-		
-		$('.home-tabs-post-cont').click(function () {
-        $('#home-tabs-find-cont').hide();
-        $('#home-tabs-post-cont').show();
-        $('.home-tabs-find-cont').removeClass('selected');
-        $('.home-tabs-post-cont').addClass('selected');
-				var bg = $(this).css("background-image");
-				bg = bg.replace('url("','');
-				bg = bg.replace('")','');
-        return false;
-    });
-		
-		$('.home-tabs-find-cont').click(function () {
-        $('#home-tabs-post-cont').hide();
-        $('#home-tabs-find-cont').show();
-        $('.home-tabs-post-cont').removeClass('selected');
-        $('.home-tabs-find-cont').addClass('selected');
-				var bg = $(this).css("background-image");
-				bg = bg.replace('url("','');
-				bg = bg.replace('")','');
-        
-        return false;
-    });
-		
-		$('div#accordion:eq(0)> div.listing div.info').hide();  
-		$('div#accordion:eq(0)> div.listing div.clicker').click(function() {
-			$(this).next().slideToggle("fast");
-			var toggleDiv = $(this);
-			$(this).hasClass("selected") ? toggleDiv.removeClass('selected') : toggleDiv.addClass('selected');
-		});
-		
-		$('div#faq-accordion:eq(0)> div.listing div.info').hide();  
-		$('div#faq-accordion:eq(0)> div.listing div.clicker').click(function() {
-			$(this).next().slideToggle("fast");
-			var toggleDiv = $(this);
-			$(this).hasClass("selected") ? toggleDiv.removeClass('selected') : toggleDiv.addClass('selected');
-		});
-		
-		$("a[rel]").overlay({mask: '#000'});
-		
-	
-		// detect if browser has flash
-		var hasFlash = false;
-		try {
-			var fo = new ActiveXObject('ShockwaveFlash.ShockwaveFlash');
-			if(fo) hasFlash = true;
-		}catch(e){
-			if(navigator.mimeTypes ["application/x-shockwave-flash"] != undefined) hasFlash = true;
-		}
-
-		$('.eprocure_flash').click(function(){
-			if (hasFlash)
-			{
-				flashembed("swf", "/flash/horz_sales-cycle_eprocure.swf");
-			}else
-			{
-				$('.simple_overlay').css('width', '654px');
-				$('.simple_overlay').css('min-height', '600px');
-				$('#swf').css('width', '560px');
-				$('#swf').html('<iframe style="width:590px; height:422px;" src="/flash/eProcureGIF.html"></iframe>');
-			}
-		});
-		
-		$('.builder_flash').click(function(){	
-			if (hasFlash)
-			{
-				flashembed("swf", "/flash/horz_sales-cycle_builder.swf");
-			}else
-			{
-				$('.simple_overlay').css('width', '654px');
-				$('.simple_overlay').css('min-height', '600px');
-				$('#swf').css('width', '560px');
-				$('#swf').html('<iframe style="width:590px; height:422px;" src="/flash/builderGIF.html"></iframe>');
-			}
-		});
-		
-		$('.procurepointe_flash').click(function(){
-			if (hasFlash)
-			{
-				flashembed("swf", "/flash/sales-cycle-0.swf");
-			}else
-			{
-				$('.simple_overlay').css('width', '654px');
-				$('.simple_overlay').css('min-height', '600px');
-				$('#swf').css('width', '560px');
-				$('#swf').html('<iframe style="width:590px; height:422px;" src="/flash/procurepointe.html"></iframe>');
-			}
-		});
-	
-		$('#region_table').hide();
-			
-		$('#region_map').click(function(){
-			$('#region_table').fadeToggle("slow", "linear");
-			$('#eprocure-table').clock
-		});
-		
-		$('#eprocure-table-button').click(function(){
-			$('.simple_overlay').css({width:'714px', background:'#f2f2f2'});
-			$('#swf').css('width', '632px');
-			$('#swf').html('<iframe style="border:1px solid; width:632px; height:552px;" src="/tables/eprocure-table.html"></iframe>');		
-			
-		});
-		
-			$('#builder-table-button').click(function(){
-			$('.simple_overlay').css({width:'714px', background:'#f2f2f2'});
-			$('#swf').css('width', '632px');
-			$('#swf').html('<iframe style="border:1px solid; width:632px; height:552px;" src="/tables/builder-table.html"></iframe>');		
-			
-		});
-		
-		$('.close').click(function(){
-			$('#swf').html('');
-			$('.simple_overlay').css('background', '#000');
-		});
-		
-		$('#roi').hover(function(){
-			$('#roi').prop('src','/wp-content/uploads/2012/01/side-bar-roi-button2.png')
-		},function(){
-			$('#roi').prop('src','/wp-content/uploads/2012/01/side-bar-roi-button.png')
-		});
-		
-		$('#demo').hover(function(){
-			$('#demo').prop('src','/wp-content/uploads/2012/01/side-bar-schedule-demo2.png')
-		},function(){
-			$('#demo').prop('src','/wp-content/uploads/2012/01/side-bar-schedule-demo.png')
-		});
-		
-		var script = document.createElement('script');
-		script.type = 'text/javascript';
-		script.src = '/wp-content/themes/bidsync/engine1/script.js';
-		$("#wow-script-holder").append(script);		
-		
-	});
-	
-	function remove_default ()
-	{
-		var value = $(".rmv-dft-val").prop("value");	
-		
-		if(value == "Title/Description"){
-			$(".rmv-dft-val").prop("value", "");
-		}
-		
+	<title>Government Bids, RFPs &amp; Government Contracts | BidSync™</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.bidsync.com/xmlrpc.php">
+	<script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5GKGHH"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+	if (document.location.protocol != "https:") {
+	    document.location = document.URL.replace(/^http:/i, "https:");
 	}
+	</script>	
+	<!--[if lt IE 9]>
+	<script src="https://www.bidsync.com/wp-content/themes/twentyfourteen/js/html5.js"></script>
+	<![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
-</script>
+	
+	
+<!-- This site is optimized with the Yoast SEO plugin v3.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.bidsync.com/privacy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Government Bids, RFPs &amp; Government Contracts | BidSync™">
+<meta property="og:description" content="Your Protection is Our Priority BidSync Privacy Policy To Our Individual Clients Your privacy is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your personal information confidential and understand your desire to avoid unwanted solicitations. We hope that by taking a few …">
+<meta property="og:url" content="https://www.bidsync.com/privacy/">
+<meta property="og:site_name" content="BidSync.com | Bid Notification &amp; eProcurement Solutions">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Your Protection is Our Priority BidSync Privacy Policy To Our Individual Clients Your privacy is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your personal information confidential and understand your desire to avoid unwanted solicitations. We hope that by taking a few […]">
+<meta name="twitter:title" content="Government Bids, RFPs &amp; Government Contracts | BidSync™">
+<!-- / Yoast SEO plugin. -->
 
-<!-- Optimizely snippet -->
-<script src="//cdn.optimizely.com/js/2861550034.js"></script>
-
-<!-- Google Analytics Code -->
-<script type="text/javascript">
-
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-5624719-1']);
-_gaq.push(['_setDomainName', '.bidsync.com']);
-_gaq.push(['_trackPageview']);
-
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-
-</script>
-<!-- BidSync Optimization Pixel -->
-<script type="text/javascript">
-    var __cho__ = {"pid":3761,"puid2":"[PUID]"};
-    (function() {
-        var c = document.createElement('script');
-        c.type = 'text/javascript';
-        c.async = true;
-        c.src = document.location.protocol + '//cc.chango.com/static/o.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(c, s);
-    })();
-</script>
-
-	<!-- Start WOWSlider.com HEAD section -->
-	<link rel="stylesheet" type="text/css" href="/wp-content/themes/bidsync/engine1/style.css" media="screen">
-	<!-- End WOWSlider.com HEAD section -->
-<link rel="alternate" type="application/rss+xml" title="Bidsync.com » Feed" href="http://www.bidsync.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Bidsync.com » Comments Feed" href="http://www.bidsync.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="BidSync.com | Bid Notification &amp; eProcurement Solutions » Feed" href="https://www.bidsync.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="BidSync.com | Bid Notification &amp; eProcurement Solutions » Comments Feed" href="https://www.bidsync.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.bidsync.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.3"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.bidsync.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.3" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.bidsync.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.bidsync.com/wp-includes/js/wp-emoji-release.min.js?ver=4.4.2" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -262,159 +56,231 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="wp-ui-css" href="http://www.bidsync.com/wp-content/plugins/wp-ui/css/wp-ui.css?ver=4.2.3" type="text/css" media="all">
-<link rel="stylesheet" id="wpui-light-css" href="http://www.bidsync.com/wp-content/plugins/wp-ui/css/themes/wpui-light.css?ver=4.2.3" type="text/css" media="all">
-<link rel="stylesheet" id="wpui-multiple-css" href="http://www.bidsync.com/wp-content/plugins/wp-ui/css/css.php?styles=wpui-light%7Cwpui-blue%7Cwpui-red%7Cwpui-green%7Cwpui-dark%7Cwpui-quark%7Cwpui-alma%7Cwpui-macish%7Cwpui-redmond%7Cwpui-sevin&amp;ver=4.2.3" type="text/css" media="all">
-<script type="text/javascript" src="http://www.bidsync.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script><script>jQueryWP = jQuery;</script>
-<script type="text/javascript" src="http://www.bidsync.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.bidsync.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.bidsync.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.bidsync.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.bidsync.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.bidsync.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.bidsync.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.bidsync.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.bidsync.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.bidsync.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.bidsync.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.bidsync.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.bidsync.com/?wpui-script=before&amp;ver=4.2.3"></script>
+<link rel="stylesheet" id="rs-plugin-settings-css" href="https://www.bidsync.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.1.6" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="font-awesome-css" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css" type="text/css" media="screen">
+<link rel="stylesheet" id="twentyfourteen-lato-css" href="//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic" type="text/css" media="all">
+<link rel="stylesheet" id="genericons-css" href="https://www.bidsync.com/wp-content/themes/twentyfourteen/genericons/genericons.css?ver=3.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="twentyfourteen-style-css" href="https://www.bidsync.com/wp-content/themes/twentyfourteen/style.css?ver=4.4.2" type="text/css" media="all">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='https://www.bidsync.com/wp-content/themes/twentyfourteen/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="wp-ui-css" href="https://www.bidsync.com/wp-content/plugins/wp-ui/css/wp-ui.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="wpui-light-css" href="https://www.bidsync.com/wp-content/plugins/wp-ui/css/themes/wpui-light.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="wpui-multiple-css" href="https://www.bidsync.com/wp-content/plugins/wp-ui/css/css.php?styles=wpui-light%7Cwpui-blue%7Cwpui-red%7Cwpui-green%7Cwpui-dark%7Cwpui-quark%7Cwpui-alma%7Cwpui-macish%7Cwpui-redmond%7Cwpui-sevin&amp;ver=4.4.2" type="text/css" media="all">
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script><script>jQueryWP = jQuery;</script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.1.6"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.1.6"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.bidsync.com/?wpui-script=before&amp;ver=4.4.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpUIOpts = {"wpUrl":"http:\/\/www.bidsync.com","pluginUrl":"http:\/\/www.bidsync.com\/wp-content\/plugins\/wp-ui\/","enableTabs":"on","enableAccordion":"on","enableSpoilers":"on","enableDialogs":"on","tabsEffect":"none","effectSpeed":"400","accordEffect":"none","alwaysRotate":"stop","tabsEvent":"click","collapsibleTabs":"off","accordEvent":"click","singleLineTabs":"off","accordAutoHeight":"on","accordCollapsible":"off","accordEasing":"false","mouseWheelTabs":"false","bottomNav":"on","tabPrevText":"Prev","tabNextText":"Next","spoilerShowText":"Click to show","spoilerHideText":"Click to hide","cookies":"on","hashChange":"on","docWriteFix":"on","linking_history":"on","misc_options":"hashing_timeout=1000"};
+var wpUIOpts = {"wpUrl":"https:\/\/www.bidsync.com","pluginUrl":"https:\/\/www.bidsync.com\/wp-content\/plugins\/wp-ui\/","enableTabs":"on","enableAccordion":"on","enableSpoilers":"on","enableDialogs":"on","tabsEffect":"none","effectSpeed":"400","accordEffect":"none","alwaysRotate":"stop","tabsEvent":"click","collapsibleTabs":"off","accordEvent":"click","singleLineTabs":"off","accordAutoHeight":"on","accordCollapsible":"off","accordEasing":"false","mouseWheelTabs":"false","bottomNav":"on","tabPrevText":"Prev","tabNextText":"Next","spoilerShowText":"Click to show","spoilerHideText":"Click to hide","cookies":"on","hashChange":"on","docWriteFix":"on","linking_history":"on","misc_options":"hashing_timeout=1000"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.bidsync.com/wp-content/plugins/wp-ui/js/wp-ui.js?ver=0.8.8"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bidsync.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bidsync.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.2.3">
-<link rel="shortlink" href="http://www.bidsync.com/?p=25">
-			<script type="text/javascript">
-				var _gaq = _gaq || [];
+<script type="text/javascript" src="https://www.bidsync.com/wp-content/plugins/wp-ui/js/wp-ui.js?ver=0.8.8"></script>
+<link rel="https://api.w.org/" href="https://www.bidsync.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.bidsync.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.bidsync.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.4.2">
+<link rel="shortlink" href="https://www.bidsync.com/?p=30">
+<link rel="alternate" type="application/json+oembed" href="https://www.bidsync.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bidsync.com%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.bidsync.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bidsync.com%2Fprivacy%2F&amp;format=xml">
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-5624719-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
 
-									_gaq.push(['_setAccount', 'UA-5624719-1']);
-																		_gaq.push(['_setDomainName', 'none']);
-							_gaq.push(['_setAllowLinker', true]);
-												_gaq.push(['_setAllowHash', false]);
-					                    					_gaq.push(['_trackPageview']);
-				
-                
-				(function() {
-				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-				})();
-			</script>
+<script>
+var _prum = [['id', '52cdba8cabe53d0221000000'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
 
-        	<link rel="canonical" href="http://www.bidsync.com/privacy/">
-	<meta name="description" content="Your Protection is Our Priority  BidSync Privacy Policy To Our Individual Clients  Your privacy is important to us, and maintaining your trust and confi...">
-	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-<!-- <script type="text/javascript" src="https://mv.treehousei.com/Javascript/remoteForm.ashx"></script> -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js" type="text/javascript"></script>
 
-<!-- Mrk.to Widget Loader Script -->
-<script type="text/javascript" src="//b2c-mlm.marketo.com/jsloader/b4cc04d5-bc13-407c-99a9-83eea2bb7ccd/loader.php.js"></script>
+<style>
+.scroll-back-to-top-wrapper {
+    position: fixed;
+	opacity: 0;
+	visibility: hidden;
+	overflow: hidden;
+	text-align: center;
+	z-index: 99999999;
+    background-color: #777777;
+	color: #eeeeee;
+	width: 50px;
+	height: 48px;
+	line-height: 48px;
+	right: 30px;
+	bottom: 30px;
+	padding-top: 2px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-ms-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+.scroll-back-to-top-wrapper:hover {
+	background-color: #888888;
+  color: #eeeeee;
+}
+.scroll-back-to-top-wrapper.show {
+    visibility:visible;
+    cursor:pointer;
+	opacity: 1.0;
+}
+.scroll-back-to-top-wrapper i.fa {
+	line-height: inherit;
+}
+.scroll-back-to-top-wrapper .fa-lg {
+	vertical-align: 0;
+}
+.scroll-back-to-top-wrapper{
+bottom:2px !important;
+right:2px !important;
+}</style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Slider Revolution 5.1.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+	<script src="//cdn.optimizely.com/js/2861550034.js"></script>
+</head>
 
-<script type="text/javascript" async="" src="https://munchkin.marketo.net/munchkin.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-
-<body class="page page-id-25 page-template-default singular two-column right-sidebar">
+<body class="page page-id-30 page-template-default group-blog masthead-fixed footer-widgets singular">
 
 <!-- Google Tag Manager -->
         <noscript>
-            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5GKGHH"
-                          height="0" width="0" style="display:none;visibility:hidden"></iframe>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5GKGHH" height="0" width="0" style="display:none;visibility:hidden"></iframe>
         </noscript>
         <script type="text/javascript">
-                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5GKGHH');
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5GKGHH');
         </script>
 <!-- End Google Tag Manager -->
 
-<div id="containing"></div>
-<div id="cent">
-	<div id="cont">
-  	<header id="top">
-			<div id="logo"><a href="http://www.bidsync.com/" target="_parent"><img src="/assets/bidsync-horiz-notag.png" alt="Bidsync" height="70px"></a></div>
-			<div id="header-n">
-				<div id="header-n-cont">
-					<ul>
-					<li><a href="https://www.linkedin.com/companies/bidsync" target="_blank"><img src="/assets/linked-in-15.jpg" alt="LinkedIn"></a>&nbsp;<a href="https://www.twitter.com/bidsync" target="_blank"><img src="/assets/twitter-15.jpg" alt="Twitter"></a>&nbsp;<a href="https://www.facebook.com/BidSyncCorporate" target="_blank"><img src="/assets/facebook-15.jpg" alt="Facebook"></a>&nbsp;<a href="https://www.youtube.com/user/BidSyncMarketing" target="_blank"><img src="/assets/youtube-15.jpg" alt="YouTube"></a>
-                    </li><li><a href="https://support.bidsync.com" target="_blank"><img src="/assets/phone-contact-25.jpg" alt="Contact Us or Call 1-800-990-9339"></a></li>
-                    <li><a href="https://www.bidsync.com/DPXLogin"><img src="/assets/my-account-button-25.png" alt="My Account"></a></li>
-                    </ul>
-                 </div>
-		
-<!--					<form>
-						<div class="fr5"><input type="image" src="/wp-content/themes/bidsync//images/icon-login.png" height="17" width="17" border="0" alt="login" style="padding:3px 0 0 0;"></div>
-            <div class="fr5"><input type="text" name="password" value="Password" id="" class="rmv-dft-val" /></div>
-						<div class="fr5"><input type="text" name="username" value="Username" id="" class="rmv-dft-val" /></div>
-						<div class="fr10">Login</div>
-					</form> -->
-				
-			</div>
-		</header>
+		<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5078645"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5078645&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+
+
+<div class="top">
+  <div class="container" style="position:relative;">
+    <div class="contact pull-left"><span class="fa fa-phone"></span> 800-990-9339</div>
+<div class="my-account pull-right">
+      <a href="/DPXLogin"><span class="fa fa-user"></span> My Account</a>
+    </div>        
+  </div>
+</div>
+
+<div class="container">
+  <!--
+<div class="alert alert-danger alert-dismissible fade in" role="alert">
+      <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+      <p>This is a test of the emergency alert system</p>
+</div>
+-->
+
+<!-- see http://getbootstrap.com/javascript/#alerts & http://getbootstrap.com/components/#alerts  --></div>
+
+<!--- -->
+
+<div class="navbar" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="https://www.bidsync.com/" rel="home">
+            <img src="/wp-content/uploads/2015/11/logo-horizontal.png" title="BidSync" alt="BidSync Logo">            
+          </a>
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="fa fa-bars"></span>
+          </button>
         </div>
+        <div class="collapse navbar-collapse navbar-responsive-collapse">
+	<p align="right" style="margin: 12px 15px -30px 0px; padding: 0px 0px 0px 0px;"><em>If you are a buyer in the public sector or higher education industry <a href="/bidsync-source/" style="color: #008ccc;">go here »</a></em></p><p>
+          </p><ul id="menu-top-nav" class="nav navbar-nav"><li id="menu-item-23338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23338 dropdown"><a title="Products" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Products </a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-23403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23403"><a title="BidSync Links™" href="https://www.bidsync.com/bid-notifications/links/">BidSync Links™</a></li>
+	<li id="menu-item-23418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23418"><a title="BidSync Links PLUS™" href="https://www.bidsync.com/bid-notifications/links-plus/">BidSync Links PLUS™</a></li>
+	<li id="menu-item-23429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23429"><a title="Spend Analytics" href="https://www.bidsync.com/bid-notifications/bidsync-spend-analytics/">Spend Analytics</a></li>
+	<li id="menu-item-23435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23435"><a title="BidSync Contact Intelligence™" href="https://www.bidsync.com/bid-notifications/partners/power-almanac/">BidSync Contact Intelligence™</a></li>
+	<li id="menu-item-25090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25090"><a title="BidSync Source™" href="https://www.bidsync.com/bidsync-source/">BidSync Source™</a></li>
+	<li id="menu-item-25091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25091"><a title="BidSync Contract™" href="https://www.bidsync.com/bidsync-source/">BidSync Contract™</a></li>
+	<li id="menu-item-23449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23449"><a title="Proposal Writing" href="https://www.bidsync.com/bid-notifications/partners/proposal-helper/">Proposal Writing</a></li>
+</ul>
+</li>
+<li id="menu-item-23340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23340 dropdown"><a title="Learn" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Learn </a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-23481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23481"><a title="Demo" target="_blank" href="https://pages.bidsync.com/Website-Demo-Forms_videodemo2.html">Demo</a></li>
+	<li id="menu-item-23483" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23483"><a title="Case Studies" href="https://www.bidsync.com/category/case-studies/notification-case-studies/">Case Studies</a></li>
+	<li id="menu-item-23482" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23482"><a title="White Papers" href="https://www.bidsync.com/category/white-papers/notification-white-papers/">White Papers</a></li>
+	<li id="menu-item-24536" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24536"><a title="eBooks" href="https://www.bidsync.com/category/ebooks/">eBooks</a></li>
+	<li id="menu-item-23489" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23489"><a title="Blog" href="https://www.bidsync.com/category/blog/notification/">Blog</a></li>
+	<li id="menu-item-24993" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24993"><a title="Tips and Tricks" href="https://www.bidsync.com/category/tips-and-tricks/">Tips and Tricks</a></li>
+</ul>
+</li>
+<li id="menu-item-25088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25088"><a title="Company" href="http://www.periscopeholdings.com/">Company</a></li>
+</ul>	      </div>
+	  <div class="navbar-collapse collapse">
+          
+    </div><!--/.navbar-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<!--- -->
+
+<div id="search-container" class="search-box-wrapper hide">
+	<div class="search-box">
+		<form role="search" method="get" class="search-form" action="https://www.bidsync.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search …" value="" name="s" title="Search for:">
+				</label>
+				<input type="submit" class="search-submit" value="Search">
+			</form>	</div>
+</div>
+<div class="sec-header">
+	<div class="container">
+		<h2>
+		Privacy		</h2>
+	</div>
 </div>
 
-<!-- Begin Navigation -->
+<div id="main-content" class="main-content">
 
-<div id="main-nav-color">
-	<div id="main-nav-cent">
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content container" role="main">
+			<div class="row">
+			    <div class="col-md-12">
+					
+<article id="post-30" class="post-30 page type-page status-publish hentry">
+	<!-- <header class="entry-header"><h1 class="entry-title"> Privacy</h1></header>--><!-- .entry-header -->
 	
-        <nav id="nav-main">
-			<h3 class="assistive-text">Main menu</h3>
-			<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
-			<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
-			<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-16659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16659"><a href="http://www.bidsync.com/"><img src="/assets/icon-home.png" alt="" border="0" onmouseover="this.src=' /assets/icon-home2.png '" onmouseout="this.src=' /assets/icon-home.png '" height="30"></a></li>
-<li id="menu-item-9130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9130"><a href="http://www.bidsync.com/bid-notifications/">Bid Notifications</a></li>
-<li id="menu-item-9131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9131"><a href="http://www.bidsync.com/eprocurement/">Procurement Solutions</a></li>
-<li id="menu-item-9132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9132"><a href="/resources/webinar/">Resources</a>
-<ul class="sub-menu">
-	<li id="menu-item-15846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15846"><a href="/category/webinars/">Webinars</a></li>
-	<li id="menu-item-15847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15847"><a href="/category/case-studies/">Case Studies</a></li>
-	<li id="menu-item-15848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15848"><a href="/category/white-papers/">White Papers</a></li>
-	<li id="menu-item-15849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15849"><a href="/category/blog/">Blog Posts</a></li>
-	<li id="menu-item-20336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20336"><a href="/category/ebooks/">eBooks</a></li>
-	<li id="menu-item-20456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20456"><a href="/category/videos/">Videos</a></li>
-</ul>
-</li>
-<li id="menu-item-9133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9133"><a href="/newsroom/press-release/">Newsroom</a>
-<ul class="sub-menu">
-	<li id="menu-item-15852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15852"><a href="/category/press-release/">Press Releases</a></li>
-	<li id="menu-item-15851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15851"><a href="http://www.bidsync.com/newsroom/reports/">Reports</a></li>
-	<li id="menu-item-15850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15850"><a href="/category/news/">In the News</a></li>
-	<li id="menu-item-15853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15853"><a href="http://www.bidsync.com/newsroom/events/">Events</a></li>
-	<li id="menu-item-19878" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19878"><a href="/category/release-notes/">Release Notes</a></li>
-	<li id="menu-item-15854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15854"><a href="http://www.bidsync.com/newsroom/awards/">Awards</a></li>
-</ul>
-</li>
-<li id="menu-item-9134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9134"><a href="/company/about-us/">Company</a>
-<ul class="sub-menu">
-	<li id="menu-item-15855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15855"><a href="/periscope-holdings-acquisition-of-bidsync/">About Us</a></li>
-	<li id="menu-item-15856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15856"><a href="http://www.bidsync.com/company/management/">Management</a></li>
-	<li id="menu-item-15857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15857"><a target="_blank" href="http://periscopeholdings.applicantpro.com/">Careers</a></li>
-	<li id="menu-item-15861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15861"><a href="http://www.bidsync.com/company/contact/">Contact Us</a></li>
-	<li id="menu-item-15858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15858"><a href="http://www.bidsync.com/company/affiliates/">Affiliates</a></li>
-</ul>
-</li>
-</ul></div>		</nav>
-     </div>
-</div>
-
-<!-- End Navigation -->
-
-<div id="cent2">
-	<div id="cont">
-    
-    <div id="cont-txt">
-		
-			
-
-<article id="post-25" class="post-25 page type-page status-publish hentry">
-	<div class="entry-content">
-		<br>
+		 
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
-<tbody><tr>
-<td valign="top" width="480" style="padding:0 44px 0 96px;">
+	<tbody><tr>
+		<td valign="top" width="480" style="padding:0 44px 0 96px;">
 <h1>Your Protection is Our Priority</h1>
 <h3><strong>BidSync Privacy Policy To Our Individual Clients</strong></h3>
 <p>Your privacy is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your personal information confidential and understand your desire to avoid unwanted solicitations. We hope that by taking a few minutes to read this Privacy Policy, you will have a better understanding of what we do with the information you provide to us and how we keep it private and secure.</p>
@@ -434,345 +300,144 @@ var wpUIOpts = {"wpUrl":"http:\/\/www.bidsync.com","pluginUrl":"http:\/\/www.bid
 <li><strong>Security</strong> – We employ procedural and technological measures, consistent with industry practice. Such measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. BidSync uses firewalls, password protection, secure socket layer and other security measures to help prevent unauthorized access to your personally identifiable information.</li>
 <li><strong>Your Consent</strong> – By using our Site, you consent to our website privacy policy.</li>
 <li><strong>Contacting Us</strong> – If there are any questions regarding our privacy policy you may contact us at <a href="mailto:privacy@bidsync.com">privacy@bidsync.com</a></li>
+ 
+
 <p><em>Last Updated November 17, 2010</em></p>
-</ul></td>
+
+		</ul></td>
 <td align="right" valign="top" width="330">
+
 </td>
 </tr>
 </tbody>
-</table>
-	</div><!-- .entry-content -->
-	<footer class="entry-meta">
-	</footer><!-- .entry-meta -->
-</article><!-- #post-25 -->
-					
-    	</div>
-    </div>
+</table>	
+</article><!-- #post-## -->
+				</div><!-- ./col-md-12 -->
+			</div><!-- ./row -->
+		</div><!-- #content -->
+	</div><!-- #primary -->
+	<div id="content-sidebar" class="content-sidebar widget-area" role="complementary">
+	</div><!-- #content-sidebar -->
+</div><!-- #main-content -->
 
+  
+      <style type="text/css">
+        body{padding-top:0px;}
+        html{padding-top:0px;margin-top:0px !important;}
+      </style>
 
+      <div class="container">
+         <hr>
+            <footer>
+              <div class="row">
+                <div class="copyright col-sm-4 col-md-4">
+                  © 2016 <a href="http://periscopeholdings.com/" target="_blank" style="color:#666;">Periscope Holdings Inc.</a>
+                </div>
+                <div class="col-sm-5 col-md-5 footer-menu">
+                  
+<div id="supplementary">
+	<div id="footer-sidebar" class="footer-sidebar widget-area" role="complementary">
+		<aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-nav-container"><ul id="menu-footer-nav" class="menu"><li id="menu-item-23169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23169"><a href="https://www.bidsync.com/legal/">Legal</a></li>
+<li id="menu-item-23168" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-30 current_page_item menu-item-23168"><a href="https://www.bidsync.com/privacy/">Privacy</a></li>
+<li id="menu-item-23167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23167"><a href="https://www.bidsync.com/feedback/">Feedback</a></li>
+<li id="menu-item-23254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23254"><a href="https://www.bidsync.com/company/about-us/">About Us</a></li>
+</ul></div></aside>	</div><!-- #footer-sidebar -->
+</div><!-- #supplementary -->
+                </div>
+                <div class="col-sm-3 col-md-3 social-icons">
+                  
+<div id="supplementary">
+	<div id="footer-sidebar" class="footer-sidebar widget-area" role="complementary">
+			</div><!-- #footer-sidebar -->
+</div><!-- #supplementary -->
+                </div>
+              </div>
+            </footer>
+      </div><!-- .container -->
 
-<!--[if IE 6]>
-<html id="ie6" lang="en-US">
-<![endif]-->
-<!--[if IE 7]>
-<html id="ie7" lang="en-US">
-<![endif]-->
-<!--[if IE 8]>
-<html id="ie8" lang="en-US">
-<![endif]-->
-<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+      <div class="scroll-back-to-top-wrapper">
+	<span class="scroll-back-to-top-inner">
+					<i class="fa fa-2x fa-chevron-circle-up"></i>
+			</span>
+</div><script type="text/javascript">
+/* <![CDATA[ */
+var scrollBackToTop = {"scrollDuration":"500","fadeDuration":"0.5"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-content/plugins/scroll-back-to-top/assets/js/scroll-back-to-top.js"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/masonry.min.js?ver=3.1.2"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-content/themes/twentyfourteen/js/functions.js?ver=20140616"></script>
+<script type="text/javascript" src="https://www.bidsync.com/wp-includes/js/wp-embed.min.js?ver=4.4.2"></script>
 
-<!--<![endif]-->
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.cycle2/20140415/jquery.cycle2.min.js"></script> 
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width">
-<title>Privacy | Bidsync.com</title>
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="stylesheet" type="text/css" media="all" href="/wp-content/themes/bidsync/style.css">
-<link rel="pingback" href="http://www.bidsync.com/xmlrpc.php">
-
-
-<script type="text/javascript">
-
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-5624719-1']);
-_gaq.push(['_setDomainName', '.bidsync.com']);
-_gaq.push(['_trackPageview']);
-
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-
+<script>
+	//override bootstrap click required menus
+          jQuery(document).ready(function() {
+              jQuery('.nav li.dropdown, .nav li.dropdown-submenu').hover(function() {
+                  jQuery(this).addClass('open');
+              }, function() {
+                  jQuery(this).removeClass('open');
+              });
+          });
 </script>
 
-	<!-- Start WOWSlider.com HEAD section -->
-	<link rel="stylesheet" type="text/css" href="/wp-content/themes/bidsync/engine1/style.css" media="screen">
-	<!-- End WOWSlider.com HEAD section -->
-<link rel="alternate" type="application/rss+xml" title="Bidsync.com » Feed" href="http://www.bidsync.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Bidsync.com » Comments Feed" href="http://www.bidsync.com/comments/feed/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bidsync.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bidsync.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.2.3">
-<link rel="shortlink" href="http://www.bidsync.com/?p=25">
-			<script type="text/javascript">
-				var _gaq = _gaq || [];
-
-									_gaq.push(['_setAccount', 'UA-5624719-1']);
-																		_gaq.push(['_setDomainName', 'none']);
-							_gaq.push(['_setAllowLinker', true]);
-												_gaq.push(['_setAllowHash', false]);
-					                    					_gaq.push(['_trackPageview']);
-				
-                
-				(function() {
-				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-				})();
-			</script>
-
-        	<link rel="canonical" href="http://www.bidsync.com/privacy/">
-	<meta name="description" content="Your Protection is Our Priority  BidSync Privacy Policy To Our Individual Clients  Your privacy is important to us, and maintaining your trust and confi...">
-	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-<!-- <script type="text/javascript" src="https://mv.treehousei.com/Javascript/remoteForm.ashx"></script>  -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js" type="text/javascript"></script>
-
-
-
-
-<!-- SITEMAP HEAD -->
-
-<div id="sitemap-container">
-<p id="mapHead" style="cursor:pointer;"><span id="mapSign">OPEN SITE MAP</span></p>
-
-<div id="mapContent" style="display:none;">
-
-<div id="sitemap-meat">
-<table width="900" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="33%" valign="top"><div id="sitemap-meat-mapcat">Company</div>
-      <ul><li><a href="http://www.bidsync.com/company/">History of Commitment</a></li>
-      <ul>
-        <li><a href="http://www.bidsync.com/company/about-us/">About Us</a></li>
-        <li><a href="http://www.bidsync.com/company/affiliates/">Affiliates</a></li>
-        <li><a href="http://bidsync.atsondemand.com/">Careers</a></li>
-        <li><a href="http://www.bidsync.com/company/management/">Management</a></li>
-        <li><a href="http://www.bidsync.com/legal/">Legal</a></li>
-        <li><a href="http://www.bidsync.com/accessibility/">Accessibility</a></li>
-        <li><a href="http://www.bidsync.com/privacy/">Privacy</a></li>
-        <li><a href="mailto:feedback@bidsync.com?subject=Feedback">Feedback</a></li>
-        <li><a href="http://www.bidsync.com/company/contact/">Contact Us</a></li>
-      </ul>
-      <li><a href="/resources/">Resources</a></li>
-      <ul>
-        <li><a href="/resources/webinar/">Webinars</a></li>
-        <li><a href="/resources/whitepapers/">White Papers</a></li>
-        <li><a href="/resources/case-studies/">Case Studies</a></li>
-        <li><a href="/resources/blog/">Blog</a></li>
-      </ul>
-      <li><a href="/newsroom/">News Room</a></li>
-      <ul>
-        <li><a href="/newsroom/press-release/">Press Releases</a></li>
-        <li><a href="/newsroom/news/">In the News</a></li>
-        <li><a href="/newsroom/awards/">Awards</a></li>
-        <li><a href="/newsroom/reports/">Reports</a></li>
-        <li><a href="/newsroom/events/">Events</a></li>
-      </ul>
-      </ul>
-      </td>
-    <td width="33%" valign="top"><div id="sitemap-meat-mapcat">Bid Notifications</div>
-      <ul>
-      <li><a href="/bid-notifications/links-vs-links-plus/">Overview</a></li>
-      <li><a href="/bid-notifications/notification-solutions/">Industry</a></li>
-      <ul>
-        <li><a href="/bid-notifications/notification-solutions/janitorial-solutions/">Janitorial</a></li>
-        <li><a href="/bid-notifications/notification-solutions/it-solutions/">IT and Telecom</a></li>
-        <li><a href="/bid-notifications/notification-solutions/construction-solutions/">Construction</a></li>
-        <li><a href="/bid-notifications/notification-solutions/landscaping-solutions/">Landscaping</a></li>
-      </ul>
-      <li><a href="/bid-notifications/products/">Products</a></li>
-      <ul>
-        <li><a href="/bid-notifications/products/links/">BidSync Links</a></li>
-        <li><a href="/bid-notifications/products/links-plus/">BidSync Links&nbsp;PLUS</a>
-          <ul>
-            <li><a href="/bid-notifications/products/product-national/">National</a></li>
-            <li><a href="/bid-notifications/products/product-regional/">Regional</a></li>
-            <li><a href="/bid-notifications/products/product-federal/">Federal</a></li>
-            <li><a href="/bid-notifications/products/product-military/">Military</a></li>
-            <li><a href="/bid-notifications/products/product-canada/">Canada</a></li>
-            <li><a href="/bid-notifications/products/product-ultimate/">Ultimate</a></li>
-          </ul>
-        </li>
-        <li><a href="/bid-notifications/partners/power-almanac/">Partner Products</a>
-          <ul>
-            <li>&nbsp;</li>
-          </ul>
-        </li>
-        </ul>
-      <li><a href="/bid-notifications/partners/">Partners</a></li>
-      <ul>
-        <li><a href="/bid-notifications/partners/proposal-helper/">ProposalHelper</a></li>
-        <li><a href="/bid-notifications/partners/power-almanac/">Power Almanac</a></li>
-      </ul>
-      <li><a href="/bid-notifications/resources/">Resources</a></li>
-      <ul>
-        <li><a href="/bid-notifications/resources/webinars/">Webinars</a></li>
-        <li><a href="/bid-notifications/resources/white-papers/">White Papers</a></li>
-        <li><a href="/bid-notifications/resources/case-studies/">Case Studies</a></li>
-        <li><a href="/bid-notifications/resources/testimonials/">Testimonials</a></li>
-        <li><a href="/bid-notifications/faqs/">FAQs</a></li>
-        <li><a href="/bid-notifications/resources/agency-map/">Agency Map</a></li>
-        <li><a href="/resources/blog/">Blog Posts</a></li>
-        <li><a href="/bid-notifications/resources/contact-us/">Contact Us</a></li>
-      </ul>
-      </ul>
-      </td>
-    <td width="30%" valign="top"><div id="sitemap-meat-mapcat">Procurement Solutions</div>
-      <ul>
-      <li><a href="/eprocurement/">Overview</a></li>
-      <li><a href="/eprocurement/eprocurement/">Why eProcurement</a></li>
-      <li><a href="/eprocurement/eprocurement-solutions/">Industry</a></li>
-      <ul>
-        <li><a href="/eprocurement/eprocurement-solutions/state-and-local-solutions/">State &amp; Local</a></li>
-        <li><a href="/eprocurement/eprocurement-solutions/education-solutions/">Education</a></li>
-        <li><a href="/eprocurement/eprocurement-solutions/federal-solutions/">Federal</a></li>
-        <li><a href="/eprocurement/eprocurement-solutions/healthcare-solutions/">Healthcare</a></li>
-      </ul>
-      <li><a href="/eprocurement/products/">Products</a></li>
-      <ul>
-        <li><a href="/eprocurement/products/source/">BidSync Source</a>
-<ul>
-  <li><a href="/eprocurement/products/bidsync-builder/">Builder</a></li>
-            <li><a href="/eprocurement/products/bidsync-reverse-auctions/">Reverse Auction</a></li>
-            <li><a href="/eprocurement/products/vendor-management/">Vendor Management</a><br>
-            </li>
-          </ul>
-        </li>
-        <li><a href="/eprocurement/products/contract/">BidSync Contract</a></li>
-        <li><a href="/eprocurement/products/purchase/">BidSync Purchase</a></li>
-        <li><a href="/eprocurement/integration/">Integration</a>
-<ul>
-  <li><a href="/eprocurement/integration/overview/">Overview</a></li>
-            <li><a href="/eprocurement/integration/integration-process-integration/">Process</a></li>
-            <li><a href="/eprocurement/integration/encumbrance/">Encumbrance</a></li>
-          </ul>
-        </li>
-      </ul>
-      <li><a href="/eprocurement/co-op/">Partners</a></li>
-      <ul>
-        <li><a href="/eprocurement/co-op/">Co-op Partners</a>
-<ul>
-  <li><a href="/eprocurement/co-op/psa/">PSA</a></li>
-            <li><a href="/eprocurement/co-op/dir/">DIR</a></li>
-          </ul>
-        </li>
-        <li><a href="/eprocurement/partners/">Technology Partners</a>
-<ul>
-  <li><a href="/eprocurement/partners/seal-software/">Seal Software</a></li>
-          </ul>
-        </li>
-      </ul>
-      <li><a href="/eprocurement/resources/">Resources</a></li>
-      <ul>
-        <li><a href="/eprocurement/resources/webinars/">Webinars</a></li>
-        <li><a href="/eprocurement/resources/white-papers/">White Papers</a></li>
-        <li><a href="/eprocurement/resources/case-studies/">Case Studies</a></li>
-        <li><a href="/eprocurement/resources/testimonials/">Testimonials</a></li>
-        <li><a href="/eprocurement/faqs/">FAQs</a></li>
-        <li><a href="/resources/blog/">Blog posts</a></li>
-        <li><a href="/eprocurement/resources/data-security/">Data security</a></li>
-        <li><a href="/eprocurement/resources/schedule-demo/">Schedule a demo</a></li>
-        <li><a href="/AgencyRegistration?ac=orgregister&amp;src=dpx">Register your agency</a></li>
-        <li><a href="/eprocurement/resources/roi-evaluation/">ROI Evaluator</a></li>
-        <li><a href="/eprocurement/resources/contact-us/">Contact Us</a></li>
-      </ul>
-      <li><a href="/eprocurement/test-drive-campaign/">Promos</a></li>
-      </ul>
-      </td>
-  </tr>
-</tbody></table>
-</div></div>
-
-<hr size="1">
-</div>
-
-<script type="text/javascript">
-$(document).ready(function(){
-	$("#mapHead").click(function(){
-		$("#mapContent").slideToggle();
-		if ($("#mapSign").text() == "OPEN SITE MAP"){
-			$("#mapSign").html("CLOSE SITE MAP")
-		}
-		else {
-			$("#mapSign").text("OPEN SITE MAP")
-		}
-	});
+<script>
+jQuery('div#accordion:eq(0)> div.listing div.info').hide();  
+jQuery('div#accordion:eq(0)> div.listing div.clicker').click(function() {
+  jQuery(this).next().slideToggle("fast");
+  var toggleDiv = $(this);
+  jQuery(this).hasClass("selected") ? toggleDiv.removeClass('selected') : toggleDiv.addClass('selected');
 });
+
+jQuery('div#faq-accordion:eq(0)> div.listing div.info').hide();  
+jQuery('div#faq-accordion:eq(0)> div.listing div.clicker').click(function() {
+  jQuery(this).next().slideToggle("fast");
+  var toggleDiv = $(this);
+  jQuery(this).hasClass("selected") ? toggleDiv.removeClass('selected') : toggleDiv.addClass('selected');
+});
+    
 </script>
 
-<footer id="bottom">
+<script>
 
-	  <nav class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-8748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8748"><a href="http://www.bidsync.com/">Home</a></li>
-<li id="menu-item-8747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8747"><a href="http://www.bidsync.com/legal/">Legal</a></li>
-<li id="menu-item-8746" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-25 current_page_item menu-item-8746"><a href="http://www.bidsync.com/privacy/">Privacy</a></li>
-<li id="menu-item-8744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8744"><a href="mailto:feedback@bidsync.com?subject=Feedback">Feedback</a></li>
-<li id="menu-item-15929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15929"><a href="/newsroom/press-release/">News</a></li>
-<li id="menu-item-15928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15928"><a href="/periscope-holdings-acquisition-of-bidsync/">About Us</a></li>
-</ul></nav>      
-       <div id="copy"><p align="center"><a href="https://www.linkedin.com/companies/bidsync" target="_blank"><img src="/assets/linkedin-sm.jpg" alt="LinkedIn"></a>&nbsp;<a href="https://www.twitter.com/bidsync" target="_blank"><img src="/assets/twitter-sm.jpg" alt="Twitter"></a>&nbsp;<a href="https://www.facebook.com/BidSyncCorporate" target="_blank"><img src="/assets/facebook-sm.jpg" alt="Facebook"></a>&nbsp;<a href="https://www.youtube.com/user/BidSyncMarketing" target="_blank"><img src="/assets/youtube-sm.jpg" alt="YouTube"></a><br> © 2015 BidSync. All rights reserved.<br><br>
-       <a target="_blank" id="bbblink" class="rbhzbus" href="http://www.bbb.org/utah/business-reviews/computers-hardware-software-and-services/bidsync-in-american-fork-ut-22190327#bbbseal" title="BidSync, Computers Hardware, Software &amp; Services, American Fork, UT" style="position: relative;overflow: hidden; width: 100px; height: 38px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="http://seal-utah.bbb.org/logo/rbhzbus/bidsync-22190327.png" width="200" height="38" alt="BidSync, Computers Hardware, Software &amp; Services, American Fork, UT"></a><script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-utah.bbb.org' + unescape('%2Flogo%2Fbidsync-22190327.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-utah.bbb.org/logo/bidsync-22190327.js" type="text/javascript"></script>
-       </p>
-         
-       </div>
-                        	 
-</footer>
+window.onpageshow = function(event) {//make sure it doesn't play when cached and user hits back button
+  var src = jQuery('.yt-switch iframe').attr('src');
+  var src = src.replace('&autocomplete=1', '');
+  jQuery('.yt-switch iframe').attr('src', src);
+};
 
-
-
-<!-- CRAZY EGG CODE -->
-<script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/2716.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-
-<!-- MARKETO CODE -->
-<script type="text/javascript">
-(function() {
-  var didInit = false;
-  function initMunchkin() {
-    if(didInit === false) {
-      didInit = true;
-      Munchkin.init('020-LHZ-972');
-    }
-  }
-  var s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.async = true;
-  s.src = document.location.protocol + '//munchkin.marketo.net/munchkin.js';
-  s.onreadystatechange = function() {
-    if (this.readyState == 'complete' || this.readyState == 'loaded') {
-      initMunchkin();
-    }
-  };
-  s.onload = initMunchkin;
-  document.getElementsByTagName('head')[0].appendChild(s);
-})();
-</script>
-
-<!-- end MARKETO CODE -->
-
-<!-- Facebook Exchange Code -->
-
-<script type="text/javascript">
-adroll_adv_id = "GGS6D54SVBDLZAQYDL76RJ";
-adroll_pix_id = "UB37SX3R6VG25CX5NCWXFW";
-(function () {
-var oldonload = window.onload;
 window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
+  jQuery('.yt-switch .overlay').click(function(){
+      switchVideo();
+   });	
+};
+
+function switchVideo(){
+  jQuery('.yt-switch .overlay').hide();//hide overlay
+
+  var src = jQuery('.yt-switch iframe').attr('src');
+  jQuery('.yt-switch iframe').attr('src', src+'&autoplay=1'); // make it play  
+}
+
+var comparisonChevron = 0;
+
+function toggleComparison(){
+	jQuery('#comparison').slideToggle();
+	if(comparisonChevron == 0){
+		comparisonChevron = 1;
+		jQuery('.comp-closed').hide();
+		jQuery('.comp-opened').show();
+	}
+	else{
+		comparisonChevron = 0;
+		jQuery('.comp-opened').hide();
+		jQuery('.comp-closed').show();
+	}
+}
 </script>
 
-<!-- End Exchange Code -->
 
-
- 
-
-</div>
-<div class="simple_overlay" id="overlay">
-	<div id="swf"></div>
-</div>
-<script>var pltNewTabURLs = ["http:\/\/periscopeholdings.applicantpro.com\/"];(function(){(function(e){var t;t=e.jQueryWP||e.jQuery;return t(function(e){return typeof e.fn.on=="function"?e("body").on("click","a",function(t){var n;n=e(this);if(e.inArray(n.attr("href"),pltNewTabURLs)>-1)return n.attr("target","_blank")}):typeof console!="undefined"&&console!==null?console.log("Page Links To: Some other code has overridden the WordPress copy of jQuery. This is bad. Because of this, Page Links To cannot open links in a new window."):void 0})})(window)}).call(this);</script>
 </body></html>
