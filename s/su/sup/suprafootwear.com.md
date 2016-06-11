@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the suprafootwear.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110013815id_/http%3A//www.suprafootwear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suprafootwear.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611170500id_/http%3A//www.suprafootwear.com/privacy-policy) for the most accurate reproduction.*
 
-# SUPRA Footwear | Privacy Policy
-
-## Privacy Policy
+# Privacy Policy
 
 **Last Updated: August 6 th 2015**
 
-This Privacy Policy explains how information about you is collected, used and disclosed byK-Swiss Global Brands (KSGB) and its subsidiaries and affiliated companies (collectively, "KSGB"). This Privacy Policy applies to the websites of KSGB, including ****[suprafootwear.com](http://www.suprafootwear.com/), and KSGB's other online and mobile applications and services (collectively, "Sites"). Please read the following Privacy Policy to understand how we will treat information about you when you use our Sites.
+This Privacy Policy explains how information about you is collected, used and disclosed by K-Swiss Global Brands (KSGB) and its subsidiaries and affiliated companies (collectively, "KSGB"). This Privacy Policy applies to the websites of KSGB, including [suprafootwear.com](http://suprafootwear.com/), and KSGB's other online and mobile applications and services (collectively, "Sites"). Please read the following Privacy Policy to understand how we will treat information about you when you use our Sites.
 
 KSGB may modify this Privacy Policy at any time. If we make changes, we will notify you by revising the date at the top of this policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access our Sites to stay informed about our information practices and the ways you can help protect your privacy.
 
@@ -22,9 +20,7 @@ In addition, when you visit our Sites, some information is automatically collect
 
 ### Credit Card Security
 
-We work to protect the security of your information during your session and any transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you input.  
-We also have integrated additional security measures through our approved order processing partner to safeguard your entire online experience.  
-We reveal only the last four digits of your credit card numbers when confirming an order. 
+We work to protect the security of your information during your session and any transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you input. We also have integrated additional security measures through our approved order processing partner to safeguard your entire online experience. We reveal only the last four digits of your credit card numbers when confirming an order.
 
 It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
@@ -41,7 +37,7 @@ We may use information about you for purposes described in this Privacy Policy o
   * to provide and deliver products and services and to send you related information, including confirmations, invoices, technical notices, updates, security alert and support and administrative messages;
   * to link or combine with other information about you we collect from third parties; and
   * to monitor and analyze trends, usage and activities in connection with our Sites; and
-  * to personalize and improve the Sites and provide advertisements, content or features that match user profiles and interests. 
+  * to personalize and improve the Sites and provide advertisements, content or features that match user profiles and interests.
 
 
 
@@ -69,11 +65,7 @@ The Sites may offer social sharing features and other integrated tools (such as 
 
 ### Third Party Advertising and Analytics Services
 
-KSGB uses Remarketing with Google Analytics to advertise online. 
-
-Third-party vendors, including Google, show KSGB ads on sites across the internet. 
-
-KSGB and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to www.suprafootwear.com
+KSGB uses Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show KSGB ads on sites across the internet. KSGB and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to suprafootwear.com
 
 We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Sites and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Sites and other websites and better understand your online activity. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
@@ -81,8 +73,6 @@ We may allow others to serve advertisements on our behalf across the Internet an
 
 You may request to modify or delete information about you or cancel your account at any time by emailing us at [customerservice@suprafootwear.com](mailto:customerservice@suprafootwear.com).
 
-In addition, you can choose to opt-out of receiving promotional e-mail communications from KSGB by following the instructions in those emails or sending an email to [unsubscribe@suprafootwear.com](mailto:unsubscribe@suprafootwear.com). If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
-
 ### General Contact Information
 
-If you have any questions or comments regarding this Privacy Policy, our products or our Sites, please contact [Customer Service](http://www.suprafootwear.com/service/) or please call us toll free at 1 (888) 293-1239. International visitors can contact us at +33 5 59 23 35 35.
+If you have any questions or comments regarding this Privacy Policy, our products or our Sites, please contact [Customer Service](https://web.archive.org/customer-service/contact/) or please call us toll free at 844-284-7224.
