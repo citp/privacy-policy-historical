@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartbowsmakeup.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207153041id_/http%3A//www.heartbowsmakeup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartbowsmakeup.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611192112id_/http%3A//www.heartbowsmakeup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Heart Bows & Makeup - Indian Makeup & Beauty Blog, Indian Fashion Blog, Indian Beauty Blog, Delhi Beauty & Fashion Blog, Indian Skincare Blog, Eye Makeup Tutorials, Product Reviews, OOTD
 
@@ -20,13 +20,13 @@ We collect non-personal identification information about Users whenever they int
 
 Heart Bows & Makeup may collect and use User’s personal information for purposes mentioned as following:
 
-  *  **To personalize user experience**  
+  * **To personalize user experience**  
 We may use information to understand how our Users as a group use the services and resources provided on our Site. This information is used to improve User’s experience
-  *  **To improve our Site**  
+  * **To improve our Site**  
 We may use feedback provided by Users to improve our Site, products and services from time to time.
-  *  **To run a promotion, contest, giveaways  or other Site feature**  
+  * **To run a promotion, contest, giveaways  or other Site feature**  
 We may use the collected information to send Users information they agreed to receive about topics we think will be of interest to them.
-  *  **To send periodic emails about our Site and its services**  
+  * **To send periodic emails about our Site and its services**  
 We may use the email address to respond to User’s inquiries, questions, and/or other requests made by User. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related posts/products or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email they receive or User may contact us via our Site and/or email.
 
 
@@ -62,4 +62,4 @@ Heart Bows & Makeup
 [http://www.heartbowsmakeup.com](http://www.heartbowsmakeup.com/ "Heart Bows & Makeup")  
 [lisha@heartbowsmakeup.com](mailto:lisha@heartbowsmakeup.com)
 
- _This document was last updated on June 23, 2014_
+_This document was last updated on June 23, 2014_
