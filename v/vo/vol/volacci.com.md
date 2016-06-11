@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the volacci.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315061812id_/https%3A//www.volacci.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volacci.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611132710id_/https%3A//www.volacci.com/privacy) for the most accurate reproduction.*
 
-# Volacci's Privacy Policy | Volacci Digital Marketing
+# Privacy Policy | Volacci Digital Marketing
 
 Volacci respects your privacy and is committed to maintaining the privacy and confidentiality of personal data we collect. The purpose of our Privacy Statement is to demonstrate our firm commitment to the privacy and protection of all persons who provide personal data to Volacci and its affiliates. This Privacy Statement describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us.
 
