@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrchewy.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212044926id_/http%3A//www.chewy.com/app/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrchewy.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611040535id_/http%3A//www.chewy.com/app/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chewy.com
 
@@ -95,6 +95,3 @@ By choosing to visit our site, you agree that any dispute over privacy or the te
 #### QUESTIONS
 
 If there are any questions regarding this Privacy Policy you may contact us using the information below. 
-
-1-800-67-CHEWY (672-4399)  
-[service@chewy.com](mailto:service@chewy.com)
