@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the the-black-angel.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213164922id_/http%3A//www.the-black-angel.com/content/8-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-black-angel.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611214217id_/http%3A//www.the-black-angel.com/content/8-privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy Notice - The Black Angel
+
+## Privacy Notice
 
 The Black Angel (which is owned and run by Supernova Cult S.A.R.L.) is an online shop designed to deliver the best possible experience to customers.
 
