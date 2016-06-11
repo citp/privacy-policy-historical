@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebulliondesk.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210113442id_/http%3A//www.bulliondesk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebulliondesk.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611065218id_/http%3A//www.bulliondesk.com/privacy-policy) for the most accurate reproduction.*
 
 # Bullion Desk | Privacy Policy - A Fastmarkets Site
 
@@ -76,4 +76,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to privacy@fastmarkets.com
 
-\- See more at: http://www.fastmarkets.com/privacy-policy#sthash.XMcSuRf9.dpuf
+– See more at: http://www.fastmarkets.com/privacy-policy#sthash.XMcSuRf9.dpuf
