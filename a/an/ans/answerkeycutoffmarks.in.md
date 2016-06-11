@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the answerkeycutoffmarks.in privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212022409id_/http%3A//answerkeycutoffmarks.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answerkeycutoffmarks.in privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611231030id_/http%3A//answerkeycutoffmarks.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - All Exams Answer Key & Cutoff Marks
+# Privacy Policy - All Exams Answer Key & Cutoff Marks 2016
 
 This Privacy Policy governs the manner in which Answerkeycutoffmarks.in/ collects, uses, maintains and discloses information collected from users (each, a User) of the  Answerkeycutoffmarks.in/ ** ** website (Site). This privacy policy applies to the Site, all products and services offered by Answerkeycutoffmarks.in **.**
 
