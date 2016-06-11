@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectmedical.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108054613id_/http%3A//www.selectmedical.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectmedical.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611100546id_/http%3A//www.selectmedical.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Select Medical
 
