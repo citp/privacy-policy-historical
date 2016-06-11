@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the androidurdu.net privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212013325id_/http%3A//androidurdu.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidurdu.net privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611224901id_/http%3A//androidurdu.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-* * *
 
 At Android Urdu, your privacy is our number one concern. This privacy policy document outlines the types of personal information is received and collected by AndroidUrdu.com (The Site) and how it is used.
 
