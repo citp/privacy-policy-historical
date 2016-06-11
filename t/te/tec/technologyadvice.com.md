@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technologyadvice.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906010353id_/http%3A//technologyadvice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologyadvice.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611135442id_/http%3A//technologyadvice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechnologyAdvice
 
