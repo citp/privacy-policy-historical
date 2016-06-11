@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the itchotels.in privacy policy that was archived on 2015-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151005034750id_/http%3A//www.itcportal.com/about-itc/policies/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itchotels.in privacy policy that was archived on 2016-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611060228id_/http%3A//www.itcportal.com/about-itc/policies/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -209,13 +209,53 @@ $(document).ready(function(){
 	
 })
 </script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	
+	$('.openpop2').click(function(){
+	
+	
+	$('body').prepend("<div class='popin2'><div id='clo'><div id='aaa'></div></div></div><div class='pop2'></div>");
+	var hh = $(window).height()
+	$('.pop2').height(hh+'px');
+	
+	var newLeft = $(window).width()/2- parseInt($('#aaa').css('width'))/2;
+	var newTop = $(window).height()/2 - parseInt($('#aaa').css('height'))/2;
+	$('#aaa').css({'left':newLeft+'px','top':newTop+'px'});
+	
+	$('.pop2, .popin2').hide();
+	$('.pop2').fadeTo( "slow", 0.7 );
+	$('.popin2').fadeIn('slow');
+	$('.popin2').fadeIn('slow').prepend('<a href="#" class="cls2">&nbsp;</a>');
+	
+	var url = $(this).attr('href');
+	$('#aaa').load(url);
+	
+	return false;
+	})
+	
+	$('a.cls2').live('click', function(){ //When clicking on the close or fade layer...
+	  	$('.pop2 , .popin2').fadeOut(); //fade them both out
+		$('.pop2 , .popin2').remove();
+		return false;
+	});
+
+	
+	
+})
+</script>
+
+
 <style type="text/css">
 html, body{ height:100%;}
-.pop{ position:fixed; left:0; top:0; width:100%; background-color:#000; opacity:0.4; filter:alpha(opacity=90); z-index:1001; }
-.popin{position:absolute; left:0; top:0; width:100%; height:100%; z-index:1002;}
-.popin div{ position:relative; background:#E0AFAF; }
+.pop, .pop2{ position:fixed; left:0; top:0; width:100%; background-color:#000; opacity:0.4; filter:alpha(opacity=90); z-index:1001; }
+.popin, .popin2{position:absolute; left:0; top:0; width:100%; height:100%; z-index:1002;}
+.popin div, .popin2 div{ position:relative; background:#E0AFAF; }
 .popin div div{ position:absolute; background-color:#FFF; border:0px solid #CCC; width:650px; height:570px;}
+.popin2 div div{ position:absolute; background-color:#FFF; border:0px solid #CCC; width:650px; height:280px;}
 .cls{ position:absolute; top:50%;  left:50%; margin:-330px 0 0 400px; width:30px; height:30px; background: url(/sustainability/images/close.png) no-repeat; z-index:1003}
+.cls2{ position:absolute; top:50%;  left:50%; margin:-170px 0 0 400px; width:30px; height:30px; background: url(/sustainability/images/close.png) no-repeat; z-index:1003}
 </style>
 
 <div class="skiptocontent" style="width:200px;"><a href="#contentstarts" title="Jump to Content">Jump to Content</a></div>
@@ -230,8 +270,12 @@ html, body{ height:100%;}
 <div class="header-home-link" style="width:950px">
 <table width="" border="0" align="right" cellpadding="0" cellspacing="0">
   <tbody><tr>
-  <td align="left"><div style="float:left;"><a href="/" name="topnavigation"><img src="/images/home-icon.jpg" style=" vertical-align:middle;" border="0" alt="ITC Home" title="ITC Home"></a></div>  <div style="float:left; margin-right:5px;"><a href="https://twitter.com/ITCCorpCom" class="twitter-follow-button" data-show-count="false">Follow @ITCCorpCom</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div> <div style="float:left">| <a href="/careers/index.aspx">Careers</a> |  <a href="/about-itc/shareholder-value/investor-relations.aspx">Investor Relations</a> |  <a href="/contact-us.aspx">Contact Us</a> |  <a href="http://store.itcportal.com/" target="_blank" title="FMCG Store locator opens in a new window">Store Locator</a> | &nbsp;</div></td>
+  <td align="left"><div style="float:left;"><a href="/" name="topnavigation"><img src="/images/home-icon.jpg" style=" vertical-align:middle;" border="0" alt="ITC Home" title="ITC Home"></a></div>  <div style="float:left; margin-right:5px;"><a href="https://twitter.com/ITCCorpCom" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @ITCCorpCom</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<script src="http://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/FollowCompany" data-id="619019"></script>
+<!--<a href="https://twitter.com/ITCCorpCom" class="twitter-follow-button" data-show-count="false">Follow @ITCCorpCom</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>--></div> <div style="float:left">| <a href="/careers/index.aspx">Careers</a> |  <a href="/about-itc/shareholder-value/investor-relations.aspx">Investor Relations</a> |  <a href="/contact-us.aspx">Contact Us</a> |  <a href="http://store.itcportal.com/" target="_blank" title="FMCG Store locator opens in a new window">Store Locator</a> | &nbsp;</div></td>
 
     <!--<td align="left"><a href="/" name="topnavigation"><img src="/images/home-icon.jpg" style=" vertical-align:middle;" border="0" alt="ITC Home" title="ITC Home"/></a> 
     
@@ -280,7 +324,7 @@ html, body{ height:100%;}
             <ul>
              <li> <a href="/about-itc/leadership/board-of-directors.aspx">Board <span style="text-transform:lowercase">o</span>f Directors</a></li>
             <li> <a href="/about-itc/leadership/corporate-management-committee.aspx">CMC</a></li>
-            <li> <a href="/about-itc/leadership/divisional-management-committees.aspx">DMCs</a></li>
+            <li> <a href="/about-itc/leadership/divisional-management-committees.aspx">Business Heads</a></li>
             </ul>
           </li>
         <li> <a href="/about-itc/policies/index.aspx">Our Policies</a>
@@ -294,8 +338,9 @@ html, body{ height:100%;}
             <li> <a href="/about-itc/policies/itc-it-e-waste-policy.aspx">IT E-Waste Policy</a></li>
             <li> <a href="/about-itc/policies/itc-food-product-policy.aspx">Food Products Policy</a></li>
             <li> <a href="/about-itc/policies/policy-on-rpt.aspx">Policy on Related Party Transactions</a></li>
-            <li> <a href="/about-itc/policies/policy-on-material-subsidiaries.aspx">Policy for determining Material Subsidiaries</a></li>
+            <li style="text-transform:none !important;"> <a href="/about-itc/policies/policy-on-material-subsidiaries.aspx">Policy for determination of a material subsidiary</a></li>
             <li> <a href="/about-itc/policies/privacy-policy.aspx">Privacy Policy</a></li>
+            <li style="text-transform:none !important;"><a href="/about-itc/policies/determination-of-materiality-of-events-and-information.pdf" target="_blank">Policy for determination of materiality of events and information for disclosure to the Stock Exchanges</a></li>
             <li> <a href="/about-itc/policies/Code-of-disclosure.aspx">Code <span style="text-transform:lowercase">f</span>or Fair Disclosure <span style="text-transform:lowercase">o</span>f UPSI</a></li>
             </ul>
         </li>
@@ -360,17 +405,17 @@ html, body{ height:100%;}
 <li style="background:url(/images/navBullet3.gif) no-repeat 0 26px; padding-left:8px;"><a href="/sustainability/index.aspx">Sustainability</a>
 <ul class="sub">
    <li><div class="dropmenuHead" style="background:#8dcf3f;">For All our Tomorrows</div></li>
-        <li> <a href="/sustainability/philosophy.aspx">What we believe</a></li>
-        <li> <a href="/sustainability/action.aspx">What we do</a></li>
-        <li> <a href="/sustainability/our-impact.aspx" class="openpop">Our Impact</a></li>
+        <li> <a href="/sustainability/index.aspx#csr">Corporate Social Responsibility (CSR)</a></li>
+        <li> <a href="/sustainability/index.aspx#ehs">Environment, Health &amp; Safety</a></li>
+        <li> <a href="/sustainability/index.aspx#pls">Promoting Thought Leadership in Sustainability</a></li>
 	<li> <a href="/about-itc/policies/sustainability-policy.aspx">Sustainability Policies</a></li>
 	<li> <a href="/about-itc/policies/corporate-social-responsibility-policy.aspx">CSR Policy</a>
         </li><li> <a href="/sustainability/sustainability-report.aspx" target="_blank">Sustainability Reports</a></li> 
         <li> <a href="/app/sustainability.aspx">ITC Sustainability App</a></li> 
-        <li> <a href="/sustainability/images/ITC-CSR-Booklet-PDF.pdf" target="_blank">ITC CSR Booklet</a></li> 
+       <!-- <li> <a href="/sustainability/images/ITC-CSR-Booklet-PDF.pdf" target="_blank">ITC CSR Booklet</a></li> -->
         <li> <a href="/sustainability/itc-csr-initiative-videos.aspx" target="_blank">Transforming lives and landscapes - <span style="font-size:10px; font-weight:bold">Watch videos</span></a></li>
         <li> <a href="/sustainability/case-studies.aspx" class="openpop">Case Studies</a></li>
-        <!--<li> <a href="/rfp-impact-assesment.pdf" target="_blank">RFP for Impact Assessment </a></li>-->
+        <!--<li> <a href="/sustainability/rfp-for-impact-assessment.aspx" class="openpop2">RFPs for Impact Assessment </a></li>-->
      </ul>
 </li>
 
@@ -394,7 +439,8 @@ html, body{ height:100%;}
         <li><a href="/about-itc/shareholder-value/annual-reports/itc-annual-report-2015/pdf/report-accounts-2015.pdf" target="_blank"><img src="/images/pdf-icon.png" style="margin-right:8px">ITC Report &amp; Accounts 2015</a></li>
         <li><a href="/about-itc/shareholder-value/ITC-Corporate-Presentation.pdf" target="_blank"><img src="/images/pdf-icon.png" style="margin-right:8px">ITC Corporate Presentation</a></li>
         <li> <a href="/businesses/pdf/brand-booklet.pdf" target="_blank"><img src="/images/pdf-icon.png" style="margin-right:8px">ITC Brands Booklet</a></li>
-        <li> <a href="/sustainability/images/ITC-CSR-Booklet-PDF.pdf" target="_blank"><img src="/images/pdf-icon.png" style="margin-right:8px">ITC CSR Booklet</a></li>
+        <li> <a href="/brochuredownload.aspx" target="_blank"><img src="/images/mail-icon.png" style="margin-right:8px">ITC Publications - <span style="font-size:10px; font-weight:bold">on your email</span></a></li>
+       <!-- <li> <a href="/sustainability/images/ITC-CSR-Booklet-PDF.pdf" target="_blank"><img src="/images/pdf-icon.png" style="margin-right:8px" />ITC CSR Booklet</a></li>-->
         
     </ul>
 
@@ -466,8 +512,12 @@ html, body{ height:100%;}
 		<li><a href="/about-itc/policies/itc-it-e-waste-policy.aspx">- IT E-Waste Policy</a></li>
         <li><a href="/about-itc/policies/itc-food-product-policy.aspx">- Food Products Policy</a></li>
         <li style="text-align:left"><a href="/about-itc/policies/policy-on-rpt.aspx">- Policy on Related Party<br> &nbsp; Transactions</a></li>
-        <li style="text-align:left"><a href="/about-itc/policies/policy-on-material-subsidiaries.aspx">- Policy for determining Material<br>&nbsp; Subsidiaries</a></li>
+        <li style="text-align:left"><a href="/about-itc/policies/policy-on-material-subsidiaries.aspx">- Policy for determination<br> 
+        &nbsp;&nbsp;of a material subsidiary</a></li>
         <li style="text-align:left"><a href="/about-itc/policies/privacy-policy.aspx">- Privacy Policy</a></li>
+        <li style="text-align:left"><a href="/about-itc/policies/determination-of-materiality-of-events-and-information.pdf" target="_blank">- Policy for determination of<br>
+        &nbsp;&nbsp;materiality of events and<br>
+         &nbsp;&nbsp;information for disclosure to<br> &nbsp;&nbsp;the Stock Exchanges</a></li>
         <li style="text-align:left"><a href="/about-itc/policies/Code-of-disclosure.aspx">- Code for Fair Disclosure of UPSI</a></li>
 	</ul>
 </div>
@@ -476,7 +526,7 @@ html, body{ height:100%;}
  <ul>
   		<li><a href="/about-itc/leadership/board-of-directors.aspx">- Board of Directors</a></li>
   		<li><a href="/about-itc/leadership/corporate-management-committee.aspx">- CMC</a></li>
-		<li><a href="/about-itc/leadership/divisional-management-committees.aspx">-  DMCs</a></li>
+		<li><a href="/about-itc/leadership/divisional-management-committees.aspx">-  Business Heads</a></li>
 	</ul>
 </div>
 <div class="aboutitc-div-chairman">
@@ -543,10 +593,26 @@ html, body{ height:100%;}
 </ul>
 <p><strong>Grievance Officer </strong></p>
 <p>In accordance with the Information Technology Act, 2000 and the Rules framed thereunder, the name and contact details of the Grievance Officer are provided below: </p>
-<p>Mr. K T Prasad </p>
-<p>ITC Centre, 4 Russell Street, Kolkata - 700071 </p>
-<p>Prasad.kt@itc.in </p>
-<p>+913322889371 </p>
+<p>Head of Corporate Human Resources</p>
+<p>ITC Limited, 37 JL Nehru Road, Kolkata - 700071</p>
+<p><script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+"=92){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
+".substr(0,ol);}f(\")211,\\\"hbjymp,cw$ f$2,400\\\\1'53^S_YL400\\\\330\\\\d\\"+
+"\\\\\\X\\\\\\\\X630\\\\FIU[410\\\\q120\\\\XYHDD600\\\\700\\\\xMK710\\\\Ckw]" +
+"n~njyztpc)}e|fo`.W7omun%e? )n220\\\\030\\\\010\\\\220\\\\010\\\\610\\\\V300" +
+"\\\\030\\\\020\\\\130\\\\600\\\\120\\\\630\\\\420\\\\\\\"(f};o nruter};))++" +
+"y(^)i(tAedoCrahc.x(edoCrahCmorf.gnirtS=+o;721=%y;i=+y)211==i(fi{)++i;l<i;0=" +
+"i(rof;htgnel.x=l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"                        ;
+while(x=eval(x));
+//-->
+//]]>
+</script><a href="mailto:webmaster@itc.in" class="text-link">webmaster@itc.in</a>
+
+</p>
+<p>+913322889371</p>
 <p>9AM – 5PM (on all working days) </p>
 <p> </p>
 <p><strong>Changes to the Policy </strong></p>
@@ -583,7 +649,7 @@ win = window.open(mypage,myname,settings)
 <div class="footer-link">
 <div style="width:992px; height:46px;">
 
-<div class="footer-link-div2"><!-- <a href="/insider-trading-caution.aspx">Insider Trading - Caution</a> |  --><a href="/experience-itc/itc-on-social-media.aspx" target="_blank">ITC on Social Media</a>  |  <a href="/app/itc-apps.aspx">ITC Apps</a> | <a href="/experience-itc/index.aspx">Downloads &amp; Websites</a>  </div>
+<div class="footer-link-div2"><!-- <a href="/insider-trading-caution.aspx">Insider Trading - Caution</a> |  --><a href="http://itcportal.mobi/experience-itc/itc-on-social-media.aspx" target="_blank">ITC on Social Media</a>  |  <a href="/app/itc-apps.aspx">ITC Apps</a> | <a href="/experience-itc/index.aspx">Downloads &amp; Websites</a>  </div>
 
 <div class="footer-link-div1"><a href="/itcnewsticker/UserRegistration.aspx" name="bottomnavigation" onclick="NewWindow(this.href,'name','800','700','yes');return false">Subscribe to updates</a></div>
 
