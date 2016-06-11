@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpsolver.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210194941id_/http%3A//www.wpsolver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsolver.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611214542id_/http%3A//www.wpsolver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WP Solver
 
