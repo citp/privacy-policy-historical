@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilo.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004064829id_/http%3A//tamilo.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilo.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611052554id_/http%3A//tamilo.com/Privacy.html) for the most accurate reproduction.*
 
 # Tamilo.com Privacy Policy
 
@@ -41,7 +41,7 @@ We (or our partners) may use or support cookies for purposes including the follo
   * For more information about disabling and controlling third-party cookies in your browser, visit: <http://www.aboutcookies.org/Default.aspx?page=1>
   
 
-  * For more information on nRelate and opting out of browser history tracking, visit: <http://nrelate.com/privacy-policy/>
+  * For more information on nRelate and opting out of browser history tracking 
 
 
 
