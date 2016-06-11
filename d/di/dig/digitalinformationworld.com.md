@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digitalinformationworld.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119114753id_/http%3A//www.digitalinformationworld.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalinformationworld.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611115425id_/http%3A//www.digitalinformationworld.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at irfanahmad1989@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at irfan@digitalinformationworld.com.
 
 At [www.digitalinformationworld.com](http://www.digitalinformationworld.com/), the privacy of our visitors is of extreme importance to us. This privacy policy page outlines the types of personal information is received and collected by www.digitalinformationworld.com and how it is used.
 
