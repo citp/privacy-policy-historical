@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoutmob.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609084623id_/http%3A//scoutmob.com/privacy%3Fref%3Dftr_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutmob.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611223237id_/http%3A//scoutmob.com/privacy%3Fref%3Dftr_privacy) for the most accurate reproduction.*
 
 # Unique Gifts I Unique Gift Ideas I Scoutmob
 
