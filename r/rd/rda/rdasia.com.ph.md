@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rdasia.com.ph privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505201602id_/http%3A//www.rdasia.com.ph/privacy-policy%3Ficm%3Dfooter%26icn%3DPrivacy%252BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdasia.com.ph privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611081448id_/http%3A//www.rdasia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest Asia
+
+## TO SERVE YOU BETTER… 
 
 PRIVACY POLICY OF READER'S DIGEST ASIA PTE. LTD. Our contact information is: The Privacy Office, Reader's Digest, P.O. Box 600, Singapore Post Centre, Singapore 914020. You can also fax to 67491312, or email to [friends@rdasia.com.sg](mailto:friends@rdasia.com.sg)
 
@@ -33,7 +35,7 @@ RD makes use of "cookies" to make our website perform better. A "cookie" is a fe
 
 **Security**
 
-When you begin to place credit card details on the RD Online Store or RD microsites, a secure system software called "socket security layer" (SSL) encrypts all information you input before it is sent to us.
+When you begin to place credit card details on the RD Online Store or RD microsites, a secure system software called "Secure Sockets Layer" (SSL) encrypts all information you input before it is sent to us.
 
 **Third party links**
 
