@@ -1,54 +1,83 @@
-> *The following text is extracted and transformed from the dailysmspk.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210000533id_/http%3A//dailysmspk.net/privacy-policy-of-dailysmspk-net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysmspk.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611085937id_/http%3A//dailysmspk.net/privacy-policy-of-dailysmspk-net) for the most accurate reproduction.*
 
 # Privacy Policy | DailysmsPK.Net
 
-Welcome to DailySMSPK.Net – This Privacy Statement Discloses the Privacy Practices for All Pages and Services Offered by DailySMSPK.Net
+We consider the privacy of our visitors to be extremely important. This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-### **– Terms of Services**
+**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://dailysmspk.net
 
-  * You are using this website indicates that you are accepting this legal notice in it’s pure form. More, this privacy policy maybe changed or updated at our discretion at any time and your continued use of our website shows your acceptance of any changes or updates.
-  * The information published in this page is for purely informational and enlightenment purpose.
-  * You are responsible for verifying the accuracy of information, images, text, multimedia, advertisements and contents solely.
-  * As far as, content or third party products advertisements concern, we are not responsible or liable in any manner.
-  * For any technical malfunction or other problems that may occur while using this website, we are not responsible.
-  * We will not be liable to you or any third party for any indirect, consequential, exemplary, incidental or punitive damages.
-  * The Publisher and/or the author do not warrant or represent at any time that the information given here are accurate due to the rapidly changing nature of the Internet.
-  * While all attempts have been made to verify information provided in this publication, the Publisher and/or author assumes no responsibility for error, omissions, or contrary interpretation of the subject matter here in.
+### **Information Collection And Use**
 
+While using our web site **DailySMSpk.Net** , we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address (“Personal Information”).
 
+### **Log Data**
 
-### **– Personally Provided Information  
-**
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-You do not have to give us personal information to visit DailySMSPK.Net. If you choose to provide us with additional information through an e-mail message, inquiry form, comments, etc., we will only maintain the information as long as needed to respond to your question, inquiry, or to fulfill the stated purpose of the communication. Except for authorized law enforcement investigations, we do not give, share, sell or transfer any personal information to a third party.
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-### **– Website Traffic Analysis Software  
-**
+### **Cookies**
 
-For site security purposes and to ensure that this service remains available to all users, we use software programs (such as google analytics) to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. We also monitor our traffic to analyze visitors’s information, such as, but not limited to, operating system, browsers, screen resolutions, ISPs, geo locations and similar.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our website.
 
-### **– Use of Cookies**
+### **Web Beacons**
 
-When you view our Web site we might store some information on your computer. This information will be in the form of a “cookie” or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a Web site as easily as possible.
+These are bits of data that count the number of users who access a website or webpage and can also allow us to see if a cookie has been activated. Web beacons used on web pages or in emails allow us to see how successful an article has been or that an email message was successfully delivered and read in a marketing campaign. Web beacons are also used to verify any clicks through to links or advertisements contained in emails.
 
-### **– Third Party Advertising Partners**
+We may use this information to help us identify which emails are more interesting to you and to inform advertisers how many customers have clicked on their adverts (this information is aggregated and does not identify you individually).
 
-All users of DailySMSPK.Net must keep this in mind that third parties may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving on DailySMSPK.Net. Media.Net Advertising Ltd also placed ads on our website. [Read privacy policy](http://www.media.net/privacy-policy) of media.net company.
+### **DoubleClick Cookie**
 
-For, instance one of our partners, Google uses the [ DoubleClick DART Cookie](http://www.google.com/doubleclick/) on DailySMSPK.Net displaying AdSense for content ads. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/policies/technologies/ads/). Similarly, other advertising partners may use their respective cookies to track advertising stats.
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-**[Read More About Google’s Cookies Policy](http://www.google.com/policies/technologies/cookies/)**
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page.
 
-### **– Security**
+**[Read More About How Google Uses Cookies](http://www.google.com/policies/technologies/cookies/)**
 
-Our site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as “perfect security” on the Internet, we will take all reasonable steps to insure the safety of your personal information.
+### **Communications**
 
-### **– External Links**
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-Our web sites contain links to other sites. DailySMSPK.Net is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personal information.
+### **Compliance With Laws**
 
-**Note:** If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please [contact us](http://dailysmspk.net/contact-us/).
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
 
-**Last updated:** September 24th, 2015
+### **Security**
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+### **International Transfer**
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Pakistan and choose to provide information to us, please note that we transfer the information, including Personal Information, to Pakistan and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+### **Links To Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+### **Children’s Privacy** **(COPPA)**
+
+Our Service does not address anyone under the age of 13 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+### **Changes To This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+### **Contact Us**
+
+If you have any questions about this Privacy Policy, please **[contact us](http://dailysmspk.net/contact-us/).**
+
+**Last Updated:** 16 February 2016
+
+* * *
