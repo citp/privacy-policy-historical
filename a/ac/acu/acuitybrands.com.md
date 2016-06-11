@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acuitybrands.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212194046id_/http%3A//www.acuitybrands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuitybrands.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611031305id_/http%3A//www.acuitybrands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,4 +34,4 @@ Acuity Brands does not knowingly collect or maintain any personal information fr
 
 We reserve the right to amend this Privacy Policy and will post any revisions on the Site.
 
-Questions or comments about this Privacy Policy or the practices of the Site, or requests to opt out from any promotional communications, should be directed to [CorporateCompliance@acuityBrands.com](mailto:CorporateCompliance@acuityBrands.com?subject=Comments%20about%20Privacy%20Policy%20AB.com). If your personal information changes, and you wish to update or delete the personal information that we maintain about you, you may also email us at [CorporateCompliance@acuityBrands.com](mailto:CorporateCompliance@acuityBrands.com?subject=Personal%20Info%20Change).
+Questions or comments about this Privacy Policy or the practices of the Site, or requests to opt out from any promotional communications, should be directed to [CorporateCompliance@acuityBrands.com](mailto:CorporateCompliance@acuityBrands.com). If your personal information changes, and you wish to update or delete the personal information that we maintain about you, you may also email us at [CorporateCompliance@acuityBrands.com](mailto:CorporateCompliance@acuityBrands.com).
