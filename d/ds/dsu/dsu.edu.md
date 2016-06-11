@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsu.edu privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211115310id_/http%3A//dsu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsu.edu privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611125840id_/http%3A//dsu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | Dakota State University
 
@@ -20,7 +20,7 @@ DSU complies with the Family Educational Rights and Privacy Act (FERPA).
 
 For the purpose of site administration, Dakota State University collects information for analytical and statistical purposes of website navigation. This does not include personal information linked to a particular individual, the data is cumulative and individuals are unidentifiable. Information that may be recorded includes Internet protocol (IP) addresses, browser software, interests, browsing patterns, search terms, demographic and geographic data.
 
-This information is used to help identify technical problems, determine technical specificiations, provide the most relevent information to users, better the end user's experience, and other administrative functions.
+This information is used to help identify technical problems, determine technical specifications, provide the most relevant information to users, better the end user's experience, and other administrative functions.
 
 Visitors of our website may choose whether or not to provide personal information via the official DSU website. If visitors choose not to provide this information, certain options, offers or other services may not be accessible.
 
