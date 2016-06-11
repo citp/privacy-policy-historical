@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actblue.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060707id_/https%3A//secure.actblue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actblue.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611112651id_/https%3A//secure.actblue.com/privacy) for the most accurate reproduction.*
 
 # ActBlue — privacy
 
@@ -14,7 +14,7 @@ Also, you may choose to receive occasional e-mail updates as we develop ActBlue.
 
 ### Information Collected by ActBlue
 
-When you contribute to candidates, causes and committees on ActBlue, we are required to collect your **name, postal address, phone number, email address, occupation, employer, and employer's address** , and to send this information along with your donation. We also record this information alongside your **contribution amounts and recipients** in our reports to the FEC or the respective state agency. Each candidate or committee receiving your donations may also include this information in their campaign finance reports.ActBlue submits its campaign finance reports on a rolling basis, as required by state and/or federal law. FEC reports containing this information are publicly available from the [FEC web site](http://www.fec.gov/). State reports are typically available through the state agency designated to oversee campaigns and elections. ActBlue does not publicly report your social welfare giving. 
+When you contribute to candidates, causes and committees on ActBlue, we are required to collect your **name, postal address, phone number, email address, occupation, employer, and employer's address** , and to send this information along with your donation. We also record this information alongside your **contribution amounts and recipients** in our reports to the FEC or the respective state agency. Each candidate, committee, or organization receiving your donations may also include this information in their regulatory reports. ActBlue submits its campaign finance reports on a rolling basis, as required by state and/or federal law. FEC reports containing this information are publicly available from the [FEC web site](http://www.fec.gov/). State reports are typically available through the state agency designated to oversee campaigns and elections. ActBlue does not publicly report your charitable or social welfare giving. 
 
 ### Credit Card Information
 
