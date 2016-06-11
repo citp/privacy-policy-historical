@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aicr.org privacy policy that was archived on 2015-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209195108id_/http%3A//www.aicr.org/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aicr.org privacy policy that was archived on 2016-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611101726id_/http%3A//www.aicr.org/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -8,7 +8,7 @@
 
 
 <meta name="generator" content="Convio CMS"> 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5BJGHW"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5BJGHW"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
 
 
 <script language="JavaScript" type="text/javascript" src="/components/print/printer-friendly.js"></script>
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '1414:0';
-CONVIO.pageSessionID = '04265E8C1E162EAAE44870EDAFD32EE2.app20101b';
+CONVIO.pageSessionID = '0F754B56E0CF9868BA8353B82D7B6E2E.app273b';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1449690668244"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1465640246417"></script>
 <script type="text/javascript">
 
 
@@ -141,25 +141,6 @@ qacct:"p-29zVG5XNCxaPQ"
 <!-- End Quantcast tag -->
 
 
-<!-- Google Analytics header tag -->
-
-<script type="text/javascript">
-  var _gaq = _gaq || [];
- if (CONVIO.referrer.length > 0) {  _gaq.push(['_setReferrerOverride', CONVIO.referrer]); }
-  _gaq.push(['_setAccount', 'UA-2541884-1']);
-  _gaq.push(['_setDomainName', 'none']);
-  _gaq.push(['_setAllowLinker', true]);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-
-
-<!-- End analytics tag -->
 
 <!-- Begin Google Unfiltered analytics -->
 
@@ -201,6 +182,9 @@ qacct:"p-29zVG5XNCxaPQ"
 #content-social img {
 	clear: both;
 	float: left;
+}
+@media screen and (max-width: 1079px) {
+      #content-social {display:none;}
 }
 </style>
 
@@ -248,17 +232,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <!-- New version uses Bootstrap (.col-xs-12) for additional display properties. Inline styles put in temporarily to compensate. -->
     <div class="hp-donate-now clearfix" style="width: 23%; margin-left: 15px; float: left;">
-       
+    <!--  <t:if test="user.isanonymous == true"> -->
         <!-- CONTENT FOR NON LOGGED IN USERS -->
         <div class="login-top login-hp_donate" style="width: 100%; display: inline-block; position: relative; padding-left: 0; padding-right: 0;"><a class="hp-donate-btn" role="button" href="http://preventcancer.aicr.org/site/Donation2?df_id=12380&amp;12380.donation=form1&amp;s_src=footer">Donate Now</a></div>
         <div class="hp-login-btmlinks" style="width: 100%; display: inline-block; position: relative; padding-left: 0; padding-right: 0;">
           <ul>
             <li><a href="http://www.aicr.org/planned-giving/planned-giving-highlights.html" class="link">Planned Giving</a></li>
-            <li class="last"><a href="http://www.aicr.org/honor-memorial/" class="link">Memorial Gifts</a></li>
+            <li><a href="http://www.aicr.org/honor-memorial/" class="link">Memorial Gifts</a></li>
+            <li class="last"><a href="http://aicr.careasy.org/HOME.html?utm_campaign=cars&amp;utm_medium=web&amp;utm_source=menulink&amp;s_src=cars&amp;s_subsrc=menulink" class="link">Car Donations</a></li>
           </ul>
         </div>
-      
-      
+    <!--  </t:if>
+      <t:else> -->
+        <!-- CONTENT FOR LOGGED IN USERS -->
+    <!--    <div class="login-top login-hp_logo" style="width: 100%; display: inline-block; position: relative; padding-left: 0; padding-right: 0;">
+          <img class="img-responsive" src="https://secure2.convio.net/aicr/images/content/pagebuilder/HP-logo-small.png?t=1435861219339" />
+        </div>
+        <div class="login-hp_user" style="width: 100%; display: inline-block; position: relative; padding-left: 0; padding-right: 0;"> Welcome, <t:value id="user.firstname"></t:value>!</div>
+        <div class="hp-login-btmlinks" style="width: 100%; display: inline-block; position: relative; padding-left: 0; padding-right: 0;">
+          <ul>
+            <li><a href="http://www.aicr.org/health-professionals" class="link">HP Home</a></li>
+            <li id="default_02"><div id="sign-out-652562591" class="templateComponent" style="display: inline;"></div></li>
+            <li class="last"><a class="link" href="http://www.aicr.org/health-professionals/ConsProfileUser/?op.dispConsPasswd=&NEXTURL=http://www.aicr.org/health-professionals/">Change Password</a></li>
+          </ul>
+        </div>
+      </t:else> -->
     </div>
     
     <!-- ============================= Original Buttons -->
@@ -272,7 +270,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <div class="clear"></div>
       <ul>
         <li><a href="http://www.aicr.org/planned-giving/planned-giving-highlights.html" class="link">Planned Giving</a></li>
-        <li class="last"><a href="http://www.aicr.org/honor-memorial/" class="link">Memorial Gifts</a></li>
+        <li><a href="http://www.aicr.org/honor-memorial/" class="link">Memorial Gifts</a></li>
+        <li class="last"><a href="http://aicr.careasy.org/HOME.html?utm_campaign=cars&utm_medium=web&utm_source=menulink&s_src=cars&s_subsrc=menulink" class="link">Car Donations</a></li>
       </ul>
       <div class="clear"></div>
     </div>
@@ -299,7 +298,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		    	<li><a href="http://www.aicr.org/patients-survivors/" title="HOMEPAGE Patients &amp; Survivors"><span>Cancer Patients and Survivors</span></a></li>
 				<li><a href="http://www.aicr.org/research/" title="Researchers HOMEPAGE"><span>Researchers</span></a></li>
 				<li><a href="http://www.aicr.org/health-professionals/" title="Health Professionals Homepage-New"><span>Health Professionals</span></a></li>
-				<li><a href="http://www.aicr.org/press/" title="HOME Press"><span>Press</span></a></li>
+				<li><a href="http://www.aicr.org/press/"><span>Press</span></a></li>
 				<li><a href="http://www.aicr.org/supporters/" title="homepage_supporters"><span>Supporters</span></a></li>
 				<li><a href="http://www.aicr.org/planned-giving/estate-planning/" title="Estate Planning"><span>Estate Planners</span></a></li>
 				<li><a href="http://www.aicr.org/publications/epubs.html" title="Subscribe to EPubs"><span>Subscribe to Email</span></a></li>
@@ -309,7 +308,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		                <li><a href="http://www.aicr.org/publications/aicr-publications/aicr_publications_bulk.html" title="Bulk Order Publications"><span>Bulk Order Publications</span></a></li>
 		                <li><a href="http://www.aicr.org/site/Ecommerce?store_id=8021&amp;VIEW_CATALOG=true&amp;FOLDER=0&amp;TYPE=&amp;NAME="><span>Shop AICR</span></a></li>
 		                <li><a href="http://www.aicr.org/health-at-work/"><span>Health @ Work</span></a></li>
-		                <li><a href="http://www.aicr.org/test-kitchen/"><span>Healthy Recipes</span></a></li>
+		                <li><a href="http://www.aicr.org/test-kitchen/" title="Redirect to Healthy Recipes"><span>Healthy Recipes</span></a></li>
 		                <li><a href="http://www.aicr.org/cancer-research-update/"><span>Cancer Research Update</span></a></li>
 		                <li><a href="http://www.aicr.org/enews/"><span>AICR eNews</span></a></li>
 		                <li><a href="http://www.aicr.org/publications/newsletter/aicr_publications_newsletter.html" title="Print Newsletter home"><span>AICR Newsletter</span></a></li>
@@ -352,7 +351,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	            <li><a href="http://aicr.org/honor-memorial"><span>Honor &amp; Memorial Wall</span></a></li>
 	            <li><a href="http://preventcancer.aicr.org/site/Donation2?df_id=10920&amp;10920.donation=form1&amp;s_src=ddm"><span>Gift in Memory</span></a></li>
 	            <li><a href="http://preventcancer.aicr.org/site/Donation2?df_id=11000&amp;11000.donation=form1&amp;s_src=ddm"><span>Gift in Honor</span></a></li>
-	            <li><a href="http://www.aicr.org/how-you-can-help/donate-monthly/" title="help_donate_monthly_home"><span>Donate Monthly</span></a></li>
+	            <li><a href="http://www.aicr.org/how-you-can-help/donate-monthly/" title="help_donate_monthly_home_staging"><span>Donate Monthly</span></a></li>
 	            <li><a href="http://preventcancer.aicr.org/site/TR/Events/eCommerce?pg=tgreeting&amp;fr_id=1060"><span>Create a Tribute</span></a></li>
 	            <li><a href="http://www.aicr.org/how-you-can-help/get-involved/weddings/" title="Weddings Home"><span>Wedding Favors</span></a></li>
 	            <li><a href="http://www.aicr.org/how-you-can-help/get-involved/team-aicr/home.html" title="HOME"><span>Get Involved</span></a></li>
@@ -360,6 +359,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	            <li><a href="http://www.aicr.org/planned-giving/" title="Index"><span>Planned Giving</span></a></li>
 	            <li><a href="http://www.aicr.org/planned-giving/estate-planning/" title="Estate Planning"><span>Estate Planners Corner</span></a></li>
 	            <li><a href="http://www.aicr.org/how-you-can-help/corporate_home.html" title="Corporate HOME"><span>Corporate Partnerships</span></a></li>
+                    <li><a href="http://aicr.careasy.org/HOME.html?utm_campaign=cars&amp;utm_medium=web&amp;utm_source=menulink&amp;s_src=cars&amp;s_subsrc=menulink"><span>Vehicle Donation</span></a></li>
 	            <li class="last"><a href="http://www.aicr.org/planned-giving/endowment-funds.html" title="Endowment Funds"><span>Endowments</span></a></li>
 	        </ul>
 		</li>
@@ -563,6 +563,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <li><a href="http://www.aicr.org/planned-giving/"><span>Planned Giving</span></a></li>
           <li><a href="http://www.aicr.org/planned-giving/estate-planning/"><span>Estate Planners Corner</span></a></li>
           <li><a href="http://www.aicr.org/how-you-can-help/corporate_home.html"><span>Corporate Partnerships</span></a></li>
+          <li><a href="http://aicr.careasy.org"><span>Vehicle Donation</span></a></li>
           <li class="last"><a href="http://www.aicr.org/planned-giving/endowment-funds.html"><span>Endowments</span></a></li>
         </ul>
       </li>
@@ -685,28 +686,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    
    
     <li class=""><a href="http://www.aicr.org/health-professionals/health-professionals-home.html">Health Professionals</a></li>
-   
-   
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-    
-   
-   
-    <li class=""><a href="http://www.aicr.org/press/">Press</a></li>
    
    
 
@@ -983,7 +962,7 @@ p {font-size: 16px;}
             $('div.span12.mod-main-page-content h1').first('h1').after('<p style="text-align: right; font-size: .9em; font-style: italic; display: block; margin-bottom: 5px;">'+hey_you+'</p>'); 
           }
           if( window.location.href.indexOf("health-at-work") > -1 ) {
-            var hey_you = 'This article appears in the <a href="'+issue_url+'"> issue</a> of <a href="'+type_url+'">AICR\'s Health@Work</a>.';
+            var hey_you = '<!--This article appears in the <a href="'+issue_url+'"> issue</a> of <a href="'+type_url+'">AICR\'s Health@Work</a>.-->';
             $('.issue').html(hey_you);
             $('div.span12.mod-main-page-content h1').first('h1').after('<p style="text-align: right; font-size: .9em; font-style: italic; display: block; margin-bottom: 5px;">'+hey_you+'</p>'); 
           }
@@ -1046,7 +1025,7 @@ p {font-size: 16px;}
 
 
 
-<p style="font-size: .8em; float: right; font-style:italic;">Published on </p>
+<p class="date-issued" style="font-size: .8em; float: right; font-style:italic;">Published on </p>
 <p class="issue" style="float: left; font-size: .9em; font-style: italic;"></p>
 
 
@@ -1216,7 +1195,7 @@ CONVIO.user.isAnonymous = true;
       <li><a href="http://www.aicr.org/about/facts-you-should-know-about-telemarketing.html">Do Not Call Policy</a></li>
       <li class="last"><a href="http://www.aicr.org/about/aicr_terms_of_service.html">Terms of Service</a></li>
     </ul>
-    <div> <em> ©2015 American Institute for Cancer Research</em>
+    <div> <em> ©2016 American Institute for Cancer Research</em>
       <div class="search-site">
         <form name="searchForm" id="searchForm" action="http://www.aicr.org/site/Search" method="get" _lpchecked="1">
           <span>Search The Site:</span>
@@ -1262,6 +1241,9 @@ CONVIO.user.isAnonymous = true;
 <!-- END: Powered By -->
 </div>
 </div>
+
+<script type="text/javascript" src="//cdn.rkd.io/abd/abd.js"></script>
+
 <script src="http://preventcancer.aicr.org/js/aicr2/jquery.cookie.js"></script> 
 <script>
       jQuery(document).ready(function($) {
@@ -1321,6 +1303,6 @@ var google_remarketing_only = true;
 </noscript>
 
 
-<!-- 10.12.0.42:8901 -->
+<!-- 10.12.0.40:8901 -->
 
 </body></html>
