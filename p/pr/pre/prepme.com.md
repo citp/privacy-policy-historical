@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the prepme.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212024304id_/http%3A//www.naviance.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepme.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611033543id_/http%3A//www.naviance.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-This statement discloses the privacy practices for the Hobsons® website, located at www.naviance.com (the “Site”). By using a Site, you agree to the collection, use and disclosure of your personal information as described in this statement. If you do not agree to the terms of this statement, then please do not use a Site or such publications.
+**_In response to feedback from our clients and the students and parents we serve, Hobsons will update the Naviance Privacy Policy to make it easier to understand. The new policy will take effect on June 23, 2016.[Learn more](http://naviance.com/privacy-policy-faqs)._**
+
+* * *
+
+This statement discloses the privacy practices for the Hobsons® website, located at [www.naviance.com](http://www.naviance.com/) (the “Site”). By using a Site, you agree to the collection, use and disclosure of your personal information as described in this statement. If you do not agree to the terms of this statement, then please do not use a Site or such publications.
 
 Naviance users: Please refer to the separate [Privacy Statement](https://succeed.naviance.com/signin.php?privacy=1) for the Naviance product.
 
-BY USING THE SITE (WWW.NAVIANCE.COM), YOU AGREE TO OUR COLLECTION, USE AND MAINTENANCE OF YOUR INFORMATION IN THE UNITED STATES.
+BY USING THE SITE ([WWW.NAVIANCE.COM](http://www.naviance.com/)), YOU AGREE TO OUR COLLECTION, USE AND MAINTENANCE OF YOUR INFORMATION IN THE UNITED STATES.  
+
 
 If you have any questions regarding this Privacy Statement, please send us an [e-mail](mailto:privacypolicy@hobsons.com) or contact us by mail at 50 E-Business Way, Suite 300 Cincinnati, OH 45241.
 
