@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fuse.tv privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224200739id_/http%3A//www.fuse.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuse.tv privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612074351id_/http%3A//www.fuse.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fuse
 
-FUSE, LLC ("FUSE", “we”, “us”, or “our”) has created this privacy policy (“Privacy Policy”) in order to demonstrate our firm commitment to the privacy of our users (“you” or “your”). The following discloses our information gathering and dissemination practices for [fuse.tv](http://www.fuse.tv/), [mynuvotv.com](http://www.mynuvotv.com/), and any other website under which we conduct business (collectively, the “Service”). This Privacy Policy is a part of the terms and conditions which are set forth in our Terms of Use. Any terms that are not defined in this Privacy Policy shall have the meaning given in our Terms of Use. Both this Privacy Policy and the Terms of Use are legally binding on all users.
+FUSE, LLC ("FUSE", “we”, “us”, or “our”) has created this privacy policy (“Privacy Policy”) in order to demonstrate our firm commitment to the privacy of our users (“you” or “your”). The following discloses our information gathering and dissemination practices for [FUSE.TV](http://www.fuse.tv/), [FM.TV](http://www.fm.tv/) and any other website under which we conduct business (collectively, the “Service”). This Privacy Policy is a part of the terms and conditions which are set forth in our Terms of Use. Any terms that are not defined in this Privacy Policy shall have the meaning given in our Terms of Use. Both this Privacy Policy and the Terms of Use are legally binding on all users.
 
 ## YOUR ACCEPTANCE OF THESE TERMS / MODIFICATIONS
 
@@ -81,7 +81,7 @@ Demographic and profile data is collected at our site. This information may be s
 
 ## YOUR CALIFORNIA PRIVACY RIGHTS
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding our disclosure of your personal information to third parties for the third parties' direct marketing purposes. With respect to these entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to privacy@mynuvotv.com or regular mail letter to the address below. The email subject line or letter envelope must be labeled "Your California Privacy Rights" and clearly stated on the actual request.
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding our disclosure of your personal information to third parties for the third parties' direct marketing purposes. With respect to these entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to  [privacy@fusemedia.com](mailto:privacy@fuse.tv) or regular mail letter to the address below. The email subject line or letter envelope must be labeled "Your California Privacy Rights" and clearly stated on the actual request.
 
 **FUSE**  
 700 N Central Ave   
@@ -91,7 +91,7 @@ c/o Privacy Administrator
 
 ## COMMUNICATIONS BETWEEN US AND YOU
 
-If you send us personal correspondence, such as through our contact page ( [http://www.mynuvotv.com/contact](http://www.fuse.tv/contact) ), emails or letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you. We may use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems and enforce our Terms of Use. We may send emails and newsletters to you, announcing special promotions, changes in our services, and other information we believe will be of interest to you. You will have the choice to opt-out of receiving future mailings.
+If you send us personal correspondence, such as through our contact page ( http://www.fm.tv/contact ), emails or letters, or if other users or third parties send us correspondence about your activities or postings on our site, we may collect such information into a file specific to you. We may use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems and enforce our Terms of Use. We may send emails and newsletters to you, announcing special promotions, changes in our services, and other information we believe will be of interest to you. You will have the choice to opt-out of receiving future mailings.
 
 ## NOT ELIGIBLE FOR OUR SERVICES: CHILDREN AND FOREIGN ACCESS
 
@@ -110,5 +110,5 @@ If you have any questions about this Privacy Policy, the practices of this Servi
 FUSE   
 700 N Central Ave.   
 Glendale, CA 91203   
-E-mail: [privacy@mynuvotv.com](mailto:privacy@myNUVOtv.com)  
+E-mail: [privacy@fusemedia.com](mailto:privacy@fuse.tv)  
 rev date: 9-28-2015
