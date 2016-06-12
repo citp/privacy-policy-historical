@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thisblewmymind.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206040507id_/http%3A//www.thisblewmymind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisblewmymind.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612084556id_/http%3A//www.thisblewmymind.com/privacy) for the most accurate reproduction.*
 
-# Privacy - This Blew My Mind
+# Privacy
 
 **Privacy Policy for www.thisblewmymind.com**
 
