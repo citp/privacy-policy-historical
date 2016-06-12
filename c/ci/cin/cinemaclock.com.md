@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinemaclock.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218004730id_/http%3A//www.cinemaclock.com/privacy/can/Canada/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemaclock.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612113914id_/http%3A//www.cinemaclock.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,6 +12,6 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 By using our Internet site, you are giving us your consent to our use of the information you provide to us as laid out in this privacy protection policy. 
 
-If you no longer want to receive e-mail messages from us, please [click here to contact us](https://web.archive.org/contact-us/can/Canada/Contact-us.html). By providing your personal information for the purposes specified above, you are giving us your permission for using this information accordingly. 
+If you no longer want to receive e-mail messages from us, please [click here to contact us](https://web.archive.org/contact-us). By providing your personal information for the purposes specified above, you are giving us your permission for using this information accordingly. 
 
 (rev. 2012-07-11) 
