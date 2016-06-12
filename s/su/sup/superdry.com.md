@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105065615id_/http%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613010917id_/http%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Superdry
-
-Dedicated website helpline: +44 (0)333 3212222
 
 ### privacy policy
 
@@ -64,6 +62,7 @@ We use your information for the following purposes:
   * To contact you by email, post, or telephone, to ask you for feedback and comments on our services
   * If you consent, to notify you by email of Group products, promotions, competitions and special offers that may be of interest to you.
   * Provide our blog to you and other users and to allow you to use and comment on our blog. 
+  * For our statistical, survey and customer service purposes to improve our site and blog and our services to you and other customers. 
 
 
 
@@ -75,7 +74,7 @@ We will not disclose your information to any third party outside of the Group ex
 
 We may disclose your personal information to carefully selected service providers and agents who operate elements of our web site service and process data on our behalf. These may include businesses who provide technology services such as hosting for our servers and email distribution and business partners who provide delivery fulfilment services.
 
-From time to time we may also provide your information to carefully selected customer service agencies for research and analysis purposes, on our behalf, so that we can monitor and improve the services we provide. If you consent, we or our agents, acting on our behalf, may contact you by post, email or telephone to ask you for your feedback and comments on our services.
+From time to time we may also provide your information to carefully selected customer service agencies for research and analysis purposes, on our behalf, so that we can monitor and improve the services we provide for you and other customers.
 
 Where such disclosures are made, this will be under contractual arrangements with us and carried out in accordance with the requirements of the Act.
 
