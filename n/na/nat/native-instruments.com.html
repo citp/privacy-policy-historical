@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the native-instruments.com privacy policy that was archived on 2015-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230163813id_/http%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the native-instruments.com privacy policy that was archived on 2016-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612132147id_/http%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -14,8 +14,8 @@
 <meta name="country" content="us">
 <meta content="none" property="msapplication-config">
 <meta content="1443952290,1791619710,633287099" property="fb:admins">
-<link rel="stylesheet" type="text/css" href="/typo3conf/ext/ni_assets/Resources/Public/Dist/site.css?1449073259" media="all">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-92L2"></script><script src="/typo3conf/ext/ni_assets/Resources/Public/Dist/site.js?1447344648" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/ni_assets/Resources/Public/Dist/site.css?1465210484" media="all">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-92L2"></script><script src="/typo3conf/ext/ni_assets/Resources/Public/Dist/site.js?1465210484" type="text/javascript"></script>
 <title>Legal Information : Privacy Policy | Company </title><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="shortcut icon" href="/typo3conf/ext/ni_assets/Resources/Public/Images/favicon.ico">
 <link rel="alternate" type="application/rss+xml" title="Native Instruments News Feed english" href="/en/news/rss/">
 <link rel="alternate" type="application/rss+xml" title="Native Instruments News Feed deutsch" href="/de/news/rss/">
@@ -27,14 +27,14 @@
 <!--[if lt IE 9]>
 <script type="text/javascript" src="/typo3conf/ext/ni_assets/Resources/Public/Js/ie8-info.js"></script>
 <![endif]-->
-<script>dataLayer=[{'pageCategory':'www','pageUrl':window.location.href,'country':Util.getCountry(),'lang':Util.getLang(),'loggedin':(Account.isLoggedIn())?'1':'0'}];</script>
+<script>dataLayer=[{'pageCategory':'www','pageUrl':window.location.href,'country':Util.getCountry(),'lang':Util.getLang(),'loggedin':(Util.getCookie('lg') != null)?'1':'0'}];</script>
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-92L2"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-92L2');var cacheKey='58ec354145fdfff4302bf2035049eb8b';</script>
+})(window,document,'script','dataLayer','GTM-92L2');var cacheKey='eaa125a44dfcc55b9e14464ccf32372f';</script>
 <header id="header" class="header">
 <a href="/en/" class="header-logo"></a>
 <button id="mainMenuToggle" class="btn btn-menu menu-link" type="button">
@@ -46,8 +46,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </span>
 <span class="clearfix"></span>
 </button>
-<div class="mobile-product-search-container">
-<div id="mobile-product-search" style="display:none;">
+<div id="mobile-product-search-container" class="mobile-product-search-container" style="display:none;">
+<div id="mobile-product-search">
 <form action="/en/products">
 <input class="mobile-product-search-input form-control" id="mobile-product-search-input" name="q" type="text" placeholder="Product Search">
 </form>
@@ -84,12 +84,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         Util.getBasketCount()
     );
 
-	var mobileSearch = jQuery('#mobile-product-search');
+	var mobileSearch = jQuery('#mobile-product-search-container');
 
     jQuery('#mainMenuToggle').click(function () {
-        jQuery('#top-navi').slideToggle(400, function () {
+        jQuery('#top-navi').fadeToggle(300, function () {
             if (mobileSearch.hasClass('in')) {
-                mobileSearch.slideToggle(400).toggleClass('in');
+                mobileSearch.fadeToggle(300).toggleClass('in');
             }
         }).toggleClass('in');
         jQuery('#hamburgerIcon').toggleClass('in');
@@ -151,7 +151,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </a>
 </li>
 <li>
-<a class="account-snippet-link" href="http://www.native-instruments.com/en/my-account/my-e-vouchers/">
+<a class="account-snippet-link" href="https://www.native-instruments.com/en/my-account/my-e-vouchers/">
                         My E-Vouchers
 </a>
 </li>
@@ -616,7 +616,7 @@ Any consent given to the processing of data may be revoked at any time and witho
 <footer id="footer" class="footer">
 <div class="footer-primary container">
 <div class="row">
-<div class="column1 col-xs-3 col-md-3">
+<div class="column1 col-xs-4 col-md-4">
 <span class="footer-column-headline headline-shop-service">
                  Shop &amp; service 
 </span>
@@ -639,27 +639,35 @@ Any consent given to the processing of data may be revoked at any time and witho
 </ul>
 <span>
 <a class="freeshipping country-us" href="/en/shop-information/shipping-fees-payment/">
-                        Free shipping worldwide
-                        *
+<span class="freeshipping__text">
+                        Free shipping*
+</span>
+<span class="freeshipping__logos"></span>
 </a>
 </span>
 </div>
-<div class="column2 col-xs-3 col-md-3">
-<span class="footer-column-headline">
+<div class="column2 col-xs-5 col-md-5">
+<span class="footer-column-headline hidden-xs">
                 Connect with us
 </span>
-<ul class="connect-container">
+<ul class="connect-container hidden-xs">
 <li>
 <a href="#" class="connect-facebook"></a>
 <ul class="connect-facebook-menu">
 <li>
-<a href="http://www.facebook.com/nikomplete" class="facebook-komplete" target="_blank"><span></span><span id="facebook-komplete-count"></span></a>
+<a href="http://www.facebook.com/nikomplete" class="facebook-komplete" target="_blank"><span>KOMPLETE</span><span id="facebook-komplete-count"></span></a>
 </li>
 <li>
-<a href="http://www.facebook.com/traktorpro" class="facebook-traktor" target="_blank"><span></span><span id="facebook-traktor-count"></span></a>
+<a href="http://www.facebook.com/traktorpro" class="facebook-traktor" target="_blank"><span>TRAKTOR</span><span id="facebook-traktor-count"></span></a>
 </li>
 <li>
-<a href="http://www.facebook.com/nimaschine" class="facebook-maschine" target="_blank"><span></span><span id="facebook-maschine-count"></span></a>
+<a href="http://www.facebook.com/nimaschine" class="facebook-maschine" target="_blank"><span>MASCHINE</span><span id="facebook-maschine-count"></span></a>
+</li>
+<li>
+<a href="http://www.facebook.com/nativeinstruments" class="facebook-ni" target="_blank"><span>NATIVE INSTRUMENTS</span><span id="facebook-ni-count"></span></a>
+</li>
+<li>
+<a href="http://www.facebook.com/playstems" class="facebook-stems" target="_blank"><span>STEMS</span><span id="facebook-stems-count"></span></a>
 </li>
 </ul>
 </li>
@@ -669,76 +677,84 @@ Any consent given to the processing of data may be revoked at any time and witho
 <a href="https://twitter.com/NI_News" class="twitter-ninews" target="_blank"><span>NI NEWS</span><span id="twitter-news-count"></span></a>
 </li>
 <li>
-<a href="https://twitter.com/Komplete" class="twitter-komplete" target="_blank"><span></span><span id="twitter-komplete-count"></span></a>
+<a href="https://twitter.com/Komplete" class="twitter-komplete" target="_blank"><span>KOMPLETE</span><span id="twitter-komplete-count"></span></a>
 </li>
 <li>
-<a href="https://twitter.com/Traktor" class="twitter-traktor" target="_blank"><span></span><span id="twitter-traktor-count"></span></a>
+<a href="https://twitter.com/Traktor" class="twitter-traktor" target="_blank"><span>TRAKTOR</span><span id="twitter-traktor-count"></span></a>
 </li>
 <li>
-<a href="https://twitter.com/NI_Maschine" class="twitter-maschine" target="_blank"><span></span><span id="twitter-maschine-count"></span></a>
-</li>
-<li><a href="https://twitter.com/NI_Job" class="twitter-nijob" target="_blank"><span>NI JOBS</span><span id="twitter-jobs-count"></span></a>
-</li>
-</ul>
+<a href="https://twitter.com/NI_Maschine" class="twitter-maschine" target="_blank"><span>MASCHINE</span><span id="twitter-maschine-count"></span></a>
 </li>
 <li>
-<a href="#" class="connect-google"></a>
-<ul class="connect-google-menu">
-<li>
-<a href="https://plus.google.com/100052257458738895168" class="google-komplete" target="_blank"><span></span><span id="google-komplete-count"></span></a>
-</li>
-<li><a href="https://plus.google.com/108581540413292904826" class="google-traktor" target="_blank"><span></span><span id="google-traktor-count"></span></a>
-</li>
-<li>
-<a href="https://plus.google.com/114467436563269437160" class="google-maschine" target="_blank"><span></span><span id="google-maschine-count"></span></a>
+<a href="https://twitter.com/NI_Job" class="twitter-nijob" target="_blank"><span>NI JOBS</span><span id="twitter-jobs-count"></span></a>
 </li>
 </ul>
 </li>
 <li>
 <a href="http://www.youtube.com/user/NativeInstruments/featured" class="connect-youtube" target="_blank"></a>
 </li>
-<li><a href="https://soundcloud.com/nativeinstruments" class="connect-soundcloud" target="_blank"></a>
+<li>
+<a href="https://www.instagram.com/nativeinstruments" class="connect-instagram" target="_blank"></a>
+</li>
+<li>
+<a href="https://soundcloud.com/nativeinstruments" class="connect-soundcloud" target="_blank"></a>
 </li>
 </ul>
 <span class="footer-column-headline headline-newsletter">
-                NI newsletter
+                Newsletter subscription
 </span>
-<ul>
+<ul class="newsletter-container">
 <li>
-<a href="/en/company/newsletter-subscription/">
-                        Newsletter sign up
-</a>
+<div id="niform-575d5c553ecea" class="ni-inline-container">
+<form method="post" name="participant" class="ni-inline-form" role="form" action="/en/company/legal-information/privacy-policy/?tx_niforms_niforms[action]=submit&amp;tx_niforms_niforms[controller]=ContentForm" data-ajax-action="/index.php?eID=extbase&amp;extensionName=NiForms&amp;pluginName=NiForms&amp;controllerName=ContentForm&amp;actionName=submit&amp;L=0&amp;pid=2151" data-ajax-target="niform-575d5c553ecea">
+<div style="display: none">
+<input type="hidden" name="tx_niforms_niforms[__referrer][@extension]" value="NiForms">
+<input type="hidden" name="tx_niforms_niforms[__referrer][@controller]" value="ContentForm">
+<input type="hidden" name="tx_niforms_niforms[__referrer][@action]" value="index">
+<input type="hidden" name="tx_niforms_niforms[__referrer][arguments]" value="YToxOntzOjM6ImtleSI7czo2OiJmb290ZXIiO30=263584ade6ec7ef527b2a69fa4f73ad34d65a356">
+<input type="hidden" name="tx_niforms_niforms[__referrer][@request]" value="a:3:{s:10:&quot;@extension&quot;;s:7:&quot;NiForms&quot;;s:11:&quot;@controller&quot;;s:11:&quot;ContentForm&quot;;s:7:&quot;@action&quot;;s:5:&quot;index&quot;;}a004c49fc22eccbc8cf9b65290c9a8ca6836e3bf">
+<input type="hidden" name="tx_niforms_niforms[__hmac]" value="a:5:{s:11:&quot;participant&quot;;a:3:{s:5:&quot;email&quot;;i:1;s:13:&quot;subscriptions&quot;;a:2:{s:2:&quot;dj&quot;;i:1;s:8:&quot;producer&quot;;i:1;}s:4:&quot;form&quot;;i:1;}s:6:&quot;submit&quot;;i:1;s:6:&quot;module&quot;;i:1;s:6:&quot;action&quot;;i:1;s:10:&quot;controller&quot;;i:1;}45d770b82c708c0bc78728c8be21687cf85dd9aa">
+</div>
+<div class="form-group  ">
+<div class="input-group">
+<input data-error="This is not a valid email address." class="form-control email-suggest fill-email" id="niform-575d5c553ecea-email" pattern="^([\w-]+(?:[\.\+][\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z])?)$" type="email" name="tx_niforms_niforms[participant][email]" placeholder="Enter email address" required="required">
+<div class="input-group-btn">
+<input class="btn btn-primary" title="SUBSCRIBE" type="submit" name="tx_niforms_niforms[submit]" value="SUBSCRIBE">
+</div>
+</div>
+<div class="help-block with-errors">
+<ul class="list-unstyled">
+</ul>
+</div>
+</div>
+<div class="">
+<div class="checkbox">
+<input type="hidden" name="tx_niforms_niforms[participant][subscriptions][dj]" value=""><input id="checkbox-participant[subscriptions][dj]" type="checkbox" name="tx_niforms_niforms[participant][subscriptions][dj]" value="1" checked="checked">
+<label for="checkbox-participant[subscriptions][dj]">
+										DJ topics
+</label>
+</div>
+<div class="checkbox">
+<input type="hidden" name="tx_niforms_niforms[participant][subscriptions][producer]" value=""><input id="checkbox-participant[subscriptions][producer]" type="checkbox" name="tx_niforms_niforms[participant][subscriptions][producer]" value="1" checked="checked">
+<label for="checkbox-participant[subscriptions][producer]">
+										Producer topics
+</label>
+</div>
+<div class="help-block with-errors">
+<ul class="list-unstyled">
+</ul>
+</div>
+</div>
+<div class="form-group" style="margin-top:15px;">
+<input type="hidden" name="tx_niforms_niforms[participant][form]" value="footer">
+</div>
+<input type="hidden" name="tx_niforms_niforms[module]" value="">
+</form>
+</div>
 </li>
 </ul>
 </div>
-<div class="column3 col-xs-3 col-md-3">
-<span class="footer-column-headline">
-                Top pages
-</span>
-<ul>
-<li>
-<a href="/en/products/free/">
-                        Free products
-</a>
-</li>
-<li>
-<a href="/en/news/">
-                        All news
-</a>
-</li>
-<li>
-<a href="/en/support/downloads/">
-                         Updates &amp; drivers 
-</a>
-</li>
-<li>
-<a href="/en/support/online-help/knowledge-base-faq/">
-                        Knowledge base
-</a>
-</li>
-</ul>
-</div>
-<div class="column4 col-xs-3 col-md-3">
+<div class="column3 col-xs-3 col-md-3 hidden-xs">
 <span class="footer-column-headline">
                 Company
 </span>
@@ -759,6 +775,11 @@ Any consent given to the processing of data may be revoked at any time and witho
 </a>
 </li>
 <li>
+<a href="/en/community/events/">
+                        Events
+</a>
+</li>
+<li>
 <a href="/en/company/press-area/">
                         Press area
 </a>
@@ -767,6 +788,9 @@ Any consent given to the processing of data may be revoked at any time and witho
 <a href="/en/company/education-program/">
                         Education
 </a>
+</li>
+<li>
+<a href="http://www.stems-music.com">STEMS-MUSIC.COM</a>
 </li>
 </ul>
 </div>
@@ -782,7 +806,7 @@ Any consent given to the processing of data may be revoked at any time and witho
 <ul>
 <li class="column1">
                 ©
-                2015
+                2016
                 Native Instruments GmbH
 </li>
 <li class="column2">
@@ -864,6 +888,6 @@ var preferredLanguageTranslations = {
 </div>
 </footer>
 <div id="player-container"></div>
-<script src="/typo3conf/ext/ni_assets/Resources/Public/Dist/footer.js?1447673536" type="text/javascript"></script>
+<script src="/typo3conf/ext/ni_assets/Resources/Public/Dist/footer.js?1462957799" type="text/javascript"></script>
 
 </body></html>
