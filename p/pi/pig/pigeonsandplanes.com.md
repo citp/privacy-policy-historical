@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pigeonsandplanes.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218182234id_/http%3A//pigeonsandplanes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pigeonsandplanes.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612075836id_/http%3A//pigeonsandplanes.com/privacy) for the most accurate reproduction.*
 
 # Pigeons & Planes | Privacy Policy - Pigeons & Planes
 
