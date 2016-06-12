@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the frankiesfacts.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213004609id_/http%3A//www.frankiesfacts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frankiesfacts.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612143721id_/http%3A//www.frankiesfacts.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Frankies Facts
+# PRIVACY POLICY | Frankies Facts
 
-Below you will find the privacy policy for FrankiesFacts.com (the “website”) which details all of the procedures and policies surrounding the collection, use and disclosure of your information. Within this privacy policy we will refer to the users of the website as “you” or “them” and refer to Afternoon Special as “we”, “our” or “us”. Within this privacy policy we also detail the services, content and features that we offer which we will refer to as the “services”. The privacy of our users is extremely important to us which is why we will continuously keep our privacy policy up to date. We reserve the right to change this privacy policy, without given notice, at any time in order to protect our visitors. Please ensure you check the privacy policy regularly for any changes.
+Below you will find the privacy policy for FrankiesFacts.com (the “website”) which details all of the procedures and policies surrounding the collection, use and disclosure of your information. Within this privacy policy we will refer to the users of the website as “you” or “them” and refer to FrankiesFacts as “we”, “our” or “us”. Within this privacy policy we also detail the services, content and features that we offer which we will refer to as the “services”. The privacy of our users is extremely important to us which is why we will continuously keep our privacy policy up to date. We reserve the right to change this privacy policy, without given notice, at any time in order to protect our visitors. Please ensure you check the privacy policy regularly for any changes.
 
 Privacy policy of FrankiesFacts.com was last updated: October 1st, 2015
 
