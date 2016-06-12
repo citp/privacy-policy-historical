@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thisisglamorous.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206051737id_/http%3A//www.thisisglamorous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisglamorous.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612162037id_/http%3A//www.thisisglamorous.com/privacy) for the most accurate reproduction.*
 
-# This is Glamorous :: Privacy
+# This Is Glamorous :: Privacy
 
 This Is Glamorous takes privacy very seriously. This Privacy Policy describes how we treat and use the information we collect when you visit thisisglamorous.com or sign-up for our newsletter.
 
