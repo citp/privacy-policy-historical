@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3plearning.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211214538id_/http%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3plearning.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612084040id_/http%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
 
 # 3P Learning Privacy Policy
 
@@ -20,7 +20,7 @@ _The Australian Privacy Amendment (Enhancing Privacy Protection) Act 2012_
 
   *  __
 
- _The United Kingdom Data  Protection Act 1998 (View 3P Learning’s [ICO Registration Certificate](http://cdn.3plearning.com/wp-content/uploads/2015/07/Registration-Certificate.pdf))_
+ _The United Kingdom Data  Protection Act 1998 (View 3P Learning’s [ICO Registration Certificate](http://west.cdn.mathletics.com/ico/2016%20Registration%20Certificate.pdf))_
 
   *  __
 
@@ -45,6 +45,10 @@ _The Australian Privacy Amendment (Enhancing Privacy Protection) Act 2012_
   *  __
 
  _The Personal Information International Disclosure Protection Act (Nova Scotia) (“PIIDPA”)._
+
+  *  __
+
+ _The Student Online Personal Information Protection Act, California (SOPIPA)_
 
 
 
@@ -117,6 +121,10 @@ The personal information we hold about a Registrant (such as their name, address
 In addition to personal information and results data, 3P Learning also collects anonymous information about Registrants and the activities of Registrants on the Site. Anonymous information is information that is not linked to the name of a user. This information is used to assist us in enhancing the learning resources and the information remains anonymous at all times.
 
 When agreeing to the Site Terms and Conditions, Registrants grant 3P Learning the right to use this anonymous information for its own purposes, such as the preparation of statistical reports, provided 3P Learning otherwise complies with its obligations in respect of the use of personal information.
+
+### Marketing and targeted advertising – AdRoll
+
+3P Learning utilises a third-party provider, AdRoll, to power certain elements of the Company’s online marketing and advertising. AdRoll collects data about your activities that does not personally or directly identify you when you visit our website, the website of entities for which we serve advertisements (our “Advertisers”), or the websites and online services where we display advertisements (“Publishers”). This information may include the content you view, the date and time that you view this content, the products you purchase, or your location information associated with your IP address. We use the information we collect to serve you more relevant advertisements regarding 3P Learning resources. (referred to as “Retargeting”). We collect information about where you saw the ads we serve you and what ads you clicked on. This is data that does not personally or directly identify you.
 
 ### Revision of Privacy Policy
 
