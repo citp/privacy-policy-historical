@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iran-livetv.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141534id_/http%3A//iran-livetv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iran-livetv.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612175409id_/http%3A//iran-livetv.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy; Iran live TV, Watch online Persian TV & Iranian Internet Radio In Uk
 
