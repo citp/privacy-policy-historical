@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bata.in privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208033947id_/http%3A//bata.in/bataindia/faces/jsp/article.jsp%3Fsubcategoryid%3D177%26categoryId%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bata.in privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612202132id_/http%3A//bata.in/bataindia/faces/jsp/article.jsp%3Fsubcategoryid%3D177%26categoryId%3D41) for the most accurate reproduction.*
 
 # 
 
