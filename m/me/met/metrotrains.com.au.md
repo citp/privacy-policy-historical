@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrotrains.com.au privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210123916id_/http%3A//www.metrotrains.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrotrains.com.au privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612234206id_/http%3A//www.metrotrains.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Metro Trains
 
@@ -189,7 +189,7 @@ Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
 
 ## Contact Us for Further Information regarding the our Privacy Policy
 
-If you require further information about how we handle Personal Information or any privacy issues please contact our office via the Metro Customer Service number on 1800 MY METRO (1800 69 63876) or write to our Privacy Officer at the address below.
+If you require further information about how we handle Personal Information or any privacy issues please contact our office via the Metro Customer Service number on 1800 800 007 or write to our Privacy Officer at the address below:
 
 ### Our Contact Details
 
