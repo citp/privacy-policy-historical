@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motorolasolutions.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211173411id_/http%3A//www.motorolasolutions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorolasolutions.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613014604id_/http%3A//www.motorolasolutions.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Motorola Solutions USA
+# Privacy Policy - Motorola Solutions
 
 This Statement applies to the online processing of personal information via web sites operated by Motorola Solutions, Inc. ("Motorola Solutions") and its worldwide affiliated companies and subsidiaries (See [About Motorola Solutions](https://web.archive.org/en_us/about.html)). Highlights of Motorola Solutions' Online Privacy Statement follow immediately below, or read the full text.
 
@@ -75,14 +75,20 @@ Motorola Solutions recognizes privacy and security as being concerns for most in
 
 Motorola Solutions has adopted a set of binding corporate rules ("BCRs"), which have been approved by the appropriate Data Protection Regulators in the European Union, effective May 2, 2013. For a copy of Motorola Solutions BCRs [click here](https://web.archive.org/content/dam/msi/docs/business/_documents/static_files/Motorola_Solutions_BCR_Policy.pdf). The BCRs ensure that personal data of covered individuals in the European Union is protected while being processed by any of MSI's affiliates around the world. The information commissioner's Binding Corporate Rules Authorization is available at the [ICO UK Website](https://ico.org.uk/for-organisations/binding-corporate-rules/). For more information [click here](https://web.archive.org/content/dam/msi/privacy/MSI_BCR_Publication_External_Privacy_Statement.pdf).
 
-Motorola Solutions also complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor/>.
-
 This Statement of privacy practices discloses the privacy policy for Motorola Solutions' public web sites. It applies to web sites operated by or on behalf of Motorola Solutions, Inc. and its world-wide affiliated companies and subsidiaries. Please read this Statement to understand the following:
 
   **What personal information is collected?**
 
 **Product and Services**  
-When a visitor places an order with us, Motorola Solutions may collect personal information about you, including name, title, company, address, email address, phone numbers and, in rare instances, other categories of personal information, such as payment card information, drivers license numbers, social security numbers (or equivalent national identification numbers) and date of birth.
+When a visitor places an order with us, Motorola Solutions may collect personal information about you, including name, title, company, address, email address, phone numbers and, in rare instances, other categories of personal information, such as payment card information, driver's license numbers, social security numbers (or equivalent national identification numbers) and date of birth.
+
+  * **Specific Product Privacy Practices  
+**The following notices explain specific privacy practices with respect to certain Motorola Solutions products and services that you may use:
+    * [WAVE Privacy Notice](https://web.archive.org/en_us/about/privacy-policy/wave-privacy-notice.html)
+    * [Airwave Privacy Notice](https://www.airwavesolutions.co.uk/publicengines-privacy-notice)
+    * [PublicEngines Notice](https://web.archive.org/en_us/about/privacy-policy/publicengines-privacy-notice.html)
+
+
 
 **Marketing**  
 We may ask you for and collect personal information at other times, including when you enter a sweepstakes or contest; participate in a promotion or marketing campaign sponsored by Motorola Solutions or one of its business partners; when you want to find out about service offered in your area; when you complete surveys or other questionnaires; when you participate in a user forum or blog hosted by Motorola Solutions or one of its business partners; when you send an email to Motorola Solutions.
@@ -180,4 +186,4 @@ Web sites operated by or on behalf of Motorola Solutions, Inc. and its world-wid
 
 * * *
 
-**This Privacy Statement is subject to change without notice. Last Update: October 7, 2014**
+**This Privacy Statement is subject to change without notice. Last Update: January 28, 2016**
