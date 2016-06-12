@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timberlandonline.co.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209173018id_/http%3A//www.timberlandonline.co.uk/en/page%3Fcid%3Dcs_privacy_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timberlandonline.co.uk privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612073540id_/http%3A//www.timberlandonline.co.uk/en/page%3Fcid%3Dcs_privacy_security) for the most accurate reproduction.*
 
 # Customer Service - Privacy Policy | Timberland UK
 
