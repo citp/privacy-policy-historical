@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brookfieldengineering.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211213312id_/http%3A//www.brookfieldengineering.com/constants/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookfieldengineering.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612103924id_/http%3A//www.brookfieldengineering.com/constants/privacy-policy.asp) for the most accurate reproduction.*
 
 # 
 
-## Brookfield Engineering Laboratories, Inc. Online Privacy Statement
+## Brookfield AMETEK, Inc. Online Privacy Statement
 
 Brookfield respects your privacy. We want to make use of individual identifying information that you provide to us for purposes of serving you better. "Individual identifying information" is information that enables us to identify you, such as your email address, name, title and address. Brookfield uses the individual identifying information in order to personalize your experience on our web site and also to be able to selectively send you communications that may be of interest to you, either electronically or otherwise. Brookfield's policy regarding use of your individual identifying information supplied to us or collected via your experience at our online web site covers these areas:
 
