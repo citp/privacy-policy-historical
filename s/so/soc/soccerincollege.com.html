@@ -1,50 +1,190 @@
-<!--The following is the downloaded HTML source of the soccerincollege.com privacy policy that was archived on 2015-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151212182747id_/http%3A//www.soccerincollege.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soccerincollege.com privacy policy that was archived on 2016-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612031046id_/http%3A//www.soccerincollege.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
-	Sports In College
-</title><meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/ico" href="images/icons/soccer.ico"> <link rel="stylesheet" href="http://static.soccerincollege.com/css/sitepro/reset.css">
- <link rel="stylesheet" href="http://static.soccerincollege.com/css/sitepro/pro_pages_style.css?v=8.1">
- <link rel="stylesheet" href="http://static.soccerincollege.com/css/sitepro/grid.css?v=1.2">
- <link rel="stylesheet" href="http://static.soccerincollege.com/css/sitepro/forms.css">
- <link rel="stylesheet" href="http://static.soccerincollege.com/css/sitepro/prettyPhoto.css">
+<!DOCTYPE html><html><head id="ctl00_Head1"><meta charset="utf-8"><meta http-equiv="x-ua-compatible" content="ie=edge"><title>
+
+</title><meta name="description"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/ico" href="http://static.soccerincollege.com/images/icons/soccer.ico"><link href="http://static.soccerincollege.com/css/2016.css" type="text/css" rel="stylesheet">
  <link rel="stylesheet" href="http://static.soccerincollege.com/css/ui/custom/jquery-ui-1.8.23.custom.css">
- <link rel="stylesheet" href="http://static.soccerincollege.com/js/ui/jquery.ui.timepicker.css">
- <link rel="stylesheet" href="http://static.soccerincollege.com/css/sitepro/style.css?v=7.1">
- <link rel="stylesheet" type="text/css" href="http://static.soccerincollege.com/css/sitepro/all_sports.css?v=8">
- <link href="http://static.soccerincollege.com/css/sinc.css?v=2" type="text/css" rel="stylesheet">
- <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.soccerincollege.com/js/jquery-1.7.1.js"></script>
- <script language="javascript" type="text/javascript" src="http://static.soccerincollege.com/js/master.js?v=1"></script>
- <script type="text/javascript" src="http://static.soccerincollege.com/js/jquery.tipsy.js"></script>
-  <script src="http://static.soccerincollege.com/js/sitepro/script.js"></script>
+<link rel="stylesheet" href="http://static.soccerincollege.com/js/ui/jquery.ui.timepicker.css">
+<script type="text/javascript" src="http://static.soccerincollege.com/js/2016.js?v=1"></script>
  <script type="text/javascript" src="http://static.soccerincollege.com/js/sitepro/superfish.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans|Ubuntu+Condensed|" rel="stylesheet" type="text/css"><link href="/css/dynamic.css" rel="stylesheet" type="text/css">
+    <link rel="apple-touch-icon" href="images/mobile_icon.png">
+        <!-- Place favicon.ico in the root directory -->
 
-<!--[if lt IE 9]>
-	<script src="js/sitepro/html5.js"></script>
-	<link rel="stylesheet" href="css/sitepro/ie.css" /> 
-<![endif]-->
+        <link rel="stylesheet" href="css/normalize.css">
+    <script type="text/javascript">
+        var screenWidth = 999;
+        var isSmall = false;
 
+        $(document).ready(function () {
+            $('a.tipsy').tipsy({ gravity: 'n' }); $('a.tip').tipsy({ gravity: 'n' }); $('img.tip').tipsy({ gravity: 'n' });
+            $("#d_arrow").mouseenter(function () {
+                $("#typeList").slideDown();
+            });
+            $("#d_arrow").click(function () {
+                $("#typeList").slideDown();
+            });
 
-<script type="text/javascript" language="javascript">
-    $(document).ready(function () {
-        $('a.tipsy').tipsy({ gravity: 'n' });
-        $('a.tip').tipsy({ gravity: 'n' });
-        $('img.tip').tipsy({ gravity: 'n' });
-        $().UItoTop({ easingType: 'easeOutQuart' });
-        $("#athupg").mouseenter(function () {
-            $("#athupg").attr("src", "images/premierPlusupgrade2.png");
-        }).mouseleave(function () {
-            $("#athupg").attr("src", "images/premierPlusupgrade.png");
+            screenWidth = $(window).width();
+
+            if (screenWidth > 998) {
+                largeScreen();
+            }
+            else {
+                smallScreen();
+            }
+            $(window).keydown(function (event) {
+                if (event.keyCode == 13 && $('[id$=tbSearch]').is(':focus')) {
+                    event.preventDefault();
+                    return false;
+                }
+            });
+            //$("#side-menu ul").hide();
+            $("div.side-toggle").click(function () {
+                if ($(this).hasClass("minus")) {
+                    $(this).removeClass("minus");
+                    $(this).addClass("plus");
+                    $(this).next("ul").slideUp();
+                }
+                else {
+                    $(this).removeClass("plus");
+                    $(this).addClass("minus");
+                    $(this).next("ul").slideDown();
+                }
+                
+            });
+            $("#side-menu li a").click(function () {
+                var plusminus = $(this).next("div");
+                if ($(plusminus).hasClass("minus")) {
+                    $(plusminus).removeClass("minus");
+                    $(plusminus).addClass("plus");
+                    $(plusminus).next("ul").slideUp();
+                }
+                else {
+                    $(plusminus).removeClass("plus");
+                    $(plusminus).addClass("minus");
+                    $(plusminus).next("ul").slideDown();
+                }
+
+            });
+            $("#ctl00_tbSearch").keyup(function (e) {
+                if (e.keyCode == 13) {
+                    // Do something
+                    
+                    if ($('#ctl00_tbSearch').val() == "") {
+                        alert("Enter some data");
+                        return false;
+                    }
+                    else
+                        eo_Callback('cpSearch', 'people');
+                    e.preventDefault();
+                }
+            });
+            $("#ctl00_tbEvents").autocomplete({
+                source: function (request, response) {
+                    $.ajax({
+                        type: "POST",
+                        contentType: "application/json; charset=utf-8",
+                        url: "/services/AutoComplete.asmx/GetTournaments",
+                        dataType: "json",
+                        data: "{'state':'', 'prefix':'" + request.term + "'}",
+                        success: function (data) {
+                            response($.map(data.d, function (item) {
+                                return {
+                                    label: item.Name,
+                                    value: item.Value
+                                }
+                            }))
+                        }
+                    });
+                },
+                minLength: 3,
+                select: function (event, ui) {
+                    window.location = "TTIntro.aspx?register=Y&tid=" + ui.item.value;
+                },
+                open: function () {
+                    //$(this).removeClass("ui-corner-all").addClass("ui-corner-top");
+                },
+                close: function () {
+                    //$(this).removeClass("ui-corner-top").addClass("ui-corner-all");
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert(textStatus);
+                }
+            });
+            $(window).resize(function () {
+
+                screenWidth = $(window).width();
+                if (screenWidth < 999 && !isSmall) {
+                    isSmall = true;
+                    smallScreen();
+                }
+                else if (screenWidth > 998 && isSmall) {
+                    isSmall = false;
+                    largeScreen();
+                }
+            });
         });
 
-    });
+        function largeScreen() {
+            if ($('span.menustatelbl').html() == "0") {
+                    $("#menu-open").show();
+                    $("#menu").css("margin-left", "-250px");
+                    $('#contents').css('margin-left', '0px');
+                    //$('#header').css('margin-left', '-250px');
+                }
+            else {
+                $("#menu-open").hide();
+                $('#menu').animate({ 'margin-left': '0px' });
+                $('#contents').animate({ 'margin-left': '250px' });
+                $('#menu').css("width", "250px");
+                $("#hideMe").css("width", "250px");
+            }
+
+            $("#menu-header").click(function () {
+                $('#menu').animate({ 'margin-left': '-250px' });
+                $('#contents').animate({ 'margin-left': '0px' });
+                //$('#header').css('margin-left', '-250px');
+                $("#menu-open").fadeIn();
+            });
+            $("#menu-open").click(function () {
+                $('#menu').animate({ 'margin-left': '0px' });
+                $('#contents').animate({ 'margin-left': '250px' });
+                //$('#header').css('margin-left', '-250px');
+                $("#menu-open").hide();
+            });
+        }
+        function smallScreen() {
+            $("#menu-open").show();
+            $("#menu").css("width", screenWidth - 10 + "px");
+            $("#hideMe").css("width", screenWidth - 10 + "px");
+            $("#menu").css("margin-left", -screenWidth - 10 + "px");
+            $('#contents').css('margin-left', '0px');
+            $("#menu-header").click(function () {
+                $('#menu').animate({ 'margin-left': -screenWidth - 10 + "px" });
+                //$('#contents').animate({ 'margin-left': '0px' });
+                $("#menu-open").fadeIn();
+            });
+            $("#menu-open").click(function () {
+                $('#menu').animate({ 'margin-left': '0px' });
+                //$('#contents').animate({ 'margin-left': '250px' });
+                $("#menu-open").hide();
+            });
+
+            var name = $("#lnglnk").html();
+            if (name != "Login") {
+                name = name.replace(/\W*(\w)\w*/g, '$1').toUpperCase();
+                $("#lnglnk").html(name);
+            }
+            
+        }
+
+
     </script>
-<style type="text/css">
-    #ctl00_pnlDash.scrolled { position: fixed;top: 40px;width: 150px;z-index:2; }
-    .main{margin:0 auto;position:relative;width:940px; overflow:hidden;}
-    #athupg { cursor: pointer;margin-top:10px; }
-</style>
+
+    
 <style type="text/css">
 .eo_tag_style{}
 </style>
@@ -56,6 +196,7 @@ table.eo_border_collapse { border-collapse: collapse; }
 .eo_align_left { text-align: left;}
 .eo_transparent { filter:alpha(opacity=0);-moz-opacity:0.0;opacity:0.0; }
 .eo_fullheight { height: 100%; }
+.eo_fullwidth { width: 100%; }
 a.eo_plain_link.link { border: none; }
 a.eo_plain_link.visited { border: none; }
 a.eo_plain_link.hover { border: none; }
@@ -65,63 +206,41 @@ ul.eo_list li { list-style: none; margin: 0px; padding: 0px; white-space: nowrap
 .eo_text { font-family: Verdana; font-size: 10px; }
 
 </style>
-<style type="text/css">
-.eo_css_ctrl_ctl00_myTopMenu_myTopBar1 {background-color:transparent;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0}
-.eo_css_ctrl_ctl00_myTopMenu_myTopBar2 {background-color:transparent;border-bottom-width:0;border-left-width:0;border-right-width:0;border-top-width:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0}
-.eo_css_ctrl_ctl00_myTopMenu_myTopBar3 {cursor:pointer;cursor:hand;font-family:Verdana;font-size:9pt;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0}
-.eo_css_ctrl_ctl00_myTopMenu_myTopBar4 {background-color:white}
-.eo_css_ctrl_ctl00_myTopMenu_myTopBar5 {background-color:#F1F1F1;border-bottom-color:#999999;border-bottom-style:solid;border-bottom-width:1px;border-left-color:#999999;border-left-style:solid;border-left-width:1px;border-right-color:#999999;border-right-style:solid;border-right-width:1px;border-top-color:#999999;border-top-style:solid;border-top-width:1px}
-.eo_css_ctrl_ctl00_myTopMenu_myTopBar6 {background-color:#cccccc;border-bottom-color:#999999;border-bottom-style:solid;border-bottom-width:1px;border-left-color:#999999;border-left-style:solid;border-left-width:1px;border-right-color:#999999;border-right-style:solid;border-right-width:1px;border-top-color:#999999;border-top-style:solid;border-top-width:1px}
-
-</style></head>
-    <body>
-<form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+</head>
+<body id="ctl00_thebody" class="soccer">
+    <form name="aspnetForm" method="post" action="./privacy.aspx" id="aspnetForm">
 <div>
-<input type="hidden" name="ctl00_ScriptManager1_HiddenField" id="ctl00_ScriptManager1_HiddenField" value="">
-<input type="hidden" name="__eo_obj_states" id="__eo_obj_states" value="">
 <input type="hidden" name="__eo_sc" id="__eo_sc" value="">
 <input type="hidden" name="eo_cb_id" id="eo_cb_id" value="">
-<input type="hidden" name="ctl00_myTopMenu_dialogHandleAlert_ctl00_cpAlertPage_trigger" id="ctl00_myTopMenu_dialogHandleAlert_ctl00_cpAlertPage_trigger" value="">
-<input type="hidden" name="ctl00_myTopMenu_dialogHandleAlert_ctl00_cpAlertPage_param" id="ctl00_myTopMenu_dialogHandleAlert_ctl00_cpAlertPage_param" value="">
-<input type="hidden" name="ctl00_DialogHelp_ctl00_cpHelpPanel_trigger" id="ctl00_DialogHelp_ctl00_cpHelpPanel_trigger" value="">
-<input type="hidden" name="ctl00_DialogHelp_ctl00_cpHelpPanel_param" id="ctl00_DialogHelp_ctl00_cpHelpPanel_param" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWBAIBD2QWBAIDDxYCHgRUZXh0BUQ8bGluayByZWw9J2ljb24nIHR5cGUgPSAnaW1hZ2UvaWNvJyBocmVmPSdpbWFnZXMvaWNvbnMvc29jY2VyLmljbycgPmQCBA8WAh8ABeMLIDxsaW5rIHJlbD0nc3R5bGVzaGVldCcgaHJlZj0naHR0cDovL3N0YXRpYy5zb2NjZXJpbmNvbGxlZ2UuY29tL2Nzcy9zaXRlcHJvL3Jlc2V0LmNzcyc+DQogPGxpbmsgcmVsPSdzdHlsZXNoZWV0JyBocmVmPSdodHRwOi8vc3RhdGljLnNvY2NlcmluY29sbGVnZS5jb20vY3NzL3NpdGVwcm8vcHJvX3BhZ2VzX3N0eWxlLmNzcz92PTguMSc+DQogPGxpbmsgcmVsPSdzdHlsZXNoZWV0JyBocmVmPSdodHRwOi8vc3RhdGljLnNvY2NlcmluY29sbGVnZS5jb20vY3NzL3NpdGVwcm8vZ3JpZC5jc3M/dj0xLjInPg0KIDxsaW5rIHJlbD0nc3R5bGVzaGVldCcgaHJlZj0naHR0cDovL3N0YXRpYy5zb2NjZXJpbmNvbGxlZ2UuY29tL2Nzcy9zaXRlcHJvL2Zvcm1zLmNzcyc+DQogPGxpbmsgcmVsPSdzdHlsZXNoZWV0JyBocmVmPSdodHRwOi8vc3RhdGljLnNvY2NlcmluY29sbGVnZS5jb20vY3NzL3NpdGVwcm8vcHJldHR5UGhvdG8uY3NzJz4NCiA8bGluayByZWw9J3N0eWxlc2hlZXQnIGhyZWY9J2h0dHA6Ly9zdGF0aWMuc29jY2VyaW5jb2xsZWdlLmNvbS9jc3MvdWkvY3VzdG9tL2pxdWVyeS11aS0xLjguMjMuY3VzdG9tLmNzcyc+DQogPGxpbmsgcmVsPSdzdHlsZXNoZWV0JyBocmVmPSdodHRwOi8vc3RhdGljLnNvY2NlcmluY29sbGVnZS5jb20vanMvdWkvanF1ZXJ5LnVpLnRpbWVwaWNrZXIuY3NzJz4NCiA8bGluayByZWw9J3N0eWxlc2hlZXQnIGhyZWY9J2h0dHA6Ly9zdGF0aWMuc29jY2VyaW5jb2xsZWdlLmNvbS9jc3Mvc2l0ZXByby9zdHlsZS5jc3M/dj03LjEnPg0KIDxsaW5rIHJlbD0nc3R5bGVzaGVldCcgdHlwZT0ndGV4dC9jc3MnIGhyZWY9J2h0dHA6Ly9zdGF0aWMuc29jY2VyaW5jb2xsZWdlLmNvbS9jc3Mvc2l0ZXByby9hbGxfc3BvcnRzLmNzcz92PTgnIC8+DQogPGxpbmsgaHJlZj0naHR0cDovL3N0YXRpYy5zb2NjZXJpbmNvbGxlZ2UuY29tL2Nzcy9zaW5jLmNzcz92PTInIHR5cGU9J3RleHQvY3NzJyByZWw9J3N0eWxlc2hlZXQnIC8+DQogPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnIHNyYz0naHR0cDovL3N0YXRpYy5zb2NjZXJpbmNvbGxlZ2UuY29tL2pzL2pxdWVyeS0xLjcuMS5qcyc+PC9zY3JpcHQ+DQogPHNjcmlwdCBsYW5ndWFnZT0namF2YXNjcmlwdCcgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyBzcmM9J2h0dHA6Ly9zdGF0aWMuc29jY2VyaW5jb2xsZWdlLmNvbS9qcy9tYXN0ZXIuanM/dj0xJz48L3NjcmlwdD4NCiA8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCcgc3JjPSdodHRwOi8vc3RhdGljLnNvY2NlcmluY29sbGVnZS5jb20vanMvanF1ZXJ5LnRpcHN5LmpzJz48L3NjcmlwdD4NCiAgPHNjcmlwdCBzcmM9J2h0dHA6Ly9zdGF0aWMuc29jY2VyaW5jb2xsZWdlLmNvbS9qcy9zaXRlcHJvL3NjcmlwdC5qcyc+PC9zY3JpcHQ+DQogPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnIHNyYz0naHR0cDovL3N0YXRpYy5zb2NjZXJpbmNvbGxlZ2UuY29tL2pzL3NpdGVwcm8vc3VwZXJmaXNoLmpzJz48L3NjcmlwdD4NCmQCAw9kFhQCAQ9lZAIFD2QWCAIDDxYCHwAF0wI8dWwgaWQ9J215dGVzdE1lbnUnIGNsYXNzPSdzaW5jLW1lbnUnPjxsaT48YSBocmVmPScjJz5GZWF0dXJlczwvYT48dWw+PGxpPjxhIGhyZWY9J3NpY01lbWJlcnNoaXBzLmFzcHgnPkF0aGxldGUgTWVtYmVyc2hpcHM8L2E+PC9saT48bGk+PGEgaHJlZj0nc2ljVklQTWVtYmVycy5hc3B4Jz5zaW5jVklQIE1lbWJlcnNoaXBzPC9hPjwvbGk+PGxpPjxhIGhyZWY9J2h0dHA6Ly9zaW5jc3BvcnRzLmNvbSc+RXZlbnQgTWFuYWdlbWVudCAtIFNpbmNTcG9ydHM8L2E+PC9saT48bGk+PGEgaHJlZj0naHR0cDovL3NpbmNteXRlYW0uY29tJz5zaW5jIG15IHRlYW08L2E+PC9saT48L3VsPjwvbGk+PC91bD5kAgUPDxYCHwAFRDxhIGNsYXNzPSd0aXRsZWxpbmsnIGhyZWY9J1RUTG9naW4uYXNweD90aWQ9QkxBU1RDUyZuZXc9WSc+TE9HSU48L2E+ZGQCCQ8PFgIfAAUHQkxBU1RDU2RkAg8PZBYCZg9kFgICAw9lZAIHD2QWBgIDDxYCHwBlZAIEDxYCHwAFBjxiciAvPmQCCA9kFgICAQ9lFgICBQ88KwAJAGQCCQ8PFgIeB1Zpc2libGVoZBYCAgEPZBYEAgcPD2QPZAVEQndNc2UwTnZiblJ5YjJ4SlJEcGlkRzVUWldGeVkyaFFaVzl3YkdVN1VHRnlZVzFsZEdWeU9uQmxiM0JzWlgwQUFBPT1kAgkPD2QPZAWUAUJ3TnFlME52Ym5SeWIyeEpSRHBpZEc1TlpYSm5aVHRRWVhKaGJXVjBaWEk2YldWeVoyVjlMSHREYjI1MGNtOXNTVVE2WW5SdVEyeGxZWEk3VUdGeVlXMWxkR1Z5T2xoOUxIdERiMjUwY205c1NVUTZZblJ1UkdWc1ZGUk1hWE4wTzFCaGNtRnRaWFJsY2pwWWZRQUEWAgIBD2QWBgIDDxBkZBYBZmQCBQ88KwAJAGQCCw9kFgICAw88KwALAGQCCw9kFgYCAQ8WAh4FY2xhc3MFCnNvY2NlcmxvZ29kAgMPFgIfAAWWBDxuYXYgY2xhc3M9J21haW4tbWVudSBzb2NjZXJNZW51Jz48dWwgaWQ9J3NmLW1lbnUnIGNsYXNzPSdzZi1tZW51IHNwb3J0c21lbnUnPjxsaSBjbGFzcz0nY3VycmVudCc+PGEgaHJlZj0nRGVmYXVsdC5hc3B4Jz48ZW0+SG9tZTwvZW0+PC9hPjwvbGk+PGxpPjxhIGhyZWY9J3NpY0NvbGxlZ2VzLmFzcHgnPjxlbT5Db2xsZWdlczwvZW0+PC9hPjwvbGk+PGxpPjxhIGhyZWY9J3NpY1RvdXJuYW1lbnRzLmFzcHgnPjxlbT5Ub3VybmFtZW50czwvZW0+PC9hPjwvbGk+PGxpPjxhIGhyZWY9J3NpY0xlYWd1ZXMuYXNweCc+PGVtPkxlYWd1ZXM8L2VtPjwvYT48L2xpPjxsaT48YSBocmVmPSdzaWNDbHVicy5hc3B4Jz48ZW0+VGVhbXM8L2VtPjwvYT48L2xpPjxsaT48YSBocmVmPSdzaWNBdGhsZXRlcy5hc3B4Jz48ZW0+QXRobGV0ZXM8L2VtPjwvYT48L2xpPjxsaSBjbGFzcz0nbGFzdCc+PGEgaHJlZj0nc2ljUmFuay5hc3B4Jz48ZW0+VVNBIFJhbms8L2VtPjwvYT48L2xpPjwvdWw+PGRpdiBzdHlsZT0nY2xlYXI6Ym90aDsnPjwvZGl2PjwvbmF2PmQCBQ9kFgYCAQ8WAh8ABRc8aDI+UHJpdmFjeSBQb2xpY3k8L2gyPmQCAw9kFgICAw8WAh8ABbACPHNjcmlwdCBhc3luYyBzcmM9Jy8vcGFnZWFkMi5nb29nbGVzeW5kaWNhdGlvbi5jb20vcGFnZWFkL2pzL2Fkc2J5Z29vZ2xlLmpzJz48L3NjcmlwdD48aW5zIGNsYXNzPSdhZHNieWdvb2dsZSdzdHlsZT0nZGlzcGxheTppbmxpbmUtYmxvY2s7d2lkdGg6NzI4cHg7aGVpZ2h0OjkwcHgnZGF0YS1hZC1jbGllbnQgPSAnY2EtcHViLTMxNTc4ODI0NTY2NjMwMjcnZGF0YS1hZC1zbG90PSczMzAzNTYwMjkyJz48L2lucz48c2NyaXB0PihhZHNieWdvb2dsZSA9IHdpbmRvdy5hZHNieWdvb2dsZSB8fCBbXSkucHVzaCh7fSk7IDwvc2NyaXB0PmQCBQ9kFgQCAQ9kFgICAw8PFgIfAAU3PGltZyBpZD0nYXRodXBnJyBzcmM9J2ltYWdlcy9wcmVtaWVyUGx1c1VwZ3JhZGUucG5nJyAvPmRkAgMPZBYCAgEPFgIfAAWxAjxzY3JpcHQgYXN5bmMgc3JjPScvL3BhZ2VhZDIuZ29vZ2xlc3luZGljYXRpb24uY29tL3BhZ2VhZC9qcy9hZHNieWdvb2dsZS5qcyc+PC9zY3JpcHQ+PGlucyBjbGFzcz0nYWRzYnlnb29nbGUnc3R5bGU9J2Rpc3BsYXk6aW5saW5lLWJsb2NrO3dpZHRoOjEyMHB4O2hlaWdodDoyNDBweCdkYXRhLWFkLWNsaWVudCA9ICdjYS1wdWItMzE1Nzg4MjQ1NjY2MzAyNydkYXRhLWFkLXNsb3Q9JzQ2MTY2MTYyOTInPjwvaW5zPjxzY3JpcHQ+KGFkc2J5Z29vZ2xlID0gd2luZG93LmFkc2J5Z29vZ2xlIHx8IFtdKS5wdXNoKHt9KTsgPC9zY3JpcHQ+ZAINDxYCHwAFBlNvY2NlcmQCDw8WAh8ABQQyMDE1ZAITDw8WAh8BaGQWAgIBD2QWAgIBD2QWAgIRD2VkAhcPZBYCZg9kFgICAQ9lZAIZD2QWAmYPFgIfAAXBAzxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz52YXIgX2dhcSA9IF9nYXEgfHwgW107IF9nYXEucHVzaChbJ19zZXRBY2NvdW50JywgJ1VBLTEwMDE2ODM5LTInXSk7IF9nYXEucHVzaChbJ190cmFja1BhZ2V2aWV3J10pOyAoZnVuY3Rpb24oKSB7IHZhciBnYSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOyBnYS50eXBlID0gJ3RleHQvamF2YXNjcmlwdCc7IGdhLmFzeW5jID0gdHJ1ZTsgZ2Euc3JjID0gKCdodHRwczonID09IGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sID8gJ2h0dHBzOi8vc3NsJyA6ICdodHRwOi8vd3d3JykgKyAnLmdvb2dsZS1hbmFseXRpY3MuY29tL2dhLmpzJzsgdmFyIHMgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07IHMucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZ2EsIHMpOyB9KSgpOyA8L3NjcmlwdD4gZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUYY3RsMDAkbXlUb3BNZW51JG15VG9wQmFytkgjXCmVcM0aDSC1sFUQJdfQMYs=">
+<input type="hidden" name="ctl00_cpSearch_trigger" id="ctl00_cpSearch_trigger" value="">
+<input type="hidden" name="ctl00_cpSearch_param" id="ctl00_cpSearch_param" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWBAIBD2QWBAIGDxYCHgRUZXh0BWM8bGluayByZWw9J2ljb24nIHR5cGU9J2ltYWdlL2ljbycgaHJlZj0naHR0cDovL3N0YXRpYy5zb2NjZXJpbmNvbGxlZ2UuY29tL2ltYWdlcy9pY29ucy9zb2NjZXIuaWNvJz5kAgcPFgIfAAX8AzxsaW5rIGhyZWYgPSdodHRwOi8vc3RhdGljLnNvY2NlcmluY29sbGVnZS5jb20vY3NzLzIwMTYuY3NzJyB0eXBlPSd0ZXh0L2NzcycgcmVsPSdzdHlsZXNoZWV0JyAvPg0KIDxsaW5rIHJlbD0nc3R5bGVzaGVldCcgaHJlZj0naHR0cDovL3N0YXRpYy5zb2NjZXJpbmNvbGxlZ2UuY29tL2Nzcy91aS9jdXN0b20vanF1ZXJ5LXVpLTEuOC4yMy5jdXN0b20uY3NzJz4NCjxsaW5rIHJlbD0nc3R5bGVzaGVldCcgaHJlZj0naHR0cDovL3N0YXRpYy5zb2NjZXJpbmNvbGxlZ2UuY29tL2pzL3VpL2pxdWVyeS51aS50aW1lcGlja2VyLmNzcyc+DQo8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCcgc3JjPSdodHRwOi8vc3RhdGljLnNvY2NlcmluY29sbGVnZS5jb20vanMvMjAxNi5qcz92PTEnPjwvc2NyaXB0Pg0KIDxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyBzcmM9J2h0dHA6Ly9zdGF0aWMuc29jY2VyaW5jb2xsZWdlLmNvbS9qcy9zaXRlcHJvL3N1cGVyZmlzaC5qcyc+PC9zY3JpcHQ+DQpkAgMPFgIeBWNsYXNzBQZzb2NjZXIWAgIBD2QWFAIBD2VkAgcPZWQCCQ8WAh8ABf4JPHVsIGlkPSdzaWRlLW1lbnUnPjxsaT48YSBocmVmPScjJz5NeSBBY2NvdW50PC9hPjxkaXYgY2xhc3M9J3NpbmNzcHJpdGUgZnJpZ2h0IG1pbnVzIHNpZGUtdG9nZ2xlJz48L2Rpdj48dWw+PGxpPjxhIGhyZWY9J1RUTG9naW4uYXNweCc+TG9naW4gdG8gdmlldyB5b3VyIGFjY291bnQ8L2E+PC9saT48L3VsPjxsaT48YSBocmVmPScjJz5Tb2NjZXIgaW4gY29sbGVnZTwvYT48ZGl2IGNsYXNzPSdzaW5jc3ByaXRlIGZyaWdodCBtaW51cyBzaWRlLXRvZ2dsZSc+PC9kaXY+PHVsPjxsaT48YSBocmVmPSdzaWNDb2xsZWdlcy5hc3B4Jz5Db2xsZWdlczwvYT48L2xpPjxsaT48YSBocmVmPSdldmVudHMuYXNweCc+VG91cm5hbWVudHM8L2E+PC9saT48bGk+PGEgaHJlZj0nZXZlbnRzLmFzcHg/bGVhZ3Vlcz1ZJz5MZWFndWVzPC9hPjwvbGk+PGxpPjxhIGhyZWY9J3NpY0NsdWJzLmFzcHgnPlRlYW1zPC9hPjwvbGk+PGxpPjxhIGhyZWY9J3NpY0F0aGxldGVzLmFzcHgnPkF0aGxldGVzPC9hPjwvbGk+PC91bD48bGk+PGEgaHJlZj0nIyc+VVNBIFJhbms8L2E+PGRpdiBjbGFzcz0nc2luY3Nwcml0ZSBmcmlnaHQgcGx1cyBzaWRlLXRvZ2dsZSc+PC9kaXY+PHVsIGNsYXNzPSdoaWRlJz48bGk+PGEgaHJlZj0nc2ljUGFnZUluZm8uYXNweD90eXBlPVJBTksnPkhvdyBVU0EgUmFuayB3b3JrczwvYT48L2xpPjxsaT48YSBocmVmPSdzaWNSYW5rLmFzcHgnPlZpZXcgUmFua2luZ3M8L2E+PC9saT48L3VsPjxsaT48YSBocmVmPScjJz5TaW5jU3BvcnRzPC9hPjxkaXYgY2xhc3M9J3NpbmNzcHJpdGUgZnJpZ2h0IHBsdXMgc2lkZS10b2dnbGUnPjwvZGl2Pjx1bCBjbGFzcz0naGlkZSc+PGxpPjxhIGhyZWY9J2h0dHA6Ly9zaW5jbXl0ZWFtLmNvbSc+U2luYyBNeSBUZWFtPC9hPjwvbGk+PGxpPjxhIGhyZWY9J3NpY1RvdXJuYW1lbnRzLmFzcHgnPlVwY29taW5nIEV2ZW50czwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vc2luY3Nwb3J0cy5jb20nPlByb21vdGUgWW91ciBFdmVudDwvYT48L2xpPjwvdWw+PGxpPjxhIGhyZWY9JyMnPkhlbHAgJiBTdXBwb3J0PC9hPjxkaXYgY2xhc3M9J3NpbmNzcHJpdGUgZnJpZ2h0IHBsdXMgc2lkZS10b2dnbGUnPjwvZGl2Pjx1bCBjbGFzcz0naGlkZSc+PGxpPjxhIGhyZWY9J1RUSGVscFNlYXJjaC5hc3B4Jz5TZWFyY2hhYmxlIEhlbHA8L2E+PC9saT48bGk+PGEgaHJlZj0nc2ljU3VwcG9ydC5hc3B4Jz5Db250YWN0IFVzPC9hPjwvbGk+PC91bD48bGk+PGEgaHJlZj0nVFRMb2dpbi5hc3B4Jz5MT0dJTjwvYT48L2xpPjwvdWw+ZAILDw8WAh4LTmF2aWdhdGVVcmwFGC9wcml2YWN5LmFzcHg/Jm1lbnU9aGlkZWRkAg0PFgIfAAVBPGEgaWQ9J2xuZ2xuaycgY2xhc3M9J2ZyaWdodCBsb2dpbicgaHJlZj0nVFRMb2dpbi5hc3B4Jz5Mb2dpbjwvYT5kAg8PFgIfAAUXPGgyPlByaXZhY3kgUG9saWN5PC9oMj5kAhEPZBYCAgMPFgIfAAXCAjxzY3JpcHQgYXN5bmMgc3JjPScvL3BhZ2VhZDIuZ29vZ2xlc3luZGljYXRpb24uY29tL3BhZ2VhZC9qcy9hZHNieWdvb2dsZS5qcycgPjwvc2NyaXB0PjwhLS0gU3BvcnRzX1Jlc3BvbnNpdmUgLS0+PGlucyBDbGFzcz0nYWRzYnlnb29nbGUnIHN0eWxlPSdkaXNwbGF5OmJsb2NrJyBkYXRhLWFkLWNsaWVudD0nY2EtcHViLTMxNTc4ODI0NTY2NjMwMjcnIGRhdGEtYWQtc2xvdD0nOTY5MzcyMTYxNicgZGF0YS1hZC1mb3JtYXQ9J2F1dG8nPjwvaW5zPjxTY3JpcHQ+KGFkc2J5Z29vZ2xlID0gd2luZG93LmFkc2J5Z29vZ2xlIHx8IFtdKS5wdXNoKHt9KTs8L3NjcmlwdD5kAhcPFgIfAAUGU29jY2VyZAIZDxYCHwAFBDIwMTZkAhsPDxYCHgdWaXNpYmxlaGQWAgIBDw9kD2QFlAFCd05xZTBOdmJuUnliMnhKUkRwaWRHNU5aWEpuWlR0UVlYSmhiV1YwWlhJNmJXVnlaMlY5TEh0RGIyNTBjbTlzU1VRNlluUnVRMnhsWVhJN1VHRnlZVzFsZEdWeU9saDlMSHREYjI1MGNtOXNTVVE2WW5SdVJHVnNWRlJNYVhOME8xQmhjbUZ0WlhSbGNqcFlmUUFBFgICAQ9kFgYCAw8QZGQWAWZkAgUPPCsACQBkAgsPZBYCAgMPPCsACwBkZIn9Zp6gOCQfH7vX6r22P6F5EKdx">
 </div>
 
 
 <script type="text/javascript">
 //<![CDATA[
-if (typeof(EO1117)=='undefined'){EO1117=new Object();EO1117.f=new Object();EO1117.g=new Object();EO1117.r=new Object();EO1117.g.a=EO1117.r;EO1117.r.getVersion=function(){return "11.17";};EO1117.r.getLoader=function(){return typeof(EO1117.g.d)!='undefined'?EO1117.g.d:null;};EO1117.r.getNS=function(){return "EO1117";};};
-EO1117.r.product='EO.Web';
-EO1117.r.form='aspnetForm';
-EO1117.r.autoInit=false;
-EO1117.r.handlerUrl='/eo_web.ashx';
+if (typeof(EO167)=='undefined'){EO167=new Object();EO167.f=new Object();EO167.g=new Object();EO167.r=new Object();EO167.g.a=EO167.r;EO167.r.getVersion=function(){return "16.7";};EO167.r.getLoader=function(){return typeof(EO167.g.d)!='undefined'?EO167.g.d:null;};EO167.r.getNS=function(){return "EO167";};};
+EO167.r.product='EO.Web';
+EO167.r.form='aspnetForm';
+EO167.r.autoInit=false;
+EO167.r.handlerUrl='/eo_web.ashx';
 
 //]]>
 </script>
-<script type="text/javascript" src="/eo_web.ashx?id=9074efd8-6650-4e62-ae73-66853c0bae46"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=fc124733-4486-4dfa-8a37-0912151aedce"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=9908f636-b0c6-4c34-ba05-cd270f06c518"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=4245b29a-20cc-4957-b086-6f6d13519678"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=5a43eefa-c407-42a3-9fb5-2792c93bbad2"></script><div id="eo_root"></div>
-<script type="text/javascript" src="/eo_web.ashx?id=0503a57e-dc08-4ecc-95ab-673c1e414612"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=d9b671a8-dcb0-4a26-b4c2-8b9b665af098"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=59520c2c-a07b-4c14-9654-c08715053477"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=076eb0a1-8387-4603-aedf-826c60ec5a79"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=9e8ed178-3275-4ed9-99e6-be970fd7e3c5"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=732baf34-c0b6-4d91-8337-382bad3ac99d"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=070fd43c-8eee-4be5-86e0-983561c0fad5"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=a5c8aff5-e34e-4598-a359-aafa85c2c710"></script>
-<script src="/ScriptResource.axd?d=NGzVo3T4HWxjK1_Z9NWwFtqmhlkF45TjA_3YkIuvT5udNlj31nYLjSP9nIhNH9Z20WL-7skbCQgKou4RrVkY95Us1p-B-GuW9xjsdMyp_iMWDblHLL5TuNqURv9nieQOQOfTkt5UlCSzBGEi51_co5abjXc1&amp;t=2e2045e2" type="text/javascript"></script>
-
-
+<script type="text/javascript" src="/eo_web.ashx?id=1cb270fd-e118-4ecb-a6dd-2e96bfebd7ec"></script>
+<script type="text/javascript" src="/eo_web.ashx?id=6571ddef-c74d-4096-9349-d3cac248966d"></script>
+<script type="text/javascript" src="/eo_web.ashx?id=36826dd2-5472-4575-b8f4-0cb961915262"></script>
+<script type="text/javascript" src="/eo_web.ashx?id=ff4a108b-2161-4c94-8961-c4cc5c8b0763"></script>
+<script type="text/javascript" src="/eo_web.ashx?id=a4ee9aa1-ce5b-4b62-baeb-0b46939ca15a"></script><div id="eo_root"></div>
+    
 <!-- Begin EO.Web ScriptManager eosm.  -->
-<div style="position:absolute; top:-1000px;"><input type="hidden" name="eo_version" value="11.0.17.2"><input type="hidden" name="eo_style_keys" value="/wFk"></div>
+<div style="position:absolute; top:-1000px;"><input type="hidden" name="eo_version" value="16.0.7.0"><input type="hidden" name="eo_style_keys" value="/wFk"><input type="hidden" name="__eo_obj_states"></div>
 <script type="text/javascript">
 //<![CDATA[
-EO1117.r.product='EO.Web';
-EO1117.r.debug=0;
-EO1117.r.aspnet11=0;
+EO167.r.product='EO.Web';
+EO167.r.debug=-1;
+EO167.r.aspnet11=0;
 var eo_culture_i=eval('({"name":"","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"\u00A4","NaNSymbol":"NaN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-Infinity","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"Infinity","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"\u2030","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"@-62135568000000@","MaxSupportedDateTime":"@253402300799999@","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, dd MMMM yyyy HH:mm:ss","LongDatePattern":"dddd, dd MMMM yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"MMMM dd","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\':\'mm\':\'ss \'GMT\'","ShortDatePattern":"MM/dd/yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\'-\'MM\'-\'dd\'T\'HH\':\'mm\':\'ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\'-\'MM\'-\'dd HH\':\'mm\':\'ss\'Z\'","YearMonthPattern":"yyyy MMMM","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":true,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]}})');//eo_culture_i
 var eo_culture=eval('({"name":"en-US","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":false,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"$","NaNSymbol":"NaN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-Infinity","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"Infinity","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":new Date(-62135568000000),"MaxSupportedDateTime":new Date(253402300799999),"AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":false},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, MMMM dd, yyyy h:mm:ss tt","LongDatePattern":"dddd, MMMM dd, yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"MMMM dd","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"M/d/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM, yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":false,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]}})');//eo_culture
 
@@ -130,205 +249,56 @@ var eo_culture=eval('({"name":"en-US","numberFormat":{"CurrencyDecimalDigits":2,
 
 <!-- End EO.Web ScriptManager eosm.  -->
 
-
-
-
-
-<script type="text/javascript" src="/js/topbar.js?v=2"></script>
-<link href="/css/smbar.css?ver=7.0" type="text/css" rel="stylesheet">
-<script type="text/javascript" src="/js/sitepro/superfish.js"></script> 
-<script type="text/javascript">
-    $(document).ready(function () {
-        $("#mytestMenu").superfish();
-        $("[id$=lblName]").mouseenter(function () {
-            $("#typeList").slideDown();
-        });
-    });
-</script>
-<style type="text/css">
-    #typeList { position: fixed; background-color: #333; padding: 10px; text-align: left; margin-left: -15px; margin-top: 7px; border: 5px solid #100000; border-top: 0; 
-                -webkit-border-bottom-right-radius: 8px; -webkit-border-bottom-left-radius: 8px; -moz-border-radius-bottomright: 8px; -moz-border-radius-bottomleft: 8px; 
-                border-bottom-right-radius: 8px; border-bottom-left-radius: 8px;border-top:1px solid #9f9f9f; list-style-type:none; }
-    #typeList li { padding-bottom:5px;}
-    #typeList a, #typeList a:link, #typeList a:visited { color:#fff; }
-    #d_arrow { margin-top:3px; margin-right:3px; }
-</style>
-<div class="smbar" id="sincMeBar">
-    
-    <div class="lside sme">
-        <a href="http://blog.sincsports.com/2012/04/10/sincme-bar" id="ctl00_myTopMenu_lnkFeature" target="_blank" class="toptip" title="Click to view our blog for the lastest updates" style="float:left;">
-            <img src="images/2012/sincme70.png" id="ctl00_myTopMenu_imgFeature" border="0" style="height:32px;width:70px;margin-top:-2px;margin-right:8px;">
-        </a>
-    </div>
-    <div class="lside"> 
-        <ul id="mytestMenu" class="sinc-menu"><li><a href="#">Features</a><ul><li><a href="sicMemberships.aspx">Athlete Memberships</a></li><li><a href="sicVIPMembers.aspx">sincVIP Memberships</a></li><li><a href="http://sincsports.com">Event Management - SincSports</a></li><li><a href="http://sincmyteam.com">sinc my team</a></li></ul></li></ul> 
-        
-    </div>
-    <div class="rside">
-        <table border="0" class="lgntbl">
-            <tbody><tr>
-                <td style="text-align:right;vertical-align:middle;padding-right:3px;">
-                    <span id="ctl00_myTopMenu_lblName" class="smname word"><a class="titlelink" href="TTLogin.aspx?tid=BLASTCS&amp;new=Y">LOGIN</a></span>
-                </td>
-                <td class="rSideBtns">
-                    
-<!-- Begin EO.Web Menu myTopBar.  -->
-<table id="ctl00_myTopMenu_myTopBar" style="width:80px;float:left;">
+    <div id="bg">
+        <div id="menu">
+            <div id="menu-header">
+                <div class="sincsprite s-logo fleft"></div>
+                
+                <div id="menu-close" class="sincsprite menu fright" style="margin-right:10px;"></div>
+            </div>
+            
+            
+            <table id="ctl00_cpSearch">
 	<tbody>
 		<tr>
-			<td></td>
+			<td>             
+                                    
+            </td>
 		</tr>
 	</tbody>
 </table>
 <script type="text/javascript">
 //<![CDATA[
-EO1117.g.d.k("ldr|i|fmt|u|pop|ei|nv|m|sr", function(){EO1117.g.b.ctl00_myTopMenu_myTopBar=1;EO1117.r._o_ctl00_myTopMenu_myTopBar=EO1117.f.aby(EO1117.r._o_ctl00_myTopMenu_myTopBar,"myTopBar",new EO1117.f.aaco([[[[,"ctl00_myTopMenu_myTopBar","Menu","ctl00$myTopMenu$myTopBar",,,,,,,"__doPostBack(\'ctl00$myTopMenu$myTopBar\',\'_eo_arg_\')"],,,,,,,,,[]],0,0,,new EO1117.f.aadw([[,42,,new EO1117.f.aafw([[[,,new EO1117.f.ahf([,new EO1117.f.aadw([[,,,new EO1117.f.aafw([[[,,new EO1117.f.ahf([,new EO1117.f.aadw([[,,"I don\'t know my login information",,"TTLogin.aspx?forgot=Y&sic=Y",,,new EO1117.f.aaaj([,"lgnMenu","lgnMenuHover"])],,new EO1117.f.aaai([,"/images/blank.gif","/images/blank.gif"])]),new EO1117.f.aadw([[,,"I forgot my password",,"TTLogin.aspx?forgot=Y&sic=Y",,,new EO1117.f.aaaj([,"lgnMenu","lgnMenuHover"])],,new EO1117.f.aaai([,"/images/blank.gif","/images/blank.gif"])]),new EO1117.f.aadw([[,,"Create an Account",,"TTLogin.aspx?sic=Y&newmember=Y",,,new EO1117.f.aaaj([,"lgnMenu","lgnMenuHover"])],,new EO1117.f.aaai([,"/images/blank.gif","/images/blank.gif"])]),new EO1117.f.aadw([[,,"---------------------------"]]),new EO1117.f.aadw([[,,"Searchable help",,"TTHelpSearch.aspx?sic=Y",,,new EO1117.f.aaaj([,"lgnMenu","lgnMenuHover"])],,new EO1117.f.aaai([,"/images/blank.gif","/images/blank.gif"])]),new EO1117.f.aadw([[,,"Contact Us",,"sicSupport.aspx?sic=Y",,,new EO1117.f.aaaj([,"lgnMenu","lgnMenuHover"])],,new EO1117.f.aaai([,"/images/blank.gif","/images/blank.gif"])])]),,,270]],,,-250,,,,0]),,,,new EO1117.f.aaaj([,"menuIcon","menuIconHover",,,,,,"downItemSub eo_css_ctrl_ctl00_myTopMenu_myTopBar4"])],,,,new EO1117.f.bqj([[,"/images/2012/help.png","/images/2012/help_gray.png"]])])])]]])]]),new EO1117.f.ahf([,new EO1117.f.aadw([[,33554432,,new EO1117.f.aafw([[[,,,,3],12]]),,"_Default",,new EO1117.f.aaaj([,"eo_css_ctrl_ctl00_myTopMenu_myTopBar1","eo_css_ctrl_ctl00_myTopMenu_myTopBar2",,"eo_css_ctrl_ctl00_myTopMenu_myTopBar2",,,"eo_css_ctrl_ctl00_myTopMenu_myTopBar2","eo_css_ctrl_ctl00_myTopMenu_myTopBar3"])]])]),,,,,,,,,,,,,1,,,,new EO1117.f.aadw([[,,,,,,,new EO1117.f.aaaj([,"eo_css_ctrl_ctl00_myTopMenu_myTopBar5","eo_css_ctrl_ctl00_myTopMenu_myTopBar6"]),16],,,,new EO1117.f.bqj([[,"/eo_web.ashx?id=c5756fbe-7ca9-4498-af35-6c6bae0ea0a3"]])]),new EO1117.f.aadw([[,,,,,,,new EO1117.f.aaaj([,"eo_css_ctrl_ctl00_myTopMenu_myTopBar5","eo_css_ctrl_ctl00_myTopMenu_myTopBar6"]),16],,,,new EO1117.f.bqj([[,"/eo_web.ashx?id=2a21de9d-df2d-4e9f-991e-2bf98590ce74"]])])],,,2000,,,"",""]),"Menu");EO1117.f.ahe(EO1117.r._o_ctl00_myTopMenu_myTopBar,1,null, 0);});
+EO167.g.d.k("i|c", function(){EO167.g.b.ctl00_cpSearch=1;EO167.r._o_ctl00_cpSearch=EO167.f.acf(EO167.r._o_ctl00_cpSearch,"cpSearch",new EO167.f.aaud([[,"ctl00_cpSearch","Callback","ctl00$cpSearch",,,,,,,"__doPostBack(\'ctl00$cpSearch\',\'_eo_arg_\')"],,"__doPostBack(\'ctl00$cpSearch\',\'\')",,,,,,[],"<div class=\'loading\'></div>",,,,,,,0,0]),"Callback");EO167.f.ahl(EO167.r._o_ctl00_cpSearch,1,null, 0);});
 //]]>
 </script>
 
-<!-- End EO.Web Menu myTopBar.  -->
+            <ul id="side-menu"><li><a href="#">My Account</a><div class="sincsprite fright minus side-toggle"></div><ul><li><a href="TTLogin.aspx">Login to view your account</a></li></ul></li><li><a href="#">Soccer in college</a><div class="sincsprite fright minus side-toggle"></div><ul><li><a href="sicColleges.aspx">Colleges</a></li><li><a href="events.aspx">Tournaments</a></li><li><a href="events.aspx?leagues=Y">Leagues</a></li><li><a href="sicClubs.aspx">Teams</a></li><li><a href="sicAthletes.aspx">Athletes</a></li></ul></li><li><a href="#">USA Rank</a><div class="sincsprite fright plus side-toggle"></div><ul class="hide"><li><a href="sicPageInfo.aspx?type=RANK">How USA Rank works</a></li><li><a href="sicRank.aspx">View Rankings</a></li></ul></li><li><a href="#">SincSports</a><div class="sincsprite fright plus side-toggle"></div><ul class="hide"><li><a href="http://sincmyteam.com">Sinc My Team</a></li><li><a href="sicTournaments.aspx">Upcoming Events</a></li><li><a href="http://sincsports.com">Promote Your Event</a></li></ul></li><li><a href="#">Help &amp; Support</a><div class="sincsprite fright plus side-toggle"></div><ul class="hide"><li><a href="TTHelpSearch.aspx">Searchable Help</a></li><li><a href="sicSupport.aspx">Contact Us</a></li></ul></li><li><a href="TTLogin.aspx">LOGIN</a></li></ul>
 
-                </td>
-            </tr>
-        </tbody></table>
-    </div>
-    <div style="height:0;width:0;overflow:hidden;">
-        <span id="ctl00_myTopMenu_lblTID" style="visibility:hidden;">BLASTCS</span>
-        <span id="ctl00_myTopMenu_lblMobile" style="visibility:hidden;">0</span>
-    </div>
-    <div class="clear"></div>
-    
-    </div>
-
-<!-- Begin EO.Web Dialog dialogHandleAlert.  -->
-
-<script type="text/javascript">
-//<![CDATA[
-EO1117.f.asm();
-//]]>
-</script>
-<table id="ctl00_myTopMenu_dialogHandleAlert" border="0" class="eo_no_border_spacing" style="width:830px;display:none;">
-	<tbody><tr><td align="left"><div id="ctl00_myTopMenu_dialogHandleAlert_headerDiv"><div style="position:relative;z-index:2;"><div id="ctl00_myTopMenu_dialogHandleAlert_headerHtml">SincSports Alert</div><table id="ctl00_myTopMenu_dialogHandleAlert_headerTableR" border="0" cellspacing="0" cellpadding="0" style="position:absolute;right:0px;top:0px;"><tbody><tr><td valign="middle"><img id="ctl00_myTopMenu_dialogHandleAlert_close" alt="" style="display:none"></td></tr></tbody></table></div></div></td></tr><tr><td valign="top"><table id="ctl00_myTopMenu_dialogHandleAlert_contentTable" border="0" style="width:100%;height:100%;" class="eo_no_border_spacing"><tbody><tr><td height="100%" align="left" valign="top">
-        <p>
-        </p>
-        <table id="ctl00_myTopMenu_dialogHandleAlert_ctl00_cpAlertPage">
-		<tbody>
-			<tr>
-				<td>
-            
-        </td>
-			</tr>
-		</tbody>
-	</table>
-<script type="text/javascript">
-//<![CDATA[
-EO1117.g.d.k("i|c", function(){EO1117.g.b.ctl00_myTopMenu_dialogHandleAlert_ctl00_cpAlertPage=1;EO1117.r._o_ctl00_myTopMenu_dialogHandleAlert_ctl00_cpAlertPage=EO1117.f.aby(EO1117.r._o_ctl00_myTopMenu_dialogHandleAlert_ctl00_cpAlertPage,"cpAlertPage",new EO1117.f.aatm([[,"ctl00_myTopMenu_dialogHandleAlert_ctl00_cpAlertPage","Callback","ctl00$myTopMenu$dialogHandleAlert$ctl00$cpAlertPage",,,,,,,"__doPostBack(\'ctl00$myTopMenu$dialogHandleAlert$ctl00$cpAlertPage\',\'_eo_arg_\')"],,"__doPostBack(\'ctl00$myTopMenu$dialogHandleAlert$ctl00$cpAlertPage\',\'\')",,,,,,[],"<div class=\'loading\'></div>",,,,,,,0,0]),"Callback");EO1117.f.ahe(EO1117.r._o_ctl00_myTopMenu_dialogHandleAlert_ctl00_cpAlertPage,1,null, 0);});
-//]]>
-</script>
-
-    </td></tr></tbody></table></td></tr><tr><td><div id="ctl00_myTopMenu_dialogHandleAlert_footerDiv" style="position:relative;width:auto;"><table id="ctl00_myTopMenu_dialogHandleAlert_footerTable" border="0" cellspacing="0" cellpadding="0" style="width:100%;"><tbody><tr><td id="ctl00_myTopMenu_dialogHandleAlert_footer" class="eo_align_center"></td></tr></tbody></table></div></td></tr>
-</tbody></table>
-<script type="text/javascript">
-//<![CDATA[
-EO1117.g.d.k("ldr|i|fmt|u|ei|e|pop|dd|c|dg", function(){EO1117.g.b.ctl00_myTopMenu_dialogHandleAlert=1;EO1117.r._o_ctl00_myTopMenu_dialogHandleAlert=EO1117.f.aby(EO1117.r._o_ctl00_myTopMenu_dialogHandleAlert,"dialogHandleAlert",new EO1117.f.azs([[[,"ctl00_myTopMenu_dialogHandleAlert","Dialog","ctl00$myTopMenu$dialogHandleAlert",,,,,,,"__doPostBack(\'ctl00$myTopMenu$dialogHandleAlert\',\'_eo_arg_\')"],,,,,,,,,[]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"ctl00_myTopMenu_dialogHandleAlert_ctl00","ctl00_myTopMenu_dialogHandleAlert_ctl01"]),"Dialog");EO1117.f.ahe(EO1117.r._o_ctl00_myTopMenu_dialogHandleAlert,1,500, 0);});
-//]]>
-</script>
-
-<script type="text/javascript">
-//<![CDATA[
-EO1117.f.asn();
-//]]>
-</script>
-
-<!-- End EO.Web Dialog dialogHandleAlert.  -->
-
-
-   
-<link href="css/helpPanel.CSS?v=2" type="text/css" rel="stylesheet">
- <script type="text/javascript">
-
-     $(document).ready(function () {
-         var height = $("#helpdiv").height();
-         height -= 220;
-         $("#divhh").css("max-height", height + "px");
-     });
-
-     function showHelp(el) {
-         var isOpen = false;
-         if ($(el).css('display') == 'none')
-             isOpen = false;
-         else
-             isOpen = true;
-         closeHelp();
-         if (!isOpen) 
-             $(el).slideToggle('slow');
-     }
-     function closeHelp() {
-         $('.answer_div').slideUp();
-     }
-     function showHelpTab() {
-         $('#ctl00_hPanelText_imgShowHelp').hide();
-         $('#helpdiv').animate({ width: 'toggle' });
-     }
-     function hideHelpTab() {
-         $('#helpdiv').hide();
-         $('#ctl00_hPanelText_imgShowHelp').show();
-     }
-
-</script>
-<img id="ctl00_hPanelText_imgShowHelp" onclick="showHelpTab();" src="images/help/help_tab_new.png" style="border-width:0px;position:fixed;cursor:pointer;z-index:600000;top:55px; right:0px;width:23px;height:120px;">
-<div class="slide-out-div" id="helpdiv" style="display:none;line-height:140%;height:100%;position:fixed;right:0;font-size:10pt;">
-<div id="divhh" style="width:250px;overflow:auto;float:left;clear:both;">
-<div style="border-bottom:1px solid #a0a0a0;width:230px;">
-    <img src="images/help/sincHelp45.png" style="float:left;">
-    <div src="images/help/close.png" class="closehelp" onclick="hideHelpTab();"></div>
-    <div class="clr"></div>
-</div>
-<div style="width:230px;">
-    <span id="ctl00_hPanelText_lblHeader" style="font-size:12pt;"></span>
-    <span id="ctl00_hPanelText_lblIntro" style="line-height:130%;"></span><br>
-    
-    <br>
-</div>
-</div>
-<div style="width:250px;position:fixed; bottom:0;padding-bottom:25px; text-align:center;"> 
-       
-        <span id="ctl00_hPanelText_lblHelpQ">
-        Can't find what you need?</span><br>
-        <input type="submit" name="ctl00$hPanelText$btnSendQuestion" value="Contact us" id="ctl00_hPanelText_btnSendQuestion" class="contactBtn">
-</div>
-</div>
-
-  
-<div class="bg-main">
-	<div id="mainBG">
-    <header>
-		<div class="container_24">
-			<div class="wrapper">
-				<div class="grid_17">
-					<h1><a href="Default.aspx" id="ctl00_mainLogo" class="soccerlogo"></a></h1>
-				</div>
-				<div class="grid_7">
-                    <h1><a href="http://sincsports.com" target="_blank" class="sincsports">
-                    </a></h1>
-					<!-- Where the search box was -->
-				</div>
-			</div>
-		</div>
-		<nav class="main-menu soccerMenu"><ul id="sf-menu" class="sf-menu sportsmenu"><li class="current"><a href="Default.aspx"><em>Home</em></a></li><li><a href="sicColleges.aspx"><em>Colleges</em></a></li><li><a href="sicTournaments.aspx"><em>Tournaments</em></a></li><li><a href="sicLeagues.aspx"><em>Leagues</em></a></li><li><a href="sicClubs.aspx"><em>Teams</em></a></li><li><a href="sicAthletes.aspx"><em>Athletes</em></a></li><li class="last"><a href="sicRank.aspx"><em>USA Rank</em></a></li></ul><div style="clear:both;"></div></nav>
-			
-	</header>
-    <section id="ctl00_contentArea" class="padsection" style="padding-top:15px;">
-        <div class="container_24">
-			<div id="theMainWrap" class="wrapper">
-            <div>
-                <h2>Privacy Policy</h2>
+            <div id="hideMe">
+                <div>
+                <a id="ctl00_lnkHideMenu" class="hideThis" href="/privacy.aspx?&amp;menu=hide">Keep this menu hidden</a>
+                </div>
             </div>
-            <div id="ctl00_pnlLeftCol" class="grid_20">
+        </div>
+        <div id="contents">
+            <div id="header">
+                <div class="p5_10">
+                <div id="menu-open" class="sincsprite menu-large fleft"></div>
+               
+                <a id="lnglnk" class="fright login" href="TTLogin.aspx">Login</a>
+                <a href="/Default.aspx">
+                <img src="/images/blank.gif" class="center-s sincsprite sinc-long"></a>
+                <div class="sincsprite sinc-logo center-margin hide"></div>
+            </div>
+            </div>
+            <div id="page">
+                <div>
+                    <h2>Privacy Policy</h2>
+                </div>
+                <div id="ctl00_pnlMain">
 	
-            
-            <div style="min-height:350px;">
-            
+                    
 
 <div style="padding-top:15px; padding-right:15px;">
 
@@ -336,18 +306,18 @@ EO1117.f.asn();
     <strong>What information do we collect?</strong> <br><br>
         We collect information from you when you register on our site, place an order or fill out a form.  <br><br>
         When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number.<br><br>
-        Google, as a third party vendor, uses cookies to serve ads on your site.
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..<br><br>
+        Google, as a third party vendor, uses cookies to serve ads on our site.
+        Google's use of the DART cookie enables it to serve ads to users based on visits to our site and other sites on the Internet.
+        Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.<br><br>
         <strong>What do we use your information for?</strong> <br><br>Any of the information we collect from you may be used in one of the following ways: <br><br>; 
         To personalize your experience<br>(your information helps us to better respond to your individual needs)<br><br>; 
         To improve our website<br>(we continually strive to improve our website offerings based on the information and feedback we receive from you)<br><br>; 
         To improve customer service<br>(your information helps us to more effectively respond to your customer service requests and support needs)<br><br>; 
-        To process transactions<br><blockquote>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company 
-            for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</blockquote><br>; 
-        To administer a contest, promotion, survey or other site feature<br><br><br>; To send periodic emails<br><blockquote>The email address you provide for order 
+        To process transactions<br>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company 
+            for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.<br>; 
+        To administer a contest, promotion, survey or other site feature<br><br><br>; To send periodic emails<br>The email address you provide for order 
             processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or 
-            service information, etc.</blockquote>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions 
+            service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions 
         at the bottom of each email.<br><br><br><br><strong>How do we protect your information?</strong> <br><br>We implement a variety of security measures to maintain
          the safety of your personal information when you place an order or enter, submit, or access your personal information. <br> <br>We offer the use of a secure server. 
         All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be 
@@ -369,112 +339,100 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
         <br><br>This online privacy policy applies only to information collected through our website and not to information collected offline.<br><br><strong>Your Consent</strong> 
         <br><br>By using our site, you consent to our privacy policy.<br>
         <br><strong>Changes to our Privacy Policy</strong> <br><br>If we decide to change our privacy policy, we will update the Privacy Policy modification date below. <br><br>
-        This policy was last modified on 08/11/2014<br><br>
+        This policy was last reviewed on 02/29/2016 <br><br>
         <!-- END PRIVACY POLICY CODE -->
 
 </div>
 
- 
-            </div>
-                <div class="clear"></div>
 
-            <div class="bottomads">
-                <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-3157882456663027" data-ad-slot="3303560292"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({}); </script>
-            </div>
-            
+                    <div class="bottomads">
+                        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Sports_Responsive --><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3157882456663027" data-ad-slot="9693721616" data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                    </div>
+                
 </div>
-            <div id="ctl00_pnlRightCol" class="grid_4" style="padding-top:6px;">
+                <div id="ctl00_pnlRightCol">
 	
-                <div style="width:90px; overflow:hidden;height:25px;padding-bottom:5px;padding-left:35px;">
-                    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fsportsincollege&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;font=arial&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=60649530924" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
-                </div>
-                <div id="ctl00_pnlDash" style="margin-bottom:10px;">
+                    <div style="width:90px; overflow:hidden;height:25px;padding-bottom:5px;padding-left:35px;">
+                        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fsportsincollege&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;font=arial&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=60649530924" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
+                    </div>
+                    <div id="ctl00_pnlDash" style="margin-bottom:10px;">
 		
-                    <div style="text-align:center;padding-top:5px;">
-                        <h5>College Bound Athletes</h5>
-                        <a href="sicTour.aspx" class="btn inf small">Take the tour!</a>
-                    </div>
-                    <div>
-                    <a id="ctl00_imgPremier" href="sicSignUp.aspx?memtype=3&amp;from=banner" style="padding-bottom:10px;"></a>
-                    <a id="ctl00_imgPlus" href="sicSignUp.aspx?memtype=4&amp;from=sidebanner"><img id="athupg" src="images/premierPlusUpgrade.png"></a><br>
-                    </div>
-                
+                        <div style="text-align:center;padding-top:5px;">
+                            <h5>College Bound Athletes</h5>
+                            <a href="sicTour.aspx" class="btn inf small">Take the tour!</a>
+                        </div>
+                        <div>
+                        <a id="ctl00_imgPremier" href="sicSignUp.aspx?memtype=3&amp;from=banner" style="padding-bottom:10px;"></a>
+                        <a id="ctl00_imgPlus" href="sicSignUp.aspx?memtype=4&amp;from=sidebanner"></a><br>
+                        </div>
+                    
 	</div>
                 
-                <div id="pnlBelowQL">
-                <div id="ctl00_pnlGAd" class="sdw r8" style="padding:15px 15px 0 15px;background:#fff;margin:15px auto;">
+                    <div id="pnlBelowQL">
+                    <div id="ctl00_pnlGAd">
 		
-                    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:inline-block;width:120px;height:240px" data-ad-client="ca-pub-3157882456663027" data-ad-slot="4616616292"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({}); </script>
-                
+                        
+                    
 	</div>
+                    
+                     
+                    </div>
                 
-                 
-                </div>
-            
 </div>
-            <div class="clear"></div>
+                <div class="clear"></div>
+                <span id="ctl00_lblMenuState" class="menustatelbl" style="visibility:hidden;">1</span>
             </div>
-        </div>
-    </section>
-    </div>
-</div>
-
-<footer>
-	<div class=" container_24">
-		<div class="wrapper">
-			<div class="grid_6 suffix_1">
-				<h4><a href="Default.aspx">SoccerInCollege.com</a></h4>
-				<p>for the sports minded student</p>
-                <h4><a href="http://sincsports.com" target="_blank">SincSports.com</a></h4>
-                <p>premier event management systems</p>
-			</div>
-			<div class="grid_4 suffix_2">
-				<h4>Site Contents</h4>
-				<div class="wrapper">
-					<div class="grid_4 alpha">
-						<ul class="footer-list">
+            <div id="footer">
+                <div class="footWrap">
+                    <div class=" container_24">
+			            <div class="grid_6 suffix_1">
+				            <h4><a href="Default.aspx">SoccerInCollege.com</a></h4>
+				            <p>for the sports minded student</p>
+                            <h4><a href="http://sincsports.com" target="_blank">SincSports.com</a></h4>
+                            <p>premier event management systems</p>
+			            </div>
+			            <div class="grid_4 suffix_2">
+				            <h4>Site Contents</h4>
+					        <ul class="footer-list">
                             
-							<li><a href="siccolleges.aspx">Colleges</a></li>
-							<li><a href="sictournaments.aspx">Tournaments</a></li>
-							<li><a href="sicleagues.aspx">Leagues</a></li>
-							<li><a href="sicclubs.aspx">Clubs &amp; Teams</a></li>
-                            <li><a href="sicathletes.aspx">Athletes</a></li>
-                            <li><a href="sicrank.aspx">USA Rank</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-            <div class="grid_5 suffix_1">
-                <h4>Help &amp; Support</h4>
-                <div class="wrapper">
-                    <div class="grid_3 omega">
-						<ul class="footer-list">
-							<li><a href="contact.aspx">Contact Us</a></li>
-							<li><a href="sicSupport.aspx">Help &amp; Support</a></li>
-                            <li><a href="TTLogin.aspx?sic=Y">Create an account</a></li>
-                            <li><a href="TTLogin.aspx?sic=Y">Login</a></li>
-							<li><a href="http://www.sincsports.com">Event Software</a></li>
-                            <li><a href="about.aspx">About Us</a></li>
-						</ul>
-					</div>
+						        <li><a href="/siccolleges.aspx">Colleges</a></li>
+						        <li><a href="/sictournaments.aspx">Tournaments</a></li>
+						        <li><a href="/sicleagues.aspx">Leagues</a></li>
+						        <li><a href="/sicclubs.aspx">Clubs &amp; Teams</a></li>
+                                <li><a href="/sicathletes.aspx">Athletes</a></li>
+                                <li><a href="/sicrank.aspx">USA Rank</a></li>
+					        </ul>
+			            </div>
+                        <div class="grid_5 suffix_1">
+                            <h4>Help &amp; Support</h4>
+					        <ul class="footer-list">
+						        <li><a href="/contact.aspx">Contact Us</a></li>
+						        <li><a href="/sicSupport.aspx">Help &amp; Support</a></li>
+                                <li><a href="/TTLogin.aspx?sic=Y">Create an account</a></li>
+                                <li><a href="/TTLogin.aspx?sic=Y">Login</a></li>
+						        <li><a href="http://www.sincsports.com">Event Software</a></li>
+                                <li><a href="/about.aspx">About Us</a></li>
+					        </ul>
+                        </div>
+			            <div class="grid_4">
+				            <h4>Follow Us</h4>
+				            <ul class="tooltips">
+					            <li><a href="http://facebook.com/sportsincollege" target="_blank"><img src="/images/sitepro/icons/35x35/facebook.png" alt=""></a></li>
+					            <li><a href="http://blog.sincsports.com" target="_blank"><img src="/images/sitepro/icons/35x35/wordpress.png" alt=""></a></li>
+					            <li><a href="http://twitter.com/sincme" target="_blank"><img src="/images/sitepro/icons/35x35/twitter.png" alt=""></a></li>
+				            </ul>
+                            <p class="color1 privacy" style="padding-top:20px;">© 2016<span>|</span><a href="privacy.aspx">Privacy Policy</a></p>
+			            </div>
+	                </div>
                 </div>
+                
             </div>
-			<div class="grid_4">
-				<h4>Follow Us</h4>
-				<ul class="tooltips">
-					<li><a href="http://facebook.com/sportsincollege" target="_blank"><img src="images/sitepro/icons/35x35/facebook.png" alt=""></a></li>
-					<li><a href="http://blog.sincsports.com" target="_blank"><img src="images/sitepro/icons/35x35/wordpress.png" alt=""></a></li>
-					<li><a href="http://twitter.com/sincme" target="_blank"><img src="images/sitepro/icons/35x35/twitter.png" alt=""></a></li>
-				</ul>
-                <p class="color1 privacy" style="padding-top:20px;">© 2015<span>|</span><a href="privacy.aspx">Privacy Policy</a> <!-- {%FOOTER_LINK} --></p>
-			</div>
-		</div>
-	</div>
-</footer> 
-
- 
-
-
+            
+        </div>
+        
+    </div>
+         
+        
 <div id="smMessageBar">
     <div>
         <span id="ctl00_sicMessage_lblMsg" class="spanDisplayMessage"></span>
@@ -483,67 +441,14 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 </div>
    
 
-<!-- Begin EO.Web Dialog DialogHelp.  -->
-
-<script type="text/javascript">
-//<![CDATA[
-EO1117.f.asm();
-//]]>
-</script>
-<table id="ctl00_DialogHelp" border="0" class="eo_no_border_spacing" style="width:593px;display:none;">
-	<tbody><tr><td align="left"><div id="ctl00_DialogHelp_headerDiv"><div style="position:relative;z-index:2;"><div id="ctl00_DialogHelp_headerHtml"></div><table id="ctl00_DialogHelp_headerTableR" border="0" cellspacing="0" cellpadding="0" style="position:absolute;right:0px;top:0px;"><tbody><tr><td valign="middle"><img id="ctl00_DialogHelp_close" alt="" style="display:none"></td></tr></tbody></table></div></div></td></tr><tr><td valign="top"><table id="ctl00_DialogHelp_contentTable" border="0" style="width:100%;height:100%;" class="eo_no_border_spacing"><tbody><tr><td height="100%" align="left" valign="top">
-	    <table id="ctl00_DialogHelp_ctl00_cpHelpPanel">
-		<tbody>
-			<tr>
-				<td>
-	    <div id="hpdiv" style="max-height:550px; overflow:auto;display:none;">
-	    <br>
-	    </div>
-	    </td>
-			</tr>
-		</tbody>
-	</table>
-<script type="text/javascript">
-//<![CDATA[
-EO1117.g.d.k("i|c", function(){EO1117.g.b.ctl00_DialogHelp_ctl00_cpHelpPanel=1;EO1117.r._o_ctl00_DialogHelp_ctl00_cpHelpPanel=EO1117.f.aby(EO1117.r._o_ctl00_DialogHelp_ctl00_cpHelpPanel,"cpHelpPanel",new EO1117.f.aatm([[,"ctl00_DialogHelp_ctl00_cpHelpPanel","Callback","ctl00$DialogHelp$ctl00$cpHelpPanel",,,,,,,"__doPostBack(\'ctl00$DialogHelp$ctl00$cpHelpPanel\',\'_eo_arg_\')"],,"__doPostBack(\'ctl00$DialogHelp$ctl00$cpHelpPanel\',\'\')",,,,,,[],"<img src=\'images/loading2.gif\' /> Loading...",,,,,,,0,0]),"Callback");EO1117.f.ahe(EO1117.r._o_ctl00_DialogHelp_ctl00_cpHelpPanel,1,null, 0);});
-//]]>
-</script>
-
-	</td></tr></tbody></table></td></tr><tr><td><div id="ctl00_DialogHelp_footerDiv" style="position:relative;width:auto;"><table id="ctl00_DialogHelp_footerTable" border="0" cellspacing="0" cellpadding="0" style="width:100%;"><tbody><tr><td id="ctl00_DialogHelp_footer" class="eo_align_center"></td></tr></tbody></table></div></td></tr>
-</tbody></table>
-<script type="text/javascript">
-//<![CDATA[
-EO1117.g.d.k("ldr|i|fmt|u|ei|e|pop|dd|c|dg", function(){EO1117.g.b.ctl00_DialogHelp=1;EO1117.r._o_ctl00_DialogHelp=EO1117.f.aby(EO1117.r._o_ctl00_DialogHelp,"DialogHelp",new EO1117.f.azs([[[,"ctl00_DialogHelp","Dialog","ctl00$DialogHelp",,,,,,,"__doPostBack(\'ctl00$DialogHelp\',\'_eo_arg_\')"],,,,,,,,,[]],,,,,,,,,,,,,,,,,,,,,,"demo_link",,-635,5,,,,,,,,,,,,,,,,,,0,,,,"ctl00_DialogHelp_ctl00","ctl00_DialogHelp_ctl01"]),"Dialog");EO1117.f.ahe(EO1117.r._o_ctl00_DialogHelp,1,0, 0);});
-//]]>
-</script>
-
-<script type="text/javascript">
-//<![CDATA[
-EO1117.f.asn();
-//]]>
-</script>
-
-<!-- End EO.Web Dialog DialogHelp.  -->
- 
-
-<script type="text/javascript" language="javascript">
-    getFolder();
-    </script>
-    <script type="text/javascript">var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-10016839-2']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script> 
-
-
+    
+        
+    
+    
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLJqcSjBgLCjoOBCwo0JJmP25npvkv28X55v+d94BXM">
-</div>
+</div></form>
 
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
-</script>
-</form>
-        
 
 </body></html>
