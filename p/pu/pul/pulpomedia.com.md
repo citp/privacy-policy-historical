@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pulpomedia.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227013324id_/http%3A//www.pulpomedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulpomedia.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613005218id_/http%3A//www.pulpomedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pulpo Media
 
 ## TYPES OF INFORMATION WE COLLECT AND HOW WE COLLECT IT
 
-We collect information, including PII and Non-PII, when you interact with us and the Sites.
+We collect information, including PII and Non-PII, when you interact with us and the Sites. As part of the Company’s services, we utilize tools commonly used in the industry, such as HTTP cookies.
 
  **Non-Personally Identifiable Information (“Non-PII”)**  
 We collect Non-PII, for example, when you are browsing a Site with advertisements that we delivered, or when you click on one of these advertisements. We also collect Non-PII when you visit our websites or interact with us, for example, in connection with online surveys, contests or other online promotional activity administered by us. We may also obtain PII and make it Non-PII, for example, by removing personally-identifiable elements (such as names) or by aggregating PII with information about other individuals, in order to “anonymize” or “de-identify” the information. We may also augment the PII and Non-PII we collect with information from other sources, including, for example, zip code, age, gender, language preference or income range, in order to generate aggregate information that reflects activities, habits, preferences, or interests about our users as a group. This Privacy Policy does not apply to additional information that we collect from other sources.
@@ -15,7 +15,7 @@ We collect PII that you voluntarily provide to us, for example, when you:
   * • complete an online form, such as a survey, contest entry or other promotional activity;
   * • request information about an offer advertised through our network;
   * • enter into a transaction through an offer delivered through our network; or
-  * • request services from advertisers on whose behalf we provide fulfillment services or place online ads.
+  * • request services from advertisers on whose behalf we provide fulfillment services or place online ads
 
 
 
@@ -24,8 +24,7 @@ In some cases, if you choose not to provide PII you may not be able to engage in
  **Sensitive Information and Protecting Children**  
 We do not knowingly collect, use or share any financial account numbers or social security numbers for purposes of online behavior advertising without your specific consent.
 
-We do not knowingly collect “personal information,” as defined in the _Children’s Online Privacy Protection Act_ (“COPPA”), from children under the age of 13 or from Sites directed to children under the age of 13, nor do we engage in online behavioral advertising directed to children we have actual knowledge are under the age of 13. If you are a parent or legal guardian, we urge you to participate in your child’s online and mobile activities and to use parental control or other Internet and mobile filtering technology to supervise your child’s access to the Internet. If you believe that we may have obtained information relating to your child who is under the age of 13, please contact us immediately at [privacy@pulpomedia.com](mailto:privacy@pulpomedia.com).  
- 
+We do not knowingly collect “personal information,” as defined in the Children’s Online Privacy Protection Act (“COPPA”), from children under the age of 13 or from Sites directed to children under the age of 13, nor do we engage in online behavioral advertising directed to children we have actual knowledge are under the age of 13. If you are a parent or legal guardian, we urge you to participate in your child’s online and mobile activities and to use parental control or other Internet and mobile filtering technology to supervise your child’s access to the Internet. If you believe that we may have obtained information relating to your child who is under the age of 13, please contact us immediately at [privacy@pulpomedia.com](mailto:privacy@pulpomedia.com).
 
 ## HOW WE USE INFORMATION WE COLLECT
 
@@ -64,7 +63,7 @@ Please be aware that the Sites on which we place advertisements may independentl
 
 ## OPTING OUT OF INFORMATION COLLECTION
 
-You can opt-out of having the Company collect or use information about you for online behavior advertising by [clicking here](http://www.tentaculos.net/opt-out/ "Click Here!") or going to the website [www.tentaculos.net/opt-out/](http://www.tentaculos.net/opt-out/ "Click Here!") and following the instructions, and we will place an opt-out cookie on your computer. The opt-out process is computer, device and browser specific and therefore must be repeated on each computer, device and browser that you use (for example, from within _Internet Explorer_ and _Firefox_ ). Please note that deleting, blocking or otherwise restricting cookies on your computer or device may delete our opt-out cookie and require you to renew your opt-out choice.
+You can opt-out of having the Company collect or use information about you for online behavior advertising by [clicking here](http://www.tentaculos.net/opt-out/ "Click Here") or going to the website [www.tentaculos.net/opt-out/](http://www.tentaculos.net/opt-out/ "Click Here!") and following the instructions, and we will place an opt-out cookie on your computer. You may also use the NAI opt out tool by [clicking here](http://www.networkadvertising.org/choices "Click Here!") or going to the website [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices "Click Here!"). The opt-out process is computer, device and browser specific and therefore must be repeated on each computer, device and browser that you use (for example, from within _Internet Explorer and Firefox_ ). Please note that deleting, blocking or otherwise restricting cookies on your computer or device may delete our opt-out cookie and require you to renew your opt-out choice.
 
 Many browsers can be modified to prevent automatic acceptance and notify you every time a cookie is sent to you or to allow you to choose not to receive cookies at all. If you wish to change the settings on your browser to block cookies, please follow the instructions applicable to the web browser that you are using.
 
@@ -84,12 +83,11 @@ Any request for a disclosure required under this law should be sent to us via em
 
 ## EFFECTIVE DATE AND CHANGES TO THIS PRIVACY POLICY
 
-This Privacy Policy is effective as of August 8, 2014. We reserve the right to make changes to this Privacy Policy by posting an updated version.  
- 
+This Privacy Policy is effective as of March 2, 2016. We reserve the right to make changes to this Privacy Policy by posting an updated version.
 
 ## CONTACT US
 
-If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at: [privacy@pulpomedia.com](mailto:privacy@pulpomedia.com) or by mail at: **Pulpo (Entravision Company), 1767 Alcatraz Avenue, Berkeley, California 94703**.  
+If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at: [privacy@pulpomedia.com](mailto:privacy@pulpomedia.com) or by mail at: **or by mail at: Pulpo Media, Inc., 2425 Olympic Blvd., Suite 6000 West, Santa Monica, California 90404.**.  
  
 
 ## GLOSSARY OF TERMS
