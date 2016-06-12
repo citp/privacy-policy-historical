@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gocontigo.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114104id_/http%3A//www.gocontigo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gocontigo.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612202454id_/http%3A//www.gocontigo.com/privacy-policy) for the most accurate reproduction.*
 
 # Contigo® | Privacy Policy
 
