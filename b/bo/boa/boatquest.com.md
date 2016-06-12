@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatquest.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212142355id_/http%3A//reviews.boatquest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatquest.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612202532id_/http%3A//reviews.boatquest.com/privacy-policy) for the most accurate reproduction.*
 
 # Active Interest Media Privacy Policy - BoatQuest
 
