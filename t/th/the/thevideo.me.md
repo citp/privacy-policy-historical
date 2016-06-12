@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevideo.me privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222160127id_/http%3A//thevideo.me/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevideo.me privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612123532id_/http%3A//thevideo.me/pages/privacy.html) for the most accurate reproduction.*
 
 # TheVideo
 
