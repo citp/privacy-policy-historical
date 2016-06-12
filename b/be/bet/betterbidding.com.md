@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betterbidding.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210051716id_/http%3A//www.betterbidding.com/index.php%3Fapp%3Dccs%26module%3Dpages%26section%3Dpages%26id%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterbidding.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612033032id_/http%3A//www.betterbidding.com/index.php%3Fapp%3Dccs%26module%3Dpages%26section%3Dpages%26id%3D47) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Priceline and Hotwire Hotels, Bidding Help, Hotel Lists, Forum
 
 ## Privacy Policy 
 
@@ -29,7 +29,7 @@ In general, you can browse most parts of the site without registering, but to us
 
 In addition to the Information we collect when you register for an account, BetterBidding also collects certain technical and other information about the online activities of our users (whether they have registered or not). This may include, but is not limited to, IP addresses, browser type, and operating system.
 
-We have the ability to view your IP address if you visit BetterBidding. **** We also collect the Information that you provide when you make a post so that we can archive and display your posts.
+We have the ability to view your IP address if you visit BetterBidding. **** We also collect the Information that you provide when you make a post so that we can archive and ay your posts.
 
 ### Member Emails
 
