@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whatzbuzzing.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227003708id_/http%3A//whatzbuzzing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatzbuzzing.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613004819id_/http%3A//whatzbuzzing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Whats Buzzing Now
+# Privacy Policy - WhatzBuzzing Now
 
 **Privacy Policy**  
 This privacy policy sets out how WhatzBuzzing uses and protects any information that you give us when you use this website.
