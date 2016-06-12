@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amandapalmer.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627152657id_/http%3A//amandapalmer.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amandapalmer.net privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612103945id_/http%3A//amandapalmer.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy The official website of Amanda Fucking Palmer. Yes it is - Amanda Palmer
 
@@ -9,7 +9,7 @@ This website is owned and operated by Amanda Palmer
 What information do we collect?  
 We may collect information from you when you register on our site, place an order, subscribe to our newsletter, land on a page with advertising targeting, respond to a survey or fill out a form. We may also collect information through a cookie for targeted advertising.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, birthdate, credit card information, or other personal information.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, birthdate, credit card information, or other personal information. 
 
 What do we use your information for?  
 Any of the information we collect from you may be used in one of the following ways:  
