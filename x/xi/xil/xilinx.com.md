@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the xilinx.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201081430id_/http%3A//www.xilinx.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xilinx.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612131334id_/http%3A//www.xilinx.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Xilinx Privacy Policy
 
-Last Updated: August 25, 2015
+Last Updated: January 11, 2016
 
-Thank you for your interest in Xilinx, Inc. ("Xilinx," “we,” “our,” or “us”) and our websites located at www.xilinx.com (collectively, the “Site”). We are pleased to provide this Privacy Policy ("Policy") to inform you of our practices with respect to how we collect and use personal information about visitors to the Site.This Policy is part of and incorporated into the [Terms of Use](https://web.archive.org/legal.htm) governing the Site. Please review the Terms of Use prior to using the Site. Capitalized terms used but not defined in this Policy have the definitions provided in the Terms of Use.
+Thank you for your interest in Xilinx, Inc. ("Xilinx," “we,” “our,” or “us”) and our websites located at [www.xilinx.com](http://www.xilinx.com/) and our mobile applications (collectively, the “Site”). We are pleased to provide this Privacy Policy ("Policy") to inform you of our practices with respect to how we collect and use personal information about visitors to the Site.This Policy is part of and incorporated into the [Terms of Use](https://web.archive.org/legal.htm) governing the Site. Please review the Terms of Use prior to using the Site. Capitalized terms used but not defined in this Policy have the definitions provided in the Terms of Use.
 
 The TRUSTe program covers information collected through this website, [www.xilinx.com](http://www.xilinx.com/), and does not cover information that may be collected through software downloaded from the website. 
 
