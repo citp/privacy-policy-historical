@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the.me privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219210808id_/http%3A//the.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the.me privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612045326id_/http%3A//the.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | THEME
 
