@@ -1,20 +1,57 @@
-<!--The following is the downloaded HTML source of the apta.org privacy policy that was archived on 2015-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151211104029id_/http%3A//www.apta.org/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apta.org privacy policy that was archived on 2016-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612234255id_/http%3A//www.apta.org/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=9"><title>
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en-US"><head id="ctl00_aspHead"><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="description"><meta name="viewport" content="width=device-width, initial-scale=1"><title>
 	APTA Websites, Mobile Applications and Forums Privacy Policy
-</title><link rel="stylesheet" type="text/css" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=-1759591071+646986939"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=-1028355414+1948574407+-1388997516+2009761168+27274999+1979897163+-422906301+-1818005853+1338359439+1628691364+659787066+-1965253052"></script><link rel="stylesheet" type="text/css" href="/css/reset.css" media="all"><link rel="stylesheet" type="text/css" href="/css/apta_screen.css" media="all"><link rel="stylesheet" type="text/css" href="/css/jquery-ui-1.8.5.custom.css" media="all"><link rel="stylesheet" type="text/css" href="/css/apta_print.css" media="print">
-
-	<!--[if lte IE 7]>
-	<link rel="stylesheet" type="text/css" href="/css/apta_screen_ie.css" media="all" />
-	<![endif]-->
-	<script src="/js/jquery-1.4.2.min.js" type="text/javascript"></script>   
-    <script src="/js/jquery-ui-1.8.5.custom.min.js" type="text/javascript"></script>
-	<script src="/js/jFav_v1.0.js" type="text/javascript"></script>
-    <script src="/js/jquery.cycle.lite.min.js" type="text/javascript"></script>
-	<script src="/js/apta_custom.js" type="text/javascript"></script>
-     
+</title><link rel="stylesheet" type="text/css" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=-1759591071+646986939"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=-1028355414+1948574407+-1388997516+2009761168+27274999+1979897163+-422906301+-1818005853+1338359439+1628691364+659787066+-1965253052"></script><link rel="stylesheet" href="/responsive/css/style.css"><link rel="stylesheet" href="/responsive/css/print.css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
     <script type="text/javascript"> var _gaq = _gaq || [];    _gaq.push(['_setAccount', 'UA-18804658-1']);    _gaq.push(['_trackPageview']);</script>
+
+<script type="text/javascript">
+    if (typeof jQuery != 'undefined') {
+        jQuery(document).ready(function ($) {
+            var filetypes = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3)$/i;
+            var baseHref = '';
+            if (jQuery('base').attr('href') != undefined)
+                baseHref = jQuery('base').attr('href');
+            jQuery('a').each(function () {
+                var href = jQuery(this).attr('href');
+                if (href && (href.match(/^https?\:/i)) && (!href.match(document.domain))) {
+                    jQuery(this).click(function () {
+                        var extLink = href.replace(/^https?\:\/\//i, '');
+                        _gaq.push(['_trackEvent', 'External', 'Click', extLink]);
+                        if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                            setTimeout(function () { location.href = href; }, 200);
+                            return false;
+                        }
+                    });
+                }
+                else if (href && href.match(/^mailto\:/i)) {
+                    jQuery(this).click(function () {
+                        var mailLink = href.replace(/^mailto\:/i, '');
+                        _gaq.push(['_trackEvent', 'Email', 'Click', mailLink]);
+                    });
+                }
+                else if (href && href.match(filetypes)) {
+                    jQuery(this).click(function () {
+                        var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+                        var filePath = href;
+                        _gaq.push(['_trackEvent', 'Download', 'Click-' + extension, filePath]);
+                        if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                            setTimeout(function () { location.href = baseHref + href; }, 200);
+                            return false;
+                        }
+                    });
+                }
+            });
+        });
+    }
+</script>
 <script type="text/javascript">_gaq.push(['_trackEvent', 'SiteUserProfile','UserID','Anon User',0,true]);</script>
 
 
@@ -27,12 +64,12 @@
 <meta name="dc.language" content="en">
 <meta name="dc.title" content="APTA Websites, Mobile Applications and Forums Privacy Policy">
 <meta name="dc.date.lastmodified" content="2015-07-01T08:09">
-<meta property="og:image" content="http://www.apta.org/uploadedImages/APTAorg/share_apta.gif"><script language="javascript" type="text/javascript" src="https://tracking.websitealive.com/vTracker_v2.asp?objectref=wsa3&amp;groupid=15330&amp;websiteid=0"></script></head>
-<body>
+</head>
+<body class="" style="">
     <form method="post" action="/PrivacyPolicy/" id="aspnetForm">
 <div class="aspNetHidden">
 <input type="hidden" name="EktronClientManager" id="EktronClientManager" value="-1759591071,-1028355414,1948574407,-1388997516,2009761168,27274999,1979897163,-422906301,-1818005853,646986939,1338359439,1628691364,659787066,-1965253052">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQwMzE1MDQ2MA9kFgJmD2QWBgIBD2QWBAIOD2QWAmYPFgIeBFRleHQFkQE8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+IHZhciBfZ2FxID0gX2dhcSB8fCBbXTsgICAgX2dhcS5wdXNoKFsnX3NldEFjY291bnQnLCAnVUEtMTg4MDQ2NTgtMSddKTsgICAgX2dhcS5wdXNoKFsnX3RyYWNrUGFnZXZpZXcnXSk7PC9zY3JpcHQ+ZAIPD2QWAmYPFgIfAAVyPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPl9nYXEucHVzaChbJ190cmFja0V2ZW50JywgJ1NpdGVVc2VyUHJvZmlsZScsJ1VzZXJJRCcsJ0Fub24gVXNlcicsMCx0cnVlXSk7PC9zY3JpcHQ+ZAIDEGRkFgQCBQ9kFhICAQ9kFgJmDxYCHwBkZAIDD2QWAgIBDw9kFgIeBXRpdGxlBTxBUFRBIFdlYnNpdGVzLCBNb2JpbGUgQXBwbGljYXRpb25zIGFuZCBGb3J1bXMgUHJpdmFjeSBQb2xpY3lkAgcPFgIfAAU8QVBUQSBXZWJzaXRlcywgTW9iaWxlIEFwcGxpY2F0aW9ucyBhbmQgRm9ydW1zIFByaXZhY3kgUG9saWN5ZAILDw8WBh4FVGl0bGUFPEFQVEEgV2Vic2l0ZXMsIE1vYmlsZSBBcHBsaWNhdGlvbnMgYW5kIEZvcnVtcyBQcml2YWN5IFBvbGljeR4TQ2F0YWxvZ0ljb25JbWFnZVVybAUuL1dvcmtBcmVhL2ltYWdlcy9hcHBsaWNhdGlvbi9pY29uX2RvY3VtZW50LmdpZh4RVGl0bGVJY29uSW1hZ2VVcmxlZGQCDQ9kFgJmDxYCHgdWaXNpYmxlZxYEAgEPFgIfAAUINy8xLzIwMTVkAgMPFgIfAAUuPGEgaHJlZj0ibWFpbHRvOndlYkBhcHRhLm9yZyI+d2ViQGFwdGEub3JnPC9hPmQCDw8PFgIfBWhkZAIRD2QWBmYPDxYCHgtOYXZpZ2F0ZVVybAWQAWh0dHA6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA/dT1odHRwJTNhJTJmJTJmd3d3LmFwdGEub3JnJTJmUHJpdmFjeVBvbGljeSUyZiZ0PUFQVEEgV2Vic2l0ZXMsIE1vYmlsZSBBcHBsaWNhdGlvbnMgYW5kIEZvcnVtcyBQcml2YWN5IFBvbGljeWRkAgEPDxYCHwYFiwFodHRwOi8vdHdpdHRlci5jb20vc2hhcmU/dXJsPWh0dHAlM2ElMmYlMmZ3d3cuYXB0YS5vcmclMmZQcml2YWN5UG9saWN5JTJmJnRleHQ9QVBUQSBXZWJzaXRlcywgTW9iaWxlIEFwcGxpY2F0aW9ucyBhbmQgRm9ydW1zIFByaXZhY3kgUG9saWN5ZGQCAg8PFgIfBgW/AWh0dHA6Ly93d3cubGlua2VkaW4uY29tL3NoYXJlQXJ0aWNsZT9taW5pPXRydWUmdXJsPWh0dHAlM2ElMmYlMmZ3d3cuYXB0YS5vcmclMmZQcml2YWN5UG9saWN5JTJmJnRpdGxlPUFQVEEgV2Vic2l0ZXMsIE1vYmlsZSBBcHBsaWNhdGlvbnMgYW5kIEZvcnVtcyBQcml2YWN5IFBvbGljeSZzdW1tYXJ5PSZzb3VyY2U9d3d3LmFwdGEub3JnZGQCEw9kFgQCAQ9kFgYCAQ8WAh8ABRNBRFZFUlRJU0VNRU5UPGJyIC8+ZAIDDxYCHwAFXjxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz5fZ2FxLnB1c2goWydfdHJhY2tFdmVudCcsICdCYW5uZXJBZCcsICdWaWV3JywgJzExMiddKTs8L3NjcmlwdD5kAgQPFgIfAAWbAjxhIGhyZWY9Jy9hcHRhL2Jhbm5lcmFkcy9jbGljay5hc3B4P3BhZ2U9T0xBUFRBT1JHNCZhbXA7YmFubmVyaWQ9MTEyJyB0YXJnZXQ9J19ibGFuaycgICBvbmNsaWNrPSJfZ2FxLnB1c2goWydfdHJhY2tFdmVudCcsICdCYW5uZXJBZCcsICdDbGljaycsICcxMTInXSk7IiA+PGltZyBzcmM9J2h0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2FkL042NjI1LjE1NTQ0MkFNRVJJQ0FOUEhZU0lDQUxUSEVSL0I4NDU0MDEwLjExNTgyMzg5MTtzej0xMjB4MjQwJyBib3JkZXI9JzAnIGFsdD0nJyAvPjwvYT5kAgMPDxYCHwVoZGQCFQ9kFgJmDw8WBh8CBQsxMDczNzQxODIzNx8DBS4vV29ya0FyZWEvaW1hZ2VzL2FwcGxpY2F0aW9uL2ljb25fZG9jdW1lbnQuZ2lmHwRlZGQCBw9kFgJmDw8WBh8CBQZGb290ZXIfAwUuL1dvcmtBcmVhL2ltYWdlcy9hcHBsaWNhdGlvbi9pY29uX2RvY3VtZW50LmdpZh8EZWRkAgUPZBYCZg8WAh8FZ2RkpgA06znPN5/B2v+LtLBvXr3W2LvlawHJ2gifC77PIJg=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTIyNzg5NjkzD2QWAmYPZBYGAgEPZBYEAgsPZBYCZg8WAh4EVGV4dAWRATxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz4gdmFyIF9nYXEgPSBfZ2FxIHx8IFtdOyAgICBfZ2FxLnB1c2goWydfc2V0QWNjb3VudCcsICdVQS0xODgwNDY1OC0xJ10pOyAgICBfZ2FxLnB1c2goWydfdHJhY2tQYWdldmlldyddKTs8L3NjcmlwdD5kAg0PZBYCZg8WAh8ABXI8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+X2dhcS5wdXNoKFsnX3RyYWNrRXZlbnQnLCAnU2l0ZVVzZXJQcm9maWxlJywnVXNlcklEJywnQW5vbiBVc2VyJywwLHRydWVdKTs8L3NjcmlwdD5kAgMQZGQWFAIDD2QWAgIBDxYCHwAFwAM8bGk+PGEgaHJlZj0iL0pvaW4iPkpvaW4vUmVuZXc8L2E+PC9saT48bGk+PGEgaHJlZj0iL0ZpbmRhUFQvIj5GaW5kIGEgUFQ8L2E+PC9saT48bGk+PGEgaHJlZj0iL0NvbW11bml0aWVzLyI+QVBUQSBDb21tdW5pdGllczwvYT48L2xpPjxsaT48YSBocmVmPSIvUmVsYXRlZE9yZ2FuaXphdGlvbnMvIj5SZWxhdGVkIE9yZ2FuaXphdGlvbnM8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL2l3ZWIuYXB0YS5vcmcvUHVyY2hhc2UvU2VhcmNoQ2F0YWxvZy5hc3B4Ij48aSBjbGFzcz0iZmEgZmEtc2hvcHBpbmctY2FydCI+PC9pPiBTdG9yZTwvYT48L2xpPjxsaT48YSBocmVmPSIvQVBUQUxvZ2luLmFzcHgiPkxvZ2luPC9hPjwvbGk+PGxpIGNsYXNzPSJ1dGlsLXNlcGFyYXRvciI+fDwvbGk+PGxpPjxhIGhyZWY9Ii9hcHRhL3Byb2ZpbGUvRGVmYXVsdC5hc3B4Ij5Qcm9maWxlPC9hPjwvbGk+ZAIFD2QWBAIBDw8WAh4ISW1hZ2VVcmwFJS91cGxvYWRlZEltYWdlcy9BUFRBb3JnL2xvZ29fYXB0YS5naWZkZAIDDxYCHwAFggI8bGk+PGEgaHJlZj0iL1Byb3NwZWN0aXZlU3R1ZGVudHMvIj5Qcm9zcGVjdGl2ZSBTdHVkZW50czwvYT48L2xpPjxsaT48YSBocmVmPSIvQ3VycmVudFN0dWRlbnRzLyI+Q3VycmVudCBTdHVkZW50czwvYT48L2xpPjxsaT48YSBocmVmPSIvTmV3UHJvZmVzc2lvbmFscy8iPk5ldyBQcm9mZXNzaW9uYWxzPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9QVEEvIj5QVEFzPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9FZHVjYXRvcnMvIj5FZHVjYXRvcnM8L2E+PC9saT5kAgcPZBY2AgEPDxYCHgtOYXZpZ2F0ZVVybAUJL0Fib3V0VXMvZBYCZg8WAh8ABQhBYm91dCBVc2QCAw8WAh8ABYIEPGxpPjxhIGhyZWY9Ii9NZW1iZXJzaGlwIj5NZW1iZXJzaGlwICYgQmVuZWZpdHM8L2E+PC9saT48bGk+PGEgaHJlZj0iL1Zpc2lvblN0cmF0ZWdpY1BsYW4iPlZpc2lvbiAmIFN0cmF0ZWdpYyBQbGFuPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9Qb2xpY2llcyI+UG9saWNpZXMgJiBCeWxhd3M8L2E+PC9saT48bGk+PGEgaHJlZj0iL0xlYWRlcnNoaXAiPkxlYWRlcnNoaXAgJiBHb3Zlcm5hbmNlPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9DaGFwdGVyc1NlY3Rpb25zIj5DaGFwdGVycyAmIFNlY3Rpb25zPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9Ib25vcnNBd2FyZHMiPkhvbm9ycyAmIEF3YXJkcyBQcm9ncmFtPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9TdGFmZiI+QVBUQSBTdGFmZjwvYT48L2xpPjxsaT48YSBocmVmPSIvQVBUQUpvYnMiPkpvYnMgYXQgQVBUQTwvYT48L2xpPjxsaT48YSBocmVmPSIvU3RyYXRlZ2ljQnVzaW5lc3NQYXJ0bmVycy8iPlN0cmF0ZWdpYyBCdXNpbmVzcyBQYXJ0bmVyczwvYT48L2xpPmQCBQ8PFgIfAQVGL3VwbG9hZGVkSW1hZ2VzL0FQVEFvcmcvSW1hZ2VzL01lZ2FtZW51cy9QaHlzaWNhbFRoZXJhcHlfMl8xNTl4MTA2LmpwZ2RkAgcPFgIfAAW8AzxwPjxhIHRpdGxlPSJXaG8gV2UgQXJlICZhbXA7YW1wOyBXaGF0IFdlIERvIiBocmVmPSIvQWJvdXRVcy9XaG9XZUFyZS8iPldobyBXZSBBcmUgJmFtcDsgV2hhdCBXZSBEbzwvYT48YnIgLz5BUFRBIHJlcHJlc2VudHMgbW9yZSB0aGFuIDkzLDAwMCBtZW1iZXJzOiBwaHlzaWNhbCB0aGVyYXBpc3RzLCBwaHlzaWNhbCB0aGVyYXBpc3QgYXNzaXN0YW50cywgYW5kIHN0dWRlbnRzIG9mIHBoeXNpY2FsIHRoZXJhcHkuPC9wPjxwPjxzdHJvbmc+T3RoZXIgUG9wdWxhciBSZXNvdXJjZXM6PC9zdHJvbmc+PGJyIC8+LSA8YSB0aXRsZT0iTWVtYmVyIERpcmVjdG9yeSIgaHJlZj0iL01lbWJlckRpcmVjdG9yeS8iPk1lbWJlciBEaXJlY3Rvcnk8L2E+PGJyIC8+LSA8YSB0aXRsZT0iQW5udWFsIFJlcG9ydHMiIGhyZWY9Ii9Bbm51YWxSZXBvcnRzLyI+QW5udWFsIFJlcG9ydHM8L2E+PC9wPmQCCQ8PFgIfAgUSL0NhcmVlcnNFZHVjYXRpb24vZBYCZg8WAh8ABRNDYXJlZXJzICYgRWR1Y2F0aW9uZAILDxYCHwAFxAI8bGk+PGEgaHJlZj0iL0pvYnMiPkZpbmQgSm9iczwvYT48L2xpPjxsaT48YSBocmVmPSIvQ291cnNlc0NvbmZlcmVuY2VzLmFzcHgiPkNvdXJzZXMgJiBDb25mZXJlbmNlczwvYT48L2xpPjxsaT48YSBocmVmPSIvQ2FyZWVycyI+QWJvdXQgUFQvUFRBIENhcmVlcnM8L2E+PC9saT48bGk+PGEgaHJlZj0iL0NhcmVlck1hbmFnZW1lbnQiPkNhcmVlciBNYW5hZ2VtZW50PC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9DYXJlZXJEZXZlbG9wbWVudCI+Q2FyZWVyIERldmVsb3BtZW50PC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9FZHVjYXRvcnMiPkZvciBFZHVjYXRvcnM8L2E+PC9saT5kAg0PDxYCHwEFTi91cGxvYWRlZEltYWdlcy9BUFRBb3JnL0ltYWdlcy9NZWdhbWVudXMvTGVhcm5pbmdDZW50ZXIyMDE2XzE1OXgxMDYucG5nP249OTMwNWRkAg8PFgIfAAWLAzxwPlRoZSA8YSB0aXRsZT0iQVBUQSBMZWFybmluZyBDZW50ZXIiIGhyZWY9Imh0dHA6Ly9sZWFybmluZ2NlbnRlci5hcHRhLm9yZy9kZWZhdWx0LmFzcHgiIHRhcmdldD0iX2JsYW5rIj5BUFRBIExlYXJuaW5nIENlbnRlcjwvYT4gaXMgeW91ciBzdGFydGluZyBwb2ludCBmb3IgcGVyc29uYWxpemVkIGxlYXJuaW5nLjwvcD48cD48c3Ryb25nPk90aGVyIFBvcHVsYXIgUmVzb3VyY2VzOjwvc3Ryb25nPjxiciAvPgotIDxhIHRpdGxlPSJTZWFyY2ggZm9yIENvdXJzZXMiIGhyZWY9Ii9Db3Vyc2VzQ29uZmVyZW5jZXMuYXNweCI+U2VhcmNoIGZvciBDb3Vyc2VzPC9hPjxiciAvPi0gPGEgdGl0bGU9IkV2ZW50cyBDYWxlbmRhciIgaHJlZj0iL2V2ZW50cy8iPkV2ZW50cyBDYWxlbmRhcjwvYT48L3A+ZAIRDw8WAh8CBQovUHJhY3RpY2UvZBYCZg8WAh8ABRdQcmFjdGljZSAmIFBhdGllbnQgQ2FyZWQCEw8WAh8ABbkDPGxpPjxhIGhyZWY9Ii9QYXRpZW50Q2FyZSI+UGF0aWVudCBDYXJlPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9QcmFjdGljZUFkbWluaXN0cmF0aW9uIj5QcmFjdGljZSBBZG1pbmlzdHJhdGlvbjwvYT48L2xpPjxsaT48YSBocmVmPSIvRXZpZGVuY2VSZXNlYXJjaCI+RXZpZGVuY2UgJiBSZXNlYXJjaDwvYT48L2xpPjxsaT48YSBocmVmPSIvTGljZW5zdXJlIj5MaWNlbnN1cmU8L2E+PC9saT48bGk+PGEgaHJlZj0iL1Njb3BlT2ZQcmFjdGljZSI+U2NvcGUgb2YgUHJhY3RpY2U8L2E+PC9saT48bGk+PGEgaHJlZj0iL0V0aGljc1Byb2Zlc3Npb25hbGlzbSI+RXRoaWNzICYgUHJvZmVzc2lvbmFsaXNtPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9MZWdhbCI+TGVnYWwgTWF0dGVyczwvYT48L2xpPjxsaT48YSBocmVmPSIvUFJNYXJrZXRpbmciPlBSICYgTWFya2V0aW5nPC9hPjwvbGk+ZAIVDw8WAh8BBTYvdXBsb2FkZWRJbWFnZXMvQVBUQW9yZy9JbWFnZXMvTG9nb3MvUFROb3dfMTU5eDEwNi5qcGdkZAIXDxYCHwAF1wM8cD48YSBocmVmPSJodHRwOi8vd3d3LnB0bm93Lm9yZy8iIHRhcmdldD0iX2JsYW5rIj5QVE5vdzwvYT4gaGVscHMgeW91IHB1dCBldmlkZW5jZSBpbnRvIHBhdGllbnQgY2FyZS48L3A+PHA+PHN0cm9uZz5PdGhlciBQb3B1bGFyIFJlc291cmNlczo8L3N0cm9uZz48YnIgLz4KLSA8YSB0YXJnZXQ9Il9ibGFuayIgaHJlZj0iaHR0cDovL3d3dy5wdG5vdy5vcmcvQXJ0aWNsZVNlYXJjaC9EZWZhdWx0LmFzcHgiPkFydGljbGVTZWFyY2ggYXQgUFROb3c8L2E+PGJyIC8+LSA8YSB0aXRsZT0iUGF0aWVudCBIYW5kb3V0cyIgaHJlZj0iL1BSTWFya2V0aW5nL0NvbnN1bWVycy9QYXRpZW50SGFuZG91dHMvIj5QYXRpZW50IEhhbmRvdXRzPC9hPjxiciAvPi0gPGEgdGl0bGU9IlN1cGVydmlzaW9uICZhbXA7IFRlYW13b3JrIiBocmVmPSIvU3VwZXJ2aXNpb25UZWFtd29yay8iPlN1cGVydmlzaW9uICZhbXA7IFRlYW13b3JrPC9hPjwvcD5kAhkPDxYCHwIFCC9QYXltZW50ZBYCZg8WAh8ABQdQYXltZW50ZAIbDxYCHwAFhQQ8bGk+PGEgaHJlZj0iL1BheW1lbnQvQ29kaW5nQmlsbGluZyI+Q29kaW5nICYgQmlsbGluZzwvYT48L2xpPjxsaT48YSBocmVmPSIvUGF5bWVudC9Qcml2YXRlSW5zdXJhbmNlIj5Qcml2YXRlIEluc3VyYW5jZTwvYT48L2xpPjxsaT48YSBocmVmPSIvUGF5bWVudC9NZWRpY2FyZSI+TWVkaWNhcmU8L2E+PC9saT48bGk+PGEgaHJlZj0iL1BheW1lbnQvTWVkaWNhaWQiPk1lZGljYWlkPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9QYXltZW50L1dvcmtlcnNDb21wZW5zYXRpb24iPldvcmtlcnMnIENvbXBlbnNhdGlvbjwvYT48L2xpPjxsaT48YSBocmVmPSIvUGF5bWVudC9UUklDQVJFVkEiPlZBICYgVFJJQ0FSRTwvYT48L2xpPjxsaT48YSBocmVmPSIvSGVhbHRoQ2FyZVJlZm9ybSI+SGVhbHRoIENhcmUgUmVmb3JtPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9QYXltZW50UmVmb3JtIj5QYXltZW50IFJlZm9ybTwvYT48L2xpPjxsaT48YSBocmVmPSIvSW5mb2ZvclBheWVycyI+SW5mbyBmb3IgUGF5ZXJzPC9hPjwvbGk+ZAIdDw8WAh8BBUovdXBsb2FkZWRJbWFnZXMvQVBUQW9yZy9JbWFnZXMvTWVnYW1lbnVzL0NhbGN1bGF0b3IyMDE2XzE1OXgxMDYucG5nP249NzQ0N2RkAh8PFgIfAAWaAzxwPlRoZSA8YSBocmVmPSIvUGF5bWVudC9NZWRpY2FyZS9GZWVDYWxjdWxhdG9yLyIgdGl0bGU9IkZlZSBDYWxjdWxhdG9yIj5NUFBSL2ZlZSBjYWxjdWxhdG9yPC9hPiBjYWxjdWxhdGVzIHBheW1lbnQgZm9yIGVhY2ggQ1BUIGNvZGUgYmFzZWQgb24gZ2VvZ3JhcGhpYyBsb2NhdGlvbi48L3A+PHA+PHN0cm9uZz5PdGhlciBQb3B1bGFyIFJlc291cmNlczo8L3N0cm9uZz48YnIgLz4KLSA8YSBocmVmPSIvUGF5bWVudC9NZWRpY2FyZS8yMDE2L0NoYW5nZXMvIiB0aXRsZT0iTWVkaWNhcmUgQ2hhbmdlcyI+TWVkaWNhcmUgQ2hhbmdlczwvYT48YnIgLz4KLSA8YSBocmVmPSIvSUNEMTAvIiB0aXRsZT0iSUNEIDEwIj5JQ0QtMTA8L2E+PGJyIC8+Ci0gPGEgaHJlZj0iL1BRUlMvIiB0aXRsZT0iUFFSUyI+UFFSUzwvYT48L3A+ZAIhDw8WAh8CBQovQWR2b2NhY3kvZBYCZg8WAh8ABQhBZHZvY2FjeWQCIw8WAh8ABdECPGxpPjxhIGhyZWY9Ii9GZWRlcmFsQWR2b2NhY3kiPkZlZGVyYWwgQWR2b2NhY3k8L2E+PC9saT48bGk+PGEgaHJlZj0iL1N0YXRlQWR2b2NhY3kiPlN0YXRlIEFkdm9jYWN5PC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9UYWtlQWN0aW9uIj5UYWtlIEFjdGlvbjwvYT48L2xpPjxsaT48YSBocmVmPSIvQWR2b2NhY3kvSW52b2x2ZW1lbnQiPkludm9sdmVtZW50IE9wcG9ydHVuaXRpZXM8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5wdHBhYy5vcmcvIj5QVC1QQUM8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL3BvbGljeS5hcHRhLm9yZy8iPkZvciBMZWdpc2xhdG9yczwvYT48L2xpPmQCJQ8PFgIfAQVEL3VwbG9hZGVkSW1hZ2VzL0FQVEFvcmcvSW1hZ2VzL01lZ2FtZW51cy9BY3Rpb25BcHBfMTU5eDEwNi5qcGc/bj04MzBkZAInDxYCHwAFtgI8cD5UYWtlIGFjdGlvbiBpbiBzZWNvbmRzIHdpdGggdGhlIDxhIGhyZWY9Ii9BY3Rpb25BcHAvIiB0aXRsZT0iQVBUQSBBY3Rpb24gYXBwIj5BUFRBIEFjdGlvbiBhcHA8L2E+ITwvcD48cD48c3Ryb25nPk90aGVyIFBvcHVsYXIgUmVzb3VyY2VzOjwvc3Ryb25nPjxiciAvPgotIDxhIGhyZWY9Ii9GZWRlcmFsRm9ydW0vIiB0aXRsZT0iUFQgRGF5IG9uIENhcGl0b2wgSGlsbCI+RmVkZXJhbCBBZHZvY2FjeSBGb3J1bTwvYT48YnIgLz4tIDxhIGhyZWY9Ii9TdGF0ZUZvcnVtLyIgdGl0bGU9IlN0YXRlIEZvcnVtIj5TdGF0ZSBGb3J1bTwvYT48L3A+ZAIpDw8WAh8CBQYvTmV3cy9kFgJmDxYCHwAFE05ld3MgJiBQdWJsaWNhdGlvbnNkAisPFgIfAAWPAzxsaT48YSBocmVmPSIvTGF0ZXN0TmV3cy8iPkxhdGVzdCBOZXdzPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9QVEoiPlBUSjwvYT48L2xpPjxsaT48YSBocmVmPSIvUFRpbk1vdGlvbiI+UFQgaW4gTW90aW9uPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9HdWlkZSI+R3VpZGUgdG8gUFQgUHJhY3RpY2U8L2E+PC9saT48bGk+PGEgaHJlZj0iL0Jsb2dzIj5CbG9nczwvYT48L2xpPjxsaT48YSBocmVmPSIvUG9kY2FzdHMiPlBvZGNhc3RzPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9Tb2NpYWxNZWRpYSI+U29jaWFsIE1lZGlhPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9PdGhlclB1YmxpY2F0aW9ucyI+T3RoZXIgUHVibGljYXRpb25zPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9NZWRpYS8iPkZvciBNZWRpYTwvYT48L2xpPmQCLQ8PFgIfAQVHL3VwbG9hZGVkSW1hZ2VzL0FQVEFvcmcvSW1hZ2VzL01lZ2FtZW51cy9GcmlkYXlGb2N1c18xNTl4MTA2LmpwZz9uPTQyOTNkZAIvDxYCHwAFzgI8cD5TdWJzY3JpYmUgdG8gPGEgdGl0bGU9IkZyaWRheSBGb2N1cyIgaHJlZj0iL0ZyaWRheUZvY3VzLyI+RnJpZGF5IEZvY3VzPC9hPi48L3A+PHA+PHN0cm9uZz5PdGhlciBQb3B1bGFyIFJlc291cmNlczo8L3N0cm9uZz48YnIgLz4tIDxhIGhyZWY9Ii9QVGluTW90aW9uL05ld3MvIiB0aXRsZT0iTmV3cyBOb3ciPlBUIGluIE1vdGlvbiBOZXdzPC9hPjxiciAvPi0gPGEgaHJlZj0iL0dvR3JlZW4vIiB0aXRsZT0iR28gR3JlZW4iPkdvIEdyZWVuPC9hPjxiciAvPi0gPGEgaHJlZj0iL1N1YnNjcmlwdGlvbnMvIiB0aXRsZT0iU3Vic2NyaXB0aW9ucyI+U3Vic2NyaXB0aW9uczwvYT48L3A+ZAIxDw8WBh8ABQ5Gb3IgdGhlIFB1YmxpYx8CBRxodHRwOi8vd3d3Lm1vdmVmb3J3YXJkcHQuY29tHgZUYXJnZXRkZGQCMw8WAh8ABZUEPGxpIGNsYXNzPSJoaWRkZW4tbGcgaGlkZGVuLW1kIGhlYWRlci11dGlsaXR5LWl0ZW0tbW9iaWxlIj48YSBocmVmPSIvUHJvc3BlY3RpdmVTdHVkZW50cy8iPlByb3NwZWN0aXZlIFN0dWRlbnRzPC9hPjwvbGk+PGxpIGNsYXNzPSJoaWRkZW4tbGcgaGlkZGVuLW1kIGhlYWRlci11dGlsaXR5LWl0ZW0tbW9iaWxlIj48YSBocmVmPSIvQ3VycmVudFN0dWRlbnRzLyI+Q3VycmVudCBTdHVkZW50czwvYT48L2xpPjxsaSBjbGFzcz0iaGlkZGVuLWxnIGhpZGRlbi1tZCBoZWFkZXItdXRpbGl0eS1pdGVtLW1vYmlsZSI+PGEgaHJlZj0iL05ld1Byb2Zlc3Npb25hbHMvIj5OZXcgUHJvZmVzc2lvbmFsczwvYT48L2xpPjxsaSBjbGFzcz0iaGlkZGVuLWxnIGhpZGRlbi1tZCBoZWFkZXItdXRpbGl0eS1pdGVtLW1vYmlsZSI+PGEgaHJlZj0iL1BUQS8iPlBUQXM8L2E+PC9saT48bGkgY2xhc3M9ImhpZGRlbi1sZyBoaWRkZW4tbWQgaGVhZGVyLXV0aWxpdHktaXRlbS1tb2JpbGUiPjxhIGhyZWY9Ii9FZHVjYXRvcnMvIj5FZHVjYXRvcnM8L2E+PC9saT5kAjUPFgIfAAXjBDxsaSBjbGFzcz0iaGlkZGVuLWxnIGhpZGRlbi1tZCI+PGEgaHJlZj0iL0pvaW4iPkpvaW4vUmVuZXc8L2E+PC9saT48bGkgY2xhc3M9ImhpZGRlbi1sZyBoaWRkZW4tbWQiPjxhIGhyZWY9Ii9GaW5kYVBULyI+RmluZCBhIFBUPC9hPjwvbGk+PGxpIGNsYXNzPSJoaWRkZW4tbGcgaGlkZGVuLW1kIj48YSBocmVmPSIvQ29tbXVuaXRpZXMvIj5BUFRBIENvbW11bml0aWVzPC9hPjwvbGk+PGxpIGNsYXNzPSJoaWRkZW4tbGcgaGlkZGVuLW1kIj48YSBocmVmPSIvUmVsYXRlZE9yZ2FuaXphdGlvbnMvIj5SZWxhdGVkIE9yZ2FuaXphdGlvbnM8L2E+PC9saT48bGkgY2xhc3M9ImhpZGRlbi1sZyBoaWRkZW4tbWQiPjxhIGhyZWY9Imh0dHA6Ly9pd2ViLmFwdGEub3JnL1B1cmNoYXNlL1NlYXJjaENhdGFsb2cuYXNweCI+PGkgY2xhc3M9ImZhIGZhLXNob3BwaW5nLWNhcnQiPjwvaT4gU3RvcmU8L2E+PC9saT48bGkgY2xhc3M9ImhpZGRlbi1sZyBoaWRkZW4tbWQiPjxhIGhyZWY9Ii9BUFRBTG9naW4uYXNweCI+TG9naW48L2E+PC9saT48bGkgY2xhc3M9ImhpZGRlbi1sZyBoaWRkZW4tbWQiPjxhIGhyZWY9Ii9hcHRhL3Byb2ZpbGUvRGVmYXVsdC5hc3B4Ij5Qcm9maWxlPC9hPjwvbGk+ZAIND2QWAgIBD2QWAmYPFgIfAGRkAhMPFgIfAAU8QVBUQSBXZWJzaXRlcywgTW9iaWxlIEFwcGxpY2F0aW9ucyBhbmQgRm9ydW1zIFByaXZhY3kgUG9saWN5ZAIVD2QWAgIBD2QWAmYPFgIfAGRkAhkPZBYEAgEPDxYGHgVUaXRsZQU8QVBUQSBXZWJzaXRlcywgTW9iaWxlIEFwcGxpY2F0aW9ucyBhbmQgRm9ydW1zIFByaXZhY3kgUG9saWN5HhNDYXRhbG9nSWNvbkltYWdlVXJsBS4vV29ya0FyZWEvaW1hZ2VzL2FwcGxpY2F0aW9uL2ljb25fZG9jdW1lbnQuZ2lmHhFUaXRsZUljb25JbWFnZVVybGVkZAIDD2QWAmYPFgIeB1Zpc2libGVnFgQCAQ8WAh8ABQg3LzEvMjAxNWQCAw8WAh8ABS48YSBocmVmPSJtYWlsdG86d2ViQGFwdGEub3JnIj53ZWJAYXB0YS5vcmc8L2E+ZAIbD2QWCAIBDxYCHgNzcmMF1wFodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9wbHVnaW5zL2xpa2UucGhwP2hyZWY9aHR0cCUzYSUyZiUyZnd3dy5hcHRhLm9yZyUyZlByaXZhY3lQb2xpY3klMmYmYW1wO2xheW91dD1idXR0b25fY291bnQmYW1wO3Nob3dfZmFjZXM9dHJ1ZSZhbXA7d2lkdGg9MTIwJmFtcDthY3Rpb249bGlrZSZhbXA7Zm9udD1hcmlhbCZhbXA7Y29sb3JzY2hlbWU9bGlnaHQmYW1wO2hlaWdodD0yMWQCAw8PFgIfAgWQAWh0dHA6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA/dT1odHRwJTNhJTJmJTJmd3d3LmFwdGEub3JnJTJmUHJpdmFjeVBvbGljeSUyZiZ0PUFQVEEgV2Vic2l0ZXMsIE1vYmlsZSBBcHBsaWNhdGlvbnMgYW5kIEZvcnVtcyBQcml2YWN5IFBvbGljeWRkAgUPDxYCHwIFiwFodHRwOi8vdHdpdHRlci5jb20vc2hhcmU/dXJsPWh0dHAlM2ElMmYlMmZ3d3cuYXB0YS5vcmclMmZQcml2YWN5UG9saWN5JTJmJnRleHQ9QVBUQSBXZWJzaXRlcywgTW9iaWxlIEFwcGxpY2F0aW9ucyBhbmQgRm9ydW1zIFByaXZhY3kgUG9saWN5ZGQCBw8PFgIfAgW/AWh0dHA6Ly93d3cubGlua2VkaW4uY29tL3NoYXJlQXJ0aWNsZT9taW5pPXRydWUmdXJsPWh0dHAlM2ElMmYlMmZ3d3cuYXB0YS5vcmclMmZQcml2YWN5UG9saWN5JTJmJnRpdGxlPUFQVEEgV2Vic2l0ZXMsIE1vYmlsZSBBcHBsaWNhdGlvbnMgYW5kIEZvcnVtcyBQcml2YWN5IFBvbGljeSZzdW1tYXJ5PSZzb3VyY2U9d3d3LmFwdGEub3JnZGQCHQ9kFgQCAQ9kFgICAQ8WAh8ABccFPCEtLSBBRCBPTEFQVEFPUkc0IEJFR0lOIC0tPjxzcGFuPkFEVkVSVElTRU1FTlQ8L3NwYW4+PGJyIC8+PGxpbmsgaHJlZj0iaHR0cDovL3d3dy5hcHRhLm9yZy9hcHRhL2Jhbm5lcmFkcy9keW5hbWljYWRpbWFnZXMvc2l0ZXdpZGUvc2l0ZXdpZGUuY3NzIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiAvPjxhIGhyZWY9Imh0dHA6Ly93d3cuYXB0YS5vcmcvQVBUQS9CYW5uZXJBZHMvRHluYW1pY0FkSW1hZ2VzL1NJVEVXSURFL09MQVBUQU9SRzQvR0FDTElDSy5hc3B4IiB0YXJnZXQ9Il9ibGFuayIgPjxpbWcgY2xhc3M9Ik9MQVBUQU9SRzRfRGVza3RvcCIgc3JjPSJodHRwOi8vd3d3LmFwdGEub3JnL0FQVEEvQmFubmVyQWRzL0R5bmFtaWNBZEltYWdlcy9TSVRFV0lERS9PTEFQVEFPUkc0L0Rlc2t0b3AuYXNoeCIgLz48aW1nIGNsYXNzPSJPTEFQVEFPUkc0X01vYmlsZSIgc3JjPSJodHRwOi8vd3d3LmFwdGEub3JnL0FQVEEvQmFubmVyQWRzL0R5bmFtaWNBZEltYWdlcy9TSVRFV0lERS9PTEFQVEFPUkc0L01vYmlsZS5hc2h4IiAvPjwvYT48aWZyYW1lIHNyYz0iaHR0cDovL3d3dy5hcHRhLm9yZy9BUFRBL0Jhbm5lckFkcy9EeW5hbWljQWRJbWFnZXMvU0lURVdJREUvT0xBUFRBT1JHNC9HQVZJRVcuYXNweCIgaGVpZ2h0PSIxIiB3aWR0aD0iMSIgZnJhbWVib3JkZXI9IjAiPjwvaWZyYW1lPjwhLS0gQUQgT0xBUFRBT1JHNCBFTkQgLS0+ZAIDD2QWAmYPDxYGHwQFCzEwNzM3NDE4MjM3HwUFLi9Xb3JrQXJlYS9pbWFnZXMvYXBwbGljYXRpb24vaWNvbl9kb2N1bWVudC5naWYfBmVkZAIfD2QWAmYPDxYGHwQFBkZvb3Rlch8FBS4vV29ya0FyZWEvaW1hZ2VzL2FwcGxpY2F0aW9uL2ljb25fZG9jdW1lbnQuZ2lmHwZlZGQCBQ9kFgJmDxYCHwdnZGRmBYR2kusYZ7/osBR9hMXOJ6EIHbXeWOC0kb27wWzsNg==">
 </div>
 
 
@@ -44,401 +81,359 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="FD38F94F">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAJfzJ3TjB1qOm6VqtHyLnZCjaw+VEJTrhikY1p8bYFXczhhkE809xrLmlTW4HFnlDZKkgWO251/mVjU3mX/esQj">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAO1yYRjU2XpPZJ5oXKAeAoN1WUX9yiin76Y35vEtoINXFV6RkAfufrqJa6LpqnGFgtplJwXkCdBdJJtq5Gup7f5gyGC2V4gSTMqfL9SJjpASg==">
 </div>
-                
-        <div id="headerDiv">
-  <div id="topNav">
-    <div class="wrapperDiv">
-      <ul>
-        <li>
-          <a href="http://www.apta.org/Join" class="">Join/Renew</a>
-        </li>
-        <li>
-          <a href="http://www.apta.org/FindaPT/" class="">Find a PT</a>
-        </li>
-        <li>
-          <a href="http://www.apta.org/Communities/" class="">APTA Communities</a>
-        </li>
-        <li>
-          <a href="http://www.apta.org/RelatedOrganizations/" class="">Related Organizations</a>
-        </li>
-        <li>
-          <a href="http://iweb.apta.org/Purchase/SearchCatalog.aspx" class="lnkStore">Store</a>
-        </li>
-        <li>
-          <a href="http://www.apta.org/APTALogin.aspx ">Login</a>
-                    &nbsp;|&nbsp;
-                    <a href="http://www.apta.org/apta/profile/Default.aspx">Profile</a></li>
-      </ul>
-    </div>
-  </div>
-  <div class="wrapperDiv">
-    <div id="logoDiv">
-      <a href="http://www.apta.org">
-        <img src="/uploadedImages/APTAorg/logo_apta.gif" alt="APTA Home">
-      </a>
-    </div>
-    <div id="searchBox">
-      <p>
-        <input type="text" id="inputSearch">
-        <input type="submit" title="Search" value="Search" class="inputSearchBtn">
-        <input type="hidden" id="hidSearchUrl" name="hidSearchUrl" value="http://www.apta.org/search.aspx">
-      </p>
-    </div>
-    <ul id="utilityNav">
-      <li>
-        <a href="http://www.apta.org/ProspectiveStudents/" class="">Prospective Students</a>
-      </li>
-      <li>
-        <a href="http://www.apta.org/CurrentStudents/" class="">Current Students</a>
-      </li>
-      <li>
-        <a href="http://www.apta.org/NewProfessionals/" class="">New Professionals</a>
-      </li>
-      <li>
-        <a href="http://www.apta.org/PTA/" class="">PTAs</a>
-      </li>
-      <li>
-        <a href="http://www.apta.org/Educators/" class="">Educators</a>
-      </li>
-    </ul>
-    <ul id="mainNav">
-      <li id="navAbout" class="">
-        <a href="http://www.apta.org/AboutUs/" class="topLink">
-          <span>About Us</span>
-        </a>
-        <div class="navDropdown">
-          <div class="dropDownTop">
-          </div>
-          <div class="dropDownLinks">
-            <ul>
-              <li>
-                <a href="http://www.apta.org/Membership">Membership &amp; Benefits</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/VisionStrategicPlan">Vision &amp; Strategic Plan</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Policies">Policies &amp; Bylaws</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Leadership">Leadership &amp; Governance</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/ChaptersSections">Chapters &amp; Sections</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/HonorsAwards">Honors &amp; Awards Program</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Staff">APTA Staff</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/APTAJobs">Jobs at APTA</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/StrategicBusinessPartners/">Strategic Business Partners</a>
-              </li>
-            </ul>
-          </div>
-          <div class="dropdownBlurb">
-            <img src="/uploadedImages/APTAorg/Images/Megamenus/PhysicalTherapy_2_159x106.jpg" alt="About Us">
-            
-              <p>
-                <a href="http://www.apta.org/AboutUs/WhoWeAre/" title="Who We Are &amp;amp; What We Do">Who We Are &amp; What We Do</a>
-                <br>APTA represents more than 90,000 members: physical therapists, physical therapist assistants, and students of physical therapy.</p>
-              <p>
-                <strong>Other Popular Resources:</strong>
-                <br>- <a href="http://www.apta.org/MemberDirectory/" title="Member Directory">Member Directory</a><br>- <a href="http://www.apta.org/AnnualReports/" title="Annual Reports">Annual Reports</a></p>
-            
-          </div>
-        </div>
-      </li>
-      <li id="navCareers" class="">
-        <a href="http://www.apta.org/CareersEducation/" class="topLink">
-          <span>Careers &amp; Education</span>
-        </a>
-        <div class="navDropdown">
-          <div class="dropDownTop">
-          </div>
-          <div class="dropDownLinks">
-            <ul>
-              <li>
-                <a href="http://www.apta.org/Jobs">Find Jobs</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/CoursesConferences.aspx">Courses &amp; Conferences</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Careers">About PT/PTA Careers</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/CareerManagement">Career Management</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/CareerDevelopment">Career Development</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Educators">For Educators</a>
-              </li>
-            </ul>
-          </div>
-          <div class="dropdownBlurb">
-            <img src="/uploadedImages/APTAorg/Images/Megamenus/LearningCenter_159x106.jpg" alt="Learning Center">
-            
-              <p>The <a target="_blank" href="http://learningcenter.apta.org/default.aspx" title="APTA Learning Center">APTA Learning Center</a> is your starting point for personalized learning.</p>
-              <p>
-                <strong>Other Popular Resources:</strong>
-                <br>
-- <a href="http://www.apta.org/CoursesConferences/" title="Search for Courses">Search for Courses</a><br>- <a href="http://www.apta.org/events/" title="Events Calendar">Events Calendar</a></p>
-            
-          </div>
-        </div>
-      </li>
-      <li id="navPractice" class="">
-        <a href="http://www.apta.org/Practice/" class="topLink">
-          <span>Practice &amp; Patient Care</span>
-        </a>
-        <div class="navDropdown">
-          <div class="dropDownTop">
-          </div>
-          <div class="dropDownLinks">
-            <ul>
-              <li>
-                <a href="http://www.apta.org/PatientCare">Patient Care</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/PracticeAdministration">Practice Administration</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/EvidenceResearch">Evidence &amp; Research</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Licensure">Licensure</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/ScopeOfPractice">Scope of Practice</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/EthicsProfessionalism">Ethics &amp; Professionalism</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Legal">Legal Matters</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/PRMarketing">PR &amp; Marketing</a>
-              </li>
-            </ul>
-          </div>
-          <div class="dropdownBlurb">
-            <img src="/uploadedImages/APTAorg/Images/Logos/PTNow_159x106.jpg" alt="PTNow">
-            
-              <p>
-                <a target="_blank" href="http://www.ptnow.org/">PTNow</a> helps you put evidence into patient care.</p>
-              <p>
-                <strong>Other Popular Resources:</strong>
-                <br>
-- <a href="http://www.ptnow.org/ArticleSearch/Default.aspx" target="_blank">ArticleSearch at PTNow</a><br>- <a href="http://www.apta.org/PRMarketing/Consumers/PatientHandouts/" title="Patient Handouts">Patient Handouts</a><br>- <a href="http://www.apta.org/SupervisionTeamwork/" title="Supervision &amp; Teamwork">Supervision &amp; Teamwork</a></p>
-            
-          </div>
-        </div>
-      </li>
-      <li id="navPayment" class="">
-        <a href="http://www.apta.org/Payment" class="topLink">
-          <span>Payment</span>
-        </a>
-        <div class="navDropdown">
-          <div class="dropDownTop">
-          </div>
-          <div class="dropDownLinks">
-            <ul>
-              <li>
-                <a href="http://www.apta.org/Payment/CodingBilling">Coding &amp; Billing</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Payment/PrivateInsurance">Private Insurance</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Payment/Medicare">Medicare</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Payment/Medicaid">Medicaid</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Payment/WorkersCompensation">Workers' Compensation</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Payment/TRICAREVA">VA &amp; TRICARE</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/HealthCareReform">Health Care Reform</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/PaymentReform">Payment Reform</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/InfoforPayers">Info for Payers</a>
-              </li>
-            </ul>
-          </div>
-          <div class="dropdownBlurb">
-            <img src="/uploadedImages/APTAorg/Images/Megamenus/FeeCalculator_159x106.JPG" alt="Fee Calculator">
-            
-              <p>The <a title="Fee Calculator" href="http://www.apta.org/Payment/Medicare/FeeCalculator/">MPPR/fee calculator</a> calculates payment for each CPT code based on geographic location.</p>
-              <p>
-                <strong>Other Popular Resources:</strong>
-                <br>
-- <a title="Medicare Changes" href="http://www.apta.org/Payment/Medicare/2015/Changes/">Medicare Changes</a><br>
-- <a title="ICD 10" href="http://www.apta.org/ICD10/">ICD-10</a><br>
-- <a title="PQRS" href="http://www.apta.org/PQRS/">PQRS</a></p>
-            
-          </div>
-        </div>
-      </li>
-      <li id="navAdvocacy" class="">
-        <a href="http://www.apta.org/Advocacy/" class="topLink">
-          <span>Advocacy</span>
-        </a>
-        <div class="navDropdown">
-          <div class="dropDownTop">
-          </div>
-          <div class="dropDownLinks">
-            <ul>
-              <li>
-                <a href="http://www.apta.org/FederalAdvocacy">Federal Advocacy</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/StateAdvocacy">State Advocacy</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/TakeAction">Take Action</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Advocacy/Involvement">Involvement Opportunities</a>
-              </li>
-              <li>
-                <a href="http://www.ptpac.org/">PT-PAC</a>
-              </li>
-              <li>
-                <a href="http://policy.apta.org/">For Legislators</a>
-              </li>
-            </ul>
-          </div>
-          <div class="dropdownBlurb">
-            <img src="/uploadedImages/APTAorg/Images/Megamenus/ActionApp_159x106.jpg?n=830" alt="Action App">
-            
-              <p>Take action in seconds with the <a title="APTA Action app" href="http://www.apta.org/ActionApp/">APTA Action app</a>!</p>
-              <p>
-                <strong>Other Popular Resources:</strong>
-                <br>
-- <a title="PT Day on Capitol Hill" href="http://www.apta.org/FederalForum/">Federal Advocacy Forum</a><br>- <a title="State Forum" href="http://www.apta.org/StateForum/">State Forum</a></p>
-            
-          </div>
-        </div>
-      </li>
-      <li id="navNews" class="">
-        <a href="http://www.apta.org/News/" class="topLink">
-          <span>News &amp; Publications</span>
-        </a>
-        <div class="navDropdown">
-          <div class="dropDownTop">
-          </div>
-          <div class="dropDownLinks">
-            <ul>
-              <li>
-                <a href="http://www.apta.org/LatestNews/">Latest News</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/PTJ">PTJ</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/PTinMotion">PT in Motion</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Guide">Guide to PT Practice</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Blogs">Blogs</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Podcasts">Podcasts</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/SocialMedia">Social Media</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/OtherPublications">Other Publications</a>
-              </li>
-              <li>
-                <a href="http://www.apta.org/Media/">For Media</a>
-              </li>
-            </ul>
-          </div>
-          <div class="dropdownBlurb">
-            <img src="/uploadedImages/APTAorg/Images/Megamenus/FridayFocus_159x106.jpg?n=4293" alt="Friday Focus">
-            
-              <p>Subscribe to <a href="http://www.apta.org/FridayFocus/" title="Friday Focus">Friday Focus</a>.</p>
-              <p>
-                <strong>Other Popular Resources:</strong>
-                <br>- <a title="News Now" href="http://www.apta.org/PTinMotion/News/">PT in Motion News</a><br>- <a title="Go Green" href="http://www.apta.org/GoGreen/">Go Green</a><br>- <a title="Subscriptions" href="http://www.apta.org/Subscriptions/">Subscriptions</a></p>
-            
-          </div>
-        </div>
-      </li>
-      <li id="navPublic">
-        <a href="http://www.moveforwardpt.com" class="topLink">
-          <span>For the Public</span>
-        </a>
-      </li>
-    </ul>
-    <div class="clear">
-    </div>
-  </div>
-</div>
+     
+<div class="utility-nav-desktop visible-lg visible-md">
+  <div class="util-nav-wrap">
+    <div class="container">
+      <div class="util-nav-body">
+          
+<ul class="list-inline utility-nav-links">
+    <li><a href="/Join">Join/Renew</a></li><li><a href="/FindaPT/">Find a PT</a></li><li><a href="/Communities/">APTA Communities</a></li><li><a href="/RelatedOrganizations/">Related Organizations</a></li><li><a href="http://iweb.apta.org/Purchase/SearchCatalog.aspx"><i class="fa fa-shopping-cart"></i> Store</a></li><li><a href="/APTALogin.aspx">Login</a></li><li class="util-separator">|</li><li><a href="/apta/profile/Default.aspx">Profile</a></li>    
+</ul>
 
+<!--<li><a href="#">Join/Renew</a></li>
+          <li><a href="#">Find a PT</a></li>
+          <li><a href="#">APTA Communities</a></li>
+          <li><a href="#">Related Organizations</a></li>
+          <li><a href="#"><i class="fa fa-shopping-cart"></i> Store</a></li>
+          <li><a href="#">Login</a></li>
+          <li class="util-separator">|</li>
+          <li><a href="#">Profile</a></li>-->
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /.utility-nav-desktop -->
+
+<div class="main-page">
+  <div class="main-page-wrap">
+    <header class="site-header">
         
 
-    <!-- .wrapperDiv -->
-	<div class="wrapperDiv fullPageShadow">
-		<!-- #mainDiv -->
-		<div id="mainDiv">
-			<!-- #sideNavCol -->
-			<div id="sideNavCol">						
-                
-			</div>
-			<!-- /#sideNavCol -->
-			<!-- #largeCol -->
-			<div id="largeCol">
-				
+<div class="site-header-wrap">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-5 col-sm-8 col-xs-8 column logo-section">
+              <div class="site-logo">
+               <a href="/Default.aspx">
+                   <img id="ctl00_APTAResponsiveHeader_imgSiteLogo" class="img-responsive" src="/uploadedImages/APTAorg/logo_apta.gif" alt="APTA Logo">
+               </a>
+              </div>
+            </div>
+            <div class="col-md-7 col-sm-4 col-xs-4 column">
+              <div class="search-panel header-search-panel">
+                <div class="search-panel-body visible-lg visible-md">
+                  
+                    <div class="form-group">
+                      <input id="inputSearch" type="text" class="form-control">
+                        <button id="inputSearchBtn" type="submit" class="apta-btn btn-grey">Search</button>
+						<input type="hidden" value="http://www.apta.org/search.aspx" name="hidSearchUrl" id="hidSearchUrl">
+                    </div>
+                    
+                  
+                </div>
+              </div>
+              <div class="mobile-header-icons hidden-lg hidden-md">
+                <ul class="list-inline">
+                  <li><a href="#" class="offcanvas-toggler"><i class="fa fa-bars header-icon"></i></a></li>
+                  <li><a href="#" class="search-box-toggler"><i class="fa fa-search header-icon"></i></a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-12 column header-utility-section hidden-sm hidden-xs">
+              <div class="header-utility">
+                <div class="header-utility-wrap">
+                  <ul class="list-inline">
+                      <li><a href="/ProspectiveStudents/">Prospective Students</a></li><li><a href="/CurrentStudents/">Current Students</a></li><li><a href="/NewProfessionals/">New Professionals</a></li><li><a href="/PTA/">PTAs</a></li><li><a href="/Educators/">Educators</a></li>                    
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="clearfix"></div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- /.site-header -->
 
-<!-- #pageControls -->
-<div id="pageControls">
-	<ul>
-		<li>
-            <a id="ctl00_ContentPlaceHolder1_FontAdjuster1_linkFav" class="lnkFavorites" title="APTA Websites, Mobile Applications and Forums Privacy Policy" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ContentPlaceHolder1$FontAdjuster1$linkFav", "", true, "", "", false, true))'>Favorite</a>
-        </li>
-		<li>
-            <a href="#" title="Reduce font size" class="reduceFontSize">
-                <img src="/images/ico_font_small.gif" alt="Reduce font size">
-            </a> <span>|</span> <a href="#" title="Increase font size" class="increaseFontSize">
-                <img src="/images/ico_font_large.gif" alt="Increase font size">
-            </a> Text Size
-        </li>
-	</ul>
-</div>
-<!-- /#pageControls -->				
-                <ul id="breadcrumbNav"><li><a href="/">Home</a></li><li>&gt;</li><li>APTA Websites, Mobile Applications and Forums Privacy Policy</li></ul>
-				<h1>APTA Websites, Mobile Applications and Forums Privacy Policy</h1>
+    <main class="gradient-gen-page-bg main-body">
+      <div class="main-body-wrap">
 
-				<!-- #contentDiv -->
-				<div id="contentDiv">
-                    <!-- #leftContentDiv -->
-					<div id="leftContentDiv">						
-                        <div id="ctl00_ContentPlaceHolder1_cbCarousel">
+        <div class="main-nav-wrap yamm">
+          <div class="container">
+            <div class="main-nav-body">
+              
+        
+
+            <ul class="nav nav-pills main-nav-list nav-justified">
+                  <li class="hidden-lg hidden-md mobile-menu-close">
+                    <a href="#" class="offcanvas-toggler"><i class="fa fa-times"></i></a>
+                  </li>
+                  <li class="dropdown">
+                      <a id="ctl00_APTAMainNavigation_lnkAboutUs" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/AboutUs/">About Us</a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <div class="dropdown-content yamm-content">
+                          <div class="col-md-6 column col1">
+                            <div class="dropdown-column-white">
+                              <ul class="list-unstyled">
+                                <li><a href="/Membership">Membership &amp; Benefits</a></li><li><a href="/VisionStrategicPlan">Vision &amp; Strategic Plan</a></li><li><a href="/Policies">Policies &amp; Bylaws</a></li><li><a href="/Leadership">Leadership &amp; Governance</a></li><li><a href="/ChaptersSections">Chapters &amp; Sections</a></li><li><a href="/HonorsAwards">Honors &amp; Awards Program</a></li><li><a href="/Staff">APTA Staff</a></li><li><a href="/APTAJobs">Jobs at APTA</a></li><li><a href="/StrategicBusinessPartners/">Strategic Business Partners</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="col-md-6 column col2">
+                            <div class="dropdown-column-colored">
+                              <div class="dropdown-thumbnail">
+                                  <img id="ctl00_APTAMainNavigation_imgAboutUs" class="img-responsive" src="/uploadedImages/APTAorg/Images/Megamenus/PhysicalTherapy_2_159x106.jpg">                                
+                              </div>
+                              <div class="dropdown-excerpt">
+                                <p></p><p><a title="Who We Are &amp;amp; What We Do" href="/AboutUs/WhoWeAre/">Who We Are &amp; What We Do</a><br>APTA represents more than 93,000 members: physical therapists, physical therapist assistants, and students of physical therapy.</p><p><strong>Other Popular Resources:</strong><br>- <a title="Member Directory" href="/MemberDirectory/">Member Directory</a><br>- <a title="Annual Reports" href="/AnnualReports/">Annual Reports</a></p><p></p>
+                              </div>
+                              <!--<ul class="list-unstyled">
+                                <li><strong>Other Popular Resources:</strong></li>
+                                  <asp:Literal ID="ltlAboutUsExtraLinks"/>                                
+                              </ul>-->
+                            </div>
+                          </div>
+                          <div class="clearfix"></div>
+                        </div>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="dropdown">
+                      <a id="ctl00_APTAMainNavigation_lnkCareers" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/CareersEducation/">Careers &amp; Education</a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <div class="dropdown-content">
+                          <div class="col-md-6 column col1">
+                            <div class="dropdown-column-white">
+                              <ul class="list-unstyled">
+                                <li><a href="/Jobs">Find Jobs</a></li><li><a href="/CoursesConferences.aspx">Courses &amp; Conferences</a></li><li><a href="/Careers">About PT/PTA Careers</a></li><li><a href="/CareerManagement">Career Management</a></li><li><a href="/CareerDevelopment">Career Development</a></li><li><a href="/Educators">For Educators</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="col-md-6 column col2">
+                            <div class="dropdown-column-colored">
+                              <div class="dropdown-thumbnail">
+                                <img id="ctl00_APTAMainNavigation_imgCareers" class="img-responsive" src="/uploadedImages/APTAorg/Images/Megamenus/LearningCenter2016_159x106.png?n=9305">
+                              </div>
+                              <div class="dropdown-excerpt">
+                                <p></p><p>The <a title="APTA Learning Center" href="http://learningcenter.apta.org/default.aspx" target="_blank">APTA Learning Center</a> is your starting point for personalized learning.</p><p><strong>Other Popular Resources:</strong><br>
+- <a title="Search for Courses" href="/CoursesConferences.aspx">Search for Courses</a><br>- <a title="Events Calendar" href="/events/">Events Calendar</a></p><p></p>
+                              </div>
+                              <!--<ul class="list-unstyled">
+                                <li><strong>Some strong Text:</strong></li>
+                                <li><a href="#">Some link Text</a></li>
+                                <li><a href="#">Some link Text</a></li>
+                              </ul>-->
+                            </div>
+                          </div>
+                          <div class="clearfix"></div>
+                        </div>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="dropdown">                    
+                      <a id="ctl00_APTAMainNavigation_lnkPractice" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/Practice/">Practice &amp; Patient Care</a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <div class="dropdown-content">
+                          <div class="col-md-6 column col1">
+                            <div class="dropdown-column-white">
+                              <ul class="list-unstyled">
+                                <li><a href="/PatientCare">Patient Care</a></li><li><a href="/PracticeAdministration">Practice Administration</a></li><li><a href="/EvidenceResearch">Evidence &amp; Research</a></li><li><a href="/Licensure">Licensure</a></li><li><a href="/ScopeOfPractice">Scope of Practice</a></li><li><a href="/EthicsProfessionalism">Ethics &amp; Professionalism</a></li><li><a href="/Legal">Legal Matters</a></li><li><a href="/PRMarketing">PR &amp; Marketing</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="col-md-6 column col2">
+                            <div class="dropdown-column-colored">
+                              <div class="dropdown-thumbnail">
+                                <img id="ctl00_APTAMainNavigation_imgPractice" class="img-responsive" src="/uploadedImages/APTAorg/Images/Logos/PTNow_159x106.jpg">
+                              </div>
+                              <div class="dropdown-excerpt">
+                                <p></p><p><a href="http://www.ptnow.org/" target="_blank">PTNow</a> helps you put evidence into patient care.</p><p><strong>Other Popular Resources:</strong><br>
+- <a target="_blank" href="http://www.ptnow.org/ArticleSearch/Default.aspx">ArticleSearch at PTNow</a><br>- <a title="Patient Handouts" href="/PRMarketing/Consumers/PatientHandouts/">Patient Handouts</a><br>- <a title="Supervision &amp; Teamwork" href="/SupervisionTeamwork/">Supervision &amp; Teamwork</a></p><p></p>
+                              </div>
+                              <!--<ul class="list-unstyled">
+                                <li><strong>Some strong Text:</strong></li>
+                                <li><a href="#">Some link Text</a></li>
+                                <li><a href="#">Some link Text</a></li>
+                              </ul>-->
+                            </div>
+                          </div>
+                          <div class="clearfix"></div>
+                        </div>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="dropdown">
+                      <a id="ctl00_APTAMainNavigation_lnkPayment" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/Payment">Payment</a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <div class="dropdown-content">
+                          <div class="col-md-6 column col1">
+                            <div class="dropdown-column-white">
+                              <ul class="list-unstyled">
+                                <li><a href="/Payment/CodingBilling">Coding &amp; Billing</a></li><li><a href="/Payment/PrivateInsurance">Private Insurance</a></li><li><a href="/Payment/Medicare">Medicare</a></li><li><a href="/Payment/Medicaid">Medicaid</a></li><li><a href="/Payment/WorkersCompensation">Workers' Compensation</a></li><li><a href="/Payment/TRICAREVA">VA &amp; TRICARE</a></li><li><a href="/HealthCareReform">Health Care Reform</a></li><li><a href="/PaymentReform">Payment Reform</a></li><li><a href="/InfoforPayers">Info for Payers</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="col-md-6 column col2">
+                            <div class="dropdown-column-colored">
+                              <div class="dropdown-thumbnail">
+                                <img id="ctl00_APTAMainNavigation_imgPayment" class="img-responsive" src="/uploadedImages/APTAorg/Images/Megamenus/Calculator2016_159x106.png?n=7447">
+                              </div>
+                              <div class="dropdown-excerpt">
+                                <p></p><p>The <a href="/Payment/Medicare/FeeCalculator/" title="Fee Calculator">MPPR/fee calculator</a> calculates payment for each CPT code based on geographic location.</p><p><strong>Other Popular Resources:</strong><br>
+- <a href="/Payment/Medicare/2016/Changes/" title="Medicare Changes">Medicare Changes</a><br>
+- <a href="/ICD10/" title="ICD 10">ICD-10</a><br>
+- <a href="/PQRS/" title="PQRS">PQRS</a></p><p></p>
+                              </div>
+                              <!--<ul class="list-unstyled">
+                                <li><strong>Some strong Text:</strong></li>
+                                <li><a href="#">Some link Text</a></li>
+                                <li><a href="#">Some link Text</a></li>
+                              </ul>-->
+                            </div>
+                          </div>
+                          <div class="clearfix"></div>
+                        </div>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="dropdown">
+                      <a id="ctl00_APTAMainNavigation_lnkAdvocacy" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/Advocacy/">Advocacy</a>
+                    <ul class="dropdown-menu dropdown-menu-right">
+                      <li>
+                        <div class="dropdown-content">
+                          <div class="col-md-6 column col1">
+                            <div class="dropdown-column-white">
+                              <ul class="list-unstyled">
+                                <li><a href="/FederalAdvocacy">Federal Advocacy</a></li><li><a href="/StateAdvocacy">State Advocacy</a></li><li><a href="/TakeAction">Take Action</a></li><li><a href="/Advocacy/Involvement">Involvement Opportunities</a></li><li><a href="http://www.ptpac.org/">PT-PAC</a></li><li><a href="http://policy.apta.org/">For Legislators</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="col-md-6 column col2">
+                            <div class="dropdown-column-colored">
+                              <div class="dropdown-thumbnail">
+                                <img id="ctl00_APTAMainNavigation_imgAdvocacy" class="img-responsive" src="/uploadedImages/APTAorg/Images/Megamenus/ActionApp_159x106.jpg?n=830">
+                              </div>
+                              <div class="dropdown-excerpt">
+                                <p></p><p>Take action in seconds with the <a href="/ActionApp/" title="APTA Action app">APTA Action app</a>!</p><p><strong>Other Popular Resources:</strong><br>
+- <a href="/FederalForum/" title="PT Day on Capitol Hill">Federal Advocacy Forum</a><br>- <a href="/StateForum/" title="State Forum">State Forum</a></p><p></p>
+                              </div>
+                              <!--<ul class="list-unstyled">
+                                <li><strong>Some strong Text:</strong></li>
+                                <li><a href="#">Some link Text</a></li>
+                                <li><a href="#">Some link Text</a></li>
+                              </ul>-->
+                            </div>
+                          </div>
+                          <div class="clearfix"></div>
+                        </div>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="dropdown">
+                      <a id="ctl00_APTAMainNavigation_lnkNews" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/News/">News &amp; Publications</a>
+                    <ul class="dropdown-menu dropdown-menu-right">
+                      <li>
+                        <div class="dropdown-content">
+                          <div class="col-md-6 column col1">
+                            <div class="dropdown-column-white">
+                              <ul class="list-unstyled">
+                                <li><a href="/LatestNews/">Latest News</a></li><li><a href="/PTJ">PTJ</a></li><li><a href="/PTinMotion">PT in Motion</a></li><li><a href="/Guide">Guide to PT Practice</a></li><li><a href="/Blogs">Blogs</a></li><li><a href="/Podcasts">Podcasts</a></li><li><a href="/SocialMedia">Social Media</a></li><li><a href="/OtherPublications">Other Publications</a></li><li><a href="/Media/">For Media</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="col-md-6 column col2">
+                            <div class="dropdown-column-colored">
+                              <div class="dropdown-thumbnail">
+                                <img id="ctl00_APTAMainNavigation_imgNews" class="img-responsive" src="/uploadedImages/APTAorg/Images/Megamenus/FridayFocus_159x106.jpg?n=4293">
+                              </div>
+                              <div class="dropdown-excerpt">
+                                <p></p><p>Subscribe to <a title="Friday Focus" href="/FridayFocus/">Friday Focus</a>.</p><p><strong>Other Popular Resources:</strong><br>- <a href="/PTinMotion/News/" title="News Now">PT in Motion News</a><br>- <a href="/GoGreen/" title="Go Green">Go Green</a><br>- <a href="/Subscriptions/" title="Subscriptions">Subscriptions</a></p><p></p>
+                              </div>
+                              <!--<ul class="list-unstyled">
+                                <li><strong>Some strong Text:</strong></li>
+                                <li><a href="#">Some link Text</a></li>
+                                <li><a href="#">Some link Text</a></li>
+                              </ul>-->
+                            </div>
+                          </div>
+                          <div class="clearfix"></div>
+                        </div>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="header-utility-item-mobile">
+                      <a id="ctl00_APTAMainNavigation_lnkPublic" href="http://www.moveforwardpt.com">For the Public</a>                    
+                  </li>
+                    <li class="hidden-lg hidden-md header-utility-item-mobile"><a href="/ProspectiveStudents/">Prospective Students</a></li><li class="hidden-lg hidden-md header-utility-item-mobile"><a href="/CurrentStudents/">Current Students</a></li><li class="hidden-lg hidden-md header-utility-item-mobile"><a href="/NewProfessionals/">New Professionals</a></li><li class="hidden-lg hidden-md header-utility-item-mobile"><a href="/PTA/">PTAs</a></li><li class="hidden-lg hidden-md header-utility-item-mobile"><a href="/Educators/">Educators</a></li>
+                    <li class="hidden-lg hidden-md"><a href="/Join">Join/Renew</a></li><li class="hidden-lg hidden-md"><a href="/FindaPT/">Find a PT</a></li><li class="hidden-lg hidden-md"><a href="/Communities/">APTA Communities</a></li><li class="hidden-lg hidden-md"><a href="/RelatedOrganizations/">Related Organizations</a></li><li class="hidden-lg hidden-md"><a href="http://iweb.apta.org/Purchase/SearchCatalog.aspx"><i class="fa fa-shopping-cart"></i> Store</a></li><li class="hidden-lg hidden-md"><a href="/APTALogin.aspx">Login</a></li><li class="hidden-lg hidden-md"><a href="/apta/profile/Default.aspx">Profile</a></li>
+                </ul>
+            </div>
+          </div>
+        </div>
+        <div class="search-box hidden-lg hidden-md">
+          <div class="container">
+            <div class="">
+                <span class="close-search-box-icon"><i class="fa fa-close close-icon"></i>
+              </span>
+            </div>
+
+            <div class="main-nav-body">
+                <div class="form-group" style="position: relative;">
+                    <input name="ctl00$txtSearchText" type="text" id="ctl00_txtSearchText" class="search-input form-control">
+                    <input type="submit" name="ctl00$btnSearch" value="Search" id="ctl00_btnSearch" class="search-btn btn btn-default btn-sm">
+                </div>
+            </div>
+          </div>
+        </div>
+        <!-- /.main-nav-wrap -->
+
+<div class="page page-general-content">
+    <div class="container">
+        <div class="page-container">
+            <div class="page-body">
+                <div class="left-shadow page-shadow"><img src="/responsive/img/slider/bg_carousel-left.png" alt="Bg Carusel"></div>
+                <div class="right-shadow page-shadow"><img src="/responsive/img/slider/bg_carousel-right.png" alt="Bg Carusel"></div>
+                <div class="row">
+                    
+                    <aside class="col-md-3 col page-general-left-col">
+                        <div class="aside-left-body">
+                            
+     
+
+                        </div>
+                    </aside>           
+                    <aside class="col-md-9 col page-general-right-col">
+                        <div class="aside-right-body">
+                            <div class="page-breadcrumb">
+                                <ol class="breadcrumb"><li><a href="/">Home</a></li><li>APTA Websites, Mobile Applications and Forums Privacy Policy</li></ol>
+                                
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <header class="dropdown page-content-header">
+                                        <h1 class="h-title page-content-title">APTA Websites, Mobile Applications and Forums Privacy Policy <span class="dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><a href="#"><i class="fa fa-angle-down"></i></a></span></h1>                                       
+                                        
+    
+
+                                    </header>                                    
+                                    
+                                </div>
+                                <div class="gen-content-body col-md-9">
+                                    
+    <div id="ctl00_SliderContent_cbCarousel">
 	
-</div>                        				
-						<div id="ctl00_ContentPlaceHolder1_cbMain">
+</div>                        										                    
+
+          
+                                    
+    <div id="ctl00_MainContent_cbMain">
 	<p>We care about your privacy and have created this Privacy Policy to demonstrate our firm commitment to your privacy and to assist you in using <a title="www.apta.org" href="http://www.apta.org">www.apta.org</a>, and any other websites and mobile applications we may launch in the future (collectively the "website").</p>
 <p>This Privacy Policy is subject to change and applies only to information on the website, and not to outside sites linked to by the website. You may contact us at the following address with any questions, concerns or comments you may have:</p>
 <p>American Physical Therapy Association
@@ -462,10 +457,10 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
 <p>Please note that the website contains discussion forums, message boards and other public or member based forums. Please note that any information that you provide in these forums may become public and/or available to all members and you must exercise caution when deciding to provide any information, including personal information. Although we try to protect personally identifiable information, APTA cannot guarantee the privacy of any information that you provide on these forums; accordingly, any information you provide is at your own risk. APTA is not responsible for maintaining the privacy or secrecy of any passwords or account information that you may have disclosed. </p>
 <h2>Security</h2>
 <p>Your privacy is of the utmost importance to us, but due to legal and security matters that are beyond our control, we cannot guarantee that the information that you may provide to us, including personally identifiable information, is not disclosed to a third party. APTA incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy, and privacy of the personal information that we collect. To assist in making the website secure, we use the latest industry standards to safeguard the confidentiality of your personally identifiable information, such as firewalls and Secure Socket Layers (SSL), where appropriate. APTA has also put in place precautions to protect information from loss, misuse, and alteration. Only those APTA employees who need access to your information in order to do their job are allowed access. We have also put procedures in place to safeguard any credit card data we collect from you when making an order. Please note, however, that we cannot absolutely guarantee the security of any information you provide online; you provide it at your own risk.</p>
-</div>	                        	
-                        
-    <div id="contentFooterDiv">
-	    <ul>
+</div>
+    
+    <div class="contentFooterDiv">
+	    <ul class="list-unstyled">
 		    <li>Last Updated: 7/1/2015</li>
 		    <li>Contact: <a href="mailto:web@apta.org">web@apta.org</a></li>
 		    
@@ -475,84 +470,91 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
     </div>
 
 				
-                                               
-					</div>
-					<!-- /#leftContentDiv -->
+    <!--<uc7:comment ID="ContentComments" DynamicParameter="id" />     	  -->
 
-					<!-- #smallContentDiv -->
-					<div id="smallContentDiv">
-						
+                                </div>
+                               
+                                <div class="gen-ad-body col-md-3">
+                                    <div class="sidebar-social-link">
+                                        
+    <ul class="list-unstyled social-links-list">
 
-<!-- #socialLnksDiv -->
-<div id="socialLnksDiv">
-	<!-- AddThis Button BEGIN -->
-	<div class="addthis_toolbox addthis_default_style">
-	    <ul>
-		    <li><a href="#print" class="lnkPrint" title="Print this page">Print</a></li>
-		    <li><a href="http://www.addthis.com/bookmark.php" class="addthis_button_email" title="Email this page to someone"><img src="/images/ico_email_small.png" alt="Email this page" style="margin:0 4px 0 0;vertical-align:middle;"> Email</a></li>
-		    <li><iframe src="http://www.facebook.com/plugins/like.php?href=http%3a%2f%2fwww.apta.org%2fPrivacyPolicy%2f&amp;layout=button_count&amp;show_faces=true&amp;width=120&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;"></iframe></li>
-		    <li>
-                <a id="ctl00_ContentPlaceHolder1_FollowAPTA1_linkShareFacebook" title="Share this page on Facebook" class="lnkFacebook" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fwww.apta.org%2fPrivacyPolicy%2f&amp;t=APTA Websites, Mobile Applications and Forums Privacy Policy">Facebook</a>
-            </li>
-		    <li>
-                <a id="ctl00_ContentPlaceHolder1_FollowAPTA1_linkTwitter" title="Tweet this page" class="lnkTwitter" href="http://twitter.com/share?url=http%3a%2f%2fwww.apta.org%2fPrivacyPolicy%2f&amp;text=APTA Websites, Mobile Applications and Forums Privacy Policy">Twitter</a>
-            </li>
-		    <li>
-                <a id="ctl00_ContentPlaceHolder1_FollowAPTA1_linkLinkedIn" title="Share this page on LinkedIn" class="lnkLinkedIn" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fwww.apta.org%2fPrivacyPolicy%2f&amp;title=APTA Websites, Mobile Applications and Forums Privacy Policy&amp;summary=&amp;source=www.apta.org">LinkedIn</a>
-            </li>
-		    <li><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4cc093375188f0ae" class="addthis_button_compact"><img src="/images/ico_plus_orange.png" alt="More Options" style="margin:0 7px 0 0;vertical-align:middle;">More Options</a></li>
-	    </ul>
-	</div>
-	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4cc093375188f0ae"></script>
-	<!-- AddThis Button END -->
-</div>
-<!-- /#socialLnksDiv -->
-                        
+        <li>
+            <a href="javascript:window.print();" class="print-ico social-ico">print</a>
+        </li>
+        <li>
+            <a href="http://www.addthis.com/bookmark.php" class="email-ico social-ico">email</a>
+        </li>
+        <li>
+            <iframe id="ctl00_APTAFollowAPTA_ifmFacebook" src="http://www.facebook.com/plugins/like.php?href=http%3a%2f%2fwww.apta.org%2fPrivacyPolicy%2f&amp;amp;layout=button_count&amp;amp;show_faces=true&amp;amp;width=120&amp;amp;action=like&amp;amp;font=arial&amp;amp;colorscheme=light&amp;amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;"></iframe>
+        </li>
+        <li>
+            <a id="ctl00_APTAFollowAPTA_linkShareFacebook" title="Share this page on Facebook" class="lnkFacebook facebook-ico social-ico" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fwww.apta.org%2fPrivacyPolicy%2f&amp;t=APTA Websites, Mobile Applications and Forums Privacy Policy">
+                Facebook
+            </a>            
+        </li>
+        <li>                                            
+            <a id="ctl00_APTAFollowAPTA_linkTwitter" title="Tweet this page" class="twitter-ico social-ico" href="http://twitter.com/share?url=http%3a%2f%2fwww.apta.org%2fPrivacyPolicy%2f&amp;text=APTA Websites, Mobile Applications and Forums Privacy Policy">
+                Twitter
+            </a>
+        </li>
+        <li>                                            
+            <a id="ctl00_APTAFollowAPTA_linkLinkedIn" title="Share this page on LinkedIn" class="linkedin-ico social-ico" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fwww.apta.org%2fPrivacyPolicy%2f&amp;title=APTA Websites, Mobile Applications and Forums Privacy Policy&amp;summary=&amp;source=www.apta.org">
+                LinkedIn
+            </a>
+        </li>
+        <li>
+            <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4cc093375188f0ae" class="options-ico social-ico"><span class="hidden-xs hidden-sm">More Options</span><span class="visible-xs visible-s">Share</span></a>                          
+        </li>
+    </ul>
 
-    <style type="text/css">
-        .APTABannerAd table, .APTABannerAd td
-    {background: #cccccc;
-     text-align: center;
-     font-family:Arial, Sans-Serif;
-     font-size: 10px;
-     color:#000000;
-     padding: 5px 5px 5px 5px;
-    }
-    </style>
-    <div>
+
+                                    </div>
+                                    <div class="gen-sidebar-ads">
+                                        
+    
+
+
+<div>
+
+    <div class="ad-sidebar"><!-- AD OLAPTAORG4 BEGIN --><span>ADVERTISEMENT</span><br><link href="http://www.apta.org/apta/bannerads/dynamicadimages/sitewide/sitewide.css" rel="stylesheet" type="text/css"><a href="http://www.apta.org/APTA/BannerAds/DynamicAdImages/SITEWIDE/OLAPTAORG4/GACLICK.aspx" target="_blank"><img class="OLAPTAORG4_Desktop" src="http://www.apta.org/APTA/BannerAds/DynamicAdImages/SITEWIDE/OLAPTAORG4/Desktop.ashx"><img class="OLAPTAORG4_Mobile" src="http://www.apta.org/APTA/BannerAds/DynamicAdImages/SITEWIDE/OLAPTAORG4/Mobile.ashx"></a><iframe src="http://www.apta.org/APTA/BannerAds/DynamicAdImages/SITEWIDE/OLAPTAORG4/GAVIEW.aspx" height="1" width="1" frameborder="0"></iframe><!-- AD OLAPTAORG4 END -->
+
+  </div>
 
    
+</div>
+
+    <span id="ctl00_AdContent_Advertisement1_colAds"></span>	
+                             
+                                    </div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </aside>
+                  <div class="clearfix"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- /.page -->
+
+      </div>
+    </main>
+    <!-- /.main-body -->
+
+  </div><!-- /.main-page-wrap -->
+</div></form><!-- .main-page -->
 
 
-        <div id="ctl00_ContentPlaceHolder1_RUNOFSITE_pnlAd">
-	<table class="APTABannerAd"><tbody><tr><td>ADVERTISEMENT<br>
-  <script type="text/javascript">_gaq.push(['_trackEvent', 'BannerAd', 'View', '112']);</script><a href="/apta/bannerads/click.aspx?page=OLAPTAORG4&amp;bannerid=112" target="_blank" onclick="_gaq.push(['_trackEvent', 'BannerAd', 'Click', '112']);"><img src="https://ad.doubleclick.net/ad/N6625.155442AMERICANPHYSICALTHER/B8454010.115823891;sz=120x240" border="0" alt=""></a>  </td></tr></tbody></table>
-</div>   
-
-        
-        
-      
-       
-    </div>
-
-
-                        <span id="ctl00_ContentPlaceHolder1_Advertisement1_colAds"><a href="http://www.apta.org/CSM/" title="CSM 2016"><img title="CSM 2016" alt="CSM 2016" src="/uploadedImages/APTAorg/Collections/CSM2016ad.png?n=4416"></a></span>					    
-					</div>
-					<!-- /#smallContentDiv -->
-				</div>
-				<!-- /#contentDiv -->					
-			</div>
-			<!-- /#largeCol -->
-		</div>
-		<!-- /#mainDiv -->			
-	</div>
-	<!-- /.wrapperDiv -->
-
-
-                                
-        <div id="ctl00_Footer1_CB" class="clear">
-	<div id="footerDiv"><!-- .wrapperDiv --><div class="wrapperDiv"><!-- #footerNav --><div id="footerNav"><!-- .foot7ColDiv --><div class="foot7ColDiv"><a href="http://www.apta.org/AboutUs/" title="About Us"><h5>About Us</h5>
-</a><ul>
+<footer class="site-footer">
+  <div class="container">
+    <div id="ctl00_APTAResponsiveFooter_CB" class="clear">
+	<div class="footer-columns"><div class="row"><div class="col-lg-2 col-sm-4 col-xs-6 column footer-links-column"><header class="footer-list-header">
+<a href="http://www.apta.org/AboutUs/"><h6 class="footer-list-title">About Us</h6>
+</a></header>
+<ul class="list-unstyled">
 <li><a href="http://www.apta.org/Membership/" title="Membership &amp;amp; Benefits">Membership &amp; Benefits</a></li>
 <li><a href="http://www.apta.org/VisionStrategicPlan/" title="Vision &amp;amp; Strategic Plan">Vision &amp; Strategic Plan</a></li>
 <li><a href="http://www.apta.org/Policies/" title="Policies &amp;amp; Bylaws">Policies &amp; Bylaws</a></li>
@@ -570,29 +572,11 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp;</div>
-<!-- /.foot7ColDiv --><!-- .foot7ColDiv --><div class="foot7ColDiv"><h5>Careers &amp; Education</h5>
-<ul>
+        &nbsp;</div>
+<div class="col-lg-2 col-sm-4 col-xs-6 column footer-links-column"><header class="footer-list-header">
+<a href="http://www.apta.org/CareersEducation/"><h6 class="footer-list-title">Careers &amp; Education</h6>
+</a></header>
+<ul class="list-unstyled">
 <li><a href="http://www.apta.org/Jobs/" title="Find Jobs" target="_blank">Find Jobs</a></li>
 <li><a href="http://www.apta.org/CoursesConferences/" title="Courses &amp;amp; Conferences">Courses &amp; Conferences</a></li>
 <li><a href="http://www.apta.org/Careers/" title="About PT/PTA Careers">About PT/PTA Careers</a></li>
@@ -607,29 +591,12 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp;</div>
-<!-- /.foot7ColDiv --><!-- .foot7ColDiv --><div class="foot7ColDiv"><h5>Practice &amp; Patient Care</h5>
-<ul>
+        &nbsp;</div>
+<div class="clearfix visible-xs">&nbsp;</div>
+<div class="col-lg-2 col-sm-4 col-xs-6 column footer-links-column"><header class="footer-list-header">
+<a href="http://www.apta.org/Practice/"><h6 class="footer-list-title">Practice &amp; Patient Care</h6>
+</a></header>
+<ul class="list-unstyled">
 <li><a href="http://www.apta.org/PatientCare/" title="Patient Care">Patient Care</a></li>
 <li><a href="http://www.apta.org/PracticeAdministration/" title="Practice Administration">Practice Administration</a></li>
 <li><a href="http://www.apta.org/EvidenceResearch/" title="Evidence &amp;amp; Research">Evidence &amp; Research</a></li>
@@ -646,29 +613,12 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp;</div>
-<!-- /.foot7ColDiv --><!-- .foot7ColDiv --><div class="foot7ColDiv"><h5>Payment</h5>
-<ul>
+        &nbsp;</div>
+<div class="clearfix visible-md">&nbsp;</div>
+<div class="col-lg-2 col-sm-4 col-xs-6 column footer-links-column"><header class="footer-list-header">
+<a href="http://www.apta.org/Payment/"><h6 class="footer-list-title">Payment</h6>
+</a></header>
+<ul class="list-unstyled">
 <li><a href="http://www.apta.org/Payment/CodingBilling/" title="Coding &amp;amp; Billing">Coding &amp; Billing</a></li>
 <li><a href="http://www.apta.org/Payment/PrivateInsurance/" title="Private Insurance">Private Insurance</a></li>
 <li><a href="http://www.apta.org/Payment/Medicare/" title="Medicare">Medicare</a> &nbsp;</li>
@@ -685,29 +635,12 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp;</div>
-<!-- /.foot7ColDiv --><!-- .foot7ColDiv --><div class="foot7ColDiv"><h5>Advocacy</h5>
-<ul>
+        &nbsp;</div>
+<div class="clearfix visible-xs">&nbsp;</div>
+<div class="col-lg-2 col-sm-4 col-xs-6 column footer-links-column"><header class="footer-list-header">
+<a href="http://www.apta.org/Advocacy/"><h6 class="footer-list-title">Advocacy</h6>
+</a></header>
+<ul class="list-unstyled">
 <li><a href="http://www.apta.org/FederalAdvocacy/" title="Federal Advocacy">Federal Advocacy</a></li>
 <li><a href="http://www.apta.org/StateAdvocacy/" title="State Advocacy">State Advocacy</a></li>
 <li><a href="http://www.apta.org/TakeAction/" title="Take Action">Take Action</a></li>
@@ -722,29 +655,11 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp;</div>
-<!-- /.foot7ColDiv --><!-- .foot7ColDiv --><div class="foot7ColDiv"><h5>News &amp; Publications</h5>
-<ul>
+        &nbsp;</div>
+<div class="col-lg-2 col-sm-4 col-xs-6 column footer-links-column"><header class="footer-list-header">
+<a href="http://www.apta.org/News/"><h6 class="footer-list-title">News &amp; Publications</h6>
+</a></header>
+<ul class="list-unstyled">
 <li><a href="http://www.apta.org/LatestNews/" title="Latest News">Latest News</a></li>
 <li><a href="http://www.apta.org/PTJ/" title="PTJ (Journal)">PTJ (Journal)</a></li>
 <li><a href="http://www.apta.org/PTinMotion/" title="PT in Motion">PT in Motion</a></li>
@@ -762,35 +677,16 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp;</div>
-<!-- /.foot7ColDiv --><!-- .foot7ColDiv --><div class="foot7ColDiv"><h5>Information For...</h5>
-<ul>
-<li><a href="http://www.apta.org/ProspectiveStudents/" title="Prospective Students">Prospective Students</a></li>
-<li><a href="http://www.apta.org/CurrentStudents/" title="Current Students">Current Students</a></li>
-<li><a href="http://www.apta.org/NewProfessionals/" title="New Professionals">New Professionals</a></li>
-<li><a href="http://www.apta.org/PTA/" title="PTAs">PTAs</a></li>
-<li><a href="http://www.apta.org/Educators/" title="Educators">Educators</a></li>
-<li class="extraLiSpacing"><strong><a target="_blank" href="http://www.moveforwardpt.com/" title="For the Public">For the Public</a>&nbsp;</strong></li>
+        &nbsp;</div>
+<div class="clearfix">&nbsp;</div>
+</div>
+</div>
+<div class="footer-contact-info-wrapp"><div class="footer-contact-info"><div class="footer-logo f-left"><a href="#"><img src="/images/logo_apta_footer.png" alt="APTA"></a>
+        &nbsp;</div>
+<div class="contact-info-list f-right left-bordered-list"><ul class="list-inline">
+<li><span>American Physical Therapy Association | 1111 North Fairfax Street, Alexandria, VA 22314-1488 703/684-APTA (2782)</span></li>
+<li><span>800/999-2782</span></li>
+<li><span>703/684-7343 (fax)</span></li>
 </ul>
 
 
@@ -799,40 +695,49 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp;</div>
-<!-- /.foot7ColDiv --></div>
-<!-- /#footerNav --><!-- #footerContactInfo --><div id="footerContactInfo"><div id="footLogo"><img src="/images/logo_apta_footer.png" alt="APTA"></div>
-<div id="footContact"><p>American Physical Therapy Association <span>|</span> 1111 North Fairfax Street, Alexandria, VA 22314-1488 703/684-APTA (2782) <span>|</span> 800/999-2782<span></span> <span>|</span> 703/684-7343 (fax) <span>|</span> <!-- Start WebsiteAlive Button Code ID: 2306 --><img alt="" data-ektron-style="CURSOR: pointer" onclick="window.open('https://www.websitealive3.com/15330/visitor/window/?code_id=2306&amp;dl='+escape(document.location.href),'wsa_15330_0','height=200,width=200')" src="https://www.websitealive3.com/15330/visitor/image/?code_id=2306&amp;dl='+escape(document.location.href)" style="cursor: pointer;"><!-- End WebsiteAlive Button Code --></p>
+        &nbsp;</div>
+<div class="clearfix">&nbsp;</div>
 </div>
 </div>
-<!-- /#footerContactInfo --><!-- #footOtherLinks --><div id="footOtherLinks"><p><a href="http://www.apta.org/ContactUs/" title="Contact Us">Contact Us</a> <span>|</span> <a href="http://www.apta.org/AdvertiseExhibit">For Advertisers &amp; Exhibitors</a> <span>|</span> <a href="http://www.apta.org/Media">For Media</a> <span>|</span> Follow APTA <a href="http://www.apta.org/Facebook/" title="Facebook"><img border="0" src="/uploadedImages/APTAorg/Images/Logos/Social_Media/facebook_footer.gif" alt="Join APTA on Facebook" style="border: 0px solid; width: 15px; height: 16px;" title="Join APTA on Facebook"></a><a href="http://www.apta.org/Twitter/" title="Twitter"><img border="0" src="/uploadedImages/APTAorg/Images/Logos/Social_Media/twitter_footer.gif" alt="Follow APTA on Twitter" style="border: 0px solid; width: 15px; height: 16px;" title="Follow APTA on Twitter"></a><a href="http://www.apta.org/LinkedIn/" title="Linked In"><img border="0" src="/uploadedImages/APTAorg/Images/Logos/Social_Media/linkedin_footer.gif" alt="Join APTA on LinkedIn" style="border: 0px solid; width: 16px; height: 16px;" title="Join APTA on LinkedIn"></a><a href="http://www.youtube.com/APTAvideo" title="YouTube"><img border="0" src="/uploadedImages/APTAorg/Images/Logos/Social_Media/youtube_footer.gif" alt="Follow APTA on YouTube" style="border: 0px solid;" title="Follow APTA on YouTube"></a></p>
-<p><br><br>All contents © 2015 American Physical Therapy Association. All Rights Reserved.</p>
-<p>Use of this and other APTA websites constitutes acceptance of our <a href="http://www.apta.org/TermsConditions/" title="Terms &amp;amp; Conditions">Terms &amp; Conditions</a> <span>|</span> <a href="http://www.apta.org/PrivacyPolicy/" title="Privacy Policy">Privacy Policy</a> <span>|</span> <a href="http://www.apta.org/Disclaimer/" title="Disclaimer">Disclaimer</a></p>
+<div class="footOtherLinks-wrapp left-bordered-list"><ul class="list-inline">
+<li><a href="http://www.apta.org/ContactUs/" title="Contact Us">Contact Us</a></li>
+<li><a href="http://www.apta.org/AdvertiseExhibit">For Advertisers &amp; Exhibitors</a></li>
+<li><a href="http://www.apta.org/Media">For Media</a></li>
+<li class="footer-social-icons"><a href="#" class="social-link">Follow APTA</a><a href="http://www.apta.org/Facebook/" class="social-facebook social-ico"><!-- <img src="img/icons/ico_facebook.png" alt="Icon"> --><em class="fa fa-facebook"></em></a><a href="http://www.apta.org/Twitter/" class="social-twitter social-ico"><!-- <img src="img/icons/ico_twitter.png" alt="Icon"> --><em class="fa fa-twitter"></em></a><a href="http://www.apta.org/LinkedIn/" class="social-linkedin social-ico"><!-- <img src="img/icons/ico_linkedin.png" alt="Icon"> --><em class="fa fa-linkedin"></em></a><a href="http://www.youtube.com/APTAvideo" class="social-youtube social-ico"><!-- <img src="img/icons/youtube_footer.gif" alt="Icon"> --><em class="fa fa-youtube"></em></a>
+        &nbsp;</li>
+</ul>
+
+
+
+
+
+
+
+    &nbsp;</div>
+<div class="policies"><div class="right-policy"><p>All contents © 2016 American Physical Therapy Association. All Rights Reserved.</p>
 </div>
-<!-- /#footOtherLinks --></div>
-<!-- /.wrapperDiv --></div>
-</div>        
-    </form>    
+<div class="use-policy"><p>
+          Use of this and other APTA websites constitutes acceptance of our
+          <a href="http://www.apta.org/TermsConditions/" title="Terms &amp;amp; Conditions">Terms &amp; Conditions</a><span> | </span><a href="http://www.apta.org/PrivacyPolicy/" title="Privacy Policy">Privacy Policy</a><span> | </span><a href="http://www.apta.org/Disclaimer/" title="Disclaimer">Disclaimer</a>
+        &nbsp;</p>
+</div>
+</div>
+</div>
+  </div>
+</footer>
+<script src="/responsive/js/jquery.js"></script>
+<script src="/responsive/js/jquery-ui.js"></script>
+<script src="/responsive/js/modernizr.js"></script>
+<script src="/responsive/js/bootstrap-3.3.5.js"></script>
+<script src="/responsive/js/mCustomScrollbar.concat.min.js"></script>
+<script src="/responsive/js/script.js"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4cc093375188f0ae"></script>
+<script type="text/javascript">
+$(document).ready(function () {
+    $(".inputEventDate").datepicker();
+});
+</script>
+        
     
 
     <script type="text/javascript">
@@ -844,22 +749,5 @@ __$BubbleCloseIconPath='/WorkArea/';//]]>
     </script>
 
 
-	<!-- BEGIN - DO NOT remove the following code.  It is used for Live Chat for MemberServices  -->
-	<!-- Start WebsiteAlive Embedded Icon/Tracking Code -->
-	<script type="text/javascript">
-		function wsa_include_js() {
-			var wsa_host = (("https:" == document.location.protocol) ? "https://" : "http://");
-			var js = document.createElement("script");
-			js.setAttribute("language", "javascript");
-			js.setAttribute("type", "text/javascript");
-			js.setAttribute("src", wsa_host + "tracking.websitealive.com/vTracker_v2.asp?objectref=wsa3&groupid=15330&websiteid=0");
-			document.getElementsByTagName("head").item(0).appendChild(js);
-		}
-		if (window.attachEvent) { window.attachEvent("onload", wsa_include_js); }
-		else if (window.addEventListener) { window.addEventListener("load", wsa_include_js, false); }
-		else { document.addEventListener("load", wsa_include_js, false); }
-	</script>
-	<!-- End WebsiteAlive Embedded Icon/Tracking Code -->
 
-
-<div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all ui-helper-hidden-accessible"></div><div id="FloatBubble"><table id="EkBubbleTable" cellspacing="0" cellpadding="0"><tbody><tr><td id="EkTopL"></td><td id="EkTopTile"><div id="EkTop">&nbsp;</div></td><td id="EkTopR"></td></tr><tr><td id="EkCenL"></td><td><div id="EkCloseBubbleIcon"><img id="EkClose" src="/WorkArea/images/application/bubble/close.gif" onclick="EBubble.ShowHoverOverBubble(0,'',0,0,0);"></div><div id="EkBubbleData"></div></td><td id="EkCenR"></td></tr><tr><td id="EkBotL"></td><td id="EkBot"></td><td id="EkBotR"></td></tr></tbody></table></div><div id="FloatBubbleT"><table id="EkBubbleTableT" cellspacing="0" cellpadding="0"><tbody><tr><td id="EkTopLT"></td><td id="EkTopT"></td><td id="EkTopRT"></td></tr><tr><td id="EkCenLT"></td><td><div id="EkCloseBubbleIconT"><img id="EkCloseT" src="/WorkArea/images/application/bubble/close.gif" onclick="EBubble.ShowHoverOverBubble(0,'',0,0,0,0,0);"></div><div id="EkBubbleDataT"></div></td><td id="EkCenRT"></td></tr><tr><td id="EkBotLT"></td><td id="EkBotTile"><div id="EkBotT">&nbsp;</div></td><td id="EkBotRT"></td></tr></tbody></table></div></body></html>
+<div id="FloatBubble"><table id="EkBubbleTable" cellspacing="0" cellpadding="0"><tbody><tr><td id="EkTopL"></td><td id="EkTopTile"><div id="EkTop">&nbsp;</div></td><td id="EkTopR"></td></tr><tr><td id="EkCenL"></td><td><div id="EkCloseBubbleIcon"><img id="EkClose" src="/WorkArea/images/application/bubble/close.gif" onclick="EBubble.ShowHoverOverBubble(0,'',0,0,0);"></div><div id="EkBubbleData"></div></td><td id="EkCenR"></td></tr><tr><td id="EkBotL"></td><td id="EkBot"></td><td id="EkBotR"></td></tr></tbody></table></div><div id="FloatBubbleT"><table id="EkBubbleTableT" cellspacing="0" cellpadding="0"><tbody><tr><td id="EkTopLT"></td><td id="EkTopT"></td><td id="EkTopRT"></td></tr><tr><td id="EkCenLT"></td><td><div id="EkCloseBubbleIconT"><img id="EkCloseT" src="/WorkArea/images/application/bubble/close.gif" onclick="EBubble.ShowHoverOverBubble(0,'',0,0,0,0,0);"></div><div id="EkBubbleDataT"></div></td><td id="EkCenRT"></td></tr><tr><td id="EkBotLT"></td><td id="EkBotTile"><div id="EkBotT">&nbsp;</div></td><td id="EkBotRT"></td></tr></tbody></table></div></body></html>
