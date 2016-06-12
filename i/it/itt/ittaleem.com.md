@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ittaleem.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213174348id_/http%3A//www.ittaleem.com/read-me-first/208530-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ittaleem.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612205340id_/http%3A//www.ittaleem.com/read-me-first/208530-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
