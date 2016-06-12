@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelaide.edu.au privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211144857id_/https%3A//www.adelaide.edu.au/legals/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaide.edu.au privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612202314id_/https%3A//www.adelaide.edu.au/legals/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Legals
 
