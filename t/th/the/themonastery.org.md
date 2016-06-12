@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the themonastery.org privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227095837id_/http%3A//www.themonastery.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themonastery.org privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612134949id_/http%3A//www.themonastery.org/privacy-policy) for the most accurate reproduction.*
 
 # Universal Life Church Monastery Privacy Policies
-
-## PRIVACY POLICY
 
 _Our church changes constantly, so we may amend this Policy from time to time - and you agree to all amendments. This Policy was last revised on January 12, 2015. If this Policy is changed, we will post a notice for 5 weeks._
 
@@ -51,5 +49,3 @@ The security, integrity, and confidentiality of your information are important t
 **7\. Questions or Concerns**
 
 If you have any questions or concerns about any of the elements of our Privacy Policy described above, we would invite you to contact our office by sending a message to our support team at [help@themonastery.org](mailto:help@themonastery.org) or calling us, during our regular business hours, at 206.285.1086. If you have a more general question about the Universal Life Church and its ordinations and products, you may find that these are answered on our [Frequently Asked Questions](https://web.archive.org/catalog/faq.php) page. If you have more general questions about this website and its usage, you may find the answers to these in our [Terms of Use](https://web.archive.org/terms). If you have a specific question about our policies related to shipping or returns, you may find an answer in our [Shipping and Returns](https://web.archive.org/catalog/shipping.php) Policy. 
-
-[ ](https://web.archive.org/guide-to-divinity "Universal Life Church Guide to Divinity")
