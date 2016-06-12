@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akmmovies.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211173317id_/http%3A//akmmovies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akmmovies.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612085531id_/http%3A//akmmovies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AkmMovies.com
 
@@ -21,6 +21,8 @@ We may use the information we collect from you when you register, make a purchas
 **How do we protect visitor information?**
 
 Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+
+[](http://cpa.ly/8RAr)
 
 We do not use an SSL certificate
 
@@ -54,6 +56,8 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
+[](http://cpa.ly/9iZE)
+
 We have not enabled Google AdSense on our site but we may do so in the future.
 
 **COPPA (Children Online Privacy Protection Act)**
@@ -79,3 +83,5 @@ We also agree to the individual redress principle, which requires that individua
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 akmmovies.com
+
+#### **[How to Download Movie](https://www.youtube.com/watch?v=oLBsxHH6Q1o)**
