@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wativ.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214051839id_/http%3A//wativ.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wativ.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612211021id_/http%3A//wativ.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wativ.com
+# Privacy Policy • Wativ.com
 
 Wativ.com privacy policy is designed to provide our visitors quality coupons and deals while keeping trust in dealing with our clients and partners. In this policy we will inform you how we collect, use, and protect your personal information and help you making up to date decisions about using coupons and deals at Wativ.com.
 
