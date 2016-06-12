@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleblot.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210124451id_/http%3A//www.articleblot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleblot.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612091654id_/http%3A//www.articleblot.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
