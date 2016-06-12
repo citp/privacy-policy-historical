@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920140054id_/http%3A//www.netlawman.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612144623id_/http%3A//www.netlawman.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice For The Net Lawman UK Site
 
@@ -186,4 +186,4 @@ If you wish us to remove personally identifiable information from our web site, 
 
 If you have any question regarding the privacy policy, please [contact us](http://www.netlawman.co.uk/contact)
 
-Now [take me back](http://www.netlawman.co.uk/become-an-affiliate?id=253_3_3_620) where I was before reading this.
+Now [take me back](https://web.archive.org/) where I was before reading this.
