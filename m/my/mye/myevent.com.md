@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myevent.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211120012id_/http%3A//myevent.com/1/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myevent.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612175940id_/http%3A//myevent.com/1/privacy_policy_np.htm) for the most accurate reproduction.*
 
 # Create Your Event Website - Fast and Easy
 
@@ -112,7 +112,7 @@ This Privacy Policy is effective as of October 24, 2013. MyEvent.com and Website
 
 This Privacy Policy and its performance shall be governed by the laws in force in the Province of Quebec, Canada. You consent and submit to the exclusive jurisdiction of the Courts of the Province of Quebec, district of Montreal, in all questions and controversies arising out of your use of the Site and this Privacy Policy. 
 
-If you have questions or concerns regarding this statement, you should contact us first via one of the methods listed below. 
+If you have questions or concerns regarding this statement, you should contact us first via one of the methods listed below. If you are not satisfied with our response you can contact TRUSTe here 
 
 MyEvent.com / Websiteworks.com  
 #305 221 De La Commune St West  
