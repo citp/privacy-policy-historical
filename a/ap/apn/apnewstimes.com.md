@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apnewstimes.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209193326id_/http%3A//www.apnewstimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnewstimes.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612171424id_/http%3A//www.apnewstimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - APNEWSTIMES
+# Privacy Policy | APNEWSTIMES
 
 Welcomes you. The privacy of our visitors to http://www.apnewstimes.com is important to us.We value your privacy and want you to know what information we collect and what we do with it.
 
