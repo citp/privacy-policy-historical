@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iscute.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114190156id_/http%3A//www.iscute.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iscute.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612122741id_/http%3A//www.iscute.com/privacy.php) for the most accurate reproduction.*
 
 # Cute & Funny Pictures @ isCute.com
 
@@ -21,10 +21,10 @@ We employ the use of tracking techniques used to monitor how people use this sit
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
-[](http://www.iscute.com/45) [](http://www.iscute.com/6uk) [](http://www.iscute.com/7om) [](http://www.iscute.com/7ek) [](http://www.iscute.com/71b) [](http://www.iscute.com/7ln) [](http://www.iscute.com/66k) [](http://www.iscute.com/7n7) [](http://www.iscute.com/73g) [](http://www.iscute.com/6cn)
+[](http://www.iscute.com/6l5) [](http://www.iscute.com/6gf) [](http://www.iscute.com/76i) [](http://www.iscute.com/6m1) [](http://www.iscute.com/66t) [](http://www.iscute.com/7m3) [](http://www.iscute.com/72c) [](http://www.iscute.com/6mn) [](http://www.iscute.com/6os) [](http://www.iscute.com/6pe)
 
 [](http://m.maploco.com/details/a602fbjv)
 
 Images are owned by their respective creators.  
-All other content Copyright © 2015 Funky Llama Productions LLC.   
+All other content Copyright © 2016 Funky Llama Productions LLC.   
 [Terms](http://www.iscute.com/tos.php) · [Contact](http://www.iscute.com/contact.php) · [Privacy](http://www.iscute.com/privacy.php)
