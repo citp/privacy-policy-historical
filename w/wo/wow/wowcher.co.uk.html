@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the wowcher.co.uk privacy policy that was archived on 2015-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151027075729id_/http%3A//www.wowcher.co.uk/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wowcher.co.uk privacy policy that was archived on 2016-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612120936id_/http%3A//www.wowcher.co.uk/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- 75.0.3, build 293 (20151022-1130), node /usr/share/tomcat, env prod --><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- 84.2.3, build 419 (2016-06-07T14:59:58Z), node /usr/share/tomcat, env prod --><head>
         <title>
 				Wowcher | Privacy Policy  </title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link rel="shortcut icon" href="/images/dod/favicon.ico">
+        <link rel="shortcut icon" href="/images/dod/wowcher/favicon.ico">
 	<link rel="apple-touch-icon" href="/images/dod/apple-touch-icon.png">
 <meta name="format-detection" content="telephone=no">
 
-<link rel="stylesheet" type="text/css" media="screen" href="/css/dod-minified-293.css?">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/dod-minified-419.css?">
 		<!--[if gte IE 9]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod/ie9.css" />
 <![endif]-->
 <!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod/ie8.css" />
@@ -24,11 +24,11 @@
 </script><style type="text/css">.js-hide { display: none; } .js-show { display: block; }</style>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-        <link href="//fonts.googleapis.com/css?family=Open+Sans:300,700" rel="stylesheet" type="text/css">
+        <link href="//fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet" type="text/css">
         <script type="text/javascript" src="/dwr/engine.js"></script>
 <script type="text/javascript" src="/dwr/util.js"></script>
-<script type="text/javascript" src="/js/dod-minified-293.js"></script>
-		<script type="text/javascript" src="/js/dod-minified-payment-SA-293.js"></script>
+<script type="text/javascript" src="/js/dod-minified-419.js"></script>
+		<script type="text/javascript" src="/js/dod-minified-payment-SA-419.js"></script>
 		<script type="text/javascript">
     DOD.site = {
         name : "National Deal",
@@ -37,9 +37,16 @@
         sitePath : "national-deal"
     };
 
-    $.cookie('dod-cookie-support-test', 'cookie-supported');
+  $.cookie('dod-cookie-support-test', 'cookie-supported');
 	var cookieSupport = $.cookie('dod-cookie-support-test') == 'cookie-supported';
 	$.cookie('dod-cookie-support-test', null);
+
+	(function() {
+		var affiliateSource = DOD.getUrlParam("source");
+		if (!$.cookie('dod-awin-source') && affiliateSource === 'awin'){
+			$.cookie('dod-awin-source', 'awin', {domain : DOD.getRootDomain(), path : "/"});
+		}
+	})();
 
 	
 
@@ -76,7 +83,7 @@
 					    }
 					});
 				}
-				
+
 			} else if (stopMobi == null) {
 				// first time browser - check if mobile or desktop and set this cookie, then redirect to homepage
 				$.ajax({
@@ -93,18 +100,18 @@
 				        	window.location = "/deals/"+chosenHome;
             			}
 				    }
-				});	
+				});
 			} else if (stopMobi == 'no') {
 	        	// mobile device, so go to mobile site homepage
 				window.location = "http://m.wowcher.co.uk/mt/www.wowcher.co.uk";
 			} else  {
 				window.location = "/deals/"+chosenHome;
 			}
-			
+
         } else if(typeof isPPCPage == 'undefined') {
-			
+
 			var mobileRedirectUrl = "http://m.wowcher.co.uk/mt/www.wowcher.co.uk"+window.location.pathname;
-			
+
             if(window.location.search.length > 0) {
                 mobileRedirectUrl = mobileRedirectUrl + window.location.search;
             }
@@ -118,8 +125,8 @@
                     }
             }
             
-		    
-		    	
+
+
 				if (stopMobi == null) {
 		        	// first time browser - check if mobile or desktop and set this cookie, then redirect to homepage
 					$.ajax({
@@ -141,22 +148,22 @@
 				}
 			
 		}
-	
+
 		if(location.pathname.match(/\/deals\/+deal-\d+-detail/) != null) {
 			if(chosenHome === null){ chosenHome = "london"; }
 			location.pathname = location.pathname.replace(/\/deals\/+deal-/, "/deals/"+ chosenHome +"/deal-");
 		}
+
 	
-	
-	
+
 	DOD.user = {
 		name : ("" != "") ? "" : "anonymous",
 		role : ("" != "" && "" != "false") ? "CP" : "Public"
 	};
-	
+
 	DOD.enquiryEmail = 'enquiries&#64;wowcher.co.uk';
 	DOD.enquiryTel = '01332 253089';
-	
+
 	$(document).ready(function(){
 		if(!Modernizr.input.placeholder){
 			$('[placeholder]').focus(function() {
@@ -209,7 +216,7 @@
         <!--[if IE 11]>
             <body class=" s ie11 "></body>
         <![endif]-->
-    <script async="" defer="" src="//j.flxpxl.com/46414.js?r=5346206676173273&amp;m=1176&amp;a=46414"></script></head>
+    <script async="" defer="" src="//j.flxpxl.com/46414.js?r=6574119485556447&amp;m=1176&amp;a=46414"></script></head>
 
     <body id="wbody" class=" s ">
     	<!-- Google Tag Manager -->
@@ -277,19 +284,44 @@
         </noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.21. -->
 
-<div id="header" class="js-header js-header-upgrade header cld  ">
+<div id="header" class="js-header js-header-upgrade header regular-header cld  ">
 
 	<div class="l-site-width cld">
 		
 		<h1 class="header-logo"><a href="/" id="wowcherLogo" class="wowcher-logo">Wowcher</a></h1>
-			
-		<div id="account-unit" class="account-unit">
-	<ul>
-		<li class="uname" id="js-first-name"></li>
-		<li><a href="/register" id="js-register-link" title="Join"></a></li>
-		<li class="js-hide"><a href="/myaccount/vouchers" title="View your account">My Details</a></li>
-		<li><a href="/login?redirectPath=/privacypolicy.html" id="js-login-link" title="Login"></a></li>
-		<li class="js-hide"><a href="/logout" title="Logout">Logout</a></li>
+
+		<div id="search-unit" class="search-unit">
+	<form id="search" name="search" method="get" action="/search"> 
+		<input id="searchTerm" name="query" type="text" value="" class="searchInput search-icon" placeholder="What are you looking for?" maxlength="75" autocomplete="off">
+		<button type="submit" class="search-btn" id="searchButton"><i class="icon-search"><span class="acc">Search</span></i></button>
+		<input name="location" type="hidden" id="search-location" value="Leeds">
+		</form>
+</div>
+<script type="text/javascript">
+	DOD.has('search');
+</script>
+<div id="account-unit" class="account-unit">
+
+	<ul class="account-menu">
+		<li id="js-welcome-message" class="welcome-message">
+			<a href="#">
+				<i id="js-icon-user" class="icon-user"></i>
+				<span class="name"><span class="hello">Hello</span><br><span id="js-user-name"></span></span>
+			</a>
+		</li>
+		<li id="js-login-menu" class="login-link">
+			<a href="/login?redirectPath=/privacypolicy.html" title="Login" class="cld">
+				<i class="icon-user"></i>
+				<span class="login">Login</span>
+			</a>
+		</li>
+		<li id="js-account-links" class="account-links">
+			<ul>
+				<li><a href="/myaccount/vouchers" title="View your wowchers">My Wowchers</a></li>
+				<li><a href="/myaccount/profile" title="View your profile">My Details</a></li>
+				<li><a href="/logout" title="Logout">Logout</a></li>
+			</ul>
+		</li>
 	</ul>
 </div>
 
@@ -297,82 +329,74 @@
 	DOD.LoginLinks.init('secure.wowcher.co.uk');
 </script>
 	
-	<div id="search-unit" class="search-unit">
-	<form id="search" name="search" method="get" action="/search"> 
-		<input id="searchTerm" name="query" type="text" value="" class="searchInput search-icon" placeholder="What are you looking for?" maxlength="75" autocomplete="off">
-		<input type="submit" class="search-btn" value="Search" id="searchButton">
-		<input name="location" type="hidden" value="London">
-		</form>
-</div>
-<script type="text/javascript">
-	DOD.has('search');
-</script>
-</div>
+	</div>
 	
 	<div class="menus">
 		<div class="mainMenuWrapper">
 			<div class="mainMenu" id="top">
 				<ul>
 					<li class=" static ">
-                            <a href="/deals/london">Local</a>
-                        </li>
-
-                        <li class=" static ">
-                            <a href="/deals/london/food-drink">Restaurants</a>
+                            <a href="/deals/leeds">Local</a>
                         </li>
 
                         <li class="wowgo static ">
-                            <a href="/travel-deals/london">Travel</a>
+                            <a href="/travel-deals/leeds">Travel</a>
                         </li>
 
                         <li class="nationwide static ">
-                            <a href="/nationwide/london">Shopping</a>
+                            <a href="/nationwide">Shopping</a>
+                        </li>
+
+                        <li class="activities static ">
+                            <a href="/deals/leeds/activities-entertainment">Activities</a>
                         </li>
 
                         <li class=" static ">
-                            <a href="/deals/london/activities-entertainment">Activities</a>
+                            <a href="/deals/leeds/home-garden">Home</a>
                         </li>
 
                         <li class=" static ">
-                            <a href="/deals/london/home-garden">Home &amp; Garden</a>
+                            <a href="/deals/leeds/fashion-jewellery">Fashion &amp; Jewellery</a>
                         </li>
 
                         <li class=" static ">
-                            <a href="/deals/london/beauty">Beauty</a>
+                            <a href="/deals/leeds/beauty">Beauty</a>
                         </li>
 
                         <li class=" static ">
-                            <a href="/deals/london/learning">Courses</a>
-                        </li>
-
-                        <li class=" static ">
-                            <a href="/deals/london/electricals">Electronics</a>
+                            <a href="/deals/leeds/electricals">Electronics</a>
                         </li>
 
                         <li class="splitter">
-                                <a href="#" id="js-menu-more">More+</a>
+                                <a href="#" id="js-menu-more" class="more"><span>More+</span></a>
                                     <ul id="js-menu-el">
+										<li class="subtitle usablenet-hide">MORE CATEGORIES</li>
                         <li class="splitter static ">
-                            <a href="/deals/london/health-fitness">Health &amp; Fitness</a>
+                            <a href="/deals/leeds/health-fitness">Health &amp; Fitness</a>
                         </li>
 
                         <li class=" static ">
-                            <a href="/deals/london/fashion-jewellery">Fashion</a>
+                            <a href="/deals/leeds/learning">Courses</a>
                         </li>
 
                         <li class=" static ">
-                            <a href="/deals/london/adult">Adult</a>
+                            <a href="/deals/leeds/adult">Adult</a>
                         </li>
 
                         <li class=" static ">
-                            <a href="/deals/london/home-essentials">Home Essentials</a>
+                            <a href="/deals/leeds/home-essentials">Home Essentials</a>
                         </li>
 
                         <li class=" static ">
-                            <a href="/deals/london/kids">Kids &amp; Children</a>
+                            <a href="/deals/leeds/kids">Children &amp; Baby</a>
                         </li>
 
-                        </ul>
+                        <li class="subtitle usablenet-hide">OPTIONS</li>
+									<li class="static usablenet-hide"><a href="#footer-main">View website footer</a></li>
+									<li class="apps">
+										<a class="app appApple" href="https://162752.measurementapi.com/serve?action=click&amp;publisher_id=162752&amp;site_id=98896&amp;my_adgroup=ADX_organic_usablenet_banner"></a><a class="app appAndroid" href="https://162752.measurementapi.com/serve?action=click&amp;publisher_id=162752&amp;site_id=98898&amp;my_adgroup=ADX_optimizely_usablenet_banner_3"></a>
+									</li>
+                                </ul>
                             </li>
                         <li class="js-cashback-menuitem cashback static ">
                             <a href="/cashback/homepage">Cashback</a>
@@ -383,28 +407,13 @@
 		</div>
 	</div>
 
-    <script type="text/javascript">
-		DOD.MenuAdjust.removeCashback('');
-        DOD.has('menu');
+    <div id="gift-finder"></div>
 
-		var chosenHome = $.cookie("dod-chosen-home");
-		if (chosenHome != null) {
-			$("#top, #foot1").find('a').each(function(){
-				var hrefLink = $(this).attr('href');
-				var parts = hrefLink.split("/");
-				if (parts[2] != chosenHome && (parts[1]=="deals" || parts[1]=="recentdeals" || parts[1]=="lastchance-deals" || parts[1]=="nationwide")) {
-					parts[2] = chosenHome;
-					var newLink = '';
-					for (var j=0; j < parts.length; j++) {
-						newLink = newLink + parts[j] + '/';
-					}
-					if ((newLink.substring(newLink.length -1)) == "/") {
-						newLink = newLink.substring(0, (newLink.length -1));
-					}
-					$(this).attr('href',newLink);
-				}
-			});
-		}
+	<script type="text/javascript">
+		DOD.MenuAdjust.removeCashback('wowcher');
+		DOD.has('menu');
+		DOD.MenuAdjust.linksToChosenHome();
+		DOD.has('giftFinder');
 	</script>
 
 </div>
@@ -483,13 +492,13 @@
 		}
 	  };
 
-	(function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = "//connect.facebook.net/en_GB/all.js";
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));
+	  (function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_GB/all.js";
+		  fjs.parentNode.insertBefore(js, fjs);
+	  }(document, 'script', 'facebook-jssdk'));
 </script>
 <script language="javascript">  
 			var staticPageType = "uk.co.and.domain.StaticPageType@6e64f138";
@@ -497,12 +506,12 @@
 		<div class="wowcher">
 				
 	<h1>Privacy &amp; Cookies Policy </h1>
-	<p>Effective from 16th May 2012</p>
+	<p>Effective from 6 April 2016</p>
 	
 	<p>This privacy policy applies only to this website (the "Site"). If you do not accept this privacy policy, you must not use the Site.</p>
 	
 	<h2 class="main-section">Collection of Personal Information</h2>
-	<p>We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms, order any products or services, participate in message boards, blogs or any other user generated content facilities or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it.</p>
+	<p>We, Wowcher Limited, collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms, order any products or services, participate in message boards, blogs or any other user generated content facilities or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it.</p>
 	
 	<h2 class="main-section">Use of Cookies</h2>
 	<p>
@@ -518,16 +527,15 @@
 	</p>
 	
 	<p>
-	The information collected by cookies and web beacons is not personally identifiable, it only includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location.
+	The information collected by cookies and web beacons is not tied to your contact details (such as your name or email address), it only includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location.
 	</p>
 	
 	
 	<p>
-	Display advertising on the Site is provided by our advertising partners. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). For more information about this type of online behavioural advertising please visit <a target="blank" href="http://www.youronlinechoices.com/uk/"> www.youronlinechoices.com/uk/</a>.
-	</p>
+	Display advertising on the Site is provided by our advertising partners. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites (this information does not include your name, street address, email address or telephone number). For more information about this type of online behavioural advertising please visit <a target="blank" href="http://www.youronlinechoices.com/uk/"> www.youronlinechoices.com/uk/</a>. </p>
 	
 	<p>
-	For more detail on our cookies, and on trusted 3rd party companies using cookies on our Site <a target="blank" href="/cookies.html">click here</a>.
+	For more detail on our cookies, and on trusted 3rd party companies using cookies on our Site <a href="http://www.wowcher.co.uk/cookies.html">click here</a>. One of the third party cookies on our site is provided by Criteo. The purpose of Criteo's service is to find visitors who also visit the websites of other companies on the Criteo network and serve these visitors personalized ads or where we or the other company has consent from the visitor, send personalized emails. Criteo uses cookies to single out visitors and then personalize ads based on their browsing experience. To learn more or opt out of Criteo <a target="blank" href="http://privacy.criteoemail.com/gb/index.html">click  here</a>.
 	</p>
 	
 	<p>
@@ -542,6 +550,7 @@
 	<p>By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which includes (without limitation):</p> 
 	<ul>
 		<li>personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you;</li>
+		<li>contacting you if you have not finalised your order to follow up on your abandoned shopping cart and/or to see if there was a problem with your use of the Site;</li>
 		<li>informing you about the latest changes to the Site, products, services or promotional offers that you might find interesting;</li>
 		<li>customer service and support;</li>
 		<li>communicating (and personalising such communication) with you;</li>
@@ -552,9 +561,9 @@
 	<h2 class="main-section">Sharing Your Personal Information</h2>
 	<p>We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer.</p>
 	
-	<p>We may disclose your information (including personal information) to other companies within the Daily Mail and General Trust plc group of companies (the "DMGT Group", see <a target="blank" href="http://www.dmgt.co.uk">www.dmgt.co.uk</a> for further information) and may use and share within the DMGT Group information that we learn from your interactions with us and other companies within the DMGT Group.</p>
+	<p>We may disclose your information (including personal information) to other companies within our group which include LivingSocial Limited and LivingSocial Europe Limited and may use and share with those companies information that we learn from your interactions with us and from other companies in our group.</p>
 	
-	<p>Subject to your consent, your personal information may be used by us and/or other companies within the DMGT Group to contact you by email, fax, telephone, SMS and/or post with information and offers on products/services provided by us and/or other companies within the DMGT Group. </p>
+	<p>Subject to your consent, your personal information may be used by us and/or other companies within our group to contact you by email, fax, telephone, SMS and/or post with information and offers on products/services provided by us and/or other companies within the group. </p>
 	
 	<p>Subject to your consent, we may supply personal information about you to selected third parties so that they may contact you with information and offers which may be of interest to you.</p>
 	
@@ -569,7 +578,7 @@
 	<p>If you wish to review or receive copies of the personal information we hold about you, change your marketing preferences or have any other queries about this privacy policy, please write to us (including full details of your request) at the following address:</p>
 	
 	<p>Privacy Team<br>
-	Wowcher<br>
+	Wowcher Towers<br>
 	Northcliffe House<br>
 	Meadow Road<br>
 	Derby<br>
@@ -577,11 +586,11 @@
 	0203 699 5024</p>
 	
 	
-	<p>We may charge a small administration fee (not exceeding the maximum permitted by law in England) in relation to fulfilling a request for access to personal information.</p>
+	<p>We may charge a small administration fee (not exceeding the maximum permitted by law in England or Ireland as applicable) in relation to fulfilling a request for access to personal information.</p>
 	
 	<h2 class="main-section">Unsubscribing from emails</h2>
 	
-	<p>If you wish to unsubscribe from emails from wowcher.co.uk, please click on the unsubscribe link in your email.</p>
+	<p>If you wish to unsubscribe from emails from the Site, please click on the unsubscribe link in your email.</p>
 	 
 	
 	<h2 class="main-section">Changes to this Privacy Policy</h2>
@@ -596,12 +605,11 @@
 					<div class="like-us grad-unit">
 	<h2>Like us</h2>
 	<div id="facebook" class="facebook">
-	<!-- taking out the following http:// will stop the likes in the footer block working!!! -->
-	<fb:like-box href="http://www.facebook.com/pages/Wowcher/153179438076480" width="299" show_faces="true" height="257" stream="false" header="false" layout="button_count"></fb:like-box>
-	<script>
+		<div class="fb-page" data-href="https://www.facebook.com/pages/Wowcher/153179438076480" data-width="300" data-height="220" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/pages/Wowcher/153179438076480"><a href="https://www.facebook.com/pages/Wowcher/153179438076480">Wowcher</a></blockquote></div></div>
+		<script>
 		if(DOD.isMobileDevice){
 			//hide this for mobile device
-			$("fb\\:like-box").remove();
+			$(".fb-page").remove();
 		}
 	</script>
 	</div>
@@ -634,7 +642,7 @@
 					$("#footer-top").hide();
 				}
 			</script>
-		<div class="footerContainer">
+		<div class="footerContainer" id="footer-main">
     <div class="footerMain cld">
         <div class="section dailyDeals cld">
             <h3 class="sectionTitle">Wowcher Daily Deals</h3>
@@ -648,7 +656,6 @@
                 <li><a href="/photography.html" title="Photography">Photography</a></li>
                 <li><a href="/pubsbarsclubs.html" title="Pubs, Bars and Clubs">Pubs, Bars and Clubs</a></li>
                 <li><a href="http://m.wowcher.co.uk?stop_mobi=false&amp;un_jtt_v_full_session=yes" title="Mobile Site">Mobile Site</a></li>
-                <li><a href="/recentdeals/" title="Previous deals">Previous Deals</a></li>
                 <li><a href="/redeemgiftcard" title="Redeem Gift Card">Redeem Gift Card</a></li>
             </ul>
             <ul class="colR">
@@ -701,38 +708,18 @@
                 <li><a href="/privacypolicy.html" title="Privacy &amp; Cookies policy">Privacy &amp; Cookies policy</a></li>
                 <li class="noSep"><a href="/e-commerceterms.html" title="E-commerce terms">E-commerce terms</a></li>
             </ul>
-            <p class="copyright">©&nbsp;2015 Wowcher. All rights reserved</p>
+            <p class="copyright">©&nbsp;2016 Wowcher. All rights reserved</p>
 	    </div>
     </div>
 </div>
 
 </div>
 
-<script type="text/javascript">
-	if (chosenHome != null) {
-		$("#foot1").find('a').each(function(){
-			var hrefLink = $(this).attr('href');
-			var parts = hrefLink.split("/");
-			if (parts[2] != chosenHome && (parts[1]=="recentdeals")) {
-				parts[2] = chosenHome;
-				var newLink = '';
-				for (var j=0; j < parts.length; j++) {
-					newLink = newLink + parts[j] + '/';
-				}
-				if ((newLink.substring(newLink.length -1)) == "/") {
-					newLink = newLink.substring(0, (newLink.length -1));
-				}
-				$(this).attr('href',newLink);
-			}
-		});
-	}
-</script>
-
 </div>
 	      	
       	</div>
 
-        <script type="text/javascript" src="/js/dod-minified-bottom-293.js"></script>
+        <script type="text/javascript" src="/js/dod-minified-bottom-419.js"></script>
 		<script type="text/javascript">
 			DOD && DOD.init();
  	  </script>  
