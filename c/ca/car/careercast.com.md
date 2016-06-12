@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the careercast.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924150123id_/http%3A//www.careercast.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careercast.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612032837id_/http%3A//www.careercast.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | CareerCast.com
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=ffcdf014-3ec0-418d-bb1e-e23865f9a310 "TRUSTe Privacy Certification")
 
 Adicio, Inc. and its website: CareerCast.com ("CareerCast.com Site”) are committed to respecting the privacy of our users. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to the CareerCast.com Site and does not apply to information we collect in any other fashion.
 
@@ -36,12 +38,13 @@ Choices Regarding the Disclosure of Personal Information to Others
 
 We do not disclose your personal information to third parties, or your combined personal and demographic information or information about your use of CareerCast.com (such as the areas you visit or the services you access), except as set forth below:
 
-  1. We disclose information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the opportunities, products or services of third parties at the time you register for an account, we supply your contact information to third parties such as employers, recruiters, data aggregators, marketers or others for the purpose of sending you e-mail or otherwise communicating with you. If you do not want us to share your personal information with these companies, contact us at [careercastsupport@adicio.com](mailto:careercastsupport@adicio.com). We use data we have about you (such as the interests and preferences you have expressed) to determine whether you might be interested in the opportunities, products or services of a particular third-party.
-  2. We disclose information to companies and individuals we employ to perform functions on our behalf. Examples include hosting our Web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.
-  3. We disclose information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
-  4. We disclose and transfer information to a third party who acquires all or a substantial portion of our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event we become the subject of a bankruptcy proceeding, whether voluntary or involuntary, we or our trustee in bankruptcy may sell, license or otherwise dispose of such information in a transaction approved by the bankruptcy court. You will be notified of sale of all or a substantial portion of our business to a third party via email or through a prominent notice posted on the CareerCast.com Site.
+**1.** We disclose information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the opportunities, products or services of third parties at the time you register for an account, we supply your contact information to third parties such as employers, recruiters, data aggregators, marketers or others for the purpose of sending you e-mail or otherwise communicating with you. If you do not want us to share your personal information with these companies, contact us at [careercastsupport@adicio.com](mailto:careercastsupport@adicio.com)(such as the interests and preferences you have expressed) to determine whether you might be interested in the opportunities, products or services of a particular third-party.
 
+**2.** We disclose information to companies and individuals we employ to perform functions on our behalf. Examples include hosting our Web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.
 
+**3.** We disclose information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
+
+**4.** We disclose and transfer information to a third party who acquires all or a substantial portion of our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event we become the subject of a bankruptcy proceeding, whether voluntary or involuntary, we or our trustee in bankruptcy may sell, license or otherwise dispose of such information in a transaction approved by the bankruptcy court. You will be notified of sale of all or a substantial portion of our business to a third party via email or through a prominent notice posted on the CareerCast.com Site.
 
 If you have a CareerCast.com profile, other users or members of CareerCast.com may access your profile, however, they will not have access to your contact information and your contact information is not displayed in any CareerCast.com profile.
 
@@ -61,11 +64,11 @@ You should understand that if provided, this information will be used by employe
 
 Since CareerCast.com is a career site, we give you three options regarding the accessibility of your resume:
 
-  1. You can store your resume in our database, but not allow it to be searchable by potential employers. Not allowing your resume to be searchable means that you can use it to apply for a job online, but employers and recruiters will not have access to search it through our resume database product.
-  2. If you allow your resume to be searchable without making it confidential and hiding your contact information, then all parties with access to our searchable resume database (or copies thereof) will have access to your resume.
-  3. If you have a confidential resume, but apply to a job posting on CareerCast.com, the employer to whom you send your resume will be able to view your contact information.
+**1.** You can store your resume in our database, but not allow it to be searchable by potential employers. Not allowing your resume to be searchable means that you can use it to apply for a job online, but employers and recruiters will not have access to search it through our resume database product.
 
+**2.** If you allow your resume to be searchable without making it confidential and hiding your contact information, then all parties with access to our searchable resume database (or copies thereof) will have access to your resume.
 
+**3.** If you have a confidential resume, but apply to a job posting on CareerCast.com, the employer to whom you send your resume will be able to view your contact information.
 
 In addition, portions of your searchable resume (but not your contact information) may be made public in your CareerCast.com profile.
 
@@ -73,7 +76,7 @@ We attempt to limit access to our searchable resume database only to paying empl
 
 However, the portions of your searchable resume (not your contact information) that are automatically made public in your CareerCast.com profile are accessible to anyone who uses the CareerCast.com profile service.
 
-You may remove your resume from CareerCast.com or delete your profile on CareerCast.com at anytime, but, employers, recruiters and others who have paid for access to the CareerCast.com resume database or to obtain a copy of that database or have paid for access to the CareerCast.com services, as well as parties who have otherwise gained access may have retained a copy of your resume or CareerCast.com profile in their own files or databases.
+You may remove your resume from CareerCast.com or delete your profile on CareerCast.com at any time, but, employers, recruiters and others who have paid for access to the CareerCast.com resume database or to obtain a copy of that database or have paid for access to the CareerCast.com services, as well as parties who have otherwise gained access may have retained a copy of your resume or CareerCast.com profile in their own files or databases.
 
 We are not responsible for the retention, use or privacy of resumes or profiles in these instances. If you wish to deactivate your resume or profile or request to remove unauthorized profile you may also do so by contacting us at [careercastsupport@adicio.com](mailto:careercastsupport@adicio.com).
 
@@ -81,11 +84,11 @@ We are not responsible for the retention, use or privacy of resumes or profiles 
 
 Please remember that if you post any of your personal information in public areas of CareerCast.com, such as in online forums, blogs, chat rooms, or in the CareerCast.com searchable resume database, such information may be collected and used by others over whom we have no control.
 
-We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of CareerCast.com. _To request removal of your personal information from our blog or community forum, contact us at_ [careercastsupport@adicio.com](mailto:careercastsupport@adicio.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of CareerCast.com. _To request removal of your personal information from our blog or community forum, contact us at_ [careercastsupport@adicio.com](mailto:careercastsupport@adicio.com)  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **Widgets**
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site.
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as interactive mini-programs that run on our site.
 
 These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
@@ -93,17 +96,13 @@ Widgets support functions that require that you disclose certain personal inform
 
 Forms which require sensitive information such as financial information (credit card) to process purchases for products or services are SSL encrypted to protect your sensitive information.
 
-**ShareThis™**
-
-When you use ShareThis™ to bookmark and share our products and site, you will be taken to a third party site and note that their privacy policy governs the collection and use of the information collected on those sites.
-
 **Single Sign-On**
 
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider.
 
 These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.
 
-Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. ****
+Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 **Third Party Advertisers**
 
@@ -133,7 +132,7 @@ Third parties with whom we partner to provide certain features on our site or to
 
 Upon request and within 30 days, CareerCast.com will grant individuals reasonable access to personal information that it holds about them. In addition, CareerCast.com will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete.
 
-Please contact [careercastsupport@adicio.com](mailto:careercastsupport@adicio.com) to change your personal information gathered on the Site. You may review, correct, update or change your account or profile information at any time. From your CareerCast.com account you may also opt out of receiving newsletters and certain other information from CareerCast.com.
+Please contact [careercastsupport@adicio.com](https://web.archive.org/web/20160612032837id_/http%3A//www.careercast.com/%E2%80%9Dmailto:careercastsupport@adicio.com%E2%80%9D) to change your personal information gathered on the Site. You may review, correct, update or change your account or profile information at any time. From your CareerCast.com account you may also opt out of receiving newsletters and certain other information from CareerCast.com.
 
 To change your CareerCast.com account information, simply log into your account, go to your Account Profile, review your account information and, if you wish, edit it with the options provided. [Click here](http://www.careercast.com/careers/user/login) to access your Account Profile page.
 
@@ -145,17 +144,15 @@ If you previously opted not to receive such communications, you may later opt-in
 
 We retain all the information we gather about you as long as your account is active in an effort to make your repeat use of CareerCast.com more efficient, practical, and relevant. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Of course, you can delete your resume,  profile, and your CareerCast.com account, in which event we will remove all our copies of your resume from CareerCast.com, your account and profile information, except for an archival copy which is not accessible on the Internet.
+Of course, you can delete your resume, profile, and your CareerCast.com account, in which event we will remove all our copies of your resume from CareerCast.com, your account and profile information, except for an archival copy which is not accessible on the Internet.
 
 **Security of the Personal Information**
 
-We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure.
-
-However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
+We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
 
 When you place an order online at CareerCast.com, your credit card information is protected through the use of encryption, such as the Secure Socket Layer ("SSL") protocol. SSL makes it difficult for your credit card information to be intercepted or stolen while being transmitted. We use a service company to process its credit card transactions.
 
-For further information on this company's privacy and security practices, please [click here](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside).
+For further information on this company's privacy and security practices, please [click here](https://web.archive.org/web/20160612032837id_/http%3A//www.careercast.com/%E2%80%9Dhttps://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside%E2%80%9D).
 
 **Children**
 
@@ -163,30 +160,28 @@ The CareerCast.com Site is not intended for children under 13 years of age. We d
 
 **Third Party Seal and Dispute Resolution**
 
-CareerCast.com and Adicio, Inc., has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information.
-
 The TRUSTe program covers only information that is collected through this Web site, CareerCast.com and does not cover information that may be collected through downloadable software and our mobile website.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [careercastsupport@adicio.com](mailto:careercastsupport@careercast.com).  If you are not satisfied with our response you can contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at [careercastsupport@adicio.com](https://web.archive.org/web/20160612032837id_/http%3A//www.careercast.com/%E2%80%9Dmailto:careercastsupport@adicio.com%E2%80%9D).  If you are not satisfied with our response you can contact [TRUSTe here](https://web.archive.org/web/20160612032837id_/http%3A//www.careercast.com/%E2%80%9Dhttps://feedback-form.truste.com/watchdog/request%E2%80%9D).
 
 CareerCast.com and Adicio, Inc. complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries.
 
-CareerCast.com and Adicio, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view CareerCast.com and Adicio, Inc’s certification, please visit <http://www.export.gov/safeharbor/>.
+CareerCast.com and Adicio, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view CareerCast.com and Adicio, Inc’s certification, please visit [http://www.export.gov/safeharbor/](https://web.archive.org/web/20160612032837id_/http%3A//www.careercast.com/%E2%80%9Dhttp://www.export.gov/safeharbor/%E2%80%9D).
 
 **Changes to Privacy Statement**
 
 If we decide to materially change our Privacy Statement for CareerCast.com and Adicio, Inc., we will post those changes through a prominent notice on the web site or notify you by email (sent to the e-mail address specified in your account) prior to the change becoming effective, so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
 
-If at any time, you have questions or concerns about this Privacy Statement or believe that we have not adhered to this Privacy Statement, please feel free to email us at [careercastsupport@adicio.com](mailto:careercastsupport@careercast.com).
+If at any time, you have questions or concerns about this Privacy Statement or believe that we have not adhered to this Privacy Statement, please feel free to email us at [careercastsupport@adicio.com](https://web.archive.org/web/20160612032837id_/http%3A//www.careercast.com/%E2%80%9Dmailto:careercastsupport@adicio.com%E2%80%9D).
 
 We will use commercially reasonable efforts to promptly answer your question or resolve your problem.
 
 **Contact Information**
 
-CareerCast.com is the name under which Adicio, Inc., a California corporation with its principal place of business at 2382 Faraday Avenue Suite 350 Carlsbad, California 92008, does business.
+CareerCast.com is the name under which Adicio, Inc., a California corporation with its principal place of business at 5993 Avenida Encinas, Ste #100, does business.
 
 Adicio, Inc. is the legal entity, which determines the purposes and means of processing the information gathered at the CareerCast.com Site.
 
 Thank you for using CareerCast.com.
 
-Update Effective December 15, 2014
+Update Effective December 30, 2015
