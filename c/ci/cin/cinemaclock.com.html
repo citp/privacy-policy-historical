@@ -1,204 +1,212 @@
-<!--The following is the downloaded HTML source of the cinemaclock.com privacy policy that was archived on 2014-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141218004730id_/http%3A//www.cinemaclock.com/privacy/can/Canada/Privacy-Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cinemaclock.com privacy policy that was archived on 2016-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612113914id_/http%3A//www.cinemaclock.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
 <title>Privacy Policy</title>
 <meta name="description" content="Privacy Policy">
-<meta name="keywords" content="Privacy Policy movies cinemas theatres theaters films trailers dvds actors directors showtimes movies times">
-<meta name="rating" content="General">
-<meta name="robots" content="all">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png">
-<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
-<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
-<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/html/ccimg/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/html/ccimg/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/html/ccimg/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/html/ccimg/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/html/ccimg/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/html/ccimg/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/html/ccimg/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/html/ccimg/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/html/ccimg/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="/html/ccimg/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/html/ccimg/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/html/ccimg/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/html/ccimg/favicon-32x32.png" sizes="32x32">
 <meta name="msapplication-TileColor" content="#222222">
-<meta name="msapplication-TileImage" content="/mstile-144x144.png">
-
-<link href="/html/ccss/clock20141212min.css" rel="stylesheet" type="text/css">
+<meta name="msapplication-TileImage" content="/html/ccimg/mstile-144x144.png">
 
 
+<link href="/html/ccss/clock20151210min.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-
-.MNlimited {}
-
+.mndd,.mnda,.mndt,.mndu,.mnd1,.mndp {display:none;}
+@media screen and (min-width: 400px){
+	.mnd1 {display:inline-block;}
+}
+@media screen and (min-width: 480px){
+	.mndu {display:inline-block;}
+}
+@media screen and (min-width: 900px){
+	.mndt {display:inline-block;}
+}
 </style>
+  
 
 <script src="http://edge.quantserve.com/quant.js" async="" type="text/javascript"></script><script>
-	var AdGearSkin = "";
+	var AdGearImpVar = "";
+	var AdGearImpVal = "";
 	var Bannerid = 0;	
 	var VideoSkin = 0;	
+	var SkinClickArea="";
 	var Zoneid = 0;
 	var ShowLB = 1;
+	var ShowBillboard = 0;
 	var ShowBB = 1;
 	var ShowBB2 = 1;
 	var ShowSS = 1;
 	var ShowVideo = 1;
-	var Bannertarget = "_blank";
+	var ShowVideoInBB = 0;
+	var Interstitial = 0;
+	var SkinParallax = 0;
+	var BannerTarget = "_blank";
+	var SearchBoxY=0;
 	var LinkUnderVideoText = 'Click to visit the official site';
 	if (typeof RandomNumber == "undefined") RandomNumber = new String (Math.random()).substring(2, 11);
+	function setCookie(cname,cvalue,ndays) {
+		var today = new Date();
+		var expire = new Date();
+		if (ndays==null || ndays==0) ndays=1;
+		expire.setTime(today.getTime() + 3600000*24*ndays);
+		document.cookie = cname + "=" + encodeURIComponent(cvalue) + ";expires=" + expire.toGMTString() + ";domain=.cinemaclock.com;path=/";
+	}
+	function setCookieOLD(cname, cvalue, exdays) {
+	    var d = new Date();
+	    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+	    var expires = "expires="+d.toUTCString();
+	    document.cookie = cname + "=" + cvalue + "; " + expires;
+	}
+	function getCookie(cname) {
+ 	   var name = cname + "=";
+ 	   var ca = document.cookie.split(';');
+ 	   for(var i=0; i<ca.length; i++) {
+ 	       var c = ca[i];
+ 	       while (c.charAt(0)==' ') c = c.substring(1);
+ 	       if (c.indexOf(name) != -1) return decodeURIComponent(c.substring(name.length,c.length));
+    	}
+    	return "";
+	}
+	function clearLoc() {
+		setCookie('userlon','',0);setCookie('userlat','',0);	
+		setCookie('autolon','',0);setCookie('autolat','',0);	
+		setCookie('devicelon','',0);setCookie('devicelat','',0);	
+	}
+</script>
+
+<script>
+function scrollUp(div2scroll2) {
+	$('html, body').animate({
+		scrollTop: $(div2scroll2).offset().top-6
+	}, 1000);
+}
 </script>
 
 <script>
 	var ua = window.navigator.userAgent;
-   var msie = ua.indexOf("MSIE ");
+	var msie = ua.indexOf("MSIE ");
 	var ie=0;
 	var wwi = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+	var wwh = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+</script>
+
+
+<script>
+	function favMovie(mid) {
+		if (jcli === undefined || jcli === null) {
+			var jcli=1;
+			var tagmi='div.fi' + mid + ' .tagm0';
+			//var tagmo='div.fi' + mid + ' .tagm1';
+			var tagmm='div#mymovies .fi' + mid;
+			var pat = '\\b'+mid+'\\b';
+			var reg = new RegExp(pat,"g");
+			var ufother = getCookie('uf');
+			
+			if (ufother.match(reg)) {
+				ufother = ufother.replace(reg,'.');
+				ufother = ufother.replace(/\.+/g,'.');
+				//$(tagmo).show();
+				$(tagmi).css("color","rgba(55,55,55,.1)").css("z-index","auto");
+			    setTimeout(function() { 
+					setCookie('uf',ufother,1048);
+					delete jcli;
+				}, 500);
+			}
+			else {
+				ufother = '.' + mid + '.' + ufother;
+				ufother = ufother.replace(/\.+/g,'.');
+				//$(tagmo).hide();
+				$(tagmi).css("color","#D9FF4D").css("z-index","1");
+
+				$('#myfav_empty').slideUp(600);
+				if ($(tagmm).is(':hidden')) {
+					$(tagmm).detach().prependTo('#mymovies').slideDown(600);
+				}
+				setTimeout(function() { 
+					setCookie('uf',ufother,1048);
+					delete jcli;
+				}, 500);
+			}
+	
+		}
+	}
+	function favMovieSet(mid) {
+		var pat = '\\b'+mid+'\\b';
+		var ufother = getCookie('uf');
+		ufother = '.' + mid + '.' + ufother;
+		ufother = ufother.replace(/\.+/g,'.');
+		setCookie('uf',ufother,1048);
+	}
+	function highiliteFavMov() {
+		console.log('function highiliteFavMov called');
+		var ufall = getCookie('uf');
+		var oneum = ufall.split('.');
+		for(var i=0; i<oneum.length; i++) {
+			var mid = oneum[i];
+			var tagmi='div.fi' + mid + ' .tagm0'; // solid
+			//var tagmo='div.fi' + mid + ' .tagm1'; // outline
+			$(tagmi).css("color","#D9FF4D").css("z-index","1");
+			//$(tagmo).hide();
+		}
+	}
+	//var showtodayonly = getCookie('showtodayonly');
+
+	
 </script>
 
 <!--[if lt IE 9]>
 	<script type="text/javascript">ie=1;</script>
+	<script src="/html/ccjs/css3-mediaqueries.js"></script>
 <![endif]-->
 
 
 
 
+<script>
+(function() {
+  var proto = "http:";
+  var host = "cdn.adgear.com";
+  var bucket = "a";
+  if (window.location.protocol == "https:") {
+    proto = "https:";
+    host = "a.adgear.com";
+    bucket = "";
+  }
+  document.writeln('<scr' + 'ipt type="text/ja' + 'vascr' + 'ipt" s' + 'rc="' +
+      proto + '//' + host + '/' + bucket + '/adgear.js/current/adgear.js' +
+      '"></scr' + 'ipt>');
+})();
+</script><script type="text/javascript" src="https://a.adgear.com//adgear.js/current/adgear.js"></script>
 
-
-
-
-<!--[if lt IE 9]>
-
-<script src="/html/ccjs/css3-mediaqueries.js"></script>
-
-    
-<style>    
-    	#JAS {display:block;}
-       	#LB320 {display:none;}
-		#LBzone {display:block;top: 10px;}
-       	.sitetitle {top:0;}
-	#LN {display:block;}
-	#MNfull a.btn.btn-menu {width:24%;}
-	#MNfullform {width:74%;}
-	#SHfullfirst {display:inline-block;}
-	#SHfulllast {display:none;}
-	#LB {width:728px;height:90px;}
-
-	#btnMovie,#btnCinema {max-width:240px;}
-	#dropDownL {width:50%;padding: 10px 10px 10px 30px;}
-	#dropDownR {width:50%;padding: 10px 30px 10px 10px;}
-	.btn-large {padding: 11px 11px;white-space:nowrap;}
-	.PG {margin: 0 10px;}
-
-	.guziki .btn-mini {padding:0 6px;margin-right:6px;}
-	p {padding-left:10px;}
-	.guziki {margin-left:10px;}
-	.bubble {margin-top:10px;}
-	.moviedesc em,.moviedesc s {display:inline;}
-	.btn-reviews {display:inline-block;}
-	.bubblerev {display:block;}
-	.MNcellupcoming {display:table-cell;}
-
-	.CT, .CTRT {padding:0;}
-	.CTRT {display:block;}
-	.confirmationpopuptoastcontainer {margin-right:170px;}
-	.dropdown .dropdown-menu LI > A {padding: 6px 6px;}	
-	h5 {font-size: 15px;}
-	#JAS {display:block;}
-
-	
-	.keyfield {display:block;width:100px;}
-	.MNcellsearch {display:table-cell;width:140px;}
-	#MNfull {display:none;}
-	#MNsmall {display:none;}
-	#MNlarge {display:block;}
-
-	.PG {margin: 0 2px 0 10px;}
-	#RTnew {margin-left: auto;display:block;left:auto;right:0;}
-
-
-
-	h5 {font-size: 16px;}
-	.keyfield {width:110px;}
-	.MNcellsearch {width:160px;}
-
-
-
-
-
-
-
-
-	.keyfield {width:25%;}
-
-	#LBviewport,#SSviewport,#CFviewport {
-    	-ms-transform: scale(1);
-    	-moz-transform: scale(1);
-    	-o-transform: scale(1);
-    	-webkit-transform: scale(1);
-    	transform: scale(1);
+<script>
+  ADGEAR.tags.script.init();
+  ADGEAR.lang.namespace("ADGEAR.site_callbacks");
+  if ((AdGearImpVal.length) && (AdGearImpVar.length)) {
+	  document.write ('<scr'+'ipt>ADGEAR.site_callbacks.variables = function() {	return {'+ AdGearImpVar +': "' + AdGearImpVal +'"};}</scr'+'ipt>');
+  }
+  else {
+  	ADGEAR.site_callbacks.variables = function() {
+	  return {};
 	}
-
-	#SS {
-	    width: 300px;
-	}
-	
-
-	.MNcellsearch {width:310px;}
-
-	.dropdown .dropdown-menu LI {
-		list-style: none;
-		font-size:1.2em;
-	}
-
-	.BD {margin-right: 310px;}
-	.confirmationpopuptoastcontainer {margin-right:310px;}
-
-	#BB, #BB2, #CF {display:block;}
-	#LKbottom {display:none;}
-	#LKside {display:block;}
-
-	.CTRT {width:300px;}
-	#RTnew {width:300px;}
-	
-
-	#LBzone {top:10px;}
-	#SH {display:block;}
-	#RTnew {top: 204px;}
-
-	#BB {height:250px;}
-
-	.adgear {width:100%;height:100%}
-
-	#AGA {background-position: center -42px;background-size:auto;background-attachment: scroll;}
-	.MNcellsearch {width:316px;}
-	#MISIA {background-size:auto;}
-	#LBzone {height:110px;}
-
-	#RTnew {margin-left: 184px;}
-	.PG {width:960px;padding:0;margin:0 auto;}
-	#MNlarge {width:960px;}
-	.BD, .movieblock {width:640px;}
-	.glyp {	
-		margin: 2px 0 2px;
-		font-size:18px;
-		height:18px;
-	}
-	.glyp.star {
-		font-size:20px;
-	}
-
-
-   	.videothumb img {width:180px;height:100px;}
-	.smallposter img {width:100px;height:140px;}
-	.smallposter,.videothumb {padding:10px 14px 8px 12px;}
-    
-</style>
-<![endif]-->
-
+  }
+</script>
 
 
 
@@ -208,88 +216,73 @@
 
 <body>
 <div id="JAS"></div>
-<div id="MISIA" style="height: 1017px;"></div>
+<div id="MISIA"></div>
 <div id="AGA">
 <div id="KE"></div>
-<div class="PG" id="PAGE">
+<div id="PAGE">
 <div id="HD">
-<div id="LN"><a href="/francais/can/Canada/Francais.htm" style="color:#777;">Français</a></div>
+<div id="LN"><a href="/francais" style="color:#777;">Français</a></div>
 <div id="WALL"></div><div id="LBzone">
 </div>
-<span class="sitetitle"><a href="/hello.html">CinemaClock</a> <a href="/hello.html"></a> </span>
+<div class="sitetitle"><a href="/" style="display:inline-block;">Cinema Clock <span class="cityname"></span></a> <span id="changeloc"><a href="/"><div class="glyp citymap"></div></a></span></div>
 </div>
-    
-<div id="MNlarge">
-    <table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td><h5 class="MNhome"><a href="/hello.html">Home</a></h5></td>
-    <td class="MNcenter"><h5 class="MNplaying"><a href="/can/Canada-now-playing.html">Movies</a></h5></td>
-    <td class="MNcenter"><h5 class="MNtheatres"><a href="/can/Canada-movie-theatres.html">Cinemas</a></h5></td>
-    <td class="MNcenter MNlimited"><h5 class="MNtop10"><a href="/can/Canada-top10.html">Top 10</a></h5></td>
-    <td class="MNcenter"><h5 class="MNupcoming"><a href="/can/Canada-upcoming-movies.html">Upcoming</a></h5></td>
-    <td class="MNcenter"><h5 class="MNtrailers"><a href="/can/Canada-movie-trailers.html">Trailers</a></h5></td>
-    <td style="text-align:right;"><h5 id="MNdvd" class="MNdvds"><a href="/can/Canada-video-dvd.html">DVD</a></h5></td>
-    </tr>
-    </tbody></table></td>
-    <td class="MNcellsearch"><form method="get" action="/search" target="_top" name="searchform" style="padding:0;height:0;"><input type="hidden" name="r" value="can"><input type="hidden" name="m" value="Canada"><input type="hidden" name="aga" value=""><input id="key" name="key" type="text" class="keyfield text" value="Search" onfocus="this.value=''" autocomplete="OFF" aria-autocomplete="list"><ul class="better-autocomplete" style="width: 310px; position: absolute; right: 0px; top: 101px; z-index: 101; max-height: 450px; box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 15px; display: none;"></ul>&nbsp;<input type="submit" name="mysubmit" value="Go" class="keybtn btn" id="keybtn"></form></td></tr></tbody></table>
-    
-<div id="MNaddrow" style="display:none;">
-    <table width="100%"><tbody><tr><td><table width="100%"><tbody><tr style="display:none;" id=""><td><h5 class="MNtrailers"><a href="/can/Canada-movie-trailers.html">Trailers</a></h5></td>
-        <td style="text-align:right;"><div id="MNopenr" class="MNopenrow btn-link"><span class="glyp openmenuu" style="display:inline;font-size: 24px;">&nbsp;</span></div></td>
-
-    <td class="MNcenter"><h5 id="MNdvd" class="MNdvds"><a href="/can/Canada-video-dvd.html">DVD</a></h5></td>
-    <td class="MNcenter"><h5 class="MNtheatres"><a href="/can/Canada-movie-catalog.html">Archives</a></h5></td>
-    
-    </tr></tbody></table></td></tr></tbody></table>
-</div>	
-</div>	
-
-
-
-
-
-<div id="MNsmall">
-    <table width="100%"><tbody><tr><td><a class="btn btn-menu mnbutton" href="/hello.html">Home</a></td>
-    <td class="MNcellplaying"><a class="btn btn-menu mnbutton" href="/can/Canada-now-playing.html">Movies</a></td>
-    <td class="MNcelltheatres"><a class="btn btn-menu mnbutton" href="/can/Canada-movie-theatres.html">Cinemas</a></td>
-    <td class="MNcelltop10 MNlimited"><a class="btn btn-menu mnbutton" href="/can/Canada-top10.html">Top 10</a></td>
-    <td class="MNcellupcoming"><a class="btn btn-menu mnbutton" href="/can/Canada-upcoming-movies.html">Upcoming</a></td>
-    <td class="MNcellopen"><button id="MNopen" class="btn btn-menu"><span class="glyp openmenu"></span></button></td>
-    </tr></tbody></table>
-</div>	
-
-    
-<div id="MNfull" style="display:none;position:relative;text-align:justify;margin:0;padding:0;">
-    <a class="btn btn-menu" href="http://www.cinemaclock.com/hello.html">Home</a> 
-	<a class="btn btn-menu" href="/can/Canada-now-playing.html">Movies</a> 
-    <a class="btn btn-menu" href="/can/Canada-movie-theatres.html">Cinemas</a>
-  	<a class="btn btn-menu MNlimited" href="/can/Canada-top10.html">Top 10</a>
-    <a class="btn btn-menu" href="/can/Canada-upcoming-movies.html">Upcoming</a> 
-    <a class="btn btn-menu" href="/can/Canada-movie-trailers.html">Trailers</a> 
-	<a class="btn btn-menu" href="/can/Canada-video-dvd.html">DVD</a>
-    <a class="btn btn-menu" href="/can/Canada-movie-catalog.html">Archives</a>
-
-    
-    <form id="MNfullform" method="get" action="/search" target="_top" name="searchform2"><input type="hidden" name="r" value="can"><input type="hidden" name="m" value="Canada"><input type="hidden" name="aga" value=""><input id="key2" name="key" type="text" class="keyfield text" style="position:relative;top:0;left:0;width:225px;font-size:16px;" value="Search" onfocus="this.value=''"><input type="submit" name="mysubmit" value="Go" class="btn" id="keybtn2" style="font-size: 16px;line-height: 24px;width:50px;margin-left:6px;"></form>
-
-
-</div>
-    
-    
-    
+   
 <div class="CT">
-<div class="CTRT"><div id="WALLBB"></div></div>
+<div class="CTRT"><div id="VideoBB"></div><div id="WALLBB"></div></div>
 
-<!--[if lt IE 7]>
-<h2>You are using an obsolete version of Internet Explorer which is unable to show this page correctly. Please upgrade your browser.<br><br></h2>
+<!--[if lt IE 9]>
+<h2 style="font-size:16px;">You are using an ouddated version of Internet Explorer which is unable to show this page correctly. Please upgrade your browser. Choose one option below:<br><br>
+<a class="btn" href="https://www.microsoft.com/en-ca/download/internet-explorer-11-for-windows-7-details.aspx">Internet Explorer v.11</a>
+<a class="btn" href="https://www.mozilla.org/en-US/firefox/products/">Mozilla Firefox</a>
+<a class="btn" href="http://www.google.com/chrome/">Google Chrome</a><br><br>
+</h2>
 <![endif]-->
 
 
 
-	<div class="BD">
-		<h2>Privacy Policy</h2>
-		<div class="movieblock" style="padding:20px 0;"><div style="width:90%;max-width:500px;margin:0 auto;">
-		<p style="text-align: justify;"><br><br>
+   
+<div class="BD" id="BDmenu" style="margin-bottom:0;overflow: visible;box-shadow:none;"><div id="MNfull">
+    <div class="mnbd"><a class="btn mnb" id="mnhome" href="/">Home</a></div>
+	<div class="mnbd"><a class="btn mnb" id="mnmovies" href="/movies/in-theatres">Movies</a></div>
+    <div class="mnbd"><a class="btn mnb" id="mncinemas" href="/theatres">Cinemas</a></div>
+  	<div class="mnbd mnd1"><a class="btn mnb" id="mntop10" href="/movies/top-10">Top 10</a></div>
+    <div class="mnbd mndu"><a class="btn mnb" id="mnupcoming" href="/movies/upcoming">Upcoming</a></div>
+    <div class="mnbd mndt"><a class="btn mnb" id="mntrailers" href="/movies/trailers">Trailers</a></div>
+    <div class="mnbd mndd"><a class="btn mnb" id="mndvd" href="/movies/dvd">DVD</a></div>
+    <div class="mnbd mnda"><a class="btn mnb" id="mncatalog" href="/movies/catalog">Catalog</a></div>
 	
-		We will not under any circumstance disclose individual identifiable information about you to any third party without first obtaining your explicit permission. We will make certain to comply with international standards for the storage and protection of the data in our care.
+    <button class="btn" id="mnopen"><span class="glyp openmenu"><div style="height:0;width:0;border: 5px solid transparent;border-width:6px 4px; border-top-color:#000;position:absolute;top:5px;right:4px;"></div></span></button>
+	
+    <form id="MNfullform" method="get" action="/search" target="_top" name="searchform2" onsubmit="qsearch();return false;"><input id="key" name="key" type="text" class="keyfield text" onfocus="this.value='';offs();scrollUp(this);" placeholder="Search" autocomplete="off"></form>
+<div id="results"><ul id="resultsli"></ul></div>
+<script>
+function qsearch() {
+	var qurl = document.getElementById('key').value;
+	window.location.href = '/search/' + qurl;
+}
+function offs() {
+	if (SearchBoxY == 0) {
+		var p = $("#key");	
+		var offset = p.position();
+		var SearchBoxX=Math.round(offset.left);
+		SearchBoxY=Math.round(offset.top+40);
+		$('#results').css('top',SearchBoxY+'px').css('left',SearchBoxX+'px');
+	}
+}
+</script>
+</div></div>
+
+
+
+
+
+
+<div class="BD">
+<h2>Privacy Policy</h2>
+<div class="movieblock">
+<p style="text-align: justify;margin-left: 10px;width: 90%;">
+<br>
+We will not under any circumstance disclose individual identifiable information about you to any third party without first obtaining your explicit permission. We will make certain to comply with international standards for the storage and protection of the data in our care.
 <br><br>
 Please note that your IP address may be visible to external parties such as advertisers and analytics and tracking companies. 
 <br><br>
@@ -299,36 +292,36 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 <br><br>
 By using our Internet site, you are giving us your consent to our use of the information you provide to us as laid out in this privacy protection policy.
 <br><br>
-If you no longer want to receive e-mail messages from us, please <a href="/contact-us/can/Canada/Contact-us.html" target="_top">click here to contact us</a>. By providing your personal information for the purposes specified above, you are giving us your permission for using this information accordingly.
+If you no longer want to receive e-mail messages from us, please <a href="/contact-us" rel="nofollow">click here to contact us</a>. By providing your personal information for the purposes specified above, you are giving us your permission for using this information accordingly.
 <br><br><br>
 (rev. 2012-07-11)
 
-		</p>
-		</div>
-		</div></div>
-		
-    	
-
-<!-- margin-right:0; -->
-<div style="width:100%;position:relative;top:-20px;"><div id="BBmobi" style="position:relative;top:-10px;width:300px;margin: 0 auto;"></div></div>
+<br><br>
+<br><br>
+</p>
+<div class="BD" style="position:relative;max-width:100%;width:auto;border-radius: 0;box-shadow:none;margin:30px 0 0;"><div id="BBmobi" style="position:relative;width:300px;margin: 0 auto;"></div></div>
+</div></div>
 
 
 
-<div class="BD" style="margin-top:-10px;">
+
+
+
+<div class="BD">
 	<div id="MNbottom">
-    <a class="btn btn-menu" href="http://www.cinemaclock.com/hello.html">Home</a> 
-	<a class="btn btn-menu" href="/can/Canada-now-playing.html">Movies</a> 
-    <a class="btn btn-menu" href="/can/Canada-movie-theatres.html">Cinemas</a>
-  	<a class="btn btn-menu MNlimited" href="/can/Canada-top10.html">Top 10</a>
-    <a class="btn btn-menu" href="/can/Canada-upcoming-movies.html">Upcoming</a> 
-    <a class="btn btn-menu" href="/can/Canada-movie-trailers.html">Trailers</a> 
-	<a class="btn btn-menu" href="/can/Canada-video-dvd.html">DVD</a> 
-    <a class="btn btn-menu" href="/can/Canada-movie-catalog.html">Archives</a> 
-     
-    <a class="btn btn-menu" href="/hello.html">Change Location</a> 
-    <a class="btn btn-menu" href="http://www.movieclock.com/hello.html">USA</a> 
-    <a class="btn btn-menu" href="/contact-us/can/Canada/Contact-us.html" target="_top">Contact Us </a> 
-    <a class="btn btn-menu" href="/francais/can/Canada/Francais.html">Français</a><br>
+    <a class="btn mnbuttonfull" href="/">Home</a> 
+	<a class="btn mnbuttonfull" href="/movies/in-theatres">Movies</a> 
+    <a class="btn mnbuttonfull" href="/theatres">Cinemas</a>
+  	<a class="btn mnbuttonfull" href="/movies/top-10">Top 10</a>
+    <a class="btn mnbuttonfull" href="/movies/upcoming">Upcoming</a> 
+    <a class="btn mnbuttonfull" href="/movies/trailers">Trailers</a> 
+	<a class="btn mnbuttonfull" href="/movies/dvd">DVD</a> 
+    <a class="btn mnbuttonfull" href="/movies/catalog">Catalog</a> 
+    
+    <a class="btn mnbuttonfull" href="/">Change Location</a> 
+    <a class="btn mnbuttonfull" href="http://www.movieclock.com/">USA</a> 
+    <a class="btn mnbuttonfull" href="/contact-us" rel="nofollow">Contact Us </a> 
+    <a class="btn mnbuttonfull" href="/francais" rel="nofollow">Français</a><br>
     </div>
 </div>
 
@@ -345,20 +338,19 @@ If you no longer want to receive e-mail messages from us, please <a href="/conta
 
 
 
-
-<div id="FT" class="BD">
-	<a href="/terms/can/Canada/Terms.html">Terms</a> 
-    and <a href="/privacy/can/Canada/Privacy-Policy.html">Privacy Policy</a><br>
-	© 1996-2014 CinemaClock® Canada Inc.<br>All rights reserved.
+<div id="FT" class="BD" style="box-shadow:none;">
+	<a href="/info/terms" rel="nofollow">Terms</a> 
+    and <a href="/info/privacy-policy" rel="nofollow">Privacy Policy</a><br>
+	© 1996-2016 Cinema Clock® Canada Inc.<br>All rights reserved.
 </div>
     
-
 
 </div>
 <!-- /CT -->
 
 
 
+<div class="BD" style="clear:both;position:relative;max-width:100%;width:auto;border-radius: 0;z-index:999;box-shadow:none;"></div>
 
 
 
@@ -368,7 +360,12 @@ If you no longer want to receive e-mail messages from us, please <a href="/conta
 
 
 
-<script src="/html/ccjs/jquery-1.11.1.better.min.js"></script>
+
+<script src="/html/ccjs/jquery-1.11.1.min.js"></script>
+
+<script>
+blokujRekIgn=1;
+</script>
 
 
 <script>
@@ -389,16 +386,79 @@ If you no longer want to receive e-mail messages from us, please <a href="/conta
 
 
 
+<div id="LB320"><span class="adgear">
+<script>
+/*
+<![CDATA[
+*/
+	if ((wwi < 580) && (ShowLB)) {
+  	 ADGEAR.tags.script.universal({
+      "chip_key":  "fbb4b1e01223013013860024e87a30c2",
+      "container_id": "2076",
+      "format_id": "1334", /* Custom - 320X50 / 300X50 / 320X100 / 300X100 */
+      "path":     ["EN", "CA", "canada"]
+     });
+	}
+/*
+]]>
+*/
+</script>
+</span>
+</div>
+<div id="LB"><div id="LBviewport"><span class="adgear">
+<script>
+/*
+<![CDATA[
+*/
+	if ((wwi > 969) && (ShowLB)) {
+	  ADGEAR.tags.script.universal({
+      "chip_key":  "07adf3201c2c012e3ab30024e87a30c2",
+      "container_id": "915",
+	  "format_id": "1424", /* Custom - 728X90 / 970X250 */
+      "path":     ["EN", "CA", "canada"]
+     });
+	}
+	else if ((wwi > 579) && (ShowLB)) {
+	  ADGEAR.tags.script.universal({
+      "chip_key":  "07adf3201c2c012e3ab30024e87a30c2",
+      "container_id": "915",
+      "format_id": "2", /* IAB - Leaderboard - (728x90) */
+      "path":     ["EN", "CA", "canada"]
+     });
+	}
+
+/*
+]]>
+*/
+</script>
+</span>
+
+</div></div>
+<div id="LBbot"></div>
+
+
+
 <script>
 if (!(typeof VideoAd  === 'undefined')) {
 	var vtag = '<video  width="100%" height="100%" id="clockplayer" controls style="padding-bottom: 55%;width:100%;height:100%;"><source src="" type="video/mp4" title="mp4"><object width="100%" height="100%" type="application/x-shockwave-flash" data="/html/ccjs/me/flashmediaelement.swf"><param name="wmode" value="transparent"><param name="movie" value="/html/ccjs/me/flashmediaelement.swf"></object></video>';
-	$("#TRvideo").append(vtag);
+	if (ShowVideoInBB) {
+		$("#VideoBB").append(vtag);
+	}
+	else {
+		$("#TRvideo").append(vtag);	
+	}
 }
 </script>
 <script>
 if (!(typeof VideoAd  === 'undefined')) {
-	document.getElementById('VIDEO').style.display='block';
-	document.getElementById('trailervideo').style.display='block';
+	if (ShowVideoInBB) {
+		document.getElementById('VIDEO').style.display='none';
+		document.getElementById('trailervideo').style.display='none';	
+	}
+	else {
+		document.getElementById('VIDEO').style.display='block';
+		document.getElementById('trailervideo').style.display='block';	
+	}
 }
 </script>
 <script>
@@ -407,15 +467,191 @@ if (!(typeof VideoAd === 'undefined')) {
 }
 </script>
 
+
+
+
+<style>
+#BBnew {
+    position: absolute;
+    display: block;
+    width: 300px;
+    z-index: 8;
+	bottom:0;
+	right:2px;
+}
+#BBnew2{display:none;}
+#BBmobi {height:250px;}
+@media screen and (min-width: 800px) {
+#BBnew {top: 166px;right: 2px;}
+#BBnew2{display:block;}
+#BBmobi {height:0;}
+#RTnew {top:786px;}
+}
+@media screen and (min-width: 850px) {
+#BBnew {top: 177px;}
+#RTnew {top:797px;}
+}
+@media screen and (min-width: 920px) {
+#BBnew {top: 182px;}
+#RTnew {top:802px;}
+}
+@media screen and (min-width: 980px) {
+#BBnew {top: 186px;margin-left: 180px;left: 50%;}
+#RTnew {top:806px;margin-left: 180px;left: 50%;}
+}
+</style>
+
+<div id="BBnew">
+<!-- p=clock -->
+<span class="adgear">
+<script>
+	if (ShowBB) {
+	  ADGEAR.tags.script.universal({
+      "chip_key":  "07adf3201c2c012e3ab30024e87a30c2",
+      "container_id": "915",
+      "format_id": "1016", /* Custom - 300x600 / 300x250 */
+      "path":     ["EN", "CA", "canada"]
+      });
+	}
+</script>
+</span>
+</div>
+<div id="RTnew">
+<div id="BBnew2">
+<iframe id="BB2" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:1px;" allowtransparency="true"></iframe>
+</div>
+<div id="SSnew"><div id="SSviewport"><span class="adgear">
+<script>
+/*
+<![CDATA[
+*/
+  if ((wwi > 639) && (ShowSS)) {
+  	ADGEAR.tags.script.universal({
+      "chip_key":  "07adf3201c2c012e3ab30024e87a30c2",
+      "container_id": "915",
+      "format_id": "1029", /* Custom - 120x600 / 160x600 */
+      "path":     ["EN", "CA", "canada"]
+    });
+  }
+/*
+]]>
+*/
+</script>
+
+</span>
+<img src="http://d.adgear.com/data/dp=500/chip=2797da001d610131cc390024e87a30c2.gif" width="1" height="1" border="0">
+
+</div></div>
+</div><!-- /RTnew -->
+
+
+
+
+
 <script>
 $(document).ready(function() {
-	$('#key').betterAutocomplete('init', '/aw/cquicksearch.aw?r=can&m=Canada&j=e');
-	$("#MISIA").height($("#PAGE").height());
-
-	if (!(typeof VideoAd  === 'undefined')) {
-		document.getElementById('VIDEO').style.display='block';
-		document.getElementById('trailervideo').style.display='block';
+	$.support.cors = true;
+	
+	if ((wwi < 800) && (ShowBB)) {
+		if ($("#BBmobi").length) {
+			var BBmobiOS = $("#BBmobi").offset();
+			var BBmobiT = BBmobiOS.top;
+			var BBmobiL = BBmobiOS.left;
+			$('#BBnew').height(250);
+			$("#BBnew").css({top: BBmobiT, left: BBmobiL});
+		}
+		else {
+			$('#FT').height(300);
+			$("#BBnew").css({bottom: 5, right: 10});
+		}
 	}
+	else if (ShowBB) {
+		var BBOS= $("#BBnew").offset();
+		var BBT = BBOS.top;
+		var BBH = $("#BBnew").height();
+		if (BBH < 300) {
+			var RTT = BBT+BBH+15;
+			$("#RTnew").animate({top:RTT}, 777, function() {});
+		}
+	}
+
+
+
+	$(document).keydown(function(e) {
+		if ((e.keyCode == 40) || (e.keyCode === 38)) {
+			if ($("#results").css('display') == 'block' ) {
+	          e.preventDefault();
+    	      return false;
+			}
+    	}
+    	return true;
+	});
+	$("#results").on('mouseover','li.divline',function() {
+			if (!$(this).hasClass('hilite')) {
+				$('.divline').removeClass('hilite');
+				$(this).addClass('hilite');
+			}
+		}
+	);
+	
+	 $("#key").keyup(function(e){
+		 if ($("#results").css('display') == 'block' ) {
+			var hilite = $('.divline.hilite'), divline = $('.divline');
+			if (e.which == 40) {
+				didntusearrowkey=0;
+			//	$('#key').blur();
+				hilite.removeClass('hilite').next().addClass('hilite');
+				if (hilite.next().length == 0) {
+					divline.eq(0).addClass('hilite')
+				}
+				e.preventDefault();
+				return false;
+			} else if (e.which === 38) {
+				hilite.removeClass('hilite').prev().addClass('hilite');
+				if (hilite.prev().length == 0) {
+					divline.eq(-1).addClass('hilite')
+				}
+				e.preventDefault();
+				return false;
+			}
+			 else if (e.which === 13) {
+				if (hilite.length) {
+					window.location.href = $('.divline.hilite a.aline').attr('href');
+					e.preventDefault();
+					return false;	
+				}
+			}
+		 }
+	
+		 
+		 
+        var q = $("#key").val();
+        $.getJSON("/search/quick",
+        {
+			'rp':'',
+			'r':'can',
+			'm':'canada',
+			'j':'e',
+			'q':q
+        },
+        function(data) {
+		 // alert('fn data 101=' + data);
+
+          $("#resultsli").empty();
+          $.each(data, function(key,val){
+			 // alert('title='+val);
+            $("#resultsli").append("<li class='divline'><a class='aline' href='" + key + "'>" + val + "</a></li>");
+			});
+          $("#results").show();
+        });
+      });
+	  
+	  $("#key").blur(function(e){
+		  	setTimeout(function() { $("#results").css({display:'none'}); }, 1000);
+      });
+
+	
+	//$("#MISIA").height($("#PAGE").height());
 
 	var a = document.body,
 	r = document.getElementById('RTnew'),
@@ -446,62 +682,87 @@ $(document).ready(function() {
 	       console.log(msie);
 
 		   $("#RTnew").animate({top:rttop});
-		   if ((!loadedBB2) && (isScrolledIntoView('#BB2'))) {
-        	//    console.log("BB2 visible");
-				loadedBB2 = 1; 
-				$('#BB2').hide();
-				$('#BB2').attr('src', '/aw/bb2.aw?lang=e');
-				$('#BB2').delay(1000).fadeIn(400);
-			}	
-	}
-
-
-	if (ww>640) {
-		if (ww>979) {rtop = 210;}
-		else if (ww>919) {rtop = 204;}
-		else if (ww>849) {rtop = 198;}
-		else if (ww>799) {rtop = 188;}
-		else if (ww>719) {rtop = 180;}
-		else {rtop = 172;}
-		if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv:11./)) { }
-		else {
-	 	   $(window).unbind("scroll").scroll(function () {
-				if (msie > 0) {}
-				else {m.style.backgroundPosition = "center " + -(Math.max(e.scrollTop, a.scrollTop) / 4) + "px";}
 	
-		    	if (stimer) {
-    	   			clearTimeout(stimer);
-    	    		stimer = 0;
-    			}
-    			stimer = setTimeout(shandler, sdelay);
-		    });	
-		}
-
 	}
+	
+	
+	
+	
+	
+	setInterval(function(){ 
+		var scrollpos = $(this).scrollTop();
+		if (scrollpos > 250) {
+			$('#btnscrolltop').fadeIn();
+	//		$("#LBviewport").appendTo("#LBbot");
+		} else {
+			$('#btnscrolltop').fadeOut();
+	//		$("#LBviewport").appendTo("#LB");
+		}
+//		if ((!loadedBB2) && (isScrolledIntoView('#BB2'))) {
+//        	//    console.log("BB2 visible");
+//			loadedBB2 = 1; 
+//			$('#BB2').hide();
+//			$('#BB2').attr('src', '/aw/bb2.aw?lang=e');
+//			$('#BB2').delay(1000).fadeIn(400);
+//		}
+	}, 1200);
+
+	
 	if (lb3.scrollHeight > 50) {
 		lbz.style.height = lb3.scrollHeight - 10 + "px";
 	}
 	
+	
 	$('#PGR').css("width",((ww - pgw)/2) + "px");	
-	$('#PGR').css("margin-right",-(ww/2) + "px");	
+	$('#PGR').css("right","0");	
 	$('#PGL').css("width",((ww - pgw)/2) + "px");	
-	$('#PGL').css("margin-left",-(ww/2) + "px");	
+	$('#PGL').css("left","0");	
+		
+		
 	
-    $("#MNopen").click(function(e){
-		$("#MNsmall").hide();
-		$("#MNlarge").hide();
-		$("#RTnew").css('top','320px');
-		$("#MNfull").slideDown();
+	$("#mnopen").click(function(e){
+		$(".mnbd").css('display', 'inline-block');
+		$("#MNfullform").css('display', 'inline-block');
+		$("#MNfull").css('height', 'auto');
+		$("#MNfull").css('margin-bottom', '-10px');
+		$("#mnopen").hide();
+		$(".mnbd").addClass('mnbdfull');
+		$("#LB320").hide();
 	});
-	
-	$("#MNopenrow").click(function(e){
-		$("#MNaddrow").slideDown();
-	});
-	
-	
-	
+	setTimeout(function(){ $("#LB320").css("position", "absolute"); }, 10000);
+
+	highiliteFavMov();
 
 	
+	$("#btnscrolltop").click(function() {
+  		$("html, body").animate({ scrollTop: 0 },"slow");
+  		return false;
+	});
+
+	if (Interstitial) {
+		setTimeout(function(){ $(jasdiv).hide();$(agadiv).show(); }, 5000);
+	}
+	if (SkinParallax) {
+		$("div.BD:nth-child(3)" ).append("<div class='skinparallax'></div>");
+		$(".skinparallax").height(wwh-110);
+		$(".skinparallax").append(atag);
+	}
+	
+	
+	
+	
+	var cookieEnabled = (navigator.cookieEnabled) ? true : false;
+	if (typeof navigator.cookieEnabled == "undefined" && !cookieEnabled) {
+		document.cookie="testcookie";
+		cookieEnabled = (document.cookie.indexOf("testcookie") != -1) ? true : false;
+	}
+	if (!cookieEnabled) {
+		$('#BDmenu').append("<div class='BD BDblock' style='padding: 20px 0;'>Please enable ''cookies'' to choose your favourite cinemas and movies.</div>");
+		$('.tagms').hide();
+		$('.tagm').hide();
+		$('.onecinema').hide();
+		$('#favhint').hide();
+	}
 });
 
  
@@ -511,163 +772,6 @@ $(document).ready(function() {
 
 
 
-
-<script>
-	
-/*
-<![CDATA[
-*/
-(function() {
-  var proto = "http:";
-  var host = "cdn.adgear.com";
-  var bucket = "a";
-  if (window.location.protocol == "https:") {
-    proto = "https:";
-    host = "a.adgear.com";
-    bucket = "";
-  }
-  document.writeln('<scr' + 'ipt type="text/ja' + 'vascr' + 'ipt" s' + 'rc="' +
-      proto + '//' + host + '/' + bucket + '/adgear.js/current/adgear.js' +
-      '"></scr' + 'ipt>');
-})();
-/*
-]]>
-*/
-</script><script type="text/javascript" src="https://a.adgear.com//adgear.js/current/adgear.js"></script>
-
-<script>
-/*
-<![CDATA[
-*/
-  ADGEAR.tags.script.init();
-  ADGEAR.lang.namespace("ADGEAR.site_callbacks");
-  ADGEAR.site_callbacks.variables = function() {
-	  return {};
-	}
-/*
-]]>
-*/
-</script>
-
-<script>
-if (AdGearSkin != "") {
-	ADGEAR.site_callbacks.variables = function() {
-		return { skin: AdGearSkin };
-	}
-}
-</script>
-
-
-
-
-<div id="LB320"><span class="adgear">
-<script>
-/*
-<![CDATA[
-*/
-	if ((wwi < 580) && (ShowLB)) {
-  	 ADGEAR.tags.script.universal({
-      "chip_key":  "fbb4b1e01223013013860024e87a30c2",
-      "container_id": "2076",
-      "format_id": "1334", /* Custom - 320X50 / 300X50 / 320X100 / 300X100 */
-      "path":     ["EN", "CA", "Canada"]
-     });
-	}
-/*
-]]>
-*/
-</script>
-</span>
-</div>
-<div id="LB"><div id="LBviewport"><span class="adgear">
-<script>
-/*
-<![CDATA[
-*/
-	if ((wwi > 579) && (ShowLB)) {
-	  ADGEAR.tags.script.universal({
-      "chip_key":  "07adf3201c2c012e3ab30024e87a30c2",
-      "container_id": "915",
-      "format_id": "2", /* IAB - Leaderboard - (728x90) */
-      "path":     ["EN", "CA", "Canada"]
-     });
-	}
-
-/*
-]]>
-*/
-</script>
-</span>
-<script>
-if ((typeof ADGEAR_BLANK_2 != "undefined") && (ADGEAR_BLANK_2 === true)) {
-  if (typeof BannerLB != 'undefined') {
-  }
-  else {
-//	document.write('<img src="/html/ccimg/ads/728x90-smile.jpg" width="728" height="90" border="0" alt="When Life gives you one reason to cry, give Life ten reasons to smile!">');
-
-  }
-}
-</script>
-</div></div>
-<div id="RTnew">
-	<div id="BBnew">
-<!-- p=clock -->
-<span class="adgear">
-<script>
-	if (wwi > 799) {
-	  ADGEAR.tags.script.universal({
-      "chip_key":  "07adf3201c2c012e3ab30024e87a30c2",
-      "container_id": "915",
-      "format_id": "1016", /* Custom - 300x600 / 300x250 */
-      "path":     ["EN", "CA", "Canada"]
-      });
-	}
-</script>
-<script>
-if ((typeof ADGEAR_BLANK_1016 != "undefined") && (ADGEAR_BLANK_1016 === true)) {
-	  if ("Toronto" == "Canada") {
-	  document.write ('');
-	  }
-}
-</script>
-
-</span>
-</div>
-    
-<script>
-if ((wwi < 800) && (ShowBB)) {
-	document.getElementById('BBmobi').appendChild(  document.getElementById('BBnew') )
-}
-</script>
-
-	<div id="SSnew"><div id="SSviewport"><span class="adgear">
-<script>
-/*
-<![CDATA[
-*/
-  if ((wwi > 639) && (ShowSS)) {
-  	ADGEAR.tags.script.universal({
-      "chip_key":  "07adf3201c2c012e3ab30024e87a30c2",
-      "container_id": "915",
-      "format_id": "1029", /* Custom - 120x600 / 160x600 */
-      "path":     ["EN", "CA", "Canada"]
-    });
-  }
-/*
-]]>
-*/
-</script>
-
-</span>
-<img src="http://d.adgear.com/data/dp=500/chip=2797da001d610131cc390024e87a30c2.gif" width="1" height="1" border="0">
-
-</div></div>
-	
-<iframe id="BB2" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:1px;" allowtransparency="true"></iframe>
-
-
-
-</div><!-- /RT -->
 
 
 
@@ -685,17 +789,25 @@ if ((wwi < 800) && (ShowBB)) {
 
 
 
-<div id="PGL" style="position: absolute; left: 50%; margin-left: -683px; width: 8px; height: 900px; z-index: 15;"></div>
-<div id="PGR" style="position: absolute; right: 50%; margin-right: -683px; width: 8px; height: 900px; z-index: 15;"></div>
+<div id="PGL" style="position: absolute; left: 0px; margin-left: -970px; width: 203px; height: 900px; z-index: 15;"></div>
+<div id="PGR" style="position: absolute; right: 0px; margin-right: -970px; width: 203px; height: 900px; z-index: 15;"></div>
 
 
 <script>
 if (Bannerid) {
-	var atag = '<a href="/aw/bannadsc.aw?zid=' + Zoneid + '&bid=' + Bannerid + '" target="' + Bannertarget + '" style="display: block;width: 100%;height: 100%;text-decoration: none;"></a>';
+	var atag = '<a href="/aw/bannadsc.aw?zid=' + Zoneid + '&bid=' + Bannerid + '" target="' + BannerTarget + '" style="display: block;width: 100%;height: 100%;text-decoration: none;"></a>';
 	$("#WALL").append(atag);
 	$("#WALLBB").append(atag);
 	$("#PGL").append(atag);
 	$("#PGR").append(atag);
+	if (Interstitial) {
+		var itag = '<a href="/aw/bannadsc.aw?zid=' + Zoneid + '&bid=' + Interstitial + '" target="' + BannerTarget + '" style="display: block;width: 100%;height: 100%;text-decoration: none;"></a>';
+		var jasdiv = "#JAS";
+		var agadiv = "#AGA";
+		var closex = '<div style="position:absolute;top:0;right:0;width:50;height:50;padding:10px;" onClick="$(jasdiv).hide();$(agadiv).show();"><span class="glyp xclose" style="box-shadow: #d33 0 0 3px;top:10px;right:10px;"></span></div>';
+		$(jasdiv).append(itag);
+		$(jasdiv).append(closex);
+	}
 	if (VideoSkin) {
 		$("#TRwallTop").append(atag);
 		$("#TRwallLeft").append(atag);
@@ -703,19 +815,20 @@ if (Bannerid) {
 		$("#TRwallBottom").append(atag);
 		$("#BDback").append(atag);
 	}
+	if (SkinClickArea.length>10) {
+		$("#WALL").append(SkinClickArea);
+	}
 }
 </script>
 
 
 
-
-
-
-
 <script async="">
 var language = window.navigator.userLanguage || window.navigator.language;
-document.write('<'+'img src="/aw/clicz.aw?j=e&r=CA&m=Canada&sec=&pid=&wwi=' + wwi + '&count=' + RandomNumber + '&ref=' + escape(document.referrer) +'" style="float:left;" width=1 height=1>');
-</script><img src="/aw/clicz.aw?j=e&amp;r=CA&amp;m=Canada&amp;sec=&amp;pid=&amp;wwi=1366&amp;count=540164815&amp;ref=" style="float:left;" width="1" height="1">
+document.write('<'+'img src="/aw/clicz.aw?j=e&r=CA&m=canada&sec=&pid=&wwi=' + wwi + '&count=' + RandomNumber + '&ref=' + escape(document.referrer) +'" style="float:left;" width=1 height=1>');
+</script><img src="/aw/clicz.aw?j=e&amp;r=CA&amp;m=canada&amp;sec=&amp;pid=&amp;wwi=1366&amp;count=695001435&amp;ref=" style="float:left;" width="1" height="1">
+
+
 
 
 
@@ -750,6 +863,7 @@ qacct:"p-WcM7XpA_Z55GF"
 
 
 
+<div class="btn btn-neonr" id="btnscrolltop"><span class="glyp chevronup"></span></div>
 
 
 
