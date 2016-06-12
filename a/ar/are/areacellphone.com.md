@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the areacellphone.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217135922id_/http%3A//www.areacellphone.com/ipad-apps-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areacellphone.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612201710id_/http%3A//www.areacellphone.com/ipad-apps-privacy-policy) for the most accurate reproduction.*
 
 # iPad, iPhone, Motorola Droid and Android Phones Apps | areacellphone
 
