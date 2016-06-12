@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the files32.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209005246id_/http%3A//www.files32.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the files32.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612135215id_/http%3A//www.files32.com/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Files32.com! Free, beta, and shareware software downloads.
 
