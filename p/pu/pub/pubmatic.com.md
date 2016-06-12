@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pubmatic.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219001103id_/http%3A//www.pubmatic.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubmatic.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613013930id_/http%3A//www.pubmatic.com/privacy-policy.php) for the most accurate reproduction.*
 
 # PubMatic - Privacy Policy
 
@@ -122,7 +122,7 @@ We retain Other Information we collect for purposes of serving targeted advertis
 
 **Choice and Access regarding Personally Identifiable Information**
 
-If you would like to review, correct, update, suppress, or delete Personally Identifiable Information that has been previously provided to us by you or you would like to request a copy of your Personally Identifiable Information held by us, you may contact us at [privacy@pubmatic.com](https://web.archive.org/web/20151219001103id_/http%3A//www.pubmatic.com/privacy@pubmatic.com). 
+If you would like to review, correct, update, suppress, or delete Personally Identifiable Information that has been previously provided to us by you or you would like to request a copy of your Personally Identifiable Information held by us, you may contact us at [privacy@pubmatic.com](https://web.archive.org/web/20160613013930id_/http%3A//www.pubmatic.com/privacy@pubmatic.com). 
 
 In your request, please make clear what Personally Identifiable Information you would like to have changed, whether you would like to have your Personally Identifiable Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personally Identifiable Information that you have provided to us. 
 
