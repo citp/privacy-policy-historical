@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noodletools.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030072853id_/http%3A//www.noodletools.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodletools.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612114934id_/http%3A//www.noodletools.com/privacy.php) for the most accurate reproduction.*
 
-# NoodleTools : Legal
+# NoodleTools : Privacy Policy
 
 _Last updated: September 2015_
 
