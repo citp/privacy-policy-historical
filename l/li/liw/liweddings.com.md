@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212193431id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612235229id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # LIWeddings.com Internet Privacy Policy
 
@@ -56,3 +56,6 @@ LIWeddings.com reserves the right to contact site visitors regarding account sta
 9\. LIWeddings.com's Right to Change Privacy Policy
 
 The foregoing policy is effective as of December 11, 1995. LIWeddings.com reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy. By entering the LIWeddings.com website you are accepting all terms and conditions outlined in the above Long Island Weddings ™, Inc Internet Privacy Policy.
+
+**Official Contest Rules:**  
+Simply fill out the [official entry form!](https://web.archive.org/contest/) It's that easy. The only requirement is that the wedding must be held in New York City, Queens, Brooklyn, Nassau or Suffolk County. The winner will be chosen by random on January 1, 2017. Do not use all uppercase! Duplicate entries will be disqualified! 
