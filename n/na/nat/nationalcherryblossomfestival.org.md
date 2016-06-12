@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the nationalcherryblossomfestival.org privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211145025id_/http%3A//www.nationalcherryblossomfestival.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcherryblossomfestival.org privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612205310id_/http%3A//www.nationalcherryblossomfestival.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | National Cherry Blossom Festival
+# Privacy Policy - National Cherry Blossom Festival
 
-## **Content and Information**
+### Content and Information
 
 All Content is the responsibility of the Content provider, and we are not responsible or liable for the Content provided by others. Some Content may be protected by intellectual property rights owned by others who provide Content to us. Unless we permit you in writing, you may not copy, sell, trade, use or allow others to use the Content.
 
 You are responsible for the information that you provide to us about yourself (“Information”) and for the consequences of providing us with that Information.
 
-## **Privacy**
-
-### **What Information we gather**
+### What Information we gather
 
 You decide how much of your Information you disclose to us and to the independent entities Constant Contact, Yahoo! or PayPal (“Affiliates”) who collect information on our behalf.
 
@@ -26,11 +24,11 @@ You are responsible for the accuracy of the Information that you provide. You ma
 
 We may gather and archive basic Website logging statistics showing the daily number of visitors to our Website and its subdirectories, daily requests for particular files, originating server locations and server or browser domain names. We use these aggregated statistics internally to provide better services, but we may also provide these statistics to others.
 
-### **What Information we do not gather**
+### What Information we do not gather
 
 We do not gather non-public personal information such as your Social Security number or any other information that could be used to determine credit- or employment-worthiness.
 
-### **Where we and our Affiliates gather Information**
+### Where we and our Affiliates gather Information
 
 We and our Affiliates gather Information from you in plainly-marked areas of our Website. For example, we request Information from you when you:
 
@@ -40,7 +38,7 @@ We and our Affiliates gather Information from you in plainly-marked areas of our
 
 
 
-### **How we use Information**
+### How we use Information
 
 We may use Information to:
 
@@ -51,13 +49,13 @@ We may use Information to:
 
 
 
-### **How we share Information**
+### How we share Information
 
 We do not sell, share or trade your Information to third parties. We may share Information with sponsors in the form of non-personalized, demographic information. Our Affiliates may share Information, subject to their own privacy policies.
 
 If we or our Affiliates are required by law enforcement or judicial authorities to provide Information, we or our Affiliates will do so to the extent that we determine disclosure is appropriate. We or our Affiliates may also provide Information as necessary to protect the personal safety of the public.
 
-### **How we store and send Information**
+### How we store and send Information
 
 We maintain security procedures and standards for storing and sending Information which we believe are as safe as today’s technology permits. We test these procedures and modify them regularly as new technologies become feasible.
 
@@ -67,17 +65,17 @@ We do not store or send Purchaser Information. We will store Order Information o
 
 PayPal will store Donor Information, subject to its own privacy policy, only for so long as it takes to process the donation. We store but do not send Donation Information. We may use Donation Information to send you receipts for tax purposes and for future donation solicitations (“Future Solicitations”).
 
-### **Opting Out**
+### Opting Out
 
 If you do not want to receive Updates, Yahoo! Marketing, or Future Solicitations, you can opt out in several ways:
 
   * Click on the opt-out link provided in an Update.
-  * Email us at ncbf@downtowndc.org requesting that you name be removed from future Updates, Yahoo! Marketing or Future Solicitations. ****
+  * Email us at ncbf@downtowndc.org requesting that you name be removed from future Updates, Yahoo! Marketing or Future Solicitations.
 
 
 
 Write us at 1250 H Street, NW, Suite 1000, Washington, DC 20005, requesting that you name be removed from future Updates, Yahoo! Marketing or Future Solicitations.
 
-### **Other Websites**
+### Other Websites
 
 The Website may contain hyperlinks to other websites, content or resources (collectively, “Other Sites”). Other Sites may gather information about you when you view them. We cannot control their collection of information and suggest that you review Other Sites’ privacy policies before providing them with your personal information.
