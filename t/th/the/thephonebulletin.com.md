@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thephonebulletin.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207100540id_/http%3A//www.thephonebulletin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thephonebulletin.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612124651id_/http%3A//www.thephonebulletin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Phone Bulletin
 
@@ -23,4 +23,4 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.  
 If you have any questions regarding the privacy policy of websites under The Bulletin Network, then you may contact us at **contact@thebulletinnetwork.com**.
 
-Cheers! 
+Cheers! 🙂
