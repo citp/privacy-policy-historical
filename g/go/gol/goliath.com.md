@@ -1,32 +1,34 @@
-> *The following text is extracted and transformed from the goliath.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402083239id_/http%3A//www.goliath.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goliath.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612092110id_/http%3A//www.goliath.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Goliath
 
-| 
+At Goliath.com, the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
-This statement discloses the privacy practices for IIS.com
+This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.
 
-**Personal Information**  
-IIS.COM recognizes your right to confidentiality and is committed to protecting your privacy. We will not give, rent, loan, or sell any identifiable personal information to any other third party, unless legally required to do so.
+**1\. Log Files**
 
-We may store and process that information to better understand your needs and how we can improve our products and services. In addition, we may use that information to contact you.
+We use log files like many other websites. The information in the log files include:
 
-**Non-Personal Information**  
-In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include the type of Internet browser you are using, the type of computer operating system you are using, and the domain name of the Web site from which you linked to our Web site.
+  * Internet Protocol addresses (IP)
+  * Types of browser
+  * Internet Service Provider (ISP)
+  * Date and time stamp
+  * Referring and exit pages
+  * Number of clicks
 
-**Security**  
-IIS uses industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers. However, “perfect security” does not exist on the Internet.
 
-**IP Addresses**  
-Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the IIS.COM domain, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our Web servers do not record e-mail addresses of the visitors.
 
-**Cookies**  
-We use a feature on your Internet browser called a "Cookie." Cookies are small files created on your computer’s hard drive. We use cookies to let us know that you are a prior customer. We also use cookies to retrieve certain information previously provided by you to IIS.COM, so that you will not need to re-enter this information every time you visit the site. We will not use cookies to store personal/business information.
+None of this information is linked to anything that is personally identifiable.
 
-Unless you specifically tell us, we will never know who you are, even though we may assign the browser on your computer a cookie. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
+**2\. Cookies**
 
-**External Links**  
-This site contains links to other sites. IIS.COM is not responsible for the privacy practices or the content of such Web sites.
+We use cookies to store information about visitor preferences and to record user-specific information on visits and pages the user views so as to provide a custom experience. In regard to third-party advertisers, Goliath.com has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact webmaster@iis.com.
+If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers’ websites.
+
+**3\. Other**
+
+Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from Goliath.com. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@goliath.com](mailto:admin@goliath.com).
