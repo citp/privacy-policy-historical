@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212063625id_/http%3A//baliwww.com/index/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612170212id_/http%3A//baliwww.com/index/policy.html) for the most accurate reproduction.*
 
 # Bali Hotel Bali Villa Accommodation Travel Portal in Indonesia
 
@@ -31,15 +31,9 @@ habits. Note that blocking all cookies prevents some online services from workin
 **Included And Covered With This Privacy Policy**  
 The following sites are included and covered with and into this Privacy Policy :  
 [http://baliwww.com](http://baliwww.com/) or [http://www.baliwww.com](http://www.baliwww.com/) and or pages under its.  
-[http://baliwww.net](http://baliwww.net/) or [http://www.baliwww.net](http://www.baliwww.net/) and or pages under its.  
-[http://hotelwww.net](http://hotelwww.net/) or [http://www.hotelwww.net](http://www.hotelwww.net/) and or pages under its.  
-[http://bali-plus.com](http://bali-plus.com/) or [http://www.bali-plus.com](http://www.bali-plus.com/) and or pages under its.  
-[http://villas-bali.com](http://villas-bali.com/) or [http://www.villas-bali.com](http://www.villas-bali.com/) and or pages under its.  
-[http://balibackpacker.com](http://balibackpacker.com/) or [http://balibackpacker.com](http://balibackpacker.com/) and or pages under its.  
-[http://asiapacifichotel.com](http://asiapacifichotel.com/) or [http://www.asiapacifichotel.com](http://asiapacifichotel.com/) and or pages under its.  
-[http://aseanwww.com](http://aseanwww.com/) or [http://aseanwww.com](http://aseanwww.com/) and or pages under its.   
-[http://asianwww.com](http://asianwww.com/) or [http://asianwww.com](http://asianwww.com/) and or pages under its. 
+[http://baliwww.net](http://baliwww.net/) or [http://www.baliwww.net](http://www.baliwww.net/) [http://villas-bali.com](http://villas-bali.com/) or [http://www.villas-bali.com](http://www.villas-bali.com/) and or pages under its.  
+
 
 **More About Privacy**  
 More information about this Privacy Policy could be asked directly to our [President Director](http://baliwww.com/index/about/contact.html) ([Yahoo! Messenger](ymsgr:sendIM?tanas_aramuk "Click to launch Yahoo! 
-Messenger")) or via voice at (62-361) 731520 or 081-2391-2002.
+Messenger")) or via voice at +62 81238 31444.
