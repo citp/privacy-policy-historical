@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bexpi.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114104022id_/http%3A//bexpi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bexpi.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612161000id_/http%3A//bexpi.com/privacy-policy) for the most accurate reproduction.*
 
 # Bexpi - Privacy Policy
 
