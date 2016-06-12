@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techly.com.au privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212205618id_/http%3A//www.techly.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techly.com.au privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613002441id_/http%3A//www.techly.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Techly
 
@@ -177,9 +177,9 @@ Techly welcomes any questions or comments you may have regarding this Privacy Po
 
 **Techly**  
 ATTN: Privacy  
-PO Box 225  
-The Junction  
-NSW 2291 Australia
+Suite 804  
+46-56 Kippax Street  
+Surry Hills NSW 2010
 
 **Effective Date of this Privacy Policy**  
 This Privacy Policy is effective as of 20 January, 2014.
