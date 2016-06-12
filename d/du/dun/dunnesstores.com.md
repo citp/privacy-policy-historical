@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the dunnesstores.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211145019id_/http%3A//www.dunnesstores.com/privacy-policy/content/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunnesstores.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612211004id_/http%3A//www.dunnesstores.com/privacy-policy/content/fcp-content) for the most accurate reproduction.*
 
 # Privacy Policy | Dunnes Stores | Dunnes Stores
 
-### Dunnes Stores would like its website users to read the following Privacy Statement which explains how we process and utilize your personal information collected on our site.
+### Dunnes Stores would like its website users to read the following Privacy Statement which explains how we process and utilise your personal information collected on our site.
 
 ### Personal information
 
-We ask for your personal details when you register to shop online, request to order gift vouchers online, request information from us or agree to release personal information when signing up for any of our promotional campaigns. 
+We ask for your personal details when you use the guest checkout function during the online purchase process, when you register to shop online on Dunnesstores.com, when you register your VALUEclub card details, during the online gift voucher puurchase process, when you request information from us or agree to release personal information when signing up for any of our promotional campaigns.
 
-This information is only used to reply to your enquiries; process your online order(s) or gift voucher order(s); to improve our services to you and to assist our knowledge of you as a valued customer.
+This information is used to reply to your enquiries, process your online order(s) or gift voucher order, to send subscriber emails/text messages and to improve our services and knowledge of you as a valued customer.
 
 This information is not released to any third parties with the exception of our data processing and support services providers, all of whom are appointed by us in compliance with the requirements of the Data Protection Acts of 1988-2003.
 
 ### Contacting us
 
-Enquiries sent via the website or by email will be regarded as private and confidential and will not be made available to third parties (with the exception of our data procesing and support services providers, all of whom are appointed by us in compliance with the requirements of the Data Protection Acts 1998-2003) without prior written consent from you. 
+Enquiries sent via the website or by online chat or email will be regarded as private and confidential and will not be made available to third parties (with the exception of our data procesing and support services providers, all of whom are appointed by us in compliance with the requirements of the Data Protection Acts 1998-2003) without prior written consent from you. 
 
 ### Non-personal information
 
@@ -28,18 +28,18 @@ We use cookies on this website. Cookies are tiny text files which identify your 
 
 ### Other websites
 
-Our web site may contain links to other web sites, which are outside our control and are not covered by the Privacy Policy outlined here. If you access other sites using the links provided, the operators of these sites may collect information from you, which will be used by them in accordance with their privacy policy, which may differ from ours.
+Our website may contain links to other web sites, which are outside our control and are not covered by the Privacy Policy outlined here. If you access other sites using the links provided, the operators of these sites may collect information from you, which will be used by them in accordance with their privacy policy, which may differ from ours.
 
-### Changes to privacy policy
+### Changes to Privacy Policy
 
 As legislation protecting all internet users changes, our website privacy statement will also change to ensure we are fully compliant and will be posted on this site so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-### Security on dunnesstores.com
+### Security on Dunnesstores.com
 
 We use a 128-bit SSL (secure sockets layer) encrypted secure Internet Connection to protect your payment details. Your computer should automatically allow the opening of the secure connection when you place your order. You can tell whether a page is secure as 'https' will replace the 'http' at the front of the [www.dunnesstores.com](http://www.dunnesstores.com/) in your browser address window. A small locked padlock will also appear in the bottom bar of your browser window.  
 We will never ask a customer to confirm any account or credit card details via email. 
 
-### Verified by Visa®
+### Mastercard Secure Code & Verified By Visa 
 
 To give you even more confidence in shopping online with [www.dunnesstores.com](http://www.dunnesstores.com/) we have introduced Verified by Visa and MasterCard® Secure Code™. These services enhance your existing card account against unauthorized use when you shop with us. To use this service, you must first register with the bank or other organisation that issued your card. 
 
