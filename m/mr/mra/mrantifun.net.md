@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrantifun.net privacy policy that was archived on 2015-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150706002400id_/http%3A//mrantifun.net/pivacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrantifun.net privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612140150id_/http%3A//mrantifun.net/pivacypolicy.php) for the most accurate reproduction.*
 
 # 
 
@@ -57,7 +57,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [Here](https://web.archive.org/web/20150706002400id_/http%3A//mrantifun.net/pivacypolicy.php?page=Terms%20Of%20Use)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [Here](https://web.archive.org/web/20160612140150id_/http%3A//mrantifun.net/pivacypolicy.php?page=Terms%20Of%20Use)
 
  **Your Consent**
 
