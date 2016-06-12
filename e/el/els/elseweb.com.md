@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elseweb.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122004859id_/http%3A//www.elseweb.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elseweb.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612160642id_/http%3A//www.elseweb.com/about/privacy) for the most accurate reproduction.*
 
 # Elseweb.com
 
