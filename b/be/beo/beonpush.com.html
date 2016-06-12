@@ -1,0 +1,210 @@
+<!--The following is the downloaded HTML source of the beonpush.com privacy policy that was archived on 2016-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612183206id_/https%3A//www.beonpush.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="description" content="Real-time bidding is a kind of automated or programmatic buying of advertising placements">
+<meta name="keywords" content="beonpush, online invest, trading, RTB">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BeonPush</title>
+<link rel="icon" type="image/png" href="http://beonpush.com/img/icon.png">
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" id="www-widgetapi-script" src="https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl4xy6vi/www-widgetapi.js" async=""></script>
+<script src="//www.youtube.com/iframe_api"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic">
+<script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-76795661-1', 'auto');
+      ga('send', 'pageview');
+
+        
+      window.url_path = 'http://beonpush.com/';;
+    </script>
+<!--[if IE]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+<script src="http://beonpush.com/lib/jquery.min.js"></script><script src="http://beonpush.com/lib/bootstrap.min.js"></script><script src="http://beonpush.com/lib/modernizr-2.6.2-respond-1.1.0.min.js"></script><link rel="stylesheet" href="http://beonpush.com/css/bootstrap.min.css"><link rel="stylesheet" href="http://beonpush.com/css/font-awesome.min.css"><link rel="stylesheet" href="http://beonpush.com/css/animate.css"></head>
+<body>
+<script src="http://beonpush.com/lib/slidebars.js"></script><script src="http://beonpush.com/lib/daterange/moment.js"></script><script src="http://beonpush.com/lib/daterange/daterangepicker.js"></script><script src="http://beonpush.com/lib/custom.js"></script><script src="http://beonpush.com/lib/out-main.js"></script><script src="http://beonpush.com/lib/jquery.bxslider.min.js"></script><script src="http://beonpush.com/lib/zoomable-picture.js"></script><script src="http://beonpush.com/lib/jquery.tubular.1.0.js"></script><script src="http://beonpush.com/lib/menu-front.js"></script><link rel="stylesheet" href="http://beonpush.com/css/daterange.css"><link rel="stylesheet" href="http://beonpush.com/css/main.css" media="screen"><link rel="stylesheet" href="http://beonpush.com/css/slidebars.css"><link rel="stylesheet" href="http://beonpush.com/css/metrize.css"><link rel="stylesheet" href="http://beonpush.com/css/jquery.bxslider.css"><link rel="stylesheet" href="http://beonpush.com/css/out-main.css"><link rel="stylesheet" href="http://beonpush.com/css/out-custom.css"><div class="navbar navbar-inverse navbar-fixed-top">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand logolink" href="http://beonpush.com/"><img src="http://beonpush.com/img/logo-h.png"></a>
+</div>
+<div id="menu-front" class="navbar-collapse collapse">
+<ul class="nav navbar-nav navbar-right">
+<li><a class="menu-item" href="http://beonpush.com/">Home</a></li><li><a class="menu-item" href="http://beonpush.com/products_preview">Products</a></li><li><a class="menu-item" href="http://beonpush.com/blog">Blog</a></li><li><a class="menu-item" href="http://beonpush.com/about">About us</a></li><li><a class="menu-item" href="http://beonpush.com/contact">Contact</a></li><li class="sign-up"><a class="menu-item" href="http://beonpush.com/signup"><span class="white">Sign Up</span></a></li><li><a class="menu-item" href="http://beonpush.com/signin">Login</a></li> </ul>
+</div> 
+</div>
+</div>
+<script>
+    
+    function init_links(context)
+    {
+        function show_page(elm, page)
+        {
+            var name = page;
+            if(page.indexOf("/") != -1)
+            {
+                name = page.substr(0, page.indexOf("/"));
+            }
+            
+            $("#main-content > div").css("display", "none");
+            elm.css("display", "block");
+            
+            $("#sb-site").css("min-height", "0");
+            $("#sb-site").css("min-height", $("#sb-site").height());
+            
+            if(window.scrollTo)
+            {
+                window.scrollTo(0, 0);
+            }
+            
+            if(history)
+            {
+                if(page == "index")
+                {
+                    history.pushState({}, "BeonPush", "./");
+                    return;
+                }
+
+                history.pushState({}, "BeonPush - " + name, page);
+            }
+        }
+        
+        function load_content(page)
+        {
+            var page_name = page.replace("/", "-");
+            var elm = $("#main-content > #content-"+page_name);
+            if(elm.length > 0)
+            {
+                show_page(elm, page);
+                return;
+            }
+            
+            var div = $("<div>");
+            div.attr("id", "content-"+page_name);
+            div.html("<center><img src=\"http://beonpush.com/img/loading.gif\" style='margin: 300px auto; height: 32px'></center>");
+            $("#main-content").append(div);
+            show_page(div, page);
+
+            $.post("http://beonpush.com/"+page, {additional: "no-menu"}, function(data)
+            {
+                div.html(data);
+                init_links(div);
+                ga('send', 'pageview');
+            });
+        }
+        
+        $("a[data-href]", context).click(function(e)
+        {
+            e.preventDefault();
+            $(".navbar .navbar-collapse li").removeClass("active");
+
+            if(!$(this).parent().hasClass("active"))
+            {
+                $(this).parent().addClass("active");
+            }
+            
+            var target = $(this).attr("data-href");
+            load_content(target);
+
+            return false;
+        });
+    }
+    
+    $(document).ready(function()
+    {
+        init_links("body");
+    });
+    
+</script>
+<div id="main-content">
+<div id="content-privacy_policy"> 
+<section id="page-title">
+<div class="container">
+<div class="row">
+<div class="col-md-12 title-white">
+<h2>Privay Policy</h2>
+</div>
+</div>
+</div>
+</section>
+<section id="flyers-content">
+<div class="container">
+<p>
+We are committed to preserving the privacy of all visitors and users of this website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. We will only use your personal information in accordance with this privacy policy.
+</p>
+<p>
+We conduct periodic reviews of “Our Privacy Policy” to adhere to any new laws or technological changes to our operations and practices and to ensure it remains appropriate to the changing environment.<br>
+By using this website, you consent to us using your personal information as set out below.
+</p>
+<h3 class="gray">PERSONAL INFORMATION</h3>
+<p>If you decide to apply to open an account with us, there is certain information that we will require from you in order to do so. This information includes but is not limited to personal details such as name, electronic address, contact details, and other necessary information. We may also request for additional information to help us improve our service to you. We may also collect information about your use of the website, such as pages visited, frequency and duration, visit and trading activities. All this information is collected to improve the quality of our service.</p>
+<h3 class="gray">DISCLOSURE OF INFORMATION </h3>
+<p>Personal information given to us by you shall not be disclosed to any third party without your prior consent, unless such information:</p>
+<ul>
+<li>is required to be disclosed to related companies of ours; </li>
+<li>was publicly known to us and/or made generally available in the public domain prior to the time of disclosure by you; </li>
+<li>becomes publicly known and made generally available after disclosure by you to us through no action or inaction of us; </li>
+<li>is required to be disclosed by law or regulation, in which case we shall give the(to) you as much advance notice of the proposed disclosure as is practical (including a copy of any written request or order)in order to allow you to limit or restrict such disclosure;</li>
+<li>is furnished or made known to us by a third party otherwise than in breach of any of our confidentiality obligation hereunder; is independently developed by us without reference to the information disclosed by you or was known to us, without restriction, at the time of disclosure by you, as shall be shown and evidenced by written documents; or is required to be disclosed in order for us to protect our rights.</li>
+</ul>
+<h3 class="gray">COMMUNICATION </h3>
+<p>You may inform Beonpush at any time that your personal details have changed or that you wish Beonpush to delete personal information we hold about you by e-mailing us. Beonpush will act in accordance with your instructions, except to the extent that we are required to hold your personal information for regulatory or legal purposes so that we can provide you with the services you have requested and to maintain adequate business records.
+</p>
+<h3 class="gray">USE OF COOKIES</h3>
+<p>Website may collect other types of information, as logged by Website’s servers, including your IP address, browser type and language, and the date and time of your visit, in order to infer certain user trends or to block certain users from accessing Website. Thus, Website may assign your computer one or more cookies which may collect information in order to facilitate access to Website and to personalize your online experience, and/or use standard or non-standard internet tools, such as web beacons or monitoring programs, which collect information that tracks your use of Website and enables it to customize our services and promotions
+The purpose of this information is to provide you with a more relevant and effective experience on this website, including presenting web pages according to your needs or preferences. Cookies are frequently used on many websites on the internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of this site if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the website. We therefore recommend you enable cookie acceptance to benefit from all the services on the website.
+</p>
+<h3 class="gray">THIRD PARTY TECHNOLOGY </h3>
+<p>Personal information given to us by you shall not be disclosed to any third party without your prior consent, unless such information:
+</p>
+<ul>
+<li>is required to be disclosed to related companies of ours; </li>
+<li>was publicly known to us and/or made generally available in the public domain prior to the time of disclosure by you; </li>
+<li>becomes publicly known and made generally available after disclosure by you to us through no action or inaction of us; </li>
+<li>is required to be disclosed by law or regulation, in which case we shall give the you as much advance notice of the proposed disclosure as is practical (including a copy of any written request or order)in order to allow you to limit or restrict such disclosure; </li>
+<li>is furnished or made known to us by a third party otherwise than in breach of any of our confidentiality obligation hereunder; is independently developed by us without reference to the information disclosed by you or was known to us, without restriction, at the time of disclosure by you, as shall be shown and evidenced by written documents; or is required to be disclosed in order for us to protect our rights. </li>
+</ul>
+<h3 class="gray">AMENDMENTS TO POLICY </h3>
+<p>This privacy policy may be changed from time to time. We reserve the right, at any time, to amend, alter, modify or change, as we see fit, any term of this Privacy Policy our without any prior notice, and you hereby agree to conform to the current version as published in this site.</p>
+<p>Any dispute over our privacy statement is subject to this notice and our customer agreement. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. If you have any questions that this statement does not address, please contact a please contact us email or through one of our management.</p>
+</div>
+</section>
+<style>#flyers-content h3{font-size:20px;margin-top:20px;margin-bottom:5px;}#flyers-content .container{margin-top:35px;margin-bottom:35px;}</style>
+</div>
+</div>
+ 
+<section id="bottom">
+<div class="container">
+<div class="row margin-40">
+<div class="col-md-10 col-md-offset-1 text-center">
+<p>
+<a href="http://beonpush.com/faq" data-href="faq">Faq</a>
+|
+<a href="http://beonpush.com/privacy_policy" data-href="privacy_policy">Privacy Policy</a>
+|
+<a href="http://beonpush.com/conditions" data-href="conditions">Terms and conditions of use</a>
+|
+<a href="http://beonpush.com/risk_disclosure" data-href="risk_disclosure">Risk disclosure</a>
+</p>
+<hr>
+</div>
+</div>
+<div class="row">
+<div class="col-md-10 col-md-offset-1 text-center">
+ 
+<p>BeonPush ltd | <a href="mailto:support@beonpush.com"><i class="fa fa-envelope-o"></i> support@beonpush.com</a></p><br>
+</div>
+</div>
+</div>
+</section><script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+</body></html>
