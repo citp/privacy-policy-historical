@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soccerincollege.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212182747id_/http%3A//www.soccerincollege.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccerincollege.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612031046id_/http%3A//www.soccerincollege.com/privacy.aspx) for the most accurate reproduction.*
 
-# Sports In College
+# 
 
 **What information do we collect?**
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site, place an order or
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to users based on visits to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **What do we use your information for?**
 
@@ -23,17 +23,12 @@ Any of the information we collect from you may be used in one of the following w
 ; To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-; To process transactions
-
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
+; To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
 ; To administer a contest, promotion, survey or other site feature
 
-; To send periodic emails
-
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+; To send periodic emails  
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
  **How do we protect your information?**
 
@@ -75,4 +70,4 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
 
-This policy was last modified on 08/11/2014
+This policy was last reviewed on 02/29/2016 
