@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adperfect.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228074843id_/http%3A//www.adperfect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adperfect.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612021430id_/http%3A//www.adperfect.com/privacy-policy) for the most accurate reproduction.*
 
-# AdPerfect AdPerfect - » Privacy Policy
+# AdPerfect - Privacy Policy
 
 AdPerfect has created this Privacy Policy statement to document and communicate its commitment to doing business with the highest ethical standards and appropriate internal controls.
 
@@ -10,7 +10,7 @@ We respect your privacy. Information you entrust to AdPerfect will be handled wi
 
 ##### Sites covered by this policy
 
-This Privacy Policy applies to the AdPerfect website, url [www.adperfect.com](http://www.adperfect.com/) and all subsequent pages or posts.
+This Privacy Policy applies to the AdPerfect website, url [www.adperfect.com](http://www.adperfect.com/) and all subsequent pages or posts.
 
 ##### Effective locations
 
@@ -24,15 +24,15 @@ There may be links posted on AdPerfect’s website that direct the user to a sit
 
 AdPerfect recognizes the importance of keeping the information we collect about you confidential. We always take great care to protect what you entrust to us. AdPerfect is committed to protecting the privacy of visitors to our website.
 
-### Personal Information Gathering
+### Personal Information Gathering
 
 We do not automatically collect personally identifiable information (PII) about our web site visitors. We may record the Internet protocol (IP) address of the computer you are using, the browser software used, the operating systems used, and the websites from which our visitors link directly to our site. We aggregate and use this information to determine how many visitors we have to different pages on our website, to detect and correct system problems, and to improve the usability of our website. This information is not connected to individual names or personal identities.
 
-### Explicit Information Gathering
+### Explicit Information Gathering
 
 You can examine our entire website without providing any information whatsoever. Our website’s request a demo form requires users to provide us contact information. The information in this form, and all similar forms, is used to provide information to those who inquire about our solutions and to handle related business matters. This information is also used to get in touch with customers when necessary. The information gathered through this site may be used to notify you about solutions we think will be of interest to you.
 
-### Covert Information Gathering
+### Covert Information Gathering
 
 Our site does not covertly capture information regarding the specific activities of any particular user. We do not have any arrangements with any other sites to track or monitor user activities on the Web. Our site does, however, produce reports that permit us to view your activity on our site in anonymous or aggregated form. We do not use cookies, web bugs, or any other active content mechanism to capture or maintain information about users without their prior consent.
 
@@ -46,7 +46,7 @@ At this time, we do not use cookies on this site. If this changes, this policy s
 
 ### Personal Information Usage
 
-When you disclose personal information to us it stays with us. The only exception involves disclosure to the government according to normal business practice, for instance for the collection of taxes, and according to the orders of acourt. For example responding to a subpoena or search warrant.
+When you disclose personal information to us it stays with us. The only exception involves disclosure to the government according to normal business practice, for instance for the collection of taxes, and according to the orders of a court. For example responding to a subpoena or search warrant.
 
 We do not sell, rent, trade, or lend, such personal information.
 
@@ -80,4 +80,5 @@ December 1, 2009
 
 ### Contact
 
-Please contact us at 604.520.6587 if you have a concern regarding this Privacy Policy.
+Please contact us at 604.520.6587 if you have a concern regarding this Privacy Policy.  
+
