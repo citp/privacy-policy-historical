@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tablethotels.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905075148id_/https%3A//www.tablethotels.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tablethotels.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612150245id_/https%3A//www.tablethotels.com/en/privacy) for the most accurate reproduction.*
 
 # Tablet Hotels | Privacy Policy
 
