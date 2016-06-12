@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tappedout.net privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114150526id_/http%3A//tappedout.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tappedout.net privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612155321id_/http%3A//tappedout.net/privacy-statement) for the most accurate reproduction.*
 
 # 
 
