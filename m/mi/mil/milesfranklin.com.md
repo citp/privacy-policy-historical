@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milesfranklin.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207173824id_/http%3A//www.milesfranklin.com/default.aspx%3Fpage%3DLegal-Notice-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milesfranklin.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612225343id_/http%3A//www.milesfranklin.com/default.aspx%3Fpage%3DLegal-Notice-Privacy-Policy) for the most accurate reproduction.*
 
 # Legal Notice Privacy Policy
 
