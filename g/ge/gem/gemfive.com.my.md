@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemfive.com.my privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214224431id_/http%3A//www.gemfive.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemfive.com.my privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612092208id_/http%3A//www.gemfive.com/my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GEMFIVE Malaysia
 
@@ -17,47 +17,49 @@ Changes may be made from time to time to this Privacy Policy. GEM will post noti
 
 **What we collect**
 
-We may collect the following data which includes but is not limited to:  
-• name, date of birth, NRIC number/passport number (for foreigners), marital status and gender information;  
-• contact information including address, email address and telephone number;  
-• information about your friends and family such as name, mailing address, email address and phone number for purposes of fulfilling your request to provide relevant product or service for purchase of gift certificates;  
-• demographic information such as postage, billing and other information to enable delivery of item purchased;  
-• depending on the service used, financial information such as credit card or bank account numbers;  
-• transactional information of your activities on our website;  
-• information in relation to your interaction with our website, services, content and advertising;  
-• other information required to authenticate yourself; and  
-• other information that may be required by law from time to time.
+We may collect the following data which includes but is not limited to: 
+
+  * name, date of birth, NRIC number/passport number (for foreigners), marital status and gender information;
+  * contact information including address, email address and telephone number;
+  * information about your friends and family such as name, mailing address, email address and phone number for purposes of fulfilling your request to provide relevant product or service for purchase of gift certificates;
+  * demographic information such as postage, billing and other information to enable delivery of item purchased;
+  * depending on the service used, financial information such as credit card or bank account numbers;<
+  * transactional information of your activities on our website;
+  * information in relation to your interaction with our website, services, content and advertising;
+  * other information required to authenticate yourself; and
+  * other information that may be required by law from time to time.
 
 You are obliged to provide data that are identified as mandatory. In respect of data identified as optional, the provision of such data by you is voluntary. If you do not supply such data identified as mandatory, this may result in GEM being unable to provide services or otherwise deal with you.
 
 **What we do with the data we gather**
 
-We require this data to understand your needs and provide you with a better service. Your data may be used or processed by GEM or on its behalf for the following purposes:  
-• carrying out instructions, providing products and/or services (whether by GEM, companies related to or affiliated to GEM, or a selected third party) and responding to enquiries by you or made on its behalf;  
-• researching, designing, launching and marketing about new products, services, special offers or other information of GEM and third parties (including but not limited to exchanging information with selected business partners and developing marketing list for exchange with selected business partners) and monitoring the provision, operation and use of such products or services;  
-• provision of reference (status enquiries);  
-• verifying and assisting with identification of users and to determine appropriate services;  
-• sending important notices such as communications about changes to our policies, terms and conditions, and your purchases;  
-• operating internal controls including determining amounts owed to or by you, payment to or collection of such amounts from you and from any person providing security for your obligations, and processing of financial or payment transactions;  
-• forwarding publicity materials or other information to you from GEM;  
-• the enforcement of your obligations, including without limitation the collection of amounts outstanding from you;  
-• internal record keeping;  
-• using the data to improve our products and services;  
-• periodically sending promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided;   
-• meeting any legal, governmental or regulatory requirements in Malaysia or any other applicable jurisdiction including disclosure or notification requirements;  
-• assisting any person who is acquiring or participating in any contractual arrangements between GEM and you, to evaluate the transaction for such acquisition or participation;  
-• from time to time, we may also use your data to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests;  
-• sending promotional information about third parties which we think you may find interesting; and  
-• any other incidental and associated purposes in order for GEM to carry out its business and/or relating to any of the above.  
-Data held relating to you will be kept confidential but it may be provided to:-
+We require this data to understand your needs and provide you with a better service. Your data may be used or processed by GEM or on its behalf for the following purposes: 
 
-• any person under a duty of confidentiality to GEM or to companies related to or affiliated to GEM;  
-• any relevant agent, contractor or third party service provider who provides administrative, telecommunications, computer, payment, securities clearing, management, audit, insurance, professional or other services to GEM;  
-• any banking, financial or other institution with which you have or propose to have dealings or for financial or payment transactions;  
-• any person or corporation to whom GEM transfers or proposes to transfer its interests and/or obligations in respect of you or any product or service provided to you;  
-• any nominee, trustee, co-trustee, centralised securities depository or registrar, custodian, insurance company, estate agent, lawyer, tax advisor, auditor, other professional advisor or other person who is involved with the provision of services or products by GEM to you;  
-• any person by whom GEM is required by applicable legal, governmental or regulatory requirements to make disclosure; or  
-• any other person reasonably requiring the same in order for GEM to carry out its business.
+  * carrying out instructions, providing products and/or services (whether by GEM, companies related to or affiliated to GEM, or a selected third party) and responding to enquiries by you or made on its behalf;.
+  * researching, designing, launching and marketing about new products, services, special offers or other information of GEM and third parties (including but not limited to exchanging information with selected business partners and developing marketing list for exchange with selected business partners) and monitoring the provision, operation and use of such products or services;.
+  * provision of reference (status enquiries);.
+  * verifying and assisting with identification of users and to determine appropriate services;.
+  * sending important notices such as communications about changes to our policies, terms and conditions, and your purchases;.
+  * operating internal controls including determining amounts owed to or by you, payment to or collection of such amounts from you and from any person providing security for your obligations, and processing of financial or payment transactions;.
+  * forwarding publicity materials or other information to you from GEM;.
+  * the enforcement of your obligations, including without limitation the collection of amounts outstanding from you;.
+  * internal record keeping;.
+  * using the data to improve our products and services;.
+  * periodically sending promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided; .
+  * meeting any legal, governmental or regulatory requirements in Malaysia or any other applicable jurisdiction including disclosure or notification requirements;.
+  * assisting any person who is acquiring or participating in any contractual arrangements between GEM and you, to evaluate the transaction for such acquisition or participation;.
+  * from time to time, we may also use your data to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests;.
+  * sending promotional information about third parties which we think you may find interesting; and.
+  * any other incidental and associated purposes in order for GEM to carry out its business and/or relating to any of the above..
+
+Data held relating to you will be kept confidential but it may be provided to:- 
+  * any person under a duty of confidentiality to GEM or to companies related to or affiliated to GEM;
+  * any relevant agent, contractor or third party service provider who provides administrative, telecommunications, computer, payment, securities clearing, management, audit, insurance, professional or other services to GEM;
+  * any banking, financial or other institution with which you have or propose to have dealings or for financial or payment transactions;
+  * any person or corporation to whom GEM transfers or proposes to transfer its interests and/or obligations in respect of you or any product or service provided to you;
+  * any nominee, trustee, co-trustee, centralised securities depository or registrar, custodian, insurance company, estate agent, lawyer, tax advisor, auditor, other professional advisor or other person who is involved with the provision of services or products by GEM to you;
+  * any person by whom GEM is required by applicable legal, governmental or regulatory requirements to make disclosure; or
+  * any other person reasonably requiring the same in order for GEM to carry out its business.
 
 GEM may disclose data to any or all of the parties stated above notwithstanding the recipient’s place of business is outside Malaysia, or that such information following disclosure will be collected, held, processed or used by such recipient in whole or in part outside Malaysia.
 
