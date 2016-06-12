@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the priceless420.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017205518id_/http%3A//torrent.st/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceless420.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612234515id_/http%3A//torrents.st/privacy) for the most accurate reproduction.*
 
-# Privacy Download Movies, Music, Mp3, Games, Tv, XXX Porno - Torrent.st
+# Privacy Download Movies, Music, Mp3, Games, Tv, XXX Porno - Torrents.st
 
 **Your Privacy**  
 We respect your privacy and we are committed to protect it. We don't sell, share, and show your personal information without your prior permission or written consent or unless required by law. We never collect any information about you except those specifically provided by you or limited information that the browser made available when you visited our site, for example, the IP address while you are on the site, visiting time, the link clicked, the browser type, and cookies.
