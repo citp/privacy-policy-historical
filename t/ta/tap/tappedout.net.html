@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tappedout.net privacy policy that was archived on 2015-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151114150526id_/http%3A//tappedout.net/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tappedout.net privacy policy that was archived on 2016-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612155321id_/http%3A//tappedout.net/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -16,12 +16,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
         <meta name="google-site-verification" content="skvXm5i8y-ydYRYG6QYozxfAiRn4n6V3p0oaO9mgfSM">
-        <link rel="icon" type="image/jpg" href="http://tappedout.net/s/favicon.ico">
-        <link href="http://tappedout.net/s/vendor/bootstrap-3.1.1-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="screen">
-        <link href="http://tappedout.net/s/vendor/bootstrap-3.1.1-dist/css/glyphicons.files.css" rel="stylesheet" type="text/css" media="screen">
-        <link href="http://tappedout.net/s/vendor/bootstrap-3.1.1-dist/css/glyphicons.social.css" rel="stylesheet" type="text/css" media="screen">
-        <link href="http://tappedout.net/s/vendor/bootstrap-3.1.1-dist/css/glyphicons.pro.css" rel="stylesheet" type="text/css" media="screen">
-        <link rel="stylesheet" href="http://tappedout.net/s/CACHE/www2/css/03855abb8b39.css" type="text/css" media="screen">
+        <link rel="icon" type="image/jpg" href="http://static.tappedout.net/s/favicon.ico">
+        <link href="http://static.tappedout.net/s/vendor/bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="screen">
+        <link href="http://static.tappedout.net/s/vendor/bootstrap-3.3.6-dist/css/glyphicons.files.css" rel="stylesheet" type="text/css" media="screen">
+        <link href="http://static.tappedout.net/s/vendor/bootstrap-3.3.6-dist/css/glyphicons.social.css" rel="stylesheet" type="text/css" media="screen">
+        <link href="http://static.tappedout.net/s/vendor/bootstrap-3.3.6-dist/css/glyphicons.pro.css" rel="stylesheet" type="text/css" media="screen">
+        <link rel="stylesheet" href="http://static.tappedout.net/s/CACHE/monolith-www/css/93f28893f021.css" type="text/css" media="screen">
         
         <script type="text/javascript">
 
@@ -37,7 +37,7 @@
 
 </script>
 
-        <script type="text/javascript" src="http://tappedout.net/s/CACHE/www2/js/6f024cf2e6c5.js"></script>
+        <script type="text/javascript" src="http://static.tappedout.net/s/CACHE/monolith-www/js/d37ecbfbb9aa.js"></script>
         
         <script type="text/javascript">
             $(document).ready(function(){
@@ -46,29 +46,63 @@
                     confirmation = confirm("Are you sure you want to delete this item?");
                     return confirmation;
                 });
+                function adBlockDetected() {
+                    if(getCookie('adblocker') != "1"){
+                        setCookie('adblocker', 1, 1);
+                    }
+                }
+                function adBlockNotDetected() {
+                    if(getCookie('adblocker') == "1"){
+                        setCookie('adblocker', 0, 1);
+                    }
+                }
+                if(typeof fuckAdBlock === 'undefined') {
+                    adBlockDetected();
+                } else {
+                    fuckAdBlock.onDetected(adBlockDetected);
+                    fuckAdBlock.onNotDetected(adBlockNotDetected);
+                }
                 CORE.initResponsiveImages();
+                CORE.initResponsiveEmbed();
+                
                 
                 
                 TAPPED.observeCards();
-                broadcastInit(
-                    false,
-                    '/api/v1/meets/broadcast/',
-                    '/api/v1/meets/friends/',
-                    '/api/v1/meets/venues/',
-                    '/api/v1/meets/events/',
-                    '/meets/geo-cookie/'
-                    ,
-                    undefined, undefined, true
-                    
-                );
-                $(".remote-checkout").click(function(e){
-                    _gaq.push(['_trackEvent','Coolstuff','Checkout',window.location.href]);
-                });
+                
+                
+                
                 TAPPED.initSpoiler();
                 
             });
+            $(document).on('click', ".broadcast-clicker", function(e){
+                //close the notifs modal in case clicking from a notification
+                $("#notifications").modal('hide')
+                e.preventDefault();
+            });
+            $(document).on('click', ".mark-chat-read-clicker", function(){
+                var other = $(this).data("other");
+                $.ajax({
+                    url: "/pm/api/mark-read/",
+                    data: {"other_user": other},
+                    dataType: "json",
+                    type: 'POST',
+                    success: function(data){
+                        $("#chat-notif-" + other).remove();
+                        $("#unread-badge-" + other).remove();
+                        if ($("#chat-modal-body .row").length == 1){
+                            $("#chat-modal-message").removeClass("hidden");
+                        }
+                        var bdg = $("#unread-badge");
+                        var new_val = parseInt(bdg.html()) - 1;
+                        if (new_val > 0) {
+                            bdg.html(new_val)
+                        } else {
+                            bdg.remove()
+                        }
+                    }
+                });
+            });
         </script>
-        
         
         <style>
             select.tappedout_sorter {
@@ -76,15 +110,15 @@
             }
         </style>
         
-        <script>
-            var script = document.createElement('script');
-            var tstamp = new Date();
-            script.id = 'factorem';
-            script.src = 'http://cdm.cursecdn.com/js/tappedout/cdmfactorem_min.js?misc=' + tstamp.getTime();
-            script.async = false;
-            script.type='text/javascript';
-            document.head.appendChild(script);
-        </script><script id="factorem" src="http://cdm.cursecdn.com/js/tappedout/cdmfactorem_min.js?misc=1580446428482" type="text/javascript"></script>
+        <script>		
+     var script = document.createElement('script');		
+     var tstamp = new Date();		
+     script.id = 'factorem';		
+     script.src = 'http://cdm.cursecdn.com/js/tappedout/cdmfactorem_min.js?sec=home&misc=' + tstamp.getTime();		
+     script.async = false;		
+     script.type='text/javascript';		
+     document.head.appendChild(script);		
+ </script><script id="factorem" src="http://cdm.cursecdn.com/js/tappedout/cdmfactorem_min.js?sec=home&amp;misc=1580446427294" type="text/javascript"></script>
         
     </head>
     <body id="sitebody" class="site-tappedout">
@@ -110,21 +144,14 @@
                             
                             
                             
-                            <li><a href="/mtg-set/battle-for-zendikar-spoiler/">BFZ 255/274</a>
                             
                             
-                            
-                            </li><li><a href="/meets/">Events</a></li>
+                            <li><a href="/meets/">Events</a></li>
                             <li><a title="MTG Draft Simulator" href="/mtg-draft-simulator/">Draft Sim</a></li>
                             <li><a href="/mtg-cube-drafts/">Cubes</a></li>
                             <li><a title="MTG Forums" href="/mtg-forum/">Forums</a></li>
                             <li><a title="MTG Questions" href="/mtg-questions/">Rules Q&amp;A</a></li>
-                            <li><a title="MTG Articles" href="/mtg-articles/">Articles</a></li>
-                            <li><a href="/extras/">
-                                
-                                Extras
-                                
-                            </a></li>
+                            <li><a title="Community" href="/community/">Community</a></li>
                             
                         </ul>
                     </div>
@@ -146,10 +173,8 @@
                             <li><a href="/accounts/login/?next=/privacy-statement/">login</a></li>
                             <li><a href="/accounts/register/?next=/privacy-statement/">sign-up</a></li>
                             
-                            <li>
-                                <a href="#broadcastModal" data-toggle="modal" class="broadcast-clicker"><span id="broadcastIcon" class="glyphpro glyphpro-wifi_alt"></span>
-                                </a>
-                            </li>
+                            
+                            
                         </ul>
                     </div>
                 </div>
@@ -162,7 +187,7 @@
                             <div class="row">
                                 <div class="col-lg-3 col-md-3 col-sm-3">
                                     <a href="/">
-                                        <img class="img-responsive" src="http://tappedout.net/s/img/tappedout-header-logo.png" alt="MTG Deck Builder">
+                                        <img class="img-responsive" src="http://static.tappedout.net/s/img/tappedout-header-logo.png" alt="MTG Deck Builder">
                                     </a>
                                 </div>
                                 <div class="col-md-9 col-lg-9 col-sm-9" id="ad-span">
@@ -350,8 +375,8 @@
 <h1>PRIVACY STATEMENT</h1><h2>Last Updated: May 30, 2010</h2><p>This Statement of Privacy Practices (this Privacy Statement) states our practices for protecting the privacy of information that you provide to us through this Website or in any communication between us and you.  If you are located in a non-US jurisdiction, please note that you will be transferring your personal information to the United States and other jurisdictions that may not provide an equivalent level of data protection to the laws in your home country.  If you have any questions about this Privacy Statement, please contact us by e-mail at stephen@tappedout.net with the subject line Privacy Statement Inquiry.</p><h2>1.              Revisions to this Privacy Statement</h2><p>We reserve the right to change, modify, supplement or replace all or part of this Privacy Statement from time to time and in our sole discretion, but will alert you that changes have been made by indicating above when this Privacy Statement was last updated.  When you visit this Website, you are accepting the current version of this Privacy Statement.  We recommend that you revisit this Privacy Statement frequently to learn of any changes, especially before submitting any Personal Information (as defined below).  Your continued use of this Website constitutes your acceptance of such changes.   We will also take other steps as necessary depending on the nature of the changes, including obtaining your consent where required by local data protection laws, or providing you with the opportunity to delete your Personal Information.</p><h2>2.              What Personal Information We Collect, and How We Collect It</h2><p>When contacting us through this Website, we will ask for your e-mail address and may also ask for other personally identifiable information, including, without limitation, your name, address, birthday, anniversary, and other information or data (collectively, Personal Information).  We may also obtain Personal Information through e-mail correspondence if you contact us by e-mail or if you agree to receive periodic news, updates, and other correspondence from us.  It may be a prerequisite for your contacting us that you provide us with specified Personal Information.  Without your providing such Personal Information, we may not be able to respond to any inquiries, post any comments, or otherwise correspond with you.  You agree that any Personal Information that you provide to us through this Website, and any other submission (for example, any comments or questions) are provided by you voluntarily and with full knowledge that such Personal Information and other submission may be collected and stored by us.We may store any Personal Information in a personal profile, in which case this Website will provide instructions for reviewing, changing, correcting, or updating your personal profile. Otherwise, if any of your Personal Information is incorrect or needs to be updated, please contact us by e-mail at stephen@tappedout.net and we will correct or update your Personal Information accordingly.  However, before permitting your access to your personal profile or otherwise permit you to review, correct, or update your Personal Information, we may take steps to verify your identity, such as requiring your registration or login with us or providing other verifying information and using your previously stored Personal Information.We specifically do not collect information from children or minors without the consent of such childs or minors parent or guardian.  We presume that any submission or Personal Information provided by or for a child or minor was provided with the consent of such childs or minors parent or guardian.  If we become aware that Personal Information was provided without such consent, we will not store such Personal Information.When you provide Personal Information or other submissions to us, you warrant and represent that (i) none of such Personal Information is personally identifiable information of any other person that is provided without such other persons express prior consent, and (ii) you are age 18 or older and have otherwise attained legal majority.</p><h2>3.              How We Use Your Personal Information</h2><p>We use Personal Information and other submissions by you through this Website to respond to your requests, inquiries, and comments, to provide you with periodic news and updates if you agreed to receive periodic news and updates, and to otherwise correspond with you.When you register with us, you will select a user name (the User Name).  We will post or disclose the User Name on this Website.  However, we do not sell or lease any of your Personal Information and do not publicly disclose your identity behind the User Name unless you choose or request us to do so or as set forth in this Privacy Statement.  If you agree to receive periodic news and updates from us, we will use your Personal Information to send you such news and periodic updates as well as automated e-mail messages, promotions, or marketing materials regarding our goods and services.  You may opt-out from receiving further periodic news, updates, and promotional or marketing e-mails by sending an e-mail to us at stephen@tappedout.net and typing the word unsubscribe in to the subject line.We may also offer items for sale on this Website, such as account upgrades, extra features, or receive donations.  If you elect to purchase any such item, we will collect in connection with such purchase account information together with other Personal Information that we request in connection with processing such purchase and payments therefor (collectively, Payment Information).  We will not use the Payment Information for any purpose other than in connection with performing the sale and to process and collect the payment therefor.</p><h2>4.              When and How we Disclose Personal Information</h2><p>We may disclose Personal Information to, or enable access to Personal Information by, companies and individuals we engage or employ to perform business functions and services on our behalf.  Such functions and services may include hosting or maintaining this Website, analyzing data, providing legal, accounting and marketing services, and providing other support services.  All such parties will be under obligation to maintain the security and confidentiality of Personal Information.  We will disclose any Payment Information as necessary to process and collect the payment for any purchase made by you on this Website or to otherwise enforce or assert any right or remedy that we may have.  We will provide and disclose any Personal Information and any Payment Information to the extent required by any law or order or direction of any court or governmental entity or agency.  Upon our suspicion of the access or use of this Website for a purpose or in a manner that may be unlawful, illegal, or infringing or in violation of the rights of any person or entity, we reserve the right to disclose and provide any possible evidence, including any Personal Information and Payment Information, to any investigating, prosecuting or litigating party.</p><h2>5.              Cookies</h2><p>Certain other information may be recorded through standard electronic operations, such as through tracking or similar software, which is used primarily to enhance the online experience (for example, by tracking the type of browser used by you, the type of operating system, the domain name of the Internet service provider, and information for automatically optimizing the display and use of the Site by you) or internal purposes (for example, by tracking the number of visitors).  This Website utilizes cookies (files placed on your computer by a website server) to track your online activities, including your registration, submissions, and information requests, in accordance with applicable law.  Cookies will be stored on your computer until you delete them.  We do not use cookies to collect Personal Information but track your online activities and may link that information with Personal Information you have provided to us.  The web browser of your computer may be set to accept cookies automatically but you should be able to delete placed cookies or change the setting to decline the placement of cookies.  Please consult your computers instructions in this regard.  If you decline to accept cookies, it may prevent or interfere with your full viewing experience of this Website or your ability to communicate with us.</p><h2>6.              Security</h2><p>We put in place reasonable and standard electronic procedures to protect your Personal Information from unauthorized access and to guard the integrity of your Personal Information. However, use of websites and transmissions over the Internet are never completely secure or error-free. As a result, we do not, and cannot, guarantee the security, accuracy, or completeness of the Personal Information that we collect from you.  However, in certain locations on this Website, such as where users provide information to purchase goods, this Website may use encryption to protect such transmissions.  Moreover, in general, this Website takes reasonable steps to protect Personal Information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction.If any part of this Website requires a password and user identification, it is your responsibility to safeguard your password and user identification to access this Website and to notify us at stephen@yeago.net if you ever suspect that this password or user identification has been compromised.  You are solely responsible for any unauthorized use of this Website conducted via your password and user identification.</p>
 
                     <div class="row">
-                        <div class="col-sm-offset-2">
-                            <div name="somename-05" class="ad-div">
+                        <div class="col-sm-offset-2 hidden-xs">
+                            <div name="somename-05" class="ad-div" style="width:100%; overflow: hidden">
     <script>
         (function () {
          var num = window.innerWidth < 991 ? '00' : '05';
@@ -372,16 +397,16 @@
                     
                     <p>Magic the Gathering, FNM is TM and copyright Wizards of the Coast, Inc, a subsidiary of Hasbro, Inc. All rights reserved. This site is <em>unaffiliated</em>. Articles and comments are user-submitted and do not represent official endorsements of this site.</p>
                     <p>
-                        This site © 2015 TappedOut.net, LLC
+                        This site © 2016 TappedOut.net, LLC
                         <a href="/feedback/">Contact</a> |
                         <a href="/feeds/">Feeds</a> |
                         <a href="/help-desk/">Help</a> |
-                        <a href="/changelog/">Changelog</a><small> (updated 1 day ago)</small> |
+                        <a href="/changelog/">Changelog</a><small> (updated 4 weeks ago)</small> |
                         <a href="/terms-of-use/">Terms of Use</a> |
                         <a href="/privacy-statement/">Privacy statement</a> |
                         <a href="/dmca-requests/">DMCA requests</a> |
-                        <a href="http://validator.tappedout.net/">MTG Format Validator API</a> |
-                        Hosted by <a href="http://www.linode.com/?r=ac516aa472e074b543b48044ec54561abe313f3b">Linode</a>!
+                        <a href="http://hearthstone.tappedout.net">Hearthstone Deck Builder</a> |
+                        <a href="http://fow.tappedout.net">FOW Deck Builder</a>
                     </p>
                 </div>
             </div>
@@ -414,7 +439,7 @@
                    $("#body").css("padding-bottom", footerHeight + "px");
                 }
                 // Set div#body padding on load
-                $(window).load(function(e) {
+                $(window).ready(function(e) {
                    changeBodyPadding();
                    $("#footer").removeClass("invisible");
                 });
@@ -422,28 +447,68 @@
                 $(window).resize(function(e){
                    changeBodyPadding();
                 });
-            </script>
-            <script type="text/javascript">
                 $(window).ready(function(e){
                    set_comments_editor();
                 });
             </script>
+            <script id="card-hover-template-mobile" type="text/x-handlebars-template">
+                
+                
+                <div class="modal" role="dialog">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                <h4 class="modal-title">{{ data.name }}</h4>
+                            </div>
+                            <div class="modal-body">
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-7">
+                                        <a href="{{ url }}">
+                                            {{#if data.foil }}
+                                            <img src="{{ STATIC_URL }}/img/foil-card-overlay-2.png" class="img-responsive screen foil-card" alt="MTG Card: {{ data.name }}" style="background-image:url(&quot;{{ data.image }}&quot;);background-repeat:no-repeat"/>
+                                            {{else}}
+                                            <img src="{{ data.image }}" class="screen img-responsive" alt="{{ settings.TCG_NAME }} Card: {{ data.name }}"/>
+                                            {{/if}}
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-5">
+                                        <a class="btn btn-primary btn-block" href="{{ url }}">Visit page</a>
+                                        {{#if data.showPrice }}
+                                        <h4>Acquire</h4>
+                                        {{#if data.foil }}
+                                        {{#if data.tcgFoilPrice }}<a class="btn btn-block btn-warning" href="{{ data.tcgUrl }}">Checkout @ TCG ${{ data.tcgFoilPrice }}</a>{{/if}}
+                                        {{#if data.cardhoarderFoilPrice }}<a class="btn btn-block btn-warning" href="{{ data.cardhoarderUrl }}">Checkout @ CH ${{ data.cardhoarderFoilPrice }} TIX</a>{{/if}}
+                                        {{else}}
+                                        {{#if data.tcgPrice }}<a class="btn btn-block btn-warning" href="{{ data.tcgUrl }}">Checkout @ TCG ${{ data.tcgPrice }}</a>{{/if}}
+                                        {{#if data.cardhoarderPrice }}<a class="btn btn-block btn-warning" href="{{ data.chUrl }}">Checkout @ CH {{ data.cardhoarderPrice }} TIX</a>{{/if}}
+                                        {{/if}}
+                                        {{/if}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+            </script>
             <script id="card-hover-template" type="text/x-handlebars-template">
             
-                {{#if card.foil }}
-                <img src="{{ STATIC_URL }}/img/foil-card-overlay-2.png" class="screen card-popover foil-card" alt="MTG Card: {{ card.name }}" style="background-image:url(&quot;{{ card.image }}&quot;);background-repeat:no-repeat"/>
-                    {{#if card.showPrice }}
+                {{#if data.foil }}
+                <img src="{{ STATIC_URL }}/img/foil-card-overlay-2.png" class="screen card-popover foil-card" alt="MTG Card: {{ data.name }}" style="background-image:url(&quot;{{ data.image }}&quot;);background-repeat:no-repeat"/>
+                    {{#if data.showPrice }}
                     <p>
-                        {{#if card.tcgFoilPrice }}<b>TCG</b> ${{ card.tcgFoilPrice }} {{#if card.cardhoarderFoilPrice }} | {{/if}}{{/if}}
-                        {{#if card.cardhoarderFoilPrice }}<b>MTGO</b> {{ card.cardhoarderFoilPrice }} TIX {{/if}}
+                        {{#if data.tcgFoilPrice }}<b>TCG</b> ${{ data.tcgFoilPrice }} {{#if data.cardhoarderFoilPrice }} | {{/if}}{{/if}}
+                        {{#if data.cardhoarderFoilPrice }}<b>MTGO</b> {{ data.cardhoarderFoilPrice }} TIX {{/if}}
                     </p>
                     {{/if}}
                 {{else}}
-                <img src="{{ card.image }}" class="screen card-popover" alt="{{ settings.TCG_NAME }} Card: {{ card.name }}"/>
-                    {{#if card.showPrice }}
+                <img src="{{ data.image }}" class="screen card-popover" alt="{{ settings.TCG_NAME }} Card: {{ data.name }}"/>
+                    {{#if data.showPrice }}
                     <p>
-                        {{#if card.tcgPrice }}<b>TCG</b> ${{ card.tcgPrice }}{{#if card.cardhoarderPrice }} | {{/if}}{{/if}}
-                        {{#if card.cardhoarderPrice }}<b>MTGO</b> {{ card.cardhoarderPrice }} TIX{{/if}}
+                        {{#if data.tcgPrice }}<b>TCG</b> ${{ data.tcgPrice }}{{#if data.cardhoarderPrice }} | {{/if}}{{/if}}
+                        {{#if data.cardhoarderPrice }}<b>MTGO</b> {{ data.cardhoarderPrice }} TIX{{/if}}
                     </p>
                     {{/if}}
                 {{/if}}
@@ -482,6 +547,7 @@
   <li class="mana-menu mana-symbol-button" data-mana="X"><span class="mana mana-x"></span></li>
 </ul>
         </div>
+        
         <!-- Begin comScore -->
         <script>
         var _comscore = _comscore || [];
@@ -512,6 +578,7 @@
         </noscript>
         <!-- End Nielsen Online SiteCensus -->
         <div id="cdm-zone-end"></div>
+        
     
 
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
