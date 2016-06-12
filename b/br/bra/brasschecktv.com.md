@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the brasschecktv.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611222620id_/http%3A//www.brasschecktv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brasschecktv.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612084440id_/http%3A//www.brasschecktv.com/privacy.html) for the most accurate reproduction.*
 
 # Brasscheck TV
+
+[Home](https://web.archive.org/) | [More Videos](https://web.archive.org/videos/) | [About Us](https://web.archive.org/about.html) | [Contact](https://web.archive.org/contact.html) | [Subscribe](https://web.archive.org/subscribe.html) | [Donate](https://web.archive.org/donate.html)
 
 [](https://web.archive.org/) Welcome to Brasscheck TV (the "Site").
 
@@ -60,7 +62,7 @@ This web site contains links to other web sites. Please note that when you click
 **Additionally:**  
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
-© 2015 **Brasscheck TV** , All rights reserved.  
+© 2016 **Brasscheck TV** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.   
 
 
