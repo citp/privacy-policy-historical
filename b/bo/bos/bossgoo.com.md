@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bossgoo.com privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710091545id_/http%3A//www.bossgoo.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bossgoo.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613003015id_/http%3A//www.bossgoo.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # China Suppliers & Manufacturers, China wholesale Products Directory - Bossgoo.com
 
