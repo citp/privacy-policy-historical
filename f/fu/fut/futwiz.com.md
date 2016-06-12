@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futwiz.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129032358id_/http%3A//www.futwiz.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futwiz.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612144817id_/http%3A//www.futwiz.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FUTWIZ
 
@@ -15,7 +15,3 @@ Sites like Webeast Ltd (FUTWIZ) use cookies, files which stay on your PC, to hel
 Webeast Ltd (FUTWIZ) does not reveal any personal information that users provide to us to any third party without their permission.
 
 Webeast Ltd (FUTWIZ) is a company based in the United Kingdom and is subject to the Data Protection Act, 1998.
-
-[](http://bit.ly/1idDm3T%E2%80%8B)
-
-[](http://bit.ly/1PSsHcO)
