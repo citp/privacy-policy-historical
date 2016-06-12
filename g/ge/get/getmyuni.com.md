@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmyuni.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215223634id_/http%3A//schoolbook.getmyuni.com/index.php/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmyuni.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613003341id_/http%3A//schoolbook.getmyuni.com/index.php/about/privacy_policy) for the most accurate reproduction.*
 
 # GetMyUni: Privacy policy
 
