@@ -1,155 +1,82 @@
-> *The following text is extracted and transformed from the carsidetogo.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207233257id_/http%3A//www.applebees.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsidetogo.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612165031id_/http%3A//order.carsidetogo.com/help/privacypolicy) for the most accurate reproduction.*
 
-# Applebee's Privacy Policy
+# Privacy Policy
 
-### DINEEQUITY PRIVACY POLICY
+Olo ("us" or "we") respects the privacy of visitors to our Sites and registrants of our Services. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information you submit to use through our Sites. Any capitalized term used but not defined in this Privacy Policy shall have the meaning given in the Olo User Agreement.
 
-Last Updated: January 1, 2014
+Olo provides certain websites, including the websites available at the domain name http://order.carsidetogo.com (each, a "Site") and certain services made available to registered users of the Sites ("Services"). By submitting any information through a Site or registering for any Services, you acknowledge and agree that Olo may process (i.e., collect, use, etc.) your Personal Information as described in this Privacy Policy. 
 
-DineEquity, Inc. is committed to safeguarding your privacy. We take your privacy seriously. This Privacy Policy (“ **Policy** ”) describes how DineEquity, Inc. and its affiliates, including International House of Pancakes, LLC and Applebee’s International, Inc. (“ **DineEquity** ,” “ **us** ,” “ **our** ,” and “ **we** ”) collect, use and disclose personal information of customers who use our services and websites, including [dineequity.com](http://www.dineequity.com/), [ihop.com](http://www.ihop.com/), [applebees.com](http://www.applebees.com/), our mobile websites, mobile applications, social networking or other interactive media sites, and other online or mobile services that link to this Policy (each, a “ **Site,”** and collectively, the “ **Sites”** ). This Policy does not apply to third party websites and services.
+You expressly consent to the processing of your Personal Data according to this Privacy Policy. Personal Data may be processed by Olo in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent. 
 
-**By using the Site, you agree to the terms of this Policy. If you do not agree with the terms of this Policy, do not use the Site.** Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
+## THE TYPES OF INFORMATION WE COLLECT
 
-DineEquity has operations in many international locations and partners with companies around the world. DineEquity offers many country specific websites; this site is intended for U.S. audiences only. If you are visiting this Site from outside of the U.S., communications with our Sites will necessarily result in the transfer of information across international boundaries. If you are located in the European Economic Area (“ **EEA”** ), your data may be transferred from the EEA to countries, including the U.S., which do not have data protection laws comparable to those in the EEA. By visiting this Site and communicating electronically with us, you consent to your data being transferred to and processed by DineEquity and its partners and service providers in the U.S. and other counties outside of the EEA as set out in this Privacy Policy and subject to the laws of the U.S. Please do not use our Sites if it is illegal to do so in your country. 
+Olo collects Personal Information and Anonymous Information from you when you visit a Site, use the Services, and/or send us information or communications. "Personal Information" means information that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any information about you that is associated with or linked to any of the foregoing information. "Anonymous Information" means information that is not associated with or linked to your Personal Information, including any feedback you may provide; Anonymous Information does not permit the identification of individual persons. We collect and use Personal Information and Anonymous Information as described in this Privacy Policy. 
 
-We may update this Policy from time to time, so please check this page periodically for updates. When we update the Policy, we will post the new Policy on this page and change the date at the top of the Policy. We will notify you of any material changes to the Policy.
+### Personal Information You Provide to Us 
 
-#### WHAT INFORMATION DOES DINEEQUITY COLLECT?
+We may collect Personal Information that you submit to us voluntarily through your access and/or use of a Site, including your user name, password, billing name and address, contact information such as phone numbers or e-mail addresses, and credit card information. 
 
-DineEquity or a third party service provider may collect the following types of personal information:
+### Personal Information Collected Via Technology 
 
-  * If you use the Sites, you may provide us with your first name, last name, postal address and/or zip code, email address, phone number, date of birth, and gender.
-  * If you choose to access our social network pages, or connect or otherwise link to our Sites with your own social network page, we may collect social network profile information that you have made publicly available through your social network account settings.
-  * If you make purchases through the Sites, you may provide us with your financial account information, such as credit card number and other payment information.
-  * If you use our mobile application, information such as your user ID, your location and restaurants near you may be collected.
-  * If you take a survey, apply for a job, contact us, or interact with us in various other ways, demographic information, dining preferences, and other information you choose to provide, such as resume information, may be collected.
+As you access and/or use the Site and/or the Services, we may collect certain information, such as unique identifiers for your wireless communication device, your product purchase preferences, and the locations from which you order the Products, and details involving the time, place, cost, number of items and other features of your orders. 
 
+In addition, to make the Sites more useful to you, we use technological means to collect Personal Information from you, including the Uniform Resource Locator (URL) you just came from, the URL you go to next, your browser type, and your Internet Protocol (IP) address. We may also use cookies to collect Personal Information from you about your use of our Sites. You expressly consent to our use of cookies when you use our Sites. 
 
+An "IP Address" is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP address probably varies from session to session. We track IP addresses solely in conjunction with session cookies to analyze our web page flow. 
 
-We may automatically collect Site usage information when you visit the Sites, such as your domain name, Internet protocol (IP) address, mobile device model, Internet service provider, Site access times, websites that referred you to us, and web pages within our Sites that you visit. 
+"Cookies" are small pieces of information that a web site sends to your computer's hard drive while you are viewing a web site. Olo may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Sites. Persistent cookies can be removed by following Internet browser help file directions. If you choose to disable cookies, some areas of the Site and the Services may not work properly. 
 
-When you visit our Sites, we may also automatically infer general location information (e.g., city, state) based on your IP address, or when using our mobile app, through GPS information (if you elect to give our app permission to access your location). 
+## HOW WE USE YOUR INFORMATION
 
-Our Sites use web beacons, cookies and other similar technologies to store and understand more information about you, such as Site usage, and to monitor Site traffic and usage patterns to improve Site functionality. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. A web beacon is an object that is embedded in web page or email that allows us to understand whether the web page or email has been viewed. 
+In general, we use your Personal Information to respond to your requests as submitted through the Services and to charge your credit card the cost and transaction fee associated with the Products you request. In addition, we may use your Personal Information to determine your purchase preferences, to better understand how the Sites and Services are used; to gauge traffic patterns and determine what types of content and services are most popular with users; and to contact you with information about Olo's products, services, news and events. We will share your Personal Information with third parties to fulfill your requests for Products, and we may share your Personal Information with third parties who perform services for us or on our behalf. You expressly consent to the sharing of your Personal Information with these third parties. 
 
-DineEquity or third party service providers may also collect aggregated or anonymous data that does not directly identify you from usage activity on our Sites.
+We may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the information personally identifiable to you. We may use this Anonymous Information to analyze request patterns and usage patterns so that we may enhance our products and services. Olo reserves the right to use and disclose Anonymous Information to third parties in its discretion. 
 
-DineEquity is not responsible for any personal information or other data that franchisees of DineEquity or its affiliates choose to collect.
+We may also use your Personal Information to send information on products, services, special offers, and promotions. Out of respect for your privacy, we give you the option not to receive these types of communications. If you would like to cease receiving any such communications, you may unsubscribe by sending an email to support@olo.com. You may not opt out of non-promotional communications from Olo, including confirmation messages regarding successful order requests. 
 
-#### HOW DOES DINEEQUITY USE PERSONAL INFORMATION?
+We may share some or all of your Personal Information with "affiliates" (parent company, subsidiaries, joint ventures, or other companies under common control), in which case we will require our affiliates to honor this Privacy Policy. If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. 
 
-DineEquity may use information collected to:
+We may disclose your Personal Information if we believe in good faith that such disclosure is necessary (a) to comply with relevant laws or to respond to subpoenas or warrants served on Olo; or (b) to protect and defend the rights or property of Olo or users of our website. 
 
-  * Operate, maintain and improve the Sites and our business.
-  * Process and manage purchases made on the Sites and use of DineEquity products and services.
-  * Respond to your customer service inquiries, post your comments related to our products and services on our social network pages, and take other actions in response to your questions, comments or Site activity.
-  * Communicate with you about special offers, services, and promotions for our brands, affiliates or third party partners that may be of interest to you.
-  * Communicate with you about your orders, purchases, and program participation. 
-  * Provide you with personalized services, including directing you to the nearest Applebee’s or IHOP restaurant based on your location, or providing you with specialized offers based on your Site activity or prior visits to our restaurants.
+### Feedback
 
+If you provide feedback on any of our products or services to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Information. Olo will collect any information contained in such communication and will treat the Personal Information in such communication in accordance with this Privacy Policy. 
 
+### Regarding Children
 
-#### DOES DINEEQUITY SHARE PERSONAL INFORMATION?
+We do not intentionally gather Personal Information about visitors who are under the age of 13. Furthermore, we do not intentionally allow visitors under the age of 18 to register for the Services.
 
-DineEquity will not disclose your personal information to third parties, except as provided below. We may share your personal information under the following limited circumstances:
+### Links to Other Sites 
 
-  * We will only share your personal information with third parties for their own marketing purposes with your prior consent.
-  * We may share your personal information with our affiliates.
-  * We may share your personal information with Applebee’s and IHOP franchisees.
-  * We may share your personal information with companies that provide services to us, such as credit card processors, gift card service providers, website hosts, email vendors, and other companies that help us provide services or market our brands; however, such companies may only use that information to provide services on our behalf.
-  * We may share aggregated or anonymous information that does not identify you with third parties.
-  * We may disclose your personal information in response to legal process, when required to comply with laws, to combat fraudulent or criminal activity, to enforce our agreements, corporate policies, and the terms of use of the Sites, and to protect the rights, property and safety of DineEquity, our employees, agents, customers, or others.
-  * We may share your personal information in the event of a merger, acquisition, financing, sale of assets, liquidation or other similar transaction.
+Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites. 
 
+## HOW WE PROTECT YOUR INFORMATION
 
+We use reasonable measures to maintain the security of your Personal Information. Olo makes use of Secure Sockets Layer (SSL) technology and keeps sensitive details stored in an encrypted format in the Olo database. 
 
-#### HOW DOES DINEEQUITY SECURE PERSONAL INFORMATION
+Olo has implemented other industry-standard electronic means of protecting your Personal Information. We store Personal Information behind a computer firewall, a barrier designed to prevent outsiders from accessing our servers. In addition, Olo protects your Personal Information from unauthorized physical access by storing your Personal Information in a controlled facility. Except as provided elsewhere in this Privacy Policy, Olo limits access to Personal Information in electronic databases to those persons (including employees and contractors) in Olo's organization who have a business need for such access. 
 
-DineEquity takes reasonable steps to maintain appropriate physical, technical and administrative security to help prevent loss, misuse, unauthorized access, disclosure or modification of personal information. Although no transmission of data over the Internet or other public network can be guaranteed to be 100% secure, DineEquity makes reasonable efforts to protect any information you share with us.
+Even though Olo has taken significant steps to ensure that your Personal Information is not intercepted, accessed, used, or disclosed by unauthorized persons, you should know that Olo cannot eliminate security risks associated with Personal Information. 
 
-#### HOW DOES DINEEQUITY TREAT INFORMATION FROM CHILDREN?
+## ADVERTISING
 
-DineEquity does not intend for any portion of the Site to be accessed or used by children under the age of thirteen, nor does DineEquity intend to collect any personally identifiable information from children under the age of thirteen. By using the Site, you are representing that you are not under the age of thirteen. If we obtain knowledge that a child under the age of thirteen has provided us with personally identifiable information, we will promptly delete such information.
+Olo displays retargeted ads to our site prospects across the Internet. We collect non-personally identifiable information about your visits to our Website, through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. If you do not want Olo to collect this information, you may opt out of this service. Opting out will not in any ways affect your use of our site. To opt-out of retargeting, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-#### WHAT CHOICES DOES DINEEQUITY OFFER ABOUT PERSONAL INFORMATION?
+## PRIVACY POLICY UPDATES
 
-You may contact us at the email address or phone number below if you wish to view, edit or delete your personal information from our database, and we will use commercially reasonable efforts to accommodate your request.
+This Privacy Policy is subject to revision, and if we make any substantial changes in the way we collect, use, or disclose your Personal Information, we will post a notice on this page. If you object to any such changes, you must cease using the Sites. Continued use of our Sites following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
 
-If you no longer wish to receive promotional or informational emails from us, you may opt-out from receiving future emails from us by following the instructions for unsubscribing in the promotional or informational emails we send you or by contacting us at the email address or phone number below. 
+## CONTACT US
 
-If you no longer wish to receive SMS messages from Applebee’s, you may opt-out from receiving future SMS messages from Applebee’s by texting 22337 or by contacting us at the email address or phone number below.
+You may contact the Privacy Officer to access, correct or delete your Personal Information. If necessary, the Privacy Officer will contact another employee to assist in completing your requested task.
 
-If you no longer wish to receive other SMS messages from DineEquity, you may opt-out from receiving future SMS messages from DineEquity by following the instructions for unsubscribing in the texts we send you or by contacting us at the email address or phone number below.
+If you have any questions or complaints, please contact the Privacy Officer. The Privacy Officer can be reached by telephone at: (212) 260-0895 or 1-888-411-6626; by Facsimile at: (212) 656-1671; by email at: [support@olo.com](mailto:support@olo.com); or by mail at:   
+Olo  
+26 Broadway  
+24th Floor  
+New York, NY 10004 USA  
+Attn: Privacy Officer 
 
-You may be able to manage how your browser handles cookies by adjusting your browser’s privacy or security settings. If you set your browser to reject cookies, please note that you may not be able to access certain features on our Sites.
+We will address your concern and attempt to resolve any problem.
 
-DineEquity may be unable to honor web browser “Do Not Track” signals.
-
-When you download our mobile apps, you may be able to manage how your mobile device shares certain information with us by adjusting your mobile device’s privacy or security settings. In particular, you may elect whether to share location information with our mobile apps to access the mobile app’s location based services.
-
-Please note that any information you choose to provide in a public setting, such as on DineEquity social network pages, is not only provided to DineEquity but may also be shared publicly. Use caution when posting or sharing information on social networking sites. You may also be able to manage the sharing of certain personal information when you connect with us through social networks by adjusting the privacy or security settings of your social network accounts.
-
-#### YOUR CALIFORNIA PRIVACY RIGHTS
-
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits California residents to request annually, free of charge, information about what personal information DineEquity disclosed to third parties, including affiliates, for direct marketing purposes. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which DineEquity shared information in the immediately preceding calendar year. California residents may make such requests in writing to:
-
-Dine Equity:  
-
-
-**Dine Equity, Inc.**  
-**Attention: Privacy Desk**  
-**450 N. Brand Blvd., 7th Floor**  
-**Glendale, CA 91203**  
-**[privacydesk@dineequity.com](mailto:privacydesk@dineequity.com)**
-
-IHOP:  
-
-
-**International House of Pancakes, LLC**  
-**Attention: Privacy Desk**  
-**450 N. Brand Blvd., 7th Floor**  
-**Glendale, CA 91203**  
-**[privacydesk@ihop.com](mailto:privacydesk@ihop.com)**
-
-Applebee's:  
-
-
-**Applebee's International, Inc.**  
-**Attention: Privacy Desk**  
-**8140 Ward Parkway**  
-**Kansas City, MO 64114**  
-**[privacydesk@applebees.com](mailto:privacydesk@applebees.com)**
-
-#### CONTACT US
-
-Please contact us if you have any questions or comments about our privacy practices or this Privacy Policy. You can reach us via email or via postal mail at the following addresses:
-
-Dine Equity:  
-
-
-**Dine Equity, Inc.**  
-**Attention: Privacy Desk**  
-**450 N. Brand Blvd., 7th Floor**  
-**Glendale, CA 91203**  
-**[privacydesk@dineequity.com](mailto:privacydesk@dineequity.com)**
-
-IHOP:  
-
-
-**International House of Pancakes, LLC**  
-**Attention: Privacy Desk**  
-**450 N. Brand Blvd., 7th Floor**  
-**Glendale, CA 91203**  
-**[privacydesk@ihop.com](mailto:privacydesk@ihop.com)**
-
-Applebee's:  
-
-
-**Applebee's International, Inc.**  
-**Attention: Privacy Desk**  
-**8140 Ward Parkway**  
-**Kansas City, MO 64114**  
-**[privacydesk@applebees.com](mailto:privacydesk@applebees.com)**
-
-  
-**© 2014 Applebee's International, Inc. All rights reserved.**
+Effective Date: September 4, 2008
