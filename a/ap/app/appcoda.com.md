@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the appcoda.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127062904id_/http%3A//www.appcoda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcoda.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612094630id_/http%3A//www.appcoda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AppCoda
+
+* * *
 
 Our Privacy Policy was last updated and posted on 4 September 2014. It governs the privacy terms of our Website, located at http://www.appcoda.com, sub-domains, and any associated web-based and mobile applications (collectively, “Website”), as owned and operated by AppCoda Limited. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
 
@@ -78,3 +80,9 @@ We reserve the right to modify this Privacy Policy at any time. You should revie
 
 **Questions About Our Privacy Practices or This Privacy Policy**  
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. If you have any questions about our Privacy Practices or this Policy, please contact us.
+
+[](http://www.appcoda.com/author/admin/)
+
+* * *
+
+Founder of AppCoda. Author of Beginning iOS 9 Programming with Swift. iOS App Developer and Blogger. Follow me at Facebook, Twitter and Google+.
