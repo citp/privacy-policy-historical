@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212142704id_/http%3A//www.jbhunt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612202109id_/http%3A//www.jbhunt.com/privacy) for the most accurate reproduction.*
 
-# J.B. Hunt Transport: Privacy Policy
+# Privacy Policy | J.B. Hunt Transport
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise to take the steps necessary to use your personal information only in ways that are compatible with this Privacy Policy.
 
@@ -36,4 +36,4 @@ Privacy Statement:
 
 
 
-This site and all content is copyright © 2015 J.B. Hunt Transport, Inc. The J.B. Hunt logo, content or images may not be used or reproduced by any means without express, written consent. See our[Privacy Policy.](https://web.archive.org/privacy/)
+This site and all content is copyright © 2016 J.B. Hunt Transport, Inc. The J.B. Hunt logo, content or images may not be used or reproduced by any means without express, written consent. See our[Privacy Policy.](https://web.archive.org/privacy/)
