@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the breakingnewsenglish.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129013549id_/http%3A//www.breakingnewsenglish.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingnewsenglish.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612135006id_/http%3A//www.breakingnewsenglish.com/privacy.html) for the most accurate reproduction.*
 
-# Breaking News English - Privacy Policy
+# Breaking News English | Privacy
 
 BreakingNewsEnglish.com uses the Google advertising programme to deliver advertisements to its pages when you visit. Google may use information about your visits to BreakingNewsEnglish.com in order to provide advertisements about goods and services that might be of interest to you.
 
