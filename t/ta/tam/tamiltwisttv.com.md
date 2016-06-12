@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamiltwisttv.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230155101id_/http%3A//www.tamiltwisttv.com/2013/01/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiltwisttv.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612115225id_/http%3A//www.tamiltwisttv.com/2013/01/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Tamil Serials and Tamil Movies Online
+# » Privacy Policy
 
 **_Privacy Policy_**
 
@@ -89,9 +89,7 @@ You have the right to ask us not to process your personal data for marketing pur
 
 use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such
 
-processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at
-
-[[ **http://www.tamiltwist.com/2014/01/contact-us/**](http://www.tamiltwist.com/2014/01/contact-us/)].  
+processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us.  
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these
 
 websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check
@@ -104,4 +102,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 that you check this page regularly to keep up to date with any necessary changes.  
 CONTACT  
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [<http://www.tamiltwist.com/2014/01/contact-us/>].
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed.
