@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oompa.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210080914id_/http%3A//www.oompa.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oompa.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612142023id_/http%3A//www.oompa.com/pages/privacy) for the most accurate reproduction.*
 
 # Oompa Toys Privacy Policy
 
 Welcome to Oompa (the "Website"). This website is owned and operated by Bella Luna Toys, Inc., its affiliates, agents and licensors (collectively, "we", "us", "our", "Oompa", "Oompa.com", or "Oompa Toys"). Oompa is sensitive to your concerns about how we may use and share personal information that we collect from you through the Website. We recognize and respect the importance of maintaining the privacy of our visitors and members and have established this Privacy Policy Statement ("Privacy Policy") as a result. This Privacy Policy is incorporated into our [Terms](http://www.oompa.com/pages/terms "Oompa Terms") and [Account Agreement](http://www.oompa.com/pages/account-agreement "Oompa Toys Account Agreement") and therefore governs your use of the Website and/or any services offered by Oompa. By visiting the Website, and/or utilizing any services offered by Oompa, you are accepting the then current practices described in the Privacy Policy.
 
-If you have questions or concerns regarding this statement, please contact us at support@oompa.com.
+If you have questions or concerns regarding this statement, please contact us at hello@oompa.com.
 
 **INFORMATION WE COLLECT ABOUT OUR CUSTOMERS**
 
@@ -24,15 +24,15 @@ If you have questions or concerns regarding this statement, please contact us at
 
 **How Do We Use the Information We Collect and Do We Share the Information We Receive?**
 
-    Information about our customers is an important part of our business. We use information we collect from the Website to communicate with you, to process your orders, to provide an enhanced and more personalized interactive shopping experience, to facilitate your transactions with our third party marketing partners and to inform you of offers and discounts. For example, you can expect to receive a welcoming email to confirm your username and password, we communicate with you in response to your inquiries, to provide the services you request and to manage your account. We also send service related announcements on occasions such as when we need to temporarily suspend our site for maintenance. We also will send you promotional emails on occasion. Generally, you may not opt-out of service related communications, which are not promotional in nature. If you do not wish to receive them, you have the option to terminate your account. We share customer information with third parties only as follows: 
+    Information about our customers is an important part of our business. We use information we collect from the Website to communicate with you, to process your orders, to provide an enhanced and more personalized interactive shopping experience, to facilitate your transactions with our third party marketing partners and to inform you of offers and discounts. For example, you can expect to receive a welcoming email to confirm your account information, we communicate with you in response to your inquiries, to provide the services you request and to manage your account. We also send service related announcements on occasions such as when we need to temporarily suspend our site for maintenance. We may send you promotional emails on occasion. You are free to opt-out of our promotional newsletter at any time, but generally, you may not opt-out of service-related communications (such as order and shipping confirmations), which are not promotional in nature. If you do not wish to receive them, you have the option to terminate your account.
+
+We respect your privacy and share customer information with third parties only as follows: 
 
     **Third Party Service Providers.** We may work closely with other businesses (that we don't own or control) that sell products or services on Oompa.com.
 
     In some cases, these businesses may operate stores or websites that sell products or services to you directly. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. We share customer information related to those transactions with that third party. 
 
-    **Promotional Offers.** We periodically provide our customers with information about third party products and services we believe will be of interest to you and with opportunities to participate in offers and/or promotions on behalf of other businesses. Your participation in these events may require us to share data with such a business. If you do not want to receive such information or offers, on behalf of third parties or otherwise, please opt-out during registration, email us later at support@oompa.com, or follow the unsubscribe instructions within each communication. 
-
-    **Other Third Parties/Select Partners.** From time to time, we might establish a business relationship with other persons or entities who we believe are trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. These are known as our Select Partners. In such cases, we might share and cross-reference information, including personal information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you. We may also combine your personal information with publicly available information and information we receive from or cross-reference with our Select Partners and others. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and services that may be of interest to you, and for further promotional purposes. If you do not want us to share information with Select Partners please opt-out during registration, email us later at support@oompa.com, or follow the unsubscribe instructions within each communication. 
+    **Other Third Parties/Select Partners.** From time to time, we might establish a business relationship with other persons or entities who we believe are trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. These are known as our Select Partners. In such cases, we might share and cross-reference information, including personal information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you. We may also combine your personal information with publicly available information and information we receive from or cross-reference with our Select Partners and others. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and services that may be of interest to you, and for further promotional purposes. If you do not want us to share information with Select Partners please opt-out during registration, email us later at hello@oompa.com, or follow the unsubscribe instructions within each communication. 
 
     **Reviews/Share This/Testimonials.** If you review a product on our site, your review may be posted on Oompa.com. as well as on a partners' network site that shares reviews with other shopping communities. You should be aware that any personally identifiable information you submit can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. When seeking or receiving customer testimonials or feedback, we disclose that we may post their first name along with all or a portion of their testimonial on the Website unless they inform us otherwise by following the instructions we provide. 
 
@@ -44,7 +44,7 @@ If you have questions or concerns regarding this statement, please contact us at
 
 **SECURITY OF PERSONAL INFORMATION COLLECTED**
 
-    We have taken precautions, including the deployment of technological resources and the use of firewalls, systems and procedures, to protect the security of your personal information. When you enter credit card information on our Website, we may store it so that you do not have to re-enter it every time you order, but we encrypt it when storing. While no security system is absolutely foolproof, we are constantly reviewing, refining and upgrading our security technology to protect your privacy. When you open an account with Oompa.com, you are issued a password by which to access and secure your account and account information. Although we have taken these precautions, you are responsible for maintaining the secrecy of your password, which should not be disclosed by you. Be sure to sign off when finished using a shared computer. 
+    We have taken precautions, including the deployment of technological resources and the use of firewalls, systems and procedures, to protect the security of your personal information. When you enter credit card information on our Website, we may store it so that you do not have to re-enter it every time you order, but we encrypt it when storing. While no security system is absolutely foolproof, we are constantly reviewing, refining and upgrading our security technology to protect your privacy. When you open an account with Oompa.com, you are issued a password by which to access and secure your account and account information. Although we have taken these precautions, you are responsible for maintaining the secrecy of your password, which should not be disclosed by you. Be sure to log out of your account when finished using a shared computer. 
 
 **LINKS**
 
@@ -52,7 +52,7 @@ If you have questions or concerns regarding this statement, please contact us at
 
 **MINORS**
 
-    You must be 18 years of age or older to become a member of Oompa.com. We do not collect information from minors. 
+    You must be 18 years of age or older to register for an account at Oompa.com. We do not collect information from minors. 
 
 **CHANGING YOUR PERSONAL INFORMATION**
 
@@ -66,4 +66,4 @@ If you have questions or concerns regarding this statement, please contact us at
 
 **CONTACT US**
 
-    If you have any questions or suggestions regarding our privacy policy, please contact us at hello@oompa.com, or call us at 844.883.3300.
+    If you have any questions or suggestions regarding our privacy policy, please contact us at **hello@oompa.com** , or call us at **844.883.3300**.
