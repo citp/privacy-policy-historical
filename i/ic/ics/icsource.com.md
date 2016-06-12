@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icsource.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212012501id_/http%3A//icsource.com/Home/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icsource.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612214103id_/http%3A//icsource.com/Home/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # IC Source | Home
 
