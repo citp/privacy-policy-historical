@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dvla-som.co.uk privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031005920id_/http%3A//www.dvla-som.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvla-som.co.uk privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612211812id_/http%3A//dvlaregistrations.direct.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
   * [SUPER SEARCH](https://web.archive.org/search/results.html)
   * [PREFIX SEARCH](https://web.archive.org/search/prefix-number-plates.html)
   * [CURRENT SEARCH](https://web.archive.org/search/current-number-plates.html)
-  * [NI REGISTRATIONS]()
+  * NI REGISTRATIONS
 
 
 
