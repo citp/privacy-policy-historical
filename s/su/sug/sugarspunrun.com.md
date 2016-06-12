@@ -1,8 +1,28 @@
-> *The following text is extracted and transformed from the sugarspunrun.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126050625id_/http%3A//sugarspunrun.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarspunrun.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612044430id_/http%3A//sugarspunrun.com/contact/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sugar Spun Run
+# Policies, Disclosure & Privacy - Sugar Spun Run
 
-**Privacy Policy for www.sugarspunrun.com**
+This is a personal blog written and maintained by me, Samantha Merritt.  All opinions are my own.  Please contact me at www.sugarspunrunner@gmail.com with any questions about this website.
+
+**AFFILIATE DISCLOSURE**
+
+SugarSpunRun.com accepts forms of cash advertising, sponsorship, paid insertions, or other forms of compensation.
+
+Some posts may occasionally contain affiliate links, which will be disclosed within the post.  This means that, if you purchase something through those links, I may receive some compensation at no extra cost to you.   _Thank you_ if you make a purchase — it helps Sugar Spun Run continue to grow!  You really deserve some [brownies ](http://sugarspunrun.com/best-ever-brownies/)for that.
+
+All opinions shared on Sugar Spun Run are 100% my own, and are not influenced by any compensation that I might receive.  I will only promote products that I have used myself and truly love.
+
+Sugar Spun Run is currently affiliated with amazon.com, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
+**COPYRIGHT**
+
+© SugarspunRun. All images and content are copyright protected. Unauthorized use and/or duplication of this material without express and written permission from this blog’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given with appropriate and specific direction to the original content.
+
+If you are looking to get permission to use a photo from my site for a round-up, please feel free to do so as long as you clearly link back to the specific post that the image is from, and I ask that you do not alter the image.  Please do not share the recipe along with the image.
+
+If you would like to know more about using an image or excerpt from Sugar Spun Run, please feel free to contact me at sugarspunrunner@gmail.com with any questions.
+
+**PRIVACY POLICY FOR WWW.SUGARSPUNRUN.COM**
 
 This privacy policy sets out how SugarSpunRun uses and protects any information that you give while using www.sugarspunrun.com
 
@@ -46,7 +66,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 **Advertising**
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.mediavine.com](http://www.mediavine.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
 **Links to other websites**
 
