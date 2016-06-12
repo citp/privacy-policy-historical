@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeahsoup.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114042132id_/http%3A//www.yeahsoup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeahsoup.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612122841id_/http%3A//www.yeahsoup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YeahSoup
 
