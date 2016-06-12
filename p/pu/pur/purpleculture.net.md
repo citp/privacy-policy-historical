@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purpleculture.net privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213055050id_/http%3A//www.purpleculture.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purpleculture.net privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612225142id_/http%3A//www.purpleculture.net/privacy) for the most accurate reproduction.*
 
 # Privacy Notice : Purple Culture, Online Chinese Bookstore for Chinese Language Learning, Culture Studying, Statistics & Yearbooks and More
 
