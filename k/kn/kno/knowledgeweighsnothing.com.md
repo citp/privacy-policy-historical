@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the knowledgeweighsnothing.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621232531id_/http%3A//knowledgeweighsnothing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgeweighsnothing.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612233843id_/http%3A//knowledgeweighsnothing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/Disclosure
 
 ## What is this Privacy Policy/Disclosure for?
 
-This privacy policy governs the privacy of this website [www.knowledgeweighsnothing.com](http://www.knowledgeweighsnothing.com/) and it’s users who choose to use it.
+This privacy policy governs the privacy of this website [www.knowledgeweighsnothing.com](http://knowledgeweighsnothing.com/) and it’s users who choose to use it.
 
 The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
@@ -56,4 +56,4 @@ This website and it’s owners through their social media platform accounts may 
 
 Users are advised to take caution and good judgement before clicking any shortened url’s published on social media platforms by this website and it’s owners. Despite the best efforts to ensure only genuine url’s are published many social media platforms are prone to spam and hacking and therefore this website and it’s owners cannot be held liable for any damages or implications caused by visiting any shortened links.
 
-_Policy created by James King at  [Jamie King Media](http://www.jamieking.co.uk/ "Privacy Policy by Jamie King Media")_
+_Policy created by James King at  [Jamie King Media](http://jamieking.co.uk/ "Privacy Policy by Jamie King Media")_
