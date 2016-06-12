@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the tacticalgear.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916070442id_/http%3A//tacticalgear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacticalgear.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612033237id_/http%3A//tacticalgear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy @ TacticalGear.com
+
+  * [ Customer Service Menu ]()
+
+
 
 ## Our Commitment To Privacy
 
 Your privacy is important to us. We utilize military-grade security and encryption technology to ensure that your personal and financial information remains private and safe. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-### The Information We Collect:
+## The Information We Collect:
 
 This notice applies to all information collected or submitted on the TacticalGear.com web site. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages include:
 
@@ -29,7 +33,7 @@ On some pages, you can submit information about other people. For example, if yo
 
 
 
-### The Way We Use the Information
+## The Way We Use the Information
 
 TacticalGear.com will use the information you provide about yourself when placing an order only to complete that order. This information is not shared with or sold to outside parties except to the extent necessary to complete that order. Billing information is transmitted to our payment processor over a highly secure 128-bit encryption, ensuring that your information will not be intercepted by a third party.
 
@@ -43,11 +47,11 @@ We use non-identifying and aggregate information to better design our web site a
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-### Our Commitment to Data Security
+## Our Commitment to Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-### How You Can Access Or Correct Your Information
+## How You Can Access Or Correct Your Information
 
 You can access all your personally identifiable information that we collect online and maintain by using the "LOGIN" functionality located at the top of most TacticalGear.com web pages. We use this procedure to better safeguard your information.
 
