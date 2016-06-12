@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-ghl.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813121242id_/http%3A//e-ghl.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-ghl.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612141000id_/http%3A//e-ghl.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Online Payment Service | ASEAN Payment Gateways | eGHL
 
