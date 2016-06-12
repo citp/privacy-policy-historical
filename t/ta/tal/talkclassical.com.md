@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the talkclassical.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214175220id_/http%3A//www.talkclassical.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkclassical.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613004005id_/http%3A//www.talkclassical.com/privacy.php) for the most accurate reproduction.*
 
 # Talk Classical - Privacy Policy
 
-  * [](http://www.talkclassical.com/index.php)
+  * [](http://www.talkclassical.com/index.php?s=9496cf4270586d1fbf3719205a0f9ac4)
   * **PRIVACY POLICY**
 
 
