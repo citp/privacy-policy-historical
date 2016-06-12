@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isorepublic.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141043id_/http%3A//isorepublic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isorepublic.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612230448id_/http%3A//isorepublic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ISO Republic
 
@@ -58,6 +58,6 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please get in touch via our [contact](http://modexs.com/sharing/iso-republic/html/page.html#) page.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please get in touch via our [contact](http://isorepublic.com/contact/) page.
 
 **This document was last updated on 27th July, 2015**
