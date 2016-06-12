@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the birthdaymessages.net privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222161547id_/http%3A//www.birthdaymessages.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaymessages.net privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612041250id_/http%3A//www.birthdaymessages.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Advertisement
 
 * * *
 
@@ -58,3 +60,6 @@ BirthdayMessages.net reserves the right to make changes to this policy. If there
 
 
 Your use of this site indicates acceptance of this privacy policy.
+
+  
+
