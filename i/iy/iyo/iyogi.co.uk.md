@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iyogi.co.uk privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016150545id_/http%3A//www.iyogi.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iyogi.co.uk privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612110835id_/http%3A//www.iyogi.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Privacy: iYogi
+# Privacy: iYogi | Tech Support, Computer Support by iYogi
 
 This privacy policy explains how iYogi Inc (“iYogi”) collects, uses and discloses personal and other information iYogi receives in connection with the user support services we provide to user (the “Services”) in accordance with the Terms of Use (http://www.iyogi.net/terms.html). When you submit information through our website, email, chat session, provide it to our technicians or, use the Services, you(the “user”) agree to our use of this information consistent with this privacy policy.
 
