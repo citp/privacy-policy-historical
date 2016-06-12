@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stay.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212084614id_/http%3A//www.stay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stay.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612093741id_/http%3A//www.stay.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Stay.com Social City Guides
+# Privacy Policy - Stay.com City Travel Guides
 
 This Privacy policy shall apply in addition to and supplement Stay.com’s Terms of Service Agreement, the terms defined in the Terms of Service Agreement shall have the same meaning herein unless the context says otherwise. Click here for the Terms of Service Agreement.
 
