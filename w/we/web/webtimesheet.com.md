@@ -1,15 +1,19 @@
-> *The following text is extracted and transformed from the webtimesheet.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104114100id_/http%3A//www.replicon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtimesheet.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612141006id_/http%3A//www.replicon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+## Replicon Inc.
+
 ("Replicon" or "we", "us", "our", etc.)   
-GENERAL PRIVACY POLICY
+**GENERAL PRIVACY POLICY**
+
+Effective Date: **November 10, 2015**
 
 Replicon is committed to maintaining the privacy of individuals and protecting personal information in its custody or control in accordance with privacy legislation applicable to Replicon. This Policy is intended to comply with the requirements of Alberta's Personal Information Protection Act ("PIPA"). However, in certain circumstances, other legislation may be applicable.
 
 Application
 
-This Policy describes and summarizes the practices of Replicon and its affiliates with respect to our collection, use and/or disclosure of personal information related to all individuals other than employees and individual contractors of Replicon; those individuals are subject to a separate policy. Employees of Replicon dealing with personal information are expected to be familiar with this Policy.
+This Policy describes and summarizes the practices of Replicon and its affiliates with respect to our collection, use and/or disclosure of personal information related to all individuals other than employees and individual contractors of Replicon; those individuals are subject to a separate policy. Employees of Replicon dealing with personal information are expected to be familiar with this Policy. This Policy does not apply to non-personally identifiable information, anonymous information, or aggregate information that does not identify any specific individual.
 
 Definitions
 
@@ -30,9 +34,9 @@ E-mail
 
 If you voluntarily submit personal information to us by e-mail for purposes of obtaining information, we will consider that you have done so with your consent for purposes reasonably related to your providing the information. If reasonable to do so, after our initial response, we may send further information to you with information that may be useful, but we will include instructions on how to terminate receiving such further information. Please be advised that the Internet and e-mail are inherently insecure media, and we cannot take responsibility for the security or privacy of personal information in transit over the Internet.
 
-Third Party Websites
+Third Party Websites and Third Party Services
 
-Please note that our website may contain links to other websites which are provided as a convenience for visitors to our website only. Any third party websites will have their own privacy policies and practices, and we cannot be responsible for such third parties, their websites, or their privacy practices.
+Please note that our website may contain links to other websites which are provided as a convenience for visitors to our website only, in addition to third party services, applications, and widgets that may be bundled into, included in, or provided in connection with our services. Any third party websites, third party services, applications and widgets will have their own privacy policies and practices, and we cannot be responsible for such third parties, their websites, services, applications, widgets, or their privacy practices. Where "Third Party Services" (as defined in our [Terms & Conditions](http://www.replicon.com/license-agreement)) are provided or made available to you, you consent to your name, email address and any other reasonably required information being sent to the applicable third party to enable such third party to make its Third Party Services available or to provide you with its Third Party Services as required or requested by you, and to authenticate or validate you as a customer of Replicon that is entitled to such Third Party Service.
 
 Sources of Personal Information
 
@@ -50,11 +54,9 @@ Replicon generally collects, uses and discloses personal information about the f
 
 Notification and consent
 
-Subject to this Policy and applicable legislation, Replicon will identify the purposes for collection, use and disclosure in advance of collection, and will notify the individual of the purposes for collection, use or disclosure at or before the time of collection.
+Subject to this Policy and applicable legislation, Replicon will identify the purposes for collection, use and disclosure in advance of collection, and will notify the individual of the purposes for collection, use or disclosure at or before the time of collection. Replicon may obtain consent from individuals by receipt of consent from their employers or contractors where such employers or contractors have entered into an agreement with Replicon pursuant to which the employer or contractor, as agent for the individual, or with their authority, provides Replicon with consent to collect, use and disclose personal information regarding such individuals for the purposes of providing services or products to their employer or party to which they are contracted.
 
-There are a number of exceptions to the above provisions in that in some circumstances, such as with certain personal information related to employees, Replicon does not require consent to collect, use or disclose personal information but is required to provide notification in advance.
-
-In other circumstances, specifically those set out in applicable legislation, the law does not require that Replicon obtain consent or provide notification. Replicon reserves all its rights to rely on any available statutory exemptions and exceptions.
+There are a number of exceptions to the above provisions in that in some circumstances, such as with certain personal information related to employees, Replicon does not require consent to collect, use or disclose personal information but is required to provide notification in advance. In certain circumstances, specifically those set out in applicable legislation, the law does not require that Replicon obtain consent or provide notification. Replicon reserves all its rights to rely on any available statutory exemptions and exceptions.
 
 Exceptions to the requirement for consent
 
@@ -128,7 +130,7 @@ Replicon does not disclose, trade or sell its customer or contact lists.
 
 Telephone Calls
 
-All incoming and outgoing telephone calls using Replicon's telephone systems are subject to automated recording and archiving. Recording is a function of certain technology and cannot be turned off by individual Replicon employees or contractors for particular cases. Recording is carried out for the following purposes:
+Incoming and outgoing telephone calls using Replicon's telephone systems may be subject to automated recording and archiving. Recording is a function of certain technology and cannot be turned off by individual Replicon employees or contractors for particular cases. Recording is carried out for the following purposes:
 
   * To ensure accuracy of communication. This includes ensuring accuracy of our understanding of customer requirements, orders and agreements made with customers, and, if necessary, to accurately document such agreements in the event of a misunderstanding or dispute to protect both Replicon and the customer;
   * To ensure quality of service provided by Replicon representatives.
@@ -137,7 +139,7 @@ All incoming and outgoing telephone calls using Replicon's telephone systems are
 
 Recordings of telephone calls are initially not reviewed or overheard in any manner, but are archived in digital format on a secure server without review. Such recordings may be subsequently reviewed by Replicon at any time for any one or more of the stated purposes and, in particular, may be used without notification or consent as evidence in the event of an investigation or legal proceeding related to such telephone conversation, or to review the quality of service provided in situations where Replicon has a basis to believe that such quality may not be adequate and generally only with respect to those Replicon representatives who interact with customers.
 
-Callers from outside Replicon are advised that their call may be recorded and potentially used on the foregoing basis by posting a notice to that effect on Replicon's web site. Callers have the option at their request of opting out of such recording by asking their Replicon representative to call them back on a cell phone, which is not subject to automated recording. Individuals may also communicate with Replicon via e-mail, fax or mail.
+Callers from outside Replicon are advised that their call may be recorded and potentially used on the foregoing basis. Callers have the option at their request of opting out of such recording by asking their Replicon representative to call them back on a cell phone, which is not subject to automated recording. Individuals may also communicate with Replicon via e-mail, fax or mail.
 
 Recordings, including recordings that are not reviewed, are retained on the same basis as other personal information pursuant to this Policy. Where required or permitted by law, Replicon may use or disclose personal information contained in recordings. Replicon does not use information contained in recordings for marketing or solicitation purposes. Access to such recordings is restricted to particular individuals within Replicon who have obligations of confidentiality to Replicon and who have a need to review such recordings as part of their obligations to Replicon.
 
@@ -145,15 +147,35 @@ Computer Interaction
 
 There are occasions where Replicon representatives may remotely access a computer of a Replicon customer in order to provide services, including technical support or product support. Such access may include an exchange of information of a conversational nature and, while not intended to do so, such access may result in the collection of personal information incidental to our providing services. The activities carried out during such access are recorded and archived so that the recording of such activities may later be viewed or reviewed for the purposes of providing services to the customer in question. The recording is a video file without sound and is subsequently used only for the purposes of assisting the customer. In all cases where a computer becomes subject to access by Replicon, such access will be with the customer's knowledge and consent.
 
+Retention and Destruction of Personal Information
+
 Alberta law allows us, for legal or business purposes, to retain personal information for as long as is reasonable. Upon expiry of an appropriate retention period, bearing in mind reasonable legal and business requirements, personal information will either be destroyed in a secure manner or made anonymous.
 
 Should consent to our collection, use, disclosure or retention of personal information be revoked by the individual in question, the law also allows us to continue to retain the information for as long as is reasonable for legal or business purposes. In the event that revocation of consent may have consequences to the individual concerned, we will advise the individual of the consequences of revoking their consent where it is reasonable in the circumstances to do so.
 
 When we collect, use or disclose personal information, we will make reasonable efforts to ensure that it is accurate, up to date, and complete.
 
+Customer Data
+
+Data and information provided or created by our customers in the course of using our products or services ("Customer Data") remains the property of our customers, and is not used or disclosed by us except as reasonably required to provide our products or services to the applicable customer, or as otherwise set out in this Policy.
+
+Anonymous and Aggregate Data
+
+We may derive anonymous statistical and usage data, and data about the functionality of our products and services from Customer Data and eliminate personal information from Customer Data so that such derived data cannot be used to identify the customer or its individuals users ("Anonymous Data"). We may then combine Anonymous Data with similar anonymous data from other customers or users, and derive Aggregate Data and then license or sell such Aggregate Data. "Aggregate Data" shall mean anonymous data combined from various sources which cannot be used to identify any customer or user.
+
+Outsourcing and Data Hosting Outside of Canada
+
+We may use third party service providers, or provide or bundle in with our services software or services provided by third parties, to process or deal with records, documents, data and information on our behalf, or on your behalf, and such records, documents, data and information may include personal information. In order to protect the confidentiality and security of personal information processed on our behalf by our service providers, we use contractual and similar measures with such service providers, including contractual non-disclosure provisions.
+
+We may use "cloud computing" third party service providers, and those providers may be either in or outside Canada, and the data housed, hosted and processed by such providers may reside in or outside of Canada, and may include personal information about individuals. Individuals providing us with their personal information are notified by this Policy about such service providers outside of Canada, and such individuals may, on request as set out in this Policy, obtain access to written information about our policies and practices with respect to service providers outside of Canada and the name or title of a person who can answer any questions about the collection, use, disclosure or storage of personal information by any service providers outside Canada.
+
 Security
 
 We recognize our legal obligations to protect the personal information we have gathered about individuals. We have therefore made arrangements to secure against unauthorized access, collection, use, disclosure, copying, modification, disposal or destruction of personal information. These arrangements may include physical security measures, network security measures, and organizational measures such as non-disclosure agreements and need-to-know access.
+
+Notification of Loss or Unauthorized Access or Disclosure
+
+Where an incident occurs involving the loss of or unauthorized access to or disclosure of personal information under our control, where a reasonable person would consider that there exists a real risk of significant harm to an individual as a result of the loss or unauthorized access or disclosure, we will, without unreasonable delay, provide notice to the Information and Privacy Commissioner for Alberta of the incident, including any information required by law at the time to be provided to the Commissioner. While Alberta law provides that the Commissioner has the authority to require us to notify individuals of the unauthorized access or disclosure, we may elect to immediately do so in the event we consider it reasonable in the circumstances.
 
 Requests for Access
 
