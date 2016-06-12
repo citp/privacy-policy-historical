@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gta5cheats.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217060629id_/http%3A//www.gta5cheats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gta5cheats.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612184454id_/http%3A//www.gta5cheats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GTA 5 Cheats
 
@@ -6,9 +6,9 @@
 
 We collect information from you when you register on our site or via our app, or fill out a form.
 
-When ordering or registering on our site or app, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site or use our app anonymously.
+When registering on our site or app you may be asked to enter your name or e-mail address. You may, however, visit our site or use our app anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on our site and our app. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site or use of our app and other sites and app on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve ads on our site and our app. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site or use of our app and other sites and apps on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 ## What do we use your information for?
 
@@ -26,7 +26,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 ## Do we use cookies?
 
-Yes (cookies are small files that a site, app or its respective service provider(s) transfer to your device’s hard drive (if you allow) that enables the sites, apps or service providers systems to recognize your device and capture and remember certain information
+Yes (cookies are small files that a site, app or its respective service provider(s) transfer to your device’s hard drive (if you allow) that enables the sites, apps or service providers systems to recognize your device and capture and remember certain information).
 
 We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site and app traffic and site and app interaction, so that we can offer better site and app experiences and tools in the future.
 
@@ -38,7 +38,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website or in our app. These third party offerings have separate and independent privacy policies. We have no responsibility or liability for the content and activities of these linked offerings. Nonetheless, we seek to protect the integrity of our site and our app, and welcome any feedback about these offerings.
 
-We use third-party advertising companies to serve ads when you visit GTA 5 Cheat or use GTA 5 Cheater (our app). These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites, and your use of our app, in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit GTA 5 Cheats or use GTA 5 Cheater (our app). These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites, and your use of our app, in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## California Online Privacy Protection Act Compliance
 
@@ -58,4 +58,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 This policy was last modified on June 8 2015.
 
-http://www.gta5cheats.com/
+> 
