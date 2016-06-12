@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamasmiles.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208113648id_/http%3A//www.mamasmiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasmiles.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612134437id_/http%3A//www.mamasmiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mama Smiles
 
@@ -67,4 +67,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 [http://mamasmiles.com](http://mamasmiles.com/)  
 mamasmilesblog at gmail dot com
 
-This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority. 
+This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
