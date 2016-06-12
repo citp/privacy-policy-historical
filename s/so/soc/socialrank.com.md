@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the socialrank.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909194014id_/https%3A//socialrank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialrank.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612115616id_/https%3A//socialrank.com/privacy) for the most accurate reproduction.*
 
 # SocialRank | Privacy Policy
 
 This Privacy Policy governs the manner in which Modern Mast Corp collects, uses, maintains and discloses information collected from users (each, a "User") of the [socialrank.com](https://socialrank.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Modern Mast Corp.
+
+[Click here to view our Data Collection Privacy Policy](https://web.archive.org/privacy/data_collection)
 
 **Personal identification information**
 
@@ -53,13 +55,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Modern Mast Corp](https://socialrank.com/)  
-[modernmast.com](http://www.modernmast.com/)  
-200 Park Ave South  
-Unit 1615  
-New York, NY 10003  
-818 267 0931  
-hello@socialrank.com
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-This document was last updated on May 12, 2014
+SocialRank – Privacy Compliance  
+119 24th Street, 4th Floor  
+New York, New York 10011  
+privacy@socialrank.com
+
+This document was last updated on Oct 1, 2015
