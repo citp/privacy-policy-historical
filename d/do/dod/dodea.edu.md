@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the dodea.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053324id_/http%3A//www.dodea.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodea.edu privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612224444id_/http%3A//www.dodea.edu/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Act Program
 
 * * *
 
- 
-
 ## (Overview of the Privacy Act of 1974)
 
 #### The Privacy Act: An employee guide to privacy
 
-As employees of the Department of Defense Education Activity (DoDEA), many of you work with information about other people–principals, teachers, students, fellow employees, and others. You could not review activities, conduct audits, or perform other services, without knowing some personal information about these individuals. Likewise, DoDEA, and other Federal agencies need to know and maintain some personal information about you as an employee in order to hire, promote, pay you, and assure that personnel practices in keeping with Federal laws and regulations. This pamphlet describes your responsibilities as a DoDEA employee for safeguarding this information, and explains rights as a person who is also the subject of Government records.
+As employees of the Department of Defense Education Activity (DoDEA), many of you work with information about other people-principals, teachers, students, fellow employees, and others. You could not review activities, conduct audits, or perform other services, without knowing some personal information about these individuals. Likewise, DoDEA, and other Federal agencies need to know and maintain some personal information about you as an employee in order to hire, promote, pay you, and assure that personnel practices in keeping with Federal laws and regulations. This pamphlet describes your responsibilities as a DoDEA employee for safeguarding this information, and explains rights as a person who is also the subject of Government records.
 
-#### General Provisions  
+#### General Provisions   
 
 
 The Privacy Act establishes safeguards for the protection of records the Government collects and keeps on individuals. The Privacy Act provides the Government with a framework in which to conduct its day-to-day business when that business requires the collection or use of information about individuals. Specifically, it requires that the Government:
@@ -28,7 +26,7 @@ The Privacy Act binds Federal agencies to a "code of fair information practices.
 
 For example, the last Government form for personal information you were asked to complete should have contained a Privacy Act Statement that indicated the authority for collecting this information, why the information is needed, who would use the information, and what the consequences would be for not providing the information.
 
-#### **Records Covered by the Privacy Act**
+####  **Records Covered by the Privacy Act**
 
 The Privacy Act applies to Federal agencies. Federal agencies are defined in the law as all agencies, offices and departments of the Executive Branch, independent regulatory agencies such as the Securities and Exchange Commission, and Government-controlled corporations such as the Postal Service.
 
@@ -103,9 +101,9 @@ If the Privacy Act is to achieve its objectives, there must be cooperation by ev
 
 In conclusion, it should be noted that this pamphlet has only tried to touch on the main points concerning your rights and responsibilities as a Federal employee under the Privacy Act. You are urged to become more familiar with DoDEA's policies on the Privacy Act and to consult your supervisor when you have any questions.
 
-This document is adapted from an existing document written by Defense Contract Audit Agency, Fort Belvior, Virginia, <http://www.dcaa.mil/privacy.htm>.
+This document is adapted from an existing document written by Defense Contract Audit Agency, Fort Belvoir, Virginia, <http://www.dcaa.mil/privacy.htm>.
 
-[Overview of the Privacy Act of 1974](https://web.archive.org/uploads/upload/PAGuides.pdf)[](http://dodea.edu/foia/iod/pdf/PAGuides.pdf)
+[Overview of the Privacy Act of 1974](https://web.archive.org/uploads/upload/PAGuides.pdf)
 
 * * *
 
