@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasership.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130022406id_/http%3A//lasership.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasership.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613001951id_/http%3A//www.lasership.com/privacy) for the most accurate reproduction.*
 
 # LaserShip, Last Mile Solutions! - Privacy
 
