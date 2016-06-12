@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cedars-sinai.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207111931id_/http%3A//cedars-sinai.edu/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedars-sinai.org privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612052814id_/http%3A//www.cedars-sinai.edu/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Cedars-Sinai Privacy Policy
 
 The Cedars-Sinai Health System ("CSHS") website is owned and operated by Cedars-Sinai Health System. This Privacy Policy ("Privacy Policy") describes how we collect information from you or about you online through our website at [www.cedars-sinai.edu](https://web.archive.org/) ("website"), why we collect this information, how we will use or disclose this information and how you may update or delete identifiable information about you from our records. By accessing, browsing and/or using our website, you are deemed to accept the terms of this Privacy Policy. If you are not willing to accept the terms of this Privacy Policy, please do not use our website.
 
-This Privacy Policy does not apply to our information collection and use policy or practices offline. This information is available on the [HIPAA Privacy Practices](https://web.archive.org/About-Us/HIPAA-Privacy-Practices.aspx) page.
+This Privacy Policy does not apply to our information collection and use policy or practices offline. This information is available on the [HIPAA Privacy Practices](https://web.archive.org/Patients/Patient-and-Visitor-Resources/Billing/Medical-Records/HIPAA-Privacy-Practices.aspx) page.
 
 ### Information Collection and Use
 
