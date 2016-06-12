@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the nyne.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009213616id_/http%3A//www.nyne.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyne.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612100427id_/http%3A//www.nyne.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nyne Multimedia
 
 **PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY. WHEN YOU USE THIS WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE POLICIES, TERMS, AND CONDITIONS SET FORTH HEREIN.**  
- 
-
 **ONLINE PRIVACY POLICY**
 
 NYNE Multimedia, Inc. (Here on referred to as NYNE) and its subsidiary companies respect the privacy rights of our online visitors and recognize the importance of protecting the information collected from you. We have adopted a corporate wide Online Privacy Policy (“Privacy Policy”) that guides how we collect, store, and use the information you provide online.  Please note that this policy applies only to sites maintained by NYNE and its subsidiaries, and not to websites maintained by other companies or organizations to which we link.
@@ -20,12 +18,6 @@ If you desire to have access to certain restricted sections of our website, you 
 **USE OF CONTACT INFORMATION**
 
 In addition, we may use your contact information to market to you, and provide you with information about, our products and services. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications.
-
-**AdRoll**
-
-Nyne works with [AdRoll retargeting](http://www.adroll.com/), who uses technology including web beacons and cookies to collect data about our website usage and to improve the effectiveness of our marketing. Data recorded through the use of this technology is aggregated and shared with us.
-
-No personally identifiable information about you is collected or shared by AdRoll with Nyne. You can opt-out of AdRoll and their partners by visiting [this link](http://www.adroll.com/about/privacy).
 
 **LOG DATA**
 
