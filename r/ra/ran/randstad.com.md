@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the randstad.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214162324id_/http%3A//www.randstad.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randstad.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613001619id_/http%3A//www.randstad.com/privacy-statement) for the most accurate reproduction.*
 
 # privacy statement | Randstad Holding
 
 #### 1\. General
 
-Randstad Holding NV ([click here for contact details](https://web.archive.org/contact-us "contact us")) - as a data controller (verantwoordelijke) - pursuant to the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens) sets out in this Privacy Statement for which purposes your personal data are used and by which organization(s).
+Randstad Holding nv ([click here for contact details](https://web.archive.org/contact-us "contact us")) - as a data controller (verantwoordelijke) - pursuant to the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens) sets out in this Privacy Statement for which purposes your personal data are used and by which organization(s).
 
 Any changes to this Privacy Statement will be notified to you on the website homepage and will be included in the updated Privacy Statement. We at Randstad Holding NV are committed to respecting your privacy. We have structured our website so that, in general, you can visit this website without identifying yourself or revealing any personal information. We do, however, use cookies. More information on cookies can be found below. 
 
@@ -21,4 +21,4 @@ As mentioned on the list some of these Companies are located outside the Europea
 ####    
 4\. Security
 
-We at Randstad Holding NV are committed to ensuring that the information you provided on our website is secure. We have therefore implemented appropriate technical and organizational measures to secure your personal data against loss and any form of unlawful processing. We have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect on line.
+We at Randstad Holding nv are committed to ensuring that the information you provided on our website is secure. We have therefore implemented appropriate technical and organizational measures to secure your personal data against loss and any form of unlawful processing. We have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect on line.
