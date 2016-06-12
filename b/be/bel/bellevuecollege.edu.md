@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellevuecollege.edu privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210123240id_/http%3A//www.bellevuecollege.edu/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellevuecollege.edu privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612083552id_/http%3A//www.bellevuecollege.edu/website/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: About this Website
 
@@ -249,3 +249,5 @@ Bellevue College
 Bellevue WA, 98007  
 Phone: (425) 564-2459  
 E-mail: [webmaster@bellevuecollege.edu](mailto:webmaster@bellevuecollege.edu)
+
+Last Updated April 13, 2015
