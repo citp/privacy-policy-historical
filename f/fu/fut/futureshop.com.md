@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futureshop.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201155902id_/http%3A//www.bestbuy.ca/en-CA/help/privacy-policy/hc1139.aspx%3Ficmp%3DBBYPrivacyPolicy_en_1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futureshop.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612085040id_/http%3A//www.bestbuy.ca/en-CA/help/privacy-policy/hc1139.aspx%3Fpath%3D190119f7bb3221f7ec2b377835be7b8aen06%26HelpTitleId%3DHC1139) for the most accurate reproduction.*
 
 # Privacy Policy - Best Buy Canada
 
