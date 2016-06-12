@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pes-patch.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117042808id_/http%3A//www.pes-patch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pes-patch.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612165849id_/http%3A//www.pes-patch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PES Patch
 
@@ -25,19 +25,19 @@ This site contains links to other sites. PES-Patch.com is not responsible for th
 
 We use outside ads companies to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site.
 
-**The Use of a Mailing List on PES-Patch.com**
+ **The Use of a Mailing List on PES-Patch.com**
 
 It is possible for a user to add him/herself to the PES-Patch.com Mailing List. Users of this mailing list can add and remove themselves at any time. When a user removes him of herself then no further PES-Patch.com related mail is send to this user.
 
-**Security for PES-Patch.com**
+ **Security for PES-Patch.com**
 
 PES-Patch.com has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-**E-Mail Information**
+ **E-Mail Information**
 
 We may send you email notifications regarding your service (such as invoices) or which you have specifically requested (such as newsletters or notifications when a report is completed). You have the ability to opt out of any of this communication at any time. We will  _never  _provide your personal information or email address to any third parties except where they are specifically employed to help deliver our own services, as detailed above.
 
-**The Use of Cookies on PES-Patch.com**
+ **The Use of Cookies on PES-Patch.com**
 
 We use outside ad companies to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site.
 
