@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2createawebsites.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915051048id_/http%3A//www.2createawebsites.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2createawebsites.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612223935id_/http%3A//www.2createawebsites.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - How To Create A Website
 
@@ -30,17 +30,22 @@ If you contact us from our email address we will never sell or give your email a
 
 Please Share
 
-Let me set up your WordPress site free!
+Create An Online Shop
 
-All you have to do is sign up to the hosting company I recommend and leave the rest to me. You will also save $30.00 on one years hosting and get a free domain name. 
+Build your own website and sell stuff. Add as many products as you want and it won't cost you any extra. 
 
-[Contact](http://www.2createawebsites.com/contact-create-a-website.php) me today to find out more. 
+Get super fast hosting  
+Free domain registration  
+Outstanding reliability  
+Free shopping basket  
+Easy to use site builder
+
+Try creating your website free for 30 days. No credit card required, click the below link.
 
 Build and host your own website on super fast reliable hosting.
 
 Free domain included or add a domain you own - Install WordPress in a few clicks - Great support team.
 
-USE CODE CREATE30  
-AND SAVE $30.00
+Get a Website that Works. It's quick and easy. No experience necessary.
 
-[Click Here](https://www.greengeeks.com/track/michael116844/cp-1958)
+Sign up today and get 20 percent off your hosting. 
