@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the fatwallet.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231184924id_/http%3A//www.fatwallet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatwallet.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612030604id_/https%3A//www.fatwallet.com/privacy) for the most accurate reproduction.*
 
 # Fatwallet Privacy Policy Statement
+
+Trending Deal!
 
 This web site is owned and operated by FatWallet.Com (FatWallet or we). FatWallet takes user privacy seriously and makes reasonable efforts to protect your privacy. We have created this Privacy Policy in order to share with you our information collection and use practices. Please read this policy carefully before sharing any personally identifiable information described below. This policy applies solely to the web site and service located at www.fatwallet.com (the Service).
 
 For questions or concerns relating to privacy, we can be contacted at:
 
-100 East Grand Avenue  
+525 Third Street Suite C  
 Beloit, WI 53511 
 
 or through our [Online Support System](https://web.archive.org/support/)  
@@ -52,3 +54,12 @@ Our Service is maintained from within the United States of America. If you are l
 
 **Effective Date**  
 This Privacy Policy was last updated on January 10, 2014
+
+Welcome to the FatWallet Family
+
+####  You can now:
+
+  * Get Coupons 
+  * Participate in the Forums 
+
+
