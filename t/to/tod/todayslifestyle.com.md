@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todayslifestyle.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117014357id_/http%3A//todayslifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayslifestyle.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612182148id_/http%3A//todayslifestyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Today's Lifestyle
 
@@ -118,4 +118,4 @@ _Main Office: San Rafael, Real de Pereira,_
 
 _De Pavicen 315 Sur, Condominio Lago Mar,_
 
-_Guachipelin, Escazu, Costa Rica_
+_Guachipelin, Escazu, Costa Rica_[.](https://web.archive.org/index.php?ak=methotrexate-online-bestellen-erfahrungen)
