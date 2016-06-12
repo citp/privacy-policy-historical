@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theplayerstribune.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213055150id_/http%3A//www.theplayerstribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theplayerstribune.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612234958id_/http%3A//www.theplayerstribune.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Players' Tribune
 
@@ -66,7 +66,7 @@ Please also remember that if you choose to provide Personal Information using ce
 
  **Information Disclosed for Our Protection and the Protection of Others:  **We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
 
- **Information We Share With Your Consent:  **Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+ **Information We Share With Your Consent:  **Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information. In addition, if you participate in a promotion involving a promotional partner, your Personal Information (including email address) may be shared with our promotional partners and once shared, will be subject to their applicable privacy policy.
 
  **Is Information About Me Secure?  
 **We store all of our information, including your IP address information, using industry-standard techniques. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, Personal Information or otherwise. We seek to protect user information to ensure that it is kept private; however, we cannot guarantee the security of any information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
