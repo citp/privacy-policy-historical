@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreverymom.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217104626id_/http%3A//www.foreverymom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreverymom.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612074226id_/http%3A//www.foreverymom.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - For Every Mom
 
