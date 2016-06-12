@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oshkosh.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023052217id_/http%3A//www.oshkosh.com/privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oshkosh.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612040921id_/http%3A//www.oshkosh.com/privacy/privacy-policy.html) for the most accurate reproduction.*
 
 # Carters.com | OshKoshBgosh.com Privacy Policy
 
@@ -82,9 +82,10 @@ Our Coremetrics site usage statistics system allows you to view or change your p
 
 #### Change your current opt-out option:
 
-  * Click for Anonymous Opt-Out. This setting allows Coremetrics to anonymously capture the visitor's Web actions (including the data collected in Coremetrics reporting). All actions are grouped with all other anonymous visitors.
-  * Click for Total Opt-Out. The data is not collected by Coremetrics' data collection front-end servers and, consequently, is not included in Coremetrics reporting.
-  * Click to opt-in. This setting will again allow Coremetrics to capture all Web actions and includes the data collected in Coremetrics reporting.
-  * View Current Coremetrics Opt-out Status.
+    * Click for Anonymous Opt-Out. This setting allows Coremetrics to anonymously capture the visitor's Web actions (including the data collected in Coremetrics reporting). All actions are grouped with all other anonymous visitors.
+    * Click for Total Opt-Out. The data is not collected by Coremetrics' data collection front-end servers and, consequently, is not included in Coremetrics reporting.
+    * Click to opt-in. This setting will again allow Coremetrics to capture all Web actions and includes the data collected in Coremetrics reporting.
+    * View Current Coremetrics Opt-out Status.
+
 
 
