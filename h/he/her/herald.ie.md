@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the herald.ie privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905101509id_/http%3A//www.herald.ie/service/privacy-and-cookie-policy-29050448.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald.ie privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612032146id_/http%3A//www.herald.ie/service/privacy-and-cookie-policy-29050448.html) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Herald.ie
 
 ## Independent Newspapers (Ireland) Limited and its associated companies fully respect your right to privacy.
 
- **Identity**
+**Identity**
 
 This Privacy and Cookie Policy applies to the operations of this website operated by Independent Newspapers (Ireland) Limited through Independent Digital.
 
@@ -20,13 +20,7 @@ We collect certain kinds of information about our users for these reasons:
 
 3\. To sell advertising space on the site.
 
-No personally identifiable information is collected about you on this website, apart from information which you volunteer (for example by emailing us, using our online forms or by making an inquiry about content or services).
-
-Throughout this website you may have an opportunity to send us information relating to you such as through the "contact us" pages or any other area where you may send e-mails, request brochures, enter contests or respond to any promotions. By choosing to participate in these, you will be providing us with some level of personal information relating to you. This information will only be used by Independent Newspapers (Ireland) Limited for:
-
-• the purposes for which it was provided by you;
-
-• verification purposes and statistical analysis;
+4\. With user consent, to market services to individual users.
 
 • to provide you with details of products, services, contests, competitions or promotions being provided or run by Independent Digital or any of its associated companies or any third party that we may select and which we may think would be of interest to you, in line with your request to receive this information.
 
