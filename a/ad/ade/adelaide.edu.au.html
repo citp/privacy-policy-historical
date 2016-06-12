@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adelaide.edu.au privacy policy that was archived on 2015-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151211144857id_/https%3A//www.adelaide.edu.au/legals/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adelaide.edu.au privacy policy that was archived on 2016-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612202314id_/https%3A//www.adelaide.edu.au/legals/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en" class="left-column-present"><!--<![endif]--><head>
 <script type="text/javascript">
@@ -77,32 +77,40 @@ site_root: "/legals"
   </ul>
 
   <form action="/cgi-bin/site-bin/top-search.pl" id="topbar-search" class="ui-form ui-tools-form-search no_uniform" accept-charset="utf-8">
-	<input type="text" class="ui-form-text" name="query" placeholder="Search" title="Search" tabindex="7">
+	<input type="text" class="ui-form-text" name="query" placeholder="Search" tabindex="6">
 	<div class="ui-form-btn ui-form-btn-select">
 		<div class="ui-search-options">
 			<div class="row clearfix">
-				<input id="topsearch-opt-website" name="search_system" value="website" type="radio" checked="checked" tabindex="2">
+				<input id="topsearch-opt-website" name="search_system" value="website" type="radio" tabindex="1">
 				<label for="topsearch-opt-website">Website</label>
 			</div>
 			<div class="row clearfix">
-				<input id="topsearch-opt-people" name="search_system" value="people" type="radio" tabindex="3">
+				<input id="topsearch-opt-people" name="search_system" value="people" type="radio" tabindex="2">
 				<label for="topsearch-opt-people">People</label>
 			</div>
 			<div class="row clearfix">
-				<input id="topsearch-opt-library" name="search_system" value="library" type="radio" tabindex="4">
+				<input id="topsearch-opt-library" name="search_system" value="library" type="radio" tabindex="3">
 				<label for="topsearch-opt-library">Library</label>
 			</div>
 			<div class="row clearfix">
-				<input id="topsearch-opt-degrees" name="search_system" value="degrees" type="radio" tabindex="5">
+				<input id="topsearch-opt-degrees" name="search_system" value="degrees" type="radio" tabindex="4">
 				<label for="topsearch-opt-degrees">Degrees</label>
 			</div>
-			<div class="row clearfix">
-				<input id="topsearch-opt-blogs" name="search_system" value="blogs" type="radio" tabindex="6">
-				<label for="topsearch-opt-blogs">Blogs</label>
-			</div>
+                        <div class="row clearfix">
+                                <input id="topsearch-opt-blogs" name="search_system" value="blogs" type="radio" tabindex="5">
+                                <label for="topsearch-opt-blogs">Blogs</label>
+                        </div>
 		</div>
 	</div>
-	<input type="submit" class="ui-form-btn ui-form-btn-go" value="Search" title="Search" tabindex="8">
+	<input type="submit" class="ui-form-btn ui-form-btn-go" value="Search" title="Search" tabindex="7">
+	<input type="hidden" id="topbar-search-site-restrict" value="" name="restrict">
+	<input type="hidden" id="topbar-search-site-host" value="" name="host">
+<script type="text/javascript"><!--
+  $(function() {
+   $( "#topbar-search-site-restrict" ).val(uoa_data.site_root);     
+   $( "#topbar-search-site-host" ).val(document.location.hostname);     
+  });
+// --></script>
 </form>
 
 </div>
