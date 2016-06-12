@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carolinehirons.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230120412id_/http%3A//www.carolinehirons.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carolinehirons.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612100257id_/http%3A//www.carolinehirons.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Caroline Hirons: Legal Stuff/Privacy Policy
+# Caroline Hirons: Legal/Privacy Policy
 
 **LEGAL STUFF**
 
@@ -9,10 +9,7 @@ The views expressed on this site are the author's own and are provided for infor
 **  
 ****Affiliates**  
 Some links may be affiliates. This is new to me so I'm monitoring how it goes. It doesn't affect my opinion at all, but then I think regular readers will know that. ;)  
-Any sponsored content has always and _will_ always be clearly labelled according to the ASA guidelines.
-
-**Hall of Fame and Product Placement**  
-Whilst I do occasional sponsored placement content, the Hall of Fame is not for sale. It is given to products I love, not brands that have money to spend.
+Any sponsored content prior to March 2016 is clearly labelled according to the ASA guidelines. As of March 2016 I am not accepting any sponsored posts.
 
 **Product Recommendations Disclaimer**  
 I am always happy to recommend products and this has obviously become a key part of the blog and now YouTube. Any recommendation is based on my experience with something - or the trusted experience of a tester - but everyone's skin is different and something that works for me may not necessarily work for you in the same way.  
@@ -23,7 +20,6 @@ Adverts placed on here are done so by MODE Media and I have no affiliation with 
 To provide the best browsing experience, this site uses cookies and by visiting this site you are agreeing to the use of cookies. For more information on the EU e-Privacy Directive or how to disable cookies click here.
 
 **  
-****  
 ****PRIVACY STATEMENT**
 
 Your privacy is important to CarolineHirons.com. This privacy statement provides information about the personal information that CarolineHirons.com collects, and the ways in which we use that personal information.
