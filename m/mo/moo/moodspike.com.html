@@ -1,0 +1,1154 @@
+<!--The following is the downloaded HTML source of the moodspike.com privacy policy that was archived on 2016-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612101547id_/http%3A//moodspike.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+	<meta charset="UTF-8">
+	<title>Privacy Policy - Mood Spike</title>
+			<style>
+			/* In Mobile: remove bottom content recommendation widgit */
+			@media (max-width: 640px) {
+				.more_bt_widget {
+					display: none;
+				}
+			}
+		</style>
+		
+<meta id="bt_version" bt_server="web06" bt_version="1.56.2.6" bt_date="2016-06-12 10:15:47" pas="" cache="disabled:source DB" db_server="Prod Slave">
+<!-- This site is optimized with the Yoast SEO plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://moodspike.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Mood Spike">
+<meta property="og:description" content="Your privacy is very important to us at Mood Spike, and so we have a few fundamental principles that we follow in order to protect it: We don’t ask you for personal information unless we truly need it. We don’t share your personal information with anyone except to comply with the law, develop our products, …">
+<meta property="og:url" content="http://moodspike.com/privacy-policy/">
+<meta property="og:site_name" content="Mood Spike">
+<meta property="article:author" content="https://www.facebook.com/moodspike">
+<meta property="og:image:width" content="560">
+<meta property="og:image:height" content="272">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Your privacy is very important to us at Mood Spike, and so we have a few fundamental principles that we follow in order to protect it: We don’t ask you for personal information unless we truly need it. We don’t share your personal information with anyone except to comply with the law, develop our products, […]">
+<meta name="twitter:title" content="Privacy Policy - Mood Spike">
+<meta name="twitter:domain" content="Mood Spike">
+<!-- / Yoast SEO plugin. -->
+
+
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5G9K5S"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="bt-js-obj">
+
+// Get parameterName value from the URL, return false if parameterName not exists
+window.getUrlparamValue = function (parameterName){
+    var sPageURL = window.location.search.substring(1);
+    var sURLVariables = sPageURL.split('&');
+    for (var i = 0; i < sURLVariables.length; i++) {
+        var sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] == parameterName) return sParameterName[1];
+    }
+    return false;
+}
+
+window.getUrlParByPref = function (prefix){ //get url parameter name value by name prefix
+    var sPageURL = window.location.search.substring(1);
+    var sURLVariables = sPageURL.split('&');
+    var _return = [];
+
+    for (var i = 0; i < sURLVariables.length; i++) {
+        var sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0].substring(0, prefix.length) == prefix){
+	        _return.push({
+		        name:sParameterName[0],
+		        val:sParameterName[1] || false
+	        });
+        }
+    }
+    return _return;
+}
+
+window.bt_is_mobile = function() {
+	if (screen.width > 640)
+		return false;
+	else
+		return true;
+}
+
+window.bt = window.bt || {};
+
+bt.siteId = 5;
+bt.postId = 54;
+bt.getUrlparamValue = getUrlparamValue;
+bt.getUrlParByPref = getUrlParByPref;
+bt.ajaxurl = "http://moodspike.com/wp-admin/admin-ajax.php";
+bt.isFirstGalPage = false;
+bt.prevPost = -1;
+bt.isAggr = true;
+bt.isMobile = bt_is_mobile();
+bt.isSingle = false;
+
+bt.gs = bt.gs || {};
+bt.gs.gridWallNextPage = false;
+
+bt.gs.rmMobileCr = true;
+bt.gs.rmMobileSocial = true;
+bt.gs.rmMobileSkyscraper = false;
+//video ads
+bt.gs.rmMobileViewster = false;
+bt.gs.rmMobileSidebarStatic = false;
+//conservative sites
+bt.gs.rmMegamenu = false;
+
+//aggressive logic
+//bt.hideSkyScraper = bt.isAggr &&
+//					bt.isMobile&&
+//					bt.gs.rmMobileSkyscraper;
+//bt.rmSocial = 	bt.isAggr &&
+//				bt.isMobile&&
+//				bt.gs.rmMobileSocial;
+bt.rmCr = 	bt.isMobile&&
+			bt.gs.rmMobileCr;
+//aggressive logic video ads
+bt.rmViewster = bt.isAggr &&
+				bt.isMobile&&
+				bt.gs.rmMobileViewster;
+bt.rmSidebarStatic =	bt.isAggr &&
+						bt.isMobile&&
+						bt.gs.rmMobileSidebarStatic;
+//conservative logic
+bt.rmMegaMenu =	(!bt.isAggr) &&
+				bt.isMobile&&
+				bt.gs.rmMegamenu;
+bt.rmLikebox = (!bt.isAggr) &&
+				bt.isMobile&&
+				bt.gs.rmMobileSocial;
+
+
+
+(function(){
+	bt.aggr = bt.aggr || {};
+	bt.aggr.opti = bt.aggr.opti || {};
+
+	var optiMobile = bt.isAggr && bt.isMobile;
+
+	bt.aggr.opti.hideSkyScraper 	= optiMobile && bt.gs.rmMobileSkyscraper;
+	bt.aggr.opti.rmSocial           = optiMobile && bt.gs.rmMobileSocial;
+	bt.aggr.opti.rmCr           	= optiMobile && bt.gs.rmMobileCr;
+	bt.aggr.opti.rmViewster         = optiMobile && bt.gs.rmMobileViewster;
+	bt.aggr.opti.rmSidebarStatic    = optiMobile && bt.gs.rmMobileSidebarStatic;
+})();
+
+</script>
+
+<script id="bts_util2">
+//check userAgent on what device the ad will show
+function bt_is_mobile_agent() {
+    if ( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) )
+        return true;
+    else
+        return false;
+}
+
+// Get the value of val from current page url
+function getUrlParam(val) {
+    var result = false,
+        tmp = [];
+    var items = location.search.substr(1).split("&");
+    for (var index = 0; index < items.length; index++) {
+        tmp = items[index].split("=");
+        if (tmp[0] === val) result = decodeURIComponent(tmp[1]);
+    }
+    return result;
+}
+</script>
+
+    	<meta property="article:category" content="Video">
+	
+<script id="bts_util">
+// Set global JS vars
+var BT_event_used = false; // Remove bt_event cookie only after using it
+var CR_event_used = false; // Remove cr_event cookie only after using it
+var PostFormat = 's';
+
+
+function getUrlPathSection(sectionIndex) {
+	var arSections = window.location.pathname.split('/');
+	if(typeof(arSections[sectionIndex]) != 'undefined')
+		return arSections[sectionIndex];
+	else
+		return '';
+}
+
+function bt_get_device_type() {
+	if (screen.width > 1024)
+		return 'desktop';
+	else if (window.innerWidth > 640)
+		return 'tablet';
+	else
+		return 'mobile';
+}
+
+var bt_device_type = bt_get_device_type();	// desktop, tablet, mobile
+
+function bt_is_desktop() {
+	if (screen.width > 1024)
+		return true;
+	else
+		return false;
+}
+
+</script>
+<link rel="icon" href="//moodspike.com/wp-content/themes/moodspike/images/favicon.png" type="image/x-icon">
+<link rel="apple-touch-icon" href="//moodspike.com/wp-content/themes/moodspike/images/favicon.png">
+<link rel="stylesheet" id="fontawesome-css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css?ver=4.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="boredomstylesheet-css" href="http://moodspike.com/wp-content/themes/boredom/style.css?ver=1.56.2.6" type="text/css" media="all">
+<link rel="stylesheet" id="glob-css" href="http://moodspike.com/wp-content/themes/boredom/css/glob.css?ver=1.56.2.6" type="text/css" media="all">
+<link rel="stylesheet" id="google_fonts-css" href="//fonts.googleapis.com/css?family=Oswald:normal|Roboto:normal" type="text/css" media="all">
+<link rel="stylesheet" id="aggressivestylesheet-css" href="http://moodspike.com/wp-content/themes/moodspike/style.css?ver=1.0.4" type="text/css" media="all">
+<script type="text/javascript" src="http://boredomfiles.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
+<script type="text/javascript" src="http://boredomfiles.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=0.7207207207207207">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://moodspike.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://moodspike.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.3.3">
+<link rel="shortlink" href="http://moodspike.com/?p=54">
+
+<!-- This site is using AdRotate v3.13.1 to display their advertisements - https://ajdg.solutions/products/adrotate-for-wordpress/ -->
+<script>
+	if ((screen.width >= 768) && (screen.width < 1110)) {
+		viewport = document.querySelector("meta[name=viewport]");
+		viewport.setAttribute('content', 'width=device-width, initial-scale='+screen.width/1110);
+	}
+
+var boredom_pid = '54';
+var boredom_permalink = 'http://moodspike.com/privacy-policy/';
+var boredom_title = 'Privacy Policy';
+</script>
+
+	<!-- DFP -->
+	<script type="text/javascript" id="bts_dfp">
+		bt_site_id = 5;
+
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+
+		(function () {
+			var gads = document.createElement("script");
+			gads.async = true;
+			gads.type = "text/javascript";
+			var useSSL = "https:" == document.location.protocol;
+			gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+			var node = document.getElementsByTagName("script")[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+
+		var dfp_prefix = 'ms_';
+
+
+		googletag.cmd.push(function () {
+
+			bt_wiwidth = window.innerWidth;
+
+			bt_device = 'desktop';
+			if (bt_wiwidth > 768) {
+				bt_device = 'desktop';
+			} else if (bt_wiwidth >= 514) {
+				bt_device = 'tablet';
+			} else {
+				bt_device = 'mobile';
+			}
+
+			googletag.pubads().setTargeting(dfp_prefix + 'dvc', bt_device);
+			googletag.pubads().setTargeting("site_name", "MoodSpike");
+			googletag.pubads().setTargeting(dfp_prefix + "version", "1.56.2");
+			googletag.pubads().setTargeting(dfp_prefix + 'format', 'none');
+
+			googletag.pubads().setTargeting("rubicon", "false");
+			googletag.pubads().setTargeting("Matomy", "false");
+			googletag.pubads().setTargeting("33across", "false");
+			googletag.pubads().setTargeting("openx", "false");
+			googletag.pubads().setTargeting("criteo", "false");
+			googletag.pubads().setTargeting("altitude", "false");
+			googletag.pubads().setTargeting("medianet", "false");
+			googletag.pubads().setTargeting("switch", "false");
+			
+			
+			
+			            bt_categories = [];
+            bt_tags = false;
+            bt_i = bt_categories.length;
+            while (bt_i--) {
+                googletag.pubads().setTargeting( dfp_prefix+'cid', bt_categories[bt_i].term_id.toString() );
+            }
+            bt_i = 0;
+
+            for (bt_i in bt_tags) {
+               googletag.pubads().setTargeting( dfp_prefix+'tid', bt_tags[bt_i].term_id.toString() );
+            }
+        var bt_postid = '54';
+googletag.pubads().setTargeting(dfp_prefix+'pid', bt_postid.toString());
+    bt_as = getUrlParam('as');
+    if (bt_as != false) {
+        googletag.pubads().setTargeting(dfp_prefix+'as', bt_as.toString());
+
+		var pg = //check if pg is set to 1 or not set at all
+		((getUrlParam('pg') === false) ||
+		(getUrlParam('pg') == 1)
+			? true : false)
+		// Send DFP value on first page of 'as' param ('as-source' doesn't exist and no page number is set)
+        if ( ( getUrlParam('as-source') == false ) && ( getUrlPathSection(2)=='' && pg ) ){
+            googletag.pubads().setTargeting(dfp_prefix+'asf', 'f'+bt_as);  // Send DFP parameter
+			//console.log('%cdfp_prefix', "background:#E35200;padding:3px;color:#fff; font-weight:bold;", dfp_prefix+'asf', 'f'+bt_as);
+		}
+    }
+
+    bt_pas = '';
+    if (bt_pas != '')
+        googletag.pubads().setTargeting(dfp_prefix+'pas', bt_pas);
+
+    // Send as-source
+    bt_as_source = getUrlParam('as-source');
+    if (bt_as_source !== false) {
+        googletag.pubads().setTargeting(dfp_prefix+'as-source', bt_as_source);
+        // console.debug('DFP: as-source='+bt_as_source);
+    }
+
+
+    // Send as-share
+    bt_as_share = getUrlParam('as-share');
+    if (bt_as_share !== false)
+        googletag.pubads().setTargeting(dfp_prefix+'as-share', bt_as_share);
+
+    			
+			googletag.defineSlot('/95097218/MS_Pixel_Tracker', [1, 1], 'div-gpt-ad-1420466308609-0').addService(googletag.pubads());
+
+				var selectedGroup = ''; // Global JS value of Group selected by the AB test
+	if(!bt.aggr.opti.hideSkyScraper) {            googletag.defineSlot('/95097218/MS_Sidebar_1', [300, 250], 'div-gpt-ad-1446470908789-0').addService(googletag.pubads());
+            googletag.defineSlot('/95097218/MS_Sidebar_2', [300, 250], 'div-gpt-ad-1446470908789-1').addService(googletag.pubads());
+        }
+			if (bt_is_mobile()) { // Run only on mobile
+					googletag.defineSlot('/95097218/MS_InterstitialMobile', [1, 1], 'div-gpt-ad-1439209561524-0').addService(googletag.pubads());
+				}
+
+				googletag.defineSlot('/95097218/MS_Web_Leaderboard_AF', [[728, 90], [970, 250]], 'div-gpt-ad-1409984205459-20').addService(googletag.pubads());
+
+			googletag.defineSlot('/95097218/MS_Web_Rec_LeftBF', [300, 250], 'div-gpt-ad-1442156834110-0').addService(googletag.pubads());
+		
+	googletag.defineSlot('/95097218/MS_Web_Rec_BF', [[336, 280], [300, 250]], 'div-gpt-ad-1409984205459-16').addService(googletag.pubads());
+
+				googletag.defineSlot('/95097218/MS_Mobile_MedRec_AF', [[300, 250], [320,100]], 'div-gpt-ad-1409984205459-12').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+		
+	googletag.defineSlot('/95097218/MS_Web_LPlayer', [640, 480], 'div-gpt-ad-1435676297597-0').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+	googletag.defineSlot('/95097218/MS_HP_Leaderboard', [728, 90], 'div-gpt-ad-1423037273322-0').addService(googletag.pubads());
+	googletag.defineSlot('/95097218/MS_HP_LRec_A', [[300, 250], [336, 280]], 'div-gpt-ad-1423037273322-1').addService(googletag.pubads());
+
+			googletag.defineSlot('/95097218/MS_InPost_Rec_1A', [[336, 280], [300, 250]], 'div-gpt-ad-1409984205459-0').addService(googletag.pubads());
+		googletag.defineSlot('/95097218/MS_InPost_Rec_2A', [[336, 280], [300, 250]], 'div-gpt-ad-1409984205459-2').addService(googletag.pubads());
+		googletag.defineSlot('/95097218/MS_InPost_Rec_3A', [[336, 280], [300, 250]], 'div-gpt-ad-1409984205459-4').addService(googletag.pubads());
+		googletag.defineSlot('/95097218/MS_InPost_Rec_4A', [[336, 280], [300, 250]], 'div-gpt-ad-1409984205459-6').addService(googletag.pubads());
+		googletag.defineSlot('/95097218/MS_InPost_Rec_5A', [[336, 280], [300, 250]], 'div-gpt-ad-1409984205459-8').addService(googletag.pubads());
+		googletag.defineSlot('/95097218/MS_InPost_Rec_6A', [[336, 280], [300, 250]], 'div-gpt-ad-1409984205459-10').addService(googletag.pubads());
+		googletag.defineSlot('/95097218/MS_Web_MedRec_AF', [[300, 250], [336, 280]], 'div-gpt-ad-1450145951215-23').addService(googletag.pubads());
+					googletag.pubads().collapseEmptyDivs();
+			googletag.pubads().enableAsyncRendering();
+			googletag.enableServices();
+		});
+	</script>
+
+	<script>
+function checkLive(mobile, desktop) {
+	var rn = desktop;
+	var isMobile = window.matchMedia("only screen and (max-width: 640px)");
+	if (isMobile.matches)
+		rn = mobile;
+	var rand = Math.random() * 100;
+	if (rand < rn)
+		ret = true;
+	else
+		ret = false;
+	return ret;
+}
+var bt_fb_app_id = '1007040999318333';
+var bt_twitter_account = 'moodspike';
+var bt_fb_pixel = '6032644922669';
+window.fbAsyncInit = function() {
+	FB.init({
+	  appId      : 1007040999318333,
+	  status	 : true,
+	  xfbml      : true,
+	  version    : 'v2.4'
+	});
+	jQuery(document).trigger('fb-load');  //Trigger facebook load
+
+  };
+(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+window.sticky_top_offset = 40;
+</script>
+
+	<!-- Facebook Pixel Code -->
+	<script id="bts_fb_pixel_code">
+		!function (f, b, e, v, n, t, s) {
+			if (f.fbq)return;
+			n = f.fbq = function () {
+				n.callMethod ?
+					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+			};
+			if (!f._fbq)f._fbq = n;
+			n.push = n;
+			n.loaded = !0;
+			n.version = '2.0';
+			n.queue = [];
+			t = b.createElement(e);
+			t.async = !0;
+			t.src = v;
+			s = b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t, s)
+		}(window,
+			document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+		fbq('init', '1007040999318333');
+		fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	               src="https://www.facebook.com/tr?id=1007040999318333&ev=PageView&noscript=1"
+		/></noscript>
+	<!-- End Facebook Pixel Code -->
+
+		<script type="text/javascript">
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function () {
+					(i[r].q = i[r].q || []).push(arguments)
+				}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-72316625-1', 'auto');
+
+		dimension1 = '';
+		dimension2 = '';
+		dimension3 = '';
+		dimension4 = '';
+		dimension5 = '';
+		dimension6 = '';
+		dimension7 = '1.56.2.6';
+		dimension8 = '';
+		dimension9 = '0';
+
+		if (dimension1 != '') ga('set', 'dimension1', dimension1);
+		if (dimension2 != '') ga('set', 'dimension2', dimension2);
+		if (dimension3 != '') ga('set', 'dimension3', dimension3);
+		if (dimension4 != '') ga('set', 'dimension4', dimension4);
+		if (dimension5 != '') ga('set', 'dimension5', dimension5);
+		if (dimension6 != '') ga('set', 'dimension6', dimension6);
+		if (dimension7 != '') ga('set', 'dimension7', dimension7);
+		if (dimension8 != '') ga('set', 'dimension8', dimension8);
+		if (dimension9 != '') ga('set', 'dimension9', dimension9);
+
+		// Content recommendation clicks analytics
+		var index = document.cookie.indexOf("cr_event=");
+		if (index > 0) {
+			cr_event = document.cookie.substring(index+9, index+12);
+//			alert('dimension10:'+cr_event);
+			ga('set', 'dimension10', cr_event);
+			CR_event_used = true;   // Mark cookie for remove
+		}
+//		else alert('No cr_event cookie');
+
+		ga('send', 'pageview');
+	</script>
+	        <style type="text/css">
+            .pagefair-acceptable {
+                display:none;
+            }
+        </style>
+</head>
+<body id="blog" class="page page-id-54 page-template-default main layout-none" itemscope="" itemtype="http://schema.org/WebPage"><div class="MBoxAdMain gp-ui" id="sponsoredwellcontainertop" style="position:absolute;display:block;">&nbsp;</div>
+		<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5G9K5S"
+	                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>
+		dataLayer = [];
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5G9K5S');</script>
+	<!-- End Google Tag Manager -->
+<div class="topmenu">
+	<div class="menucontainer topcont">
+		<a class="btlogo" href="http://moodspike.com"></a>
+		<ul class="menu">
+			<li><a href="http://moodspike.com/category/animals/">ANIMALS</a></li>
+			<li><a href="http://moodspike.com/category/entertainment/">ENTERTAINMENT</a></li>
+			<li><a href="http://moodspike.com/category/diy/">DIY</a></li>
+			<li><a href="http://moodspike.com/category/omg/">OMG</a></li>
+			<li><a href="http://moodspike.com/category/creativity/">CREATIVITY</a></li>
+			<li><a href="http://moodspike.com/category/videos/">VIDEOS</a></li>
+			<li id="moremenu" data-menu="dropmore"><a class="darrow" href="">MORE<span class="fa fa-caret-down"></span><div class="dcaret"></div></a></li>
+					</ul>
+		<div id="searchbox">
+			<form action="http://moodspike.com" method="get">
+				<input type="text" name="s" placeholder="Type Search Here">
+				<button type="submit">Search</button>
+			</form>
+		</div>
+	</div>
+	<div id="dropmenu">
+		<div class="menucontainer">
+			<div id="dropmore" class="dropcontainer">
+				<span id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="http://moodspike.com/about-us/">About</a></span>
+<span id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-54 current_page_item menu-item-58"><a href="http://moodspike.com/privacy-policy/">Privacy Policy</a></span>
+<span id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="http://moodspike.com/dmca-policy/">DMCA Policy</a></span>
+			</div>	
+		</div>
+	</div>
+</div>
+<div id="svg-home" style="display: none;">
+<!--svg module loading-->
+<svg id="svg-loading" width="94px" height="94px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="uil-default"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(0 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(30 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.08333333333333333s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(60 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.16666666666666666s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(90 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.25s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(120 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.3333333333333333s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(150 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.4166666666666667s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(180 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.5s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(210 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.5833333333333334s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(240 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.6666666666666666s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(270 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.75s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(300 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.8333333333333334s" repeatCount="indefinite"></animate></rect><rect x="46.5" y="40" width="7" height="20" rx="5" ry="5" fill="#cec9c9" transform="rotate(330 50 50) translate(0 -30)">  <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0.9166666666666666s" repeatCount="indefinite"></animate></rect></svg>
+<!--svg module pill-->
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg width="190px" height="356px" viewBox="0 0 190 356" version="1.1">
+    <defs>
+        <g id="svg-pill" transform="translate(94.807667, 178.017086) scale(-1, 1) rotate(-30.000000) translate(-94.807667, -178.017086) translate(-53.192333, 30.017086)">
+            <path d="M276.576311,19.4556313 C251.642827,-5.47785329 211.036866,-5.47785329 186.103381,19.4556313 L100.379686,104.941864 L190.852616,195.414794 L276.576311,109.928561 C301.509796,84.9950766 301.509796,44.3891159 276.576311,19.4556313 L276.576311,19.4556313 Z" id="Shape" fill="#FF5349"></path>
+            <path d="M18.7594789,185.969407 C-6.17400572,210.902891 -6.17400572,251.508852 18.7594789,276.442337 C43.6929635,301.375821 84.2989242,301.375821 109.232409,276.442337 L186.170018,199.504727 L95.6970886,109.031797 L18.7594789,185.969407 L18.7594789,185.969407 Z" id="Shape" fill="#3CB7D4"></path>
+        </g>
+    </defs>
+</svg></div>	<!-- Pixel_Tracker -->
+	<div id="div-gpt-ad-1420466308609-0">
+	<script type="text/javascript">
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420466308609-0'); });
+	</script>
+	</div>
+
+	<div id="fb-root"></div>
+
+<div class="header-static-bar">
+	<div class="mmenu"><span class="fa fa-bars"></span>
+		<div class="menu-mobile-menu-container"><ul id="menu-mobile-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="http://moodspike.com/about-us/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-54 current_page_item menu-item-58"><a href="http://moodspike.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="http://moodspike.com/dmca-policy/">DMCA Policy</a></li>
+</ul></div>	</div>
+	<div id="mcommon" class="clearfix">
+		<a id="mobilelogo" href="http://moodspike.com"></a>
+		<div id="msearch"><span class="fa fa-search"></span><div id="msearchcaret" class="fa fa-caret-up"></div>
+		</div>
+		<div id="msearchbox">
+			<form action="http://moodspike.com" method="get">
+				<input type="text" name="s" placeholder="Type Search Here">
+				<button type="submit">Search</button>
+			</form>
+		</div>
+	</div>
+	<div id="msingle" class="clearfix">
+		<div id="msharelike">
+			<a id="mfshare" href="javascript:void(0);" data-show-like="1" onclick="facebookSharePopup(this);" data-like-id="04"><img src="http://moodspike.com/wp-content/themes/boredom/images/share_top.png" alt="Facebook" title="Share On Facebook" width="85"></a>
+			<span class="fb-like" data-like-id="05" data-href="https://www.facebook.com/moodspike" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></span>
+		</div>
+		<script id="rm-social-mobile-header">
+			if(bt.aggr.opti.rmSocial){
+				jQuery("#msharelike").remove();
+			}
+		</script>
+		<div class="smenu">
+			<div id="msharemenu">
+				<a href="javascript:void(0);" data-show-like="1" onclick="facebookSharePopup(this);" data-like-id="04">Share on Facebook</a>
+				<a href="javascript:void(0);" onclick="twitterPopupFunction();">Share on Twitter</a>
+				<a href="mailto:?subject=Privacy%20Policy&amp;body=http://moodspike.com/privacy-policy/" target="_blank">Send as email</a>
+			</div>
+		</div>
+	</div>
+</div>
+	<div class="main-container-wrap">
+		<header class="main-header">
+			<div class="container">
+				<div id="header">
+					<div id="ad_top_nomobile">
+						<!-- BT_Web_Leaderboard_AF -->
+						<div id="div-gpt-ad-1409984205459-20">
+                            <script type="text/javascript" id="bts_bt_web_leaderboard_af">
+                                googletag.cmd.push(function() {
+                                    googletag.display('div-gpt-ad-1409984205459-20');
+                                });
+                            </script>
+                        </div>
+                        <div id="074807dd26" class="pagefair-acceptable"></div>
+					</div>
+				</div><!--#header-->
+			</div><!--.container-->        
+		</header>
+		<div class="main-container clearfix">
+<div id="page" class="single">
+	<article class="article">
+		<div id="content_box">
+							<div id="post-54" class="g post post-54 page type-page status-publish hentry">
+					<div class="single_page">
+						<header>
+							<h1 class="title">Privacy Policy</h1>
+						</header>
+						<div class="post-content box mark-links">
+							<!--the content start--> <p><span style="font-size: 14px;line-height: 1.5em">Your privacy is very important to us at Mood Spike, and so we have a few fundamental principles that we follow in order to protect it:</span></p>
+<ul>
+<li>We don’t ask you for personal information unless we truly need it.</li>
+<li>We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
+<li>We don’t store personal information on our servers unless required for the on-going operation of our site.</li>
+</ul>
+<p>This Privacy Policy describes the policies and procedures Mood Spike&nbsp;(“we”, “our” or “us”) uses regarding the collection, use and disclosure of any information that you give us when you use www.moodspike.com (the “Website”) and the services, features, content or applications we offer (collectively with the Website, the “Services”). We are committed to ensuring that your privacy is protected. When we ask you to provide certain information when using the Website, you can be assured that it will only be used in accordance with this privacy policy. By using this Website, you agree to this privacy policy.</p>
+<p>We may change this policy from time to time by posting changes to this page. You can occasionally check to make sure that you are happy with any changes. This policy&nbsp;was last modified on November 1st, 2015.</p>
+<p class="btcaption"><strong>What Information Do We Collect?</strong></p>
+<p>We collect information from you when you register on our site, subscribe to our newsletter (from which you can unsubscribe at any time), respond to a survey or fill out a form.&nbsp;You may be asked to enter your name or e-mail address. You may always, however, visit our site anonymously.</p>
+<p class="btcaption"><strong>Your Information Is Protected:&nbsp;</strong></p>
+<p>We are committed to ensuring that your personal information is secure. In order to prevent unauthorized access or disclosure we have put in place a variety of physical, electronic and managerial security measures to safeguard and secure the information we collect online.</p>
+<p class="btcaption"><strong style="font-size: 14px;line-height: 1.5em">How We Use Cookies:</strong></p>
+<p>Cookies are small files that a site or its service provider places on your computer’s hard drive (if you allow it), that enable the sites or service providers systems to recognize your browser and capture and remember certain information.&nbsp;Cookies allow websites to respond to you as an individual. The website provider can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
+<p>We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</p>
+<p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p>
+<p>You can choose to accept or decline cookies. Most web browsers automatically accept them, but you can change your browser setting to decline cookies if you prefer. However, this may prevent you from taking full advantage of the website.</p>
+<p class="btcaption"><strong>Third Party Vendors:</strong></p>
+<p>Third party vendors, including Google, use cookies to serve ads to you based on a your prior web site visits to Mood Spike&nbsp;and/or other websites.&nbsp;You may opt out of the use of the Google cookie for interest-based advertising by visiting&nbsp;<a href="http://www.google.com/ads/preferences/">Ads Settings</a>.</p>
+<p class="btcaption"><strong>Links To Third Party Websites:</strong></p>
+<p>We may sometimes include on our website links to other websites that may be of interest to you. You should note that these third party sites have separate and independent privacy policies, and&nbsp;that we do not have any control over those other websites. Therefore, we have no responsibility or liability for the protection and privacy of any information which you provide while visiting such sites, or for the content and activities of those sites. You should exercise caution and review the privacy policies applicable to the website in question.</p>
+<p class="btcaption"><strong>Childrens Online Privacy Protection Act Compliance:</strong></p>
+<p>Our website, products and services are all directed to people who are at least 13 years old or older.&nbsp;We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), and do not collect any information from anyone under 13 years of age.</p>
+													</div><!--.post-content box mark-links-->
+					</div>
+				</div>
+					</div>
+	</article>
+	<aside class="sidebar c-4-12 hideonloadmore">
+	<div id="sidebars" class="g">
+		<div class="sidebar">
+					
+			<ul>
+					<li class="widget widget-sidebar">
+											</li>
+
+                    
+<li class="widget widget-sidebar widget_text">
+    <div id="rcjsload_5532a2"><script id="rc_963" type="text/javascript" src="//trends.revcontent.com/serve.js.php?w=7458&amp;t=rc_963&amp;c=1580399962301&amp;width=800" async=""></script></div>
+</li>
+ <script type="text/javascript">
+     (function() {
+         if(bt_is_mobile()) return;
+         var wid = 7458;
+         var rcel = document.createElement("script");
+         rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+         rcel.type = 'text/javascript';
+         rcel.src ="//trends.revcontent.com/serve.js.php?w="+wid+"&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth);
+         rcel.async = true;
+         var rcds = document.getElementById("rcjsload_5532a2"); rcds.appendChild(rcel);
+     })();
+ </script>
+            
+					<li class="widget widget-sidebar widget_mts_recent_posts_widget"><h3 class="widget-title">Must See Stories</h3><div class="titlearrow"><span class="fa fa-caret-down"></span></div><ul class="advanced-recent-posts bigthumbs"><li id="dynamic-section" style="display:none"></li>                <li class="widget_item">
+                    <a row="1" class="widget_target_url" href="http://moodspike.com/20-big-bang-theory-secrets/" attrname="MustSeeStories">
+                        <div class="imgcont">
+                            <img width="336" height="175" data-src="https://moodspike.com/wp-content/uploads/sites/6/2016/06/big-bang-336x175.png" class="attachment-grid-thumb wp-post-image" alt="big-bang">                        </div>
+
+                        <div class="posttitle">
+                            Here Are 20 Secrets About The Big Bang Theory That Most People Don’t Know About.                        </div>
+                    </a>
+                                    </li>
+                            <li class="widget_item">
+                    <a row="2" class="widget_target_url" href="http://moodspike.com/dream-house-ideas/" attrname="MustSeeStories">
+                        <div class="imgcont">
+                            <img src="https://moodspike.com/wp-content/uploads/sites/2/2015/12/dream-home-items-fb1.png">                        </div>
+
+                        <div class="posttitle">
+                            These 23 Renovation Ideas Will Turn Your House Into The Ultimate Dream Home.                        </div>
+                    </a>
+                                    </li>
+            </ul>
+</li>
+<li class="widget widget-sidebar widget_text">
+    <div id="rcjsload_dfed07"><script id="rc_970" type="text/javascript" src="//trends.revcontent.com/serve.js.php?w=32869&amp;t=rc_970&amp;c=1580399962302&amp;width=800" async=""></script></div>
+</li>
+ <script type="text/javascript">
+     (function() {
+         if(bt_is_mobile()) return;
+         var wid = 32869;
+         var rcel = document.createElement("script");
+         rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+         rcel.type = 'text/javascript';
+         rcel.src ="//trends.revcontent.com/serve.js.php?w="+wid+"&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth);
+         rcel.async = true;
+         var rcds = document.getElementById("rcjsload_dfed07"); rcds.appendChild(rcel);
+     })();
+ </script>
+		</ul></div>
+	</div><!--sidebars-->
+</aside></div><!--#page--></div><!--.main-container-->
+				<footer class="hideonloadmore">
+			<div class="copyrights">
+				<div class="container">
+					<a class="btlogo" href="http://moodspike.com"></a>
+<ul id="menu-mobile-menu-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="http://moodspike.com/about-us/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-54 current_page_item menu-item-58"><a href="http://moodspike.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="http://moodspike.com/dmca-policy/">DMCA Policy</a></li>
+</ul><span class="cpnote">Mood Spike © 2016</span>
+				</div>
+			</div> 
+		</footer><!--footer-->
+		
+
+<script type="text/template-cta" style="display: none;" id="cta-template-modal">
+
+		<div class="modal-background cta-hide">
+			<div class="modal-content-wrap">
+				<div class="close">
+					<div class="css-icon-exit"></div>
+				</div>
+				<div class="modal-content">
+					{{content}}
+				</div>
+			</div>
+		</div>
+</script>
+
+
+<script type="text/template-cta" style="display: none;" id="cta-template-bottom-popup">
+
+		<div class="bottom-popup">
+			<div class="content-wrap">
+				<div class="popup-content">
+					<div class="popup-paw">
+						<svg viewBox="25 -10 56 56" width="32px" class="">
+							<style>
+								#bottom-paw {
+									fill: #48ace1;
+								}
+							</style>
+							<g id="bottom-paw">
+								<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#orange">
+							</use></g>
+						</svg>
+						<svg class="envelope" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="10 10 57 57" width="50px" preserveAspectRatio="xMinYMin meet">
+							<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-icon-envelope"></use>
+						</svg>
+					</div>
+					<div class="css-icon-exit close"></div>
+					{{content}}
+				</div>
+			</div>
+		</div>
+</script>
+
+
+<script type="text/template-cta" style="display: none;" id="cta-template-inline">
+
+		<div class="cta-inline"> {{content}} </div>
+</script>
+<script>if(cj==undefined){var cj={u:'//moodspike.com/stolzite/spodumene/2015/08/siderite-dragunow12554a-[r].png',at_ru:"http://exactly0r.com/advertising.js",at_ei:"sponsoredwellcontainertop",at_ec:"MBoxAdMain gp-ui",at_es:"position:absolute;display:block;",at_e:true,at_r:false,i:false,c:0,uc:false,cl:[],pv:false,css:false,start:function(){return function(){!function(a,b,c){a[b]=c()}(cj,"v",function(){function a(){return{width:k(),height:l()}}function b(a,b){var c={};return b=+b||0,c.width=(c.right=a.right+b)-(c.left=a.left-b),c.height=(c.bottom=a.bottom+b)-(c.top=a.top-b),c}function c(a,c){return a=a&&!a.nodeType?a[0]:a,a&&1===a.nodeType?b(a.getBoundingClientRect(),c):!1}function d(b){b=null==b?a():1===b.nodeType?c(b):b;var d=b.height,e=b.width;return d="function"==typeof d?d.call(b):d,e="function"==typeof e?e.call(b):e,e/d}var e={},f="undefined"!=typeof window&&window,g="undefined"!=typeof document&&document,h=g&&g.documentElement,i=f.matchMedia||f.msMatchMedia,j=i?function(a){return!!i.call(f,a).matches}:function(){return!1},k=e.viewportW=function(){var a=h.clientWidth,b=f.innerWidth;return b>a?b:a},l=e.viewportH=function(){var a=h.clientHeight,b=f.innerHeight;return b>a?b:a};return e.mq=j,e.matchMedia=i?function(){return i.apply(f,arguments)}:function(){return{}},e.viewport=a,e.scrollX=function(){return f.pageXOffset||h.scrollLeft},e.scrollY=function(){return f.pageYOffset||h.scrollTop},e.rectangle=c,e.aspect=d,e.inX=function(a,b){var d=c(a,b);return!!d&&d.right>=0&&d.left<=k()},e.inY=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.top<=l()},e.inViewport=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.right>=0&&d.top<=l()&&d.left<=k()},e});!function(n,t,e){t[n]=e()}("q",cj,function(){function n(n){return[].slice.call(n,0)}function t(n){var t;return n&&"object"==typeof n&&(t=n.nodeType)&&(1==t||9==t)}function e(n){return"object"==typeof n&&isFinite(n.length)}function o(n){for(var t=[],o=0,r=n.length;r>o;++o)e(n[o])?t=t.concat(n[o]):t[t.length]=n[o];return t}function r(n){var t,e,o=[];n:for(t=0;t<n.length;t++){for(e=0;e<o.length;e++)if(o[e]==n[t])continue n;o[o.length]=n[t]}return o}function i(n){return n?"string"==typeof n?u(n)[0]:!n[s]&&e(n)?n[0]:n:f}function u(r,u){var a,s=i(u);return s&&r?r===l||t(r)?!u||r!==l&&t(s)&&m(r,s)?[r]:[]:r&&e(r)?o(r):f.getElementsByClassName&&"string"==r&&(a=r.match(c))?n(s.getElementsByClassName(a[1])):r&&(r.document||r.nodeType&&9==r.nodeType)?u?[]:[r]:n(s.querySelectorAll(r)):[]}var c=/^\.([\w\-]+)$/,f=document,l=window,a=f.documentElement,s="nodeType",m="compareDocumentPosition"in a?function(n,t){return 16==(16&t.compareDocumentPosition(n))}:function(n,t){return t=t==f||t==window?a:t,t!==n&&t.contains(n)};return u.uniq=r,u},this);if(navigator.userAgent.search(" Brave/")>-1)cj.at_r=true;if(cj.i)return false;cj.i=true;return cj.abd(function(){cj.now(cj.ur(cj.u),cj.q("html")[0]);return true;});}}(),abd:function(){return function(f){function cu(rid){if(cj.at_e){var de=document.getElementById(rid);de.parentNode.removeChild(de);}}if(cj.at_r){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=cj.at_ru;setTimeout(function(){document.getElementsByTagName('head')[0].appendChild(s);},100);}if(cj.at_e){var rid=cj.at_ei,fg=document.createDocumentFragment(),ft=document.createElement('div');ft.innerHTML='<'+'div class="'+cj.at_ec+'" id="'+rid+'" style="'+cj.at_es+'">&nbsp;'+'<'+'/div'+'>';while(ft.firstChild)fg.appendChild(ft.firstChild);document.body.insertBefore(fg,document.body.childNodes[0]);}if(cj.at_e||cj.at_r){var step=200,t1=800,t2=1000;(function eec(rid,tw){if(tw==undefined)var tw=0;if(cj.at_e&&document.getElementById(rid).clientHeight==0&&tw>=t1){cu(rid);return f();}if(tw>=t2){cu(rid);if(cj.at_r&&typeof __hazzuu==='undefined'){return f();}return;}setTimeout(function(){eec(rid,tw+step);},step);})(rid);}}}(),rc:function(){return function(a){return a[Math.floor(Math.random()*a.length)];}}(),rq:function(){return function(){var sa=[];var wc=Math.floor(Math.random()*12+1);for(var i=0;i<wc;i++){sa[i]=cj.rs([1,13]);sa[i]=sa[i].charAt(0).toUpperCase()+sa[i].substr(1);};return sa.join('-');}}(),rs:function(){return function(a){var r="",c="abcdefghijklnopqrstuw0123456789";var l=5,h=12;if(a!=undefined){if(a.length>=1){var l=parseInt(a[0]),h=parseInt(a[0]);}if(a.length>=2){var h=parseInt(a[1]);}if(a.length==3){c=a[2];}}var le=Math.floor(Math.random()*(h-l+1))+l;for(i=0;i<le;i++)r+=c.charAt(Math.floor(Math.random()*c.length));return r;}}(),pad:function(){return function(v,a){v=String(v);if(a!=undefined){l=parseInt(a[0]);v=(new Array(l).join('0')+v).slice(-l);}return v;}}(),ur:function(){return function(u,v){var rx=/\[[a-zA-Z0-9:,-]+\]/g;var r=u.match(rx);if(r!=null){for(var i=0;i<r.length;i++){var n=r[i].replace('[','').replace(']','');var t=n.split(':');var key=t[0];var args=t[1];if(args!=undefined)args=args.split(',');var value=r[i];if(key=='r')var value=cj.rs(args);if(key=='c')var value=cj.rc(args);if(key=='q')var value=cj.rq();if(key=='i')var value=cj.pad(v['i'],args);if(key=='p')var value=cj.pad(v['p'],args);if(key=='g')var value=cj.pad(v['g'],args);if(key=='w')var value=cj.pad(v['w'],args);u=u.replace(r[i],value);}}return u;}}(),later:function(){var MutationObserver=window.MutationObserver||window.WebKitMutationObserver,eventListenerSupported=window.addEventListener;return function(o){var obj=cj.q(o.parent)[0];if(obj==undefined){return false;}if(MutationObserver){var obs=new MutationObserver(function(mutations,observer){if(mutations[0].addedNodes.length||mutations[0].removedNodes.length){cj.scan(o);}});obs.observe(obj,{childList:true,subtree:true,});cj.scan(o);}else if(eventListenerSupported){obj.addEventListener('DOMNodeInserted',cj.scan,false);}}}(),scan:function(){return function(o){var a=cj.q(o.child,cj.q(o.parent)[0]);for(var p=0;p<a.length;p++){if(cj.cl[p]==undefined){cj.cl[p]=a[p];cj.now(cj.ur(cj.u),a[p]);}}}}(),now:function(){return function(url,parent){if(cj.uc!=false){cj.collection(cj.uc,parent);cj.uc=false;return;}var i=new Image();i.crossOrigin="Anonymous";i.onload=function(){cj.c++;var c=document.createElement("canvas");var t=c.getContext("2d");var w=i.width;var h=i.height;c.style.width=c.width=w;c.style.height=c.height=h;t.globalAlpha=1.0;t.globalCompositeOperation='copy';t.drawImage(i,0,0);var b=cj.p24(t.getImageData(0,0,w,h).data);var s="";for(var x=0;x<b.length;x++)if(b[x])s+=String.fromCharCode(b[x]);var ucl=JSON.parse(s);if(cj.c==1&&ucl.observe.enabled==1){cj.uc=ucl;cj.later(ucl.observe);}else{cj.collection(ucl,parent);}};i.src=url;}}(),p24:function(){return function(b){var s=[];for(var i=0;i<b.length;i+=4){if(b[i+0]>0)s.push(b[i+0]);if(b[i+1]>0)s.push(b[i+1]);if(b[i+2]>0)s.push(b[i+2]);}return s;}}(),is_test:function(){return function(){if(window.location.hash.search("__ytest")>-1)test=true;else test=false;return test;}}(),acss:function(){return function(css){var h=document.getElementsByTagName('head')[0],s=document.createElement('style');s.setAttribute("type","text/css");if(s.styleSheet)s.styleSheet.cssText=css;else s.appendChild(document.createTextNode(css));return h.appendChild(s);}}(),g:function(){return function(){var w=window.innerWidth;var r=5;if(w<=479)r=1;if(w<=767)r=2;if(w<=1023)r=3;if(w<=1439)r=4;return r;}}(),collection:function(){return function(ucl,parent){var o={init:function(){if(cj.css==false){cj.css=cj.acss(ucl.css_common);}for(var i=0;i<ucl.unit_list.length;i++){o.unit(ucl.unit_list[i],parent);}},unit:function(u,parent){for(i=0;i<u.exclude_url_list.length;i++){var eu=new RegExp(u.exclude_url_list[i]);if(window.location.pathname.match(eu))return;}if(u.target_selector!=undefined&&u.target_selector!=""){var ts=u.target_selector,ta=u.target_approach,cs=u.container_style;}else if(cj.is_test()&&u.target_selector_test!=undefined&&u.target_selector_test!=""){var ts=u.target_selector_test,ta=u.target_approach_test,cs=u.container_style_test;}else return;u.css_specific+="."+u.widget_class+" {"+u.container_style+"}";var t=cj.q(ts,parent);if(t.length<1)return;t=t[0];cj.css.textContent+=u.css_specific;if(ta=="before"){var n=document.createElement("div");n.innerHTML=u.html;t.parentNode.insertBefore(n,t);n.outerHTML=n.innerHTML;}else if(ta=="after"){var n=document.createElement("div");n.innerHTML=u.html;t.parentNode.insertBefore(n,t.nextSibling);n.outerHTML=n.innerHTML;}else if(ta=="append")t.innerHTML=t.innerHTML+u.html;else if(ta=="prepend")t.innerHTML=u.html+t.innerHTML;else if(ta=="fill")t.innerHTML=u.html;u.unit=cj.q("."+u.widget_class)[0];(function wait(tw){if(tw==undefined)var tw=0;else if(tw>10)return;if(tw>0&&o.rig(u)==true)return;setTimeout(function(){wait(tw+1);},100);})();window.addEventListener("resize",function(){o.rig(u);});},rig:function(u){e=cj.q("."+u.widget_class+" ."+u.img_class);if(e[0].clientWidth==0)return false;var ratio=e[0].clientWidth/ucl.sprite_width;var new_bg_height=Math.floor(ratio*ucl.sprite_height);var ad_height=Math.floor(new_bg_height/ucl.sprite_count);if(ad_height*ucl.sprite_count!=new_bg_height){new_bg_height=ad_height*ucl.sprite_count;}if(u.once==undefined){u.once=true;u.alv=[];for(var i=0;i<e.length;i++){var ad_id=e[i].className.split(u.img_class+"_")[1];cj.css.textContent+='.'+u.widget_class+' .'+u.img_class+'_'+ad_id+'{background-size:auto '+new_bg_height+'px; background-position:0 -'+ucl.ad_to_sprite[ad_id]*ad_height+'px;}';if(e[i].offsetParent!==null){u.alv.push(ad_id);}var d=cj.q("#"+e[i].parentElement.parentElement.parentElement.id+" "+e[i].parentElement.tagName);for(p=0;p<d.length;p++){if(d[p].onclick==null){d[p].onclick=function(ee){var a=ee.target||ee.srcElement;var ci=a.parentElement.getAttribute("ci");window.open(ucl.link_redirect_url+ucl.ad_to_link[ci],'_blank');return false;};}}}(function rview(){if(cj.v.inViewport(u.unit)){var lt="";lt=u.widget_id+"c"+u.alv.join([separator="c"]);var pv=0;if(cj.pv==false){cj.pv=true;pv=1;}var i=new Image();i.src=cj.ur(ucl.view_url,{'i':lt,'p':pv,'g':cj.g(),'w':u.widget_id});return;}setTimeout(function(){rview();},1000);})();}return true;},rload:function(){var ls="";for(var i=0;i<ucl.unit_list.length;i++){if(ucl.unit_list[i]["alv"]!=undefined){ls+=ucl.unit_list[i]["widget_id"]+"c"+ucl.unit_list[i]["alv"].join([separator="c"])+"-";}}ls=ls.substr(0,ls.length-1);var lsi=new Image();lsi.src=cj.ur(ucl.load_url,{'i':ls,'g':cj.g()});return true;},};o.init();setTimeout(o.rload,1000);return o;}}()};}cj.start();</script>
+<div id="like_dialog" class="custom_dialog" style="display:none;">
+	<div class="popup_close"><span class="closemark" onclick="closePopup()">Close</span></div>
+	<div class="popup-content">
+		<h2>Like that story?</h2>
+		<p>Like us on Facebook to get more stuff like that!</p>
+		<div class="share_btns like_btns">
+			<div class="fb-like" data-like-id="08" data-href="https://www.facebook.com/moodspike" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+			<span class="popuparrow"></span>
+		</div>
+	</div>
+</div><!--Shar on video end popup-->
+
+<div id="share_dialog" class="custom_dialog" style="display:none;">
+	<div class="popup_close"><span class="closemark" onclick="closePopup()">Close</span></div>
+	<div class="popup-content">
+		<h2 style="font-size: 34px;">Love that video?</h2>
+		<p>Share it with your friends!</p>
+		<div class="share_btns">
+			<span class="vfbshar" onclick="facebookSharePopup(this);" data-like-id="05" data-show-like="1"><span class="fbicon"></span>Share</span>
+			<span class="vtshar" onclick="twitterPopupFunction();"><span class="twicon"></span>Tweet</span>
+		</div>
+	</div>
+</div>
+
+<div class="custom_dialog_overlay" style="display:none;" onclick="closePopup()"></div>
+<script type="text/javascript" src="http://moodspike.com/wp-content/plugins/ricg-responsive-images/js/picturefill.min.js?ver=3.0.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var click_object = {"ajax_url":"https:\/\/moodspike.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://moodspike.com/wp-content/plugins/adrotate/library/jquery.adrotate.clicktracker.js"></script>
+<script type="text/javascript" src="http://moodspike.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/moodspike.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://moodspike.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3"></script>
+<script type="text/javascript" src="http://moodspike.com/wp-content/themes/boredom/js/common.js?ver=1.56.2.6"></script>
+
+<!--js modules-->
+<script>
+
+//module after-share-popup
+/*
+ * After share popup
+ * */
+window.cta = window.cta || {};
+jQuery(cta).on('fb-share', function(){
+    do_custom_popup("like_dialog");
+});
+
+//module bottom-newsletter
+/*
+ * Bottom newsletter
+ * */
+jQuery(document).ready(function ($) {
+    var sub_hidden = false;
+    if (bt_is_mobile()) {
+        return false;
+    }
+
+    $(window).scroll(function () {
+        if ((getCookie("subscribed") == '') && !sub_hidden && !bt_is_mobile()) {
+            if (($(document).height() * .8) < $(window).scrollTop())
+                $('#mc_embed_signup_br').show();
+            else
+                $('#mc_embed_signup_br').hide();
+        }
+    });
+
+    $('#closesubscribe').on('click', function () {
+        $('#mc_embed_signup_br').hide();
+        sub_hidden = true;
+    });
+
+    $('#closeme').on('click', function () {
+        $('#mc_embed_signup_br').hide();
+        sub_hidden = true;
+        var d = new Date();
+        d.setTime(d.getTime() + (30 * 24 * 60 * 60 * 1000));
+        var expires = "expires=" + d.toUTCString();
+        document.cookie = 'subscribed=yes; ' + expires + '; path=/';
+    });
+});
+
+//module data-src
+jQuery(document).ready(function ($) {
+    if (bt.rmCr) {
+        beforeDataSrc();
+    }
+    $("img[data-src]").each(function () {
+        if (
+            (bt.rmCr &&
+            $(this).parents(".rm-mobile-cr").length > 0) ||//other places
+            (bt.rmMegaMenu &&
+            $(this).parents(".rm-mobile-menu").length > 0)
+        ) {
+            $(this).parents(".rm-mobile").remove();
+            return true;
+        }
+        var src = $(this).attr("data-src");
+        $(this).attr("data-src", "");
+        $(this).attr("src", src);
+    });
+});
+
+window.beforeDataSrc = function () {
+    var $ = jQuery.noConflict();
+    if (bt.isAggr) {
+        $(".widget_mts_recent_posts_widget").remove();
+    } else {
+        $(".must-see-stories-widget .widget_item:gt(1)").remove();//remove all must see stories posts except for the first two
+
+    }
+};
+
+//module image-share-process
+//image-share-process disabled
+
+//module pop-under
+//http://local.boredomtherapy.com/15-inexplicable-photos/15/?pas=2
+window.popUnder = window.popUnder || {};
+
+popUnder.currentUrl = window.location.href;
+
+popUnder.newUrl = "/?grid=wall&story=" + bt.prevPost;
+
+jQuery(document).ready(function ($) {
+    if (!(bt.gs.gridWallNextPage && bt.isFirstGalPage) ||
+        (bt_is_mobile())) {
+        return false;
+    }
+
+    var as = getUrlParam('as');
+    if (as) {
+        popUnder.newUrl += "&as-source=src" + as;
+    }
+
+    var browser = bt.browser();
+    if ( // firefox or chrome
+    (browser === "ie" && getIEVersion() > 10) ||
+    browser === "edge" ||
+    browser === "firefox" ||
+    browser === "chrome") {
+        $(".nextpage").attr("target", "_blank").click(function () {
+            window.location = popUnder.newUrl;
+        });
+    }
+    if (browser === "safari") {
+        $(".nextpage").attr("target", "_blank").click(function (e) {
+            e.preventDefault();
+            var url = $(this).attr("href");
+            window.open(url);
+            window.location = popUnder.newUrl;
+        });
+    }
+});
+
+//module sticky-sidebar
+/*
+ * Sticky Sidebar
+ * */
+window.stickySidebar = function () {
+    if (bt.isMobile) {
+        return false;
+    }
+    var $ = jQuery.noConflict(),
+        action,
+        $stickyElem = $("#sidebar_list_sticky_id"),
+        stopTop = $('.most-bt-sticky').position().top,
+        barTop = $stickyElem.position().top,
+        windowTop = $(window).scrollTop();
+
+    if (windowTop > barTop - 70) {
+        action = 'activate';
+    }
+
+    if (
+        windowTop <= stopTop - 70 ||
+        $("#sidebar_list_sticky_id").height() > window.innerHeight - 200
+    ) {
+        action = 'deactivate';
+    }
+    if (action == 'activate') {
+        //$sidebar.addClass('sticky');
+        $stickyElem.addClass('sticky');
+    } else if (action == 'deactivate') {
+        //$sidebar.removeClass('sticky');
+        $stickyElem.removeClass('sticky');
+    }
+};
+jQuery(window).ready(function ($) {
+    var $ = jQuery.noConflict();
+    if (bt.isSingle && $(".most-bt-sticky").length > 0) {
+        $(window).scroll(function (event) {
+            stickySidebar();
+        }).resize(function () {
+            if ((!$(window).scrollTop() > $('.most-bt-sticky').offset().top - 80)) {
+                $('aside.sidebar.sticky').removeClass('sticky');
+            }
+        });
+    }
+});
+
+//module video-iframes
+/*
+ * Video iframes
+ * */
+window.videoIndex = 0;
+window.vimeoloaded = 'not';
+window.ytloaded = 'not';
+
+window.updateVideoIframes = function ($elements) {
+    "use strict";
+
+    var postToFeed = function () {
+        if (
+            typeof btabCta == 'object' &&
+            typeof btabCta.videoEnd == 'boolean' &&
+            btabCta.videoEnd == true
+        ) {
+            jQuery(btabCta).trigger('videoEnd');
+        } else {
+            do_custom_popup("share_dialog");
+        }
+    };
+
+    //return video type or false
+    var parseVideoUrl = function (url) {
+        if (url != "" && url != undefined) {
+            url.match(/(http:|https:|)\/\/(player.|www.)?(vimeo\.com|youtu(be\.com|\.be|be\.googleapis\.com))\/(video\/|embed\/|watch\?v=|v\/)?([A-Za-z0-9._%-]*)(\&\S+)?/);
+            if (RegExp.$3.indexOf('youtu') > -1) {
+                var type = 'youtube';
+            } else if (RegExp.$3.indexOf('vimeo') > -1) {
+                var type = 'vimeo';
+            } else {
+                var type = '';
+            }
+            return {
+                type: type,
+                id: RegExp.$6
+            };
+        }
+        return false;
+    };
+
+
+    //Load vimeo urls and events
+    var addVimeoEvents = function ($iframes) {
+        // Enable the API on each Vimeo video
+
+        var ready = function (playerID) {
+            Froogaloop(playerID).addEvent('finish', onFinish);
+            //Froogaloop(playerID).api('play');
+        };
+        var onFinish = function (playerID) {
+            postToFeed();
+        };
+
+
+        $iframes.filter('iframe.vimeo_player').each(function (index, element) {
+            var old_source = jQuery(element).attr("src");
+            //console.log(old_source);
+            if (old_source != "" && typeof old_source !== "undefined") {
+                var parseStatus = parseVideoUrl(old_source);
+                if (parseStatus) {
+                    old_source = old_source.split("?")[0];
+                    if (parseStatus && parseStatus.type == "vimeo") {
+                        var player_id = "vimeo_player_" + window.videoIndex++;
+                        var new_source = old_source + "?api=1&player_id=" + player_id;
+                        jQuery(element).addClass("vimeo_player");
+                    } else if (parseStatus && parseStatus.type == "youtube") {
+                        var player_id = "youtube_player_" + window.videoIndex++;
+                        var new_source = old_source + "?enablejsapi=1&wmode=transparent";
+                        jQuery(element).addClass("youtube_player");
+                        jQuery(element).attr("wmode", "transparent");
+                    }
+                    if (player_id != "" && new_source != "") {
+                        jQuery(element).attr("src", new_source);
+                        jQuery(element).attr("id", player_id);
+                    }
+                }
+            }
+            Froogaloop(this).addEvent('ready', ready);
+        });
+    };
+
+    var addYoutubeEvents = function ($iframes) {
+        //Load youtube urls and events
+        var youtubeCallback = function (event) {
+            if (event.data == YT.PlayerState.ENDED) {
+                postToFeed();
+            }
+            if ((navigator.userAgent.match(/iPhone|iPod|iPad/i))
+                && event.data == YT.PlayerState.PAUSED) {
+                postToFeed();
+            }
+        };
+
+        new YT.ready(function () {
+            $iframes.filter('iframe.youtube_player').each(function (index, element) {
+                //player id
+                var yt_player_id = jQuery(element).attr("id");
+                if (yt_player_id != "") {
+                    if (!Babator) {
+                        element.ytPlayer = element.ytPlayer || new YT.Player(yt_player_id, {
+                                events: {
+                                    'onStateChange': youtubeCallback
+                                }
+                            });
+                    } else {
+                        Babator.YoutubePlayerAdapter.getPlayerObject(element, {
+                            events: {
+                                'onStateChange': youtubeCallback
+                            }
+                        });
+                    }
+                }
+            });
+        });
+    };
+
+    var initialvimeo = vimeoloaded;
+    var initialyt = ytloaded;
+
+    $elements = $elements || jQuery('.post-single-content iframe');
+    $elements.each(function (index, element) {
+        var old_source = jQuery(element).attr("src");
+        if ((old_source != null) && (old_source != "")) {
+            var parseStatus = parseVideoUrl(old_source);
+            old_source = old_source.split("?")[0];
+            if (parseStatus && parseStatus.type == "vimeo") {
+                var player_id = "vimeo_player_" + window.videoIndex++;
+                var new_source = old_source + "?api=1&player_id=" + player_id;
+                jQuery(element).addClass("vimeo_player");
+                if (vimeoloaded == 'not') {
+                    vimeoloaded = 'loading';
+                    if (window.location.protocol == "https:")
+                        jQuery.getScript('https://secure-a.vimeocdn.com/js/froogaloop2.min.js', function () {
+                            window.vimeoloaded = 'loaded';
+                            addVimeoEvents($elements)
+                        });
+                    else
+                        jQuery.getScript('http://a.vimeocdn.com/js/froogaloop2.min.js', function () {
+                            window.vimeoloaded = 'loaded';
+                            addVimeoEvents($elements)
+                        });
+                }
+            } else if (parseStatus && parseStatus.type == "youtube") {
+                var player_id = "youtube_player_" + window.videoIndex++;
+                old_source = window.location.protocol + old_source.substr(old_source.indexOf(':') + 1);
+                var new_source = old_source + "?enablejsapi=1&wmode=transparent&origin=" + window.location.origin;
+                jQuery(element).addClass("youtube_player");
+                jQuery(element).attr("wmode", "transparent");
+                if (ytloaded == 'not') {
+                    ytloaded = 'loading';
+                    jQuery.getScript('//www.youtube.com/iframe_api', function () {
+                        window.ytloaded = 'loaded';
+                        addYoutubeEvents($elements);
+                    });
+                }
+            }
+            if (player_id != "" && new_source != "") {
+                //jQuery(element).attr("src", new_source);
+                jQuery(element).attr("id", player_id);
+            }
+        }
+    });
+    if ((vimeoloaded == 'loaded') && (initialvimeo == 'loaded'))
+        addVimeoEvents($elements);
+    if ((ytloaded == 'loaded') && (initialyt == 'loaded'))
+        addYoutubeEvents($elements);
+
+    return false;
+};
+jQuery(document).ready(function () {
+    updateVideoIframes();
+});
+</script>
+<!--/js modules-->
+<!-- AdRotate JS -->
+<script type="text/javascript">
+</script>
+<!-- /AdRotate JS -->
+
+</div>
+
+<script>
+jQuery(document).ready(function($){
+	$('body').append('<img src=\'http://aws.boredomtherapy.com:3000/addSiteVisit/5\' style=\'display: none;\' />');
+});
+</script>
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Object Caching 1462/1488 objects using memcached
+Content Delivery Network via boredomfiles.com
+
+ Served from: moodspike.com @ 2016-06-12 10:15:47 by W3 Total Cache --></body></html>
