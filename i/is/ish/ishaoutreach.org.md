@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishaoutreach.org privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411051307id_/http%3A//www.ishaoutreach.org/projects/49) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishaoutreach.org privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612111019id_/https%3A//www.ishaoutreach.org/projects/49) for the most accurate reproduction.*
 
 # Copyright & Privacy
 
@@ -59,3 +59,9 @@ Telephone us at +91(422)2580186.
 #### Refund Policy for online donations:
 
 Donation made online will not be refunded under any circumstances whatsoever.
+
+#### [ IOR FCRA Disclosure for the Fiscal Year 2015](http://www.ishaoutreach.org/docs/IOR-FCRA-Financials-2015.pdf)
+
+#### [ IOR FCRA Disclosure for Quarterly Report Year 2015](http://www.ishaoutreach.org/docs/IOR-FCRA-Rcpts-Q3-2016.pdf)
+
+#### [ IOR FCRA Disclosure for Quarterly Report Year January to March 2016](http://www.ishaoutreach.org/docs/IOR_FCRA_Rcpts_Q4_2016.pdf)
