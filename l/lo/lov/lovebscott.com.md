@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovebscott.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207032656id_/http%3A//lovebscott.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovebscott.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612080447id_/http%3A//lovebscott.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | B. Scott | Celebrity Gossip and Entertainment News
+# Privacy Policy – B. Scott | lovebscott.com
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
