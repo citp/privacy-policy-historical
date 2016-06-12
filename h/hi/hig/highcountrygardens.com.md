@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212020542id_/http%3A//www.highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612194728id_/http%3A//www.highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,5 +30,5 @@ High Country Gardens
 223 Ave D, Suite 30  
 Williston, VT 05495  
 (800) 925-9387  
-[www.highcountrygardens.com](https://web.archive.org/web/20151212020542id_/http%3A//www.highcountrygardens.com/www.highcountrygardens.com)  
+[www.highcountrygardens.com](http://www.highcountrygardens.com/)  
 [Email Us](http://www.highcountrygardens.com/contact-us)
