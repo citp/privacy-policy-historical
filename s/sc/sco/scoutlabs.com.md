@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the scoutlabs.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129011615id_/http%3A//www.lithium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutlabs.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613092145id_/http%3A//www.lithium.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Lithium
 
 ## Lithium Privacy Policy
 
-Effective Date: 1/23/2015
+Effective Date: 4/14/2016
 
-## About Lithium [](https://privacy.truste.com/privacy-seal/Lithium-Technologies/validation?rid=8f91f158-6733-4aa7-9c7b-950d56e96089 "TRUSTe European Safe Harbor certification")
+## About Lithium [](https://privacy.truste.com/privacy-seal/validation?rid=eab59874-ae06-426b-9570-96dca67e143c "TRUSTe Privacy Certification")
 
 This privacy policy applies to www.lithium.com owned and operated by Lithium Technologies. Lithium Technologies provides social customer solutions for its clients. This Privacy Policy describes how Lithium Technologies (“we”, “Lithium”) collect and use your personally identifying information. It also describes the choices available to you regarding the use of your personally identifying information by Lithium and options available to you to access your information and request correction or deletion should you choose to do so.
 
 Lithium does not send unsolicited emails or sell any personally identifying information users may have submitted to us though our website. In addition, for lead generation or marketing purposes, we may ask individuals interested in obtaining more information about Lithium products to voluntarily submit their contact information to us.
 
-Lithium has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.lithium.com and does not cover information that may be collected through our software services or service platforms. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@lithium.com. If you are not satisfied with our response, you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Lithium has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. The TRUSTe program covers only information that is collected through this Web site, www.lithium.com and does not cover information that may be collected through our software services or service platforms. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@lithium.com](mailto:privacy@lithium.com). If you are not satisfied with our response, you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-Lithium Technologies complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Lithium Technologies has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Lithium Technologies’ certification, please visit [http://www.export.gov/safeharbor/ ](http://www.export.gov/safeharbor/)
+Lithium Technologies complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Lithium Technologies has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Lithium Technologies’ certification, please visit <http://www.export.gov/safeharbor/>
 
 ## Information Collected or Tracked by Lithium
 
@@ -26,22 +26,21 @@ Lithium collects user-submitted information as a response to users wishing to be
 
 We also use cookies and collect some information passively such as the client browser type and IP address information. This information is gathered for all users to our website to track usage and provide a personalized experience.
 
-##   
-Use of Information Obtained by Lithium
+## Use of Information Obtained by Lithium
 
 ### Information Users Submit to Lithium
 
-Information gathered is solely used to respond to a user's request for additional information on Lithium products. We may also use a user's email address to send promotional or marketing materials such as updates on the Lithium product line, but this is only after that service is requested by the user. Information that users do not submit to us We use your IP address and browser-type information in the general administration of our website.
+Information gathered is solely used to respond to a user's request for additional information on Lithium products. We may also use a user's email address to send promotional or marketing materials such as updates on the Lithium product line, but this is only after that service is requested by the user. Information that users do not submit to us. We use your IP address and browser-type information in the general administration of our website.
 
 ### Sharing of the Information This Site Gathers or Tracks
 
 As a matter of policy we do not sell your personally identifying information. We may disclose your personally identifying information only in ways that are described in this privacy policy as stated below:
 
-  * to any third party with your consent
-  * to companies that provide services to help us with business activities such as marketing or website analytics. These companies are authorized to use your personally identifying information only as necessary to provide these services to us.
-  * when required by law to comply with a subpoena or other similar legal processes
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or comply with a law enforcement request
-  * if Lithium becomes involved in a merger or acquisition, or any form of sale of some or all of its assets, we will provide notice when your personally identifying information becomes subject to a different privacy policy
+  * To any third party with your consent
+  * To companies that provide services to help us with business activities such as marketing or website analytics. These companies are authorized to use your personally identifying information only as necessary to provide these services to us.
+  * When required by law to comply with a subpoena or other similar legal processes
+  * When we believe in good faith that disclosure is necessary to protect our rights, your rights, protect your safety or the safety of others, investigate fraud, or comply with a law enforcement request
+  * If Lithium becomes involved in a merger or acquisition, or any form of sale of some or all of its assets, we will provide notice when your personally identifying information becomes subject to a different privacy policy
 
 
 
@@ -57,15 +56,15 @@ We will occasionally send you information on products, services, special deals, 
 
 Technologies such as: cookies, beacons, tags and scripts are used by Lithium and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, referring/exit pages, browser type and operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
 
 [download the Lithium 'use of cookies' datasheet](https://web.archive.org/pdfs/datasheets/Lithium_Cookies_Datasheet.pdf)
 
-## Flash LSOs
+## Local Storage or HTML5
 
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences.
+We use Local Storage (LS) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5.
 
 ## Behavioral Targeting
 
@@ -73,11 +72,11 @@ We partner with a third party ad network to either display advertising on our We
 
 ## Blogs
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@lithium.com.](mailto:%20privacy@lithium.com) In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@lithium.com](mailto:privacy@lithium.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## Testimonials
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@lithium.com.](mailto:%20privacy@lithium.com)
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@lithium.com](mailto:privacy@lithium.com).
 
 ## Single Sign-on
 
@@ -85,7 +84,7 @@ You can log in to our site using sign-in services such as Facebook Connect or an
 
 ## Social Media Widgets
 
-Our Web site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+Our Web site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ## Changes in Our Privacy Policy
 
@@ -93,15 +92,15 @@ This Privacy notice may change from time to time, so please review it frequently
 
 ### Access to Your Personally Identifying Information (pii)
 
-Users can update or correct their personally identifiable information or remove it from our contact list by emailing us at privacy@lithium.com. Users can expect a response to their access requests in thirty (30) days or less.
+Users can update or correct their personally identifiable information or remove it from our contact list by emailing us at [privacy@lithium.com](mailto:privacy@lithium.com). Users can expect a response to their access requests in thirty (30) days or less.
 
 ### Security of Your Personally Identifying Information
 
-We follow generally accepted industry standards to protect the personally identifying information submitted to us, both during transmission and once we receive it. Please keep in mind, however, no method of transmission over the Internet, or any method of electronic storage is perfectly secure. If you have any questions about our security practices or security on our website, you can visit our security information page at [lithium.com/security](https://web.archive.org/security) or email us at [privacy@lithium.com](mailto:privacy@lithium.com)
+We follow generally accepted industry standards to protect the personally identifying information submitted to us, both during transmission and once we receive it. Please keep in mind, however, no method of transmission over the Internet, or any method of electronic storage is perfectly secure. If you have any questions about our security practices or security on our website, you can visit our security information page at [lithium.com/security](http://www.lithium.com/security) or email us at [privacy@lithium.com](mailto:privacy@lithium.com).
 
 ### Choices and Opt-out Options
 
-Users have the opportunity to “opt-out” of having their personally identifying information used for certain purposes such as receiving promotional or other marketing material from us during the registration process for downloading a whitepaper or signing up for our webcasts. Additionally, users who no longer wish to receive our updates or newsletters may opt-out of receiving these communications by following the instructions contained in the mailer or by emailing us at marketing@lithium.com. Please include the term “OPT-OUT” in the subject line immediately followed by your email address.
+Users have the opportunity to “opt-out” of having their personally identifying information used for certain purposes such as receiving promotional or other marketing material from us during the registration process for downloading a whitepaper or signing up for our webcasts. Additionally, users who no longer wish to receive our updates or newsletters may opt-out of receiving these communications by following the instructions contained in the mailer or by emailing us at [marketing@lithium.com](mailto:marketing@lithium.com). Please include the term “OPT-OUT” in the subject line immediately followed by your email address.
 
 ### Data Retention
 
