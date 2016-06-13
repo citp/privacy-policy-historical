@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206034042id_/http%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613081200id_/https%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # Looking for your Purpose in Life, the Meaning of a Name, Meaning of Baby Names, or how to Make a Name Change?
 
@@ -115,11 +115,11 @@ We will only use your personal information in the ways specified when it was col
 
 ### Policy Updates
 
-All updates to this policy will be posted here. Last update: June 25, 2014
+All updates to this policy will be posted here. Last update: March 2, 2016.
 
 ###  Need Help with an Update, Access or Unsubscribe Request?
 
-[Contact the Kabalarian Philosophy](https://web.archive.org/cfm/feedback.cfm). To aid in processing your request, please include the following details:
+[Contact the Kabalarian Philosophy](https://web.archive.org/cfm/feedback-karma.cfm). To aid in processing your request, please include the following details:
 
   * Contact information (your name, address, email address, etc.) 
   * Details of the request (e.g. change of e-mail address, unsubscribe from a newsletter, review of personal information, etc.) 
@@ -130,7 +130,7 @@ Note: This policy also covers the personal information you provide to the Kabala
 
 ### Have Additional Questions or Comments?
 
-Check out the privacy policy frequently asked questions (FAQs) listed below. Should you have any additional privacy questions or comments related to this privacy policy, please [contact us](https://web.archive.org/cfm/feedback.cfm).
+Check out the privacy policy frequently asked questions (FAQs) listed below. Should you have any additional privacy questions or comments related to this privacy policy, please [contact us](https://web.archive.org/cfm/feedback-karma.cfm).
 
 ###  FAQs
 
@@ -139,3 +139,29 @@ A: As always, you can send your privacy questions and comments to us at [privacy
 
 _**Q: Does this policy also cover personal information collected offline?**_  
 A: Yes. We strive to have consistent privacy practices for your personal information, regardless of the medium used to collect the information. 
+
+  
+
+
+###### Thought for the Day
+
+  * > Rewards are selfish desires; seek not the individuality of selfishness; learn to know the path of creative expression nature intended you to follow, for that is your individuality for this life. –Alfred J. Parker
+
+  * > The universe cannot be read until we have learnt the language and become familiar with the characters in which it is written.It is written in mathematical language, and the letters are triangles, circles, and other geometrical figures, without which means it is humanly impossible to comprehend a single word. –Galileo Galilei
+
+  * > The doctors of the future will give no medicine but will interest patients in the care of the human frame, in diet, and in the cause and prevention of disease. –Thomas A. Edison
+
+  * > Every situation holds a lesson to be learned. –Alfred J. Parker
+
+
+
+  1. 1
+  2. 2
+  3. 3
+  4. 4
+
+
+  *  
+  *  
+
+
