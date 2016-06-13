@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hodesiq.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115105515id_/http%3A//www.technomedia.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hodesiq.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613141221id_/http%3A//www.technomedia.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
