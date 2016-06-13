@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecasecentre.org privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214133735id_/http%3A//www.thecasecentre.org/educators/myaccount/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecasecentre.org privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613081801id_/http%3A//www.thecasecentre.org/educators/myaccount/privacy) for the most accurate reproduction.*
 
 # Privacy policy | The Case Centre, for educators
 
@@ -60,7 +60,7 @@ To opt out of being tracked by Google Analytics across all websites visit <http:
 4.1.5 |  to notify you about changes to our service;  
 4.1.6 |  to process membership queries, applications, renewals and termination; and  
 4.1.7 |  to collect all and administer subscriptions.  
-4.2 |  If you are an existing customer, we will only contact you by electronic means (e-mail) or post with information about goods and services similar to those that were the subject of a previous sale to you.  
+4.2 |  If you are an existing customer, we will only contact you by electronic means (email) or post with information about goods and services similar to those that were the subject of a previous sale to you.  
   
 ##  5\. Communications
 
