@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sa-rewards.co.za privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214054801id_/http%3A//www.sa-rewards.co.za/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D40%26freetest_pk%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sa-rewards.co.za privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613101449id_/http%3A//www.sa-rewards.co.za/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D40%26freetest_pk%3D3) for the most accurate reproduction.*
 
 # Data Protection
 
