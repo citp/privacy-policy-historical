@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the grandviewresearch.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215105023id_/http%3A//www.grandviewresearch.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandviewresearch.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613152923id_/http%3A//www.grandviewresearch.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, ensuring complete security and confidentiality for Grand View Research customer
-
-[Home](https://web.archive.org/) __Privacy Policy
 
 **WEBSITE PRIVACY POLICY EFFECTIVE DATE:** November 26, 2013
 
