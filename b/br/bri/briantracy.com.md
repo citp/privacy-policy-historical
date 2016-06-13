@@ -1,19 +1,14 @@
-> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331003026id_/http%3A//www.briantracy.com/privacy.aspx%3Flid%3Dfooter%26ssid%3Dd96d86ab-7360-44ef-9205-6dcae06d1ba8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briantracy.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613065418id_/http%3A//www.briantracy.com/privacy.aspx) for the most accurate reproduction.*
 
 # Achieve Your Personal and Professional Goals Faster - Brian Tracy International
 
-[](https://web.archive.org/?lid=logo&ssid=d96d86ab-7360-44ef-9205-6dcae06d1ba8)
-
-Order by Phone  
-858.436.7300
-
 _Brian Tracy International knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting Brian Tracy International, you are accepting the practices described in this Privacy Notice._
 
-Questions regarding this statement should be directed by e-mail to [support@briantracy.com](mailto:support@briantracy.com?ssid=d96d86ab-7360-44ef-9205-6dcae06d1ba8). You may also contact us at Brian Tracy International, Inc., 462 Stevens Ave, Suite 305, Solana Beach, CA 92075. 
+Questions regarding this statement should be directed by e-mail to [support@briantracy.com](mailto:support@briantracy.com). You may also contact us at Brian Tracy International, Inc., 2840 Fifth Ave., Suite 400, San Diego, CA 92103. 
 
-This Privacy Policy sets forth the policies and practices with respect to information or data that is received or gathered regarding members, visitors and users (collectively "you" and "your"). [www.briantracy.com](http://www.briantracy.com/?ssid=d96d86ab-7360-44ef-9205-6dcae06d1ba8) and all related sites of Brian Tracy International may be referred to collectively as "www.briantracy.com", "Brian Tracy International", "us", "we", "Site", "Website" or "the Company" CAREFULLY READ THIS PRIVACY POLICY BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY AND THAT YOU ASSENT TO THE TERMS OF THIS AGREEMENT, INCLUDING THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY. IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY YOU SHOULD NOT USE THIS SITE OR ITS SERVICES.
+This Privacy Policy sets forth the policies and practices with respect to information or data that is received or gathered regarding members, visitors and users (collectively "you" and "your"). [www.briantracy.com](http://www.briantracy.com/) and all related sites of Brian Tracy International may be referred to collectively as "www.briantracy.com", "Brian Tracy International", "us", "we", "Site", "Website" or "the Company" CAREFULLY READ THIS PRIVACY POLICY BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY AND THAT YOU ASSENT TO THE TERMS OF THIS AGREEMENT, INCLUDING THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY. IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY YOU SHOULD NOT USE THIS SITE OR ITS SERVICES.
 
-**How we collect member, visitor or user information**
+#### How we collect member, visitor or user information 
 
 The information we gather falls into two categories:
 
@@ -26,56 +21,59 @@ The first type of information we collect can be thought of as "passive" informat
 
 For example, we may ask you to provide personal information. Whether or not you provide this personal information is completely optional. This "Optional Information" may include your name, username, e-mail address, physical address (or part of it such as your zip code), telephone number, gender, marital status, occupation, education and any special interests or affiliations. Additional "Optional Information," such as a credit card number, expiration date, security code and billing address may be requested for participation in special promotions or offers, or for billing and shipping information. We may also use "Optional Information" to verify identity, and protect against fraud. When a subscriber, member or user of this Site sends any personal communication or correspondence, by any means, to the Site, another Site User, the Company or any employees, agents or representatives of Company or Site, we may collect and use any and all such information and all other Data regarding that communication including the I.P. address the communication originated from. Once you submit personal information to the Company or Site we may collect and store information about your activities on the Site.
 
-**Cookies**
+#### Cookies
 
 Cookies are one of the tools that we use to passively collect Data.
 
 Internet cookies are alphanumeric identifiers that transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide personalized features and marketing. Cookies are used for authenticating, tracking and maintaining specific information about users, such as site preferences or shopping cart contents. Most Internet browsers allow the option to enable or disable cookies. You may disable cookies, but this may make portions of this Site unusable. Cookies are simple pieces of data unable to perform any operation by themselves. They are neither spyware nor viruses, despite the detection of cookies from certain sites by many anti-spyware products. This Site uses cookies to make the browsing experience of our members, subscribers and users more efficient and convenient. Our system will use cookies to remember your web preferences, and to assist us in tracking and targeting the interests, preferences and desires of our Site users to present the most appropriate messages, offers and other communications to our users, and to generally enhance their experience at our Site. Any and all information about Site visitors, members, subscribers or users collected by the Company, the Site or any agents or affiliates of Company or Site, through the use of cookies or other similar means may be included in our database and used in a manner consistent with this Privacy Policy.
 
-**You may encounter third parties on our site**
+We use remarketing pixels from sites including, but not limited to, Google, Facebook, and Twitter to aid in customized, targeted follow-up advertising. These third-party vendors show our ads on sites across the Internet by using cookies based on past visits to our website. Anyone can opt-out of Google’s use of cookies by visiting Google’s Ads Settings (http://www.google.com/settings/ads). Anyone can opt-out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page (http://www.networkadvertising.org/managing/opt_out.asp).
+
+#### You may encounter third parties on our site
 
 We want to inform you that third parties such as affiliates and advertisers use cookies on or in association with our Site. We often have no access or control over these cookies. We may also allow third party service providers to deliver special offers or services to Site users. We urge you to consult the privacy policies of any third party that you encounter on this Site.
 
-**Clear GIFs ("web beacons")**
+#### Clear GIFs ("web beacons")
 
 Clear GIFs, also known as "web beacons" or "single-pixel GIF’s" are very small images (typically 1 x 1 pixel) that help websites understand their customers better. While any type of file can operate as a web beacon, clear GIFs are most popular because their very small file size prevents them from interfering in the websites’ operation. Clear GIFs function like cookies, in that they are used to track and measure online actions taken by website users. In contrast to cookies clear GIFs are not stored on a user’s hard drive, but are embedded into the graphics, text or other components of web pages. Web pages and graphical emails use codes that tell your computer what to do when a page is opened. While they typically contain text and graphics that you see on the screen, often web pages also contain instructions or tags' that then ask the website's server to send you further content (such as an image or a block of text that changes frequently). Web beacons are retrieved in the same way as the text and graphics that you see on a website or in an email, and the action of calling the material from another server allows the event to be counted. When a user's browser requests information from our Site we may use GIFs to gather "passive" information such as the IP address of your computer; the time the material was viewed; the type of browser that retrieved the image; and the prior existence of cookies from our Site. This is information that could be gathered through the use of cookies. Web beacons do not give any "extra" information away. They are simply a convenient way for us to gather the simple statistics and manage cookies. Clear GIFs may be used by third parties to monitor activity on the Site. Turning off the browser's cookies will prevent web beacons from tracking your specific activity, but web beacons may still record an anonymous visit from your IP address.
 
-**How we use and share data and personal information**
+#### How we use and share data and personal information
 
 We use the information described in the paragraphs above for a variety of functions. In addition to using cookies, Data and Optional Information in the ways described above, we use this information to measure the number of visitors to the Site, to measure how traffic is generated and where it comes from; to track the success of our affiliate program and its individual affiliates (with whom this information may be shared); to track the receipt and success of customer newsletters, promotional programs, special offers and advertisements; and to generate and provide our marketing partners, affiliates, licensees, purchasers and successors in interest with accurate statistics on the performance of the Site. We also use cookies, Data and Optional Information to track customer preferences and to adapt our products and services to those preferences. Any personal information that you supply to us remains your personal property. However, by submitting your information to the Website, you grant Brian Tracy International and any third party affiliates or subsidiaries of Brian Tracy International the right to use that information for marketing purposes, and agree to receive email marketing from the Website. We may maintain separate email lists for different purposes. In order to end your email subscription to a particular list, you must follow the instructions on how to unsubscribe contained in every email correspondence that you receive from Brian Tracy International. Unsubscribing from one list will not automatically unsubscribe you from all email lists. We only send email marketing to individuals that have agreed, whether by visiting this Website or through third party websites, to receive email marketing from Brian Tracy International or its affiliates and partners. Though we make every effort to preserve user privacy, we may be required to disclose personal information in some instances, such as: 1) when required by law wherein we have a good faith belief that such action is necessary to comply with a judicial proceeding, court order, and/or subpoena; 2) in the event that Brian Tracy International is sold or acquired; or 3) in the event that we believe that the Website is being, or has been, used in violation of our terms and conditions or to commit unlawful acts. Moreover, you hereby consent to the disclosure of any record or communication to any third party when Brian Tracy International, in its sole discretion, determines the disclosure to be appropriate including, without limitation, sharing your email address with other third parties for suppression purposes in compliance with the provisions of the CAN-SPAM Act of 2003, as amended from time-to-time. In the past our customers have requested we introduce them to other programs and offers that Brian Tracy International endorses and thinks its customers would benefit from; therefore, on occasion, Brian Tracy International may share, license or sell your information to third parties for various marketing purposes, including but not limited to e-mail marketing, telemarketing, text messaging, and direct mail.
 
-**How we protect your information**
+#### How we protect your information
 
 To prevent unauthorized access, maintain data accuracy and to ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect online. We shall continue to take reasonable steps to provide effective data protection at all times, however, no security technology can provide invulnerability to information compromise. Therefore Brian Tracy International cannot, and does not, guarantee the security of any information that you transmit to us or to any third party affiliated with the Site. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-**Security**
+#### Security
 
 We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
 
-We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-**Choice/Opt-Out**
+#### Choice/Opt-Out
 
 If you are a newsletter subscriber, you always have the option of no longer receiving them. At the bottom of each newsletter there is an opt-out option. Simply click on "Please click here to unsubscribe".
 
-**Correct/Update**
+#### Correct/Update
 
-Our customers can correct, access and update pertinent Personally Identifiable Information obtained through the site. Mechanisms include online, email, telephone, postal mail etc. This helps to assure that the information we collect is accurate and up to date. You can correct, access, and update your personal information by e-mailing [Support.](mailto:support@briantracy.com?ssid=d96d86ab-7360-44ef-9205-6dcae06d1ba8)
+Our customers can correct, access and update pertinent Personally Identifiable Information obtained through the site. Mechanisms include online, email, telephone, postal mail etc. This helps to assure that the information we collect is accurate and up to date. You can correct, access, and update your personal information by e-mailing [Support.](mailto:support@briantracy.com)
 
-**Conditions of Use, Notices, and Revisions**
+#### Conditions of Use, Notices, and Revisions 
 
 If you choose to visit Brian Tracy International, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use.
 
-**Updates and revisions to this policy**
+#### Updates and revisions to this policy
 
 This Site reserves the right, in its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner. Changes to this Privacy Policy will be effective upon the posting of any revision on the Site. 
 
-**Contact Information**
+#### Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at: 
+If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
+**Brian Tracy International**  
 Phone: 1-858-436-7300  
 Fax: 1-858-436-7301  
-Email: [support@briantracy.com](mailto:support@briantracy.com?ssid=d96d86ab-7360-44ef-9205-6dcae06d1ba8)  
-462 Stevens Ave #305 Solana Beach, CA 92075  
-Website: [www.briantracy.com](http://www.briantracy.com/?ssid=d96d86ab-7360-44ef-9205-6dcae06d1ba8)
+Email: [support@briantracy.com](mailto:support@briantracy.com)  
+2840 Fifth Ave., Suite 400, San Diego, CA 92103  
+Website: [www.briantracy.com](http://www.briantracy.com/)
