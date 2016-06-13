@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotowire.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214022347id_/http%3A//www.rotowire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotowire.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613234756id_/http%3A//www.rotowire.com/privacy.htm) for the most accurate reproduction.*
 
 # RotoWire Privacy Policy
 
@@ -63,6 +63,22 @@ Attn: Customer Service
 740 Regent St. Suite #200  
 Madison, WI 53715  
 
+
+#### SHORT CODE TERMS
+
+When you opt-in to the Service, we will send you an SMS message to confirm your signup. 
+
+You can cancel the SMS service at any time. Just text “STOP” to 27526, after you send the SMS message “STOP” to us, we will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If you want to join again, just sign up as you did the first time and we will start sending SMS messages to you again. 
+
+If at any time you forget what keywords are supported, just text “HELP” to 27526. After you send the SMS message “HELP” to us, we will respond with instructions on how to use our service as well as how to unsubscribe. 
+
+We are able to deliver messages to the following mobile phone carriers: 
+
+Major carriers: AT&T, Verizon Wireless, Sprint, T-Mobile, U.S. Cellular, Alltel, Boost Mobile, Nextel, and Virgin Mobile. Minor carriers: Alaska Communications Systems (ACS), Appalachian Wireless (EKN), Bluegrass Cellular, Cellular One of East Central IL (ECIT), Cellular One of Northeast Pennsylvania, Cincinnati Bell Wireless, Cricket, Coral Wireless (Mobi PCS), COX, Cross, Element Mobile (Flat Wireless), Epic Touch (Elkhart Telephone), GCI, Golden State, Hawkeye (Chat Mobility), Hawkeye (NW Missouri), Illinois Valley Cellular, Inland Cellular, iWireless (Iowa Wireless), Keystone Wireless (Immix Wireless/PC Man), Mosaic (Consolidated or CTC Telecom), Nex-Tech Wireless, NTelos, Panhandle Communications, Pioneer, Plateau (Texas RSA 3 Ltd), Revol, RINA, Simmetry (TMP Corporation), Thumb Cellular, Union Wireless, United Wireless, Viaero Wireless, and West Central (WCC or 5 Star Wireless). 
+
+As always, message and data rates may apply for any messages sent to you from us and to us from you. You will receive 1 msg/req. If you have any questions about your text plan or data plan, it is best to contact your wireless provider. For all questions about the services provided by this short code, you can send an email to support@rotowire.com.com or (888) 201-3057. 
+
+If you have any questions regarding privacy, please read our privacy policy: http://www.rotowire.com/privacy.htm. 
 
 #### THIRD-PARTY BANNER ADVERTISING OPT OUT
 
