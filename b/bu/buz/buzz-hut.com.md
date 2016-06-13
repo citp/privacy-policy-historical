@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzz-hut.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141435id_/http%3A//www.buzz-hut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzz-hut.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613104825id_/http%3A//www.buzz-hut.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Buzz-HutBuzz-Hut
+# Privacy Policy | Buzz-Hut
 
 This privacy policy details the efforts we take to protect your information. We’re committed to protecting your information. We will only ask you to provide it as a means of identifying you, and it will only be used in the ways specified by this privacy policy. This policy may undergo subtle changes when we update this page. You should periodically check this page to see if we’ve recently altered the policy.
 
