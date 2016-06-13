@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the seat42f.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214222512id_/http%3A//www.seat42f.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seat42f.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613220555id_/http%3A//www.seat42f.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – SEAT42F
+# Privacy Policy | SEAT42F
+
+[vc_row][vc_column width=”2/3″][vc_column_text]
 
 This is the web site of **SEAT42F.COM**.
 
@@ -36,4 +38,6 @@ If you feel that this site is not following its stated information policy, you m
 
 This Privacy Policy was last modified on January 12, 2015 and is effective immediately.
 
-Copyright © 2015 Seat42f – All Rights Reserved.
+Copyright © 2016 Seat42f – All Rights Reserved.
+
+[/vc_column_text][/vc_column][vc_column width=”1/3″][vc_widget_sidebar sidebar_id=”blog”][/vc_column][/vc_row]
