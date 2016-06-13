@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aclfestival.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109010705id_/http%3A//www.aclfestival.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclfestival.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613122340id_/http%3A//www.aclfestival.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Security | ACL Music Festival
+# Privacy & Security – ACL Music Festival
 
 Updated 9/1/15
 
