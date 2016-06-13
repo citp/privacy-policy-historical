@@ -1,253 +1,161 @@
-> *The following text is extracted and transformed from the pixxtra.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042242id_/http%3A//badoo.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixxtra.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613091233id_/http%3A//www.xxxblackbook.com/main/privacy_policy) for the most accurate reproduction.*
 
-# Badoo's Privacy Policy
+# XXX BlackBook - Adult Dating Website - Find Sexy Singles, Men, Women, Couples For Local Sex, Dating, Online Dating
 
-This policy and any dispute or claim arising out of or in connection with it or its subject matter (including non-contractual disputes or claims) shall be governed by and construed in accordance with English law. In the event there is a discrepancy between this English language version and any translated copies of the Privacy Policy, the English version shall prevail.
+### XXXBlackBook.com Privacy Policy:
 
-## What’s this all about then?
-
-Hello (again, if you clicked through to here from our [Terms and Conditions of Use](http://badoo.com/en/terms/)). You should read this privacy policy because it will tell you exactly how your personal data is being looked after by Badoo and that’s a pretty important thing for you to know. Here are the topics that we cover:
-
-  1. What information we collect and how we collect it
-  2. How we use the information and who we share it with
-  3. How you can access and update such information
-  4. How we protect the information we store about you
-
-
-
-## Who we are
-
-Badoo is operated by Badoo Trading Limited, a company registered in England at Media Village, 131 - 151 Great Titchfield Street, London, W1W 5BB, United Kingdom and company number 754025.
-
-## The full legal bit
-
-We know that other people’s use of your personal data is a big concern for social network users, so we at Badoo have developed this privacy policy (the “ **Policy** ”) to let you know how we use personal information (‘personal data’ or ‘personal information’).
-
-Our Policy applies to your use of the Badoo website at www.badoo.com (“ **Badoo** ” or the “ **site** ” which includes the mobile apps). We suggest you read it in conjunction with our [Terms and Conditions of Use](http://badoo.com/en/terms/) (the “ **Terms** ”). When you access or use Badoo, you agree to our Privacy Policy and you consent to our collection, storage, use and disclosure of your personal information as we’ve set out in this Policy.
-
-Badoo reserves the right to change our Policy at any time and without notice, so be sure to check this Policy regularly to understand how we use your information.
-
-IF YOU DO NOT ACCEPT AND AGREE WITH OUR PRIVACY POLICY THEN YOU MUST NOT ACCESS OR USE THE SITE.
-
-## 1\. Badoo users and visitors to our site
-
-### What information does Badoo collect if I decide to join the Badoo social community?
-
-Badoo is a meeting place for adults, and we provide that service by operating a social network site offering users the opportunity to connect to our global community of users.
-
-To join the Badoo network you will have to complete our online registration form, where we ask you to provide us with information about you such as your name, your email address, your gender, your date of birth, your location details. You also have the opportunity to provide other details about yourself, but these are optional. Because you control your user profile, these details are available to you at any time by accessing your “Profile” page, which gives you the chance to correct or update (other than gender and email address) your information at any time by just logging in to Badoo.
-
-Once you have created a Profile, we will automatically track certain information such as your IP and email addresses.
-
-For safety and security and to ensure you have the best possible user experience, we require users to verify their accounts (because we want to make sure you are not a robot!) and might ask for your phone number. Don’t worry! This is only to make sure you are real and breathing!
-
-### What information does Badoo collect about me if I’m under 18?
-
-You can only become a member of Badoo if your aged 18 or over or the age of majority in the country in which you reside if that happens to be greater than 18. That means Badoo does not knowingly collect any information about children, minors or anyone under the age of majority. Nor do we knowingly market to children, minors or anyone under the age of 18. If you are less than 18 years old, we request that you do not submit information to us. If we become aware that a child, minor or anyone under the age of 18 has registered with us and provided us with personal information, we will take steps to terminate that person’s registration and delete their Profile information from Badoo. If we do delete a Profile because you violated our no children rules, we may retain your email and IP address to ensure that you do not try to get around our rules by creating a new Profile.
-
-### Does Badoo collect my personal information if I am not a member and just visit the site?
-
-No. We don’t collect any personal information about visitors to our site. If you do visit us without becoming a member, we will place session ID cookies on your computer. For more information about cookies generally, look at the answer to “ _How does Badoo collect information about me?_ ” below.
-
-### If I put other information about me on the site, what does Badoo do with it?
-
-Badoo is designed to make it easy for you to find, connect and interact with other members of Badoo by posting information about yourself. When using the App you should assume that anything you post or submit will be publicly viewable and accessible, both by Users of the App and non-Users of the App. For example, to make it easier to find other Badooers and connect with them, we have allowed you to share other users' profiles on Facebook. This feature can be turned off in your settings at any time. You can also use our electronic messaging system, which allows you to communicate with other users. We recommend and encourage you (and all our members) to think carefully about the information they disclose about themselves, and suggest you follow our [Guidelines and Safety Tips](http://badoo.com/en/guidelines/). We also do not recommend that you put email addresses, URLs, instant messaging details, phone numbers, full names or addresses, credit card details, national identity numbers, drivers’ licence details and other sensitive information in your Profile which is open to abuse and misuse.
-
-Please be careful about posting sensitive details about yourself on you Profile such as your religious denomination and health details. While you may voluntarily provide this information to us when you create your Profile, including your sexual preferences and ethnic background, there is no requirement to do so. Please remember that photographs or any video clips that you post on Badoo may reveal these kinds of sensitive personal data. Where you do upload and choose to tell us sensitive information about yourself, you are explicitly consenting to our processing your information and making this public to other users.
-
-When you post information about yourself or use the messaging, the amount of personal information you share is at your own risk. If you post anything that is inconsistent with our [Terms and Conditions of Use](http://badoo.com/en/terms/), we reserve the right to terminate your account.
-
-### What does Badoo collect about me if I use the mobile app?
-
-Badoo offers you the opportunity to stay in touch with the friends and contacts you’ve made no matter where you are. You can do this by using your mobile phone or by downloading an application to your desktop that allows you to share your location with other users.
-
-When you use your mobile or the desktop application, we will collect information about WiFi access points as well as other location information about your longitude and latitude. That information helps us identify your physical location so that it can be displayed and shared with other members choosing to view “nearby” posts.
-
-If you do not want your location to be known, then please do not download the desktop application or use your mobile device when you are on Badoo. If you have enabled location services, but wish to turn it off, you can do so by the following methods:
-
-  1. Desktop — quit application
-  2. Iphone app — settings, location services, off
-  3. Android — profile, privacy, on
-
-
-
-### What’s collected from me if I use Badoo’s premium services?
-
-When you take advantage of Badoo’s premium features, we collect financial information necessary to process your payments as per your chosen payment method. Please note that we do not store any credit card or other payment card details. However, our payment service providers do (and are approved to do so by all applicable regulatory bodies).
-
-When you access Badoo or play our games we collect certain technical information about your computer system or mobile device and statistical data about how you play our games. We use this information to improve our site and our games, so that you can increase your fun.
-
-### Can Badoo collect information about me from other sites I use, such as Facebook?
-
-If you have registered on one of our partner websites, such as Facebook, your Profile will be available to all users of the Badoo social network whether via our site or our partners’ websites.
-
-Remember that when you register with a Badoo partner, you are also giving them personal information, so we recommend that you read their privacy policies as Badoo does not control how they use their information.
-
-If you have have registered on one of our partner websites, such as Facebook, or you have verified your account via a partner website, we may connect your Badoo profile with your profile on such partner website. We may do this by way of new products and applications which we introduce from time to time, including new products powered by our group companies. 
-
-If you have verified your account through a partner website and do not want to link your Badoo profile to your profile on the partner website, please go to the “Verifications” section on your profile page and click “forget this account”.
-
-If you have created a Badoo profile through a partner website and you do not want to link your Badoo profile to your profile on the partner website, Badoo cannot amend these settings. Please visit the application settings on your partner website profile and follow the instructions to remove the Badoo access permissions.
-
-### Does Badoo collect any other personal information about me?
-
-If you contact our Customer Support team via [Feedback page](http://badoo.com/en/feedback/), we will receive your email address, and may track your IP address as well as the information you send to us to help resolve your query. We will keep records of our communications with you, including any complaints that we receive from you about other users (and from other users about you).
-
-### Will Badoo contact me?
-
-On your “Settings” page Badoo offers you the opportunity to receive emails from us about new message notifications or other purposes related to the use of the website.
-
-### Does Badoo use my personal information for any other purpose?
-
-We may use material that you post on the open access areas of Badoo in advertising and promotional materials on our partner sites and partner products. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs.
-
-We use your personal information to resolve disputes, troubleshoot problems and enforce our [Terms and Conditions of Use](http://badoo.com/en/terms/).
-
-### What are 'cookies' and what 'cookies' does Badoo use?
-
-We collect information by placing cookies on your computer or mobile. A cookie is a piece of text stored on your computer or mobile by your web browser. They are basically a tool that stores information about website visits, recognises you and your preferences each time you visit Badoo, and ensures site functionality and enables us to provide the services our members request.
-
-When you visit the publicly available sections of Badoo, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known an local storage devices) on members’ computers, so that Badoo remembers them and makes their login experience faster and easier. We may use persistent tracking cookies on your mobile device, mainly for security protection purposes, such as to prevent phishers, scammers, unauthorised log in attempts, and to help you access your hacked account. We do not use any information whilst you are logged off.
-
-You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access the features that Badoo offers.
-
-Badoo uses cookies and local storage devices for a number of reasons, including to ensure the security of our site, to provide you with features you have requested and to analyse how members and visitors use Badoo. Badoo’s use of cookies and local storage devices basically falls into three categories:
-
-  * those that are strictly necessary to deliver the services and products you have requested, such as, for example purchasing Super Powers
-  * cookies related to the performance of Badoo’s site, such as analytics that help us determine how our site is performing and ensuring a smooth and trouble free experience for our members and visitors
-  * cookies related to the functionality of Badoo’s site, such as remembering your preferences at log in or your preferred language or allowing you to chat, add photos and instant message Badoo members 
-  * third parties cookies that also relate to functionality and that you request via social plugins, links to other social networks or viewing of videos
-
-
-
-Badoo’s uses of cookies and local shared devices so that we know who you are, what interests you and so that you can do the things online that you want to do, like chat with new people, share your content and buy Super Powers knowing that your data will be secure. Below is a table to explain Badoo’s cookie functions and why they’re used.
-
-Cookie Functions | Cookie Purposes  
----|---  
-Analytics and research | Badoo uses Google Analytics to collect information about how visitors use the Badoo site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. For more information about Google’s privacy policy, please visit <http://www.google.com/intl/en/policies/>  
-Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy Badoo’s offerings, experiences and various features, such as uploading photographs, chatting and can localise your experience, such as when you’ve requested to view Badoo’s site in your local language or when you’ve asked Badoo to ‘remember me’. These cookies also help to remember who invited you to join Badoo.  
-Security and site integrity | 
-
-We use cookies and other devices, such as CAPTCHAs, to help keep Badoo and our members safe and secure. These cookies do things like protect Badoo users from spam and fraud, by ensuring the safety of your personal data when you shop on Badoo for things like Super Powers.
-
-We may use persistent cookies, which will help us to ensure we have identified the same device is logging into the correct account. These types of cookies also help with our anti-spam measures and may help us to prevent phishers, scammers, unauthorised log -in attempts to your account and accessing any hacked accounts.  
   
-Site features and services | 
-
-These cookies and local storage devices provide the functionality that our Badoo members enjoy, such as uploading of photographs, chats, instant messaging, your account settings and your request to have Badoo as your homepage or your search preference. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between Badoo with your other favourite social networks.
-
-In some cases, the site feature you choose may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data and Badoo recommends that you read their privacy policies. Third parties who place cookies on your device when you use Badoo include, and we have included a link to their privacy policies:
-
-Twitter, <https://twitter.com/privacy> Facebook, <http://www.facebook.com/about/privacy/your-info-on-other#socialplugin> YouTube, <http://www.google.co.uk/intl/en/policies/privacy/> AddThis, <http://www.addthis.com/privacy>  
-  
-Performance | We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such assisting with your navigation of our site, ensuring pages load up quickly and respond faster to your requests for Badoo services.  
-  
-Our use of cookies and local share devices, including the specific cookie names, may change over time, but will generally fall into the above categories. Please visit this page regularly so that you are aware of any changes.
-
-If you would like to know more about cookies, including flash cookies/local storage devices, the following websites provide useful information:
-
-  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
-  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-  * <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>
 
 
+We are committed to protecting our users' privacy!
 
-For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+We at XXXBlackBook.com offer this Privacy Policy ("Policy") to inform Users of the XXXBlackBook.com ("Website") how we define, collect, use and disclose the personal information you provide to us. We reserve the right, at our sole discretion, to alter this Policy at any time. Alterations shall become effective immediately once posted on the Website. We will notify you of a substantive change to this Policy by posting a notice of such substantial change on the home page of the Website and we may also email you to notify you of such changes. Your continued use of the Website following the posting of changes and/or modifications will constitute your acceptance of the revised privacy policy.
 
-## 2\. Friends and other Badoo users
+By providing personal information to us, and by using the Website or Service, you consent to our collection, use and disclosure of your personal information in accordance with this Policy.
 
-### When I put information about myself on Badoo, what do the other users see?
+Please read this Policy carefully and save it. If you do not agree with the terms of this Policy, you should leave the Website and discontinue use of the Service immediately. In addition, if you are an individual who wishes to become a Registered User or Member, you must read this Policy and indicate your acceptance of its terms by following the instructions on the [REGISTRATION [http://www.xxxblackbook.com/register]](https://web.archive.org/register) page and check the box labelled "I have read and agree to the Privacy Policy and Terms and Conditions. I confirm I have reached the age of majority in my jurisdiction." 
 
-To ensure you get to meet as many people as possible on Badoo, other members get to see your user name and any information you post on your Profile, including photos if you select the 'Any users' access setting. Any information you choose to provide should reflect how much you want other Badoo members to know about you. You can also choose to limit the information that other users see by adjusting your privacy settings in the “Settings” page.
+For the purposes of this Policy, "personal information" shall mean any information that can identify an individual directly or through other reasonable means.
 
-### What am I allowed to do with other user’s personal information?
+#### 1) Information We Gather Automatically. 
 
-Use it to meet new friends and make new contacts! Beware that you may not use other users' information for commercial purposes, to spam, to harass, or to make unlawful threats. Badoo reserves the right to terminate the accounts of those who misuse other users' information or who otherwise violate the [Terms and Conditions of Use](http://badoo.com/en/terms/).
+Each time a visitor visits the Website, our servers collect certain non-personal technical information, including, but not necessarily limited to, the visitor's IP Address, referral data and browser/platform type. This information is recorded by the standard operation of XXXBlackBook.com's Internet servers. We also count, track and aggregate a visitor's activity into our analysis of general traffic flows at the Website (e.g., tracking where traffic comes from, how traffic flows within the Website, etc.). The information collected here cannot identify who you are as an individual. However, we may use your IP addresses in cooperation with your Internet provider to identify you if we feel it is necessary to enforce compliance with our Terms of Use or to protect our service, the Website, users or others.
 
-### What information does Badoo collect about my friends and contacts?
+We may merge information about visitors and visits into group data, which may then at our discretion be shared on an aggregated basis with our advertisers. We will not disclose your individual identity or personally identifiable data without your permission.
 
-You can choose to invite your friends to join Badoo to make sure that they also get the benefits of meeting new people. To make it easier to search and find friends and acquaintances on Badoo, users may search for other members by email address. If you want to invite your friends and contacts to Badoo, we will send an email invitation from Badoo in your name or you can send an SMS (if you use our Android or iPhone app) to your friends and contacts encouraging them to sign up to Badoo. If any of the individuals you have invited do not register within a few days, Badoo may occasionally send reminder emails on your behalf to those individuals. You can choose to invite all your friends or only a select few by simply unticking the names of those friends you do not wish to invite, but please remember you must not invite any children to join. You are responsible for ensuring that your friend has agreed to receiving a Badoo invite.
+What are IP Addresses? An IP address is a number that's automatically assigned to your computer by your Internet provider whenever you're surfing the Internet. We do not link IP addresses to personally identifiable information, which means that your session will be logged anonymously.
 
-When you import your contacts, we store their name and email address or their mobile number so that we can automatically connect you and your friend. Badoo does not sell these email addresses or mobile numbers or use them to send any other communication besides email invitations. The friend may contact Badoo to request the removal of their information from our database by visiting Feedback page. Any such request will only apply to addresses or mobile numbers we have at the time of the request and not to any addresses that the member/user provides to us later.
+What are Cookies? We use cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements, and to customize advertising and web page content for individual users. A cookie is an alphanumeric identifier which we transfer to your hard drive through your web browser when you visit our Website. It enables our own system to recognise you when you visit our Website again and improve our service to you. Cookies may also be used to compile aggregate information about areas of our Website that are visited most frequently.
 
-## 3\. Third parties
+This traffic information can be used to enhance the content of our Website and make your use of it easier. We do not link the information we store in cookies to any personally identifiable information you submit while on the Website. Note that you must enable cookies from XXXBlackBook.com in order to use most functions on the Website. Nevertheless, if you wish to reject our cookies, you can configure your browser to do so (instructions for disabling cookies can be found in our FAQs [here](https://web.archive.org/main/faq). Please note that XXXBlackBook.com allows third parties who are presenting advertisements on some of our pages to set and access their cookies on your computer in a process that XXXBlackBook.com does not control. Advertisers' uses of cookies are subject to their own privacy policies, not this Policy. Therefore, we suggest that you examine the privacy policies of such advertisers to learn how they may collect, use, share and disclose your personal information.
 
-### Does Badoo sell my information to other parties?
+#### 2) Information Required for Registration. 
 
-Not at all. We do not sell or rent out any personal information about you to any third party. Badoo discloses aggregated non-personal data for marketing and promotional purposes. That means we do not disclose any information that could be used to identify you.
+XXXBlackBook.com will identify to you the purposes for which it will collect or use personal information before or at the time the information is collected. The type of personal information we may request depends on and is related to the reason (or purpose) such personal information was provided to us. During the process to become a User of the Website, we ask for general identifying information to provide you with customized service. We gather personal contact information such as screen name, email address, and some demographic information such as age, gender and general geographic location. Any other information you choose to enter, such as your personal interests and preferences and general indications of the type of partner you are looking for using the Service, is completely optional. 
 
-### Does Badoo disclose my information to other parties?
+We encourage Users to fill out their profiles as completely as possible, with the understanding that, once entered, contact information is treated anonymously and is not available to other XXXBlackBook.com Users. Any communications from other Users are done via our internal systems, which are used to match the message to you and generate an e-mail notification without disclosing any information aside from your chosen screen name.
 
-We may share aggregated information that includes your personal information (but which doesn’t identify you directly), together with other information including log data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services.
+The choice to provide us with your personal information is always yours. However, your decision to withhold particular information may result in limiting our ability to respond to your inquiries or provide you with the Services you requested. If a new purpose is identified for the use of the information collected, the new purpose will be explained prior to its new use. Unless the new purpose is required by law, your consent is required before information can be used for that purpose. Demographic information may be compiled and shared in the aggregate with third parties, but no personal details will be traceable or associated with specific individuals at any time.
 
-In particular, in relation to targeted advertising, we use third-party advertising companies to serve ads when you visit our Website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [this page](http://networkadvertising.org/managing/opt_out.asp).
+Note that, during the Membership process, third party billing agents will collect personally identifiable information required to process payments for the service. XXXBlackBook.com retainsinformation (name and address) to correctly identify you in dealings with third party billing agents. Additional information gathered by third party billing agents is not controlled byXXXBlackBook.com or this Policy.
 
-Badoo also wishes to maintain a healthy community, and we will cooperate with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights. We may also disclose your personal information to government or law enforcement agencies, or private parties, as required by law when/or, in our sole discretion, we believe that disclosure is necessary to protect our legal rights, or those of third parties and/or to comply with a judicial proceeding, court order, or legal process served on us.
+#### 3) Voluntary Inclusion of Personal Information. 
 
-In the event that Badoo or any of its affiliates undergoes a business transition or change of ownership, such as a merger, acquisition by another company, re-organisation, or sale of all or a portion of its assets, or in the event of insolvency or administration, we may be required to disclose your personal information.
+Personally identifiable information that you enter into your profile, that you include in communications with other Members or Users, or that you disclose in any media (text, chat streams, graphical, audio, visual or audio-visual), or that you post or display on the Website is accessible by visitors to the website, and by other Users (Registered Users and Members) of the Website. XXXBlackBook.com is not responsible for any privacy issues arising from your own voluntary posting or transmission of personal information via the Service. You acknowledge and agree that you (not XXXBlackBook.com or our affiliates, advertisers, employees and content providers) shall be solely responsible and liable for all damages, liability or other consequences, foreseen or unforeseen, of all information which you submit, publish, display, disseminate or otherwise communicate through the Website even if a claim for damages or liability should arise after termination of service.
 
-## 4\. Data storage
+#### 4) Communication. 
 
-### Where is my personal information kept?
+The Website directly communicates with Members and Users through email, instant messaging, and in some cases, downloaded executables. This enables Members to receive information when they are not on the Website, so they remain current on internal communication and updates from other Users or from us directly. The Website may also use personally identifiable information within your profile to send information to you that, in some cases, are targeted to your interests, such as special banners and promotions. Should you not wish XXXBlackBook.com to send you information on other services or products, please just contact us using the information provided in section 17 below.
 
-Badoo is a global website operating through servers located in a number of countries around the world, including the United States. If you live in a country with data protection laws, the storage of your personal data may not provide you with the same protections as you enjoy in your country of residence. By submitting your personal information, or by choosing to upgrade the services you use, or by making use of the applications available on Badoo, you agree to the transfer of your personal information to, and storage and processing of your personal information in, any such countries and destinations.
+Members of the Website can directly communicate with you through messaging services that are part of the Service (mail, chat or via comments). We may use personally identifiable information within your profile to send notifications of these communications to you, but your personally identifiable information is not disclosed to other Members by us.
 
-## 5\. Security
+#### 5) Referrals. 
 
-### How does Badoo protect my personal information?
+If you choose to use our external referral service to tell a friend about the Website, we will ask you for your friend's contact information. The Website will automatically send your friend an e-mail inviting them to visit the Website. The Website maintains this information for the sole purpose of sending this email and tracking the success of the referral.
 
-Badoo has implemented reasonable and appropriate security measures to protect and prevent the loss, misuse, and alteration of the information under our control, including your personal information. Badoo uses reasonable security measures to safeguard the confidentiality of your personal information such as secured servers using firewalls. Our technical experts at Badoo work hard to ensure your secure use of our site.
+#### 6) Your Use of Other Users' Information. 
 
-While we take reasonable precautions against possible security breaches of our website, member database and records no website or Internet transmission is completely secure and we cannot guarantee that unauthorised access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal information safe (including your password) and to log out of your account after use.
+You may not use other Users' information for commercial purposes, to send SPAM or SPIM, to harass, to make unlawful threats, or for any other illegal purpose. XXXBlackBook.com reserves the right to terminate the Service to those who misuse other Users' information.
 
-We cannot guarantee the security of your personal data while it is being transmitted to our site and any transmission is at your own risk. Once we have received your information we have procedures and security features in place to try to prevent unauthorised access.
+If you receive communications that you find to have violated this Policy, please contact us using the information provided in section 17 below, being sure to include the message text and the User who sent the communication to you.
 
-### How do I help keep my information secure?
+#### 7) Accuracy of Personal Information, Information Review and Removal.
 
-You may not disclose your password to any third parties or share it with any third parties. If you lose your password or give it out, your personal information may be compromised. If that happens, please report it to Support via [Feedback page](http://badoo.com/en/feedback/). You must change your password immediately via your “Settings” page. Badoo cannot be held responsible for your failure to keep your password secure and failure to do so may violate our [Terms and Conditions of Use](http://badoo.com/en/terms/).
+We shall make every reasonable effort to ensure your personal information is accurate, complete and up-to-date. You are responsible for advising XXXBlackBook.com of any inaccuracies or changes to your personal information.
 
-## 6\. Your rights
+Users may modify or remove any of their information associated with their profile at any time by logging into their account and accessing the Edit Profile feature.
 
-### How do I change my Profile?
+Users may, at any time, delete their profiles or remove any images or audio-visual material that they have posted to the Website.
 
-You can review and revise your profile information at any time. Once you register, you will be able to review and change much of your personal information including:
+#### 8) Promotion.
 
-  1. Your contact email address;
-  2. Your profile, photographs, and videos;
-  3. Your city, region, and country of residence;
-  4. Your password.
+From time to time, XXXBlackBook.com may sponsor sweepstakes, contests or other events of interest to our users. XXXBlackBook.com may co-sponsor these events with third party organizations, and may be required to share demographic information to be used for the event. Any shared demographic information will not be associated with individual users; it will only be presented as aggregated information. 
+
+In some cases, promotions or sweepstakes that may be of interest to our users may require us to share email information with third party sponsors or partners. A User's personal email information will not be released to any third party organization without the User's express consent and disclosure of the sponsor organization's name, and XXXBlackBook.com will request that such named sponsors uphold the privacy of the registrant's information by not distributing or sharing such information with any other businesses or organizations, and we will ensure that such sponsors agree to be bound by the terms of this Policy. 
+
+Should you not wish to receive notices or be considered for sweepstakes, contests or other events, please contact us using the information provided in section 17 below.
+
+#### 9) Disclosure and Retention of Personal Information. 
+
+We will only use or disclose your personal information in accordance with the purposes for which it was originally collected unless you have otherwise consented, or when required or permitted by law. We will keep your personal information only for so long as is required to fulfill the purpose for which it was collected or as required by law. Except as explained in this Policy, or as otherwise consented to by you, we do not disclose any personal information to third parties. The following are the limited instances where we may disclose your personal information to third parties:
+
+  1. When this information must be shared to provide a product or service you have requested.
+  2. We need to send the information to companies who work on our behalf to provide a product or service to you.
+  3. To investigate and/or enforce violations of our Terms and Conditions and/or this Policy, or to protect our interests in our operation and our legal rights and protections.
+  4. To investigate potentially fraudulent or questionable activities.
+  5. When required or permitted by law. XXXBlackBook.com (including our affiliates, advertisers and content providers) independently reserves the right to fully cooperate with requests from any recognized law enforcement authority, and to court orders, requesting or directing XXXBlackBook.com (including our affiliates, advertisers and content providers) to disclose the identity or other information regarding any person who is using or has used the Website or the Service or has obtained any Content available through or in association with the Website. By accepting this Policy and using the Website and/or the Service, you waive and hold harmless XXXBlackBook.com, our affiliates, content providers, and the operators of the Website from any and all claims resulting from any and all actions taken by any of the foregoing during, or as a result of any law enforcement authority's investigations or inquiries.
+  6. In the course of a sale or potential sale, reorganization, consolidation, merger or amalgamation of our business. In order to ensure a smooth transition of the Service in the eventof a merger, acquisition, reorganization, sale of all or substantially all of its assets or the sale of an individual website owned by XXXBlackBook.com, XXXBlackBook.com may transfer your personally identifiable information to a third party as a part of such merger, acquisition, reorganization or sale. In the event the transaction proceeds, we will require that the receiving party agree that they will be similarly bound by the provisions of this privacy policy and that they will only use and disclose your personal information as we are similarly entitled under this privacy policy. In the event the sale does not proceed, we will require the potential purchaser to not use or disclose your personal information in any manner whatsoever and to completely erase the same.
+  7. Where such disclosure is described elsewhere in this Policy.This Policy does not protect information you post to any online profile, bulletin board, e-note, video chat room, or any other forum accessible to other Users or other sites within XXXBlackBook.com.
 
 
 
-Please promptly update your information if it changes by signing-in to your account and following the screen prompts. We strongly urge you to periodically change your password to help reduce the risk of unauthorised access to your account information.
+#### 10) Location of Personal Information
 
-Users in certain jurisdictions are, in accordance with applicable law, entitled to exercise a right of access to personal information about themselves by asking for a copy of the information we hold about them (for which, where allowed by law, we may charge a small fee). Please put any such request in writing and using our contact form: [Feedback](http://badoo.com/en/feedback/).
+We are an international organization with servers located in various jurisdictions. As a result, User and Member personal information may be transferred to and stored in Canada, Ireland or elsewhere. We do the best we can to ensure your personal information is protected to the greatest extent possible. However, please note that the jurisdiction in which we store your personal information may not have similar standards for protecting your personal information as are provided for in your country. As well, government organizations from the jurisdiction in which the personal information is stored may have access to your personal information in accordance with the laws of such jurisdiction.
 
-### Can I deactivate or delete my Profile?
+#### 11) Employee Access to Your Personal Information. 
 
-Users of the Badoo network have the following choices to delete their profile from our database:
+In the course of daily operations, access to private, sensitive and confidential information is restricted to authorized employees who have a legitimate business purpose and reason for accessing it. As a condition of their employment, all employees of XXXBlackBook.com are required to follow this Policy. Employees are informed about the importance of privacy and they are required to agree to a code of conduct that prohibits the disclosure of any personal information to unauthorized individuals or parties. 
 
-  1. Send a message via [Feedback page](http://badoo.com/en/feedback/)
-  2. Sign in with your password and delete your profile. These options are available from your “Settings” page.
+Unauthorized access to and/or disclosure of personal information by an employee of XXXBlackBook.com is strictly prohibited. All employees are expected to maintain the confidentiality of personal information at all times and failing to do so will result in appropriate disciplinary measures, which may include dismissal. 
+
+#### 12) Our Commitment to Data Security.
+
+The security of your personal information is a priority to XXXBlackBook.com. We are responsible for protecting personal information under our control, including personal information that has been transferred to, or received from, a third party.
+
+Registered User and Member accounts are secured by member-created passwords. We use reasonable measures to protect registration and membership information that is stored within our database, and we restrict access to User information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff, and such employees shall be required to respect the privacy of that information. 
+
+In the event that personal information is transferred to a third party, XXXBlackBook.com will take steps to ensure that such recipients safeguard the personal information and use the information only for authorized purposes. Some examples of such measures are as follows:
+
+  1. Physical security measures such as restricted access facilities and locked filing cabinets. 
+  2. Electronic security measures for computerized personal information such as password protection, database encryption and personal identification numbers.
+  3. Organizational processes such as limiting access to such personal information to a selected group of individuals.
+  4. Contractual obligations with third parties who need access to personal information by agreements stipulating the confidentiality of the information and requiring them to protect and secure the personal information.
 
 
 
-If you want to stop using your account it will be initially deactivated. This means that no user will be able to search for you on the website although they may still see you profile from direct cached links, but it will not be deleted. We save your profile information in case you later decide to restore your account. Many users deactivate their accounts for temporary reasons and in doing so expect us to maintain their information until they return to Badoo. You will therefore be able to restore your account and your profile in its entirety within 30 days of de-activating it.
+Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time.
 
-After the expiration of 30 days, your account is permanently deleted from Badoo. We delete photographs from our servers within 14 days from the expiration of the deactivation period while other information (such as contact history) is deleted by us over a longer timescale, by way of housekeeping on a periodic basis. You should only delete your account if you are certain you never want to restore it.
+#### 13) Our Commitment to Children's Privacy.
 
-To prevent abuse and/or misuse of Badoo by a user following termination or deletion of a profile/account we shall retain such information as we deem in our sole discretion may be necessary to ensure that user does not open a new account and profile in breach of our [Terms and Conditions of Use](http://badoo.com/en/terms/) and to ensure compliance with all laws and regulations.
+Protecting the privacy of the very young is important to us. For that reason, we do not collect or maintain information from those we actually know are under 18 years of age, and no part of XXXBlackBook.com is structured to attract anyone under 18 years of age. If you are younger than 18 years of age, you are not permitted to use this site.
 
-**Warning:** Even after you remove information from your profile or delete your account, copies of that information may still be viewable and/or accessed on the Internet to the extent such information has been previously shared with others, or copied or stored by other users or to the extent such information has been shared with search engines. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information they may retain such information to the extent permitted under their terms of service or privacy policies.
+#### 14) Websites Governed by this Privacy Policy.
 
-Removed and deleted information may persist in backup copies for up to 30 days to enable restoration, but will not be available to others in the meantime.
+The Website that is governed by the provisions and practices stated in this Policy is: XXXBlackBook.com. XXXBlackBook.com's Website may contain links to other third party sites that are not governed by this Policy. Although we endeavor to only link to sites with high privacy standards, our Policy will no longer apply once you leave XXXBlackBook.com's Website. Additionally, we are not responsible for the privacy practices employed by other third party websites, nor are we responsible for the content of any such web property, company or organization that we do not control. Further, we cannot control and are not responsible for the actions of the employees, agents or assigns of any such web property, company or organization. Therefore, we suggest that you examine the privacy policies of those sites to learn how your information may be collected, used, shared and disclosed.
 
-### What happens if I do nothing?
+#### 15) Terms and Conditions, Notices and Revisions.
 
-If you have not signed in to Badoo for three months, we may remove your Profile as part of our data cleansing process.
+Your use of the Website, and any disputes arising from it, is subject to this Policy as well as our Terms and Conditions and all of its dispute resolution provisions including, but not limited to, limitations of liability and governing law.
 
-Your Badoo account is non-transferable and any rights to your profile or contents within your account will be cancelled upon your death.
+#### 16) Updating this Privacy Policy.
 
-If you have questions about our Privacy Policy or how we collect and use information, drop us a line via [Feedback page](http://badoo.com/en/feedback/).
+This Policy is subject to change by XXXBlackBook.com at any time. We may modify any of the terms contained in this Policy at any time in our sole discretion. Any changes to our privacy policy and information handling practices will be acknowledged in this policy in a timely manner. We may add, modify or remove portions of this policy when we feel it is appropriate to do so. You may determine when this policy was last updated by referring to the date at the bottom of this privacy policy. 
 
-This Privacy Policy was last updated on 7 November 2014.
+If any modification to this Policy is unacceptable to you, you agree that your only recourse is to terminate this Policy. Your continued use of the Service following our posting of a change notice or new agreement on the Website will constitute your binding acceptance of the change.
+
+BY PROVIDING PERSONAL INFORMATION TO US YOU SIGNIFY YOUR CONSENT TO OUR COLLECTION, USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS POLICY.
+
+#### 17) Handling Complaints, Questions and Suggestions. 
+
+To stop or resume receiving email notifications regarding various site activity or offers, users can edit their settings at: [XXXBlackBook.com](https://web.archive.org/myprofile/settings)
+
+If you have any further questions or concerns about XXXBlackBook.com's privacy policies and use of personal information, please contact us through:
+
+By mail: 
+
+XXXBlackBook.com
+
+2nd Floor
+
+13 Upper Baggot Street
+
+Dublin 4, Ireland
+
+Telephone: +353.15262707 Fax: +353.16335198 
+
+#### 18) Dispute Resolution
+
+Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or XXXBlackBook.com's handling of your personal information, or any related matters must be commenced within six (6) months after the claim or cause of action arises, after which time the claim or cause of action is forever barred, regardless of any statute or law to the contrary.
+
+Version [06/23/10]
