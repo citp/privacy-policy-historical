@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puma.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603104908id_/http%3A//us.puma.com/en_US/PRIVACY_POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puma.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613195752id_/http%3A//us.puma.com/en_US/PRIVACY_POLICY.html) for the most accurate reproduction.*
 
 # PUMA Online Store - Help > Privacy Policy
 
