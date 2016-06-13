@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatebloggerpro.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212213131id_/http%3A//affiliatebloggerpro.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatebloggerpro.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613080847id_/http%3A//affiliatebloggerpro.com/privacy-statement) for the most accurate reproduction.*
 
 # Affiliate Blogger PRO » Privacy
 
