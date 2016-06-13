@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardprocess.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214212503id_/https%3A//www.standardprocess.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardprocess.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613212029id_/https%3A//www.standardprocess.com/policy/privacy) for the most accurate reproduction.*
 
 # Standard Process - Privacy
 
@@ -33,7 +33,7 @@ Within 30 days of receiving such a request, we will provide a list of the catego
 
 ####  Opt Out
 
-You may choose not to receive marketing materials or advertisements regarding Standard Process products by simply notifying Standard Process directly at info@standardprocess.com or at 800-848-5061. Upon receipt and processing of an “opt out” request, Standard Process will, within a commercially reasonable amount of time, remove your information from any future unsolicited marketing communications and advertisements. Your request not to receive marketing materials or advertisements will not apply to information that you request to receive.
+You may choose not to receive marketing materials or advertisements regarding Standard Process products by simply notifying Standard Process directly at sporders@standardprocess.com or at 800-558-8740. Upon receipt and processing of an “opt out” request, Standard Process will, within a commercially reasonable amount of time, remove your information from any future unsolicited marketing communications and advertisements. Your request not to receive marketing materials or advertisements will not apply to information that you request to receive.
 
 ####  Security, No Liability
 
