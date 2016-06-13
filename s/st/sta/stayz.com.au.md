@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stayz.com.au privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211013638id_/http%3A//travel.stayz.com.au/info/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stayz.com.au privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613123244id_/http%3A//travel.stayz.com.au/info/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stayz
 
@@ -223,6 +223,8 @@ Stayz Privacy Officer
 PO Box 4020
 
 Sydney, NSW 2001
+
+privacy@stayz.com.au 
 
 **11\. Changes to this Policy**
 
