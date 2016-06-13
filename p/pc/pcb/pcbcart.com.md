@@ -1,79 +1,35 @@
-> *The following text is extracted and transformed from the pcbcart.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055310id_/http%3A//www.pcbcart.com/cart.php%3Ftarget%3Dhelp%26mode%3Dprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcbcart.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613120128id_/http%3A//www.pcbcart.com/privacy-policy) for the most accurate reproduction.*
 
-# PCBCART - Professional China Prototype PCB Manufacturer - Help section
+# Privacy policy | Professional PCB Manufacturer PCBCART
 
-| [](https://web.archive.org/web/20141120055310id_/http%3A//www.pcbcart.com/cart.php)  
----  
-|    
-|   Privacy statement  
----  
-  
-Our Privacy Statement is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and   
-services.
+PCBCART provides many benefits to our customers which require the sharing of private information from our customers. PCBCART is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Therefore, this Privacy Policy agreement shall apply to PCBCATR, and thus it shall govern any and all data collection and usage thereof. Through the use of [www.pcbcart.com](http://www.pcbcart.com/) you are herein consenting to the following data procedures expressed within this agreement. 
 
-When you visit our Web site you may provide us with two types of information: personal information you   
-knowingly choose to disclose that is collected on an individual basis and Web site use information collected   
-as you and others browse our Web site.
+#### Information Collected
 
-**Personal Information**
+This website collects various types of information, including: 
 
-    Once you make a purchase, request a catalog or other information, your name, shipping/mailing address,   
-telephone number, email address and fax number are included in our customer file.
+(a) Voluntarily provided information which may include your name, address, email address, billing information etc., which may be used when you purchase products and/or services and to deliver the services you have requested. 
 
-This information is used to ensure a quick, efficient flow of products and services to you.
+(b) Information automatically collected when visiting [www.pcbcart.com](http://www.pcbcart.com/), which may include cookies, third party tracking technologies and server logs. 
 
-This information may also be used for other purposes as outlined below.
+Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed membership forms, and emails. It is the intent of this site to use personal information only for the purchase for which it was requested and any additional uses specifically provided on this site. 
 
-**Postal Addresses**
+#### Use of Information Collected
 
-      
-Occasionally, PCBCART may make the names and addresses of our customer list available to carefully screened   
-companies that offer products and/or services that may be of interest to you.
+PCBCART may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personal identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from [www.pcbcart.com](http://www.pcbcart.com/). PCBCART may also be in contact with you with regards to completing surveys related to your opinion of current or potential future services that may be offered. PCBCART does not now, nor will it in the future, sell, rent or lease any personally identifiable information to any third parties. 
 
-You may elect to opt out of either of these uses of your mailing address by contact us.
+#### Unsubscribe or Opt-Out
 
-**Email Addresses**
+All users and/or visitors to [www.pcbcart.com](http://www.pcbcart.com/) website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by newsletters. Each newsletter we send to you contains an automated button to unsubscribe to our website. If you wish to do this, simply follow the instructions at the end of any e-mail sent through this system. However, please make sure to allow our transactional e-mails if you plan to order from us in the future. Otherwise, important order information or questions with your files will not be sent to you. 
 
-      
-Email addresses may be used to communicate information of interest to you about PCBCART. This includes Order   
-Shipment/Tracking Information, Service Change Information or other PCBCART promotional emails. You may elect to opt out of any or all of these emails by contact us.
+#### Changes to Privacy Policy Agreement
 
-Emails may be sent by PCBCART or an authorized agent working for PCBCART. All authorized agents operate with a   
-confidentiality agreement. Information sent in this manner will always include "opt out" options.
+Due to changing technology and marketing requirements, PCBCART reserves the right to update and/or change the terms of our privacy policy in the future. If at any point in time PCBCART decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collectedly, users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner. 
 
-Email addresses are never rented, sold or traded to third parties.
+#### Acceptance of Terms
 
-**Notice of New Services and Changes**
+Through the use of this website, you're hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you do not agree with any of these terms, you should refrain from further use or access to this site. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you're in agreement and acceptable of such changes. 
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Web   
-site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request
+#### Contact Us
 
-**Security of your Personal Information:**
-
-We strictly protect the security of your personal information and carefully protect your data from loss,   
-misuse, disclosure, alteration, destruction or unauthorized access. be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned. When you register with our website, PCBCART will not share your personal information with any third party.
-
-**Web Site Use Information**
-
-    Each time you visit our Web Site, our server automatically recognizes and logs your IP address. An IP address is basically the address of the computer making a request to our web server. No personal information or detail is obtained in this data interchange—a visitor's browser is not designed to provide this information.
-
-During a Web site visit, we may ask a customer for contact information (email address, telephone number, fax number and addresses for shipping/billing). This information is collected on a voluntary basis—and only with customer approval.
-
-**Cookies**
-
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard   
-drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your   
-browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
-
-As you shop on our Web site, the site uses its cookies to differentiate you from other shoppers so your   
-shopping cart is only available to you. In some cases, we also use cookies to prevent you from seeing   
-unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies do not   
-allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
-
-  
-**Contact Us**
-
-If you have any questions or comments concerning our privacy statement please contact us.  
-  
-  
-|  | 
+If you have any questions or concerns about this Privacy Policy Agreement, please feel free to reach us via e-mail at sales@pcbcart.com. 
