@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamestiny.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210052620id_/http%3A//gamestiny.com/About/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestiny.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613081653id_/http%3A//gamestiny.com/About/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | About
 
