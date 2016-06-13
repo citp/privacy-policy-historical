@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capetownmagazine.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212163645id_/http%3A//www.capetownmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capetownmagazine.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613082611id_/http%3A//www.capetownmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
