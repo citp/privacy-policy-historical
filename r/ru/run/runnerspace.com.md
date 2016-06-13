@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the runnerspace.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208212624id_/http%3A//about.runnerspace.com/gprofile.php%3Fdo%3Dtitle%26title_id%3D774%26mgroup_id%3D38022) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnerspace.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613174607id_/http%3A//about.runnerspace.com/gprofile.php%3Fdo%3Dtitle%26title_id%3D774%26mgroup_id%3D38022) for the most accurate reproduction.*
 
 # About - Privacy Policy - Privacy Policy
 
 Privacy Policy  
 Last Revised October 22nd, 2012:
 
-RunnerSpace / Deker Net LLC (“RunnerSpace” or “we”) operates RunnerSpace.com. This Privacy Policy describes RunnerSpace’s use and sharing of personally identifiable information (“PII”-- your full name, email address, mailing address, telephone number, or credit card number) that Members voluntarily provide to RunnerSpace when they register (also known as “Registration PII”). The Term “User” refers to a Visitor or a Member. This Privacy Policy applies to the services offered by RunnerSpace, including any RunnerSpace-branded URL (the “RunnerSpace Website”), the RunnerSpace messaging system, the RunnerSpace application developer service and other features (for example, video embedded players, apps, personal websites, event websites, pages etc), RunnerSpace mobile services, and any other features, content, or applications offered from time to time by RunnerSpace in connection with the RunnerSpace Website (collectively, the “RunnerSpace Services”). The RunnerSpace Services are hosted in the United States.
+RunnerSpace / Deker Net LLC (“RunnerSpace” or “we”) operates RunnerSpace.com, Athletic.net and DyeStat. This Privacy Policy describes RunnerSpace’s use and sharing of personally identifiable information (“PII”-- your full name, email address, mailing address, telephone number, or credit card number) that Members voluntarily provide to RunnerSpace when they register (also known as “Registration PII”). The Term “User” refers to a Visitor or a Member. This Privacy Policy applies to the services offered by RunnerSpace, including any RunnerSpace-branded URL (the “RunnerSpace Website”), the RunnerSpace messaging system, the RunnerSpace application developer service and other features (for example, video embedded players, apps, personal websites, event websites, pages etc), RunnerSpace mobile services, and any other features, content, or applications offered from time to time by RunnerSpace in connection with the RunnerSpace Website (collectively, the “RunnerSpace Services”). The RunnerSpace Services are hosted in the United States.
 
 The RunnerSpace Website is a general audience site and does not knowingly collect PII from children under 13 years of age.
 
@@ -86,6 +86,6 @@ Please be aware that whenever you voluntarily post public information to Blogs, 
 If you would like to communicate with us about this Privacy Policy or RunnerSpace’s collection and use of your PII, please use the Contact info below.
 
 RunnerSpace  
-P.O. Box 3915  
-Eugene, OR 97403  
+P.O. Box 10984  
+Eugene, OR 97440  
 contact@runnerspace.com
