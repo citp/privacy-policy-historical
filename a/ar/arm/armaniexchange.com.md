@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armaniexchange.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218122544id_/http%3A//www.armaniexchange.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armaniexchange.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613074148id_/http%3A//www.armaniexchange.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy & Security : Customer Service by Armani Exchange
 
@@ -122,9 +122,9 @@ If you are visiting our Website from a location outside of the United States, pl
 
 Armani Exchange collects various types of personal information about you, both online and offline, as noted above. Under California law, Armani Exchange customers who are California residents may request certain information about our disclosures of your personal information during the prior calendar year to third parties for their direct marketing purposes. These rights apply if you have communicated with us or purchased something from us. To make such a written request, Please write us at the following address:
 
-111 8th Avenue 9th Floor
+450 W. 15th St 3rd Floor
 
-Attn: Internet Department
+Attn: Armani Exchange Internet Department
 
 New York, NY 10011
 
@@ -136,11 +136,11 @@ We may change our Privacy Policy from time to time. We encourage you to review o
 
 In the event you have any questions about the Armani Exchange Privacy Policy, Please contact us at:
 
-A|X Armani Exchange
+Giorgio Armani Corp.
 
-111 8th Avenue 9th floor 
+450 W. 15th St 3rd Floor
 
-Attn: Internet Department
+Attn: Armani Exchange Internet Department
 
 New York, NY 10011
 
