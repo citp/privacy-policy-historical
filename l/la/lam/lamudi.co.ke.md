@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamudi.co.ke privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000424id_/http%3A//www.lamudi.co.ke/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamudi.co.ke privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613043117id_/http%3A//www.lamudi.co.ke/privacy-policy) for the most accurate reproduction.*
 
 # Lamudi - Privacy policy
 
