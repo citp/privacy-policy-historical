@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogbongeblog.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214174159id_/http%3A//goo.gl/3Hr8t) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogbongeblog.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613192457id_/http%3A//goo.gl/3Hr8t) for the most accurate reproduction.*
 
 # Tech Blog in Nigeria for How TOs : OgbongeBlog: Privacy |
 
