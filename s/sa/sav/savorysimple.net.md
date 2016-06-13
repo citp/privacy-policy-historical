@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savorysimple.net privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214134830id_/http%3A//www.savorysimple.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savorysimple.net privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613101150id_/http%3A//www.savorysimple.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Savory Simple
 
@@ -59,6 +59,3 @@ If you have any questions about this policy, our practices related to this site,
 **Updates and Changes**
 
 We reserve the right, at any time, to add to, change, update, or modify this privacy policy, simply by posting such change, update, or modification on Savory Simple and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms.
-
-  
-
