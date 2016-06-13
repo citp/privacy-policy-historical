@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pageone.ph privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203091451id_/http%3A//www.pageone.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageone.ph privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614015634id_/http%3A//www.pageone.ph/privacy-policy) for the most accurate reproduction.*
 
-# PageOne.ph. Conversation starts here.
+# PageOne.ph. Conversations start here.
 
-PageOne.ph is a website that is developed and managed by BBCOMM Philippines, Inc. 
+PageOne.ph is a website that is developed and managed by PAGEONE MEDIA & COMMUNICATIONS PHILIPPINES, Inc. 
 
 This privacy statement discloses the privacy practices of PageOne.ph. This website wants to demonstrate its commitment to your privacy, and as such we disclose our information and user privacy practices.
 
@@ -16,7 +16,7 @@ PageOne.ph itself occasionally makes use of cookies. A cookie is a piece of data
 
 **C. Information Usage**
 
-When PageOne.ph holds surveys or promos, you may be required to you’re your contact information (such as name, e-mail address or mobile number) and demographic information (such as income level, gender etc.). This information is used to contact you about the services on our site for which you have expressed interest or to inform you if you won in a certain contest or promo. It is optional for you to provide and unique identifiers (such as social security number or driver’s license number).
+When PageOne.ph holds surveys or promos, you may be required to input your contact information (such as name, e-mail address or mobile number) and demographic information (such as income level, gender etc.). This information is used to contact you about the services on our site for which you have expressed interest or to inform you if you won in a certain contest or promo. It is optional for you to provide and unique identifiers (such as social security number or driver’s license number).
 
 **C. Information Sharing**
 
