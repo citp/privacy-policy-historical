@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the sarkarinaukrisms.in privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215042724id_/http%3A//sarkarinaukrisms.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkarinaukrisms.in privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613205202id_/http%3A//sarkarinaukrisms.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | सरकारी नौकरी, Sarkari Naukri , Latest Government Jobs In India 2015
-
-  
-**Warning** : array_map() [[function.array-map](https://web.archive.org/web/20151215042724id_/http://sarkarinaukrisms.in/privacy-policy/function.array-map)]: Argument #2 should be an array in **/home/pickhunt/public_html/static/lib/category-template.php** on line **1158**  
-
+# Privacy Policy
 
 Privacy Policy for sarkarinaukrisms.in
 
