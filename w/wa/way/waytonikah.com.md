@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the waytonikah.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207032817id_/http%3A//www.waytonikah.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waytonikah.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613101739id_/http%3A//www.waytonikah.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Way to Nikah
+
+### Privacy Policy
 
 www.waytonikah.com is an electronic website targeting to provide premium matrimonial alliance services. We ensure to protect the privacy of the users as per our terms and conditions.
 
@@ -18,10 +20,10 @@ www.Waytonikah.com, respects the privacy of our users. This document outlines th
 
 **Log Files**
 
-Like many other Web sites, www.Waytonikah.com uses log files that includes information such as IP addresses, type of browser used, Internet Service Provider ( ISP ), date/time, exit pages, frequency of clicks to evaluate trends, manage the site, track user’s movement in the site, and collect demographic information. IP addresses and other related information are not linked to any information that might identify an individual personally.
+Like many other Web sites, www.Waytonikah.com uses log files that includes information such as IP addresses, type of browser used, Internet Service Provider ( ISP ), date/time, exit pages, frequency of clicks to evaluate trends, manage the site, track userâ€™s movement in the site, and collect demographic information. IP addresses and other related information are not linked to any information that might identify an individual personally.
 
 **Cookies and Web Beacons**
 
-www.Waytonikah.com use cookies to store information about visitor’s preferences, record user-specific information such as pages the user accessed or visited, customize Web page content based on user’s browser type or other information that the user sends via their browser.
+www.Waytonikah.com use cookies to store information about visitorâ€™s preferences, record user-specific information such as pages the user accessed or visited, customize Web page content based on userâ€™s browser type or other information that the user sends via their browser.
 
-Contact : [info@waytonikah.com](mailto:info@waytonikah.com) for further clarifications. 
+Contact : info@waytonikah.com for further clarifications.
