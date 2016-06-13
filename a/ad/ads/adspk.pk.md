@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adspk.pk privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212222649id_/http%3A//adspk.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspk.pk privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613085434id_/http%3A//adspk.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Latest Govt Jobs in Pakistan, Lahore, Karachi, Islamabad
 
