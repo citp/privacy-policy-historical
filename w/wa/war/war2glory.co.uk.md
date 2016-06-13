@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the war2glory.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619185711id_/http%3A//www.war2glory.com/en/footer-menu/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the war2glory.co.uk privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613214540id_/http%3A//www.war2glory.com/en/footer-menu/privacy-policy.html) for the most accurate reproduction.*
 
 # WAR2GLORY: Privacy Policy
 
