@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bmstores.co.uk privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910020042id_/http%3A//www.bmstores.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmstores.co.uk privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613092913id_/http%3A//www.bmstores.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# B&M: Privacy Policy
+# Privacy Policy | B&M
 
 This privacy policy sets out how B&M Retail Limited uses and protects any information that you give B&M Retail Limited when you use this website.
 
