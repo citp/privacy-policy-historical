@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the idealab.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206181136id_/http%3A//www.idealab.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealab.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613214959id_/http%3A//www.idealab.com/privacy.html) for the most accurate reproduction.*
 
 # Idealab | Privacy Policy
-
-Privacy Policy
-
-Idealab ( **Idealab** ) is committed to protecting your privacy. Pursuant to this Privacy Policy (the **Policy** ), information collected via the website [www.idealab.com](https://web.archive.org/) (the **Site** ) is used only in the manner and for the purposes described below. This Policy discloses the privacy practices governing our knowing collection, use, and disclosure of information. Capitalized terms shall have the meaning designated in the applicable Site Terms of Service, or other applicable contract or license.
 
 Definitions
 
@@ -30,7 +26,7 @@ Information Collected
 
 We collect and store Non-Personal Information, including for example site referral information, browsing patterns, technical information (e.g., browser type and version, downloads, and operating system), and general Site use information through standard Internet protocols and logging.
 
-We do not collect Personal Information via the Site without your knowledge. If you do send us Personal Information (for example, by utilizing a feedback function on the Site where you provide your email address or send us email from your email program), we may retain such Personal Information for purposes of responding to your email or inquiry, informing you about updates and changes to the Site, and otherwise contacting you regarding the Site.
+We do not collect Personal Information via the Site without your knowledge. If you do send us Personal Information (for example, by utilizing a feedback page on the Site where you provide your name, email, comments), we may retain such Personal Information for purposes of responding to your email or inquiry, informing you about updates and changes to the Site, and otherwise contacting you regarding the Site.
 
 Use and Transfer of Information
 
@@ -40,6 +36,14 @@ Disclosure of Information to Third Parties
 
 We may share aggregated Non-Personal Information about our Site with our business partners or the general public. For example, we may share information regarding the daily number of unique users to our Site with potential corporate partners or others.
 
+We may also share the Information we collect from and about you for the following purposes:
+
+  * Your Information may be transferred to anyone who is helping us make the Site available and functional, like technical agents, service providers, other subcontractors, and our affiliates and consultants.
+  * We might share your Information during due diligence or in preparation for a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation.
+  * We may disclose your Information if permitted or required by law or where we believe such action is necessary in order to protect or defend our interests or the interests of our users or business partners
+
+
+
 Linked Internet Web Sites
 
 The Site may contain hyperlinks that take you to a third party website, document, file, or other materials. These third party hyperlinked materials may contain privacy provisions that are different from those provided herein. We are not responsible for the collection, use, or disclosure of information collected through these web sites, and we expressly disclaim any and all liability related to such collection, use, or disclosure.
@@ -48,4 +52,12 @@ Sale of Assets
 
 In the event that another company acquires all or substantially all of the assets related to the Site or other business of Idealab, we reserve the right to include Information among the assets transferred to the acquiring company.
 
-REVISED: December 2009
+General
+
+We reserve the right to change this Privacy Policy at any time, and will do so by posting changes to this Privacy Policy.
+
+The Site is hosted in the United States and are intended for and directed to users in the United States. If you are located outside of the United States, please be advised that we process and store information in the United States and your use of this Site constitutes your consent to and understanding of this processing.
+
+Information that we collect is stored on servers that we manage, using reasonable administrative, technical and physical safeguards designed to protect against unauthorized access or disclosure of data. Please be aware that no data transmission over the Internet is guaranteed to be 100% secure. 
+
+REVISED: March 2016
