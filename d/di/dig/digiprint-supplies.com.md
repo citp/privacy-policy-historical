@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiprint-supplies.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213164634id_/http%3A//www.digiprint-supplies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiprint-supplies.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613083142id_/http%3A//www.digiprint-supplies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DIGIPRINT SUPPLIES
 
@@ -97,8 +97,4 @@ configure your browser to do so (see 10 below), alternatively you can ask your i
 
  **10\. Cookies**
 
-Information on how to block cookies can normally be found within the help features of your browser. Information can also be found on the main browser websites;
-
-http://www.microsoft.com (Internet Explorer)  
-  
-http://channels.netscape.com/ns/browsers/default.asp (Netscape)
+Information on how to block cookies can normally be found within the help features of your browser. 
