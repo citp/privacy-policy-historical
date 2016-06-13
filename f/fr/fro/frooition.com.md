@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frooition.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213080923id_/http%3A//www.frooition.com/us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frooition.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613184740id_/http%3A//www.frooition.com/us/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | eBay Store Design | eBay Shop Design | eBay Listing Template Design | eBay Templates by Frooition | US
+# Our Privacy Policies - Frooition Worldwide Designs US
 
 Frooition.com Located at 
 
