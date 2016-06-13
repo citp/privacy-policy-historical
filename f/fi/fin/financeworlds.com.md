@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financeworlds.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219165644id_/http%3A//financeworlds.com/index.php/finance-worlds/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financeworlds.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613030943id_/http%3A//www.financeworlds.com/index.php/finance-worlds/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
