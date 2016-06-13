@@ -1,65 +1,119 @@
-> *The following text is extracted and transformed from the amway.in privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009221247id_/http%3A//www.amway.in/shop/content/pagebuilder.aspx/amway-support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amway.in privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613234836id_/http%3A//www.amway.in/store/amway/en/INR/static-pages/ABO_PCPrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# AmwayPrivacyPolicy
 
-The purpose of this Privacy Policy is to inform you about the type of information we may collect when you visit http://[www.amway.in](http://www.amway.in/), how we may use the information and the choices you have regarding our use of your information and your ability to correct the information or its use at any point.
+This Privacy Policy describes how Amway India Enterprises Pvt. Ltd. (hereinafter " **Amway** ") uses personal data collected or received from Amway Business Owners (" **ABOs** ") and Preferred Customers (" **PCs** "). It describes how we may collect or receive your personal data, the types of personal data we may collect, how we use, share and protect these data, how long we retain these data, your rights, and how you can contact us about our privacy practices.
 
-**_What Information We Collect and How We Use It ?_**
+**How We May Collect or Receive Personal Data from You**
 
-Any information we collect on our Site generally falls into the following two categories: Personally Identifiable Information and Aggregate Information. 
+_Registration_. Amway collects your personal data through the registration form that you complete and send to us in paper form or electronically through the Amway website (the "Website") in order to become an ABO or PC.
 
-**_Personally Identifiable Information:_**
+_Logged in as ABO or PC_. If you are logged in on the Website as an ABO or PC we may collect your personal data from you, for example, when you order products or services.
 
-This refers to information that lets us know specifically who you are. In general, you can visit our Site without telling us who you are or revealing any Personally Identifiable Information. You may however, voluntarily provide Personally Identifiable Information (such as name, e-mail address, and country of origin) for us to contact you, including via e-mail, to respond to your comments or inquiries. In such event, we might maintain a record or your contact, including such Personally Identifiable Information, in a file specific to you. We use this information to provide better service incase you contact us again.
+_Contacting Us_. You may also choose to submit your personal data and other information to us through various communication channels provided on the "Contact Us" webpage of the Website, for example, Amway e-mail addresses, telephone numbers or online forms.
 
-**_Aggregate Information:_**
+_Cookies_. If you are logged in on the Website we may also use cookies or similar technologies that collect certain Website usage information when you access, view and use the Website. A cookie is a data file placed on a computer or mobile device when it is used to visit websites. To learn more about the cookies used by Amway, please read the "[ **Website Privacy Notice**](http://www.amway.in/store/amway/en/INR/static-pages/privacyPolicy)".
 
-This refers to information that does not by itself identify you as a specific individual. Such information would include the Uniform Resource Locator ("URL") or the Web site that referred you to our Site, your Internet Protocol ("IP") address (a number automatically assigned to your computer whenever you surf the Web), your operating system and browser type, and any search terms that you enter on our Site. Our Web server aggregates this information in order to monitor the level of activity on our Site, evaluate its effectiveness, and improve the content of our Site in order to make your visit an easy and enjoyable experience.  
-We may collect, compile, store, publish, promote, report, or otherwise disclose or use any Aggregate Information, provided that, such information does not personally identify you. We do not correlate any Personally Identifiable Information with the Aggregate Information that we collect on our Site. If we do correlate any Aggregate Information to you, it will be protected like any other Personally Identifiable Information under this Privacy Policy. 
+You may disable cookies in your browser's settings (e.g., under the "Preferences" or "Internet Options" features of your browser). Note, however, that some features of the Website may not function properly if you disable the use of cookies. For detailed information on how to manage or delete cookies, visit <http://www.allaboutcookies.org/>.
 
-**_Sharing Your Information_**
+**The Types of Personal Data We May Collect**
 
-Except as disclosed in this Privacy Policy, we do not sell, trade, rent, or otherwise retransmit any Personally Identifiable Information we collect online unless we have your permission. Any Personally Identifiable Information you provide to us will be stored in Amway India’s databases in India.   
-Where we engage third-party agents or contractors to perform services on our Site, we will require them to observe the intent of this Privacy Policy. From time to time, we may be required to provide Personally Identifiable Information in response to court order, subpoena, or government investigation. We also reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. We may release Personally Identifiable Information when we believe that such release is reasonably necessary to enforce or apply our Terms of Use or to protect the rights, property, and safety of others and ourselves. Amway India Enterprises Pvt. Ltd. or its related entities could merge with or be acquired by another business entity, or their respective assets could be acquired. Should such a merger or acquisition occur, you should expect that we would share some or all of your Personally Identifiable Information to companies serving you and other users of our Site.
+We may collect the following personal data from you:
 
-**_Your Choices_**
+  * Contact information ( _e.g._ , name, postal or e-mail address, fax number and phone number);
+  * Gender, age, nationality, date and place of birth;
+  * Marital Status
+  * ABO or PC registration number, username;
+  * Passport details (including number, issue date, issue location and expiration date) and National ID number to the extent permitted or required by applicable law;
+  * ABO or PC performance information ( _e.g._ , class, status, group and personal qualifications under the Amway Sales and Marketing Plan and financial/bonus history);
+  * Product preferences, purchasing habits, purchasing history and spending behaviour;
+  * Communication preferences; and
+  * Your website usage, IP-address, browser type and operating system.
 
-Your permission is always secured first. Except as provided under this Policy, we will not use or share the Personally Identifiable Information collected on our Site in ways unrelated to the purpose for which you provided the information, including those described above, without providing you a choice whether to permit any such unrelated uses. 
 
-**_Accessing and correcting Your Information_**
 
-We take reasonable measures to ensure that any Personally Identifiable Information we collect on our Site is accurate, current, complete, and reliable for its intended use. If you wish to update or otherwise correct Personally Identifiable Information you have provided us, you may contact us as described in the "Contact Us" section, below. 
+**The Types of Sensitive Personal Data We May Collect**
 
-**_Protecting Your Information_**
+We may collect the following **Sensitive** personal data from you:
 
-We acknowledge your trust and are committed to take reasonable steps to protect Personally Identifiable Information you provide online from loss, misuse, and unauthorized access. We employ physical, electronic, and managerial processes to safeguard and secure your information. 
+  * Passwords for accessing our Site
+  * Payment information ( _e.g._ , such as bank account or credit card numbers);
 
-**_Use of Cookies on the Web Site_**
 
-A "cookie" is a small data file transferred to your computer's hard drive that allows a Web site to respond to you as an individual, gathering and remembering information about your preferences in order to tailor its operation to your needs, likes and dislikes. Overall, cookies are safe, as they only identify your computer to customize your Web experience. Accepting a cookie does not provide access to your computer or any Personally Identifiable Information about you, other than the information you choose to share. Other servers cannot read them, nor can they be used to deliver a virus. 
 
-Most browsers automatically accept cookies, but you can usually adjust yours (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests, refuse certain cookies, or decline cookies completely.
+We may collect other personal data in exceptional circumstances only. If we do need to process such personal data about you, we will make sure that there is a valid legal basis for doing so (e.g. your explicit consent).
 
-**_Use of Active-X and Java Applets on this Site_**
+**How We Use the Personal and Sensitive Data We Collect**
 
-Active-X programs and Java Applets are executable programs transferred to your computer's hard drive that cause your computer to perform functions in connection with your visit to a Web site. 
+We may use the information we obtain about you to:
 
-**_Use of Third-Party Media and Research Companies_**
+  * To manage your registration as an ABO or PC.
+  * Create and manage your online account and respond to your inquiries;
+  * Process your orders of products or services;
+  * Communicate with you (e.g., about products or services that we offer, or intend to offer);
+  * Operate, evaluate and improve our business, including by: 
+    * Evaluating your satisfaction with our current communications, materials, products and/or services;
+    * Developing new products and services and determining the effectiveness of our advertising; and
+    * Tracking and analyzing your use of products, materials and/or services;
+  * Track, document and analyze your line of sponsorship;
+  * Assessing your performance under your Amway Business or Member Registration Agreement with us;
+  * In case of an ABO, provide business performance information to you ( _e.g._ , information on your line of sponsorship, purchase volumes, earned bonuses, levels of awards, your referring ABO or, and your upline ABO under the Amway Sales and Marketing Plan);
+  * In case of an ABO, provide your name, address, telephone number or e-mail address to ABOs in both your upline and your downline.;
+  * In case of a PC, provide information to you related to your purchases and under the loyalty program.
+  * In case of PC, your name, address, telephone number or e-mail address to your Servicing Distributor and other ABOs in his upline.
+  * Facilitate your use of the Website through the use of cookies ( _e.g._ , to offer the shopping basket faciity, to remember log in details and language preferences, etc.);
+  * Improve the Website, including by tracking and monitoring your use of the Website through the use of cookies, and to diagnose problems with the software or hardware we use; 
+  * Perform accounting, auditing, billing and collection activities; 
+  * Enforce contractual terms and conditions; 
+  * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities; and
+  * Comply with applicable legal requirements, industry standards and our policies.
 
-Our Site does not run third-party advertisements, nor do we use third-party media and research companies to place advertisements for us on other parties' Web sites. 
 
-**_Links To Other Web Sites_**
 
-Links to third party Web sites may be provided solely for your information and convenience. If you use these links, you will leave our Site. This Privacy Policy does not cover the information practices of those Web sites linked to our Site, nor do we control their content or privacy policies. We suggest that you carefully review the privacy policies of each site you visit. 
+If you choose not to provide your personal data or withdraw consent in writing subsequently, we may not be able to provide the above services and reserve the right to terminate the ABO or PC contract with you.
 
-Currently we do not provide any links to other Web Sites from our Web Site http://www.amway.in
+**How We May Share Personal and Sensitive Data**
 
-**_Changes To This Policy_**
+Amway does not sell, rent or trade or publish your personal and sensitive data except as required by law. Amway may share your personal and sensitive data only with:
 
-Any updates or changes to the terms of this Privacy Policy will be posted here on our Site http://[www.amway.in](http://www.amway.in/) and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Policy has changed. 
+  * Entities within the Amway group to whom it is reasonably necessary or desirable for Amway to disclose personal and Sensitive data;
+  * Government authorities or other third parties, if required by law or reasonably necessary to protect the rights, property and safety of others or ourselves.
 
-By using our Site, you acknowledge acceptance of this Privacy Policy in effect at that time of use.
 
-**_Contact Us_**
 
-If you have any concerns about Amway India Enterprises Pvt. Ltd.’s use of your information or about this Privacy Policy, please send e-mail to [India_Privacy@amway.com](mailto:India_Privacy@amway.com), we will make every reasonable effort to address your concerns and remedy any problems you bring to our attention.
+**How We May Share Personal Data**
+
+  * For ABOs  
+With ABOs in your upline or downline organization, to support your business and/or allow communication regarding product advice, ordering advice and product information for the products that you order from Amway; and
+  * For PCs  
+With your Servicing Distributor and his upline ABOs.
+
+
+
+**International Data Transfers**
+
+We may transfer the personal data we collect about you to other Amway affiliates or other entities of Amway's mother company Alticor Inc. Some of them may be located in in countries other than the country in which the data were originally collected. When we transfer your personal data to Amway entities in other countries, we will protect that data as described in this Privacy Policy and in accordance with applicable law.
+
+**How We Protect Personal Data**
+
+We maintain appropriate technical and organizational security safeguards designed to protect the personal data you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+**How Long We Retain Personal Data**
+
+We store personal data for as long as necessary to fulfil the purposes for which we collect the data (see above under " **How We Use the Personal Data We Collect** "), except if required otherwise by law.
+
+**Updates to this Privacy Policy**
+
+Amway may update this Privacy Policy from time to time. Any updates or changes to the terms of this Privacy Policy will be posted here on our website [www.amway.in](http://www.amway.in/store/) and the date of the newest version posted. Please check back frequently, especially before you submit any Personal and/or Sensitive Information, to see if this Privacy Policy has changed. We will notify you of any significant changes to this Privacy Policy on the relevant Amway websites, in official Amway publications, or through other appropriate communication channels. All changes shall be effective from the date of publication, unless otherwise provided in the notification.
+
+**Acceptance to this Privacy Policy**
+
+By signing the ABO Contract or the Preferred Customer Agreement, you acknowledge acceptance of this Privacy Policy in effect at the time of use.
+
+**Your Rights**
+
+Your rights under applicable law may include access to the personal data we process about you and the right to have such personal data corrected.
+
+**How to Contact Us**
+
+If you have any comments or inquiries about this Privacy Policy, if you would like to update information we have about you, or to exercise your rights, you may contact our Grievance Officer, Mr. Jatinder Singh at [care@amway.com](mailto:care@amway.com).
