@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the touchlocal.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316073312id_/http%3A//www.touchlocal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchlocal.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613034313id_/http%3A//www.touchlocal.com/privacy-policy) for the most accurate reproduction.*
 
-# Touch Local Business Directory | Privacy Policy
+# Touch Local | Privacy Policy
 
 By using this website you give your consent that all personal data that you submit may be processed by Scoot in the manner and for the purposes described in the following Privacy Policy. 
 
