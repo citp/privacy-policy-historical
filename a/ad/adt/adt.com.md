@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the adt.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213055325id_/http%3A//www.adt.com/about-adt/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adt.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613092814id_/http%3A//www.adt.com/about-adt/legal/privacy-policy) for the most accurate reproduction.*
 
 # ADT Security Privacy Policy - ADT Security Services
 
 Last updated on August 18, 2015
+
+[En Español](https://web.archive.org/about-adt/legal/politica-de-privacidad "En Español")
 
 ADT LLC dba ADT Security Services (referred to as “ADT”, “our”, “us”, or “we”), recognizes that your privacy is important. This Online Privacy Policy (“Policy”) describes how we use the information we collect from you online in connection with www.ADT.com and other websites (“Sites”) and services ("Services") operated by ADT which link to this Policy. This Policy does not cover information we collect from you through offline means, Internet of Things products and services, and other specific ADT products. To learn more about our privacy practices, please visit the ADT Privacy Center at www.adt.com/privacy.
 
