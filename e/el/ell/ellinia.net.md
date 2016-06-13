@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ellinia.net privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213031039id_/http%3A//ellinia.net/threads/privacy-policies-and-legal-disclaimer.38745) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellinia.net privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613105720id_/http%3A//ellinia.net/threads/privacy-policies-and-legal-disclaimer.38745) for the most accurate reproduction.*
 
 # Privacy Policies and Legal Disclaimer | Ellinia - MapleStory Private Server
 
 Thread Status:
      Not open for further replies.
 
-  1. [](https://web.archive.org/web/20151213031039id_/http://ellinia.net/threads/privacy-policies-and-legal-disclaimer.38745/members/october.2/)
+  1. [](https://web.archive.org/web/20160613105720id_/http://ellinia.net/threads/privacy-policies-and-legal-disclaimer.38745/members/october.2/)
 
 ###  _**Staff Member**_ _**Supreme Leader**_
 
@@ -13,10 +13,10 @@ Joined:
     Oct 17, 2014
 
 Messages:
-    [148](https://web.archive.org/web/20151213031039id_/http://ellinia.net/threads/privacy-policies-and-legal-disclaimer.38745/search/member?user_id=2)
+    [140](https://web.archive.org/web/20160613105720id_/http://ellinia.net/threads/privacy-policies-and-legal-disclaimer.38745/search/member?user_id=2)
 
 Likes Received:
-    636
+    626
 
 >   
 >  **Our Commitment To Privacy**
@@ -113,7 +113,7 @@ Likes Received:
 > 
 > This website disclaimer is based on an original template created by website-contracts.co.uk and distributed by freenetlaw.com​
 
-[Takeoverkyle](https://web.archive.org/web/20151213031039id_/http://ellinia.net/threads/privacy-policies-and-legal-disclaimer.38745/members/takeoverkyle.22896/) and [Bear](https://web.archive.org/web/20151213031039id_/http://ellinia.net/threads/privacy-policies-and-legal-disclaimer.38745/members/bear.26801/) like this. 
+[Takeoverkyle](https://web.archive.org/web/20160613105720id_/http://ellinia.net/threads/privacy-policies-and-legal-disclaimer.38745/members/takeoverkyle.22896/) and [Bear](https://web.archive.org/web/20160613105720id_/http://ellinia.net/threads/privacy-policies-and-legal-disclaimer.38745/members/bear.26801/) like this. 
 
 
 
