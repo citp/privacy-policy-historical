@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cablemover.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207052311id_/http%3A//www.cablemover.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablemover.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613143537id_/http%3A//www.cablemover.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | CableMover
 
@@ -12,7 +12,7 @@ Apt / Unit
 
 ZIP Code
 
-Email (For a reminder of your results. No spam, we promise.)
+Email (For a reminder of your results.)
 
 [submit](javascript: void\(0\);)
 
