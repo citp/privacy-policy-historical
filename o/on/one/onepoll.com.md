@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onepoll.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906124522id_/http%3A//www.onepoll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepoll.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613105618id_/http%3A//www.onepoll.com/privacy) for the most accurate reproduction.*
 
 # OnePoll | Privacy Policy | OnePoll | Research
 
