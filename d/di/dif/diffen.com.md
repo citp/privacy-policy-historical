@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225190647id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613055030id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
 
 # Diffen:Privacy policy - Difference and Comparison | Diffen
 
-## [edit](https://web.archive.org/difference/index.php?title=Diffen:Privacy_policy&action=edit&section=1 "Edit section: Summary") Summary 
+##  Summary 
 
 If you only read the Diffen website, no more information is collected than is typically collected in server logs by web sites in general. 
 
 If you contribute to Diffen, you are **publishing** every word you post publicly. If you write something, assume that it will be retained forever. This includes articles, user pages and talk pages. Some limited exceptions are described below. 
 
-## [edit](https://web.archive.org/difference/index.php?title=Diffen:Privacy_policy&action=edit&section=2 "Edit section: Publishing on Diffen and public data") Publishing on Diffen and public data 
+##  Publishing on Diffen and public data 
 
 Simply visiting the web site does not expose your identity publicly (but see private logging below). 
 
@@ -57,7 +57,7 @@ You can choose to disable cookies from Diffen or selectively from any of the thi
 
 Many aspects of the Diffen's community interactions depend on the reputation and respect that is built up through a history of valued contributions. User passwords are the only guarantee of the integrity of a user's edit history. All users are encouraged to select strong passwords and to never share them. No one shall knowingly expose the password of another user to public release either directly or indirectly. 
 
-## [edit](https://web.archive.org/difference/index.php?title=Diffen:Privacy_policy&action=edit&section=3 "Edit section: Private logging") Private logging 
+##  Private logging 
 
 Every time you visit a web page, you send a lot of information to the web server. Most web servers routinely maintain access logs with a portion of this information, which can be used to get an overall picture of what pages are popular, what other sites link to this one, and what web browsers people are using. 
 
@@ -80,15 +80,15 @@ It is the policy of Diffen that personally identifiable data collected in the se
 
 Diffen's policy does not permit public distribution of such information under any circumstances, except as described above. Please also see the section on **Cookies and Web Beacons** on this page. 
 
-## [edit](https://web.archive.org/difference/index.php?title=Diffen:Privacy_policy&action=edit&section=4 "Edit section: Sharing information with third parties") Sharing information with third parties 
+##  Sharing information with third parties 
 
 Diffen will not sell or share private information, such as email addresses, with third parties, unless you agree to release this information, or it is required by law to release the information. (please read about 3rd party cookies above.) 
 
-## [edit](https://web.archive.org/difference/index.php?title=Diffen:Privacy_policy&action=edit&section=5 "Edit section: Security of information") Security of information 
+##  Security of information 
 
 Diffen makes no guarantee against unauthorized access to any information you provide. This information may be available to anyone with access to the servers. 
 
-## [edit](https://web.archive.org/difference/index.php?title=Diffen:Privacy_policy&action=edit&section=6 "Edit section: E-mail, mailing lists and IRC") E-mail, mailing lists and IRC 
+##  E-mail, mailing lists and IRC 
 
 **E-mail**
 
@@ -110,7 +110,7 @@ Some email addresses may forward mail to a team of volunteers trusted by Diffen 
 IRC channels are not part of Diffen. By participating in an IRC channel, your IP address may be exposed to other participants. Different channels have different policies on whether logs may be published.  
 
 
-## [edit](https://web.archive.org/difference/index.php?title=Diffen:Privacy_policy&action=edit&section=7 "Edit section: User data") User data 
+##  User data 
 
 Data on users, such as real names or the times at which they edited and the number of edits they have made are publicly available via "user contributions" lists, and in aggregated forms published by other users. 
 
