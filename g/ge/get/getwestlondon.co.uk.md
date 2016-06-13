@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getwestlondon.co.uk privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213222411id_/http%3A//www.getwestlondon.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getwestlondon.co.uk privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613081549id_/http%3A//www.getwestlondon.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Get West London: Number one for news, opinion, sport & celebrity gossip
 
