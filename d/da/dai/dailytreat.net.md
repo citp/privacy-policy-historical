@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dailytreat.net privacy policy that was archived on 2015-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150819222349id_/http%3A//dailytreat.net/about/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytreat.net privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613115554id_/http%3A//www.dailytreat.net/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
-# Latest News
+# Daily Treat - About Us
 
-Last Revised: 23 June 2015 General DailyTreat ("we", "us" or the "Company") is firmly committed to ensure that the personal information that users ("user" or "you") share with us or with other users by accessing our website available at: http:/// (the "Service") is safeguarded and protected. This Privacy Policy outlines our practices with respect to the information we may collect from you when you use the Service, the manners in which we may use such information and the choices that available for you.
+Last Revised: 23 June 2015 General Dailytreat.net ("we", "us" or the "Company") is firmly committed to ensure that the personal information that users ("user" or "you") share with us or with other users by accessing our website available at: http://dailytreat.net/ (the "Service") is safeguarded and protected. This Privacy Policy outlines our practices with respect to the information we may collect from you when you use the Service, the manners in which we may use such information and the choices that available for you.
 
 By accessing, downloading or using our Service, you expressly consent to the terms of this Privacy Policy, and to the collection, use and disclosure of your information, including personal information (as specified below), in accordance with the terms of the Privacy Policy. If you disagree to any term provided herein, please do not install or use the Service. 
 
-In addition to this policy, please also review our Terms of Use http:///about/Terms/ which this Privacy Policy in incorporated thereto by reference, along with such other policies of which you may be notified of by us from time to time.
+In addition to this policy, please also review our Terms of Use http://dailytreat.net/about/Terms/ which this Privacy Policy in incorporated thereto by reference, along with such other policies of which you may be notified of by us from time to time.
 
 The definitions in our Terms of Use apply to this Privacy Policy unless stated otherwise.
 
@@ -83,7 +83,7 @@ Our policy only addresses the use and disclosure of information we collect from 
 • For how long we retain the information we collect?  
 We may rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion.
 
-To remove your email address please contact us at support[at]
+To remove your email address please contact us at support[at]dailytreat.net
 
 Please note that unless you instruct us otherwise we retain the information we collect (including your Personal Information) for as long as needed to provide the Service and to comply with our legal obligations, resolve disputes and enforce our agreements.
 
@@ -100,10 +100,10 @@ Our Service is not intended for minors, in particular children under the age of 
 • How do we safeguard your information?  
 We take great care in implementing and maintaining the security of the Service and your information. We employ industry standard procedures and policies to prevent unauthorized use of our users' information and ensure the safety of such information. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Service, and we make no warranty, express, implied or otherwise, that we will prevent such access. 
 
-If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to misuse our service or acted in an inappropriate manner, please contact us directly at support[at] and our privacy designee shall investigate promptly.
+If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to misuse our service or acted in an inappropriate manner, please contact us directly at support[at]dailytreat.net and our privacy designee shall investigate promptly.
 
 • Updates or amendments to the Privacy Policy  
 We reserve the right to periodically amend or revise the Privacy Policy; Material changes will be effective immediately upon the display of the revised Privacy Policy. The last revision will be reflected in the "Last Revised" heading. Your continued use of the Service, following the notification of such amendments on our website, constitutes your acknowledgement and consent of such amendments to the Privacy Policy and your agreement to be bound by the terms of such amendments.
 
 • How to contact us  
-If you have any questions or queries about our Privacy Policy, please contact us by email in the following address: support[at]. 
+If you have any questions or queries about our Privacy Policy, please contact us by email in the following address: support[at]dailytreat.net. 
