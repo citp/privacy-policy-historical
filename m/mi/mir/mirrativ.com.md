@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirrativ.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212191000id_/http%3A//dena.com/intl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrativ.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613101259id_/http%3A//dena.com/intl/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy (Translation) | DeNA Co., Ltd.
 
