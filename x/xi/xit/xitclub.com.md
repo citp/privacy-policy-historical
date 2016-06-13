@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xitclub.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214232205id_/http%3A//www.xitclub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xitclub.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613222051id_/http%3A//www.xitclub.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
