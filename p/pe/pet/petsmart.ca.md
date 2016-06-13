@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsmart.ca privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214235836id_/http%3A//www.petsmart.ca/helpdeskcategory/-helpdesk-safety-category-helpdesk_category_cmp_20121219_173952%3Farticle%3Dhelpdesk_landing_article_privacy_policy_cmp_20120808_142218) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsmart.ca privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613080102id_/http%3A//www.petsmart.ca/helpdeskcategory/-helpdesk-safety-category-helpdesk_category_cmp_20121219_173952%3Farticle%3Dhelpdesk_landing_article_privacy_policy_cmp_20120808_142218) for the most accurate reproduction.*
 
 # PETSMART - CA
 
