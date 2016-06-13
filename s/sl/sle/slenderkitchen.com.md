@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slenderkitchen.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207125910id_/http%3A//www.slenderkitchen.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slenderkitchen.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614010135id_/http%3A//www.slenderkitchen.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Slender Kitchen
 
@@ -48,7 +48,7 @@ When personal information (such as a credit card number) is transmitted to other
 
 ### Children Under Thirteen
 
-Slender Kitchen does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must aSlender Kitchen your parent or guardian for permission to use this website.
+Slender Kitchen does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
 ### Disconnecting your Slender Kitchen Account from Third Party Websites
 
