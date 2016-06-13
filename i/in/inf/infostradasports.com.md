@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infostradasports.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102063712id_/http%3A//www.infostradasports.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infostradasports.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613044124id_/http%3A//www.infostradasports.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement
 
