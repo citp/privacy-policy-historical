@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwinsider.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023220353id_/http%3A//www.dwinsider.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwinsider.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613063613id_/http%3A//www.dwinsider.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Disney World Information
 
