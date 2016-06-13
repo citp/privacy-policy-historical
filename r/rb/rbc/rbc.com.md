@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbc.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525200801id_/http%3A//www.rbc.com/privacysecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbc.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613162402id_/http%3A//www.rbc.com/privacysecurity) for the most accurate reproduction.*
 
 # Privacy & Security - RBC
 
@@ -8,8 +8,8 @@ RBC adheres to rigorous codes and policies that govern what information may be c
 
 To see our privacy policy and security and fraud information relevant to your location, please select a link:
 
-  * [Canada](https://web.archive.org/web/20090525200801id_/http://www.rbc.com/privacysecurity/ca/index.html)
-  * [USA](https://web.archive.org/web/20090525200801id_/http://www.rbc.com/privacysecurity/us/index.html)
-  * [International](https://web.archive.org/web/20090525200801id_/http://www.rbc.com/privacysecurity/int/index.html)
+  * [Canada](https://web.archive.org/web/20160613162402id_/http://www.rbc.com/privacysecurity/ca/index.html)
+  * [USA](https://web.archive.org/web/20160613162402id_/http://www.rbc.com/privacysecurity/us/index.html)
+  * [International](https://web.archive.org/web/20160613162402id_/http://www.rbc.com/privacysecurity/int/index.html)
 
 
