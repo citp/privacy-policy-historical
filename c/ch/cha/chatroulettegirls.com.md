@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the chatroulettegirls.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208165119id_/http%3A//chatroulettegirls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatroulettegirls.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613031911id_/http%3A//chatroulettegirls.com/privacy) for the most accurate reproduction.*
 
 # ChatrouletteGirls - Privacy Policy
 
-**PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY AND THE TERMS OF USE AGREEMENT ON THIS WEBSITE. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEBSITE. YOU SHOULD CHECK THIS POLICY REGULARLY TO SEE IF ANY CHANGES HAVE BEEN MADE.**
-
-This Privacy Policy is effective as of: 04/25/2013.
+**This Privacy Policy is effective as of: 04/25/2013.**
 
 Your privacy is important, so ChatrouletteGirls, Inc. has created the following Privacy Policy to let you know what information we collect when you visit our website, www.ChatrouletteGirls.com (“Site”), why we collect it and how it is used. This Privacy Policy explains the data collection and use practices of the Site; it does not apply to other online sites, products or services. The terms “you,” “your,” “yours,” and “user” refer to the user or visitor using, accessing, or viewing our Site. The terms “ChatrouletteGirls,” “we,” “us,” and “our” refer to ChatrouletteGirls, Inc.
 
 By using the Site, you consent to the data collection and use practices prescribed in this Privacy Policy. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.
 
-1.Personally Identifiable Information
+**1.Personally Identifiable Information**
 
 “Personally Identifiable Information” means any information that may be used to identify an individual, such as, without limitation, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home. This Site may contain features that require registration. If registration is required to use this Site or portions of this Site, ChatrouletteGirls may collect Personally Identifiable Information from you when you register such as the following: first and last name, address (including zip code), email address, telephone number, authentication data, age, company, country, and such other information. ChatrouletteGirls also automatically receives and records information on our server logs from your browser, including your internet protocol (IP) address, cookie information and the page you request. We may collect and store Personally Identifiable Information when you register to use our Site, ask a question, complete a form, access certain areas of our site, or send us an email. You can choose not to provide us with certain information, but then you might not be able to take advantage of many of our features and we may not be able to provide you with certain services.
 
@@ -20,7 +18,7 @@ For Personally Identifiable Information provided if and when applying for a job 
 
 We may from time to time send you promotional emails relating to our product, promotional, and services offerings. You are given the opportunity to opt-out of receiving promotional e-mails by simply following the "unsubscribe" instructions that appear in every email from us.
 
-2.Non-Personally Identifiable Information
+**2.Non-Personally Identifiable Information**
 
 We, or our third party service providers, collect and store certain other information automatically whenever you interact with the Site. For example, we collect your internet protocol (IP) address, URL, browser information and reference site domain name every time you visit the Site. We also collect information regarding customer traffic patterns, site usage, hits to our server, Site, page views, date and time of your query, and navigational patterns. The information that is collected in this manner does not provide us with any Personally Identifiable Information about users. This non-personally identifiable information assists us in tracking the location of our users, helps determine high traffic areas and facilitates analysis of the most effective ways to communicate with our users. As part of that ongoing analysis, we may also use devices called “web beacons” to help us identify when emails sent to you have been received and read.
 
@@ -30,7 +28,7 @@ We may use any combination of your IP address, cookies, and other information to
 
 The non-personally identifiable information we collect is also used to analyze and improve the Site and to help us provide our customers with a fulfilling and pleasant online experience. We may also use the non-personally identifiable information for trouble shooting, performing administrative tasks, managing the Site, complying with laws and regulations, and to cooperate with law enforcement activities. We also may use this information in the aggregate to analyze Site usage and to gather broad demographic information.
 
-3.Is The Information Shared, Stored or Disclosed?
+**3.Is The Information Shared, Stored or Disclosed?**
 
 ChatrouletteGirls does not rent or sell the Personally Identifiable Information it collects about you to or with third parties.  Since there is no expectation of privacy ChatrouletteGirls may disclose Personally Identifiable Information if required to do so by law or in the belief that such action is necessary to: (a) comply with law or legal process, court order or a subpoena served on ChatrouletteGirls or the Site to cooperate with law enforcement authorities; (b) to work with law enforcement to investigate, prevent or take action regarding suspected or actual illegal activity or fraud on the Site; (c) protect and defend the rights, property or safety of us or Service Providers (defined below), licensees, business partners, agents, customers, users, or others; or (d) act in situations involving actual or potential threats to the physical safety of any person, violations of our agreements, abuse of this Site, security breaches of this Site, or as necessary to protect our systems, business, users or others. We may disclose the information obtained from you through the Site, including Personally Identifiable Information, to a successor entity as part of a merger, acquisition, or other sale of our assets or business or should we file for bankruptcy.
 
@@ -44,7 +42,7 @@ The records ChatrouletteGirls keeps about your chats may be shared with third pa
 
 ChatrouletteGirls uses Google Analytics to track non-personally-identifying statistical information about site usage. Google provides a [browser add-on to opt out of Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=en).
 
-4.How You Can Access or Change Your Information
+**4.How You Can Access or Change Your Information**
 
 If we offer an account registration process and you have signed up for an account with us on the Site, you can access or change your Personally Identifiable Information by logging into your account and editing your profile. You are responsible for maintaining the secrecy of your password and account information at all times.
 
@@ -52,7 +50,7 @@ If you do not have an account with us accessible on the Site, you can access or 
 
 We may retain original and updated information for reasons such as technical constraints, dispute resolution, troubleshooting, record retention, and enforcement of our agreements. For security purposes, we may request information to help verify your identity before granting access or making changes to your information.
 
-5.Notice of Privacy Rights of California Residents
+**5.Notice of Privacy Rights of California Residents**
 
 California Civil Code Section 1798.83 (“Code”) permits users of our Site who are California residents from whom we have received Personally Identifiable Information to request from us certain information regarding our disclosure of Personally Identifiable Information to third parties for their direct marketing purposes.
 
@@ -62,27 +60,27 @@ The Code allows you to control the parties with whom we share Personally Identif
 
 We are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through the above email address.]
 
-6.The Security of Your Information.
+**6.The Security of Your Information.**
 
 To help protect the privacy of the personal information you transmit through use of the Site, we use commercially reasonable security practices that are technically feasible for us to protect the user data we collect against unauthorized access, including without limitation, physical, technical, and administrative safeguards.
 
 Except as specified in this Privacy Policy, we use commercially reasonable efforts to limit access to your personal information to our employees, agents, and officers who need the information to perform their responsibilities. However, please be aware that the Site and our services are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond our control. We cannot guarantee the security of the information on and sent from our Site, and are not responsible for the acts and omissions of any third parties who receive the information. Please be aware that despite our best intentions and the guidelines outlined in this Privacy Policy, no data transmission over the internet can be guaranteed to be 100% secure.
 
-7.What Happens When You Link To or From Another Site.
+**7.What Happens When You Link To or From Another Site.**
 
 The Site may contain links to other sites operated by Service Providers, our affiliates or other third parties. We are not responsible for the privacy policies, practices or contents of such other sites. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through other sites. When you leave the Site the privacy policies and practices of that other site apply; we encourage you to be aware of those privacy policies and practices when you are on those other sites and submitting Personally Identifiable Information. You are responsible for reviewing the privacy policies and practices of each and every site that you visit.
 
-8.International Transfers.
+**8.International Transfers.**
 
 Personally Identifiable Information collected on the Site may be stored and processed in the United States or any other country in which ChatrouletteGirls or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country.
 
 You agree to comply with all local laws, rules and regulations regarding online conduct and acceptable content. Without limiting the generality of the foregoing, you agree to comply with all applicable laws, rules and regulations regarding the transmission of data exported from the United States or the country in which you reside.
 
-9.Children.
+**9.Children.**
 
 This Site is directed to persons 18 years of age or older (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for such jurisdiction). This Site and ChatrouletteGirls do not knowingly collect Personal Information from persons under age 18 (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for such jurisdiction) or children under age 18. Any person who provides their information to ChatrouletteGirls through the Site or any other part of the Site represents to ChatrouletteGirls that they are 18 years of age or older (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for your jurisdiction). If you are under the age of 18 (or for jurisdictions in which 18 years old is not the age of majority, under the age of majority for your jurisdiction) you may not use, view, or access this Site and you must leave this Web site immediately by clicking [go to Yahoo](http://www.yahoo.com/). If you are under age 18, you are not permitted to use this Site or to submit any Personal Information to the Site and you must leave this Web site immediately by clicking [go to Yahoo](http://www.yahoo.com/).
 
-10.Your Consent To This Privacy Policy and Updates.
+**10.Your Consent To This Privacy Policy and Updates.**
 
 By using the Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version.
 
