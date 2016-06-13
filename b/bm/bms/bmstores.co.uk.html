@@ -1,23 +1,73 @@
-<!--The following is the downloaded HTML source of the bmstores.co.uk privacy policy that was archived on 2015-09-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910020042id_/http%3A//www.bmstores.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bmstores.co.uk privacy policy that was archived on 2016-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160613092913id_/http%3A//www.bmstores.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="" class=" js flexbox flexboxlegacy canvas canvastext postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache"><head>
 <meta charset="utf-8">
-<title>B&amp;M: Privacy Policy </title>
+<title>Privacy Policy | B&amp;M</title>
 <style>@import url(//fonts.googleapis.com/css?family=Oxygen:300,400,700|Varela+Round);</style>
-<link rel="stylesheet" type="text/css" href="/css/bm.css?v=20150730">
+<link rel="stylesheet" type="text/css" href="/css/bm.css?v=20160128">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=274101749280962&amp;version=v2.0"></script><script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="/js/modernizr.js"></script>
 <script type="text/javascript" src="/js/bm.js?v=20150909"></script>
 <script type="text/javascript" src="/js/thirdparty/jquery-validate/lib/jquery.form.js"></script>
 <script type="text/javascript" src="/js/thirdparty/jquery-validate/jquery.validate.min.js"></script>
 <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+<link rel="canonical" href="http://www.bmstores.co.uk/privacy-policy">
 <!--[if lt IE 9]>
 <script src="/js/html5shiv.js"></script>
 <![endif]-->
-<script src="/cache/farcry%2Ddevicetype%2DC2636D897F737FB6C9910D5B79A93851.js" id="javascript-farcry-devicetype" type="text/javascript"></script>
+<meta id="javascript-jquery-ui" property="jsid" content="jquery-ui"><script src="/webtop/thirdparty/jquery/js/jquery-ui-1.10.3.custom.min.js" type="text/javascript"></script>
+<script src="/cache/farcry%2Ddevicetype%2D11E34B4E8482DE5DD398B39816FC0C4F.js" id="javascript-farcry-devicetype" type="text/javascript"></script>
 
-<style type="text/css">#mc_embed_signup input.mce_inline_error{border-color:#6B0505;} #mc_embed_signup div.mce_inline_error{margin: 0 0 1em 0; padding: 5px 10px; background-color:#6B0505; font-weight: bold; z-index: 1; color:#fff;}</style><script type="text/javascript" src="https://web.archive.org/web/20141030134109/http://downloads.mailchimp.com/js/jquery.form-n-validate.js"></script></head>
+<meta id="inhead-C65C0550-3146-11E6-A413D4AE52CF3615" property="inheadid" content="C65C0550-3146-11E6-A413D4AE52CF3615">
+		<script type="text/javascript">
+
+	$(function(){
+		// Select text in input field when someone clicks it 
+		$("#q").focus(function(){
+			this.select();
+		});
+		// Prevent the onmouseup event from causing the selection to get unselected in webkit browsers
+		$("#q").mouseup(function(e){
+			e.preventDefault();
+		});
+
+		/* Autocomplete location search */
+		$("#q").autocomplete({
+			source: "/facade/productSearchData/remote.cfc?method=getproductSearchData&ajaxmode=1&returnformat=json",
+			select: function( event, ui ) {
+				relocateById(ui.item.objectid); 
+			},
+			delay: 300,
+			minLength: 3
+		}).data( "uiAutocomplete" )._renderItem = function( ul, item ) {
+			ul.css("z-index", "1001");
+			return $( "<li></li>" )
+				.data( "item.autocomplete", item )
+				.append( "<a>" + item.label.replace(new RegExp($("#q").val(), "gi"), '<strong>' + $('#q').val() + '</strong>') + "</a>" )
+				.appendTo( ul );
+		};
+
+		/* Now that the user has selected something from the dropdown, we are going to do an exact lookup for the record to get it's object ID and redirect the user to the exact match. If when we do an exact lookup we return more than one record, we present the user with a selection of options */
+		function relocateById(productId){
+			$.getJSON("/facade/productSearchData/remote.cfc",
+				{
+					method: "getProductSearchDataUrlById",
+					returnformat: "json",
+					objectid: productId,
+					ajaxmode:"1"
+				},
+				function(aData) {
+					window.location.href = "" +aData[0];
+				}
+			);
+		};
+
+	}); // End - Document.Ready
+
+</script>
+	
+</head>
 <body class="modal-open" style="">
 <header class="header">
 <div class="container">
@@ -41,7 +91,7 @@
 </ul>
 </div><!-- /.header-link -->
 <form class="header-form" action="/search" method="get">
-<input class="form-control" name="q" type="text" size="25" title="Search" placeholder="Product Search...">
+<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input class="form-control ui-autocomplete-input" name="q" id="q" type="text" size="25" title="Search" placeholder="Product Search..." autocomplete="off">
 <button type="submit" class="header-btn">Search</button>
 </form>
 </div><!-- /.container -->
@@ -51,56 +101,50 @@
 <div class="container">
 <menu class="nav-menu">
 <li>
-<a href="/products/summer-sale">Summer Sale</a>
+<a href="/products/father-s-day">Father's Day</a>
 <div class="dropdown-menu">
 <div class="row">
 <div class="col-xs-6">
-<p><strong class="text-blue">Summer Sale</strong></p>
+<p><strong class="text-blue">Father's Day</strong></p>
 <div class="row">
 <div class="col-xs-6">
 <ul class="dropdown-menu-list">
 <li>
-<a href="/products/summer-sale/furniture-sale">Furniture Sale</a>
+<a href="/products/father-s-day/for-the-gadget-lover">For the Gadget Lover</a>
 </li>
 <li>
-<a href="/products/summer-sale/electricals-sale">Electricals Sale</a>
+<a href="/products/father-s-day/for-the-fashionable-father">For the Fashionable Father</a>
 </li>
 <li>
-<a href="/products/summer-sale/summer-and-gardening-sale">Summer &amp; Gardening Sale</a>
+<a href="/products/father-s-day/for-the-chocolate-lover">For the Chocolate Lover</a>
 </li>
 <li>
-<a href="/products/summer-sale/home-accessories-sale">Home Accessories Sale</a>
+<a href="/products/father-s-day/for-the-drink-connoisseur">For the Drink Connoisseur</a>
 </li>
 <li>
-<a href="/products/summer-sale/storage-sale">Storage Sale</a>
+<a href="/products/father-s-day/for-the-bbq-king">For the BBQ King</a>
 </li>
 <li>
-<a href="/products/summer-sale/bedding-sale">Bedding Sale</a>
-</li>
-<li>
-<a href="/products/summer-sale/curtains-sale">Curtains Sale</a>
+<a href="/products/father-s-day/for-the-outdoors-enthusiast">For the Outdoors Enthusiast</a>
 </li>
 </ul><!-- /.dropdown-menu-list -->
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-6">
 <ul class="dropdown-menu-list">
 <li>
-<a href="/products/summer-sale/lighting-sale">Lighting Sale</a>
+<a href="/products/father-s-day/for-the-diy-dad">For the DIY Dad</a>
 </li>
 <li>
-<a href="/products/summer-sale/photo-frames-sale">Photo Frames Sale</a>
+<a href="/products/father-s-day/for-the-car-mad-dad">For the Car Mad Dad</a>
 </li>
 <li>
-<a href="/products/summer-sale/kitchen-sale">Kitchen Sale</a>
+<a href="/products/father-s-day/father-s-day-cards-and-gift-bags">Father's Day Cards &amp; Gift Bags</a>
 </li>
 <li>
-<a href="/products/summer-sale/bathroom-sale">Bathroom Sale</a>
+<a href="/products/father-s-day/gifts-under-5">Gifts Under £5</a>
 </li>
 <li>
-<a href="/products/summer-sale/laundry-sale">Laundry Sale</a>
-</li>
-<li>
-<a href="/products/summer-sale/wallpaper-sale">Wallpaper Sale</a>
+<a href="/products/father-s-day/gifts-under-10">Gifts Under £10</a>
 </li>
 </ul><!-- /.dropdown-menu-list -->
 </div><!-- /.col-xs-6 -->
@@ -108,15 +152,15 @@
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-push-6 dropdown-menu-divider"></div>
 <div class="col-xs-6">
-<a class="product" href="/products/george-foreman-10-portion-grill-250697">
+<a class="product" href="/products/jean-paul-gaultier-fleur-du-male-40ml-edt-316431">
 <div class="row">
 <div class="col-xs-6">
-<span class="product-name">George Foreman 10 Portion Grill</span>
-<span class="product-price text-red"><i>Now</i> £39.99</span>
-<span class="product-price product-price-original">Was £79.99</span>
+<span class="product-name">Jean Paul Gaultier Fleur Du Male 40ml edt</span>
+<span class="product-price product-price-special"><i>Now</i> £14.99</span>
+<span class="product-price product-price-original">Was £19.99</span>
 </div>
 <div class="col-xs-6">
-<img src="/images/hpcProductImage/imgDetail/250697-George-Foreman-10-Portion-Grill1.jpg" title="George Foreman 10 Portion Grill" class="product-img" alt="George Foreman 10 Portion Grill">
+<img src="/images/hpcProductImage/imgDetail/316431-JPG-Fleur-Du-Male-40ml-EDT-main1.jpg" title="Jean Paul Gaultier Fleur Du Male 40ml edt" class="product-img" alt="Jean Paul Gaultier Fleur Du Male 40ml edt">
 </div>
 </div>
 </a><!-- /.product -->
@@ -125,47 +169,98 @@
 </div><!-- /.dropdown-menu -->
 </li>
 <li>
-<a href="/products/back-to-uni">Back to Uni</a>
+<a href="/products/summer-and-gardening">Summer &amp; Gardening</a>
 <div class="dropdown-menu">
 <div class="row">
 <div class="col-xs-6">
-<p><strong class="text-blue">Back to Uni</strong></p>
+<p><strong class="text-blue">Summer &amp; Gardening</strong></p>
 <div class="row">
 <div class="col-xs-6">
 <ul class="dropdown-menu-list">
 <li>
-<a href="/products/back-to-uni/electricals">Electricals</a>
+<a href="/products/summer-and-gardening/garden-furniture">Garden Furniture</a>
 </li>
 <li>
-<a href="/products/back-to-uni/bedroom">Bedroom</a>
+<a href="/products/summer-and-gardening/garden-solar-lighting">Garden Solar Lighting</a>
 </li>
 <li>
-<a href="/products/back-to-uni/bathroom">Bathroom</a>
+<a href="/products/summer-and-gardening/bbq">BBQ</a>
 </li>
 <li>
-<a href="/products/back-to-uni/storage">Storage</a>
+<a href="/products/summer-and-gardening/chimeneas">Chimeneas</a>
 </li>
 <li>
-<a href="/products/back-to-uni/cleaning-essentials">Cleaning Essentials</a>
+<a href="/products/summer-and-gardening/decorative">Decorative</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/camping">Camping</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/kids">Kids</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/picnic">Picnic</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/greenhouses">Greenhouses</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/garden-electricals">Garden Electricals</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/garden-chemicals">Garden Chemicals</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/decorative-fencing">Decorative Fencing</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/planters">Planters</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/tools">Tools</a>
 </li>
 </ul><!-- /.dropdown-menu-list -->
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-6">
 <ul class="dropdown-menu-list">
 <li>
-<a href="/products/back-to-uni/accessories">Accessories</a>
+<a href="/products/summer-and-gardening/watering">Watering</a>
 </li>
 <li>
-<a href="/products/back-to-uni/kitchen">Kitchen</a>
+<a href="/products/summer-and-gardening/propagation">Propagation</a>
 </li>
 <li>
-<a href="/products/back-to-uni/stationery">Stationery</a>
+<a href="/products/summer-and-gardening/covers">Covers</a>
 </li>
 <li>
-<a href="/products/back-to-uni/student-food-essentials">Student Food Essentials</a>
+<a href="/products/summer-and-gardening/gloves">Gloves</a>
 </li>
 <li>
-<a href="/products/back-to-uni/everyday-essentials">Everyday Essentials</a>
+<a href="/products/summer-and-gardening/bulbs-and-plants">Bulbs &amp; Plants</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/garden-buildings">Garden Buildings</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/decorative-aggregates">Decorative Aggregates</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/fencing-paving-and-landscaping">Fencing, Paving &amp; Landscaping</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/compost-and-bark">Compost &amp; Bark</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/bins-waterbutts-wheelbarrows">Bins, Waterbutts, Wheelbarrows</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/garden-care-and-growing">Garden Care &amp; Growing</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/turf-and-artificial">Turf &amp; Artificial</a>
+</li>
+<li>
+<a href="/products/summer-and-gardening/accessories">Accessories</a>
 </li>
 </ul><!-- /.dropdown-menu-list -->
 </div><!-- /.col-xs-6 -->
@@ -173,15 +268,16 @@
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-push-6 dropdown-menu-divider"></div>
 <div class="col-xs-6">
-<a class="product" href="/products/back-to-college-bundle-double-bed-set-286371">
+<a class="product" href="/products/copenhagen-patio-set-7pc-296959">
 <div class="row">
 <div class="col-xs-6">
-<span class="product-name">Back to College Bundle Double Bed Set</span>
-<span class="product-price product-price-special"> £9.99</span>
-<span class="product-price product-special product-special-red">SPECIALBUY</span>
+<span class="product-name">Copenhagen Patio Set 7pc</span>
+<span class="product-price product-price-special"> £169.99</span>
+<small style="margin-left:20px;">(RRP £300.00)</small>
+<h4 class="product-price">MRRP £300</h4>
 </div>
 <div class="col-xs-6">
-<img src="/images/hpcProductImage/imgDetail/286371-Back-to-College-Bundle-Bed-Set-double1.jpg" title="Back to College Bundle Double Bed Set" class="product-img" alt="Back to College Bundle Double Bed Set">
+<img src="/images/hpcProductImage/imgDetail/296959-copenhagen1.jpg" title="Copenhagen Patio Set 7pc" class="product-img" alt="Copenhagen Patio Set 7pc">
 </div>
 </div>
 </a><!-- /.product -->
@@ -190,38 +286,59 @@
 </div><!-- /.dropdown-menu -->
 </li>
 <li>
-<a href="/products/halloween">Halloween</a>
+<a href="/products/holiday-shop">Holiday Shop</a>
 <div class="dropdown-menu">
 <div class="row">
 <div class="col-xs-6">
-<p><strong class="text-blue">Halloween</strong></p>
+<p><strong class="text-blue">Holiday Shop</strong></p>
 <div class="row">
 <div class="col-xs-6">
 <ul class="dropdown-menu-list">
 <li>
-<a href="/products/halloween/halloween-costumes">Halloween Costumes</a>
+<a href="/products/holiday-shop/luggage">Luggage</a>
 </li>
 <li>
-<a href="/products/halloween/halloween-decorations">Halloween Decorations</a>
+<a href="/products/holiday-shop/travel-accessories">Travel Accessories</a>
 </li>
 <li>
-<a href="/products/halloween/halloween-lights">Halloween Lights</a>
+<a href="/products/holiday-shop/sun-care-and-insect-repellent">Sun Care &amp; Insect Repellent</a>
 </li>
 <li>
-<a href="/products/halloween/halloween-party">Halloween Party</a>
+<a href="/products/holiday-shop/fun-in-the-sun">Fun in the Sun</a>
+</li>
+<li>
+<a href="/products/holiday-shop/holiday-health-and-essentials">Holiday Health &amp; Essentials</a>
+</li>
+<li>
+<a href="/products/holiday-shop/holiday-beauty">Holiday Beauty</a>
+</li>
+<li>
+<a href="/products/holiday-shop/holiday-electricals">Holiday Electricals</a>
 </li>
 </ul><!-- /.dropdown-menu-list -->
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-6">
 <ul class="dropdown-menu-list">
 <li>
-<a href="/products/halloween/halloween-tableware">Halloween Tableware</a>
+<a href="/products/holiday-shop/kids-travelling-accessories">Kids Travelling Accessories</a>
 </li>
 <li>
-<a href="/products/halloween/trick-or-treat">Trick or Treat</a>
+<a href="/products/holiday-shop/picnic">Picnic</a>
 </li>
 <li>
-<a href="/products/halloween/pets">Pets</a>
+<a href="/products/holiday-shop/camping-and-festival-essentials">Camping &amp; Festival Essentials</a>
+</li>
+<li>
+<a href="/products/holiday-shop/bbq">BBQ</a>
+</li>
+<li>
+<a href="/products/holiday-shop/summer-clothing-and-footwear">Summer Clothing &amp; Footwear</a>
+</li>
+<li>
+<a href="/products/holiday-shop/towels-and-beach-bags">Towels &amp; Beach Bags</a>
+</li>
+<li>
+<a href="/products/holiday-shop/kids-swimwear">Kids Swimwear</a>
 </li>
 </ul><!-- /.dropdown-menu-list -->
 </div><!-- /.col-xs-6 -->
@@ -229,15 +346,14 @@
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-push-6 dropdown-menu-divider"></div>
 <div class="col-xs-6">
-<a class="product" href="/products/boys-scary-robes-costume-lord-of-flames-3020932">
+<a class="product" href="/products/nivea-kids-sun-cream-factor-50-200ml-302458">
 <div class="row">
 <div class="col-xs-6">
-<span class="product-name">Boys Scary Robes Costume - Lord of Flames</span>
-<span class="product-price product-price-special"> £9.99</span>
-<small style="margin-left:20px;">(RRP £20.00)</small>
+<span class="product-name">Nivea Kids Sun Cream Factor 50 200ml</span>
+<span class="product-price product-price-special"> £3.99</span>
 </div>
 <div class="col-xs-6">
-<img src="/images/hpcProductImage/imgDetail/302093-Boys-scray-robes-halloween-devil1.jpg" title="Boys Scary Robes Costume - Lord of Flames" class="product-img" alt="Boys Scary Robes Costume - Lord of Flames">
+<img src="/images/hpcProductImage/imgDetail/302458 -Nivea Sun Lotion SEnsitive Kids 200ml F50.jpg" title="Nivea Kids Sun Cream Factor 50 200ml" class="product-img" alt="Nivea Kids Sun Cream Factor 50 200ml">
 </div>
 </div>
 </a><!-- /.product -->
@@ -280,7 +396,7 @@
 <div class="col-xs-6">
 <ul class="dropdown-menu-list">
 <li>
-<a href="/products/home-and-living/party-shop">Party Shop</a>
+<a href="/products/home-and-living/wedding-and-party">Wedding &amp; Party</a>
 </li>
 <li>
 <a href="/products/home-and-living/kids-accessories">Kids Accessories</a>
@@ -297,23 +413,20 @@
 <li>
 <a href="/products/home-and-living/rugs">Rugs</a>
 </li>
-<li>
-<a href="/products/home-and-living/draught-excluders">Draught Excluders</a>
-</li>
 </ul><!-- /.dropdown-menu-list -->
 </div><!-- /.col-xs-6 -->
 </div><!-- /.row -->
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-push-6 dropdown-menu-divider"></div>
 <div class="col-xs-6">
-<a class="product" href="/products/new-york-new-york-double-duvet-set-3030633">
+<a class="product" href="/products/floral-birds-king-size-duvet-set-305915">
 <div class="row">
 <div class="col-xs-6">
-<span class="product-name">New York, New York Double Duvet Set</span>
-<span class="product-price product-price-special"> £14.99</span>
+<span class="product-name">Floral Birds King Size Duvet Set</span>
+<span class="product-price product-price-special"> £16.99</span>
 </div>
 <div class="col-xs-6">
-<img src="/images/hpcProductImage/imgDetail/303063-New-York-Multi1.jpg" title="New York, New York Double Duvet Set" class="product-img" alt="New York, New York Double Duvet Set">
+<img src="/images/hpcProductImage/imgDetail/300195 -Floral Birds duck egg.jpg" title="Floral Birds King Size Duvet Set" class="product-img" alt="Floral Birds King Size Duvet Set">
 </div>
 </div>
 </a><!-- /.product -->
@@ -323,7 +436,7 @@
 </li>
 <li>
 <a href="/products/electrical">Electrical</a>
-<div class="dropdown-menu" style="left: 76px;">
+<div class="dropdown-menu" style="left: 70px;">
 <div class="row">
 <div class="col-xs-6">
 <p><strong class="text-blue">Electrical</strong></p>
@@ -352,20 +465,20 @@
 <a href="/products/electrical/heating-and-cooling">Heating &amp; Cooling</a>
 </li>
 <li>
-<a href="/products/electrical/tv-and-vision">TV &amp; Vision</a>
+<a href="/products/electrical/televisions">Televisions</a>
 </li>
 <li>
 <a href="/products/electrical/tv-stands-and-wall-mounts">TV Stands &amp; Wall Mounts</a>
 </li>
 <li>
-<a href="/products/electrical/audio-and-headphones">Audio &amp; Headphones</a>
+<a href="/products/electrical/speakers-and-headphones">Speakers &amp; Headphones</a>
 </li>
 </ul><!-- /.dropdown-menu-list -->
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-6">
 <ul class="dropdown-menu-list">
 <li>
-<a href="/products/electrical/mobile-and-telecoms">Mobile &amp; Telecoms</a>
+<a href="/products/electrical/telephone-and-mobile-accessories">Telephone &amp; Mobile Accessories</a>
 </li>
 <li>
 <a href="/products/electrical/tablet-and-pc-accessories">Tablet &amp; PC accessories</a>
@@ -374,7 +487,7 @@
 <a href="/products/electrical/garden-electrical">Garden Electrical</a>
 </li>
 <li>
-<a href="/products/electrical/health-and-beauty-electrical">Health and Beauty Electrical</a>
+<a href="/products/electrical/health-and-beauty-electrical">Health &amp; Beauty Electrical</a>
 </li>
 <li>
 <a href="/products/electrical/lighting-torches-and-bulbs">Lighting - Torches &amp; Bulbs</a>
@@ -384,6 +497,9 @@
 </li>
 <li>
 <a href="/products/electrical/electrical-accessories">Electrical Accessories</a>
+</li>
+<li>
+<a href="/products/electrical/security">Security</a>
 </li>
 <li>
 <a href="/products/electrical/diy-and-power-tools">DIY &amp; Power Tools</a>
@@ -397,14 +513,15 @@
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-push-6 dropdown-menu-divider"></div>
 <div class="col-xs-6">
-<a class="product" href="/products/blaupunkt-50-1080p-hd-led-tv-291150">
+<a class="product" href="/products/blaupunkt-40-hd-led-tv-296106">
 <div class="row">
 <div class="col-xs-6">
-<span class="product-name">Blaupunkt 50" 1080p HD LED TV</span>
-<span class="product-price product-price-special"> £329.99</span>
+<span class="product-name">Blaupunkt 40" HD LED TV</span>
+<span class="product-price product-price-special"><i>Now</i> £199.99</span>
+<span class="product-price product-price-original">Was £229.99</span>
 </div>
 <div class="col-xs-6">
-<img src="/images/hpcProductImage/imgDetail/291150-Blaupunkt-50inch-1080p-HD-LED-TV11.jpg" title="Blaupunkt 50" 1080p="" hd="" led="" tv"="" class="product-img" alt="Blaupunkt 50">
+<img src="/images/hpcProductImage/imgDetail/296106-BLAUPUNKT-40-INCH-HD-LED-TV-11.jpg" title="Blaupunkt 40" hd="" led="" tv"="" class="product-img" alt="Blaupunkt 40">
 </div>
 </div>
 </a><!-- /.product -->
@@ -414,7 +531,7 @@
 </li>
 <li>
 <a href="/products/furniture">Furniture</a>
-<div class="dropdown-menu" style="left: 153px;">
+<div class="dropdown-menu" style="left: 133px;">
 <div class="row">
 <div class="col-xs-6">
 <p><strong class="text-blue">Furniture</strong></p>
@@ -422,38 +539,38 @@
 <div class="col-xs-6">
 <ul class="dropdown-menu-list">
 <li>
-<a href="/products/furniture/living-room-and-occasional">Living Room and Occasional</a>
+<a href="/products/furniture/living-room-furniture">Living Room Furniture</a>
 </li>
 <li>
-<a href="/products/furniture/dining-room">Dining Room</a>
+<a href="/products/furniture/dining-room-furniture">Dining Room Furniture</a>
 </li>
 <li>
-<a href="/products/furniture/bedroom">Bedroom</a>
+<a href="/products/furniture/bedroom-furniture">Bedroom Furniture</a>
 </li>
 <li>
-<a href="/products/furniture/mattresses">Mattresses</a>
+<a href="/products/furniture/beds-and-mattresses">Beds &amp; Mattresses</a>
 </li>
 <li>
-<a href="/products/furniture/kitchen-and-barstools">Kitchen and Barstools</a>
+<a href="/products/furniture/kitchen-and-barstools">Kitchen &amp; Barstools</a>
 </li>
 </ul><!-- /.dropdown-menu-list -->
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-6">
 <ul class="dropdown-menu-list">
 <li>
-<a href="/products/furniture/all-children-s-furniture">All Children’s Furniture</a>
+<a href="/products/furniture/children-s-furniture">Children’s Furniture</a>
 </li>
 <li>
-<a href="/products/furniture/bathroom">Bathroom</a>
+<a href="/products/furniture/bathroom-furniture">Bathroom Furniture</a>
 </li>
 <li>
 <a href="/products/furniture/storage-and-shelving">Storage and Shelving</a>
 </li>
 <li>
-<a href="/products/furniture/tv-stands-and-wall-mounts">TV Stands and Wall Mounts</a>
+<a href="/products/furniture/tv-units-and-stands">TV Units &amp; Stands</a>
 </li>
 <li>
-<a href="/products/furniture/upholstery-chairs-and-sofabed">Upholstery, Chairs and Sofabed</a>
+<a href="/products/furniture/upholstery-chairs-and-sofabeds">Upholstery, Chairs &amp; Sofabeds</a>
 </li>
 </ul><!-- /.dropdown-menu-list -->
 </div><!-- /.col-xs-6 -->
@@ -461,25 +578,13 @@
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-push-6 dropdown-menu-divider"></div>
 <div class="col-xs-6">
-<a class="product" href="/products/lana-double-bed-298834">
-<div class="row">
-<div class="col-xs-6">
-<span class="product-name">Lana Double Bed</span>
-<span class="product-price text-red"><i>Now</i> £69.99</span>
-<span class="product-price product-price-original">Was £79.99</span>
-</div>
-<div class="col-xs-6">
-<img src="/images/hpcProductImage/imgDetail/298834-Lana-Double-Bed1.jpg" title="Lana Double Bed" class="product-img" alt="Lana Double Bed">
-</div>
-</div>
-</a><!-- /.product -->
 </div><!-- /.col-xs-6 -->
 </div><!-- /.row -->
 </div><!-- /.dropdown-menu -->
 </li>
 <li>
 <a href="/products/toys-and-games">Toys &amp; Games</a>
-<div class="dropdown-menu drop-right">
+<div class="dropdown-menu" style="left: 213px;">
 <div class="row">
 <div class="col-xs-6">
 <p><strong class="text-blue">Toys &amp; Games</strong></p>
@@ -521,7 +626,7 @@
 <div class="col-xs-6">
 <ul class="dropdown-menu-list">
 <li>
-<a href="/products/toys-and-games/bikes-and-scooters">Bikes and Scooters</a>
+<a href="/products/toys-and-games/scooters-and-ride-on-toys">Scooters &amp; Ride On Toys</a>
 </li>
 <li>
 <a href="/products/toys-and-games/craft-and-design">Craft &amp; Design</a>
@@ -542,10 +647,13 @@
 <a href="/products/toys-and-games/books">Books</a>
 </li>
 <li>
-<a href="/products/toys-and-games/2-for-20">2 for £20</a>
+<a href="/products/toys-and-games/under-10">Under £10</a>
 </li>
 <li>
-<a href="/products/toys-and-games/under-10">Under £10</a>
+<a href="/products/toys-and-games/outdoor-toys1">Outdoor Toys</a>
+</li>
+<li>
+<a href="/products/toys-and-games/2-for-12">2 for £12</a>
 </li>
 </ul><!-- /.dropdown-menu-list -->
 </div><!-- /.col-xs-6 -->
@@ -553,14 +661,15 @@
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-push-6 dropdown-menu-divider"></div>
 <div class="col-xs-6">
-<a class="product" href="/products/hobby-world-twirling-stationery-set-150pc-299975">
+<a class="product" href="/products/trampoline-and-enclosure-8ft-288762">
 <div class="row">
 <div class="col-xs-6">
-<span class="product-name">Hobby World Twirling Stationery Set 150pc</span>
-<span class="product-price product-price-special"> £7.99</span>
+<span class="product-name">Trampoline &amp; Enclosure 8ft</span>
+<span class="product-price product-price-special"><i>Now</i> £69.99</span>
+<span class="product-price product-price-original">Was £89.99</span>
 </div>
 <div class="col-xs-6">
-<img src="/images/hpcProductImage/imgDetail/299975-150-pc-Giant-Spinning-Desk-Tidy-31.jpg" title="Hobby World Twirling Stationery Set 150pc" class="product-img" alt="Hobby World Twirling Stationery Set 150pc">
+<img src="/images/hpcProductImage/imgDetail/288762-8ft-Trampoline-and-Enclosure.jpg" title="Trampoline &amp; Enclosure 8ft" class="product-img" alt="Trampoline &amp; Enclosure 8ft">
 </div>
 </div>
 </a><!-- /.product -->
@@ -583,15 +692,12 @@
 <li>
 <a href="/products/food-and-drink/drinks">Drinks</a>
 </li>
-<li>
-<a href="/products/food-and-drink/confectionery">Confectionery</a>
-</li>
 </ul><!-- /.dropdown-menu-list -->
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-6">
 <ul class="dropdown-menu-list">
 <li>
-<a href="/products/food-and-drink/chocolates">Chocolates</a>
+<a href="/products/food-and-drink/confectionery">Confectionery</a>
 </li>
 <li>
 <a href="/products/food-and-drink/crisps">Crisps</a>
@@ -602,15 +708,15 @@
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-push-6 dropdown-menu-divider"></div>
 <div class="col-xs-6">
-<a class="product" href="/products/pot-noodle-original-curry-flavour-90g-241232">
+<a class="product" href="/products/dr-pepper-cans-4-x-330ml-309261">
 <div class="row">
 <div class="col-xs-6">
-<span class="product-name">Pot Noodle Original Curry Flavour 90g</span>
-<span class="product-price product-price-special"><i>Now</i> £0.50</span>
-<span class="product-price product-price-original">Was £0.69</span>
+<span class="product-name">Dr Pepper Cans 4 x 330ml</span>
+<span class="product-price product-price-special"><i>Now</i> £0.99</span>
+<span class="product-price product-price-original">Was £1.29</span>
 </div>
 <div class="col-xs-6">
-<img src="/images/hpcProductImage/imgDetail/241232-Pot-Noodle-Original-Curry-Flavour-90g.jpg" title="Pot Noodle Original Curry Flavour 90g" class="product-img" alt="Pot Noodle Original Curry Flavour 90g">
+<img src="/images/hpcProductImage/imgDetail/309261-Dr-Pepper-4x330ml-Cans1.jpg" title="Dr Pepper Cans 4 x 330ml" class="product-img" alt="Dr Pepper Cans 4 x 330ml">
 </div>
 </div>
 </a><!-- /.product -->
@@ -619,59 +725,44 @@
 </div><!-- /.dropdown-menu -->
 </li>
 <li>
-<a href="/products/pets">Pets</a>
+<a href="/products/diy">DIY</a>
 <div class="dropdown-menu drop-right">
 <div class="row">
 <div class="col-xs-6">
-<p><strong class="text-blue">Pets</strong></p>
+<p><strong class="text-blue">DIY</strong></p>
 <div class="row">
 <div class="col-xs-6">
 <ul class="dropdown-menu-list">
 <li>
-<a href="/products/pets/dog-food">Dog Food</a>
+<a href="/products/diy/wallpaper">Wallpaper</a>
 </li>
 <li>
-<a href="/products/pets/dog-treats">Dog Treats</a>
+<a href="/products/diy/paint">Paint</a>
 </li>
 <li>
-<a href="/products/pets/cat-food-and-treats">Cat Food &amp; Treats</a>
+<a href="/products/diy/decorating">Decorating</a>
 </li>
 <li>
-<a href="/products/pets/cat-litter">Cat Litter</a>
+<a href="/products/diy/car-care">Car Care</a>
 </li>
 <li>
-<a href="/products/pets/cat-accessories">Cat Accessories</a>
-</li>
-<li>
-<a href="/products/pets/pet-bowls-and-mats">Pet Bowls &amp; Mats</a>
-</li>
-<li>
-<a href="/products/pets/pet-bedding">Pet Bedding</a>
+<a href="/products/diy/flooring-and-tiling">Flooring and Tiling</a>
 </li>
 </ul><!-- /.dropdown-menu-list -->
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-6">
 <ul class="dropdown-menu-list">
 <li>
-<a href="/products/pets/pet-grooming-and-hygiene">Pet Grooming &amp; Hygiene</a>
+<a href="/products/diy/lighting-and-bulbs">Lighting &amp; Bulbs</a>
 </li>
 <li>
-<a href="/products/pets/dog-collars-and-leads">Dog Collars &amp; Leads</a>
+<a href="/products/diy/batteries">Batteries</a>
 </li>
 <li>
-<a href="/products/pets/dog-toys">Dog Toys</a>
+<a href="/products/diy/tools-and-equipment">Tools &amp; Equipment</a>
 </li>
 <li>
-<a href="/products/pets/pet-accessories">Pet Accessories</a>
-</li>
-<li>
-<a href="/products/pets/small-pet">Small Pet</a>
-</li>
-<li>
-<a href="/products/pets/fish">Fish</a>
-</li>
-<li>
-<a href="/products/pets/birds">Birds</a>
+<a href="/products/diy/electrical-accessories">Electrical Accessories</a>
 </li>
 </ul><!-- /.dropdown-menu-list -->
 </div><!-- /.col-xs-6 -->
@@ -679,14 +770,81 @@
 </div><!-- /.col-xs-6 -->
 <div class="col-xs-push-6 dropdown-menu-divider"></div>
 <div class="col-xs-6">
-<a class="product" href="/products/felix-meaty-loaf-12-x-100g-294649">
+<a class="product" href="/products/dulux-silk-emulsion-paint-pure-brilliant-white-2-5l-305666">
 <div class="row">
 <div class="col-xs-6">
-<span class="product-name">Felix Meaty Loaf 12 x 100g</span>
-<span class="product-price product-price-special"> £2.99</span>
+<span class="product-name">Dulux Silk Emulsion Paint - Pure Brilliant White 2.5L</span>
+<span class="product-price product-price-special"> £12.49</span>
 </div>
 <div class="col-xs-6">
-<img src="/images/hpcProductImage/imgDetail/294649-Felix-12x100g-Meaty-Loaf1.jpg" title="Felix Meaty Loaf 12 x 100g" class="product-img" alt="Felix Meaty Loaf 12 x 100g">
+<img src="/images/hpcProductImage/imgDetail/305666-DULUX-SILK-PBW-2-5L1.jpg" title="Dulux Silk Emulsion Paint - Pure Brilliant White 2.5L" class="product-img" alt="Dulux Silk Emulsion Paint - Pure Brilliant White 2.5L">
+</div>
+</div>
+</a><!-- /.product -->
+</div><!-- /.col-xs-6 -->
+</div><!-- /.row -->
+</div><!-- /.dropdown-menu -->
+</li>
+<li>
+<a href="/products/sports-and-leisure">Sports &amp; Leisure</a>
+<div class="dropdown-menu drop-right">
+<div class="row">
+<div class="col-xs-6">
+<p><strong class="text-blue">Sports &amp; Leisure</strong></p>
+<div class="row">
+<div class="col-xs-6">
+<ul class="dropdown-menu-list">
+<li>
+<a href="/products/sports-and-leisure/camping">Camping</a>
+</li>
+<li>
+<a href="/products/sports-and-leisure/travel">Travel</a>
+</li>
+<li>
+<a href="/products/sports-and-leisure/travel-accessories">Travel Accessories</a>
+</li>
+<li>
+<a href="/products/sports-and-leisure/bike-accessories">Bike Accessories</a>
+</li>
+<li>
+<a href="/products/sports-and-leisure/fitness">Fitness</a>
+</li>
+<li>
+<a href="/products/sports-and-leisure/picnic">Picnic</a>
+</li>
+</ul><!-- /.dropdown-menu-list -->
+</div><!-- /.col-xs-6 -->
+<div class="col-xs-6">
+<ul class="dropdown-menu-list">
+<li>
+<a href="/products/sports-and-leisure/outdoor-toys">Outdoor Toys</a>
+</li>
+<li>
+<a href="/products/sports-and-leisure/scooters">Scooters</a>
+</li>
+<li>
+<a href="/products/sports-and-leisure/kids-accessories">Kids Accessories</a>
+</li>
+<li>
+<a href="/products/sports-and-leisure/hobby-and-leisure">Hobby &amp; Leisure</a>
+</li>
+<li>
+<a href="/products/sports-and-leisure/the-big-night-in">The Big Night In</a>
+</li>
+</ul><!-- /.dropdown-menu-list -->
+</div><!-- /.col-xs-6 -->
+</div><!-- /.row -->
+</div><!-- /.col-xs-6 -->
+<div class="col-xs-push-6 dropdown-menu-divider"></div>
+<div class="col-xs-6">
+<a class="product" href="/products/insulated-backpack-cool-bag-309030">
+<div class="row">
+<div class="col-xs-6">
+<span class="product-name">Insulated Backpack Cool Bag</span>
+<span class="product-price product-price-special"> £6.99</span>
+</div>
+<div class="col-xs-6">
+<img src="/images/hpcProductImage/imgDetail/309030-Backpack-Cool-Bag-main1.jpg" title="Insulated Backpack Cool Bag" class="product-img" alt="Insulated Backpack Cool Bag">
 </div>
 </div>
 </a><!-- /.product -->
@@ -698,21 +856,19 @@
 <a href="#">More Departments</a>
 <div class="dropdown-menu drop-right">
 <ul class="list-un">
-<li><a href="/products/holiday-shop">Holiday Shop</a></li>
-<li><a href="/products/back-to-school">Back to School</a></li>
-<li><a href="/products/diy">DIY</a></li>
-<li><a href="/products/sports-and-leisure">Sports &amp; Leisure</a></li>
+<li><a href="/products/pets">Pets</a></li>
 <li><a href="/products/everyday-essentials">Everyday Essentials</a></li>
 <li><a href="/products/garden-centre">Garden Centre</a></li>
 <li><a href="/products/stationery">Stationery</a></li>
-<li><a href="/products/health-and-beauty">Health &amp; Beauty</a></li>
 <li><a href="/products/clothing-and-footwear">Clothing &amp; Footwear</a></li>
+<li><a href="/products/health-and-beauty">Health &amp; Beauty</a></li>
 <li><a href="/products/gifts">Gifts</a></li>
 <li><a href="/products/baby">Baby</a></li>
 <li><a href="/products/winter-fuel">Winter Fuel</a></li>
+<li><a href="/products/euro-2016">Euro 2016</a></li>
 </ul><!-- /.list-un -->
 </div><!-- /.dropdown-menu -->
-</li><!-- /.departments --> 
+</li><!-- /.departments -->	
 </menu><!-- /.nav-menu -->
 </div><!-- /.container -->
 </div><!-- /.nav-inner -->
@@ -874,32 +1030,32 @@
 <div class="container">
 <div class="row">
 <div class="col-xs-3">
-<a class="footer-block" href="/products/summer-sale/wallpaper-sale">
-<img src="/images/hpcFooterAds/imgSource/20-Off-wallpaper-sale-232x192px.jpg" class="footer-block-img" alt="20% off selected wallpaper at B&amp;M." title="20% off selected wallpaper at B&amp;M.">
-</a><!-- /.feature --> 
+<a class="footer-block" href="/products/sports-and-leisure/bike-accessories">
+<img src="/images/hpcFooterAds/imgSource/Bike-acc-232x192px.gif" class="footer-block-img" alt="Save on Bike Accessories at B&amp;M." title="Save on Bike Accessories at B&amp;M.">
+</a><!-- /.feature -->	
 </div><!-- /.col-xs-3 -->
 <div class="col-xs-3">
-<a class="footer-block" href="http://www.bmstores.co.uk/offers/category/Back-to-Uni" target="_blank">
-<img src="/images/hpcFooterAds/imgSource/2015-08-25-Back-to-Uni-Offers-232x192px.jpg" class="footer-block-img" alt="Save on Back to Uni Offers at B&amp;M." title="Save on Back to Uni Offers at B&amp;M.">
-</a><!-- /.feature -->
+<a class="footer-block" href="/products/diy/paint/exterior-paint">
+<img src="/images/hpcFooterAds/imgSource/Cuprinol-232x192px.jpg" class="footer-block-img" alt="Save on fence and exterior paint at B&amp;M." title="Save on fence and exterior paint at B&amp;M.">
+</a><!-- /.feature -->	
 </div><!-- /.col-xs-3 -->
 <div class="col-xs-3">
-<a class="footer-block" href="/products/everyday-essentials">
-<img src="/images/hpcFooterAds/imgSource/Everyday-Essentials-232x192px.jpg" class="footer-block-img" alt="Save on everyday essentials at B&amp;M." title="Save on everyday essentials at B&amp;M.">
-</a><!-- /.feature --> 
+<a class="footer-block" href="/products/swing-football-set-288594">
+<img src="/images/hpcFooterAds/imgSource/Swing-Football-232x192px.jpg" class="footer-block-img" alt="Save on Swing Football at B&amp;M." title="Save on Swing Football at B&amp;M.">
+</a><!-- /.feature -->	
 </div><!-- /.col-xs-3 -->
 <div class="col-xs-3">
-<a class="footer-block" href="/products/holiday-shop">
-<img src="/images/hpcFooterAds/imgSource/Holiday-Shop-232x192px.jpg" class="footer-block-img" alt="Save on Holiday Shop at B&amp;M." title="Save on Holiday Shop at B&amp;M.">
-</a><!-- /.feature --> 
-</div><!-- /.col-xs-3 --> 
+<a class="footer-block" href="/offers/category/Summer-and-Gardening/?filter=1">
+<img src="/images/hpcFooterAds/imgSource/Garden-Offers-232x192px.jpg" class="footer-block-img" alt="Save on Garden Equipment at B&amp;M." title="Save on Garden Equipment at B&amp;M.">
+</a><!-- /.feature -->	
+</div><!-- /.col-xs-3 -->
 </div><!-- /.row -->
 <div class="footer-block">
 <div class="row">
 <div class="col-xs-3">
 <div class="footer-block-inner">
 <p class="footer-block-h text-alt"><a class="text-alt" href="/news">News from B&amp;M</a></p>
-<p><time datetime="2015-08-29"><strong class="text-blue">29 August 2015</strong></time><br>RNLI Saves the Day with B&amp;M Poole Store Opening<br><a class="footer-link text-alt" href="/news/rnli-saves-the-day-with-bandm-poole-store-opening">Read more</a></p>
+<p><time datetime="2016-06-10"><strong class="text-blue">10 June 2016</strong></time><br>B&amp;M Brings New Home Store to Bridgwater<br><a class="footer-link text-alt" href="/news/bandm-brings-new-home-store-to-bridgwater">Read more</a></p>
 </div><!-- /.footer-block-inner -->
 </div><!-- /.col-xx-3 -->
 <div class="footer-block-divider col-xs-push-3"></div>
@@ -926,20 +1082,20 @@
 <p class="footer-block-h text-alt"><a class="text-alt" href="/new-stores">Latest Store Openings...</a></p>
 <table>
 <tbody><tr>
-<td style="text-transform: capitalize;">runcorn - bridge retail park</td>
+<td style="text-transform: capitalize;">bridgwater</td>
 <td style="padding-left: 10px; vertical-align: top; white-space: nowrap;"><strong class="text-alt">NOW OPEN!</strong></td>
 </tr>
 <tr>
-<td style="text-transform: capitalize;">poole - mannings heath retail park</td>
+<td style="text-transform: capitalize;">braintree</td>
 <td style="padding-left: 10px; vertical-align: top; white-space: nowrap;"><strong class="text-alt">NOW OPEN!</strong></td>
 </tr>
 <tr>
-<td style="text-transform: capitalize;">bristol - imperial retail park</td>
-<td style="padding-left: 10px; vertical-align: top; white-space: nowrap;"><strong class="text-alt">OPENING</strong>&nbsp;<small>12 September 2015</small></td>
+<td style="text-transform: capitalize;">peterborough - boongate</td>
+<td style="padding-left: 10px; vertical-align: top; white-space: nowrap;"><strong class="text-alt">OPENING</strong>&nbsp;<small>23 June 2016</small></td>
 </tr>
 <tr>
-<td style="text-transform: capitalize;">nottingham - victoria retail park</td>
-<td style="padding-left: 10px; vertical-align: top; white-space: nowrap;"><strong class="text-alt">OPENING</strong>&nbsp;<small>12 September 2015</small></td>
+<td style="text-transform: capitalize;">clevedon</td>
+<td style="padding-left: 10px; vertical-align: top; white-space: nowrap;"><strong class="text-alt">OPENING</strong>&nbsp;<small>30 June 2016</small></td>
 </tr>
 </tbody></table>
 </div><!-- /.footer-block-inner -->
@@ -971,8 +1127,8 @@
 <a href="https://instagram.com/bm_stores/" target="_Blank">
 <span class="social social-instagram"></span><br>Instagram
 </a>
-<a href="https://plus.google.com/u/0/b/108964594203454386208/+BmstoresCoUk/posts" target="_Blank">
-<span class="social social-googleplus"></span><br>Google+
+<a href="/blog">
+<span class="social social-blog"></span><br>Blog
 </a>
 </p><!-- /.footer-links -->
 </div><!-- /.footer-block-inner -->
@@ -987,7 +1143,7 @@
 <small>See our<br><a href="/privacy-policy">Privacy Policy</a></small>
 </div><!-- /.pull-right -->
 <div class="media-inner">
-<form action="http://bmstores.us7.list-manage.com/subscribe/post?u=c354e3786f27687bd2e24b211&amp;id=bb3c0a2617" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="novalidate">
+<form action="https://bmstores.us7.list-manage.com/subscribe/post?u=c354e3786f27687bd2e24b211&amp;id=bb3c0a2617" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
 <div class="form-group mc-field-group">
 <label class="sr-only" for="footer-newsletter-signup">Email Address</label>
 <input class="form-control" id="footer-newsletter-signup" placeholder="Email Address" title="Email Address" type="email" name="EMAIL">
@@ -1010,7 +1166,7 @@
 <a class="text-alt" href="/contact">
 <span class="social social-email"></span><br>Contact Us
 </a>
-<a class="text-alt" href="/faqs">
+<a class="text-alt" href="/contact">
 <span class="social social-faq"></span><br>FAQs
 </a>
 </p><!-- /.footer-block-h .footer-links -->
@@ -1024,7 +1180,7 @@
 <div class="footer-bottom">
 <div class="container">
 <div class="fb-area">
-<span id="fb-likes-count">581,479</span>
+<span id="fb-likes-count">654,946</span>
 <div id="fb-root"></div>
 <script type="text/javascript">
 (function(d, s, id) {
@@ -1044,7 +1200,7 @@ fjs.parentNode.insertBefore(js, fjs);
 <p class="h2">Help</p>
 <ul class="list-un">
 <li><a href="/contact" target="_self">Contact Us</a></li>
-<li><a href="/faqs" target="_self">FAQs</a></li>
+<li><a href="/contact" target="_self">FAQs</a></li>
 <li><a href="/product-information" target="_self">Product Information</a></li>
 <li><a href="/terms-and-conditions" target="_self">Terms and Conditions</a></li>
 <li><a href="/returns-policy" target="_self">Returns Policy</a></li>
@@ -1061,8 +1217,12 @@ fjs.parentNode.insertBefore(js, fjs);
 <li><a href="/news">Latest News</a></li>
 <li><a href="/blog">Blog</a></li>
 <li><a href="/photo-gallery">Photo Gallery</a></li>
+<li><a href="/newsletter">Newsletter</a></li>
+<li><a href="/competitions">Competitions</a></li>
+<li><a href="/instagram-wall-of-fame">Instagram Wall of Fame</a></li>
 <li><a href="/suppliers">Suppliers</a></li>
 <li><a href="/landlords">Landlords</a></li>
+<li><a href="/corporate-responsibility">Corporate Responsibility</a></li>
 <li><a href="http://www.bandmretail.com" target="_blank">Corporate Information</a></li>
 </ul>
 <!-- /.list-un -->
@@ -1073,11 +1233,11 @@ fjs.parentNode.insertBefore(js, fjs);
 </div><!-- /.col-xs-5 -->
 <div class="col-xs-3">
 <p class="h2">&nbsp;</p>
-<p class="p"><img src="/css/images/bm.png" border="0" alt="B&amp;M" width="50" height="25"> Support:</p>
-<p><img src="/images/logo/rnli.png" border="0" alt="RNLI"></p>
+<p class="p"><img src="/css/images/bm.png" border="0" alt="B&amp;M logo" width="50" height="25"> Support:</p>
+<p><img src="/images/dmImage/SourceImage/Orbis_VFZ_logo_white-105x88-p1.png" border="0" alt="Vision for Zambia logo " width="105" height="88"></p>
 </div><!-- /.col-xs-3 -->
 </div><!--/.row -->
-<p class="p text-center">Products are subject to availability. © Copyright 2015 - B&amp;M Retail Limited. All rights reserved.</p>
+<p class="p text-center">Products are subject to availability. © Copyright 2016 - B&amp;M Retail Limited. All rights reserved.</p>
 <p class="p text-center"><a class="go-to-mobile fc-switch-device-mobile" href="#"><img alt="mobile" src="/css/images/go-to-mobile.png">GO TO MOBILE SITE &gt;</a></p>
 </div><!-- /.container -->
 </div><!-- /.footer-bottom -->
@@ -1096,7 +1256,7 @@ fjs.parentNode.insertBefore(js, fjs);
 <div class="popup-heading">
 <p><span style="font-size: 22px;">Sign up to our newsletter for a chance to</span><br> <strong style="font-size: 34px;">Win £100 B&amp;M Vouchers!</strong></p>
 </div><!-- /.popup-heading -->
-<form class="popup-form" method="post" action="/offers/displayNewsletterPopup/ajaxmode/1" novalidate="novalidate">
+<form class="popup-form" method="post" action="/?view=displayNewsletterPopup&amp;ajaxmode=1" novalidate="novalidate">
 <p>It's really easy to sign up, just enter your email address into the field below:</p>
 <div class="form-group">
 <div class="row">
@@ -1139,7 +1299,6 @@ email: true
 <script src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
 <script type="text/javascript" src="/js/maps.js?v=20150909"></script>
 <script type="text/javascript" src="/js/jquery.history.js"></script>
-<script type="text/javascript" src="/js/mailchimp.js"></script>
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-23199122-1']);
@@ -1153,4 +1312,4 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </script>
 
 
-<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><a class="lb-close"></a><img class="lb-image" src=""><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div></div></div></div><div class="modal-backdrop fade in"></div></body></html>
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><a class="lb-close"></a><img class="lb-image" src=""><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div></div></div></div><div class="modal-backdrop fade in"></div><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul></body></html>
