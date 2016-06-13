@@ -1,31 +1,27 @@
-> *The following text is extracted and transformed from the firstweber.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207232513id_/http%3A//www.firstweber.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstweber.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613145741id_/http%3A//www.firstweber.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy policy | First Weber Realtors
+# Privacy Policy | First Weber Realtors
 
 ## Privacy Policy
 
-Thank you for visiting the First Weber website. First Weber is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified while using our website, you can be assured that it will only be used in accordance with this privacy statement.
+Thank you for visiting First Weber’s website. We are committed to ensuring that your privacy is protected and we will use any personal information you provide to us while visiting this website only according to this policy. By accessing this website, you give us your consent to collect and use certain personal information as described in this policy. Because we update this policy from time to time, you should regularly review this page to ensure that you are aware of any changes to this policy.
 
-Because First Weber may, from time to time, update this policy, we recommend that you review this page regularly to ensure that you are aware of policy changes. This policy remains in effect as of August 2, 2010.
+### What information do we collect?
 
-### Collecting Information
+When you visit this website, we may collect anonymous information about you including what web pages you visited, what properties you viewed, what search criteria you used, and which websites directed you to this website. You also may agree to voluntarily provide us with personal information such as your name, home and e-mail address, and phone number.
 
-While visiting FirstWeber.com, some basic information may be collected. The information may include, but is not limited to, pages visited, homes viewed, details of criteria searches, and sites from which a visitor originated. A visitor may also voluntarily provide information such as name, address, phone number, and email address.
+### How do we use the information?
 
-### How do we use the information gathered?
+We may collect and use the information listed above to better understand our customers’ needs and to help us to provide them with better services and a more efficient online experience. We do not share or sell your personal information with or to any unaffiliated persons or businesses.
 
-Information gathered is used to better understand the needs of the consumer and enable First Weber to provide better services and a more efficient online experience at FirstWeber.com.
+### How do we protect your personal information?
 
-### Cookies
+We are committed to protecting the security and privacy of your personal information. To prevent the unauthorized access to or the disclosure of your information, we’ve created physical and electronic systems and procedures to safeguard the information we collect. There is, however, always some risk that the information you provide to us through this website may be compromised. Although we maintain commercially reasonable security practices to safeguard your information, we cannot guarantee the security of that information. Therefore, we, and anyone else we hire or retain to maintain or operate this website, will not be responsible or liable to you for the unlawful conduct of third parties.
 
-First Weber and its technology partners employ the widely accepted practice of sending “cookies” (small text files containing a short sequence of characters) to computers that are used to access FirstWeber.com. We use cookies to personalize your experience when using our website (for example, to indicate that you are logged into My First Weber); and to gather anonymous data that allows us to determine website traffic trends.
+### Do we use cookies?
 
-### Security
+We and our technology partners employ the widely accepted practice of sending “cookies” (small text files containing a short sequence of characters) to computers that access this website. We use cookies to personalize your website experience (for example, to indicate that you are logged into My First Weber) and to gather anonymous information so that we can analyze trends in website traffic. Most Internet browsers automatically accept cookies, but you can always change your browser settings to prevent cookies from being placed on your computer. Even if you choose not to allow cookies from this website, you can still use the website’s general home-search feature and every other function. Cookies alone, though, cannot be used to discover your identity and we will not know your individual identity unless you provide us with that information.
 
-First Weber is committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put suitable physical, electronic and managerial procedures in place to safeguard and secure the online information we collect. 
+### Why are there hyperlinks to other websites?
 
-By using the First Weber website, you consent to our collection and use of your information as described in this policy. We do not share your information with unaffiliated third parties. However there is always a risk that online information may fall into the wrong hands. Although First Weber maintains reasonable security practices to safeguard your privacy, First Weber cannot guarantee the security of any information provided on this website. First Weber, Inc., and anyone associated with this website, accepts no responsibility or liability for the activities of third party individuals or entities.
-
-### Links to other websites
-
-Our website may contain links to other websites of interest. Once you have used these links to leave our site, you should note that we cannot be responsible for the protection and privacy of any information which is obtained or which you provide while visiting such sites. Such sites are not governed by this privacy statement. When interacting with any website, it is wise to exercise caution and read the privacy policy statement provided.
+This website may contain hyperlinks to other websites. But those websites are not governed by this policy and we will not be responsible for any other website’s content or security or for protecting your information once you leave this website. When visiting other websites, you should always exercise caution and review their privacy policies.
