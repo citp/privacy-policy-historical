@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the kiehls.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025084757id_/http%3A//www.kiehls.com/customservice-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiehls.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613100136id_/http%3A//www.kiehls.com/customservice-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kiehl's
 
 ### INFORMATION COLLECTED
 
-You may visit and browse the Sites without providing personally identifiable information about yourself. However, this may limit your ability to receive certain features, products or services from Us.
+You may visit and browse the Sites without providing personally identifiable information about yourself. However, this may limit your ability to receive certain features, products or services from Us. 
 
 #### Information You Provide
 
 We may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age), or payment information (such as account or credit card number). The types of Personal Information we collect may vary depending on your use of the features of the Sites. If you register at the Sites, enter a promotion, opt–in to receive emails or other offers or communications, we collect and store the information provided. We may also ask you to provide other information, such as demographic information, such as gender, age or about your product preferences and interests.
 
-You may also be able to register and log in using a social media account, including your Facebook account. When you use a social media account to log into the Sites, you may also be able to use certain social features on the Sites. For Facebook log in, Facebook will ask your permission to share certain information from your Facebook account with the Site. This may include your first name, last name, gender, profile picture, list of friends, a link to your Facebook profile, likes, and other data that is part of your or your friends’ Facebook profile(s). This information is collected by Facebook and is provided to us under the terms of Facebook’s privacy policy. You can control the information that we receive from Facebook using the privacy settings in your Facebook account.
+You may also be able to register and log in using a social media account, including your Facebook account. When you use a social media account to log into the Sites, you may also be able to use certain social features on the Sites. For Facebook log in, Facebook will ask your permission to share certain information from your Facebook account with the Site. This may include your first name, last name, gender, profile picture, list of friends, a link to your Facebook profile, likes and other data that is part of your or your friends’ Facebook profile(s). This information is collected by Facebook and is provided to us under the terms of Facebook’s privacy policy. You can control the information that we receive from Facebook using the privacy settings in your Facebook account.
 
 #### Information We Collect Automatically
 
@@ -22,7 +22,7 @@ Device Identifiers: Kiehl’s also automatically collects an IP address or other
 
 Cookies: Like many Web sites, we use "Cookies," which are data files placed on a Device when it is used to visit the Sites to facilitate site navigation and to personalize your experience, including tailoring advertisements. Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Sites and your activities on such social networking sites. We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Sites (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location, or demographic information).
 
-If you would prefer not to accept cookies, you can change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; or set your browser to automatically not accept any cookies. However, please be aware that some features and services on our Sites may not work properly because we may not be able to recognize and associate you with your account. In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. Pixel Tags or Web Beacons: We also use web beacons or pixel tags, which are transparent graphic images placed on a web page or in an email and indicate that a page or email has been viewed or tell your browser to get content from another server. These may provide confirmation to us when you open an email from us.
+If you would prefer not to accept cookies, you can change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; or set your browser to automatically not accept any cookies. However, please be aware that some features and services on our Sites may not work properly because we may not be able to recognize and associate you with your account. In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
 
 Pixel Tags or Web Beacons: We also use web beacons or pixel tags, which are transparent graphic images placed on a web page or in an email and indicate that a page or email has been viewed or tell your browser to get content from another server. These may provide confirmation to us when you open an email from us.
 
@@ -32,20 +32,24 @@ We may receive information about you from third parties that feature our product
 
 We may also receive information about you from outside records from third parties, such as marketing related or demographic information to enhance our ability to tailor our content, products and services that we believe may be of interest to you. We may supplement the information we collect about you through the Sites with such information from third parties in order to enhance our ability to serve you, to tailor our content to you and/or to offer you opportunities to purchase products or services that we believe may be of interest to you. If we combine such data with information we collect through the Sites, such information is subject to this Privacy Policy and Cookie Notice unless we have disclosed otherwise.
 
+### THIRD PARTY WEB ANALYTICS
+
+We may use third party web analytics services on this site, our social media platforms, or our social networking or mobile applications, such as those of Adobe Site Catalyst, Coremetrics and/or Google Analytics. The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the website. You may deactivate the ability of these analytics services to analyze your browsing activities on this site.
+
 ### USE AND SHARING OF INFORMATION
 
 Kiehl’s uses the information we collect about you for a variety of business purposes, including:
 
-  * Responding to your questions and requests
-  * Providing you with access to certain areas and features of the Sites
-  * Verifying your identity
-  * Full–filling product purchases
-  * Communicating with you about your account and activities on the Sites
-  * Sending notice of changes to any Kiehl’s policy
-  * Tailoring content, advertisements, and offers we provide you
-  * Improving the Sites and for internal business purposes
-  * Allowing you to log in with a social media account and share activities on your social media pages, such as Facebook
-  * Processing applications and transactions
+  * responding to your questions and requests
+  * providing you with access to certain areas and features of the Sites
+  * verifying your identity
+  * full–filling product purchases
+  * communicating with you about your account and activities on the Sites
+  * sending notice of changes to any Kiehl’s policy
+  * tailoring content, advertisements, and offers we provide you
+  * improving the Sites and for internal business purposes
+  * allowing you to log in with a social media account and share activities on your social media pages, such as Facebook
+  * processing applications and transactions
 
 
 
@@ -53,7 +57,7 @@ Except as provided in this Privacy Policy and Cookie Notice, we will not provide
 
 Third Parties Providing Services On Our Behalf. We may share your Personal Information with third parties that perform functions on our behalf (or on behalf of our partners) such as service providers that host or operate our Sites, analyze data, process transactions and payments, fulfill orders or provide customer service; advertisers; sponsors or other third parties that participate in or administer our promotions, contests, sweepstakes, surveys or provide marketing or promotional assistance. Your Personal Information may also be used by us or shared with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties to provide you with product information and promotional and other offers to help maintain and operate the Sites or for other reasons related to the operation of our business, including but not limited to the fulfillment of purchases, promotional offers, and administering contests.
 
-Your Agreement To Have Your Personal Information Shared. While on Kiehl’s Sites, you may have the opportunity to opt–in to receive information and/or marketing offers from someone else, or to otherwise consent to the sharing of your information with a third party, including social networking sites such as Facebook or Twitter. If you agree to have your Personal Information shared with a third party, your Personal Information will be disclosed to the third party will be subject to the privacy policy and business practices of that third party.
+Your Agreement To Have Your Personal Information Shared. While on Kiehl’s Sites, you may have the opportunity to opt–in to receive information and/or marketing offers from someone else, or to otherwise consent to the sharing of your information with a third party, including social networking sites such as Facebook or Twitter. If you agree to have your Personal Information shared with a third party, your Personal Information will be disclosed to the third party will be subject to the privacy policy and business practices of that third party. 
 
 If you connect your Facebook account to your Kiehl’s account, we will make available and/or share your Facebook user name and your Facebook profile picture to other users of Kiehl’s. Users may be able to view your profile and shopping activity on the Kiehl’s Sites and your activities may be automatically shared to both your friends on Facebook and with your Facebook friends on the Sites. We will disclose your personal information when you have elected to share your activity to Facebook. Information shared to Facebook will be connected with the Facebook account you log in with. Facebook’s use of such information and any information it collects from your use of or on its service is governed by Facebook’s privacy policy and our use of information is governed by this Privacy Policy. You understand and agree that you need to consult both privacy policies to amend or delete personal information which has been provided to Facebook. If you do not wish for such use of data to take place, you should not agree to share your shopping activity to Facebook and/or adjust your settings to deactivate such sharing. You understand information no longer shared on Facebook may continue to be publicly available to other uses of this Site.
 
@@ -65,19 +69,41 @@ Legal Disclosure. Kiehl’s may transfer and disclose information, including you
 
 You may direct us not to share your Personal Information with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, e–mails or other communications by: (i) modifying your registered user information on the Sites; (ii) sending us an e–mail by clicking here; or (iii) following the removal instructions in the communication that you receive.
 
-If you wish to modify, verify, correct, delete, or update any of your Personal Information collected through the Sites, you may edit your profile preferences or contact us at the above address or e–mail. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Sites. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
+If you wish to modify, verify, correct, delete, or update any of your Personal Information collected through the Sites, you may edit your profile preferences or contact us at the above address or e–mail. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Sites. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. 
 
 We will retain your information (including geo–location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us here. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
 
-### ADVERTISING/TARGETED ADVERTISING: HOW TO OPT OUT
+### ADVERTISING/TARGETED ADVERTISING; HOW TO OPT–OUT
 
 Kiehl’s licenses technology to serve advertisements on its own Sites and within its content as that content is served across the Internet. In addition, Kiehl’s may use third party network advertisers to serve advertisements and third party analytics vendors to evaluate and provide us with information about the use of the Sites and viewing of our content. We do not share Personal Information with these third parties, but ad network providers, the advertisers, the sponsors, and/or analytics service providers may set and access their own cookies, pixel tags and similar technologies on your Device and they may otherwise collect or have access to information about you, including Usage Information. We and our network advertisers may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other web sites. We may use a variety of companies to serve advertisements.
 
 If you prefer to not receive targeted advertising, you can opt out of certain network advertising programs through the Network Advertising Initiative (NAI) Opt–Out Page. Please note that even if you choose to remove your information (opt out), you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt–Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies.
 
+### TEXT/SMS MESSAGE OPT-OUT
+
+If you so elect, you may provide your mobile phone number in order to receive text message alerts containing product and event information, products tips or promotions that may be sent using automated dialing systems ("Text Messages"), and your election to receive Text Messages is not otherwise required to purchase any goods or services from us. There is no fee from Kiehl’s to receive Text Messages, however, your mobile service provider may charge you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider.
+
+You agree that by providing your wireless telephone number to Kiehl’s you’re expressly consenting to receive automated marketing text messages from Kiehl’s to the mobile number provided. Consent is not required to purchase goods or services. Message and data rates will apply and you should check the rates of your telephone carrier.
+
+In Text/Message text case, we will then send a "confirmation" message to the user and will request that the user confirm that he has agreed to receive message from Kiehl’s to this personal phone number.
+
+You acknowledge that Text Messages are distributed via third party mobile network providers and, therefore, we cannot control certain factors relating to message delivery. You acknowledge that, depending on the recipient's mobile provider service, it may not be possible to transmit the Text Message to the recipient successfully; nor is content available on all carriers. We do not claim or guarantee availability or performance of this service, including liability for transmission delays or message failures.
+
+If user consents to Text/SMS Message, to receive HELP with Text/SMS messages reply HELP. To stop receiving Text/SMS messages, reply STOP. Or you can call us at [1–800–543–4572](tel:18005434572) or email us [here](http://www.kiehls.com/on/demandware.store/Sites-kiehls_us-Site/en_US/CustomerService-ContactUsForm) for assistance.
+
+### CALIFORNIA DO NOT TRACK NOTICE
+
+Under California law, website and online service operators are required to disclose how they respond to web browser "do not track" signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information about a consumer’s online activities over time and across third party websites, to the extent the operator engages in that collection.
+
+California law requires website and online service operators to disclose whether third parties may collect personal information about their users’ online activities over time and across different sites when the users use the operator’s website or service. Third parties that have content or services on our site such as a social feature, analytics service, or an advertising network partner, may obtain information about your browsing or usage habits but this information does not include personal information. We do not knowingly permit such third parties to collect any personal information from our site unless you directly provide it to us and we provide it to them with your consent.
+
 ### CHILDREN
 
-The Sites are not directed to children under 13. We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian’s consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
+The Sites are not directed to children under 13. We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
+
+No information from children under age 13. If you are under age 13, please do not attempt to register for Kiehl’s or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under age 13, please contact us through this help page.
+
+Parental participation. We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe internet use practices.
 
 ### SECURITY OF YOUR INFORMATION
 
@@ -85,11 +111,42 @@ Kiehl’s maintains reasonable safeguards to protect Personal Information agains
 
 ### OTHER SITES
 
-The Sites may contain links to third party sites that are not owned or operated by Kiehl’s or our parent company, L’Oreal USA, Inc.. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co–branding or co–marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies or other tracking devices to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Sites (including those linked to through an email or social networking page). The Sites may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Policy and Cookie Notice.
+The Sites may contain links to third party sites that are not owned or operated by Kiehl’s or our parent company, L’Oreal USA, Inc. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co–branding or co–marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies or other tracking devices to your Device they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Sites (including those linked to through an email or social networking page). The Sites may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Policy and Cookie Notice.
+
+### POSTING GUIDELINES & TERMS
+
+These guidelines and terms provide the rules for participating (sharing, tagging, privately messaging, submitting, writing, and/or posting photographs, video, your social media handle or other content) on the Kiehl’s Since 1851 site and other social media pages (e.g. Facebook, Instagram, Twitter, Pinterest, Tumbler) ("User Postings").
+
+The comments and views provided in User Posts are solely those of the visitors to Kiehl’s Since 1851 social media pages and do not necessarily reflect our views or opinions. We are not responsible for content submitted to the page. While we do not monitor every User Posting, please be aware that we may remove, without notice, any post that does not comply with the guidelines listed below.
+
+By sharing a User Posting you agree:
+
+  * you are at least 13 years old and the sole author of the User Posting
+  * all content you post is accurate and truthful
+  * to disclose any material connection to Kiehl’s Since 1851 including receipt of free product samples or compensation or affiliation
+  * you have permission from any other person(s) featured in your submission
+  * your posting does not infringe any third party's copyright, patent, trademark, trade secret, other proprietary rights or rights of publicity or privacy or violate any law or contain false, misleading content
+  * for content that is covered by intellectual property rights, such as photos, videos, your name, likeness, moniker, (IP content) you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on our brand website, emails, other marketing materials, other social platforms or other sites featuring our products. Kiehl’s Since 1851 is not obligated to provide you with any attribution or credit and will not be held liable for any failure to provide you with credit or any errors. You are responsible for complying with all third-party terms and conditions
+  * content submitted by user using a Kiehl’s Since 1851-created hashtag Kiehl’s Since 1851 shall have the right without limitation to edit, stylize, crop, digitize or alter this content and use your content in accordance with the rights you grant under these Terms on any of our sites, social, platforms or third party retailer sites that feature Kiehl’s
+
+
+
+You further agree that you will not share any User Posting that:
+
+  * includes personal information (e.g. telephone numbers, social security number, driver’s license, house address) for you or anyone else
+  * violates any law, statute, ordinance or regulation (including, but not limited to, those governing export control, consumer protection, unfair competition, anti-discrimination or false advertising)
+  * contains any computer viruses, worms or other potentially damaging computer programs or files
+  * is offensive, libelous, hateful, offensive, threatening, harassing, bullying, ridiculing or otherwise contains objectionable content or language
+
+
+
+You agree to indemnify and hold Kiehl’s Since 1851, its parent company and its officers, directors, agents, subsidiaries, joint ventures, employees and third-party service providers harmless from all claims, demands, and damages (actual and consequential) of every kind and nature, known and unknown including reasonable attorneys' fees, arising out of a breach of your representations and warranties set forth above, or your violation of any law or the rights of a third party.
+
+By submitting a User Posting, you agree that Kiehl’s Since 1851 may contact you regarding your Using Posting and for other administrative purposes.
 
 ### CONSENT TO PROCESSING OF INFORMATION
 
-The Sites are governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. Country or region specific web sites are available for L’Oreal brands and products around the world. L’Oreal makes no representation that the Sites are governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Sites, or providing us with any information, you (a) acknowledge that the Sites are subject to the laws of the United States, (b)consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws.
+The Sites are governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. Country or region specific web sites are available for L’Oreal brands and products around the world. L’Oreal makes no representation that the Sites are governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Sites, or providing us with any information, you (a) acknowledge that the Sites are subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws.
 
 ### CHANGES AND POLICY UPDATES
 
@@ -99,13 +156,12 @@ Please note, we may change information on the Sites and/or this Privacy Policy a
 
 If you have any questions or concerns regarding this Privacy Policy and Cookie Notice, please contact us at:
 
-Kiehl’s Customer Care   
-PO Box 2007   
+Kiehl’s Customer Care  
+PO Box 2007  
 Westfield NJ 07091
 
-Re: [Kiehls.com](http://www.kiehls.com/) Privacy Policy and Cookie Notice   
-Telephone: [1-800-543-4572](tel:18005434572)
+Re: [Kiehls.com](http://www.kiehls.com/) Privacy Policy and Cookie Notice Telephone: [1–800–543–4572](tel:18005434572)
 
 Or send us an e–mail with your request [here](http://www.kiehls.com/on/demandware.store/Sites-kiehls_us-Site/en_US/CustomerService-ContactUsForm).
 
-UPDATED AS OF: October 16, 2013
+UPDATED AS OF: March 13, 2015
