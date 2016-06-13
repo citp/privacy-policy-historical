@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiftfrequency.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228080132id_/http%3A//www.shiftfrequency.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftfrequency.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613112227id_/http%3A//www.shiftfrequency.com/privacy) for the most accurate reproduction.*
 
 # This privacy policy applies only to Shift Frequency
 
