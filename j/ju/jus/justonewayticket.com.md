@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justonewayticket.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026063847id_/http%3A//www.justonewayticket.com/j/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justonewayticket.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613124158id_/http%3A//www.justonewayticket.com/j/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - @Just1WayTicket
+# Privacy Policy - Travel Blog @Just1WayTicket
 
   
 
