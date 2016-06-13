@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214034814id_/http%3A//www.driverguide.com/index.php%3Faction%3Ddoc%26page%3Dhome__docs__privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613081518id_/http%3A//members.driverguide.com/index.php%3Faction%3Ddoc%26page%3Dhome__docs__privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
