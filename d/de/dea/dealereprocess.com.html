@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dealereprocess.com privacy policy that was archived on 2015-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151213015027id_/http%3A//www.dealereprocess.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealereprocess.com privacy policy that was archived on 2016-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160613104314id_/http%3A//www.dealereprocess.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <!-- Meta Tags -->
@@ -10,7 +10,7 @@
 <!--Shortcut icon-->
 <link rel="shortcut icon" href="http://www.dealereprocess.com/wp-content/uploads/favicon.png">
 <title> Privacy Policy - Dealer E Process </title>
-<!-- This site is optimized with the Yoast SEO plugin v3.0.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.dealereprocess.com/privacy_policy/">
 <link rel="publisher" href="https://plus.google.com/+Dealereprocess1/posts">
 <meta property="og:locale" content="en_US">
@@ -23,10 +23,128 @@
 <link rel="alternate" type="application/rss+xml" title="Dealer E Process » Feed" href="http://www.dealereprocess.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Dealer E Process » Comments Feed" href="http://www.dealereprocess.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Dealer E Process » Privacy Policy Comments Feed" href="http://www.dealereprocess.com/privacy_policy/feed/">
-<script async="" src="//go.dealereprocess.com/cdnr/92/acton/bn/tracker/16647"></script><script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.dealereprocess.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4"}};
-!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),c.toDataURL().length>3e3):("simple"===a?d.fillText(String.fromCharCode(55357,56835),0,0):d.fillText(String.fromCharCode(55356,57135),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-</script><script src="http://www.dealereprocess.com/wp-includes/js/wp-emoji-release.min.js?ver=4.4" type="text/javascript"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.dealereprocess.com\/wp-includes\/js\/wp-emoji.js?ver=4.5.2","twemoji":"http:\/\/www.dealereprocess.com\/wp-includes\/js\/twemoji.js?ver=4.5.2"}};
+( function( window, document, settings ) {
+var src, ready, ii, tests;
+/**
+* Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+* made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+*
+* @since 4.2.0
+*
+* @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
+* @return {Boolean} True if the browser can render emoji, false if it cannot.
+*/
+function browserSupportsEmoji( type ) {
+var canvas = document.createElement( 'canvas' ),
+context = canvas.getContext && canvas.getContext( '2d' ),
+stringFromCharCode = String.fromCharCode,
+tonedata, tone, tone2;
+if ( ! context || ! context.fillText ) {
+return false;
+}
+/*
+* Chrome on OS X added native emoji rendering in M41. Unfortunately,
+* it doesn't work when the font is bolder than 500 weight. So, we
+* check for bold rendering support to avoid invisible emoji in Chrome.
+*/
+context.textBaseline = 'top';
+context.font = '600 32px Arial';
+switch ( type ) {
+case 'flag':
+/*
+* This works because the image will be one of three things:
+* - Two empty squares, if the browser doesn't render emoji
+* - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
+* - The Australian flag
+*
+* The first two will encode to small images (1-2KB data URLs), the third will encode
+* to a larger image (4-5KB data URL).
+*/
+context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
+return canvas.toDataURL().length > 3000;
+case 'diversity':
+/*
+* This tests if the browser supports the Emoji Diversity specification, by rendering an
+* emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
+* compares if the emoji rendering has changed.
+*/
+context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
+tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
+// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
+// So, we create our own string and compare that, instead.
+tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+return tone !== tone2;
+case 'simple':
+/*
+* This creates a smiling emoji, and checks to see if there is any image data in the
+* center pixel. In browsers that don't support emoji, the character will be rendered
+* as an empty square, so the center pixel will be blank.
+*/
+context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
+return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+case 'unicode8':
+/*
+* To check for Unicode 8 support, let's try rendering the most important advancement
+* that the Unicode Consortium have made in years: the burrito.
+*/
+context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
+return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+}
+return false;
+}
+function addScript( src ) {
+var script = document.createElement( 'script' );
+script.src = src;
+script.type = 'text/javascript';
+document.getElementsByTagName( 'head' )[0].appendChild( script );
+}
+tests = Array( 'simple', 'flag', 'unicode8', 'diversity' );
+settings.supports = {
+everything: true,
+everythingExceptFlag: true
+};
+for( ii = 0; ii < tests.length; ii++ ) {
+settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+if ( 'flag' !== tests[ ii ] ) {
+settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+}
+}
+settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
+settings.DOMReady = false;
+settings.readyCallback = function() {
+settings.DOMReady = true;
+};
+if ( ! settings.supports.everything ) {
+ready = function() {
+settings.readyCallback();
+};
+if ( document.addEventListener ) {
+document.addEventListener( 'DOMContentLoaded', ready, false );
+window.addEventListener( 'load', ready, false );
+} else {
+window.attachEvent( 'onload', ready );
+document.attachEvent( 'onreadystatechange', function() {
+if ( 'complete' === document.readyState ) {
+settings.readyCallback();
+}
+} );
+}
+src = settings.source || {};
+if ( src.concatemoji ) {
+addScript( src.concatemoji );
+} else if ( src.wpemoji && src.twemoji ) {
+addScript( src.twemoji );
+addScript( src.wpemoji );
+}
+}
+} )( window, document, window._wpemojiSettings );
+</script><script src="http://www.dealereprocess.com/wp-includes/js/twemoji.js?ver=4.5.2" type="text/javascript"></script><script src="http://www.dealereprocess.com/wp-includes/js/wp-emoji.js?ver=4.5.2" type="text/javascript"></script>
 <style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -41,141 +159,59 @@ background: none !important;
 padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="otw_grid_manager-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/c69e2d46870790775e6355f9193d8bb8/1449850027index.css" type="text/css" media="all">
-<link rel="stylesheet" id="general_foundicons-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/375a0fb6b61ad9c2de69723f08986d71/1449850027index.css" type="text/css" media="all">
-<link rel="stylesheet" id="social_foundicons-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/941518c5d91dfd1b7a256e9a158ea4f4/1449850027index.css" type="text/css" media="all">
-<link rel="stylesheet" id="otw_shortocde-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/a84197e5c9cdf6a50e4d79139d293851/1449850027index.css" type="text/css" media="all">
-<link rel="stylesheet" id="lr-social-sharing-front-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/4f3f0558aba34bb41b9cd63dd9a0252c/1449850027index.css" type="text/css" media="all">
-<link rel="stylesheet" id="rs-plugin-settings-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/6d1b03586074035eff95643f0e598401/1449850027index.css" type="text/css" media="all">
+<link rel="stylesheet" id="gslBxsliderStyle-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/37e082b988e92b76816d9aec7499d304/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="gslMainStyle-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/96f6952d3add8baa6737c38221844de8/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="otw_grid_manager-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/c69e2d46870790775e6355f9193d8bb8/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="general_foundicons-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/375a0fb6b61ad9c2de69723f08986d71/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="social_foundicons-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/941518c5d91dfd1b7a256e9a158ea4f4/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="otw_shortocde-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/a84197e5c9cdf6a50e4d79139d293851/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="oss-social-sharing-front-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/2e2e393ad2b5983c258e62679e3de88e/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="oss-share-widget-style-css" href="https://sharecdn.social9.com/v2/css/os-share-widget-style.css?ver=4.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-ui-standard-css-css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css?ver=4.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/618650257aff2b9de0c3f225a49a1721/1465592482index.css" type="text/css" media="all">
 <style id="rs-plugin-settings-inline-css" type="text/css">
 .tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
 </style>
-<link rel="stylesheet" id="rgs-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/fb07f8eb57bd059c1d36c892ab6856c6/1449850027index.css" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/62d4830c5e5082c8ebe6515e992c5194/1449850027index.css" type="text/css" media="all">
-<link rel="stylesheet" id="main-styles-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/3f9b8ff638a5b9b91ad1a2062cace546/1449850027index.css" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/3bcb5021ea63dae685e3259f07621851/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/9372871c5acea1446429ca08fc1958da/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="rgs-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/b316207e6c356efa96c65d0c7e0dbe4c/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/f57ff823760de847ed42f08f89ea07e8/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="main-styles-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/daf867dd072429025dfcbde08f981cbf/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/b78e7ca681eab0b8af19e61120aae523/1465592482index.css" type="text/css" media="all">
 <!--[if lt IE 9]>
-<link rel='stylesheet' id='nectar-ie8-css'  href='//www.dealereprocess.com/wp-content/cache/wpfc-minified/ef8a427034a034e7545036f7af2ee19a/1449850027index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='nectar-ie8-css'  href='//www.dealereprocess.com/wp-content/cache/wpfc-minified/288d9770bb4bed2dd2c9763280e8941a/1465592482index.css' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="responsive-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/ba8e83fb14625dae2a96f409530f0e73/1449850027index.css" type="text/css" media="all">
-<link rel="stylesheet" id="tablepress-default-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/8d133bcce414122b45258a6e5a0cfddc/1449850027index.css" type="text/css" media="all">
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/WP_Estimation_Form/assets/js/lfb_frontend.min.js?ver=9.32"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.1.4"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.1.4"></script>
+<link rel="stylesheet" id="responsive-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/e0715ed14510449d44c3b413f23814c0/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/d3f03fbdac1289ba6cebef4052780e41/1465592482index.css" type="text/css" media="all">
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.0"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.5.2"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.5.2"></script>
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-content/themes/salient/js/modernizr.js?ver=2.6.2"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/js_composer_salient/assets/lib/bower/progress-circle/ProgressCircle.min.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/js_composer_salient/assets/lib/vc_chart/jquery.vc_chart.min.js?ver=4.5.2"></script>
 <link rel="https://api.w.org/" href="http://www.dealereprocess.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.dealereprocess.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.dealereprocess.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.4">
+<meta name="generator" content="WordPress 4.5.2">
 <link rel="shortlink" href="http://www.dealereprocess.com/?p=919">
 <link rel="alternate" type="application/json+oembed" href="http://www.dealereprocess.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.dealereprocess.com%2Fprivacy_policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.dealereprocess.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.dealereprocess.com%2Fprivacy_policy%2F&amp;format=xml">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/273a30e32b5c276f5978905cc77ee575/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/4a2263cd2efd7f24a06abe2d93b9bf59/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/1cd5945995243b2b1717cad2d1856e5c/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/6236ff057b452b5b33344b291f91d24a/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/7cfe65fde37d87e5bbe5a907f0451a75/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/c0743591a6ba81fb82dcba66b2ba4b1e/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/84a8af98bbfa3dbb2189fc371f40994a/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/942138b30468d40067b8cc05d6479764/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/3b8e6da2cac950612d151e490036701f/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/e7cd2c33409a34aec9066f19889024d9/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/7354b1b44723d8e5caa32d117066bb73/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/06f47280996b70f1697abe1a99a0ab95/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/67204ba8b026b04b8c585d1df13514d0/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/dfb0c35deae2b23bca0f026d1778d030/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/b383acbfc87fc711fcc3eb71f550c73d/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/cbfa964276090c4bd4fb629a77ab7640/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/ebf6e1ffef9808d5336e4378b7ed4065/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/c6bc0021a57f39b177044fc882fae59f/1449850027index.css">
-<link rel="stylesheet" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/00f39e4307d2a5472f9c7ae15a0d40f6/1449850027index.css">
-<script>window["WIDGETKIT_URL"]="/wp-content/plugins/widgetkit";</script>
-<script>function wk_ajax_render_url(widgetid){ return "http://www.dealereprocess.com/wp-admin/admin-ajax.php?action=widgetkit_render&id="+widgetid}</script>
-<script src="/wp-content/plugins/widgetkit/js/jquery.plugins.js"></script>
-<script src="/wp-content/plugins/widgetkit/widgets/accordion/js/accordion.js"></script>
-<script src="/wp-content/plugins/widgetkit/widgets/gallery/js/lazyloader.js"></script>
-<script>$widgetkit.load('/wp-content/plugins/widgetkit/widgets/lightbox/js/lightbox.js').done(function(){ 
-jQuery(function($){
-setTimeout(function() { 
-$('a[data-lightbox]').lightbox({"titlePosition":"float","transitionIn":"fade","transitionOut":"fade","overlayShow":1,"overlayColor":"#777","overlayOpacity":0.7}); 
-}, 500);
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+jQuery('.page-id-2656 header#top a#logo').attr('href', '#');
+jQuery('.page-id-2656 #footer-widgets').css("display", "none");
 });
-});</script>
-<script src="/wp-content/plugins/widgetkit/widgets/map/js/lazyloader.js"></script>
-<script>$widgetkit.trans.addDic({"FROM_ADDRESS":"From address: ","GET_DIRECTIONS":"Get directions","FILL_IN_ADDRESS":"Please fill in your address.","ADDRESS_NOT_FOUND":"Sorry, address not found!","LOCATION_NOT_FOUND":", not found!"});</script>
-<script>if (!window['mejs']) { $widgetkit.load('/wp-content/plugins/widgetkit/widgets/mediaplayer/mediaelement/mediaelement-and-player.js').done(function() { jQuery(function($){
-mejs.MediaElementDefaults.pluginPath='/wp-content/plugins/widgetkit/widgets/mediaplayer/mediaelement/'; 
-$('video,audio').each(function(){
-var ele = $(this);
-if (!ele.parent().hasClass('mejs-mediaelement')) {
-ele.data('mediaelement',new mejs.MediaElementPlayer(this, {"pluginPath":"\/wp-content\/plugins\/widgetkit\/widgets\/mediaplayer\/mediaelement\/"}));
-var w = ele.data('mediaelement').width, h = ele.data('mediaelement').height;
-$.onMediaQuery('(max-width: 767px)', {
-valid: function(){
-ele.data('mediaelement').setPlayerSize('100%', ele.is('video') ? '100%':h);
-},
-invalid: function(){
-var parent_width = ele.parent().width();
-if (w>parent_width) {
-ele.css({width:'',height:''}).data('mediaelement').setPlayerSize('100%', '100%');
-} else {
-ele.css({width:'',height:''}).data('mediaelement').setPlayerSize(w, h);
+</script>
+<style type="text/css">
+.ui-widget {
+font-family: inherit;
+font-size: inherit;
 }
-}
-});
-if ($(window).width() <= 767) {
-ele.data('mediaelement').setPlayerSize('100%', ele.is('video') ? '100%':h);
-}
-}
-});
-}); });} else { jQuery(function($){
-mejs.MediaElementDefaults.pluginPath='/wp-content/plugins/widgetkit/widgets/mediaplayer/mediaelement/'; 
-$('video,audio').each(function(){
-var ele = $(this);
-if (!ele.parent().hasClass('mejs-mediaelement')) {
-ele.data('mediaelement',new mejs.MediaElementPlayer(this, {"pluginPath":"\/wp-content\/plugins\/widgetkit\/widgets\/mediaplayer\/mediaelement\/"}));
-var w = ele.data('mediaelement').width, h = ele.data('mediaelement').height;
-$.onMediaQuery('(max-width: 767px)', {
-valid: function(){
-ele.data('mediaelement').setPlayerSize('100%', ele.is('video') ? '100%':h);
-},
-invalid: function(){
-var parent_width = ele.parent().width();
-if (w>parent_width) {
-ele.css({width:'',height:''}).data('mediaelement').setPlayerSize('100%', '100%');
-} else {
-ele.css({width:'',height:''}).data('mediaelement').setPlayerSize(w, h);
-}
-}
-});
-if ($(window).width() <= 767) {
-ele.data('mediaelement').setPlayerSize('100%', ele.is('video') ? '100%':h);
-}
-}
-});
-});; }</script>
-<script src="/wp-content/plugins/widgetkit/widgets/slideset/js/lazyloader.js"></script>
-<script src="/wp-content/plugins/widgetkit/widgets/slideshow/js/lazyloader.js"></script>
-<script>$widgetkit.load('/wp-content/plugins/widgetkit/widgets/spotlight/js/spotlight.js').done(function(){jQuery(function($){ $('[data-spotlight]').spotlight({"duration":300}); });});</script>
-<script src="/wp-content/plugins/widgetkit/widgets/twitter/twitter.js"></script>
-<script>$widgetkit.trans.addDic({"LESS_THAN_A_MINUTE_AGO":"less than a minute ago","ABOUT_A_MINUTE_AGO":"about a minute ago","X_MINUTES_AGO":"%s minutes ago","ABOUT_AN_HOUR_AGO":"about an hour ago","X_HOURS_AGO":"about %s hours ago","ONE_DAY_AGO":"1 day ago","X_DAYS_AGO":"%s days ago"});</script>
-<script src="/wp-content/plugins/widgetkit/js/responsive.js"></script>
-<style type="text/css">body a{color:#2a3591;}header#top nav ul li a:hover,header#top nav .sf-menu li.sfHover > a,header#top nav .sf-menu li.current-menu-item > a,header#top nav .sf-menu li.current_page_item > a .sf-sub-indicator i,header#top nav .sf-menu li.current_page_ancestor > a .sf-sub-indicator i,header#top nav ul li a:hover,header#top nav .sf-menu li.sfHover > a,header#top nav .sf-menu li.current_page_ancestor > a,header#top nav .sf-menu li.current-menu-ancestor > a,header#top nav .sf-menu li.current_page_item > a,body header#top nav .sf-menu li.current_page_item > a .sf-sub-indicator [class^="icon-"],header#top nav .sf-menu li.current_page_ancestor > a .sf-sub-indicator [class^="icon-"],header#top nav .sf-menu li.current-menu-ancestor > a,header#top nav .sf-menu li.current_page_item > a,.sf-menu li ul li.sfHover > a .sf-sub-indicator [class^="icon-"],ul.sf-menu > li > a:hover > .sf-sub-indicator i,ul.sf-menu > li > a:active > .sf-sub-indicator i,ul.sf-menu > li.sfHover > a > .sf-sub-indicator i,.sf-menu ul li.current_page_item > a,.sf-menu ul li.current-menu-ancestor > a,.sf-menu ul li.current_page_ancestor > a,.sf-menu ul a:focus,.sf-menu ul a:hover,.sf-menu ul a:active,.sf-menu ul li:hover > a,.sf-menu ul li.sfHover > a,.sf-menu li ul li a:hover,.sf-menu li ul li.sfHover > a,#footer-outer a:hover,.recent-posts .post-header a:hover,article.post .post-header a:hover,article.result a:hover,article.post .post-header h2 a,.single article.post .post-meta a:hover,.comment-list .comment-meta a:hover,label span,.wpcf7-form p span,.icon-3x[class^="icon-"],.icon-3x[class*=" icon-"],.icon-tiny[class^="icon-"],.circle-border,article.result .title a,.home .blog-recent .col .post-header a:hover,.home .blog-recent .col .post-header h3 a,#single-below-header a:hover,header#top #logo:hover,.sf-menu > li.current_page_ancestor > a > .sf-sub-indicator [class^="icon-"],.sf-menu > li.current-menu-ancestor > a > .sf-sub-indicator [class^="icon-"],body #mobile-menu li.open > a [class^="icon-"],.pricing-column h3,.comment-author a:hover,.project-attrs li i,#footer-outer #copyright li a i:hover,.col:hover > [class^="icon-"].icon-3x.accent-color.alt-style.hovered,.col:hover > [class*=" icon-"].icon-3x.accent-color.alt-style.hovered,#header-outer .widget_shopping_cart .cart_list a,.woocommerce .star-rating,.woocommerce-page table.cart a.remove,.woocommerce form .form-row .required,.woocommerce-page form .form-row .required,body #header-secondary-outer #social a:hover i,.woocommerce ul.products li.product .price,.woocommerce-page ul.products li.product .price,.nectar-milestone .number.accent-color,header#top nav > ul > li.megamenu > ul > li > a:hover,header#top nav > ul > li.megamenu > ul > li.sfHover > a,body #portfolio-nav a:hover i,span.accent-color,.nectar-love:hover i,.nectar-love.loved i,.portfolio-items .nectar-love:hover i,.portfolio-items .nectar-love.loved i,body .hovered .nectar-love i,header#top nav ul #search-btn a:hover span,header#top nav ul .slide-out-widget-area-toggle a:hover span,#search-outer #search #close a span:hover,.carousel-wrap[data-full-width="true"] .carousel-heading a:hover i,#search-outer .ui-widget-content li:hover a .title,#search-outer .ui-widget-content .ui-state-hover .title,#search-outer .ui-widget-content .ui-state-focus .title,.portfolio-filters-inline .container ul li a.active,body [class^="icon-"].icon-default-style,.team-member a.accent-color:hover,.ascend .comment-list .reply a,.wpcf7-form .wpcf7-not-valid-tip,.text_on_hover.product .add_to_cart_button{color:#2a3591!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.accent-color.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.accent-color.alt-style.hovered,.ascend #header-outer:not(.transparent) .cart-outer:hover .cart-menu-wrap:not(.has_products) .icon-salient-cart{color:#2a3591!important;}.orbit-wrapper div.slider-nav span.right,.orbit-wrapper div.slider-nav span.left,.flex-direction-nav a,.jp-play-bar,.jp-volume-bar-value,.jcarousel-prev:hover,.jcarousel-next:hover,.portfolio-items .col[data-default-color="true"] .work-info-bg,.portfolio-items .col[data-default-color="true"] .bottom-meta,.portfolio-filters a,.portfolio-filters #sort-portfolio,.project-attrs li span,.progress li span,.nectar-progress-bar span,#footer-outer #footer-widgets .col .tagcloud a:hover,#sidebar .widget .tagcloud a:hover,article.post .more-link span:hover,article.post.quote .post-content .quote-inner,article.post.link .post-content .link-inner,#pagination .next a:hover,#pagination .prev a:hover,.comment-list .reply a:hover,input[type=submit]:hover,input[type="button"]:hover,#footer-outer #copyright li a.vimeo:hover,#footer-outer #copyright li a.behance:hover,.toggle.open h3 a,.tabbed > ul li a.active-tab,[class*=" icon-"],.icon-normal,.bar_graph li span,.nectar-button[data-color-override="false"].regular-button,.nectar-button.tilt.accent-color,body .swiper-slide .button.transparent_2 a.primary-color:hover,#footer-outer #footer-widgets .col input[type="submit"],.carousel-prev:hover,.carousel-next:hover,.blog-recent .more-link span:hover,.post-tags a:hover,.pricing-column.highlight h3,#to-top:hover,#to-top.dark:hover,#pagination a.page-numbers:hover,#pagination span.page-numbers.current,.single-portfolio .facebook-share a:hover,.single-portfolio .twitter-share a:hover,.single-portfolio .pinterest-share a:hover,.single-post .facebook-share a:hover,.single-post .twitter-share a:hover,.single-post .pinterest-share a:hover,.mejs-controls .mejs-time-rail .mejs-time-current,.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-current,.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,article.post.quote .post-content .quote-inner,article.post.link .post-content .link-inner,article.format-status .post-content .status-inner,article.post.format-aside .aside-inner,body #header-secondary-outer #social li a.behance:hover,body #header-secondary-outer #social li a.vimeo:hover,#sidebar .widget:hover [class^="icon-"].icon-3x,.woocommerce-page div[data-project-style="text_on_hover"] .single_add_to_cart_button,article.post.quote .content-inner .quote-inner .whole-link,.iosSlider .prev_slide:hover,.iosSlider .next_slide:hover,body [class^="icon-"].icon-3x.alt-style.accent-color,body [class*=" icon-"].icon-3x.alt-style.accent-color,#slide-out-widget-area,#header-outer .widget_shopping_cart a.button,#header-outer a.cart-contents .cart-wrap span,.swiper-slide .button.solid_color a,.swiper-slide .button.solid_color_2 a,.portfolio-filters,button[type=submit]:hover,#buddypress button:hover,#buddypress a.button:hover,#buddypress ul.button-nav li.current a,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines:after,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines:before,#buddypress a.button:focus,.text_on_hover.product a.added_to_cart,.woocommerce div.product .woocommerce-tabs .full-width-content ul.tabs li a:after,.woocommerce div[data-project-style="text_on_hover"] .cart .quantity input.minus,.woocommerce div[data-project-style="text_on_hover"] .cart .quantity input.plus,.woocommerce .span_4 input[type="submit"].checkout-button{background-color:#2a3591!important;}.col:hover > [class^="icon-"].icon-3x:not(.alt-style).accent-color.hovered,.col:hover > [class*=" icon-"].icon-3x:not(.alt-style).accent-color.hovered,body .nectar-button.see-through-2[data-hover-color-override="false"]:hover,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x:not(.alt-style).accent-color.hovered,.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x:not(.alt-style).accent-color.hovered{background-color:#2a3591!important;}.tabbed > ul li a.active-tab,body .recent_projects_widget a:hover img,.recent_projects_widget a:hover img,#sidebar #flickr a:hover img,body .nectar-button.see-through-2[data-hover-color-override="false"]:hover,#footer-outer #flickr a:hover img,#featured article .post-title a:hover,body #featured article .post-title a:hover,div.wpcf7-validation-errors{border-color:#2a3591!important;}.default-loading-icon:before{border-top-color:#2a3591!important;}#header-outer a.cart-contents span:before{border-color:transparent #2a3591!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover .hovered .circle-border,#sidebar .widget:hover .circle-border{border-color:#2a3591;}.gallery a:hover img{border-color:#2a3591!important;}@media only screen and (min-width :1px) and (max-width :1000px){body #featured article .post-title > a{background-color:#2a3591;}body #featured article .post-title > a{border-color:#2a3591;}}.nectar-button.regular-button.extra-color-1,.nectar-button.tilt.extra-color-1{background-color:#bb0000!important;}.icon-3x[class^="icon-"].extra-color-1:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-1,.icon-3x[class*=" icon-"].extra-color-1:not(.alt-style),.icon-3x[class*=" icon-"].extra-color-1:not(.alt-style) .circle-border,.woocommerce-page table.cart a.remove,#header-outer .widget_shopping_cart .cart_list li a.remove,#header-outer .woocommerce.widget_shopping_cart .cart_list li a.remove,.nectar-milestone .number.extra-color-1,span.extra-color-1,.team-member ul.social.extra-color-1 li a,.stock.out-of-stock,body [class^="icon-"].icon-default-style.extra-color-1,.team-member a.extra-color-1:hover{color:#bb0000!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-1:not(.alt-style),.col:hover > [class*=" icon-"].icon-3x.extra-color-1:not(.alt-style).hovered,body .swiper-slide .button.transparent_2 a.extra-color-1:hover,body .col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-1:not(.alt-style).hovered,body .col:not(#post-area):not(#sidebar):not(.span_12):hover a [class*=" icon-"].icon-3x.extra-color-1:not(.alt-style).hovered,#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-1:not(.alt-style){background-color:#bb0000!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-1,body [class*=" icon-"].icon-3x.alt-style.extra-color-1,[class*=" icon-"].extra-color-1.icon-normal,.extra-color-1.icon-normal,.bar_graph li span.extra-color-1,.nectar-progress-bar span.extra-color-1,#header-outer .widget_shopping_cart a.button,.woocommerce ul.products li.product .onsale,.woocommerce-page ul.products li.product .onsale,.woocommerce span.onsale,.woocommerce-page span.onsale,.woocommerce-page table.cart a.remove:hover,.swiper-slide .button.solid_color a.extra-color-1,.swiper-slide .button.solid_color_2 a.extra-color-1,.toggle.open.extra-color-1 h3 a{background-color:#bb0000!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-1.alt-style.hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-1.alt-style.hovered,.no-highlight.extra-color-1 h3,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-1.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-1.alt-style.hovered{color:#bb0000!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-1.hovered .circle-border,.woocommerce-page table.cart a.remove,#header-outer .woocommerce.widget_shopping_cart .cart_list li a.remove,#header-outer .woocommerce.widget_shopping_cart .cart_list li a.remove,#sidebar .widget:hover .extra-color-1 .circle-border,.woocommerce-page table.cart a.remove{border-color:#bb0000;}.pricing-column.highlight.extra-color-1 h3{background-color:#bb0000!important;}.nectar-button.regular-button.extra-color-2,.nectar-button.tilt.extra-color-2{background-color:#ffffff!important;}.icon-3x[class^="icon-"].extra-color-2:not(.alt-style),.icon-3x[class*=" icon-"].extra-color-2:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-2,.icon-3x[class*=" icon-"].extra-color-2 .circle-border,.nectar-milestone .number.extra-color-2,span.extra-color-2,.team-member ul.social.extra-color-2 li a,body [class^="icon-"].icon-default-style.extra-color-2,.team-member a.extra-color-2:hover{color:#ffffff!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,body .swiper-slide .button.transparent_2 a.extra-color-2:hover,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-2:not(.alt-style){background-color:#ffffff!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-2,body [class*=" icon-"].icon-3x.alt-style.extra-color-2,[class*=" icon-"].extra-color-2.icon-normal,.extra-color-2.icon-normal,.bar_graph li span.extra-color-2,.nectar-progress-bar span.extra-color-2,.woocommerce .product-wrap .add_to_cart_button.added,.woocommerce-message,.woocommerce-error,.woocommerce-info,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,.swiper-slide .button.solid_color a.extra-color-2,.swiper-slide .button.solid_color_2 a.extra-color-2,.toggle.open.extra-color-2 h3 a{background-color:#ffffff!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-2.alt-style.hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-2.alt-style.hovered,.no-highlight.extra-color-2 h3,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-2.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-2.alt-style.hovered{color:#ffffff!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-2.hovered .circle-border,#sidebar .widget:hover .extra-color-2 .circle-border{border-color:#ffffff;}.pricing-column.highlight.extra-color-2 h3{background-color:#ffffff!important;}.nectar-button.regular-button.extra-color-3,.nectar-button.tilt.extra-color-3{background-color:#333333!important;}.icon-3x[class^="icon-"].extra-color-3:not(.alt-style),.icon-3x[class*=" icon-"].extra-color-3:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-3,.icon-3x[class*=" icon-"].extra-color-3 .circle-border,.nectar-milestone .number.extra-color-3,span.extra-color-3,.team-member ul.social.extra-color-3 li a,body [class^="icon-"].icon-default-style.extra-color-3,.team-member a.extra-color-3:hover{color:#333333!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,body .swiper-slide .button.transparent_2 a.extra-color-3:hover,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-3:not(.alt-style){background-color:#333333!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-3,body [class*=" icon-"].icon-3x.alt-style.extra-color-3,.extra-color-3.icon-normal,[class*=" icon-"].extra-color-3.icon-normal,.bar_graph li span.extra-color-3,.nectar-progress-bar span.extra-color-3,.swiper-slide .button.solid_color a.extra-color-3,.swiper-slide .button.solid_color_2 a.extra-color-3,.toggle.open.extra-color-3 h3 a{background-color:#333333!important;}.col:hover > [class^="icon-"].icon-3x.extra-color-3.alt-style.hovered,.col:hover > [class*=" icon-"].icon-3x.extra-color-3.alt-style.hovered,.no-highlight.extra-color-3 h3,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-3.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-3.alt-style.hovered{color:#333333!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-3.hovered .circle-border,#sidebar .widget:hover .extra-color-3 .circle-border{border-color:#333333;}.pricing-column.highlight.extra-color-3 h3{background-color:#333333!important;}header#top nav > ul > li > a,header#top #logo,header#top .span_9 > .slide-out-widget-area-toggle i,.sf-sub-indicator [class^="icon-"],body[data-header-color="custom"].ascend #boxed #header-outer .cart-menu .cart-icon-wrap i,body.ascend #boxed #header-outer .cart-menu .cart-icon-wrap i,.sf-sub-indicator [class*=" icon-"],header#top nav ul #search-btn a span,header#top #toggle-nav i,header#top #toggle-nav i,header#top #mobile-cart-link i,#header-outer .cart-menu .cart-icon-wrap .icon-salient-cart,#search-outer #search input[type="text"],#search-outer #search #close a span{color:#ffffff!important;}header#top nav ul .slide-out-widget-area-toggle a i.lines,header#top nav ul .slide-out-widget-area-toggle a i.lines:after,header#top nav ul .slide-out-widget-area-toggle a i.lines:before{background-color:#ffffff!important;}body header#top nav > ul > li > a:hover,header#top #logo:hover,.ascend #header-outer:not(.transparent) .cart-outer:hover .cart-menu-wrap:not(.has_products) .icon-salient-cart,body header#top nav .sf-menu > li.sfHover > a,body header#top nav .sf-menu > li.current-menu-item > a,body header#top nav .sf-menu > li.current_page_item > a .sf-sub-indicator i,body header#top nav .sf-menu > li.current_page_ancestor > a .sf-sub-indicator i,body header#top nav .sf-menu > li.sfHover > a,body header#top nav .sf-menu > li.current_page_ancestor > a,body header#top nav .sf-menu > li.current-menu-ancestor > a,body header#top nav .sf-menu > li.current-menu-ancestor > a i,body header#top nav .sf-menu > li.current_page_item > a,body header#top nav .sf-menu > li.current_page_item > a .sf-sub-indicator [class^="icon-"],body header#top nav .sf-menu > li.current_page_ancestor > a .sf-sub-indicator [class^="icon-"],body header#top nav .sf-menu > li.current-menu-ancestor > a,body .sf-menu > li.sfHover > a .sf-sub-indicator [class^="icon-"],body .sf-menu > li:hover > a .sf-sub-indicator [class^="icon-"],body .sf-menu > li:hover > a,header#top nav ul #search-btn a:hover span,header#top nav ul .slide-out-widget-area-toggle a:hover span,#search-outer #search #close a span:hover{color:#ffffff!important;}header#top nav ul .slide-out-widget-area-toggle a:hover i.lines,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines:after,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines:before{background-color:#ffffff!important;}body #slide-out-widget-area-bg{background-color:rgba(0,0,0,0.8);}</style><style type="text/css"> #header-outer{padding-top:2px;}#header-outer #logo img{height:85px;}#header-outer[data-format="centered-menu-under-logo"] header#top #logo .starting-logo{margin-top:-102px;}header#top nav > ul > li > a{padding-bottom:35px;padding-top:33px;}#header-outer .cart-menu{padding-bottom:35px;padding-top:35px;}header#top nav > ul li#search-btn,header#top nav > ul li.slide-out-widget-area-toggle{padding-bottom:32px;padding-top:33px;}header#top .sf-menu > li.sfHover > ul{top:20px;}.sf-sub-indicator{height:20px;}#header-space{height:89px;}body[data-smooth-scrolling="1"] #full_width_portfolio .project-title.parallax-effect{top:89px;}body.single-product div.product .product_title{padding-right:0;}@media only screen and (min-width:1000px) and (max-width:1300px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:45px!important;line-height:51px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:18px!important;line-height:31.2px!important;}}@media only screen and (min-width :690px) and (max-width :1000px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:33px!important;line-height:39px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:13.2px!important;line-height:24px!important;}}@media only screen and (max-width :690px){.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content h2,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content h2{font-size:15px!important;line-height:21px!important;}.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content p,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content p{font-size:7.68px!important;line-height:17.52px!important;}}#mobile-menu #mobile-search,header#top nav ul #search-btn{display:none!important;}@media only screen and (min-width:1000px){.container,.woocommerce-tabs .full-width-content .tab-container{max-width:1425px;width:100%;margin:0 auto;padding:0 90px;}.swiper-slide .content{padding:0 90px;}body .container .container:not(.tab-container){width:100%!important;padding:0!important;}body .carousel-heading .container{padding:0 10px!important;}body .carousel-heading .container .carousel-next{right:10px;}body .carousel-heading .container .carousel-prev{right:35px;}.carousel-wrap[data-full-width="true"] .carousel-heading a.portfolio-page-link{left:90px;}.carousel-wrap[data-full-width="true"] .carousel-heading{margin-left:-20px;margin-right:-20px;}.carousel-wrap[data-full-width="true"] .carousel-next{right:90px!important;}.carousel-wrap[data-full-width="true"] .carousel-prev{right:115px!important;}.carousel-wrap[data-full-width="true"]{padding:0!important;}.carousel-wrap[data-full-width="true"] .caroufredsel_wrapper{padding:20px!important;}#search-outer #search #close a{right:90px;}#boxed,#boxed #header-outer,#boxed #header-secondary-outer,#boxed #page-header-bg[data-parallax="1"],#boxed #featured,#boxed .orbit > div,#boxed #featured article,.ascend #boxed #search-outer{max-width:1400px!important;width:90%!important;min-width:980px;}#boxed #search-outer #search #close a{right:0!important;}#boxed .container{width:92%;padding:0;}#boxed #footer-outer #footer-widgets,#boxed #footer-outer #copyright{padding-left:0;padding-right:0;}#boxed .carousel-wrap[data-full-width="true"] .carousel-heading a.portfolio-page-link{left:35px;}#boxed .carousel-wrap[data-full-width="true"] .carousel-next{right:35px!important;}#boxed .carousel-wrap[data-full-width="true"] .carousel-prev{right:60px!important;}}</style><style type="text/css">.tabbed > ul li a.active-tab {
-border-bottom: 1px solid #058;
-}
-@media only screen and (max-width: 689px) and (min-width: 1px){
-body header#top #logo img {
-height: 40px!important;
-margin-top: -10px!important;
-}
-}
-@media only screen and (max-width: 1000px) and (min-width: 690px) {
-body header#top #logo img {
-height: 35px!important;
-}
-}</style><meta name="generator" content="Powered by Slider Revolution 5.1.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
-<!-- DEP custom changes -->
+</style>
+<style type="text/css"> #header-outer{padding-top:2px;}#header-outer #logo img{height:85px;}header#top nav > ul > li > a{padding-bottom:35px;padding-top:33px;}#header-outer .cart-menu{padding-bottom:35px;padding-top:35px;}header#top nav > ul li#search-btn,header#top nav > ul li.slide-out-widget-area-toggle{padding-bottom:32px;padding-top:33px;}header#top .sf-menu > li.sfHover > ul{top:20px;}.sf-sub-indicator{height:20px;}#header-space{height:89px;}body[data-smooth-scrolling="1"] #full_width_portfolio .project-title.parallax-effect{top:89px;}body.single-product div.product .product_title{padding-right:0;}@media only screen and (min-width:1000px){body:not(.ascend)[data-slide-out-widget-area="true"] #header-outer[data-has-menu="false"][data-permanent-transparent="false"] header#top,body.ascend[data-slide-out-widget-area="true"] #header-outer[data-has-menu="false"][data-permanent-transparent="false"][data-full-width="false"] header#top{padding-bottom:2px;}}@media only screen and (max-width:1000px){body header#top #logo img,#header-outer[data-permanent-transparent="false"] #logo .dark-version{height:25px!important;}header#top .col.span_9{min-height:49px;line-height:29px;}}.nectar-slider-loading .loading-icon,.portfolio-loading,#ajax-loading-screen .loading-icon,.loading-icon,.pp_loaderIcon{background-image:url("");}@media only screen and (min-width:1000px) and (max-width:1300px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:45px!important;line-height:51px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:18px!important;line-height:31.2px!important;}}@media only screen and (min-width :690px) and (max-width :1000px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:33px!important;line-height:39px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:13.2px!important;line-height:24px!important;}}@media only screen and (max-width :690px){.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content h2,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content h2{font-size:15px!important;line-height:21px!important;}.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content p,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content p{font-size:10px!important;line-height:17.52px!important;}}#mobile-menu #mobile-search,header#top nav ul #search-btn{display:none!important;}@media only screen and (min-width:1000px){.container,.woocommerce-tabs .full-width-content .tab-container,.nectar-recent-posts-slider .flickity-page-dots{max-width:1425px;width:100%;margin:0 auto;padding:0 90px;}body .container .page-submenu.stuck .container:not(.tab-container),.nectar-recent-posts-slider .flickity-page-dots{padding:0 90px!important;}.swiper-slide .content{padding:0 90px;}body .container .container:not(.tab-container):not(.recent-post-container){width:100%!important;padding:0!important;}body .carousel-heading .container{padding:0 10px!important;}body .carousel-heading .container .carousel-next{right:10px;}body .carousel-heading .container .carousel-prev{right:35px;}.carousel-wrap[data-full-width="true"] .carousel-heading a.portfolio-page-link{left:90px;}.carousel-wrap[data-full-width="true"] .carousel-heading{margin-left:-20px;margin-right:-20px;}.carousel-wrap[data-full-width="true"] .carousel-next{right:90px!important;}.carousel-wrap[data-full-width="true"] .carousel-prev{right:115px!important;}.carousel-wrap[data-full-width="true"]{padding:0!important;}.carousel-wrap[data-full-width="true"] .caroufredsel_wrapper{padding:20px!important;}#search-outer #search #close a{right:90px;}#boxed,#boxed #header-outer,#boxed #header-secondary-outer,#boxed #slide-out-widget-area-bg.fullscreen,#boxed #page-header-bg[data-parallax="1"],#boxed #featured,body[data-footer-reveal="1"] #boxed #footer-outer,#boxed .orbit > div,#boxed #featured article,.ascend #boxed #search-outer{max-width:1400px!important;width:90%!important;min-width:980px;}body[data-hhun="1"] #boxed #header-outer:not(.detached),body[data-hhun="1"] #boxed #header-secondary-outer{width:100%!important;}#boxed #search-outer #search #close a{right:0!important;}#boxed .container{width:92%;padding:0;}#boxed #footer-outer #footer-widgets,#boxed #footer-outer #copyright{padding-left:0;padding-right:0;}#boxed .carousel-wrap[data-full-width="true"] .carousel-heading a.portfolio-page-link{left:35px;}#boxed .carousel-wrap[data-full-width="true"] .carousel-next{right:35px!important;}#boxed .carousel-wrap[data-full-width="true"] .carousel-prev{right:60px!important;}}.pagination-navigation{-webkit-filter:url("http://www.dealereprocess.com/privacy_policy/#goo");filter:url("http://www.dealereprocess.com/privacy_policy/#goo");}.page-id-15109 .post-area{float:right!important;padding-left:27px!important;}.tabbed > ul li a.active-tab{border-bottom:1px solid #058;}body[data-header-resize="0"] .container-wrap,body[data-header-resize="0"] .project-title{margin-top:-10px;}@media only screen and (max-width:689px) and (min-width:1px){body header#top #logo img{height:40px!important;margin-top:-10px!important;}}@media only screen and (max-width:1000px) and (min-width:690px){body header#top #logo img{height:35px!important;}}</style><style type="text/css"> body,.toggle h3 a,body .ui-widget,table,.bar_graph li span strong,#slide-out-widget-area .tagcloud a,#search-results .result .title span,.woocommerce ul.products li.product h3,.woocommerce-page ul.products li.product h3,.row .col.section-title .nectar-love span,body .nectar-love span,body .nectar-social .nectar-love .nectar-love-count,body .carousel-heading h2,.sharing-default-minimal .nectar-social .social-text,body .sharing-default-minimal .nectar-love{}.nectar-fancy-ul ul li .icon-default-style[class^="icon-"]{}header#top nav > ul > li > a{}header#top .sf-menu li ul li a,#header-secondary-outer nav > ul > li > a,#header-secondary-outer ul ul li a,#header-outer .widget_shopping_cart .cart_list a{}@media only screen and (min-width :1px) and (max-width :1000px){header#top .sf-menu a{font-family:-!important;font-size:14px!important;}}#page-header-bg h1,body h1,body .row .col.section-title h1,.full-width-content .recent-post-container .inner-wrap h2{}@media only screen and (max-width:1300px) and (min-width:1000px){body .row .col.section-title h1,body h1,.full-width-content .recent-post-container .inner-wrap h2{font-size:;line-height:;}}@media only screen and (max-width:1000px) and (min-width:690px){body .row .col.section-title h1,body h1{font-size:;line-height:;}.full-width-content .recent-post-container .inner-wrap h2{font-size:;line-height:;}}@media only screen and (max-width:690px){body .row .col.section-title h1,body h1{font-size:;line-height:;}.full-width-content .recent-post-container .inner-wrap h2{font-size:;line-height:;}}#page-header-bg h2,body h2,article.post .post-header h2,article.post.quote .post-content h2,article.post.link .post-content h2,article.post.format-status .post-content h2,#call-to-action span,.woocommerce .full-width-tabs #reviews h3,.row .col.section-title h2{}@media only screen and (max-width:1300px) and (min-width:1000px){body h2{font-size:;line-height:;}.row .span_2 h2,.row .span_3 h2,.row .span_4 h2,.row .vc_col-sm-2 h2,.row .vc_col-sm-3 h2,.row .vc_col-sm-4 h2{font-size:;line-height:;}}@media only screen and (max-width:690px){.col h2{font-size:;line-height:;}}body h3,.row .col h3,.toggle h3 a,.ascend #respond h3,.ascend h3#comments,.woocommerce ul.products li.product.text_on_hover h3,.masonry.classic_enhanced .masonry-blog-item h3.title{}@media only screen and (min-width:1000px){.ascend .comments-section .comment-wrap.full-width-section > h3,.blog_next_prev_buttons[data-post-header-style="default_minimal"] .col h3{font-size:;line-height:;}.masonry.classic_enhanced .masonry-blog-item.large_featured h3.title{font-size:;line-height:;}}@media only screen and (min-width:1300px) and (max-width:1500px){body .portfolio-items.constrain-max-cols.masonry-items .col.elastic-portfolio-item h3{font-size:;line-height:;}}@media only screen and (max-width:1300px) and (min-width:1000px),(max-width:690px){.row .span_2 h3,.row .span_3 h3,.row .span_4 h3,.row .vc_col-sm-2 h3,.row .vc_col-sm-3 h3,.row .vc_col-sm-4 h3{font-size:;line-height:;}}body h4,.row .col h4,.portfolio-items .work-meta h4,.portfolio-items .col.span_3 .work-meta h4,#respond h3,h3#comments,.portfolio-items[data-ps="6"] .work-meta h4{}@media only screen and (min-width:690px){.portfolio-items[data-ps="6"] .wide_tall .work-meta h4{font-size:;line-height:;}}body h5,.row .col h5,.portfolio-items .work-item.style-3-alt p{}body .wpb_column > .wpb_wrapper > .morphing-outline .inner > h5{font-size:;}body h6,.row .col h6{}body i,body em,.masonry.meta_overlaid article.post .post-header .meta-author > span,#post-area.masonry.meta_overlaid article.post .post-meta .date,#post-area.masonry.meta_overlaid article.post.quote .quote-inner .author,#post-area.masonry.meta_overlaid article.post.link .post-content .destination{}form label,.woocommerce-checkout-review-order-table .product-info .amount,.woocommerce-checkout-review-order-table .product-info .product-quantity,.nectar-progress-bar p,.nectar-progress-bar span strong i,.nectar-progress-bar span strong,.testimonial_slider blockquote span{}.nectar-dropcap{}body #page-header-bg h1,html body .row .col.section-title h1,.nectar-box-roll .overlaid-content h1{}@media only screen and (min-width:690px) and (max-width:1000px){#page-header-bg .span_6 h1,.overlaid-content h1{font-size:;line-height:;}}@media only screen and (min-width:1000px) and (max-width:1300px){#page-header-bg .span_6 h1,.nectar-box-roll .overlaid-content h1{font-size:;line-height:;}}@media only screen and (min-width:1300px) and (max-width:1500px){#page-header-bg .span_6 h1,.nectar-box-roll .overlaid-content h1{font-size:;line-height:;}}@media only screen and (max-width:690px){#page-header-bg.fullscreen-header .span_6 h1,.overlaid-content h1{font-size:;line-height:;}}body #page-header-bg .span_6 span.subheader,body .row .col.section-title > span,.nectar-box-roll .overlaid-content .subheader{}@media only screen and (min-width:1000px) and (max-width:1300px){body #page-header-bg:not(.fullscreen-header) .span_6 span.subheader,body .row .col.section-title > span{font-size:;line-height:;}}@media only screen and (min-width:690px) and (max-width:1000px){body #page-header-bg.fullscreen-header .span_6 span.subheader,.overlaid-content .subheader{font-size:;line-height:;}}@media only screen and (max-width:690px){body #page-header-bg.fullscreen-header .span_6 span.subheader,.overlaid-content .subheader{font-size:;line-height:;}}body #slide-out-widget-area .inner .off-canvas-menu-container li a,body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{}@media only screen and (min-width:690px) and (max-width:1000px){body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{font-size:;line-height:;}}@media only screen and (max-width:690px){body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{font-size:;line-height:;}}#slide-out-widget-area .menuwrapper li small{}@media only screen and (min-width:690px) and (max-width:1000px){#slide-out-widget-area .menuwrapper li small{font-size:;line-height:;}}@media only screen and (max-width:690px){#slide-out-widget-area .menuwrapper li small{font-size:;line-height:;}}.swiper-slide .content h2{}@media only screen and (min-width:1000px) and (max-width:1300px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:;line-height:;}}@media only screen and (min-width:690px) and (max-width:1000px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:;line-height:;}}@media only screen and (max-width:690px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:;line-height:;}}#featured article .post-title h2 span,.swiper-slide .content p,#portfolio-filters-inline #current-category,body .vc_text_separator div{}#portfolio-filters-inline ul{line-height:;}.swiper-slide .content p.transparent-bg span{}@media only screen and (min-width:1000px) and (max-width:1300px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}@media only screen and (min-width:690px) and (max-width:1000px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}@media only screen and (max-width:690px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,body .full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}.testimonial_slider blockquote,.testimonial_slider blockquote span,blockquote{}#footer-outer .widget h4,#sidebar h4,#call-to-action .container a,.uppercase,.nectar-button,body .widget_calendar table th,body #footer-outer #footer-widgets .col .widget_calendar table th,.swiper-slide .button a,header#top nav > ul > li.megamenu > ul > li > a,.carousel-heading h2,body .gform_wrapper .top_label .gfield_label,body .vc_pie_chart .wpb_pie_chart_heading,#infscr-loading div,#page-header-bg .author-section a,.ascend input[type="submit"],.ascend button[type="submit"],.widget h4,.text-on-hover-wrap .categories a,.text_on_hover.product .add_to_cart_button,.woocommerce-page div[data-project-style="text_on_hover"] .single_add_to_cart_button,.woocommerce div[data-project-style="text_on_hover"] .cart .quantity input.qty,.woocommerce-page #respond input#submit,.meta_overlaid article.post .post-header h2,.meta_overlaid article.post.quote .post-content h2,.meta_overlaid article.post.link .post-content h2,.meta_overlaid article.post.format-status .post-content h2,.meta_overlaid article .meta-author a,.pricing-column.highlight h3 .highlight-reason,.blog-recent[data-style="minimal"] .col > span,.masonry.classic_enhanced .posts-container article .meta-category a,.nectar-recent-posts-slider .container .strong,#page-header-bg[data-post-hs="default_minimal"] .inner-wrap > a,.single .heading-title[data-header-style="default_minimal"] .meta-category a,.nectar-fancy-box .link-text{font-weight:normal;}.team-member h4,.row .col.section-title p,.row .col.section-title span,#page-header-bg .subheader,.nectar-milestone .subject,.testimonial_slider blockquote span{}article.post .post-meta .month{line-height:-6px!important;}</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href='//www.dealereprocess.com/wp-content/cache/wpfc-minified/a7dadea757629af811160cce2cd76866/1465592482index.css' media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href='//www.dealereprocess.com/wp-content/cache/wpfc-minified/9a7a1f2654770b400a5cc437feb54277/1465592482index.css' media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.2.5.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!-- DEP custom changes -->
 <style type="text/css">
 @media only screen and (min-width : 1px) and (max-width : 1300px) {
 body header#top #toggle-nav,body header#top #mobile-cart-link {
@@ -202,10 +238,40 @@ position: relative;
 left: 5px;
 }
 </style>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1045779985494956');
+fbq('track', "PageView");
+fbq('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1045779985494956&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 </head>
-<body class="page page-id-919 page-template-default nectar-auto-lightbox" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="false" data-ajax-transitions="false" data-full-width-header="false" data-slide-out-widget-area="false" data-loading-animation="none" data-bg-header="false" data-ext-responsive="true" data-header-resize="0" data-header-color="custom" data-transparent-header="false" data-smooth-scrolling="0" data-responsive="1">
+<body class="page page-id-919 page-template-default nectar-auto-lightbox wpb-js-composer js-comp-ver-4.10 vc_responsive" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="false" data-ajax-transitions="false" data-full-width-header="false" data-slide-out-widget-area="false" data-loading-animation="none" data-bg-header="false" data-ext-responsive="true" data-header-resize="0" data-header-color="custom" data-transparent-header="false" data-smooth-scrolling="0" data-responsive="1">
+<!-- Deactivate link on ice page -->
+<script>
+$( document ).ready(function() {
+$('.page-id-2656 header#top #logo img').attr('href', '#').css('border', '1px solid #0095da;");
+console.log('hello');
+});
+</script>
+<!-- end deactivate link -->
 <!-- Tracking code -->
-<script>/*<![CDATA[*/(function(w,a,b,d,s){w[a]=w[a]||{};w[a][b]=w[a][b]||{q:[],track:function(r,e,t){this.q.push({r:r,e:e,t:t||+new Date});}};var e=d.createElement(s);var f=d.getElementsByTagName(s)[0];e.async=1;e.src='//go.dealereprocess.com/cdnr/92/acton/bn/tracker/16647';f.parentNode.insertBefore(e,f);})(window,'ActOn','Beacon',document,'script');ActOn.Beacon.track();/*]]>*/</script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1867548-25', 'auto');
+ga('send', 'pageview');
+</script>
 <!-- end tracking code -->
 <div id="header-space"></div>
 <div id="header-outer" data-has-menu="true" data-user-set-bg="#ffffff" data-format="default" data-cart="false" data-transparency-option="0" data-shrink-num="6" data-full-width="false" data-using-secondary="0" data-using-logo="1" data-logo-height="85" data-padding="2" data-header-resize="">
@@ -230,6 +296,8 @@ left: 5px;
 <a id="logo" href="http://www.dealereprocess.com">
 <img class="default-logo dark-version" alt="Dealer E Process" src="http://www.dealereprocess.com/wp-content/uploads/DEP_logo_450.png"><img class="retina-logo  dark-version" alt="Dealer E Process" src="http://www.dealereprocess.com/wp-content/uploads/DEP_logo_900.png"> 
 </a>
+<!-- DEP Revision, add DEP West logo to header for display on only the DEP West Contact Page -->
+<img src="http://www.dealereprocess.com/wp-content/uploads/DEP-West-logo-chrome.png" id="depwest_logo">
 </div><!--/span_3-->
 <div class="col span_9 col_last">
 <a href="#mobilemenu" id="toggle-nav"><i class="icon-reorder"></i></a>					
@@ -238,19 +306,64 @@ left: 5px;
 <li id="search-btn"><div><a href="#searchbox"><span class="icon-salient-search" aria-hidden="true"></span></a></div> </li>
 </ul>
 <ul class="sf-menu">	
-<li id="menu-item-22" class="lock-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="http://dashboard.dealereprocess.com/login/">Dealer Login</a></li><li id="menu-item-854" class="megamenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sf-with-ul menu-item-854"><a>Products<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
+<li id="menu-item-22" class="lock-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="http://dashboard.dealereprocess.com/login/">Dealer Login</a></li>
+<li id="menu-item-854" class="megamenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sf-with-ul menu-item-854"><a>Products<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
 <ul class="sub-menu">
 <li id="menu-item-43" class="columns-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-43"><a href="#">Websites<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
 <ul class="sub-menu">
-<li id="menu-item-722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-722"><a href="http://www.dealereprocess.com/best-responsive-auto-car-dealer-websites/">Responsive Dealer Websites</a></li>		<li id="menu-item-12131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12131"><a href="http://www.dealereprocess.com/kia-certified-website-digital-advertising-provider/">Responsive Kia Websites</a></li>		<li id="menu-item-6713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6713"><a href="http://www.dealereprocess.com/bmw-certified-website-provider/">Responsive BMW Websites</a></li>		<li id="menu-item-7751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7751"><a href="http://www.dealereprocess.com/meet-the-best-website-vdp-in-the-auto-industry/">Best VDP in Industry</a></li>		<li id="menu-item-9898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9898"><a href="http://www.dealereprocess.com/customizable-vdp/">Customizable VDP</a></li>	</ul>
-</li>	<li id="menu-item-44" class="columns-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44"><a href="#">Website Add-ons<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
+<li id="menu-item-722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-722"><a href="http://www.dealereprocess.com/best-responsive-auto-car-dealer-websites/">Responsive Dealer Websites</a></li>
+<li id="menu-item-15355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15355"><a href="http://www.dealereprocess.com/acura-certified-website-advertising-program/">Responsive Acura Websites</a></li>
+<li id="menu-item-13995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13995"><a href="http://www.dealereprocess.com/toyota-certified-website-digital-advertising-provider/">Responsive Toyota Websites</a></li>
+<li id="menu-item-12131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12131"><a href="http://www.dealereprocess.com/kia-certified-website-digital-advertising-provider/">Responsive Kia Websites</a></li>
+<li id="menu-item-6713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6713"><a href="http://www.dealereprocess.com/bmw-certified-website-provider/">Responsive BMW Websites</a></li>
+<li id="menu-item-14027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14027"><a href="http://www.dealereprocess.com/spanish-website-digital-advertising-provider/">Responsive Spanish Websites</a></li>
+</ul>
+</li>
+<li id="menu-item-44" class="columns-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44"><a href="#">Website Add-ons<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
 <ul class="sub-menu">
-<li id="menu-item-947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-947"><a href="http://www.dealereprocess.com/search_engine_marketing/">Digital AMMP – Digital Marketing</a></li>		<li id="menu-item-8045" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8045"><a href="http://www.dealereprocess.com/configurator/">New Vehicle Configurator</a></li>		<li id="menu-item-6083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6083"><a href="http://www.dealereprocess.com/credit-miner/">CreditMiner<span style="position: relative; bottom: 0px; font-size: 6px;">SM</span></a></li>		<li id="menu-item-8205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8205"><a href="http://www.dealereprocess.com/basis2/">Basis<span style="font-size: 10px;">2</span><span style="position: relative; bottom: 0px; font-size: 6px;">SM</span></a></li>		<li id="menu-item-5843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5843"><a href="http://www.dealereprocess.com/auto-dealer-content-services/">Content Engineering Services</a></li>		<li id="menu-item-3544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3544"><a href="http://www.dealereprocess.com/auto-dealer-craigslist-inventory-posting/">Craigslist Inventory Posting Tool</a></li>		<li id="menu-item-12892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12892"><a href="http://www.dealereprocess.com/virtual_service_consultant/">Virtual Service Consultant</a></li>	</ul>
-</li>	<li id="menu-item-887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-887"><a href="#">Website Add-ons<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
+<li id="menu-item-658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="http://www.dealereprocess.com/auto-car-dealer-live-chat/">Live Chat</a></li>
+<li id="menu-item-8151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8151"><a href="http://www.eautoappraise.com/overview/">eAutoAppraise<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
 <ul class="sub-menu">
-<li id="menu-item-8046" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8046"><a href="http://www.dealereprocess.com/dealer-watch/">Dealer Watch</a></li>		<li id="menu-item-6687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6687"><a href="http://www.dealereprocess.com/ispy/">iSPY</a></li>		<li id="menu-item-9377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9377"><a href="http://www.dealereprocess.com/eautopayments/">eAuto Payments</a></li>		<li id="menu-item-658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="http://www.dealereprocess.com/auto-car-dealer-live-chat/">Live Chat</a></li>		<li id="menu-item-8151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8151"><a href="http://www.eautoappraise.com/overview/">eAutoAppraise</a></li>		<li id="menu-item-656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="http://www.dealereprocess.com/rapid_response/">Rapid Response</a></li>		<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="http://www.dealereprocess.com/hosted-e-mail/">Hosted E-Mail For Car Dealers</a></li>	</ul>
-</li></ul>
-</li><li id="menu-item-2825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2825"><a href="http://www.dealereprocess.com/portfolio/">Portfolio</a></li><li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="/blog/">Blog</a></li><li id="menu-item-12471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12471"><a href="http://www.dealereprocess.com/company-directory/">Contact Us</a></li>						</ul>
+<li id="menu-item-6083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6083"><a href="http://www.dealereprocess.com/credit-miner/">CreditMiner<span style="position: relative; bottom: 0px; font-size: 6px;">SM</span></a></li>
+</ul>
+</li>
+<li id="menu-item-12892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12892"><a href="http://www.dealereprocess.com/virtual_service_consultant/">Virtual Service Consultant</a></li>
+<li id="menu-item-6687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6687"><a href="http://www.dealereprocess.com/ispy/">iSPY</a></li>
+<li id="menu-item-8045" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8045"><a href="http://www.dealereprocess.com/configurator/">New Vehicle Configurator</a></li>
+<li id="menu-item-9377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9377"><a href="http://www.dealereprocess.com/eautopayments/">eAuto Payments</a></li>
+<li id="menu-item-8046" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8046"><a href="http://www.dealereprocess.com/dealer-watch/">Dealer Watch</a></li>
+</ul>
+</li>
+<li id="menu-item-887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-887"><a href="#">Additional Services<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
+<ul class="sub-menu">
+<li id="menu-item-656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="http://www.dealereprocess.com/rapid_response/">Rapid Response</a></li>
+<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="http://www.dealereprocess.com/hosted-e-mail/">Hosted E-Mail For Car Dealers</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-13311" class="megamenusmall menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sf-with-ul menu-item-13311"><a>Digital Marketing<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
+<ul class="sub-menu">
+<li id="menu-item-947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-947"><a href="http://www.dealereprocess.com/search_engine_marketing/">Digital AMMP Advertising Overview</a></li>
+<li id="menu-item-13597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13597"><a href="http://www.dealereprocess.com/full-digital-marketing-transparency/">Tracking &amp; Reporting</a></li>
+<li id="menu-item-13413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13413"><a href="http://www.dealereprocess.com/grade-my-ppc/">Grade My PPC</a></li>
+<li id="menu-item-13661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13661"><a href="http://www.dealereprocess.com/dynamic-vdp-remarketing/">Remarketing</a></li>
+<li id="menu-item-5843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5843"><a href="http://www.dealereprocess.com/auto-dealer-content-services/">Content Engineering Services</a></li>
+<li id="menu-item-13676" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13676"><a href="http://www.dealereprocess.com/digital-ammp-partners/">Partners</a></li>
+<li id="menu-item-13474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13474"><a href="http://www.dealereprocess.com/display-advertising/">Display Advertising</a></li>
+<li id="menu-item-3544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3544"><a href="http://www.dealereprocess.com/auto-dealer-craigslist-inventory-posting/">Craigslist Inventory Posting Tool</a></li>
+</ul>
+</li>
+<li id="menu-item-13891" class="megamenusmall menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sf-with-ul menu-item-13891"><a>Awards<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
+<ul class="sub-menu">
+<li id="menu-item-13892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13892"><a href="http://www.dealereprocess.com/awards/">Website Awards</a></li>
+<li id="menu-item-13667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13667"><a href="http://www.dealereprocess.com/digital-ammp-awards/">Digital Marketing Awards</a></li>
+</ul>
+</li>
+<li id="menu-item-2825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2825"><a href="http://www.dealereprocess.com/portfolio/">Portfolio</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="/blog/">Blog</a></li>
+<li id="menu-item-12471" class="megamenusmall menu-item menu-item-type-post_type menu-item-object-page menu-item-12471"><a href="http://www.dealereprocess.com/company-directory/">Contact Us</a></li>
+</ul>
 </nav>
 </div><!--/span_9-->
 </div><!--/row-->
@@ -261,19 +374,64 @@ left: 5px;
 <div id="mobile-menu">
 <div class="container">
 <ul>
-<li class="lock-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="http://dashboard.dealereprocess.com/login/">Dealer Login</a></li><li class="megamenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-854"><a>Products</a>
+<li class="lock-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="http://dashboard.dealereprocess.com/login/">Dealer Login</a></li>
+<li class="megamenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-854"><a>Products</a>
 <ul class="sub-menu">
 <li class="columns-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-43"><a href="#">Websites</a>
 <ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-722"><a href="http://www.dealereprocess.com/best-responsive-auto-car-dealer-websites/">Responsive Dealer Websites</a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12131"><a href="http://www.dealereprocess.com/kia-certified-website-digital-advertising-provider/">Responsive Kia Websites</a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6713"><a href="http://www.dealereprocess.com/bmw-certified-website-provider/">Responsive BMW Websites</a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7751"><a href="http://www.dealereprocess.com/meet-the-best-website-vdp-in-the-auto-industry/">Best VDP in Industry</a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9898"><a href="http://www.dealereprocess.com/customizable-vdp/">Customizable VDP</a></li>	</ul>
-</li>	<li class="columns-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44"><a href="#">Website Add-ons</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-722"><a href="http://www.dealereprocess.com/best-responsive-auto-car-dealer-websites/">Responsive Dealer Websites</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15355"><a href="http://www.dealereprocess.com/acura-certified-website-advertising-program/">Responsive Acura Websites</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13995"><a href="http://www.dealereprocess.com/toyota-certified-website-digital-advertising-provider/">Responsive Toyota Websites</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12131"><a href="http://www.dealereprocess.com/kia-certified-website-digital-advertising-provider/">Responsive Kia Websites</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6713"><a href="http://www.dealereprocess.com/bmw-certified-website-provider/">Responsive BMW Websites</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14027"><a href="http://www.dealereprocess.com/spanish-website-digital-advertising-provider/">Responsive Spanish Websites</a></li>
+</ul>
+</li>
+<li class="columns-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44"><a href="#">Website Add-ons</a>
 <ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-947"><a href="http://www.dealereprocess.com/search_engine_marketing/">Digital AMMP – Digital Marketing</a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8045"><a href="http://www.dealereprocess.com/configurator/">New Vehicle Configurator</a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6083"><a href="http://www.dealereprocess.com/credit-miner/">CreditMiner<span style="position: relative; bottom: 0px; font-size: 6px;">SM</span></a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8205"><a href="http://www.dealereprocess.com/basis2/">Basis<span style="font-size: 10px;">2</span><span style="position: relative; bottom: 0px; font-size: 6px;">SM</span></a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5843"><a href="http://www.dealereprocess.com/auto-dealer-content-services/">Content Engineering Services</a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3544"><a href="http://www.dealereprocess.com/auto-dealer-craigslist-inventory-posting/">Craigslist Inventory Posting Tool</a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12892"><a href="http://www.dealereprocess.com/virtual_service_consultant/">Virtual Service Consultant</a></li>	</ul>
-</li>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-887"><a href="#">Website Add-ons</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="http://www.dealereprocess.com/auto-car-dealer-live-chat/">Live Chat</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8151"><a href="http://www.eautoappraise.com/overview/">eAutoAppraise</a>
 <ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8046"><a href="http://www.dealereprocess.com/dealer-watch/">Dealer Watch</a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6687"><a href="http://www.dealereprocess.com/ispy/">iSPY</a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9377"><a href="http://www.dealereprocess.com/eautopayments/">eAuto Payments</a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="http://www.dealereprocess.com/auto-car-dealer-live-chat/">Live Chat</a></li>		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8151"><a href="http://www.eautoappraise.com/overview/">eAutoAppraise</a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="http://www.dealereprocess.com/rapid_response/">Rapid Response</a></li>		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="http://www.dealereprocess.com/hosted-e-mail/">Hosted E-Mail For Car Dealers</a></li>	</ul>
-</li></ul>
-</li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2825"><a href="http://www.dealereprocess.com/portfolio/">Portfolio</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="/blog/">Blog</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12471"><a href="http://www.dealereprocess.com/company-directory/">Contact Us</a></li><li id="mobile-search">  
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6083"><a href="http://www.dealereprocess.com/credit-miner/">CreditMiner<span style="position: relative; bottom: 0px; font-size: 6px;">SM</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12892"><a href="http://www.dealereprocess.com/virtual_service_consultant/">Virtual Service Consultant</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6687"><a href="http://www.dealereprocess.com/ispy/">iSPY</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8045"><a href="http://www.dealereprocess.com/configurator/">New Vehicle Configurator</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9377"><a href="http://www.dealereprocess.com/eautopayments/">eAuto Payments</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8046"><a href="http://www.dealereprocess.com/dealer-watch/">Dealer Watch</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-887"><a href="#">Additional Services</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="http://www.dealereprocess.com/rapid_response/">Rapid Response</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="http://www.dealereprocess.com/hosted-e-mail/">Hosted E-Mail For Car Dealers</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="megamenusmall menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13311"><a>Digital Marketing</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-947"><a href="http://www.dealereprocess.com/search_engine_marketing/">Digital AMMP Advertising Overview</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13597"><a href="http://www.dealereprocess.com/full-digital-marketing-transparency/">Tracking &amp; Reporting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13413"><a href="http://www.dealereprocess.com/grade-my-ppc/">Grade My PPC</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13661"><a href="http://www.dealereprocess.com/dynamic-vdp-remarketing/">Remarketing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5843"><a href="http://www.dealereprocess.com/auto-dealer-content-services/">Content Engineering Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13676"><a href="http://www.dealereprocess.com/digital-ammp-partners/">Partners</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13474"><a href="http://www.dealereprocess.com/display-advertising/">Display Advertising</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3544"><a href="http://www.dealereprocess.com/auto-dealer-craigslist-inventory-posting/">Craigslist Inventory Posting Tool</a></li>
+</ul>
+</li>
+<li class="megamenusmall menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13891"><a>Awards</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13892"><a href="http://www.dealereprocess.com/awards/">Website Awards</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13667"><a href="http://www.dealereprocess.com/digital-ammp-awards/">Digital Marketing Awards</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2825"><a href="http://www.dealereprocess.com/portfolio/">Portfolio</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="/blog/">Blog</a></li>
+<li class="megamenusmall menu-item menu-item-type-post_type menu-item-object-page menu-item-12471"><a href="http://www.dealereprocess.com/company-directory/">Contact Us</a></li>
+<li id="mobile-search">  
 <form action="http://www.dealereprocess.com" method="GET">
 <input type="text" name="s" value="" placeholder="Search..">
 </form> 
@@ -312,7 +470,7 @@ left: 5px;
 <div class="row">
 <div class="col span_4 mobile-hidden">
 <!-- Footer widget area 1 -->
-<div id="execphp-3" class="widget widget_execphp">			<div class="execphpwidget"><div id="quick-links">
+<div id="text-15" class="widget widget_text"><h4>Quick Links</h4>			<div class="textwidget"><div id="quick-links">
 <div id="top-links">
 <ul>
 <li>
@@ -361,37 +519,39 @@ left: 5px;
 </ul>
 </div>
 <div id="copyright-info">
-<p>© 2015 Dealer E Process. All Rights Reserved.</p>
+<p>© <!--?php echo date('Y') . ' ' . get_bloginfo('name'); ?-->2016. All Rights Reserved.</p>
+<img src="/wp-content/uploads/slide-digital-google-partner.png" alt="Dealer E Process is a Google Partner" id="google_logo">
+<img src="/wp-content/uploads/bing_logo.png" alt="Dealer E Process is a Bing Authorized Reseller" id="bing_logo">
 </div>
 </div>
 </div></div>
 </div>				</div><!--/span_3-->
 <div class="col span_4">
 <!-- Footer widget area 2 -->
-<div id="gform_widget-2" class="widget gform_widget"><h4>Contact Us</h4><link rel="stylesheet" id="gforms_reset_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/50cd408eadfc6afd625f835afade265f/1449850027index.css" type="text/css" media="all">
-<link rel="stylesheet" id="gforms_formsmain_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/bd0404db7f13ebb94a7ae4465ac25ce4/1449850027index.css" type="text/css" media="all">
-<link rel="stylesheet" id="gforms_ready_class_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/be57d21f5143dd487add7ca24039c6cc/1449850027index.css" type="text/css" media="all">
-<link rel="stylesheet" id="gforms_browsers_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/592df02a2e03c8c01db22c34ca0878b1/1449850027index.css" type="text/css" media="all">
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/gravityforms/js/jquery.textareaCounter.plugin.js?ver=1.9.15"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=1.9.15"></script>
+<div id="gform_widget-3" class="widget gform_widget"><h4>Contact Us</h4><link rel="stylesheet" id="gforms_reset_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/ee21b15f515b44c79f0f5884ddd0b6a3/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_formsmain_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/25651c13b45069506bf792615405c846/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_ready_class_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/f8833b6dc0fc3f179337669ba0cbe8c4/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_browsers_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/c133d959d17ea2eeef16cb46a081fcda/1465592482index.css" type="text/css" media="all">
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/gravityforms/js/jquery.textareaCounter.plugin.js?ver=1.9.19"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=1.9.19"></script>
 <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_22"><form method="post" enctype="multipart/form-data" id="gform_22" action="/privacy_policy/">
 <div class="gform_body"><ul id="gform_fields_22" class="gform_fields top_label form_sublabel_below description_below"><li id="field_22_5" class="gfield gfield_contains_required field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_5_3">Name<span class="gfield_required">*</span></label><div class="ginput_complex ginput_container no_prefix has_first_name no_middle_name has_last_name no_suffix gf_name_has_2 ginput_container_name" id="input_22_5">
 <span id="input_22_5_3_container" class="name_first">
-<input type="text" name="input_5.3" id="input_22_5_3" value="" aria-label="First name" tabindex="1">
+<input type="text" name="input_5.3" id="input_22_5_3" value="" aria-label="First name" tabindex="8">
 <label for="input_22_5_3">First</label>
 </span>
 <span id="input_22_5_6_container" class="name_last">
-<input type="text" name="input_5.6" id="input_22_5_6" value="" aria-label="Last name" tabindex="2">
+<input type="text" name="input_5.6" id="input_22_5_6" value="" aria-label="Last name" tabindex="9">
 <label for="input_22_5_6">Last</label>
 </span>
 <div class="gf_clear gf_clear_complex"></div>
 </div></li><li id="field_22_2" class="gfield gf_left_half gfield_contains_required field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_2">Email<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_email">
-<input name="input_2" id="input_22_2" type="text" value="" class="medium" tabindex="3">
-</div></li><li id="field_22_4" class="gfield gf_right_half gfield_contains_required field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_4">Phone<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_phone"><input name="input_4" id="input_22_4" type="text" value="" class="medium" tabindex="4"></div></li><li id="field_22_3" class="gfield field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_3">Dealership</label><div class="ginput_container ginput_container_text"><input name="input_3" id="input_22_3" type="text" value="" class="large" tabindex="5"></div></li><li id="field_22_8" class="gfield field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_8">Message</label><div class="ginput_container ginput_container_textarea">
-<textarea name="input_8" id="input_22_8" class="textarea small" tabindex="6" rows="10" cols="50"></textarea>
-</div></li><li id="field_22_7" class="gfield gform_hidden field_sublabel_below field_description_below"><input name="input_7" id="input_22_7" type="hidden" class="gform_hidden" value="http://www.dealereprocess.com/privacy_policy/"></li><li id="field_22_6" class="gfield gform_hidden field_sublabel_below field_description_below"><input name="input_6" id="input_22_6" type="hidden" class="gform_hidden" value=""></li><li id="field_22_9" class="gfield gform_validation_container field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_9">Email</label><div class="ginput_container"><input name="input_9" id="input_22_9" type="text" value=""></div><div class="gfield_description">This field is for validation purposes and should be left unchanged.</div></li>
+<input name="input_2" id="input_22_2" type="text" value="" class="medium" tabindex="10">
+</div></li><li id="field_22_4" class="gfield gf_right_half gfield_contains_required field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_4">Phone<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_phone"><input name="input_4" id="input_22_4" type="text" value="" class="medium" tabindex="11"></div></li><li id="field_22_3" class="gfield field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_3">Dealership</label><div class="ginput_container ginput_container_text"><input name="input_3" id="input_22_3" type="text" value="" class="large" tabindex="12"></div></li><li id="field_22_8" class="gfield field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_8">Message</label><div class="ginput_container ginput_container_textarea">
+<textarea name="input_8" id="input_22_8" class="textarea small" tabindex="13" rows="10" cols="50"></textarea>
+</div></li><li id="field_22_7" class="gfield gform_hidden field_sublabel_below field_description_below"><input name="input_7" id="input_22_7" type="hidden" class="gform_hidden" value="http://www.dealereprocess.com/privacy_policy/"></li><li id="field_22_6" class="gfield gform_hidden field_sublabel_below field_description_below"><input name="input_6" id="input_22_6" type="hidden" class="gform_hidden" value=""></li><li id="field_22_9" class="gfield gform_validation_container field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_9">Phone</label><div class="ginput_container"><input name="input_9" id="input_22_9" type="text" value=""></div><div class="gfield_description">This field is for validation purposes and should be left unchanged.</div></li>
 </ul></div>
-<div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_22" class="gform_button button" value="Submit" tabindex="7" onclick="if(window[&quot;gf_submitting_22&quot;]){return false;}  window[&quot;gf_submitting_22&quot;]=true;  "><!-- Begin Daddy Analytics fields --><input type="hidden" name="" value=""><input type="hidden" name="" value=""><!-- End Daddy Analytics fields --> 
+<div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_22" class="gform_button button" value="Submit" tabindex="14" onclick="if(window[&quot;gf_submitting_22&quot;]){return false;}  window[&quot;gf_submitting_22&quot;]=true;  "><!-- Begin Daddy Analytics fields --><input type="hidden" name="" value=""><input type="hidden" name="" value=""><!-- End Daddy Analytics fields --> 
 <input type="hidden" class="gform_hidden" name="is_submit_22" value="1">
 <input type="hidden" class="gform_hidden" name="gform_submit" value="22">
 <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
@@ -413,10 +573,19 @@ left: 5px;
 <div id="top-border">
 </div>
 <div id="content">
-<p class="address">2001 Butterfield Road, Suite 1600 • Downers Grove, IL 60515</p>
-<p class="phone-sales">Sales:  <a href="tel:1-877-551-2555">877-551-2555</a></p>
-<p class="phone-support">support:  <a href="tel:1-866-749-4806">866-749-4806</a></p>
-</div>
+<p class="footer_listing">Sales:  <a href="tel:1-877-551-2555">877-551-2555</a></p>
+<p class="footer_listing">support:  <a href="tel:1-866-749-4806">866-749-4806</a></p>
+<p class="footer_listing">Main Office<br>2001 Butterfield Road, Suite 1600 <br> Downers Grove, IL 60515</p>
+<table style="width: 100%;">
+<tbody><tr>
+<td>
+<p style="font-size: 12px;">AZ Office:<br>7900 E. Greenway Road<br>Suite&nbsp;210<br>Scottsdale,&nbsp;AZ&nbsp;85260</p>
+</td>
+<td>
+<p style="font-size: 12px;">WA Office:<br>22121 17th Avenue SE<br>Suite&nbsp;E-221<br>Bothell,&nbsp;WA&nbsp;98021</p>
+</td>
+</tr>
+</tbody></table>
 <div class="fl_c"></div>
 <div id="bottom-border">
 </div>
@@ -457,38 +626,98 @@ left: 5px;
 <script type="text/javascript" src="http://www.dealereprocesschat.com/Dashboard/cwgen/Company/Dealer%20e-Process/dealereprocess.com/gvars.js"></script>
 <script type="text/javascript" src="http://www.dealereprocesschat.com/Dashboard/cwgen/Company/Dealer%20e-Process/dealereprocess.com/chatwindow.js"></script>
 <script type="text/javascript" defer="defer" src="http://www.dealereprocesschat.com/Dashboard/cwgen/scripts/chatscriptyui.js"></script> 
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/page-scroll-to-id/js/jquery.malihu.PageScroll2id.js?ver=1.6.0"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/gs-logo-slider-pro/gsl-files/js/gsl.jquery.bxslider.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/gs-logo-slider-pro/gsl-files/js/gsl.jquery.easing.1.3.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/wp-a11y.js?ver=4.5.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var mPS2id_params = {"instances":{"mPS2id_instance_0":{"selector":{"value":"a[rel='m_PageScroll2id']","values":null,"id":"page_scroll_to_id_0_selector","field_type":"text","label":"Selector(s)","checkbox_label":null,"radio_labels":null,"field_info":null,"description":"The link(s) that will scroll the page when clicked. Defaults to all links with <code>m_PageScroll2id<\/code> rel attribute value","wrapper":null},"scrollSpeed":{"value":1500,"values":null,"id":"page_scroll_to_id_0_scrollSpeed","field_type":"text-integer","label":"Scroll animation speed","checkbox_label":null,"radio_labels":null,"field_info":"milliseconds","description":"Scroll animation speed in milliseconds (1000 milliseconds equals 1 second)","wrapper":null},"autoScrollSpeed":{"value":"true","values":null,"id":"page_scroll_to_id_0_autoScrollSpeed","field_type":"checkbox","label":"","checkbox_label":"Auto-adjust animation speed","radio_labels":null,"field_info":null,"description":"Auto-adjust animation speed according to target element position and window scroll","wrapper":"fieldset"},"scrollEasing":{"value":"easeOutExpo","values":"linear,swing,easeInQuad,easeOutQuad,easeInOutQuad,easeInCubic,easeOutCubic,easeInOutCubic,easeInQuart,easeOutQuart,easeInOutQuart,easeInQuint,easeOutQuint,easeInOutQuint,easeInExpo,easeOutExpo,easeInOutExpo,easeInSine,easeOutSine,easeInOutSine,easeInCirc,easeOutCirc,easeInOutCirc,easeInElastic,easeOutElastic,easeInOutElastic,easeInBack,easeOutBack,easeInOutBack,easeInBounce,easeOutBounce,easeInOutBounce","id":"page_scroll_to_id_0_scrollEasing","field_type":"select","label":"Scroll animation easing","checkbox_label":null,"radio_labels":null,"field_info":null,"description":"Animation easing when page is idle","wrapper":null},"scrollingEasing":{"value":"easeOutExpo","values":"linear,swing,easeInQuad,easeOutQuad,easeInOutQuad,easeInCubic,easeOutCubic,easeInOutCubic,easeInQuart,easeOutQuart,easeInOutQuart,easeInQuint,easeOutQuint,easeInOutQuint,easeInExpo,easeOutExpo,easeInOutExpo,easeInSine,easeOutSine,easeInOutSine,easeInCirc,easeOutCirc,easeInOutCirc,easeInElastic,easeOutElastic,easeInOutElastic,easeInBack,easeOutBack,easeInOutBack,easeInBounce,easeOutBounce,easeInOutBounce","id":"page_scroll_to_id_0_scrollingEasing","field_type":"select","label":"","checkbox_label":null,"radio_labels":null,"field_info":null,"description":"Animation easing while page is animating","wrapper":null},"pageEndSmoothScroll":{"value":"true","values":null,"id":"page_scroll_to_id_0_pageEndSmoothScroll","field_type":"checkbox","label":"Scroll-to position","checkbox_label":"Auto-adjust","radio_labels":null,"field_info":null,"description":"Auto-adjust the scroll-to position so it does not exceed document length","wrapper":"fieldset"},"layout":{"value":"vertical","values":"vertical,horizontal,auto","id":"page_scroll_to_id_0_layout","field_type":"radio","label":"Page layout","checkbox_label":null,"radio_labels":"vertical|horizontal|auto","field_info":null,"description":"Restrict page scrolling to top-bottom (vertical) or left-right (horizontal) accordingly. For both vertical and horizontal scrolling select <code>auto<\/code>","wrapper":"fieldset"},"offset":{"value":"180","values":null,"id":"page_scroll_to_id_0_offset","field_type":"text","label":"Offset","checkbox_label":null,"radio_labels":null,"field_info":"pixels","description":"Offset scroll-to position by x amount of pixels (positive or negative) or by selector (e.g. <code>#navigation-menu<\/code>)","wrapper":null},"highlightSelector":{"value":"","values":null,"id":"page_scroll_to_id_0_highlightSelector","field_type":"text","label":"Highlight selector(s)","checkbox_label":null,"radio_labels":null,"field_info":null,"description":"The link(s) that are highlighted. Leave empty to highlight all or enter your specific selector(s)","wrapper":null},"clickedClass":{"value":"mPS2id-clicked","values":null,"id":"page_scroll_to_id_0_clickedClass","field_type":"text","label":"Classes","checkbox_label":null,"radio_labels":null,"field_info":"class name","description":"Class of the clicked link","wrapper":null},"targetClass":{"value":"mPS2id-target","values":null,"id":"page_scroll_to_id_0_targetClass","field_type":"text","label":"","checkbox_label":null,"radio_labels":null,"field_info":"class name","description":"Class of the (current) target element. First (current) target element class suffix: <code>-first<\/code> (e.g. <code>.mPS2id-target-first<\/code>). Last (current) target element class suffix: <code>-last<\/code> (e.g. <code>.mPS2id-target-last<\/code>)","wrapper":null},"highlightClass":{"value":"mPS2id-highlight","values":null,"id":"page_scroll_to_id_0_highlightClass","field_type":"text","label":"","checkbox_label":null,"radio_labels":null,"field_info":"class name","description":"Class of the (current) highlighted element. First (current) highlighted element class suffix: <code>-first<\/code> (e.g. <code>.mPS2id-highlight-first<\/code>). Last (current) highlighted element class suffix: <code>-last<\/code> (e.g. <code>.mPS2id-highlight-last<\/code>)","wrapper":null},"forceSingleHighlight":{"value":"false","values":null,"id":"page_scroll_to_id_0_forceSingleHighlight","field_type":"checkbox","label":"","checkbox_label":"Force single highlight","radio_labels":null,"field_info":null,"description":"Allow only one highlighted element at a time","wrapper":"fieldset"},"keepHighlightUntilNext":{"value":"false","values":null,"id":"page_scroll_to_id_0_keepHighlightUntilNext","field_type":"checkbox","label":"","checkbox_label":"Keep highlight until next","radio_labels":null,"field_info":null,"description":"Keep the current element highlighted until the next one comes into view","wrapper":"fieldset"},"highlightByNextTarget":{"value":"false","values":null,"id":"page_scroll_to_id_0_highlightByNextTarget","field_type":"checkbox","label":"","checkbox_label":"Highlight by next target","radio_labels":null,"field_info":null,"description":"Set targets length according to their next adjacent target position (useful when target elements have zero dimensions)","wrapper":"fieldset"},"scrollToHash":{"value":"true","values":null,"id":"page_scroll_to_id_0_scrollToHash","field_type":"checkbox","label":"Scroll to location hash","checkbox_label":"Enable","radio_labels":null,"field_info":null,"description":"Scroll to target id (e.g. <code>&lt;div id=\"id\" \/&gt;<\/code>) based on location hash (e.g. <code>mysite.com\/mypage#id<\/code>) on page load","wrapper":"fieldset"},"scrollToHashForAll":{"value":"false","values":null,"id":"page_scroll_to_id_0_scrollToHashForAll","field_type":"checkbox","label":"","checkbox_label":"Enable for all targets (even for elements that are not handled by the plugin)","radio_labels":null,"field_info":null,"description":null,"wrapper":"fieldset"},"scrollToHashDelay":{"value":0,"values":null,"id":"page_scroll_to_id_0_scrollToHashDelay","field_type":"text-integer","label":"","checkbox_label":null,"radio_labels":null,"field_info":"Delay (milliseconds)","description":"Scroll to location hash animation delay in milliseconds (1000 milliseconds equals 1 second)","wrapper":null},"disablePluginBelow":{"value":0,"values":null,"id":"page_scroll_to_id_0_disablePluginBelow","field_type":"text","label":"Disable plugin below","checkbox_label":null,"radio_labels":null,"field_info":"screen-size","description":"Set the width,height screen-size (in pixels), below which the plugin will be disabled (e.g. <code>1024<\/code>, <code>1024,600<\/code>)","wrapper":null}}},"total_instances":"1","shortcode_class":"_ps2id"};
+var uiAutocompleteL10n = {"noResults":"No search results.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/page-scroll-to-id/js/jquery.malihu.PageScroll2id-init.js?ver=1.6.0"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/droppable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/progressbar.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/selectable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect-bounce.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect-clip.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect-drop.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect-explode.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect-fold.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect-pulsate.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect-size.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect-scale.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/effect-transfer.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/page-scroll-to-id/js/jquery.malihu.PageScroll2id.js?ver=1.6.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mPS2id_params = {"instances":{"mPS2id_instance_0":{"selector":{"value":"a[rel='m_PageScroll2id']","values":null,"id":"page_scroll_to_id_0_selector","field_type":"text","label":"Selector(s)","checkbox_label":null,"radio_labels":null,"field_info":null,"description":"The link(s) that will scroll the page when clicked. Defaults to all links with <code>m_PageScroll2id<\/code> rel attribute value <br \/><small>In addition to selectors above, the plugin is enabled by default on links (or links contained within elements) with class <code>ps2id<\/code><\/small>","wrapper":null},"autoSelectorMenuLinks":{"value":"false","values":null,"id":"page_scroll_to_id_0_autoSelectorMenuLinks","field_type":"checkbox","label":"","checkbox_label":"Enable on WordPress Menu links","radio_labels":null,"field_info":null,"description":"Automatically enable the plugin on custom links (containing a hash in their URL) created in WordPress Menus <br \/><small>Requires WordPress version 3.6 or higher<\/small>","wrapper":"fieldset"},"scrollSpeed":{"value":1500,"values":null,"id":"page_scroll_to_id_0_scrollSpeed","field_type":"text-integer","label":"Scroll animation speed","checkbox_label":null,"radio_labels":null,"field_info":"milliseconds","description":"Scroll animation speed in milliseconds (1000 milliseconds equals 1 second)","wrapper":null},"autoScrollSpeed":{"value":"true","values":null,"id":"page_scroll_to_id_0_autoScrollSpeed","field_type":"checkbox","label":"","checkbox_label":"Auto-adjust animation speed","radio_labels":null,"field_info":null,"description":"Auto-adjust animation speed according to target element position and window scroll","wrapper":"fieldset"},"scrollEasing":{"value":"easeOutExpo","values":"linear,swing,easeInQuad,easeOutQuad,easeInOutQuad,easeInCubic,easeOutCubic,easeInOutCubic,easeInQuart,easeOutQuart,easeInOutQuart,easeInQuint,easeOutQuint,easeInOutQuint,easeInExpo,easeOutExpo,easeInOutExpo,easeInSine,easeOutSine,easeInOutSine,easeInCirc,easeOutCirc,easeInOutCirc,easeInElastic,easeOutElastic,easeInOutElastic,easeInBack,easeOutBack,easeInOutBack,easeInBounce,easeOutBounce,easeInOutBounce","id":"page_scroll_to_id_0_scrollEasing","field_type":"select","label":"Scroll animation easing","checkbox_label":null,"radio_labels":null,"field_info":null,"description":"Animation easing when page is idle","wrapper":null},"scrollingEasing":{"value":"easeOutExpo","values":"linear,swing,easeInQuad,easeOutQuad,easeInOutQuad,easeInCubic,easeOutCubic,easeInOutCubic,easeInQuart,easeOutQuart,easeInOutQuart,easeInQuint,easeOutQuint,easeInOutQuint,easeInExpo,easeOutExpo,easeInOutExpo,easeInSine,easeOutSine,easeInOutSine,easeInCirc,easeOutCirc,easeInOutCirc,easeInElastic,easeOutElastic,easeInOutElastic,easeInBack,easeOutBack,easeInOutBack,easeInBounce,easeOutBounce,easeInOutBounce","id":"page_scroll_to_id_0_scrollingEasing","field_type":"select","label":"","checkbox_label":null,"radio_labels":null,"field_info":null,"description":"Animation easing while page is animating","wrapper":null},"pageEndSmoothScroll":{"value":"true","values":null,"id":"page_scroll_to_id_0_pageEndSmoothScroll","field_type":"checkbox","label":"Scroll-to position","checkbox_label":"Auto-adjust","radio_labels":null,"field_info":null,"description":"Auto-adjust the scroll-to position so it does not exceed document length","wrapper":"fieldset"},"layout":{"value":"vertical","values":"vertical,horizontal,auto","id":"page_scroll_to_id_0_layout","field_type":"radio","label":"Page layout","checkbox_label":null,"radio_labels":"vertical|horizontal|auto","field_info":null,"description":"Restrict page scrolling to top-bottom (vertical) or left-right (horizontal) accordingly. For both vertical and horizontal scrolling select <code>auto<\/code>","wrapper":"fieldset"},"offset":{"value":"180","values":null,"id":"page_scroll_to_id_0_offset","field_type":"text","label":"Offset","checkbox_label":null,"radio_labels":null,"field_info":"pixels","description":"Offset scroll-to position by x amount of pixels (positive or negative) or by selector (e.g. <code>#navigation-menu<\/code>)","wrapper":null},"highlightSelector":{"value":"","values":null,"id":"page_scroll_to_id_0_highlightSelector","field_type":"text","label":"Highlight selector(s)","checkbox_label":null,"radio_labels":null,"field_info":null,"description":"The link(s) that are highlighted. Leave empty to highlight all or enter your specific selector(s)","wrapper":null},"clickedClass":{"value":"mPS2id-clicked","values":null,"id":"page_scroll_to_id_0_clickedClass","field_type":"text","label":"Classes","checkbox_label":null,"radio_labels":null,"field_info":"class name","description":"Class of the clicked link","wrapper":null},"targetClass":{"value":"mPS2id-target","values":null,"id":"page_scroll_to_id_0_targetClass","field_type":"text","label":"","checkbox_label":null,"radio_labels":null,"field_info":"class name","description":"Class of the (current) target element. First (current) target element class suffix: <code>-first<\/code> (e.g. <code>.mPS2id-target-first<\/code>). Last (current) target element class suffix: <code>-last<\/code> (e.g. <code>.mPS2id-target-last<\/code>)","wrapper":null},"highlightClass":{"value":"mPS2id-highlight","values":null,"id":"page_scroll_to_id_0_highlightClass","field_type":"text","label":"","checkbox_label":null,"radio_labels":null,"field_info":"class name","description":"Class of the (current) highlighted element. First (current) highlighted element class suffix: <code>-first<\/code> (e.g. <code>.mPS2id-highlight-first<\/code>). Last (current) highlighted element class suffix: <code>-last<\/code> (e.g. <code>.mPS2id-highlight-last<\/code>)","wrapper":null},"forceSingleHighlight":{"value":"false","values":null,"id":"page_scroll_to_id_0_forceSingleHighlight","field_type":"checkbox","label":"","checkbox_label":"Force single highlight","radio_labels":null,"field_info":null,"description":"Allow only one highlighted element at a time","wrapper":"fieldset"},"keepHighlightUntilNext":{"value":"false","values":null,"id":"page_scroll_to_id_0_keepHighlightUntilNext","field_type":"checkbox","label":"","checkbox_label":"Keep highlight until next","radio_labels":null,"field_info":null,"description":"Keep the current element highlighted until the next one comes into view","wrapper":"fieldset"},"highlightByNextTarget":{"value":"false","values":null,"id":"page_scroll_to_id_0_highlightByNextTarget","field_type":"checkbox","label":"","checkbox_label":"Highlight by next target","radio_labels":null,"field_info":null,"description":"Set targets length according to their next adjacent target position (useful when target elements have zero dimensions)","wrapper":"fieldset"},"scrollToHash":{"value":"true","values":null,"id":"page_scroll_to_id_0_scrollToHash","field_type":"checkbox","label":"Scroll to location hash","checkbox_label":"Enable","radio_labels":null,"field_info":null,"description":"Scroll to target id (e.g. <code>&lt;div id=\"id\" \/&gt;<\/code>) based on location hash (e.g. <code>mysite.com\/mypage#id<\/code>) on page load","wrapper":"fieldset"},"scrollToHashForAll":{"value":"false","values":null,"id":"page_scroll_to_id_0_scrollToHashForAll","field_type":"checkbox","label":"","checkbox_label":"Enable for all targets (even for elements that are not handled by the plugin)","radio_labels":null,"field_info":null,"description":null,"wrapper":"fieldset"},"scrollToHashDelay":{"value":0,"values":null,"id":"page_scroll_to_id_0_scrollToHashDelay","field_type":"text-integer","label":"","checkbox_label":null,"radio_labels":null,"field_info":"Delay (milliseconds)","description":"Scroll to location hash animation delay in milliseconds (1000 milliseconds equals 1 second)","wrapper":null},"disablePluginBelow":{"value":0,"values":null,"id":"page_scroll_to_id_0_disablePluginBelow","field_type":"text","label":"Disable plugin below","checkbox_label":null,"radio_labels":null,"field_info":"screen-size","description":"Set the width,height screen-size (in pixels), below which the plugin will be disabled (e.g. <code>1024<\/code>, <code>1024,600<\/code>)","wrapper":null},"adminDisplayWidgetsId":{"value":"true","values":null,"id":"page_scroll_to_id_0_adminDisplayWidgetsId","field_type":"checkbox","label":"Administration","checkbox_label":"Display widgets id attribute","radio_labels":null,"field_info":null,"description":"Show the id attribute of each widget in Appearance &rarr; Widgets","wrapper":"fieldset"},"adminTinyMCEbuttons":{"value":"true","values":null,"id":"page_scroll_to_id_0_adminTinyMCEbuttons","field_type":"checkbox","label":"","checkbox_label":"Enable insert link\/target buttons in post visual editor","radio_labels":null,"field_info":null,"description":"<small>Requires WordPress version 3.9 or higher<\/small>","wrapper":"fieldset"}}},"total_instances":"1","shortcode_class":"_ps2id"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/page-scroll-to-id/js/jquery.malihu.PageScroll2id-init.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/themes/salient/js/magnific.js?ver=7.0.1"></script>
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-content/themes/salient/js/superfish.js?ver=1.4.8"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/themes/salient/js/respond.js?ver=1.1"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/themes/salient/js/sticky.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/themes/salient/js/prettyPhoto.js?ver=5.5.4"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/themes/salient/js/isotope.min.js?ver=2.0"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var nectarLove = {"ajaxurl":"http:\/\/www.dealereprocess.com\/wp-admin\/admin-ajax.php","postID":"919","rooturl":"http:\/\/www.dealereprocess.com","pluginPages":[],"disqusComments":"false"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/themes/salient/js/init.js?ver=5.5.4"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/comment-reply.min.js?ver=4.4"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/wp-embed.min.js?ver=4.4"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/simplified-social-share/lr-social-sharing/assets/js/loginradius_sharing.js?ver=1.0.0"></script>
-<script type="text/javascript" src="//sharecdn.social9.com/v1/social9.min.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/themes/salient/js/init.js?ver=7.0.7"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/themes/salient/js/infinitescroll.js?ver=1.0"></script>
 <script type="text/javascript">
-LoginRadius.util.ready(function () {
-$i = $SS.Interface.horizontal;
-$SS.Providers.Top = ["Facebook","Twitter","LinkedIn","GooglePlus","Pinterest","Email","Print"];
-$u = LoginRadius.user_settings;
-$u.sharecounttype = 'url';
-$u.isMobileFriendly = false;
-$i.size = "32";
-$i.show("lr_horizontal_share");
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1-a"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/comment-reply.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/wp-embed.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/simplified-social-share/oss-social-sharing/assets/js/oss_share.js?ver=4.5.2"></script>
+<script type="text/javascript" src="https://sharecdn.social9.com/v2/js/opensocialsharedefaulttheme.js?ver=4.5.2"></script>
+<script type="text/javascript" src="https://sharecdn.social9.com/v2/js/opensocialshare.js?ver=4.5.2"></script>
+<script type="text/javascript">
+var shareWidget = new OpenSocialShare();
+shareWidget.init({
+isEmailContentReadOnly:false,isTotalShare:true,isMobileFriendly:true,isShortenUrl:true,isOpenSingleWindow:false,                 
+isCounterWidgetTheme: 0, // 0 or 1 - standard themes or counter widget themes
+isHorizontalCounter: 0, // 0 or 1 - counter on top or counter to right - counter themes only
+isHorizontalLayout: 1, // 0 or 1 - vertical layout or horizontal layout
+widgetIconSize: "32", // "16" or "32" - 16px or 32px standard themes only
+widgetStyle: "square", //"image", "square" or "responsive" - standard themes only
+providers: {
+top: ["Facebook","Twitter","LinkedIn","GooglePlus","Pinterest","Email","Print"]
+},
+widgets: {
+//all : _private.getAllButtonName(_private.widgetConfig),
+top: ["Facebook Like","Twitter Tweet","Google+ Share","Pinterest Pin it","LinkedIn Share"]
+},
+theme: 'OpenSocialShareDefaultTheme',
 });
+shareWidget.injectInterface(".oss_horizontal_share");
+shareWidget.setWidgetTheme(".oss_horizontal_share");
 </script>
 <!--VISISTAT SNIPPET//-->
 <script type="text/javascript">
@@ -521,4 +750,4 @@ var google_conversion_value = 0;
 </noscript>
 <div>
 
-</div></div></div></body></html>
+</div></div></div></div></body></html>
