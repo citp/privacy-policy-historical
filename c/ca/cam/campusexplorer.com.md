@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusexplorer.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217053416id_/http%3A//www.campusexplorer.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusexplorer.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613152939id_/http%3A//www.campusexplorer.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Campus Explorer Privacy Policy
 
