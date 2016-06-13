@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marathistars.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214142056id_/http%3A//marathistars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathistars.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613125242id_/http%3A//marathistars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marathi Movies,Actress,Actors,Cast,Tv Serials,Biography,Review,News,Events,Wiki,photos,wallpapers,Images,
 
@@ -6,7 +6,7 @@
 
 The information that we collect about you while you are using the website falls into the following general categories:
 
-  *  **User provided information**
+  * **User provided information**
 
 
 
@@ -18,7 +18,7 @@ In addition, third party advertisers or third party ad servers that place and pr
 
 When you use the MarathiStars.com website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
-  *  **Clear / Transparent GIFs information**
+  * **Clear / Transparent GIFs information**
 
 
 
@@ -26,13 +26,13 @@ When you use the MarathiStars.com website, we may employ “clear GIFs” (a.k.a
 
 To make e-mails more useful and interesting, MarathiStars.com often receive a confirmation when you open e-mail from MarathiStars.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences.
 
-  *  **Information from Other Sources**
+  * **Information from Other Sources**
 
 
 
 MarathiStars.com might receive information about you from other sources and add it to our account information.
 
- **How is this information used?**
+**How is this information used?**
 
 If you submit personally identifiable information to us through the MarathiStars.com website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the MarathiStars.com website.
 
@@ -52,7 +52,7 @@ We employ other companies and individuals to perform functions on our behalf. Ex
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our website is acquired by another company, information about our visitors may be among the transferred assets.
 
- **When does MarathiStars.com disclose any information?**
+**When does MarathiStars.com disclose any information?**
 
 We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliate companies, or other businesses or people for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
 
@@ -62,21 +62,21 @@ We may release personally identifiable information and/or non-personally-identif
 
 MarathiStars.com also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that MarathiStars.com believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our website, and to protect the rights, property, or personal safety of MarathiStars.com, our users / members or others.
 
- **Our Commitment to Childrens’ Privacy**
+**Our Commitment to Childrens’ Privacy**
 
 The website is NOT directed to or INTENDED for individuals under the age of 18(Eighteen). An individual less than 18(Eighteen) years of age SHOULD not register to use the website. MarathiStars.com does not knowingly collect any personal information from people under the age of 10(Eighteen). If you are a parent of a child under the age of 10(Eighteen) and you have questions about our website or Privacy Policy, please feel free to contact the MarathiStars.com Privacy Coordinator. Parent’s of such underage individuals will be legally bound by any Acts / Deeds / Violation of MarathiStars.com Terms of Use & Privacy Policy.
 
- **Our Assurance & Commitment towards Data Security**
+**Our Assurance & Commitment towards Data Security**
 
 MarathiStars.com use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to MarathiStars.com and you do so at your own risk. Once we receive your transmission of information, MarathiStars.com makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
 If MarathiStars.com learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. MarathiStars.com may post a notice on the MarathiStars.com website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify the MarathiStars.com Privacy Coordinator.
 
- **Special Note to INTERNATIONAL USERS / MEMBERS**
+**Special Note to INTERNATIONAL USERS / MEMBERS**
 
 MarathiStars.com is registered in India. If you are a user / member accessing the MarathiStars.com website from any other region with laws or regulations governing personal data collection, user, protection and disclosure, that differ from the applicable Indian laws, please note that through your use of the MarathiStars.com website, this Privacy Notice, and our Terms of Use, you are transferring your Personal Information to India and you are giving a complete consent for the mentioned transfer. MarathiStars.com will, at any point of time, be complying with the legal provisions on the subject matter, as applicable in India from time to time.
 
- **Changes to Your Personal Information on site**
+**Changes to Your Personal Information on site**
 
 MarathiStars.com reserve the right at any time to: change the terms of this Agreement; change the Services, including eliminating or modifying any content on or feature of the website; or change/charge any fees or charges for use of the Services.
 
