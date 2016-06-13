@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waves-audio.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519211057id_/http%3A//www.waves.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waves-audio.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613082905id_/http%3A//www.waves.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Waves
 
@@ -47,7 +47,7 @@ Waves does not sell, trade, or rent out Users’ personal identification informa
 
 Third-party websites 
 
-Users may find advertising or other content on the Site that links to the websites and services of Waves’ partners, suppliers, advertisers, sponsors, licensors and other third parties. Waves does not control the content or links that appear on such other sites and is not responsible for the practices they employ. Such sites or services, including their content and links, may change constantly and have their own privacy and customer service policies. Browsing and interaction on any other website, including websites that link to the Waves Site, are subject to the other website’s own terms and policies. 
+Users may find advertising or other content on the Site that links to the websites and services of Waves’ partners, suppliers, advertisers, sponsors, licensors and other third parties. Waves does not control the content or links that appear on such other sites and is not responsible for the practices they employ. Such sites or services, including their content and links, may change constantly and have their own privacy and customer service policies. Browsing and interaction on any other website, including websites that link to the Waves Site, are subject to the other website’s own terms and policies.Third parties may place anonymous cookies on the browsers of visitors to their websites and may send their own cookies to the visitors’ cookie files. 
 
 Advertising 
 
