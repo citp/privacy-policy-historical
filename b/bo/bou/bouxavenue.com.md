@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bouxavenue.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030021301id_/http%3A//www.bouxavenue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bouxavenue.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614003504id_/http%3A//www.bouxavenue.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and cookies | Boux Avenue
 
@@ -67,13 +67,13 @@ If you would like to know how to manage the cookies on your mobile phone, tablet
 
 At Boux Avenue we absolutely recognise how important it is to keep your personal information safe and secure.
 
-We take your personal privacy very seriously and are committed to ensuring that your details are kept confidential. When you kindly provide us with your name, address, credit card, contact details or any other personal details we promise to keep them safe and secure and will not share them with anyone outside Boux Avenue Limited.
+We take your personal privacy very seriously and are committed to ensuring that your details are kept confidential. When you kindly provide us with your name, address, credit card, contact details or any other personal details we promise to keep them safe and secure and other than as explained in this policy, will not share them with anyone outside Boux Avenue Limited.
 
  **Shopping with Boux Avenue is guaranteed to be safe, secure and of course, stylish.**
 
 ### Site security
 
-The bouxavenue.com website is totally secure
+The bouxavenue.com website is highly secure
 
 Our website uses 128 bit SSL (Secure Sockets Layer) encryption technology which is the most advanced level of security currently available for online shopping.
 
@@ -94,7 +94,7 @@ We promise that:
 
 When you shop on the Boux Avenue website we collect some personal information from you. All this information is held on secure servers and Boux Avenue fully complies with all obligations required of the data protection act and current consumer legislation.
 
-Some of this information is used to process your order and to keep you informed of its progress. We use some third party institutions to handle the processing and fulfillment of your order. They receive the information needed to do this and all such institutions are under strict contractual obligations to keep your personal information secure and private, so no need to worry.
+Some of this information is used to process your order and to keep you informed of its progress. We use some third party institutions to perform services on our behalf, including to handle the processing and fulfillment of your order. They receive the information needed to do this and all such institutions are under strict contractual obligations to keep your personal information secure and private, so no need to worry.
 
 Additionally, should you give us your permission, we will include you on our regular VIP marketing emails to keep you informed of new products, promotions, special events, store openings and other useful or exciting information about Boux Avenue. You may opt out at any time either by updating your subscription within your account on the website or by clicking the unsubscribe link at the bottom of every email we send.
 
@@ -121,8 +121,9 @@ We require this information to understand your needs and provide you with a bett
   * Provide you with website sharing services and social network connectors 
   * We may use the information to improve our products and services. 
   * We may periodically send promotional emails about new products & special offers 
-  * From time to time, we may also use your information to contact you for market research purposes 
-  * We may use the information to customise the website according to your interests 
+  * From time to time, we may also use your information to contact you for market research purposes. 
+  * We may use the information to customise the website according to your interests and to present you with advertisements about our products and services when you visit other websites. 
+  * It is possible that personal information you provide to us may be transferred to, and processed in a destination outside the European Economic Area ("EEA"). We will take all steps reasonably neccessary to ensure your data is treated securely and in accordance with this privacy policy.
 
 
 
