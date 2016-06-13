@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerwoodsfoundation.org privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209184727id_/http%3A//www.tigerwoodsfoundation.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerwoodsfoundation.org privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613195735id_/http%3A//www.tigerwoodsfoundation.org/about/privacy-policy) for the most accurate reproduction.*
 
 # About: Privacy Policy | Tiger Woods Foundation
 
@@ -89,11 +89,11 @@ We may be required to share your personal and non-personal information pursuant 
 
 **5\. Managing Your Information**
 
-You may choose and control what information you provide about yourself and certain information which is automatically collected via this Website. If you do not wish to provide certain information necessary for enhanced functionality or content on this Website, please do not use such functionality or content. If you have registered for an account through this Website, you may review and revise certain of your account information by [clicking here](https://secure.mlb.com/enterworkflow.do?flowId=registration.ajax.wizard&c_id=mlb) to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Profile" section within your Website account.
+You may choose and control what information you provide about yourself and certain information which is automatically collected via this Website. If you do not wish to provide certain information necessary for enhanced functionality or content on this Website, please do not use such functionality or content. If you have registered for an account through this Website, you may review and revise certain of your account information by [clicking here](http://www.mailing.tigerwoodsfoundation.org/landing/twf-signup) to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Profile" section within your Website account.
 
 If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows a user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the [Adobe website](http://www.adobe.com/). If you set your browser or Adobe Flash options _not_ to accept cookies or local shared objects, you may not be able to take advantage of certain elements of this Website.
 
-If you want to review or revise the personal information you provided during registration or in connection with a purchase or other activity while using this Website, or change the promotional email communications or newsletters you receive from us and/or our partners, you may click [here](https://www.tigerwoodsfoundation.org/enterworkflow.do?flowId=account.login) to log in, and then click on the applicable left-hand menu option. If you want to close your Website account and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should call TigerWoodsFoundation.org Customer Service at [twf@website.tigerwoods.com](mailto:twf@website.tigerwoods.com).
+If you want to review or revise the personal information you provided during registration or in connection with a purchase or other activity while using this Website, or change the promotional email communications or newsletters you receive from us and/or our partners, you may click [here](http://www.mailing.tigerwoodsfoundation.org/landing/twf-signup) to log in, and then click on the applicable left-hand menu option. If you want to close your Website account and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should call TigerWoodsFoundation.org Customer Service at [twf@website.tigerwoods.com](mailto:twf@website.tigerwoods.com).
 
 Remember that when you share information publicly online, it may be indexable by search engines or recorded by others, and any search engine index or record of your information may persist after you delete the information at the original source.
 
@@ -143,4 +143,4 @@ If you have questions or concerns about this Privacy Policy, you can contact us 
 
 If we make an important change to this Privacy Policy, we will post a notification and link on this Website's homepage so that you may review the updated policy.
 
-**LAST UPDATED AND EFFECTIVE DATE: February 19, 2015**
+**LAST UPDATED AND EFFECTIVE DATE: February 29, 2016**
