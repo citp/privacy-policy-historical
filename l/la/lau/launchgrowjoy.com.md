@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the launchgrowjoy.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214180851id_/http%3A//www.launchgrowjoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchgrowjoy.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613215832id_/http%3A//www.launchgrowjoy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Launch Grow Joy
 
