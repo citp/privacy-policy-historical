@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the journaltimes.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210214246id_/http%3A//journaltimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journaltimes.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613190114id_/http%3A//journaltimes.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | journaltimes.com
 
 Welcome to the web sites and mobile applications of The Journal Times. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites, mobile sites, mobile applications, and other applications (collectively, "Services"), and to any services that display this notice and how that information is used and safeguarded.
 
