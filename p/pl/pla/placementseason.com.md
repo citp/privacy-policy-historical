@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the placementseason.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104001218id_/http%3A//placementseason.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placementseason.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613235347id_/http%3A//placementseason.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PlacementSeason.Com
+# Privacy Policy – Placement Season
 
 We value the trust you place in us. That’s why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
 
