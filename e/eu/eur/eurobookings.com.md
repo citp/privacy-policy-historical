@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurobookings.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108015147id_/http%3A//www.eurobookings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurobookings.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613180117id_/http%3A//www.eurobookings.com/privacy.html) for the most accurate reproduction.*
 
 # Eurobookings.com - Privacy statement
 
@@ -125,7 +125,7 @@ If users have any questions about the security at our website, users can send an
 
 In order for this website to properly fulfill its obligation to users, it is necessary for us to supplement the information we receive with information from third party sources.
 
-**Correcting/Updating/Deleting/Deactivating Personal Information**
+**Correcting / Updating /Deleting / Deactivating Personal Information**
 
 If a user's personally identifiable information (such as zip code, phone, email or postal address) changes or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate user's personally identifiable information. Members can change their personal information on the member profile page of our website. Members and users can all email our Customer Support at [Customer Care](mailto:customerservice@eurobookings.com) or by contact us by telephone or postal mail at the contact information listed below.
 
