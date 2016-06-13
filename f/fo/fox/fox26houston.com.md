@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox26houston.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117064515id_/http%3A//www.fox26houston.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox26houston.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613032904id_/http%3A//www.fox26houston.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KRIV
 
