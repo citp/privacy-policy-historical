@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bayesserver.com privacy policy that was archived on 2015-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151203202525id_/http%3A//www.bayesserver.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bayesserver.com privacy policy that was archived on 2016-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160613062817id_/http%3A//www.bayesserver.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><title>
 	Privacy policy
@@ -15,7 +15,7 @@
     <![endif]-->
 
     
-    <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+    <script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -26,11 +26,12 @@
     </script>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="/jquery/jquery.js"></script>
+    <script src="/Scripts/jquery-2.2.0.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/bootstrap/js/bootstrap.min.js"></script>
 
-
+    <!-- bootbox for modal dialogs used with network viewers -->
+    <script src="/Scripts/bootbox.min.js"></script>
 
 
     
@@ -68,11 +69,16 @@
 
 </head>
 
-<body style="">
-    <form method="post" action="PrivacyPolicy.aspx" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRko7EeDheHGKbb46B9BtSO4GAlzgd28+PKjxaL21h4zzE=">
+<body>
+    <form method="post" action="./PrivacyPolicy.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWBgIHDxYCHgRocmVmBRt+L0hlbHAvdjcuNi9oZWxwL0luZGV4LmFzcHhkAg8PFgIfAAUbfi9IZWxwL3Y3LjYvaGVscC9JbmRleC5hc3B4ZAIQDxYCHwAFG34vSGVscC92Ny42L2phdmEvaW5kZXguaHRtbGRkgFPgjYVH7wRAnmw+pzrbEkGl20qucYOlUUhX1KkZmjo=">
+</div>
 
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7650BFE2">
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7650BFE2">
+</div>
 
         <div style="margin-bottom: 0px;" class="navbar navbar-inverse">
             <nav class="container bayes-font" role="navigation">
@@ -101,9 +107,10 @@
                             <ul class="dropdown-menu">
                                 <li><a href="Download.aspx" id="A1">Download</a></li>
                                 <li role="separator" class="divider"></li>
+                                <li><a href="Documentation.aspx" id="A5">Documentation</a> </li>
                                 <li><a href="Screenshots.aspx" id="A2">Screenshots</a></li>                                
                                 <li><a href="Features.aspx" id="A4">Features</a> </li>
-                                <li><a href="Documentation.aspx" id="A5">Documentation</a> </li>
+                                <li><a href="ReleaseList.aspx" id="A14">Release history</a> </li>
                                 <li role="separator" class="divider"></li>
                                 <li><a href="Purchase.aspx" id="A3">Purchase</a></li>
                                 <li role="separator" class="divider"></li>
@@ -114,8 +121,30 @@
                         </li>
 
                         <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Documentation <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="Help/v7.6/help/Index.aspx" id="docsUI" target="_blank">User Interface</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="BayesCSharp.aspx" id="docsCSharp">C# code samples</a></li>
+                                <li><a href="BayesJava.aspx" id="docsJava">Java code samples</a></li>
+                                <li><a href="BayesR.aspx" id="docsR">R code samples</a></li>
+                                <li><a href="BayesPython.aspx" id="docsPython">Python code samples</a></li>
+                                <li><a href="BayesExcel.aspx" id="docsExcel">Excel functions</a></li>
+                                <li><a href="BayesSpark.aspx" id="docsSpark">Apache Spark</a></li>
+                                <li><a href="BayesMatlab.aspx" id="docsMatlab">Matlab code samples</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="Help/v7.6/help/Index.aspx" id="docsNetApi" target="_blank">.NET API (full documentation)</a></li>
+                                <li><a href="Help/v7.6/java/index.html" id="docsJavaApi" target="_blank">Java API (full documentation)</a></li>
+                                
+
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b></a>
                             <ul class="dropdown-menu">
+                                <li><a href="Live.aspx" id="A16">Live examples</a></li>
+                                <li role="separator" class="divider"></li>
                                 <li><a href="TechniquesList.aspx" id="A7">Techniques</a></li>
                                 <li><a href="Visualization.aspx" id="A10">Visualizations</a> </li>
                                 <li><a href="Tutorials.aspx" id="A8">Tutorials</a></li>
@@ -124,7 +153,7 @@
                             </ul>
                         </li>
 
-                        <li><a href="Consultancy.aspx" id="A15">Professional services</a> </li>
+                        <li><a href="Consultancy.aspx" id="A15">Services</a> </li>
 
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Big data <b class="caret"></b></a>
@@ -270,6 +299,14 @@
                         <div class="col-md-4">
                             <h3>Website
                             </h3>
+
+                            <p>
+
+                                <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/FollowCompany" data-id="2086300"></script>
+
+                            </p>
+
                             <p>
                                 <a href="http://twitter.com/bayesserver" class="twitter-follow-button" data-button="grey" data-text-color="#FFFFFF" data-link-color="#00AEFF" data-show-count="false">Follow
                         @bayesserver</a>
@@ -280,21 +317,7 @@
                                     <img src="Images/FacebookButton.png" id="Img2" style="border-style: none; vertical-align: middle" alt="facebook">
                                     &nbsp;Find us on facebook </a>
                             </p>
-                            <p>
-                                Google Plus One&nbsp;&nbsp;
-                    <!-- Place this tag where you want the +1 button to render -->
-                                <g:plusone style="vertical-align: bottom" size="small" count="false" href="http://www.BayesServer.com"></g:plusone>
-                                <!-- Place this tag after the last plusone tag -->
-                                <script type="text/javascript">
-                                    window.___gcfg = { lang: 'en-GB' };
-
-                                    (function () {
-                                        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                                        po.src = 'https://apis.google.com/js/plusone.js';
-                                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                                    })();
-                                </script>
-                            </p>
+                           
                         </div>
                         <div class="col-md-4">
                             <h3>Legal
@@ -318,7 +341,7 @@
                             </h3>
                             <p>
                                 Bayes Server Ltd.&nbsp; All rights Reserved. ©
-                    2015
+                    2016
                             </p>
                             <p>
                                 Registered in England and Wales
