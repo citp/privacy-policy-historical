@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epsilon.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210072309id_/http%3A//www.epsilon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epsilon.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613131059id_/http%3A//www.epsilon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@ Information Sharing and Disclosure
 Choices (Opt-Out and Access)  
 Cookie Practices  
 Online Targeted Advertising  
-U.S. Safe Harbour and Dispute Resolution  
+U.S. Safe Harbor and Dispute Resolution  
 Links to Third Party Sites  
 Content Sharing Features  
 Participation in Online Forms  
@@ -15,7 +15,7 @@ Security
 Changes to this policy  
 Contact Us
 
-Last Revised: March 05, 2015
+Last Revised: February 08, 2016
 
 This Privacy Policy applies solely to information collected by Epsilon on [www.epsilon.com ](http://www.epsilon.com/ "Epsilon")and other Epsilon affiliate sites that display or link directly to this Policy (collectively, “Sites”). This Privacy Policy is designed to ensure that visitors to our Sites understand how and why Epsilon collects and uses information provided by users of our Sites.
 
@@ -24,8 +24,6 @@ This Privacy Policy also does not apply to information not collected on Epsilon 
 This Privacy Policy does not apply to information collected by our Shopper’s Voice Survey. For information on the privacy practices of Shopper’s Voice, please visit the applicable [U.S. privacy policy](http://www.epsilon.com/privacy-policy/ "Privacy Policy") or [ Canadian privacy policy](http://www.shoppersvoice.ca/privacy-policy/ "Canadian privacy policy"). 
 
 [](https://privacy.truste.com/privacy-seal/Epsilon/validation?rid=e9c3b590-7613-4557-9006-e024ac35c0ab "TRUSTe European Safe Harbor certification")
-
-Epsilon has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request "TRUSTe website"). The TRUSTe program covers only information that is collected through the website www.epsilon.com.
 
 **Information Collection and Use**
 
@@ -53,7 +51,7 @@ We reserve the right to disclose your personal information as required by law, c
 
 Epsilon may transfer your personal information from your country of residence to countries that may not require the same level of data protection for your personal information as provided in your country of residence. 
 
-Epsilon will uphold the practices as noted in this privacy policy and comply with, as applicable, the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as detailed below under [U.S. Safe Harbour and Dispute Resolution](http://www.epsilon.com/privacy-policy/#U.S.%20Safe%20Harbor).
+Epsilon will uphold the practices as noted in this privacy policy and comply with, as applicable, the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as detailed below under [U.S. Safe Harbor and Dispute Resolution](http://www.epsilon.com/privacy-policy/#U.S.%20Safe%20Harbor).
 
 Epsilon may share your personal information to any other party with your prior consent.
 
@@ -61,18 +59,18 @@ Epsilon may share your personal information to any other party with your prior c
 
 **Opt-Out of Epsilon Corporate Communications**  
 Epsilon maintains contact lists to communicate with our clients and prospects. Individuals must affirmatively ask to join one or more of our email lists by registering on our Sites. All email messages sent to these lists include an opportunity to unsubscribe or opt-out of future email messages. You may also request to be removed from future email messages by contacting us via email or by using the links below:  
-North America: [privacy@epsilon.com](mailto:privacy@epsilon.com "privacy email") or [opt-out online](http://info.epsiloninteractive.com/p/WebSiteLeads/Epsilon_Opt-Out "opt-out online")  
-Asian-Pacific region: [apac-privacy@epsilon.com](mailto:apac-privacy@epsilon.com "apac privacy") or or [opt-out online](http://info.epsiloninteractive.com/p/WebSiteLeads/Epsilon_Opt-Out "opt-out online")  
-European Union and EEA: [emeaprivacy@epsilon.com](mailto:emeaprivacy@epsilon.com "privacy email") or opt-out online ([Français](http://form.emeaupdates.epsilon.com/emeamainpc_fr/emeamainpc_fr.aspx "Francaise") and [Deutsch](http://form.emeaupdates.epsilon.com/emeamainpc_de/emeamainpc_de.aspx "Deutsch"))
+North America: [privacy@epsilon.com](mailto:privacy@epsilon.com "privacy email") or [opt-out online](http://engage.epsilon.com/PreferenceCenter "opt-out online")  
+Asian-Pacific region: [apac-privacy@epsilon.com](mailto:apac-privacy@epsilon.com "apac privacy") or [opt-out online](http://engage.epsilon.com/PreferenceCenterAPAC "opt-out online")  
+European Union and EEA: [emeaprivacy@epsilon.com](mailto:emeaprivacy@epsilon.com "privacy email") or [opt-out online](http://engage.epsilon.com/PreferenceCenterEMEA "opt-out online") ([Français](http://form.emeaupdates.epsilon.com/emeamainpc_fr/emeamainpc_fr.aspx "Francaise") and [Deutsch](http://form.emeaupdates.epsilon.com/emeamainpc_de/emeamainpc_de.aspx "Deutsch"))
 
-Epsilon also maintains a postal mailing list to communicate with our clients and prospects. You can request to be removed from our mailing list by sending your name and postal address to us via email or postal mail to one of the addresses listed below under [Contact Us](http://www.epsilon.com/privacy-policy/#contact%20us "Contact us").
+Epsilon also maintains a postal mailing list to communicate with our clients and prospects. You can request to be removed from our mailing list by sending your name and postal address to us via email or postal mail to one of the addresses listed below under Contact Us
 
 This Privacy Policy does not apply to information not collected on Epsilon Sites that may be stored in Epsilon databases. For more information on Epsilon databases, and for information on how to opt-out, please visit our [Consumer Preference Center](http://www.epsilon.com/consumer-preference-center/ "Consumer preference center").
 
 Epsilon retains your information for as long as you have an open and active account profile with us or as needed to provide you the services you requested. We will retain and use your information to comply with our legal obligations, resolve disputes and enforce our agreements. If you choose to opt-out of our communications, Epsilon will retain the minimum amount of your information necessary to maintain a record of your opt-out.
 
 **Access to Personal Information**  
-At Epsilon, we believe it is important to provide consumers with clear information about the data available in our Epsilon databases. If your personal information changes, or if you no longer desire our service, you may correct, delete or ask to have it removed by emailing or contacting us. U.S. residents may request access to learn what information Epsilon has about your household in our Epsilon databases using our Marketing Data Summary Request Form. For non-U.S. residents, please contact us via email or postal mail to one of the addresses listed below under [Contact Us](http://www.epsilon.com/privacy-policy/#contact%20us "Contact us").  
+At Epsilon, we believe it is important to provide consumers with clear information about the data available in our Epsilon databases. If your personal information changes, or if you no longer desire our service, you may correct, delete or ask to have it removed by emailing or contacting us. U.S. residents may request access to learn what information Epsilon has about your household in our Epsilon databases using our Marketing Data Summary Request Form. For non-U.S. residents, please contact us via email or postal mail to one of the addresses listed below under Contact Us  
 We will respond to your requests within 14 business days.
 
 **Cookies**  
@@ -87,7 +85,7 @@ Performance Cookies: These cookies collect information about how visitors use ou
 
 Functionality Cookies: These cookies allow our Sites to remember choices you make (such as remembering your user name and password, language preference or the region you are in) and provide enhanced, more personalized features. These cookies may also be used to remember changes you have made to text size, fonts and other personalizations. They may also be used to provide services you have requested, such as keeping you logged in to your account as you browse the internet. These cookies do not track your browsing activity on other websites. By using our Sites or by signing up for an account with us, you agree that we can place these types of cookies on your device.
 
-Tracking Cookies: For information on cookies that are used for tracking, please see below under **Online Targeted Advertising**.
+Tracking Cookies: For information on cookies that are used for tracking, please see below under Online Targeted Advertising
 
 **Modifying Your Browser Settings**  
 You can modify your browser settings at any time, including setting your browser to notify you when you receive a cookie, giving you the choice to decide whether or not to accept it. If you reject cookies, you may still use our Sites, but the functionality of some areas may be limited.
@@ -95,8 +93,8 @@ You can modify your browser settings at any time, including setting your browser
 Below are links to information on managing your cookie preferences with common browsers and links for more information on cookie practices:  
 • [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en "Google chrome")  
 • [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies "Mozilla firefox")  
-• [Microsoft Internet Explorer](http://support.microsoft.com/Error?aspxerrorpath=/kb/283185 "Microsoft internet explorer")  
-• [Safari](http://support.apple.com/kb/PH11913 "Safari")  
+• [Microsoft Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11-win-7 "Microsoft internet explorer")  
+• [Safari](https://support.apple.com/kb/PH19214?locale=en_US "Safari")  
 • [Google Analytics](https://support.google.com/analytics/answer/6004245 "Google analytics ")  
 • [More information on cookies](http://www.iabeurope.eu/files/6813/7042/5310/Internet_Cookies_-_Increasing_and_enhancing_your_internet_surfing_experience.pdf "More information")
 
@@ -111,7 +109,7 @@ Third parties with whom we partner to provide certain features on our site or to
 
 As you browse the internet, you may see advertisements on the web pages you visit. Some of these ads are targeted based on a variety of factors, such as websites you visit, perceived interests, and demographic information. This practice is called Online Targeted Advertising. We work with advertising partners to enable the delivery of relevant messages to the right consumers while protecting consumer privacy and offering choices about participating in such activities. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you with Online Targeting Advertising. Our Sites may also engage in Online Targeted Advertising and when visiting our international Sites, where required, you will see a notice that provides information on our use of cookies on that specific Site. Online Targeted Advertising does not result in more ads, rather the ads you see will be more relevant to you. 
 
-For more information regarding Epsilon’s [ Online Targeted Advertising ](http://www.epsilon.com/privacy-policy/#online%20targeted%20advertising)activities and to opt-out of Online Targeted Advertising, please visit the [Epsilon Consumer Preference Center](http://www.epsilon.com/consumer-preference-center/ "Consumer preference") or visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/ "Opt out page").  
+For more information regarding Epsilon’s Online Targeted Advertising activities and to opt-out of Online Targeted Advertising, please visit the [Epsilon Consumer Preference Center](http://www.epsilon.com/consumer-preference-center/ "Consumer preference") or visit the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/ "Opt out page").  
 Canadian consumers can opt-out [here](http://youradchoices.ca/choices "opt out") and EU consumers can opt-out [here](http://www.youronlinechoices.eu/ "opt out")
 
 For any questions related to our web technologies, you may contact us via email at [ privacy@epsilon.com](mailto:privacy@epsilon.com)
@@ -120,27 +118,11 @@ For any questions related to our web technologies, you may contact us via email 
 
 Epsilon complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. When you register with Epsilon, you agree that the personal information collected may be transferred across international borders to complete your request.
 
-Epsilon Data Management, LLC and Alliance Data FHC, Inc., trading as Epsilon International, annually certify that they adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. Please see the U.S. Department of Commerce’s website <http://export.gov/safeharbor> for details regarding our compliance.
+Epsilon Data Management, LLC and Alliance Data FHC, Inc., trading as Epsilon International, annually certify that they adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. Please see the U.S. Department of Commerce’s website <http://export.gov/safeharbor> for details regarding our compliance and to learn more about the Safe Harbor program.
 
-As part of our participation in Safe Harbor, we have agreed to the TRUSTe dispute resolution process for disputes relating to our compliance with the Safe Harbor Privacy Frameworks. If you have any complaints regarding our compliance with the Safe Harbor Frameworks you should first contact us at [ privacy@epsilon.com](mailto:privacy@epsilon.com).
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Epsilon commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Epsilon at: [privacy@epsilon.com](mailto:privacy@epsilon.com)
 
-If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by:
-
-Internet: <https://feedback-form.truste.com/watchdog/request>
-
-Mail: WatchDog Complaints, TRUSTe  
-835 Market Street, Suite 800  
-San Francisco, CA, USA 94103
-
-Fax: 415-520-3420
-
-If you are mailing or faxing TRUSTe to lodge a complaint, you must include the following information:  
-• The name of the company  
-• The alleged privacy violation  
-• Your contact information  
-• Whether you would like the details of your complaint shared with the company
-
-For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, visit TRUSTe’s [website](https://feedback-form.truste.com/watchdog/request "TRUSTe's website") or request this information from TRUSTe at the address listed above. The TRUSTe dispute resolution process will be conducted in English.
+Epsilon has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program) for more information and to file a complaint
 
 **Links to Third Party Sites**  
 Our Sites contain links to unaffiliated third party sites. Epsilon and its affiliate Sites do not endorse or make any representations about any third party sites (or any information, software or other products or materials found there) to which our Sites might link. This Privacy Policy does not apply to the information collection and use practices of third party sites. We encourage you to review the privacy policies of these unaffiliated third party sites to understand their data collection and use practices.
@@ -179,8 +161,8 @@ To ask questions about Epsilon’s Privacy Policy or to request more information
 
 Epsilon  
 Privacy Manager  
-2550 Crescent Drive  
-Lafayette, CO 80026
+6021 Connection Drive  
+Irving, TX 75039
 
 **EU and EEA region**  
 [emeaprivacy@epsilon.com](mailto:emeaprivacy@epsilon.com)
