@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the originenergy.com.au privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222110629id_/https%3A//www.originenergy.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originenergy.com.au privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613160738id_/http%3A//www.originenergy.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Origin Energy
 
 ### 1\. Privacy Collection Statement for Customers & Prospective Customers
 
-Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, **we** or **us** ). Our contact details are available at [originenergy.com.au/contact](https://web.archive.org/content/origin-ui/en/contact-us.html) or you can email us at: [privacy@originenergy.com.au](mailto:privacy@originenergy.com.au). 
+Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, **we** or **us** ). Our contact details are available at [originenergy.com.au/contact](https://web.archive.org/contact-us.html) or you can email us at: [privacy@originenergy.com.au](mailto:privacy@originenergy.com.au). 
 
 We collect, use, hold and disclose your personal information (which includes your name, address, telephone and other contact details and banking and credit card details) in order to provide you with energy and related products and services and to process your payments for these products and services.
 
@@ -26,21 +26,21 @@ We may hold personal information about you in, or may disclose this information 
 
 We may also collect, use, hold and disclose certain credit related information about you. We may collect such credit related information from, and disclose credit related information to, credit reporting bodies and other entities that provide credit directly to you. For more information, please see our specific Credit Reporting Collection Statement.
 
-We will otherwise collect, hold, use and disclose your personal information in accordance with our [Privacy Policy](https://web.archive.org/content/origin-ui/en/privacy/privacy-policy.html), which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information. Our credit reporting policy, which forms part of our general [Privacy Policy](https://web.archive.org/content/origin-ui/en/privacy/privacy-policy.html), sets out how we will collect, hold, use and disclose any credit related information about you, how you may access and correct the credit related information that we hold about you and how to lodge a complaint relating to our treatment of your credit related information.
+We will otherwise collect, hold, use and disclose your personal information in accordance with our [Privacy Policy](https://web.archive.org/privacy/privacy-policy.html), which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information. Our credit reporting policy, which forms part of our general [Privacy Policy](https://web.archive.org/privacy/privacy-policy.html), sets out how we will collect, hold, use and disclose any credit related information about you, how you may access and correct the credit related information that we hold about you and how to lodge a complaint relating to our treatment of your credit related information.
 
 ### 2\. Privacy Collection Statement for Landholders
 
-Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, **we** or **us** ). Our contact details are available at [originenergy.com.au/contact](https://web.archive.org/content/origin-ui/en/contact-us.html), but you can also call us on 1800 526 369 or you can email us at: [privacy@originenergy.com.au](http://privacy@originenergy.com.au/)
+Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, **we** or **us** ). Our contact details are available at [originenergy.com.au/contact](https://web.archive.org/contact-us.html), but you can also call us on 1800 526 369 or you can email us at: [privacy@originenergy.com.au](http://privacy@originenergy.com.au/)
 
 We collect, use, hold and disclose your personal information (which includes your name, address, telephone, other contact details and banking details) in order to manage our relationship with you or your relationship with third parties that we act or perform functions for. If it is relevant to the business relationship, we may also collect sensitive information. We may collect personal information about you from third parties, but will take reasonable steps to ensure that you been made aware of the matters contained in this privacy collection statement. If you choose not to provide your personal information to us, we may not be able to answer your query or have a business or other relationship with you. 
 
 We may disclose your personal information to third parties, which may include our joint venture partners, entities that we act or provide functions for, our services providers, your authorised representative(s) and government and regulatory authorities (where required or authorised by law). These third parties will manage your personal information in accordance with their own privacy policies and we ask that these third parties hold, use and disclose your personal information in accordance with the Privacy Act.
 
-We will otherwise collect, hold, use and disclose your personal information in accordance with our [Privacy Policy](https://web.archive.org/content/origin-ui/en/privacy/privacy-policy.html), which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.
+We will otherwise collect, hold, use and disclose your personal information in accordance with our [Privacy Policy](https://web.archive.org/privacy/privacy-policy.html), which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.
 
 ### 3\. Privacy Collection Statement for Community Engagement & Stakeholders
 
-Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, **we** or **us** ). Our contact details are available at [originenergy.com.au/contact](https://web.archive.org/content/origin-ui/en/contact-us.html) or you can email us at: [privacy@originenergy.com.au](http://privacy@originenergy.com.au/)
+Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, **we** or **us** ). Our contact details are available at [originenergy.com.au/contact](https://web.archive.org/contact-us.html) or you can email us at: [privacy@originenergy.com.au](http://privacy@originenergy.com.au/)
 
 When we interact with community organisations and similar stakeholders, we may collect personal information about identified individuals or the representatives of these organisations as part of this engagement process. We may collect your name, address and contact details, as well as any other personal information necessary to respond to enquiries or to address any community or other concerns that have been raised with us or in relation to third parties that we act or perform functions for. If it is relevant to the enquiry or concern, this may include collecting sensitive information.
 
@@ -50,41 +50,41 @@ We may disclose your personal information to third parties, which may include ou
 
 These third parties will manage your personal information in accordance with their own privacy policies and we ask that these third parties hold, use and disclose your personal information in accordance with the Privacy Act.
 
-We will otherwise collect, hold, use and disclose your personal information in accordance with our [Privacy Policy](https://web.archive.org/content/origin-ui/en/privacy/privacy-policy.html), which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.
+We will otherwise collect, hold, use and disclose your personal information in accordance with our [Privacy Policy](https://web.archive.org/privacy/privacy-policy.html), which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.
 
 ### 4\. Privacy Collection Statement for Shareholders
 
-Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) ( **we** or **us** ). Our contact details are available at [originenergy.com.au/contact](https://web.archive.org/content/origin-ui/en/contact-us.html) or you can email us at: [privacy@originenergy.com.au](http://privacy@originenergy.com.au/)
+Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) ( **we** or **us** ). Our contact details are available at [originenergy.com.au/contact](https://web.archive.org/contact-us.html) or you can email us at: [privacy@originenergy.com.au](http://privacy@originenergy.com.au/)
 
 We collect, use, hold and disclose your personal information (which includes your name, address, telephone and other contact details, date of birth, tax file number and banking details) in connection with your shareholding, to keep our share registry up to date and to pay any dividends to you. The collection of this information may be required under the Corporations Act 2001 (Cth) or the Anti-Money Laundering and Counter Terrorism Financing Act 2006 (Cth). If you do not provide your personal information to us, you may not be able to become a shareholder.
 
 We may disclose your personal information to our share registry operator, contractors, agents, government bodies and regulators and to our service providers and professional advisors. In certain circumstances, we may be required by law to grant access to anyone who wishes to inspect our share register and to provide a copy to them.
 
-We will otherwise collect, hold, use and disclose your personal information in accordance with our [Privacy Policy](https://web.archive.org/content/origin-ui/en/privacy/privacy-policy.html), which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.
+We will otherwise collect, hold, use and disclose your personal information in accordance with our [Privacy Policy](https://web.archive.org/privacy/privacy-policy.html), which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.
 
 ### 5\. Privacy Collection Statement for Other Contractors & Visitors
 
-Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, **we** or **us** ). Our contact details are available at [originenergy.com.au/contact](https://web.archive.org/content/origin-ui/en/contact-us.html) or you can email us at: [privacy@originenergy.com.au](mailto:privacy@originenergy.com.au)
+Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, **we** or **us** ). Our contact details are available at [originenergy.com.au/contact](https://web.archive.org/contact-us.html) or you can email us at: [privacy@originenergy.com.au](mailto:privacy@originenergy.com.au)
 
 We collect, use, hold and disclose your personal information (which includes your name, address, contact details and details of your employer) in connection with allowing you to access any sites, offices, buildings or other premises that we own or lease or which are under our control. We may also collect sensitive information, including health information, about you in some circumstances (such as if one of our representatives requests that you submit to a drug or alcohol test while on our premises). If you do not provide your personal information to us (including consenting to our collection of your sensitive information), you may not be allowed to access our premises or you may be asked to leave our premises. 
 
 We may disclose your personal information to our contractors, agents, government bodies, local authorities and to our service providers. 
 
-We will otherwise collect, hold, use and disclose your personal information in accordance with our [Privacy Policy](https://web.archive.org/content/origin-ui/en/privacy/privacy-policy.html), which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information. 
+We will otherwise collect, hold, use and disclose your personal information in accordance with our [Privacy Policy](https://web.archive.org/privacy/privacy-policy.html), which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information. 
 
 ### 6\. Privacy Collection Statement for General Enquiries
 
-Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, **we** or **us** ). Our contact details are available at [originenergy.com.au/contact](https://web.archive.org/content/origin-ui/en/contact-us.html) or you can email us at: [privacy@originenergy.com.au](mailto:privacy@originenergy.com.au).
+Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, **we** or **us** ). Our contact details are available at [originenergy.com.au/contact](https://web.archive.org/contact-us.html) or you can email us at: [privacy@originenergy.com.au](mailto:privacy@originenergy.com.au).
 
 We collect, use, hold and disclose your personal information (which includes your name, address, telephone and other contact details) in order to answer your query or provide you with a report, document or other information that you have requested. If you choose not to provide your personal information to us, we may not be able to answer your query or provide the report, document or other information that you have requested.
 
 We may disclose your personal information to our contractors, agents, government bodies, local authorities and to our service providers. 
 
-We will otherwise collect, hold, use and disclose your personal information in accordance with our [Privacy Policy](https://web.archive.org/content/origin-ui/en/privacy/privacy-policy.html), which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.
+We will otherwise collect, hold, use and disclose your personal information in accordance with our [Privacy Policy](https://web.archive.org/privacy/privacy-policy.html), which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.
 
 ### 7\. Credit Reporting Collection Statement
 
-Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, **we** or **us** ). Our contact details are available at [originenergy.com.au/contact](https://web.archive.org/content/origin-ui/en/contact-us.html) or you can email us at: [privacy@originenergy.com.au](mailto:privacy@originenergy.com.au)
+Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, **we** or **us** ). Our contact details are available at [originenergy.com.au/contact](https://web.archive.org/contact-us.html) or you can email us at: [privacy@originenergy.com.au](mailto:privacy@originenergy.com.au)
 
 We may collect, use, hold and disclose certain credit related information about you for the purposes of providing you with energy and related products and services and to process your payments for these products and services. Credit related information includes information such as your name and contact details, your credit history (including any repayments or late repayments you have made), details of any credit you have sought or obtained from other credit providers, any credit rating or credit assessment score that we calculate or that a credit reporting body might provide to us and details of any credit-related court proceedings or insolvency applications that relate to you.
 
@@ -101,7 +101,7 @@ If we disclose your information to other credit reporting bodies in the future w
 
 These credit reporting bodies may include your information in reports provided to other credit providers to assist them to assess your credit worthiness. If you do not pay for the energy and related products and services that we provide to you, if you commit fraud or try to do so, or if you otherwise commit a serious credit infringement, we may disclose this information to these credit reporting bodies. This may affect your ability to obtain credit in the future. 
 
-We also have a credit reporting policy, which forms part of our general [Privacy Policy](https://web.archive.org/content/origin-ui/en/privacy/privacy-policy.html). You may obtain a copy of the credit reporting bodies’ credit reporting policies by contacting them using the contact details set out above. 
+We also have a credit reporting policy, which forms part of our general [Privacy Policy](https://web.archive.org/privacy/privacy-policy.html). You may obtain a copy of the credit reporting bodies’ credit reporting policies by contacting them using the contact details set out above. 
 
 We may also disclose credit relating information about you to third parties to whom we have assigned your debt. 
 
