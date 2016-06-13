@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the turtlediary.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910050856id_/http%3A//www.turtlediary.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlediary.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613043339id_/http%3A//www.turtlediary.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - TurtleDiary.com
-
-Privacy Policy
+# Privacy Policy - Turtle Diary
 
 ### Our Commitment To Privacy
 
-Turtlediary knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy sets out the terms of how Turtlediary uses and protects any personal information that you provide Turtlediary when you use the website www.TurtleDiary.com (the Website). It also explains each parent's or guardian's (Parent) ability to review, request deletion of, or place certain restrictions on the collection, use, and disclosure of, personal information of his/her Child. Turtlediary is committed to ensuring that your child's privacy is protected. Should we ask you to provide certain information by which you or your child can be identified when using this Website, you can be assured that it will only be used pursuant to this privacy policy and/or pursuant to our Terms and Conditions. Turtlediary may revise this policy at any time by updating this page. You should check this page from time to time to ensure that you are in agreement with any changes. Continued use of this Website constitutes your agreement to our then-current privacy policy. This policy is effective as of March 20th, 2013. 
+Turtlediary knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy sets out the terms of how Turtlediary uses and protects any personal information that you provide Turtlediary when you use the website www.TurtleDiary.com (the Website). It also explains each parent's or guardian's (Parent) ability to review, request deletion of, or place certain restrictions on the collection, use, and disclosure of, personal information of his/her Child. Turtlediary is committed to ensuring that your child's privacy is protected. Should we ask you to provide certain information by which you or your child can be identified when using this Website, you can be assured that it will only be used pursuant to this privacy policy and/or pursuant to our Terms and Conditions. Turtlediary may revise this policy at any time by updating this page. You should check this page from time to time to ensure that you are in agreement with any changes. Continued use of this Website constitutes your agreement to our then-current privacy policy. This policy is effective as of March 20th, 2013.
 
 **This policy will answer the following questions:**
 
