@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cam4-gay.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630015354id_/http%3A//www.cam4-gay.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam4-gay.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613131735id_/http%3A//www.cam4-gay.com/privacy.html%3F) for the most accurate reproduction.*
 
-# CAM 4 GAY CAMS-Privacy Policy
+# CAM 4 GAY CAMS- Privacy Policy
 
 [Home](http://www.cam4-gay.com/) / Privacy Policy
 
@@ -47,7 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-ICF Technology, Inc.  
-PO Box 21508  
-Seattle, WA 98111  
-USA
+.cnI ,ygolonhceT FCI  
+80512 xoB OP  
+11189 AW ,elttaeS  
+ASU
