@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rock.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025103004id_/http%3A//www.rock.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rock.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613105400id_/http%3A//www.rock.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ Any of the information we collect from you may be used in one of the following w
 
 • To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs) 
 
-• To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
+• To market to you on social media, search engines, and other websites (this allows us to keep you continually informed and updated regarding product opportunities) 
 
 • To send periodic emails 
 
