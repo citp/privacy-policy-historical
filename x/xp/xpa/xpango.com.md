@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpango.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124050633id_/http%3A//www.xpango.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpango.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613132249id_/http%3A//www.xpango.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xpango.com
 
@@ -9,14 +9,14 @@
 
 
 
-3,018,577 Xpangoer's and counting...
+3,297,463 Xpangoer's and counting...
 
   * mobile phones
     *     * [
 
 #### Free iPhone
 
-Free iPhone 6, iPhone 6 Plus & iPhone 5s
+Free iPhone 6s, iPhone 6s Plus, iPhone 5s, SE & more...
 
 ](https://web.archive.org/free-iphone)
     * [
@@ -99,7 +99,7 @@ Free Sony Walkman F Series, E Series and more...
 
 #### Free Apple iPad
 
-Free Apple iPad Air, iPad Mini Retina, iPad Mini and more...
+Free Apple iPad Pro, iPad Air 2, iPad Mini 4 and more...
 
 ](https://web.archive.org/free-ipad)
     * [
