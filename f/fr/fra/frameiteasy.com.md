@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frameiteasy.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214040322id_/http%3A//www.frameiteasy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frameiteasy.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613093831id_/http%3A//www.frameiteasy.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Frame It Easy
 
