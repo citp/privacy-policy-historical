@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the originenergy.com.au privacy policy that was archived on 2015-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151222110629id_/https%3A//www.originenergy.com.au/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the originenergy.com.au privacy policy that was archived on 2016-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160613160738id_/http%3A//www.originenergy.com.au/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -97,6 +97,11 @@
 		var validStateStrings = new RegExp('(default|act|nsw|nt|qld|sa|tas|vic|wa)');
 		if (validStateStrings.test(state)) {
 			setCookie(state);
+			// AG-132 updates (inc AG-71)
+			if (typeof _dtmLayer !== undefined) {
+				_dtmLayer.state = state;
+			}
+
 		}
 	</script>
 
@@ -174,12 +179,28 @@
     
     	
     
-	<div class="crisisBanner banner-crisis"><div>
+	<div class="crisisBanner banner-crisis"><!-- AG-213/PUL-58 - IE8 TLS Warning message -->
+<div class="crisis-banner crisis-banner-IE8 show-on-ie8">
+    <div class="container">
+        <div class="crisis-banner-padding">
+            <div class="row">
+                <div class="col-xs-12 col-sm-1 col-1">
+                    <span class="icon icon-info"><span class="sr-only">Information</span></span>
+                </div>
+                <div class="col-xs-12 col-sm-9">
+                    <h4>Important Notice</h4>
+                    <p>We’ve noticed you’re using Internet Explorer 8 (IE8) on a Windows XP operation system. To make sure you’re protected by the latest security updates, we recommend your update your browser, use a different browser or operating system. On June 25 we will upgrade our website to ensure it remains complaint with worldwide security protocols. You may be unable to view the site if you do not update your browser. <a href="https://www.pcisecuritystandards.org/documents/Migrating_from_SSL_Early_TLS_Information_Supplement_v1.pdf" target="_blank">Find out more</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /AG-213 -->
+<div>
 	<div></div>
 	
     
 <script type="text/javascript" src="/etc/designs/origin-ui/components/bannerCrisis.min.js"></script>
-
 
 
 
@@ -207,6 +228,13 @@
 </div>
 
 	<div class="navigation"><div>
+	
+    
+<script type="text/javascript" src="/etc/designs/origin-ui/my-account/navigation.min.js"></script>
+
+
+
+
 	<div class="navmenu navmenu-default navmenu-fixed-left offcanvas" aria-hidden="true" data-navigation="offcanvas">
 		<button type="button" class="btn-reset-nav offcanvas-close">
 			<span class="sr-only">Close navigation</span>
@@ -255,11 +283,12 @@
 
 		<div class="contact-panel contact-panel-offcanvas">
 
-			<h2 class="h5 text-uppercase text-orange-dark"></h2>
+			<h2 class="h5 text-uppercase text-orange-dark">CONTACT US</h2>
 
 			
 				<h3 class="contact-panel-heading">Talk to us</h3>
-				<p class="contact-panel-hours">7 am - 9 pm, Monday to Friday and 9 am - 5 pm, Saturday</p>
+				<p class="contact-panel-hours">&lt;p&gt;7 am - 9 pm, Monday to Friday and 9&amp;nbsp;am - 5&amp;nbsp;pm, Saturday&lt;/p&gt;
+</p>
 				<strong class="text-large">
 					<span class="icon icon-phone text-orange-dark"></span>
 					<a class="link-tel" href="tel:13%2024%2061">13 24 61</a>
@@ -317,120 +346,165 @@
 							</div>
 						</div>
 					</div>
-					<!--<div id="headerLogin" class="panel-collapse collapse" role="tabpanel" aria-labelledby="iconLogin">-->
-						<!--<div class="header-panel">-->
-							<!--<form class="form" role="form" novalidate="novalidate">-->
-								<!--<div class="row">-->
-									<!--<div class="col-md-4 col-md-offset-1">-->
-										<!--<div class="form-group has-feedback">-->
-											<!--<label for="username">Username</label>-->
-											<!--<input type="text" class="form-control" name="username" id="username" value="" placeholder="Username" data-bv-field="username">-->
-											<!--<i class="form-control-feedback" data-bv-icon-for="username" style="display: none;"></i>-->
-											<!--<small class="help-block" data-bv-validator="notEmpty" data-bv-for="username" data-bv-result="NOT_VALIDATED" style="display: none;">The username is required</small>-->
-											<!--<a href="#" title="Register for My Account">Register for My Account</a>-->
-										<!--</div>-->
-									<!--</div>-->
-									<!--<div class="col-md-4">-->
-										<!--<label for="password">Password</label>-->
-										<!--<input type="password" class="form-control" name="password" id="password" value="" placeholder="Password" data-bv-field="password">-->
-										<!--<i class="form-control-feedback" data-bv-icon-for="password" style="display: none;"></i>-->
-										<!--<small class="help-block" data-bv-validator="notEmpty" data-bv-for="password" data-bv-result="NOT_VALIDATED" style="display: none;">The password is required</small>-->
-										<!--<a href="#" title="Forgot your password?">Forgot your password?</a>-->
-									<!--</div>-->
-									<!--<div class="col-md-2">-->
-										<!--<div class="form-group">-->
-											<!--<input type="submit" class="btn btn-default btn-login" value="Sign in">-->
-										<!--</div>-->
-									<!--</div>-->
-								<!--</div>-->
-							<!--</form>-->
-						<!--</div>-->
-					<!--</div>-->
+
+					<div id="headerLogin" class="panel-collapse collapse" role="tabpanel" aria-labelledby="iconLogin"><div id="properties-outage" data-on-time-value="" data-off-time-value="" style="display: none;"></div>
+<div class="header-panel">
+	<form class="form account-header-login account-login" novalidate="novalidate" id="account-header-login">
+		<input type="hidden" name="failureurl" id="failureUrl-header" value="http://www.originenergy.com.au/privacy.html">
+		<input type="hidden" name="residentialUrl" id="residentialUrl-header" value="http://www.originenergy.com.au/for-home/my-account.html">
+		<input type="hidden" name="businessUrl" id="businessUrl-header" value="http://www.originenergy.com.au/business/my-account.html">
+		<input type="hidden" name="tncUrl" id="tncUrl-header" value="http://www.originenergy.com.au/account-support-terms-conditions.html">
+		<input type="hidden" name="tncTextUrl" id="tncTextUrl-header" value="/content/origin-ui/en/terms-and-conditions/my-account-terms-conditions">
+
+		<div class="row">
+			<div class="col-md-11 center-col-in-row"><!-- adding to get 1/2 col gutters -->
+				<div class="row">
+					<div class="col-md-9">
+						<div class="row">
+							<div class="col-md-6">
+								<div class="form-group has-feedback">
+									<label for="username">Username</label>
+									<input type="text" class="form-control" name="username" id="username-header" value="" placeholder="Username" tabindex="1">
+								</div>
+
+								<a class="btn btn-link no-padding-left text-orange-dark" href="http://www.originenergy.com.au/forgot-username.html">
+									<span class="small icon icon-chevron-right"></span>Forgot your username?
+								</a>
+							</div>
+
+							<div class="col-md-6">
+								<div class="form-group has-feedback">
+									<label for="password">Password</label>
+									<input type="password" class="form-control" name="password" id="password" value="" placeholder="Password" autocomplete="off" tabindex="2">
+								</div>
+
+								<a class="btn btn-link no-padding-left text-orange-dark" href="http://www.originenergy.com.au/forgot-password.html">
+									<span class="small icon icon-chevron-right"></span>Forgot your password?
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="form-group">
+							<input type="submit" class="btn btn-default btn-login btn-block no-margin-bottom header-login-button js_login-header-submit" id="signin" value="Log in" tabindex="3">
+						</div>
+
+						<div class="form-group">
+							<div class="checkbox spacing-component-outer">
+								<label>
+									<input type="checkbox" name="rememberMe" id="rememberMeHeader" value="Remember Me" tabindex="4">
+									<span>Remember Me</span>
+								</label>
+							</div>
+						</div>
+						
+						<a class="btn btn-link no-padding-left no-padding-right text-orange-dark" href="http://www.originenergy.com.au/for-home/my-account/register.html">
+							<span class="small icon icon-chevron-right"></span>Register for my account
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- login error -->
+		<div class="row spacing-component-inner-bottom login-form-fail hidden">
+			<div class="col-xs-12 col-sm-1 text-right">
+				<span class="icon icon-info font-size-18 text-orange-dark"></span>
+			</div>
+			<div class="col-xs-12 col-sm-9" id="showError">
+				<h4 class="no-margin-bottom">There were problems logging into your account.</h4>
+				<p class="login-error-message"></p>
+			</div>
+		</div>
+	</form>
+</div></div>
 				</div>
 			</div>
 		</div>
 	</div>
 
 	<div class="bg-charcoal header-topbar">
-		<div class="container container-global-nav">
-			<div class="header-logo">
-				<a href="/">
-					<img src="/content/dam/origin/shared/logo/origin.jpg" alt="Origin Energy">
-				</a>
-			</div>
+	<div class="container container-global-nav">
+		<div class="header-logo">
+			<a href="/"> <img src="/content/dam/origin/shared/logo/origin.jpg" alt="Origin Energy">
+			</a>
+		</div>
 
-			<button type="button" class="btn-reset-nav navbar-toggle" data-toggle="offcanvas" data-target=".navmenu" data-canvas="body">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</button>
+		<button type="button" class="btn-reset-nav navbar-toggle" data-toggle="offcanvas" data-target=".navmenu" data-canvas="body">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
 
-			<nav role="navigation" class="visible-navbreak" aria-hidden="false" data-navigation="oncanvas">
-				<ul class="global-nav global-nav-main">
-					<li>
-						<a href="http://www.originenergy.com.au/for-home.html"><span data-universe="for-home">For Home</span></a>
-					</li>
-				
-					<li>
-						<a href="http://www.originenergy.com.au/business.html"><span data-universe="business">For Business</span></a>
-					</li>
-				
-					<li>
-						<a href="http://www.originenergy.com.au/about.html"><span data-universe="about">About</span></a>
-					</li>
-				
-					<li>
-						<a href="http://www.originenergy.com.au/blog.html"><span data-universe="blog">Blog</span></a>
-					</li>
-				</ul>
-			</nav>
-
-			<ul class="header-icon-links" role="tablist">
-				<!--<li class="visible-navbreak" aria-hidden="false" data-navigation="oncanvas">-->
-					<!--<a href="&#x2f;content&#x2f;origin-ui&#x2f;en&#x2f;contact-us.html">-->
-						<!--<span class="icon icon-phone"></span>-->
-						<!--<span class="icon-label">Contact</span>-->
-					<!--</a>-->
-				<!--</li>-->
-                <li>
-                    <a href="/contact-us.html">
-                        <span class="icon icon-phone"></span>
-                        <span class="icon-label">Contact</span>
-                    </a>
-                </li>
-				<li role="tab" id="iconSearch">
-					<a data-toggle="collapse" data-parent="#headerAccordion" href="#headerSearch" class="collapsed" aria-controls="headerSearch" aria-expanded="false">
-						<span class="icon icon-search collapse-is-closed"></span>
-						<span class="icon-label collapse-is-closed">Search</span>
-						<span class="icon icon-close collapse-is-open"></span>
-						<span class="icon-label collapse-is-open">Close</span>
+		<nav role="navigation" class="visible-navbreak" aria-hidden="false" data-navigation="oncanvas">
+			<ul class="global-nav global-nav-main">
+				<li>
+					<a href="http://www.originenergy.com.au/for-home.html">
+						<span data-universe="for-home">For Home</span>
 					</a>
 				</li>
-                <!--<li role="tab" id="iconLogin" data-sly-test="true">-->
-                    <!--<a data-toggle="collapse" data-parent="#headerAccordion" href="#headerLogin" class="collapsed" aria-controls="headerLogin" aria-expanded="false">-->
-                        <!--<span class="icon icon-account collapse-is-closed"></span>-->
-						<!--<span class="icon-label collapse-is-closed">Log in</span>-->
-                        <!--<span class="icon icon-close collapse-is-open"></span>-->
-						<!--<span class="icon-label collapse-is-open">Close</span>-->
-                    <!--</a>-->
-                <!--</li>-->
-                <!--<li role="tab" id="iconLogin" data-sly-test="" >-->
-                    <!--<a data-toggle="collapse" data-parent="#headerAccordion" href="#myAccount" class="collapsed" aria-controls="headerLogin" aria-expanded="false">-->
-                        <!--<span class="icon icon-account open-icon"></span>-->
-						<!--<span class="icon-label">My Account</span>-->
-                    <!--</a>-->
-                <!--</li>-->
-                <li role="tab" id="iconLogin">
-                    <a href="https://online.originenergy.com.au/irj/portal">
-                        <span class="icon icon-account open-icon"></span>
-						<span class="icon-label">Log in</span>
-                    </a>
-                </li>
-
+			
+				<li>
+					<a href="http://www.originenergy.com.au/business.html">
+						<span data-universe="business">For Business</span>
+					</a>
+				</li>
+			
+				<li>
+					<a href="http://www.originenergy.com.au/about.html">
+						<span data-universe="about">About</span>
+					</a>
+				</li>
+			
+				<li>
+					<a href="http://www.originenergy.com.au/blog.html">
+						<span data-universe="blog">Blog</span>
+					</a>
+				</li>
 			</ul>
-		</div>
+		</nav>
+
+		<ul class="header-icon-links" role="tablist">
+			<li class="visible-navbreak" aria-hidden="false" data-navigation="oncanvas">
+				<a href="http://www.originenergy.com.au/contact-us.html">
+					<span class="icon icon-phone"></span>
+					<span class="icon-label">Contact Us</span>
+				</a>
+			</li>
+
+			<li role="tab" id="iconSearch">
+				<a data-toggle="collapse" data-parent="#headerAccordion" href="#headerSearch" class="collapsed" aria-controls="headerSearch" aria-expanded="false">
+					<span class="icon icon-search collapse-is-closed"></span>
+					<span class="icon-label collapse-is-closed">Search</span>
+					<span class="icon icon-close collapse-is-open"></span>
+					<span class="icon-label collapse-is-open">Close</span>
+				</a>
+			</li>
+
+			<li role="tab" id="iconLogin">
+				<a data-toggle="collapse" data-parent="#headerAccordion" href="#headerLogin" class="collapsed" aria-controls="headerLogin" aria-expanded="false">
+					<span class="icon icon-account collapse-is-closed"></span>
+					<span class="icon-label collapse-is-closed">My Account</span>
+					<span class="icon icon-close collapse-is-open"></span>
+					<span class="icon-label collapse-is-open">Close</span>
+				</a>
+			</li>
+
+			<li role="tab" id="iconLogout" class="dropdown hidden">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+					<span class="icon icon-account collapse-is-closed"></span>
+					<span class="icon icon-chevron-down"></span>
+				</a>
+
+				<ul class="dropdown-menu dropdown-menu-right" role="menu">
+					<div class="chevron-up chevron-outline"></div>
+					<li><a data-navigation="logout" id="header-logout-btn" href="#" data-logout-url="http://www.originenergy.com.au/for-home/my-account/logout.html">Log out</a></li>
+				</ul>
+			</li>
+		</ul>
 	</div>
+</div>
 
 	<div class="header-bottombar visible-navbreak" aria-hidden="false" data-navigation="oncanvas">
 		<div class="container container-global-nav">
@@ -453,7 +527,7 @@
 	
 	
 </header>
-    <div id="content&quot;" class="main-content-area">
+    <div id="content" class="main-content-area">
     
 
 
@@ -541,7 +615,7 @@
     <p style="text-align: center;"><span class="lead">We’re committed to protecting your privacy, and to managing any personal and credit related information that we hold about you in accordance with the requirements of the Privacy Act 1988 (Cth).</span></p>
 <p>We collect, hold, use and disclose your personal information in accordance with our Privacy Policy, which also sets out how you may access and correct that personal information – as well as how to lodge a complaint relating to the way we’ve handled your personal information.</p>
 <p>You can find more information about how to access and correct the credit related information that we hold about you, as well as how to lodge a complaint relating to the way we’ve handled your credit related information in our Credit Reporting Policy, which forms part of our Privacy Policy.</p>
-<p><a href="/content/origin-ui/en/privacy/privacy-policy.html"><span class="btn btn-link btn-icon icon icon-chevron-right">Read our Privacy Policy</span></a><br>
+<p><a href="/privacy/privacy-policy.html"><span class="btn btn-link btn-icon icon icon-chevron-right">Read our Privacy Policy</span></a><br>
 <a adhocenable="false" href="/content/dam/origin/global/documents/privacy-policy.pdf" target="_blank"><span class="btn btn-link btn-icon icon icon-chevron-right">Download our Privacy Policy</span></a></p>
 
 </div>
@@ -624,7 +698,7 @@
                                             
                                             ">
     <h3><a name="customers"></a><span style="font-family: OpensansBold, Helvetica, Arial, sans-serif; font-size: 1.26563em; line-height: 1.42383em;">1. Privacy Collection Statement for Customers &amp; Prospective Customers</span></h3>
-<p>Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, <b>we</b> or <b>us</b>). Our contact details are available at <a href="/content/origin-ui/en/contact-us.html">originenergy.com.au/contact</a> or you can email us at: <a href="mailto:privacy@originenergy.com.au">privacy@originenergy.com.au</a>.&nbsp;</p>
+<p>Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, <b>we</b> or <b>us</b>). Our contact details are available at <a href="/contact-us.html">originenergy.com.au/contact</a> or you can email us at: <a href="mailto:privacy@originenergy.com.au">privacy@originenergy.com.au</a>.&nbsp;</p>
 <p>We collect, use, hold and disclose your personal information (which includes your name, address, telephone and other contact details and banking and credit card details) in order to provide you with energy and related products and services and to process your payments for these products and services.</p>
 <p>We may also:&nbsp;</p>
 <ul>
@@ -639,7 +713,7 @@
 <p>If you choose not to provide your personal information to us, we may not be able to answer your query or provide energy and related products and services to you.&nbsp;</p>
 <p>We may hold personal information about you in, or may disclose this information to third party service providers located in one or more overseas countries. Your personal information may be held in New Zealand, the United States of America, India, the Philippines, Singapore, Vietnam, Chile, Botswana, Indonesia and Papua New Guinea. If your personal information is held in other overseas countries in the future we will update this collection statement.&nbsp;</p>
 <p>We may also collect, use, hold and disclose certain credit related information about you. We may collect such credit related information from, and disclose credit related information to, credit reporting bodies and other entities that provide credit directly to you. For more information, please see our specific <a href="#credit">Credit Reporting Collection Statement</a>.</p>
-<p>We will otherwise collect, hold, use and disclose your personal information in accordance with our <a href="/content/origin-ui/en/privacy/privacy-policy.html">Privacy Policy</a>, which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information. Our credit reporting policy, which forms part of our general <a href="/content/origin-ui/en/privacy/privacy-policy.html">Privacy Policy</a>, sets out how we will collect, hold, use and disclose any credit related information about you, how you may access and correct the credit related information that we hold about you and how to lodge a complaint relating to our treatment of your credit related information.</p>
+<p>We will otherwise collect, hold, use and disclose your personal information in accordance with our <a href="/privacy/privacy-policy.html">Privacy Policy</a>, which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information. Our credit reporting policy, which forms part of our general <a href="/privacy/privacy-policy.html">Privacy Policy</a>, sets out how we will collect, hold, use and disclose any credit related information about you, how you may access and correct the credit related information that we hold about you and how to lodge a complaint relating to our treatment of your credit related information.</p>
 
 </div>
 
@@ -655,10 +729,10 @@
                                             
                                             ">
     <h3><a name="landholders"></a><span style="font-family: OpensansBold, Helvetica, Arial, sans-serif; font-size: 1.26563em; line-height: 1.42383em;">2. Privacy Collection Statement for Landholders</span></h3>
-<p>Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, <b>we</b> or <b>us</b>). Our contact details are available at <a href="/content/origin-ui/en/contact-us.html">originenergy.com.au/contact</a>, but you can also call us on 1800 526 369 or you can email us at: <a href="http://privacy@originenergy.com.au">privacy@originenergy.com.au</a></p>
+<p>Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, <b>we</b> or <b>us</b>). Our contact details are available at <a href="/contact-us.html">originenergy.com.au/contact</a>, but you can also call us on 1800 526 369 or you can email us at: <a href="http://privacy@originenergy.com.au">privacy@originenergy.com.au</a></p>
 <p>We collect, use, hold and disclose your personal information (which includes your name, address, telephone, other contact details and banking details) in order to manage our relationship with you or your relationship with third parties that we act or perform functions for. If it is relevant to the business relationship, we may also collect sensitive information. We may collect personal information about you from third parties, but will take reasonable steps to ensure that you been made aware of the matters contained in this privacy collection statement. If you choose not to provide your personal information to us, we may not be able to answer your query or have a business or other relationship with you.&nbsp;</p>
 <p>We may disclose your personal information to third parties, which may include our joint venture partners, entities that we act or provide functions for, our services providers, your authorised representative(s) and government and regulatory authorities (where required or authorised by law). These third parties will manage your personal information in accordance with their own privacy policies and we ask that these third parties hold, use and disclose your personal information in accordance with the Privacy Act.</p>
-<p>We will otherwise collect, hold, use and disclose your personal information in accordance with our <a href="/content/origin-ui/en/privacy/privacy-policy.html">Privacy Policy</a>, which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.</p>
+<p>We will otherwise collect, hold, use and disclose your personal information in accordance with our <a href="/privacy/privacy-policy.html">Privacy Policy</a>, which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.</p>
 
 </div>
 
@@ -674,12 +748,12 @@
                                             
                                             ">
     <h3><a name="community"></a><span style="font-size: 1.26563em; line-height: 1.42383em;">3. Privacy Collection Statement for Community Engagement &amp; Stakeholders</span></h3>
-<p>Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, <b>we</b> or <b>us</b>). Our contact details are available at <a href="/content/origin-ui/en/contact-us.html">originenergy.com.au/contact</a> or you can email us at: <a href="http://privacy@originenergy.com.au">privacy@originenergy.com.au</a></p>
+<p>Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, <b>we</b> or <b>us</b>). Our contact details are available at <a href="/contact-us.html">originenergy.com.au/contact</a> or you can email us at: <a href="http://privacy@originenergy.com.au">privacy@originenergy.com.au</a></p>
 <p>When we interact with community organisations and similar stakeholders, we may collect personal information about identified individuals or the representatives of these organisations as part of this engagement process. We may collect your name, address and contact details, as well as any other personal information necessary to respond to enquiries or to address any community or other concerns that have been raised with us or in relation to third parties that we act or perform functions for. If it is relevant to the enquiry or concern, this may include collecting sensitive information.</p>
 <p>We only collect, use, hold and disclose personal information to the extent necessary to engage with community organisations and similar stakeholders. If you choose not to provide your personal information to us, we may not be able to answer your query, provide any information or otherwise effectively address any community or other concerns that have been raised with us.&nbsp;</p>
 <p>We may disclose your personal information to third parties, which may include our joint venture partners, entities that we act or provide functions for, our services providers, your authorised representative(s) and government and regulatory authorities (where required or authorised by law).</p>
 <p>These third parties will manage your personal information in accordance with their own privacy policies and we ask that these third parties hold, use and disclose your personal information in accordance with the Privacy Act.</p>
-<p>We will otherwise collect, hold, use and disclose your personal information in accordance with our <a href="/content/origin-ui/en/privacy/privacy-policy.html">Privacy Policy</a>, which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.</p>
+<p>We will otherwise collect, hold, use and disclose your personal information in accordance with our <a href="/privacy/privacy-policy.html">Privacy Policy</a>, which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.</p>
 
 </div>
 
@@ -695,10 +769,10 @@
                                             
                                             ">
     <h3><a name="shareholders"></a><span style="font-size: 1.26563em; line-height: 1.42383em;">4. Privacy Collection Statement for Shareholders</span></h3>
-<p>Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) (<b>we</b> or <b>us</b>). Our contact details are available at <a href="/content/origin-ui/en/contact-us.html">originenergy.com.au/contact</a> or you can email us at: <a href="http://privacy@originenergy.com.au">privacy@originenergy.com.au</a></p>
+<p>Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) (<b>we</b> or <b>us</b>). Our contact details are available at <a href="/contact-us.html">originenergy.com.au/contact</a> or you can email us at: <a href="http://privacy@originenergy.com.au">privacy@originenergy.com.au</a></p>
 <p>We collect, use, hold and disclose your personal information (which includes your name, address, telephone and other contact details, date of birth, tax file number and banking details) in connection with your shareholding, to keep our share registry up to date and to pay any dividends to you. The collection of this information may be required under the Corporations Act 2001 (Cth) or the Anti-Money Laundering and Counter Terrorism Financing Act 2006 (Cth). If you do not provide your personal information to us, you may not be able to become a shareholder.</p>
 <p>We may disclose your personal information to our share registry operator, contractors, agents, government bodies and regulators and to our service providers and professional advisors. In certain circumstances, we may be required by law to grant access to anyone who wishes to inspect our share register and to provide a copy to them.</p>
-<p>We will otherwise collect, hold, use and disclose your personal information in accordance with our <a href="/content/origin-ui/en/privacy/privacy-policy.html">Privacy Policy</a>, which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.</p>
+<p>We will otherwise collect, hold, use and disclose your personal information in accordance with our <a href="/privacy/privacy-policy.html">Privacy Policy</a>, which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.</p>
 
 </div>
 
@@ -714,10 +788,10 @@
                                             
                                             ">
     <h3><a name="contractors"></a><span style="font-size: 1.26563em; line-height: 1.42383em;">5. Privacy Collection Statement for Other Contractors &amp; Visitors</span></h3>
-<p>Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, <b>we</b> or <b>us</b>). Our contact details are available at <a href="/content/origin-ui/en/contact-us.html">originenergy.com.au/contact</a> or you can email us at: <a href="mailto:privacy@originenergy.com.au">privacy@originenergy.com.au</a></p>
+<p>Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, <b>we</b> or <b>us</b>). Our contact details are available at <a href="/contact-us.html">originenergy.com.au/contact</a> or you can email us at: <a href="mailto:privacy@originenergy.com.au">privacy@originenergy.com.au</a></p>
 <p>We collect, use, hold and disclose your personal information (which includes your name, address, contact details and details of your employer) in connection with allowing you to access any sites, offices, buildings or other premises that we own or lease or which are under our control. We may also collect sensitive information, including health information, about you in some circumstances (such as if one of our representatives requests that you submit to a drug or alcohol test while on our premises). If you do not provide your personal information to us (including consenting to our collection of your sensitive information), you may not be allowed to access our premises or you may be asked to leave our premises.&nbsp;</p>
 <p>We may disclose your personal information to our contractors, agents, government bodies, local authorities and to our service providers.&nbsp;</p>
-<p>We will otherwise collect, hold, use and disclose your personal information in accordance with our <a href="/content/origin-ui/en/privacy/privacy-policy.html">Privacy Policy</a>, which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.&nbsp;</p>
+<p>We will otherwise collect, hold, use and disclose your personal information in accordance with our <a href="/privacy/privacy-policy.html">Privacy Policy</a>, which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.&nbsp;</p>
 
 </div>
 
@@ -733,10 +807,10 @@
                                             
                                             ">
     <h3><a name="general"></a><span style="font-size: 1.26563em; line-height: 1.42383em;">6. Privacy Collection Statement for General Enquiries</span></h3>
-<p>Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, <b>we</b> or <b>us</b>). Our contact details are available at <a href="/content/origin-ui/en/contact-us.html">originenergy.com.au/contact</a> or you can email us at: <a href="mailto:privacy@originenergy.com.au">privacy@originenergy.com.au</a>.</p>
+<p>Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, <b>we</b> or <b>us</b>). Our contact details are available at <a href="/contact-us.html">originenergy.com.au/contact</a> or you can email us at: <a href="mailto:privacy@originenergy.com.au">privacy@originenergy.com.au</a>.</p>
 <p>We collect, use, hold and disclose your personal information (which includes your name, address, telephone and other contact details) in order to answer your query or provide you with a report, document or other information that you have requested. If you choose not to provide your personal information to us, we may not be able to answer your query or provide the report, document or other information that you have requested.</p>
 <p>We may disclose your personal information to our contractors, agents, government bodies, local authorities and to our service providers.&nbsp;</p>
-<p>We will otherwise collect, hold, use and disclose your personal information in accordance with our <a href="/content/origin-ui/en/privacy/privacy-policy.html">Privacy Policy</a>, which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.</p>
+<p>We will otherwise collect, hold, use and disclose your personal information in accordance with our <a href="/privacy/privacy-policy.html">Privacy Policy</a>, which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information.</p>
 
 </div>
 
@@ -752,7 +826,7 @@
                                             
                                              spacing-component-outer-bottom">
     <h3><a name="credit"></a><span style="font-size: 1.26563em; line-height: 1.42383em;">7. Credit Reporting Collection Statement</span></h3>
-<p>Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, <b>we</b> or <b>us</b>). Our contact details are available at <a href="/content/origin-ui/en/contact-us.html">originenergy.com.au/contact</a> or you can email us at: <a href="mailto:privacy@originenergy.com.au">privacy@originenergy.com.au</a></p>
+<p>Your information is being collected by Origin Energy Limited (ABN 30 000 051 696) or one of its Australian subsidiaries (together, <b>we</b> or <b>us</b>). Our contact details are available at <a href="/contact-us.html">originenergy.com.au/contact</a> or you can email us at: <a href="mailto:privacy@originenergy.com.au">privacy@originenergy.com.au</a></p>
 <p>We may collect, use, hold and disclose certain credit related information about you for the purposes of providing you with energy and related products and services and to process your payments for these products and services. Credit related information includes information such as your name and contact details, your credit history (including any repayments or late repayments you have made), details of any credit you have sought or obtained from other credit providers, any credit rating or credit assessment score that we calculate or that a credit reporting body might provide to us and details of any credit-related court proceedings or insolvency applications that relate to you.</p>
 <p>We may collect credit related information about you from credit reporting bodies and other credit providers who have provided credit to you. We may use and hold this credit related information in order to conduct a credit assessment on you, to evaluate your credit-worthiness and to decide whether to provide you with energy and related products and services on credit. We may disclose your credit related information and your personal information to third parties, including debt collectors, credit management agencies, other credit providers, credit reporting bodies and government bodies and regulatory authorities (where required or authorised by law). Credit reporting bodies collect a range of credit related information about individuals and use that information to provide a credit-related service to their customers (which include us).&nbsp;</p>
 <p>The credit reporting bodies that we may disclose your information to are:&nbsp;</p>
@@ -762,7 +836,7 @@
 </ul>
 <p>If we disclose your information to other credit reporting bodies in the future we will update this collection statement.&nbsp;</p>
 <p>These credit reporting bodies may include your information in reports provided to other credit providers to assist them to assess your credit worthiness. If you do not pay for the energy and related products and services that we provide to you, if you commit fraud or try to do so, or if you otherwise commit a serious credit infringement, we may disclose this information to these credit reporting bodies. This may affect your ability to obtain credit in the future.&nbsp;</p>
-<p>We also have a credit reporting policy, which forms part of our general <a href="/content/origin-ui/en/privacy/privacy-policy.html">Privacy Policy</a>. You may obtain a copy of the credit reporting bodies’ credit reporting policies by contacting them using the contact details set out above.&nbsp;</p>
+<p>We also have a credit reporting policy, which forms part of our general <a href="/privacy/privacy-policy.html">Privacy Policy</a>. You may obtain a copy of the credit reporting bodies’ credit reporting policies by contacting them using the contact details set out above.&nbsp;</p>
 <p>We may also disclose credit relating information about you to third parties to whom we have assigned your debt.&nbsp;</p>
 <p>You have a right to access the credit related information that we hold about you, to correct that credit related information and to make a complaint about our handling of your credit related information. More information about how to access and correct the credit related information that we hold about you and how to lodge a complaint relating to our treatment of your credit related information (and how we will deal with it) can be found in our credit reporting policy.</p>
 <p>You also have a right to request that credit reporting bodies do not use any credit related information held by them for the purposes of pre-screening any direct marketing by credit providers. If you would like to make such a request, please contact the credit reporting bodies using the contact details set out above.&nbsp;</p>
@@ -860,7 +934,9 @@
 
     <div class="row">
         <div class="col-xs-12">
-            
+            <div>
+                <h2 class="h5 text-uppercase text-orange-dark">CONTACT US</h2>
+            </div>
         </div>
     </div>
 
@@ -869,7 +945,10 @@
             <div class="row">
                 <div class="col-xs-12 col-md-5">
                     <h3 class="contact-panel-heading">Talk to us</h3>
-                    <div class="contact-panel-hours">7 am - 9 pm, Monday to Friday and 9 am - 5 pm, Saturday</div>
+                    <div class="contact-panel-hours"><p>7 am - 9 pm, Monday to Friday and 9&nbsp;am - 5&nbsp;pm, Saturday</p>
+
+
+</div>
                 </div>
                 
                 <div class="col-xs-12 col-md-7">
@@ -942,7 +1021,13 @@
                         
                             <div class="col-xs-12 col-sm-2">
                                 <h3 class="h4"><a href="http://www.originenergy.com.au/for-home/lpg.html">LPG</a></h3>
+                                <ul class="list-unstyled list-links">
+                                    <li><a href="http://www.originenergy.com.au/for-home/lpg/lpg-plans.html">LPG plans</a></li>
                                 
+                                    <li><a href="http://www.originenergy.com.au/for-home/lpg/using-lpg.html">Using LPG</a></li>
+                                
+                                    <li><a href="http://www.originenergy.com.au/for-home/lpg/lpg-account.html">LPG account</a></li>
+                                </ul>
                             </div>
                         
                             <div class="col-xs-12 col-sm-2">
@@ -952,20 +1037,26 @@
                                 
                                     <li><a href="http://www.originenergy.com.au/for-home/solar/about-solar.html">About Solar</a></li>
                                 
-                                    <li><a href="http://www.originenergy.com.au/for-home/solar/battery-storage.html">Battery Storage</a></li>
+                                    <li><a href="http://www.originenergy.com.au/for-home/solar/battery-storage.html">Solar Batteries &amp; Storage</a></li>
                                 </ul>
                             </div>
                         
                             <div class="col-xs-12 col-sm-2">
                                 <h3 class="h4"><a href="http://www.originenergy.com.au/for-home/hot-water.html">Hot Water </a></h3>
                                 <ul class="list-unstyled list-links">
-                                    <li><a href="http://www.originenergy.com.au/for-home/hot-water/hot-water-solutions.html">Hot Water Solutions</a></li>
+                                    <li><a href="http://www.originenergy.com.au/for-home/hot-water/hot-water-solutions.html">Repairs, Services &amp; Replacements</a></li>
+                                
+                                    <li><a href="http://www.originenergy.com.au/for-home/hot-water/hot-water-for-apartments.html">Hot Water for Apartments</a></li>
                                 </ul>
                             </div>
                         
                             <div class="col-xs-12 col-sm-2">
                                 <h3 class="h4"><a href="http://www.originenergy.com.au/for-home/heating-and-cooling.html">Heating &amp; Cooling</a></h3>
+                                <ul class="list-unstyled list-links">
+                                    <li><a href="http://www.originenergy.com.au/for-home/heating-and-cooling/gas-heating-offer.html">Gas ducted heating</a></li>
                                 
+                                    <li><a href="http://www.originenergy.com.au/for-home/heating-and-cooling/air-offer.html">Split systems</a></li>
+                                </ul>
                             </div>
                         
                             <div class="col-xs-12 col-sm-2">
@@ -974,13 +1065,13 @@
                             </div>
                         
                             <div class="col-xs-12 col-sm-2">
-                                <h3 class="h4"><a href="http://www.originenergy.com.au/for-home/account-support.html">Account Support</a></h3>
+                                <h3 class="h4"><a href="http://www.originenergy.com.au/for-home/my-account.html">My Account</a></h3>
                                 <ul class="list-unstyled list-links">
-                                    <li><a href="http://www.originenergy.com.au/for-home/account-support/billing-payments.html">Billing &amp; Payments</a></li>
+                                    <li><a href="http://www.originenergy.com.au/for-home/my-account/bills-payments.html">Billing &amp; Payments</a></li>
                                 
-                                    <li><a href="http://www.originenergy.com.au/for-home/account-support/account-details.html">Account Details</a></li>
+                                    <li><a href="http://www.originenergy.com.au/for-home/my-account/account-details.html">Account Details</a></li>
                                 
-                                    <li><a href="http://www.originenergy.com.au/for-home/account-support/energy-usage.html">My Energy Use</a></li>
+                                    <li><a href="http://www.originenergy.com.au/for-home/my-account/usage.html">My Usage</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -988,17 +1079,23 @@
                             <div class="col-xs-12 col-sm-2">
                                 <h3 class="h4"><a href="http://www.originenergy.com.au/business/electricity-and-gas.html">Electricity &amp; Gas</a></h3>
                                 <ul class="list-unstyled list-links">
-                                    <li><a href="http://www.originenergy.com.au/business/electricity-and-gas/plans.html">Electricity &amp; Gas Plans &amp; Pricing</a></li>
+                                    <li><a href="http://www.originenergy.com.au/business/electricity-and-gas/info.html">Electricity &amp; Gas</a></li>
                                 
-                                    <li><a href="http://www.originenergy.com.au/business/electricity-and-gas/building-industry.html">New Meters &amp; Installations</a></li>
+                                    <li><a href="http://www.originenergy.com.au/business/electricity-and-gas/plans.html">Energy Plans</a></li>
                                 
-                                    <li><a href="http://www.originenergy.com.au/business/electricity-and-gas/safety-and-outages.html">Safety &amp; Outages</a></li>
+                                    <li><a href="http://www.originenergy.com.au/business/electricity-and-gas/pricing.html">Pricing</a></li>
                                 </ul>
                             </div>
                         
                             <div class="col-xs-12 col-sm-2">
                                 <h3 class="h4"><a href="http://www.originenergy.com.au/business/lpg.html">LPG</a></h3>
+                                <ul class="list-unstyled list-links">
+                                    <li><a href="http://www.originenergy.com.au/business/lpg/forklift.html">Forklift gas</a></li>
                                 
+                                    <li><a href="http://www.originenergy.com.au/business/lpg/commercial.html">Commercial LPG</a></li>
+                                
+                                    <li><a href="http://www.originenergy.com.au/business/lpg/safety.html">Workplace safety with LPG</a></li>
+                                </ul>
                             </div>
                         
                             <div class="col-xs-12 col-sm-2">
@@ -1016,22 +1113,24 @@
                             <div class="col-xs-12 col-sm-2">
                                 <h3 class="h4"><a href="http://www.originenergy.com.au/business/commercial-and-industrial.html">Commercial &amp; Industrial</a></h3>
                                 <ul class="list-unstyled list-links">
-                                    <li><a href="http://www.originenergy.com.au/business/commercial-and-industrial/metering-and-intelligence.html">Metering &amp; Intelligence</a></li>
+                                    <li><a href="http://www.originenergy.com.au/business/commercial-and-industrial/business-energy-use-reporting.html">Energy Use Reporting</a></li>
                                 
-                                    <li><a href="http://www.originenergy.com.au/business/commercial-and-industrial/cogeneration-and-trigeneration.html">Cogeneration &amp; Trigeneration</a></li>
+                                    <li><a href="http://www.originenergy.com.au/business/commercial-and-industrial/acumen-metering.html">Acumen Metering</a></li>
+                                
+                                    <li><a href="http://www.originenergy.com.au/business/commercial-and-industrial/how-to-read-my-bill.html">How to Read My Bill</a></li>
                                 
                                     <li><a href="http://www.originenergy.com.au/business/commercial-and-industrial/centralised-hot-water.html">Centralised Hot Water</a></li>
                                 </ul>
                             </div>
                         
                             <div class="col-xs-12 col-sm-2">
-                                <h3 class="h4"><a href="http://www.originenergy.com.au/business/account-management.html">Account Support</a></h3>
+                                <h3 class="h4"><a href="http://www.originenergy.com.au/business/my-account.html">My Account</a></h3>
                                 <ul class="list-unstyled list-links">
-                                    <li><a href="http://www.originenergy.com.au/business/account-management/billing-payments.html">Billing &amp; Payments</a></li>
+                                    <li><a href="http://www.originenergy.com.au/business/my-account/bills-payments.html">Billing &amp; Payments</a></li>
                                 
-                                    <li><a href="http://www.originenergy.com.au/business/account-management/account-details.html">Account Details</a></li>
+                                    <li><a href="http://www.originenergy.com.au/business/my-account/account-details.html">Account Details</a></li>
                                 
-                                    <li><a href="http://www.originenergy.com.au/business/account-management/energy-use.html">My Energy Use</a></li>
+                                    <li><a href="http://www.originenergy.com.au/business/my-account/usage.html">My Usage</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1147,16 +1246,16 @@
 	<div class="container">
 		<ul class="row list-links">
 			<li class="col-xs-12 col-sm-2">
-				<a href="/content/origin-ui/en/privacy.html">Privacy </a>
+				<a href="http://www.originenergy.com.au/privacy.html">Privacy </a>
 			</li>
 			<li class="col-xs-12 col-sm-2">
-				<a href="/content/origin-ui/en/terms-of-use.html">Terms of Use</a>
-			</li>
+                <a href="http://www.originenergy.com.au/terms-of-use.html">Terms of Use</a>
+            </li>
 			<li class="col-xs-12 col-sm-3">
-				<a href="/content/origin-ui/en/contact-us.html">Contact Us</a>
+				<a href="http://www.originenergy.com.au/contact-us.html">Contact Us</a>
 			</li>
 			<li class="col-xs-12 col-sm-5">
-				<span class="text-orange-dark text-copy">© 2015 Origin Energy Limited</span>
+				<span class="text-orange-dark text-copy">© 2016 Origin Energy Limited</span>
 			</li>
 		</ul>
 	</div>
