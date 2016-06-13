@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papercut.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214135013id_/http%3A//www.papercut.com/kb/Main/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papercut.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613102242id_/http%3A//www.papercut.com/kb/Main/PrivacyPolicy) for the most accurate reproduction.*
 
 # PaperCut KB | PaperCut's Privacy Policy
 
@@ -10,7 +10,7 @@ This means:
 
   * We will not forward your email or contact details to any 3rd party without first asking your permission. Sometimes we ask permission from time to time to arrange references, etc. 
   * If you supply us with test data, database backup, or system logs to help find a bug, we’ll only use your data to find the bug and we’ll treat it in confidence. Once it’s no longer required, data will be deleted from our systems. 
-  * We will not send you annoying emails every week selling you “new and exciting” products. We have an opt-in/out low volume (approx. one post per month) announcement list. You can unsubscribe from it at any time. 
+  * We will not over run your in box with emails selling you “new and exciting” products. We have an opt-in/out low announcement list. You can unsubscribe from it at any time. 
   * If we ever send you something you find annoying, just email us and let us know. There is always someone _real_ at our end that reads emails and we do action requests, comments and complaints. 
   * We don’t store your credit card details, nor do process credit card ourselves. Instead we only use trusted sources such as PayPal and GlobalCollect to process Credit Card orders. 
   * You might have noticed the mention in our EULA about data collection and the reason we do that is so we can provide our customers with a better support and improve the user experience. We do this by gauging which features work best and offer the most value for you, our customers. (See our note on Feature Usage Data below.) 
