@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212192514id_/http%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613102309id_/http%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
+
+**Privacy Policy of AudioSparx  **
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. **
 
@@ -93,3 +95,26 @@ If you ever need assistance with the features, products or services offered on t
 We reserve the right to modify this policy in the future.
 
 *************************************
+
+Back to Top
+
+sound bites download,  
+download a lot of sound effects,  
+funny sound,  
+cartoon sounds,  
+free sound effects classroom,  
+free gunshot sound effects,  
+2010 soundfx library,  
+creepy sound effects,  
+sounds for pc startup,  
+crayon sound fx,  
+noises to download free,  
+slow whoosh sound fx,  
+motorbike sound effects,  
+tigers roar sound effect,  
+sound effect bus horn,  
+free sound bytes,  
+sound effects auto car automobile,  
+ilife sound effects downloads,  
+sounds downloads,  
+welcome sounds for windows 
