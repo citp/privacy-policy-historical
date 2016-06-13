@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anirudhsethireport.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211140332id_/http%3A//www.anirudhsethireport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anirudhsethireport.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613102527id_/http%3A//www.anirudhsethireport.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Anirudh Sethi Report
+# Privacy Policy - Anirudh Sethi Report
 
 ### Our Privacy Policy
 
@@ -34,6 +34,4 @@ We may amend or change this Privacy Policy from time to time. If we make any sub
 
 We are interested and commited in maintaining your privacy and creating a valuable resource for you to use. If you have any questions now or during your visit, please contact us.
 
- **Thank You,  
-Team Anirudh Sethi Report  
-(http://www.anirudhsethireport.com)**
+ **Team Anirudh Sethi Report**
