@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lifegooroo.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035210id_/http%3A//www.lifegooroo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifegooroo.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613184216id_/http%3A//www.lifegooroo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-We at File Creator LTD. (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
+We at Bullseye Ventures LTD (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
 
 This policy explains our privacy practices for processing personal information on The Companies online websites (the “ **Service** “). This policy applies to the use of The Company’s websites and it is an integral part of The Companies [Terms of Service](http://www.lifegooroo.com/terms-use.html "Terms").
 
