@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the emarketingassociation.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206142451id_/http%3A//www.emarketingassociation.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emarketingassociation.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613025600id_/http%3A//www.emarketingassociation.com/privacy-policy.html) for the most accurate reproduction.*
 
-# The eMarketing Association - founded in 1999
-
-  *   *   *   *   *   * 
-
+# 
 
 **Registration**  
 In order to use some areas of this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. 
