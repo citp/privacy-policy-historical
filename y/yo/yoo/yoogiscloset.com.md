@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yoogiscloset.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808025657id_/https%3A//www.yoogiscloset.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoogiscloset.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613175336id_/https%3A//www.yoogiscloset.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Terms of Use
 
 Yoogi’s Closet, Inc. (" ** _Yoogi’s Closet_** ") takes the safeguarding of your security and personal information seriously. Please read the following to learn more about our Privacy Policy. If you have any questions about Yoogi’s Closet's information collection practices, email us at [privacy@yoogiscloset.com](mailto:privacy@yoogiscloset.com).
 
@@ -77,5 +77,11 @@ Yoogi’s Closet, Inc. (" ** _Yoogi’s Closet_** ") takes the safeguarding of y
 ##### Changes to Privacy Policy
 
   * Yoogi’s Closet may amend this Privacy Policy from time to time. If we make any substantial changes to this policy, we will notify you by posting an announcement on the Yoogi’s Closet website, sending you an email, by including an item in the Yoogi’s Closet newsletter, or by any other means reasonably calculated to provide you with actual notice.
+
+
+
+##### Typographical Errors
+
+  * In the event a product is listed at an incorrect price or with incorrect information due to typographical error, we shall have the right to refuse or cancel any orders placed for product listed at the incorrect price. We shall have the right to refuse or cancel any such orders whether or not the order has been confirmed and your credit card charged. If your credit card has already been charged for the purchase and your order is canceled, we shall immediately issue a credit to your credit card account in the amount of the charge.
 
 
