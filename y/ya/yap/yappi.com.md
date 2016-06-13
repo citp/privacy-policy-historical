@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yappi.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214034412id_/http%3A//yappi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yappi.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613081354id_/http%3A//yappi.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -19,13 +19,13 @@ Privacy for Children Aged 12 and Under
 Yappi.com is geared towards a general audience. Younger users must receive their parents consent prior to having any posting priveleges. Users 12 and under are strongly discouraged from offering any personal information either in their user profile or in the message boards themselves, and we encourage parents to stay involved in the online life of their children. Please view a copy of the [parental permission form](http://www.yappi.com/forums/register.php?s=44a12ad58fdc7e5e14cdb994132141ed&action=coppaform). Prior to a child’s registration on the bulletin board, this form must be signed by the child’s parent or legal guardian and mailed to:
 
 Yappi  
-1675 State Route 59 #259  
-Kent, OH 444240
+716 East Ave  
+Tallmadge, OH 44278
 
 Yappi.com is prohibited from conditioning a child’s participation in an activity on the child’s disclosing more personal information than is reasonably necessary to participate in such activity. Parents can review and request deletion of their child’s personal information, and can refuse to permit further collection or use of their child’s information. In order to request such a review, to revoke previously offered parental consent, or to express any concerns regarding a child’s privacy on our website, please send a signed written request to:
 
 Yappi  
-1675 State Route 59 #259  
-Kent, OH 44240
+716 East Ave  
+Tallmadge, OH 44278
 
 Any questions regarding the privacy policy may be directed to [Yappi@yappi.com](mailto:Yappi99@aol.com)
