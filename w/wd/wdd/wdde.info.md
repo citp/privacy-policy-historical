@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wdde.info privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910142137id_/http%3A//www.wdde.org/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdde.info privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614152710id_/http%3A//www.delawarepublic.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WDDE 91.1 FM | Delaware's NPR News station
-
-**PRIVACY POLICY**
+# Privacy Policy | Delaware First Media
 
 This Privacy Policy describes, in general, the practices related to the online collection and use of personal information at this website. By accessing this website, you are accepting these practices.
 
@@ -42,7 +40,7 @@ Any personal information or sensitive data that you disclose through any discuss
 
 Donations, purchases, and other financial transactions on this website are handled by established third-party banking, processing, and distribution institutions. Information relating to your financial transactions will not be stored on the servers for this website.
 
-**_Our Commitment to Children’s Privacy_**
+**_Our Commitment to Children's Privacy_**
 
 We never collect information at our website from persons we know to be under the age of 13. If we learn that personal information relating to someone under the age of 13 has been disclosed on our website, we will take appropriate steps to delete that information.
 
