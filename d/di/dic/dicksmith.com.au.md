@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dicksmith.com.au privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214145906id_/http%3A//www.dicksmith.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dicksmith.com.au privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614135943id_/http%3A//www.dicksmith.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Respecting your privacy
 
-Dick Smith Electronics Pty Limited (ACN 000 908 716) and all its subsidiaries understand the importance of protecting your right to privacy of your personal information. We have policies and appropriate procedures in place to ensure that all personal information, no matter how or where it is obtained, is handled sensitively, securely, and as required by the law. We are committed to adhering to the Australian Privacy Principles (APP), which set clear standards for the collection, access, storage and use of personal information, which may be obtained as part of our business operations.
+Dick Smith Electronics Pty Limited (Receivers and Managers Appointed) (Administrators Appointed) and all its subsidiaries understand the importance of protecting your right to privacy of your personal information. We have policies and appropriate procedures in place to ensure that all personal information, no matter how or where it is obtained, is handled sensitively, securely, and as required by the law. We are committed to adhering to the Australian Privacy Principles (APP), which set clear standards for the collection, access, storage and use of personal information, which may be obtained as part of our business operations.
 
   
 
