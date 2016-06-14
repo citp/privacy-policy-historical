@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gujaratrojgar.org privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214150523id_/http%3A//www.gujaratrojgar.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gujaratrojgar.org privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614135300id_/http%3A//www.gujaratrojgar.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gujarat Rojgar
+# Privacy Policy | Gujarat Rojgar
 
 Privacy Policy for www.gujaratrojgar.org
 
