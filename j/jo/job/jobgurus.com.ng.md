@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jobgurus.com.ng privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209103015id_/http%3A//www.jobgurus.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobgurus.com.ng privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614121124id_/http%3A//www.jobgurus.com.ng/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Jobs in Nigeria | Jobgurus Services
+# Privacy Policy | Jobgurus.com.ng
+
+## Overview
 
 Jobgurus.com.ng (“Jobgurus.com.ng”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. This policy describes the types of information collected, how it may and may not be used, and how it is protected. By visiting Jobgurus.com.ng’s website ("Website"), or using any of our services on the website ("Website Services"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy and our use of your information in accordance with this Privacy Policy.
 
@@ -25,7 +27,7 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 **Third Party Sites**  
 Jobgurus.com.ng does not control the privacy policies of third party sites or service providers to which we provide links. These third party sites or service providers may use cookies to provide a service or serve ads based on a user's prior visits to Jobgurus.com.ng. Please be aware that if you click on an ad or third party link, you will be subject to the third party's privacy policy.
 
-**Changes to the Jobgurus.com.ng? Privacy Policy**  
+**Changes to the Jobgurus.com.ng Privacy Policy**  
 You agree that Jobgurus.com.ng may amend this policy from time to time by posting the revised Privacy Policy on this Website. Your continued use of any portion of the Website or Jobgurus.com.ng service following the posting of the revised policy will constitute your acceptance of the changes.
 
 **Information Collected From Users**  
