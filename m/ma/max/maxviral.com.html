@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the maxviral.com privacy policy that was archived on 2015-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151211053009id_/http%3A//www.maxviral.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maxviral.com privacy policy that was archived on 2016-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160614205447id_/http%3A//www.maxviral.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class=" td-md-is-chrome"><!--<![endif]--><head><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="http://www.zergnet.com/zerg.js?id=34682"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-56FKWQ"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAAOVlBXGwUEVVBaDwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class=" td-md-is-chrome"><!--<![endif]--><head><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script type="text/javascript" async="" src="http://www.zergnet.com/zerg.js?id=37441"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-56FKWQ"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAAOVlBXGwUEVVBaDwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
     <title>Privacy Policy - Max Viral</title>
     <meta charset="UTF-8">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -24,7 +24,7 @@
 	var gtm4wp_scrollerscript_scannertime       = 60;
 </script>
 <!-- End Google Tag Manager for WordPress by DuracellTomi --><link rel="icon" type="image/png" href="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-favicon.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-76.png"><link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-120.png"><link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-152.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-114.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-144.png">
-<!-- This site is optimized with the Yoast SEO plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v3.2.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.maxviral.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -37,9 +37,9 @@
 <link rel="alternate" type="application/rss+xml" title="Max Viral » Feed" href="http://www.maxviral.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Max Viral » Comments Feed" href="http://www.maxviral.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.maxviral.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.maxviral.com/wp-includes/js/wp-emoji-release.min.js?ver=4.3.1" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.maxviral.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.maxviral.com/wp-includes/js/wp-emoji-release.min.js?ver=4.5.1" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -54,33 +54,37 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="parent-style-css" href="http://www.maxviral.com/wp-content/themes/Newsmag/style.css?ver=4.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="google_font_open_sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&amp;ver=4.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="google_font_roboto_cond-css" href="http://fonts.googleapis.com/css?family=Roboto+Condensed%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700&amp;ver=4.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="js_composer_front-css" href="http://www.maxviral.com/wp-content/plugins/js_composer/assets/css/js_composer.css?ver=4.6.2" type="text/css" media="all">
-<link rel="stylesheet" id="td-theme-css" href="http://www.maxviral.com/wp-content/themes/Newsmag-Maxviral/style.css?ver=2.1" type="text/css" media="all">
-<script type="text/javascript" src="http://www.maxviral.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
-<script type="text/javascript" src="http://www.maxviral.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.maxviral.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.maxviral.com/wp-content/plugins/duracelltomi-google-tag-manager/js/analytics-talk-content-tracking.js?ver=1.0"></script>
+<link rel="stylesheet" id="parent-style-css" href="http://www.maxviral.com/wp-content/themes/Newsmag/style.css?ver=4.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="google_font_open_sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&amp;ver=4.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="google_font_roboto_cond-css" href="http://fonts.googleapis.com/css?family=Roboto+Condensed%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700&amp;ver=4.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="http://www.maxviral.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.11.2" type="text/css" media="all">
+<link rel="stylesheet" id="td-theme-css" href="http://www.maxviral.com/wp-content/themes/Newsmag-Maxviral/style.css?ver=2.3.6" type="text/css" media="all">
+<script type="text/javascript" src="http://www.maxviral.com/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.2"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/plugins/duracelltomi-google-tag-manager/js/analytics-talk-content-tracking.js?ver=1.2"></script>
 <script type="text/javascript" src="http://www.maxviral.com/wp-content/themes/Newsmag-Maxviral/js/dfp.js?ver=1.0.23"></script>
+<script type="text/javascript" src="http://interyield.td553.com/InterYield/bindevent.do?e=click&amp;affiliate=maxviral&amp;subid=utm_source=mgid.com&amp;ecpm=0&amp;debug=false&amp;snoozeMinutes=3&amp;adCountIntervalHours=24&amp;maxAdCountsPerInterval=2&amp;pop=under&amp;attributionDisabled=true&amp;endpoint=http%3A%2F%2Finteryield.td553.com"></script>
 <script type="text/javascript" src="http://widgets.kiosked.com/sniffer/get-script/sign/b4d30602a883ae75eb20307bac1e385f/albumid/10711/co/11019.js"></script>
+<link rel="https://api.w.org/" href="http://www.maxviral.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.maxviral.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.maxviral.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.3.1">
+<meta name="generator" content="WordPress 4.5.1">
 <link rel="shortlink" href="http://www.maxviral.com/?p=621">
+<link rel="alternate" type="application/json+oembed" href="http://www.maxviral.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.maxviral.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.maxviral.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.maxviral.com%2Fprivacy-policy%2F&amp;format=xml">
 <script data-cfasync="false" src="//load.sumome.com/" data-sumo-site-id="56e0374d8dc3ec9a46e0bd72a29dd5bd8b6b7eaa898f70f78afedb4d229fbbd3" async=""></script><!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
-<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.maxviral.com/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]-->
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.maxviral.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.maxviral.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
 <!-- JS generated by theme -->
 
 <script>
     
 
-var td_blocks = []; //here we store all the items for the current page
+var tdBlocksArray = []; //here we store all the items for the current page
 
 //td_block class - each ajax block uses a object of this class for requests
-function td_block() {
+function tdBlock() {
     this.id = '';
     this.block_type = 1; //block type id (1-234 etc)
     this.atts = '';
@@ -90,7 +94,6 @@ function td_block() {
     this.found_posts = 0; //from wp
     this.max_num_pages = 0; //from wp
     this.td_filter_value = ''; //current live filter value
-    this.td_filter_ui_uid = ''; //used to select a item from the drop down filter
     this.is_ajax_running = false;
     this.td_user_action = ''; // load more or infinite loader (used by the animation)
     this.header_color = '';
@@ -101,47 +104,78 @@ function td_block() {
     
         // td_js_generator - mini detector
         (function(){
-            var html_tag = document.getElementsByTagName("html")[0];
+            var htmlTag = document.getElementsByTagName("html")[0];
 
-            if(navigator.userAgent.indexOf("MSIE 10.0") > -1) {
-                html_tag.className+=' ie10';
+            if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
             }
 
-            if(!!navigator.userAgent.match(/Trident.*rv\:11\./)) {
-                html_tag.className+=' ie11';
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
             }
 
-            if (/(iPad|iPhone|iPod)/g.test( navigator.userAgent )) {
-                html_tag.className+=' td-md-is-ios';
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
             }
 
             var user_agent = navigator.userAgent.toLowerCase();
-            if(user_agent.indexOf("android") > -1) {
-                html_tag.className+=' td-md-is-android';
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
             }
 
-            if (navigator.userAgent.indexOf('Mac OS X') != -1) {
-                html_tag.className+=' td-md-is-os-x';
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
             }
 
-            if(/chrom(e|ium)/.test(navigator.userAgent.toLowerCase())) {
-               html_tag.className+=' td-md-is-chrome';
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
             }
 
-            if (navigator.userAgent.indexOf('Firefox') != -1) {
-                html_tag.className+=' td-md-is-firefox';
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
             }
 
-            if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
-                html_tag.className+=' td-md-is-safari';
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
             }
 
         })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
     
     
 var tds_smooth_scroll=true;
-var td_viewport_interval_list=[{"limit_bottom":767,"sidebar_width":251},{"limit_bottom":1023,"sidebar_width":339}];
-var td_ajax_url="http:\/\/www.maxviral.com\/wp-admin\/admin-ajax.php?td_theme_name=Newsmag&v=2.1";
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":251},{"limitBottom":1023,"sidebarWidth":339}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .post img";
+var td_ajax_url="http:\/\/www.maxviral.com\/wp-admin\/admin-ajax.php?td_theme_name=Newsmag&v=2.3.6";
 var td_get_template_directory_uri="http:\/\/www.maxviral.com\/wp-content\/themes\/Newsmag";
 var tds_snap_menu="";
 var tds_logo_on_sticky="";
@@ -155,8 +189,7 @@ var tds_more_articles_on_post_time_to_wait="";
 var tds_more_articles_on_post_pages_distance_from_top=600;
 var tds_theme_color_site_wide="#4db2ec";
 var tds_smart_sidebar="enabled";
-var td_theme_v="Mi4x";
-var td_theme_n="TmV3c21hZw==";
+var tdThemeName="Newsmag";
 var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
 var td_magnific_popup_translation_tNext="Next (Right arrow key)";
 var td_magnific_popup_translation_tCounter="%curr% of %total%";
@@ -170,10 +203,10 @@ var td_ad_background_click_target="";
 <!-- Google Tag Manager for WordPress by DuracellTomi -->
 <script type="text/javascript">
 	dataLayer.push({"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Max Viral","browserName":"","browserVersion":"","browserEngineName":"","browserEngineVersion":"","deviceType":"","deviceManufacturer":"","deviceModel":""});
-</script><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+</script><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
 
 
-<body class="page page-id-621 page-template-default privacy-policy wpb-js-composer js-comp-ver-4.6.2 vc_responsive td-full-layout" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<body class="page page-id-621 page-template-default privacy-policy wpb-js-composer js-comp-ver-4.11.2 vc_responsive td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="http://schema.org/WebPage">
 
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-56FKWQ"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -324,237 +357,236 @@ Header style 5
     <div class="td-header-menu-wrap">
         <div class="td-header-row td-header-main-menu">
             <div class="td-make-full">
-                <div id="td-header-menu" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+                <div id="td-header-menu" role="navigation">
     <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
     <div class="td-main-menu-logo">
-        		<a itemprop="url" href="http://www.maxviral.com/">
+        		<a href="http://www.maxviral.com/">
 			<img class="td-retina-data" data-retina="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-white-544-180v2offset.png" src="http://cdn01.maxviral.com/wp-content/uploads/2015/01/maxviral-white-272-90v2offset.png" alt="Max Viral">
 		</a>
-		<meta itemprop="name" content="Max Viral">
 	    </div>
     <div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="sf-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-22858"><a href="http://www.maxviral.com/other-popular-content/">MaxViral Today</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-100"><a href="http://www.maxviral.com/category/celebrity/">Celeb</a>
 <ul class="sub-menu">
-	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><script>var block_td_uid_1_566a5fb7a547e = new td_block();
-block_td_uid_1_566a5fb7a547e.id = "td_uid_1_566a5fb7a547e";
-block_td_uid_1_566a5fb7a547e.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"11","show_child_cat":5,"td_ajax_filter_type":"td_category_ids_filter","class":"td_block_id_218446277 td_uid_1_566a5fb7a547e_rand"}';
-block_td_uid_1_566a5fb7a547e.td_column_number = "3";
-block_td_uid_1_566a5fb7a547e.block_type = "td_block_mega_menu";
-block_td_uid_1_566a5fb7a547e.post_count = "5";
-block_td_uid_1_566a5fb7a547e.found_posts = "302";
-block_td_uid_1_566a5fb7a547e.header_color = "";
-block_td_uid_1_566a5fb7a547e.ajax_pagination_infinite_stop = "";
-block_td_uid_1_566a5fb7a547e.max_num_pages = "61";
-td_blocks.push(block_td_uid_1_566a5fb7a547e);
-</script><div class="td_block_wrap td_block_mega_menu td_block_id_218446277 td_uid_1_566a5fb7a547e_rand  td_with_ajax_pagination td-pb-border-top"><div id="td_uid_1_566a5fb7a547e" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><script>var block_td_uid_1_57606f2c09e4c = new tdBlock();
+block_td_uid_1_57606f2c09e4c.id = "td_uid_1_57606f2c09e4c";
+block_td_uid_1_57606f2c09e4c.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"11","show_child_cat":5,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","class":"td_block_id_218446277 td_uid_1_57606f2c09e4c_rand"}';
+block_td_uid_1_57606f2c09e4c.td_column_number = "3";
+block_td_uid_1_57606f2c09e4c.block_type = "td_block_mega_menu";
+block_td_uid_1_57606f2c09e4c.post_count = "5";
+block_td_uid_1_57606f2c09e4c.found_posts = "316";
+block_td_uid_1_57606f2c09e4c.header_color = "";
+block_td_uid_1_57606f2c09e4c.ajax_pagination_infinite_stop = "";
+block_td_uid_1_57606f2c09e4c.max_num_pages = "64";
+tdBlocksArray.push(block_td_uid_1_57606f2c09e4c);
+</script><div class="td_block_wrap td_block_mega_menu td_block_id_218446277 td_uid_1_57606f2c09e4c_rand  td_with_ajax_pagination td-pb-border-top"><div id="td_uid_1_57606f2c09e4c" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/10-celebrities-ridiculously-awesome-private-islands/" rel="bookmark" title="10 Celebrities Who Own Ridiculously Awesome Private Islands"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/Your_own_private_island._15612499367-180x135.jpg" alt="Your_own_private_island." title="10 Celebrities Who Own Ridiculously Awesome Private Islands"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/15-celebrities-whove-given-birth-at-home/" rel="bookmark" title="15 Celebrities Who’ve Given Birth At Home"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2016/01/celeb-mother-180x135.jpg" alt="celeb mother" title="15 Celebrities Who’ve Given Birth At Home"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/celebrity/10-celebrities-ridiculously-awesome-private-islands/" rel="bookmark" title="10 Celebrities Who Own Ridiculously Awesome Private Islands">10 Celebrities Who Own Ridiculously Awesome Private Islands</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/celebrity/15-celebrities-whove-given-birth-at-home/" rel="bookmark" title="15 Celebrities Who’ve Given Birth At Home">15 Celebrities Who’ve Given Birth At Home</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/celeb-pics/15-celebrity-hairstyles-that-will-make-you-want-a-new-fall-look/" rel="bookmark" title="15 Celebrity Hairstyles That Will Make You Want A New Fall Look"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/ciara-180x135.jpg" alt="ciara" title="15 Celebrity Hairstyles That Will Make You Want A New Fall Look"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/fashion/calling-will-10-hottest-haircuts-of-2016/" rel="bookmark" title="We’re Calling It : These Will Be The 10 Hottest Haircuts Of 2016!"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2016/01/Karlie-Kloss-180x135.jpg" alt="Karlie Kloss" title="We’re Calling It : These Will Be The 10 Hottest Haircuts Of 2016!"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/celebrity/celeb-pics/15-celebrity-hairstyles-that-will-make-you-want-a-new-fall-look/" rel="bookmark" title="15 Celebrity Hairstyles That Will Make You Want A New Fall Look">15 Celebrity Hairstyles That Will Make You Want A New Fall Look</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/fashion/calling-will-10-hottest-haircuts-of-2016/" rel="bookmark" title="We’re Calling It : These Will Be The 10 Hottest Haircuts Of 2016!">We’re Calling It : These Will Be The 10 Hottest Haircuts Of 2016!</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/14-beauty-looks-from-the-american-music-awards-youll-want-to-copy/" rel="bookmark" title="14 Beauty Looks From the American Music Awards You’ll Want to Copy"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/ama-180x135.png" alt="american music awards" title="14 Beauty Looks From the American Music Awards You’ll Want to Copy"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/13-actors-couldnt-seem-stop-dating-their-costars/" rel="bookmark" title="13 Actors Who Couldn’t Seem To Stop Dating Their Co-Stars"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2016/01/Jennifer-Love-Hewitt-180x135.jpg" alt="Jennifer Love Hewitt" title="13 Actors Who Couldn’t Seem To Stop Dating Their Co-Stars"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/celebrity/14-beauty-looks-from-the-american-music-awards-youll-want-to-copy/" rel="bookmark" title="14 Beauty Looks From the American Music Awards You’ll Want to Copy">14 Beauty Looks From the American Music Awards You’ll Want to Copy</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/celebrity/13-actors-couldnt-seem-stop-dating-their-costars/" rel="bookmark" title="13 Actors Who Couldn’t Seem To Stop Dating Their Co-Stars">13 Actors Who Couldn’t Seem To Stop Dating Their Co-Stars</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/just-reminder-marilyn-monroe-badass-yogi/" rel="bookmark" title="Just A Reminder That Marilyn Monroe Was A Badass Yogi"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/Marilyn-Monroe-ft-180x135.jpg" alt="Marilyn Monroe" title="Just A Reminder That Marilyn Monroe Was A Badass Yogi"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/10-best-super-bowl-halftime-shows/" rel="bookmark" title="10 Best Super Bowl Halftime Shows"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2016/01/halftime-show-180x135.jpg" alt="halftime show" title="10 Best Super Bowl Halftime Shows"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/celebrity/just-reminder-marilyn-monroe-badass-yogi/" rel="bookmark" title="Just A Reminder That Marilyn Monroe Was A Badass Yogi">Just A Reminder That Marilyn Monroe Was A Badass Yogi</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/celebrity/10-best-super-bowl-halftime-shows/" rel="bookmark" title="10 Best Super Bowl Halftime Shows">10 Best Super Bowl Halftime Shows</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/media/at-the-movies/15-of-2015s-movies-that-are-based-on-true-stories/" rel="bookmark" title="15 Of 2015’s Movies That Are Based On True Stories"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/head-674126_640-180x135.jpg" alt="movies" title="15 Of 2015’s Movies That Are Based On True Stories"><span class="td-video-play-ico"><img width="40" class="td-retina" src="http://www.maxviral.com/wp-content/themes/Newsmag/images/icons/ico-video-large.png" alt="video"></span></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/9-well-known-commoners-who-married-royals/" rel="bookmark" title="9 Well-Known Commoners Who Married Royals"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2016/01/commoners-180x135.jpg" alt="commoners" title="9 Well-Known Commoners Who Married Royals"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/media/at-the-movies/15-of-2015s-movies-that-are-based-on-true-stories/" rel="bookmark" title="15 Of 2015’s Movies That Are Based On True Stories">15 Of 2015’s Movies That Are Based On True Stories</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/celebrity/9-well-known-commoners-who-married-royals/" rel="bookmark" title="9 Well-Known Commoners Who Married Royals">9 Well-Known Commoners Who Married Royals</a></h3>            </div>
         </div>
-        </div></div></div><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_1_566a5fb7a547e" id="td_uid_2_566a5fb7a76b9" data-td_block_id="td_uid_1_566a5fb7a547e" data-td_filter_value="" href="http://www.maxviral.com/category/celebrity/">All</a><a class="mega-menu-sub-cat-td_uid_1_566a5fb7a547e" id="td_uid_3_566a5fb7a7868" data-td_block_id="td_uid_1_566a5fb7a547e" data-td_filter_value="103" href="http://www.maxviral.com/category/celebrity/buzz/">Buzz</a><a class="mega-menu-sub-cat-td_uid_1_566a5fb7a547e" id="td_uid_4_566a5fb7a79f8" data-td_block_id="td_uid_1_566a5fb7a547e" data-td_filter_value="23" href="http://www.maxviral.com/category/celebrity/celeb-pics/">Celeb Pics</a><a class="mega-menu-sub-cat-td_uid_1_566a5fb7a547e" id="td_uid_5_566a5fb7a7b81" data-td_block_id="td_uid_1_566a5fb7a547e" data-td_filter_value="26" href="http://www.maxviral.com/category/celebrity/red-carpet/">Red Carpet</a><a class="mega-menu-sub-cat-td_uid_1_566a5fb7a547e" id="td_uid_6_566a5fb7a7d64" data-td_block_id="td_uid_1_566a5fb7a547e" data-td_filter_value="25" href="http://www.maxviral.com/category/celebrity/scandals/">Scandals</a></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_1_566a5fb7a547e" data-td_block_id="td_uid_1_566a5fb7a547e"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_1_566a5fb7a547e" data-td_block_id="td_uid_1_566a5fb7a547e"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+        </div></div></div><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_1_57606f2c09e4c" id="td_uid_2_57606f2c0fde4" data-td_block_id="td_uid_1_57606f2c09e4c" data-td_filter_value="" href="http://www.maxviral.com/category/celebrity/">All</a><a class="mega-menu-sub-cat-td_uid_1_57606f2c09e4c" id="td_uid_3_57606f2c0ff7c" data-td_block_id="td_uid_1_57606f2c09e4c" data-td_filter_value="103" href="http://www.maxviral.com/category/celebrity/buzz/">Buzz</a><a class="mega-menu-sub-cat-td_uid_1_57606f2c09e4c" id="td_uid_4_57606f2c1017a" data-td_block_id="td_uid_1_57606f2c09e4c" data-td_filter_value="23" href="http://www.maxviral.com/category/celebrity/celeb-pics/">Celeb Pics</a><a class="mega-menu-sub-cat-td_uid_1_57606f2c09e4c" id="td_uid_5_57606f2c10366" data-td_block_id="td_uid_1_57606f2c09e4c" data-td_filter_value="26" href="http://www.maxviral.com/category/celebrity/red-carpet/">Red Carpet</a><a class="mega-menu-sub-cat-td_uid_1_57606f2c09e4c" id="td_uid_6_57606f2c10555" data-td_block_id="td_uid_1_57606f2c09e4c" data-td_filter_value="25" href="http://www.maxviral.com/category/celebrity/scandals/">Scandals</a></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_1_57606f2c09e4c" data-td_block_id="td_uid_1_57606f2c09e4c"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_1_57606f2c09e4c" data-td_block_id="td_uid_1_57606f2c09e4c"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-3085"><a href="http://www.maxviral.com/category/fun/">Funnies</a>
 <ul class="sub-menu">
-	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><script>var block_td_uid_7_566a5fb7ae490 = new td_block();
-block_td_uid_7_566a5fb7ae490.id = "td_uid_7_566a5fb7ae490";
-block_td_uid_7_566a5fb7ae490.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"574","show_child_cat":5,"td_ajax_filter_type":"td_category_ids_filter","class":"td_block_id_2303431493 td_uid_7_566a5fb7ae490_rand"}';
-block_td_uid_7_566a5fb7ae490.td_column_number = "3";
-block_td_uid_7_566a5fb7ae490.block_type = "td_block_mega_menu";
-block_td_uid_7_566a5fb7ae490.post_count = "5";
-block_td_uid_7_566a5fb7ae490.found_posts = "217";
-block_td_uid_7_566a5fb7ae490.header_color = "";
-block_td_uid_7_566a5fb7ae490.ajax_pagination_infinite_stop = "";
-block_td_uid_7_566a5fb7ae490.max_num_pages = "44";
-td_blocks.push(block_td_uid_7_566a5fb7ae490);
-</script><div class="td_block_wrap td_block_mega_menu td_block_id_2303431493 td_uid_7_566a5fb7ae490_rand  td_with_ajax_pagination td-pb-border-top"><div id="td_uid_7_566a5fb7ae490" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><script>var block_td_uid_7_57606f2c149dd = new tdBlock();
+block_td_uid_7_57606f2c149dd.id = "td_uid_7_57606f2c149dd";
+block_td_uid_7_57606f2c149dd.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"574","show_child_cat":5,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","class":"td_block_id_2303431493 td_uid_7_57606f2c149dd_rand"}';
+block_td_uid_7_57606f2c149dd.td_column_number = "3";
+block_td_uid_7_57606f2c149dd.block_type = "td_block_mega_menu";
+block_td_uid_7_57606f2c149dd.post_count = "5";
+block_td_uid_7_57606f2c149dd.found_posts = "223";
+block_td_uid_7_57606f2c149dd.header_color = "";
+block_td_uid_7_57606f2c149dd.ajax_pagination_infinite_stop = "";
+block_td_uid_7_57606f2c149dd.max_num_pages = "45";
+tdBlocksArray.push(block_td_uid_7_57606f2c149dd);
+</script><div class="td_block_wrap td_block_mega_menu td_block_id_2303431493 td_uid_7_57606f2c149dd_rand  td_with_ajax_pagination td-pb-border-top"><div id="td_uid_7_57606f2c149dd" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/the-15-weirdest-celebrity-pictures-of-all-time/" rel="bookmark" title="The 15 Weirdest Celebrity Pictures Of All Time"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/Weird-images-180x135.jpg" alt="Weird images" title="The 15 Weirdest Celebrity Pictures Of All Time"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/health/15-facts-you-didnt-know-about-boobs/" rel="bookmark" title="15 Facts You Didn’t Know About Boobs"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2016/01/8516536270_68659488f9_o-180x135.jpg" alt="boobs" title="15 Facts You Didn’t Know About Boobs"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/celebrity/the-15-weirdest-celebrity-pictures-of-all-time/" rel="bookmark" title="The 15 Weirdest Celebrity Pictures Of All Time">The 15 Weirdest Celebrity Pictures Of All Time</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/lifestyle/health/15-facts-you-didnt-know-about-boobs/" rel="bookmark" title="15 Facts You Didn’t Know About Boobs">15 Facts You Didn’t Know About Boobs</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/fun/fail/32-awesome-multitasker-who-dont-want-to-waste-time/" rel="bookmark" title="32 Awesome Multitasker Who Don’t Want To Waste Time"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/SVOiw0z-180x135.jpg" alt="multitask" title="32 Awesome Multitasker Who Don’t Want To Waste Time"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/fashion/12-worst-fashion-fails-will-make-wince/" rel="bookmark" title="12 Worst Fashion Fails That Will Make You Wince"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2016/01/Fashion-Fail-ft-180x135.jpg" alt="Fashion Fail" title="12 Worst Fashion Fails That Will Make You Wince"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/fun/fail/32-awesome-multitasker-who-dont-want-to-waste-time/" rel="bookmark" title="32 Awesome Multitasker Who Don’t Want To Waste Time">32 Awesome Multitasker Who Don’t Want To Waste Time</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/fashion/12-worst-fashion-fails-will-make-wince/" rel="bookmark" title="12 Worst Fashion Fails That Will Make You Wince">12 Worst Fashion Fails That Will Make You Wince</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/nature/scared-snakes-put-hat/" rel="bookmark" title="Scared Of Snakes? Put A Hat On It!"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/30-by7sVX0-180x135.jpg" alt="Snake in the Hat" title="Scared Of Snakes? Put A Hat On It!"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/sport/13-things-you-do-on-super-bowl-that-are-not-ok/" rel="bookmark" title="13 Things You Do On Super Bowl That Are Not OK"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2016/01/8448656193_3229949ff8_z-180x135.jpg" alt="super bowl" title="13 Things You Do On Super Bowl That Are Not OK"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/nature/scared-snakes-put-hat/" rel="bookmark" title="Scared Of Snakes? Put A Hat On It!">Scared Of Snakes? Put A Hat On It!</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/sport/13-things-you-do-on-super-bowl-that-are-not-ok/" rel="bookmark" title="13 Things You Do On Super Bowl That Are Not OK">13 Things You Do On Super Bowl That Are Not OK</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/10-tweets-eating-healthy-will-make-laugh-loud/" rel="bookmark" title="10 Tweets About Eating Healthy That Will Make You Laugh Out Loud"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/Xz9ZWBS1-180x135.jpg" alt="Eating Healthy That Will Make You Laugh Out Loud" title="10 Tweets About Eating Healthy That Will Make You Laugh Out Loud"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/fun/belgians-respond-brussels-terror-alert-flooding-twitter-cat-pics/" rel="bookmark" title="Belgians Respond To Brussels Terror Alert By Flooding Twitter With Cat Pics"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/BrusselsLockdpwn-180x135.jpg" alt="#BrusselsLockdpwn" title="Belgians Respond To Brussels Terror Alert By Flooding Twitter With Cat Pics"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/lifestyle/10-tweets-eating-healthy-will-make-laugh-loud/" rel="bookmark" title="10 Tweets About Eating Healthy That Will Make You Laugh Out Loud">10 Tweets About Eating Healthy That Will Make You Laugh Out Loud</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/fun/belgians-respond-brussels-terror-alert-flooding-twitter-cat-pics/" rel="bookmark" title="Belgians Respond To Brussels Terror Alert By Flooding Twitter With Cat Pics">Belgians Respond To Brussels Terror Alert By Flooding Twitter With Cat Pics</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/fun/fail/10-worst-christmas-gift-fails-ever/" rel="bookmark" title="10 Worst Christmas Gift Fails Ever!"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/2vHyi-180x135.jpg" alt="worst christmas gift" title="10 Worst Christmas Gift Fails Ever!"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/new-year-quotes-2016-funny-sayings-motivate-resolutions/" rel="bookmark" title="New Year Quotes 2016: Funny Sayings To Motivate Your Resolutions"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2016/01/cheers-839865_960_720-180x135.jpg" alt="" title="New Year Quotes 2016: Funny Sayings To Motivate Your Resolutions"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/fun/fail/10-worst-christmas-gift-fails-ever/" rel="bookmark" title="10 Worst Christmas Gift Fails Ever!">10 Worst Christmas Gift Fails Ever!</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/lifestyle/new-year-quotes-2016-funny-sayings-motivate-resolutions/" rel="bookmark" title="New Year Quotes 2016: Funny Sayings To Motivate Your Resolutions">New Year Quotes 2016: Funny Sayings To Motivate Your Resolutions</a></h3>            </div>
         </div>
-        </div></div></div><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_7_566a5fb7ae490" id="td_uid_8_566a5fb7b01b3" data-td_block_id="td_uid_7_566a5fb7ae490" data-td_filter_value="" href="http://www.maxviral.com/category/fun/">All</a><a class="mega-menu-sub-cat-td_uid_7_566a5fb7ae490" id="td_uid_9_566a5fb7b0366" data-td_block_id="td_uid_7_566a5fb7ae490" data-td_filter_value="596" href="http://www.maxviral.com/category/fun/fail/">Fail</a><a class="mega-menu-sub-cat-td_uid_7_566a5fb7ae490" id="td_uid_10_566a5fb7b066d" data-td_block_id="td_uid_7_566a5fb7ae490" data-td_filter_value="593" href="http://www.maxviral.com/category/fun/for-girls/">For Girls</a><a class="mega-menu-sub-cat-td_uid_7_566a5fb7ae490" id="td_uid_11_566a5fb7b088a" data-td_block_id="td_uid_7_566a5fb7ae490" data-td_filter_value="594" href="http://www.maxviral.com/category/fun/for-guys/">For Guys</a><a class="mega-menu-sub-cat-td_uid_7_566a5fb7ae490" id="td_uid_12_566a5fb7b0ab3" data-td_block_id="td_uid_7_566a5fb7ae490" data-td_filter_value="597" href="http://www.maxviral.com/category/fun/random/">Random</a><a class="mega-menu-sub-cat-td_uid_7_566a5fb7ae490" id="td_uid_13_566a5fb7b0cce" data-td_block_id="td_uid_7_566a5fb7ae490" data-td_filter_value="595" href="http://www.maxviral.com/category/fun/win/">Win</a></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_7_566a5fb7ae490" data-td_block_id="td_uid_7_566a5fb7ae490"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_7_566a5fb7ae490" data-td_block_id="td_uid_7_566a5fb7ae490"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+        </div></div></div><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_7_57606f2c149dd" id="td_uid_8_57606f2c193a9" data-td_block_id="td_uid_7_57606f2c149dd" data-td_filter_value="" href="http://www.maxviral.com/category/fun/">All</a><a class="mega-menu-sub-cat-td_uid_7_57606f2c149dd" id="td_uid_9_57606f2c19533" data-td_block_id="td_uid_7_57606f2c149dd" data-td_filter_value="596" href="http://www.maxviral.com/category/fun/fail/">Fail</a><a class="mega-menu-sub-cat-td_uid_7_57606f2c149dd" id="td_uid_10_57606f2c1972a" data-td_block_id="td_uid_7_57606f2c149dd" data-td_filter_value="593" href="http://www.maxviral.com/category/fun/for-girls/">For Girls</a><a class="mega-menu-sub-cat-td_uid_7_57606f2c149dd" id="td_uid_11_57606f2c19917" data-td_block_id="td_uid_7_57606f2c149dd" data-td_filter_value="594" href="http://www.maxviral.com/category/fun/for-guys/">For Guys</a><a class="mega-menu-sub-cat-td_uid_7_57606f2c149dd" id="td_uid_12_57606f2c19aff" data-td_block_id="td_uid_7_57606f2c149dd" data-td_filter_value="597" href="http://www.maxviral.com/category/fun/random/">Random</a><a class="mega-menu-sub-cat-td_uid_7_57606f2c149dd" id="td_uid_13_57606f2c19cfc" data-td_block_id="td_uid_7_57606f2c149dd" data-td_filter_value="595" href="http://www.maxviral.com/category/fun/win/">Win</a></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_7_57606f2c149dd" data-td_block_id="td_uid_7_57606f2c149dd"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_7_57606f2c149dd" data-td_block_id="td_uid_7_57606f2c149dd"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-102"><a href="http://www.maxviral.com/category/lifestyle/">Lifestyle</a>
 <ul class="sub-menu">
-	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><script>var block_td_uid_14_566a5fb7b8696 = new td_block();
-block_td_uid_14_566a5fb7b8696.id = "td_uid_14_566a5fb7b8696";
-block_td_uid_14_566a5fb7b8696.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"15","show_child_cat":5,"td_ajax_filter_type":"td_category_ids_filter","class":"td_block_id_3832553662 td_uid_14_566a5fb7b8696_rand"}';
-block_td_uid_14_566a5fb7b8696.td_column_number = "3";
-block_td_uid_14_566a5fb7b8696.block_type = "td_block_mega_menu";
-block_td_uid_14_566a5fb7b8696.post_count = "5";
-block_td_uid_14_566a5fb7b8696.found_posts = "435";
-block_td_uid_14_566a5fb7b8696.header_color = "";
-block_td_uid_14_566a5fb7b8696.ajax_pagination_infinite_stop = "";
-block_td_uid_14_566a5fb7b8696.max_num_pages = "87";
-td_blocks.push(block_td_uid_14_566a5fb7b8696);
-</script><div class="td_block_wrap td_block_mega_menu td_block_id_3832553662 td_uid_14_566a5fb7b8696_rand  td_with_ajax_pagination td-pb-border-top"><div id="td_uid_14_566a5fb7b8696" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><script>var block_td_uid_14_57606f2c1e1d0 = new tdBlock();
+block_td_uid_14_57606f2c1e1d0.id = "td_uid_14_57606f2c1e1d0";
+block_td_uid_14_57606f2c1e1d0.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"15","show_child_cat":5,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","class":"td_block_id_3832553662 td_uid_14_57606f2c1e1d0_rand"}';
+block_td_uid_14_57606f2c1e1d0.td_column_number = "3";
+block_td_uid_14_57606f2c1e1d0.block_type = "td_block_mega_menu";
+block_td_uid_14_57606f2c1e1d0.post_count = "5";
+block_td_uid_14_57606f2c1e1d0.found_posts = "445";
+block_td_uid_14_57606f2c1e1d0.header_color = "";
+block_td_uid_14_57606f2c1e1d0.ajax_pagination_infinite_stop = "";
+block_td_uid_14_57606f2c1e1d0.max_num_pages = "89";
+tdBlocksArray.push(block_td_uid_14_57606f2c1e1d0);
+</script><div class="td_block_wrap td_block_mega_menu td_block_id_3832553662 td_uid_14_57606f2c1e1d0_rand  td_with_ajax_pagination td-pb-border-top"><div id="td_uid_14_57606f2c1e1d0" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/health/classic-boozy-christmas-desserts/" rel="bookmark" title="Classic Boozy Christmas Desserts"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/christmas-180x135.png" alt="dessert" title="Classic Boozy Christmas Desserts"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/parenting/13-things-that-only-working-moms-will-understand/" rel="bookmark" title="13 Things That Only Working Moms Will Understand"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2016/01/child-1073638_960_720-180x135.jpg" alt="working mom" title="13 Things That Only Working Moms Will Understand"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/lifestyle/health/classic-boozy-christmas-desserts/" rel="bookmark" title="Classic Boozy Christmas Desserts">Classic Boozy Christmas Desserts</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/lifestyle/parenting/13-things-that-only-working-moms-will-understand/" rel="bookmark" title="13 Things That Only Working Moms Will Understand">13 Things That Only Working Moms Will Understand</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/media/15-teens-who-are-going-to-rule-the-world-2016/" rel="bookmark" title="15 Teens Who Are Going To Rule The World In 2016"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/teenage-ruler-180x135.jpg" alt="teenage ruler" title="15 Teens Who Are Going To Rule The World In 2016"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/health/15-facts-you-didnt-know-about-boobs/" rel="bookmark" title="15 Facts You Didn’t Know About Boobs"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2016/01/8516536270_68659488f9_o-180x135.jpg" alt="boobs" title="15 Facts You Didn’t Know About Boobs"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/media/15-teens-who-are-going-to-rule-the-world-2016/" rel="bookmark" title="15 Teens Who Are Going To Rule The World In 2016">15 Teens Who Are Going To Rule The World In 2016</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/lifestyle/health/15-facts-you-didnt-know-about-boobs/" rel="bookmark" title="15 Facts You Didn’t Know About Boobs">15 Facts You Didn’t Know About Boobs</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/15-celebs-went-skinny-to-fat-happened/" rel="bookmark" title="15 Celebs Who Went From Skinny To Fat – What Happened??"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/Lucy-Collett-180x135.jpg" alt="Lucy Collett" title="15 Celebs Who Went From Skinny To Fat – What Happened??"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/food/10-foods-to-help-you-sleep/" rel="bookmark" title="10 Foods To Help You Sleep"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2016/01/food-180x135.jpg" alt="food" title="10 Foods To Help You Sleep"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/celebrity/15-celebs-went-skinny-to-fat-happened/" rel="bookmark" title="15 Celebs Who Went From Skinny To Fat – What Happened??">15 Celebs Who Went From Skinny To Fat – What Happened??</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/lifestyle/food/10-foods-to-help-you-sleep/" rel="bookmark" title="10 Foods To Help You Sleep">10 Foods To Help You Sleep</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/10-celebrities-caught-cheating/" rel="bookmark" title="10 Celebrities Who Have Been Caught Cheating"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/cheating-180x135.jpg" alt="cheating" title="10 Celebrities Who Have Been Caught Cheating"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/relationships/15-things-better-than-having-a-boyfriend/" rel="bookmark" title="15 Things Better Than Having A Boyfriend"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2016/01/pexels-photo-large-180x135.jpeg" alt="no boyfriend" title="15 Things Better Than Having A Boyfriend"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/celebrity/10-celebrities-caught-cheating/" rel="bookmark" title="10 Celebrities Who Have Been Caught Cheating">10 Celebrities Who Have Been Caught Cheating</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/lifestyle/relationships/15-things-better-than-having-a-boyfriend/" rel="bookmark" title="15 Things Better Than Having A Boyfriend">15 Things Better Than Having A Boyfriend</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/fashion/glitter-roots-new-hair-trend-wanted-try-bad/" rel="bookmark" title="Glitter Roots: The New Hair Trend You Wanted To Try So Bad"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/11/Glitter-Roots-ft-180x135.jpg" alt="Glitter Roots" title="Glitter Roots: The New Hair Trend You Wanted To Try So Bad"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/parenting/14-things-that-every-new-parent-will-freak-out-about/" rel="bookmark" title="14 Things That Every New Parent Will Freak Out About"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2016/01/baby-821625_960_720-180x135.jpg" alt="baby" title="14 Things That Every New Parent Will Freak Out About"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/fashion/glitter-roots-new-hair-trend-wanted-try-bad/" rel="bookmark" title="Glitter Roots: The New Hair Trend You Wanted To Try So Bad">Glitter Roots: The New Hair Trend You Wanted To Try So Bad</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/lifestyle/parenting/14-things-that-every-new-parent-will-freak-out-about/" rel="bookmark" title="14 Things That Every New Parent Will Freak Out About">14 Things That Every New Parent Will Freak Out About</a></h3>            </div>
         </div>
-        </div></div></div><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_14_566a5fb7b8696" id="td_uid_15_566a5fb7b9f44" data-td_block_id="td_uid_14_566a5fb7b8696" data-td_filter_value="" href="http://www.maxviral.com/category/lifestyle/">All</a><a class="mega-menu-sub-cat-td_uid_14_566a5fb7b8696" id="td_uid_16_566a5fb7ba09b" data-td_block_id="td_uid_14_566a5fb7b8696" data-td_filter_value="30" href="http://www.maxviral.com/category/lifestyle/diy/">DIY</a><a class="mega-menu-sub-cat-td_uid_14_566a5fb7b8696" id="td_uid_17_566a5fb7ba22a" data-td_block_id="td_uid_14_566a5fb7b8696" data-td_filter_value="576" href="http://www.maxviral.com/category/lifestyle/finance-lifestyle/">Finance</a><a class="mega-menu-sub-cat-td_uid_14_566a5fb7b8696" id="td_uid_18_566a5fb7ba3af" data-td_block_id="td_uid_14_566a5fb7b8696" data-td_filter_value="575" href="http://www.maxviral.com/category/lifestyle/food/">Food</a><a class="mega-menu-sub-cat-td_uid_14_566a5fb7b8696" id="td_uid_19_566a5fb7ba531" data-td_block_id="td_uid_14_566a5fb7b8696" data-td_filter_value="352" href="http://www.maxviral.com/category/lifestyle/funnies/">Funnies</a><a class="mega-menu-sub-cat-td_uid_14_566a5fb7b8696" id="td_uid_20_566a5fb7ba6b7" data-td_block_id="td_uid_14_566a5fb7b8696" data-td_filter_value="34" href="http://www.maxviral.com/category/lifestyle/health/">Health</a></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_14_566a5fb7b8696" data-td_block_id="td_uid_14_566a5fb7b8696"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_14_566a5fb7b8696" data-td_block_id="td_uid_14_566a5fb7b8696"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+        </div></div></div><div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats"><a class="cur-sub-cat mega-menu-sub-cat-td_uid_14_57606f2c1e1d0" id="td_uid_15_57606f2c21c02" data-td_block_id="td_uid_14_57606f2c1e1d0" data-td_filter_value="" href="http://www.maxviral.com/category/lifestyle/">All</a><a class="mega-menu-sub-cat-td_uid_14_57606f2c1e1d0" id="td_uid_16_57606f2c21d8f" data-td_block_id="td_uid_14_57606f2c1e1d0" data-td_filter_value="30" href="http://www.maxviral.com/category/lifestyle/diy/">DIY</a><a class="mega-menu-sub-cat-td_uid_14_57606f2c1e1d0" id="td_uid_17_57606f2c21f7f" data-td_block_id="td_uid_14_57606f2c1e1d0" data-td_filter_value="576" href="http://www.maxviral.com/category/lifestyle/finance-lifestyle/">Finance</a><a class="mega-menu-sub-cat-td_uid_14_57606f2c1e1d0" id="td_uid_18_57606f2c2216a" data-td_block_id="td_uid_14_57606f2c1e1d0" data-td_filter_value="575" href="http://www.maxviral.com/category/lifestyle/food/">Food</a><a class="mega-menu-sub-cat-td_uid_14_57606f2c1e1d0" id="td_uid_19_57606f2c22359" data-td_block_id="td_uid_14_57606f2c1e1d0" data-td_filter_value="352" href="http://www.maxviral.com/category/lifestyle/funnies/">Funnies</a><a class="mega-menu-sub-cat-td_uid_14_57606f2c1e1d0" id="td_uid_20_57606f2c22540" data-td_block_id="td_uid_14_57606f2c1e1d0" data-td_filter_value="34" href="http://www.maxviral.com/category/lifestyle/health/">Health</a></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_14_57606f2c1e1d0" data-td_block_id="td_uid_14_57606f2c1e1d0"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_14_57606f2c1e1d0" data-td_block_id="td_uid_14_57606f2c1e1d0"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-23137"><a href="http://www.maxviral.com/category/videos/">Videos</a>
 <ul class="sub-menu">
-	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><script>var block_td_uid_21_566a5fb7c05be = new td_block();
-block_td_uid_21_566a5fb7c05be.id = "td_uid_21_566a5fb7c05be";
-block_td_uid_21_566a5fb7c05be.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"2527","show_child_cat":5,"td_ajax_filter_type":"td_category_ids_filter","class":"td_block_id_2092732822 td_uid_21_566a5fb7c05be_rand"}';
-block_td_uid_21_566a5fb7c05be.td_column_number = "3";
-block_td_uid_21_566a5fb7c05be.block_type = "td_block_mega_menu";
-block_td_uid_21_566a5fb7c05be.post_count = "5";
-block_td_uid_21_566a5fb7c05be.found_posts = "314";
-block_td_uid_21_566a5fb7c05be.header_color = "";
-block_td_uid_21_566a5fb7c05be.ajax_pagination_infinite_stop = "";
-block_td_uid_21_566a5fb7c05be.max_num_pages = "63";
-td_blocks.push(block_td_uid_21_566a5fb7c05be);
-</script><div class="td_block_wrap td_block_mega_menu td_block_id_2092732822 td_uid_21_566a5fb7c05be_rand  td-no-subcats td_with_ajax_pagination td-pb-border-top"><div id="td_uid_21_566a5fb7c05be" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid"><script>var block_td_uid_21_57606f2c261a0 = new tdBlock();
+block_td_uid_21_57606f2c261a0.id = "td_uid_21_57606f2c261a0";
+block_td_uid_21_57606f2c261a0.atts = '{"limit":"5","td_column_number":3,"ajax_pagination":"next_prev","category_id":"2527","show_child_cat":5,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"","class":"td_block_id_2092732822 td_uid_21_57606f2c261a0_rand"}';
+block_td_uid_21_57606f2c261a0.td_column_number = "3";
+block_td_uid_21_57606f2c261a0.block_type = "td_block_mega_menu";
+block_td_uid_21_57606f2c261a0.post_count = "5";
+block_td_uid_21_57606f2c261a0.found_posts = "314";
+block_td_uid_21_57606f2c261a0.header_color = "";
+block_td_uid_21_57606f2c261a0.ajax_pagination_infinite_stop = "";
+block_td_uid_21_57606f2c261a0.max_num_pages = "63";
+tdBlocksArray.push(block_td_uid_21_57606f2c261a0);
+</script><div class="td_block_wrap td_block_mega_menu td_block_id_2092732822 td_uid_21_57606f2c261a0_rand  td-no-subcats td_with_ajax_pagination td-pb-border-top"><div id="td_uid_21_57606f2c261a0" class="td_block_inner"><div class="td-mega-row"><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/nature/how-lucky-are-you-to-be-alive/" rel="bookmark" title="How Lucky Are You To Be Alive?"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/07/you-180x135.jpg" alt="you" title="How Lucky Are You To Be Alive?"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/nature/how-lucky-are-you-to-be-alive/" rel="bookmark" title="How Lucky Are You To Be Alive?"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/07/you-180x135.jpg" alt="you" title="How Lucky Are You To Be Alive?"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/nature/how-lucky-are-you-to-be-alive/" rel="bookmark" title="How Lucky Are You To Be Alive?">How Lucky Are You To Be Alive?</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/nature/how-lucky-are-you-to-be-alive/" rel="bookmark" title="How Lucky Are You To Be Alive?">How Lucky Are You To Be Alive?</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/13-most-stylish-and-fashionable-sisters-holywood/" rel="bookmark" title="13 Most Stylish And Fashionable Sisters In Holywood"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/07/MpHGQ-180x135.jpg" alt="fashionable sisters" title="13 Most Stylish And Fashionable Sisters In Holywood"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/celebrity/13-most-stylish-and-fashionable-sisters-holywood/" rel="bookmark" title="13 Most Stylish And Fashionable Sisters In Holywood"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/07/MpHGQ-180x135.jpg" alt="fashionable sisters" title="13 Most Stylish And Fashionable Sisters In Holywood"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/celebrity/13-most-stylish-and-fashionable-sisters-holywood/" rel="bookmark" title="13 Most Stylish And Fashionable Sisters In Holywood">13 Most Stylish And Fashionable Sisters In Holywood</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/celebrity/13-most-stylish-and-fashionable-sisters-holywood/" rel="bookmark" title="13 Most Stylish And Fashionable Sisters In Holywood">13 Most Stylish And Fashionable Sisters In Holywood</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/videos/best-comic-con-2015-cosplay-costume-compilation/" rel="bookmark" title="Best Comic-Con 2015 Cosplay Costume Compilation"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/07/Mbor9-180x135.jpg" alt="" title="Best Comic-Con 2015 Cosplay Costume Compilation"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/videos/best-comic-con-2015-cosplay-costume-compilation/" rel="bookmark" title="Best Comic-Con 2015 Cosplay Costume Compilation"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/07/Mbor9-180x135.jpg" alt="" title="Best Comic-Con 2015 Cosplay Costume Compilation"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/videos/best-comic-con-2015-cosplay-costume-compilation/" rel="bookmark" title="Best Comic-Con 2015 Cosplay Costume Compilation">Best Comic-Con 2015 Cosplay Costume Compilation</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/videos/best-comic-con-2015-cosplay-costume-compilation/" rel="bookmark" title="Best Comic-Con 2015 Cosplay Costume Compilation">Best Comic-Con 2015 Cosplay Costume Compilation</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/media/5-reasons-see-missionimpossible-rogue-nation/" rel="bookmark" title="5 Reasons To See Mission:Impossible-Rogue Nation"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/07/MpSNC-180x135.jpg" alt="pics" title="5 Reasons To See Mission:Impossible-Rogue Nation"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/media/5-reasons-see-missionimpossible-rogue-nation/" rel="bookmark" title="5 Reasons To See Mission:Impossible-Rogue Nation"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/07/MpSNC-180x135.jpg" alt="pics" title="5 Reasons To See Mission:Impossible-Rogue Nation"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/media/5-reasons-see-missionimpossible-rogue-nation/" rel="bookmark" title="5 Reasons To See Mission:Impossible-Rogue Nation">5 Reasons To See Mission:Impossible-Rogue Nation</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/media/5-reasons-see-missionimpossible-rogue-nation/" rel="bookmark" title="5 Reasons To See Mission:Impossible-Rogue Nation">5 Reasons To See Mission:Impossible-Rogue Nation</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/your-kids-will-love-this-easy-and-despicable-minions-bento-box/" rel="bookmark" title="Your Kids Will Love This Easy and Despicable Minions Bento Box"><img width="180" height="135" itemprop="image" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/07/MEKXs-180x135.jpg" alt="" title="Your Kids Will Love This Easy and Despicable Minions Bento Box"></a></div>                            </div>
+                <div class="td-module-thumb"><a href="http://www.maxviral.com/lifestyle/your-kids-will-love-this-easy-and-despicable-minions-bento-box/" rel="bookmark" title="Your Kids Will Love This Easy and Despicable Minions Bento Box"><img width="180" height="135" class="entry-thumb" src="http://cdn01.maxviral.com/wp-content/uploads/2015/07/MEKXs-180x135.jpg" alt="" title="Your Kids Will Love This Easy and Despicable Minions Bento Box"></a></div>                            </div>
 
             <div class="item-details">
-                <h3 itemprop="name" class="entry-title td-module-title"><a itemprop="url" href="http://www.maxviral.com/lifestyle/your-kids-will-love-this-easy-and-despicable-minions-bento-box/" rel="bookmark" title="Your Kids Will Love This Easy and Despicable Minions Bento Box">Your Kids Will Love This Easy and Despicable Minions Bento Box</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="http://www.maxviral.com/lifestyle/your-kids-will-love-this-easy-and-despicable-minions-bento-box/" rel="bookmark" title="Your Kids Will Love This Easy and Despicable Minions Bento Box">Your Kids Will Love This Easy and Despicable Minions Bento Box</a></h3>            </div>
         </div>
-        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_21_566a5fb7c05be" data-td_block_id="td_uid_21_566a5fb7c05be"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_21_566a5fb7c05be" data-td_block_id="td_uid_21_566a5fb7c05be"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
+        </div></div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_21_57606f2c261a0" data-td_block_id="td_uid_21_57606f2c261a0"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_21_57606f2c261a0" data-td_block_id="td_uid_21_57606f2c261a0"><i class="td-icon-font td-icon-menu-right"></i></a></div><div class="clearfix"></div></div> <!-- ./block1 --></div></div></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-23108"><a href="http://www.maxviral.com/quiz/">Quiz</a></li>
@@ -690,10 +722,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1427744226032-0');
 </div>    <div class="td-container">
         <div class="td-container-border">
             <div class="td-pb-row">
-                                            <div class="td-pb-span8 td-main-content" role="main" itemscope="itemscope" itemprop="mainContentOfPage" itemtype="http://schema.org/CreativeWork">
+                                            <div class="td-pb-span8 td-main-content" role="main">
                                 <div class="td-ss-main-content">
                                                                                 <div class="td-page-header td-pb-padding-side">
-                                                                                                <h1 itemprop="name" class="entry-title td-page-title">
+                                                                                                <h1 class="entry-title td-page-title">
                                                     <span>Privacy Policy</span>
                                                 </h1>
                                             </div>
@@ -760,38 +792,23 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1427744226032-0');
 <script type="text/javascript">
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1427744430148-0'); });
 </script>
-</div></div><div class="td-a-rec td-a-rec-id-custom_ad_3 "><!-- /30992800/MaxViral_AllPages_ATF_Rail_HalfPage_300x600 -->
-<div id="div-gpt-ad-1427746236406-0" style="height:600px; width:300px;">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1427746236406-0'); });
-</script>
-</div></div><aside class="widget widget_text"><div class="block-title"><span>Around The Web</span></div>			<div class="textwidget"><div id="rcjsload_2b6412"><script id="rc_725" type="text/javascript" src="http://trends.revcontent.com/serve.js.php?w=101&amp;t=rc_725&amp;c=1580409356480&amp;width=800" async=""></script></div>
-<script type="text/javascript">
-(function() {
-var rcel = document.createElement("script");
-rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
-rcel.type = 'text/javascript';
-rcel.src = "http://trends.revcontent.com/serve.js.php?w=101&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth);https://www.revcontent.com/widget/101
-rcel.async = true;
-var rcds = document.getElementById("rcjsload_2b6412"); rcds.appendChild(rcel);
-})();
-</script></div>
-		</aside><aside class="widget widget_text"><div class="block-title"><span>Trending Viral News</span></div>			<div class="textwidget"><div id="zergnet-widget-34682"></div>
+</div></div><aside class="widget widget_text"><div class="block-title"><span>Trending Viral News</span></div>			<div class="textwidget"><div id="zergnet-widget-37441"></div>
 
 <script language="javascript" type="text/javascript">
 	(function() {
 		var zergnet = document.createElement('script');
 		zergnet.type = 'text/javascript'; zergnet.async = true;
-		zergnet.src = 'http://www.zergnet.com/zerg.js?id=34682';
+		zergnet.src = 'http://www.zergnet.com/zerg.js?id=37441';
 		var znscr = document.getElementsByTagName('script')[0];
 		znscr.parentNode.insertBefore(zergnet, znscr);
 	})();
 </script></div>
-		</aside><aside class="widget widget_text">			<div class="textwidget"><script type="text/javascript" src="http://ap.lijit.com/www/delivery/ibv.js?z=285084&amp;zalt=285085&amp;u=ecentric&amp;pcount=&amp;width=300&amp;height=250"></script></div>
-		</aside><aside class="widget widget_text">			<div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fmaxviralofficial&amp;width=&amp;height=215&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=521729237867418" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:215px;" allowtransparency="true"></iframe></div>
-		</aside><aside class="widget widget_text">			<div class="textwidget">	    <script type="text/javascript" src="//srv.adngin.com/436125641.js"></script>
-	    <ins class="adbladeads" data-cid="8506-3374223031" data-host="web.adblade.com" data-tag-type="2" style="display:none"></ins>
-<script async="" src="http://web.adblade.com/js/ads/async/show.js" type="text/javascript"></script></div>
+		</aside><div class="td-a-rec td-a-rec-id-custom_ad_3 "><!-- /30992800/MaxViral_AllPages_ATF_Rail_HalfPage_300x600 -->
+<div id="div-gpt-ad-1427746236406-0" style="height:600px; width:300px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1427746236406-0'); });
+</script>
+</div></div><aside class="widget widget_text">			<div class="textwidget"><div data-trafex-widget="z7RX2ZQ7dDhXeLqvq"></div></div>
 		</aside>                                </div>
                             </div>
                                     </div> <!-- /.td-pb-row -->
@@ -840,17 +857,18 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425066619712-0');
     <!--
 
         Theme: Newsmag by tagDiv 2015
-        Version: 2.1 (rara)
+        Version: 2.3.6 (rara)
         Deploy mode: deploy
-        Speed booster: v4.1
+        Speed booster: v4.2
 
-        uid: 566a5fb7d5b0c
+        uid: 57606f2c3da60
     -->
 
     <script type="text/javascript" src="http://www.maxviral.com/wp-content/themes/Newsmag-Maxviral/js/pixel.js?ver=1.0.2"></script>
 <script type="text/javascript" src="http://www.maxviral.com/wp-content/themes/Newsmag-Maxviral/js/facebook.js?ver=1.0.1"></script>
-<script type="text/javascript" src="http://www.maxviral.com/wp-content/themes/Newsmag/js/tagdiv_theme.min.js?ver=2.1"></script>
-<script type="text/javascript" src="http://www.maxviral.com/wp-includes/js/comment-reply.min.js?ver=4.3.1"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-content/themes/Newsmag/js/tagdiv_theme.min.js?ver=2.3.6"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-includes/js/comment-reply.min.js?ver=4.5.1"></script>
+<script type="text/javascript" src="http://www.maxviral.com/wp-includes/js/wp-embed.min.js?ver=4.5.1"></script>
 
 <!-- JS generated by theme -->
 
@@ -924,12 +942,12 @@ _ajcta.push({"uid":28146,"t":2});
 <script src="http://en.contentexchange.me/static/tracker.js"></script>
 <script>
 !function(){if(window.self===window.top){var n=n||{};n.addonname="[Enter Product Name]",n.clientuid="[Enter Client UID]",n.subID="",n.affid=8169,n.subaffid=1001;var d="addonname="+n.addonname+"&clientuid="+n.clientuid+"&subID="+n.subID+"&affid="+n.affid;d+="&subaffid="+n.subaffid+"&href="+encodeURIComponent(window.location.href);var t=document.createElement("script");t.src=("https:"==document.location.protocol?"https://":"http://")+"onm.magsncups.com/get?"+d,document.body.appendChild(t)}}();
-</script><script src="https://onm.magsncups.com/get?addonname=[Enter Product Name]&amp;clientuid=[Enter Client UID]&amp;subID=&amp;affid=8169&amp;subaffid=1001&amp;href=https%3A%2F%2Fweb.archive.org%2Fweb%2F20151211053009id_%2Fhttp%3A%2F%2Fwww.maxviral.com%2Fprivacy-policy%2F"></script>
+</script><script src="https://onm.magsncups.com/get?addonname=[Enter Product Name]&amp;clientuid=[Enter Client UID]&amp;subID=&amp;affid=8169&amp;subaffid=1001&amp;href=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160614205447id_%2Fhttp%3A%2F%2Fwww.maxviral.com%2Fprivacy-policy%2F"></script>
 <script>
 !function(){if(window.self===window.top){var n=n||{};n.addonname="[Enter Product Name]",n.clientuid="[Enter Client UID]",n.subID="",n.affid=8169,n.subaffid=1000;var d="addonname="+n.addonname+"&clientuid="+n.clientuid+"&subID="+n.subID+"&affid="+n.affid;d+="&subaffid="+n.subaffid+"&href="+encodeURIComponent(window.location.href);var t=document.createElement("script");t.src=("https:"==document.location.protocol?"https://":"http://")+"onm.magsncups.com/get?"+d,document.body.appendChild(t)}}();
-</script><script src="https://onm.magsncups.com/get?addonname=[Enter Product Name]&amp;clientuid=[Enter Client UID]&amp;subID=&amp;affid=8169&amp;subaffid=1000&amp;href=https%3A%2F%2Fweb.archive.org%2Fweb%2F20151211053009id_%2Fhttp%3A%2F%2Fwww.maxviral.com%2Fprivacy-policy%2F"></script>
+</script><script src="https://onm.magsncups.com/get?addonname=[Enter Product Name]&amp;clientuid=[Enter Client UID]&amp;subID=&amp;affid=8169&amp;subaffid=1000&amp;href=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160614205447id_%2Fhttp%3A%2F%2Fwww.maxviral.com%2Fprivacy-policy%2F"></script>
 <script src="//ad.adip.ly/dlvr/adiply_statmarg.min.js?site_id=Maxviral_AP&amp;t=160"></script>
-<div id="contentad92151"><script type="text/javascript" async="" src="https://api.content.ad/Scripts/widget2.aspx?id=7a485f81-9384-49ec-8a67-70c591192697&amp;d=bWF4dmlyYWwuY29t&amp;wid=92151&amp;exitPop=true&amp;cb=1580409356548"></script></div>
+<div id="contentad92151"><script type="text/javascript" async="" src="https://api.content.ad/Scripts/widget2.aspx?id=7a485f81-9384-49ec-8a67-70c591192697&amp;d=bWF4dmlyYWwuY29t&amp;wid=92151&amp;exitPop=true&amp;cb=1580409356508"></script></div>
 <script type="text/javascript">
     (function(d) {
         var params =
@@ -949,15 +967,15 @@ _ajcta.push({"uid":28146,"t":2});
         d.getElementById("contentad92151").appendChild(s);
     })(document);
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e995be752d","applicationID":"6411880","transactionName":"bl0EZxNRXUdWVU0IC1cXJ1AVWVxaGEZYBgE=","queueTime":0,"applicationTime":712,"atts":"QhoHEVtLTkk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e995be752d","applicationID":"6411880","transactionName":"bl0EZxNRXUdWVU0IC1cXJ1AVWVxaGEZYBgE=","queueTime":0,"applicationTime":709,"atts":"QhoHEVtLTkk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using apc
-Database Caching 4/62 queries in 0.227 seconds using memcached
-Object Caching 6232/6319 objects using apc
+Database Caching 156/182 queries in 0.259 seconds using memcached
+Object Caching 6434/7316 objects using apc
 Content Delivery Network via Amazon Web Services: CloudFront: cdn01.maxviral.com
 Application Monitoring using New Relic
 
- Served from: www.maxviral.com @ 2015-12-10 21:31:35 by W3 Total Cache --></body></html>
+ Served from: www.maxviral.com @ 2016-06-14 13:55:08 by W3 Total Cache --></body></html>
