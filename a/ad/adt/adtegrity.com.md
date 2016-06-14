@@ -1,52 +1,56 @@
-> *The following text is extracted and transformed from the adtegrity.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316010230id_/https%3A//www.adtegrity.com/about-adtegrity/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtegrity.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614100108id_/http%3A//www.adtegrity.com/privacy-policy) for the most accurate reproduction.*
 
-# Online Privacy Policy - Adtegrity
+# Privacy Policy | Adtegrity
 
-## privacy
+This privacy policy discloses the privacy practices for www.adtegrity.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-Adtegrity observes the following online privacy policy in our commitment to assuring privacy for publishers, advertisers, and website visitors.
+  * What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
 
-### Collected Information:
+  * What choices are available to you regarding the use of your data.
 
-Adtegrity, through sign-up and application processes, collects publisher and advertiser personal information, which is used solely for billing, payout, and marketing purposes.
+  * The security procedures in place to protect the misuse of your information.
 
-### Publisher Information:
-
-Company name, name, email, address, city, state/province, zip/postal, country, phone, fax, url(s), and traffic information.
-
-### Advertiser Information:
-
-Name, company name, city, state/province, phone, fax, and email address.
-
-### Non-Disclosure:
-
-Adtegrity is committed to protecting the privacy of our publishers, advertisers, and website visitors. Adtegrity does not disclose any of the gathered information to third parties. While Adtegrity cannot fully control the actions of their website publishers, Adtegrity does require full disclosure of each site’s privacy guidelines for every site that serves Adtegrity ads.
-
-### Information Use:
-
-If Adtegrity, Inc., for any reason uses the personal information that publishers/advertisers have provided, written permission will be obtained before doing so. The only exception to this will be the use of a publisher’s company name and/or logo while finding advertising to be used on their site, or to promote the Adtegrity network.
-
-### Cookies:
-
-If a visitor to a website views an ad served by Adtegrity, they are assigned a unique number, known as a cookie, that is recorded and stored on their computer in their Web browser’s cookie file. If the visitor then visits another Web site that has ads served by Adtegrity, the cookie is recognized by the computer and may be used to target ads to that Web surfer based on his or her past browsing experience or other criteria. Cookies do not harm visitors’ computers and do not gather personal information.
-
-### Why Use Cookies?
-
-  * They help to ensure that ads are not repeated to visitors.
-  * They help advertisers learn how their website is used.
-  * They help advertisers gain knowledge to improve the look and feel of their websites.
-  * They help advertisers learn which ads are most effective and appealing to website visitors.
-  * Overall, the cookie helps the ad network, Adtegrity, determine which advertisements best fit which visitors and which Web sites. A visitor may choose to opt out on using cookies at any time by following a simple procedure to manually delete them. Visitors should refer to their respective browser’s user manual for instructions.
+  * How you can correct any inaccuracies in the information.
 
 
 
-### Third-Party Advertising:
 
-The ads appearing on this Web site are delivered to you by third-party advertisers, our web advertising partners. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about third-party advertisers, cookies, and how to “opt out” of cookies, please visit our opt out page.
+### **Information Collection, Use, and Sharing**
 
-### Third-Party Cookies:
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
-If you have questions regarding our online privacy policy, [please contact us](mailto:support@adtegrity.com).  
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
+### **Your Access to and Control Over Information**
+
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address given on our website:
+
+   • See what data we have about you, if any.
+
+   • Change/correct any data we have about you.
+
+   • Have us delete any data we have about you.
+
+   • Express any concern you have about our use of your data.
+
+### **Security**
+
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
+
+Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+
+### **Cookies**
+
+We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
+
+### **Links**
+
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+
+### **Updates**
+
+Our Privacy Policy may change from time to time and all updates will be posted on this page.
+
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 616-285-5429  or via [email.](https://web.archive.org/about/contacting-adtegrity)**
