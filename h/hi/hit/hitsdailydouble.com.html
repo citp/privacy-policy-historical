@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hitsdailydouble.com privacy policy that was archived on 2015-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151004172758id_/http%3A//hitsdailydouble.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hitsdailydouble.com privacy policy that was archived on 2016-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160614103114id_/http%3A//hitsdailydouble.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -175,7 +175,7 @@ function refresh()
 
 <link rel="stylesheet" type="text/css" href="/js/s101_admin/css_v5.9x/template_6_style.css">
 
-<link rel="stylesheet" type="text/css" href="/inc/css/hitsdd.css?date=20151004">
+<link rel="stylesheet" type="text/css" href="/inc/css/hitsdd.css?date=20160614">
 
 <link rel="stylesheet" type="text/css" id="site_typography_css" href="/inc/css/hitsdd_style.css">
 
@@ -328,7 +328,7 @@ var olark = '';
 
 <!-- DB Driven Styles - Begin -->
 
-<!-- DB Styles [center][12px][000000][] -->
+<!-- DB Styles [center][12px][000000][center] -->
 <style>
 body {
 background: #000000;
@@ -797,7 +797,7 @@ float: right;
 <div class="s101_BorderlessWidget" rel="banner_ads" appid="423648" id="s101_BorderlessWidget_423648" style="width:728px">
 <div id="s101_app_banner_ads_left"></div><div id="s101_app_banner_ads_center">
 <!-- s101_ad_728 start --><center><div class="s101_banner_ads"><div class="s101_banner_ad_header s101_banner_ad_header_"></div><div class="s101_banner_ad_content">
-<iframe zzz="1111a" id="a54645b7" name="a54645b7" src="http://adserver.section101.com/delivery/afr.php?zoneid=9&amp;cb=19" frameborder="0" scrolling="no" width="728" height="90"><a href='http://adserver.section101.com/delivery/ck.php?n=aa4659e6&amp;cb=19' target='_blank' class="s101_link"><img src='http://adserver.section101.com/delivery/avw.php?zoneid=9&amp;cb=19&amp;n=aa4659e6' border='0' alt='' /></a></iframe>
+<iframe zzz="1111a" id="a54645b7" name="a54645b7" src="http://adserver.section101.com/delivery/afr.php?zoneid=9&amp;cb=656" frameborder="0" scrolling="no" width="728" height="90"><a href='http://adserver.section101.com/delivery/ck.php?n=aa4659e6&amp;cb=656' target='_blank' class="s101_link"><img src='http://adserver.section101.com/delivery/avw.php?zoneid=9&amp;cb=656&amp;n=aa4659e6' border='0' alt='' /></a></iframe>
 </div><div class="s101_banner_ad_caption"></div></div></center><!-- s101_ad_728 end --></div><div id="s101_app_banner_ads_right"></div>
 
 </div> <!-- End Widget Div - See Spit Widget -->
@@ -878,9 +878,8 @@ float: right;
 <li><a href="critics_choice" class="s101_drop_down_links">Critics' Choice</a></li>
 <li><a href="music_city" class="s101_drop_down_links">Music City</a></li>
 
-<!--
-<li><a href='blightly-beat' class='s101_drop_down_links'>Blightly Beat</a></li>
--->
+<li><a href="blighty_beat" class="s101_drop_down_links">Blighty Beat</a></li>
+
 
 </ul>
 </div>
@@ -1331,13 +1330,10 @@ color: #cccccc;
 <a href="shazam_uk_top_100" class="s101_footer_links">Shazam UK Top 100 Shazam Chart</a><br>
 <a href="shazam_us_new_release_chart" class="s101_footer_links">Shazam Future Hits Chart USA</a><br>
 <a href="shazam_uk_new_release_chart" class="s101_footer_links">Shazam Future Hits Chart UK</a><br>
-<a href="the_bside" class="s101_footer_links">The B-Side</a>
-<a href="critics_choice" class="s101_footer_links">Critics' Choice</a>
-<a href="music_city" class="s101_footer_links">Music City</a>
-
-<!--
-<a href='blightly-beat' class='s101_footer_links'>Blightly Beat</a>
--->
+<a href="the_bside" class="s101_footer_links">The B-Side</a><br>
+<a href="critics_choice" class="s101_footer_links">Critics' Choice</a><br>
+<a href="music_city" class="s101_footer_links">Music City</a><br>
+<a href="blighty_beat" class="s101_footer_links">Blighty Beat</a>
 
 </td><td valign="top">
 <a href="cartoon" class="s101_footer_main_links">Cartoon</a><br><br>
@@ -1371,7 +1367,7 @@ color: #cccccc;
 
 <div id="s101_footer-copyright">
 
-<div id="s101_client_footer" class="typogr_text s101_site_text">© 2015 HITS Digital Ventures. All Rights Reserved.  </div>
+<div id="s101_client_footer" class="typogr_text s101_site_text">© 2016 HITS Digital Ventures. All Rights Reserved.  </div>
 
 </div>
 <div id="s101_footer-social">
@@ -1574,6 +1570,60 @@ function set_status_flag(status_element) {
 	alert('Status Changed to: ' + site_element_value ) ;	
 
 }
+
+
+function set_schedule_building() {
+
+	   var site_element_value = $("#schedule_building").val() ;
+
+	   var schedule_date = $("#build_date").val() ;
+
+	   var schedule_time = $("#build_time").val() ;
+
+
+		if(document.getElementById('schedule_building').checked) {
+
+			s101Manager.doPopup('hits_update','change site type','&form_mode=schedule_building&site_element_value=on&site_element_value2=' + schedule_date + '&site_element_value3=' + schedule_time,'0px');
+
+			$('.schedule_building_time').css('display','block') ;
+
+		} else {
+
+			s101Manager.doPopup('hits_update','change site type','&form_mode=schedule_building&site_element_value=off&site_element_value2=' + schedule_date + '&site_element_value3=' + schedule_time,'0px');
+
+//			$('.schedule_building_time').css('display','none') ;
+
+		}
+
+
+}
+
+function set_schedule_streaming() {
+
+	   var site_element_value = $("#schedule_streaming").val() ;
+
+	   var schedule_date = $("#stream_date").val() ;
+
+	   var schedule_time = $("#stream_time").val() ;
+
+		if(document.getElementById('schedule_streaming').checked) {
+
+			s101Manager.doPopup('hits_update','change site type','&form_mode=schedule_streaming&site_element_value=on&site_element_value2=' + schedule_date + '&site_element_value3=' + schedule_time,'0px');
+
+			$('.schedule_streaming_time').css('display','block') ;
+
+		} else {
+
+			s101Manager.doPopup('hits_update','change site type','&form_mode=schedule_streaming&site_element_value=off&site_element_value2=' + schedule_date + '&site_element_value3=' + schedule_time,'0px');
+
+//			$('.schedule_streaming_time').css('display','none') ;
+
+		}
+
+
+}
+
+
 
     </script>
 
