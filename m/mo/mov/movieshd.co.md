@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the movieshd.co privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217233442id_/https%3A//movieshd.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieshd.co privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614210946id_/https%3A//movieshd.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MoviesHD | Free HD Movies
+# Privacy Policy - MoviesHD | Watch Movies Online - Free HD Movies
 
-## _This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website._ _�_
+## _This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website._ _ _
 
 ## We do not collect information from visitors of our site.
 
@@ -20,9 +20,9 @@
 
 ## **We use cookies to:**
 
-## ����� **�** Keep track of advertisements.
+##       **•** Keep track of advertisements.
 
-## ����� **�** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+##       **•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
 ## You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
@@ -44,9 +44,9 @@
 
 ## **We have implemented the following:**
 
-## ����� **�** Google Display Network Impression Reporting
+##       **•** Google Display Network Impression Reporting
 
-## ����� **�** Demographics and Interests Reporting
+##       **•** Demographics and Interests Reporting
 
 ## We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
 
@@ -65,11 +65,11 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 ## Users will be notified of any privacy policy changes:
 
-## ����� **�** On our Privacy Policy Page
+##       **•** On our Privacy Policy Page
 
 ## Users are able to change their personal information:
 
-## ����� **�** By logging in to their account
+##       **•** By logging in to their account
 
 ## **How does our site handle do not track signals?**
 
@@ -91,7 +91,7 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 ## We will notify the users via in site notification
 
-## ����� **�** Within 1 business day
+##       **•** Within 1 business day
 
 ## We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
 
