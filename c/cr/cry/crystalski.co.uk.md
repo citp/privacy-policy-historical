@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the crystalski.co.uk privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214145843id_/http%3A//www.crystalski.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalski.co.uk privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614134657id_/http%3A//www.crystalski.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # Data Protection | Crystal Ski
 
+## Privacy policy
+
 TUI UK Limited's Privacy Policy sets out what information we collect, how we collect it, and what we do with it. Our Privacy Policy applies to you and is available on our website and through other channels. In all your dealings with us you must ensure that others you represent are aware of the content of our Privacy Policy and consent to your acting on their behalf.
 
-### INFORMATION ABOUT YOU
+## INFORMATION ABOUT YOU
 
 ### Your Information
 
@@ -44,7 +46,7 @@ Please write to TUI UK Limited, Legal Department, TUI Travel House, Crawley Busi
 
 Outside the European Economic Area (EEA), data protection controls may not be as strong as the legal requirements in this country.
 
-### USE OF TOOLS/"COOKIES" AND LINKS TO OTHER WEBSITES
+## USE OF TOOLS/"COOKIES" AND LINKS TO OTHER WEBSITES
 
 If our contact and dealing with you is via our website(s) or other e-platforms where our advertising is displayed, cookies may be used. To find out more about the types of cookies on our website(s), how we use cookies, to disable them or to change your preference and more, please refer to the information provided on our website(s). Other e-platforms may have different options and instructions. **By using our website(s), you consent to our use of cookies**.
 
