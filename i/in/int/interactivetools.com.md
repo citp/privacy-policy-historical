@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215123644id_/http%3A//www.interactivetools.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactivetools.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614145311id_/http%3A//www.interactivetools.com/about/privacy.php) for the most accurate reproduction.*
 
 # About - Privacy
 
@@ -18,7 +18,7 @@ We take your privacy very seriously. In order for you to better understand our d
 
 **3\. During Software Purchase**
 
-> It is very important for us to keep accurate purchase records. During this process, we ask for information such as name, company name, e-mail address, etc. This data is used only to identify you in order to give you the full benefits of registration including free technical support and upgrade eligibility. We do not make this information available to any third parties. 
+> It is very important for us to keep accurate purchase records. During this process, we ask for information such as name, company name, e-mail address, etc. This data is used only to identify you in order to give you the full benefits of registration including technical support and upgrade eligibility. We do not make this information available to any third parties. 
 
 **4\. During Software Usage**
 
