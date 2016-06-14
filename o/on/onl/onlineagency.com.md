@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineagency.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210175650id_/http%3A//www.onlineagency.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineagency.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614180101id_/http%3A//www.onlineagency.com/privacy.htm) for the most accurate reproduction.*
 
 # Online Agency Privacy Policy
 
@@ -86,5 +86,4 @@ If you have any other questions about Online Agency or suspect that this privacy
 
 Webmaster  
 c/o LevelField.com, Inc.  
-11824 Jollyville Road, Suite 102  
-Austin, Texas 78759
+11675 Jollyville Rd, Suite 207 Austin, TX 78759 
