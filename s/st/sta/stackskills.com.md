@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stackskills.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121001625id_/http%3A//stackskills.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackskills.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615001622id_/https%3A//stackskills.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | StackSkills
 
