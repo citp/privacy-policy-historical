@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bonton.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626103645id_/http%3A//www.bonton.com/content/customer-service/privacy-policy/content1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonton.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614134746id_/http%3A//www.bonton.com/content/customer-service/privacy-policy/content1.html) for the most accurate reproduction.*
 
 # Privacy Policy & Security Procedures - Bon-Ton
 
-This Privacy Policy was last updated on March 16, 2015..
+This Privacy Policy was last updated on March 16, 2015.
 
 This website is owned and operated by The Bon-Ton Department Stores, Inc., and this Privacy Policy applies to the website only.
 
