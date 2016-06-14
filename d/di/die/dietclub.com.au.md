@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietclub.com.au privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215012611id_/http%3A//www.calorieking.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietclub.com.au privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614145420id_/http%3A//www.calorieking.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,6 +50,12 @@ By recognizing all of our Users, how they use the Network and what they find int
 
 You should be aware that The Family Health Network places advertising and other material on the Network which may originate from outside individuals or entities. In some cases, if you click on or view these advertisements or other material, a Cookie may be assigned by the relevant third party. The Family Health Network does not control these Cookies. 
 
+Our website uses Google Analytics, a service which transmits website traffic data to Google servers in the United States. Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use reports provided by Google Analytics to help us understand website traffic and webpage usage.
+
+Our website uses Google Analytics features based on Display Advertising such as Google Analytics Demographics and Interest Reporting. We also make use of Google Remarketing to display relevant ads tailored to you based on what parts of the site you have viewed.
+
+By using this website, you consent to the processing of data about you by Google in the manner described in [Google's Privacy Policy](http://www.google.com/policies/privacy/) and for the purposes set out above. You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or opt out of Google's use of cookies by visiting [Google's Ads Settings](http://www.google.com/settings/ads). Alternatively you can opt out of third-party vendor cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
+
 ## 2\. Use and Disclosure of Personal Information
 
 The Family Health Network will not use or disclose any personal information about you without your consent or access your communications on the Network, unless we consider it is necessary:
@@ -72,7 +78,7 @@ We may share your personal information with third parties who provide services t
 
 Under certain circumstances we may be forced to disclose information to the Government or third parties, or third parties may unlawfully intercept or access transmissions or private communications. In the event that we need to investigate or resolve possible problems or inquiries, you expressly acknowledge, agree and authorize The Family Health Network to disclose any information about you to private entities, law enforcement or other Government officials as we, in our sole discretion, believe necessary or appropriate.
 
-## 3\. Promotional Email 
+## 4\. Promotional Email 
 
 If you have indicated as such, The Family Health Network and/or third parties may from time to time, send e-mail messages to you which offer products and services, contain advertisements, promotions, subscriptions or registration-based services or other material. If you wish to discontinue receiving such email, please disable promotions via the 'Change your details' link on your The Family Health Network personal page or the relevant third party. Your preferences will then be updated immediately.
 
