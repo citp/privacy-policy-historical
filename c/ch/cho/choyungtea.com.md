@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the choyungtea.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814021251id_/http%3A//www.choyungtea.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choyungtea.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614053041id_/http%3A//choyungtea.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cho-Yung Direct Health & Wellbeing
+# Privacy Policy | Cho-Yung Tea Direct Health & Wellbeing
 
-Cho-Yung (CY Trading) Limited ( **"We"; "Us"** ) is committed to protecting and respecting your privacy. This Privacy Policy (together with our [Terms and Conditions](https://web.archive.org/web/20150814021251id_/http%3A//www.choyungtea.com/pages/terms-conditions) and any other documents referred to therein), sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us. Please read this Privacy Policy carefully to understand our views and practices regarding your personal data and how We will treat it.
+Cho-Yung (CY Trading) Limited ( **"We"; "Us"** ) is committed to protecting and respecting your privacy. This Privacy Policy (together with our [Terms and Conditions](https://web.archive.org/web/20160614053041id_/http%3A//choyungtea.com/pages/terms-conditions) and any other documents referred to therein), sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us. Please read this Privacy Policy carefully to understand our views and practices regarding your personal data and how We will treat it.
 
 **1\. DATA CONTROLLER**
 
