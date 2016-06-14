@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the port.ac.uk privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607062304id_/http%3A//www.port.ac.uk/privacy-and-cookies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the port.ac.uk privacy policy that was archived on 2016-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160614055954id_/http%3A//www.port.ac.uk/privacy-and-cookies) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js backgroundsize boxshadow csstransforms3d svg js" style=""><head>
+<!DOCTYPE html><html class=" js backgroundsize boxshadow csstransforms3d svg js"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Privacy and cookies - University of Portsmouth</title>
   
-<!-- navigation object : Favicon head section --><link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://www.port.ac.uk/apple-touch-icon-57x57.png">
+<!-- navigation object : Favicon head section --></head><body><a id="d.en.28261"></a>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://www.port.ac.uk/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.port.ac.uk/apple-touch-icon-114x114.png">
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.port.ac.uk/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.port.ac.uk/apple-touch-icon-144x144.png">
@@ -32,7 +33,8 @@
 
 
   
-<!-- navigation object : CSS and JS head section --><!-- Styles -->
+<!-- navigation object : CSS and JS head section --><a id="d.en.7869"></a>
+<!-- Styles -->
 <link href="/assets/css/styles.css" rel="stylesheet" type="text/css">
 <!-- Print -->
 <link href="/assets/css/print.css" media="print" rel="stylesheet" type="text/css">
@@ -45,7 +47,7 @@
 <!--[if lte IE 8]>
     <script src="/assets/js/ie.js" type="text/javascript"></script>
 <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script><script src="/assets/js/modernizr.js" type="text/javascript"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KCCBG7"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script><script src="/assets/js/modernizr.js" type="text/javascript"></script>
 <script>
     (function() {
         var html = document.getElementsByTagName('html')[0];
@@ -63,25 +65,55 @@
                 }
             }
         }
-        Modernizr.load([{
-            test: '__proto__' in {},
-            yep:  '//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js',
-            nope: '//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js',
-            load: ['http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js', '/assets/js/global.js']
-        }
-        ]);
+      	Modernizr.load([{
+      	    test: '__proto__' in {},
+      	    yep:  '//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js',
+      	    nope: '//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js',
+      	    load: ['//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js', '/assets/js/global.js', '/assets/js/jquery.scrolldepth.min.js'],
+      	    complete: function () {
+        		$(function(){
+                        $.scrollDepth();
+                      });
+      	        Modernizr.load([{
+      	            load: [
+      	            	'http://search.port.ac.uk/search/js/jquery/jquery-ui-1.10.3.custom.min.js', 
+      	            	'http://search.port.ac.uk/search/js/jquery/jquery.tmpl.min.js', 
+        			'/assets/js/jquery.funnelback-completion.min.js'
+      	            ],
+      	            complete: function() {
+      	                jQuery("input.query").fbcompletion({
+      	                  'enabled'    : 'enabled',
+      	                  'collection' : 'ports-courses',
+      	                  'program'    : 'http://search.port.ac.uk/s/suggest.json',
+      	                  'format'     : 'extended',
+      	                  'alpha'      : '.5',
+      	                  'show'       : '10',
+      	                  'sort'       : '0',
+      	                  'length'     : '3',
+      	                  'delay'      : '0',
+      	                  'profile'    : '_default'
+      	                });
+      	            }
+      	        }]);    
+      	    }
+      	}]);
     })();
 </script>
         
-<!-- navigation object : Google Analytics push --><script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-265018-1']);
-_gaq.push(['_setDomainName', 'port.ac.uk']);
-_gaq.push(['_trackPageview', location.pathname + location.search + location.hash]);
-</script>
+
+
+
+  <!-- navigation object : Google Tag Manager Code --><a id="d.en.33910"></a>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KCCBG7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KCCBG7');</script>
+<!-- End Google Tag Manager -->
         
-</head>
-<body>
 <div class="onscreen-area">
 <header class="global-tools">
     <div class="wrap">
@@ -100,7 +132,8 @@ _gaq.push(['_trackPageview', location.pathname + location.search + location.hash
             </ul><!--/.global-useful-->
             </nav>
         </div>
-       <!-- navigation object : Search Code --><form method="GET" role="search" class="global-search" action="http://search.port.ac.uk/s/search.html">
+       <!-- navigation object : Search Code --><a id="d.en.402"></a>
+<form method="GET" role="search" class="global-search" action="http://search.port.ac.uk/s/search.html">
             <input type="search" name="query" placeholder="Search Portsmouth" required="required">
             <input type="hidden" name="collection" value="ports-meta">
             <input type="hidden" name="profile" value="_default">
@@ -117,7 +150,8 @@ _gaq.push(['_trackPageview', location.pathname + location.search + location.hash
        <object data="/media/portsmouth/img/university-of-portsmouth.svgz" type="image/svg+xml" width="222" height="40" class="site-logo">
             <span class="site-logo-fallback"><a href="/" rel="home">University of Portsmouth</a></span>
         </object>
-        <!-- navigation object : Main Menu --><nav role="navigation">
+        <!-- navigation object : Main Menu --><a id="d.en.7788"></a>
+<nav role="navigation">
 <ul class="main-nav">
 <li><a class="toggle" data-toggle="dropdown-subjects" href="/courses/" title="Courses">Courses</a></li>
 <li><a href="/why-portsmouth/" title="Why Portsmouth?">Why Portsmouth?</a></li>
@@ -174,87 +208,72 @@ _gaq.push(['_trackPageview', location.pathname + location.search + location.hash
 <p>The University of Portsmouth is committed to ensuring visitors’ privacy whilst viewing University web pages. This page explains the types of data collected and how this information will be used.</p>
 <h2>Access Information</h2>
 <p>The University of Portsmouth web servers automatically log each visit that they receive. This data contains some information about you; The Internet address of the computer you are using, the type of browser and operating system you are using and the Internet address of the web site from which you came from. It also contains some connection information such as the page or service you are requesting and the date and time of the request.</p>
-<p>This information is used for the sole purpose of statistical information gathering and demographics relating to the University web sites, and enables us to determine general visitor patterns and pathways within our pages. This statistical data is then fed back into future design and usability modifications made to the University web pages.</p>
+<p>This information is used for the sole purpose of statistical information gathering and demographics relating to the University web sites, and enables us to determine general visitor patterns and pathways within our pages. This statistical data is then fed back into future design and usability modifications made to the University web pages. This data can also be used to help diagnose technical issues with web services. This server log is not shared with any third-party and contains no personally identifiable information such as names or addresses.</p>
 <h2>Cookies</h2>
-<p>Cookies are small pieces of information in the form of a text file that a website can put on your hard drive in order for it to remember something about you at a later time.</p>
-<p>The University of Portsmouth web site uses cookies for certain applications, for example to remember your name when filling out online forms or for identifying user behavior with the aim of providing you the best browsing experience we can.</p>
+<p>Cookies are small pieces of information in the form of a text file that a website can put on your hard drive in order for it to remember something about you at a later time. Cookies are used on almost all websites.</p>
+<p>The University of Portsmouth website uses cookies for certain applications, for example to remember your name when filling out online forms or for identifying user behaviour with the aim of providing you with the best browsing experience we can.</p>
 <p>Our cookies are used for the following:</p>
 <ul>
 <li>Make the website work in the way you would expect it to</li>
+<li>Continually improve our website for you</li>
+<li>Analyse behaviour so that we can deliver relevant online ads about the University to you at a later date</li>
 <li>Remember certain settings in between visits</li>
 <li>Allow you to share pages with social networks</li>
-<li>Continually improve our website for you</li>
 </ul>
-<p>We do not use our cookies to do any of the following:</p>
+<p>We do not use cookies to do any of the following:</p>
 <ul>
-<li>Pass personal data to any third parties</li>
-<li>Pass data to any advertising networks</li>
-<li>Collect any sensitive or personally identifiable information (without your express permission)</li>
+<li>Collect any sensitive or personally identifiable information</li>
+<li>Pass personally identifiable data to any third-parties</li>
 </ul>
-<h3>Allowing us to place cookies on your computer</h3>
-<p><strong>If your browser settings are such that you allow cookies to be set, we take this and your continued use of our website to mean that you consent to us using cookies on our website.</strong></p>
-<p>If you do not wish to accept cookies from our website then you can adjust your chosen browser to refuse cookies (see instructions on how to do this at <a href="http://www.allaboutcookies.org/" title="All About Cookies website">All About Cookies</a>) although this will most likely affect your browsing experience.</p>
 <h3>Cookies used on www.port.ac.uk</h3>
-<table align="left" border="0" class="three_column_purple_table">
-<thead>
-<tr><th scope="col">Provider</th><th scope="col">Name</th><th scope="col">Description and further information</th></tr>
-</thead>
-<tbody>
-<tr>
-<td>University of Portsmouth</td>
-<td>JSESSIONID</td>
-<td>Session Cookie - This creates a record of courses visited to build the "Related courses" and "Course history" widget on coursepages. No personally identifiable information is collected.</td>
-</tr>
-<tr class="odd">
-<td>University of Portsmouth</td>
-<td>PHPSESSID</td>
-<td>Session Cookie - This enables some forms to function properly.</td>
-</tr>
-<tr>
-<td>Google Analytics</td>
-<td>
-<p>__utma</p>
-<p>__utmb</p>
-<p>__utmc</p>
-<p>__utmz</p>
-</td>
-<td>
-<p>&nbsp;Google Analytics uses cookies to define user sessions, as well as to provide a number of key features in the Google Analytics reports.</p>
-<p>See the <a href="https://developers.google.com/analytics/resources/concepts/gaConceptsCookies" title="Cookies and Google Analytics.">Cookies and Google Analytics</a> web page for full details.</p>
-<p>Also see the <a href="http://www.google.com/intl/en_uk/policies/privacy/" title="Google Privacy Policy">Google Privacy Policy</a> for full details.</p>
-</td>
-</tr>
-<tr class="odd">
-<td>&nbsp;AddThis</td>
-<td>&nbsp;__atuvc</td>
-<td>
-<p>&nbsp;To enable numbers of shares to be registered.</p>
-<p>See the <a href="http://www.addthis.com/privacy/privacy-policy#.T79y6bA9Asc" title="AddThis privacy policy.">AddThis Privacy Policy</a> for full details.</p>
-</td>
-</tr>
-<tr>
-<td>Google Map</td>
-<td>NNID<br> PREF</td>
-<td>
-<p>Used by Google where we embed Google Maps.</p>
-<p>See the <a href="http://www.google.com/intl/en_uk/policies/privacy/" title="Google Privacy Policy">Google Privacy Policy</a> for full details.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<h4>Site analytics</h4>
+<p><strong>Google Analytics</strong></p>
+<p>Google Analytics is a web analysis service provided by Google. Google sets cookies to be able to identify unique users and sessions so that we are able to track behaviour and usage of visitors to our website.</p>
+<p><strong>View <a href="http://www.google.com/intl/en/policies/privacy/">privacy policy</a></strong></p>
+<h4>Displaying content from external platforms</h4>
+<p><span>We use third-party services that are hosted on our website to provide additional functionality such as maps, video hosting and displaying fonts. These services may also set cookies, more information on each individual provider can be found below.</span></p>
+<p><strong>Google Fonts</strong></p>
+<p>Google Fonts is a typeface visualization service provided by Google that allows us to deliver custom fonts to our web pages.</p>
+<p><strong>View <a href="http://www.google.it/intl/en/policies/privacy/">Privacy Policy</a></strong></p>
+<p><strong>Typekit Fonts (Adobe)</strong></p>
+<p>Typekit is a typeface visualization service provided by Adobe that allows us to deliver custom fonts to our web pages.</p>
+<p><strong>View <a href="http://www.adobe.com/uk/privacy/cookies.html">Privacy Policy</a></strong></p>
+<p><strong>Mapbox Maps</strong></p>
+<p>Mapbox is a map service provided by Mapbox that allows us to embed maps within our pages.</p>
+<p><strong>View <a href="https://www.mapbox.com/privacy/">Privacy Policy</a></strong></p>
+<p><strong>Google Maps</strong></p>
+<p>Google Maps is a map service provided by Google that allows us to embed maps within our pages.</p>
+<p><strong>View <a href="http://www.google.it/intl/en/policies/privacy/">Privacy Policy</a></strong></p>
+<p><strong>Vimeo video</strong></p>
+<p>Vimeo is a video hosting service that allows us to host and then embed our video content in a way that it can be served in the most efficient way around the world.</p>
+<p><strong>View <a href="https://vimeo.com/privacy">Privacy Policy</a></strong></p>
+<p><strong>YouTube video</strong></p>
+<p>Vimeo is a video hosting service that allows us to host and then embed our video content in a way that it can be served in the most efficient way around the world.</p>
+<p><strong>View <a href="https://www.youtube.com/static?template=privacy_guidelines&amp;gl=GB">Privacy Policy</a></strong></p>
+<p>We also need info from data harvesting about any cookies they set</p>
+<h4>Behavioural marketing (remarketing or retargetting)</h4>
+<p>We also use cookies from Google, Facebook and twitter that allow us to track user behaviour with the aim of being able to serve selective adverts about the University to you on other websites through an advert network. This information does not include any personal data such as name, email, address, telephone number.</p>
+<p>Allowing us to place cookies on your computer</p>
+<p>If your browser settings are such that you allow cookies to be set, we take this and your continued use of our website to mean that you consent to us using cookies on our website.</p>
+<p>If you do not wish to accept cookies from our website then you can adjust your chosen browser to refuse cookies (see instructions on how to do this at <a href="http://www.allaboutcookies.org/"><span>All About Cookies</span></a>) although this will most likely affect your browsing experience.</p>
+<h4>Opting-out</h4>
+<p><a href="http://www.youronlinechoices.com/uk/your-ad-choices">Opt out of online behavioural advertising</a> - EU-based site</p>
+<p><a href="http://www.google.com/settings/ads/plugin/">Opt out of the DoubleClick cookie using this browser plug-in</a> - plug-ins available for Internet Explorer, Firefox and Chrome</p>
+<p><a href="https://www.google.com/settings/ads/">Opt out of tailored Google ads</a></p>
+<p><a href="http://tools.google.com/dlpage/gaoptout">Opt out of being tracked by Google Analytics across all websites</a></p>
 <h2>Personal information</h2>
 <h3>Submission forms and surveys</h3>
-<p>The University of Portsmouth may also collect personal information supplied through the use of web-based forms and surveys. This information will not be supplied to any third party, and will only be used for subsequent communications, if indicated by you, the user, at the time of submission. The data will be kept for no longer than two years.</p>
+<p>The University of Portsmouth may also collect personal information supplied through the use of web-based forms and surveys. This information will not be supplied to any third-party, and will only be used for subsequent communications, if indicated by you, the user, at the time of submission.</p>
 <p>In submitting your personal information online, you are agreeing that University staff may use your details for the sole purpose of conducting the business of the University. If at anytime you no longer wish to receive any information from the University of Portsmouth, please respond to any email and state that you wish to “unsubscribe”.</p>
 <h3>Email</h3>
-<p>If you contact the University of Portsmouth by email, we keep a record of that correspondence for the purpose of conducting University business. We do not add any email addresses of those who communicate with the University through email to any mailing databases, nor do we pass this to any third party.</p>
+<p>If you contact the University of Portsmouth by email, we keep a record of that correspondence for the purpose of conducting University business. We do not add any email addresses of those who communicate with the University through email to any mailing databases, nor do we pass this to any third-party.</p>
             </div><!--/.wrap-->
 </div><!--/.section-->
 </div><!--/@main-->
               
               
-<!-- navigation object : Footer --><footer class="footer hcard" role="contentinfo">
+<!-- navigation object : Footer --><a id="d.en.403"></a>
+<footer class="footer hcard" role="contentinfo">
     <div class="wrap">
         <div class="group quarter">
             <div class="column">
@@ -302,15 +321,17 @@ _gaq.push(['_trackPageview', location.pathname + location.search + location.hash
               
               
 </div><!--/.onscreen-area-->
-<!-- navigation object : Google Analytics insert ga script -->
-<script type="text/javascript">  (function() {
-var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+<!-- navigation object : Google Analytics insert ga script --><a id="d.en.8525"></a>
+<script>
+  (function(p,o,r,t,a,c,u,k){p['GoogleAnalyticsObject']=a;p[a]=p[a]||function(){
+  (p[a].q=p[a].q||[]).push(arguments)},p[a].l=1*new Date();c=o.createElement(r),
+  u=o.getElementsByTagName(r)[0];c.async=1;c.src=t;u.parentNode.insertBefore(c,u)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-265018-1', 'auto');
+  ga('send', 'pageview');
 </script>
         
-<!--<meta name="modified" content="17/04/2013" />
+<!--<meta name="modified" content="19/05/2016" />
 -->
 
 </body></html>
