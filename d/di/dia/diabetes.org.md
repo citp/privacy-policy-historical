@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diabetes.org privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214040544id_/http%3A//www.diabetes.org/about-us/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetes.org privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614062356id_/http%3A//www.diabetes.org/about-us/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: American Diabetes Association®
 
-_Updated  November 20, 2009_
+_Updated November 20, 2009_
 
 ## Our Commitment to Privacy
 
@@ -59,7 +59,7 @@ ADA, like many other non-profit organizations, occasionally makes available only
 
 Names/addresses are provided on a one-time basis; therefore, these companies will not have continued access to your name and address unless you respond to them directly, which you are free to do or not to do.
 
-You can request that we do not share your information by emailing us at [privacy@diabetes.org](mailto:privacy@diabetes.org). (If you use more than one email address , postal address or telephone number, please identify each one.)  
+You can request that we do not share, sell, or exchange your information for third party’s fundraising or marketing purposes by emailing us at [privacy@diabetes.org](mailto:privacy@diabetes.org). (If you use more than one email address , postal address or telephone number, please identify each one.)  
 The American Diabetes Association may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
 
 ### 6\. Our Commitment to Children's Privacy
@@ -75,9 +75,9 @@ Protecting the privacy of the very young is especially important. Children under
 
 PlanetD Message Boards: PlanetD is designed to be a safe place for children and youth to exchange messages. No personally identifiable information is collected during the PlanetD Message Board registration process.
 
-Diabetes Camp Message Boards: Access to the Diabetes Camp Message Boards is controlled; only children and youth who have attended an [ADA sponsored, supported, or affiliated Diabetes Camp](http://www.diabetes.org/living-with-diabetes/parents-and-kids/ada-camps/) are provided access. To ensure authentication, personally identifiable information (first name, last name, and a child’s email address) are collected, along with the email address of a parent or legal guardian. This information is collected only for authentication purposes, and is securely stored, and never used for another purpose, and never shared with third-parties. It is our recommendation that children, especially children under 13, have an email account that is connected to their parent or guardian, so that the parent or guardian is notified about the child’s email activity.
+Diabetes Camp Message Boards: Access to the Diabetes Camp Message Boards is controlled; only children and youth who have attended an [ADA sponsored, supported, or affiliated Diabetes Camp](http://www.diabetes.org/living-with-diabetes/parents-and-kids/ada-camps/) are provided access. To ensure authentication, personally identifiable information (first name, last name, and a child's email address) are collected, along with the email address of a parent or legal guardian. This information is collected only for authentication purposes, and is securely stored, and never used for another purpose, and never shared with third-parties. It is our recommendation that children, especially children under 13, have an email account that is connected to their parent or guardian, so that the parent or guardian is notified about the child's email activity.
 
-Parents and legal guardians are encouraged to contact the American Diabetes. Association at any time regarding privacy questions or concern. Parents and legal guardians may also contact us at any time to request that we delete a child’s PlanetD-ID and/or CampDiabetes Message Board registration information and/or refuse to permit further access to the PlanetD and CampDiabetes Message Boards . We will take steps to ensure that any person contacting us for a child's information is that child's parent or guardian.
+Parents and legal guardians are encouraged to contact the American Diabetes. Association at any time regarding privacy questions or concern. Parents and legal guardians may also contact us at any time to request that we delete a child's PlanetD-ID and/or CampDiabetes Message Board registration information and/or refuse to permit further access to the PlanetD and CampDiabetes Message Boards . We will take steps to ensure that any person contacting us for a child's information is that child's parent or guardian.
 
 American Diabetes Association  
 1701 N, Beauregard Street  
@@ -122,6 +122,6 @@ Alexandria, VA 22311
 ATTN: Digital Marketing
 
   * Last Reviewed: September 30, 2014
-  * Last Edited: September 30, 2014
+  * Last Edited: January 20, 2016
 
 
