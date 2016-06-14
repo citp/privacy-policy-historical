@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dousaflavor.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330175431id_/http%3A//www.fritolay.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dousaflavor.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615003439id_/http%3A//www.fritolay.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ Click on one of the links above to go directly to a particular topic.  Or, you 
 
   **We use information for security purposes.** We may use information to protect our company, our customers, and our websites.
 
-**We use information for marketing purposes.** For example, we might send you information about new products and special offers. We might tell you about new promotions, features or updates. These might be third party offers or products we think you might find interesting.  We may also use push notifications on our mobile apps. To manage this, read the [“Your Choices”](http://www.fritolay.com/about-us/privacy-policy.html#your-choices-about-sharing-and-marketing-practices) section below.
+**We use information for marketing purposes.** For example, we might send you information about new products and special offers. We might tell you about new promotions, features or updates. These might be third party offers or products we think you might find interesting.  We may also use push notifications on our mobile apps. To manage this, read the “Your Choices” section below.
 
 **We use information to communicate with you about your account or our relationship.** We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms.
 
