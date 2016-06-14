@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basicneeds.in privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212172101id_/http%3A//www.basicneeds.in/page.php%3Fid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basicneeds.in privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614221711id_/http%3A//www.basicneeds.in/page.php%3Fid%3D3) for the most accurate reproduction.*
 
 # Privacy policy
 
