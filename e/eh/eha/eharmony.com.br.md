@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the eharmony.com.br privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224234831id_/http%3A//www.eharmony.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com.br privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614030622id_/http%3A//www.eharmony.com/privacy/policy) for the most accurate reproduction.*
 
 # eHarmony Privacy Policy - #1 Trusted Relationship Site
+
+*Based on a 1-month basic subscription plan of $59.95.
 
 eHarmony has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.eharmony.com, our mobile site m.eharmony.com and our eharmony mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@eHarmony.com](mailto:privacy@eHarmony.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
@@ -76,11 +78,11 @@ You may be able to access your account or content of your account from third par
 
 You may use the following options for removing your information, including an unauthorized profile, from our e-mail database if you wish to opt out of receiving promotional e-mails and newsletters.
 
-  1. Click on the “unsubscribe” link on the bottom of the e-mail;
+  1. Click on the "unsubscribe" link on the bottom of the e-mail;
   2. Send mail to the following postal address letting us know which promotional e-mails you wish to opt-out of:  
 eHarmony, Inc.  
-P.O. Box 3640  
-Santa Monica, CA 90408 USA
+P.O. Box 241810  
+Los Angeles, CA 90024 USA
   3. For the eHarmony Singles service, select our [Help link](http://help-singles.eharmony.com/app/answers/list_popular/?) from your account home page and search our [FAQ's](http://help-singles.eharmony.com/app/home) to find the answer you are looking for, or [send us an e-mail](https://help-singles.eharmony.com/app/answers/detail/a_id/1543/kw/contact/r_id/166) and our Customer Care agents will be happy to assist you; or
   4. For any services that allow you to control which e-mails you receive, go to the e-mail settings page from your account home page, and un-check the undesired promotions.
 
@@ -110,6 +112,6 @@ Your continued use of any portion of our website following posting of the update
 
 ## Effective Date
 
-This privacy statement was last revised on May 1, 2013.
+This privacy statement was last revised on May 12, 2016.
 
-Copyright © 2000-2013 eHarmony, Inc. All Rights Reserved. EHARMONY, COMPATIBILITY PROFILE, COMPATIBILITY MATCHING SYSTEM, 29 DIMENSIONS, EHARMONY LABS, SECURE CALL, PROFILE ADVISOR and several other marks, colors, and images are registered and common law trademarks of eHarmony, Inc. Other trademarks and brands are the property of their respective owners.
+Copyright © 2000-2016 eHarmony, Inc. All Rights Reserved. EHARMONY, COMPATIBILITY PROFILE, COMPATIBILITY MATCHING SYSTEM, 29 DIMENSIONS, EHARMONY LABS, SECURE CALL, PROFILE ADVISOR and several other marks, colors, and images are registered and common law trademarks of eHarmony, Inc. Other trademarks and brands are the property of their respective owners.
