@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022110122id_/http%3A//www.bjs.com/privacy-policy.content.about_privacy.A.about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614205425id_/http%3A//www.bjs.com/privacy-policy.content.about_privacy.A.about) for the most accurate reproduction.*
 
-# Privacy Policy - BJ's Wholesale Club
+# Privacy Policy - BJs Wholesale Club
 
 BJ’s respects your right to privacy. We appreciate that you care about how your information is collected, used and shared. These highlights briefly summarize: (1) how we collect information from or about you offline, on BJs.com and other web site(s) operated by or for BJ’s Wholesale Club, Inc. (“BJ’s Sites”) and in connection with your use of BJ’s Club wireless network service (“BJ’s Wifi”), (2) how we use and share that information, and (3) the choices you have with regard to the collection, use and sharing of that information.
 
