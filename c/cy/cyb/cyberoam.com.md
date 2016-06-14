@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cyberoam.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130030756id_/http%3A//www.cyberoam.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberoam.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614155425id_/http%3A//www.cyberoam.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Cyberoam Privacy Policy – Cyberoam
 
-This document was last updated on 1 July 2014.
+This document was last updated on 13th December 2015.
 
 **General**  
-This is the privacy policy of Cyberoam Technologies Pvt Ltd and Cyberoam Inc. Cyberoam is part of the Sophos group of companies.
+This is the privacy policy of **Sophos Technologies Private Limited** (Formerly known as “Cyberoam Technologies Private Limited”.) Hereinafter referred to as “ **Cyberoam** ” for sake of convenience. 
 
 We are committed to safeguarding the privacy of your personal data. Please read the following privacy policy to understand how we collect and use your personal data, for example when you contact us, visit one of our websites (each a “Site”), apply for a job, or use our products and services. 
 
@@ -53,7 +53,7 @@ If you participate in surveys, we may use your personal data to carry out market
 We (or our group companies, resellers and other selected third parties acting on our behalf) may contact you from time to time in order to provide you with information about products and services that may be of interest to you. You have the right to ask us not to process your personal data for marketing purposes, but if you do so, we may need to share your contact information with third parties for the limited purpose of ensuring that you do not receive marketing communications from them on our behalf.
 
 **Email communications**  
-Emails offering software downloads or free product trials of our products will usually link to web pages on www.cyberoam.com, customer.cyberoam.com, download.cyberoam.com, csc.cyberoam.com, kb.cyberoam.com, play.google.com, itunes.apple.com, <http://sourceforge.net/projects/cyberoam-iview/>,[www.sophos.com](http://www.sophos.com/), or www.web.sophos.com. If you receive an email which claims to come from us but does not use these domains, or if you are suspicious that an email may not be approved by us, then please send a copy of the email to us at [support@cyberoam.com](mailto:support@cyberoam.com)so we can investigate.
+Emails offering software downloads or free product trials of our products will usually link to web pages on www.cyberoam.com, customer.cyberoam.com, download.cyberoam.com, csc.cyberoam.com, kb.cyberoam.com, play.google.com, itunes.apple.com, <http://sourceforge.net/projects/cyberoam-iview/>,[www.sophos.com](http://www.sophos.com/), or www.web.sophos.com. If you receive an email which claims to come from us but does not use these domains, or if you are suspicious that an email may not be approved by us, then please send a copy of the email to us at [support@cyberoam.com](mailto:support@cyberoam.com) so we can investigate.
 
 We have published best practice guidelines to help internet users learn how to avoid phishing emails at <http://www.cyberoam.com/phishing.html>.
 
@@ -81,4 +81,7 @@ If you have been given log-in details to provide you with access to certain part
 If you want to request any information about your personal data or believe that we are holding incorrect personal data on you, please contact [support@cyberoam.com](mailto:support@cyberoam.com). It is possible to obtain a copy of the information that we hold on you. A nominal charge may be made to cover administrative costs involved.
 
 **Notification of changes**  
-This privacy policy was last updated on 1 July 2014. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, we have provided you with sufficient notice of the amendment or variation.
+This privacy policy was last updated on 13th December 2015. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, we have provided you with sufficient notice of the amendment or variation.
+
+Copyright © 1999 – 2015  
+Sophos Technologies Private Limited. All Rights reserved. 
