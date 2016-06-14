@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sojones.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215043832id_/http%3A//sojones.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sojones.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615013722id_/http%3A//sojones.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SoJones
 
@@ -95,3 +95,5 @@ SoJones.com expects its partners, advertisers and third-party affiliates to resp
 
 **SoJones is participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising:  [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/).**  
 
+
+echo adrotate_ad(58, true, 0, 0);
