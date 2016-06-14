@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzwize.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810153122id_/http%3A//buzzwize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzwize.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614053309id_/http%3A//buzzwize.com/privacy) for the most accurate reproduction.*
 
-# Privacy | BUZZWIZE
+# Privacy - BUZZWIZE
 
 This Privacy Policy describes the policies and procedures of BuzzWize, Inc. (“we”, “our” or “us”) on the collection, use and disclosure of your information on www.BuzzWize.com (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
