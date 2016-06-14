@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the houseofantiquehardware.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210014147id_/http%3A//www.houseofantiquehardware.com/s.nl/it.I/id.8/.f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofantiquehardware.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614104134id_/http%3A//www.houseofantiquehardware.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | House of Antique Hardware
 
 This site is owned and operated by House of Antique Hardware, Inc. Your privacy on the Internet is of the utmost importance to us. At House of Antique Hardware, Inc., we want to make your experience online satisfying and safe. 
 
