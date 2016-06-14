@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222151559id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614053537id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
 
 # iLounge Privacy Policy
 
@@ -20,51 +20,51 @@ Last updated 07|08|14
 
 ### Recent News
 
-  * [Apple speaks out against UK’s Investigatory Powers Bill](http://www.ilounge.com/index.php/news/comments/apple-speaks-out-against-uks-investigatory-powers-bill "Apple speaks out against UK’s Investigatory Powers Bill")
-  * [60 Minutes’ ‘Inside Apple’ touches on company culture, manufacturing, taxes + more](http://www.ilounge.com/index.php/news/comments/60-minutes-inside-apple-touches-on-company-culture-manufacturing-taxes-more "60 Minutes’ ‘Inside Apple’ touches on company culture, manufacturing, taxes + more")
-  * [Report: Apple to pay Ericsson 0.5 percent of iPhone/iPad revenue in patent deal](http://www.ilounge.com/index.php/news/comments/report-apple-to-pay-ericsson-0.5-percent-of-iphone-ipad-revenue-in-patent-d "Report: Apple to pay Ericsson 0.5 percent of iPhone/iPad revenue in patent deal")
-  * [Report: Apple to release accessibility-related accessories in early 2016](http://www.ilounge.com/index.php/news/comments/report-apple-to-release-accessibility-related-accessories-in-early-2016 "Report: Apple to release accessibility-related accessories in early 2016")
-  * [Apple Hi-Res Audio coming in 2016?](http://www.ilounge.com/index.php/news/comments/apple-hi-res-audio-coming-in-2016 "Apple Hi-Res Audio coming in 2016?")
+  * [Apple announces Swift Playgrounds for iPad, coming this fall](http://www.ilounge.com/index.php/news/comments/apple-announces-swift-playgrounds-for-ipad-coming-this-fall "Apple announces Swift Playgrounds for iPad, coming this fall")
+  * [Apple’s iOS 10: the ‘mother of all iOS updates’](http://www.ilounge.com/index.php/news/comments/apple-unveils-ios-10-the-mother-of-all-ios-updates "Apple’s iOS 10: the ‘mother of all iOS updates’")
+  * [Apple’s next tvOS update introduces Single Sign-On for cable authentication, Dark Mode + More](http://www.ilounge.com/index.php/news/comments/apples-next-tvos-update-introduces-single-sign-on-for-cable-authentication- "Apple’s next tvOS update introduces Single Sign-On for cable authentication, Dark Mode + More")
+  * [Apple announces watchOS 3](http://www.ilounge.com/index.php/news/comments/apple-announces-watchos-3 "Apple announces watchOS 3")
+  * [What to watch for during today’s WWDC Keynote](http://www.ilounge.com/index.php/news/comments/what-to-watch-for-during-todays-wwdc-keynote "What to watch for during today’s WWDC Keynote")
 
 
-  * [Apple Pay to launch in China via UnionPay](http://www.ilounge.com/index.php/news/comments/apple-pay-to-launch-in-china-via-unionpay "Apple Pay to launch in China via UnionPay")
-  * [Apple promotes Jeff Williams to Chief Operating Officer](http://www.ilounge.com/index.php/news/comments/apple-promotes-jeff-williams-to-chief-operating-officer "Apple promotes Jeff Williams to Chief Operating Officer")
-  * [Frogmind releases Badland 2](http://www.ilounge.com/index.php/news/comments/frogmind-releases-badlands-2 "Frogmind releases Badland 2")
-  * [NFL accepting bids from Apple, others to stream Thursday Night Football](http://www.ilounge.com/index.php/news/comments/nfl-accepting-bids-from-apple-others-to-stream-thursday-night-football "NFL accepting bids from Apple, others to stream Thursday Night Football")
-  * [Philips reverses course on Hue blocking of third-party bulbs](http://www.ilounge.com/index.php/news/comments/philips-reverses-course-on-hue-blocking-of-third-party-bulbs "Philips reverses course on Hue blocking of third-party bulbs")
+  * [BMW including CarPlay option in 2017 M3 and M4 models](http://www.ilounge.com/index.php/news/comments/bmw-including-carplay-option-in-2017-m3-and-m4-models "BMW including CarPlay option in 2017 M3 and M4 models")
+  * [Apple to use Intel modem chips in next iPhone](http://www.ilounge.com/index.php/news/comments/apple-to-use-intel-modem-chips-in-next-iphone "Apple to use Intel modem chips in next iPhone")
+  * [Rumor: Apple to release ‘Deep Blue’ iPhone 7 color option?](http://www.ilounge.com/index.php/news/comments/rumor-apple-to-release-deep-blue-iphone-7-color-option "Rumor: Apple to release ‘Deep Blue’ iPhone 7 color option?")
+  * [Rumor: Apple to announce iMessage for Android at WWDC next week?](http://www.ilounge.com/index.php/news/comments/rumor-apple-to-announce-imessage-for-android-at-wwdc-next-week "Rumor: Apple to announce iMessage for Android at WWDC next week?")
+  * [Report: Bluetooth 5 to be announced next week](http://www.ilounge.com/index.php/news/comments/report-bluetooth-5-to-be-announced-next-week "Report: Bluetooth 5 to be announced next week")
 
 
 
 ### Recent Reviews
 
-  * [SwitchEasy Coverbuddy for iPad Pro](http://www.ilounge.com/index.php/reviews/entry/switcheasy-coverbuddy-for-ipad-pro "SwitchEasy Coverbuddy for iPad Pro")
-  * [DODOcase Multi-Angle Case for iPad Pro](http://www.ilounge.com/index.php/reviews/entry/dodocase-multi-angle-case-for-ipad-pro "DODOcase Multi-Angle Case for iPad Pro")
-  * [Invoxia Triby Connected Kitchen Speaker](http://www.ilounge.com/index.php/reviews/entry/invoxia-triby-connected-kitchen-speaker "Invoxia Triby Connected Kitchen Speaker")
-  * [Logitech Harmony Elite Universal Remote Control](http://www.ilounge.com/index.php/reviews/entry/logitech-harmony-elite-remote-control "Logitech Harmony Elite Universal Remote Control")
-  * [Philips Hue Lightstrip Plus](http://www.ilounge.com/index.php/reviews/entry/philips-hue-lightstrip-plus "Philips Hue Lightstrip Plus")
+  * [Zagg Flex Arc Wireless Earbuds + Speakers](http://www.ilounge.com/index.php/reviews/entry/zagg-flex-arc-wireless-earbuds-speakers "Zagg Flex Arc Wireless Earbuds + Speakers")
+  * [Audio-Technica ATH-MSR7NC SonicPro Headphones with Active Noise Cancellation](http://www.ilounge.com/index.php/reviews/entry/audio-technica-ath-msr7nc-sonicpro-over-ear-headphones "Audio-Technica ATH-MSR7NC SonicPro Headphones with Active Noise Cancellation")
+  * [Twelve South BookBook for 12.9” iPad Pro](http://www.ilounge.com/index.php/reviews/entry/twelve-south-bookbook-for-12.9-ipad-pro "Twelve South BookBook for 12.9” iPad Pro")
+  * [Spigen Rugged Armor, Style Armor + Wallet S for iPhone SE](http://www.ilounge.com/index.php/reviews/entry/spigen-rugged-armor-style-armor-wallet-s-for-iphone-se "Spigen Rugged Armor, Style Armor + Wallet S for iPhone SE")
+  * [OtterBox Symmetry Series Hybrid Case for 12.9” iPad Pro](http://www.ilounge.com/index.php/reviews/entry/otterbox-symmetry-series-hybrid-case-for-12.9-ipad-pro "OtterBox Symmetry Series Hybrid Case for 12.9” iPad Pro")
 
 
-  * [Philips Hue Go Portable Connected Lamp](http://www.ilounge.com/index.php/reviews/entry/philips-hue-go-portable-connected-lamp "Philips Hue Go Portable Connected Lamp")
-  * [Apple iPhone 6s Smart Battery Case](http://www.ilounge.com/index.php/reviews/entry/apple-iphone-6s-smart-battery-case "Apple iPhone 6s Smart Battery Case")
-  * [Philips Hue HomeKit Bridge, White and Color Ambiance Starter Kit, White Starter Kit](http://www.ilounge.com/index.php/reviews/entry/philips-hue-white-and-color-ambiance-starter-kit-a19 "Philips Hue HomeKit Bridge, White and Color Ambiance Starter Kit, White Starter Kit")
-  * [Apple Watch Magnetic Charging Dock](http://www.ilounge.com/index.php/reviews/entry/apple-watch-magnetic-charging-dock "Apple Watch Magnetic Charging Dock")
-  * [Incipio Performance Series for iPhone 6/6s](http://www.ilounge.com/index.php/reviews/entry/incipio-performance-series-for-iphone-6-6s "Incipio Performance Series for iPhone 6/6s")
+  * [Logitech Logi BASE Charging Stand for iPad Pro](http://www.ilounge.com/index.php/reviews/entry/logitech-logi-base-charging-stand-for-ipad-pro "Logitech Logi BASE Charging Stand for iPad Pro")
+  * [Twelve South TimePorter for Apple Watch](http://www.ilounge.com/index.php/reviews/entry/twelve-south-timeporter-for-apple-watch "Twelve South TimePorter for Apple Watch")
+  * [August Doorbell Cam](http://www.ilounge.com/index.php/reviews/entry/august-doorbell-cam "August Doorbell Cam")
+  * [August Smart Lock HomeKit enabled + Smart Keypad](http://www.ilounge.com/index.php/reviews/entry/august-smart-lock-homekit-enabled-smart-keypad "August Smart Lock HomeKit enabled + Smart Keypad")
+  * [ecobee3 HomeKit-enabled smart Wi-Fi thermostat](http://www.ilounge.com/index.php/reviews/entry/ecobee3-homekit-enabled-smart-wi-fi-thermostat "ecobee3 HomeKit-enabled smart Wi-Fi thermostat")
 
 
 
 ### Recent Articles
+
+  * [Filling the Gap: A look at third-party HomeKit apps](http://www.ilounge.com/index.php/articles/comments/filling-the-gap-a-look-at-third-party-homekit-apps "Filling the Gap: A look at third-party HomeKit apps")
+  * [Instant Expert: Secrets & Features of tvOS 9.2](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-tvos-9.2 "Instant Expert: Secrets & Features of tvOS 9.2")
+  * [Instant Expert: Secrets & Features of iOS 9.3](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-ios-9.3 "Instant Expert: Secrets & Features of iOS 9.3")
+  * [Opinion: Why Apple needs a dedicated HomeKit app](http://www.ilounge.com/index.php/articles/comments/opinion-why-apple-needs-a-dedicated-homekit-app "Opinion: Why Apple needs a dedicated HomeKit app")
+  * [Inside the betas: What’s new in iOS 9.3 and tvOS 9.2 (Updated)](http://www.ilounge.com/index.php/articles/comments/whats-new-in-ios-9.3-and-tvos-9.2 "Inside the betas: What’s new in iOS 9.3 and tvOS 9.2 \(Updated\)")
+
 
   * [Life with HomeKit: Our experiences with Apple’s home automation system](http://www.ilounge.com/index.php/articles/comments/life-with-homekit-our-experiences-with-apples-home-automation-system "Life with HomeKit: Our experiences with Apple’s home automation system")
   * [Under the Radar: 10 ‘hidden’ details about the new Apple TV](http://www.ilounge.com/index.php/articles/comments/under-the-radar-10-hidden-details-about-the-new-apple-tv "Under the Radar: 10 ‘hidden’ details about the new Apple TV")
   * [Instant Expert: Secrets & Features of iOS 9.0](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-ios-9.0 "Instant Expert: Secrets & Features of iOS 9.0")
   * [Under the Radar: A closer look at smaller iPhone 6s and iPhone 6s Plus changes](http://www.ilounge.com/index.php/articles/comments/under-the-radar-a-closer-look-at-overlooked-iphone-6s-and-iphone-6s-plus-ch "Under the Radar: A closer look at smaller iPhone 6s and iPhone 6s Plus changes")
   * [A First Look at iOS 9’s Transit in Apple Maps (Updated for watchOS 2)](http://www.ilounge.com/index.php/articles/comments/a-first-look-at-ios-9s-transit-in-apple-maps "A First Look at iOS 9’s Transit in Apple Maps \(Updated for watchOS 2\)")
-
-
-  * [Instant Expert: Secrets & Features of iTunes 12.2](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-itunes-12.2 "Instant Expert: Secrets & Features of iTunes 12.2")
-  * [Instant Expert: Secrets & Features of iOS 8.4 + Apple Music](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-ios-8.4 "Instant Expert: Secrets & Features of iOS 8.4 + Apple Music")
-  * [CE Week 2015: IK Multimedia, Monowear’s Apple Watch bands + More](http://www.ilounge.com/index.php/articles/comments/ce-week-2015-ik-multimedia-monowears-apple-watch-bands-more "CE Week 2015: IK Multimedia, Monowear’s Apple Watch bands + More")
-  * [Live From CE Week 2015: Brand New iPad, iPhone + Mac Accessories!](http://www.ilounge.com/index.php/articles/comments/live-from-ce-week-2015-brand-new-ipad-iphone-mac-accessories "Live From CE Week 2015: Brand New iPad, iPhone + Mac Accessories!")
-  * [Opinion: The ‘Grand Experiment’ of shifting to Google Photos](http://www.ilounge.com/index.php/articles/comments/opinion-the-grand-experiment-of-shifting-to-google-photos "Opinion: The ‘Grand Experiment’ of shifting to Google Photos")
 
 
