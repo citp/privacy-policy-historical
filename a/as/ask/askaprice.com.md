@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214143430id_/http%3A//www.askaprice.com/about/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614070223id_/http%3A//www.askaprice.com/about/privacy-cookies) for the most accurate reproduction.*
 
 # Askaprice.com Privacy Statement & Cookie Policy
 
