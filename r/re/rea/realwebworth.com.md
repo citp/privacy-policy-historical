@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realwebworth.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201194526id_/http%3A//realwebworth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realwebworth.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614041033id_/http%3A//realwebworth.com/privacy.html) for the most accurate reproduction.*
 
 # Website Worth & Website Value Calculator! | RealWebWorth.com
 
