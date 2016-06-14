@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the livechart.me privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908080717id_/https%3A//www.livechart.me/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livechart.me privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615011154id_/https%3A//www.livechart.me/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | LiveChart
+# Privacy Policy | LiveChart.me
 
-LAST REVISED ON: February 20th, 2015
+LAST REVISED ON: **December 25th, 2015**
 
-This Privacy Policy ( **“Policy”** ) describes how your personal information is collected, used, and disclosed by **LiveChart** and its related companies ( **“LiveChart”** or **“We”** or **“Us”** ). This Policy applies to the LiveChart websites available at livechart.me or any of our other websites that post this Policy (the **“Site”** ), LiveChart’s mobile applications ( **“Apps”** ), and our online services (the **“Services”** ). This Policy does not apply to websites or mobile applications that post different statements.
+This Privacy Policy ( **“Policy”** ) describes how your personal information is collected, used, and disclosed by **LiveChart.me** and its related companies ( **“LiveChart”** or **“LiveChart.me”** or **“We”** or **“Us”** ). This Policy applies to the LiveChart.me websites available at livechart.me or any of our other websites that post this Policy (the **“Site”** ), LiveChart.me’s mobile applications ( **“Apps”** ), and our online services (the **“Services”** ). This Policy does not apply to websites or mobile applications that post different statements.
 
-## WHAT WE COLLECT
+#### WHAT WE COLLECT
 
 We collect information about you in a range of ways.
 
-### Information You Give Us.
+##### Information You Give Us.
 
 We collect any personal information you provide to us. For example, you may provide us your name, email address, date of birth, username, demographic information (such as your gender and occupation), precise location-based data and venue preferences, or other information you directly give us on the Services.
 
-### Information Automatically Collected.
+##### Information Automatically Collected.
 
 We automatically log information about you and your computer. For example, when visiting our Site, we log your computer operating system type,‎ browser type,‎ browser language,‎ the website you visited before browsing to our Site,‎ pages you viewed,‎ how long you spent on a page,‎ access times,‎ Internet protocol (IP) address and information about your use of and actions on our Site.
 
@@ -41,7 +41,7 @@ Clicking on any such adverts will send you to the advertisers website through a 
 
 
 
-### USE OF PERSONAL INFORMATION
+##### USE OF PERSONAL INFORMATION
 
 We use personal information collected through our Services, or disclosed by you on our Site or in connection with our Services, for the purposes described in this Policy. For example, we may use your information to:
 
@@ -53,27 +53,27 @@ We use personal information collected through our Services, or disclosed by you 
 
 
 
-### SHARING OF PERSONAL INFORMATION
+##### SHARING OF PERSONAL INFORMATION
 
 We do not share your personal information other than as follows:
 
   * With third party vendors, consultants and other service providers who work for us and need access to your information to do that work;
   * At your request, in the event that you opt in to receive a service or a product from a third party;
   * As required or permitted by law;
-  * To protect the rights and property of LiveChart, our agents, users, and others including to enforce our agreements, policies, and terms of use;
+  * To protect the rights and property of LiveChart.me, our agents, users, and others including to enforce our agreements, policies, and terms of use;
   * In an emergency to protect the personal safety of its users or any person;
   * In connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction or proceeding involving sale, transfer, divestiture or disclosure of all or a portion of our business or assets to another company.
 
 
 
-### SECURITY OF PERSONAL INFORMATION
+##### SECURITY OF PERSONAL INFORMATION
 
 We use reasonable efforts to safeguard the confidentiality of your personally identifiable information. Unfortunately, it is impossible to guarantee the security of data transmission over the Internet or any wireless network. Therefore, although we take reasonable measures to protect your information, we cannot ensure the security of any information you transmit to us and you do so at your own risk. Once we receive your information, we will use reasonable efforts to ensure its security on our systems. We may provide links to third parties’ websites, which we do not control. We are not responsible for information that you provide to those third-party sites. We recommend that you review the privacy policies if any provided at those sites.
 
-### CONTACT INFORMATION
+##### CONTACT INFORMATION
 
-We welcome your comments or questions about this Privacy Policy. If you have any queries in regards to your privacy, you may contact us using the contact form on our [contact us](https://web.archive.org/contact) page.
+We welcome your comments or questions about this Privacy Policy. If you have any queries in regards to your privacy, our contact information is available on our [contact](https://web.archive.org/contact) page.
 
-### CHANGES TO THIS PRIVACY POLICY
+##### CHANGES TO THIS PRIVACY POLICY
 
 We may change this Policy from time to time. If we make any changes to this Policy, we will change the Last Revised date above.
