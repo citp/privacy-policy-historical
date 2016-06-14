@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the temptalia.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207125614id_/http%3A//www.temptalia.com/temptaliacom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temptalia.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614233840id_/http%3A//www.temptalia.com/temptaliacom-privacy-policy) for the most accurate reproduction.*
 
 # Temptalia.com Privacy Policy
 
@@ -13,7 +13,7 @@ The privacy of our visitors to Temptalia LLC is important to us.  At Temptali
 
 **Personally Identifiable Information**.  We collect personally identifiable information (also known as PII), like names, postal addresses, email addresses, and any other information required to fulfill an obligation to the user when voluntarily submitted by a user.  For example, mailing information is required to award giveaway prizes to winners, but this information is never used or sold for any additional purpose beyond fulfilling the prize or to respond to e-mails sent voluntarily by users such as feedback, questions, and technical support.  Personally identifiable information is used solely to address your specific request and is not sold to third parties or market researchers.  We never sell your personally identifiable information (PII) to third parties.
 
-(a) Distribution of Personally Identifiable Information.  We may share personally identifiable information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. Personally identifiable information is not provided to these companies for marketing purposes.
+(a) Distribution of Personally Identifiable Information.  We may be required by law to share personally identifiable information with government agencies, law enforcement, or parties to civil or criminal lawsuits. To reveal collected user information, we require a validly issued subpoena, warrant, or court under that specifically requests the information sought (it should not be overly broad or vague) unless we have a good faith belief there is an emergency involving death or serious physical injury. All requests should comply with Rule 45 of the Federal Rules of Civil Procedure and the US SPEECH Act, 28 U.S.C. 4101 et seq. 
 
 (b) Commitment to Data Security.  Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. When signing up for our newsletter, we require double opt-in, and all mailing lists from this site allow you to opt out of further mailings.
 
@@ -25,7 +25,7 @@ The privacy of our visitors to Temptalia LLC is important to us.  At Temptali
 
 (b) Disabling Cookies.  You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as browser add-ins, plug-ins, anti-virus software and suits, and so forth.  Disabling cookies may affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts or to leverage faster browsing through caching methods. To learn more about this behavioral advertising practice visit the **[NAI](http://www.networkadvertising.org/)**. To opt-out of this type of advertising, you can visit **<http://www.aboutads.info/choices>**.  Please note, if you use multiple devices and/or browsers, you will need to disable cookies across all of them.
 
-**Effective Date** :  August 15th, 2009, **Last Updated** : September 10th, 2015
+**Effective Date** :  August 15th, 2009, **Last Updated** : February 7th, 2016
 
 ### **Privacy Contact Information**
 
