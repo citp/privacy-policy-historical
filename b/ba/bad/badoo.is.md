@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badoo.is privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225042508id_/http%3A//badoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badoo.is privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614221629id_/http%3A//badoo.com/privacy) for the most accurate reproduction.*
 
 # Badoo's Privacy Policy
 
@@ -6,7 +6,7 @@ This policy and any dispute or claim arising out of or in connection with it or 
 
 ## What’s this all about then?
 
-Hello (again, if you clicked through to here from our [Terms and Conditions of Use](http://badoo.com/terms/)). You should read this privacy policy because it will tell you exactly how your personal data is being looked after by Badoo and that’s a pretty important thing for you to know. Here are the topics that we cover:
+Hello (again, if you clicked through to here from our [Terms and Conditions of Use](https://badoo.com/terms/)). You should read this privacy policy because it will tell you exactly how your personal data is being looked after by Badoo and that’s a pretty important thing for you to know. Here are the topics that we cover:
 
   1. What information we collect and how we collect it
   2. How we use the information and who we share it with
@@ -23,7 +23,7 @@ Badoo is operated by Badoo Trading Limited, a company registered in England at M
 
 We know that other people’s use of your personal data is a big concern for social network users, so we at Badoo have developed this privacy policy (the “ **Policy** ”) to let you know how we use personal information (‘personal data’ or ‘personal information’).
 
-Our Policy applies to your use of the Badoo website at www.badoo.com (“ **Badoo** ” or the “ **site** ” which includes the mobile apps). We suggest you read it in conjunction with our [Terms and Conditions of Use](http://badoo.com/terms/) (the “ **Terms** ”). When you access or use Badoo, you agree to our Privacy Policy and you consent to our collection, storage, use and disclosure of your personal information as we’ve set out in this Policy.
+Our Policy applies to your use of the Badoo website at www.badoo.com (“ **Badoo** ” or the “ **site** ” which includes the mobile apps). We suggest you read it in conjunction with our [Terms and Conditions of Use](https://badoo.com/terms/) (the “ **Terms** ”). When you access or use Badoo, you agree to our Privacy Policy and you consent to our collection, storage, use and disclosure of your personal information as we’ve set out in this Policy.
 
 Badoo reserves the right to change our Policy at any time and without notice, so be sure to check this Policy regularly to understand how we use your information.
 
@@ -39,7 +39,7 @@ To join the Badoo network you will have to complete our online registration form
 
 Once you have created a Profile, we will automatically track certain information such as your IP and email addresses. We may from time to time allow our employees to use the product for testing and user engagement purposes.
 
-For safety and security and to ensure you have the best possible user experience, we require users to verify their accounts (because we want to make sure you are not a robot!) and might ask for your phone number. Don’t worry! This is only to make sure you are real and breathing!
+For safety and security and to ensure you have the best possible user experience, we require users to verify their accounts (because we want to make sure you are not a robot!) and might ask for your phone number. Don’t worry! This is only to make sure you are real and breathing! We won't use your phone number for marketing purposes.
 
 ### What information does Badoo collect about me if I’m under 18?
 
@@ -51,11 +51,11 @@ No. We don’t collect any personal information about visitors to our site. If y
 
 ### If I put other information about me on the site, what does Badoo do with it?
 
-Badoo is designed to make it easy for you to find, connect and interact with other members of Badoo by posting information about yourself. When using the App you should assume that anything you post or submit will be publicly viewable and accessible, both by Users of the App and non-Users of the App. For example, to make it easier to find other Badooers and connect with them, we have allowed you to share other users' profiles on Facebook. This feature can be turned off in your settings at any time. You can also use our electronic messaging system, which allows you to communicate with other users. We recommend and encourage you (and all our members) to think carefully about the information they disclose about themselves, and suggest you follow our [Guidelines and Safety Tips](http://badoo.com/guidelines/). We also do not recommend that you put email addresses, URLs, instant messaging details, phone numbers, full names or addresses, credit card details, national identity numbers, drivers’ licence details and other sensitive information in your Profile which is open to abuse and misuse.
+Badoo is designed to make it easy for you to find, connect and interact with other members of Badoo by posting information about yourself. When using the App you should assume that anything you post or submit will be publicly viewable and accessible, both by Users of the App and non-Users of the App. For example, to make it easier to find other Badooers and connect with them, we have allowed you to share other users' profiles on Facebook. This feature can be turned off in your settings at any time. You can also use our electronic messaging system, which allows you to communicate with other users. We recommend and encourage you (and all our members) to think carefully about the information they disclose about themselves, and suggest you follow our [Guidelines and Safety Tips](https://badoo.com/guidelines/). We also do not recommend that you put email addresses, URLs, instant messaging details, phone numbers, full names or addresses, credit card details, national identity numbers, drivers’ licence details and other sensitive information in your Profile which is open to abuse and misuse.
 
 Please be careful about posting sensitive details about yourself on you Profile such as your religious denomination and health details. While you may voluntarily provide this information to us when you create your Profile, including your sexual preferences and ethnic background, there is no requirement to do so. Please remember that photographs or any video clips that you post on Badoo may reveal these kinds of sensitive personal data. Where you do upload and choose to tell us sensitive information about yourself, you are explicitly consenting to our processing your information and making this public to other users.
 
-When you post information about yourself or use the messaging, the amount of personal information you share is at your own risk. If you post anything that is inconsistent with our [Terms and Conditions of Use](http://badoo.com/terms/), we reserve the right to terminate your account.
+When you post information about yourself or use the messaging, the amount of personal information you share is at your own risk. If you post anything that is inconsistent with our [Terms and Conditions of Use](https://badoo.com/terms/), we reserve the right to terminate your account.
 
 ### What does Badoo collect about me if I use the mobile app?
 
@@ -93,7 +93,7 @@ If you have created a Badoo profile through a partner website and you do not wan
 
 ### Does Badoo collect any other personal information about me?
 
-If you contact our Customer Support team via [Feedback page](http://badoo.com/feedback/), we will receive your email address, and may track your IP address as well as the information you send to us to help resolve your query. We will keep records of our communications with you, including any complaints that we receive from you about other users (and from other users about you).
+If you contact our Customer Support team via [Feedback page](https://badoo.com/feedback/), we will receive your email address, and may track your IP address as well as the information you send to us to help resolve your query. We will keep records of our communications with you, including any complaints that we receive from you about other users (and from other users about you).
 
 ### Will Badoo contact me?
 
@@ -103,7 +103,7 @@ On your “Settings” page Badoo offers you the opportunity to receive emails f
 
 We may use material that you post on the open access areas of Badoo in advertising and promotional materials on our partner sites and partner products. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs.
 
-We use your personal information to resolve disputes, troubleshoot problems and enforce our [Terms and Conditions of Use](http://badoo.com/terms/).
+We use your personal information to resolve disputes, troubleshoot problems and enforce our [Terms and Conditions of Use](https://badoo.com/terms/).
 
 ### What are 'cookies' and what 'cookies' does Badoo use?
 
@@ -164,7 +164,7 @@ To ensure you get to meet as many people as possible on Badoo, other members get
 
 ### What am I allowed to do with other user’s personal information?
 
-Use it to meet new friends and make new contacts! Beware that you may not use other users' information for commercial purposes, to spam, to harass, or to make unlawful threats. Badoo reserves the right to terminate the accounts of those who misuse other users' information or who otherwise violate the [Terms and Conditions of Use](http://badoo.com/terms/).
+Use it to meet new friends and make new contacts! Beware that you may not use other users' information for commercial purposes, to spam, to harass, or to make unlawful threats. Badoo reserves the right to terminate the accounts of those who misuse other users' information or who otherwise violate the [Terms and Conditions of Use](https://badoo.com/terms/).
 
 ### What information does Badoo collect about my friends and contacts?
 
@@ -208,7 +208,7 @@ We cannot guarantee the security of your personal data while it is being transmi
 
 ### How do I help keep my information secure?
 
-You may not disclose your password to any third parties or share it with any third parties. If you lose your password or give it out, your personal information may be compromised. If that happens, please report it to Support via [Feedback page](http://badoo.com/feedback/). You must change your password immediately via your “Settings” page. Badoo cannot be held responsible for your failure to keep your password secure and failure to do so may violate our [Terms and Conditions of Use](http://badoo.com/terms/).
+You may not disclose your password to any third parties or share it with any third parties. If you lose your password or give it out, your personal information may be compromised. If that happens, please report it to Support via [Feedback page](https://badoo.com/feedback/). You must change your password immediately via your “Settings” page. Badoo cannot be held responsible for your failure to keep your password secure and failure to do so may violate our [Terms and Conditions of Use](https://badoo.com/terms/).
 
 ## 6\. Your rights
 
@@ -225,13 +225,13 @@ You can review and revise your profile information at any time. Once you registe
 
 Please promptly update your information if it changes by signing-in to your account and following the screen prompts. We strongly urge you to periodically change your password to help reduce the risk of unauthorised access to your account information.
 
-Users in certain jurisdictions are, in accordance with applicable law, entitled to exercise a right of access to personal information about themselves by asking for a copy of the information we hold about them (for which, where allowed by law, we may charge a small fee). Please put any such request in writing and using our contact form: [Feedback](http://badoo.com/feedback/).
+Users in certain jurisdictions are, in accordance with applicable law, entitled to exercise a right of access to personal information about themselves by asking for a copy of the information we hold about them (for which, where allowed by law, we may charge a small fee). Please put any such request in writing and using our contact form: [Feedback](https://badoo.com/feedback/).
 
 ### Can I deactivate or delete my Profile?
 
 Users of the Badoo network have the following choices to delete their profile from our database:
 
-  1. Send a message via [Feedback page](http://badoo.com/feedback/)
+  1. Send a message via [Feedback page](https://badoo.com/feedback/)
   2. Sign in with your password and delete your profile. These options are available from your “Settings” page.
 
 
@@ -240,7 +240,7 @@ If you want to stop using your account it will be initially deactivated. This me
 
 After the expiration of 30 days, your account is permanently deleted from Badoo. We delete photographs from our servers within 14 days from the expiration of the deactivation period while other information (such as contact history) is deleted by us over a longer timescale, by way of housekeeping on a periodic basis. You should only delete your account if you are certain you never want to restore it.
 
-To prevent abuse and/or misuse of Badoo by a user following termination or deletion of a profile/account we shall retain such information as we deem in our sole discretion may be necessary to ensure that user does not open a new account and profile in breach of our [Terms and Conditions of Use](http://badoo.com/terms/) and to ensure compliance with all laws and regulations.
+To prevent abuse and/or misuse of Badoo by a user following termination or deletion of a profile/account we shall retain such information as we deem in our sole discretion may be necessary to ensure that user does not open a new account and profile in breach of our [Terms and Conditions of Use](https://badoo.com/terms/) and to ensure compliance with all laws and regulations.
 
 **Warning:** Even after you remove information from your profile or delete your account, copies of that information may still be viewable and/or accessed on the Internet to the extent such information has been previously shared with others, or copied or stored by other users or to the extent such information has been shared with search engines. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information they may retain such information to the extent permitted under their terms of service or privacy policies.
 
@@ -252,6 +252,6 @@ If you have not signed in to Badoo for three months, we may remove your Profile 
 
 Your Badoo account is non-transferable and any rights to your profile or contents within your account will be cancelled upon your death.
 
-If you have questions about our Privacy Policy or how we collect and use information, drop us a line via [Feedback page](http://badoo.com/feedback/).
+If you have questions about our Privacy Policy or how we collect and use information, drop us a line via [Feedback page](https://badoo.com/feedback/).
 
 This Privacy Policy was last updated on 8 June 2015.
