@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the kraftcanada.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226003550id_/http%3A//www.kraftcanada.com/privacypromise) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftcanada.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614213845id_/http%3A//www.kraftcanada.com/privacypromise) for the most accurate reproduction.*
 
 # Privacy - Kraft Canada
+
+Effective Date: September 17, 2015
+
+Here at Kraft Canada, we recognize that many consumers are concerned about the personal information they provide to us and how we treat that information. That's why we've developed a Privacy Promise to address those concerns.
+
+If you have any questions or concerns about our Privacy Promise or if you wish to view your personal information file, change or correct your information or have it deleted, you can contact us at:
+
+Kraft Canada Privacy Officer  
+Kraft Canada Inc.  
+95 Moatfield Drive  
+Don Mills, ON  
+M3B 3L6
+
+Or send us an [](http://kraftcanada-en.custhelp.com/app/answers/list)[e-mail](http://kraftcanada-en.custhelp.com/app/answers/list). We'll be happy to answers your questions or hear your concerns.
+
+Or call us at  **1-800-567-KRAFT**  (9 a.m.-9 p.m. Eastern Time, Monday through Friday.)
+
+## Our Policy
 
 This Policy covers Kraft Canada’s collection and use of consumers’ personal information.
 
@@ -9,7 +27,7 @@ At Kraft Canada, we collect personal information from consumers via direct mail,
 
  **Registration**
 
-To take full advantage of our offers, you may choose to register on our sites. In the registration process, we request certain information (such as your contact information, age, interests and preferences) so we can provide you with the communications you request, tailor our websites to better meet your needs and customize our contacts with you. 
+To take full advantage of our offers, you may choose to register on our sites. In the registration process, we request certain information (such as your contact information, age, interests and preferences) so we can provide you with the communications you request, tailor our websites to better meet your needs and customize our contacts with you.
 
 **Contests, Sweepstakes and Games**
 
@@ -45,11 +63,15 @@ We may also communicate directly with you via other methods such as direct mail,
 
 **Information Collected By Automated Means**
 
-We may use cookies, web beacons/pixel tags, log files, barcodes and other technologies to collect certain information about visitors to our websites, use of our online services, coupon redemptions and interactions with our emails and online advertisements. For example, through these means, we may collect your browser type and operating system, viewed webpages, links that are clicked, IP address, sites visited before coming to our website, emails we send that you open, forward, or click through to our website. Or we may track redemptions of coupons downloaded from a Kraft Canada website.  Collecting this information, and linking it with your personal information, helps us to best tailor our websites and enhance your online experience by saving your preferences while you are visiting a particular site, and to help identify products, site features, recipes, advertisements, and offers that may be of particular interest to you.
+We may use cookies, web beacons/pixel tags, log files, barcodes and other technologies to collect certain information about visitors to our websites, use of our online services, coupon redemptions and interactions with our emails and online advertisements. For example, through these means, we may collect your browser type and operating system, viewed webpages, links that are clicked, IP address, sites visited before coming to our website, emails we send that you open, forward, or click through to our website. Or we may track redemptions of coupons downloaded from a Kraft Canada website. Collecting this information, and linking it with your personal information, helps us to best tailor our websites and enhance your online experience by saving your preferences while you are visiting a particular site, and to help identify products, site features, recipes, advertisements, and offers that may be of particular interest to you.
 
-We also may use third party advertisements placed by ad networks to support our sites. Some of these advertisers and ad networks may use technology such as cookies and web beacons/pixel tags when they advertise on our sites, which will also send these advertisers and ad networks information including your IP address, your ISP, the browser you used to visit our sites, and whether you have Flash installed. Some of these advertisers and ad networks also may use anonymous data, such as demographic data, received from third parties to assist in the delivery of advertisements to you. These advertisers and ad networks use the information described above to provide you relevant advertisements from third parties when you are on Kraft Canada websites, or Kraft Canada advertisements when you are on participating third party websites, based on your online behavior, search activities on our sites and on other third party sites, demographic information and/or relevant to your general location, so that the advertising you see on our sites and third party sites more closely reflects your interests and needs. For example, if you search for, or browse, a recipe or product on our site, you may see an advertisement from a third party with information about, or an offer similar to, that for which you were searching or browsing on our site, or an offer related to a third party whose site you have visited in the past. We adhere to the Digital Advertising Alliance of Canada’s Self-Regulatory Principles for Online Behavioral Advertising.
+We also may use third party advertisements placed by ad networks to support our sites. Some of these advertisers and ad networks may use technology such as cookies and web beacons/pixel tags when they advertise on our sites, which will also send these advertisers and ad networks information including your IP address, your ISP, the browser you used to visit our sites, and whether you have Flash installed. Kraft Canada as well as some of these advertisers and ad networks also may use anonymous data, such as demographic data, received from third parties to assist in the delivery of advertisements to you.
 
-You can set your Internet browser settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, and to omit images (which will disable pixel tags). Note that the opt-out will apply only to the browser that you are using when you elect to opt out of advertising cookies. You can learn more about and opt out from receiving third party advertiser cookies by visiting the Digital Advertising Alliance of Canada’s opt-out page [here](http://youradchoices.ca/choices). Without cookies or pixel tags though, you may not be able to take full advantage of all of Kraft Canada’s website features.
+These advertisers and ad networks use the information described above to provide you relevant advertisements from third parties when you are on Kraft Canada websites, or Kraft Canada advertisements when you are on participating third party websites, based on your online behavior, search activities on our sites and on other third party sites, demographic information and/or relevant to your general location, so that the advertising you see on our sites and third party sites more closely reflects your interests and needs. For example, if you search for, or browse, a recipe or product on our site, you may see an advertisement from a third party with information about, or an offer similar to, that for which you were searching or browsing on our site, or an offer related to a third party whose site you have visited in the past. You may also see a Kraft Canada advertisement on a third party’s website. We adhere to the Digital Advertising Alliance of Canada’s Self-Regulatory Principles for Online Behavioral Advertising.
+
+You can set your Internet browser settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, and to omit images (which will disable pixel tags). Note that the opt-out will apply only to the browser that you are using when you elect to opt out of advertising cookies. Without cookies or pixel tags though, you may not be able to take full advantage of all of Kraft Canada’s website features. Note, however, that our systems may not be able to recognize Do Not Track (DNT) headers from some or all browsers. 
+
+You can learn more about third party advertiser cookies by visiting the Digital Advertising Alliance of Canada’s page [here](http://youradchoices.ca/). If you would like to see which third parties are collecting information on our website and/or to opt out of some or all collection, please see more information  [here](http://info.evidon.com/pub_info/6092?v=1). For more information about your ability to opt-out of advertising that uses your personal information, you may also contact our Privacy Officer. Please note that even if you opt-out, you may still see Kraft Canada advertisements; however such advertisements are not displayed to you based on your personal information.
 
 **Information Collected From Other Sources**
 
@@ -57,7 +79,15 @@ We may obtain information about you from other sources, including commercially a
 
 **How We Use Your Information**
 
-We may use the information we collect to contact you from time to time. For example, we may (i) send you promotional offers, materials, and other communications and information about Kraft Canada, its portfolio of brands and its partners, (ii) respond to your comments or questions, or (iii) contact you if needed while processing a product or service you requested through our website. We also may use the information you provide to contact you for your opinions on Kraft Canada products, services or websites. As described in this Privacy Promise, we also use the information we collect about you to improve our website, products and services, and to deliver content that is customized to your interests.  We may make your information anonymous, so that it is no longer personally identifiable, and use that information for our consumer research and analysis purposes.
+We may use the information we collect to contact you from time to time. For example, we may send you promotional offers, materials, and other communications and information about Kraft Canada, its portfolio of brands and its partners. You may receive these communications in advertising that is directed to you via third party sites and media platforms, including social media. We may respond to your comments or questions, or contact you if needed while processing a product or service you requested through our websites. We also may use the information you provide to contact you for your opinions on Kraft Canada products, services or websites. As described in this Privacy Promise, we also use the information we collect about you to improve our website, products and services, and to deliver content that is customized to your interests. We may make your information anonymous, so that it is no longer personally identifiable, and use that information for our consumer research and analysis purposes.
+
+**SHARING YOUR INFORMATION**
+
+We will not share any information you give us with anyone outside of Kraft except as described in this policy. We do not share your personal information with unaffiliated third parties for their own marketing purposes unless you consent to such sharing. We may share your information with our parent and affiliated companies among the Kraft Heinz group of companies in order to provide the services you have requested, or to process or use the information as described in this Privacy Promise. We may also share your information when required or permitted by law, and with those suppliers, or advertising and promotional agencies that need to have access to the information to provide the services you have requested. 
+
+We may conduct joint promotions with other companies. We may share with our promotional partners (and their service providers) certain personal information as necessary to conduct the promotion. We will not share this information with our promotional partners for any other purpose unless you consent to such sharing.
+
+In limited circumstances we may also transfer your information to potential buyers of all or a portion of any Kraft Heinz business or other assets. In that case, we will use contractual means to ensure the potential buyers promise to keep your information secure, and, if the sale or transfer proceeds, to only use the information for the purposes for which you disclosed it and in a manner consistent with this Privacy Promise. In addition, if any bankruptcy or reorganization proceeding is brought by or against us; such information may be considered an asset of ours and may be sold or transferred to third parties. Should a sale or transfer occur, we will use reasonable efforts to try to require that the transferee to only use the information for the purposes for which you disclosed it and in a manner consistent with this Privacy Promise.
 
 **YOUR CONSENT**
 
@@ -65,13 +95,7 @@ By visiting a Kraft Canada website or participating in Kraft Canada activities y
 
 **CHANGING INFORMATION**
 
-If you're registered and logged onto Kraftcanada.com , you can always change your preference for follow-up contacts, or advise us of changes in your circumstances (such as address) just by [clicking here](http://www.kraftcanada.com/en/registration/myprofile.aspx) and editing your profile. If you're not registered on the site but receive communications from Kraft and wish to change your contact information, you can send us an email or write to us (see our contact details at top of page).
-
-**SHARING YOUR INFORMATION**
-
-We will not share any information you give us with anyone outside of Kraft except when required or permitted by law, and with those suppliers, or advertising and promotional agencies that need to have access to the information to provide the services you have requested. 
-
-In limited circumstances we may also transfer your information to potential buyers of all or a portion of any Kraft business or other assets.  In that case, we will use contractual means to ensure the potential buyers promise to keep your information secure, and, if the sale or transfer proceeds, to only use the information for the purposes for which you disclosed it and in a manner consistent with this Privacy Promise.
+If you're registered and logged onto Kraftcanada.com, you can always change your preference for follow-up contacts, or advise us of changes in your circumstances (such as address) just by clicking here and editing your profile. If you're not registered on the site but receive communications from Kraft and wish to change your contact information, you can send us an email or write to us (see our contact details at top of page).
 
 **SECURITY AND RETENTION**
 
@@ -79,7 +103,7 @@ We protect your personal information with appropriate security measures, and we 
 
 **PROCESSING OF INFORMATION OUTSIDE OF CANADA**
 
-Kraft Canada is part of the Kraft Foods group of companies.  Website hosting, storage and management of electronic communications, and data processing within the Kraft Foods group of companies may be done via servers located outside of Canada.  Some of our supplier, advertising, or promotional agency service providers as described above may also be located outside of Canada.  As a result, your personal information may be accessible to regulatory authorities in accordance with the laws of other jurisdictions.  If you wish more information about Kraft Canada’s policies and practices with respect to the transfer and processing of personal information outside of Canada, please contact Kraft Canada in any of the ways described at the beginning of this Privacy Promise.
+Kraft Canada is part of the Kraft Heinz group of companies. Website hosting, storage and management of electronic communications, and data processing within the Kraft Heinz group of companies may be done via servers located outside of Canada. Some of our supplier, advertising, or promotional agency service providers as described above may also be located outside of Canada. As a result, your personal information may be accessible to regulatory authorities in accordance with the laws of other jurisdictions. If you wish more information about Kraft Canada’s policies and practices with respect to the transfer and processing of personal information outside of Canada, please contact Kraft Canada in any of the ways described at the beginning of this Privacy Promise.
 
 **KIDS**
 
@@ -87,9 +111,9 @@ Before providing your name, address, or email address to us, be sure to ask your
 
 **CHILDREN’S ONLINE PRIVACY**
 
-Some portions of our websites are directed to children under 13, where we conduct sweepstakes, games, or other promotions (“Contests”). We may permit a child under 13 to enter a Contest by giving us a first name, age, email address, and any other information needed to conduct the Contest, along with the name, email address, or other contact information of the child’s parent or guardian. We then notify the parent or guardian about the child's entry, and offer the parent or guardian an opportunity to withdraw the entry and remove the information from our files. If the parent or guardian agrees to the child's participation in the Contest and the child wins, we will contact the parent or guardian for any further personal information needed for prize delivery. 
+Some portions of our websites may be directed to children under 13, where we conduct sweepstakes, games, or other promotions (“Contests”). We may permit a child under 13 to enter a Contest by giving us a first name, age, email address, and any other information needed to conduct the Contest, along with the name, email address, or other contact information of the child’s parent or guardian. We then notify the parent or guardian about the child's entry, and offer the parent or guardian an opportunity to withdraw the entry and remove the information from our files. If the parent or guardian agrees to the child's participation in the Contest and the child wins, we will contact the parent or guardian for any further personal information needed for prize delivery. 
 
-We do not use the child's personal information for any purpose other than completion of the Contest, and we do not share the information with others (except our supplier, advertising, or promotional agencies in connection with the administration of the Contest), unless we have the parent or guardian’s express consent. We do not make a child's participation in a Contest or any other online activity dependant on the child's disclosing more personal information than is reasonably necessary. 
+We do not use the child's personal information for any purpose other than completion of the Contest, and we do not share the information with others (except our supplier, advertising, or promotional agencies in connection with the administration of the Contest), unless we have the parent or guardian’s express consent. We do not make a child's participation in a Contest or any other online activity dependent on the child's disclosing more personal information than is reasonably necessary. 
 
 We also might permit a child to send us an email, or to send an email to a friend through our site. We will respond to or deliver these emails, but we do not keep the names, email addresses, or the emails themselves, nor do we share them with others (except supplier, advertising, or promotional agencies as described above). 
 
@@ -102,3 +126,6 @@ Our websites may include links to websites belonging to others. We have no contr
 **Updates To This Privacy Promise**
 
 We may change or update portions of this Privacy Promise at any time. Please check back from time to time so you are aware of any changes or updates to the Promise. We will indicate the Promise’s effective date on the first page of the Promise.
+
+  
+
