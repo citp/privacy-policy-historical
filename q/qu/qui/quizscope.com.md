@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quizscope.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120072736id_/http%3A//www.quizscope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizscope.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614224053id_/http%3A//www.quizscope.com/privacy-policy) for the most accurate reproduction.*
 
 # QuizScope | Privacy Policy
 
 QuizScope PRIVACY POLICY
 
-This Privacy Policy ("Policy") explains what information QuizScope (referred to herein as "QuizScope", "Company", "we", “us”, or “our”) collects from individuals who visit the www.QuizScope.com website (the "Site") and/or participate in the resources offered by QuizScope ("User(s)" or "you"). This Policy also explains how the Company uses and maintains that information.
+This Privacy Policy ("Policy") explains what information QuizScope (referred to herein as "QuizScope", "Company", "we", “us”, or “our”) collects from individuals who visit the www.QuizScope.comwebsite (the "Site") and/or participate in the resources offered by QuizScope ("User(s)" or "you"). This Policy also explains how the Company uses and maintains that information.
 
 **Changes to this Privacy Policy**
 
@@ -18,19 +18,19 @@ We collect two kinds of information through the Site. The first kind is informat
 
 If you do not want your information to continue to be collected and used as provided in this Policy, you should not access or use the Site again.
 
-Premium content users ("Premium User(s)") have access to the Premium Content (horoscope readings, engaging quizzes, fashion and style news and more) at no charge in exchange for their agreement to install the QuizScope software or add-on/extension (the "Software"). The Software allows us to display third party applications as well as text link, popup/under, transitional, shopping and/or banner advertisements based on the web content viewed by that User. No PII is collected through the Software. In addition, the Site and Premium Content may display advertisements from third parties before and/or during your engagement with the Premium Content. All third party applications and all advertisements from the Software, Site and Premium Content shall collectively be known as “Third Party Content”.
+Premium Content includes horoscope readings, engaging quizzes, fashion, style news and more. Premium Content is offered free of charge in emails sent to you when you sign up on the Site (“Emails”). Such Emails may also include advertisements from third parties. Premium Content is also offered free of charge on the Site in exchange for your agreement to install the QuizScope software or add-on/extension (the "Software"). The Software allows us to display third party applications as well as text link, popup/under, transitional, shopping and/or banner advertisements based on the web content viewed by that User. No PII is collected through the Software. In addition, the Site and Premium Content may display advertisements from third parties before and/or during your engagement with the Premium Content. All third party applications and all advertisements from the Software, Site, Emails and Premium Content shall collectively be known as “Third Party Content”.
 
 Your dealings with Third Party Content, including, but not limited to, your interaction with its advertisements and promotions, purchase of its goods, or any other type of involvement, are solely between you and the third party. Therefore we do not endorse the advertisements, products or other materials of the Third Party Content. If you interact with the Third Party Content, their terms and conditions and privacy policies apply to your rights and obligations with respect to such interaction. Accordingly, such third parties may collect PII or NPII about you.
 
 **Collection of Personally Identifiable Information**
 
-PII is collected by QuizScope only when you provide it to us via the [Contact Us](http://quizscope.com/contact) page, in which the Site asks for your name and email address so that you can receive a response to any questions you may have.
+PII is collected by QuizScope only when you provide it to us via signing up for Emails on the Site and/or the [Contact Us](http://quizscope.com/contact) page, in which the Site asks for your name and email address so that you can receive a response to any questions you may have.
 
 If you do not want us to collect your PII as described above or to use and share your PII as described further below in this Policy, you should NOT provide it to us through the Site feature described above. By providing us with your PII using this feature, you are authorizing our use and sharing of your PII as described in this Policy and any subsequent revisions to this Policy that we may publish on the Site.
 
 **Updating Your Personally Identifiable Information.**
 
-If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support at [support@QuizScope.com](mailto:support@QuizScope.com) or by contacting us using our [Contact Us](http://quizscope.com/contact) page.
+If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support at support@QuizScope.com or by contacting us using our [Contact Us](http://quizscope.com/contact) page.
 
 We will retain your information for as long as your account is active or as needed to provide you services. In addition, we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -50,7 +50,7 @@ We do not share, sell or trade any of your PII with any third parties other than
 
 We and our Related Companies may provide access to your PII when legally required to do so, to comply with a court order, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of the Site or Software, to limit our legal liability and protect our rights or to protect the rights, property or safety of other users or the public.
 
-We and/or our Related Companies may also disclose your PII to outside companies and consultants that help bring you the services we offer. For example, we and our Related Companies may work with outside companies and consultants to: (a) manage a database of customer information; (b) assist in distributing e-mails; (c) assist with direct marketing and data collection; (d) provide data storage and analysis; (e) provide fraud prevention; (f) provide customer service by phone; and/or (g) provide other services designed to assist us in maximizing our business potential and maintaining our Site and Software. We and our Related Companies require that these outside companies and consultants agree to keep confidential all information we share with them, and use the information only to perform their obligations to us.
+We and/or our Related Companies may also disclose your PII to outside companies and consultants that help bring you the services we offer. For example, we and our Related Companies may work with outside companies and consultants to: (a) manage a database of customer information; (b) assist in distributing Emails; (c) assist with direct marketing and data collection; (d) provide data storage and analysis; (e) provide fraud prevention; (f) provide customer service by phone; and/or (g) provide other services designed to assist us in maximizing our business potential and maintaining our Site, Emails and Software. We and our Related Companies require that these outside companies and consultants agree to keep confidential all information we share with them, and use the information only to perform their obligations to us.
 
 In addition, if we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your PII will likely be among the assets transferred. You will be notified by a prominent notice on the QuizScope home page of any such change in ownership or control of your PII.
 
@@ -76,7 +76,7 @@ The use of cookies by our third party advertisers as well as third party ad serv
 
 **Web Beacons**
 
-The Site may contain electronic images known as "web beacons" which are also sometimes called single-pixel gifs. Web beacons may be used to assist in delivering cookies, allow us to count Users who have visited the Site pages and to deliver services via the Site. We may also include web beacons in email messages in order to determine whether such messages have been opened and acted upon. If any partner advertises on the Site, we may work with them to place web beacons on their website to allow QuizScope to collect statistics on how often clicking on those advertisements on the Site results in a purchase or other action on such partner's website. QuizScope may also employ web beacons from third party partners in order to help compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of the Site. QuizScope will never allow web beacons on the Site to be used by third parties (other than Related Companies) to collect or access your PII. We do not tie web beacons to any PII you submit while on our Site.
+The Site may contain electronic images known as "web beacons" which are also sometimes called single-pixel gifs. Web beacons may be used to assist in delivering cookies, allow us to count Users who have visited the Site pages and to deliver services via the Site. We may also include web beacons in Emails in order to determine whether such messages have been opened and acted upon. If any partner advertises on the Site, we may work with them to place web beacons on their website to allow QuizScope to collect statistics on how often clicking on those advertisements on the Site results in a purchase or other action on such partner's website. QuizScope may also employ web beacons from third party partners in order to help compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of the Site. QuizScope will never allow web beacons on the Site to be used by third parties (other than Related Companies) to collect or access your PII. We do not tie web beacons to any PII you submit while on our Site.
 
 **Use and Sharing of Non-Personally Identifiable Information (NPII)**
 
@@ -92,9 +92,9 @@ In addition, if we go through a business transition, such as a merger, acquisiti
 
 We have implemented technical, administrative and physical security measures to protect Information from unauthorized access and improper use. We keep information on servers that are protected by firewalls and located in a physically secure facility accessible only to our authorized employees and personnel of the Related Companies. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though, that, despite our reasonable efforts, no security measures are impenetrable and any information transmitted to us or through the Site will be at your own risk.
 
-**Links from the Site**
+**Links from the Site and Emails**
 
-The Site provides links to the websites of many third parties. If you click through to any of these third party web sites, our Policy will not apply to your use of, and activities on, those third party sites. We encourage you to read the legal notices posted on these sites, including but not limited to their privacy policies. We shall have no responsibility or liability for your visitation to, and the data collection and use practices of, these sites. All inquiries concerning the use of PII by a third party must be communicated to that third party and not to QuizScope.
+The Site and Emails provide links to the websites of many third parties. If you click through to any of these third party web sites, our Policy will not apply to your use of, and activities on, those third party sites. We encourage you to read the legal notices posted on these sites, including but not limited to their privacy policies. We shall have no responsibility or liability for your visitation to, and the data collection and use practices of, these sites. All inquiries concerning the use of PII by a third party must be communicated to that third party and not to QuizScope.
 
 **Uninstall Software**
 
@@ -102,10 +102,10 @@ Premium Users who have downloaded the Software and who do not want their NPII co
 
 **Your California Privacy Rights**
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to [legal@QuizScope.com](mailto:legal@QuizScope.com). Please allow 30 days for a response.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to legal@QuizScope.com. Please allow 30 days for a response.
 
 **QUESTIONS AND CONCERNS**
 
-If you have any questions or concerns about this Policy or its implementation, or any general questions, please email us at [support@QuizScope.com](mailto:support@quizscope.com).
+If you have any questions or concerns about this Policy or its implementation, or any general questions, please email us at support@quizscope.com.
 
-Effective: October 1, 2015 
+Last Updated: December 14, 2015
