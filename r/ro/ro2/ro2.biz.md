@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ro2.biz privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109030256id_/http%3A//ro2.biz/legal_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ro2.biz privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614022616id_/http%3A//ro2.biz/legal_privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
