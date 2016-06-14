@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cgsociety.org privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907162355id_/http%3A//www.cgsociety.org/index.php/CGSHome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgsociety.org privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614070420id_/http%3A//www.cgsociety.org/home/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy | Home | CGSociety
 
 ## CGSociety Privacy Policy
 
@@ -16,8 +16,6 @@ We collect two types of information from you: i) information that you voluntaril
 
 In order to fully access this Site, you must first complete the registration process, during which we will collect personal information about you. The information will include your name, address, email address and country of residence. We do not collect personally identifiable information about you except when you specifically provide such information to us on a voluntary basis. 
 
-   
-
 By registering with us, you consent to the use and method of disclosure as described in this Privacy Policy. 
 
 **Voluntary Information for Services and Features.**
@@ -32,7 +30,7 @@ You may set most browsers to notify you if you receive a cookie, or you may choo
 
 Third-Party Cookies: In the course of serving advertisements to this site, our third-party advertisers may place or recognise a unique "cookie" on your browser. 
 
-### 2\.  Referrals
+### 2\. Referrals
 
 You may choose to invite friends to join the CGSociety by sending invitation emails via our invite feature. CGSociety stores the email addresses you provide so that the respondents may be added to your social network, confirm orders/purchases and also to send reminders of the invitations. CGSociety does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Recipients of invitations may contact CGSociety to request removal of their information from our database. 
 
@@ -70,7 +68,7 @@ Advertisements appearing on this Site may be delivered to you by CGSociety or on
 
 This privacy statement covers the use of cookies by CGSociety and does not cover the use of cookies by any of its advertisers. 
 
-### 6\.  Accessing and Updating Your Personal Information and Preferences
+### 6\. Accessing and Updating Your Personal Information and Preferences
 
 We provide mechanisms for updating and correcting your personal information for many of our services. You may modify or remove any of your personal information at any time by logging into your account and accessing features such as edit and account. 
 
@@ -90,6 +88,6 @@ By consenting to the Terms and Conditions of the Site and hence the Privacy Poli
 
 CGSociety reserves the right to change this Privacy Policy from time to time at its sole discretion. If at some point in the future, there is a change to our Privacy Policy, unless we obtain your express consent, such change will only apply to information collected after the revised Privacy Policy took effect. Your continued use of the Site indicates your assent to the Privacy Policy as posted. 
 
-### 11\.  CONTACT INFORMATION:
+### 11\. CONTACT INFORMATION:
 
 If you have any questions or concerns regarding this Privacy Policy please contact us at [privacy@cgsociety.org](mailto:%20privacy@cgsociety.org). 
