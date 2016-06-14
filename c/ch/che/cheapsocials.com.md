@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapsocials.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102000826id_/http%3A//cheapsocials.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapsocials.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614064155id_/http%3A//cheapsocials.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
