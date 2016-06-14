@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 8tracks.com privacy policy that was archived on 2015-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151224235341id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 8tracks.com privacy policy that was archived on 2016-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160614031139id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 if (window.console && typeof(window.console.log) == 'function') {
@@ -47,7 +47,7 @@ if (window.console && typeof(window.console.log) == 'function') {
 
   
 
-  <link rel="stylesheet" media="screen" href="//dmuuhinfkryqs.cloudfront.net/assets/application-0b02ebca69731a0804e5084329905f2bfdca5eb3975c210faa835c53b2a9f0f9.css">
+  <link rel="stylesheet" media="screen" href="//dmuuhinfkryqs.cloudfront.net/assets/application-600d33254a2fa87bd07ac40a5d2388232c053d7a52fc40df963714891b59f43f.css">
 
   
 
@@ -77,7 +77,7 @@ if (window.console && typeof(window.console.log) == 'function') {
     GOOGLE_CLIENT_ID = '745447711784.apps.googleusercontent.com';
     FMA_API_KEY = 'P412SCI2RWQJ5DMF';
     ECHONEST_SEARCH_API_KEY = '1DVESWHASHV4OXKEY';
-    CHROMECAST_APP_ID = 'BEAF7BA5';
+    CHROMECAST_APP_ID = 'CCCD6DD7';
     CHROMECAST_MSG_NS = 'urn:x-cast:com.e8tracks.cast';
     MIXPANEL_API_KEY = 'dadf933344ddfcca08de04377cbaf811';
     PREROLL_ENABLED  = true;
@@ -85,6 +85,7 @@ if (window.console && typeof(window.console.log) == 'function') {
     SPOTLIGHT_ENABLED = true;
     IMGIX_PREFERRED_SIZES =  [56, 100, 200, 320, 400, 640, 750, 960, 1024, 1280, 1536, 2048];
     RESPONSIVE_API_KEY = '091f44be7c042dec51be723d6f9ec8cd2210e6bd';
+    WHITELIST_COUNTRY_CODES = ["us","ca","as","gu","mp","pr","vi","--",""];
 
     App = {
       Collections : {},
@@ -105,6 +106,13 @@ if (window.console && typeof(window.console.log) == 'function') {
 
   //window.devicePixelRatio = 2;
   window.dpr = window.devicePixelRatio;
+
+  window.device = 'desktop';
+  if (navigator.userAgent.toLowerCase().match(/(iphone|ipod|ipad)/)) {
+    window.device = 'apple';
+  } else if(navigator.userAgent.toLowerCase().indexOf("android") > -1) {
+    window.device = 'android';
+  }
 
   if (window.dpr <= 1) {
     window.dpr = 1;
@@ -144,6 +152,27 @@ if (window.console && typeof(window.console.log) == 'function') {
 
     var os = (onload ? ' onload="' + onload + '"' : '');
     return '<img src="' + src + '" class="' + class_attr + '" alt="' + name + '"' + os + '/>';
+  };
+
+  rgbToHex = function(r, g, b) {
+      return "#" + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1);
+  };
+
+  hexToRgb = function(hex) {
+      var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+      return result ? [
+          parseInt(result[1], 16),
+          parseInt(result[2], 16),
+          parseInt(result[3], 16)
+      ] : [0,0,0];
+  };
+
+  darkenRgb = function(rgb) {
+    return [
+      (rgb[0] * 0.8).toFixed(),
+      (rgb[1] * 0.8).toFixed(),
+      (rgb[2] * 0.8).toFixed(),
+    ];
   };
 
   external_image_url = function(src, size){
@@ -201,7 +230,7 @@ if (window.console && typeof(window.console.log) == 'function') {
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
 
 
-<script src="//dmuuhinfkryqs.cloudfront.net/assets/libs-22ff0fbd2821224ecd7d2350580df4b176a65fa4c5c2e7a9be68d5d274e887b5.js"></script>
+<script src="http://dmuuhinfkryqs.cloudfront.net/assets/libs-22ff0fbd2821224ecd7d2350580df4b176a65fa4c5c2e7a9be68d5d274e887b5.js"></script>
 <script>
   // Defines the configuration options, these must be set before you load
   // the plusone.js file.
@@ -225,15 +254,15 @@ if (window.console && typeof(window.console.log) == 'function') {
 <script src="//apis.google.com/js/client:plusone.js?onload=firstGooglePlusLoad"></script> 
 
 
-<script src="//dmuuhinfkryqs.cloudfront.net/assets/require-a70e7c2927a09b7dd9f6a1a617908c126eb297d7b6316606fdbe4ee222cf6d06.js"></script><script>require.config({"baseUrl":"/assets","paths":{"global_trax":"//dmuuhinfkryqs.cloudfront.net/assets/global_trax-16df8ed5800ebefeb187b166441cb8107099f5f86bfa7606f9e70761aaadbf45","initializer":"//dmuuhinfkryqs.cloudfront.net/assets/initializer-45e05cbd4563c471e708bdb8b041ed9f17602f7a12d3527c8e71d5fe6e8847e4","pages/favorite_tracks":"//dmuuhinfkryqs.cloudfront.net/assets/pages/favorite_tracks-81b9acb3b07336272c93e0e592ad2a248706978c1b56f7f2e79a19cf3dc13195","pages/reviews":"//dmuuhinfkryqs.cloudfront.net/assets/pages/reviews-12922930382c5375bc661df57fef29c7abf5c8c65e9bc66fdb9e098d365397b6","pages/follows_users":"//dmuuhinfkryqs.cloudfront.net/assets/pages/follows_users-238c19db05afd11dbd5416251cf7ffc0dbffcc32e35c9d84864b95dd094ce933","pages/home_first_time":"//dmuuhinfkryqs.cloudfront.net/assets/pages/home_first_time-d32ff25f925eb2f7bbddb9e6a066fbc7e8b6ce79a9cb6ee83074b3922f617dd1","pages/home_returning":"//dmuuhinfkryqs.cloudfront.net/assets/pages/home_returning-2ff444ce80ff4073520069f5bfcb51d60f4e5eb816bc5f4c709fcec3a1fec84d","pages/home_feed":"//dmuuhinfkryqs.cloudfront.net/assets/pages/home_feed-a76da1155c7e2eb41a31b7f8ca8eda0a7871e7ad88844017fe4fb37b80684547","pages/mixes_index":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_index-8f58ce847f9cb8ba4d0d0514e0ba8be17e7bfe9702c29b45b1e68b229d55699f","pages/mixes_show":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_show-e025058d8faca62235976b6d92a358e91b521bce29db91b92ef674666a7f033f","pages/mixes_stats":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_stats-987f9e8ed7929f1915e10e5298b823ff2f93c92d715464e5285c8f5959e89a66","pages/collection_edit":"//dmuuhinfkryqs.cloudfront.net/assets/pages/collection_edit-84a23b2494372e30ab7dbf4214ed9694059b363a814d258d9d57fe003803493d","pages/users_edit":"//dmuuhinfkryqs.cloudfront.net/assets/pages/users_edit-1ca60ddc09d2d18c88aca2330e50f74622fb018c4c3cd811fa470b6bc25dbb9c","pages/users_show":"//dmuuhinfkryqs.cloudfront.net/assets/pages/users_show-d8b869c32e5fd5140384915aba150c645f77720d08831c015a33a4254f047cc6","pages/iphone":"//dmuuhinfkryqs.cloudfront.net/assets/pages/iphone-86e8a38f856b660dbfa57f7d40163fef3ff77ba92204fb608d3a70cb73bde36f","pages/android":"//dmuuhinfkryqs.cloudfront.net/assets/pages/android-8e7c531c0fa0f281350b1e242984880297169de7eb15b3ac59d64c97f5ce976f","pages/track":"//dmuuhinfkryqs.cloudfront.net/assets/pages/track-a2ed8d3b50cdf58e778f58de8ce29899b2c8139a0a0debe34f436259a7dee644","pages/player":"//dmuuhinfkryqs.cloudfront.net/assets/pages/player-28eb8fb141087b8633ed235e0cd31f106969142bf5d1fcc2f115a2f0b3c147e7","pages/news_feed":"//dmuuhinfkryqs.cloudfront.net/assets/pages/news_feed-a3cc2c427b7cd945fcc8e77f119c29220829492cc72f4a51a012a2a28bc6c561","pages/notifications":"//dmuuhinfkryqs.cloudfront.net/assets/pages/notifications-8e225219830e6a0304012373568c92070831fc911feb048e82eb4b22fdb3e1a9","pages/search_results":"//dmuuhinfkryqs.cloudfront.net/assets/pages/search_results-c6b12584d35ae8337e5450af39768787fcf3bca2f2ed99bbcaaa68e23c60b1d1","pages/mixmadness":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mixmadness-d25a81a86d970c12289b70074d559340624c717a5987c5f436f63c7e9d8cc4aa","pages/mobile_tips":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mobile_tips-f16dfe74002a2d6d600b1d00874c65e8748251f47a11f04f39c834aa8a5cefd2","pages/mix_set_debug":"//dmuuhinfkryqs.cloudfront.net/assets/pages/mix_set_debug-1f07d7a9298441e76521412d7468d88d695cfc65881b105251ff69e592a094b7","views/moderator_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/moderator_view-d797fc51c56b5a3f099f7b55f89f2b2c566d0242945ae0fb5564087059f47da4","views/mix_edit_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/mix_edit_view-92d1c9d489152c4ec0ab9a906a6d73e0b3c26071c3dbd939018b7907530e127d","views/embed_mix_lightbox_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/embed_mix_lightbox_view-676df667529fe0c4db89c39deae06e6a4e797a11d97977a2a6b784b81ef67e3a","views/signup_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/signup_view-a8f3cba48d5ff961b1fa8df4360383f8e3833101e2563b75c728e033007fb668","views/basic_upload_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/basic_upload_view-71c7b188d02d7fb0da8c068456f8301a21f6b0c979a36b7c75ae24298cb73af2","views/google_plus_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/google_plus_view-171d01662f58f617191d3909ca06c68da6029df689ce9723b01a7302478b5fbe","views/mix_recommend_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/mix_recommend_view-88c8bee2c7d7a35daade39a796ab3c47d4154098c73e2680c3de24544d6b48af","views/preroll_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/preroll_view-438454a56ec165bd9660a836f6b32d41d506c8ec39f3b96e15acf0ffd31b7d34","views/autocomplete_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/autocomplete_view-bcf32576af3d96f5257b2cc5fcab18a50d1fe3579a9c7c149b83116964621f13","views/mix_stats_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/mix_stats_view-e49f9c6050323e1ca2a57369e274377e263095c6fa659413c0965f8732553afa","views/8888_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/8888_view-6a308683a7bdb24b4ff0a247bb6915d6b89c84b955fc41192cb9d3ed077d4efd","views/carousel_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/carousel_view-0d411fae0af22724667e110abd2809182c8bf53318660021182b159d01587385","views/onboarding_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/onboarding_view-4ab488bbe5dda5c989518097934fdb9aa86f21de0238c0954cc7d070bbadd95b","views/admin/users_admin_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/users_admin_view-b06c66b9f649e0c335bc7e008dde0072ae1f7ea43da75253bc733302cfe58de1","views/admin/admin_tag_searches_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_searches_view-4134184f7830f9ff7ddc9b9180b44859dd551975bca289cae716379b24ea7124","views/admin/admin_tag_mappings_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_mappings_view-4aa28165f1fd2324d19fc42428bcdc60f79532654b371e6aca7e67edf6f1c8d1","views/admin/explore_filters_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/explore_filters_view-fd404f29cec69cd0d80d7ac79a92baedb9d84fbb4db98f37f2bfba8392718b77","views/admin/admin_identified_tracks_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_identified_tracks_view-e5710c4346403b1f9a25d161be2ae8b20def8525fa9a8dbfccbf4dfc6f898cb8","views/admin/reviews_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/reviews_view-427accff941b61237f0477957281528e5afc773350182225e57f16fa314d9003","views/admin/translations_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/translations_view-28fe4d9d5a24ae04217665f3f73ad9ca7e4071e3e67a07bf29609aa6427ba901","views/admin/faq_edit_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/faq_edit_view-7e16c8c4080a34a6d39ba732592c48cebe5c542a1f5c5dc684c347798cf36c19","views/admin/reports_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/reports_view-d5c6274395fcc421445ba8d11885ad4a8057c79da9dc2cbf60bba2f1734b4bc1","views/admin/orders_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/orders_view-d0bf934d40505e4f82a3116948518d5f44a2acf108b77648625701f5abb08143","views/admin/page_optimizations_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/page_optimizations_view-af6e168ebb2b1286417a0608c192d7df32d7d8f235d04ee0705f2a92dd17e502","views/admin/soundcloud_identifier_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/soundcloud_identifier_view-82040136d6b795bb50bbdaa074407c4362fd45ae9adc2baa7e374f1e28ec3771","views/admin/manual_track_mappings_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/manual_track_mappings_view-60e7315b75a2178c38832cbbf994b32195da0139e3808e4027e09bb06111208e","views/admin/swapped_soundcloud_tracks_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/admin/swapped_soundcloud_tracks_view-66c401e9da2713528ad02b276338ee0ecf9e14aff9c9995210238a67002a6426","views/nsfw_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/nsfw_view-017cd711b70cc060ae2ef58026af30aa3082ad3af389eac6f693cd3f93fce106","views/faq_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/faq_view-1117aa7b7448d3831c94b90383d9b5108edfaa3d1f83bf9eb16f652f79f5c9c5","views/troubleshoot_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/troubleshoot_view-a1a6f0a510688dcfdce729653689de0f4c372585f8005367fc8699c32e891739","views/next_mix_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/next_mix_view-ac1ea0f54d0cf1167229fa0d8e254ba66330b6646e9199c56d31c233c1056fcb","views/tshirt_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/tshirt_view-cb1065c114475a3a454830b0f6eb566276068a032cd68e7e9f9aedce4dd2bbc0","views/checkout_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/checkout_view-8a4a446ceb2c698a1519b1574bcbf994c637068f9aead26a9377e9ffb354310a","views/fb_player_iframe_view":"//dmuuhinfkryqs.cloudfront.net/assets/views/fb_player_iframe_view-ec2dac5fcfb4548c3382e9d2fa0d9178ee998edcc4d8a9fd5639398aa577371c","ima":"https://imasdk.googleapis.com/js/sdkloader/ima3"},"shim":{"jquery_ui":{"deps":["vendor/jquery/jquery-migrate-1.0.0.min","jquery_ui_easing"]},"jquery_ui_interactions":{"deps":["jquery_ui"]},"jquery.textboxlist.autocomplete":{"deps":["jquery.class"]},"jquery.class":{"exports":"window.Class"},"facebox":{"exports":"jQuery.facebox"},"select2":{"exports":"jQuery.select2"},"highcharts":{"exports":"Highcharts"},"vendor/soundcloud":{"exports":"SC"}},"waitSeconds":60});</script>
+<script src="http://dmuuhinfkryqs.cloudfront.net/assets/require-a70e7c2927a09b7dd9f6a1a617908c126eb297d7b6316606fdbe4ee222cf6d06.js"></script><script>require.config({"baseUrl":"/assets","paths":{"global_trax":"http://dmuuhinfkryqs.cloudfront.net/assets/global_trax-fbdb30e6803a8174903203134c9b71816d12db9fcc07fff757dfccd1d4449f93","initializer":"http://dmuuhinfkryqs.cloudfront.net/assets/initializer-bd45a390e3a329cb544e1a930db27b940c76bd130195f52597c4b5db944f1c96","html5_player_v4":"http://dmuuhinfkryqs.cloudfront.net/assets/html5_player_v4-64dd96f049c07e8b479494e7838d78ec89789e9a83f6551d24192130c8a9878a","pages/favorite_tracks":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/favorite_tracks-1dbe12dad0eaac8c39e7f76009279009c63d99fc9a4f1d3778c1fe437171fdc6","pages/reviews":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/reviews-f5fa8641f15da003825d6fe84a72ed6787851f901055f051c358004fa5828010","pages/follows_users":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/follows_users-5e9bf756804cec1d6f520c11e047a6766b654999e9fa60c4484dd63cc0f58646","pages/home_feed":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/home_feed-dc976b0a21bc9887b3242c41b57e85b3877ea57dd87cd40950bbd773022a796d","pages/mixes_index":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_index-20c9af70e4399f5f8b31154c48d5c0798d8d9b49bf4fce21cc1e4c0cc856b2c4","pages/mixes_show":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_show-cf01965494b3cfc5974abe3f2a75ba8dc70a715cbca6fca6a23823208497321e","pages/mixes_stats":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mixes_stats-3c3a1785d33bb16a48f77f8a43bf3affabd63e4bc451ba36286702b87a66e034","pages/collection_edit":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/collection_edit-e658aeee9f801d5979f6fdfb46f13cab84f90e70c1be4d8b842a3fd7bcef8abd","pages/users_edit":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/users_edit-16c3de96a8bb183df0eedea7b8797dc68586110d3de148f34ba4863abafab312","pages/users_show":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/users_show-eb466d7033a0d38ed8b218185f75c740b93a2f4811d156a4f91fc37f9284e80d","pages/iphone":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/iphone-5c3f229785bbccec6d076987fab99b0df1ea54b574da681e52c31de3d46e8e9c","pages/android":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/android-05830bc85237b5f7d45a3c2eebb18a3dd5729723bce6511c20681791163232d2","pages/track":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/track-8be30e1acea0b4c0e6cd14ab4e8021264beb89c2d37482544b4d691decff90c0","pages/player":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/player-8e85b8f865a39111c67ac4b0082b0489dc759a7f09c45d1913dc214697e6b2ec","pages/news_feed":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/news_feed-dbb00887e594ea60ae6d5aa39a73f0fd9e35a2e09778bf012ce53808292ba714","pages/notifications":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/notifications-616be4a19d7f06b880cce2ba6f4368bda85bcdbeb2e4fbc92297f2f3cebf5fa9","pages/search_results":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/search_results-5001e809a1c5c8c66dbca6dd02d11be31c538cd7abe370ebd8b1edc49d3d7458","pages/mobile_tips":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mobile_tips-9ba4f8370423110f42a7d9a67aea14279c046acaea7b95d8fb1abd0e37fbf108","pages/mix_set_debug":"http://dmuuhinfkryqs.cloudfront.net/assets/pages/mix_set_debug-40c8c7b8deef0240b0711a15c6a346b26b4060437e6ad9ace9fd501385d52310","views/moderator_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/moderator_view-e5abc847d4470bb1120df20b20008be1db76925f938db14440c27679114c42d5","views/mix_edit_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_edit_view-36e0ab8aa1c5603b7d0742a904565008566308a51735a8416bd90010999bedf3","views/embed_mix_lightbox_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/embed_mix_lightbox_view-06409d8e6e40a677262678df4f04ceec134f85c1d4e3f30af2ff1cecb1375835","views/signup_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/signup_view-6b5be4e74db3153180a09a96ac1c352b604b1fa029c6d8eb0f9f6c86ad3b71b2","views/basic_upload_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/basic_upload_view-1a1b06d44fcb0f68e5a9a2eaca63d2e8f2b651ec22754e2c71251c3275135ae6","views/google_plus_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/google_plus_view-1d030ae6e7995f1850a1a38b8be52f816849f377d07ba89a8cf8e4e2bc7df95f","views/mix_recommend_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_recommend_view-c10122d052d2e926eee87a01c14854223cd9e2ebf1bff07879ed4244d8fc9c31","views/preroll_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/preroll_view-bf920b32ee1b004a7bc31f5172165706c07e10e61344ede654e888fe00970662","views/autocomplete_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/autocomplete_view-ae983a536f55e2c5129fddb8eb981ad69b9733b48303cd6ba8fe05dcb9e8a076","views/mix_stats_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/mix_stats_view-61ace26bad1147bbf5c1591b29110c395f3a7f7409f94709e46036bdb36d2218","views/8888_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/8888_view-6e04ae2a16fc194f178947499fb10a90765dde23f4db8e82edbe2627aad6d82a","views/carousel_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/carousel_view-a5af76a15b18a3ca4b077eef6da464e1d5c1f216e2e7530d664b9bbc7c457fe6","views/onboarding_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/onboarding_view-9374d107e2b56ef92e9e910a58edc99a036c70ecf615ad9b5d5b3fcddcc7b2a1","views/post_signup_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/post_signup_view-1ed26882069cbc4dbfffbc390ff974d9f97ae3a1c4bfccfc468fd5a39ac112ed","views/admin/users_admin_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/users_admin_view-9f978fdb015c060294aae0566ba54e755457a2047da341ee52e08196619a5adb","views/admin/admin_tag_searches_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_searches_view-6d022a24b4ac08a536e4556518329d109e6c6e64d13b0fb6b0ecab6a0b7ca5d8","views/admin/admin_tag_mappings_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_tag_mappings_view-f200f1793f893e5ef64e9f6a15b71a7068f1b496dacaabad9e7c9f86a2232a48","views/admin/explore_filters_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/explore_filters_view-fd2fae4441c6ea0204c72671c05e90913aafaf9dc606c6e6b7f235e2e278e151","views/admin/admin_identified_tracks_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_identified_tracks_view-022fb8ccfdb9429146265eaa62efcc0d4a29ff4600a906a5064da138a72edbc9","views/admin/reviews_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/reviews_view-32d5db56efa5aa9eae3373126773772de3bf6463312cce592c98d76a58ef1987","views/admin/translations_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/translations_view-53f667901a4330ab37942042053f5fc2786080ff88aaf94051039d423da1493b","views/admin/faq_edit_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/faq_edit_view-66b49c717b638ef4c0a6d2b5cfb2f1637621491ccccc10e4b741e8938627e599","views/admin/reports_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/reports_view-d2b6d69b0187cdade9fb7b90640fc2e1364a6aaa1967050c803422360a50afca","views/admin/orders_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/orders_view-63d8c7886df85de200be88711c37c3eb641b5b3625b0fed74fe320b3683287b6","views/admin/page_optimizations_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/page_optimizations_view-e677ce4548de11258e7f22017a729056183c2ec6256dfaca3953a80b27051b86","views/admin/soundcloud_identifier_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/soundcloud_identifier_view-18d2c30f3a4386f0cf9ead3573ed769bed0b1fd7113ab1bc90c670b07a4d402c","views/admin/manual_track_mappings_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/manual_track_mappings_view-eddcef7ede734101283f1316577774ef6b6c179ede354225cb5390f1118232d3","views/admin/swapped_soundcloud_tracks_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/swapped_soundcloud_tracks_view-1405ed74ac07685b2c287e0a894da4e79aebc2b6b9ce3017937024be0f16a820","views/admin/admin_genre_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/admin/admin_genre_view-7de59d5e8904d6643fec68f541a4d0f449eb05519dac421ab85d95674c87200f","views/nsfw_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/nsfw_view-1bd517bf314134cc525bf80bc000d95609bf4a28eb0092c5ebad3c5827df720a","views/faq_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/faq_view-0a81b66de7930b574925f45938a849d7db9ca910f39681666ab88e011d8ce1d7","views/troubleshoot_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/troubleshoot_view-7aae736c7693c95b9b8f25a5ed6e9aaf5626c421bb31d09900eb92f22c6cf522","views/next_mix_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/next_mix_view-42e5b881ae61cbc08bc3b10ec1b3a9c84f67c27cefb9a3756dc82dbb9639f30a","views/checkout_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/checkout_view-857283a63acf83816610f93495403e6df5cad2c6ba59f9a1e86cdb201be2fa8f","views/fb_player_iframe_view":"http://dmuuhinfkryqs.cloudfront.net/assets/views/fb_player_iframe_view-bcfc12fc61ea9f363d82f4f57dc01135309622bb4669099fef5421a4fddcf090","ima":"https://imasdk.googleapis.com/js/sdkloader/ima3"},"shim":{"jquery_ui":{"deps":["vendor/jquery/jquery-migrate-1.0.0.min","jquery_ui_easing"]},"jquery_ui_interactions":{"deps":["jquery_ui"]},"jquery.textboxlist.autocomplete":{"deps":["jquery.class"]},"jquery.class":{"exports":"window.Class"},"facebox":{"exports":"jQuery.facebox"},"highcharts":{"exports":"Highcharts"},"vendor/soundcloud":{"exports":"SC"}},"waitSeconds":60});</script>
 
-
+ 
 
 <!--div id="body_container"-->
 
   <!-- thin search header -->
   <!--div id="header_placeholder"-->
-  <header id="thin_header" class="sticky" style="top: 0px;">
+  <header id="thin_header" class="sticky " style="top: 0px;">
     <div id="loading-stripe" style="display: none;"><div id="loadingbar" style="width: 0%;"><dd></dd><dt></dt></div></div>
 
     <div id="header_content">
@@ -241,7 +270,8 @@ if (window.console && typeof(window.console.log) == 'function') {
       <div class="row">
         <div id="header_left" class="col-xs-9 col-sm-7">
           <a href="/" title="8tracks | Refreshingly human playlists." rel="home" class="home-link default icon-link" id="logo">
-            <span class="i-logo"></span>
+            <span class="i-logo not_exploring"></span>
+            <span class="i-logotype exploring"></span>
           </a>
 
           <div id="loading" style="display: none;"><div class="loader"></div></div>
@@ -259,8 +289,15 @@ if (window.console && typeof(window.console.log) == 'function') {
 
             <div class="autocomplete"></div>
 
-            <a href="#" id="search_button" class="icon-link"><span class="i i-search search_icon"></span></a>
+            <a href="#" id="search_button" class="icon-link"><span class="i i-search"></span></a>
+
             <a href="/explore" id="explore_button" class="icon-link"><span class="i-explore-large"></span> <span class="text">Explore</span></a>
+          </div>
+
+          <div class="exploring">
+            <h5 class="title">
+              Explore
+            </h5>
           </div>
 
         </div>
@@ -305,10 +342,12 @@ if (window.console && typeof(window.console.log) == 'function') {
   	</div>
 
 		<!--Listen to handcrafted internet radio. Share your own playlist online.
-		&copy;8tracks Inc. 2015
+		&copy;8tracks Inc. 2016
 
 		<div id="quote">
-			<a rel="nofollow" href="https://www.youtube.com/watch?v=kTn0li1q1O0" target="_blank">hang on the block with my platinum voice</a>
+			<a href="http://www.youtube.com/watch?v=WmCfmNjzFPQ" target="_blink">
+your love to me is gold
+</a>
 		</div>-->
 	</div>
 
@@ -379,6 +418,14 @@ if (window.console && typeof(window.console.log) == 'function') {
 		</div>
 
 	</div>
+
+	<div class="row clear">
+		<p style="font-size: 11px;">
+		<br>
+		*Disclaimer: © 8tracks, Inc. (8tracks) is "testing the waters" to gauge market demand from potential investors for an Offering under Tier II of Regulation A. No money or other consideration is being solicited, and if sent in response, it will not be accepted. No offer or sales of the securities will be made or commitment to purchase accepted until qualification of the offering statement by the Securities and Exchange Commission and approval of any other required government or regulatory agency. An indication of interest made by a prospective investor is non-binding and involves no obligation or commitment of any kind. To make an investment in any deal currently testing the waters on the SeedInvest platform available to the general public, the Company must first register and qualify the offering with both State and Federal regulators. No offer of securities will be made without a registration statement.
+		</p>
+	</div>
+
 	</div>
 
 
@@ -389,8 +436,8 @@ if (window.console && typeof(window.console.log) == 'function') {
   <div id="body_overlay" style="display: none;"></div>
 
 
-
-  <div id="interstitial_container"></div>
+  <div id="interstitial_container">
+  </div>
 
   
 
@@ -508,7 +555,7 @@ if (window.console && typeof(window.console.log) == 'function') {
         <!--div class="background-blur" style="background-image: url('{{#mixpage_mix_cover_url}}sq500, w=640&h=640{{/mixpage_mix_cover_url}}');"></div-->
       </div>
 
-      <div id="player_artist_details" class="collapsed dark-bg hidden-xs">
+      <div id="player_artist_details" class="collapsed dark-bg">
       </div>
       <div class="container">
         <div class="row">
@@ -556,12 +603,13 @@ if (window.console && typeof(window.console.log) == 'function') {
 
 <script type="text/javascript" src="//www.gstatic.com/cv/js/sender/v1/cast_sender.js"></script>
 <script>
-  window.__onGCastApiAvailable = function (loaded, errorInfo) {
+  window['__onGCastApiAvailable'] = function(loaded, errorInfo) {
     if (!App.cast) {
       var args = arguments;
       setTimeout(function() { return args.callee(loaded, errorInfo)}, 1000);
       return;
     }
+
 
     if (loaded) {
       var sessionRequest = new chrome.cast.SessionRequest(CHROMECAST_APP_ID);
