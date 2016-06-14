@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the employmentsamachar.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214041308id_/http%3A//employmentsamachar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentsamachar.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614070506id_/http%3A//employmentsamachar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for http://employmentsamachar.com/
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **contact@employmentsamachar.com**.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **employmentsamachar@gmail.com**.
 
 At http://employmentsamachar.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://employmentsamachar.com/ and how it is used.
 
