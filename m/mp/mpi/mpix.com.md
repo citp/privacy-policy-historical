@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpix.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502110711id_/http%3A//www.mpix.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpix.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614194337id_/http%3A//www.mpix.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Mpix
 
@@ -42,7 +42,7 @@ We will not disclose any of your personally identifiable information except when
 
  _Other_
 
-: We also may disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Miller's [Terms of Use](https://web.archive.org/About/TermsUse.aspx), or other online or signed agreement with Millers, or that may otherwise be causing injury to or interference with (either intentionally or unintentionally) Miller's rights or property, other Miller's Site users or customers, or anyone else that could be harmed by such activities. We may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service and improve our products and services.
+: We also may disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Miller's [Terms of Use](https://web.archive.org/about/TermsUse/), or other online or signed agreement with Millers, or that may otherwise be causing injury to or interference with (either intentionally or unintentionally) Miller's rights or property, other Miller's Site users or customers, or anyone else that could be harmed by such activities. We may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service and improve our products and services.
 
 We occasionally hire other companies to provide limited services on our behalf, including packaging, delivering or mailing, answering customer questions about products or services, sending postal mail, providing investor information and processing data. We will only provide those companies the information they need to deliver the service, and they are contractually prohibited from using that information for any other purpose.
 
