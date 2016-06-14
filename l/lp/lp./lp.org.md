@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212194258id_/http%3A//www.lp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614191529id_/http%3A//www.lp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Libertarian Party
 
@@ -61,3 +61,7 @@ If you feel that this site is not following its stated information policy, you m
 Thank you,  
 HQ Web Staff  
 The Libertarian Party
+
+## Refunds
+
+Refunds for contributions may be requested up to 30-days after the contribution was made. Requests for the refund of a contribution must be submitted either by US Postal Mail or by email to the addresses listed below, and must contain your First name, last name, email address, the purchase or contribution you wish refunded, and the purpose for the refund request. Your request for refund should also include your contact information so that we may contact you if we have questions.
