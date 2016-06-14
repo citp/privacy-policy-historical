@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimungo.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215030030id_/http%3A//dreamteam.nzherald.co.nz/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimungo.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614165857id_/http%3A//dreamteam.nzherald.co.nz/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Dream Team
 
@@ -103,7 +103,7 @@ We reserve the right to change this policy at any time by notifying site users o
 
 **Holding, Correcting and Updating**
 
-Any personal information that you provide to us will be collected and held by us at 46 Albert Street, Auckland, New Zealand. Under the Privacy Act 1993 you have rights of access to and correction of personal information that we hold. We offer the ability to correct or change the information collected at any time and as often as necessary. If you have any questions about how our services work or regarding this policy, contact us by email or by mail to NZME, 46 Albert Street, PO Box 32, Auckland, New Zealand.
+Any personal information that you provide to us will be collected and held by us at 2 Graham Street, Auckland, New Zealand. Under the Privacy Act 1993 you have rights of access to and correction of personal information that we hold. We offer the ability to correct or change the information collected at any time and as often as necessary. If you have any questions about how our services work or regarding this policy, contact us by email or by mail to NZME, 2 Graham Street, PO Box 32, Auckland, New Zealand.
 
 For information about New Zealand's Privacy Act 1993 and how it protects the personal information of individuals in New Zealand, [click here.](https://www.privacy.org.nz/the-privacy-act-and-codes/privacy-act-and-codes-introduction/)
 
