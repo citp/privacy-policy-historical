@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianscientist.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214230315id_/http%3A//www.asianscientist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianscientist.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615013756id_/http%3A//www.asianscientist.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Asian Scientist Magazine | Science, Technology and Medicine News Updates From Asia
 
