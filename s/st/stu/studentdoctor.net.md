@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223012837id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614051720id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Student Doctor NetworkStudent Doctor Network
+# Privacy Statement - Student Doctor Network
 
-[](https://privacy.truste.com/privacy-seal/Coastal-Research-Group/validation?rid=8c36aa89-d7af-400a-8984-7fcf618d7e97 "TRUSTe online privacy certification")
+**Last Updated 23  May 2016**
 
-**Last Updated  16 February 2015**
-
-Coastal Research Group (publisher of “The Student Doctor Network” or “SDN”) has been awarded TRUSTe’s Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.studentdoctor.net. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, [please contact the SDN Technolgoy Director](https://web.archive.org/about-sdn/contact-us/ "Contact Us"), Lee Burnett at <http://www.studentdoctor.net/about-sdn/contact-us/>. If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+If you have questions or complaints regarding our privacy statement or practices, [please contact the SDN Technology Director](https://web.archive.org/about-sdn/contact-us/ "Contact Us"), Lee Burnett.
 
 The Coastal Research Group is the sole owner of the information collected on The Student Doctor Network. This privacy statement describes how Coastal Research Group collects and uses the personally identifiable information you provide on our web site: http://www.studentdoctor.net. The Student Doctor Network collects personally identifiable information from our users at several different points on our Web site.
 
 #### **Registration**
 
-In order to use some sections of this Web site, you must first complete the registration form and create a user name and password. During registration you are required to give contact information (such as email address and age). We use this information at the time of registration to ensure validity of member registrations.
+In order to use some sections of this Web site, you must first complete the registration form and create a member name and password. During registration you are required to give contact information (such as email address and age). We use this information at the time of registration to ensure validity of member registrations.
 
 Protecting the privacy of young children is important to us. We do not knowingly collect or maintain personally identifiable information on our site from persons under 13 years of age. If we learn that a person less than 13 years of age has been collected on our site, then we will take the appropriate steps to delete this account.
 
