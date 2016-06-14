@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couple.net privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318040804id_/http%3A//www.couple.net/about-us/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couple.net privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614204435id_/http%3A//www.couple.net/about-us/policy.asp) for the most accurate reproduction.*
 
 # Couple.net - Global Matchmaker for True Relationship
 
@@ -209,5 +209,5 @@ Please be advised that this “Policy of Managing Personal Information” does n
 ### 12\. Obligation of notice  
   
 Any additions, deletions, or amendments to the contents of this policy of managing personal information shall be announced on the Company Website and also sent to users via email before the changes take effect.  
-Last updated as of November. 28, 2011  
+Last updated as of March 01, 2016  
 [View Previous Privacy Policy Version]
