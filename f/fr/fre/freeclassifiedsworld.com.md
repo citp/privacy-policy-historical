@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeclassifiedsworld.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214183931id_/http%3A//www.freeclassifiedsworld.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeclassifiedsworld.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614174634id_/http%3A//www.freeclassifiedsworld.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
 # Post Free Ads Without Registration - Free Classifieds World
 
