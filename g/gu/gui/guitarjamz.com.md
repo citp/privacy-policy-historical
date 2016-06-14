@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarjamz.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207010620id_/http%3A//guitarjamz.com/premium/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarjamz.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615000322id_/http%3A//guitarjamz.com/premium/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GuitarJamz - Premium Lessons
 
@@ -55,7 +55,7 @@ We reserve the right to share, rent, sell, or otherwise disclose data we collect
 
 You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you.
 
-You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: supportATguitarjamzDOTcom (Please replace “AT” with @ and “DOT” with .)
+You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: support@guitarjamz.com.
 
 ## Section 5
 
@@ -87,7 +87,7 @@ We reserve the right to change this policy at any time by notifying you of the e
 
 ### Our Contact Information
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: supportATguitarjamzDOTcom (Please replace “AT” with @ and “DOT” with .)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: support@guitarjamz.com
 
 ## Section 9
 
@@ -106,7 +106,7 @@ Guitar Jamz Inc is dedicated to ensuring compliance with the ‘Can-Spam Act’,
 
 To ensure compliance with the Can-Spam Act, Guitar Jamz Inc has implemented the following guidelines for email delivery:
 
-    * All emails sent to you by Guitar Jamz Inc will clearly identify Guitar Jamz Inc as the sender. FROM / SENDER: someone@guitarjamz.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @guitarjamz.com
+    * All emails sent to you by Guitar Jamz Inc will clearly identify Guitar Jamz Inc as the sender. FROM / SENDER: info@guitarjamz.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @guitarjamz.com
     * The Subject Line of any email you receive will always accurately describe the subject matter of the email.
     * Any email from Guitar Jamz Inc will include the ability to unsubscribe from future email messages.
     * Unsubscribing will ensure the customer is removed from ALL lists at Guitar Jamz Inc; this excludes customer service emails regarding the processing and status of a current product.
@@ -121,12 +121,12 @@ To ensure compliance with the Can-Spam Act, Guitar Jamz Inc has implemented the 
 ### Information for ISPs
 
 **Website:** Guitar Jamz Inc  
-**Email:** supportATguitarjamzDOTcom  
-(Please replace “AT” with @ and “DOT” with .)
+**Email:** support@guitarjamz.com
 
 Guitar Jamz Inc understands consumers’ concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies. Guitar Jamz Inc and its affiliated sites use only an “opt-in or opt out” method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. Guitar Jamz Inc email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
 
 From time to time, Guitar Jamz Inc will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things,  
 that the data was collected voluntarily from individuals on website registrations and co-registrations, that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and that Guitar Jamz Inc has the right to send marketing offers to the individuals.
 
-We hope this information satisfies any questions or concerns you may have regarding the email practices of Guitar Jamz Inc. If you have additional questions or wish to discuss this matter further, please contact us at: supportATguitarjamzDOTcom (Please replace “AT” with @ and “DOT” with .)
+We hope this information satisfies any questions or concerns you may have regarding the email practices of Guitar Jamz Inc. If you have additional questions or wish to discuss this matter further, please contact us at: support@guitarjamz.com  
+
