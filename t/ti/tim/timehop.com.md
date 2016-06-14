@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timehop.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910005715id_/http%3A//timehop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timehop.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614023808id_/http%3A//timehop.com/privacy) for the most accurate reproduction.*
 
 # Timehop: What did you do 1 year ago today?
 
@@ -75,10 +75,8 @@ If you no longer wish to receive emails, you may opt-out of receiving them by fo
 or
 
 DoubleDub Inc.  
-401 Broadway, Suite 1700  
+401 Broadway, Suite 1100  
 New York, NY 10013
-
-Phone: 347-704-0641
 
 If you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Site and Services.  
 
