@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cineplex.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327083913id_/http%3A//www.cineplex.com/Global/PrivacyPolicy%3Fcmpid%3DFooterEN_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cineplex.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614094620id_/http%3A//www.cineplex.com/Global/PrivacyPolicy%3Fcmpid%3DFooterEN_privacy-policy) for the most accurate reproduction.*
 
 # Cineplex.com | Privacy Policy
 
