@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the her.ie privacy policy that was archived on 2015-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151114102435id_/http%3A//www.her.ie/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the her.ie privacy policy that was archived on 2016-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160614071954id_/http%3A//www.her.ie/privacy-statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" class="noscroll"><head>
 <title>Privacy Statement | Her.ie</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,14 +9,15 @@
 <meta name="description" content="Privacy Statement">
 <meta name="keywords" content="Irish Women, Woman, Irish, Ireland, Style, Beauty, Celeb, Entertainment, Movies, Life, Family, Health, Start Ups, Giveaways">
 <meta name="news_keywords" content="Irish Women, Woman, Irish, Ireland, Style, Beauty, Celeb, Entertainment, Movies, Life, Family, Health, Start Ups, Giveaways">
+<meta property="fb:pages" content="216248578492948">
 <meta name="theme-color" content="#fff">
-<link rel="icon" sizes="192x192" href="http://www.her.ie/assets/images/her/icon-highres.png?v=1">
+<link rel="icon" sizes="192x192" href="http://www.her.ie/assets/images/her/icon-highres.png?v=2">
 <meta property="og:title" content="Privacy Statement | Her.ie">
 <meta property="og:description" content="Privacy Statement">
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://www.her.ie/privacy-statement">
 <meta property="og:site_name" content="Her.ie">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@Herdotie">
 <meta name="twitter:url" content="http://www.her.ie/privacy-statement">
 <meta name="twitter:title" content="Privacy Statement | Her.ie">
@@ -30,7 +31,7 @@
 <meta name="twitter:app:id:googleplay" content="ie.her.app">
 <meta name="apple-itunes-app" content="app-id=564477816">
 <meta name="google-play-app" content="app-id=ie.her.app">
-<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="application/ld+json">
+<script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "NewsArticle",
@@ -42,7 +43,7 @@
 <link rel="canonical" href="http://www.her.ie/privacy-statement">
 <link rel="shortcut icon" type="image/x-icon" href="http://www.her.ie/assets/her.favicon.ico?v=10">
 <link rel="apple-touch-icon" href="http://www.her.ie/assets/her.appletouchicon.png?v=3">
-<link media="all" type="text/css" rel="stylesheet" href="http://www.her.ie/assets/css/her/main.min-020180f3.css">
+<link media="all" type="text/css" rel="stylesheet" href="http://www.her.ie/assets/css/her/main.min-c1d517e1.css">
  
  
 <!--[if lt IE 9]>
@@ -54,6 +55,7 @@
     _maximummedia.sitemode = 'her';
     _maximummedia.title = 'Her.ie';
     _maximummedia.dfp = '247211819';
+    _maximummedia.numbate = '650869';
 
     var _comscore = _comscore || [];
     _comscore.push({ c1: "2", c2: "9608406" });
@@ -84,7 +86,12 @@
         var node = document.getElementsByTagName('script')[0];
         node.parentNode.insertBefore(gads, node);
     })();
-
+    var socref = '';
+        if (document.referrer.match(/^https?:\/\/([^\/]+\.)?t\.co(\/|$)/i)) {
+        socref = 'twitter';
+    } else if (document.referrer.match(/^https?:\/\/([^\/]+\.)?facebook\.com(\/|$)/i)) {
+        socref = 'facebook';
+    }
 
     googletag.cmd.push(function () {
 
@@ -95,13 +102,21 @@
 
         //Top Mapping
         var mapTopPage = googletag.sizeMapping()
-            .addSize([100, 100], [[320, 50], [320, 100], [300, 250]])
             .addSize([758, 200], [728, 90])
             .addSize([980, 200], [[728, 90], [970, 250], [970, 90]])
             .build();
 
-        googletag.placement.top_page = googletag.defineSlot('/247211819/her_top_page', [1, 1], 'div-gpt-top_page')
-            .defineSizeMapping(mapTopPage)
+            // If we're on an article page, different set of targeting - ignore mobile
+    var mapTopPage = googletag.sizeMapping()
+        .addSize([758, 200], [728, 90])
+        .addSize([980, 200], [[728, 90], [970, 250], [970, 90]])
+        .build();
+
+                    googletag.placement.top_page = googletag.defineSlot('/247211819/her_top_page', [1, 1], 'div-gpt-top_page')
+                .defineSizeMapping(mapTopPage)
+                .addService(googletag.pubads());
+        
+        googletag.defineOutOfPageSlot('/247211819/her_oop', 'div-gpt-oop')
             .addService(googletag.pubads());
 
         googletag.placement.background_skin = googletag.defineSlot('/247211819/her_background_skin', [1, 1], 'div-gpt-background_skin')
@@ -109,18 +124,16 @@
             .addService(googletag.pubads());
 
                 
-        
+                
+        if (socref) {
+            googletag.pubads().setTargeting('socref', socref);
+        }
+
+                
 //Post Top Mapping
 var mapPostTop = googletag.sizeMapping()
-    .addSize([100, 100], [[320, 50], [320, 100], [300, 250]])
     .addSize([758, 200], [728, 90])
     .addSize([980, 200], [300, 250])
-    .build();
-
-var mapPostBottom = googletag.sizeMapping()
-    .addSize([100, 100], [[320, 50], [320, 100], [300, 250]])
-    .addSize([758, 200], [728, 90])
-    .addSize([980, 200], [[300, 250], [300, 600]])
     .build();
 
 googletag.placement.article_top = googletag.defineSlot('/247211819/her_article_top', [1, 1], 'div-gpt-article_top')
@@ -130,26 +143,55 @@ googletag.placement.article_top = googletag.defineSlot('/247211819/her_article_t
 
 
 googletag.pubads().setTargeting('page', 'article');
-googletag.pubads().setTargeting('article', '209453');
+    googletag.pubads().setTargeting('article', '209453');
+
 
 
 
         googletag.pubads().enableSingleRequest();
         googletag.pubads().disableInitialLoad();
+        // This will unlock the scroll for the doc once the top banner is rendered
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {unlockScroll(event);});
         googletag.enableServices();
+
+                var unlockScroll = function(event) {
+            if(googletag.placement.top_page == event.slot) {
+                setTimeout(function(){
+                    if ($('html, body').hasClass('noscroll')) {
+                        $('body,html').removeClass('noscroll');
+                    }
+                }, 1700);
+            }
+        }
     });
 
 </script>
+ 
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1021712967898776');
+    fbq('track', "PageView");
+    fbq('track', 'ViewContent');
+    </script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1021712967898776&ev=PageView&noscript=1"/></noscript>
+ 
 <script type="text/javascript" data-pin-color="white" data-pin-height="28" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
 </head>
-<body>
-<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+<body class=" article-page  noscroll ">
+<div class="navbar navbar-inverse navbar-fixed-top " role="navigation">
 <div class="container">
 <div class="col-md-12">
 <div class="navbar-top pull-right hidden-xs">
 <a href="http://twitter.com/Herdotie" rel="external"><i class="fa fa-twitter"></i></a>
 <a href="http://www.facebook.com/Herdotie" rel="external"><i class="fa fa-facebook-square"></i></a>
 <a href="mailto:hello@her.ie"><i class="fa fa-envelope"></i></a>
+<a href="http://play.google.com/store/apps/details?id=ie.her.app" rel="external" data-category="Nav Link" data-label="Header Icon" data-value="Android App" class="analytics"><i class="fa fa-android"></i></a>
+<a href="https://itunes.apple.com/us/app/id564477816" rel="external" data-category="Nav Link" data-label="Header Icon" data-value="Iphone App" class="analytics"><i class="fa fa-apple"></i></a>
 <form class="search-form">
 <div class="input-group">
 <input type="text" placeholder="Search" class="form-control search-input">
@@ -159,14 +201,14 @@ googletag.pubads().setTargeting('article', '209453');
 </div>
 </form>
 </div>
-<div class="navbar-header">
+<div class="navbar-header no-trending-on-mobile-top-margin">
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
 <span class="sr-only">Toggle navigation</span>
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 </button>
-<button type="button" class="navbar-toggle navbar-search-btn pull-left" data-toggle="modal" data-target="#searchModal">
+<button type="button" class="navbar-toggle navbar-search-btn pull-left">
 <i id="mobile_search_icon" class="fa fa-search"></i>
 </button>
 <div class="text-center">
@@ -177,43 +219,69 @@ googletag.pubads().setTargeting('article', '209453');
 </div>
 <div class="collapse navbar-collapse">
 <ul class="nav navbar-nav">
-<li class="visible-xs "><a href="http://www.her.ie?ref=link">Home</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/life">Life</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/her/viral">Viral</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/her/lists">Lists</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/style">Style</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/beauty">Beauty</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/health">Health</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/celeb">Celeb</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/music">Music</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/movies-tv">Movies &amp; TV</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/start-ups">Start Ups</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/motors">Motors</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/giveaways">Giveaways</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/about">About Us</a></li>
-<li class="visible-xs active"><a href="http://www.her.ie/privacy-statement">Privacy Statement</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/terms-conditions">Terms &amp; Conditions</a></li>
-<li class="visible-xs "><a href="http://www.her.ie/contact">Contact Us</a></li>
-<li class="hidden-xs "><a href="http://www.her.ie?ref=link">Home</a></li>
-<li class="hidden-xs "><a href="http://www.her.ie/life">Life</a></li>
-<li class="hidden-xs "><a href="http://www.her.ie/her/viral">Viral</a></li>
-<li class="hidden-xs "><a href="http://www.her.ie/her/lists">Lists</a></li>
-<li class="hidden-xs "><a href="http://www.her.ie/style">Style</a></li>
-<li class="hidden-xs "><a href="http://www.her.ie/beauty">Beauty</a></li>
-<li class="hidden-xs "><a href="http://www.her.ie/health">Health</a></li>
-<li class="hidden-sm hidden-xs "><a href="http://www.her.ie/celeb">Celeb</a></li>
-<li class="hidden-sm hidden-xs "><a href="http://www.her.ie/music">Music</a></li>
-<li class="hidden-sm hidden-xs "><a href="http://www.her.ie/movies-tv">Movies &amp; TV</a></li>
-<li class="hidden-sm hidden-xs "><a href="http://www.her.ie/start-ups">Start Ups</a></li>
-<li class="hidden-sm hidden-xs "><a href="http://www.her.ie/motors">Motors</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie?ref=link">Home</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie/life">Life</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie/her/viral">Viral</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie/entertainment">Entertainment</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie/lol">LOL</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie/style">Style</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie/beauty">Beauty</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie/health">Health</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie/music">Music</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie/news">News</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie/start-ups">Start Ups</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie/giveaways">Giveaways</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie/about">About Us</a></li>
+<li class="visible-xs
+                                    active
+                                "><a href="http://www.her.ie/privacy-statement">Privacy Statement</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie/terms-conditions">Terms &amp; Conditions</a></li>
+<li class="visible-xs
+                                "><a href="http://www.her.ie/contact">Contact Us</a></li>
+<li class="hidden-xs
+                            "><a href="http://www.her.ie?ref=link">Home</a></li>
+<li class="hidden-xs
+                            "><a href="http://www.her.ie/life">Life</a></li>
+<li class="hidden-xs
+                            "><a href="http://www.her.ie/her/viral">Viral</a></li>
+<li class="hidden-xs
+                            "><a href="http://www.her.ie/entertainment">Entertainment</a></li>
+<li class="hidden-xs
+                            "><a href="http://www.her.ie/lol">LOL</a></li>
+<li class="hidden-xs
+                            "><a href="http://www.her.ie/style">Style</a></li>
+<li class="hidden-xs
+                            "><a href="http://www.her.ie/beauty">Beauty</a></li>
+<li class="hidden-xs
+                            "><a href="http://www.her.ie/health">Health</a></li>
+<li class="hidden-sm hidden-xs
+                            "><a href="http://www.her.ie/music">Music</a></li>
+<li class="hidden-sm hidden-xs
+                            "><a href="http://www.her.ie/news">News</a></li>
+<li class="hidden-sm hidden-xs
+                            "><a href="http://www.her.ie/start-ups">Start Ups</a></li>
+<li class="hidden-sm hidden-xs
+                            "><a href="http://www.her.ie/giveaways">Giveaways</a></li>
 <li class="dropdown visible-sm">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown">More <span class="caret"></span></a>
-<ul class="dropdown-menu" role="menu">
-<li class=""><a href="http://www.her.ie/celeb">Celeb</a></li>
+<a href="#" class="dropdown-toggle " data-toggle="dropdown">More <span class="caret"></span></a>
+<ul class="dropdown-menu " role="menu">
 <li class=""><a href="http://www.her.ie/music">Music</a></li>
-<li class=""><a href="http://www.her.ie/movies-tv">Movies &amp; TV</a></li>
+<li class=""><a href="http://www.her.ie/news">News</a></li>
 <li class=""><a href="http://www.her.ie/start-ups">Start Ups</a></li>
-<li class=""><a href="http://www.her.ie/motors">Motors</a></li>
 <li class=""><a href="http://www.her.ie/giveaways">Giveaways</a></li>
 <li class=""><a href="http://www.her.ie/about">About Us</a></li>
 <li class="active"><a href="http://www.her.ie/privacy-statement">Privacy Statement</a></li>
@@ -224,7 +292,6 @@ googletag.pubads().setTargeting('article', '209453');
 <li class="dropdown hidden-sm hidden-xs">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown">More <span class="caret"></span></a>
 <ul class="dropdown-menu" role="menu">
-<li class=""><a href="http://www.her.ie/giveaways">Giveaways</a></li>
 <li class=""><a href="http://www.her.ie/about">About Us</a></li>
 <li class="active"><a href="http://www.her.ie/privacy-statement">Privacy Statement</a></li>
 <li class=""><a href="http://www.her.ie/terms-conditions">Terms &amp; Conditions</a></li>
@@ -232,54 +299,110 @@ googletag.pubads().setTargeting('article', '209453');
 </ul>
 </li>
 </ul>
-</div> 
+</div> </div>
 </div>
-</div>
-<div class="navbar-secondary">
+<div class="navbar-secondary no-trending-on-mobile">
 <div class="container">
 <div class="col-md-12" id="navbar-tag-holder">
 <ul class="list-inline">
 <li>Trending:</li>
-<li><span class="tag-icon tag-icon-news-2"></span><a href="http://www.her.ie/her/news-2" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="news">news</a></li>
-<li><span class="tag-icon tag-icon-irish"></span><a href="http://www.her.ie/her/irish" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Irish">Irish</a></li>
-<li><span class="tag-icon tag-icon-social-media"></span><a href="http://www.her.ie/her/social-media" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="social media">social media</a></li>
-<li><span class="tag-icon tag-icon-funny"></span><a href="http://www.her.ie/her/funny" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Funny">Funny</a></li>
-<li><span class="tag-icon tag-icon-paris"></span><a href="http://www.her.ie/her/paris" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="paris">paris</a></li>
-<li><span class="tag-icon tag-icon-relationships-sex"></span><a href="http://www.her.ie/her/relationships-sex" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Relationships &amp; Sex">Relationships &amp; Sex</a></li>
-<li><span class="tag-icon tag-icon-christmas"></span><a href="http://www.her.ie/her/christmas" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Christmas">Christmas</a></li>
-<li><span class="tag-icon tag-icon-music"></span><a href="http://www.her.ie/her/music" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Music">Music</a></li>
-<li><span class="tag-icon tag-icon-television"></span><a href="http://www.her.ie/her/television" class="analytics" data-category="Nav clicks" data-label="Trending Tags" data-value="Television">Television</a></li>
+<li><span class="tag-icon tag-icon-life"></span><a href="http://www.her.ie/her/life" class="analytics tag-life" data-category="Nav clicks" data-label="Trending Tags" data-value="Life">Life</a></li>
+<li><span class="tag-icon tag-icon-news-2"></span><a href="http://www.her.ie/her/news-2" class="analytics tag-news-2" data-category="Nav clicks" data-label="Trending Tags" data-value="news">news</a></li>
+<li><span class="tag-icon tag-icon-orlando"></span><a href="http://www.her.ie/her/orlando" class="analytics tag-orlando" data-category="Nav clicks" data-label="Trending Tags" data-value="Orlando">Orlando</a></li>
+<li><span class="tag-icon tag-icon-relationships-sex"></span><a href="http://www.her.ie/her/relationships-sex" class="analytics tag-relationships-sex" data-category="Nav clicks" data-label="Trending Tags" data-value="Relationships &amp; Sex">Relationships &amp; Sex</a></li>
+<li><span class="tag-icon tag-icon-ireland"></span><a href="http://www.her.ie/her/ireland" class="analytics tag-ireland" data-category="Nav clicks" data-label="Trending Tags" data-value="Ireland">Ireland</a></li>
+<li><span class="tag-icon tag-icon-celeb-2"></span><a href="http://www.her.ie/her/celeb-2" class="analytics tag-celeb-2" data-category="Nav clicks" data-label="Trending Tags" data-value="celeb">celeb</a></li>
+<li><span class="tag-icon tag-icon-lol"></span><a href="http://www.her.ie/her/lol" class="analytics tag-lol" data-category="Nav clicks" data-label="Trending Tags" data-value="LOL">LOL</a></li>
+<li><span class="tag-icon tag-icon-irish"></span><a href="http://www.her.ie/her/irish" class="analytics tag-irish" data-category="Nav clicks" data-label="Trending Tags" data-value="Irish">Irish</a></li>
+<li><span class="tag-icon tag-icon-news-gossip"></span><a href="http://www.her.ie/her/news-gossip" class="analytics tag-news-gossip" data-category="Nav clicks" data-label="Trending Tags" data-value="News &amp; Gossip">News &amp; Gossip</a></li>
 </ul>
 </div>
 </div>
 </div>
 </div>
-<div class="skin-wrapper hidden-sm hidden-xs">
+<div class="skin-wrapper   hidden-sm hidden-xs">
 <div id="div-gpt-background_skin">
 <script type="text/javascript">
-                    googletag.cmd.push(function () { googletag.display('div-gpt-background_skin'); });
+                    googletag.cmd.push(function () {
+                        googletag.display('div-gpt-background_skin');
+                                            });
                 </script>
 </div>
 </div>
-<div class="container main-wrapper">
-<div class="text-center top-space">
+<div class="sticky-footer-container visible-xs">
+<div id="div-gpt-mobile-sticky-footer" class="text-center visible-xs" data-article="209453" data-route="" data-tag="" data-section="" data-search="" data-page="river">
+</div>
+</div>
+<div class="modal fade modal-large" id="shareModal" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="featured-story-title uppercase">
+<button type="button" class="close pull-right" data-dismiss="modal">
+<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+</button>
+<strong>
+Share this article
+</strong>
+</div>
+<div class="modal-body">
+<div class="share-holder">
+Share "<span id="share-modal-article-title"></span>"
+<div class="actions top-space text-center">
+<a id="share-modal-twitter" data-category="Sharing Button Modal" data-label="Twitter" data-via="Herdotie" rel="external" class="analytics"><i class="fa fa-twitter"></i></a>
+<a id="share-modal-facebook" data-category="Sharing Button Modal" data-label="Facebook" rel="external" class="analytics"><i class="fa fa-facebook-square"></i></a>
+<a id="share-modal-whatsapp" data-category="Sharing Button Modal" data-label="Whatsapp" rel="external" class="whatsapp-share hide analytics"><i class="fa fa-whatsapp"></i></a>
+<a id="share-modal-email" data-category="Sharing Button Modal" data-label="Email" data-site="Her.ie" class="analytics"><i class="fa fa-envelope"></i></a>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade modal-large" id="searchModal" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="featured-story-title uppercase">
+<button type="button" class="close pull-right" data-dismiss="modal">
+<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+</button>
+<strong>
+Search
+</strong>
+</div>
+<div class="modal-body">
+<form class="search-form navbar" action="http://www.her.ie/search">
+<div class="input-group">
+<input type="text" placeholder="Search" class="form-control search-input" id="search-modal-input">
+<span class="input-group-addon search-button">
+<i class="fa fa-search"></i>
+</span>
+</div>
+</form>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main-wrapper container  ">
+<div class="text-center top-space top-ad hidden-xs">
 <div id="div-gpt-top_page" class="text-center">
 <script type="text/javascript">
-                        googletag.cmd.push(function () {
-                            googletag.display('div-gpt-top_page');
-                            googletag.pubads().refresh();
-                        });
-                    </script>
+                            googletag.cmd.push(function () {
+                                googletag.display('div-gpt-top_page');
+                                googletag.pubads().refresh();
+                            });
+                        </script>
 </div>
 </div>
 <div class="content-container">
-<div class="main-content">
-<div class="col-lg-8 col-md-8 top-space">
+<div class="main-content container">
+<div class="col-lg-8 col-md-8 top-space article-content no-trending-on-mobile-top-margin">
 <article>
  
-<div class="post-information row dark-stripe-background ">
+<div class="post-information row   dark-stripe-background  ">
 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 article-title-holder">
-<h1 class="article-title uppercase">Privacy Statement</h1>
+<h1 class="article-title">Privacy Statement</h1>
 </div>
 </div>
  
@@ -296,6 +419,11 @@ This is data that identifies you or can be used to identify or contact you and i
 <p>"Non-Personal Data"<br>
 Like many websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This Non-Personal Data comprises information that cannot be used to identify or contact you, such as demographic information regarding, for example, user IP addresses (where they have been clipped), browser types and other anonymous statistical data involving the use of our website.</p>
 <p>This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf.</p>
+<div class="article-standard  visible-xs mid-article-unit">
+<h6>Advertisement</h6>
+<div id="div-gpt-article-middle-340977680" class="div-gpt-article-middle-holder mpu-others" data-page="article" data-article="209453">
+</div>
+</div>
 <p>Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website and clicking on the 'I Accept' button, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</p>
 <p><strong>Section 3. Purposes for which we hold your Information</strong></p>
 <p>"Non-Personal Data"<br>
@@ -307,6 +435,11 @@ We will process any Personal Data you provide to us for the following purposes:<
 <p>to respond to any queries you submit to us;</p>
 <p>where you have consented to the sharing of your information with third parties, we will do so in accordance with Section 4 below;</p>
 <p>to seek your views on our site and our services;</p>
+<div class="article-standard  visible-xs mid-article-unit">
+<h6>Advertisement</h6>
+<div id="div-gpt-article-middle-877494456" class="div-gpt-article-middle-holder mpu-others" data-page="article" data-article="209453">
+</div>
+</div>
 <p>to send you newsletters or other forms of communication that you register for.</p>
 <p><strong>Section 4. Disclosure of Information to Third Parties</strong></p>
 <p>We may provide Non-Personal Data to third parties, where such information is combined with similar information of other users of our website. For example, we might inform third parties regarding the number of unique users who visit our website, the demographic breakdown of our community users of our website, or the activities that visitors to our website engage in while on our website. The third parties to whom we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties.</p>
@@ -327,29 +460,28 @@ We will process any Personal Data you provide to us for the following purposes:<
 </div>
 </article>
 </div>
-<div class="col-lg-4 col-md-4 hidden-xs">
+<div id="article-aside" class="col-lg-4 col-md-4 hidden-xs">
 <div class="hidden-sm">
-<div class="top-space">
+<div class="top-space mailing-list-signup ">
 <div class="featured-story-title uppercase">
 <strong>
-Competitions
+Join the Her.ie mailing list!
 </strong>
 </div>
-<div class="dark-stripe-background competition-body">
-<div class="col-md-3 col-sm-3 col-xs-3 no-hp">
-<a href="http://www.her.ie/giveaways/win-were-giving-away-a-55-curved-suhd-tv-with-thanks-to-samsung/262548">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg0OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMC8zMDExMzMzMS9pZV9VRTU1SlM5MDAwVFhYVV8wMjRfRnJvbnRfc2lsdmVyLmpwZyI7czo1OiJ3aWR0aCI7aTo4NDtzOjY6ImhlaWdodCI7aTo4NDt9IjtzOjQ6Imhhc2giO3M6NDA6IjhkNTRjNjIzZjU3YTZkZWY4MDQ3ZWJkNGQ2NTZkMDRkZWU1NzExMDEiO30=/ie-ue55js9000txxu-024-front-silver.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg0OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMC8zMDExMzMzMS9pZV9VRTU1SlM5MDAwVFhYVV8wMjRfRnJvbnRfc2lsdmVyLmpwZyI7czo1OiJ3aWR0aCI7aTo3MDtzOjY6ImhlaWdodCI7aTo3MDt9IjtzOjQ6Imhhc2giO3M6NDA6IjQwYzkxNzg5ODA5MTFmY2JiYzZiMzk0ZDhkMWM2YzI3N2ZlOTYyNmQiO30=/ie-ue55js9000txxu-024-front-silver.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg0OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMC8zMDExMzMzMS9pZV9VRTU1SlM5MDAwVFhYVV8wMjRfRnJvbnRfc2lsdmVyLmpwZyI7czo1OiJ3aWR0aCI7aTo3MDtzOjY6ImhlaWdodCI7aTo3MDt9IjtzOjQ6Imhhc2giO3M6NDA6IjQwYzkxNzg5ODA5MTFmY2JiYzZiMzk0ZDhkMWM2YzI3N2ZlOTYyNmQiO30=/ie-ue55js9000txxu-024-front-silver.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA3OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3Lmhlci5pZS9hc3NldHMvaW1hZ2VzL2hlci9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6ODQ7czo2OiJoZWlnaHQiO2k6ODQ7fSI7czo0OiJoYXNoIjtzOjQwOiJhN2ZiOTg5ZjUxNjhiM2QyMzQ3YTc4NmM0MDE0YmQ3YTFjMmRjNmRmIjt9/no-image.png" data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg0OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMC8zMDExMzMzMS9pZV9VRTU1SlM5MDAwVFhYVV8wMjRfRnJvbnRfc2lsdmVyLmpwZyI7czo1OiJ3aWR0aCI7aTo4NDtzOjY6ImhlaWdodCI7aTo4NDt9IjtzOjQ6Imhhc2giO3M6NDA6IjhkNTRjNjIzZjU3YTZkZWY4MDQ3ZWJkNGQ2NTZkMDRkZWU1NzExMDEiO30=/ie-ue55js9000txxu-024-front-silver.jpg" alt="WIN: We're Giving Away A 55&quot; Curved SUHD TV With Thanks To Samsung!" class="river-post-image lazyload">
-</picture>
-</a>
+<div class="dark-stripe-background mailing-list-body">
+<div class="col-md-12 col-sm-12 col-xs-12">
+Enter your email for the latest news, offers and prizes.
 </div>
-<div class="col-md-9 col-sm-9 col-xs-9 headline">
-<a href="http://www.her.ie/giveaways/win-were-giving-away-a-55-curved-suhd-tv-with-thanks-to-samsung/262548">WIN: We're Giving Away A 55" Curved SUHD TV With Thanks To Samsung!</a>
+<div class="col-md-12 col-sm-12 col-xs-12">
+<form method="post" action="http://www.her.ie/list-sub" class="mailing-list-form">
+<div class="form-group">
+<input type="email" class="form-control input-sm" placeholder="name@example.com" required="required">
+<button class="">Sign up!</button>
+</div>
+</form>
+<div class="mailing-list-message">
+One moment please.. <img src="http://www.her.ie/assets/images/her/loading.gif">
+</div>
 </div>
 <div class="clearfix"></div>
 </div>
@@ -362,14 +494,16 @@ Competitions
                 </script>
 </div>
 </div>
-<div class="top-space hidden-sm">
+<div class="clearfix"></div>
+<div class="sticky_container top-space hidden-sm">
 <div id="div-gpt-article_bottom" class="text-center lazy-ad article-ad" data-placement="article_bottom" data-page="article" data-article="209453">
 </div>
 </div>
 </div>
 <div class="clearfix"></div>
 </div>
-<div class="col-md-12">
+<div class="container more-stories-container">
+<div class="col-md-12 more-title-container">
 <div class="section-header top-space uppercase tag-holder-ireland">
 More from Her.ie
 </div>
@@ -377,193 +511,211 @@ More from Her.ie
 <div class="col-md-12 no-hp standard-section-body-wrapper" id="article-more-from">
 <div class="standard-section-body">
  
-<div class="standard-post-holder">
+<div class="standard-post-holder col-xs-6 col-md-4">
 <div class="standard-post no-hp top-space ">
 <div class="no-hp image-holder">
-<a href="http://www.her.ie/movies-tv/into-the-spotlight-her-ie-chats-to-rtes-the-couch-presenter-yvonne-tiernan/264675">
+<a href="http://www.her.ie/life/this-girl-has-the-best-description-of-herself-on-tinder/297694">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg2OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xMzE1MzE1MC9TY3JlZW4tU2hvdC0yMDE1LTExLTEzLWF0LTE1LjE5LjU4LnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiMDM3MTBiMTg0ZTMwNDMzMmFkZmYzYmRjMGFiNzdkYWVhMGM4NGRiNyI7fQ==/screen-shot-2015-11-13-at-151958.png" media="(min-width: 970px)">
-<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg2OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xMzE1MzE1MC9TY3JlZW4tU2hvdC0yMDE1LTExLTEzLWF0LTE1LjE5LjU4LnBuZyI7czo1OiJ3aWR0aCI7aTozNTA7czo2OiJoZWlnaHQiO2k6MTc3O30iO3M6NDoiaGFzaCI7czo0MDoiNDBjOGZiZjQ3MzBmNDkzYzk2MGYzZmVmYTRhZWFiZTBjNGQ3YzAzNSI7fQ==/screen-shot-2015-11-13-at-151958.png" media="(min-width: 640px)">
-<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg1OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xMzE1MzE1MC9TY3JlZW4tU2hvdC0yMDE1LTExLTEzLWF0LTE1LjE5LjU4LnBuZyI7czo1OiJ3aWR0aCI7aToxNjI7czo2OiJoZWlnaHQiO2k6ODI7fSI7czo0OiJoYXNoIjtzOjQwOiJlYjM0MmUwZTc5YTc0MjcwYTVmZmIxNzMxNTI1Y2Q1MDIwNmZlM2M0Ijt9/screen-shot-2015-11-13-at-151958.png" media="(max-width: 639px)">
+<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYyOiJhOjM6e3M6MzoidXJsIjtzOjEwMDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNC8yMTA4MjU0My90aW5kZXJsb2dvLmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNjIzNjMwMWI2NWYwYmE3OGE5ZThiY2FhNDhhYmRmYmVmZWQ2NWU3MSI7fQ==/tinderlogo.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYyOiJhOjM6e3M6MzoidXJsIjtzOjEwMDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNC8yMTA4MjU0My90aW5kZXJsb2dvLmpwZyI7czo1OiJ3aWR0aCI7aTozNTA7czo2OiJoZWlnaHQiO2k6MTc3O30iO3M6NDoiaGFzaCI7czo0MDoiNTlhN2JhY2ExNWJiNjlmZmM5MDA1ZDE1NGJhNmVkZjg3OTAzZTIwMSI7fQ==/tinderlogo.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYxOiJhOjM6e3M6MzoidXJsIjtzOjEwMDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNC8yMTA4MjU0My90aW5kZXJsb2dvLmpwZyI7czo1OiJ3aWR0aCI7aToxNjI7czo2OiJoZWlnaHQiO2k6ODI7fSI7czo0OiJoYXNoIjtzOjQwOiI1MmE3NWZjOTZlMzBjOGM4ODMzNDU4OTMyMmQwYzhhYzBhMGE1N2I3Ijt9/tinderlogo.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3Lmhlci5pZS9hc3NldHMvaW1hZ2VzL2hlci9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijk4Yzc0YTU0ZWFmM2ExNjYzMTRiMTMxMDQ5OGU1MTE0NjRmMDkwYzEiO30=/no-image.png" data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg2OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xMzE1MzE1MC9TY3JlZW4tU2hvdC0yMDE1LTExLTEzLWF0LTE1LjE5LjU4LnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiMDM3MTBiMTg0ZTMwNDMzMmFkZmYzYmRjMGFiNzdkYWVhMGM4NGRiNyI7fQ==/screen-shot-2015-11-13-at-151958.png" alt="Into The Spotlight: Her.ie Chats To RTÉ's The Couch Presenter Yvonne Tiernan" class="river-post-image lazyload">
+<img src="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3Lmhlci5pZS9hc3NldHMvaW1hZ2VzL2hlci9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiNDI0NTgyMmZiNWNjYTY3OGY0ZjIwN2ZiOGMyOTMxOWE3Y2MxZGE1OCI7fQ==/no-image.png" data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYyOiJhOjM6e3M6MzoidXJsIjtzOjEwMDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNC8yMTA4MjU0My90aW5kZXJsb2dvLmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiNjIzNjMwMWI2NWYwYmE3OGE5ZThiY2FhNDhhYmRmYmVmZWQ2NWU3MSI7fQ==/tinderlogo.jpg" alt="This girl has the best description of herself on Tinder" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="detail">
-<div class="headline">
-<a href="http://www.her.ie/movies-tv/into-the-spotlight-her-ie-chats-to-rtes-the-couch-presenter-yvonne-tiernan/264675">Into The Spotlight: Her.ie Chats To RTÉ's The Couch Presenter Yvonne Tiernan</a>
+<div class="headline hidden-xs">
+<a href="http://www.her.ie/life/this-girl-has-the-best-description-of-herself-on-tinder/297694">This girl has the best description of herself on Tinder</a>
+</div>
+<div class="headline visible-xs">
+<a href="http://www.her.ie/life/this-girl-has-the-best-description-of-herself-on-tinder/297694">This girl has the best description of herself on Tinder</a>
 </div>
 <div class="sub-text">
 <div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.her.ie/movies-tv/into-the-spotlight-her-ie-chats-to-rtes-the-couch-presenter-yvonne-tiernan/264675" data-title="Into The Spotlight: Her.ie Chats To RTÉ's The Couch Presenter Yvonne Tiernan">
+<span class="share-trigger" data-url="http://www.her.ie/life/this-girl-has-the-best-description-of-herself-on-tinder/297694" data-title="This girl has the best description of herself on Tinder">
 <img src="http://www.her.ie/assets/images/her/share.png?v=2" alt="share icon">
-<strong>5</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-movies-tv"><a href="http://www.her.ie/movies-tv">Movies &amp; TV</a></div>
-<span class="time uppercase">24 minutes ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="standard-post-holder">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.her.ie/news/horror-war-carnage-paris-attacks-dominate-front-pages-across-the-world/264838">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg2OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xNDA5Mzc1NC9TY3JlZW4tU2hvdC0yMDE1LTExLTE0LWF0LTA5LjM2LjU0LnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiY2VjOTY3MDhmMjc3OTlhMDI2NjE2NGFiZmIzNDNmOGY4ZTIzZWNjZCI7fQ==/screen-shot-2015-11-14-at-093654.png" media="(min-width: 970px)">
-<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg2OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xNDA5Mzc1NC9TY3JlZW4tU2hvdC0yMDE1LTExLTE0LWF0LTA5LjM2LjU0LnBuZyI7czo1OiJ3aWR0aCI7aTozNTA7czo2OiJoZWlnaHQiO2k6MTc3O30iO3M6NDoiaGFzaCI7czo0MDoiMGYzZWFlOTU4ZDUxOGMzMzUyNjg4NzczMDM5YTI5YjNkNGVjYjNjYiI7fQ==/screen-shot-2015-11-14-at-093654.png" media="(min-width: 640px)">
-<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg1OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xNDA5Mzc1NC9TY3JlZW4tU2hvdC0yMDE1LTExLTE0LWF0LTA5LjM2LjU0LnBuZyI7czo1OiJ3aWR0aCI7aToxNjI7czo2OiJoZWlnaHQiO2k6ODI7fSI7czo0OiJoYXNoIjtzOjQwOiIzZDhjOTQxMTYyMGExNmQ4NGViZWZiYWM1ZjE1NWJhZTJjOTRhNjUzIjt9/screen-shot-2015-11-14-at-093654.png" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3Lmhlci5pZS9hc3NldHMvaW1hZ2VzL2hlci9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijk4Yzc0YTU0ZWFmM2ExNjYzMTRiMTMxMDQ5OGU1MTE0NjRmMDkwYzEiO30=/no-image.png" data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg2OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xNDA5Mzc1NC9TY3JlZW4tU2hvdC0yMDE1LTExLTE0LWF0LTA5LjM2LjU0LnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiY2VjOTY3MDhmMjc3OTlhMDI2NjE2NGFiZmIzNDNmOGY4ZTIzZWNjZCI7fQ==/screen-shot-2015-11-14-at-093654.png" alt="Horror, War, Carnage - Paris Attacks Dominate Front Pages Across The World" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline">
-<a href="http://www.her.ie/news/horror-war-carnage-paris-attacks-dominate-front-pages-across-the-world/264838">Horror, War, Carnage - Paris Attacks Dominate Front Pages Across The World</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.her.ie/news/horror-war-carnage-paris-attacks-dominate-front-pages-across-the-world/264838" data-title="Horror, War, Carnage - Paris Attacks Dominate Front Pages Across The World">
-<img src="http://www.her.ie/assets/images/her/share.png?v=2" alt="share icon">
-<strong>8</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-news"><a href="http://www.her.ie/news">News</a></div>
-<span class="time uppercase">34 minutes ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="standard-post-holder">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.her.ie/life/artist-creates-peaceful-eiffel-tower-symbol-in-wake-of-paris-attacks/264836">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzExLzE0MDkxNzIyLzQ5NzA3Nzg0OC5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjQwOGQ3MjNhZWViMGZmMzE2OTQ2YTBhNzQzNjhkNGUxZGRmZDlhYmQiO30=/497077848.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzExLzE0MDkxNzIyLzQ5NzA3Nzg0OC5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImM5NTUyZTMwMDIwODVlMmM2YzJiYWJhYzZlOTljY2ZmOGFkYzcxZDAiO30=/497077848.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU5OiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzExLzE0MDkxNzIyLzQ5NzA3Nzg0OC5qcGciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiYWE1ZDRhNmY4ZmIxMTg4MjFiNGMxZDBlMTZmNTkxYWI3ODMxNDhiNCI7fQ==/497077848.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3Lmhlci5pZS9hc3NldHMvaW1hZ2VzL2hlci9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijk4Yzc0YTU0ZWFmM2ExNjYzMTRiMTMxMDQ5OGU1MTE0NjRmMDkwYzEiO30=/no-image.png" data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzExLzE0MDkxNzIyLzQ5NzA3Nzg0OC5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjQwOGQ3MjNhZWViMGZmMzE2OTQ2YTBhNzQzNjhkNGUxZGRmZDlhYmQiO30=/497077848.jpg" alt="Artist Creates Peaceful Eiffel Tower Symbol In Wake Of Paris Attacks" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline">
-<a href="http://www.her.ie/life/artist-creates-peaceful-eiffel-tower-symbol-in-wake-of-paris-attacks/264836">Artist Creates Peaceful Eiffel Tower Symbol In Wake Of Paris Attacks</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.her.ie/life/artist-creates-peaceful-eiffel-tower-symbol-in-wake-of-paris-attacks/264836" data-title="Artist Creates Peaceful Eiffel Tower Symbol In Wake Of Paris Attacks">
-<img src="http://www.her.ie/assets/images/her/share.png?v=2" alt="share icon">
-<strong>6</strong> shares
+<strong>9</strong> shares
 </span>
 </div>
 <div class="pull-left tag-link uppercase tag-holder tag-holder-life"><a href="http://www.her.ie/life">Life</a></div>
-<span class="time uppercase">53 minutes ago</span>
+<span class="time uppercase">29 minutes ago</span>
 </div>
 </div>
 <div class="clearfix"></div>
 </div>
 </div>
-<div class="standard-post-holder">
+<div class="standard-post-holder col-xs-6 col-md-4">
 <div class="standard-post no-hp top-space ">
 <div class="no-hp image-holder">
-<a href="http://www.her.ie/news/united-in-grief-landmarks-across-the-globe-light-up-in-french-colours-as-mark-of-solidarity/264834">
+<a href="http://www.her.ie/news/ryanair-and-aerlingus-cancel-a-number-of-flights-today/297692">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xNDA5MDIxNy9DVHZGWFA3VThBQVV5U1EuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiJlNTU2MzE4NDc1Y2IwYTI2ZWVjZWM1M2Y2NWM1NjU1MWMzNDBlNDEzIjt9/ctvfxp7u8aauysq.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xNDA5MDIxNy9DVHZGWFA3VThBQVV5U1EuanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiJiMWU0ZTgwZWY5ZDgwMTExMWI1OTc5ZDgwNWM4Y2Q2MjZkMzAxZjU4Ijt9/ctvfxp7u8aauysq.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY2OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xNDA5MDIxNy9DVHZGWFA3VThBQVV5U1EuanBnIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6IjgwZmY4NjBhNWY1N2FjMzIxMDEyMWJjOGM4Zjk3MTRjOGFkMGVkMmMiO30=/ctvfxp7u8aauysq.jpg" media="(max-width: 639px)">
+<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzE0MDcyMDAzL2ZsaWdodHMuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI5MTU1YTBiNWZmMjE0MGVkZjBlNjAwNTg0MGExNWI0NTc4YmNjZWFmIjt9/flights.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzE0MDcyMDAzL2ZsaWdodHMuanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiJlZmNlNjM4MGUxMjE0MzYyODhhNTc0NGQxOWI5MWQ1ZTdiNjNkZGYwIjt9/flights.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU3OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzE0MDcyMDAzL2ZsaWdodHMuanBnIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6ImJhNTI4YjU4OGJiZmQ0MDE1ZWJmN2M1N2Y2NmJhNGQ4NWY2YThiOGMiO30=/flights.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3Lmhlci5pZS9hc3NldHMvaW1hZ2VzL2hlci9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijk4Yzc0YTU0ZWFmM2ExNjYzMTRiMTMxMDQ5OGU1MTE0NjRmMDkwYzEiO30=/no-image.png" data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xNDA5MDIxNy9DVHZGWFA3VThBQVV5U1EuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiJlNTU2MzE4NDc1Y2IwYTI2ZWVjZWM1M2Y2NWM1NjU1MWMzNDBlNDEzIjt9/ctvfxp7u8aauysq.jpg" alt="United In Grief: Landmarks Across The Globe Light Up In French Colours As Mark Of Solidarity" class="river-post-image lazyload">
+<img src="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3Lmhlci5pZS9hc3NldHMvaW1hZ2VzL2hlci9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiNDI0NTgyMmZiNWNjYTY3OGY0ZjIwN2ZiOGMyOTMxOWE3Y2MxZGE1OCI7fQ==/no-image.png" data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzE0MDcyMDAzL2ZsaWdodHMuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI5MTU1YTBiNWZmMjE0MGVkZjBlNjAwNTg0MGExNWI0NTc4YmNjZWFmIjt9/flights.jpg" alt="Ryanair and Aer Lingus cancel a number of flights today" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="detail">
-<div class="headline">
-<a href="http://www.her.ie/news/united-in-grief-landmarks-across-the-globe-light-up-in-french-colours-as-mark-of-solidarity/264834">United In Grief: Landmarks Across The Globe Light Up In French Colours As Mark Of Solidarity</a>
+<div class="headline hidden-xs">
+<a href="http://www.her.ie/news/ryanair-and-aerlingus-cancel-a-number-of-flights-today/297692">Ryanair and Aer Lingus cancel a number of flights today</a>
+</div>
+<div class="headline visible-xs">
+<a href="http://www.her.ie/news/ryanair-and-aerlingus-cancel-a-number-of-flights-today/297692">Ryanair and Aer Lingus cancel a number of flights today</a>
 </div>
 <div class="sub-text">
 <div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.her.ie/news/united-in-grief-landmarks-across-the-globe-light-up-in-french-colours-as-mark-of-solidarity/264834" data-title="United In Grief: Landmarks Across The Globe Light Up In French Colours As Mark Of Solidarity">
+<span class="share-trigger" data-url="http://www.her.ie/news/ryanair-and-aerlingus-cancel-a-number-of-flights-today/297692" data-title="Ryanair and Aer Lingus cancel a number of flights today">
 <img src="http://www.her.ie/assets/images/her/share.png?v=2" alt="share icon">
-<strong>252</strong> shares
+<strong>7</strong> shares
 </span>
 </div>
 <div class="pull-left tag-link uppercase tag-holder tag-holder-news"><a href="http://www.her.ie/news">News</a></div>
-<span class="time uppercase">1 hour ago</span>
+<span class="time uppercase">47 minutes ago</span>
 </div>
 </div>
 <div class="clearfix"></div>
 </div>
 </div>
-<div class="standard-post-holder">
+<div class="standard-post-holder col-xs-6 col-md-4">
 <div class="standard-post no-hp top-space ">
 <div class="no-hp image-holder">
-<a href="http://www.her.ie/music/dark-time-in-paris-as-eiffel-tower-turns-off-its-lights-as-mark-of-respect/264830">
+<a href="http://www.her.ie/life/an-old-parody-video-perfectly-predicted-the-stanford-rape-case/297690">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg2OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xNDAxNTIzNC9TY3JlZW4tU2hvdC0yMDE1LTExLTE0LWF0LTAxLjUyLjA0LnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiZDgxMGExMDNkOTk4ZmUzYTYyZmQxZDExMTBmZjJmOTNlOTZmNTcxMyI7fQ==/screen-shot-2015-11-14-at-015204.png" media="(min-width: 970px)">
-<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg2OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xNDAxNTIzNC9TY3JlZW4tU2hvdC0yMDE1LTExLTE0LWF0LTAxLjUyLjA0LnBuZyI7czo1OiJ3aWR0aCI7aTozNTA7czo2OiJoZWlnaHQiO2k6MTc3O30iO3M6NDoiaGFzaCI7czo0MDoiMmZiMDhmMjI1NGJhZTg2ZTgzN2Q2YTUxOTI2YWFiYjdmNjE4NDNhZCI7fQ==/screen-shot-2015-11-14-at-015204.png" media="(min-width: 640px)">
-<source data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg1OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xNDAxNTIzNC9TY3JlZW4tU2hvdC0yMDE1LTExLTE0LWF0LTAxLjUyLjA0LnBuZyI7czo1OiJ3aWR0aCI7aToxNjI7czo2OiJoZWlnaHQiO2k6ODI7fSI7czo0OiJoYXNoIjtzOjQwOiI3YmIxYmE4MDcyNTA3MTVmNzBkZTIwOTU2MmIyMmUzYWNlMjUyNGJhIjt9/screen-shot-2015-11-14-at-015204.png" media="(max-width: 639px)">
+<source data-srcset="http://m2.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTcyOiJhOjM6e3M6MzoidXJsIjtzOjExMDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8xMzIyMTcyOC9wamltYWdlLTI0MS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImJhYWZiOTQ5MjZjNWI0OTA4MGZhMWY1ZmM4MzcxY2ZmYzY4MmY3Y2MiO30=/pjimage-241-1024x576.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m2.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTcyOiJhOjM6e3M6MzoidXJsIjtzOjExMDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8xMzIyMTcyOC9wamltYWdlLTI0MS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImYwZjBiOWFjZTY3ZGJkMzIyNTgxZGFhYjM0ZDY0M2VhNTQzNDkyNTQiO30=/pjimage-241-1024x576.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m2.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTcxOiJhOjM6e3M6MzoidXJsIjtzOjExMDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8xMzIyMTcyOC9wamltYWdlLTI0MS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiZmZhY2QyY2ExMGM4NGQ2N2YwYmQzY2E2YmFhY2IzNzFhZmViODU0NyI7fQ==/pjimage-241-1024x576.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3Lmhlci5pZS9hc3NldHMvaW1hZ2VzL2hlci9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijk4Yzc0YTU0ZWFmM2ExNjYzMTRiMTMxMDQ5OGU1MTE0NjRmMDkwYzEiO30=/no-image.png" data-srcset="http://m1.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTg2OiJhOjM6e3M6MzoidXJsIjtzOjEyNDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8xMS8xNDAxNTIzNC9TY3JlZW4tU2hvdC0yMDE1LTExLTE0LWF0LTAxLjUyLjA0LnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiZDgxMGExMDNkOTk4ZmUzYTYyZmQxZDExMTBmZjJmOTNlOTZmNTcxMyI7fQ==/screen-shot-2015-11-14-at-015204.png" alt="Dark Time In Paris As Eiffel Tower Turns Off Its Lights As Mark Of Respect" class="river-post-image lazyload">
+<img src="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3Lmhlci5pZS9hc3NldHMvaW1hZ2VzL2hlci9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiNDI0NTgyMmZiNWNjYTY3OGY0ZjIwN2ZiOGMyOTMxOWE3Y2MxZGE1OCI7fQ==/no-image.png" data-srcset="http://m2.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTcyOiJhOjM6e3M6MzoidXJsIjtzOjExMDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8xMzIyMTcyOC9wamltYWdlLTI0MS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImJhYWZiOTQ5MjZjNWI0OTA4MGZhMWY1ZmM4MzcxY2ZmYzY4MmY3Y2MiO30=/pjimage-241-1024x576.jpg" alt="An old parody video perfectly predicted the Stanford Rape Case" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="detail">
-<div class="headline">
-<a href="http://www.her.ie/music/dark-time-in-paris-as-eiffel-tower-turns-off-its-lights-as-mark-of-respect/264830">Dark Time In Paris As Eiffel Tower Turns Off Its Lights As Mark Of Respect</a>
+<div class="headline hidden-xs">
+<a href="http://www.her.ie/life/an-old-parody-video-perfectly-predicted-the-stanford-rape-case/297690">An old parody video perfectly predicted the Stanford Rape Case</a>
+</div>
+<div class="headline visible-xs">
+<a href="http://www.her.ie/life/an-old-parody-video-perfectly-predicted-the-stanford-rape-case/297690">An old parody video perfectly predicted the Stanford Rape Case</a>
 </div>
 <div class="sub-text">
 <div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.her.ie/music/dark-time-in-paris-as-eiffel-tower-turns-off-its-lights-as-mark-of-respect/264830" data-title="Dark Time In Paris As Eiffel Tower Turns Off Its Lights As Mark Of Respect">
+<span class="share-trigger" data-url="http://www.her.ie/life/an-old-parody-video-perfectly-predicted-the-stanford-rape-case/297690" data-title="An old parody video perfectly predicted the Stanford Rape Case">
 <img src="http://www.her.ie/assets/images/her/share.png?v=2" alt="share icon">
-<strong>1.5k</strong> shares
+<strong>35</strong> shares
 </span>
 </div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-music"><a href="http://www.her.ie/music">Music</a></div>
-<span class="time uppercase">8 hours ago</span>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-life"><a href="http://www.her.ie/life">Life</a></div>
+<span class="time uppercase">9 hours ago</span>
 </div>
 </div>
 <div class="clearfix"></div>
 </div>
 </div>
-<div class="standard-post-holder">
+<div class="standard-post-holder col-xs-6 col-md-4">
 <div class="standard-post no-hp top-space ">
 <div class="no-hp image-holder">
-<a href="http://www.her.ie/news/dublin-lights-up-in-french-colours-to-show-solidarity-following-paris-attacks/264831">
+<a href="http://www.her.ie/beauty/this-5-year-old-hair-stylist-is-seriously-talented/297686">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU3OiJhOjM6e3M6MzoidXJsIjtzOjk2OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzExLzE0MDEzOTI5L0RVYmxpbi5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImQ0NjM0MWZjOWVlMGFmMjBjYTA4ODQxNTljNzA4N2FhODNiOTA3YzYiO30=/dublin.png" media="(min-width: 970px)">
-<source data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU3OiJhOjM6e3M6MzoidXJsIjtzOjk2OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzExLzE0MDEzOTI5L0RVYmxpbi5wbmciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImJjZTg2NjBmZmJkNWI0MTMwNWI1YmEyYjk0Mjg5ZDU5YWE4NGE5MzQiO30=/dublin.png" media="(min-width: 640px)">
-<source data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU2OiJhOjM6e3M6MzoidXJsIjtzOjk2OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzExLzE0MDEzOTI5L0RVYmxpbi5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiZWJlOTg0OTlmYjU3ZWNjYjc4MDhlZjQ1YmI1MDY5ZWYxOWJmY2JjNSI7fQ==/dublin.png" media="(max-width: 639px)">
+<source data-srcset="http://m2.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTcyOiJhOjM6e3M6MzoidXJsIjtzOjExMDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8xMzIxMDUyNi9wamltYWdlLTIzMS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjdmYmI5NTRmMTgzZWJjYWE3NjViNzYyZjA1ZDk5ZDcxNmFkYjczNzEiO30=/pjimage-231-1024x576.jpg" media="(min-width: 970px)">
+<source data-srcset="http://m2.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTcyOiJhOjM6e3M6MzoidXJsIjtzOjExMDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8xMzIxMDUyNi9wamltYWdlLTIzMS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjIxMzRiY2FhMmFlMGE1NjY1ZjQ4MzQ4ZjMxZjUzY2NjZTdhY2MwZGMiO30=/pjimage-231-1024x576.jpg" media="(min-width: 640px)">
+<source data-srcset="http://m2.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTcxOiJhOjM6e3M6MzoidXJsIjtzOjExMDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8xMzIxMDUyNi9wamltYWdlLTIzMS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiMzI4NjM1ZmJhY2Q2ZjJiNjRhMDU3NzA2YjBiMzZmOTk5YjhjYWM2YSI7fQ==/pjimage-231-1024x576.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3Lmhlci5pZS9hc3NldHMvaW1hZ2VzL2hlci9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijk4Yzc0YTU0ZWFmM2ExNjYzMTRiMTMxMDQ5OGU1MTE0NjRmMDkwYzEiO30=/no-image.png" data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU3OiJhOjM6e3M6MzoidXJsIjtzOjk2OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzExLzE0MDEzOTI5L0RVYmxpbi5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImQ0NjM0MWZjOWVlMGFmMjBjYTA4ODQxNTljNzA4N2FhODNiOTA3YzYiO30=/dublin.png" alt="Dublin Lights Up In French Colours To Show Solidarity Following Paris Attacks" class="river-post-image lazyload">
+<img src="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3Lmhlci5pZS9hc3NldHMvaW1hZ2VzL2hlci9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiNDI0NTgyMmZiNWNjYTY3OGY0ZjIwN2ZiOGMyOTMxOWE3Y2MxZGE1OCI7fQ==/no-image.png" data-srcset="http://m2.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTcyOiJhOjM6e3M6MzoidXJsIjtzOjExMDoiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8xMzIxMDUyNi9wamltYWdlLTIzMS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjdmYmI5NTRmMTgzZWJjYWE3NjViNzYyZjA1ZDk5ZDcxNmFkYjczNzEiO30=/pjimage-231-1024x576.jpg" alt="This 5-year-old hair stylist is seriously talented" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="detail">
-<div class="headline">
-<a href="http://www.her.ie/news/dublin-lights-up-in-french-colours-to-show-solidarity-following-paris-attacks/264831">Dublin Lights Up In French Colours To Show Solidarity Following Paris Attacks</a>
+<div class="headline hidden-xs">
+<a href="http://www.her.ie/beauty/this-5-year-old-hair-stylist-is-seriously-talented/297686">This 5-year-old hair stylist is seriously talented</a>
+</div>
+<div class="headline visible-xs">
+<a href="http://www.her.ie/beauty/this-5-year-old-hair-stylist-is-seriously-talented/297686">This 5-year-old hair stylist is seriously talented</a>
 </div>
 <div class="sub-text">
 <div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.her.ie/news/dublin-lights-up-in-french-colours-to-show-solidarity-following-paris-attacks/264831" data-title="Dublin Lights Up In French Colours To Show Solidarity Following Paris Attacks">
+<span class="share-trigger" data-url="http://www.her.ie/beauty/this-5-year-old-hair-stylist-is-seriously-talented/297686" data-title="This 5-year-old hair stylist is seriously talented">
 <img src="http://www.her.ie/assets/images/her/share.png?v=2" alt="share icon">
-<strong>4.4k</strong> shares
+<strong>47</strong> shares
 </span>
 </div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-news"><a href="http://www.her.ie/news">News</a></div>
-<span class="time uppercase">8 hours ago</span>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-beauty"><a href="http://www.her.ie/beauty">Beauty</a></div>
+<span class="time uppercase">11 hours ago</span>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="standard-post-holder col-xs-6 col-md-4">
+<div class="standard-post no-hp top-space ">
+<div class="no-hp image-holder">
+<a href="http://www.her.ie/life/property-porn-house-father-bride-sale/297671">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="http://m2.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU2OiJhOjM6e3M6MzoidXJsIjtzOjk1OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzEzMjAxMzM0L3N0ZXZlLnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiZGNhMTUzZDg4ZWU4ZjI2OGY1NzIxNDFmNmQ3MmM5ZWNhMWZmZDgzOCI7fQ==/steve.png" media="(min-width: 970px)">
+<source data-srcset="http://m2.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU2OiJhOjM6e3M6MzoidXJsIjtzOjk1OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzEzMjAxMzM0L3N0ZXZlLnBuZyI7czo1OiJ3aWR0aCI7aTozNTA7czo2OiJoZWlnaHQiO2k6MTc3O30iO3M6NDoiaGFzaCI7czo0MDoiOGVkMTNlYzM1N2RhYjQ3ZDk0NTYzZmQ4NjY1ZWVmOGUwMzEzYmM5YSI7fQ==/steve.png" media="(min-width: 640px)">
+<source data-srcset="http://m2.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU1OiJhOjM6e3M6MzoidXJsIjtzOjk1OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzEzMjAxMzM0L3N0ZXZlLnBuZyI7czo1OiJ3aWR0aCI7aToxNjI7czo2OiJoZWlnaHQiO2k6ODI7fSI7czo0OiJoYXNoIjtzOjQwOiJiNDg4ZTIxMjhiNWJhNmRhNWFiOTBkY2Y4OTE2NTBkNmI0YzY1OTYzIjt9/steve.png" media="(max-width: 639px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3Lmhlci5pZS9hc3NldHMvaW1hZ2VzL2hlci9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiNDI0NTgyMmZiNWNjYTY3OGY0ZjIwN2ZiOGMyOTMxOWE3Y2MxZGE1OCI7fQ==/no-image.png" data-srcset="http://m2.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU2OiJhOjM6e3M6MzoidXJsIjtzOjk1OiJodHRwOi8vbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzEzMjAxMzM0L3N0ZXZlLnBuZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiZGNhMTUzZDg4ZWU4ZjI2OGY1NzIxNDFmNmQ3MmM5ZWNhMWZmZDgzOCI7fQ==/steve.png" alt="Property Porn: The house from 'Father of the Bride' is for sale" class="river-post-image lazyload">
+</picture>
+</a>
+</div>
+<div class="detail">
+<div class="headline hidden-xs">
+<a href="http://www.her.ie/life/property-porn-house-father-bride-sale/297671">Property Porn: The house from 'Father of the Bride' is for sale</a>
+</div>
+<div class="headline visible-xs">
+<a href="http://www.her.ie/life/property-porn-house-father-bride-sale/297671">Property Porn: The house from 'Father of the Bride' is for sale</a>
+</div>
+<div class="sub-text">
+<div class="pull-right inverted-shares uppercase">
+<span class="share-trigger" data-url="http://www.her.ie/life/property-porn-house-father-bride-sale/297671" data-title="Property Porn: The house from 'Father of the Bride' is for sale">
+<img src="http://www.her.ie/assets/images/her/share.png?v=2" alt="share icon">
+<strong>295</strong> shares
+</span>
+</div>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-life"><a href="http://www.her.ie/life">Life</a></div>
+<span class="time uppercase">11 hours ago</span>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="standard-post-holder col-xs-6 col-md-4">
+<div class="standard-post no-hp top-space ">
+<div class="no-hp image-holder">
+<a href="http://www.her.ie/lol/18-key-phrases-bluff-through-euro-2016/297658">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8xMzE4MTcxOC9mZWF0MTYtMTAyNHg2ODIucG5nIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiIyN2FkODE2YmI2MzFjNjFjNTIzNjQ3YTViY2NhYzUyOWIzNjgzNzQ4Ijt9/feat16-1024x682.png" media="(min-width: 970px)">
+<source data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8xMzE4MTcxOC9mZWF0MTYtMTAyNHg2ODIucG5nIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiIzMGZkY2VmOTUwNjEyYjFmNjI5NWMzZTY2ZWE3MmQ2YzVhZWRmMmM4Ijt9/feat16-1024x682.png" media="(min-width: 640px)">
+<source data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY2OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8xMzE4MTcxOC9mZWF0MTYtMTAyNHg2ODIucG5nIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6IjNmMmZlNTRmMmZmOTViZTM4MzdjN2E3Mjg2YTZjNDk1MTc5N2ExZmUiO30=/feat16-1024x682.png" media="(max-width: 639px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3Lmhlci5pZS9hc3NldHMvaW1hZ2VzL2hlci9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiNDI0NTgyMmZiNWNjYTY3OGY0ZjIwN2ZiOGMyOTMxOWE3Y2MxZGE1OCI7fQ==/no-image.png" data-srcset="http://m0.her.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY3OiJhOjM6e3M6MzoidXJsIjtzOjEwNToiaHR0cDovL21lZGlhLWhlci5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8xMzE4MTcxOC9mZWF0MTYtMTAyNHg2ODIucG5nIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiIyN2FkODE2YmI2MzFjNjFjNTIzNjQ3YTViY2NhYzUyOWIzNjgzNzQ4Ijt9/feat16-1024x682.png" alt="18 key phrases to bluff your way through Euro 2016" class="river-post-image lazyload">
+</picture>
+</a>
+</div>
+<div class="detail">
+<div class="headline hidden-xs">
+<a href="http://www.her.ie/lol/18-key-phrases-bluff-through-euro-2016/297658">18 key phrases to bluff your way through Euro 2016</a>
+</div>
+<div class="headline visible-xs">
+<a href="http://www.her.ie/lol/18-key-phrases-bluff-through-euro-2016/297658">18 key phrases to bluff your way through Euro 2016</a>
+</div>
+<div class="sub-text">
+<div class="pull-right inverted-shares uppercase">
+<span class="share-trigger" data-url="http://www.her.ie/lol/18-key-phrases-bluff-through-euro-2016/297658" data-title="18 key phrases to bluff your way through Euro 2016">
+<img src="http://www.her.ie/assets/images/her/share.png?v=2" alt="share icon">
+<strong>396</strong> shares
+</span>
+</div>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-lol"><a href="http://www.her.ie/lol">LOL</a></div>
+<span class="time uppercase">13 hours ago</span>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -571,6 +723,7 @@ More from Her.ie
 </div>
 <div class="clearfix"></div>
  
+</div>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -579,7 +732,7 @@ More from Her.ie
 Load More Articles
 <div class="loading-icon"></div>
 </button>
-<div class="nav-selector" data-pages="4709">
+<div class="nav-selector" data-pages="5481">
 <a href="http://www.her.ie/page/2" class="next">Next Page</a>
 </div>
 </div>
@@ -596,59 +749,6 @@ We use cookies to ensure that we give you the best experience on our website.
 <div id="div-gpt-out_of_page" data-article="209453" data-route="" data-tag="" data-section="" data-search="" <="" div="">
 
                 
-                <div class="modal fade modal-large" id="shareModal" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="featured-story-title uppercase">
-                <button type="button" class="close pull-right" data-dismiss="modal">
-                    <span aria-hidden="true">×</span><span class="sr-only">Close</span>
-                </button>
-                <strong>
-                    Share this article
-                </strong>
-            </div>
-            <div class="modal-body">
-                <div class="share-holder">
-                    Share "<span id="share-modal-article-title"></span>"
-                    <div class="actions top-space text-center">
-                        <a id="share-modal-twitter" data-category="Sharing Button Modal" data-label="Twitter" data-via="Herdotie" rel="external" class="analytics"><i class="fa fa-twitter"></i></a>
-                        <a id="share-modal-facebook" data-category="Sharing Button Modal" data-label="Facebook" rel="external" class="analytics"><i class="fa fa-facebook-square"></i></a>
-                        <a id="share-modal-whatsapp" data-category="Sharing Button Modal" data-label="Whatsapp" rel="external" class="whatsapp-share hide analytics"><i class="fa fa-whatsapp"></i></a>
-                        <a id="share-modal-email" data-category="Sharing Button Modal" data-label="Email" data-site="Her.ie" class="analytics"><i class="fa fa-envelope"></i></a>
-                    </div>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-
-                <div class="modal fade modal-large" id="searchModal" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="featured-story-title uppercase">
-                <button type="button" class="close pull-right" data-dismiss="modal">
-                    <span aria-hidden="true">×</span><span class="sr-only">Close</span>
-                </button>
-                <strong>
-                    Search
-                </strong>
-            </div>
-            <div class="modal-body">
-                <form class="search-form navbar" action="http://www.her.ie/search">
-                    <div class="input-group">
-                        <input type="text" placeholder="Search" class="form-control search-input" id="search-modal-input">
-                        <span class="input-group-addon search-button">
-                            <i class="fa fa-search"></i>
-                        </span>
-                    </div>
-                </form>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-
         <img id="comscore" height="1" width="1">
 
 <div id="parsely-root" style="display: none">
@@ -668,7 +768,13 @@ We use cookies to ensure that we give you the best experience on our website.
 
 
 
-        <script src="http://www.her.ie/assets/js/app-3cbc0bb8.js"></script>
+<div id="div-gpt-oop">
+    <script type="text/javascript">
+        googletag.cmd.push(function () { googletag.display('div-gpt-oop'); });
+    </script>
+</div>
+
+        <script src="http://www.her.ie/assets/js/app-26beece0.js"></script>
 
 
                 <script type="text/javascript">
@@ -683,6 +789,7 @@ We use cookies to ensure that we give you the best experience on our website.
                 jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
             })();
         </script>
-            
+        
+                    
 
 </div></body></html>
