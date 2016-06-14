@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkyoutube.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127171930id_/http%3A//www.save-video.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkyoutube.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615005143id_/http%3A//www.save-video.com/privacy.php) for the most accurate reproduction.*
 
 # Save-Video.com | Privacy Policy
 
