@@ -1,43 +1,102 @@
-> *The following text is extracted and transformed from the sonyopentennis.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206072425id_/http%3A//www.miamiopen.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyopentennis.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614021519id_/http%3A//miamiopen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Miami Open
+# Privacy Policy
 
-Your privacy on the internet is of the utmost importance to us. Because we gather certain types of information about the users of this site, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy policy discloses the privacy practices for this site (“this site”) - what information we gather, how we use it and how to correct or change it. This privacy policy only addresses our activities from our servers. Other sites (including those to which this site links and third party sites or services with which IMG may have relationships) may have their own privacy policies and practices, which we do not control, and we are not responsible for nor we endorse such practices or policies.
+PRIVACY POLICY
 
-General Privacy Information
+IMG Worldwide Miami Open Privacy Policy
 
-This site contains links to partners, advertisers and third party internet sites and services who may collect data in connection with sweepstakes, promotions, e-commerce, etc. They each have separate privacy and data collection practices, independent of this site and IMG has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such sites. Please keep in mind that whenever you voluntarily and publicly disclose personal information on any online service or website - for example through email - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Further, while we take reasonable steps to protect your personal information using the security and other measures set forth herein, IMG cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you are online.
+Effective Date: March 21, 2016  
+  
 
-Collection and Use of Information
 
-This site collects information about you both from what you tell us and what we collect through the use of cookies (see Cookies below). Information collected about you is used in two different ways. Information is "aggregated" -- meaning that the information from many users is grouped together in a way that does not disclose the personal information of any particular user. We may use this aggregated information to determine user traffic statistics for this site (including without limitation to determine browser usage, duration of stay, the referring URL, IP address geographical location, etc.) and to evaluate which products and services are successful and which ones are not, and in order to evaluate which new services we should make available on this site. We may use only the anonymous click stream data to help our advertisers deliver better-targeted advertisements. In addition, IMG may use personal information collected through cookies and registration pages to target e-commerce promotions and telemarketing activities for products and services related to IMG and/or its sponsors, advertisers and business partners. In addition, some of your personal information may be shared with third parties who assist IMG in producing its site or provide a service to this site's users.
+This Privacy Statement describes how information about you is collected, used, and disclosed by IMG Worldwide, Inc.,  and our parents, subsidiaries and affiliates (collectively, "IMG Worldwide," "we" or "us") when you attend the Miami Open ("Miami Open") events, access or use our Miami Open website (collectively, the "Service"), or otherwise interact with us in connection with Miami Open. Please note that we may have different privacy statements with respect to certain parents, subsidiaries, affiliates, programs, or activities, and in those cases, this Privacy Statement will not apply.
 
-Registration
+INFORMATION COLLECTION
 
-Anyone who participates in any interactive activities offered on this site may be asked to register for a free guest ID and password or to complete subscription registration for an ID and password. We use this contact information from this registration form to send the registrant information about IMG, IMG affiliates, IMG events and clients, and promotional material from some of our clients, sponsors, advertisers and business partners. Users may always opt-out of receiving any such information either by responding to the relevant communication as directed or by contacting this site (see Contacting the Site and Changing Your Personal Information below). Financial information that is collected may be used to bill the user for any products and services purchased from IMG. The registrant's contact information is also used to contact the user who has purchased good from this site when necessary for customer service reasons. Unique identifiers, such as ID and passwords, are collected to verify the user's identity and for use as account numbers in our record system.
+Information You Provide to Us
 
-Child Online Protection Act Notification
+IMG Worldwide collects information from you when you choose to provide it to us. This may include when you request information from us, sign up for our newsletters or email lists, access or use our Service, make a purchase, participate in our contests, promotions, sweepstakes, surveys, or interviews, request support, or otherwise interact with us.
 
-Pursuant to 47 U.S.C. Section 230(d) as amended, IMG hereby notifies you that parental control provisions (such as computer hardware, software, or filtering services) are commercially available that may assist you in limiting access to material that is harmful to minors. Information identifying current providers of such protections is available at the Web Sites of the Electronic Frontier Foundation: [http://www.eff.org ](http://www.eff.org/)and America Links Up: [http://www.netparents.org ](http://www.netparents.org/).  To view information on our policy regarding the privacy of children under the age of 13, please see our privacy policy.
+The information we collect may include your name, address, email address, telephone number, payment information, and any other information you choose to provide. You may also be required to provide certain information to access certain portions of the Service.
 
-Children Under the Age of 13
+Information We Automatically Collect
 
-This privacy notice describes our practice of collecting, using and disclosing any personal information collected by IMG from all visitors to the Site, therefore including visitors who are children under the age of 13. If you have any questions about this policy, you may contact us by e-mail at [pgrooms@imgworld.com ](mailto:pgrooms@imgworld.com), or in writing at Website Operator, IMG, IMG Center , Suite 100 , 1360 East 9th Street , Cleveland , OH 44114-1782 .
+We may use cookies, web beacons, pixel tags, log files, or other technologies to automatically collect certain information when you use our Service. For example, we may automatically collect information such as your browser type, device type and operating system, unique device identifier, software version, IP address, and the domain name from which you accessed the Service. We also may collect information about your use of the Service including the date and time you access the Service, the areas or pages of the Service that you visit, the amount of time you spend using the Service, the number of times you return, whether you open, forward, or click-through emails and ads, log files, and other Service usage data. You may adjust your browser or operating system settings to limit this tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Service or take full advantage of all of our offerings. Check the "Help" menu of your browser or operating system to learn how to adjust your tracking settings or cookie preferences. Note that our system may not recognize some or all Do Not Track headers from browsers.
 
-IMG collects personal information from those who access the site. The personal information collected by IMG is currently limited to each visitor's name and email address. No user is required to disclose more information than is reasonably necessary. Any collected information is for IMG's internal purposes only, and is not disclosed to third parties. Information may be used for marketing purposes, and/or to provide you with IMG information which we believe may be of interest to you. In order to receive such information, marketing and otherwise, it is necessary for you to establish an account with us.
+If you attend Miami Open events where we are capturing audio and video recordings, we may also collect images of you. 
 
-It is IMG's intent to adhere to the provisions of the Children's Online Protection and Privacy Act of 1998 (U.S.C. 6501 et seq.) ("COPPA"). No child who visits the site is required to provide any information in order to access most of the site. If you are under age 13, please have a parent or guardian establish your account on the site. For account registration on the site, we require your name and email address. IMG will not rent or sell children's personal identifiable information. IMG will not contact children under age 13 regarding special offers or for marketing purpose without parental/guardian consent. A parent/guardian may review his or her child's personal information, ask to have it deleted and/or refuse to allow any further collection or use of his or her child's information from the site. To do any of the foregoing, please contact the site's operator through one of the methods listed above.
+Information We Collect from Other Sources
 
-Cookies
+We may receive information about you from other sources and link or combine that with information we collect about you. For example, we may collect publicly available information about you from social media platforms. 
 
-A cookie is a small data file that certain websites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. A cookie can't read data off your hard disk or read cookie files created by other sites. This random number lets us keep track of "how many" times customers are doing specific things - like visiting our site each month - without really knowing who those customers are. We use cookies to deliver content specific to your interests and to save your member ID. Additionally, after you've entered your member ID and password during a session on our service, we save that information so you don't have to reenter it repeatedly during that session. Users should be aware that this site cannot control the use of cookies or the resulting information placed by advertisers or third parties hosting data for this site. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies maybe necessary to provide the user with certain features (e.g., customized delivery of information) available on this site.
+INFORMATION USE
 
-Newsletter
+IMG Worldwide may use the information we collect from and about you to:
 
-We may offer newsletters to share content information about this site with interested users. We use contact data from our newsletter subscriptions to send users the newsletter. On occasion we will email customers promotional material from some of our sponsors, advertisers or business partners. Users may cancel their free email subscriptions and other communications by following the simple instructions at the bottom of each newsletter or email.
+  * Operate, maintain, and improve the Service;
+  * Develop new Services and content;
+  * Provide you with customized content, targeted offers, and advertising on the Service or other sites and apps;
+  * Monitor and analyze trends, usage, and activities in connection with the Service and Miami Open events;
+  * Respond to your inquiries and provide customer service;
+  * Facilitate contests, sweepstakes, and promotions and process and deliver entries, prizes, and rewards;
+  * Send you information, newsletters, and promotional materials from IMG Worldwide and our partners;
+  * Protect the security or integrity of the Service and our business;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * Carry out any other purpose described to you at the point of data collection.
 
-Security
 
-This site utilizes a variety of security measures to maintain the safety of your personal information. All user contact information is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems. Passwords and credit card numbers are encrypted in this site's secure database, which is also located behind a firewall. All sensitive/credit information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted in this site's databases as stated above.
 
-Copyright © IMG Worldwide, Inc. All rights reserved. 2010.
+INFORMATION SHARING
+
+IMG Worldwide may share the personal information we collect from and about you:
+
+  * With our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership;
+  * With our service providers, vendors, and consultants who need access to the information to perform services for us;
+  * With event sponsors and other partners, including but not limited to AGT GmbH International, Appy Entertainment GmbH, Appy Entertainment LLC and their respective affiliates and subsidiaries, where necessary to provide you with the Services and for their own business purposes, including for the purpose of sending you promotional communications;
+  * As necessary if we believe that there has been a violation of the IMG Worldwide Terms of Service [INSERT hyperlink]or of our rights or the rights of any third party;
+  * To respond to judicial process or provide information to law enforcement or regulatory agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law;
+  * In connection with any merger, sale of assets, financing, bankruptcy, or reorganization of our business; and
+  * With your consent.
+
+
+
+Further, IMG Worldwide may share aggregated or anonymous information which cannot reasonably be used to identify you.
+
+SOCIAL SHARING FEATURES
+
+The Service may offer social sharing features and other integrated tools such as the Facebook "Like" button, which let you share actions you take on our Service with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+
+ADVERTISING AND ANALYTICS
+
+We may allow others to provide analytics services and serve advertisements on our behalf across the Internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Service and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Service and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). On your mobile device, you may also adjust your privacy and advertising settings to control whether you want to receive more relevant advertising.
+
+We may also work with third parties to serve ads to you as part of a customized campaign on other websites or platforms.
+
+YOUR CALIFORNIA PRIVACY RIGHTS
+
+For California residents: IMG Worldwide may share your personal information with select third parties. Under California law, you may request information about our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at Insert Email address.
+
+DATA STORAGE
+
+Your information may be stored on servers in the United States and is subject to the laws of the United States, where the data protection and other laws may differ from those of other countries. Your information may be disclosed in response to inquiries or requests from government authorities or to respond to judicial process in the countries in which we operate. By accessing or using the Service or otherwise providing information to us, you consent to the processing, transfer and storage of information in and to the United States and other countries, where you may not have the same rights and protections as you do under local law.
+
+DATA SECURITY
+
+IMG Worldwide takes reasonable precautions to help protect your information. We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Service users. Because there is always some risk in transmitting information over the Internet, we cannot guarantee the security of your information.
+
+The Service may have links to third-party sites or applications, which may have privacy policies that differ from our own.  We are not responsible for the practices of such sites or applications.
+
+YOUR COMMUNICATION CHOICES
+
+Promotional Communications
+
+You may opt out of receiving promotional communications from IMG Worldwide by following the instructions in those communications or by tickets@img.com. If you opt out, we may still send you non-promotional communications.
+
+IF YOU HAVE QUESTIONS
+
+If you have any questions about this Privacy Statement or the practices described herein, you may contact us tickets@img.com
+
+REVISIONS TO THIS STATEMENT
+
+IMG Worldwide reserves the right to revise this Privacy Statement at any time. When we do, we will post the change(s) on the Service and update the date at the top of this Privacy Statement. If we change the Privacy Statement in a material way, we will provide appropriate notice to you. We encourage you to review the Privacy Statement whenever you access the Service or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
