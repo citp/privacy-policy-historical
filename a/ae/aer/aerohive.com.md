@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the aerohive.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003135139id_/http%3A//www.aerohive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerohive.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615015635id_/http%3A//www.aerohive.com/legal/aerohive-privacy-policy.html) for the most accurate reproduction.*
 
-# Aerohive Networks Privacy Policy | Aerohive Networks
+# Privacy Policy | Aerohive Networks
 
-##  Last Modified: September 23, 2014
+
+
+
+## Last Modified: September 23, 2014
 
 Aerohive Networks, Inc. (“ **Aerohive** ”, “ **we** ” or “ **us** ”) values the privacy of our customers and others who visit the Aerohive Site or use our Products and Services (individually, “ **you** ” or collectively, “ **Users** ”). We take your privacy seriously and want to describe here how we use and protect information that we obtain from and about you, both online and off-line.
 
@@ -23,17 +26,17 @@ By accessing or using our Services, you expressly consent to our use of the info
 
 This Privacy Policy is incorporated into and is subject to the Aerohive Terms and Conditions and/or Terms of Use or applicable end user license or use agreement included with the Products. Your use of the Services and any Personal Information you provide or may be available to us through the Services are subject to the terms of this Privacy Policy and Aerohive Terms and Conditions and/or Terms of Use, or applicable end user license or use agreement.
 
-_**Aerohive’s Data Practices for Visitors to Our Site and Users of Our Products and Services**_
+**Aerohive’s Data Practices for Visitors to Our Site and Users of Our Products and Services**
 
 **Information Aerohive Collects For Its Own Purposes**
 
-_User-Provided Information._ When you register and set up an account, use the Products or Services, use or visit the Site, or contact us by e-mail or other means, you may provide or make available to Aerohive what is often referred to as “ **personally identifiable information** ” (such as your name, company, email address, postal mailing address, work/mobile telephone number. In this Privacy Policy, we refer to this information as “ **Personal Information**.” In addition, from time to time we may collect job function, contact or other company information you provide in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities through our Services.
+User-Provided Information. When you register and set up an account, use the Products or Services, use or visit the Site, or contact us by e-mail or other means, you may provide or make available to Aerohive what is often referred to as “ **personally identifiable information** ” (such as your name, company, email address, postal mailing address, work/mobile telephone number. In this Privacy Policy, we refer to this information as “ **Personal Information**.” In addition, from time to time we may collect job function, contact or other company information you provide in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities through our Services.
 
-_Automatically Collected Information._ Some information is also automatically collected when you use our Services, such as your Internet Protocol (IP) address, MAC address, your operating system, your browser type, the address of a referring web site, your location and/or cell or mobile device identifier, and information identifying your activity or transactions, and other information relating to your device or information identifying your activity or transactions performed while on our Site or using our Products or Services. We treat information you may provide or make available, information we automatically collect and information available to us through social networks or other sources as Personal Information, which we may separately collect and retain or which we may aggregate or deidentified forms only.
+Automatically Collected Information. Some information is also automatically collected when you use our Services, such as your Internet Protocol (IP) address, MAC address, your operating system, your browser type, the address of a referring web site, your location and/or cell or mobile device identifier, and information identifying your activity or transactions, and other information relating to your device or information identifying your activity or transactions performed while on our Site or using our Products or Services. We treat information you may provide or make available, information we automatically collect and information available to us through social networks or other sources as Personal Information, which we may separately collect and retain or which we may aggregate or deidentified forms only.
 
-_“Cookies” and Clear Gif Information._ “ **Cookies** ” and clear gifs are two sources of information we may also automatically collect. Cookies are small data files that are stored on a user's hard drive at the request of a Web site, such as our Site, to enable such Web site to recognize users who have previously visited them and to enable our Site to retain certain information such as your customer preferences and use or transaction history. If we combine cookies with or link them to any of the Personal Information, we would treat this information as Personal Information as well. Clear gifs (also known as web beacons or pixel tags) are small, invisible graphic images that may be used on our Services or in emails relating to the Services to collect certain information and monitor User activity on the Services, and which we may combine with your IP address or other information that we have gathered with respect to a User's use of the Services. If you wish to block, erase, or be warned of cookies, please refer to your browser instructions or help screen to learn about these functions. However, if your browser is set not to accept cookies or if your reject a cookie, some portions of the Services may not function properly for you.
+“Cookies” and Clear Gif Information. “ **Cookies** ” and clear gifs are two sources of information we may also automatically collect. Cookies are small data files that are stored on a user's hard drive at the request of a Web site, such as our Site, to enable such Web site to recognize users who have previously visited them and to enable our Site to retain certain information such as your customer preferences and use or transaction history. If we combine cookies with or link them to any of the Personal Information, we would treat this information as Personal Information as well. Clear gifs (also known as web beacons or pixel tags) are small, invisible graphic images that may be used on our Services or in emails relating to the Services to collect certain information and monitor User activity on the Services, and which we may combine with your IP address or other information that we have gathered with respect to a User's use of the Services. If you wish to block, erase, or be warned of cookies, please refer to your browser instructions or help screen to learn about these functions. However, if your browser is set not to accept cookies or if your reject a cookie, some portions of the Services may not function properly for you.
 
-_This Policy does not apply to activities of third parties._ This Privacy Policy does not apply to, and we are not responsible for, cookies and/or clear gifs in third party ads, and we encourage Users to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and/or clear gifs and other technology.
+This Policy does not apply to activities of third parties. This Privacy Policy does not apply to, and we are not responsible for, cookies and/or clear gifs in third party ads, and we encourage Users to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and/or clear gifs and other technology.
 
 **The Ways Aerohive Uses and Discloses Information**
 
@@ -77,7 +80,7 @@ The Site may be linked to internet websites operated by other companies. Some of
 
 You should consult the respective privacy policies of these third-party websites and third party ad servers or ad networks. Aerohive's Privacy Policy does not apply to, and we cannot control the activities of, such other third party advertisers or Web sites. Please be aware that Aerohive does not warn you when you have chosen to link through to another website from the Site.
 
-_**Aerohive’s Data Practices for Its Customers**_
+**Aerohive’s Data Practices for Its Customers**
 
 The following describe Aerohive’s data practices that are applicable in instances where Aerohive collects or processes data on behalf of partners, affiliates or other companies or entities that have purchased our Products (our “ **Customers** ”).
 
@@ -103,7 +106,7 @@ If you have provided data to a Customer, the retention of that data is subject t
 
 Aerohive will retain Personal Information we collect or access under this Privacy Policy, or process on behalf of our Customers, for as long as needed to provide services to our Customer, and will retain and use this Personal Information beyond that point as necessary as permitted under this Policy or to comply with legal obligations, resolve disputes, and enforce our contractual relationships.
 
-_**Generally Applicable Aerohive Privacy Practices**_
+**Generally Applicable Aerohive Privacy Practices**
 
 The following describes Aerohive’s practices that are applicable to the collection, access or use of data by Aerohive for its own business purposes as well as to Aerohive’s collection, access or use of data on behalf of our Customers.
 
