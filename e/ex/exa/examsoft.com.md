@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examsoft.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105002159id_/http%3A//learn.examsoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examsoft.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615014855id_/http%3A//learn.examsoft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ExamSoft
 
@@ -71,7 +71,7 @@ ExamSoft complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Har
 ExamSoft uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformance with Safe Harbor principles. In compliance with these principles, ExamSoft commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact ExamSoft at
 
   * **Email:  **  [privacy@examsoft.com](mailto:privacy@examsoft.com)
-  * **Mail:  **    Attn: Privacy Policy, ExamSoft Worldwide, Inc., 12720 Hillcrest Road, Suite 650, Dallas, TX 75230
+  * **Mail:  **    Attn: Privacy Policy, ExamSoft Worldwide, Inc., 12001 North Central Expressway, Suite 1250, Dallas, Texas 75243 USA
 
 
 
@@ -87,7 +87,7 @@ The Children’s Online Privacy Protection Act (“COPPA”) protects the online
 
 ## Contact Information
 
-If you have any questions or comments about this privacy policy or the manner in which ExamSoft collects, stores, or uses your personal data, please write by email to [privacy@examsoft.com](mailto:privacy@examsoft.com) or by postal mail to Attn: Privacy Policy, ExamSoft Worldwide, Inc., 12720 Hillcrest Road, Suite 650, Dallas, TX 75230.
+If you have any questions or comments about this privacy policy or the manner in which ExamSoft collects, stores, or uses your personal data, please write by email to [privacy@examsoft.com](mailto:privacy@examsoft.com) or by postal mail to Attn: Privacy Policy, ExamSoft Worldwide, Inc., 12001 North Central Expressway, Suite 1250, Dallas, Texas 75243 USA.
 
 _**Effective Date:   June 18, 2015**_
 
