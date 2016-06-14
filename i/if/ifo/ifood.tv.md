@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifood.tv privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214162930id_/http%3A//ifood.tv/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifood.tv privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614225730id_/http%3A//ifood.tv/info/privacy) for the most accurate reproduction.*
 
 # Privacy | iFood.tv
 
