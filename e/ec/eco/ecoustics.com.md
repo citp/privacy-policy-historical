@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecoustics.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215012715id_/http%3A//www.ecoustics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecoustics.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614152904id_/http%3A//www.ecoustics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ecoustics.com
 
@@ -16,7 +16,7 @@ eCoustics will take reasonable precautionary measures to protect and safeguard a
 
 eCoustics uses third-party advertising companies and advertising networks to serve ads and collect information when you visit our Web site. These companies may use information about your visits to this and other Web sites in order to provide advertisements on this Website, other sites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>
 
-Personally identifiable information such as your name, address, email address or telephone number are not shared with advertisers without your permission. We may use personally identifiable information in order to fill in forms on third-party sites we use to present advertising offers. But this information will not be shared and will not be stored by any third parties if you decline these offers. Among the third-party advertising companies that eCoustics uses are Tremor Media, IDG TechNetwork, Google AdSense, Vibrant Media, Tribal Fusion. For more information on their privacy policies, please consult their respective Privacy Policies.
+Personally identifiable information such as your name, address, email address or telephone number are not shared with advertisers without your permission. We may use personally identifiable information in order to fill in forms on third-party sites we use to present advertising offers. But this information will not be shared and will not be stored by any third parties if you decline these offers. Among the third-party advertising companies that eCoustics uses are IDG TechNetwork, Google AdSense, Google AdExchange, Tribal Fusion. For more information on their privacy policies, please consult their respective Privacy Policies.
 
 ### Third Party Cookies
 
@@ -36,8 +36,8 @@ Though eCoustics will take reasonable measures to ensure that users under the ag
 
 eCoustics, LLC  
 Attn: Brian Mitchell  
-900 W Olympic Blvd  
-Los Angeles, CA 90015  
+737 Olive Way  
+Seattle, WA 98101  
 USA
 
 Phone: (415) 935-4888 / Fax: (978) 285-5563
