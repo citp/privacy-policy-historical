@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mercolahealthyskin.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208124501id_/http%3A//media.mercola.com/assets/html/privacy/security_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercolahealthyskin.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614102717id_/http%3A//media.mercola.com/assets/html/privacy/security_privacy.html) for the most accurate reproduction.*
 
 # Mercola Policy on Security, Privacy and Website Terms of Use
 
-## Effective Date: 10/17/2014
+## Effective Date: 6/3/2016
 
-This policy sets forth the type of information [Mercola.com](http://www.mercola.com/) collects from you via this website: [www.mercola.com](http://www.mercola.com/) (the "Website"), the way we use such information, and the procedures we use to keep such information confidential.
+This policy sets forth the type of information [Mercola.com](http://www.mercola.com/) collects from you via this website: [www.mercola.com](http://www.mercola.com/) (the "Website"), the way we use such information, and the procedures we use to keep such information confidential. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. 
 
 [Mercola.com](http://www.mercola.com/) takes every reasonable precaution to protect our users' personal information. When users submit sensitive information via the [Mercola.com](http://www.mercola.com/) website, their information is protected both online and off-line.
 
@@ -128,7 +128,7 @@ If you place a request for products or services, we use your personal informatio
 
 If [Mercola.com](http://www.mercola.com/) is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-We may also use or disclose information to resolve disputes or investigate problems. We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
+We may also use or disclose information to resolve disputes or investigate problems. We may disclose or access information whenever we believe in good faith that the law so requires, such as to comply with a litigation, or that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
 
 We may use your IP address to help diagnose problems with our servers, to manage our website and to enhance our site based on the usage pattern data we receive.
 
@@ -201,11 +201,17 @@ Our Site includes Social Media Features, such as the Facebook and Twitter button
 
 ^ Back to Top
 
+### Public Profiles
+
+The profile you create on your site will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal.
+
+^ Back to Top
+
 ### Third Party Advertising
 
-We do not accept any paid advertisements on Mercola.com. Any services or products recommended and/or offered in the newsletter or elsewhere on [Mercola.com](http://www.mercola.com/) have gone through extensive review before such recommendations, and based on that review were recommended and/or offered.
+We do not accept any paid advertisements on [Mercola.com](http://www.mercola.com/). Any services or products recommended and/or offered in the newsletter or elsewhere on [Mercola.com](http://www.mercola.com/) have gone through extensive review before such recommendations, and based on that review were recommended and/or offered.
 
-Google, as a third party vendor, uses cookies to serve ads on Mercola.com. Google's use of the DART cookie enables it to serve ads to [Mercola.com](http://www.mercola.com/) users based on their visit to [Mercola.com](http://www.mercola.com/) and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy
+Google, as a third party vendor, uses cookies to serve ads on [Mercola.com](http://www.mercola.com/). Google's use of the DART cookie enables it to serve ads to [Mercola.com](http://www.mercola.com/) users based on their visit to [Mercola.com](http://www.mercola.com/) and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of advertising messages. You will continue to receive generic ads.
 
@@ -223,7 +229,7 @@ We welcome feedback, questions, and comments about our products, services, and t
 
 [](https://privacy.truste.com/privacy-seal/Mercola-com/validation?rid=25d2a2d6-712e-4176-8b4f-67002e042b9f "TRUSTe online privacy certification")
 
-[Mercola.com](http://www.mercola.com/) has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.mercola.com.
+[Mercola.com](http://www.mercola.com/) has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.mercola.com](http://www.mercola.com/).
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
