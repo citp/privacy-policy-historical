@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the omegatheme.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030700id_/http%3A//www.omegatheme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omegatheme.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614112500id_/https%3A//www.omegatheme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OmegaTheme.com
 
 This privacy policy sets out how Omegatheme uses and protects any information that you give Omegatheme when you use this website. Omegatheme is committed to ensuring that your privacy is protected. We should ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-  * [General information](http://www.omegatheme.com/privacy-policy#pp-general)
-  * [Information collection and use](http://www.omegatheme.com/privacy-policy#pp-info-collection-use)
-  * [Security of Your Information](http://www.omegatheme.com/privacy-policy#pp-security-your-info)
-  * [Site Functionality](http://www.omegatheme.com/privacy-policy#pp-site-functionality)
-  * [How we contact you](http://www.omegatheme.com/privacy-policy#pp-how-we-contact)
-  * [Changing or corectting your personal information](http://www.omegatheme.com/privacy-policy#pp-change-your-info)
+  * [General information](https://www.omegatheme.com/privacy-policy#pp-general)
+  * [Information collection and use](https://www.omegatheme.com/privacy-policy#pp-info-collection-use)
+  * [Security of Your Information](https://www.omegatheme.com/privacy-policy#pp-security-your-info)
+  * [Site Functionality](https://www.omegatheme.com/privacy-policy#pp-site-functionality)
+  * [How we contact you](https://www.omegatheme.com/privacy-policy#pp-how-we-contact)
+  * [Changing or corectting your personal information](https://www.omegatheme.com/privacy-policy#pp-change-your-info)
 
 
 
