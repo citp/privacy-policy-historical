@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megabon.eu privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907060104id_/http%3A//www.megabon.eu/en/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megabon.eu privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614174614id_/http%3A//www.megabon.eu/en/pages/privacy-policy) for the most accurate reproduction.*
 
-# Lowest Prices For Hotel Packages In The World, Megabon
+# Privacy Policy - Megabon
 
 #### 1\. General
 
@@ -36,4 +36,4 @@ The Registered User must properly ensure the security and confidentiality of the
 
 #### 9\. Notification of Changes
 
-This Privacy Policy may be updated, revised or supplemented at any time, without prior warning or notice to the Registered User. By virtue of using the Seller’s website or ordering products from the Seller, following the changes of the Privacy Policy, the Registered User agrees in full extent with the changes. This Privacy Policy enters into force on 25 September 2012. 
+This Privacy Policy may be updated, revised or supplemented at any time, without prior warning or notice to the Registered User. By virtue of using the Seller’s website or ordering products from the Seller, following the changes of the Privacy Policy, the Registered User agrees in full extent with the changes. This Privacy Policy enters into force on 25 September 2012.
