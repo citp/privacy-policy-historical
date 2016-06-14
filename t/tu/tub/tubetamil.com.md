@@ -1,55 +1,153 @@
-> *The following text is extracted and transformed from the tubetamil.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808174750id_/http%3A//www.tubetamil.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubetamil.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614033517id_/http%3A//www.tubetamil.com/tubetamil-privacy-notice) for the most accurate reproduction.*
 
-# None
+# TubeTamil Privacy Notice | Tubetamil.com
 
-The TubeTamil Privacy Policy describes how TubeTamil and its subsidiaries treat personal information when you use TubeTamil services, including information provided when you use TubeTamil. In addition, the following describes privacy practices specific to TubeTamil. To understand how we treat the information you give us as you use TubeTamil, you should read this policy and theTubeTamil Privacy Policy.
+  
+The TubeTamil Privacy Policy describes how TubeTamil and its subsidiaries treat  
+personal information when you use TubeTamil services, including information  
+provided when you use TubeTamil. In addition, the following describes privacy  
+practices specific to TubeTamil. To understand how we treat the information you  
+give us as you use TubeTamil, you should read this policy and theTubeTamil  
+Privacy Policy.
 
  **  
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit networkadvertising.org.**  
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit networkadvertising.org.**
+
+###    
+Personal Information
+
+  * **Non-Account  
+Activity.**  
+You can watch videos on TubeTamil without having a TubeTamil Account. You  
+can also contact us about a particular video without having a TubeTamil  
+Account. 
+  * **  
+Account-Related Activity.**  
+Certain other activities on TubeTamil—like uploading videos, posting  
+comments, flagging videos, or watching restricted videos—require you to have  
+a TubeTamil Account. We ask for some personal information when you create a  
+TubeTamil Account, including your email address and a password, which is  
+used to protect your account from unauthorized access. 
+  * **Usage  
+Information.**  
+We may record information about your usage, such as when you use TubeTamil,  
+the channels, groups, and favorites you subscribe to, the contacts you  
+communicate with, the videos you watch, and the frequency and size of data  
+transfers, as well as information you display or click on in TubeTamil  
+(including UI elements, settings, and other information). If you are logged  
+in, we may associate that information with your account. We may use clear  
+GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track  
+which emails are opened by recipients. 
+  * **Content  
+Uploaded to Site.**  
+Any personal information or video content that you voluntarily disclose  
+online (on discussion boards, in messages and chat areas, within your  
+playback or profile pages, etc.) becomes publicly available and can be  
+collected and used by others. 
 
 
-###  Personal Information
 
-  * **Non-Account Activity.** You can watch videos on TubeTamil without having a TubeTamil Account. You can also contact us about a particular video without having a TubeTamil Account. 
-  * **Account-Related Activity.** Certain other activities on TubeTamil—like uploading videos, posting comments, flagging videos, or watching restricted videos—require you to have a TubeTamil Account. We ask for some personal information when you create a TubeTamil Account, including your email address and a password, which is used to protect your account from unauthorized access. 
-  * **Usage Information.** We may record information about your usage, such as when you use TubeTamil, the channels, groups, and favorites you subscribe to, the contacts you communicate with, the videos you watch, and the frequency and size of data transfers, as well as information you display or click on in TubeTamil (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account. We may use clear GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track which emails are opened by recipients. 
-  * **Content Uploaded to Site.** Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others. 
+###    
+Uses
+
+  * If you submit  
+personally identifiable information to us through the TubeTamil Sites, we  
+use your personal information to operate, maintain, and provide to you the  
+general and personalized features and functionality of the TubeTamil Sites,  
+and to process any flagging activity or correspondence you send to us.  
+
+  * Your account  
+name (not your email address) is displayed to other Users when you upload  
+videos or send messages through the TubeTamil Sites and other Users can  
+contact you through messages and comments. Any videos that you submit to the  
+TubeTamil Sites may be redistributed through the internet and other media  
+channels, and may be viewed by the general public. If you have enabled  
+Active Sharing, other users may see that you, as identified by your account  
+name (not your email address), are watching the same video. 
+  * We do not use  
+your email address or other personally identifiable information to send  
+commercial or marketing messages without your consent or except as part of a  
+specific program or feature for which you will have the ability to opt-in or  
+opt-out. We may, however, use your email address without further consent for  
+non-marketing or administrative purposes (such as notifying you of major  
+TubeTamil Site changes or for customer service purposes). 
+  * We use both  
+your personally identifiable information and certain  
+non-personally-identifiable information (such as anonymous user usage data,  
+cookies, IP addresses, browser type, clickstream data, etc.) to improve the  
+quality and design of the TubeTamil Sites and to create new features,  
+promotions, functionality, and services by storing, tracking, analyzing, and  
+processing user preferences and trends, as well as user activity and  
+communications. 
+  * We use cookies,  
+clear gifs, and log file information to: (a) store information so that you  
+will not have to re-enter it during your visit or the next time you visit  
+the TubeTamil Sites; (b) provide custom, personalized content and  
+information; (c) monitor the effectiveness of our marketing campaigns; (d)  
+monitor aggregate metrics such as total number of visitors, pages viewed,  
+etc.; and (e) track your entries, submissions, and status in promotions,  
+sweepstakes, and contests. If you download the TubeTamil Uploader, your copy  
+of the of the Uploader includes a unique application number. The unique  
+application number and information about your installation of the Uploader (e.g.  
+version number, language) will be sent to TubeTamil when the Uploader  
+automatically checks for updates. 
 
 
 
-###  Uses
+###    
+Your Choices
 
-  * If you submit personally identifiable information to us through the TubeTamil Sites, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of the TubeTamil Sites, and to process any flagging activity or correspondence you send to us. 
-  * Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the TubeTamil Sites and other Users can contact you through messages and comments. Any videos that you submit to the TubeTamil Sites may be redistributed through the internet and other media channels, and may be viewed by the general public. If you have enabled Active Sharing, other users may see that you, as identified by your account name (not your email address), are watching the same video. 
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major TubeTamil Site changes or for customer service purposes). 
-  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the TubeTamil Sites and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications. 
-  * We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the TubeTamil Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests. If you download the TubeTamil Uploader, your copy of the of the Uploader includes a unique application number. The unique application number and information about your installation of the Uploader (e.g. version number, language) will be sent to TubeTamil when the Uploader automatically checks for updates. 
-
-
-
-###  Your Choices
-
-  * You may, of course, decline to submit personally identifiable information through the TubeTamil Sites, in which case you can still view videos and explore the TubeTamil Sites, but TubeTamil may not be able to provide certain services to you. 
-  * You may update or correct your personal profile information and email preferences at any time.
-  * You may clear your viewing history at any time through the "Viewing History" feature. 
+  * You may, of  
+course, decline to submit personally identifiable information through the  
+TubeTamil Sites, in which case you can still view videos and explore the  
+TubeTamil Sites, but TubeTamil may not be able to provide certain services  
+to you. 
+  * You may update  
+or correct your personal profile information and email preferences at any  
+time.
+  * You may clear  
+your viewing history at any time through the "Viewing History" feature.  
 
 
 
-### Third-party Advertisers, Links to Other Sites
 
-TubeTamil allows other companies, called third-party ad servers or ad networks, to serve advertisements within the TubeTamil Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the TubeTamil Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+### Third-party Advertisers, Links  
+to Other Sites
 
-TubeTamil does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks TubeTamil to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the TubeTamil Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+  
+TubeTamil allows other companies, called third-party ad servers or ad networks,  
+to serve advertisements within the TubeTamil Sites. These third-party ad servers  
+or ad networks use technology to send, directly to your browser, the  
+advertisements and links that appear on the TubeTamil Sites. They automatically  
+receive your IP address when this happens. They may also use other technologies  
+(such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of  
+their advertisements and to personalize the advertising content you see.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. TubeTamil's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+  
+TubeTamil does not provide any personally identifiable information to these  
+third-party ad servers or ad networks without your consent or except as part of  
+a specific program or feature for which you will have the ability to opt-in or  
+opt-out. However, please note that if an advertiser asks TubeTamil to show an  
+advertisement to a certain audience (for example, men ages 18-34) or audience  
+segment (for example, men ages 18-24 who have viewed certain channels of  
+content) and you respond to that advertisement, the advertiser or ad-server may  
+conclude that you fit the description of the audience they are trying to reach.  
+The advertiser may also use information regarding your use of the TubeTamil  
+Sites, such as the number of times you viewed an ad (but not any personally  
+identifiable information), to determine which ads to deliver to you.
+
+  
+You should consult the respective privacy policies of these third-party ad  
+servers or ad networks for more information on their practices and for  
+instructions on how to opt-out of certain practices. TubeTamil’s privacy policy  
+does not apply to, and we cannot control the activities of, such other  
+advertisers or web sites.
 
 ### More Information
 
-For questions concerning the product or your account, please. For more information about our privacy practices, write to us at:
-
-[ tubetamil@hotmail.com](mailto:tubetamil@hotmail.com)  
   
-## Copyright (c) 2006-2007 TubeTamil. All rights reserved.   
-Designed by [Tubetamil](http://www.tubetamil.com/)
+For questions concerning the product or your account, please. For more  
+information about our privacy practices, write to us at:
 
-Muthumaari Amman
+[  
+tubetamil@hotmail.com](mailto:tubetamil@hotmail.com)
